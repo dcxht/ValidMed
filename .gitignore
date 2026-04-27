@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
+
+# Data files (large)
+pipeline/data/
+pipeline/*.log
+
+# PDFs
+pipeline/data/510k_pdfs/
+pipeline/data/denovo_pdfs/
+
+# OS
+.DS_Store
+paper/

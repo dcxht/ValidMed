@@ -1,0 +1,206 @@
+{
+  "total_devices": 1430,
+  "zero_pubmed_evidence": 482,
+  "zero_pubmed_evidence_pct": 33.7,
+  "zero_all_evidence": 482,
+  "zero_all_evidence_pct": 33.7,
+  "has_adverse_events": 44,
+  "has_recalls": 79,
+  "has_fda_summary": 0,
+  "avg_evidence_score": 11.6,
+  "by_year": {
+    "1995": {
+      "total": 2,
+      "zero_evidence": 1
+    },
+    "1997": {
+      "total": 1,
+      "zero_evidence": 1
+    },
+    "1998": {
+      "total": 2,
+      "zero_evidence": 0
+    },
+    "2001": {
+      "total": 2,
+      "zero_evidence": 2
+    },
+    "2002": {
+      "total": 1,
+      "zero_evidence": 0
+    },
+    "2004": {
+      "total": 1,
+      "zero_evidence": 1
+    },
+    "2005": {
+      "total": 1,
+      "zero_evidence": 1
+    },
+    "2006": {
+      "total": 1,
+      "zero_evidence": 1
+    },
+    "2008": {
+      "total": 5,
+      "zero_evidence": 3
+    },
+    "2010": {
+      "total": 2,
+      "zero_evidence": 2
+    },
+    "2011": {
+      "total": 3,
+      "zero_evidence": 2
+    },
+    "2012": {
+      "total": 5,
+      "zero_evidence": 4
+    },
+    "2013": {
+      "total": 4,
+      "zero_evidence": 1
+    },
+    "2014": {
+      "total": 6,
+      "zero_evidence": 2
+    },
+    "2015": {
+      "total": 6,
+      "zero_evidence": 5
+    },
+    "2016": {
+      "total": 18,
+      "zero_evidence": 8
+    },
+    "2017": {
+      "total": 27,
+      "zero_evidence": 8
+    },
+    "2018": {
+      "total": 65,
+      "zero_evidence": 24
+    },
+    "2019": {
+      "total": 80,
+      "zero_evidence": 24
+    },
+    "2020": {
+      "total": 114,
+      "zero_evidence": 33
+    },
+    "2021": {
+      "total": 130,
+      "zero_evidence": 33
+    },
+    "2022": {
+      "total": 162,
+      "zero_evidence": 45
+    },
+    "2023": {
+      "total": 226,
+      "zero_evidence": 71
+    },
+    "2024": {
+      "total": 235,
+      "zero_evidence": 77
+    },
+    "2025": {
+      "total": 331,
+      "zero_evidence": 133
+    }
+  },
+  "by_specialty": {
+    "Radiology": {
+      "total": 1094,
+      "zero_evidence": 354,
+      "avg_score": 11.2
+    },
+    "Gastroenterology-Urology": {
+      "total": 24,
+      "zero_evidence": 3,
+      "avg_score": 19.5
+    },
+    "Cardiovascular": {
+      "total": 136,
+      "zero_evidence": 46,
+      "avg_score": 11.9
+    },
+    "Anesthesiology": {
+      "total": 26,
+      "zero_evidence": 9,
+      "avg_score": 9.1
+    },
+    "Pathology": {
+      "total": 9,
+      "zero_evidence": 2,
+      "avg_score": 13.3
+    },
+    "Neurology": {
+      "total": 65,
+      "zero_evidence": 26,
+      "avg_score": 12.1
+    },
+    "General and Plastic Surgery": {
+      "total": 7,
+      "zero_evidence": 4,
+      "avg_score": 25.4
+    },
+    "Obstetrics and Gynecology": {
+      "total": 4,
+      "zero_evidence": 1,
+      "avg_score": 10.0
+    },
+    "Hematology": {
+      "total": 20,
+      "zero_evidence": 17,
+      "avg_score": 4.4
+    },
+    "Ophthalmic": {
+      "total": 10,
+      "zero_evidence": 0,
+      "avg_score": 53.5
+    },
+    "Orthopedic": {
+      "total": 5,
+      "zero_evidence": 5,
+      "avg_score": 0.0
+    },
+    "Microbiology": {
+      "total": 6,
+      "zero_evidence": 1,
+      "avg_score": 28.2
+    },
+    "Dental": {
+      "total": 5,
+      "zero_evidence": 2,
+      "avg_score": 11.6
+    },
+    "General Hospital": {
+      "total": 4,
+      "zero_evidence": 1,
+      "avg_score": 15.0
+    },
+    "Clinical Chemistry": {
+      "total": 9,
+      "zero_evidence": 6,
+      "avg_score": 0.0
+    },
+    "Clinical Toxcicology": {
+      "total": 5,
+      "zero_evidence": 4,
+      "avg_score": 0.0
+    },
+    "Immunology": {
+      "total": 1,
+      "zero_evidence": 1,
+      "avg_score": 0.0
+    }
+  },
+  "by_device_class": {
+    "null": {
+      "total": 1430,
+      "zero_evidence": 482
+    }
+  }
+}
