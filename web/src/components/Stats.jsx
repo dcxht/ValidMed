@@ -18,7 +18,8 @@ export default function Stats({ devices }) {
     { label: "No Published Evidence", value: `${noPublished} (${((noPublished / total) * 100).toFixed(0)}%)`, alert: true },
     { label: "No Evidence From Any Source", value: `${noAnyEvidence} (${((noAnyEvidence / total) * 100).toFixed(0)}%)`, alert: noAnyEvidence / total > 0.2 },
     { label: "Has Regulatory Data (510k/De Novo)", value: hasRegulatory },
-    { label: "Adverse Events / Recalls", value: `${hasEvents} / ${hasRecalls}` },
+    { label: "Adverse Events Reported", value: hasEvents },
+    { label: "Device Recalls", value: hasRecalls },
   ];
 
   if (mature.length > 0) {
