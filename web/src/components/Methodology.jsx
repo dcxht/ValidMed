@@ -57,17 +57,9 @@ export default function Methodology({ onBack }) {
               </td>
             </tr>
             <tr>
-              <td>ClinicalTrials.gov</td>
+              <td>openFDA Recalls</td>
               <td>
-                Registered clinical trials involving the device, including trial status and
-                whether results have been posted.
-              </td>
-            </tr>
-            <tr>
-              <td>Semantic Scholar</td>
-              <td>
-                Broader academic coverage including conference papers, preprints, and
-                publications in venues not indexed by PubMed.
+                Device recall records including reason for recall, status, and root cause.
               </td>
             </tr>
           </tbody>
@@ -109,12 +101,13 @@ export default function Methodology({ onBack }) {
             </p>
           </div>
           <div className="tier-item">
-            <div className="tier-badge tier-conference">Tier 4: Conference / Preprint</div>
+            <div className="tier-badge tier-conference">Relevance Validation</div>
             <p>
-              Semantic Scholar is queried to capture conference papers (e.g., MICCAI, RSNA,
-              ISBI) and preprints (e.g., arXiv, medRxiv) that reference the device. These
-              venues are important in medical AI but are not indexed by PubMed. Results are
-              displayed separately and clearly labeled.
+              All matched publications undergo automated relevance validation to remove
+              false positives. An LLM classifier reviews each article title against the
+              device name and manufacturer to confirm the paper is actually about the
+              specific device, not a coincidental name match. Results of this validation
+              are reported with inter-rater agreement statistics.
             </p>
           </div>
         </div>
@@ -134,9 +127,9 @@ export default function Methodology({ onBack }) {
             algorithms or earlier versions. Displayed with reduced prominence.
           </li>
           <li>
-            <strong>Conference / preprint evidence</strong> — academic work from Semantic
-            Scholar that may not have undergone full peer review. Displayed separately with
-            clear labeling.
+            <strong>Validated vs unvalidated</strong> — all matched articles are reviewed
+            for relevance. Articles confirmed as irrelevant (false positive name matches)
+            are removed from evidence counts and scoring.
           </li>
         </ul>
         <p>
@@ -158,8 +151,9 @@ export default function Methodology({ onBack }) {
       <section className="methodology-section">
         <h3>Scoring Methodology</h3>
         <p>
-          Each device receives a transparent evidence score from 0 to 100, composed of five
-          independently calculated components:
+          Each device receives a transparent evidence score from 0 to 100, composed of four
+          independently calculated components. Only direct-match evidence contributes to
+          the score; company-tier evidence is displayed separately but does not inflate scores.
         </p>
         <table className="methodology-table">
           <thead>
@@ -172,43 +166,36 @@ export default function Methodology({ onBack }) {
           <tbody>
             <tr>
               <td>Evidence Volume</td>
-              <td>40</td>
+              <td>45</td>
               <td>
-                Based on number of publications found: 0 publications = 0 pts, 1-2 = 10 pts,
-                3-5 = 20 pts, 6-10 = 30 pts, 11+ = 40 pts.
+                Based on number of direct-match publications: 0 = 0 pts, 1-2 = 12 pts,
+                3-5 = 24 pts, 6-10 = 35 pts, 11+ = 45 pts.
               </td>
             </tr>
             <tr>
               <td>Study Quality</td>
-              <td>20</td>
+              <td>25</td>
               <td>
-                Based on the highest-quality study type found. RCTs score highest (10),
-                followed by meta-analyses (8), clinical trials (7), systematic reviews (6).
-                The best study type score is doubled, capped at 20.
-              </td>
-            </tr>
-            <tr>
-              <td>Independence</td>
-              <td>15</td>
-              <td>
-                Whether evidence includes independent (non-manufacturer) validation. 3+
-                independent studies = 15 pts, 1-2 = 8 pts, none = 0 pts.
+                Based on the highest-quality study type found in direct evidence.
+                RCTs score highest (10), meta-analyses (9), clinical trials (7),
+                clinical studies (6). Score is multiplied by 2.5, capped at 25.
               </td>
             </tr>
             <tr>
               <td>Safety Record</td>
               <td>15</td>
               <td>
-                Starts at 15 and deducts for adverse events. Deaths: -5 each (max -10).
-                Injuries: -2 each (max -5). Recalls: -3 each (max -6). Floor of 0.
+                No safety data = 0 pts (unknown is not safe). If safety data exists,
+                starts at 15 and deducts for adverse events: deaths -5 each (max -10),
+                injuries -2 each (max -5), recalls -3 each (max -6).
               </td>
             </tr>
             <tr>
               <td>Clinical Trials</td>
-              <td>10</td>
+              <td>15</td>
               <td>
-                Registered trial with posted results = 10 pts. Completed trial without
-                results = 6 pts. Registered but not completed = 3 pts. None = 0 pts.
+                Registered trial with posted results = 15 pts. Completed trial without
+                results = 10 pts. Registered but not completed = 5 pts. None = 0 pts.
               </td>
             </tr>
           </tbody>
@@ -226,8 +213,7 @@ export default function Methodology({ onBack }) {
           <li>
             <strong>PubMed coverage is incomplete.</strong> Many important medical AI
             publications appear exclusively at conferences (MICCAI, RSNA, ISBI, NeurIPS)
-            or on preprint servers. Semantic Scholar helps bridge this gap but may still miss
-            some work.
+            or on preprint servers that PubMed does not index.
           </li>
           <li>
             <strong>Device name matching is imperfect.</strong> Some devices have generic
