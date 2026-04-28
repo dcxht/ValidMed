@@ -40,8 +40,8 @@ def compute_score(
     direct_evidence = direct_confirmed + direct_maybe  # All direct for study type analysis
     all_evidence = evidence
 
-    # Weighted count: confirmed = 1, maybe = 0.5
-    n_direct = len(direct_confirmed) + len(direct_maybe) // 2
+    # Weighted count: confirmed = 1.0, maybe = 0.5
+    n_direct = len(direct_confirmed) + len(direct_maybe) / 2
     n_total = len(all_evidence)
 
     # 1. Evidence count (0-45 points) — based on DIRECT matches only
