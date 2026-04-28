@@ -56,7 +56,7 @@ export default function App() {
       <footer className="app-footer">
         <p>
           ValidMed — Verified AI Literature & Intelligence Database for Medical Devices.
-          Data sourced from FDA, PubMed, OpenAlex, MAUDE, and ClinicalTrials.gov.
+          Data sourced from FDA, PubMed, and openFDA MAUDE.
           Open source. Not affiliated with the FDA. <a href="https://github.com/dcxht/ValidMed" target="_blank" rel="noopener noreferrer" style={{color: 'var(--accent)'}}>GitHub</a>
         </p>
       </footer>
