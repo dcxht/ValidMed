@@ -16,6 +16,31 @@ from device_aliases import get_search_queries
 
 SKIP_NAMES = {"ct", "mri", "ai", "x-ray", "ecg", "ekg", "ultrasound", "dose", "software"}
 
+# Device names that are common English words or generic medical/technical terms.
+# These MUST be searched with company affiliation, never alone.
+GENERIC_NAMES = {
+    "rapid", "dose", "clear", "smart", "insight", "air", "view", "pulse",
+    "deep", "auto", "reveal", "impala", "precise", "prime", "elite",
+    "vision", "clinical", "health", "care", "scan", "detect", "alert",
+    "triage", "assist", "guide", "flow", "path", "link", "core", "life",
+    "vital", "swift", "bright", "pro", "max", "plus", "ultra", "nova",
+    "apex", "atlas", "echo", "aura", "wave", "beam", "star", "point",
+    "image", "reconstruction", "segmentation", "detection", "learning",
+    "diagnosis", "analysis", "processing", "enhancement", "contour",
+    "fusion", "motion", "sync", "capture", "track", "monitor", "connect",
+    "studio", "workspace", "platform", "suite", "system", "module",
+}
+
+
+def _is_generic_name(device_name: str) -> bool:
+    """Check if a device name consists entirely of generic/common words."""
+    clean = _clean_name(device_name).lower()
+    words = set(re.findall(r'[a-z]+', clean))
+    # If ALL words in the name are generic, it's too ambiguous to search alone
+    if not words:
+        return True
+    return words.issubset(GENERIC_NAMES)
+
 # Map FDA specialty panels to PubMed search terms
 SPECIALTY_TERMS = {
     "Radiology": "radiology OR imaging OR radiograph*",
@@ -202,11 +227,21 @@ def enrich_device(device_name: str, company: str, specialty: str = "") -> list[d
 
     total_pubmed_count = 0
 
+    is_generic = _is_generic_name(device_name)
+
     # Tier 0 (alias expansion): search each alias from the curated table
+    # For generic names, aliases must include company context
     alias_queries = get_search_queries(device_name, company)
     for aq in alias_queries:
-        # Each alias query is already quoted; append [tiab] for PubMed
-        pmids_a, total_a = _search(f'{aq}[tiab]')
+        if is_generic:
+            # Generic name: require company in affiliation
+            if company_clean and len(company_clean) > 3:
+                query = f'{aq}[tiab] AND "{company_clean}"[ad]'
+            else:
+                continue  # Skip generic aliases without company
+        else:
+            query = f'{aq}[tiab]'
+        pmids_a, total_a = _search(query)
         if total_a > total_pubmed_count:
             total_pubmed_count = total_a
         time.sleep(PUBMED_DELAY)
@@ -216,16 +251,23 @@ def enrich_device(device_name: str, company: str, specialty: str = "") -> list[d
 
     # Tier 1: Exact device name in title/abstract
     if _is_searchable(clean):
-        pmids, total = _search(f'"{clean}"[tiab]')
-        total_pubmed_count = total
-        time.sleep(PUBMED_DELAY)
-        for p in pmids:
-            all_pmids[p] = "direct"
+        if is_generic and company_clean and len(company_clean) > 3:
+            # Generic name: MUST include company affiliation
+            query1 = f'"{clean}"[tiab] AND "{company_clean}"[ad]'
+        elif is_generic:
+            query1 = None  # Can't search generic name without company
+        else:
+            query1 = f'"{clean}"[tiab]'
 
-    # Tier 2: Company name + device name (catches cases where device is
-    # referenced differently but company is mentioned)
+        if query1:
+            pmids, total = _search(query1)
+            total_pubmed_count = total
+            time.sleep(PUBMED_DELAY)
+            for p in pmids:
+                all_pmids[p] = "direct"
+
+    # Tier 2: Company name + device name
     if company_clean and len(company_clean) > 3:
-        # Only if tier 1 found few results
         if len(all_pmids) < 5:
             query2 = f'"{company_clean}"[ad] AND "{clean}"[tiab]'
             if _is_searchable(clean):
