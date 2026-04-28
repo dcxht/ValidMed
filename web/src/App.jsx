@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import DeviceTable from "./components/DeviceTable";
 import DeviceDetail from "./components/DeviceDetail";
 import Methodology from "./components/Methodology";
@@ -60,6 +61,7 @@ export default function App() {
           Open source. Not affiliated with the FDA. <a href="https://github.com/dcxht/ValidMed" target="_blank" rel="noopener noreferrer" style={{color: 'var(--accent)'}}>GitHub</a>
         </p>
       </footer>
+      <Analytics />
     </div>
   );
 }
