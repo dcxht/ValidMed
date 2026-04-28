@@ -79,8 +79,9 @@ body {
   flex-wrap: wrap;
 }
 .stat-card {
-  flex: 1;
+  flex: 1 1 160px;
   min-width: 140px;
+  max-width: 240px;
   padding: 14px 16px;
   background: var(--surface);
   border: 1px solid var(--border);
@@ -146,6 +147,12 @@ body {
 .use-case-cell {
   font-size: 12px;
   color: var(--text-secondary);
+}
+.device-name-cell {
+  max-width: 250px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* Table */
