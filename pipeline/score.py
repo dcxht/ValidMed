@@ -34,10 +34,14 @@ def compute_score(
     """
     # Only count direct-match evidence for scoring
     # Company-tier is shown separately but doesn't inflate the score
-    direct_evidence = [e for e in evidence if e.get("match_tier") == "direct"]
-    all_evidence = evidence  # Keep for display
+    # "maybe" relevance articles count at 50% weight (2 maybe = 1 confirmed)
+    direct_confirmed = [e for e in evidence if e.get("match_tier") == "direct" and e.get("relevance") != "maybe"]
+    direct_maybe = [e for e in evidence if e.get("match_tier") == "direct" and e.get("relevance") == "maybe"]
+    direct_evidence = direct_confirmed + direct_maybe  # All direct for study type analysis
+    all_evidence = evidence
 
-    n_direct = len(direct_evidence)
+    # Weighted count: confirmed = 1, maybe = 0.5
+    n_direct = len(direct_confirmed) + len(direct_maybe) // 2
     n_total = len(all_evidence)
 
     # 1. Evidence count (0-45 points) — based on DIRECT matches only

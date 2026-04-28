@@ -33,13 +33,28 @@ GENERIC_NAMES = {
 
 
 def _is_generic_name(device_name: str) -> bool:
-    """Check if a device name consists entirely of generic/common words."""
+    """Check if a device name is too ambiguous to search alone.
+
+    A name is generic if:
+    - All words are common English/medical terms, OR
+    - The name is very short (1-2 words), OR
+    - The name contains only common technical terms
+    """
     clean = _clean_name(device_name).lower()
-    words = set(re.findall(r'[a-z]+', clean))
-    # If ALL words in the name are generic, it's too ambiguous to search alone
+    words = [w for w in re.findall(r'[a-z]+', clean) if len(w) > 1]
+
     if not words:
         return True
-    return words.issubset(GENERIC_NAMES)
+    # All words are generic
+    if set(words).issubset(GENERIC_NAMES):
+        return True
+    # Name is only 1-2 meaningful words (high false positive risk)
+    if len(words) <= 2 and any(w in GENERIC_NAMES for w in words):
+        return True
+    # Name is a single short word (even if not in our list)
+    if len(words) == 1 and len(words[0]) <= 6:
+        return True
+    return False
 
 # Map FDA specialty panels to PubMed search terms
 SPECIALTY_TERMS = {
@@ -122,6 +137,55 @@ def _search(query: str, max_results: int = 100) -> tuple[list[str], int]:
             time.sleep(2 ** attempt)
 
     return [], 0
+
+
+def fetch_abstracts(pmids: list[str]) -> dict[str, str]:
+    """Fetch abstracts for a list of PMIDs via efetch XML. Returns {pmid: abstract_text}."""
+    if not pmids:
+        return {}
+
+    params = {
+        "db": "pubmed",
+        "id": ",".join(pmids),
+        "rettype": "abstract",
+        "retmode": "xml",
+    }
+    if NCBI_API_KEY:
+        params["api_key"] = NCBI_API_KEY
+
+    for attempt in range(3):
+        try:
+            resp = httpx.get(f"{PUBMED_BASE}/efetch.fcgi", params=params, timeout=60)
+            if resp.status_code == 429:
+                time.sleep(2 ** attempt)
+                continue
+            resp.raise_for_status()
+            break
+        except Exception:
+            time.sleep(2 ** attempt)
+    else:
+        return {}
+
+    # Parse XML to extract abstracts per PMID
+    abstracts = {}
+    text = resp.text
+    # Split by article
+    import xml.etree.ElementTree as ET
+    try:
+        root = ET.fromstring(text)
+        for article in root.findall(".//PubmedArticle"):
+            pmid_el = article.find(".//PMID")
+            if pmid_el is None:
+                continue
+            pmid = pmid_el.text
+            abstract_parts = article.findall(".//AbstractText")
+            if abstract_parts:
+                abstract = " ".join(part.text or "" for part in abstract_parts)
+                abstracts[pmid] = abstract[:1000]  # Cap at 1000 chars
+    except ET.ParseError:
+        pass
+
+    return abstracts
 
 
 def fetch_pubmed_details(pmids: list[str]) -> list[dict]:
@@ -229,18 +293,23 @@ def enrich_device(device_name: str, company: str, specialty: str = "") -> list[d
 
     is_generic = _is_generic_name(device_name)
 
-    # Tier 0 (alias expansion): search each alias from the curated table
-    # For generic names, aliases must include company context
+    # Tier 0 (alias expansion): search curated aliases as exact phrases only
+    # Skip broad/free-text queries — only use properly quoted device names
     alias_queries = get_search_queries(device_name, company)
     for aq in alias_queries:
+        # Only use queries that are a single quoted phrase like "Viz LVO"
+        # Skip compound queries like '"Company" AI' or multi-term searches
+        aq_stripped = aq.strip()
+        if not (aq_stripped.startswith('"') and aq_stripped.endswith('"')):
+            continue  # Skip non-phrase queries (too broad)
+
         if is_generic:
-            # Generic name: require company in affiliation
             if company_clean and len(company_clean) > 3:
-                query = f'{aq}[tiab] AND "{company_clean}"[ad]'
+                query = f'{aq_stripped}[tiab] AND "{company_clean}"[ad]'
             else:
-                continue  # Skip generic aliases without company
+                continue
         else:
-            query = f'{aq}[tiab]'
+            query = f'{aq_stripped}[tiab]'
         pmids_a, total_a = _search(query)
         if total_a > total_pubmed_count:
             total_pubmed_count = total_a

@@ -42,12 +42,32 @@ def validate_with_llm(device_name: str, company: str, specialty: str, articles: 
         return _heuristic_validate(device_name, company, articles)
 
     import httpx
+    from enrich_pubmed import fetch_abstracts
 
-    # Batch articles into groups of 20 to reduce API calls
+    # Fetch abstracts for all articles (critical: PubMed matched on abstracts
+    # but without them the LLM can only see titles, causing over-rejection)
+    all_pmids = [a.get("pmid", "") for a in articles if a.get("pmid")]
+    abstracts = {}
+    if all_pmids:
+        # Batch abstract fetches in groups of 100
+        for ab_i in range(0, len(all_pmids), 100):
+            ab_batch = all_pmids[ab_i:ab_i+100]
+            abstracts.update(fetch_abstracts(ab_batch))
+            time.sleep(0.2)
+
+    # Batch articles into groups of 10 (smaller batches since we include abstracts)
     validated = []
-    for i in range(0, len(articles), 20):
-        batch = articles[i:i+20]
-        titles = "\n".join(f"{j+1}. {a['title']}" for j, a in enumerate(batch))
+    for i in range(0, len(articles), 10):
+        batch = articles[i:i+10]
+        entries = []
+        for j, a in enumerate(batch):
+            pmid = a.get("pmid", "")
+            abstract = abstracts.get(pmid, "")
+            if abstract:
+                entries.append(f"{j+1}. TITLE: {a['title']}\n   ABSTRACT: {abstract[:500]}")
+            else:
+                entries.append(f"{j+1}. TITLE: {a['title']}")
+        article_text = "\n\n".join(entries)
 
         prompt = f"""You are validating whether PubMed articles are about a specific FDA-cleared medical device.
 
@@ -55,13 +75,13 @@ Device: {device_name}
 Company: {company}
 Specialty: {specialty}
 
-For each article title below, respond with ONLY the number and one of: RELEVANT, MAYBE, IRRELEVANT
-- RELEVANT: The paper is specifically about this device or directly evaluates it
-- MAYBE: The paper is about the general technology or company but not this specific device
-- IRRELEVANT: The paper has nothing to do with this device (coincidental name match)
+For each article below (title and abstract), respond with ONLY the number and one of: RELEVANT, MAYBE, IRRELEVANT
+- RELEVANT: The paper specifically studies, evaluates, or validates this device (mentions it by name or clearly refers to it)
+- MAYBE: The paper is about the same technology area or company but does not clearly reference this specific device
+- IRRELEVANT: The paper has nothing to do with this device (coincidental word match)
 
 Articles:
-{titles}
+{article_text}
 
 Respond in format:
 1. RELEVANT
@@ -186,9 +206,9 @@ def run_validation(data_path: str, min_pubs: int = 0, dry_run: bool = False):
     from score import compute_score
     for device in devices:
         evidence = device.get("evidence", [])
-        # Only keep articles confirmed as relevant
-        # "maybe" and "irrelevant" are both removed from scoring
-        cleaned = [e for e in evidence if e.get("relevance") == "relevant" or e.get("relevance") is None]
+        # Keep relevant and maybe, remove only irrelevant
+        # Maybe articles are kept in the data but tagged for the dashboard
+        cleaned = [e for e in evidence if e.get("relevance") != "irrelevant"]
         device["evidence"] = cleaned
 
         # Recompute score
