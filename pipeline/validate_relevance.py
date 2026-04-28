@@ -69,16 +69,23 @@ def validate_with_llm(device_name: str, company: str, specialty: str, articles: 
                 entries.append(f"{j+1}. TITLE: {a['title']}")
         article_text = "\n\n".join(entries)
 
-        prompt = f"""You are validating whether PubMed articles are about a specific FDA-cleared medical device.
+        # Get clinical use case for better context
+        from taxonomy import classify_device
+        use_case = classify_device(device_name, "", specialty)
 
-Device: {device_name}
+        prompt = f"""You are validating whether PubMed articles are about a SPECIFIC FDA-cleared medical device.
+
+Device name: {device_name}
 Company: {company}
 Specialty: {specialty}
+Clinical use case: {use_case}
+
+IMPORTANT: A company may make MULTIPLE different devices. A paper must be about THIS SPECIFIC device and its specific clinical use case ({use_case}), not just any product from the same company.
 
 For each article below (title and abstract), respond with ONLY the number and one of: RELEVANT, MAYBE, IRRELEVANT
-- RELEVANT: The paper specifically studies, evaluates, or validates this device (mentions it by name or clearly refers to it)
-- MAYBE: The paper is about the same technology area or company but does not clearly reference this specific device
-- IRRELEVANT: The paper has nothing to do with this device (coincidental word match)
+- RELEVANT: The paper specifically studies or evaluates THIS device for {use_case} (not a different product by the same company)
+- MAYBE: The paper is about the same company or technology area but is about a DIFFERENT product or use case
+- IRRELEVANT: The paper has nothing to do with this device
 
 Articles:
 {article_text}
