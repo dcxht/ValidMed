@@ -1,13 +1,13 @@
 {
   "total_devices": 1430,
-  "zero_pubmed_evidence": 546,
-  "zero_pubmed_evidence_pct": 38.2,
-  "zero_all_evidence": 510,
-  "zero_all_evidence_pct": 35.7,
+  "zero_pubmed_evidence": 581,
+  "zero_pubmed_evidence_pct": 40.6,
+  "zero_all_evidence": 540,
+  "zero_all_evidence_pct": 37.8,
   "has_adverse_events": 32,
   "has_recalls": 42,
   "has_fda_summary": 1367,
-  "avg_evidence_score": 12.0,
+  "avg_evidence_score": 10.0,
   "by_year": {
     "1995": {
       "total": 2,
@@ -75,11 +75,11 @@
     },
     "2017": {
       "total": 27,
-      "zero_evidence": 10
+      "zero_evidence": 11
     },
     "2018": {
       "total": 65,
-      "zero_evidence": 29
+      "zero_evidence": 32
     },
     "2019": {
       "total": 80,
@@ -87,34 +87,34 @@
     },
     "2020": {
       "total": 114,
-      "zero_evidence": 46
+      "zero_evidence": 51
     },
     "2021": {
       "total": 130,
-      "zero_evidence": 43
+      "zero_evidence": 45
     },
     "2022": {
       "total": 162,
-      "zero_evidence": 56
+      "zero_evidence": 64
     },
     "2023": {
       "total": 226,
-      "zero_evidence": 69
+      "zero_evidence": 75
     },
     "2024": {
       "total": 235,
-      "zero_evidence": 69
+      "zero_evidence": 71
     },
     "2025": {
       "total": 331,
-      "zero_evidence": 119
+      "zero_evidence": 122
     }
   },
   "by_specialty": {
     "Radiology": {
       "total": 1094,
-      "zero_evidence": 378,
-      "avg_score": 11.4
+      "zero_evidence": 401,
+      "avg_score": 9.5
     },
     "Gastroenterology-Urology": {
       "total": 24,
@@ -123,13 +123,13 @@
     },
     "Cardiovascular": {
       "total": 136,
-      "zero_evidence": 49,
-      "avg_score": 16.8
+      "zero_evidence": 54,
+      "avg_score": 13.2
     },
     "Anesthesiology": {
       "total": 26,
       "zero_evidence": 9,
-      "avg_score": 5.8
+      "avg_score": 5.0
     },
     "Pathology": {
       "total": 9,
@@ -138,8 +138,8 @@
     },
     "Neurology": {
       "total": 65,
-      "zero_evidence": 30,
-      "avg_score": 8.4
+      "zero_evidence": 31,
+      "avg_score": 6.5
     },
     "General and Plastic Surgery": {
       "total": 7,
@@ -154,7 +154,7 @@
     "Hematology": {
       "total": 20,
       "zero_evidence": 16,
-      "avg_score": 4.8
+      "avg_score": 4.2
     },
     "Ophthalmic": {
       "total": 10,
@@ -169,7 +169,7 @@
     "Microbiology": {
       "total": 6,
       "zero_evidence": 1,
-      "avg_score": 28.5
+      "avg_score": 27.3
     },
     "Dental": {
       "total": 5,
@@ -183,13 +183,13 @@
     },
     "Clinical Chemistry": {
       "total": 9,
-      "zero_evidence": 6,
-      "avg_score": 5.1
+      "zero_evidence": 7,
+      "avg_score": 3.2
     },
     "Clinical Toxcicology": {
       "total": 5,
       "zero_evidence": 3,
-      "avg_score": 5.8
+      "avg_score": 3.4
     },
     "Immunology": {
       "total": 1,
@@ -200,11 +200,11 @@
   "by_device_class": {
     "2": {
       "total": 1373,
-      "zero_evidence": 491
+      "zero_evidence": 518
     },
     "null": {
       "total": 54,
-      "zero_evidence": 16
+      "zero_evidence": 19
     },
     "U": {
       "total": 1,
