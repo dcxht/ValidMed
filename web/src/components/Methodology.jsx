@@ -141,7 +141,17 @@ export default function Methodology({ onBack }) {
         </ul>
         <p>
           Study types are classified where possible (RCT, clinical trial, meta-analysis,
-          systematic review, case report, etc.) based on PubMed publication type metadata.
+          systematic review, case report, etc.) based on PubMed publication type metadata
+          supplemented by title keyword analysis to catch clinical trials and RCTs not tagged
+          by PubMed indexers.
+        </p>
+        <p>
+          All matched publications undergo automated relevance validation to remove false
+          positive matches (e.g., a device named "Rapid" matching papers that use "rapid"
+          as an adjective). Devices with generic or common English names are searched only
+          in conjunction with the manufacturer's name to prevent spurious matches. A curated
+          alias table maps the top 50 most widely deployed devices to their known commercial
+          names, research references, and legacy names.
         </p>
       </section>
 
