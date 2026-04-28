@@ -186,8 +186,9 @@ def run_validation(data_path: str, min_pubs: int = 0, dry_run: bool = False):
     from score import compute_score
     for device in devices:
         evidence = device.get("evidence", [])
-        # Keep relevant and maybe, remove irrelevant
-        cleaned = [e for e in evidence if e.get("relevance") != "irrelevant"]
+        # Only keep articles confirmed as relevant
+        # "maybe" and "irrelevant" are both removed from scoring
+        cleaned = [e for e in evidence if e.get("relevance") == "relevant" or e.get("relevance") is None]
         device["evidence"] = cleaned
 
         # Recompute score

@@ -1,13 +1,13 @@
 {
   "total_devices": 1430,
-  "zero_pubmed_evidence": 547,
-  "zero_pubmed_evidence_pct": 38.3,
-  "zero_all_evidence": 547,
-  "zero_all_evidence_pct": 38.3,
+  "zero_pubmed_evidence": 1033,
+  "zero_pubmed_evidence_pct": 72.2,
+  "zero_all_evidence": 1033,
+  "zero_all_evidence_pct": 72.2,
   "has_adverse_events": 41,
   "has_recalls": 59,
   "has_fda_summary": 0,
-  "avg_evidence_score": 21.4,
+  "avg_evidence_score": 6.6,
   "by_year": {
     "1995": {
       "total": 2,
@@ -19,7 +19,7 @@
     },
     "1998": {
       "total": 2,
-      "zero_evidence": 0
+      "zero_evidence": 1
     },
     "2001": {
       "total": 2,
@@ -27,7 +27,7 @@
     },
     "2002": {
       "total": 1,
-      "zero_evidence": 0
+      "zero_evidence": 1
     },
     "2004": {
       "total": 1,
@@ -39,7 +39,7 @@
     },
     "2006": {
       "total": 1,
-      "zero_evidence": 0
+      "zero_evidence": 1
     },
     "2008": {
       "total": 5,
@@ -63,7 +63,7 @@
     },
     "2014": {
       "total": 6,
-      "zero_evidence": 3
+      "zero_evidence": 5
     },
     "2015": {
       "total": 6,
@@ -71,95 +71,95 @@
     },
     "2016": {
       "total": 18,
-      "zero_evidence": 5
+      "zero_evidence": 10
     },
     "2017": {
       "total": 27,
-      "zero_evidence": 10
+      "zero_evidence": 19
     },
     "2018": {
       "total": 65,
-      "zero_evidence": 24
+      "zero_evidence": 44
     },
     "2019": {
       "total": 80,
-      "zero_evidence": 27
+      "zero_evidence": 56
     },
     "2020": {
       "total": 114,
-      "zero_evidence": 32
+      "zero_evidence": 79
     },
     "2021": {
       "total": 130,
-      "zero_evidence": 39
+      "zero_evidence": 93
     },
     "2022": {
       "total": 162,
-      "zero_evidence": 53
+      "zero_evidence": 120
     },
     "2023": {
       "total": 226,
-      "zero_evidence": 96
+      "zero_evidence": 169
     },
     "2024": {
       "total": 235,
-      "zero_evidence": 91
+      "zero_evidence": 160
     },
     "2025": {
       "total": 331,
-      "zero_evidence": 143
+      "zero_evidence": 251
     }
   },
   "by_specialty": {
     "Radiology": {
       "total": 1094,
-      "zero_evidence": 392,
-      "avg_score": 21.6
+      "zero_evidence": 799,
+      "avg_score": 5.6
     },
     "Gastroenterology-Urology": {
       "total": 24,
-      "zero_evidence": 0,
-      "avg_score": 37.8
+      "zero_evidence": 15,
+      "avg_score": 15.3
     },
     "Cardiovascular": {
       "total": 136,
-      "zero_evidence": 57,
-      "avg_score": 26.1
+      "zero_evidence": 94,
+      "avg_score": 11.7
     },
     "Anesthesiology": {
       "total": 26,
-      "zero_evidence": 13,
-      "avg_score": 12.8
+      "zero_evidence": 19,
+      "avg_score": 5.5
     },
     "Pathology": {
       "total": 9,
-      "zero_evidence": 4,
-      "avg_score": 21.6
+      "zero_evidence": 6,
+      "avg_score": 10.4
     },
     "Neurology": {
       "total": 65,
-      "zero_evidence": 39,
-      "avg_score": 10.4
+      "zero_evidence": 51,
+      "avg_score": 3.6
     },
     "General and Plastic Surgery": {
       "total": 7,
       "zero_evidence": 4,
-      "avg_score": 23.3
+      "avg_score": 21.7
     },
     "Obstetrics and Gynecology": {
       "total": 4,
-      "zero_evidence": 1,
-      "avg_score": 18.5
+      "zero_evidence": 2,
+      "avg_score": 4.2
     },
     "Hematology": {
       "total": 20,
       "zero_evidence": 16,
-      "avg_score": 6.9
+      "avg_score": 5.8
     },
     "Ophthalmic": {
       "total": 10,
-      "zero_evidence": 0,
-      "avg_score": 49.5
+      "zero_evidence": 2,
+      "avg_score": 41.1
     },
     "Orthopedic": {
       "total": 5,
@@ -169,17 +169,17 @@
     "Microbiology": {
       "total": 6,
       "zero_evidence": 1,
-      "avg_score": 33.0
+      "avg_score": 24.7
     },
     "Dental": {
       "total": 5,
-      "zero_evidence": 2,
-      "avg_score": 12.6
+      "zero_evidence": 4,
+      "avg_score": 3.4
     },
     "General Hospital": {
       "total": 4,
-      "zero_evidence": 0,
-      "avg_score": 25.2
+      "zero_evidence": 2,
+      "avg_score": 14.0
     },
     "Clinical Chemistry": {
       "total": 9,
@@ -189,7 +189,7 @@
     "Clinical Toxcicology": {
       "total": 5,
       "zero_evidence": 3,
-      "avg_score": 7.6
+      "avg_score": 5.2
     },
     "Immunology": {
       "total": 1,
@@ -200,7 +200,7 @@
   "by_device_class": {
     "null": {
       "total": 1430,
-      "zero_evidence": 547
+      "zero_evidence": 1033
     }
   }
 }
