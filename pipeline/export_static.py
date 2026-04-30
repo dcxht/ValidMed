@@ -190,7 +190,7 @@ def _compute_aggregate_stats(devices: list[dict]) -> dict:
     # By claim category
     by_claim = {}
     for d in devices:
-        cat = d.get("claim_category") or "unknown"
+        cat = d.get("claim_category") or "no_pdf"
         if cat not in by_claim:
             by_claim[cat] = {"total": 0, "concern_zone": 0}
         by_claim[cat]["total"] += 1
@@ -200,7 +200,7 @@ def _compute_aggregate_stats(devices: list[dict]) -> dict:
     # By validation design
     by_validation = {}
     for d in devices:
-        vd = d.get("validation_design") or "unknown"
+        vd = d.get("validation_design") or "no_pdf"
         if vd not in by_validation:
             by_validation[vd] = 0
         by_validation[vd] += 1
@@ -227,14 +227,17 @@ def _compute_aggregate_stats(devices: list[dict]) -> dict:
         if d.get("is_concern_zone"):
             by_specialty[spec]["concern_zone"] += 1
 
+    devices_with_claims = sum(1 for d in devices if d.get("claim_category") and d["claim_category"] != "no_pdf")
+
     return {
         "total_devices": total,
+        "devices_with_claims": devices_with_claims,
         "concern_zone": concern_zone,
-        "concern_zone_pct": round(concern_zone / total * 100, 1),
+        "concern_zone_pct": round(concern_zone / devices_with_claims * 100, 1) if devices_with_claims else 0,
         "bench_only": bench_only,
-        "bench_only_pct": round(bench_only / total * 100, 1),
+        "bench_only_pct": round(bench_only / devices_with_claims * 100, 1) if devices_with_claims else 0,
         "has_performance_metrics": has_metrics,
-        "has_performance_metrics_pct": round(has_metrics / total * 100, 1),
+        "has_performance_metrics_pct": round(has_metrics / devices_with_claims * 100, 1) if devices_with_claims else 0,
         "has_adverse_events": has_events,
         "has_recalls": has_recalls,
         "by_claim_category": by_claim,

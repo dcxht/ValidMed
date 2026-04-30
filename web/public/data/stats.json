@@ -1,11 +1,12 @@
 {
   "total_devices": 1430,
+  "devices_with_claims": 1293,
   "concern_zone": 252,
-  "concern_zone_pct": 17.6,
+  "concern_zone_pct": 19.5,
   "bench_only": 959,
-  "bench_only_pct": 67.1,
+  "bench_only_pct": 74.2,
   "has_performance_metrics": 339,
-  "has_performance_metrics_pct": 23.7,
+  "has_performance_metrics_pct": 26.2,
   "has_adverse_events": 32,
   "has_recalls": 42,
   "by_claim_category": {
@@ -33,7 +34,7 @@
       "total": 58,
       "concern_zone": 47
     },
-    "unknown": {
+    "no_pdf": {
       "total": 137,
       "concern_zone": 0
     },
@@ -48,7 +49,7 @@
     "none": 108,
     "retrospective_single": 34,
     "prospective_multi": 54,
-    "unknown": 129,
+    "no_pdf": 129,
     "prospective_single": 25,
     "rct": 3
   },

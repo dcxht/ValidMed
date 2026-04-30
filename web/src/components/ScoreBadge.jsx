@@ -27,7 +27,7 @@ const BADGE_STYLE = {
 };
 
 export function ClaimBadge({ claimCategory }) {
-  if (!claimCategory) return <span style={{ ...BADGE_STYLE, background: "#f3f4f6", color: "#6b7280", border: "1px solid #d1d5db" }}>Unknown</span>;
+  if (!claimCategory || claimCategory === "no_pdf" || claimCategory === "assistive") return <span style={{ ...BADGE_STYLE, background: "#f3f4f6", color: "#6b7280", border: "1px solid #d1d5db" }}>{claimCategory === "no_pdf" ? "No PDF" : claimCategory === "assistive" ? "Assistive" : "N/A"}</span>;
   const c = CLAIM_CONFIG[claimCategory] || CLAIM_CONFIG.enhancement;
   return (
     <span style={{ ...BADGE_STYLE, background: c.bg, color: c.text, border: `1px solid ${c.border}` }}>
@@ -37,7 +37,7 @@ export function ClaimBadge({ claimCategory }) {
 }
 
 export function EvidenceBadge({ validationDesign }) {
-  if (!validationDesign) return <span style={{ ...BADGE_STYLE, background: "#f3f4f6", color: "#6b7280", border: "1px solid #d1d5db" }}>Unknown</span>;
+  if (!validationDesign || validationDesign === "no_pdf") return <span style={{ ...BADGE_STYLE, background: "#f3f4f6", color: "#6b7280", border: "1px solid #d1d5db" }}>{validationDesign === "no_pdf" ? "No PDF" : "N/A"}</span>;
   const c = EVIDENCE_CONFIG[validationDesign] || EVIDENCE_CONFIG.none;
   return (
     <span style={{ ...BADGE_STYLE, background: c.bg, color: c.text, border: `1px solid ${c.border}` }}>
