@@ -2,17 +2,19 @@ export default function Stats({ devices }) {
   if (!devices || devices.length === 0) return null;
 
   const total = devices.length;
+  const withClaims = devices.filter((d) => d.claim_category && d.claim_category !== "no_pdf").length;
   const concernZone = devices.filter((d) => d.is_concern_zone).length;
   const benchOnly = devices.filter((d) => d.validation_design === "none" || d.validation_design === "bench_only").length;
   const hasMetrics = devices.filter((d) => d.sensitivity != null || d.specificity != null || d.auc != null).length;
   const hasEvents = devices.filter((d) => d.safety_event_count > 0).length;
   const hasRecalls = devices.filter((d) => d.recall_count > 0).length;
+  const denom = withClaims || total;
 
   const stats = [
-    { label: "Total FDA-Cleared AI Devices", value: total.toLocaleString() },
-    { label: "In Concern Zone", value: `${concernZone} (${((concernZone / total) * 100).toFixed(1)}%)`, alert: true },
-    { label: "Bench Testing Only", value: `${benchOnly} (${((benchOnly / total) * 100).toFixed(0)}%)` },
-    { label: "Has Performance Metrics", value: `${hasMetrics} (${((hasMetrics / total) * 100).toFixed(0)}%)` },
+    { label: "FDA-Cleared AI Devices", value: `${total.toLocaleString()} (${withClaims} analyzed)` },
+    { label: "In Concern Zone", value: `${concernZone} (${((concernZone / denom) * 100).toFixed(1)}%)`, alert: true },
+    { label: "Bench Testing Only", value: `${benchOnly} (${((benchOnly / denom) * 100).toFixed(0)}%)` },
+    { label: "Has Performance Metrics", value: `${hasMetrics} (${((hasMetrics / denom) * 100).toFixed(0)}%)` },
     { label: "Adverse Events / Recalls", value: `${hasEvents} / ${hasRecalls}` },
   ];
 
