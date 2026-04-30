@@ -1,0 +1,227 @@
+{
+  "total_devices": 1430,
+  "concern_zone": 252,
+  "concern_zone_pct": 17.6,
+  "bench_only": 959,
+  "bench_only_pct": 67.1,
+  "has_performance_metrics": 339,
+  "has_performance_metrics_pct": 23.7,
+  "has_adverse_events": 32,
+  "has_recalls": 42,
+  "by_claim_category": {
+    "enhancement": {
+      "total": 265,
+      "concern_zone": 0
+    },
+    "quantification": {
+      "total": 543,
+      "concern_zone": 0
+    },
+    "detection": {
+      "total": 229,
+      "concern_zone": 141
+    },
+    "triage": {
+      "total": 143,
+      "concern_zone": 44
+    },
+    "diagnosis": {
+      "total": 53,
+      "concern_zone": 20
+    },
+    "treatment": {
+      "total": 58,
+      "concern_zone": 47
+    },
+    "unknown": {
+      "total": 137,
+      "concern_zone": 0
+    },
+    "assistive": {
+      "total": 2,
+      "concern_zone": 0
+    }
+  },
+  "by_validation_design": {
+    "bench_only": 851,
+    "retrospective_multi": 226,
+    "none": 108,
+    "retrospective_single": 34,
+    "prospective_multi": 54,
+    "unknown": 129,
+    "prospective_single": 25,
+    "rct": 3
+  },
+  "by_year": {
+    "1995": {
+      "total": 2,
+      "concern_zone": 0
+    },
+    "1997": {
+      "total": 1,
+      "concern_zone": 0
+    },
+    "1998": {
+      "total": 2,
+      "concern_zone": 0
+    },
+    "2001": {
+      "total": 2,
+      "concern_zone": 0
+    },
+    "2002": {
+      "total": 1,
+      "concern_zone": 0
+    },
+    "2004": {
+      "total": 1,
+      "concern_zone": 0
+    },
+    "2005": {
+      "total": 1,
+      "concern_zone": 0
+    },
+    "2006": {
+      "total": 1,
+      "concern_zone": 0
+    },
+    "2008": {
+      "total": 5,
+      "concern_zone": 0
+    },
+    "2010": {
+      "total": 2,
+      "concern_zone": 0
+    },
+    "2011": {
+      "total": 3,
+      "concern_zone": 0
+    },
+    "2012": {
+      "total": 5,
+      "concern_zone": 1
+    },
+    "2013": {
+      "total": 4,
+      "concern_zone": 2
+    },
+    "2014": {
+      "total": 6,
+      "concern_zone": 0
+    },
+    "2015": {
+      "total": 6,
+      "concern_zone": 3
+    },
+    "2016": {
+      "total": 18,
+      "concern_zone": 4
+    },
+    "2017": {
+      "total": 27,
+      "concern_zone": 5
+    },
+    "2018": {
+      "total": 65,
+      "concern_zone": 8
+    },
+    "2019": {
+      "total": 80,
+      "concern_zone": 23
+    },
+    "2020": {
+      "total": 114,
+      "concern_zone": 19
+    },
+    "2021": {
+      "total": 130,
+      "concern_zone": 16
+    },
+    "2022": {
+      "total": 162,
+      "concern_zone": 25
+    },
+    "2023": {
+      "total": 226,
+      "concern_zone": 35
+    },
+    "2024": {
+      "total": 235,
+      "concern_zone": 37
+    },
+    "2025": {
+      "total": 331,
+      "concern_zone": 74
+    }
+  },
+  "by_specialty": {
+    "Radiology": {
+      "total": 1094,
+      "concern_zone": 140
+    },
+    "Gastroenterology-Urology": {
+      "total": 24,
+      "concern_zone": 14
+    },
+    "Cardiovascular": {
+      "total": 136,
+      "concern_zone": 45
+    },
+    "Anesthesiology": {
+      "total": 26,
+      "concern_zone": 9
+    },
+    "Pathology": {
+      "total": 9,
+      "concern_zone": 2
+    },
+    "Neurology": {
+      "total": 65,
+      "concern_zone": 23
+    },
+    "General and Plastic Surgery": {
+      "total": 7,
+      "concern_zone": 3
+    },
+    "Obstetrics and Gynecology": {
+      "total": 4,
+      "concern_zone": 0
+    },
+    "Hematology": {
+      "total": 20,
+      "concern_zone": 2
+    },
+    "Ophthalmic": {
+      "total": 10,
+      "concern_zone": 1
+    },
+    "Orthopedic": {
+      "total": 5,
+      "concern_zone": 3
+    },
+    "Microbiology": {
+      "total": 6,
+      "concern_zone": 5
+    },
+    "Dental": {
+      "total": 5,
+      "concern_zone": 2
+    },
+    "General Hospital": {
+      "total": 4,
+      "concern_zone": 1
+    },
+    "Clinical Chemistry": {
+      "total": 9,
+      "concern_zone": 0
+    },
+    "Clinical Toxcicology": {
+      "total": 5,
+      "concern_zone": 2
+    },
+    "Immunology": {
+      "total": 1,
+      "concern_zone": 0
+    }
+  }
+}
