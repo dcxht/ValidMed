@@ -8,7 +8,7 @@ export default function Methodology({ onBack }) {
       <h2 className="methodology-title">About ValidMed</h2>
 
       <section className="methodology-section">
-        <h3>What is ValidMed?</h3>
+        <h3>What is VALIDMed?</h3>
         <p>
           ValidMed is an independent transparency tool that analyzes the clinical
           claims and validation evidence reported in FDA 510(k) submissions for
@@ -216,7 +216,7 @@ export default function Methodology({ onBack }) {
         <h3>Contact</h3>
         <p>
           For questions, corrections, or collaboration inquiries, please use the
-          GitHub repository or email contact@validmed.org. If you believe a device's
+          GitHub repository or email chet@validmed.org. If you believe a device's
           claims or evidence are miscategorized, we welcome corrections.
         </p>
       </section>

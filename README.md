@@ -1,4 +1,4 @@
-# ValidMed
+# VALIDMed
 
 **Claims-Evidence Proportionality Audit for FDA AI/ML Medical Devices**
 
