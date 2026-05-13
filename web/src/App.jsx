@@ -7,7 +7,7 @@ import "./App.css";
 
 export default function App() {
   const [selectedDevice, setSelectedDevice] = useState(null);
-  const [view, setView] = useState("devices"); // "devices" | "methodology" | "questions"
+  const [view, setView] = useState("questions"); // "devices" | "methodology" | "questions"
 
   return (
     <div className="app">
@@ -24,26 +24,7 @@ export default function App() {
               Verified AI Literature & Intelligence Database for Medical Devices
             </p>
           </div>
-          <nav className="header-nav">
-            <button
-              className={`nav-btn ${view === "devices" ? "nav-btn-active" : ""}`}
-              onClick={() => { setView("devices"); setSelectedDevice(null); }}
-            >
-              Devices
-            </button>
-            <button
-              className={`nav-btn ${view === "questions" ? "nav-btn-active" : ""}`}
-              onClick={() => setView("questions")}
-            >
-              Questions
-            </button>
-            <button
-              className={`nav-btn ${view === "methodology" ? "nav-btn-active" : ""}`}
-              onClick={() => setView("methodology")}
-            >
-              Methodology
-            </button>
-          </nav>
+          {/* nav hidden for now */}
         </div>
       </header>
 
@@ -62,13 +43,7 @@ export default function App() {
         )}
       </main>
 
-      <footer className="app-footer">
-        <p>
-          ValidMed — Verified AI Literature & Intelligence Database for Medical Devices.
-          Claims and evidence extracted from FDA 510(k) submissions. Safety data from openFDA MAUDE.
-          Open source. Not affiliated with the FDA. <a href="https://github.com/dcxht/ValidMed" target="_blank" rel="noopener noreferrer" style={{color: 'var(--accent)'}}>GitHub</a>
-        </p>
-      </footer>
+      {/* footer hidden for now */}
     </div>
   );
 }
