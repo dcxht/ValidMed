@@ -15,7 +15,7 @@ export default function App() {
         <div className="header-row">
           <div>
             <h1 className="header-title-link">QBank</h1>
-            <p className="tagline">247 NBME-style neuro vignettes</p>
+            <p className="tagline">NBME-style clinical vignettes</p>
           </div>
           {/* nav hidden for now */}
         </div>
