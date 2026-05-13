@@ -706,6 +706,76 @@ body {
   margin-top: 2px;
 }
 
+/* Missed review button in top bar */
+.q-missed-btn {
+  background: #fee2e2;
+  color: #991b1b;
+  border: none;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-left: 6px;
+}
+.q-missed-btn:hover { background: #fecaca; }
+
+/* Review missed & retry buttons on done screen */
+.q-btn-miss-review {
+  background: #fee2e2;
+  color: #991b1b;
+  width: 100%;
+}
+.q-btn-retry {
+  background: #fef3c7;
+  color: #92400e;
+  width: 100%;
+}
+
+/* Review missed list */
+.q-review-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.q-review-header h2 {
+  font-size: 18px;
+  font-weight: 600;
+}
+.q-review-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.q-review-card {
+  background: var(--surface);
+  border: 1px solid #fca5a5;
+  border-radius: 10px;
+  padding: 16px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.q-review-card:active {
+  background: #fef2f2;
+}
+.q-review-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.q-review-num {
+  font-size: 11px;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+.q-review-q {
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--text);
+}
+
 /* Footer */
 .app-footer {
   margin-top: 48px;

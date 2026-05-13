@@ -34,8 +34,11 @@ export default function Questions() {
   const [current, setCurrent] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [score, setScore] = useState({ correct: 0, wrong: 0 });
+  const [missed, setMissed] = useState([]);
   const [done, setDone] = useState(false);
   const [showCatPicker, setShowCatPicker] = useState(false);
+  const [reviewMode, setReviewMode] = useState(false);
+  const [reviewRevealed, setReviewRevealed] = useState({});
 
   // Init from storage or fresh
   useEffect(() => {
@@ -44,6 +47,7 @@ export default function Questions() {
       setQueue(saved.queue);
       setCurrent(saved.current || 0);
       setScore(saved.score || { correct: 0, wrong: 0 });
+      setMissed(saved.missed || []);
       setCategory(saved.category || "All");
       setDone(saved.current >= saved.queue.length);
     } else {
@@ -54,9 +58,9 @@ export default function Questions() {
   // Save on change
   useEffect(() => {
     if (queue.length > 0) {
-      saveState({ queue, current, score, category });
+      saveState({ queue, current, score, missed, category });
     }
-  }, [queue, current, score, category]);
+  }, [queue, current, score, missed, category]);
 
   const startNew = useCallback((cat) => {
     const pool = cat === "All" ? neuroQuestions : neuroQuestions.filter((q) => q.category === cat);
@@ -64,17 +68,35 @@ export default function Questions() {
     setQueue(shuffled);
     setCurrent(0);
     setScore({ correct: 0, wrong: 0 });
+    setMissed([]);
     setRevealed(false);
     setDone(false);
     setCategory(cat);
     setShowCatPicker(false);
+    setReviewMode(false);
+    setReviewRevealed({});
   }, []);
+
+  const retryMissed = useCallback(() => {
+    const shuffled = shuffle(missed);
+    setQueue(shuffled);
+    setCurrent(0);
+    setScore({ correct: 0, wrong: 0 });
+    setMissed([]);
+    setRevealed(false);
+    setDone(false);
+    setReviewMode(false);
+    setReviewRevealed({});
+  }, [missed]);
 
   const q = queue[current];
   const total = queue.length;
   const pct = total > 0 ? Math.round(((score.correct + score.wrong) / total) * 100) : 0;
 
   const handleMark = (correct) => {
+    if (!correct) {
+      setMissed((prev) => [...prev, queue[current]]);
+    }
     setScore((s) => ({
       correct: s.correct + (correct ? 1 : 0),
       wrong: s.wrong + (correct ? 0 : 1),
@@ -92,6 +114,7 @@ export default function Questions() {
   // Keyboard shortcuts
   useEffect(() => {
     const handler = (e) => {
+      if (reviewMode) return;
       if (e.key === " " || e.key === "Enter") {
         e.preventDefault();
         if (!revealed && !done) setRevealed(true);
@@ -103,8 +126,47 @@ export default function Questions() {
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [revealed, done, current, total]);
+  }, [revealed, done, current, total, reviewMode]);
 
+  // Review missed list
+  if (reviewMode && missed.length > 0) {
+    return (
+      <div className="q-container">
+        <div className="q-review-header">
+          <h2>Missed Questions ({missed.length})</h2>
+          <button className="q-btn q-btn-secondary" onClick={() => setReviewMode(false)} style={{ width: "auto", padding: "6px 14px", fontSize: 13 }}>
+            Back
+          </button>
+        </div>
+        <div className="q-review-list">
+          {missed.map((item, i) => {
+            const isOpen = reviewRevealed[i];
+            return (
+              <div key={i} className="q-review-card" onClick={() => setReviewRevealed((prev) => ({ ...prev, [i]: !prev[i] }))}>
+                <div className="q-review-meta">
+                  <span className="q-cat-badge">{item.category}</span>
+                  <span className="q-review-num">#{i + 1}</span>
+                </div>
+                <div className="q-review-q">{item.q}</div>
+                {isOpen && (
+                  <div className="q-answer-block">
+                    <div className="q-divider-line" />
+                    <div className="q-answer">{item.a}</div>
+                  </div>
+                )}
+                {!isOpen && <div className="q-tap-hint" style={{ marginTop: 8 }}>Tap to reveal</div>}
+              </div>
+            );
+          })}
+        </div>
+        <button className="q-btn q-btn-primary" onClick={retryMissed} style={{ marginTop: 16 }}>
+          Retry Missed Only ({missed.length})
+        </button>
+      </div>
+    );
+  }
+
+  // Done screen
   if (done) {
     const pctCorrect = score.correct + score.wrong > 0
       ? Math.round((score.correct / (score.correct + score.wrong)) * 100)
@@ -127,7 +189,17 @@ export default function Questions() {
               <span className="q-done-label">Score</span>
             </div>
           </div>
-          <button className="q-btn q-btn-primary" onClick={() => startNew(category)}>
+          {missed.length > 0 && (
+            <>
+              <button className="q-btn q-btn-miss-review" onClick={() => setReviewMode(true)}>
+                Review Missed ({missed.length})
+              </button>
+              <button className="q-btn q-btn-retry" onClick={retryMissed} style={{ marginTop: 8 }}>
+                Retry Missed Only
+              </button>
+            </>
+          )}
+          <button className="q-btn q-btn-primary" onClick={() => startNew(category)} style={{ marginTop: 8 }}>
             Restart {category === "All" ? "All" : category}
           </button>
           <button className="q-btn q-btn-secondary" onClick={() => setShowCatPicker(true)} style={{ marginTop: 8 }}>
@@ -161,6 +233,11 @@ export default function Questions() {
           <span className="q-green">{score.correct}</span>
           <span className="q-divider">/</span>
           <span className="q-red">{score.wrong}</span>
+          {missed.length > 0 && (
+            <button className="q-missed-btn" onClick={() => setReviewMode(true)}>
+              {missed.length} missed
+            </button>
+          )}
         </div>
       </div>
 
