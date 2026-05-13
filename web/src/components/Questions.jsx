@@ -1,7 +1,8 @@
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import neuroQuestions from "../data/neuroQuestions";
 
 const STORAGE_KEY = "validmed_q_state";
+const SWIPE_THRESHOLD = 60;
 
 function shuffle(arr) {
   const a = [...arr];
@@ -39,6 +40,9 @@ export default function Questions() {
   const [showCatPicker, setShowCatPicker] = useState(false);
   const [reviewMode, setReviewMode] = useState(false);
   const [reviewRevealed, setReviewRevealed] = useState({});
+  const [swipeX, setSwipeX] = useState(0);
+  const [swiping, setSwiping] = useState(false);
+  const touchRef = useRef({ startX: 0, startY: 0, locked: false });
 
   // Init from storage or fresh
   useEffect(() => {
@@ -110,6 +114,48 @@ export default function Questions() {
       setRevealed(false);
     }
   };
+
+  // Swipe handlers (only active after answer is revealed)
+  const onTouchStart = useCallback((e) => {
+    const t = e.touches[0];
+    touchRef.current = { startX: t.clientX, startY: t.clientY, locked: false };
+    setSwiping(false);
+    setSwipeX(0);
+  }, []);
+
+  const onTouchMove = useCallback((e) => {
+    if (!revealed || done) return;
+    const t = e.touches[0];
+    const dx = t.clientX - touchRef.current.startX;
+    const dy = t.clientY - touchRef.current.startY;
+    // Lock to horizontal if swipe is more horizontal than vertical
+    if (!touchRef.current.locked) {
+      if (Math.abs(dx) > 10 || Math.abs(dy) > 10) {
+        touchRef.current.locked = true;
+        if (Math.abs(dy) > Math.abs(dx)) return; // vertical scroll, bail
+      } else return;
+    }
+    if (Math.abs(dx) > Math.abs(dy)) {
+      e.preventDefault();
+      setSwiping(true);
+      setSwipeX(dx);
+    }
+  }, [revealed, done]);
+
+  const onTouchEnd = useCallback(() => {
+    if (!revealed || done || !swiping) {
+      setSwipeX(0);
+      setSwiping(false);
+      return;
+    }
+    if (swipeX > SWIPE_THRESHOLD) {
+      handleMark(true); // swipe right = got it
+    } else if (swipeX < -SWIPE_THRESHOLD) {
+      handleMark(false); // swipe left = missed
+    }
+    setSwipeX(0);
+    setSwiping(false);
+  }, [revealed, done, swiping, swipeX]);
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -247,7 +293,19 @@ export default function Questions() {
       </div>
 
       {/* Card */}
-      <div className="q-card" onClick={() => !revealed && setRevealed(true)}>
+      <div
+        className={`q-card ${swiping && swipeX > SWIPE_THRESHOLD ? "q-card-right" : ""} ${swiping && swipeX < -SWIPE_THRESHOLD ? "q-card-left" : ""}`}
+        onClick={() => !revealed && !swiping && setRevealed(true)}
+        onTouchStart={onTouchStart}
+        onTouchMove={onTouchMove}
+        onTouchEnd={onTouchEnd}
+        style={swiping ? { transform: `translateX(${swipeX * 0.4}px) rotate(${swipeX * 0.03}deg)`, transition: "none" } : {}}
+      >
+        {swiping && Math.abs(swipeX) > SWIPE_THRESHOLD && (
+          <div className={`q-swipe-label ${swipeX > 0 ? "q-swipe-right" : "q-swipe-left"}`}>
+            {swipeX > 0 ? "Got it" : "Missed"}
+          </div>
+        )}
         <div className="q-question">{q.q}</div>
 
         {revealed ? (
@@ -270,6 +328,11 @@ export default function Questions() {
             Got it
           </button>
         </div>
+      )}
+
+      {/* Swipe hint */}
+      {revealed && !swiping && (
+        <div className="q-swipe-hint">or swipe right = got it, left = missed</div>
       )}
 
       {/* Category picker */}
