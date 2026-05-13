@@ -2,11 +2,12 @@ import { useState } from "react";
 import DeviceTable from "./components/DeviceTable";
 import DeviceDetail from "./components/DeviceDetail";
 import Methodology from "./components/Methodology";
+import Questions from "./components/Questions";
 import "./App.css";
 
 export default function App() {
   const [selectedDevice, setSelectedDevice] = useState(null);
-  const [view, setView] = useState("devices"); // "devices" | "methodology"
+  const [view, setView] = useState("devices"); // "devices" | "methodology" | "questions"
 
   return (
     <div className="app">
@@ -31,6 +32,12 @@ export default function App() {
               Devices
             </button>
             <button
+              className={`nav-btn ${view === "questions" ? "nav-btn-active" : ""}`}
+              onClick={() => setView("questions")}
+            >
+              Questions
+            </button>
+            <button
               className={`nav-btn ${view === "methodology" ? "nav-btn-active" : ""}`}
               onClick={() => setView("methodology")}
             >
@@ -41,7 +48,9 @@ export default function App() {
       </header>
 
       <main className="app-main">
-        {view === "methodology" ? (
+        {view === "questions" ? (
+          <Questions />
+        ) : view === "methodology" ? (
           <Methodology onBack={() => setView("devices")} />
         ) : selectedDevice ? (
           <DeviceDetail
