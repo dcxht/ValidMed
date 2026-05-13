@@ -14,15 +14,8 @@ export default function App() {
       <header className="app-header">
         <div className="header-row">
           <div>
-            <h1
-              className="header-title-link"
-              onClick={() => { setView("devices"); setSelectedDevice(null); }}
-            >
-              ValidMed
-            </h1>
-            <p className="tagline">
-              Verified AI Literature & Intelligence Database for Medical Devices
-            </p>
+            <h1 className="header-title-link">QBank</h1>
+            <p className="tagline">247 NBME-style neuro vignettes</p>
           </div>
           {/* nav hidden for now */}
         </div>
