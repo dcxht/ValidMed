@@ -128,14 +128,14 @@ export default function Questions() {
     const t = e.touches[0];
     const dx = t.clientX - touchRef.current.startX;
     const dy = t.clientY - touchRef.current.startY;
-    // Lock to horizontal if swipe is more horizontal than vertical
+    // Lock direction on first significant movement
     if (!touchRef.current.locked) {
-      if (Math.abs(dx) > 10 || Math.abs(dy) > 10) {
+      if (Math.abs(dx) > 8 || Math.abs(dy) > 8) {
         touchRef.current.locked = true;
-        if (Math.abs(dy) > Math.abs(dx)) return; // vertical scroll, bail
+        touchRef.current.horizontal = Math.abs(dx) > Math.abs(dy);
       } else return;
     }
-    if (Math.abs(dx) > Math.abs(dy)) {
+    if (touchRef.current.horizontal) {
       e.preventDefault();
       setSwiping(true);
       setSwipeX(dx);

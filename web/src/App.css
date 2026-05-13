@@ -10,9 +10,13 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
-html {
+html, body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
 }
 
 body {
@@ -30,7 +34,9 @@ body {
   max-width: 600px;
   margin: 0 auto;
   padding: 16px 16px calc(16px + env(safe-area-inset-bottom));
-  min-height: 100dvh;
+  height: 100dvh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* Header */
