@@ -152,6 +152,11 @@ export default function Questions() {
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
                     <div className="q-answer">{item.a}</div>
+                    {item.anki && (
+                      <button className="q-anki-btn" onClick={(e) => { e.stopPropagation(); navigator.clipboard.writeText(item.anki); e.target.textContent = "Copied!"; setTimeout(() => { e.target.textContent = "Copy AnKing Tag"; }, 1500); }}>
+                        Copy AnKing Tag
+                      </button>
+                    )}
                   </div>
                 )}
                 {!isOpen && <div className="q-tap-hint" style={{ marginTop: 8 }}>Tap to reveal</div>}
@@ -254,6 +259,11 @@ export default function Questions() {
           <div className="q-answer-block">
             <div className="q-divider-line" />
             <div className="q-answer">{q.a}</div>
+            {q.anki && (
+              <button className="q-anki-btn" onClick={(e) => { e.stopPropagation(); navigator.clipboard.writeText(q.anki); e.target.textContent = "Copied!"; setTimeout(() => { e.target.textContent = "Copy AnKing Tag"; }, 1500); }}>
+                Copy AnKing Tag
+              </button>
+            )}
           </div>
         ) : (
           <div className="q-tap-hint">Tap to reveal answer</div>
