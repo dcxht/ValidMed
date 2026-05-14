@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import DeviceTable from "./components/DeviceTable";
 import DeviceDetail from "./components/DeviceDetail";
 import Methodology from "./components/Methodology";
@@ -37,6 +38,7 @@ export default function App() {
       </main>
 
       {/* footer hidden for now */}
+      <Analytics />
     </div>
   );
 }
