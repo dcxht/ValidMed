@@ -8,17 +8,21 @@ import "./App.css";
 
 export default function App() {
   const [selectedDevice, setSelectedDevice] = useState(null);
-  const [view, setView] = useState("questions"); // "devices" | "methodology" | "questions"
+  const [view, setView] = useState("devices"); // "devices" | "methodology" | "questions"
 
   return (
     <div className="app">
       <header className="app-header">
         <div className="header-row">
           <div>
-            <h1 className="header-title-link">QBank</h1>
-            <p className="tagline">NBME-style clinical vignettes</p>
+            <h1 className="header-title-link" onClick={() => { setView("devices"); setSelectedDevice(null); }} style={{ cursor: "pointer" }}>ValidMed</h1>
+            <p className="tagline">FDA AI/ML device evidence tracker</p>
           </div>
-          {/* nav hidden for now */}
+          <nav className="header-nav">
+            <button className={`nav-btn ${view === "devices" ? "nav-btn-active" : ""}`} onClick={() => { setView("devices"); setSelectedDevice(null); }}>Database</button>
+            <button className={`nav-btn ${view === "methodology" ? "nav-btn-active" : ""}`} onClick={() => setView("methodology")}>Methodology</button>
+            <button className={`nav-btn ${view === "questions" ? "nav-btn-active" : ""}`} onClick={() => setView("questions")}>QBank</button>
+          </nav>
         </div>
       </header>
 

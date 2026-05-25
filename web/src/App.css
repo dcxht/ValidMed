@@ -14,9 +14,6 @@ html, body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
   height: 100%;
-  overflow: hidden;
-  position: fixed;
-  width: 100%;
 }
 
 body {
@@ -25,18 +22,14 @@ body {
   color: var(--text);
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  overscroll-behavior: none;
-  padding-top: env(safe-area-inset-top);
-  padding-bottom: env(safe-area-inset-bottom);
 }
 
 .app {
-  max-width: 600px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 16px 16px calc(16px + env(safe-area-inset-bottom));
-  height: 100dvh;
+  padding: 24px 32px;
+  min-height: 100vh;
   overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
 }
 
 /* Header */
