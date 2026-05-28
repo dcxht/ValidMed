@@ -21,7 +21,7 @@ export default function App() {
           <nav className="header-nav">
             <button className={`nav-btn ${view === "devices" ? "nav-btn-active" : ""}`} onClick={() => { setView("devices"); setSelectedDevice(null); }}>Database</button>
             <button className={`nav-btn ${view === "methodology" ? "nav-btn-active" : ""}`} onClick={() => setView("methodology")}>Methodology</button>
-            <button className={`nav-btn ${view === "questions" ? "nav-btn-active" : ""}`} onClick={() => setView("questions")}>QBank</button>
+            {/* <button className={`nav-btn ${view === "questions" ? "nav-btn-active" : ""}`} onClick={() => setView("questions")}>QBank</button> */}
           </nav>
         </div>
       </header>
