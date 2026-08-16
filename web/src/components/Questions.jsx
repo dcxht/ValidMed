@@ -1,8 +1,15 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import neuroQuestions from "../data/neuroQuestions";
+import endoPathQuestions from "../data/endoPathQuestions";
 
-const STORAGE_KEY = "validmed_q_state";
+const BANKS = {
+  neuro: { label: "Neuro", questions: neuroQuestions },
+  endopath: { label: "Endo + Path", questions: endoPathQuestions },
+};
+const DEFAULT_BANK = "endopath";
 const SWIPE_THRESHOLD = 60;
+
+function storageKey(bank) { return `validmed_q_${bank}`; }
 
 function shuffle(arr) {
   const a = [...arr];
@@ -13,23 +20,27 @@ function shuffle(arr) {
   return a;
 }
 
-function loadState() {
+function loadState(bank) {
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
+    const raw = localStorage.getItem(storageKey(bank));
     if (raw) return JSON.parse(raw);
   } catch {}
   return null;
 }
 
-function saveState(state) {
+function saveState(bank, state) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    localStorage.setItem(storageKey(bank), JSON.stringify(state));
   } catch {}
 }
 
-const categories = ["All", ...Array.from(new Set(neuroQuestions.map((q) => q.category))).sort()];
+function getCategories(bank) {
+  const qs = BANKS[bank].questions;
+  return ["All", ...Array.from(new Set(qs.map((q) => q.category))).sort()];
+}
 
 export default function Questions() {
+  const [bank, setBank] = useState(DEFAULT_BANK);
   const [category, setCategory] = useState("All");
   const [queue, setQueue] = useState([]);
   const [current, setCurrent] = useState(0);
@@ -44,9 +55,11 @@ export default function Questions() {
   const [swiping, setSwiping] = useState(false);
   const touchRef = useRef({ startX: 0, startY: 0, locked: false });
 
+  const categories = getCategories(bank);
+
   // Init from storage or fresh
   useEffect(() => {
-    const saved = loadState();
+    const saved = loadState(bank);
     if (saved && saved.queue && saved.queue.length > 0) {
       setQueue(saved.queue);
       setCurrent(saved.current || 0);
@@ -55,19 +68,21 @@ export default function Questions() {
       setCategory(saved.category || "All");
       setDone(saved.current >= saved.queue.length);
     } else {
-      startNew("All");
+      startNew("All", bank);
     }
-  }, []);
+  }, [bank]);
 
   // Save on change
   useEffect(() => {
     if (queue.length > 0) {
-      saveState({ queue, current, score, missed, category });
+      saveState(bank, { queue, current, score, missed, category });
     }
-  }, [queue, current, score, missed, category]);
+  }, [queue, current, score, missed, category, bank]);
 
-  const startNew = useCallback((cat) => {
-    const pool = cat === "All" ? neuroQuestions : neuroQuestions.filter((q) => q.category === cat);
+  const startNew = useCallback((cat, b) => {
+    const currentBank = b || bank;
+    const allQs = BANKS[currentBank].questions;
+    const pool = cat === "All" ? allQs : allQs.filter((q) => q.category === cat);
     const shuffled = shuffle(pool);
     setQueue(shuffled);
     setCurrent(0);
@@ -79,7 +94,7 @@ export default function Questions() {
     setShowCatPicker(false);
     setReviewMode(false);
     setReviewRevealed({});
-  }, []);
+  }, [bank]);
 
   const retryMissed = useCallback(() => {
     const shuffled = shuffle(missed);
@@ -255,7 +270,7 @@ export default function Questions() {
             <div className="q-cat-grid">
               {categories.map((c) => (
                 <button key={c} className={`q-cat-chip ${c === category ? "q-cat-active" : ""}`} onClick={() => startNew(c)}>
-                  {c} {c !== "All" && <span className="q-cat-count">({neuroQuestions.filter((x) => x.category === c).length})</span>}
+                  {c} {c !== "All" && <span className="q-cat-count">({BANKS[bank].questions.filter((x) => x.category === c).length})</span>}
                 </button>
               ))}
             </div>
@@ -267,8 +282,24 @@ export default function Questions() {
 
   if (!q) return null;
 
+  const switchBank = (b) => {
+    setBank(b);
+    setRevealed(false);
+    setShowCatPicker(false);
+    setReviewMode(false);
+    setReviewRevealed({});
+  };
+
   return (
     <div className="q-container">
+      {/* Bank selector */}
+      <div className="q-bank-selector" style={{ display: "flex", gap: 8, marginBottom: 12 }}>
+        {Object.entries(BANKS).map(([key, val]) => (
+          <button key={key} className={`q-cat-chip ${key === bank ? "q-cat-active" : ""}`} onClick={() => switchBank(key)} style={{ flex: 1 }}>
+            {val.label} ({val.questions.length})
+          </button>
+        ))}
+      </div>
       {/* Top bar */}
       <div className="q-topbar">
         <div className="q-progress-info">
@@ -343,7 +374,7 @@ export default function Questions() {
         <div className="q-cat-grid">
           {categories.map((c) => (
             <button key={c} className={`q-cat-chip ${c === category ? "q-cat-active" : ""}`} onClick={() => startNew(c)}>
-              {c} {c !== "All" && <span className="q-cat-count">({neuroQuestions.filter((x) => x.category === c).length})</span>}
+              {c} {c !== "All" && <span className="q-cat-count">({BANKS[bank].questions.filter((x) => x.category === c).length})</span>}
             </button>
           ))}
         </div>
