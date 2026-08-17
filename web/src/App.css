@@ -14,6 +14,7 @@ html, body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
   height: 100%;
+  overscroll-behavior-x: none;
 }
 
 body {
@@ -30,6 +31,7 @@ body {
   padding: 24px 32px;
   min-height: 100vh;
   overflow-y: auto;
+  overscroll-behavior-x: none;
 }
 
 /* Header */
@@ -579,7 +581,7 @@ body {
   user-select: none;
   -webkit-tap-highlight-color: transparent;
   transition: box-shadow 0.15s ease;
-  touch-action: manipulation;
+  touch-action: pan-y;
 }
 .q-card:active {
   box-shadow: 0 0 0 2px rgba(15,118,110,0.15);

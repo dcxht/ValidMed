@@ -137,46 +137,81 @@ export default function Questions() {
   };
 
   // Swipe handlers (only active after answer is revealed)
-  const onTouchStart = useCallback((e) => {
-    const t = e.touches[0];
-    touchRef.current = { startX: t.clientX, startY: t.clientY, locked: false };
-    setSwiping(false);
-    setSwipeX(0);
-  }, []);
+  // Swipe handlers are attached natively with { passive: false }: React attaches
+  // touchmove passively at the root, so preventDefault() from a JSX onTouchMove is
+  // ignored and the browser keeps the gesture (page pan / overscroll) instead.
+  const detachRef = useRef(null);
+  const EDGE_DEAD_ZONE = 28; // leave iOS Safari's back-swipe strip alone
 
-  const onTouchMove = useCallback((e) => {
-    if (!revealed || done) return;
-    const t = e.touches[0];
-    const dx = t.clientX - touchRef.current.startX;
-    const dy = t.clientY - touchRef.current.startY;
-    // Lock direction on first significant movement
-    if (!touchRef.current.locked) {
-      if (Math.abs(dx) > 8 || Math.abs(dy) > 8) {
-        touchRef.current.locked = true;
-        touchRef.current.horizontal = Math.abs(dx) > Math.abs(dy);
-      } else return;
+  // Latest state for the native listeners, so they can be bound once and never
+  // rebind mid-gesture (a rebind can make later touchmove events non-cancelable).
+  const liveRef = useRef({ revealed, done, handleMark });
+  liveRef.current = { revealed, done, handleMark };
+
+  // Callback ref: the card only mounts once a question is loaded, so binding in a
+  // plain effect on first render would miss it.
+  const cardRef = useCallback((el) => {
+    if (detachRef.current) {
+      detachRef.current();
+      detachRef.current = null;
     }
-    if (touchRef.current.horizontal) {
-      e.preventDefault();
+    if (!el) return;
+
+    const onStart = (e) => {
+      const t = e.touches[0];
+      const fromEdge = t.clientX < EDGE_DEAD_ZONE || t.clientX > window.innerWidth - EDGE_DEAD_ZONE;
+      touchRef.current = { startX: t.clientX, startY: t.clientY, locked: fromEdge, horizontal: false };
+      setSwiping(false);
+      setSwipeX(0);
+    };
+
+    const onMove = (e) => {
+      const { revealed: isRevealed, done: isDone } = liveRef.current;
+      if (!isRevealed || isDone) return;
+      const ref = touchRef.current;
+      if (!ref) return;
+      const t = e.touches[0];
+      const dx = t.clientX - ref.startX;
+      const dy = t.clientY - ref.startY;
+      if (!ref.locked) {
+        if (Math.abs(dx) < 12 && Math.abs(dy) < 12) return;
+        ref.locked = true;
+        ref.horizontal = Math.abs(dx) > Math.abs(dy) * 1.5;
+      }
+      if (!ref.horizontal) return;
+      if (e.cancelable) e.preventDefault();
+      ref.dx = dx;
       setSwiping(true);
       setSwipeX(dx);
-    }
-  }, [revealed, done]);
+    };
 
-  const onTouchEnd = useCallback(() => {
-    if (!revealed || done || !swiping) {
+    const onEnd = () => {
+      const ref = touchRef.current;
+      touchRef.current = null;
+      const { revealed: isRevealed, done: isDone, handleMark: mark } = liveRef.current;
+      if (!isRevealed || isDone || !ref || !ref.horizontal) {
+        setSwipeX(0);
+        setSwiping(false);
+        return;
+      }
+      const dx = ref.dx || 0;
       setSwipeX(0);
       setSwiping(false);
-      return;
-    }
-    if (swipeX > SWIPE_THRESHOLD) {
-      handleMark(true); // swipe right = got it
-    } else if (swipeX < -SWIPE_THRESHOLD) {
-      handleMark(false); // swipe left = missed
-    }
-    setSwipeX(0);
-    setSwiping(false);
-  }, [revealed, done, swiping, swipeX]);
+      if (dx > SWIPE_THRESHOLD) mark(true);
+      else if (dx < -SWIPE_THRESHOLD) mark(false);
+    };
+
+    el.addEventListener("touchstart", onStart, { passive: true });
+    el.addEventListener("touchmove", onMove, { passive: false });
+    el.addEventListener("touchend", onEnd, { passive: true });
+    el.addEventListener("touchcancel", onEnd, { passive: true });
+    detachRef.current = () => {
+      el.removeEventListener("touchstart", onStart);
+      el.removeEventListener("touchmove", onMove);
+      el.removeEventListener("touchend", onEnd);
+      el.removeEventListener("touchcancel", onEnd);
+    };
+  }, []);
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -331,11 +366,9 @@ export default function Questions() {
 
       {/* Card */}
       <div
+        ref={cardRef}
         className={`q-card ${swiping && swipeX > SWIPE_THRESHOLD ? "q-card-right" : ""} ${swiping && swipeX < -SWIPE_THRESHOLD ? "q-card-left" : ""}`}
         onClick={() => !revealed && !swiping && setRevealed(true)}
-        onTouchStart={onTouchStart}
-        onTouchMove={onTouchMove}
-        onTouchEnd={onTouchEnd}
         style={swiping ? { transform: `translateX(${swipeX * 0.4}px) rotate(${swipeX * 0.03}deg)`, transition: "none" } : {}}
       >
         {swiping && Math.abs(swipeX) > SWIPE_THRESHOLD && (
