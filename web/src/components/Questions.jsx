@@ -1,10 +1,12 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import neuroQuestions from "../data/neuroQuestions";
 import endoPathQuestions from "../data/endoPathQuestions";
+import renalPulmQuestions from "../data/renalPulmQuestions";
 
 const BANKS = {
   neuro: { label: "Neuro", questions: neuroQuestions },
   endopath: { label: "Endo + Path", questions: endoPathQuestions },
+  renalpulm: { label: "Renal + Pulm", questions: renalPulmQuestions },
 };
 const DEFAULT_BANK = "endopath";
 const SWIPE_THRESHOLD = 60;
