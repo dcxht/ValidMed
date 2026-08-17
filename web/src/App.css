@@ -847,3 +847,349 @@ body {
   font-size: 12px;
   text-align: center;
 }
+
+
+/* Readability pass - mobile-first legibility for the QBank cards */
+.q-card {
+  padding: 20px 18px 22px;
+}
+.q-question {
+  font-size: 16px;
+  line-height: 1.55;
+  font-weight: 500;
+}
+.q-answer-block {
+  margin-top: 16px;
+}
+.q-answer-lead {
+  font-size: 17px;
+  line-height: 1.45;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: -0.1px;
+}
+.q-answer-body {
+  margin-top: 12px;
+  max-width: 68ch;
+  font-size: 15px;
+  line-height: 1.7;
+  font-weight: 400;
+  color: #374151;
+}
+.q-actions {
+  gap: 12px;
+  margin-top: 14px;
+}
+.q-btn {
+  min-height: 52px;
+  font-size: 16px;
+}
+.q-cat-badge {
+  font-size: 11px;
+  padding: 3px 7px;
+}
+@media (max-width: 600px) {
+  .app {
+    padding: 16px 14px 28px;
+  }
+  .q-card {
+    padding: 18px 16px 20px;
+  }
+}
+@media (min-width: 601px) {
+  .q-answer-body {
+    font-size: 15.5px;
+  }
+}
+
+.q-answer-body + .q-answer-body {
+  margin-top: 14px;
+}
+
+
+
+/* ===== Mobile-first study screen ===== */
+.q-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.q-context {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 44px;
+  padding: 0;
+  background: none;
+  border: none;
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+.q-context-cat {
+  background: var(--accent-light);
+  color: var(--accent);
+  border-radius: 6px;
+  padding: 3px 8px;
+  font-size: 13px;
+  font-weight: 600;
+  max-width: 42vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.q-context-chev {
+  color: var(--text-secondary);
+  font-size: 12px;
+}
+.q-topline-meta {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+.q-topline-meta .q-counter {
+  color: var(--text-secondary);
+  font-size: 13px;
+  margin-right: 2px;
+}
+
+.q-actionbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  padding: 10px 14px calc(10px + env(safe-area-inset-bottom));
+}
+.q-actionbar .q-actions {
+  margin: 0;
+  padding: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.q-btn-reveal {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+  background: var(--accent);
+  color: #fff;
+}
+.q-actionbar .q-btn {
+  min-height: 56px;
+  font-size: 17px;
+  border-radius: 14px;
+}
+.q-container {
+  padding-bottom: 104px;
+}
+
+/* ===== Bank / category sheet ===== */
+.q-sheet-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  background: rgba(17, 24, 39, 0.38);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.q-sheet {
+  width: 100%;
+  max-width: 560px;
+  background: var(--surface);
+  border-radius: 18px 18px 0 0;
+  max-height: 86dvh;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: env(safe-area-inset-bottom);
+  animation: q-sheet-up 0.18s ease-out;
+}
+@keyframes q-sheet-up {
+  from { transform: translateY(14px); opacity: 0.6; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.q-sheet-grip {
+  width: 36px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border);
+  margin: 8px auto 2px;
+}
+.q-sheet-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 0 12px;
+  border-bottom: 1px solid var(--border);
+}
+.q-sheet-title {
+  font-size: 15px;
+  font-weight: 700;
+}
+.q-sheet-back,
+.q-sheet-close {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 15px;
+  font-weight: 600;
+  min-height: 44px;
+  padding: 0 4px;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.q-sheet-back::before {
+  content: "\2039  ";
+}
+.q-sheet-search {
+  position: relative;
+  padding: 10px 14px 6px;
+}
+.q-sheet-input {
+  width: 100%;
+  min-height: 44px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg);
+  padding: 0 36px 0 12px;
+  font-size: 16px;
+  color: var(--text);
+  font-family: inherit;
+}
+.q-sheet-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+.q-sheet-clear {
+  position: absolute;
+  right: 20px;
+  top: 14px;
+  width: 36px;
+  height: 36px;
+  border: none;
+  background: none;
+  color: var(--text-secondary);
+  font-size: 20px;
+  cursor: pointer;
+}
+.q-sheet-list {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  padding: 4px 0 10px;
+}
+.q-sheet-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  min-height: 56px;
+  padding: 10px 16px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+.q-sheet-row:active {
+  background: var(--bg);
+}
+.q-sheet-row-active {
+  background: var(--accent-light);
+}
+.q-sheet-row-missed .q-sheet-row-title {
+  color: #991b1b;
+}
+.q-sheet-row-missed:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+.q-sheet-row-main {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+.q-sheet-row-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+}
+.q-sheet-row-sub {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+.q-sheet-check {
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 17px;
+}
+.q-sheet-chev {
+  color: var(--text-secondary);
+  font-size: 20px;
+  line-height: 1;
+}
+
+@media (max-width: 600px) {
+  .app {
+    padding: 10px 0 0;
+  }
+  .app-header {
+    margin: 0 14px 8px;
+    padding-bottom: 8px;
+  }
+  .app-header h1,
+  .header-title-link {
+    font-size: 17px;
+  }
+  .tagline {
+    display: none;
+  }
+  .q-topline,
+  .q-progress-track {
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+  /* full-bleed card: the content is the page */
+  .q-card {
+    background: none;
+    border: none;
+    border-radius: 0;
+    padding: 14px 16px 0;
+    min-height: 0;
+  }
+  .q-card:active {
+    box-shadow: none;
+  }
+  .q-question {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  .q-answer-lead {
+    font-size: 19px;
+    line-height: 1.4;
+  }
+  .q-answer-body {
+    font-size: 17px;
+    line-height: 1.65;
+  }
+  .q-review-card,
+  .q-done-card {
+    border-radius: 12px;
+  }
+}

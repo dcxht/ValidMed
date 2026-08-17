@@ -13,7 +13,62 @@ const BANKS = {
   arrows: { label: "Arrows", questions: arrowsQuestions },
 };
 const DEFAULT_BANK = "endopath";
+const MISSED_BANK = "__missed__";
 const SWIPE_THRESHOLD = 60;
+
+const ABBREV = /\b(e\.g|i\.e|vs|approx|etc|No|Fig|Dr|Mr|Mrs|Ms|St)\.$/i;
+
+function sentences(text) {
+  const parts = String(text || "").trim().split(/([.?!])\s+(?=[A-Z(\u2191\u2193\u2194])/);
+  const out = [];
+  for (let i = 0; i < parts.length; i += 2) {
+    const seg = (parts[i] || "") + (parts[i + 1] || "");
+    if (seg) out.push(seg.trim());
+  }
+  // re-join fragments that ended on a common abbreviation
+  const merged = [];
+  for (const seg of out) {
+    if (merged.length && ABBREV.test(merged[merged.length - 1])) merged[merged.length - 1] += " " + seg;
+    else merged.push(seg);
+  }
+  return merged;
+}
+
+function splitAnswer(text) {
+  const sents = sentences(text);
+  if (sents.length < 2 || sents[0].length > 180) return ["", String(text || "").trim()];
+  return [sents[0], sents.slice(1).join(" ")];
+}
+
+function toParagraphs(text) {
+  const sents = sentences(text);
+  const out = [];
+  let buf = "";
+  for (const seg of sents) {
+    buf = buf ? buf + " " + seg : seg;
+    if (buf.length >= 200) {
+      out.push(buf);
+      buf = "";
+    }
+  }
+  if (buf) {
+    if (out.length && buf.length < 60) out[out.length - 1] += " " + buf;
+    else out.push(buf);
+  }
+  return out;
+}
+
+function AnswerText({ text }) {
+  const [lead, body] = splitAnswer(text);
+  return (
+    <>
+      {lead && <div className="q-answer-lead">{lead}</div>}
+      {toParagraphs(body).map((p, i) => (
+        <p key={i} className="q-answer-body">{p}</p>
+      ))}
+    </>
+  );
+}
 
 function storageKey(bank) { return `validmed_q_${bank}`; }
 
@@ -40,13 +95,56 @@ function saveState(bank, state) {
   } catch {}
 }
 
-function getCategories(bank) {
-  const qs = BANKS[bank].questions;
-  return ["All", ...Array.from(new Set(qs.map((q) => q.category))).sort()];
+function getCategoryCounts(bank) {
+  const counts = new Map();
+  for (const q of BANKS[bank].questions) counts.set(q.category, (counts.get(q.category) || 0) + 1);
+  return [...counts.entries()]
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+}
+
+// Every question the user has marked wrong, across all banks, de-duplicated.
+function collectMissed() {
+  const seen = new Set();
+  const out = [];
+  for (const key of Object.keys(BANKS)) {
+    const saved = loadState(key);
+    for (const q of (saved && saved.missed) || []) {
+      if (q && q.id && !seen.has(q.id)) {
+        seen.add(q.id);
+        out.push(q);
+      }
+    }
+  }
+  return out;
+}
+
+function bankLabel(bank) {
+  return bank === MISSED_BANK ? "Missed" : BANKS[bank].label;
+}
+
+function bankProgress(bank) {
+  const saved = loadState(bank);
+  const total = BANKS[bank].questions.length;
+  if (!saved || !saved.queue) return { total, seen: 0, correct: 0, category: "All" };
+  const score = saved.score || { correct: 0, wrong: 0 };
+  return {
+    total,
+    seen: score.correct + score.wrong,
+    correct: score.correct,
+    inPlay: saved.queue.length,
+    category: saved.category || "All",
+  };
 }
 
 export default function Questions() {
-  const [bank, setBank] = useState(DEFAULT_BANK);
+  const [bank, setBank] = useState(() => {
+    try {
+      const last = localStorage.getItem("validmed_last_bank");
+      if (last && (BANKS[last] || last === MISSED_BANK)) return last;
+    } catch {}
+    return DEFAULT_BANK;
+  });
   const [category, setCategory] = useState("All");
   const [queue, setQueue] = useState([]);
   const [current, setCurrent] = useState(0);
@@ -54,17 +152,26 @@ export default function Questions() {
   const [score, setScore] = useState({ correct: 0, wrong: 0 });
   const [missed, setMissed] = useState([]);
   const [done, setDone] = useState(false);
-  const [showCatPicker, setShowCatPicker] = useState(false);
+  const [sheetOpen, setSheetOpen] = useState(false);
+  const [sheetBank, setSheetBank] = useState(null);
+  const [catQuery, setCatQuery] = useState("");
+  const pendingRef = useRef(null);
   const [reviewMode, setReviewMode] = useState(false);
   const [reviewRevealed, setReviewRevealed] = useState({});
   const [swipeX, setSwipeX] = useState(0);
   const [swiping, setSwiping] = useState(false);
   const touchRef = useRef({ startX: 0, startY: 0, locked: false });
 
-  const categories = getCategories(bank);
 
   // Init from storage or fresh
   useEffect(() => {
+    try { localStorage.setItem("validmed_last_bank", bank); } catch {}
+    const pending = pendingRef.current;
+    if (pending && pending.bank === bank) {
+      pendingRef.current = null;
+      startNew(pending.category, bank);
+      return;
+    }
     const saved = loadState(bank);
     if (saved && saved.queue && saved.queue.length > 0) {
       setQueue(saved.queue);
@@ -87,7 +194,7 @@ export default function Questions() {
 
   const startNew = useCallback((cat, b) => {
     const currentBank = b || bank;
-    const allQs = BANKS[currentBank].questions;
+    const allQs = currentBank === MISSED_BANK ? collectMissed() : BANKS[currentBank].questions;
     const pool = cat === "All" ? allQs : allQs.filter((q) => q.category === cat);
     const shuffled = shuffle(pool);
     setQueue(shuffled);
@@ -97,7 +204,6 @@ export default function Questions() {
     setRevealed(false);
     setDone(false);
     setCategory(cat);
-    setShowCatPicker(false);
     setReviewMode(false);
     setReviewRevealed({});
   }, [bank]);
@@ -230,6 +336,135 @@ export default function Questions() {
     return () => window.removeEventListener("keydown", handler);
   }, [revealed, done, current, total, reviewMode]);
 
+  const openSheet = () => {
+    setSheetBank(null);
+    setCatQuery("");
+    setSheetOpen(true);
+  };
+
+  const closeSheet = () => {
+    setSheetOpen(false);
+    setSheetBank(null);
+    setCatQuery("");
+  };
+
+  const chooseCategory = (targetBank, cat) => {
+    closeSheet();
+    if (targetBank === bank) {
+      if (cat !== category || done) startNew(cat, bank);
+      return;
+    }
+    pendingRef.current = { bank: targetBank, category: cat };
+    setBank(targetBank);
+  };
+
+  const sheet = !sheetOpen ? null : (
+    <div className="q-sheet-backdrop" onClick={closeSheet}>
+      <div className="q-sheet" onClick={(e) => e.stopPropagation()}>
+        <div className="q-sheet-grip" />
+        <div className="q-sheet-head">
+          {sheetBank ? (
+            <button className="q-sheet-back" onClick={() => { setSheetBank(null); setCatQuery(""); }}>
+              Banks
+            </button>
+          ) : (
+            <span className="q-sheet-title">Question banks</span>
+          )}
+          {sheetBank && <span className="q-sheet-title">{BANKS[sheetBank].label}</span>}
+          <button className="q-sheet-close" onClick={closeSheet} aria-label="Close">Done</button>
+        </div>
+
+        {!sheetBank ? (
+          <div className="q-sheet-list">
+            {(() => {
+              const missedAll = collectMissed();
+              return (
+                <button
+                  className={`q-sheet-row q-sheet-row-missed ${bank === MISSED_BANK ? "q-sheet-row-active" : ""}`}
+                  disabled={missedAll.length === 0}
+                  onClick={() => missedAll.length > 0 && chooseCategory(MISSED_BANK, "All")}
+                >
+                  <span className="q-sheet-row-main">
+                    <span className="q-sheet-row-title">Review missed</span>
+                    <span className="q-sheet-row-sub">
+                      {missedAll.length === 0
+                        ? "Nothing missed yet"
+                        : `${missedAll.length} question${missedAll.length === 1 ? "" : "s"} across all banks`}
+                    </span>
+                  </span>
+                  {missedAll.length > 0 && <span className="q-sheet-chev">›</span>}
+                </button>
+              );
+            })()}
+            {Object.entries(BANKS).map(([key, val]) => {
+              const p = bankProgress(key);
+              return (
+                <button key={key} className={`q-sheet-row ${key === bank ? "q-sheet-row-active" : ""}`} onClick={() => setSheetBank(key)}>
+                  <span className="q-sheet-row-main">
+                    <span className="q-sheet-row-title">{val.label}</span>
+                    <span className="q-sheet-row-sub">
+                      {val.questions.length} questions
+                      {p.seen > 0 && ` · ${p.seen} done, ${Math.round((p.correct / p.seen) * 100)}% got it`}
+                      {key === bank && p.category !== "All" && ` · ${p.category}`}
+                    </span>
+                  </span>
+                  <span className="q-sheet-chev">›</span>
+                </button>
+              );
+            })}
+          </div>
+        ) : (
+          <>
+            {getCategoryCounts(sheetBank).length > 12 && (
+              <div className="q-sheet-search">
+                <input
+                  type="text"
+                  inputMode="search"
+                  autoFocus={false}
+                  className="q-sheet-input"
+                  placeholder={`Search ${getCategoryCounts(sheetBank).length} categories`}
+                  value={catQuery}
+                  onChange={(e) => setCatQuery(e.target.value)}
+                />
+                {catQuery && (
+                  <button className="q-sheet-clear" onClick={() => setCatQuery("")} aria-label="Clear">×</button>
+                )}
+              </div>
+            )}
+            <div className="q-sheet-list">
+              {!catQuery && (
+                <button
+                  className={`q-sheet-row ${sheetBank === bank && category === "All" ? "q-sheet-row-active" : ""}`}
+                  onClick={() => chooseCategory(sheetBank, "All")}
+                >
+                  <span className="q-sheet-row-main">
+                    <span className="q-sheet-row-title">All categories</span>
+                    <span className="q-sheet-row-sub">{BANKS[sheetBank].questions.length} questions</span>
+                  </span>
+                  {sheetBank === bank && category === "All" && <span className="q-sheet-check">✓</span>}
+                </button>
+              )}
+              {getCategoryCounts(sheetBank)
+                .filter((c) => c.name.toLowerCase().includes(catQuery.trim().toLowerCase()))
+                .map((c) => {
+                  const selected = sheetBank === bank && category === c.name;
+                  return (
+                    <button key={c.name} className={`q-sheet-row ${selected ? "q-sheet-row-active" : ""}`} onClick={() => chooseCategory(sheetBank, c.name)}>
+                      <span className="q-sheet-row-main">
+                        <span className="q-sheet-row-title">{c.name}</span>
+                        <span className="q-sheet-row-sub">{c.count} question{c.count === 1 ? "" : "s"}</span>
+                      </span>
+                      {selected && <span className="q-sheet-check">✓</span>}
+                    </button>
+                  );
+                })}
+            </div>
+          </>
+        )}
+      </div>
+    </div>
+  );
+
   // Review missed list
   if (reviewMode && missed.length > 0) {
     return (
@@ -253,7 +488,7 @@ export default function Questions() {
                 {isOpen && (
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
-                    <div className="q-answer">{item.a}</div>
+                    <AnswerText text={item.a} />
                   </div>
                 )}
                 {!isOpen && <div className="q-tap-hint" style={{ marginTop: 8 }}>Tap to reveal</div>}
@@ -264,6 +499,7 @@ export default function Questions() {
         <button className="q-btn q-btn-primary" onClick={retryMissed} style={{ marginTop: 16 }}>
           Retry Missed Only ({missed.length})
         </button>
+        {sheet}
       </div>
     );
   }
@@ -304,62 +540,41 @@ export default function Questions() {
           <button className="q-btn q-btn-primary" onClick={() => startNew(category)} style={{ marginTop: 8 }}>
             Restart {category === "All" ? "All" : category}
           </button>
-          <button className="q-btn q-btn-secondary" onClick={() => setShowCatPicker(true)} style={{ marginTop: 8 }}>
-            Pick Category
+          <button className="q-btn q-btn-secondary" onClick={openSheet} style={{ marginTop: 8 }}>
+            Pick bank or category
           </button>
-          {showCatPicker && (
-            <div className="q-cat-grid">
-              {categories.map((c) => (
-                <button key={c} className={`q-cat-chip ${c === category ? "q-cat-active" : ""}`} onClick={() => startNew(c)}>
-                  {c} {c !== "All" && <span className="q-cat-count">({BANKS[bank].questions.filter((x) => x.category === c).length})</span>}
-                </button>
-              ))}
-            </div>
-          )}
         </div>
+        {sheet}
       </div>
     );
   }
 
   if (!q) return null;
 
-  const switchBank = (b) => {
-    setBank(b);
-    setRevealed(false);
-    setShowCatPicker(false);
-    setReviewMode(false);
-    setReviewRevealed({});
-  };
-
   return (
     <div className="q-container">
-      {/* Bank selector */}
-      <div className="q-bank-selector" style={{ display: "flex", gap: 8, marginBottom: 12 }}>
-        {Object.entries(BANKS).map(([key, val]) => (
-          <button key={key} className={`q-cat-chip ${key === bank ? "q-cat-active" : ""}`} onClick={() => switchBank(key)} style={{ flex: 1 }}>
-            {val.label} ({val.questions.length})
-          </button>
-        ))}
-      </div>
-      {/* Top bar */}
-      <div className="q-topbar">
-        <div className="q-progress-info">
-          <span className="q-counter">{current + 1} / {total}</span>
-          <span className="q-cat-badge">{q.category}</span>
-        </div>
-        <div className="q-score-row">
+      {/* One control: what you are studying, tap to change */}
+      <div className="q-topline">
+        <button className="q-context" onClick={openSheet}>
+          <span className="q-context-bank">{bankLabel(bank)}</span>
+          {bank === MISSED_BANK ? (
+            <span className="q-context-cat">all banks</span>
+          ) : (
+            <span className="q-context-cat">{category === "All" ? "All" : category}</span>
+          )}
+          <span className="q-context-chev">▾</span>
+        </button>
+        <div className="q-topline-meta">
+          {missed.length > 0 && (
+            <button className="q-missed-btn" onClick={() => setReviewMode(true)}>{missed.length} missed</button>
+          )}
+          <span className="q-counter">{current + 1}/{total}</span>
           <span className="q-green">{score.correct}</span>
           <span className="q-divider">/</span>
           <span className="q-red">{score.wrong}</span>
-          {missed.length > 0 && (
-            <button className="q-missed-btn" onClick={() => setReviewMode(true)}>
-              {missed.length} missed
-            </button>
-          )}
         </div>
       </div>
 
-      {/* Progress bar */}
       <div className="q-progress-track">
         <div className="q-progress-fill" style={{ width: `${pct}%` }} />
       </div>
@@ -369,7 +584,7 @@ export default function Questions() {
         ref={cardRef}
         className={`q-card ${swiping && swipeX > SWIPE_THRESHOLD ? "q-card-right" : ""} ${swiping && swipeX < -SWIPE_THRESHOLD ? "q-card-left" : ""}`}
         onClick={() => !revealed && !swiping && setRevealed(true)}
-        style={swiping ? { transform: `translateX(${swipeX * 0.4}px) rotate(${swipeX * 0.03}deg)`, transition: "none" } : {}}
+        style={swiping ? { transform: `translateX(${swipeX * 0.4}px) rotate(${swipeX * 0.02}deg)`, transition: "none" } : {}}
       >
         {swiping && Math.abs(swipeX) > SWIPE_THRESHOLD && (
           <div className={`q-swipe-label ${swipeX > 0 ? "q-swipe-right" : "q-swipe-left"}`}>
@@ -378,46 +593,28 @@ export default function Questions() {
         )}
         <div className="q-question">{q.q}</div>
 
-        {revealed ? (
+        {revealed && (
           <div className="q-answer-block">
             <div className="q-divider-line" />
-            <div className="q-answer">{q.a}</div>
+            <AnswerText text={q.a} />
           </div>
-        ) : (
-          <div className="q-tap-hint">Tap to reveal answer</div>
         )}
       </div>
 
-      {/* Action buttons */}
-      {revealed && (
-        <div className="q-actions">
-          <button className="q-btn q-btn-miss" onClick={() => handleMark(false)}>
-            Missed it
-          </button>
-          <button className="q-btn q-btn-got" onClick={() => handleMark(true)}>
-            Got it
-          </button>
-        </div>
-      )}
+      {/* Bottom action bar, always under the thumb */}
+      <div className="q-actionbar">
+        {revealed ? (
+          <div className="q-actions">
+            <button className="q-btn q-btn-miss" onClick={() => handleMark(false)}>Missed it</button>
+            <button className="q-btn q-btn-got" onClick={() => handleMark(true)}>Got it</button>
+          </div>
+        ) : (
+          <button className="q-btn q-btn-reveal" onClick={() => setRevealed(true)}>Show answer</button>
+        )}
+      </div>
 
-      {/* Swipe hint */}
-      {revealed && !swiping && (
-        <div className="q-swipe-hint">or swipe right = got it, left = missed</div>
-      )}
-
-      {/* Category picker */}
-      <button className="q-change-cat" onClick={() => setShowCatPicker((v) => !v)}>
-        {showCatPicker ? "Close" : "Change Category"}
-      </button>
-      {showCatPicker && (
-        <div className="q-cat-grid">
-          {categories.map((c) => (
-            <button key={c} className={`q-cat-chip ${c === category ? "q-cat-active" : ""}`} onClick={() => startNew(c)}>
-              {c} {c !== "All" && <span className="q-cat-count">({BANKS[bank].questions.filter((x) => x.category === c).length})</span>}
-            </button>
-          ))}
-        </div>
-      )}
+      {sheet}
     </div>
   );
+
 }
