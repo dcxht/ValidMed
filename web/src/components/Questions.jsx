@@ -319,6 +319,44 @@ export default function Questions() {
     };
   }, []);
 
+  // Tap anywhere on the study screen to reveal the answer.
+  // Bound on document so blank space around the card counts too. Guards: only
+  // before the reveal, never while the sheet is open, never on a control, never
+  // when the tap was really the end of a drag or a text selection.
+  const tapRef = useRef({ moved: false });
+  useEffect(() => {
+    if (reviewMode || done) return;
+
+    const onTouchStart = (e) => {
+      const t = e.touches[0];
+      tapRef.current = { moved: false, x: t.clientX, y: t.clientY };
+    };
+    const onTouchMove = (e) => {
+      const r = tapRef.current;
+      if (!r || r.moved) return;
+      const t = e.touches[0];
+      if (Math.abs(t.clientX - r.x) > 10 || Math.abs(t.clientY - r.y) > 10) r.moved = true;
+    };
+    const onClick = (e) => {
+      if (revealed || done || sheetOpen || reviewMode) return;
+      if (tapRef.current && tapRef.current.moved) return;
+      const el = e.target;
+      if (el && el.closest && el.closest("button, a, input, textarea, select, label, .q-sheet, .q-sheet-backdrop")) return;
+      const sel = window.getSelection && window.getSelection();
+      if (sel && String(sel).length > 0) return;
+      setRevealed(true);
+    };
+
+    document.addEventListener("touchstart", onTouchStart, { passive: true });
+    document.addEventListener("touchmove", onTouchMove, { passive: true });
+    document.addEventListener("click", onClick);
+    return () => {
+      document.removeEventListener("touchstart", onTouchStart);
+      document.removeEventListener("touchmove", onTouchMove);
+      document.removeEventListener("click", onClick);
+    };
+  }, [revealed, done, sheetOpen, reviewMode]);
+
   // Keyboard shortcuts
   useEffect(() => {
     const handler = (e) => {
