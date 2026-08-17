@@ -3,12 +3,14 @@ import neuroQuestions from "../data/neuroQuestions";
 import endoPathQuestions from "../data/endoPathQuestions";
 import renalPulmQuestions from "../data/renalPulmQuestions";
 import biochemQuestions from "../data/biochemQuestions";
+import arrowsQuestions from "../data/arrowsQuestions";
 
 const BANKS = {
   neuro: { label: "Neuro", questions: neuroQuestions },
   endopath: { label: "Endo + Path", questions: endoPathQuestions },
   renalpulm: { label: "Renal + Pulm", questions: renalPulmQuestions },
   biochem: { label: "Biochem", questions: biochemQuestions },
+  arrows: { label: "Arrows", questions: arrowsQuestions },
 };
 const DEFAULT_BANK = "endopath";
 const SWIPE_THRESHOLD = 60;
