@@ -32,6 +32,7 @@ body {
   min-height: 100vh;
   overflow-y: auto;
   overscroll-behavior-x: none;
+  touch-action: pan-y; /* vertical scroll stays native; horizontal is the swipe's */
 }
 
 /* Header */
@@ -518,6 +519,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
   padding: 0;
+  touch-action: pan-y; /* vertical scroll stays native; horizontal is the swipe's */
 }
 .q-topbar {
   display: flex;
