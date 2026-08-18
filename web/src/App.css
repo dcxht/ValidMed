@@ -588,6 +588,25 @@ body {
 .q-card:active {
   box-shadow: 0 0 0 2px rgba(15,118,110,0.15);
 }
+.q-question-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 12px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid var(--border);
+}
+.q-review-img {
+  display: block;
+  width: 100%;
+  max-height: 220px;
+  object-fit: contain;
+  margin-top: 8px;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid var(--border);
+}
 .q-question {
   font-size: 15px;
   font-weight: 400;

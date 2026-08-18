@@ -1,0 +1,72 @@
+Figure assignments NOT yet visually confirmed (verify each before pushing the bank):
+- fig-013-017 -> pons lettered slice (na53, na54) [page has 2 rasters; assigned the 2nd by order]
+- fig-014-018 -> central pontine myelinolysis CT (na55) [2 rasters on p14; picked smaller/landscape]
+- fig-015-020 -> midbrain lettered cross-section (na56)
+- fig-016-022 -> autopsy brain old crus cerebri infarct (na58) [2 rasters p16]
+- fig-017-024 -> posterior midbrain MLF/colliculi lettered diagram (na59, na60) [2 rasters p17]
+- fig-019-027 -> Parkinson sagittal MRI with blue substantia nigra (na63, na64)
+- fig-020-028 -> ventral brainstem CN lettered diagram (na65, na66) [2 rasters p20, picked by order]
+- fig-021-030 -> CN exit points table image (na67) [may be a Word table = vector; if blank/mismatched, crop from 150dpi p21 render]
+- fig-022-032 -> PCoM aneurysm ventral angiogram (na74)
+- fig-023-034 -> circle of Willis angiogram for basilar/locked-in (na75) [2 rasters p23]
+- fig-024-036 -> carotid/ophthalmic CRAO illustration (na76) [2 rasters p24]
+- fig-024-037 -> aortic arch subclavian steal angiogram (na77) [2 rasters p24]
+(corrected assignments after inventory check)
+- na65/66 -> fig-020-029; na67 -> fig-021-031 (exit table may be vector!); na75 -> fig-023-033; na76 -> fig-023-034; na77 -> fig-024-035
+- fig-025-036 -> cerebellar sagittal section (na78) [2 rasters p25]
+- fig-026-038 -> brachial plexus (na79)
+- fig-027-039 -> cord cross-section identify (na83) [3 rasters p27]
+- fig-027-040 -> cord tract map (na84) [3 rasters p27]
+- fig-028-042 -> myelin stain autopsy (na85) [2 rasters p28; note answer inferred from flow - verify page 28 text]
+- na85 answer verified against p29 text (correct as written)
+- fig-029-044 -> spinothalamic lettered cross-section (na86) [2 rasters p29]
+- fig-030-046 -> central cord syndrome cross-section (na88) [2 rasters p30]
+- fig-031-048 -> tabes dorsalis myelin stain (na90) [2 rasters p31]
+- fig-031-049 -> syringomyelia anterior white commissure (na91) [2 rasters p31]
+- fig-033-052 -> putamen MRI (na95); fig-034-053 -> Huntington caudate MRI (na96) [2 rasters p34]
+- fig-035-055 -> coronal basal ganglia identify (na97); fig-036-056 -> internal capsule specimen (na98) [2 rasters p36]
+- fig-037-058 -> subthalamic/corpus striatum cross-section (na99) [2 rasters p37]
+- fig-036-057 -> midline sagittal identify (na100) [2 rasters p36/37 border]
+- fig-037-059 -> ventricular illustration colloid cyst (na101) [2 rasters p37]
+- fig-038-060/061 -> brain development diagram + NPH CT (na103) [2 rasters p38 - NPH CT may be fig-038-061]
+- fig-039-062 -> 4-CT hemorrhage panel (na104-107) [2 rasters p39: 062,063? check 063]
+- fig-041-064 -> DAI MRI (na108) [2 rasters p41]
+- fig-042-066 -> ring-enhancing CT (na109) [2 rasters p42]
+- fig-043-068 -> pilocytic astrocytoma MRI (na110) - HY image per text
+- fig-044-069 -> GBM CT (na111); fig-044-070 -> schwannoma specimen (na112) [2 rasters p44; assignment by order]
+- fig-045-071 -> Chiari MRI (na114)
+- fig-046-072 -> Dandy-Walker MRI (na119); fig-047-073 -> herniation types diagram (na120) [2 rasters p47]
+- fig-048-075 -> CN III/IV/VI eye-position illustration (na122) [2 rasters p48]
+- fig-049-077 -> visual pathway defect diagram (na124) [2 rasters p49]
+- fig-050-079 -> Marcus Gunn illustration (na126) [2 rasters p50]
+- fig-051-081 -> cavernous sinus lettered illustration (na127-129) - described as exceedingly HY
+- fig-052-082 -> vertebra lettered illustration (na130) [2 rasters p52]
+- na142 area postrema: answer inferred from standard knowledge - VERIFY against p55/56 bottom text before push
+- fig-058-087 -> coloboma photo (na155) [2 rasters p58]
+- na142 VERIFIED against p55 tail (area postrema, dorsal medulla at caudal 4th ventricle); wording fixed to match doc
+- coverage note: full text read through p62; p63-64 are copyright/social only. All vignettes through p62 are now banked.
+
+=== VISUALLY CONFIRMED (viewed, correct mapping) ===
+fig-003-003 (na1 AVM), fig-003-004 (na6 lobes), fig-004-005 (na5/na8 homunculus), fig-004-006 (na2 Willis), fig-005-007 (na19-24 aphasia map), fig-005-coronal (na10-18, custom crop), fig-007-008 (na31-35 lateral dominant map), fig-007-009 (na36-42 sagittal map), fig-008-010 (na43-48 lateral non-dominant map), fig-012-015? NOT yet.
+- fig-020-029 = ventral brainstem CN lettered diagram (na65, na66) CONFIRMED
+- fig-023-033 = locked-in circle of Willis CTA (na75) CONFIRMED via pg-23 render
+- fig-023-034 = carotid/ophthalmic CRAO illustration (na76) CONFIRMED via pg-23 render
+- fig-022-032 = ventral Willis angiogram w/ PICA label (na74) CONFIRMED vs distractor set
+- fig-021-031 UNASSIGNED (sagittal carotid/PCom figure, duplicated content) - not used
+=== STILL UNVERIFIED ===
+fig-009-011 (na49/50), fig-012-015 (na51/52), fig-013-017 (na53/54), fig-014-018 (na55), fig-015-020 (na56), fig-016-022 (na58), fig-017-024 (na59/60), fig-019-027 (na63/64), fig-025-036 (na78), fig-026-038 (na79), fig-027-039/040 (na83/84), fig-028-042 (na85), fig-029-044 (na86), fig-030-046 (na88), fig-031-048/049 (na90/91), fig-033-052 (na95), fig-034-053 (na96), fig-035-055 (na97), fig-036-056 (na98), fig-037-058 (na99), fig-036-057 (na100), fig-037-059 (na101), fig-038-060 (na103), fig-039-062 (na104-107), fig-041-064 (na108), fig-042-066 (na109), fig-043-068 (na110), fig-044-069/070 (na111/112), fig-045-071 (na114), fig-046-072 (na119), fig-047-073 (na120), fig-048-075 (na122), fig-049-077 (na124), fig-050-079 (na126), fig-051-081 (na127-129), fig-052-082 (na130), fig-058-087 (na155)
+=== PAGE-RENDER CONFIRMED (batch 2) ===
+fig-012-015 (na51/52 medulla), fig-013-016 (medulla pair, unassigned ok), fig-013-017 (na53/54 pons), fig-014-018 (na55 CPM CT), fig-015-020 (na56 midbrain lettered), fig-016-022 (na58 autopsy), fig-017-024 (na59/60 MLF lettered), fig-019-027 (na63/64 Parkinson MRI), fig-025-036 (na78 cerebellum section), fig-026-038 (na79 plexus), fig-027-039 (na83 cord identify), fig-027-040 (na84 tract map), fig-028-042 (na85 myelin autopsy), fig-029-044 (na86 spinothalamic), fig-030-046 (na88 central cord), fig-030-047 (na89 anterior cord, ADDED), fig-031-048 (na90 tabes), fig-031-049 (na91 syrinx), fig-033-052 (na95 putamen MRI), fig-034-053 (na96 Huntington MRI)
+=== FIXES APPLIED FROM PAGE-RENDER CHECKS ===
+na97 -> fig-034-054 (axial identify, was fig-035-055); na98 -> fig-035-055 (capsule specimen, was fig-036-056); na99 -> fig-036-056 (subthalamic, was fig-037-058); na101 -> fig-037-058 (was fig-037-059); na103 -> fig-038-061 (was fig-038-060); na67 image dropped (vector table); fig-037-059 (coronal colloid cyst view), fig-038-060 (development diagram), fig-021-031 unassigned.
+=== STILL UNVERIFIED ===
+fig-039-062 (na104-107), fig-041-064 (na108), fig-042-066 (na109), fig-043-068 (na110), fig-044-069/070 (na111/112), fig-045-071 (na114), fig-046-072 (na119), fig-047-073 (na120), fig-048-075 (na122), fig-049-077 (na124), fig-050-079 (na126), fig-051-081 (na127-129), fig-052-082 (na130), fig-058-087 (na155)
+=== PAGE-RENDER CONFIRMED (batch 3) ===
+fig-039-062 (na104-107 4-CT panel), fig-041-064 (na108 DAI MRI), fig-042-066 (na109 ring CT)
+FIXES: na110 -> fig-042-067 (pilocytic MRI is on p42); na111 -> fig-043-068 (GBM CT on p43); na112 -> fig-044-069 (schwannoma specimen on p44); na113 + fig-044-070 (CP angle MRI)
+=== STILL UNVERIFIED ===
+fig-045-071 (na114), fig-046-072 (na119), fig-047-073 (na120), fig-048-075 (na122), fig-049-077 (na124), fig-050-079 (na126), fig-051-081 (na127-129), fig-052-082 (na130), fig-058-087 (na155)
+=== PAGE-RENDER CONFIRMED (batch 4) ===
+fig-045-071 (na114 Chiari), fig-050-079 (na126 Marcus Gunn), fig-051-081 (na127-129 cavernous sinus lettered), fig-058-087 (na155 coloboma), fig-036-057 (na100 midline sagittal identify)
+FIXES: na119 -> fig-047-073 (Dandy-Walker MRI on p47); na120 -> fig-047-074 (herniation identify diagram); na130 -> fig-052-083 (vertebra illustration; 082 is the facial-veins photo)
+ALL FIGURE ASSIGNMENTS NOW VISUALLY VERIFIED via page renders or direct image views.

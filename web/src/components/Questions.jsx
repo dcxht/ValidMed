@@ -4,6 +4,7 @@ import endoPathQuestions from "../data/endoPathQuestions";
 import renalPulmQuestions from "../data/renalPulmQuestions";
 import biochemQuestions from "../data/biochemQuestions";
 import arrowsQuestions from "../data/arrowsQuestions";
+import neuroAnatomyQuestions from "../data/neuroAnatomyQuestions";
 
 const BANKS = {
   neuro: { label: "Neuro", questions: neuroQuestions },
@@ -11,6 +12,7 @@ const BANKS = {
   renalpulm: { label: "Renal + Pulm", questions: renalPulmQuestions },
   biochem: { label: "Biochem", questions: biochemQuestions },
   arrows: { label: "Arrows", questions: arrowsQuestions },
+  neuroanatomy: { label: "Neuroanatomy", questions: neuroAnatomyQuestions },
 };
 const DEFAULT_BANK = "endopath";
 const MISSED_BANK = "__missed__";
@@ -538,6 +540,7 @@ export default function Questions() {
                   <span className="q-review-num">#{i + 1}</span>
                 </div>
                 <div className="q-review-q">{item.q}</div>
+                {item.img && <img className="q-review-img" src={item.img} alt={item.alt || ""} loading="lazy" />}
                 {isOpen && (
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
@@ -644,6 +647,8 @@ export default function Questions() {
           </div>
         )}
         <div className="q-question">{q.q}</div>
+
+        {q.img && <img className="q-question-img" src={q.img} alt={q.alt || ""} loading="lazy" />}
 
         {revealed && (
           <div className="q-answer-block">
