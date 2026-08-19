@@ -5,6 +5,7 @@ import renalPulmQuestions from "../data/renalPulmQuestions";
 import biochemQuestions from "../data/biochemQuestions";
 import arrowsQuestions from "../data/arrowsQuestions";
 import neuroAnatomyQuestions from "../data/neuroAnatomyQuestions";
+import immunoQuestions from "../data/immunoQuestions";
 
 const BANKS = {
   neuro: { label: "Neuro", questions: neuroQuestions },
@@ -13,6 +14,7 @@ const BANKS = {
   biochem: { label: "Biochem", questions: biochemQuestions },
   arrows: { label: "Arrows", questions: arrowsQuestions },
   neuroanatomy: { label: "Neuroanatomy", questions: neuroAnatomyQuestions },
+  immuno: { label: "Immunology", questions: immunoQuestions },
 };
 const DEFAULT_BANK = "endopath";
 const MISSED_BANK = "__missed__";
