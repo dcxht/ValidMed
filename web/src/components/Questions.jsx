@@ -1,21 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
-import neuroQuestions from "../data/neuroQuestions";
-import endoPathQuestions from "../data/endoPathQuestions";
-import renalPulmQuestions from "../data/renalPulmQuestions";
-import biochemQuestions from "../data/biochemQuestions";
-import arrowsQuestions from "../data/arrowsQuestions";
-import neuroAnatomyQuestions from "../data/neuroAnatomyQuestions";
-import immunoQuestions from "../data/immunoQuestions";
+import { BANKS } from "../data/banks";
+import { recordEvent } from "../historyStore";
 
-const BANKS = {
-  neuro: { label: "Neuro", questions: neuroQuestions },
-  endopath: { label: "Endo + Path", questions: endoPathQuestions },
-  renalpulm: { label: "Renal + Pulm", questions: renalPulmQuestions },
-  biochem: { label: "Biochem", questions: biochemQuestions },
-  arrows: { label: "Arrows", questions: arrowsQuestions },
-  neuroanatomy: { label: "Neuroanatomy", questions: neuroAnatomyQuestions },
-  immuno: { label: "Immunology", questions: immunoQuestions },
-};
 const DEFAULT_BANK = "endopath";
 const MISSED_BANK = "__missed__";
 const FLAG_BANK = "__flagged__";
@@ -276,6 +262,7 @@ export default function Questions() {
     if (!item || !item.id) return;
     setFlags((prev) => {
       const next = toggleFlagId(prev, item.id);
+      recordEvent({ type: "flag", id: item.id, bank, flagged: next.has(item.id) });
       setFlagFlash(next.has(item.id) ? "Flagged" : "Unflagged");
       setTimeout(() => setFlagFlash(null), 700);
       return next;
@@ -283,6 +270,8 @@ export default function Questions() {
   };
 
   const handleMark = (correct) => {
+    const item = queue[current];
+    if (item && item.id) recordEvent({ type: "mark", id: item.id, bank, correct });
     if (!correct) {
       setMissed((prev) => [...prev, queue[current]]);
     }
