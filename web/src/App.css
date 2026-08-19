@@ -1226,7 +1226,10 @@ body {
   padding: 4px;
   cursor: pointer;
   z-index: 3;
-  opacity: 0.9;
+  opacity: 0.35;
+}
+.q-flag-badge-on {
+  opacity: 1;
 }
 .q-flag-flash {
   position: absolute;

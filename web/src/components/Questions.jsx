@@ -343,7 +343,18 @@ export default function Questions() {
       ref.dy = dy;
       ref.ySamples.push({ y: t.clientY, t: Date.now() });
       if (ref.ySamples.length > 12) ref.ySamples.shift();
-      if (!ref.horizontal) return;
+      if (!ref.horizontal) {
+        // Upward swipe flags when the page can't scroll any further down.
+        // Mid-scroll, an upward swipe keeps scrolling (browser owns it).
+        if (dy < 0) {
+          const atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 8;
+          if (atBottom) {
+            if (e.cancelable) e.preventDefault();
+            ref.flagCandidate = true;
+          }
+        }
+        return;
+      }
       if (e.cancelable) e.preventDefault();
       ref.dx = dx;
       ref.samples.push({ x: t.clientX, t: Date.now() });
@@ -377,7 +388,7 @@ export default function Questions() {
           if (dtY > 0) velY = (lastY.y - baseY.y) / dtY;
         }
         const dyTotal = ref.dy || 0;
-        if (!isDone && !inReview && queue[current] && dyTotal <= -24 && velY <= -0.45) {
+        if (!isDone && !inReview && ref.flagCandidate && (dyTotal <= -36 || velY <= -0.35)) {
           liveRef.current.toggleFlag();
         }
         setSwipeX(0);
@@ -747,8 +758,12 @@ export default function Questions() {
         onClick={() => !revealed && !swiping && setRevealed(true)}
         style={swiping ? { transform: `translateX(${swipeX * 0.4}px) rotate(${swipeX * 0.02}deg)`, transition: "none" } : {}}
       >
-        {q.id && flags.has(q.id) && (
-          <button className="q-flag-badge" onClick={(e) => { e.stopPropagation(); toggleFlag(); }} aria-label="Unflag question">🚩</button>
+        {q.id && (
+          <button
+            className={`q-flag-badge ${flags.has(q.id) ? "q-flag-badge-on" : ""}`}
+            onClick={(e) => { e.stopPropagation(); toggleFlag(); }}
+            aria-label={flags.has(q.id) ? "Unflag question" : "Flag question"}
+          >{flags.has(q.id) ? "🚩" : "⚐"}</button>
         )}
         {flagFlash && <div className="q-flag-flash">{flagFlash}</div>}
         {swiping && Math.abs(swipeX) > SWIPE_THRESHOLD && (
