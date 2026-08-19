@@ -18,6 +18,7 @@ const BANKS = {
 };
 const DEFAULT_BANK = "endopath";
 const MISSED_BANK = "__missed__";
+const FLAG_BANK = "__flagged__";
 const SWIPE_THRESHOLD = 45; // px of travel that commits a swipe
 const FLICK_MIN_DIST = 25;  // px - shorter travel still commits if fast
 const FLICK_MIN_VEL = 0.25; // px/ms over the last ~120ms of the gesture (250px/s = a real flick)
@@ -101,6 +102,29 @@ function saveState(bank, state) {
   } catch {}
 }
 
+// Flags are global across banks and never auto-clear: a flagged question stays
+// flagged until the user swipes up on it again.
+function loadFlags() {
+  try {
+    const raw = localStorage.getItem("validmed_flags");
+    if (raw) return new Set(JSON.parse(raw));
+  } catch {}
+  return new Set();
+}
+
+function saveFlags(flags) {
+  try {
+    localStorage.setItem("validmed_flags", JSON.stringify([...flags]));
+  } catch {}
+}
+
+function toggleFlagId(flags, id) {
+  const next = new Set(flags);
+  if (next.has(id)) next.delete(id); else next.add(id);
+  saveFlags(next);
+  return next;
+}
+
 function getCategoryCounts(bank) {
   const counts = new Map();
   for (const q of BANKS[bank].questions) counts.set(q.category, (counts.get(q.category) || 0) + 1);
@@ -125,8 +149,23 @@ function collectMissed() {
   return out;
 }
 
+// Every flagged question, across all banks, de-duplicated.
+function collectFlagged() {
+  const flags = loadFlags();
+  if (flags.size === 0) return [];
+  const out = [];
+  for (const key of Object.keys(BANKS)) {
+    for (const q of BANKS[key].questions) {
+      if (flags.has(q.id)) out.push(q);
+    }
+  }
+  return out;
+}
+
 function bankLabel(bank) {
-  return bank === MISSED_BANK ? "Missed" : BANKS[bank].label;
+  if (bank === MISSED_BANK) return "Missed";
+  if (bank === FLAG_BANK) return "Flagged";
+  return BANKS[bank].label;
 }
 
 function bankProgress(bank) {
@@ -147,7 +186,7 @@ export default function Questions() {
   const [bank, setBank] = useState(() => {
     try {
       const last = localStorage.getItem("validmed_last_bank");
-      if (last && (BANKS[last] || last === MISSED_BANK)) return last;
+      if (last && (BANKS[last] || last === MISSED_BANK || last === FLAG_BANK)) return last;
     } catch {}
     return DEFAULT_BANK;
   });
@@ -166,6 +205,8 @@ export default function Questions() {
   const [reviewRevealed, setReviewRevealed] = useState({});
   const [swipeX, setSwipeX] = useState(0);
   const [swiping, setSwiping] = useState(false);
+  const [flags, setFlags] = useState(loadFlags);
+  const [flagFlash, setFlagFlash] = useState(null);
   const touchRef = useRef({ startX: 0, startY: 0, locked: false });
 
 
@@ -200,7 +241,7 @@ export default function Questions() {
 
   const startNew = useCallback((cat, b) => {
     const currentBank = b || bank;
-    const allQs = currentBank === MISSED_BANK ? collectMissed() : BANKS[currentBank].questions;
+    const allQs = currentBank === MISSED_BANK ? collectMissed() : currentBank === FLAG_BANK ? collectFlagged() : BANKS[currentBank].questions;
     const pool = cat === "All" ? allQs : allQs.filter((q) => q.category === cat);
     const shuffled = shuffle(pool);
     setQueue(shuffled);
@@ -230,6 +271,17 @@ export default function Questions() {
   const total = queue.length;
   const pct = total > 0 ? Math.round(((score.correct + score.wrong) / total) * 100) : 0;
 
+  const toggleFlag = () => {
+    const item = queue[current];
+    if (!item || !item.id) return;
+    setFlags((prev) => {
+      const next = toggleFlagId(prev, item.id);
+      setFlagFlash(next.has(item.id) ? "Flagged" : "Unflagged");
+      setTimeout(() => setFlagFlash(null), 700);
+      return next;
+    });
+  };
+
   const handleMark = (correct) => {
     if (!correct) {
       setMissed((prev) => [...prev, queue[current]]);
@@ -256,8 +308,8 @@ export default function Questions() {
 
   // Latest state for the native listeners, so they can be bound once and never
   // rebind mid-gesture (a rebind can make later touchmove events non-cancelable).
-  const liveRef = useRef({ revealed, done, reviewMode, handleMark });
-  liveRef.current = { revealed, done, reviewMode, handleMark };
+  const liveRef = useRef({ revealed, done, reviewMode, handleMark, toggleFlag });
+  liveRef.current = { revealed, done, reviewMode, handleMark, toggleFlag };
 
   // Bound on document, not the card: a swipe that starts on blank space around
   // or below the card must count too.
@@ -270,7 +322,7 @@ export default function Questions() {
       if (el && el.closest && el.closest("button, a, input, textarea, select, label, .q-topline, .q-actionbar, .q-sheet, .q-sheet-backdrop")) return;
       const t = e.touches[0];
       const fromEdge = t.clientX < EDGE_DEAD_ZONE || t.clientX > window.innerWidth - EDGE_DEAD_ZONE;
-      touchRef.current = { startX: t.clientX, startY: t.clientY, locked: fromEdge, horizontal: false, samples: [{ x: t.clientX, t: Date.now() }] };
+      touchRef.current = { startX: t.clientX, startY: t.clientY, locked: fromEdge, horizontal: false, samples: [{ x: t.clientX, t: Date.now() }], ySamples: [{ y: t.clientY, t: Date.now() }] };
       setSwiping(false);
       setSwipeX(0);
     };
@@ -288,6 +340,9 @@ export default function Questions() {
         ref.locked = true;
         ref.horizontal = Math.abs(dx) > Math.abs(dy) * 1.25;
       }
+      ref.dy = dy;
+      ref.ySamples.push({ y: t.clientY, t: Date.now() });
+      if (ref.ySamples.length > 12) ref.ySamples.shift();
       if (!ref.horizontal) return;
       if (e.cancelable) e.preventDefault();
       ref.dx = dx;
@@ -301,7 +356,35 @@ export default function Questions() {
       const ref = touchRef.current;
       touchRef.current = null;
       const { revealed: isRevealed, done: isDone, reviewMode: inReview, handleMark: mark } = liveRef.current;
-      if (!isRevealed || isDone || inReview || !ref || !ref.horizontal) {
+      if (!ref) {
+        setSwipeX(0);
+        setSwiping(false);
+        return;
+      }
+      // Upward flick = flag/unflag the current question. A slow drag just
+      // scrolls (we never preventDefault for vertical), so only a fast flick
+      // triggers the flag. Works before or after the reveal.
+      if (!ref.horizontal) {
+        const ys = ref.ySamples || [];
+        let velY = 0;
+        if (ys.length > 1) {
+          const lastY = ys[ys.length - 1];
+          let baseY = ys[0];
+          for (let i = ys.length - 1; i >= 0; i--) {
+            if (ys[i].t <= lastY.t - 120) { baseY = ys[i]; break; }
+          }
+          const dtY = lastY.t - baseY.t;
+          if (dtY > 0) velY = (lastY.y - baseY.y) / dtY;
+        }
+        const dyTotal = ref.dy || 0;
+        if (!isDone && !inReview && queue[current] && dyTotal <= -24 && velY <= -0.45) {
+          liveRef.current.toggleFlag();
+        }
+        setSwipeX(0);
+        setSwiping(false);
+        return;
+      }
+      if (!isRevealed || isDone || inReview) {
         setSwipeX(0);
         setSwiping(false);
         return;
@@ -380,6 +463,7 @@ export default function Questions() {
   useEffect(() => {
     const handler = (e) => {
       if (reviewMode) return;
+      if (e.key === "f" && !done) { toggleFlag(); return; }
       if (e.key === " " || e.key === "Enter") {
         e.preventDefault();
         if (!revealed && !done) setRevealed(true);
@@ -450,6 +534,26 @@ export default function Questions() {
                     </span>
                   </span>
                   {missedAll.length > 0 && <span className="q-sheet-chev">›</span>}
+                </button>
+              );
+            })()}
+            {(() => {
+              const flaggedAll = collectFlagged();
+              return (
+                <button
+                  className={`q-sheet-row q-sheet-row-flagged ${bank === FLAG_BANK ? "q-sheet-row-active" : ""}`}
+                  disabled={flaggedAll.length === 0}
+                  onClick={() => flaggedAll.length > 0 && chooseCategory(FLAG_BANK, "All")}
+                >
+                  <span className="q-sheet-row-main">
+                    <span className="q-sheet-row-title">Review flagged</span>
+                    <span className="q-sheet-row-sub">
+                      {flaggedAll.length === 0
+                        ? "Swipe up on any question to flag it"
+                        : `${flaggedAll.length} question${flaggedAll.length === 1 ? "" : "s"} across all banks`}
+                    </span>
+                  </span>
+                  {flaggedAll.length > 0 && <span className="q-sheet-chev">›</span>}
                 </button>
               );
             })()}
@@ -615,7 +719,7 @@ export default function Questions() {
       <div className="q-topline">
         <button className="q-context" onClick={openSheet}>
           <span className="q-context-bank">{bankLabel(bank)}</span>
-          {bank === MISSED_BANK ? (
+          {bank === MISSED_BANK || bank === FLAG_BANK ? (
             <span className="q-context-cat">all banks</span>
           ) : (
             <span className="q-context-cat">{category === "All" ? "All" : category}</span>
@@ -643,6 +747,10 @@ export default function Questions() {
         onClick={() => !revealed && !swiping && setRevealed(true)}
         style={swiping ? { transform: `translateX(${swipeX * 0.4}px) rotate(${swipeX * 0.02}deg)`, transition: "none" } : {}}
       >
+        {q.id && flags.has(q.id) && (
+          <button className="q-flag-badge" onClick={(e) => { e.stopPropagation(); toggleFlag(); }} aria-label="Unflag question">🚩</button>
+        )}
+        {flagFlash && <div className="q-flag-flash">{flagFlash}</div>}
         {swiping && Math.abs(swipeX) > SWIPE_THRESHOLD && (
           <div className={`q-swipe-label ${swipeX > 0 ? "q-swipe-right" : "q-swipe-left"}`}>
             {swipeX > 0 ? "Got it" : "Missed"}

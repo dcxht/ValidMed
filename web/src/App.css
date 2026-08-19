@@ -1214,3 +1214,44 @@ body {
     border-radius: 12px;
   }
 }
+
+/* Flag feature: up-flick flags a question; badge on flagged cards */
+.q-flag-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 18px;
+  padding: 4px;
+  cursor: pointer;
+  z-index: 3;
+  opacity: 0.9;
+}
+.q-flag-flash {
+  position: absolute;
+  top: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 6px;
+  background: #fef3c7;
+  color: #92400e;
+  pointer-events: none;
+  z-index: 2;
+  animation: qFlagFlash 0.7s ease-out forwards;
+}
+@keyframes qFlagFlash {
+  0% { opacity: 0; transform: translateX(-50%) translateY(6px); }
+  20% { opacity: 1; transform: translateX(-50%) translateY(0); }
+  80% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.q-sheet-row-flagged .q-sheet-row-title {
+  color: #b45309;
+}
+.q-sheet-row-flagged:disabled {
+  opacity: 0.55;
+}
