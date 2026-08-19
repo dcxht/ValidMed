@@ -12,17 +12,6 @@ export default function App() {
     return () => window.removeEventListener("hashchange", onChange);
   }, []);
 
-  if (hash === "#history") {
-    return (
-      <div className="app">
-        <main className="app-main">
-          <HistoryPage />
-        </main>
-        <Analytics />
-      </div>
-    );
-  }
-
   return (
     <div className="app">
       <header className="app-header">
@@ -35,7 +24,7 @@ export default function App() {
       </header>
 
       <main className="app-main">
-        <Questions />
+        {hash === "#history" ? <HistoryPage /> : <Questions />}
       </main>
 
       <Analytics />

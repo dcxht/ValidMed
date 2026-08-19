@@ -1,6 +1,7 @@
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { BANKS } from "../data/banks";
 import { hasGate, setGate, checkGate, loadHistory } from "../historyStore";
+import Questions from "./Questions";
 
 function bankOf(id) {
   for (const [key, b] of Object.entries(BANKS)) {
@@ -70,7 +71,20 @@ export default function HistoryPage() {
     );
   }
 
-  return <HistoryView />;
+  return <AuthedView />;
+}
+
+function AuthedView() {
+  const [tab, setTab] = useState("quiz");
+  return (
+    <div>
+      <div className="hist-tabs">
+        <button className={tab === "quiz" ? "hist-tab hist-tab-active" : "hist-tab"} onClick={() => setTab("quiz")}>Quiz</button>
+        <button className={tab === "history" ? "hist-tab hist-tab-active" : "hist-tab"} onClick={() => setTab("history")}>History</button>
+      </div>
+      {tab === "quiz" ? <Questions /> : <HistoryView />}
+    </div>
+  );
 }
 
 function HistoryView() {
