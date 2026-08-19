@@ -329,7 +329,7 @@ export default function Questions() {
 
     const onMove = (e) => {
       const { revealed: isRevealed, done: isDone, reviewMode: inReview } = liveRef.current;
-      if (!isRevealed || isDone || inReview) return;
+      if (isDone || inReview) return;
       const ref = touchRef.current;
       if (!ref) return;
       const t = e.touches[0];
@@ -345,7 +345,8 @@ export default function Questions() {
       if (ref.ySamples.length > 12) ref.ySamples.shift();
       if (!ref.horizontal) {
         // Upward swipe flags when the page can't scroll any further down.
-        // Mid-scroll, an upward swipe keeps scrolling (browser owns it).
+        // Works before or after the reveal. Mid-scroll, an upward swipe keeps
+        // scrolling (the browser owns it).
         if (dy < 0) {
           const atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 8;
           if (atBottom) {
@@ -355,6 +356,7 @@ export default function Questions() {
         }
         return;
       }
+      if (!isRevealed) return; // horizontal got-it/missed swipes need the answer shown
       if (e.cancelable) e.preventDefault();
       ref.dx = dx;
       ref.samples.push({ x: t.clientX, t: Date.now() });
