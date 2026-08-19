@@ -30,6 +30,17 @@ export async function bootstrapSync() {
     if (!r.ok) return;
     const { state } = await r.json();
     if (state && typeof state === "object") {
+      // Cloud is the mirror: local keys missing from cloud are dropped, so a
+      // server-side reset (empty object) clears the device on next open.
+      const drop = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const k = localStorage.key(i);
+        if (k && k.startsWith(PREFIX)) {
+          const base = k.slice(PREFIX.length);
+          if (BASE_RE.test(base) && !(base in state)) drop.push(k);
+        }
+      }
+      for (const k of drop) localStorage.removeItem(k);
       for (const [base, val] of Object.entries(state)) {
         if (BASE_RE.test(base) && typeof val === "string") {
           localStorage.setItem(PREFIX + base, val);
