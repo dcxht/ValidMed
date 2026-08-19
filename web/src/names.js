@@ -11,3 +11,19 @@ export const PERSON = NAMES.includes(seg) ? seg : null;
 export function key(base) {
   return PERSON ? `${PERSON}_${base}` : base;
 }
+
+// First visit to a personal copy: import whatever memory the public homepage
+// already had on this device (progress, flags, history), so "my own page"
+// starts from where that person actually was. Copy-if-absent per key, so
+// later homepage use never overwrites the personal copy's own progress.
+if (PERSON) {
+  try {
+    const prefix = `${PERSON}_`;
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith("validmed_") && !localStorage.getItem(prefix + k)) {
+        localStorage.setItem(prefix + k, localStorage.getItem(k));
+      }
+    }
+  } catch {}
+}
