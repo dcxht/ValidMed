@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Analytics } from "@vercel/analytics/react";
 import Questions from "./components/Questions";
 import HistoryPage from "./components/HistoryPage";
+import { PERSON } from "./names";
 import "./App.css";
 
 export default function App() {
@@ -11,6 +12,8 @@ export default function App() {
     window.addEventListener("hashchange", onChange);
     return () => window.removeEventListener("hashchange", onChange);
   }, []);
+
+  const showHistory = PERSON && hash === "#history";
 
   return (
     <div className="app">
@@ -24,7 +27,7 @@ export default function App() {
       </header>
 
       <main className="app-main">
-        {hash === "#history" ? <HistoryPage /> : <Questions />}
+        {showHistory ? <HistoryPage /> : <Questions />}
       </main>
 
       <Analytics />

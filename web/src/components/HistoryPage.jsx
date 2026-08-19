@@ -1,11 +1,11 @@
-import { useMemo, useState } from "react";
+import { useMemo } from "react";
 import { BANKS } from "../data/banks";
-import { hasGate, setGate, checkGate, loadHistory } from "../historyStore";
-import Questions from "./Questions";
+import { loadHistory } from "../historyStore";
+import { key } from "../names";
 
 function bankOf(id) {
-  for (const [key, b] of Object.entries(BANKS)) {
-    if (b.questions.some((q) => q.id === id)) return key;
+  for (const [k, b] of Object.entries(BANKS)) {
+    if (b.questions.some((q) => q.id === id)) return k;
   }
   return null;
 }
@@ -17,77 +17,6 @@ function findQuestion(id) {
 }
 
 export default function HistoryPage() {
-  const [gateReady] = useState(hasGate());
-  const [unlocked, setUnlocked] = useState(false);
-  const [pass, setPass] = useState("");
-  const [pass2, setPass2] = useState("");
-  const [error, setError] = useState("");
-
-  const submit = async (e) => {
-    e.preventDefault();
-    setError("");
-    if (!gateReady) {
-      if (pass.length < 4) { setError("Pick at least 4 characters."); return; }
-      if (pass !== pass2) { setError("Passcodes don't match."); return; }
-      await setGate(pass);
-      setUnlocked(true);
-    } else {
-      if (await checkGate(pass)) setUnlocked(true);
-      else { setError("Wrong passcode."); setPass(""); }
-    }
-  };
-
-  if (!unlocked) {
-    return (
-      <div className="gate-wrap">
-        <h2>{gateReady ? "History" : "Set up History"}</h2>
-        <p className="gate-sub">
-          {gateReady ? "Enter your passcode." : "Choose a passcode. It never leaves this device."}
-        </p>
-        <form onSubmit={submit} className="gate-form">
-          <input
-            type="password"
-            inputMode="text"
-            autoComplete={gateReady ? "current-password" : "new-password"}
-            placeholder="Passcode"
-            value={pass}
-            onChange={(e) => setPass(e.target.value)}
-            autoFocus
-          />
-          {!gateReady && (
-            <input
-              type="password"
-              inputMode="text"
-              autoComplete="new-password"
-              placeholder="Repeat passcode"
-              value={pass2}
-              onChange={(e) => setPass2(e.target.value)}
-            />
-          )}
-          {error && <p className="gate-error">{error}</p>}
-          <button type="submit" className="q-btn q-btn-reveal">{gateReady ? "Unlock" : "Save passcode"}</button>
-        </form>
-      </div>
-    );
-  }
-
-  return <AuthedView />;
-}
-
-function AuthedView() {
-  const [tab, setTab] = useState("quiz");
-  return (
-    <div>
-      <div className="hist-tabs">
-        <button className={tab === "quiz" ? "hist-tab hist-tab-active" : "hist-tab"} onClick={() => setTab("quiz")}>Quiz</button>
-        <button className={tab === "history" ? "hist-tab hist-tab-active" : "hist-tab"} onClick={() => setTab("history")}>History</button>
-      </div>
-      {tab === "quiz" ? <Questions /> : <HistoryView />}
-    </div>
-  );
-}
-
-function HistoryView() {
   const events = useMemo(() => loadHistory(), []);
   const marks = events.filter((e) => e.type === "mark");
   const perBank = {};
@@ -100,7 +29,7 @@ function HistoryView() {
   }
   let flags = [];
   try {
-    flags = JSON.parse(localStorage.getItem("validmed_flags") || "[]");
+    flags = JSON.parse(localStorage.getItem(key("validmed_flags")) || "[]");
   } catch {}
   const recent = [...events].reverse().slice(0, 50);
 

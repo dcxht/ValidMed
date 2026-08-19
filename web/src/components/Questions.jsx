@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { BANKS } from "../data/banks";
 import { recordEvent } from "../historyStore";
+import { key } from "../names";
 
 const DEFAULT_BANK = "endopath";
 const MISSED_BANK = "__missed__";
@@ -63,7 +64,7 @@ function AnswerText({ text }) {
   );
 }
 
-function storageKey(bank) { return `validmed_q_${bank}`; }
+function storageKey(bank) { return key(`validmed_q_${bank}`); }
 
 function shuffle(arr) {
   const a = [...arr];
@@ -92,7 +93,7 @@ function saveState(bank, state) {
 // flagged until the user swipes up on it again.
 function loadFlags() {
   try {
-    const raw = localStorage.getItem("validmed_flags");
+    const raw = localStorage.getItem(key("validmed_flags"));
     if (raw) return new Set(JSON.parse(raw));
   } catch {}
   return new Set();
@@ -100,7 +101,7 @@ function loadFlags() {
 
 function saveFlags(flags) {
   try {
-    localStorage.setItem("validmed_flags", JSON.stringify([...flags]));
+    localStorage.setItem(key("validmed_flags"), JSON.stringify([...flags]));
   } catch {}
 }
 
@@ -171,7 +172,7 @@ function bankProgress(bank) {
 export default function Questions() {
   const [bank, setBank] = useState(() => {
     try {
-      const last = localStorage.getItem("validmed_last_bank");
+      const last = localStorage.getItem(key("validmed_last_bank"));
       if (last && (BANKS[last] || last === MISSED_BANK || last === FLAG_BANK)) return last;
     } catch {}
     return DEFAULT_BANK;
@@ -198,7 +199,7 @@ export default function Questions() {
 
   // Init from storage or fresh
   useEffect(() => {
-    try { localStorage.setItem("validmed_last_bank", bank); } catch {}
+    try { localStorage.setItem(key("validmed_last_bank"), bank); } catch {}
     const pending = pendingRef.current;
     if (pending && pending.bank === bank) {
       pendingRef.current = null;
