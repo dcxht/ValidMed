@@ -5,6 +5,8 @@ import biochemQuestions from "./biochemQuestions";
 import arrowsQuestions from "./arrowsQuestions";
 import neuroAnatomyQuestions from "./neuroAnatomyQuestions";
 import immunoQuestions from "./immunoQuestions";
+import reproQuestions from "./reproQuestions";
+import imageQuestions from "./nbmeImageQuestions";
 
 export const BANKS = {
   neuro: { label: "Neuro", questions: neuroQuestions },
@@ -14,4 +16,6 @@ export const BANKS = {
   arrows: { label: "Arrows", questions: arrowsQuestions },
   neuroanatomy: { label: "Neuroanatomy", questions: neuroAnatomyQuestions },
   immuno: { label: "Immunology", questions: immunoQuestions },
+  repro: { label: "Repro + OB", questions: reproQuestions },
+  nbmeimages: { label: "NBME Images", questions: imageQuestions },
 };
