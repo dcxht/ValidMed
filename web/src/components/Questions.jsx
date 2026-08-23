@@ -191,6 +191,10 @@ export default function Questions() {
   const [sheetBank, setSheetBank] = useState(null);
   const [catQuery, setCatQuery] = useState("");
   const pendingRef = useRef(null);
+  // Set by the bank-init effect: the render right after a bank switch still
+  // carries the previous bank's session, so the save effect must skip it or
+  // it would overwrite the new bank's saved progress with stale data.
+  const justSwitchedRef = useRef(false);
   const [reviewMode, setReviewMode] = useState(false);
   const [reviewRevealed, setReviewRevealed] = useState({});
   const [swipeX, setSwipeX] = useState(0);
@@ -206,10 +210,29 @@ export default function Questions() {
     const pending = pendingRef.current;
     if (pending && pending.bank === bank) {
       pendingRef.current = null;
+      justSwitchedRef.current = true;
+      // A bank switch with a saved session resumes it (same behavior as a
+      // reload); only a fresh start shuffles. Before this, every switch ran
+      // startNew and wiped the target bank's saved progress.
+      const saved = pending.resume ? loadState(bank) : null;
+      if (saved && saved.queue && saved.queue.length > 0) {
+        setQueue(saved.queue);
+        setCurrent(saved.current || 0);
+        setScore(saved.score || { correct: 0, wrong: 0 });
+        setMissed(saved.missed || []);
+        setResults(saved.results || {});
+        setCategory(saved.category || "All");
+        setDone((saved.current || 0) >= saved.queue.length);
+        setRevealed(false);
+        setReviewMode(false);
+        setReviewRevealed({});
+        return;
+      }
       startNew(pending.category, bank);
       return;
     }
     const saved = loadState(bank);
+    justSwitchedRef.current = true;
     if (saved && saved.queue && saved.queue.length > 0) {
       setQueue(saved.queue);
       setCurrent(saved.current || 0);
@@ -225,6 +248,12 @@ export default function Questions() {
 
   // Save on change
   useEffect(() => {
+    if (justSwitchedRef.current) {
+      // This render still holds the previous bank's session; do not save it
+      // under the new bank's key. The next render (post-restore) saves.
+      justSwitchedRef.current = false;
+      return;
+    }
     if (queue.length > 0) {
       saveState(bank, { queue, current, score, missed, category, results });
     }
@@ -536,7 +565,15 @@ export default function Questions() {
       if (cat !== category || done) startNew(cat, bank);
       return;
     }
-    pendingRef.current = { bank: targetBank, category: cat };
+    // Resume the target bank's saved session when it was studying this same
+    // category; picking a different category (or no saved session) starts fresh.
+    // Missed/Flagged review banks always rebuild so they reflect current marks.
+    let resume = false;
+    if (BANKS[targetBank]) {
+      const saved = loadState(targetBank);
+      resume = !!(saved && saved.queue && saved.queue.length > 0 && (saved.category || "All") === cat);
+    }
+    pendingRef.current = { bank: targetBank, category: cat, resume };
     setBank(targetBank);
   };
 
