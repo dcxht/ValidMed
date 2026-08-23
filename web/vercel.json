@@ -1,3 +1,16 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  "rewrites": [
+    {
+      "source": "/mehlman",
+      "destination": "/mehlman/index.html"
+    },
+    {
+      "source": "/mehlman/",
+      "destination": "/mehlman/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
