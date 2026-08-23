@@ -226,9 +226,9 @@ export default function Questions() {
   // Save on change
   useEffect(() => {
     if (queue.length > 0) {
-      saveState(bank, { queue, current, score, missed, category });
+      saveState(bank, { queue, current, score, missed, category, results });
     }
-  }, [queue, current, score, missed, category, bank]);
+  }, [queue, current, score, missed, category, results, bank]);
 
   const startNew = useCallback((cat, b) => {
     const currentBank = b || bank;
