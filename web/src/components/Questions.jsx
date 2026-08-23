@@ -183,6 +183,9 @@ export default function Questions() {
   const [revealed, setRevealed] = useState(false);
   const [score, setScore] = useState({ correct: 0, wrong: 0 });
   const [missed, setMissed] = useState([]);
+  // Per-card answers for this run: queue index -> "correct" | "wrong".
+  // Lets the back button revisit a card without double-counting stats.
+  const [results, setResults] = useState({});
   const [done, setDone] = useState(false);
   const [sheetOpen, setSheetOpen] = useState(false);
   const [sheetBank, setSheetBank] = useState(null);
@@ -212,6 +215,7 @@ export default function Questions() {
       setCurrent(saved.current || 0);
       setScore(saved.score || { correct: 0, wrong: 0 });
       setMissed(saved.missed || []);
+      setResults(saved.results || {});
       setCategory(saved.category || "All");
       setDone(saved.current >= saved.queue.length);
     } else {
@@ -235,6 +239,7 @@ export default function Questions() {
     setCurrent(0);
     setScore({ correct: 0, wrong: 0 });
     setMissed([]);
+    setResults({});
     setRevealed(false);
     setDone(false);
     setCategory(cat);
@@ -248,6 +253,7 @@ export default function Questions() {
     setCurrent(0);
     setScore({ correct: 0, wrong: 0 });
     setMissed([]);
+    setResults({});
     setRevealed(false);
     setDone(false);
     setReviewMode(false);
@@ -272,22 +278,53 @@ export default function Questions() {
 
   const handleMark = (correct) => {
     const item = queue[current];
-    if (item && item.id) recordEvent({ type: "mark", id: item.id, bank, correct });
-    if (!correct) {
-      setMissed((prev) => [...prev, queue[current]]);
+    const val = correct ? "correct" : "wrong";
+    const prevResult = item ? results[current] : undefined;
+    if (!prevResult) {
+      // First answer for this card: full count.
+      if (item && item.id) recordEvent({ type: "mark", id: item.id, bank, correct });
+      if (!correct && item) setMissed((prev) => [...prev, item]);
+      setScore((s) => ({
+        correct: s.correct + (correct ? 1 : 0),
+        wrong: s.wrong + (correct ? 0 : 1),
+      }));
+    } else if (prevResult !== val) {
+      // Answer change on a revisited card: re-tally, never double-count.
+      setScore((s) => ({
+        correct: s.correct + (correct ? 1 : -1),
+        wrong: s.wrong + (correct ? -1 : 1),
+      }));
+      if (correct) {
+        setMissed((prev) =>
+          item && item.id ? prev.filter((m) => m.id !== item.id) : prev.slice(0, -1)
+        );
+      } else if (item) {
+        setMissed((prev) =>
+          item.id && prev.some((m) => m.id === item.id) ? prev : [...prev, item]
+        );
+      }
     }
-    setScore((s) => ({
-      correct: s.correct + (correct ? 1 : 0),
-      wrong: s.wrong + (correct ? 0 : 1),
-    }));
+    setResults((r) => ({ ...r, [current]: val }));
     const next = current + 1;
     if (next >= total) {
       setCurrent(next);
       setDone(true);
     } else {
       setCurrent(next);
-      setRevealed(false);
+      setRevealed(!!results[next]);
     }
+  };
+
+  // Back one card. The revisited card keeps its recorded answer: it shows
+  // revealed with its choice highlighted, and re-marking re-tallies instead
+  // of double-counting. From the done screen, back returns to the last card.
+  const canBack = done ? total > 0 : current > 0;
+  const handleBack = () => {
+    if (!canBack) return;
+    const target = done ? total - 1 : current - 1;
+    if (done) setDone(false);
+    setCurrent(target);
+    setRevealed(!!results[target]);
   };
 
   // Swipe handlers (only active after answer is revealed)
@@ -467,6 +504,7 @@ export default function Questions() {
     const handler = (e) => {
       if (reviewMode) return;
       if (e.key === "f" && !done) { toggleFlag(); return; }
+      if ((e.key === "b" || e.key === "p") && canBack) { handleBack(); return; }
       if (e.key === " " || e.key === "Enter") {
         e.preventDefault();
         if (!revealed && !done) setRevealed(true);
@@ -478,7 +516,7 @@ export default function Questions() {
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [revealed, done, current, total, reviewMode]);
+  }, [revealed, done, current, total, reviewMode, canBack, results]);
 
   const openSheet = () => {
     setSheetBank(null);
@@ -702,6 +740,9 @@ export default function Questions() {
               </button>
             </>
           )}
+          <button className="q-btn q-btn-secondary" onClick={handleBack} style={{ marginTop: 8 }}>
+            ‹ Back to last card
+          </button>
           <button className="q-btn q-btn-primary" onClick={() => startNew(category)} style={{ marginTop: 8 }}>
             Restart {category === "All" ? "All" : category}
           </button>
@@ -778,12 +819,31 @@ export default function Questions() {
       {/* Bottom action bar, always under the thumb */}
       <div className="q-actionbar">
         {revealed ? (
-          <div className="q-actions">
-            <button className="q-btn q-btn-miss" onClick={() => handleMark(false)}>Missed it</button>
-            <button className="q-btn q-btn-got" onClick={() => handleMark(true)}>Got it</button>
-          </div>
+          (() => {
+            const marked = results[current];
+            return (
+              <div className="q-actions">
+                <button
+                  className="q-btn q-btn-back"
+                  onClick={handleBack}
+                  disabled={!canBack}
+                  aria-label="Previous card"
+                >‹</button>
+                <button className={`q-btn q-btn-miss ${marked === "wrong" ? "q-btn-chosen" : ""}`} onClick={() => handleMark(false)}>Missed it</button>
+                <button className={`q-btn q-btn-got ${marked === "correct" ? "q-btn-chosen" : ""}`} onClick={() => handleMark(true)}>Got it</button>
+              </div>
+            );
+          })()
         ) : (
-          <button className="q-btn q-btn-reveal" onClick={() => setRevealed(true)}>Show answer</button>
+          <div className="q-reveal-row">
+            <button
+              className="q-btn q-btn-back"
+              onClick={handleBack}
+              disabled={!canBack}
+              aria-label="Previous card"
+            >‹</button>
+            <button className="q-btn q-btn-reveal" onClick={() => setRevealed(true)}>Show answer</button>
+          </div>
         )}
       </div>
 
