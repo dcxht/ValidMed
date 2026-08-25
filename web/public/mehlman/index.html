@@ -24,6 +24,9 @@ h1 a { color:inherit; text-decoration:none; }
 .name { font-size:16px; }
 .meta { font-size:13px; color:var(--text-secondary); white-space:nowrap; }
 footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
+.dlall { display:flex; align-items:center; justify-content:center; gap:8px; margin:0 0 4px; padding:16px; min-height:56px; background:var(--accent); color:#fff; font-size:17px; font-weight:600; text-decoration:none; border-radius:12px; }
+.dlall:active { opacity:0.85; }
+.dlall .meta { color:rgba(255,255,255,0.85); font-size:14px; font-weight:400; }
 </style>
 </head>
 <body>
@@ -32,6 +35,7 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <h1><a href="/">ValidMed</a></h1>
 <p class="tagline">Mehlman PDFs - 34 files</p>
 </header>
+<a class="dlall" href="/mehlman/mehlman-pdfs.zip" download><span>Download all 34 PDFs</span><span class="meta">97 MB zip</span></a>
 <h2 class="sec">High-yield subjects</h2><div class="list">
 <a class="row" href="/mehlman/hy-anatomy-msk-rheumatology.pdf" target="_blank" rel="noopener"><span class="name">HY Anatomy/MSK/Rheumatology</span><span class="meta">3.9 MB</span></a>
 <a class="row" href="/mehlman/hy-arrows.pdf" target="_blank" rel="noopener"><span class="name">HY Arrows</span><span class="meta">1.3 MB</span></a>
