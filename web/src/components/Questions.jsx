@@ -748,6 +748,7 @@ export default function Questions() {
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
                     <AnswerText text={item.a} />
+                    {item.aimg && <img className="q-review-img" src={item.aimg} alt={item.alt || ""} loading="lazy" />}
                   </div>
                 )}
                 {!isOpen && <div className="q-tap-hint" style={{ marginTop: 8 }}>Tap to reveal</div>}
@@ -868,6 +869,7 @@ export default function Questions() {
           <div className="q-answer-block">
             <div className="q-divider-line" />
             <AnswerText text={q.a} />
+            {q.aimg && <img className="q-question-img" src={q.aimg} alt={q.alt || ""} loading="lazy" />}
           </div>
         )}
       </div>
