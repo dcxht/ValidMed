@@ -75,10 +75,29 @@ function shuffle(arr) {
   return a;
 }
 
+// Fresh question lookup across all banks. Saved sessions store full question
+// objects, so content added after a session started (e.g. card images) would
+// otherwise never reach an in-progress session. Re-attach current data by id
+// on every load.
+const QUESTION_BY_ID = (() => {
+  const m = {};
+  Object.values(BANKS).forEach((b) => (b.questions || []).forEach((q) => { m[q.id] = q; }));
+  return m;
+})();
+
+function hydrateQ(item) {
+  return (item && QUESTION_BY_ID[item.id]) || item;
+}
+
 function loadState(bank) {
   try {
     const raw = localStorage.getItem(storageKey(bank));
-    if (raw) return JSON.parse(raw);
+    if (raw) {
+      const state = JSON.parse(raw);
+      if (state && Array.isArray(state.queue)) state.queue = state.queue.map(hydrateQ);
+      if (state && Array.isArray(state.missed)) state.missed = state.missed.map(hydrateQ);
+      return state;
+    }
   } catch {}
   return null;
 }
