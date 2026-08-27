@@ -1362,3 +1362,23 @@ body {
   border: 1px solid #991b1b;
   color: #fff;
 }
+
+/* Static study card: the whole card fits the viewport - image scales to fit,
+   long answers scroll inside the card, controls never move */
+.q-card {
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100dvh - 215px);
+}
+.q-card .q-question-img {
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  flex: 0 1 auto;
+  object-fit: contain;
+}
+.q-card .q-answer-block {
+  flex: 0 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+}
