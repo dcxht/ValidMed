@@ -139,7 +139,7 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <h2 class="sec">Agenda</h2>
 <div class="list" id="agenda"></div>
 
-<footer>Bank sizes marked ~ are approximations. Breaks counted as full days off between blocks.</footer>
+<footer>UWorld counts from UWorld's official question-count page, Aug 2026 (Step 2 CK total 4,281; they add questions over time). *No FM/Neuro subject in the CK bank - those use UWorld's shelf-review categories (Family Medicine 447 + Ambulatory ~400; Clinical Neurology ~360, 2025 snapshot). Breaks counted as full days off between blocks.</footer>
 </div>
 </div>
 
@@ -171,46 +171,46 @@ function inR(t,s,e){ return t>=d(s)&&t<=d(e); }
 
 /* block data: uwTo = UWorld through week N, amWk = AMBOSS week, shelf = last day */
 var blocks=[
- { short:'FM', name:'Family & Community Medicine', s:'2026-11-23', e:'2026-12-18', wk:4, cr:4, uwTo:2, amWk:3, qs:'~450',
+ { short:'FM', name:'Family & Community Medicine', s:'2026-11-23', e:'2026-12-18', wk:4, cr:4, uwTo:2, amWk:3, qs:'447*',
    plan:[
-    ['Runway Nov 9-22','20 UWorld FM/day, timed, random - ~280 of ~450 banked before day 1.'],
+    ['Runway Nov 9-22','20 UWorld FM (shelf-review category)/day, timed, random - 280 of 447 banked before day 1.'],
     ['Wks 1-2','15 new UWorld FM/day + same-day incorrects. Bank finishes ~Dec 4.'],
     ['Wk 3','AMBOSS FM ~40/day + incorrects. Drop if behind - UWorld always first.'],
     ['CMS','Sun Nov 29, Sun Dec 6, Sat Dec 12, Tue Dec 15 - wrongs same day.'],
     ['Dec 14-17','No new material. Incorrects + CMS wrongs + Anki. Dec 17 light.']],
-   res:'Breadth over depth - mini IM+Peds+OB. UWorld FM is the bank; AMBOSS is strong for FM-style ambulatory Qs. Case Files FM if you want one book.' },
- { short:'Psych', name:'Psychiatry', s:'2027-01-04', e:'2027-01-29', wk:4, cr:4, uwTo:2, amWk:3, qs:'~250',
+   res:'Breadth over depth - mini IM+Peds+OB. UWorld CK has no FM subject - the Family Medicine shelf-review category (447) is the bank; the Ambulatory Medicine category (~400) is the add-on for extra reps. AMBOSS is strong for FM-style ambulatory Qs. Case Files FM if you want one book.' },
+ { short:'Psych', name:'Psychiatry', s:'2027-01-04', e:'2027-01-29', wk:4, cr:4, uwTo:2, amWk:3, qs:'363',
    plan:[
-    ['Wks 1-2','~15 UWorld Psych/day + same-day incorrects.'],
+    ['Wks 1-2','30 UWorld Psych/day + same-day incorrects. Bank is 363 - finishes ~Jan 15.'],
     ['Wk 3','AMBOSS Psych + incorrects. Learn the med tables cold.'],
     ['CMS','Sun Jan 10, Sun Jan 17, Sun Jan 24 - wrongs same day.'],
     ['Wk 4 (Jan 26-28)','No new material. Incorrects + CMS wrongs + Anki.']],
    res:'UWorld Psych + First Aid for Psych (or Case Files Psych). High-yield adds: psych pharm, defense mechanisms, capacity vs consent. Do not coast - psych shelves punish it.' },
- { short:'Neuro', name:'Neurology', s:'2027-02-01', e:'2027-02-26', wk:4, cr:4, uwTo:2, amWk:3, qs:'~300',
+ { short:'Neuro', name:'Neurology', s:'2027-02-01', e:'2027-02-26', wk:4, cr:4, uwTo:2, amWk:3, qs:'~360*',
    plan:[
-    ['Wks 1-2','~15 UWorld Neuro/day + same-day incorrects.'],
+    ['Wks 1-2','25 UWorld Clinical Neuro (shelf-review category)/day + same-day incorrects. ~300 by Feb 12; finish the rest early wk 3.'],
     ['Wk 3','AMBOSS Neuro + incorrects. Drill localization.'],
     ['CMS','Sun Feb 7, Sun Feb 14, Sun Feb 21 - wrongs same day.'],
     ['Wk 4 (Feb 22-25)','No new material. Incorrects + CMS wrongs + Anki.']],
-   res:'UWorld Neuro is a thin bank - lean on AMBOSS Neuro after. Case Files Neuro is the short targeted book. Neuro shelf leans Step 1: tracts, localization, strokes.' },
- { short:'Peds', name:'Pediatrics', s:'2027-03-01', e:'2027-04-09', wk:6, cr:6, uwTo:3, amWk:4, qs:'~400',
+   res:'UWorld CK has no Neuro subject - the Clinical Neurology shelf-review category (~360) is the bank, and more Nervous System Qs sit inside other subjects. Lean on AMBOSS Neuro after. Case Files Neuro is the short targeted book. Neuro shelf leans Step 1: tracts, localization, strokes.' },
+ { short:'Peds', name:'Pediatrics', s:'2027-03-01', e:'2027-04-09', wk:6, cr:6, uwTo:3, amWk:4, qs:'768',
    plan:[
-    ['Wks 1-3','~25 UWorld Peds/day + same-day incorrects.'],
+    ['Wks 1-3','40 UWorld Peds/day + same-day incorrects. Bank is 768 - finishes early wk 4.'],
     ['Wks 4-5','AMBOSS Peds + incorrects.'],
     ['CMS','Sun Mar 7, 14, 21, 28, Apr 4 - wrongs same day.'],
     ['Wk 6 (Apr 5-8)','No new material. Incorrects + CMS wrongs + Anki.']],
    res:'UWorld Peds + BRS Peds or Case Files Peds (pick one). High-yield adds everyone gets burned on: vaccine schedules, developmental milestones, congenital infections.' },
- { short:'Med', name:'Medicine', s:'2027-04-26', e:'2027-06-18', wk:8, cr:8, uwTo:6, amWk:7, qs:'~1,000',
+ { short:'Med', name:'Medicine', s:'2027-04-26', e:'2027-06-18', wk:8, cr:8, uwTo:6, amWk:7, qs:'1,840',
    plan:[
-    ['Wks 1-6','~35 UWorld IM/day + same-day incorrects. Biggest bank - pace is the whole game.'],
+    ['Wks 1-6','50 UWorld IM/day + same-day incorrects. Bank is 1,840 - pace is the whole game.'],
     ['Wk 7','AMBOSS IM + incorrects.'],
     ['CMS','Sun May 2, 9, 16, 23, 30, Jun 6, 13 - wrongs same day.'],
     ['Wk 8 (Jun 14-17)','No new material. Incorrects + CMS wrongs + Anki.']],
    res:'UWorld IM is the core. One structured text: Step-Up to Medicine or OnlineMedEd IM (not both). IM shelf doubles as Step 2 prep - this block sets your CK floor.' },
- { short:'Surg', name:'Surgery', s:'2027-07-06', e:'2027-08-13', wk:6, cr:6, uwTo:4, amWk:5, qs:'~450',
+ { short:'Surg', name:'Surgery', s:'2027-07-06', e:'2027-08-13', wk:6, cr:6, uwTo:4, amWk:5, qs:'731',
    plan:[
     ['Wk 1','Read Pestana once, fast (4-5 evenings).'],
-    ['Wks 1-4','~20 UWorld Surg/day + selective IM GI/ID + same-day incorrects. Re-read Pestana slower, flag every algorithm.'],
+    ['Wks 1-4','30 UWorld Surg/day + selective IM GI/ID + same-day incorrects. Bank is 731 - finishes ~Aug 1. Re-read Pestana slower, flag every algorithm.'],
     ['Wk 5','AMBOSS Surg + incorrects.'],
     ['CMS','Sun Jul 11, 18, 25, Aug 1, 8 - wrongs same day.'],
     ['Wk 6 (Aug 9-12)','No new material. Incorrects + CMS wrongs + Pestana skim.']],
@@ -220,9 +220,9 @@ var blocks=[
     ['Both weeks','No shelf. Recovery block: keep the Anki streak, roll over UWorld/AMBOSS incorrects from Surgery, sleep.'],
     ['Aug 28-29','Weekend before OB - skim the OB triage/labor notes.']],
    res:'No shelf. Protect the Anki streak and bank rest before OB/Gyn.' },
- { short:'OB/Gyn', name:'OB/Gyn', s:'2027-08-30', e:'2027-10-08', wk:6, cr:6, uwTo:4, amWk:5, qs:'~400',
+ { short:'OB/Gyn', name:'OB/Gyn', s:'2027-08-30', e:'2027-10-08', wk:6, cr:6, uwTo:4, amWk:5, qs:'579',
    plan:[
-    ['Wks 1-4','~20 UWorld OB/day + same-day incorrects. Start APGO uWise alongside in wk 2.'],
+    ['Wks 1-4','25 UWorld OB/day + same-day incorrects. Bank is 579 - finishes ~Sep 26. Start APGO uWise alongside in wk 2.'],
     ['Wk 5','AMBOSS OB/Gyn + incorrects. Finish uWise.'],
     ['CMS','Sun Sep 5, 12, 19, 26, Oct 3 - wrongs same day.'],
     ['Wk 6 (Oct 4-7)','No new material. Incorrects + CMS wrongs + Anki.']],
