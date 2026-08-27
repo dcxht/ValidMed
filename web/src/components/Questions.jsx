@@ -1,7 +1,8 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { BANKS } from "../data/banks";
 import { recordEvent } from "../historyStore";
-import { key } from "../names";
+import { key, PERSON } from "../names";
+import { pushNow } from "../sync";
 
 const DEFAULT_BANK = "endopath";
 const MISSED_BANK = "__missed__";
@@ -209,6 +210,7 @@ export default function Questions() {
   const [sheetOpen, setSheetOpen] = useState(false);
   const [sheetBank, setSheetBank] = useState(null);
   const [catQuery, setCatQuery] = useState("");
+  const [resetArm, setResetArm] = useState(false);
   const pendingRef = useRef(null);
   // Set by the bank-init effect: the render right after a bank switch still
   // carries the previous bank's session, so the save effect must skip it or
@@ -576,6 +578,25 @@ export default function Questions() {
     setSheetOpen(false);
     setSheetBank(null);
     setCatQuery("");
+    setResetArm(false);
+  };
+
+  // Reset progress: two-step destructive action at the bottom of the bank
+  // menu. Wipes every validmed_* key in this page's namespace (bank sessions,
+  // flags, history, last-bank), pushes the emptied namespace up so cloud sync
+  // doesn't resurrect it, then reloads into a clean first-run state.
+  const resetProgress = async () => {
+    try {
+      const prefix = PERSON ? `${PERSON}_validmed_` : "validmed_";
+      const doomed = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const k = localStorage.key(i);
+        if (k && k.startsWith(prefix)) doomed.push(k);
+      }
+      doomed.forEach((k) => localStorage.removeItem(k));
+    } catch {}
+    await pushNow();
+    window.location.reload();
   };
 
   const chooseCategory = (targetBank, cat) => {
@@ -613,6 +634,7 @@ export default function Questions() {
         </div>
 
         {!sheetBank ? (
+          <>
           <div className="q-sheet-list">
             {(() => {
               const missedAll = collectMissed();
@@ -671,6 +693,28 @@ export default function Questions() {
               );
             })}
           </div>
+          <div className="q-sheet-reset">
+            {!resetArm ? (
+              <button className="q-sheet-reset-btn" onClick={() => setResetArm(true)}>
+                Reset progress
+              </button>
+            ) : (
+              <>
+                <div className="q-sheet-reset-warn">
+                  Erase all progress, flags, and history on this page? This can't be undone.
+                </div>
+                <div className="q-sheet-reset-actions">
+                  <button className="q-sheet-reset-cancel" onClick={() => setResetArm(false)}>
+                    Cancel
+                  </button>
+                  <button className="q-sheet-reset-go" onClick={resetProgress}>
+                    Erase everything
+                  </button>
+                </div>
+              </>
+            )}
+          </div>
+          </>
         ) : (
           <>
             {getCategoryCounts(sheetBank).length > 12 && (

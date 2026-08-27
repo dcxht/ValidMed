@@ -61,6 +61,20 @@ function push() {
   }).catch(() => {});
 }
 
+// Immediate push that returns the fetch promise - used by reset-progress so the
+// emptied namespace lands on the server before the page reloads (otherwise the
+// cloud copy would resurrect the cleared progress on next boot).
+export function pushNow() {
+  if (!PERSON) return Promise.resolve();
+  clearTimeout(timer);
+  const state = gather();
+  return fetch(`/api/sync?name=${encodeURIComponent(PERSON)}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ state }),
+  }).catch(() => {});
+}
+
 export function schedulePush() {
   if (!PERSON) return;
   clearTimeout(timer);
