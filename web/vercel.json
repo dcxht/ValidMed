@@ -1,6 +1,22 @@
 {
   "rewrites": [
     {
+      "source": "/chet",
+      "destination": "/chet/index.html"
+    },
+    {
+      "source": "/chet/",
+      "destination": "/chet/index.html"
+    },
+    {
+      "source": "/rotations",
+      "destination": "/rotations/index.html"
+    },
+    {
+      "source": "/rotations/",
+      "destination": "/rotations/index.html"
+    },
+    {
       "source": "/mehlman",
       "destination": "/mehlman/index.html"
     },

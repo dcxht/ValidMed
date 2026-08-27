@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#fafafa" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
+<link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="manifest" href="/site.webmanifest" />
+<meta name="apple-mobile-web-app-title" content="ValidMed" />
+<title>MS3 Rotations - ValidMed</title>
+<meta name="description" content="MS3 rotation schedule 2026-27" />
+<style>
+:root { --bg:#fafafa; --surface:#fff; --text:#1a1a1a; --text-secondary:#6b7280; --border:#e5e7eb; --accent:#0f766e; }
+* { box-sizing:border-box; margin:0; padding:0; }
+html,body { -webkit-text-size-adjust:100%; -webkit-tap-highlight-color:transparent; }
+body { font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Inter",sans-serif; background:var(--bg); color:var(--text); line-height:1.5; -webkit-font-smoothing:antialiased; }
+.wrap { max-width:720px; margin:0 auto; padding:20px 16px 48px; }
+header { border-bottom:1px solid var(--border); padding-bottom:12px; margin-bottom:16px; }
+h1 { font-size:22px; letter-spacing:-0.02em; }
+h1 a { color:inherit; text-decoration:none; }
+.tagline { color:var(--text-secondary); font-size:14px; margin-top:2px; }
+.sec { font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.04em; color:var(--text-secondary); margin:20px 0 8px; }
+
+/* timeline */
+.tl-scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:12px 12px 14px; }
+.tl-inner { position:relative; }
+.tl-months { position:relative; height:16px; margin-bottom:26px; }
+.tl-month { position:absolute; top:0; font-size:10px; color:var(--text-secondary); white-space:nowrap; transform:translateX(2px); }
+.tl-month::before { content:""; position:absolute; left:-2px; top:16px; width:1px; height:6px; background:var(--border); }
+.tl-track { position:relative; height:48px; }
+.tl-seg { position:absolute; top:0; height:48px; border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:11px; font-weight:600; color:#fff; background:var(--accent); overflow:hidden; white-space:nowrap; }
+.tl-seg.gap { background:repeating-linear-gradient(45deg,#f3f4f6,#f3f4f6 4px,#e9eaec 4px,#e9eaec 8px); color:var(--text-secondary); font-weight:500; font-size:10px; border:1px solid var(--border); }
+.tl-flag { position:absolute; top:18px; transform:translateX(-1px); display:flex; flex-direction:column; align-items:flex-start; pointer-events:none; }
+.tl-flag .line { width:2px; height:56px; background:#b45309; }
+.tl-flag .lbl { position:absolute; bottom:100%; left:-2px; margin-bottom:2px; font-size:10px; font-weight:600; color:#b45309; white-space:nowrap; background:var(--surface); padding:0 3px; border-radius:3px; }
+.tl-flag.shelf .line { background:#334155; }
+.tl-flag.shelf .lbl { color:#334155; }
+.tl-hint { font-size:11px; color:var(--text-secondary); margin-top:6px; text-align:right; }
+
+/* list */
+.list { background:var(--surface); border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+.row { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:14px 16px; min-height:52px; border-bottom:1px solid var(--border); }
+.row:last-child { border-bottom:none; }
+.name { font-size:16px; }
+.dates { font-size:13px; color:var(--text-secondary); margin-top:1px; }
+.meta { font-size:13px; color:var(--text-secondary); white-space:nowrap; text-align:right; }
+.meta b { color:var(--text); font-weight:600; }
+.gaprow { display:flex; align-items:center; gap:10px; padding:8px 16px; border-bottom:1px solid var(--border); background:var(--bg); }
+.gaprow .gname { font-size:12px; color:var(--text-secondary); font-style:italic; }
+.pill { display:inline-block; font-size:10px; font-weight:700; letter-spacing:0.03em; color:#b45309; background:#fef3c7; border-radius:6px; padding:2px 6px; margin-left:6px; vertical-align:2px; }
+.pill.shelf { color:#334155; background:#e2e8f0; }
+.summary { margin-top:16px; font-size:13px; color:var(--text-secondary); }
+footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1><a href="/">ValidMed</a></h1>
+<p class="tagline">MS3 rotations - 2026-27</p>
+</header>
+
+<h2 class="sec">Timeline</h2>
+<div class="tl-scroll"><div class="tl-inner" id="tl">
+  <div class="tl-months" id="tlm"></div>
+  <div class="tl-track" id="tlt"></div>
+</div></div>
+<div class="tl-hint">scroll sideways</div>
+
+<h2 class="sec">Blocks</h2>
+<div class="list" id="blocks"></div>
+
+<p class="summary">8 blocks - 38.5 credits - Nov 23, 2026 to Oct 8, 2027</p>
+<footer>From Chet's MS3 schedule. Breaks counted as full days off between blocks.</footer>
+</div>
+
+<script>
+var DAY = 86400000;
+function d(s){ var p=s.split('-'); return Date.UTC(+p[0], +p[1]-1, +p[2]); }
+var START = d('2026-09-01'), END = d('2027-10-15');
+var PX = 2.6;
+function x(t){ return Math.round((t - START) / DAY * PX); }
+
+var blocks = [
+  { short:'FM',     name:'Family & Community Medicine', s:'2026-11-23', e:'2026-12-18', wk:4, cr:4,   tag:'Shelf Dec 18' },
+  { short:'Psych',  name:'Psychiatry',                  s:'2027-01-04', e:'2027-01-29', wk:4, cr:4 },
+  { short:'Neuro',  name:'Neurology',                   s:'2027-02-01', e:'2027-02-26', wk:4, cr:4 },
+  { short:'Peds',   name:'Pediatrics',                  s:'2027-03-01', e:'2027-04-09', wk:6, cr:6 },
+  { short:'Med',    name:'Medicine',                    s:'2027-04-26', e:'2027-06-18', wk:8, cr:8 },
+  { short:'Surg',   name:'Surgery',                     s:'2027-07-06', e:'2027-08-13', wk:6, cr:6 },
+  { short:'SL',     name:'Service Learning, Wellness & Narrative Medicine', s:'2027-08-16', e:'2027-08-27', wk:2, cr:0.5 },
+  { short:'OB/Gyn', name:'OB/Gyn',                      s:'2027-08-30', e:'2027-10-08', wk:6, cr:6 }
+];
+var gapNames = { '2026-12-18':'Winter break', '2027-04-09':'Spring break', '2027-06-18':'Summer break' };
+
+var inner = document.getElementById('tl');
+inner.style.width = x(END) + 'px';
+
+/* month ticks */
+var months = document.getElementById('tlm');
+var mnames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+for (var t = START; t <= END; ) {
+  var dt = new Date(t);
+  var el = document.createElement('div');
+  el.className = 'tl-month';
+  el.style.left = x(t) + 'px';
+  el.textContent = mnames[dt.getUTCMonth()] + (dt.getUTCMonth() === 0 || t === START ? " '" + String(dt.getUTCFullYear()).slice(2) : '');
+  months.appendChild(el);
+  t = Date.UTC(dt.getUTCFullYear(), dt.getUTCMonth() + 1, 1);
+}
+
+/* block + gap segments */
+var track = document.getElementById('tlt');
+blocks.forEach(function (b, i) {
+  if (i > 0) {
+    var gs = d(blocks[i-1].e) + DAY, ge = d(b.s) - DAY;
+    if (ge >= gs) {
+      var g = document.createElement('div');
+      g.className = 'tl-seg gap';
+      g.style.left = x(gs) + 'px';
+      g.style.width = Math.max(10, x(ge + DAY) - x(gs)) + 'px';
+      var days = Math.round((ge - gs) / DAY) + 1;
+      g.textContent = days + 'd';
+      track.appendChild(g);
+    }
+  }
+  var seg = document.createElement('div');
+  seg.className = 'tl-seg';
+  seg.style.left = x(d(b.s)) + 'px';
+  seg.style.width = (x(d(b.e) + DAY) - x(d(b.s))) + 'px';
+  seg.textContent = b.short;
+  track.appendChild(seg);
+});
+
+/* flags: Step 1 + FM shelf */
+function flag(dateStr, label, cls, anchorLeft) {
+  var f = document.createElement('div');
+  f.className = 'tl-flag' + (cls ? ' ' + cls : '');
+  f.style.left = x(d(dateStr)) + 'px';
+  f.innerHTML = '<div class="lbl"' + (anchorLeft ? '' : ' style="left:auto;right:-2px"') + '>' + label + '</div><div class="line"></div>';
+  inner.appendChild(f);
+}
+flag('2026-09-05', 'Step 1 - Sep 5', '', true);
+flag('2026-12-18', 'FM shelf', 'shelf', false);
+
+/* list */
+var list = document.getElementById('blocks');
+function fmt(s){ var dt = new Date(d(s)); return mnames[dt.getUTCMonth()] + ' ' + dt.getUTCDate(); }
+function fmtY(s){ var dt = new Date(d(s)); return mnames[dt.getUTCMonth()] + ' ' + dt.getUTCDate() + ", '" + String(dt.getUTCFullYear()).slice(2); }
+blocks.forEach(function (b, i) {
+  if (i > 0) {
+    var days = Math.round((d(b.s) - d(blocks[i-1].e)) / DAY) - 1;
+    if (days > 2) {
+      var g = document.createElement('div');
+      g.className = 'gaprow';
+      var gn = gapNames[blocks[i-1].e] || 'Break';
+      g.innerHTML = '<span class="gname">' + gn + ' - ' + days + ' days off (' + fmt(blocks[i-1].e) + ' - ' + fmt(b.s) + ')</span>';
+      list.appendChild(g);
+    }
+  }
+  var r = document.createElement('div');
+  r.className = 'row';
+  r.innerHTML = '<div><div class="name">' + b.name +
+    (b.tag ? '<span class="pill shelf">' + b.tag + '</span>' : '') +
+    '</div><div class="dates">' + fmtY(b.s) + ' - ' + fmtY(b.e) + '</div></div>' +
+    '<div class="meta"><b>' + b.wk + ' wk</b> - ' + b.cr + ' cr</div>';
+  list.appendChild(r);
+});
+</script>
+</body>
+</html>

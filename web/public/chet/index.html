@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#fafafa" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
+<link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="manifest" href="/site.webmanifest" />
+<meta name="apple-mobile-web-app-title" content="ValidMed" />
+<meta name="robots" content="noindex" />
+<title>Chet - ValidMed</title>
+<style>
+:root { --bg:#fafafa; --surface:#fff; --text:#1a1a1a; --text-secondary:#6b7280; --border:#e5e7eb; --accent:#0f766e; }
+* { box-sizing:border-box; margin:0; padding:0; }
+html,body { -webkit-text-size-adjust:100%; -webkit-tap-highlight-color:transparent; }
+body { font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Inter",sans-serif; background:var(--bg); color:var(--text); line-height:1.5; -webkit-font-smoothing:antialiased; }
+.wrap { max-width:720px; margin:0 auto; padding:20px 16px 48px; }
+header { border-bottom:1px solid var(--border); padding-bottom:12px; margin-bottom:16px; }
+h1 { font-size:22px; letter-spacing:-0.02em; }
+.tagline { color:var(--text-secondary); font-size:14px; margin-top:2px; }
+.sec { font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.04em; color:var(--text-secondary); margin:24px 0 8px; }
+
+/* gate */
+#gate { position:fixed; inset:0; background:var(--bg); z-index:50; display:flex; align-items:center; justify-content:center; padding:24px; }
+#gate .card { width:100%; max-width:320px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:24px; text-align:center; }
+#gate h2 { font-size:18px; margin-bottom:4px; }
+#gate p { font-size:13px; color:var(--text-secondary); margin-bottom:16px; }
+#gate input { width:100%; font-size:20px; text-align:center; padding:12px; border:1px solid var(--border); border-radius:10px; margin-bottom:10px; -webkit-appearance:none; }
+#gate input.bad { border-color:#dc2626; }
+#gate button { width:100%; padding:13px; min-height:48px; font-size:16px; font-weight:600; color:#fff; background:var(--accent); border:none; border-radius:10px; }
+#gate button:active { opacity:0.85; }
+#app { display:none; }
+
+/* today */
+.today { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px; }
+.today .date { font-size:13px; color:var(--text-secondary); }
+.today .phase { font-size:18px; font-weight:700; letter-spacing:-0.01em; margin:2px 0 10px; }
+.chk { display:flex; align-items:center; gap:12px; padding:11px 4px; border-top:1px solid var(--border); cursor:pointer; min-height:44px; }
+.chk .box { flex:0 0 22px; width:22px; height:22px; border:2px solid var(--border); border-radius:6px; }
+.chk.done .box { background:var(--accent); border-color:var(--accent); position:relative; }
+.chk.done .box::after { content:""; position:absolute; left:6px; top:2px; width:5px; height:10px; border:solid #fff; border-width:0 2px 2px 0; transform:rotate(45deg); }
+.chk .t { font-size:15px; }
+.chk.done .t { color:var(--text-secondary); text-decoration:line-through; }
+
+/* timeline */
+.tl-scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:12px 12px 14px; }
+.tl-inner { position:relative; }
+.tl-months { position:relative; height:16px; margin-bottom:26px; }
+.tl-month { position:absolute; top:0; font-size:10px; color:var(--text-secondary); white-space:nowrap; transform:translateX(2px); }
+.tl-month::before { content:""; position:absolute; left:-2px; top:16px; width:1px; height:6px; background:var(--border); }
+.tl-track { position:relative; height:48px; }
+.tl-seg { position:absolute; top:0; height:48px; border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:11px; font-weight:600; color:#fff; background:var(--accent); overflow:hidden; white-space:nowrap; }
+.tl-seg.gap { background:repeating-linear-gradient(45deg,#f3f4f6,#f3f4f6 4px,#e9eaec 4px,#e9eaec 8px); color:var(--text-secondary); font-weight:500; font-size:10px; border:1px solid var(--border); }
+.tl-flag { position:absolute; top:18px; transform:translateX(-1px); pointer-events:none; }
+.tl-flag .line { width:2px; height:56px; background:#b45309; }
+.tl-flag .lbl { position:absolute; bottom:100%; left:-2px; margin-bottom:2px; font-size:10px; font-weight:600; color:#b45309; white-space:nowrap; background:var(--surface); padding:0 3px; border-radius:3px; }
+.tl-flag.shelf .line { background:#334155; }
+.tl-flag.shelf .lbl { color:#334155; left:auto; right:-2px; }
+.tl-hint { font-size:11px; color:var(--text-secondary); margin-top:6px; text-align:right; }
+
+/* block cards */
+.card { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px; margin-bottom:12px; }
+.card .top { display:flex; align-items:baseline; justify-content:space-between; gap:10px; }
+.card .nm { font-size:17px; font-weight:700; letter-spacing:-0.01em; }
+.card .cr { font-size:13px; color:var(--text-secondary); white-space:nowrap; }
+.card .dt { font-size:13px; color:var(--text-secondary); margin:1px 0 10px; }
+.card .dt b { color:#b45309; font-weight:600; }
+.plan { list-style:none; }
+.plan li { font-size:14px; padding:6px 0 6px 18px; position:relative; border-top:1px solid var(--border); }
+.plan li::before { content:""; position:absolute; left:4px; top:13px; width:6px; height:6px; border-radius:3px; background:var(--accent); }
+.plan li.dim::before { background:var(--border); }
+.plan .k { font-weight:600; }
+.res { margin-top:10px; padding:10px 12px; background:var(--bg); border:1px solid var(--border); border-radius:10px; font-size:13px; color:var(--text); }
+.res .k { font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; color:var(--text-secondary); display:block; margin-bottom:2px; }
+.gapnote { text-align:center; font-size:12px; font-style:italic; color:var(--text-secondary); margin:14px 0; }
+.rules { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:14px 16px; }
+.rules li { font-size:14px; padding:4px 0 4px 18px; position:relative; list-style:none; }
+.rules li::before { content:""; position:absolute; left:4px; top:12px; width:6px; height:6px; border-radius:3px; background:#b45309; }
+
+/* agenda */
+.list { background:var(--surface); border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+.arow { display:flex; gap:14px; padding:12px 16px; border-bottom:1px solid var(--border); }
+.arow:last-child { border-bottom:none; }
+.arow .ad { flex:0 0 74px; font-size:13px; font-weight:600; color:var(--text-secondary); padding-top:1px; }
+.arow .ae { font-size:15px; }
+.arow .ae small { display:block; font-size:12px; color:var(--text-secondary); }
+.arow.exam .ad { color:#b45309; }
+footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <div class="card">
+    <h2>Chet's hub</h2>
+    <p>Passcode</p>
+    <input id="pw" type="password" inputmode="text" autocomplete="off" autocapitalize="off" placeholder="passcode" />
+    <button id="pwgo">Open</button>
+  </div>
+</div>
+
+<div id="app">
+<div class="wrap">
+<header>
+<h1>Chet</h1>
+<p class="tagline">MS3 hub - Step 1 Sep 5 - rotations Nov 23 to Oct 8</p>
+</header>
+
+<h2 class="sec">Today</h2>
+<div class="today">
+  <div class="date" id="tdate"></div>
+  <div class="phase" id="tphase"></div>
+  <div id="tlist"></div>
+</div>
+
+<h2 class="sec">Timeline</h2>
+<div class="tl-scroll"><div class="tl-inner" id="tl">
+  <div class="tl-months" id="tlm"></div>
+  <div class="tl-track" id="tlt"></div>
+</div></div>
+<div class="tl-hint">scroll sideways</div>
+
+<h2 class="sec">The rules (every block)</h2>
+<div class="rules"><ul>
+  <li><b>UWorld first.</b> If only one bank gets finished, it's UWorld + incorrects.</li>
+  <li>Then AMBOSS same subject + incorrects. Drop AMBOSS if behind, never UWorld.</li>
+  <li>CMS forms one per weekend, wrongs reviewed same day. Do every form NBME sells for the subject (~4 per clerkship, 50 Qs each - count changes, check the store).</li>
+  <li>Anki daily: cue format only ("if you see ___, think ___"), max 5 new/day, written off missed questions.</li>
+  <li>Final week: no new material. Incorrects + CMS wrongs + Anki. Shelf on the last day of the block.</li>
+</ul></div>
+
+<h2 class="sec">Blocks &amp; shelf plans</h2>
+<div id="cards"></div>
+
+<h2 class="sec">Agenda</h2>
+<div class="list" id="agenda"></div>
+
+<footer>Bank sizes marked ~ are approximations. Breaks counted as full days off between blocks.</footer>
+</div>
+</div>
+
+<script>
+/* ================= config ================= */
+var PASSCODE = 'honor';            // <- change the passcode here
+/* ========================================== */
+
+/* gate */
+(function(){
+  var g=document.getElementById('gate'), app=document.getElementById('app'),
+      inp=document.getElementById('pw'), btn=document.getElementById('pwgo');
+  function open(){ g.style.display='none'; app.style.display='block'; }
+  if (localStorage.getItem('chet_gate')==='1') { open(); return; }
+  function tryit(){
+    if (inp.value.trim().toLowerCase()===PASSCODE){ localStorage.setItem('chet_gate','1'); open(); }
+    else { inp.classList.add('bad'); inp.value=''; inp.placeholder='nope'; setTimeout(function(){inp.classList.remove('bad');},700); }
+  }
+  btn.addEventListener('click',tryit);
+  inp.addEventListener('keydown',function(e){ if(e.key==='Enter') tryit(); });
+})();
+
+var DAY=86400000, MN=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function d(s){ var p=s.split('-'); return Date.UTC(+p[0],+p[1]-1,+p[2]); }
+function dnow(){ var n=new Date(); return Date.UTC(n.getFullYear(),n.getMonth(),n.getDate()); }
+function fmt(s){ var t=new Date(d(s)); return MN[t.getUTCMonth()]+' '+t.getUTCDate(); }
+function fmtY(s){ var t=new Date(d(s)); return MN[t.getUTCMonth()]+' '+t.getUTCDate()+", '"+String(t.getUTCFullYear()).slice(2); }
+function inR(t,s,e){ return t>=d(s)&&t<=d(e); }
+
+/* block data: uwTo = UWorld through week N, amWk = AMBOSS week, shelf = last day */
+var blocks=[
+ { short:'FM', name:'Family & Community Medicine', s:'2026-11-23', e:'2026-12-18', wk:4, cr:4, uwTo:2, amWk:3, qs:'~450',
+   plan:[
+    ['Runway Nov 9-22','20 UWorld FM/day, timed, random - ~280 of ~450 banked before day 1.'],
+    ['Wks 1-2','15 new UWorld FM/day + same-day incorrects. Bank finishes ~Dec 4.'],
+    ['Wk 3','AMBOSS FM ~40/day + incorrects. Drop if behind - UWorld always first.'],
+    ['CMS','Sun Nov 29, Sun Dec 6, Sat Dec 12, Tue Dec 15 - wrongs same day.'],
+    ['Dec 14-17','No new material. Incorrects + CMS wrongs + Anki. Dec 17 light.']],
+   res:'Breadth over depth - mini IM+Peds+OB. UWorld FM is the bank; AMBOSS is strong for FM-style ambulatory Qs. Case Files FM if you want one book.' },
+ { short:'Psych', name:'Psychiatry', s:'2027-01-04', e:'2027-01-29', wk:4, cr:4, uwTo:2, amWk:3, qs:'~250',
+   plan:[
+    ['Wks 1-2','~15 UWorld Psych/day + same-day incorrects.'],
+    ['Wk 3','AMBOSS Psych + incorrects. Learn the med tables cold.'],
+    ['CMS','Sun Jan 10, Sun Jan 17, Sun Jan 24 - wrongs same day.'],
+    ['Wk 4 (Jan 26-28)','No new material. Incorrects + CMS wrongs + Anki.']],
+   res:'UWorld Psych + First Aid for Psych (or Case Files Psych). High-yield adds: psych pharm, defense mechanisms, capacity vs consent. Do not coast - psych shelves punish it.' },
+ { short:'Neuro', name:'Neurology', s:'2027-02-01', e:'2027-02-26', wk:4, cr:4, uwTo:2, amWk:3, qs:'~300',
+   plan:[
+    ['Wks 1-2','~15 UWorld Neuro/day + same-day incorrects.'],
+    ['Wk 3','AMBOSS Neuro + incorrects. Drill localization.'],
+    ['CMS','Sun Feb 7, Sun Feb 14, Sun Feb 21 - wrongs same day.'],
+    ['Wk 4 (Feb 22-25)','No new material. Incorrects + CMS wrongs + Anki.']],
+   res:'UWorld Neuro is a thin bank - lean on AMBOSS Neuro after. Case Files Neuro is the short targeted book. Neuro shelf leans Step 1: tracts, localization, strokes.' },
+ { short:'Peds', name:'Pediatrics', s:'2027-03-01', e:'2027-04-09', wk:6, cr:6, uwTo:3, amWk:4, qs:'~400',
+   plan:[
+    ['Wks 1-3','~25 UWorld Peds/day + same-day incorrects.'],
+    ['Wks 4-5','AMBOSS Peds + incorrects.'],
+    ['CMS','Sun Mar 7, 14, 21, 28, Apr 4 - wrongs same day.'],
+    ['Wk 6 (Apr 5-8)','No new material. Incorrects + CMS wrongs + Anki.']],
+   res:'UWorld Peds + BRS Peds or Case Files Peds (pick one). High-yield adds everyone gets burned on: vaccine schedules, developmental milestones, congenital infections.' },
+ { short:'Med', name:'Medicine', s:'2027-04-26', e:'2027-06-18', wk:8, cr:8, uwTo:6, amWk:7, qs:'~1,000',
+   plan:[
+    ['Wks 1-6','~35 UWorld IM/day + same-day incorrects. Biggest bank - pace is the whole game.'],
+    ['Wk 7','AMBOSS IM + incorrects.'],
+    ['CMS','Sun May 2, 9, 16, 23, 30, Jun 6, 13 - wrongs same day.'],
+    ['Wk 8 (Jun 14-17)','No new material. Incorrects + CMS wrongs + Anki.']],
+   res:'UWorld IM is the core. One structured text: Step-Up to Medicine or OnlineMedEd IM (not both). IM shelf doubles as Step 2 prep - this block sets your CK floor.' },
+ { short:'Surg', name:'Surgery', s:'2027-07-06', e:'2027-08-13', wk:6, cr:6, uwTo:4, amWk:5, qs:'~450',
+   plan:[
+    ['Wk 1','Read Pestana once, fast (4-5 evenings).'],
+    ['Wks 1-4','~20 UWorld Surg/day + selective IM GI/ID + same-day incorrects. Re-read Pestana slower, flag every algorithm.'],
+    ['Wk 5','AMBOSS Surg + incorrects.'],
+    ['CMS','Sun Jul 11, 18, 25, Aug 1, 8 - wrongs same day.'],
+    ['Wk 6 (Aug 9-12)','No new material. Incorrects + CMS wrongs + Pestana skim.']],
+   res:'Pestana\'s Surgery Notes is the non-negotiable - read it twice. UWorld Surg + IM GI and ID sections. OnlineMedEd surgery videos if you want video. Shelf is half medicine - pre/post-op management, not OR trivia.' },
+ { short:'Wellness', name:'Service Learning, Wellness & Narrative Medicine', s:'2027-08-16', e:'2027-08-27', wk:2, cr:0.5, uwTo:0, amWk:0, qs:'-',
+   plan:[
+    ['Both weeks','No shelf. Recovery block: keep the Anki streak, roll over UWorld/AMBOSS incorrects from Surgery, sleep.'],
+    ['Aug 28-29','Weekend before OB - skim the OB triage/labor notes.']],
+   res:'No shelf. Protect the Anki streak and bank rest before OB/Gyn.' },
+ { short:'OB/Gyn', name:'OB/Gyn', s:'2027-08-30', e:'2027-10-08', wk:6, cr:6, uwTo:4, amWk:5, qs:'~400',
+   plan:[
+    ['Wks 1-4','~20 UWorld OB/day + same-day incorrects. Start APGO uWise alongside in wk 2.'],
+    ['Wk 5','AMBOSS OB/Gyn + incorrects. Finish uWise.'],
+    ['CMS','Sun Sep 5, 12, 19, 26, Oct 3 - wrongs same day.'],
+    ['Wk 6 (Oct 4-7)','No new material. Incorrects + CMS wrongs + Anki.']],
+   res:'UWorld OB + APGO uWise - the consensus OB add, written by the people who write the shelf. Case Files OB/Gyn or Blueprints if you want one book. OME for prenatal care, labor, gyn onc. Algorithms > facts: fetal strips, postpartum hemorrhage, hypertensive disorders.' }
+];
+var gapNames={ '2026-12-18':'Winter break', '2027-04-09':'Spring break', '2027-06-18':'Summer break' };
+
+/* ---------- timeline ---------- */
+var START=d('2026-09-01'), END=d('2027-10-15'), PX=2.6;
+function x(t){ return Math.round((t-START)/DAY*PX); }
+var inner=document.getElementById('tl'); inner.style.width=x(END)+'px';
+var months=document.getElementById('tlm');
+for (var t=START; t<=END; ){
+  var dt=new Date(t), el=document.createElement('div');
+  el.className='tl-month'; el.style.left=x(t)+'px';
+  el.textContent=MN[dt.getUTCMonth()]+(dt.getUTCMonth()===0||t===START?" '"+String(dt.getUTCFullYear()).slice(2):'');
+  months.appendChild(el);
+  t=Date.UTC(dt.getUTCFullYear(),dt.getUTCMonth()+1,1);
+}
+var track=document.getElementById('tlt');
+blocks.forEach(function(b,i){
+  if (i>0){
+    var gs=d(blocks[i-1].e)+DAY, ge=d(b.s)-DAY;
+    if (ge>=gs){
+      var g=document.createElement('div');
+      g.className='tl-seg gap'; g.style.left=x(gs)+'px';
+      g.style.width=Math.max(10,x(ge+DAY)-x(gs))+'px';
+      g.textContent=(Math.round((ge-gs)/DAY)+1)+'d';
+      track.appendChild(g);
+    }
+  }
+  var seg=document.createElement('div');
+  seg.className='tl-seg'; seg.style.left=x(d(b.s))+'px';
+  seg.style.width=(x(d(b.e)+DAY)-x(d(b.s)))+'px';
+  seg.textContent=b.short;
+  track.appendChild(seg);
+});
+function flag(ds,label,cls){
+  var f=document.createElement('div');
+  f.className='tl-flag'+(cls?' '+cls:'');
+  f.style.left=x(d(ds))+'px';
+  f.innerHTML='<div class="lbl">'+label+'</div><div class="line"></div>';
+  inner.appendChild(f);
+}
+flag('2026-09-05','Step 1 - Sep 5','');
+flag('2026-12-18','FM shelf','shelf');
+
+/* ---------- block cards ---------- */
+var cards=document.getElementById('cards');
+blocks.forEach(function(b,i){
+  if (i>0){
+    var days=Math.round((d(b.s)-d(blocks[i-1].e))/DAY)-1;
+    if (days>2){
+      var gn=document.createElement('div');
+      gn.className='gapnote';
+      gn.textContent=(gapNames[blocks[i-1].e]||'Break')+' - '+days+' days off ('+fmt(blocks[i-1].e)+' - '+fmt(b.s)+')';
+      cards.appendChild(gn);
+    }
+  }
+  var c=document.createElement('div');
+  c.className='card';
+  var plan=b.plan.map(function(p,j){
+    return '<li class="'+(j===b.plan.length-1&&b.short!=='Wellness'?'':'')+'"><span class="k">'+p[0]+':</span> '+p[1]+'</li>';
+  }).join('');
+  c.innerHTML='<div class="top"><div class="nm">'+b.name+'</div><div class="cr">'+b.wk+' wk - '+b.cr+' cr</div></div>'
+    +'<div class="dt">'+fmtY(b.s)+' - '+fmtY(b.e)
+    +(b.short!=='Wellness'?' &middot; shelf <b>'+fmt(b.e)+'</b> &middot; UWorld '+b.qs:'')+'</div>'
+    +'<ul class="plan">'+plan+'</ul>'
+    +'<div class="res"><span class="k">Resources</span>'+b.res+'</div>';
+  cards.appendChild(c);
+});
+
+/* ---------- agenda ---------- */
+var agenda=[
+ ['2026-09-01','Free 120','Timed, review wrongs same day',0],
+ ['2026-09-05','USMLE Step 1','San Antonio - report 8:00 AM for 8:30 slot. Permit + ID.',1],
+ ['2026-11-05','ATS manuscript deadline','Submission due',0],
+ ['2026-11-06','Buy UWorld Step 2 subscription','Nov 6-8 - date-based clock, start it early',0],
+ ['2026-11-23','FM begins','Shelf Dec 18',0],
+ ['2027-01-04','Psych begins','Shelf Jan 29',0],
+ ['2027-02-01','Neuro begins','Shelf Feb 26',0],
+ ['2027-03-01','Peds begins','Shelf Apr 9',0],
+ ['2027-04-26','Medicine begins','Shelf Jun 18',0],
+ ['2027-07-06','Surgery begins','Shelf Aug 13',0],
+ ['2027-08-16','Wellness begins','No shelf',0],
+ ['2027-08-30','OB/Gyn begins','Shelf Oct 8',0]
+];
+var ag=document.getElementById('agenda');
+agenda.forEach(function(a){
+  var r=document.createElement('div');
+  r.className='arow'+(a[3]?' exam':'');
+  r.innerHTML='<div class="ad">'+fmtY(a[0])+'</div><div class="ae">'+a[1]+'<small>'+a[2]+'</small></div>';
+  ag.appendChild(r);
+});
+
+/* ---------- today ---------- */
+function wkInBlock(t,b){ return Math.floor((t-d(b.s))/(7*DAY))+1; }
+function todayPlan(t){
+  if (t<d('2026-09-01')&&t>=d('2026-08-27')) return {p:'Step 1 minus '+Math.round((d('2026-09-05')-t)/DAY)+' - question day', ts:['120 UWorld, timed random','Review incorrects same day','Anki reviews']};
+  if (t===d('2026-09-01')) return {p:'Step 1 minus 4 - Free 120 day', ts:['Free 120, timed','Review wrongs same day','Anki reviews']};
+  if (t===d('2026-09-02')) return {p:'Step 1 minus 3 - light review', ts:['Missed questions only','Anki reviews']};
+  if (t===d('2026-09-03')) return {p:'Step 1 minus 2 - last question day', ts:['60 UWorld','Anki reviews','Logistics check: permit, ID, route']};
+  if (t===d('2026-09-04')) return {p:'Step 1 minus 1 - travel day', ts:['Drive to San Antonio','Light Anki only','Sleep early']};
+  if (t===d('2026-09-05')) return {p:'STEP 1 DAY', ts:['Report 8:00 AM - 16648 San Pedro Ave, Suite 101','Permit + ID + glasses','Done by ~5. Go eat.']};
+  if (inR(t,'2026-09-06','2026-09-13')) return {p:'Off week', ts:['Sleep','Nothing is due']};
+  if (inR(t,'2026-09-14','2026-11-05')) return {p:'ATS manuscript - '+Math.round((d('2026-11-05')-t)/DAY)+' days to deadline', ts:['Manuscript work','Anki 20-30 min']};
+  if (inR(t,'2026-11-06','2026-11-08')) return {p:'Buy the UWorld Step 2 sub', ts:['Purchase UWorld Step 2 (date-based clock - starts now)']};
+  if (inR(t,'2026-11-09','2026-11-22')) return {p:'FM runway - '+Math.round((d('2026-11-23')-t)/DAY)+' days to day 1', ts:['20 UWorld FM, timed random','Anki reviews']};
+  for (var i=0;i<blocks.length;i++){
+    var b=blocks[i];
+    if (inR(t,b.s,b.e)){
+      if (b.short==='Wellness') return {p:'Wellness block', ts:['Anki streak','Rollover incorrects','Rest']};
+      var wk=wkInBlock(t,b), last=b.wk;
+      if (t===d(b.e)) return {p:b.name+' SHELF DAY', ts:['You know the material. Execute.']};
+      if (wk>=last) return {p:b.name+' wk '+wk+' - dedicated review', ts:['UWorld incorrects','CMS wrongs','Anki','Shelf '+fmt(b.e)]};
+      if (wk===b.amWk) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS '+b.short+'/day','Incorrects same day','Anki (max 5 new)']};
+      return {p:b.name+' wk '+wk+' - UWorld block', ts:['UWorld '+b.short+' questions','Incorrects same day','Anki (max 5 new)']};
+    }
+    if (i>0 && t>d(blocks[i-1].e) && t<d(b.s)){
+      return {p:(gapNames[blocks[i-1].e]||'Break')+' - '+b.name+' in '+Math.round((d(b.s)-t)/DAY)+' days', ts:['Anki streak','Rest']};
+    }
+  }
+  if (t>d('2027-10-08')) return {p:'MS3 done', ts:['Step 2 CK window - you know the drill']};
+  return {p:'', ts:[]};
+}
+(function(){
+  var t=dnow(), plan=todayPlan(t), dt=new Date(t);
+  document.getElementById('tdate').textContent=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][dt.getUTCDay()]+', '+MN[dt.getUTCMonth()]+' '+dt.getUTCDate()+', '+dt.getUTCFullYear();
+  document.getElementById('tphase').textContent=plan.p;
+  var key='chet_todo_'+dt.getUTCFullYear()+dt.getUTCMonth()+dt.getUTCDate();
+  var saved={}; try{ saved=JSON.parse(localStorage.getItem(key)||'{}'); }catch(e){}
+  var list=document.getElementById('tlist');
+  plan.ts.forEach(function(task,i){
+    var row=document.createElement('div');
+    row.className='chk'+(saved[i]?' done':'');
+    row.innerHTML='<div class="box"></div><div class="t">'+task+'</div>';
+    row.addEventListener('click',function(){
+      saved[i]=!saved[i];
+      row.classList.toggle('done',!!saved[i]);
+      localStorage.setItem(key,JSON.stringify(saved));
+    });
+    list.appendChild(row);
+  });
+})();
+</script>
+</body>
+</html>
