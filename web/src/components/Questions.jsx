@@ -192,6 +192,9 @@ function bankProgress(bank) {
 export default function Questions() {
   const [bank, setBank] = useState(() => {
     try {
+      // Deep link: /c?bank=immuno (used by /chet hub drill shortcuts)
+      const q = new URLSearchParams(window.location.search).get("bank");
+      if (q && (BANKS[q] || q === MISSED_BANK || q === FLAG_BANK)) return q;
       const last = localStorage.getItem(key("validmed_last_bank"));
       if (last && (BANKS[last] || last === MISSED_BANK || last === FLAG_BANK)) return last;
     } catch {}

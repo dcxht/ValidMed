@@ -9,8 +9,10 @@
 <link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-<link rel="manifest" href="/site.webmanifest" />
-<meta name="apple-mobile-web-app-title" content="ValidMed" />
+<link rel="manifest" href="/chet/manifest.webmanifest" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content="Hub" />
 <meta name="robots" content="noindex" />
 <title>Chet - ValidMed</title>
 <style>
@@ -89,6 +91,36 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .arow .ae { font-size:15px; }
 .arow .ae small { display:block; font-size:12px; color:var(--text-secondary); }
 .arow.exam .ad { color:#b45309; }
+
+/* countdown chips */
+.chips { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:16px; }
+.chip { background:var(--surface); border:1px solid var(--border); border-radius:999px; padding:7px 12px; font-size:13px; font-weight:600; }
+.chip b { color:var(--accent); }
+.chip.hot { border-color:#b45309; }
+.chip.hot b { color:#b45309; }
+
+/* uworld pace */
+.pace { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px; }
+.pace .lbl { font-size:13px; color:var(--text-secondary); margin-bottom:8px; }
+.pace .row { display:flex; gap:8px; }
+.pace input { flex:1; min-width:0; font-size:16px; padding:11px 12px; border:1px solid var(--border); border-radius:10px; -webkit-appearance:none; }
+.pace button { padding:11px 18px; min-height:46px; font-size:15px; font-weight:600; color:#fff; background:var(--accent); border:none; border-radius:10px; }
+.pace button:active { opacity:0.85; }
+.pace .verdict { margin-top:10px; font-size:14px; }
+.pace .verdict b.ok { color:var(--accent); }
+.pace .verdict b.behind { color:#b45309; }
+.pace .sub { font-size:12px; color:var(--text-secondary); margin-top:3px; }
+
+/* quick links */
+.qlinks { display:flex; flex-direction:column; gap:8px; }
+.qlinks a { display:flex; justify-content:space-between; align-items:center; gap:10px; background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:13px 16px; font-size:15px; font-weight:600; color:var(--text); text-decoration:none; min-height:48px; }
+.qlinks a:active { background:var(--bg); }
+.qlinks a small { font-weight:500; color:var(--text-secondary); font-size:12px; text-align:right; }
+
+/* scores */
+.chart { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:14px 8px 6px; }
+.chart svg { display:block; width:100%; height:auto; }
+
 footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 </style>
 </head>
@@ -110,11 +142,55 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <p class="tagline">MS3 hub - Step 1 Sep 5 - rotations Nov 23 to Oct 8</p>
 </header>
 
+<div class="chips" id="chips"></div>
+
 <h2 class="sec">Today</h2>
 <div class="today">
   <div class="date" id="tdate"></div>
   <div class="phase" id="tphase"></div>
   <div id="tlist"></div>
+</div>
+
+
+<h2 class="sec" id="uwsec-h">UWorld pace</h2>
+<div class="pace" id="uwsec">
+  <div class="lbl">Questions left in the bank (UWorld home, top right)</div>
+  <div class="row">
+    <input id="uwleft" type="number" inputmode="numeric" min="0" placeholder="e.g. 950" />
+    <button id="uwset">Set</button>
+  </div>
+  <div class="verdict" id="uwv"></div>
+  <div class="sub" id="uwsub"></div>
+</div>
+
+<h2 class="sec">Drills</h2>
+<div class="qlinks">
+  <a href="/c?bank=immuno"><span>Immunology drill</span><small>weak-area reps - resumes where you left off</small></a>
+  <a href="/c?bank=__missed__"><span>Review missed</span><small>every miss, all banks</small></a>
+  <a href="/c"><span>All banks</span><small>/c</small></a>
+  <a href="/mehlman"><span>Mehlman PDFs</span><small>all 34</small></a>
+</div>
+
+<h2 class="sec">Scores</h2>
+<div class="chart">
+<svg viewBox="0 0 340 132" role="img" aria-label="NBME score trend">
+  <line x1="36" y1="38" x2="312" y2="38" stroke="#b45309" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="334" y="41" font-size="10" fill="#b45309" text-anchor="end" font-weight="600">goal 80</text>
+  <polyline points="40,92 94,84.8 148,74 202,45.2 256,41.6 310,52.4" fill="none" stroke="#0f766e" stroke-width="2"/>
+  <g fill="#0f766e">
+    <circle cx="40" cy="92" r="3.5"/><circle cx="94" cy="84.8" r="3.5"/><circle cx="148" cy="74" r="3.5"/>
+    <circle cx="202" cy="45.2" r="3.5"/><circle cx="256" cy="41.6" r="3.5"/>
+  </g>
+  <circle cx="310" cy="52.4" r="3.5" fill="#64748b"/>
+  <g font-size="10" font-weight="600" fill="#1a1a1a" text-anchor="middle">
+    <text x="40" y="82">65</text><text x="94" y="74.8">67</text><text x="148" y="64">70</text>
+    <text x="202" y="35.2">78</text><text x="256" y="31.6">79</text><text x="310" y="42.4">76</text>
+  </g>
+  <g font-size="9.5" fill="#6b7280" text-anchor="middle">
+    <text x="40" y="126">28</text><text x="94" y="126">31</text><text x="148" y="126">30</text>
+    <text x="202" y="126">32</text><text x="256" y="126">33</text><text x="310" y="126">CBSE</text>
+  </g>
+</svg>
 </div>
 
 <h2 class="sec">Timeline</h2>
@@ -229,6 +305,47 @@ var blocks=[
    res:'UWorld OB + APGO uWise - the consensus OB add, written by the people who write the shelf. Case Files OB/Gyn or Blueprints if you want one book. OME for prenatal care, labor, gyn onc. Algorithms > facts: fetal strips, postpartum hemorrhage, hypertensive disorders.' }
 ];
 var gapNames={ '2026-12-18':'Winter break', '2027-04-09':'Spring break', '2027-06-18':'Summer break' };
+
+
+/* ---------- countdown chips ---------- */
+(function(){
+  var t=dnow();
+  var marks=[['Free 120','2026-08-31',0],['Step 1','2026-09-05',1],['ATS draft','2026-11-05',0],['FM day 1','2026-11-23',1]];
+  var el=document.getElementById('chips'), shown=0;
+  marks.forEach(function(m){
+    var days=Math.round((d(m[1])-t)/DAY);
+    if (days<0||shown>=3) return;
+    var c=document.createElement('span');
+    c.className='chip'+(m[2]?' hot':'');
+    c.innerHTML=m[0]+' <b>'+(days===0?'today':days+'d')+'</b>';
+    el.appendChild(c); shown++;
+  });
+})();
+
+/* ---------- uworld pace ---------- */
+var UW_PLAN=[['2026-08-27',120],['2026-08-28',120],['2026-08-29',120],['2026-08-30',120],['2026-09-03',60]];
+(function(){
+  var t=dnow();
+  if (t>d('2026-09-03')){ document.getElementById('uwsec').style.display='none'; document.getElementById('uwsec-h').style.display='none'; return; }
+  var rem=UW_PLAN.filter(function(p){return d(p[0])>=t;});
+  var days=rem.length, cap=rem.reduce(function(su,p){return su+p[1];},0);
+  var inp=document.getElementById('uwleft'), out=document.getElementById('uwv'), sub=document.getElementById('uwsub');
+  try{ var sv=JSON.parse(localStorage.getItem('chet_uw')||'null'); if (sv&&sv.left!=null) inp.value=sv.left; }catch(e){}
+  function render(){
+    var left=parseInt(inp.value,10);
+    if (isNaN(left)||left<0){ out.innerHTML=''; sub.textContent=''; return; }
+    try{ localStorage.setItem('chet_uw',JSON.stringify({left:left,ts:Date.now()})); }catch(e){}
+    if (left===0){ out.innerHTML='<b class="ok">Bank finished.</b>'; sub.textContent=''; return; }
+    var need=Math.ceil(left/days);
+    var ok=need<=120;
+    out.innerHTML='<b>'+left+'</b> left - need <b>'+need+'/day</b> over '+days+' question day'+(days>1?'s':'')+' - '+(ok?'<b class="ok">on pace</b>':'<b class="behind">behind (pace is 120)</b>');
+    sub.textContent='Schedule has room for '+cap+' more ('+(ok?'covers it':'short by '+(left-cap))+') - bank 3,640, '+Math.round((3640-left)/3640*100)+'% done.';
+  }
+  document.getElementById('uwset').addEventListener('click',render);
+  inp.addEventListener('input',render);
+  inp.addEventListener('keydown',function(e){ if(e.key==='Enter') render(); });
+  render();
+})();
 
 /* ---------- timeline ---------- */
 var START=d('2026-09-01'), END=d('2027-10-15'), PX=2.6;
