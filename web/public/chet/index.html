@@ -297,7 +297,7 @@ blocks.forEach(function(b,i){
 
 /* ---------- agenda ---------- */
 var agenda=[
- ['2026-09-01','Free 120','Timed, review wrongs same day',0],
+ ['2026-08-31','Free 120','8:30 AM - timed, review wrongs same day',0],
  ['2026-09-05','USMLE Step 1','San Antonio - report 8:00 AM for 8:30 slot. Permit + ID.',1],
  ['2026-11-05','ATS manuscript deadline','Submission due',0],
  ['2026-11-06','Buy UWorld Step 2 subscription','Nov 6-8 - date-based clock, start it early',0],
@@ -321,8 +321,9 @@ agenda.forEach(function(a){
 /* ---------- today ---------- */
 function wkInBlock(t,b){ return Math.floor((t-d(b.s))/(7*DAY))+1; }
 function todayPlan(t){
-  if (t<d('2026-09-01')&&t>=d('2026-08-27')) return {p:'Step 1 minus '+Math.round((d('2026-09-05')-t)/DAY)+' - question day', ts:['120 UWorld, timed random','Review incorrects same day','Anki reviews']};
-  if (t===d('2026-09-01')) return {p:'Step 1 minus 4 - Free 120 day', ts:['Free 120, timed','Review wrongs same day','Anki reviews']};
+  if (t<d('2026-08-31')&&t>=d('2026-08-27')) return {p:'Step 1 minus '+Math.round((d('2026-09-05')-t)/DAY)+' - question day', ts:['120 UWorld, timed random','Review incorrects same day','Anki reviews']};
+  if (t===d('2026-08-31')) return {p:'Step 1 minus 5 - Free 120 day', ts:['Free 120, timed - 8:30 AM','Review wrongs same day','Anki reviews']};
+  if (t===d('2026-09-01')) return {p:'Step 1 minus 4 - review + class day', ts:['Review Free 120 wrongs','Class 1 PM','Anki reviews']};
   if (t===d('2026-09-02')) return {p:'Step 1 minus 3 - light review', ts:['Missed questions only','Anki reviews']};
   if (t===d('2026-09-03')) return {p:'Step 1 minus 2 - last question day', ts:['60 UWorld','Anki reviews','Logistics check: permit, ID, route']};
   if (t===d('2026-09-04')) return {p:'Step 1 minus 1 - travel day', ts:['Drive to San Antonio','Light Anki only','Sleep early']};
