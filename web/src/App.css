@@ -1363,22 +1363,23 @@ body {
   color: #fff;
 }
 
-/* Static study card: the whole card fits the viewport - image scales to fit,
-   long answers scroll inside the card, controls never move */
+/* Study card: fits the viewport when it can. The image shrinks (down to a
+   legible floor) so short cards stay static; when content still overflows,
+   the whole card scrolls - question and answer text are never clipped and
+   the action bar stays put below the card. */
 .q-card {
   display: flex;
   flex-direction: column;
   max-height: calc(100dvh - 215px);
+  overflow-y: auto;
 }
 .q-card .q-question-img {
   width: 100%;
   height: auto;
-  min-height: 0;
   flex: 0 1 auto;
+  min-height: 140px;
   object-fit: contain;
 }
 .q-card .q-answer-block {
-  flex: 0 1 auto;
-  min-height: 0;
-  overflow-y: auto;
+  flex: 0 0 auto;
 }
