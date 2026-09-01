@@ -556,15 +556,19 @@ export default function Questions() {
   useEffect(() => {
     const handler = (e) => {
       if (reviewMode) return;
+      const t = e.target;
+      if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA")) return;
       if (e.key === "f" && !done) { toggleFlag(); return; }
       if ((e.key === "b" || e.key === "p") && canBack) { handleBack(); return; }
       if (e.key === " " || e.key === "Enter") {
         e.preventDefault();
         if (!revealed && !done) setRevealed(true);
+        else if (revealed && !done) handleMark(true);
+        return;
       }
       if (revealed && !done) {
         if (e.key === "ArrowRight" || e.key === "j") handleMark(true);
-        if (e.key === "ArrowLeft" || e.key === "k") handleMark(false);
+        if (e.key === "ArrowLeft" || e.key === "k" || e.key === "m") handleMark(false);
       }
     };
     window.addEventListener("keydown", handler);
