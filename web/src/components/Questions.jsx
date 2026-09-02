@@ -555,9 +555,22 @@ export default function Questions() {
   // Keyboard shortcuts
   useEffect(() => {
     const handler = (e) => {
-      if (reviewMode) return;
       const t = e.target;
       if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA")) return;
+      // Missed-questions review list: space/Enter reveals the next hidden answer.
+      if (reviewMode && missed.length > 0) {
+        if (e.key === " " || e.key === "Enter") {
+          e.preventDefault();
+          setReviewRevealed((prev) => {
+            const idx = missed.findIndex((_, i) => !prev[i]);
+            return idx < 0 ? prev : { ...prev, [idx]: true };
+          });
+        }
+        return;
+      }
+      // Bank menu open: ignore card keys so a space press can't reveal or
+      // mark a card hidden behind the sheet.
+      if (sheetOpen) return;
       if (e.key === "f" && !done) { toggleFlag(); return; }
       if ((e.key === "b" || e.key === "p") && canBack) { handleBack(); return; }
       if (e.key === " " || e.key === "Enter") {
@@ -573,7 +586,7 @@ export default function Questions() {
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [revealed, done, current, total, reviewMode, canBack, results]);
+  }, [revealed, done, current, total, reviewMode, canBack, results, sheetOpen, missed]);
 
   const openSheet = () => {
     setSheetBank(null);
