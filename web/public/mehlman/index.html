@@ -35,8 +35,42 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 .dlall:active { opacity:0.85; }
 .dlall .meta { color:rgba(255,255,255,0.85); font-size:14px; font-weight:400; }
 </style>
+
+<style>
+/* site gate */
+#vmgate { position:fixed; inset:0; background:#fafafa; z-index:9999; display:flex; align-items:center; justify-content:center; padding:24px; }
+#vmgate .card { width:100%; max-width:320px; background:#fff; border:1px solid #e5e7eb; border-radius:14px; padding:24px; text-align:center; font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Inter",sans-serif; }
+#vmgate h2 { font-size:18px; margin:0 0 4px; color:#1a1a1a; }
+#vmgate p { font-size:13px; color:#6b7280; margin:0 0 16px; }
+#vmgate input { width:100%; font-size:20px; text-align:center; padding:12px; border:1px solid #e5e7eb; border-radius:10px; margin-bottom:10px; -webkit-appearance:none; box-sizing:border-box; }
+#vmgate input.bad { border-color:#dc2626; }
+#vmgate button { width:100%; padding:13px; min-height:48px; font-size:16px; font-weight:600; color:#fff; background:#0f766e; border:none; border-radius:10px; cursor:pointer; }
+#vmgate button:active { opacity:0.85; }
+</style>
 </head>
 <body>
+<div id="vmgate">
+  <div class="card">
+    <h2>ValidMed</h2>
+    <p>Passcode</p>
+    <input id="vmpw" type="password" inputmode="numeric" autocomplete="off" autocapitalize="off" placeholder="passcode" />
+    <button id="vmpwgo">Open</button>
+  </div>
+</div>
+<script>
+(function(){
+  var g=document.getElementById('vmgate'), inp=document.getElementById('vmpw'), btn=document.getElementById('vmpwgo');
+  function open(){ g.parentNode.removeChild(g); }
+  try { if (localStorage.getItem('vm_gate')==='1') { open(); return; } } catch(e){}
+  function tryit(){
+    if (inp.value.trim()==='1234'){ try{ localStorage.setItem('vm_gate','1'); }catch(e){} open(); }
+    else { inp.classList.add('bad'); inp.value=''; inp.placeholder='nope'; setTimeout(function(){inp.classList.remove('bad'); inp.placeholder='passcode';},700); }
+  }
+  btn.addEventListener('click',tryit);
+  inp.addEventListener('keydown',function(e){ if(e.key==='Enter') tryit(); });
+})();
+</script>
+
 <div class="wrap">
 <header>
 <h1><a href="/">ValidMed</a></h1>
