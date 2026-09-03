@@ -221,7 +221,7 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 
 <script>
 /* ================= config ================= */
-var PASSCODE = 'honor';            // <- change the passcode here
+var PASSCODE = '1234';            // <- change the passcode here
 /* ========================================== */
 
 /* gate */
@@ -229,9 +229,9 @@ var PASSCODE = 'honor';            // <- change the passcode here
   var g=document.getElementById('gate'), app=document.getElementById('app'),
       inp=document.getElementById('pw'), btn=document.getElementById('pwgo');
   function open(){ g.style.display='none'; app.style.display='block'; }
-  if (localStorage.getItem('chet_gate')==='1') { open(); return; }
+  if (localStorage.getItem('vm_gate')==='1') { open(); return; }
   function tryit(){
-    if (inp.value.trim().toLowerCase()===PASSCODE){ localStorage.setItem('chet_gate','1'); open(); }
+    if (inp.value.trim().toLowerCase()===PASSCODE){ localStorage.setItem('vm_gate','1'); open(); }
     else { inp.classList.add('bad'); inp.value=''; inp.placeholder='nope'; setTimeout(function(){inp.classList.remove('bad');},700); }
   }
   btn.addEventListener('click',tryit);
