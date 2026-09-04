@@ -9,6 +9,7 @@ import reproQuestions from "./reproQuestions";
 import anatomyQuestions from "./anatomyQuestions";
 import imageQuestions from "./nbmeImageQuestions";
 import microQuestions from "./microQuestions";
+import hyReviewQuestions from "./hyReviewQuestions";
 
 export const BANKS = {
   neuro: { label: "Neuro", questions: neuroQuestions },
@@ -22,4 +23,5 @@ export const BANKS = {
   anatomy: { label: "Anatomy", questions: anatomyQuestions },
   nbmeimages: { label: "NBME Images", questions: imageQuestions },
   micro: { label: "Micro", questions: microQuestions },
+  hyreview: { label: "USMLE HY Review", questions: hyReviewQuestions },
 };
