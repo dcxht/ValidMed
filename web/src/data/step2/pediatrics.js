@@ -15456,5 +15456,361 @@ export default [
       "text": "CDC describes a small risk of congenital varicella syndrome after maternal infection in the first or early second trimester, including skin scarring and limb, brain and eye abnormalities with low birth weight. Maternal infection does not mean every fetus will have this syndrome.",
       "url": "https://www.cdc.gov/chickenpox/hcp/clinical-guidance/index.html"
     }
+  },
+  {
+    "id": "s2peds-1110",
+    "category": "Congenital and perinatal infections",
+    "q": "Which timing of maternal first varicella infection makes the source neonate a candidate for varicella-zoster immune globulin?",
+    "a": "Maternal varicella rash beginning five days before through two days after delivery. The newborn is at risk for severe neonatal varicella because protective maternal antibody has not had time to develop and transfer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC identifies this peripartum window as high risk. Use the VZV-specific product VariZIG when indicated, as soon as possible after exposure and within ten days. The source immunoglobulin answer should not be confused with routine nonspecific IVIG.",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-guidance/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1111",
+    "category": "Congenital and perinatal infections",
+    "q": "Can a child with congenital or early-life VZV exposure develop shingles?",
+    "a": "Yes. The source emphasizes that pediatric zoster exists and is more likely with congenital VZV or immunocompromise; shingles is not restricted to older adults.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "The 2022 congenital/perinatal VZV review describes zoster in the first or second year after maternal varicella in pregnancy. Many affected infants have no congenital malformations, so zoster does not require a visibly malformed congenital-varicella presentation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9762609/"
+    }
+  },
+  {
+    "id": "s2peds-1112",
+    "category": "Congenital and perinatal infections",
+    "q": "Does the source term neonate exposed to a child with chickenpox always need VZV immune globulin if the mother is immune?",
+    "a": "No. In the source healthy term-infant scenario, maternal prior chickenpox or vaccination supports transplacental passive IgG protection. This should not be generalized to every premature or immunocompromised infant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC includes hospitalized premature infants born before 28 weeks or weighing 1,000 g or less among high-risk exposed infants regardless of maternal immunity. At 28 weeks or later, hospitalized premature infants are high risk if the mother lacks immunity. Gestational age and infant health matter, not maternal history alone.",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-guidance/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1113",
+    "category": "Congenital and perinatal infections",
+    "q": "Which serious maternal complication of varicella does the source specifically mention during pregnancy?",
+    "a": "Varicella pneumonia. Maternal chickenpox is not simply a fetal-malformation concern; it can cause severe maternal disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC lists pneumonia as a major pregnancy complication and recommends IV acyclovir for pregnant patients with viral-mediated complications such as pneumonia.",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-guidance/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1114",
+    "category": "Congenital and perinatal infections",
+    "q": "Which heart lesion is the source strongest congenital rubella clue, and which eye and hearing findings accompany it?",
+    "a": "Patent ductus arteriosus, with possible cataracts and sensorineural deafness. The combination supports congenital rubella rather than an isolated nonspecific congenital-infection clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC describes congenital rubella as a multi-organ syndrome with cardiac defects, cataracts and hearing impairment. Not every infected infant has the full pattern; the PDF insistence that exam rubella always includes PDA is not a clinical diagnostic requirement.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-20-rubella.html"
+    }
+  },
+  {
+    "id": "s2peds-1115",
+    "category": "Congenital and perinatal infections",
+    "q": "Does absence of a maternal rash exclude the source congenital rubella diagnosis?",
+    "a": "No. Maternal infection can be mild or unrecognized, and the source allows arthritis without a reported rash. Joint symptoms in an adult woman can be a clue, not a unique rubella diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC notes that up to half of rubella infections may be subclinical and that arthralgia or arthritis is common in adult women. Clinical diagnosis alone is unreliable. The PDF aside that arthritis can occur with measles does not make an arthritis-only presentation specific for either infection.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-20-rubella.html"
+    }
+  },
+  {
+    "id": "s2peds-1116",
+    "category": "Congenital and perinatal infections",
+    "q": "Why is MMR contraindicated during pregnancy in the source, and what happens after inadvertent vaccination?",
+    "a": "MMR is live attenuated and is avoided during pregnancy because of theoretical fetal risk. Inadvertent vaccination during pregnancy or shortly before it is not an indication for termination.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC recommends avoiding pregnancy for 28 days after MMR. Its Pink Book reports extremely low apparent fetal risk and no congenital rubella defects in the cited inadvertent-exposure cohorts. The PDF statement that fetal risk is definitely increased should not be taught as an established vaccine harm; provide individual counseling.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-20-rubella.html"
+    }
+  },
+  {
+    "id": "s2peds-1117",
+    "category": "Congenital and perinatal infections",
+    "q": "How should the source CMV diagnosis-by-elimination advice be used in a congenital-infection vignette?",
+    "a": "The PDF favors CMV when deafness, hepatomegaly, blueberry-muffin rash and intracranial calcifications appear without its classic toxoplasmosis, rubella or syphilis pattern. These are overlapping clues, not proof by exclusion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC requires laboratory confirmation, ideally within two to three weeks of birth. Saliva PCR is preferred with urine confirmation; antibody tests do not diagnose congenital CMV. Absence of a toxoplasmosis triad, PDA or tooth abnormality does not by itself rule out the competing infections.",
+      "url": "https://www.cdc.gov/cytomegalovirus/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1118",
+    "category": "Congenital and perinatal infections",
+    "q": "What source combination favors congenital CMV over interpreting every intracranial calcification as toxoplasmosis?",
+    "a": "Intracranial calcifications plus hepatomegaly and congenital hearing impairment, sometimes with a blueberry-muffin rash. The source contrasts this with the classic toxoplasmosis hydrocephalus, chorioretinitis and calcification triad.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC emphasizes that clinical findings overlap other conditions and require timely congenital-CMV testing. Hearing loss can be present at birth or develop later, including after a passed newborn hearing screen.",
+      "url": "https://www.cdc.gov/cytomegalovirus/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1119",
+    "category": "Congenital and perinatal infections",
+    "q": "What histologic inclusion does the source associate with CMV?",
+    "a": "An owl-eye appearance due to a prominent intranuclear inclusion. This is a source morphology clue, not a substitute for congenital-CMV PCR testing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2peds-1120",
+    "category": "Congenital and perinatal infections",
+    "q": "Which antiviral does the source list for congenital CMV, and should every infected newborn receive it?",
+    "a": "Ganciclovir is the PDF treatment answer. Treatment decisions depend on symptomatic disease and specialist assessment; a positive congenital-CMV test does not mean every asymptomatic infant should automatically receive it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC lists ganciclovir or valganciclovir as options that may improve hearing and developmental outcomes in symptomatic newborns. Adverse effects can be serious, and evidence for treatment of isolated hearing loss is limited.",
+      "url": "https://www.cdc.gov/cytomegalovirus/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1121",
+    "category": "Congenital and perinatal infections",
+    "q": "What correction is needed to the source ganciclovir resistance mechanism?",
+    "a": "The source correctly links antiviral activity to inhibition of viral DNA polymerase, but its resistance label viral thymidine kinase is inaccurate for CMV. Common ganciclovir resistance involves the CMV UL97 protein kinase; UL54 DNA-polymerase mutations can also contribute.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "The cited CMV resistance review distinguishes UL97-mediated initial ganciclovir phosphorylation from UL54 polymerase effects. Do not transfer the HSV thymidine-kinase explanation directly to CMV. This correction accompanies the clinical antiviral-treatment point.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3262590/"
+    }
+  },
+  {
+    "id": "s2peds-1122",
+    "category": "Congenital and perinatal infections",
+    "q": "What neonatal complication can follow exposure to maternal genital HSV-1 or HSV-2?",
+    "a": "Neonatal HSV infection, including encephalitis. The source emphasizes transmission through an infected birth canal rather than assuming only visible neonatal skin lesions matter.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC notes the highest transmission risk with maternal genital HSV acquisition near delivery and recommends prompt systemic acyclovir for neonatal HSV. CNS or disseminated disease requires a different course from skin-limited infection.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2peds-1123",
+    "category": "Congenital and perinatal infections",
+    "q": "What is the source delivery answer when genital HSV prodromal burning or tingling is present at labor without visible vesicles?",
+    "a": "Cesarean delivery is recommended for genital HSV prodromal symptoms at the time of labor, even if visible lesions have not yet appeared. A prodrome weeks earlier is not the same as active symptoms at delivery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "ACOG explains that sores or warning signs of an outbreak at delivery may require cesarean to reduce neonatal exposure. This lowers but does not eliminate transmission risk; delivery decisions use the location and timing of symptoms.",
+      "url": "https://www.acog.org/womens-health/faqs/genital-herpes"
+    }
+  },
+  {
+    "id": "s2peds-1124",
+    "category": "Congenital and perinatal infections",
+    "q": "When does the source start suppressive acyclovir for recurrent genital HSV near delivery?",
+    "a": "The PDF says four to six weeks before delivery. Current CDC guidance starts suppression at 36 weeks of gestation for recurrent genital herpes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "CDC lists acyclovir 400 mg orally three times daily or valacyclovir 500 mg twice daily beginning at 36 weeks. Suppression reduces recurrences and cesareans for active lesions but does not guarantee prevention of neonatal infection. It is not based only on having predictably timed outbreaks.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2peds-1125",
+    "category": "Congenital and perinatal infections",
+    "q": "When should antiretroviral therapy begin in the source pregnant patient with HIV, and does a high CD4 count justify waiting?",
+    "a": "Start effective combination ART promptly regardless of CD4 count. The source emphasizes a three-drug regimen and preventing maternal progression and perinatal transmission rather than waiting for immune decline.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH recommends ART for all pregnancies affected by HIV regardless of CD4 count or viral load. The exact regimen must be selected for pregnancy, resistance, prior therapy and tolerability; the source three-drug shorthand is not permission to pick any three medications.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/intrapartum-care"
+    }
+  },
+  {
+    "id": "s2peds-1126",
+    "category": "Congenital and perinatal infections",
+    "q": "Does the PDF rule avoid efavirenz throughout pregnancy match current U.S. perinatal HIV guidance?",
+    "a": "No. The PDF lists efavirenz as avoided, but current NIH perinatal guidance does not restrict its use during pregnancy or when planning pregnancy. Do not stop a suppressive regimen merely because of the old blanket rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH March 31, 2026 states that efavirenz should be continued when a virally suppressive efavirenz-based regimen is already being received, since changing ART can risk loss of control. This differs from the older warning still described in the FDA label; new regimen selection remains individualized.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/safety-toxicity-arv-agents-drug-use-pregnant-full"
+    }
+  },
+  {
+    "id": "s2peds-1127",
+    "category": "Congenital and perinatal infections",
+    "q": "Should the source first-trimester TMP-SMX warning mean withholding needed Pneumocystis prophylaxis?",
+    "a": "No. The PDF advises avoiding TMP-SMX when trying to conceive or in the first trimester, while allowing later trimesters. Current guidance balances fetal concerns with the need to prevent a potentially serious opportunistic infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH May 27, 2026 recommends PCP prophylaxis in pregnancy as for other adults and lists TMP-SMX as preferred. Aerosolized pentamidine or oral atovaquone can be used in the first trimester because of possible teratogenicity. Folic-acid planning and specialist regimen selection matter; do not simply leave an eligible patient without prophylaxis.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/pneumocystis"
+    }
+  },
+  {
+    "id": "s2peds-1128",
+    "category": "Congenital and perinatal infections",
+    "q": "Does every pregnant patient with HIV need intrapartum IV zidovudine, as the PDF shorthand implies?",
+    "a": "No. The source blanket intrapartum zidovudine answer needs viral-load and adherence qualification. HIV status alone is not the full indication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH recommends IV zidovudine when HIV RNA is above 1,000 copies/mL or unknown within four weeks of birth; consider it at 50-1,000 copies/mL or with adherence concerns. It is not required when ART is being taken, HIV RNA is below 50 within four weeks, and adherence is achieved.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/intrapartum-care"
+    }
+  },
+  {
+    "id": "s2peds-1129",
+    "category": "Congenital and perinatal infections",
+    "q": "Does every pregnant patient with HIV need cesarean delivery to prevent transmission?",
+    "a": "No. The PDF automatic cesarean statement is outdated as a universal rule. Delivery planning depends on HIV RNA near birth and ordinary obstetric indications.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH recommends scheduled cesarean at 38 weeks for prevention when HIV RNA is above 1,000 copies/mL or unknown near delivery. Cesarean solely to prevent HIV transmission is not recommended at 1,000 copies/mL or less. If labor or membrane rupture occurs before a planned procedure, management is individualized.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/intrapartum-care"
+    }
+  },
+  {
+    "id": "s2peds-1130",
+    "category": "Congenital and perinatal infections",
+    "q": "How soon should an HIV-exposed newborn start antiretroviral prophylaxis or presumptive therapy?",
+    "a": "As soon as possible after birth, preferably within six hours under current NIH guidance. The PDF says zidovudine within six to twelve hours; do not treat twelve hours as the preferred target.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH June 25, 2026 recommends selecting the neonatal regimen by maternal viral load and transmission risk, infant gestational age and weight. Higher-risk exposure can require three-drug presumptive therapy rather than zidovudine alone.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/management-infants-utero-intrapartum-breastfeeding-hiv-exposure"
+    }
+  },
+  {
+    "id": "s2peds-1131",
+    "category": "Congenital and perinatal infections",
+    "q": "Does the source six-week zidovudine course apply to every HIV-exposed neonate?",
+    "a": "No. The PDF six-week course is not the current universal regimen. Infant drugs and duration are risk-stratified.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH June 25, 2026 recommends zidovudine alone for two weeks for low-risk infants exposed to maternal HIV RNA below 50 copies/mL from 20 weeks through delivery. High-risk exposure, including maternal HIV RNA at least 50 in the last four weeks, calls for three drugs for two to six weeks; if the three-drug course is shorter than six weeks, continue zidovudine to six weeks total. Intermediate cases need individualized management.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/management-infants-utero-intrapartum-breastfeeding-hiv-exposure"
+    }
+  },
+  {
+    "id": "s2peds-1132",
+    "category": "Congenital and perinatal infections",
+    "q": "How does current U.S. guidance differ from the PDF avoid breastfeeding even with suppressed HIV rule?",
+    "a": "The PDF favors avoiding breastfeeding because HIV can be transmitted in milk. Formula or pasteurized donor milk eliminates milk-borne HIV risk, but current NIH guidance supports informed shared decision-making for people with sustained viral suppression on ART.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "NIH June 25, 2026 states that fully suppressive ART lowers breastfeeding transmission risk to less than 1%, not zero. Counsel about formula, donor milk and breastfeeding when HIV RNA remains below 50 copies/mL, and support the informed choice with adherence support, monitoring and an infant plan. Undetectable does not mean zero breastfeeding risk.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/preventing-transmission-infant-feeding"
+    }
+  },
+  {
+    "id": "s2peds-1133",
+    "category": "Congenital and perinatal infections",
+    "q": "Which source dental, bone, nose, hearing and eye findings suggest congenital syphilis?",
+    "a": "Mulberry molars or abnormal incisors, saber shins, saddle nose and deafness are the source distinguishing clues. The PDF also lists cataracts; the classic late eye finding is interstitial keratitis, not a requirement for cataract.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 79,
+      "url": "/mehlman/hy-pediatrics.pdf#page=79"
+    },
+    "guideline": {
+      "text": "Merck describes late congenital findings typically after age two, including Hutchinson incisors, interstitial keratitis and eighth-nerve deafness. Newborns may be asymptomatic, so the absence of late dental or shin findings does not exclude congenital syphilis in a neonate.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/infections-in-neonates/congenital-syphilis"
+    }
   }
 ];
