@@ -20267,5 +20267,178 @@ export default [
       "text": "DermNet reports blue nevi are more common among Asian adults, while PCDS says Mongolian spots mainly occur in babies of East Asian ancestry and less frequently in other groups. Preserve the source claim but avoid merging the two lesions' epidemiology.",
       "url": "https://dermnetnz.org/topics/blue-naevus"
     }
+  },
+  {
+    "id": "s2peds-1425",
+    "category": "Pediatric dermatology",
+    "q": "Which benign newborn finding is shown by the p101 blue-gray lumbosacral patch?",
+    "a": "Congenital dermal melanocytosis, the current name for the source's Mongolian spot.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "PCDS describes congenital dermal melanocytosis as blue-gray, slate-brown or blue-black pigmentation, usually in the lumbosacral region of newborns.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/mongolian-spot"
+    },
+    "img": "/mehlman/figures/peds-p101-congenital-dermal-melanocytosis.png",
+    "imgAlt": "Actual source photograph of congenital dermal melanocytosis on the lower back"
+  },
+  {
+    "id": "s2peds-1426",
+    "category": "Pediatric dermatology",
+    "q": "What child-abuse distinction and follow-up answer does the source give for this p101 finding?",
+    "a": "It is often mistaken for child abuse. Schedule routine follow-up; contacting child protective services is the source's wrong answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "PCDS says typical congenital dermal melanocytosis is benign, is sometimes mistaken for bruising or non-accidental injury, and usually needs reassurance while atypical lesions may need dermatology review. Do not let the exam shortcut override real concern about unexplained bruising.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/mongolian-spot"
+    }
+  },
+  {
+    "id": "s2peds-1427",
+    "category": "Pediatric dermatology",
+    "q": "Which condition is shown by the p101 velvety hyperpigmented neck skin?",
+    "a": "Acanthosis nigricans.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "DermNet describes acanthosis nigricans as symmetric thickened brown velvety patches in intertriginous areas, commonly the back and sides of the neck.",
+      "url": "https://dermnetnz.org/topics/acanthosis-nigricans"
+    },
+    "img": "/mehlman/figures/peds-p101-acanthosis-nigricans.png",
+    "imgAlt": "Actual source photograph of velvety hyperpigmented neck skin in acanthosis nigricans"
+  },
+  {
+    "id": "s2peds-1428",
+    "category": "Pediatric dermatology",
+    "q": "What appearance and usual location does p101 give for acanthosis nigricans?",
+    "a": "Brown or black velvety skin, usually along the nape of the neck.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "DermNet confirms velvety hyperpigmented plaques most commonly in the axillae, groin and back or sides of the neck, with appearance varying by skin phototype.",
+      "url": "https://dermnetnz.org/topics/acanthosis-nigricans"
+    }
+  },
+  {
+    "id": "s2peds-1429",
+    "category": "Pediatric endocrinology",
+    "q": "Which metabolic association does p101 give for acanthosis nigricans?",
+    "a": "The source associates it with hyperinsulinemia and type II diabetes almost always.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "DermNet says it is predominantly linked to insulin resistance, obesity, diabetes and other metabolic disorders, but not almost always: medications, familial, autoimmune and other patterns occur, and darker-skinned individuals can have it without concurrent insulin resistance.",
+      "url": "https://dermnetnz.org/topics/acanthosis-nigricans"
+    }
+  },
+  {
+    "id": "s2peds-1430",
+    "category": "Pediatric dermatology",
+    "q": "What rare serious association does p101 give for acanthosis nigricans?",
+    "a": "Very rarely, an underlying visceral malignancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "DermNet calls malignant acanthosis nigricans a rare paraneoplastic syndrome, often abrupt in nonobese middle-aged patients and classically associated with gastric adenocarcinoma. This is not the usual pediatric metabolic pattern.",
+      "url": "https://dermnetnz.org/topics/acanthosis-nigricans"
+    }
+  },
+  {
+    "id": "s2peds-1431",
+    "category": "Pediatric dermatology",
+    "q": "Which lesion is shown by the p101 bright-red raised vascular plaque?",
+    "a": "Strawberry hemangioma, now preferably termed infantile hemangioma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "Merck says superficial infantile hemangiomas are bright red; because superficial, deep and descriptive variants share a common pathophysiology, infantile hemangioma is the preferred inclusive term.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/benign-skin-tumors-growths-and-vascular-lesions/infantile-hemangiomas"
+    },
+    "img": "/mehlman/figures/peds-p101-infantile-hemangioma.png",
+    "imgAlt": "Actual source photograph of a bright-red infantile hemangioma near the ear"
+  },
+  {
+    "id": "s2peds-1432",
+    "category": "Pediatric dermatology",
+    "q": "What natural history does p101 give for strawberry hemangioma?",
+    "a": "A benign capillary tumor that grows slightly, then regresses spontaneously within a few years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "Merck says infantile hemangiomas usually grow rapidly early, reach about 80% of final size by 3 months, begin involuting at 12-18 months and often regress over the first 3-5 years.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/benign-skin-tumors-growths-and-vascular-lesions/infantile-hemangiomas"
+    }
+  },
+  {
+    "id": "s2peds-1433",
+    "category": "Pediatric dermatology",
+    "q": "When does p101 say strawberry hemangioma needs treatment?",
+    "a": "No treatment is necessary unless it causes functional impairment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "AAP classifies hemangiomas as high risk for life-threatening complications, functional impairment or ulceration, associated anomalies or permanent disfigurement. Merck says observation is usual for uncomplicated lesions and treatment is individualized.",
+      "url": "https://publications.aap.org/pediatrics/article/143/1/e20183475/37268/Clinical-Practice-Guideline-for-the-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-1434",
+    "category": "Pediatric dermatology",
+    "q": "How does p101 distinguish cherry hemangioma from strawberry hemangioma?",
+    "a": "Cherry hemangioma is described as a tiny cherry-colored papule from sun exposure in elderly patients, unlike the infantile strawberry lesion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "DermNet confirms cherry angiomas are small red-to-purple papules that increase after age 40, but says their cause is unknown and identifies GNAQ/GNA11 mutations rather than proving sun exposure. It is distinct from infantile hemangioma.",
+      "url": "https://dermnetnz.org/topics/cherry-angioma"
+    }
+  },
+  {
+    "id": "s2peds-1435",
+    "category": "Pediatric dermatology",
+    "q": "Which finding is shown by the p101 small opening anterior to the ear?",
+    "a": "Preauricular pit. The p101 source gives the label and photograph; its benign course, infection and surgical-closure details continue on p102.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 101,
+      "url": "/mehlman/hy-pediatrics.pdf#page=101"
+    },
+    "guideline": {
+      "text": "PCDS describes preauricular pits as benign congenital small dents anterior to the helix and superior to the tragus. The p101 card preserves the photo only and leaves the p102 continuation with that page.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/pre-auricular-pits"
+    },
+    "img": "/mehlman/figures/peds-p101-preauricular-pit.png",
+    "imgAlt": "Actual source photograph of a preauricular pit"
   }
 ];
