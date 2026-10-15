@@ -135,7 +135,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 6,
       "url": "/mehlman/hy-family-medicine.pdf#page=6"
-    }
+    },
+    "sourcePages": [
+      6
+    ]
   },
   {
     "id": "s2fm-0013",
@@ -146,7 +149,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 6,
       "url": "/mehlman/hy-family-medicine.pdf#page=6"
-    }
+    },
+    "sourcePages": [
+      6
+    ]
   },
   {
     "id": "s2fm-0014",
@@ -200,12 +206,15 @@ export default [
     "id": "s2fm-0018",
     "category": "Heart sounds",
     "q": "A smoker has a loud pulmonic component of S2. What process does this suggest?",
-    "a": "Pulmonary hypertension, which can occur with cor pulmonale. Tricuspid regurgitation can accompany the elevated pulmonary pressure.",
+    "a": "Pulmonary hypertension, which can occur with cor pulmonale. Tricuspid regurgitation can accompany elevated pulmonary pressure. A soft pulmonic component can instead accompany severe pulmonic stenosis.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 8,
       "url": "/mehlman/hy-family-medicine.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8
+    ]
   },
   {
     "id": "s2fm-0019",
@@ -351,12 +360,15 @@ export default [
     "id": "s2fm-0031",
     "category": "Arrhythmias",
     "q": "An isolated early, wide ventricular complex is identified on an ECG. What is it, and does Mehlman recommend treatment on USMLE?",
-    "a": "A premature ventricular complex. The PDF says not to treat isolated PVCs on USMLE.",
+    "a": "A premature ventricular complex, originating in the ventricle. The PDF says not to treat isolated PVCs on USMLE; this is not a rule for every symptomatic or high-burden PVC presentation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 13,
       "url": "/mehlman/hy-family-medicine.pdf#page=13"
-    }
+    },
+    "sourcePages": [
+      13
+    ]
   },
   {
     "id": "s2fm-0032",
@@ -12932,7 +12944,7 @@ export default [
     "id": "s2fm-1124",
     "category": "Cardiology",
     "q": "What main anatomic distinction does this labeled aortic-dissection diagram illustrate?",
-    "a": "StanfordA involves the ascending aorta; StanfordB does not involve the ascending aorta. The figure also labels DeBakey types.",
+    "a": "Stanford A involves the ascending aorta; Stanford B does not involve the ascending aorta. The figure also labels DeBakey types.",
     "img": "/s2img/fm-11-1.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -13061,7 +13073,7 @@ export default [
   {
     "id": "s2fm-1134",
     "category": "ECG",
-    "q": "What electrolyte disturbance is associated with the labeled peakedT waves?",
+    "q": "What electrolyte disturbance is associated with the labeled peaked T waves?",
     "a": "Hyperkalemia.",
     "img": "/s2img/fm-17-2.png",
     "alt": "Figure from the source PDF",
@@ -15008,7 +15020,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 8,
       "url": "/mehlman/hy-family-medicine.pdf#page=8"
-    }
+    },
+    "duplicateOf": "s2fm-0018"
   },
   {
     "id": "s2fm-1287",
@@ -15552,7 +15565,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 6,
       "url": "/mehlman/hy-family-medicine.pdf#page=6"
-    }
+    },
+    "duplicateOf": "s2fm-0012"
   },
   {
     "id": "s2fm-1335",
@@ -15574,7 +15588,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 6,
       "url": "/mehlman/hy-family-medicine.pdf#page=6"
-    }
+    },
+    "duplicateOf": "s2fm-0013"
   },
   {
     "id": "s2fm-1337",
@@ -15585,7 +15600,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 7,
       "url": "/mehlman/hy-family-medicine.pdf#page=7"
-    }
+    },
+    "duplicateOf": "s2fm-0015"
   },
   {
     "id": "s2fm-1338",
@@ -15803,7 +15819,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 13,
       "url": "/mehlman/hy-family-medicine.pdf#page=13"
-    }
+    },
+    "duplicateOf": "s2fm-0031"
   },
   {
     "id": "s2fm-1355",
