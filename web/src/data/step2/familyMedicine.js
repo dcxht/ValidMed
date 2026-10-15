@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points from pp. 4-54; full coverage in progress.
+// Source-linked clinical review. Selected points from pp. 4-78; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -2033,6 +2033,941 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-0186",
+    "category": "Oral findings",
+    "q": "Perioral pigmentation and hamartomatous intestinal polyps suggest what syndrome?",
+    "a": "Peutz-Jeghers syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-0187",
+    "category": "Oral findings",
+    "q": "Recurrent epistaxis with oral telangiectasias and possible GI bleeding suggests what inherited syndrome?",
+    "a": "Hereditary hemorrhagic telangiectasia, also called Osler-Weber-Rendu syndrome. Pulmonary AV malformations can also occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-0188",
+    "category": "Oral findings",
+    "q": "Iron deficiency anemia, dysphagia from esophageal webs and angular cheilitis form what syndrome?",
+    "a": "Plummer-Vinson syndrome. Pica or spoon-shaped nails can be additional iron-deficiency clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-0189",
+    "category": "Oral findings",
+    "q": "A painful, self-limited ulcer on the inner lip is not infectious. What is it?",
+    "a": "An aphthous ulcer, or canker sore.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2fm-0190",
+    "category": "Kawasaki disease",
+    "q": "A child has over five days of fever, red eyes and lips, cervical nodes and swollen hands with later desquamation. What diagnosis and treatment are described?",
+    "a": "Kawasaki disease. The PDF names IVIG and aspirin as treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2fm-0191",
+    "category": "Oral infections",
+    "q": "A child has perioral crusted lesions, especially with a honey-colored appearance. What infection and organisms are suggested?",
+    "a": "Impetigo, caused by Staphylococcus aureus or group A Streptococcus. Post-streptococcal glomerulonephritis is a possible complication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-0192",
+    "category": "Oral infections",
+    "q": "Recurrent grouped lip lesions arise from a virus latent in sensory nerves. Which infection and drugs are described?",
+    "a": "Herpes labialis due to HSV. Acyclovir or valacyclovir are treatments mentioned in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-0193",
+    "category": "Oral infections",
+    "q": "Strawberry tongue and a diffuse rash occur with group A streptococcal infection. What syndrome is suggested?",
+    "a": "Scarlet fever. The PDF names penicillin treatment to prevent rheumatic fever.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-0194",
+    "category": "Oral infections",
+    "q": "A child has lesions of the hands, feet and mouth. Which viral group is emphasized?",
+    "a": "Coxsackie A. The same group can cause herpangina with posterior oropharyngeal vesicles or ulcers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-0195",
+    "category": "Oral findings",
+    "q": "A febrile child has white-blue spots on the buccal mucosa and a spreading rash. What are the spots called?",
+    "a": "Koplik spots, associated with measles.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-family-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2fm-0196",
+    "category": "Salivary disease",
+    "q": "Pain or swelling near the buccal opening opposite the upper second molar suggests a problem with which gland duct?",
+    "a": "The parotid, or Stensen, duct. A salivary stone can cause sialolithiasis and local inflammation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-family-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2fm-0197",
+    "category": "Oral findings",
+    "q": "A persistent white plaque in a tobacco user is considered premalignant. How does this differ from oral hairy leukoplakia?",
+    "a": "Leukoplakia can precede squamous-cell carcinoma. Oral hairy leukoplakia is EBV-associated and is not considered premalignant in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-0198",
+    "category": "Oral infections",
+    "q": "An immunocompromised patient has white oral plaques that scrape off and leave bleeding mucosa. What infection and local treatment are described?",
+    "a": "Oropharyngeal candidiasis. Nystatin mouthwash is named. Rinsing after inhaled corticosteroids lowers oral Candida risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-0199",
+    "category": "Esophageal disease",
+    "q": "Burning chest or throat discomfort follows meals without alarm symptoms. What empiric medication trial does Mehlman use for GERD?",
+    "a": "A proton-pump inhibitor such as omeprazole. The PDF describes a two-week trial; PPIs suppress acid more effectively than H2 blockers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-0200",
+    "category": "Esophageal disease",
+    "q": "An older adult with longstanding GERD develops progressive dysphagia, initially to solids. What malignancy and diagnostic step are emphasized?",
+    "a": "Esophageal adenocarcinoma, associated with Barrett esophagus. Perform endoscopy and biopsy a suspicious lesion or stricture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-0201",
+    "category": "Esophageal disease",
+    "q": "A heavy smoker and drinker develops progressive solid-food dysphagia. Which esophageal cancer is associated?",
+    "a": "Squamous-cell carcinoma. Endoscopy with biopsy is the diagnostic approach emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-0202",
+    "category": "Esophageal disease",
+    "q": "An older patient regurgitates undigested food and has gurgling during swallowing. What outpouching and diagnostic test are described?",
+    "a": "Zenker diverticulum. Barium swallow demonstrates it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-0203",
+    "category": "Esophageal disease",
+    "q": "Dysphagia affects solids and liquids from the beginning, with a bird-beak appearance on barium swallow. What is the diagnosis and confirmatory test?",
+    "a": "Achalasia. Esophageal manometry confirms abnormal lower-esophageal-sphincter relaxation and motility.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-0204",
+    "category": "Esophageal disease",
+    "q": "Which infection can cause secondary achalasia in a patient from South America?",
+    "a": "Chagas disease, or South American trypanosomiasis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-0205",
+    "category": "Upper GI bleeding",
+    "q": "Small-volume hematemesis follows forceful retching. What mucosal injury is suggested?",
+    "a": "Mallory-Weiss tear at the gastroesophageal junction. Large-volume bleeding in a cirrhotic patient instead raises concern for varices.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-0206",
+    "category": "Upper GI bleeding",
+    "q": "A cirrhotic patient has major hematemesis from dilated esophageal veins. What endoscopic treatment is emphasized?",
+    "a": "Endoscopy with variceal banding. Octreotide can also be used acutely; propranolol is preventive rather than acute bleeding control.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-0207",
+    "category": "Esophageal disease",
+    "q": "An atopic patient has dysphagia from an allergic esophageal disorder. Which diagnosis is suggested?",
+    "a": "Eosinophilic esophagitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-0208",
+    "category": "Peptic ulcer disease",
+    "q": "Which two noninvasive tests does the PDF name for active H. pylori infection?",
+    "a": "Urea breath testing and stool antigen testing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-0209",
+    "category": "Peptic ulcer disease",
+    "q": "Recurrent ulcers, sometimes extending beyond the duodenum, occur with high gastrin and diarrhea. What tumor syndrome is suggested?",
+    "a": "Gastrinoma causing Zollinger-Ellison syndrome. It can occur as part of MEN1.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-0210",
+    "category": "Peptic ulcer disease",
+    "q": "Why do NSAIDs predispose to gastritis and gastric ulcers?",
+    "a": "They reduce protective prostaglandins, impairing mucus, bicarbonate and mucosal protection. PPIs are used for acid suppression; misoprostol is a prostaglandin E1 analogue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-0211",
+    "category": "Gastritis",
+    "q": "Macrocytosis, hypersegmented neutrophils and neuropathy occur with autoimmune gastric disease. What deficiency and mechanism are suggested?",
+    "a": "Vitamin B12 deficiency from pernicious anemia, associated with antibodies against parietal cells or intrinsic factor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-0212",
+    "category": "Bilirubin disorders",
+    "q": "A healthy young adult develops isolated indirect hyperbilirubinemia during stress. What benign syndrome is suggested?",
+    "a": "Gilbert syndrome. It does not require treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-0213",
+    "category": "Autoimmune liver disease",
+    "q": "A woman has generalized pruritus, elevated ALP and antimitochondrial antibodies. What diagnosis and initial drug are described?",
+    "a": "Primary biliary cholangitis, termed primary biliary cirrhosis in the PDF. Ursodeoxycholic acid is the initial drug named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-0214",
+    "category": "Autoimmune liver disease",
+    "q": "Elevated aminotransferases in a young adult with anti-smooth-muscle antibodies suggest what condition?",
+    "a": "Autoimmune hepatitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-0215",
+    "category": "Pancreatic disease",
+    "q": "An older patient has weight loss, obstructive jaundice and a painless palpable gallbladder. What tumor and imaging are suggested?",
+    "a": "Cancer of the pancreatic head. The PDF names abdominal CT; the palpable gallbladder is Courvoisier sign.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-0216",
+    "category": "Biliary disease",
+    "q": "Intermittent RUQ or epigastric biliary colic suggests gallstones. What initial imaging test is used?",
+    "a": "Abdominal ultrasound for cholelithiasis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-0217",
+    "category": "Biliary disease",
+    "q": "Why do chronic hemolytic disorders such as sickle-cell disease increase gallstone risk?",
+    "a": "Increased red-cell turnover promotes pigment stones composed of calcium bilirubinate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-0218",
+    "category": "Biliary disease",
+    "q": "Persistent RUQ pain and fever suggest acute cholecystitis. What follows a nondiagnostic ultrasound when suspicion remains?",
+    "a": "A HIDA scan. The PDF names cholecystectomy as definitive treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-0219",
+    "category": "Biliary disease",
+    "q": "Obstructive jaundice soon after cholecystectomy raises concern for what retained pathology?",
+    "a": "Choledocholithiasis, a stone in the bile duct. Ultrasound and ERCP are the diagnostic/therapeutic steps described.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-0220",
+    "category": "Biliary disease",
+    "q": "Fever, jaundice and abdominal pain form what triad, and which biliary emergency is suggested?",
+    "a": "Charcot triad, suggesting ascending cholangitis. Antibiotics and biliary drainage by ERCP are emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-0221",
+    "category": "Pancreatic disease",
+    "q": "Abdominal pain with elevated lipase follows alcohol use or gallstones. What diagnosis is suggested, and does the enzyme height reliably indicate severity?",
+    "a": "Acute pancreatitis. The degree of lipase or amylase elevation does not reliably indicate prognosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-0222",
+    "category": "Pancreatic disease",
+    "q": "A patient with recurrent pancreatitis has steatorrhea but no acute enzyme rise. What process and replacement therapy are described?",
+    "a": "Chronic pancreatic insufficiency. Pancrelipase replaces digestive enzymes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-0223",
+    "category": "Pediatric GI",
+    "q": "A young infant has projectile nonbilious vomiting. What obstruction and initial imaging are suggested?",
+    "a": "Hypertrophic pyloric stenosis. Ultrasound is diagnostic; pyloromyotomy treats the obstruction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-0224",
+    "category": "Pediatric GI",
+    "q": "A neonate has bilious vomiting with a double-bubble sign. What obstruction and chromosomal association are described?",
+    "a": "Duodenal atresia, associated with Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-0225",
+    "category": "Pediatric GI",
+    "q": "A toddler has intermittent colicky pain, draws the legs up and passes bloody stool. What diagnosis and nonoperative treatment are described?",
+    "a": "Intussusception. Ultrasound is used initially; an enema can diagnose and reduce it in appropriate patients.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-0226",
+    "category": "Pediatric GI",
+    "q": "An infant has bowel obstruction from malrotation with a corkscrew appearance on an upper-GI study. What emergency is suggested?",
+    "a": "Midgut volvulus, which requires surgical treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-0227",
+    "category": "Pediatric GI",
+    "q": "Painless intestinal bleeding in a child or young adult suggests ectopic gastric tissue near the terminal ileum. What diagnosis and scan are described?",
+    "a": "Meckel diverticulum. A technetium-99m Meckel scan detects ectopic gastric mucosa.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-0228",
+    "category": "Malabsorption",
+    "q": "A patient with cystic fibrosis develops steatorrhea and fat-soluble vitamin deficiency. What is the digestive mechanism?",
+    "a": "Exocrine pancreatic insufficiency from obstructed pancreatic ducts, reducing delivery of digestive enzymes to the intestine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-0229",
+    "category": "Malabsorption",
+    "q": "Bloating, diarrhea and iron-deficiency anemia suggest which gluten-related disease?",
+    "a": "Celiac disease, with small-intestinal villous injury. IgA tissue-transglutaminase antibodies are a screening test described in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-0230",
+    "category": "Malabsorption",
+    "q": "Why can tissue-transglutaminase IgA testing be falsely negative in a patient with celiac disease?",
+    "a": "Concurrent IgA deficiency can prevent a detectable IgA antibody response.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-0231",
+    "category": "Malabsorption",
+    "q": "An itchy vesicular eruption on extensor surfaces accompanies celiac disease. What is the rash?",
+    "a": "Dermatitis herpetiformis, associated with IgA deposition at dermal papillae.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-0232",
+    "category": "Malabsorption",
+    "q": "Bloating and diarrhea follow dairy products, sometimes transiently after gastroenteritis. What deficiency and diagnostic test are described?",
+    "a": "Lactase deficiency causing lactose intolerance. Hydrogen breath testing can support the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-0233",
+    "category": "Milk protein allergy",
+    "q": "A formula-fed infant develops blood in the stool from milk-protein allergy. Which formula does the PDF favor?",
+    "a": "Hydrolyzed casein formula. Soy can cross-react and is not the alternative emphasized in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-0234",
+    "category": "Inflammatory bowel disease",
+    "q": "Bloody mucoid stools occur with ankylosing spondylitis or anterior uveitis. What broad intestinal diagnosis is suggested?",
+    "a": "Inflammatory bowel disease, including ulcerative colitis and Crohn disease. Both can have extraintestinal inflammatory manifestations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-0235",
+    "category": "Functional GI disorders",
+    "q": "Abdominal pain and altered stool pattern improve after bowel movements without inflammatory red flags. What functional diagnosis is suggested?",
+    "a": "Irritable bowel syndrome. The PDF describes visceral or smooth-muscle hypersensitivity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-0236",
+    "category": "GI motility",
+    "q": "Advanced diabetes causes early satiety, nausea and reflux-like symptoms. After obstruction is excluded, what test and treatment are described?",
+    "a": "Gastric-emptying scintigraphy for diabetic gastroparesis. Metoclopramide is a prokinetic drug named in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-0237",
+    "category": "GI motility",
+    "q": "How do thyroid disorders affect gut motility in the PDF?",
+    "a": "Hypothyroidism can cause constipation; hyperthyroidism can cause diarrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-0238",
+    "category": "Hepatitis serology",
+    "q": "A patient is HBsAg positive. What does that indicate?",
+    "a": "Current hepatitis B infection. IgM anti-HBc supports acute infection; the rest of the serology and clinical context distinguish phases.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-0239",
+    "category": "Hepatitis serology",
+    "q": "Anti-HBs is positive but anti-HBc is negative. What immunity pattern is this?",
+    "a": "Immunity from hepatitis B vaccination. Anti-HBc is not produced from the surface-antigen vaccine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-0240",
+    "category": "Hepatitis serology",
+    "q": "Anti-HBs and anti-HBc are both positive with negative surface antigen. What pattern is suggested?",
+    "a": "Resolved natural hepatitis B infection with immunity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-0241",
+    "category": "Hepatitis serology",
+    "q": "HBsAg and anti-HBs are both negative, but IgM anti-HBc is positive. What phase can this represent?",
+    "a": "The hepatitis B window period, after surface antigen disappears and before detectable surface antibody develops.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-0242",
+    "category": "Viral hepatitis",
+    "q": "Which hepatitis virus requires hepatitis B to infect, and which vaccination prevents this dependency?",
+    "a": "Hepatitis D requires HBV. Hepatitis B vaccination prevents HBV infection and therefore prevents hepatitis D infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-0243",
+    "category": "Viral hepatitis",
+    "q": "Which acute hepatitis infection is particularly dangerous during pregnancy?",
+    "a": "Hepatitis E, which can cause fulminant hepatitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-0244",
+    "category": "Hepatotoxicity",
+    "q": "What antidote is emphasized for acetaminophen overdose?",
+    "a": "N-acetylcysteine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-0245",
+    "category": "Iron and copper overload",
+    "q": "Hyperpigmentation, diabetes, liver disease and iron overload suggest what hereditary disorder and treatment?",
+    "a": "Hereditary hemochromatosis. Serial phlebotomy is the treatment emphasized for primary iron overload.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-0246",
+    "category": "Iron and copper overload",
+    "q": "A young person has liver disease, parkinsonism and Kayser-Fleischer rings. What disease and laboratory pattern are suggested?",
+    "a": "Wilson disease, with low ceruloplasmin and increased urinary copper. The PDF names penicillamine as a copper chelator.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-0247",
+    "category": "Bowel ischemia",
+    "q": "An older patient with cardiovascular disease has postprandial abdominal pain and food avoidance. What diagnosis is suggested?",
+    "a": "Chronic mesenteric ischemia from atherosclerotic mesenteric arterial disease, sometimes called intestinal angina.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-0248",
+    "category": "Bowel ischemia",
+    "q": "An older patient develops bloody stool after a low-perfusion event, affecting watershed colon. What diagnosis is suggested?",
+    "a": "Ischemic colitis, often involving the splenic flexure or rectosigmoid junction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-0249",
+    "category": "Appendicitis",
+    "q": "Abdominal pain migrates from a vague central location to the RLQ. What explains the localization?",
+    "a": "Inflammation reaches the parietal peritoneum in appendicitis, producing more localized pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-0250",
+    "category": "Diverticular disease",
+    "q": "An older adult develops LLQ pain and fever. What diagnosis and imaging are described, and what procedure is avoided acutely?",
+    "a": "Acute diverticulitis. Contrast-enhanced CT is the study named; colonoscopy is avoided during the acute inflammatory episode because of perforation risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-0251",
+    "category": "Bowel obstruction",
+    "q": "An older constipated patient has pain and a coffee-bean sign on abdominal radiography. What diagnosis is suggested?",
+    "a": "Sigmoid volvulus. The PDF names sigmoidoscopy-guided rectal decompression for appropriate cases.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-0252",
+    "category": "Anorectal disease",
+    "q": "An older patient has paradoxical overflow diarrhea with hard stool in the rectal vault. What is the cause?",
+    "a": "Fecal impaction, which can cause leakage around retained stool.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-0253",
+    "category": "Anorectal disease",
+    "q": "How does pain help distinguish internal hemorrhoidal bleeding from an anal fissure?",
+    "a": "Internal hemorrhoids typically cause painless bleeding. An anal fissure causes severe pain with defecation and may make the patient refuse a rectal exam.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-0254",
+    "category": "Anorectal disease",
+    "q": "A painful cyst at the top of the gluteal cleft contains hair. What is the diagnosis and acute abscess treatment?",
+    "a": "Pilonidal abscess. Incision and drainage is the treatment described.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-0255",
+    "category": "Infectious diarrhea",
+    "q": "Bloody diarrhea after undercooked beef is followed by anemia with schistocytes, thrombocytopenia and kidney injury. What syndrome and organism are suggested?",
+    "a": "Hemolytic uremic syndrome after Shiga-toxin-producing E. coli, classically EHEC.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-0256",
+    "category": "Infectious diarrhea",
+    "q": "Bloody diarrhea follows poultry exposure and is later associated with ascending weakness and reduced reflexes. Which organism and complication are linked?",
+    "a": "Campylobacter jejuni followed by Guillain-Barré syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-0257",
+    "category": "Infectious diarrhea",
+    "q": "Diarrhea and RLQ pain mimic appendicitis from mesenteric adenitis. What enteric organism is suggested?",
+    "a": "Yersinia enterocolitica.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-0258",
+    "category": "Infectious diarrhea",
+    "q": "Diarrhea starts about a week after antibiotics. What infection and test are emphasized?",
+    "a": "Clostridioides difficile infection. The PDF names stool toxin testing rather than stool culture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-0259",
+    "category": "Food poisoning",
+    "q": "Rapid vomiting develops within one to six hours of eating food left out at a buffet. What toxin-mediated organism is suggested?",
+    "a": "Staphylococcus aureus with a preformed heat-stable enterotoxin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-0260",
+    "category": "Infectious diarrhea",
+    "q": "A cruise-ship outbreak causes vomiting and watery diarrhea in adults and children. What virus is suggested?",
+    "a": "Norovirus, called Norwalk virus in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-0261",
+    "category": "Whipple disease",
+    "q": "Malabsorption and arthralgia occur with PAS-positive macrophages in the intestinal lamina propria. What disease is suggested?",
+    "a": "Whipple disease due to Tropheryma whipplei.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-0262",
+    "category": "Protozoal infections",
+    "q": "Foul-smelling floating stools and bloating follow freshwater exposure. What protozoan is suggested?",
+    "a": "Giardia lamblia, causing malabsorptive diarrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-0263",
+    "category": "Protozoal infections",
+    "q": "An immunocompromised patient has persistent watery diarrhea and acid-fast oocysts. What infection is suggested?",
+    "a": "Cryptosporidium infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-0264",
+    "category": "Parasitic infections",
+    "q": "A child has perianal itching at night with a positive tape test. What parasite is suggested?",
+    "a": "Enterobius vermicularis, the pinworm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-0265",
+    "category": "Parasitic infections",
+    "q": "Fever, periorbital edema and myalgias follow undercooked pork or bear meat. What parasite is suggested?",
+    "a": "Trichinella spiralis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-0266",
+    "category": "Parasitic infections",
+    "q": "A patient exposed to dogs has a hepatic hydatid cyst. Why should blind biopsy be avoided?",
+    "a": "Echinococcus cyst rupture can cause anaphylaxis. The PDF cautions against biopsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-0267",
+    "category": "Parasitic infections",
+    "q": "Which liver fluke acquired from fish is linked to cholangiocarcinoma?",
+    "a": "Clonorchis sinensis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-0268",
+    "category": "GI drug adverse effects",
+    "q": "A patient taking metoclopramide develops parkinsonian symptoms. What drug action explains the risk?",
+    "a": "Dopamine D2 antagonism. The PDF emphasizes considering discontinuation of metoclopramide rather than automatically treating primary Parkinson disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-0269",
+    "category": "GI drug adverse effects",
+    "q": "Cimetidine contributes to a sedative drug interaction and gynecomastia. What metabolic effect matters?",
+    "a": "Cytochrome P450 inhibition, which can increase concentrations of other drugs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-0270",
+    "category": "Drug absorption",
+    "q": "A patient takes ciprofloxacin with calcium supplements and fails to improve. What interaction reduces absorption?",
+    "a": "Chelation by divalent cations. Calcium and iron can also reduce absorption of tetracyclines and bisphosphonates.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
     }
   }
 ];
