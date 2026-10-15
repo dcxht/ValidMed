@@ -9050,5 +9050,649 @@ export default [
       "text": "CDC identifies barefoot contact with contaminated soil as a hookworm risk. The actual diagnosis requires clinical and parasitologic assessment, rather than geography alone.",
       "url": "https://cdc.gov/sth/about/hookworm.html"
     }
+  },
+  {
+    "id": "s2peds-0678",
+    "category": "Microcytic anemia",
+    "q": "What hemoglobin and MCV pattern does the source table give for both iron deficiency anemia and thalassemia?",
+    "a": "Low hemoglobin with low MCV: a microcytic anemia. This shared pattern does not distinguish the two.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 lists IDA and thalassemia among the causes of microcytic anemia. Interpret hemoglobin and MCV using age-appropriate reference values and the wider history/laboratory assessment.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0679",
+    "category": "Microcytic anemia",
+    "q": "How does the source table contrast serum iron and ferritin in isolated IDA versus thalassemia?",
+    "a": "IDA: both are low. Thalassemia without concurrent iron deficiency: they are generally normal. These are the source contrasting patterns, not guarantees for patients with coexisting conditions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 describes low ferritin as diagnostic of iron deficiency but notes that inflammation can falsely normalize or elevate it. Serum iron varies with recent food or medicine absorption; an isolated value is not a complete iron assessment.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0680",
+    "category": "Microcytic anemia",
+    "q": "What inherited process defines thalassemia in the source?",
+    "a": "Impaired synthesis of alpha- or beta-globin chains in hemoglobin. The microcytosis is not inherently caused by a shortage of iron.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "ARUP describes inherited unbalanced globin-chain synthesis and uses CBC, smear, iron studies, hemoglobin assays and, when needed, genetic testing to distinguish forms.",
+      "url": "https://arupconsult.com/content/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0681",
+    "category": "Microcytic anemia",
+    "q": "Which source microcytic-anemia pattern should raise suspicion for thalassemia despite the anemia?",
+    "a": "Microcytosis with preserved iron and ferritin, rather than the low-iron/low-store pattern expected in uncomplicated IDA. Thalassemia is a possibility, not the only diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "ARUP lists very low MCV with normal or high-normal RBC count and normal ferritin in thalassemia, with the ferritin comparison explicitly conditional on absence of inflammation.",
+      "url": "https://arupconsult.com/content/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0682",
+    "category": "Microcytic anemia",
+    "q": "Which source response-to-iron clue suggests that microcytosis is not simply nutritional IDA?",
+    "a": "Persistent microcytic anemia despite adequate iron replacement. The source contrasts iron-responsive IDA with thalassemia that does not improve merely by supplying iron.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 lists minimal to no change with oral iron in thalassemia trait. Before labeling any nonresponse as thalassemia, assess adherence, the dose, ongoing loss, malabsorption and other causes. Iron deficiency and thalassemia may coexist.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0683",
+    "category": "Microcytic anemia",
+    "q": "What does the source show for hemoglobin electrophoresis in uncomplicated iron deficiency anemia?",
+    "a": "A normal hemoglobin pattern rather than a characteristic inherited variant pattern. A normal study does not itself prove that iron stores are normal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 cautions that iron deficiency can falsely normalize HbA2 in a child with concurrent beta-thalassemia trait. Correct iron deficiency before definitive hemoglobin analysis when both are suspected.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0684",
+    "category": "Microcytic anemia",
+    "q": "Which source thalassemia type can have normal hemoglobin electrophoresis?",
+    "a": "Alpha-thalassemia trait, especially the one- or two-gene forms discussed on p53. A normal study does not exclude alpha-thalassemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 notes that Hb Barts may identify alpha-thalassemia in the newborn period, while confirmation outside that period requires globin testing.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0685",
+    "category": "Microcytic anemia",
+    "q": "Which hemoglobin fractions does the source associate with beta-thalassemia?",
+    "a": "Increased HbA2 and HbF. This is the PDF summary; the size and pattern of changes vary with the beta-thalassemia phenotype.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "ARUP lists increased HbA2 in beta-thalassemia minor, and much greater HbF with absent HbA in major disease. HbF elevation is not a required finding in every carrier, and iron deficiency can lower HbA2.",
+      "url": "https://arupconsult.com/content/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0686",
+    "category": "Microcytic anemia",
+    "q": "Does the source no-improvement-with-iron thalassemia row mean never treat a documented iron deficiency in a thalassemia carrier?",
+    "a": "No. It means iron alone does not correct the inherited globin-synthesis defect. A separately established iron deficiency still needs treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 explicitly addresses concomitant iron deficiency and suspected thalassemia trait: fully correct iron deficiency before interpreting definitive hemoglobin analysis.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0687",
+    "category": "Microcytic anemia",
+    "q": "What milk-intake risk factor does the source stress for iron deficiency in children age 2 years or younger?",
+    "a": "Consumption of more than 24 ounces of milk daily. The source uses this as a major dietary clue in young children, not a claim that all milk causes anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 recommends sufficient iron-rich food and milk intake below 24 ounces/day after the first birthday and before age 5. Cow milk or milk alternatives should not replace human milk/formula before 12 months.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0688",
+    "category": "Microcytic anemia",
+    "q": "An 18-month-old eats table foods but drinks whole milk daily. Which deficiency does the source want considered?",
+    "a": "Iron deficiency, especially if milk intake is excessive. The vignette needs an assessment of diet and iron status; drinking some whole milk alone is not diagnostic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 identifies the transition from iron-fortified formula to low-iron cow or plant-based milk as a vulnerable period, particularly with intake above 24 ounces/day and inadequate iron-rich complementary food.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0689",
+    "category": "Microcytic anemia",
+    "q": "Why does the source reject vitamin D as its answer to the 18-month-old whole-milk vignette?",
+    "a": "It is testing the milk-heavy toddler diet as a clue to iron deficiency. The author contrasts this with vitamin-D risk in exclusively breastfed younger infants; the point does not make iron and vitamin-D deficiency mutually exclusive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 also identifies prolonged exclusive breastfeeding without adequate iron supplementation or complementary iron as an iron-deficiency risk. Do not use the source age/feeding contrast to rule out iron deficiency in a breastfed infant.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0690",
+    "category": "Microcytic anemia",
+    "q": "Which malabsorption disease does the source again emphasize as a pediatric cause of iron deficiency anemia?",
+    "a": "Celiac disease. The source cross-reference returns to its earlier GI discussion rather than treating all pediatric IDA as dietary.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 recommends evaluation of iron malabsorption related to duodenal disease, including celiac disease, and treatment of the underlying cause when indicated.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0691",
+    "category": "Microcytic anemia",
+    "q": "What does RDW stand for, and what source pattern is typical in IDA?",
+    "a": "Red cell distribution width, reflecting variation in red-cell size. The source table gives increased RDW for IDA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 describes anemia, microcytosis and elevated RDW as most consistent with IDA, but also notes that thalassemia trait or chronic inflammation may have elevated RDW. It is a supporting pattern, not a stand-alone diagnosis.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0692",
+    "category": "Microcytic anemia",
+    "q": "What RDW pattern does the source table favor for thalassemia?",
+    "a": "Normal or low RDW, in contrast to the typical increased RDW of IDA. This is an exam-pattern clue, not a rule that elevated RDW excludes thalassemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 states that thalassemia trait can also produce microcytic anemia with elevated RDW. A mild microcytic anemia with normal RDW may suggest thalassemia trait but requires clinical/laboratory interpretation.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0693",
+    "category": "Microcytic anemia",
+    "q": "Can increased RDW by itself establish iron deficiency anemia, as the source strongly favors in exam questions?",
+    "a": "No. The source reports that it usually points to IDA in the author exam experience, but elevated RDW is not specific enough to establish the cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 identifies elevated RDW with IDA but also with thalassemia trait or chronic inflammation. Confirm iron status and consider the complete differential; the source 9-in-10 exam-frequency claim is not independently verified.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0694",
+    "category": "Microcytic anemia",
+    "q": "Does a normal ferritin make iron deficiency impossible, as the source RDW anecdote claims?",
+    "a": "No. That categorical source claim is unsafe when inflammation or tissue injury is present. Ferritin can be falsely normal or high despite iron deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 states that ferritin is an acute-phase reactant and may be falsely normalized or elevated by inflammation. Its reliability must be judged in that context; a low ferritin supports deficiency, but a normal value is not an unconditional exclusion.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0695",
+    "category": "Microcytic anemia",
+    "q": "Can iron deficiency anemia be ruled out solely because RDW is not increased?",
+    "a": "No. Do not use the PDF normal-RDW rule-out shortcut as a clinical exclusion test. RDW is one part of the assessment, alongside hemoglobin, MCV, iron status and the history.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 recommends CBC plus serum ferritin for iron-deficiency screening and states that no single iron test is 100% definitive. It describes normal RDW as a possible thalassemia clue, not as a validated stand-alone rule-out for iron deficiency.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0696",
+    "category": "Microcytic anemia",
+    "q": "What should be taken from the source anecdote about increased RDW in a CMS FM thalassemia question?",
+    "a": "The author reports an elevated-RDW thalassemia case with normal ferritin and calls it an outlier. The clinical takeaway is that RDW is not specific to IDA; neither that recalled question nor normal ferritin creates an absolute exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AAP June 2026 recognizes elevated RDW in thalassemia trait and false-normal ferritin with inflammation. The particular CMS question and the author frequency/erratum characterization have not been independently verified.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0697",
+    "category": "Microcytic anemia",
+    "q": "What red-cell appearance does the source show here for iron deficiency anemia?",
+    "a": "Hypochromic red cells with increased central pallor, consistent with the source pale-RBC description. This appearance alone does not establish iron status.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "img": "/mehlman/pediatrics/p052-ida-smear.jpg"
+  },
+  {
+    "id": "s2peds-0698",
+    "category": "Microcytic anemia",
+    "q": "Which blood-smear finding does the source table favor for thalassemia?",
+    "a": "Target cells. The actual target-cell figure and the post-splenectomy caveat continue on p53. The finding is suggestive in context, not specific enough to diagnose thalassemia by itself.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "ARUP lists unexplained target cells as an indication for hemoglobin testing rather than as a definitive diagnosis. A CBC, iron studies and appropriate hemoglobin/genetic analysis may be needed.",
+      "url": "https://arupconsult.com/content/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0699",
+    "category": "Microcytic anemia",
+    "q": "How should the source claim that 14 of 15 target-cell exam mentions mean thalassemia be used?",
+    "a": "As the author reported exam heuristic, not a validated likelihood or a clinical diagnostic rule. Both alpha- and beta-thalassemia may enter the differential, and p53 includes a post-splenectomy exception.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 52,
+      "url": "/mehlman/hy-pediatrics.pdf#page=52"
+    },
+    "guideline": {
+      "text": "ARUP recommends investigation of unexplained target cells. The source numerical exam-frequency claim has not been independently verified and should not replace the rest of the vignette or clinical evaluation.",
+      "url": "https://arupconsult.com/content/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0700",
+    "category": "Microcytic anemia",
+    "q": "What red-cell morphology does this source p53 smear illustrate?",
+    "a": "Target cells, the central hemoglobin dot with a surrounding pale ring and peripheral hemoglobin rim. The source pairs this image with thalassemia, but the morphology is not exclusive to it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 notes target cells in thalassemia and other hemoglobinopathies, as well as after splenectomy and in liver disease. Interpret the image with the clinical and laboratory context.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    },
+    "img": "/mehlman/pediatrics/p053-target-cells.jpg"
+  },
+  {
+    "id": "s2peds-0701",
+    "category": "Microcytic anemia",
+    "q": "Why does the source warn against automatically diagnosing thalassemia from target cells after splenectomy?",
+    "a": "Its recalled NBME case used target cells as a background post-splenectomy finding, not the key answer clue. The source anecdote does not make target cells a specific test for any one disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 independently confirms target cells can occur after splenectomy. The particular NBME case and the author judgment of its role are not independently verified.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0702",
+    "category": "Microcytic anemia",
+    "q": "What initial treatment does the source table give for uncomplicated iron deficiency anemia?",
+    "a": "Iron replacement. Oral iron is the usual first treatment when it can be taken and absorbed; also identify and address the cause of the deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "AAP June 2026 recommends ferrous sulfate for initial pediatric IDA treatment and emphasizes treating the underlying diet, malabsorption or blood-loss cause.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0703",
+    "category": "Microcytic anemia",
+    "q": "Is the source claim that parenteral iron is basically always a wrong answer a safe universal rule?",
+    "a": "No. Oral iron is usually appropriate for uncomplicated IDA, but IV iron has legitimate indications. The PDF blanket dismissal should not override an actual contraindication, failed absorption or other need for IV treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2025 reserves parenteral iron for selected patients, including oral intolerance, ineffective oral treatment or need for expedient repletion. This general review is not a pediatric dosing instruction.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/iron-deficiency-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0704",
+    "category": "Microcytic anemia",
+    "q": "What pediatric example directly contradicts the source never-IV-iron shortcut?",
+    "a": "A child with poor absorption from iron given through a jejunostomy tube may need IV iron. The treatment route depends on the actual clinical situation, not the author exam-answer anecdote.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "AAP June 2026 specifically states that response to iron administered through a J-tube may be limited and that intravenous iron therapy should be considered. It is not a blanket recommendation for every enterally fed child.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0705",
+    "category": "Microcytic anemia",
+    "q": "What does the source recommend for severe thalassemia rather than routine iron supplementation?",
+    "a": "Red blood cell transfusions when the disease is severe. Supplying iron does not repair the inherited globin-synthesis defect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 distinguishes trait, which generally needs no treatment, from severe disease managed with transfusion and iron-overload monitoring/chelation. Treatment is phenotype-specific rather than identical for every thalassemia.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0706",
+    "category": "Microcytic anemia",
+    "q": "What is transfusional siderosis in the source?",
+    "a": "Secondary iron overload from repeated red blood cell transfusions, such as in beta-thalassemia major. Each transfusion introduces additional iron.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes transfusional iron overload with potential cardiac and hepatic injury and need for chelation. Thalassemia can also cause increased intestinal iron absorption; transfusions are not the only overload mechanism.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0707",
+    "category": "Microcytic anemia",
+    "q": "Which drug class and example does the source use for transfusional iron overload?",
+    "a": "Iron chelators, for example deferoxamine. The goal is removal of excess iron, not simply treating the anemia with more iron.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 recommends chronic chelation to prevent or delay iron-overload complications. Selection and monitoring of the chelator require specialist care; the PDF example is not a complete dosing plan.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0708",
+    "category": "Microcytic anemia",
+    "q": "How many alpha- and beta-globin gene copies underlie the source mutation-count shortcut?",
+    "a": "Four alpha-globin gene copies versus two beta-globin gene copies. Reduced globin synthesis is the shared defect; the number affected helps explain severity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "ARUP describes two alpha genes, HBA1/HBA2, on each chromosome 16 and HBB on the paired chromosome 11s. Alpha disease often involves deletions, while beta disease commonly involves sequence variants; copy count is a simplified phenotype guide.",
+      "url": "https://arupconsult.com/content/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0709",
+    "category": "Microcytic anemia",
+    "q": "What phenotype does the source assign to one affected alpha-globin gene?",
+    "a": "A silent carrier, often an asymptomatic person found incidentally, including during antenatal testing. The PDF says microcytic anemia, but neither anemia nor microcytosis is obligatory in a silent carrier.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "ARUP lists normal or slightly reduced MCV/MCH and an asymptomatic carrier phenotype for one affected alpha gene. The source adult/antenatal setting is a recognition example, not an age requirement.",
+      "url": "https://arupconsult.com/content/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0710",
+    "category": "Microcytic anemia",
+    "q": "What phenotype does the source assign to two affected alpha-globin genes?",
+    "a": "Alpha-thalassemia trait, with mild microcytosis/anemia that may resemble IDA. The PDF uses adult fatigue as its vignette, but symptoms and adult presentation are not required.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes two-gene alpha-thalassemia trait as often having mild to moderate microcytic anemia without symptoms. Do not infer iron deficiency or prescribe iron solely from fatigue/microcytosis.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0711",
+    "category": "Microcytic anemia",
+    "q": "What disease and hemoglobin tetramer does the source associate with three affected alpha-globin genes?",
+    "a": "Hemoglobin H disease, with beta4 tetramers. The source contrasts a potentially ill child with the milder carrier/trait patterns.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "GeneReviews describes a broad HbH spectrum: many individuals survive without regular treatment, while some, especially nondeletional forms, are more severely affected and transfusion dependent. Three affected genes do not imply an identical course in every child.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1435/"
+    }
+  },
+  {
+    "id": "s2peds-0712",
+    "category": "Microcytic anemia",
+    "q": "What disease and tetramer does the source associate with all four alpha-globin genes being affected?",
+    "a": "Hemoglobin Bart hydrops fetalis syndrome, with gamma4 tetramers. This is the source most severe alpha-thalassemia category.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "GeneReviews identifies deletion/inactivation of all four alpha-globin genes as Hb Bart syndrome. Management has changed: fetal transfusion and postnatal treatment can allow survival, so the PDF universal fatal-in-utero claim needs qualification.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1435/"
+    }
+  },
+  {
+    "id": "s2peds-0713",
+    "category": "Microcytic anemia",
+    "q": "Is Hb Bart syndrome invariably fatal in utero as the source says?",
+    "a": "No. Untreated pregnancies commonly end in fetal or neonatal death, but fetal therapy can allow survival. The PDF description reflects extreme untreated severity, not an unavoidable outcome for every affected pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "The Thalassaemia International Federation 2023 alpha-thalassaemia guideline describes intrauterine transfusions producing viable offspring, followed by substantial postnatal treatment needs. Specialist nondirective counseling is essential.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK602215/"
+    }
+  },
+  {
+    "id": "s2peds-0714",
+    "category": "Microcytic anemia",
+    "q": "What is the source typical one-beta-gene phenotype?",
+    "a": "Beta-thalassemia minor or trait: often asymptomatic or mild fatigue with microcytosis, similar in broad severity to mild alpha-thalassemia. It is not restricted to adults.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes the usual heterozygous beta-thalassemia phenotype as asymptomatic with mild microcytic anemia. The exact variant and other genetic factors influence severity.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0715",
+    "category": "Microcytic anemia",
+    "q": "What source severe childhood syndrome is associated with two affected beta-globin alleles?",
+    "a": "Beta-thalassemia major, compared with the more severe childhood alpha-thalassemia pattern. This is a simplified count-based source comparison.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 distinguishes minor, intermedia/non-transfusion-dependent and major/transfusion-dependent phenotypes. Two beta-thalassemia alleles do not always mean major disease; residual beta-chain production matters.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0716",
+    "category": "Microcytic anemia",
+    "q": "Which two hemoglobin fractions does the source emphasize in beta-thalassemia, and what chains make them?",
+    "a": "HbA2 is alpha2-delta2; HbF is alpha2-gamma2. The source emphasizes their increase, especially when contrasting beta- with mild alpha-thalassemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes mild HbA2 elevation in beta-thalassemia minor and prominent HbF elevation in major disease. The detailed fraction pattern varies by phenotype; HbF is not necessarily high in every carrier.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
+  },
+  {
+    "id": "s2peds-0717",
+    "category": "Microcytic anemia",
+    "q": "Why can a normal electrophoresis fail to exclude the source one- or two-gene alpha-thalassemia?",
+    "a": "Those mild alpha-thalassemia forms can have a normal routine hemoglobin pattern. Persistent unexplained microcytosis may still warrant an alpha-globin assessment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "AAP June 2026 states that outside the newborn period, confirmation of alpha-thalassemia requires globin testing; Hb Barts on newborn screening may provide an early clue. A normal routine hemoglobin study is not an exclusion test.",
+      "url": "https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2peds-0718",
+    "category": "Microcytic anemia",
+    "q": "Which source thalassemia complication is illustrated by this skull radiograph?",
+    "a": "Chronic marrow expansion with the source chipmunk-facies/skull description in severe thalassemia. The skull changes reflect compensatory hematopoietic drive; the image is not by itself a complete diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes thickened cranial bones and malar eminences from marrow hyperactivity, with widened diploic space and a sun-ray trabecular appearance. Distinguish marrow expansion in bone from hematopoiesis outside the marrow.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    },
+    "img": "/mehlman/pediatrics/p053-thalassemia-skull.jpg"
+  },
+  {
+    "id": "s2peds-0719",
+    "category": "Microcytic anemia",
+    "q": "What does the source pair with facial/skull changes in severely affected children with thalassemia?",
+    "a": "Hepatosplenomegaly. The source links these findings to greatly increased hematopoietic activity in response to anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "GeneReviews describes enlargement of the spleen and sometimes liver and thalassemia-like skeletal changes in HbH disease. Severity varies; not every child or carrier has this appearance.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1435/"
+    }
+  },
+  {
+    "id": "s2peds-0720",
+    "category": "Microcytic anemia",
+    "q": "What distinction corrects the source grouping of skull/facial changes and hepatosplenomegaly under extramedullary hematopoiesis?",
+    "a": "Skull and facial bony changes primarily reflect expansion of marrow within bone; extramedullary hematopoiesis means blood production outside marrow and can contribute to enlarged organs or masses. Both reflect the underlying erythropoietic drive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 53,
+      "url": "/mehlman/hy-pediatrics.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Merck April 2026 separately describes chronic marrow-hyperactivity bone changes and paravertebral extramedullary hematopoiesis. Splenomegaly may also involve RBC destruction/hypersplenism, rather than being explained only by new blood production.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
+    }
   }
 ];
