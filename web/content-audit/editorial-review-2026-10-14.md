@@ -656,3 +656,9 @@ Nativebrowserimagezoomactuallytestedonrestoredvisualpathwayasset03:01,1174pxwide
 ## Tardive/tic distinction and occult-wrist imaging, October15 03:12CDT
 3188NIMHdirectantipsychoticparagraphread https://www.nimh.nih.gov/health/topics/mental-health-medications drug-associateduncontrollableTDmovements,notstopmedswithoutprovider;NINDSsimple/complexmotor/vocalticdefinitionsread https://www.ninds.nih.gov/health-information/disorders/tourette-syndrome . OldarchivedNINDSTDsearchhitsnotusedascurrentguidance.
 3253ACRprimaryAcuteHandandWristTrauma2018Variant2tablefulltextread https://acsearch.acr.org/list/TopicNarrativePdf?topicId=77 repeatfilms10-14d/noncontrastMRI/noncontrastCTallUsuallyAppropriate;explicit2018datenotclaimednewlyupdatedguideline. Preservessource2-3wrepeatfilmanswerwithseparateoptionsnote.
+
+## Seizure, pregnancy-label and milestone consistency, October15 03:13CDT
+3153ILAEactualmyoclonicdefinition/statusparagraph https://www.epilepsydiagnosis.org/seizure/myoclonic-overview.html readbriefjerks/partiallyretainedstatusawareness;NINDSmyoclonus https://www.ninds.nih.gov/health-information/disorders/myoclonus readnonepilepticandepilepticsyndromedistinctions. Notuniversalconsciousnessrule.
+3154NINDSfebrileseizureentireclinical/risksectionsread https://www.ninds.nih.gov/health-information/disorders/febrile-seizures usual6mo-5y,complexduration/focal/recurrence/riskcontexts,feverreductionnotprovenprevention. No universalPDF2xprognosisverified.
+3167currentDailyMedDilantinpatientcounselingUseinPregnancyread https://dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=a00f9c78-ebe9-4afd-b4c4-dceaa7eb27e9 specificfetalmalformations/cognitiverisks,notproofuniversalfolatemechanism/carbaequivalence.
+3185CDC2y/3ylanguagechecklistsand75%/notscreeningsubstitutecaveatdirectlyread https://www.cdc.gov/act-early/milestones/2-years.html and https://www.cdc.gov/act-early/milestones/3-years.html ;900wordsourceclaimnotCDCcutoff,notabsenceproofofwrongness.

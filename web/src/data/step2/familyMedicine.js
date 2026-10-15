@@ -39984,6 +39984,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "ILAE EpilepsyDiagnosis defines myoclonic seizures by brief muscle jerks. Its myoclonic-status description allows partially retained awareness and distinguishes this from sustained rhythmic clonic activity with lost consciousness. The source awareness shorthand is not a universal rule for every myoclonic event or syndrome, and myoclonus can also have nonepileptic causes.",
+      "url": "https://www.epilepsydiagnosis.org/seizure/myoclonic-overview.html"
     }
   },
   {
@@ -39995,6 +39999,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "NINDS confirms the usual6-month-to5-year age range and distinguishes simple from complex events by duration, recurrence within24hours and focal features. Later epilepsy risk depends on features such as prolonged seizures and preexisting neurologic problems; the PDF fixed twofold estimate is not a personal prognosis. Fever-reducing medicines can improve comfort but have not been shown to lower febrile-seizure risk.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/febrile-seizures"
     }
   },
   {
@@ -40175,7 +40183,11 @@ export default [
       168,
       191,
       314
-    ]
+    ],
+    "guideline": {
+      "text": "The current Dilantin patient-counseling text describes agent-specific fetal harm, including oral clefts, cardiac defects, skull/facial differences, nail/digit hypoplasia, growth abnormalities and cognitive deficits. This does not verify the source single folate-interference mechanism for every antiseizure medication. Pregnancy medication decisions need specialist review rather than abrupt discontinuation.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=a00f9c78-ebe9-4afd-b4c4-dceaa7eb27e9"
+    }
   },
   {
     "id": "s2fm-3168",
@@ -40397,6 +40409,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 181,
       "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "CDC current milestone checklists use functional communication skills: at least two words together by age2, and by age3 at least two back-and-forth conversational exchanges, question asking and speech understood most of the time. The PDF 900-word count is not a CDC diagnostic cutoff. CDC milestones describe what at least75% of children do by that age and are not a replacement for standardized developmental screening.",
+      "url": "https://www.cdc.gov/act-early/milestones/3-years.html"
     }
   },
   {
