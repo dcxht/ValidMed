@@ -42840,6 +42840,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 287,
       "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A 1987 cultured rat Sertoli-cell experiment directly showed FSH-stimulated aromatase activity and estradiol production. This supports an experimental cell-level effect, not an exclusive human estrogen-source claim or an adult clinical treatment rule. Endotext describes aromatase across several testicular cell types with age and species differences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2439377/"
     }
   },
   {
@@ -43233,6 +43237,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 302,
       "url": "/mehlman/hy-family-medicine.pdf#page=302"
+    },
+    "guideline": {
+      "text": "USPSTF 2022 final primary-prevention statin recommendation applies to adults 40+ without known CVD, with Grade B for ages 40-75 plus a risk factor and 10-year risk at least 10%, and Grade C for selected risk 7.5% to under 10%. It does not supply a Grade B/C treatment decision for the source 38-year-old, and identifies statin evidence below 40 as a research gap. Its scope also excludes LDL above 190 or familial hypercholesterolemia. Do not turn LDL 95 versus 110 into a USPSTF rule; the separate A1c treatment decision still needs individualized diabetes guidance.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/statin-use-in-adults-preventive-medication"
     }
   },
   {
@@ -43680,6 +43688,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 287,
       "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "Merck Professional July 2025 confirms acute large-joint flares and chronic OA-/RA-like CPPD patterns, with hyperparathyroidism and hemochromatosis among associations. It describes knees, wrists and MCP sites, rather than requiring a DIP pattern. Synovial-fluid crystals support diagnosis and infection must be excluded. Anti-inflammatory therapy treats flares, and colchicine can reduce recurrences; no therapy effectively removes the CPP crystal burden. Treating an associated disorder is not a guaranteed crystal-removing cure.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/crystal-induced-arthritides/calcium-pyrophosphate-deposition-disease"
     }
   },
   {
