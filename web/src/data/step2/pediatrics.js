@@ -17275,5 +17275,234 @@ export default [
       "text": "The Potter clinical review explains reduced urinary fluid supply, prolonged compression and variable limb deformities, with severity dependent on duration and timing. The PDF intermediate claim that reduced swallowing itself causes lung hypoplasia is not the established explanation in the reviewed sections; lung development requires an adequate fluid environment and thoracic expansion.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK560858/"
     }
+  },
+  {
+    "id": "s2peds-1231",
+    "category": "Adolescent reproductive health",
+    "q": "A 13-year-old has nausea, bloating and breast tenderness but has never had a period. What source next step evaluates pregnancy?",
+    "a": "Check serum beta-hCG. The source point is that pregnancy can occur before the first menstrual period because ovulation precedes first menses; absence of menarche does not rule out pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "The 2025 AAP contraception report warns that adolescent cycles can be irregular and urine tests can miss very early pregnancy before a missed period. Current practice may use urine or serum hCG depending on urgency and setting; symptoms or possibility of pregnancy still warrant testing.",
+      "url": "https://publications.aap.org/pediatrics/article-split/156/1/e2025072218/202151/Contraceptive-Counseling-and-Methods-for"
+    }
+  },
+  {
+    "id": "s2peds-1232",
+    "category": "Adolescent reproductive health",
+    "q": "What source rule governs adolescent reproductive and OB/GYN care, including oral contraceptives?",
+    "a": "The source says minors should receive reproductive and OB/GYN care without needing parental consent and acknowledges that US laws differ by state. Treat this as a confidentiality-and-access principle rather than a single nationwide legal rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "AAP reviews show state minor-consent and privacy laws vary substantially. Sensitive services such as reproductive care often allow independent minor consent, but contraceptive consent and record privacy are not uniform, so clinicians must know the governing state law.",
+      "url": "https://publications.aap.org/pediatrics/article/149/6/e2021053458/187003/State-by-State-Variability-in-Adolescent-Privacy"
+    }
+  },
+  {
+    "id": "s2peds-1233",
+    "category": "Adolescent reproductive health",
+    "q": "How should the source sentence \"Abortion is generally not performed with parental consent\" be interpreted?",
+    "a": "Do not memorize it as written. Abortion access and parental-involvement requirements are state-specific and changed after Dobbs; the source likely means parental consent is not always required, but that is not a safe general legal rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "The AAP supports confidential abortion care and says adolescents should be encouraged, not compelled, to involve parents when safe. Its policy review also notes that many states require parental consent or notification, generally with judicial bypass; current availability and exact requirements must be checked by state.",
+      "url": "https://publications.aap.org/pediatrics/article/139/2/e20163861/59961/The-Adolescent-s-Right-to-Confidential-Care-When"
+    }
+  },
+  {
+    "id": "s2peds-1234",
+    "category": "Birth and neonatal conditions",
+    "q": "Which scalp finding is shown on the left of the actual source figure?",
+    "a": "Caput succedaneum: edema external to the periosteum. Because the fluid is not bounded by one skull bone, the swelling can cross the sagittal suture line.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck defines caput succedaneum as an extraperiosteal subcutaneous serosanguinous collection on the presenting scalp from delivery pressure. It typically crosses suture lines.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/perinatal-problems/birth-injuries"
+    },
+    "img": "/mehlman/figures/peds-p086-caput-cephalohematoma.png",
+    "imgAlt": "Actual source figure comparing caput succedaneum edema crossing the sagittal suture with cephalohematoma blood limited by the suture"
+  },
+  {
+    "id": "s2peds-1235",
+    "category": "Birth and neonatal conditions",
+    "q": "Which scalp finding is shown on the right of the actual source figure?",
+    "a": "Cephalohematoma: blood beneath the periosteum. Periosteal attachment at the suture confines the collection to one skull bone, so it does not cross the suture line.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck defines cephalohematoma as hemorrhage beneath the periosteum, sharply limited by adherence at the sutures. It is commonly unilateral over the parietal or occipital bone and resolves over weeks.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/perinatal-problems/birth-injuries"
+    },
+    "img": "/mehlman/figures/peds-p086-caput-cephalohematoma.png",
+    "imgAlt": "Actual source figure comparing caput succedaneum edema crossing the sagittal suture with cephalohematoma blood limited by the suture"
+  },
+  {
+    "id": "s2peds-1236",
+    "category": "Birth and neonatal conditions",
+    "q": "How do the course and cause of caput succedaneum differ from those of cephalohematoma in the source?",
+    "a": "Caput is soft, puffy and sometimes bruised scalp swelling from vaginal-canal pressure; it usually resolves without treatment within a few days. Cephalohematoma is more associated with vacuum or forceps delivery and can take weeks to months to resolve.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck confirms caput follows delivery pressure and cephalohematoma resolves over weeks. Instrumental delivery is a risk association, not proof that every cephalohematoma was caused by forceps or vacuum.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/perinatal-problems/birth-injuries"
+    }
+  },
+  {
+    "id": "s2peds-1237",
+    "category": "Birth and neonatal conditions",
+    "q": "Why does cephalohematoma increase jaundice risk?",
+    "a": "Reabsorption of the trapped blood increases bilirubin production. The source therefore links cephalohematoma to a higher risk of neonatal jaundice even though the collection itself is usually self-limited.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck states that cephalohematoma requires no treatment but can cause anemia or hyperbilirubinemia. Clinically, the newborn still needs bilirubin and hemoglobin assessment rather than reassurance from the benign usual course alone.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/perinatal-problems/birth-injuries"
+    }
+  },
+  {
+    "id": "s2peds-1238",
+    "category": "Polycystic ovary syndrome",
+    "q": "What initiating metabolic pattern does the source associate with PCOS?",
+    "a": "High BMI and insulin resistance. The source uses insulin resistance to drive abnormal gonadotropin pulsatility and ovarian androgen production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "ACOG and Merck support insulin resistance as an important contributor, but PCOS is multifactorial and not every patient has obesity. High BMI is a common clue, not a required diagnostic feature.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
+  },
+  {
+    "id": "s2peds-1239",
+    "category": "Polycystic ovary syndrome",
+    "q": "What exact LH/FSH abnormality does the source want you to distinguish in PCOS?",
+    "a": "Abnormal GnRH pulsation raises LH and lowers FSH, so the LH/FSH ratio is high. Do not infer that both LH and FSH are elevated; the ratio is high because LH is relatively high while FSH is low.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck notes abnormal reproductive hormones including the LH/FSH ratio in PMOS/PCOS. Modern diagnosis does not rest on the ratio alone; Rotterdam criteria require two of hyperandrogenism, ovulatory dysfunction and polycystic ovarian morphology after excluding mimics.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
+  },
+  {
+    "id": "s2peds-1240",
+    "category": "Polycystic ovary syndrome",
+    "q": "How does elevated LH produce hirsutism in the source PCOS mechanism?",
+    "a": "LH stimulates theca-lutein cells to make androgens. Excess ovarian androgen production produces hirsutism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck describes elevated androgen levels causing hirsutism and notes that hyperinsulinemia can increase ovarian androgen production. A rapidly progressive or severe virilizing picture needs evaluation for an androgen-secreting tumor rather than automatic attribution to PCOS.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
+  },
+  {
+    "id": "s2peds-1241",
+    "category": "Polycystic ovary syndrome",
+    "q": "How does low FSH produce the source PCOS follicular finding?",
+    "a": "FSH normally supports follicular development. Low FSH causes poor follicular maturation, failure of a Graafian follicle to rupture at ovulation and retention of the unruptured follicle as a follicular cyst.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck supports ovulatory dysfunction and polycystic ovarian morphology as diagnostic features. The source single-follicle sequence is a teaching simplification; clinical PCOS does not require proof of each individual cyst forming this way.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
+  },
+  {
+    "id": "s2peds-1242",
+    "category": "Polycystic ovary syndrome",
+    "q": "What does anovulation mean, and how does it commonly present?",
+    "a": "Anovulation is failure of ovulation. In the source PCOS mechanism it causes irregular periods because follicular rupture and the normal post-ovulatory hormone sequence do not occur.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck includes oligo-ovulation or anovulation among the Rotterdam features of PCOS and recommends excluding pregnancy and other endocrine causes when symptoms fit.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
+  },
+  {
+    "id": "s2peds-1243",
+    "category": "Polycystic ovary syndrome",
+    "q": "Why is anovulation broader than PCOS?",
+    "a": "PCOS is one cause of anovulation. The source also names hypothyroidism and Cushing syndrome, so the anovulation label describes the failed ovulation mechanism rather than proving PCOS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck recommends testing FSH, prolactin, TSH and cortisol as appropriate to exclude other endocrinologic disorders before diagnosing PMOS/PCOS. This preserves the PDF broader-causes point while adding the necessary exclusion step.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
+  },
+  {
+    "id": "s2peds-1244",
+    "category": "Polycystic ovary syndrome",
+    "q": "What source heuristic uses a high-BMI patient with irregular periods?",
+    "a": "High BMI plus irregular periods means anovulation until proven otherwise. This is a test-taking heuristic that prioritizes the PCOS-like abnormal GnRH, high-LH/FSH-ratio mechanism; it is not a standalone clinical diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Modern criteria require two of hyperandrogenism, ovulatory dysfunction and polycystic ovarian morphology, with alternative causes excluded. Weight and irregular menses can raise suspicion but do not by themselves establish PCOS.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
+  },
+  {
+    "id": "s2peds-1245",
+    "category": "Polycystic ovary syndrome",
+    "q": "What source combination makes the diagnosis PCOS?",
+    "a": "Anovulation plus hirsutism equals PCOS. The pairing adds clinical hyperandrogenism to the ovulatory dysfunction seen with irregular menses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 86,
+      "url": "/mehlman/hy-pediatrics.pdf#page=86"
+    },
+    "guideline": {
+      "text": "This combination matches two Rotterdam features, but current diagnosis still requires excluding mimics and may use biochemical hyperandrogenism or ovarian morphology. Adolescent diagnosis is more cautious because acne and irregular cycles can be common after menarche.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
+    }
   }
 ];
