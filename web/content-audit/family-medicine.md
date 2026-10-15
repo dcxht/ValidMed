@@ -81,3 +81,4 @@ Second detail pass pp299-317:36additional cards,2332total,230figures,169current-
 QA checkpoint:2332cards/230figures/170linked current-source notes. Build, exactpromptduplicate and image-file integrity checks pass. Not yet complete.
 Targeted follow-up p311:2more cards,2334total/230figures/172linkednotes. CDC2024 combined-contraception smoking categories and ACOGHTbone-benefit distinction directly verified. Partial.
 Early backlog follow-up p11/p18:2336total/230figures/174linkednotes. AAAgrowthprimarytable and PRsecondaryreference verified, source answers retained separately. Partial.
+Exact-claim follow-up pp5-28:2352cards/230sourcefigures/195linkednotes. Several cardiovascular unsafe absolutes now source-attributed with directly checked notes. Still Partial; large later-page reconciliation backlog remains.

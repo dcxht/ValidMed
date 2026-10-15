@@ -317,6 +317,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 13,
       "url": "/mehlman/hy-family-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "AHA 2025 pulse-tachyarrhythmia algorithm distinguishes stable wide-complex treatment from synchronized cardioversion for instability attributable to the rhythm. Adenosine is considered for wide complexes only when regular and monomorphic. This pulse algorithm is not a cardiac-arrest protocol.",
+      "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-ACLS-Tachycardia-250514.pdf"
     }
   },
   {
@@ -328,6 +332,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 13,
       "url": "/mehlman/hy-family-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "AHA 2025 adult pulse-tachyarrhythmia algorithm uses vagal maneuvers/adenosine for regular narrow-complex rhythms; instability attributable to the tachyarrhythmia prompts synchronized cardioversion. It does not apply indiscriminately to every rapid rhythm.",
+      "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-ACLS-Tachycardia-250514.pdf"
     }
   },
   {
@@ -702,6 +710,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 22,
       "url": "/mehlman/hy-family-medicine.pdf#page=22"
+    },
+    "guideline": {
+      "text": "AHA 2024 defines orthostatic hypotension as a sustained systolic fall of at least 20 mmHg OR diastolic fall of at least 10 mmHg within 3 minutes of standing. Neurogenic and other etiologies exist; the finding is not synonymous with fluid depletion.",
+      "url": "https://professional.heart.org/en/science-news/orthostatic-hypotension-in-adults-with-hypertension/top-things-to-know"
     }
   },
   {
@@ -14754,7 +14766,7 @@ export default [
   {
     "id": "s2fm-1286",
     "category": "Cardiology",
-    "q": "What source pressure state does a loudP 2 suggest?",
+    "q": "What source pressure state does a loud P2 suggest?",
     "a": "Pulmonary hypertension. A soft pulmonic component can instead accompany severe pulmonic stenosis.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -15274,6 +15286,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 5,
       "url": "/mehlman/hy-family-medicine.pdf#page=5"
+    },
+    "guideline": {
+      "text": "AHA July 2026 explains that PFO and ASD are different: an ASD reflects abnormal septal formation, whereas a PFO is persistence of a normal fetal opening.",
+      "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/patent-foramen-ovale-pfo"
     }
   },
   {
@@ -15635,6 +15651,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 19,
       "url": "/mehlman/hy-family-medicine.pdf#page=19"
+    },
+    "guideline": {
+      "text": "AHA May 2024 patient guidance describes HCM as most often due to abnormal heart-muscle genes. This differs from using HCM as a synonym for every case of pressure-load hypertrophy.",
+      "url": "https://www.heart.org/en/health-topics/cardiomyopathy/what-is-cardiomyopathy-in-adults/hypertrophic-cardiomyopathy"
     }
   },
   {
@@ -15668,6 +15688,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 20,
       "url": "/mehlman/hy-family-medicine.pdf#page=20"
+    },
+    "guideline": {
+      "text": "ACC summary of the 2024 HCM guideline recommends nonvasodilating beta blockers first for symptomatic obstruction. Sudden-death prevention separately requires risk assessment every 1-2 years and ICD consideration; symptom treatment is not proof that beta blockers eliminate sudden-death risk.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/05/06/15/12/2024-hypertrophic-cardiomyopathy-gl"
     }
   },
   {
@@ -15701,6 +15725,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 21,
       "url": "/mehlman/hy-family-medicine.pdf#page=21"
+    },
+    "guideline": {
+      "text": "The 2025 ACS guideline includes antiplatelet therapy and risk-based invasive management for NSTE-ACS. Default DAPT is at least 12 months when bleeding risk is not high; intermediate/high-risk patients should have an invasive approach during hospitalization. Diltiazem alone is not a complete ACS plan.",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309"
     }
   },
   {
@@ -15848,6 +15876,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 28,
       "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "A 2026 dyslipidemia teaching slide set hosted by IHS reproduces a Class 2a recommendation for fibrates or prescription omega-3 in persistent severe triglyceride elevation of at least 500 mg/dL, especially at least 1,000, despite dietary intervention, to reduce pancreatitis risk. It does not support an automatic 300 mg/dL cutoff. This note uses a secondary presentation; the full guideline treatment table was not returned by the fetch.",
+      "url": "https://www.ihs.gov/california/sites/default/assets/File/BP/BP2026-Presentation-Dyslipidemia_Eberly.pdf"
     }
   },
   {
@@ -16197,7 +16229,7 @@ export default [
     "id": "s2fm-1412",
     "category": "Pulmonology source details",
     "q": "What acid-base pattern does the source attach to chronic CO2 retention?",
-    "a": "Respiratory acidosis with elevated CO2 and compensatory bicarbonate elevation, with normal or lowpH depending on compensation.",
+    "a": "Respiratory acidosis with elevated CO2 and compensatory bicarbonate elevation, with normal or low pH depending on compensation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 34,
@@ -16483,7 +16515,7 @@ export default [
     "id": "s2fm-1438",
     "category": "Infectious disease source details",
     "q": "Which neonatal pneumonia organisms does the source distinguish by Gram-stain description?",
-    "a": "Group B streptococcus: gram-positive cocci; Listeria: gram-positive rods;E. coli: gram-negative rods.",
+    "a": "Group B streptococcus: gram-positive cocci; Listeria: gram-positive rods; E. coli: gram-negative rods.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 40,
@@ -26850,6 +26882,234 @@ export default [
     "guideline": {
       "text": "StatPearls 2024 AV-block clinical review gives the usual adult PR interval as 120-200 ms, with first-degree block above 200 ms. This is a directly fetched secondary reference, not an issuing-society guideline.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK459147/"
+    }
+  },
+  {
+    "id": "s2fm-2337",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "Does the PDF allow venous procedures as its first-choice answer for venous insufficiency?",
+    "a": "No. It favors compression stockings and says not to choose venous stripping or glue procedures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-family-medicine.pdf#page=24"
+    },
+    "guideline": {
+      "text": "SVS/AVF/AVLS 2023 recommends intervention over long-term compression for suitable patients with symptomatic varicose veins and axial great/small saphenous reflux. Conservative care remains appropriate for preference or medical/ambulatory reasons; the PDF never-procedure rule is not universal.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+    }
+  },
+  {
+    "id": "s2fm-2338",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What first drug does the PDF choose for active superficial thrombophlebitis?",
+    "a": "Subcutaneous enoxaparin, rather than compression stockings alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "SVS/AVF/AVLS 2023 does not recommend blanket enoxaparin: above-knee main-saphenous/tributary thrombosis over 5 cm long and over 3 cm from the saphenofemoral junction receives fondaparinux for 45 days, with rivaroxaban an alternative. Main-trunk thrombosis within 3 cm of that junction needs full anticoagulation for at least 6 weeks. Location, length and DVT assessment matter.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+    }
+  },
+  {
+    "id": "s2fm-2339",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "Which steroid route does the PDF usually name when starting treatment for suspected giant-cell arteritis?",
+    "a": "IV methylprednisolone, before biopsy to prevent visual loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-family-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "ACR/VF 2021 conditionally favors high-dose oral glucocorticoids when newly diagnosed GCA lacks cranial ischemia, and IV pulses when vision loss is threatened. IV treatment is not the default for every presentation.",
+      "url": "https://vasculitisfoundation.org/wp-content/uploads/2024/01/2021-ACR-VF-Guideline-for-Management-of-Giant-Cell-Arteritis-and-Takayasu-Artheritis.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2340",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What biopsy timing examples does the PDF give after starting steroids for suspected giant-cell arteritis?",
+    "a": "Within 3 days or within a week in its exam examples; it says the time frames vary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-family-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "ACR/VF 2021 conditionally recommends temporal-artery biopsy within 2 weeks of starting oral glucocorticoids rather than waiting longer. Histologic findings may persist later; treatment should not be held for biopsy.",
+      "url": "https://vasculitisfoundation.org/wp-content/uploads/2024/01/2021-ACR-VF-Guideline-for-Management-of-Giant-Cell-Arteritis-and-Takayasu-Artheritis.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2341",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What does the PDF say exercise echocardiography looks for, rather than overt ischemia?",
+    "a": "Exertional heart failure or reduced ejection fraction, especially with dyspnea rather than chest pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-family-medicine.pdf#page=24"
+    },
+    "guideline": {
+      "text": "ASE 2020 stress-echo guideline specifically evaluates ischemic heart disease: new or worsening regional wall-motion/thickening abnormalities can identify inducible ischemia. Stress echo is not only an exertional-heart-failure test.",
+      "url": "https://www.asecho.org/wp-content/uploads/2020/01/Stress-Echo-2020.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2342",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What does the PDF suggest when a patient cannot exercise or faces imminent major surgery such as AAA repair?",
+    "a": "A pharmacologic stress test, such as dobutamine echo or dipyridamole-thallium, in its perioperative-risk examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-family-medicine.pdf#page=25"
+    },
+    "guideline": {
+      "text": "ACC summary of the 2024 perioperative guideline limits stress testing to highly selected patients, such as poor/unknown functional capacity plus elevated calculated perioperative risk. Low-risk procedures or patients and those with good capacity should not receive routine testing.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/09/23/04/15/2024-aha-acc-perioperative-guideline-gl"
+    }
+  },
+  {
+    "id": "s2fm-2343",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "Which psychiatric adverse effect does the PDF associate with beta blockers?",
+    "a": "Depression; it advises avoidance with a history of severe or psychotic depression.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "A 2021 systematic review/meta-analysis of double-blind randomized trials found no increased depression versus placebo (OR 1.02, 95% CI 0.83-1.25); 79% of included studies had high risk of bias. This is research evidence, not a clinical guideline, and does not erase individual adverse reactions.",
+      "url": "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16590"
+    }
+  },
+  {
+    "id": "s2fm-2344",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "How does the PDF describe SVT complexes compared with VT?",
+    "a": "SVT complexes are narrow/needle-shaped; VT complexes are wide.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-family-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "AHA 2025 algorithm evaluates both QRS width and rhythm regularity. Its wide-complex pathway allows adenosine only for regular monomorphic rhythms, so width alone should not be used as a universal origin or drug-selection rule.",
+      "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-ACLS-Tachycardia-250514.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2345",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What drug mechanism does the PDF give for dipyridamole in pharmacologic stress testing?",
+    "a": "Phosphodiesterase inhibition and arteriolar dilation, with compensatory heart-rate increase in its explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-family-medicine.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2fm-2346",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "How does the PDF interpret a wide, fixed split S2 in an ASD question?",
+    "a": "Its shorthand is right-ventricular hypertrophy from ASD; it says wide splitting and fixed splitting may be described together. This is the source interpretation, not an independently verified claim that every wide split proves RVH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 5,
+      "url": "/mehlman/hy-family-medicine.pdf#page=5"
+    }
+  },
+  {
+    "id": "s2fm-2347",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What reduced-EF and high-output-EF cutoffs appear in the PDF S3 discussion?",
+    "a": "Below 55% for its reduced-EF dilated-cardiomyopathy example and above 70% for its high-output example. These are the PDF examples, not a complete modern heart-failure classification.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-family-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2fm-2348",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What distinction does the PDF make between skin and throat group A strep infection as causes of rheumatic fever?",
+    "a": "It says throat infection can cause rheumatic fever but cutaneous infection cannot; both can lead to poststreptococcal glomerulonephritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-family-medicine.pdf#page=22"
+    },
+    "guideline": {
+      "text": "CDC August 2025 guidance lists acute rheumatic fever as a delayed sequela of pharyngitis AND skin infections such as impetigo. The source exclusion of skin infection is not the current CDC statement.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/acute-rheumatic-fever.html"
+    }
+  },
+  {
+    "id": "s2fm-2349",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "Which medication does the PDF name for its panic-attack presentation?",
+    "a": "A benzodiazepine, in its acute exam-vignette discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-family-medicine.pdf#page=22"
+    },
+    "guideline": {
+      "text": "NICE CG113 recommends CBT and, when medication is chosen for ongoing panic disorder, an appropriate antidepressant/SSRI; it advises against benzodiazepines for panic-disorder treatment because of poorer long-term outcomes. An isolated acute presentation and long-term panic-disorder care are different questions.",
+      "url": "https://www.nice.org.uk/guidance/CG113/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2fm-2350",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "Which three drug groups does the PDF compare with acute-gout treatment for pericarditis?",
+    "a": "NSAIDs, colchicine and steroids.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-family-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "ESC 2025 section 6.2.2.1.1 uses aspirin/NSAID plus colchicine as the usual initial acute-pericarditis treatment, with gastroprotection for NSAIDs. Low-to-moderate corticosteroids are considered for contraindications, specific indications or incomplete response, not as three interchangeable defaults.",
+      "url": "https://www.sicardiologia.it/wp-content/uploads/2025/09/ehaf192.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2351",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What simple equation does the PDF use to describe cardiac tamponade?",
+    "a": "Pericardial effusion plus low blood pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-family-medicine.pdf#page=16"
+    },
+    "guideline": {
+      "text": "ESC 2025 section 11.8 describes a clinical diagnosis supported by echocardiographic confirmation and hemodynamic effects; the blood pressure can be only slightly reduced in subacute/chronic presentations. An effusion alone does not establish tamponade.",
+      "url": "https://www.sicardiologia.it/wp-content/uploads/2025/09/ehaf192.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2352",
+    "category": "Cardiovascular exact-claim reconciliation",
+    "q": "What testing and drainage sequence does the PDF favor for suspected tamponade?",
+    "a": "ECG, then echocardiography, then pericardiocentesis or a pericardial window, according to its exam examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-family-medicine.pdf#page=16"
+    },
+    "guideline": {
+      "text": "ESC 2025 section 11.8.3 recommends drainage for tamponade, preferably image-guided needle pericardiocentesis, without delay in unstable patients. A rigid routine-test sequence must not postpone urgent drainage.",
+      "url": "https://www.sicardiologia.it/wp-content/uploads/2025/09/ehaf192.pdf"
     }
   }
 ];
