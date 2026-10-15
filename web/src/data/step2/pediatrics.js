@@ -16283,5 +16283,232 @@ export default [
       "text": "Merck lists coarctation, bicuspid aortic valve and aortic dilation, and recommends echocardiography or MRI for detection and ongoing surveillance. Turner cardiovascular risk is broader than a one-time childhood murmur assessment.",
       "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
     }
+  },
+  {
+    "id": "s2peds-1165",
+    "category": "Puberty and growth",
+    "q": "Which syndrome does the actual source figure suggest with tall stature, long limbs, small firm testes and gynecomastia?",
+    "a": "Klinefelter syndrome, classically 47,XXY. The source describes a eunuchoid body habitus with arm span greater than height and long legs, unlike short-stature Turner syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "Merck describes tall stature, disproportionately long limbs, small firm testes and gynecomastia in about 30%. The phenotype varies, and a normal-looking adolescent can still have Klinefelter syndrome.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/klinefelter-syndrome-47-xxy"
+    },
+    "img": "/mehlman/figures/peds-p082-klinefelter-features.jpg",
+    "imgAlt": "Actual source Klinefelter diagram showing tall long-limbed body habitus, small firm testes, sparse hair, gynecomastia and associated learning, bone and metabolic findings"
+  },
+  {
+    "id": "s2peds-1166",
+    "category": "Puberty and growth",
+    "q": "What karyotype and Barr-body clue does the source associate with Klinefelter syndrome?",
+    "a": "47,XXY with a male phenotype. The extra X accounts for the source Barr-body clue, described as an electron-dense cellular mass. This is a vignette clue, not the test used to establish the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "Merck recommends cytogenetic testing to confirm the diagnosis. Klinefelter presentations can be mosaic, so not every affected person has an identical karyotype in every cell.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/klinefelter-syndrome-47-xxy"
+    }
+  },
+  {
+    "id": "s2peds-1167",
+    "category": "Puberty and growth",
+    "q": "Does the source reduced-IQ label mean every boy with Klinefelter syndrome has intellectual disability?",
+    "a": "No. The text and figure describe lower average cognitive scores and learning difficulties, with the figure printing a 15-point average IQ difference. This source label must not be used to assign an individual a fixed IQ deficit. Speech, language or school difficulties can be more useful clinical clues.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "MedlinePlus states that intellectual disability is very rare in Klinefelter syndrome, while speech/language delays, dyslexia and written-expression problems are more common. Merck also emphasizes that many 47,XXY males have normal intellect.",
+      "url": "https://medlineplus.gov/genetics/condition/klinefelter-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-1168",
+    "category": "Puberty and growth",
+    "q": "Which hair, body-shape and muscle findings are labeled in the source Klinefelter figure?",
+    "a": "Sparse beard and chest hair, absent frontal balding, narrow shoulders, wide hips, reduced muscle mass and a more typically female pubic-hair distribution. A small penis and small firm testes are also shown.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "Merck and MedlinePlus describe reduced facial/body hair and muscle mass with testosterone insufficiency, but expression is variable. These illustrated traits are not a checklist every patient must meet.",
+      "url": "https://medlineplus.gov/genetics/condition/klinefelter-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-1169",
+    "category": "Puberty and growth",
+    "q": "Which puberty, fertility, libido, bone and metabolic problems does the source Klinefelter diagram list?",
+    "a": "Delayed or incomplete puberty, hypogonadism, reduced libido, oligospermia or azoospermia, osteoporosis and increased metabolic-syndrome/type 2 diabetes risk. They are associated problems to assess, not inevitable outcomes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "MedlinePlus confirms testosterone-related pubertal, bone and fertility problems and increased metabolic-syndrome risk. Merck notes puberty often begins at the normal age, despite later testicular failure; the source diagram should not imply that onset is always delayed.",
+      "url": "https://medlineplus.gov/genetics/condition/klinefelter-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-1170",
+    "category": "Puberty and growth",
+    "q": "Why are the source Klinefelter testes small, and what LH/FSH pattern is expected after testicular failure develops?",
+    "a": "Seminiferous-tubule and gonadal dysfunction reduce sperm production, inhibin and androgen feedback. LH and FSH rise, giving hypergonadotropic primary hypogonadism despite testes being present.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "The EAA guideline describes rising LH/FSH and falling inhibin B during pubertal progression, with testosterone often low or low-normal. Prepubertal hormone concentrations can be normal, so the adult pattern should not be required in every child.",
+      "url": "https://genetic.org/wp-content/uploads/2020/09/KS-European-Society-of-Endocrinology-Guidelines-for-KS-2020.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1171",
+    "category": "Puberty and growth",
+    "q": "How does the source explain gynecomastia in Klinefelter syndrome, and must absolute estradiol always be high?",
+    "a": "The source describes an increased estrogen-to-androgen balance from reduced Leydig-cell androgen production, with adipose aromatization contributing to estrogen. The ratio can increase because testosterone falls; absolute estrogen need not be elevated in every patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "The EAA guideline reports estradiol concentrations as normal or high. This qualifies the PDF universal absolute-estrogen increase without changing its clinically useful estrogen-androgen imbalance explanation.",
+      "url": "https://genetic.org/wp-content/uploads/2020/09/KS-European-Society-of-Endocrinology-Guidelines-for-KS-2020.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1172",
+    "category": "Puberty and growth",
+    "q": "What cancer-risk distinction does the source make in Klinefelter syndrome, and is prophylactic orchiectomy indicated solely for this diagnosis?",
+    "a": "Breast cancer risk is increased. The PDF describes only a slight testicular-cancer increase and says prophylactic orchiectomy is not indicated; the small testes are not a reason to remove them routinely.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "The EAA guideline documents increased breast and mediastinal extragonadal germ-cell tumor risk, but says a relationship with testicular germ-cell tumors is not documented. Do not confuse mediastinal tumors with a proven testicular-cancer excess or apply Turner/Y-positive gonadal-removal decisions to Klinefelter syndrome.",
+      "url": "https://genetic.org/wp-content/uploads/2020/09/KS-European-Society-of-Endocrinology-Guidelines-for-KS-2020.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1173",
+    "category": "Puberty and growth",
+    "q": "What is defective in the source 46,XY patient with complete androgen insensitivity and a female external phenotype?",
+    "a": "The androgen receptor or its signaling response. Testosterone and DHT may be produced, but androgen-dependent external masculinization does not occur normally because tissues do not respond.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "GeneReviews distinguishes complete AIS, with typical female external genitalia, from partial and mild AIS. The source fully female external phenotype describes complete AIS, not every AR-related condition.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1429/"
+    }
+  },
+  {
+    "id": "s2peds-1174",
+    "category": "Puberty and growth",
+    "q": "What testosterone, DHT and LH pattern does the source expect in complete androgen insensitivity?",
+    "a": "Testosterone and DHT are normal or elevated rather than deficient, and LH may rise because androgen feedback is impaired. Lack of virilization despite androgen production is the central clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "GeneReviews supports normal or increased testosterone synthesis, normal conversion to DHT, and normal or increased LH. Hormone interpretation depends on age and pubertal state; normal DHT conversion helps distinguish receptor resistance from 5-alpha-reductase deficiency.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1429/"
+    }
+  },
+  {
+    "id": "s2peds-1175",
+    "category": "Puberty and growth",
+    "q": "Where are the testes usually found in the source complete-androgen-insensitivity presentation?",
+    "a": "In the abdomen or inguinal canal. An apparent inguinal hernia or groin mass in a girl can be an undescended testis rather than an ovary.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "GeneReviews describes inguinal masses identified as testes before puberty and primary amenorrhea with sparse sexual hair at puberty. Gonadal location is part of the evaluation, not a reason to assume the masses are malignant.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1429/"
+    }
+  },
+  {
+    "id": "s2peds-1176",
+    "category": "Puberty and growth",
+    "q": "Why can testes develop in complete androgen insensitivity even though androgen-dependent masculinization fails?",
+    "a": "The source distinguishes SRY-driven testicular differentiation from later androgen-receptor-dependent development. Testes can form and produce hormones even when tissues cannot respond to testosterone or DHT.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "The 2025 clinical CAIS review describes SRY-directed testicular development with preserved testosterone and anti-Mullerian hormone production despite AR dysfunction. This distinction explains the clinical combination of testes, female external genitalia and absent uterus.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12558735/"
+    }
+  },
+  {
+    "id": "s2peds-1177",
+    "category": "Puberty and growth",
+    "q": "Why are the uterus and fallopian tubes absent in the source complete-androgen-insensitivity vignette?",
+    "a": "The testes still produce anti-Mullerian hormone, also called Mullerian-inhibiting factor, which causes regression of Mullerian structures. Androgen resistance does not block this separate hormone effect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "GeneReviews describes absent or rudimentary uterus, cervix and fallopian tubes with a short vagina. The 2025 CAIS review explains preserved testicular AMH action despite failed androgen signaling.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1429/"
+    }
+  },
+  {
+    "id": "s2peds-1178",
+    "category": "Puberty and growth",
+    "q": "What diagnosis fits the source 15-year-old with primary amenorrhea, a blind-ending vagina, developed breasts and scant pubic or axillary hair?",
+    "a": "Complete androgen insensitivity syndrome. The source pairs Tanner 4-5 breasts with Tanner 1 or scant sexual hair and a 46,XY karyotype.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "GeneReviews describes normal breast development, sparse to absent sexual hair and absent female internal genitalia in CAIS. A short vagina and absent uterus are not unique to CAIS; karyotype and androgen testing distinguish other causes of primary amenorrhea.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1429/"
+    }
+  },
+  {
+    "id": "s2peds-1179",
+    "category": "Puberty and growth",
+    "q": "What is the source next diagnostic step when complete androgen insensitivity is suspected, and how is the workup completed?",
+    "a": "Pelvic ultrasound first if offered, to assess the uterus and gonads, followed by karyotype. The source exam sequence does not mean imaging alone confirms AIS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 82,
+      "url": "/mehlman/hy-pediatrics.pdf#page=82"
+    },
+    "guideline": {
+      "text": "Merck recommends ultrasound to identify a uterus in primary amenorrhea; when absent, assess karyotype and testosterone. A 46,XY result requires clinical and hormonal differentiation of CAIS from other 46,XY conditions, with AR testing when indicated.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/delayed-puberty"
+    }
   }
 ];
