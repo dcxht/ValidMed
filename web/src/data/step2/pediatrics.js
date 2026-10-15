@@ -8196,5 +8196,859 @@ export default [
       "text": "Merck March 2026 explicitly notes that granulomas are not detected in the majority of patients; diagnosis depends on the clinical, endoscopic, imaging and histologic picture.",
       "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
     }
+  },
+  {
+    "id": "s2peds-0620",
+    "category": "Inflammatory bowel disease",
+    "q": "Which source skin finding can accompany Crohn disease, and is the Crohn-versus-UC skin pairing exclusive?",
+    "a": "Erythema nodosum. The PDF favors its association with Crohn and pyoderma gangrenosum with UC, but explicitly says erythema nodosum is not specific for Crohn.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "The 2011 extraintestinal-manifestations review describes both erythema nodosum and pyoderma gangrenosum in IBD. Erythema nodosum also has infectious, medication-related and other systemic causes; the pairing alone does not classify IBD.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127025/"
+    }
+  },
+  {
+    "id": "s2peds-0621",
+    "category": "Inflammatory bowel disease",
+    "q": "What antibodies does the source associate with Crohn disease, and how does its pANCA-positive example select UC?",
+    "a": "Anti-Saccharomyces cerevisiae antibodies (ASCA). The PDF reports an ASCA-negative, pANCA-positive exam case selecting UC; this is a pattern of association, not a required diagnostic test result.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck March 2026 does not recommend serologic markers for routine Crohn diagnosis. ASCA/pANCA can sometimes help classify indeterminate colitis, but negative ASCA does not exclude Crohn disease.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0622",
+    "category": "Inflammatory bowel disease",
+    "q": "Which vitamin deficiency does the source link to terminal-ileal Crohn malabsorption?",
+    "a": "Vitamin B12 deficiency. The terminal ileum is the classic site invoked by the source; its most-common wording should not imply every Crohn patient has B12 deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes nutritional deficiencies including vitamins D and B12 and recommends assessing nutritional status. Deficiency depends on disease location, resection and other patient factors, not the disease name alone.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0623",
+    "category": "Inflammatory bowel disease",
+    "q": "Which urinary-stone association does the source link to impaired fat absorption in Crohn disease?",
+    "a": "Calcium oxalate urolithiasis. The PDF cross-refers to its Renal discussion; it does not say every patient with Crohn disease forms stones.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "The 2011 extraintestinal-manifestations review includes calcium oxalate stones among IBD complications. This association is not a stone-composition diagnosis in an individual patient.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127025/"
+    }
+  },
+  {
+    "id": "s2peds-0624",
+    "category": "Irritable bowel syndrome",
+    "q": "How should the source psychosomatic description of IBS be distinguished from IBD?",
+    "a": "IBS is a disorder of gut-brain interaction, not inflammatory bowel disease. The PDF emphasizes psychological stress, but IBS is not simply imaginary symptoms or proof that all symptoms have a psychiatric cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "NIDDK describes altered gut-brain interaction, sensitivity and bowel-muscle contraction without the visible digestive-tract damage characteristic of inflammatory disease. Psychological factors are contributors, not a complete definition.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/definition-facts"
+    }
+  },
+  {
+    "id": "s2peds-0625",
+    "category": "Irritable bowel syndrome",
+    "q": "What demographic and bowel-pattern vignette does the source use for IBS?",
+    "a": "A woman in her 20s-40s with stress and alternating diarrhea/constipation, often bloating or cramping. It is the source exam pattern, not an age, sex or mixed-stool requirement.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "NIDDK distinguishes IBS with diarrhea, constipation or mixed bowel habits. IBS is more common in women and younger people, but those demographics do not establish or exclude it.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/definition-facts"
+    }
+  },
+  {
+    "id": "s2peds-0626",
+    "category": "Irritable bowel syndrome",
+    "q": "How does the source connect IBS symptoms with bowel movements?",
+    "a": "It emphasizes pain relieved by a bowel movement. That is a useful source clue, not a requirement that every episode always improves after defecation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "NIDDK describes abdominal pain related to bowel movements together with altered stool frequency or form. Its wording is broader than mandatory relief after every bowel movement.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/symptoms-causes"
+    }
+  },
+  {
+    "id": "s2peds-0627",
+    "category": "Irritable bowel syndrome",
+    "q": "What source exam phrase describes the IBS mechanism?",
+    "a": "Smooth muscle hypersensitivity. Preserve that as the PDF exam-answer phrase, while understanding the broader disorder of gut-brain interaction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "NIDDK describes both heightened intestinal sensitivity and altered muscle contraction/motility. Some patients feel pain from otherwise normal amounts of gas or stool; this is not evidence of an inflammatory lesion.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/definition-facts"
+    }
+  },
+  {
+    "id": "s2peds-0628",
+    "category": "Irritable bowel syndrome",
+    "q": "Which medicine and receptor mechanism does the source choose for diarrhea-predominant IBS?",
+    "a": "Loperamide, a mu-opioid receptor agonist that slows bowel transit and can cause constipation. The source receptor-answer vignette addresses diarrhea control, not a cure for all IBS symptoms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ESPGHAN/NASPGHAN 2025, for ages 4-18, suggests loperamide as a symptom-control option in IBS-D but explicitly notes the lack of pediatric evidence. This does not justify giving it indiscriminately for every child with diarrhea.",
+      "url": "https://naspghan.org/wp-content/uploads/2025/09/J-pediatr-gastroenterol-nutr-2025-Groen-ESPGHAN-NASPGHAN-guidelines-for-treatment-of-irritable-bowe.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0629",
+    "category": "Appendicitis",
+    "q": "What triad does the source label Murphy triad in appendicitis?",
+    "a": "Right-lower-quadrant pain, fever and vomiting. This is the PDF appendicitis triad, not Murphy sign for gallbladder inflammation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck July 2024 describes substantial variation in appendicitis symptoms, particularly in children. Absence of one member of this triad does not rule out appendicitis.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/appendicitis"
+    }
+  },
+  {
+    "id": "s2peds-0630",
+    "category": "Appendicitis",
+    "q": "Why does pain move from the epigastrium to the RLQ in the source appendicitis vignette?",
+    "a": "Early visceral pain becomes localized as inflammation involves the parietal peritoneum. The source answer for the migration is inflammation of the parietal peritoneum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck July 2024 describes initial epigastric OR periumbilical pain followed by RLQ localization. The exact starting site and classic sequence are not mandatory in every child.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/appendicitis"
+    }
+  },
+  {
+    "id": "s2peds-0631",
+    "category": "Appendicitis",
+    "q": "Where does the source locate McBurney point?",
+    "a": "One-third of the way from the anterior superior iliac spine toward the umbilicus on the right. Do not reverse the direction of measurement.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck July 2024 places it at the junction of the middle and outer thirds of the line connecting the umbilicus and ASIS. Tenderness location can vary with appendiceal position and age.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/appendicitis"
+    }
+  },
+  {
+    "id": "s2peds-0632",
+    "category": "Appendicitis",
+    "q": "What is a positive Rovsing sign in the source appendicitis section?",
+    "a": "Palpating the left lower quadrant produces pain in the right lower quadrant. The pain is not merely tenderness under the examining hand.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck July 2024 lists this as an additional appendicitis sign. A positive sign supports the assessment, but its absence is not exclusion.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/appendicitis"
+    }
+  },
+  {
+    "id": "s2peds-0633",
+    "category": "Appendicitis",
+    "q": "What diagnosis does the source phrase inflammatory mass and fecalith in the cecum select?",
+    "a": "Appendicitis in the reported exam vignette. The appendix arises from the cecum; that wording should not turn every cecal mass into appendicitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck July 2024 describes appendiceal-lumen obstruction, sometimes by a fecalith, leading to distention, inflammation, ischemia and possible perforation. The broader differential still depends on the full case.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/appendicitis"
+    }
+  },
+  {
+    "id": "s2peds-0634",
+    "category": "Appendicitis",
+    "q": "What initial imaging does the source propose for pediatric appendicitis, and what limits that rule?",
+    "a": "Ultrasound first, sometimes followed by CT. The actual choice depends on clinical risk, prior imaging and suspected complications, not a universal scan-every-child sequence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ACR Suspected Appendicitis-Child rates ultrasound usually appropriate at intermediate clinical risk, but initial imaging usually not appropriate at low risk. After nondiagnostic ultrasound, MRI or contrast CT is usually appropriate. This retrieved ACR document is the 2019 criterion, not a newly issued 2026 guideline.",
+      "url": "https://acsearch.acr.org/list/TopicNarrativePdf?topicId=273"
+    }
+  },
+  {
+    "id": "s2peds-0635",
+    "category": "Appendicitis",
+    "q": "What operative approach does the source report seeing tested for stable appendicitis?",
+    "a": "Laparoscopic appendectomy. The author says they have seen this tested rather than imaging; that observation is not evidence that imaging is never useful or that every stable abdominal-pain patient should go straight to surgery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "Merck July 2024 describes laparoscopy as both diagnostic and therapeutic, and management includes surgical assessment, fluids and antibiotics. Selection depends on diagnosis and complications, not stability alone.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/appendicitis"
+    }
+  },
+  {
+    "id": "s2peds-0636",
+    "category": "Appendicitis",
+    "q": "What does the source consent example recommend when an acutely inflamed appendix is found during an ovarian operation?",
+    "a": "It selects removal as necessary emergency treatment. That answer depends on a genuine urgent emergency and the scope of consent; being anesthetized is not blanket permission for every additional procedure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "AMA Code 2.1.1 permits treatment without prior informed consent when a decision is urgent, the patient cannot participate and a surrogate is unavailable. Inform the patient/surrogate as soon as possible and obtain consent for ongoing care. Do not universalize the exam shortcut beyond these conditions.",
+      "url": "https://code-medical-ethics.ama-assn.org/ethics-opinions/informed-consent"
+    }
+  },
+  {
+    "id": "s2peds-0637",
+    "category": "Appendicitis",
+    "q": "What does the source reversed consent example recommend for a suspicious ovarian lesion discovered during appendectomy?",
+    "a": "Do not automatically biopsy a nonemergency lesion without consent. The PDF contrasts this with a necessary emergency intervention.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "AMA Code 2.1.1 requires authorization for a specific intervention and limits the no-prior-consent exception to urgent circumstances when the patient cannot participate and a surrogate is unavailable. Unexpected findings alone do not erase consent requirements.",
+      "url": "https://code-medical-ethics.ama-assn.org/ethics-opinions/informed-consent"
+    }
+  },
+  {
+    "id": "s2peds-0638",
+    "category": "Anorectal disorders",
+    "q": "Which diagnosis does the source favor for very painful bowel movements with possible blood and inability to tolerate a rectal exam?",
+    "a": "Anal fissure. The source uses pain severe enough to refuse examination as a key clue, but it is not a requirement that the patient refuse or that an examination be forced.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS describes sharp pain with stool passage that can last minutes to hours, sometimes with bright-red bleeding. Other causes of painful bleeding still require assessment.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Anal-Fissure-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0639",
+    "category": "Anorectal disorders",
+    "q": "What explains the skin tag that puzzles the source author in anal-fissure cases?",
+    "a": "A chronic fissure may have an external sentinel skin tag or sentinel pile. The source reports the association without explaining it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS specifically describes sentinel tags as a feature that can accompany chronic fissures. Their presence does not make every perianal skin tag a fissure.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Anal-Fissure-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0640",
+    "category": "Anorectal disorders",
+    "q": "What location does the source prefer for the typical anal fissure?",
+    "a": "Posterior midline. This is the source typical location, not a requirement for every anal fissure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS describes most fissures in the posterior midline, with some anterior. Off-midline, multiple or nonhealing fissures warrant assessment for other causes, including IBD, infection or malignancy.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Anal-Fissure-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0641",
+    "category": "Anorectal disorders",
+    "q": "What source mechanism helps perpetuate an anal fissure?",
+    "a": "Increased anal sphincter tone. Pain and spasm can maintain the problem rather than allowing a simple tear to heal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS describes pain causing sphincter spasm, increased pressure and reduced local blood flow, which impairs healing and creates a cycle of further pain and spasm.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Anal-Fissure-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0642",
+    "category": "Anorectal disorders",
+    "q": "What conservative treatment does the source choose for an anal fissure?",
+    "a": "A warm sitz bath. That is the source exam answer, not the entire bowel-care plan.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS also emphasizes soft, consistent stools, appropriate fiber, fluids and selected stool softeners. Warm baths soothe pain and relax muscle; management is individualized rather than bath-only treatment for every case.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Anal-Fissure-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0643",
+    "category": "Anorectal disorders",
+    "q": "Which topical medicines does the source name for anal fissure?",
+    "a": "Topical nitrates such as nitroglycerin, or diltiazem, to reduce sphincter tone. The route matters: this is not a recommendation for routine systemic nitrate treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS describes topical nitroglycerin and calcium-channel blockers for sphincter relaxation and healing. Headache and blood-pressure effects matter; chronic or persistent fissures need reassessment and sometimes other treatments.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Anal-Fissure-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0644",
+    "category": "Anorectal disorders",
+    "q": "What source diagnosis fits a cystic or tender mass at the superior gluteal cleft containing hair?",
+    "a": "Pilonidal disease, with an abscess when acutely infected. The location near the coccyx distinguishes it from a mass at the anal verge.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS describes trapped or penetrating hairs in the buttock cleft causing irritation, infection and abscess formation. The cause is not completely understood, so a single ingrown-hair explanation is shorthand.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Pilonidal-Disease.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0645",
+    "category": "Anorectal disorders",
+    "q": "When is incision and drainage the source treatment for pilonidal disease?",
+    "a": "For an acute pilonidal abscess. The PDF groups cyst and abscess together, but an uninfected pit or chronic sinus is not automatically managed as an abscess.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ASCRS recommends drainage for an abscess and describes hair control plus different procedures for persistent, complex or recurrent disease. Treatment depends on the disease pattern.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Pilonidal-Disease.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0646",
+    "category": "Anorectal disorders",
+    "q": "What source diagnosis fits a painful, erythematous mass near the anal verge?",
+    "a": "Perianal abscess. Its location differs from a pilonidal abscess higher in the gluteal cleft. The source risk-factor and treatment bullets continue on p51.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 50,
+      "url": "/mehlman/hy-pediatrics.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2peds-0647",
+    "category": "Anorectal disorders",
+    "q": "Which risk associations continue the source perianal-abscess row on p51?",
+    "a": "Crohn disease and diabetes. Neither is required for an abscess to occur; the painful anal-verge mass description is on p50.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "ASCRS describes most anal abscesses as arising from infected anal glands. Diabetes can increase infection-management needs, and Crohn-related perianal disease requires individualized care; the association is not a diagnosis of either underlying condition.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Abscess-and-Fistula-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0648",
+    "category": "Anorectal disorders",
+    "q": "What is the source treatment for a perianal abscess?",
+    "a": "Incision and drainage. Do not confuse drainage of an infected collection with treating an uncomplicated fissure or automatically cutting a fistula through the sphincter.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "ASCRS describes surgical drainage under most circumstances. Antibiotics alone are a poor alternative; selected patients with diabetes, impaired immunity or significant cellulitis may also need antibiotics/hospital care. Crohn fistula treatment is individualized.",
+      "url": "https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Abscess-and-Fistula-Expanded-Information.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0649",
+    "category": "Acetaminophen toxicity",
+    "q": "What antidote does the source prioritize for acetaminophen overdose?",
+    "a": "N-acetylcysteine (NAC). The author calls this its most important toxicity answer; that emphasis is not permission to wait for liver failure before giving it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "The US/Canada 2023 consensus bases treatment on ingestion history, properly timed acetaminophen levels and clinical/laboratory findings. When strong concern exists and waiting would delay treatment beyond 8 hours, begin NAC while awaiting the level.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062"
+    }
+  },
+  {
+    "id": "s2peds-0650",
+    "category": "Acetaminophen toxicity",
+    "q": "Which source acetaminophen metabolite depletes reduced glutathione?",
+    "a": "NAPQI. When detoxifying glutathione stores are depleted, the toxic metabolite can accumulate and injure hepatocytes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes hepatic cytochrome P450 formation of NAPQI and glutathione-mediated detoxification. This is a toxic-metabolite mechanism, not just nonspecific free-radical injury.",
+      "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/acetaminophen-poisoning"
+    }
+  },
+  {
+    "id": "s2peds-0651",
+    "category": "Acetaminophen toxicity",
+    "q": "What does the source say N-acetylcysteine restores in acetaminophen toxicity?",
+    "a": "Reduced glutathione. The source phrase is that NAC regenerates reduced glutathione, restoring detoxifying capacity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes NAC as a glutathione precursor that helps prevent toxicity by increasing glutathione supply. Clinical treatment should not wait for the biochemical mechanism to become symptomatic.",
+      "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/acetaminophen-poisoning"
+    }
+  },
+  {
+    "id": "s2peds-0652",
+    "category": "Acetaminophen toxicity",
+    "q": "What source chemical feature distinguishes oxidized from reduced glutathione?",
+    "a": "Oxidized glutathione has a disulfide linkage (-S-S-); the reduced form has thiol (-SH) groups. The source connects reduced glutathione with antioxidant/detoxifying activity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2peds-0653",
+    "category": "Acetaminophen toxicity",
+    "q": "Is the source asymptomatic first 24-28 hours a safe observation rule after acetaminophen overdose?",
+    "a": "No. Early toxicity can be silent or nonspecific, so a well-appearing patient still needs urgent poison-center/clinical assessment. The PDF delay-to-symptoms example is a warning, not a reason to wait.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes early nausea/vomiting or minimal symptoms, liver-test changes in the following days and possible failure. The source exact 24-28-hour interval is not a guaranteed symptom-free period.",
+      "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/acetaminophen-poisoning"
+    }
+  },
+  {
+    "id": "s2peds-0654",
+    "category": "Acetaminophen toxicity",
+    "q": "What severe outcome does the source link to very high aminotransferases after acetaminophen overdose?",
+    "a": "Acute hepatic injury or failure, sometimes requiring transplant and sometimes fatal. Its AST/ALT in the tens of thousands is an illustrative severe case, not an inevitable outcome or the sole transplant criterion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "The 2023 consensus recommends transplant-team consideration for progressive aminotransferase/coagulation abnormalities, encephalopathy or multisystem failure despite NAC. Clinical course and synthetic function matter, not enzyme magnitude alone.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062"
+    }
+  },
+  {
+    "id": "s2peds-0655",
+    "category": "Acetaminophen toxicity",
+    "q": "What role does activated charcoal have in the source acetaminophen-overdose discussion?",
+    "a": "It can reduce absorption when potentially toxic acetaminophen remains in the GI tract. The author reports seeing NAC tested more often, but charcoal is not invalid simply because it is less familiar from its exams.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "The 2023 consensus considers single-dose charcoal for acute potentially hepatotoxic ingestion when airway and other contraindications permit. Selected high-risk or extended-release cases may benefit beyond 4 hours because absorption can be prolonged. Charcoal does not replace NAC.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062"
+    }
+  },
+  {
+    "id": "s2peds-0656",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What is the source scope of its pediatric GI-infection list?",
+    "a": "A selected high-yield list, not an exhaustive infection catalog. It directs readers to its Gastro PDF for broader coverage; that cross-reference is retained without claiming this page covers all pathogens.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2peds-0657",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What source syndrome can follow EHEC or Shiga-toxin-producing Shigella infection?",
+    "a": "Hemolytic uremic syndrome (HUS). The source groups EHEC/Shigella, but not every E. coli strain or Shigella infection produces HUS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC describes HUS as a rare toxin-associated Shigella complication, most often with Shigella dysenteriae. A Shigella infection alone does not establish HUS, and the risk should not be assigned equally to all strains.",
+      "url": "https://www.cdc.gov/shigella/signs-symptoms/"
+    }
+  },
+  {
+    "id": "s2peds-0658",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What source mechanism links Shiga-toxin-associated HUS to low platelets and fragmented RBCs?",
+    "a": "Endothelial injury in the renal microvasculature promotes platelet-rich microthrombi. Platelet consumption and RBC shearing produce thrombocytopenia and microangiopathic hemolysis. The PDF emphasizes renal afferent arterioles as its simplified location.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2peds-0659",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What triad defines the source HUS pattern?",
+    "a": "Thrombocytopenia, hemolytic anemia with schistocytes, and acute kidney injury such as elevated renal-function tests or hematuria. Bloody diarrhea alone is not that triad.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC calls HUS a medical emergency; reduced urination, pallor, bruising or petechiae, blood in urine, fatigue or altered alertness after diarrheal illness need prompt evaluation. Laboratory assessment establishes the hematologic/renal syndrome.",
+      "url": "https://cdc.gov/ecoli/signs-symptoms/hus.html"
+    }
+  },
+  {
+    "id": "s2peds-0660",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Why does the source bloody-diarrhea exam vignette select shigellosis instead of HUS?",
+    "a": "The HUS hematologic and renal findings are absent in the described case. The source distinguishes infection causing bloody stool from a complication requiring additional evidence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC describes bloody diarrhea as possible in Shigella infection and HUS as a rare complication. Absence of a fully developed triad at one moment does not guarantee that HUS cannot evolve; reassess concerning changes.",
+      "url": "https://www.cdc.gov/shigella/signs-symptoms/"
+    }
+  },
+  {
+    "id": "s2peds-0661",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Which source organism causes bloody diarrhea with appendicitis-like RLQ pain in children?",
+    "a": "Yersinia enterocolitica. The PDF attributes the pain to mesenteric adenitis or terminal ileitis, rather than assuming every RLQ-pain case is appendicitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC March 2026 describes Yersinia enterocolitis with abdominal pain, sometimes bloody diarrhea and fever, and mesenteric adenitis that mimics appendicitis. Clinical assessment still must consider true surgical disease.",
+      "url": "https://www.cdc.gov/yersinia/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0662",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What postinfectious joint complication does the source associate with Yersinia?",
+    "a": "Reactive arthritis. The PDF says it is a more frequent feature in adults; it is not required in pediatric infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC March 2026 describes reactive arthritis, often affecting wrists, knees and ankles, after the diarrheal episode. Its absence does not exclude yersiniosis.",
+      "url": "https://www.cdc.gov/yersinia/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0663",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What source toxin mechanism causes rapid Staphylococcus aureus food poisoning?",
+    "a": "Ingestion of preformed, heat-stable toxin in contaminated food. The toxin can act without a new invasive infection developing after the meal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC April 2024 explains that Staph multiplies in food and makes toxin. Cooking can kill the bacteria without destroying the toxin; antibiotics do not treat this toxin-mediated food poisoning.",
+      "url": "https://www.cdc.gov/staph-food-poisoning/about/"
+    }
+  },
+  {
+    "id": "s2peds-0664",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Which food examples does the source associate with Staph toxin poisoning?",
+    "a": "Meats held too long under heat lamps or at buffets, and dairy/cream/custard or potato-salad dishes. These are source exam examples, not the only possible vehicles.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC April 2024 emphasizes handled foods such as sliced meats, puddings, pastries and sandwiches, and cooked foods held at unsafe temperatures. Neither meat nor dairy alone identifies the cause.",
+      "url": "https://www.cdc.gov/staph-food-poisoning/about/"
+    }
+  },
+  {
+    "id": "s2peds-0665",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What source timing and dominant symptom suggest Staph food poisoning?",
+    "a": "Prominent vomiting beginning about 1-6 hours after food ingestion. The rapid onset is the key source clue; cramping or diarrhea can accompany it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC April 2024 gives a broader sudden-onset window of 30 minutes to 8 hours and usually 24 hours or less of symptoms. It lists nausea, vomiting, cramps and diarrhea, not bloody stool as a defining Staph feature.",
+      "url": "https://www.cdc.gov/staph-food-poisoning/about/"
+    }
+  },
+  {
+    "id": "s2peds-0666",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Should the source allowance for bloody diarrhea make bloody stool typical of Staph food poisoning?",
+    "a": "No. The PDF says watery or bloody diarrhea can occur but emphasizes vomiting. Bloody stool should not be dismissed as routine toxin illness or used to avoid evaluating other causes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC lists vomiting, nausea, cramps and diarrhea for Staph food poisoning and advises contacting a clinician for severe symptoms. This source does not independently verify bloody diarrhea as a characteristic feature.",
+      "url": "https://www.cdc.gov/staph-food-poisoning/about/"
+    }
+  },
+  {
+    "id": "s2peds-0667",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Which virus does the source select for watery diarrhea in an unvaccinated child under 5?",
+    "a": "Rotavirus. Preserve its exam selection, but vaccination status and age do not identify every individual case.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC Pink Book describes rotavirus as the leading cause of SEVERE gastroenteritis in young children in the prevaccine era. Its historical epidemiology is not a universal current ranking for every watery-diarrhea episode.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-19-rotavirus.html"
+    }
+  },
+  {
+    "id": "s2peds-0668",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What oral rotavirus-vaccine schedule does the source list, and which product distinction matters?",
+    "a": "The PDF lists doses at 2, 4 and 6 months, matching RotaTeq. Rotarix uses 2 and 4 months instead; both are oral vaccines.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC lists RotaTeq as 3 doses and Rotarix as 2. The first dose must be given before 15 weeks of age and all doses before 8 months. Use the current CDC product schedule rather than applying a 3-dose rule to both products.",
+      "url": "https://cdc.gov/rotavirus/vaccines/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0669",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What source genome and shape identify rotavirus?",
+    "a": "Segmented double-stranded RNA and a wheel-like appearance. The source uses these virologic features to identify the pediatric gastroenteritis pathogen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC Pink Book describes double-stranded RNA enclosed in three concentric shells with 11 gene segments; rota refers to the wheel-like appearance.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-19-rotavirus.html"
+    }
+  },
+  {
+    "id": "s2peds-0670",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What is the modern name of the source Norwalk-virus answer for common acute gastroenteritis?",
+    "a": "Norovirus. The PDF favors it in adults and rotavirus-vaccinated children; neither vaccination nor adulthood proves the cause of a particular episode.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC May 2024 identifies norovirus as the leading cause of vomiting and diarrhea from acute gastroenteritis across all ages in the United States. This geographic/population statement is not a universal global ranking of all diarrhea causes.",
+      "url": "https://cdc.gov/norovirus/data-research/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0671",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What settings and transmission does the source emphasize for norovirus?",
+    "a": "Cruise ships, business conferences and other crowded settings, with fecal-oral spread. Its setting clues are examples, not a requirement that the patient traveled.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC describes most reported outbreaks as involving person-to-person spread and documents substantial illness outside cruise ships. The setting does not replace clinical or outbreak evaluation.",
+      "url": "https://cdc.gov/norovirus/data-research/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0672",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Which source worm causes perianal itching and is acquired by ingestion?",
+    "a": "Enterobius vermicularis, or pinworm; the infection is enterobiasis. It is especially associated with children but can affect others.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC explains that infective eggs are accidentally swallowed from contaminated fingers, objects or food. Female worms deposit eggs around the anus at night, producing the typical itch.",
+      "url": "https://cdc.gov/pinworm/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0673",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What test does the source choose for pinworm infection?",
+    "a": "The perianal tape test, looking for eggs. This is different from assuming an ordinary stool test will capture every pinworm infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC advises collecting with clear tape first thing in the morning before washing, toileting or dressing, on 3 mornings in a row, following the clinician instructions.",
+      "url": "https://www.cdc.gov/pinworm/diagnosing/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0674",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Which source ingested giant roundworm can cause intestinal obstruction?",
+    "a": "Ascaris lumbricoides, causing ascariasis. Heavy intestinal worm burden can obstruct bowel, particularly in children.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC describes infection by consuming infective eggs in contaminated soil and intestinal obstruction in heavy infections. It is not the classic barefoot skin-penetration mechanism used for hookworms.",
+      "url": "https://www.cdc.gov/sth/about/ascariasis.html"
+    }
+  },
+  {
+    "id": "s2peds-0675",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Which two hookworm species does the source name, and how are they classically acquired?",
+    "a": "Ancylostoma duodenale and Necator americanus, classically by larvae penetrating skin exposed to contaminated soil, including bare feet.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC confirms skin penetration; it also notes that Ancylostoma duodenale can be acquired by consuming larvae. The source skin route is the classic vignette answer, not the only route for every hookworm species.",
+      "url": "https://cdc.gov/sth/about/hookworm.html"
+    }
+  },
+  {
+    "id": "s2peds-0676",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "Why do source hookworm infections cause microcytic anemia?",
+    "a": "Intestinal blood feeding causes chronic blood loss and iron deficiency, lowering hemoglobin. The source pairs this with eosinophilia as a parasite clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC describes adult worms attaching to the intestine and feeding on blood, with anemia and protein deficiency especially important in heavily infected children. Anemia alone does not identify the worm.",
+      "url": "https://cdc.gov/sth/about/hookworm.html"
+    }
+  },
+  {
+    "id": "s2peds-0677",
+    "category": "Pediatric gastrointestinal infections",
+    "q": "What acquisition route answers the source barefoot Louisiana child with eosinophilia and microcytic anemia?",
+    "a": "Through the skin, consistent with hookworm larvae penetrating contaminated-soil-exposed feet. The reported location is an exam clue, not proof of current regional prevalence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 51,
+      "url": "/mehlman/hy-pediatrics.pdf#page=51"
+    },
+    "guideline": {
+      "text": "CDC identifies barefoot contact with contaminated soil as a hookworm risk. The actual diagnosis requires clinical and parasitologic assessment, rather than geography alone.",
+      "url": "https://cdc.gov/sth/about/hookworm.html"
+    }
   }
 ];
