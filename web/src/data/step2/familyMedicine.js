@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points from pp. 4-97; full coverage in progress.
+// Source-linked clinical review. Selected points from pp. 4-113; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -3551,6 +3551,611 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 97,
       "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2fm-0324",
+    "category": "Scrotal and penile disease",
+    "q": "A retracted foreskin cannot be returned over the glans. What emergency is this?",
+    "a": "Paraphimosis. Phimosis instead means the foreskin cannot be retracted.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-0325",
+    "category": "Scrotal and penile disease",
+    "q": "Acute severe testicular pain with an absent cremasteric reflex raises concern for what emergency?",
+    "a": "Testicular torsion, with risk of ischemia and testicular loss. Urgent assessment and surgical treatment are required; testing must not delay treatment when suspicion is high.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-0326",
+    "category": "Scrotal and penile disease",
+    "q": "A boy has a blue dot at the upper pole of a painful testis with a preserved cremasteric reflex. What diagnosis is suggested?",
+    "a": "Torsion of the appendix testis, not torsion of the testis itself.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-0327",
+    "category": "Scrotal and penile disease",
+    "q": "What long-term risks are associated with an undescended testis?",
+    "a": "Infertility and testicular malignancy. The PDF names orchiopexy after six months of age.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-0328",
+    "category": "Scrotal and penile disease",
+    "q": "A painful prolonged erection occurs in a patient with sickle-cell disease. What emergency and alpha-agonist treatment are described?",
+    "a": "Priapism. The PDF names intracavernosal phenylephrine as part of treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-0329",
+    "category": "Scrotal and penile disease",
+    "q": "A painless scrotal fluid collection transilluminates in an infant. What diagnosis is suggested?",
+    "a": "Hydrocele, involving fluid around the testis. A patent processus vaginalis can be involved.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-0330",
+    "category": "Scrotal and penile disease",
+    "q": "A heavy scrotum feels like a bag of worms and does not transilluminate, usually on the left. What is it?",
+    "a": "Varicocele, dilation of the pampiniform venous plexus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-0331",
+    "category": "Endometrial disease",
+    "q": "Why does chronic anovulation increase endometrial cancer risk?",
+    "a": "No corpus luteum forms, so progesterone production is reduced. Relatively unopposed estrogen promotes endometrial hyperplasia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-0332",
+    "category": "Endometrial disease",
+    "q": "A postmenopausal patient has new vaginal bleeding. What endometrial diagnostic procedure is emphasized in the PDF?",
+    "a": "Endometrial biopsy to evaluate hyperplasia or carcinoma. Bleeding after menopause warrants assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-0333",
+    "category": "Vulvar disease",
+    "q": "A persistent white, irritated vulvar plaque suggests lichen sclerosus. What diagnostic and treatment steps are described?",
+    "a": "Biopsy can exclude squamous-cell carcinoma. Topical corticosteroids treat confirmed lichen sclerosus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-0334",
+    "category": "Vulvar disease",
+    "q": "A tender vulvar swelling sits at the four- or eight-o-clock position. If warm and infected, what is it and what treatment is named?",
+    "a": "A Bartholin gland abscess. Drainage is indicated for an overt abscess.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-0335",
+    "category": "Cervical disease",
+    "q": "High-grade squamous intraepithelial lesion is found on cervical cytology. What diagnostic procedure does the PDF emphasize?",
+    "a": "Colposcopy with biopsy. Management then depends on histology and patient context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-0336",
+    "category": "Breast disease",
+    "q": "Cyclic breast tenderness that waxes and wanes with menses suggests what benign process?",
+    "a": "Fibrocystic change. Atypical or suspicious findings still require appropriate evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-0337",
+    "category": "Breast disease",
+    "q": "A young adult has a rubbery, mobile, nontender solid breast lump. What benign tumor is suggested?",
+    "a": "Fibroadenoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-0338",
+    "category": "Breast disease",
+    "q": "A breastfeeding patient has a red, tender, nonfluctuant breast area. What diagnosis and feeding advice are described?",
+    "a": "Lactational mastitis. The PDF recommends appropriate antistaphylococcal antibiotics and continuing breastfeeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-0339",
+    "category": "Breast disease",
+    "q": "A warm, red, tender breast mass is fluctuant. What complication and treatment are described?",
+    "a": "Breast abscess, requiring drainage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-0340",
+    "category": "Breast disease",
+    "q": "A recently breastfeeding patient has a peri-areolar cyst without fever, warmth or erythema. What milk-related diagnosis is suggested?",
+    "a": "Galactocele, a milk-retention cyst.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-0341",
+    "category": "Adnexal disease",
+    "q": "Severe adnexal pain occurs with a large ovarian mass, sometimes after intermittent episodes. What emergency is suggested?",
+    "a": "Ovarian or adnexal torsion. Laparoscopic detorsion is the treatment named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-0342",
+    "category": "Ovarian cysts",
+    "q": "A patient with endometriosis has an ovarian chocolate cyst. What is another name for it?",
+    "a": "Endometrioma, a cyst containing old hemorrhagic endometrial material.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-0343",
+    "category": "Prostate disease",
+    "q": "An older man has osteoblastic spinal lesions and suspected prostatic malignancy. Which cancer is suggested?",
+    "a": "Prostate adenocarcinoma, classically associated with osteoblastic bone metastases.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-0344",
+    "category": "Prostate disease",
+    "q": "An older man with BPH develops urinary retention while taking diphenhydramine. What medication property worsens the obstruction?",
+    "a": "Anticholinergic activity can impair bladder emptying. Stopping offending drugs is an important step.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-0345",
+    "category": "Prostate disease",
+    "q": "How do finasteride and tamsulosin improve BPH symptoms?",
+    "a": "Finasteride inhibits 5-alpha-reductase, reducing DHT-mediated growth. Tamsulosin blocks alpha-1 receptors to reduce outlet resistance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-0346",
+    "category": "HPV",
+    "q": "Which HPV types are associated with genital warts, and which are emphasized as oncogenic?",
+    "a": "Types 6 and 11 cause most genital warts; types 16 and 18 are important high-risk oncogenic types.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-0347",
+    "category": "STIs",
+    "q": "Urethritis or cervicitis has WBCs but no organisms visualized on routine microscopy. Which intracellular STI is suggested?",
+    "a": "Chlamydia trachomatis. Nucleic-acid testing is used clinically; the source emphasizes that organisms are not seen on routine Gram stain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-0348",
+    "category": "STIs",
+    "q": "Arthritis, urethritis and conjunctival or other ocular inflammation occur after an STI. What syndrome is suggested?",
+    "a": "Reactive arthritis, associated with Chlamydia infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-0349",
+    "category": "STIs",
+    "q": "A sexually active patient has arthritis, pustular skin lesions and tenosynovitis. What disseminated infection is suggested?",
+    "a": "Disseminated gonococcal infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-0350",
+    "category": "Vaginal discharge",
+    "q": "Yellow-green discharge with motile flagellated organisms and a strawberry cervix suggests what infection?",
+    "a": "Trichomonas vaginalis. Metronidazole treatment and partner treatment are emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-0351",
+    "category": "Vaginal discharge",
+    "q": "Thin gray discharge, a fishy whiff test and clue cells suggest what condition?",
+    "a": "Bacterial vaginosis, associated with altered vaginal flora including Gardnerella vaginalis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-0352",
+    "category": "Vaginal discharge",
+    "q": "Vulvovaginal itching with thick white discharge suggests what infection?",
+    "a": "Vulvovaginal candidiasis. Prominent itching can occur even without obvious discharge.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-0353",
+    "category": "Syphilis",
+    "q": "A painless genital chancre later resolves, followed by a rash involving palms and soles. Which infection is suggested?",
+    "a": "Syphilis due to Treponema pallidum. The painless primary chancre and secondary rash are classic stages.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-0354",
+    "category": "Syphilis",
+    "q": "An SLE patient has a positive nontreponemal syphilis test but no compatible history. What source of false positivity is described?",
+    "a": "Antiphospholipid or anticardiolipin antibodies can cause false-positive RPR or VDRL tests; treponemal testing helps clarify the result.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-0355",
+    "category": "Genital ulcers",
+    "q": "Painful recurrent vesicular genital lesions are preceded by burning or tingling. What infection and treatments are described?",
+    "a": "HSV infection. Acyclovir or valacyclovir are treatments named in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-0356",
+    "category": "Pelvic inflammatory disease",
+    "q": "Adnexal tenderness and cervical-motion tenderness suggest what ascending genital infection syndrome?",
+    "a": "Pelvic inflammatory disease, associated with organisms including Chlamydia and Gonorrhea. Tubal scarring increases ectopic-pregnancy risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-0357",
+    "category": "Pelvic inflammatory disease",
+    "q": "PID treatment is followed by persistent fever and adnexal pain. What complication should ultrasound assess?",
+    "a": "Tubo-ovarian abscess.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-0358",
+    "category": "Early pregnancy",
+    "q": "A patient has adnexal pain and a positive pregnancy test without a confirmed intrauterine pregnancy. What dangerous diagnosis must be considered?",
+    "a": "Ectopic pregnancy. Hemodynamic instability raises concern for rupture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-0359",
+    "category": "Early pregnancy",
+    "q": "First-trimester bleeding occurs with a closed cervix and a viable pregnancy. What miscarriage category is described?",
+    "a": "Threatened miscarriage. The pregnancy is not necessarily lost.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-0360",
+    "category": "Early pregnancy",
+    "q": "First-trimester bleeding occurs through an open cervix before complete passage of pregnancy tissue. What category is described?",
+    "a": "Inevitable miscarriage. If some tissue has already passed but some remains, the category is incomplete miscarriage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-0361",
+    "category": "Early pregnancy",
+    "q": "Ultrasound confirms nonviable retained pregnancy tissue and the cervix is closed, without prior expulsion. What category is described?",
+    "a": "Missed miscarriage. Definitive nonviability requires appropriate ultrasound criteria and timing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-0362",
+    "category": "Early pregnancy",
+    "q": "An established nonviable pregnancy has a gestational sac without an embryo. What term is used?",
+    "a": "Anembryonic pregnancy, also called a blighted ovum. Diagnosis requires appropriate ultrasound criteria, not merely an early empty sac.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2fm-0363",
+    "category": "Pregnancy loss",
+    "q": "Recurrent pregnancy loss in a patient with SLE raises concern for what antibody syndrome?",
+    "a": "Antiphospholipid syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2fm-0364",
+    "category": "Pubertal development",
+    "q": "What is usually the first visible pubertal change in girls?",
+    "a": "Breast budding, or thelarche.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-0365",
+    "category": "Pubertal development",
+    "q": "A short adolescent has delayed bone age and delayed puberty with otherwise reassuring growth context. What normal variant is suggested?",
+    "a": "Constitutional delay of growth and puberty, with potential for later catch-up growth.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-0366",
+    "category": "Amenorrhea",
+    "q": "Primary amenorrhea occurs with short stature, streak ovaries and poor breast development but preserved pubic hair. What syndrome is suggested?",
+    "a": "Turner syndrome, classically 45,X. Adrenal androgens can preserve pubic hair despite ovarian insufficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-0367",
+    "category": "Amenorrhea",
+    "q": "Primary amenorrhea occurs with normal breast development, scant pubic hair and a blind-ending vagina in a 46,XY patient. What diagnosis is suggested?",
+    "a": "Complete androgen insensitivity syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-0368",
+    "category": "Amenorrhea",
+    "q": "Primary amenorrhea occurs with absent uterine structures but normal pubic hair and breast development in a 46,XX patient. What diagnosis is suggested?",
+    "a": "Müllerian agenesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-0369",
+    "category": "Amenorrhea",
+    "q": "A teenage patient has monthly pain, no visible menses and a bluish bulging hymen. What obstruction and retained-fluid term are described?",
+    "a": "Imperforate hymen with hematocolpos, retained menstrual blood in the vagina.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-family-medicine.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2fm-0370",
+    "category": "PCOS",
+    "q": "Irregular anovulatory cycles and hyperandrogenic symptoms such as hirsutism suggest what syndrome?",
+    "a": "Polycystic ovary syndrome. The PDF links it with insulin resistance, diabetes risk and unopposed-estrogen endometrial risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-family-medicine.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2fm-0371",
+    "category": "Pelvic pain",
+    "q": "A young patient has painful menses but a normal pelvic examination. Which prostaglandin-mediated diagnosis is suggested?",
+    "a": "Primary dysmenorrhea. NSAIDs reduce prostaglandin-mediated cramping.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-0372",
+    "category": "Pelvic pain",
+    "q": "Painful menses, dyspareunia and uterosacral nodularity suggest what ectopic-tissue condition?",
+    "a": "Endometriosis, endometrial-like tissue outside the uterus. An ovarian endometrioma is one manifestation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-0373",
+    "category": "Pelvic pain",
+    "q": "Heavy bleeding occurs with a diffusely enlarged uterus from endometrial tissue in the myometrium. What is the diagnosis?",
+    "a": "Adenomyosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-0374",
+    "category": "Contraception",
+    "q": "Why are estrogen-containing contraceptives problematic in patients with migraine with aura or a thrombotic history?",
+    "a": "Estrogen increases thromboembolic and vascular risk. The PDF also emphasizes smoking after age 35 as a major contraindication context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-0375",
+    "category": "Contraception",
+    "q": "Which nonhormonal intrauterine method can provide emergency contraception within five days of intercourse?",
+    "a": "A copper IUD, which interferes with sperm function and fertilization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-0376",
+    "category": "Contraception",
+    "q": "Which injectable contraceptive can reduce bone mineral density and cause irregular bleeding?",
+    "a": "Depot medroxyprogesterone acetate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-0377",
+    "category": "Hormone therapy",
+    "q": "Why is a progestogen generally added to systemic estrogen therapy when the uterus is present?",
+    "a": "To oppose estrogen-driven endometrial proliferation and reduce endometrial hyperplasia/cancer risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-0378",
+    "category": "Breast endocrine therapy",
+    "q": "Which breast-cancer endocrine drug has estrogen-agonist effects on the endometrium and can increase endometrial cancer risk?",
+    "a": "Tamoxifen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
     }
   }
 ];

@@ -10,7 +10,8 @@ No claim of complete coverage yet. Cards use printed PDF pages.
 - Pages 48-54: read; 33 selected renal/urinary clinical cards drafted. Additional details remain.
 - Pages 55-78: read; selected GI/oral/hepatobiliary/infection cards drafted. Figure coverage and additional details remain.
 - Pages 79-97: read; selected heme/onc clinical cards drafted. Figure coverage and additional details remain.
-- Pages 98-319: pending detailed review.
+- Pages 98-113: read; selected GU/repro/breast/obstetric cards drafted. Figure coverage and remaining details pending.
+- Pages 114-319: pending detailed review.
 
 Uncertain or dated source recommendations were not converted into current clinical guidance:
 - p11 AAA screening recommendation for women and unusual growth threshold.
@@ -27,3 +28,5 @@ Additional cautions withheld: blanket antibiotic rules for COPD/CAP, latent-TB r
 Additional cautions withheld: old H. pylori regimen sequence; inaccurate anti-endomysial/anti-gliadin equivalence; outdated IBD blanket 5-ASA/etanercept recommendations; simplistic hepatitis C IgM/IgG staging; SIRS-era sepsis definitions.
 
 Additional cautions: source overgeneralizes ATRA to all AML, aspirin use in AF contradicts earlier pages, low ferritin/RDW absolutes, myeloma mechanism statements, HTLV/Sezary causation. Cards avoid these claims or explicitly narrow them.
+
+Additional cautions withheld: old mammography starting age; blanket STI cotreatment assumptions; simplified cervical screening algorithms; rigid PCOS ultrasound criteria; empiric torsion imaging without urgency; inaccurate definitive age/exam rules for endometriosis.
