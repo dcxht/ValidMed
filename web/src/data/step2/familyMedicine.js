@@ -7154,7 +7154,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 167,
       "url": "/mehlman/hy-family-medicine.pdf#page=167"
-    }
+    },
+    "sourcePages": [
+      152,
+      167
+    ]
   },
   {
     "id": "s2fm-0601",
@@ -9938,7 +9942,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 236,
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
-    }
+    },
+    "sourcePages": [
+      160,
+      236
+    ]
   },
   {
     "id": "s2fm-0847",
@@ -11730,7 +11738,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 264,
       "url": "/mehlman/hy-family-medicine.pdf#page=264"
-    }
+    },
+    "sourcePages": [
+      155,
+      264
+    ]
   },
   {
     "id": "s2fm-1004",
@@ -26381,7 +26393,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 264,
       "url": "/mehlman/hy-family-medicine.pdf#page=264"
-    }
+    },
+    "sourcePages": [
+      155,
+      264
+    ]
   },
   {
     "id": "s2fm-2240",
@@ -29799,7 +29815,11 @@ export default [
     "guideline": {
       "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
-    }
+    },
+    "sourcePages": [
+      159,
+      270
+    ]
   },
   {
     "id": "s2fm-2488",
@@ -30661,7 +30681,11 @@ export default [
     "guideline": {
       "text": "NCI notes that oral contraceptives may change cervical-cell susceptibility to persistent high-risk HPV, in addition to the observed duration-related association. The source condom-use explanation should not be treated as the only possible pathway.",
       "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet"
-    }
+    },
+    "sourcePages": [
+      112,
+      312
+    ]
   },
   {
     "id": "s2fm-2560",
@@ -34920,7 +34944,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 170,
       "url": "/mehlman/hy-family-medicine.pdf#page=170"
-    }
+    },
+    "sourcePages": [
+      147,
+      170
+    ]
   },
   {
     "id": "s2fm-2886",
@@ -34994,7 +35022,11 @@ export default [
     "guideline": {
       "text": "DailyMed says its Parkinson mechanism is not known. Animal data suggest dopaminergic effects, and it is a weak noncompetitive NMDA antagonist. Increased release alone is an incomplete mechanistic account.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=579e6c23-6286-4b80-88de-c86c0e5cc2b2"
-    }
+    },
+    "sourcePages": [
+      147,
+      169
+    ]
   },
   {
     "id": "s2fm-2892",
@@ -37763,6 +37795,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 137,
       "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "NCI describes Kasabach-Merritt syndrome with tufted angioma and kaposiform hemangioendothelioma, whose platelet trapping/destruction causes coagulopathy. This is distinct from an ordinary infantile hemangioma.",
+      "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/kasabach-merritt-syndrome"
     }
   },
   {
@@ -37774,6 +37810,319 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 139,
       "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2fm-3121",
+    "category": "Final source-mapping details",
+    "q": "What cervical-cytology schedule does the PDF give after an HIV diagnosis?",
+    "a": "Two Pap smears six months apart in the first year, then annually. This is the PDF schedule, not average-risk USPSTF screening.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "NYSDOH AI guidance uses age-based screening: under 30, cytology beginning within 2 years of receptive sexual activity or by 21, then every 3 years if normal; age 30+, cytology/HPV cotesting every 3 years if both negative. HIV requires separate guidance outside average-risk USPSTF recommendations.",
+      "url": "https://www.hivguidelines.org/snippet/hiv-care-cervical-screening-for-cervical-abnormalities-recs/"
+    }
+  },
+  {
+    "id": "s2fm-3122",
+    "category": "Final source-mapping details",
+    "q": "What follow-up does the source give for biopsy-confirmed CIN 1?",
+    "a": "Repeat cervical cytology in one year, emphasizing frequent spontaneous regression. This source shorthand is not a complete age-, HPV- and history-based management algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-3123",
+    "category": "Final source-mapping details",
+    "q": "What family-history screening-age rule does the PDF give for breast cancer?",
+    "a": "Start mammography at 40 rather than 50 with a first-degree family history. Its underlying 50-year average-risk start is superseded by the separately documented latest final USPSTF 40-74 biennial recommendation; inherited high-risk syndromes require separate assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-3124",
+    "category": "Final source-mapping details",
+    "q": "Which imaging modality does the PDF favor for a breast question in someone under 30?",
+    "a": "Ultrasound rather than mammography, attributing this to dense breast tissue. The PDF labels this screening, but a symptomatic mass workup and high-risk screening are different clinical questions; this is not a universal age-only imaging ban.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-3125",
+    "category": "Final source-mapping details",
+    "q": "Which coagulation proteins does the PDF say estrogen upregulates in its HRT discussion?",
+    "a": "Fibrinogen and factors V and VIII, as its proposed thromboembolic-risk mechanism. This is a source mechanism claim, not a statement that all estrogen routes and regimens have identical risks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-3126",
+    "category": "Final source-mapping details",
+    "q": "Which uterine-wall complication does the source name for both copper and levonorgestrel IUDs?",
+    "a": "Migration through the uterine wall, its wording for a perforation-related complication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-3127",
+    "category": "Final source-mapping details",
+    "q": "What fixed community-MSSA beta-lactamase percentage does the PDF give?",
+    "a": "90%, to explain why plain penicillin or amoxicillin may not treat a staphylococcal skin infection. The percentage is the PDF estimate, not newly verified current local susceptibility data.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2fm-3128",
+    "category": "Final source-mapping details",
+    "q": "How does the PDF rank hypertension versus atrial fibrillation as stroke risks?",
+    "a": "Hypertension is its most common population risk; when a vignette contains both, it says choose atrial fibrillation. This exam-ranking shortcut is not an individualized risk score or a reason to neglect either condition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-3129",
+    "category": "Final source-mapping details",
+    "q": "What neurologic-exam and MMSE contrast does the source use for Alzheimer disease versus normal aging?",
+    "a": "It describes Alzheimer disease with an otherwise normal motor/sensory exam and MMSE in the low 20 s, versus 28 or higher for its benign-aging example. These are source patterns, not universal diagnostic cutoffs or an exclusion of Alzheimer disease when another neurologic condition coexists.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-3130",
+    "category": "Final source-mapping details",
+    "q": "What gait-cognition-urinary pattern does the source say HIV-associated dementia can resemble?",
+    "a": "The wet, wobbly, wacky pattern of normal-pressure hydrocephalus. HIV-associated cognitive impairment is its alternative cause, not a diagnosis established by the triad alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-3131",
+    "category": "Final source-mapping details",
+    "q": "Which potentially treatable infectious cause of cognitive decline does the source emphasize in an older adult?",
+    "a": "Neurosyphilis, including an older patient with positive syphilis testing who needs the appropriate penicillin regimen. The source calls it reversible; treatment does not guarantee reversal of every established deficit.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-3132",
+    "category": "Final source-mapping details",
+    "q": "Which dopamine agonist names appear in the source Parkinson-drug list?",
+    "a": "Ropinirole, pramipexole, cabergoline, pergolide and bromocriptine. This is the PDF recognition list, not a claim that every listed drug is currently available or routinely recommended for Parkinson disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-3133",
+    "category": "Final source-mapping details",
+    "q": "What future neurologic association does the source attach to restless legs?",
+    "a": "An increased risk of Parkinson disease. The PDF connects this to dopamine signaling; it does not provide a risk estimate, prove causation or establish that an individual patient will develop Parkinson disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-3134",
+    "category": "Final source-mapping details",
+    "q": "What thymoma frequency and operative benefit does the PDF describe in myasthenia gravis?",
+    "a": "It estimates thymoma in 10-15% of MG and says removal can substantially improve or cure MG. These are source statements; the benefit and indication are not a guarantee of cure for an individual patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-3135",
+    "category": "Final source-mapping details",
+    "q": "What ear-examination clue does the PDF allow in its viral labyrinthitis example?",
+    "a": "An abnormal tympanic light reflex, which it attributes to increased middle-ear pressure during a viral illness. The light reflex refers to the ear, not a pupillary abnormality; it is not by itself proof of labyrinthitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-3136",
+    "category": "Final source-mapping details",
+    "q": "What acute-migraine drug order does the PDF give?",
+    "a": "NSAIDs first, then a triptan such as sumatriptan. Triptans are abortive 5-HT receptor agonists, not prophylaxis; the source order does not replace contraindication and severity assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-3137",
+    "category": "Final source-mapping details",
+    "q": "What biopsy timing examples does the PDF give after starting steroids for suspected giant-cell arteritis?",
+    "a": "Within 3 days or within a week in its exam examples. Its main teaching is not to delay needed steroids to obtain biopsy; these examples are not a newly verified universal timing deadline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-3138",
+    "category": "Final source-mapping details",
+    "q": "Besides neuropathy, what neurologic effect does the PDF associate with isoniazid-related vitamin-B 6 deficiency?",
+    "a": "Seizures, in its vitamin-deficiency table. This expands the source neuropathy pattern rather than identifying every seizure in a person taking isoniazid as nutritional.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-3139",
+    "category": "Final source-mapping details",
+    "q": "Which empiric bacterial-meningitis regimen does the PDF name, and when does it mention steroids?",
+    "a": "Ceftriaxone plus vancomycin; it says steroids may be added when pneumococcus is confirmed. This is the source regimen, not a complete age-, resistance- and organism-specific protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    },
+    "guideline": {
+      "text": "NICE NG 240(2024), a UK guideline, gives ceftriaxone for initial unknown-organism meningitis and adds amoxicillin when Listeria risk is present. It recommends dexamethasone for strongly suspected/confirmed bacterial meningitis in people over 3 months, with/before initial antibiotics when possible, continuing for pneumococcus or Hib. Do not delay antibiotics for steroids or an unsafe/delayed LP. Local resistance and neonatal protocols differ.",
+      "url": "https://www.nice.org.uk/guidance/ng240/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2fm-3140",
+    "category": "Final source-mapping details",
+    "q": "Which combinations does the PDF choose for neonatal group-B-streptococcal meningitis?",
+    "a": "Ampicillin plus gentamicin, or ampicillin plus cefotaxime. It rejects vancomycin/ceftriaxone for its neonatalGBS exam scenario; this is a source distinction, not a universal regimen for every age or susceptibility pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-3141",
+    "category": "Final source-mapping details",
+    "q": "Why does the PDF prefer cefotaxime to ceftriaxone in neonatal meningitis?",
+    "a": "Ceftriaxone displaces albumin-bound bilirubin and can form calcium precipitates in lungs/kidneys, in its source explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    },
+    "guideline": {
+      "text": "The retrieved DailyMed ceftriaxone label(updated 2023) contraindicates use in hyperbilirubinemic neonates, premature neonates up to 41 weeks postmenstrual age, and neonates 28 days or younger requiring/expected to require calcium-containingIV solutions. Bilirubin displacement risks encephalopathy; ceftriaxone-calcium precipitation has caused fatal neonatal outcomes. These are distinct mechanisms, not simply a higher total-bilirubin number.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ea1db43-40fa-417b-8911-ae98092070a0"
+    }
+  },
+  {
+    "id": "s2fm-3142",
+    "category": "Final source-mapping details",
+    "q": "How does the source use TMP-SMX prophylaxis to link Pneumocystis and toxoplasmosis?",
+    "a": "It startsPJP prophylaxis belowCD 4 200, then treats the same TMP-SMX as covering toxoplasma onceCD 4 is below 100. These are the PDF thresholds; toxoplasma eligibility also requires the separately noted IgG status.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "NIH 2025 recommends primary toxoplasma prophylaxis for Toxoplasma-IgG-positive people with HIV and CD 4<100; preferred TMP-SMX also covers PCP.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis"
+    }
+  },
+  {
+    "id": "s2fm-3143",
+    "category": "Final source-mapping details",
+    "q": "Which treatment categories does the source give for spinal epidural abscess?",
+    "a": "Drainage plus IV antibiotics. Actual urgency, surgical indications and antimicrobial selection require the neurologic, microbiologic and imaging findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-3144",
+    "category": "Final source-mapping details",
+    "q": "Which organism and treatment combination does the PDF name for septic cavernous-sinus thrombosis?",
+    "a": "Usually Staphylococcus aureus, treated with IV antibiotics plus heparin in its source account. This is not a complete prescribing or anticoagulation eligibility protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-3145",
+    "category": "Final source-mapping details",
+    "q": "Why can a gastrointestinal bleed precipitate hepatic encephalopathy in the source?",
+    "a": "Digested blood increases the intestinal protein/amino-acid load, which gut bacteria convert into ammonia that is absorbed. It separately names neomycin to reduce ammonia-producing bacteria, alongside lactulose.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-3146",
+    "category": "Final source-mapping details",
+    "q": "What routine tetanus/pertussis vaccination timetable does the PDF list?",
+    "a": "DTaP at 2,4,6 and 15-18 months, then 4-6 years; Tdap at 11-12 years; thenTd every 10 years. It separately listsTdap at 27-36 weeks during pregnancy. This is its routine schedule, distinct from its separately corrected wound-prophylaxis rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-3147",
+    "category": "Final source-mapping details",
+    "q": "What immune mechanism does the PDF propose for tropical spastic paraparesis?",
+    "a": "Antineuronal antibodies causing neurodegeneration, in its HTLV-associated description. This is the source mechanism claim, not an independently verified complete pathogenesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
     }
   }
 ];
