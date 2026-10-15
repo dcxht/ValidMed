@@ -5844,5 +5844,380 @@ export default [
       "text": "ACR rates contrast-enhanced abdominal/pelvic CT usually appropriate for some pediatric acute-abdominal scenarios, including suspected surgical complication. Ultrasound is preferred for some other diagnoses; choose by the actual clinical question.",
       "url": "https://acsearch.acr.org/docs/3196027/Narrative"
     }
+  },
+  {
+    "id": "s2peds-0456",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "When does the source blunt-abdominal-trauma example select CT despite the general radiation warning?",
+    "a": "Severe abdominal pain or a visible/growing hematoma after blunt trauma. Its example is a child who strikes a table corner, then develops a growing hematoma and elevated pancreatic enzymes two days later; the author suggests traumatic pancreatitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "WSES 2020: IV-contrast CT is a key study in hemodynamically stable or stabilized trauma patients. Hemodynamic status and suspected injuries drive the choice, not a blanket rule against pediatric CT.",
+      "url": "https://www.wses.org.uk/wp-content/uploads/2020/04/2020-liver-guidelines.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0457",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What is the source emergency rule for an unstable child with suspected intra-abdominal traumatic bleeding?",
+    "a": "Do not delay hemorrhage control for routine abdominal CT; the PDF selects laparotomy in hypotension, including temporary improvement after fluids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "WSES 2020 recommends operative management for unstable nonresponders. Selected transient responders may follow a specialist trauma-team pathway with immediate operating-room, monitoring, blood and angiographic resources. The source always-laparotomy wording is an exam simplification, not a universal rule for every transient responder.",
+      "url": "https://www.wses.org.uk/wp-content/uploads/2020/04/2020-liver-guidelines.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0458",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "Which source diagnosis goes with a double-bubble abdominal radiograph?",
+    "a": "Duodenal atresia. This is the source imaging-table association, not proof that every double bubble has only one cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0459",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What abdominal/chest radiograph finding does p41 associate with congenital diaphragmatic hernia?",
+    "a": "Bowel gas in the left hemithorax.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0460",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "Which source neonatal intestinal disease has pneumatosis intestinalis on abdominal radiograph?",
+    "a": "Necrotizing enterocolitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0461",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "When does the source imaging table select an abdominal radiograph for toxic megacolon?",
+    "a": "When the patient is stable. The stability condition matters; the table is not permission to delay resuscitation in an unstable child.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0462",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What source fluid-sampling procedure is used for SBP, and how should its test-ranking advice be interpreted?",
+    "a": "Abdominal paracentesis, with cell count and differential. The PDF ranks these above Gram stain/culture in exam choices and warns not to confuse paracentesis with pericardiocentesis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "Merck 2025 includes cultures in diagnostic paracentesis and supports bedside inoculation into blood-culture media. Obtain appropriate studies together without delaying needed treatment; ascitic PMNs, not just total WBC, determine the usual SBP threshold.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/spontaneous-bacterial-peritonitis-sbp"
+    }
+  },
+  {
+    "id": "s2peds-0463",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What scan does the source use to localize a Meckel diverticulum, and is it ordinary radiocontrast uptake?",
+    "a": "A Meckel radionuclide scan. The PDF calls it a radiocontrast uptake scan near the terminal ileum, but that term is imprecise.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "SNMMI/EANM practice guideline 2014: technetium-99m pertechnetate scintigraphy detects functioning ectopic gastric mucosa. It is radiotracer uptake, not a conventional iodinated-contrast study.",
+      "url": "https://tech.snmjournals.org/content/42/3/163"
+    }
+  },
+  {
+    "id": "s2peds-0464",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What IBD colonoscopy-surveillance schedule does p41 give, and is it universal for every child with UC or Crohn disease?",
+    "a": "The PDF says start eight years after diagnosis and repeat every two to three years. This is its source schedule, not an individualized rule for all pediatric IBD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "ECCO official 2025 update: consider colorectal cancer/dysplasia surveillance in UC at age 12 or older with disease duration over eight years; concurrent PSC prompts surveillance at age 12 regardless of duration. This UC guidance must not be silently generalized to every Crohn phenotype or a fixed interval.",
+      "url": "https://ecco-ibd.eu/publications/news/issues/2025/volume-20-issue-2/new-espghan-ecco-guidelines-on-ulcerative-colitis-in-children"
+    }
+  },
+  {
+    "id": "s2peds-0465",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What Peutz-Jeghers colonoscopy schedule does the PDF give, and how does the verified comparison differ?",
+    "a": "Source answer: begin at age eight and repeat every one to two years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "GeneReviews 2021: baseline colonoscopy and upper endoscopy at age eight; if negative, repeat at 18. If polyps are found, repeat every one to three years according to findings. Small-bowel surveillance also matters; one fixed colonoscopy interval is incomplete.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1266/"
+    }
+  },
+  {
+    "id": "s2peds-0466",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What FAP colonoscopy schedule appears in both p41 tables?",
+    "a": "Source answer: start at age 10-12 and repeat every one to two years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "GeneReviews 2022 surveillance table: colonoscopy every one to two years starting at 10-15 for classic FAP; attenuated FAP starts in late adolescence. The phenotype matters.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1345/table/fap.T.recommended_surveillance_for_indiv/"
+    }
+  },
+  {
+    "id": "s2peds-0467",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "Must every person with FAP have prophylactic proctocolectomy exactly at age 18, as the source NBME rule suggests?",
+    "a": "No. The PDF gives age 18 as its exam rule, but actual timing and procedure are individualized.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "ClinGen pediatric actionability summary: prophylactic surgery timing is not fixed. Specialist decisions consider polyp burden, dysplasia, symptoms, genotype, rectal disease, desmoid risk and personal factors; classic FAP requires a cancer-prevention surgical plan.",
+      "url": "https://actionability.clinicalgenome.org/ac/ui/Pediatric/ui/stg2SummaryRpt/AC048"
+    }
+  },
+  {
+    "id": "s2peds-0468",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What Lynch-syndrome colonoscopy schedule does the PDF give, and what family-history qualification is missing?",
+    "a": "Source answer: begin at age 20-25 and repeat every one to two years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "GeneReviews 2021: every one to two years from age 20-25, or two to five years before the earliest colorectal cancer in the family, whichever is earlier. Specialist/genotype context can further individualize surveillance.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1211/table/hnpcc.T.recommended_surveillance_for_ind/"
+    }
+  },
+  {
+    "id": "s2peds-0469",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "Should average-risk USPSTF colorectal screening ages replace surveillance for the p41 hereditary syndromes or IBD?",
+    "a": "No. These are high-risk surveillance settings, not average-risk population screening.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "USPSTF final 2021 colorectal recommendation: grade B at 45-49, grade A at 50-75 and selective grade C at 76-85. It excludes IBD and known hereditary high-risk disorders such as Lynch/FAP; its average-risk ages do not override syndrome-specific surveillance.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
+    }
+  },
+  {
+    "id": "s2peds-0470",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What does HNPCC stand for in the source Lynch-syndrome table?",
+    "a": "Hereditary non-polyposis colorectal cancer. The table equates this label with Lynch syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0471",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "Which mismatch-repair genes does the PDF name for Lynch syndrome?",
+    "a": "MSH2, MSH6, MLH1 and PMS2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "GeneReviews also recognizes EPCAM deletions that silence MSH2; the source four-gene list is useful but not exhaustive.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1211/"
+    }
+  },
+  {
+    "id": "s2peds-0472",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What molecular instability does the source connect to mismatch-repair defects in Lynch syndrome?",
+    "a": "Microsatellite instability.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0473",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What extra-colonic cancer category does p41 associate with Lynch syndrome?",
+    "a": "Gynecologic cancer, in addition to colonic polyps/cancer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "GeneReviews includes endometrial and ovarian cancer among Lynch-associated risks. The source gynecologic label is broad, not a single-organ diagnosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1211/"
+    }
+  },
+  {
+    "id": "s2peds-0474",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What chromosome and inheritance pattern does p41 give for familial adenomatous polyposis?",
+    "a": "Chromosome 5 and autosomal dominant inheritance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0475",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What polyp burden and untreated cancer-risk warning does the source give for classic FAP?",
+    "a": "Hundreds to thousands of polyps; the PDF describes cancer risk as 100%. Treat that as its warning about untreated classic disease, not a claim that cancer is inevitable despite preventive care.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "ClinGen describes colorectal cancer developing nearly universally by age 50 in untreated classic FAP, with attenuated disease having a different phenotype and risk course.",
+      "url": "https://actionability.clinicalgenome.org/ac/ui/Pediatric/ui/stg2SummaryRpt/AC048"
+    }
+  },
+  {
+    "id": "s2peds-0476",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What source syndrome combines FAP with soft-tissue or bone tumors?",
+    "a": "Gardner syndrome. The PDF examples are a lipoma or skull bone tumors.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0477",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What source syndrome combines a polyposis phenotype with CNS tumors?",
+    "a": "Turcot syndrome; the PDF presents it as FAP plus CNS tumors. This is the source association, not a complete molecular classification of all Turcot phenotypes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0478",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What source mucocutaneous and GI combination suggests Peutz-Jeghers syndrome?",
+    "a": "Perioral melanosis plus hamartomatous colonic polyps. The author notes this repeats earlier source material; the syndrome is not confined to the colon.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0479",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What p41 bleeding-teenager vignette points toward juvenile-type polyps?",
+    "a": "Intermittent rectal bleeding, scattered polyps at colonoscopy and biopsy with dilated cystic mucus-filled glands, abundant lamina propria and inflammatory infiltrates. The source selects juvenile polyposis and calls it a newer exam example.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    },
+    "guideline": {
+      "text": "GeneReviews: juvenile refers to the polyp type, not patient age. Syndrome criteria include more than five colorectal juvenile polyps, juvenile polyps in the upper and lower GI tract, or any number with a family history. A teenager or a single juvenile polyp alone does not establish the syndrome.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK1469/"
+    }
+  },
+  {
+    "id": "s2peds-0480",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What benign-polyp distinction does the source make for hyperplastic polyps?",
+    "a": "It says hyperplastic polyps are not precancerous and have no dysplasia. Keep this tied to true hyperplastic polyps, not an assumption that every serrated lesion is harmless.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0481",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What vomiting pattern does p41 associate with pyloric stenosis?",
+    "a": "Forceful/projectile nonbilious vomiting in a young infant, described as days to weeks old. This begins the pyloric-stenosis section continued on p42.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0482",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "Why is vomiting nonbilious in the source pyloric-stenosis explanation?",
+    "a": "The pyloric obstruction is proximal to the duodenal entry of bile, so bile does not enter the vomitus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0483",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What age-related exam trap does the author warn against for pyloric stenosis versus duodenal atresia?",
+    "a": "Do not let one rigid age cutoff replace the full presentation. The author says question stems use variable ages; that does not mean age is clinically irrelevant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2peds-0484",
+    "category": "Pediatric imaging, polyps and pyloric stenosis",
+    "q": "What anatomic change and classic abdominal finding does the source name for pyloric stenosis?",
+    "a": "Hypertrophy of the pylorus and an olive-shaped abdominal mass. The author calls the mass a familiar clue that is not present in every question; its absence alone does not exclude the condition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 41,
+      "url": "/mehlman/hy-pediatrics.pdf#page=41"
+    }
   }
 ];
