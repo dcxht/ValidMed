@@ -42482,6 +42482,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 268,
       "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "SHEA/IDSA 2017 guidance defines fulminant CDI by features such as hypotension/shock, ileus or megacolon and describes medical treatment plus selected surgical approaches. Fever and distension alone do not supply the full diagnosis or dictate one operation. The 2021 focused update addresses selected drug questions, not a new complete surgical algorithm.",
+      "url": "https://www.idsociety.org/practice-guideline/clostridium-difficile/"
     }
   },
   {
@@ -42692,6 +42696,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 267,
       "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "CDC says a negative IGRA makes TB infection less likely but does not exclude active disease, especially with symptoms or immunocompromise. Recent contacts can need repeat testing after the immune-response window. A negative immune test is not a universal stop-workup rule.",
+      "url": "https://www.cdc.gov/tb/hcp/testing-diagnosis/interferon-gamma-release-assay.html"
     }
   },
   {
@@ -43625,6 +43633,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 310,
       "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    },
+    "guideline": {
+      "text": "ISPD 2022 defines peritoneal-dialysis-associated peritonitis using clinical features, dialysis-effluent cell findings and culture, with at least two criteria present. This is a dialysis-specific diagnostic and treatment pathway, not automatically the same entity as cirrhotic spontaneous bacterial peritonitis.",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/08968608221080586"
     }
   },
   {
@@ -43647,6 +43659,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 312,
       "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "NCI summarizes observational evidence of 30%-50% lower ovarian-cancer risk among ever-users of oral contraceptives, with effects related to duration and time since stopping. Proposed mechanisms include reducing ovulation, not merely synchronizing cycles. This does not establish identical effects for all formulations or make a distant relative alone a prescribing indication.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet"
     }
   },
   {
