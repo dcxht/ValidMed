@@ -19007,4 +19007,221 @@ export default [
     "img": "/mehlman/figures/peds-p093-measles-koplik.png",
     "imgAlt": "Actual source photograph of Koplik spots on the buccal mucosa in measles"
   }
+,
+  {
+    "id": "s2peds-1344",
+    "category": "Pediatric infectious disease",
+    "q": "Which disease is also called rubeola, and what rash course does the source give?",
+    "a": "Measles. The source describes a head-to-toe maculopapular rash; “macular popular” is the source's wording for the classic maculopapular exanthem.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck describes measles, also called rubeola, as fever, cough, coryza and conjunctivitis followed by a maculopapular exanthem that spreads cephalocaudally from the face and neck to the trunk and extremities.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/measles"
+    }
+  },
+  {
+    "id": "s2peds-1345",
+    "category": "Pediatric infectious disease",
+    "q": "What are Koplik spots, and why do they matter?",
+    "a": "They are pathognomonic whitish lesions on the buccal mucosa in measles. Their presence points to rubeola before the generalized rash.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck describes Koplik spots as pathognomonic measles enanthems resembling white grains of sand with red areolae, usually appearing about 2 days before the exanthem.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/measles"
+    }
+  },
+  {
+    "id": "s2peds-1346",
+    "category": "Pediatric infectious disease",
+    "q": "What does an immigrant history sometimes signal in a measles question?",
+    "a": "The source says it can imply unvaccinated status. Treat it as an exam clue to check measles immunity and exposure risk, not as a diagnosis by itself.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck says clinicians should suspect measles when a compatible rash appears in an unvaccinated or incompletely vaccinated patient with travel or known exposure. Vaccination status and exposure, not immigration alone, carry the current risk logic.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/measles"
+    }
+  },
+  {
+    "id": "s2peds-1347",
+    "category": "Pediatric infectious disease",
+    "q": "Which delayed CNS complication can follow measles, and how does the source frame it?",
+    "a": "Subacute sclerosing panencephalitis, described by the source as reactivation of latent measles infection in the CNS, classically in teenagers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck calls SSPE a rare, progressive, ultimately fatal delayed measles complication that can appear 7 to 10 or more years after infection. Risk is much greater when measles occurs before age 5, especially before 12 months.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/measles"
+    }
+  },
+  {
+    "id": "s2peds-1348",
+    "category": "Pediatric infectious disease",
+    "q": "How does the source distinguish rubella from measles?",
+    "a": "Rubella can also cause a head-to-toe maculopapular rash, but it lacks Koplik spots and instead characteristically causes tender suboccipital and postauricular lymphadenopathy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck says tender suboccipital, postauricular and posterior cervical nodes are characteristic of rubella, while rubella's rash is milder and more evanescent than measles and Koplik spots, photophobia and cough are absent.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/rubella"
+    }
+  },
+  {
+    "id": "s2peds-1349",
+    "category": "Pediatric infectious disease",
+    "q": "Which infection is shown by the p94 photograph of parotid swelling?",
+    "a": "Mumps. The image shows parotitis, the hallmark salivary-gland manifestation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck says mumps usually causes painful salivary-gland enlargement, most often the parotids, and its reference photo describes parotid swelling obscuring the angle of the mandible.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/mumps"
+    },
+    "img": "/mehlman/figures/peds-p094-mumps.png",
+    "imgAlt": "Actual source photograph of a child with parotid swelling from mumps"
+  },
+  {
+    "id": "s2peds-1350",
+    "category": "Pediatric infectious disease",
+    "q": "What does the source mnemonic POM stand for in mumps?",
+    "a": "Parotitis, Orchitis and Meningitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck confirms parotitis as the usual manifestation and lists orchitis or oophoritis and meningitis or encephalitis among complications. Orchitis is most relevant after puberty.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/mumps"
+    }
+  },
+  {
+    "id": "s2peds-1351",
+    "category": "Pediatric infectious disease",
+    "q": "Does mumps typically cause a rash?",
+    "a": "No. The source explicitly says mumps does not typically cause rash; look for parotitis and its complications instead.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck's mumps description centers on salivary-gland swelling and systemic or CNS complications, not an exanthem. It separately notes that MMR vaccination can occasionally cause fever followed by rash, which should not be confused with typical mumps infection.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/mumps"
+    }
+  },
+  {
+    "id": "s2peds-1352",
+    "category": "Pediatric infectious disease",
+    "q": "Which disease is shown by the p94 slapped-cheek photograph?",
+    "a": "Fifth disease, also called erythema infectiosum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck describes fifth disease as indurated, confluent erythema of the cheeks with a slapped-cheek appearance, often followed by a symmetric reticulated rash on the arms, legs and trunk.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/erythema-infectiosum-parvovirus-b19-infection"
+    },
+    "img": "/mehlman/figures/peds-p094-fifth-disease.png",
+    "imgAlt": "Actual source photograph of a child with slapped-cheek facial erythema from fifth disease"
+  },
+  {
+    "id": "s2peds-1353",
+    "category": "Pediatric infectious disease",
+    "q": "Which virus causes the slapped-cheek facial erythema of fifth disease?",
+    "a": "Parvovirus B19.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck confirms human parvovirus B19 as the cause of erythema infectiosum, also called fifth disease or slapped-cheek disease.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/erythema-infectiosum-parvovirus-b19-infection"
+    }
+  },
+  {
+    "id": "s2peds-1354",
+    "category": "Pediatric infectious disease",
+    "q": "What next diagnostic step does the source give for fifth disease?",
+    "a": "Check serum parvovirus B19 IgM titers; if IgM titers are not listed as an option, the source says to choose bone marrow biopsy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck says otherwise healthy children with a characteristic rash do not need serology. IgM supports diagnosis in transient aplastic crisis or adults with arthropathy, while quantitative PCR is used for aplasia, immunocompromise, hydrops or congenital infection; bone marrow biopsy is not the current routine diagnostic substitute.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/erythema-infectiosum-parvovirus-b19-infection"
+    }
+  },
+  {
+    "id": "s2peds-1355",
+    "category": "Pediatric infectious disease",
+    "q": "Why is parvovirus B19 dangerous in sickle cell disease?",
+    "a": "It increases the risk of aplastic anemia, specifically transient aplastic crisis from suppression of red-cell production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck explains that parvovirus B19 transiently suppresses erythropoiesis, which is usually asymptomatic except in hemoglobinopathies such as sickle cell disease or other red-cell disorders, where transient aplastic crisis can occur.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/erythema-infectiosum-parvovirus-b19-infection"
+    }
+  },
+  {
+    "id": "s2peds-1356",
+    "category": "Pediatric infectious disease",
+    "q": "What reassurance does the source give once a child has the fifth-disease cheek rash?",
+    "a": "By the time the red cheeks appear, the child has immunologically cleared the illness, so the source tells parents to relax.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "CDC says most people with the slapped-cheek rash are past their period of infectiousness once the rash appears. Exceptions include aplastic crisis, which can remain contagious for at least a week, and chronic infection in immunocompromised patients.",
+      "url": "https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/parvovirus.html"
+    }
+  },
+  {
+    "id": "s2peds-1357",
+    "category": "Pediatric infectious disease",
+    "q": "Which diagnosis does the p94 diffuse rash photograph introduce?",
+    "a": "Roseola. The page gives only the label and rash image here; the HHV-6 and fever-then-rash bullets begin on p95.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 94,
+      "url": "/mehlman/hy-pediatrics.pdf#page=94"
+    },
+    "guideline": {
+      "text": "Merck describes roseola as an HHV-6B, or less often HHV-7, infection with high fever followed by a macular or maculopapular exanthem during or after defervescence.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/roseola-infantum"
+    },
+    "img": "/mehlman/figures/peds-p094-roseola.png",
+    "imgAlt": "Actual source photograph of the diffuse maculopapular rash of roseola"
+  }
 ];
