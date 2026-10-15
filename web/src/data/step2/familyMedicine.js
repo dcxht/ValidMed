@@ -26697,8 +26697,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=306"
     },
     "guideline": {
-      "text": "MedlinePlus Genetics: SERPINA1-related alpha-1 antitrypsin deficiency leaves neutrophil elastase inadequately controlled, damaging alveoli. The missing protection is antiprotease, not elastase itself.",
-      "url": "https://medlineplus.gov/genetics/condition/alpha-1-antitrypsin-deficiency/"
+      "text": "MedlinePlus SERPINA1 describes alpha-1 antitrypsin as an inhibitor of neutrophil elastase, protecting lung tissue. Deficient protection leaves elastase activity insufficiently controlled; it is not neutrophil-elastase deficiency.",
+      "url": "https://medlineplus.gov/genetics/gene/serpina1/"
     }
   },
   {
@@ -30053,6 +30053,81 @@ export default [
     "guideline": {
       "text": "NIDDK describes random plasma glucose 200 mg/dL or above for diagnosing diabetes when symptoms are present, and usually uses a second test to confirm diabetes. A single asymptomatic random result does not automatically satisfy every diagnostic pathway.",
       "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis"
+    }
+  },
+  {
+    "id": "s2fm-2557",
+    "category": "Late exact-source review",
+    "q": "Does the PDF imply raloxifene replaces tamoxifen for breast-cancer treatment when a uterus remains?",
+    "a": "It calls raloxifene the classic SERM for most patients with a uterus in its tamoxifen cancer-treatment discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "NCI lists raloxifene for lowering invasive breast-cancer risk in selected postmenopausal women and for osteoporosis. The fetched FDA EVISTA label (2018, explicitly older) says it is not indicated to treat invasive breast cancer or reduce recurrence. Risk reduction and cancer treatment are different indications.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2558",
+    "category": "Late exact-source review",
+    "q": "What no-risk claim does the PDF make about oral contraceptives and breast cancer?",
+    "a": "It says no change in breast-cancer risk and no significant meta-analysis association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "NCI summarizes observational evidence of modestly increased breast-cancer risk with current/recent oral contraceptive use, alongside reduced ovarian/endometrial risk. Formulation, duration and time since stopping affect estimates; this is not a reason to infer every user has the same absolute risk.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet"
+    }
+  },
+  {
+    "id": "s2fm-2559",
+    "category": "Late exact-source review",
+    "q": "What sole behavioral explanation does the PDF give for cervical-cancer risk with contraceptive pills?",
+    "a": "It attributes the increased risk to greater HPV exposure from less condom use, denying a direct effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "NCI notes that oral contraceptives may change cervical-cell susceptibility to persistent high-risk HPV, in addition to the observed duration-related association. The source condom-use explanation should not be treated as the only possible pathway.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet"
+    }
+  },
+  {
+    "id": "s2fm-2560",
+    "category": "Late exact-source review",
+    "q": "What portal-pressure explanation does the source give for painless rectal bleeding in cirrhosis?",
+    "a": "It labels the cause internal hemorrhoids from raised superior rectal venous pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-family-medicine.pdf#page=300"
+    },
+    "guideline": {
+      "text": "A 2024 World Journal of Hepatology editorial distinguishes portal-hypertensive rectal varices from hemorrhoids because their mechanisms and treatment differ. Either can coexist in cirrhosis; cirrhosis plus painless bleeding alone does not establish hemorrhoids. This is a secondary editorial, not a formal guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11586752/"
+    }
+  },
+  {
+    "id": "s2fm-2561",
+    "category": "Late exact-source review",
+    "q": "What diagnosis does the PDF assign to obesity/metabolic syndrome despite normal liver enzymes?",
+    "a": "NASH, stating that metabolic fatty liver can exist before enzyme elevations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-family-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "NIDDK explains that normal enzymes do not distinguish simple steatosis from steatohepatitis. Blood tests and imaging support evaluation; biopsy can establish NASH when needed. Obesity or normal enzymes alone do not prove steatohepatitis.",
+      "url": "https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash/diagnosis"
     }
   }
 ];
