@@ -31608,5 +31608,135 @@ export default [
       "text": "Merck Professional distinguishes common asymptomatic enzyme elevations, such as with statins, from clinically significant drug-induced liver injury, which may require prompt drug withdrawal. Interpretation depends on the drug, trend, symptoms and liver function; the source blanket continue rule is not safe for every listed medicine.",
       "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/drugs-and-the-liver/liver-injury-caused-by-drugs"
     }
+  },
+  {
+    "id": "s2fm-2663",
+    "category": "Intestinal infection source review",
+    "q": "Why does the source exclude rotavirus when a child and the rest of the family all develop diarrhea?",
+    "a": "It says only the young child would get rotavirus, not the family, so the answer is Norwalk virus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC says rotavirus can affect adults and identifies adults caring for young children as at increased risk. A whole-family outbreak does not exclude rotavirus, though norovirus remains an important outbreak cause.",
+      "url": "https://cdc.gov/rotavirus/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2664",
+    "category": "Colorectal and infection source review",
+    "q": "How does the source characterize pain with external hemorrhoids?",
+    "a": "External hemorrhoidal bleeding is painful.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    },
+    "guideline": {
+      "text": "ASCRS patient guidance says external hemorrhoids are usually painless unless thrombosed or very swollen. Pain is not mandatory for every external hemorrhoid.",
+      "url": "https://fascrs.org/Web/Patients/Diseases-and-Conditions/A-Z/Hemorrhoids.aspx"
+    }
+  },
+  {
+    "id": "s2fm-2665",
+    "category": "Colorectal and infection source review",
+    "q": "What procedure does the PDF choose when forced to give surgical management for severe hemorrhoids?",
+    "a": "Rubber band ligation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    },
+    "guideline": {
+      "text": "ASCRS distinguishes office rubber band ligation for internal hemorrhoids from hemorrhoidectomy, which can treat selected internal/external disease. Banding is not the universal operation for every severe or external hemorrhoid.",
+      "url": "https://fascrs.org/Web/Patients/Diseases-and-Conditions/A-Z/Hemorrhoids.aspx"
+    }
+  },
+  {
+    "id": "s2fm-2666",
+    "category": "Colorectal and infection source review",
+    "q": "What microbial-carriage claim does the source make for C. difficile?",
+    "a": "It is not normal flora; infection follows consumption of spores.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC distinguishes asymptomatic colonization from symptomatic infection and says colonization is more common. Detection of the organism or toxin alone does not prove symptomatic disease.",
+      "url": "https://www.cdc.gov/c-diff/hcp/clinical-overview/"
+    }
+  },
+  {
+    "id": "s2fm-2667",
+    "category": "Colorectal and infection source review",
+    "q": "What appearance besides pain can the PDF mention with an anal fissure?",
+    "a": "An associated skin tag, sometimes with increased anal sphincter tone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-2668",
+    "category": "Colorectal and infection source review",
+    "q": "Which two underlying conditions does the source associate with perianal abscess?",
+    "a": "Crohn disease and diabetes; incision and drainage is its treatment answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-2669",
+    "category": "Colorectal and infection source review",
+    "q": "Which foods does the PDF link to rapid-onset staphylococcal food poisoning?",
+    "a": "Meats left warm or out too long, and dairy/cream foods such as custards or potato salad; vomiting can begin in 1-6 hours.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-2670",
+    "category": "Colorectal and infection source review",
+    "q": "What typhoid pattern and reservoir does the source contrast with ordinary Salmonella gastroenteritis?",
+    "a": "Prostration with abdominal rose spots, diarrhea or constipation; humans are the S. typhi reservoir, not poultry or reptiles.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-2671",
+    "category": "Colorectal and infection source review",
+    "q": "How does the source distinguish shigellosis from HUS in a bloody-diarrhea stem?",
+    "a": "If the vignette gives bloody stool but no anemia, thrombocytopenia or kidney dysfunction, it favors shigellosis rather than assuming HUS.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-2672",
+    "category": "Bowel ischemia source review",
+    "q": "What next diagnostic test does the PDF choose for chronic mesenteric ischemia?",
+    "a": "Mesenteric angiography.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "European multidisciplinary 2020 guidance recommends CTA, with CE-MRA when CTA is contraindicated, and reserves conventional angiography for therapy. The source answer predates this noninvasive-first diagnostic framework.",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/2050640620916681"
+    }
   }
 ];
