@@ -1,0 +1,133 @@
+{
+  "stage": "Partial, first conversion and second-pass refinement, not whole-bank acceptance",
+  "counts": {
+    "active": 477,
+    "figures": 3,
+    "notes": 126
+  },
+  "local_mobile_renders": [
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2psy-0475",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2psy-0474",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2psy-0471",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 320,
+      "docWidth": 320,
+      "cardWidth": 320,
+      "cardClient": 320,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 502,
+          "bottom": 558
+        },
+        {
+          "text": "Missed it",
+          "top": 502,
+          "bottom": 558
+        },
+        {
+          "text": "Got it",
+          "top": 502,
+          "bottom": 558
+        }
+      ],
+      "badImgs": [],
+      "id": "s2psy-0475",
+      "w": 320,
+      "h": 568
+    }
+  ],
+  "inspected": [
+    "390-s2psy-0474-top.png",
+    "320-s2psy-0475-top.png"
+  ],
+  "prior_verified_live": {
+    "active": 470,
+    "url": "https://validmed.org/",
+    "asset": "https://validmed.org/assets/index-CLScP0CK.js",
+    "pixels": "390x844 menu and source-linked question answer"
+  },
+  "caveat": "Remaining source-detail pages 17-36, duplicate review and final clinical/product QA are open. Figure labels can require full-size view."
+}

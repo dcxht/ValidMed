@@ -407,7 +407,7 @@ export default [
     "id": "s2psy-0034",
     "category": "Depressive disorders",
     "q": "Which sleep-related medical condition does the PDF associate with depressive symptoms?",
-    "a": "Obstructive sleep apnea. Its vignette has repeated nocturnal awakenings on polysomnography and low mood, labeled mood disorder due to a medical condition in the source.",
+    "a": "Obstructive sleep apnea. Its vignette has repeated nocturnal awakenings on polysomnography and low mood, labeled mood disorder due to a medical condition in the source. The source polysomnogram example records nineteen awakenings in one night.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 5,
@@ -452,7 +452,7 @@ export default [
     "id": "s2psy-0037",
     "category": "Depressive disorders",
     "q": "What is depressive pseudodementia in the PDF?",
-    "a": "Depression presenting as cognitive decline in an older adult, with apathy and poor cognitive-test performance. Examples include poor delayed recall or inability to draw a clock until encouraged; low mood, restricted affect, brief quiet answers and poor eye contact support depression. The term does not prove that concurrent dementia is absent.",
+    "a": "Depression presenting as cognitive decline in an older adult, with apathy and poor cognitive-test performance. Examples include poor delayed recall or inability to draw a clock until encouraged; low mood, restricted affect, brief quiet answers and poor eye contact support depression. The term does not prove that concurrent dementia is absent. Its delayed-recall example is zero of three objects after five minutes, and its clock-drawing example improves rapidly after prompting.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 5,
@@ -677,7 +677,12 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 6,
       "url": "/mehlman/hy-psych.pdf#page=6"
-    }
+    },
+    "sourcePages": [
+      6,
+      7,
+      43
+    ]
   },
   {
     "id": "s2psy-0052",
@@ -740,6 +745,7 @@ export default [
     },
     "sourcePages": [
       6,
+      7,
       42
     ]
   },
@@ -889,7 +895,7 @@ export default [
     "id": "s2psy-0066",
     "category": "Grief and anxiety",
     "q": "Can source GAD coexist with another psychiatric disorder, and how does the PDF treat it?",
-    "a": "Yes. The source uses GAD with comorbid MDD as an example and names CBT and SSRIs. Buspirone, a serotonin-receptor agonist, is added on the next page.",
+    "a": "Yes. The source uses GAD with comorbid MDD as an example and names CBT and SSRIs. Buspirone, a serotonin-receptor agonist, is added on the next page. The rapid review calls buspirone second-line and SSRIs first-line pharmacotherapy.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 7,
@@ -897,6 +903,7 @@ export default [
     },
     "sourcePages": [
       7,
+      8,
       41
     ]
   },
@@ -934,7 +941,7 @@ export default [
     "id": "s2psy-0069",
     "category": "Grief and anxiety",
     "q": "What recurrent-attack and worry threshold does the PDF give for panic disorder?",
-    "a": "At least two panic attacks plus at least one month worrying about further attacks. A panic attack is an intense fear episode with severe physical symptoms, in the source description.",
+    "a": "At least two panic attacks plus at least one month worrying about further attacks. A panic attack is an intense fear episode with severe physical symptoms, in the source description. The rapid source contrasts an acute attack, for which it chooses a benzodiazepine, with ongoing panic disorder, for which it names an SSRI.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 8,
@@ -950,7 +957,7 @@ export default [
     "id": "s2psy-0070",
     "category": "Grief and anxiety",
     "q": "Which cardiac-looking panic vignette does the PDF emphasize?",
-    "a": "Hyperventilation and a fear of dying or having an MI. It says an incidental midsystolic click from mitral valve prolapse need not explain the symptoms. This exam distinction does not permit skipping evaluation of new cardiac or respiratory symptoms.",
+    "a": "Hyperventilation and a fear of dying or having an MI. It says an incidental midsystolic click from mitral valve prolapse need not explain the symptoms. This exam distinction does not permit skipping evaluation of new cardiac or respiratory symptoms. The source also calls MVP the commonest murmur and almost always benign; these broad source frequency/prognosis claims are not independently established here.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 8,
@@ -995,7 +1002,7 @@ export default [
     "id": "s2psy-0073",
     "category": "Grief and anxiety",
     "q": "What medication shortcut does the PDF give for performance social phobia with and without asthma?",
-    "a": "It favors propranolol or atenolol in its public-speaking exam scenario, but a benzodiazepine rather than propranolol if the patient has asthma. It names CBT for longer-term management; this is not a general first-line rule for every social-anxiety presentation.",
+    "a": "It favors propranolol or atenolol in its public-speaking exam scenario, but a benzodiazepine rather than propranolol if the patient has asthma. It names CBT for longer-term management; this is not a general first-line rule for every social-anxiety presentation. The rapid public-speaking/asthma example specifically names lorazepam.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 8,
@@ -1063,7 +1070,7 @@ export default [
     "id": "s2psy-0078",
     "category": "Grief and anxiety",
     "q": "What time distinction and treatments does the source use for PTSD versus acute stress disorder?",
-    "a": "PTSD: at least one month of reliving a trauma with flashbacks or nightmares; CBT/group therapy and an SSRI if medication is used. Acute stress disorder: three days to less than one month after trauma. These are source summaries rather than the full symptom-cluster criteria.",
+    "a": "PTSD: at least one month of reliving a trauma with flashbacks or nightmares; CBT/group therapy and an SSRI if medication is used. Acute stress disorder: three days to less than one month after trauma. These are source summaries rather than the full symptom-cluster criteria. The rapid plane-crash example occurs two weeks after trauma and labels this acute stress disorder, with CBT given as treatment for both acute stress disorder and PTSD.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 8,
@@ -1214,7 +1221,7 @@ export default [
     "id": "s2psy-0088",
     "category": "Personality disorders",
     "q": "What preference distinguishes schizoid personality disorder from avoidant personality disorder in the source?",
-    "a": "The source schizoid patient prefers being a loner and views the lack of relationships as acceptable. The avoidant patient wants connection but feels unable to pursue it.",
+    "a": "The source schizoid patient prefers being a loner and views the lack of relationships as acceptable. The avoidant patient wants connection but feels unable to pursue it. The source uses a plastics-factory worker or computer programmer as isolated-work vignettes; occupation alone is not a personality diagnosis.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 9,
@@ -1229,7 +1236,7 @@ export default [
     "id": "s2psy-0089",
     "category": "Personality disorders",
     "q": "What unusual-thinking pattern defines schizotypal personality disorder in the source?",
-    "a": "Odd beliefs or magical thinking with interpersonal or work impairment, without meeting a psychotic-disorder diagnosis. Its superstition and cultural examples are source examples, not a basis to pathologize a belief or religion in isolation.",
+    "a": "Odd beliefs or magical thinking with interpersonal or work impairment, without meeting a psychotic-disorder diagnosis. Its superstition and cultural examples are source examples, not a basis to pathologize a belief or religion in isolation. Its named examples include astrology and fixation on Buddhist temples; cultural/religious practice alone must not be mistaken for a disorder.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 10,
@@ -1397,7 +1404,7 @@ export default [
     "id": "s2psy-0101",
     "category": "Eating and dissociative disorders",
     "q": "What weight concern, BMI rule and purging statement does the PDF give for anorexia?",
-    "a": "Intense fear of weight gain and preoccupation with maintaining low weight; it uses BMI below 18.5 as its diagnostic shorthand. Purging can occur and is not exclusive to bulimia. The BMI rule is its source simplification, not a complete age-adjusted assessment.",
+    "a": "Intense fear of weight gain and preoccupation with maintaining low weight; it uses BMI below 18.5 as its diagnostic shorthand. Purging can occur and is not exclusive to bulimia. The BMI rule is its source simplification, not a complete age-adjusted assessment. Its rapid example labels recurrent purging with BMI 17 as anorexia rather than bulimia; weight alone is not the full diagnostic assessment.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 11,
@@ -2238,7 +2245,7 @@ export default [
     "id": "s2psy-0164",
     "category": "Child safety and development",
     "q": "Which play patterns, imaginary-friend ages and death questions are normal in the source list?",
-    "a": "Parallel play at two to three years, cooperative play at three to four; imaginary friends at four to six and repeated questions about death at eight to ten. Its imaginary-friend example is not psychosis solely because of the pretend companion.",
+    "a": "Parallel play at two to three years, cooperative play at three to four; imaginary friends at four to six and repeated questions about death at eight to ten. Its imaginary-friend example is not psychosis solely because of the pretend companion. The rapid p46 examples use a five-year-old with imaginary friends and a seven-year-old asking repeatedly about death, both called age-appropriate; the age examples differ from the earlier list.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 16,
@@ -3372,7 +3379,7 @@ export default [
       "url": "/mehlman/hy-psych.pdf#page=22"
     },
     "guideline": {
-      "text": "Merck Professional August2025 describes Romberg failure with the feet together and eyes closed as evidence of impaired position sense, while cerebellar disease produces a wide/unstable stance that does not depend solely on eye closure. The PDF contradictory sentence should not be used as a diagnostic positive/negative rule.",
+      "text": "Merck Professional August 2025 describes Romberg failure with the feet together and eyes closed as evidence of impaired position sense, while cerebellar disease produces a wide/unstable stance that does not depend solely on eye closure. The PDF contradictory sentence should not be used as a diagnostic positive/negative rule.",
       "url": "https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-examination/how-to-assess-sensation"
     }
   },
@@ -3504,6 +3511,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 23,
       "url": "/mehlman/hy-psych.pdf#page=23"
+    },
+    "guideline": {
+      "text": "Merck Professional April 2026 describes diagnosis using the clinical pattern and characteristic CNS lesions across locations and time, with MRI, selected CSF tests and exclusion of mimics. The PDF MRI-gold-standard phrase is not a rule that any white-matter lesion or a positive oligoclonal-band result alone establishes MS. This is a comparison, not a replacement full diagnostic criteria set.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/demyelinating-disorders/multiple-sclerosis-ms"
     }
   },
   {
@@ -3526,6 +3537,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 23,
       "url": "/mehlman/hy-psych.pdf#page=23"
+    },
+    "guideline": {
+      "text": "Merck Professional describes clinical optic/spinal syndromes assessed with brain/spinal MRI and blood aquaporin-4 antibodies, which are not present in every case. An MS-like presentation with negative CSF oligoclonal bands alone does not establish NMOSD or replace a differential diagnosis.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/demyelinating-disorders/neuromyelitis-optica-spectrum-disorder-nmosd"
     }
   },
   {
@@ -3717,7 +3732,7 @@ export default [
     "id": "s2psy-0273",
     "category": "Neuromuscular disorders",
     "q": "What diagnostic drug response and maintenance medication does the PDF give for myasthenia gravis?",
-    "a": "Improvement with edrophonium/Tensilon, a short-acting acetylcholinesterase inhibitor; pyridostigmine as a longer-acting treatment. The source test example is not a claim that edrophonium is the required or available test in every setting.",
+    "a": "Improvement with edrophonium/Tensilon, a short-acting acetylcholinesterase inhibitor; pyridostigmine as a longer-acting treatment. The source test example is not a claim that edrophonium is the required or available test in every setting. The rapid source prefers antibody testing over Tensilon if both are answer options.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 25,
@@ -3751,7 +3766,7 @@ export default [
     "id": "s2psy-0275",
     "category": "Neuromuscular disorders",
     "q": "What antibody target, weakness pattern and tumor association does the PDF give for Lambert-Eaton syndrome?",
-    "a": "Presynaptic voltage-gated calcium channels, proximal weakness improving with repeated activity, and small-cell lung cancer as an important paraneoplastic association. It describes less Tensilon improvement than in MG.",
+    "a": "Presynaptic voltage-gated calcium channels, proximal weakness improving with repeated activity, and small-cell lung cancer as an important paraneoplastic association. It describes less Tensilon improvement than in MG. Its rapid vignette can hold upward gaze for sixty seconds, unlike its fatigable MG example, and may rise from a chair only after several attempts.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 25,
@@ -4316,7 +4331,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 29,
       "url": "/mehlman/hy-psych.pdf#page=29"
-    }
+    },
+    "sourcePages": [
+      29,
+      50
+    ]
   },
   {
     "id": "s2psy-0318",
@@ -4374,7 +4393,7 @@ export default [
     "id": "s2psy-0322",
     "category": "Delirium and substances",
     "q": "What CCC mnemonic, ECG clue and toxidrome does the PDF attach to TCA overdose?",
-    "a": "Coma, convulsions and cardiotoxicity; a prolonged QT is its emphasized ECG clue. It also lists anticholinergic delirium, hot/red/dry skin and dilated pupils. The QT focus omits other important conduction findings.",
+    "a": "Coma, convulsions and cardiotoxicity; a prolonged QT is its emphasized ECG clue. It also lists anticholinergic delirium, hot/red/dry skin and dilated pupils. The QT focus omits other important conduction findings. The rapid p53 treatment answer is sodium bicarbonate, described as promoting dissociation of TCA from myocardial sodium channels.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 29,
@@ -4424,7 +4443,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 30,
       "url": "/mehlman/hy-psych.pdf#page=30"
-    }
+    },
+    "sourcePages": [
+      30,
+      52
+    ]
   },
   {
     "id": "s2psy-0326",
@@ -4478,7 +4501,7 @@ export default [
     "id": "s2psy-0330",
     "category": "Antidepressants",
     "q": "What three source vignettes reveal anticholinergic TCA adverse effects?",
-    "a": "A palpable full bladder in an older man with BPH; hot/red/dry skin from impaired sweating; and confusion with dilated pupils. The source also emphasizes coma, convulsions and cardiotoxicity in overdose.",
+    "a": "A palpable full bladder in an older man with BPH; hot/red/dry skin from impaired sweating; and confusion with dilated pupils. The source also emphasizes coma, convulsions and cardiotoxicity in overdose. The rapid example specifically pairs amitriptyline with urinary hesitancy/interrupted stream in an older man and chooses stopping it.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 30,
@@ -4594,7 +4617,7 @@ export default [
     "id": "s2psy-0338",
     "category": "Antipsychotics and toxicity",
     "q": "What triggers, autonomic symptoms and severity does the source list for serotonin syndrome?",
-    "a": "Serotonergic combinations such as MAOI/SSRI or SSRI/St. John's wort, or a high-risk drug alone such as trazodone, lithium or an MAOI; flushing, tachycardia, diarrhea and sometimes fever above 105F. The source symptom list is not the complete diagnostic examination.",
+    "a": "Serotonergic combinations such as MAOI/SSRI or SSRI/St. John's wort, or a high-risk drug alone such as trazodone, lithium or an MAOI; flushing, tachycardia, diarrhea and sometimes fever above 105F. The source symptom list is not the complete diagnostic examination. The rapid example stops fluoxetine, starts tranylcypromine one week later, then develops 105F fever, tachycardia and tachypnea; the source identifies the drug interaction as serotonin syndrome, not a safe switching schedule.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
@@ -4633,17 +4656,25 @@ export default [
     "sourcePages": [
       31,
       52
-    ]
+    ],
+    "guideline": {
+      "text": "Merck Professional May 2026 describes carcinoid heart disease as right-sided endocardial fibrosis, often causing tricuspid regurgitation or pulmonic stenosis. This differs from the PDF vegetation wording and should not be mistaken for infective endocarditis.",
+      "url": "https://www.merckmanuals.com/professional/oncology/gastrointestinal-and-pancreatic-neuroendocrine-tumors-nets/gastrointestinal-neuroendocrine-tumors-and-carcinoid-syndrome"
+    }
   },
   {
     "id": "s2psy-0341",
     "category": "Antipsychotics and toxicity",
     "q": "What receptor shorthand separates typical and atypical antipsychotics in the PDF?",
-    "a": "Typicals mainly antagonize D2; atypicals have additional dopamine/serotonin receptor actions. This broad source grouping is not an exact mechanism for every listed drug.",
+    "a": "Typicals antagonize D2; the source says atypicals mostly antagonize D2 too, with additional binding at receptors such as D4 or serotonin. This class shorthand is not an exact mechanism for every listed medicine, especially aripiprazole.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
+    },
+    "guideline": {
+      "text": "Merck Professional lists aripiprazole as a dopamine D2 partial agonist. The PDF broad atypical-D2-antagonist grouping is therefore not a precise mechanism for every drug in its own list.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/table/classification-and-adverse-effects-of-antipsychotic-medications"
     }
   },
   {
@@ -4698,7 +4729,7 @@ export default [
     "id": "s2psy-0346",
     "category": "Antipsychotics and toxicity",
     "q": "Which serious blood-cell effect does the PDF emphasize for clozapine?",
-    "a": "Neutropenia/agranulocytosis. Removal of an administrative monitoring program would not remove this biologic risk.",
+    "a": "Neutropenia/agranulocytosis. Removal of an administrative monitoring program would not remove this biologic risk. The rapid source describes new mouth ulcers after starting clozapine as a warning for agranulocytosis and says to stop it immediately with urgent assessment and frequent early granulocyte checks.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
@@ -4754,7 +4785,7 @@ export default [
     "id": "s2psy-0350",
     "category": "Antipsychotics and toxicity",
     "q": "What symptom and treatment does the PDF pair with antipsychotic akathisia?",
-    "a": "Restlessness; propranolol/beta-blockade in its treatment example.",
+    "a": "Restlessness; propranolol/beta-blockade in its treatment example. Its rapid vignette describes feeling about to jump out of the skin after prochlorperazine.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
@@ -4779,7 +4810,11 @@ export default [
     "sourcePages": [
       31,
       45
-    ]
+    ],
+    "guideline": {
+      "text": "The retrieved StatPearls review distinguishes propranolol for akathisia from management of drug-induced parkinsonism: reducing/stopping or switching the causative drug and selected antiparkinsonian treatments such as amantadine or anticholinergics. It does not support a blanket propranolol-for-bradykinesia rule; clinical assessment must distinguish the movement disorder.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534115/"
+    }
   },
   {
     "id": "s2psy-0352",
@@ -4834,7 +4869,7 @@ export default [
     "id": "s2psy-0355",
     "category": "Antipsychotics and toxicity",
     "q": "Which GI medication can produce source EPS, QT prolongation and parkinsonism?",
-    "a": "Metoclopramide, a dopamine D2 antagonist used as an antiemetic/prokinetic. The source vignette favors discontinuing it when parkinsonism develops.",
+    "a": "Metoclopramide, a dopamine D2 antagonist used as an antiemetic/prokinetic. The source vignette favors discontinuing it when parkinsonism develops. The rapid review also specifically names tardive dyskinesia and hyperprolactinemia from metoclopramide.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 32,
@@ -5091,6 +5126,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 34,
       "url": "/mehlman/hy-psych.pdf#page=34"
+    },
+    "guideline": {
+      "text": "A 2023 narrative review/expert consensus calls digoxin immune Fab the main treatment for life-threatening digoxin toxicity. Magnesium sulfate can treat ventricular tachyarrhythmias when Fab is not immediately available; it is not a universal substitute for Fab or a complete digoxin-toxicity treatment plan.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10599802/"
     }
   },
   {
@@ -5325,7 +5364,7 @@ export default [
     "id": "s2psy-0396",
     "category": "Rapid source vignettes",
     "q": "Which three receptor-blockade effects does the rapid source group for TCAs, sedating H1 drugs and atypical antipsychotics?",
-    "a": "Antimuscarinic, anti-alpha-1 and anti-H1 effects. It highlights diphenhydramine and TCAs such as amitriptyline, doxepin or desipramine in an older confused patient; individual drug profiles differ.",
+    "a": "Antimuscarinic, anti-alpha-1 and anti-H1 effects. It highlights diphenhydramine and TCAs such as amitriptyline, doxepin or desipramine in an older confused patient; individual drug profiles differ. The source management answer is to discontinue the culprit anticholinergic medicine, not simply to label confusion as aging.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 37,
@@ -5382,7 +5421,11 @@ export default [
     "guideline": {
       "text": "NHLBI recommends CBT-I as the usual first treatment for long-term insomnia. Benzodiazepines may be prescribed when other approaches have not worked, with risks including dizziness, confusion, weakness, interactions and dependence; use is generally limited to a few weeks. The PDF acute exam example does not supply a universal first-line plan.",
       "url": "https://www.nhlbi.nih.gov/health/insomnia/treatment"
-    }
+    },
+    "sourcePages": [
+      37,
+      38
+    ]
   },
   {
     "id": "s2psy-0401",
@@ -5487,12 +5530,16 @@ export default [
     "id": "s2psy-0410",
     "category": "Rapid source vignettes",
     "q": "What assessment order does the rapid source use for an older bereaved patient with low mood and cognitive complaints?",
-    "a": "Assess suicide risk, then cognitive testing such as the MMSE; if suicide risk is not acute and findings suggest a nutritional/neurologic cause, check B12 in its next-page vignette. This is a scenario-dependent sequence, not a rule to delay acute medical assessment.",
+    "a": "Assess suicide risk, then cognitive testing such as the MMSE; if suicide risk is not acute and findings suggest a nutritional/neurologic cause, check B12 in its next-page vignette. This is a scenario-dependent sequence, not a rule to delay acute medical assessment. The next-page example has MMSE 25/30, no suicidal ideation and a bereavement-related tea-and-toast/nutritional concern before checking B12.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 39,
       "url": "/mehlman/hy-psych.pdf#page=39"
-    }
+    },
+    "sourcePages": [
+      39,
+      40
+    ]
   },
   {
     "id": "s2psy-0411",
@@ -5649,7 +5696,7 @@ export default [
       "url": "/mehlman/hy-psych.pdf#page=42"
     },
     "guideline": {
-      "text": "Merck Professional July2026 lists psychomotor agitation or retardation, observable by others, among the MDD criteria. Headache is not a substitute for that criterion. At least one core symptom must be depressed mood or anhedonia.",
+      "text": "Merck Professional July 2026 lists psychomotor agitation or retardation, observable by others, among the MDD criteria. Headache is not a substitute for that criterion. At least one core symptom must be depressed mood or anhedonia.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders"
     }
   },
@@ -5750,11 +5797,15 @@ export default [
     "id": "s2psy-0431",
     "category": "Rapid source vignettes",
     "q": "What named benzodiazepine does the source use after a rapid reduction from twelve to four beers daily?",
-    "a": "Chlordiazepoxide, in its alcohol-withdrawal vignette. The source also repeats postoperative tachycardia/tremor/hallucinations after about two days; dose and setting require clinical supervision.",
+    "a": "Chlordiazepoxide, in its alcohol-withdrawal vignette. The source also repeats postoperative tachycardia/tremor/hallucinations after about two days; dose and setting require clinical supervision. The rapid source labels the three-day tremor example delirium tremens and the postoperative tachycardia/tremor/hallucination example alcoholic hallucinosis. Those labels are not established by timing or tremor alone and differ from its more detailed earlier distinction.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 44,
       "url": "/mehlman/hy-psych.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck Professional distinguishes hallucinosis by hallucinations with clear consciousness, usually without DT autonomic lability. DT involves a delirious/confused/disoriented state, often 48-72 hours after withdrawal. Withdrawal can follow a large reduction, not just complete cessation. The PDF abbreviated examples do not document all findings needed to distinguish the syndromes.",
+      "url": "https://www.merckmanuals.com/professional/special-subjects/illicit-drugs-and-intoxicants/alcohol-toxicity-and-withdrawal"
     }
   },
   {
@@ -5766,6 +5817,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 45,
       "url": "/mehlman/hy-psych.pdf#page=45"
+    },
+    "guideline": {
+      "text": "The retrieved StatPearls review distinguishes propranolol for akathisia from management of drug-induced parkinsonism: reducing/stopping or switching the causative drug and selected antiparkinsonian treatments such as amantadine or anticholinergics. It does not support a blanket propranolol-for-bradykinesia rule; clinical assessment must distinguish the movement disorder.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534115/"
     }
   },
   {
@@ -5792,7 +5847,11 @@ export default [
     "guideline": {
       "text": "Hoyme and colleagues 2016 diagnostic consensus requires a defined combination of facial findings and growth, brain and neurobehavioral criteria for FAS, not any philtrum change alone. Its partial-FAS pathways also require additional criteria. The article explicitly says it is not necessarily AAP policy. A facial feature by itself does not establish prenatal exposure or justify attributing alcohol use to a parent.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960726/"
-    }
+    },
+    "sourcePages": [
+      45,
+      46
+    ]
   },
   {
     "id": "s2psy-0435",
@@ -5876,7 +5935,7 @@ export default [
     "id": "s2psy-0441",
     "category": "Rapid source vignettes",
     "q": "What supervised measurement does the source choose for an implausibly high recorded fever with otherwise normal observations?",
-    "a": "A supervised rectal temperature in its factitious-fever vignette. Its claim that this is the most accurate route is a source generalization; very high measured fever still requires prompt clinical reassessment rather than assuming deception from psychiatric history.",
+    "a": "A supervised rectal temperature in its factitious-fever vignette. Its claim that this is the most accurate route is a source generalization; very high measured fever still requires prompt clinical reassessment rather than assuming deception from psychiatric history. The recorded source temperature is 107.7F with normal pulse, respiratory rate, BP and white-cell count.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 46,
@@ -5974,7 +6033,7 @@ export default [
   {
     "id": "s2psy-0450",
     "category": "Rapid source vignettes",
-    "q": "Which skin protection does the source favor for organophosphate exposure while picking fruit?",
+    "q": "Which protection does the source favor for a fruit picker with pinpoint pupils after pesticide exposure?",
     "a": "Gloves in its peach-picking vignette. The PDF contrasts a mask and says exposure is through skin, not droplets; that contrast is not a claim that inhalation can never expose a person to pesticides.",
     "source": {
       "title": "Mehlman HY Psych",
@@ -6007,7 +6066,7 @@ export default [
   {
     "id": "s2psy-0453",
     "category": "Rapid source vignettes",
-    "q": "What return-to-sex answer does the source give immediately after MI?",
+    "q": "What return-to-sex answer does the source give after a recent MI?",
     "a": "As soon as the patient feels ready, rejecting an automatic two-week delay. This is its exam answer, not unrestricted clearance after an acute MI without checking stability and functional capacity.",
     "source": {
       "title": "Mehlman HY Psych",
@@ -6045,7 +6104,7 @@ export default [
     "id": "s2psy-0456",
     "category": "Rapid source vignettes",
     "q": "What older-adult neuropathy medication-switch vignette does the rapid source add?",
-    "a": "An older diabetic patient not helped by carbamazepine and gabapentin is switched to nortriptyline. It prefers nortriptyline over other TCAs for fewer adverse effects, while acknowledging anticholinergic/alpha-1 effects make TCAs less attractive in older adults. This is a source example, not automatic prescribing advice.",
+    "a": "An older diabetic patient not helped by carbamazepine and gabapentin is switched to nortriptyline. It prefers nortriptyline over other TCAs for fewer adverse effects, while acknowledging anticholinergic/alpha-1 effects make TCAs less attractive in older adults. This is a source example, not automatic prescribing advice. The rapid page explicitly ranks TCAs first-line and gabapentin second-line, even though its older-patient example tried other agents first.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 50,
@@ -6071,7 +6130,7 @@ export default [
     "id": "s2psy-0458",
     "category": "Rapid source vignettes",
     "q": "Which additional propranolol uses does the source list beyond tremor and performance anxiety?",
-    "a": "Migraine prevention, antipsychotic akathisia, thyroid storm, hypertension with tremor, variceal-bleed prevention and symptomatic hypertrophic obstructive cardiomyopathy. These are context-specific uses, not one first-line rule for every patient.",
+    "a": "Migraine prevention, antipsychotic akathisia, thyroid storm, hypertension with tremor, variceal-bleed prevention and symptomatic hypertrophic obstructive cardiomyopathy. These are context-specific uses, not one first-line rule for every patient. Its proposed thyroid-storm mechanism is reduced peripheral T4-to-T3 conversion. For HOCM it claims increased preload with a reduced murmur; that isolated preload explanation is an unverified source mechanism, not a complete hemodynamic account.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 51,
@@ -6161,7 +6220,11 @@ export default [
     "guideline": {
       "text": "Parkinson Foundation names pimavanserin, clozapine and quetiapine in the treatment discussion, with limited evidence for quetiapine, and recommends first assessing contributing illness/medicines. It does not support the PDF clonidine option in that discussion. Do not substitute clonidine for clozapine on the strength of the source line.",
       "url": "https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/hallucinations-delusions"
-    }
+    },
+    "sourcePages": [
+      19,
+      52
+    ]
   },
   {
     "id": "s2psy-0466",
@@ -6208,7 +6271,7 @@ export default [
     "id": "s2psy-0469",
     "category": "Rapid source vignettes",
     "q": "What food/drug reaction does the rapid source pair with phenelzine, aged cheese, red wine and pepperoni?",
-    "a": "A hypertensive tyramine crisis, with phentolamine as its acute source answer. The PDF calls tyramine a catecholamine and says it prevents endogenous catecholamine reuptake; that mechanism wording is a source claim, not a verified complete pharmacology account.",
+    "a": "A hypertensive tyramine crisis, with phentolamine as its acute source answer. The PDF calls tyramine a catecholamine and says it prevents endogenous catecholamine reuptake; that mechanism wording is a source claim, not a verified complete pharmacology account. It gives BP 220/100 and attributes the food interaction to MAO inhibition preventing tyramine breakdown.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 48,
@@ -6223,7 +6286,7 @@ export default [
     "id": "s2psy-0470",
     "category": "Rapid source vignettes",
     "q": "What sleep-study findings and diagnostic shortcut does the rapid source give for narcolepsy?",
-    "a": "Polysomnography with reduced sleep latency and reduced REM latency. The source also repeats cataplexy after emotion and low orexin; its single test answer is not the complete modern overnight-study plus daytime-testing diagnostic workflow.",
+    "a": "Polysomnography with reduced sleep latency and reduced REM latency. The source also repeats cataplexy after emotion and low orexin; its single test answer is not the complete modern overnight-study plus daytime-testing diagnostic workflow. Cataplexy means an emotion-triggered loss of muscle tone, such as with laughter, in its source example.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 52,
@@ -6232,6 +6295,103 @@ export default [
     "guideline": {
       "text": "NINDS describes overnight polysomnography followed by a multiple sleep latency test to assess daytime sleep onset and REM. Sometimes CSF hypocretin measurement helps. The source single-test answer does not cover the full evaluation.",
       "url": "https://www.ninds.nih.gov/health-information/disorders/narcolepsy"
+    }
+  },
+  {
+    "id": "s2psy-0471",
+    "category": "Rapid source vignettes",
+    "q": "Why does the source label a concerned patient who left a stove burner on as normal aging?",
+    "a": "It treats the patient noticing/complaining about memory loss as the decisive clue, even after a stove-safety lapse. This differs from the earlier unattended-stove example and is a source exam shortcut, not a safe clinical exclusion of dementia.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 39,
+      "url": "/mehlman/hy-psych.pdf#page=39"
+    },
+    "guideline": {
+      "text": "Merck Professional assesses dementia by progressive cognitive deficits and functional impact, interpreting testing in context. Insight may be impaired, but self-reported concern is not an exclusion criterion; safety problems such as leaving a stove on still require evaluation.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/delirium-and-dementia/dementia"
+    }
+  },
+  {
+    "id": "s2psy-0472",
+    "category": "Rapid source vignettes",
+    "q": "What essential-tremor activation contradiction appears in the rapid propranolol list?",
+    "a": "The rapid list calls essential tremor bilateral resting tremor in a young adult, whereas the earlier detailed entry calls it intention tremor. Both repeat alcohol responsiveness and propranolol; the resting-versus-action wording is an internal source inconsistency.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 51,
+      "url": "/mehlman/hy-psych.pdf#page=51"
+    },
+    "guideline": {
+      "text": "NINDS classifies essential tremor chiefly as an action tremor, commonly bilateral in the hands/arms. Rest tremor is more characteristic of Parkinson disease, although mixed patterns can occur. The PDF rapid resting label should not replace examination of the activation pattern.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/tremor"
+    }
+  },
+  {
+    "id": "s2psy-0473",
+    "category": "Rapid source vignettes",
+    "q": "What seven-month grief cutoff does the rapid source use, and does it agree with the earlier section?",
+    "a": "It calls ongoing grief seven months after a spouse death pathological and says normal grief is under six months. The earlier section explicitly has no fixed time limit. The rapid cutoff is an internal source inconsistency, not enough to diagnose a grief disorder.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 49,
+      "url": "/mehlman/hy-psych.pdf#page=49"
+    },
+    "guideline": {
+      "text": "Merck Professional July 2026 describes prolonged grief disorder after at least twelve months in adults or six months in children/adolescents, with persistent specified grief symptoms, impairment and a response exceeding cultural expectations. Significant suicidal thoughts or self-neglect need assessment regardless of whether that duration has elapsed.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders"
+    }
+  },
+  {
+    "id": "s2psy-0474",
+    "category": "Antidepressants",
+    "q": "Why is the rapid source fluoxetine-to-MAOI switch after one week unsafe?",
+    "a": "The source vignette develops serotonin syndrome after stopping fluoxetine and beginning tranylcypromine only one week later. It demonstrates a dangerous interaction, not a recommended transition.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 52,
+      "url": "/mehlman/hy-psych.pdf#page=52"
+    },
+    "guideline": {
+      "text": "Retrieved DailyMed fluoxetine prescribing information requires at least five weeks, perhaps longer, after stopping fluoxetine before starting a psychiatric MAOI; at least fourteen days are required in the reverse MAOI-to-fluoxetine direction. This is not an instruction for an unsupervised drug switch.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=e6c2595a-1470-4cf4-93ea-0fedf917cf85&type=display"
+    }
+  },
+  {
+    "id": "s2psy-0475",
+    "category": "Personality disorders",
+    "q": "Which personality disorders belong to source Cluster A, and how is the cluster described?",
+    "a": "Odd/eccentric: paranoid, schizoid and schizotypal personality disorders. The table continues onto the next page.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 9,
+      "url": "/mehlman/hy-psych.pdf#page=9"
+    },
+    "sourcePages": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "s2psy-0476",
+    "category": "Personality disorders",
+    "q": "Which personality disorders belong to source Cluster B, and how is the cluster described?",
+    "a": "Dramatic, emotional or erratic: antisocial, borderline, histrionic and narcissistic personality disorders.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 10,
+      "url": "/mehlman/hy-psych.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2psy-0477",
+    "category": "Personality disorders",
+    "q": "Which personality disorders belong to source Cluster C, and how is the cluster described?",
+    "a": "Anxious/fearful: avoidant, dependent and obsessive-compulsive personality disorders.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 10,
+      "url": "/mehlman/hy-psych.pdf#page=10"
     }
   }
 ];

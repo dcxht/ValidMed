@@ -1,6 +1,6 @@
 # Psychiatry conversion ledger
 
-October 15, 2026. Partial: 470 active cards, 3 actual source figures, 114 separately linked notes. Source has 55 pages; clinical pages 3-53. First conversion now spans all clinical pages, including rapid-review details. Exhaustive source-detail/omission reconciliation, duplicate review and final clinical/product acceptance remain open. Counts and page links alone are not coverage proof.
+October 15, 2026. Partial: 477 active cards, 3 actual source figures, 126 separately linked notes. Source has 55 pages; clinical pages 3-53. First conversion spans all clinical pages. Second source/detail pass checked pp3-16 and pp37-53, restoring cluster headings, contradictory rapid-review shortcuts and specific treatment/measurement details. Second source/detail pass for pp17-36, duplicate review and final whole-bank clinical/product acceptance remain open. Counts and page links are not coverage proof.
 
 ## Source-page map
 
@@ -10,10 +10,10 @@ October 15, 2026. Partial: 470 active cards, 3 actual source figures, 114 separa
 | 4 | s2psy-0018, s2psy-0019, s2psy-0020, s2psy-0021, s2psy-0022, s2psy-0023, s2psy-0024, s2psy-0025, s2psy-0026, s2psy-0027, s2psy-0028, s2psy-0029, s2psy-0030, s2psy-0031, s2psy-0032, s2psy-0033 |
 | 5 | s2psy-0034, s2psy-0035, s2psy-0036, s2psy-0037, s2psy-0038, s2psy-0039, s2psy-0040, s2psy-0041, s2psy-0042, s2psy-0043, s2psy-0044, s2psy-0045, s2psy-0046, s2psy-0047 |
 | 6 | s2psy-0048, s2psy-0049, s2psy-0050, s2psy-0051, s2psy-0052, s2psy-0053, s2psy-0054, s2psy-0055, s2psy-0112 |
-| 7 | s2psy-0056, s2psy-0057, s2psy-0058, s2psy-0059, s2psy-0060, s2psy-0061, s2psy-0062, s2psy-0063, s2psy-0064, s2psy-0065, s2psy-0066 |
-| 8 | s2psy-0067, s2psy-0068, s2psy-0069, s2psy-0070, s2psy-0071, s2psy-0072, s2psy-0073, s2psy-0074, s2psy-0075, s2psy-0076, s2psy-0077, s2psy-0078 |
-| 9 | s2psy-0079, s2psy-0080, s2psy-0081, s2psy-0082, s2psy-0083, s2psy-0084, s2psy-0085, s2psy-0086, s2psy-0087, s2psy-0088 |
-| 10 | s2psy-0089, s2psy-0090, s2psy-0091, s2psy-0092, s2psy-0093, s2psy-0094, s2psy-0095, s2psy-0096, s2psy-0097, s2psy-0098, s2psy-0099, s2psy-0100 |
+| 7 | s2psy-0051, s2psy-0055, s2psy-0056, s2psy-0057, s2psy-0058, s2psy-0059, s2psy-0060, s2psy-0061, s2psy-0062, s2psy-0063, s2psy-0064, s2psy-0065, s2psy-0066 |
+| 8 | s2psy-0066, s2psy-0067, s2psy-0068, s2psy-0069, s2psy-0070, s2psy-0071, s2psy-0072, s2psy-0073, s2psy-0074, s2psy-0075, s2psy-0076, s2psy-0077, s2psy-0078 |
+| 9 | s2psy-0079, s2psy-0080, s2psy-0081, s2psy-0082, s2psy-0083, s2psy-0084, s2psy-0085, s2psy-0086, s2psy-0087, s2psy-0088, s2psy-0475 |
+| 10 | s2psy-0089, s2psy-0090, s2psy-0091, s2psy-0092, s2psy-0093, s2psy-0094, s2psy-0095, s2psy-0096, s2psy-0097, s2psy-0098, s2psy-0099, s2psy-0100, s2psy-0475, s2psy-0476, s2psy-0477 |
 | 11 | s2psy-0101, s2psy-0102, s2psy-0103, s2psy-0104, s2psy-0105, s2psy-0106, s2psy-0107, s2psy-0108, s2psy-0109, s2psy-0110, s2psy-0111 |
 | 12 | s2psy-0113, s2psy-0114, s2psy-0115, s2psy-0116, s2psy-0117, s2psy-0118, s2psy-0119, s2psy-0120, s2psy-0121, s2psy-0122 |
 | 13 | s2psy-0123, s2psy-0124, s2psy-0125, s2psy-0126, s2psy-0127, s2psy-0128, s2psy-0129, s2psy-0130, s2psy-0131, s2psy-0173 |
@@ -22,7 +22,7 @@ October 15, 2026. Partial: 470 active cards, 3 actual source figures, 114 separa
 | 16 | s2psy-0159, s2psy-0160, s2psy-0161, s2psy-0162, s2psy-0163, s2psy-0164, s2psy-0165, s2psy-0166, s2psy-0167, s2psy-0168, s2psy-0169, s2psy-0170, s2psy-0171, s2psy-0172 |
 | 17 | s2psy-0175, s2psy-0176, s2psy-0177, s2psy-0178, s2psy-0179, s2psy-0180, s2psy-0181, s2psy-0182, s2psy-0183, s2psy-0184, s2psy-0185, s2psy-0186, s2psy-0187, s2psy-0188 |
 | 18 | s2psy-0037, s2psy-0189, s2psy-0190, s2psy-0191, s2psy-0192, s2psy-0193, s2psy-0194, s2psy-0195, s2psy-0196 |
-| 19 | s2psy-0140, s2psy-0141, s2psy-0174, s2psy-0187, s2psy-0197, s2psy-0198, s2psy-0199, s2psy-0200, s2psy-0201, s2psy-0202, s2psy-0203, s2psy-0204, s2psy-0205, s2psy-0206, s2psy-0207, s2psy-0208, s2psy-0209 |
+| 19 | s2psy-0140, s2psy-0141, s2psy-0174, s2psy-0187, s2psy-0197, s2psy-0198, s2psy-0199, s2psy-0200, s2psy-0201, s2psy-0202, s2psy-0203, s2psy-0204, s2psy-0205, s2psy-0206, s2psy-0207, s2psy-0208, s2psy-0209, s2psy-0465 |
 | 20 | s2psy-0210, s2psy-0211, s2psy-0212, s2psy-0213, s2psy-0214, s2psy-0215, s2psy-0216, s2psy-0217, s2psy-0218, s2psy-0219, s2psy-0220, s2psy-0221 |
 | 21 | s2psy-0222, s2psy-0223, s2psy-0224, s2psy-0225, s2psy-0226, s2psy-0227, s2psy-0228, s2psy-0229, s2psy-0230, s2psy-0231, s2psy-0232, s2psy-0233, s2psy-0234 |
 | 22 | s2psy-0235, s2psy-0236, s2psy-0237, s2psy-0238, s2psy-0239, s2psy-0240, s2psy-0241, s2psy-0242, s2psy-0243, s2psy-0244, s2psy-0245 |
@@ -41,21 +41,21 @@ October 15, 2026. Partial: 470 active cards, 3 actual source figures, 114 separa
 | 35 | s2psy-0283, s2psy-0285, s2psy-0287, s2psy-0289, s2psy-0379, s2psy-0380, s2psy-0381, s2psy-0382, s2psy-0383, s2psy-0384, s2psy-0385, s2psy-0386, s2psy-0387, s2psy-0388, s2psy-0389 |
 | 36 | s2psy-0390, s2psy-0391, s2psy-0392, s2psy-0393, s2psy-0394, s2psy-0395 |
 | 37 | s2psy-0143, s2psy-0299, s2psy-0300, s2psy-0330, s2psy-0396, s2psy-0397, s2psy-0398, s2psy-0399, s2psy-0400 |
-| 38 | s2psy-0037, s2psy-0182, s2psy-0184, s2psy-0186, s2psy-0187, s2psy-0205, s2psy-0206, s2psy-0208, s2psy-0401, s2psy-0402, s2psy-0403, s2psy-0404, s2psy-0405, s2psy-0406 |
-| 39 | s2psy-0037, s2psy-0191, s2psy-0193, s2psy-0194, s2psy-0195, s2psy-0407, s2psy-0408, s2psy-0409, s2psy-0410 |
-| 40 | s2psy-0165, s2psy-0166, s2psy-0167, s2psy-0191, s2psy-0192, s2psy-0411, s2psy-0412, s2psy-0413, s2psy-0414 |
+| 38 | s2psy-0037, s2psy-0182, s2psy-0184, s2psy-0186, s2psy-0187, s2psy-0205, s2psy-0206, s2psy-0208, s2psy-0400, s2psy-0401, s2psy-0402, s2psy-0403, s2psy-0404, s2psy-0405, s2psy-0406 |
+| 39 | s2psy-0037, s2psy-0191, s2psy-0193, s2psy-0194, s2psy-0195, s2psy-0407, s2psy-0408, s2psy-0409, s2psy-0410, s2psy-0471 |
+| 40 | s2psy-0165, s2psy-0166, s2psy-0167, s2psy-0191, s2psy-0192, s2psy-0410, s2psy-0411, s2psy-0412, s2psy-0413, s2psy-0414 |
 | 41 | s2psy-0024, s2psy-0025, s2psy-0065, s2psy-0066, s2psy-0067, s2psy-0068, s2psy-0303, s2psy-0304, s2psy-0313, s2psy-0415, s2psy-0416, s2psy-0417, s2psy-0418 |
 | 42 | s2psy-0026, s2psy-0027, s2psy-0028, s2psy-0029, s2psy-0041, s2psy-0042, s2psy-0043, s2psy-0044, s2psy-0045, s2psy-0048, s2psy-0053, s2psy-0054, s2psy-0055, s2psy-0084, s2psy-0309, s2psy-0419, s2psy-0420, s2psy-0421, s2psy-0422, s2psy-0423, s2psy-0424 |
-| 43 | s2psy-0038, s2psy-0039, s2psy-0046, s2psy-0047, s2psy-0058, s2psy-0140, s2psy-0141, s2psy-0174, s2psy-0425, s2psy-0426, s2psy-0427, s2psy-0428 |
+| 43 | s2psy-0038, s2psy-0039, s2psy-0046, s2psy-0047, s2psy-0051, s2psy-0058, s2psy-0140, s2psy-0141, s2psy-0174, s2psy-0425, s2psy-0426, s2psy-0427, s2psy-0428 |
 | 44 | s2psy-0072, s2psy-0073, s2psy-0074, s2psy-0241, s2psy-0242, s2psy-0243, s2psy-0301, s2psy-0302, s2psy-0334, s2psy-0335, s2psy-0355, s2psy-0429, s2psy-0430, s2psy-0431 |
 | 45 | s2psy-0349, s2psy-0350, s2psy-0351, s2psy-0352, s2psy-0356, s2psy-0357, s2psy-0358, s2psy-0432, s2psy-0433, s2psy-0434, s2psy-0435, s2psy-0436 |
-| 46 | s2psy-0111, s2psy-0130, s2psy-0137, s2psy-0138, s2psy-0139, s2psy-0164, s2psy-0209, s2psy-0437, s2psy-0438, s2psy-0439, s2psy-0440, s2psy-0441 |
+| 46 | s2psy-0111, s2psy-0130, s2psy-0137, s2psy-0138, s2psy-0139, s2psy-0164, s2psy-0209, s2psy-0434, s2psy-0437, s2psy-0438, s2psy-0439, s2psy-0440, s2psy-0441 |
 | 47 | s2psy-0069, s2psy-0070, s2psy-0081, s2psy-0082, s2psy-0084, s2psy-0101, s2psy-0103, s2psy-0109, s2psy-0116, s2psy-0117, s2psy-0122, s2psy-0442, s2psy-0443, s2psy-0444, s2psy-0445, s2psy-0446, s2psy-0467, s2psy-0468 |
 | 48 | s2psy-0034, s2psy-0035, s2psy-0036, s2psy-0069, s2psy-0071, s2psy-0092, s2psy-0324, s2psy-0333, s2psy-0345, s2psy-0360, s2psy-0447, s2psy-0448, s2psy-0449, s2psy-0450, s2psy-0451, s2psy-0469 |
-| 49 | s2psy-0033, s2psy-0061, s2psy-0063, s2psy-0064, s2psy-0079, s2psy-0080, s2psy-0085, s2psy-0086, s2psy-0088, s2psy-0089, s2psy-0090, s2psy-0091, s2psy-0094, s2psy-0095, s2psy-0452, s2psy-0453, s2psy-0454 |
-| 50 | s2psy-0029, s2psy-0083, s2psy-0097, s2psy-0218, s2psy-0219, s2psy-0283, s2psy-0284, s2psy-0285, s2psy-0286, s2psy-0287, s2psy-0289, s2psy-0329, s2psy-0331, s2psy-0455, s2psy-0456, s2psy-0457 |
-| 51 | s2psy-0073, s2psy-0210, s2psy-0212, s2psy-0272, s2psy-0273, s2psy-0274, s2psy-0275, s2psy-0350, s2psy-0458, s2psy-0459, s2psy-0460, s2psy-0461 |
-| 52 | s2psy-0132, s2psy-0134, s2psy-0201, s2psy-0222, s2psy-0223, s2psy-0338, s2psy-0340, s2psy-0462, s2psy-0463, s2psy-0464, s2psy-0465, s2psy-0470 |
+| 49 | s2psy-0033, s2psy-0061, s2psy-0063, s2psy-0064, s2psy-0079, s2psy-0080, s2psy-0085, s2psy-0086, s2psy-0088, s2psy-0089, s2psy-0090, s2psy-0091, s2psy-0094, s2psy-0095, s2psy-0452, s2psy-0453, s2psy-0454, s2psy-0473 |
+| 50 | s2psy-0029, s2psy-0083, s2psy-0097, s2psy-0218, s2psy-0219, s2psy-0283, s2psy-0284, s2psy-0285, s2psy-0286, s2psy-0287, s2psy-0289, s2psy-0317, s2psy-0329, s2psy-0331, s2psy-0455, s2psy-0456, s2psy-0457 |
+| 51 | s2psy-0073, s2psy-0210, s2psy-0212, s2psy-0272, s2psy-0273, s2psy-0274, s2psy-0275, s2psy-0350, s2psy-0458, s2psy-0459, s2psy-0460, s2psy-0461, s2psy-0472 |
+| 52 | s2psy-0132, s2psy-0134, s2psy-0201, s2psy-0222, s2psy-0223, s2psy-0325, s2psy-0338, s2psy-0340, s2psy-0462, s2psy-0463, s2psy-0464, s2psy-0465, s2psy-0470, s2psy-0474 |
 | 53 | s2psy-0078, s2psy-0135, s2psy-0322, s2psy-0346, s2psy-0466 |
 
 ## Clinical reconciliation
@@ -81,12 +81,15 @@ This is a working issue list, not evidence that all other statements are indepen
 
 | Topic | Cards | Remaining check |
 |---|---|---|
-| Antipsychotic receptor classification, including aripiprazole | 341-343 | Reconcile source class shorthand against usable current prescribing information. |
-| Digoxin-toxicity magnesium shorthand | 375 | Verify current acute-toxicity distinction, not merely an indication list. |
+| Antipsychotic receptor classification, including aripiprazole | 341-343 | Resolved class shortcut with retrieved Merck table explicitly listing aripiprazole as a D2 partial agonist; FDA fetch attempts did not supply the usable mechanism text. |
+| Digoxin-toxicity magnesium shorthand | 375 | Resolved with 2023 expert consensus: Fab is main treatment for life-threatening toxicity; magnesium is a selected ventricular-arrhythmia measure, not a universal substitute. |
 | MG thymoma/MuSK percentage | 459 | Source percentage unverified; NINDS does not establish it. No guaranteed cure is taught as a current claim. |
-| MS/NMO diagnosis and workup | 253-257 | Check shortcuts and current source limits. |
-| Drug-induced parkinsonism propranolol | 351,432 | Preserve exact source difference; obtain a current treatment comparison. |
+| MS/NMO diagnosis and workup | 253-257 | Added retrieved Merck comparisons on clinical/MRI/CSF assessment and AQP4 testing; no claim to reproduce full newest diagnostic criteria. |
+| Drug-induced parkinsonism propranolol | 351,432 | Source difference preserved; retrieved StatPearls distinguishes propranolol for akathisia from the parkinsonism strategy. |
 | Abuse reporting | 454 | Source statement is jurisdiction-dependent; do not turn it into a universal legal rule. |
 | Source rankings and diagnostic absolutes | throughout, especially 403/435 | Source attribution remains; independently verify where feasible or retain explicit uncertainty. |
-| Rapid-review mapping/detail | pp37-53 | Exact page-by-page omission pass required; current map is not proof of exhaustive capture. |
+| Source-detail second pass | pp17-36 | Pp3-16 and pp37-53 compared source-to-card this run. Remaining pp17-36 still require the same explicit pass. |
 | Duplicates | throughout | Review close repeats without erasing unique vignettes or progress. |
+
+
+04:20 second-pass corrections: exact conflicting stove/insight and seven-month grief examples retained with separate current notes; resting-versus-action essential-tremor contradiction retained; source MDD headache example, alcohol-withdrawal label conflict, phenelzine tyramine wording, MG MuSK percentage, antipsychotic-parkinsonism propranolol and rapid clonidine-for-PD-psychosis wording are not silently rewritten. Added full source cluster A/B/C questions. Added fluoxetine-MAOI unsafe-switch question with retrieved five-week warning, carcinoid fibrosis-versus-vegetation comparison, and current source references. Local mobile long-note renders and actual deployed 470-card menu/question pixels inspected at 390x844. The latest 477-card refinement still needs deployment validation after its push.
