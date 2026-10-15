@@ -7285,7 +7285,7 @@ export default [
   {
     "id": "s2fm-0641",
     "category": "Psychiatry",
-    "q": "A persistent adult pattern of rights violations has conduct-disorder evidence before age15. Which personality disorder is described?",
+    "q": "A persistent adult pattern of rights violations has conduct-disorder evidence before age 15. Which personality disorder is described?",
     "a": "Antisocial personality disorder. A single criminal act alone does not establish it.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -7538,7 +7538,7 @@ export default [
   {
     "id": "s2fm-0664",
     "category": "Psychiatry",
-    "q": "A child has imaginary friends at age4-6 with otherwise typical development. What does the PDF say?",
+    "q": "A child has imaginary friends at age 4-6 with otherwise typical development. What does the PDF say?",
     "a": "This can be normal developmental play, not by itself psychosis.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -12753,7 +12753,7 @@ export default [
   {
     "id": "s2fm-1129",
     "category": "ECG",
-    "q": "The arrows identify ST elevation inII,III and aVF. Which myocardial territory is emphasized?",
+    "q": "The arrows identify ST elevation in II, III and aVF. Which myocardial territory is emphasized?",
     "a": "Inferior wall. The source relates this to the posterior descending artery, commonly supplied by the right coronary artery in right-dominant circulation.",
     "img": "/s2img/fm-14-0.png",
     "alt": "Figure from the source PDF",
@@ -24131,7 +24131,7 @@ export default [
     "id": "s2fm-2106",
     "category": "Musculoskeletal source details",
     "q": "What source factors determine whether scoliosis bracing is considered?",
-    "a": "Curve magnitude and remaining growth; it gives over25 degrees in a growing child as its exam threshold, not an individualized orthopedic protocol.",
+    "a": "Curve magnitude and remaining growth; it gives over 25 degrees in a growing child as its exam threshold, not an individualized orthopedic protocol.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 216,
@@ -26820,6 +26820,36 @@ export default [
     "guideline": {
       "text": "ACOG describes systemic estrogen as protecting against early menopausal bone loss and lists osteoporosis prevention among possible uses. This does not override USPSTF 2022 Grade D against routine primary prevention of chronic conditions in asymptomatic postmenopausal people.",
       "url": "https://www.acog.org/womens-health/faqs/hormone-therapy-for-menopause"
+    }
+  },
+  {
+    "id": "s2fm-2335",
+    "category": "Cardiology source details",
+    "q": "What AAA growth trigger does the PDF state for considering repair?",
+    "a": "More than 0.5 cm per month for 6 months, alongside its diameter threshold.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "ACC/AHA 2022 primary guideline section 6.5.5.3: growth of at least 0.5 cm in 6 months may justify repair (Class 2b). Diameter thresholds are at least 5.5 cm in men or 5.0 cm in women; symptoms and operative risk also matter.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9876736/"
+    }
+  },
+  {
+    "id": "s2fm-2336",
+    "category": "Cardiology source details",
+    "q": "What normal PR interval does the PDF give in its heart-block table?",
+    "a": "80-120 ms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-family-medicine.pdf#page=18"
+    },
+    "guideline": {
+      "text": "StatPearls 2024 AV-block clinical review gives the usual adult PR interval as 120-200 ms, with first-degree block above 200 ms. This is a directly fetched secondary reference, not an issuing-society guideline.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459147/"
     }
   }
 ];
