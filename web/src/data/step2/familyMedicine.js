@@ -30329,5 +30329,20 @@ export default [
       "text": "An ACC 2020 summary of a systematic review found evidence supporting beta blockers when COPD coexists with a cardiovascular indication, often favoring cardioselective agents. This older research summary is not a recommendation to give beta blockers for COPD itself or to disregard asthma/bronchospasm risks.",
       "url": "https://www.acc.org/latest-in-cardiology/journal-scans/2020/12/01/19/16/association-of-beta-blocker-use-with-survival"
     }
+  },
+  {
+    "id": "s2fm-2574",
+    "category": "Vasculitis source review",
+    "q": "What universal arterial territory does the PDF require for Takayasu arteritis?",
+    "a": "It says the subclavian arteries are always affected.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-family-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "Merck Professional describes Takayasu as affecting the aorta, its branches and sometimes pulmonary arteries, with the clinical pattern depending on the arteries involved. Common subclavian disease should not be turned into a requirement that every case has that territory affected.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/vasculitis/takayasu-arteritis"
+    }
   }
 ];
