@@ -7305,6 +7305,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 176,
       "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "NICE NG225 calls for early psychosocial assessment after self-harm, including its individual functions and safety needs. Cutting or a borderline-personality pattern must not be used to presume absent suicidal intent.",
+      "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
     }
   },
   {
@@ -28395,6 +28399,151 @@ export default [
     "guideline": {
       "text": "Merck Manual Professional review (2025), a secondary clinical source, allows bizarre or nonbizarre delusions and requires at least one month plus exclusion and functional criteria. Diagnosis requires psychiatric assessment, not a single unusual belief.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/delusional-disorder"
+    }
+  },
+  {
+    "id": "s2fm-2432",
+    "category": "Psychiatry detailed source review",
+    "q": "Which fixed grief-stage sequence does the PDF teach?",
+    "a": "Denial, anger, bargaining, lamentation, acceptance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "A January 2026 clinical review describes grief as occurring in waves, without a required linear sequence or set stages. This is a secondary review, not a diagnostic staging rule.",
+      "url": "https://www.psychiatrist.com/pcc/managing-grief-bereavement/"
+    }
+  },
+  {
+    "id": "s2fm-2433",
+    "category": "Psychiatry detailed source review",
+    "q": "What onset and duration shorthand does the PDF give for adjustment disorder?",
+    "a": "Symptoms start within three months of a stressor; it calls persistence longer than six months chronic adjustment disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    },
+    "guideline": {
+      "text": "Merck Manual Professional (2026), a secondary clinical reference, ties the six-month resolution window to termination of the stressor and its consequences, not simply symptom onset. Diagnosis also requires exclusion of a better-fitting disorder.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/anxiety-and-trauma-and-stressor-related-disorders/adjustment-disorders"
+    }
+  },
+  {
+    "id": "s2fm-2434",
+    "category": "Psychiatry detailed source review",
+    "q": "Which first-line treatments does the PDF name for adjustment disorder?",
+    "a": "CBT and SSRIs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    },
+    "guideline": {
+      "text": "Merck Manual Professional (2026), a secondary clinical reference, says evidence for psychotherapy and medication in adjustment disorder is limited. SSRIs have a stronger evidence base when a depressive or anxiety disorder is ultimately diagnosed; there is no universal SSRI requirement.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/anxiety-and-trauma-and-stressor-related-disorders/adjustment-disorders"
+    }
+  },
+  {
+    "id": "s2fm-2435",
+    "category": "Psychiatry detailed source review",
+    "q": "What behavior-duration shortcut does the PDF give for conduct disorder?",
+    "a": "A pattern of law-breaking for longer than six months beginning by age 17; it also says an exam may show only one act.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    },
+    "guideline": {
+      "text": "An AAFP 2018 clinical review, a secondary source reproducing DSM-5 criteria, requires at least three criteria in 12 months with at least one in the last six months and significant impairment. A single act or a criminal label alone does not establish the diagnosis.",
+      "url": "https://www.aafp.org/afp/2018/1115/p584"
+    }
+  },
+  {
+    "id": "s2fm-2436",
+    "category": "Psychiatry detailed source review",
+    "q": "What fixed BMI number does the PDF use in its anorexia diagnostic shorthand?",
+    "a": "BMI below 18.5.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "Merck Manual Professional (2025), a secondary clinical reference, assesses adult low weight in context and uses age-specific BMI/growth trajectory for children and adolescents. A single adult BMI cutoff is not a universal diagnostic rule.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/feeding-and-eating-disorders/anorexia-nervosa"
+    }
+  },
+  {
+    "id": "s2fm-2437",
+    "category": "Psychiatry detailed source review",
+    "q": "What treatment shortcut does the PDF give for anorexia, and how does it frame mirtazapine?",
+    "a": "CBT and/or an SSRI; it describes mirtazapine as an appetite-stimulating alpha-2 antagonist used when depression and anorexia coexist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "NIMH describes psychotherapy, medical monitoring and nutritional care. It states that no medication is FDA-approved for anorexia symptoms; medication can address co-occurring disorders. The source shortcut is not a substitute for nutritional and medical treatment.",
+      "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+    }
+  },
+  {
+    "id": "s2fm-2438",
+    "category": "Psychiatry detailed source review",
+    "q": "Which fracture pattern does the PDF connect to severe restrictive eating?",
+    "a": "Metatarsal stress fractures in the setting of reduced bone density; osteoporosis is a later risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-2439",
+    "category": "Psychiatry detailed source review",
+    "q": "Does the PDF require amenorrhea to diagnose anorexia?",
+    "a": "No. Amenorrhea can occur but is not mandatory for diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-2440",
+    "category": "Psychiatry detailed source review",
+    "q": "Attention-seeking behavior and discomfort when not the center of attention are linked to which personality pattern in the PDF?",
+    "a": "Histrionic personality disorder; its examples emphasize theatrical or sexually provocative behavior.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-2441",
+    "category": "Psychiatry detailed source review",
+    "q": "Which non-SSRI medication does the PDF name for generalized anxiety disorder?",
+    "a": "Buspirone, described as a serotonin-receptor agonist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-2442",
+    "category": "Psychiatry detailed source review",
+    "q": "What symptom cluster accompanies the PDF generalized-anxiety pattern?",
+    "a": "Persistent worry across several areas of life with restlessness, fatigue and muscle tension for at least six months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
     }
   }
 ];
