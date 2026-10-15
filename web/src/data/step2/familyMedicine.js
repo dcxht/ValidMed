@@ -3211,6 +3211,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 85,
       "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    },
+    "guideline": {
+      "text": "ISTH 2020 adult guidance recommends ADAMTS13 sampling and prompt plasma exchange plus corticosteroids when clinical suspicion is high, without waiting for ADAMTS13 results. This is specialist emergency care, not a requirement to accumulate the full classic pentad.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8146131/"
     }
   },
   {
@@ -19143,6 +19147,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 83,
       "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    },
+    "guideline": {
+      "text": "AAP 2022 technical guidance does not recommend bleeding time for bleeding-disorder screening because of poor test characteristics and invasiveness. PT/aPTT are not effective screening tests for VWD; appropriate specific testing may be needed.",
+      "url": "https://publications.aap.org/pediatrics/article/150/4/e2022059277/189508/Evaluating-for-Suspected-Child-Abuse-Conditions"
     }
   },
   {
@@ -19213,6 +19221,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 84,
       "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "ASH/ISTH/NHF/WFH 2021 VWD guidance requires subtype/response assessment for desmopressin. It is contraindicated in type 3 and generally contraindicated in type 2B. This VWD guideline does not establish a universal hemophilia-A regimen.",
+      "url": "https://ashpublications.org/bloodadvances/article/5/1/301/474884/ASH-ISTH-NHF-WFH-2021-guidelines-on-the-management"
     }
   },
   {
@@ -19257,6 +19269,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 85,
       "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    },
+    "guideline": {
+      "text": "ISTH 2020 adult diagnostic guidance uses thrombocytopenia, microangiopathic hemolysis and clinical pretest probability, not a required five-feature checklist. With high suspicion, obtain ADAMTS13 samples and start plasma exchange/corticosteroids without waiting for results. The 2025 update mainly addresses congenital-TTP prophylaxis, not a new required pentad.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8146131/"
     }
   },
   {
@@ -27784,6 +27800,96 @@ export default [
     "guideline": {
       "text": "MedlinePlus Genetics describes LHON primarily as inherited central vision loss, usually starting in teens or twenties, with mitochondrial inheritance. The source broad triad is not required for LHON diagnosis.",
       "url": "https://medlineplus.gov/genetics/condition/leber-hereditary-optic-neuropathy/"
+    }
+  },
+  {
+    "id": "s2fm-2395",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "What inheritance pattern does the PDF assign to von Willebrand disease?",
+    "a": "Autosomal dominant.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics says most type 1/type 2 disease is autosomal dominant, but type 3, some type 2 and a small number of type 1 cases are autosomal recessive. A single inheritance label does not cover all subtypes.",
+      "url": "https://medlineplus.gov/genetics/condition/von-willebrand-disease/"
+    }
+  },
+  {
+    "id": "s2fm-2396",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "What general treatment does the PDF name for von Willebrand disease?",
+    "a": "Desmopressin, to raise functional circulating von Willebrand factor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "ASH/ISTH/NHF/WFH 2021 guidance says desmopressin is ineffective and contraindicated in type 3, generally contraindicated in type 2B because of thrombocytopenia risk, and many type 2 patients need alternatives. Treatment requires subtype/response and safety assessment.",
+      "url": "https://ashpublications.org/bloodadvances/article/5/1/301/474884/ASH-ISTH-NHF-WFH-2021-guidelines-on-the-management"
+    }
+  },
+  {
+    "id": "s2fm-2397",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "What other dry-AMD option is missed by the PDF supportive-only summary?",
+    "a": "The source gives supportive care only, without stage-specific nutritional treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    },
+    "guideline": {
+      "text": "NEI AREDS/AREDS2 evidence supports selected formulations for intermediate AMD or advanced AMD in one eye, not routine benefit for no AMD or early AMD. Beta-carotene formulations have smoking-related lung-cancer risks; selection is not a universal supplement instruction.",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/aredsareds2-frequently-asked-questions"
+    }
+  },
+  {
+    "id": "s2fm-2398",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "What replacement/adjunct treatment does the PDF name for hemophilia A?",
+    "a": "Factor VIII replacement and desmopressin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    },
+    "guideline": {
+      "text": "WFH guideline recommendation 5.6.1 considers desmopressin for mild/moderate hemophilia A and carriers after testing the individual factor-VIII response. Baseline activity, response and duration determine suitability; this is not a universal severe-hemophilia regimen.",
+      "url": "https://www1.wfh.org/publications/files/pdf-1905.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2399",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "Which folate formulation does the PDF exclude when discussing methotrexate toxicity mitigation?",
+    "a": "It specifies folinic acid/leucovorin and says not folic acid.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    },
+    "guideline": {
+      "text": "ACR patient guidance updated February 2025 says folic acid or folate supplementation may reduce adverse effects during usual rheumatologic methotrexate treatment. Routine supplementation and leucovorin rescue for toxicity are different contexts; the blanket exclusion is incomplete.",
+      "url": "https://rheumatology.org/patients/methotrexate-rheumatrex-trexall-otrexup-rasuvo"
+    }
+  },
+  {
+    "id": "s2fm-2400",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "What blanket pregnancy restriction does the PDF place on warfarin?",
+    "a": "It is teratogenic and must be avoided in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    },
+    "guideline": {
+      "text": "The ACC summary of the 2020 ACC/AHA valve guideline describes selected mechanical-valve exceptions with close specialist monitoring and informed risk discussion, including continuing warfarin when less than 5 mg/day maintains therapeutic INR. Fetal and maternal risks both matter; this older US guideline summary is not a stand-alone pregnancy prescription.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/22/01/2020-acc-aha-vhd-gl-pt-3-gl-vhd"
     }
   }
 ];
