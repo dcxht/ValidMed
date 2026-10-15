@@ -15990,6 +15990,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 29,
       "url": "/mehlman/hy-family-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "ERS/ATS interpretive standard uses age-adjusted reference limits and discourages applying a fixed 0.70 ratio across all ages. This physiologic interpretation standard is distinct from the GOLD post-bronchodilator diagnostic threshold used for COPD.",
+      "url": "https://publications.ersnet.org/content/erj/60/1/2101499"
     }
   },
   {
@@ -16190,7 +16194,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=33"
     },
     "guideline": {
-      "text": "ATS/ERS/JRS/ALAT 2022: in an appropriate clinical setting, UIP/probable UIP on HRCT and multidisciplinary assessment can establish IPF without biopsy; biopsy is not universally required.",
+      "text": "ATS/ERS/JRS/ALAT 2022: In the appropriate clinical setting, UIP or probable UIP HRCT patterns may establish IPF after multidisciplinary discussion without lung biopsy. Tissue sampling is not mandatory in every case; alternative diagnoses and procedural risk matter.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9851481/"
     }
   },
@@ -16203,6 +16207,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 33,
       "url": "/mehlman/hy-family-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "ATS/ERS/JRS/ALAT 2022 distinguishes IPF from a UIP imaging or histologic pattern. UIP also occurs in connective-tissue disease and fibrotic hypersensitivity pneumonitis; it is not by itself a synonym for idiopathic disease.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9851481/"
     }
   },
   {
@@ -16240,6 +16248,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 34,
       "url": "/mehlman/hy-family-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "GOLD 2026 does not make ICS an automatic response to persistent symptoms on bronchodilators. Its exacerbation discharge advice considers ICS added to dual bronchodilators for at least one moderate/severe exacerbation with elevated blood eosinophils.",
+      "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
     }
   },
   {
@@ -30403,6 +30415,66 @@ export default [
     "guideline": {
       "text": "MedlinePlus SERPINA1 describes alpha-1 antitrypsin as a serine-protease inhibitor that controls neutrophil elastase activity and protects lung tissue, rather than an elastase-degrading enzyme.",
       "url": "https://medlineplus.gov/genetics/gene/serpina1/"
+    }
+  },
+  {
+    "id": "s2fm-2579",
+    "category": "Pulmonary exact-source review",
+    "q": "How does the source classify healthy old age in its obstructive-versus-restrictive table?",
+    "a": "It includes old age among obstructive conditions and labels 70% the normal FEV1/FVC.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-family-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "ERS/ATS: Healthy reference values vary with age, sex and height. Aging changes the expected ratio; a lower ratio in an older adult should not by itself be called obstructive disease without comparison to appropriate reference limits.",
+      "url": "https://publications.ersnet.org/content/erj/60/1/2101499"
+    }
+  },
+  {
+    "id": "s2fm-2580",
+    "category": "Pulmonary exact-source review",
+    "q": "What imaging terms does the PDF equate with honeycombing?",
+    "a": "Reticular or reticulonodular pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-family-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "ATS/ERS/JRS/ALAT 2022 defines honeycombing as clustered thick-walled cystic spaces. Reticulation can accompany honeycombing, but reticular markings alone do not mean honeycombing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9851481/"
+    }
+  },
+  {
+    "id": "s2fm-2581",
+    "category": "Pulmonary exact-source review",
+    "q": "Does the PDF require both chronic bronchitis and emphysema when it uses COPD?",
+    "a": "Yes. It says a smoker described as having COPD has both at the same time.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-family-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "Merck Professional says COPD comprises obstructive bronchitis and emphysema, but their relative contributions vary. Individual patients may have predominantly one component; the source conjunction is a simplification.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/chronic-obstructive-pulmonary-disease-and-related-disorders/chronic-obstructive-pulmonary-disease-copd"
+    }
+  },
+  {
+    "id": "s2fm-2582",
+    "category": "Pulmonary exact-source review",
+    "q": "What universal chronic blood-gas assertion does the source make for COPD?",
+    "a": "Patients with COPD are chronic CO2 retainers with chronic respiratory acidosis and bicarbonate compensation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-family-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "Merck Professional associates CO2 retention with more advanced disease and recognizes exacerbations with or without CO2 retention. Chronic hypercapnia is not present in every person with COPD.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/chronic-obstructive-pulmonary-disease-and-related-disorders/chronic-obstructive-pulmonary-disease-copd"
     }
   }
 ];
