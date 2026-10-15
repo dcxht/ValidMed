@@ -43334,6 +43334,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 298,
       "url": "/mehlman/hy-family-medicine.pdf#page=298"
+    },
+    "guideline": {
+      "text": "The AHA/ASA secondary-stroke-prevention checklist addresses blood-pressure treatment and smoking cessation together, alongside cause-specific antithrombotic therapy, lipids and other risks. Its hypertension priority does not mean smoking cessation is optional or that lisinopril is the only required drug. AF-related and noncardioembolic events have different antithrombotic pathways.",
+      "url": "https://www.stroke.org/en/professionals/stroke-resource-library/prevention/secondary-stroke-prevention-checklist"
     }
   },
   {

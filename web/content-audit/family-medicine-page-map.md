@@ -298,7 +298,7 @@ All source locations after semantic consolidation. This is a locator index, not 
 | 295 | s2fm-0168, s2fm-1080, s2fm-1081, s2fm-1082, s2fm-1083, s2fm-2521, s2fm-2522, s2fm-3409, s2fm-3462 | 0 | 3 |
 | 296 | s2fm-2294, s2fm-2529, s2fm-3410, s2fm-3411, s2fm-3461 | 0 | 0 |
 | 297 | s2fm-0079, s2fm-1084, s2fm-1861, s2fm-2295, s2fm-2530, s2fm-3071, s2fm-3412, s2fm-3413 | 0 | 0 |
-| 298 | s2fm-1291, s2fm-1345, s2fm-2296, s2fm-3414, s2fm-3415 | 0 | 0 |
+| 298 | s2fm-1291, s2fm-1345, s2fm-2296, s2fm-3414, s2fm-3415 | 0 | 1 |
 | 299 | s2fm-1292, s2fm-1350, s2fm-1866, s2fm-2531, s2fm-2532 | 0 | 1 |
 | 300 | s2fm-1086, s2fm-1350, s2fm-1351, s2fm-2298, s2fm-2299, s2fm-2533, s2fm-2560, s2fm-3416 | 0 | 5 |
 | 301 | s2fm-1087, s2fm-2302, s2fm-2534, s2fm-2535, s2fm-2627, s2fm-3409, s2fm-3417, s2fm-3418 | 0 | 5 |
