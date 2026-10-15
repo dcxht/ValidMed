@@ -20111,5 +20111,161 @@ export default [
       "text": "TSC Alliance criteria include multiple cortical tubers/subependymal nodules, facial angiofibromas, ungual fibromas, cardiac rhabdomyoma, LAM and multiple angiomyolipomas as major features. The source list matches the classic multisystem pattern.",
       "url": "https://www.tscalliance.org/understanding-tsc/diagnosis-criteria/"
     }
+  },
+  {
+    "id": "s2peds-1415",
+    "category": "Pediatric genetics",
+    "q": "Which condition is shown by the p100 facial papules labeled adenoma sebaceum?",
+    "a": "Tuberous sclerosis; adenoma sebaceum means facial angiofibromas.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "TSC Alliance counts three or more facial angiofibromas or a fibrous cephalic plaque as a major diagnostic feature. This actual photograph completes the p99 text reference.",
+      "url": "https://www.tscalliance.org/understanding-tsc/diagnosis-criteria/"
+    },
+    "img": "/mehlman/figures/peds-p100-tsc-adenoma-sebaceum.png",
+    "imgAlt": "Actual source photograph of facial angiofibromas in tuberous sclerosis"
+  },
+  {
+    "id": "s2peds-1416",
+    "category": "Pediatric neurology",
+    "q": "Which syndrome is shown by the p100 unilateral facial port-wine birthmark?",
+    "a": "Sturge-Weber syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "A 2024 multidisciplinary consensus describes Sturge-Weber syndrome as facial capillary malformation plus leptomeningeal vascular and/or ocular involvement, with high-risk lesions involving the forehead or upper eyelid/frontonasal region.",
+      "url": "https://link.springer.com/article/10.1186/s13023-024-03527-w"
+    },
+    "img": "/mehlman/figures/peds-p100-sturge-weber.png",
+    "imgAlt": "Actual source photograph of a child with a unilateral facial port-wine birthmark"
+  },
+  {
+    "id": "s2peds-1417",
+    "category": "Pediatric dermatology",
+    "q": "How does p100 describe the classic Sturge-Weber birthmark and its alternate vignette wording?",
+    "a": "A port-wine-stain birthmark, also called nevus flammeus, which may be described as violaceous papules in a temporal distribution.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "The 2024 consensus calls the lesion a facial capillary malformation and says frontotemporal, forehead, upper-eyelid or frontonasal distribution raises concern. Preserve the source's violaceous-papules phrase as vignette wording, not the preferred lesion description.",
+      "url": "https://link.springer.com/article/10.1186/s13023-024-03527-w"
+    }
+  },
+  {
+    "id": "s2peds-1418",
+    "category": "Pediatric neurology",
+    "q": "Which neurologic and ocular associations does p100 give for Sturge-Weber syndrome?",
+    "a": "Leptomeningeal angioma causing seizures, plus glaucoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "The 2024 consensus and StatPearls support leptomeningeal vascular malformation with epilepsy and ocular involvement including glaucoma. MRI with contrast is the diagnostic gold standard when intracranial disease is suspected.",
+      "url": "https://link.springer.com/article/10.1186/s13023-024-03527-w"
+    }
+  },
+  {
+    "id": "s2peds-1419",
+    "category": "Pediatric genetics",
+    "q": "What inheritance pattern does p100 give for Sturge-Weber syndrome?",
+    "a": "It is not inherited; it results from somatic mosaicism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "MedlinePlus confirms Sturge-Weber syndrome is not inherited and is caused by a somatic GNAQ mutation in a mosaic distribution. The 2024 consensus also notes GNAQ or less commonly GNA11.",
+      "url": "https://medlineplus.gov/genetics/condition/sturge-weber-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-1420",
+    "category": "Pediatric endocrinology",
+    "q": "Which syndrome is shown by the p100 irregular café-au-lait macules respecting the midline?",
+    "a": "McCune-Albright syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "The FD/MAS international consensus describes characteristic café-au-lait macules with jagged, irregular coast-of-Maine borders and a tendency to respect the midline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6567644/"
+    },
+    "img": "/mehlman/figures/peds-p100-mccune-albright.png",
+    "imgAlt": "Actual source photograph of coast-of-Maine café-au-lait macules in McCune-Albright syndrome"
+  },
+  {
+    "id": "s2peds-1421",
+    "category": "Pediatric endocrinology",
+    "q": "What triad does p100 give for McCune-Albright syndrome?",
+    "a": "Coast-of-Maine café-au-lait spots, polyostotic fibrous dysplasia and endocrine hypersecretion, classically precocious puberty.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "The international consensus defines MAS as fibrous dysplasia plus at least one extraskeletal feature, or two extraskeletal features; the classic source triad is useful but not every patient has all three elements.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6567644/"
+    }
+  },
+  {
+    "id": "s2peds-1422",
+    "category": "Pediatric dermatology",
+    "q": "What alternate name does p100 give for blue nevus, and what correction does current terminology require?",
+    "a": "The source says blue nevus is aka Mongolian spot. Current terminology treats blue nevus and congenital dermal melanocytosis (Mongolian spot) as distinct entities.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "DermNet defines blue nevus as a small dermal melanocytic nevus that usually persists, while PCDS defines Mongolian spots as congenital blue-gray patches, usually lumbosacral, that usually fade in early childhood. Do not treat them as synonyms.",
+      "url": "https://dermnetnz.org/topics/blue-naevus"
+    }
+  },
+  {
+    "id": "s2peds-1423",
+    "category": "Pediatric dermatology",
+    "q": "What mechanism does p100 give for blue nevus?",
+    "a": "A benign birthmark in which dermal melanocytes fail to migrate superficially to the stratum basale.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "PCDS uses this failed-migration explanation for congenital dermal melanocytosis. DermNet says blue nevi also arise from incomplete neural-crest melanocyte migration but are nevi with dermal spindle or ovoid cells; the mechanism is similar, the diagnoses are not identical.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/mongolian-spot"
+    }
+  },
+  {
+    "id": "s2peds-1424",
+    "category": "Pediatric dermatology",
+    "q": "What demographic pattern does p100 give for blue nevus?",
+    "a": "The source says it is more common in Asians and Black patients.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 100,
+      "url": "/mehlman/hy-pediatrics.pdf#page=100"
+    },
+    "guideline": {
+      "text": "DermNet reports blue nevi are more common among Asian adults, while PCDS says Mongolian spots mainly occur in babies of East Asian ancestry and less frequently in other groups. Preserve the source claim but avoid merging the two lesions' epidemiology.",
+      "url": "https://dermnetnz.org/topics/blue-naevus"
+    }
   }
 ];
