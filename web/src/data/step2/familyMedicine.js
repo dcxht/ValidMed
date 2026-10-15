@@ -32613,5 +32613,250 @@ export default [
       "page": 103,
       "url": "/mehlman/hy-family-medicine.pdf#page=103"
     }
+  },
+  {
+    "id": "s2fm-2742",
+    "category": "Hereditary breast risk source review",
+    "q": "What risk-reducing operations does the PDF choose for a confirmed BRCA mutation?",
+    "a": "Bilateral mastectomy and oophorectomy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "NCI describes enhanced screening, medication and risk-reducing surgery as options requiring individual decisions. Ovarian risk-reducing surgery removes tubes as well as ovaries; the source answer is not a mandate for identical immediate surgery in every carrier.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/genetics/brca-fact-sheet"
+    }
+  },
+  {
+    "id": "s2fm-2743",
+    "category": "Breast source treatment and biopsy review",
+    "q": "What biopsy procedure does the PDF choose for all complex breast cysts?",
+    "a": "Fine-needle aspiration biopsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "American Cancer Society guidance distinguishes complicated cysts from complex cystic/solid masses, for which core needle biopsy is usually needed. The categories and tissue-sampling choices are not interchangeable.",
+      "url": "https://www.cancer.org/cancer/types/breast-cancer/non-cancerous-breast-conditions/fibrosis-and-simple-cysts-in-the-breast.html"
+    }
+  },
+  {
+    "id": "s2fm-2744",
+    "category": "Breast source treatment and biopsy review",
+    "q": "What drug-and-feeding treatment does the source give for lactational mastitis?",
+    "a": "Oral dicloxacillin or equivalent antistaphylococcal therapy plus continued breastfeeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "ABM Protocol 36 (2022) distinguishes inflammatory mastitis from bacterial mastitis and reserves antibiotics for bacterial disease. Redness, pain and even systemic inflammatory symptoms can occur without infection; breastfeeding can usually continue.",
+      "url": "https://www.breastfeedingmedicine.com/assets/ABM%20Protocol%20%2336.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2745",
+    "category": "STI exact-source review",
+    "q": "What preferred systemic drug does the PDF choose for established gonococcal conjunctivitis in a neonate?",
+    "a": "IM cefotaxime, labeled its preferred pediatric third-generation cephalosporin if listed.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    },
+    "guideline": {
+      "text": "CDC recommends single-dose IV/IM ceftriaxone for gonococcal ophthalmia, with caution in hyperbilirubinemia, especially prematurity. Cefotaxime is an option when ceftriaxone cannot be used because of concurrent IV calcium. Neonatal selection is condition-specific.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+    }
+  },
+  {
+    "id": "s2fm-2746",
+    "category": "STI exact-source review",
+    "q": "What culture limitation does the PDF state for Chlamydia?",
+    "a": "It is obligately intracellular, so cannot be grown.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    },
+    "guideline": {
+      "text": "A CDC-hosted primary study describes viable C. trachomatis isolation in cell culture, including clinical specimens. It does not grow on ordinary cell-free bacterial media, but that is different from being unculturable.",
+      "url": "https://wwwnc.cdc.gov/eid/article/14/3/07-1071_article"
+    }
+  },
+  {
+    "id": "s2fm-2747",
+    "category": "STI exact-source review",
+    "q": "What reagents does the source say are mixed in an FTA syphilis test?",
+    "a": "Patient serum with fluorescent Treponema antibodies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    },
+    "guideline": {
+      "text": "CDC 2024 laboratory guidance describes patient antibodies binding fixed whole T. pallidum on a slide, detected using fluorescein-labeled antihuman immunoglobulin. The fluorescent detector is anti-human immunoglobulin, not fluorescent Treponema antibody added to patient serum.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7301a1.htm"
+    }
+  },
+  {
+    "id": "s2fm-2748",
+    "category": "STI exact-source review",
+    "q": "What antibody target does the PDF identify when explaining VDRL flocculation?",
+    "a": "It says antibodies against T. pallidum cause clumping with cardiolipin antigen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC 2024 describes nontreponemal lipoidal tests detecting antibodies to cardiolipin, cholesterol and phosphatidylcholine, which can arise from host and bacterial antigens. False positives occur in other conditions; this is not a T. pallidum-specific antibody test.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7301a1.htm"
+    }
+  },
+  {
+    "id": "s2fm-2749",
+    "category": "STI and cervical source detail review",
+    "q": "What blanket treatment rule does the PDF give for CIN II and CIN III?",
+    "a": "Both require excision or ablation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "ASCCP 2019 guidance includes selected CIN2 observation with six-month colposcopy/HPV-based surveillance and risk-based treatment decisions. CIN2 and CIN3 should not be collapsed into an identical mandatory-treatment rule.",
+      "url": "https://asccp.org/wp-content/uploads/2025/09/2019_ASCCP_Risk_Based_Management_Consensus.3.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2750",
+    "category": "STI and cervical source detail review",
+    "q": "What does the source allow when beta-lactam allergy caused only a rash rather than anaphylaxis?",
+    "a": "Give the beta-lactam anyway.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    },
+    "guideline": {
+      "text": "CDC distinguishes low-risk nonurticarial/delayed rash from high-risk or severe delayed reactions and uses allergy assessment/testing when needed. A history described only as rash is not enough to authorize every beta-lactam.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/penicillin-allergy.htm"
+    }
+  },
+  {
+    "id": "s2fm-2751",
+    "category": "STI and cervical source detail review",
+    "q": "What two joint patterns does the source give for disseminated gonorrhea?",
+    "a": "Monoarthritis, often a knee, or arthritis plus pustular skin lesions and tenosynovitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-2752",
+    "category": "STI and cervical source detail review",
+    "q": "What source next step applies to a recent asymptomatic partner of someone with chlamydia or gonorrhea?",
+    "a": "Evaluate and give presumptive treatment rather than delaying all treatment until results return; exposure timing and regimen still require clinical assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-2753",
+    "category": "STI and cervical source detail review",
+    "q": "What source admission clue accompanies PID?",
+    "a": "Severe illness/sepsis features such as high fever, tachycardia and leukocytosis, prompting inpatient IV antibiotics rather than routine outpatient treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-2754",
+    "category": "STI and cervical source detail review",
+    "q": "How does the source prevent neonatal chlamydial eye infection, and how does it treat an affected neonate?",
+    "a": "Treat maternal infection during pregnancy; it names oral erythromycin for the affected neonate and warns of associated chlamydial pneumonia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-2755",
+    "category": "STI and cervical source detail review",
+    "q": "Which non-genital HPV 6/11 condition in newborns does the PDF mention?",
+    "a": "Laryngeal papillomatosis involving the vocal cords.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-2756",
+    "category": "STI and cervical source detail review",
+    "q": "How do the source trichomoniasis and candidiasis erythema-with-discharge clues differ?",
+    "a": "Trichomoniasis may cause yellow-green discharge and an erythematous canal; candidiasis can cause itching/erythema with no obvious discharge, or thick white discharge.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-2757",
+    "category": "STI and cervical source detail review",
+    "q": "What vascular complication does the source associate with tertiary syphilis?",
+    "a": "Ascending aortitis with tree-bark changes involving the vasa vasorum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-2758",
+    "category": "STI and cervical source detail review",
+    "q": "Which material makes RPR flocculation visible in the source test description?",
+    "a": "Charcoal particles; a positive result still needs interpretation with treponemal testing and the clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-2759",
+    "category": "STI and cervical source detail review",
+    "q": "What does a negative viral culture mean in the PDF recurrent-HSV discussion?",
+    "a": "It does not exclude HSV, because culture is not perfectly sensitive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-2760",
+    "category": "STI and cervical source detail review",
+    "q": "How does the PDF compare primary versus recurrent genital HSV severity?",
+    "a": "Primary infection is often more severe with fever, regional nodes and many painful vesicles; recurrences are often milder and preceded by burning/tingling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
   }
 ];
