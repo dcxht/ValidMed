@@ -19130,6 +19130,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 82,
       "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "An ASH2006 image teaching article attributes true rouleaux to increased plasma proteins such as immunoglobulins/fibrinogen and notes both disease alternatives and smear artifact. It does not establish the source specific light-chain-sticking-to-RBC explanation.",
+      "url": "https://ashpublications.org/blood/article/107/11/4205/21991/Rouleaux-formation"
     }
   },
   {
@@ -36783,6 +36787,96 @@ export default [
     "guideline": {
       "text": "Merck Professional gives 15-25% mortality at6weeks and emphasizes underlying liver disease as a major determinant. These are population estimates with a stated horizon, not a prediction for an individual or a universally fixed50% fatality.",
       "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/gastrointestinal-bleeding/varices"
+    }
+  },
+  {
+    "id": "s2fm-3083",
+    "category": "Outstanding-source-ledger review",
+    "q": "How long after TB exposure does the PDF say sputum cultures become positive?",
+    "a": "Two to five weeks after exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CDC Yellow Book distinguishes infection-test conversion, disease progression and laboratory culture time. Progression to disease ranges from weeks to decades, while culturing/identifying organisms from a specimen takes about2-8weeks. That laboratory turnaround is not a fixed exposure-to-sputum-positivity interval.",
+      "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/tuberculosis.html"
+    }
+  },
+  {
+    "id": "s2fm-3084",
+    "category": "Outstanding-source-ledger review",
+    "q": "What blanket interaction does the PDF state between PPIs and sucralfate?",
+    "a": "It says they cannot be taken together because acid suppression impairs sucralfate action.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "The DailyMed lansoprazole label gives a specific coadministration instruction: take lansoprazole at least30minutes before sucralfate. A timed interaction is not an absolute class-wide prohibition against both medicines appearing in a treatment plan.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9b3869ad-f2f7-4954-b75c-5c23b8951635"
+    }
+  },
+  {
+    "id": "s2fm-3085",
+    "category": "Outstanding-source-ledger review",
+    "q": "How does the PDF explain DIC after treatment of AML?",
+    "a": "Leukemic-cell lysis releases Auer rods into circulation, precipitating DIC.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "A peer-reviewed2011 APL pathophysiology review describes leukemic-cell tissue factor/procoagulant activity, fibrinolytic pathways and inflammatory interactions. Coagulopathy can be present before treatment and worsen with cytotoxic lysis. This older secondary mechanism review does not establish circulating intact Auer rods as the sole causal mechanism or serve as a current APL-treatment guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3248345/"
+    }
+  },
+  {
+    "id": "s2fm-3086",
+    "category": "Outstanding-source-ledger review",
+    "q": "What class-wide antifungal interaction does the PDF state for PPIs?",
+    "a": "It says PPIs cannot be given with any -azole antifungal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "A2002 human pharmacokinetic study found fluconazole increased omeprazole exposure through metabolic inhibition, not a universal loss of antifungal absorption. Azole/PPI interactions must be checked for the specific drug/formulation; this study does not prove the pair interaction-free or establish a class-wide contraindication.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11932962/"
+    }
+  },
+  {
+    "id": "s2fm-3087",
+    "category": "Outstanding-source-ledger review",
+    "q": "What strict sensory exclusion does the PDF use for ALS?",
+    "a": "It says sensory findings are absent and their presence points away from ALS.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    },
+    "guideline": {
+      "text": "A2023 systematic review documents sensory neuropathy/signs in some ALS patients and says sensory alterations should not be an absolute exclusion criterion. This is secondary evidence, not a change to the need to evaluate alternative or coexisting causes; the typical pattern remains predominantly motor.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10632209/"
+    }
+  },
+  {
+    "id": "s2fm-3088",
+    "category": "Outstanding-source-ledger review",
+    "q": "What protein-transport explanation does the PDF give for macrocytosis in myeloma?",
+    "a": "It says RBCs transport extra immunoglobulins, increasing their size, with larger cells also compensating for low marrow production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "A2006 macrocytosis review lists myeloma among associated disorders and describes nutritional deficiency, marrow disease, drugs, reticulocytosis and artifacts as mechanisms requiring evaluation. It does not establish RBC immunoglobulin transport as the cause. The source exact mechanism remains unverified rather than a confirmed fact.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1570488/"
     }
   }
 ];
