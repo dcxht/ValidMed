@@ -15391,7 +15391,7 @@ export default [
     "id": "s2fm-1232",
     "category": "Ophthalmology images",
     "q": "Blue sclerae occur in a patient with recurrent fractures. Which source collagen disorder is considered?",
-    "a": "Osteogenesis imperfecta, commonly involving typeI collagen.",
+    "a": "Osteogenesis imperfecta, commonly involving type I collagen.",
     "img": "/s2img/fm-206-0.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -18000,7 +18000,7 @@ export default [
     "id": "s2fm-1446",
     "category": "Infectious disease source details",
     "q": "Which organism and host-risk settings does the PDF emphasize for epiglottitis?",
-    "a": "Haemophilus influenzae typeB, especially absent vaccination or impaired splenic function. This is not the only possible cause.",
+    "a": "Haemophilus influenzae type B, especially absent vaccination or impaired splenic function. This is not the only possible cause.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 41,
@@ -18085,7 +18085,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=43"
     },
     "guideline": {
-      "text": "CDC 2025 uses at least 5,10 or 15 mm, with risk-specific categories. Measure induration, not redness, and assessTB symptoms regardless of the skin-test result.",
+      "text": "CDC 2025 uses at least 5,10 or 15 mm, with risk-specific categories. Measure induration, not redness, and assess TB symptoms regardless of the skin-test result.",
       "url": "https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
     }
   },
@@ -18126,7 +18126,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=43"
     },
     "guideline": {
-      "text": "AAO-HNS 2022: do not insert tubes for recurrentAOM if no middle-ear effusion is present at candidacy assessment; offer bilateral tubes when recurrentAOM has unilateral/bilateral effusion. Counts alone are not the full decision.",
+      "text": "AAO-HNS 2022: do not insert tubes for recurrent AOM if no middle-ear effusion is present at candidacy assessment; offer bilateral tubes when recurrent AOM has unilateral/bilateral effusion. Counts alone are not the full decision.",
       "url": "https://bulletin.entnet.org/home/article/22030720/guideline-update-key-action-statements"
     },
     "sourcePages": [
@@ -20496,7 +20496,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=80"
     },
     "guideline": {
-      "text": "AGA 2024 recommendsIV iron for intolerance, failed ferritin improvement or poor absorption, including selected inflammatory/bariatric cases. The source always-oral rule is not universal.",
+      "text": "AGA 2024 recommends IV iron for intolerance, failed ferritin improvement or poor absorption, including selected inflammatory/bariatric cases. The source always-oral rule is not universal.",
       "url": "https://gastro.org/clinical-guidance/management-of-iron-deficiency-anemia/"
     }
   },
@@ -39904,7 +39904,7 @@ export default [
     "id": "s2fm-3140",
     "category": "Final source-mapping details",
     "q": "Which combinations does the PDF choose for neonatal group-B-streptococcal meningitis?",
-    "a": "Ampicillin plus gentamicin, or ampicillin plus cefotaxime. It rejects vancomycin/ceftriaxone for its neonatalGBS exam scenario; this is a source distinction, not a universal regimen for every age or susceptibility pattern.",
+    "a": "Ampicillin plus gentamicin, or ampicillin plus cefotaxime. It rejects vancomycin/ceftriaxone for its neonatal GBS exam scenario; this is a source distinction, not a universal regimen for every age or susceptibility pattern.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 156,
@@ -39922,7 +39922,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=156"
     },
     "guideline": {
-      "text": "The retrieved DailyMed ceftriaxone label(updated 2023) contraindicates use in hyperbilirubinemic neonates, premature neonates up to 41 weeks postmenstrual age, and neonates 28 days or younger requiring/expected to require calcium-containingIV solutions. Bilirubin displacement risks encephalopathy; ceftriaxone-calcium precipitation has caused fatal neonatal outcomes. These are distinct mechanisms, not simply a higher total-bilirubin number.",
+      "text": "The retrieved DailyMed ceftriaxone label(updated 2023) contraindicates use in hyperbilirubinemic neonates, premature neonates up to 41 weeks postmenstrual age, and neonates 28 days or younger requiring/expected to require calcium-containing IV solutions. Bilirubin displacement risks encephalopathy; ceftriaxone-calcium precipitation has caused fatal neonatal outcomes. These are distinct mechanisms, not simply a higher total-bilirubin number.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ea1db43-40fa-417b-8911-ae98092070a0"
     }
   },
@@ -39930,7 +39930,7 @@ export default [
     "id": "s2fm-3142",
     "category": "Final source-mapping details",
     "q": "How does the source use TMP-SMX prophylaxis to link Pneumocystis and toxoplasmosis?",
-    "a": "It startsPJP prophylaxis belowCD 4 200, then treats the same TMP-SMX as covering toxoplasma onceCD 4 is below 100. These are the PDF thresholds; toxoplasma eligibility also requires the separately noted IgG status.",
+    "a": "It starts PJP prophylaxis below CD 4 200, then treats the same TMP-SMX as covering toxoplasma once CD 4 is below 100. These are the PDF thresholds; toxoplasma eligibility also requires the separately noted IgG status.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 157,
@@ -39978,7 +39978,7 @@ export default [
     "id": "s2fm-3146",
     "category": "Final source-mapping details",
     "q": "What routine tetanus/pertussis vaccination timetable does the PDF list?",
-    "a": "DTaP at 2,4,6 and 15-18 months, then 4-6 years; Tdap at 11-12 years; thenTd every 10 years. It separately listsTdap at 27-36 weeks during pregnancy. This is its routine schedule, distinct from its separately corrected wound-prophylaxis rule.",
+    "a": "DTaP at 2,4,6 and 15-18 months, then 4-6 years; Tdap at 11-12 years; then Td every 10 years. It separately lists Tdap at 27-36 weeks during pregnancy. This is its routine schedule, distinct from its separately corrected wound-prophylaxis rule.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 160,
@@ -40578,7 +40578,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "NICECG 192 recommendation 1.8.22(2014) says considerECT for pregnant women with severe depression, severe mixed affective states/mania, or catatonia when the woman's or fetus's physical health is at serious risk. This supports a specialist risk-based option, not a blanket risk-free procedure.",
+      "text": "NICECG 192 recommendation 1.8.22(2014) says consider ECT for pregnant women with severe depression, severe mixed affective states/mania, or catatonia when the woman's or fetus's physical health is at serious risk. This supports a specialist risk-based option, not a blanket risk-free procedure.",
       "url": "https://www.nice.org.uk/guidance/cg192/chapter/recommendations"
     }
   },
@@ -40682,7 +40682,7 @@ export default [
     "id": "s2fm-3199",
     "category": "Final source-mapping details",
     "q": "Which hallucinogen does the source associate with visual hallucinations, and what acute drug group does it name?",
-    "a": "LSD, with benzodiazepines and emergency observation in its source acute-intoxication approach. It similarly lists benzodiazepines for acute cocaine, amphetamine,PCP andMDMA presentations; the full emergency assessment is not supplied.",
+    "a": "LSD, with benzodiazepines and emergency observation in its source acute-intoxication approach. It similarly lists benzodiazepines for acute cocaine, amphetamine,PCP and MDMA presentations; the full emergency assessment is not supplied.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 187,
@@ -40793,7 +40793,7 @@ export default [
     "id": "s2fm-3208",
     "category": "Final source-mapping details",
     "q": "What preventive switch does the PDF recommend after years on a typical antipsychotic without tardive dyskinesia?",
-    "a": "Switch to an atypical to reduce futureTD risk, in its cited exam scenario. This source blanket answer is not an instruction to destabilize a successful regimen without supervised risk-benefit review.",
+    "a": "Switch to an atypical to reduce future TD risk, in its cited exam scenario. This source blanket answer is not an instruction to destabilize a successful regimen without supervised risk-benefit review.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 190,
@@ -40808,7 +40808,7 @@ export default [
     "id": "s2fm-3209",
     "category": "Final source-mapping details",
     "q": "What channel mechanisms does the PDF assign to valproate, carbamazepine and phenytoin?",
-    "a": "Sodium-channel block for all three; increasedGABA is also listed for valproate. These are source pharmacology summaries, not a complete mechanism or selection algorithm.",
+    "a": "Sodium-channel block for all three; increased GABA is also listed for valproate. These are source pharmacology summaries, not a complete mechanism or selection algorithm.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 191,
@@ -40904,7 +40904,7 @@ export default [
     "id": "s2fm-3217",
     "category": "Final source-mapping details",
     "q": "What descriptive arteriole shape accompanies the PDF hypertensive-retinopathy example?",
-    "a": "A sausage-like appearance, along with arteriolar narrowing andAV nicking. It is a source descriptive clue, not a unique systemic diagnosis from appearance alone.",
+    "a": "A sausage-like appearance, along with arteriolar narrowing and AV nicking. It is a source descriptive clue, not a unique systemic diagnosis from appearance alone.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 199,
@@ -41270,7 +41270,7 @@ export default [
     "id": "s2fm-3248",
     "category": "Final source-mapping details",
     "q": "How does the PDF describe hand placement for varus versus valgus knee stress?",
-    "a": "Varus: push the medial knee outward while pushing the lateral ankle inward, testingLCL. Valgus: push the lateral knee inward while moving the medial ankle outward, testingMCL. These source descriptions assess lateral versus medial opening relative to the other knee.",
+    "a": "Varus: push the medial knee outward while pushing the lateral ankle inward, testing LCL. Valgus: push the lateral knee inward while moving the medial ankle outward, testing MCL. These source descriptions assess lateral versus medial opening relative to the other knee.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 219,
