@@ -311,7 +311,7 @@ export default [
     "id": "s2fm-0029",
     "category": "Arrhythmias",
     "q": "A stable tachycardia has wide QRS complexes. How does this compare with SVT, and which drug does the PDF name for VT?",
-    "a": "Ventricular tachycardia is wide-complex; SVT is narrow-complex. The PDF names amiodarone for stable VT and cardioversion for coma or hemodynamic instability.",
+    "a": "The PDF contrasts wide VT with narrow SVT and names amiodarone for stable VT, cardioversion for instability. This source shorthand does not classify every wide-complex rhythm by width alone.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 13,
@@ -1618,7 +1618,7 @@ export default [
     "id": "s2fm-0146",
     "category": "Pharyngitis",
     "q": "What four findings make up the simplified Centor criteria in the PDF?",
-    "a": "Absence of cough, fever over 38 C, tonsillar exudates and cervical lymphadenopathy. They estimate likelihood of streptococcal pharyngitis; the score is not itself organism confirmation.",
+    "a": "The PDF simplifies them to absent cough, fever over38C, tonsillar exudates and cervical lymphadenopathy. These are the source terms, not confirmation of group A streptococcal infection.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 46,
@@ -7027,8 +7027,8 @@ export default [
   {
     "id": "s2fm-0614",
     "category": "Psychiatry",
-    "q": "An older adult has apathy and poor cognitive-test performance associated with depression. What dementia mimic is described?",
-    "a": "Depression-associated cognitive impairment, traditionally called pseudodementia.",
+    "q": "What clock-drawing behavior does the PDF use in its depressive cognitive-impairment vignette?",
+    "a": "Initially incomplete clock drawing that can be finished quickly with prompting, alongside low mood and quiet answers. This is a source clue, not a stand-alone test distinguishing depression from dementia.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 171,
@@ -15652,8 +15652,8 @@ export default [
   {
     "id": "s2fm-1359",
     "category": "Cardiology source details",
-    "q": "What interval and mechanism does the PDF use for early versus Dressler pericarditis?",
-    "a": "Early post-MI fibrinous pericarditis occurs within days; Dressler is its antibody-mediated syndrome 2-6 weeks later.",
+    "q": "What next imaging study does the source choose after ECG for pericarditis?",
+    "a": "Echocardiography to look for a concomitant effusion. Its early/Dressler timing distinction is covered separately.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 15,
@@ -17150,8 +17150,8 @@ export default [
   {
     "id": "s2fm-1489",
     "category": "Renal source details",
-    "q": "Which nephrotic lesion does the source say is less steroid-responsive than minimal-change disease?",
-    "a": "Focal segmental glomerulosclerosis. The source associates it with HIV, sickle-cell disease and heroin use.",
+    "q": "Which renal structure does the PDF identify as affected in its interstitial-nephritis localization question?",
+    "a": "The renal tubule/tubulointerstitial compartment rather than an efferent arteriole, in its answer-choice example.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 49,
@@ -19047,8 +19047,8 @@ export default [
   {
     "id": "s2fm-1656",
     "category": "Hematology source details",
-    "q": "How does the source contrast electrophoresis in alpha-thalassemia trait versus beta-thalassemia?",
-    "a": "Alpha trait may have a normal electrophoresis; beta-thalassemia commonly increases HbA2 and HbF. Genetic testing/context can be important.",
+    "q": "What adult screening context does the source use for incidentally detected alpha-thalassemia microcytosis?",
+    "a": "Antenatal screening in an otherwise asymptomatic adult, which can be mistaken for iron deficiency; assessment of iron status and hemoglobin/genetic findings distinguishes them.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 80,
@@ -26033,8 +26033,8 @@ export default [
   {
     "id": "s2fm-2250",
     "category": "Rapid-review source details",
-    "q": "What mechanism causes source electrical alternans with a large pericardial effusion?",
-    "a": "Beat-to-beat variation in QRS appearance as the heart changes position; the source associates this with effusion/tamponade rather than diagnosing tamponade from ECG alone.",
+    "q": "Which drainage alternatives does the rapid PDF name for cardiac tamponade?",
+    "a": "Pericardiocentesis or a pericardial window, with timing and method determined by urgent clinical assessment.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 269,
@@ -26793,8 +26793,8 @@ export default [
   {
     "id": "s2fm-2314",
     "category": "Rapid-review source details",
-    "q": "What source disease process links iron deficiency to dysphagia and esophageal webs?",
-    "a": "Plummer-Vinson syndrome; associated angular oral changes/spoon nails can reinforce the iron-deficiency pattern.",
+    "q": "What nail morphology reinforces the source Plummer-Vinson iron-deficiency vignette?",
+    "a": "Koilonychia, spoon-shaped nails, alongside angular cheilitis and dysphagia/esophageal webs.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 308,
@@ -29426,8 +29426,8 @@ export default [
   {
     "id": "s2fm-2497",
     "category": "Rapid-bullet detailed review",
-    "q": "What inactive thyroid-hormone metabolite does the PDF associate with illness/stress?",
-    "a": "Reverse T3, produced from T4. Its simplified nonthyroidal-illness pattern is low T3 with increased reverse T3; results vary with illness severity.",
+    "q": "What four laboratory arrows form the source simplified nonthyroidal-illness pattern?",
+    "a": "Normal TSH, normal T4, low T3 and increased reverse T3. The source links this to illness/stress; actual values vary with illness severity and do not replace assessment for primary thyroid disease.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 272,
