@@ -4167,7 +4167,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 114,
       "url": "/mehlman/hy-family-medicine.pdf#page=114"
-    }
+    },
+    "img": "/s2img/fm-114-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0380",
@@ -4191,7 +4193,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 115,
       "url": "/mehlman/hy-family-medicine.pdf#page=115"
-    }
+    },
+    "img": "/s2img/fm-115-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0382",
@@ -4228,7 +4232,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 116,
       "url": "/mehlman/hy-family-medicine.pdf#page=116"
-    }
+    },
+    "img": "/s2img/fm-116-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0385",
@@ -4252,7 +4258,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 117,
       "url": "/mehlman/hy-family-medicine.pdf#page=117"
-    }
+    },
+    "img": "/s2img/fm-117-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0387",
@@ -4289,7 +4297,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 118,
       "url": "/mehlman/hy-family-medicine.pdf#page=118"
-    }
+    },
+    "img": "/s2img/fm-118-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0390",
@@ -4313,7 +4323,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 119,
       "url": "/mehlman/hy-family-medicine.pdf#page=119"
-    }
+    },
+    "img": "/s2img/fm-119-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0392",
@@ -4350,7 +4362,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 120,
       "url": "/mehlman/hy-family-medicine.pdf#page=120"
-    }
+    },
+    "img": "/s2img/fm-120-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0395",
@@ -4387,7 +4401,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 121,
       "url": "/mehlman/hy-family-medicine.pdf#page=121"
-    }
+    },
+    "img": "/s2img/fm-121-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0398",
@@ -4424,7 +4440,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 122,
       "url": "/mehlman/hy-family-medicine.pdf#page=122"
-    }
+    },
+    "img": "/s2img/fm-122-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0401",
@@ -4461,7 +4479,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 123,
       "url": "/mehlman/hy-family-medicine.pdf#page=123"
-    }
+    },
+    "img": "/s2img/fm-123-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0404",
@@ -4498,7 +4518,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 124,
       "url": "/mehlman/hy-family-medicine.pdf#page=124"
-    }
+    },
+    "img": "/s2img/fm-124-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0407",
@@ -4535,7 +4557,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 125,
       "url": "/mehlman/hy-family-medicine.pdf#page=125"
-    }
+    },
+    "img": "/s2img/fm-125-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0410",
@@ -4572,7 +4596,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 126,
       "url": "/mehlman/hy-family-medicine.pdf#page=126"
-    }
+    },
+    "img": "/s2img/fm-126-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0413",
@@ -4609,7 +4635,9 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 127,
       "url": "/mehlman/hy-family-medicine.pdf#page=127"
-    }
+    },
+    "img": "/s2img/fm-127-0.png",
+    "alt": "Clinical photograph from the source PDF"
   },
   {
     "id": "s2fm-0416",
