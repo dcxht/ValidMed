@@ -44,3 +44,5 @@ Dermatology source cautions: cellulitis organism/treatment absolutes; parvovirus
 Editorial concerns are not verified errors. See editorial-review-2026-10-14.md for complete tracked list and verification status. Six source-version cards now have separately labeled current-guideline notes with direct issuing-body sources.
 
 Selected endocrine/pharmacology/vaccine concepts through p249 now added. No exhaustive-coverage claim. See editorial ledger for exact pending items.
+
+Selected points through p259,992 cards; rapid-bullet review pp260 onward still pending.

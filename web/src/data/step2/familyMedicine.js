@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 249; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 259; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -10532,6 +10532,690 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 249,
       "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-0933",
+    "category": "Endocrine",
+    "q": "Which CAH pattern does the source associate with 11-beta-hydroxylase deficiency?",
+    "a": "Androgen excess with hypertension and low/normal potassium due to accumulated mineralocorticoid-active precursors; cortisol is deficient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-0934",
+    "category": "Endocrine",
+    "q": "A patient has episodic pounding headaches, palpitations and severe hypertension. Which adrenal-medullary tumor is described?",
+    "a": "Pheochromocytoma. A normal office blood pressure between episodes does not exclude it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-0935",
+    "category": "Endocrine",
+    "q": "Which biochemical tests does the source use before localization imaging for suspected pheochromocytoma?",
+    "a": "Plasma or urinary metanephrines.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-0936",
+    "category": "Endocrine",
+    "q": "Why does the PDF emphasize alpha blockade before beta blockade in pheochromocytoma preparation?",
+    "a": "Beta blockade first may leave unopposed alpha-mediated vasoconstriction and provoke severe hypertension. Phenoxybenzamine is the source alpha-blocker example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-0937",
+    "category": "Endocrine",
+    "q": "Why should pheochromocytoma be assessed before thyroid surgery in a patient with MEN 2-associated medullary thyroid carcinoma?",
+    "a": "An unrecognized catecholamine-secreting tumor can trigger a perioperative hypertensive crisis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-0938",
+    "category": "Endocrine",
+    "q": "A child has an adrenal/sympathetic-chain mass and opsoclonus-myoclonus. Which tumor is described?",
+    "a": "Neuroblastoma, associated with N-MYC amplification.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-0939",
+    "category": "Endocrine",
+    "q": "Which urinary catecholamine metabolites are named for neuroblastoma evaluation?",
+    "a": "Homovanillic acid (HVA) and vanillylmandelic acid (VMA).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-0940",
+    "category": "Endocrine",
+    "q": "Flushing, diarrhea and right-sided valvular disease suggest which neuroendocrine syndrome?",
+    "a": "Carcinoid syndrome. The source names urinary 5-HIAA, a serotonin metabolite, as a biochemical test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-0941",
+    "category": "Endocrine",
+    "q": "Which organs form the source MEN 1 triad?",
+    "a": "Parathyroid, anterior pituitary and pancreatic endocrine tumors; MEN 1 gene mutation, autosomal dominant inheritance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-0942",
+    "category": "Endocrine",
+    "q": "Recurrent ulcers from gastrinoma and hypercalcemic kidney stones raise concern for which syndrome?",
+    "a": "MEN 1, combining pancreatic gastrinoma with parathyroid disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-0943",
+    "category": "Endocrine",
+    "q": "Which tumors and mutation characterize MEN 2A in the source?",
+    "a": "Medullary thyroid carcinoma, pheochromocytoma and parathyroid disease; activating RET mutation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-0944",
+    "category": "Endocrine",
+    "q": "Mucosal neuromas, marfanoid habitus, medullary thyroid cancer and pheochromocytoma suggest what?",
+    "a": "MEN 2B, associated with RET mutation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-0945",
+    "category": "Endocrine",
+    "q": "Perioral pigmentation, cardiac myxoma and endocrine hypersecretion suggest which complex?",
+    "a": "Carney complex. The source contrasts it with Peutz-Jeghers syndrome and its GI hamartomatous polyps.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-0946",
+    "category": "Endocrine",
+    "q": "Polyuria and polydipsia accompany weight loss and hyperglycemia. What process does the source distinguish from DI?",
+    "a": "Diabetes mellitus. Filtered glucose produces osmotic diuresis; diabetes insipidus instead reflects impaired water conservation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-0947",
+    "category": "Endocrine",
+    "q": "What is the core pancreatic defect in type 1 diabetes?",
+    "a": "Autoimmune beta-cell destruction causing marked insulin deficiency. Anti-GAD 65 and anti-ZnT 8 antibodies are source markers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-0948",
+    "category": "Endocrine",
+    "q": "Insulin normally recruits which glucose transporter to skeletal muscle and adipose-cell membranes?",
+    "a": "GLUT 4.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-0949",
+    "category": "Endocrine",
+    "q": "How does severe insulin deficiency promote ketoacidosis?",
+    "a": "Increased hepatic glucose production and ketogenesis occur while peripheral glucose uptake falls. Acidic ketones produce a high-anion-gap metabolic acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-0950",
+    "category": "Endocrine",
+    "q": "Which ketone body is emphasized in the source DKA discussion?",
+    "a": "Beta-hydroxybutyrate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-0951",
+    "category": "Endocrine",
+    "q": "What respiratory compensation is described for DKA?",
+    "a": "Deep, labored Kussmaul breathing lowers carbon dioxide in response to metabolic acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-0952",
+    "category": "Endocrine",
+    "q": "Why may total-body potassium be low despite a normal or high initial serum potassium in DKA?",
+    "a": "Urinary losses deplete total-body stores while insulin deficiency and acid-base changes shift potassium out of cells.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-0953",
+    "category": "Endocrine",
+    "q": "Why can potassium fall rapidly when insulin is given during DKA treatment?",
+    "a": "Insulin drives potassium into cells. Serum potassium must be monitored and replaced as indicated; a normal initial value does not mean stores are adequate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-0954",
+    "category": "Endocrine",
+    "q": "Which initial treatment priority does the source emphasize in a volume-depleted patient with DKA?",
+    "a": "Intravenous isotonic fluid resuscitation before or alongside subsequent insulin/electrolyte management. Treatment is individualized to circulatory and electrolyte status.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-0955",
+    "category": "Endocrine",
+    "q": "Severe hypoglycemia causes unconsciousness in an insulin-treated patient. Which rescue treatments are named?",
+    "a": "Glucagon or intravenous dextrose, according to access and setting. This is distinct from DKA treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-0956",
+    "category": "Endocrine",
+    "q": "Why may hypoglycemia be prolonged after pancreatic destruction or pancreatectomy?",
+    "a": "Loss of counterregulatory glucagon can impair recovery from insulin-induced hypoglycemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-0957",
+    "category": "Endocrine",
+    "q": "What is the initial metabolic defect emphasized in type 2 diabetes?",
+    "a": "Insulin resistance, often initially accompanied by compensatory hyperinsulinemia; beta-cell dysfunction may progress over time.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-0958",
+    "category": "Endocrine",
+    "q": "What mechanism produces dehydration and mental-status changes in hyperosmolar hyperglycemic state?",
+    "a": "Marked hyperglycemia causes osmotic diuresis and hyperosmolality, with severe water loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-0959",
+    "category": "Endocrine",
+    "q": "The PDF restricts DKA to type 1 diabetes. Does the fetched 2024 consensus support that restriction?",
+    "a": "No. The PDF uses a type 1-DKA/type 2-HHS teaching split, but DKA can also occur in type 2 diabetes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "ADA/EASD/JBDS/AACE/DTS2024 consensus discusses DKA in both type1 and type2 diabetes, including ketosis-prone type2 diabetes. Do not use diabetes type alone to exclude DKA.",
+      "url": "https://diabetesjournals.org/care/article/47/8/1257/156808/Hyperglycemic-Crises-in-Adults-With-Diabetes-A"
+    }
+  },
+  {
+    "id": "s2fm-0960",
+    "category": "Endocrine",
+    "q": "Which source secondary causes of diabetes involve pancreatic destruction or hormone-induced insulin resistance?",
+    "a": "Chronic pancreatitis/pancreatectomy or iron overload can damage islets; glucocorticoid excess and acromegaly cause insulin resistance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-0961",
+    "category": "Endocrine",
+    "q": "Which immunosuppressant that reduces IL-2 signaling is highlighted as a cause of diabetes?",
+    "a": "Tacrolimus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-0962",
+    "category": "Electrolytes",
+    "q": "Which electrolyte disturbances does the source particularly associate with CNS dysfunction versus arrhythmias?",
+    "a": "Sodium abnormalities with confusion/stupor/coma; potassium abnormalities with cardiac arrhythmias. Both require context-specific assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-0963",
+    "category": "Electrolytes",
+    "q": "Which electrolyte deficiency is emphasized in refeeding syndrome?",
+    "a": "Hypophosphatemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0964",
+    "category": "Acid-base",
+    "q": "How is the standard serum anion gap calculated without potassium?",
+    "a": "Sodium minus (chloride plus bicarbonate). Interpret against the laboratory range and albumin context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0965",
+    "category": "Acid-base",
+    "q": "Which source conditions cause high-anion-gap metabolic acidosis?",
+    "a": "Ketoacidosis, lactic acidosis, uremia and selected toxic ingestions such as methanol, ethylene glycol and salicylates.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0966",
+    "category": "Acid-base",
+    "q": "Which source conditions cause normal-anion-gap metabolic acidosis?",
+    "a": "Diarrheal bicarbonate loss, renal tubular acidosis and hypoaldosterone states.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0967",
+    "category": "Acid-base",
+    "q": "How does ventilation compensate for primary metabolic acidosis versus metabolic alkalosis?",
+    "a": "Metabolic acidosis lowers carbon dioxide through increased ventilation; metabolic alkalosis tends to raise carbon dioxide through reduced ventilation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0968",
+    "category": "Acid-base",
+    "q": "What is Winter formula for expected respiratory compensation in metabolic acidosis?",
+    "a": "Expected PCO 2 = 1.5 x bicarbonate +8, plus or minus 2 mmHg. A lower measured value suggests added respiratory alkalosis; a higher value suggests added respiratory acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0969",
+    "category": "Acid-base",
+    "q": "If bicarbonate is 14 mEq/L in metabolic acidosis, what PCO 2 range is expected by Winter formula?",
+    "a": "27-31 mmHg: 1.5 x 14 +8 =29, plus or minus 2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0970",
+    "category": "Acid-base",
+    "q": "What primary acid-base change can follow opioid-induced hypoventilation?",
+    "a": "Respiratory acidosis from carbon-dioxide retention.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0971",
+    "category": "Acid-base",
+    "q": "What chronic acid-base adaptation does the source describe at high altitude and in pregnancy?",
+    "a": "Respiratory alkalosis with renal bicarbonate reduction. Pregnancy-associated increased ventilation is linked to progesterone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-0972",
+    "category": "Toxicology",
+    "q": "Tinnitus follows excess aspirin ingestion. Which mixed acid-base disturbance is emphasized?",
+    "a": "Respiratory alkalosis together with high-anion-gap metabolic acidosis. The overall pH depends on the relative components.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2fm-0973",
+    "category": "Acid-base",
+    "q": "Why can chronic kidney failure produce metabolic acidosis and hyperkalemia?",
+    "a": "Impaired net acid and potassium excretion; the source also notes reduced bicarbonate handling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2fm-0974",
+    "category": "Acid-base",
+    "q": "In an early asthma exacerbation, what does the source expect from hyperventilation?",
+    "a": "Low PCO 2 and respiratory alkalosis. Rising carbon dioxide with fatigue is concerning and should not be dismissed as normal compensation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2fm-0975",
+    "category": "Acid-base",
+    "q": "Repeated vomiting produces which classic electrolyte/acid-base pattern?",
+    "a": "Hypokalemic, hypochloremic metabolic alkalosis from gastric losses and volume-depletion-related renal effects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-0976",
+    "category": "Acid-base",
+    "q": "Why can loop and thiazide diuretics cause hypokalemic metabolic alkalosis?",
+    "a": "Volume contraction and RAAS activation increase distal potassium and hydrogen losses; greater distal sodium delivery also contributes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-0977",
+    "category": "Acid-base",
+    "q": "Diarrhea or laxative overuse causes bicarbonate and potassium loss. Which acid-base pattern is described?",
+    "a": "Normal-anion-gap, hyperchloremic metabolic acidosis with possible hypokalemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-0978",
+    "category": "Pharmacology",
+    "q": "Which hepatic glucose pathway does metformin reduce in the source?",
+    "a": "Hepatic gluconeogenesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-0979",
+    "category": "Pharmacology",
+    "q": "Which renal threshold does the PDF use to stop metformin, and how does the fetched label differ?",
+    "a": "The PDF uses serum creatinine 1.5 mg/dL. The FDA label uses eGFR rather than that isolated creatinine cutoff.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "FDA GLUMETZA label revised August2026: contraindicated below eGFR30 mL/min/1.73m2; do not initiate at30-45; reassess continuation below45 and stop below30.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-0980",
+    "category": "Pharmacology",
+    "q": "Does the fetched metformin label require holding it around every contrast study?",
+    "a": "No. Holding depends on renal function, route of contrast and relevant comorbidities; the PDF contrast scenario does not establish an always/never rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "FDA August2026 label: stop at/prior to iodinated contrast for eGFR30-60, liver disease, alcoholism, heart failure or intra-arterial contrast. Reassess eGFR after48 hours and restart if renal function is stable.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-0981",
+    "category": "Pharmacology",
+    "q": "How do sulfonylureas and meglitinides stimulate insulin release?",
+    "a": "They close beta-cell ATP-sensitive potassium channels. Sulfonylureas include glipizide/glyburide; repaglinide is a meglitinide.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0982",
+    "category": "Pharmacology",
+    "q": "How do GLP-1 receptor agonists and DPP-4 inhibitors relate mechanistically?",
+    "a": "GLP-1 receptor agonists mimic incretin action; DPP-4 inhibitors reduce GLP-1 breakdown. Both promote glucose-dependent insulin secretion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0983",
+    "category": "Pharmacology",
+    "q": "Pioglitazone increases insulin sensitivity through which receptor?",
+    "a": "PPAR-gamma, a nuclear receptor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0984",
+    "category": "Pharmacology",
+    "q": "Acarbose and miglitol act at which intestinal enzyme, and what GI adverse effect is named?",
+    "a": "Alpha-glucosidase inhibition delays carbohydrate absorption; diarrhea can occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0985",
+    "category": "Pharmacology",
+    "q": "How do SGLT 2 inhibitors lower glucose, and which infection risk is named?",
+    "a": "They reduce proximal-tubule glucose reabsorption, causing glycosuria; genital candidal infections can occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0986",
+    "category": "Pharmacology",
+    "q": "What are the source actions of the amylin analog pramlintide?",
+    "a": "Suppresses glucagon, slows gastric emptying and promotes satiety, limiting postprandial glucose rise.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0987",
+    "category": "Pharmacology",
+    "q": "What additional enzyme action distinguishes PTU from methimazole?",
+    "a": "Both inhibit thyroid peroxidase; PTU also inhibits peripheral 5-prime-deiodinase conversion of T 4 to T 3.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0988",
+    "category": "Pharmacology",
+    "q": "Fever and oral ulcers follow thionamide treatment. Which serious adverse effect must be considered?",
+    "a": "Drug-induced neutropenia/agranulocytosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-0989",
+    "category": "Pharmacology",
+    "q": "How does cinacalcet suppress PTH secretion?",
+    "a": "It increases the sensitivity of calcium-sensing receptors on parathyroid cells.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-family-medicine.pdf#page=259"
+    }
+  },
+  {
+    "id": "s2fm-0990",
+    "category": "Prevention",
+    "q": "Who should receive prediabetes/type 2-diabetes screening under the latest final USPSTF recommendation fetched for this bank?",
+    "a": "Asymptomatic nonpregnant adults 35-70 who have overweight or obesity. Offer or refer those with prediabetes to effective preventive interventions. USPSTF 2021, GradeB.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "Final USPSTF recommendation24 August2021. Consider earlier screening for additional risks and a lower BMI threshold in Asian American adults. This is screening, not the evaluation of symptomatic hyperglycemia.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes/"
+    }
+  },
+  {
+    "id": "s2fm-0991",
+    "category": "Prevention",
+    "q": "Which tests and interval does USPSTF 2021 describe for diabetes screening?",
+    "a": "Fasting plasma glucose, HbA 1c or oral glucose-tolerance testing. The optimal interval is uncertain; every 3 years may be reasonable after a normal result.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "USPSTF2021 GradeB screening recommendation; interval evidence is limited.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes/"
+    }
+  },
+  {
+    "id": "s2fm-0992",
+    "category": "Prevention",
+    "q": "Which diabetes and prediabetes laboratory ranges are listed in the fetched USPSTF statement?",
+    "a": "Diabetes: fasting glucose at least 126 mg/dL, HbA 1c at least 6.5%, or 2-hour OGTT at least 200 mg/dL. Prediabetes: fasting 100-125, HbA 1c 5.7-6.4%, or 2-hour 140-199. Confirm a diagnosis as clinically indicated.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "USPSTF2021 screening statement. These diagnostic thresholds use at least, not the PDF strict greater-than wording.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes/"
     }
   }
 ];
