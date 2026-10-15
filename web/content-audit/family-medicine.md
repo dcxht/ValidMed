@@ -11,7 +11,8 @@ No claim of complete coverage yet. Cards use printed PDF pages.
 - Pages 55-78: read; selected GI/oral/hepatobiliary/infection cards drafted. Figure coverage and additional details remain.
 - Pages 79-97: read; selected heme/onc clinical cards drafted. Figure coverage and additional details remain.
 - Pages 98-113: read; selected GU/repro/breast/obstetric cards drafted. Figure coverage and remaining details pending.
-- Pages 114-319: pending detailed review.
+- Pages 114-140: read; 79 additional text/figure cards. Source photographs extracted and inspected as contact sheets. Not exhaustive.
+- Pages 141-319: pending detailed review.
 
 Uncertain or dated source recommendations were not converted into current clinical guidance:
 - p11 AAA screening recommendation for women and unusual growth threshold.
@@ -30,3 +31,5 @@ Additional cautions withheld: old H. pylori regimen sequence; inaccurate anti-en
 Additional cautions: source overgeneralizes ATRA to all AML, aspirin use in AF contradicts earlier pages, low ferritin/RDW absolutes, myeloma mechanism statements, HTLV/Sezary causation. Cards avoid these claims or explicitly narrow them.
 
 Additional cautions withheld: old mammography starting age; blanket STI cotreatment assumptions; simplified cervical screening algorithms; rigid PCOS ultrasound criteria; empiric torsion imaging without urgency; inaccurate definitive age/exam rules for endometriosis.
+
+Dermatology source cautions: cellulitis organism/treatment absolutes; parvovirus marrow-biopsy fallback; angioedema drug choice; milia incorrectly described as eccrine obstruction; congenital dermal melanocytosis mislabeled blue nevus; Kasabach-Merritt incorrectly generalized to infantile hemangioma; blanket skin biopsy and superficial thrombophlebitis rules. These claims were withheld.

@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points from pp. 4-113; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 140; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -4156,6 +4156,993 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 113,
       "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-0379",
+    "category": "Dermatology",
+    "q": "A child has this scalp lesion. What diagnosis and treatment route does the PDF emphasize?",
+    "a": "Tinea capitis, dermatophyte infection causing scaling alopecia. Oral antifungal treatment is required; griseofulvin is named in the source. Avoid sharing hats.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-0380",
+    "category": "Dermatology",
+    "q": "An adult has an itchy, flaky scalp and this hairline eruption. What diagnosis and treatments are described?",
+    "a": "Seborrheic dermatitis, associated with Malassezia. Topical selenium or ketoconazole shampoo are treatments named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    },
+    "img": "/s2img/fm-114-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0381",
+    "category": "Dermatology",
+    "q": "Identify this annular skin lesion and the treatment class described.",
+    "a": "Tinea corporis, or ringworm. A topical antifungal such as clotrimazole or miconazole is described.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-family-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2fm-0382",
+    "category": "Dermatology",
+    "q": "After gardening, lesions spread up the arm in this pattern. What process and fungal cause are suggested?",
+    "a": "Nodular lymphangitis, classically sporotrichosis from Sporothrix schenckii. Oral itraconazole is named for sporotrichosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-family-medicine.pdf#page=115"
+    },
+    "img": "/s2img/fm-115-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0383",
+    "category": "Dermatology",
+    "q": "A patient has this warm, tender, erythematous leg. What skin infection is suggested?",
+    "a": "Cellulitis. Antibiotic selection depends on purulence, severity and organism risk; the photograph alone does not identify the organism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-family-medicine.pdf#page=115"
+    },
+    "img": "/s2img/fm-115-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0384",
+    "category": "Dermatology",
+    "q": "A patient has this sharply demarcated, raised, fiery-red superficial skin infection. What is it?",
+    "a": "Erysipelas, affecting the upper dermis and superficial lymphatics and classically caused by Streptococcus pyogenes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2fm-0385",
+    "category": "Dermatology",
+    "q": "Identify the inflammatory facial eruption shown.",
+    "a": "Acne vulgaris. The source names topical retinoids, benzoyl peroxide and selected antibiotic therapy as options; oral isotretinoin is reserved for severe disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    },
+    "img": "/s2img/fm-116-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0386",
+    "category": "Dermatology",
+    "q": "This facial eruption follows topical tretinoin use. What adverse effect and counseling point are described?",
+    "a": "Retinoid-associated irritation/photosensitivity. Reduce sun exposure and use sun protection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-family-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2fm-0387",
+    "category": "Dermatology",
+    "q": "Identify this annular facial eruption and its treatment class.",
+    "a": "Tinea faciei. A topical antifungal such as an azole is described.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-family-medicine.pdf#page=117"
+    },
+    "img": "/s2img/fm-117-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0388",
+    "category": "Dermatology",
+    "q": "A febrile patient with meningitis develops this nonblanching eruption. Which pathogen and adrenal complication are emphasized?",
+    "a": "Neisseria meningitidis. Fulminant infection can cause Waterhouse-Friderichsen syndrome, hemorrhagic adrenal failure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-family-medicine.pdf#page=117"
+    },
+    "img": "/s2img/fm-117-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0389",
+    "category": "Dermatology",
+    "q": "A dental worker has painful vesicles on a finger. What diagnosis is shown?",
+    "a": "Herpetic whitlow due to HSV-1 or HSV-2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2fm-0390",
+    "category": "Dermatology",
+    "q": "An expanding lesion follows a tick bite. What Lyme manifestation is shown, and must it have central clearing?",
+    "a": "Erythema migrans. Central clearing is not required for Lyme disease; the source also links Lyme with facial palsy and arthritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    },
+    "img": "/s2img/fm-118-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0391",
+    "category": "Dermatology",
+    "q": "A patient has severe itching and these linear finger lesions. What diagnosis and first topical treatment are described?",
+    "a": "Scabies from Sarcoptes scabiei. Topical permethrin is named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2fm-0392",
+    "category": "Dermatology",
+    "q": "Itchy clustered lesions appear after sleeping in an infested room. What insect exposure is suggested?",
+    "a": "Bed bugs, Cimex species.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    },
+    "img": "/s2img/fm-119-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0393",
+    "category": "Dermatology",
+    "q": "A farmer develops a lesion with this black eschar. Which organism causes cutaneous anthrax?",
+    "a": "Bacillus anthracis. Inhalational disease can cause hemorrhagic mediastinitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    },
+    "img": "/s2img/fm-119-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0394",
+    "category": "Dermatology",
+    "q": "A cutaneous ulcer follows rabbit exposure. Which infection and organism are suggested?",
+    "a": "Tularemia due to Francisella tularensis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2fm-0395",
+    "category": "Dermatology",
+    "q": "This follicular eruption follows hot-tub use. Which organism is suggested?",
+    "a": "Pseudomonas aeruginosa causing hot-tub folliculitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    },
+    "img": "/s2img/fm-120-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0396",
+    "category": "Dermatology",
+    "q": "An unvaccinated febrile child has these buccal lesions followed by a head-to-toe rash. Name the lesions and infection.",
+    "a": "Koplik spots, associated with measles (rubeola).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    },
+    "img": "/s2img/fm-120-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0397",
+    "category": "Dermatology",
+    "q": "This parotid swelling occurs in an unvaccinated child. Which viral illness can also cause orchitis and meningitis?",
+    "a": "Mumps.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2fm-0398",
+    "category": "Dermatology",
+    "q": "A child develops this slapped-cheek eruption. Which virus is responsible?",
+    "a": "Parvovirus B19, causing fifth disease. It can precipitate an aplastic crisis in a patient with an underlying hemolytic anemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    },
+    "img": "/s2img/fm-121-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0399",
+    "category": "Dermatology",
+    "q": "An adult develops this eruption with arthralgia after parvovirus exposure. Which virus and serologic test are described?",
+    "a": "Parvovirus B19. Serum IgM testing is named for recent infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    },
+    "img": "/s2img/fm-121-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0400",
+    "category": "Dermatology",
+    "q": "A young child has high fever for several days, then develops this rash as the fever resolves. What is it?",
+    "a": "Roseola, classically caused by HHV-6.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-family-medicine.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2fm-0401",
+    "category": "Dermatology",
+    "q": "A patient with eczema develops a painful vesicular eruption and fever. What superinfection is shown?",
+    "a": "Eczema herpeticum, HSV infection superimposed on eczema. Acyclovir treatment is named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-family-medicine.pdf#page=122"
+    },
+    "img": "/s2img/fm-122-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0402",
+    "category": "Dermatology",
+    "q": "An itchy extensor eruption accompanies celiac disease. What diagnosis and immune deposit are described?",
+    "a": "Dermatitis herpetiformis, associated with IgA deposition at dermal papillae. Despite the name, it is not herpes infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-family-medicine.pdf#page=122"
+    },
+    "img": "/s2img/fm-122-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0403",
+    "category": "Dermatology",
+    "q": "Recurrent painful abscesses and sinus tracts affect the axillae. What condition is shown?",
+    "a": "Hidradenitis suppurativa, also often affecting the groin and inframammary regions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2fm-0404",
+    "category": "Dermatology",
+    "q": "An immunocompromised child has this painful dermatomal eruption. What virus causes it?",
+    "a": "Varicella-zoster virus, HHV-3, causing shingles or herpes zoster. It is not HSV-1 or HSV-2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    },
+    "img": "/s2img/fm-123-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0405",
+    "category": "Dermatology",
+    "q": "This ear eruption accompanies an ipsilateral facial palsy. What syndrome and virus are suggested?",
+    "a": "Ramsay Hunt syndrome, herpes zoster oticus from varicella-zoster virus involving the facial nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    },
+    "img": "/s2img/fm-123-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0406",
+    "category": "Dermatology",
+    "q": "An immunocompromised patient has these violaceous vascular lesions. What tumor and virus are associated?",
+    "a": "Kaposi sarcoma, associated with HHV-8.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2fm-0407",
+    "category": "Dermatology",
+    "q": "A larger herald patch precedes a Christmas-tree distribution of smaller lesions. What condition is shown?",
+    "a": "Pityriasis rosea, a usually self-limited eruption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    },
+    "img": "/s2img/fm-124-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0408",
+    "category": "Dermatology",
+    "q": "A patient in a humid climate has this patchy hypopigmented eruption. Which organism and topical treatment are described?",
+    "a": "Tinea versicolor due to Malassezia. Topical selenium is named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    },
+    "img": "/s2img/fm-124-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0409",
+    "category": "Dermatology",
+    "q": "A child has these centrally umbilicated papules. What poxvirus-associated diagnosis is shown?",
+    "a": "Molluscum contagiosum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-family-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2fm-0410",
+    "category": "Dermatology",
+    "q": "An aquarium worker develops these hand and forearm lesions. Which mycobacterium is suggested?",
+    "a": "Mycobacterium marinum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-family-medicine.pdf#page=125"
+    },
+    "img": "/s2img/fm-125-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0411",
+    "category": "Dermatology",
+    "q": "An ulcer follows sandfly exposure in an endemic region. Which parasitic disease is suggested?",
+    "a": "Cutaneous leishmaniasis. The source separately describes visceral leishmaniasis, kala-azar, with pancytopenia and abnormal liver tests.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-family-medicine.pdf#page=125"
+    },
+    "img": "/s2img/fm-125-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0412",
+    "category": "Dermatology",
+    "q": "A child has chronic cervical lymphadenitis with a violaceous skin lesion. Which nontuberculous mycobacterial group is suggested?",
+    "a": "Mycobacterium avium complex, described as M. avium-intracellulare in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-family-medicine.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2fm-0413",
+    "category": "Dermatology",
+    "q": "A patient has this generalized eruption, possibly involving palms and soles. Which stage of syphilis is suggested?",
+    "a": "Secondary syphilis due to Treponema pallidum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-family-medicine.pdf#page=126"
+    },
+    "img": "/s2img/fm-126-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0414",
+    "category": "Dermatology",
+    "q": "Identify the transverse white nail lines shown and the toxic exposure emphasized.",
+    "a": "Mees lines, described with arsenic toxicity. Nail lines alone are not specific to arsenic.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-family-medicine.pdf#page=126"
+    },
+    "img": "/s2img/fm-126-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0415",
+    "category": "Dermatology",
+    "q": "This itchy flexural eruption occurs in a patient with atopy. What condition and basic treatments are described?",
+    "a": "Atopic dermatitis, or eczema. Emollients and topical corticosteroids are treatments named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2fm-0416",
+    "category": "Dermatology",
+    "q": "These transient raised itchy wheals follow an allergen exposure. What condition is shown?",
+    "a": "Urticaria, or hives, associated with mast-cell-mediated allergic reactions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    },
+    "img": "/s2img/fm-127-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0417",
+    "category": "Dermatology",
+    "q": "What neurologic, joint and cardiac manifestations can accompany Lyme disease?",
+    "a": "Facial palsy, arthritis and cardiac conduction disease are manifestations emphasized in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2fm-0418",
+    "category": "Dermatology",
+    "q": "How does rubella-associated lymphadenopathy differ from the classic measles buccal finding?",
+    "a": "Rubella classically causes postauricular and suboccipital lymphadenopathy; measles is associated with Koplik spots.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2fm-0419",
+    "category": "Dermatology",
+    "q": "Why is pregnancy testing important before oral isotretinoin?",
+    "a": "It is highly teratogenic. Pregnancy prevention and monitoring are essential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2fm-0420",
+    "category": "Dermatology",
+    "q": "Targetoid lesions appear after HSV infection. What eruption is shown?",
+    "a": "Erythema multiforme, associated with infections including HSV.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    },
+    "img": "/s2img/fm-127-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0421",
+    "category": "Dermatology",
+    "q": "Tender subcutaneous nodules occur on the shins. What condition is shown, and which inflammatory diseases are associated?",
+    "a": "Erythema nodosum, a panniculitis. Associations named include sarcoidosis and Crohn disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    },
+    "img": "/s2img/fm-128-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0422",
+    "category": "Dermatology",
+    "q": "A patient has proximal weakness and this eyelid eruption. What diagnosis and rash name are suggested?",
+    "a": "Dermatomyositis with a heliotrope rash.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    },
+    "img": "/s2img/fm-128-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0423",
+    "category": "Dermatology",
+    "q": "Proximal weakness accompanies this upper-back eruption. What characteristic rash is shown?",
+    "a": "The shawl sign of dermatomyositis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    },
+    "img": "/s2img/fm-128-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0424",
+    "category": "Dermatology",
+    "q": "Proximal weakness accompanies these lesions over the finger joints. What are they called?",
+    "a": "Gottron papules, associated with dermatomyositis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    },
+    "img": "/s2img/fm-128-3.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0425",
+    "category": "Dermatology",
+    "q": "Identify the depigmented eruption and its autoimmune mechanism.",
+    "a": "Vitiligo, associated with immune-mediated melanocyte destruction. Other autoimmune disorders may coexist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-family-medicine.pdf#page=129"
+    },
+    "img": "/s2img/fm-129-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0426",
+    "category": "Dermatology",
+    "q": "A patient has this longstanding benign age-related pigmented macule. What lesion is described?",
+    "a": "Lentigo, an age spot.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-family-medicine.pdf#page=129"
+    },
+    "img": "/s2img/fm-129-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0427",
+    "category": "Dermatology",
+    "q": "A glove-using laboratory worker develops this hand eruption. What exposure-associated diagnosis is suggested?",
+    "a": "Contact dermatitis related to glove exposure. Latex or glove additives can be implicated.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-family-medicine.pdf#page=129"
+    },
+    "img": "/s2img/fm-129-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0428",
+    "category": "Dermatology",
+    "q": "Facial erythema flares with alcohol or spicy food. What diagnosis is shown?",
+    "a": "Rosacea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-family-medicine.pdf#page=130"
+    },
+    "img": "/s2img/fm-130-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0429",
+    "category": "Dermatology",
+    "q": "Itchy painful toes develop after repeated cold exposure and rewarming. What condition is shown?",
+    "a": "Chilblains, or perniosis. Keeping the feet warm and avoiding abrupt temperature changes are measures named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-family-medicine.pdf#page=130"
+    },
+    "img": "/s2img/fm-130-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0430",
+    "category": "Dermatology",
+    "q": "Identify this recurrent painful oral ulcer. Is HSV required to cause it?",
+    "a": "An aphthous ulcer. It is not an HSV lesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-family-medicine.pdf#page=130"
+    },
+    "img": "/s2img/fm-130-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0431",
+    "category": "Dermatology",
+    "q": "Pruritic purple polygonal papules occur in a patient with hepatitis C. What condition is shown?",
+    "a": "Lichen planus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-family-medicine.pdf#page=131"
+    },
+    "img": "/s2img/fm-131-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0432",
+    "category": "Dermatology",
+    "q": "A newborn has a focal absence of scalp skin. What finding is shown and which drug exposure is associated?",
+    "a": "Aplasia cutis congenita. Methimazole exposure is an association named in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-family-medicine.pdf#page=131"
+    },
+    "img": "/s2img/fm-131-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0433",
+    "category": "Dermatology",
+    "q": "Recurrent swelling without a typical urticarial eruption raises concern for hereditary angioedema. What inhibitor deficiency is classically involved?",
+    "a": "C1 esterase inhibitor deficiency. It is not simply deficiency of C1 esterase.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-family-medicine.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2fm-0434",
+    "category": "Dermatology",
+    "q": "A patient with this café-au-lait macule also has neurofibromas and axillary freckling. What syndrome is suggested?",
+    "a": "Neurofibromatosis type 1. Optic glioma and pheochromocytoma are associations named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    },
+    "img": "/s2img/fm-132-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0435",
+    "category": "Dermatology",
+    "q": "Facial angiofibromas accompany seizures and renal angiomyolipoma. What syndrome is suggested?",
+    "a": "Tuberous sclerosis complex. Cardiac rhabdomyoma and cortical/subependymal lesions are also emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    },
+    "img": "/s2img/fm-132-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0436",
+    "category": "Dermatology",
+    "q": "This port-wine facial stain accompanies seizures and glaucoma. What syndrome is suggested?",
+    "a": "Sturge-Weber syndrome, associated with leptomeningeal vascular malformations and somatic mosaicism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    },
+    "img": "/s2img/fm-132-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0437",
+    "category": "Dermatology",
+    "q": "An irregular café-au-lait patch occurs with polyostotic fibrous dysplasia and precocious puberty. What syndrome is suggested?",
+    "a": "McCune-Albright syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    },
+    "img": "/s2img/fm-133-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0438",
+    "category": "Dermatology",
+    "q": "Identify this velvety hyperpigmented neck eruption and its common metabolic association.",
+    "a": "Acanthosis nigricans, commonly associated with hyperinsulinemia and insulin resistance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    },
+    "img": "/s2img/fm-133-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0439",
+    "category": "Dermatology",
+    "q": "A pearly lesion with rolled borders and telangiectasia appears on the nose. What cancer is suggested?",
+    "a": "Basal cell carcinoma. Mohs surgery is a treatment option emphasized for cosmetically sensitive sites.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    },
+    "img": "/s2img/fm-133-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0440",
+    "category": "Dermatology",
+    "q": "Scaly lesions develop on sun-exposed skin. What precursor lesion is shown?",
+    "a": "Actinic keratoses, which can progress to squamous-cell carcinoma. Cryotherapy is a treatment named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    },
+    "img": "/s2img/fm-134-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0441",
+    "category": "Dermatology",
+    "q": "A sun-exposed lesion becomes ulcerated after years of actinic keratoses. What cancer is suggested?",
+    "a": "Squamous-cell carcinoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    },
+    "img": "/s2img/fm-134-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0442",
+    "category": "Dermatology",
+    "q": "A rapidly growing dome-shaped lesion has a central keratin-filled crater. What lesion is suggested?",
+    "a": "Keratoacanthoma. Excision is emphasized because it can resemble squamous-cell carcinoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    },
+    "img": "/s2img/fm-134-3.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0443",
+    "category": "Dermatology",
+    "q": "An irregular pigmented lesion raises concern for melanoma. What biopsy principle and prognostic measurement are emphasized?",
+    "a": "Obtain adequate full-thickness tissue to assess invasion. Tumor depth is a major prognostic factor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-family-medicine.pdf#page=135"
+    },
+    "img": "/s2img/fm-135-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0444",
+    "category": "Dermatology",
+    "q": "An irregular pigmented lesion occurs on the sole. What melanoma subtype is emphasized?",
+    "a": "Acral lentiginous melanoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-family-medicine.pdf#page=135"
+    },
+    "img": "/s2img/fm-135-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0445",
+    "category": "Dermatology",
+    "q": "A suspicious longitudinal pigmented nail lesion is shown. What malignancy must be considered?",
+    "a": "Subungual melanoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-family-medicine.pdf#page=135"
+    },
+    "img": "/s2img/fm-135-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0446",
+    "category": "Dermatology",
+    "q": "These waxy, stuck-on skin growths are usually benign. What are they?",
+    "a": "Seborrheic keratoses. Abrupt eruption of many lesions is described as the sign of Leser-Trélat.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    },
+    "img": "/s2img/fm-136-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0447",
+    "category": "Dermatology",
+    "q": "A young infant has this superficial vascular tumor. What usual natural course is described?",
+    "a": "Infantile hemangioma often grows initially and then involutes. Functional risk or complications change management.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    },
+    "img": "/s2img/fm-136-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0448",
+    "category": "Dermatology",
+    "q": "An older adult has small cherry-red papules. What benign lesion is shown?",
+    "a": "Cherry angiomas.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    },
+    "img": "/s2img/fm-137-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0449",
+    "category": "Dermatology",
+    "q": "A patient has an asymptomatic pit anterior to the ear. What finding is shown?",
+    "a": "A preauricular pit. Repeated infections may require further treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    },
+    "img": "/s2img/fm-137-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0450",
+    "category": "Dermatology",
+    "q": "Purple abdominal striae accompany features of cortisol excess. What endocrine syndrome is suggested?",
+    "a": "Cushing syndrome. Dermal collagen and capillary fragility contribute to the striae.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-family-medicine.pdf#page=138"
+    },
+    "img": "/s2img/fm-138-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0451",
+    "category": "Dermatology",
+    "q": "Raised scar tissue extends beyond the original wound. What lesion is shown?",
+    "a": "A keloid, involving excessive disorganized collagen. Recurrence after removal can occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-family-medicine.pdf#page=138"
+    },
+    "img": "/s2img/fm-138-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0452",
+    "category": "Dermatology",
+    "q": "Razor bumps follow shaving in a patient with curly beard hair. What process is shown?",
+    "a": "Pseudofolliculitis barbae, in which shaved hairs curve back into the skin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    },
+    "img": "/s2img/fm-139-0.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0453",
+    "category": "Dermatology",
+    "q": "A newborn has small asymptomatic white facial papules. What benign finding is shown?",
+    "a": "Milia. Reassurance rather than treatment is generally appropriate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    },
+    "img": "/s2img/fm-139-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0454",
+    "category": "Dermatology",
+    "q": "A patient has these dilated tortuous superficial leg veins. What diagnosis and conservative treatment are described?",
+    "a": "Varicose veins. Compression stockings are a conservative option; duplex ultrasonography can assess venous disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    },
+    "img": "/s2img/fm-139-2.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0455",
+    "category": "Dermatology",
+    "q": "A tender warm palpable cord follows a superficial vein. What diagnosis is suggested?",
+    "a": "Superficial thrombophlebitis. Treatment depends on clot extent, location and risk; the source overgeneralizes anticoagulation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2fm-0456",
+    "category": "Dermatology",
+    "q": "A heavy smoker develops distal digital ischemia and gangrene. What disease and central intervention are emphasized?",
+    "a": "Buerger disease, thromboangiitis obliterans. Smoking cessation is essential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    },
+    "img": "/s2img/fm-140-1.png",
+    "alt": "Clinical photograph from the source PDF"
+  },
+  {
+    "id": "s2fm-0457",
+    "category": "Dermatology",
+    "q": "A diabetic patient has neuropathy and disorganization of the tarsal/metatarsal joints. What condition is suggested?",
+    "a": "Charcot neuroarthropathy, a neuropathic joint caused by loss of protective sensation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
     }
   }
 ];
