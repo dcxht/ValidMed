@@ -8774,12 +8774,19 @@ export default [
     "id": "s2fm-0729",
     "category": "Ophthalmology",
     "q": "What visual-development complication can untreated ocular misalignment cause?",
-    "a": "Amblyopia, reduced acuity from abnormal visual development. Strabismus is the misalignment itself.",
+    "a": "Amblyopia, reduced acuity from abnormal visual development. Strabismus is the misalignment itself. The PDF uses lazy eye for strabismus; the terminology is qualified in the linked note.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 203,
       "url": "/mehlman/hy-family-medicine.pdf#page=203"
-    }
+    },
+    "guideline": {
+      "text": "NEI calls amblyopia lazy eye and lists strabismus as one cause. Management first addresses the visual problem and may use patching/atropine of the stronger eye; not all misalignment is due to weak muscles.",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/amblyopia-lazy-eye"
+    },
+    "sourcePages": [
+      203
+    ]
   },
   {
     "id": "s2fm-0730",
@@ -8834,7 +8841,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 205,
       "url": "/mehlman/hy-family-medicine.pdf#page=205"
-    }
+    },
+    "sourcePages": [
+      205,
+      206
+    ]
   },
   {
     "id": "s2fm-0735",
@@ -8896,12 +8907,15 @@ export default [
     "id": "s2fm-0740",
     "category": "Ophthalmology",
     "q": "Blurry vision occurs in a severely immunocompromised AIDS patient. Which retinal infection is emphasized?",
-    "a": "CMV retinitis. Ganciclovir is the antiviral named.",
+    "a": "CMV retinitis. Ganciclovir is the antiviral named. Actual regimen depends on lesion location, immune status and specialist management.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 208,
       "url": "/mehlman/hy-family-medicine.pdf#page=208"
-    }
+    },
+    "sourcePages": [
+      208
+    ]
   },
   {
     "id": "s2fm-0741",
@@ -9033,7 +9047,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 210,
       "url": "/mehlman/hy-family-medicine.pdf#page=210"
-    }
+    },
+    "sourcePages": [
+      210
+    ]
   },
   {
     "id": "s2fm-0753",
@@ -9099,7 +9116,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 212,
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
-    }
+    },
+    "sourcePages": [
+      212
+    ]
   },
   {
     "id": "s2fm-0759",
@@ -9116,7 +9136,7 @@ export default [
     "id": "s2fm-0760",
     "category": "Musculoskeletal",
     "q": "A child stops using a pronated arm after it was pulled. What injury and reduction maneuvers are described?",
-    "a": "Radial-head subluxation, nursemaid elbow. Hyperpronation or supination-flexion reduction are named.",
+    "a": "Radial-head subluxation, nursemaid elbow. Hyperpronation or supination-flexion reduction are named. The history and exam must support this rather than a fracture.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 212,
@@ -9186,12 +9206,15 @@ export default [
     "id": "s2fm-0766",
     "category": "Musculoskeletal",
     "q": "Radiating leg pain follows heavy lifting. Which disc structure herniates?",
-    "a": "The nucleus pulposus through a defect in the annulus fibrosus.",
+    "a": "The nucleus pulposus through a defect in the annulus fibrosus. Herniated material can irritate or compress a nerve root.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 214,
       "url": "/mehlman/hy-family-medicine.pdf#page=214"
-    }
+    },
+    "sourcePages": [
+      214
+    ]
   },
   {
     "id": "s2fm-0767",
@@ -9268,7 +9291,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 217,
       "url": "/mehlman/hy-family-medicine.pdf#page=217"
-    }
+    },
+    "sourcePages": [
+      217
+    ]
   },
   {
     "id": "s2fm-0774",
@@ -9356,7 +9382,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 218,
       "url": "/mehlman/hy-family-medicine.pdf#page=218"
-    }
+    },
+    "sourcePages": [
+      218
+    ]
   },
   {
     "id": "s2fm-0782",
@@ -24688,7 +24717,8 @@ export default [
     "guideline": {
       "text": "NEI calls amblyopia lazy eye and lists strabismus as one cause. Management first addresses the visual problem and may use patching/atropine of the stronger eye; not all misalignment is due to weak muscles.",
       "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/amblyopia-lazy-eye"
-    }
+    },
+    "duplicateOf": "s2fm-0729"
   },
   {
     "id": "s2fm-2074",
@@ -24817,7 +24847,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 208,
       "url": "/mehlman/hy-family-medicine.pdf#page=208"
-    }
+    },
+    "duplicateOf": "s2fm-0740"
   },
   {
     "id": "s2fm-2085",
@@ -24913,7 +24944,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 210,
       "url": "/mehlman/hy-family-medicine.pdf#page=210"
-    }
+    },
+    "duplicateOf": "s2fm-0752"
   },
   {
     "id": "s2fm-2093",
@@ -24968,7 +25000,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 212,
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
-    }
+    },
+    "duplicateOf": "s2fm-0758"
   },
   {
     "id": "s2fm-2098",
@@ -24979,7 +25012,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 212,
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
-    }
+    },
+    "sourcePages": [
+      212
+    ]
   },
   {
     "id": "s2fm-2099",
@@ -24990,7 +25026,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 212,
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
-    }
+    },
+    "duplicateOf": "s2fm-0760"
   },
   {
     "id": "s2fm-2100",
@@ -25038,7 +25075,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 214,
       "url": "/mehlman/hy-family-medicine.pdf#page=214"
-    }
+    },
+    "duplicateOf": "s2fm-0766"
   },
   {
     "id": "s2fm-2104",
@@ -25090,7 +25128,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 217,
       "url": "/mehlman/hy-family-medicine.pdf#page=217"
-    }
+    },
+    "duplicateOf": "s2fm-0773"
   },
   {
     "id": "s2fm-2108",
@@ -25145,7 +25184,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 218,
       "url": "/mehlman/hy-family-medicine.pdf#page=218"
-    }
+    },
+    "duplicateOf": "s2fm-0781"
   },
   {
     "id": "s2fm-2113",
@@ -33621,7 +33661,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 104,
       "url": "/mehlman/hy-family-medicine.pdf#page=104"
-    }
+    },
+    "sourcePages": [
+      104,
+      207
+    ]
   },
   {
     "id": "s2fm-2755",
@@ -38124,7 +38168,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 128,
       "url": "/mehlman/hy-family-medicine.pdf#page=128"
-    }
+    },
+    "sourcePages": [
+      128,
+      206
+    ]
   },
   {
     "id": "s2fm-3119",
@@ -39335,6 +39383,359 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 200,
       "url": "/mehlman/hy-family-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2fm-3219",
+    "category": "Final source-mapping details",
+    "q": "What iris colors does the source associate with albinism?",
+    "a": "Pale blue or pink irides, in its source illustration and description. Iris color alone does not establish albinism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2fm-3220",
+    "category": "Final source-mapping details",
+    "q": "Which organism does the PDF emphasize for orbital cellulitis and a hordeolum?",
+    "a": "Staphylococcus aureus, in its source summary. The actual likely organisms and treatment depend on the location, age, sinus involvement and microbiologic context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-3221",
+    "category": "Final source-mapping details",
+    "q": "What stronger-eye intervention does the source describe to prevent/treat amblyopia associated with strabismus?",
+    "a": "Penalization or patching of the stronger eye, alongside eye exercises in its source account. Misalignment and visual-acuity loss are distinct, and treatment depends on the cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "NEI calls amblyopia lazy eye and lists strabismus as one cause. Management first addresses the visual problem and may use patching/atropine of the stronger eye; not all misalignment is due to weak muscles.",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/amblyopia-lazy-eye"
+    }
+  },
+  {
+    "id": "s2fm-3222",
+    "category": "Final source-mapping details",
+    "q": "What tissue description does the PDF give for a pterygium?",
+    "a": "A benign overgrowth of nonkeratinized stratified squamous epithelium from conjunctiva across the cornea. This is the source histologic shorthand, not a complete lesion pathology description.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-3223",
+    "category": "Final source-mapping details",
+    "q": "What ocular surface locations does the source name for melanoma?",
+    "a": "Conjunctiva and cornea. This is the PDF location claim, not a newly verified assertion that every such mass originates primarily in corneal tissue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-3224",
+    "category": "Final source-mapping details",
+    "q": "What is the source pinguecula composed of?",
+    "a": "Protein and fat in a yellow-white benign conjunctival lesion that does not cross the cornea, in its UV-associated description.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-3225",
+    "category": "Final source-mapping details",
+    "q": "What follow-up examination does the source choose for a sarcoidosis patient in its eye example?",
+    "a": "Slit-lamp examination to assess anterior uveitis. It is the source vignette answer rather than a complete symptom- and disease-specific ophthalmic follow-up protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-3226",
+    "category": "Final source-mapping details",
+    "q": "Which pediatric malignancy does the source mention as another cause of violaceous eyelids?",
+    "a": "Neuroblastoma, unrelated to the dermatomyositis heliotrope-rash mechanism. The appearance alone does not distinguish these causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-3227",
+    "category": "Final source-mapping details",
+    "q": "What do the source MELAS and MERRF abbreviations stand for?",
+    "a": "Mitochondrial encephalopathy, lactic acidosis and stroke-like episodes; myoclonic epilepsy with ragged red fibers. The PDF groups them with broad mitochondrial eye/ear, hypotonia and metabolic clues, not a required triad for every patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-3228",
+    "category": "Final source-mapping details",
+    "q": "What neonatal onset distinction does the PDF use for chlamydial versus gonococcal conjunctivitis?",
+    "a": "Chlamydia usually after the first week versus gonorrhea within the first week with yellow discharge. These are source timing clues, not sufficient exclusion tests by themselves.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-3229",
+    "category": "Final source-mapping details",
+    "q": "What prophylaxis does the source name for gonococcal ophthalmia neonatorum?",
+    "a": "Erythromycin eye ointment, distinct from systemic treatment of established gonococcal infection and maternal prevention of chlamydial disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-3230",
+    "category": "Final source-mapping details",
+    "q": "What route does the PDF propose for chlamydial eye infection reaching the lungs?",
+    "a": "Through the nasolacrimal duct, to explain why topical ointment alone does not treat associated systemic disease. This is the source route explanation, not a complete pathogenesis account.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-3231",
+    "category": "Final source-mapping details",
+    "q": "Does the PDF require allergic conjunctivitis to be bilateral?",
+    "a": "No. It allows unilateral presentations and also says itching need not be present. Those are source exceptions, not a basis to skip other causes of a unilateral or nonitchy red eye.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-3232",
+    "category": "Final source-mapping details",
+    "q": "What source features are shared between HSV keratitis and herpes zoster ophthalmicus?",
+    "a": "A dendritic-like corneal pattern, with or without periocular vesicles, and topical acyclovir/valacyclovir in its treatment shorthand. HSV dendrites and VZV pseudodendrites are not identical, and the source topical-only HZO plan is separately corrected.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 208,
+      "url": "/mehlman/hy-family-medicine.pdf#page=208"
+    },
+    "guideline": {
+      "text": "AAO EyeWiki clinical review describes systemic oral antiviral therapy for HZO, with IV therapy in selected severe/intolerant patients. Topical-only is not an adequate general treatment plan.",
+      "url": "https://eyewiki.aao.org/Herpes_Zoster_Ophthalmicus"
+    }
+  },
+  {
+    "id": "s2fm-3233",
+    "category": "Final source-mapping details",
+    "q": "What two abduction ranges does the source use in supraspinatus examples?",
+    "a": "The first 15 degrees in its basic table and the first 60 degrees in a cited supraspinatus-tendinitis exam example. These are source exam descriptions rather than rigid one-muscle-only movement boundaries.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-3234",
+    "category": "Final source-mapping details",
+    "q": "Which additional action helps the source favor teres minor over infraspinatus?",
+    "a": "Adduction accompanying external rotation. It also lists internal rotation and adduction for subscapularis, assessed with the Gerber lift-off maneuver.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-3235",
+    "category": "Final source-mapping details",
+    "q": "What thumb action and humeral-fracture associations does the PDF give for the median nerve?",
+    "a": "Thumb abduction, plus injury after a supracondylar or distal-shaft humeral fracture in its source examples. This should not be confused with ulnar-mediated thumb adduction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-3236",
+    "category": "Final source-mapping details",
+    "q": "What named injection does the source choose after a wrist splint fails in carpal tunnel syndrome?",
+    "a": "Triamcinolone into the carpal tunnel, not IV steroids. This is the source treatment step, not a claim of durable benefit or an exclusion of appropriate surgery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "AAOS 2024 provides surgical-release recommendations and notes steroid injections do not provide long-term improvement. Surgery is not categorically wrong, and temporary relief is not the same as durable benefit.",
+      "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf"
+    }
+  },
+  {
+    "id": "s2fm-3237",
+    "category": "Final source-mapping details",
+    "q": "What forearm posture does the source pair with radial-nerve wrist drop?",
+    "a": "Pronation, alongside weakened wrist/finger extension. Deficits depend on the lesion level, not just a named fracture pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-3238",
+    "category": "Final source-mapping details",
+    "q": "What traction mechanisms does the PDF list for brachial-plexus injuries?",
+    "a": "Traumatic or breech delivery and catching a tree branch during a fall. Its Erb example has an adducted, pronated arm and flexed wrist; upper versus lower roots determine the pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-3239",
+    "category": "Final source-mapping details",
+    "q": "What treatment does the source mention for painful de Quervain symptoms during breastfeeding?",
+    "a": "Avoid the provoking activity where possible; steroid injection can give relief when infant-care activity cannot readily be avoided. This is its source management account, not advice to stop breastfeeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-3240",
+    "category": "Final source-mapping details",
+    "q": "What cervical disc example does the PDF use for shooting arm pain?",
+    "a": "It calls the answer a C 8 disc herniation. This is the source wording; C 8 names a nerve root, and precise disc/interspace localization must be distinguished from root nomenclature.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-family-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2fm-3241",
+    "category": "Final source-mapping details",
+    "q": "What fixed proportion of sciatica does the source attribute to disc herniation?",
+    "a": "90%, as its source estimate rather than newly verified current epidemiology. Its uncomplicated examples use NSAIDs and activity as tolerated rather than bed rest.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-family-medicine.pdf#page=215"
+    }
+  },
+  {
+    "id": "s2fm-3242",
+    "category": "Final source-mapping details",
+    "q": "What prevalence, sex ratio and long-term course does the PDF give for scoliosis?",
+    "a": "About 3% of the population, girls 4:1, and persistence of the curve despite most children not needing treatment. These are source estimates; individual progression and treatment depend on curve and growth.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-3243",
+    "category": "Final source-mapping details",
+    "q": "What lateral-leg sensory territories does the PDF assign to common versus superficial fibular nerves?",
+    "a": "Common fibular: upper third of the lateral leg around/below the knee. Superficial fibular: lower lateral leg and dorsum of the foot. These are source maps with overlap, not a complete cutaneous-anatomy examination.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-3244",
+    "category": "Final source-mapping details",
+    "q": "Which foot sensory surface accompanies the source tibial-nerve plantarflexion function?",
+    "a": "The sole and heel, in its source nerve table. Combined tibial/fibular motor findings can instead suggest a more proximal sciatic lesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-3245",
+    "category": "Final source-mapping details",
+    "q": "What motor and sensory pattern does the PDF give for L 5 radiculopathy?",
+    "a": "Dorsiflexion weakness with anterior/lateral-leg pain or paresthesias, commonly from L 4-L 5 disc disease in its traversing-root example. Clinical dermatomes overlap and peripheral nerve lesions can resemble this.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-3246",
+    "category": "Final source-mapping details",
+    "q": "Which treatment groups does the source give for trochanteric, prepatellar and septic bursitis?",
+    "a": "NSAIDs for the nonseptic trochanteric/prepatellar examples and antibiotics for septic bursitis. Infection assessment and the involved structure determine management rather than location alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-3247",
+    "category": "Final source-mapping details",
+    "q": "What patellar-tracking clue does the source add in an adolescent with running/jumping knee pain?",
+    "a": "Crepitus with patellofemoral instability from maltracking in the trochlear groove. It contrasts this with patellar-tendon pain and prolonged-sitting/stair-related patellofemoral pain, for which obesity/heavy squatting are source contexts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-3248",
+    "category": "Final source-mapping details",
+    "q": "How does the PDF describe hand placement for varus versus valgus knee stress?",
+    "a": "Varus: push the medial knee outward while pushing the lateral ankle inward, testingLCL. Valgus: push the lateral knee inward while moving the medial ankle outward, testingMCL. These source descriptions assess lateral versus medial opening relative to the other knee.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-3249",
+    "category": "Final source-mapping details",
+    "q": "What nonsurgical treatments does the source name for Morton neuroma?",
+    "a": "Comfortable shoes/orthotics and steroid injection. Its separate location and benign-tumor wording are qualified by the linked AAOS note elsewhere.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
     }
   }
 ];
