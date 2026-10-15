@@ -14370,5 +14370,602 @@ export default [
       "page": 74,
       "url": "/mehlman/hy-pediatrics.pdf#page=74"
     }
+  },
+  {
+    "id": "s2peds-1037",
+    "category": "Sexually transmitted infections",
+    "q": "Which Chlamydia trachomatis strains cause the usual mucosal sexually transmitted infection in the source?",
+    "a": "Serovars D-K. The PDF associates them with mucopurulent discharge.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "Merck distinguishes D-K mucosal infections from A, B, Ba and C trachoma and L1-L3 invasive lymphogranuloma venereum. Many chlamydial infections are asymptomatic; discharge is not required.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/chlamydiae-and-mycoplasmas/chlamydiae"
+    }
+  },
+  {
+    "id": "s2peds-1038",
+    "category": "Sexually transmitted infections",
+    "q": "Why can genital chlamydia increase the risk of ectopic pregnancy?",
+    "a": "Ascending infection can cause pelvic inflammatory disease, with inflammation and scarring of the fallopian tubes. The source links this tubal damage to later ectopic pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC also identifies infertility as a sequela and notes that some apparently uncomplicated cervical infections already involve the upper genital tract. Prompt treatment reduces complications but cannot guarantee reversal of established scarring.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1039",
+    "category": "Sexually transmitted infections",
+    "q": "What does the source WBCs but no organisms on microscopy or routine culture clue suggest?",
+    "a": "Chlamydia trachomatis, an obligate intracellular bacterium not identified like gonococcal diplococci on routine microscopy. The PDF says it cannot be grown, which is too broad.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends NAAT for genital infection and recognizes tissue culture for neonatal conjunctival specimens. Chlamydia can grow in specialized cell culture; absent routine organisms or growth is a clue, not proof or a reason to skip testing.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1040",
+    "category": "Sexually transmitted infections",
+    "q": "Which oral regimens does the PDF list for genital chlamydia, and which is currently preferred for nonpregnant adolescents and adults?",
+    "a": "The PDF leads with one-off azithromycin and also gives one week of twice-daily doxycycline, calling doxycycline slightly more effective but harder to complete. Its claim that first-line selection will never matter is not a guideline.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends doxycycline 100 mg orally twice daily for seven days. Azithromycin 1 g once is an alternative, particularly with major adherence concerns, but is less effective for rectal infection. Use the actual patient setting rather than assuming equivalence.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1041",
+    "category": "Sexually transmitted infections",
+    "q": "What drug-tolerability and sun-exposure cautions does the source give for chlamydia treatment?",
+    "a": "Azithromycin may cause gastrointestinal upset; doxycycline may cause photosensitivity. The PDF also warns about impaired doxycycline absorption with dairy or divalent cations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "MedlinePlus advises sun protection and separating doxycycline from antacids, calcium or iron supplements. It allows food or milk for stomach upset, so the PDF universal dairy ban is too broad; follow the product-specific instructions and pharmacist advice.",
+      "url": "https://medlineplus.gov/druginfo/meds/a682063.html"
+    }
+  },
+  {
+    "id": "s2peds-1042",
+    "category": "Sexually transmitted infections",
+    "q": "Which source chlamydia treatment is preferred during pregnancy, and what is outdated in its alternative?",
+    "a": "Azithromycin. The PDF avoids doxycycline because of fetal tooth discoloration and mentions erythromycin as another pregnancy option.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends azithromycin 1 g orally once during pregnancy, with amoxicillin as an alternative. It describes doxycycline as contraindicated during the second and third trimesters and no longer recommends erythromycin because of gastrointestinal intolerance and adherence concerns.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1043",
+    "category": "Sexually transmitted infections",
+    "q": "What source triad suggests Chlamydia-associated reactive arthritis?",
+    "a": "Urethritis, arthritis and eye inflammation, such as conjunctivitis or anterior uveitis. The source uses this as a postinfectious syndrome rather than gonococcal septic arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "Merck emphasizes that not all features are present and they can arise at different times. Reactive arthritis is a clinical postinfectious syndrome; the complete triad is not required.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/joint-disorders/reactive-arthritis"
+    }
+  },
+  {
+    "id": "s2peds-1044",
+    "category": "Sexually transmitted infections",
+    "q": "How does the source prevent neonatal chlamydial conjunctivitis?",
+    "a": "Identify and treat maternal chlamydia during pregnancy. This differs from routine erythromycin eye ointment used to prevent gonococcal disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC says erythromycin ocular prophylaxis does not prevent chlamydial conjunctivitis or pneumonia. Prenatal testing and treatment are central; neonatal symptoms still require assessment even after routine ointment.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1045",
+    "category": "Sexually transmitted infections",
+    "q": "What systemic treatment does the source give for neonatal chlamydial conjunctivitis, and what associated disease must be considered?",
+    "a": "Oral erythromycin. The PDF notes that neonatal conjunctivitis can be associated with chlamydial pneumonia; eye ointment alone is not adequate treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends erythromycin base or ethylsuccinate 50 mg/kg/day orally in four divided doses for 14 days, with follow-up for treatment failure and possible concomitant pneumonia. Oral erythromycin and azithromycin in infants under six weeks are associated with infantile hypertrophic pyloric stenosis, requiring symptom monitoring.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1046",
+    "category": "Sexually transmitted infections",
+    "q": "Which source chlamydial strains cause trachoma rather than the usual genital STI?",
+    "a": "A-C, causing trachoma, a blinding eye disease the PDF highlights in Africa. Its shorthand is distinct from D-K genital infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "Merck specifies A, B, Ba and C and describes endemic disease in resource-limited regions, not a condition confined to one continent.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/chlamydiae-and-mycoplasmas/chlamydiae"
+    }
+  },
+  {
+    "id": "s2peds-1047",
+    "category": "Sexually transmitted infections",
+    "q": "Which chlamydial strains cause lymphogranuloma venereum, and what source complication is emphasized?",
+    "a": "L1-L3, with anal or colorectal strictures as the source complication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC describes invasive proctocolitis, lymphadenopathy and sometimes genital ulceration. Untreated disease can lead to colorectal fistulas and strictures; the source complication is not the only presentation.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/lgv.htm"
+    }
+  },
+  {
+    "id": "s2peds-1048",
+    "category": "Sexually transmitted infections",
+    "q": "What microscopy finding distinguishes the source gonorrhea clue from chlamydia when both cause mucopurulent discharge?",
+    "a": "Gram-negative diplococci suggest Neisseria gonorrhoeae. Chlamydia is not recognized as visible diplococci on routine microscopy. Either infection can ascend and cause PID with increased ectopic-pregnancy risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC supports a diagnostic urethral Gram stain showing intracellular gram-negative diplococci in symptomatic men, but a negative stain does not exclude infection. Cervical, pharyngeal and rectal microscopy is insufficiently sensitive; use appropriate NAAT or culture.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2peds-1049",
+    "category": "Sexually transmitted infections",
+    "q": "What two joint presentations does the source associate with gonococcal infection?",
+    "a": "An acute knee monoarthritis, or monoarthritis/polyarthritis with cutaneous papules or pustules and tenosynovitis, including a de Quervain-like tendon-sheath clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC describes disseminated gonococcal infection with acral pustular or petechial lesions, asymmetric polyarthralgia, tenosynovitis or oligoarticular septic arthritis. The exact source triad is not mandatory, and genital infection can be minimally symptomatic.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2peds-1050",
+    "category": "Sexually transmitted infections",
+    "q": "Is the source contrast between gonococcal arthritis and reactive arthritis an absolute exclusion?",
+    "a": "No. Its main teaching is to recognize disseminated gonococcal infection as infectious arthritis rather than automatically calling it Chlamydia-associated reactive arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "Merck says disseminated gonococcal infection can closely mimic reactive arthritis and that a secondary reactive component can occur after persistent genitourinary infection. The PDF categorical statement that gonorrhea does not cause reactive arthritis should not replace clinical evaluation.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/joint-disorders/reactive-arthritis"
+    }
+  },
+  {
+    "id": "s2peds-1051",
+    "category": "Sexually transmitted infections",
+    "q": "What is the current treatment comparison for the PDF IM ceftriaxone answer to uncomplicated gonorrhea?",
+    "a": "The source recommends intramuscular ceftriaxone. Its separate routine dual-treatment instruction is not the current universal rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends ceftriaxone 500 mg IM once for uncomplicated cervical, urethral or rectal gonorrhea below 150 kg and 1 g at or above 150 kg. Add doxycycline 100 mg twice daily for seven days if chlamydia has not been excluded; pregnancy requires pregnancy-appropriate chlamydia treatment.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2peds-1052",
+    "category": "Sexually transmitted infections",
+    "q": "Must everyone with gonorrhea always also receive azithromycin or doxycycline?",
+    "a": "No. The PDF says always cotreat because microscopy cannot exclude concurrent chlamydia. The current qualification is to add antichlamydial treatment when chlamydial infection has not been excluded.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC no longer recommends routine ceftriaxone-plus-azithromycin dual therapy for every case. Testing can establish chlamydia status even though a Gram stain cannot; treatment and pregnancy choices must fit the actual result and setting.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2peds-1053",
+    "category": "Sexually transmitted infections",
+    "q": "Why does the source blame incomplete treatment when PID develops after ceftriaxone alone for presumed gonorrhea?",
+    "a": "Ceftriaxone alone would not treat concurrent chlamydia. The source vignette expects missed antichlamydial coverage as the explanation, but this is not the only possible cause of persistent symptoms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC PID guidance requires broad coverage of gonorrhea, chlamydia and anaerobes even with negative cervical tests. Established PID needs a full PID regimen, not simply the uncomplicated gonorrhea injection; reassess severity and alternative diagnoses.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1054",
+    "category": "Sexually transmitted infections",
+    "q": "What disposition does the source recommend for PID with sepsis or severe illness?",
+    "a": "Hospital admission and parenteral antibiotics, not a routine outpatient IM-plus-oral plan. Its examples are high fever, tachycardia and high WBC count.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC admission criteria also include possible surgical emergency, tubo-ovarian abscess, pregnancy, inability to tolerate outpatient therapy and failure to improve. A recommended inpatient regimen is IV ceftriaxone with doxycycline and metronidazole; treatment is tailored to pregnancy and other clinical factors.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1055",
+    "category": "Sexually transmitted infections",
+    "q": "Does a recent asymptomatic partner exposed to gonorrhea or chlamydia need to wait for their own positive result before treatment?",
+    "a": "The PDF says treat the exposed partner without waiting for test results. Absence of symptoms does not eliminate infection risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends evaluation, testing and presumptive treatment of partners with sexual contact in the preceding 60 days, and the most recent partner even if the last contact was earlier. Partner management includes other STI assessment and avoiding sex until treatment requirements are met.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2peds-1056",
+    "category": "Sexually transmitted infections",
+    "q": "What is the latest final USPSTF recommendation for preventing gonococcal ophthalmia neonatorum?",
+    "a": "Provide prophylactic topical ocular medication to all newborns: USPSTF 2019, Grade A. Erythromycin 0.5% ophthalmic ointment is the approved US agent. This agrees with the PDF neonatal-ointment prevention point.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "The final USPSTF recommendation dated January 29, 2019 applies regardless of gestational age. This is prophylaxis, not treatment of an already infected infant; CDC specifies a single application in each eye at birth and completion within 24 hours.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/ocular-prophylaxis-for-gonococcal-ophthalmia-neonatorum-preventive-medication"
+    }
+  },
+  {
+    "id": "s2peds-1057",
+    "category": "Sexually transmitted infections",
+    "q": "What systemic drug should be compared with the PDF cefotaxime answer for established neonatal gonococcal conjunctivitis?",
+    "a": "The PDF chooses IM cefotaxime and calls it the preferred pediatric third-generation cephalosporin. That is not the CDC default for gonococcal ophthalmia neonatorum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends ceftriaxone 25-50 mg/kg IV or IM once, maximum 250 mg. Use caution with neonatal hyperbilirubinemia, especially prematurity; cefotaxime 100 mg/kg IV or IM once is an option when ceftriaxone cannot be given because of concurrent IV calcium. Topical treatment alone is inadequate, and assess for disseminated infection.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+    }
+  },
+  {
+    "id": "s2peds-1058",
+    "category": "Sexually transmitted infections",
+    "q": "Is one-dose uncomplicated gonorrhea treatment enough for the source arthritis-dermatitis presentation?",
+    "a": "No. The source IM ceftriaxone label must not be read as a single-dose regimen for disseminated disease with arthritis, skin lesions or tenosynovitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC recommends initial hospitalization and infectious-disease consultation for disseminated gonococcal infection. Arthritis/arthritis-dermatitis treatment is ceftriaxone 1 g IM or IV every 24 hours, followed by susceptibility-guided therapy after improvement for at least seven days total.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2peds-1059",
+    "category": "Sexually transmitted infections",
+    "q": "What organism and wet-mount clue accompany the source yellow-green vaginal discharge?",
+    "a": "Trichomonas vaginalis, a flagellated protozoan causing trichomoniasis. Its source morphology contrasts with bacterial diplococci and yeast.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 75,
+      "url": "/mehlman/hy-pediatrics.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC notes that wet-mount microscopy has low sensitivity, roughly 44-68%, and declines quickly with delay. A negative wet mount does not exclude infection; use a more sensitive molecular test when available.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1060",
+    "category": "Vaginitis and syphilis",
+    "q": "What source cervical or vaginal findings support trichomoniasis?",
+    "a": "A strawberry cervix, meaning punctate cervical hemorrhages. The source also accepts yellow-green discharge with an erythematous vaginal canal when the strawberry finding is not mentioned.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC notes that many infections have minimal or no symptoms and the strawberry appearance is often better seen on colposcopy. These findings are clues, not required criteria or a substitute for testing.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1061",
+    "category": "Vaginitis and syphilis",
+    "q": "What source treatment and partner action prevent recurrent trichomoniasis?",
+    "a": "Metronidazole for the patient and treatment of the sexual partner, because untreated partners can cause reinfection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC recommends oral metronidazole 500 mg twice daily for seven days for women; the male regimen is 2 g orally once. Current partners need presumptive treatment, and partners should avoid sex until treatment is complete and symptoms have resolved. Vaginal metronidazole gel is not an effective substitute for systemic trichomoniasis therapy.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1062",
+    "category": "Vaginitis and syphilis",
+    "q": "Is Gardnerella vaginalis alone the complete cause of bacterial vaginosis?",
+    "a": "The source labels Gardnerella as the cause and describes a gram-negative rod. More accurately, BV is a polymicrobial vaginal dysbiosis, and Gardnerella can appear gram-variable.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC describes loss of Lactobacillus predominance with multiple anaerobic organisms and a polymicrobial biofilm. Gardnerella is one contributor; a positive Gardnerella finding alone is not the whole diagnosis.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/bv.htm"
+    }
+  },
+  {
+    "id": "s2peds-1063",
+    "category": "Vaginitis and syphilis",
+    "q": "What discharge and whiff-test findings does the source associate with bacterial vaginosis?",
+    "a": "Thin gray or watery discharge and a fish-like odor after potassium hydroxide, KOH, is added: a positive whiff test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC Amsel diagnosis requires at least three of four findings: thin homogeneous discharge, clue cells, pH above 4.5 and a fishy odor before or after KOH. Many patients are asymptomatic, and one finding alone is not a full diagnosis.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/bv.htm"
+    }
+  },
+  {
+    "id": "s2peds-1064",
+    "category": "Vaginitis and syphilis",
+    "q": "What cells are shown in the actual source wet-mount image, and what makes them diagnostic clues?",
+    "a": "Clue cells: squamous vaginal epithelial cells studded with adherent bacteria that obscure their borders. The source image illustrates the bacterial coating rather than flagellated protozoa or fungal hyphae.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC includes clue cells as one Amsel criterion for BV, interpreted alongside discharge, pH and odor. The actual image is from the source PDF, not a reconstructed illustration.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/bv.htm"
+    },
+    "img": "/mehlman/figures/peds-p076-clue-cells.jpg"
+  },
+  {
+    "id": "s2peds-1065",
+    "category": "Vaginitis and syphilis",
+    "q": "Must candidal vulvovaginitis have thick white discharge?",
+    "a": "No. The source describes thick white cottage-cheese-like discharge as its usual vignette but also itchy erythematous vaginal tissue without overt discharge. It contrasts this with the yellow-green discharge clue for trichomoniasis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC lists itch, soreness, external dysuria, redness and curdy discharge but says none is specific. Its diagnosis uses compatible symptoms plus yeast on microscopy, culture or another test. The PDF two-thirds versus one-third question split is anecdotal, not a clinical frequency estimate.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1066",
+    "category": "Vaginitis and syphilis",
+    "q": "Which antifungals does the source list for vaginal candidiasis, and what current treatment qualification matters?",
+    "a": "Topical nystatin or oral fluconazole. These are the PDF choices, not an assertion that all vaginal symptoms are Candida or that oral treatment is right during pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC uncomplicated VVC regimens list intravaginal azoles or fluconazole 150 mg orally once. During pregnancy, only topical azoles for seven days are recommended; oral fluconazole should not be used. Persistent, recurrent or complicated symptoms need reassessment and may need a different regimen.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1067",
+    "category": "Vaginitis and syphilis",
+    "q": "What organism and microscopy method identify the source syphilis pathogen?",
+    "a": "Treponema pallidum, a spirochete or spiral-shaped bacterium. The PDF highlights visualization with dark-field microscopy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC recognizes direct darkfield examination or validated molecular testing of lesion material for early disease. Standard serologic diagnosis uses both a nontreponemal and a treponemal test; one serologic test type alone is insufficient.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1068",
+    "category": "Vaginitis and syphilis",
+    "q": "What lesion is the classic source presentation of primary syphilis?",
+    "a": "A painless genital chancre, meaning a painless ulcer at the inoculation site.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC cautions that primary syphilis can also have multiple, atypical or painful lesions. A painful ulcer does not by itself exclude syphilis.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1069",
+    "category": "Vaginitis and syphilis",
+    "q": "What time course and skin findings does the PDF associate with secondary syphilis?",
+    "a": "Roughly six weeks to six months after the initial chancre appears and disappears, a generalized rash can involve the palms and soles. It also lists condylomata lata, painless genital plaques.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "Merck describes symptoms typically beginning six to twelve weeks after chancre appearance, sometimes while the chancre remains present. The PDF timing is a broad clue, not a requirement that the primary lesion fully heal first.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/sexually-transmitted-infections-stis/syphilis"
+    }
+  },
+  {
+    "id": "s2peds-1070",
+    "category": "Vaginitis and syphilis",
+    "q": "How do the source condylomata lata of secondary syphilis differ from HPV condylomata acuminata?",
+    "a": "Condylomata lata are broad, painless syphilitic plaques. Condylomata acuminata are the papular or cauliflower-like HPV warts described earlier. Similar names do not mean the same infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2peds-1071",
+    "category": "Vaginitis and syphilis",
+    "q": "What late syphilis manifestations does the source list years after untreated infection?",
+    "a": "Gummas, arthritis and ascending aortitis. The PDF describes gumma lesions on sites such as the face or nose and associates aortitis with tree-bark change related to the vasa vasorum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "Merck describes gummas as destructive inflammatory masses, not simply primary chancres at a new site. Late cardiovascular disease can produce ascending aortic aneurysm, aortic insufficiency or coronary-ostial narrowing. Bone involvement can be painful, so the source painless shorthand is not universal.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/sexually-transmitted-infections-stis/syphilis"
+    }
+  },
+  {
+    "id": "s2peds-1072",
+    "category": "Vaginitis and syphilis",
+    "q": "Does neurosyphilis have to occur after primary, secondary and tertiary syphilis in sequence?",
+    "a": "No. Neurosyphilis can occur at any stage. The PDF emphasizes that a young patient, including its 18-year-old example, can have neurologic disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC distinguishes early manifestations such as meningitis, cranial neuropathy, meningovascular disease or stroke from late manifestations such as tabes dorsalis or general paresis. Any-stage involvement does not mean every late syndrome commonly occurs soon after infection.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1073",
+    "category": "Vaginitis and syphilis",
+    "q": "What sensory deficits and bedside sign suggest the source tabes dorsalis presentation?",
+    "a": "Loss of vibration and proprioception from posterior-column involvement, with a positive Romberg sign: instability or falling when standing with the eyes closed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "Merck describes progressive posterior-column and nerve-root degeneration, often decades after infection, with possible loss of reflexes and lightning pains. This is a late neurosyphilis pattern, not the only neurological presentation.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/sexually-transmitted-infections-stis/syphilis"
+    }
+  },
+  {
+    "id": "s2peds-1074",
+    "category": "Vaginitis and syphilis",
+    "q": "What is the light-near response in the source Argyll Robertson pupil?",
+    "a": "Accommodation or constriction for near vision is preserved, but the pupil does not react normally to light. Use the clinical name Argyll Robertson pupil rather than the source stigmatizing mnemonic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "Merck associates these light-near dissociated pupils with neurosyphilis, including tabes dorsalis. The finding is interpreted with the broader neurological and infection assessment.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/sexually-transmitted-infections-stis/syphilis"
+    }
+  },
+  {
+    "id": "s2peds-1075",
+    "category": "Vaginitis and syphilis",
+    "q": "Why does the source mention stroke without hypertension in a young patient with possible syphilis?",
+    "a": "Meningovascular neurosyphilis can cause stroke-like focal deficits even in a young patient without the usual vascular risk profile. The clue is not a diagnosis by age or blood pressure alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC lists stroke among possible early neurologic manifestations. Neurologic signs require assessment and, when syphilis is suspected with clinical neurologic involvement, CSF evaluation before treatment; a young person with acute deficits still needs urgent stroke care.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/neurosyphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1076",
+    "category": "Vaginitis and syphilis",
+    "q": "How does the source directly diagnose a suspected primary syphilitic chancre?",
+    "a": "Visualize spirochetes by dark-field microscopy of lesion exudate or scraping material when the method is available.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 76,
+      "url": "/mehlman/hy-pediatrics.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC considers direct lesion detection definitive for early syphilis, but darkfield expertise is not universally available. Use appropriate serology and validated direct tests; early negative serology does not automatically exclude disease.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
   }
 ];
