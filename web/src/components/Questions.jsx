@@ -812,7 +812,7 @@ export default function Questions() {
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
                     <AnswerText text={item.a} />
-                    {item.source && <a className="q-source" href={item.source.url} target="_blank" rel="noreferrer">{item.source.title}, p. {item.source.page} ↗</a>}
+                    {item.source && <a className="q-source" href={item.source.url} target="_blank" rel="noreferrer">p. {item.source.page} ↗</a>}
                     {item.aimg && <img className="q-review-img" src={item.aimg} alt={item.alt || ""} loading="lazy" />}
                   </div>
                 )}
@@ -934,7 +934,7 @@ export default function Questions() {
           <div className="q-answer-block">
             <div className="q-divider-line" />
             <AnswerText text={q.a} />
-            {q.source && <a className="q-source" href={q.source.url} target="_blank" rel="noreferrer">{q.source.title}, p. {q.source.page} ↗</a>}
+            {q.source && <a className="q-source" href={q.source.url} target="_blank" rel="noreferrer">p. {q.source.page} ↗</a>}
             {q.aimg && <img className="q-question-img" src={q.aimg} alt={q.alt || ""} loading="lazy" />}
           </div>
         )}

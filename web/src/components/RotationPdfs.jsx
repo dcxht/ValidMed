@@ -24,7 +24,7 @@ export default function RotationPdfs() {
             <span className="rotation-number" aria-hidden="true">{index + 1}</span>
             <div className="rotation-detail">
               <h3>{rotation.name}</h3>
-              <p>{rotation.title} <span className="rotation-author">by Mehlman Medical</span></p>
+              <p>{rotation.title}</p>
               {index === 0 ? <a className="rotation-practice" href="#practice">Review questions · {BANKS.s2fm.questions.length} →</a> : <p className="rotation-pending">Question bank not added yet</p>}
               <div className="rotation-links">
                 <a className="rotation-pdf" href={`/mehlman/${rotation.pdf}.pdf`} target="_blank" rel="noreferrer">PDF ↗</a>
