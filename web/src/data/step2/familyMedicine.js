@@ -31017,5 +31017,95 @@ export default [
       "page": 45,
       "url": "/mehlman/hy-family-medicine.pdf#page=45"
     }
+  },
+  {
+    "id": "s2fm-2622",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "What anatomy and treatment does the PDF combine under adenoid hypertrophy?",
+    "a": "It calls enlarged tonsils adenoids, links them to stridor, and gives tonsillectomy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    },
+    "guideline": {
+      "text": "Boston Medical Center distinguishes palatine tonsils at the back of the throat from adenoids behind the nose. Tonsillectomy removes tonsils; adenoidectomy removes adenoids. They can be performed together, but the anatomical terms and procedures are not interchangeable.",
+      "url": "https://www.bmc.org/content/tonsillectomy-and-adenoids-post-op"
+    }
+  },
+  {
+    "id": "s2fm-2623",
+    "category": "Exact-source clinical detail review",
+    "q": "What confirmatory test does the PDF choose for a lung cavity containing a suspected Aspergillus fungus ball?",
+    "a": "Open lung biopsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    },
+    "guideline": {
+      "text": "IDSA 2016 defines single uncomplicated aspergilloma using a cavity with fungal ball plus microbiological or serological Aspergillus evidence and clinical/radiographic context. This is not a universal requirement for open lung biopsy; management also depends on symptoms and progression.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4967602/"
+    }
+  },
+  {
+    "id": "s2fm-2624",
+    "category": "Exact-source clinical detail review",
+    "q": "What infectious cause does the PDF assign to IgA nephropathy?",
+    "a": "Viral infection rather than group A strep.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    },
+    "guideline": {
+      "text": "National Kidney Foundation, updated August 2026: The exact cause is not well understood; genes and environment are implicated. Respiratory infections may trigger the process, but IgA nephropathy is not simply a kidney infection caused by a virus.",
+      "url": "https://www.kidney.org/kidney-topics/iga-nephropathy"
+    }
+  },
+  {
+    "id": "s2fm-2625",
+    "category": "Exact-source clinical detail review",
+    "q": "What drug class does the PDF assign to allopurinol in its interstitial-nephritis example?",
+    "a": "A sulfa drug.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    },
+    "guideline": {
+      "text": "MedlinePlus classifies allopurinol as a xanthine oxidase inhibitor, which reduces uric-acid production. The source sulfa-drug classification should not be used to infer its class.",
+      "url": "https://medlineplus.gov/druginfo/meds/a682673.html"
+    }
+  },
+  {
+    "id": "s2fm-2626",
+    "category": "Renal exact-source review",
+    "q": "What explanation does the PDF propose for abdominal pain in IgA vasculitis?",
+    "a": "Presumed viral gastroenteritis leading to IgA nephropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    },
+    "guideline": {
+      "text": "NIDDK describes IgA vasculitis as inflammation of small blood vessels involving skin, joints, intestines and kidneys. Abdominal symptoms are gastrointestinal involvement of the disease, sometimes with bleeding or intussusception, rather than necessarily viral gastroenteritis.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/iga-vasculitis"
+    }
+  },
+  {
+    "id": "s2fm-2627",
+    "category": "Renal exact-source review",
+    "q": "What findings does the PDF use to start an ACE inhibitor or ARB in diabetes?",
+    "a": "Hypertension, proteinuria, or increased creatinine or renin; it calls these the first drugs used.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    },
+    "guideline": {
+      "text": "ADA 2026 recommendation 11.6a specifies diabetes with hypertension and albuminuria or reduced eGFR, while 11.6c rejects ACEi/ARB for primary prevention with normal BP, UACR and eGFR. Treatment is not selected from elevated renin alone, and eGFR/potassium require monitoring.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S246/163914/11-Chronic-Kidney-Disease-and-Risk-Management"
+    }
   }
 ];
