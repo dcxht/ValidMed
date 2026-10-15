@@ -30913,5 +30913,109 @@ export default [
       "text": "Merck Professional uses allergic bronchopulmonary aspergillosis: hypersensitivity to Aspergillus, usually in asthma or cystic fibrosis, with characteristic immunologic and imaging evaluation.",
       "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/asthma-and-related-disorders/allergic-bronchopulmonary-aspergillosis-abpa"
     }
+  },
+  {
+    "id": "s2fm-2614",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "What absolute restriction does the PDF put on inhaled corticosteroids during acute asthma?",
+    "a": "They have no role in acute asthma management; it instead names IV methylprednisolone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-family-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "GINA 2026 discusses early high-dose ICS in emergency care, with evidence and age-specific limits, and says hospitalized patients should continue or receive ICS-containing therapy. ICS is not a replacement for urgent bronchodilation/systemic steroids when needed, but no role is too absolute.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2615",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "What blanket role does the pulmonary drug table assign to inhaled fluticasone or beclomethasone during exacerbations?",
+    "a": "Prevention only, with no role in acute exacerbations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "GINA 2026 describes potential early emergency-department ICS benefit and continuation/prescription of ICS-containing treatment during hospitalization; adult add-on evidence with systemic steroids is conflicting. Its acute-care role is more qualified than the source exclusion.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2616",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "Which lymph-node finding earns a Centor point in the PDF?",
+    "a": "Lymphadenopathy, described broadly as cervical, submandibular and similar nodes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "IDSA 2025 scoring table specifies swollen tender anterior cervical nodes for Centor/McIsaac scoring, not any lymphadenopathy in any neck region.",
+      "url": "https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/"
+    }
+  },
+  {
+    "id": "s2fm-2617",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "What does the PDF say about adding age to the pharyngitis clinical score?",
+    "a": "It warns that using age can give wrong USMLE answers and tells readers to use only the four simplified points.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "IDSA 2025 includes multiple validated clinical scoring systems, including age-adjusted McIsaac. Scoring helps select patients for testing; a source exam preference is not a rule against age-appropriate clinical assessment.",
+      "url": "https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/"
+    }
+  },
+  {
+    "id": "s2fm-2618",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "What interval does the source give for spontaneous resolution of serous otitis media?",
+    "a": "Usually 4-8 weeks after one or two ear infections; it favors observation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-2619",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "Which lingering-URI sinusitis example does the PDF mention despite its unusual throat appearance?",
+    "a": "Nocturnal cough and gray oropharyngeal membranes; the source says sinusitis when diphtheria is not an answer choice.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-2620",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "What immune-deficiency sinusitis vignette does the source mention?",
+    "a": "Recurrent pneumonias plus a sore cheek in IgA deficiency, reflecting recurrent sinopulmonary infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-2621",
+    "category": "Respiratory and ENT exact-source review",
+    "q": "What clinical change can cholesteatoma cause as it enlarges beyond the middle ear in the PDF?",
+    "a": "Obstructive/conductive hearing loss and growth into the inner ear; it requires surgery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
   }
 ];
