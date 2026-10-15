@@ -2,7 +2,7 @@
 
 ## Current state, October 15 2026 02:39 CDT
 
-3245 active source-page-linked FM cards, including 229 actual figure cards and 659 separately linked verification notes. Historical 3463 records retain 218 retired duplicate IDs for saved-session hydration/missed/flags/history. New sessions omit duplicates; no saved progress deleted. All clinical pages 4-317 have received three reading passes; pp1-3 and 318-319 are nonclinical end matter. Final completion is NOT claimed.
+3246 active source-page-linked FM cards, including 230 actual figure cards and 667 separately linked verification notes. Historical 3471 records retain 225 retired duplicate IDs for saved-session hydration/missed/flags/history. New sessions omit duplicates; no saved progress deleted. All clinical pages 4-317 have received three reading passes; pp1-3 and 318-319 are nonclinical end matter. Final completion is NOT claimed.
 
 Detailed final source-to-card reconciliation is through p317. Three hundred seventy-five missed source records added 3089-3463. Page maps are locators, not proof of complete coverage. The bank has answer/readability and automated integrity checks, but these are not independent clinical verification of every fact. Remaining: unresolved source-claim clinical cross-checks, review of mapped omissions/duplicates and final figure/mobile QA. Final reconciliation through317 is a completed comparison pass, not proof that every claim is clinically verified. Latest final USPSTF controls screening/prevention; other verified differences use separate notes. AHA 2025 torsades table now read completely; ACOG exact lithium details gated and 2026 JIA is a summary, not full manuscript. Several hours FM work remain. Other rotations unstarted, sequential after FM. Partial remains.
 

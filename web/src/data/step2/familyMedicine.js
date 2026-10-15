@@ -5266,7 +5266,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=131"
     },
     "img": "/s2img/fm-131-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      131
+    ]
   },
   {
     "id": "s2fm-0432",
@@ -5400,7 +5403,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=134"
     },
     "img": "/s2img/fm-134-2.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      134
+    ]
   },
   {
     "id": "s2fm-0442",
@@ -5497,7 +5503,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=137"
     },
     "img": "/s2img/fm-137-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      137
+    ]
   },
   {
     "id": "s2fm-0449",
@@ -5603,7 +5612,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=140"
     },
     "img": "/s2img/fm-140-1.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      140
+    ]
   },
   {
     "id": "s2fm-0457",
@@ -8855,7 +8867,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=198"
     },
     "img": "/s2img/fm-198-0.png",
-    "alt": "Clinical image from the source PDF"
+    "alt": "Clinical image from the source PDF",
+    "sourcePages": [
+      198
+    ]
   },
   {
     "id": "s2fm-0718",
@@ -8905,7 +8920,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=199"
     },
     "img": "/s2img/fm-199-2.png",
-    "alt": "Clinical image from the source PDF"
+    "alt": "Clinical image from the source PDF",
+    "sourcePages": [
+      199
+    ]
   },
   {
     "id": "s2fm-0722",
@@ -8944,7 +8962,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=201"
     },
     "img": "/s2img/fm-201-0.png",
-    "alt": "Clinical image from the source PDF"
+    "alt": "Clinical image from the source PDF",
+    "sourcePages": [
+      201
+    ]
   },
   {
     "id": "s2fm-0725",
@@ -14579,8 +14600,8 @@ export default [
   {
     "id": "s2fm-1173",
     "category": "Gastroenterology",
-    "q": "Stress-associated isolated indirect hyperbilirubinemia accompanies this scleral finding in a healthy young adult. Which syndrome is described?",
-    "a": "Gilbert syndrome; scleral icterus is the photographed finding.",
+    "q": "What visible bilirubin-related finding accompanies the source pancreatic-head-cancer example?",
+    "a": "Jaundice of the skin. The photo is in the pancreatic-cancer row, which describes obstructive/direct hyperbilirubinemia and Courvoisier sign; it is not a scleral photograph or a Gilbert-syndrome image.",
     "img": "/s2img/fm-63-0.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -14592,15 +14613,19 @@ export default [
   {
     "id": "s2fm-1174",
     "category": "Gastroenterology",
-    "q": "What scan finding is used in the source Meckel-diverticulum discussion?",
-    "a": "Technetium uptake indicating ectopic gastric mucosa. Interpret it with the bleeding history.",
+    "q": "Which contrast-study appearance illustrates the source midgut-volvulus discussion?",
+    "a": "A corkscrew appearance of the proximal small bowel on an upper-GI contrast study. The source image continues the midgut-volvulus row from page66; it is not a technetium Meckel scan.",
     "img": "/s2img/fm-67-0.png",
     "alt": "Figure from the source PDF",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 67,
       "url": "/mehlman/hy-family-medicine.pdf#page=67"
-    }
+    },
+    "sourcePages": [
+      66,
+      67
+    ]
   },
   {
     "id": "s2fm-1175",
@@ -14938,7 +14963,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 131,
       "url": "/mehlman/hy-family-medicine.pdf#page=131"
-    }
+    },
+    "duplicateOf": "s2fm-0431"
   },
   {
     "id": "s2fm-1201",
@@ -14951,7 +14977,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 134,
       "url": "/mehlman/hy-family-medicine.pdf#page=134"
-    }
+    },
+    "duplicateOf": "s2fm-0441"
   },
   {
     "id": "s2fm-1202",
@@ -14981,7 +15008,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 137,
       "url": "/mehlman/hy-family-medicine.pdf#page=137"
-    }
+    },
+    "duplicateOf": "s2fm-0448"
   },
   {
     "id": "s2fm-1204",
@@ -15007,7 +15035,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 140,
       "url": "/mehlman/hy-family-medicine.pdf#page=140"
-    }
+    },
+    "duplicateOf": "s2fm-0456"
   },
   {
     "id": "s2fm-1206",
@@ -15193,7 +15222,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 198,
       "url": "/mehlman/hy-family-medicine.pdf#page=198"
-    }
+    },
+    "duplicateOf": "s2fm-0717"
   },
   {
     "id": "s2fm-1220",
@@ -15206,7 +15236,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 199,
       "url": "/mehlman/hy-family-medicine.pdf#page=199"
-    }
+    },
+    "duplicateOf": "s2fm-0721"
   },
   {
     "id": "s2fm-1221",
@@ -15219,7 +15250,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 201,
       "url": "/mehlman/hy-family-medicine.pdf#page=201"
-    }
+    },
+    "duplicateOf": "s2fm-0724"
   },
   {
     "id": "s2fm-1222",
@@ -30806,7 +30838,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "ACOG's official perinatal-treatment page recommends against withholding or stopping mental-health medication because of pregnancy or lactation alone. The PDF blanket avoidance/replacement shortcut is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. Detailed lithium-specific recommendations from an external guideline copy remain pending publisher-text verification.",
+      "text": "The official ACOG perinatal-treatment page recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. A third-party-hosted PDF claims to reproduce lithium-specific guidance, but publisher-text verification of those details remains pending.",
       "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     },
     "sourcePages": [
@@ -30841,7 +30873,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "ACOG's official perinatal-treatment page recommends against withholding or stopping mental-health medication because of pregnancy or lactation alone. The PDF blanket avoidance/replacement shortcut is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. Detailed lithium-specific recommendations from an external guideline copy remain pending publisher-text verification.",
+      "text": "The official ACOG perinatal-treatment page recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. A third-party-hosted PDF claims to reproduce lithium-specific guidance, but publisher-text verification of those details remains pending.",
       "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     }
   },
@@ -43067,7 +43099,11 @@ export default [
     "sourcePages": [
       295,
       301
-    ]
+    ],
+    "guideline": {
+      "text": "ACC/AHA 2025 issuing-society summary includes ACE inhibitors, ARBs, long-acting dihydropyridine CCBs and thiazide-type diuretics among initial options. Selection and combinations depend on the person; its summary does not restrict uncomplicated hypertension to only HCTZ/CCB or assign every CVD condition a single ACEi/ARB-first rule.",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/08/13/20/03/new-high-blood-pressure-guideline-emphasizes-prevention-early-treatment-to-reduce-cvd-risk"
+    }
   },
   {
     "id": "s2fm-3410",
@@ -43144,6 +43180,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 300,
       "url": "/mehlman/hy-family-medicine.pdf#page=300"
+    },
+    "guideline": {
+      "text": "ACC/AHA 2025 emphasizes combined healthy diet/sodium reduction, physical activity, weight management, stress measures and home monitoring. Weight loss is important with excess weight, but this guidance does not establish one universal lifestyle ranking for every patient.",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/08/13/20/03/new-high-blood-pressure-guideline-emphasizes-prevention-early-treatment-to-reduce-cvd-risk"
     }
   },
   {
@@ -43170,6 +43210,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 301,
       "url": "/mehlman/hy-family-medicine.pdf#page=301"
+    },
+    "guideline": {
+      "text": "ACC/AHA 2025 issuing-society summary uses stage 1 hypertension at 130-139 systolic or 80-89 diastolic, and stage 2 at 140 or 90, not a separate diagnostic definition reserved for diabetes. Medication decisions also depend on risk and clinical setting.",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/08/13/20/03/new-high-blood-pressure-guideline-emphasizes-prevention-early-treatment-to-reduce-cvd-risk"
     }
   },
   {
@@ -43340,6 +43384,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 308,
       "url": "/mehlman/hy-family-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "Merck Professional describes Zenker diverticula as mucosa/submucosa outpouchings through cricopharyngeal muscle, probably from incoordination of pharyngeal propulsion and cricopharyngeal relaxation. This supports a pressure/swallowing mechanism but does not establish the PDF obesity-risk claim.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/esophageal-diverticula"
     }
   },
   {
@@ -43509,6 +43557,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 314,
       "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "The official ACOG perinatal-treatment page recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. A third-party-hosted PDF claims to reproduce lithium-specific guidance, but publisher-text verification of those details remains pending.",
+      "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     }
   },
   {
@@ -43597,6 +43649,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 317,
       "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    },
+    "guideline": {
+      "text": "CDC malaria diagnostic guidance includes hypoglycemia among complications assessed by the initial chemistry panel, together with anemia, renal failure, bilirubin and acid-base abnormalities. This supports the association without making hypoglycemia the only severe-malaria concern.",
+      "url": "https://www.cdc.gov/malaria/hcp/diagnosis-testing/index.html"
     }
   },
   {
@@ -43678,6 +43734,110 @@ export default [
     "guideline": {
       "text": "Merck Professional, reviewed June 2026: routine results may show normal platelet count/INR and only sometimes a slightly prolonged PTT. Bleeding-time testing is unreliable and no longer done. Diagnosis uses VWF antigen/function and factor VIII assessment, with repeat testing when transient elevation could mask disease.",
       "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/von-willebrand-disease"
+    }
+  },
+  {
+    "id": "s2fm-3464",
+    "category": "Source figure questions",
+    "q": "Recurrent facial swelling is shown in the source hereditary-angioedema discussion. Which protein deficiency does it name?",
+    "a": "C1 esterase inhibitor deficiency, not simply C1 esterase deficiency. The photograph alone cannot distinguish hereditary angioedema from every other cause of swelling.",
+    "img": "/s2img/fm-131-xref-822.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-family-medicine.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2fm-3465",
+    "category": "Source figure questions",
+    "q": "What sun-damage-associated premalignant lesion is shown on the forehead?",
+    "a": "Actinic keratosis, a rough/scaly lesion that can precede squamous-cell carcinoma in the source discussion.",
+    "img": "/s2img/fm-134-xref-848.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2fm-3466",
+    "category": "Source figure questions",
+    "q": "This large vascular lesion accompanies thrombocytopenia in the source. What syndrome does the PDF name?",
+    "a": "Kasabach-Merritt syndrome/phenomenon. The PDF calls it infantile hemangioma with platelet sequestration and says surgery; those terminology/treatment statements require the separate source-specific note, not automatic surgery.",
+    "img": "/s2img/fm-137-xref-877.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "NCI KHE guidance describes surgery in selected resectable or rapidly growing tumors and medical options including chemotherapy. Its separate definition links Kasabach-Merritt coagulopathy to tufted angioma/KHE rather than ordinary infantile hemangioma. Surgery-only is not a complete treatment rule.",
+      "url": "https://www.cancer.gov/pediatric%2Dadult%2Drare%2Dtumor/rare-tumors/rare-vascular-tumors/kaposiform-hemangioendothelioma"
+    }
+  },
+  {
+    "id": "s2fm-3467",
+    "category": "Source figure questions",
+    "q": "In the source leg-vein photograph, a tender warm palpable superficial cord would suggest what?",
+    "a": "Superficial thrombophlebitis. The photo alone does not establish active thrombosis, extent or junction proximity; the blanket source enoxaparin rule has a separate current note.",
+    "img": "/s2img/fm-140-xref-902.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "SVS/AVF/AVLS 2023: SVT treatment depends on clot length/location and junction proximity. Above-knee saphenous SVT >5 cm long and >3 cm from the SFJ receives 45-day fondaparinux, with rivaroxaban an alternative; do not apply a universal enoxaparin rule.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+    }
+  },
+  {
+    "id": "s2fm-3468",
+    "category": "Source figure questions",
+    "q": "Which visual-field defects correspond to the labeled optic-pathway lesion sites?",
+    "a": "A: central scotoma; B: monocular vision loss; C: bitemporal hemianopia; D/G/H: contralateral homonymous hemianopia; E/J: contralateral superior quadrantanopia from temporal pathways; F/I: contralateral inferior quadrantanopia from parietal pathways; K: homonymous hemianopia with macular sparing in the source PCA example.",
+    "img": "/s2img/fm-194-visual-pathways.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-family-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2fm-3469",
+    "category": "Source figure questions",
+    "q": "Which retinopathy findings are labeled in the source normal-versus-diabetic retina diagram?",
+    "a": "Hemorrhages, abnormal new vessels, aneurysm, cotton-wool spots and hard exudates, compared with normal disc/macula/vessel anatomy. The source dry/wet terminology is separately reviewed.",
+    "img": "/s2img/fm-198-retinopathy-diagram.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2fm-3470",
+    "category": "Source figure questions",
+    "q": "Which hypertensive-retinopathy findings are labeled on this fundus image?",
+    "a": "AV nicking, arteriolar narrowing/copper wiring, hemorrhage, exudates/cotton-wool spots and disc edema in the source illustration. Not every hypertensive patient has every finding.",
+    "img": "/s2img/fm-199-xref-1190.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2fm-3471",
+    "category": "Source figure questions",
+    "q": "What pigment-related iris finding illustrates the source albinism discussion?",
+    "a": "A pale/pink iris from reduced pigment in its albinism example. This photograph alone does not establish an albinism subtype.",
+    "img": "/s2img/fm-201-xref-1209.png",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
     }
   }
 ];
