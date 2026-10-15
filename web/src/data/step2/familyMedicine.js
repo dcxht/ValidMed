@@ -35025,5 +35025,249 @@ export default [
       "page": 191,
       "url": "/mehlman/hy-family-medicine.pdf#page=191"
     }
+  },
+  {
+    "id": "s2fm-2938",
+    "category": "Opioid and ophthalmic source detail",
+    "q": "Does a history of opioid misuse justify withholding analgesia for severe traumatic pain in the PDF?",
+    "a": "No. The source emphasizes treating severe pain despite that history; the actual regimen requires monitored, individualized care.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2939",
+    "category": "Opioid and ophthalmic source detail",
+    "q": "Which postoperative blood-pressure mechanism does the source treat with morphine?",
+    "a": "Hypertension driven by severe postoperative pain; its example does not make morphine a general antihypertensive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2940",
+    "category": "Opioid and ophthalmic source detail",
+    "q": "Which initial postoperative combination does the PDF favor over jumping straight to morphine?",
+    "a": "Oxycodone with acetaminophen, in its source example rather than a universal postoperative prescription.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2941",
+    "category": "Opioid and ophthalmic source detail",
+    "q": "Which non-mu opioid-receptor subtypes does the source mention?",
+    "a": "Kappa, delta and NOP, while emphasizing mu and kappa as the best-studied in its table.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2942",
+    "category": "Opioid and ophthalmic source detail",
+    "q": "What muscarinic action does the source give for pilocarpine in glaucoma?",
+    "a": "Pupillary constriction and increased aqueous outflow, with treatment selection depending on glaucoma mechanism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-2943",
+    "category": "Opioid and ophthalmic source detail",
+    "q": "What hemorrhage risk factors does the PDF emphasize for the vitreous?",
+    "a": "Diabetes and hypertension. The source list is not exhaustive and does not exclude trauma-related bleeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2fm-2944",
+    "category": "Opioid and ophthalmic source detail",
+    "q": "What two visible periocular lipid findings does the PDF name?",
+    "a": "Orbital xanthoma and corneal arcus; it notes that these may sometimes occur without dyslipidemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2fm-2945",
+    "category": "Ophthalmic exact-source review",
+    "q": "Which two opioid-like agents does the source group for diarrhea-predominant IBS?",
+    "a": "Loperamide and eluxadoline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "DailyMed Viberzi labeling contraindicates eluxadoline without a gallbladder because of serious pancreatitis/sphincter-of-Oddi-spasm risk, among other contraindications. They are not interchangeable options for every patient with diarrhea.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7821bd40-4c84-4984-951b-6436ae20421a"
+    }
+  },
+  {
+    "id": "s2fm-2946",
+    "category": "Ophthalmic exact-source review",
+    "q": "What drainage-angle structure does the PDF put in parentheses as canal of Schlemm?",
+    "a": "The opening between cornea and iris in its glaucoma explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    },
+    "guideline": {
+      "text": "NEI distinguishes the opening where iris and cornea meet from the trabecular meshwork that fluid passes through. Calling the entire drainage angle the canal of Schlemm compresses distinct anatomic structures.",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/glaucoma-and-eye-pressure"
+    }
+  },
+  {
+    "id": "s2fm-2947",
+    "category": "Ophthalmic exact-source review",
+    "q": "What trauma-related diagnostic exclusion does the PDF make in its boxer-eye vignette?",
+    "a": "It chooses retinal detachment rather than vitreous hemorrhage after a blow to the eye.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    },
+    "guideline": {
+      "text": "AAO EyeWiki lists ocular trauma among common vitreous-hemorrhage causes and notes that younger patients often have recent trauma. A blow alone cannot exclude vitreous hemorrhage; urgent eye examination distinguishes the injuries.",
+      "url": "https://eyewiki.aao.org/Vitreous_Hemorrhage"
+    }
+  },
+  {
+    "id": "s2fm-2948",
+    "category": "Ophthalmic exact-source review",
+    "q": "What exposure contexts does the source give for a corneal abrasion?",
+    "a": "Contact-lens use or irritants such as sand, with scratching/tearing symptoms; fluorescein highlights an epithelial defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-family-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2fm-2949",
+    "category": "Ophthalmic exact-source review",
+    "q": "What other abnormalities are represented by the source WAGR acronym besides aniridia?",
+    "a": "Wilms tumor, genitourinary anomalies and developmental/intellectual disability, in its WT1-related syndrome discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2fm-2950",
+    "category": "Ophthalmic exact-source review",
+    "q": "What broader features does the source CHARGE mnemonic connect to coloboma?",
+    "a": "Heart defects, choanal atresia, growth/development differences, genitourinary anomalies and ear defects, using the source mnemonic rather than complete diagnostic criteria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2fm-2951",
+    "category": "Ophthalmic exact-source review",
+    "q": "Which adjacent infection does the source name before pediatric orbital cellulitis?",
+    "a": "Paranasal sinus infection, with spread to tissues posterior to the orbital septum requiring emergency assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-2952",
+    "category": "Eye infection finer source details",
+    "q": "What blood-cell shift does the PDF associate with infant chlamydial pneumonia?",
+    "a": "A lymphocytic shift, attributed to intracellular infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    },
+    "guideline": {
+      "text": "CDC describes infant C. trachomatis pneumonia at 1-3 months as subacute and often afebrile, with frequent peripheral eosinophilia. The source cell-type explanation does not capture the usual guideline-described laboratory clue.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2fm-2953",
+    "category": "Eye infection finer source details",
+    "q": "What timing and fever pattern does the source use in one chlamydial-pneumonia example?",
+    "a": "A febrile three-week-old after topical treatment of neonatal conjunctivitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    },
+    "guideline": {
+      "text": "CDC describes the usual pneumonia presentation at 1-3 months as subacute and afebrile. A febrile young infant needs broader urgent assessment, not attribution to a single exam pattern.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2fm-2954",
+    "category": "Eye infection finer source details",
+    "q": "Which chlamydia serovars does the PDF connect to neonatal ophthalmia?",
+    "a": "D-K, the urogenital serovars in its source account.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-2955",
+    "category": "Eye infection finer source details",
+    "q": "How does the source distinguish maternal prevention from treatment of established neonatal chlamydial disease?",
+    "a": "Screen/treat maternal infection during pregnancy for prevention; use systemic neonatal therapy once infection is established rather than ointment alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-2956",
+    "category": "Eye infection finer source details",
+    "q": "Which congenital-infection contexts does the PDF list for pediatric cataract?",
+    "a": "Congenital rubella or syphilis; it also mentions NF2-related disease as a noninfectious context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-2957",
+    "category": "Conjunctivitis exact-source review",
+    "q": "What itching exclusion does the PDF reject for allergic conjunctivitis?",
+    "a": "It says allergic conjunctivitis does not have to be itchy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    },
+    "guideline": {
+      "text": "AAO patient guidance calls itching the hallmark of allergic conjunctivitis. Absence of itching should prompt attention to the rest of the differential rather than treating cobblestoning or a nonitchy red eye as diagnostic alone.",
+      "url": "https://www.aao.org/eye-health/ask-ophthalmologist-q/pink-eye-allergic-infectious"
+    }
   }
 ];
