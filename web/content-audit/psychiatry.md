@@ -105,3 +105,5 @@ This is a working issue list, not evidence that all other statements are indepen
 - Actual 390x844 and 320x568 card pixels inspected for long notes, cluster headings and all three source figures. No horizontal overflow, broken images or offscreen answer controls in targeted tests. Small source diagrams have full-size links.
 - Final clinical limits: source exam-frequency estimates and broad cause rankings are attributed, not independently established; MG 80% MuSK claim remains unverified; abuse-reporting wording is jurisdiction-dependent. Not every clinical sentence has independent external verification.
 - Final deployment validation is recorded separately below after the push resolves.
+
+04:31 deployment validation: 3a838ed is live. The actual homepage loaded https://validmed.org/assets/index-B0kCYCDj.js in a390x844 cloud browser and displayed477Psychiatry cards. Actual live bank-menu and source-linked answer pixels inspected.
