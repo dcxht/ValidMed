@@ -56,3 +56,5 @@ Image pass: all77 embedded study figures on pp11-108 extracted, visually inspect
 Remaining66 embedded study figures pp114-249 extracted and visually inspected as3 contact sheets; each source position and nearby text checked. Every embedded study image now has at least one image question (230 images); cover/end-matter images excluded. Full detail and editorial reconciliation remain.
 
 Second detail pass pp4-28 adds omitted concepts; unresolved exact claims remain in editorial ledger. Range is not yet certified exhaustive.
+
+Second detail pass through p43:1454cards,230source figures,51current-source notes; precise outstanding claims remain in editorial ledger.
