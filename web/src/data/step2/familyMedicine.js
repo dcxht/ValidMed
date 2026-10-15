@@ -28260,5 +28260,35 @@ export default [
       "text": "NCI PDQ describes ICC diagnosis through hemoglobin/hematocrit or red-cell mass, JAK2, marrow panmyelosis and low EPO in specified combinations. It does not require two elevated peripheral cell counts; marrow trilineage proliferation and a peripheral-count rule are not interchangeable.",
       "url": "https://www.cancer.gov/types/myeloproliferative/hp/myeloproliferative-neoplasms-treatment"
     }
+  },
+  {
+    "id": "s2fm-2424",
+    "category": "Diagnostic and treatment exact-claim reconciliation",
+    "q": "Which diagnostic study does the PDF name next for acute mesenteric ischemia?",
+    "a": "Mesenteric angiography; laparotomy is also an answer in its examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "WSES 2022 guideline strongly recommends prompt CT angiography for suspected acute mesenteric ischemia and says multidetector CTA has replaced formal angiography as the diagnostic study of choice. Peritonitis from bowel necrosis requires surgery without delay.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/"
+    }
+  },
+  {
+    "id": "s2fm-2425",
+    "category": "Diagnostic and treatment exact-claim reconciliation",
+    "q": "What continuous topical-steroid duration does the PDF connect with possible dermal thinning in eczema?",
+    "a": "More than 5-7 days.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "AAD pediatric eczema guidance says adverse-effect risk is low when treatment follows the dermatologist plan. Skin thinning risk depends on factors such as potency and site, with face/neck and high-potency products higher risk; the page does not define one universal 5-7-day injury threshold.",
+      "url": "https://www.aad.org/public/diseases/eczema/childhood/treating/corticosteroids-applied-to-skin"
+    }
   }
 ];

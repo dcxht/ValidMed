@@ -299,3 +299,6 @@ Cards2419-2421, total2421/230figures/285notes. HPV9-45source range versusCDC/ACI
 
 ## WM/PV pattern follow-up p83
 Cards2422-2423,total2423/230figures/287notes. SourceWMcategoricalnoamyloid/nourinarylightprotein nowACSdiagnosticnote; PVperipheral2of3rule contrastedwithNCIICCdiagnosticcriteria/marrowpanmyelosis. DirectURLs https://www.cancer.org/cancer/types/waldenstrom-macroglobulinemia/detection-diagnosis-staging/how-diagnosed.html ; https://www.cancer.gov/types/myeloproliferative/hp/myeloproliferative-neoplasms-treatment . Partial.
+
+## AMI/eczema follow-up pp72,127 and mobile space
+Cards2424-2425,total2425/230figures/289notes. WSES2022CTAwithoutdelay andperitonitissurgery;AADpotency/site/risk-directedsteroidcare versusfixed5-7daythreshold. DirectURLs https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/ ; https://www.aad.org/public/diseases/eczema/childhood/treating/corticosteroids-applied-to-skin . Questionrightpaddingreservedforflag, whoseoverlapwasobservedinactual390pxmobilepixels. Partial.

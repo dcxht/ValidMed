@@ -1431,3 +1431,6 @@ body {
 .practice-heading { margin-bottom:4px; }
 .q-guideline-note { font-size:13px; line-height:1.5; color:var(--muted); padding:10px 0; margin:8px 0 0; border-top:1px solid var(--border); }
 .q-guideline-note a { color:var(--accent); white-space:nowrap; }
+
+/* Reserve space for the flag control so long question text stays legible. */
+.q-question { padding-right: 30px; }
