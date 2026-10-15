@@ -101,3 +101,22 @@ Unverified source concerns retained as attributed: calciumstone idiopathic normo
 ProductQA: every one of34newcards rendered in320x740 question+answer state (68screens), with14additionalinternal-card-bottom screens. All68originalviews inspected in12contact sheets; all14bottomviews plus revisedUSPSTFview inspected in3more sheets. Scrolling was explicitly tested: longnotes/sourcepage links reachable above actionbar, fullsizefigurelink intact, zerohorizontaloverflow/brokenimages/offscreencontrols. FullPediatricssecond-source-detail/clinical/productacceptance remains open. All5regressiontests/buildpass, existinglargechunkwarningonly.315activecards,16figures,105notes; clinicalfirstpass4-29,30-203remain.
 
 Final urine-pH safety first sentence and struvitegeneralEAUlink revised; bothcards rerendered in6top/bottomviews and visuallyinspected together. Sourcefidelity retained.
+
+08:12 publicationa5f2968 verified live315 via actual390mobile menu screenshot131155 and p28uric-acidcurrentnote/answer screenshot131216. Actualpixels inspected. Liveassets/index-BtQrQ2zo.js. AllpublishedcountsFM3245/Psych477/Neuro658/Peds315; noReset/mark/flag used. Leaseoutcomerecorded/released.
+
+
+## Urinary infection, trauma and Wilms first pass pp30-32
+
+- p30: s2peds-0316 through s2peds-0331 (16cards).
+- p31: s2peds-0332 through s2peds-0348 (17cards).
+- p32: s2peds-0349 through s2peds-0353 (5cards).
+
+38newcards,1actualsourcep30scarredkidneyfigure,21separatecomparisonnotes. Sourcefigure fullsizepixels inspected andimageinventory confirms nofigurespp31-32. Sourcecompletefirsttextpass throughp32, no arbitraryclinicalomissions. Clinically integratedmechanisms, adultdifferentialcontext and authorsourceanecdotesretained. HistoricalWAGR-Rterm modernized with explicitsourcewordingnote; underlyingclinicalassociationpreserved.
+
+Verified comparisons: NICE NG111 age/severity/culture-basedpyelonephritisantibiotics vs rigidciprofloxacin/ceftriaxone/cefotaxime ranking (UKguidance labeled, not localUSantibiogram replacement); DailyMednitrofurantoin notforpyelonephritis/contraindicated<1month; AJKD2016chronicpyelopathologyhaslymphoplasmacyticinfiltratenotnone; AUA2022adultIC/BPSactivecare and targetedHunnertriamcinolonevsnolongtermsystemicsteroids; AUA2025adultwomenrecurrentcystitisantibiogramchoice (population clearlylimited); NICE NG112 prophylaxis individualization/culture/6monthreviewandpediatricspecialistcare; BMJ2013reviewpostcoitalvoidingevidenceweaknotprovenprotective; AUAurotraumameatalbloodnotuniversal, retrogradeurethrogramvscystography, mechanism-drivenrenalCTdespitenegativehematuria and stablevsunstablecare; NCIcurrentPDQWilmsWT1/11p13,11p15.5BWS, WAGRWT1vsisolatedaniridia, DenysDrashrenalcomponent; PubMed1995NWTS15neonatalcases directlydisprovesneverbornclaim (notusedascurrentprevalence). ExactURLs areineachcard.
+
+Unsafe sourceabsolutesareonlypresentasexplicitcounterexamplewithsafeanswer: nohematuriarulesoutrenalinjury, noICtreatment, neonatalWilmsimpossible. OthercomparisonsretainPDFanswerwithseparatelylabelednote. Unverifiedsourceconcernsretainedattributed: acute-pyelo fewbacteriaauthorobservationandpathogenrank, four-year-oldchronicpyeloageheuristic,10-30mLbladderinjuryvolume, prostateexaminationexamshortcut, generallowerUTIlabels, posttreatmentSTItestasone-size-nextstep, Wilmsmidlinevsflankheuristicandmacrosomia4000gsourcecutoff. Chromosome/syndromecontentkept in shelfcontext ratherthancreatingStep1bank. Noallmedicalfactsverifiedclaim.
+
+ProductQA: all38newcards320x740 question+answer plus20internal-card-bottomscreens,96screens inspected in16compactcontactsheets. Longcardscrolledtobottomandpage/source/fullsizeimagelinksremainreachableaboveactionbar. Zero horizontaloverflow/brokenimages/offscreencontrols. Sourceimage renders fullinquestionandcontainedinanswer. All5regressiontests/buildpass; existinglargechunkwarningonly. Twofinalchangedcardsnitrofurantoin/urethrogramrerenderingrecordedbelow.353active/17figures/126notes; partialclinicalfirstpass4-32,33-203plusfullsecondacceptanceremain.
+
+Finalnitrofurantoin/urethrogramchangedcards5screens renderedandactualpixelsinspected; noissues. All353IDsunique/exactQ-Aduplicatesnone/localpageandimagepathsvalid. Readyforpublication.

@@ -3911,5 +3911,508 @@ export default [
       "text": "USPSTF final 2019: screen pregnant persons with urine culture (Grade B), at the first prenatal visit or 12-16 weeks, whichever is earlier. Do not screen nonpregnant adults (Grade D). It covers pregnant persons of any age and adults 18 or older without UTI symptoms, but excludes chronic medical/urinary conditions, hospitalization and institutions. Pediatric and special-procedure guidance is separate.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/asymptomatic-bacteriuria-in-adults-screening"
     }
+  },
+  {
+    "id": "s2peds-0316",
+    "category": "Urinary infection",
+    "q": "Which structural problems does the source name as major acute-pyelonephritis risks?",
+    "a": "Vesicoureteral reflux, including its pregnancy stasis/reflux discussion, and posterior urethral valves in children. These impair normal drainage and favor ascending infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0317",
+    "category": "Urinary infection",
+    "q": "Which organism does the source rank most common in acute pyelonephritis, and which infection-stone organisms does it contrast?",
+    "a": "E. coli most common; Klebsiella, Serratia and Proteus are its struvite-stone comparison. These source rank and organism examples do not replace urine culture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0318",
+    "category": "Urinary infection",
+    "q": "How does the author explain a pyelonephritis vignette with few bacteria in urine?",
+    "a": "The author reports that NBME kidney-infection cases may show fewer bacteria than lower-tract infection cases. This is an attributed exam observation, not a validated rule that bacterial quantity localizes an infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0319",
+    "category": "Urinary infection",
+    "q": "Which antibiotics does the source choose for pyelonephritis, and why is its pediatric ranking incomplete?",
+    "a": "The PDF names ciprofloxacin or ceftriaxone, with cefotaxime preferred if it appears beside ceftriaxone in a pediatric exam option. Do not treat this as a universal pediatric regimen or cephalosporin ranking.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    },
+    "guideline": {
+      "text": "NICE NG111 uses age, severity, oral tolerance, culture and local resistance: children under 3 months require specialist care/IV treatment; for older children, oral cefalexin is a first choice, while IV cefuroxime or ceftriaxone are among options when severely unwell or unable to take oral treatment. This is a UK guideline comparison, not a replacement for local US susceptibility guidance.",
+      "url": "https://www.nice.org.uk/guidance/ng111/resources/pyelonephritis-acute-antimicrobial-prescribing-pdf-66141593379781"
+    }
+  },
+  {
+    "id": "s2peds-0320",
+    "category": "Urinary infection",
+    "q": "What renal appearance and history identify chronic pyelonephritis in the source?",
+    "a": "Recurrent acute infections, often in a child such as its four-year-old example, with a small shrunken kidney, tubular atrophy and blunting/scarring of the calyces. The age is an example, not an exclusion of older patients.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0321",
+    "category": "Urinary infection",
+    "q": "What source diagnosis and microscopic finding accompany this scarred kidney from a child with recurrent UTIs?",
+    "a": "Chronic pyelonephritis/reflux-associated scarring; the source selects tubular atrophy. The photograph shows distorted renal architecture and scarred collecting-system regions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    },
+    "img": "/mehlman/figures/peds-p030-01.jpeg"
+  },
+  {
+    "id": "s2peds-0322",
+    "category": "Urinary infection",
+    "q": "What structural cause does the source choose for chronic pyelonephritis with the same scarred-kidney image?",
+    "a": "Congenital ureteral obstruction, allowing stasis and recurrent infection. The source image supports scarring, not a unique obstructing lesion on its own.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0323",
+    "category": "Urinary infection",
+    "q": "What term does the source mention for chronic pyelonephritis but place below tubular atrophy/scarring in exam emphasis?",
+    "a": "Thyroidization of the kidney. It retains the term but emphasizes tubular atrophy and calyceal scarring/loss of architecture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0324",
+    "category": "Urinary infection",
+    "q": "How does the source distinguish chronic renal scarring from active acute pyelonephritis?",
+    "a": "Chronic pyelonephritis describes a kidney damaged and shrunken after prior infections, rather than the acute infectious presentation. Its statement that chronic disease does not have cellular infiltration is a simplified contrast, not proof that chronic inflammation can never be present.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    },
+    "guideline": {
+      "text": "AJKD renal pathology describes chronic pyelonephritis with tubular atrophy/thyroidization, geographic scarring and interstitial lymphoplasmacytic infiltrate. Chronic inflammation can be present; the PDF contrast must not be used to rule it out.",
+      "url": "https://www.ajkd.org/article/S0272-6386(16)30353-5/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0325",
+    "category": "Urinary infection",
+    "q": "What symptoms and organism identify source cystitis, and is fever required?",
+    "a": "Suprapubic tenderness in a female patient, without a requirement for fever, most commonly E. coli in the source. Fimbriae and pilus proteins help attachment to the urothelium.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0326",
+    "category": "Urinary infection",
+    "q": "What urine findings and device exposure does the source connect to cystitis?",
+    "a": "Bacteriuria and pyuria; urinary nitrites and leukocyte esterase may be positive. Suprapubic catheterization is a possible exposure. The PDF de-emphasizes organism-specific dipstick patterns; a negative result is not automatically proof of no infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0327",
+    "category": "Urinary infection",
+    "q": "Which source drug is a typical cystitis answer rather than a pyelonephritis treatment?",
+    "a": "Nitrofurantoin. The source separates lower-bladder infection from kidney infection, so the two regimens must not be conflated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    },
+    "guideline": {
+      "text": "The current DailyMed nitrofurantoin label explicitly excludes pyelonephritis and perinephric abscess. It is contraindicated below one month of age. A lower-tract source drug answer must not become a neonatal or febrile upper-tract treatment instruction.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=04af8b73-7e15-7da8-e063-6294a90af284"
+    }
+  },
+  {
+    "id": "s2peds-0328",
+    "category": "Urinary infection",
+    "q": "What persistent symptom pattern does the source call chronic interstitial cystitis?",
+    "a": "More than six weeks of unexplained suprapubic tenderness and dysuria with negative urinary/infectious evaluation. It may mention anterior vaginal-wall pain, since the bladder is anterior to the vagina. The source calls it noninfectious.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0329",
+    "category": "Urinary infection",
+    "q": "Does the source instruction to give no treatment for interstitial cystitis mean that bladder pain should be dismissed?",
+    "a": "No. The PDF calls education, self-care and physiotherapy placebo-like and says not to treat or give steroids. That dismissive treatment framing is not current care.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    },
+    "guideline": {
+      "text": "AUA 2022 supports education, self-care, stress management and individualized multimodal pain treatment. Manual pelvic-floor physical therapy is offered for tenderness; oral, intravesical and procedural options exist. These recommendations address adult IC/BPS and should not be copied as pediatric regimens without specialist assessment.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/diagnosis-and-treatment-interstitial-of-cystitis/bladder-pain-syndrome-(2022)"
+    }
+  },
+  {
+    "id": "s2peds-0330",
+    "category": "Urinary infection",
+    "q": "How does the source blanket rejection of steroids in interstitial cystitis differ from current adult guidance?",
+    "a": "The source rejects steroids as a general exam answer. It does not distinguish prolonged systemic therapy from targeted treatment of Hunner lesions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    },
+    "guideline": {
+      "text": "AUA 2022 says not to offer long-term systemic oral glucocorticoids, but recommends fulguration and/or triamcinolone injection when Hunner lesions are present. Treatment route and lesion status matter; this adult guidance does not establish a pediatric prescription.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/diagnosis-and-treatment-interstitial-of-cystitis/bladder-pain-syndrome-(2022)"
+    }
+  },
+  {
+    "id": "s2peds-0331",
+    "category": "Urinary infection",
+    "q": "Which lower-tract infection mechanism and sex difference open the source general-UTI section?",
+    "a": "The source labels E. coli infection of the urethra as general UTI and says shorter female urethras favor infection. UTI is a broader anatomic term than urethral infection alone; kidney and bladder infections are also urinary infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 30,
+      "url": "/mehlman/hy-pediatrics.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2peds-0332",
+    "category": "Urinary infection",
+    "q": "What adherence mechanism and exposures continue the source general-UTI section?",
+    "a": "E. coli fimbriae/pili support urothelial attachment. Inoculation after sexual activity and catheter exposure are source examples; dysuria after catheterization raises concern for UTI but is not proof by itself.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2peds-0333",
+    "category": "Urinary infection",
+    "q": "Which oral drugs does the source list for general UTI, and what controls antibiotic choice?",
+    "a": "Trimethoprim, TMP-SMX or nitrofurantoin. These are source lower-tract examples, not a universal age-independent regimen for febrile kidney infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA 2025 adult recurrent-cystitis guidance lists nitrofurantoin, TMP-SMX and fosfomycin based on local antibiogram. Its index patient is an otherwise healthy adult woman; this does not replace pediatric, pregnant or complicated-infection guidance.",
+      "url": "https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/rUTI%20Update/rUTI%202025%20Unabridged%20Final.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0334",
+    "category": "Urinary infection",
+    "q": "Does the source postcoital-voiding recommendation have established protection against recurrence?",
+    "a": "The PDF says voiding after intercourse lowers recurrence and puts it first in its prevention ladder. Evidence does not justify promising protection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "The BMJ review of nonpregnant adult women found no correlation between postcoital voiding and lower recurrence in the cited data, while noting weak study coverage and that some experts still suggest it as low risk. It is not a proven substitute for evaluation or indicated treatment.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4688544/"
+    }
+  },
+  {
+    "id": "s2peds-0335",
+    "category": "Urinary infection",
+    "q": "What prophylaxis sequence does the source give when UTIs recur after intercourse?",
+    "a": "Postcoital voiding, then postcoital nitrofurantoin, then daily TMP-SMX; it also reports an exam jumping directly to daily TMP-SMX after a prior successful treatment. This is the author's exam sequence, not a mandatory order for every patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "NICE NG112 considers trigger-linked single-dose prophylaxis in eligible nonpregnant adults after appropriate prior measures, using prior cultures and resistance risk. Daily prophylaxis is individualized and reviewed within 6 months. Children under 16 need specialist advice; do not apply the adult intercourse-linked ladder to every child.",
+      "url": "https://www.nice.org.uk/guidance/ng112/resources/urinary-tract-infection-recurrent-antimicrobial-prescribing-pdf-66141595059397"
+    }
+  },
+  {
+    "id": "s2peds-0336",
+    "category": "Urinary infection",
+    "q": "What next test does the source choose if dysuria persists after treatment labeled UTI?",
+    "a": "Testing for Chlamydia and Gonorrhea. Its point is to consider an STI/urethritis differential rather than simply repeating cystitis antibiotics; persistent symptoms can have other infectious and noninfectious causes too.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2peds-0337",
+    "category": "Genitourinary trauma",
+    "q": "Which three source trauma presentations raise suspicion for urethral injury?",
+    "a": "Blood at the urethral meatus with a straddle/saddle injury, pelvic fracture/instability, or a prostate not palpable on examination. The source calls meatal blood universal; that absolute is not safe.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA describes meatal blood as common but variable, reported in 37-93% of urethral injuries. Other clues include inability to void, genital/perineal bruising and a high-riding prostate. Its absence does not exclude injury.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0338",
+    "category": "Genitourinary trauma",
+    "q": "What study does the source choose for suspected urethral injury after pelvic or straddle trauma?",
+    "a": "Retrograde urethrography. Do not confuse urethral imaging with a bladder cystogram or the voiding study used to investigate posterior urethral valves.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA recommends retrograde urethrography when meatal blood follows pelvic trauma. The mechanism and clinical findings guide evaluation; this is not a voiding cystourethrogram for congenital posterior urethral valves.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0339",
+    "category": "Genitourinary trauma",
+    "q": "What source vignette suggests traumatic bladder injury?",
+    "a": "Blunt abdominal trauma, marked suprapubic tenderness and only 10-30 mL of dark bloody fluid after catheterization. The volume is a source vignette detail, not a diagnostic cutoff.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2peds-0340",
+    "category": "Genitourinary trauma",
+    "q": "Which bladder study does the source contrast with VCUG for posterior urethral valves?",
+    "a": "It calls the trauma study retrograde cystourethrography, versus voiding cystourethrography for PUV. The key distinction is retrograde bladder filling for injury assessment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA specifies retrograde cystography, plain-film or CT, for stable patients with gross hematuria plus pelvic fracture, or other concerning bladder-injury settings. This is not a standard IV-contrast CT without adequate retrograde bladder distension.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0341",
+    "category": "Genitourinary trauma",
+    "q": "What flank findings and mechanisms does the source use for renal injury in a teenager?",
+    "a": "Flank bruising or pain after an accident, a hockey-stick blow or a motor-vehicle crash. Significant mechanism/examination findings matter even when the urine looks clear.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA recommends IV-contrast CT in stable trauma patients with a concerning mechanism or examination, including a significant flank blow, rapid deceleration, rib fracture or flank ecchymosis. Hematuria is not the sole gate.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0342",
+    "category": "Genitourinary trauma",
+    "q": "Can absent hematuria safely rule out renal injury as the source claims?",
+    "a": "No. The PDF says blood is highly sensitive and absent microscopic blood needs no further testing, but that shortcut must not be used after a concerning injury.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA recommends imaging for concerning mechanism/examination findings independently of its separate hematuria criteria. A significant flank blow or deceleration can warrant CT without visible or microscopic hematuria.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0343",
+    "category": "Genitourinary trauma",
+    "q": "What gross-versus-microscopic-hematuria renal-trauma algorithm does the source teach, and how is current imaging selection different?",
+    "a": "It sends gross hematuria directly to contrast CT, otherwise obtains urinalysis, then CT for microscopic blood and no studies if urine is negative. That blanket microscopic-positive/negative rule is incomplete.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA recommends contrast CT for stable blunt trauma with gross hematuria, or microscopic hematuria plus systolic pressure below 90 mm Hg; concerning mechanism/exam findings are independent indications. Pediatric physiology and specialist trauma assessment matter, so the adult pressure threshold is not a universal child rule.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0344",
+    "category": "Genitourinary trauma",
+    "q": "Why does the source choose contrast CT rather than ultrasound when renal injury is suspected?",
+    "a": "It uses IV-contrast abdominal CT to identify traumatic renal injury despite concern about the kidney. This is different from choosing ultrasound for many nontraumatic pediatric urinary problems.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "AUA recommends immediate and delayed IV-contrast abdominal/pelvic CT when renal injury is suspected in appropriate stable patients. Hemodynamically unstable patients need urgent trauma management rather than an automatic trip to CT.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0345",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What source age and mass pattern suggests Wilms tumor rather than a full bladder?",
+    "a": "A painless flank mass at age 2-4 years suggests Wilms tumor/nephroblastoma in its source comparison. A newborn midline/suprapubic mass with obstructed urination suggests bladder distension from PUV instead.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2peds-0346",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "Is the source statement that Wilms tumor never presents in a newborn absolute?",
+    "a": "No. The PDF says not to select Wilms for its 12-hour-old midline full-bladder vignette, but turns that example into a never-newborn statement. Do not use age alone to rule out a renal tumor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "A National Wilms Tumor Study report documented 15 cases diagnosed in the first 30 days of life, including antenatally detected tumors. The 1995 case series establishes rare neonatal occurrence, not a current prevalence estimate.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7666322/"
+    }
+  },
+  {
+    "id": "s2peds-0347",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What tumor does the source associate with a midline mass in a two- to four-year-old child?",
+    "a": "Neuroblastoma, contrasted with a flank Wilms mass. This is its location-based exam heuristic; examination and imaging still determine organ of origin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2peds-0348",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What chromosome association does the source require for Wilms tumor, and which locus is one verified example?",
+    "a": "Chromosome 11; the source says some Wilms tumors arise from mutations there. This is a somatic/predisposition association, not proof every Wilms tumor has the same variant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 31,
+      "url": "/mehlman/hy-pediatrics.pdf#page=31"
+    },
+    "guideline": {
+      "text": "NCI identifies WT1 at 11p13 and additional Wilms-associated changes at 11p15.5, among multiple molecular pathways. WT1 is one contributor, not a mutation found in all cases.",
+      "url": "https://www.cancer.gov/types/kidney/hp/wilms-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0349",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What feature cluster identifies source Beckwith-Wiedemann syndrome?",
+    "a": "Wilms predisposition, macrosomia over 4,000 g in the source definition, hemihypertrophy/lateralized overgrowth, macroglossia, omphalocele and hypoglycemia. A child need not have every feature.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 32,
+      "url": "/mehlman/hy-pediatrics.pdf#page=32"
+    },
+    "guideline": {
+      "text": "NCI describes an overgrowth syndrome with these associated findings and altered regulation at chromosome 11p15.5. Wilms risk depends on molecular subtype; the syndrome does not mean a tumor is already present.",
+      "url": "https://www.cancer.gov/types/kidney/hp/wilms-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0350",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What hidden associated finding does the source choose for a newborn with macrosomia, hemihypertrophy, macroglossia and omphalocele?",
+    "a": "Hypoglycemia in Beckwith-Wiedemann syndrome. Wilms tumor need not be mentioned in the vignette; newborn hypoglycemia is the asked association. The source's never-newborn tumor rationale remains qualified by the neonatal-occurrence comparison on the preceding page.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 32,
+      "url": "/mehlman/hy-pediatrics.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2peds-0351",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What does the source WAGR mnemonic stand for, using current language?",
+    "a": "Wilms tumor predisposition, aniridia, genitourinary anomalies and intellectual/developmental disability. The PDF uses the historical R term; the clinical association is retained without using it as a label for a person.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 32,
+      "url": "/mehlman/hy-pediatrics.pdf#page=32"
+    },
+    "guideline": {
+      "text": "NCI describes WAGR with an 11p13 deletion involving WT1 and PAX6. Aniridia from PAX6 loss alone does not automatically carry the WT1-related tumor risk.",
+      "url": "https://www.cancer.gov/types/kidney/hp/wilms-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0352",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What future tumor does the source ask about in a child with aniridia in a WAGR vignette?",
+    "a": "Wilms tumor. The syndrome is a predisposition setting, so the tumor may be absent when the child is first described.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 32,
+      "url": "/mehlman/hy-pediatrics.pdf#page=32"
+    },
+    "guideline": {
+      "text": "NCI distinguishes WAGR-region deletion that includes WT1 from isolated familial aniridia without WT1 deletion; not every iris abnormality creates the same Wilms risk.",
+      "url": "https://www.cancer.gov/types/kidney/hp/wilms-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0353",
+    "category": "Wilms tumor and associated syndromes",
+    "q": "What source combination identifies Denys-Drash syndrome, and what important additional renal association is verified?",
+    "a": "A disorder/difference of sex development and Wilms tumor predisposition. The PDF describes ambiguous genitalia plus Wilms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 32,
+      "url": "/mehlman/hy-pediatrics.pdf#page=32"
+    },
+    "guideline": {
+      "text": "NCI connects Denys-Drash with WT1 variants and renal disease including nephrotic syndrome/glomerular disease. This adds the missing renal component without treating the short source pairing as a complete diagnostic criterion.",
+      "url": "https://www.cancer.gov/types/kidney/hp/wilms-treatment-pdq"
+    }
   }
 ];
