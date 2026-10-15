@@ -30254,5 +30254,80 @@ export default [
       "text": "AHA 2025 ACS summary recommends an invasive approach during hospitalization for intermediate/high-risk NSTE-ACS. Low-risk NSTE-ACS may follow routine or selective invasive evaluation with further risk stratification. It is not an identical immediate-catheterization rule for every ACS presentation.",
       "url": "https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes/top-things-to-know"
     }
+  },
+  {
+    "id": "s2fm-2569",
+    "category": "Early cardio exact-source review",
+    "q": "What exclusion does the PDF imply when chest pain is reproduced by palpation or arm movement?",
+    "a": "It treats these as clear indicators of musculoskeletal rather than cardiac pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-family-medicine.pdf#page=23"
+    },
+    "guideline": {
+      "text": "AAFP 2009 costochondritis review states chest-wall tenderness does not exclude a cardiac cause, including MI. The source pattern supports a musculoskeletal differential but does not replace age/risk-based cardiac assessment. This is an older secondary review.",
+      "url": "https://www.aafp.org/afp/2009/0915/p617"
+    }
+  },
+  {
+    "id": "s2fm-2570",
+    "category": "Early cardio exact-source review",
+    "q": "Which valve does the PDF say rheumatic fever always affects in exam questions?",
+    "a": "The mitral valve, treating aortic involvement as only theoretical.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-family-medicine.pdf#page=22"
+    },
+    "guideline": {
+      "text": "Merck Professional describes rheumatic valvular disease as commonly involving the mitral AND aortic valves. Exam emphasis should not turn into a mitral-only clinical rule.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/miscellaneous-bacterial-infections-in-infants-and-children/rheumatic-fever"
+    }
+  },
+  {
+    "id": "s2fm-2571",
+    "category": "Early cardio exact-source review",
+    "q": "Which calf maneuver does the PDF associate with possible DVT?",
+    "a": "Homan sign: calf pain with ankle dorsiflexion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "Merck Professional states Homan sign is neither sensitive nor specific. Diagnosis uses pretest assessment and appropriate D-dimer/ultrasound pathways, not this maneuver alone.",
+      "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/peripheral-venous-disorders/deep-venous-thrombosis-dvt"
+    }
+  },
+  {
+    "id": "s2fm-2572",
+    "category": "Early cardio exact-source review",
+    "q": "What single anticoagulant category does the PDF give for DVT treatment?",
+    "a": "Heparin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "Merck Professional includes oral anticoagulants and notes selected agents such as apixaban/rivaroxaban can be started without initial injectable heparin. Drug choice depends on clinical context, contraindications and patient factors; the PDF heparin answer is not universal.",
+      "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/peripheral-venous-disorders/deep-venous-thrombosis-dvt"
+    }
+  },
+  {
+    "id": "s2fm-2573",
+    "category": "Early cardio exact-source review",
+    "q": "What blanket pulmonary restriction does the PDF place on beta blockers?",
+    "a": "Avoid them in patients with lung disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "An ACC 2020 summary of a systematic review found evidence supporting beta blockers when COPD coexists with a cardiovascular indication, often favoring cardioselective agents. This older research summary is not a recommendation to give beta blockers for COPD itself or to disregard asthma/bronchospasm risks.",
+      "url": "https://www.acc.org/latest-in-cardiology/journal-scans/2020/12/01/19/16/association-of-beta-blocker-use-with-survival"
+    }
   }
 ];
