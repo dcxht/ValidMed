@@ -27891,5 +27891,50 @@ export default [
       "text": "The ACC summary of the 2020 ACC/AHA valve guideline describes selected mechanical-valve exceptions with close specialist monitoring and informed risk discussion, including continuing warfarin when less than 5 mg/day maintains therapeutic INR. Fetal and maternal risks both matter; this older US guideline summary is not a stand-alone pregnancy prescription.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/22/01/2020-acc-aha-vhd-gl-pt-3-gl-vhd"
     }
+  },
+  {
+    "id": "s2fm-2401",
+    "category": "Endocrine exact-claim reconciliation",
+    "q": "What tumor-and-surgery pattern does the PDF emphasize for primary aldosterone excess?",
+    "a": "An aldosterone-secreting tumor, treated with spironolactone before surgery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "Endocrine Society 2025 guidance describes unilateral and bilateral primary aldosteronism. Surgery is selected for lateralizing disease and suitable patients; bilateral disease or nonsurgical preference/candidacy usually favors mineralocorticoid-receptor antagonist treatment. It is not automatically a surgical tumor.",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/primary-aldosteronism-2"
+    }
+  },
+  {
+    "id": "s2fm-2402",
+    "category": "Endocrine exact-claim reconciliation",
+    "q": "What broad fatigue-testing and response claim does the PDF make about cortisol?",
+    "a": "Any unexplained chronic fatigue should trigger cortisol testing; if low, hydrocortisone will immediately boost the patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    },
+    "guideline": {
+      "text": "NIDDK adrenal-insufficiency diagnosis uses medical history, symptoms and confirmatory testing, commonly ACTH stimulation, rather than treating a fatigue label alone as confirmed adrenal failure. This source prediction is not a universal empirical hydrocortisone instruction.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease/diagnosis"
+    }
+  },
+  {
+    "id": "s2fm-2403",
+    "category": "Endocrine exact-claim reconciliation",
+    "q": "Which rebound explanation and insulin adjustment does the PDF give for morning hyperglycemia?",
+    "a": "Somogyi effect after nighttime hypoglycemia, with reducing evening insulin as its next step.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "ADA patient guidance says dawn phenomenon and waning insulin are more common explanations; Somogyi is rare. Bedtime, overnight and morning glucose or CGM data help distinguish them before changing medication. Morning hyperglycemia alone does not establish an insulin overdose.",
+      "url": "https://diabetes.org/living-with-diabetes/high-morning-blood-glucose"
+    }
   }
 ];
