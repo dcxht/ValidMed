@@ -1618,7 +1618,7 @@ export default [
     "id": "s2fm-0146",
     "category": "Pharyngitis",
     "q": "What four findings make up the simplified Centor criteria in the PDF?",
-    "a": "The PDF simplifies them to absent cough, fever over38C, tonsillar exudates and cervical lymphadenopathy. These are the source terms, not confirmation of group A streptococcal infection.",
+    "a": "The PDF simplifies them to absent cough, fever over 38 C, tonsillar exudates and cervical lymphadenopathy. These are the source terms, not confirmation of group A streptococcal infection.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 46,
@@ -11118,7 +11118,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=257"
     },
     "guideline": {
-      "text": "FDA GLUMETZA label revised August2026: contraindicated below eGFR30 mL/min/1.73m2; do not initiate at30-45; reassess continuation below45 and stop below30.",
+      "text": "FDA GLUMETZA label revised August 2026: contraindicated below eGFR 30 mL/min/1.73m2; do not initiate at 30-45; reassess continuation below 45 and stop below 30.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
     }
   },
@@ -11133,7 +11133,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=257"
     },
     "guideline": {
-      "text": "FDA August2026 label: stop at/prior to iodinated contrast for eGFR30-60, liver disease, alcoholism, heart failure or intra-arterial contrast. Reassess eGFR after48 hours and restart if renal function is stable.",
+      "text": "FDA August 2026 label: stop at/prior to iodinated contrast for eGFR 30-60, liver disease, alcoholism, heart failure or intra-arterial contrast. Reassess eGFR after 48 hours and restart if renal function is stable.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
     }
   },
@@ -11240,14 +11240,14 @@ export default [
     "id": "s2fm-0990",
     "category": "Prevention",
     "q": "Who should receive prediabetes/type 2-diabetes screening under the latest final USPSTF recommendation fetched for this bank?",
-    "a": "Asymptomatic nonpregnant adults 35-70 who have overweight or obesity. Offer or refer those with prediabetes to effective preventive interventions. USPSTF 2021, GradeB.",
+    "a": "Asymptomatic nonpregnant adults 35-70 who have overweight or obesity. Offer or refer those with prediabetes to effective preventive interventions. USPSTF 2021, Grade B.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 252,
       "url": "/mehlman/hy-family-medicine.pdf#page=252"
     },
     "guideline": {
-      "text": "Final USPSTF recommendation24 August2021. Consider earlier screening for additional risks and a lower BMI threshold in Asian American adults. This is screening, not the evaluation of symptomatic hyperglycemia.",
+      "text": "Final USPSTF recommendation24 August 2021. Consider earlier screening for additional risks and a lower BMI threshold in Asian American adults. This is screening, not the evaluation of symptomatic hyperglycemia.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes/"
     }
   },
@@ -11262,7 +11262,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=252"
     },
     "guideline": {
-      "text": "USPSTF2021 GradeB screening recommendation; interval evidence is limited.",
+      "text": "USPSTF 2021 Grade B screening recommendation; interval evidence is limited.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes/"
     }
   },
@@ -11277,7 +11277,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=252"
     },
     "guideline": {
-      "text": "USPSTF2021 screening statement. These diagnostic thresholds use at least, not the PDF strict greater-than wording.",
+      "text": "USPSTF 2021 screening statement. These diagnostic thresholds use at least, not the PDF strict greater-than wording.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes/"
     }
   },
@@ -11857,7 +11857,7 @@ export default [
     "id": "s2fm-1045",
     "category": "Prevention",
     "q": "Which current final USPSTF ages replace the PDF age 50 colorectal-screening rule for average-risk adults?",
-    "a": "Screen ages 45-49 (GradeB) and 50-75 (GradeA). Selectively screen 76-85 (GradeC) based on health, prior screening and preferences. Stop after 85. USPSTF 2021.",
+    "a": "Screen ages 45-49 (Grade B) and 50-75 (Grade A). Selectively screen 76-85 (Grade C) based on health, prior screening and preferences. Stop after 85. USPSTF 2021.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 281,
@@ -11879,7 +11879,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=281"
     },
     "guideline": {
-      "text": "USPSTF2021 lists several valid strategies. Abnormal stool-based results require colonoscopy; choosing a strategy depends on patient context.",
+      "text": "USPSTF 2021 lists several valid strategies. Abnormal stool-based results require colonoscopy; choosing a strategy depends on patient context.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
     }
   },
@@ -15653,7 +15653,7 @@ export default [
     "id": "s2fm-1359",
     "category": "Cardiology source details",
     "q": "What source vignette links cocaine use with acute pericarditis rather than assuming coronary ischemia?",
-    "a": "A22-year-old with chest pain after heavy partying and diffuse ST elevations. The PDF calls this pericarditis; cocaine-related chest pain still needs assessment for other dangerous causes.",
+    "a": "A 22-year-old with chest pain after heavy partying and diffuse ST elevations. The PDF calls this pericarditis; cocaine-related chest pain still needs assessment for other dangerous causes.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 15,
@@ -15826,7 +15826,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
     },
     "guideline": {
-      "text": "ACC/AHA2024: supervised or structured exercise is recommended for symptomatic PAD. Cilostazol also improves claudication but must not be used with heart failure. Revascularization can be reasonable after inadequate response to medical therapy/exercise.",
+      "text": "ACC/AHA 2024: supervised or structured exercise is recommended for symptomatic PAD. Cilostazol also improves claudication but must not be used with heart failure. Revascularization can be reasonable after inadequate response to medical therapy/exercise.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/05/09/15/00/2024-guideline-for-lower-extremity-pad"
     }
   },
@@ -18036,7 +18036,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=66"
     },
     "guideline": {
-      "text": "Adult Sepsis-3/SCCM 2016: life-threatening organ dysfunction from dysregulated infection response; shock requires vasopressors for MAP at least65 mmHg and lactate above2 mmol/L despite adequate resuscitation. Pediatric criteria differ.",
+      "text": "Adult Sepsis-3/SCCM 2016: life-threatening organ dysfunction from dysregulated infection response; shock requires vasopressors for MAP at least 65 mmHg and lactate above 2 mmol/L despite adequate resuscitation. Pediatric criteria differ.",
       "url": "https://www.sccm.org/clinical-resources/sepsis-definitions"
     }
   },
@@ -36402,7 +36402,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=267"
     },
     "guideline": {
-      "text": "ADA2026 calls for reassessment and treatment intensification based on the person and current regimen. One elevated A1c does not prove complete beta-cell failure or dictate this single switch.",
+      "text": "ADA 2026 calls for reassessment and treatment intensification based on the person and current regimen. One elevated A1c does not prove complete beta-cell failure or dictate this single switch.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
     }
   },
@@ -36417,7 +36417,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=267"
     },
     "guideline": {
-      "text": "ADA2026 recommendations9.5-9.17 direct person-centered reassessment and timely intensification, considering glucose/weight goals, comorbidities, hypoglycemia and access. Cardiorenal-beneficial treatments may be indicated irrespective of A1c. A1c9.6% alone does not establish intermediate-acting insulin as the sole appropriate next choice.",
+      "text": "ADA 2026 recommendations 9.5-9.17 direct person-centered reassessment and timely intensification, considering glucose/weight goals, comorbidities, hypoglycemia and access. Cardiorenal-beneficial treatments may be indicated irrespective of A1c. A1c 9.6% alone does not establish intermediate-acting insulin as the sole appropriate next choice.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
     }
   },
@@ -36635,7 +36635,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=287"
     },
     "guideline": {
-      "text": "ACR2020 strongly recommends colchicine, NSAIDs or glucocorticoids as appropriate first-line flare therapy. It does not rank one above all others; choose using patient factors, comorbidities, access and past experience.",
+      "text": "ACR 2020 strongly recommends colchicine, NSAIDs or glucocorticoids as appropriate first-line flare therapy. It does not rank one above all others; choose using patient factors, comorbidities, access and past experience.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/"
     }
   },
@@ -36650,7 +36650,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=288"
     },
     "guideline": {
-      "text": "ACR2021 favors methotrexate for DMARD-naive moderate/high disease activity, but conditionally favors hydroxychloroquine over other conventional DMARDs for low disease activity. Contraindications, prognosis and preferences matter; always is too broad.",
+      "text": "ACR 2021 favors methotrexate for DMARD-naive moderate/high disease activity, but conditionally favors hydroxychloroquine over other conventional DMARDs for low disease activity. Contraindications, prognosis and preferences matter; always is too broad.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273041/"
     }
   },
@@ -36725,7 +36725,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=244"
     },
     "guideline": {
-      "text": "Endotext describes calcium/phosphate remaining normal for prolonged periods early in CKD and hyperphosphatemia developing mainly in later stages. The blanket source arrow is not obligatory in every CKD stage. This is an expert secondary chapter; KDIGO2017 separately bases phosphate-lowering treatment on progressively or persistently elevated levels.",
+      "text": "Endotext describes calcium/phosphate remaining normal for prolonged periods early in CKD and hyperphosphatemia developing mainly in later stages. The blanket source arrow is not obligatory in every CKD stage. This is an expert secondary chapter; KDIGO 2017 separately bases phosphate-lowering treatment on progressively or persistently elevated levels.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK278975/"
     }
   },
@@ -36755,7 +36755,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=52"
     },
     "guideline": {
-      "text": "EAU2026 section3.5.3.b counsels avoidance of habitual/postcoital delayed urination and other risks before long-term drug prophylaxis, while explicitly noting limited evidence for these measures. This supports counseling, not a guarantee of prevention or a requirement to delay needed evaluation.",
+      "text": "EAU 2026 section 3.5.3.b counsels avoidance of habitual/postcoital delayed urination and other risks before long-term drug prophylaxis, while explicitly noting limited evidence for these measures. This supports counseling, not a guarantee of prevention or a requirement to delay needed evaluation.",
       "url": "https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Urological-Infections-2026_2026-04-16-075122_wabn.pdf"
     }
   },
@@ -36770,7 +36770,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=47"
     },
     "guideline": {
-      "text": "ESC/ERS2022 section6.3.3.1 restricts high-dose CCB treatment to appropriate vasoreactive PAH. Do not start PAH-directed CCB treatment without vasoreactivity testing or after a negative test because hypotension, syncope and right-ventricular failure can occur. Standard-dose use for another indication is a different question.",
+      "text": "ESC/ERS2022 section 6.3.3.1 restricts high-dose CCB treatment to appropriate vasoreactive PAH. Do not start PAH-directed CCB treatment without vasoreactivity testing or after a negative test because hypotension, syncope and right-ventricular failure can occur. Standard-dose use for another indication is a different question.",
       "url": "https://pure.rug.nl/ws/files/258895003/ehac237.pdf"
     }
   },
@@ -36785,7 +36785,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=61"
     },
     "guideline": {
-      "text": "Merck Professional gives 15-25% mortality at6weeks and emphasizes underlying liver disease as a major determinant. These are population estimates with a stated horizon, not a prediction for an individual or a universally fixed50% fatality.",
+      "text": "Merck Professional gives 15-25% mortality at 6 weeks and emphasizes underlying liver disease as a major determinant. These are population estimates with a stated horizon, not a prediction for an individual or a universally fixed 50% fatality.",
       "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/gastrointestinal-bleeding/varices"
     }
   },
@@ -36800,7 +36800,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=42"
     },
     "guideline": {
-      "text": "CDC Yellow Book distinguishes infection-test conversion, disease progression and laboratory culture time. Progression to disease ranges from weeks to decades, while culturing/identifying organisms from a specimen takes about2-8weeks. That laboratory turnaround is not a fixed exposure-to-sputum-positivity interval.",
+      "text": "CDC Yellow Book distinguishes infection-test conversion, disease progression and laboratory culture time. Progression to disease ranges from weeks to decades, while culturing/identifying organisms from a specimen takes about 2-8 weeks. That laboratory turnaround is not a fixed exposure-to-sputum-positivity interval.",
       "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/tuberculosis.html"
     }
   },
@@ -36815,7 +36815,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=77"
     },
     "guideline": {
-      "text": "The DailyMed lansoprazole label gives a specific coadministration instruction: take lansoprazole at least30minutes before sucralfate. A timed interaction is not an absolute class-wide prohibition against both medicines appearing in a treatment plan.",
+      "text": "The DailyMed lansoprazole label gives a specific coadministration instruction: take lansoprazole at least 30 minutes before sucralfate. A timed interaction is not an absolute class-wide prohibition against both medicines appearing in a treatment plan.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9b3869ad-f2f7-4954-b75c-5c23b8951635"
     }
   },
@@ -36845,7 +36845,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=77"
     },
     "guideline": {
-      "text": "A2002 human pharmacokinetic study found fluconazole increased omeprazole exposure through metabolic inhibition, not a universal loss of antifungal absorption. Azole/PPI interactions must be checked for the specific drug/formulation; this study does not prove the pair interaction-free or establish a class-wide contraindication.",
+      "text": "A 2002 human pharmacokinetic study found fluconazole increased omeprazole exposure through metabolic inhibition, not a universal loss of antifungal absorption. Azole/PPI interactions must be checked for the specific drug/formulation; this study does not prove the pair interaction-free or establish a class-wide contraindication.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/11932962/"
     }
   },
@@ -36860,7 +36860,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=151"
     },
     "guideline": {
-      "text": "A2023 systematic review documents sensory neuropathy/signs in some ALS patients and says sensory alterations should not be an absolute exclusion criterion. This is secondary evidence, not a change to the need to evaluate alternative or coexisting causes; the typical pattern remains predominantly motor.",
+      "text": "A 2023 systematic review documents sensory neuropathy/signs in some ALS patients and says sensory alterations should not be an absolute exclusion criterion. This is secondary evidence, not a change to the need to evaluate alternative or coexisting causes; the typical pattern remains predominantly motor.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10632209/"
     }
   },
@@ -36875,7 +36875,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=82"
     },
     "guideline": {
-      "text": "A2006 macrocytosis review lists myeloma among associated disorders and describes nutritional deficiency, marrow disease, drugs, reticulocytosis and artifacts as mechanisms requiring evaluation. It does not establish RBC immunoglobulin transport as the cause. The source exact mechanism remains unverified rather than a confirmed fact.",
+      "text": "A 2006 macrocytosis review lists myeloma among associated disorders and describes nutritional deficiency, marrow disease, drugs, reticulocytosis and artifacts as mechanisms requiring evaluation. It does not establish RBC immunoglobulin transport as the cause. The source exact mechanism remains unverified rather than a confirmed fact.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1570488/"
     }
   }

@@ -1,5 +1,14 @@
 # Family Medicine coverage ledger
 
+## Current state, October15 2026 01:56 CDT
+
+3088 source-page-linked FM cards, including230 cards using actual PDF figures and613 separately linked verification notes. All clinical pages4-317 have received three reading passes; pp1-3 and318-319 are nonclinical end matter. Figure-only p149 has a figure card; p184 repeats earlier dementia/Parkinson/RLS concepts rather than getting count-padding duplicates. Final completion is NOT claimed.
+
+The complete bank has now had an answer/readability skim and automated integrity/duplicate-candidate checks. Remaining work: resolve semantic duplicates while retaining progress IDs, reconcile source-to-card coverage for repeated details, finish clinical cross-checks on flagged precise claims, and final mobile/figure QA. Latest final USPSTF controls prevention/screening; elsewhere PDF answer is separated from verified notes, with source type/date limitations stated. Unverified concerns remain in the editorial ledger. Partial remains until these checks finish. Other rotations unstarted, sequentially after FM. Several hours FM work remain.
+
+Everything below is append-only history of earlier partial batches, not the current missing-content list. Its old counts and exclusions are superseded by later entries and the editorial ledger.
+
+
 Source: web/public/mehlman/hy-family-medicine.pdf, 319 pages.
 No claim of complete coverage yet. Cards use printed PDF pages.
 

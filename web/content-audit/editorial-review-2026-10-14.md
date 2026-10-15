@@ -466,3 +466,9 @@ Rapid p260-267finerpass:clinical CTS-6 vs compulsory electrophysiology reconcile
 
 The first replacement prompts for1359/1489 still overlapped1304/1491. Rechecked the actual pp15/49 and changed them to distinct source details: cocaine-associated diffuse-ST vignette and the explicitly unusual NSAID-peripheral-edema-only exam report. Both clearly identified as source examples rather than universal diagnostic rules.
 Added a compact "Verified note:" label to the separate note region. This label covers official guidelines, drug labels and other verified sources without mislabeling every reference as a guideline; no banner or repeated PDF credit added. Live mobile visual verification required after deployment.
+
+## October15 01:56 full-bank QA status
+
+Completed a complete answer/readability skim of3088 cards, including all613 notes, and automated integrity plus page-local semantic-similarity candidate checks. This is not equivalent to independent source re-verification of every fact. Corrected several cramped word/number spacings without changing clinical content. Latest actual390x844 live visual check confirmed the new separate Verified note label, source/page links and review controls fit without horizontal overflow.
+
+Remaining semantic-overlap candidates include0716/2064(CRAO),1049/2270(sarcoid),1045/2266(colorectal screening),0149/1473(leukotriene targets),0649/2005(binge eating),1117/2328(quad screen),2332/2552(MG/LEMS),0968/2217(Winter),2313/2540(postrenal anticholinergic),0871/2180(Hashimoto), and global cross-page repetition. Different diseases, genes, nerves, side-specific tests and drug-selection contexts can produce false-positive similarity hits. Do not delete them automatically. Cross-check page details and existing coverage before changing a card; keep IDs stable. Full clinical/source-mapping/figure QA remains open; Partial is intentional.
