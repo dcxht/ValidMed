@@ -1,0 +1,356 @@
+{
+  "counts": {
+    "active": 3245,
+    "historical": 3471,
+    "retired": 226,
+    "figures": 230,
+    "activeNotes": 768
+  },
+  "localChecks": [
+    {
+      "width": 320,
+      "docWidth": 320,
+      "cardWidth": 320,
+      "cardClient": 320,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 502,
+          "bottom": 558
+        },
+        {
+          "text": "Missed it",
+          "top": 502,
+          "bottom": 558
+        },
+        {
+          "text": "Got it",
+          "top": 502,
+          "bottom": 558
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-3286",
+      "w": 320,
+      "h": 568
+    },
+    {
+      "width": 320,
+      "docWidth": 320,
+      "cardWidth": 320,
+      "cardClient": 320,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 502,
+          "bottom": 558
+        },
+        {
+          "text": "Missed it",
+          "top": 502,
+          "bottom": 558
+        },
+        {
+          "text": "Got it",
+          "top": 502,
+          "bottom": 558
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-1263",
+      "w": 320,
+      "h": 568
+    },
+    {
+      "width": 375,
+      "docWidth": 375,
+      "cardWidth": 375,
+      "cardClient": 375,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 601,
+          "bottom": 657
+        },
+        {
+          "text": "Missed it",
+          "top": 601,
+          "bottom": 657
+        },
+        {
+          "text": "Got it",
+          "top": 601,
+          "bottom": 657
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-3459",
+      "w": 375,
+      "h": 667
+    },
+    {
+      "width": 375,
+      "docWidth": 375,
+      "cardWidth": 375,
+      "cardClient": 375,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 601,
+          "bottom": 657
+        },
+        {
+          "text": "Missed it",
+          "top": 601,
+          "bottom": 657
+        },
+        {
+          "text": "Got it",
+          "top": 601,
+          "bottom": 657
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-0019",
+      "w": 375,
+      "h": 667
+    },
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-3286",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-1263",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-2713",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 430,
+      "docWidth": 430,
+      "cardWidth": 430,
+      "cardClient": 430,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 866,
+          "bottom": 922
+        },
+        {
+          "text": "Missed it",
+          "top": 866,
+          "bottom": 922
+        },
+        {
+          "text": "Got it",
+          "top": 866,
+          "bottom": 922
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-3450",
+      "w": 430,
+      "h": 932
+    },
+    {
+      "width": 768,
+      "docWidth": 768,
+      "cardWidth": 598,
+      "cardClient": 598,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 958,
+          "bottom": 1014
+        },
+        {
+          "text": "Missed it",
+          "top": 958,
+          "bottom": 1014
+        },
+        {
+          "text": "Got it",
+          "top": 958,
+          "bottom": 1014
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-3286",
+      "w": 768,
+      "h": 1024
+    }
+  ],
+  "liveChecks": [
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-0104",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-2713",
+      "w": 390,
+      "h": 844
+    },
+    {
+      "width": 390,
+      "docWidth": 390,
+      "cardWidth": 390,
+      "cardClient": 390,
+      "sourceVisible": true,
+      "actions": [
+        {
+          "text": "\u2039",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Missed it",
+          "top": 778,
+          "bottom": 834
+        },
+        {
+          "text": "Got it",
+          "top": 778,
+          "bottom": 834
+        }
+      ],
+      "badImgs": [],
+      "id": "s2fm-1263",
+      "w": 390,
+      "h": 844
+    }
+  ],
+  "liveBundle": "https://validmed.org/assets/index-B-VCVw0D.js",
+  "caveats": [
+    "Dense figures require full-size image link for fine labels.",
+    "Long answers scroll within card; action bar remains below.",
+    "Initial QA script reused live component state and selected wrong cards in some screenshots; rerun uses separate isolated browser context and exact question-text assertions. Final metrics are corrected run.",
+    "Independent clinical verification of every source statement is not claimed."
+  ]
+}
