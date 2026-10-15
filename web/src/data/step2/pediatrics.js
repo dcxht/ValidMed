@@ -17050,5 +17050,230 @@ export default [
       "text": "The UK screening evidence review reports low AFP, hCG and unconjugated estriol in trisomy 18, with no evidence that inhibin differs from unaffected pregnancies. For trisomy 13 it reports increased inhibin and no substantial difference for other quad markers, directly qualifying the PDF all-down shortcut.",
       "url": "https://www.gov.uk/government/consultations/addition-of-quadruple-test-to-edwards-syndrome-screening-pathway/edwards-syndrome-screening-quadruple-test-consultation"
     }
+  },
+  {
+    "id": "s2peds-1216",
+    "category": "Genetic syndromes",
+    "q": "What prognosis does the source give for trisomy 18, and is early death inevitable?",
+    "a": "The source continuation says most affected pregnancies or newborns die in utero or shortly after birth. This describes high mortality, not a guarantee that no infant survives longer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "Merck reports fewer than 10% surviving beyond one year while recommending individualized care that can include palliative and life-prolonging interventions. The diagnosis alone should not be used to claim that care is futile.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/trisomy-18"
+    }
+  },
+  {
+    "id": "s2peds-1217",
+    "category": "Genetic syndromes",
+    "q": "What source pattern suggests Patau syndrome, or trisomy 13?",
+    "a": "Holoprosencephaly, failure of normal forebrain separation, sometimes with severe midline facial findings such as cyclopia, together with extra or fused digits (polysyndactyly). The PDF describes Patau syndrome as rare.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "Merck describes holoprosencephaly, midline facial/eye abnormalities and polydactyly. Cyclopia is an extreme possible manifestation, not a required finding in every child with trisomy 13.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/trisomy-13"
+    }
+  },
+  {
+    "id": "s2peds-1218",
+    "category": "Genetic syndromes",
+    "q": "What trisomy-13 quad-screen rule is printed on p85, and does it agree with the preceding source shortcut?",
+    "a": "This page says all markers fall except normal inhibin, whereas p84 used an all-down shortcut for Edwards and Patau syndromes. These source statements conflict and should not be turned into a reliable Patau-screening rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "The UK screening evidence review describes increased inhibin in trisomy 13 and no substantial differences in the other quad markers. It also notes poor quad-screen performance for trisomy 13, qualifying both PDF shortcuts.",
+      "url": "https://www.gov.uk/government/consultations/addition-of-quadruple-test-to-edwards-syndrome-screening-pathway/edwards-syndrome-screening-quadruple-test-consultation"
+    }
+  },
+  {
+    "id": "s2peds-1219",
+    "category": "Genetic syndromes",
+    "q": "What survival statement does the source make for trisomy 13, and what qualification is needed?",
+    "a": "The PDF says usually fatal in utero or shortly after birth. Trisomy 13 does carry high early mortality, but some affected children survive beyond infancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "Merck reports approximately 10% surviving beyond the first year, with improved survival in some children receiving interventions. Prognostic counseling and care are individualized rather than assuming uniform immediate death.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/trisomy-13"
+    }
+  },
+  {
+    "id": "s2peds-1220",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "What do polyhydramnios and oligohydramnios mean in the source fetal-fluid comparison?",
+    "a": "Polyhydramnios means excessive amniotic fluid; oligohydramnios means insufficient amniotic fluid. The source notes these topics overlap pediatrics and the OB/GYN shelf.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "SMFM defines singleton polyhydramnios using a deepest vertical pocket of at least 8 cm or AFI at least 24 cm. An abnormal fluid amount prompts evaluation for its cause rather than being a diagnosis of maternal diabetes or fetal renal disease by itself.",
+      "url": "https://www.ajog.org/article/S0002-9378(18)30589-1/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1221",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "Why can gestational diabetes produce polyhydramnios in the source?",
+    "a": "Maternal hyperglycemia leads to fetal hyperglycemia, producing osmotic diuresis and increased fetal urine entering the amniotic fluid compartment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "SMFM describes this mechanism and identifies diabetes and fetal anomalies as the most common pathologic causes, while most mild cases are idiopathic. Diabetes is a possibility to evaluate, not the cause of every case.",
+      "url": "https://www.ajog.org/article/S0002-9378(18)30589-1/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1222",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "Which anemia and infection settings does the source associate with fetal hypoxia and polyhydramnios?",
+    "a": "Maternal anemia, hemolytic disease of the fetus/newborn and parvovirus B19 are listed. The source explains reduced oxygen delivery, RBC destruction or impaired RBC production causing a compensatory high-output fetal state and increased urine production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "SMFM supports alloimmunization and infections such as parvovirus causing fetal anemia, hydrops or cardiac dysfunction with polyhydramnios. The exact source renal-vasodilation chain is a proposed explanation, not a universal response to fetal hypoxia.",
+      "url": "https://www.ajog.org/article/S0002-9378(18)30589-1/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1223",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "What renal-flow explanation does the source give for anemia-related polyhydramnios?",
+    "a": "The PDF describes compensatory increased cardiac output and renal vasodilation, lowering peripheral resistance while increasing renal blood flow and fetal urine output. It is an explanation for a high-output setting, not proof that every hypoxic fetus makes more urine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "SMFM describes excess urine production from high-output cardiac states, osmotic diuresis or renal abnormalities. It also describes impaired swallowing as a separate mechanism, so amniotic-fluid changes cannot be inferred from oxygenation alone.",
+      "url": "https://www.ajog.org/article/S0002-9378(18)30589-1/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1224",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "How does the source relate multiple gestation to polyhydramnios, and why is \"more fetuses means more urine\" incomplete?",
+    "a": "The source attributes excess fluid to combined urine output from multiple fetuses. Clinically, fluid is assessed in relation to the fetal sacs and placentation rather than assuming all twin pregnancies should have excessive fluid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "SMFM states that polyhydramnios in twins occurs primarily with complications of monochorionic placentation and uses the deepest vertical pocket in multiple gestations. This qualifies the PDF simple summed-output explanation.",
+      "url": "https://www.ajog.org/article/S0002-9378(18)30589-1/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1225",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "How does the source connect fetal hydrops, anemia and polyhydramnios?",
+    "a": "Hydrops is severe fetal edema. The PDF describes anemia, hemolysis or parvovirus leading to compensatory increased cardiac output, renal perfusion and urine output; it also proposes that edema from low-output failure stimulates more urine to remove excess fluid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "SMFM supports hydrops and high-output or cardiac-dysfunction associations with polyhydramnios. It does not establish the PDF general claim that low-output failure automatically causes renal diuresis, so that proposed mechanism should not be treated as verified physiology.",
+      "url": "https://www.ajog.org/article/S0002-9378(18)30589-1/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1226",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "Which maternal conditions does the source link to oligohydramnios through uteroplacental insufficiency?",
+    "a": "Smoking, preeclampsia and systemic lupus erythematosus are listed as settings of reduced placental delivery that can compromise fetal renal function and urine output.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "Merck recognizes uteroplacental insufficiency, including preeclampsia, hypertension and thrombotic/maternal disorders, as a cause. Membrane rupture, fetal urinary abnormalities, medications and other causes must also be considered.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/oligohydramnios"
+    }
+  },
+  {
+    "id": "s2peds-1227",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "What speculative nutrient-versus-oxygen explanation accompanies source uteroplacental-insufficiency oligohydramnios?",
+    "a": "The PDF proposes inadequate nutrients with minimally sufficient oxygen, causing reduced renal function without compensatory renal cardiac-output increase. This is the source proposed mechanism, not an established requirement for oligohydramnios.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "Merck recognizes uteroplacental insufficiency and fetal growth restriction but does not establish this nutrient-only versus oxygen-sufficient distinction. Keep the placental association without presenting that speculative separation as verified physiology.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/oligohydramnios"
+    }
+  },
+  {
+    "id": "s2peds-1228",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "What lesion causes source bladder-outlet obstruction in a male fetus or neonate with poor urine output?",
+    "a": "Posterior urethral valves: obstructing membranous folds in the posterior, described as prostatic, urethra. They impair urine outflow and may cause reflux, hydronephrosis and renal damage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "Merck describes obstructing posterior urethral folds, vesicoureteral reflux and upper-tract injury. The PDF calls this the most common genitourinary abnormality in neonatal males; the verified narrower description is an important/common cause of male urinary obstruction, not a ranking of all genital anomalies.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-renal-and-genitourinary-anomalies/urethral-anomalies"
+    }
+  },
+  {
+    "id": "s2peds-1229",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "What range of presentation does the source give for posterior urethral valves?",
+    "a": "Severe fetal oligohydramnios, a newborn who has not passed urine in the first hours, or an infant presenting weeks later with urinary retention. Obstruction severity varies, so normal initial fluid does not exclude a clinically important valve.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "The clinical posterior-urethral-valve review describes a wide severity range, from less obvious obstruction to severe antenatal oligohydramnios and pulmonary hypoplasia. Prompt assessment is needed when a newborn has poor urine output, rather than relying on one fixed age of presentation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2peds-1230",
+    "category": "Fetal fluid and urinary disorders",
+    "q": "How does source renal agenesis lead to the Potter sequence?",
+    "a": "Failure of renal development, particularly bilateral severe loss, reduces fetal urine and amniotic fluid. Prolonged oligohydramnios is associated with pulmonary hypoplasia, flattened facies and limb/foot deformities, including the source rocker-bottom-foot description.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 85,
+      "url": "/mehlman/hy-pediatrics.pdf#page=85"
+    },
+    "guideline": {
+      "text": "The Potter clinical review explains reduced urinary fluid supply, prolonged compression and variable limb deformities, with severity dependent on duration and timing. The PDF intermediate claim that reduced swallowing itself causes lung hypoplasia is not the established explanation in the reviewed sections; lung development requires an adequate fluid environment and thoracic expansion.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560858/"
+    }
   }
 ];
