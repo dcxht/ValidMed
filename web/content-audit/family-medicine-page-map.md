@@ -189,8 +189,8 @@ All source locations after semantic consolidation. This is a locator index, not 
 | 186 | s2fm-0674, s2fm-0675, s2fm-0676, s2fm-0677, s2fm-2029, s2fm-2030, s2fm-2031, s2fm-2924, s2fm-2925, s2fm-2926, s2fm-3195, s2fm-3196 | 0 | 3 |
 | 187 | s2fm-0678, s2fm-0679, s2fm-0680, s2fm-0681, s2fm-0682, s2fm-0683, s2fm-0684, s2fm-1894, s2fm-2927, s2fm-2928, s2fm-2929, s2fm-2931, s2fm-3197, s2fm-3198, s2fm-3199, s2fm-3200 | 0 | 1 |
 | 188 | s2fm-0685, s2fm-0686, s2fm-0687, s2fm-0688, s2fm-0689, s2fm-1977, s2fm-2036, s2fm-2037, s2fm-2038, s2fm-2380, s2fm-2930, s2fm-2932, s2fm-3201, s2fm-3202 | 0 | 4 |
-| 189 | s2fm-0604, s2fm-0690, s2fm-0691, s2fm-0692, s2fm-0693, s2fm-0694, s2fm-1974, s2fm-2039, s2fm-2040, s2fm-2041, s2fm-2487, s2fm-2488, s2fm-2882, s2fm-2885, s2fm-2933, s2fm-2934, s2fm-2935, s2fm-3174, s2fm-3203, s2fm-3204, s2fm-3205 | 0 | 7 |
-| 190 | s2fm-0695, s2fm-0696, s2fm-0697, s2fm-2041, s2fm-2042, s2fm-2043, s2fm-2044, s2fm-2936, s2fm-3163, s2fm-3206, s2fm-3207, s2fm-3208 | 0 | 1 |
+| 189 | s2fm-0604, s2fm-0690, s2fm-0691, s2fm-0692, s2fm-0693, s2fm-0694, s2fm-1974, s2fm-2039, s2fm-2040, s2fm-2041, s2fm-2487, s2fm-2488, s2fm-2882, s2fm-2885, s2fm-2933, s2fm-2934, s2fm-2935, s2fm-3174, s2fm-3203, s2fm-3204, s2fm-3205 | 0 | 8 |
+| 190 | s2fm-0695, s2fm-0696, s2fm-0697, s2fm-2041, s2fm-2042, s2fm-2043, s2fm-2044, s2fm-2936, s2fm-3163, s2fm-3206, s2fm-3207, s2fm-3208 | 0 | 2 |
 | 191 | s2fm-0583, s2fm-0603, s2fm-0604, s2fm-0605, s2fm-0606, s2fm-0607, s2fm-0698, s2fm-0700, s2fm-1973, s2fm-1974, s2fm-2881, s2fm-2882, s2fm-2937, s2fm-3164, s2fm-3165, s2fm-3166, s2fm-3167, s2fm-3209 | 0 | 3 |
 | 192 | s2fm-0492, s2fm-0599, s2fm-0609, s2fm-0699, s2fm-0700, s2fm-1888, s2fm-1889, s2fm-1891, s2fm-1977, s2fm-1979, s2fm-2047, s2fm-2382, s2fm-2884, s2fm-2885, s2fm-2891, s2fm-3132, s2fm-3168, s2fm-3210, s2fm-3211, s2fm-3212 | 0 | 5 |
 | 193 | s2fm-0701, s2fm-0702, s2fm-0703, s2fm-0704, s2fm-0705, s2fm-0706, s2fm-2048, s2fm-2049, s2fm-2050, s2fm-2051, s2fm-2052, s2fm-2930, s2fm-2938, s2fm-2939, s2fm-2940, s2fm-2941, s2fm-2945, s2fm-3213 | 0 | 2 |

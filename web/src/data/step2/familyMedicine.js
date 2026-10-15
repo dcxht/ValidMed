@@ -40650,6 +40650,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 189,
       "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "NICE CG178 recommendation 1.3.5.1 calls for a shared antipsychotic choice based on each drug's likely benefits and metabolic, movement, cardiovascular and hormonal effects. This is a drug-specific risk discussion, not proof that every agent causes all listed effects equally. Baseline and follow-up monitoring are part of treatment.",
+      "url": "https://www.nice.org.uk/guidance/cg178/chapter/Recommendations"
     }
   },
   {
@@ -40694,6 +40698,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 190,
       "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "NICE CG178 treats antipsychotic selection as an individual therapeutic trial with documented benefits, adverse effects and the person's preferences; maintenance choices use the same criteria. The PDF automatic switch after years of successful treatment is not a universal rule from these recommendations. A change needs supervised benefit/relapse-risk review rather than stopping an effective drug on one source shortcut.",
+      "url": "https://www.nice.org.uk/guidance/cg178/chapter/Recommendations"
     }
   },
   {
