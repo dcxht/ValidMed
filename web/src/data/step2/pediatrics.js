@@ -18663,4 +18663,161 @@ export default [
       "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
     }
   }
+,
+  {
+    "id": "s2peds-1322",
+    "category": "Acne",
+    "q": "How does the p91 isotretinoin sentence finish on p92?",
+    "a": "The source completes the sentence by saying oral isotretinoin does not cause problems with sperm in men, and that topical retinoids in men or women do not cause teratogenicity. The p92 wording is preserved as the source claim, not as a stand-alone modern recommendation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "The 2024 AAD guideline makes pregnancy prevention mandatory for persons of childbearing potential taking isotretinoin and does not issue a male-fertility assurance. It says human studies have not established a causal relationship between topical retinoids and birth defects, but non-retinoid topical therapies are preferred during pregnancy and tazarotene is contraindicated.",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1323",
+    "category": "Pediatric infectious disease",
+    "q": "Which infection is suggested by the p92 photograph of a non-blanching petechial and purpuric leg rash?",
+    "a": "Meningococcemia. In the source table, the image labels the Meningococcus section and pairs the rash with Neisseria meningitidis disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Merck says meningococcemia often begins with acute systemic symptoms followed by a maculopapular or hemorrhagic petechial rash; fulminant lesions can rapidly coalesce into ecchymoses.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/meningococcal-diseases"
+    },
+    "img": "/mehlman/figures/peds-p092-meningococcemia.png",
+    "imgAlt": "Actual source photograph of a leg with scattered petechiae and purpura from meningococcemia"
+  },
+  {
+    "id": "s2peds-1324",
+    "category": "Pediatric infectious disease",
+    "q": "Which organism and Gram-stain appearance does the source assign to Meningococcus?",
+    "a": "Neisseria meningitidis, a gram-negative diplococcus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Merck likewise identifies meningococci as gram-negative aerobic diplococci and confirms N. meningitidis as the cause of meningococcal meningitis and meningococcemia.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/meningococcal-diseases"
+    }
+  },
+  {
+    "id": "s2peds-1325",
+    "category": "Pediatric infectious disease",
+    "q": "What classic clinical pairing does the source give for Meningococcus?",
+    "a": "Meningitis plus a characteristic non-blanching rash. The rash is the meningococcemia clue that separates this from routine meningitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Merck reports that over 90% of invasive meningococcal infections involve meningitis or meningococcemia, and that meningococcemia commonly produces a hemorrhagic petechial rash.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/meningococcal-diseases"
+    }
+  },
+  {
+    "id": "s2peds-1326",
+    "category": "Pediatric infectious disease",
+    "q": "What shock syndrome does the source associate with meningococcemia, and what treatment sequence does it teach?",
+    "a": "The source says hypotension can reflect endotoxic shock but students should remember Waterhouse-Friderichsen syndrome. Its exam sequence is normal saline first, then hydrocortisone to raise blood pressure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Merck defines Waterhouse-Friderichsen syndrome as septicemia, profound shock, purpura and adrenal hemorrhage. Its current meningococcal guidance says high-dose corticosteroids worsen meningococcal shock without meningitis and should not be used; low-dose corticosteroids are reserved for inadequate adrenal function.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/gram-negative-cocci-and-coccobacilli/meningococcal-diseases"
+    }
+  },
+  {
+    "id": "s2peds-1327",
+    "category": "Pediatric infectious disease",
+    "q": "Which spot diagnosis is shown by the p92 swollen finger with grouped vesicles?",
+    "a": "Herpetic whitlow, an HSV infection of the distal finger. The source calls it one of the highest-yield USMLE spot diagnoses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Merck describes intense distal-finger pain, redness and swelling with vesicles on the distal phalanx, and warns that it can mimic a felon or paronychia.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/herpetic-whitlow"
+    },
+    "img": "/mehlman/figures/peds-p092-herpetic-whitlow.png",
+    "imgAlt": "Actual source photograph of a swollen finger with herpetic vesicles consistent with herpetic whitlow"
+  },
+  {
+    "id": "s2peds-1328",
+    "category": "Pediatric infectious disease",
+    "q": "Which viruses cause herpetic whitlow in the source?",
+    "a": "HSV-1 or HSV-2 infecting the finger.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "DermNet likewise defines herpetic whitlow as a painful HSV-1 or HSV-2 infection, usually of the distal fingers or thumbs, and notes that it is self-limited but may recur.",
+      "url": "https://dermnetnz.org/topics/herpetic-whitlow"
+    }
+  },
+  {
+    "id": "s2peds-1329",
+    "category": "Pediatric infectious disease",
+    "q": "How does the source contrast pediatric and adult acquisition of herpetic whitlow?",
+    "a": "In children, the source example is contact with a mother's cold sore, including during breastfeeding. In adults, the classic exposure is dental work or another occupation involving oral secretions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "DermNet says young children commonly acquire it after oral HSV through thumb-sucking autoinoculation, while adult cases are associated with genital HSV exposure or occupational dental and healthcare exposure to oral secretions. The source breastfeeding example is preserved as a source vignette.",
+      "url": "https://dermnetnz.org/topics/herpetic-whitlow"
+    }
+  },
+  {
+    "id": "s2peds-1330",
+    "category": "Pediatric infectious disease",
+    "q": "What treatment does the source give for herpetic whitlow?",
+    "a": "Topical and oral acyclovir. The exam point is antiviral treatment, not incision and drainage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Merck says herpetic whitlow is self-limited; topical acyclovir 5% can shorten a first episode, immediate oral acyclovir 800 mg twice daily may prevent recurrence, and incision and drainage are contraindicated.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/herpetic-whitlow"
+    }
+  },
+  {
+    "id": "s2peds-1331",
+    "category": "Pediatric infectious disease",
+    "q": "Which diagnosis does the p92 target-like rash photograph introduce?",
+    "a": "Lyme disease. The page gives only the Lyme label and erythema-migrans image here; the organism, rash variants, Bell palsy clue and treatment bullets begin on p93.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 92,
+      "url": "/mehlman/hy-pediatrics.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Merck calls erythema migrans the characteristic finding of early Lyme disease: it starts as a red macule at an Ixodes bite 3 to 32 days later, often expands with central clearing, but may have no central clearing.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/spirochetes/lyme-disease"
+    },
+    "img": "/mehlman/figures/peds-p092-lyme.png",
+    "imgAlt": "Actual source photograph of a target-like erythema migrans rash associated with Lyme disease"
+  }
 ];
