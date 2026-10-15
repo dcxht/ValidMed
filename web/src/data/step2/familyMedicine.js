@@ -41478,6 +41478,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    },
+    "guideline": {
+      "text": "NIAMS states that osteoporosis risk rises with age and that women and men of all racial/ethnic groups can be affected. Population differences do not remove clinically important individual fracture risk. The source answer-choice rankings are not a validated fracture-risk calculation; densitometric osteoporosis uses an inclusive T-score threshold of -2.5 or below in the applicable diagnostic population.",
+      "url": "https://www.niams.nih.gov/health-topics/osteoporosis"
     }
   },
   {
@@ -43582,6 +43586,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 309,
       "url": "/mehlman/hy-family-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "AGA September 2025 guidance conditionally suggests erythromycin and metoclopramide for gastroparesis and favors a four-hour over a two-hour gastric-emptying study. The short source drug list is not a complete drug-safety, duration or refractory-disease plan. This issuing-society recommendation page does not by itself supply every dosing or tachyphylaxis detail.",
+      "url": "https://gastro.org/clinical-guidance/clinical-guidance-on-the-management-of-gastroparesis/"
     }
   },
   {
@@ -43838,6 +43846,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 316,
       "url": "/mehlman/hy-family-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "The Vasculitis Foundation confirms an association of PAN with hepatitis B but says the cause is unknown in most cases. Its current patient overview does not verify a universal 30% seropositivity estimate. The PDF percentage remains a source estimate rather than a current prevalence claim for every region or cohort.",
+      "url": "https://vasculitisfoundation.org/education/vasculitis-types/polyarteritis-nodosa/"
     }
   },
   {
