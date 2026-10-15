@@ -29097,6 +29097,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 25,
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
+    },
+    "guideline": {
+      "text": "The fetched dipyridamole-injection label says the vasodilator mechanism is not fully elucidated and may involve inhibition of adenosine uptake; theophylline antagonizes its vasodilator effects. The PDF PDE-only shorthand omits this adenosine-mediated explanation for perfusion stress testing.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6093dcd9-82d2-414f-8507-eda22c14f626"
     }
   },
   {
@@ -32629,6 +32633,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 36,
       "url": "/mehlman/hy-family-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "Current guideline: GINA 2026 says adults, adolescents and children 6-11 should receive ICS-containing treatment, not SABA alone.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf"
     }
   },
   {
@@ -33107,6 +33115,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 44,
       "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    },
+    "guideline": {
+      "text": "CDC identifies a respiratory pseudomembrane as the hallmark of diphtheria, which can cause airway obstruction, myocarditis and death. A gray throat membrane requires clinical assessment; do not use the PDF missing-answer-choice shortcut to dismiss diphtheria as sinusitis.",
+      "url": "https://www.cdc.gov/diphtheria/hcp/clinical-signs/"
     }
   },
   {
@@ -34215,6 +34227,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 87,
       "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes Fanconi anemia as usually autosomal recessive, with rare autosomal-dominant or X-linked forms. The source inheritance pattern is the common one, not an absolute for every genotype.",
+      "url": "https://medlineplus.gov/genetics/condition/fanconi-anemia/"
     }
   },
   {
@@ -37403,6 +37419,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 201,
       "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "MedlinePlus identifies WAGR as a contiguous chromosome-11 deletion including PAX6 and WT1. PAX6 loss explains the characteristic eye findings such as aniridia; WT1 loss explains Wilms-tumor/genitourinary features. Do not attribute aniridia directly to WT1 alone.",
+      "url": "https://medlineplus.gov/genetics/condition/wagr-syndrome/"
     }
   },
   {
@@ -39517,7 +39537,11 @@ export default [
     "sourcePages": [
       112,
       312
-    ]
+    ],
+    "guideline": {
+      "text": "NCI summarizes observational evidence of 30%-50% lower ovarian-cancer risk among ever-users of oral contraceptives, with effects related to duration and time since stopping. Proposed mechanisms include reducing ovulation, not merely synchronizing cycles. This does not establish identical effects for all formulations or make a distant relative alone a prescribing indication.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet"
+    }
   },
   {
     "id": "s2fm-3113",
@@ -39613,6 +39637,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 139,
       "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "SVS/AVF/AVLS 2023 recommends intervention over long-term compression for suitable patients with symptomatic varicose veins and axial great/small saphenous reflux. Conservative care remains appropriate for preference or medical/ambulatory reasons; the PDF never-procedure rule is not universal.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
     }
   },
   {
@@ -39840,6 +39868,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 154,
       "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    },
+    "guideline": {
+      "text": "ACR/VF 2021 conditionally recommends temporal-artery biopsy within 2 weeks of starting oral glucocorticoids rather than waiting longer. Histologic findings may persist later; treatment should not be held for biopsy.",
+      "url": "https://vasculitisfoundation.org/wp-content/uploads/2024/01/2021-ACR-VF-Guideline-for-Management-of-Giant-Cell-Arteritis-and-Takayasu-Artheritis.pdf"
     }
   },
   {
