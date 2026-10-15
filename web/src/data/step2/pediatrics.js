@@ -11076,5 +11076,306 @@ export default [
       "text": "Merck April 2026 describes usually autosomal-dominant ELANE mutation with mean 21 +/- 3 day oscillations, and repeated differential counts to assess periodicity. A single normal neutrophil count between episodes does not exclude cycling.",
       "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/leukopenias/neutropenia"
     }
+  },
+  {
+    "id": "s2peds-0813",
+    "category": "Pediatric hematology",
+    "q": "What inheritance pattern does the source emphasize for hereditary spherocytosis?",
+    "a": "Usually autosomal dominant. An affected parent and child with compatible hemolysis is a strong clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 describes dominant inheritance with variable penetrance, but also de novo and recessive cases. Absence of family history does not exclude hereditary spherocytosis; the author exam-frequency ranking is unverified.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0814",
+    "category": "Pediatric hematology",
+    "q": "Which source membrane proteins can be abnormal in hereditary spherocytosis?",
+    "a": "Ankyrin, spectrin and band proteins. Defective RBC membrane/cytoskeletal support causes loss of the normal biconcave form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 lists spectrin, ankyrin, band 3 and protein 4.2. These are membrane-protein disorders, not primary defects of hemoglobin or antibody production.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0815",
+    "category": "Pediatric hematology",
+    "q": "Which cell compartment is the answer when the source asks for the defect in hereditary spherocytosis?",
+    "a": "The RBC cell membrane/cytoskeleton. Reduced membrane surface area relative to cell contents produces less deformable spherical RBCs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 explains disproportionate membrane-surface loss and impaired transit through splenic microcirculation, leading to intrasplenic hemolysis.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0816",
+    "category": "Pediatric hematology",
+    "q": "What identifying feature is visible in this actual source spherocyte image?",
+    "a": "Rounded, densely stained red cells without the usual central pale area. The source describes them as full and red.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 defines spherocytes by lack of central pallor and spherical shape. The morphology can occur in hereditary or immune hemolysis, so the image alone does not prove the cause.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    },
+    "img": "/mehlman/pediatrics/p058-spherocytes.jpg"
+  },
+  {
+    "id": "s2peds-0817",
+    "category": "Pediatric hematology",
+    "q": "What anemia classification does the source assign to hereditary spherocytosis?",
+    "a": "A normocytic, normochromic hemolytic anemia in the recalled examination. Do not confuse normal cell size with absence of hemolysis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 describes normal MCV with increased MCHC and common reticulocytosis. The source normochromic classification is an exam shorthand, not a claim that every RBC index is normal.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0818",
+    "category": "Pediatric hematology",
+    "q": "Why can hereditary spherocytosis cause pigment gallstones in the source?",
+    "a": "The spleen removes abnormal spherocytes, increasing RBC breakdown and bilirubin production. Chronic hemolysis predisposes to pigment cholelithiasis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 describes intrasplenic destruction, jaundice and common pigment stones, which may be the presenting symptom.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0819",
+    "category": "Pediatric hematology",
+    "q": "Which unusual RBC index may support the source hereditary-spherocytosis diagnosis?",
+    "a": "An increased mean corpuscular hemoglobin concentration, MCHC. This is a clue alongside smear, hemolysis and family history, not a stand-alone diagnostic result.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 supports increased MCHC. The author four-out-of-five examination observation is not an independently verified probability and should not override other causes or the full clinical context.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0820",
+    "category": "Pediatric hematology",
+    "q": "Which two diagnostic approaches does the source name for hereditary spherocytosis?",
+    "a": "RBC osmotic fragility testing and eosin-5-maleimide, EMA, binding testing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 describes increased osmotic fragility and reduced EMA binding; ektacytometry and genetic tests may also help. Mild cases may need specialized testing, and osmotic fragility can also be positive in immune spherocytosis.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0821",
+    "category": "Pediatric hematology",
+    "q": "What direct Coombs result does the source expect in uncomplicated hereditary spherocytosis?",
+    "a": "Negative. The inherited membrane defect does not itself require antibodies against RBCs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 uses a negative direct antiglobulin test to distinguish typical hereditary spherocytosis from autoimmune hemolysis. This does not mean hereditary spherocytosis is not a hemolytic anemia.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0822",
+    "category": "Pediatric hematology",
+    "q": "Why does splenectomy improve source hereditary-spherocytosis anemia?",
+    "a": "It reduces splenic destruction of the abnormal RBCs, allowing them to survive longer. It does not repair their inherited membrane defect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 says spherocytosis and high RBC fragility persist after surgery while anemia/reticulocytosis usually improve. Surgery is selected for symptomatic disease or complications, not automatically for every diagnosis.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0823",
+    "category": "Pediatric hematology",
+    "q": "Is splenectomy the universal immediate treatment for every child with hereditary spherocytosis?",
+    "a": "No. The PDF names it as the classic treatment answer, but severity, symptoms, age and lifelong infection/thrombosis risks determine whether and when it is appropriate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "The 2017 expert consensus does not recommend splenectomy for mild HS, supports it for severe disease and individualizes intermediate disease; when possible it delays surgery until about age 6. These are specialist decisions, not a routine next step for a mild case.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5541865/"
+    }
+  },
+  {
+    "id": "s2peds-0824",
+    "category": "Pediatric hematology",
+    "q": "When can the source combined splenectomy-and-cholecystectomy answer be appropriate?",
+    "a": "When the child has an independent splenectomy indication and clinically relevant gallstone disease. The two procedures are not an automatic pair for every spherocytosis diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "The 2017 expert consensus supports concomitant gallbladder removal for symptomatic stones during splenectomy. Needing cholecystectomy alone should not change the independent indications for splenectomy; asymptomatic stones require individualized assessment.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5541865/"
+    }
+  },
+  {
+    "id": "s2peds-0825",
+    "category": "Pediatric hematology",
+    "q": "What family-history vignette does the source use to recognize hereditary spherocytosis?",
+    "a": "A child with anemia whose parent previously had splenectomy, sometimes with cholecystectomy, for an unexplained anemia. Compatible disease across generations suggests dominant inheritance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "MSD April 2026 supports family history, hemolysis, splenomegaly and suggestive indices as diagnostic clues, with variable penetrance. The recalled operation is a clue to investigate, not proof of the child diagnosis.",
+      "url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-hemolysis/hereditary-spherocytosis-and-hereditary-elliptocytosis"
+    }
+  },
+  {
+    "id": "s2peds-0826",
+    "category": "Pediatric hematology",
+    "q": "Which source hemolytic condition is a classic answer to selective therapeutic splenectomy?",
+    "a": "Hereditary spherocytosis. The source contrasts it with the repeated splenic infarction and functional asplenia of sickle-cell disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "The 2017 expert consensus documents benefit in HS but also specific splenectomy indications in SCD. Thus the PDF claim that sickle-cell disease is never treated with splenectomy is too absolute.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5541865/"
+    }
+  },
+  {
+    "id": "s2peds-0827",
+    "category": "Pediatric hematology",
+    "q": "Why is the source statement sickle-cell disease is not treated with splenectomy incomplete?",
+    "a": "SCD often causes functional asplenia through repeated splenic microinfarcts, but some children still need surgery for recurrent sequestration or major hypersplenism. Splenectomy is not routine treatment of the underlying HbS disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "The 2017 expert consensus lists recurrent acute splenic sequestration and massive splenomegaly/hypersplenism as SCD indications. This is an exception to the source absolute, not an instruction to remove every sickle-cell patient spleen.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5541865/"
+    }
+  },
+  {
+    "id": "s2peds-0828",
+    "category": "Pediatric hematology",
+    "q": "Does seeing spherocytes always mean hereditary spherocytosis?",
+    "a": "No. Acquired immune hemolysis after some infections or medications can also produce spherocytes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes microspherocytes in warm autoimmune hemolysis and medication/infection associations. Distinguish the morphology from its cause using the hemolysis evaluation and direct antiglobulin testing.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/autoimmune-hemolytic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0829",
+    "category": "Pediatric hematology",
+    "q": "What does a positive direct Coombs test detect in the source acquired-spherocytosis contrast?",
+    "a": "Immunoglobulin and/or complement bound to the patient RBCs. With compatible hemolysis, this supports an immune mechanism rather than a primary inherited membrane defect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes direct antiglobulin testing on washed patient RBCs. A positive test alone can occur without active hemolysis, including after some treatments or transfusion, so interpret it with clinical and laboratory evidence.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/autoimmune-hemolytic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0830",
+    "category": "Pediatric hematology",
+    "q": "How can antibodies cause spherocyte formation in the source immune-hemolysis mechanism?",
+    "a": "Immune injury and removal of RBC membrane make cells more spherical and less deformable; complement may contribute depending on the antibody process.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes predominantly extravascular hemolysis, IgG with or without C3 in warm AIHA, and complement-associated cold processes. Not all spherocytes arise from a complement-only mechanism.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/autoimmune-hemolytic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0831",
+    "category": "Pediatric hematology",
+    "q": "What diagnosis does the source favor for postviral anemia with spherocytes and a positive Coombs test?",
+    "a": "Acquired immune hemolytic anemia rather than hereditary spherocytosis. In that vignette, no specific inherited membrane mutation is the intended answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "Merck April 2026 supports spherocytes plus evidence of immune hemolysis, with infections among possible associations. Hereditary spherocytosis is also a hemolytic anemia; the source row label hemolytic anemia means immune/acquired hemolysis in this contrast.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/autoimmune-hemolytic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0832",
+    "category": "Pediatric hematology",
+    "q": "Does a negative direct Coombs test completely exclude autoimmune hemolytic anemia?",
+    "a": "No. It is the classic hereditary-versus-immune distinction in the PDF, but a small minority of AIHA cases have a negative standard test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 58,
+      "url": "/mehlman/hy-pediatrics.pdf#page=58"
+    },
+    "guideline": {
+      "text": "Merck April 2026 estimates about 5% of AIHA is direct-antiglobulin-negative, including low antibody density or uncommon antibody types. Persistent evidence of hemolysis requires further evaluation rather than a diagnosis from one negative test.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/autoimmune-hemolytic-anemia"
+    }
   }
 ];
