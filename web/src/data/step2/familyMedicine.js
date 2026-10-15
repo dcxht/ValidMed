@@ -28068,5 +28068,80 @@ export default [
       "text": "CDC describes selected surgery, benzimidazole therapy, PAIR or watch-and-wait for cystic echinococcosis based on cyst type, location, size and complications. This is specialist selection, not permission for unsupervised puncture.",
       "url": "https://www.cdc.gov/echinococcosis/hcp/clinical-care/index.html"
     }
+  },
+  {
+    "id": "s2fm-2412",
+    "category": "Infection treatment exact-claim reconciliation",
+    "q": "What blanket antifungal does the PDF name for fungemia?",
+    "a": "Amphotericin B, grouping bloodstream and CNS fungal infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "IDSA 2016 candidiasis guidance recommends an echinocandin for initial candidemia treatment in nonneutropenic adults, with fluconazole an alternative in selected stable patients unlikely to have resistance. Fungal species, site and host context matter; all fungemia is not one regimen.",
+      "url": "https://www.idsociety.org/practice-guideline/candidiasis/"
+    }
+  },
+  {
+    "id": "s2fm-2413",
+    "category": "Infection treatment exact-claim reconciliation",
+    "q": "What general drug rule does the PDF give for simple fungal pneumonia?",
+    "a": "Fluconazole.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "CDC histoplasmosis guidance says mild/moderate acute pulmonary disease often resolves without treatment, while indicated treatment uses agents such as itraconazole or amphotericin B depending on disease severity/site. The label fungal pneumonia alone does not select fluconazole.",
+      "url": "https://www.cdc.gov/histoplasmosis/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2414",
+    "category": "Infection treatment exact-claim reconciliation",
+    "q": "How does the PDF change shingles antiviral route for immunocompromised patients?",
+    "a": "It says to give IV acyclovir rather than the oral options used otherwise.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "NIH adult/adolescent HIV guidance updated March 2026 uses oral antivirals for localized dermatomal zoster and IV acyclovir for extensive cutaneous, visceral or suspected CNS involvement. This HIV guidance disproves an all-immunocompromised IV rule but does not cover every transplant/oncology patient.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/varicella-zoster"
+    }
+  },
+  {
+    "id": "s2fm-2415",
+    "category": "Infection treatment exact-claim reconciliation",
+    "q": "Which single antibiotic does the PDF name in its anthrax discussion?",
+    "a": "Ciprofloxacin, without separating localized cutaneous from systemic disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "CDC 2023 anthrax guidance separates localized cutaneous and systemic disease. Systemic disease generally requires combination antimicrobials and adjunctive antitoxin, with meningitis assessment; a single ciprofloxacin rule is incomplete.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/rr/rr7206a1.htm"
+    }
+  },
+  {
+    "id": "s2fm-2416",
+    "category": "Infection treatment exact-claim reconciliation",
+    "q": "What treatment does the PDF give for disseminated scabies in HIV?",
+    "a": "Oral ivermectin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "CDC crusted-scabies guidance recommends combined oral and topical treatment, typically ivermectin plus permethrin, with duration based on severity. Immunocompromise alone does not define the phenotype; its extent requires assessment.",
+      "url": "https://www.cdc.gov/scabies/hcp/clinical-overview/index.html"
+    }
   }
 ];
