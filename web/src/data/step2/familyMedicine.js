@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 169; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 182; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -6916,6 +6916,655 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 169,
       "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2fm-0609",
+    "category": "Psychiatry",
+    "q": "Which Alzheimer medication antagonizes NMDA glutamate receptors?",
+    "a": "Memantine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-0610",
+    "category": "Psychiatry",
+    "q": "Which visual color disturbances does the PDF associate with digoxin and sildenafil?",
+    "a": "Digoxin: yellow/wavy vision. Sildenafil: a blue visual haze, associated with retinal PDE6 inhibition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-0611",
+    "category": "Psychiatry",
+    "q": "A patient taking aspirin develops tinnitus. What medication adverse effect is suggested?",
+    "a": "Salicylate-associated ototoxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-0612",
+    "category": "Psychiatry",
+    "q": "What symptom duration does the PDF give for a major depressive episode?",
+    "a": "At least two weeks, with at least five depressive symptoms and functional impairment, not explained by a substance or another medical condition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-0613",
+    "category": "Psychiatry",
+    "q": "Hypersomnia and increased appetite occur with mood that improves during positive events. Which depressive pattern is described?",
+    "a": "Atypical depressive features, with mood reactivity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-0614",
+    "category": "Psychiatry",
+    "q": "An older adult has apathy and poor cognitive-test performance associated with depression. What dementia mimic is described?",
+    "a": "Depression-associated cognitive impairment, traditionally called pseudodementia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-0615",
+    "category": "Psychiatry",
+    "q": "According to the PDF, how long do persistent depressed mood and cyclothymic fluctuations last?",
+    "a": "At least two years in adults. Dysthymia involves chronic depressed mood; cyclothymia involves subthreshold depressive and hypomanic symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-0616",
+    "category": "Psychiatry",
+    "q": "Decreased need for sleep, grandiosity, pressured speech and excessive goal-directed activity suggest what mood state?",
+    "a": "Mania or hypomania; severity, duration and functional effect distinguish them.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-0617",
+    "category": "Psychiatry",
+    "q": "What distinguishes bipolar I from bipolar II in the PDF?",
+    "a": "Bipolar I requires at least one manic episode. Bipolar II requires hypomania plus a major depressive episode, without a past manic episode.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-0618",
+    "category": "Psychiatry",
+    "q": "Which lithium adverse effects does the PDF emphasize?",
+    "a": "Nephrogenic diabetes insipidus, hypothyroidism and tremor, with important pregnancy-related risks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-0619",
+    "category": "Psychiatry",
+    "q": "Persistent psychosis lasts at least six months with functional decline. Which schizophrenia-spectrum diagnosis is described?",
+    "a": "Schizophrenia. The source contrasts schizophreniform disorder at one to six months and brief psychotic disorder under one month.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-0620",
+    "category": "Psychiatry",
+    "q": "Psychosis occurs for at least two weeks without a major mood episode, with mood episodes also present over the illness. Which diagnosis does the PDF emphasize?",
+    "a": "Schizoaffective disorder. Full diagnosis also requires longitudinal assessment; this is the distinguishing source pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2fm-0621",
+    "category": "Psychiatry",
+    "q": "How does depression with psychotic features differ from psychosis that also occurs outside mood episodes?",
+    "a": "In depression with psychotic features, the psychosis occurs during the depressive episode rather than persisting independently of it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2fm-0622",
+    "category": "Psychiatry",
+    "q": "A fixed false belief occurs without the broader disorganization or hallucination pattern of schizophrenia. Which disorder is suggested?",
+    "a": "Delusional disorder, requiring assessment of the belief and the overall clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2fm-0623",
+    "category": "Psychiatry",
+    "q": "What does the PDF emphasize when distinguishing normal grief from concerning persistent impairment?",
+    "a": "Normal grief can gradually improve while self-care and basic function remain. Persistent major impairment, self-neglect or suicidal thoughts warrant assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-0624",
+    "category": "Psychiatry",
+    "q": "Excessive worry about many areas of life persists for six months with tension and restlessness. Which disorder is described?",
+    "a": "Generalized anxiety disorder. CBT and SSRIs are treatments named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-0625",
+    "category": "Psychiatry",
+    "q": "Recurrent panic attacks are followed by persistent worry about more attacks. Which disorder is described?",
+    "a": "Panic disorder. The source emphasizes that attacks can mimic cardiac symptoms; medical causes still require appropriate assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-0626",
+    "category": "Psychiatry",
+    "q": "Fear of negative evaluation during social or performance situations suggests what anxiety disorder?",
+    "a": "Social anxiety disorder, or social phobia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-0627",
+    "category": "Psychiatry",
+    "q": "Fear centers on a specific object or situation, such as flying. Which anxiety disorder is described?",
+    "a": "Specific phobia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-0628",
+    "category": "Psychiatry",
+    "q": "Fear involves settings where escape or help may be difficult if symptoms occur. Which anxiety disorder is described?",
+    "a": "Agoraphobia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-0629",
+    "category": "Psychiatry",
+    "q": "A child speaks normally at home but consistently does not speak in particular social settings. What diagnosis is suggested?",
+    "a": "Selective mutism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-0630",
+    "category": "Psychiatry",
+    "q": "Trauma-related re-experiencing persists for at least a month. Which disorder is described, compared with symptoms from three days to under a month?",
+    "a": "PTSD versus acute stress disorder, respectively. The source emphasizes flashbacks and nightmares, though diagnosis requires additional symptom criteria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-0631",
+    "category": "Psychiatry",
+    "q": "Distress and functional impairment begin within three months of an identifiable stressor without another better-fitting disorder. Which diagnosis is described?",
+    "a": "Adjustment disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-0632",
+    "category": "Psychiatry",
+    "q": "What is the difference between an obsession and a compulsion?",
+    "a": "An obsession is an intrusive unwanted thought, image or urge. A compulsion is a repetitive act or mental behavior performed in response.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-0633",
+    "category": "Psychiatry",
+    "q": "How does the PDF distinguish OCD from OCPD?",
+    "a": "OCD symptoms are typically ego-dystonic and distressing; OCPD is a pervasive perfectionistic/control-oriented pattern often experienced as appropriate by the patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-0634",
+    "category": "Psychiatry",
+    "q": "Besides an SSRI, which TCA does the PDF name for OCD?",
+    "a": "Clomipramine. CBT is also emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-0635",
+    "category": "Psychiatry",
+    "q": "How does the PDF distinguish conduct disorder from oppositional defiant disorder?",
+    "a": "Conduct disorder involves serious rights violations or aggressive/destructive behavior. ODD emphasizes persistent defiance and irritability without that pattern of serious violations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-0636",
+    "category": "Psychiatry",
+    "q": "Longstanding suspiciousness and distrust without a primary psychotic disorder suggest which personality disorder?",
+    "a": "Paranoid personality disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-0637",
+    "category": "Psychiatry",
+    "q": "A person prefers solitude and has little desire for close relationships. Which personality pattern is described?",
+    "a": "Schizoid personality disorder, contrasted with avoidant personality in which connection is desired but feared.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-0638",
+    "category": "Psychiatry",
+    "q": "Odd beliefs, perceptual experiences and eccentric behavior fall short of a primary psychotic disorder. Which personality disorder is described?",
+    "a": "Schizotypal personality disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-0639",
+    "category": "Psychiatry",
+    "q": "Unstable relationships, self-image and emotions occur with impulsivity and self-injury. Which personality disorder and therapy are emphasized?",
+    "a": "Borderline personality disorder. Dialectical behavior therapy is named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-0640",
+    "category": "Psychiatry",
+    "q": "A pervasive need for admiration and grandiosity coexist with low empathy. Which personality disorder is described?",
+    "a": "Narcissistic personality disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-0641",
+    "category": "Psychiatry",
+    "q": "A persistent adult pattern of rights violations has conduct-disorder evidence before age15. Which personality disorder is described?",
+    "a": "Antisocial personality disorder. A single criminal act alone does not establish it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-0642",
+    "category": "Psychiatry",
+    "q": "A patient desires relationships but avoids them because of inadequacy and fear of rejection. Which personality disorder is described?",
+    "a": "Avoidant personality disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-0643",
+    "category": "Psychiatry",
+    "q": "A pervasive need to be cared for leads to clinging and fear of separation. Which personality disorder is described?",
+    "a": "Dependent personality disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-0644",
+    "category": "Psychiatry",
+    "q": "Perfectionism and control interfere with productivity and relationships, yet the patient sees the approach as correct. Which disorder is described?",
+    "a": "Obsessive-compulsive personality disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-0645",
+    "category": "Psychiatry",
+    "q": "Persistent social-communication differences and restricted repetitive behaviors begin in early development. Which neurodevelopmental condition is described?",
+    "a": "Autism spectrum disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-0646",
+    "category": "Psychiatry",
+    "q": "Restriction and fear of weight gain occur with significantly low body weight. What eating disorder is described?",
+    "a": "Anorexia nervosa. Purging can occur, and amenorrhea is not required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-0647",
+    "category": "Psychiatry",
+    "q": "Why can anorexia cause amenorrhea and low bone density?",
+    "a": "Reduced energy availability disrupts hypothalamic GnRH signaling and lowers gonadotropin/estrogen activity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-0648",
+    "category": "Psychiatry",
+    "q": "Binge eating is followed by vomiting or other compensatory behavior without the low-weight pattern of anorexia. What disorder is described?",
+    "a": "Bulimia nervosa.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-0649",
+    "category": "Psychiatry",
+    "q": "How does binge-eating disorder differ from bulimia?",
+    "a": "Recurrent binges are not regularly followed by compensatory behaviors such as purging.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-0650",
+    "category": "Psychiatry",
+    "q": "Memory gaps occur with distinct identity states taking control of behavior. Which dissociative disorder is described?",
+    "a": "Dissociative identity disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-0651",
+    "category": "Psychiatry",
+    "q": "Autobiographical memory loss occurs with unexpected travel. Which dissociative phenomenon is described?",
+    "a": "Dissociative amnesia with fugue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-0652",
+    "category": "Psychiatry",
+    "q": "A patient feels detached from the self or that the world is unreal, while reality testing remains intact. Which disorder is described?",
+    "a": "Depersonalization/derealization disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-0653",
+    "category": "Psychiatry",
+    "q": "A neurologic symptom is incompatible with recognized neurologic disease and is not intentionally produced. Which disorder is described?",
+    "a": "Functional neurologic symptom disorder, traditionally conversion disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-0654",
+    "category": "Psychiatry",
+    "q": "Fear of serious illness persists despite reassurance, with little or no prominent somatic symptom burden. Which disorder is described?",
+    "a": "Illness anxiety disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-0655",
+    "category": "Psychiatry",
+    "q": "What distinguishes factitious disorder from malingering in the PDF?",
+    "a": "Both involve intentional symptom production. Factitious disorder centers on presenting as ill, whereas malingering seeks an external benefit such as money, drugs or avoiding duties.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-0656",
+    "category": "Psychiatry",
+    "q": "A caregiver intentionally induces illness in someone in their care. What diagnosis and safeguarding issue are described?",
+    "a": "Factitious disorder imposed on another, a form of abuse requiring safeguarding action.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-0657",
+    "category": "Psychiatry",
+    "q": "Hypoglycemia occurs with low C-peptide after covert medication use. Which medication exposure is suggested?",
+    "a": "Exogenous insulin. Secretagogue use or insulinoma can instead raise C-peptide.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-0658",
+    "category": "Psychiatry",
+    "q": "Daytime sleep attacks occur with cataplexy, sleep paralysis and sleep-transition hallucinations. Which disorder is described?",
+    "a": "Narcolepsy, associated in a major subtype with orexin/hypocretin deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-0659",
+    "category": "Psychiatry",
+    "q": "Which sleep study does the PDF name to evaluate suspected sleep apnea?",
+    "a": "Polysomnography.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-0660",
+    "category": "Psychiatry",
+    "q": "How do nightmares differ from typical sleep terrors in the PDF?",
+    "a": "Nightmares occur during REM sleep and are often recalled. Sleep terrors arise from deep non-REM sleep and are typically poorly recalled.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-0661",
+    "category": "Psychiatry",
+    "q": "Hair pulling is followed by ingestion and an indigestible gastric mass. What behavior and complication are described?",
+    "a": "Trichotillomania with trichophagia leading to a trichobezoar.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-0662",
+    "category": "Psychiatry",
+    "q": "Excessive preoccupation with perceived appearance defects causes functional impairment. Which disorder is described?",
+    "a": "Body dysmorphic disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-0663",
+    "category": "Psychiatry",
+    "q": "Motor and vocal tics coexist over a chronic course. Which tic disorder is described?",
+    "a": "Tourette syndrome. Not every isolated transient tic implies Tourette syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-0664",
+    "category": "Psychiatry",
+    "q": "A child has imaginary friends at age4-6 with otherwise typical development. What does the PDF say?",
+    "a": "This can be normal developmental play, not by itself psychosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-0665",
+    "category": "Psychiatry",
+    "q": "What nonpunitive strategies does the PDF emphasize for childhood enuresis?",
+    "a": "Address stressors, use positive reinforcement, and consider an enuresis alarm. Punishment is not appropriate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2fm-0666",
+    "category": "Psychiatry",
+    "q": "Hallucinations, paranoia or thoughts of harming self or baby arise postpartum. What emergency does the PDF emphasize?",
+    "a": "Postpartum psychosis, requiring immediate psychiatric assessment and safety measures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2fm-0667",
+    "category": "Psychiatry",
+    "q": "Severe recurring mood symptoms occur in the luteal phase and impair functioning. What premenstrual disorder is described?",
+    "a": "Premenstrual dysphoric disorder. The source names SSRIs as a treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
     }
   }
 ];
