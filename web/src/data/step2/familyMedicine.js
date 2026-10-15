@@ -33725,7 +33725,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=148"
     },
     "guideline": {
-      "text": "CDC outbreak investigation distinguishes the intended synthetic opioid MPPP from the neurotoxic contaminant/byproduct MPTP. MPTP exposure caused severe parkinsonism; it is not simply another name for heroin.",
+      "text": "CDC outbreak investigation distinguishes the intended synthetic opioid preparation from the neurotoxic contaminant/byproduct MPTP. MPTP exposure caused severe parkinsonism; it is not simply another name for heroin.",
       "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000360.htm"
     }
   },
