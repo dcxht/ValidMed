@@ -12102,5 +12102,188 @@ export default [
       "text": "NCI patient PDQ confirms skull and other skeletal involvement and biopsy-based diagnosis. Merck head-CT caption describes a biopsy-proven LCH lesion with frontal-bone osseous destruction. The finding is compatible, not uniquely diagnostic.",
       "url": "https://www.merckmanuals.com/professional/multimedia/image/langerhans-cell-histiocytosis-head-ct"
     }
+  },
+  {
+    "id": "s2peds-0881",
+    "category": "Pediatric hematology",
+    "q": "What source LCH inclusion appears in this actual left-hand electron micrograph?",
+    "a": "Birbeck granules with the classic tennis-racquet profile: a narrow dense handle and a dilated end. The source contrasts these with a rod-shaped profile in the next image.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "NCI professional PDQ describes Birbeck granules in LCH cells and normal epidermal Langerhans cells. Their presence supports the phenotype, not malignancy by itself; modern confirmation uses tissue and CD1a or langerin correlation.",
+      "url": "https://www.cancer.gov/types/langerhans/hp/langerhans-treatment-pdq"
+    },
+    "img": "/mehlman/pediatrics/p062-birbeck-racquets.jpg"
+  },
+  {
+    "id": "s2peds-0882",
+    "category": "Pediatric hematology",
+    "q": "Does the rod-shaped inclusion in this actual source right-hand electron micrograph exclude LCH?",
+    "a": "No. The arrow highlights the source rod-shaped Birbeck-granule profile. Birbeck granules need not look like complete tennis racquets in every section.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "NCI PDQ supports Birbeck granules as an ultrastructural Langerhans-cell feature. The exact rod-versus-racquet comparison is the PDF image teaching point; diagnosis is not made from the silhouette alone.",
+      "url": "https://www.cancer.gov/types/langerhans/hp/langerhans-treatment-pdq"
+    },
+    "img": "/mehlman/pediatrics/p062-birbeck-rods.jpg"
+  },
+  {
+    "id": "s2peds-0883",
+    "category": "Pediatric hematology",
+    "q": "What inheritance pattern does the source assign to G6PD deficiency?",
+    "a": "X-linked recessive. Clinically important hemolysis is more common in males, but affected females are possible.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes homozygous females and heterozygous females with skewed X inactivation. CPIC 2023 notes that activity in heterozygotes cannot be predicted from genotype alone and may require an enzyme assay.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0884",
+    "category": "Pediatric hematology",
+    "q": "Which erythrocyte enzyme disorder does the source call the most common enzyme-deficiency cause of hemolysis?",
+    "a": "Glucose-6-phosphate dehydrogenase deficiency. Think of oxidant-triggered RBC injury rather than an intrinsically immune-mediated hemolysis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "Merck April 2026 identifies G6PD deficiency as the most common inherited disorder of RBC metabolism. Clinical severity varies, and some patients have chronic rather than only episodic hemolysis.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0885",
+    "category": "Pediatric hematology",
+    "q": "Which source clinical sequence should suggest G6PD-related hemolysis?",
+    "a": "A boy develops jaundice or scleral icterus after an acute infection or an oxidant drug exposure. The PDF example is a 12-year-old after a viral illness.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "Merck April 2026 supports viral or bacterial illness as common oxidative triggers. The age/sex pattern is suggestive, not diagnostic, and hemolysis has other causes.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0886",
+    "category": "Pediatric hematology",
+    "q": "Which triggers does the source ask you to recall for oxidative hemolysis in G6PD deficiency?",
+    "a": "Primaquine, dapsone, sulfa drugs and fava beans. These are the PDF recall list; actual drug risk is agent-, dose- and phenotype-specific rather than a blanket class prohibition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "CPIC 2023 differentiates high-, medium- and low-to-no-risk drugs. Dapsone is high risk; primaquine risk depends strongly on regimen. Sulfamethoxazole is rated low-to-no risk at standard doses, unlike the source broad sulfa shortcut.",
+      "url": "https://files.cpicpgx.org/data/guideline/publication/G6PD/2022/36049896.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0887",
+    "category": "Pediatric hematology",
+    "q": "How does the source broad sulfa-drug warning differ from the CPIC sulfamethoxazole assessment?",
+    "a": "The PDF lists sulfa drugs as oxidant triggers, while CPIC rates sulfamethoxazole low-to-no risk for G6PD-associated hemolysis at standard doses. Do not treat all sulfonamides as having identical evidence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "CPIC 2023 calls usual sulfamethoxazole use without regard to G6PD status an optional recommendation, acknowledging regulatory cautions. Higher doses, infection, other oxidative stress and chronic nonspherocytic hemolysis require added caution; this does not rule out non-G6PD drug reactions.",
+      "url": "https://files.cpicpgx.org/data/guideline/publication/G6PD/2022/36049896.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0888",
+    "category": "Pediatric hematology",
+    "q": "What bilirubin and enzyme changes does the source postviral G6PD vignette use as evidence of hemolysis?",
+    "a": "Increased unconjugated bilirubin and LDH. RBC breakdown releases intracellular LDH; the source uses high LDH as a hemolysis clue, not an isolated diagnostic proof.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "Merck April 2026 supports jaundice, anemia and reticulocytosis during G6PD hemolysis. The source LDH explanation should be interpreted with the whole hemolysis workup, because LDH is not specific to RBC destruction.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0889",
+    "category": "Pediatric hematology",
+    "q": "Why does impaired G6PD activity make RBCs vulnerable to oxidant injury?",
+    "a": "G6PD helps produce NADPH, which supports reducing defenses against oxidative damage to hemoglobin and the RBC membrane. Less reducing capacity makes oxidant stress harder to tolerate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "CPIC 2023 directly describes NADPH production and its role in protecting erythrocytes from infection-, drug- and fava-associated oxidative stress. The drug itself is not a substrate of G6PD.",
+      "url": "https://files.cpicpgx.org/data/guideline/publication/G6PD/2022/36049896.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0890",
+    "category": "Pediatric hematology",
+    "q": "What is a bite cell in the source G6PD discussion?",
+    "a": "An RBC with one or more bite-like peripheral defects, associated with oxidative hemoglobin injury and splenic removal of damaged material. It is a smear clue, not a unique marker of G6PD deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes bite and blister cells plus Heinz inclusions in oxidative hemolysis; the spleen removes altered cells, so these findings may be transient.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0891",
+    "category": "Pediatric hematology",
+    "q": "What are Heinz bodies in the source G6PD discussion?",
+    "a": "Aggregates of oxidized or denatured hemoglobin inside RBCs. They are not the same as the peripheral notch of a bite cell.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "Merck April 2026 says Heinz bodies require special stains for recognition. Their absence on an ordinary routine smear does not rule out G6PD-related oxidative injury.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0892",
+    "category": "Pediatric hematology",
+    "q": "What does the actual source bite-cell image ask you to identify?",
+    "a": "RBCs with peripheral notches, labeled bite cells by the PDF. Inspect the irregular cell margins rather than looking for a white-cell abnormality.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 62,
+      "url": "/mehlman/hy-pediatrics.pdf#page=62"
+    },
+    "guideline": {
+      "text": "Merck April 2026 supports bite morphology in G6PD oxidative injury but requires enzyme activity testing for confirmation. This actual source photo is not a Heinz-body special stain.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    },
+    "img": "/mehlman/pediatrics/p062-bite-cells.jpg"
   }
 ];
