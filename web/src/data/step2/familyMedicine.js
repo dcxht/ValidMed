@@ -4647,7 +4647,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=121"
     },
     "img": "/s2img/fm-121-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      121
+    ]
   },
   {
     "id": "s2fm-0398",
@@ -4751,7 +4754,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=123"
     },
     "img": "/s2img/fm-123-2.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      123
+    ]
   },
   {
     "id": "s2fm-0406",
@@ -5096,7 +5102,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=131"
     },
     "img": "/s2img/fm-131-1.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      131
+    ]
   },
   {
     "id": "s2fm-0433",
@@ -5120,7 +5129,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=132"
     },
     "img": "/s2img/fm-132-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      132
+    ]
   },
   {
     "id": "s2fm-0435",
@@ -5224,7 +5236,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=134"
     },
     "img": "/s2img/fm-134-3.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      134
+    ]
   },
   {
     "id": "s2fm-0443",
@@ -5237,7 +5252,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=135"
     },
     "img": "/s2img/fm-135-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      135
+    ]
   },
   {
     "id": "s2fm-0444",
@@ -5514,7 +5532,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 143,
       "url": "/mehlman/hy-family-medicine.pdf#page=143"
-    }
+    },
+    "sourcePages": [
+      143
+    ]
   },
   {
     "id": "s2fm-0467",
@@ -5646,7 +5667,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 145,
       "url": "/mehlman/hy-family-medicine.pdf#page=145"
-    }
+    },
+    "sourcePages": [
+      145
+    ]
   },
   {
     "id": "s2fm-0479",
@@ -5933,7 +5957,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 151,
       "url": "/mehlman/hy-family-medicine.pdf#page=151"
-    }
+    },
+    "sourcePages": [
+      151
+    ]
   },
   {
     "id": "s2fm-0504",
@@ -6650,7 +6677,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 158,
       "url": "/mehlman/hy-family-medicine.pdf#page=158"
-    }
+    },
+    "sourcePages": [
+      158
+    ]
   },
   {
     "id": "s2fm-0560",
@@ -6694,7 +6724,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 159,
       "url": "/mehlman/hy-family-medicine.pdf#page=159"
-    }
+    },
+    "sourcePages": [
+      159
+    ]
   },
   {
     "id": "s2fm-0564",
@@ -21244,7 +21277,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 121,
       "url": "/mehlman/hy-family-medicine.pdf#page=121"
-    }
+    },
+    "duplicateOf": "s2fm-0397"
   },
   {
     "id": "s2fm-1811",
@@ -21329,7 +21363,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 123,
       "url": "/mehlman/hy-family-medicine.pdf#page=123"
-    }
+    },
+    "duplicateOf": "s2fm-0405"
   },
   {
     "id": "s2fm-1818",
@@ -21517,7 +21552,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 131,
       "url": "/mehlman/hy-family-medicine.pdf#page=131"
-    }
+    },
+    "duplicateOf": "s2fm-0432"
   },
   {
     "id": "s2fm-1834",
@@ -21554,7 +21590,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 132,
       "url": "/mehlman/hy-family-medicine.pdf#page=132"
-    }
+    },
+    "duplicateOf": "s2fm-0434"
   },
   {
     "id": "s2fm-1837",
@@ -21664,7 +21701,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 134,
       "url": "/mehlman/hy-family-medicine.pdf#page=134"
-    }
+    },
+    "duplicateOf": "s2fm-0442"
   },
   {
     "id": "s2fm-1847",
@@ -21675,7 +21713,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 135,
       "url": "/mehlman/hy-family-medicine.pdf#page=135"
-    }
+    },
+    "duplicateOf": "s2fm-0443"
   },
   {
     "id": "s2fm-1848",
@@ -21937,7 +21976,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 143,
       "url": "/mehlman/hy-family-medicine.pdf#page=143"
-    }
+    },
+    "duplicateOf": "s2fm-0466"
   },
   {
     "id": "s2fm-1870",
@@ -22003,7 +22043,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 145,
       "url": "/mehlman/hy-family-medicine.pdf#page=145"
-    }
+    },
+    "duplicateOf": "s2fm-0478"
   },
   {
     "id": "s2fm-1876",
@@ -22069,7 +22110,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "duplicateOf": "s2fm-0484"
   },
   {
     "id": "s2fm-1882",
@@ -22317,7 +22359,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 151,
       "url": "/mehlman/hy-family-medicine.pdf#page=151"
-    }
+    },
+    "duplicateOf": "s2fm-0503"
   },
   {
     "id": "s2fm-1903",
@@ -22643,7 +22686,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 158,
       "url": "/mehlman/hy-family-medicine.pdf#page=158"
-    }
+    },
+    "duplicateOf": "s2fm-0559"
   },
   {
     "id": "s2fm-1930",
@@ -22676,7 +22720,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 159,
       "url": "/mehlman/hy-family-medicine.pdf#page=159"
-    }
+    },
+    "duplicateOf": "s2fm-0563"
   },
   {
     "id": "s2fm-1933",
@@ -37685,6 +37730,50 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 117,
       "url": "/mehlman/hy-family-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2fm-3117",
+    "category": "Final source-mapping details",
+    "q": "Which exposure does the PDF connect with arsenic risk when describing nail lines and keratoses?",
+    "a": "Fertilizers and gardening. This is the source exposure example, not a toxicology diagnosis from occupation alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2fm-3118",
+    "category": "Final source-mapping details",
+    "q": "Which source tests and acute-flare drug are named with dermatomyositis?",
+    "a": "Anti-Jo1 antibodies and electromyography/nerve-conduction studies, with steroids for flares. This is the PDF test list, not a complete modern subtype-specific diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    }
+  },
+  {
+    "id": "s2fm-3119",
+    "category": "Final source-mapping details",
+    "q": "What mechanism does the PDF give for low platelets in its Kasabach-Merritt example?",
+    "a": "Platelet sequestration within a large deforming vascular lesion. The source labels it infantile hemangioma; the separately verified lesion-type note remains important.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    }
+  },
+  {
+    "id": "s2fm-3120",
+    "category": "Final source-mapping details",
+    "q": "What absolute procedural restriction does the PDF give for varicose veins?",
+    "a": "It says do not choose surgery, favoring compression stockings in its exam framing. This is the source restriction, not a universal current treatment rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-family-medicine.pdf#page=139"
     }
   }
 ];
