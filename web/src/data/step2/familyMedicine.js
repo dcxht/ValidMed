@@ -23665,8 +23665,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=195"
     },
     "guideline": {
-      "text": "NEI AREDS evidence supports selected nutritional formulations for intermediate/late AMD, not routine supplements for early/no AMD. Selection and smoking-related beta-carotene risks matter. This note does not cover every newer geographic-atrophy therapy.",
-      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/aredsareds2-frequently-asked-questions"
+      "text": "FDA's 2023 approvals report lists intravitreal Syfovre (pegcetacoplan) and Izervay (avacincaptad pegol) for geographic atrophy secondary to AMD. Supportive-only is not a complete account of current options; eligibility and risks require specialist assessment.",
+      "url": "https://www.fda.gov/media/175253/download?attachment="
     }
   },
   {
@@ -27595,7 +27595,7 @@ export default [
     "id": "s2fm-2382",
     "category": "Toxicology exact-claim reconciliation",
     "q": "What electrolyte treatment does the PDF say may help an arrhythmia caused by digoxin toxicity?",
-    "a": "Magnesium, in its myocardium-stabilizing discussion.",
+    "a": "Magnesium, listed alongside its use for torsades.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 192,
@@ -27604,6 +27604,66 @@ export default [
     "guideline": {
       "text": "FDA DigiFab labeling specifically indicates digoxin immune Fab for life-threatening or potentially life-threatening digoxin toxicity, including severe arrhythmias and other defined high-risk findings. Magnesium is not a substitute for antidote assessment; potassium and clinical response require monitoring.",
       "url": "https://www.fda.gov/media/74693/download"
+    }
+  },
+  {
+    "id": "s2fm-2383",
+    "category": "Source diagnostic wording reconciliation",
+    "q": "Which strict thresholds and fasting/random wording does the PDF use to diagnose diabetes?",
+    "a": "Two fasting glucoses greater than 126 mg/dL, one \"random fasting\" glucose greater than 200 mg/dL, or HbA1c greater than 6.5%.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "NIDDK diagnostic guidance uses inclusive thresholds: fasting at least 126 mg/dL, HbA1c at least 6.5%, 2-hour OGTT at least 200 mg/dL. Random glucose at least 200 is used with symptoms and does not require fasting. A second test usually confirms diagnosis.",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis"
+    }
+  },
+  {
+    "id": "s2fm-2384",
+    "category": "Source diagnostic wording reconciliation",
+    "q": "What age/body-build pattern does the PDF emphasize for type 1 diabetes?",
+    "a": "Almost always a child or teenager with normal BMI.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "NIDDK guidance says type 1 diabetes is more common in children and young adults but can develop at any age. Age/body build alone cannot rule it out.",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes"
+    }
+  },
+  {
+    "id": "s2fm-2385",
+    "category": "Source diagnostic wording reconciliation",
+    "q": "Which timing and cognition assumptions are compressed into the PDF cerebral-palsy description?",
+    "a": "It links motor dysfunction and intellectual disability of varying severity to intrapartum conditions such as hypoxia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    },
+    "guideline": {
+      "text": "NINDS describes causes before, during or after birth, sometimes unknown. Intellectual disability is not universal; intelligence and language are usually normal in spastic diplegia, and intelligence is usually normal in spastic hemiplegia.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/cerebral-palsy"
+    }
+  },
+  {
+    "id": "s2fm-2386",
+    "category": "Source diagnostic wording reconciliation",
+    "q": "What dry/wet terminology does the PDF use for diabetic retinopathy?",
+    "a": "It calls it dry or wet (neovascular), with anti-VEGF for wet disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    },
+    "guideline": {
+      "text": "NEI patient guidance distinguishes nonproliferative from proliferative diabetic retinopathy; neovascularization defines the proliferative stage. Macular edema can occur at any stage. The older NEI booklet is used here for terminology only; current treatment details are separately described on NEI retinopathy guidance.",
+      "url": "https://www.nei.nih.gov/sites/default/files/health-pdfs/diabeticretino.pdf"
     }
   }
 ];
