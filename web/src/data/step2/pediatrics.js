@@ -11890,5 +11890,217 @@ export default [
       "text": "NCI describes endemic, sporadic and immunodeficiency-associated Burkitt. Pediatric NHL PDQ lists jaw, abdominal, head/neck, marrow and CNS sites; geography alone neither confirms nor excludes the tumor.",
       "url": "https://dceg.cancer.gov/about/organization/tdrp/iib/burkitt-lymphoma"
     }
+  },
+  {
+    "id": "s2peds-0867",
+    "category": "Pediatric hematology",
+    "q": "Which source Burkitt presentation is illustrated by this actual clinical photograph?",
+    "a": "A child with a striking jaw-region/facial mass, illustrating the source classic endemic Burkitt presentation. The photograph alone cannot establish the tumor type.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Merck August 2026 describes endemic disease presenting as jaw or facial-bone enlargement. Diagnosis requires tissue histology, immunophenotype and molecular correlation.",
+      "url": "https://www.merckmanuals.com/professional/oncology/lymphomas/burkitt-lymphoma"
+    },
+    "img": "/mehlman/pediatrics/p061-burkitt-jaw.jpg"
+  },
+  {
+    "id": "s2peds-0868",
+    "category": "Pediatric hematology",
+    "q": "What pattern appears in this actual source Burkitt histology?",
+    "a": "Starry sky: many dark basophilic malignant B cells form the background, with scattered pale macrophages creating the stars.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Merck August 2026 describes benign macrophages containing apoptotic malignant lymphocytes amid a high-turnover B-cell tumor. Morphology supports the diagnosis but is not a substitute for the full tissue workup.",
+      "url": "https://www.merckmanuals.com/professional/oncology/lymphomas/burkitt-lymphoma"
+    },
+    "img": "/mehlman/pediatrics/p061-burkitt-starry-sky.jpg"
+  },
+  {
+    "id": "s2peds-0869",
+    "category": "Pediatric hematology",
+    "q": "Which virus most commonly causes the source infectious-mononucleosis syndrome, and which alternative is listed?",
+    "a": "Epstein-Barr virus, EBV, most commonly; cytomegalovirus, CMV, can cause a similar mononucleosis syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "CDC lists CMV and several other infections as causes. Merck August 2026 notes that CMV can cause atypical lymphocytosis, splenomegaly and hepatitis but usually less severe pharyngitis than EBV.",
+      "url": "https://cdc.gov/epstein-barr/about/mononucleosis.html"
+    }
+  },
+  {
+    "id": "s2peds-0870",
+    "category": "Pediatric hematology",
+    "q": "Which cells does EBV infect, and which cells make up the atypical lymphocytes in classic mono?",
+    "a": "EBV infects B lymphocytes. The expanded reactive atypical lymphocytes are mainly CD8-positive T cells responding to infected B cells, not simply malignant B-cell blasts.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Merck August 2026 directly describes B-cell infection and mainly CD8 cytotoxic T-cell expansion controlling infection. Atypical lymphocytes are not unique to EBV.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/infectious-mononucleosis"
+    }
+  },
+  {
+    "id": "s2peds-0871",
+    "category": "Pediatric hematology",
+    "q": "Which age group and presentation make the source mono vignette resemble streptococcal pharyngitis?",
+    "a": "An adolescent or young adult with fever above 38°C, lymphadenopathy, tonsillar exudate and no cough. The source notes that this can be mistaken for strep throat.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Merck August 2026 describes clinically indistinguishable exudative pharyngitis, fever and anterior cervical nodes. Posterior/generalized nodes or hepatosplenomegaly favor mono; symptoms alone do not prove bacterial infection, and coinfection can occur.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/infectious-mononucleosis"
+    }
+  },
+  {
+    "id": "s2peds-0872",
+    "category": "Pediatric hematology",
+    "q": "What rash association does the source warn about when presumed strep throat is actually EBV mono?",
+    "a": "A rash after amoxicillin or another penicillin-class antibiotic. This association should trigger reconsideration of EBV, not automatic certainty of penicillin allergy or permission to ignore the reaction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "CDC advises against ampicillin/amoxicillin for mono. CCJM June 2025 describes a virus-associated delayed rash that may not be persistent allergy, while true drug hypersensitivity can also occur.",
+      "url": "https://www.ccjm.org/content/92/6/335"
+    }
+  },
+  {
+    "id": "s2peds-0873",
+    "category": "Pediatric hematology",
+    "q": "Can the source age shortcut prove that a beta-lactam rash in a preadolescent is allergy but an adolescent rash is EBV?",
+    "a": "No. The PDF gives that age-based shortcut, but age alone cannot classify a drug reaction or exclude EBV in a younger child. Assess the rash, timing and illness; pursue appropriate testing and allergy evaluation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "CCJM June 2025 discusses pediatric EBV-associated antibiotic rashes and possible persistent hypersensitivity. It advises against reflex allergy labeling but supports evaluation to distinguish causes. The PDF age split is not a safe diagnostic rule.",
+      "url": "https://www.ccjm.org/content/92/6/335"
+    }
+  },
+  {
+    "id": "s2peds-0874",
+    "category": "Pediatric hematology",
+    "q": "Which test does the source suggest after an adolescent with pharyngitis develops a beta-lactam rash?",
+    "a": "The source suggests a heterophile antibody test, Monospot, to investigate EBV mono. It is an exam answer to recognize, not a universally recommended EBV confirmation strategy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "CDC April 2024 does not recommend Monospot for general use: false results occur and heterophile antibodies are often absent in children. A positive test does not itself confirm EBV; specific EBV serology may be needed.",
+      "url": "https://www.cdc.gov/epstein-barr/php/laboratories/"
+    }
+  },
+  {
+    "id": "s2peds-0875",
+    "category": "Pediatric hematology",
+    "q": "How can EBV-specific serology support recent infection when the source Monospot approach is uncertain?",
+    "a": "Anti-VCA IgM with absent EBNA antibody supports primary recent EBV infection in the right clinical setting. Interpret the full pattern and illness timing, not a single positive past-infection antibody.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "CDC April 2024 says VCA IgM appears early and usually disappears in four to six weeks; EBNA generally appears two to four months after symptom onset. This is a separate verified testing comparison, not an extra claim from the PDF.",
+      "url": "https://www.cdc.gov/epstein-barr/php/laboratories/"
+    }
+  },
+  {
+    "id": "s2peds-0876",
+    "category": "Pediatric hematology",
+    "q": "How should the source claim of recurrent extreme fatigue at month-to-year intervals after mono be interpreted?",
+    "a": "Fatigue can persist after the acute illness, but recurrent fatigue months or years later should not automatically be diagnosed as recurrent EBV mono. The PDF interval pattern is a source claim, not a specific diagnostic test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "CDC describes usual recovery in two to four weeks, sometimes longer fatigue, and recommends considering other causes when illness persists beyond six months without confirmed EBV. Merck August 2026 distinguishes lifelong viral latency from symptomatic recurrent illness.",
+      "url": "https://www.cdc.gov/epstein-barr/php/laboratories/"
+    }
+  },
+  {
+    "id": "s2peds-0877",
+    "category": "Pediatric hematology",
+    "q": "What does the source Langerhans cell histiocytosis definition describe, and what is the modern qualification?",
+    "a": "The source describes excess Langerhans-type cells, related to the dendritic antigen-presenting cells of skin. Modern LCH is a clonal myeloid dendritic-cell disorder, not simply overgrowth of otherwise normal epidermal cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "NCI professional PDQ calls LCH a myeloid neoplasm and describes likely hematopoietic/myeloid precursor origin, distinct from normal epidermal Langerhans cells. It also notes variation in behavior and ongoing classification questions.",
+      "url": "https://www.cancer.gov/types/langerhans/hp/langerhans-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0878",
+    "category": "Pediatric hematology",
+    "q": "What antigen-presentation pathway does the source use to explain normal dendritic-cell function?",
+    "a": "Capture antigen in tissue, migrate to lymphoid tissue and present processed peptide to T cells, including MHC class II presentation to CD4 helper T cells. This is the source context for Langerhans-cell function.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Janeway Immunobiology 5th edition, 2001, describes dendritic uptake/migration, peptide-MHC presentation and costimulation. Dendritic cells also present class I antigen to CD8 cells; the source CD4 description is not their only function.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK10762/"
+    }
+  },
+  {
+    "id": "s2peds-0879",
+    "category": "Pediatric hematology",
+    "q": "Besides dendritic cells, which professional antigen-presenting cells does the source list?",
+    "a": "Macrophages and B cells. Macrophages also ingest and destroy pathogens, while activated B cells can become antibody-producing plasma cells. Sharing antigen-presentation does not make these distinct cell types dendritic cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Janeway 2001 explicitly calls dendritic cells, macrophages and B cells professional APCs and distinguishes their roles. The source additional-functions explanation is a teaching simplification, not the sole basis of lineage classification.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK10762/"
+    }
+  },
+  {
+    "id": "s2peds-0880",
+    "category": "Pediatric hematology",
+    "q": "Which bone finding does the source connect with Langerhans cell histiocytosis?",
+    "a": "Lytic bone lesions, classically involving the skull in the source vignette. Bone swelling or pain may prompt investigation, but a lytic skull lesion is not uniquely diagnostic of LCH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 61,
+      "url": "/mehlman/hy-pediatrics.pdf#page=61"
+    },
+    "guideline": {
+      "text": "NCI patient PDQ confirms skull and other skeletal involvement and biopsy-based diagnosis. Merck head-CT caption describes a biopsy-proven LCH lesion with frontal-bone osseous destruction. The finding is compatible, not uniquely diagnostic.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/image/langerhans-cell-histiocytosis-head-ct"
+    }
   }
 ];
