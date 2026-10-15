@@ -11494,6 +11494,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 248,
       "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "NIDDK describes suppression as probably pituitary and no suppression as possibly ectopic, with more than one test often needed. Treat the PDF pattern as a teaching shortcut.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome"
     }
   },
   {
@@ -11505,6 +11509,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 248,
       "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "NIDDK describes suppression as probably pituitary and no suppression as possibly ectopic, with more than one test often needed. Treat the PDF pattern as a teaching shortcut.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome"
     }
   },
   {
@@ -15798,13 +15806,17 @@ export default [
     "id": "s2fm-1263",
     "category": "Endocrine images",
     "q": "What limited nodule branch of the source thyroid-evaluation diagram is summarized?",
-    "a": "Palpated nodule: measure TSH; normal/high TSH prompts ultrasound assessment; low TSH prompts radionuclide assessment. The separate no-nodule universal rule is pending review.",
+    "a": "Palpated nodule: measure TSH; normal/high TSH prompts ultrasound assessment; low TSH prompts radionuclide assessment. The image also includes a separate no-nodule ultrasound-only shortcut; the linked note explains why that should not be generalized.",
     "img": "/s2img/fm-242-0.png",
     "alt": "Figure from the source PDF",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 242,
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "ATA hyperthyroidism guidance uses examination, hormone/antibody tests and selected ultrasound or nuclear-medicine imaging to establish the cause. It does not establish this PDF blanket no-nodule-ultrasound-only rule.",
+      "url": "https://www.thyroid.org/hyperthyroidism/"
     }
   },
   {
@@ -18300,7 +18312,11 @@ export default [
     "sourcePages": [
       46,
       275
-    ]
+    ],
+    "guideline": {
+      "text": "CDC: after a negative rapid strep test, obtain a backup throat culture in children older than 3 and start antibiotics if that culture is positive. Other ages do not routinely need a backup culture; adult guidance advises against antibiotics for a negative RADT. Clinical scores do not make every sore throat bacterial.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html"
+    }
   },
   {
     "id": "s2fm-1470",
@@ -28751,6 +28767,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 310,
       "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    },
+    "guideline": {
+      "text": "AASM 2025 strongly recommends gabapentin, gabapentin enacarbil and pregabalin for adults and suggests against standard pramipexole/ropinirole use because of long-term augmentation risk. Iron assessment includes ferritin and transferrin saturation, with RLS-specific thresholds.",
+      "url": "https://aasm.org/wp-content/uploads/2025/11/RLS-and-PLMD-Guideline-at-a-Glance-2025.pdf"
     }
   },
   {
@@ -31945,7 +31965,7 @@ export default [
     "id": "s2fm-2539",
     "category": "Final risk-factor detailed review",
     "q": "Can Felty syndrome include anemia or low platelets as well as neutropenia?",
-    "a": "Yes, the source notes these can accompany RA and splenomegaly, although neutropenia is central to its named triad. Neutropenia remains central to its triad.",
+    "a": "Yes, the source notes these can accompany RA and splenomegaly, although neutropenia is central to its named triad.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 306,
@@ -39682,6 +39702,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 101,
       "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "USPSTF 2024 final recommendation, replacing the older age 50 start. High-risk genetic/personal-history groups need separate guidance.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening"
     }
   },
   {
@@ -40267,7 +40291,11 @@ export default [
     "sourcePages": [
       169,
       191
-    ]
+    ],
+    "guideline": {
+      "text": "DailyMed labeling warns of seizures, especially benzodiazepine dependence/withdrawal and serious cyclic-antidepressant or mixed overdose. Flumazenil is not a universal safe overdose antidote.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a72d9fc1-121c-455d-93a9-002378c9968f"
+    }
   },
   {
     "id": "s2fm-3167",
@@ -40828,6 +40856,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 192,
       "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    },
+    "guideline": {
+      "text": "AES 2016 lists fosphenytoin, valproate or levetiracetam as reasonable second-phase options, with no clear superiority; further refractory therapy requires monitored specialist treatment.",
+      "url": "https://aesnet.org/clinical-care/clinical-guidance/guideline-prolonged-seizures"
     }
   },
   {
@@ -42158,6 +42190,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 248,
       "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "NIDDK describes suppression as probably pituitary and no suppression as possibly ectopic, with more than one test often needed. Treat the PDF pattern as a teaching shortcut.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome"
     }
   },
   {
@@ -42711,6 +42747,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 274,
       "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "Merck uses clinical findings, muscle enzymes, antibody testing and selected EMG/MRI/biopsy. EMG/MRI may localize a biopsy site; characteristic dermatomyositis skin disease may not require muscle biopsy. A rigid identical test sequence is not universal.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies"
     }
   },
   {
@@ -42722,6 +42762,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 274,
       "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "NICE CG111 recommends rewarding agreed behaviors, not dry nights, and often offers an alarm after basic advice/rewards. Desmopressin can be appropriate for selected children when rapid improvement matters or an alarm is unsuitable; medication-specific fluid-safety instructions are essential. It is not an always-wrong option.",
+      "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
     }
   },
   {
@@ -42733,6 +42777,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 275,
       "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "CDC: after a negative rapid strep test, obtain a backup throat culture in children older than 3 and start antibiotics if that culture is positive. Other ages do not routinely need a backup culture; adult guidance advises against antibiotics for a negative RADT. Clinical scores do not make every sore throat bacterial.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html"
     }
   },
   {
