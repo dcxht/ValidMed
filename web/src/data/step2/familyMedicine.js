@@ -25707,6 +25707,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 206,
       "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    },
+    "guideline": {
+      "text": "MedlinePlus MERRF description says features vary widely even within a family, with myoclonus, muscle weakness, seizures and ataxia among manifestations; hearing loss and optic atrophy can occur. This does not establish the PDF broad mitochondrial triad as a universal diagnostic requirement.",
+      "url": "https://medlineplus.gov/genetics/condition/myoclonic-epilepsy-with-ragged-red-fibers/"
     }
   },
   {
@@ -40863,6 +40867,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 206,
       "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    },
+    "guideline": {
+      "text": "MedlinePlus names MELAS mitochondrial encephalomyopathy, lactic acidosis and stroke-like episodes. Its description includes variable neurological and muscle manifestations and states symptoms can begin at any age. MERRF has widely variable features even within a family; neither label requires the same eye/ear, hypotonia and lactate triad in every person.",
+      "url": "https://medlineplus.gov/genetics/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes/"
     }
   },
   {
@@ -41779,6 +41787,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 230,
       "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    },
+    "guideline": {
+      "text": "NCI Ewing PDQ describes evidence for a primordial bone-marrow-derived mesenchymal stem cell and explains that older peripheral primitive neuroectodermal tumor terminology refers to Ewing sarcoma. Small round blue cell appearance is a morphologic clue, not proof of a universal neuroendocrine origin; molecular classification distinguishes several Ewing-like sarcomas.",
+      "url": "https://www.cancer.gov/types/bone/hp/ewing-treatment-pdq"
     }
   },
   {

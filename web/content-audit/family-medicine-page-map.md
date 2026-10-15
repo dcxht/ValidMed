@@ -206,7 +206,7 @@ All source locations after semantic consolidation. This is a locator index, not 
 | 203 | s2fm-0728, s2fm-0729, s2fm-1225, s2fm-1226, s2fm-2388, s2fm-2389, s2fm-3221 | 2 | 4 |
 | 204 | s2fm-0730, s2fm-0731, s2fm-1227, s2fm-1228, s2fm-1229, s2fm-2074, s2fm-2075, s2fm-2390, s2fm-2956, s2fm-3222, s2fm-3223 | 3 | 1 |
 | 205 | s2fm-0732, s2fm-0733, s2fm-0734, s2fm-1230, s2fm-1231, s2fm-2076, s2fm-2391, s2fm-3224, s2fm-3225 | 2 | 1 |
-| 206 | s2fm-0156, s2fm-0734, s2fm-0735, s2fm-1232, s2fm-1233, s2fm-2077, s2fm-2078, s2fm-2392, s2fm-2393, s2fm-2394, s2fm-3226, s2fm-3227 | 2 | 3 |
+| 206 | s2fm-0156, s2fm-0734, s2fm-0735, s2fm-1232, s2fm-1233, s2fm-2077, s2fm-2078, s2fm-2392, s2fm-2393, s2fm-2394, s2fm-3226, s2fm-3227 | 2 | 5 |
 | 207 | s2fm-0737, s2fm-0738, s2fm-0739, s2fm-1234, s2fm-2079, s2fm-2080, s2fm-2081, s2fm-2082, s2fm-2952, s2fm-2953, s2fm-2954, s2fm-2955, s2fm-2957, s2fm-3228, s2fm-3229, s2fm-3230, s2fm-3231 | 1 | 4 |
 | 208 | s2fm-0740, s2fm-2083, s2fm-3232 | 0 | 2 |
 | 209 | s2fm-0741, s2fm-0742, s2fm-0743, s2fm-0744, s2fm-0745, s2fm-2085, s2fm-2086, s2fm-2087, s2fm-2443, s2fm-2445, s2fm-2958, s2fm-2959, s2fm-2960, s2fm-3233, s2fm-3234, s2fm-3235 | 0 | 2 |
@@ -230,7 +230,7 @@ All source locations after semantic consolidation. This is a locator index, not 
 | 227 | s2fm-0354, s2fm-0810, s2fm-0811, s2fm-0812, s2fm-2135, s2fm-2136, s2fm-2137, s2fm-2139, s2fm-2452, s2fm-2453, s2fm-2454, s2fm-2455, s2fm-2987, s2fm-2988, s2fm-2989, s2fm-3260, s2fm-3261, s2fm-3262, s2fm-3263, s2fm-3264, s2fm-3265 | 0 | 7 |
 | 228 | s2fm-0813, s2fm-0814, s2fm-0815, s2fm-0816, s2fm-0817, s2fm-2140, s2fm-2141, s2fm-2142, s2fm-2143, s2fm-2990, s2fm-2991, s2fm-2992, s2fm-3266, s2fm-3267, s2fm-3268, s2fm-3269, s2fm-3270, s2fm-3297 | 0 | 5 |
 | 229 | s2fm-0818, s2fm-0819, s2fm-0820, s2fm-1258, s2fm-2144, s2fm-2145, s2fm-2146, s2fm-2147, s2fm-2974, s2fm-2993, s2fm-3271, s2fm-3298 | 1 | 1 |
-| 230 | s2fm-0821, s2fm-0822, s2fm-0823, s2fm-0824, s2fm-1259, s2fm-2148, s2fm-2149, s2fm-2150, s2fm-2151, s2fm-2994, s2fm-2995, s2fm-3272, s2fm-3299 | 1 | 0 |
+| 230 | s2fm-0821, s2fm-0822, s2fm-0823, s2fm-0824, s2fm-1259, s2fm-2148, s2fm-2149, s2fm-2150, s2fm-2151, s2fm-2994, s2fm-2995, s2fm-3272, s2fm-3299 | 1 | 1 |
 | 231 | s2fm-0825, s2fm-0826, s2fm-1260, s2fm-2152, s2fm-2153, s2fm-2154, s2fm-2155, s2fm-2996, s2fm-3273 | 1 | 1 |
 | 232 | s2fm-0827, s2fm-0828, s2fm-1261, s2fm-2026, s2fm-2156, s2fm-2157, s2fm-2158, s2fm-2159, s2fm-2997, s2fm-2999, s2fm-3000, s2fm-3001, s2fm-3118, s2fm-3274, s2fm-3275 | 1 | 6 |
 | 233 | s2fm-0829, s2fm-0830, s2fm-0831, s2fm-0832, s2fm-1262, s2fm-2161, s2fm-2162, s2fm-2457, s2fm-2458, s2fm-2998, s2fm-3002, s2fm-3276, s2fm-3277, s2fm-3278, s2fm-3279 | 1 | 3 |
