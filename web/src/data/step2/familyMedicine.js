@@ -36649,5 +36649,65 @@ export default [
       "text": "ACR2021 favors methotrexate for DMARD-naive moderate/high disease activity, but conditionally favors hydroxychloroquine over other conventional DMARDs for low disease activity. Contraindications, prognosis and preferences matter; always is too broad.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273041/"
     }
+  },
+  {
+    "id": "s2fm-3074",
+    "category": "Rapid-bullet finer review",
+    "q": "What later-neurologic-risk claim does the PDF make after its restless-legs iron assessment?",
+    "a": "It says the patient is otherwise at risk of developing Parkinson disease later.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    },
+    "guideline": {
+      "text": "NINDS states a diagnosis of RLS does not indicate the onset of another neurological disease such as Parkinson disease. Parkinson disease can coexist with RLS, but RLS is not a stand-alone prediction that Parkinson disease is beginning.",
+      "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/restless-legs-syndrome.pdf"
+    }
+  },
+  {
+    "id": "s2fm-3075",
+    "category": "Final-page finer reconciliation",
+    "q": "What biopsy rule does the PDF give for a new simple breast cyst after menopausal hormone therapy?",
+    "a": "Biopsy the cyst, because the source connects HRT with breast-cancer risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-family-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "Mayo Clinic describes no treatment for an asymptomatic imaging-confirmed simple cyst. Bloody aspirate, a persistent lump, a solid component or other concerning findings change evaluation. HRT exposure alone does not convert every clearly simple cyst into a mandatory biopsy.",
+      "url": "https://www.mayoclinic.org/diseases-conditions/breast-cysts/diagnosis-treatment/drc-20370290"
+    }
+  },
+  {
+    "id": "s2fm-3076",
+    "category": "Final-page finer reconciliation",
+    "q": "What household product does the PDF put in parentheses after naphthylamine in bladder-cancer risks?",
+    "a": "Mothballs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-family-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "The NTP Report on Carcinogens identifies 2-naphthylamine as an occupational aromatic-amine bladder carcinogen formerly used in dye/rubber manufacture. EPA separately describes naphthalene moth repellents. Naphthylamine and naphthalene are different chemicals; the source parenthetical conflates them.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK590768/"
+    }
+  },
+  {
+    "id": "s2fm-3077",
+    "category": "Final-page finer reconciliation",
+    "q": "What antibodies does the PDF pair together for small-cell-associated cerebellar dysfunction?",
+    "a": "Anti-Hu and anti-Yo.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    },
+    "guideline": {
+      "text": "Merck Professional describes anti-Yo cerebellar degeneration especially with breast/ovarian cancer and anti-Hu syndromes with lung cancer. These antibody/tumor associations are not interchangeable or perfectly exclusive; the source pair should not imply identical typical cancer associations.",
+      "url": "https://www.merckmanuals.com/professional/oncology/overview-of-cancer/paraneoplastic-syndromes"
+    }
   }
 ];
