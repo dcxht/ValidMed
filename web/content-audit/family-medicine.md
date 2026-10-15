@@ -116,3 +116,5 @@ Endocrine precise pass2471/230figures/339notes; Partial.
 Adrenal/tumor precise pass2475/230figures/343notes; Partial.
 
 Diabetes precise pass2479/230figures/347notes; Partial.
+
+Rapid MSK/child-injury pass2485/230figures/354notes; Partial.

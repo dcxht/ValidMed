@@ -23256,6 +23256,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 181,
       "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "AAP 2025 says no fracture is pathognomonic for abuse and no pattern can exclude it. History, developmental abilities, injury mechanism, fracture location/age and associated injuries require full assessment.",
+      "url": "https://publications.aap.org/pediatrics/article/155/2/e2024070074/200638/Evaluating-Young-Children-With-Fractures-for-Child"
     }
   },
   {
@@ -29114,6 +29118,96 @@ export default [
     "guideline": {
       "text": "FDA GLUMETZA August 2026 label describes elevated lactate, anion-gap acidosis and the clinical/risk setting. Low bicarbonate alone neither proves lactate accumulation nor establishes metformin as the cause. Suspected metformin-associated lactic acidosis requires urgent hospital care.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2480",
+    "category": "Rapid-bullet exact-source review",
+    "q": "Which joint movement does the rapid-bullet PDF use to provoke tennis elbow?",
+    "a": "Resisted elbow extension causing lateral forearm pain; its earlier narrative uses wrist extension.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "AAOS describes lateral epicondylitis involving the wrist/finger extensors, commonly ECRB, and examination that resists straightening the wrist/fingers. The rapid elbow-extension wording differs from the source narrative and standard wrist-provocation description.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/tennis-elbow-lateral-epicondylitis/"
+    }
+  },
+  {
+    "id": "s2fm-2481",
+    "category": "Rapid-bullet exact-source review",
+    "q": "Which joint movement does the rapid-bullet PDF use to provoke golfer elbow?",
+    "a": "Resisted elbow flexion causing medial forearm pain; its earlier narrative uses wrist flexion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "AAOS describes medial epicondylitis involving wrist flexor/pronator tendons. The rapid elbow-flexion wording should not replace wrist/forearm tendon assessment.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/medial-epicondylitis-golfers-elbow/"
+    }
+  },
+  {
+    "id": "s2fm-2482",
+    "category": "Rapid-bullet exact-source review",
+    "q": "What immediate treatment does the rapid-bullet PDF give for a painless dorsal ganglion?",
+    "a": "Needle drainage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "AAOS supports observation of a painless asymptomatic ganglion because it may disappear. Aspiration is considered for substantial pain/activity limitation and can recur; a painless cyst does not mandate drainage.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/ganglion-cyst-of-the-wrist-and-hand"
+    }
+  },
+  {
+    "id": "s2fm-2483",
+    "category": "Rapid-bullet exact-source review",
+    "q": "What immediate treatment does the rapid-bullet PDF give for de Quervain wrist pain in a breastfeeding patient?",
+    "a": "Steroid injection into the wrist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "AAOS lists splinting, activity changes, anti-inflammatory care and corticosteroid injection as nonsurgical options. Injection can be effective but is not a mandatory immediate response to every radial-wrist pain presentation.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/de-quervains-tendinosis/"
+    }
+  },
+  {
+    "id": "s2fm-2484",
+    "category": "Rapid-bullet exact-source review",
+    "q": "What diagnosis does the rapid-bullet PDF assign to a child with hip pain after a viral illness, even with possible fever?",
+    "a": "Transient/toxic synovitis, with supportive treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-family-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "Queensland pediatric emergency guidance treats severe localized joint pain with fever as concerning for septic arthritis and calls for age/history/exam-based red-flag assessment. A recent viral illness alone cannot exclude joint infection.",
+      "url": "https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/limp"
+    }
+  },
+  {
+    "id": "s2fm-2485",
+    "category": "Child injury source review",
+    "q": "What diagnostic certainty does the PDF assign to a spiral fracture in its child-abuse discussion?",
+    "a": "It calls the spiral-fracture pattern pathognomonic for child abuse.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    },
+    "guideline": {
+      "text": "AAP 2025 states no specific fracture is pathognomonic for abuse. Spiral injuries can occur unintentionally; age, mobility, history, mechanism, other injuries and full safeguarding assessment determine concern. A low-specificity pattern also cannot exclude abuse.",
+      "url": "https://publications.aap.org/pediatrics/article/155/2/e2024070074/200638/Evaluating-Young-Children-With-Fractures-for-Child"
     }
   }
 ];
