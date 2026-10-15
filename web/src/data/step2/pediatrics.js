@@ -12452,5 +12452,336 @@ export default [
       "text": "ATSDR describes hypochromic anemia that may be normocytic or microcytic and notes that frank anemia is not an early manifestation. Normal hemoglobin or MCV does not exclude lead exposure.",
       "url": "https://archive.cdc.gov/www_atsdr_cdc_gov/csem/leadtoxicity/physiological_effects.html"
     }
+  },
+  {
+    "id": "s2peds-0904",
+    "category": "Pediatric hematology",
+    "q": "Which source smear finding is illustrated by these actual RBCs in the lead-poisoning discussion?",
+    "a": "Basophilic stippling: blue-purple granules scattered within some RBCs. This is a clue to lead toxicity in the right setting, not a stand-alone diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck April 2025 describes basophilic stippling with lead-associated anemia but emphasizes limited sensitivity and specificity. Confirm exposure using a blood lead level, not the image alone.",
+      "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/lead-poisoning"
+    },
+    "img": "/mehlman/pediatrics/p064-basophilic-stippling.jpg"
+  },
+  {
+    "id": "s2peds-0905",
+    "category": "Pediatric hematology",
+    "q": "What is the material in basophilic stippling, according to the source?",
+    "a": "Aggregated ribosomal material, including precipitated ribosomal RNA, within RBCs. This differs from the denatured hemoglobin in Heinz bodies and iron in Pappenheimer bodies.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The StatPearls histology review describes ribosomes and ribosomal-RNA fragments and notes that stippling can also occur in hemoglobinopathies, nutritional deficiency and myelodysplasia.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK545259/"
+    }
+  },
+  {
+    "id": "s2peds-0906",
+    "category": "Pediatric hematology",
+    "q": "Which lead chelators does the source list, and why are they not interchangeable choices for every child?",
+    "a": "Succimer, calcium disodium EDTA and dimercaprol. Selection depends on confirmed lead burden and symptoms; remove the exposure and obtain expert guidance rather than treating an isolated smear finding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "CDC August 2025 calls for toxicology or experienced pediatric consultation at venous BLL at least 45 micrograms/dL. Merck April 2025 distinguishes oral succimer in patients without encephalopathy from dimercaprol plus calcium disodium EDTA for encephalopathy. Plain disodium EDTA is not the calcium disodium formulation.",
+      "url": "https://www.cdc.gov/lead-prevention/hcp/clinical-guidance/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0907",
+    "category": "Pediatric hematology",
+    "q": "What enzyme deficiency causes the source acute intermittent porphyria diagnosis?",
+    "a": "Porphobilinogen deaminase deficiency, also called hydroxymethylbilane synthase deficiency. AIP is a neurovisceral porphyria rather than the classic blistering cutaneous presentation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck, updated March 2026, identifies PBG deaminase/HMBS in AIP. Enzyme measurements alone have overlap and exceptions; biochemical and genetic testing establish the diagnosis.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/the-porphyrias/acute-porphyrias"
+    }
+  },
+  {
+    "id": "s2peds-0908",
+    "category": "Pediatric hematology",
+    "q": "Which heme precursors accumulate in acute intermittent porphyria?",
+    "a": "Porphobilinogen and delta-aminolevulinic acid. The source uses this pattern to connect the enzyme defect to an acute neurovisceral syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes elevated urinary PBG and ALA during attacks, interpreted relative to urine creatinine. Isolated elevation of ALA with little PBG suggests a different process, including lead toxicity.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/the-porphyrias/acute-porphyrias"
+    }
+  },
+  {
+    "id": "s2peds-0909",
+    "category": "Pediatric hematology",
+    "q": "Which source symptom pair should suggest acute intermittent porphyria?",
+    "a": "Abdominal pain with red, pink or port-wine-colored urine. These are source clues, not enough to diagnose AIP without biochemical confirmation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes red or reddish-brown urine and recommends urine PBG/creatinine and ALA testing during a compatible attack. Other causes of abdominal pain and urine discoloration still matter.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/the-porphyrias/acute-porphyrias"
+    }
+  },
+  {
+    "id": "s2peds-0910",
+    "category": "Pediatric hematology",
+    "q": "Must every source AIP vignette include neurologic findings?",
+    "a": "No. Neurologic or psychiatric features may accompany abdominal pain but are not required in every presentation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes variable peripheral, central and autonomic involvement. The absence of a dramatic neuropathy does not exclude an acute porphyric attack.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/the-porphyrias/acute-porphyrias"
+    }
+  },
+  {
+    "id": "s2peds-0911",
+    "category": "Pediatric hematology",
+    "q": "What acute AIP treatment does the source name, and what severity distinction matters?",
+    "a": "Hematin and glucose. For a severe attack, IV heme is the urgent disease-directed treatment; glucose alone must not delay it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck March 2026 states that IV heme is more effective than dextrose and should be given immediately for severe attacks, electrolyte imbalance or muscle weakness. Fluid and electrolyte monitoring is part of care.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/the-porphyrias/acute-porphyrias"
+    }
+  },
+  {
+    "id": "s2peds-0912",
+    "category": "Pediatric hematology",
+    "q": "What enzyme deficiency and urinary product does the source associate with porphyria cutanea tarda?",
+    "a": "Reduced uroporphyrinogen decarboxylase activity and increased urinary uroporphyrins. PCT may be acquired or inherited.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck April 2025 supports hepatic UROD deficiency and increased urinary uroporphyrin and heptacarboxyl porphyrin. PBG is normal in PCT, unlike the marked attack-associated PBG elevation in AIP.",
+      "url": "https://www.merckmanuals.com/professional/hematology/the-porphyrias/porphyria-cutanea-tarda"
+    }
+  },
+  {
+    "id": "s2peds-0913",
+    "category": "Pediatric hematology",
+    "q": "Which source porphyria presentation emphasizes photosensitivity and skin blistering?",
+    "a": "Porphyria cutanea tarda, especially fragile, blistering skin on sun-exposed areas. Do not confuse this with the source AIP abdominal-pain pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck April 2025 supports this PCT pattern but also notes that other cutaneous porphyrias can resemble it. Porphyrin testing, not appearance alone, distinguishes them.",
+      "url": "https://www.merckmanuals.com/professional/hematology/the-porphyrias/porphyria-cutanea-tarda"
+    }
+  },
+  {
+    "id": "s2peds-0914",
+    "category": "Pediatric hematology",
+    "q": "How does the source contrast PCT and AIP urine color, and how much weight should that carry?",
+    "a": "The PDF calls PCT urine tea-colored or dark and AIP urine red, pink or port-wine-colored. Treat that contrast as a memory aid, not a reliable diagnostic color test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck supports urinary porphyrin profiling for PCT and PBG/ALA testing for acute neurovisceral symptoms. The selected PCT review does not independently establish a tea-versus-port-wine color boundary.",
+      "url": "https://www.merckmanuals.com/professional/hematology/the-porphyrias/porphyria-cutanea-tarda"
+    }
+  },
+  {
+    "id": "s2peds-0915",
+    "category": "Neonatology",
+    "q": "What Rh-positive/Rh-negative proportions does the source quote, and are those universal?",
+    "a": "About 85% Rh-positive and 15% Rh-negative. These are the PDF approximate figures, not a universal prevalence across populations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The 2025 HDFN review notes ethnic variation in Rh-negative prevalence. For an individual pregnancy, determine actual maternal and fetal or paternal antigen status rather than inferring it from population averages.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-0916",
+    "category": "Neonatology",
+    "q": "What does Rh isoimmunization mean in the source?",
+    "a": "Maternal sensitization to the Rh antigen, with anti-Rh antibodies that can include placenta-crossing IgG. For RhD disease, an RhD-negative mother has encountered RhD-positive RBCs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The 2025 HDFN review describes alloimmunization after fetal or transfused RBC-antigen exposure. Antibody specificity matters; not every positive maternal antibody screen is immune anti-D.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-0917",
+    "category": "Neonatology",
+    "q": "How does the source explain Rh hemolytic disease in a later pregnancy?",
+    "a": "An Rh-negative mother is exposed to Rh-positive fetal blood and becomes sensitized. In a later Rh-positive pregnancy, maternal anti-D IgG crosses the placenta and destroys fetal RBCs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The 2025 HDFN review supports this classic sequence but also lists transfusion and other prior sensitizing events. First-versus-second pregnancy is a teaching pattern, not proof of whether sensitization already exists.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-0918",
+    "category": "Neonatology",
+    "q": "When should initial Rh(D) typing and antibody screening occur under the USPSTF recommendation?",
+    "a": "At the first pregnancy-related care visit for every pregnant patient. USPSTF 2004: Grade A. Do not delay testing solely to reach a fixed gestational week.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The latest final USPSTF Rh(D) screening statement displayed on its recommendation page is dated February 15, 2004. The PDF gives an 8-10-week first-antenatal-visit example; the USPSTF criterion is the first visit.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/rh-d-incompatibility-screening"
+    }
+  },
+  {
+    "id": "s2peds-0919",
+    "category": "Neonatology",
+    "q": "Who should have repeat Rh(D) antibody screening, and when, under USPSTF?",
+    "a": "Unsensitized Rh(D)-negative pregnant patients at 24-28 weeks, unless the biological father is known to be Rh(D)-negative. USPSTF 2004: Grade B.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "This is the latest final USPSTF statement displayed for Rh(D) screening. Antibody screening identifies sensitization; prophylaxis is for patients who are not already sensitized.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/rh-d-incompatibility-screening"
+    }
+  },
+  {
+    "id": "s2peds-0920",
+    "category": "Neonatology",
+    "q": "What routine anti-D immune-globulin timing does the source give for an unsensitized Rh-negative pregnancy?",
+    "a": "Around 28 weeks and after delivery when the infant is Rh-positive or the status warrants prophylaxis. The postpartum dose should be given within 72 hours, not simply at an unspecified later visit.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "USPSTF 2004 clinical considerations specify a full dose after repeat testing at 24-28 weeks and postpartum within 72 hours for an Rh(D)-positive or weakly positive infant. The A and B grades apply to the screening recommendations, not separate prophylaxis grades.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/rh-d-incompatibility-screening"
+    }
+  },
+  {
+    "id": "s2peds-0921",
+    "category": "Neonatology",
+    "q": "Which potentially sensitizing events does the source list besides routine delivery?",
+    "a": "Amniocentesis, spontaneous abortion and abruptio placentae, reflecting possible mixing of fetal and maternal blood. The PDF broad list must be interpreted with gestational age and current guidance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck April 2024 supports invasive procedures and significant fetomaternal bleeding as prophylaxis settings. Recommendations for pregnancy loss before 12 weeks differ from the blanket source rule and are addressed separately.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/hemolytic-disease-of-the-fetus-and-neonate"
+    }
+  },
+  {
+    "id": "s2peds-0922",
+    "category": "Neonatology",
+    "q": "How does newer ACOG guidance differ from the source blanket anti-D rule after early pregnancy loss?",
+    "a": "The PDF recommends anti-D after spontaneous abortion without a gestational-age qualifier. ACOG 2024 suggests forgoing routine Rh testing and RhIg for abortion or pregnancy loss before 12 weeks, with individual shared decision-making.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The ACOG update supplemental table states this explicitly and shows SMFM taking a more cautious offer-testing/prophylaxis position when feasible. The USPSTF 2004 clinical considerations retain an older abortion-prophylaxis approach; its screening grades are not a new 2024 abortion recommendation. These sources are kept distinct.",
+      "url": "https://cdn-links.lww.com/permalink/aog/d/aog_144_6_2024_08_26_cpggynecology_24-1499_sdc1.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0923",
+    "category": "Neonatology",
+    "q": "Why is Rh immune globulin not the treatment for established maternal anti-D sensitization?",
+    "a": "It prevents sensitization; it does not remove an established immune anti-D response. The source says not to give it as the solution once true anti-D sensitization is already present.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck describes prophylaxis for patients with no known prior sensitization and antibody-based fetal surveillance when alloimmunization exists. A positive screen needs antibody identification; do not equate any detected antibody with established immune anti-D.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/hemolytic-disease-of-the-fetus-and-neonate"
+    }
+  },
+  {
+    "id": "s2peds-0924",
+    "category": "Neonatology",
+    "q": "When does the source use a Kleihauer-Betke test in an Rh-negative pregnant patient?",
+    "a": "When fetomaternal hemorrhage or mixing is suspected. Maternal blood is tested to estimate the fetal RBC burden and help assess whether additional Rh immune globulin is needed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck describes a qualitative rosette screen followed by quantitative Kleihauer-Betke testing or flow cytometry when indicated. This measures hemorrhage; it is not a maternal anti-D antibody-titer test.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/hemolytic-disease-of-the-fetus-and-neonate"
+    }
+  },
+  {
+    "id": "s2peds-0925",
+    "category": "Neonatology",
+    "q": "What property does the Kleihauer-Betke test exploit to distinguish fetal RBCs in maternal blood?",
+    "a": "Fetal hemoglobin resists acid elution better than adult hemoglobin. HbF-containing cells remain identifiable after acid treatment of the maternal blood smear.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 64,
+      "url": "/mehlman/hy-pediatrics.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The 2025 HDFN review explains the acid-elution method and its role in estimating fetal-cell percentage for immune-globulin dose adjustment. Interpret the test in context rather than as a direct fetal blood type.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
   }
 ];
