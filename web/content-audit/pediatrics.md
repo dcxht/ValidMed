@@ -1,6 +1,6 @@
 # Pediatrics conversion ledger
 
-October 15, 2026. Partial:154 active cards/10 actual source figures/43 separately sourced comparisons. First pass clinical pp4-17; pp18-203 and full second source-detail/clinical/product acceptance remain.
+October 15, 2026. Partial:222 active cards/15 actual source figures/68 separately sourced comparisons. First pass clinical pp4-23; pp24-203 and full second source-detail/clinical/product acceptance remain.
 
 ## Source-page map
 
@@ -24,7 +24,7 @@ AHA PFOvsASD; MerckASD wide fixedsplit/volumeoverload, pediatricAS balloon/repai
 
 ## Product checkpoint
 
-Initial63-card checkpoint7d77292 is published and live verified. The154-card checkpoint is locally built and verified, awaiting publication. Resources list now links already-present rotation banks instead of staleComingnext labels; no nonbank routes or progress keys removed.
+Initial63-card checkpoint7d77292 is published and live verified. The154-card checkpoint445db41 is published and live verified. Resources list now links already-present rotation banks instead of staleComingnext labels; no nonbank routes or progress keys removed.
 
 05:23 initial checkpoint: all5 actual source figures rendered at390x844, all8comparison cards at320x568.26top/bottom screenshots pixel-inspected in five contact sheets, with an additional native long-note view. No horizontal overflow, broken images or offscreen controls. Resources390full-page screenshot inspected; all four published bank links route to the correct question view and leave other routes/progress intact. Build/schema/FM-retirement/Psych/Neuro/Peds regression tests pass. Initial publication7d77292 verified on live390mobile at05:25, assets/index-B0ZHoeL9.js. Screenshot102459 shows all4bank counts;102518 shows actual Pediatrics63questions and102520 corrected resource links.
 
@@ -45,3 +45,24 @@ Verified comparisons: GINA2026July summary, including the NEW age6-11as-neededIC
 Unverified source concerns: asthma one-third cough-only proportion, simplifiedgastransport/renal-compensation explanation, globalbronchiectasis cause ranks, CForganismage10crossover, vitaminEexam-yield, ciliarydyskinesia singledefect generalization, hypotheticalexamrank claims, hospital-pneumonia fixedregimen, pertussishypoglycemia clue and exactlymphocyteranges, TBsputumculture2-5week claim. These remain attributed and do not become independentlyverified teaching. No universal Step1 bank or preventive/screening question added in this tranche.
 
 Product:40targetedrenders (all5newfigures390x844,34newcomparisonnotes+revisedPRnote320x568),80screens in14contact sheets pixel-inspected. Initial longHIV/immunosuppression/transplant string overflow was caught, rewritten with commas and re-rendered. Final metrics: zero document/cardoverflow, brokenimages or offscreencontrols.7final changed/longcards re-rendered at320x568,14screens in4additionalcontactsheets pixel-inspected, including addedDNasenote and safe fungal firstsentences. IDs stable, exactQ/Aduplicates empty, allsourcepagelinks/imagepaths valid. Schema/FMretirement/Psych/Neuro/Pedsprogress tests pass; build passes with existinglarge-chunkwarning. Full Pediatrics secondsource-detail/clinical/productacceptance remains open.
+
+05:34 expanded checkpoint445db41 is published. Actual live cloud390mobile verified assets/index-dbnoHcKX.js; screenshot103351showsFM3245/Psych477/Neuro658/Peds154, screenshot103428showsactualp14ciliaryfigure+answer/page/full-image links. Both nativepixels inspected; nooverflow/badimages/offscreencontrols. No Reset/grade/flag controls touched. Lease recorded/released. Full Pediatrics acceptance remains open.
+
+## ENT/neonatal first pass pp18-23
+
+- p18: s2peds-0155, s2peds-0156, s2peds-0157, s2peds-0158, s2peds-0159, s2peds-0160, s2peds-0161, s2peds-0162, s2peds-0163, s2peds-0164, s2peds-0165, s2peds-0166, s2peds-0167, s2peds-0168, s2peds-0169, s2peds-0170, s2peds-0171, s2peds-0172
+- p19: s2peds-0173, s2peds-0174, s2peds-0175, s2peds-0176, s2peds-0177, s2peds-0178, s2peds-0179, s2peds-0180, s2peds-0181
+- p20: s2peds-0182, s2peds-0183, s2peds-0184, s2peds-0185, s2peds-0186, s2peds-0187, s2peds-0188, s2peds-0189, s2peds-0190, s2peds-0191
+- p21: s2peds-0192, s2peds-0193, s2peds-0194, s2peds-0195, s2peds-0196, s2peds-0197, s2peds-0198, s2peds-0199, s2peds-0200, s2peds-0201, s2peds-0202, s2peds-0203, s2peds-0204, s2peds-0205, s2peds-0206, s2peds-0207
+- p22: s2peds-0208, s2peds-0209, s2peds-0210, s2peds-0211, s2peds-0212, s2peds-0213, s2peds-0214, s2peds-0215
+- p23: s2peds-0216, s2peds-0217, s2peds-0218, s2peds-0219, s2peds-0220, s2peds-0221, s2peds-0222
+
+68 new cards; full first source-text pass pp18-23. No arbitrary clinical omissions. The exact repeated p22peritonsillar-abscess text/photo is represented canonically by p16s2peds-0131/0132; same source xref121, no unnecessary duplicate active question or invented figure. Integrated mechanisms and adult tracheomalacia differential retained. Step1-only advertising sentence in p20CHARGE is not an extra practice item; clinical CHARGE content remains.
+
+All5newactualfigures19-20 extracted and native-pixel inspected in both sourcepages and fullsizeimages: papillomatosis photograph/biopsy, distalTEF diagram, choanalatresiadiagram and CDHfilm. p22repeatabscessimagealreadyincludedp16. Product:34targetcards rendered(all5figures390x844;25newlinkedcomparisoncards plus4longsourcecards320x568),68top/bottomscreens in12contact sheets actualpixels inspected. Zero horizontaloverflow, brokenimages or offscreencontrols; correctpage/fullsize/source links. Currentnotes remain separately labeled rather than silently replacingPDFclaims. Full Pediatricssecondsource-detail/clinical/productacceptance stillopen.
+
+Verified differences: CDC2024pediatricAOMdiagnosis/antibiotics/observation and sinusitispatterns/noacuteimaging; AAFP2019recurrentAOMatleast3/6monthsor4/yearwith1last6months; AAO-HNS2022effusionrequirement/tubes and persistentOME/hearing; CDCalcoholdryingdrops contraindications; CHOPchoanalnasalbreathingandcatheter/endoscopy/CT/airway; MedlinePlusCHARGE usualRgrowth/Ggenital vs sourceRrenal; Merck2025CDH85%leftnotalways; ACOG2017betamethasone24h/dexa12h and noacceleratedintervalbenefit; AHA/AAP2025initialwarmingandventilationnotrigidtactile-before-warmsequence; ACOGpostterm>=42weeks; distinctadenoids/palatinelymphoidtissueandoperations fromIQWiG; AAP2022supineEVERYsleep despite positionalstridorclue; CHOPseverityexceptiontolaryngomalaciaobservation; CDCcurrentGASnegativeRADTback-upculture>=3andstartantibioticsifpositiveNOTblanketempiric; CDCMonospotlimitations; CCJM2025EBVamoxicillinrashnotautomaticpersistentallergy. Sourceunsafeabsolutesfullypreservedonlyasexplicitlycontrastedclaims.
+
+Unverifiedsourceconcerns retainedattributed: TNFavoidanceinsilicosisabsolute, organismrank, blackearcanalexamcue, mastoidimaginguniversalization, greypharyngealmembraneexamselection, chronicCT/endoscopyorder, simplifiedNRDSsurfactanthydrophobicmechanism/L:Sratio, TTNtermheuristic, BPDoxygen-onlyetiology/ECGandvascularityassociation, foreignbody fiberopticscopewording, universalrhinitisantihistaminerank, vascularringneckextensionrule, idiopathiccholesteatomasimplification, Centorignore-age/allexudatenodecounts, age/dating-basedrashdistinction. These are notindependentlyclinicallyverified facts. No preventive/screeningquestioninthistranche.
+
+Checkpoint222locallyready after5regressiontests/build; largechunkwarningunchanged. Publication and livestate recordedbelow whenchecked.

@@ -1886,5 +1886,858 @@ export default [
       "page": 17,
       "url": "/mehlman/hy-pediatrics.pdf#page=17"
     }
+  },
+  {
+    "id": "s2peds-0155",
+    "category": "Tuberculosis",
+    "q": "Why does the source connect TNF-alpha inhibitors with TB and silicosis?",
+    "a": "TNF-alpha contributes to suppression of TB. Infliximab, adalimumab and etanercept increase TB risk; the source therefore says to avoid them in silicosis, a high-TB-risk setting. This is the PDF risk/avoidance framing, not an independently verified absolute contraindication for every patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0156",
+    "category": "Otitis media",
+    "q": "Where is otitis media located, and what organism does the source rank first?",
+    "a": "In the middle ear, deep to the tympanic membrane; the source ranks Streptococcus pneumoniae first. That rank is its teaching shorthand rather than microbiologic proof in an individual child.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0157",
+    "category": "Otitis media",
+    "q": "What tympanic-membrane examination does the source use for otitis media, and what does normal mobility suggest?",
+    "a": "A red, immobile tympanic membrane. The PDF calls immobility highly sensitive and says normal mobility rules out OM; diagnosis should not rest on redness alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    },
+    "guideline": {
+      "text": "CDC requires middle-ear effusion plus moderate/severe bulging, new otorrhea not due to externa, or mild bulging with recent otalgia/intense erythema. Do not diagnose AOM without effusion; pneumatic otoscopy or tympanometry helps establish it.",
+      "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+    }
+  },
+  {
+    "id": "s2peds-0158",
+    "category": "Otitis media",
+    "q": "Does ear tugging distinguish otitis media from otitis externa in the source?",
+    "a": "No. Children may tug an ear with either condition. The location and otoscopic examination distinguish the infections; tugging alone is not diagnostic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0159",
+    "category": "Otitis media",
+    "q": "What initial antibiotic does the source favor for otitis media, and when does it switch to Augmentin?",
+    "a": "It lists amoxicillin or penicillin and reserves amoxicillin/clavulanate (Augmentin) classically for recurrent OM; if choosing a simple first episode, it favors the former. That is a source shortcut, not the full pediatric selection rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    },
+    "guideline": {
+      "text": "CDC recommends amoxicillin first line when none was received in the prior 30 days. Use amoxicillin/clavulanate after recent amoxicillin, with purulent conjunctivitis, or for recurrent AOM unresponsive to amoxicillin. Selected mild cases may be observed with follow-up instead of automatic antibiotics.",
+      "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+    }
+  },
+  {
+    "id": "s2peds-0160",
+    "category": "Otitis media",
+    "q": "What recurrence threshold does the PDF give for tympanostomy tubes, and what important criteria differ?",
+    "a": "It says more than 3 OM episodes in 6 months or more than 4 in a year. Those strict greater-than cutoffs differ from standard recurrent-AOM thresholds.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    },
+    "guideline": {
+      "text": "AAFP defines recurrent AOM as at least 3 episodes in 6 months or at least 4 in 12 months, with at least 1 in the preceding 6 months. Referral is for consideration of tubes, not automatic insertion; effusion at candidacy assessment matters.",
+      "url": "https://www.aafp.org/afp/2019/0915/p350"
+    }
+  },
+  {
+    "id": "s2peds-0161",
+    "category": "Otitis media",
+    "q": "Why is episode count alone insufficient to decide on tympanostomy tubes?",
+    "a": "The PDF episode-count answer omits whether middle-ear effusion is present when tube candidacy is assessed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    },
+    "guideline": {
+      "text": "AAO-HNS 2022: do not insert tubes for recurrent AOM without middle-ear effusion in either ear at assessment. Offer bilateral tubes for recurrent AOM with unilateral or bilateral effusion.",
+      "url": "https://bulletin.entnet.org/home/article/22030720/guideline-update-key-action-statements"
+    }
+  },
+  {
+    "id": "s2peds-0162",
+    "category": "Otitis media",
+    "q": "What diagnosis and usual management does the source give for residual fluid weeks after an ear infection?",
+    "a": "Serous otitis media, also called otitis media with effusion: fluid behind the tympanic membrane after 1-2 infections. The source says it is usually benign, resolves in 4-8 weeks and merits observation. Persistent or high-risk disease needs follow-up.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    },
+    "guideline": {
+      "text": "AAO-HNS advises against tubes for a single OME episode under 3 months. Obtain hearing evaluation if it persists at least 3 months; offer tubes for bilateral OME lasting at least 3 months with documented hearing difficulties. At-risk children and symptoms can change management.",
+      "url": "https://bulletin.entnet.org/home/article/22030720/guideline-update-key-action-statements"
+    }
+  },
+  {
+    "id": "s2peds-0163",
+    "category": "Tympanic membrane perforation",
+    "q": "What diagnosis fits severe ear pain, dried blood on the pillow and seropurulent canal drainage obscuring the eardrum?",
+    "a": "Tympanic membrane perforation. The source describes a 2-year-old after 3 days of a viral illness; OM can cause rupture, even though that vignette does not emphasize the usual classic OM examination.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0164",
+    "category": "Mastoiditis",
+    "q": "What complication of untreated otitis media displaces a painful ear upward and outward?",
+    "a": "Mastoiditis: inflammation of the mastoid portion of the temporal bone just behind the ear. Pinna displacement and postauricular pain/swelling are the source clues.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0165",
+    "category": "Mastoiditis",
+    "q": "What imaging answer does the source choose for a 2-year-old with suspected mastoiditis?",
+    "a": "CT of the temporal bone. The source also lists MRI and rejects plain X-ray; it emphasizes that the pediatric radiation concern does not change its cited exam answer. This is the source exam selection, not a universal imaging protocol.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0166",
+    "category": "Myringitis",
+    "q": "What is myringitis, and which organisms does the source name?",
+    "a": "Inflammation confined to the tympanic membrane, sometimes bullous. The source names pneumococcus or Mycoplasma; the term bullous describes vesicles and does not alone prove one pathogen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0167",
+    "category": "Otitis externa",
+    "q": "How does the source distinguish otitis externa by location, organism and risk factors?",
+    "a": "Infection superficial to the tympanic membrane in the ear canal, classically Pseudomonas. Swimming and diabetes increase risk in its teaching pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0168",
+    "category": "Otitis externa",
+    "q": "What diagnosis does the source associate with black skin within the ear canal?",
+    "a": "Necrotizing otitis externa, also called malignant otitis externa. Black canal tissue is its cited vignette cue, not a stand-alone diagnosis from color alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0169",
+    "category": "Otitis externa",
+    "q": "What swimmer ear-drop answer is prevention rather than treatment, and when should drying drops be avoided?",
+    "a": "The PDF chooses acetic acid-alcohol drops for a student with continued water exposure. These are its prophylaxis answer, not antibiotic treatment of established infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    },
+    "guideline": {
+      "text": "CDC advises checking with a healthcare provider before ear-drying drops. Do not use them with ear tubes, a punctured eardrum, active swimmer's ear or ear drainage.",
+      "url": "https://www.cdc.gov/healthy-swimming/prevention/preventing-swimmers-ear.html"
+    }
+  },
+  {
+    "id": "s2peds-0170",
+    "category": "Otitis externa",
+    "q": "What topical treatment does the PDF choose for established otitis externa?",
+    "a": "Topical ciprofloxacin-hydrocortisone drops. This source treatment answer is distinct from the acetic acid-alcohol prophylaxis answer; membrane integrity and clinical severity affect selection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0171",
+    "category": "Sinusitis",
+    "q": "When should a lingering pediatric URTI raise the source suspicion of sinusitis?",
+    "a": "Lingering fever and respiratory symptoms for about 10-14 days or longer. The source wants sinusitis in the differential, not a conclusion that every long cold is bacterial.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    },
+    "guideline": {
+      "text": "CDC bacterial-sinusitis criteria include persistent nasal discharge/daytime cough over 10 days without improvement, worsening after initial improvement, or severe fever at least 39 C with purulent nasal discharge for at least 3 consecutive days. Duration alone without the pattern is insufficient.",
+      "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+    }
+  },
+  {
+    "id": "s2peds-0172",
+    "category": "Sinusitis",
+    "q": "What unusual source vignette combines nocturnal cough and grey oropharyngeal membranes with sinusitis?",
+    "a": "The source attributes nocturnal cough to sinus drainage/aspiration and says sinusitis was the listed answer when diphtheria was not an option. Grey membranes would otherwise raise diphtheria concern; this is a particular exam anecdote, not a safe blanket diagnostic rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 18,
+      "url": "/mehlman/hy-pediatrics.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2peds-0173",
+    "category": "Sinusitis",
+    "q": "What does a sore cheek suggest in an IgA-deficient child with recurrent sinopulmonary infections?",
+    "a": "Sinusitis. The source describes a pneumonia history followed by a sore left cheek as a clue to local sinus disease in IgA deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2peds-0174",
+    "category": "Sinusitis",
+    "q": "What duration and diagnostic sequence does the source give for chronic sinusitis?",
+    "a": "More than 12 weeks: CT, followed by possible nasal endoscopy. This is its chronic-disease work-up sequence, separate from uncomplicated acute sinusitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    },
+    "guideline": {
+      "text": "CDC recommends against imaging for uncomplicated acute bacterial sinusitis. The source chronic-sinusitis pathway should not be applied automatically to a routine acute URI.",
+      "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+    }
+  },
+  {
+    "id": "s2peds-0175",
+    "category": "Sinusitis",
+    "q": "What antibiotic contrast does the source draw between sinusitis, OM and strep pharyngitis?",
+    "a": "Sinusitis: Augmentin. OM/strep pharyngitis: amoxicillin or penicillin alone unless recurrent in its shorthand. Actual pediatric selection has further criteria.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    },
+    "guideline": {
+      "text": "CDC lists amoxicillin or amoxicillin/clavulanate as first-line sinusitis therapy. Persistent disease may allow up to 3 days of observation; severe/worsening disease merits antibiotics. AOM has separate recent-antibiotic and purulent-conjunctivitis criteria.",
+      "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+    }
+  },
+  {
+    "id": "s2peds-0176",
+    "category": "Laryngeal papillomatosis",
+    "q": "What diagnosis explains the warty vocal-cord lesions in this actual source photograph?",
+    "a": "Juvenile laryngeal papillomatosis. The PDF links it to HPV 6/11 exposure from the maternal vaginal canal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    },
+    "img": "/mehlman/figures/peds-p019-03.jpeg"
+  },
+  {
+    "id": "s2peds-0177",
+    "category": "Laryngeal papillomatosis",
+    "q": "What architecture appears in this actual source papillomatosis biopsy, and which HPV types does the source connect to it?",
+    "a": "Papillary structures in laryngeal papillomatosis, associated with HPV types 6 and 11 in the source.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    },
+    "img": "/mehlman/figures/peds-p019-02.jpeg"
+  },
+  {
+    "id": "s2peds-0178",
+    "category": "Tracheoesophageal fistula",
+    "q": "What esophageal and airway anatomy appears in this actual TEF diagram?",
+    "a": "A blind proximal esophageal pouch with the distal esophagus connected to the trachea, the source configuration of esophageal atresia with distal TEF.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    },
+    "img": "/mehlman/figures/peds-p019-01.jpeg"
+  },
+  {
+    "id": "s2peds-0179",
+    "category": "Tracheoesophageal fistula",
+    "q": "What initial-feeding symptom and tube finding point to esophageal atresia with TEF?",
+    "a": "A neonate coughs up milk on the first feeding. An attempted nasogastric tube cannot be advanced into the stomach because it meets the blind esophageal pouch; the source uses that as the diagnostic maneuver.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2peds-0180",
+    "category": "Tracheoesophageal fistula",
+    "q": "Which germ layer does the source exam answer associate with TEF?",
+    "a": "Endoderm, corresponding to the epithelial lining of the gut/esophagus. The source marks this as a clinically integrated embryology question rather than a separate Step 1 bank.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2peds-0181",
+    "category": "Choanal atresia",
+    "q": "Why is bilateral choanal atresia dangerous in a neonate, and which source breathing label is wrong?",
+    "a": "Blocked posterior nasal passages impair breathing. The PDF calls the neonate an obligate mouth-breather, but that reverses the relevant physiology: young neonates normally depend on nasal breathing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 19,
+      "url": "/mehlman/hy-pediatrics.pdf#page=19"
+    },
+    "guideline": {
+      "text": "CHOP describes early infants as nasal breathers; bilateral blockage can be immediately life-threatening. Crying opens the mouth and temporarily relieves cyclic respiratory distress.",
+      "url": "https://www.chop.edu/conditions-diseases/choanal-atresia"
+    }
+  },
+  {
+    "id": "s2peds-0182",
+    "category": "Choanal atresia",
+    "q": "What obstructed passage is shown in this actual normal-versus-choanal-atresia diagram?",
+    "a": "The posterior nasal airway is blocked in choanal atresia. The normal panel has a patent nasal route; the atresia panel marks the obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    },
+    "img": "/mehlman/figures/peds-p020-02.jpeg"
+  },
+  {
+    "id": "s2peds-0183",
+    "category": "Choanal atresia",
+    "q": "What feeding and crying color pattern does the source associate with bilateral choanal atresia?",
+    "a": "The infant becomes blue/hypoxic during breastfeeding, when nasal airflow is needed, and pink while detached and crying through an open mouth. This is the source cyclic-cyanosis cue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2peds-0184",
+    "category": "Choanal atresia",
+    "q": "How does the tube-passage finding in choanal atresia differ from the TEF finding?",
+    "a": "The source proposes nasogastric-tube insertion in both. In choanal atresia the tube cannot pass the obstructed nasal passage into the nasopharynx; in esophageal atresia it reaches a blind esophageal pouch instead.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    },
+    "guideline": {
+      "text": "CHOP uses inability to pass a 5/6 French suction catheter into the nasopharynx as a sign. Nasal endoscopy and CT provide further evaluation after the airway is secured when necessary.",
+      "url": "https://www.chop.edu/conditions-diseases/choanal-atresia"
+    }
+  },
+  {
+    "id": "s2peds-0185",
+    "category": "Choanal atresia",
+    "q": "What does CHARGE stand for, and how does the source mnemonic differ?",
+    "a": "The PDF gives coloboma, heart defects, choanal atresia, renal defects, genitourinary anomalies and ear anomalies. Its R expansion is not the usual mnemonic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    },
+    "guideline": {
+      "text": "MedlinePlus: coloboma, heart defects, atresia choanae, growth retardation, genital abnormalities and ear abnormalities. R refers to growth/developmental delay, not renal defects. The PDF renal expansion should not replace the usual R meaning.",
+      "url": "https://medlineplus.gov/genetics/condition/charge-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-0186",
+    "category": "Congenital diaphragmatic hernia",
+    "q": "What developmental defect does the source associate with congenital diaphragmatic hernia?",
+    "a": "Failure of formation of the pleuroperitoneal membranes, permitting abdominal viscera to enter the chest. This is its integrated mechanism/exam answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2peds-0187",
+    "category": "Congenital diaphragmatic hernia",
+    "q": "Does congenital diaphragmatic hernia always occur on the left, as the PDF says?",
+    "a": "No. The PDF says always left; that absolute is incorrect. The common posterolateral defect is often left-sided, but right-sided and bilateral defects occur.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    },
+    "guideline": {
+      "text": "Merck reports 85% on the left and about 2% bilateral. Pulmonary hypoplasia and pulmonary hypertension, not side alone, determine much of the respiratory risk.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/diaphragmatic-hernia"
+    }
+  },
+  {
+    "id": "s2peds-0188",
+    "category": "Congenital diaphragmatic hernia",
+    "q": "What abdominal and chest examination clues does the source give for diaphragmatic hernia?",
+    "a": "Reduced abdominal bowel sounds and increased bowel sounds in the left hemithorax, reflecting bowel displaced into the chest. The left-sided description is the common source vignette, not every possible hernia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2peds-0189",
+    "category": "Congenital diaphragmatic hernia",
+    "q": "What do the cystic-appearing spaces in this actual source neonatal chest film represent?",
+    "a": "Bowel loops herniated into the left hemithorax in congenital diaphragmatic hernia. The source warns that the air-filled intestinal loops can be described as cystic-appearing spaces.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    },
+    "img": "/mehlman/figures/peds-p020-01.jpeg"
+  },
+  {
+    "id": "s2peds-0190",
+    "category": "Neonatal respiratory distress syndrome",
+    "q": "What neonatal respiratory diagnosis does the source favor after birth before 34 weeks?",
+    "a": "Neonatal respiratory distress syndrome, also called hyaline membrane disease, from insufficient surfactant. Prematurity is the source cue; not every preterm respiratory-distress presentation has this diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2peds-0191",
+    "category": "Neonatal respiratory distress syndrome",
+    "q": "What cell and organelle does the source connect to surfactant deficiency?",
+    "a": "Type II pneumocytes and reduced lamellar bodies, the specialized surfactant-containing organelles.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 20,
+      "url": "/mehlman/hy-pediatrics.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2peds-0192",
+    "category": "Neonatal respiratory distress syndrome",
+    "q": "What lecithin/sphingomyelin ratio and chemical synonym does the source associate with NRDS?",
+    "a": "A low L/S ratio under 2.0; it gives a normal value above 2-2.4. Lecithin is dipalmitoyl phosphatidylcholine. Increasing sphingomyelin lowers the ratio in its exam manipulation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0193",
+    "category": "Neonatal respiratory distress syndrome",
+    "q": "How does insufficient surfactant change alveolar mechanics in the source?",
+    "a": "Decreased compliance, increased elastic recoil and a greater tendency to collapse. The PDF calls surfactant hydrophobic and says its deficiency allows hydrophobic alveolar-wall interactions to increase collapse. This is its simplified explanation, not an independently verified full surface-tension model.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0194",
+    "category": "Neonatal respiratory distress syndrome",
+    "q": "What chest-film description is the source NRDS cue?",
+    "a": "A reticulogranular appearance. Combine the imaging cue with prematurity and the clinical respiratory-distress context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0195",
+    "category": "Neonatal respiratory distress syndrome",
+    "q": "Why should the source two-bolus antenatal-steroid rule not be used as a universal dosing schedule?",
+    "a": "The PDF says two boluses within 24 hours of delivery before 34 weeks and repeats a bolus after 12 hours in its exam anecdote. Dosing depends on the chosen steroid; that is not a universal schedule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    },
+    "guideline": {
+      "text": "ACOG: betamethasone 12 mg IM twice, 24 hours apart, or dexamethasone 6 mg IM four times, 12 hours apart. A first dose can help even if the full course cannot be completed; accelerated intervals have no demonstrated additional benefit. Apply gestational-age/anticipated-delivery eligibility, not just the anecdote.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/08/antenatal-corticosteroid-therapy-for-fetal-maturation"
+    }
+  },
+  {
+    "id": "s2peds-0196",
+    "category": "Neonatal respiratory distress syndrome",
+    "q": "What management sequence does the PDF give for neonatal respiratory distress, and what safety limit is needed?",
+    "a": "It says tactile stimulation, then warming lights, then exogenous surfactant and oxygen. Do not treat this as a rigid rule to delay warmth or effective ventilation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    },
+    "guideline": {
+      "text": "AHA/AAP 2025 includes warming/drying, assessment and stimulation if needed in initial care. Assisted ventilation is the priority for apnea or heart rate under 100 after initial steps; spontaneously breathing preterm infants with distress can need CPAP. Surfactant treatment is not a substitute for immediate ventilation.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001367"
+    }
+  },
+  {
+    "id": "s2peds-0197",
+    "category": "Transient tachypnea of the newborn",
+    "q": "What term-birth circumstances favor TTN in the source rather than NRDS?",
+    "a": "Respiratory distress after birth beyond 37 weeks, especially cesarean or rapid vaginal delivery. The source contrasts this with the typical premature NRDS stem; term status alone is not diagnostic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0198",
+    "category": "Transient tachypnea of the newborn",
+    "q": "What mechanism and chest-film clue does the source give for TTN?",
+    "a": "Delayed clearance of fetal lung fluid, described as inadequate time for pulmonary lymphatic clearance. The source CXR cue is fluid within fissure lines.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0199",
+    "category": "Meconium aspiration",
+    "q": "What exposure, delivery-fluid clue and pulmonary effects identify source meconium aspiration?",
+    "a": "Aspiration of first stool mixed with amniotic fluid during delivery; the stem says dark, meconium-stained fluid. The source lists obstruction, inflammation, dyspnea and possible infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0200",
+    "category": "Meconium aspiration",
+    "q": "What gestational-age risk does the source emphasize for meconium aspiration, and what term definition differs?",
+    "a": "It emphasizes postterm birth but labels it after 40 weeks. More than 40 weeks is not the standard definition of postterm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    },
+    "guideline": {
+      "text": "ACOG distinguishes late term at 41 weeks through before 42 weeks from postterm at 42 weeks and beyond. The PDF after-40 wording is imprecise.",
+      "url": "https://www.acog.org/clinical/guidance/practice-bulletin/2014/08/management-of-late-term-and-postterm-pregnancies/"
+    }
+  },
+  {
+    "id": "s2peds-0201",
+    "category": "Meconium aspiration",
+    "q": "What pulmonary vascular complication does the source connect to meconium aspiration?",
+    "a": "Persistent pulmonary hypertension of the newborn. The PDF calls it persistent fetal hypertension; the relevant problem is sustained high pulmonary vascular resistance after birth.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0202",
+    "category": "Bronchopulmonary dysplasia",
+    "q": "What prolonged respiratory-support history does the source use to identify bronchopulmonary dysplasia?",
+    "a": "A former 26-week infant who required ICU oxygen and still needs home oxygen at 4 months. The source calls it fibrotic lung disease caused by continued oxygen, a simplified risk/mechanism description rather than the only cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0203",
+    "category": "Bronchopulmonary dysplasia",
+    "q": "What right-heart and vascular findings does the source connect to BPD?",
+    "a": "Right-axis deviation, possible increased pulmonary vascularity and right-ventricular hypertrophy/cor pulmonale from pulmonary hypertension. These are the source clinical association cues, not proof from an isolated ECG.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0204",
+    "category": "Foreign body aspiration",
+    "q": "What acute toddler presentation makes the source favor an aspirated foreign body?",
+    "a": "A child under 2 who was crawling on the floor and suddenly develops respiratory distress, with unilateral hyperresonance or unilateral atelectasis and an ipsilateral tracheal shift. These represent different obstruction patterns.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0205",
+    "category": "Foreign body aspiration",
+    "q": "What airway examination does the source choose for suspected foreign body aspiration?",
+    "a": "Bronchoscopy or fiberoptic examination of the airways, as phrased in its answer options. This is its diagnosis/intervention answer, not a statement that every extraction uses the same scope type.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0206",
+    "category": "Allergic rhinitis",
+    "q": "What atopic examination word does the source connect to allergic rhinitis and conjunctivitis?",
+    "a": "Cobblestoning, described for nasal mucosa and the tarsal conjunctiva. Allergy can coexist with asthma as part of atopy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0207",
+    "category": "Allergic rhinitis",
+    "q": "What environmental intervention and first medication does the source choose for allergic rhinitis?",
+    "a": "Pillow and mattress covers in one cited exam question; intranasal corticosteroids as its first-line medication. These are the PDF exam answers, not proof of the best single intervention for every allergen exposure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 21,
+      "url": "/mehlman/hy-pediatrics.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2peds-0208",
+    "category": "Allergic rhinitis",
+    "q": "Which steroid route and antihistamine alternative does the source distinguish in allergic rhinitis?",
+    "a": "Intranasal corticosteroids, not oral prednisone. If intranasal steroids are absent from the options, it chooses a second-generation H1 blocker such as loratadine; its rejection of antihistamines as first-line is exam framing rather than an independently verified universal rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2peds-0209",
+    "category": "Adenoid hypertrophy",
+    "q": "What airway problem and surgery does the source associate with enlarged adenoids, and what anatomic distinction matters?",
+    "a": "The PDF calls adenoids enlarged tonsils, connects them to stridor and answers tonsillectomy. It conflates related but distinct lymphoid tissues and operations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    },
+    "guideline": {
+      "text": "Enlarged palatine tonsils lie on either side of the throat; adenoids are the pharyngeal tonsil behind the nose. Enlarged adenoids chiefly cause nasal obstruction/mouth breathing, snoring and ear problems. Adenoidectomy removes adenoids; tonsil surgery removes palatine tonsils, sometimes combined when both are enlarged.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536881/"
+    }
+  },
+  {
+    "id": "s2peds-0210",
+    "category": "Laryngomalacia",
+    "q": "What source condition causes common infant stridor that changes with position?",
+    "a": "Laryngomalacia: soft/floppy upper-laryngeal tissue in an infant under 1. The source describes less noise upright or prone. That observed position effect is not a recommendation for prone sleep.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    },
+    "guideline": {
+      "text": "AAP safe-sleep guidance recommends supine positioning on a firm, flat surface for every sleep. A positional stridor clue must not become advice to put an infant on the stomach to sleep; persistent distress warrants assessment.",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+    }
+  },
+  {
+    "id": "s2peds-0211",
+    "category": "Laryngomalacia",
+    "q": "When does the source laryngomalacia observation answer need a severity caveat?",
+    "a": "It says nearly all cases self-resolve and should not be treated. That applies to mild uncomplicated disease, not serious airway compromise or feeding/growth problems.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    },
+    "guideline": {
+      "text": "CHOP reports most cases resolve by 18-20 months. Severe apnea, blue spells, failure to gain weight, marked retractions, oxygen need or related heart/lung problems can require supraglottoplasty.",
+      "url": "https://www.chop.edu/conditions-diseases/laryngomalacia"
+    }
+  },
+  {
+    "id": "s2peds-0212",
+    "category": "Vascular ring",
+    "q": "What source alternative to laryngomalacia compresses the airway and improves with neck extension?",
+    "a": "A vascular ring from an embryologic vascular variant compressing the airway. The source contrasts neck-extension relief with laryngomalacia positional relief and gives surgery as treatment; these are its exam cues.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2peds-0213",
+    "category": "Velopharyngeal insufficiency",
+    "q": "What diagnosis explains hypernasal or whistling speech after a cleft palate, even if repaired?",
+    "a": "Velopharyngeal insufficiency from an inadequate/shortened palate. The source uses a history of cleft palate to identify this later speech risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2peds-0214",
+    "category": "Cholesteatoma",
+    "q": "What enlarging middle-ear squamous lesion causes source hearing loss and requires surgery?",
+    "a": "Cholesteatoma behind the tympanic membrane. The source calls it idiopathic squamous proliferation, describes obstructive hearing loss and possible extension toward the inner ear, and chooses surgery. This is its simplified etiology description.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2peds-0215",
+    "category": "Tracheomalacia",
+    "q": "What adult post-intubation stridor does the source contrast with infant laryngomalacia?",
+    "a": "Acquired tracheomalacia: softening of tracheal airway cartilage after intubation, sometimes appearing months after surgery. The PDF adult example is retained as a clinically relevant differential, not a separate Step 1 bank; the condition is not restricted to adults.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 22,
+      "url": "/mehlman/hy-pediatrics.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2peds-0216",
+    "category": "Strep pharyngitis and EBV",
+    "q": "What four simplified Centor features does the source use?",
+    "a": "Absence of cough, fever above 38 C, tonsillar exudates and lymphadenopathy. The source lists cervical/submandibular nodes broadly and says to ignore age in its exam shortcut.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 23,
+      "url": "/mehlman/hy-pediatrics.pdf#page=23"
+    },
+    "guideline": {
+      "text": "CDC pediatric guidance specifically includes swollen/tender anterior cervical nodes and age under 15 among features supporting RADT testing. Clinical features alone do not establish GAS, and routine testing generally is not indicated under age 3.",
+      "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+    }
+  },
+  {
+    "id": "s2peds-0217",
+    "category": "Strep pharyngitis and EBV",
+    "q": "What does the source do with 0-1 versus 2-4 simplified Centor points?",
+    "a": "0-1: supportive care such as saline gargles or acetaminophen, described in its 3-year-old viral URI example. 2-4: rapid strep testing. These are its exam thresholds, not permission to label every high-score URI bacterial without testing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 23,
+      "url": "/mehlman/hy-pediatrics.pdf#page=23"
+    }
+  },
+  {
+    "id": "s2peds-0218",
+    "category": "Strep pharyngitis and EBV",
+    "q": "What backup test does the source choose after a negative rapid strep test in a child?",
+    "a": "Throat culture, not sputum culture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 23,
+      "url": "/mehlman/hy-pediatrics.pdf#page=23"
+    },
+    "guideline": {
+      "text": "CDC recommends a backup throat culture for symptomatic children age 3 and older after a negative RADT, with a mechanism to contact the family and start antibiotics if the culture is positive.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html"
+    }
+  },
+  {
+    "id": "s2peds-0219",
+    "category": "Strep pharyngitis and EBV",
+    "q": "Should every child start amoxicillin while waiting for a backup throat culture, as the PDF says?",
+    "a": "No. The PDF says to send the child home on presumptive amoxicillin or penicillin while awaiting culture; that blanket approach conflicts with current confirmation-based guidance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 23,
+      "url": "/mehlman/hy-pediatrics.pdf#page=23"
+    },
+    "guideline": {
+      "text": "CDC advises initiating antibiotics when the backup culture is positive, not automatically for every negative-RADT child while waiting. Positive RADT/culture confirms GAS; do not treat viral pharyngitis.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html"
+    }
+  },
+  {
+    "id": "s2peds-0220",
+    "category": "Strep pharyngitis and EBV",
+    "q": "What source contrast separates a beta-lactam rash in a 12-year-old from one in a dating 16-17-year-old, and why is it limited?",
+    "a": "The PDF answers beta-lactam allergy for the 12-year-old, but EBV mononucleosis for the older teen with a dating exposure cue. Age/dating history alone cannot establish either cause of a rash.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 23,
+      "url": "/mehlman/hy-pediatrics.pdf#page=23"
+    },
+    "guideline": {
+      "text": "A 2025 CCJM review explains that amoxicillin rash in EBV can reflect transient delayed hypersensitivity and does not automatically establish persistent penicillin allergy. True allergy can also occur; assess the reaction rather than using age alone.",
+      "url": "https://www.ccjm.org/content/92/6/335"
+    }
+  },
+  {
+    "id": "s2peds-0221",
+    "category": "Strep pharyngitis and EBV",
+    "q": "Why can EBV resemble strep pharyngitis in the source, and what test does its exam answer choose?",
+    "a": "EBV can produce all four simplified Centor features and be mistaken for strep. The source chooses heterophile antibody/Monospot testing in the characteristic teen stem.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 23,
+      "url": "/mehlman/hy-pediatrics.pdf#page=23"
+    },
+    "guideline": {
+      "text": "CDC does not recommend Monospot for general use: false positives/negatives occur, heterophile antibodies are often absent in children, and it does not confirm EBV itself. EBV-specific antibody testing can clarify an atypical presentation.",
+      "url": "https://www.cdc.gov/epstein-barr/php/laboratories/"
+    }
+  },
+  {
+    "id": "s2peds-0222",
+    "category": "Strep pharyngitis and EBV",
+    "q": "What timing and distribution does the source give for the intensified EBV-associated beta-lactam rash?",
+    "a": "A more intense pruritic response about 7-10 days after antibiotics, on extensor surfaces and pressure points; EBV without antibiotics can cause a milder maculopapular rash. Its antibody/hypersensitivity explanation is simplified.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 23,
+      "url": "/mehlman/hy-pediatrics.pdf#page=23"
+    },
+    "guideline": {
+      "text": "CCJM describes a diffuse pruritic maculopapular eruption, often involving palms/soles, typically 7-10 days after antimicrobial administration. The rash alone does not settle persistent allergy; appropriate evaluation matters.",
+      "url": "https://www.ccjm.org/content/92/6/335"
+    }
   }
 ];
