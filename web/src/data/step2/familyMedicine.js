@@ -28174,8 +28174,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=287"
     },
     "guideline": {
-      "text": "A 2024 Medical Journal of Australia summary of the 2023 international PCOS guideline recommends letrozole first-line for anovulatory infertility in PCOS without other infertility factors. Local prescribing rules still apply.",
-      "url": "https://www.mja.com.au/journal/2024/221/7/summary-2023-international-evidence-based-guideline-assessment-and-management"
+      "text": "The original 2023 international evidence-based PCOS guideline recommendation 5.3.1 names letrozole first-line pharmacological ovulation induction for infertile anovulatory women with PCOS and no other infertility factors. It notes off-label use in many countries and excludes a possible pre-existing pregnancy. Clomiphene/metformin have selected roles, but clomiphene is not its universal first choice. This is the original guideline recommendation report, not just a later summary.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477934/"
     }
   },
   {
@@ -42849,8 +42849,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=287"
     },
     "guideline": {
-      "text": "A 2024 Medical Journal of Australia summary of the 2023 international PCOS guideline recommends letrozole first-line for anovulatory infertility in PCOS without other infertility factors. Local prescribing rules still apply.",
-      "url": "https://www.mja.com.au/journal/2024/221/7/summary-2023-international-evidence-based-guideline-assessment-and-management"
+      "text": "The original 2023 international evidence-based PCOS guideline recommendation 5.3.1 names letrozole first-line pharmacological ovulation induction for infertile anovulatory women with PCOS and no other infertility factors. It notes off-label use in many countries and excludes a possible pre-existing pregnancy. Clomiphene/metformin have selected roles, but clomiphene is not its universal first choice. This is the original guideline recommendation report, not just a later summary.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477934/"
     }
   },
   {
