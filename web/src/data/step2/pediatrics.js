@@ -17973,5 +17973,369 @@ export default [
       "text": "Merck says acrocyanosis is common in the first few hours and may recur intermittently for months. The source suggestion to warm and stimulate may fit a cold or mildly depressed newborn, but persistent central cyanosis, respiratory distress or a low heart rate requires broader newborn assessment rather than reassurance based on the word acrocyanosis.",
       "url": "https://www.merckmanuals.com/professional/pediatrics/care-of-newborns-and-infants/physical-examination-of-the-newborn"
     }
+  },
+  {
+    "id": "s2peds-1277",
+    "category": "Teratogen exposure",
+    "q": "When does the source say major organ systems are most susceptible to teratogens, and what is a teratogen?",
+    "a": "A teratogen is an agent that can disrupt normal embryonic or fetal development. The source flags greatest susceptibility at approximately 3-8 weeks after conception, when major organ systems form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck places the highest teratogenic-risk window during organogenesis at 20-56 days after fertilization. Before day 20 the pattern is more often all-or-none; after organogenesis, injury tends to affect growth or organ function rather than create major structural defects.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/drug-safety-in-pregnancy"
+    },
+    "img": "/mehlman/figures/peds-p089-teratogens.png",
+    "imgAlt": "Actual source table of notable teratogens with medication and substance classes and associated congenital or fetal outcomes"
+  },
+  {
+    "id": "s2peds-1278",
+    "category": "Teratogen exposure",
+    "q": "Which fetal abnormalities does the source associate with maternal ACE-inhibitor use?",
+    "a": "It lists renal dysplasia and oligohydramnios. The high-yield clue is a fetus or neonate with kidney injury after ACE-inhibitor exposure, often with low amniotic fluid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck describes ACE-inhibitor exposure as a cause of renal failure in the fetus and newborn and oligohydramnios, consistent with the source renal-tract emphasis.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/drug-safety-in-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1279",
+    "category": "Teratogen exposure",
+    "q": "Which irreversible fetal injury is linked in the source to aminoglycoside exposure?",
+    "a": "Aminoglycosides can cause congenital hearing loss, the classic eighth-cranial-nerve toxicity question in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck lists irreversible eighth-nerve damage with aminoglycosides, particularly streptomycin and tobramycin, but notes that harm is not universal after exposure.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/drug-safety-in-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1280",
+    "category": "Teratogen exposure",
+    "q": "What neural-tube and anticonvulsant risks does the source assign to anti-epileptics?",
+    "a": "The source links anti-epileptics, especially valproate and carbamazepine, with neural-tube defects through folate disruption. It also lists fetal hydantoin syndrome features after hydantoin exposure, including craniofacial findings and hypoplastic fingernails.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "The 2024 AAN/AES/SMFM guideline says avoid valproate when feasible to reduce major congenital malformations, neural-tube defects and neurodevelopmental harm, consider lamotrigine, levetiracetam or oxcarbazepine when appropriate, and give at least 0.4 mg folic acid daily before conception and during pregnancy.",
+      "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000209279"
+    }
+  },
+  {
+    "id": "s2peds-1281",
+    "category": "Teratogen exposure",
+    "q": "Which congenital pattern follows early carbimazole or methimazole exposure in the source table?",
+    "a": "It lists aplasia cutis, choanal atresia and esophageal atresia. The scalp defect plus an atresia combination is the recognizable methimazole-embryopathy cluster.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "ACOG recognizes a fetal anomaly syndrome after early methimazole or carbimazole exposure, including aplasia cutis, omphalocele and esophageal or choanal atresia, while noting that associations are confounded by maternal hyperthyroidism.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2020/06/thyroid-disease-in-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1282",
+    "category": "Teratogen exposure",
+    "q": "What delayed malignancy is classically associated with maternal DES exposure?",
+    "a": "Diethylstilbestrol exposure is linked to vaginal clear-cell adenocarcinoma in female offspring decades later. The source gives an approximate onset window of 30-40 years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "NCI confirms that daughters exposed to DES in utero have an increased lifetime risk of clear-cell adenocarcinoma of the vagina or cervix, usually after age 14, with elevated risk through about age 40.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet"
+    }
+  },
+  {
+    "id": "s2peds-1283",
+    "category": "Teratogen exposure",
+    "q": "Which malformation pattern does the source tie to isotretinoin?",
+    "a": "Isotretinoin exposure is associated with craniofacial and cardiac abnormalities, including cleft lip or palate. It is a major contraindicated retinoid question in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "The current isotretinoin information describes craniofacial, cardiac, central-nervous-system, thymic and limb malformations and states that the risk is increased with any first-trimester exposure, regardless of dose or duration.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK582775/"
+    }
+  },
+  {
+    "id": "s2peds-1284",
+    "category": "Teratogen exposure",
+    "q": "Which heart defect is the classic lithium teratogen question?",
+    "a": "Lithium is classically linked to Ebstein anomaly, in which the tricuspid valve is displaced downward into the right ventricle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "UKTIS estimates first-trimester lithium exposure may increase the malformation rate to about 1 per 10 exposed pregnancies, driven mainly by cardiac defects. The absolute Ebstein-anomaly risk is low, and later fetal echocardiography is recommended.",
+      "url": "https://uktis.org/monographs/use-of-lithium-in-pregnancy/"
+    }
+  },
+  {
+    "id": "s2peds-1285",
+    "category": "Teratogen exposure",
+    "q": "Why is methotrexate a first-trimester teratogen answer in the source?",
+    "a": "Methotrexate is a folate antagonist and is associated with neural-tube defects and other congenital abnormalities. The source also frames it as a first-trimester abortifacient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "MotherToBaby lists possible miscarriage and congenital anomalies such as skull defects, facial features, limb differences and growth problems after first-trimester exposure. Merck calls methotrexate contraindicated in pregnancy except when treating ectopic pregnancy under a strict protocol.",
+      "url": "https://mothertobaby.org/fact-sheets/methotrexate-pregnancy/"
+    }
+  },
+  {
+    "id": "s2peds-1286",
+    "category": "Teratogen exposure",
+    "q": "What fetal and labor complications does the source associate with third-trimester NSAID use?",
+    "a": "It lists premature ductus arteriosus closure, oligohydramnios and inhibition of labor. The fetal renal effect lowers amniotic fluid, while ductal constriction can lead to pulmonary hypertension.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "FDA recommends avoiding NSAIDs at 20 weeks or later in pregnancy unless a clinician recommends otherwise because renal dysfunction can cause low amniotic fluid; later use can also impair labor and cause fetal ductus arteriosus closure.",
+      "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic"
+    }
+  },
+  {
+    "id": "s2peds-1287",
+    "category": "Teratogen exposure",
+    "q": "Which pregnancy warning does the source give for ribavirin?",
+    "a": "Ribavirin is associated with craniofacial anomalies and fetal growth deficits. The source emphasizes strong teratogenicity and prolonged avoidance of pregnancy after exposure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "The DailyMed label says ribavirin may cause birth defects or death of the fetus, requires two reliable forms of contraception, and says pregnancy must be avoided during treatment and for 6 months afterward by both treated patients and female partners of treated patients.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27c184e4-e8ac-4ec5-882f-cf4f27030e4c"
+    }
+  },
+  {
+    "id": "s2peds-1288",
+    "category": "Teratogen exposure",
+    "q": "Which dental and skeletal findings follow second- or third-trimester tetracycline exposure?",
+    "a": "Tetracyclines can permanently discolor fetal teeth and inhibit bone growth. Tooth staining occurs when mineralizing teeth are exposed, not simply from any first-trimester use.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck lists permanent discoloration of fetal teeth after second- or third-trimester exposure and reversible inhibition of long-bone growth, supporting the timing distinction.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/drug-safety-in-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1289",
+    "category": "Teratogen exposure",
+    "q": "What is the classic limb defect associated with thalidomide?",
+    "a": "Thalidomide causes phocomelia, with severe reduction or absence of the long bones and hands or feet arising near the trunk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "MotherToBaby describes upper- and lower-limb reduction defects, including phocomelia, and also reports eye, ear, heart, kidney and genital abnormalities. Exposure before the critical limb-formation period carries a substantially lower risk.",
+      "url": "https://mothertobaby.org/fact-sheets/thalidomide-pregnancy/"
+    }
+  },
+  {
+    "id": "s2peds-1290",
+    "category": "Teratogen exposure",
+    "q": "What fetal abnormalities does the source associate with warfarin exposure?",
+    "a": "It lists nasal and midface hypoplasia, skeletal or bone abnormalities, possible CNS defects such as Dandy-Walker malformation, and fetal bleeding. The recognizable image is stippled epiphyses with a hypoplastic nose.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck describes first-trimester nasal hypoplasia, bone stippling, blindness and intellectual disability, and warns that warfarin can cause fetal or neonatal hemorrhage at any gestational age. Dandy-Walker association should be treated as one reported CNS pattern, not the most specific defining feature.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/drug-safety-in-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1291",
+    "category": "Pregnancy substance exposure",
+    "q": "What does the source want students to distinguish between prescription teratogens and substances of abuse in pregnancy?",
+    "a": "Both tables list preventable fetal exposures, but the substance table emphasizes growth restriction, withdrawal and long-term neurodevelopment. The exposure name must be paired with the specific neonatal or delayed outcome rather than treated as a generic birth-defect list.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck reinforces that alcohol is a common teratogen, cocaine increases placental abruption, opioids cause neonatal abstinence syndrome, and tobacco can cause growth restriction, while polydrug use and social factors often complicate attribution.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/social-and-illicit-drugs-during-pregnancy"
+    },
+    "img": "/mehlman/figures/peds-p089-substances.png",
+    "imgAlt": "Actual source table of substance abuse in pregnancy with alcohol, stimulants, cocaine, heroin, MDMA and smoking entries"
+  },
+  {
+    "id": "s2peds-1292",
+    "category": "Pregnancy substance exposure",
+    "q": "What is the overall effect of maternal alcohol use in the source substance table?",
+    "a": "Alcohol can cause fetal alcohol syndrome, a spectrum of congenital abnormalities that can include facial features, heart and lung involvement, and growth or cognitive deficits.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "CDC states that there is no known safe amount, time or type of alcohol during pregnancy. Prenatal exposure can produce fetal alcohol spectrum disorders with physical, behavioral and learning problems.",
+      "url": "https://www.cdc.gov/fasd/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1293",
+    "category": "Pregnancy substance exposure",
+    "q": "Which facial clues should trigger fetal alcohol syndrome in a vignette?",
+    "a": "The source lists hypertelorism, midface hypoplasia, a short upturned nose, a smooth philtrum and a thin vermillion border.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "AAP says the three cardinal facial features of fetal alcohol syndrome are small palpebral fissures, a smooth philtrum and a thin upper lip or vermillion border; all three are required for an FAS diagnosis, although they may occur in other FASDs.",
+      "url": "https://www.aap.org/en/patient-care/fetal-alcohol-spectrum-disorders/diagnosis/differential-diagnosis-growth-defects-and-dysmorphic-features/"
+    }
+  },
+  {
+    "id": "s2peds-1294",
+    "category": "Pregnancy substance exposure",
+    "q": "How does the source classify fetal alcohol effects that lack the full classic dysmorphic presentation?",
+    "a": "It distinguishes full fetal alcohol syndrome from fetal alcohol effects, which may include growth restriction, learning or behavior problems without the complete facial and structural syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Current terminology uses fetal alcohol spectrum disorders as the umbrella. CDC notes that facial dysmorphology is not required for every FASD, so normal appearance does not exclude alcohol-related neurobehavioral injury.",
+      "url": "https://www.cdc.gov/fasd/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1295",
+    "category": "Pregnancy substance exposure",
+    "q": "What obstetric complication does the source associate with amphetamine or cocaine use?",
+    "a": "Both can increase preterm delivery risk. Stimulant vasoconstriction also plausibly reduces uteroplacental perfusion, but the source table gives the direct exam answer of preterm delivery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck reports that amphetamines may cause fetal growth restriction and increase premature delivery, while cocaine can also cause growth restriction, prematurity and placental abruption.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/social-and-illicit-drugs-during-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1296",
+    "category": "Pregnancy substance exposure",
+    "q": "Why does maternal cocaine use make painful third-trimester bleeding high yield?",
+    "a": "Cocaine is associated with abruptio placentae, causing painful vaginal bleeding, uterine irritability and possible fetal distress. The mechanism is acute maternal hypertension and vasoconstriction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck specifically lists placental abruption among cocaine-related complications and cautions that cocaine testing or withdrawal can be confounded by polysubstance use and social instability.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/social-and-illicit-drugs-during-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1297",
+    "category": "Source table correction",
+    "q": "What should be done with the source second cocaine row that repeats anti-epileptic defects?",
+    "a": "Treat it as an internal source-table duplication or formatting error, not as a cocaine fact. The row says cocaine may cause fetal hydantoin syndrome, wide-set eyes and neural-tube defects, but those findings belong to the anti-epileptic row above it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "The actual p89 table visibly repeats the anti-epileptic neural-tube/fetal-hydantoin wording under a second cocaine row. Preserve the source error explicitly: cocaine is more specifically linked in the source and current references to prematurity and placental abruption, not hydantoin embryopathy.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/social-and-illicit-drugs-during-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1298",
+    "category": "Pregnancy substance exposure",
+    "q": "Which withdrawal signs follow in utero heroin or other opioid exposure?",
+    "a": "The source lists piloerection, yawning and rhinorrhea. Those autonomic signs can accompany the more familiar tremor, irritability, feeding difficulty and high-pitched cry of neonatal withdrawal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "ACOG describes neonatal abstinence syndrome after opioid exposure with irritability, hypertonicity, tremors, feeding intolerance, seizures and respiratory distress. Maintenance methadone or buprenorphine is preferred over medically supervised withdrawal for opioid use disorder in pregnancy.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/08/opioid-use-and-opioid-use-disorder-in-pregnancy"
+    }
+  },
+  {
+    "id": "s2peds-1299",
+    "category": "Pregnancy substance exposure",
+    "q": "What should be taken from the source MDMA entry about cognitive deficits?",
+    "a": "The source associates MDMA with intrauterine growth restriction and cognitive deficits, but the stronger current statement is that long-term developmental risk remains uncertain because studies are small and usually involve polysubstance exposure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "MotherToBaby says it is not known whether MDMA increases behavior or learning problems. A small longitudinal study found dose-related motor delay through 24 months and a lower cognitive score at 12 months, but confounding prevents treating broad cognitive deficits as proven.",
+      "url": "https://mothertobaby.org/fact-sheets/mdma/"
+    }
+  },
+  {
+    "id": "s2peds-1300",
+    "category": "Pregnancy substance exposure",
+    "q": "What does the source link to maternal smoking in pregnancy?",
+    "a": "Smoking is associated with intrauterine growth restriction and reduced IQ or neurodevelopment. The clearest high-yield obstetric result is a small-for-gestational-age fetus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 89,
+      "url": "/mehlman/hy-pediatrics.pdf#page=89"
+    },
+    "guideline": {
+      "text": "Merck lists spontaneous abortion, low birth weight, prematurity, premature rupture of membranes, placental abruption and placenta previa with tobacco smoking. Long-term cognitive effects are possible but confounded and less specific than the growth and obstetric risks.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/social-and-illicit-drugs-during-pregnancy"
+    }
   }
 ];
