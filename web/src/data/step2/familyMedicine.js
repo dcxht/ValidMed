@@ -40096,6 +40096,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 166,
       "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "ATNAA labeling revised July 2022 describes atropine as blocking muscarinic acetylcholine effects at smooth/cardiac muscle, glands and nervous-system sites, with relief of airway constriction. This does not make routine antimuscarinic effects identical to neuromuscular-junction blockade or establish skeletal-muscle relaxation as a universal class effect. Dose and agent matter.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=596c7a8f-27cd-4de2-9491-476f43570b8b"
     }
   },
   {
