@@ -14967,5 +14967,494 @@ export default [
       "text": "CDC considers direct lesion detection definitive for early syphilis, but darkfield expertise is not universally available. Use appropriate serology and validated direct tests; early negative serology does not automatically exclude disease.",
       "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
     }
+  },
+  {
+    "id": "s2peds-1077",
+    "category": "Syphilis, HSV and PID",
+    "q": "What is the correct classification of the source VDRL, RPR and FTA syphilis tests?",
+    "a": "VDRL and RPR are nontreponemal tests. FTA-ABS is treponemal. The PDF traditional screening-then-confirmation concept is useful, but its grouping of RPR with FTA as a confirmatory test is incorrect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC requires a nontreponemal plus a treponemal test for presumptive serologic diagnosis. A reactive VDRL or RPR is confirmed with a treponemal assay; RPR is not treponemal confirmation of VDRL. Laboratories may also use a reverse-sequence algorithm.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1078",
+    "category": "Syphilis, HSV and PID",
+    "q": "Why can the source patient with lupus or antiphospholipid syndrome have a positive VDRL without syphilis?",
+    "a": "A biologic false-positive nontreponemal test can occur with autoimmune disease. Confirm with an appropriate treponemal test rather than diagnosing syphilis from VDRL alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC lists autoimmune conditions among several causes of false-positive nontreponemal results. Reactive results require treponemal confirmation and interpretation with the history and examination.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1079",
+    "category": "Syphilis, HSV and PID",
+    "q": "In the source 24-year-old with a back rash and negative KOH preparation, which syphilis test is the intended answer?",
+    "a": "FTA, a treponemal test, is the PDF answer for suspected secondary syphilis. A negative KOH preparation makes a superficial fungal explanation less supported; it does not establish syphilis by itself.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC diagnosis combines clinical findings with both nontreponemal and treponemal serology. Do not treat an isolated negative fungal test or isolated treponemal result as a complete diagnostic algorithm.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1080",
+    "category": "Syphilis, HSV and PID",
+    "q": "What drug does the source use for all stages of syphilis, and what must change with the clinical stage?",
+    "a": "Parenteral penicillin G is preferred, but the preparation, route, dose and duration depend on stage and neurologic involvement. The source one-word penicillin answer is not a single universal regimen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC distinguishes benzathine penicillin from aqueous crystalline penicillin for CNS disease. Oral penicillin and the combined benzathine-procaine product are not interchangeable substitutes for the recommended preparation.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1081",
+    "category": "Syphilis, HSV and PID",
+    "q": "How does the source handle penicillin allergy in a pregnant patient with syphilis?",
+    "a": "Desensitize and give penicillin when a true allergy is present. The source emphasizes that the needed effective therapy should not simply be replaced with an inferior agent.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC states penicillin G is the only therapy with documented efficacy during pregnancy. Reported allergy needs appropriate evaluation; when desensitization is needed, it is a specialist procedure in a monitored setting, not an unsupervised dose trial.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1082",
+    "category": "Syphilis, HSV and PID",
+    "q": "Does the source rule desensitize every allergic patient with tertiary syphilis exactly match CDC guidance?",
+    "a": "The PDF groups tertiary disease with pregnancy and neurosyphilis for desensitization plus penicillin. CDC instead calls for infectious-disease consultation for any penicillin-allergic patient with tertiary syphilis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "All tertiary cases need a CSF examination before treatment. With normal CSF and no neurosyphilis, the recommended nonallergic adult regimen is benzathine penicillin G 2.4 million units IM weekly for three weeks. Abnormal CSF requires a neurosyphilis regimen; allergy decisions are specialist-guided.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/tertiary-syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1083",
+    "category": "Syphilis, HSV and PID",
+    "q": "What qualification applies to the PDF desensitization-plus-penicillin answer for neurosyphilis with penicillin allergy?",
+    "a": "Penicillin remains preferred; specialist-guided allergy evaluation and desensitization may be needed. Do not give standard penicillin directly to a patient with a true immediate allergy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC recommends aqueous crystalline penicillin G IV for 10-14 days. Limited data support ceftriaxone 1-2 g IM or IV daily for 10-14 days as an alternative. If ceftriaxone safety is a concern, confirm allergy with testing and, if needed, desensitize with a specialist. This differs from an absolute no-alternative rule.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/neurosyphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-1084",
+    "category": "Syphilis, HSV and PID",
+    "q": "Is the PDF statement that any mere beta-lactam rash permits another beta-lactam dose safe as a blanket rule?",
+    "a": "No. A remote nonurticarial rash is different from hives, anaphylaxis or a severe skin reaction. The original reaction must be characterized before choosing the drug or deciding on testing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC treats a nonurticarial rash as a low-risk history in its ceftriaxone approach, but that is not permission for every penicillin exposure. Severe reactions such as Stevens-Johnson syndrome or toxic epidermal necrolysis are not candidates for routine skin testing or challenge. Negative indicated skin testing plus an observed oral challenge supports safe conventional penicillin use.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/penicillin-allergy.htm"
+    }
+  },
+  {
+    "id": "s2peds-1085",
+    "category": "Syphilis, HSV and PID",
+    "q": "What lesion pattern and recurrence history suggest the source HSV-1 or HSV-2 diagnosis?",
+    "a": "Painful vesicles or ulcers recurring at variable intervals, often months apart. The source associates HSV with burning, stinging or itching pain and emphasizes the recurring pattern rather than a fixed interval.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC notes that classic lesions can be absent and that recurrent genital disease is more frequent with HSV-2 than genital HSV-1. If lesions are present, confirm with type-specific lesion NAAT or culture rather than appearance alone.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2peds-1086",
+    "category": "Syphilis, HSV and PID",
+    "q": "How does the source compare primary genital HSV infection with recurrence?",
+    "a": "Primary infection is often more severe, with numerous painful vesicles, fever and regional lymphadenopathy. Recurrences tend to be milder and can be preceded by tingling, burning or itching at the affected site.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC recommends antiviral therapy for every first clinical episode, including initially mild episodes. Recurrent symptomatic disease can be treated episodically or with suppressive therapy; the severity contrast is a typical pattern, not a guarantee.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2peds-1087",
+    "category": "Syphilis, HSV and PID",
+    "q": "What encephalitis clues does the source link to HSV?",
+    "a": "Confusion with temporal-lobe involvement and possible red blood cells in CSF from hemorrhagic necrosis. The PDF blood-in-CSF clue supports HSV encephalitis but is not required for diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "Merck describes temporal and orbitofrontal MRI abnormalities, CSF PCR testing, and possible RBCs from hemorrhagic necrosis. Start IV acyclovir promptly when HSV encephalitis is suspected; do not wait for confirmatory testing.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/brain-infections/encephalitis"
+    }
+  },
+  {
+    "id": "s2peds-1088",
+    "category": "Syphilis, HSV and PID",
+    "q": "What is herpetic whitlow in the source HSV differential?",
+    "a": "HSV infection causing one or more painful vesicles on a finger. It is a local HSV manifestation, not a genital ulcer or a different organism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "Merck describes a swollen, painful erythematous finger lesion from skin inoculation of HSV, including in children who suck their thumbs or bite their nails.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/herpes-simplex-virus-hsv-infections"
+    }
+  },
+  {
+    "id": "s2peds-1089",
+    "category": "Syphilis, HSV and PID",
+    "q": "Can a negative viral culture rule out the source HSV presentation?",
+    "a": "No. Viral culture is not fully sensitive, especially with recurrent or healing lesions. The PDF explicitly allows a negative culture in an HSV vignette.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC prefers lesion NAAT when available. Negative lesion NAAT or culture, particularly from an older lesion or when no active lesion is present, does not exclude HSV because shedding can be intermittent.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2peds-1090",
+    "category": "Syphilis, HSV and PID",
+    "q": "Which antivirals does the source list for HSV, and what separates genital treatment from encephalitis treatment?",
+    "a": "Acyclovir or valacyclovir. Uncomplicated genital episodes can use oral therapy, while suspected HSV encephalitis needs prompt IV acyclovir rather than the routine oral genital regimen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC also lists famciclovir for genital herpes. First episodes receive 7-10 days of oral therapy, extended if not healed; severe CNS disease requires IV treatment and encephalitis usually needs 14-21 days. Antivirals control symptoms but do not eradicate latent virus.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2peds-1091",
+    "category": "Syphilis, HSV and PID",
+    "q": "Which source organism causes chancroid, and how does its lesion contrast with the classic syphilitic chancre?",
+    "a": "Haemophilus ducreyi, a gram-negative rod, causes a painful genital ulcer. The classic primary syphilitic chancre is painless. The source suffix mnemonic means chancroid resembles a chancre but is not syphilis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC describes one or more deep painful ulcers, sometimes with tender suppurative inguinal nodes. Primary syphilis can also be painful, so pain alone does not safely distinguish the infections.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chancroid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1092",
+    "category": "Syphilis, HSV and PID",
+    "q": "What source travel vignette should raise chancroid without making geography a diagnostic requirement?",
+    "a": "A painful genital ulcer after travel abroad, classically the PDF backpacking example in Africa or South America. Use it as a possible exposure clue, not an automatic diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC reports declining chancroid prevalence, with sporadic U.S. outbreaks and continued occurrence in some African regions and the Caribbean. Probable diagnosis requires a compatible ulcer and exclusion of syphilis and HSV; a traveler can still have HSV or another cause.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chancroid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1093",
+    "category": "Syphilis, HSV and PID",
+    "q": "Why does the source favor HSV over chancroid when a small painful genital lesion keeps recurring?",
+    "a": "HSV establishes latency and can recur as a single small lesion. H. ducreyi does not produce the usual latent recurrent HSV pattern. Lesion number alone is not decisive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC emphasizes testing genital ulcers. Chancroid can have one or more ulcers; compatible symptoms plus negative syphilis and HSV testing are part of its probable diagnosis. The PDF repeated warning that chancroid is usually an exam distractor is test-taking commentary, not a clinical exclusion rule.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chancroid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1094",
+    "category": "Syphilis, HSV and PID",
+    "q": "What treatments does the source list for chancroid despite its claim that treatment is unlikely to be tested?",
+    "a": "Azithromycin or ceftriaxone. Keep the clinical treatment point rather than relying on the PDF prediction about exam frequency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC recommended options include azithromycin 1 g orally once or ceftriaxone 250 mg IM once; other listed regimens exist. This ceftriaxone dose belongs to chancroid and should not be confused with current gonorrhea treatment.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chancroid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1095",
+    "category": "Syphilis, HSV and PID",
+    "q": "Which source organisms and ascending process cause PID-related ectopic pregnancy risk?",
+    "a": "Chlamydia trachomatis or Neisseria gonorrhoeae can ascend into the uterus and fallopian tubes, causing inflammation, ciliary damage and scarring. Impaired tubal transport increases infertility and ectopic pregnancy risk; the source highlights ampullary implantation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC describes PID as a spectrum of upper-tract inflammation and emphasizes that other organisms, including vaginal anaerobes, can contribute. A negative cervical gonorrhea or chlamydia result does not exclude upper-tract infection.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1096",
+    "category": "Syphilis, HSV and PID",
+    "q": "How should the source cervical-motion and adnexal tenderness clues be used in suspected PID?",
+    "a": "Cervical-motion tenderness and adnexal tenderness are important clues in a patient with pelvic or lower abdominal pain. The PDF immediate-PID shortcut should not replace consideration of ectopic pregnancy, torsion, appendicitis or other causes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC supports a low threshold for empiric treatment in an at-risk patient with otherwise unexplained pelvic pain and at least one of cervical-motion, uterine or adnexal tenderness. No single finding is both sensitive and specific, and requiring all three can miss PID.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1097",
+    "category": "Syphilis, HSV and PID",
+    "q": "Why is bilateral peritoneal dye spill normal on the source hysterosalpingogram?",
+    "a": "The uterine tubes communicate with the uterine cavity at one end and open into the peritoneal cavity at the fimbrial end. Dye passing through patent tubes can spill into the peritoneum on both sides. Fimbriae normally help capture the ovum released from the ruptured ovarian follicle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 77,
+      "url": "/mehlman/hy-pediatrics.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2peds-1098",
+    "category": "PID imaging and congenital infections",
+    "q": "What normal finding is shown in the actual source hysterosalpingogram?",
+    "a": "Contrast fills the uterus and both fallopian tubes, then spills into the peritoneal cavity bilaterally. The visible bilateral spill indicates tubal patency in this source example.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "RadiologyInfo describes HSG as fluoroscopic assessment of uterine shape and tubal openness, with contrast passing through the uterus, tubes and peritoneal cavity. This is the actual PDF figure, not a generated diagram.",
+      "url": "https://www.radiologyinfo.org/en/info/hysterosalp"
+    },
+    "img": "/mehlman/figures/peds-p078-normal-hsg.jpg"
+  },
+  {
+    "id": "s2peds-1099",
+    "category": "PID imaging and congenital infections",
+    "q": "What does the actual source blocked-tube illustration show after prior PID?",
+    "a": "Contrast does not pass through and spill beyond the blocked tube. The source explains that prior PID can scar and seal a fallopian tube, producing failure of expected peritoneal spill.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "RadiologyInfo lists infection-related scarring and tubal blockage among conditions assessed by HSG. The source image is an illustration, unlike the radiographic normal HSG above; it is not a new patient radiograph.",
+      "url": "https://www.radiologyinfo.org/en/info/hysterosalp"
+    },
+    "img": "/mehlman/figures/peds-p078-blocked-hsg.jpg"
+  },
+  {
+    "id": "s2peds-1100",
+    "category": "PID imaging and congenital infections",
+    "q": "What is the source next investigation when fever and adnexal pain persist despite PID antibiotics?",
+    "a": "Pelvic ultrasound to look for a tubo-ovarian abscess, a potential PID complication. Persistent symptoms require reassessment, not indefinite continuation of an ineffective outpatient regimen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "CDC recommends hospitalization, assessment of the regimen and additional diagnostics if no clinical improvement occurs within 72 hours of outpatient treatment. A tubo-ovarian abscess itself is a hospitalization criterion; severe deterioration needs earlier reassessment.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm"
+    }
+  },
+  {
+    "id": "s2peds-1101",
+    "category": "PID imaging and congenital infections",
+    "q": "What is Fitz-Hugh-Curtis syndrome in the source PID discussion?",
+    "a": "Perihepatitis: extension of the PID-associated inflammatory process to the liver capsule. This can add right-upper-quadrant pain to the pelvic infection picture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Merck notes that the syndrome can mimic acute cholecystitis and is distinguished through evidence of salpingitis and appropriate evaluation. Liver-capsule inflammation is different from asserting that PID causes primary hepatitis in the liver parenchyma.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/vaginitis-cervicitis-and-pelvic-inflammatory-disease/pelvic-inflammatory-disease-pid"
+    }
+  },
+  {
+    "id": "s2peds-1102",
+    "category": "PID imaging and congenital infections",
+    "q": "What does the source TORCHeS grouping refer to?",
+    "a": "Congenital infections in the neonate associated with maternal infection during pregnancy. This page begins with toxoplasmosis and the Other group of parvovirus B19 and varicella; the remaining infections continue on later pages.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2peds-1103",
+    "category": "PID imaging and congenital infections",
+    "q": "What triad suggests congenital toxoplasmosis in the source neonate?",
+    "a": "Hydrocephalus, chorioretinitis and intracranial calcifications. Recognize the combined neurologic and eye pattern rather than requiring a maternal cat-litter history.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Merck confirms this classic triad but notes that many infected newborns are asymptomatic at birth and may develop neurologic or eye complications later. Absence of the complete triad does not exclude congenital infection.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/infections-in-neonates/congenital-toxoplasmosis"
+    }
+  },
+  {
+    "id": "s2peds-1104",
+    "category": "PID imaging and congenital infections",
+    "q": "Can the source congenital toxoplasmosis case occur without a stated cat exposure?",
+    "a": "Yes. The mother may acquire Toxoplasma through inadequately cooked meat, including the source pork example; cat-litter exposure does not have to appear in the history.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Merck describes tissue cysts in inadequately cooked meat and oocysts in food or water contaminated by cat feces. The relevant exposure is infection risk, not simply owning a cat.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/infections-in-neonates/congenital-toxoplasmosis"
+    }
+  },
+  {
+    "id": "s2peds-1105",
+    "category": "PID imaging and congenital infections",
+    "q": "Why does the source highlight parvovirus B19 in a fetus or neonate with anemia, especially with sickle cell disease?",
+    "a": "Parvovirus can suppress red-cell production and cause severe anemia or an aplastic crisis. Sickle cell disease and other shortened-red-cell-survival disorders make an interruption in erythropoiesis more dangerous.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Merck identifies transient erythropoiesis suppression, transient aplastic crisis in underlying RBC disorders and persistent pure red-cell aplasia with immunocompromise. Do not assume that B19 must suppress every blood-cell line.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/miscellaneous-viral-infections-in-infants-and-children/erythema-infectiosum"
+    }
+  },
+  {
+    "id": "s2peds-1106",
+    "category": "PID imaging and congenital infections",
+    "q": "How does the source distinguish aplastic anemia from pure red-cell aplasia, and what terminology needs care for B19?",
+    "a": "The PDF describes aplastic anemia as depression of RBCs, WBCs and platelets, versus pure RBC aplasia affecting the red-cell line alone. B19-associated aplastic crisis usually refers to acute erythropoiesis suppression, not proof of generalized marrow failure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Merck distinguishes true aplastic anemia, a stem-cell disorder with cytopenias in at least two lineages and hypocellular marrow, from erythroid-restricted pure RBC aplasia. The source three-lines-down shorthand should not be imposed on every parvovirus case.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/aplastic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-1107",
+    "category": "PID imaging and congenital infections",
+    "q": "What does fetal hydrops mean in the source maternal viral-illness vignette?",
+    "a": "Abnormal fetal fluid accumulation that may result from severe anemia and high-output cardiac failure. Maternal flu-like illness followed by fetal hydrops is a classic source clue for parvovirus B19.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Hydrops is a fluid-accumulation finding, not simply a synonym for heart failure: it involves two or more extravascular compartments and has many causes. The cited 2025 report describes B19 injury to erythroid precursors and anemia-related high-output failure among its mechanisms; the PDF vignette is not proof that every hydropic fetus has B19.",
+      "url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2025.1611058/full"
+    }
+  },
+  {
+    "id": "s2peds-1108",
+    "category": "PID imaging and congenital infections",
+    "q": "How does the source propose confirming suspected parvovirus B19 in a neonate, and what additional test may be used?",
+    "a": "Check neonatal parvovirus B19 IgM, the PDF answer. Testing must be chosen for the clinical setting; an antibody test is not the only method for congenital infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Merck describes quantitative PCR detection of B19 viremia as generally used in fetuses or neonates with hydrops or congenital infection, as well as patients with transient or chronic aplasia. CBC and reticulocyte assessment help evaluate the hematologic effect.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/miscellaneous-viral-infections-in-infants-and-children/erythema-infectiosum"
+    }
+  },
+  {
+    "id": "s2peds-1109",
+    "category": "PID imaging and congenital infections",
+    "q": "Which congenital findings does the source associate with maternal varicella infection?",
+    "a": "Microcephaly and limb hypoplasia. These belong to congenital varicella syndrome, not the classic toxoplasmosis triad.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 78,
+      "url": "/mehlman/hy-pediatrics.pdf#page=78"
+    },
+    "guideline": {
+      "text": "CDC describes a small risk of congenital varicella syndrome after maternal infection in the first or early second trimester, including skin scarring and limb, brain and eye abnormalities with low birth weight. Maternal infection does not mean every fetus will have this syndrome.",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-guidance/index.html"
+    }
   }
 ];
