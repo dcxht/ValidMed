@@ -1766,7 +1766,7 @@ export default [
     "id": "s2neuro-0147",
     "category": "Hydrocephalus and cognitive disorders",
     "q": "Which pathological deposits and inherited associations does the source give for Alzheimer disease?",
-    "a": "Beta-amyloid plaques and hyperphosphorylated-tau neurofibrillary tangles, described as biopsy findings rather than a routine indication to biopsy. APP on chromosome21 links Down syndrome to early disease; presenilin mutations affect amyloid cleavage.",
+    "a": "Beta-amyloid plaques and hyperphosphorylated-tau neurofibrillary tangles, described as biopsy findings rather than a routine indication to biopsy. APP on chromosome 21 links Down syndrome to early disease; presenilin mutations affect amyloid cleavage.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 21,
@@ -2054,13 +2054,17 @@ export default [
   {
     "id": "s2neuro-0171",
     "category": "Movement disorders",
-    "q": "Which nerve, visual findings and MS association define source optic neuritis?",
-    "a": "Inflammation of CN II with changes in acuity/color vision or a central scotoma. It calls this nearly synonymous with MS on exams, but later acknowledges other causes; it is not uniquely diagnostic of MS.",
+    "q": "Which nerve, visual findings, MS association and drug examples define source optic neuritis?",
+    "a": "Inflammation of CN II with changes in acuity/color vision or a central scotoma. It calls this nearly synonymous with MS on exams, but later acknowledges other causes; it is not uniquely diagnostic of MS. Page 25 gives ethambutol and sildenafil as alternative exposure examples; this preserves its optic-neuritis label rather than proving every drug-related visual effect is inflammatory neuritis.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 23,
       "url": "/mehlman/hy-neuro.pdf#page=23"
-    }
+    },
+    "sourcePages": [
+      23,
+      25
+    ]
   },
   {
     "id": "s2neuro-0172",
@@ -3217,7 +3221,7 @@ export default [
     "id": "s2neuro-0267",
     "category": "Encephalopathy and neuropathic pain",
     "q": "Which renal, metabolic, toxic, inflammatory and oxygen causes of encephalopathy does the source list?",
-    "a": "Uremia/elevatedBUN with renal failure; electrolytes, hypoglycemia or thyroid storm; toxins including lead/Reye; herpes infection or lupus cerebritis; and reduced brain oxygen delivery.",
+    "a": "Uremia/elevated BUN with renal failure; electrolytes, hypoglycemia or thyroid storm; toxins including lead/Reye; herpes infection or lupus cerebritis; and reduced brain oxygen delivery.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 34,
@@ -3287,7 +3291,7 @@ export default [
     "id": "s2neuro-0273",
     "category": "Sensory receptors and inherited disorders",
     "q": "What repeat, inheritance, chromosome and movement distinguish source Huntington disease?",
-    "a": "Autosomal-dominant CAG expansion on chromosome4 with caudate degeneration and choreoathetosis. Chorea means fast purposeless jerks; athetosis means slow writhing.",
+    "a": "Autosomal-dominant CAG expansion on chromosome 4 with caudate degeneration and choreoathetosis. Chorea means fast purposeless jerks; athetosis means slow writhing.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 34,
@@ -3457,14 +3461,14 @@ export default [
     "id": "s2neuro-0287",
     "category": "Tetanus vaccination and wound care",
     "q": "What childhood and adolescent tetanus-containing schedule does the source list?",
-    "a": "DTaP at 2, 4, 6 months,15-18 months and 4-6 years; Tdap at 11-12 years, then Td every 10 years in its wording. Current adult boosters can be Td or Tdap.",
+    "a": "DTaP at 2, 4, 6 months, 15-18 months and 4-6 years; Tdap at 11-12 years, then Td every 10 years in its wording. Current adult boosters can be Td or Tdap.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 36,
       "url": "/mehlman/hy-neuro.pdf#page=36"
     },
     "guideline": {
-      "text": "CDC confirms the 5-dose childhood DTaP series and Tdap at 11-12. After an adult has received Tdap, Td OR Tdap may be used for subsequent10-year boosters. Catch-up and special situations require their own schedules.",
+      "text": "CDC confirms the 5-dose childhood DTaP series and Tdap at 11-12. After an adult has received Tdap, Td OR Tdap may be used for subsequent 10-year boosters. Catch-up and special situations require their own schedules.",
       "url": "https://www.cdc.gov/tetanus/hcp/vaccine-recommendations/"
     }
   },
@@ -3472,7 +3476,7 @@ export default [
     "id": "s2neuro-0288",
     "category": "Tetanus vaccination and wound care",
     "q": "At what gestational window does the source give Tdap, and why?",
-    "a": "At27-36 weeks to protect the newborn from pertussis. The source does not state explicitly here that this is needed in every pregnancy.",
+    "a": "At 27-36 weeks to protect the newborn from pertussis. The source does not state explicitly here that this is needed in every pregnancy.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 36,
@@ -3487,14 +3491,14 @@ export default [
     "id": "s2neuro-0289",
     "category": "Tetanus vaccination and wound care",
     "q": "What complete-series wound-booster intervals does the PDF give?",
-    "a": "It says no treatment0-5 years, dirty-wound Td at 6-9 years and a booster for either wound at 10+ years. This source boundary is not the current CDC threshold: dirty/major-wound boosters begin at 5 years, not after 5.",
+    "a": "It says no treatment 0-5 years, dirty-wound Td at 6-9 years and a booster for either wound at 10+ years. This source boundary is not the current CDC threshold: dirty/major-wound boosters begin at 5 years, not after 5.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 36,
       "url": "/mehlman/hy-neuro.pdf#page=36"
     },
     "guideline": {
-      "text": "CDC: after a complete primary series, vaccinate for clean/minor wounds at 10+ years and dirty/major wounds at 5+ years. TIG is never indicated for clean/minor wounds. For dirty/major wounds, TIG is indicated with unknown/no/incomplete vaccination or HIV/severe immunodeficiency, not merely10+ years after a complete series. Give indicated TIG 250 IU IM, not IV.",
+      "text": "CDC: after a complete primary series, vaccinate for clean/minor wounds at 10+ years and dirty/major wounds at 5+ years. TIG is never indicated for clean/minor wounds. For dirty/major wounds, TIG is indicated with unknown/no/incomplete vaccination or HIV/severe immunodeficiency, not merely 10+ years after a complete series. Give indicated TIG 250 IU IM, not IV.",
       "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/"
     }
   },
@@ -3509,7 +3513,7 @@ export default [
       "url": "/mehlman/hy-neuro.pdf#page=36"
     },
     "guideline": {
-      "text": "CDC: after a complete primary series, vaccinate for clean/minor wounds at 10+ years and dirty/major wounds at 5+ years. TIG is never indicated for clean/minor wounds. For dirty/major wounds, TIG is indicated with unknown/no/incomplete vaccination or HIV/severe immunodeficiency, not merely10+ years after a complete series. Give indicated TIG 250 IU IM, not IV.",
+      "text": "CDC: after a complete primary series, vaccinate for clean/minor wounds at 10+ years and dirty/major wounds at 5+ years. TIG is never indicated for clean/minor wounds. For dirty/major wounds, TIG is indicated with unknown/no/incomplete vaccination or HIV/severe immunodeficiency, not merely 10+ years after a complete series. Give indicated TIG 250 IU IM, not IV.",
       "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/"
     }
   },
@@ -3829,7 +3833,7 @@ export default [
     "id": "s2neuro-0316",
     "category": "Brain injury and examination",
     "q": "How does the source use posturing and GCS in exam questions rather than arithmetic?",
-    "a": "It says its exam experience rarely requires calculating GCS but expects recognition that decorticate/decerebrate posturing means serious brain dysfunction/possible raised ICP or herniation. That exam observation is not a reason to avoid calculating/documenting GCS when clinically needed.",
+    "a": "It says its exam experience has never required formally calculating GCS, according to the author, but expects recognition that decorticate/decerebrate posturing means serious brain dysfunction/possible raised ICP or herniation. That exam observation is not a reason to avoid calculating/documenting GCS when clinically needed.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 39,
@@ -4014,7 +4018,7 @@ export default [
     "id": "s2neuro-0329",
     "category": "CNS tumors",
     "q": "Which childhood sellar-region tumor, embryology, field loss and pathology does the source emphasize?",
-    "a": "Craniopharyngioma: Rathke-pouch/roof-of-primitive-oral-cavity origin, bitemporal field loss, calcification, cholesterol crystals and recurrence. The source calls it a pituitary tumor; it is a sellar/suprasellar-region tumor rather than a pituitary adenoma.",
+    "a": "Craniopharyngioma: Rathke-pouch/roof-of-primitive-oral-cavity origin, bitemporal field loss, calcification, cholesterol crystals and recurrence. The source ranks it as the most common pituitary tumor in children/teenagers; it is a sellar/suprasellar-region tumor rather than a pituitary adenoma.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 41,
@@ -4577,7 +4581,7 @@ export default [
     "id": "s2neuro-0374",
     "category": "Seizure mimics and pediatric neurology",
     "q": "Which facial and organ features and epidemiologic rank does the source give for fetal alcohol syndrome?",
-    "a": "Thin upper lip, smooth/flat/long philtrum, midface hypoplasia, short nose and widely spaced eyes; heart/lung defects are also listed. It calls FAS the most common cause of intellectual disability, an unqualified source rank not independently verified here.",
+    "a": "Thin upper lip, smooth/flat/long philtrum, midface hypoplasia, short nose and widely spaced eyes; heart/lung defects are also listed, attributed in the source to defective neural-crest migration. That is an unverified source mechanism, not an established single explanation of all FAS defects. It calls FAS the most common cause of intellectual disability, an unqualified source rank not independently verified here.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 44,
@@ -4942,7 +4946,7 @@ export default [
     "id": "s2neuro-0405",
     "category": "Lysosomal storage disorders",
     "q": "Which inheritance, enzyme, substrate and corneal finding define source Hunter syndrome?",
-    "a": "X-linked iduronate-sulfatase deficiency with dermatan/heparan-sulfate glycosaminoglycan buildup. Coarse facial features, stridor and behavioral problems with no corneal clouding in its classic distinction.",
+    "a": "X-linked iduronate-sulfatase deficiency with dermatan/heparan-sulfate glycosaminoglycan buildup. Coarse facial features, stridor and aggressive behavior in the source description with no corneal clouding in its classic distinction.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 47,
@@ -5528,7 +5532,7 @@ export default [
     "id": "s2neuro-0455",
     "category": "Movement-disorder and antimuscarinic drugs",
     "q": "Which antihistamine can treat source acute dystonia, and what receptor distinction does the source stress?",
-    "a": "Diphenhydramine, a first-generation H1 blocker with strong antimuscarinic effects, can be an alternative to benztropine. Its motion-sickness vignette favors muscarinic blockade rather than H2/stomach-acid blockade.",
+    "a": "Diphenhydramine, a first-generation H1 blocker with strong antimuscarinic effects, can be an alternative to benztropine. Its motion-sickness vignette favors M3/muscarinic blockade rather than H2/stomach-acid blockade in its particular answer choices. That receptor-specific source answer is not a full account of motion-sickness pharmacology.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 52,
@@ -6104,7 +6108,7 @@ export default [
     "id": "s2neuro-0503",
     "category": "Anesthesia",
     "q": "Which appearance, nutritional property and anesthesia role does the source give for propofol?",
-    "a": "A white lipid emulsion with caloric content, used for general-anesthetic induction/maintenance in the source. It references a celebrity death as an anecdote, not an indication or a safe unsupervised-use example.",
+    "a": "A white lipid emulsion with caloric content, used for general-anesthetic induction/maintenance in the source. It references Michael Jackson's death as an anecdote, not an indication or a safe unsupervised-use example.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 55,
@@ -6218,7 +6222,7 @@ export default [
     "id": "s2neuro-0513",
     "category": "Local anesthesia and neurotoxic drugs",
     "q": "Which pump target and color-vision complaint does the source give for digoxin?",
-    "a": "Na/K-ATPase inhibition, with yellow/wavy vision in toxicity. The source labels this optic neuritis and references an artist; the label comparison supports visual disturbances without proving that specific inflammatory diagnosis.",
+    "a": "Na/K-ATPase inhibition, with yellow/wavy vision in toxicity. The source labels this optic neuritis and calls it Vincent van Gogh vision; the label comparison supports visual disturbances without proving that specific inflammatory diagnosis.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 56,
@@ -6421,7 +6425,7 @@ export default [
     "id": "s2neuro-0530",
     "category": "Rapid source vignettes",
     "q": "What antibody/electrodiagnostic/biopsy sequence does the rapid source give for suspected polymyositis?",
-    "a": "Anti-Jo1 or anti-Mi2 testing, or EMG/nerve-conduction studies, followed by selected muscle biopsy for confirmation. Its labels group distinct myositis phenotypes; no single listed antibody detects every inflammatory myopathy.",
+    "a": "Anti-Jo1 or anti-Mi2 testing, or EMG/nerve-conduction studies, followed by selected muscle biopsy for confirmation. Its labels group distinct myositis phenotypes; no single listed antibody detects every inflammatory myopathy. It contrasts PMR as lacking a single specific confirmatory diagnostic test.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 58,
@@ -6873,7 +6877,7 @@ export default [
     "id": "s2neuro-0566",
     "category": "Rapid source vignettes",
     "q": "Which neurologic, endocrine and hypertensive uses does the rapid source list for propranolol?",
-    "a": "Migraine prevention, akathisia, thyroid storm/peripheral T4-to-T3 reduction, essential tremor and selected hypertension-plus-tremor vignettes. It labels essential tremor bilateral resting tremor, conflicting with the action-tremor pattern.",
+    "a": "Migraine prevention, akathisia, thyroid storm/peripheral T4-to-T3 reduction, essential tremor and selected hypertension-plus-tremor vignettes. It labels essential tremor bilateral resting tremor, conflicting with the action-tremor pattern. For essential tremor it also specifies a young adult, autosomal-dominant inheritance and alcohol responsiveness in the source, not a recommendation to self-medicate.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 61,
@@ -6903,7 +6907,7 @@ export default [
     "id": "s2neuro-0568",
     "category": "Rapid source vignettes",
     "q": "Which sellar tumors does the rapid source favor for adult versus childhood bitemporal field loss?",
-    "a": "Adult prolactinoma; childhood craniopharyngioma, with Rathke-pouch/roof-of-primitive-pharynx origin. Field loss itself does not determine histology or hormone secretion.",
+    "a": "Adult prolactinoma and childhood craniopharyngioma, each ranked as the commonest pituitary tumor in its age group by the source, with Rathke-pouch/roof-of-primitive-pharynx origin. Field loss itself does not determine histology or hormone secretion.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 62,
@@ -7546,7 +7550,7 @@ export default [
     "id": "s2neuro-0621",
     "category": "Rapid source vignettes",
     "q": "How does the rapid source use middle age, hypertension and focal ischemia to choose a vascular test?",
-    "a": "In a person in their50s/60s with TIA, stroke or retinal-artery occlusion, it favors carotid-duplex ultrasound to seek symptomatic carotid plaque. Real acute stroke/TIA evaluation is broader and must not be replaced by this age/BP shortcut.",
+    "a": "In a person in their 50s/60s with TIA, stroke or retinal-artery occlusion, it favors carotid-duplex ultrasound to seek symptomatic carotid plaque. Real acute stroke/TIA evaluation is broader and must not be replaced by this age/BP shortcut.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 67,
@@ -7609,7 +7613,7 @@ export default [
     "id": "s2neuro-0626",
     "category": "Rapid source vignettes",
     "q": "Which medication combinations and severe-versus-low-stenosis examples does the source use for carotid disease?",
-    "a": "It lists statin plus clopidogrel OR aspirin/dipyridamole for symptomatic disease;90% stenosis favors endarterectomy and 50% medical therapy in its examples. An asymptomatic person with 10%/30% already taking aspirin/statin stays on treatment in its vignette. Symptomatic50% is not universally a no-surgery category.",
+    "a": "It lists statin plus clopidogrel OR aspirin/dipyridamole for symptomatic disease;90% stenosis favors endarterectomy and 50% medical therapy in its examples. An asymptomatic person with 10%/30% already taking aspirin/statin stays on treatment in its vignette. Symptomatic 50% is not universally a no-surgery category.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 68,

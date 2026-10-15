@@ -1,6 +1,6 @@
 # Neurology conversion ledger
 
-October 15, 2026. Partial: 658 active cards, 46 figure-bearing cards / 31 distinct actual source figures, 146 separately linked comparisons. First pass pp4-71; full second source/detail and clinical acceptance remain. Counts and page links are not proof of final coverage.
+October 15, 2026. Source conversion and acceptance complete: 658 active cards, 46 figure-bearing cards / 31 distinct actual source figures, 146 separately linked comparisons. Clinical pp4-71 received first conversion and complete second source-detail pass. This is conversion/product acceptance, not independent verification of every clinical fact.
 
 ## Intentional scope exclusions
 
@@ -34,7 +34,7 @@ October 15, 2026. Partial: 658 active cards, 46 figure-bearing cards / 31 distin
 | 22 | s2neuro-0151, s2neuro-0152, s2neuro-0153, s2neuro-0154, s2neuro-0155, s2neuro-0156, s2neuro-0157, s2neuro-0158, s2neuro-0159, s2neuro-0160, s2neuro-0161 |
 | 23 | s2neuro-0143, s2neuro-0144, s2neuro-0151, s2neuro-0162, s2neuro-0163, s2neuro-0164, s2neuro-0165, s2neuro-0166, s2neuro-0167, s2neuro-0168, s2neuro-0169, s2neuro-0170, s2neuro-0171, s2neuro-0172 |
 | 24 | s2neuro-0172, s2neuro-0173 |
-| 25 | s2neuro-0174, s2neuro-0175, s2neuro-0176, s2neuro-0177, s2neuro-0178 |
+| 25 | s2neuro-0171, s2neuro-0174, s2neuro-0175, s2neuro-0176, s2neuro-0177, s2neuro-0178 |
 | 26 | s2neuro-0179, s2neuro-0180, s2neuro-0181, s2neuro-0182, s2neuro-0183, s2neuro-0184, s2neuro-0185, s2neuro-0186, s2neuro-0187, s2neuro-0188, s2neuro-0189 |
 | 27 | s2neuro-0190, s2neuro-0191, s2neuro-0192, s2neuro-0193, s2neuro-0194, s2neuro-0195, s2neuro-0196, s2neuro-0197, s2neuro-0198, s2neuro-0199, s2neuro-0200 |
 | 28 | s2neuro-0201, s2neuro-0202, s2neuro-0203, s2neuro-0204, s2neuro-0205, s2neuro-0206, s2neuro-0207, s2neuro-0208, s2neuro-0209 |
@@ -134,3 +134,14 @@ All clinical pp4-71 now have first-pass Q/A, not full-conversion acceptance. Ful
 ### Product checkpoint through p71
 
 Twelve new rapid-source/long-comparison cards rendered at320x568, all24 top/bottom screenshots pixel-inspected in four contact sheets. Readable question/answer/source links and persistent controls; no horizontal overflow, bad images or offscreen action buttons. Four regression checks (schema, FM retirement, Psychiatry progress, Neurology progress) passed for658 local cards. All31 distinct figures retain prior native/mobile inspections. Neuro remains Partial pending full second-pass acceptance.
+
+
+## Final source/detail and product acceptance, 05:17 CDT
+
+All clinical pp4-71 re-read in full against658 questions in the second-detail pass. Restored the p25 ethambutol/sildenafil source examples, the precise never-calculated-GCS author claim, the childhood craniopharyngioma rank, the source FAS mechanism, Hunter behavior wording, the specific M3 answer choice, PMR no-specific-test contrast and rapid essential-tremor details. Repeated rapid vignettes with distinct question framing are retained; there are no normalized exact question or answer duplicates. All658 IDs remain stable, all page links match their PDF pages, all31 distinct figure files exist and their46 card placements retain prior actual-pixel checks.
+
+Twelve final long-note/revised cards rendered at320x568. All24 top/bottom screenshots inspected in four contact sheets. Narrow mobile layout, page links and controls intact; no bad images, horizontal overflow or offscreen action buttons. Earlier complete figure/mobile inspections remain applicable. Build/schema and saved-progress regressions pass.
+
+Verification limits: source question frequencies, epidemiologic ranks, broad diagnostic shortcuts, precise prognosis percentages and some mechanism claims remain attributed, not independently established. Separate146 source-linked comparisons address detected differences; they are a mix of guidelines, labels, clinical summaries and primary/secondary evidence, not146 new guidelines. MG thymoma80%-MuSK, FAS single-mechanism/rank and infantile-spasm/Lennox precise statistics remain unverified. Final USPSTF2023 GradeA usual-risk folic-acid recommendation controls prevention. No claim that every sentence was independently externally checked. Overall project remains Partial until Peds, Medicine, Surgery and OB/GYN finish.
+
+Final deployment verification is recorded after publication.
