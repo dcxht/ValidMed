@@ -11589,5 +11589,306 @@ export default [
       "url": "https://www.aafp.org/afp/2015/1201/p1004"
     },
     "img": "/mehlman/pediatrics/p059-reactive-neutrophils.jpg"
+  },
+  {
+    "id": "s2peds-0847",
+    "category": "Pediatric hematology",
+    "q": "Which alternative answer terms does the source use for infection-associated neutrophilic leukocytosis?",
+    "a": "Leukemoid reaction, reactive granulocytosis, or increased release of leukocytes from the bone marrow post-mitotic reserve pool. The latter describes release of already formed cells, not proof of leukemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "AAFP 2015 describes marrow storage-pool release in reactive leukocytosis. The common leukemoid-range definition is around 50,000-100,000/µL; reactive granulocytosis may occur below that range.",
+      "url": "https://www.aafp.org/afp/2015/1201/p1004"
+    }
+  },
+  {
+    "id": "s2peds-0848",
+    "category": "Pediatric hematology",
+    "q": "What is the intended diagnosis in the source UTI vignette with WBC 32,000/µL and the preceding neutrophil smear?",
+    "a": "Reactive neutrophilic leukocytosis, called a leukemoid reaction by the PDF. The infection and mature segmented cells explain its intended answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "AAFP 2015 places typical leukemoid-range counts higher than 32,000/µL. Use differential, smear, clinical course and other cell lines; neither a UTI nor one image rules out an accompanying malignancy.",
+      "url": "https://www.aafp.org/afp/2015/1201/p1004"
+    }
+  },
+  {
+    "id": "s2peds-0849",
+    "category": "Pediatric hematology",
+    "q": "What tissue does lymphoma involve in the source definition?",
+    "a": "Lymphatic tissue. The source says it often starts in lymph nodes and may involve the spleen and bone marrow.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI pediatric NHL PDQ emphasizes that children often have extranodal disease, including abdomen, mediastinum, head/neck, marrow or CNS. Nodal origin is not required in every pediatric lymphoma.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0850",
+    "category": "Pediatric hematology",
+    "q": "How does the source divide lymphomas?",
+    "a": "Hodgkin lymphoma and non-Hodgkin lymphoma, NHL. These are broad categories that still require subtype diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ separates childhood Hodgkin and NHL, and distinguishes classical Hodgkin from nodular lymphocyte-predominant disease; NHL includes multiple B- and T-lineage entities.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0851",
+    "category": "Pediatric hematology",
+    "q": "Is the source statement that lymphomas are almost always B-cell derived safe for every pediatric lymphoma?",
+    "a": "Most overall lymphomas are B-lineage, and classical Hodgkin arises from B cells, but the PDF shortcut is too broad for all pediatric NHL. Important childhood lymphomas are T-lineage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "Merck April 2026 explicitly recognizes B-, T- and NK-cell NHL and overlap with leukemia. NCI pediatric NHL PDQ includes lymphoblastic and anaplastic large cell lymphoma; do not erase those categories.",
+      "url": "https://www.merckmanuals.com/professional/oncology/lymphomas/non-hodgkin-lymphomas"
+    }
+  },
+  {
+    "id": "s2peds-0852",
+    "category": "Pediatric hematology",
+    "q": "Which infectious risk factors does the source associate with lymphoma?",
+    "a": "Epstein-Barr virus and HIV. The association depends on lymphoma subtype and the patient immune setting; infection does not itself diagnose lymphoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI pediatric Hodgkin PDQ discusses EBV in some tumors and increased Hodgkin incidence in HIV; pediatric NHL PDQ also identifies acquired immunodeficiency risk.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0853",
+    "category": "Pediatric hematology",
+    "q": "Which immune and autoimmune settings does the source list as lymphoma risks?",
+    "a": "General immunosuppression, including chronic corticosteroid or other immunosuppressant exposure, and autoimmune disease, with SLE and Hashimoto thyroiditis as PDF examples.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "Merck April 2026 supports immune suppression and selected autoimmune associations, including SLE in Hodgkin. Risk depends on disease, treatment and lymphoma subtype; the fetched general reviews do not independently quantify the PDF chronic-steroid or Hashimoto examples.",
+      "url": "https://www.merckmanuals.com/professional/oncology/lymphomas/hodgkin-lymphoma"
+    }
+  },
+  {
+    "id": "s2peds-0854",
+    "category": "Pediatric hematology",
+    "q": "Which cells and marker pattern characterize classical Hodgkin lymphoma in the source?",
+    "a": "Reed-Sternberg cells of B-cell origin, classically CD15-positive and CD30-positive. This describes classical Hodgkin, not every lymphoma bearing the Hodgkin name.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ says classical HRS cells almost always express CD30 but express CD15 in about 70%. Nodular lymphocyte-predominant cells have a different marker pattern; neither marker alone establishes the diagnosis.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0855",
+    "category": "Pediatric hematology",
+    "q": "What does the actual source Hodgkin histology image show?",
+    "a": "A large Reed-Sternberg-type cell with two conspicuous nuclear lobes and prominent nucleoli, creating the source owl-eye appearance, among smaller background cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ describes multinucleated HRS cells and mononuclear variants in an inflammatory background. This source image teaches morphology; diagnosis requires tissue architecture and immunophenotypic correlation.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    },
+    "img": "/mehlman/pediatrics/p060-reed-sternberg.jpg"
+  },
+  {
+    "id": "s2peds-0856",
+    "category": "Pediatric hematology",
+    "q": "What presenting neck or facial clue does the source prioritize for Hodgkin lymphoma?",
+    "a": "Painless lateral cervical lymphadenopathy or facial swelling. The PDF says this appears in all its recalled questions, but that is an exam-pattern claim, not a clinical rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ reports painless adenopathy in approximately 80%, commonly cervical or supraclavicular. Other presentations occur, so absence of a painless neck mass cannot exclude Hodgkin lymphoma.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0857",
+    "category": "Pediatric hematology",
+    "q": "Which additional organ finding may accompany the source Hodgkin neck-mass vignette?",
+    "a": "Hepatomegaly. It is one of the PDF additional clues, not a necessary feature of all cases.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "Merck April 2026 lists possible hepatomegaly but calls it unusual compared with splenomegaly. NCI PDQ includes liver among extranodal sites; its absence does not exclude disease.",
+      "url": "https://www.merckmanuals.com/professional/oncology/lymphomas/hodgkin-lymphoma"
+    }
+  },
+  {
+    "id": "s2peds-0858",
+    "category": "Pediatric hematology",
+    "q": "How should a mediastinal mass be interpreted in the source Hodgkin vignette?",
+    "a": "As mediastinal lymphadenopathy rather than automatically calling it a thymoma. The context is a suspected lymphoma, not a universal identity for every anterior mediastinal mass.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ reports mediastinal disease in about 75% of adolescents/young adults versus about 35% of younger children with Hodgkin. The full differential and tissue diagnosis still matter.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0859",
+    "category": "Pediatric hematology",
+    "q": "Which supraclavicular finding can support the source Hodgkin vignette?",
+    "a": "A palpable left supraclavicular Virchow node, called Troisier sign in the source. It is not restricted to gastric cancer; lymphoma can involve this region.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ explicitly includes supraclavicular adenopathy among common Hodgkin presentations. The PDF specific Virchow/Troisier naming and recalled NBME anecdote are source-attributed; location alone does not identify the cancer.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0860",
+    "category": "Pediatric hematology",
+    "q": "Which B symptoms may accompany Hodgkin lymphoma, and must all vignettes contain them?",
+    "a": "Fever, drenching night sweats and weight loss. They are not required for the diagnosis or for the source question pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ defines staging B symptoms as unexplained fever above 38°C, weight loss of 10% over six months, and drenching night sweats. Patients may lack them; constitutional symptoms occur in only a subset.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0861",
+    "category": "Pediatric hematology",
+    "q": "Can the source Hodgkin vignette have WBC 10,000/µL and lymphocytes 33%?",
+    "a": "Yes. A near-normal CBC and differential do not exclude lymphoma, because a tissue tumor need not create circulating leukocytosis. Interpret the supplied pediatric lab range in context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "Merck April 2026 says blood results can be abnormal but are nondiagnostic. Pediatric differential ranges are age-specific; normal peripheral counts do not replace evaluation of persistent suspicious nodes.",
+      "url": "https://www.merckmanuals.com/professional/oncology/lymphomas/hodgkin-lymphoma"
+    }
+  },
+  {
+    "id": "s2peds-0862",
+    "category": "Pediatric hematology",
+    "q": "Is the source contrast of lymphoma as a tissue cancer and leukemia as malignant blood cells absolute?",
+    "a": "No. It explains why a lymphoma vignette can have normal blood counts, but lymphomas can involve marrow or blood and leukemias can involve tissues.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "Merck April 2026 explicitly warns of considerable NHL/leukemia overlap with peripheral lymphocytosis and marrow involvement. The compartment shortcut is not a diagnostic boundary.",
+      "url": "https://www.merckmanuals.com/professional/oncology/lymphomas/non-hodgkin-lymphomas"
+    }
+  },
+  {
+    "id": "s2peds-0863",
+    "category": "Pediatric hematology",
+    "q": "Which Hodgkin subtype does the source associate with female patients?",
+    "a": "Nodular-sclerosing Hodgkin lymphoma. Use this as a source epidemiologic association, not a sex-based rule for excluding other subtypes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI pediatric PDQ verifies that nodular-sclerosing histology is especially common in older children/adolescents. The fetched section does not independently verify the PDF female preference, and sex distributions vary with age.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0864",
+    "category": "Pediatric hematology",
+    "q": "What prognosis association does the source make with the Hodgkin inflammatory background?",
+    "a": "A lymphocyte-rich background with relatively few malignant Reed-Sternberg cells is described as favorable; lymphocyte-depleted disease with relatively more malignant cells is described as less favorable.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ supports the histologic distinction and rarity of depleted disease in children. Modern prognosis also depends on stage, bulk, B symptoms and treatment response; the simple B-cell-to-RS ratio is not a standalone pediatric risk score.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0865",
+    "category": "Pediatric hematology",
+    "q": "Which translocation and oncogene does the source connect with Burkitt lymphoma?",
+    "a": "Classically t(8;14), involving MYC, historically called c-myc, and the immunoglobulin heavy-chain locus. Burkitt is an important pediatric B-cell NHL.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI pediatric NHL PDQ lists t(8;14) and variant t(2;8) and t(8;22) in Burkitt. NCI research overview describes MYC relocation near immunoglobulin regulatory elements; t(8;14) is not the only possible rearrangement.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0866",
+    "category": "Pediatric hematology",
+    "q": "Which anatomic presentations does the source associate with Burkitt lymphoma?",
+    "a": "A jaw mass in the classic endemic African-child vignette, or an abdominal mass, often in sporadic disease. These are epidemiologic patterns, not mutually exclusive diagnostic criteria.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 60,
+      "url": "/mehlman/hy-pediatrics.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI describes endemic, sporadic and immunodeficiency-associated Burkitt. Pediatric NHL PDQ lists jaw, abdominal, head/neck, marrow and CNS sites; geography alone neither confirms nor excludes the tumor.",
+      "url": "https://dceg.cancer.gov/about/organization/tdrp/iib/burkitt-lymphoma"
+    }
   }
 ];
