@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 217; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 234; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -8807,6 +8807,674 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 217,
       "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-0778",
+    "category": "Musculoskeletal",
+    "q": "Which nerve supplies sensation over the medial leg as a sensory branch of the femoral nerve?",
+    "a": "Saphenous nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-0779",
+    "category": "Musculoskeletal",
+    "q": "Pelvic drop on the opposite side during single-leg stance suggests weakness in which nerve distribution?",
+    "a": "Superior gluteal nerve, supplying gluteus medius and minimus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-0780",
+    "category": "Musculoskeletal",
+    "q": "Difficulty rising from a chair or climbing stairs from gluteus-maximus weakness suggests which nerve injury?",
+    "a": "Inferior gluteal nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-0781",
+    "category": "Musculoskeletal",
+    "q": "A reduced patellar reflex accompanies weak knee extension. Which root is emphasized?",
+    "a": "L4, classically affected by an L3-L4 disc herniation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-0782",
+    "category": "Musculoskeletal",
+    "q": "Loss of the Achilles reflex and weak plantarflexion suggest which root?",
+    "a": "S1, classically affected by an L5-S1 disc herniation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-0783",
+    "category": "Musculoskeletal",
+    "q": "Lateral hip tenderness worsens when lying on that side. Which peri-trochanteric disorder does the source describe?",
+    "a": "Trochanteric bursitis, within the greater-trochanteric pain syndrome differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-0784",
+    "category": "Musculoskeletal",
+    "q": "Anterior knee pain occurs in someone who kneels frequently. Which bursa is implicated?",
+    "a": "Prepatellar bursa, housemaid knee.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-0785",
+    "category": "Musculoskeletal",
+    "q": "Anterior knee pain occurs with prolonged sitting and stairs. Which syndrome is described?",
+    "a": "Patellofemoral pain syndrome. Quadriceps-strengthening exercises are named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-0786",
+    "category": "Musculoskeletal",
+    "q": "A positive Lachman or anterior drawer test suggests injury to which ligament?",
+    "a": "Anterior cruciate ligament.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-0787",
+    "category": "Musculoskeletal",
+    "q": "A dashboard injury causes posterior tibial displacement on drawer testing. Which ligament is injured?",
+    "a": "Posterior cruciate ligament.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-0788",
+    "category": "Musculoskeletal",
+    "q": "Which knee ligaments are assessed by valgus versus varus stress?",
+    "a": "Valgus assesses the medial collateral ligament; varus assesses the lateral collateral ligament.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-0789",
+    "category": "Musculoskeletal",
+    "q": "Knee pain with catching or locking and a positive McMurray maneuver suggests what injury?",
+    "a": "Meniscal tear.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-0790",
+    "category": "Musculoskeletal",
+    "q": "Inferomedial knee pain points to which bursa in the source?",
+    "a": "Pes anserine bursa.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-0791",
+    "category": "Musculoskeletal",
+    "q": "A runner has lateral knee pain associated with repetitive activity. Which band syndrome is described?",
+    "a": "Iliotibial band syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-0792",
+    "category": "Musculoskeletal",
+    "q": "An active growing adolescent has pain at the tibial tuberosity. What traction-related condition is described?",
+    "a": "Osgood-Schlatter disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-0793",
+    "category": "Musculoskeletal",
+    "q": "Heel pain is worst with the first steps in the morning. What condition is described?",
+    "a": "Plantar fasciitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-0794",
+    "category": "Musculoskeletal",
+    "q": "Forefoot pain is worsened by tight or high-heeled shoes with an interdigital nerve lesion. Which condition is described?",
+    "a": "Morton neuroma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-0795",
+    "category": "Musculoskeletal",
+    "q": "An inversion ankle sprain most commonly injures which ligament?",
+    "a": "Anterior talofibular ligament on the lateral ankle. Forced eversion can instead injure the medial deltoid ligament.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-family-medicine.pdf#page=221"
+    }
+  },
+  {
+    "id": "s2fm-0796",
+    "category": "Musculoskeletal",
+    "q": "According to the PDF Ottawa ankle criteria, which findings support ankle radiography?",
+    "a": "Malleolar-zone pain plus posterior-edge/tip tenderness at either malleolus or inability to take four weight-bearing steps. This is the source summary, not the separate midfoot rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-family-medicine.pdf#page=221"
+    }
+  },
+  {
+    "id": "s2fm-0797",
+    "category": "Musculoskeletal",
+    "q": "How does an open fracture differ from a closed fracture?",
+    "a": "An open fracture communicates through a skin wound; a closed fracture does not.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-0798",
+    "category": "Musculoskeletal",
+    "q": "A child has an incomplete fracture with one cortical side broken and the other bent. What type is described?",
+    "a": "Greenstick fracture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-0799",
+    "category": "Musculoskeletal",
+    "q": "Battle sign, periorbital bruising, rhinorrhea or otorrhea follow head injury. What fracture is suggested?",
+    "a": "Basilar skull fracture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-0800",
+    "category": "Musculoskeletal",
+    "q": "Anatomic-snuffbox tenderness follows a fall on the outstretched hand, but initial radiographs are negative. What fracture is suspected?",
+    "a": "Scaphoid fracture. The source emphasizes immobilization because of osteonecrosis/nonunion risk and repeat assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-0801",
+    "category": "Musculoskeletal",
+    "q": "A child has bowed legs, rachitic rosary and impaired mineralization of osteoid. What vitamin disorder is described?",
+    "a": "Rickets, commonly from vitamin D deficiency. The adult counterpart is osteomalacia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-0802",
+    "category": "Musculoskeletal",
+    "q": "Dense but brittle bones with recurrent childhood fractures suggest which osteoclast disorder?",
+    "a": "Osteopetrosis, caused by impaired bone resorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-0803",
+    "category": "Musculoskeletal",
+    "q": "An infant has a clubfoot. What initial treatment does the PDF name?",
+    "a": "Serial casting for talipes equinovarus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-0804",
+    "category": "Musculoskeletal",
+    "q": "A newborn has multiple joint contractures rather than only one clubfoot. Which descriptive diagnosis is given?",
+    "a": "Arthrogryposis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-0805",
+    "category": "Musculoskeletal",
+    "q": "Barlow/Ortolani instability suggests what hip-development problem?",
+    "a": "Developmental dysplasia of the hip, involving an inadequately developed acetabulum. The source names a Pavlik abduction harness in appropriate infants.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-0806",
+    "category": "Musculoskeletal",
+    "q": "A school-age child has hip pain and a flattened femoral head from idiopathic osteonecrosis. What disorder is described?",
+    "a": "Legg-Calve-Perthes disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2fm-0807",
+    "category": "Musculoskeletal",
+    "q": "An adolescent develops a painful limp from displacement of the proximal femoral epiphysis. What disorder is described?",
+    "a": "Slipped capital femoral epiphysis, SCFE. Obesity is a risk factor but is not required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2fm-0808",
+    "category": "Musculoskeletal",
+    "q": "A child has chronic inflammatory arthritis, sometimes with systemic features. What disease is described?",
+    "a": "Juvenile idiopathic arthritis. The source emphasizes symptoms can resemble septic arthritis and require careful evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-0809",
+    "category": "Musculoskeletal",
+    "q": "Silvery scaly extensor plaques accompany arthritis. Which disease is described?",
+    "a": "Psoriasis with psoriatic arthritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-0810",
+    "category": "Musculoskeletal",
+    "q": "Inflammatory back pain improves with activity and occurs with sacroiliitis. Which HLA-associated disease is emphasized?",
+    "a": "Ankylosing spondylitis, within the HLA-B27 spondyloarthritis group.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-0811",
+    "category": "Musculoskeletal",
+    "q": "Which SLE antibody does the source link with disease activity and renal disease, and which is highly specific?",
+    "a": "Anti-dsDNA is associated with activity/nephritis; anti-Smith is highly specific.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-0812",
+    "category": "Musculoskeletal",
+    "q": "Why can an SLE flare produce low complement levels?",
+    "a": "Immune-complex-driven complement consumption. The source emphasizes reduced C3.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-0813",
+    "category": "Musculoskeletal",
+    "q": "A hot acutely painful joint raises concern for infection. What diagnostic procedure does the source emphasize?",
+    "a": "Arthrocentesis. Failure to visualize organisms does not by itself exclude septic arthritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-0814",
+    "category": "Musculoskeletal",
+    "q": "Hip pain follows a viral illness in a child after septic arthritis has been excluded. What condition is described?",
+    "a": "Transient, or toxic, synovitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-0815",
+    "category": "Musculoskeletal",
+    "q": "An older adult has increasing hat size, bone pain and an isolated ALP elevation. What bone-remodeling disorder is described?",
+    "a": "Paget disease of bone, with increased disorganized turnover. Calcium/phosphate/PTH are usually normal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-0816",
+    "category": "Prevention",
+    "q": "Which women should receive osteoporosis screening under current USPSTF guidance?",
+    "a": "Women 65 or older, plus postmenopausal women younger than 65 who are at increased fracture risk after clinical risk assessment. USPSTF 2025, Grade B.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    },
+    "guideline": {
+      "text": "USPSTF 2025, Grade B. Applies to adults without known osteoporosis, fragility fracture or secondary osteoporosis requiring separate care.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/index.php/recommendation/osteoporosis-screening"
+    }
+  },
+  {
+    "id": "s2fm-0817",
+    "category": "Prevention",
+    "q": "What does USPSTF conclude about routine osteoporosis screening in men?",
+    "a": "Evidence is insufficient to assess the balance of benefits and harms. USPSTF 2025, I statement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    },
+    "guideline": {
+      "text": "USPSTF 2025, I statement. An I statement is not a recommendation against screening.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/index.php/recommendation/osteoporosis-screening"
+    }
+  },
+  {
+    "id": "s2fm-0818",
+    "category": "Musculoskeletal",
+    "q": "Which bone-density pattern does the PDF describe for osteoporosis compared with osteomalacia?",
+    "a": "Osteoporosis typically has normal calcium, phosphate, PTH and ALP; osteomalacia reflects impaired osteoid mineralization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-0819",
+    "category": "Musculoskeletal",
+    "q": "Which osteoporosis drug binds RANK ligand, and which is a PTH analogue?",
+    "a": "Denosumab binds RANK ligand; teriparatide is a PTH analogue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-0820",
+    "category": "Musculoskeletal",
+    "q": "A young patient has a malignant bone lesion with sunburst periosteal reaction and a Codman triangle. Which cancer is described?",
+    "a": "Osteosarcoma. Prior retinoblastoma and Paget disease are associations emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-0821",
+    "category": "Musculoskeletal",
+    "q": "A child has a diaphyseal bone tumor with fever and onion-skin periosteal change. Which tumor is described?",
+    "a": "Ewing sarcoma, associated with t(11;22).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-0822",
+    "category": "Musculoskeletal",
+    "q": "Which benign bone tumor classically causes pain relieved by NSAIDs?",
+    "a": "Osteoid osteoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-0823",
+    "category": "Musculoskeletal",
+    "q": "A young adult has a soap-bubble bone lesion. Which tumor is described?",
+    "a": "Giant-cell tumor of bone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-0824",
+    "category": "Musculoskeletal",
+    "q": "A child has a fluid-filled single-chamber bone lesion. What benign cyst is described?",
+    "a": "Unicameral, or simple, bone cyst.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-0825",
+    "category": "Musculoskeletal",
+    "q": "A boy has calf pseudohypertrophy and uses his hands to push up his thighs when standing. What dystrophy and maneuver are described?",
+    "a": "Duchenne muscular dystrophy and Gowers maneuver. Becker dystrophy is generally a later, milder dystrophinopathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-0826",
+    "category": "Musculoskeletal",
+    "q": "An older adult has shoulder/hip aching and morning stiffness with elevated ESR but normal strength and CK. What disorder is described?",
+    "a": "Polymyalgia rheumatica. Giant-cell arteritis may coexist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-0827",
+    "category": "Musculoskeletal",
+    "q": "Proximal muscle weakness and elevated CK accompany Gottron papules or heliotrope rash. What inflammatory myopathy is described?",
+    "a": "Dermatomyositis. The source emphasizes associated malignancy assessment in the right context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-0828",
+    "category": "Musculoskeletal",
+    "q": "A patient has difficulty releasing a handshake or doorknob. Which muscle disorder is described?",
+    "a": "Myotonic dystrophy, associated with myotonia and a CTG repeat expansion in a classic form.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-0829",
+    "category": "Musculoskeletal",
+    "q": "An older adult has progressive weakness and muscle biopsy shows rimmed vacuoles. Which myopathy is described?",
+    "a": "Inclusion-body myositis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-0830",
+    "category": "Musculoskeletal",
+    "q": "A tall patient has lens/vascular/skeletal findings involving fibrillin. Which syndrome is described?",
+    "a": "Marfan syndrome, associated with FBN1-related disease and aortic pathology.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-0831",
+    "category": "Musculoskeletal",
+    "q": "Easy bruising and hyperextensible skin suggest which connective-tissue disorder group?",
+    "a": "Ehlers-Danlos syndromes. The source focuses on collagen abnormalities, though the group has multiple subtypes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-0832",
+    "category": "Musculoskeletal",
+    "q": "Characteristic facies, hypercalcemia and supravalvular aortic stenosis suggest which syndrome?",
+    "a": "Williams syndrome, involving an elastin-region deletion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-0833",
+    "category": "Musculoskeletal",
+    "q": "Combined lupus, myositis and scleroderma features with anti-U1-RNP antibodies suggest what disease?",
+    "a": "Mixed connective-tissue disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-0834",
+    "category": "Musculoskeletal",
+    "q": "How do direct and indirect inguinal hernias relate to the inferior epigastric vessels?",
+    "a": "Direct hernias are medial; indirect hernias are lateral and pass through the deep inguinal ring.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-0835",
+    "category": "Musculoskeletal",
+    "q": "A midline neck mass moves with swallowing or tongue protrusion. What developmental cyst is described?",
+    "a": "Thyroglossal duct cyst.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-0836",
+    "category": "Musculoskeletal",
+    "q": "A congenital lateral neck cyst is described. Which embryologic-remnant lesion is suggested?",
+    "a": "Branchial cleft cyst.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-0837",
+    "category": "Musculoskeletal",
+    "q": "Which osteoporosis drug class inhibits osteoclast-mediated resorption?",
+    "a": "Bisphosphonates, including alendronate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
     }
   }
 ];
