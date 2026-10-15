@@ -20381,5 +20381,528 @@ export default [
       "text": "Final 11 June 2019. Repeat screening can be appropriate with ongoing risk; the recommendation does not define a single optimal repeat interval.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/human-immunodeficiency-virus-hiv-infection-screening"
     }
+  },
+  {
+    "id": "s2fm-1787",
+    "category": "Dermatology source details",
+    "q": "Which dermatophyte genera does the source name for tinea capitis?",
+    "a": "Microsporum and Trichophyton, with a circular area of scaling alopecia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-1788",
+    "category": "Dermatology source details",
+    "q": "How does the source distinguish seborrheic dermatitis from tinea capitis?",
+    "a": "Diffuse itchy flaking or inflamed/scaly hairline in the former; circumscribed scaling alopecia in the latter. The PDF associates seborrheic dermatitis with Malassezia overcolonization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-1789",
+    "category": "Dermatology source details",
+    "q": "What underlying infection does the PDF suggest evaluating in a high-risk patient with sudden severe seborrheic dermatitis?",
+    "a": "HIV, in the context of that risk and presentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-1790",
+    "category": "Dermatology source details",
+    "q": "What source prevention advice is emphasized for tinea capitis?",
+    "a": "Avoid sharing hats; the PDF does not recommend empirically treating all classmates.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-1791",
+    "category": "Dermatology source details",
+    "q": "What topical drug groups does the PDF name for tinea corporis and tinea pedis?",
+    "a": "Topical azoles such as clotrimazole/miconazole for corporis; topical terbinafine or an azole for pedis. Scalp infection instead needs systemic treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-1792",
+    "category": "Dermatology source details",
+    "q": "What lymphatic process can follow burns or puncture wounds besides sporotrichosis?",
+    "a": "Ascending lymphangitis. A linear/ascending pattern is not specific to a single pathogen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-family-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2fm-1793",
+    "category": "Dermatology source details",
+    "q": "Which antibiotic exclusion does the PDF state for all cellulitis?",
+    "a": "It says penicillin/amoxicillin alone are wrong and favors antistaphylococcal beta-lactams.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-family-medicine.pdf#page=115"
+    },
+    "guideline": {
+      "text": "IDSA 2014: typical nonpurulent cellulitis needs streptococcal coverage; penicillin/amoxicillin can be suitable. Purulence, systemic severity and MRSA risks change selection. The source blanket exclusion is not universal.",
+      "url": "https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/"
+    }
+  },
+  {
+    "id": "s2fm-1794",
+    "category": "Dermatology source details",
+    "q": "Which layer of skin does erysipelas involve in the source?",
+    "a": "Upper dermis and superficial lymphatics, commonly with raised, well-demarcated erythema; Streptococcus pyogenes is emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2fm-1795",
+    "category": "Dermatology source details",
+    "q": "What bacterium name does the source use for acne vulgaris?",
+    "a": "Propionibacterium acnes, the name printed in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2fm-1796",
+    "category": "Dermatology source details",
+    "q": "How does the PDF order topical retinoids, benzoyl peroxide and antibiotics for acne?",
+    "a": "Retinoid first, then benzoyl peroxide, then topical/oral antibiotic escalation in its simplified source ladder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    },
+    "guideline": {
+      "text": "AAD 2024 strongly recommends benzoyl peroxide, topical retinoids and combination regimens; topical/oral antibiotics should be paired with benzoyl peroxide to limit resistance. This is not a compulsory sequential ladder.",
+      "url": "https://www.aad.org/news/updated-guidelines-acne-management"
+    }
+  },
+  {
+    "id": "s2fm-1797",
+    "category": "Dermatology source details",
+    "q": "Which adverse effects does the source emphasize for topical retinoids?",
+    "a": "Photosensitivity, irritation and desquamation; its counseling emphasizes sun avoidance/protection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2fm-1798",
+    "category": "Dermatology source details",
+    "q": "What pregnancy-safety assertion does the PDF make about topical retinoids?",
+    "a": "It asserts that topical retinoids do not cause teratogenicity. That assertion should not be used as pregnancy-use advice.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-family-medicine.pdf#page=116"
+    },
+    "guideline": {
+      "text": "AAD pregnancy advice recommends stopping tretinoin during pregnancy and stopping/avoiding several retinoids, including isotretinoin and tazarotene. Discuss safer acne treatment during pregnancy.",
+      "url": "https://www.aad.org/public/diseases/acne/derm-treat/pregnancy"
+    }
+  },
+  {
+    "id": "s2fm-1799",
+    "category": "Dermatology source details",
+    "q": "What severe rash-plus-shock complication does the PDF associate with meningococcal infection?",
+    "a": "Waterhouse-Friderichsen syndrome, hemorrhagic adrenal insufficiency in fulminant infection. This clue is not a substitute for immediate sepsis/meningitis care.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-family-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2fm-1800",
+    "category": "Dermatology source details",
+    "q": "Which exposure examples does the PDF associate with herpetic whitlow?",
+    "a": "Children touching a caregiver cold sore and adult dental workers. HSV causes painful finger vesicles.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2fm-1801",
+    "category": "Dermatology source details",
+    "q": "How does erythema migrans differ from an obligatory target rash in the source?",
+    "a": "It can be an expanding circular rash without central clearing; the target appearance is classic but not required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2fm-1802",
+    "category": "Dermatology source details",
+    "q": "What fixed child-age drug rule does the source give for early Lyme disease?",
+    "a": "It says to replace doxycycline with amoxicillin below age 8, in its source rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC 2024 lists doxycycline, amoxicillin or cefuroxime for pediatric erythema migrans. Selection and dosing depend on individual age, history and pregnancy status; the PDF age-only exclusion is not universal.",
+      "url": "https://www.cdc.gov/lyme/hcp/clinical-care/erythema-migrans-rash.html"
+    }
+  },
+  {
+    "id": "s2fm-1803",
+    "category": "Dermatology source details",
+    "q": "Which neurologic clue can accompany a non-target Lyme rash in the source?",
+    "a": "Facial palsy; it emphasizes recognizing the paired manifestations even without classic central clearing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2fm-1804",
+    "category": "Dermatology source details",
+    "q": "Which mites and organisms does the source associate with scabies and its secondary infection?",
+    "a": "Sarcoptes scabiei causes scabies; scratching/broken skin may become secondarily infected with Staphylococcus aureus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2fm-1805",
+    "category": "Dermatology source details",
+    "q": "What treatment does the source name for crusted/disseminated scabies in immunocompromise?",
+    "a": "Oral ivermectin, in its simplified source answer. It does not provide a complete combined-treatment or contact-management protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2fm-1806",
+    "category": "Dermatology source details",
+    "q": "How does cutaneous anthrax differ from the source inhalational complication?",
+    "a": "A black eschar is its skin clue; inhalational disease can cause hemorrhagic mediastinitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2fm-1807",
+    "category": "Dermatology source details",
+    "q": "What exposure and systemic manifestation does the source associate with tularemia?",
+    "a": "Rabbit exposure, ulcerative skin disease and possible atypical pneumonia from Francisella tularensis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2fm-1808",
+    "category": "Dermatology source details",
+    "q": "Which antimicrobial does the source name for tularemia?",
+    "a": "Doxycycline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    },
+    "guideline": {
+      "text": "CDC 2025 recommendations include ciprofloxacin, levofloxacin, gentamicin and doxycycline as first-line options; the PDF names only one option. Treatment must reflect the patient and infection context.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/rr/rr7402a1.htm"
+    }
+  },
+  {
+    "id": "s2fm-1809",
+    "category": "Dermatology source details",
+    "q": "What delayed CNS complication does the PDF associate with measles?",
+    "a": "Subacute sclerosing panencephalitis. It describes a delayed neurologic complication after measles, not a feature required to diagnose acute rash illness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2fm-1810",
+    "category": "Dermatology source details",
+    "q": "What does the source mnemonic POM stand for in mumps?",
+    "a": "Parotitis, orchitis and meningitis; rash is not its characteristic finding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2fm-1811",
+    "category": "Dermatology source details",
+    "q": "What severe hematologic complication does parvovirus cause in susceptible hemolytic-anemia patients?",
+    "a": "Transient erythroid aplasia/aplastic crisis; the source emphasizes sickle-cell disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2fm-1812",
+    "category": "Dermatology source details",
+    "q": "How does the PDF interpret appearance of the fifth-disease rash for contagiousness?",
+    "a": "It says the child has already cleared the illness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    },
+    "guideline": {
+      "text": "CDC 2025: people are usually unlikely to be contagious after rash/joint symptoms, but anemia-related complications and immunocompromise can extend contagiousness. The rash does not prove clearance in every patient.",
+      "url": "https://www.cdc.gov/parvovirus-b19/prevention-treatment/"
+    }
+  },
+  {
+    "id": "s2fm-1813",
+    "category": "Dermatology source details",
+    "q": "How does eczema herpeticum differ from dermatitis herpetiformis?",
+    "a": "Eczema herpeticum is HSV infection on eczematous skin; dermatitis herpetiformis is a celiac-associated IgA skin disease, not herpes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-family-medicine.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2fm-1814",
+    "category": "Dermatology source details",
+    "q": "What source symptoms accompany HSV superinfection of eczema?",
+    "a": "A painful, burning/tingling rash with possible fever and lymphadenopathy. The source names acyclovir.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-family-medicine.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2fm-1815",
+    "category": "Dermatology source details",
+    "q": "What treatment answer does the PDF give for hidradenitis suppurativa?",
+    "a": "Surgical excision of lesions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    },
+    "guideline": {
+      "text": "AAD treatment guidance includes topical/systemic medicine, biologics and selected procedures. Surgery is one part of individualized treatment, not a universal stand-alone first step.",
+      "url": "https://www.aad.org/public/diseases/a-z/hidradenitis-suppurativa-treatment"
+    }
+  },
+  {
+    "id": "s2fm-1816",
+    "category": "Dermatology source details",
+    "q": "How does the source distinguish the names shingles, herpes zoster and VZV?",
+    "a": "Shingles and herpes zoster are names for the illness; varicella-zoster virus/HHV-3 is its cause, not HSV-1/2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2fm-1817",
+    "category": "Dermatology source details",
+    "q": "What paired ear-and-nerve findings define the source Ramsay-Hunt pattern?",
+    "a": "Periauricular zoster lesions and an ipsilateral facial palsy from involvement of CN VII.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2fm-1818",
+    "category": "Dermatology source details",
+    "q": "What tissue origin and viral association does the source give for Kaposi sarcoma?",
+    "a": "Vascular/lymphatic tumor associated with HHV-8, especially in immunocompromised patients.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2fm-1819",
+    "category": "Dermatology source details",
+    "q": "What viral cause does the source propose for pityriasis rosea?",
+    "a": "HHV-6 or 7. This is the PDF association, not independently verified here; its diagnosis is based on the herald-patch/distribution pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2fm-1820",
+    "category": "Dermatology source details",
+    "q": "What environmental context does the source associate with tinea versicolor?",
+    "a": "Warm humid/subtropical conditions, with patchy hypopigmentation from Malassezia; it names topical selenium.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2fm-1821",
+    "category": "Dermatology source details",
+    "q": "How does the source distinguish cutaneous leishmaniasis from visceral kala-azar?",
+    "a": "Skin ulceration after sandfly exposure versus visceral illness with pancytopenia and elevated liver tests. The PDF names Leishmania donovani broadly; species vary by setting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-family-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2fm-1822",
+    "category": "Dermatology source details",
+    "q": "What location and color clues does the source give for MAI lymphadenitis?",
+    "a": "Cervical/preauricular lymphadenitis with reddish or violaceous overlying skin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-family-medicine.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2fm-1823",
+    "category": "Dermatology source details",
+    "q": "What palms/soles finding besides nail lines does the source associate with arsenic exposure?",
+    "a": "Arsenical keratosis. It also describes Mees transverse white nail lines; these are exposure clues, not a definitive toxicology test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-family-medicine.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2fm-1824",
+    "category": "Dermatology source details",
+    "q": "What topical-supportive combination does the source name for eczema?",
+    "a": "Oil-based emollient plus topical corticosteroid; duration/potency/site require context rather than the source single duration cutoff.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2fm-1825",
+    "category": "Dermatology source details",
+    "q": "Which infection does the PDF name as a classic erythema-multiforme trigger?",
+    "a": "HSV-1/2. It separately labels the mechanism type III hypersensitivity, a source claim still under review.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2fm-1826",
+    "category": "Dermatology source details",
+    "q": "What tissue compartment is inflamed in erythema nodosum?",
+    "a": "Subcutaneous fat, hence panniculitis rather than a superficial infection. The source lists sarcoidosis, Crohn disease and drug-associated serum-sickness contexts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    }
+  },
+  {
+    "id": "s2fm-1827",
+    "category": "Dermatology source details",
+    "q": "What hand finding beyond Gottron papules does the source mention for dermatomyositis?",
+    "a": "Rough/scaly mechanics hands. It also illustrates heliotrope and shawl eruptions; not every finding is required for diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    }
+  },
+  {
+    "id": "s2fm-1828",
+    "category": "Dermatology source details",
+    "q": "Why can vitiligo prompt evaluation of accompanying autoimmune symptoms in the source?",
+    "a": "It may coexist with autoimmune endocrine disease or pernicious anemia; symptoms such as fatigue, weight changes or B12 deficiency guide evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-family-medicine.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2fm-1829",
+    "category": "Dermatology source details",
+    "q": "How does the source connect glove work and adhesive use with a hand eruption?",
+    "a": "Contact dermatitis from the exposure. The exact allergen/irritant and type of reaction need individual evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-family-medicine.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2fm-1830",
+    "category": "Dermatology source details",
+    "q": "How does the source distinguish perniosis from frostbite?",
+    "a": "Perniosis is an inflammatory cold-associated lesion; frostbite can injure tissue with blistering/necrosis. The source warns against abrupt temperature changes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-family-medicine.pdf#page=130"
+    }
+  },
+  {
+    "id": "s2fm-1831",
+    "category": "Dermatology source details",
+    "q": "What cause and treatment necessity does the source give for ordinary aphthous ulcers?",
+    "a": "Multifactorial/T-cell-mediated, not HSV; it says no treatment is required in its uncomplicated pattern. Persistent, severe or recurrent atypical lesions require a broader clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-family-medicine.pdf#page=130"
+    }
   }
 ];
