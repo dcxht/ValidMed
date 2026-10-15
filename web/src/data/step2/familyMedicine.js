@@ -40001,7 +40001,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
     },
     "guideline": {
-      "text": "NINDS confirms the usual6-month-to5-year age range and distinguishes simple from complex events by duration, recurrence within24hours and focal features. Later epilepsy risk depends on features such as prolonged seizures and preexisting neurologic problems; the PDF fixed twofold estimate is not a personal prognosis. Fever-reducing medicines can improve comfort but have not been shown to lower febrile-seizure risk.",
+      "text": "NINDS confirms the usual 6-month-to-5-year age range and distinguishes simple from complex events by duration, recurrence within 24 hours and focal features. Later epilepsy risk depends on features such as prolonged seizures and preexisting neurologic problems; the PDF fixed twofold estimate is not a personal prognosis. Fever-reducing medicines can improve comfort but have not been shown to lower febrile-seizure risk.",
       "url": "https://www.ninds.nih.gov/health-information/disorders/febrile-seizures"
     }
   },
@@ -40372,6 +40372,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 179,
       "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "Lantus labeling states that weight gain can occur with insulin because of its anabolic effects and reduced glucosuria. Hypoglycemia can be life-threatening. The PDF weight-loss framing should not be learned as an expected insulin effect or used to infer a person's motive; insulin exposure and hypoglycemia require medical assessment. This specific label does not establish every sulfonylurea effect.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae27bb66-5dbe-4f01-a89e-f4fa7cb09c99"
     }
   },
   {
@@ -40411,7 +40415,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=181"
     },
     "guideline": {
-      "text": "CDC current milestone checklists use functional communication skills: at least two words together by age2, and by age3 at least two back-and-forth conversational exchanges, question asking and speech understood most of the time. The PDF 900-word count is not a CDC diagnostic cutoff. CDC milestones describe what at least75% of children do by that age and are not a replacement for standardized developmental screening.",
+      "text": "CDC current milestone checklists use functional communication skills: at least two words together by age 2, and by age 3 at least two back-and-forth conversational exchanges, question asking and speech understood most of the time. The PDF 900-word count is not a CDC diagnostic cutoff. CDC milestones describe what at least 75% of children do by that age and are not a replacement for standardized developmental screening.",
       "url": "https://www.cdc.gov/act-early/milestones/3-years.html"
     }
   },
@@ -40723,6 +40727,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 192,
       "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    },
+    "guideline": {
+      "text": "Ambien labeling revised February 2022 describes zolpidem as a positive GABA-A modulator binding the benzodiazepine site of alpha1-containing receptors, with preferential affinity for alpha1 relative to alpha2/alpha3 receptors. This is receptor-subtype selectivity, not a wholly different receptor system from benzodiazepines. This specific label supports zolpidem; it does not by itself verify every zaleplon detail.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c36cadf4-65a4-4466-b409-c82020b42452"
     }
   },
   {
@@ -40951,6 +40959,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 207,
       "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    },
+    "guideline": {
+      "text": "AAO patient guidance published December 2025 describes red, swollen, itchy and watery eyes as typical allergic-conjunctivitis features. The source exceptions should not erase itching as an important clue or establish allergy in an atypical red eye without considering other causes. This patient page is not proof that every case must be bilateral or itchy.",
+      "url": "https://www.aao.org/eye-health/diseases/allergies"
     }
   },
   {
