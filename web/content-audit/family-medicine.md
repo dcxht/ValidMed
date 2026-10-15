@@ -50,3 +50,5 @@ Selected endocrine/pharmacology/vaccine concepts through p249 now added. No exha
 Selected points through p259,992 cards; rapid-bullet review pp260 onward still pending.
 
 Selected additional rapid-bullet points through p282; repeated material requires mapping.
+
+Image pass: all77 embedded study figures on pp11-108 extracted, visually inspected as four contact sheets, source positions/text checked and converted to image questions. Labeled diagrams explicitly ask about the demonstrated feature rather than pretend labels are hidden.

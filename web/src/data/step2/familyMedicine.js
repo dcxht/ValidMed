@@ -12655,5 +12655,1006 @@ export default [
       "page": 317,
       "url": "/mehlman/hy-family-medicine.pdf#page=317"
     }
+  },
+  {
+    "id": "s2fm-1123",
+    "category": "ECG",
+    "q": "Which ECG features illustrate atrial fibrillation in this labeled source strip?",
+    "a": "Irregularly irregular R-R intervals and no consistent organized P waves.",
+    "img": "/s2img/fm-11-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    }
+  },
+  {
+    "id": "s2fm-1124",
+    "category": "Cardiology",
+    "q": "What main anatomic distinction does this labeled aortic-dissection diagram illustrate?",
+    "a": "StanfordA involves the ascending aorta; StanfordB does not involve the ascending aorta. The figure also labels DeBakey types.",
+    "img": "/s2img/fm-11-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    }
+  },
+  {
+    "id": "s2fm-1125",
+    "category": "ECG",
+    "q": "What broad tachycardia category is shown by these wide complexes in the source strip?",
+    "a": "Ventricular tachycardia. Interpret wide-complex tachycardia in the full clinical context.",
+    "img": "/s2img/fm-12-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-family-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2fm-1126",
+    "category": "ECG",
+    "q": "Which feature illustrates flutter in this labeled source strip?",
+    "a": "Repeating sawtooth atrial activity.",
+    "img": "/s2img/fm-12-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-family-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2fm-1127",
+    "category": "ECG",
+    "q": "Which broad rhythm category does the source demonstrate with this rapid narrow-complex strip?",
+    "a": "Supraventricular tachycardia. The complexes are narrow compared with the source ventricular-tachycardia example.",
+    "img": "/s2img/fm-13-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-family-medicine.pdf#page=13"
+    }
+  },
+  {
+    "id": "s2fm-1128",
+    "category": "ECG",
+    "q": "An early wide beat interrupts otherwise regular narrow complexes. Which source finding is shown?",
+    "a": "Premature ventricular complex, originating in the ventricle.",
+    "img": "/s2img/fm-13-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-family-medicine.pdf#page=13"
+    }
+  },
+  {
+    "id": "s2fm-1129",
+    "category": "ECG",
+    "q": "The arrows identify ST elevation inII,III and aVF. Which myocardial territory is emphasized?",
+    "a": "Inferior wall. The source relates this to the posterior descending artery, commonly supplied by the right coronary artery in right-dominant circulation.",
+    "img": "/s2img/fm-14-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2fm-1130",
+    "category": "ECG",
+    "q": "Which polymorphic ventricular-tachycardia pattern is illustrated in this strip?",
+    "a": "Torsades de pointes, with apparent twisting variation in QRS amplitude. Prolonged QT is a risk factor.",
+    "img": "/s2img/fm-16-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-family-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2fm-1131",
+    "category": "ECG",
+    "q": "Which effusion-associated ECG features does the source illustrate here?",
+    "a": "Low-voltage QRS with beat-to-beat amplitude variation, electrical alternans.",
+    "img": "/s2img/fm-16-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-family-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2fm-1132",
+    "category": "ECG",
+    "q": "Which pre-excitation finding is identified by the arrow in this labeled figure?",
+    "a": "Delta wave, a slurred initial QRS upstroke with a short PR interval in the source WPW example.",
+    "img": "/s2img/fm-17-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-family-medicine.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2fm-1133",
+    "category": "ECG",
+    "q": "Which post-T-wave deflection is marked, and which electrolyte disturbance is associated?",
+    "a": "U wave, associated with hypokalemia.",
+    "img": "/s2img/fm-17-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-family-medicine.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2fm-1134",
+    "category": "ECG",
+    "q": "What electrolyte disturbance is associated with the labeled peakedT waves?",
+    "a": "Hyperkalemia.",
+    "img": "/s2img/fm-17-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-family-medicine.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2fm-1135",
+    "category": "ECG",
+    "q": "What two features identify complete AV block in this labeled strip?",
+    "a": "Atrial and ventricular activity are dissociated, with a slow ventricular escape rhythm.",
+    "img": "/s2img/fm-18-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-family-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2fm-1136",
+    "category": "ECG",
+    "q": "The source uses this ratio-pattern strip in its MobitzII discussion. What feature contrasts with Wenckebach?",
+    "a": "Dropped ventricular conduction without preceding progressive PR prolongation in the source teaching pattern. A 2:1 strip alone may not localize the block.",
+    "img": "/s2img/fm-18-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-family-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2fm-1137",
+    "category": "ECG",
+    "q": "What is the source heart-block classification for a droppedQRS without progressively lengthening PR intervals?",
+    "a": "Second-degree MobitzII AV block, as labeled in the adjacent source discussion.",
+    "img": "/s2img/fm-18-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-family-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2fm-1138",
+    "category": "ECG",
+    "q": "Progressively lengthening PR intervals precede a droppedQRS. What pattern is illustrated?",
+    "a": "Second-degree MobitzI, Wenckebach.",
+    "img": "/s2img/fm-18-3.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-family-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2fm-1139",
+    "category": "ECG",
+    "q": "Every P wave conducts, but the PR interval is prolonged. Which block is illustrated?",
+    "a": "First-degree AV block, defined by PR greater than 200 ms.",
+    "img": "/s2img/fm-18-4.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-family-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2fm-1140",
+    "category": "Cardiology",
+    "q": "What radiographic finding accompanies the source dilated-cardiomyopathy discussion?",
+    "a": "An enlarged cardiac silhouette. This is not specific by itself to dilated cardiomyopathy.",
+    "img": "/s2img/fm-19-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-family-medicine.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2fm-1141",
+    "category": "Cardiology",
+    "q": "What infiltrative material does the source identify between myocardial fibers in this micrograph?",
+    "a": "Amyloid, illustrating an infiltrative cardiomyopathy mechanism.",
+    "img": "/s2img/fm-20-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-family-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2fm-1142",
+    "category": "Cardiology",
+    "q": "Which annular skin manifestation of rheumatic fever is illustrated in the source?",
+    "a": "Erythema marginatum.",
+    "img": "/s2img/fm-22-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-family-medicine.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2fm-1143",
+    "category": "Vascular",
+    "q": "What ulcer pattern does the source contrast with the large sloughy venous ulcer?",
+    "a": "A small punched-out arterial ulcer on the foot, to be assessed alongside pulses and perfusion.",
+    "img": "/s2img/fm-23-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-family-medicine.pdf#page=23"
+    }
+  },
+  {
+    "id": "s2fm-1144",
+    "category": "Vascular",
+    "q": "A large sloughy ulcer near the malleolus accompanies edema and pigmentation. Which source ulcer category is shown?",
+    "a": "Venous stasis ulcer. Arterial perfusion still matters before compression treatment.",
+    "img": "/s2img/fm-24-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-family-medicine.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2fm-1145",
+    "category": "Rheumatology",
+    "q": "What angiographic vessel pattern accompanies the source polyarteritis-nodosa discussion?",
+    "a": "Segmental beading/aneurysmal irregularity in medium-sized arteries.",
+    "img": "/s2img/fm-26-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-family-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2fm-1146",
+    "category": "Pulmonology",
+    "q": "How does this labeled lung-volume diagram contrast residual volume in obstruction and restriction?",
+    "a": "Obstruction shows increased residual volume from air trapping; restriction has reduced total lung capacity and smaller volumes in the source diagram.",
+    "img": "/s2img/fm-29-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-family-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2fm-1147",
+    "category": "Pulmonology",
+    "q": "The expiratory limb is concave/scooped. Which ventilatory pattern is illustrated?",
+    "a": "Obstruction. The loop alone does not distinguish asthma from COPD.",
+    "img": "/s2img/fm-30-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-family-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2fm-1148",
+    "category": "Pulmonology",
+    "q": "What shape distinguishes the labeled obstructive flow-volume loop from the restrictive loop?",
+    "a": "The obstructive expiratory limb is concave; the restrictive loop is smaller/narrower with reduced lung volume.",
+    "img": "/s2img/fm-30-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-family-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2fm-1149",
+    "category": "Pulmonology",
+    "q": "What interstitial changes are shown in the source fibrosis radiograph?",
+    "a": "Basal-predominant interstitial fibrotic markings. The figure labels fibrosis, but diagnosis needs clinical and CT context.",
+    "img": "/s2img/fm-32-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-family-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2fm-1150",
+    "category": "Pulmonology",
+    "q": "What advanced fibrotic pattern is demonstrated on this source chestCT?",
+    "a": "Honeycombing with subpleural cystic fibrotic change in the source interstitial-lung-disease example.",
+    "img": "/s2img/fm-33-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-family-medicine.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2fm-1151",
+    "category": "Pulmonology",
+    "q": "What lung-volume appearance is emphasized in the source COPD radiograph?",
+    "a": "Hyperinflated lungs with a long/narrow cardiac silhouette.",
+    "img": "/s2img/fm-34-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-family-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2fm-1152",
+    "category": "Pulmonology",
+    "q": "What airway abnormality is illustrated by these dilated bronchi onCT?",
+    "a": "Bronchiectasis.",
+    "img": "/s2img/fm-37-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2fm-1153",
+    "category": "Pulmonology",
+    "q": "Which hilar finding is highlighted by the arrows in the source sarcoidosis radiograph?",
+    "a": "Bilateral hilar lymphadenopathy.",
+    "img": "/s2img/fm-39-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-family-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2fm-1154",
+    "category": "ENT",
+    "q": "What lateral-neck radiographic sign does the source associate with epiglottitis?",
+    "a": "Thumbprint sign from a swollen epiglottis. This is recognition, not an instruction to delay emergency airway care for imaging.",
+    "img": "/s2img/fm-41-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-family-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2fm-1155",
+    "category": "ENT",
+    "q": "What airway sign is indicated on the frontal-neck image in the source croup discussion?",
+    "a": "Steeple sign from subglottic narrowing.",
+    "img": "/s2img/fm-41-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-family-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2fm-1156",
+    "category": "Pulmonology",
+    "q": "What finding is marked in the source pulmonary-abscess image?",
+    "a": "A cavity with an air-fluid level, representing air above dependent fluid/pus.",
+    "img": "/s2img/fm-43-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2fm-1157",
+    "category": "ENT",
+    "q": "What anatomic effect of a peritonsillar abscess does this labeled comparison illustrate?",
+    "a": "Unilateral peritonsillar swelling with displacement of the uvula away from the affected side.",
+    "img": "/s2img/fm-45-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-1158",
+    "category": "Gastroenterology",
+    "q": "Perioral pigmentation accompanies hamartomatous GI polyps. Which syndrome is shown?",
+    "a": "Peutz-Jeghers syndrome.",
+    "img": "/s2img/fm-55-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-1159",
+    "category": "Gastroenterology",
+    "q": "Mucosal telangiectasias accompany recurrent epistaxis. Which inherited syndrome is described?",
+    "a": "Hereditary hemorrhagic telangiectasia, Osler-Weber-Rendu.",
+    "img": "/s2img/fm-55-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-1160",
+    "category": "Gastroenterology",
+    "q": "Cracked mouth corners accompany iron deficiency and esophageal webs. What finding is illustrated?",
+    "a": "Angular cheilitis in the source Plummer-Vinson discussion.",
+    "img": "/s2img/fm-55-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-1161",
+    "category": "Oral lesions",
+    "q": "A vesicular lesion at the lip border recurs after a prior episode. Which source infection is illustrated?",
+    "a": "Herpes labialis.",
+    "img": "/s2img/fm-56-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2fm-1162",
+    "category": "Oral lesions",
+    "q": "Crusted lesions around the mouth occur in a child. Which source diagnosis is shown?",
+    "a": "Perioral impetigo.",
+    "img": "/s2img/fm-56-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2fm-1163",
+    "category": "Oral lesions",
+    "q": "A painful shallow labial-mucosa sore self-resolves. What source lesion is illustrated?",
+    "a": "Aphthous ulcer, canker sore.",
+    "img": "/s2img/fm-56-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2fm-1164",
+    "category": "Pediatrics",
+    "q": "Persistent fever with red lips and mucocutaneous/extremity changes suggests which source vasculitis?",
+    "a": "Kawasaki disease. The image is one finding, not a diagnosis on its own.",
+    "img": "/s2img/fm-56-3.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2fm-1165",
+    "category": "Oral lesions",
+    "q": "Perioral lesions occur with hand and foot lesions. Which viral syndrome is illustrated?",
+    "a": "Hand-foot-mouth disease.",
+    "img": "/s2img/fm-57-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-1166",
+    "category": "Oral lesions",
+    "q": "What tongue appearance is illustrated in the source scarlet-fever discussion?",
+    "a": "Strawberry tongue. It is not unique to scarlet fever.",
+    "img": "/s2img/fm-57-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-1167",
+    "category": "Oral lesions",
+    "q": "Which lip infection is illustrated here in the source herpes discussion?",
+    "a": "Herpes labialis.",
+    "img": "/s2img/fm-57-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-1168",
+    "category": "Oral lesions",
+    "q": "What salivary-duct problem is indicated in the source intraoral photograph?",
+    "a": "Sialolithiasis, a salivary-duct stone.",
+    "img": "/s2img/fm-58-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-family-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2fm-1169",
+    "category": "Oral lesions",
+    "q": "Which labeled buccal lesions are associated with measles?",
+    "a": "Koplik spots.",
+    "img": "/s2img/fm-58-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-family-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2fm-1170",
+    "category": "Oral lesions",
+    "q": "Posterior oral vesicles/ulcers occur in the source enteroviral discussion. Which syndrome is illustrated?",
+    "a": "Herpangina.",
+    "img": "/s2img/fm-58-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-family-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2fm-1171",
+    "category": "Oral lesions",
+    "q": "White oral plaques can be scraped off in an immunocompromised patient. Which source infection is shown?",
+    "a": "Oropharyngeal candidiasis.",
+    "img": "/s2img/fm-59-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1172",
+    "category": "Oral lesions",
+    "q": "WhatEBV-associated lateral-tongue lesion does the source illustrate?",
+    "a": "Oral hairy leukoplakia, which the source distinguishes from premalignant conventional leukoplakia.",
+    "img": "/s2img/fm-59-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1173",
+    "category": "Gastroenterology",
+    "q": "Stress-associated isolated indirect hyperbilirubinemia accompanies this scleral finding in a healthy young adult. Which syndrome is described?",
+    "a": "Gilbert syndrome; scleral icterus is the photographed finding.",
+    "img": "/s2img/fm-63-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-1174",
+    "category": "Gastroenterology",
+    "q": "What scan finding is used in the source Meckel-diverticulum discussion?",
+    "a": "Technetium uptake indicating ectopic gastric mucosa. Interpret it with the bleeding history.",
+    "img": "/s2img/fm-67-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-1175",
+    "category": "Gastroenterology",
+    "q": "Which bowel-obstruction radiographic shape is illustrated?",
+    "a": "Coffee-bean appearance in sigmoid volvulus.",
+    "img": "/s2img/fm-73-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-1176",
+    "category": "Hematology images",
+    "q": "What red-cell morphology is illustrated in the source iron-deficiency discussion?",
+    "a": "Hypochromia with increased central pallor.",
+    "img": "/s2img/fm-79-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-family-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2fm-1177",
+    "category": "Hematology images",
+    "q": "Which red-cell shape is illustrated in the source thalassemia discussion?",
+    "a": "Target cells. They are not exclusive to thalassemia.",
+    "img": "/s2img/fm-80-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-1178",
+    "category": "Hematology images",
+    "q": "What bone abnormality accompanies the source multiple-myeloma discussion?",
+    "a": "Lytic lesions of the humerus.",
+    "img": "/s2img/fm-81-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-1179",
+    "category": "Hematology images",
+    "q": "Which skull-lesion pattern is illustrated in the source myeloma discussion?",
+    "a": "Multiple punched-out/pepper-pot lytic lesions.",
+    "img": "/s2img/fm-81-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-1180",
+    "category": "Hematology images",
+    "q": "What red-cell arrangement is marked in this source smear?",
+    "a": "Rouleaux, stacked red cells, associated with high plasma-protein states including myeloma.",
+    "img": "/s2img/fm-82-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-1181",
+    "category": "Hematology images",
+    "q": "What cell type is illustrated in the source multiple-myeloma micrograph?",
+    "a": "Plasma cells, with eccentric nuclei and coarse clock-face chromatin.",
+    "img": "/s2img/fm-82-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-1182",
+    "category": "Hematology images",
+    "q": "Which red-cell shape lacks normal central pallor in this source smear?",
+    "a": "Spherocytes. They can occur in hereditary spherocytosis or immune hemolysis; the shape alone does not establish the cause.",
+    "img": "/s2img/fm-88-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-1183",
+    "category": "Hematology images",
+    "q": "Uniform immature lymphoid cells occur in a child with marked leukocytosis. Which source leukemia is illustrated?",
+    "a": "Acute lymphoblastic leukemia. The clinical context and confirmatory tests are essential.",
+    "img": "/s2img/fm-89-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-1184",
+    "category": "Hematology images",
+    "q": "Many mature neutrophils accompany infection-related leukocytosis. Which source reactive process is shown?",
+    "a": "Leukemoid reaction/reactive granulocytosis.",
+    "img": "/s2img/fm-89-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-1185",
+    "category": "Hematology images",
+    "q": "The source myeloid-leukemia image illustrates blasts with needle-like cytoplasmic inclusions. What are those inclusions?",
+    "a": "Auer rods, supporting myeloid differentiation.",
+    "img": "/s2img/fm-90-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2fm-1186",
+    "category": "Hematology images",
+    "q": "Which fragile disrupted-cell finding appears in the sourceCLL smear?",
+    "a": "Smudge cells.",
+    "img": "/s2img/fm-90-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2fm-1187",
+    "category": "Hematology images",
+    "q": "What cytoplasmic appearance gives this source leukemia its name?",
+    "a": "Hair-like cytoplasmic projections in hairy-cell leukemia.",
+    "img": "/s2img/fm-91-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-1188",
+    "category": "Hematology images",
+    "q": "Myeloid cells at several maturation stages occur together in this source smear. Which leukemia is illustrated?",
+    "a": "Chronic myeloid leukemia. The source contrasts this mixed pattern with reactive mature-neutrophil predominance.",
+    "img": "/s2img/fm-91-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-1189",
+    "category": "Hematology images",
+    "q": "What nuclear morphology is demonstrated in the source Sezary-cell image?",
+    "a": "Cerebriform/convoluted T-cell nuclei.",
+    "img": "/s2img/fm-92-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-1190",
+    "category": "Hematology images",
+    "q": "What skin presentation is illustrated in the source Sezary-syndrome discussion?",
+    "a": "Diffuse erythroderma. It is not specific without the blood/clinical findings.",
+    "img": "/s2img/fm-92-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-1191",
+    "category": "Hematology images",
+    "q": "A persistent patch/plaque eruption occurs in the source cutaneousT-cell-lymphoma discussion. Which condition is illustrated?",
+    "a": "Mycosis fungoides.",
+    "img": "/s2img/fm-93-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2fm-1192",
+    "category": "Hematology images",
+    "q": "What neutrophil nuclear finding is shown in the source megaloblastic-anemia discussion?",
+    "a": "Hypersegmented neutrophil.",
+    "img": "/s2img/fm-94-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1193",
+    "category": "Hematology images",
+    "q": "Which denatured-hemoglobin inclusions are circled in the sourceG 6PD image?",
+    "a": "Heinz bodies.",
+    "img": "/s2img/fm-94-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1194",
+    "category": "Hematology images",
+    "q": "Which oxidative-hemolysis red-cell shape is indicated by arrows?",
+    "a": "Bite cells.",
+    "img": "/s2img/fm-94-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1195",
+    "category": "Hematology images",
+    "q": "Which red-cell cytoplasmic dots are illustrated in the source lead-poisoning discussion?",
+    "a": "Basophilic stippling. It is a clue, not a lead-specific diagnostic test.",
+    "img": "/s2img/fm-95-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-1196",
+    "category": "Hematology images",
+    "q": "What iron-stain finding is illustrated in the source sideroblastic-anemia micrograph?",
+    "a": "Ring sideroblasts, iron-laden mitochondria arranged around erythroblast nuclei.",
+    "img": "/s2img/fm-95-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-1197",
+    "category": "Gynecology images",
+    "q": "What squamous-cell surface finding is illustrated in the source bacterial-vaginosis image?",
+    "a": "Clue cells, epithelial cells covered with adherent bacteria.",
+    "img": "/s2img/fm-105-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-1198",
+    "category": "Pediatrics",
+    "q": "What relative sequence does this labeled puberty chart illustrate?",
+    "a": "Adrenarche/thelarche and the growth-spurt period precede menarche in the source female-development chart. Exact ages vary.",
+    "img": "/s2img/fm-108-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2fm-1199",
+    "category": "Pediatrics",
+    "q": "Which framework does this labeled diagram use to describe pubertal physical development?",
+    "a": "Tanner staging, based on pubic-hair and breast/genital development rather than age alone.",
+    "img": "/s2img/fm-108-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    }
   }
 ];
