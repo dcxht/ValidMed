@@ -296,3 +296,6 @@ Cards2417-2418 plusnote1202, total2418/230figures/280notes. KMPsurgery-only sour
 
 ## Vaccine precise-rule follow-up pp75,284-285
 Cards2419-2421, total2421/230figures/285notes. HPV9-45source range versusCDC/ACIP11-12start9/catchup26/SCDM27-45; influenzaonlyfallwinter versuscurrentCDC2026-27interimcontinuecirculationunexpired; rotavirus3doseversusbrand2/3. DirectURLs https://cdc.gov/acip/evidence-to-recommendations/HPV-adults-etr.html ; https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html ; https://www.cdc.gov/rotavirus/hcp/vaccine-considerations/index.html . CDCJune2026HBVVISalsofetchedconfirmsbirth/59/basedrisk60; didnotinfernewuniversaladultcardfromPDFp285HBIGclaimalreadytreated. Partial.
+
+## WM/PV pattern follow-up p83
+Cards2422-2423,total2423/230figures/287notes. SourceWMcategoricalnoamyloid/nourinarylightprotein nowACSdiagnosticnote; PVperipheral2of3rule contrastedwithNCIICCdiagnosticcriteria/marrowpanmyelosis. DirectURLs https://www.cancer.org/cancer/types/waldenstrom-macroglobulinemia/detection-diagnosis-staging/how-diagnosed.html ; https://www.cancer.gov/types/myeloproliferative/hp/myeloproliferative-neoplasms-treatment . Partial.

@@ -28230,5 +28230,35 @@ export default [
       "text": "CDC describes RotaTeq as three doses at 2/4/6 months, but Rotarix as two doses at 2/4 months. Begin before 15 weeks and complete before 8 months; product choice changes the dose count.",
       "url": "https://www.cdc.gov/rotavirus/hcp/vaccine-considerations/index.html"
     }
+  },
+  {
+    "id": "s2fm-2422",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "Which myeloma-associated findings does the PDF categorically exclude from Waldenstrom macroglobulinemia?",
+    "a": "Hypercalcemia, lytic lesions, Bence-Jones proteinuria and amyloidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    },
+    "guideline": {
+      "text": "American Cancer Society diagnostic guidance describes urinary IgM fragments and fat-pad biopsy to check for amyloid in WM. The source negative pattern may help an exam contrast but does not make all urinary monoclonal protein or amyloid impossible.",
+      "url": "https://www.cancer.org/cancer/types/waldenstrom-macroglobulinemia/detection-diagnosis-staging/how-diagnosed.html"
+    }
+  },
+  {
+    "id": "s2fm-2423",
+    "category": "Hematology exact-claim reconciliation",
+    "q": "What peripheral-cell-count rule does the PDF give for polycythemia vera?",
+    "a": "At least two of three cell lines elevated, with red cells always elevated.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    },
+    "guideline": {
+      "text": "NCI PDQ describes ICC diagnosis through hemoglobin/hematocrit or red-cell mass, JAK2, marrow panmyelosis and low EPO in specified combinations. It does not require two elevated peripheral cell counts; marrow trilineage proliferation and a peripheral-count rule are not interchangeable.",
+      "url": "https://www.cancer.gov/types/myeloproliferative/hp/myeloproliferative-neoplasms-treatment"
+    }
   }
 ];
