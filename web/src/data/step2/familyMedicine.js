@@ -12638,7 +12638,7 @@ export default [
     "id": "s2fm-1117",
     "category": "Obstetrics",
     "q": "Which second-trimester serum-screen pattern does the source associate with trisomy 21?",
-    "a": "Low AFP and estriol, with elevated hCG and inhibinA. This is a screening pattern, not diagnostic confirmation.",
+    "a": "Low AFP and estriol, with elevated hCG and inhibin A. This is a screening pattern, not diagnostic confirmation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 315,
@@ -12872,7 +12872,7 @@ export default [
   {
     "id": "s2fm-1136",
     "category": "ECG",
-    "q": "The source uses this ratio-pattern strip in its MobitzII discussion. What feature contrasts with Wenckebach?",
+    "q": "The source uses this ratio-pattern strip in its Mobitz II discussion. What feature contrasts with Wenckebach?",
     "a": "Dropped ventricular conduction without preceding progressive PR prolongation in the source teaching pattern. A 2:1 strip alone may not localize the block.",
     "img": "/s2img/fm-18-1.png",
     "alt": "Figure from the source PDF",
@@ -12885,8 +12885,8 @@ export default [
   {
     "id": "s2fm-1137",
     "category": "ECG",
-    "q": "What is the source heart-block classification for a droppedQRS without progressively lengthening PR intervals?",
-    "a": "Second-degree MobitzII AV block, as labeled in the adjacent source discussion.",
+    "q": "What is the source heart-block classification for a dropped QRS without progressively lengthening PR intervals?",
+    "a": "Second-degree Mobitz II AV block, as labeled in the adjacent source discussion.",
     "img": "/s2img/fm-18-2.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -12898,7 +12898,7 @@ export default [
   {
     "id": "s2fm-1138",
     "category": "ECG",
-    "q": "Progressively lengthening PR intervals precede a droppedQRS. What pattern is illustrated?",
+    "q": "Progressively lengthening PR intervals precede a dropped QRS. What pattern is illustrated?",
     "a": "Second-degree MobitzI, Wenckebach.",
     "img": "/s2img/fm-18-3.png",
     "alt": "Figure from the source PDF",
@@ -13054,7 +13054,7 @@ export default [
   {
     "id": "s2fm-1150",
     "category": "Pulmonology",
-    "q": "What advanced fibrotic pattern is demonstrated on this source chestCT?",
+    "q": "What advanced fibrotic pattern is demonstrated on this source chest CT?",
     "a": "Honeycombing with subpleural cystic fibrotic change in the source interstitial-lung-disease example.",
     "img": "/s2img/fm-33-0.png",
     "alt": "Figure from the source PDF",
@@ -13080,7 +13080,7 @@ export default [
   {
     "id": "s2fm-1152",
     "category": "Pulmonology",
-    "q": "What airway abnormality is illustrated by these dilated bronchi onCT?",
+    "q": "What airway abnormality is illustrated by these dilated bronchi on CT?",
     "a": "Bronchiectasis.",
     "img": "/s2img/fm-37-0.png",
     "alt": "Figure from the source PDF",
@@ -13340,7 +13340,7 @@ export default [
   {
     "id": "s2fm-1172",
     "category": "Oral lesions",
-    "q": "WhatEBV-associated lateral-tongue lesion does the source illustrate?",
+    "q": "What EBV-associated lateral-tongue lesion does the source illustrate?",
     "a": "Oral hairy leukoplakia, which the source distinguishes from premalignant conventional leukoplakia.",
     "img": "/s2img/fm-59-1.png",
     "alt": "Figure from the source PDF",
@@ -13522,7 +13522,7 @@ export default [
   {
     "id": "s2fm-1186",
     "category": "Hematology images",
-    "q": "Which fragile disrupted-cell finding appears in the sourceCLL smear?",
+    "q": "Which fragile disrupted-cell finding appears in the source CLL smear?",
     "a": "Smudge cells.",
     "img": "/s2img/fm-90-1.png",
     "alt": "Figure from the source PDF",
@@ -13864,7 +13864,7 @@ export default [
   {
     "id": "s2fm-1212",
     "category": "Neurology images",
-    "q": "In the labeled leftINO diagram, which eye has impaired adduction on rightward gaze?",
+    "q": "In the labeled left INO diagram, which eye has impaired adduction on rightward gaze?",
     "a": "The left eye, localizing to the left medial longitudinal fasciculus. INO is not exclusive to multiple sclerosis.",
     "img": "/s2img/fm-150-0.png",
     "alt": "Figure from the source PDF",
@@ -13877,7 +13877,7 @@ export default [
   {
     "id": "s2fm-1213",
     "category": "Neurology images",
-    "q": "Which crescent-shaped extra-axial hemorrhage is illustrated on this sourceCT?",
+    "q": "Which crescent-shaped extra-axial hemorrhage is illustrated on this source CT?",
     "a": "Subdural hematoma.",
     "img": "/s2img/fm-161-0.png",
     "alt": "Figure from the source PDF",
@@ -13890,7 +13890,7 @@ export default [
   {
     "id": "s2fm-1214",
     "category": "Neurology images",
-    "q": "Which lens-shaped extra-axial hemorrhage is illustrated on this sourceCT?",
+    "q": "Which lens-shaped extra-axial hemorrhage is illustrated on this source CT?",
     "a": "Epidural hematoma.",
     "img": "/s2img/fm-161-1.png",
     "alt": "Figure from the source PDF",
@@ -13903,7 +13903,7 @@ export default [
   {
     "id": "s2fm-1215",
     "category": "Neurology images",
-    "q": "Which compartment contains the focal hyperdense hemorrhage in the sourceCT?",
+    "q": "Which compartment contains the focal hyperdense hemorrhage in the source CT?",
     "a": "Brain parenchyma, an intracerebral hemorrhage.",
     "img": "/s2img/fm-162-0.png",
     "alt": "Figure from the source PDF",
@@ -13981,7 +13981,7 @@ export default [
   {
     "id": "s2fm-1221",
     "category": "Ophthalmology images",
-    "q": "Which iris-development abnormality is illustrated in the sourceWAGR discussion?",
+    "q": "Which iris-development abnormality is illustrated in the source WAGR discussion?",
     "a": "Aniridia, partial or complete absence of iris tissue.",
     "img": "/s2img/fm-201-2.png",
     "alt": "Figure from the source PDF",
@@ -14267,7 +14267,7 @@ export default [
   {
     "id": "s2fm-1243",
     "category": "Musculoskeletal images",
-    "q": "Which vertebral-alignment abnormality is marked in the sourceMRI?",
+    "q": "Which vertebral-alignment abnormality is marked in the source MRI?",
     "a": "Spondylolisthesis, one vertebra displaced relative to another.",
     "img": "/s2img/fm-214-1.png",
     "alt": "Figure from the source PDF",
@@ -14423,7 +14423,7 @@ export default [
   {
     "id": "s2fm-1255",
     "category": "Musculoskeletal images",
-    "q": "What femoral-head process is illustrated on this sourceMRI in thePerthes discussion?",
+    "q": "What femoral-head process is illustrated on this source MRI in thePerthes discussion?",
     "a": "Femoral-head osteonecrosis with altered signal and flattening/collapse.",
     "img": "/s2img/fm-225-0.png",
     "alt": "Figure from the source PDF",
