@@ -34168,8 +34168,8 @@ export default [
   {
     "id": "s2fm-2867",
     "category": "Neuropathy source finer details",
-    "q": "What source post-concussion symptoms can persist for weeks to years?",
-    "a": "Cognitive disturbance, memory problems, headache, and sensitivity to light or sound.",
+    "q": "What mechanical injury does the source describe in a concussion?",
+    "a": "Rapid movement of the brain within the skull after a blow or sudden movement, stretching and damaging brain cells in its source explanation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 163,
@@ -34567,12 +34567,223 @@ export default [
   {
     "id": "s2fm-2900",
     "category": "Psychiatry source finer details",
-    "q": "What distinction does the PDF make between a single crime and antisocial personality disorder?",
-    "a": "A single crime can demonstrate antisocial behavior, but the personality disorder requires a persistent pattern and relevant childhood conduct history; a criminal label alone does not establish diagnosis.",
+    "q": "What fear makes the source paranoid-personality pattern reluctant to confide in others?",
+    "a": "Fear that information will be used maliciously against the person, in the source longstanding distrust pattern.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 176,
       "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-2901",
+    "category": "Psychiatry finer source review",
+    "q": "What apparent emotional reaction does the PDF associate with conversion disorder?",
+    "a": "La belle indifference, an apparent lack of concern about the deficit.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    },
+    "guideline": {
+      "text": "NINDS describes diagnosis using history, examination and positive signs such as Hoover sign or tremor entrainment, with evaluation for other conditions. Apparent indifference is not a stand-alone diagnostic test, and FND can coexist with other disorders.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/functional-neurologic-disorder"
+    }
+  },
+  {
+    "id": "s2fm-2902",
+    "category": "Psychiatry finer source review",
+    "q": "What single most-common death mechanism does the PDF name in anorexia?",
+    "a": "Ventricular fibrillation due to hypokalemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "NIMH describes fatal starvation-related medical complications and suicide as a leading cause of death. The source single-mechanism statement is not a complete mortality or safety assessment.",
+      "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+    }
+  },
+  {
+    "id": "s2fm-2903",
+    "category": "Psychiatry finer source review",
+    "q": "What defense mechanism does the PDF associate with paranoid personality disorder?",
+    "a": "Projection, in its source personality table.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2fm-2904",
+    "category": "Psychiatry finer source review",
+    "q": "What repetitive-motion and object-arrangement examples does the PDF give for autism?",
+    "a": "Rocking/stimming and arranging toys in straight lines; isolated examples do not establish an autism diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-2905",
+    "category": "Psychiatry finer source review",
+    "q": "How does the source describe the memory gaps in dissociative identity disorder?",
+    "a": "Time loss or learning about actions one does not recall during transitions between identity states.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-2906",
+    "category": "Psychiatry finer source review",
+    "q": "What external incentives does the PDF list for malingering?",
+    "a": "Money, drugs, or time away from prison or school. An incentive alone does not prove symptoms are fabricated.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-2907",
+    "category": "Psychiatry finer source review",
+    "q": "What source sleep-wake patterns fall under circadian rhythm disorders?",
+    "a": "Delayed phase, advanced phase and shift-work-related misalignment between sleep timing and the required or environmental schedule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-2908",
+    "category": "Psychiatry finer source review",
+    "q": "What source vocal tic examples are simpler than coprolalia?",
+    "a": "Throat clearing, sniffing or humming. Coprolalia is one possible complex vocal tic, not a requirement for Tourette syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-2909",
+    "category": "Psychiatry finer source review",
+    "q": "What source follow-up interval is given for a child with a provisional isolated tic?",
+    "a": "Observation with follow-up in 3-6 months, in its source example. Persistent, impairing or atypical symptoms need assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2910",
+    "category": "Child development source details",
+    "q": "What stimulant-related tic warning does the PDF give?",
+    "a": "It says methylphenidate, amphetamines and caffeine can cause tics.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "NINDS says methylphenidate and dextroamphetamine can reduce ADHD symptoms in Tourette syndrome without worsening tics. The source warning is not an automatic reason to exclude monitored ADHD stimulant treatment.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/tourette-syndrome"
+    }
+  },
+  {
+    "id": "s2fm-2911",
+    "category": "Child development source details",
+    "q": "At what age does the source place a pincer grasp?",
+    "a": "Nine months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "CDC lists picking up small items between thumb and pointer finger among one-year milestones. CDC milestones describe what most children do by that age, not the earliest normal acquisition or a one-to-one replacement for a teaching range.",
+      "url": "https://www.cdc.gov/act-early/milestones/1-year.html"
+    }
+  },
+  {
+    "id": "s2fm-2912",
+    "category": "Child development source details",
+    "q": "What language combination does the source place at age two?",
+    "a": "Two-word sentences.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "CDC similarly lists saying at least two words together by two years. Developmental checklists support surveillance and do not replace validated screening or individual assessment.",
+      "url": "https://www.cdc.gov/act-early/milestones/2-years.html"
+    }
+  },
+  {
+    "id": "s2fm-2913",
+    "category": "Child development source details",
+    "q": "What source age ranges are given for copying basic shapes?",
+    "a": "Circle at 3-4 years, square at 4-5 and triangle at 5-6. These are PDF ranges rather than a stand-alone developmental diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2914",
+    "category": "Child development source details",
+    "q": "What source ages are given for stacking blocks?",
+    "a": "Three blocks at age one, six at age two and nine at age three, in its source table.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2915",
+    "category": "Child development source details",
+    "q": "What source walking progression follows crawling?",
+    "a": "Standing/cruising along a sofa at 10-11 months, then walking at 12-15 months, in its source ranges.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2916",
+    "category": "Child development source details",
+    "q": "What source infant social-anxiety ages are listed?",
+    "a": "Social smile at 2-3 months, stranger anxiety at 6-9 months and separation anxiety at 9-14 months, as source teaching ranges.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2917",
+    "category": "Child bowel-control source review",
+    "q": "What reassurance does the PDF give about encopresis through age five?",
+    "a": "It calls occasional stool soiling normal through age five.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "AAP HealthyChildren describes encopresis as a sign that bowel function is not normal, often from long-term constipation with overflow leakage. Recurrent soiling in a toilet-trained child warrants assessment rather than dismissal based on the source age cutoff.",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/Pages/Soiling-Encopresis.aspx"
     }
   }
 ];
