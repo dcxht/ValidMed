@@ -18337,5 +18337,131 @@ export default [
       "text": "Merck lists spontaneous abortion, low birth weight, prematurity, premature rupture of membranes, placental abruption and placenta previa with tobacco smoking. Long-term cognitive effects are possible but confounded and less specific than the growth and obstetric risks.",
       "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/drug-safety-in-pregnancy/social-and-illicit-drugs-during-pregnancy"
     }
+  },
+  {
+    "id": "s2peds-1301",
+    "category": "Pediatric dermatology",
+    "q": "What scalp appearance should make tinea capitis the leading diagnosis?",
+    "a": "A circular, scaly patch of alopecia, as in the source photo. Broken hairs, scale or a kerion can strengthen the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Merck says tinea capitis is mainly a pediatric dermatophyte infection and diagnosis is confirmed with potassium hydroxide testing of plucked hairs or scale, sometimes with culture or Wood light.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-capitis-scalp-ringworm"
+    },
+    "img": "/mehlman/figures/peds-p090-tinea-capitis.png",
+    "imgAlt": "Actual source photograph of tinea capitis showing a circular scaly patch of scalp alopecia"
+  },
+  {
+    "id": "s2peds-1302",
+    "category": "Pediatric dermatology",
+    "q": "Which organism groups cause tinea capitis in the source?",
+    "a": "Dermatophytes, especially Microsporum and Trichophyton species. These fungi invade keratinized scalp skin and hair.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Merck identifies Trichophyton tonsurans as the most common cause in the United States, followed by Microsporum canis and M. audouinii. The source organism list remains correct but lacks that current US ranking.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-capitis-scalp-ringworm"
+    }
+  },
+  {
+    "id": "s2peds-1303",
+    "category": "Pediatric dermatology",
+    "q": "What is the source treatment answer for tinea capitis, and what should not be treated?",
+    "a": "The source answer is oral griseofulvin for the patient only. Treating the patient plus all classmates is its stated wrong NBME answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Current Merck guidance is species-specific: oral terbinafine is first-line for Trichophyton in children, while oral griseofulvin is preferred for Microsporum. Topical treatment alone is insufficient; selenium-sulfide shampoo or another topical adjunct can reduce spread, and children may attend school during treatment.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-capitis-scalp-ringworm"
+    }
+  },
+  {
+    "id": "s2peds-1304",
+    "category": "Pediatric dermatology",
+    "q": "What body lesion does tinea corporis classically produce?",
+    "a": "Ringworm: an annular, erythematous, scaly plaque with a raised advancing border and relative central clearing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Merck describes pink-to-red annular patches or plaques with raised scaly borders that expand peripherally and clear centrally. Diagnosis is clinical and can be confirmed by KOH preparation of skin scrapings.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-corporis-body-ringworm"
+    },
+    "img": "/mehlman/figures/peds-p090-tinea-corporis.png",
+    "imgAlt": "Actual source photograph of tinea corporis showing an annular scaly erythematous plaque with central clearing"
+  },
+  {
+    "id": "s2peds-1305",
+    "category": "Pediatric dermatology",
+    "q": "Why does a dog in the home support tinea corporis in the source vignette?",
+    "a": "A dog is a clue to zoonotic dermatophyte transmission, classically Microsporum canis causing body ringworm. The lesion, not pet exposure alone, makes the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Merck lists Microsporum canis among common tinea corporis causes, supporting the source pet-exposure clue. Trichophyton species are also common, so animal contact is a clue rather than species proof.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-corporis-body-ringworm"
+    }
+  },
+  {
+    "id": "s2peds-1306",
+    "category": "Pediatric dermatology",
+    "q": "What is the source treatment for uncomplicated tinea corporis?",
+    "a": "Topical miconazole or clotrimazole. A small localized body lesion does not require oral griseofulvin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Merck recommends topical terbinafine, naftifine or an imidazole such as clotrimazole for mild-to-moderate tinea corporis, continued twice daily for at least 7-10 days after lesions disappear. Extensive or resistant disease may need oral terbinafine or itraconazole.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-corporis-body-ringworm"
+    }
+  },
+  {
+    "id": "s2peds-1307",
+    "category": "Pediatric dermatology",
+    "q": "What treatments does the source allow for tinea pedis?",
+    "a": "Topical terbinafine or a topical azole. Keep the feet dry to reduce recurrence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Merck says topical antifungals are the safest first-line tinea pedis treatment, with oral itraconazole or terbinafine reserved for selected resistant or more severe disease. Moisture reduction, sock changes and drying between the toes help prevent recurrence.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-pedis-athlete-s-foot"
+    }
+  },
+  {
+    "id": "s2peds-1308",
+    "category": "Pediatric dermatology",
+    "q": "Which diagnosis is represented by the final p90 source photograph?",
+    "a": "Cellulitis: a spreading, warm, erythematous, painful skin and subcutaneous-tissue infection. The source gives the label and image on p90, with its organism and antibiotic discussion beginning on p91.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 90,
+      "url": "/mehlman/hy-pediatrics.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Merck defines cellulitis as an acute streptococcal or staphylococcal infection of skin and subcutaneous tissue, usually with pain, warmth, rapidly spreading erythema and swelling, and typically without pus. P90 intentionally preserves only the source image/label; the p91 treatment claims will be handled on p91.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/cellulitis"
+    },
+    "img": "/mehlman/figures/peds-p090-cellulitis.png",
+    "imgAlt": "Actual source photograph of cellulitis showing a spreading erythematous area on a limb"
   }
 ];
