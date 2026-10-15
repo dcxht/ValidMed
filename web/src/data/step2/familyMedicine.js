@@ -42402,7 +42402,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=266"
     },
     "guideline": {
-      "text": "AAD distinguishes topical retinoids that help clear pores from oral isotretinoin that treats severe acne through several effects. The source one-line retinoid/sebum statement is not a full mechanism comparison or a complete combination-treatment plan.",
+      "text": "AAD distinguishes topical retinoids that help clear pores from oral isotretinoin used for severe nodular acne that has not responded to other treatment. The source one-line retinoid/sebum statement is not a full mechanism comparison or a complete combination-treatment plan.",
       "url": "https://www.aad.org/public/diseases/acne/derm-treat/treat"
     }
   },
@@ -42874,6 +42874,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 285,
       "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "A European Respiratory Review article (2017, secondary review) describes several systemic-sclerosis pulmonary-hypertension phenotypes: small-artery vasculopathy/PAH, interstitial-lung-disease-associated disease and left-heart disease, with possible venous involvement. Fibrosis is not a prerequisite for every case; this review is not a newly issued treatment guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9488608/"
     }
   },
   {
@@ -43112,6 +43116,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 291,
       "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "ATA cytopathology guidance states that differentiating follicular carcinoma from benign follicular adenoma requires assessment for vascular and/or capsular invasion on surgical pathology. Seeing thyroid follicles alone is insufficient, and an FNA follicular-neoplasm result is not identical to a proven carcinoma.",
+      "url": "https://www.thyroid.org/professionals/laboratory-services-library/quality-assurance-cytopathology/"
     }
   },
   {
@@ -43449,6 +43457,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 304,
       "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    },
+    "guideline": {
+      "text": "Mayo Clinic patient guidance describes subacute/chronic subdural symptoms emerging days, weeks or longer after injury and warns that an initially well-appearing person can later deteriorate. The classic epidural lucid-interval pattern should not become a no-lucid-period exclusion rule for subdural bleeding. New or worsening neurologic symptoms after head injury need urgent assessment.",
+      "url": "https://www.mayoclinic.org/diseases-conditions/intracranial-hematoma/symptoms-causes/syc-20356145"
     }
   },
   {
@@ -43564,6 +43576,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 309,
       "url": "/mehlman/hy-family-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "NICE CG32 recommendation 1.4.8 addresses high-risk refeeding with careful nutrition introduction, thiamin/vitamins, potassium/phosphate/magnesium provision, fluid monitoring and selected cardiac monitoring. The source phosphate-only explanation is not a full risk assessment or treatment plan. This does not make a single low-phosphate value diagnostic by itself.",
+      "url": "https://www.nice.org.uk/guidance/CG32/chapter/recommendations"
     }
   },
   {
