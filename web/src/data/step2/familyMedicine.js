@@ -863,7 +863,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 25,
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
-    }
+    },
+    "sourcePages": [
+      25,
+      283
+    ]
   },
   {
     "id": "s2fm-0074",
@@ -876,7 +880,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
     },
     "sourcePages": [
-      25
+      25,
+      283
     ]
   },
   {
@@ -888,7 +893,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 25,
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
-    }
+    },
+    "sourcePages": [
+      25,
+      283
+    ]
   },
   {
     "id": "s2fm-0076",
@@ -936,7 +945,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 26,
       "url": "/mehlman/hy-family-medicine.pdf#page=26"
-    }
+    },
+    "sourcePages": [
+      26,
+      297
+    ]
   },
   {
     "id": "s2fm-0080",
@@ -1299,7 +1312,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 35,
       "url": "/mehlman/hy-family-medicine.pdf#page=35"
-    }
+    },
+    "sourcePages": [
+      35,
+      282
+    ]
   },
   {
     "id": "s2fm-0111",
@@ -1651,7 +1668,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 44,
       "url": "/mehlman/hy-family-medicine.pdf#page=44"
-    }
+    },
+    "sourcePages": [
+      44,
+      285
+    ]
   },
   {
     "id": "s2fm-0141",
@@ -2360,7 +2381,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 59,
       "url": "/mehlman/hy-family-medicine.pdf#page=59"
-    }
+    },
+    "sourcePages": [
+      59,
+      284
+    ]
   },
   {
     "id": "s2fm-0199",
@@ -2408,7 +2433,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 60,
       "url": "/mehlman/hy-family-medicine.pdf#page=60"
-    }
+    },
+    "sourcePages": [
+      60,
+      281
+    ]
   },
   {
     "id": "s2fm-0203",
@@ -2419,7 +2448,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 60,
       "url": "/mehlman/hy-family-medicine.pdf#page=60"
-    }
+    },
+    "sourcePages": [
+      60,
+      281
+    ]
   },
   {
     "id": "s2fm-0204",
@@ -2794,7 +2827,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 69,
       "url": "/mehlman/hy-family-medicine.pdf#page=69"
-    }
+    },
+    "sourcePages": [
+      69,
+      281
+    ]
   },
   {
     "id": "s2fm-0237",
@@ -3213,7 +3250,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 79,
       "url": "/mehlman/hy-family-medicine.pdf#page=79"
-    }
+    },
+    "sourcePages": [
+      79,
+      286
+    ]
   },
   {
     "id": "s2fm-0273",
@@ -3393,7 +3434,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 85,
       "url": "/mehlman/hy-family-medicine.pdf#page=85"
-    }
+    },
+    "sourcePages": [
+      85,
+      289
+    ]
   },
   {
     "id": "s2fm-0289",
@@ -4346,7 +4391,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 110,
       "url": "/mehlman/hy-family-medicine.pdf#page=110"
-    }
+    },
+    "sourcePages": [
+      110,
+      286
+    ]
   },
   {
     "id": "s2fm-0371",
@@ -4451,7 +4500,11 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=114"
     },
     "img": "/s2img/fm-114-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      114,
+      283
+    ]
   },
   {
     "id": "s2fm-0380",
@@ -4477,7 +4530,11 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=115"
     },
     "img": "/s2img/fm-115-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      115,
+      284
+    ]
   },
   {
     "id": "s2fm-0382",
@@ -4490,7 +4547,11 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=115"
     },
     "img": "/s2img/fm-115-1.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      115,
+      284
+    ]
   },
   {
     "id": "s2fm-0383",
@@ -4503,7 +4564,11 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=115"
     },
     "img": "/s2img/fm-115-2.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      115,
+      284
+    ]
   },
   {
     "id": "s2fm-0384",
@@ -4518,7 +4583,8 @@ export default [
     "img": "/s2img/fm-116-0.png",
     "alt": "Clinical photograph from the source PDF",
     "sourcePages": [
-      116
+      116,
+      284
     ]
   },
   {
@@ -4847,7 +4913,11 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=124"
     },
     "img": "/s2img/fm-124-2.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      124,
+      284
+    ]
   },
   {
     "id": "s2fm-0409",
@@ -7344,7 +7414,8 @@ export default [
     "sourcePages": [
       168,
       189,
-      191
+      191,
+      281
     ]
   },
   {
@@ -7861,7 +7932,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=177"
     },
     "sourcePages": [
-      177
+      177,
+      282
     ]
   },
   {
@@ -8375,7 +8447,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 189,
       "url": "/mehlman/hy-family-medicine.pdf#page=189"
-    }
+    },
+    "sourcePages": [
+      189,
+      282
+    ]
   },
   {
     "id": "s2fm-0691",
@@ -8397,7 +8473,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 189,
       "url": "/mehlman/hy-family-medicine.pdf#page=189"
-    }
+    },
+    "sourcePages": [
+      189,
+      291
+    ]
   },
   {
     "id": "s2fm-0693",
@@ -9872,7 +9952,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
-    }
+    },
+    "sourcePages": [
+      227,
+      288
+    ]
   },
   {
     "id": "s2fm-0812",
@@ -9885,7 +9969,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
     },
     "sourcePages": [
-      227
+      227,
+      288
     ]
   },
   {
@@ -10834,12 +10919,16 @@ export default [
     "id": "s2fm-0886",
     "category": "Endocrine",
     "q": "A densely fibrosed, woody thyroid extends into nearby structures. Which fibrosing condition is described?",
-    "a": "Riedel thyroiditis.",
+    "a": "Riedel thyroiditis. Its local invasion-like fibrosis can resemble anaplastic thyroid carcinoma, including extension toward esophagus/trachea.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 241,
       "url": "/mehlman/hy-family-medicine.pdf#page=241"
-    }
+    },
+    "sourcePages": [
+      241,
+      291
+    ]
   },
   {
     "id": "s2fm-0887",
@@ -11281,7 +11370,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 247,
       "url": "/mehlman/hy-family-medicine.pdf#page=247"
-    }
+    },
+    "sourcePages": [
+      247,
+      291
+    ]
   },
   {
     "id": "s2fm-0923",
@@ -11488,7 +11581,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 251,
       "url": "/mehlman/hy-family-medicine.pdf#page=251"
-    }
+    },
+    "sourcePages": [
+      251,
+      291
+    ]
   },
   {
     "id": "s2fm-0941",
@@ -11499,7 +11596,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 251,
       "url": "/mehlman/hy-family-medicine.pdf#page=251"
-    }
+    },
+    "sourcePages": [
+      251,
+      291
+    ]
   },
   {
     "id": "s2fm-0942",
@@ -11521,7 +11622,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 251,
       "url": "/mehlman/hy-family-medicine.pdf#page=251"
-    }
+    },
+    "sourcePages": [
+      251,
+      291
+    ]
   },
   {
     "id": "s2fm-0944",
@@ -11532,7 +11637,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 251,
       "url": "/mehlman/hy-family-medicine.pdf#page=251"
-    }
+    },
+    "sourcePages": [
+      251,
+      291
+    ]
   },
   {
     "id": "s2fm-0945",
@@ -11757,7 +11866,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 255,
       "url": "/mehlman/hy-family-medicine.pdf#page=255"
-    }
+    },
+    "sourcePages": [
+      255,
+      282
+    ]
   },
   {
     "id": "s2fm-0964",
@@ -12779,7 +12892,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 282,
       "url": "/mehlman/hy-family-medicine.pdf#page=282"
-    }
+    },
+    "sourcePages": [
+      282
+    ]
   },
   {
     "id": "s2fm-1048",
@@ -12844,12 +12960,15 @@ export default [
     "id": "s2fm-1053",
     "category": "Immunology",
     "q": "Why does CD 40-ligand deficiency cause hyper-IgM syndrome?",
-    "a": "T cells cannot properly provide CD 40-mediated help for B-cell immunoglobulin class switching.",
+    "a": "T cells cannot properly provide CD 40-mediated help for B-cell immunoglobulin class switching. CD40 ligand is on the T cell; CD40 is on the B cell.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 283,
       "url": "/mehlman/hy-family-medicine.pdf#page=283"
-    }
+    },
+    "sourcePages": [
+      283
+    ]
   },
   {
     "id": "s2fm-1054",
@@ -12992,7 +13111,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 289,
       "url": "/mehlman/hy-family-medicine.pdf#page=289"
-    }
+    },
+    "duplicateOf": "s2fm-0288"
   },
   {
     "id": "s2fm-1067",
@@ -13147,7 +13267,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 295,
       "url": "/mehlman/hy-family-medicine.pdf#page=295"
-    }
+    },
+    "sourcePages": [
+      295
+    ]
   },
   {
     "id": "s2fm-1081",
@@ -13209,12 +13332,15 @@ export default [
     "id": "s2fm-1086",
     "category": "Gastroenterology",
     "q": "Cirrhosis and malignancy are discussed as risk factors for which venous cause of ischemic bowel?",
-    "a": "Mesenteric venous thrombosis, associated with venous stasis and hypercoagulability.",
+    "a": "Mesenteric venous thrombosis, associated with venous stasis and hypercoagulability. This is venous ischemia, distinct from embolic arterial occlusion.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 300,
       "url": "/mehlman/hy-family-medicine.pdf#page=300"
-    }
+    },
+    "sourcePages": [
+      300
+    ]
   },
   {
     "id": "s2fm-1087",
@@ -15777,7 +15903,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 10,
       "url": "/mehlman/hy-family-medicine.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      298
+    ]
   },
   {
     "id": "s2fm-1292",
@@ -15788,7 +15918,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 10,
       "url": "/mehlman/hy-family-medicine.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      299
+    ]
   },
   {
     "id": "s2fm-1293",
@@ -16403,7 +16537,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 10,
       "url": "/mehlman/hy-family-medicine.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      298
+    ]
   },
   {
     "id": "s2fm-1346",
@@ -16469,7 +16607,12 @@ export default [
     "guideline": {
       "text": "Current guideline: ACC/AHA/ACCP/HRS 2023 recommends a validated risk score and annual thromboembolic-risk assessment; DOACs are preferred over warfarin except with mitral stenosis or mechanical valves.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/11/27/19/46/2023-acc-guideline-for-af-gl-af"
-    }
+    },
+    "sourcePages": [
+      12,
+      299,
+      300
+    ]
   },
   {
     "id": "s2fm-1351",
@@ -16484,7 +16627,11 @@ export default [
     "guideline": {
       "text": "Current guideline: ACC/AHA/ACCP/HRS 2023 does not recommend aspirin alone or with clopidogrel as an alternative to anticoagulation in eligible AF patients without another antiplatelet indication.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/11/27/19/46/2023-acc-guideline-for-af-gl-af"
-    }
+    },
+    "sourcePages": [
+      96,
+      300
+    ]
   },
   {
     "id": "s2fm-1352",
@@ -17526,7 +17673,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 39,
       "url": "/mehlman/hy-family-medicine.pdf#page=39"
-    }
+    },
+    "sourcePages": [
+      39,
+      282
+    ]
   },
   {
     "id": "s2fm-1438",
@@ -17648,7 +17799,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 42,
       "url": "/mehlman/hy-family-medicine.pdf#page=42"
-    }
+    },
+    "sourcePages": [
+      42,
+      282
+    ]
   },
   {
     "id": "s2fm-1449",
@@ -17741,7 +17896,11 @@ export default [
     "guideline": {
       "text": "AAO-HNS 2022: do not insert tubes for recurrentAOM if no middle-ear effusion is present at candidacy assessment; offer bilateral tubes when recurrentAOM has unilateral/bilateral effusion. Counts alone are not the full decision.",
       "url": "https://bulletin.entnet.org/home/article/22030720/guideline-update-key-action-statements"
-    }
+    },
+    "sourcePages": [
+      43,
+      285
+    ]
   },
   {
     "id": "s2fm-1456",
@@ -17797,7 +17956,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 44,
       "url": "/mehlman/hy-family-medicine.pdf#page=44"
-    }
+    },
+    "sourcePages": [
+      44,
+      285
+    ]
   },
   {
     "id": "s2fm-1461",
@@ -17938,7 +18101,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 46,
       "url": "/mehlman/hy-family-medicine.pdf#page=46"
-    }
+    },
+    "sourcePages": [
+      46,
+      288
+    ]
   },
   {
     "id": "s2fm-1473",
@@ -18041,7 +18208,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 48,
       "url": "/mehlman/hy-family-medicine.pdf#page=48"
-    }
+    },
+    "sourcePages": [
+      48,
+      282
+    ]
   },
   {
     "id": "s2fm-1482",
@@ -18263,7 +18434,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 51,
       "url": "/mehlman/hy-family-medicine.pdf#page=51"
-    }
+    },
+    "sourcePages": [
+      51,
+      287
+    ]
   },
   {
     "id": "s2fm-1502",
@@ -18633,7 +18808,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 59,
       "url": "/mehlman/hy-family-medicine.pdf#page=59"
-    }
+    },
+    "sourcePages": [
+      59,
+      284
+    ]
   },
   {
     "id": "s2fm-1532",
@@ -19226,7 +19405,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 69,
       "url": "/mehlman/hy-family-medicine.pdf#page=69"
-    }
+    },
+    "sourcePages": [
+      69,
+      281
+    ]
   },
   {
     "id": "s2fm-1584",
@@ -20017,7 +20200,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 79,
       "url": "/mehlman/hy-family-medicine.pdf#page=79"
-    }
+    },
+    "sourcePages": [
+      79,
+      286
+    ]
   },
   {
     "id": "s2fm-1651",
@@ -20124,7 +20311,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 81,
       "url": "/mehlman/hy-family-medicine.pdf#page=81"
-    }
+    },
+    "sourcePages": [
+      81,
+      286
+    ]
   },
   {
     "id": "s2fm-1660",
@@ -20275,7 +20466,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 83,
       "url": "/mehlman/hy-family-medicine.pdf#page=83"
-    }
+    },
+    "sourcePages": [
+      83,
+      289
+    ]
   },
   {
     "id": "s2fm-1673",
@@ -20290,7 +20485,11 @@ export default [
     "guideline": {
       "text": "ASH 2019 individualizes care by bleeding, platelet count, age and course. Observation is favored for many mildly affected children; second-line options include TPO agonists, rituximab or splenectomy, ideally delaying splenectomy at least 1 year if possible.",
       "url": "https://ashpublications.org/bloodadvances/article/3/23/3829/429213/American-Society-of-Hematology-2019-guidelines-for"
-    }
+    },
+    "sourcePages": [
+      84,
+      289
+    ]
   },
   {
     "id": "s2fm-1674",
@@ -21498,7 +21697,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 110,
       "url": "/mehlman/hy-family-medicine.pdf#page=110"
-    }
+    },
+    "sourcePages": [
+      110,
+      286
+    ]
   },
   {
     "id": "s2fm-1778",
@@ -21509,7 +21712,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 111,
       "url": "/mehlman/hy-family-medicine.pdf#page=111"
-    }
+    },
+    "sourcePages": [
+      111,
+      286
+    ]
   },
   {
     "id": "s2fm-1779",
@@ -21627,7 +21834,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 114,
       "url": "/mehlman/hy-family-medicine.pdf#page=114"
-    }
+    },
+    "sourcePages": [
+      114,
+      283
+    ]
   },
   {
     "id": "s2fm-1789",
@@ -21649,7 +21860,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 114,
       "url": "/mehlman/hy-family-medicine.pdf#page=114"
-    }
+    },
+    "sourcePages": [
+      114,
+      283
+    ]
   },
   {
     "id": "s2fm-1791",
@@ -21660,7 +21875,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 114,
       "url": "/mehlman/hy-family-medicine.pdf#page=114"
-    }
+    },
+    "sourcePages": [
+      114,
+      283,
+      284
+    ]
   },
   {
     "id": "s2fm-1792",
@@ -21686,7 +21906,11 @@ export default [
     "guideline": {
       "text": "IDSA 2014: typical nonpurulent cellulitis needs streptococcal coverage; penicillin/amoxicillin can be suitable. Purulence, systemic severity and MRSA risks change selection. The source blanket exclusion is not universal.",
       "url": "https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/"
-    }
+    },
+    "sourcePages": [
+      115,
+      284
+    ]
   },
   {
     "id": "s2fm-1794",
@@ -22512,7 +22736,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 140,
       "url": "/mehlman/hy-family-medicine.pdf#page=140"
-    }
+    },
+    "sourcePages": [
+      140,
+      297
+    ]
   },
   {
     "id": "s2fm-1862",
@@ -24754,7 +24982,11 @@ export default [
     "guideline": {
       "text": "NCBI-hosted StatPearls 2024 states serotonin syndrome is diagnosed clinically, with medication history/examination and findings such as clonus/hyperreflexia; no diagnostic laboratory test establishes it. This is a secondary clinical review, not a guideline.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK482377/"
-    }
+    },
+    "sourcePages": [
+      189,
+      291
+    ]
   },
   {
     "id": "s2fm-2040",
@@ -26383,7 +26615,11 @@ export default [
     "guideline": {
       "text": "CDC 2026 recommends routine PCV for adults 50+ without prior PCV or with unknown history; product/prior-dose history determines whether PPSV23 or further doses are needed.",
       "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      285
+    ]
   },
   {
     "id": "s2fm-2172",
@@ -26398,7 +26634,11 @@ export default [
     "guideline": {
       "text": "CDC perinatal table: infants under 2,000 g with unknown maternal HBsAg need vaccine and HBIG within 12 hours. At 2,000 g or more, give vaccine within 12 hours, urgently clarify maternal status, and follow the indicated HBIG pathway.",
       "url": "https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/vaccine-administration.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      285
+    ]
   },
   {
     "id": "s2fm-2173",
@@ -27586,7 +27826,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 282,
       "url": "/mehlman/hy-family-medicine.pdf#page=282"
-    }
+    },
+    "duplicateOf": "s2fm-1047"
   },
   {
     "id": "s2fm-2270",
@@ -27620,7 +27861,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 283,
       "url": "/mehlman/hy-family-medicine.pdf#page=283"
-    }
+    },
+    "duplicateOf": "s2fm-1053"
   },
   {
     "id": "s2fm-2273",
@@ -27871,7 +28113,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 295,
       "url": "/mehlman/hy-family-medicine.pdf#page=295"
-    }
+    },
+    "duplicateOf": "s2fm-1080"
   },
   {
     "id": "s2fm-2294",
@@ -27953,7 +28196,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 300,
       "url": "/mehlman/hy-family-medicine.pdf#page=300"
-    }
+    },
+    "duplicateOf": "s2fm-1086"
   },
   {
     "id": "s2fm-2301",
@@ -29279,7 +29523,11 @@ export default [
     "guideline": {
       "text": "MedlinePlus Genetics says most type 1/type 2 disease is autosomal dominant, but type 3, some type 2 and a small number of type 1 cases are autosomal recessive. A single inheritance label does not cover all subtypes.",
       "url": "https://medlineplus.gov/genetics/condition/von-willebrand-disease/"
-    }
+    },
+    "sourcePages": [
+      84,
+      289
+    ]
   },
   {
     "id": "s2fm-2396",
@@ -29294,7 +29542,11 @@ export default [
     "guideline": {
       "text": "ASH/ISTH/NHF/WFH 2021 guidance says desmopressin is ineffective and contraindicated in type 3, generally contraindicated in type 2B because of thrombocytopenia risk, and many type 2 patients need alternatives. Treatment requires subtype/response and safety assessment.",
       "url": "https://ashpublications.org/bloodadvances/article/5/1/301/474884/ASH-ISTH-NHF-WFH-2021-guidelines-on-the-management"
-    }
+    },
+    "sourcePages": [
+      84,
+      290
+    ]
   },
   {
     "id": "s2fm-2397",
@@ -29324,7 +29576,11 @@ export default [
     "guideline": {
       "text": "WFH guideline recommendation 5.6.1 considers desmopressin for mild/moderate hemophilia A and carriers after testing the individual factor-VIII response. Baseline activity, response and duration determine suitability; this is not a universal severe-hemophilia regimen.",
       "url": "https://www1.wfh.org/publications/files/pdf-1905.pdf"
-    }
+    },
+    "sourcePages": [
+      85,
+      289
+    ]
   },
   {
     "id": "s2fm-2399",
@@ -29418,7 +29674,11 @@ export default [
     "guideline": {
       "text": "CDC 2021 STI guidance recommends only topical azoles for 7 days during pregnancy and advises against oral fluconazole. Nonpregnant uncomplicated, recurrent and severe cases have different regimens; the source two-option list is not a pregnancy treatment rule.",
       "url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm/"
-    }
+    },
+    "sourcePages": [
+      105,
+      284
+    ]
   },
   {
     "id": "s2fm-2405",
@@ -29924,7 +30184,11 @@ export default [
     "guideline": {
       "text": "NIMH describes psychotherapy, medical monitoring and nutritional care. It states that no medication is FDA-approved for anorexia symptoms; medication can address co-occurring disorders. The source shortcut is not a substitute for nutritional and medical treatment.",
       "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
-    }
+    },
+    "sourcePages": [
+      177,
+      282
+    ]
   },
   {
     "id": "s2fm-2438",
@@ -30477,7 +30741,11 @@ export default [
     "guideline": {
       "text": "A 2021 peer-reviewed pathology review, a secondary source, describes chromogranin/synaptophysin-based panels with site/type exceptions and S100-positive sustentacular cells in some appendiceal NETs. S100 alone is not a universal tumor-cell identifier or a stand-alone exclusion test.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8138694/"
-    }
+    },
+    "sourcePages": [
+      251,
+      291
+    ]
   },
   {
     "id": "s2fm-2475",
@@ -31180,7 +31448,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 291,
       "url": "/mehlman/hy-family-medicine.pdf#page=291"
-    }
+    },
+    "duplicateOf": "s2fm-0886"
   },
   {
     "id": "s2fm-2527",
@@ -31191,7 +31460,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 291,
       "url": "/mehlman/hy-family-medicine.pdf#page=291"
-    }
+    },
+    "duplicateOf": "s2fm-0922"
   },
   {
     "id": "s2fm-2528",
@@ -32333,7 +32603,11 @@ export default [
     "guideline": {
       "text": "AAP 2013 recommends amoxicillin when antibiotic treatment is chosen and appropriate. Additional beta-lactamase coverage is indicated with recent amoxicillin, purulent conjunctivitis or recurrent AOM unresponsive to amoxicillin. Plain penicillin is not the interchangeable first-line drug in that recommendation.",
       "url": "https://publications.aap.org/pediatrics/article/131/3/e964/30912"
-    }
+    },
+    "sourcePages": [
+      43,
+      285
+    ]
   },
   {
     "id": "s2fm-2610",
@@ -32370,7 +32644,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 42,
       "url": "/mehlman/hy-family-medicine.pdf#page=42"
-    }
+    },
+    "sourcePages": [
+      42,
+      282
+    ]
   },
   {
     "id": "s2fm-2613",
@@ -32763,7 +33041,11 @@ export default [
     "guideline": {
       "text": "ACG describes endoscopy, barium esophagram and manometry as complementary tests in establishing achalasia. The source sequence should not be read as a reason to omit endoscopic assessment in a dysphagia evaluation.",
       "url": "https://gi.org/topics/achalasia/"
-    }
+    },
+    "sourcePages": [
+      60,
+      281
+    ]
   },
   {
     "id": "s2fm-2640",
@@ -32986,7 +33268,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 69,
       "url": "/mehlman/hy-family-medicine.pdf#page=69"
-    }
+    },
+    "sourcePages": [
+      69,
+      281
+    ]
   },
   {
     "id": "s2fm-2657",
@@ -33509,7 +33795,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 85,
       "url": "/mehlman/hy-family-medicine.pdf#page=85"
-    }
+    },
+    "sourcePages": [
+      85,
+      289
+    ]
   },
   {
     "id": "s2fm-2697",
@@ -33532,7 +33822,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 85,
       "url": "/mehlman/hy-family-medicine.pdf#page=85"
-    }
+    },
+    "sourcePages": [
+      85,
+      289
+    ]
   },
   {
     "id": "s2fm-2699",
@@ -34672,7 +34966,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 114,
       "url": "/mehlman/hy-family-medicine.pdf#page=114"
-    }
+    },
+    "sourcePages": [
+      114,
+      283
+    ]
   },
   {
     "id": "s2fm-2788",
@@ -34683,7 +34981,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 115,
       "url": "/mehlman/hy-family-medicine.pdf#page=115"
-    }
+    },
+    "sourcePages": [
+      115,
+      284
+    ]
   },
   {
     "id": "s2fm-2789",
@@ -36127,7 +36429,7 @@ export default [
     "id": "s2fm-2902",
     "category": "Psychiatry finer source review",
     "q": "What single most-common death mechanism does the PDF name in anorexia?",
-    "a": "Ventricular fibrillation due to hypokalemia.",
+    "a": "Ventricular fibrillation due to hypokalemia. The rapid recap also labels hypokalemia the electrolyte abnormality; neither it nor cardiac death is universal in every eating-disorder presentation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 177,
@@ -36136,7 +36438,11 @@ export default [
     "guideline": {
       "text": "NIMH describes fatal starvation-related medical complications and suicide as a leading cause of death. The source single-mechanism statement is not a complete mortality or safety assessment.",
       "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
-    }
+    },
+    "sourcePages": [
+      177,
+      281
+    ]
   },
   {
     "id": "s2fm-2903",
@@ -37222,12 +37528,16 @@ export default [
     "id": "s2fm-2989",
     "category": "Bone and arthritis exact-source details",
     "q": "What hematologic mechanism does the PDF use for lupus-associated cytopenias?",
-    "a": "Increased peripheral immune destruction of blood-cell lines rather than automatically assuming decreased marrow production.",
+    "a": "Increased peripheral immune destruction of blood-cell lines rather than automatically assuming decreased marrow production. Other causes or mixed mechanisms still require evaluation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
-    }
+    },
+    "sourcePages": [
+      227,
+      288
+    ]
   },
   {
     "id": "s2fm-2990",
@@ -37422,7 +37732,11 @@ export default [
     "guideline": {
       "text": "CDC recommends a product-dependent two- or three-dose primary series and a booster at 12-15 months. The PDF single schedule does not fit every Hib product.",
       "url": "https://www.cdc.gov/hi-disease/hcp/vaccine-recommendations/index.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      284
+    ]
   },
   {
     "id": "s2fm-3004",
@@ -38202,7 +38516,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 288,
       "url": "/mehlman/hy-family-medicine.pdf#page=288"
-    }
+    },
+    "duplicateOf": "s2fm-2989"
   },
   {
     "id": "s2fm-3066",
@@ -38213,7 +38528,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 289,
       "url": "/mehlman/hy-family-medicine.pdf#page=289"
-    }
+    },
+    "duplicateOf": "s2fm-2696"
   },
   {
     "id": "s2fm-3067",
@@ -38283,7 +38599,10 @@ export default [
     "guideline": {
       "text": "ACR 2020 strongly recommends colchicine, NSAIDs or glucocorticoids as appropriate first-line flare therapy. It does not rank one above all others; choose using patient factors, comorbidities, access and past experience.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/"
-    }
+    },
+    "sourcePages": [
+      287
+    ]
   },
   {
     "id": "s2fm-3073",
@@ -38955,7 +39274,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 101,
       "url": "/mehlman/hy-family-medicine.pdf#page=101"
-    }
+    },
+    "sourcePages": [
+      101,
+      281
+    ]
   },
   {
     "id": "s2fm-3125",
@@ -40656,7 +40979,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
-    }
+    },
+    "sourcePages": [
+      227,
+      288
+    ]
   },
   {
     "id": "s2fm-3265",
@@ -40877,7 +41204,7 @@ export default [
     "id": "s2fm-3283",
     "category": "Final source-mapping details",
     "q": "What infant hepatitis B and rotavirus schedules does the source print?",
-    "a": "Hepatitis B at birth, 2 and 6 months; rotavirus at 2,4 and 6 months. These are PDF schedules, not a newly verified current product-specific schedule. The source itself advises checking current recommendations; maternal HBsAg/weight-related HBIG rules are separately qualified.",
+    "a": "Hepatitis B at birth, 2 and 6 months; rotavirus at 2,4 and 6 months. These are PDF schedules, not a newly verified current product-specific schedule. The source itself advises checking current recommendations; maternal HBsAg/weight-related HBIG rules are separately qualified. Page284 instead groups HepB with the 2/4/6-month vaccines plus birth; that is an internal source schedule difference, not a new current recommendation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 236,
@@ -40886,13 +41213,17 @@ export default [
     "guideline": {
       "text": "CDC child schedule notes give hepatitis B at 0,1-2 and6-18 months for the routine HBsAg-negative pathway, with birth-weight/maternal-status exceptions and possible four doses with combination vaccines. Rotavirus is product-specific: Rotarix two doses or RotaTeq three, not universally three doses.",
       "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      284
+    ]
   },
   {
     "id": "s2fm-3284",
     "category": "Final source-mapping details",
     "q": "What infant pneumococcal and polio schedules does the source print?",
-    "a": "PCV15 at 2,4,6 and 12-15 months; injected inactivated polio at 2,4,6 months and 4-6 years. These are the source schedules, not a complete current catch-up/product-specific vaccination plan.",
+    "a": "PCV15 at 2,4,6 and 12-15 months; injected inactivated polio at 2,4,6 months and 4-6 years. These are the source schedules, not a complete current catch-up/product-specific vaccination plan. Page284 instead names PCV13 and lists the 2/4/6-month group, an older/incomplete source variant rather than the PCV15 schedule printed earlier.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 236,
@@ -40901,13 +41232,17 @@ export default [
     "guideline": {
       "text": "CDC child schedule notes list PCV15/PCV20 at 2,4,6 and12-15 months; IPV at 2,4,6-18 months and4-6 years. The polio final dose must be at age4 or later and at least6 months after the prior dose. Product and catch-up history matter.",
       "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      284
+    ]
   },
   {
     "id": "s2fm-3285",
     "category": "Final source-mapping details",
     "q": "What adult pneumococcal products and risk groups does the PDF list?",
-    "a": "At 65 it gives PCV20 alone or PCV15 then PPSV23 a year later; selected immunocompromising/anatomic risk groups get PCV15 then PPSV23 after 8 or more weeks. This is the PDF regimen, not the latest routine-age recommendation, which is separately corrected.",
+    "a": "At 65 it gives PCV20 alone or PCV15 then PPSV23 a year later; selected immunocompromising/anatomic risk groups get PCV15 then PPSV23 after 8 or more weeks. This is the PDF regimen, not the latest routine-age recommendation, which is separately corrected. Page285 retains an older PCV13 then PPSV23 at 6-12 months after age 65 rule, and PCV13/PPSV23/Hib/meningococcal for asplenia/sickle cell. These source regimens differ from the earlier PDF table; use the separate current CDC note.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 236,
@@ -40916,13 +41251,17 @@ export default [
     "guideline": {
       "text": "CDC 2026 recommends routine PCV for adults 50+ without prior PCV or with unknown history; product/prior-dose history determines whether PPSV23 or further doses are needed.",
       "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      285
+    ]
   },
   {
     "id": "s2fm-3286",
     "category": "Final source-mapping details",
     "q": "What influenza and COVID vaccine age/formulation rules does the PDF list?",
-    "a": "Injected influenza from 6 months yearly, including pregnancy; live intranasal influenza for immunocompetent nonpregnant people 2-45; COVID injection from 6 months in 2-3 doses. These are source claims requiring current schedule/product review, not current universal eligibility rules.",
+    "a": "Injected influenza from 6 months yearly, including pregnancy; live intranasal influenza for immunocompetent nonpregnant people 2-45; COVID injection from 6 months in 2-3 doses. These are source claims requiring current schedule/product review, not current universal eligibility rules. Page284 correctly prints the live intranasal age range as 2-49, conflicting with 2-45 earlier, and calls injected influenza fall/winter-only; those are source variants, not a universal prohibition on vaccination outside that season.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 236,
@@ -40931,13 +41270,17 @@ export default [
     "guideline": {
       "text": "CDC September 2026 influenza guidance licenses live intranasal FluMist for ages 2-49, not 2-45. Age-appropriate injected influenza starts at 6 months; some children need two doses. COVID schedules are a separate product-, age-, immune-status- and history-specific decision, not a fixed universal 2-3-dose rule.",
       "url": "https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      284
+    ]
   },
   {
     "id": "s2fm-3287",
     "category": "Final source-mapping details",
     "q": "What MMR, HPV and meningococcal age schedules does the source print?",
-    "a": "MMR at 12-15 months and 4-6 years, avoiding pregnancy and HIV with CD4 below 200; HPV at 11-12 with 2 doses 6 months apart; meningococcal at 11-12 then 16, with additional asplenia considerations. These are source summaries, not complete current risk-, age- and dose-history-specific rules.",
+    "a": "MMR at 12-15 months and 4-6 years, avoiding pregnancy and HIV with CD4 below 200; HPV at 11-12 with 2 doses 6 months apart; meningococcal at 11-12 then 16, with additional asplenia considerations. These are source summaries, not complete current risk-, age- and dose-history-specific rules. Page285 instead gives HPV ages 9-45 without the routine-versus-shared-decision distinction and only one varicella dose at 12-18 months; its MMR ages match the earlier table. These are older/incomplete source variants.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 236,
@@ -40946,7 +41289,11 @@ export default [
     "guideline": {
       "text": "CDC child schedule notes retain routine MMR at 12-15 months / 4-6 years and MenACWY at 11-12/16 years. HPV is routine at 11-12, can start at 9; starting before 15 generally uses two doses 6-12 months apart, while starting at 15+ or immunocompromise uses three doses. MenB and high-risk schedules are separate.",
       "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
-    }
+    },
+    "sourcePages": [
+      236,
+      285
+    ]
   },
   {
     "id": "s2fm-3288",
@@ -41303,7 +41650,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 251,
       "url": "/mehlman/hy-family-medicine.pdf#page=251"
-    }
+    },
+    "sourcePages": [
+      251,
+      291
+    ]
   },
   {
     "id": "s2fm-3317",
@@ -41917,6 +42268,537 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 278,
       "url": "/mehlman/hy-family-medicine.pdf#page=278"
+    }
+  },
+  {
+    "id": "s2fm-3371",
+    "category": "Final source-mapping details",
+    "q": "What family-history colonoscopy rule does the PDF give?",
+    "a": "Start at 40 or 10 years before the affected first-degree relative diagnosis, whichever is earlier, then every 5 years. This is its source high-risk rule, distinct from the latest final USPSTF average-risk pathway; relative age/number and syndrome change actual guidance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-3372",
+    "category": "Final source-mapping details",
+    "q": "What older-patient breast-imaging branch does the PDF contrast with ultrasound below 30?",
+    "a": "Mammography with or without ultrasound above 30. This is its age-based source summary, not a complete symptomatic-mass or high-risk-screening algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-3373",
+    "category": "Final source-mapping details",
+    "q": "Which alarm context makes the source go directly to upper endoscopy rather than empiric GERD treatment?",
+    "a": "Dysphagia with a GERD history, to assess for malignancy/structural disease. Its separate solids/liquids timing pattern does not replace alarm-symptom evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-3374",
+    "category": "Final source-mapping details",
+    "q": "What electrolyte and mortality shortcut does the source give for anorexia?",
+    "a": "Hypokalemia, with arrhythmia labeled its most common cause of death. This is a source generalization, not proof that every restrictive eating disorder is hypokalemic or that all mortality is cardiac.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "NIMH describes fatal starvation-related medical complications and suicide as a leading cause of death. The source single-mechanism statement is not a complete mortality or safety assessment.",
+      "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+    },
+    "duplicateOf": "s2fm-2902"
+  },
+  {
+    "id": "s2fm-3375",
+    "category": "Final source-mapping details",
+    "q": "What fixed fraction and demographic chest-imaging clues does the source use for cough-variant asthma?",
+    "a": "It says one-third of asthma patients have cough alone; a young Black woman with dry cough and normal CXR favors asthma, while nodularity favors sarcoid. These source heuristics do not diagnose or exclude disease by race or a normal radiograph alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-3376",
+    "category": "Final source-mapping details",
+    "q": "What source diagnostic sequence does the rapid anti-GBM discussion give?",
+    "a": "Anti-basement-membrane/type IV-collagen antibodies first, then renal biopsy showing linear immunofluorescence. Pulmonary-renal presentations require urgent assessment rather than waiting through a rigid source sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-3377",
+    "category": "Final source-mapping details",
+    "q": "What age/infection pattern does the source use for Bruton versus SCID?",
+    "a": "Bacterial infections beginning around 6 months favor Bruton; broad bacterial/fungal/protozoal/viral infections from birth favor SCID. It also gives an unusual bacterial-from-birth Bruton vignette; onset and pathogen labels alone cannot define an immune defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-3378",
+    "category": "Final source-mapping details",
+    "q": "What scalp-versus-nail dermatophyte treatments does the source name?",
+    "a": "Oral griseofulvin for tinea capitis and oral terbinafine for onychomycosis, contrasting these with topical therapy for ordinary corporis/pedis. It says only the affected patient gets griseofulvin and advises not sharing hats; this is not a complete contact/outbreak protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-3379",
+    "category": "Final source-mapping details",
+    "q": "What oral-versus-topical Candida order appears in the rapid source?",
+    "a": "Oral azole for cutaneous Candida, nystatin mouthwash for oropharyngeal disease, systemic azole for esophageal disease, and vaginal topical nystatin before oral azole. These source choices are not a universal site-, pregnancy- or severity-independent fungal treatment algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    }
+  },
+  {
+    "id": "s2fm-3380",
+    "category": "Final source-mapping details",
+    "q": "What source induction-to-consolidation regimen is printed for cryptococcal meningitis?",
+    "a": "Amphotericin B plus flucytosine, then fluconazole. This source sequence omits formulation/dose, duration, immune status and intracranial-pressure management; it is not a complete treatment protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    }
+  },
+  {
+    "id": "s2fm-3381",
+    "category": "Final source-mapping details",
+    "q": "Which organisms and antibiotics does the source pair with impetigo, erysipelas and cellulitis?",
+    "a": "S. aureus for impetigo with topical mupirocin; group A strep for erysipelas; S. aureus above S. pyogenes for cellulitis, with dicloxacillin or cephalexin. This source organism ranking is not a universal purulent/nonpurulent or local-resistance rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    }
+  },
+  {
+    "id": "s2fm-3382",
+    "category": "Final source-mapping details",
+    "q": "What source cause/effect links CREST lung disease to pulmonary hypertension?",
+    "a": "Pulmonary fibrosis/restrictive lung disease, in its source account. Systemic-sclerosis pulmonary hypertension has more than one possible mechanism; this is not a universal requirement for fibrosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2fm-3383",
+    "category": "Final source-mapping details",
+    "q": "What biomechanical explanation does the PDF give for a preserved FEV1/FVC ratio in restriction?",
+    "a": "Radial traction keeps the airways open. Its pattern clue requires lung-volume assessment to establish restriction; it is not proof that all restrictive mechanisms have identical airway traction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2fm-3384",
+    "category": "Final source-mapping details",
+    "q": "Which earwax medication does the rapid source name?",
+    "a": "Carbamide peroxide drops. The source example is not an instruction to irrigate or use drops when perforation, pain, infection or prior ear surgery makes assessment necessary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2fm-3385",
+    "category": "Final source-mapping details",
+    "q": "What iron-study/pregnancy example makes the PDF favor thalassemia?",
+    "a": "Low MCV with low iron but normal ferritin in a pregnant woman already taking iron, or microcytosis unresponsive to supplementation. These are source clues; mixed deficiency/inflammation and hemoglobin studies still matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2fm-3386",
+    "category": "Final source-mapping details",
+    "q": "What workup choice does the rapid PDF assign to stroke according to blood-pressure status?",
+    "a": "Hypertension prompts carotid duplex; normotension prompts ECG then Holter if normal, favoring AF. This is its source shortcut, not a valid reason to omit cardiac or arterial stroke evaluation based on blood pressure alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2fm-3387",
+    "category": "Final source-mapping details",
+    "q": "What GnRH/LH-FSH mechanism does the PDF propose for PCOS anovulation and hirsutism?",
+    "a": "Insulin resistance alters GnRH pulsation, raising LH relative to FSH; it says an unready follicle receives an ovulatory signal, fails to ovulate and becomes a retained cyst. This is its source mechanistic simplification, not a complete verified PCOS pathogenesis account.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2fm-3388",
+    "category": "Final source-mapping details",
+    "q": "What male-cell/aromatase statement does the PDF add alongside ovarian FSH action?",
+    "a": "FSH stimulates Sertoli cells to make aromatase, in its source endocrine summary; it also describes follicle priming in females.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-3389",
+    "category": "Final source-mapping details",
+    "q": "What weight and contraception choices does the source give for PCOS without an immediate pregnancy goal?",
+    "a": "Weight loss first for high BMI, then OCPs when pregnancy is not desired; its clomiphene fertility choice has a separate current-guideline note. This source ladder is not a universal individualized plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A 2024 Medical Journal of Australia summary of the 2023 international PCOS guideline recommends letrozole first-line for anovulatory infertility in PCOS without other infertility factors. Local prescribing rules still apply.",
+      "url": "https://www.mja.com.au/journal/2024/221/7/summary-2023-international-evidence-based-guideline-assessment-and-management"
+    }
+  },
+  {
+    "id": "s2fm-3390",
+    "category": "Final source-mapping details",
+    "q": "What two-drug sequence does the source give for prostate cancer hormonal treatment?",
+    "a": "Flutamide plus leuprolide, with flutamide first if forced to order them. This is its source androgen-blockade/GnRH-agonist example, not a complete stage- or risk-specific modern prostate-cancer regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-3391",
+    "category": "Final source-mapping details",
+    "q": "What renal-context and osteoarthritis analgesic preferences does the rapid PDF state?",
+    "a": "Steroids for an acute gout flare with renal insufficiency/transplant; weight loss for OA, then acetaminophen before NSAIDs at normal BMI. These are source preferences, not a complete comorbidity-, pain- or safety-based treatment selection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-3392",
+    "category": "Final source-mapping details",
+    "q": "What escalation ladder does the PDF print for disease-modifying RA treatment?",
+    "a": "Methotrexate first, then another conventional DMARD such as sulfasalazine/leflunomide, then anti-TNF. Its universal methotrexate-first claim is separately qualified; treatment depends on activity, prior response, contraindications and patient goals.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "ACR 2021 favors methotrexate for DMARD-naive moderate/high disease activity, but conditionally favors hydroxychloroquine over other conventional DMARDs for low disease activity. Contraindications, prognosis and preferences matter; always is too broad.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273041/"
+    }
+  },
+  {
+    "id": "s2fm-3393",
+    "category": "Final source-mapping details",
+    "q": "What source symptom-control order and sulfasalazine mechanism are printed for RA?",
+    "a": "NSAID before steroids for symptoms; sulfasalazine breaks down to sulfapyridine/mesalamine, with mesalamine called the absorbed RA-treating component and the only NSAID-DMARD. The separate note corrects that active-moiety explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "The DailyMed AZULFIDINE EN-tabs label says the relative contributions of parent sulfasalazine and its major metabolites in RA are unknown. Sulfapyridine is relatively well absorbed, while 5-ASA is less well absorbed. The source should not transfer the 5-ASA-dominant ulcerative-colitis explanation into a settled RA mechanism.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1"
+    }
+  },
+  {
+    "id": "s2fm-3394",
+    "category": "Final source-mapping details",
+    "q": "What joint-distribution and symmetry absolutes does the PDF contrast for RA and OA?",
+    "a": "RA: symmetric PIP/MCP and no DIP; OA: asymmetric with DIP involvement. These source pattern rules are not absolute diagnostic exclusions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-3395",
+    "category": "Final source-mapping details",
+    "q": "Which specific lupus medications does the rapid source add beyond steroids for flares?",
+    "a": "Mycophenolate mofetil for lupus nephritis and hydroxychloroquine for discoid lupus. This source pair is not a complete class-, severity-, pregnancy- or organ-specific lupus treatment plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-3396",
+    "category": "Final source-mapping details",
+    "q": "What ITP recurrence and coagulation-test shortcuts does the rapid PDF give?",
+    "a": "Steroids first, IVIG then splenectomy; splenectomy is labeled the most effective recurrence reduction. Bleeding time is high with normal PT/aPTT in its platelet pattern. Current management is not dictated by this single fixed ladder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "ASH 2019 individualizes care by bleeding, platelet count, age and course. Observation is favored for many mildly affected children; second-line options include TPO agonists, rituximab or splenectomy, ideally delaying splenectomy at least 1 year if possible.",
+      "url": "https://ashpublications.org/bloodadvances/article/3/23/3829/429213/American-Society-of-Hematology-2019-guidelines-for"
+    }
+  },
+  {
+    "id": "s2fm-3397",
+    "category": "Final source-mapping details",
+    "q": "What fixed von-Willebrand laboratory pattern does the PDF state?",
+    "a": "Bleeding time always high, PT always normal and aPTT high about half the time; it also says every presentation combines platelet and factor bleeding. These are source absolutes, not a complete contemporary vWD diagnostic rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2fm-3398",
+    "category": "Final source-mapping details",
+    "q": "What vitamin K-deficiency blood-test pattern and adult cause does the source give?",
+    "a": "PT/aPTT prolonged with normal bleeding time, often after chronic antibiotics reduce intestinal flora. This source pattern varies with deficiency severity and clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-3399",
+    "category": "Final source-mapping details",
+    "q": "What exact empiric antibiotic examples does the PDF give for febrile neutropenia?",
+    "a": "Piperacillin/tazobactam or cefepime plus vancomycin. These are source examples, not a claim that vancomycin is indicated in every febrile-neutropenia case.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-3400",
+    "category": "Final source-mapping details",
+    "q": "What histology-only wording does the PDF give for follicular thyroid carcinoma?",
+    "a": "Literally thyroid follicles, with a cold nodule and hematogenous spread in its source description. Architecture alone does not demonstrate the capsular/vascular invasion needed to distinguish carcinoma from adenoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-3401",
+    "category": "Final source-mapping details",
+    "q": "What cell-origin and broad immunostain claims does the source repeat for carcinoid tumors?",
+    "a": "Neural-crest origin and S-100 positivity. This is source wording; the previously linked pathology note qualifies S-100 as a sustentacular rather than universal neuroendocrine tumor-cell marker.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A 2021 peer-reviewed pathology review, a secondary source, describes chromogranin/synaptophysin-based panels with site/type exceptions and S100-positive sustentacular cells in some appendiceal NETs. S100 alone is not a universal tumor-cell identifier or a stand-alone exclusion test.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8138694/"
+    }
+  },
+  {
+    "id": "s2fm-3402",
+    "category": "Final source-mapping details",
+    "q": "What neutrophil-chemoattractant list does the PDF contrast with cysteinyl leukotrienes?",
+    "a": "LTB4, IL-8, kallikrein, platelet-activating factor, C5a and bacterial proteins. These are its source examples; montelukast-type agents target cysteinyl-leukotriene signaling rather than the LTB4 receptor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-family-medicine.pdf#page=292"
+    }
+  },
+  {
+    "id": "s2fm-3403",
+    "category": "Final source-mapping details",
+    "q": "What emergency-asthma treatment components does the source name?",
+    "a": "Oxygen for hypoxemia, nebulized albuterol and IV steroids. Its blanket no-acute-ICS claim has a separate GINA 2026 note; this source list is not a full severity-specific emergency protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-family-medicine.pdf#page=293"
+    }
+  },
+  {
+    "id": "s2fm-3404",
+    "category": "Final source-mapping details",
+    "q": "What oxygen-versus-carbon-dioxide diffusion account does the PDF use during acute asthma?",
+    "a": "CO2 can still leave rapidly despite narrowed airways while O2 entry is impaired; rapid breathing lowers CO2. This is its source simplification, not a universal gas-exchange model; severe asthma/COPD can retain CO2 despite tachypnea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-family-medicine.pdf#page=293"
+    }
+  },
+  {
+    "id": "s2fm-3405",
+    "category": "Final source-mapping details",
+    "q": "What carbonic-anhydrase inhibitor does the source connect with high-altitude bicarbonate loss?",
+    "a": "Acetazolamide, increasing proximal bicarbonate loss to counter the respiratory-alkalosis context. Its fixed 12-24-hour compensation timetable is a teaching shortcut, not an exact clock in every patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-3406",
+    "category": "Final source-mapping details",
+    "q": "What exact postinfection time contrast does the rapid renal source use?",
+    "a": "IgA nephropathy within 1-3 days of respiratory/GI infection versus PSGN about 1-2 weeks after respiratory or skin infection. These are source time-pattern examples, not absolute diagnostic boundaries.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-3407",
+    "category": "Final source-mapping details",
+    "q": "What respiratory-failure labels does the PDF assign to its evolving severe-asthma gases?",
+    "a": "Low O2/low CO2: type I pattern; persistent low O2 with normalizing then high CO2 and fatigue: impending type II pattern requiring urgent ventilatory assessment in its vignette. A normal CO2 is not reassuring if the patient is tiring.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-3408",
+    "category": "Final source-mapping details",
+    "q": "What hormonal mechanism does the rapid source give for pubertal gynecomastia?",
+    "a": "Aromatization of androgens to estrogens, with a tender/unilateral subareolar lump in its reassurance vignette. Atypical or concerning findings need assessment rather than automatic reassurance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-3409",
+    "category": "Final source-mapping details",
+    "q": "What medication-class priority does the PDF extend beyond diabetes to any cardiovascular/cerebrovascular disease?",
+    "a": "ACE inhibitor or ARB first; otherwise HCTZ or dihydropyridine CCB. This source rule is too broad to substitute for the disease-specific indication, comorbidities, blood pressure and contraindications.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    }
+  },
+  {
+    "id": "s2fm-3410",
+    "category": "Final source-mapping details",
+    "q": "What exact atherosclerotic risk-ranking and population-frequency claims does the PDF make?",
+    "a": "Diabetes then smoking then hypertension for speed/severity, but hypertension as most common in the population; carotids are its hypertension-first exception. These are source rankings, not individualized risk estimates.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-family-medicine.pdf#page=296"
+    }
+  },
+  {
+    "id": "s2fm-3411",
+    "category": "Final source-mapping details",
+    "q": "What source rationale accompanies smoking cessation for perioperative MI reduction?",
+    "a": "Improved myocardial oxygenation/blood flow and coronary autoregulation, according to its source explanation. It does not replace a full perioperative risk and medication assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-family-medicine.pdf#page=296"
+    }
+  },
+  {
+    "id": "s2fm-3412",
+    "category": "Final source-mapping details",
+    "q": "What history does the source rank above diabetes, hypertension and smoking for a repeat MI?",
+    "a": "A previous MI. This is its source answer-choice priority, not a reason to ignore modifiable secondary-prevention needs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-family-medicine.pdf#page=297"
+    }
+  },
+  {
+    "id": "s2fm-3413",
+    "category": "Final source-mapping details",
+    "q": "What autoimmune and infant risks does the source add to its smoking-cessation examples?",
+    "a": "Reduced autoimmune-flare recurrence, fewer childhood ear/respiratory infections and lower SIDS risk in household exposure contexts. These are source claims, not a guarantee that one change prevents every flare or infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-family-medicine.pdf#page=297"
+    }
+  },
+  {
+    "id": "s2fm-3414",
+    "category": "Final source-mapping details",
+    "q": "What drug and hierarchy does the source favor after stroke in a hypertensive smoker without AF?",
+    "a": "Lisinopril/blood-pressure control over smoking cessation; it ranks AF above hypertension above smoking. These are source vignette priorities, not an exclusive secondary-stroke-prevention regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-family-medicine.pdf#page=298"
+    }
+  },
+  {
+    "id": "s2fm-3415",
+    "category": "Final source-mapping details",
+    "q": "What pressure/plaque mechanism does the source give for hypertension-related carotid emboli?",
+    "a": "Strong systolic impulses injure carotid endothelium, promote atheroma and permit plaque embolization to brain/retina. It contrasts this with other risk factors affecting coronary/aortic/popliteal beds first. This is a source mechanistic ranking, not independently verified here.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-family-medicine.pdf#page=298"
+    }
+  },
+  {
+    "id": "s2fm-3416",
+    "category": "Final source-mapping details",
+    "q": "What lifestyle intervention does the source prioritize specifically for lowering blood pressure in an overweight smoker?",
+    "a": "Weight loss rather than smoking cessation, calling it the most effective lifestyle modification. This is a source answer-choice claim, not an individualized comparison with sodium reduction, exercise or combined changes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-family-medicine.pdf#page=300"
     }
   }
 ];
