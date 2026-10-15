@@ -1429,3 +1429,5 @@ body {
 .practice-heading { margin-bottom:10px; }
 .partial-tag { color:var(--text-secondary); background:#f3f4f6; border:1px solid var(--border); border-radius:5px; font-size:10px; padding:2px 6px; }
 .practice-heading { margin-bottom:4px; }
+.q-guideline-note { font-size:13px; line-height:1.5; color:var(--muted); padding:10px 0; margin:8px 0 0; border-top:1px solid var(--border); }
+.q-guideline-note a { color:var(--accent); white-space:nowrap; }

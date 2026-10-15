@@ -5879,16 +5879,16 @@ export default [
   },
   {
     "id": "s2fm-0522",
-    "category": "Guideline comparisons",
-    "q": "What screening mammography interval and ages does the PDF give?",
-    "a": "PDF answer: every two years, ages 50-74.",
+    "category": "Prevention",
+    "q": "For average-risk screening, what mammography interval and age range does the current USPSTF recommend?",
+    "a": "Biennial screening mammography from ages 40 through 74. USPSTF 2024, Grade B. This screening recommendation does not replace evaluation of breast symptoms or specialized high-risk care.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 101,
       "url": "/mehlman/hy-family-medicine.pdf#page=101"
     },
     "guideline": {
-      "text": "Current guideline: USPSTF 2024 recommends biennial screening ages 40-74 for its applicable population.",
+      "text": "USPSTF 2024, Grade B. Updated from the PDF screening ages.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening"
     }
   },
@@ -5965,6 +5965,201 @@ export default [
     "guideline": {
       "text": "Current guideline: CDC 2025 uses antibody testing with reflex RNA; antibody alone can reflect current, resolved or false positivity, and RNA identifies current infection.",
       "url": "https://www.cdc.gov/hepatitis-c/hcp/diagnosis-testing/"
+    }
+  },
+  {
+    "id": "s2fm-0528",
+    "category": "Prevention",
+    "q": "What does USPSTF conclude about screening mammography at age 75 or older?",
+    "a": "Evidence is insufficient to assess the balance of benefits and harms. An I statement is not a recommendation against screening.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "USPSTF 2024, I statement. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-0529",
+    "category": "Prevention",
+    "q": "An asymptomatic man aged 65-75 has ever smoked. What AAA screening does USPSTF recommend?",
+    "a": "One-time abdominal ultrasonography. USPSTF 2019, Grade B.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "USPSTF 2019, Grade B. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening"
+    }
+  },
+  {
+    "id": "s2fm-0530",
+    "category": "Prevention",
+    "q": "An asymptomatic man aged 65-75 has never smoked. Does USPSTF recommend universal AAA screening?",
+    "a": "No. Selectively offer screening after considering risk factors, history and preferences. USPSTF 2019, Grade C.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "USPSTF 2019, Grade C. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening"
+    }
+  },
+  {
+    "id": "s2fm-0531",
+    "category": "Prevention",
+    "q": "What is the USPSTF AAA screening recommendation for women aged 65-75 who ever smoked or have a family history of AAA?",
+    "a": "An I statement: evidence is insufficient to determine the balance of benefits and harms. The PDF recommendation to screen all older ever-smoking women is not the USPSTF rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "USPSTF 2019, I statement. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening"
+    }
+  },
+  {
+    "id": "s2fm-0532",
+    "category": "Prevention",
+    "q": "Should asymptomatic women who never smoked and have no family history receive routine AAA screening under USPSTF?",
+    "a": "No. USPSTF 2019 recommends against routine screening, Grade D.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "USPSTF 2019, Grade D. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening"
+    }
+  },
+  {
+    "id": "s2fm-0533",
+    "category": "Prevention",
+    "q": "For primary prevention, when does USPSTF recommend initiating a statin in adults aged 40-75?",
+    "a": "At least one cardiovascular risk factor (dyslipidemia, diabetes, hypertension or smoking) plus estimated 10-year CVD risk of at least 10%: Grade B. This recommendation does not cover LDL greater than 190 mg/dL or familial hypercholesterolemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "USPSTF 2022, Grade B. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication/"
+    }
+  },
+  {
+    "id": "s2fm-0534",
+    "category": "Prevention",
+    "q": "An adult aged 40-75 has at least one CVD risk factor and 10-year CVD risk of 7.5% to less than 10%. What does USPSTF recommend?",
+    "a": "Selectively offer a statin, considering preferences and the smaller expected benefit. USPSTF 2022, Grade C.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "USPSTF 2022, Grade C. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication/"
+    }
+  },
+  {
+    "id": "s2fm-0535",
+    "category": "Prevention",
+    "q": "What does USPSTF conclude about initiating a statin for primary prevention at age 76 or older?",
+    "a": "Evidence is insufficient to assess benefits and harms of starting a statin. This is not an instruction to stop an existing statin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "USPSTF 2022, I statement. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication/"
+    }
+  },
+  {
+    "id": "s2fm-0536",
+    "category": "Prevention",
+    "q": "For average-risk individuals with a cervix aged 21-29, what screening does the latest final USPSTF recommendation specify?",
+    "a": "Cervical cytology alone every three years. USPSTF 2018, Grade A. The newer 2024 proposal is still labeled draft on the USPSTF site, not a final recommendation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "USPSTF 2018, Grade A. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-0537",
+    "category": "Prevention",
+    "q": "For average-risk individuals with a cervix aged 30-65, what options does the latest final USPSTF cervical-screening recommendation allow?",
+    "a": "Cytology every three years, high-risk HPV testing alone every five years, or cytology/HPV cotesting every five years. USPSTF 2018, Grade A.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "USPSTF 2018, Grade A. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-0538",
+    "category": "Prevention",
+    "q": "Should average-risk individuals younger than 21 receive cervical screening under USPSTF?",
+    "a": "No. USPSTF 2018 recommends against screening before age 21, Grade D.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "USPSTF 2018, Grade D. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-0539",
+    "category": "Prevention",
+    "q": "When does USPSTF recommend against cervical screening after age 65?",
+    "a": "When prior screening has been adequate and the individual is not otherwise at high risk. Age alone is not enough to stop screening. USPSTF 2018, Grade D.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "USPSTF 2018, Grade D. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-0540",
+    "category": "Prevention",
+    "q": "After hysterectomy with removal of the cervix and no history of CIN2/3 or cervical cancer, what cervical screening does USPSTF recommend?",
+    "a": "No screening. USPSTF 2018, Grade D. Immunocompromised patients and those with important prior cervical disease need separate individualized guidance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "USPSTF 2018, Grade D. Latest final recommendation checked October 14, 2026.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening"
     }
   }
 ];
