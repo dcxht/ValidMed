@@ -1413,3 +1413,5 @@ body {
 .q-card { max-height:calc(100dvh - 275px); }
 .rotation-intro .rotation-status { color:var(--accent); background:var(--accent-light); padding:10px 12px; border-radius:9px; margin-top:12px; }
 @media (max-width:600px) { .app-header .step-selector { margin-top:10px; } }
+.rotation-intro p { white-space:normal; overflow-wrap:anywhere; }
+@media (max-width:600px) { .rotation-library { padding:4px 14px 24px; } }

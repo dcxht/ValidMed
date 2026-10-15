@@ -14,7 +14,7 @@ export default function App() {
     return () => window.removeEventListener("hashchange", onChange);
   }, []);
 
-  const step = hash === "#step2" ? "step2" : "shelves";
+  const step = hash === "#shelves" ? "shelves" : "step2";
   const selectStep = (nextStep) => { window.location.hash = nextStep; };
 
   return (
