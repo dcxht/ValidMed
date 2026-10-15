@@ -1251,6 +1251,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 33,
       "url": "/mehlman/hy-family-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "The fetched pirfenidone label, section 12.1, says its mechanism of action in treating IPF has not been established. The source TGF-beta/collagen summary should not be taught as a definitively established clinical mechanism.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=29b0fd0e-5a2b-4da7-8524-177dc28bf55e"
     }
   },
   {
