@@ -445,3 +445,5 @@ Count correction: preceding 2578 entry has397notes, not399. Four new pp29/33/34 
 Rapid p260-267finerpass:clinical CTS-6 vs compulsory electrophysiology reconciled with AAOS2024; Dupuytren nonsurgical choices; epididymitis NAAT/risk-based organisms. Cross-page duplicates2231/2235 replaced with source-specific displacement/web-space details. ADA2026pharmacotherapyfetchedsection9.5-9.18;insulin9.20-9.21pendingfullverificationbeforepublication. Partial.
 
 3054cards/591notes. ADA2026fetchedtextends9.19:3054note narrowed to verified9.5-9.17person-centeredintensification, not highlight-onlyinsulinthresholds. Unverifiedthresholdnotpromoted. Rapidfinerpassthroughp268. Partial.
+
+3063cards/595notes. Finerpassp269-286:enuresisbehaviornotdry-nightrewards(NICE);trichotillomaniahabit-reversal(NHS);varicocelerepairselection(AUA2024);heart-failureloweffectivevolumeandbaroreceptorwording(Merck+2020review). ExistingHBIGunder2kgandtympanostomyeffusionnotesrecheckedagainstfetchedCDC/AAO-HNS. Duplicateconcept2231/2235/2263/2272/2273/2510replacedwithsource-specificdetails. Partial, finalQAremaining.

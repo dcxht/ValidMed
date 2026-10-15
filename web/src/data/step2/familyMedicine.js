@@ -26180,8 +26180,8 @@ export default [
   {
     "id": "s2fm-2263",
     "category": "Rapid-review source details",
-    "q": "What paired paraneoplastic mediators explain source RCC with erythrocytosis and hypercalcemia?",
-    "a": "EPO and PTHrP respectively; hematuria/renal-mass context helps tie the findings together.",
+    "q": "What smoking-associated symptom accompanies the source RCC paraneoplastic vignette?",
+    "a": "Red urine/hematuria together with erythrocytosis and hypercalcemia; none alone establishes renal cell carcinoma.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 279,
@@ -26287,8 +26287,8 @@ export default [
   {
     "id": "s2fm-2272",
     "category": "Rapid-review source details",
-    "q": "Why does CD40-ligand deficiency impair antibody class switching?",
-    "a": "T-cell help cannot normally signal B-cell CD40, leaving a hyper-IgM pattern in the source; it is not simply absent total antibody production.",
+    "q": "Which cell carries the deficient CD40 ligand in the source hyper-IgM example?",
+    "a": "The T cell; the partner CD40 receptor is on the B cell, so the missing help impairs class switching.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 283,
@@ -26298,8 +26298,8 @@ export default [
   {
     "id": "s2fm-2273",
     "category": "Rapid-review source details",
-    "q": "Why is a topical mouth rinse insufficient for the source esophageal-candidiasis example?",
-    "a": "Esophageal disease needs systemic therapy; the source contrasts oral fluconazole-type treatment with a mouth-local nystatin rinse.",
+    "q": "What symptom does the PDF pair with esophageal candidiasis in an immunocompromised patient?",
+    "a": "Odynophagia, painful swallowing. This is a source clue rather than proof that all painful swallowing is Candida.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 284,
@@ -29565,8 +29565,8 @@ export default [
   {
     "id": "s2fm-2510",
     "category": "Rapid-bullet detailed review",
-    "q": "What is the PDF contrast between iron removal in hereditary versus transfusional iron overload?",
-    "a": "Serial phlebotomy for hereditary hemochromatosis versus chelation, such as deferoxamine, for transfusional siderosis.",
+    "q": "Which specific chelator does the PDF name for transfusional siderosis?",
+    "a": "Deferoxamine, contrasting chelation with phlebotomy for hereditary hemochromatosis.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 279,
@@ -36415,6 +36415,121 @@ export default [
     "guideline": {
       "text": "ADA2026 recommendations9.5-9.17 direct person-centered reassessment and timely intensification, considering glucose/weight goals, comorbidities, hypoglycemia and access. Cardiorenal-beneficial treatments may be indicated irrespective of A1c. A1c9.6% alone does not establish intermediate-acting insulin as the sole appropriate next choice.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
+    }
+  },
+  {
+    "id": "s2fm-3055",
+    "category": "Rapid-bullet finer review",
+    "q": "What treatment step does the rapid PDF give for tamponade when echo and drainage both appear among answer choices?",
+    "a": "Echo first in its stated exam scenario, followed by pericardial drainage. This source order must not delay emergency treatment in an unstable patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-3056",
+    "category": "Rapid-bullet finer review",
+    "q": "What duration difference does the source use to explain why trigeminal neuralgia is not aborted like a migraine?",
+    "a": "Individual trigeminal-neuralgia attacks last seconds and end spontaneously; carbamazepine is its preventive drug example, not an immediate pill that reliably ends each brief attack.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2fm-3057",
+    "category": "Rapid-bullet finer review",
+    "q": "Which viral infection does the PDF emphasize can satisfy all four simplified Centor features?",
+    "a": "EBV infectious mononucleosis, which can mimic streptococcal pharyngitis. The score does not identify the organism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2fm-3058",
+    "category": "Rapid-bullet finer review",
+    "q": "What deficit localizes the source musculocutaneous-nerve injury?",
+    "a": "Weak biceps with lateral-forearm sensory loss in its upper-limb localization bullets.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-family-medicine.pdf#page=278"
+    }
+  },
+  {
+    "id": "s2fm-3059",
+    "category": "Rapid-bullet finer review",
+    "q": "What diastolic addition does the PDF allow in a VSD murmur vignette?",
+    "a": "A diastolic rumble alongside a holosystolic left-sternal-border murmur, rather than requiring every VSD description to contain only a single murmur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-family-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2fm-3060",
+    "category": "Rapid-bullet finer review",
+    "q": "What outcome does the PDF reward in its bedwetting star-chart example?",
+    "a": "Dry nights, with escalating rewards in its example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "NICE CG111 recommendation1.7.1 rewards agreed behaviors rather than dry nights, such as drinking appropriately, toileting before sleep or helping with management. Do not penalize or remove earned rewards. Dry nights are not entirely under the child's control.",
+      "url": "https://www.nice.org.uk/guidance/cg111/chapter/1-recommendations"
+    }
+  },
+  {
+    "id": "s2fm-3061",
+    "category": "Rapid-bullet finer review",
+    "q": "What medication-only answer does the PDF give for trichotillomania?",
+    "a": "An SSRI.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "NHS guidance describes CBT with habit-reversal training as a common treatment. Hair pulling and hair eating are different behaviors; eating hair can produce a dangerous gastric hairball. The source SSRI-only answer omits the main behavioral treatment.",
+      "url": "https://www.nhs.uk/mental-health/conditions/trichotillomania/"
+    }
+  },
+  {
+    "id": "s2fm-3062",
+    "category": "Rapid-bullet finer review",
+    "q": "When does the source say a varicocele may warrant surgery to reduce subfertility, and what current selection matters?",
+    "a": "Its young-adult vignette allows elective intervention for a heat-associated fertility concern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    },
+    "guideline": {
+      "text": "AUA/ASRM2024 statement26 considers repair in men attempting conception with a palpable varicocele, infertility and abnormal semen parameters, excluding azoospermic men from that recommendation. Statement27 advises against repair for nonpalpable varicoceles detected only on imaging. A Doppler finding alone is not an indication.",
+      "url": "https://www.auanet.org/documents/Guidelines/PDF/2024%20Guidelines/Male%20Infertility%20Unabridged%20Final.pdf"
+    }
+  },
+  {
+    "id": "s2fm-3063",
+    "category": "Rapid-bullet finer review",
+    "q": "What baroreceptor wording accompanies the PDF heart-failure ADH mechanism?",
+    "a": "It says decreased systolic impulse causes stretch of carotid baroreceptors and increased ADH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "Merck Professional links heart-failure hyponatremia to decreased effective circulating volume and vasopressin release despite increased total extracellular fluid. A 2020 peer-reviewed review describes reduced carotid/aortic afferent firing with reduced systolic stretch and reduced vagal response. The source wording should not imply increased arterial stretch is the low-volume signal.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/electrolyte-disorders/hyponatremia"
     }
   }
 ];
