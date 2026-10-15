@@ -6755,5 +6755,959 @@ export default [
       "text": "CAHS December 2025 calls for urgent surgical review; Ladd's procedure includes untwisting any volvulus and widening the mesenteric base, with other steps according to anatomy.",
       "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
     }
+  },
+  {
+    "id": "s2peds-0523",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What upper-GI finding and diagnosis does the actual source image illustrate in a five-month-old?",
+    "a": "A corkscrew appearance, supporting midgut volvulus associated with intestinal malrotation. The source deliberately uses an infant older than the classic neonatal age to show why the image can outweigh an age heuristic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "CAHS December 2025: malrotation predisposes to volvulus and intestinal ischemia. Suspected volvulus requires urgent surgical review; an age heuristic is not a safe exclusion.",
+      "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
+    },
+    "img": "/mehlman/figures/peds-p044-01.jpeg"
+  },
+  {
+    "id": "s2peds-0524",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What developmental answer does the author select for the five-month-old corkscrew upper-GI vignette on p44?",
+    "a": "Gut malrotation, phrased in the PDF as failure of rotation of proximal bowel. This is the author's reported exam example, not a verified new exam record.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "CAHS December 2025 distinguishes congenital abnormal rotation/fixation from the subsequent twisting called volvulus. The two terms are related, not interchangeable descriptions of every obstruction.",
+      "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0525",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Where is the source Meckel diverticulum located?",
+    "a": "An outpouching near the terminal ileum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck reviewed June 2026 describes a congenital sacculation of the antimesenteric border of the ileum. The location supports the diagnosis but is not a rule that every bleed there is Meckel.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/diverticular-disease/meckel-diverticulum"
+    }
+  },
+  {
+    "id": "s2peds-0526",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Why is the outpouching labeled in this source diagram a true diverticulum?",
+    "a": "It contains all layers of the bowel wall, rather than only mucosa/submucosa herniating through muscle. The diagram retains its original labels because the question asks about wall composition, not the printed diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck June 2026 confirms all normal bowel-wall layers are retained in Meckel diverticulum.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/diverticular-disease/meckel-diverticulum"
+    },
+    "img": "/mehlman/figures/peds-p044-02.jpeg"
+  },
+  {
+    "id": "s2peds-0527",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What embryologic remnant explains the source Meckel diverticulum?",
+    "a": "Incomplete obliteration of the vitelline, or omphalomesenteric, duct. The ileal remnant forms the diverticulum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck June 2026 describes failure of the ileal portion of the duct to atrophy. This mechanism explains the congenital bowel lesion.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/diverticular-disease/meckel-diverticulum"
+    }
+  },
+  {
+    "id": "s2peds-0528",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What ectopic tissues does the source associate with a bleeding Meckel diverticulum?",
+    "a": "Heterotopic gastric or pancreatic tissue. The PDF emphasizes blood in stool as the clinical clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck June 2026: acid secreted by ectopic gastric mucosa can ulcerate adjacent ileum and cause bleeding. Do not assume pancreatic tissue has the same acid-secretion mechanism.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/diverticular-disease/meckel-diverticulum"
+    }
+  },
+  {
+    "id": "s2peds-0529",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Does the source rule-of-twos discussion restrict Meckel diverticulum to children younger than two?",
+    "a": "No. The author specifically describes a 19-year-old exam example and warns against excluding Meckel in an adult. The mnemonic is not a hard age cutoff.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck June 2026 describes symptoms in all ages and notes that adults may also bleed. Pediatric frequency does not mean adult impossibility.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/diverticular-disease/meckel-diverticulum"
+    }
+  },
+  {
+    "id": "s2peds-0530",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Which isotope study does the source use for suspected bleeding Meckel diverticulum, and what does it actually detect?",
+    "a": "A technetium-99m pertechnetate Meckel scan. The PDF says it localizes near the terminal ileum; the target is ectopic gastric mucosa, not all ileal pouches.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "SNMMI/EANM 2014 guideline: scintigraphy localizes ectopic gastric mucosa. A negative scan does not exclude every Meckel diverticulum, especially one without detectable gastric mucosa.",
+      "url": "https://tech.snmjournals.org/content/42/3/163"
+    }
+  },
+  {
+    "id": "s2peds-0531",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Is bleeding the only Meckel complication that can require surgery, as the source treatment sentence implies?",
+    "a": "No. The PDF says surgery only if symptomatic with bleeding, but obstruction and diverticulitis are also important surgical presentations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck June 2026: obstruction requires early surgery; diverticulitis and bleeding also receive resection. A no-bleeding rule must not delay treatment of another complication.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/diverticular-disease/meckel-diverticulum"
+    }
+  },
+  {
+    "id": "s2peds-0532",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "How should the source statement that an asymptomatic Meckel diverticulum can be left alone be qualified?",
+    "a": "Observation can be reasonable for an incidental asymptomatic lesion, but management is individualized rather than a universal never-resect rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck June 2026 describes controversy: small incidental asymptomatic diverticula need not be removed, while some surgeons favor resection in children or young adults. Context and surgical judgment matter.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/diverticular-disease/meckel-diverticulum"
+    }
+  },
+  {
+    "id": "s2peds-0533",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What neonatal bowel disease does p44 associate with marked prematurity, particularly birth before 32 weeks?",
+    "a": "Necrotizing enterocolitis: intestinal necrosis in the source premature-neonate setting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck August 2025: NEC primarily affects preterm or sick neonates, but it can occur in term infants, including with congenital heart disease and intestinal hypoperfusion. The source gestational age is not a strict exclusion criterion.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis"
+    }
+  },
+  {
+    "id": "s2peds-0534",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What does pneumatosis intestinalis mean in the source NEC opening, and how can it look?",
+    "a": "Gas within the bowel wall, described as a bubbly appearance. It is not simply gas inside the bowel lumen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 44,
+      "url": "/mehlman/hy-pediatrics.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Merck August 2025 distinguishes pneumatosis/portal venous gas from pneumoperitoneum, which indicates perforation and urgent surgical need. Early radiographs can be nonspecific.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis"
+    }
+  },
+  {
+    "id": "s2peds-0535",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What source diagnosis fits this abdominal film in an infant born at 26 weeks gestation?",
+    "a": "Necrotizing enterocolitis, with pneumatosis intestinalis in the source example. The actual PDF radiograph is retained.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "Merck August 2025: clinical assessment plus imaging establishes NEC; early films may show only ileus. Prematurity alone does not establish the diagnosis in every unwell infant.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis"
+    },
+    "img": "/mehlman/figures/peds-p045-01.jpeg"
+  },
+  {
+    "id": "s2peds-0536",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Should the author's NEC exam-frequency anecdote be interpreted as proof that the disease can occur only in extremely premature infants?",
+    "a": "No. The author reports seeing NEC used as a wrong answer outside its typical premature-neonate context. That is test-taking commentary, not an absolute biologic definition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "Merck August 2025 explicitly includes sick neonates and describes term infants with congenital-heart-disease-related hypoperfusion. Do not exclude a term neonate solely because of gestational age.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis"
+    }
+  },
+  {
+    "id": "s2peds-0537",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What immediate-care context should accompany the source NEC image-recognition shortcut?",
+    "a": "Suspected NEC is a neonatal emergency, not merely an image label. The source focuses on recognition rather than a complete management plan.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "Merck August 2025: stop feeds, decompress with nasogastric suction, support circulation/nutrition and give systemic antibiotics, with close neonatal/surgical assessment. Perforation or deterioration may require surgery.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis"
+    }
+  },
+  {
+    "id": "s2peds-0538",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What source developmental defect produces Hirschsprung disease?",
+    "a": "Failure of neural-crest-derived enteric cells to populate distal bowel, leaving a distal aganglionic segment. The result is functional obstruction rather than absence of the colon itself.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "ERNICA updated guideline, published 2026, describes absent ganglion cells in myenteric and submucosal plexuses of distal intestine, disrupting peristalsis.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/252902987/Updated_European_Reference_Network_for_rare_Inherited_and_Congenital_Digestive_and_Gastrointestinal_Anomalies_guidelines_for_the_management_of_rectosigmoid_Hirschsprung_s_disease_2025.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0539",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "How does the source connect distal aganglionosis with obstruction and anal-sphincter behavior?",
+    "a": "It describes increased anal sphincter tone and a nonrelaxing distal segment. Loss of coordinated relaxation produces functional obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "ERNICA updated guideline, published 2026, specifically recognizes absent rectoanal inhibitory reflex on manometry as a reason to consider rectal biopsy. Resting pressure alone is not the definitive diagnostic criterion.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/252902987/Updated_European_Reference_Network_for_rare_Inherited_and_Congenital_Digestive_and_Gastrointestinal_Anomalies_guidelines_for_the_management_of_rectosigmoid_Hirschsprung_s_disease_2025.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0540",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What explains the contrast between the narrow distal segment and dilated proximal bowel in this actual Hirschsprung diagram?",
+    "a": "The distal aganglionic bowel does not relax normally, producing functional obstruction and proximal dilatation. The source diagram labels ganglion cells and the affected distal region; those labels are retained because the question asks for the mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "ERNICA 2026 describes distal aganglionosis disrupting normal peristalsis and causing functional obstruction.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/252902987/Updated_European_Reference_Network_for_rare_Inherited_and_Congenital_Digestive_and_Gastrointestinal_Anomalies_guidelines_for_the_management_of_rectosigmoid_Hirschsprung_s_disease_2025.pdf"
+    },
+    "img": "/mehlman/figures/peds-p045-02.jpeg"
+  },
+  {
+    "id": "s2peds-0541",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What chromosomal syndrome does the source associate with Hirschsprung disease?",
+    "a": "Down syndrome. It is an association, not a requirement for Hirschsprung disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "ERNICA 2020 recommends a lower threshold for rectal biopsy when a syndrome associated with Hirschsprung disease or a family history is present. The source Down-syndrome association is not a substitute for diagnostic testing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7318734/"
+    }
+  },
+  {
+    "id": "s2peds-0542",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What early and later stool-passage presentations does the source give for Hirschsprung disease?",
+    "a": "Failure to pass stool at birth or chronic constipation in an infant, depending on the extent/severity. A normal first stool does not make all later suggestive symptoms irrelevant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "ERNICA updated guideline, published 2026: classic features include delayed meconium beyond 24 hours in a term infant, abdominal distension and bilious vomiting. Persistent early constipation with poor growth also warrants consideration of biopsy.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/252902987/Updated_European_Reference_Network_for_rare_Inherited_and_Congenital_Digestive_and_Gastrointestinal_Anomalies_guidelines_for_the_management_of_rectosigmoid_Hirschsprung_s_disease_2025.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0543",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "How does the source distinguish Hirschsprung-related delayed stool from cystic-fibrosis-associated meconium ileus?",
+    "a": "Hirschsprung is distal aganglionosis with functional obstruction; meconium ileus is intestinal obstruction by inspissated meconium, strongly associated with cystic fibrosis. Failure to pass stool is a symptom shared by different causes, not itself a disease name.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "The 2016 CF gastrointestinal review describes inspissated neonatal meconium in CF. The source association should not turn every delayed first stool into CF.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4865785/"
+    }
+  },
+  {
+    "id": "s2peds-0544",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What diagnostic sequence does the PDF propose for Hirschsprung, and what actually confirms it?",
+    "a": "The source says anal manometry followed by biopsy. Rectal histology demonstrating aganglionosis is the confirming test; manometry can support suspicion but need not be a mandatory first step in every infant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "ERNICA updated guideline, published 2026: diagnosis should be based on representative rectal histology and confirmed before pull-through surgery. Rectal biopsy is indicated for a suggestive history/exam; absent rectoanal inhibitory reflex on manometry also supports biopsy.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/252902987/Updated_European_Reference_Network_for_rare_Inherited_and_Congenital_Digestive_and_Gastrointestinal_Anomalies_guidelines_for_the_management_of_rectosigmoid_Hirschsprung_s_disease_2025.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0545",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What two gastrointestinal features of cystic fibrosis does the source especially emphasize on p45?",
+    "a": "Meconium ileus and exocrine pancreatic insufficiency. The author refers readers to the Pulmonology PDF for a fuller CF discussion; this page is not a complete CF guideline.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "The Cystic Fibrosis Foundation pancreatic-enzyme guideline says most, not all, individuals with CF are pancreatic insufficient. CF and pancreatic insufficiency are not interchangeable diagnoses.",
+      "url": "https://www.cff.org/medical-professionals/pancreatic-enzymes-clinical-care-guidelines"
+    }
+  },
+  {
+    "id": "s2peds-0546",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "What does inspissated mean in the source explanation of CF pancreatic disease?",
+    "a": "Thickened, sticky secretions within a lumen. The PDF describes dried-up pancreatic duct secretions obstructing delivery of digestive enzymes to the duodenum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "The 2016 CF gastrointestinal review links mucous inspissation and pancreatic disease to maldigestion and fat-soluble vitamin malabsorption. Pancreatic enzyme replacement addresses insufficiency; it does not reverse every CF manifestation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4865785/"
+    }
+  },
+  {
+    "id": "s2peds-0547",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Why does the source connect exocrine pancreatic insufficiency to fat-soluble vitamin deficiency?",
+    "a": "Too few pancreatic digestive enzymes reach the intestine, impairing nutrient digestion and fat absorption. Fat-soluble vitamins can then be poorly absorbed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "The 2016 CF review identifies vitamins A, D, E and K and notes that pancreatic sufficiency varies. The CFF guideline treats enzyme therapy as a key therapy for pancreatic-insufficient patients.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4865785/"
+    }
+  },
+  {
+    "id": "s2peds-0548",
+    "category": "Neonatal bowel disorders and cystic fibrosis",
+    "q": "Which vitamin deficiency and neurologic presentation does the source particularly emphasize in CF?",
+    "a": "Vitamin E deficiency presenting with neuropathy. The author's claim about exam frequency is source commentary, not a measured clinical frequency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 45,
+      "url": "/mehlman/hy-pediatrics.pdf#page=45"
+    },
+    "guideline": {
+      "text": "The 2016 CF gastrointestinal review describes vitamin-E-deficiency peripheral neuropathy, delayed stretch reflexes and cerebellar ataxia. Vitamin status needs assessment and supplementation, not diagnosis from CF alone.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4865785/"
+    }
+  },
+  {
+    "id": "s2peds-0549",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Why does the source expect a normal D-xylose test in CF-related pancreatic maldigestion?",
+    "a": "D-xylose absorption does not require pancreatic enzymes, so isolated pancreatic insufficiency can preserve this test despite nutrient maldigestion. The source contrasts that with mucosal disease such as celiac disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "Merck malabsorption review: D-xylose testing is now rarely used, can be abnormal with SIBO, and can be falsely low with renal disease and other conditions. It is not a universal standalone CF-versus-Crohn test.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/malabsorption-syndromes/overview-of-malabsorption"
+    }
+  },
+  {
+    "id": "s2peds-0550",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What neonatal bilirubin pattern does the p46 biliary-atresia recap emphasize?",
+    "a": "Markedly increased direct bilirubin in a young infant, with the PDF using an age under six weeks. This is a cholestasis warning, not a reason to wait until six weeks.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "AAP 2025 emphasizes recognition at the 2-4-week visit. At that visit, direct/conjugated bilirubin at least 1 mg/dL warrants urgent specialist consultation. Before 2 weeks, interpretation uses the laboratory reference range rather than this fixed cutoff; age-based exam framing must not delay evaluation.",
+      "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070077/201020/Guidance-for-the-Primary-Care-Provider-in"
+    }
+  },
+  {
+    "id": "s2peds-0551",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "How should the p46 recap of biliary-atresia anatomy be understood?",
+    "a": "The PDF describes failure of development of intrahepatic ductules and the biliary tree. More accurately, biliary atresia involves scarred/blocked bile ducts with progressive liver injury, not necessarily failure of every duct to form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "NIDDK describes bile ducts inside and outside the liver becoming scarred and blocked, preventing bile flow. This educational anatomy source does not replace the AAP urgent-referral guidance.",
+      "url": "https://www.niddk.nih.gov/health-information/liver-disease/biliary-atresia"
+    }
+  },
+  {
+    "id": "s2peds-0552",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What tests does the source biliary-atresia recap select, and can testing safely delay specialist consultation?",
+    "a": "The PDF says ultrasound first and liver biopsy to confirm. Those are source exam selections, not permission to postpone urgent referral or rule out disease with a normal ultrasound.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "AAP 2025 says not to order liver enzymes or ultrasound before specialist consultation in the urgent bilirubin-threshold pathway because normal results can falsely reassure and delay referral.",
+      "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070077/201020/Guidance-for-the-Primary-Care-Provider-in"
+    }
+  },
+  {
+    "id": "s2peds-0553",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What treatment sequence does the p46 biliary-atresia recap repeat?",
+    "a": "Kasai portoenterostomy, then liver transplantation if Kasai fails or progressive disease requires it. This repeats the earlier source section rather than a newly different treatment pathway.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2peds-0554",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Which grains does the source list for celiac gluten intolerance, and what correction is needed for oats?",
+    "a": "The PDF lists wheat, oats, rye and barley, but not rice. Wheat, barley and rye contain the relevant gluten proteins; oats need a qualified answer rather than automatic inclusion with those grains.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ACG 2023 recommends gluten-free oats with monitoring for contamination and individual oat tolerance. Some people react to avenin; ordinary contaminated oats are not equivalent to certified gluten-free oats.",
+      "url": "https://journals.lww.com/ajg/pages/articleviewer.aspx?article=00017&issue=01000&type=Fulltext&year=2023"
+    }
+  },
+  {
+    "id": "s2peds-0555",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What source immune injury produces celiac malabsorption?",
+    "a": "A T-cell-mediated response to gluten damages the small-intestinal villi, producing villous flattening and malabsorption. The PDF labels this type-IV hypersensitivity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ACG 2023 describes a permanent immune-mediated response to gluten, small-bowel injury and specific antibodies. Its clinical definition is broader than a single hypersensitivity mnemonic.",
+      "url": "https://journals.lww.com/ajg/pages/articleviewer.aspx?article=00017&issue=01000&type=Fulltext&year=2023"
+    }
+  },
+  {
+    "id": "s2peds-0556",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What histologic change does the right half of this actual source comparison show relative to the left?",
+    "a": "Blunted/flattened small-intestinal villi, the source celiac pattern, compared with normal tall villi on the left. The clinical diagnosis still depends on the appropriate testing context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ACG 2023 requires interpretation of histology with serology and clinical context; other conditions can also cause villous atrophy. A look-alike image alone is not specific for celiac disease.",
+      "url": "https://journals.lww.com/ajg/pages/articleviewer.aspx?article=00017&issue=01000&type=Fulltext&year=2023"
+    },
+    "img": "/mehlman/figures/peds-p046-01.jpeg"
+  },
+  {
+    "id": "s2peds-0557",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What antibodies does the source emphasize for celiac disease, and is anti-endomysial simply another name for anti-gliadin?",
+    "a": "It emphasizes anti-endomysial and IgA tissue-transglutaminase antibodies. Its parenthetical anti-endomysial equals anti-gliadin wording is incorrect: these are distinct antibody tests.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "NIDDK lists tTG-IgA, EMA-IgA and deamidated-gliadin-peptide IgA/IgG as separate tests. ACG 2023 uses tTG-IgA with total IgA initially and selected IgG tests in IgA deficiency.",
+      "url": "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/digestive-diseases/celiac-disease-health-care-professionals"
+    }
+  },
+  {
+    "id": "s2peds-0558",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Why can an IgA-based celiac antibody test be falsely negative in a patient with IgA deficiency?",
+    "a": "There may be insufficient IgA antibody production despite celiac disease. A negative tTG-IgA result alone is therefore not enough in that setting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ACG 2023 recommends total IgA with initial tTG-IgA when IgA status is unknown and IgG-based serology such as DGP-IgG and/or tTG-IgG if IgA deficiency is present.",
+      "url": "https://journals.lww.com/ajg/pages/articleviewer.aspx?article=00017&issue=01000&type=Fulltext&year=2023"
+    }
+  },
+  {
+    "id": "s2peds-0559",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What celiac-risk association and numerical claim does the source give for IgA deficiency?",
+    "a": "It links IgA deficiency with greater celiac risk and quotes a 15-fold likelihood. The exact multiplier is retained as the source estimate, not a universally verified risk for every population.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ESPGHAN 2020 lists IgA deficiency among conditions warranting consideration of celiac testing, without using the source 15-fold number in its advice guide.",
+      "url": "https://www.espghan.org/dam/jcr%3Aa82023ac-c7e6-45f9-8864-fe5ee5c37058/2020_New_Guidelines_for_the_Diagnosis_of_Paediatric_Coeliac_Disease._ESPGHAN_Advice_Guide.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0560",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What nonspecific intestinal symptoms can make source celiac disease hard to recognize?",
+    "a": "Vague bloating and diarrhea, sometimes without a clear patient-recognized connection to a particular food.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ESPGHAN 2020 lists a wide presentation, including chronic/intermittent diarrhea, constipation, abdominal pain, distension and extraintestinal symptoms. Classic diarrhea is not required.",
+      "url": "https://www.espghan.org/dam/jcr%3Aa82023ac-c7e6-45f9-8864-fe5ee5c37058/2020_New_Guidelines_for_the_Diagnosis_of_Paediatric_Coeliac_Disease._ESPGHAN_Advice_Guide.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0561",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Why does the source emphasize iron-deficiency anemia in celiac disease?",
+    "a": "Impaired proximal small-intestinal absorption can cause iron deficiency. The PDF emphasizes duodenal villous injury as the mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ESPGHAN 2020 lists chronic iron-deficiency anemia as an extraintestinal reason to consider celiac testing. Anemia is a clue, not confirmation by itself.",
+      "url": "https://www.espghan.org/dam/jcr%3Aa82023ac-c7e6-45f9-8864-fe5ee5c37058/2020_New_Guidelines_for_the_Diagnosis_of_Paediatric_Coeliac_Disease._ESPGHAN_Advice_Guide.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0562",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "How should the source low-hemoglobin shortcut for celiac versus lactase deficiency be used?",
+    "a": "Anemia supports evaluating a broader disorder such as celiac rather than attributing everything to isolated lactose intolerance. Low hemoglobin alone does not prove celiac or exclude unrelated causes of anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "ACG 2023 supports celiac testing and confirmation based on serology, clinical context and usually biopsy, not a single anemia-based diagnosis.",
+      "url": "https://journals.lww.com/ajg/pages/articleviewer.aspx?article=00017&issue=01000&type=Fulltext&year=2023"
+    }
+  },
+  {
+    "id": "s2peds-0563",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What skin eruption and immune deposit does the source associate with celiac disease?",
+    "a": "Dermatitis herpetiformis: intensely itchy clustered papules/vesicles, often on extensor sites, with granular IgA deposition in the upper dermis/dermal papillae.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 46,
+      "url": "/mehlman/hy-pediatrics.pdf#page=46"
+    },
+    "guideline": {
+      "text": "NIDDK describes symmetric lesions on elbows, knees, buttocks and other sites. Perilesional direct immunofluorescence shows granular IgA; many patients have little or no gastrointestinal symptom burden.",
+      "url": "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/digestive-diseases/dermatitis-herpetiformis"
+    }
+  },
+  {
+    "id": "s2peds-0564",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Which celiac-associated skin condition is illustrated by the actual source extensor-elbow photograph?",
+    "a": "Dermatitis herpetiformis. Scratching can leave erosions and excoriations rather than intact vesicles.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "NIDDK describes intensely itchy grouped lesions and confirms diagnosis with perilesional skin biopsy/direct immunofluorescence rather than appearance alone.",
+      "url": "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/digestive-diseases/dermatitis-herpetiformis"
+    },
+    "img": "/mehlman/figures/peds-p047-01.jpeg"
+  },
+  {
+    "id": "s2peds-0565",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Why does the source expect an abnormal D-xylose test in celiac disease?",
+    "a": "Damaged small-intestinal mucosa absorbs D-xylose poorly, unlike isolated pancreatic enzyme deficiency. The PDF ties this to villous flattening.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "Merck notes this test is rarely used now and can be abnormal for other reasons, including bacterial overgrowth and renal disease. Modern celiac diagnosis relies on appropriate serology and, in most cases, duodenal histology.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/malabsorption-syndromes/overview-of-malabsorption"
+    }
+  },
+  {
+    "id": "s2peds-0566",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What intestinal malignancy risk does the source link with celiac disease?",
+    "a": "Enteropathy-associated T-cell lymphoma, abbreviated EATL. This is an increased-risk association, not an expected outcome in most patients.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "ACG 2023 links persistent villous injury to increased lymphoproliferative malignancy risk and states that type 2 refractory celiac disease can precede EATL. This is a complication risk, not a prediction for every patient.",
+      "url": "https://journals.lww.com/ajg/pages/articleviewer.aspx?article=00017&issue=01000&type=Fulltext&year=2023"
+    }
+  },
+  {
+    "id": "s2peds-0567",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What diagnostic sequence does the source give for celiac, and is duodenal biopsy mandatory for every child?",
+    "a": "The PDF says antibody testing followed by confirmatory duodenal biopsy. Biopsy remains important in most patients, but selected children can qualify for a specialist-led no-biopsy diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "ESPGHAN 2020: tTG/TGA-IgA at least 10 times the upper limit of normal plus positive EMA-IgA in a second sample can support no-biopsy diagnosis after shared decision-making. Lower titers require biopsies; total IgA is checked initially.",
+      "url": "https://www.espghan.org/dam/jcr%3Aa82023ac-c7e6-45f9-8864-fe5ee5c37058/2020_New_Guidelines_for_the_Diagnosis_of_Paediatric_Coeliac_Disease._ESPGHAN_Advice_Guide.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0568",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What is the source treatment for celiac disease, and what does the word simply leave out?",
+    "a": "A strict gluten-free diet. The PDF calls treatment simple, but real care also needs dietary support, correction of deficiencies and follow-up.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "ACG 2023 calls for lifelong gluten-free diet and medical follow-up; persistent symptoms require reassessment for exposure or another cause. Diagnostic testing should be performed while consuming gluten when possible.",
+      "url": "https://journals.lww.com/ajg/pages/articleviewer.aspx?article=00017&issue=01000&type=Fulltext&year=2023"
+    }
+  },
+  {
+    "id": "s2peds-0569",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What enzyme deficiency causes source lactose intolerance?",
+    "a": "Deficiency of the brush-border disaccharidase lactase. Undigested lactose is fermented by colonic bacteria, causing gas and osmotic symptoms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "StatPearls describes lactase on the small-intestinal brush border, hydrolyzing lactose into glucose and galactose. Primary deficiency and secondary mucosal injury are different causes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532285/"
+    }
+  },
+  {
+    "id": "s2peds-0570",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Where does the source locate brush-border digestive function versus intestinal stem cells?",
+    "a": "Brush-border enzyme activity is associated with mature villus enterocytes, while stem cells reside at the crypt base. The PDF contrasts villus tips with crypt bases; this anatomy helps explain secondary lactase loss after mucosal injury.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2peds-0571",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What food-linked symptom pattern suggests the source lactose intolerance?",
+    "a": "Bloating and diarrhea after dairy/lactose ingestion. Symptoms reflect the dose, available lactase and individual tolerance, not necessarily an allergy to milk protein.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "CPS distinguishes nonimmune lactose maldigestion from immune cow-milk-protein allergy. Lactase deficiency is uncommon in infancy and usually emerges later or after intestinal injury.",
+      "url": "https://cps.ca/en/documents/position/cows-milk-protein-allergy"
+    }
+  },
+  {
+    "id": "s2peds-0572",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Does isolated lactose intolerance itself explain the source iron-deficiency-anemia clue?",
+    "a": "Not usually. The PDF contrasts isolated lactase deficiency with celiac malabsorption, but coexisting anemia from another cause remains possible.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "NIDDK notes celiac disease and IBD can mimic lactose intolerance. Anemia or other concerning features should prompt evaluation rather than a presumed isolated food intolerance.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/diagnosis"
+    }
+  },
+  {
+    "id": "s2peds-0573",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What age and ancestry pattern does the source associate with primary lactose intolerance?",
+    "a": "It notes higher frequency in Asian populations and onset from adolescence onward as lactase activity declines. Ancestry and age are supporting context, not diagnostic proof.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "StatPearls describes genetic lactase nonpersistence, variation across populations and symptoms often developing in adolescence/adulthood. Secondary deficiency can occur at other ages.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532285/"
+    }
+  },
+  {
+    "id": "s2peds-0574",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Should every young adult with new diarrhea be assigned lactose intolerance, as the source shortcut suggests?",
+    "a": "No. The source says it is often the exam answer and contrasts low hemoglobin as a celiac clue. Persistent diarrhea needs an appropriate differential, not an age-only label.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "NIDDK describes overlapping symptoms from IBS, celiac disease, IBD and small-intestinal bacterial overgrowth; history and selective testing distinguish them.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/diagnosis"
+    }
+  },
+  {
+    "id": "s2peds-0575",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What mechanism explains the source transient lactose intolerance after viral gastroenteritis?",
+    "a": "Mucosal injury can reduce brush-border lactase activity, producing bloating/diarrhea with lactose during recovery. The PDF gives rotavirus/Norwalk-virus illness one to two weeks earlier as an exam example.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "StatPearls lists infection-related secondary lactase deficiency and notes that resolution of the underlying intestinal injury may restore tolerance. Persistent symptoms should not be assumed transient indefinitely.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532285/"
+    }
+  },
+  {
+    "id": "s2peds-0576",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Is intestinal biopsy always normal in every patient with lactose intolerance?",
+    "a": "The source says normal, which fits isolated primary lactase deficiency. Secondary lactose intolerance can accompany abnormal mucosa, including celiac villous injury.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "StatPearls explicitly says secondary-deficiency biopsy findings depend on the underlying pathology. Biopsy is rarely used merely to diagnose lactose intolerance; it may investigate another disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532285/"
+    }
+  },
+  {
+    "id": "s2peds-0577",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What breath test does the source use to support lactose intolerance?",
+    "a": "A lactose hydrogen breath test. Unabsorbed lactose is fermented by bacteria, increasing exhaled hydrogen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "NIDDK measures both breath hydrogen and symptoms after a lactose load. A rise in hydrogen plus worsening symptoms supports intolerance, distinguishing symptomatic intolerance from malabsorption alone.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/diagnosis"
+    }
+  },
+  {
+    "id": "s2peds-0578",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Why can the source lactose-intolerance workup find a low stool pH?",
+    "a": "Fermentation of unabsorbed carbohydrate generates organic acids, including lactic acid, lowering stool pH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "StatPearls describes a stool-acidity test, but an acidic stool alone is not specific proof of isolated lactase deficiency or a reason to ignore other causes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532285/"
+    }
+  },
+  {
+    "id": "s2peds-0579",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Why is the source D-xylose test normal in primary lactase deficiency?",
+    "a": "D-xylose absorption does not need lactase, and isolated primary enzyme deficiency does not require villous destruction. The source contrasts this with celiac mucosal injury.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "Merck describes D-xylose as a mucosal-integrity test that is now rarely used. This reasoning does not guarantee a normal result if secondary mucosal disease or another confounder coexists.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/malabsorption-syndromes/overview-of-malabsorption"
+    }
+  },
+  {
+    "id": "s2peds-0580",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What dietary and enzyme options does the source give for lactose intolerance?",
+    "a": "Reduce or avoid lactose-containing products as needed, or use lactase tablets/drops. The source should not imply that every patient must eliminate all dairy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "NIDDK says tolerance varies: many people only need to limit lactose, while others avoid it. Lactase products can help; calcium/vitamin-D adequacy should be maintained when dairy is restricted.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/treatment"
+    }
+  },
+  {
+    "id": "s2peds-0581",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What source teaching emphasis introduces milk-protein allergy on p47?",
+    "a": "The author calls it a Step-2/Pediatrics exam topic. That exam-frequency comment is retained as attribution, not evidence that the condition is absent from every other examination or clinical context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2peds-0582",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Does the source claim about lack of exclusive breastfeeding for six months establish the biggest risk factor for all milk-protein allergy?",
+    "a": "No. That ranking is the source assertion, not independently established here. Milk-protein allergy, including allergic proctocolitis, can occur in both breastfed and formula-fed infants.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "CPS 2024 describes FPIAP in both groups and supports continuing breastfeeding with appropriate maternal elimination when indicated. Breastfeeding does not rule out the diagnosis, and this source sentence should not be used to blame a feeding choice.",
+      "url": "https://cps.ca/en/documents/position/cows-milk-protein-allergy"
+    }
+  },
+  {
+    "id": "s2peds-0583",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What infant stool and feeding history does the source use for milk-protein allergy?",
+    "a": "Blood in stool after introduction of formula, illustrated by a four-month-old started on formula three weeks earlier. The example is a clue, not a complete diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "CPS 2024 describes blood-streaked stools in otherwise well infants with FPIAP, often earlier in infancy, and warns against overdiagnosis. The differential and overall condition still matter.",
+      "url": "https://cps.ca/en/documents/position/cows-milk-protein-allergy"
+    }
+  },
+  {
+    "id": "s2peds-0584",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "What formula change does the source select for its suspected milk-protein-allergy vignette?",
+    "a": "Hydrolyzed casein formula. Clinically, the relevant first-line category for many formula-fed infants with CMPA is extensively hydrolyzed formula, not just any partly hydrolyzed product.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "CPS 2024 recommends eHF for formula-fed CMPA; persistent symptoms or severe disease may require an amino-acid formula. Severe FPIES with failure to thrive requires a different level of care.",
+      "url": "https://cps.ca/en/documents/position/cows-milk-protein-allergy"
+    }
+  },
+  {
+    "id": "s2peds-0585",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "Why does the source reject simply changing a young infant with milk-protein allergy to soy formula?",
+    "a": "Soy can also trigger symptoms, so replacing cow-milk protein with soy is not a reliable first choice. The PDF quotes up to 50% crossover; that number is retained as source framing, not a universal verified rate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "CPS 2024 generally starts with eHF in formula-fed FPIAP. Soy can be an option after six months if eHF is not accepted/tolerated and soy tolerance is established. The source blanket never-soy rule is too broad.",
+      "url": "https://cps.ca/en/documents/position/cows-milk-protein-allergy"
+    }
+  },
+  {
+    "id": "s2peds-0586",
+    "category": "Celiac disease, lactose intolerance and milk-protein allergy",
+    "q": "How does the source handle similar bloody-stool symptoms after cow-milk versus soy formula introduction?",
+    "a": "It selects hydrolyzed casein formula in either exam vignette. The broader point is to remove the offending intact protein rather than assume soy is always hypoallergenic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 47,
+      "url": "/mehlman/hy-pediatrics.pdf#page=47"
+    },
+    "guideline": {
+      "text": "CPS 2024 distinguishes FPIAP, FPE and FPIES and individualizes feeding. Breastfed infants with FPIAP are usually supported to continue breastfeeding with a supervised maternal elimination trial, rather than automatically switched to formula.",
+      "url": "https://cps.ca/en/documents/position/cows-milk-protein-allergy"
+    }
   }
 ];
