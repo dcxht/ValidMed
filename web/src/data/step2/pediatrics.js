@@ -16735,5 +16735,320 @@ export default [
       "text": "The UCL clinical review describes normal axillary and pubic hair in Swyer syndrome, despite poor breast development and estrogen deficiency. Adrenal androgen-related hair can be preserved; do not teach absent hair as necessary for gonadal dysgenesis.",
       "url": "https://discovery.ucl.ac.uk/id/eprint/1488187/1/Swyer%20Syndrome%205%207%2014.pdf"
     }
+  },
+  {
+    "id": "s2peds-1195",
+    "category": "Puberty and growth",
+    "q": "What is an imperforate hymen, and why can it cause apparent primary amenorrhea despite normal menstrual cycling?",
+    "a": "A hymen without an opening completely blocks the vaginal outlet. Normal hymenal openings vary in size and shape, but an imperforate membrane prevents menstrual blood from leaving, causing vaginal blood accumulation and sometimes uterine accumulation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "ACOG describes obstruction from imperforate hymen and emphasizes examination to distinguish it from vaginal atresia, transverse septum and other causes. A visible hymen is not itself abnormal; complete obstruction is the problem.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/06/diagnosis-and-management-of-hymenal-variants"
+    }
+  },
+  {
+    "id": "s2peds-1196",
+    "category": "Puberty and growth",
+    "q": "What diagnosis fits the source adolescent with no visible menstrual periods, monthly pelvic pain and a bluish bulge behind the hymen?",
+    "a": "Hematocolpos from an imperforate hymen. Blood collects in the vagina while the adolescent is menstruating internally but cannot pass blood through the obstructed outlet.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "ACOG describes a dark or bluish hymenal bulge from retained blood, cyclic or acute pain, and possible urinary or bowel symptoms. Exam plus ultrasound showing hematocolpos can establish the anatomic diagnosis.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/06/diagnosis-and-management-of-hymenal-variants"
+    }
+  },
+  {
+    "id": "s2peds-1197",
+    "category": "Puberty and growth",
+    "q": "What treatment answer does the source give for symptomatic hematocolpos from imperforate hymen?",
+    "a": "A cruciate incision of the hymen. Clinically this is part of planned hymenectomy with removal of obstructing tissue, not an instruction for simple bedside puncture and drainage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "ACOG describes an initial cruciate or U-shaped incision while protecting the urethra, followed by excision of redundant hymenal tissue. It warns against simple incision and drainage because of ascending infection and sepsis risk.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/06/diagnosis-and-management-of-hymenal-variants"
+    }
+  },
+  {
+    "id": "s2peds-1198",
+    "category": "Puberty and growth",
+    "q": "What is hematometra, and what mechanism does the source give for low blood pressure in an obstructed-menstrual-flow vignette?",
+    "a": "Blood retained in the uterus rather than only the vagina. The PDF says uterine distention can trigger a vagal response and hypotension; low blood pressure should not be used as proof of hematometra without assessing the patient and anatomy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "A gynecology clinical review excerpt describes hypotension or vasovagal episodes with a blood-distended uterus, particularly after procedures. This supports the possible mechanism, not a claim that every adolescent with low BP has hematometra or that other urgent causes can be ignored.",
+      "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/hematometra"
+    }
+  },
+  {
+    "id": "s2peds-1199",
+    "category": "Genetic syndromes",
+    "q": "What chromosome abnormality causes Down syndrome in the source, and what is the most common mechanism?",
+    "a": "Extra chromosome 21 material, classically three free copies from meiotic nondisjunction. The PDF assigns about 95% to this mechanism and associates risk with increasing maternal age.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "AAP 2022 gives about 96% free trisomy 21, 3-4% translocation and 1-2% mosaicism. Percentages are approximate; Down syndrome can result from extra chromosome material without three separate free chromosomes.",
+      "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1200",
+    "category": "Genetic syndromes",
+    "q": "What maternal-age Down-syndrome risk estimates are printed in the source, and should they be treated as individualized current counseling?",
+    "a": "The PDF gives approximately 1 in 350 at age 35, 1 in 100 at age 40 and 1 in 10 at age 50. These are the source teaching estimates, not a substitute for gestation-specific and patient-specific counseling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck cites live-birth estimates of about 1 in 352 at 35 and 1 in 85 at 40. The source age-50 estimate has not been independently confirmed here; risk varies with gestational age and population, so the exact PDF numbers should not be presented as universal.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/down-syndrome-trisomy-21"
+    }
+  },
+  {
+    "id": "s2peds-1201",
+    "category": "Genetic syndromes",
+    "q": "How does a Robertsonian translocation produce source Down syndrome, and which chromosome partner is commonly involved?",
+    "a": "Extra chromosome 21 long-arm material is attached to another chromosome, commonly chromosome 14, alongside the usual chromosome 21 copies. The source assigns about 4% of cases to this mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "MedlinePlus and AAP describe two normal chromosome 21 copies plus extra chromosome 21 material attached elsewhere. AAP recommends parental karyotypes when a child has a translocation to establish whether it is inherited or de novo and guide recurrence counseling.",
+      "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1202",
+    "category": "Genetic syndromes",
+    "q": "What is mosaic Down syndrome in the source, and how does its cell-division timing differ from classic meiotic nondisjunction?",
+    "a": "A post-fertilization mitotic error produces a mixture of cell lines, some with an extra chromosome 21 and some without. The PDF assigns about 1% of cases to mosaicism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "AAP reports mosaicism in about 1-2%, with normal and trisomy-21 cell lines. Mosaic individuals can have any of the associated medical problems and are not guaranteed to be mildly affected.",
+      "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1203",
+    "category": "Genetic syndromes",
+    "q": "How should the source Down syndrome, Fragile X and fetal-alcohol intellectual-disability rankings be interpreted?",
+    "a": "The PDF ranks Down syndrome first among genetic causes, Fragile X second, and fetal alcohol syndrome first overall. The useful distinction is chromosomal versus inherited versus preventable causes; the blanket overall ranking should not be memorized without those qualifiers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "The clinical intellectual-disability review identifies Down syndrome as the most common chromosomal cause and fetal alcohol syndrome as the most common known preventable/environmental cause. CDC identifies Fragile X as the most common known inherited cause. Many causes remain unknown, so these categories should not be collapsed into a universal ranking.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK547654/"
+    }
+  },
+  {
+    "id": "s2peds-1204",
+    "category": "Genetic syndromes",
+    "q": "Which facial and eye findings in the source suggest Down syndrome?",
+    "a": "A flattened facial profile, upslanting palpebral fissures, epicanthal folds and Brushfield spots of the iris. These findings support a pattern; no single facial feature confirms the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck describes flattened nasal bridge, upward-slanting eyes, epicanthal folds and gray-white peripheral iris Brushfield spots. Cytogenetic testing confirms suspected Down syndrome rather than appearance alone.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/down-syndrome-trisomy-21"
+    }
+  },
+  {
+    "id": "s2peds-1205",
+    "category": "Genetic syndromes",
+    "q": "Which hand and foot findings does the source associate with Down syndrome, and is a single palmar crease specific?",
+    "a": "A single transverse palmar crease and a large gap between the first and second toes. The PDF explicitly notes the palmar crease is nonspecific.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck describes a single transverse palmar crease and sandal-gap toes. These physical clues are considered with the full clinical picture and are not diagnostic in isolation.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/down-syndrome-trisomy-21"
+    }
+  },
+  {
+    "id": "s2peds-1206",
+    "category": "Genetic syndromes",
+    "q": "Which two intestinal conditions does the source associate with Down syndrome?",
+    "a": "Hirschsprung disease and duodenal atresia. The latter can produce the double-bubble abdominal radiograph pattern from proximal duodenal obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck describes increased Hirschsprung risk and duodenal atresia, sometimes with annular pancreas. A syndromic association does not mean either condition must be present in every child with trisomy 21.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/down-syndrome-trisomy-21"
+    }
+  },
+  {
+    "id": "s2peds-1207",
+    "category": "Genetic syndromes",
+    "q": "What cardiac abnormalities does the source emphasize in Down syndrome?",
+    "a": "Endocardial-cushion or septal defects, especially atrioventricular septal defect, with ventricular or atrial septal defects also listed. The PDF additionally lists pulmonary-artery malformations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck emphasizes AVSD and VSD, with congenital heart disease in about half of affected neonates. The source broad pulmonary-artery-malformation label is retained but has not been independently confirmed as a defining association in the sections reviewed.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/down-syndrome-trisomy-21"
+    }
+  },
+  {
+    "id": "s2peds-1208",
+    "category": "Genetic syndromes",
+    "q": "What hematologic and thyroid associations are listed for Down syndrome in the source?",
+    "a": "Acute lymphoblastic leukemia and congenital hypothyroidism. These are source associations, not a claim that leukemia is limited to ALL or that all thyroid disease is congenital.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "AAP describes transient abnormal myelopoiesis, later leukemia and both congenital and acquired thyroid disease. The source short list should not replace ongoing Down-syndrome health supervision.",
+      "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1209",
+    "category": "Genetic syndromes",
+    "q": "What ear abnormality does the PDF list in Down syndrome, and what current clinical issue is better established?",
+    "a": "The source prints Eustachian-tube atresia. The clinically established concern is hearing loss and middle-ear disease; the exact atresia wording should not be treated as a universal Down-syndrome finding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "AAP reports frequent hearing loss and otitis media. Those actual guideline sections do not establish routine Eustachian-tube atresia, so the PDF wording remains an unverified specific claim rather than being silently changed or endorsed.",
+      "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1210",
+    "category": "Genetic syndromes",
+    "q": "What first-trimester Down-syndrome combined-screen pattern is given in the source?",
+    "a": "Increased nuchal translucency, increased hCG and decreased PAPP-A. The source reminder emphasizes that PAPP-A falls rather than rises.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck confirms this typical combined-screen pattern but says no nuchal-translucency cutoff is itself diagnostic. Screening estimates risk; diagnostic testing is needed before treating an aneuploidy result as confirmed.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/prenatal-genetic-counseling-and-evaluation/noninvasive-prenatal-fetal-screening-tests"
+    }
+  },
+  {
+    "id": "s2peds-1211",
+    "category": "Genetic syndromes",
+    "q": "What timing correction is needed for the source \"8-10 week\" first-trimester tri-screen label?",
+    "a": "Do not use 8-10 weeks as the universal window for the combined blood-and-nuchal-translucency screen. The PDF lists that timing, but the actual test type and validated gestational window must be checked.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "ACOG describes first-trimester blood and ultrasound screening together at 10-13 weeks, cell-free DNA screening from 10 weeks and quad screening at 15-22 weeks. A serum draw, NT ultrasound and cfDNA test are not interchangeable tests on one timeline.",
+      "url": "https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests"
+    }
+  },
+  {
+    "id": "s2peds-1212",
+    "category": "Genetic syndromes",
+    "q": "What additional nasal-bone finding does the source associate with fetal Down syndrome?",
+    "a": "A hypoplastic nasal bone, reflecting the flattened facial profile. The PDF treats it as an ultrasound clue rather than one of the serum analytes in the combined screen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck describes ultrasound findings as risk markers rather than definitive diagnosis. The nasal-bone association is retained as a source-specific clue; interpretation depends on the complete screening and imaging context.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/down-syndrome-trisomy-21"
+    }
+  },
+  {
+    "id": "s2peds-1213",
+    "category": "Genetic syndromes",
+    "q": "What is the source second-trimester Down-syndrome quad-screen pattern and memory aid?",
+    "a": "Low AFP, high hCG, low unconjugated estriol and high inhibin A. In the PDF mnemonic, the analytes containing an H, hCG and inhibin, are the ones that rise.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "The UK screening evidence review gives lower median AFP/estriol and higher hCG/inhibin in trisomy 21. It is used here for marker biology, not as a replacement for US screening timing or practice recommendations.",
+      "url": "https://www.gov.uk/government/consultations/addition-of-quadruple-test-to-edwards-syndrome-screening-pathway/edwards-syndrome-screening-quadruple-test-consultation"
+    }
+  },
+  {
+    "id": "s2peds-1214",
+    "category": "Genetic syndromes",
+    "q": "What source physical findings suggest Edwards syndrome, or trisomy 18?",
+    "a": "Low-set ears, prominent occiput, rocker-bottom feet, clenched hands with overlapping fingers and omphalocele. The PDF labels this lower yield but retains it as an important clinical recognition pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "Merck describes prominent occiput, low-set malformed ears, overlapping fingers, rocker-bottom feet and abdominal-wall anomalies. Diagnosis needs cytogenetic confirmation; the appearance alone is not sufficient.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/trisomy-18"
+    }
+  },
+  {
+    "id": "s2peds-1215",
+    "category": "Genetic syndromes",
+    "q": "Is the source \"all quad-screen markers fall\" rule reliable for both trisomy 18 and trisomy 13?",
+    "a": "No. The PDF prints that shorthand for Edwards and Patau syndromes, but it should not be applied as a verified rule for all four analytes in either condition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 84,
+      "url": "/mehlman/hy-pediatrics.pdf#page=84"
+    },
+    "guideline": {
+      "text": "The UK screening evidence review reports low AFP, hCG and unconjugated estriol in trisomy 18, with no evidence that inhibin differs from unaffected pregnancies. For trisomy 13 it reports increased inhibin and no substantial difference for other quad markers, directly qualifying the PDF all-down shortcut.",
+      "url": "https://www.gov.uk/government/consultations/addition-of-quadruple-test-to-edwards-syndrome-screening-pathway/edwards-syndrome-screening-quadruple-test-consultation"
+    }
   }
 ];
