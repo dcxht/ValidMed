@@ -32171,5 +32171,165 @@ export default [
       "text": "ACR 2024 guidance conditionally recommends biopsy for proteinuria above 0.5 g/g and/or otherwise unexplained impaired kidney function, and prompt biopsy when lupus nephritis is suspected unless infeasible/contraindicated. Renal dysfunction still requires assessment rather than assuming every cause is lupus nephritis.",
       "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/blt4db6d0b451e88caf/lupus-nephritis-guideline-summary-2024.pdf"
     }
+  },
+  {
+    "id": "s2fm-2708",
+    "category": "CLL diagnostic source review",
+    "q": "What next test does the source give for an older patient with marked lymphocytosis suspected to be CLL?",
+    "a": "A quantitative immunoglobulin assay, which it says may show increased monoclonal immunoglobulin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "NCI PDQ includes immunoglobulin levels in evaluation but establishes CLL through the characteristic morphology and clonal immunophenotype, using flow cytometry. It also describes depressed immunoglobulin levels as a complication; an isolated quantitative immunoglobulin assay does not confirm CLL.",
+      "url": "https://www.cancer.gov/types/leukemia/hp/cll-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2fm-2709",
+    "category": "Leukemia lineage exact-source review",
+    "q": "What broad lineage claim does the PDF make in its leukemia introduction?",
+    "a": "Leukemias are almost always B-cell in origin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    },
+    "guideline": {
+      "text": "NCI distinguishes acute/chronic myeloid and lymphoid leukemias. Myeloid leukemia is not B-cell disease; B-cell predominance in selected lymphoid entities must not be extended to every leukemia category.",
+      "url": "https://www.cancer.gov/types/leukemia"
+    }
+  },
+  {
+    "id": "s2fm-2710",
+    "category": "Infection and hematology exact-source review",
+    "q": "What age-based rule does the source use to interpret a beta-lactam-associated rash during pharyngitis?",
+    "a": "Before adolescence it favors drug allergy; in adolescence/adulthood it favors EBV and a Monospot test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Cleveland Clinic Journal of Medicine 2025 describes EBV-associated aminopenicillin rash, including pediatric evidence, and says persistent drug hypersensitivity can coexist. Age alone cannot classify the rash as allergy or nonallergy.",
+      "url": "https://www.ccjm.org/content/92/6/335"
+    }
+  },
+  {
+    "id": "s2fm-2711",
+    "category": "Infection and hematology exact-source review",
+    "q": "Which diagnostic test does the source choose after an adolescent develops a rash with amoxicillin during suspected mononucleosis?",
+    "a": "Heterophile antibody/Monospot testing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    },
+    "guideline": {
+      "text": "CDC does not recommend Monospot for general use because of false-positive/negative results; heterophile antibodies are often absent in children. Specific EBV serology can help when confirmation is needed.",
+      "url": "https://www.cdc.gov/epstein-barr/php/laboratories/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2712",
+    "category": "Infection and hematology exact-source review",
+    "q": "What recurrent-fatigue pattern does the PDF attribute to mononucleosis?",
+    "a": "Extreme fatigue recurring at intervals of months to years after primary infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    },
+    "guideline": {
+      "text": "CDC says mono symptoms usually resolve within four weeks. Illness beyond six months without laboratory-confirmed EBV warrants considering other causes or chronic fatigue syndrome; persistent EBV antibodies do not establish recent active infection.",
+      "url": "https://www.cdc.gov/epstein-barr/php/laboratories/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2713",
+    "category": "Infection and hematology exact-source review",
+    "q": "Which compression syndrome does the source use as a clue to T-lineage ALL or CLL?",
+    "a": "SVC-like obstruction from a thymic/mediastinal lesion, with neck-vein congestion, facial swelling or a positive Pemberton sign. This is the source clue, not a stand-alone lineage test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-2714",
+    "category": "Infection and hematology exact-source review",
+    "q": "Which additional findings can accompany source Hodgkin cervical lymphadenopathy?",
+    "a": "Hepatomegaly, a mediastinal lymph-node mass or a left supraclavicular Virchow node; B symptoms need not all be present.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-2715",
+    "category": "Infection and hematology exact-source review",
+    "q": "What unusual white-cell-count clue does the source mention for hairy-cell leukemia?",
+    "a": "Leukopenia, for example a count of 3,500/µL, despite the leukemia label; cytoplasmic projections/TRAP positivity are its accompanying clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-2716",
+    "category": "Infection and hematology exact-source review",
+    "q": "What MCV threshold does the source use for macrocytosis?",
+    "a": "Above 100 fL; its adult reference interval is 80-100 fL.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-2717",
+    "category": "Infection and hematology exact-source review",
+    "q": "What inheritance pattern does the PDF assign to G6PD deficiency?",
+    "a": "X-linked recessive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-2718",
+    "category": "Exact-source clinical differences",
+    "q": "What cell name does the source use after describing iron-laden mitochondria around a sideroblast nucleus?",
+    "a": "It calls them iron-laden macrophages staining with Prussian blue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "Merck professional guidance identifies ring sideroblasts as erythroblasts/developing red-cell precursors with iron-engorged perinuclear mitochondria, not macrophages.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/sideroblastic-anemias"
+    }
+  },
+  {
+    "id": "s2fm-2719",
+    "category": "Exact-source clinical differences",
+    "q": "What categorical gastrointestinal safety claim does the PDF make for celecoxib?",
+    "a": "It does not cause GI bleeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    },
+    "guideline": {
+      "text": "FDA Celebrex labeling includes a boxed warning for serious gastrointestinal bleeding, ulceration and perforation, including fatal events. COX-2 selectivity does not eliminate GI risk.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020998s058lbl.pdf"
+    }
   }
 ];
