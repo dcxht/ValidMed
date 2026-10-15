@@ -261,7 +261,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 4,
       "url": "/mehlman/hy-psych.pdf#page=4"
-    }
+    },
+    "sourcePages": [
+      4,
+      41
+    ]
   },
   {
     "id": "s2psy-0025",
@@ -272,7 +276,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 4,
       "url": "/mehlman/hy-psych.pdf#page=4"
-    }
+    },
+    "sourcePages": [
+      4,
+      41
+    ]
   },
   {
     "id": "s2psy-0026",
@@ -287,7 +295,11 @@ export default [
     "guideline": {
       "text": "Merck Professional July 2026 requires at least five symptoms in the same two-week period, including depressed mood or loss of interest/pleasure. Symptoms must produce distress or impairment and be assessed for alternative causes. SIGECAPS has eight letters; depressed mood supplies the ninth symptom.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders"
-    }
+    },
+    "sourcePages": [
+      4,
+      42
+    ]
   },
   {
     "id": "s2psy-0027",
@@ -298,7 +310,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 4,
       "url": "/mehlman/hy-psych.pdf#page=4"
-    }
+    },
+    "sourcePages": [
+      4,
+      42
+    ]
   },
   {
     "id": "s2psy-0028",
@@ -309,7 +325,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 4,
       "url": "/mehlman/hy-psych.pdf#page=4"
-    }
+    },
+    "sourcePages": [
+      4,
+      42
+    ]
   },
   {
     "id": "s2psy-0029",
@@ -324,7 +344,12 @@ export default [
     "guideline": {
       "text": "Merck Professional July 2026 states that diagnosis requires DSM-5-TR criteria. A short exam stem may leave findings implicit, but weight loss and tearfulness alone are not a replacement for assessment or the required diagnostic criteria.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders"
-    }
+    },
+    "sourcePages": [
+      4,
+      42,
+      50
+    ]
   },
   {
     "id": "s2psy-0030",
@@ -372,7 +397,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 4,
       "url": "/mehlman/hy-psych.pdf#page=4"
-    }
+    },
+    "sourcePages": [
+      4,
+      49
+    ]
   },
   {
     "id": "s2psy-0034",
@@ -383,7 +412,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      48
+    ]
   },
   {
     "id": "s2psy-0035",
@@ -394,7 +427,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      48
+    ]
   },
   {
     "id": "s2psy-0036",
@@ -405,7 +442,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      48
+    ]
   },
   {
     "id": "s2psy-0037",
@@ -419,7 +460,9 @@ export default [
     },
     "sourcePages": [
       5,
-      18
+      18,
+      38,
+      39
     ]
   },
   {
@@ -435,7 +478,11 @@ export default [
     "guideline": {
       "text": "Merck Professional July 2026 describes persistent depressive disorder as depressed mood most of the day, more days than not, for at least two years in adults or one year in children/adolescents, plus at least two associated symptoms. It includes formerly separate chronic major depression and dysthymic disorder.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders"
-    }
+    },
+    "sourcePages": [
+      5,
+      43
+    ]
   },
   {
     "id": "s2psy-0039",
@@ -450,7 +497,11 @@ export default [
     "guideline": {
       "text": "Merck Professional defines cyclothymia using numerous periods of hypomanic and depressive symptoms that do not meet full episode criteria, for at least two years in adults or one year in children/adolescents. Symptoms occupy at least half that time, without a symptom-free interval longer than two months.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/cyclothymic-disorder"
-    }
+    },
+    "sourcePages": [
+      5,
+      43
+    ]
   },
   {
     "id": "s2psy-0040",
@@ -476,7 +527,11 @@ export default [
     "guideline": {
       "text": "Merck Professional uses at least one week for mania, or any duration if hospitalization is necessary, with increased activity/energy and additional symptoms. Hypomania lasts at least four days and does not involve marked functional impairment, psychosis or need for hospitalization. The source wording longer than these cutoffs is imprecise.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/bipolar-disorders"
-    }
+    },
+    "sourcePages": [
+      5,
+      42
+    ]
   },
   {
     "id": "s2psy-0042",
@@ -487,7 +542,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      42
+    ]
   },
   {
     "id": "s2psy-0043",
@@ -498,7 +557,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      42
+    ]
   },
   {
     "id": "s2psy-0044",
@@ -509,7 +572,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      42
+    ]
   },
   {
     "id": "s2psy-0045",
@@ -520,7 +587,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      42
+    ]
   },
   {
     "id": "s2psy-0046",
@@ -535,7 +606,11 @@ export default [
     "guideline": {
       "text": "DailyMed extended-release lithium label updated November 2025 states lithium can precipitate serotonin syndrome, with greater risk alongside other serotonergic drugs or MAO inhibitors. It lists mental-status, autonomic, neuromuscular and gastrointestinal features. This directly supports the source association.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d276da3c-9952-4674-a54d-b1258df71b8a"
-    }
+    },
+    "sourcePages": [
+      5,
+      43
+    ]
   },
   {
     "id": "s2psy-0047",
@@ -546,7 +621,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 5,
       "url": "/mehlman/hy-psych.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5,
+      43
+    ]
   },
   {
     "id": "s2psy-0048",
@@ -561,7 +640,11 @@ export default [
     "guideline": {
       "text": "Merck Professional requires at least two characteristic symptoms for at least one month, including at least one of delusions, hallucinations or disorganized speech, plus functional decline and continuous illness signs for at least six months. Other causes and mood-episode relationships must be assessed.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizophrenia"
-    }
+    },
+    "sourcePages": [
+      6,
+      42
+    ]
   },
   {
     "id": "s2psy-0049",
@@ -616,7 +699,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 6,
       "url": "/mehlman/hy-psych.pdf#page=6"
-    }
+    },
+    "sourcePages": [
+      6,
+      42
+    ]
   },
   {
     "id": "s2psy-0054",
@@ -631,7 +718,11 @@ export default [
     "guideline": {
       "text": "Merck Professional requires a major mood episode concurrent with schizophrenia symptoms, major mood symptoms present for more than half the total illness duration, and at least two weeks of delusions or hallucinations without a major mood episode. The PDF interval alone is incomplete.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizoaffective-disorder"
-    }
+    },
+    "sourcePages": [
+      6,
+      42
+    ]
   },
   {
     "id": "s2psy-0055",
@@ -646,7 +737,11 @@ export default [
     "guideline": {
       "text": "Merck Professional emphasizes the longitudinal majority-of-illness mood criterion as well as at least two weeks of psychosis without a major mood episode. The source baseline diagram does not replace those criteria.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizoaffective-disorder"
-    }
+    },
+    "sourcePages": [
+      6,
+      42
+    ]
   },
   {
     "id": "s2psy-0056",
@@ -683,7 +778,11 @@ export default [
     "guideline": {
       "text": "Merck Professional July 2025 allows either bizarre or nonbizarre delusions, lasting at least one month, with no prior schizophrenia criterion and relatively preserved functioning outside the delusion. A nonbizarre belief is not mandatory.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/delusional-disorder"
-    }
+    },
+    "sourcePages": [
+      7,
+      43
+    ]
   },
   {
     "id": "s2psy-0059",
@@ -720,7 +819,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 7,
       "url": "/mehlman/hy-psych.pdf#page=7"
-    }
+    },
+    "sourcePages": [
+      7,
+      49
+    ]
   },
   {
     "id": "s2psy-0062",
@@ -742,7 +845,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 7,
       "url": "/mehlman/hy-psych.pdf#page=7"
-    }
+    },
+    "sourcePages": [
+      7,
+      49
+    ]
   },
   {
     "id": "s2psy-0064",
@@ -757,7 +864,11 @@ export default [
     "guideline": {
       "text": "Merck Professional July 2026 describes prolonged grief disorder after at least twelve months in adults or six months in children/adolescents, with persistent specified grief symptoms, impairment and a response exceeding cultural expectations. Significant suicidal thoughts or self-neglect need assessment regardless of whether that duration has elapsed.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders"
-    }
+    },
+    "sourcePages": [
+      7,
+      49
+    ]
   },
   {
     "id": "s2psy-0065",
@@ -768,7 +879,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 7,
       "url": "/mehlman/hy-psych.pdf#page=7"
-    }
+    },
+    "sourcePages": [
+      7,
+      41
+    ]
   },
   {
     "id": "s2psy-0066",
@@ -779,7 +894,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 7,
       "url": "/mehlman/hy-psych.pdf#page=7"
-    }
+    },
+    "sourcePages": [
+      7,
+      41
+    ]
   },
   {
     "id": "s2psy-0067",
@@ -790,7 +909,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      41
+    ]
   },
   {
     "id": "s2psy-0068",
@@ -801,7 +924,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      41
+    ]
   },
   {
     "id": "s2psy-0069",
@@ -812,7 +939,12 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      47,
+      48
+    ]
   },
   {
     "id": "s2psy-0070",
@@ -823,7 +955,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      47
+    ]
   },
   {
     "id": "s2psy-0071",
@@ -834,7 +970,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      48
+    ]
   },
   {
     "id": "s2psy-0072",
@@ -845,7 +985,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      44
+    ]
   },
   {
     "id": "s2psy-0073",
@@ -860,7 +1004,12 @@ export default [
     "guideline": {
       "text": "NICE CG159 recommends disorder-specific individual CBT for adults with social anxiety, with an SSRI such as sertraline or escitalopram when medication is preferred after discussion. It says not to routinely offer benzodiazepines. A narrow performance-anxiety vignette is not the same as generalized social-anxiety treatment.",
       "url": "https://www.nice.org.uk/guidance/cg159/chapter/Recommendations"
-    }
+    },
+    "sourcePages": [
+      8,
+      44,
+      51
+    ]
   },
   {
     "id": "s2psy-0074",
@@ -871,7 +1020,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      44
+    ]
   },
   {
     "id": "s2psy-0075",
@@ -915,7 +1068,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 8,
       "url": "/mehlman/hy-psych.pdf#page=8"
-    }
+    },
+    "sourcePages": [
+      8,
+      53
+    ]
   },
   {
     "id": "s2psy-0079",
@@ -926,7 +1083,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      49
+    ]
   },
   {
     "id": "s2psy-0080",
@@ -937,7 +1098,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      49
+    ]
   },
   {
     "id": "s2psy-0081",
@@ -948,7 +1113,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      47
+    ]
   },
   {
     "id": "s2psy-0082",
@@ -959,7 +1128,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      47
+    ]
   },
   {
     "id": "s2psy-0083",
@@ -970,7 +1143,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      50
+    ]
   },
   {
     "id": "s2psy-0084",
@@ -981,7 +1158,12 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      42,
+      47
+    ]
   },
   {
     "id": "s2psy-0085",
@@ -992,7 +1174,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      49
+    ]
   },
   {
     "id": "s2psy-0086",
@@ -1007,7 +1193,11 @@ export default [
     "guideline": {
       "text": "Merck Professional requires at least three qualifying behaviors over twelve months, with at least one present in the past six months. The behaviors involve aggression, destruction, deceit/theft or serious rule violations. An isolated act or an unspecified crime does not substitute for the diagnostic pattern.",
       "url": "https://www.merckmanuals.com/professional/pediatrics/psychiatric-disorders-in-children-and-adolescents/conduct-disorder"
-    }
+    },
+    "sourcePages": [
+      9,
+      49
+    ]
   },
   {
     "id": "s2psy-0087",
@@ -1029,7 +1219,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 9,
       "url": "/mehlman/hy-psych.pdf#page=9"
-    }
+    },
+    "sourcePages": [
+      9,
+      49
+    ]
   },
   {
     "id": "s2psy-0089",
@@ -1040,7 +1234,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 10,
       "url": "/mehlman/hy-psych.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      49
+    ]
   },
   {
     "id": "s2psy-0090",
@@ -1051,7 +1249,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 10,
       "url": "/mehlman/hy-psych.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      49
+    ]
   },
   {
     "id": "s2psy-0091",
@@ -1066,7 +1268,11 @@ export default [
     "guideline": {
       "text": "Merck Professional January 2026 notes both nonsuicidal self-injury and suicidal behaviors in borderline personality disorder, with a substantially elevated suicide risk. Intent cannot be inferred from the diagnosis or the appearance of an injury. Psychotherapy, including DBT, is central.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/borderline-personality-disorder-bpd"
-    }
+    },
+    "sourcePages": [
+      10,
+      49
+    ]
   },
   {
     "id": "s2psy-0092",
@@ -1077,7 +1283,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 10,
       "url": "/mehlman/hy-psych.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      48
+    ]
   },
   {
     "id": "s2psy-0093",
@@ -1099,7 +1309,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 10,
       "url": "/mehlman/hy-psych.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      49
+    ]
   },
   {
     "id": "s2psy-0095",
@@ -1110,7 +1324,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 10,
       "url": "/mehlman/hy-psych.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      49
+    ]
   },
   {
     "id": "s2psy-0096",
@@ -1132,7 +1350,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 10,
       "url": "/mehlman/hy-psych.pdf#page=10"
-    }
+    },
+    "sourcePages": [
+      10,
+      50
+    ]
   },
   {
     "id": "s2psy-0098",
@@ -1165,6 +1387,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 10,
       "url": "/mehlman/hy-psych.pdf#page=10"
+    },
+    "guideline": {
+      "text": "NIMH describes a wide spectrum of abilities, traits and support needs. Autism does not by itself determine IQ or a special compensatory talent.",
+      "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd"
     }
   },
   {
@@ -1180,7 +1406,11 @@ export default [
     "guideline": {
       "text": "Merck Professional January 2026 defines anorexia through significantly low weight, restriction, fear of weight gain and body-image disturbance. It uses the individual baseline for adults and age/growth trajectory for children rather than one BMI threshold for all ages. Medical instability, rapid/severe weight loss and nutritional needs can require hospitalization even above the PDF threshold.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/feeding-and-eating-disorders/anorexia-nervosa"
-    }
+    },
+    "sourcePages": [
+      11,
+      47
+    ]
   },
   {
     "id": "s2psy-0102",
@@ -1202,7 +1432,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 11,
       "url": "/mehlman/hy-psych.pdf#page=11"
-    }
+    },
+    "sourcePages": [
+      11,
+      47
+    ]
   },
   {
     "id": "s2psy-0104",
@@ -1276,7 +1510,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 11,
       "url": "/mehlman/hy-psych.pdf#page=11"
-    }
+    },
+    "sourcePages": [
+      11,
+      47
+    ]
   },
   {
     "id": "s2psy-0110",
@@ -1302,7 +1540,11 @@ export default [
     "guideline": {
       "text": "Merck Professional June 2026 explicitly permits somatic symptom disorder with or without a coexisting medical condition. The central findings are excessive/disproportionate symptom-related thoughts, anxiety or behavior with distressing/disruptive symptoms persisting more than six months, not merely a negative workup.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/somatic-symptom-and-related-disorders/somatic-symptom-disorder"
-    }
+    },
+    "sourcePages": [
+      11,
+      46
+    ]
   },
   {
     "id": "s2psy-0112",
@@ -1367,7 +1609,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 12,
       "url": "/mehlman/hy-psych.pdf#page=12"
-    }
+    },
+    "sourcePages": [
+      12,
+      47
+    ]
   },
   {
     "id": "s2psy-0117",
@@ -1378,7 +1624,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 12,
       "url": "/mehlman/hy-psych.pdf#page=12"
-    }
+    },
+    "sourcePages": [
+      12,
+      47
+    ]
   },
   {
     "id": "s2psy-0118",
@@ -1437,7 +1687,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 12,
       "url": "/mehlman/hy-psych.pdf#page=12"
-    }
+    },
+    "sourcePages": [
+      12,
+      47
+    ]
   },
   {
     "id": "s2psy-0123",
@@ -1525,7 +1779,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 13,
       "url": "/mehlman/hy-psych.pdf#page=13"
-    }
+    },
+    "sourcePages": [
+      13,
+      46
+    ]
   },
   {
     "id": "s2psy-0131",
@@ -1547,7 +1805,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 14,
       "url": "/mehlman/hy-psych.pdf#page=14"
-    }
+    },
+    "sourcePages": [
+      14,
+      52
+    ]
   },
   {
     "id": "s2psy-0133",
@@ -1576,7 +1838,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 14,
       "url": "/mehlman/hy-psych.pdf#page=14"
-    }
+    },
+    "sourcePages": [
+      14,
+      52
+    ]
   },
   {
     "id": "s2psy-0135",
@@ -1591,7 +1857,11 @@ export default [
     "guideline": {
       "text": "ATS 2019 defines OHS by obesity, sleep-disordered breathing and awake resting PaCO2 at least 45 mm Hg after excluding other causes. Pulmonary hypertension or cor pulmonale may be complications but are not required defining criteria.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6680300/"
-    }
+    },
+    "sourcePages": [
+      14,
+      53
+    ]
   },
   {
     "id": "s2psy-0136",
@@ -1613,7 +1883,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 14,
       "url": "/mehlman/hy-psych.pdf#page=14"
-    }
+    },
+    "sourcePages": [
+      14,
+      46
+    ]
   },
   {
     "id": "s2psy-0138",
@@ -1624,7 +1898,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 14,
       "url": "/mehlman/hy-psych.pdf#page=14"
-    }
+    },
+    "sourcePages": [
+      14,
+      46
+    ]
   },
   {
     "id": "s2psy-0139",
@@ -1635,7 +1913,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 14,
       "url": "/mehlman/hy-psych.pdf#page=14"
-    }
+    },
+    "sourcePages": [
+      14,
+      46
+    ]
   },
   {
     "id": "s2psy-0140",
@@ -1649,7 +1931,8 @@ export default [
     },
     "sourcePages": [
       14,
-      19
+      19,
+      43
     ]
   },
   {
@@ -1669,7 +1952,8 @@ export default [
     "sourcePages": [
       14,
       19,
-      34
+      34,
+      43
     ]
   },
   {
@@ -1696,7 +1980,11 @@ export default [
     "guideline": {
       "text": "NHLBI recommends CBT-I as the usual first treatment for long-term insomnia. Benzodiazepines may be prescribed when other approaches have not worked, with risks including dizziness, confusion, weakness, interactions and dependence; use is generally limited to a few weeks. The PDF acute exam example does not supply a universal first-line plan.",
       "url": "https://www.nhlbi.nih.gov/health/insomnia/treatment"
-    }
+    },
+    "sourcePages": [
+      14,
+      37
+    ]
   },
   {
     "id": "s2psy-0144",
@@ -1955,7 +2243,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 16,
       "url": "/mehlman/hy-psych.pdf#page=16"
-    }
+    },
+    "sourcePages": [
+      16,
+      46
+    ]
   },
   {
     "id": "s2psy-0165",
@@ -1966,7 +2258,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 16,
       "url": "/mehlman/hy-psych.pdf#page=16"
-    }
+    },
+    "sourcePages": [
+      16,
+      40
+    ]
   },
   {
     "id": "s2psy-0166",
@@ -1981,7 +2277,11 @@ export default [
     "guideline": {
       "text": "NICE CG111 recommends rewarding agreed behaviors rather than dry nights, such as toileting or engaging with treatment. Wetting should not be punished.",
       "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
-    }
+    },
+    "sourcePages": [
+      16,
+      40
+    ]
   },
   {
     "id": "s2psy-0167",
@@ -1996,7 +2296,11 @@ export default [
     "guideline": {
       "text": "NICE CG111 recommends rewarding agreed behaviors, not dry nights, and often offers an alarm after basic advice/rewards. Desmopressin can be appropriate for selected children when rapid improvement matters or an alarm is unsuitable; medication-specific fluid-safety instructions are essential. It is not an always-wrong option.",
       "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
-    }
+    },
+    "sourcePages": [
+      16,
+      40
+    ]
   },
   {
     "id": "s2psy-0168",
@@ -2092,14 +2396,15 @@ export default [
       "page": 14,
       "url": "/mehlman/hy-psych.pdf#page=14"
     },
-    "sourcePages": [
-      14,
-      19
-    ],
     "guideline": {
       "text": "NINDS states that an RLS diagnosis does not indicate the onset of another neurological disease such as Parkinson disease. Coexistence and treatment overlap do not make the source mnemonic an individual predictive test.",
       "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/restless-legs-syndrome.pdf"
-    }
+    },
+    "sourcePages": [
+      14,
+      19,
+      43
+    ]
   },
   {
     "id": "s2psy-0175",
@@ -2199,7 +2504,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 17,
       "url": "/mehlman/hy-psych.pdf#page=17"
-    }
+    },
+    "sourcePages": [
+      17,
+      38
+    ]
   },
   {
     "id": "s2psy-0183",
@@ -2224,7 +2533,8 @@ export default [
     },
     "sourcePages": [
       17,
-      34
+      34,
+      38
     ]
   },
   {
@@ -2255,7 +2565,11 @@ export default [
     "guideline": {
       "text": "NIA describes frontotemporal disorders with different protein pathologies, including tau and TDP-43. Pick disease is not a synonym that makes every FTD case a tau/Pick-body disorder.",
       "url": "https://www.nia.nih.gov/health/frontotemporal-disorders/what-are-frontotemporal-disorders-causes-symptoms-and-treatment"
-    }
+    },
+    "sourcePages": [
+      17,
+      38
+    ]
   },
   {
     "id": "s2psy-0187",
@@ -2269,7 +2583,8 @@ export default [
     },
     "sourcePages": [
       17,
-      19
+      19,
+      38
     ]
   },
   {
@@ -2314,7 +2629,12 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 18,
       "url": "/mehlman/hy-psych.pdf#page=18"
-    }
+    },
+    "sourcePages": [
+      18,
+      39,
+      40
+    ]
   },
   {
     "id": "s2psy-0192",
@@ -2325,7 +2645,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 18,
       "url": "/mehlman/hy-psych.pdf#page=18"
-    }
+    },
+    "sourcePages": [
+      18,
+      40
+    ]
   },
   {
     "id": "s2psy-0193",
@@ -2336,7 +2660,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 18,
       "url": "/mehlman/hy-psych.pdf#page=18"
-    }
+    },
+    "sourcePages": [
+      18,
+      39
+    ]
   },
   {
     "id": "s2psy-0194",
@@ -2347,7 +2675,15 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 18,
       "url": "/mehlman/hy-psych.pdf#page=18"
-    }
+    },
+    "guideline": {
+      "text": "Merck Professional assesses dementia by progressive cognitive deficits and functional impact, interpreting testing in context. Insight may be impaired, but self-reported concern is not an exclusion criterion; safety problems such as leaving a stove on still require evaluation.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/delirium-and-dementia/dementia"
+    },
+    "sourcePages": [
+      18,
+      39
+    ]
   },
   {
     "id": "s2psy-0195",
@@ -2358,7 +2694,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 18,
       "url": "/mehlman/hy-psych.pdf#page=18"
-    }
+    },
+    "sourcePages": [
+      18,
+      39
+    ]
   },
   {
     "id": "s2psy-0196",
@@ -2435,7 +2775,8 @@ export default [
     },
     "sourcePages": [
       19,
-      34
+      34,
+      52
     ]
   },
   {
@@ -2497,7 +2838,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 19,
       "url": "/mehlman/hy-psych.pdf#page=19"
-    }
+    },
+    "sourcePages": [
+      19,
+      38
+    ]
   },
   {
     "id": "s2psy-0206",
@@ -2508,7 +2853,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 19,
       "url": "/mehlman/hy-psych.pdf#page=19"
-    }
+    },
+    "sourcePages": [
+      19,
+      38
+    ]
   },
   {
     "id": "s2psy-0207",
@@ -2534,7 +2883,11 @@ export default [
     "guideline": {
       "text": "NIA describes progressive supranuclear palsy with balance/walking problems, falls and body/neck stiffness, and calls impaired eye movements, especially downward gaze, a hallmark sign. The PDF axial-dystonia exam shortcut is incomplete.",
       "url": "https://www.nia.nih.gov/health/frontotemporal-disorders/what-are-frontotemporal-disorders-causes-symptoms-and-treatment"
-    }
+    },
+    "sourcePages": [
+      19,
+      38
+    ]
   },
   {
     "id": "s2psy-0209",
@@ -2545,7 +2898,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 19,
       "url": "/mehlman/hy-psych.pdf#page=19"
-    }
+    },
+    "sourcePages": [
+      19,
+      46
+    ]
   },
   {
     "id": "s2psy-0210",
@@ -2556,7 +2913,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 20,
       "url": "/mehlman/hy-psych.pdf#page=20"
-    }
+    },
+    "sourcePages": [
+      20,
+      51
+    ]
   },
   {
     "id": "s2psy-0211",
@@ -2578,7 +2939,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 20,
       "url": "/mehlman/hy-psych.pdf#page=20"
-    }
+    },
+    "sourcePages": [
+      20,
+      51
+    ]
   },
   {
     "id": "s2psy-0213",
@@ -2648,7 +3013,11 @@ export default [
     "guideline": {
       "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
-    }
+    },
+    "sourcePages": [
+      20,
+      50
+    ]
   },
   {
     "id": "s2psy-0219",
@@ -2659,7 +3028,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 20,
       "url": "/mehlman/hy-psych.pdf#page=20"
-    }
+    },
+    "sourcePages": [
+      20,
+      50
+    ]
   },
   {
     "id": "s2psy-0220",
@@ -2698,7 +3071,8 @@ export default [
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/epi.18338"
     },
     "sourcePages": [
-      21
+      21,
+      52
     ]
   },
   {
@@ -2710,7 +3084,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 21,
       "url": "/mehlman/hy-psych.pdf#page=21"
-    }
+    },
+    "sourcePages": [
+      21,
+      52
+    ]
   },
   {
     "id": "s2psy-0224",
@@ -2936,7 +3314,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 22,
       "url": "/mehlman/hy-psych.pdf#page=22"
-    }
+    },
+    "sourcePages": [
+      22,
+      44
+    ]
   },
   {
     "id": "s2psy-0242",
@@ -2947,7 +3329,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 22,
       "url": "/mehlman/hy-psych.pdf#page=22"
-    }
+    },
+    "sourcePages": [
+      22,
+      44
+    ]
   },
   {
     "id": "s2psy-0243",
@@ -2958,7 +3344,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 22,
       "url": "/mehlman/hy-psych.pdf#page=22"
-    }
+    },
+    "sourcePages": [
+      22,
+      44
+    ]
   },
   {
     "id": "s2psy-0244",
@@ -3317,7 +3707,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 25,
       "url": "/mehlman/hy-psych.pdf#page=25"
-    }
+    },
+    "sourcePages": [
+      25,
+      51
+    ]
   },
   {
     "id": "s2psy-0273",
@@ -3328,7 +3722,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 25,
       "url": "/mehlman/hy-psych.pdf#page=25"
-    }
+    },
+    "sourcePages": [
+      25,
+      51
+    ]
   },
   {
     "id": "s2psy-0274",
@@ -3339,6 +3737,14 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 25,
       "url": "/mehlman/hy-psych.pdf#page=25"
+    },
+    "sourcePages": [
+      25,
+      51
+    ],
+    "guideline": {
+      "text": "NINDS states there is no known cure for MG. Thymectomy may reduce symptoms and treatment needs and can produce remission, but does not guarantee cure. Its testing discussion includes antibody blood tests and electrodiagnostic studies; it does not establish the PDF radiograph-first imaging sequence.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/myasthenia-gravis"
     }
   },
   {
@@ -3350,7 +3756,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 25,
       "url": "/mehlman/hy-psych.pdf#page=25"
-    }
+    },
+    "sourcePages": [
+      25,
+      51
+    ]
   },
   {
     "id": "s2psy-0276",
@@ -3441,7 +3851,8 @@ export default [
     },
     "sourcePages": [
       26,
-      35
+      35,
+      50
     ]
   },
   {
@@ -3453,7 +3864,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 26,
       "url": "/mehlman/hy-psych.pdf#page=26"
-    }
+    },
+    "sourcePages": [
+      26,
+      50
+    ]
   },
   {
     "id": "s2psy-0285",
@@ -3467,7 +3882,8 @@ export default [
     },
     "sourcePages": [
       26,
-      35
+      35,
+      50
     ]
   },
   {
@@ -3479,7 +3895,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 26,
       "url": "/mehlman/hy-psych.pdf#page=26"
-    }
+    },
+    "sourcePages": [
+      26,
+      50
+    ]
   },
   {
     "id": "s2psy-0287",
@@ -3493,7 +3913,8 @@ export default [
     },
     "sourcePages": [
       26,
-      35
+      35,
+      50
     ]
   },
   {
@@ -3519,7 +3940,8 @@ export default [
     },
     "sourcePages": [
       26,
-      35
+      35,
+      50
     ]
   },
   {
@@ -3646,7 +4068,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 27,
       "url": "/mehlman/hy-psych.pdf#page=27"
-    }
+    },
+    "sourcePages": [
+      27,
+      37
+    ]
   },
   {
     "id": "s2psy-0300",
@@ -3657,6 +4083,14 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 28,
       "url": "/mehlman/hy-psych.pdf#page=28"
+    },
+    "sourcePages": [
+      28,
+      37
+    ],
+    "guideline": {
+      "text": "NIDA describes dextromethorphan as an opioid without ordinary opioid-receptor analgesic effects, with dissociative/hallucinogenic effects at high doses. The source grouping should not be mistaken for conventional mu-opioid pharmacology or for a benign cough-medicine overdose.",
+      "url": "https://nida.nih.gov/publications/drugfacts/over-counter-medicines"
     }
   },
   {
@@ -3668,7 +4102,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 28,
       "url": "/mehlman/hy-psych.pdf#page=28"
-    }
+    },
+    "sourcePages": [
+      28,
+      44
+    ]
   },
   {
     "id": "s2psy-0302",
@@ -3679,7 +4117,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 28,
       "url": "/mehlman/hy-psych.pdf#page=28"
-    }
+    },
+    "sourcePages": [
+      28,
+      44
+    ]
   },
   {
     "id": "s2psy-0303",
@@ -3690,7 +4132,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 28,
       "url": "/mehlman/hy-psych.pdf#page=28"
-    }
+    },
+    "sourcePages": [
+      28,
+      41
+    ]
   },
   {
     "id": "s2psy-0304",
@@ -3705,7 +4151,11 @@ export default [
     "guideline": {
       "text": "NIDA identifies nitrous oxide in whipped-cream chargers and butane in lighter products, with multiple distinct gases/solvents used as inhalants. The PDF single butane label should not be generalized to every aerosol, duster or whipped-cream exposure; product identification matters.",
       "url": "https://nida.nih.gov/research-topics/inhalants"
-    }
+    },
+    "sourcePages": [
+      28,
+      41
+    ]
   },
   {
     "id": "s2psy-0305",
@@ -3766,7 +4216,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 29,
       "url": "/mehlman/hy-psych.pdf#page=29"
-    }
+    },
+    "sourcePages": [
+      29,
+      42
+    ]
   },
   {
     "id": "s2psy-0310",
@@ -3810,7 +4264,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 29,
       "url": "/mehlman/hy-psych.pdf#page=29"
-    }
+    },
+    "sourcePages": [
+      29,
+      41
+    ]
   },
   {
     "id": "s2psy-0314",
@@ -3843,6 +4301,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 29,
       "url": "/mehlman/hy-psych.pdf#page=29"
+    },
+    "guideline": {
+      "text": "Merck Professional considers physostigmine for severe anticholinergic toxicity refractory to sedation, rarely needed, with seizure caution and slow monitored IV administration. The PDF antidote pairing is not an instruction to give it routinely or without toxicology expertise.",
+      "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/symptoms-and-treatment-of-specific-poisons"
     }
   },
   {
@@ -3921,7 +4383,11 @@ export default [
     "guideline": {
       "text": "FDA amitriptyline 2025 label also stresses QRS axis/width; maximal limb-lead QRS at least 0.10 seconds may best indicate overdose severity. QT prolongation can occur, but focusing only on QT misses sodium-channel blockade; IV bicarbonate is part of specialist overdose management.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/085968s112lbl.pdf"
-    }
+    },
+    "sourcePages": [
+      29,
+      53
+    ]
   },
   {
     "id": "s2psy-0323",
@@ -3943,7 +4409,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 30,
       "url": "/mehlman/hy-psych.pdf#page=30"
-    }
+    },
+    "sourcePages": [
+      30,
+      48
+    ]
   },
   {
     "id": "s2psy-0325",
@@ -3998,7 +4468,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 30,
       "url": "/mehlman/hy-psych.pdf#page=30"
-    }
+    },
+    "sourcePages": [
+      30,
+      50
+    ]
   },
   {
     "id": "s2psy-0330",
@@ -4009,7 +4483,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 30,
       "url": "/mehlman/hy-psych.pdf#page=30"
-    }
+    },
+    "sourcePages": [
+      30,
+      37
+    ]
   },
   {
     "id": "s2psy-0331",
@@ -4024,7 +4502,11 @@ export default [
     "guideline": {
       "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
-    }
+    },
+    "sourcePages": [
+      30,
+      50
+    ]
   },
   {
     "id": "s2psy-0332",
@@ -4046,7 +4528,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 30,
       "url": "/mehlman/hy-psych.pdf#page=30"
-    }
+    },
+    "sourcePages": [
+      30,
+      48
+    ]
   },
   {
     "id": "s2psy-0334",
@@ -4057,7 +4543,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 30,
       "url": "/mehlman/hy-psych.pdf#page=30"
-    }
+    },
+    "sourcePages": [
+      30,
+      44
+    ]
   },
   {
     "id": "s2psy-0335",
@@ -4072,7 +4562,11 @@ export default [
     "guideline": {
       "text": "DailyMed contraindicates bupropion with a current OR prior diagnosis of bulimia or anorexia nervosa. A past diagnosis still matters; this is not limited to current electrolyte abnormalities.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4100232-a25d-4468-9057-af7e66205154"
-    }
+    },
+    "sourcePages": [
+      30,
+      44
+    ]
   },
   {
     "id": "s2psy-0336",
@@ -4105,7 +4599,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31,
+      52
+    ]
   },
   {
     "id": "s2psy-0339",
@@ -4131,7 +4629,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31,
+      52
+    ]
   },
   {
     "id": "s2psy-0341",
@@ -4186,7 +4688,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31,
+      48
+    ]
   },
   {
     "id": "s2psy-0346",
@@ -4201,7 +4707,11 @@ export default [
     "guideline": {
       "text": "FDA removed the clozapine REMS effective 13 June 2025, but prescribers should continue ANC monitoring per labeling. REMS removal did not eliminate the adverse effect or monitoring need.",
       "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
-    }
+    },
+    "sourcePages": [
+      31,
+      53
+    ]
   },
   {
     "id": "s2psy-0347",
@@ -4234,7 +4744,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31,
+      45
+    ]
   },
   {
     "id": "s2psy-0350",
@@ -4245,7 +4759,12 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31,
+      45,
+      51
+    ]
   },
   {
     "id": "s2psy-0351",
@@ -4256,7 +4775,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31,
+      45
+    ]
   },
   {
     "id": "s2psy-0352",
@@ -4271,7 +4794,11 @@ export default [
     "guideline": {
       "text": "APA 2020 schizophrenia guideline recommends a reversible VMAT2 inhibitor for moderate-to-severe or disabling antipsychotic-associated tardive dyskinesia. Drug review/switching is not the only treatment consideration; changes need supervised risk-benefit planning.",
       "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.177901"
-    }
+    },
+    "sourcePages": [
+      31,
+      45
+    ]
   },
   {
     "id": "s2psy-0353",
@@ -4312,7 +4839,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 32,
       "url": "/mehlman/hy-psych.pdf#page=32"
-    }
+    },
+    "sourcePages": [
+      32,
+      44
+    ]
   },
   {
     "id": "s2psy-0356",
@@ -4323,7 +4854,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 32,
       "url": "/mehlman/hy-psych.pdf#page=32"
-    }
+    },
+    "sourcePages": [
+      32,
+      45
+    ]
   },
   {
     "id": "s2psy-0357",
@@ -4338,7 +4873,11 @@ export default [
     "guideline": {
       "text": "MHAUS says NMS and malignant hyperthermia arise through different mechanisms and do not appear genetically related, although dantrolene may help NMS. A shared treatment does not prove identical pathogenesis.",
       "url": "https://www.mhaus.org/faqs/should-patients-who-experienced-neuroleptic-malignant-syndrome-nms-or-serotonin-syndrome-be-tested-for-mh/"
-    }
+    },
+    "sourcePages": [
+      32,
+      45
+    ]
   },
   {
     "id": "s2psy-0358",
@@ -4349,7 +4888,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 32,
       "url": "/mehlman/hy-psych.pdf#page=32"
-    }
+    },
+    "sourcePages": [
+      32,
+      45
+    ]
   },
   {
     "id": "s2psy-0359",
@@ -4371,7 +4914,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 32,
       "url": "/mehlman/hy-psych.pdf#page=32"
-    }
+    },
+    "sourcePages": [
+      32,
+      48
+    ]
   },
   {
     "id": "s2psy-0361",
@@ -4709,6 +5256,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 36,
       "url": "/mehlman/hy-psych.pdf#page=36"
+    },
+    "guideline": {
+      "text": "FDA 2025 Suboxone film is administered sublingually or buccally and should not be swallowed/chewed/cut. It is part of a complete OUD treatment plan, not reserved only for people who previously misused methadone.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022410s056lbl.pdf"
     }
   },
   {
@@ -4731,6 +5282,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 36,
       "url": "/mehlman/hy-psych.pdf#page=36"
+    },
+    "guideline": {
+      "text": "Current DailyMed acamprosate labeling states its mechanism in maintaining abstinence is not completely understood. Animal/in-vitro evidence suggests effects on glutamate and GABA systems; this does not establish a single definitive NMDA mechanism. It is for maintaining abstinence with psychosocial support, not acute withdrawal treatment.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9803db35-2600-4f42-80c1-43216fd1ba3d"
     }
   },
   {
@@ -4764,6 +5319,919 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 36,
       "url": "/mehlman/hy-psych.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2psy-0396",
+    "category": "Rapid source vignettes",
+    "q": "Which three receptor-blockade effects does the rapid source group for TCAs, sedating H1 drugs and atypical antipsychotics?",
+    "a": "Antimuscarinic, anti-alpha-1 and anti-H1 effects. It highlights diphenhydramine and TCAs such as amitriptyline, doxepin or desipramine in an older confused patient; individual drug profiles differ.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 37,
+      "url": "/mehlman/hy-psych.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2psy-0397",
+    "category": "Rapid source vignettes",
+    "q": "What does DUMBBELSS represent in the source cholinergic mnemonic?",
+    "a": "Diarrhea, urination, miosis, bradycardia, bronchoconstriction, excitation at the neuromuscular junction, lacrimation, salivation and sweating. The source mnemonic combines muscarinic effects with a nicotinic neuromuscular item.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 37,
+      "url": "/mehlman/hy-psych.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2psy-0398",
+    "category": "Rapid source vignettes",
+    "q": "Which opposite effects does the source emphasize for muscarinic antagonism?",
+    "a": "Constipation, urinary retention, mydriasis, tachycardia, dry eyes/mouth and reduced sweating. It says bronchodilation and flaccidity are not seen in its mnemonic explanation; this shorthand does not turn every listed cholinergic effect into a direct muscarinic opposite.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 37,
+      "url": "/mehlman/hy-psych.pdf#page=37"
+    },
+    "guideline": {
+      "text": "DailyMed ipratropium labeling calls it an anticholinergic bronchodilator indicated for COPD bronchospasm. Muscarinic antagonism can produce clinically useful bronchodilation; the source parenthesis is incorrect.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e3d4faa-cf6e-460b-b1e0-fcc8094505fa"
+    }
+  },
+  {
+    "id": "s2psy-0399",
+    "category": "Rapid source vignettes",
+    "q": "What orthostatic and sedating effects does the rapid source assign to alpha-1 and H1 blockade?",
+    "a": "Alpha-1 blockade reduces peripheral vasoconstriction and can cause orthostatic hypotension or fainting. H1 blockade causes sedation.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 37,
+      "url": "/mehlman/hy-psych.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2psy-0400",
+    "category": "Rapid source vignettes",
+    "q": "What short-term sleep medications does the rapid source choose in acute bereavement-related stress or divorce?",
+    "a": "Clonazepam in the distressed-relative vignette and zolpidem after divorce. It distinguishes short-term symptom use from chronic prescribing; these examples do not replace assessment of the cause or severity of insomnia.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 37,
+      "url": "/mehlman/hy-psych.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NHLBI recommends CBT-I as the usual first treatment for long-term insomnia. Benzodiazepines may be prescribed when other approaches have not worked, with risks including dizziness, confusion, weakness, interactions and dependence; use is generally limited to a few weeks. The PDF acute exam example does not supply a universal first-line plan.",
+      "url": "https://www.nhlbi.nih.gov/health/insomnia/treatment"
+    }
+  },
+  {
+    "id": "s2psy-0401",
+    "category": "Rapid source vignettes",
+    "q": "Rapid cognitive decline over eight weeks with myoclonus suggests which source diagnosis?",
+    "a": "Creutzfeldt-Jakob disease, a prion disease, in the source vignette.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 38,
+      "url": "/mehlman/hy-psych.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2psy-0402",
+    "category": "Rapid source vignettes",
+    "q": "Which basal-ganglia structure does the rapid source pair with Huntington disease?",
+    "a": "The caudate nucleus.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 38,
+      "url": "/mehlman/hy-psych.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2psy-0403",
+    "category": "Rapid source vignettes",
+    "q": "What behavior cluster, lesion and proposed common cause does the rapid source give for Kluver-Bucy syndrome?",
+    "a": "Hyperorality, hyperphagia and docility after bilateral amygdala injury. It calls HSV encephalitis the most frequent cause; that cause ranking is a source claim rather than independently verified prevalence.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 38,
+      "url": "/mehlman/hy-psych.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2psy-0404",
+    "category": "Rapid source vignettes",
+    "q": "What cholinergic basal-forebrain structure does the source link to early Alzheimer disease in Down syndrome?",
+    "a": "The nucleus basalis of Meynert, with many cholinergic neurons.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 38,
+      "url": "/mehlman/hy-psych.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2psy-0405",
+    "category": "Rapid source vignettes",
+    "q": "Which brainstem structures does the rapid source pair with norepinephrine and serotonin production?",
+    "a": "Locus coeruleus in the pons for norepinephrine; raphe nuclei in the medial reticular formation for serotonin.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 38,
+      "url": "/mehlman/hy-psych.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2psy-0406",
+    "category": "Rapid source vignettes",
+    "q": "What medication does the source choose for low mood, weight loss, poor eye contact and an MMSE of 22/30?",
+    "a": "Sertraline for depressive cognitive symptoms/pseudodementia rather than donepezil in its example. The score alone does not settle the cause or exclude coexisting dementia.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 38,
+      "url": "/mehlman/hy-psych.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2psy-0407",
+    "category": "Rapid source vignettes",
+    "q": "Which readily evaluated causes of cognitive decline does the rapid source add to the dementia differential?",
+    "a": "Hypothyroidism, B12 deficiency, neurosyphilis and neurologic Lyme disease. The list is not an instruction to diagnose any of these from cognitive symptoms alone.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 39,
+      "url": "/mehlman/hy-psych.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2psy-0408",
+    "category": "Rapid source vignettes",
+    "q": "What thyroid disorder does the source suggest with low mood, cholesterol around 300, a slow pulse and mild transaminase elevation?",
+    "a": "Hypothyroidism; check TSH and treat confirmed hypothyroidism with levothyroxine in the source vignette.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 39,
+      "url": "/mehlman/hy-psych.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2psy-0409",
+    "category": "Rapid source vignettes",
+    "q": "What additional laboratory/muscle clue does the source associate with hypothyroidism?",
+    "a": "Elevated CK with proximal weakness, called hypothyroid myopathy, in a vignette with bradycardia and elevated cholesterol.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 39,
+      "url": "/mehlman/hy-psych.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2psy-0410",
+    "category": "Rapid source vignettes",
+    "q": "What assessment order does the rapid source use for an older bereaved patient with low mood and cognitive complaints?",
+    "a": "Assess suicide risk, then cognitive testing such as the MMSE; if suicide risk is not acute and findings suggest a nutritional/neurologic cause, check B12 in its next-page vignette. This is a scenario-dependent sequence, not a rule to delay acute medical assessment.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 39,
+      "url": "/mehlman/hy-psych.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2psy-0411",
+    "category": "Rapid source vignettes",
+    "q": "What medication does the source blame for depression after starting a heart-failure regimen eight weeks earlier?",
+    "a": "A beta-blocker. This is the source causal attribution, not proof that an indicated heart-failure medication is the cause of new low mood.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 40,
+      "url": "/mehlman/hy-psych.pdf#page=40"
+    },
+    "guideline": {
+      "text": "AHA reporting on a 2021 randomized-trial meta-analysis found no increased depression frequency with beta-blockers versus placebo, while sleep symptoms/fatigue were reported. This is research evidence, not proof that every individual symptom during therapy is unrelated.",
+      "url": "https://newsroom.heart.org/news/beta-blockers-not-likely-to-cause-depression-yet-may-contribute-to-sleep-disturbances"
+    }
+  },
+  {
+    "id": "s2psy-0412",
+    "category": "Rapid source vignettes",
+    "q": "What blanket hospital-admission answer does the PDF give when a patient wants to die?",
+    "a": "Involuntary admission. In the next scenario it suggests asking how the patient feels about entering hospital. These are source exam answers, not a statement that every suicidal thought automatically meets legal criteria for involuntary admission.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 40,
+      "url": "/mehlman/hy-psych.pdf#page=40"
+    },
+    "guideline": {
+      "text": "NIMH adult safety assessment uses current ideation, plan, access to means, past behavior and other risks to choose emergency evaluation versus other follow-up. Current suicidal thoughts require urgent evaluation and the patient must not be left alone. The PDF statement is not a universal legal test for involuntary admission.",
+      "url": "https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/adult-outpatient/adult-outpatient-brief-suicide-safety-assessment-guide"
+    }
+  },
+  {
+    "id": "s2psy-0413",
+    "category": "Rapid source vignettes",
+    "q": "How does the source handle a child's family description of possession with blood in the saliva?",
+    "a": "It favors EEG to evaluate possible seizures and post-event tongue/cheek biting rather than assuming abuse solely from the family's cultural explanation. Cultural beliefs neither prove a seizure nor rule out another cause; the actual symptoms and safety context require assessment.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 40,
+      "url": "/mehlman/hy-psych.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2psy-0414",
+    "category": "Rapid source vignettes",
+    "q": "What treatment does the source give for a mute, nonresponsive person two days after an armed robbery?",
+    "a": "Lorazepam for the source diagnosis of catatonia after an adverse event. The history does not remove the need to evaluate other causes of altered responsiveness.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 40,
+      "url": "/mehlman/hy-psych.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2psy-0415",
+    "category": "Rapid source vignettes",
+    "q": "What diagnostic exclusion does the rapid source clarify for adjustment disorder after a breakup?",
+    "a": "Functional decline after one stressor with low/anxious mood can be adjustment disorder, but a full major depressive, bipolar or psychotic disorder better accounting for the presentation changes the diagnosis. The source allows adjustment disorder with depressed/anxious mood without requiring a full mood-disorder episode.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 41,
+      "url": "/mehlman/hy-psych.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2psy-0416",
+    "category": "Rapid source vignettes",
+    "q": "Which additional ECT indications does the rapid source list for an older patient with catatonia and refusal to eat?",
+    "a": "Catatonia, dangerous refusal of food/fluid, imminent suicidality, treatment resistance, prior ECT response and psychotic features; pregnancy is listed as a setting in which ECT can be used, not a psychiatric indication by itself.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 41,
+      "url": "/mehlman/hy-psych.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2psy-0417",
+    "category": "Rapid source vignettes",
+    "q": "What ingested toxin does the source pair with calcium-oxalate stones and a high respiratory rate?",
+    "a": "Ethylene glycol, producing high-anion-gap metabolic acidosis with compensatory tachypnea and calcium-oxalate nephropathy/stones in its vignette.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 41,
+      "url": "/mehlman/hy-psych.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2psy-0418",
+    "category": "Rapid source vignettes",
+    "q": "What cerebral-flow cocaine finding does the rapid source add to the vascular examples?",
+    "a": "Reduced cerebral blood flow/vasoconstriction on an angiogram in its unusual intoxication vignette. This is a source example, not a diagnostic test required for routine intoxication.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 41,
+      "url": "/mehlman/hy-psych.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2psy-0419",
+    "category": "Rapid source vignettes",
+    "q": "What marijuana vignette does the rapid source pair with observation?",
+    "a": "A teenager with injected conjunctivae and paranoia. This source answer does not imply that every intoxication is safe without a medical/psychiatric risk assessment.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 42,
+      "url": "/mehlman/hy-psych.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2psy-0420",
+    "category": "Rapid source vignettes",
+    "q": "What incomplete schizoaffective vignette does the source justify through answer-choice elimination?",
+    "a": "A psychosis-only snapshot without an explicit mood history. The source says it may represent the psychosis-only phase; this is exam reasoning, not enough evidence by itself to establish the full longitudinal diagnosis.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 42,
+      "url": "/mehlman/hy-psych.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Merck Professional requires major mood symptoms for most of the illness, concurrent schizophrenia symptoms and at least two weeks of psychosis without a major mood episode. A psychosis-only snapshot cannot establish the required mood history.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizoaffective-disorder"
+    }
+  },
+  {
+    "id": "s2psy-0421",
+    "category": "Rapid source vignettes",
+    "q": "What ventricular imaging association does the source give for schizophrenia?",
+    "a": "Enlargement of the third and lateral ventricles. This is an association in its source question, not a diagnostic imaging criterion.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 42,
+      "url": "/mehlman/hy-psych.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2psy-0422",
+    "category": "Rapid source vignettes",
+    "q": "What auditory-versus-visual hallucination shortcut appears in the rapid source?",
+    "a": "Auditory hallucinations favor a primary psychotic disorder in its vignettes, while visual hallucinations are described as nonspecific and frequent with substances. The modality alone cannot establish the cause.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 42,
+      "url": "/mehlman/hy-psych.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2psy-0423",
+    "category": "Rapid source vignettes",
+    "q": "What misleading psychomotor example appears in the rapid MDD mnemonic?",
+    "a": "The source parenthetically lists headaches as psychomotor disturbance. That is not the formal criterion for observable psychomotor agitation or slowing.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 42,
+      "url": "/mehlman/hy-psych.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Merck Professional July2026 lists psychomotor agitation or retardation, observable by others, among the MDD criteria. Headache is not a substitute for that criterion. At least one core symptom must be depressed mood or anhedonia.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders"
+    }
+  },
+  {
+    "id": "s2psy-0424",
+    "category": "Rapid source vignettes",
+    "q": "What severity and hospitalization shortcut does the rapid source use for bipolar I versus II?",
+    "a": "It calls bipolar I worse, with dysfunction, hospitalization or spending, and bipolar II more compatible with preserved work/family function and no hospital history. The actual diagnostic distinction is mania versus hypomania plus major depression; bipolar II is not defined as globally mild or incapable of severe depression.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 42,
+      "url": "/mehlman/hy-psych.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Merck Professional defines bipolar I by at least one manic episode and bipolar II by hypomania plus a major depressive episode without mania. Preserved employment or a lack of hospitalization does not exclude serious bipolar illness, and a depressive episode may be severe in bipolar II.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/bipolar-disorders"
+    }
+  },
+  {
+    "id": "s2psy-0425",
+    "category": "Rapid source vignettes",
+    "q": "What reason does the source favor for wanting to die in a crying patient with painful metastatic cancer?",
+    "a": "Inadequate pain control rather than automatically diagnosing MDD. This is its answer-choice emphasis on treating pain, not permission to skip suicide assessment or assume depression cannot coexist.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 43,
+      "url": "/mehlman/hy-psych.pdf#page=43"
+    },
+    "guideline": {
+      "text": "NIMH adult safety assessment uses current ideation, plan, access to means, past behavior and other risks to choose emergency evaluation versus other follow-up. Current suicidal thoughts require urgent evaluation and the patient must not be left alone. The PDF statement is not a universal legal test for involuntary admission.",
+      "url": "https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/adult-outpatient/adult-outpatient-brief-suicide-safety-assessment-guide"
+    }
+  },
+  {
+    "id": "s2psy-0426",
+    "category": "Rapid source vignettes",
+    "q": "What direct safety question does the source suggest for hopelessness after chronic traumatic arm pain?",
+    "a": "Ask about feeling like giving up, to assess suicide risk. A compassionate direct assessment is needed rather than treating the statement only as a pain complaint.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 43,
+      "url": "/mehlman/hy-psych.pdf#page=43"
+    },
+    "guideline": {
+      "text": "NIMH adult safety assessment uses current ideation, plan, access to means, past behavior and other risks to choose emergency evaluation versus other follow-up. Current suicidal thoughts require urgent evaluation and the patient must not be left alone. The PDF statement is not a universal legal test for involuntary admission.",
+      "url": "https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/adult-outpatient/adult-outpatient-brief-suicide-safety-assessment-guide"
+    }
+  },
+  {
+    "id": "s2psy-0427",
+    "category": "Rapid source vignettes",
+    "q": "What shave-triggered syncope and tilt-table contrast does the source give?",
+    "a": "Carotid-sinus hypersensitivity for loss of consciousness while shaving with an unrevealing tilt test; it favors vasovagal syncope if tilt testing is positive. This is source vignette reasoning, not a standalone diagnostic rule or an instruction to perform carotid massage.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 43,
+      "url": "/mehlman/hy-psych.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2psy-0428",
+    "category": "Rapid source vignettes",
+    "q": "Which retinal findings does the rapid source associate with diabetes?",
+    "a": "Hard exudates, cotton-wool spots and scattered hemorrhages in its diabetic-retinopathy vignette. These findings need clinical context rather than attributing every hemorrhage or cotton-wool spot to diabetes.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 43,
+      "url": "/mehlman/hy-psych.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2psy-0429",
+    "category": "Rapid source vignettes",
+    "q": "Which liver enzyme does the PDF choose as evidence of recent alcohol intoxication?",
+    "a": "GGT. This is its source answer, not a specific test of acute intoxication or proof that alcohol caused an elevated result.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 44,
+      "url": "/mehlman/hy-psych.pdf#page=44"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes GGT as a marker of possible liver/bile-duct damage and a tool for monitoring alcohol-use disorder. It cannot identify a specific cause; medicines and other diseases can elevate it. An elevated GGT is not proof of acute intoxication.",
+      "url": "https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/"
+    }
+  },
+  {
+    "id": "s2psy-0430",
+    "category": "Rapid source vignettes",
+    "q": "Which cognitive function does the source pair with frontal-lobe injury after a car accident?",
+    "a": "Conceptual planning.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 44,
+      "url": "/mehlman/hy-psych.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2psy-0431",
+    "category": "Rapid source vignettes",
+    "q": "What named benzodiazepine does the source use after a rapid reduction from twelve to four beers daily?",
+    "a": "Chlordiazepoxide, in its alcohol-withdrawal vignette. The source also repeats postoperative tachycardia/tremor/hallucinations after about two days; dose and setting require clinical supervision.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 44,
+      "url": "/mehlman/hy-psych.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2psy-0432",
+    "category": "Rapid source vignettes",
+    "q": "What additional beta-blocker treatment does the rapid source assign to antipsychotic parkinsonism?",
+    "a": "It adds propranolol alongside amantadine for bradykinesia after an antipsychotic. This is a source medication claim, not an independently verified standard treatment rule for all drug-induced parkinsonism.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 45,
+      "url": "/mehlman/hy-psych.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2psy-0433",
+    "category": "Rapid source vignettes",
+    "q": "What receptor adaptation does the source give for tardive dyskinesia?",
+    "a": "Increased dopamine-receptor sensitivity in its exam answer.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 45,
+      "url": "/mehlman/hy-psych.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2psy-0434",
+    "category": "Rapid source vignettes",
+    "q": "What facial-feature absolute does the rapid source use to favor fetal alcohol syndrome over Down or Fragile X syndromes?",
+    "a": "Any mention of a long, smooth or indistinct philtrum is its shortcut to FAS, including a child with other Down-like or Fragile-X-like features. A single facial feature is not enough for diagnosis or for attributing prenatal alcohol use to a parent.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 45,
+      "url": "/mehlman/hy-psych.pdf#page=45"
+    },
+    "guideline": {
+      "text": "Hoyme and colleagues 2016 diagnostic consensus requires a defined combination of facial findings and growth, brain and neurobehavioral criteria for FAS, not any philtrum change alone. Its partial-FAS pathways also require additional criteria. The article explicitly says it is not necessarily AAP policy. A facial feature by itself does not establish prenatal exposure or justify attributing alcohol use to a parent.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960726/"
+    }
+  },
+  {
+    "id": "s2psy-0435",
+    "category": "Rapid source vignettes",
+    "q": "What maternal-age vignette and cause-ranking claims does the source use for intellectual disability?",
+    "a": "A small child with low IQ born to a forty-one-year-old mother is assigned Down syndrome in its answer choices. The source also calls FAS the commonest cause overall and Down syndrome the commonest in its over-forty maternal-age context; those broad rankings are unverified source claims, not a diagnosis from age/IQ alone.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 45,
+      "url": "/mehlman/hy-psych.pdf#page=45"
+    },
+    "guideline": {
+      "text": "CDC describes fetal alcohol spectrum disorders as a range of physical, behavioral and learning effects from prenatal alcohol exposure. FAS is one part of that spectrum. The current CDC overview does not establish the PDF unrestricted most-common-cause ranking, and the diagnostic facial pattern uses defined criteria rather than any single unusual feature.",
+      "url": "https://cdc.gov/fasd/about/"
+    }
+  },
+  {
+    "id": "s2psy-0436",
+    "category": "Rapid source vignettes",
+    "q": "What facial and repeat-expansion clues does the source pair with Fragile X syndrome?",
+    "a": "Prominent ears/jaw and intellectual disability; a fragile site on the X chromosome from a CGG trinucleotide-repeat expansion. The example is not a complete phenotype or diagnostic workup.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 45,
+      "url": "/mehlman/hy-psych.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2psy-0437",
+    "category": "Rapid source vignettes",
+    "q": "What regression behavior and sex absolute does the PDF use for Rett syndrome?",
+    "a": "Hand wringing, mouthing objects and reduced eye contact in a young child, interpreted as regression. It says only girls; that absolute sex exclusion is not correct for the broader MECP2-related spectrum.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 46,
+      "url": "/mehlman/hy-psych.pdf#page=46"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics describes Rett syndrome as almost exclusively affecting girls, not an absolute sex exclusion. MECP2-related disorders also affect males, with variable severe or milder phenotypes.",
+      "url": "https://medlineplus.gov/genetics/condition/rett-syndrome/"
+    }
+  },
+  {
+    "id": "s2psy-0438",
+    "category": "Rapid source vignettes",
+    "q": "What somatic-versus-MDD example and treatment does the rapid source give?",
+    "a": "Headache, abdominal symptoms, mild weight loss and fatigue without the source full MDD symptom pattern or low mood, labeled somatization disorder and treated with CBT. Symptoms still require assessment, and medically unexplained symptoms are not the complete modern somatic-symptom-disorder criteria.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 46,
+      "url": "/mehlman/hy-psych.pdf#page=46"
+    },
+    "guideline": {
+      "text": "Merck Professional June 2026 explicitly permits somatic symptom disorder with or without a coexisting medical condition. The central findings are excessive/disproportionate symptom-related thoughts, anxiety or behavior with distressing/disruptive symptoms persisting more than six months, not merely a negative workup.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/somatic-symptom-and-related-disorders/somatic-symptom-disorder"
+    }
+  },
+  {
+    "id": "s2psy-0439",
+    "category": "Rapid source vignettes",
+    "q": "What mechanism and later-neurologic concern does the source attach to REM sleep behavior disorder?",
+    "a": "An older adult acts out dreams with punching/running, sometimes recalls bad dreams but not the behavior; incomplete/absent REM atonia permits movement. It says recurrent episodes can herald a neurodegenerative disorder such as Parkinson disease, not that every episode proves one.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 46,
+      "url": "/mehlman/hy-psych.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2psy-0440",
+    "category": "Rapid source vignettes",
+    "q": "What added motor findings and location does the source give for MPTP-associated parkinsonism?",
+    "a": "Stiffness and drooling after a product sold as synthetic heroin, affecting the substantia nigra. This added vignette identifies MPTP-containing powder as the exposure, rather than treating the chemical itself as heroin.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 46,
+      "url": "/mehlman/hy-psych.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2psy-0441",
+    "category": "Rapid source vignettes",
+    "q": "What supervised measurement does the source choose for an implausibly high recorded fever with otherwise normal observations?",
+    "a": "A supervised rectal temperature in its factitious-fever vignette. Its claim that this is the most accurate route is a source generalization; very high measured fever still requires prompt clinical reassessment rather than assuming deception from psychiatric history.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 46,
+      "url": "/mehlman/hy-psych.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2psy-0442",
+    "category": "Rapid source vignettes",
+    "q": "What diagnostic shortcut does the source use for a prisoner reporting an insensate foot with normal pulses and reflexes?",
+    "a": "It labels malingering for secondary gain and says no treatment is indicated. Normal pulses/reflexes or imprisonment do not by themselves prove intentional fabrication, and a new neurologic complaint still needs appropriate assessment.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 47,
+      "url": "/mehlman/hy-psych.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2psy-0443",
+    "category": "Rapid source vignettes",
+    "q": "Which laboratory disturbances does the source expect with recurrent purging in bulimia?",
+    "a": "Elevated amylase and hypokalemic, hypochloremic metabolic alkalosis. These are source associations, not abnormalities required in every case.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 47,
+      "url": "/mehlman/hy-psych.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2psy-0444",
+    "category": "Rapid source vignettes",
+    "q": "What risk does the source highlight when feeding a person after weeks without food despite a BMI of 27?",
+    "a": "Refeeding hypophosphatemia; a higher current BMI does not eliminate the risk after prolonged inadequate intake.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 47,
+      "url": "/mehlman/hy-psych.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2psy-0445",
+    "category": "Rapid source vignettes",
+    "q": "What albumin mechanism does the source give for edema in anorexia?",
+    "a": "Low serum albumin with reduced plasma oncotic pressure. This is the source vignette mechanism, not a claim that all anorexia causes hypoalbuminemia or that all edema in an undernourished patient has this cause.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 47,
+      "url": "/mehlman/hy-psych.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2psy-0446",
+    "category": "Rapid source vignettes",
+    "q": "What intrusive-harm-thought vignette does the rapid source use for OCD without visible compulsions?",
+    "a": "A parent finds thoughts of harming a child abhorrent, unwanted and inconsistent with what they want to do. The source labels obsessions and offers CBT/SSRI; content still requires an actual safety assessment rather than assuming intent or its absence from one description.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 47,
+      "url": "/mehlman/hy-psych.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2psy-0447",
+    "category": "Rapid source vignettes",
+    "q": "What hypocapnia mechanism does the source give for fainting during panic-related hyperventilation?",
+    "a": "Lower arterial carbon dioxide can reduce cerebral blood flow, producing cerebral hypoperfusion. This source explanation does not rule out other causes of syncope.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 48,
+      "url": "/mehlman/hy-psych.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2psy-0448",
+    "category": "Rapid source vignettes",
+    "q": "What diagnostic attribution does the source use for depressed mood with sleep apnea?",
+    "a": "Mood disorder due to a general medical condition. Coexisting sleep apnea alone does not prove the mood symptoms are caused by it or exclude a separate depressive disorder.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 48,
+      "url": "/mehlman/hy-psych.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2psy-0449",
+    "category": "Rapid source vignettes",
+    "q": "What long-acting medication does the PDF choose for schizophrenia with poor adherence?",
+    "a": "Haloperidol decanoate, a depot injection, in its source example. Choosing a long-acting medication still requires an individualized discussion rather than assuming one depot is universally preferred.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 48,
+      "url": "/mehlman/hy-psych.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2psy-0450",
+    "category": "Rapid source vignettes",
+    "q": "Which skin protection does the source favor for organophosphate exposure while picking fruit?",
+    "a": "Gloves in its peach-picking vignette. The PDF contrasts a mask and says exposure is through skin, not droplets; that contrast is not a claim that inhalation can never expose a person to pesticides.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 48,
+      "url": "/mehlman/hy-psych.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2psy-0451",
+    "category": "Rapid source vignettes",
+    "q": "What preserved-function and sexual-context examples does the source use for psychogenic sexual symptoms?",
+    "a": "Nocturnal erections with erectile difficulty favors a psychogenic component; preserved erections but difficulty ejaculating with new partners after divorce is assigned performance anxiety. These features do not prove all physiology is normal or exclude medication/medical contributors.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 48,
+      "url": "/mehlman/hy-psych.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2psy-0452",
+    "category": "Rapid source vignettes",
+    "q": "Which post-MI psychiatric risk and treatment does the source emphasize?",
+    "a": "Major depression after a serious health event; sertraline in its example. The event alone is not a diagnosis and treatment requires clinical assessment.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 49,
+      "url": "/mehlman/hy-psych.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2psy-0453",
+    "category": "Rapid source vignettes",
+    "q": "What return-to-sex answer does the source give immediately after MI?",
+    "a": "As soon as the patient feels ready, rejecting an automatic two-week delay. This is its exam answer, not unrestricted clearance after an acute MI without checking stability and functional capacity.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 49,
+      "url": "/mehlman/hy-psych.pdf#page=49"
+    },
+    "guideline": {
+      "text": "AHA advises discussion with the clinical team and assessment, treatment and stabilization before sex when angina is unstable or symptoms are severe. The PDF readiness-only answer should not replace an individualized post-MI stability assessment.",
+      "url": "https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/sex-and-heart-disease"
+    }
+  },
+  {
+    "id": "s2psy-0454",
+    "category": "Rapid source vignettes",
+    "q": "What abuse-reporting distinction does the source state?",
+    "a": "It says child and elder abuse are reportable, but domestic abuse is not, and recommends support and safety information for the latter. These are broad source statements, not a substitute for jurisdiction-specific reporting law, injury-reporting rules or immediate safety care.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 49,
+      "url": "/mehlman/hy-psych.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2psy-0455",
+    "category": "Rapid source vignettes",
+    "q": "What hormone does the source associate with MDD in its shelf answer?",
+    "a": "Higher serum cortisol. This is a source association, not a diagnostic blood test for depression.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 50,
+      "url": "/mehlman/hy-psych.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2psy-0456",
+    "category": "Rapid source vignettes",
+    "q": "What older-adult neuropathy medication-switch vignette does the rapid source add?",
+    "a": "An older diabetic patient not helped by carbamazepine and gabapentin is switched to nortriptyline. It prefers nortriptyline over other TCAs for fewer adverse effects, while acknowledging anticholinergic/alpha-1 effects make TCAs less attractive in older adults. This is a source example, not automatic prescribing advice.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 50,
+      "url": "/mehlman/hy-psych.pdf#page=50"
+    },
+    "guideline": {
+      "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
+    }
+  },
+  {
+    "id": "s2psy-0457",
+    "category": "Rapid source vignettes",
+    "q": "What headache does the source pair with relief from acetaminophen and sleep?",
+    "a": "Tension-type headache in its vignette. Relief with these measures does not independently rule out another headache cause.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 50,
+      "url": "/mehlman/hy-psych.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2psy-0458",
+    "category": "Rapid source vignettes",
+    "q": "Which additional propranolol uses does the source list beyond tremor and performance anxiety?",
+    "a": "Migraine prevention, antipsychotic akathisia, thyroid storm, hypertension with tremor, variceal-bleed prevention and symptomatic hypertrophic obstructive cardiomyopathy. These are context-specific uses, not one first-line rule for every patient.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 51,
+      "url": "/mehlman/hy-psych.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2psy-0459",
+    "category": "Rapid source vignettes",
+    "q": "What additional MG thymoma-antibody and cure claims appear in the rapid source?",
+    "a": "It says removing a thymoma cures MG and that up to 80% of patients with thymoma plus MG have anti-MuSK antibodies. These specific source claims require clinical reconciliation rather than being used as established diagnostic or outcome facts.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 51,
+      "url": "/mehlman/hy-psych.pdf#page=51"
+    },
+    "guideline": {
+      "text": "NINDS describes AChR antibodies as the most common cause, with MuSK antibodies as another cause; its retrieved overview does not establish the PDF thymoma-specific 80% anti-MuSK estimate. It states there is no known MG cure, although thymectomy can improve symptoms and sometimes produce sustained remission. The source percentage remains unverified.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/myasthenia-gravis"
+    }
+  },
+  {
+    "id": "s2psy-0460",
+    "category": "Rapid source vignettes",
+    "q": "What localizing answer does the source give when MG or Lambert-Eaton is suggested but neither is offered?",
+    "a": "The neuromuscular junction.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 51,
+      "url": "/mehlman/hy-psych.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2psy-0461",
+    "category": "Rapid source vignettes",
+    "q": "What arrhythmia-related seizure mimic does the source call an Adams-Stokes attack?",
+    "a": "Transient cerebral hypoperfusion from an arrhythmia producing loss of consciousness and seizure-like movements. The source spells it Adam-Stokes and attributes the movement to brainstem hypoxia; a convulsive appearance alone does not establish epilepsy.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 51,
+      "url": "/mehlman/hy-psych.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2psy-0462",
+    "category": "Rapid source vignettes",
+    "q": "What convulsive-syncope vignette does the source use in an older person with a prior MI?",
+    "a": "Recurrent transient loss of consciousness with tonic-clonic-like movements, pallor and sweating; the source favors syncope rather than assuming epilepsy. The cardiac history makes an arrhythmic cause important to evaluate.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 52,
+      "url": "/mehlman/hy-psych.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2psy-0463",
+    "category": "Rapid source vignettes",
+    "q": "What carcinoid diagnostic marker and medication does the rapid source add?",
+    "a": "Urinary 5-HIAA, a serotonin metabolite, and octreotide among treatments. The source distinguishes flushing, diarrhea, abdominal pain and bronchoconstriction from drug-related serotonin toxicity.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 52,
+      "url": "/mehlman/hy-psych.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2psy-0464",
+    "category": "Rapid source vignettes",
+    "q": "What supportive first response does the source give for persistent emotional numbness after witnessing a terror attack?",
+    "a": "Provide information about the range of reactions to trauma in its vignette. Persistent symptoms still warrant assessment for PTSD, depression, function and safety rather than assuming education alone is sufficient.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 52,
+      "url": "/mehlman/hy-psych.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2psy-0465",
+    "category": "Rapid source vignettes",
+    "q": "What extra medication does the rapid source list for Parkinson-disease psychosis?",
+    "a": "Quetiapine or clonidine. Quetiapine repeats its earlier source answer; clonidine is an additional source claim and should not be confused with clozapine or treated as a verified standard antipsychotic treatment.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 52,
+      "url": "/mehlman/hy-psych.pdf#page=52"
+    },
+    "guideline": {
+      "text": "Parkinson Foundation names pimavanserin, clozapine and quetiapine in the treatment discussion, with limited evidence for quetiapine, and recommends first assessing contributing illness/medicines. It does not support the PDF clonidine option in that discussion. Do not substitute clonidine for clozapine on the strength of the source line.",
+      "url": "https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/hallucinations-delusions"
+    }
+  },
+  {
+    "id": "s2psy-0466",
+    "category": "Rapid source vignettes",
+    "q": "What obesity/sleep vignette does the source label sleep-related hypoventilation?",
+    "a": "An obese snoring teenager with morning headaches and a few beats of lateral-gaze nystagmus; it recommends polysomnography. The nystagmus is acknowledged as an unusual source finding, not a standard criterion, and obesity/snoring alone do not establish hypoventilation.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 53,
+      "url": "/mehlman/hy-psych.pdf#page=53"
+    },
+    "guideline": {
+      "text": "ATS 2019 defines OHS by obesity, sleep-disordered breathing and awake resting PaCO2 at least 45 mm Hg after excluding other causes. Pulmonary hypertension or cor pulmonale may be complications but are not required defining criteria.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6680300/"
+    }
+  },
+  {
+    "id": "s2psy-0467",
+    "category": "Rapid source vignettes",
+    "q": "Which electrolyte does the rapid source single out in anorexia and on refeeding a markedly underweight person?",
+    "a": "Hypokalemia in its anorexia vignette; hypophosphatemia on refeeding a person with BMI 14. These are emphasized risks, not the only possible electrolyte disturbances.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 47,
+      "url": "/mehlman/hy-psych.pdf#page=47"
+    },
+    "guideline": {
+      "text": "Merck Professional January 2026 defines anorexia through significantly low weight, restriction, fear of weight gain and body-image disturbance. It uses the individual baseline for adults and age/growth trajectory for children rather than one BMI threshold for all ages. Medical instability, rapid/severe weight loss and nutritional needs can require hospitalization even above the PDF threshold.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/feeding-and-eating-disorders/anorexia-nervosa"
+    }
+  },
+  {
+    "id": "s2psy-0468",
+    "category": "Rapid source vignettes",
+    "q": "What hormonal contrast does the source make for anorexia-related amenorrhea versus ovarian failure, Turner syndrome or menopause?",
+    "a": "Reduced GnRH pulsation produces low gonadotropins and low estrogen in the anorexia scenario; the source contrasts high FSH with low estrogen in primary ovarian failure, Turner syndrome and menopause.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 47,
+      "url": "/mehlman/hy-psych.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2psy-0469",
+    "category": "Rapid source vignettes",
+    "q": "What food/drug reaction does the rapid source pair with phenelzine, aged cheese, red wine and pepperoni?",
+    "a": "A hypertensive tyramine crisis, with phentolamine as its acute source answer. The PDF calls tyramine a catecholamine and says it prevents endogenous catecholamine reuptake; that mechanism wording is a source claim, not a verified complete pharmacology account.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 48,
+      "url": "/mehlman/hy-psych.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Current NARDIL labeling warns that high-tyramine aged/fermented foods can precipitate hypertensive crisis and recommends stopping phenelzine with prompt medical BP treatment, including carefully administered phentolamine. It does not establish the source claim that tyramine is itself a catecholamine.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=513a41d0-37d4-4355-8a6d-a2c643bce6fa"
+    }
+  },
+  {
+    "id": "s2psy-0470",
+    "category": "Rapid source vignettes",
+    "q": "What sleep-study findings and diagnostic shortcut does the rapid source give for narcolepsy?",
+    "a": "Polysomnography with reduced sleep latency and reduced REM latency. The source also repeats cataplexy after emotion and low orexin; its single test answer is not the complete modern overnight-study plus daytime-testing diagnostic workflow.",
+    "source": {
+      "title": "Mehlman HY Psych",
+      "page": 52,
+      "url": "/mehlman/hy-psych.pdf#page=52"
+    },
+    "guideline": {
+      "text": "NINDS describes overnight polysomnography followed by a multiple sleep latency test to assess daytime sleep onset and REM. Sometimes CSF hypocretin measurement helps. The source single-test answer does not cover the full evaluation.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/narcolepsy"
     }
   }
 ];

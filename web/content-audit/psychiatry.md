@@ -1,6 +1,6 @@
 # Psychiatry conversion ledger
 
-October15,2026. Partial:395activecards,3actualsourcefigures,85separatelylinkednotes. Source55pages;clinicalpp3-53.Pp3-36firstconversioncomplete;pp37-53notyetconverted.Nofinalcompletionclaim.
+October 15, 2026. Partial: 470 active cards, 3 actual source figures, 114 separately linked notes. Source has 55 pages; clinical pages 3-53. First conversion now spans all clinical pages, including rapid-review details. Exhaustive source-detail/omission reconciliation, duplicate review and final clinical/product acceptance remain open. Counts and page links alone are not coverage proof.
 
 ## Source-page map
 
@@ -40,23 +40,23 @@ October15,2026. Partial:395activecards,3actualsourcefigures,85separatelylinkedno
 | 34 | s2psy-0141, s2psy-0184, s2psy-0200, s2psy-0201, s2psy-0202, s2psy-0203, s2psy-0204, s2psy-0374, s2psy-0375, s2psy-0376, s2psy-0377, s2psy-0378 |
 | 35 | s2psy-0283, s2psy-0285, s2psy-0287, s2psy-0289, s2psy-0379, s2psy-0380, s2psy-0381, s2psy-0382, s2psy-0383, s2psy-0384, s2psy-0385, s2psy-0386, s2psy-0387, s2psy-0388, s2psy-0389 |
 | 36 | s2psy-0390, s2psy-0391, s2psy-0392, s2psy-0393, s2psy-0394, s2psy-0395 |
-| 37 |  |
-| 38 |  |
-| 39 |  |
-| 40 |  |
-| 41 |  |
-| 42 |  |
-| 43 |  |
-| 44 |  |
-| 45 |  |
-| 46 |  |
-| 47 |  |
-| 48 |  |
-| 49 |  |
-| 50 |  |
-| 51 |  |
-| 52 |  |
-| 53 |  |
+| 37 | s2psy-0143, s2psy-0299, s2psy-0300, s2psy-0330, s2psy-0396, s2psy-0397, s2psy-0398, s2psy-0399, s2psy-0400 |
+| 38 | s2psy-0037, s2psy-0182, s2psy-0184, s2psy-0186, s2psy-0187, s2psy-0205, s2psy-0206, s2psy-0208, s2psy-0401, s2psy-0402, s2psy-0403, s2psy-0404, s2psy-0405, s2psy-0406 |
+| 39 | s2psy-0037, s2psy-0191, s2psy-0193, s2psy-0194, s2psy-0195, s2psy-0407, s2psy-0408, s2psy-0409, s2psy-0410 |
+| 40 | s2psy-0165, s2psy-0166, s2psy-0167, s2psy-0191, s2psy-0192, s2psy-0411, s2psy-0412, s2psy-0413, s2psy-0414 |
+| 41 | s2psy-0024, s2psy-0025, s2psy-0065, s2psy-0066, s2psy-0067, s2psy-0068, s2psy-0303, s2psy-0304, s2psy-0313, s2psy-0415, s2psy-0416, s2psy-0417, s2psy-0418 |
+| 42 | s2psy-0026, s2psy-0027, s2psy-0028, s2psy-0029, s2psy-0041, s2psy-0042, s2psy-0043, s2psy-0044, s2psy-0045, s2psy-0048, s2psy-0053, s2psy-0054, s2psy-0055, s2psy-0084, s2psy-0309, s2psy-0419, s2psy-0420, s2psy-0421, s2psy-0422, s2psy-0423, s2psy-0424 |
+| 43 | s2psy-0038, s2psy-0039, s2psy-0046, s2psy-0047, s2psy-0058, s2psy-0140, s2psy-0141, s2psy-0174, s2psy-0425, s2psy-0426, s2psy-0427, s2psy-0428 |
+| 44 | s2psy-0072, s2psy-0073, s2psy-0074, s2psy-0241, s2psy-0242, s2psy-0243, s2psy-0301, s2psy-0302, s2psy-0334, s2psy-0335, s2psy-0355, s2psy-0429, s2psy-0430, s2psy-0431 |
+| 45 | s2psy-0349, s2psy-0350, s2psy-0351, s2psy-0352, s2psy-0356, s2psy-0357, s2psy-0358, s2psy-0432, s2psy-0433, s2psy-0434, s2psy-0435, s2psy-0436 |
+| 46 | s2psy-0111, s2psy-0130, s2psy-0137, s2psy-0138, s2psy-0139, s2psy-0164, s2psy-0209, s2psy-0437, s2psy-0438, s2psy-0439, s2psy-0440, s2psy-0441 |
+| 47 | s2psy-0069, s2psy-0070, s2psy-0081, s2psy-0082, s2psy-0084, s2psy-0101, s2psy-0103, s2psy-0109, s2psy-0116, s2psy-0117, s2psy-0122, s2psy-0442, s2psy-0443, s2psy-0444, s2psy-0445, s2psy-0446, s2psy-0467, s2psy-0468 |
+| 48 | s2psy-0034, s2psy-0035, s2psy-0036, s2psy-0069, s2psy-0071, s2psy-0092, s2psy-0324, s2psy-0333, s2psy-0345, s2psy-0360, s2psy-0447, s2psy-0448, s2psy-0449, s2psy-0450, s2psy-0451, s2psy-0469 |
+| 49 | s2psy-0033, s2psy-0061, s2psy-0063, s2psy-0064, s2psy-0079, s2psy-0080, s2psy-0085, s2psy-0086, s2psy-0088, s2psy-0089, s2psy-0090, s2psy-0091, s2psy-0094, s2psy-0095, s2psy-0452, s2psy-0453, s2psy-0454 |
+| 50 | s2psy-0029, s2psy-0083, s2psy-0097, s2psy-0218, s2psy-0219, s2psy-0283, s2psy-0284, s2psy-0285, s2psy-0286, s2psy-0287, s2psy-0289, s2psy-0329, s2psy-0331, s2psy-0455, s2psy-0456, s2psy-0457 |
+| 51 | s2psy-0073, s2psy-0210, s2psy-0212, s2psy-0272, s2psy-0273, s2psy-0274, s2psy-0275, s2psy-0350, s2psy-0458, s2psy-0459, s2psy-0460, s2psy-0461 |
+| 52 | s2psy-0132, s2psy-0134, s2psy-0201, s2psy-0222, s2psy-0223, s2psy-0338, s2psy-0340, s2psy-0462, s2psy-0463, s2psy-0464, s2psy-0465, s2psy-0470 |
+| 53 | s2psy-0078, s2psy-0135, s2psy-0322, s2psy-0346, s2psy-0466 |
 
 ## Clinical reconciliation
 
@@ -69,3 +69,24 @@ Source-onlysimplificationsandrankingsremainattributed,notuniversaldiagnosticrule
 Local390x844and320x568long-text/figuretests. Firstfiguretestcaughtwrongdatafield(imageversusimg);correctedbeforepushandrerendered.Nativefigurewaspixel-inspected.Countersandregressionchecksarenotclinicalcoverageproof.
 
 04:08 sourceconversionthroughp36. Allthreeembeddedclinicalfiguresp6/13/28extractedandnativepixel-inspected;fourtargeted390/320appfigure/textviewsinspectedwithoutoverflow. Noindependentclinicalcertificationclaimed. LatestfinalUSPSTFalcoholscreening2018GradeBcontrolsCAGEcomparison;2025draftnotpromotedtofinal.
+
+
+04:14 first source pass spans pp3-53 with 470 cards. Rapid-review repeats are linked to the relevant detailed question; additional distinct vignettes/mechanisms have their own questions. A source-page association draft contained overly broad links; all new associations were discarded and rebuilt explicitly against question IDs and the actual rapid pages before publication.
+
+Additional retrieved comparisons: NIMH suicide disposition, Merck dementia/insight, MedlinePlus GGT, FDA Suboxone route, ipratropium bronchodilation, MedlinePlus Rett, FAS diagnostic consensus, NINDS MG and narcolepsy, AHA sex/cardiac stability, DailyMed acamprosate and phenelzine, NIDA dextromethorphan, Merck monitored physostigmine use and Parkinson Foundation psychosis medicines. The attempted aripiprazole DailyMed pages returned headings without usable mechanism text, so that issue is not closed by those fetches.
+
+## Remaining clinical/source-detail review
+
+This is a working issue list, not evidence that all other statements are independently verified.
+
+| Topic | Cards | Remaining check |
+|---|---|---|
+| Antipsychotic receptor classification, including aripiprazole | 341-343 | Reconcile source class shorthand against usable current prescribing information. |
+| Digoxin-toxicity magnesium shorthand | 375 | Verify current acute-toxicity distinction, not merely an indication list. |
+| MG thymoma/MuSK percentage | 459 | Source percentage unverified; NINDS does not establish it. No guaranteed cure is taught as a current claim. |
+| MS/NMO diagnosis and workup | 253-257 | Check shortcuts and current source limits. |
+| Drug-induced parkinsonism propranolol | 351,432 | Preserve exact source difference; obtain a current treatment comparison. |
+| Abuse reporting | 454 | Source statement is jurisdiction-dependent; do not turn it into a universal legal rule. |
+| Source rankings and diagnostic absolutes | throughout, especially 403/435 | Source attribution remains; independently verify where feasible or retain explicit uncertainty. |
+| Rapid-review mapping/detail | pp37-53 | Exact page-by-page omission pass required; current map is not proof of exhaustive capture. |
+| Duplicates | throughout | Review close repeats without erasing unique vignettes or progress. |
