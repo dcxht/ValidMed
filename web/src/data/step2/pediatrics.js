@@ -17774,5 +17774,204 @@ export default [
       "text": "Merck considers NSAIDs first line and says estrogen/progestin contraceptives are usually effective. ACOG likewise describes NSAIDs first and hormonal methods for persistent pain or suspected endometriosis. The source NBME-specific framing should not become a clinical prohibition.",
       "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/dysmenorrhea"
     }
+  },
+  {
+    "id": "s2peds-1264",
+    "category": "Endometriosis",
+    "q": "What is endometriosis, and where does the source say it most commonly grows?",
+    "a": "Endometriosis is growth of endometrial tissue outside the uterus. The source most common location is the ovary, with other sites including the pouch of Douglas.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "Current Merck describes functioning endometrial cells outside the uterine cavity, most often on pelvic peritoneal or serosal surfaces including the ovaries, broad ligaments, posterior cul-de-sac and uterosacral ligaments.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/endometriosis/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1265",
+    "category": "Endometriosis",
+    "q": "What mechanism does the source give for endometriosis?",
+    "a": "Retrograde menstrual flow through the fallopian tubes is proposed to seed endometrial cells onto the ovaries or peritoneum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "Merck calls retrograde menstruation the most widely accepted hypothesis, not a proven sole mechanism. It also lists coelomic metaplasia, Mullerian rests and lymphatic or vascular transport as alternative hypotheses.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/endometriosis/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1266",
+    "category": "Endometriosis",
+    "q": "How does the source separate primary dysmenorrhea from endometriosis on exam?",
+    "a": "Severe menstrual pain with a normal physical exam favors primary dysmenorrhea. Severe pain plus an abnormal pelvic finding raises concern for endometriosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "The exam contrast is useful but not absolute. Merck says pelvic examination may be normal even with endometriosis, while findings can include a fixed retroverted uterus, rectovaginal thickening or uterosacral nodules.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/endometriosis/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1267",
+    "category": "Endometriosis",
+    "q": "Which pelvic exam findings does the source use as endometriosis clues?",
+    "a": "Examples include nodularity of the uterosacral ligaments, a fixed retroverted uterus from adhesions, or pelvic tenderness. The source makes the broader point that no single exam finding must be memorized.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "Merck lists similar possible findings, including cervix deviation, fixed retroverted uterus, fixed ovarian mass, ovarian tenderness and thickened or nodular rectovaginal septum. Findings support suspicion but are not required for diagnosis.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/endometriosis/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1268",
+    "category": "Endometriosis",
+    "q": "Why are dyspareunia and pain with defecation endometriosis clues?",
+    "a": "Lesions can involve pelvic structures near the vagina, bowel and pouch of Douglas. Deep dyspareunia and dyschezia are therefore characteristic clues, even though the source says some questions omit them because they are too easy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "Current Merck describes the classic triad as dysmenorrhea, dyspareunia and infertility, with dyschezia possible from large-intestine involvement. Symptoms and severity vary widely, so their absence does not exclude endometriosis.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/endometriosis/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1269",
+    "category": "Endometriosis",
+    "q": "What does the source say is the next diagnostic step when endometriosis is suspected?",
+    "a": "The source NBME-style answer is diagnostic laparoscopy. Laparoscopy allows direct visualization and can support treatment planning.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "This needs a current-practice caveat: Merck says endometriosis is often diagnosed clinically, ultrasound or MRI can support the diagnosis, and laparoscopy with direct visualization is useful for planning but not always required. ACOG also says patients can begin medical treatment without surgery if appropriate.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/endometriosis/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1270",
+    "category": "Endometriosis",
+    "q": "How should the source treatment statement that NSAIDs and OCPs are short-term and laparoscopic removal is definitive be corrected?",
+    "a": "NSAIDs and hormonal contraceptives can manage pain, while laparoscopic excision or ablation may diagnose and treat lesions. But laparoscopic lesion removal is not a guaranteed definitive cure because endometriosis commonly recurs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "ACOG says up to 8 in 10 patients have pain again within 2 years after surgery, and hormonal treatment after surgery may prolong relief. Merck says treatment is individualized by symptoms, severity, fertility goals and preferences; hysterectomy, with or without ovary removal, is the truly definitive operation in selected patients who have completed childbearing.",
+      "url": "https://www.acog.org/womens-health/faqs/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1271",
+    "category": "APGAR scoring",
+    "q": "Which five components make up the Apgar score in the actual source table?",
+    "a": "Appearance, pulse, grimace, activity and respiration. Each earns 0, 1 or 2 points, for a total from 0 to 10.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "AAP/ACOG use the same five components: color, heart rate, reflexes, muscle tone and respiration. The score is assigned at 1 and 5 minutes, then every 5 minutes up to 20 minutes if it remains below 7.",
+      "url": "https://publications.aap.org/pediatrics/article/136/4/819/73821/The-Apgar-Score"
+    },
+    "img": "/mehlman/figures/peds-p088-apgar-table.png",
+    "imgAlt": "Actual source APGAR scoring table showing appearance, pulse, grimace, activity and respiration rows with zero, one and two point criteria"
+  },
+  {
+    "id": "s2peds-1272",
+    "category": "APGAR scoring",
+    "q": "How is the appearance component scored in the source table?",
+    "a": "Cyanotic or pale all over is 0 points; peripheral cyanosis only is 1 point; completely pink is 2 points.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "The table is conventional, but color is subjective and can be affected by normal transition. AAP/ACOG caution that Apgar elements are influenced by gestational age, maternal medication and interobserver variability.",
+      "url": "https://publications.aap.org/pediatrics/article/136/4/819/73821/The-Apgar-Score"
+    },
+    "img": "/mehlman/figures/peds-p088-apgar-table.png",
+    "imgAlt": "Actual source APGAR scoring table showing appearance, pulse, grimace, activity and respiration rows with zero, one and two point criteria"
+  },
+  {
+    "id": "s2peds-1273",
+    "category": "APGAR scoring",
+    "q": "What do the 1-minute and 5-minute Apgar scores represent in the source?",
+    "a": "The 1-minute score documents the newborn condition at birth. The 5-minute score reflects the response to resuscitation and better indicates adjustment to life outside the womb.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "AAP/ACOG agree the 5-minute score, especially the change from 1 to 5 minutes, is useful for reporting response to resuscitation. It still does not predict an individual infant mortality or neurologic outcome.",
+      "url": "https://publications.aap.org/pediatrics/article/136/4/819/73821/The-Apgar-Score"
+    }
+  },
+  {
+    "id": "s2peds-1274",
+    "category": "APGAR scoring",
+    "q": "What is the important current correction to saying a low 1-minute Apgar score indicates the need for immediate medical attention?",
+    "a": "Do not wait for the 1-minute score to start resuscitation. The Apgar score documents status and response; clinical assessment guides immediate interventions before the score is assigned.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "AAP/ACOG explicitly state resuscitation must be initiated before the 1-minute Apgar score is assigned, and the score is not used to determine the need for initial resuscitation or which steps are necessary.",
+      "url": "https://publications.aap.org/pediatrics/article/136/4/819/73821/The-Apgar-Score"
+    }
+  },
+  {
+    "id": "s2peds-1275",
+    "category": "APGAR scoring",
+    "q": "What does an Apgar score above 7 mean, and what should it not be used to prove?",
+    "a": "The source treats scores above 7 as typically normal or reassuring. Do not use the score alone to diagnose asphyxia or predict one infant mortality or neurologic outcome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "AAP/ACOG call a 5-minute score of 7-10 reassuring and say 7 or greater makes peripartum hypoxia-ischemia unlikely as the cause of neonatal encephalopathy. Even low scores do not establish asphyxia or individual outcome by themselves.",
+      "url": "https://publications.aap.org/pediatrics/article/136/4/819/73821/The-Apgar-Score"
+    }
+  },
+  {
+    "id": "s2peds-1276",
+    "category": "APGAR scoring",
+    "q": "What is acrocyanosis, and how is it reflected in the source APGAR table?",
+    "a": "Acrocyanosis is bluish discoloration limited to the newborn extremities. It gives 1 of 2 possible appearance points, whereas cyanosis or pallor over the whole body gives 0.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 88,
+      "url": "/mehlman/hy-pediatrics.pdf#page=88"
+    },
+    "guideline": {
+      "text": "Merck says acrocyanosis is common in the first few hours and may recur intermittently for months. The source suggestion to warm and stimulate may fit a cold or mildly depressed newborn, but persistent central cyanosis, respiratory distress or a low heart rate requires broader newborn assessment rather than reassurance based on the word acrocyanosis.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/care-of-newborns-and-infants/physical-examination-of-the-newborn"
+    }
   }
 ];
