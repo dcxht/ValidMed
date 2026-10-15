@@ -41959,6 +41959,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 243,
       "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    },
+    "guideline": {
+      "text": "NIDDK describes CKD mineral-bone disorder as a calcium/phosphorus/hormone imbalance involving reduced calcitriol activation, impaired phosphorus removal and increased PTH. The PDF two-mechanism summary is incomplete; this source does not independently verify its precise late-distal calcium-reabsorption explanation.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder"
     }
   },
   {
@@ -42110,6 +42114,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 253,
       "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "The 2024 international hyperglycemic-crisis consensus describes total-body potassium depletion from osmotic diuresis, vomiting and hyperaldosteronism despite often normal/high presenting serum potassium from intracellular-to-extracellular shifts. High serum potassium is not evidence of adequate body stores, and treatment can lower it quickly.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
     }
   },
   {
@@ -42132,6 +42140,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 253,
       "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "The 2024 international consensus requires the full hyperglycemia, hyperosmolality, ketone and acid-base criteria for HHS and recognizes overlap with DKA. Its text describes most HHS presentations as pH at least 7.30 and bicarbonate at least 18 mmol/L, not a universal bicarbonate-above-20 rule. The complete diagnostic framework, not glucose alone, determines classification.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
     }
   },
   {
