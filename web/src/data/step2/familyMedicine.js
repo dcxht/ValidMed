@@ -6739,7 +6739,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 163,
       "url": "/mehlman/hy-family-medicine.pdf#page=163"
-    }
+    },
+    "sourcePages": [
+      163,
+      304
+    ]
   },
   {
     "id": "s2fm-0581",
@@ -12508,7 +12512,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 304,
       "url": "/mehlman/hy-family-medicine.pdf#page=304"
-    }
+    },
+    "duplicateOf": "s2fm-0580"
   },
   {
     "id": "s2fm-1091",

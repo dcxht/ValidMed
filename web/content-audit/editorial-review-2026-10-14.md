@@ -484,3 +484,9 @@ These are verified same-concept repeats, not omitted source teaching: leukotrien
 A broader answer/token-overlap pass identified29 further true repeats, now46 retired historical IDs and3042 active cards/230 figures/609 active notes. Source text checked for each overlap; no new distinct medical fact was inferred to preserve counts. The map points directly to active IDs, never a retired chain. Repeated source pages now appear as separate compact clickable page links on the surviving card in normal and missed review. Different screening populations, hearing-loss types, elbow tendons, heart/CNS Lyme regimens, neuroanatomic territories, medication toxicity versus mechanism, and a source claim with a different verified discrepancy remain separate. Existing completed/in-progress sessions can still show their old larger totals by design.
 
 Automated regression tests run the actual hydration/session/missed/flag functions. They confirm retired IDs remain retrievable, existing queue order/current index/marks/score/missed/flags survive, new pools omit duplicates, and loading makes no persistent storage mutation.
+
+## October15 02:04 exact-answer QA and page locator
+
+Retired1090 into0580 after sourcepp163/304 confirmed the same cerebral-amyloid-angiopathy recurrence concept. Active3041/230figures/609notes; historical3088 full records. MPTP2830 remains separate from1098 because it tests the PDF's incorrect synonym claim with a separately verified CDC distinction, while1098 asks the causal contaminant.
+
+family-medicine-page-map.md now provides a per-page active-card locator including merged sourcePages. Page184 is explicitly mapped as repetition, not omitted without accounting. This index is not independent verification of every medical statement. Full source mapping/clinical QA and selected long-note/figure mobile checks remain before completion.
