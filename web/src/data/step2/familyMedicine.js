@@ -35269,5 +35269,376 @@ export default [
       "text": "AAO patient guidance calls itching the hallmark of allergic conjunctivitis. Absence of itching should prompt attention to the rest of the differential rather than treating cobblestoning or a nonitchy red eye as diagnostic alone.",
       "url": "https://www.aao.org/eye-health/ask-ophthalmologist-q/pink-eye-allergic-infectious"
     }
+  },
+  {
+    "id": "s2fm-2958",
+    "category": "Upper-limb and spine finer source details",
+    "q": "Which root levels and bony origin does the source give for the deltoid/axillary-nerve association?",
+    "a": "C5-C6 roots, with a deltoid origin on the lateral clavicle among its attachments.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-2959",
+    "category": "Upper-limb and spine finer source details",
+    "q": "Which median-nerve branch does the PDF choose for sensation over the thenar eminence?",
+    "a": "The palmar cutaneous branch; this is distinct from the recurrent motor branch.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-2960",
+    "category": "Upper-limb and spine finer source details",
+    "q": "Which wrist support does the PDF choose in its computer-use carpal-tunnel example?",
+    "a": "A wrist pad; it also names a wrist splint in other examples. This is its source option rather than a full ergonomic treatment plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-2961",
+    "category": "Upper-limb and spine finer source details",
+    "q": "Which bony injury and activity does the source connect with Guyon-canal compression?",
+    "a": "Hook-of-hamate fracture and bicycle-handlebar pressure, respectively.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-2962",
+    "category": "Upper-limb and spine finer source details",
+    "q": "What motion and night-pain overlap makes subacromial bursitis hard to separate from rotator-cuff tendinopathy in the PDF?",
+    "a": "Pain with repeated overhead activity and lying on the shoulder; weakness during cuff maneuvers supports its tendon-injury choice.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-2963",
+    "category": "Upper-limb and spine finer source details",
+    "q": "What treatment does the source give for nonseptic olecranon bursitis?",
+    "a": "Compression and NSAIDs in its source example; it rejects a routine steroid-injection answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-2964",
+    "category": "Upper-limb and spine finer source details",
+    "q": "What support does the source name for medial and lateral epicondylitis?",
+    "a": "A forearm strap, alongside avoidance of the provoking load.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-2965",
+    "category": "Upper-limb and spine finer source details",
+    "q": "Which inherited conditions does the PDF associate with scoliosis?",
+    "a": "Marfan syndrome, Friedreich ataxia and NF1.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-2966",
+    "category": "Upper-limb and spine finer source details",
+    "q": "Which degenerative or fragility changes can produce source kyphosis?",
+    "a": "Degenerative disc disease and osteoporotic compression fractures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-2967",
+    "category": "Lower-limb finer source details",
+    "q": "What sensory-versus-motor distinction does the source make for sciatic innervation of the thigh?",
+    "a": "It says the sciatic nerve has some thigh motor functions but does not supply thigh skin sensation; its sensory branches serve leg/foot territories.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-2968",
+    "category": "Lower-limb finer source details",
+    "q": "What anterior-thigh motor deficit does the source use for femoral neuropathy?",
+    "a": "Weak knee extension with buckling, with anterior thigh/medial leg sensory territory in its broader description.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-2969",
+    "category": "Lower-limb finer source details",
+    "q": "What treatment does the source name for patellar tendinopathy in its jumper-knee example?",
+    "a": "Quadriceps-strengthening exercises; loading should be individualized to symptoms and tendon rehabilitation needs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-2970",
+    "category": "Lower-limb finer source details",
+    "q": "What diabetic foot imaging phrase does the source use for Charcot arthropathy?",
+    "a": "Disorganization of the tarsometatarsal joints, in a neuropathic joint injured because protective sensation is reduced.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-2971",
+    "category": "Lower-limb finer source details",
+    "q": "Which non-diabetic infection-related condition can cause the source neurogenic joint pattern?",
+    "a": "Neurosyphilis, in addition to diabetic peripheral neuropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-2972",
+    "category": "Lower-limb finer source details",
+    "q": "Does the source recommend ankle x-ray for isolated anterior lateral-malleolar soft-tissue tenderness when walking is possible?",
+    "a": "No, if its listed bony-tenderness/weight-bearing Ottawa criteria are not met; it names protective bracing and early range of motion in one example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-family-medicine.pdf#page=221"
+    }
+  },
+  {
+    "id": "s2fm-2973",
+    "category": "Lower-limb finer source details",
+    "q": "Which clavicle segment does the source name as the common fracture site?",
+    "a": "The middle third, often after a fall on an outstretched hand.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-2974",
+    "category": "Lower-limb finer source details",
+    "q": "What nutritional and activity context does the PDF give for metatarsal stress fracture?",
+    "a": "A long-distance runner with low BMI, with reduced bone density/osteoporosis risk emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-2975",
+    "category": "Pediatric bone finer source details",
+    "q": "What orbital-floor injury causes the source impaired-upgaze finding after a baseball impact?",
+    "a": "Entrapment of the inferior rectus and/or nearby orbital tissues in its blowout-fracture example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-2976",
+    "category": "Pediatric bone finer source details",
+    "q": "What mineral/hormone pattern does the source give for vitamin-D-deficiency rickets?",
+    "a": "Low calcium/phosphate with elevated PTH, in its source pattern; individual stages and other rickets causes can differ.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-2977",
+    "category": "Pediatric bone finer source details",
+    "q": "What malabsorption conditions does the source connect to rickets?",
+    "a": "Cystic-fibrosis exocrine pancreatic insufficiency or intestinal disease such as Crohn disease, reducing vitamin absorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-2978",
+    "category": "Pediatric bone finer source details",
+    "q": "What benign pain pattern does the PDF describe as growing pains?",
+    "a": "An otherwise healthy child aged about 3-12 waking with throbbing leg pains; atypical findings need evaluation rather than automatic reassurance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-2979",
+    "category": "Pediatric bone finer source details",
+    "q": "What deformity does the PDF distinguish from talipes equinovarus?",
+    "a": "Congenital vertical talus, or rocker-bottom foot, associated in its source with Edwards syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-2980",
+    "category": "Pediatric bone finer source details",
+    "q": "What mechanical reason does the source give for DDH?",
+    "a": "Poorly developed acetabulum, impairing stable femoral-head coverage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-2981",
+    "category": "Pediatric bone finer source details",
+    "q": "What source imaging phrase points toward Perthes rather than SCFE?",
+    "a": "A flattened or contracted femoral head, particularly in a younger child; the source contrasts this with epiphyseal slipping.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2fm-2982",
+    "category": "Pediatric bone finer source details",
+    "q": "What visual analogy does the PDF use for SCFE on x-ray?",
+    "a": "Ice cream slipping off its cone, referring to displacement across the proximal femoral growth plate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-2983",
+    "category": "Bone and arthritis exact-source details",
+    "q": "What fixed age boundary does the PDF use for ultrasound versus x-ray in DDH?",
+    "a": "Ultrasound below six months and radiography above six months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    },
+    "guideline": {
+      "text": "AAOS evidence-based DDH guideline allows AP pelvic radiography instead of ultrasound beginning at four months, based on limited evidence. The source six-month boundary is not an absolute rule.",
+      "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/pddh/pddhcpg.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2984",
+    "category": "Bone and arthritis exact-source details",
+    "q": "What single enzyme deficiency does the PDF equate with osteopetrosis?",
+    "a": "Carbonic anhydrase II deficiency in osteoclasts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    },
+    "guideline": {
+      "text": "NIAMS describes multiple genetic forms of osteopetrosis. Carbonic anhydrase II deficiency is one mechanism and should not be treated as the cause of every patient's osteopetrosis.",
+      "url": "https://www.niams.nih.gov/health-topics/osteopetrosis"
+    }
+  },
+  {
+    "id": "s2fm-2985",
+    "category": "Bone and arthritis exact-source details",
+    "q": "Which serosal manifestation does the source mention with JIA?",
+    "a": "Serous pericarditis, alongside inflammatory arthritis and possible anemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-2986",
+    "category": "Bone and arthritis exact-source details",
+    "q": "What source aspirate finding can occur in a JIA joint?",
+    "a": "Leukocytes, reflecting inflammation; this finding alone does not distinguish sterile from infectious arthritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-2987",
+    "category": "Bone and arthritis exact-source details",
+    "q": "What does the source distinguish from the psoriasis-plus-IBD association?",
+    "a": "Dermatitis herpetiformis with celiac disease, a different skin/GI association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2988",
+    "category": "Bone and arthritis exact-source details",
+    "q": "What inherited complement deficiency does the source associate with SLE susceptibility?",
+    "a": "C1q deficiency, in contrast to complement consumption during some active flares.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2989",
+    "category": "Bone and arthritis exact-source details",
+    "q": "What hematologic mechanism does the PDF use for lupus-associated cytopenias?",
+    "a": "Increased peripheral immune destruction of blood-cell lines rather than automatically assuming decreased marrow production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2990",
+    "category": "Bone and arthritis exact-source details",
+    "q": "What triad does the source use for disseminated gonococcal infection?",
+    "a": "Arthritis, cutaneous lesions and tenosynovitis, in a sexually active patient; actual presentations need not include all three.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
   }
 ];
