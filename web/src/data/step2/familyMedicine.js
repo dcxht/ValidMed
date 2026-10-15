@@ -34467,5 +34467,112 @@ export default [
       "text": "DailyMed says its Parkinson mechanism is not known. Animal data suggest dopaminergic effects, and it is a weak noncompetitive NMDA antagonist. Increased release alone is an incomplete mechanistic account.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=579e6c23-6286-4b80-88de-c86c0e5cc2b2"
     }
+  },
+  {
+    "id": "s2fm-2892",
+    "category": "Psychiatry source finer details",
+    "q": "What causal medication claim does the source make about beta-blockers and depression?",
+    "a": "It says beta-blockers such as propranolol can cause depression.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    },
+    "guideline": {
+      "text": "AHA reporting on a 2021 randomized-trial meta-analysis found no increased depression frequency with beta-blockers versus placebo, while sleep symptoms/fatigue were reported. This is research evidence, not proof that every individual symptom during therapy is unrelated.",
+      "url": "https://newsroom.heart.org/news/beta-blockers-not-likely-to-cause-depression-yet-may-contribute-to-sleep-disturbances"
+    }
+  },
+  {
+    "id": "s2fm-2893",
+    "category": "Psychiatry source finer details",
+    "q": "What active-symptom interval is missing from the PDF six-month schizophrenia summary?",
+    "a": "Its table gives six months overall and two or more symptom categories, without specifying the active-phase interval.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "Merck describes at least two characteristic symptoms for a significant portion of one month, including at least one of delusions, hallucinations or disorganized speech, with at least six months of overall illness. Duration alone is insufficient.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizophrenia"
+    }
+  },
+  {
+    "id": "s2fm-2894",
+    "category": "Psychiatry source finer details",
+    "q": "What longitudinal history distinguishes bipolar depression with psychotic features from unipolar psychotic depression in the source?",
+    "a": "A prior manic episode establishes the bipolar history even if the current presentation is depressive with psychosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2fm-2895",
+    "category": "Psychiatry source finer details",
+    "q": "Can normal bereavement include briefly hearing a deceased loved one in the source?",
+    "a": "Yes. The source contrasts this with persistent distressing accusatory content and impaired self-care; context and safety still require assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-2896",
+    "category": "Psychiatry source finer details",
+    "q": "What duration of worry about recurrence follows panic attacks in the source panic-disorder definition?",
+    "a": "At least one month, after recurrent attacks in its source summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-2897",
+    "category": "Psychiatry source finer details",
+    "q": "What incidental cardiac examination finding does the source say need not explain a panic-like presentation?",
+    "a": "A mid-systolic click suggesting mitral-valve prolapse. A source pattern does not remove the need to assess medical causes of acute symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-2898",
+    "category": "Psychiatry source finer details",
+    "q": "What school/camp somatic symptom does the source use for separation anxiety?",
+    "a": "Stomach aches on arrival when separated from a major attachment figure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-2899",
+    "category": "Psychiatry source finer details",
+    "q": "What example separates an obsession from its associated compulsion in the PDF?",
+    "a": "An intrusive need to touch a doorknob correctly versus repeatedly touching it in response to that need.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-2900",
+    "category": "Psychiatry source finer details",
+    "q": "What distinction does the PDF make between a single crime and antisocial personality disorder?",
+    "a": "A single crime can demonstrate antisocial behavior, but the personality disorder requires a persistent pattern and relevant childhood conduct history; a criminal label alone does not establish diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
   }
 ];
