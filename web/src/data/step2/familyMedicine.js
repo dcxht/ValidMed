@@ -32483,5 +32483,135 @@ export default [
       "page": 100,
       "url": "/mehlman/hy-family-medicine.pdf#page=100"
     }
+  },
+  {
+    "id": "s2fm-2732",
+    "category": "Breast and ovarian source review",
+    "q": "What does the source call the only approved indication for hormone replacement therapy?",
+    "a": "Severe vasomotor symptoms, not bone-density maintenance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "FDA menopause guidance says estrogen with or without progestogen is also approved for prevention of postmenopausal osteoporosis and describes vaginal symptom treatment. Approved indication and suitability for a particular patient are different questions.",
+      "url": "https://www.fda.gov/consumers/womens-health-topics/menopause"
+    }
+  },
+  {
+    "id": "s2fm-2733",
+    "category": "Breast and ovarian source review",
+    "q": "How does the source dismiss the association of combined oral contraceptives with breast cancer?",
+    "a": "It says suggested increases are not significant.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "NCI summarizes observational evidence of modestly increased breast-cancer risk during current/recent hormonal contraceptive use, declining after stopping. This is not proof of identical risk for every formulation or every patient.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet"
+    }
+  },
+  {
+    "id": "s2fm-2734",
+    "category": "Breast and ovarian source review",
+    "q": "What diagnostic sampling method does the PDF choose for suspected fibroadenoma?",
+    "a": "Fine-needle aspiration to confirm the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "ASBrS/SBI 2025 consensus discusses core-biopsy-proven, imaging-concordant fibroadenomas without atypia. Such lesions usually need excision only for symptoms, preference, substantive growth or selected size concerns. The source FNA/never-excise shortcut is not the complete assessment.",
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2840206"
+    }
+  },
+  {
+    "id": "s2fm-2735",
+    "category": "Breast and ovarian source review",
+    "q": "What mass finding does the source use to separate ovarian torsion from cyst rupture?",
+    "a": "Torsion has a large adnexal mass; rupture has no mass mentioned.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "ACOG adolescent torsion guidance says as many as 46% of pediatric/adolescent cases have no associated mass or cyst. Absence of a mass does not exclude torsion in that population.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents"
+    }
+  },
+  {
+    "id": "s2fm-2736",
+    "category": "Breast and ovarian source review",
+    "q": "What surgery restriction does the source give for a ruptured ovarian cyst?",
+    "a": "Treat symptomatically with an NSAID; do not do laparoscopy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "Johns Hopkins guidance distinguishes mild uncomplicated rupture from severe symptoms or internal bleeding, which can require hospitalization and emergency surgery. The source blanket no-surgery statement is not universal.",
+      "url": "https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/management-of-ruptured-ovarian-cyst"
+    }
+  },
+  {
+    "id": "s2fm-2737",
+    "category": "Breast and ovarian source review",
+    "q": "Which unilateral presentations can still represent fibrocystic change in the PDF?",
+    "a": "Unilateral tenderness/sharp pain, or a unilateral cyst draining brown/green fluid, alongside its classic bilateral cyclic tenderness example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-2738",
+    "category": "Breast and ovarian source review",
+    "q": "How does the source distinguish mastitis from breast abscess on examination?",
+    "a": "Inflamed tender nonfluctuant tissue favors mastitis; a fluctuant red tender mass raises concern for abscess requiring drainage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-2739",
+    "category": "Breast and ovarian source review",
+    "q": "What source breast condition can be observed in an adolescent with asymmetry and no other concerning findings?",
+    "a": "Benign virginal breast hypertrophy, in its source pubertal-growth example; new concerning mass features still need assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-2740",
+    "category": "Breast and ovarian source review",
+    "q": "Which first source measures are given for a galactocele?",
+    "a": "Warm compresses followed by drainage for a symptomatic milk-retention cyst.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-2741",
+    "category": "Breast and ovarian source review",
+    "q": "What cell origin does the PDF assign to theca-lutein cysts?",
+    "a": "Ovarian theca cells, often bilaterally, associated with high hCG.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
   }
 ];
