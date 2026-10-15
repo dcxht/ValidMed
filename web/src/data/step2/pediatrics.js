@@ -21739,4 +21739,427 @@ export default [
       "url": "https://www.gimjournal.org/article/S1098-3600(21)01248-X/fulltext"
     }
   }
+
+  ,
+  {
+    "id": "s2peds-1522",
+    "category": "Pediatric neuromuscular",
+    "q": "What p106 condition is also called Werdnig-Hoffman syndrome?",
+    "a": "Spinal muscular atrophy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2026 SMA GeneReview calls Werdnig-Hoffmann disease the former name for SMA type I. It now emphasizes that SMN1-related SMA spans a continuum across the traditional numbered types.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1352/"
+    }
+  },
+  {
+    "id": "s2peds-1523",
+    "category": "Pediatric neuromuscular",
+    "q": "Which cells does p106 say spinal muscular atrophy affects?",
+    "a": "Anterior horn cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2026 GeneReview confirms progressive loss of spinal anterior-horn lower motor neurons and brainstem motor nuclei, causing symmetric proximal-greater-than-distal weakness and atrophy.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1352/"
+    }
+  },
+  {
+    "id": "s2peds-1524",
+    "category": "Pediatric neuromuscular",
+    "q": "What is the p106 spinal-muscular-atrophy examination triad?",
+    "a": "Profound hypotonia, absent reflexes and tongue fasciculations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2026 GeneReview lists hypotonia, areflexia/hyporeflexia and tongue fasciculations among suggestive untreated infantile findings, along with proximal weakness and motor difficulties or regression.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1352/"
+    }
+  },
+  {
+    "id": "s2peds-1525",
+    "category": "Cerebral palsy",
+    "q": "How does p106 summarize the cause of cerebral palsy?",
+    "a": "Motor dysfunction and intellectual disability of varying severity, attributed by the source to intrapartum conditions such as hypoxia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "CDC says intrapartum oxygen deprivation was once thought to be the main cause but now accounts for only a small number of cases. About 85% to 90% of CP is congenital from abnormal brain development or damage before or during birth, often without a known cause; Merck also stresses that many children have no identifiable cause.",
+      "url": "https://www.cdc.gov/cerebral-palsy/about/"
+    }
+  },
+  {
+    "id": "s2peds-1526",
+    "category": "Cerebral palsy",
+    "q": "Which p106 cerebral-palsy finding is the classic USMLE presentation?",
+    "a": "Spastic paraparesis in a child with scissoring of the legs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "CDC calls spastic CP the most common type and describes spastic diplegia/diparesis as mainly leg stiffness, with hip and leg tightness pulling the legs inward and crossing at the knees, called scissoring.",
+      "url": "https://www.cdc.gov/cerebral-palsy/about/"
+    }
+  },
+  {
+    "id": "s2peds-1527",
+    "category": "Chiari malformations",
+    "q": "What is the p106 anatomy of Chiari 1 malformation?",
+    "a": "Downward displacement of the cerebellar tonsils into the foramen magnum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "A 2025 StatPearls review defines Chiari 1 as caudal descent of the cerebellar tonsils through the foramen magnum by at least 5 mm. It can be asymptomatic or appear from childhood into adulthood.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK554609/"
+    }
+  },
+  {
+    "id": "s2peds-1528",
+    "category": "Chiari malformations",
+    "q": "Who usually presents with Chiari 1 on p106, and with what symptoms?",
+    "a": "Usually a teenager or young adult with headache and neck pain, though it can be asymptomatic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2025 review describes tussive headaches as a key symptom and also lists sleep-disordered breathing, scoliosis and focal neurologic deficits. Neck pain can occur, and many patients remain asymptomatic.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK554609/"
+    }
+  },
+  {
+    "id": "s2peds-1529",
+    "category": "Chiari malformations",
+    "q": "What herniates in p106 Chiari 2 malformation, and what is its classic association?",
+    "a": "Cerebellum and brainstem through the foramen magnum, commonly associated with meningomyelocele.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "StatPearls states that Chiari 2 is almost always associated with myelomeningocele and involves caudal displacement of the cerebellar vermis, brainstem and fourth ventricle. Current spelling is myelomeningocele.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557498/"
+    }
+  },
+  {
+    "id": "s2peds-1530",
+    "category": "Chiari malformations",
+    "q": "How does p106 present Chiari 2 in a child?",
+    "a": "With dysphagia and motor dysfunction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "StatPearls lists swallowing difficulties, poor feeding, nasal regurgitation, cyanosis during feeding, aspiration, arm weakness that can progress to quadriparesis, apneic spells and lower-cranial-nerve dysfunction among Chiari 2 manifestations.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557498/"
+    }
+  },
+  {
+    "id": "s2peds-1531",
+    "category": "Posterior fossa malformations",
+    "q": "What is the p106 Dandy-Walker combination?",
+    "a": "Absent cerebellar vermis plus cystic dilation of the fourth ventricle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "A 2026 StatPearls review characterizes Dandy-Walker by vermian agenesis or hypoplasia and cystic fourth-ventricle enlargement communicating with a large posterior-fossa cyst. Most patients have hydrocephalus at diagnosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538197/"
+    }
+  },
+  {
+    "id": "s2peds-1532",
+    "category": "Fetal alcohol spectrum",
+    "q": "What developmental label does p106 attach to fetal alcohol syndrome?",
+    "a": "The source calls it the most common cause of mental retardation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "Merck says FAS may be the most common cause of noninherited intellectual disability, not intellectual disability overall. Use intellectual disability rather than the source's outdated term.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/metabolic-electrolyte-and-toxic-disorders-in-neonates/fetal-alcohol-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1533",
+    "category": "Fetal alcohol spectrum",
+    "q": "Which organ defects and mechanism does p106 list for fetal alcohol syndrome?",
+    "a": "Heart and lung defects, which it attributes to defective neural crest migration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "Merck confirms cardiac defects in FAS but does not make lung defects or a neural-crest mechanism a defining diagnostic feature. Preserve those as source claims; current diagnosis centers prenatal alcohol exposure, growth deficiency, the cardinal facial pattern and CNS/neurodevelopmental findings.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/metabolic-electrolyte-and-toxic-disorders-in-neonates/fetal-alcohol-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1534",
+    "category": "Fetal alcohol spectrum",
+    "q": "Which facial features does p106 give for fetal alcohol syndrome?",
+    "a": "A smooth, flat and/or elongated philtrum; thin vermilion border or thin upper lip; widely spaced eyes; midface hypoplasia; and a short nose.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "AAP says the three cardinal FAS facial features are small palpebral fissures, smooth philtrum and thin upper lip/vermilion border. Merck also lists microcephaly, microphthalmia, epicanthal folds, flat midface, thin upper lip and a small chin.",
+      "url": "https://www.aap.org/en/patient-care/fetal-alcohol-spectrum-disorders/diagnosis/differential-diagnosis-growth-defects-and-dysmorphic-features/"
+    }
+  },
+  {
+    "id": "s2peds-1535",
+    "category": "Inborn errors of metabolism",
+    "q": "What is the p106 biochemical basis of phenylketonuria?",
+    "a": "Autosomal-recessive phenylalanine-hydroxylase deficiency, or rarely deficiency of the THB cofactor, causing failure to convert phenylalanine to tyrosine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2025 PAH-deficiency GeneReview confirms autosomal-recessive biallelic PAH variants and says tetrahydrobiopterin (BH4; also called THB) synthesis or recycling disorders account for about 2% of hyperphenylalaninemia in most populations.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+  },
+  {
+    "id": "s2peds-1536",
+    "category": "Inborn errors of metabolism",
+    "q": "How does p106 say PKU is detected and treated?",
+    "a": "By the newborn heel-prick test, followed by a phenylalanine-deficient diet to prevent the source's labeled outcome of mental retardation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2025 GeneReview says dried-blood-spot screening is performed 24 to 72 hours after birth using phenylalanine and tyrosine concentrations, with confirmatory plasma amino-acid and molecular testing. It recommends a low-phenylalanine diet ideally started in the first week, not a completely phenylalanine-free diet.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+  },
+  {
+    "id": "s2peds-1537",
+    "category": "Inborn errors of metabolism",
+    "q": "Which clinical clues does p106 give for untreated PKU, and how does it explain lighter skin?",
+    "a": "A mousy or musty body odor and lighter skin than siblings from partial albinism because tyrosine is normally converted into melanin but cannot be synthesized.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2025 GeneReview confirms musty body odor from excess phenylalanine metabolites. It attributes decreased skin and hair pigmentation to tyrosinase inhibition and low blood tyrosine, not to a simple failure to synthesize all tyrosine.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    }
+  },
+  {
+    "id": "s2peds-1538",
+    "category": "Inborn errors of metabolism",
+    "q": "Which enzyme and amino acids define p106 maple syrup urine disease?",
+    "a": "Autosomal-recessive branched-chain ketoacid-dehydrogenase deficiency causes inability to break down leucine, isoleucine and valine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The MSUD GeneReview confirms reduced branched-chain alpha-ketoacid dehydrogenase complex activity in the degradation pathway for leucine, isoleucine and valine. Diagnosis can be confirmed by biallelic variants in BCKDHA, BCKDHB or DBT.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1319/"
+    }
+  },
+  {
+    "id": "s2peds-1539",
+    "category": "Inborn errors of metabolism",
+    "q": "What odor and untreated outcomes does p106 give for maple syrup urine disease?",
+    "a": "Maple-syrup-scented diapers from urine, with the source's labeled outcome of mental retardation and neurologic abnormalities if untreated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "GeneReviews says maple-syrup odor appears in earwax soon after birth and in urine by about age 5 to 7 days. Untreated infants develop ketonuria, poor feeding, lethargy, apnea, opisthotonus, abnormal movements, coma and central respiratory failure; early treatment reduces lifelong intellectual disability and functional impairment.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1319/"
+    }
+  },
+  {
+    "id": "s2peds-1540",
+    "category": "Congenital hypothyroidism",
+    "q": "What is p106 cretinism, and which common causes does it contrast?",
+    "a": "Congenital hypothyroidism, most commonly from maternal iodine deficiency worldwide or fetal thyroid dysgenesis in western countries.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2022 AAP guideline says most congenital hypothyroidism is primary, most often from thyroid dysgenesis or dyshormonogenesis. It lists maternal or infant iodine deficiency among less common transient or extrinsic contributors; cretinism is no longer the preferred clinical label.",
+      "url": "https://publications.aap.org/pediatrics/article/151/1/e2022060420/190308/Congenital-Hypothyroidism-Screening-and-Management"
+    }
+  },
+  {
+    "id": "s2peds-1541",
+    "category": "Congenital hypothyroidism",
+    "q": "Which p106 manifestations identify congenital hypothyroidism, and what is the kwashiorkor contrast?",
+    "a": "The source labels mental retardation from poor myelin development, impaired bone growth, hypotonia, macroglossia and a protuberant abdomen from umbilical hernia; kwashiorkor causes a protuberant abdomen from protein-calorie malnutrition with ascites.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2022 AAP guideline lists large tongue, umbilical hernia, prolonged jaundice, constipation, lethargy and hypothermia as clinical signs. It stresses that symptoms require thyroid testing even when newborn-screen results are normal.",
+      "url": "https://publications.aap.org/pediatrics/article/151/1/e2022060420/190308/Congenital-Hypothyroidism-Screening-and-Management"
+    }
+  },
+  {
+    "id": "s2peds-1542",
+    "category": "Congenital hypothyroidism",
+    "q": "How does p106 say congenital hypothyroidism is screened for?",
+    "a": "By newborn heel-prick testing to prevent worsening disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2022 AAP guideline confirms dried-blood-spot screening by heel stick, with TSH and/or T4 measured depending on the program. Screening must be followed by timely confirmation, treatment and monitoring.",
+      "url": "https://publications.aap.org/pediatrics/article/151/1/e2022060420/190308/Congenital-Hypothyroidism-Screening-and-Management"
+    }
+  },
+  {
+    "id": "s2peds-1543",
+    "category": "Neurocutaneous and hearing syndromes",
+    "q": "Which findings and mechanism does p106 give for Waardenburg syndrome?",
+    "a": "Congenital sensorineural hearing loss, pigmentary changes of hair and skin, a white forelock, and failure of neural crest migration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2022 Waardenburg type I GeneReview confirms congenital sensorineural hearing loss and pigmentary changes of iris, hair and skin, including a white forelock. PAX3 regulates neural-crest-derived melanocytes; defective melanocyte migration or function can underlie hearing loss.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1531/"
+    }
+  },
+  {
+    "id": "s2peds-1544",
+    "category": "Cortical migration disorders",
+    "q": "What is p106 double cortex syndrome and its exam mechanism?",
+    "a": "A genetic condition in which neurons fail to migrate outward to the cortex, producing two gray-matter layers instead of one; the exam mechanism is failure of radial migration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The DCX-disorders GeneReview describes subcortical band heterotopia, also called double cortex syndrome, as symmetric gray-matter bands within white matter between the cortex and lateral ventricles, separated from cortex by normal-appearing white matter.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1185/"
+    }
+  },
+  {
+    "id": "s2peds-1545",
+    "category": "Rett syndrome",
+    "q": "Which sex pattern does p106 attach to Rett syndrome?",
+    "a": "Neurologic degeneration occurring exclusively in female infants.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2019 MECP2 GeneReview says classic Rett primarily affects girls, but it is not exclusively female. Males with pathogenic MECP2 variants usually have severe neonatal encephalopathy, with death often before age 2.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1497/"
+    }
+  },
+  {
+    "id": "s2peds-1546",
+    "category": "Rett syndrome",
+    "q": "Which regression and movement findings does p106 give for Rett syndrome?",
+    "a": "Hand-wringing or hand-flapping, and mental regression that the source says can present as putting objects in the mouth.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2019 GeneReview describes normal early development followed by language and motor regression, with stereotypic hand wringing, squeezing, clapping, tapping, mouthing and washing/rubbing movements replacing purposeful hand use.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1497/"
+    }
+  },
+  {
+    "id": "s2peds-1547",
+    "category": "Chromosomal deletion syndromes",
+    "q": "Which deletion and infant clue identify p106 cri-du-chat syndrome?",
+    "a": "Deletion on the short arm of chromosome 5 and a distinctive cat-like cry.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "NHGRI calls this 5p- or cat-cry syndrome and confirms deletion of material on chromosome 5p with a high-pitched cat-like cry, delayed development, distinctive facial features, microcephaly, hypotonia and low birth weight.",
+      "url": "https://www.genome.gov/Genetic-Disorders/Cri-du-Chat"
+    }
+  },
+  {
+    "id": "s2peds-1548",
+    "category": "Chromosomal deletion syndromes",
+    "q": "Which developmental findings does p106 list after the cri-du-chat cry?",
+    "a": "The source labels mental retardation plus distinctive facial features and microcephaly.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "NHGRI confirms intellectual disability, delayed development, distinctive facial features and microcephaly; it also notes widely spaced eyes, infant hypotonia and language difficulty. Use intellectual disability rather than the source term.",
+      "url": "https://www.genome.gov/Genetic-Disorders/Cri-du-Chat"
+    }
+  },
+  {
+    "id": "s2peds-1549",
+    "category": "Ataxias",
+    "q": "What genetics does p106 give for Friedreich ataxia?",
+    "a": "An autosomal-recessive GAA trinucleotide-repeat disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 106,
+      "url": "/mehlman/hy-pediatrics.pdf#page=106"
+    },
+    "guideline": {
+      "text": "The 2025 GeneReview confirms autosomal-recessive Friedreich ataxia caused by biallelic FXN variants. About 96% have biallelic GAA repeat expansions in intron 1. The manifestations listed next in the source are on p107 and are intentionally not duplicated here.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1281/"
+    }
+  }
+
 ];
