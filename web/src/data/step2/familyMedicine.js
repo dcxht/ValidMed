@@ -35903,5 +35903,178 @@ export default [
       "text": "A 2023 Endocrine Reviews article describes fluid restriction as first-line treatment in SIAD without severe symptoms, not a stand-alone diagnostic test. Hyponatremia has multiple causes and requires clinical/biochemical reassessment; severe symptoms need urgent intervention. This is a review published by the Endocrine Society.",
       "url": "https://www.endocrine.org/journals/endocrine-reviews/syndrome-of-inappropriate-antidiuresis"
     }
+  },
+  {
+    "id": "s2fm-3012",
+    "category": "Thyroid finer source review",
+    "q": "What symptom assumption does the PDF build into subclinical hypothyroidism?",
+    "a": "It says the patient will be asymptomatic because the condition is subclinical.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    },
+    "guideline": {
+      "text": "NICE NG145 considers a six-month levothyroxine trial in adults under 65 with persistent TSH elevation below 10 and symptoms. Subclinical is a biochemical classification, not proof that symptoms are absent.",
+      "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2fm-3013",
+    "category": "Thyroid finer source review",
+    "q": "What automatic treatment exceptions does the source give for subclinical hypothyroidism?",
+    "a": "TSH above ten, pregnancy or positive Hashimoto antibodies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    },
+    "guideline": {
+      "text": "For adults, NICE considers TSH at least 10 on two occasions three months apart, with symptoms and evidence of underlying thyroid disease also informing discussion. Antibody positivity alone is not a universal automatic prescription rule; pregnancy needs separate guidance.",
+      "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2fm-3014",
+    "category": "Thyroid finer source review",
+    "q": "What liver and lipid abnormalities can the source include with Hashimoto hypothyroidism?",
+    "a": "Increased cholesterol or elevated liver enzymes, alongside its thyroid, muscle and other systemic clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-3015",
+    "category": "Thyroid finer source review",
+    "q": "What adrenal emergency can accompany source thyroid storm in a susceptible patient?",
+    "a": "Adrenal crisis with hypotension, particularly with underlying adrenal insufficiency; it names IV glucocorticoid in the emergency setting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-3016",
+    "category": "Thyroid finer source review",
+    "q": "How does taking T3 rather than T4 change the source exogenous-thyrotoxicosis pattern?",
+    "a": "T3 dosing raises T3 while T4 may be low and TSH suppressed; T4 dosing can raise both T4 and T3 because T4 is converted peripherally.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-3017",
+    "category": "Thyroid finer source review",
+    "q": "What source thyroid-nodule step comes before ordering TSH when both are offered?",
+    "a": "History/examination with thyroid palpation, rather than skipping the clinical assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-3018",
+    "category": "Thyroid finer source review",
+    "q": "What ectopic tissue explains hormone secretion in struma ovarii?",
+    "a": "Functioning thyroid tissue within an ovarian tumor, in its source endocrine differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-3019",
+    "category": "Calcium and adrenal finer source details",
+    "q": "What congenital heart defects does the source associate with DiGeorge syndrome?",
+    "a": "Tetralogy of Fallot and truncus arteriosus, alongside thymic/parathyroid developmental abnormalities.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-3020",
+    "category": "Calcium and adrenal finer source details",
+    "q": "What immunity pattern does the source contrast for absent thymic shadow versus scant lymphoid tissue?",
+    "a": "Absent thymic shadow suggests a T-cell problem; scant tonsils/lymph nodes suggest a B-cell problem. Combined findings raise its combined-immunodeficiency differential, not a complete diagnosis by imaging alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-3021",
+    "category": "Calcium and adrenal finer source details",
+    "q": "How does the source distinguish three similarly named bedside malignancy/electrolyte signs?",
+    "a": "Trousseau hypocalcemia: cuff-induced carpopedal spasm. Trousseau malignancy: migratory thrombophlebitis. Troisier: a left supraclavicular/Virchow node.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-3022",
+    "category": "Calcium and adrenal finer source details",
+    "q": "What variability does the PDF allow in magnesium-deficiency laboratory findings?",
+    "a": "Calcium, phosphate and PTH can be normal; its low-PTH arrow pattern is a forced-choice teaching pattern rather than obligatory in every case.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-3023",
+    "category": "Calcium and adrenal finer source details",
+    "q": "What high-bicarbonate clue supports the source calcium-alkali syndrome vignette?",
+    "a": "Hypercalcemia or stones with elevated/high-normal bicarbonate, prompting assessment for excess calcium-alkali intake rather than diagnosis from bicarbonate alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-3024",
+    "category": "Calcium and adrenal finer source details",
+    "q": "What acid-base pattern does the source associate with aldosterone deficiency in Addison disease?",
+    "a": "Low bicarbonate/metabolic acidosis with hyperkalemia, alongside low or low-normal blood pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-3025",
+    "category": "Calcium and adrenal finer source details",
+    "q": "Which stressor examples does the source give for glucocorticoid-associated psychiatric symptoms?",
+    "a": "Cushing syndrome with depression or a new delirium-like state after IV methylprednisolone, in its source vignettes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-3026",
+    "category": "Calcium and adrenal finer source details",
+    "q": "What licorice component does the PDF link to mineralocorticoid-like effects?",
+    "a": "Glycyrrhizic acid, with possible hypokalemia after excessive licorice intake.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
   }
 ];
