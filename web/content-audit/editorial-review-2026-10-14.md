@@ -500,3 +500,9 @@ ACR2026JIA status rechecked live: issuing-body page remains Step8/post-summary a
 ACOG2023CPG5 original webpage still gates detailed manuscript text, with an October2025clinicalupdate link. External ILPQC reproduction again exposes detailed lithium-ultrasound/monitoring text, but publisher detailed text/update not independently recovered. Do not promote the precise lithium recommendation beyond already verified official/general guidance. https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/06/treatment-and-management-of-mental-health-conditions-during-pregnancy-and-postpartum .
 
 Live390x844 renal-mineral card3079 separately displayed PDF answer and long expert-secondary note in full, Source link and p244link, with bottom review controls readable and no horizontal overflow. Actual screenshot070606inspected. Consolidated hormone card0377 showed both p113andp311links, no overflow; actual screenshot070449inspected.
+
+## October15 02:08 final broad-question overlap pass
+
+Fifteen additional confirmed repeated concepts consolidated without losing original records, now3026 active cards/230figures/609notes; historical3088 records and62 retired IDs. Merged incrementals into surviving answers for vasa-vasorum/aortic-aneurysm, loperamide symptom scope, and lymphatic examples. Distinct drug adverse-event symptoms, different acute/chronic mesenteric disease, different screening populations, source-error reconciliation versus ordinary recognition, and different anatomy remain separate. Sourcepages checked directly for these15; flat canonical map updated.
+
+Live actual CT-card1213 initially loaded after screenshot, then complete natural dimensions347x398 confirmed and second actual screenshot070722inspected. Full CT visible and legible, sourcep161, answer and bottom mark controls all fit390x844 with no overflow. First unloaded image was not accepted as a successful visual check.

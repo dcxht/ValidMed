@@ -2,6 +2,12 @@
   "reason": "Exact or near-identical source concept repeated across conversion passes. Full retired records retained for saved sessions, missed cards, flags and history. New sessions omit them; no local storage migration or deletion.",
   "duplicates": [
     {
+      "retired": "s2fm-0244",
+      "active": "s2fm-0686",
+      "retiredPage": 70,
+      "activePage": 188
+    },
+    {
       "retired": "s2fm-0520",
       "active": "s2fm-0135",
       "retiredPage": 155,
@@ -50,10 +56,22 @@
       "activePage": 74
     },
     {
+      "retired": "s2fm-1026",
+      "active": "s2fm-2254",
+      "retiredPage": 273,
+      "activePage": 273
+    },
+    {
       "retired": "s2fm-1029",
       "active": "s2fm-0177",
       "retiredPage": 276,
       "activePage": 53
+    },
+    {
+      "retired": "s2fm-1034",
+      "active": "s2fm-0173",
+      "retiredPage": 277,
+      "activePage": 52
     },
     {
       "retired": "s2fm-1035",
@@ -72,6 +90,12 @@
       "active": "s2fm-1597",
       "retiredPage": 279,
       "activePage": 71
+    },
+    {
+      "retired": "s2fm-1043",
+      "active": "s2fm-0015",
+      "retiredPage": 281,
+      "activePage": 7
     },
     {
       "retired": "s2fm-1049",
@@ -104,10 +128,22 @@
       "activePage": 161
     },
     {
+      "retired": "s2fm-1090",
+      "active": "s2fm-0580",
+      "retiredPage": 304,
+      "activePage": 163
+    },
+    {
       "retired": "s2fm-1099",
-      "active": "s2fm-0244",
+      "active": "s2fm-0686",
       "retiredPage": 307,
-      "activePage": 70
+      "activePage": 188
+    },
+    {
+      "retired": "s2fm-1100",
+      "active": "s2fm-0188",
+      "retiredPage": 308,
+      "activePage": 55
     },
     {
       "retired": "s2fm-1104",
@@ -134,10 +170,34 @@
       "activePage": 26
     },
     {
+      "retired": "s2fm-1268",
+      "active": "s2fm-0105",
+      "retiredPage": 4,
+      "activePage": 34
+    },
+    {
       "retired": "s2fm-1315",
       "active": "s2fm-0484",
       "retiredPage": 25,
       "activePage": 146
+    },
+    {
+      "retired": "s2fm-1316",
+      "active": "s2fm-2757",
+      "retiredPage": 26,
+      "activePage": 105
+    },
+    {
+      "retired": "s2fm-1331",
+      "active": "s2fm-0009",
+      "retiredPage": 5,
+      "activePage": 5
+    },
+    {
+      "retired": "s2fm-1333",
+      "active": "s2fm-0008",
+      "retiredPage": 5,
+      "activePage": 5
     },
     {
       "retired": "s2fm-1376",
@@ -156,6 +216,24 @@
       "active": "s2fm-0972",
       "retiredPage": 96,
       "activePage": 256
+    },
+    {
+      "retired": "s2fm-1805",
+      "active": "s2fm-2416",
+      "retiredPage": 119,
+      "activePage": 119
+    },
+    {
+      "retired": "s2fm-1898",
+      "active": "s2fm-0839",
+      "retiredPage": 151,
+      "activePage": 235
+    },
+    {
+      "retired": "s2fm-1915",
+      "active": "s2fm-1375",
+      "retiredPage": 154,
+      "activePage": 26
     },
     {
       "retired": "s2fm-2005",
@@ -192,6 +270,12 @@
       "active": "s2fm-0968",
       "retiredPage": 255,
       "activePage": 255
+    },
+    {
+      "retired": "s2fm-2225",
+      "active": "s2fm-0982",
+      "retiredPage": 258,
+      "activePage": 258
     },
     {
       "retired": "s2fm-2266",
@@ -237,9 +321,9 @@
     },
     {
       "retired": "s2fm-2512",
-      "active": "s2fm-1898",
+      "active": "s2fm-0839",
       "retiredPage": 280,
-      "activePage": 151
+      "activePage": 235
     },
     {
       "retired": "s2fm-2513",
@@ -266,6 +350,12 @@
       "activePage": 317
     },
     {
+      "retired": "s2fm-2697",
+      "active": "s2fm-1679",
+      "retiredPage": 85,
+      "activePage": 85
+    },
+    {
       "retired": "s2fm-2711",
       "active": "s2fm-0147",
       "retiredPage": 93,
@@ -278,10 +368,10 @@
       "activePage": 156
     },
     {
-      "retired": "s2fm-1090",
-      "active": "s2fm-0580",
-      "retiredPage": 304,
-      "activePage": 163
+      "retired": "s2fm-2923",
+      "active": "s2fm-2682",
+      "retiredPage": 185,
+      "activePage": 78
     }
   ]
 }

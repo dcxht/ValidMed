@@ -80,12 +80,15 @@ export default [
     "id": "s2fm-0008",
     "category": "Edema",
     "q": "Unilateral non-pitting edema after lymph-node surgery suggests what mechanism?",
-    "a": "Lymphatic insufficiency. Other examples in the PDF include malignancy and Wuchereria bancrofti infection.",
+    "a": "Lymphatic insufficiency. Source examples include malignancy causing peau d'orange, prior nodal/mastectomy surgery, and Wuchereria bancrofti infection.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 5,
       "url": "/mehlman/hy-family-medicine.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5
+    ]
   },
   {
     "id": "s2fm-0009",
@@ -96,7 +99,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 5,
       "url": "/mehlman/hy-family-medicine.pdf#page=5"
-    }
+    },
+    "sourcePages": [
+      5
+    ]
   },
   {
     "id": "s2fm-0010",
@@ -162,7 +168,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 7,
       "url": "/mehlman/hy-family-medicine.pdf#page=7"
-    }
+    },
+    "sourcePages": [
+      7,
+      281
+    ]
   },
   {
     "id": "s2fm-0016",
@@ -1176,7 +1186,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 34,
       "url": "/mehlman/hy-family-medicine.pdf#page=34"
-    }
+    },
+    "sourcePages": [
+      4,
+      34
+    ]
   },
   {
     "id": "s2fm-0106",
@@ -1951,7 +1965,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 52,
       "url": "/mehlman/hy-family-medicine.pdf#page=52"
-    }
+    },
+    "sourcePages": [
+      52,
+      277
+    ]
   },
   {
     "id": "s2fm-0174",
@@ -2120,7 +2138,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 55,
       "url": "/mehlman/hy-family-medicine.pdf#page=55"
-    }
+    },
+    "sourcePages": [
+      55,
+      308
+    ]
   },
   {
     "id": "s2fm-0189",
@@ -2744,7 +2766,8 @@ export default [
     "sourcePages": [
       70,
       307
-    ]
+    ],
+    "duplicateOf": "s2fm-0686"
   },
   {
     "id": "s2fm-0245",
@@ -7928,7 +7951,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 188,
       "url": "/mehlman/hy-family-medicine.pdf#page=188"
-    }
+    },
+    "sourcePages": [
+      70,
+      188,
+      307
+    ]
   },
   {
     "id": "s2fm-0687",
@@ -9663,7 +9691,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 235,
       "url": "/mehlman/hy-family-medicine.pdf#page=235"
-    }
+    },
+    "sourcePages": [
+      151,
+      235,
+      280
+    ]
   },
   {
     "id": "s2fm-0840",
@@ -11286,7 +11319,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 258,
       "url": "/mehlman/hy-family-medicine.pdf#page=258"
-    }
+    },
+    "sourcePages": [
+      258
+    ]
   },
   {
     "id": "s2fm-0983",
@@ -11785,7 +11821,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 273,
       "url": "/mehlman/hy-family-medicine.pdf#page=273"
-    }
+    },
+    "duplicateOf": "s2fm-2254"
   },
   {
     "id": "s2fm-1027",
@@ -11874,7 +11911,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 277,
       "url": "/mehlman/hy-family-medicine.pdf#page=277"
-    }
+    },
+    "duplicateOf": "s2fm-0173"
   },
   {
     "id": "s2fm-1035",
@@ -11976,7 +12014,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 281,
       "url": "/mehlman/hy-family-medicine.pdf#page=281"
-    }
+    },
+    "duplicateOf": "s2fm-0015"
   },
   {
     "id": "s2fm-1044",
@@ -12613,7 +12652,7 @@ export default [
       "page": 307,
       "url": "/mehlman/hy-family-medicine.pdf#page=307"
     },
-    "duplicateOf": "s2fm-0244"
+    "duplicateOf": "s2fm-0686"
   },
   {
     "id": "s2fm-1100",
@@ -12624,7 +12663,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 308,
       "url": "/mehlman/hy-family-medicine.pdf#page=308"
-    }
+    },
+    "duplicateOf": "s2fm-0188"
   },
   {
     "id": "s2fm-1101",
@@ -14769,7 +14809,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 4,
       "url": "/mehlman/hy-family-medicine.pdf#page=4"
-    }
+    },
+    "duplicateOf": "s2fm-0105"
   },
   {
     "id": "s2fm-1269",
@@ -15298,7 +15339,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 26,
       "url": "/mehlman/hy-family-medicine.pdf#page=26"
-    }
+    },
+    "duplicateOf": "s2fm-2757"
   },
   {
     "id": "s2fm-1317",
@@ -15471,7 +15513,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 5,
       "url": "/mehlman/hy-family-medicine.pdf#page=5"
-    }
+    },
+    "duplicateOf": "s2fm-0009"
   },
   {
     "id": "s2fm-1332",
@@ -15497,7 +15540,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 5,
       "url": "/mehlman/hy-family-medicine.pdf#page=5"
-    }
+    },
+    "duplicateOf": "s2fm-0008"
   },
   {
     "id": "s2fm-1334",
@@ -16014,7 +16058,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 26,
       "url": "/mehlman/hy-family-medicine.pdf#page=26"
-    }
+    },
+    "sourcePages": [
+      26,
+      154
+    ]
   },
   {
     "id": "s2fm-1376",
@@ -19500,7 +19548,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 85,
       "url": "/mehlman/hy-family-medicine.pdf#page=85"
-    }
+    },
+    "sourcePages": [
+      85
+    ]
   },
   {
     "id": "s2fm-1680",
@@ -20947,7 +20998,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 119,
       "url": "/mehlman/hy-family-medicine.pdf#page=119"
-    }
+    },
+    "duplicateOf": "s2fm-2416"
   },
   {
     "id": "s2fm-1806",
@@ -22034,7 +22086,8 @@ export default [
     "sourcePages": [
       151,
       280
-    ]
+    ],
+    "duplicateOf": "s2fm-0839"
   },
   {
     "id": "s2fm-1899",
@@ -22233,7 +22286,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 154,
       "url": "/mehlman/hy-family-medicine.pdf#page=154"
-    }
+    },
+    "duplicateOf": "s2fm-1375"
   },
   {
     "id": "s2fm-1916",
@@ -25941,7 +25995,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 258,
       "url": "/mehlman/hy-family-medicine.pdf#page=258"
-    }
+    },
+    "duplicateOf": "s2fm-0982"
   },
   {
     "id": "s2fm-2226",
@@ -26280,7 +26335,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 273,
       "url": "/mehlman/hy-family-medicine.pdf#page=273"
-    }
+    },
+    "sourcePages": [
+      273
+    ]
   },
   {
     "id": "s2fm-2255",
@@ -28462,7 +28520,10 @@ export default [
     "guideline": {
       "text": "CDC crusted-scabies guidance recommends combined oral and topical treatment, typically ivermectin plus permethrin, with duration based on severity. Immunocompromise alone does not define the phenotype; its extent requires assessment.",
       "url": "https://www.cdc.gov/scabies/hcp/clinical-overview/index.html"
-    }
+    },
+    "sourcePages": [
+      119
+    ]
   },
   {
     "id": "s2fm-2417",
@@ -29808,7 +29869,7 @@ export default [
       "page": 280,
       "url": "/mehlman/hy-family-medicine.pdf#page=280"
     },
-    "duplicateOf": "s2fm-1898"
+    "duplicateOf": "s2fm-0839"
   },
   {
     "id": "s2fm-2513",
@@ -32085,12 +32146,16 @@ export default [
     "id": "s2fm-2682",
     "category": "GI pharmacology and anemia source review",
     "q": "Which source oral opioid is used for diarrhea-predominant IBS?",
-    "a": "Loperamide, a mu-opioid agonist whose bowel-slowing effect reduces diarrhea.",
+    "a": "Loperamide, a mu-opioid agonist whose bowel-slowing effect reduces diarrhea; this source answer does not claim comprehensive treatment of all IBS symptoms.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
-    }
+    },
+    "sourcePages": [
+      78,
+      185
+    ]
   },
   {
     "id": "s2fm-2683",
@@ -32275,7 +32340,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 85,
       "url": "/mehlman/hy-family-medicine.pdf#page=85"
-    }
+    },
+    "duplicateOf": "s2fm-1679"
   },
   {
     "id": "s2fm-2698",
@@ -33047,12 +33113,16 @@ export default [
     "id": "s2fm-2757",
     "category": "STI and cervical source detail review",
     "q": "What vascular complication does the source associate with tertiary syphilis?",
-    "a": "Ascending aortitis with tree-bark changes involving the vasa vasorum.",
+    "a": "Ascending aortitis with tree-bark changes involving the vasa vasorum and possible aneurysmal dilation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 105,
       "url": "/mehlman/hy-family-medicine.pdf#page=105"
-    }
+    },
+    "sourcePages": [
+      26,
+      105
+    ]
   },
   {
     "id": "s2fm-2758",
@@ -35083,7 +35153,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 185,
       "url": "/mehlman/hy-family-medicine.pdf#page=185"
-    }
+    },
+    "duplicateOf": "s2fm-2682"
   },
   {
     "id": "s2fm-2924",
