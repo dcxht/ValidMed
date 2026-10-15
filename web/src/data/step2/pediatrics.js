@@ -9694,5 +9694,365 @@ export default [
       "text": "Merck April 2026 separately describes chronic marrow-hyperactivity bone changes and paravertebral extramedullary hematopoiesis. Splenomegaly may also involve RBC destruction/hypersplenism, rather than being explained only by new blood production.",
       "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/thalassemias"
     }
+  },
+  {
+    "id": "s2peds-0721",
+    "category": "Pediatric hematology",
+    "q": "What anemia does the source favor in a child with renal failure, JIA/JRA, IBD, SLE or malignancy?",
+    "a": "Anemia of chronic disease, also called anemia of inflammation. The chronic condition provides the context for a low hemoglobin, but does not exclude an additional cause of anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 describes chronic infection, autoimmune disease, kidney disease and cancer as common settings, with a microcytic or normocytic, low-reticulocyte anemia.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0722",
+    "category": "Pediatric hematology",
+    "q": "What iron-study pattern does the source give for anemia of chronic disease?",
+    "a": "Low serum iron with normal or sometimes increased ferritin. The iron is poorly available for erythropoiesis despite retained stores; ferritin must be interpreted in the inflammatory context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 also describes low transferrin/TIBC. Ferritin is an acute-phase reactant, and concurrent iron deficiency remains possible.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0723",
+    "category": "Pediatric hematology",
+    "q": "Does normal ferritin prove that an inflamed child is not iron deficient, as the source claims?",
+    "a": "No. That source exclusion rule is unsafe: inflammation can raise ferritin and mask depleted iron stores. Anemia of inflammation and iron deficiency may coexist.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 explicitly discusses superimposed iron deficiency and additional indices such as soluble transferrin receptor and reticulocyte hemoglobin when the standard studies are unclear. A single normal ferritin is not a universal rule-out.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0724",
+    "category": "Pediatric hematology",
+    "q": "How do inflammatory cytokines contribute to the source anemia-of-chronic-disease mechanism?",
+    "a": "The source names IL-6 and TNF-alpha: inflammation reduces iron availability and limits red-cell production. It is not simply loss of dietary iron.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 describes cytokine-associated hepcidin synthesis, decreased EPO production and marrow responsiveness, and impaired erythroid proliferation/differentiation.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0725",
+    "category": "Pediatric hematology",
+    "q": "What does liver-derived hepcidin do in the source anemia-of-inflammation explanation?",
+    "a": "It reduces intestinal iron absorption and promotes retention of iron in storage cells, leaving less iron available for hemoglobin synthesis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 describes inhibition of absorption and recycling with macrophage iron sequestration. This links the low serum iron to the inflammatory state.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0726",
+    "category": "Pediatric hematology",
+    "q": "What EPO-related answer does the source emphasize in renal-failure anemia?",
+    "a": "The source uses cytokine-mediated EPO deficiency and considers renal failure its highest-yield exam setting. EPO deficiency contributes, but actual CKD anemia is assessed for other correctable causes as well.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "KDIGO 2026 pediatric CKD guidance first evaluates iron status and other causes, then individualizes ESA initiation based on symptoms, potential benefits and harms. Renal failure is not an automatic ESA prescription.",
+      "url": "https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-Anemia-Guideline-Central-Illustration-5-Children-with-Anemia.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0727",
+    "category": "Pediatric hematology",
+    "q": "Is EPO appropriate only for renal anemia and always wrong otherwise, as the source says?",
+    "a": "No. The source renal-versus-nonrenal shortcut is not a universal treatment rule. Treat the underlying condition and establish the specific indication before considering an ESA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 also lists selected chemotherapy-induced anemia and some preoperative settings. These general-review examples do not establish an ESA indication in every child with cancer or inflammation.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0728",
+    "category": "Pediatric hematology",
+    "q": "How should the source RA/JRA answer no specific measures indicated be understood?",
+    "a": "As an attributed NBME anemia-treatment anecdote, not an instruction to leave arthritis untreated. Mild anemia of inflammation may need no anemia-specific intervention while the underlying disease is managed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 says treatment targets the underlying disorder; transfusion is usually unnecessary because the anemia is generally mild. The exact recalled NBME question and answer-choice wording are not independently verified.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0729",
+    "category": "Pediatric hematology",
+    "q": "Does a low MCV exclude the source anemia of chronic disease?",
+    "a": "No. It can be normocytic or microcytic. The source recalls JRA cases with MCV 72 or 75 fL and warns against rejecting inflammation solely because MCV is low.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck March 2025 confirms both morphologies. The author claim that about half of NBME questions are microcytic is an unverified exam-frequency observation, not a measured clinical prevalence.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/anemia-of-chronic-disease"
+    }
+  },
+  {
+    "id": "s2peds-0730",
+    "category": "Pediatric hematology",
+    "q": "What does ITP stand for in the source pediatric differential?",
+    "a": "Immune thrombocytopenia, historically called idiopathic/immune thrombocytopenic purpura. The source links it to platelet-directed antibodies, specifically glycoprotein IIb/IIIa.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck June 2026 describes autoantibodies against structural platelet antigens, increased destruction, usually in the spleen, and impaired platelet production. The disease is not only a failure of aggregation.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/immune-thrombocytopenia-itp"
+    }
+  },
+  {
+    "id": "s2peds-0731",
+    "category": "Pediatric hematology",
+    "q": "Which source laboratory pattern points toward ITP rather than a clotting-factor deficiency?",
+    "a": "Thrombocytopenia with usually normal PT and aPTT. The source gives a usual platelet reference range of 150,000-450,000/microliter and counts below 100,000 in its ITP vignettes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck June 2026 emphasizes otherwise isolated thrombocytopenia, blood-smear review and exclusion of alternative causes. Local reference intervals vary; a low platelet count alone does not establish ITP.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/immune-thrombocytopenia-itp"
+    }
+  },
+  {
+    "id": "s2peds-0732",
+    "category": "Pediatric hematology",
+    "q": "Why does the source contrast bleeding time with PT/aPTT in ITP?",
+    "a": "Platelet loss impairs primary hemostasis, whereas PT/aPTT test coagulation pathways and are usually normal in isolated ITP. The PDF uses prolonged bleeding time to represent this platelet problem.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "The January 2026 VWD laboratory review calls invasive bleeding-time testing obsolete because of poor sensitivity/specificity and variability. The source pattern is historical physiology, not an instruction to order a bleeding time.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0733",
+    "category": "Pediatric hematology",
+    "q": "What infection-related mechanism does the source use for childhood ITP?",
+    "a": "A viral illness can precede platelet autoimmunity, described in the PDF as cross-reactive antibodies and a type II hypersensitivity example. A symptomatic preceding infection is not required.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck June 2026 says childhood autoantibodies may be triggered by viral antigens and describes both platelet destruction and reduced production. The PDF statement that about 50% of exam infections are asymptomatic is not independently verified.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/immune-thrombocytopenia-itp"
+    }
+  },
+  {
+    "id": "s2peds-0734",
+    "category": "Pediatric hematology",
+    "q": "Should every child with ITP receive steroids first, as the source insists?",
+    "a": "No. The source dismissal of observation is unsafe. In newly diagnosed childhood ITP with no or minor bleeding, observation with appropriate follow-up can be preferred over medication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "ASH 2019 pediatric recommendations 11-13 favor observation over corticosteroids, IVIG and anti-D for no/minor bleeding. These are pediatric recommendations, not an adult ITP treatment pathway.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
+  },
+  {
+    "id": "s2peds-0735",
+    "category": "Pediatric hematology",
+    "q": "What does ASH recommend for a child with ITP and non-life-threatening mucosal bleeding or reduced quality of life?",
+    "a": "A short corticosteroid course may be appropriate after weighing the individual situation. This is different from treating every asymptomatic child or applying a rigid steroids-then-IVIG rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "ASH 2019 recommendations 14-18 limit corticosteroids to 7 days or less, suggest prednisone rather than dexamethasone, and favor a short steroid course over IVIG in this specified nonmajor-bleeding setting. These recommendations do not cover critical hemorrhage.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
+  },
+  {
+    "id": "s2peds-0736",
+    "category": "Pediatric hematology",
+    "q": "Why is the source steroids, then IVIG, then splenectomy sequence not a universal pediatric ITP pathway?",
+    "a": "Management depends on bleeding, quality of life, response and urgency. Observation may suffice; IVIG has selected uses, and splenectomy is not the automatic next step after medication failure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "ASH 2019 pediatric recommendations 19-21 favor a TPO-receptor agonist over rituximab or splenectomy and rituximab over splenectomy for children with non-life-threatening mucosal bleeding/reduced quality of life who do not respond to first-line treatment.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
+  },
+  {
+    "id": "s2peds-0737",
+    "category": "Pediatric hematology",
+    "q": "Can life-threatening ITP bleeding wait for the source routine medication sequence?",
+    "a": "No. It needs emergency specialist treatment, including rapid platelet-raising therapy and platelet transfusion when bleeding is life threatening. The PDF claim that steroids must precede IVIG in every case should not delay care.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "Merck June 2026 discusses IVIG, high-dose corticosteroids and platelet transfusion for life-threatening bleeding, and distinguishes this from prophylactic platelet transfusion. The ASH 2019 routine-treatment guidance does not address this emergency population.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/immune-thrombocytopenia-itp"
+    }
+  },
+  {
+    "id": "s2peds-0738",
+    "category": "Pediatric hematology",
+    "q": "What does the source suggest when ITP improves after splenectomy but relapses six months later?",
+    "a": "Consider residual/accessory splenic tissue. The source describes a small accessory spleen that can enlarge after removal of the main spleen; the vignette is a clue, not proof of the cause of every relapse.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "A 2011 retrospective series included 4 children and 10 adults with refractory ITP and accessory spleens. Responses to removal were variable, so this small older study supports a possible mechanism, not guaranteed surgical cure or a routine treatment recommendation.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajh.22011"
+    }
+  },
+  {
+    "id": "s2peds-0739",
+    "category": "Pediatric hematology",
+    "q": "What inheritance pattern does the source emphasize for von Willebrand disease, and what is the important exception?",
+    "a": "Autosomal dominant is the common source pattern, but not every VWD subtype is dominant. Do not exclude VWD simply because the pedigree does not fit a dominant pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "CDC May 2024: type 1 and most type 2 are autosomal dominant; type 3 and type 2N are autosomal recessive.",
+      "url": "https://www.cdc.gov/von-willebrand/about/how-vwd-is-inherited.html"
+    }
+  },
+  {
+    "id": "s2peds-0740",
+    "category": "Pediatric hematology",
+    "q": "What bridge does vWF form in the source platelet-adhesion explanation?",
+    "a": "It connects platelet glycoprotein Ib with exposed subendothelial collagen at a vascular injury. Loss of that function impairs adhesion and primary hemostasis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "The January 2026 VWD diagnostic review describes collagen-bound VWF unfolding to expose its platelet-binding site, which interacts with GPIb. This is adhesion, distinct from the IIb/IIIa aggregation pathway.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0741",
+    "category": "Pediatric hematology",
+    "q": "What PT/aPTT pattern does the source associate with VWD?",
+    "a": "PT is typically normal, while aPTT may be prolonged or normal. A normal aPTT does not rule out VWD; the source approximately 50% vignette frequency is an author observation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "The January 2026 review explains that reduced factor VIII can prolong aPTT and specifically warns that normal aPTT does not exclude VWD. Initial specific tests include VWF antigen/activity and factor VIII activity.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0742",
+    "category": "Pediatric hematology",
+    "q": "What second function of vWF explains the source possible aPTT prolongation?",
+    "a": "vWF carries and stabilizes circulating factor VIII. Reduced factor VIII can affect the intrinsic pathway even though platelet adhesion is the prominent source clinical theme.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "The January 2026 review describes VWF as the natural FVIII carrier and notes variable FVIII reductions across VWD types. Calling this a secondary role must not imply that low FVIII is clinically irrelevant.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0743",
+    "category": "Pediatric hematology",
+    "q": "Does the source normal platelet count apply to every subtype of VWD?",
+    "a": "No. The platelet count is usually normal because VWF dysfunction chiefly affects adhesion rather than platelet number, but type 2B can be associated with thrombocytopenia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "The January 2026 diagnostic review explicitly notes low platelet counts in type 2B. The source prolonged-bleeding-time statement is historical; bleeding-time testing is obsolete.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0744",
+    "category": "Pediatric hematology",
+    "q": "What age and bleeding combination does the source use to recognize VWD?",
+    "a": "A teenager or young adult with mucocutaneous bleeding such as bruising/petechiae or epistaxis and a possible coagulation-factor clue. The table continues on p55; this is not the complete disease presentation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 54,
+      "url": "/mehlman/hy-pediatrics.pdf#page=54"
+    },
+    "guideline": {
+      "text": "The January 2026 review describes a broad bleeding phenotype, including minor-wound bleeding, nosebleeds, heavy menstrual bleeding and procedural bleeding. The source eight-in-ten exam and mixed-platelet/factor pattern are not a validated diagnostic rule or an age restriction.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
   }
 ];
