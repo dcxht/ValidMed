@@ -25534,8 +25534,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=253"
     },
     "guideline": {
-      "text": "CCJM 2025 review of the 2024 multi-society consensus: routine bicarbonate is not recommended; consider it for severe acidosis with pH <7.0. This note is grounded in the clinical review, not a fully retrieved primary treatment section.",
-      "url": "https://www.ccjm.org/content/92/3/152"
+      "text": "The 2024 primary multi-society consensus advises against routine bicarbonate but considers it in severe acidosis, pH below 7.0. This is monitored hospital care, not a universal never-use rule.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
     }
   },
   {
@@ -25549,8 +25549,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=253"
     },
     "guideline": {
-      "text": "CCJM 2025 review of 2024 consensus: if potassium is below 3.5 mmol/L, replace potassium and postpone insulin until it is above 3.5 mmol/L. Monitor/replete throughout treatment; this is a hospital protocol.",
-      "url": "https://www.ccjm.org/content/92/3/152"
+      "text": "The 2024 primary multi-society consensus delays insulin if potassium is below 3.5 mmol/L until replacement raises it above 3.5 mmol/L, with ongoing monitoring/repletion. This is a hospital protocol.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
     }
   },
   {
@@ -29054,6 +29054,66 @@ export default [
     "guideline": {
       "text": "MedlinePlus Genetics identifies primary pigmented nodular adrenocortical disease as the cortisol-excess lesion in about one-quarter of people with Carney complex. PRKAR1A variants cause most cases, rather than pigmentation alone defining the mechanism.",
       "url": "https://medlineplus.gov/genetics/condition/carney-complex/"
+    }
+  },
+  {
+    "id": "s2fm-2476",
+    "category": "Diabetes exact-source review",
+    "q": "What universal filtration change does the PDF place in the DKA laboratory pattern?",
+    "a": "Increased GFR from hyperglycemic hyperfiltration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "The 2024 multi-society consensus lists acute kidney injury as common in DKA/HHS and often reversible with rehydration. Chronic diabetic hyperfiltration does not make increased GFR a universal finding in an acute dehydrating crisis.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
+    }
+  },
+  {
+    "id": "s2fm-2477",
+    "category": "Diabetes exact-source review",
+    "q": "What sodium-pump explanation does the PDF add to dilutional hyponatremia in DKA?",
+    "a": "It says lack of cellular glucose/ATP reduces Na/K-ATPase activity, leaving sodium inside cells.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "The 2024 multi-society consensus emphasizes hyperglycemic hypertonicity moving intracellular water into extracellular space, plus osmotic diuresis and fluid/electrolyte loss. It does not establish that sodium-pump narrative as the main cause of measured hyponatremia.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
+    }
+  },
+  {
+    "id": "s2fm-2478",
+    "category": "Diabetes exact-source review",
+    "q": "What ketone rule does the PDF give for acute type 2 diabetes?",
+    "a": "Ketones are low rather than high because insulin remains present.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "The 2024 multi-society consensus recognizes DKA in type 2 diabetes and mixed DKA/HHS. HHS lacks severe ketonemia but may have mild ketones; diabetes type cannot substitute for ketone and acid-base testing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
+    }
+  },
+  {
+    "id": "s2fm-2479",
+    "category": "Diabetes exact-source review",
+    "q": "What does the PDF infer from low bicarbonate in a patient taking metformin?",
+    "a": "It treats low bicarbonate as lactic acidosis caused by metformin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "FDA GLUMETZA August 2026 label describes elevated lactate, anion-gap acidosis and the clinical/risk setting. Low bicarbonate alone neither proves lactate accumulation nor establishes metformin as the cause. Suspected metformin-associated lactic acidosis requires urgent hospital care.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
     }
   }
 ];
