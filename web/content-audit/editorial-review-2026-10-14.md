@@ -652,3 +652,7 @@ Nativebrowserimagezoomactuallytestedonrestoredvisualpathwayasset03:01,1174pxwide
 
 ## Neurocutaneous/FAS late-card consistency, October15 03:11CDT
 3158/3159NINDSdirectNF1/NF2SWNsymptom/diagnosisparagraphsread https://www.ninds.nih.gov/health-information/disorders/neurofibromatosis :opticpathwayglioma/LischnodulesNF1,vestibularschwannoma/meningioma/ependymomaNF2SWN,childhoodcataractsrecognized. Doesnotclaimrareotherlesionsimpossible.3155CDCcurrentFASDsfullcauses/signs/typesread https://cdc.gov/fasd/about/ :rangeofphysical/behavioral/learningfindings,FASpartofspectrum,nounrestrictedmost-commonIDcausecorroborated. Originalrankingremainslabeledunverified,nofalseproofbyabsence.
+
+## Tardive/tic distinction and occult-wrist imaging, October15 03:12CDT
+3188NIMHdirectantipsychoticparagraphread https://www.nimh.nih.gov/health/topics/mental-health-medications drug-associateduncontrollableTDmovements,notstopmedswithoutprovider;NINDSsimple/complexmotor/vocalticdefinitionsread https://www.ninds.nih.gov/health-information/disorders/tourette-syndrome . OldarchivedNINDSTDsearchhitsnotusedascurrentguidance.
+3253ACRprimaryAcuteHandandWristTrauma2018Variant2tablefulltextread https://acsearch.acr.org/list/TopicNarrativePdf?topicId=77 repeatfilms10-14d/noncontrastMRI/noncontrastCTallUsuallyAppropriate;explicit2018datenotclaimednewlyupdatedguideline. Preservessource2-3wrepeatfilmanswerwithseparateoptionsnote.

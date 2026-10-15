@@ -40430,6 +40430,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 181,
       "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "NIMH describes tardive dyskinesia as medication-associated uncontrollable muscle movements; NINDS separately describes tics as sudden, brief, repetitive movements or vocalizations. These are different clinical categories, even though some movements can look similar. The PDF label should not replace a movement-disorder assessment, and medication should not be stopped without the prescriber.",
+      "url": "https://www.nimh.nih.gov/health/topics/mental-health-medications"
     }
   },
   {
@@ -41194,7 +41198,11 @@ export default [
     "sourcePages": [
       222,
       264
-    ]
+    ],
+    "guideline": {
+      "text": "ACR Acute Hand and Wrist Trauma criteria (2018, explicitly dated) list repeat radiographs at 10-14 days, noncontrast MRI or noncontrast CT as usually appropriate next imaging when initial radiographs are negative or equivocal. The PDF two-to-three-week repeat-film route is not the only option, and a negative initial film does not exclude an occult scaphoid injury.",
+      "url": "https://acsearch.acr.org/list/TopicNarrativePdf?topicId=77"
+    }
   },
   {
     "id": "s2fm-3254",
