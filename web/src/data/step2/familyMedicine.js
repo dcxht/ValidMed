@@ -40310,5 +40310,104 @@ export default [
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
     }
+  },
+  {
+    "id": "s2fm-3292",
+    "category": "Final source-mapping details",
+    "q": "What additional skull and mineralization findings does the PDF list for rickets?",
+    "a": "Craniotabes (soft skull), rachitic rosary and tibial bowing; activated vitamin D is needed for mineralizing osteoid into hydroxyapatite. Its low calcium/phosphate and high PTH pattern is separately recorded.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-3293",
+    "category": "Final source-mapping details",
+    "q": "What treatment does the PDF give for its uncomplicated growing-pains vignette?",
+    "a": "No treatment is necessary in its otherwise healthy child aged 3-12 with nocturnal throbbing leg pains. This source reassurance is not a rule for persistent focal pain, systemic illness or an abnormal examination.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-3294",
+    "category": "Final source-mapping details",
+    "q": "What precise age contrast does the PDF use for Perthes disease versus SCFE?",
+    "a": "Perthes at about 5-8 years versus SCFE at about 10-13 years. These are its exam pattern ages, not absolute exclusion boundaries; SCFE can occur without obesity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2fm-3295",
+    "category": "Final source-mapping details",
+    "q": "How does the PDF distinguish idiopathic Perthes disease from a known cause of femoral-head necrosis?",
+    "a": "If a cause such as Gaucher disease, sickle-cell disease or corticosteroid exposure is identified, it calls the process avascular necrosis rather than idiopathic Legg-Calve-Perthes disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-3296",
+    "category": "Final source-mapping details",
+    "q": "Which syphilis screening result does the source link with lupus antiphospholipid antibodies?",
+    "a": "A false-positive VDRL result. It separately identifies anti-Smith as ribonucleoprotein-directed and highly specific for SLE.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-3297",
+    "category": "Final source-mapping details",
+    "q": "What hearing symptom and ALP exception does the source mention with Paget disease?",
+    "a": "Tinnitus from its described narrowing of acoustic foramina, and a rare vignette with normal rather than increased alkaline phosphatase. Its high-output cardiac mechanism is separately recorded.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-3298",
+    "category": "Final source-mapping details",
+    "q": "What age range and tumor-ranking claim does the PDF give for osteosarcoma?",
+    "a": "Usually age 10-30 and the most common primary bone cancer, in its source account. This ranking depends on the population and whether marrow malignancies are counted; it is not independently verified here.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-3299",
+    "category": "Final source-mapping details",
+    "q": "What cellular-origin phrase does the source use for Ewing sarcoma?",
+    "a": "Small blue cells of neuroendocrine origin, alongside its diaphyseal/onion-skin and t(11;22) clues. This is the source phrase, not a newly verified modern cell-of-origin statement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-3300",
+    "category": "Final source-mapping details",
+    "q": "Which neonatal neck-mass presentation does the PDF distinguish as lingual thyroid?",
+    "a": "Hypothyroidism with a high midline neck mass in a neonate or infant; compression can affect swallowing, voice or breathing. Its claim that tongue movement/scan uptake instead imply a thyroglossal cyst is a source shortcut, not a reliable stand-alone exclusion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
   }
 ];
