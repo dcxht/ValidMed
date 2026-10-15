@@ -13503,5 +13503,247 @@ export default [
       "page": 69,
       "url": "/mehlman/hy-pediatrics.pdf#page=69"
     }
+  },
+  {
+    "id": "s2peds-0974",
+    "category": "Pediatric urology and hernias",
+    "q": "How does the source distinguish spermatocele from a neonatal hydrocele by age and transillumination?",
+    "a": "A spermatocele usually occurs in an adult rather than a neonate and transilluminates, as a hydrocele does. Age and anatomy distinguish them better than light transmission alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    },
+    "guideline": {
+      "text": "Merck describes spermatocele as a cystic upper-pole mass adjacent to the epididymis that transilluminates. A cystic light-transmitting mass is not automatically a hydrocele.",
+      "url": "https://www.merckmanuals.com/professional/genitourinary-disorders/symptoms-of-genitourinary-disorders/painless-scrotal-mass"
+    }
+  },
+  {
+    "id": "s2peds-0975",
+    "category": "Pediatric urology and hernias",
+    "q": "What is a varicocele, and does it transilluminate like a hydrocele or spermatocele?",
+    "a": "Dilation and congestion of the pampiniform venous plexus draining the testis. The source contrasts a nontransilluminating varicocele with the transilluminating fluid collections of hydrocele and spermatocele.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    },
+    "guideline": {
+      "text": "EAU 2026 defines varicocele as abnormal testicular-vein dilation in the pampiniform plexus caused by venous reflux. It becomes more frequent at puberty and is unusual below age ten.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/varicocele-in-children-and-adolescents"
+    }
+  },
+  {
+    "id": "s2peds-0976",
+    "category": "Pediatric urology and hernias",
+    "q": "What diagnosis is suggested by a scrotal bag of worms or heavy dragging swelling, often lower on the left?",
+    "a": "Varicocele. The PDF says an NBME question uses the literal bag-of-worms description and also describes a heavy dragging sensation on the left.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    },
+    "guideline": {
+      "text": "Merck describes a standing, Valsalva-enhanced bag-of-worms mass, often with pain or fullness when standing. This is a clinical clue, not a substitute for evaluating an uncertain scrotal mass.",
+      "url": "https://www.merckmanuals.com/professional/genitourinary-disorders/symptoms-of-genitourinary-disorders/painless-scrotal-mass"
+    }
+  },
+  {
+    "id": "s2peds-0977",
+    "category": "Pediatric urology and hernias",
+    "q": "What venous drainage pattern explains the source left-sided varicocele tendency?",
+    "a": "Left testicular vein to left renal vein to inferior vena cava; right testicular vein directly to inferior vena cava. The PDF emphasizes the left vein entering the renal vein at a right angle and a tendency to venous-pressure backup.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    },
+    "guideline": {
+      "text": "EAU 2026 supports predominant left-sided disease and left spermatic-vein drainage into the renal vein. Its pathophysiology discussion says the mechanism is not fully understood; the PDF right-angle account is a simplified anatomical explanation.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/varicocele-in-children-and-adolescents"
+    }
+  },
+  {
+    "id": "s2peds-0978",
+    "category": "Pediatric urology and hernias",
+    "q": "Can a varicocele be bilateral or isolated on the right, despite the source left-sided shortcut?",
+    "a": "Yes. The PDF explicitly preserves a bilateral-varicocele NBME example rather than making the left-sided tendency an absolute rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    },
+    "guideline": {
+      "text": "EAU 2026 reports 78-93% on the left. Right-sided disease is usually part of bilateral disease, with isolated right varicocele uncommon. It recommends abdominal ultrasound for an isolated right varicocele or any prepubertal varicocele to assess for a secondary retroperitoneal cause.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/varicocele-in-children-and-adolescents"
+    }
+  },
+  {
+    "id": "s2peds-0979",
+    "category": "Pediatric urology and hernias",
+    "q": "How can nephrotic syndrome connect to the source left-sided varicocele?",
+    "a": "The source chain is urinary loss of antithrombin III, hypercoagulability, left renal vein thrombosis and impaired left testicular venous drainage. This is a possible secondary cause, not the cause of every varicocele.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    },
+    "guideline": {
+      "text": "Merck supports urinary antithrombin III loss and increased renal-vein thrombosis risk in nephrotic syndrome, with additional mechanisms including clotting-factor synthesis, platelet abnormalities and hyperviscosity. The source single-protein explanation is not exhaustive.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/overview-of-nephrotic-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-0980",
+    "category": "Pediatric urology and hernias",
+    "q": "Which canal openings and duct-vessel structures are labeled in this actual spermatic-cord source diagram?",
+    "a": "The deep inguinal ring and superficial inguinal ring; an obliterated processus vaginalis, vas deferens, testicular veins and testicular artery. The cross-section shows the spermatic cord just distal to the superficial ring.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    },
+    "img": "/mehlman/figures/peds-p070-spermatic-cord.jpg"
+  },
+  {
+    "id": "s2peds-0981",
+    "category": "Pediatric urology and hernias",
+    "q": "Which tissue layers does the source spermatic-cord diagram label, from the abdominal wall toward the testis?",
+    "a": "It labels skin and subcutaneous tissue, external oblique, internal oblique, transversalis muscle and fascia, preperitoneal space and peritoneum. Around the scrotal cord and testis it separately labels dartos, external spermatic fascia, cremaster, internal spermatic fascia and tunica vaginalis. The full diagram is on the source page.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2peds-0982",
+    "category": "Pediatric urology and hernias",
+    "q": "Where does a direct inguinal hernia pass relative to the inferior epigastric vessels?",
+    "a": "Medial to the inferior epigastric vessels through the weakened abdominal wall in Hesselbach triangle. The source diagram continues onto page 71.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2peds-0983",
+    "category": "Pediatric urology and hernias",
+    "q": "What are the three source borders of Hesselbach triangle?",
+    "a": "Inguinal ligament inferiorly, lateral border of rectus abdominis medially, and inferior epigastric vessels laterally. A direct inguinal hernia protrudes within this triangle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2peds-0984",
+    "category": "Pediatric urology and hernias",
+    "q": "Which abdominal-wall weakening factors does the source associate with direct inguinal hernia?",
+    "a": "Idiopathic weakening with aging, chronic straining and previous surgical incisions. The source presents these as ways the wall can become weak, rather than a patent processus-vaginalis mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 70,
+      "url": "/mehlman/hy-pediatrics.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2peds-0985",
+    "category": "Pediatric urology and hernias",
+    "q": "What hernia is depicted medial to the epigastric vessels and projecting directly through the abdominal wall?",
+    "a": "Direct inguinal hernia. The source figure labels its medial position and direct projection through the wall, contrasting it with the indirect route through the inguinal ring.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 71,
+      "url": "/mehlman/hy-pediatrics.pdf#page=71"
+    },
+    "img": "/mehlman/figures/peds-p071-direct-hernia.jpg"
+  },
+  {
+    "id": "s2peds-0986",
+    "category": "Pediatric urology and hernias",
+    "q": "What developmental defect and vessel relationship identify an indirect inguinal hernia?",
+    "a": "A patent processus vaginalis allows abdominal contents to herniate lateral to the inferior epigastric vessels, following the inguinal canal toward the scrotum. In the actual source figure the hernia projects through the inguinal ring.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 71,
+      "url": "/mehlman/hy-pediatrics.pdf#page=71"
+    },
+    "img": "/mehlman/figures/peds-p071-indirect-hernia.jpg"
+  },
+  {
+    "id": "s2peds-0987",
+    "category": "Pediatric urology and hernias",
+    "q": "How do direct and indirect inguinal hernias differ in the source pathway comparison?",
+    "a": "Direct: medial to the inferior epigastric vessels through Hesselbach triangle and abdominal wall. Indirect: lateral to the vessels through the inguinal ring and canal, potentially extending into the scrotum. Medial versus lateral refers to the inferior epigastric vessels.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 71,
+      "url": "/mehlman/hy-pediatrics.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2peds-0988",
+    "category": "Pediatric urology and hernias",
+    "q": "What is the source umbilical hernia, and which endocrine disease is an exam association?",
+    "a": "Small bowel herniates through the umbilicus under intact skin. The source says it can occur at any age and highlights congenital hypothyroidism as an NBME association, not a diagnosis established by the hernia alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 71,
+      "url": "/mehlman/hy-pediatrics.pdf#page=71"
+    },
+    "guideline": {
+      "text": "Merck lists umbilical hernia among signs of congenital hypothyroidism, along with features such as prolonged jaundice, macroglossia and hypotonia. An umbilical hernia by itself does not establish thyroid disease.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/hypothyroidism-in-infants-and-children"
+    }
+  },
+  {
+    "id": "s2peds-0989",
+    "category": "Pediatric urology and hernias",
+    "q": "How does the source distinguish an ordinary umbilical hernia from an omphalocele?",
+    "a": "An umbilical hernia is covered by skin. An omphalocele is a congenital midline umbilical defect with herniated viscera covered by a thin translucent membrane rather than normal skin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 71,
+      "url": "/mehlman/hy-pediatrics.pdf#page=71"
+    },
+    "guideline": {
+      "text": "Merck August 2025 confirms a midline defect at the base of the umbilicus and a thin membranous covering. The PDF calls the covering a peritoneal membrane; retain its skin-versus-membrane distinction without treating that shorthand as a complete histological description.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/omphalocele"
+    }
+  },
+  {
+    "id": "s2peds-0990",
+    "category": "Pediatric urology and hernias",
+    "q": "Which chromosomal and overgrowth conditions does the source associate with omphalocele?",
+    "a": "Trisomy 13, trisomy 18 and Beckwith-Wiedemann syndrome. The source says it can also occur without a named syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 71,
+      "url": "/mehlman/hy-pediatrics.pdf#page=71"
+    },
+    "guideline": {
+      "text": "Merck August 2025 lists these associations, plus trisomy 21, cardiac and renal anomalies and bowel atresia. About two-thirds have other congenital anomalies, so the source list is important but not exhaustive.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/omphalocele"
+    }
+  },
+  {
+    "id": "s2peds-0991",
+    "category": "Pediatric urology and hernias",
+    "q": "In the actual source abdominal-wall photographs, which side has gastroschisis and which has omphalocele?",
+    "a": "Left: gastroschisis, with exposed bowel and no covering sac. Right: omphalocele, with a thin covering sac. These are not photographs of a routine skin-covered umbilical hernia; the source uses them to show the distinction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 71,
+      "url": "/mehlman/hy-pediatrics.pdf#page=71"
+    },
+    "guideline": {
+      "text": "Merck August 2025 confirms the membranous covering of omphalocele and the need to assess for associated anomalies. The figure labels are preserved from the PDF rather than replacing them with an invented image.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/omphalocele"
+    },
+    "img": "/mehlman/figures/peds-p071-abdominal-wall-defects.jpg"
   }
 ];
