@@ -4,7 +4,7 @@ import { recordEvent } from "../historyStore";
 import { key, PERSON } from "../names";
 import { pushNow } from "../sync";
 
-const DEFAULT_BANK = "endopath";
+const DEFAULT_BANK = "s2fm";
 const MISSED_BANK = "__missed__";
 const FLAG_BANK = "__flagged__";
 const SWIPE_THRESHOLD = 45; // px of travel that commits a swipe
@@ -65,7 +65,7 @@ function AnswerText({ text }) {
   );
 }
 
-function storageKey(bank) { return key(`validmed_q_${bank}`); }
+function storageKey(bank) { return key(`validmed_step2_q_${bank}`); }
 
 function shuffle(arr) {
   const a = [...arr];
@@ -113,7 +113,7 @@ function saveState(bank, state) {
 // flagged until the user swipes up on it again.
 function loadFlags() {
   try {
-    const raw = localStorage.getItem(key("validmed_flags"));
+    const raw = localStorage.getItem(key("validmed_step2_flags"));
     if (raw) return new Set(JSON.parse(raw));
   } catch {}
   return new Set();
@@ -121,7 +121,7 @@ function loadFlags() {
 
 function saveFlags(flags) {
   try {
-    localStorage.setItem(key("validmed_flags"), JSON.stringify([...flags]));
+    localStorage.setItem(key("validmed_step2_flags"), JSON.stringify([...flags]));
   } catch {}
 }
 
@@ -195,7 +195,7 @@ export default function Questions() {
       // Deep link: /c?bank=immuno (used by /chet hub drill shortcuts)
       const q = new URLSearchParams(window.location.search).get("bank");
       if (q && (BANKS[q] || q === MISSED_BANK || q === FLAG_BANK)) return q;
-      const last = localStorage.getItem(key("validmed_last_bank"));
+      const last = localStorage.getItem(key("validmed_step2_last_bank"));
       if (last && (BANKS[last] || last === MISSED_BANK || last === FLAG_BANK)) return last;
     } catch {}
     return DEFAULT_BANK;
@@ -230,7 +230,7 @@ export default function Questions() {
 
   // Init from storage or fresh
   useEffect(() => {
-    try { localStorage.setItem(key("validmed_last_bank"), bank); } catch {}
+    try { localStorage.setItem(key("validmed_step2_last_bank"), bank); } catch {}
     const pending = pendingRef.current;
     if (pending && pending.bank === bank) {
       pendingRef.current = null;
@@ -607,7 +607,7 @@ export default function Questions() {
   // doesn't resurrect it, then reloads into a clean first-run state.
   const resetProgress = async () => {
     try {
-      const prefix = PERSON ? `${PERSON}_validmed_` : "validmed_";
+      const prefix = PERSON ? `${PERSON}_validmed_step2_` : "validmed_step2_";
       const doomed = [];
       for (let i = 0; i < localStorage.length; i++) {
         const k = localStorage.key(i);
@@ -812,6 +812,7 @@ export default function Questions() {
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
                     <AnswerText text={item.a} />
+                    {item.source && <a className="q-source" href={item.source.url} target="_blank" rel="noreferrer">{item.source.title}, p. {item.source.page} ↗</a>}
                     {item.aimg && <img className="q-review-img" src={item.aimg} alt={item.alt || ""} loading="lazy" />}
                   </div>
                 )}
@@ -933,6 +934,7 @@ export default function Questions() {
           <div className="q-answer-block">
             <div className="q-divider-line" />
             <AnswerText text={q.a} />
+            {q.source && <a className="q-source" href={q.source.url} target="_blank" rel="noreferrer">{q.source.title}, p. {q.source.page} ↗</a>}
             {q.aimg && <img className="q-question-img" src={q.aimg} alt={q.alt || ""} loading="lazy" />}
           </div>
         )}

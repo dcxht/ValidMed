@@ -1415,3 +1415,9 @@ body {
 @media (max-width:600px) { .app-header .step-selector { margin-top:10px; } }
 .rotation-intro p { white-space:normal; overflow-wrap:anywhere; }
 @media (max-width:600px) { .rotation-library { padding:4px 14px 24px; } }
+.rotation-practice { display:block; width:fit-content; margin-top:10px; color:var(--accent); font-size:14px; font-weight:700; padding:10px 0; }
+.q-source { display:block; color:var(--accent); font-size:12px; margin-top:14px; padding:8px 0; }
+.practice-heading { max-width:600px; margin:0 auto 12px; padding:0 14px; }
+.practice-heading a { color:var(--accent); font-size:13px; }
+.practice-heading p { font-size:12px; color:var(--text-secondary); margin-top:6px; }
+.q-card { max-height:calc(100dvh - 340px); }

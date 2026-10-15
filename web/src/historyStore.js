@@ -2,7 +2,7 @@
 // own key via names.js, so every person's history stays separate on the device.
 import { key } from "./names";
 
-const HIST_BASE = "validmed_history";
+const HIST_BASE = "validmed_step2_history";
 const MAX_EVENTS = 2000;
 
 export function recordEvent(ev) {

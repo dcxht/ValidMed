@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Analytics } from "@vercel/analytics/react";
 
 
+import Questions from "./components/Questions";
 import RotationPdfs from "./components/RotationPdfs";
 
 import "./App.css";
@@ -33,7 +34,7 @@ export default function App() {
       </header>
 
       <main className="app-main">
-        <RotationPdfs view={step} />
+        {hash === "#practice" ? <><div className="practice-heading"><a href="#step2">‹ Back to resources</a><p>FM first batch: 42 cards from selected clinical points on pp. 4-16. More pages in progress.</p></div><Questions /></> : <RotationPdfs view={step} />}
       </main>
 
       <Analytics />
