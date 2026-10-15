@@ -419,3 +419,5 @@ Count correction: preceding 2578 entry has397notes, not399. Four new pp29/33/34 
 2827 cards / 230 figure cards / 532 linked notes. pp141-146finerpass: exactWeberparaparesiswordversushemiparesis(secondaryStatPearls);locked-inverticalversusalleye; syrinxsegmentalversusallbelow;OCPcausalityuncertainIIHconsensus;one-nerve“multiplex”versusMerck2+nerves. Ordinaryskin/tract/Hornerdetailsadded. Partial.
 
 2841 cards / 230 figure cards / 538 linked notes. pp146-152finepass:FTDnotallPick/tauperNIA,PDgeneticrankingperNINDS,MPTPcontaminantversusopioidCDC;ASO/ADHDnotstandalonePANDASperNIMH;MSbladderretention/overflowperMSSociety. OrdinaryB12/MLF/GBS/CNdetailsadded. ALSsensoryabsoluteclaimunderverification(primarysystematicreviewPMCfetchonlyNO_CONTENT). Partial.
+
+2860 cards / 230 actual figure cards / 543 linked notes. pp153-158finepass:cluster15-180minIHSvsPDFnarrowduration;KorsakoffbothmemorydirectionsNIAAA;asterixisnotcerebellarspecificMerck;GCAoralvsIVconditionalACR/VF2021;NCClesion-specific/corticosteroid-firstIDSA. Ordinary vestibular/headache/deficiency/CNSinfection details added. Partial.

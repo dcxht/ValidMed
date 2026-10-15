@@ -33861,5 +33861,234 @@ export default [
       "page": 152,
       "url": "/mehlman/hy-family-medicine.pdf#page=152"
     }
+  },
+  {
+    "id": "s2fm-2842",
+    "category": "Neurology source finer details",
+    "q": "What source brainstem origin can be tested for trigeminal-neuralgia pain when nerve names are not offered?",
+    "a": "The pons, where CN V emerges.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-2843",
+    "category": "Neurology source finer details",
+    "q": "What source distinction separates vestibular neuritis from labyrinthitis?",
+    "a": "Vestibular neuritis involves the vestibular nerve with vertigo; labyrinthitis includes cochlear involvement and can add tinnitus/hearing symptoms. The source cautions that tinnitus may be omitted in a vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-2844",
+    "category": "Neurology source finer details",
+    "q": "What fluid-drainage abnormality does the PDF associate with Meniere disease?",
+    "a": "Defective endolymphatic drainage, with fluctuating/asymmetric auditory and vestibular symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-2845",
+    "category": "Neurology source finer details",
+    "q": "What source migraine prevention choice can also treat hypertension?",
+    "a": "Propranolol/beta blockade, when appropriate for the individual patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-2846",
+    "category": "Neurology source finer details",
+    "q": "What source headache is described as bilateral, dull and band-like?",
+    "a": "Tension headache; the source names sleep and acetaminophen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-2847",
+    "category": "Neurology source finer details",
+    "q": "What source neuroanatomic structures are particularly associated with Wernicke-Korsakoff injury?",
+    "a": "Mammillary bodies, in its thiamine-deficiency explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-2848",
+    "category": "Neurology source finer details",
+    "q": "Must B12 deficiency include neurologic dysfunction in the PDF?",
+    "a": "No. The source explicitly says neurologic findings need not be present.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-2849",
+    "category": "Neurology source finer details",
+    "q": "Which two mood-stabilizing drugs does the PDF name as causes of tremor?",
+    "a": "Lithium and valproic acid; abnormal liver tests favor its valproate clue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-2850",
+    "category": "Neurology source finer details",
+    "q": "What hearing test does the source choose for poor school performance after bacterial meningitis?",
+    "a": "Audiometry, rather than tympanometry, to assess possible sensorineural hearing loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-2851",
+    "category": "Neurology exact-source treatment review",
+    "q": "What usual attack duration does the PDF give for cluster headache?",
+    "a": "Minutes to half an hour.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    },
+    "guideline": {
+      "text": "ICHD-3 defines typical untreated cluster attacks as 15-180 minutes, with exceptions during a minority of the active course. The source upper duration is too narrow.",
+      "url": "https://ichd-3.org/3-trigeminal-autonomic-cephalalgias/3-1-cluster-headache/"
+    }
+  },
+  {
+    "id": "s2fm-2852",
+    "category": "Neurology exact-source treatment review",
+    "q": "Which memory direction does the source use to define Korsakoff psychosis?",
+    "a": "Retrograde amnesia with confabulation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    },
+    "guideline": {
+      "text": "NIAAA describes both difficulty forming new memories (anterograde amnesia) and recalling memories. The source retrograde-only wording is incomplete.",
+      "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/wernicke-korsakoff-syndrome"
+    }
+  },
+  {
+    "id": "s2fm-2853",
+    "category": "Neurology exact-source treatment review",
+    "q": "In what localization table does the source place asterixis?",
+    "a": "Its cerebellar-lesion-signs table, calling it a hepatic flap.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    },
+    "guideline": {
+      "text": "Merck lists asterixis with portosystemic encephalopathy, uremia and severe heart failure. It is a lapse in maintained posture and is not a specific cerebellar-localization sign.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/table/interpretation-of-some-physical-findings"
+    }
+  },
+  {
+    "id": "s2fm-2854",
+    "category": "Neurology source treatment details",
+    "q": "What usual steroid route does the PDF give for giant-cell arteritis?",
+    "a": "IV methylprednisolone, because it says IV treatment is faster.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    },
+    "guideline": {
+      "text": "ACR/VF 2021 conditionally prefers high-dose oral glucocorticoids without cranial ischemia and IV pulse treatment for threatened vision loss. Urgent treatment remains important; route depends on the ischemic presentation.",
+      "url": "https://vasculitisfoundation.org/wp-content/uploads/2024/01/2021-ACR-VF-Guideline-for-Management-of-Giant-Cell-Arteritis-and-Takayasu-Artheritis.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2855",
+    "category": "Neurology source treatment details",
+    "q": "What broad antiparasitic choice does the PDF give for neurocysticercosis?",
+    "a": "Albendazole or praziquantel.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "IDSA/ASTMH guidance varies by lesion type and number: selected viable parenchymal disease receives albendazole alone or with praziquantel, with corticosteroids started first. Calcified parenchymal lesions receive symptomatic treatment rather than antiparasitics. The source two-drug list is not a universal regimen.",
+      "url": "https://www.idsociety.org/practice-guideline/neurocysticercosis/"
+    }
+  },
+  {
+    "id": "s2fm-2856",
+    "category": "Neurology source treatment details",
+    "q": "What source infection routes for toxoplasmosis do not require owning a cat?",
+    "a": "Foodborne exposure, including pork; the absence of a cat history does not rule it out.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-2857",
+    "category": "Neurology source treatment details",
+    "q": "What source treatment categories are named for brain abscess?",
+    "a": "Drainage and IV antibiotics, selected according to lesion and patient context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-2858",
+    "category": "Neurology source treatment details",
+    "q": "Which three source contexts raise concern for spinal epidural abscess?",
+    "a": "Injection-drug use, a preceding lower-body skin infection, or endocarditis with focal vertebral pain and possible lower-limb neurologic findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-2859",
+    "category": "Neurology source treatment details",
+    "q": "What cranial nerve can be impaired in cavernous-sinus thrombosis?",
+    "a": "CN VI, producing an abduction deficit, alongside the source headache/proptosis/ophthalmoplegia pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-2860",
+    "category": "Neurology source treatment details",
+    "q": "What non-HIV immunosuppression examples does the PDF associate with primary CNS lymphoma?",
+    "a": "Organ-transplant immunosuppression, chemotherapy/radiotherapy and selected autoimmune-disease contexts; these are risk contexts, not an imaging diagnosis by themselves.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
   }
 ];
