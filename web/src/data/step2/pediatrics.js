@@ -4414,5 +4414,386 @@ export default [
       "text": "NCI connects Denys-Drash with WT1 variants and renal disease including nephrotic syndrome/glomerular disease. This adds the missing renal component without treating the short source pairing as a complete diagnostic criterion.",
       "url": "https://www.cancer.gov/types/kidney/hp/wilms-treatment-pdq"
     }
+  },
+  {
+    "id": "s2peds-0354",
+    "category": "Oral and perioral disorders",
+    "q": "What syndrome and colonic polyp type does this source lip-pigmentation photograph suggest?",
+    "a": "Peutz-Jeghers syndrome: perioral melanosis/hyperpigmentation with hamartomatous gastrointestinal polyps, including colonic polyps.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 33,
+      "url": "/mehlman/hy-pediatrics.pdf#page=33"
+    },
+    "guideline": {
+      "text": "The Merck review confirms characteristic mucocutaneous pigmentation and hamartomatous polyps, which can also involve the stomach and small bowel. Pigmentation alone is a clue, not proof of the syndrome.",
+      "url": "https://www.merckmanuals.com/professional/oncology/tumors-of-the-gastrointestinal-tract/peutz-jeghers-syndrome"
+    },
+    "img": "/mehlman/figures/peds-p033-03.jpeg"
+  },
+  {
+    "id": "s2peds-0355",
+    "category": "Oral and perioral disorders",
+    "q": "When the source gives perioral melanosis and asks whether the colonic polyps are hyperplastic, tubulovillous or another type, what is its answer?",
+    "a": "Hamartomatous polyps. The source emphasizes recognition of the lip photograph; its claim that examinations almost always use the image is an author observation, not a guarantee.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 33,
+      "url": "/mehlman/hy-pediatrics.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2peds-0356",
+    "category": "Oral and perioral disorders",
+    "q": "What syndrome does this oral telangiectasia photograph suggest in a 12-year-old with recurrent nosebleeds, and what is its inheritance?",
+    "a": "Osler-Weber-Rendu syndrome, also called hereditary hemorrhagic telangiectasia (HHT); autosomal dominant. The source also describes fingernail telangiectasias as an image clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 33,
+      "url": "/mehlman/hy-pediatrics.pdf#page=33"
+    },
+    "guideline": {
+      "text": "The HHT 2025 diagnostic algorithm uses spontaneous recurrent epistaxis, characteristic telangiectases, visceral vascular malformations and family history. A photograph is not a stand-alone complete diagnostic assessment.",
+      "url": "https://hhtguidelines.org/wp-content/uploads/2025/04/Algorithms-for-the-Diagnosis-Evaluation-and-Management-of-HHT-4.14.2025.pdf"
+    },
+    "img": "/mehlman/figures/peds-p033-02.jpeg"
+  },
+  {
+    "id": "s2peds-0357",
+    "category": "Oral and perioral disorders",
+    "q": "What bleeding complication can accompany the nosebleeds and mucosal telangiectasias in source HHT?",
+    "a": "Gastrointestinal bleeding leading to anemia. Recurrent nasal bleeding can also contribute to blood loss; visible oral lesions need not be the sole bleeding site.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 33,
+      "url": "/mehlman/hy-pediatrics.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2peds-0358",
+    "category": "Oral and perioral disorders",
+    "q": "What cardiac complication does the source associate with adult HHT, and which vascular bed is emphasized in current guidance?",
+    "a": "High-output cardiac failure. The PDF attributes it to pulmonary AV fistulae; current HHT guidance specifically links symptomatic high-output failure to liver vascular malformations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 33,
+      "url": "/mehlman/hy-pediatrics.pdf#page=33"
+    },
+    "guideline": {
+      "text": "The 2025 HHT algorithm treats high-output cardiac failure under liver vascular malformations, including specialist co-management and treatment for symptomatic liver shunting. Pulmonary AVMs remain important but should not be substituted for this usual hepatic shunt explanation.",
+      "url": "https://hhtguidelines.org/wp-content/uploads/2025/04/Algorithms-for-the-Diagnosis-Evaluation-and-Management-of-HHT-4.14.2025.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0359",
+    "category": "Oral and perioral disorders",
+    "q": "Which source syndrome combines iron-deficiency anemia, dysphagia from esophageal webs and the pictured cracked mouth corners?",
+    "a": "Plummer-Vinson syndrome. The photograph shows angular cheilitis, an associated iron-deficiency finding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 33,
+      "url": "/mehlman/hy-pediatrics.pdf#page=33"
+    },
+    "guideline": {
+      "text": "The conventional triad is iron-deficiency anemia, dysphagia and upper esophageal webs. Angular cheilitis is an associated finding, not a required replacement for dysphagia in the triad.",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(09)00515-0/fulltext"
+    },
+    "img": "/mehlman/figures/peds-p033-01.jpeg"
+  },
+  {
+    "id": "s2peds-0360",
+    "category": "Oral and perioral disorders",
+    "q": "What eating behavior and nail shape does the source add to the Plummer-Vinson/iron-deficiency vignette?",
+    "a": "Pica, such as eating clay, starch or ice, and koilonychia, meaning spoon-shaped nails. The source calls koilonychia a sign of severe iron deficiency; neither clue alone diagnoses the full syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 34,
+      "url": "/mehlman/hy-pediatrics.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2peds-0361",
+    "category": "Oral and perioral disorders",
+    "q": "What source diagnosis labels this upper-lip plaque photograph, and must that disorder be confined to extensor skin?",
+    "a": "Lip psoriasis. The source warns that psoriasis can be described on the upper lip or forehead, not only on extensors. The image is its labeled example, not proof that every red or scaly lip is psoriasis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 34,
+      "url": "/mehlman/hy-pediatrics.pdf#page=34"
+    },
+    "img": "/mehlman/figures/peds-p034-03.jpeg"
+  },
+  {
+    "id": "s2peds-0362",
+    "category": "Oral and perioral disorders",
+    "q": "What is the source diagnosis for this painful inner-lip ulcer, also called a canker sore?",
+    "a": "An aphthous ulcer: a painful, typically self-resolving ulcer on labial mucosa. It is different from a contagious herpetic vesicle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 34,
+      "url": "/mehlman/hy-pediatrics.pdf#page=34"
+    },
+    "guideline": {
+      "text": "DermNet describes painful punched-out ulcers on relatively mobile oral mucosa, including the inner lips and cheeks. Many oral ulcer disorders look similar, so atypical or persistent lesions need assessment rather than image-only diagnosis.",
+      "url": "https://dermnetnz.org/topics/aphthous-ulcer"
+    },
+    "img": "/mehlman/figures/peds-p034-02.jpeg"
+  },
+  {
+    "id": "s2peds-0363",
+    "category": "Oral and perioral disorders",
+    "q": "Does the source describe ordinary aphthous ulcers as an infection, and what does it say about their cause and triggers?",
+    "a": "No. It calls them noninfective and idiopathic, with a mild immune/autoimmune association and possible food triggers such as spicy food.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 34,
+      "url": "/mehlman/hy-pediatrics.pdf#page=34"
+    },
+    "guideline": {
+      "text": "DermNet says the exact cause is not clearly defined and describes a possible abnormal immune response to external factors. This is not proof of a systemic autoimmune disease in every person. Food may trigger or irritate ulcers; avoiding individual aggravating foods can reduce symptoms.",
+      "url": "https://dermnetnz.org/topics/aphthous-ulcer"
+    }
+  },
+  {
+    "id": "s2peds-0364",
+    "category": "Kawasaki disease",
+    "q": "What source diagnosis combines this lip appearance with prolonged fever, red eyes, cervical nodes and swollen hands?",
+    "a": "Kawasaki disease, a pediatric vasculitis. The source gives at least five days of fever, conjunctival/lip or tongue injection, cervical lymphadenopathy, dorsal hand edema and later palm/sole desquamation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 34,
+      "url": "/mehlman/hy-pediatrics.pdf#page=34"
+    },
+    "guideline": {
+      "text": "AHA 2024 includes bilateral nonexudative conjunctival injection, oral changes, extremity changes, rash and lymphadenopathy. This photograph and a partial feature list do not establish or exclude the diagnosis by themselves.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001295"
+    },
+    "img": "/mehlman/figures/peds-p034-01.jpeg"
+  },
+  {
+    "id": "s2peds-0365",
+    "category": "Kawasaki disease",
+    "q": "Must a child with suspected Kawasaki disease always wait until fever day five before diagnosis?",
+    "a": "No. Five or more days is the source recognition cue, not a safe instruction to delay assessment or treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 34,
+      "url": "/mehlman/hy-pediatrics.pdf#page=34"
+    },
+    "guideline": {
+      "text": "AHA 2024 allows complete Kawasaki diagnosis with four fever days and at least four principal features; experienced clinicians may diagnose at three days. Incomplete disease also requires evaluation. Early recognition and treatment reduce coronary complications.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001295"
+    }
+  },
+  {
+    "id": "s2peds-0366",
+    "category": "Kawasaki disease",
+    "q": "What hand and foot findings does the source emphasize in Kawasaki disease, and is a true rash excluded?",
+    "a": "Edema of the dorsa of the hands and desquamation of palms/soles. The PDF calls this often-described rash desquamation rather than a true rash, but that does not mean Kawasaki disease has no rash.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 34,
+      "url": "/mehlman/hy-pediatrics.pdf#page=34"
+    },
+    "guideline": {
+      "text": "AHA 2024 lists rash among the principal clinical features as well as extremity changes. The source distinction about peeling must not erase the separate rash feature or postpone evaluation.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001295"
+    }
+  },
+  {
+    "id": "s2peds-0367",
+    "category": "Kawasaki disease",
+    "q": "How does the source rank coronary artery aneurysms for its Kawasaki exam advice, and should that reduce clinical attention to the coronary arteries?",
+    "a": "The author downplays how often examinations mention aneurysms. That is an unverified exam-frequency opinion, not a reason to ignore coronary risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "AHA 2024 centers coronary dilation/aneurysm prevention, echocardiography and risk-based follow-up. A normal early echocardiogram does not exclude Kawasaki disease or later coronary changes; obtaining imaging should not delay therapy.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001295"
+    }
+  },
+  {
+    "id": "s2peds-0368",
+    "category": "Kawasaki disease",
+    "q": "What treatment pair does the source give for Kawasaki disease, and should IVIG be deferred until after aspirin works?",
+    "a": "Aspirin plus intravenous immunoglobulin (IVIG). The PDF says aspirin followed by IVIG, but this is not a stepwise trial in which necessary IVIG is delayed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "AHA 2024 treats standard-risk acute disease with IVIG and aspirin. High-risk patients may need additional anti-inflammatory treatment. Management is supervised and risk-based, not aspirin alone while waiting to decide whether IVIG is needed.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001295"
+    }
+  },
+  {
+    "id": "s2peds-0369",
+    "category": "Kawasaki disease",
+    "q": "Why is aspirin generally avoided in children and teens, and is Kawasaki disease its only possible pediatric indication?",
+    "a": "Risk of Reye syndrome is the source reason for routine avoidance. Kawasaki is an important supervised exception, but the PDF claim that it is the only pediatric indication is too broad.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "The BNFC also lists specialist antiplatelet use after cardiac surgery and for high-risk pediatric stroke prevention. These are specific medical indications, not permission to give aspirin for an ordinary childhood fever.",
+      "url": "https://bnfc.nice.org.uk/treatment-summaries/antiplatelet-drugs/"
+    }
+  },
+  {
+    "id": "s2peds-0370",
+    "category": "Perioral infection",
+    "q": "What diagnosis does the source assign to these perioral lesions in a young child, and what is the common visual differential?",
+    "a": "Perioral impetigo, often confused with herpes labialis. Use lesion morphology and the clinical setting rather than age or lip location alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "CDC describes papules progressing through pustules to thick adherent, often honey-colored crusts in impetigo. Appearance cannot reliably distinguish streptococcal from staphylococcal nonbullous disease.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html"
+    },
+    "img": "/mehlman/figures/peds-p035-02.jpeg"
+  },
+  {
+    "id": "s2peds-0371",
+    "category": "Perioral infection",
+    "q": "Which bacteria cause source impetigo, and which organism is associated with bullous disease?",
+    "a": "Staphylococcus aureus or group A Streptococcus (S. pyogenes). The source says S. aureus exceeds GAS in bullous and nonbullous disease and links bullous lesions to Staphylococcus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "CDC specifies toxin-producing S. aureus for bullous impetigo; nonbullous disease can be caused by S. aureus, S. pyogenes or both. A local prevalence ranking does not identify the organism in an individual lesion.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html"
+    }
+  },
+  {
+    "id": "s2peds-0372",
+    "category": "Perioral infection",
+    "q": "What renal complication does the source associate with streptococcal impetigo?",
+    "a": "Poststreptococcal glomerulonephritis (PSGN), especially after infection with nephritogenic group A Streptococcus. This is a postinfectious kidney complication, not direct bacterial kidney invasion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2peds-0373",
+    "category": "Perioral infection",
+    "q": "What topical treatment is the source favored impetigo answer, and when are oral antibiotics considered?",
+    "a": "Topical mupirocin. The source also lists dicloxacillin, cephalexin or amoxicillin-clavulanate when oral therapy is used.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "CDC uses topical mupirocin or retapamulin for only a few lesions and oral therapy for multiple lesions, targeting both GAS and S. aureus. Extent, clinical condition, resistance risk and allergy matter; topical treatment is not a universal answer for every case.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html"
+    }
+  },
+  {
+    "id": "s2peds-0374",
+    "category": "Perioral infection",
+    "q": "Which of the source oral impetigo antibiotics match the IDSA usual-MSSA examples, and what changes with suspected MRSA?",
+    "a": "Dicloxacillin and cephalexin are the source examples that IDSA specifically recommends for usual methicillin-susceptible S. aureus. The source also lists amoxicillin-clavulanate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "IDSA recommends oral therapy for numerous lesions or outbreaks. Suspected or confirmed MRSA changes antibiotic selection; culture and patient-specific pediatric safety matter. This comparison does not turn the source oral list into an age-independent prescription.",
+      "url": "https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/"
+    }
+  },
+  {
+    "id": "s2peds-0375",
+    "category": "Perioral infection",
+    "q": "What diagnosis labels this recurrent lip-vesicle source photograph, and must oral and genital disease map rigidly to HSV type?",
+    "a": "Herpes labialis, caused by HSV. The source allows HSV-1 or HSV-2 and rejects a strict HSV-1-only-oral / HSV-2-only-genital rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "NIH describes orolabial herpes as the most common manifestation of HSV-1. The source point is that site does not create an absolute type rule, not that HSV-1 and HSV-2 have equal frequencies at every site.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/herpes-simplex"
+    },
+    "img": "/mehlman/figures/peds-p035-01.jpeg"
+  },
+  {
+    "id": "s2peds-0376",
+    "category": "Perioral infection",
+    "q": "How does the source contrast primary herpes labialis with recurrences?",
+    "a": "Primary infection can include fever and regional lymphadenopathy; recurrences are generally less severe. These are pattern clues, not a requirement that every first infection is febrile.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2peds-0377",
+    "category": "Perioral infection",
+    "q": "Where does HSV remain latent according to the source, explaining recurrent lip lesions?",
+    "a": "Sensory nerves/sensory ganglia. Recurrence reflects reactivation rather than eradication followed by a brand-new infection each time.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2peds-0378",
+    "category": "Perioral infection",
+    "q": "What source antiviral treats herpes labialis, and how does its active form stop viral replication?",
+    "a": "Acyclovir. The source calls it a DNA-polymerase inhibitor that causes chain termination.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "DailyMed describes viral thymidine-kinase activation followed by cellular phosphorylation. Acyclovir triphosphate inhibits viral DNA polymerase and terminates the growing viral DNA chain. This mechanism question is not a pediatric dosing instruction.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=40e5cc54-ed74-3369-e054-00144ff88e88&type=display"
+    }
+  },
+  {
+    "id": "s2peds-0379",
+    "category": "Perioral infection",
+    "q": "Which resistance mechanism does the source select for acyclovir, and is it the only possible mechanism?",
+    "a": "Altered viral thymidine kinase is its exam answer. Resistance can involve deficient or changed thymidine kinase, but it is not restricted to that enzyme.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    },
+    "guideline": {
+      "text": "DailyMed also identifies viral DNA-polymerase changes. Poor clinical response needs clinical assessment rather than assuming every persistent lesion proves thymidine-kinase resistance.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=40e5cc54-ed74-3369-e054-00144ff88e88&type=display"
+    }
+  },
+  {
+    "id": "s2peds-0380",
+    "category": "Perioral infection",
+    "q": "What source infection combines strawberry tongue or red lips with a salmon-pink maculopapular body rash?",
+    "a": "Scarlet fever due to group A Streptococcus. Compare its infectious setting with Kawasaki disease rather than diagnosing either from a red tongue alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 35,
+      "url": "/mehlman/hy-pediatrics.pdf#page=35"
+    }
   }
 ];
