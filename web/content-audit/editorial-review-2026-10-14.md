@@ -308,3 +308,6 @@ Card2426,total2426/230figures/290notes. Sourcevanco/gentamicin restoredwithACCsu
 
 ## Neurocutaneous wording follow-up pp165-166
 Card2427plusnotes1959/0594,total2427/230figures/293notes. MedlinePlusRettalmostexclusivelynotfemale-only, NINDS2026NF2-relatedschwannomatosisname/tumors, MedlinePlus2026orangepeelshagreenratherthanvelvety. DirectURLs https://medlineplus.gov/genetics/condition/rett-syndrome/ ; https://www.ninds.nih.gov/health-information/disorders/neurofibromatosis ; https://medlineplus.gov/ency/article/000787.htm . Partial.
+
+## Psychiatric diagnostic wording pp172-173
+Cards2428-2431plusnotes0620/1992,total2431/230figures/299notes. ExactPDFstrictduration, auditoryalways, schizoaffectivemoodburdenomission andnonbizarredelusion-onlyclaimretainedwithseparateAPA/NIMH/Merck2025secondarynotes. Sources https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders ; https://www.nimh.nih.gov/health/publications/bipolar-disorder ; https://www.nimh.nih.gov/health/publications/schizophrenia ; https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia ; https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/delusional-disorder . Partial; no religious/culturalcontentaloneusedtodiagnose.

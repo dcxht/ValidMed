@@ -7092,6 +7092,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 173,
       "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "APA describes major mood episodes for the majority of active illness, plus at least two weeks of delusions/hallucinations without a mood episode. The full course matters, not only one overlap or two-week interval.",
+      "url": "https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia"
     }
   },
   {
@@ -22902,6 +22906,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 173,
       "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "APA describes major mood episodes for the majority of active illness, plus at least two weeks of delusions/hallucinations without a mood episode. The full course matters, not only one overlap or two-week interval.",
+      "url": "https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia"
     }
   },
   {
@@ -28327,6 +28335,66 @@ export default [
     "guideline": {
       "text": "MedlinePlus 2026 guidance describes raised orange-peel-textured patches, often on the back, separately from white ash-leaf/confetti pigment lesions. The source velvety label is not the usual texture description in that guidance.",
       "url": "https://medlineplus.gov/ency/article/000787.htm"
+    }
+  },
+  {
+    "id": "s2fm-2428",
+    "category": "Psychiatry exact-claim reconciliation",
+    "q": "What strict duration wording does the PDF use for mania and hypomania?",
+    "a": "Usually longer than one week for mania and longer than four days for hypomania.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "APA patient guidance uses at least one week for mania and four consecutive days for hypomania, not strictly longer. NIMH also allows a shorter manic duration when severe symptoms require hospital care; duration is not the only criterion.",
+      "url": "https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders"
+    }
+  },
+  {
+    "id": "s2fm-2429",
+    "category": "Psychiatry exact-claim reconciliation",
+    "q": "Which hallucination modality does the PDF say is always used in its schizophrenia exam patterns?",
+    "a": "Auditory hallucinations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "NIMH lists seeing, hearing, smelling, tasting or feeling things that are not present. Voices are common, but auditory-only is an exam heuristic rather than a clinical exclusion.",
+      "url": "https://www.nimh.nih.gov/health/publications/schizophrenia"
+    }
+  },
+  {
+    "id": "s2fm-2430",
+    "category": "Psychiatry exact-claim reconciliation",
+    "q": "What longitudinal timing rule is missing from the PDF schizoaffective shorthand?",
+    "a": "It emphasizes two weeks of psychosis without a mood disorder followed by overlapping mood and psychotic symptoms, without stating the proportion of illness occupied by mood episodes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "APA guidance requires major mood episodes during the majority of active illness and at least two weeks of delusions/hallucinations without a mood episode. A brief overlap alone is insufficient.",
+      "url": "https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia"
+    }
+  },
+  {
+    "id": "s2fm-2431",
+    "category": "Psychiatry exact-claim reconciliation",
+    "q": "What content restriction does the PDF place on delusional disorder?",
+    "a": "One or more non-bizarre delusions, without other signs of psychosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "Merck Manual Professional review (2025), a secondary clinical source, allows bizarre or nonbizarre delusions and requires at least one month plus exclusion/functional criteria. A religious theme alone also cannot replace clinical and cultural assessment.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/delusional-disorder"
     }
   }
 ];
