@@ -10054,5 +10054,380 @@ export default [
       "text": "The January 2026 review describes a broad bleeding phenotype, including minor-wound bleeding, nosebleeds, heavy menstrual bleeding and procedural bleeding. The source eight-in-ten exam and mixed-platelet/factor pattern are not a validated diagnostic rule or an age restriction.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
     }
+  },
+  {
+    "id": "s2peds-0745",
+    "category": "Pediatric hematology",
+    "q": "Which source vignettes combine two clues to von Willebrand disease?",
+    "a": "A 17-year-old with epistaxis and heavy menses, or bruising and excessive bleeding after a tooth extraction. The PDF calls this a platelet-plus-factor pattern; either combination should prompt a bleeding-disorder assessment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "ASH/ISTH/NHF/WFH 2021 lists epistaxis, bruising, heavy menstrual bleeding and dental/surgical bleeding as VWD symptoms. Heavy menses or tooth-extraction bleeding is not specific proof of a separate factor defect. The source eight-in-ten question frequency is unverified.",
+      "url": "https://ashpublications.org/bloodadvances/article/5/1/301/474884/ASH-ISTH-NHF-WFH-2021-guidelines-on-the-management"
+    }
+  },
+  {
+    "id": "s2peds-0746",
+    "category": "Pediatric hematology",
+    "q": "How does the source use a parent with nosebleeds to support VWD in a child with dental bleeding?",
+    "a": "It connects bleeding across generations with the common autosomal-dominant pattern. A family history is a useful clue even when the patient has only one described bleeding symptom.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "The January 2026 diagnostic review incorporates personal/family bleeding history and specific VWF testing. The source one-in-ten vignette frequency is an unverified author observation, not a diagnostic probability.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0747",
+    "category": "Pediatric hematology",
+    "q": "Does normal PT, aPTT and platelet count exclude VWD in the source prolonged-cut bleeding/heavy-menses vignette?",
+    "a": "No. Prolonged bleeding after a minor cut with heavy menses can still suggest VWD. The PDF says a cut takes longer to heal, but the useful clue is prolonged bleeding, not nonspecific slow wound healing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "The January 2026 review says normal aPTT does not exclude VWD and recommends VWF antigen/activity plus factor VIII activity when indicated. Normal platelet count alone neither proves VWD nor replaces the wider differential.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0748",
+    "category": "Pediatric hematology",
+    "q": "What does an abnormal ristocetin cofactor assay mean in the source VWD discussion?",
+    "a": "It suggests impaired VWF-mediated platelet binding. The source uses it as an adhesion clue rather than a platelet-count measurement.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "The January 2026 review explains VWF:RCo and newer GPIb-based activity assays. It notes guideline preference for the more reproducible VWF:GPIbM/GPIbR assays over VWF:RCo when available; abnormal adhesion is not by itself a complete subtype diagnosis.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775743/"
+    }
+  },
+  {
+    "id": "s2peds-0749",
+    "category": "Pediatric hematology",
+    "q": "What treatment does the source name for VWD, and why is it not universal?",
+    "a": "Desmopressin (DDAVP), which can increase available VWF and factor VIII in responders. It is a selected treatment, not the correct drug for every subtype or every severity of bleeding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "ASH/ISTH/NHF/WFH 2021 recommends a response trial for selected type 1 patients with baseline VWF <0.30 IU/mL and treatment based on results. Type 3 lacks efficacy and type 2B risks thrombocytopenia; many type 2 patients need VWF concentrate.",
+      "url": "https://ashpublications.org/bloodadvances/article/5/1/301/474884/ASH-ISTH-NHF-WFH-2021-guidelines-on-the-management"
+    }
+  },
+  {
+    "id": "s2peds-0750",
+    "category": "Pediatric hematology",
+    "q": "What safety limits qualify the source VWD desmopressin answer?",
+    "a": "Confirm suitability and response, consider the bleeding/procedure and avoid treating major surgery with DDAVP alone. Desmopressin can cause water retention and hyponatremia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "ASH/ISTH/NHF/WFH 2021 generally contraindicates DDAVP in children under 2 years and in seizure disorders, calls for free-water restriction/counseling, and states it must not be the sole therapy for major surgery.",
+      "url": "https://ashpublications.org/bloodadvances/article/5/1/301/474884/ASH-ISTH-NHF-WFH-2021-guidelines-on-the-management"
+    }
+  },
+  {
+    "id": "s2peds-0751",
+    "category": "Pediatric hematology",
+    "q": "Are hemarthroses impossible in VWD, as the source contrast with hemophilia implies?",
+    "a": "No. Joint bleeding is a strong hemophilia clue, but severe VWD can also produce it. The source contrast describes a typical pattern rather than an exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "ASH/ISTH/NHF/WFH 2021 explicitly notes that patients with type 3 VWD may have joint bleeds like those seen in hemophilia.",
+      "url": "https://ashpublications.org/bloodadvances/article/5/1/301/474884/ASH-ISTH-NHF-WFH-2021-guidelines-on-the-management"
+    }
+  },
+  {
+    "id": "s2peds-0752",
+    "category": "Pediatric hematology",
+    "q": "Which factor is deficient in hemophilia A versus B in the source?",
+    "a": "Hemophilia A: factor VIII. Hemophilia B: factor IX. The clinical pattern alone does not reliably distinguish them.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2025 describes identical clinical manifestations and screening abnormalities, with specific factor assays needed to distinguish the two.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/hemophilia"
+    }
+  },
+  {
+    "id": "s2peds-0753",
+    "category": "Pediatric hematology",
+    "q": "What inheritance pattern does the source assign to hemophilia A and B?",
+    "a": "Both are X-linked recessive. A boy with a maternal uncle affected by serious bleeding fits that family pattern, but a negative family history does not rule it out.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2025 describes X-linked disease, sporadic cases and symptomatic female carriers. Do not treat female sex as an absolute exclusion.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/hemophilia"
+    }
+  },
+  {
+    "id": "s2peds-0754",
+    "category": "Pediatric hematology",
+    "q": "Why does the source give isolated prolonged aPTT with normal PT for hemophilia?",
+    "a": "Factors VIII and IX participate in the intrinsic pathway; the extrinsic PT pathway is not the deficient pathway. The primary platelet problem of ITP is not the cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2025 describes prolonged PTT with normal PT and platelet count, confirmed by factor assays. The PDF normal bleeding-time statement is a historical teaching pattern, not a recommendation to order that obsolete test.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/hemophilia"
+    }
+  },
+  {
+    "id": "s2peds-0755",
+    "category": "Pediatric hematology",
+    "q": "What school-age presentation does the source use for hemophilia?",
+    "a": "A boy with hemarthrosis and isolated prolonged aPTT, sometimes with a maternal uncle who died after minor head trauma. Recurrent deep-tissue or joint bleeding is the key pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2025 describes unexplained hemarthroses and severity-dependent bleeding. The exact family-death vignette is a source example, not a required diagnostic feature.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/hemophilia"
+    }
+  },
+  {
+    "id": "s2peds-0756",
+    "category": "Pediatric hematology",
+    "q": "What neonatal presentation does the source use for hemophilia?",
+    "a": "Excessive bleeding after circumcision. It should prompt assessment for a bleeding disorder rather than being dismissed as expected procedural bleeding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2025 lists severe early-life bleeding, including after circumcision. Specific factor assays establish type and severity; this symptom is not unique to hemophilia.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/hemophilia"
+    }
+  },
+  {
+    "id": "s2peds-0757",
+    "category": "Pediatric hematology",
+    "q": "How should the source hemophilia A treatment answer be qualified?",
+    "a": "Replace factor VIII when indicated; DDAVP can help selected responsive mild disease. It is not a universal replacement for factor therapy in severe hemophilia or a major bleed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2025 limits therapeutic DDAVP to demonstrated responders with mild hemophilia A. It also describes factor and nonfactor treatment options, so the PDF two-item list is not the whole modern treatment plan.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/hemophilia"
+    }
+  },
+  {
+    "id": "s2peds-0758",
+    "category": "Pediatric hematology",
+    "q": "What treatment distinction does the source make for hemophilia B?",
+    "a": "Replace factor IX. DDAVP is not a factor IX replacement and does not solve the factor IX deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "CDC November 2024 describes replacement of the missing factor in A/B and DDAVP release of stored factor VIII. This mechanism explains why the source DDAVP option belongs to selected A disease, not B.",
+      "url": "https://www.cdc.gov/hemophilia/treatment/"
+    }
+  },
+  {
+    "id": "s2peds-0759",
+    "category": "Pediatric hematology",
+    "q": "What should be considered if hemophilia A has persistent abnormal aPTT despite factor VIII replacement in the source vignette?",
+    "a": "A factor VIII inhibitor: antibodies can neutralize infused factor and reduce the expected response. Investigate rather than simply assuming more replacement will work.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "CDC May 2024 describes inhibitor testing with Bethesda/Nijmegen-Bethesda assays and specialist management. Not every abnormal aPTT proves an inhibitor; testing must establish the cause.",
+      "url": "https://www.cdc.gov/hemophilia/testing/testing-for-inhibitors-and-hemophilia.html"
+    }
+  },
+  {
+    "id": "s2peds-0760",
+    "category": "Pediatric hematology",
+    "q": "What PT/aPTT pattern does the source give for vitamin K deficiency, and what comparison matters?",
+    "a": "The PDF lists prolonged PT and aPTT with no bleeding-time change. Do not require both tests to be prolonged: PT/INR is a key abnormality, and aPTT may remain normal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck June 2026 specifically describes prolonged PT/elevated INR with normal PTT, platelet count and other listed indices in its diagnostic pattern. The PDF both-prolonged shortcut is not a universal requirement.",
+      "url": "https://www.merckmanuals.com/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-k-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0761",
+    "category": "Pediatric hematology",
+    "q": "Which clotting factors and anticoagulant proteins depend on vitamin K in the source?",
+    "a": "Factors II, VII, IX and X, plus proteins C and S. The source links their activation to vitamin-K-dependent gamma-glutamyl carboxylase.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck June 2026 confirms II/VII/IX/X and C/S dependence, with C/S acting as anticoagulants. The mechanism explains defective coagulation rather than primary platelet depletion.",
+      "url": "https://www.merckmanuals.com/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-k-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0762",
+    "category": "Pediatric hematology",
+    "q": "Why does the source say bleeding time is unchanged in vitamin K deficiency?",
+    "a": "It treats this as a coagulation-factor problem rather than a platelet-count/function disorder. Bleeding-time testing itself is historical and should not be the diagnostic goal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck June 2026 lists normal platelet count and bleeding time with prolonged PT/INR. Modern evaluation relies on the clinical setting and coagulation studies rather than an invasive bleeding-time test.",
+      "url": "https://www.merckmanuals.com/professional/nutritional-disorders/vitamin-deficiency-dependency-and-toxicity/vitamin-k-deficiency"
+    }
+  },
+  {
+    "id": "s2peds-0763",
+    "category": "Pediatric hematology",
+    "q": "What neonatal vignette does the source use for vitamin K deficiency bleeding?",
+    "a": "Bleeding from the umbilical stump, sometimes with retinal hemorrhages; home birth is an example, not a requirement. Check prophylaxis history and the full bleeding/clinical context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "CDC January 2025 lists umbilical-cord bleeding and potentially serious internal or brain bleeding, often without warning. The PDF retinal-hemorrhage comparison is not sufficient to diagnose VKDB or exclude abusive injury.",
+      "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0764",
+    "category": "Pediatric hematology",
+    "q": "What does DIC stand for, and what source settings can precipitate it?",
+    "a": "Disseminated intravascular coagulation: widespread coagulation activation with consumption of platelets/factors. The source lists trauma, sepsis, amniotic fluid embolism and AML-treatment settings.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck updated July 2026 lists severe tissue injury, infection, obstetric complications and cancer, particularly acute promyelocytic leukemia. The source list is not exhaustive, and not every AML treatment causes DIC.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/disseminated-intravascular-coagulation-dic"
+    }
+  },
+  {
+    "id": "s2peds-0765",
+    "category": "Pediatric hematology",
+    "q": "What laboratory pattern does the source associate with severe DIC?",
+    "a": "Low platelets, fibrinogen and clotting factors, with prolonged PT/aPTT and elevated D-dimer. The PDF also lists increased bleeding time/plasmin activity as a consumption/fibrinolysis pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2026 supports this in rapidly evolving severe DIC; slowly evolving DIC can have normal or minimally prolonged PT/aPTT and normal/moderately reduced fibrinogen. Serial trends matter; bleeding time is not a recommended diagnostic assay.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/disseminated-intravascular-coagulation-dic"
+    }
+  },
+  {
+    "id": "s2peds-0766",
+    "category": "Pediatric hematology",
+    "q": "Why does fibrinogen fall in the source DIC explanation?",
+    "a": "It is converted into fibrin during widespread coagulation, contributing to consumption of the circulating fibrinogen pool.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2026 describes excessive thrombin/fibrin generation and decreasing fibrinogen. As an acute-phase reactant, fibrinogen may not initially be low, so a declining serial value can be informative.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/disseminated-intravascular-coagulation-dic"
+    }
+  },
+  {
+    "id": "s2peds-0767",
+    "category": "Pediatric hematology",
+    "q": "How are plasmin and D-dimer linked in the source DIC explanation?",
+    "a": "Plasmin breaks down fibrin; increased formation and breakdown of fibrin generates more degradation products, including D-dimer. This is the source fibrinolysis side of the process.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2026 describes tPA activation of plasminogen on fibrin and cleavage of fibrin to D-dimers and other products. D-dimer indicates fibrin turnover and is not specific for DIC by itself.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/disseminated-intravascular-coagulation-dic"
+    }
+  },
+  {
+    "id": "s2peds-0768",
+    "category": "Pediatric hematology",
+    "q": "What does the source IV/catheter-site bleeding clue suggest, and why is it not diagnostic alone?",
+    "a": "DIC is an important possibility, especially in a very ill patient. The source also recalls a surgical question with dilutional thrombocytopenia after multiple transfusions, so the same sign has other causes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2026 describes persistent puncture-site bleeding in severe rapidly evolving DIC. The author nine-in-ten exam-frequency and exact transfusion vignette are unverified; use the complete context, platelet count and coagulation/fibrinogen results.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/disseminated-intravascular-coagulation-dic"
+    }
+  },
+  {
+    "id": "s2peds-0769",
+    "category": "Pediatric hematology",
+    "q": "What red-cell finding does the source expect on a DIC blood smear?",
+    "a": "Schistocytes, fragmented RBCs from microvascular injury. They fit the process but are not exclusive to DIC.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 55,
+      "url": "/mehlman/hy-pediatrics.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Merck July 2026 describes mechanical RBC disruption with fibrin polymers and recommends a smear as part of evaluation alongside platelet count, PT/aPTT, fibrinogen and D-dimer.",
+      "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/disseminated-intravascular-coagulation-dic"
+    }
   }
 ];
