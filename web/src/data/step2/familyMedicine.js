@@ -30651,5 +30651,80 @@ export default [
       "text": "Canadian Paediatric Society advises corticosteroids for children with croup symptoms across severity; nebulized epinephrine is used for moderate/severe disease. Steroids are not merely an optional answer after supportive care.",
       "url": "https://cps.ca/en/documents/position/acute-management-of-croup"
     }
+  },
+  {
+    "id": "s2fm-2596",
+    "category": "Pulmonary exact-source review",
+    "q": "What empiric outpatient CAP antibiotic does the PDF name as the standard exam answer?",
+    "a": "Azithromycin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    },
+    "guideline": {
+      "text": "ATS/IDSA 2019 offers amoxicillin or doxycycline for otherwise healthy outpatients; macrolide monotherapy is conditional on local pneumococcal resistance below 25%. Comorbidities change options. ATS 2025 updates other CAP questions, not this routine drug-selection question.",
+      "url": "https://www.idsociety.org/globalassets/idsa/practice-guidelines/community-acquired-pneumonia-in-adults/executive_summary.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2597",
+    "category": "Pulmonary exact-source review",
+    "q": "What source CAP situations prompt levofloxacin as a first-line option?",
+    "a": "Antibiotics in the previous three months or severe lung disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    },
+    "guideline": {
+      "text": "ATS/IDSA 2019 includes respiratory fluoroquinolone monotherapy among options for outpatients with comorbidities, but recent antibiotic exposure calls for considering a different antibiotic class, not an automatic levofloxacin rule. Individual risks and contraindications matter.",
+      "url": "https://www.idsociety.org/globalassets/idsa/practice-guidelines/community-acquired-pneumonia-in-adults/executive_summary.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2598",
+    "category": "Pulmonary exact-source review",
+    "q": "What single antibiotic does the PDF choose for CAP with sepsis or septic shock?",
+    "a": "Ceftriaxone; it favors cefotaxime in pediatric answer choices.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    },
+    "guideline": {
+      "text": "ATS/IDSA adult severe-CAP recommendations use a beta-lactam plus a macrolide or respiratory fluoroquinolone, with resistant-pathogen coverage when indicated. Ceftriaxone alone is not the complete standard adult severe-CAP regimen.",
+      "url": "https://www.idsociety.org/globalassets/idsa/practice-guidelines/community-acquired-pneumonia-in-adults/executive_summary.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2599",
+    "category": "Pulmonary exact-source review",
+    "q": "What prevention treatment does the PDF give to close contacts of epiglottitis?",
+    "a": "Rifampin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-family-medicine.pdf#page=41"
+    },
+    "guideline": {
+      "text": "CDC limits Hib rifampin chemoprophylaxis to defined situations. Household prophylaxis applies when the household includes an incompletely vaccinated child under 4 or an immunocompromised person under 18. Childcare outbreak rules differ; not every close contact of every epiglottitis case needs prophylaxis.",
+      "url": "https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-2-haemophilus-influenzae.html"
+    }
+  },
+  {
+    "id": "s2fm-2600",
+    "category": "Pulmonary exact-source review",
+    "q": "What mandatory antibiotic coverage does the PDF teach for all nosocomial pneumonia?",
+    "a": "MRSA plus Pseudomonas coverage: vancomycin with ceftazidime or cefepime.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    },
+    "guideline": {
+      "text": "ATS/IDSA 2016 HAP/VAP uses patient risk and local susceptibility data to select empiric coverage. MRSA treatment is not mandatory for every patient; HAP without MRSA risk or high mortality risk may use an MSSA-active regimen. VAP has its own resistance thresholds.",
+      "url": "https://www.idsociety.org/practice-guideline/hap_vap"
+    }
   }
 ];
