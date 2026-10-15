@@ -1498,7 +1498,7 @@ export default [
     "id": "s2fm-0129",
     "category": "Pneumonia",
     "q": "An immunocompromised patient has bilateral ground-glass pneumonia. Which opportunistic infection is suggested?",
-    "a": "Pneumocystis jirovecii pneumonia. The PDF names bronchoalveolar lavage as a diagnostic approach.",
+    "a": "Pneumocystis jirovecii pneumonia. The PDF names bronchoalveolar lavage as a diagnostic approach. Specimen choice depends on clinical context, availability and patient stability.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 40,
@@ -1716,7 +1716,11 @@ export default [
     "sourcePages": [
       46,
       93
-    ]
+    ],
+    "guideline": {
+      "text": "CDC does not recommend Monospot for general use because of false-positive/negative results; heterophile antibodies are often absent in children. Specific EBV serology can help when confirmation is needed.",
+      "url": "https://www.cdc.gov/epstein-barr/php/laboratories/index.html"
+    }
   },
   {
     "id": "s2fm-0148",
