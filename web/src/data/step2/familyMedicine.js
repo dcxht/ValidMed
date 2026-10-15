@@ -29634,5 +29634,425 @@ export default [
       "text": "A 2025 Cleveland Clinic Journal of Medicine review explains that an amoxicillin rash during infectious mononucleosis may be transient rather than true penicillin allergy, though persistent hypersensitivity can occur. Age alone cannot make this distinction; clinical assessment and appropriate allergy testing may be needed. This is a secondary review.",
       "url": "https://www.ccjm.org/content/92/6/335"
     }
+  },
+  {
+    "id": "s2fm-2521",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What blanket restriction does the PDF place on thiazides in diabetes or prediabetes?",
+    "a": "It says never give them and switch a diabetic patient from HCTZ to an ACE inhibitor or ARB.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    },
+    "guideline": {
+      "text": "ADA Standards 2026 includes thiazide-like diuretics among drug classes that reduce cardiovascular events in diabetes. ACE inhibitor/ARB therapy is specifically favored with albuminuria or coronary artery disease. Diabetes alone is not a blanket thiazide contraindication.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S216/163933/10-Cardiovascular-Disease-and-Risk-Management"
+    }
+  },
+  {
+    "id": "s2fm-2522",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What universal first antihypertensive class does the PDF select for diabetes?",
+    "a": "An ACE inhibitor or ARB before a thiazide or dihydropyridine calcium-channel blocker.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    },
+    "guideline": {
+      "text": "ADA 2026 recommendation 10.8 (grade A) favors ACE inhibitor/ARB therapy for diabetes with albuminuria or coronary artery disease. Without albuminuria, these drugs have not shown superior cardioprotection over thiazide-like diuretics or dihydropyridine calcium-channel blockers; other indications and contraindications still matter.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S216/163933/10-Cardiovascular-Disease-and-Risk-Management"
+    }
+  },
+  {
+    "id": "s2fm-2523",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What immediate follow-up does the PDF give for a massive unilateral adolescent breast mass?",
+    "a": "Reassurance and follow-up in six months, labeling it virginal breast hypertrophy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    },
+    "guideline": {
+      "text": "AAFP 2012 clinical review advises ultrasound for an enlarging adolescent mass and evaluation/referral for large or rapidly growing masses. A massive unilateral mass should not automatically be labeled normal puberty. This is an older secondary clinical review, not a newly issued guideline.",
+      "url": "https://www.aafp.org/afp/2012/0815/p325"
+    }
+  },
+  {
+    "id": "s2fm-2524",
+    "category": "Rapid-bullet source distinctions",
+    "q": "How does the PDF link Tanner stage 3 to timing of menarche?",
+    "a": "It says menarche is imminent.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    },
+    "guideline": {
+      "text": "ACOG Committee Opinion 2015 describes menarche usually 2-3 years after thelarche, typically at Tanner breast stage IV and rarely before stage III. Stage III alone does not set a precise immediate date.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2015/12/menstruation-in-girls-and-adolescents-using-the-menstrual-cycle-as-a-vital-sign"
+    }
+  },
+  {
+    "id": "s2fm-2525",
+    "category": "Final risk-factor detailed review",
+    "q": "What source neck/mediastinal pattern favors Hodgkin lymphoma?",
+    "a": "A painless lateral cervical mass with a mediastinal mass; the source also gives an older adult with painless cervical disease and hepatomegaly. These patterns require tissue-based evaluation rather than a diagnosis from location alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-2526",
+    "category": "Final risk-factor detailed review",
+    "q": "How can thyroid fibrosis cause a source mass to resemble anaplastic carcinoma?",
+    "a": "Riedel thyroiditis can extend into adjacent structures, including the esophageal region, causing a hard infiltrative thyroid presentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-2527",
+    "category": "Final risk-factor detailed review",
+    "q": "What renal potassium effect does the PDF assign to severe chronic cortisol excess?",
+    "a": "Distal potassium wasting with hypokalemia, reflecting mineralocorticoid-like effects of sufficiently high cortisol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-2528",
+    "category": "Final risk-factor detailed review",
+    "q": "Why does primary amenorrhea not eliminate pregnancy from the source suprapubic-mass differential?",
+    "a": "Ovulation can occur before the first menstrual bleed, so pregnancy testing remains relevant when clinically appropriate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-2529",
+    "category": "Final risk-factor detailed review",
+    "q": "How does the PDF distinguish perioperative-MI prevention from simply naming the most acceleratory risk factor?",
+    "a": "Its perioperative vignettes select smoking cessation even when diabetes is present. This is the source answer-choice emphasis, not a reason to omit glycemic, blood-pressure or other perioperative care.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-family-medicine.pdf#page=296"
+    }
+  },
+  {
+    "id": "s2fm-2530",
+    "category": "Final risk-factor detailed review",
+    "q": "Which noncardiac benefit does the source attach to smoking cessation after H pylori treatment?",
+    "a": "Promoting healing of duodenal ulcers; it is the source selected lifestyle answer rather than a substitute for eradication confirmation or ulcer care.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-family-medicine.pdf#page=297"
+    }
+  },
+  {
+    "id": "s2fm-2531",
+    "category": "Final risk-factor detailed review",
+    "q": "What findings does the source combine to emphasize hypertensive heart disease?",
+    "a": "An S4, lateralized apical impulse, left-axis deviation, left bundle branch block and paradoxical S2 splitting in a hypertensive patient. Individual findings are not exclusive proof of LV hypertrophy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 299,
+      "url": "/mehlman/hy-family-medicine.pdf#page=299"
+    }
+  },
+  {
+    "id": "s2fm-2532",
+    "category": "Final risk-factor detailed review",
+    "q": "What order of aortic and pulmonic closure produces source paradoxical splitting?",
+    "a": "A2 occurs after P2, such as with delayed left-ventricular activation/ejection; it is not the normal inspiratory splitting order.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 299,
+      "url": "/mehlman/hy-family-medicine.pdf#page=299"
+    }
+  },
+  {
+    "id": "s2fm-2533",
+    "category": "Final risk-factor detailed review",
+    "q": "What meaning does the source assign to venous disease when contrasting it with a definite DVT?",
+    "a": "Chronic valvular insufficiency with brawny edema/pigmentation or varicose veins, not automatically an already-diagnosed deep venous thrombosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-family-medicine.pdf#page=300"
+    }
+  },
+  {
+    "id": "s2fm-2534",
+    "category": "Final risk-factor detailed review",
+    "q": "How does the source compare blood volume in variceal bleeding and Mallory-Weiss tears?",
+    "a": "It says varices often cause copious bleeding and retch-related tears often less, while explicitly noting this is not a 100% rule. Bleeding amount alone cannot establish or exclude either diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-family-medicine.pdf#page=301"
+    }
+  },
+  {
+    "id": "s2fm-2535",
+    "category": "Final risk-factor detailed review",
+    "q": "Which lifestyle answer does the PDF select for a normal-BMI patient with unfavorable lipids?",
+    "a": "An exercise program rather than a weight-loss program in its BMI23 example; that selected answer does not replace indicated lipid treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-family-medicine.pdf#page=301"
+    }
+  },
+  {
+    "id": "s2fm-2536",
+    "category": "Final risk-factor detailed review",
+    "q": "What source vessel change makes an older adult more susceptible to subdural bleeding?",
+    "a": "Brain-volume loss increases bridging-vein vulnerability; the source also lists alcohol-related and dementia-associated atrophy and deceleration injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-2537",
+    "category": "Final risk-factor detailed review",
+    "q": "What industry does the source pair with beryllium exposure?",
+    "a": "Aerospace/aeronautical work, contrasted with shipyard/insulation asbestos exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-family-medicine.pdf#page=305"
+    }
+  },
+  {
+    "id": "s2fm-2538",
+    "category": "Final risk-factor detailed review",
+    "q": "Can RA itself contribute to the source dry-cough/interstitial-lung presentation apart from a medication?",
+    "a": "Yes. The source lists rheumatoid lung disease independently of methotrexate exposure; establishing the cause of a new pulmonary syndrome requires evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-family-medicine.pdf#page=306"
+    }
+  },
+  {
+    "id": "s2fm-2539",
+    "category": "Final risk-factor detailed review",
+    "q": "Can Felty syndrome include anemia or low platelets as well as neutropenia?",
+    "a": "Yes, the source notes these can accompany RA and splenomegaly, although neutropenia is central to its named triad.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-family-medicine.pdf#page=306"
+    }
+  },
+  {
+    "id": "s2fm-2540",
+    "category": "Final risk-factor detailed review",
+    "q": "What mechanism links an anticholinergic drug to postrenal injury in a susceptible older man?",
+    "a": "Urinary retention superimposed on outlet obstruction; its example uses amitriptyline and BPH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-family-medicine.pdf#page=307"
+    }
+  },
+  {
+    "id": "s2fm-2541",
+    "category": "Final risk-factor detailed review",
+    "q": "What alternate infectious cause of achalasia does the source name?",
+    "a": "Trypanosoma cruzi infection (Chagas disease), which can also cause dilated cardiomyopathy; many source cases are idiopathic.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-family-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2fm-2542",
+    "category": "Final risk-factor detailed review",
+    "q": "Why can calcium replacement appear ineffective in a source alcohol-related deficiency vignette?",
+    "a": "Concurrent magnesium deficiency can sustain hypocalcemia, and can also make hypokalemia difficult to correct.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-family-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2fm-2543",
+    "category": "Final risk-factor detailed review",
+    "q": "What two bowel-motility patterns does the source associate with diabetic autonomic neuropathy?",
+    "a": "Diarrhea and constipation; its simplified sympathetic-versus-parasympathetic explanation is not a complete account of diabetic bowel dysfunction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-family-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2fm-2544",
+    "category": "Final risk-factor detailed review",
+    "q": "Why does the source prioritize an ascitic-fluid white-cell count with differential over choosing Gram stain alone?",
+    "a": "It seeks the inflammatory/neutrophil response in suspected bacterial peritonitis; appropriate cultures remain part of evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    }
+  },
+  {
+    "id": "s2fm-2545",
+    "category": "Final risk-factor detailed review",
+    "q": "What endometrial receptor effect makes prior hysterectomy relevant in the PDF tamoxifen vignette?",
+    "a": "Tamoxifen can partially stimulate endometrium, so removing the uterus removes that specific endometrial risk. It does not make other tamoxifen risks disappear.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2fm-2546",
+    "category": "Final risk-factor detailed review",
+    "q": "How does the source explain greater gallstone risk in pregnancy?",
+    "a": "Progesterone slows biliary emptying and estrogen increases cholesterol concentration in bile, favoring sludge/stones.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-family-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2fm-2547",
+    "category": "Final risk-factor detailed review",
+    "q": "How does the source describe the Heyde link between aortic stenosis and painless GI bleeding?",
+    "a": "Colonic angiodysplasia with acquired von Willebrand dysfunction in the setting of aortic stenosis; angiodysplasia is a superficial vascular lesion rather than colorectal cancer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2fm-2548",
+    "category": "Final risk-factor detailed review",
+    "q": "What sources of placental insufficiency does the PDF list with fetal growth restriction?",
+    "a": "Smoking, cocaine exposure, hypertension and SLE. These are examples, not a complete differential or proof of any one exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2fm-2549",
+    "category": "Final risk-factor detailed review",
+    "q": "What temporary digestive-enzyme loss follows the source gastroenteritis vignette?",
+    "a": "Brush-border lactase loss, causing secondary lactose intolerance after mucosal injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2fm-2550",
+    "category": "Final risk-factor detailed review",
+    "q": "What congenital urinary outflow problem does the source pair with recurrent pyelonephritis and renal scarring?",
+    "a": "Posterior urethral valves/congenital urethral obstruction, alongside vesicoureteral reflux as another risk context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2fm-2551",
+    "category": "Final risk-factor detailed review",
+    "q": "Which two ectopic products explain high hemoglobin and high calcium in the PDF RCC vignette?",
+    "a": "Erythropoietin and PTH-related peptide; smoking is a source risk factor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-family-medicine.pdf#page=316"
+    }
+  },
+  {
+    "id": "s2fm-2552",
+    "category": "Final risk-factor detailed review",
+    "q": "Which antibody location does the source use to separate myasthenia from Lambert-Eaton?",
+    "a": "Postsynaptic acetylcholine receptor in myasthenia versus presynaptic voltage-gated calcium channel in Lambert-Eaton; not every clinical case is positive for these particular antibodies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    }
+  },
+  {
+    "id": "s2fm-2553",
+    "category": "Final risk-factor detailed review",
+    "q": "What tumor association does the source give for proximal weakness with Gottron and heliotrope findings?",
+    "a": "Dermatomyositis associated with ovarian cancer; it also notes many cases are not attributed to a known tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    }
+  },
+  {
+    "id": "s2fm-2554",
+    "category": "Final risk-factor detailed review",
+    "q": "What systemic deposition can link myeloma-associated protein disease to renal and cardiac dysfunction?",
+    "a": "Amyloid deposition; the source combines nephrotic syndrome, cardiac stiffness/S4 and a myeloma-type context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    }
+  },
+  {
+    "id": "s2fm-2555",
+    "category": "Diabetes exact diagnostic wording",
+    "q": "Which strict-versus-inclusive A1c threshold appears in the PDF diabetes criteria?",
+    "a": "It says A1c greater than 6.5%, rather than 6.5% or above.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 302,
+      "url": "/mehlman/hy-family-medicine.pdf#page=302"
+    },
+    "guideline": {
+      "text": "NIDDK diagnostic table uses A1c 6.5% or above. Testing/confirmation and conditions affecting A1c interpretation still matter.",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis"
+    }
+  },
+  {
+    "id": "s2fm-2556",
+    "category": "Diabetes exact diagnostic wording",
+    "q": "What missing clinical qualifier appears in the PDF random-glucose diabetes rule?",
+    "a": "It says any one random glucose of 200 mg/dL or greater diagnoses diabetes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 302,
+      "url": "/mehlman/hy-family-medicine.pdf#page=302"
+    },
+    "guideline": {
+      "text": "NIDDK describes random plasma glucose 200 mg/dL or above for diagnosing diabetes when symptoms are present, and usually uses a second test to confirm diabetes. A single asymptomatic random result does not automatically satisfy every diagnostic pathway.",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis"
+    }
   }
 ];
