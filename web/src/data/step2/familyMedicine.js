@@ -23507,7 +23507,7 @@ export default [
   {
     "id": "s2fm-2053",
     "category": "Ophthalmology source details",
-    "q": "How does the source distinguish CN III,IV andVI eye-position palsies?",
+    "q": "How does the source distinguish CN III, IV and VI eye-position palsies?",
     "a": "CN III: down-and-out; CN IV: vertical misalignment with compensatory head tilt; CN VI: impaired abduction with medial deviation. The diagram is a source simplification of muscle actions.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -25383,7 +25383,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=253"
     },
     "guideline": {
-      "text": "CCJM 2025 review of the 2024 multi-society consensus: routine bicarbonate is not recommended; consider it for severe acidosis with pH<7.0. This note is grounded in the clinical review, not a fully retrieved primary treatment section.",
+      "text": "CCJM 2025 review of the 2024 multi-society consensus: routine bicarbonate is not recommended; consider it for severe acidosis with pH <7.0. This note is grounded in the clinical review, not a fully retrieved primary treatment section.",
       "url": "https://www.ccjm.org/content/92/3/152"
     }
   },
@@ -26147,8 +26147,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=287"
     },
     "guideline": {
-      "text": "The 2023 international PCOS guideline recommends letrozole first-line for ovulation induction in anovulatory infertile women with PCOS and no other infertility factors, where use is permitted.",
-      "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recommendations-from-the-2023-international-evidence-based-guideline-for-the-assessment-and-management-of-polycystic-ovary-syndrome/"
+      "text": "A 2024 Medical Journal of Australia summary of the 2023 international PCOS guideline recommends letrozole first-line for anovulatory infertility in PCOS without other infertility factors. Local prescribing rules still apply.",
+      "url": "https://www.mja.com.au/journal/2024/221/7/summary-2023-international-evidence-based-guideline-assessment-and-management"
     }
   },
   {
@@ -26536,6 +26536,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 306,
       "url": "/mehlman/hy-family-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics: SERPINA1-related alpha-1 antitrypsin deficiency leaves neutrophil elastase inadequately controlled, damaging alveoli. The missing protection is antiprotease, not elastase itself.",
+      "url": "https://medlineplus.gov/genetics/condition/alpha-1-antitrypsin-deficiency/"
     }
   },
   {
