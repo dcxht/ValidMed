@@ -76,3 +76,4 @@ Second detail pass pp211-228:51 additional cards,2143total,230figures,132current
 Second detail pass pp229-245:49additional cards,2192total,230figures,140current-source notes. Still Partial; exact claims remain open.
 Second detail pass pp246-259:36additional cards,2228total,230figures,150current-source notes. Still Partial.
 Second detail pass pp260-279:35additional cards,2263total,230figures,157current-source notes. Repeated bullets compared with earlier cards rather than automatically duplicated. Partial retained.
+Second detail pass pp280-298:33additional cards,2296total,230figures,164current-source notes. Source claims remain open; Partial retained.

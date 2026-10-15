@@ -25980,5 +25980,396 @@ export default [
       "page": 279,
       "url": "/mehlman/hy-family-medicine.pdf#page=279"
     }
+  },
+  {
+    "id": "s2fm-2264",
+    "category": "Rapid-review source details",
+    "q": "What source neonatal conduction complication can follow maternal lupus antibodies?",
+    "a": "Congenital complete heart block; the maternal diagnostic label alone does not mean every exposed infant develops it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-family-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2fm-2265",
+    "category": "Rapid-review source details",
+    "q": "What final USPSTF mammography guidance replaces the PDF start-at-50 shortcut?",
+    "a": "USPSTF 2024: biennial mammography at 40-74 for average-risk screening, Grade B. Evidence is insufficient at 75+ and for supplemental imaging of dense breasts after otherwise negative mammography (I statements).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "USPSTF 2024 final recommendation, replacing the older age 50 start. High-risk genetic/personal-history groups need separate guidance.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-2266",
+    "category": "Rapid-review source details",
+    "q": "What final USPSTF colorectal ages replace source screening at 50?",
+    "a": "USPSTF 2021: screen average-risk adults 45-49 (Grade B) and 50-75 (Grade A); selectively screen 76-85 (Grade C) using health, prior screening and preferences.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "USPSTF 2021 final. Colonoscopy every 10 years is one option; it is not the only accepted screening method. Familial syndromes/high-risk histories need separate pathways.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-2267",
+    "category": "Rapid-review source details",
+    "q": "How does the source distinguish motility dysphagia from a progressively obstructing lesion?",
+    "a": "Solids and liquids from the start versus solids progressing to liquids; this is a pattern clue, not a substitute for evaluating alarm symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-2268",
+    "category": "Rapid-review source details",
+    "q": "What source sequence investigates suspected diabetic gastroparesis?",
+    "a": "Exclude mechanical obstruction, then measure gastric emptying when indicated; diabetes plus reflux alone is not proof of gastroparesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-2269",
+    "category": "Rapid-review source details",
+    "q": "What is the source endocrine contrast between low-energy amenorrhea and ovarian failure?",
+    "a": "Low gonadotropin/estrogen signaling with hypothalamic suppression versus elevated FSH with diminished ovarian feedback.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-2270",
+    "category": "Rapid-review source details",
+    "q": "Why can sarcoid hypercalcemia suppress PTH?",
+    "a": "Activated macrophage 1-alpha-hydroxylase increases active vitamin D independently of normal renal feedback; rising calcium suppresses native PTH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-2271",
+    "category": "Rapid-review source details",
+    "q": "What source clue suggests granulomatosis with polyangiitis rather than isolated anti-GBM disease?",
+    "a": "Pulmonary-renal disease plus upper-airway inflammation/destruction, with PR3-ANCA as its serologic association. ANCA is not an absolute required/exclusive finding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-2272",
+    "category": "Rapid-review source details",
+    "q": "Why does CD40-ligand deficiency impair antibody class switching?",
+    "a": "T-cell help cannot normally signal B-cell CD40, leaving a hyper-IgM pattern in the source; it is not simply absent total antibody production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-2273",
+    "category": "Rapid-review source details",
+    "q": "Why is a topical mouth rinse insufficient for the source esophageal-candidiasis example?",
+    "a": "Esophageal disease needs systemic therapy; the source contrasts oral fluconazole-type treatment with a mouth-local nystatin rinse.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    }
+  },
+  {
+    "id": "s2fm-2274",
+    "category": "Rapid-review source details",
+    "q": "How does the PDF varicella schedule differ from the current CDC routine series?",
+    "a": "The PDF lists a single dose at 12-18 months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "CDC recommends two doses: 12-15 months and 4-6 years for the routine childhood series. Catch-up intervals depend on age and prior immunity.",
+      "url": "https://cdc.gov/chickenpox/hcp/vaccine-considerations/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2275",
+    "category": "Rapid-review source details",
+    "q": "Why does a restrictive pattern often preserve or raise the FEV1/FVC ratio?",
+    "a": "Both volumes fall, but FVC may fall proportionally more; the source uses a normal/high ratio as a pattern clue rather than proving restriction without lung-volume testing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2fm-2276",
+    "category": "Rapid-review source details",
+    "q": "How do iron deficiency and inflammation differ in the source iron studies?",
+    "a": "Iron deficiency tends toward low ferritin with increased transferrin/TIBC; inflammation tends toward normal/high ferritin with reduced transferrin/TIBC. Mixed disease can obscure the contrast.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2fm-2277",
+    "category": "Rapid-review source details",
+    "q": "Which fertility drug does the source select for anovulatory PCOS?",
+    "a": "Clomiphene.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "The 2023 international PCOS guideline recommends letrozole first-line for ovulation induction in anovulatory infertile women with PCOS and no other infertility factors, where use is permitted.",
+      "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recommendations-from-the-2023-international-evidence-based-guideline-for-the-assessment-and-management-of-polycystic-ovary-syndrome/"
+    }
+  },
+  {
+    "id": "s2fm-2278",
+    "category": "Rapid-review source details",
+    "q": "Why does chronic anovulation increase the source endometrial-risk concern?",
+    "a": "Prolonged unopposed estrogen exposure without regular progesterone-mediated shedding can increase hyperplasia/cancer risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-2279",
+    "category": "Rapid-review source details",
+    "q": "What source gout distinction separates attack relief from urate lowering?",
+    "a": "Anti-inflammatory agents treat an acute flare; xanthine-oxidase inhibitors lower urate over time. Its NSAID/steroid/colchicine rank is a simplified answer-choice ladder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-2280",
+    "category": "Rapid-review source details",
+    "q": "Why does the source avoid uricosuric probenecid with uric-acid stone history?",
+    "a": "Increasing urinary uric acid can aggravate stone risk; renal function/other factors also affect selection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-2281",
+    "category": "Rapid-review source details",
+    "q": "What two treatment aims does the source distinguish in RA?",
+    "a": "Symptom control and suppression of disease activity/progression with DMARDs; a fixed methotrexate-only-first ladder does not apply to every patient or contraindication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-2282",
+    "category": "Rapid-review source details",
+    "q": "Which methotrexate toxicities does the source emphasize?",
+    "a": "Mouth ulcers/cytopenias, liver toxicity and lung toxicity. Symptoms and appropriate monitoring matter rather than assuming all mouth ulcers have one cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-2283",
+    "category": "Rapid-review source details",
+    "q": "What drug does ACR describe as the RA DMARD in the source sulfasalazine discussion?",
+    "a": "Sulfasalazine itself; the PDF calls mesalamine the absorbed RA-active component.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "ACR identifies sulfasalazine as the DMARD used for RA. The patient guidance does not verify the PDF mesalamine-active-moiety explanation; that specific mechanism remains unresolved.",
+      "url": "https://rheumatology.org/patients/sulfasalazine-azulfidine"
+    }
+  },
+  {
+    "id": "s2fm-2284",
+    "category": "Rapid-review source details",
+    "q": "How does the source contrast immune peripheral cytopenia with marrow failure?",
+    "a": "Antibody-mediated destruction in SLE/ITP versus deficient production in an aplastic pattern; real cases require evaluation for competing causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2fm-2285",
+    "category": "Rapid-review source details",
+    "q": "What separate roles of vWF link platelet adhesion and coagulation?",
+    "a": "It bridges platelet GpIb to exposed collagen and carries/stabilizes factor VIII; this explains mucosal bleeding and possible prolonged aPTT.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-2286",
+    "category": "Rapid-review source details",
+    "q": "Which source drug adverse effect makes fever plus oral ulcers urgent?",
+    "a": "Severe neutropenia/agranulocytosis after agents including thionamides, clozapine, ganciclovir or methotrexate; the source calls for prompt evaluation and broad-spectrum antibiotics for febrile neutropenia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-2287",
+    "category": "Rapid-review source details",
+    "q": "How do the source routes of spread differ for papillary and follicular thyroid carcinoma?",
+    "a": "Papillary typically lymphatic versus follicular typically hematogenous; follicular architecture alone does not establish malignant invasion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-2288",
+    "category": "Rapid-review source details",
+    "q": "Does GINA 2026 support the source universal SABA-only then maximize ICS ladder?",
+    "a": "The PDF teaches that ladder as universal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-family-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "GINA 2026 keeps ICS-formoterol as preferred adult/adolescent anti-inflammatory reliever strategy and adds ICS-SABA at Track 2 Step 1. Age, available products and regimen determine the pathway, rather than SABA-only as universal first treatment.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2289",
+    "category": "Rapid-review source details",
+    "q": "Is source inhaled corticosteroid therapy completely excluded from acute asthma care by GINA 2026?",
+    "a": "The PDF says ICS has no acute role.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-family-medicine.pdf#page=293"
+    },
+    "guideline": {
+      "text": "GINA 2026 adds ICS-formoterol as an option for a mild exacerbation in adults/adolescents and children 6-11 in primary/ED care. This does not replace systemic steroids or other emergency care when indicated.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2290",
+    "category": "Rapid-review source details",
+    "q": "What source mechanism connects aspirin sensitivity with leukotriene-directed therapy?",
+    "a": "COX-pathway inhibition can amplify leukotriene-mediated bronchoconstriction in susceptible patients; zileuton blocks synthesis and montelukast-type drugs block receptor signaling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-family-medicine.pdf#page=293"
+    }
+  },
+  {
+    "id": "s2fm-2291",
+    "category": "Rapid-review source details",
+    "q": "Why can normalizing CO2 be dangerous in a still-hypoxemic, tiring asthma patient?",
+    "a": "It may reflect failing ventilation rather than recovery; the source uses this evolving pattern as a respiratory-failure warning, interpreted alongside clinical effort/mental status.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-2292",
+    "category": "Rapid-review source details",
+    "q": "How does source timing separate IgA nephropathy from postinfectious GN?",
+    "a": "Hematuria during/within days of a respiratory infection versus a delayed interval after infection. Timing helps, but complement, clinical severity and other testing matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-2293",
+    "category": "Rapid-review source details",
+    "q": "What physiologic target explains NSAIDs for source primary dysmenorrhea?",
+    "a": "Inhibition of prostaglandin production, reducing uterine cramping when no secondary cause is suggested.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    }
+  },
+  {
+    "id": "s2fm-2294",
+    "category": "Rapid-review source details",
+    "q": "Why should the source diabetes-smoking-hypertension risk ordering not be a universal calculator?",
+    "a": "It is an exam heuristic. Absolute risk depends on age, exposure intensity, duration, existing disease and other variables; risk-factor treatment is not mutually exclusive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-family-medicine.pdf#page=296"
+    }
+  },
+  {
+    "id": "s2fm-2295",
+    "category": "Rapid-review source details",
+    "q": "Why does the source smoking-cessation message still matter with outdoor-only parental smoking?",
+    "a": "The source links household tobacco exposure with recurrent otitis risk, despite the claim that smoking occurs outside.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-family-medicine.pdf#page=297"
+    }
+  },
+  {
+    "id": "s2fm-2296",
+    "category": "Rapid-review source details",
+    "q": "What source symptom makes severe carotid disease symptomatic?",
+    "a": "A prior ipsilateral retinal/cerebral ischemic event such as amaurosis/retinal artery occlusion, TIA or stroke, not a bruit alone. Degree, anatomy, timing and operative risk affect intervention.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-family-medicine.pdf#page=298"
+    }
   }
 ];
