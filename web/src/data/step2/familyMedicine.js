@@ -20930,6 +20930,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 124,
       "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    },
+    "guideline": {
+      "text": "AAD describes HHV-6/7 as a plausible cause with supporting findings, but says the exact mechanism remains unproven and other causes have been proposed. Association should not be presented as a settled universal cause.",
+      "url": "https://www.aad.org/public/diseases/a-z/pityriasis-rosea-causes"
     }
   },
   {
@@ -20952,6 +20956,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 125,
       "url": "/mehlman/hy-family-medicine.pdf#page=125"
+    },
+    "guideline": {
+      "text": "CDC Yellow Book says more than 20 Leishmania species cause human disease; L. donovani and L. infantum are the most common visceral causes. A generic cutaneous-ulcer stem does not identify every case as L. donovani.",
+      "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/leishmaniasis.html"
     }
   },
   {
@@ -33208,6 +33216,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 117,
       "url": "/mehlman/hy-family-medicine.pdf#page=117"
+    },
+    "guideline": {
+      "text": "CDC lists both lone-star and blacklegged ticks as ehrlichiosis vectors, depending on species. The Ixodes association should not be generalized to every Ehrlichia infection.",
+      "url": "https://www.cdc.gov/ehrlichiosis/about/"
     }
   },
   {
@@ -33268,8 +33280,8 @@ export default [
   {
     "id": "s2fm-2795",
     "category": "Dermatology infection source review",
-    "q": "How does the source distinguish rubella lymph-node findings from measles Koplik spots?",
-    "a": "Rubella can cause posterior-auricular and suboccipital lymphadenopathy with a head-to-toe rash.",
+    "q": "What direction does the PDF describe for spread of the rubella exanthem?",
+    "a": "Head to toe, as for its measles comparison; posterior-auricular/suboccipital nodes distinguish its rubella pattern.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 121,
@@ -33294,8 +33306,8 @@ export default [
   {
     "id": "s2fm-2797",
     "category": "Exact-source qualifier review",
-    "q": "What does the source infer once a child develops parvovirus slapped cheeks?",
-    "a": "The child has immunologically cleared the virus.",
+    "q": "Does loss of contagiousness after the fifth-disease rash prove viral clearance in every host?",
+    "a": "The PDF uses immunologic clearance as its explanation once slapped cheeks appear; this is broader than simply describing the usual contagious period.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 121,
@@ -33304,6 +33316,109 @@ export default [
     "guideline": {
       "text": "CDC says people are usually no longer contagious after rash or joint symptoms, but anemia and weakened immunity can prolong contagiousness. A rash alone should not establish clearance for every patient or host state.",
       "url": "https://www.cdc.gov/parvovirus-b19/prevention-treatment/"
+    }
+  },
+  {
+    "id": "s2fm-2798",
+    "category": "Dermatology mechanism source review",
+    "q": "What hypersensitivity mechanism does the source label for erythema multiforme?",
+    "a": "Type III immune-complex-mediated injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-family-medicine.pdf#page=128"
+    },
+    "guideline": {
+      "text": "Merck professional guidance describes HSV-associated erythema multiforme as a Th1/T-cell-mediated cytotoxic reaction to viral DNA fragments in keratinocytes. The source universal immune-complex explanation is not the same mechanism.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/erythema-multiforme"
+    }
+  },
+  {
+    "id": "s2fm-2799",
+    "category": "Dermatology mechanism source review",
+    "q": "What fever-rash sequence does the PDF use for roseola?",
+    "a": "High spiking fever for two to three days, followed by a rash; it names HHV-6.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-family-medicine.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2fm-2800",
+    "category": "Dermatology mechanism source review",
+    "q": "Which anatomic sites and lesions does the PDF use for hidradenitis suppurativa?",
+    "a": "Painful abscesses and sinus tracts in axillae, groin or inframammary skin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2fm-2801",
+    "category": "Dermatology mechanism source review",
+    "q": "What clinical context does the PDF emphasize for pediatric shingles?",
+    "a": "Immunocompromised children, for example during chemotherapy; the disease is not limited to adults.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-family-medicine.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2fm-2802",
+    "category": "Dermatology mechanism source review",
+    "q": "What broad treatment category does the source choose for Kaposi sarcoma among antifungal/antibacterial/antineoplastic choices?",
+    "a": "Antineoplastic treatment, because it is a vascular-lymphatic tumor rather than a routine skin infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-family-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2fm-2803",
+    "category": "Dermatology mechanism source review",
+    "q": "What virus family and surface feature does the PDF associate with molluscum contagiosum?",
+    "a": "Poxvirus and centrally umbilicated skin-colored or reddish papules.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-family-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2fm-2804",
+    "category": "Dermatology mechanism source review",
+    "q": "What aquatic exposure does the source associate with Mycobacterium marinum lesions?",
+    "a": "Aquarium/water-park exposure followed by red hand or arm lesions; the source includes both children and adults.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-family-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2fm-2805",
+    "category": "Dermatology mechanism source review",
+    "q": "What source triggers worsen rosacea facial erythema?",
+    "a": "Alcohol and spicy foods; it also mentions cold-associated discomfort.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-family-medicine.pdf#page=130"
+    }
+  },
+  {
+    "id": "s2fm-2806",
+    "category": "Dermatology mechanism source review",
+    "q": "What immune mechanism does the source give for vitiligo?",
+    "a": "T-cell-mediated melanocyte destruction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-family-medicine.pdf#page=129"
     }
   }
 ];
