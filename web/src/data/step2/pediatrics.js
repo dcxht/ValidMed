@@ -6219,5 +6219,541 @@ export default [
       "page": 41,
       "url": "/mehlman/hy-pediatrics.pdf#page=41"
     }
+  },
+  {
+    "id": "s2peds-0485",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What source test and definitive operation are used for pyloric stenosis?",
+    "a": "Ultrasound to diagnose and pyloromyotomy to treat.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Johns Hopkins pathway March 2026: correct dehydration/electrolyte abnormalities before pyloromyotomy. A definitive operation is not a reason to skip preoperative stabilization.",
+      "url": "https://www.hopkinsmedicine.org/-/media/files/allchildrens/clinical-pathways/pyloric-stenosis-3_24_26.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0486",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "How does the source contrast isolated pyloric stenosis with the Down-syndrome association of duodenal atresia?",
+    "a": "It describes pyloric stenosis as usually sporadic/isolated and duodenal atresia as often associated with Down syndrome. The PDF overstates the latter as usually Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "StatPearls updated 2023 estimates Down syndrome in about 30-40% of children with duodenal atresia, not a majority. An association is not mandatory or the same as most cases.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470548/"
+    }
+  },
+  {
+    "id": "s2peds-0487",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Does the source sporadic-pyloric-stenosis description mean there is no inherited contribution?",
+    "a": "No. The source focuses on an isolated clinical presentation rather than a broad syndrome; isolated does not mean genetics has no role.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Johns Hopkins March 2026 pathway describes genetic predisposition with environmental influence. The cause remains incompletely understood.",
+      "url": "https://www.hopkinsmedicine.org/-/media/files/allchildrens/clinical-pathways/pyloric-stenosis-3_24_26.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0488",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What vomiting pattern suggests the source neonatal duodenal atresia?",
+    "a": "Bilious vomiting soon after birth. The PDF uses this as a congenital intestinal-obstruction clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "StatPearls 2023: atresia is usually distal to the ampulla of Vater and then causes bilious vomiting; proximal atresia can cause nonbilious vomiting. Not every duodenal obstruction must be bilious.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470548/"
+    }
+  },
+  {
+    "id": "s2peds-0489",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What anatomic qualification sharpens the source statement that bilious vomiting means obstruction at the duodenum or lower?",
+    "a": "The obstruction is generally distal to the entry of bile at the ampulla of Vater, not just anywhere within the duodenum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "StatPearls 2023 distinguishes obstruction proximal versus distal to the ampulla. Bilious vomiting in an infant warrants urgent evaluation of obstruction, including malrotation/volvulus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470548/"
+    }
+  },
+  {
+    "id": "s2peds-0490",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What sign and source diagnosis fit this actual neonatal abdominal radiograph, and what do S and D mark?",
+    "a": "Double-bubble sign, associated here with duodenal atresia. S marks the distended stomach and D the proximal duodenum; the source image is retained, not a substitute illustration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "StatPearls 2023: the double bubble identifies proximal duodenal obstruction, with important alternatives including stenosis/annular pancreas and malrotation/volvulus. It should prompt surgical assessment, not an assumption that every double bubble has identical anatomy.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470548/"
+    },
+    "img": "/mehlman/figures/peds-p042-01.jpeg"
+  },
+  {
+    "id": "s2peds-0491",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What second congenital pancreatic condition does the source list as a rarer cause of duodenal obstruction and double bubble?",
+    "a": "Annular pancreas. The PDF contrasts it with duodenal atresia; the shared image sign is not enough to distinguish the cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2peds-0492",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What source developmental mechanism is clinically relevant to annular pancreas?",
+    "a": "Abnormal migration/rotation of the ventral pancreatic bud, producing pancreatic tissue around the duodenum. This explains a congenital cause of neonatal duodenal obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "The Pancreas review describes partial or complete encirclement of the second duodenum and abnormal ventral-pancreas rotation. Complete obstruction can cause bilious vomiting and a double bubble.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7124086/"
+    }
+  },
+  {
+    "id": "s2peds-0493",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What palpable mass does the source associate with intussusception, and how does its location compare with the verified clinical guide?",
+    "a": "A sausage-shaped abdominal mass. The PDF says usually right lower quadrant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Perth Children's Hospital ED guide describes a mass in the right upper quadrant and notes it may be difficult to palpate. Do not memorize the source RLQ location as a required finding.",
+      "url": "https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/Intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0494",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Does lack of a palpable mass prove midgut volvulus or rule out intussusception?",
+    "a": "No. The PDF contrasts an intussusception mass with no overt mass in volvulus, but this is an exam heuristic, not a reliable exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Merck 2025 says an intussusception mass is only sometimes present. Absence of the mass does not safely exclude it; ultrasound and the whole clinical presentation matter.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0495",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What is Dance sign in the source intussusception discussion?",
+    "a": "Retraction/emptiness of the right lower quadrant. The author gives it low exam priority and favors the overall mass/imaging pattern; the exam-frequency judgment is the author's observation, not a validated diagnostic score.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2peds-0496",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What source upper-GI-series finding favors midgut volvulus?",
+    "a": "A corkscrew appearance of the small bowel. The PDF considers this a stronger exam clue than age alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CAHS neonatal guideline reviewed December 2025 treats suspected malrotation/volvulus as urgent: normal abdominal exam or plain radiograph does not rule it out, and upper-GI contrast is the usual key investigation.",
+      "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0497",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Which imaging modality and signs does the source associate with intussusception?",
+    "a": "Ultrasound showing a target sign or sausage-shaped mass. The author's claim that exams rarely show the image is not a clinical reason to avoid ultrasound.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Merck 2025 recommends ultrasound as the preferred diagnostic study; a target sign is characteristic.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0498",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What plain-abdominal-radiograph finding can occur in either intussusception or volvulus?",
+    "a": "Dilated small-bowel loops with air-fluid levels. The source correctly treats this as a nonspecific intestinal-obstruction pattern, not a reliable separator.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2peds-0499",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Does an air-fluid level on a chest radiograph always mean pulmonary abscess, as the source contrast suggests?",
+    "a": "No. The PDF contrasts abdominal obstruction levels with pulmonary abscess on chest imaging, but chest air-fluid levels have a broader differential.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Loyola chest-radiograph atlas also lists loculated empyema, hydropneumothorax, esophageal obstruction, mediastinal abscess, hydropneumopericardium, hiatal hernia and chest-wall abscess. Location and the full image matter.",
+      "url": "https://www.meddean.luc.edu/lumen/meded/medicine/pulmonar/cxr/atlas/airfluidlevels.htm"
+    }
+  },
+  {
+    "id": "s2peds-0500",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What typical age range does p42 give for intussusception, and is it a hard cutoff?",
+    "a": "The source says three months to two years; it also warns that age overlaps with volvulus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Merck 2025 gives a usual range of six months to three years, with about 70% before age two. Perth gives a peak of five to ten months and possible presentations from three months to five years. The source range must not exclude older or younger cases.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0501",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What early-age pattern and percentage does p42 give for midgut volvulus?",
+    "a": "Usually the first month of life, with a source claim of 90% under age one. The exact percentage is retained as source framing, not independently validated for every population.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CAHS December 2025 discusses early presentation of malrotation and its volvulus risk; age does not replace urgent assessment of bilious vomiting. Its malrotation age estimates should not be mislabeled as a directly equivalent volvulus cohort.",
+      "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0502",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "How does p42 advise using age when separating intussusception from midgut volvulus?",
+    "a": "Use age as supporting context, not the sole answer selector. The author finds abdominal exam and characteristic imaging more useful because the age distributions overlap.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 42,
+      "url": "/mehlman/hy-pediatrics.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2peds-0503",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What source five-month-old vignette illustrates why age alone cannot separate volvulus from intussusception?",
+    "a": "The author cites an upper-GI series with a corkscrew appearance and no palpable mass in a five-month-old, selecting midgut volvulus. This is its reported exam example, not a newly verified exam record.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2peds-0504",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Which overlapping symptoms and plain-film finding does p43 say can occur in both intussusception and volvulus?",
+    "a": "Bilious vomiting, bloody stool, intermittent crying/vomiting or leg-drawing/squatting episodes, and intestinal-obstruction air-fluid levels. None of those alone safely chooses one diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2peds-0505",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What order of clues does the source propose for its intussusception-versus-volvulus exam questions?",
+    "a": "Palpable abdominal mass first, characteristic imaging second, age third. This is the author's test-taking heuristic, not a clinical rule-out algorithm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025: a mass can be absent and atypical intussusception may present with lethargy. Imaging and urgent assessment must not wait for every classic clue.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0506",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What bowel mechanism is shown in the actual source diagram beside normal bowel?",
+    "a": "Intussusception: one bowel segment telescopes into an adjacent segment. The arrow and both original bowel drawings are preserved; the printed answer labels are cropped out.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025: invagination can obstruct the lumen and compromise blood flow, progressing to ischemia, gangrene and perforation.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    },
+    "img": "/mehlman/figures/peds-p043-01.jpeg"
+  },
+  {
+    "id": "s2peds-0507",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Is the source claim that 90% of intussusception is simply jejunal or ileal small-bowel disease the usual clinical location?",
+    "a": "The PDF says 90% occurs in jejunum or ileum and cites an exam choosing jejunum as the only small-bowel option. That selected-option anecdote should not replace the usual clinical anatomy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025 identifies ileocolic intussusception as the most common type; Perth locates it most commonly at the ileocecal junction. Do not teach jejunum as the usual site.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0508",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What age framing does the p43 intussusception row repeat?",
+    "a": "It says almost always three months to two years. This repeats the source table, but should not be used as a strict diagnostic exclusion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025 describes usual presentation between six months and three years, with cases outside that range. The clinical assessment remains necessary.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0509",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What underlying cause does the source give for most childhood intussusception, and how can a recent viral illness fit?",
+    "a": "Most cases are idiopathic; the source links some to viral illness and lymphoid/mesenteric enlargement acting as a lead-point mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025 describes most cases as idiopathic and antecedent viral illness in about 30%. A recent virus is a possible association, not proof of the diagnosis or a required history.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0510",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What context is needed for the source link between rotavirus vaccination and intussusception?",
+    "a": "There is a small excess risk, not a claim that most vaccinated infants develop intussusception or that most intussusception is vaccine-caused.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "CDC estimates an additional risk around one in 20,000 to one in 100,000 US vaccinated infants, usually within a week after dose one or two. Severe episodic pain/crying, vomiting, bloody stool or weakness needs prompt care; tell the clinician when vaccination occurred.",
+      "url": "https://www.cdc.gov/vaccines/vpd/rotavirus/about-intussusception.html"
+    }
+  },
+  {
+    "id": "s2peds-0511",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What structural lead point does p43 specifically name for intussusception?",
+    "a": "Meckel diverticulum. This is an important possible lead point, not a finding required in the usual idiopathic case.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025 also lists polyps, lymphoma and IgA-vasculitis bowel involvement among possible lead points. The source one-example list is not exhaustive.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0512",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What older-patient cause of intussusception does the source mention?",
+    "a": "Colon cancer as a possible lead point in an older adult. The author calls this rare; that exam aside is retained without using it to estimate malignancy frequency in adult cohorts.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2peds-0513",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What intermittent pain behavior does the source describe in pediatric intussusception?",
+    "a": "Colicky episodes with drawing the knees to the chest or squatting, often appearing better between attacks. Blood in stool and possible bilious vomiting may follow.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025 warns that currant-jelly stool is a late sign and should not be awaited. Some children present with lethargy rather than the classic colicky phase.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0514",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Must the source sausage-shaped mass be present in every intussusception case?",
+    "a": "No. The source itself says not every question includes it, and clinically it can be absent or hard to feel.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Perth ED guidance notes the mass can be difficult to palpate and recommends urgent ultrasound plus surgical review when suspected.",
+      "url": "https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/Intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0515",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What test comes first in the source intussusception workup, and what signs can it show?",
+    "a": "Ultrasound, with a target or sausage-shaped appearance. The author's exam-image-frequency comment does not change the diagnostic choice.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025 recommends ultrasound over the older initial barium-enema approach because it is safe and characteristic findings are well recognized.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0516",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What follows ultrasound for suitable ileocolic intussusception in the source sequence?",
+    "a": "A reduction enema, which can be diagnostic and therapeutic. The PDF gives air contrast as classic and also mentions other enema approaches.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck 2025: air enema can reduce confirmed ileocolic disease; failed reduction or perforation requires surgery. Peritonitis/instability needs resuscitation and surgical assessment rather than an automatic enema.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0517",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Why should the source statement that any enema type can be an exam answer not be treated as permission for any bedside enema?",
+    "a": "Image-guided reduction is a specialist procedure for an appropriate patient, not an ordinary laxative enema or an intervention to attempt without surgical/radiology support.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Perth ED guideline: an experienced radiologist performs air reduction with surgical attendance; peritonitis/perforation are contraindications and failed reduction needs surgery.",
+      "url": "https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/Intussusception"
+    }
+  },
+  {
+    "id": "s2peds-0518",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What specific combined treatment wording does the author report from a Surgery-form intussusception question?",
+    "a": "Air enema with ultrasound. This is the PDF's reported exam answer, not a universal mandate that every center use the same guidance method.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2peds-0519",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What developmental abnormality does the source give for midgut volvulus, and what mechanical step must be distinguished from it?",
+    "a": "The PDF says failure of rotation of proximal bowel. More precisely, abnormal rotation/fixation predisposes to twisting of the bowel and mesentery; malrotation and volvulus are related but not identical.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "CAHS December 2025: congenital malrotation predisposes to volvulus, obstruction, ischemia and gangrene. Ladd bands can also obstruct without the same twisting mechanism.",
+      "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0520",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What early presentation pattern does the source midgut-volvulus row repeat?",
+    "a": "Usually the first month, with a source figure of 90% under age one. Do not let that source estimate exclude a later presentation or delay care for bilious vomiting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2peds-0521",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "Does the source no-abdominal-mass statement make a normal abdominal examination reassuring against volvulus?",
+    "a": "No. The source contrasts volvulus with a palpable intussusception mass, but a soft or normal abdomen does not rule out early dangerous obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "CAHS December 2025 explicitly states normal abdominal examination, plain radiograph, lactate and vital signs do not rule out early intestinal gangrene from malrotation/volvulus; bilious emesis needs prompt investigation.",
+      "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0522",
+    "category": "Neonatal obstruction, intussusception and volvulus",
+    "q": "What source imaging appearance and definitive treatment pair fits midgut volvulus?",
+    "a": "Upper-GI corkscrew appearance and surgery. This is not an ultrasound-then-reduction-enema pathway.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 43,
+      "url": "/mehlman/hy-pediatrics.pdf#page=43"
+    },
+    "guideline": {
+      "text": "CAHS December 2025 calls for urgent surgical review; Ladd's procedure includes untwisting any volvulus and widening the mesenteric base, with other steps according to anatomy.",
+      "url": "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Malrotation-Volvulus-of-the-Intestines.pdf"
+    }
   }
 ];
