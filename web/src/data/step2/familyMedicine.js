@@ -31738,5 +31738,35 @@ export default [
       "text": "European multidisciplinary 2020 guidance recommends CTA, with CE-MRA when CTA is contraindicated, and reserves conventional angiography for therapy. The source answer predates this noninvasive-first diagnostic framework.",
       "url": "https://journals.sagepub.com/doi/full/10.1177/2050640620916681"
     }
+  },
+  {
+    "id": "s2fm-2673",
+    "category": "GI treatment exact-source review",
+    "q": "What first-line status does the PDF give bismuth in its H. pylori drug table?",
+    "a": "It can be used in regimens but is not first-line.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    },
+    "guideline": {
+      "text": "ACG 2024 recommends optimized bismuth quadruple therapy for treatment-naive patients when susceptibility is unknown. The source not-first-line statement is outdated.",
+      "url": "https://webfiles.gi.org/links/journals/ACG-Hpylori-Guidelines-Highlights-2024-FINAL.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2674",
+    "category": "Antiparasitic source review",
+    "q": "What broad drug groups does the PDF say primarily treat nematodes?",
+    "a": "Bendazoles such as mebendazole and pyrantel pamoate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC recommends ivermectin as first-line treatment for Strongyloides; albendazole is an alternative. The source broad nematode grouping does not choose appropriate treatment for every named species.",
+      "url": "https://www.cdc.gov/strongyloides/hcp/clinical-care/index.html"
+    }
   }
 ];
