@@ -25567,5 +25567,418 @@ export default [
       "page": 259,
       "url": "/mehlman/hy-family-medicine.pdf#page=259"
     }
+  },
+  {
+    "id": "s2fm-2229",
+    "category": "Rapid-review source details",
+    "q": "What does the source Gerber lift-off maneuver assess?",
+    "a": "Subscapularis: the patient attempts to lift the dorsum of the hand away from the lower back against resistance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2fm-2230",
+    "category": "Rapid-review source details",
+    "q": "Which source shoulder movements help distinguish cuff components?",
+    "a": "Empty/full-can resistance tests supraspinatus; resisted external rotation points toward infraspinatus/teres minor. The source warns that a pitcher vignette does not override the actual examination.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2fm-2231",
+    "category": "Rapid-review source details",
+    "q": "How do Monteggia and Galeazzi fracture-dislocations differ in the source?",
+    "a": "Proximal ulna fracture with radial-head dislocation versus radial-shaft fracture with distal radioulnar-joint disruption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2fm-2232",
+    "category": "Rapid-review source details",
+    "q": "What source distinction links lateral hip tenderness and pain on resisted abduction?",
+    "a": "Greater trochanteric pain syndrome/gluteal tendinopathy; the earlier bursitis label is a narrower description of an overlapping regional syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-family-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2fm-2233",
+    "category": "Rapid-review source details",
+    "q": "Does established JIA make a new hot painful knee safe to label another flare?",
+    "a": "No. The rapid bullets explicitly call for joint aspiration when septic arthritis must be excluded, qualifying the earlier recurrent-episode shortcut.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-family-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2fm-2234",
+    "category": "Rapid-review source details",
+    "q": "What bony site fails in the source Blount-disease vignette?",
+    "a": "The medial proximal tibial growth/metaphyseal region in a child with progressive bowing after physiologic infant bowing should have improved.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-family-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2fm-2235",
+    "category": "Rapid-review source details",
+    "q": "How does the source describe Mulder sign in suspected Morton neuroma?",
+    "a": "Compression of the metatarsal heads recreates interdigital pain/clicking in the foot.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-family-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2fm-2236",
+    "category": "Rapid-review source details",
+    "q": "What source loss of shoulder motion suggests adhesive capsulitis?",
+    "a": "Global restriction, with diabetes as a risk factor; it names range-of-motion exercises/physiotherapy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-family-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2fm-2237",
+    "category": "Rapid-review source details",
+    "q": "What fixed hand deformity does the source describe in Dupuytren contracture?",
+    "a": "Palmar fascial thickening with flexion contracture, associated in its list with diabetes and alcohol use; the PDF surgical-only shorthand is not a universal treatment rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-family-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2fm-2238",
+    "category": "Rapid-review source details",
+    "q": "Which ulnar entrapment site is linked to a hook-of-hamate injury in the source?",
+    "a": "Guyon canal at the wrist, contrasted with cubital-tunnel disease at the elbow.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2fm-2239",
+    "category": "Rapid-review source details",
+    "q": "What nutritional time-course clue favors folate deficiency in the source tea-and-toast vignette?",
+    "a": "Macrocytosis after months of poor intake; the source contrasts depleted folate stores with the longer body reserve of B12, not a rule that excludes mixed deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2fm-2240",
+    "category": "Rapid-review source details",
+    "q": "Must ultrasound always come before surgery for a strongly suspected torsion?",
+    "a": "The PDF gives Doppler then detorsion as its sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    },
+    "guideline": {
+      "text": "AUA curriculum: imaging should not delay exploration when suspicion is high; urgent exploration/detorsion is required. Ultrasound is an adjunct when diagnosis is less clear.",
+      "url": "https://www.auanet.org/meetings-and-education/for-medical-students/medical-students-curriculum/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2fm-2241",
+    "category": "Rapid-review source details",
+    "q": "What timeline does current AUA guidance use for a persistent undescended testis?",
+    "a": "Refer at 6 months corrected age if it has not descended; surgery is performed within the next year. The PDF six-month observation advice should not mean continued waiting in an 8-month-old.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    },
+    "guideline": {
+      "text": "AUA 2025: referral by 6 months corrected age; surgery in the subsequent year if spontaneous descent has not occurred.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/cryptorchidism-guideline"
+    }
+  },
+  {
+    "id": "s2fm-2242",
+    "category": "Rapid-review source details",
+    "q": "How does the source distinguish a torsed appendix testis from an incarcerated hernia?",
+    "a": "A focal blue dot with preserved cremasteric reflex suggests appendix torsion; abdominal rigidity/obstructive features change the concern toward a surgical hernia. No single sign safely excludes testicular torsion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-2243",
+    "category": "Rapid-review source details",
+    "q": "Under latest final USPSTF guidance, is LDL above 70 alone enough to start any 40-75-year-old on a primary-prevention statin?",
+    "a": "No. USPSTF 2022 recommends a statin at 40-75 with at least one CVD risk factor and 10-year risk 10%+ (Grade B); selectively offer at 7.5% to under 10% (Grade C). Evidence is insufficient for initiating at 76+ (I statement).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-family-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "USPSTF 2022 final excludes LDL above 190 mg/dL or known familial hypercholesterolemia from this recommendation; those high-risk groups need separate guidance. This replaces the PDF blanket age/LDL shortcut for primary prevention.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/statin-use-in-adults-preventive-medication"
+    }
+  },
+  {
+    "id": "s2fm-2244",
+    "category": "Rapid-review source details",
+    "q": "Does a negative TB skin or blood test always mean no further workup?",
+    "a": "The PDF says no further studies after negative testing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "CDC notes false-negative skin tests with recent infection, immunosuppression and other circumstances. Symptoms or suspected active disease need evaluation regardless of a negative screening test.",
+      "url": "https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
+    }
+  },
+  {
+    "id": "s2fm-2245",
+    "category": "Rapid-review source details",
+    "q": "Is a second skin test one week later required after every negative TST?",
+    "a": "The PDF presents repeated testing as a general diagnostic sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "CDC uses two-step testing for baseline testing when future periodic skin tests are expected, with the second test 1-3 weeks after a negative first test. It is not a universal rule for every negative test.",
+      "url": "https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
+    }
+  },
+  {
+    "id": "s2fm-2246",
+    "category": "Rapid-review source details",
+    "q": "What TST response does the source measure rather than skin redness?",
+    "a": "Induration in millimeters; the interpretation threshold depends on clinical risk, not erythema.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2fm-2247",
+    "category": "Rapid-review source details",
+    "q": "Why does the source distinguish latent TB treatment from active-disease RIPE?",
+    "a": "Latent infection and active disease require different regimens; a positive immune test is not itself proof of active pulmonary disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-2248",
+    "category": "Rapid-review source details",
+    "q": "What paired treatment principle does the source use for invasive intestinal amebiasis?",
+    "a": "A tissue-active nitroimidazole followed by a luminal agent, rather than assuming metronidazole alone eradicates luminal organisms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-2249",
+    "category": "Rapid-review source details",
+    "q": "Why can a baseline ECG abnormality change a source ischemia-test choice?",
+    "a": "It can limit exercise-ECG interpretation, prompting an imaging stress approach; exercise ability and the specific baseline abnormality matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-2250",
+    "category": "Rapid-review source details",
+    "q": "What mechanism causes source electrical alternans with a large pericardial effusion?",
+    "a": "Beat-to-beat variation in QRS appearance as the heart changes position; the source associates this with effusion/tamponade rather than diagnosing tamponade from ECG alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-2251",
+    "category": "Rapid-review source details",
+    "q": "How does a trigger separate source trigeminal neuralgia from cluster headache?",
+    "a": "Brief facial pain triggered by light stimulation such as toothbrushing/wind versus longer orbital attacks with restlessness and possible autonomic features.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2fm-2252",
+    "category": "Rapid-review source details",
+    "q": "What source treatment-versus-prevention pair is given for cluster headache?",
+    "a": "Oxygen for an attack and verapamil for prevention; this is a selected exam pair, not an exhaustive headache-management protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2fm-2253",
+    "category": "Rapid-review source details",
+    "q": "How does the source contrast exogenous T3 with exogenous T4?",
+    "a": "T3 administration suppresses TSH without being converted back into T4; T4 can be converted peripherally to T3 and reverse T3.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-family-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2fm-2254",
+    "category": "Rapid-review source details",
+    "q": "Why can early-pregnancy hCG produce transient thyrotoxicosis in the source?",
+    "a": "hCG can stimulate the TSH receptor at high concentrations. Sharing the alpha subunit is a mnemonic, not proof every glycoprotein hormone has the same receptor action.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2fm-2255",
+    "category": "Rapid-review source details",
+    "q": "What conflicting diagnostic sequences does the PDF give for inflammatory myopathy?",
+    "a": "Earlier it puts EMG/NCS first; the rapid bullets put autoantibodies then muscle biopsy. These are source differences, not evidence for a single universal order.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2fm-2256",
+    "category": "Rapid-review source details",
+    "q": "Is angioplasty with a stent the universal definitive treatment for renal FMD?",
+    "a": "The PDF says angioplasty/stenting and that FMD cannot be cured.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "AHA 2022 scientific statement recommends angioplasty without stenting when renal FMD revascularization is indicated; hypertension can be cured in selected patients. Routine revascularization is not warranted for moderate atherosclerotic disease.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11731842/"
+    }
+  },
+  {
+    "id": "s2fm-2257",
+    "category": "Rapid-review source details",
+    "q": "Should adults with negative rapid strep tests routinely receive empiric penicillin while waiting for culture?",
+    "a": "The PDF says to give antibiotics pending culture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "CDC adult outpatient guidance advises no antibiotics with a negative RADT and no routine adult throat culture. Confirmed GAS is treated; child-specific backup-culture rules differ.",
+      "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html"
+    }
+  },
+  {
+    "id": "s2fm-2258",
+    "category": "Rapid-review source details",
+    "q": "What source treatment sequence distinguishes stress from urge incontinence?",
+    "a": "Stress: pelvic-floor strengthening then selected sling surgery. Urge: bladder-directed treatment such as oxybutynin or mirabegron in its examples; symptom type and harms guide selection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-2259",
+    "category": "Rapid-review source details",
+    "q": "Why does a large postvoid residual change the incontinence differential?",
+    "a": "It supports impaired emptying/overflow, from obstruction or impaired detrusor function, rather than assuming detrusor overactivity from leakage alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-2260",
+    "category": "Rapid-review source details",
+    "q": "What source neurologic combination makes urinary retention an emergency clue?",
+    "a": "Saddle/perianal sensory loss with retention suggests cauda-equina/conus pathology and needs urgent assessment, not routine outpatient incontinence treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-2261",
+    "category": "Rapid-review source details",
+    "q": "How do the source fracture-level clues localize upper-limb nerve injury?",
+    "a": "Humeral midshaft: radial; surgical neck: axillary; supracondylar: median/anterior-interosseous territory in common patterns. Actual deficits and vascular examination remain necessary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-family-medicine.pdf#page=278"
+    }
+  },
+  {
+    "id": "s2fm-2262",
+    "category": "Rapid-review source details",
+    "q": "What source pattern distinguishes primary from hypoxia-driven erythrocytosis?",
+    "a": "Polycythemia vera is associated with low EPO; hypoxemia can stimulate high EPO. A single elevated hemoglobin is not the full diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-2263",
+    "category": "Rapid-review source details",
+    "q": "What paired paraneoplastic mediators explain source RCC with erythrocytosis and hypercalcemia?",
+    "a": "EPO and PTHrP respectively; hematuria/renal-mass context helps tie the findings together.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
   }
 ];
