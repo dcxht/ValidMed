@@ -2046,7 +2046,8 @@ export default [
     },
     "sourcePages": [
       15,
-      25
+      25,
+      36
     ]
   },
   {
@@ -2065,7 +2066,8 @@ export default [
     },
     "sourcePages": [
       15,
-      25
+      25,
+      36
     ]
   },
   {
@@ -2469,7 +2471,7 @@ export default [
     "id": "s2psy-0179",
     "category": "Bladder and perinatal conditions",
     "q": "How does the PDF contrast PMS with premenstrual dysphoric disorder?",
-    "a": "PMS involves luteal-phase mood swings, irritability and breast tenderness, described as common and related to hormonal fluctuation. PMDD is the severe, sometimes incapacitating form with marked social/occupational impairment; the source lists SSRIs as often first-line.",
+    "a": "PMS involves luteal-phase mood swings, irritability and breast tenderness, described as common and related to hormonal fluctuation. PMDD is the severe, sometimes incapacitating form with marked social/occupational impairment; the source lists SSRIs as often first-line. The luteal timing is described as the two weeks before menstruation.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 17,
@@ -2506,7 +2508,7 @@ export default [
     "id": "s2psy-0182",
     "category": "Cognitive disorders",
     "q": "What pathology and Down-syndrome gene association does the PDF give for Alzheimer disease?",
-    "a": "Beta-amyloid plaques and neurofibrillary tangles of hyperphosphorylated tau. It links early Alzheimer disease in Down syndrome to the amyloid precursor protein gene on chromosome 21.",
+    "a": "Beta-amyloid plaques and neurofibrillary tangles of hyperphosphorylated tau. It links early Alzheimer disease in Down syndrome to the amyloid precursor protein gene on chromosome 21. The PDF describes the pathology as seen on brain biopsy; this is a pathology association, not an instruction to obtain a routine diagnostic brain biopsy.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 17,
@@ -2711,7 +2713,7 @@ export default [
     "id": "s2psy-0196",
     "category": "Cognitive disorders",
     "q": "What mechanism, time course and symptoms define source post-concussion syndrome?",
-    "a": "A blow or rapid head movement produces traumatic brain injury; cognitive trouble, memory difficulty, headache and light/sound sensitivity may persist weeks, months or longer.",
+    "a": "A blow or rapid head movement produces traumatic brain injury; cognitive trouble, memory difficulty, headache and light/sound sensitivity may persist weeks, months or longer. It describes rapid skull movement stretching/damaging brain cells; the source says persistent symptoms may last years.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 18,
@@ -2727,7 +2729,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 19,
       "url": "/mehlman/hy-psych.pdf#page=19"
-    }
+    },
+    "sourcePages": [
+      18,
+      19
+    ]
   },
   {
     "id": "s2psy-0198",
@@ -2908,6 +2914,7 @@ export default [
     },
     "sourcePages": [
       19,
+      29,
       46
     ]
   },
@@ -2994,6 +3001,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 20,
       "url": "/mehlman/hy-psych.pdf#page=20"
+    },
+    "guideline": {
+      "text": "A retrieved 2022 evidence review describes lactulose/lactitol as first-line agents and rifaximin commonly added for recurrence or inadequate response. Neomycin is an alternative with important ototoxicity/nephrotoxicity risks, not an interchangeable harmless default. This is a review of evidence and earlier guidelines, not a new guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9099111/"
     }
   },
   {
@@ -3067,7 +3078,7 @@ export default [
     "id": "s2psy-0222",
     "category": "Seizures and epilepsy",
     "q": "What older and newer focal-seizure labels does the PDF contrast?",
-    "a": "FOAS, focal-onset aware seizure, is its newer name for simple partial seizure; FOIAS, focal-onset impaired-awareness seizure, for complex partial seizure. It links the former to no loss of consciousness and the latter to loss of consciousness. This is source-era terminology rather than the latest classification.",
+    "a": "FOAS, focal-onset aware seizure, is its newer name for simple partial seizure; FOIAS, focal-onset impaired-awareness seizure, for complex partial seizure. It links the former to no loss of consciousness and the latter to loss of consciousness. This is source-era terminology rather than the latest classification. The source compares blank staring with absence seizures as an example of impaired awareness; that resemblance does not make a generalized absence seizure focal.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 21,
@@ -3240,7 +3251,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 21,
       "url": "/mehlman/hy-psych.pdf#page=21"
-    }
+    },
+    "sourcePages": [
+      21,
+      33
+    ]
   },
   {
     "id": "s2psy-0235",
@@ -3305,7 +3320,7 @@ export default [
     "id": "s2psy-0240",
     "category": "Seizures and epilepsy",
     "q": "What age, timing, progression and medication does the source give for juvenile myoclonic epilepsy?",
-    "a": "Usually onset at ten to sixteen, though sometimes adulthood; jerks around sleep onset or waking, later tonic-clonic seizures, and valproic acid as its medication. The described sequence and timing are source generalizations.",
+    "a": "Usually onset at ten to sixteen, though sometimes adulthood; jerks around sleep onset or waking, later tonic-clonic seizures, and valproic acid as its medication. The described sequence and timing are source generalizations. Its source sequence places tonic-clonic events several months after the myoclonic jerks.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 22,
@@ -3396,7 +3411,11 @@ export default [
     "guideline": {
       "text": "NIDDK describes IBS as a disorder of gut-brain interaction. Symptoms are real and involve how brain and gut work together; the source label should not imply fabrication or a purely psychiatric cause.",
       "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/definition-facts"
-    }
+    },
+    "sourcePages": [
+      22,
+      23
+    ]
   },
   {
     "id": "s2psy-0247",
@@ -3484,7 +3503,7 @@ export default [
     "id": "s2psy-0253",
     "category": "Neuromuscular disorders",
     "q": "What immune target, demographic pattern and course does the source associate with MS?",
-    "a": "T-cell-associated injury to oligodendrocytes and myelin basic protein; its classic vignette is a young woman living farther from the equator with relapsing-remitting neurologic episodes. These demographics are source examples, not eligibility criteria for diagnosis.",
+    "a": "T-cell-associated injury to oligodendrocytes and myelin basic protein; its classic vignette is a young woman living farther from the equator with relapsing-remitting neurologic episodes. These demographics are source examples, not eligibility criteria for diagnosis. The exact source demographic example is a white woman in her twenties/thirties; race, sex or distance from the equator is not required for diagnosis. The source calls relapsing-remitting the most common type.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 23,
@@ -3552,7 +3571,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 23,
       "url": "/mehlman/hy-psych.pdf#page=23"
-    }
+    },
+    "sourcePages": [
+      23,
+      24
+    ]
   },
   {
     "id": "s2psy-0259",
@@ -3781,7 +3804,7 @@ export default [
     "id": "s2psy-0276",
     "category": "Vertigo and headache",
     "q": "What episode duration, symptom and displaced material define source BPPV?",
-    "a": "Brief spinning episodes, often thirty to sixty seconds with possible vomiting, from calcium-carbonate otoconia displaced from the utricle/saccule into a semicircular canal.",
+    "a": "Brief spinning episodes, often thirty to sixty seconds with possible vomiting, from calcium-carbonate otoconia displaced from the utricle/saccule into a semicircular canal. In the source explanation, otoconia normally help detect acceleration and motion in the utricle/saccule.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 25,
@@ -3858,7 +3881,7 @@ export default [
     "id": "s2psy-0283",
     "category": "Vertigo and headache",
     "q": "What pain, trigger, anatomy and medication define source trigeminal neuralgia?",
-    "a": "Very severe brief lancinating attacks, usually under one minute, triggered by brushing hair/teeth or wind; trigeminal irritation/impingement, with pons as its brainstem answer. Carbamazepine is prophylaxis. The source says episodes are too brief for acute treatment and notes possible confusion with V1 cluster pain.",
+    "a": "Very severe brief lancinating attacks, usually under one minute, triggered by brushing hair/teeth or wind; trigeminal irritation/impingement, with pons as its brainstem answer. Carbamazepine is prophylaxis. The source says episodes are too brief for acute treatment and notes possible confusion with V1 cluster pain. The source table identifies carbamazepine as a sodium-channel blocker.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 26,
@@ -3874,7 +3897,7 @@ export default [
     "id": "s2psy-0284",
     "category": "Vertigo and headache",
     "q": "What pain, behavior and autonomic findings define source cluster headache?",
-    "a": "Severe unilateral lancinating pain waking a young/middle-aged adult from sleep, with pacing/restlessness, ipsilateral tearing/rhinorrhea and sometimes miosis. It gives minutes to half an hour as an example duration, not a required range.",
+    "a": "Severe unilateral lancinating pain waking a young/middle-aged adult from sleep, with pacing/restlessness, ipsilateral tearing/rhinorrhea and sometimes miosis. It gives minutes to half an hour as an example duration, not a required range. Its source demographic example is a man in his twenties through forties, not a rule excluding other patients.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 26,
@@ -3889,7 +3912,7 @@ export default [
     "id": "s2psy-0285",
     "category": "Vertigo and headache",
     "q": "What prevention and acute treatment does the PDF give for cluster headache?",
-    "a": "Verapamil for prevention and oxygen for acute attacks. These are source examples rather than the only options.",
+    "a": "Verapamil for prevention and oxygen for acute attacks. These are source examples rather than the only options. The source pharmacology table identifies verapamil as a nondihydropyridine calcium-channel blocker.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 26,
@@ -4101,6 +4124,7 @@ export default [
     },
     "sourcePages": [
       28,
+      35,
       37
     ],
     "guideline": {
@@ -4561,7 +4585,7 @@ export default [
     "id": "s2psy-0334",
     "category": "Antidepressants",
     "q": "What antidepressant/smoking mechanism and sexual-effect contrast does the PDF give for bupropion?",
-    "a": "Dopamine/norepinephrine reuptake inhibition and nicotinic-receptor antagonism in its source description; it describes less sexual dysfunction than SSRIs. The source says smoking is less rewarding.",
+    "a": "Dopamine/norepinephrine reuptake inhibition and nicotinic-receptor antagonism in its source description; it states that it does not cause sexual side effects, unlike SSRIs; that is the source absolute, not a guarantee. The source says smoking is less rewarding.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 30,
@@ -4569,8 +4593,13 @@ export default [
     },
     "sourcePages": [
       30,
+      33,
       44
-    ]
+    ],
+    "guideline": {
+      "text": "Retrieved WELLBUTRIN SR prescribing information lists decreased libido and impotence as infrequent adverse reactions. The source zero-sexual-side-effects absolute should not be treated as a guarantee.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc8c074-f080-4489-a5ae-207b5fadeba3"
+    }
   },
   {
     "id": "s2psy-0335",
@@ -4588,6 +4617,7 @@ export default [
     },
     "sourcePages": [
       30,
+      33,
       44
     ]
   },
@@ -4692,7 +4722,7 @@ export default [
     "id": "s2psy-0343",
     "category": "Antipsychotics and toxicity",
     "q": "Which atypical antipsychotics does the PDF encode with its closet mnemonic?",
-    "a": "Olanzapine, clozapine, quetiapine, risperidone, aripiprazole and ziprasidone. The source mnemonic runs from old closets to A-to-Z.",
+    "a": "Olanzapine, clozapine, quetiapine, risperidone, aripiprazole and ziprasidone. The source mnemonic runs from old closets to A-to-Z. The exact mnemonic is Old Closets Quietly Whisper (Risper) from A to Z.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
@@ -4703,11 +4733,15 @@ export default [
     "id": "s2psy-0344",
     "category": "Antipsychotics and toxicity",
     "q": "Which adverse-effect groups and prolactin mechanism does the source associate with antipsychotics?",
-    "a": "Extrapyramidal symptoms, anticholinergic effects, NMS, QT prolongation and hyperprolactinemia. Dopamine normally inhibits prolactin, so D2 blockade can remove that inhibition; risks differ among drugs rather than being identical for each.",
+    "a": "Extrapyramidal symptoms, anticholinergic effects, NMS, QT prolongation and hyperprolactinemia. Dopamine normally inhibits prolactin, so D2 blockade can remove that inhibition; risks differ among drugs rather than being identical for each. The source says all antipsychotics can cause these effects; this is a class-level exam warning, not an identical receptor/adverse-effect profile for each drug.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
       "url": "/mehlman/hy-psych.pdf#page=31"
+    },
+    "guideline": {
+      "text": "Merck Professional lists aripiprazole as a dopamine D2 partial agonist. The PDF broad atypical-D2-antagonist grouping is therefore not a precise mechanism for every drug in its own list.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/table/classification-and-adverse-effects-of-antipsychotic-medications"
     }
   },
   {
@@ -4770,7 +4804,7 @@ export default [
     "id": "s2psy-0349",
     "category": "Antipsychotics and toxicity",
     "q": "What findings and treatment does the source give for acute antipsychotic dystonia?",
-    "a": "Torticollis, oculogyric crisis or rigidity without fever. It names benztropine/trihexyphenidyl or a strongly anticholinergic first-generation H1 blocker such as diphenhydramine/chlorpheniramine. Fever with rigidity raises a different concern than the uncomplicated source example.",
+    "a": "Torticollis, oculogyric crisis or rigidity without fever. It names benztropine/trihexyphenidyl or a strongly anticholinergic first-generation H1 blocker such as diphenhydramine/chlorpheniramine. Fever with rigidity raises a different concern than the uncomplicated source example. Its rough answer-choice estimate is two-thirds benztropine and one-third a first-generation H1 blocker; this is an unverified source exam-frequency estimate, not a clinical probability.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
@@ -4820,7 +4854,7 @@ export default [
     "id": "s2psy-0352",
     "category": "Antipsychotics and toxicity",
     "q": "What facial movement pattern, relative risk and medication change does the PDF give for tardive dyskinesia?",
-    "a": "Abnormal facial/tongue movements, more common with typicals but possible with atypicals. It recommends stopping the typical and switching to an atypical; that is not the complete current treatment plan.",
+    "a": "Abnormal facial/tongue movements, more common with typicals but possible with atypicals. It recommends stopping the typical and switching to an atypical; that is not the complete current treatment plan. The rapid-review example specifically switches haloperidol to risperidone.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 31,
@@ -4990,7 +5024,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 32,
       "url": "/mehlman/hy-psych.pdf#page=32"
-    }
+    },
+    "sourcePages": [
+      32,
+      33
+    ]
   },
   {
     "id": "s2psy-0364",
@@ -5027,7 +5065,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 33,
       "url": "/mehlman/hy-psych.pdf#page=33"
-    }
+    },
+    "sourcePages": [
+      33
+    ]
   },
   {
     "id": "s2psy-0367",
@@ -5044,7 +5085,7 @@ export default [
     "id": "s2psy-0368",
     "category": "Anticholinergics and seizure drugs",
     "q": "What mechanism, pregnancy warning and two other major adverse effects does the source give for carbamazepine?",
-    "a": "Sodium-channel blockade, neural-tube-defect risk, aplastic anemia and SIADH.",
+    "a": "Sodium-channel blockade, neural-tube-defect risk, aplastic anemia and SIADH. The source attributes its pregnancy neural-tube risk to interference with folate metabolism.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 33,
@@ -5055,7 +5096,7 @@ export default [
     "id": "s2psy-0369",
     "category": "Anticholinergics and seizure drugs",
     "q": "What mechanism, pregnancy findings and status role does the PDF give for phenytoin?",
-    "a": "Sodium-channel blockade, a neural-tube-defect association and fetal hydantoin syndrome with nail hypoplasia/abnormal facies. The source places it after a failed benzodiazepine in status epilepticus rather than as the only possible second-line agent.",
+    "a": "Sodium-channel blockade, a neural-tube-defect association and fetal hydantoin syndrome with nail hypoplasia/abnormal facies. The source places it after a failed benzodiazepine in status epilepticus rather than as the only possible second-line agent. The source also attributes the neural-tube association to folate interference; that mechanistic phrase is not the full prescribing-information account.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 33,
@@ -5077,7 +5118,7 @@ export default [
     "id": "s2psy-0371",
     "category": "Anticholinergics and seizure drugs",
     "q": "Which acute neurologic, withdrawal and intoxication uses does the PDF group for benzodiazepines?",
-    "a": "Status epilepticus, alcohol withdrawal and stimulant-associated agitation/toxicity. It also describes sleep induction, anxiety treatment, acute specific phobia and an asthma/performance-anxiety vignette. These are source uses, not a universal preferred chronic-anxiety or insomnia plan.",
+    "a": "Status epilepticus, alcohol withdrawal and stimulant-associated agitation/toxicity. It also describes sleep induction, anxiety treatment, acute specific phobia and an asthma/performance-anxiety vignette. These are source uses, not a universal preferred chronic-anxiety or insomnia plan. Its named insomnia/anxiety example is clonazepam.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 33,
@@ -5104,7 +5145,11 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 33,
       "url": "/mehlman/hy-psych.pdf#page=33"
-    }
+    },
+    "sourcePages": [
+      33,
+      34
+    ]
   },
   {
     "id": "s2psy-0374",
@@ -5115,6 +5160,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 34,
       "url": "/mehlman/hy-psych.pdf#page=34"
+    },
+    "guideline": {
+      "text": "FDA AMBIEN prescribing information (2022, explicitly dated) describes zolpidem binding to the benzodiazepine site of alpha-1-containing GABA-A receptors. This is selectivity within the GABA-A receptor family, not a wholly unrelated receptor/subunit system. The label also warns about complex sleep behaviors and CNS depression.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/019908s40s044s047lbl.pdf"
     }
   },
   {
@@ -5202,7 +5251,7 @@ export default [
     "id": "s2psy-0382",
     "category": "Opioids and alcohol medications",
     "q": "What metabolite and patient-controlled-analgesia concern does the PDF attach to morphine?",
-    "a": "Active metabolites can accumulate, and delayed perceived analgesia can lead a patient to request excess doses. This source scenario does not establish a safe dosing regimen.",
+    "a": "Active metabolites can accumulate, and delayed perceived analgesia can lead a patient to request excess doses. This source scenario does not establish a safe dosing regimen. It calls morphine the gold-standard opioid for moderate-to-severe pain; that is the source ranking, not a preferred drug for every patient.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 35,
@@ -5235,7 +5284,7 @@ export default [
     "id": "s2psy-0385",
     "category": "Opioids and alcohol medications",
     "q": "What meperidine request does the PDF use as a malingering clue?",
-    "a": "A patient in severe pain specifically requests meperidine. It is a source vignette detail, not sufficient evidence that a person's pain is fabricated or that analgesia should be withheld.",
+    "a": "A patient in severe pain specifically requests meperidine. It is a source vignette detail, not sufficient evidence that a person's pain is fabricated or that analgesia should be withheld. It describes meperidine as potent with high abuse potential.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 35,
@@ -5251,6 +5300,10 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 35,
       "url": "/mehlman/hy-psych.pdf#page=35"
+    },
+    "guideline": {
+      "text": "Retrieved VIBERZI labeling contraindicates eluxadoline without a gallbladder, with certain biliary/pancreatic conditions, and with alcohol-use disorder or more than three alcoholic drinks daily because of pancreatitis risk. A low-addiction source label does not establish safety.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=7821bd40-4c84-4984-951b-6436ae20421a"
     }
   },
   {
@@ -5284,13 +5337,17 @@ export default [
       "title": "Mehlman HY Psych",
       "page": 35,
       "url": "/mehlman/hy-psych.pdf#page=35"
-    }
+    },
+    "sourcePages": [
+      35,
+      36
+    ]
   },
   {
     "id": "s2psy-0390",
     "category": "Opioids and alcohol medications",
     "q": "What components, source route and misuse-deterrence explanation does the PDF give for Suboxone?",
-    "a": "Buprenorphine plus naloxone, described by the PDF as oral: buprenorphine partial agonism reduces cravings, while injected naloxone can precipitate withdrawal if misused. The source says swallowed naloxone has low bioavailability; it does not specify the correct product administration route.",
+    "a": "Buprenorphine plus naloxone, described by the PDF as oral: buprenorphine partial agonism reduces cravings, while injected naloxone can precipitate withdrawal if misused. The source says swallowed naloxone has low bioavailability; it does not specify the correct product administration route. It specifically proposes use for people at high risk of misuse or who previously misused methadone; those are source examples, not a restriction of the product indication.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 36,
@@ -5331,7 +5388,7 @@ export default [
     "id": "s2psy-0393",
     "category": "Opioids and alcohol medications",
     "q": "What added prevalence/age claims and follow-up example appear in the rapid tic review?",
-    "a": "A seven-year-old with five months of isolated facial grimacing is observed with follow-up in three months. The PDF says one in five children experience a tic and ages seven to twelve are common; these are source estimates. It notes the newer provisional rather than transient label because some persist.",
+    "a": "A seven-year-old with five months of isolated facial grimacing is observed with follow-up in three months. The PDF says one in five children experience a tic and ages seven to twelve are common; these are source estimates. It notes the newer provisional rather than transient label because a small percentage persist, an unverified source estimate.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 36,
@@ -5342,7 +5399,7 @@ export default [
     "id": "s2psy-0394",
     "category": "Opioids and alcohol medications",
     "q": "What psychiatric adverse effect does the rapid source describe after IV methylprednisolone for GCA?",
-    "a": "Confusion and visual hallucinations, labeled corticosteroid-induced psychotic disorder even after one dose in its vignette. This is an exposure-associated source example, not proof that all such postoperative or medical confusion is steroid psychosis.",
+    "a": "Confusion and visual hallucinations, labeled corticosteroid-induced psychotic disorder even after one dose in its vignette. This is an exposure-associated source example, not proof that all such medical confusion is steroid psychosis.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 36,
