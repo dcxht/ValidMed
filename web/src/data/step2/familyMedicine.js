@@ -26791,5 +26791,35 @@ export default [
       "page": 317,
       "url": "/mehlman/hy-family-medicine.pdf#page=317"
     }
+  },
+  {
+    "id": "s2fm-2333",
+    "category": "Reproductive source details",
+    "q": "Does the source all-smokers-over-35 contraception rule distinguish cigarette quantity?",
+    "a": "No. The PDF calls combined contraception contraindicated in smokers 35+.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-family-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "CDC U.S. MEC 2024: age 35+ and fewer than 15 cigarettes/day is category 3 (usually not recommended); 15+ is category 4 (unacceptable risk). Other risks and alternatives also matter.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1.htm"
+    }
+  },
+  {
+    "id": "s2fm-2334",
+    "category": "Reproductive source details",
+    "q": "Does the PDF claim menopausal hormone therapy has no bone-preservation role?",
+    "a": "Yes. It calls severe menopausal symptoms the only approved indication and excludes bone preservation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-family-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "ACOG describes systemic estrogen as protecting against early menopausal bone loss and lists osteoporosis prevention among possible uses. This does not override USPSTF 2022 Grade D against routine primary prevention of chronic conditions in asymptomatic postmenopausal people.",
+      "url": "https://www.acog.org/womens-health/faqs/hormone-therapy-for-menopause"
+    }
   }
 ];

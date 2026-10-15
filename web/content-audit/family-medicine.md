@@ -79,3 +79,4 @@ Second detail pass pp260-279:35additional cards,2263total,230figures,157current-
 Second detail pass pp280-298:33additional cards,2296total,230figures,164current-source notes. Source claims remain open; Partial retained.
 Second detail pass pp299-317:36additional cards,2332total,230figures,169current-source notes. Second reading has now reached study-page317. This does NOT mean all source claims are converted or reconciled; exact pending-claim ledger and readability/medical QA remain open. Partial retained.
 QA checkpoint:2332cards/230figures/170linked current-source notes. Build, exactpromptduplicate and image-file integrity checks pass. Not yet complete.
+Targeted follow-up p311:2more cards,2334total/230figures/172linkednotes. CDC2024 combined-contraception smoking categories and ACOGHTbone-benefit distinction directly verified. Partial.
