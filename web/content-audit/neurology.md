@@ -1,6 +1,6 @@
 # Neurology conversion ledger
 
-October 15, 2026. Partial: 515 active cards, 46 figure-bearing cards / 31 distinct actual source figures, 106 separately linked comparisons. First pass pp4-56; pp57-71 and full second source/detail pass remain. Counts and page links are not proof of final coverage.
+October 15, 2026. Partial: 658 active cards, 46 figure-bearing cards / 31 distinct actual source figures, 146 separately linked comparisons. First pass pp4-71; full second source/detail and clinical acceptance remain. Counts and page links are not proof of final coverage.
 
 ## Intentional scope exclusions
 
@@ -66,6 +66,21 @@ October 15, 2026. Partial: 515 active cards, 46 figure-bearing cards / 31 distin
 | 54 | s2neuro-0482, s2neuro-0483, s2neuro-0484, s2neuro-0485, s2neuro-0486, s2neuro-0487, s2neuro-0488, s2neuro-0489, s2neuro-0490, s2neuro-0491, s2neuro-0492, s2neuro-0493 |
 | 55 | s2neuro-0494, s2neuro-0495, s2neuro-0496, s2neuro-0497, s2neuro-0498, s2neuro-0499, s2neuro-0500, s2neuro-0501, s2neuro-0502, s2neuro-0503, s2neuro-0504 |
 | 56 | s2neuro-0505, s2neuro-0506, s2neuro-0507, s2neuro-0508, s2neuro-0509, s2neuro-0510, s2neuro-0511, s2neuro-0512, s2neuro-0513, s2neuro-0514, s2neuro-0515 |
+| 57 | s2neuro-0516, s2neuro-0517, s2neuro-0518, s2neuro-0519, s2neuro-0520, s2neuro-0521, s2neuro-0522, s2neuro-0523, s2neuro-0524, s2neuro-0525 |
+| 58 | s2neuro-0526, s2neuro-0527, s2neuro-0528, s2neuro-0529, s2neuro-0530, s2neuro-0531, s2neuro-0532, s2neuro-0533, s2neuro-0534 |
+| 59 | s2neuro-0535, s2neuro-0536, s2neuro-0537, s2neuro-0538, s2neuro-0539, s2neuro-0540, s2neuro-0541, s2neuro-0542, s2neuro-0543, s2neuro-0544, s2neuro-0545, s2neuro-0546, s2neuro-0547, s2neuro-0548, s2neuro-0549 |
+| 60 | s2neuro-0549, s2neuro-0550, s2neuro-0551, s2neuro-0552, s2neuro-0553, s2neuro-0554, s2neuro-0555, s2neuro-0556, s2neuro-0557, s2neuro-0558, s2neuro-0559, s2neuro-0560 |
+| 61 | s2neuro-0561, s2neuro-0562, s2neuro-0563, s2neuro-0564, s2neuro-0565, s2neuro-0566, s2neuro-0567 |
+| 62 | s2neuro-0567, s2neuro-0568, s2neuro-0569, s2neuro-0570, s2neuro-0571, s2neuro-0572, s2neuro-0573, s2neuro-0574, s2neuro-0575, s2neuro-0576, s2neuro-0577, s2neuro-0578, s2neuro-0579 |
+| 63 | s2neuro-0580, s2neuro-0581, s2neuro-0582, s2neuro-0583, s2neuro-0584, s2neuro-0585, s2neuro-0586, s2neuro-0587, s2neuro-0588, s2neuro-0589 |
+| 64 | s2neuro-0590, s2neuro-0591, s2neuro-0592, s2neuro-0593, s2neuro-0594, s2neuro-0595, s2neuro-0596, s2neuro-0597, s2neuro-0598, s2neuro-0599 |
+| 65 | s2neuro-0600, s2neuro-0601, s2neuro-0602, s2neuro-0603, s2neuro-0604, s2neuro-0605, s2neuro-0606, s2neuro-0607, s2neuro-0608, s2neuro-0609, s2neuro-0610 |
+| 66 | s2neuro-0611, s2neuro-0612, s2neuro-0613, s2neuro-0614, s2neuro-0615, s2neuro-0616, s2neuro-0617, s2neuro-0618, s2neuro-0619, s2neuro-0620 |
+| 67 | s2neuro-0621, s2neuro-0622, s2neuro-0623, s2neuro-0624, s2neuro-0625 |
+| 68 | s2neuro-0625, s2neuro-0626, s2neuro-0627, s2neuro-0628, s2neuro-0629, s2neuro-0630, s2neuro-0631, s2neuro-0632, s2neuro-0633, s2neuro-0634 |
+| 69 | s2neuro-0635, s2neuro-0636, s2neuro-0637, s2neuro-0638, s2neuro-0639, s2neuro-0640, s2neuro-0641, s2neuro-0642, s2neuro-0643, s2neuro-0644 |
+| 70 | s2neuro-0645, s2neuro-0646, s2neuro-0647, s2neuro-0648, s2neuro-0649, s2neuro-0650, s2neuro-0651, s2neuro-0652, s2neuro-0653 |
+| 71 | s2neuro-0654, s2neuro-0655, s2neuro-0656, s2neuro-0657, s2neuro-0658 |
 
 ## Safety and source differences
 
@@ -108,3 +123,14 @@ All23 new figure-bearing cards and six long-answer/comparison cards rendered in3
 ### Product checkpoint through p56
 
 Six new long-answer/comparison cards rendered at320x568, twelve top/bottom screenshots inspected. Text/source links and answer controls remained readable and in bounds, with no broken image or horizontal overflow. All previously checked31 distinct figures retained. Schema and FM/Psych/Neurology saved-progress tests passed. Full second source/detail and clinical acceptance remain outstanding.
+
+
+## Complete first-pass checkpoint pp57-71
+
+143 rapid-source cards appended, preserving repeated vignettes and differing source answers. No new figures; all31 actual figures retained. Separate comparisons address RLS/Parkinson prediction, GCA route, cancer versus traumatic cord steroids, nitroprusside cautions, oral MS relapse therapy, DMT eligibility, EPS management, essential action tremor, GBS IVIG OR exchange, cryptococcal phases/ICP, invasive Aspergillus first-line therapy, thymoma/MuSK/cure claims, symptomatic carotid50-69% referral, new CREST-2 asymptomatic trial results, positive-sign FND diagnosis, ALS sensory findings and mastoiditis NOT malignant otitis externa. Source-only frequency/prognosis statistics remain explicitly attributed and unverified.
+
+All clinical pp4-71 now have first-pass Q/A, not full-conversion acceptance. Full second source-detail, duplicate, clinical and product pass remains before Neuro closes. Source p64 LP-first is reconciled separately from p31 antibiotics-first using WHO2025 safe-prompt-LP/no-treatment-delay guidance.
+
+### Product checkpoint through p71
+
+Twelve new rapid-source/long-comparison cards rendered at320x568, all24 top/bottom screenshots pixel-inspected in four contact sheets. Readable question/answer/source links and persistent controls; no horizontal overflow, bad images or offscreen action buttons. Four regression checks (schema, FM retirement, Psychiatry progress, Neurology progress) passed for658 local cards. All31 distinct figures retain prior native/mobile inspections. Neuro remains Partial pending full second-pass acceptance.

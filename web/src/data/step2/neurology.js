@@ -1194,7 +1194,7 @@ export default [
       "url": "/mehlman/hy-neuro.pdf#page=16"
     },
     "guideline": {
-      "text": "AAOS describes observation for many curves below 25 degrees or near skeletal maturity, bracing for growing children with25-45-degree curves, and consideration of surgery around 45-50 degrees or progression despite bracing. An author's never-seen-on-exam observation is not a prohibition on surgery.",
+      "text": "AAOS describes observation for many curves below 25 degrees or near skeletal maturity, bracing for growing children with 25-45-degree curves, and consideration of surgery around 45-50 degrees or progression despite bracing. An author's never-seen-on-exam observation is not a prohibition on surgery.",
       "url": "https://www.orthoinfo.org/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents/"
     }
   },
@@ -2545,7 +2545,7 @@ export default [
     "id": "s2neuro-0211",
     "category": "Headache",
     "q": "Which acute sequence, receptor and prevention does the PDF give for migraine?",
-    "a": "NSAIDs followed by a triptan such as sumatriptan, a5HT agonist, for attacks. Propranolol is its preventive example, including a woman in her thirties with hypertension; it says triptans are not preventive medicines.",
+    "a": "NSAIDs followed by a triptan such as sumatriptan, a 5HT agonist, for attacks. Propranolol is its preventive example, including a woman in her thirties with hypertension; it says triptans are not preventive medicines.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 29,
@@ -3457,14 +3457,14 @@ export default [
     "id": "s2neuro-0287",
     "category": "Tetanus vaccination and wound care",
     "q": "What childhood and adolescent tetanus-containing schedule does the source list?",
-    "a": "DTaP at 2, 4, 6 months,15-18 months and4-6 years; Tdap at 11-12 years, then Td every 10 years in its wording. Current adult boosters can be Td or Tdap.",
+    "a": "DTaP at 2, 4, 6 months,15-18 months and 4-6 years; Tdap at 11-12 years, then Td every 10 years in its wording. Current adult boosters can be Td or Tdap.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 36,
       "url": "/mehlman/hy-neuro.pdf#page=36"
     },
     "guideline": {
-      "text": "CDC confirms the5-dose childhood DTaP series and Tdap at 11-12. After an adult has received Tdap, Td OR Tdap may be used for subsequent10-year boosters. Catch-up and special situations require their own schedules.",
+      "text": "CDC confirms the 5-dose childhood DTaP series and Tdap at 11-12. After an adult has received Tdap, Td OR Tdap may be used for subsequent10-year boosters. Catch-up and special situations require their own schedules.",
       "url": "https://www.cdc.gov/tetanus/hcp/vaccine-recommendations/"
     }
   },
@@ -3502,7 +3502,7 @@ export default [
     "id": "s2neuro-0290",
     "category": "Tetanus vaccination and wound care",
     "q": "Which immune-globulin wound rule does the source give that must not be used as written?",
-    "a": "The PDF says dirty wound plus10+ years since vaccination requires IVIG plus vaccine, and says only that combination warrants IVIG. This is an unsafe source rule: time alone after a complete series does not create a TIG indication, and TIG is not given IV.",
+    "a": "The PDF says dirty wound plus 10+ years since vaccination requires IVIG plus vaccine, and says only that combination warrants IVIG. This is an unsafe source rule: time alone after a complete series does not create a TIG indication, and TIG is not given IV.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 36,
@@ -6249,6 +6249,1751 @@ export default [
       "title": "Mehlman HY Neuro",
       "page": 56,
       "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0516",
+    "category": "Rapid source vignettes",
+    "q": "What diagnosis does the rapid source choose for right weakness/hyperreflexia/Babinski with right vibration loss and left pain-temperature loss?",
+    "a": "Brown-Sequard/right spinal hemicord syndrome, attributed to viral infection in its 33-year-old one-week vignette. Crossed sensory and motor localization is the key; a viral cause is not established by that pattern alone.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2neuro-0517",
+    "category": "Rapid source vignettes",
+    "q": "What explanation does the source favor for a crying patient with painful metastatic cancer who says she wants to die?",
+    "a": "Inadequate pain control rather than major depression in its answer choices. Address pain, but this vignette shortcut must not suppress assessment of depression, distress, decision-making or suicide risk.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2neuro-0518",
+    "category": "Rapid source vignettes",
+    "q": "Which tests does the rapid source choose for months of bedtime leg discomfort and insomnia?",
+    "a": "Serum iron and ferritin for suspected restless legs syndrome; the source calls iron deficiency the commonest cause. Full iron assessment and clinical RLS criteria matter.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    },
+    "guideline": {
+      "text": "AASM 2025 strongly recommends gabapentin, gabapentin enacarbil and pregabalin for adults and suggests against standard pramipexole/ropinirole use because of long-term augmentation risk. Iron assessment includes ferritin and transferrin saturation, with RLS-specific thresholds.",
+      "url": "https://aasm.org/wp-content/uploads/2025/11/RLS-and-PLMD-Guideline-at-a-Glance-2025.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0519",
+    "category": "Rapid source vignettes",
+    "q": "What RLS treatment does the rapid source choose if its serum iron/ferritin are normal?",
+    "a": "A dopamine agonist such as pramipexole or ropinirole, an attributed source answer rather than the current standard default.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    },
+    "guideline": {
+      "text": "AASM 2025 strongly recommends gabapentin, gabapentin enacarbil and pregabalin for adults and suggests against standard pramipexole/ropinirole use because of long-term augmentation risk. Iron assessment includes ferritin and transferrin saturation, with RLS-specific thresholds.",
+      "url": "https://aasm.org/wp-content/uploads/2025/11/RLS-and-PLMD-Guideline-at-a-Glance-2025.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0520",
+    "category": "Rapid source vignettes",
+    "q": "Which later-disease prediction does the rapid source make for RLS?",
+    "a": "It says increased later Parkinson-disease risk and reasons from response to D2 agonists. A shared drug response does not establish that prediction; see the separate NINDS comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    },
+    "guideline": {
+      "text": "NINDS says RLS does not indicate the onset of Parkinson disease. Shared benefit from a drug class is not a predictive diagnosis, so the source later-Parkinson inference is not a reliable clinical counseling rule.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/restless-legs-syndrome"
+    }
+  },
+  {
+    "id": "s2neuro-0521",
+    "category": "Rapid source vignettes",
+    "q": "Which shaving-triggered syncope diagnosis does the rapid source pair with a normal tilt-table test?",
+    "a": "Carotid-sinus hypersensitivity in its 58-year-old example; a positive tilt-table result instead favors vasovagal syncope in the source. A normal tilt test alone does not establish the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2neuro-0522",
+    "category": "Rapid source vignettes",
+    "q": "What retinal diagnosis does the rapid source choose for hard exudates, cotton-wool spots and scattered hemorrhages?",
+    "a": "Diabetic retinopathy in its 45-year-old vignette; those fundus findings still need clinical context rather than a one-feature diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2neuro-0523",
+    "category": "Rapid source vignettes",
+    "q": "Which non-antipsychotic D2 blocker can cause source tardive dyskinesia, QT change and hyperprolactinemia?",
+    "a": "Metoclopramide.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2neuro-0524",
+    "category": "Rapid source vignettes",
+    "q": "Which antidepressant is the rapid source seizure-toxicity answer?",
+    "a": "Bupropion, which lowers seizure threshold.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2neuro-0525",
+    "category": "Rapid source vignettes",
+    "q": "Which cognitive deficit follows frontal-lobe trauma in the rapid source?",
+    "a": "Impaired conceptual/executive planning in its car-crash vignette.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 57,
+      "url": "/mehlman/hy-neuro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2neuro-0526",
+    "category": "Rapid source vignettes",
+    "q": "Which cognitive complication does the rapid source say thiamine reduces in an intoxicated patient with chronic alcohol use?",
+    "a": "Anterograde amnesia, linked to preventing Wernicke/Korsakoff-related injury. Its Wernicke mnemonic lists ataxia, confusion and ophthalmoplegia.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2neuro-0527",
+    "category": "Rapid source vignettes",
+    "q": "Which medication and syndrome labels does the source use for tremor after reducing heavy alcohol intake?",
+    "a": "Chlordiazepoxide, a benzodiazepine. It calls tremor after reducing 12 beers to 4 delirium tremens and postoperative tachycardia/tremor/hallucinations alcoholic hallucinosis. Those labels require cognition and timing assessment, not tremor or hallucinations alone.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2neuro-0528",
+    "category": "Rapid source vignettes",
+    "q": "What diagnosis does proximal weakness with raised ESR and CK favor in the rapid source?",
+    "a": "Inflammatory myopathy/polymyositis in its middle-aged examples, with or without pain. This does not replace the broader inflammatory-myopathy differential.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2neuro-0529",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source distinguish PMR from polymyositis using weakness, CK, pain and stiffness?",
+    "a": "PMR has pain/stiffness without true proximal weakness and generally normal CK; polymyositis has proximal weakness and raised CK in its comparison. Elevated ESR can occur in both.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2neuro-0530",
+    "category": "Rapid source vignettes",
+    "q": "What antibody/electrodiagnostic/biopsy sequence does the rapid source give for suspected polymyositis?",
+    "a": "Anti-Jo1 or anti-Mi2 testing, or EMG/nerve-conduction studies, followed by selected muscle biopsy for confirmation. Its labels group distinct myositis phenotypes; no single listed antibody detects every inflammatory myopathy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2neuro-0531",
+    "category": "Rapid source vignettes",
+    "q": "What urgent treatment-before-biopsy example does the rapid source give for temporal headache, PMR symptoms and high ESR?",
+    "a": "IV methylprednisolone before temporal-artery biopsy for suspected GCA with PMR. The source does not distinguish oral treatment without cranial ischemia from IV pulse treatment for threatened vision.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    },
+    "guideline": {
+      "text": "ACR/VF 2021 conditionally favors high-dose oral glucocorticoids when newly diagnosed GCA lacks cranial ischemia, and IV pulses when vision loss is threatened. IV treatment is not the default for every presentation. The same guideline conditionally favors biopsy within two weeks of starting oral glucocorticoids rather than delaying longer; treatment should not wait for biopsy.",
+      "url": "https://vasculitisfoundation.org/wp-content/uploads/2024/01/2021-ACR-VF-Guideline-for-Management-of-Giant-Cell-Arteritis-and-Takayasu-Artheritis.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0532",
+    "category": "Rapid source vignettes",
+    "q": "What MRI/steroid sequence does the rapid source give for prostate cancer with new neurologic findings?",
+    "a": "Consider metastatic epidural cord compression; it favors steroids if offered, then spinal MRI. It also extends steroids-first to traumatic compression, which needs a separate cancer-versus-trauma comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    },
+    "guideline": {
+      "text": "NICE NG41 recommends against methylprednisolone for acute traumatic spinal-cord neuroprotection. This differs from malignant cord compression, where steroids may be indicated. The cancer-first instruction must not become a universal traumatic-compression steroid order.",
+      "url": "https://www.nice.org.uk/guidance/ng41/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2neuro-0533",
+    "category": "Rapid source vignettes",
+    "q": "Which drug does the source choose for breast cancer with new cord-compression symptoms?",
+    "a": "IV high-dose dexamethasone in its 65-year-old answer choice; the actual dose/route and urgent imaging/treatment plan require a defined clinical pathway.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    },
+    "guideline": {
+      "text": "NICE 2023 MSCC guidance offers dexamethasone 16 mg orally or an equivalent parenteral dose promptly for neurologic symptoms/signs, followed by continued daily treatment while awaiting surgery or radiotherapy. This is a malignant-cord-compression pathway, not a rule for traumatic cord injury.",
+      "url": "https://www.nice.org.uk/guidance/ng234/resources/spinal-metastases-and-metastatic-spinal-cord-compression-pdf-66143896133317"
+    }
+  },
+  {
+    "id": "s2neuro-0534",
+    "category": "Rapid source vignettes",
+    "q": "What diagnosis and immediate sequence does the rapid source give for prostate cancer with epidural spinal metastases?",
+    "a": "Epidural spinal-cord compression; dexamethasone if offered while arranging urgent MRI/definitive care. This repeats its cancer-compression priority, not a reason to postpone imaging.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 58,
+      "url": "/mehlman/hy-neuro.pdf#page=58"
+    },
+    "guideline": {
+      "text": "NICE 2023 MSCC guidance offers dexamethasone 16 mg orally or an equivalent parenteral dose promptly for neurologic symptoms/signs, followed by continued daily treatment while awaiting surgery or radiotherapy. This is a malignant-cord-compression pathway, not a rule for traumatic cord injury.",
+      "url": "https://www.nice.org.uk/guidance/ng234/resources/spinal-metastases-and-metastatic-spinal-cord-compression-pdf-66143896133317"
+    }
+  },
+  {
+    "id": "s2neuro-0535",
+    "category": "Rapid source vignettes",
+    "q": "What steroid and contrast-imaging shortcuts does the rapid source give for suspected brain cancer?",
+    "a": "It says steroids as the next step and contrast head CT for tumor/abscess. Those are source shortcuts, not an instruction to give steroids to every uncharacterized lesion or a claim CT always supersedes MRI.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0536",
+    "category": "Rapid source vignettes",
+    "q": "Which initial scan and surgical sequence does the rapid source use for acute intracranial hemorrhage?",
+    "a": "Noncontrast head CT; epidural bleed gets intubation/hyperventilation then craniotomy, while subdural gets craniotomy rather than observation in its exam choices. Those are not universal airway, ventilation or operative criteria.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    },
+    "guideline": {
+      "text": "Brain Trauma Foundation advises against prolonged prophylactic hyperventilation to PaCO2 at or below 25 mmHg. It retains older temporizing-ICP guidance with explicit evidence limits; early low cerebral blood flow is a concern. The PDF shortcut is not a universal ventilator target or a complete operative decision rule.",
+      "url": "https://braintrauma.org/coma/guidelines/severe-tbi"
+    }
+  },
+  {
+    "id": "s2neuro-0537",
+    "category": "Rapid source vignettes",
+    "q": "Which CT shapes distinguish rapid-source epidural and subdural hematomas?",
+    "a": "Epidural is lens/biconvex; subdural is crescent shaped.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0538",
+    "category": "Rapid source vignettes",
+    "q": "What diagnosis and IV drug does the rapid source choose for BP 220/120 with confusion?",
+    "a": "Hypertensive encephalopathy and IV sodium nitroprusside in its exam example. The named drug is not a universal preferred agent for every neurologic hypertensive emergency.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    },
+    "guideline": {
+      "text": "Merck lists several titratable IV agents and cautions that nitroprusside needs care with high intracranial pressure or azotemia. It can cause cyanide/thiocyanate toxicity. The source one-drug example is not a universal safe neurologic-emergency regimen.",
+      "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertensive-emergencies"
+    }
+  },
+  {
+    "id": "s2neuro-0539",
+    "category": "Rapid source vignettes",
+    "q": "What toxicity does the rapid source suspect if confusion follows nitroprusside treatment?",
+    "a": "Cyanide toxicity; dose, duration and the broader clinical picture matter, and nitroprusside can also cause thiocyanate toxicity.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0540",
+    "category": "Rapid source vignettes",
+    "q": "Which post-SAH drug and receptor class does the rapid source identify?",
+    "a": "Nimodipine, a dihydropyridine calcium-channel blocker, to improve delayed ischemic outcomes in its vasospasm-prevention shorthand.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0541",
+    "category": "Rapid source vignettes",
+    "q": "Which hemorrhage can mimic meningitis with severe headache and a stiff neck in the rapid source?",
+    "a": "Subarachnoid hemorrhage can produce meningeal irritation; headache/neck stiffness is not specific to either diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0542",
+    "category": "Rapid source vignettes",
+    "q": "Which vascular cause does the rapid source choose for recurrent intracerebral bleeding with Alzheimer disease?",
+    "a": "Cerebral amyloid angiopathy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0543",
+    "category": "Rapid source vignettes",
+    "q": "What investigation does the rapid source choose for low fever and delirium in an older person with Alzheimer disease?",
+    "a": "Urinalysis for a possible UTI in its 87-year-old vignette. This is a diagnostic-workup example, not permission to attribute all delirium to bacteriuria or automatically prescribe antibiotics.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0544",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source distinguish labyrinthitis from vestibular neuritis after a viral illness?",
+    "a": "Labyrinthitis has vertigo with tinnitus and/or sensorineural hearing loss; vestibular neuritis has vertigo without the cochlear features in its distinction.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0545",
+    "category": "Rapid source vignettes",
+    "q": "What route claim does the rapid source make for treating an acute MS relapse?",
+    "a": "It chooses IV corticosteroids and says oral steroids are wrong/can worsen flares. That blanket statement conflicts with accepted high-dose oral relapse treatment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    },
+    "guideline": {
+      "text": "NICE MS guidance offers oral methylprednisolone 0.5 g daily for 5 days for a relapse; IV 1 g daily for 3-5 days is an alternative for selected severe, hospitalized or oral-intolerant/unresponsive cases. It warns against lower-dose regimens, not against every oral regimen. The PDF blanket oral-worsens-relapse rule is incorrect.",
+      "url": "https://www.nice.org.uk/guidance/ng220/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2neuro-0546",
+    "category": "Rapid source vignettes",
+    "q": "Which between-relapse MS drug and symptom-state rule does the rapid source give?",
+    "a": "Interferon-beta, with a statement the patient must be asymptomatic. This is an older source shortcut, not a universal eligibility requirement or the full disease-modifying-treatment range.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    },
+    "guideline": {
+      "text": "NICE beta-interferon recommendations use defined relapsing disease/activity criteria. They do not impose a universal requirement that a person be entirely symptom-free before disease-modifying therapy. Persistent disability and acute relapse management are different considerations.",
+      "url": "https://www.nice.org.uk/guidance/ta527/chapter/1-Recommendations"
+    }
+  },
+  {
+    "id": "s2neuro-0547",
+    "category": "Rapid source vignettes",
+    "q": "Which drug/receptor and bladder pattern does the rapid source give for MS complications?",
+    "a": "Baclofen/GABA-B agonism for spasticity; urge incontinence from detrusor overactivity in its typical bladder example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0548",
+    "category": "Rapid source vignettes",
+    "q": "Which immune mechanism and diagnostic-test priority does the rapid source give for MS?",
+    "a": "T-cell-mediated CNS myelin/oligodendrocyte injury, with MRI favored over CSF oligoclonal bands in its answer choices. Diagnosis requires clinical and imaging criteria/exclusion of mimics, not a single universally definitive MRI finding.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2neuro-0549",
+    "category": "Rapid source vignettes",
+    "q": "Which young-adult visual vignette and afferent findings does the rapid source associate with optic neuritis/MS?",
+    "a": "A 27-year-old with intermittent headache and blurry vision; optic-nerve inflammation may cause reduced acuity/color vision or a relative afferent pupillary defect/Marcus Gunn pupil. Headache plus blur alone does not establish MS.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 59,
+      "url": "/mehlman/hy-neuro.pdf#page=59"
+    },
+    "sourcePages": [
+      59,
+      60
+    ]
+  },
+  {
+    "id": "s2neuro-0550",
+    "category": "Rapid source vignettes",
+    "q": "Which side, nystagmus and convergence findings localize the rapid source INO example?",
+    "a": "Impaired adduction marks the side of the MLF lesion, with nystagmus of the abducting eye. Convergence can be preserved, unlike some CN III lesions. The source calls INO most specific for MS; other causes, including stroke, remain possible.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    },
+    "guideline": {
+      "text": "Merck Professional describes MS as a common INO cause in younger people, often bilateral, and stroke in older adults, often unilateral. INO therefore is not pathognomonic for MS. The lesion impairs ipsilateral adduction with relative preservation of convergence.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/internuclear-ophthalmoplegia"
+    }
+  },
+  {
+    "id": "s2neuro-0551",
+    "category": "Rapid source vignettes",
+    "q": "Which repeat disorder does hand stiffness, frontal balding and impaired relaxation suggest in the rapid source?",
+    "a": "Myotonic dystrophy, associated with a CTG-repeat expansion in its type 1 pattern.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2neuro-0552",
+    "category": "Rapid source vignettes",
+    "q": "Which treatment-related neuropathy does the rapid source diagnose after cisplatin or vincristine?",
+    "a": "Chemotherapy-associated toxic peripheral neuropathy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2neuro-0553",
+    "category": "Rapid source vignettes",
+    "q": "Which electrolyte and renal abnormalities cause rapid-source confusion or seizures?",
+    "a": "Hypo-/hypernatremia and hypercalcemia may cause CNS dysfunction; high BUN/creatinine with confusion suggests uremic encephalopathy in its renal vignette.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2neuro-0554",
+    "category": "Rapid source vignettes",
+    "q": "What disorder and motor-neuron site does the rapid source pair with a floppy infant?",
+    "a": "Spinal muscular atrophy/Werdnig-Hoffmann syndrome, affecting anterior-horn motor neurons. Floppiness itself has a broader differential.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2neuro-0555",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source distinguish acute dystonia from NMS after an antipsychotic?",
+    "a": "Stiff neck/oculogyric crisis or rigidity without fever favors acute dystonia, treated with benztropine or diphenhydramine in its examples. Rigidity with fever prompts NMS concern; absence of a single sign is not a complete exclusion assessment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2neuro-0556",
+    "category": "Rapid source vignettes",
+    "q": "Which drug and target does the rapid source choose for NMS?",
+    "a": "Dantrolene acting on ryanodine-mediated skeletal-muscle calcium release. Stopping the culprit and supportive/emergency care are also important; a named antidote is not the entire treatment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2neuro-0557",
+    "category": "Rapid source vignettes",
+    "q": "Which source medication treats antipsychotic-associated restlessness?",
+    "a": "Propranolol for akathisia in its vignette, after distinguishing it from anxiety, agitation or parkinsonism.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2neuro-0558",
+    "category": "Rapid source vignettes",
+    "q": "Which two drugs does the rapid source choose for antipsychotic-associated bradykinesia?",
+    "a": "Amantadine or propranolol, labeled drug-induced parkinsonism. The propranolol claim should not be carried over from akathisia without the separate evidence comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    },
+    "guideline": {
+      "text": "The retrieved StatPearls review distinguishes propranolol for akathisia from management of drug-induced parkinsonism: reducing/stopping or switching the causative drug and selected antiparkinsonian treatments such as amantadine or anticholinergics. It does not support a blanket propranolol-for-bradykinesia rule; clinical assessment must distinguish the movement disorder.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534115/"
+    }
+  },
+  {
+    "id": "s2neuro-0559",
+    "category": "Rapid source vignettes",
+    "q": "What medication change does the rapid source give for tardive tongue movements?",
+    "a": "Stop the causative antipsychotic and switch to an atypical in its shortcut. Actual changes require psychiatric risk review, and abrupt withdrawal can transiently worsen symptoms; modern treatment includes VMAT2 inhibitors in appropriate patients.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    },
+    "guideline": {
+      "text": "The retrieved EPS review describes gradual taper/selected switching, with possible temporary withdrawal worsening, and approved VMAT2 inhibitors valbenazine/deutetrabenazine for appropriate tardive syndromes. Do not abruptly change antipsychotics solely from an exam shortcut.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534115/"
+    }
+  },
+  {
+    "id": "s2neuro-0560",
+    "category": "Rapid source vignettes",
+    "q": "What first/second-line hierarchy does the rapid source give for painful diabetic neuropathy?",
+    "a": "A TCA such as amitriptyline first, gabapentin second. It is the source hierarchy, not the only supported initial drug-class choice.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 60,
+      "url": "/mehlman/hy-neuro.pdf#page=60"
+    },
+    "guideline": {
+      "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
+    }
+  },
+  {
+    "id": "s2neuro-0561",
+    "category": "Rapid source vignettes",
+    "q": "Which drug does the rapid source use for herpetic or postherpetic neuralgia?",
+    "a": "Gabapentin for neuropathic pain, distinct from antiviral management of the active infection.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 61,
+      "url": "/mehlman/hy-neuro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2neuro-0562",
+    "category": "Rapid source vignettes",
+    "q": "What medication switch does the rapid source choose for an 82-year-old with diabetic neuropathy despite carbamazepine/gabapentin?",
+    "a": "Nortriptyline in its vignette, while acknowledging TCA anticholinergic/alpha-1 risks in older people. It still says always choose a TCA first and regards nortriptyline as less troublesome; that is not a guarantee of safety or a universal sequence.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 61,
+      "url": "/mehlman/hy-neuro.pdf#page=61"
+    },
+    "guideline": {
+      "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
+    }
+  },
+  {
+    "id": "s2neuro-0563",
+    "category": "Rapid source vignettes",
+    "q": "Which attack timing, behavior and trigger distinguish rapid-source cluster headache from trigeminal neuralgia?",
+    "a": "Cluster: very severe orbital pain that may wake a younger/middle-aged man and provoke pacing. Neuralgia: seconds-long triggered jolts, including touch, wind, hair/teeth brushing, in V1/V2/V3 distributions. Autonomic signs can support cluster but are not guaranteed in a short source vignette.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 61,
+      "url": "/mehlman/hy-neuro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2neuro-0564",
+    "category": "Rapid source vignettes",
+    "q": "Which acute and prevention drugs does the rapid source pair with cluster headache and trigeminal neuralgia?",
+    "a": "Cluster: 100% oxygen acutely and verapamil prevention. Trigeminal neuralgia: jabs resolve over seconds, with carbamazepine prevention in the source.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 61,
+      "url": "/mehlman/hy-neuro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2neuro-0565",
+    "category": "Rapid source vignettes",
+    "q": "What acute/preventive migraine and tension-headache sequences does the rapid source give?",
+    "a": "Migraine: NSAID then triptan acutely, propranolol prevention; it says triptans are never prophylactic. Tension: diffuse pain relieved by acetaminophen/rest, with caffeine taper if relevant. These are source shortcuts rather than every regimen.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 61,
+      "url": "/mehlman/hy-neuro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2neuro-0566",
+    "category": "Rapid source vignettes",
+    "q": "Which neurologic, endocrine and hypertensive uses does the rapid source list for propranolol?",
+    "a": "Migraine prevention, akathisia, thyroid storm/peripheral T4-to-T3 reduction, essential tremor and selected hypertension-plus-tremor vignettes. It labels essential tremor bilateral resting tremor, conflicting with the action-tremor pattern.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 61,
+      "url": "/mehlman/hy-neuro.pdf#page=61"
+    },
+    "guideline": {
+      "text": "NINDS describes essential tremor as predominantly action tremor, often bilateral hands/arms, distinct from the typical rest tremor of Parkinson disease. The PDF rapid resting label conflicts with its own earlier intention-tremor description.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/tremor"
+    }
+  },
+  {
+    "id": "s2neuro-0567",
+    "category": "Rapid source vignettes",
+    "q": "Which GI, cardiac and anxiety indications complete the rapid-source propranolol list?",
+    "a": "Variceal-bleeding prevention, hypertrophic obstructive cardiomyopathy and social/performance anxiety in its list. It explains HOCM by increased preload; this is a source shorthand, not the full negative-inotropy/heart-rate mechanism.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 61,
+      "url": "/mehlman/hy-neuro.pdf#page=61"
+    },
+    "sourcePages": [
+      61,
+      62
+    ]
+  },
+  {
+    "id": "s2neuro-0568",
+    "category": "Rapid source vignettes",
+    "q": "Which sellar tumors does the rapid source favor for adult versus childhood bitemporal field loss?",
+    "a": "Adult prolactinoma; childhood craniopharyngioma, with Rathke-pouch/roof-of-primitive-pharynx origin. Field loss itself does not determine histology or hormone secretion.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0569",
+    "category": "Rapid source vignettes",
+    "q": "Which pediatric brain-tumor ranking, imaging and histology does the rapid source repeat?",
+    "a": "Pilocytic astrocytoma as its commonest-primary-pediatric answer, with solid/cystic appearance and Rosenthal fibers. This is an attributed broad rank, not independently validated across every age/denominator.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0570",
+    "category": "Rapid source vignettes",
+    "q": "Which lesion does morning vomiting plus truncal ataxia suggest in the rapid source young child?",
+    "a": "Medulloblastoma of the cerebellar vermis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0571",
+    "category": "Rapid source vignettes",
+    "q": "Which aggressive adult tumor, imaging and presentation does the rapid source rank highest?",
+    "a": "Glioblastoma, with necrosis/hemorrhage, a large irregular mass or corpus-callosum butterfly pattern and possible seizures. Its most-common-primary-brain-cancer statement needs a malignant-tumor rather than all-primary-tumor qualifier.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    },
+    "guideline": {
+      "text": "NCI identifies meningioma as the most common PRIMARY brain tumor overall. The source most-common-adult-brain-tumor statement therefore needs a malignant-versus-all-primary qualifier; metastatic lesions are another separate category.",
+      "url": "https://www.cancer.gov/rare-brain-spine-tumor/tumors/meningioma"
+    }
+  },
+  {
+    "id": "s2neuro-0572",
+    "category": "Rapid source vignettes",
+    "q": "Which diagnosis does the rapid source favor for SLE with an irregular ring-enhancing brain lesion?",
+    "a": "Primary CNS lymphoma over toxoplasmosis in its 44-year-old example. Ring enhancement and SLE alone are not definitive pathology.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0573",
+    "category": "Rapid source vignettes",
+    "q": "Which treatment-versus-prophylaxis distinction does the rapid source give for toxoplasmosis and PJP?",
+    "a": "Sulfadiazine plus pyrimethamine for toxoplasma treatment and TMP-SMX prophylaxis, while TMP-SMX treats and prevents PJP. The toxoplasma list omits leucovorin and accepted acute TMP-SMX therapy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    },
+    "guideline": {
+      "text": "NIH lists pyrimethamine plus sulfadiazine PLUS leucovorin, or TMP-SMX, as preferred acute toxoplasma-encephalitis regimens. Leucovorin reduces pyrimethamine marrow toxicity. Calling TMP-SMX always wrong is inconsistent with the retrieved guideline.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis"
+    }
+  },
+  {
+    "id": "s2neuro-0574",
+    "category": "Rapid source vignettes",
+    "q": "Which congenital infection triad does the source pair with intracranial calcifications, chorioretinitis and hydrocephalus?",
+    "a": "Congenital toxoplasmosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0575",
+    "category": "Rapid source vignettes",
+    "q": "Which congenital infection does the source pair with calcifications, deafness, hepatomegaly and rash?",
+    "a": "Congenital CMV; it also favors CMV in a newborn with maternal-infection-associated bilateral deafness but no further detail.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0576",
+    "category": "Rapid source vignettes",
+    "q": "Which NF1-versus-NF2 CNS tumors does the rapid source list?",
+    "a": "NF1: optic glioma, oligodendroglioma and ependymoma in its list. NF2: meningioma, with possible overlap acknowledged. This is not a complete gene-specific risk comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0577",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source use jaw pain/headache and ESR to separate TMJ disorder from GCA?",
+    "a": "Normal ESR favors temporomandibular-joint disorder; elevated ESR plus jaw claudication favors temporal arteritis in its shortcut. A normal inflammatory marker is not by itself a safe exclusion of GCA.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0578",
+    "category": "Rapid source vignettes",
+    "q": "Which drug-associated deficiency causes source limb neuropathy or seizures during TB treatment?",
+    "a": "Isoniazid-associated pyridoxine/B6 deficiency.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0579",
+    "category": "Rapid source vignettes",
+    "q": "Which metastatic localization does the rapid source choose for breast cancer, suprapubic mass, poor sphincter tone and lumbar percussion pain?",
+    "a": "Cauda-equina involvement/compression from metastases in its vignette; the suprapubic mass can reflect retention, not a separate assumed pelvic cancer.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 62,
+      "url": "/mehlman/hy-neuro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2neuro-0580",
+    "category": "Rapid source vignettes",
+    "q": "Which source syndrome has saddle anesthesia with later bladder dysfunction, versus perianal anesthesia with early bladder/bowel symptoms?",
+    "a": "Cauda-equina syndrome versus conus-medullaris syndrome in its contrast. Timing/distribution overlap clinically, so either suspected compression requires urgent assessment, not waiting for the entire textbook pattern.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2neuro-0581",
+    "category": "Rapid source vignettes",
+    "q": "Which finger-root map answers the rapid source burned-thumb dermatome question?",
+    "a": "C6 for the thumb/radial digits, C7 around the middle finger and C8 for ulnar digits in its map; these are overlapping root territories rather than isolated peripheral-nerve distributions.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2neuro-0582",
+    "category": "Rapid source vignettes",
+    "q": "What diagnosis does a 13-year-old with new lower-limb symptoms, CSF protein 95 mg/dL and leukocytes 4 /uL suggest in the rapid source?",
+    "a": "Guillain-Barre syndrome, with albuminocytologic dissociation: high protein and few/normal cells. A preceding infection need not be explicitly mentioned.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2neuro-0583",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source interpret weakness throughout the legs but only distally in the arms?",
+    "a": "It favors ascending Guillain-Barre weakness, reaching more of the lower limbs before the upper limbs. The sparse description still requires clinical confirmation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2neuro-0584",
+    "category": "Rapid source vignettes",
+    "q": "Which test priority and immune target does the rapid source give for GBS?",
+    "a": "EMG/nerve-conduction studies over CSF in its answer choices, with T-cell attack on Schwann-cell/PNS myelin as its mechanism. GBS includes axonal as well as demyelinating variants, so that target is not every subtype.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2neuro-0585",
+    "category": "Rapid source vignettes",
+    "q": "What treatment pair and steroid exclusion does the rapid source give for GBS?",
+    "a": "It prints IVIG plus plasmapheresis and rejects steroids. The plus must not be interpreted as routine sequential combination therapy; see the EAN/PNS comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    },
+    "guideline": {
+      "text": "EAN/PNS 2023 recommends IVIG OR plasma exchange in appropriate GBS presentations, and does not recommend plasma exchange immediately followed by IVIG. It recommends against oral corticosteroids and weakly against IV corticosteroids. Monitor respiration/autonomic function; the source plus wording must not become a routine combination order.",
+      "url": "https://aanfiles.blob.core.windows.net/guidelines/61598405-ac04-42cf-898c-5eb582e55ebc/J%20Peripheral%20Nervous%20Sys%20-%202023%20-%20Doorn%20-%20European%20Academy%20of%20Neurology%20Peripheral%20Nerve%20Society%20Guideline%20on%20diagnosis%20and.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0586",
+    "category": "Rapid source vignettes",
+    "q": "Which test does the rapid source insist on for thenar-region symptoms and preserved dorsal-hand sensation?",
+    "a": "Electrophysiologic testing for carpal tunnel; it says Tinel/Phalen/flick findings are insufficient. Current AAOS clinical assessment does not require routine electrodiagnostic testing for every typical case.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    },
+    "guideline": {
+      "text": "AAOS 2024 supports CTS-6 clinical assessment instead of routine EMG/nerve-conduction or ultrasound testing in appropriate patients. It finds no long-term benefit from corticosteroid injection and explicitly discusses mini-open/endoscopic release as treatments with similar long-term results. The source mandatory-testing and surgery-never shortcuts are not universal rules.",
+      "url": "https://www.aaos.org/aaos-home/newsroom/press-releases/carpal-tunnel-syndrome-aaos-updates-clinical-practice-guideline/"
+    }
+  },
+  {
+    "id": "s2neuro-0587",
+    "category": "Rapid source vignettes",
+    "q": "What splint/injection/surgery sequence does the rapid source give for carpal tunnel with unavoidable repetitive activity?",
+    "a": "Wrist splint then local triamcinolone; it calls surgery always wrong and NSAIDs unhelpful in its exam experience. Surgery is not universally excluded clinically.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    },
+    "guideline": {
+      "text": "AAOS 2024 supports CTS-6 clinical assessment instead of routine EMG/nerve-conduction or ultrasound testing in appropriate patients. It finds no long-term benefit from corticosteroid injection and explicitly discusses mini-open/endoscopic release as treatments with similar long-term results. The source mandatory-testing and surgery-never shortcuts are not universal rules.",
+      "url": "https://www.aaos.org/aaos-home/newsroom/press-releases/carpal-tunnel-syndrome-aaos-updates-clinical-practice-guideline/"
+    }
+  },
+  {
+    "id": "s2neuro-0588",
+    "category": "Rapid source vignettes",
+    "q": "What location, symptom territory and support does the rapid source give for cubital tunnel?",
+    "a": "Ulnar entrapment at the elbow, with ulnar-hand symptoms and an elbow splint. It says forearm involvement; ordinary ulnar entrapment does not supply all medial-forearm cutaneous sensation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    },
+    "guideline": {
+      "text": "StatPearls distinguishes ulnar hand sensation from medial forearm skin, supplied by the medial antebrachial cutaneous nerve; medial forearm loss warrants considering root/plexus disease. AAOS also permits cubital-tunnel surgery when conservative care fails or weakness/damage occurs, so the source surgery-never statement is not a clinical rule.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555929/"
+    }
+  },
+  {
+    "id": "s2neuro-0589",
+    "category": "Rapid source vignettes",
+    "q": "Which wrist site and injury/exposure examples define rapid-source Guyon-canal syndrome?",
+    "a": "Ulnar compression at the wrist, associated with hook-of-hamate injury or prolonged handlebar pressure in cyclists.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 63,
+      "url": "/mehlman/hy-neuro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2neuro-0590",
+    "category": "Rapid source vignettes",
+    "q": "Which nerve does the rapid source associate with a midshaft humeral fracture and wrist drop?",
+    "a": "Radial nerve injury, with wrist drop and a pronated resting forearm in its description.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2neuro-0591",
+    "category": "Rapid source vignettes",
+    "q": "Which fracture sites does the rapid source pair with median, ulnar and axillary nerve injuries?",
+    "a": "Supracondylar humerus: median; medial epicondyle: ulnar; surgical neck of humerus: axillary. These are classic associations, not every possible injury at those sites.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2neuro-0592",
+    "category": "Rapid source vignettes",
+    "q": "Which nerve and muscle explain postmastectomy scapular winging in the rapid source?",
+    "a": "Long thoracic nerve injury with serratus-anterior weakness.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2neuro-0593",
+    "category": "Rapid source vignettes",
+    "q": "Which arrhythmia-related diagnosis does the rapid source choose for a child with a seizure-like event?",
+    "a": "Adams-Stokes attack/convulsive syncope from transient cerebral hypoperfusion, not an electrographic epileptic seizure in its example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2neuro-0594",
+    "category": "Rapid source vignettes",
+    "q": "Which diagnosis does the rapid source choose for an older patient with prior MI, pallor/sweating and tonic-clonic-like fainting?",
+    "a": "Convulsive syncope. Movements during loss of consciousness do not automatically establish epilepsy; the underlying rhythm/perfusion cause still needs evaluation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2neuro-0595",
+    "category": "Rapid source vignettes",
+    "q": "Which peptide, diagnostic test, emotional symptom and drug define rapid-source narcolepsy?",
+    "a": "Orexin/hypocretin deficiency, polysomnography, emotion-triggered cataplexy and modafinil treatment. This is a source cluster, not a statement that every type has low orexin or a complete testing pathway.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    },
+    "guideline": {
+      "text": "NINDS describes overnight polysomnography followed by a multiple sleep latency test to assess daytime sleep onset and REM. Sometimes CSF hypocretin measurement helps. The source single-test answer does not cover the full evaluation.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/narcolepsy"
+    }
+  },
+  {
+    "id": "s2neuro-0596",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source separate simple/complex and partial/generalized seizure labels?",
+    "a": "Simple retains awareness and complex impairs it; partial is focal and generalized involves bilateral networks in its older terminology. It says staring without awareness is impaired consciousness, not proof of focal onset.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    },
+    "guideline": {
+      "text": "ILAE 2025 retains focal/generalized/unknown/unclassified seizure classes, but consciousness replaces awareness as a classifier, assessed through awareness and responsiveness. Absence is not made focal merely by impaired consciousness or staring. Historical PDF terms are retained for source fidelity.",
+      "url": "https://www.ilae.org/guidelines/definition-and-classification/updated-classification-of-epileptic-seizures-2025"
+    }
+  },
+  {
+    "id": "s2neuro-0597",
+    "category": "Rapid source vignettes",
+    "q": "What brief movement and consciousness description does the rapid source give for myoclonic seizure?",
+    "a": "A short muscle/group jerk without loss of consciousness in its typical example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2neuro-0598",
+    "category": "Rapid source vignettes",
+    "q": "What empiric meningitis regimen and LP order does the rapid source give, contradicting its earlier page 31 order?",
+    "a": "Ceftriaxone plus vancomycin with possible steroids, and it says newer guidance puts LP first. Earlier it said antibiotics first. Neither blanket order should delay treatment if a safe immediate LP is not feasible.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    },
+    "guideline": {
+      "text": "WHO 2025 recommends prompt LP, preferably before antimicrobials when safe and feasible. Antibiotics must not be delayed for imaging or a deferred LP; obtain blood cultures promptly and start treatment if LP would delay care. Thus neither a rigid always-before-LP nor wait-for-LP rule is appropriate.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/"
+    }
+  },
+  {
+    "id": "s2neuro-0599",
+    "category": "Rapid source vignettes",
+    "q": "Which pre-LP CT triggers and herniation concern does the rapid source list?",
+    "a": "Unreliable exam/confusion or reduced GCS, seizures, focal signs, papilledema or inability to inspect fundi. A mass lesion/pressure gradient may cause tonsillar herniation after LP; a negative CT alone is not every safety criterion.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 64,
+      "url": "/mehlman/hy-neuro.pdf#page=64"
+    },
+    "guideline": {
+      "text": "WHO 2025 advises against routine pre-LP imaging. Selected concerns include GCS below 10, focal or cranial-nerve deficits, papilledema, new adult seizures or severe immune compromise. Treatment must not wait for CT. Isolated new seizures in children without other risk features do not automatically require CT.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/"
+    }
+  },
+  {
+    "id": "s2neuro-0600",
+    "category": "Rapid source vignettes",
+    "q": "What typical CSF contrast does the rapid source give for bacterial, viral and fungal meningitis?",
+    "a": "Bacterial: low glucose/high protein/neutrophils. Viral: normal glucose/normal or mildly high protein/lymphocytes. Fungal: low glucose/high protein/lymphocytes. These patterns support, but do not independently prove, etiology.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2neuro-0601",
+    "category": "Rapid source vignettes",
+    "q": "Which CSF, temporal-lobe, CT/EEG and drug findings does the rapid source give for HSV encephalitis?",
+    "a": "Possible CSF red cells from temporal hemorrhagic injury, sometimes normal CT and temporal slowing/complexes on EEG; IV acyclovir is its treatment. Absence of red cells does not exclude HSV encephalitis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2neuro-0602",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source distinguish meningitis from encephalitis using symptoms?",
+    "a": "Meningitis: neck stiffness, photophobia and ophthalmoplegia in its wording. Encephalitis: confusion. Actual syndromes overlap and a patient may have meningoencephalitis; neither list is mandatory or exclusive.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2neuro-0603",
+    "category": "Rapid source vignettes",
+    "q": "Which cryptococcal tests and stains does the rapid source prefer?",
+    "a": "Latex agglutination over India ink if both are offered; mucicarmine stains the capsule red. This is its answer-choice priority, not a complete current CrAg/culture approach.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    },
+    "guideline": {
+      "text": "NIH HIV-OI guidance uses CrAg tests including lateral-flow assays and culture; India ink is less sensitive. CNS treatment has induction, consolidation and maintenance phases, with selected liposomal-amphotericin/flucytosine regimens and fluconazole afterward. Measure/manage CSF opening pressure; a generic fluconazole taper is not the full plan.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/cryptococcosis"
+    }
+  },
+  {
+    "id": "s2neuro-0604",
+    "category": "Rapid source vignettes",
+    "q": "What induction-to-azole sequence does the rapid source give for cryptococcal meningitis?",
+    "a": "Amphotericin B plus flucytosine, followed by fluconazole, which it calls a taper. Induction, consolidation and maintenance with pressure management are more precise than a generic taper.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    },
+    "guideline": {
+      "text": "NIH HIV-OI guidance uses CrAg tests including lateral-flow assays and culture; India ink is less sensitive. CNS treatment has induction, consolidation and maintenance phases, with selected liposomal-amphotericin/flucytosine regimens and fluconazole afterward. Measure/manage CSF opening pressure; a generic fluconazole taper is not the full plan.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/cryptococcosis"
+    }
+  },
+  {
+    "id": "s2neuro-0605",
+    "category": "Rapid source vignettes",
+    "q": "Which lung lesion, biopsy and antifungals does the rapid source associate with Aspergillus?",
+    "a": "An upper-lobe nodular density in an immunocompromised person, called aspergilloma, with open lung biopsy in its particular exam answer and an azole. It lists voriconazole or caspofungin for invasive disease; these are not interchangeable routine primary monotherapies.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    },
+    "guideline": {
+      "text": "IDSA 2016 recommends voriconazole for primary invasive pulmonary/CNS aspergillosis, with alternatives in defined situations. Echinocandins such as caspofungin are salvage options and are not recommended as routine primary monotherapy. A lung nodule in an immunocompromised person is not automatically a simple fungus ball or an indication for open biopsy in every case.",
+      "url": "https://www.idsociety.org/practice-guideline/aspergillosis/"
+    }
+  },
+  {
+    "id": "s2neuro-0606",
+    "category": "Rapid source vignettes",
+    "q": "Which fatigable ocular/bulbar symptoms identify rapid-source MG?",
+    "a": "Diplopia, dysphagia and ptosis worsening through the day in its 44-year-old vignette.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2neuro-0607",
+    "category": "Rapid source vignettes",
+    "q": "Which repeated-effort and sustained-upgaze clues favor rapid-source Lambert-Eaton over MG?",
+    "a": "Difficulty rising from a chair that improves after repeated efforts and preserved sustained upgaze favor Lambert-Eaton in its examples. Those isolated maneuvers do not establish the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2neuro-0608",
+    "category": "Rapid source vignettes",
+    "q": "Which structural site and antibody targets distinguish rapid-source MG and Lambert-Eaton?",
+    "a": "Both affect the neuromuscular junction. MG most often involves postsynaptic ACh receptors; Lambert-Eaton presynaptic voltage-gated calcium channels, with clinical and antibody/electrodiagnostic confirmation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2neuro-0609",
+    "category": "Rapid source vignettes",
+    "q": "Which cancer, imaging, surgery outcome and MuSK percentage does the rapid source claim for MG?",
+    "a": "Thymoma prompts chest imaging. It says removing the thymoma cures MG and up to 80% with thymoma plus MG have anti-MuSK antibodies. The cure and percentage are source claims, not established outcome/serologic rules.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    },
+    "guideline": {
+      "text": "NINDS describes AChR antibodies as the most common cause, with MuSK antibodies as another cause; its retrieved overview does not establish the PDF thymoma-specific 80% anti-MuSK estimate. It states there is no known MG cure, although thymectomy can improve symptoms and sometimes produce sustained remission. The source percentage remains unverified.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/myasthenia-gravis"
+    }
+  },
+  {
+    "id": "s2neuro-0610",
+    "category": "Rapid source vignettes",
+    "q": "Which malignancy, diagnostic priority and edrophonium response does the source give for Lambert-Eaton/MG?",
+    "a": "Lambert-Eaton may accompany small-cell lung cancer. The source favors antibody tests over edrophonium if offered. Short-acting edrophonium can transiently improve MG more than Lambert-Eaton; this historical test does not replace the full workup.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 65,
+      "url": "/mehlman/hy-neuro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2neuro-0611",
+    "category": "Rapid source vignettes",
+    "q": "Which symptomatic MG medication does the rapid source name?",
+    "a": "Pyridostigmine, an acetylcholinesterase inhibitor; the whole treatment/crisis plan depends on severity and cause.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0612",
+    "category": "Rapid source vignettes",
+    "q": "Which venous disorder does papilledema with facial flushing and head-neck venous distension suggest in the rapid source?",
+    "a": "SVC obstruction/impaired venous return to the heart, with possible Pemberton sign. It notes anterior mediastinal/thymic-region masses, including pediatric T-cell acute lymphoblastic leukemia/lymphoma, can produce an SVC-like presentation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0613",
+    "category": "Rapid source vignettes",
+    "q": "Which childhood tumor does dancing eyes, hypertension and a posterior-mediastinal lesion suggest?",
+    "a": "Neuroblastoma along the sympathetic chain; opsoclonus-myoclonus can produce the dancing-eye presentation. Adrenal/abdominal origin is common but not the only site.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0614",
+    "category": "Rapid source vignettes",
+    "q": "Which urinary markers, imaging and gene does the rapid source associate with neuroblastoma?",
+    "a": "Urinary HVA/VMA catecholamine metabolites, mIBG imaging and MYCN/n-myc. These are source workup/genetic associations, not a complete diagnostic/staging pathway.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0615",
+    "category": "Rapid source vignettes",
+    "q": "Which leg-nerve injuries cause source loss of plantarflexion/inversion versus dorsiflexion/eversion?",
+    "a": "Tibial nerve versus common fibular/peroneal nerve, respectively.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0616",
+    "category": "Rapid source vignettes",
+    "q": "Which parasite does the source diagnose after travel, seizure and diffuse cystic/calcified or ventricular brain lesions?",
+    "a": "Neurocysticercosis from Taenia-solium eggs; the source names albendazole or praziquantel. Lesion location, number, stage and complications determine actual treatment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    },
+    "guideline": {
+      "text": "CDC prioritizes managing neurologic manifestations. Killing viable cysts can worsen inflammation; anti-inflammatory treatment may accompany therapy. Drug choice and duration depend on lesion location, size, number and stage, while some cases need surgery. Do not apply one source drug answer to every lesion.",
+      "url": "https://www.cdc.gov/cysticercosis/hcp/clinical-care/index.html"
+    }
+  },
+  {
+    "id": "s2neuro-0617",
+    "category": "Rapid source vignettes",
+    "q": "Which latent virus, immune setting and MRI pattern define rapid-source PML?",
+    "a": "JC polyomavirus reactivation in severe immunosuppression, such as HIV with CD4 about 47 /uL, with progressive neurologic decline and multifocal T2 hyperintense white-matter lesions. The source rejects newly acquired infection as the mechanism.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0618",
+    "category": "Rapid source vignettes",
+    "q": "Which positional examination, canal mechanism and treatment identify rapid-source BPPV?",
+    "a": "Triggered vertigo/rotatory nystagmus with Dix-Hallpike, often posterior-canal otoconia, treated with an Epley repositioning maneuver. Vomiting is not required.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0619",
+    "category": "Rapid source vignettes",
+    "q": "What middle-ear lesion does the rapid source call cholesteatoma?",
+    "a": "A nonmalignant keratinizing squamous epithelial proliferation/collection in the middle ear, not a cholesterol tumor.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0620",
+    "category": "Rapid source vignettes",
+    "q": "Which common-cause and mechanical hypothesis does the source give for carotid plaques?",
+    "a": "It ranks hypertension first and describes repeated systolic stress causing endothelial injury/atherosclerosis. This is an attributed source risk-factor explanation, not a verified single-cause rule.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 66,
+      "url": "/mehlman/hy-neuro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2neuro-0621",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source use middle age, hypertension and focal ischemia to choose a vascular test?",
+    "a": "In a person in their50s/60s with TIA, stroke or retinal-artery occlusion, it favors carotid-duplex ultrasound to seek symptomatic carotid plaque. Real acute stroke/TIA evaluation is broader and must not be replaced by this age/BP shortcut.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 67,
+      "url": "/mehlman/hy-neuro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2neuro-0622",
+    "category": "Rapid source vignettes",
+    "q": "How does the rapid source investigate an older normotensive patient with stroke/TIA or retinal-artery occlusion?",
+    "a": "ECG for AF, then ambulatory/Holter monitoring if a brief ECG is normal. Paroxysmal AF may be missed on a single tracing, but age/normal BP does not prove a cardioembolic cause.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 67,
+      "url": "/mehlman/hy-neuro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2neuro-0623",
+    "category": "Rapid source vignettes",
+    "q": "Which AF prevalence and age inference does the source state?",
+    "a": "It says 8% over 80 have AF and therefore AF is less likely at 58. That exact prevalence is an unverified source statistic, not a current age-stratified estimate or a way to exclude AF.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 67,
+      "url": "/mehlman/hy-neuro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2neuro-0624",
+    "category": "Rapid source vignettes",
+    "q": "When does a bruit override the rapid source BP shortcut for carotid imaging?",
+    "a": "An explicit carotid bruit with a focal ischemic presentation still favors carotid duplex in its example, even with normal BP. A bruit alone is not the same as a prior ipsilateral ischemic symptom.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 67,
+      "url": "/mehlman/hy-neuro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2neuro-0625",
+    "category": "Rapid source vignettes",
+    "q": "What does symptomatic carotid disease mean in the source, and which surgical cutoffs does it print?",
+    "a": "Prior stroke, TIA or retinal-artery occlusion, not just a bruit. It prints surgery above 70% if symptomatic or above 80% if asymptomatic, with medical therapy below. Those are source thresholds, not a universal contemporary referral rule.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 67,
+      "url": "/mehlman/hy-neuro.pdf#page=67"
+    },
+    "sourcePages": [
+      67,
+      68
+    ],
+    "guideline": {
+      "text": "CREST-2, published 2026, studied asymptomatic 70%+ stenosis with intensive medical management. Stenting reduced the composite outcome versus medical management in that parallel trial; endarterectomy did not show a statistically significant advantage in its parallel trial. This is trial evidence, not a universal stent recommendation or a fixed asymptomatic 80% surgery mandate; specialist selection and procedural risk matter.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41269206/"
+    }
+  },
+  {
+    "id": "s2neuro-0626",
+    "category": "Rapid source vignettes",
+    "q": "Which medication combinations and severe-versus-low-stenosis examples does the source use for carotid disease?",
+    "a": "It lists statin plus clopidogrel OR aspirin/dipyridamole for symptomatic disease;90% stenosis favors endarterectomy and 50% medical therapy in its examples. An asymptomatic person with 10%/30% already taking aspirin/statin stays on treatment in its vignette. Symptomatic50% is not universally a no-surgery category.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    },
+    "guideline": {
+      "text": "The retrieved ESO guideline recommends endarterectomy for symptomatic 70-99% and suggests it for selected symptomatic 50-69% stenosis, depending on clinical/procedural factors. Thus the source 50 %=medical-only shortcut is too broad. These are 2021 guideline recommendations, separate from newer asymptomatic trial evidence.",
+      "url": "https://journals.sagepub.com/doi/10.1177/23969873211012121"
+    }
+  },
+  {
+    "id": "s2neuro-0627",
+    "category": "Rapid source vignettes",
+    "q": "Which movement disorder and immune target follow rheumatic fever in the rapid source?",
+    "a": "Sydenham chorea, with autoimmune basal-ganglia involvement.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2neuro-0628",
+    "category": "Rapid source vignettes",
+    "q": "What visual-test shortcut does the source use to diagnose conversion disorder in claimed monocular blindness?",
+    "a": "It treats absent relative afferent pupillary defect as proof of functional/conversion symptoms. A normal pupillary response alone is not enough to diagnose functional neurologic disorder or exclude other visual pathology.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    },
+    "guideline": {
+      "text": "NINDS describes diagnosis using history, examination and positive signs such as Hoover sign or tremor entrainment, with evaluation for other conditions. Apparent indifference is not a stand-alone diagnostic test, and FND can coexist with other disorders.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/functional-neurologic-disorder"
+    }
+  },
+  {
+    "id": "s2neuro-0629",
+    "category": "Rapid source vignettes",
+    "q": "What hoarseness/stressor vignette does the source call conversion disorder?",
+    "a": "A 38-year-old with hoarseness and stress. Stress and unexplained hoarseness alone do not establish a functional diagnosis; appropriate voice/neurologic evaluation remains necessary.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    },
+    "guideline": {
+      "text": "NINDS describes diagnosis using history, examination and positive signs such as Hoover sign or tremor entrainment, with evaluation for other conditions. Apparent indifference is not a stand-alone diagnostic test, and FND can coexist with other disorders.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/functional-neurologic-disorder"
+    }
+  },
+  {
+    "id": "s2neuro-0630",
+    "category": "Rapid source vignettes",
+    "q": "Which source spine diagnoses explain standing/walking pain and arm radiculopathy?",
+    "a": "Lumbar spinal stenosis for prolonged-standing/walking symptoms, and cervical-disc disease for an arm radiculopathy in its shorthand.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2neuro-0631",
+    "category": "Rapid source vignettes",
+    "q": "Which instability and imaging concerns does the source give for RA with bilateral arm symptoms or before surgery?",
+    "a": "Atlantoaxial subluxation/cervical cord risk; MRI for neurologic symptoms and selected cervical CT or flexion-extension radiographs before surgery in its examples. Imaging/positioning should be individualized when instability is suspected.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2neuro-0632",
+    "category": "Rapid source vignettes",
+    "q": "Which mixed motor-sign pattern and sensory absolute identify rapid-source ALS?",
+    "a": "Combined UMN and LMN findings, often without sensory loss; it insists there are NO sensory findings and may use motor neuron as the answer. That absolute must not replace evaluation for coexisting sensory involvement or mimics.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    },
+    "guideline": {
+      "text": "A 2023 systematic review documents sensory neuropathy/signs in some ALS patients and says sensory alterations should not be an absolute exclusion criterion. This is secondary evidence, not a change to the need to evaluate alternative or coexisting causes; the typical pattern remains predominantly motor.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10632209/"
+    }
+  },
+  {
+    "id": "s2neuro-0633",
+    "category": "Rapid source vignettes",
+    "q": "Which age/exposure/mechanism pair does the rapid source give for infant versus older-child botulism?",
+    "a": "Honey in an infant supplies spores, while compromised canned food can supply preformed toxin to an older child with cranial neuropathy, constipation and hypotonia. Its infant is described as one year old, but the standard honey-avoidance boundary concerns under 12 months; the source age is not a safe-exposure rule.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2neuro-0634",
+    "category": "Rapid source vignettes",
+    "q": "Which therapy does the rapid source choose for the older-child botulism vignette?",
+    "a": "Botulinum antitoxin, with urgent respiratory/supportive assessment. The source food history is an exposure clue, not reason to delay treatment for laboratory confirmation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 68,
+      "url": "/mehlman/hy-neuro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2neuro-0635",
+    "category": "Rapid source vignettes",
+    "q": "Which fluctuating hearing pattern, family history and mechanism identify rapid-source Meniere disease?",
+    "a": "Fluctuating tinnitus/hearing loss with difficulty hearing conversation, often low-frequency sensorineural loss, attributed to endolymphatic-fluid dysfunction. It lists antihistamines and diuretics as possible treatments, not a cure or a complete diagnostic definition.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0636",
+    "category": "Rapid source vignettes",
+    "q": "Which auditory findings separate the rapid source vestibular-neuritis and labyrinthitis entries?",
+    "a": "It calls postviral vertigo with tinnitus but no hearing loss neuritis, while adding hearing loss favors labyrinthitis; it notes an answer-choice case without neuritis offered. These source lists are not a guarantee of spontaneous resolution or proof that every tinnitus case is neuritis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0637",
+    "category": "Rapid source vignettes",
+    "q": "Which ear diagnosis does the source choose for fever and a displaced pinna, and what incorrect synonym does it attach?",
+    "a": "Mastoiditis, but it parenthetically calls this malignant otitis externa. They are not interchangeable diseases.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    },
+    "guideline": {
+      "text": "Merck describes mastoiditis as infection of mastoid air cells, usually a complication of acute OTITIS MEDIA. It is not a synonym for malignant/necrotizing external otitis. The source child with a displaced pinna belongs to the mastoiditis discussion, not a merged disease label.",
+      "url": "https://www.merckmanuals.com/professional/ear-nose-and-throat-disorders/middle-ear-and-tympanic-membrane-disorders/mastoiditis"
+    }
+  },
+  {
+    "id": "s2neuro-0638",
+    "category": "Rapid source vignettes",
+    "q": "Which imaging and complication does the rapid source associate with mastoiditis?",
+    "a": "Temporal-bone CT or MRI rather than a plain x-ray, seeking a complicated fluid collection and preventing intracranial spread/abscess. Antibiotics and selected drainage depend on findings.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0639",
+    "category": "Rapid source vignettes",
+    "q": "Which drug toxicity does new vertigo during endocarditis treatment suggest in the rapid source?",
+    "a": "Aminoglycoside ototoxicity can affect hearing/balance, with tinnitus, vertigo or sensorineural loss. The source empiric gentamicin-plus-vancomycin/ampicillin-sulbactam list is not a universal regimen.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    },
+    "guideline": {
+      "text": "Merck emphasizes blood cultures and organism/susceptibility-directed therapy. A typical US empiric example is vancomycin plus ceftriaxone; prosthetic-valve, healthcare and critical-illness risks alter coverage. Aminoglycosides have selected synergistic roles, not a blanket indication in every empiric regimen.",
+      "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/endocarditis/infective-endocarditis"
+    }
+  },
+  {
+    "id": "s2neuro-0640",
+    "category": "Rapid source vignettes",
+    "q": "What infectious mechanism and immediate drug class does the source favor for fever and stroke-like findings during endocarditis?",
+    "a": "Septic embolization, potentially evolving to brain abscess; IV antibiotics are its answer. Neurologic imaging, organism/source control and contraindication assessment still matter.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0641",
+    "category": "Rapid source vignettes",
+    "q": "Which limb/face and language findings does the source pair with dominant MCA stroke?",
+    "a": "Contralateral face/limb motor or sensory deficits and possible Broca or Wernicke aphasia, depending on location.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0642",
+    "category": "Rapid source vignettes",
+    "q": "Which motor/sensory versus visual patterns distinguish source ACA and PCA stroke?",
+    "a": "ACA: contralateral leg-predominant deficit. PCA: contralateral homonymous hemianopia, sometimes with macular sparing.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0643",
+    "category": "Rapid source vignettes",
+    "q": "Which fluency, comprehension, repetition and site identify rapid-source Broca aphasia?",
+    "a": "Nonfluent/telegraphic speech with relatively preserved comprehension but impaired repetition, often frustrating to the patient; posterior inferior/lateral frontal language cortex.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0644",
+    "category": "Rapid source vignettes",
+    "q": "Which fluency, comprehension, repetition and site identify rapid-source Wernicke aphasia?",
+    "a": "Fluent but nonsensical speech with poor comprehension and impaired repetition; posterior superior temporal language cortex in its localization.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 69,
+      "url": "/mehlman/hy-neuro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2neuro-0645",
+    "category": "Rapid source vignettes",
+    "q": "Which repetition findings distinguish conduction, global and transcortical aphasias in the rapid source?",
+    "a": "Conduction: disproportionately impaired repetition/arcuate-fasciculus pathway. Global: severe fluency/comprehension impairment. Transcortical motor, sensory or mixed resemble Broca, Wernicke or global patterns respectively but preserve repetition.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0646",
+    "category": "Rapid source vignettes",
+    "q": "Which four deficits and region identify rapid-source Gerstmann syndrome?",
+    "a": "Acalculia, left-right disorientation, finger agnosia and agraphia, with dominant angular-gyrus/inferior-parietal dysfunction in its parietotemporal shorthand.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0647",
+    "category": "Rapid source vignettes",
+    "q": "Which crossed sensory, bulbar and sympathetic findings identify rapid-source lateral medullary stroke?",
+    "a": "Ipsilateral facial and contralateral body pain/temperature loss with dysphagia and Horner syndrome, classically vertebral/PICA-territory lateral medulla.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0648",
+    "category": "Rapid source vignettes",
+    "q": "Which facial sign identifies rapid-source lateral pontine/AICA syndrome?",
+    "a": "Ipsilateral LMN facial weakness, along with other location-dependent lateral pontine findings.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0649",
+    "category": "Rapid source vignettes",
+    "q": "Which tongue, motor, proprioceptive and arterial pattern identifies rapid-source medial medullary syndrome?",
+    "a": "Ipsilateral tongue weakness/deviation with contralateral weakness and vibration/proprioception loss; paramedian anterior-spinal/vertebral territory in its source description.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0650",
+    "category": "Rapid source vignettes",
+    "q": "Which mechanism and localization explain source pure-motor versus pure-sensory lacunes?",
+    "a": "Hypertensive small-vessel lipohyalinosis; posterior internal-capsule motor pathways can produce a pure-motor contralateral deficit, while thalamic lesions can produce pure-sensory loss.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0651",
+    "category": "Rapid source vignettes",
+    "q": "Which artery and electrolyte-treatment error can each produce source locked-in syndrome?",
+    "a": "Basilar/ventral pontine infarction, or osmotic demyelination after excessively rapid correction of chronic hyponatremia. These are different mechanisms of severe pontine injury.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0652",
+    "category": "Rapid source vignettes",
+    "q": "What opposite sodium-correction hazard does the source give for hypernatremia?",
+    "a": "Overrapid lowering can cause cerebral edema, particularly with established/chronic hypernatremia; safe correction depends on duration and clinical context.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0653",
+    "category": "Rapid source vignettes",
+    "q": "Which delayed pain syndrome and deceleration injury diagnosis close the source page 70 vignettes?",
+    "a": "Contralateral central/thalamic pain months after stroke; diffuse axonal injury after acceleration-deceleration trauma with coma or prolonged impaired consciousness. The source says stroke resolves, not that the tissue injury vanishes.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 70,
+      "url": "/mehlman/hy-neuro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2neuro-0654",
+    "category": "Rapid source vignettes",
+    "q": "What follow-up, duration and epidemiologic claims does the source give for a 7-year-old with five months of isolated facial tics?",
+    "a": "Observation with review in 3 months/provisional tic disorder. It says one in five children have some tic, most often ages 7-12, and most last less than a year; the exact broad frequency/progression claims remain attributed rather than a personal prognosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 71,
+      "url": "/mehlman/hy-neuro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2neuro-0655",
+    "category": "Rapid source vignettes",
+    "q": "Which infant triad, age and treatment options does the source give for spasms and chaotic high-amplitude EEG?",
+    "a": "West/infantile-spasms syndrome: spasms, hypsarrhythmia and developmental regression, often 3-12 months. Unlike its earlier ACTH-only list, this page names ACTH, prednisolone or vigabatrin.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 71,
+      "url": "/mehlman/hy-neuro.pdf#page=71"
+    },
+    "guideline": {
+      "text": "NINDS lists hormone treatment such as ACTH or prednisolone, or vigabatrin, as first-line approaches. Choice depends on the child and cause, and these treatments have important risks requiring pediatric-neurology care.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2neuro-0656",
+    "category": "Rapid source vignettes",
+    "q": "Which diagnostic proportion, Down-syndrome frequency and ACTH mechanisms does the source state for infantile spasms?",
+    "a": "It says two of the triad establish the international diagnosis, quotes 1-5% of children with Down syndrome, and proposes ACTH via cortisol release plus direct melanocortin effects. These exact diagnostic/frequency/mechanism assertions are source-specific, not independently confirmed here.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 71,
+      "url": "/mehlman/hy-neuro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2neuro-0657",
+    "category": "Rapid source vignettes",
+    "q": "Which age, jerks, family history, progression and treatment identify rapid-source JME?",
+    "a": "A 13-year-old with months of sleep-transition jerks then a tonic-clonic event and family history, with onset often 10-16 but possible in adults. It gives an unclear inheritance pattern and valproate; childbearing/reproductive risks influence real medication choice.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 71,
+      "url": "/mehlman/hy-neuro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2neuro-0658",
+    "category": "Rapid source vignettes",
+    "q": "Which regression, seizure burden and prognosis percentages does the source give for Lennox-Gastaut?",
+    "a": "A 4-year-old with near-daily, often sleep-related refractory seizures, less eye contact and mouthing objects. It quotes 5% childhood mortality and 80-90% seizures persisting into adulthood; those are unverified source prognosis estimates rather than individualized predictions.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 71,
+      "url": "/mehlman/hy-neuro.pdf#page=71"
     }
   }
 ];
