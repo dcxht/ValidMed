@@ -87,7 +87,7 @@ function shuffle(arr) {
 // on every load.
 const QUESTION_BY_ID = (() => {
   const m = {};
-  Object.values(BANKS).forEach((b) => (b.questions || []).forEach((q) => { m[q.id] = q; }));
+  Object.values(BANKS).forEach((b) => (b.allQuestions || b.questions || []).forEach((q) => { m[q.id] = q; }));
   return m;
 })();
 
@@ -174,7 +174,7 @@ function collectFlagged() {
   if (flags.size === 0) return [];
   const out = [];
   for (const key of Object.keys(BANKS)) {
-    for (const q of BANKS[key].questions) {
+    for (const q of BANKS[key].allQuestions || BANKS[key].questions) {
       if (flags.has(q.id)) out.push(q);
     }
   }

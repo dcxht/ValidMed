@@ -1,0 +1,37 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const text = fs.readFileSync(new URL('../src/data/step2/familyMedicine.js', import.meta.url), 'utf8');
+const allQuestions = JSON.parse(text.split('export default ')[1].replace(/;\s*$/, ''));
+const questions = allQuestions.filter(q => !q.duplicateOf);
+const BANKS = { s2fm: { questions, allQuestions } };
+const storage = new Map();
+const context = vm.createContext({ BANKS, key: x => x, localStorage: { getItem: k => storage.get(k) ?? null, setItem: (k,v) => storage.set(k,v) } });
+const component = fs.readFileSync(new URL('../src/components/Questions.jsx', import.meta.url), 'utf8');
+vm.runInContext(component.slice(component.indexOf('function storageKey('), component.indexOf('export default function Questions()')), context);
+const retired = allQuestions.filter(q => q.duplicateOf);
+assert.equal(retired.length, 17);
+assert.equal(questions.length, 3071);
+assert.equal(new Set(allQuestions.map(q => q.id)).size, allQuestions.length);
+for (const q of retired) {
+  assert(questions.some(c => c.id === q.duplicateOf));
+  assert(!questions.some(c => c.id === q.id));
+  assert.equal(vm.runInContext(`hydrateQ({id:${JSON.stringify(q.id)},q:'outdated'}).q`,context),q.q);
+}
+const oldQueue = [retired[0],questions[2],retired[1]];
+const saved = {queue:oldQueue,current:2,score:{correct:1,wrong:1},results:{0:'correct',1:'wrong'},missed:[retired[0]],category:'All'};
+storage.set('validmed_step2_q_s2fm',JSON.stringify(saved));
+const loaded = context.loadState('s2fm');
+assert.deepEqual(JSON.parse(JSON.stringify(loaded.queue.slice(0,3))),oldQueue);
+assert.equal(loaded.current,2);
+assert.deepEqual(JSON.parse(JSON.stringify(loaded.score)),saved.score);
+assert.deepEqual(JSON.parse(JSON.stringify(loaded.results)),saved.results);
+assert.equal(loaded.missed[0].id,retired[0].id);
+assert.equal(loaded.queue.filter(q=>q.duplicateOf).length,2);
+assert.equal(context.collectMissed()[0].id,retired[0].id);
+storage.set('validmed_step2_flags',JSON.stringify([retired[0].id,questions[0].id]));
+assert.deepEqual(Array.from(context.collectFlagged(),q=>q.id).sort(),[retired[0].id,questions[0].id].sort());
+const storedBefore = storage.get('validmed_step2_q_s2fm');
+context.loadState('s2fm');
+assert.equal(storage.get('validmed_step2_q_s2fm'),storedBefore,'loading must not mutate persistent progress');
+console.log(`PASS: ${questions.length} active cards; ${retired.length} retired records retained; old session order/current/marks/score/missed/flags/storage preserved.`);

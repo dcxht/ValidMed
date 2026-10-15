@@ -1,0 +1,107 @@
+{
+  "reason": "Exact or near-identical source concept repeated across conversion passes. Full retired records retained for saved sessions, missed cards, flags and history. New sessions omit them; no local storage migration or deletion.",
+  "duplicates": [
+    {
+      "retired": "s2fm-1473",
+      "active": "s2fm-0149",
+      "retiredPage": 46,
+      "activePage": 46
+    },
+    {
+      "retired": "s2fm-2005",
+      "active": "s2fm-0649",
+      "retiredPage": 178,
+      "activePage": 178
+    },
+    {
+      "retired": "s2fm-2064",
+      "active": "s2fm-0716",
+      "retiredPage": 197,
+      "activePage": 197
+    },
+    {
+      "retired": "s2fm-2180",
+      "active": "s2fm-0871",
+      "retiredPage": 239,
+      "activePage": 239
+    },
+    {
+      "retired": "s2fm-2217",
+      "active": "s2fm-0968",
+      "retiredPage": 255,
+      "activePage": 255
+    },
+    {
+      "retired": "s2fm-2266",
+      "active": "s2fm-1045",
+      "retiredPage": 281,
+      "activePage": 281
+    },
+    {
+      "retired": "s2fm-2270",
+      "active": "s2fm-1049",
+      "retiredPage": 282,
+      "activePage": 282
+    },
+    {
+      "retired": "s2fm-2328",
+      "active": "s2fm-1117",
+      "retiredPage": 315,
+      "activePage": 315
+    },
+    {
+      "retired": "s2fm-2540",
+      "active": "s2fm-2313",
+      "retiredPage": 307,
+      "activePage": 307
+    },
+    {
+      "retired": "s2fm-2552",
+      "active": "s2fm-2332",
+      "retiredPage": 317,
+      "activePage": 317
+    },
+    {
+      "retired": "s2fm-1315",
+      "active": "s2fm-0484",
+      "retiredPage": 25,
+      "activePage": 146
+    },
+    {
+      "retired": "s2fm-1118",
+      "active": "s2fm-0519",
+      "retiredPage": 315,
+      "activePage": 155
+    },
+    {
+      "retired": "s2fm-1036",
+      "active": "s2fm-0486",
+      "retiredPage": 277,
+      "activePage": 146
+    },
+    {
+      "retired": "s2fm-1015",
+      "active": "s2fm-0260",
+      "retiredPage": 268,
+      "activePage": 75
+    },
+    {
+      "retired": "s2fm-1089",
+      "active": "s2fm-0574",
+      "retiredPage": 304,
+      "activePage": 161
+    },
+    {
+      "retired": "s2fm-2513",
+      "active": "s2fm-1338",
+      "retiredPage": 281,
+      "activePage": 7
+    },
+    {
+      "retired": "s2fm-1099",
+      "active": "s2fm-0244",
+      "retiredPage": 307,
+      "activePage": 70
+    }
+  ]
+}

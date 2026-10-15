@@ -1651,12 +1651,15 @@ export default [
     "id": "s2fm-0149",
     "category": "Respiratory drugs",
     "q": "How do montelukast and zileuton differ in their leukotriene targets?",
-    "a": "Montelukast blocks leukotriene receptors; zileuton inhibits lipoxygenase and therefore leukotriene synthesis.",
+    "a": "Montelukast and zafirlukast block leukotriene receptors; zileuton inhibits lipoxygenase and therefore leukotriene synthesis.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 46,
       "url": "/mehlman/hy-family-medicine.pdf#page=46"
-    }
+    },
+    "sourcePages": [
+      46
+    ]
   },
   {
     "id": "s2fm-0150",
@@ -2705,7 +2708,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 70,
       "url": "/mehlman/hy-family-medicine.pdf#page=70"
-    }
+    },
+    "sourcePages": [
+      70,
+      307
+    ]
   },
   {
     "id": "s2fm-0245",
@@ -2881,7 +2888,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 75,
       "url": "/mehlman/hy-family-medicine.pdf#page=75"
-    }
+    },
+    "sourcePages": [
+      75,
+      268
+    ]
   },
   {
     "id": "s2fm-0261",
@@ -5507,7 +5518,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "sourcePages": [
+      25,
+      146
+    ]
   },
   {
     "id": "s2fm-0485",
@@ -5529,7 +5544,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "sourcePages": [
+      146,
+      277
+    ]
   },
   {
     "id": "s2fm-0487",
@@ -5896,7 +5915,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 155,
       "url": "/mehlman/hy-family-medicine.pdf#page=155"
-    }
+    },
+    "sourcePages": [
+      155,
+      315
+    ]
   },
   {
     "id": "s2fm-0520",
@@ -6589,7 +6612,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 161,
       "url": "/mehlman/hy-family-medicine.pdf#page=161"
-    }
+    },
+    "sourcePages": [
+      161,
+      304
+    ]
   },
   {
     "id": "s2fm-0575",
@@ -7421,12 +7448,15 @@ export default [
     "id": "s2fm-0649",
     "category": "Psychiatry",
     "q": "How does binge-eating disorder differ from bulimia?",
-    "a": "Recurrent binges are not regularly followed by compensatory behaviors such as purging.",
+    "a": "Recurrent binges are not regularly followed by compensatory behaviors such as purging. Frequency, distress and other diagnostic criteria still need assessment.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 178,
       "url": "/mehlman/hy-family-medicine.pdf#page=178"
-    }
+    },
+    "sourcePages": [
+      178
+    ]
   },
   {
     "id": "s2fm-0650",
@@ -8179,7 +8209,10 @@ export default [
     "guideline": {
       "text": "AHA 2021: ocular massage is unproven and potentially harmful. CRAO requires rapid emergency stroke assessment rather than delay for this maneuver.",
       "url": "https://professional.heart.org/en/science-news/management-of-central-retinal-artery-occlusion/top-things-to-know"
-    }
+    },
+    "sourcePages": [
+      197
+    ]
   },
   {
     "id": "s2fm-0717",
@@ -9915,12 +9948,15 @@ export default [
     "id": "s2fm-0871",
     "category": "Endocrine",
     "q": "Which antibodies and tissue infiltrate does the source associate with Hashimoto thyroiditis?",
-    "a": "Anti-thyroid peroxidase (anti-microsomal) and anti-thyroglobulin antibodies, with lymphocytic infiltration.",
+    "a": "Anti-thyroid peroxidase (anti-microsomal) and anti-thyroglobulin antibodies, with lymphocytic infiltration. The source also notes clustering with other autoimmune conditions.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 239,
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
-    }
+    },
+    "sourcePages": [
+      239
+    ]
   },
   {
     "id": "s2fm-0872",
@@ -10995,7 +11031,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 255,
       "url": "/mehlman/hy-family-medicine.pdf#page=255"
-    }
+    },
+    "sourcePages": [
+      255
+    ]
   },
   {
     "id": "s2fm-0969",
@@ -11532,7 +11571,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 268,
       "url": "/mehlman/hy-family-medicine.pdf#page=268"
-    }
+    },
+    "duplicateOf": "s2fm-0260"
   },
   {
     "id": "s2fm-1016",
@@ -11763,7 +11803,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 277,
       "url": "/mehlman/hy-family-medicine.pdf#page=277"
-    }
+    },
+    "duplicateOf": "s2fm-0486"
   },
   {
     "id": "s2fm-1037",
@@ -11864,9 +11905,12 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=281"
     },
     "guideline": {
-      "text": "Final recommendation18 May2021; applies to asymptomatic average-risk adults, not symptomatic evaluation or inherited high-risk syndromes.",
+      "text": "USPSTF final, May 18, 2021; applies to asymptomatic average-risk adults, not symptomatic evaluation or inherited high-risk syndromes. Colonoscopy every 10 years is one option, not the only accepted method.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
-    }
+    },
+    "sourcePages": [
+      281
+    ]
   },
   {
     "id": "s2fm-1046",
@@ -11909,12 +11953,15 @@ export default [
     "id": "s2fm-1049",
     "category": "Pulmonology",
     "q": "How can sarcoidosis produce hypercalcemia with suppressed PTH?",
-    "a": "Activated granuloma macrophages increase 1-alpha-hydroxylase activity and active vitaminD production, increasing intestinal calcium absorption.",
+    "a": "Activated granuloma macrophages increase 1-alpha-hydroxylase activity and active vitamin D production, increasing intestinal calcium absorption; rising calcium suppresses native PTH.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 282,
       "url": "/mehlman/hy-family-medicine.pdf#page=282"
-    }
+    },
+    "sourcePages": [
+      282
+    ]
   },
   {
     "id": "s2fm-1050",
@@ -12354,7 +12401,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 304,
       "url": "/mehlman/hy-family-medicine.pdf#page=304"
-    }
+    },
+    "duplicateOf": "s2fm-0574"
   },
   {
     "id": "s2fm-1090",
@@ -12464,7 +12512,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 307,
       "url": "/mehlman/hy-family-medicine.pdf#page=307"
-    }
+    },
+    "duplicateOf": "s2fm-0244"
   },
   {
     "id": "s2fm-1100",
@@ -12662,7 +12711,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 315,
       "url": "/mehlman/hy-family-medicine.pdf#page=315"
-    }
+    },
+    "sourcePages": [
+      315
+    ]
   },
   {
     "id": "s2fm-1118",
@@ -12673,7 +12725,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 315,
       "url": "/mehlman/hy-family-medicine.pdf#page=315"
-    }
+    },
+    "duplicateOf": "s2fm-0519"
   },
   {
     "id": "s2fm-1119",
@@ -15130,7 +15183,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 25,
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
-    }
+    },
+    "duplicateOf": "s2fm-0484"
   },
   {
     "id": "s2fm-1316",
@@ -15395,7 +15449,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 7,
       "url": "/mehlman/hy-family-medicine.pdf#page=7"
-    }
+    },
+    "sourcePages": [
+      7,
+      281
+    ]
   },
   {
     "id": "s2fm-1339",
@@ -16980,7 +17038,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 46,
       "url": "/mehlman/hy-family-medicine.pdf#page=46"
-    }
+    },
+    "duplicateOf": "s2fm-0149"
   },
   {
     "id": "s2fm-1474",
@@ -23128,7 +23187,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 178,
       "url": "/mehlman/hy-family-medicine.pdf#page=178"
-    }
+    },
+    "duplicateOf": "s2fm-0649"
   },
   {
     "id": "s2fm-2006",
@@ -23845,7 +23905,8 @@ export default [
     "guideline": {
       "text": "AHA 2021 scientific statement: CRAO is an acute ischemic-stroke emergency needing rapid emergency evaluation. Ocular massage and similar conservative measures lack proven efficacy and may harm; they must not delay stroke care.",
       "url": "https://professional.heart.org/en/science-news/management-of-central-retinal-artery-occlusion/top-things-to-know"
-    }
+    },
+    "duplicateOf": "s2fm-0716"
   },
   {
     "id": "s2fm-2065",
@@ -25209,7 +25270,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 239,
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
-    }
+    },
+    "duplicateOf": "s2fm-0871"
   },
   {
     "id": "s2fm-2181",
@@ -25648,7 +25710,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 255,
       "url": "/mehlman/hy-family-medicine.pdf#page=255"
-    }
+    },
+    "duplicateOf": "s2fm-0968"
   },
   {
     "id": "s2fm-2218",
@@ -26231,7 +26294,8 @@ export default [
     "guideline": {
       "text": "USPSTF 2021 final. Colonoscopy every 10 years is one option; it is not the only accepted screening method. Familial syndromes/high-risk histories need separate pathways.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
-    }
+    },
+    "duplicateOf": "s2fm-1045"
   },
   {
     "id": "s2fm-2267",
@@ -26275,7 +26339,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 282,
       "url": "/mehlman/hy-family-medicine.pdf#page=282"
-    }
+    },
+    "duplicateOf": "s2fm-1049"
   },
   {
     "id": "s2fm-2271",
@@ -26783,12 +26848,15 @@ export default [
     "id": "s2fm-2313",
     "category": "Rapid-review source details",
     "q": "Why can anticholinergic medicines worsen kidney function in a susceptible older man?",
-    "a": "Drug-related urinary retention can worsen outlet obstruction/postrenal injury; the source flags TCAs, older antihistamines and some antipsychotics.",
+    "a": "Drug-related urinary retention can worsen outlet obstruction/postrenal injury, as with amitriptyline and BPH. The source flags TCAs, older antihistamines and some antipsychotics.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 307,
       "url": "/mehlman/hy-family-medicine.pdf#page=307"
-    }
+    },
+    "sourcePages": [
+      307
+    ]
   },
   {
     "id": "s2fm-2314",
@@ -26957,7 +27025,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 315,
       "url": "/mehlman/hy-family-medicine.pdf#page=315"
-    }
+    },
+    "duplicateOf": "s2fm-1117"
   },
   {
     "id": "s2fm-2329",
@@ -26996,12 +27065,15 @@ export default [
     "id": "s2fm-2332",
     "category": "Rapid-review source details",
     "q": "What source antibody target distinguishes fatigable myasthenia from Lambert-Eaton?",
-    "a": "Postsynaptic nicotinic acetylcholine receptor versus presynaptic voltage-gated calcium channel in classic antibody-positive forms; thymoma and small-cell associations differ.",
+    "a": "Postsynaptic nicotinic acetylcholine receptor versus presynaptic voltage-gated calcium channel in classic antibody-positive forms; thymoma and small-cell associations differ. Not every case is positive for these particular antibodies.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 317,
       "url": "/mehlman/hy-family-medicine.pdf#page=317"
-    }
+    },
+    "sourcePages": [
+      317
+    ]
   },
   {
     "id": "s2fm-2333",
@@ -29608,7 +29680,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 281,
       "url": "/mehlman/hy-family-medicine.pdf#page=281"
-    }
+    },
+    "duplicateOf": "s2fm-1338"
   },
   {
     "id": "s2fm-2514",
@@ -29925,7 +29998,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 307,
       "url": "/mehlman/hy-family-medicine.pdf#page=307"
-    }
+    },
+    "duplicateOf": "s2fm-2313"
   },
   {
     "id": "s2fm-2541",
@@ -30057,7 +30131,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 317,
       "url": "/mehlman/hy-family-medicine.pdf#page=317"
-    }
+    },
+    "duplicateOf": "s2fm-2332"
   },
   {
     "id": "s2fm-2553",
