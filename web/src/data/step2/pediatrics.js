@@ -20641,5 +20641,440 @@ export default [
       "text": "PCDS says treatment is not necessary and most milia disappear spontaneously. DermNet also says treatment is unnecessary unless the lesions concern the patient.",
       "url": "https://www.pcds.org.uk/clinical-guidance/milia"
     }
+  },
+  {
+    "id": "s2peds-1449",
+    "category": "Pediatric neurology",
+    "q": "How does p103 describe fever-precipitated seizures in young children?",
+    "a": "Fever can precipitate an idiopathic seizure in 2-4% of children ages 6 months to 5 years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck says febrile seizures occur in about 2-5% of children 6 months to 5 years, require fever without CNS infection and no prior afebrile seizure.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/febrile-seizures"
+    }
+  },
+  {
+    "id": "s2peds-1450",
+    "category": "Pediatric neurology",
+    "q": "What epilepsy-risk comparison does p103 give after febrile seizure?",
+    "a": "The source says the risk of progression to epilepsy is about two-fold compared with the general population.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck reports a 2-6% risk of an afebrile seizure disorder after simple febrile seizure versus about 2% baseline in children, with higher risk when additional risk factors are present.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/febrile-seizures"
+    }
+  },
+  {
+    "id": "s2peds-1451",
+    "category": "Pediatric neurology",
+    "q": "What treatment does p103 give for febrile seizure?",
+    "a": "The source says treatment is with a benzodiazepine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck says seizures under 5 minutes get supportive care. A short-acting benzodiazepine is used for seizures lasting at least 5 minutes; maintenance antiseizure medication is usually not indicated.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/febrile-seizures"
+    }
+  },
+  {
+    "id": "s2peds-1452",
+    "category": "Pediatric neurology",
+    "q": "Which febrile-seizure features does p103 say more significantly raise epilepsy risk?",
+    "a": "Seizures lasting longer than 10 minutes, recurrence within 24 hours, or focal neurologic signs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck defines complex febrile seizures as lasting at least 15 minutes, having focal features or onset, or recurring within 24 hours. Complex features, family history and developmental delay raise later epilepsy risk.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/febrile-seizures"
+    }
+  },
+  {
+    "id": "s2peds-1453",
+    "category": "Pediatric neurology",
+    "q": "What absence-seizure vignette does p103 give?",
+    "a": "A kid staring off into space in class for about 30 seconds, sometimes with rapid blinking.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The childhood-absence-epilepsy review describes brief staring spells many times daily, often with rhythmic blinking or automatisms, lasting seconds with immediate return to baseline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394437/"
+    }
+  },
+  {
+    "id": "s2peds-1454",
+    "category": "Pediatric neurology",
+    "q": "How does p103 classify the staring episode in absence seizure?",
+    "a": "The source says it is considered loss of consciousness.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Current reviews describe sudden impaired awareness and unresponsiveness during the brief event, followed by immediate recovery. They do not frame it as a prolonged coma-like loss of consciousness.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394437/"
+    }
+  },
+  {
+    "id": "s2peds-1455",
+    "category": "Pediatric neurology",
+    "q": "What EEG finding does p103 give for absence seizure?",
+    "a": "Symmetric 3-Hz spike-and-wave discharges.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The CAE review confirms generalized, bilateral, symmetric and synchronous 3-Hz spike-wave discharges with abrupt onset and offset.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394437/"
+    }
+  },
+  {
+    "id": "s2peds-1456",
+    "category": "Pediatric neurology",
+    "q": "What treatment and mechanism does p103 give for absence seizure?",
+    "a": "Ethosuximide, a thalamic calcium-channel blocker.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The CAE review says ethosuximide is the treatment of choice when absence seizures are the only seizure type and explains its main action as blockade of T-type calcium currents in thalamic neurons.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394437/"
+    }
+  },
+  {
+    "id": "s2peds-1457",
+    "category": "Pediatric neurology",
+    "q": "How does p103 name and classify West syndrome?",
+    "a": "It calls West syndrome infantile spasms and says it is X-linked recessive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck defines West syndrome as infantile spasms with hypsarrhythmia within infantile epileptic spasms syndrome. It lists many structural, metabolic, genetic, infectious and unknown causes; it is not generally an X-linked recessive syndrome.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2peds-1458",
+    "category": "Pediatric neurology",
+    "q": "What clinical event characterizes West syndrome on p103?",
+    "a": "An epilepsy syndrome of infants characterized by spasms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck describes sudden flexion of the arms and trunk with leg extension, usually in children under 1 year and often in clusters after waking.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2peds-1459",
+    "category": "Pediatric neurology",
+    "q": "What EEG pattern does p103 give for West syndrome?",
+    "a": "Hypsarrhythmia, a chaotic EEG pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck confirms hypsarrhythmia as the typical interictal pattern: chaotic high-voltage polymorphic delta and theta waves with multifocal spike discharges.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2peds-1460",
+    "category": "Pediatric neurology",
+    "q": "What developmental consequence does p103 give for West syndrome?",
+    "a": "The source says it leads to intellectual disability.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck says developmental regression can occur after spasms begin and long-term studies commonly report intellectual disability, although outcomes vary by cause and treatment response.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2peds-1461",
+    "category": "Pediatric neurology",
+    "q": "What treatment and proposed mechanism does p103 give for West syndrome?",
+    "a": "ACTH, with the source suggesting increased endogenous cortisol may mitigate progression.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck confirms ACTH as standard therapy, along with oral corticosteroids or vigabatrin, especially vigabatrin for tuberous sclerosis. It does not validate the source's endogenous-cortisol mechanism.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/neurologic-disorders-in-children/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2peds-1462",
+    "category": "Pediatric neurology",
+    "q": "How does p103 describe Lennox-Gastaut syndrome?",
+    "a": "Severe childhood-onset epilepsy with near-daily seizures and cognitive decline.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "StatPearls defines LGS as a lifelong severe developmental and epileptic encephalopathy with treatment-resistant multiple seizure types and intellectual disability, usually starting in early childhood.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532965/"
+    }
+  },
+  {
+    "id": "s2peds-1463",
+    "category": "Pediatric neurology",
+    "q": "What regression sign does p103 attach to Lennox-Gastaut syndrome?",
+    "a": "Hyperoralism, with babies putting things in their mouths, is presented as a sign of cognitive regression.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The current LGS review confirms developmental plateau or regression, but does not independently verify hyperoralism as a standard diagnostic sign. Treat that detail as source-specific.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532965/"
+    }
+  },
+  {
+    "id": "s2peds-1464",
+    "category": "Pediatric neurology",
+    "q": "What mortality figure does p103 give for Lennox-Gastaut syndrome?",
+    "a": "A poor prognosis with 5% mortality in childhood.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "StatPearls reports 3-7% mortality within the first 8-10 years after diagnosis and an overall mortality rate around 5%.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532965/"
+    }
+  },
+  {
+    "id": "s2peds-1465",
+    "category": "Pediatric neurology",
+    "q": "What adult outcome does p103 give for Lennox-Gastaut seizures?",
+    "a": "80-90% persistence of seizures into adulthood.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The LGS Foundation says more than 85% of children with LGS continue to have seizures into adulthood, and StatPearls describes LGS as lifelong treatment-resistant epilepsy.",
+      "url": "https://www.lgsfoundation.org/about-lgs-2/what-is-lennox-gastaut-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-1466",
+    "category": "Pediatric neurology",
+    "q": "What does the p103 abbreviation JME mean?",
+    "a": "Juvenile myoclonic epilepsy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The Sydney Children's Hospitals Network handbook describes JME as an adolescent-onset generalized epilepsy syndrome with myoclonic jerks, generalized tonic-clonic seizures and sometimes absences.",
+      "url": "https://www.schn.health.nsw.gov.au/epilepsy-clinician-handbook-pennsw/epilepsy-syndromes/juvenile-myoclonic-epilepsy-jme-epilepsy"
+    }
+  },
+  {
+    "id": "s2peds-1467",
+    "category": "Pediatric neurology",
+    "q": "What seizure progression does p103 give for JME?",
+    "a": "Myoclonic jerks, usually hypnagogic and/or hypnopompic, progress to tonic-clonic seizures after several months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The JME handbook confirms myoclonic jerks on awakening as the defining feature and says generalized tonic-clonic seizures occur in about 90%, sometimes after a series of jerks.",
+      "url": "https://www.schn.health.nsw.gov.au/epilepsy-clinician-handbook-pennsw/epilepsy-syndromes/juvenile-myoclonic-epilepsy-jme-epilepsy"
+    }
+  },
+  {
+    "id": "s2peds-1468",
+    "category": "Pediatric neurology",
+    "q": "What onset age does p103 give for JME?",
+    "a": "Usually 10-16 years old, although it can also start in adulthood.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The JME handbook reports onset from 8-25 years, with about 75% beginning at age 12-18.",
+      "url": "https://www.schn.health.nsw.gov.au/epilepsy-clinician-handbook-pennsw/epilepsy-syndromes/juvenile-myoclonic-epilepsy-jme-epilepsy"
+    }
+  },
+  {
+    "id": "s2peds-1469",
+    "category": "Pediatric neurology",
+    "q": "What treatment does p103 give for JME?",
+    "a": "Valproic acid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "The JME handbook says valproate is effective and commonly used for males, but serious teratogenicity concerns apply in women of childbearing potential, for whom levetiracetam is commonly first choice.",
+      "url": "https://www.schn.health.nsw.gov.au/epilepsy-clinician-handbook-pennsw/epilepsy-syndromes/juvenile-myoclonic-epilepsy-jme-epilepsy"
+    }
+  },
+  {
+    "id": "s2peds-1470",
+    "category": "Pediatric neurology",
+    "q": "How does p103 explain an Adams-Stokes attack?",
+    "a": "An idiopathic arrhythmia disorder in pediatrics causes transient hypoxia to the brainstem, producing seizure-like episodes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Cleveland Clinic defines Stokes-Adams syndrome as sudden brief loss of consciousness from an abnormal heart rhythm and a large drop in cardiac output, reducing oxygen-carrying blood flow to the brain. It is cardiac syncope, not a primary pediatric brainstem disorder.",
+      "url": "https://my.clevelandclinic.org/health/diseases/24644-stokes-adams-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1471",
+    "category": "Pediatric neurology",
+    "q": "What EEG distinction does p103 give for Adams-Stokes attack?",
+    "a": "The EEG does not show seizure activity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "A pediatric nonepileptic-events review says cardiac/syncopal events can mimic seizures, while EEG shows cerebral hypoperfusion changes without paroxysmal epileptiform discharges.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9647822/"
+    }
+  },
+  {
+    "id": "s2peds-1472",
+    "category": "Pediatric neurology",
+    "q": "What vignette answer does p103 give for arrhythmia plus seizure-like twitching?",
+    "a": "A miscellaneous arrhythmia description plus twitching that sounds like seizure points to Adams-Stokes attack.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Cleveland Clinic notes that Stokes-Adams attacks can be mistaken for epilepsy because of seizure-like symptoms, so the arrhythmia clue should prompt a cardiac-syncope diagnosis rather than epilepsy.",
+      "url": "https://my.clevelandclinic.org/health/diseases/24644-stokes-adams-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1473",
+    "category": "Pediatric neurology",
+    "q": "What breath-holding-spell vignette does p103 give?",
+    "a": "A 3-year-old has a tantrum, falls to the floor and appears blue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck says cyanotic breath-holding spells are involuntary, often occur with a temper tantrum or upsetting event and can progress through cyanosis to brief unconsciousness.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/behavioral-problems-in-children/breath-holding-spells"
+    }
+  },
+  {
+    "id": "s2peds-1474",
+    "category": "Pediatric neurology",
+    "q": "What triggers breath-holding spells in p103?",
+    "a": "The child involuntarily stops breathing after a trigger such as being upset, frightened or experiencing pain.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck says almost all spells follow a physical trigger such as trauma or a mental trigger such as anger or panic, and both cyanotic and pallid forms are involuntary.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/behavioral-problems-in-children/breath-holding-spells"
+    }
+  },
+  {
+    "id": "s2peds-1475",
+    "category": "Pediatric neurology",
+    "q": "What sequence and exam importance does p103 give for cyanotic breath-holding spell?",
+    "a": "The child cries or becomes upset, exhales forcefully, stops breathing and develops cyanosis, sometimes followed by brief loss of consciousness and jerking. The source says this shows up on pediatrics forms and must be known.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "Merck confirms crying, exhalation, absent inhalation, cyanosis and brief unconsciousness, with rare brief self-limited seizure-like activity and rapid recovery. It says these spells are not a risk factor for true epilepsy.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/behavioral-problems-in-children/breath-holding-spells"
+    }
+  },
+  {
+    "id": "s2peds-1476",
+    "category": "Pediatric neurology",
+    "q": "How does p103 define and explain cerebral palsy?",
+    "a": "Motor dysfunction and intellectual disability of varying severity, which the source posits may be due to intrapartum conditions such as hypoxia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "CDC defines CP as disorders of movement, balance and posture from abnormal development or damage to the developing brain. Intellectual disability can accompany it but is not required, and birth-process oxygen lack explains only a small number of cases.",
+      "url": "https://www.cdc.gov/cerebral-palsy/about/"
+    }
+  },
+  {
+    "id": "s2peds-1477",
+    "category": "Pediatric neurology",
+    "q": "What cerebral-palsy presentation does p103 say USMLE will show?",
+    "a": "Spastic paraparesis in a child with scissoring of the legs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 103,
+      "url": "/mehlman/hy-pediatrics.pdf#page=103"
+    },
+    "guideline": {
+      "text": "CDC describes spastic diplegia or diparesis as leg-predominant stiffness with tight hip and leg muscles that pull together, turn inward and cross at the knees, called scissoring. Merck also lists scissoring gait in spastic CP.",
+      "url": "https://www.cdc.gov/cerebral-palsy/about/"
+    }
   }
 ];
