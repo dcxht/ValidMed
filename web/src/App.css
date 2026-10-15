@@ -1383,3 +1383,33 @@ body {
 .q-card .q-answer-block {
   flex: 0 0 auto;
 }
+
+/* Study-level switch and rotation PDF shelf. Existing quiz storage is unchanged. */
+.step-selector { display:flex; gap:4px; padding:4px; margin-top:12px; max-width:240px; border:1px solid var(--border); border-radius:12px; background:#f3f4f6; }
+.step-selector button { flex:1; min-height:40px; border:0; border-radius:8px; background:transparent; color:var(--text-secondary); font:inherit; font-size:14px; font-weight:600; cursor:pointer; }
+.step-selector button[aria-pressed="true"] { background:var(--accent); color:white; }
+.step-selector button:focus-visible, .rotation-library a:focus-visible { outline:3px solid #5eead4; outline-offset:3px; }
+.rotation-library { max-width:600px; margin:0 auto; padding-bottom:24px; }
+.rotation-intro { margin-bottom:18px; }
+.rotation-intro h2 { font-size:22px; letter-spacing:-.4px; }
+.rotation-intro p { font-size:14px; color:var(--text-secondary); margin-top:4px; }
+.rotation-intro .rotation-note { font-size:12px; margin-top:10px; line-height:1.5; }
+.rotation-list { border:1px solid var(--border); border-radius:16px; background:var(--surface); overflow:hidden; }
+.rotation-resource { display:flex; gap:12px; padding:16px; border-bottom:1px solid var(--border); }
+.rotation-resource:last-child { border-bottom:0; }
+.rotation-number { display:flex; align-items:center; justify-content:center; flex:0 0 28px; height:28px; border-radius:50%; background:var(--accent-light); color:var(--accent); font-size:12px; font-weight:700; }
+.rotation-detail { min-width:0; flex:1; }
+.rotation-detail h3 { font-size:16px; }
+.rotation-detail p { font-size:12px; color:var(--text-secondary); margin-top:2px; }
+.rotation-author { display:block; font-size:11px; margin-top:1px; }
+.rotation-links { display:flex; align-items:center; gap:16px; margin-top:10px; flex-wrap:wrap; }
+.rotation-open { display:inline-flex; align-items:center; gap:12px; padding:9px 13px; min-height:44px; border-radius:9px; background:var(--accent); color:white; text-decoration:none; font-size:13px; font-weight:600; }
+.rotation-source { color:var(--accent); font-size:12px; min-height:44px; display:flex; align-items:center; }
+.rotation-extra { display:inline-block; color:var(--accent); font-size:12px; padding-top:10px; padding-bottom:4px; }
+.rotation-footer { padding:16px 4px 0; color:var(--text-secondary); font-size:12px; line-height:1.6; }
+.rotation-footer p + p { margin-top:6px; }
+.rotation-footer a { color:var(--accent); }
+/* The selector needs room without pushing a Step 1 card behind its controls. */
+.q-card { max-height:calc(100dvh - 275px); }
+.rotation-intro .rotation-status { color:var(--accent); background:var(--accent-light); padding:10px 12px; border-radius:9px; margin-top:12px; }
+@media (max-width:600px) { .app-header .step-selector { margin-top:10px; } }

@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
 import { Analytics } from "@vercel/analytics/react";
-import Questions from "./components/Questions";
-import HistoryPage from "./components/HistoryPage";
-import { PERSON } from "./names";
+
+
+import RotationPdfs from "./components/RotationPdfs";
+
 import "./App.css";
 
 export default function App() {
@@ -13,7 +14,8 @@ export default function App() {
     return () => window.removeEventListener("hashchange", onChange);
   }, []);
 
-  const showHistory = PERSON && hash === "#history";
+  const step = hash === "#step2" ? "step2" : "shelves";
+  const selectStep = (nextStep) => { window.location.hash = nextStep; };
 
   return (
     <div className="app">
@@ -21,13 +23,17 @@ export default function App() {
         <div className="header-row">
           <div>
             <h1 className="header-title-link" style={{ cursor: "pointer" }}>ValidMed</h1>
-            <p className="tagline">Step 1 QBank</p>
+            <p className="tagline">Shelf exams + Step 2 CK</p>
           </div>
         </div>
+        <nav className="step-selector" aria-label="Study view">
+          <button type="button" aria-pressed={step === "shelves"} onClick={() => selectStep("shelves")}>Shelf exams</button>
+          <button type="button" aria-pressed={step === "step2"} onClick={() => selectStep("step2")}>Step 2 CK</button>
+        </nav>
       </header>
 
       <main className="app-main">
-        {showHistory ? <HistoryPage /> : <Questions />}
+        <RotationPdfs view={step} />
       </main>
 
       <Analytics />
