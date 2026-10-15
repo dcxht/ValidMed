@@ -11343,6 +11343,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 246,
       "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "StatPearls June 2024 gives the clinical triad as hypercalcemia, metabolic alkalosis and acute kidney injury. Assess renal injury; the source stone association is not the defining third component.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557500/"
     }
   },
   {
@@ -17463,6 +17467,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 31,
       "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "NCI PDQ distinguishes several nasopharyngeal-carcinoma subtypes, including nonkeratinizing tumors associated with EBV, and notes that tumors of other histologies also occur in the nasopharynx. Do not read the source shorthand as saying every nasopharyngeal tumor is the same squamous subtype.",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/nasopharyngeal-treatment-pdq"
     }
   },
   {
@@ -18101,6 +18109,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 43,
       "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck Manual lists Peptostreptococcus, Fusobacterium, Prevotella and Bacteroides among common anaerobic lung-abscess pathogens, often with aerobic organisms. Its list does not corroborate the PDF Mobiluncus example; that specific source claim remains unverified.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/lung-abscess/lung-abscess"
     }
   },
   {
@@ -18496,7 +18508,11 @@ export default [
     "sourcePages": [
       49,
       316
-    ]
+    ],
+    "guideline": {
+      "text": "Merck Manual 2025 lists gold, penicillamine and NSAIDs among medication-associated causes of membranous nephropathy, plus infections, autoimmune disease and cancer. This source does not corroborate the PDF dapsone/sulfonamide examples; those remain unverified rather than silently replaced.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/membranous-nephropathy"
+    }
   },
   {
     "id": "s2fm-1487",
@@ -18651,6 +18667,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 51,
       "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    },
+    "guideline": {
+      "text": "StatPearls June 2024 defines milk-alkali syndrome by hypercalcemia, metabolic alkalosis and acute kidney injury, typically from excess calcium with absorbable alkali. The PDF calcium-stone association should not replace renal injury as the third component of the clinical triad.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557500/"
     }
   },
   {
@@ -19287,6 +19307,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 63,
       "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "Merck Manual August 2025 describes UGT1A1 mutations and reduced glucuronyl-transferase activity in Gilbert syndrome. Uptake can also contribute to its complex pathogenesis, but the named enzyme carries out bilirubin glucuronidation rather than directly transporting bilirubin into the liver.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/inborn-metabolic-disorders-causing-hyperbilirubinemia"
     }
   },
   {
@@ -19499,7 +19523,11 @@ export default [
     "sourcePages": [
       66,
       314
-    ]
+    ],
+    "guideline": {
+      "text": "CDC July 2024 describes a small intussusception risk usually within a week of the first or second rotavirus-vaccine dose, about 1 in 20,000 to 1 in 100,000 U.S. infants. This is a specific, uncommon association, not a blanket statement that vaccines cause intussusception.",
+      "url": "https://cdc.gov/rotavirus/vaccines/index.html"
+    }
   },
   {
     "id": "s2fm-1572",
