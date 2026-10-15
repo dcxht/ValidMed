@@ -21076,5 +21076,365 @@ export default [
       "text": "CDC describes spastic diplegia or diparesis as leg-predominant stiffness with tight hip and leg muscles that pull together, turn inward and cross at the knees, called scissoring. Merck also lists scissoring gait in spastic CP.",
       "url": "https://www.cdc.gov/cerebral-palsy/about/"
     }
+  },
+  {
+    "id": "s2peds-1478",
+    "category": "Pediatric neurology",
+    "q": "How does p103/p104 describe CSF movement in communicating hydrocephalus?",
+    "a": "CSF can flow freely between the ventricles and the subarachnoid space around the brain and spinal cord.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "StatPearls distinguishes communicating hydrocephalus from obstructive disease by impaired CSF absorption rather than an intraventricular flow block.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560875/"
+    }
+  },
+  {
+    "id": "s2peds-1479",
+    "category": "Pediatric neurology",
+    "q": "What meningitis-associated hydrocephalus mechanism does p104 give?",
+    "a": "Failure of CSF reabsorption by the arachnoid granulations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck says communicating hydrocephalus results from impaired CSF resorption, usually from meningeal inflammation after infection or blood in the subarachnoid space.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-neurologic-anomalies/congenital-hydrocephalus"
+    }
+  },
+  {
+    "id": "s2peds-1480",
+    "category": "Pediatric neurology",
+    "q": "What alternate name and mechanism does p104 give for non-communicating hydrocephalus?",
+    "a": "It is obstructive hydrocephalus: a blockage prevents CSF flow between the ventricles or into the subarachnoid space.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck defines obstructive hydrocephalus as obstruction of CSF flow and communicating hydrocephalus as impaired CSF resorption.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-neurologic-anomalies/congenital-hydrocephalus"
+    }
+  },
+  {
+    "id": "s2peds-1481",
+    "category": "Pediatric neurology",
+    "q": "What spinal-cord-tumor NBME answer does p104 teach for hydrocephalus?",
+    "a": "The source says a spinal cord tumor in the setting of hydrocephalus points to obstructive hydrocephalus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Rare intraspinal tumors can cause hydrocephalus through subarachnoid dissemination, elevated protein or reduced craniospinal compliance, so do not generalize the source's anecdote as a universal obstructive mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16504416/"
+    }
+  },
+  {
+    "id": "s2peds-1482",
+    "category": "Pediatric neurology",
+    "q": "How does p104 define aqueductal stenosis and rank it in congenital hydrocephalus?",
+    "a": "Narrowing of the cerebral aqueduct of Sylvius between the third and fourth ventricles, which the source calls the most common cause of congenital hydrocephalus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck says obstruction most often occurs at the aqueduct and lists aqueductal stenosis among the most common causes of obstructive congenital hydrocephalus, along with Dandy-Walker and Chiari II malformations.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-neurologic-anomalies/congenital-hydrocephalus"
+    }
+  },
+  {
+    "id": "s2peds-1483",
+    "category": "Pediatric neurology",
+    "q": "What colloid-cyst description does p104 give?",
+    "a": "A benign fluid-filled growth at the anterior roof of the third ventricle, just posterior to the foramen of Monro.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "StatPearls describes a benign colloid cyst at the rostral third ventricle at or near the foramen of Monro, where it can obstruct CSF outflow and cause hydrocephalus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470314/"
+    }
+  },
+  {
+    "id": "s2peds-1484",
+    "category": "Pediatric neurology",
+    "q": "What NPH mnemonic and symptom triad does p104 give?",
+    "a": "Normal pressure hydrocephalus is 'wet, wobbly, wacky' with possible Parkinsonism: urinary incontinence, ataxia and cognitive dysfunction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "StatPearls confirms the Hakim-Adams triad of progressive gait impairment, cognitive deficits and urinary urgency or incontinence in iNPH, usually in older adults. Parkinsonian features can occur but require differentiation from other neurologic disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542247/"
+    }
+  },
+  {
+    "id": "s2peds-1485",
+    "category": "Pediatric neurology",
+    "q": "What anatomic mechanism does p104 give for NPH gait dysfunction?",
+    "a": "Impingement on the corona radiata, the white-matter bundle connecting the motor cortex superiorly to the internal capsule inferiorly.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "StatPearls explains NPH gait abnormalities through stretching and compression of corticospinal fibers in the corona radiata supplying the lower extremities near the lateral ventricles.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542247/"
+    }
+  },
+  {
+    "id": "s2peds-1486",
+    "category": "Pediatric neurology",
+    "q": "What urinary-incontinence mechanism does p104 give for NPH?",
+    "a": "Failure to inhibit the voiding reflex.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "StatPearls says NPH bladder dysfunction begins with stretching of periventricular sacral corticospinal fibers, causing loss of supraspinal inhibition of detrusor contractions.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542247/"
+    }
+  },
+  {
+    "id": "s2peds-1487",
+    "category": "Pediatric neurology",
+    "q": "What most common congenital-hydrocephalus cause does p104 repeat?",
+    "a": "Aqueductal stenosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck identifies aqueductal stenosis as one of the most common obstructive congenital causes and notes the aqueduct is the most frequent obstruction site. It does not reduce the differential to this single cause.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-neurologic-anomalies/congenital-hydrocephalus"
+    }
+  },
+  {
+    "id": "s2peds-1488",
+    "category": "Pediatric neurology",
+    "q": "What congenital-toxoplasmosis triad does p104 say is most important on NBME?",
+    "a": "Hydrocephalus, chorioretinitis and intracranial calcifications.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck May 2026 confirms the classic congenital-toxoplasmosis triad of chorioretinitis, hydrocephalus and intracranial calcifications.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/infections-in-neonates/congenital-toxoplasmosis"
+    }
+  },
+  {
+    "id": "s2peds-1489",
+    "category": "Pediatric neurology",
+    "q": "How does p104 define hydrocephalus ex vacuo?",
+    "a": "The appearance of enlarged lateral ventricles on imaging without true hydrocephalus, caused by loss of surrounding brain matter.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "A neuroradiology review defines hydrocephalus ex vacuo as compensatory enlargement of CSF spaces caused by degenerative encephalic volume loss, not true CSF-dynamics hydrocephalus.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8328827/"
+    }
+  },
+  {
+    "id": "s2peds-1490",
+    "category": "Pediatric neurology",
+    "q": "Which diseases does p104 link with enlarged lateral ventricles on USMLE?",
+    "a": "Alzheimer disease and schizophrenia, where enlarged lateral ventricles can appear in question stems.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "The ex-vacuo evidence directly supports Alzheimer-related brain-volume loss. Schizophrenia can show ventricular enlargement, but it should not be taught as a standard ex-vacuo cause in the same way.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8328827/"
+    }
+  },
+  {
+    "id": "s2peds-1491",
+    "category": "Pediatric neurology",
+    "q": "What Bell's-palsy lesion does p104 describe?",
+    "a": "A lower-motor-neuron lesion of cranial nerve VII, the facial nerve.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck describes idiopathic facial nerve palsy as a sudden unilateral peripheral seventh-cranial-nerve palsy affecting the upper and lower face.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/facial-nerve-palsy"
+    }
+  },
+  {
+    "id": "s2peds-1492",
+    "category": "Pediatric neurology",
+    "q": "What facial deficit does p104 give for Bell's palsy?",
+    "a": "Paralysis of the ipsilateral facial muscles.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck confirms unilateral hemifacial paresis of the upper and lower face in peripheral facial-nerve palsy.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/facial-nerve-palsy"
+    }
+  },
+  {
+    "id": "s2peds-1493",
+    "category": "Pediatric neurology",
+    "q": "What Lyme/Bell's-palsy vignette and next step does p104 give?",
+    "a": "A target rash plus Bell's palsy is high yield for pediatric Lyme disease; if asked for the next best step, do Lyme serology.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "CDC says facial palsy can occur in neurologic Lyme disease and recommends two-step serologic testing for suspected neurologic Lyme. Merck specifically tests patients with endemic-area exposure.",
+      "url": "https://www.cdc.gov/lyme/hcp/clinical-care/neurologic-lyme-disease.html"
+    }
+  },
+  {
+    "id": "s2peds-1494",
+    "category": "Pediatric neurology",
+    "q": "When does p104 say no further Bell's-palsy studies are indicated?",
+    "a": "If Lyme serology is not listed or the patient does not live in an endemic area, the source says choose 'no further diagnostic studies indicated'; it gives Africa as its nonendemic example and calls Bell's palsy a clinical diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck says facial nerve palsy is diagnosed by history and examination, with Lyme testing when patients have been in endemic areas. Africa is not a typical Lyme-endemic example, so treat the source wording as exam shorthand rather than geography teaching.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/facial-nerve-palsy"
+    }
+  },
+  {
+    "id": "s2peds-1495",
+    "category": "Pediatric neurology",
+    "q": "Why does p104 say nerve conduction studies are the wrong Bell's-palsy answer?",
+    "a": "The source says Bell's palsy is a clinical diagnosis, so nerve conduction studies are wrong on NBME.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Merck agrees there is no specific diagnostic test for idiopathic facial nerve palsy, but says nerve conduction studies and EMG can help predict outcome. They are not simply always wrong.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/facial-nerve-palsy"
+    }
+  },
+  {
+    "id": "s2peds-1496",
+    "category": "Pediatric neurology",
+    "q": "What Bell's-palsy steroid regimen does p104 give?",
+    "a": "IV steroids followed by a 10-21-day taper of oral steroids to minimize the immune response.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "A 2025 pediatric facial-palsy pathway recommends oral prednisone or prednisolone 2 mg/kg/day for 5 days plus a 5-day taper, especially within 3 days. It does not support routine IV steroids.",
+      "url": "https://pathways.pemcincinnati.com/wp-content/uploads/2025/05/ED-Clincal-Pathways-Facial-Palsy-5.7.25.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1497",
+    "category": "Pediatric neurology",
+    "q": "What does p104 say PANDAS stands for?",
+    "a": "Pediatric Autoimmune Neuropsychiatric disorder Associated with Streptococci.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "The 2025 AAP PANS report uses PANDAS for pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections and treats it as a subset of PANS.",
+      "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070334/200384/Pediatric-Acute-Onset-Neuropsychiatric-Syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1498",
+    "category": "Pediatric neurology",
+    "q": "What rare post-streptococcal neuropsychiatric outcomes does p104 list for PANDAS?",
+    "a": "A tic disorder, OCD or ADHD in the weeks after Group A strep pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "The 2025 AAP report says PANDAS criteria require OCD and/or a tic disorder with abrupt onset and temporal GAS association. ADHD can accompany PANS but is not a cardinal PANDAS criterion, and the causal GAS-autoimmune relationship remains unproven.",
+      "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070334/200384/Pediatric-Acute-Onset-Neuropsychiatric-Syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1499",
+    "category": "Pediatric neurology",
+    "q": "What PANDAS vignette answer does p104 give for sore throat two weeks ago plus new tic, ADHD or OCD?",
+    "a": "The source says the likely diagnostic etiology answer is anti-streptolysin O titers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "The 2025 AAP report says anti-streptolysin O and anti-DNase B testing are not recommended to evaluate for GAS infection in PANS/PANDAS because sensitivity and specificity problems make titers hard to interpret. It supports strep testing only when the child otherwise meets pharyngitis testing criteria.",
+      "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070334/200384/Pediatric-Acute-Onset-Neuropsychiatric-Syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1500",
+    "category": "Pediatric neurology",
+    "q": "How does p104 define Sydenham chorea?",
+    "a": "An autoimmune movement disorder seen as part of rheumatic fever; chorea means fast, purposeless, jerky movements.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "CDC describes acute rheumatic fever as partly due to an autoimmune response to S. pyogenes and Sydenham chorea as its major central nervous system manifestation, with abrupt, purposeless, nonrhythmic involuntary movements.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/acute-rheumatic-fever.html"
+    }
+  },
+  {
+    "id": "s2peds-1501",
+    "category": "Pediatric neurology",
+    "q": "What movement-disorder cause does p104 expect in a rheumatic-fever vignette?",
+    "a": "Autoimmune. The source also points readers to its HY Cardio PDF for rheumatic heart disease details.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 104,
+      "url": "/mehlman/hy-pediatrics.pdf#page=104"
+    },
+    "guideline": {
+      "text": "The 2025 international Sydenham-chorea consensus recommends assessing chorea and hypotonia, screening for acute rheumatic fever features including carditis, treating with antibiotics at first presentation and using corticosteroids for moderate to severe disease.",
+      "url": "https://eprints.gla.ac.uk/372852/"
+    }
   }
 ];
