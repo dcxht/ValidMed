@@ -23429,7 +23429,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=150"
     },
     "guideline": {
-      "text": "NCBI-hosted StatPearls2023 describes infarction, demyelination and other causes of INO. This is a secondary clinical review, not an issuing-body guideline; INO does not establish MS alone.",
+      "text": "NCBI-hosted StatPearls 2023 describes infarction, demyelination and other causes of INO. This is a secondary clinical review, not an issuing-body guideline; INO does not establish MS alone.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK441970/"
     }
   },
@@ -27414,7 +27414,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=253"
     },
     "guideline": {
-      "text": "The2024 primary multi-society consensus recognizes euglycemic DKA, including association with SGLT2 therapy. Ketones/acidosis and the clinical setting matter, not glucose alone.",
+      "text": "The 2024 primary multi-society consensus recognizes euglycemic DKA, including association with SGLT2 therapy. Ketones/acidosis and the clinical setting matter, not glucose alone.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
     }
   },
@@ -38667,7 +38667,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=266"
     },
     "guideline": {
-      "text": "ADA Standards2026 uses person-centered treatment selection, including ASCVD, heart failure, CKD, weight goals, hypoglycemia risk and access. Cardiorenal-beneficial SGLT2 or GLP-1 therapy may be indicated irrespective of A1c; metformin is not a mandatory first step for every patient.",
+      "text": "ADA Standards 2026 uses person-centered treatment selection, including ASCVD, heart failure, CKD, weight goals, hypoglycemia risk and access. Cardiorenal-beneficial SGLT2 or GLP-1 therapy may be indicated irrespective of A1c; metformin is not a mandatory first step for every patient.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
     },
     "sourcePages": [
@@ -40145,7 +40145,11 @@ export default [
     "sourcePages": [
       168,
       191
-    ]
+    ],
+    "guideline": {
+      "text": "BNF/NICE distinguishes dopamine-antagonist phenothiazines such as prochlorperazine from promethazine. Its motion-sickness section says phenothiazines other than promethazine are ineffective for motion sickness, while prochlorperazine has other antiemetic/vertigo uses. Do not transfer every nausea indication or anticholinergic property to motion-sickness prevention.",
+      "url": "https://bnf.nice.org.uk/treatment-summaries/nausea-and-labyrinth-disorders/"
+    }
   },
   {
     "id": "s2fm-3165",
@@ -40286,7 +40290,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=172"
     },
     "guideline": {
-      "text": "DailyMed extended-release lithium label updatedNovember 2025 states lithium can precipitate serotonin syndrome, with greater risk alongside other serotonergic drugs orMAO inhibitors. It lists mental-status, autonomic, neuromuscular and gastrointestinal features. This directly supports the source association.",
+      "text": "DailyMed extended-release lithium label updated November 2025 states lithium can precipitate serotonin syndrome, with greater risk alongside other serotonergic drugs or MAO inhibitors. It lists mental-status, autonomic, neuromuscular and gastrointestinal features. This directly supports the source association.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d276da3c-9952-4674-a54d-b1258df71b8a"
     },
     "sourcePages": [
@@ -40447,6 +40451,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 181,
       "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "CDC defines provisional tic disorder as motor and/or vocal tics present for less than one year, with onset before 18 and relevant exclusions. A duration-based category is not a guarantee of resolution at one year or a verified numerical probability of progression. The source very-low-progression claim remains unverified here.",
+      "url": "https://www.cdc.gov/tourette-syndrome/diagnosis/index.html"
     }
   },
   {
