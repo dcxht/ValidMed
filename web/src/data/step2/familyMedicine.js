@@ -40204,7 +40204,11 @@ export default [
     "sourcePages": [
       170,
       235
-    ]
+    ],
+    "guideline": {
+      "text": "The current digoxin label lists visual disturbance and altered color vision, often yellow-green, among toxicity findings. This does not establish optic neuritis as the diagnosis behind every color or visual change. Suspected toxicity requires assessment of the exposure, symptoms, rhythm, renal function and electrolytes rather than relying on the source eye-disease label.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dfac7f13-28be-423d-9389-9089da29da17"
+    }
   },
   {
     "id": "s2fm-3171",
