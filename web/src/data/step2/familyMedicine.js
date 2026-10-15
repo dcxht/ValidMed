@@ -20904,5 +20904,546 @@ export default [
       "page": 130,
       "url": "/mehlman/hy-family-medicine.pdf#page=130"
     }
+  },
+  {
+    "id": "s2fm-1832",
+    "category": "Reproductive source details",
+    "q": "What implant duration does the PDF give for Nexplanon?",
+    "a": "Three years in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    },
+    "guideline": {
+      "text": "FDA 2026 labeling now indicates Nexplanon for pregnancy prevention up to 5 years, with removal by the end of year 5. Product-specific current labeling matters.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021529s028lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-1833",
+    "category": "Dermatology source details",
+    "q": "What teratogenic exposure does the source associate with aplasia cutis congenita?",
+    "a": "Methimazole; the source describes focal absent scalp skin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-family-medicine.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2fm-1834",
+    "category": "Dermatology source details",
+    "q": "What hereditary-angioedema drug does the PDF name?",
+    "a": "Danazol, with increased hepatic C1-inhibitor production as its source explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-family-medicine.pdf#page=131"
+    },
+    "guideline": {
+      "text": "WAO/EAACI 2021 update advises against danazol for on-demand treatment. Acute attacks use effective on-demand therapy such as IV C1 inhibitor, icatibant or ecallantide; progressive airway involvement is an emergency.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/"
+    }
+  },
+  {
+    "id": "s2fm-1835",
+    "category": "Dermatology source details",
+    "q": "Which source conditions are grouped as phakomatoses?",
+    "a": "NF1/NF2, von Hippel-Lindau, tuberous sclerosis and Sturge-Weber, a neurocutaneous grouping rather than one inheritance pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-1836",
+    "category": "Dermatology source details",
+    "q": "Which noncutaneous tumors does the source associate with NF1?",
+    "a": "Optic glioma and pheochromocytoma, alongside neurofibromas and characteristic pigment/freckling findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-1837",
+    "category": "Dermatology source details",
+    "q": "Which renal, cardiac and pulmonary lesions does the source associate with tuberous sclerosis?",
+    "a": "Renal angiomyolipoma, cardiac rhabdomyoma and lymphangioleiomyomatosis; it also names intracranial hamartomatous lesions and skin angiofibromas.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-1838",
+    "category": "Dermatology source details",
+    "q": "How does Sturge-Weber inheritance differ from source autosomal-dominant neurocutaneous syndromes?",
+    "a": "Sturge-Weber is a somatic mosaic condition, not ordinarily inherited, in the PDF discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-1839",
+    "category": "Dermatology source details",
+    "q": "What causes the seizures and eye complication in the source Sturge-Weber pattern?",
+    "a": "Leptomeningeal vascular malformation is linked with seizures; glaucoma is its associated eye disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-1840",
+    "category": "Dermatology source details",
+    "q": "What does polyostotic fibrous dysplasia mean in the McCune-Albright triad?",
+    "a": "Multiple bones affected by replacement with fibrous tissue, accompanying irregular café-au-lait pigment and endocrine hyperfunction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2fm-1841",
+    "category": "Dermatology source details",
+    "q": "What less common association does the source give for acanthosis nigricans beyond insulin resistance?",
+    "a": "An underlying visceral malignancy, uncommon relative to its metabolic association in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2fm-1842",
+    "category": "Dermatology source details",
+    "q": "Which BCC surface and border clues are emphasized besides location?",
+    "a": "Pearlescence/translucency, telangiectasia, rolled/heaped borders and possible ulceration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2fm-1843",
+    "category": "Dermatology source details",
+    "q": "What tissue-sparing procedure does the source name for skin cancer on the eyelid or nose?",
+    "a": "Mohs micrographic surgery, in appropriate diagnosis-specific settings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2fm-1844",
+    "category": "Dermatology source details",
+    "q": "What lesion change raises source concern for SCC developing in an actinic keratosis?",
+    "a": "New ulceration in a longstanding scaly sun-exposed lesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2fm-1845",
+    "category": "Dermatology source details",
+    "q": "What procedure does the source name for an actinic keratosis?",
+    "a": "Cryotherapy, in its usual localized lesion example; this is not a universal management plan for every field or lesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2fm-1846",
+    "category": "Dermatology source details",
+    "q": "How does the source describe the core of a keratoacanthoma?",
+    "a": "A hyperkeratotic central core in a dome-shaped lesion; it recommends excision because of the SCC overlap.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2fm-1847",
+    "category": "Dermatology source details",
+    "q": "Which melanoma prognostic measurement does the source prioritize?",
+    "a": "Tumor depth, requiring a biopsy that permits an adequate depth assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-family-medicine.pdf#page=135"
+    }
+  },
+  {
+    "id": "s2fm-1848",
+    "category": "Dermatology source details",
+    "q": "What universal facial-melanoma procedure does the PDF suggest?",
+    "a": "It says Mohs for facial lesions, in a simplified source rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-family-medicine.pdf#page=135"
+    },
+    "guideline": {
+      "text": "AAD guidance describes Mohs/staged excision particularly for melanoma in situ, lentigo maligna type, and tissue-sparing needs at constrained sites. It is not a blanket facial-melanoma instruction.",
+      "url": "https://www.aad.org/practicecenter/quality/clinical-guidelines/melanoma"
+    }
+  },
+  {
+    "id": "s2fm-1849",
+    "category": "Dermatology source details",
+    "q": "What anatomic sites define the source acral melanoma pattern?",
+    "a": "Palms, soles and possible subungual involvement; lack of routine sun exposure does not exclude melanoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-family-medicine.pdf#page=135"
+    }
+  },
+  {
+    "id": "s2fm-1850",
+    "category": "Dermatology source details",
+    "q": "What is the source sign of Leser-Trélat?",
+    "a": "Sudden eruptive seborrheic keratoses associated in the PDF with an underlying visceral malignancy; the association itself is not a diagnosis of cancer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2fm-1851",
+    "category": "Dermatology source details",
+    "q": "What benign congenital pigment finding does the source compare with an apparent bruise?",
+    "a": "Congenital dermal melanocytosis, described in the source using an older term. Distinguishing a documented birthmark from injury requires its history and examination.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2fm-1852",
+    "category": "Dermatology source details",
+    "q": "How does the source distinguish infantile from cherry hemangioma by course?",
+    "a": "The infantile lesion can grow then involute over years; cherry angiomas become more prevalent with age.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2fm-1853",
+    "category": "Dermatology source details",
+    "q": "What vascular tumor does the source call infantile hemangioma with thrombocytopenia?",
+    "a": "Kasabach-Merritt syndrome, its source shorthand.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "NCI describes Kasabach-Merritt syndrome with tufted angioma and kaposiform hemangioendothelioma, whose platelet trapping/destruction causes coagulopathy. This is distinct from an ordinary infantile hemangioma.",
+      "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/kasabach-merritt-syndrome"
+    }
+  },
+  {
+    "id": "s2fm-1854",
+    "category": "Dermatology source details",
+    "q": "When does the source suggest treatment of an otherwise benign preauricular pit?",
+    "a": "Recurrent infection prompts consideration of surgical management; an asymptomatic isolated pit needs no treatment in its example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    }
+  },
+  {
+    "id": "s2fm-1855",
+    "category": "Dermatology source details",
+    "q": "What dermal mechanism does the source use to explain cortisol-associated purple striae?",
+    "a": "Weakening of dermal collagen and capillary walls with visible vascular/microbleeding change.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-family-medicine.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2fm-1856",
+    "category": "Dermatology source details",
+    "q": "What recurrence caution accompanies the source keloid excision answer?",
+    "a": "Recurrence is common. The source describes disorganized excess dermal collagen rather than malignancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-family-medicine.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2fm-1857",
+    "category": "Dermatology source details",
+    "q": "What hair-growth mechanism underlies pseudofolliculitis barbae in the source?",
+    "a": "Curved/curly shaved hair re-enters skin, producing inflammatory razor bumps; letting the beard grow is its simple preventive answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2fm-1858",
+    "category": "Dermatology source details",
+    "q": "What anatomic cause does the PDF give for neonatal milia?",
+    "a": "It says clogged eccrine ducts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes trapped dead skin in small surface pockets. The PDF sweat-duct explanation is not the same mechanism; typical neonatal milia resolve without treatment.",
+      "url": "https://medlineplus.gov/ency/article/001367.htm"
+    }
+  },
+  {
+    "id": "s2fm-1859",
+    "category": "Dermatology source details",
+    "q": "What diagnostic study does the source name to evaluate symptomatic varicose-vein reflux?",
+    "a": "Duplex venous ultrasound, assessing venous disease/valvular insufficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-family-medicine.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2fm-1860",
+    "category": "Dermatology source details",
+    "q": "What all-patients treatment claim does the PDF give for superficial thrombophlebitis?",
+    "a": "It says give subcutaneous enoxaparin rather than compression for an active palpable cord.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "SVS/AVF/AVLS 2023: SVT treatment depends on clot length/location and junction proximity. Above-knee saphenous SVT >5 cm long and >3 cm from the SFJ receives 45-day fondaparinux, with rivaroxaban an alternative; do not apply a universal enoxaparin rule.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+    }
+  },
+  {
+    "id": "s2fm-1861",
+    "category": "Dermatology source details",
+    "q": "Which core behavior change does the source prioritize for Buerger disease?",
+    "a": "Smoking cessation, given its tobacco-associated distal ischemic vasculopathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2fm-1862",
+    "category": "Dermatology source details",
+    "q": "Why does loss of protective sensation promote a Charcot joint in the source?",
+    "a": "Repeated unperceived trauma can damage a neuropathic joint, with disorganized foot architecture; the source uses poorly controlled diabetes as its example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2fm-1863",
+    "category": "Dermatology source details",
+    "q": "How does cold exposure change cryoglobulin behavior in the source?",
+    "a": "Cryoglobulin-containing proteins/complexes precipitate in the cold; the source connects mixed cryoglobulinemia with hepatitis C and low C4.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-family-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2fm-1864",
+    "category": "Dermatology source details",
+    "q": "What is solar elastosis in the source actinic-purpura explanation?",
+    "a": "Chronic sun-related degenerative dermal change, associated with fragile skin/vessels and flat purpura on hands/forearms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-family-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2fm-1865",
+    "category": "Dermatology source details",
+    "q": "What obstructs follicles in the source keratosis-pilaris mechanism?",
+    "a": "Excess keratin, producing small rough follicular bumps; emollients are named for comfort.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-family-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2fm-1866",
+    "category": "Neurology source details",
+    "q": "What mechanism links atrial fibrillation with embolic stroke in the source?",
+    "a": "Atrial stasis promotes left-atrial thrombus formation and systemic embolization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-1867",
+    "category": "Neurology source details",
+    "q": "How does a nondominant MCA stroke differ from a dominant MCA stroke in the source?",
+    "a": "Nondominant hemisphere may cause hemispatial neglect; dominant hemisphere may cause aphasia. Both may affect contralateral face/arm motor-sensory function.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-1868",
+    "category": "Neurology source details",
+    "q": "What visual-recognition deficit can accompany a PCA infarct in the source?",
+    "a": "Prosopagnosia, difficulty recognizing faces, alongside its occipital visual-field pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-1869",
+    "category": "Neurology source details",
+    "q": "Which source artery supplies the medial-medullary syndrome pattern?",
+    "a": "Anterior spinal artery, with ipsilateral tongue weakness as the highlighted clue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-1870",
+    "category": "Neurology source details",
+    "q": "Which vessel does the source associate with a locked-in syndrome?",
+    "a": "Basilar artery occlusion affecting the ventral pons. Preserved awareness and some eye movement distinguish its source pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-1871",
+    "category": "Neurology source details",
+    "q": "Where are the source Broca and Wernicke language areas located?",
+    "a": "Broca: dominant frontal lobe. Wernicke: dominant temporal region; the PDF associates both with left-MCA territory.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-1872",
+    "category": "Neurology source details",
+    "q": "What is the source global-aphasia pattern?",
+    "a": "Both language production and comprehension impaired, with impaired repetition, after extensive dominant language-network injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-1873",
+    "category": "Neurology source details",
+    "q": "What white-matter connection does the PDF name in conduction aphasia?",
+    "a": "Arcuate fasciculus, with repetition disproportionately impaired in the source pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-1874",
+    "category": "Neurology source details",
+    "q": "What drug/exposure associations does the PDF give for pseudotumor cerebri?",
+    "a": "Obesity, isotretinoin, oral contraceptives and danazol are listed. These are source associations, not confirmation that each is equally causal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-1875",
+    "category": "Neurology source details",
+    "q": "How do the source lower-motor-neuron findings differ from upper-motor-neuron findings?",
+    "a": "LMN: hyporeflexia, flaccidity/hypotonia and fasciculations. UMN: hyperreflexia, spasticity, clonus and extensor plantar response.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-1876",
+    "category": "Neurology source details",
+    "q": "Where do pain-temperature fibers cross in the spinal-cord source diagram?",
+    "a": "Anterior white commissure; a central lesion can interrupt crossing fibers bilaterally at involved segments.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-1877",
+    "category": "Neurology source details",
+    "q": "What does a positive Romberg suggest in the source dorsal-column comparison?",
+    "a": "Impaired proprioceptive sensory input becomes more apparent with eyes closed. The PDF contrasts this with cerebellar ataxia; the test is not an absolute diagnosis by itself.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-1878",
+    "category": "Neurology source details",
+    "q": "How does transverse myelitis relate to Brown-Sequard syndrome in the source?",
+    "a": "Inflammation can produce varied cord deficits, sometimes a hemicord-like pattern; the source mentions viral and autoimmune contexts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
   }
 ];
