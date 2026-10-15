@@ -7709,5 +7709,492 @@ export default [
       "text": "CPS 2024 distinguishes FPIAP, FPE and FPIES and individualizes feeding. Breastfed infants with FPIAP are usually supported to continue breastfeeding with a supervised maternal elimination trial, rather than automatically switched to formula.",
       "url": "https://cps.ca/en/documents/position/cows-milk-protein-allergy"
     }
+  },
+  {
+    "id": "s2peds-0587",
+    "category": "Inflammatory bowel disease",
+    "q": "Which two diseases are included in the source IBD comparison?",
+    "a": "Ulcerative colitis and Crohn disease. The comparison uses IBD as their shared category, not as a synonym for irritable bowel syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2peds-0588",
+    "category": "Inflammatory bowel disease",
+    "q": "Can bloody, mucoid stools distinguish source ulcerative colitis from Crohn disease?",
+    "a": "No. Both can produce that pattern, particularly when the colon is inflamed. The source says both can present this way, not that every Crohn patient must bleed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes diarrhea and abdominal pain in Crohn disease; gross bleeding is not the dominant presentation in many patients. Distribution and objective evaluation matter.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0589",
+    "category": "Inflammatory bowel disease",
+    "q": "What does the source PAIR mnemonic collect, and does HLA-B27 diagnose every form of IBD?",
+    "a": "Psoriasis, ankylosing spondylitis, IBD and reactive arthritis. It collects a spondyloarthritis-associated pattern; HLA-B27 is not a required positive test for UC or Crohn disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The 2021 RMD Open review describes variable HLA-B27 positivity even in IBD-associated axial disease. HLA-B27 is a susceptibility association, not a stand-alone IBD diagnosis.",
+      "url": "https://rmdopen.bmj.com/content/7/1/e001558"
+    }
+  },
+  {
+    "id": "s2peds-0590",
+    "category": "Inflammatory bowel disease",
+    "q": "What association does the source suggest when psoriasis accompanies bloody stools?",
+    "a": "Consider inflammatory bowel disease. The pairing raises suspicion but does not establish IBD or exclude infection and other causes of bleeding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The extraintestinal-manifestations review describes psoriasis among associated skin conditions and recommends evaluation rather than diagnosing intestinal disease from a skin association alone.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127025/"
+    }
+  },
+  {
+    "id": "s2peds-0591",
+    "category": "Inflammatory bowel disease",
+    "q": "What does morning-worse low-back pain suggest in the source patient with known IBD?",
+    "a": "An inflammatory axial process such as ankylosing spondylitis or another IBD-associated axial spondyloarthritis. The source chooses ankylosing spondylitis as its exam answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The 2021 RMD Open review describes IBD-associated arthritis within the spondyloarthritis group; this symptom pattern is a clue, not a complete classification or imaging diagnosis.",
+      "url": "https://rmdopen.bmj.com/content/7/1/e001558"
+    }
+  },
+  {
+    "id": "s2peds-0592",
+    "category": "Inflammatory bowel disease",
+    "q": "What source autoimmune skin example lies outside the PAIR mnemonic?",
+    "a": "Vitiligo can coexist with UC or Crohn disease. The source uses it to show that autoimmune associations are not confined to HLA-B27-related conditions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2peds-0593",
+    "category": "Inflammatory bowel disease",
+    "q": "What ocular inflammation can occur with either source UC or Crohn disease?",
+    "a": "Anterior uveitis. It is not specific to IBD and should not be used alone to choose between UC and Crohn disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The extraintestinal-manifestations review describes eye pain, photophobia and blurred vision as urgent clues requiring prompt ophthalmic/slit-lamp evaluation to protect vision.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127025/"
+    }
+  },
+  {
+    "id": "s2peds-0594",
+    "category": "Inflammatory bowel disease",
+    "q": "How should the source UC-versus-Crohn colon-cancer shortcut be qualified?",
+    "a": "Both can increase colorectal-cancer risk when the colon is involved. The PDF chooses UC if forced because UC necessarily involves the colon, whereas Crohn disease can spare it. This is not a universal comparison between matched patients.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes risk according to disease duration, extent and other features. An individual risk estimate should not be based on the disease name alone.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/ulcerative-colitis"
+    }
+  },
+  {
+    "id": "s2peds-0595",
+    "category": "Inflammatory bowel disease",
+    "q": "Which source 5-ASA medicines are named for IBD, and are they ordinary pain-relief NSAIDs?",
+    "a": "Mesalamine and sulfasalazine. The PDF calls them 5-ASA NSAID compounds; they are IBD aminosalicylates, not a recommendation to use routine analgesic NSAIDs to treat intestinal inflammation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "ESPGHAN/ECCO 2025 recommends oral 5-ASA as first-line induction and maintenance for mild-to-moderate pediatric UC, with oral plus rectal treatment more effective than oral alone. This does not make 5-ASA first-line for all Crohn phenotypes.",
+      "url": "https://bspghan.org.uk/wp-content/uploads/2025/08/j-pediatr-gastroenterol-nutr-2025-wine-management-of-paediatric-ulcerative-colitis-part-1-ambulatory-care-an.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0596",
+    "category": "Inflammatory bowel disease",
+    "q": "What source first-treatment hierarchy is given for UC, and when does it apply?",
+    "a": "The PDF prefers mesalamine or sulfasalazine over steroids when listed. That can fit mild-to-moderate UC, but severity, disease extent and prior response determine the actual pathway.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "ESPGHAN/ECCO 2025 places oral 5-ASA first-line in mild-to-moderate UC and oral corticosteroids after appropriate oral/rectal 5-ASA failure; acute severe colitis has a separate inpatient pathway.",
+      "url": "https://bspghan.org.uk/wp-content/uploads/2025/08/j-pediatr-gastroenterol-nutr-2025-wine-management-of-paediatric-ulcerative-colitis-part-1-ambulatory-care-an.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0597",
+    "category": "Inflammatory bowel disease",
+    "q": "Should the source 5-ASA-before-steroids rule be applied to every child with Crohn disease?",
+    "a": "No. The PDF groups UC and Crohn together and gives a prednisone-answer anecdote when 5-ASA was absent, but that is not a current universal pediatric Crohn algorithm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The ECCO-ESPGHAN 2026 update favors exclusive enteral nutrition or Crohn disease exclusion diet with partial enteral nutrition for low-risk luminal induction, and first-line anti-TNF for high-risk disease. Steroids are an induction option when nutritional therapy is unsuitable or ineffective.",
+      "url": "https://academic.oup.com/ecco-jcc/article-pdf/20/8/jjag084/70717224/jjag084.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0598",
+    "category": "Inflammatory bowel disease",
+    "q": "Which source anti-TNF examples are appropriate intestinal-IBD examples, and which listed drug needs correction?",
+    "a": "Infliximab and adalimumab are appropriate examples. The PDF also lists etanercept, but it should not be taught as an effective intestinal Crohn treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The randomized 2001 etanercept trial found no benefit over placebo at the studied dose in active Crohn disease. This is direct evidence against treating all TNF blockers as interchangeable for intestinal IBD.",
+      "url": "https://europepmc.org/article/MED/11677200"
+    }
+  },
+  {
+    "id": "s2peds-0599",
+    "category": "Inflammatory bowel disease",
+    "q": "Must pediatric Crohn anti-TNF treatment always wait for failure of both 5-ASA and steroids, as the source sequence suggests?",
+    "a": "No. That is the PDF step-up framing, not a universal requirement. Risk-stratified treatment may start an effective biologic earlier.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "ECCO-ESPGHAN 2026 recommends first-line anti-TNF for patients at high risk of poor outcome, with drug monitoring; it explicitly favors individualized management over a fixed stepwise sequence.",
+      "url": "https://academic.oup.com/ecco-jcc/article-pdf/20/8/jjag084/70717224/jjag084.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0600",
+    "category": "Inflammatory bowel disease",
+    "q": "Which cytokine does the source select as anti-inflammatory in its IBD question?",
+    "a": "IL-10. The PDF groups IL-10 and TGF-beta as predominantly anti-inflammatory mediators. This is a mechanism-level source answer, not a recommendation to administer either cytokine as routine IBD therapy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2peds-0601",
+    "category": "Inflammatory bowel disease",
+    "q": "What distribution does the source rectum-ascending phrase describe in ulcerative colitis?",
+    "a": "Continuous colonic inflammation beginning in the rectum and extending proximally for a variable distance. It need not reach the ascending colon in every patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The 2021 GIPAD pathology review describes the classic continuous rectal-to-proximal pattern but notes exceptions, including pediatric rectal sparing, treated patchiness, a cecal patch and backwash ileitis. These do not automatically reclassify UC as Crohn disease.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8138698/"
+    }
+  },
+  {
+    "id": "s2peds-0602",
+    "category": "Inflammatory bowel disease",
+    "q": "What depth of bowel-wall inflammation does the source contrast between UC and Crohn disease?",
+    "a": "UC primarily involves mucosa and submucosa; Crohn disease is transmural. This explains why penetrating fistulas favor Crohn disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck April 2026 notes that severe UC can involve muscularis. The usual nontransmural distinction remains useful without making wall depth absolute in fulminant disease.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/ulcerative-colitis"
+    }
+  },
+  {
+    "id": "s2peds-0603",
+    "category": "Inflammatory bowel disease",
+    "q": "What diagnosis does the source favor for bowel-to-skin or bowel-to-organ fistulas?",
+    "a": "Crohn disease, because transmural inflammation can penetrate beyond the bowel wall. Perianal fistulas are a key example.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes internal and external fistulas, abscesses and strictures as Crohn complications. A fistula still requires assessment of its cause and anatomy, not the mnemonic alone.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0604",
+    "category": "Inflammatory bowel disease",
+    "q": "Which colonoscopic and microscopic terms does the source associate with UC?",
+    "a": "Pseudopolyps and crypt abscesses. Pseudopolyps are inflammatory mucosal projections; crypt abscesses describe inflammatory cells within crypts. The source groups the terms, but histology is not simply an endoscopic photograph diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The 2021 GIPAD review describes crypt abscesses as neutrophils in crypt lumina. They and inflammatory pseudopolyps can occur in Crohn disease too; neither is exclusive proof of UC. Pattern and clinical context matter.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8138698/"
+    }
+  },
+  {
+    "id": "s2peds-0605",
+    "category": "Inflammatory bowel disease",
+    "q": "What UC-associated contrast-study pattern does this actual source radiograph show?",
+    "a": "A smooth, feature-poor lead-pipe appearance from loss of normal colonic haustration, especially in the descending-colon segment shown.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes loss of haustration and a shortened rigid colon, but radiographs are not diagnostic by themselves and barium enema should not be performed during an acute presentation.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/ulcerative-colitis"
+    },
+    "img": "/mehlman/figures/peds-p048-01.jpeg"
+  },
+  {
+    "id": "s2peds-0606",
+    "category": "Inflammatory bowel disease",
+    "q": "Which biliary disease and antibody does the source associate with UC?",
+    "a": "Primary sclerosing cholangitis and pANCA. These are associations, not a claim that every UC patient has PSC or that pANCA alone diagnoses either condition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The extraintestinal-manifestations review describes PSC in IBD and its need for hepatology assessment. PSC also occurs outside UC, so the source association is not exclusive.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127025/"
+    }
+  },
+  {
+    "id": "s2peds-0607",
+    "category": "Inflammatory bowel disease",
+    "q": "What source skin lesion is described as an ulcer with necrotic debris in a patient with UC?",
+    "a": "Pyoderma gangrenosum. The PDF presents it as an uncommon UC-associated necrotic ulcer exam clue, not a diagnosis made from those words alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The extraintestinal-manifestations review describes pyoderma gangrenosum in both UC and Crohn disease and recommends dermatologic evaluation. It is not exclusive to UC.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127025/"
+    }
+  },
+  {
+    "id": "s2peds-0608",
+    "category": "Inflammatory bowel disease",
+    "q": "What dangerous complication does the source link to UC plus systemic toxicity and a markedly dilated colon?",
+    "a": "Toxic megacolon. The PDF illustrates SIRS, possible low blood pressure and a 12-cm cecum (source normal range 3-8 cm), but that illustrative cecal size is not the pediatric diagnostic definition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "ESPGHAN/ECCO 2025 uses transverse-colon dilation with systemic toxicity: its criteria table gives at least 56 mm, or over 40 mm in children under 10. Children need urgent clinical and surgical assessment; do not wait for a 12-cm cecum.",
+      "url": "https://www.ibdnet.ch/fileadmin/user_upload/j__pediatr__gastroenterol__nutr_-_2025_-_assa_-_management_of_paediatric_ulcerative_colitis__part_2__acute_severe_colitis.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0609",
+    "category": "Inflammatory bowel disease",
+    "q": "Is normal blood pressure enough to choose steroids alone for source toxic megacolon?",
+    "a": "No. The PDF says steroids first when blood pressure is normal, but hemodynamic stability is only one part of deciding on a closely monitored conservative trial.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "ESPGHAN/ECCO 2025 calls for prompt surgical review. Stable selected patients in highly specialized centers may receive IV steroids with fluids, antibiotics, bowel rest and preparation for surgery; this is not outpatient steroid-only care.",
+      "url": "https://www.ibdnet.ch/fileadmin/user_upload/j__pediatr__gastroenterol__nutr_-_2025_-_assa_-_management_of_paediatric_ulcerative_colitis__part_2__acute_severe_colitis.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0610",
+    "category": "Inflammatory bowel disease",
+    "q": "What does the source unstable-toxic-megacolon laparotomy rule mean in current pediatric care?",
+    "a": "Unstable toxic megacolon is a surgical emergency. The PDF says straight to laparotomy; resuscitation and urgent surgical management proceed together, not a delay for a routine steroid trial.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "ESPGHAN/ECCO 2025 recommends urgent colectomy in unstable cases or if a carefully monitored conservative trial has no improvement within 24-72 hours. Normal initial blood pressure does not remove the need for reassessment.",
+      "url": "https://www.ibdnet.ch/fileadmin/user_upload/j__pediatr__gastroenterol__nutr_-_2025_-_assa_-_management_of_paediatric_ulcerative_colitis__part_2__acute_severe_colitis.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0611",
+    "category": "Inflammatory bowel disease",
+    "q": "How should the source UC-versus-Crohn colectomy comparison be interpreted?",
+    "a": "Colectomy can treat severe/refractory UC. In Crohn disease, resection is not curative and the operation depends on the site and complication; the PDF very-rarely-Crohn shorthand must not mean surgery is almost never needed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes surgery for Crohn strictures, fistulas, abscesses and refractory disease and notes recurrence after resection. Its overall major-operation estimates are not specifically colectomy rates.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0612",
+    "category": "Inflammatory bowel disease",
+    "q": "What does the source mouth-to-anus description mean for Crohn disease?",
+    "a": "Crohn disease can involve any gastrointestinal segment. The source emphasizes terminal ileal disease and oral ulcers as exam clues, but neither is required in every case.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The extraintestinal-manifestations review describes oral aphthous ulcers in both UC and Crohn disease. Their presence is not exclusive to Crohn disease and does not establish its intestinal distribution.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127025/"
+    }
+  },
+  {
+    "id": "s2peds-0613",
+    "category": "Inflammatory bowel disease",
+    "q": "What source colonoscopic pattern distinguishes Crohn distribution from the usual continuous UC pattern?",
+    "a": "Skip lesions: diseased areas separated by relatively normal bowel, often with cobblestone-appearing ulceration. The source contrasts this with continuous rectal-to-proximal UC.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 48,
+      "url": "/mehlman/hy-pediatrics.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes sharply demarcated skip areas and fissured mucosa between islands that create a cobblestone appearance.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0614",
+    "category": "Inflammatory bowel disease",
+    "q": "What pattern is visible in this actual source gross-bowel photograph?",
+    "a": "A relatively normal segment beside markedly inflamed, cobblestoned bowel, illustrating the source Crohn skip-lesion pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 49,
+      "url": "/mehlman/hy-pediatrics.pdf#page=49"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes intermittent diseased bowel separated by normal areas. A single image supports the pattern but does not replace the full diagnostic context.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    },
+    "img": "/mehlman/figures/peds-p049-01.jpeg"
+  },
+  {
+    "id": "s2peds-0615",
+    "category": "Inflammatory bowel disease",
+    "q": "What does the source term creeping fat mean in Crohn disease?",
+    "a": "Mesenteric fat extends around the outside of the bowel, wrapping along the serosal surface. It is not fat inside the intestinal lumen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 49,
+      "url": "/mehlman/hy-pediatrics.pdf#page=49"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes mesenteric fat extending onto the bowel serosa in transmural Crohn disease.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0616",
+    "category": "Inflammatory bowel disease",
+    "q": "Which outside-the-bowel change is highlighted by the yellow wrapping in this actual source comparison diagram?",
+    "a": "Creeping fat: mesenteric fat wrapping around the bowel serosa. Thickened bowel wall and fissuring are also shown, reflecting the transmural Crohn pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 49,
+      "url": "/mehlman/hy-pediatrics.pdf#page=49"
+    },
+    "guideline": {
+      "text": "Merck March 2026 links transmural inflammation to thickening and mesenteric fat extending onto the serosal surface.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    },
+    "img": "/mehlman/figures/peds-p049-02.jpeg"
+  },
+  {
+    "id": "s2peds-0617",
+    "category": "Inflammatory bowel disease",
+    "q": "What source Crohn contrast-study sign is indicated by the arrows in this actual radiograph?",
+    "a": "The string sign: a markedly narrowed bowel segment compared with adjacent contrast-filled bowel. The PDF relates it to inflamed narrowing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 49,
+      "url": "/mehlman/hy-pediatrics.pdf#page=49"
+    },
+    "guideline": {
+      "text": "Merck March 2026 describes inflammation, fibrosis and stricture formation as contributors to narrowed bowel and obstruction. Narrowing does not by itself separate reversible inflammation from fixed fibrosis.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    },
+    "img": "/mehlman/figures/peds-p049-03.jpeg"
+  },
+  {
+    "id": "s2peds-0618",
+    "category": "Inflammatory bowel disease",
+    "q": "What granuloma pattern does the source link to Crohn disease and sarcoidosis?",
+    "a": "Noncaseating granulomas. The source links the two diseases as an exam association, not as the only possible granulomatous diseases.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 49,
+      "url": "/mehlman/hy-pediatrics.pdf#page=49"
+    },
+    "guideline": {
+      "text": "Merck March 2026 says granulomas are not detected in most Crohn patients. Their absence on a biopsy does not rule out Crohn disease.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
+  },
+  {
+    "id": "s2peds-0619",
+    "category": "Inflammatory bowel disease",
+    "q": "Must every Crohn biopsy show the source noncaseating granuloma finding?",
+    "a": "No. It is a characteristic possible finding, not a required finding on every endoscopic sample.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 49,
+      "url": "/mehlman/hy-pediatrics.pdf#page=49"
+    },
+    "guideline": {
+      "text": "Merck March 2026 explicitly notes that granulomas are not detected in the majority of patients; diagnosis depends on the clinical, endoscopic, imaging and histologic picture.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/inflammatory-bowel-disease-ibd/crohn-disease"
+    }
   }
 ];
