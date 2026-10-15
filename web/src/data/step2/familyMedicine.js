@@ -24560,5 +24560,576 @@ export default [
       "text": "USPSTF 2025 final: screen women 65+ and increased-risk postmenopausal women under 65 (Grade B); men I statement. Clinical judgment remains appropriate for men.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening"
     }
+  },
+  {
+    "id": "s2fm-2144",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What does the source emphasize as a predictor of rehabilitation after a hip fracture?",
+    "a": "Prefracture activity/function, in its older-woman vignette; it also emphasizes weight-bearing exercise as bone protection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-2145",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "How does the PDF sequence osteoporosis medication?",
+    "a": "Calcium/vitamin D first, followed by bisphosphonates.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    },
+    "guideline": {
+      "text": "ACR patient guidance says most people with osteoporosis need fracture-preventing medication as well as adequate calcium/vitamin D and activity. Supplements alone are not a universal trial that must fail before treatment.",
+      "url": "https://rheumatology.org/patients/osteoporosis"
+    }
+  },
+  {
+    "id": "s2fm-2146",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What histologic product distinguishes source osteosarcoma?",
+    "a": "Malignant cells producing osteoid/new woven bone; hereditary retinoblastoma and Paget disease are highlighted associations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-2147",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What process creates a source Codman triangle?",
+    "a": "Periosteal elevation by an aggressive lesion; sunburst describes spiculated new bone in the PDF osteosarcoma example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-2148",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What molecular abnormality does the source associate with Ewing sarcoma?",
+    "a": "A t(11;22) translocation, distinguished from the chromosome 22q11 deletion associated with DiGeorge syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-2149",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What source contrast separates osteoma from osteoid osteoma?",
+    "a": "Gardner-associated benign skull lesions versus a painful lesion relieved by NSAIDs in its exam patterns.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-2150",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What does unicameral mean in the source bone-cyst discussion?",
+    "a": "A single fluid-filled chamber; the PDF contrasts its younger age range with giant-cell tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-2151",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why should new diffuse bone pain or neurologic compression symptoms matter in a patient with cancer?",
+    "a": "The source highlights skeletal/spinal metastases, especially with breast, prostate or lung cancer. Neurologic symptoms need prompt evaluation rather than assuming ordinary strain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-2152",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What explains calf pseudohypertrophy in the source dystrophinopathies?",
+    "a": "Fibrofatty replacement makes the calves look large despite weakness; the Gowers maneuver compensates for proximal weakness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-2153",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "How does the source contrast Duchenne and Becker mutation patterns?",
+    "a": "Duchenne is classically out-of-frame and earlier/more severe; Becker is classically in-frame with later/milder presentation. These are pattern summaries.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-2154",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Does the PDF say eating fails to provoke GCA jaw claudication?",
+    "a": "Yes. It contrasts eating-triggered TMJ pain with supposedly non-eating-triggered GCA pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    },
+    "guideline": {
+      "text": "ACR describes GCA jaw pain from chewing. Do not use eating-related pain to exclude GCA; associated visual/headache symptoms need urgent assessment.",
+      "url": "https://rheumatology.org/patients/giant-cell-arteritis"
+    }
+  },
+  {
+    "id": "s2fm-2155",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What source examination/laboratory contrast separates PMR from an inflammatory myopathy?",
+    "a": "Pain/stiffness with preserved objective strength and normal CK supports its PMR pattern; objective weakness/elevated CK supports a myopathy. This does not mean every weakness is polymyositis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-2156",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What skin findings does the source list with dermatomyositis?",
+    "a": "Gottron papules, heliotrope eruption, shawl-pattern rash and rough mechanic hands; patterns can overlap with other inflammatory-myopathy syndromes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-2157",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "How does the PDF describe fibromyalgia and its treatment?",
+    "a": "It calls it psychiatric and emphasizes SSRIs/antidepressant therapy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    },
+    "guideline": {
+      "text": "ACR describes a chronic widespread-pain condition with nervous-system involvement, not simply a psychiatric illness. Exercise is most effective; FDA-approved drugs include duloxetine, milnacipran and pregabalin.",
+      "url": "https://rheumatology.org/patients/fibromyalgia"
+    }
+  },
+  {
+    "id": "s2fm-2158",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What source clue suggests hypothyroid myopathy rather than an isolated muscle diagnosis?",
+    "a": "Weakness or CK elevation accompanied by systemic thyroid clues such as fatigue, menstrual changes and mood slowing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-2159",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Which lipid-drug combination does the source flag for muscle toxicity?",
+    "a": "A statin plus a fibrate; it also notes that either can cause myopathy alone. Individual drug interactions and CK/symptom severity determine management.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-2160",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What biopsy clue does the source give for inclusion-body myositis?",
+    "a": "Rimmed vacuoles in an older adult with progressive weakness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-2161",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "How do source fibrillin and fibrillar-collagen clues differ?",
+    "a": "Fibrillin points to the Marfan example; type III collagen is its vascular Ehlers-Danlos example. Ehlers-Danlos is a group, not one universal type III defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-2162",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What middle-ear mechanism does the source give for hearing impairment in osteogenesis imperfecta?",
+    "a": "Abnormal ossicles from a type I-collagen disorder, alongside recurrent fractures; it does not require blue sclerae in every vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-2163",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What anatomic route distinguishes an indirect source inguinal hernia?",
+    "a": "It passes through the deep ring lateral to inferior epigastric vessels; the direct route is medial through a weakened abdominal wall.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-2164",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What source connection links a patent processus vaginalis to two pediatric presentations?",
+    "a": "An indirect inguinal hernia or communicating hydrocele.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-2165",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What congenital lateral-neck finding does the source link to forceps delivery?",
+    "a": "Sternocleidomastoid injury/fibromatosis-type mass, contrasted with a branchial-cleft cyst.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-2166",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why is oral-bisphosphonate administration counseling relevant in the source?",
+    "a": "Pill-induced esophageal irritation is emphasized. The PDF dismisses jaw osteonecrosis as low exam yield, which is not equivalent to absence of clinical risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-2167",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "How does intermittent teriparatide differ from persistent endogenous PTH excess?",
+    "a": "Its intermittent administration can favor osteoblast-mediated bone formation; the source uses it for severe osteoporosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-2168",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Which two nonfebrile drug-reaction examples favor antimuscarinic treatment in the source?",
+    "a": "Oculogyric crisis or acute neck dystonia after antipsychotic exposure; fever/generalized severe rigidity changes the emergency differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-2169",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What does the source itself say about keeping vaccine schedules current?",
+    "a": "It advises checking the latest schedule rather than treating its bullet table as permanently current. Product, age, risk and prior-dose details matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-2170",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Does the source tetanus table correctly reserve immune globulin for dirty wounds ten years after vaccination?",
+    "a": "No. The PDF gives that shortcut, but vaccine history and immune status determine TIG.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC 2025: with a completed series, booster at 10+ years for clean/minor or 5+ years for dirty/major wounds. TIG is never indicated for clean/minor wounds; dirty/major indications include unknown/incomplete/no primary series, HIV or severe immunodeficiency.",
+      "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/"
+    }
+  },
+  {
+    "id": "s2fm-2171",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What adult age threshold does the PDF give for routine pneumococcal vaccination?",
+    "a": "Age 65.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC 2026 recommends routine PCV for adults 50+ without prior PCV or with unknown history; product/prior-dose history determines whether PPSV23 or further doses are needed.",
+      "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2172",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What infant exception is missing from the PDF advice to await maternal hepatitis B results before HBIG?",
+    "a": "The PDF says vaccine now and HBIG only if the mother proves positive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC perinatal table: infants under 2,000 g with unknown maternal HBsAg need vaccine and HBIG within 12 hours. At 2,000 g or more, give vaccine within 12 hours, urgently clarify maternal status, and follow the indicated HBIG pathway.",
+      "url": "https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/vaccine-administration.html"
+    }
+  },
+  {
+    "id": "s2fm-2173",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What source target mediates many growth effects of excess GH?",
+    "a": "Hepatic IGF-1, explaining why IGF-1 is preferred to a random pulsatile GH measurement in its initial evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-2174",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What additional metabolic/cardiac problems does the source connect to acromegaly?",
+    "a": "Insulin resistance/diabetes, hypertension, cardiomyopathy/arrhythmias and joint/soft-tissue overgrowth.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-2175",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What source direction do urine concentration and serum sodium take with excess ADH?",
+    "a": "More concentrated urine and diluted/lower-sodium serum in a compatible euvolemic SIADH pattern; sodium alone does not diagnose it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-2176",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Is unsupervised fluid restriction a safe home test for suspected DI?",
+    "a": "No. The PDF describes restriction/desmopressin testing, not a home instruction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    },
+    "guideline": {
+      "text": "NIDDK describes professionally monitored water-deprivation testing with urine output, weight and blood/urine checks; stimulation/copeptin testing is another diagnostic approach.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/diabetes-insipidus"
+    }
+  },
+  {
+    "id": "s2fm-2177",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What partial response caveat does the source give for desmopressin in nephrogenic DI?",
+    "a": "A small urine-concentrating response does not exclude renal resistance; it contrasts this with a marked central-DI response, while real partial/mixed cases require formal interpretation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-2178",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "How does the source explain thiazide-associated reduction in nephrogenic-DI urine volume?",
+    "a": "Distal salt loss promotes compensatory proximal sodium/water reabsorption, reducing distal delivery. The PDF adds NSAIDs; renal risk and underlying cause affect therapy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-2179",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What urine/serum pattern does the source contrast with DI in primary polydipsia?",
+    "a": "Both can be dilute, unlike the classically concentrated serum/dilute urine of untreated DI. Partial forms and access to water can blur patterns.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-2180",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Which autoimmune findings accompany source Hashimoto thyroiditis?",
+    "a": "Thyroid lymphocytes and anti-TPO/antithyroglobulin antibodies; it also emphasizes clustering with other autoimmune conditions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-2181",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "How do receptor activation and stored-hormone leakage differ in source thyrotoxicosis?",
+    "a": "Graves stimulates synthesis through TSH-receptor antibodies; destructive thyroiditis releases stored hormone with low uptake.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-2182",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What four treatment components does the PDF name for thyroid storm?",
+    "a": "A thionamide (PTU in its example), beta blockade, glucocorticoid and iodide. This is an emergency bundle, not a self-treatment sequence; timing and hemodynamic status matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-2183",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why may low T3 coexist with increased reverse T3 during serious illness in the source?",
+    "a": "Altered peripheral metabolism during illness; the source describes reduced active T3 formation and increased inactive reverse T3, rather than automatically primary hypothyroidism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-2184",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why does source thyroid-nodule ultrasound precede deciding whether to biopsy?",
+    "a": "It assesses anatomy/risk features to select nodules for FNA. The source uses suppressed TSH to trigger a functional scan; that does not mean every hyperthyroid patient can never have cancer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-2185",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What levothyroxine increase does the PDF prescribe during pregnancy?",
+    "a": "A fixed 50%.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "ATA advises patients already taking levothyroxine to increase by 20-30% as soon as pregnancy is diagnosed and contact their clinician for prompt testing; total requirements often rise 25-50%, with monitoring/titration.",
+      "url": "https://www.thyroid.org/hypothyroidism-in-pregnancy/"
+    }
+  },
+  {
+    "id": "s2fm-2186",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why can total T4 increase in normal pregnancy without the same increase in free T4?",
+    "a": "Estrogen increases thyroid-binding globulin; more hormone is protein-bound while feedback maintains physiologic free-hormone availability. Pregnancy-specific interpretation still matters.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-2187",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why can a lingual thyroid matter before removing an apparent neck/tongue mass?",
+    "a": "The ectopic tissue may be the only functioning thyroid tissue; the PDF links it to hypothyroidism and failed descent from the foramen cecum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-2188",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What distinction does the source make between primary and renal secondary hyperparathyroidism?",
+    "a": "Autonomous parathyroid secretion versus a compensatory rise associated with renal mineral/vitamin D abnormalities; their classic calcium/phosphate patterns differ.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-2189",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "What changes from secondary to tertiary source hyperparathyroidism?",
+    "a": "Long-standing stimulation produces autonomous secretion with hypercalcemia despite the original renal trigger; phosphorus depends on renal function and treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-2190",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why does thyroid surgery sometimes cause hypocalcemia in the source?",
+    "a": "Parathyroid injury/removal lowers PTH; phosphate rises in its classic pattern because PTH-dependent phosphaturia falls.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-2191",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why can magnesium replacement be needed when calcium/potassium remain low?",
+    "a": "Severe magnesium deficiency can impair PTH secretion/action and promote potassium loss; the source warns that supplementation of calcium/potassium alone may fail.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-2192",
+    "category": "Bone, vaccines and endocrine source details",
+    "q": "Why is endogenous PTH low in a PTHrP-secreting cancer?",
+    "a": "The high calcium suppresses native parathyroid secretion even though tumor PTHrP causes PTH-like effects; the two assays/mediators are different.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
   }
 ];
