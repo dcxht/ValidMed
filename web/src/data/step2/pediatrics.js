@@ -18820,4 +18820,191 @@ export default [
     "img": "/mehlman/figures/peds-p092-lyme.png",
     "imgAlt": "Actual source photograph of a target-like erythema migrans rash associated with Lyme disease"
   }
+,
+  {
+    "id": "s2peds-1332",
+    "category": "Pediatric infectious disease",
+    "q": "Which organism and morphology does the source assign to Lyme disease?",
+    "a": "Borrelia burgdorferi, a spirochete.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck confirms that Lyme disease in the United States is caused primarily by the spirochete Borrelia burgdorferi, with B. mayonii causing a smaller share in the upper Midwest.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/spirochetes/lyme-disease"
+    }
+  },
+  {
+    "id": "s2peds-1333",
+    "category": "Pediatric infectious disease",
+    "q": "What does the source call the Lyme rash, and does it have to look like a target?",
+    "a": "Erythema chronicum migrans, usually called erythema migrans. The classic form is a target rash, but the source stresses that USMLE can show a circular rash without central clearing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck calls erythema migrans the characteristic early Lyme finding and says the expanding lesion classically has central clearing, but many patients have no clearing; some have central erythema with a pale ring.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/spirochetes/lyme-disease"
+    }
+  },
+  {
+    "id": "s2peds-1334",
+    "category": "Pediatric infectious disease",
+    "q": "How can a circular rash plus Bell palsy point to Lyme disease on the exam?",
+    "a": "The source says USMLE may show a non-target circular limb rash beside Bell palsy. The student should infer Lyme disease even without a target lesion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck lists cranial neuritis, especially Bell palsy, among early-disseminated Lyme manifestations and confirms that erythema migrans can lack central clearing.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/spirochetes/lyme-disease"
+    }
+  },
+  {
+    "id": "s2peds-1335",
+    "category": "Pediatric infectious disease",
+    "q": "What Lyme treatment rule does the source give for children under 8 and pregnant patients?",
+    "a": "Use amoxicillin or a third-generation cephalosporin, not doxycycline. That is the source exam rule for age under 8 and pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "The 2020 IDSA/AAN/ACR guideline recommends doxycycline, amoxicillin or cefuroxime for erythema migrans and notes growing acceptance of short-course doxycycline safety in young children, while pregnancy decisions remain individualized. Merck still presents avoidance in children under 8 and amoxicillin for pregnancy, so preserve the source answer as the exam rule.",
+      "url": "https://www.idsociety.org/practice-guideline/lyme-disease/"
+    }
+  },
+  {
+    "id": "s2peds-1336",
+    "category": "Pediatric infectious disease",
+    "q": "Which infestation is shown by the p93 hand photograph with small burrows and inflammatory lesions?",
+    "a": "Scabies. The image introduces the source's Sarcoptes scabiei section.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck describes intensely pruritic erythematous papules and burrows, especially in web spaces, wrists, waistline and genitals; burrows on the hands, wrists or feet are pathognomonic.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/parasitic-skin-infections/scabies"
+    },
+    "img": "/mehlman/figures/peds-p093-scabies.png",
+    "imgAlt": "Actual source photograph of scabies burrows and inflammatory lesions on a hand"
+  },
+  {
+    "id": "s2peds-1337",
+    "category": "Pediatric infectious disease",
+    "q": "Which mite and lesion description define scabies in the source?",
+    "a": "Sarcoptes scabiei, with lesions classically described as linear burrows.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck identifies Sarcoptes scabiei var. hominis and describes burrows as fine, wavy, slightly scaly lines several millimeters to 1 cm long, often with a tiny papule at one end.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/parasitic-skin-infections/scabies"
+    }
+  },
+  {
+    "id": "s2peds-1338",
+    "category": "Pediatric infectious disease",
+    "q": "What secondary infection does the source warn can complicate scabies?",
+    "a": "Superinfection with Staphylococcus aureus, usually after scratching and skin breakdown.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck says scratched or eroded lesions can become secondarily infected and recommends considering impetigo with weeping yellow-crusted lesions, treated with an appropriate topical or systemic antistaphylococcal or antistreptococcal antibiotic.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/parasitic-skin-infections/scabies"
+    }
+  },
+  {
+    "id": "s2peds-1339",
+    "category": "Pediatric infectious disease",
+    "q": "What is the source treatment for ordinary scabies, and what other infestation does the same topical drug treat?",
+    "a": "Topical permethrin. The source adds that topical permethrin also treats pediculosis, meaning lice.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck calls topical permethrin first-line scabies therapy and repeats treatment in 7 days. CDC lists permethrin lotion 1% for head lice in children 2 months and older, while noting known resistance to 1% permethrin.",
+      "url": "https://www.cdc.gov/lice/hcp/clinical-care/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1340",
+    "category": "Pediatric infectious disease",
+    "q": "When does the source use oral ivermectin for scabies?",
+    "a": "For disseminated scabies in patients with HIV. The source's contrast is topical permethrin for ordinary disease versus oral ivermectin for disseminated disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck says crusted or Norwegian scabies is more common in immunosuppressed patients including HIV, and lists oral ivermectin for topical failure, adherence barriers, institutional outbreaks or immunocompromised patients with Norwegian scabies. It is not recommended in pregnancy or lactation and safety is unproven under 15 kg or 5 years.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/parasitic-skin-infections/scabies"
+    }
+  },
+  {
+    "id": "s2peds-1341",
+    "category": "Pediatric dermatology",
+    "q": "Which bites are shown by the p93 grouped itchy arm lesions?",
+    "a": "Bedbug bites. The source labels the section Bed bugs and shows clustered lesions on a limb.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck says bedbug lesions occur on exposed skin and may appear in linear patterns or groups, including the characteristic breakfast-lunch-and-dinner pattern.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/parasitic-skin-infections/bedbugs"
+    },
+    "img": "/mehlman/figures/peds-p093-bedbugs.png",
+    "imgAlt": "Actual source photograph of grouped erythematous bedbug bites on an arm"
+  },
+  {
+    "id": "s2peds-1342",
+    "category": "Pediatric dermatology",
+    "q": "Which insect and lesion pattern does the source give for bed bugs?",
+    "a": "The insect is Cimex. It produces clusters of itchy lesions on the limbs or torso.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck names Cimex lectularius in temperate climates and C. hemipterus mainly in tropical climates. Lesions are often on exposed skin and can be grouped or linear.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/parasitic-skin-infections/bedbugs"
+    }
+  },
+  {
+    "id": "s2peds-1343",
+    "category": "Pediatric infectious disease",
+    "q": "Which disease does the p93 oral photograph introduce, and what are the arrowed lesions?",
+    "a": "Measles. The arrows show Koplik spots, the pathognomonic whitish buccal-mucosa lesions; the detailed measles bullets begin on p94.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 93,
+      "url": "/mehlman/hy-pediatrics.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Merck calls Koplik spots pathognomonic enanthems of measles, resembling white grains of sand surrounded by red areolae, usually appearing before the generalized cephalocaudal maculopapular rash.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/measles"
+    },
+    "img": "/mehlman/figures/peds-p093-measles-koplik.png",
+    "imgAlt": "Actual source photograph of Koplik spots on the buccal mucosa in measles"
+  }
 ];
