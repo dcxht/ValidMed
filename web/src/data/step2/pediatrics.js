@@ -12285,5 +12285,172 @@ export default [
       "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
     },
     "img": "/mehlman/pediatrics/p062-bite-cells.jpg"
+  },
+  {
+    "id": "s2peds-0893",
+    "category": "Pediatric hematology",
+    "q": "What does the PDF label in the circled RBCs of this actual image?",
+    "a": "Heinz bodies, meaning aggregates of denatured hemoglobin. This is the source-labeled image; the stain and image quality limit independent confirmation of the inclusions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "Merck April 2026 states that Heinz bodies require special stains for recognition. Do not assume every pale peripheral spot or RBC notch on a routine smear proves a Heinz inclusion.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/glucose-6-phosphate-dehydrogenase-g6pd-deficiency"
+    },
+    "img": "/mehlman/pediatrics/p063-heinz-source.jpg"
+  },
+  {
+    "id": "s2peds-0894",
+    "category": "Pediatric hematology",
+    "q": "After G6PD deficiency, which enzyme deficiency does the source identify as the next most common inherited enzymatic cause of hemolysis?",
+    "a": "Pyruvate kinase deficiency, which reduces the ATP available to sustain RBC function and survival.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "The 2021 pediatric PK-deficiency study introduction confirms the second-place ranking and describes an autosomal recessive PKLR disorder. Its PMC posting in 2025 is not a new 2025 guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12202056/"
+    }
+  },
+  {
+    "id": "s2peds-0895",
+    "category": "Pediatric hematology",
+    "q": "How does the source explain hemolysis in pyruvate kinase deficiency, and why is its swelling sequence incomplete?",
+    "a": "The PDF gives decreased ATP, decreased Na/K-ATPase activity, sodium and water retention, then swelling and lysis. Keep that as the source explanation, not a complete account of PK-deficient human RBC behavior: ATP depletion also changes membrane properties and ion balance, and human cells may lose potassium and water.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "A 1986 experimental study found potassium loss and dehydration in ATP-depleted human PK-deficient reticulocytes under its incubation conditions, not a universal swelling pattern. The 2021 pediatric report describes altered rheology, echinocytes and increased splenic uptake. The shared clinical point is ATP-dependent RBC survival.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3766523/"
+    }
+  },
+  {
+    "id": "s2peds-0896",
+    "category": "Pediatric hematology",
+    "q": "Which heme-synthesis step does the source associate with inherited sideroblastic anemia?",
+    "a": "Impaired delta-aminolevulinic acid synthase, the first heme-synthesis step. This describes the classic ALAS2-associated form, not every cause of sideroblastic anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "Merck March 2025 identifies ALAS2 mutation as the most common congenital sideroblastic-anemia form, while other inherited and acquired mechanisms also exist. Do not equate the entire syndrome with one enzyme defect.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/sideroblastic-anemias"
+    }
+  },
+  {
+    "id": "s2peds-0897",
+    "category": "Pediatric hematology",
+    "q": "What inherited-versus-acquired sideroblastic-anemia contrast does the source make?",
+    "a": "An X-linked form can present in children, while alcohol exposure can cause an acquired form in adults. The pediatric inherited presentation and the adult exposure are examples, not exclusive age rules.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "Merck March 2025 lists X-linked, autosomal and mitochondrial inherited forms, sometimes presenting later, and acquired causes including ethanol, medications, copper or B6 deficiency and myelodysplastic disease.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/sideroblastic-anemias"
+    }
+  },
+  {
+    "id": "s2peds-0898",
+    "category": "Pediatric hematology",
+    "q": "Why do ring sideroblasts accumulate iron around their nuclei?",
+    "a": "Impaired heme synthesis leaves iron inadequately incorporated into heme. Iron accumulates in mitochondria arranged around the nucleus of an erythroblast, an RBC precursor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "Merck March 2025 describes perinuclear iron-engorged mitochondria and impaired mitochondrial iron utilization despite adequate or increased iron. This differs from uncomplicated iron-deficiency anemia.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/sideroblastic-anemias"
+    }
+  },
+  {
+    "id": "s2peds-0899",
+    "category": "Pediatric hematology",
+    "q": "What cell-label error appears in the source explanation of the Prussian blue image?",
+    "a": "A ring sideroblast is an erythroblast with iron-loaded perinuclear mitochondria, not a macrophage. The PDF calls the stained cells iron-laden macrophages; that cell label is incorrect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "ASH Image Bank December 2023 explicitly identifies Prussian-blue-positive ring sideroblasts as erythroblasts. The PDF phrase is preserved here as an error to recognize, not a fact to memorize.",
+      "url": "https://imagebank.hematology.org/image/64778/ring-sideroblast"
+    }
+  },
+  {
+    "id": "s2peds-0900",
+    "category": "Pediatric hematology",
+    "q": "What does this actual source Prussian blue image show?",
+    "a": "Ring sideroblasts: nucleated erythroid precursors with blue iron granules arranged around their nuclei. The combination points to sideroblastic erythropoiesis rather than ordinary iron-deficiency anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "ASH Image Bank confirms that the perinuclear blue granules represent mitochondrial iron in erythroblasts. This morphology does not by itself specify inherited ALAS2 disease versus an acquired cause.",
+      "url": "https://imagebank.hematology.org/image/64778/ring-sideroblast"
+    },
+    "img": "/mehlman/pediatrics/p063-ring-sideroblasts.jpg"
+  },
+  {
+    "id": "s2peds-0901",
+    "category": "Pediatric hematology",
+    "q": "Which two heme-synthesis enzymes does the source say lead inhibits?",
+    "a": "Delta-aminolevulinic acid dehydratase and ferrochelatase. Impaired synthesis causes delta-ALA accumulation and reduced heme production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "The archived ATSDR clinical teaching page directly supports ALAD and ferrochelatase inhibition and increased ALA and erythrocyte protoporphyrin. This is mechanism evidence, not a current screening threshold or treatment guideline.",
+      "url": "https://archive.cdc.gov/www_atsdr_cdc_gov/csem/leadtoxicity/physiological_effects.html"
+    }
+  },
+  {
+    "id": "s2peds-0902",
+    "category": "Pediatric hematology",
+    "q": "Which classic pediatric lead-exposure vignette does the source use, and what limitation does it place on that pattern?",
+    "a": "A 2-year-old eats paint chips in an old house and develops neurocognitive problems. The source warns that many exam presentations will not be this obvious; do not require paint-chip ingestion before considering exposure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "ATSDR supports childhood risk from deteriorating lead-based paint and neurodevelopmental effects. The PDF estimate that this vignette accounts for about one-third of questions is unverified test-taking commentary, not measured epidemiology.",
+      "url": "https://archive.cdc.gov/www_atsdr_cdc_gov/csem/leadtoxicity/physiological_effects.html"
+    }
+  },
+  {
+    "id": "s2peds-0903",
+    "category": "Pediatric hematology",
+    "q": "What anemia pattern should keep lead toxicity in the differential even without the classic paint-chip history?",
+    "a": "Microcytic anemia. Lead impairs heme synthesis, so the anemia may be an important clue rather than a separate unrelated finding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 63,
+      "url": "/mehlman/hy-pediatrics.pdf#page=63"
+    },
+    "guideline": {
+      "text": "ATSDR describes hypochromic anemia that may be normocytic or microcytic and notes that frank anemia is not an early manifestation. Normal hemoglobin or MCV does not exclude lead exposure.",
+      "url": "https://archive.cdc.gov/www_atsdr_cdc_gov/csem/leadtoxicity/physiological_effects.html"
+    }
   }
 ];
