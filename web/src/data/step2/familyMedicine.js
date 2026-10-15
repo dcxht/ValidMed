@@ -19963,7 +19963,7 @@ export default [
     "id": "s2fm-1750",
     "category": "Reproductive source details",
     "q": "What hormonal signal is linked with bilateral theca-lutein cysts in the source?",
-    "a": "HighhCG, including trophoblastic disease, multiple gestation or fertility treatment.",
+    "a": "High hCG, including trophoblastic disease, multiple gestation or fertility treatment.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 103,
@@ -20136,7 +20136,7 @@ export default [
     "id": "s2fm-1765",
     "category": "Reproductive source details",
     "q": "Which HSV manifestations beyond recurrent genital lesions does the PDF mention?",
-    "a": "Herpetic whitlow and temporal-lobe encephalitis, with PCR-based testing/current clinical context outside this source clue summary.",
+    "a": "Herpetic whitlow and temporal-lobe encephalitis, with confusion and blood in CSF in its source presentation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 106,
