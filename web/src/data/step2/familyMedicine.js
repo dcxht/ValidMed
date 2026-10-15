@@ -17354,6 +17354,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 52,
       "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    },
+    "guideline": {
+      "text": "NICE NG112 considers trigger-linked single-dose prophylaxis only after appropriate behavioral measures and vaginal estrogen are ineffective/unsuitable, with culture/resistance and preferences considered. Methenamine or other measures may precede a daily-antibiotic trial; review antibiotic prophylaxis at least every 6 months. This is not an automatic nitrofurantoin-to-TMP-SMX ladder.",
+      "url": "https://www.nice.org.uk/guidance/NG112/chapter/recommendations"
     }
   },
   {
@@ -17409,6 +17413,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 53,
       "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    },
+    "guideline": {
+      "text": "BNF/NICE urinary-retention summary notes bethanechol licensing for acute postoperative/postpartum/neurogenic retention but says its use has largely been superseded by catheterization. This is a directly fetched prescribing summary, not a claim of routine benefit in every diabetic hypotonic bladder.",
+      "url": "https://bnf.nice.org.uk/treatment-summaries/urinary-retention/"
     }
   },
   {
@@ -27110,6 +27118,171 @@ export default [
     "guideline": {
       "text": "ESC 2025 section 11.8.3 recommends drainage for tamponade, preferably image-guided needle pericardiocentesis, without delay in unstable patients. A rigid routine-test sequence must not postpone urgent drainage.",
       "url": "https://www.sicardiologia.it/wp-content/uploads/2025/09/ehaf192.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2353",
+    "category": "Renal and GI exact-claim reconciliation",
+    "q": "What urine-pH manipulation does the PDF suggest for calcium-oxalate versus calcium-phosphate stones?",
+    "a": "It says alkalinization can help oxalate stones and acidification can help phosphate stones.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    },
+    "guideline": {
+      "text": "EAU urolithiasis guidance uses cause/metabolic testing, not a blanket pH switch: calcium-phosphate stones may reflect hyperparathyroidism, distal RTA or infection. RTA can require alkali, while hypercalciuria can require thiazides; calcium-oxalate citrate therapy also depends on the metabolic context.",
+      "url": "https://uroweb.org/guidelines/urolithiasis/chapter/metabolic-evaluation-and-recurrence-prevention"
+    }
+  },
+  {
+    "id": "s2fm-2354",
+    "category": "Renal and GI exact-claim reconciliation",
+    "q": "What treatments does the PDF name for struvite stones beyond hydration?",
+    "a": "Urine acidification with ammonium chloride plus surgery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    },
+    "guideline": {
+      "text": "EAU guidance supports complete removal and antibiotics for persistent bacteriuria (strong recommendations); ammonium chloride/methionine acidification is an additional weak recommendation, not a replacement for removal or infection control.",
+      "url": "https://uroweb.org/guidelines/urolithiasis/chapter/metabolic-evaluation-and-recurrence-prevention"
+    }
+  },
+  {
+    "id": "s2fm-2355",
+    "category": "Renal and GI exact-claim reconciliation",
+    "q": "What hydration advice does the PDF put first for both stone treatment and prevention?",
+    "a": "Adequate hydration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    },
+    "guideline": {
+      "text": "NIDDK October 2025 distinguishes enough fluid for passage/prevention from urgent care for a large, obstructing or very painful stone. Vomiting/dehydration may require IV fluids. This is not an instruction to force fluids instead of treating obstruction.",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-stones/treatment"
+    }
+  },
+  {
+    "id": "s2fm-2356",
+    "category": "Renal and GI exact-claim reconciliation",
+    "q": "What association does the PDF favor for bladder symptoms in MS, rather than overflow?",
+    "a": "Urge incontinence from detrusor overactivity; it says it has not seen MS overflow on its cited exams.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    },
+    "guideline": {
+      "text": "NIDDK October 2025 lists multiple sclerosis among neurologic causes of urinary retention. The PDF exam-pattern assertion does not exclude retention in a person with MS.",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes"
+    }
+  },
+  {
+    "id": "s2fm-2357",
+    "category": "Renal and GI exact-claim reconciliation",
+    "q": "Which inpatient versus outpatient PID drug contrast appears in the PDF sepsis discussion?",
+    "a": "IV ceftriaxone plus azithromycin when septic, versus IM ceftriaxone and oral azithromycin in its nonseptic example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    },
+    "guideline": {
+      "text": "CDC STI guidance recommends broader therapy: a standard inpatient option is ceftriaxone plus doxycycline plus metronidazole, completing 14 days; standard outpatient therapy is single-dose IM ceftriaxone plus 14 days of doxycycline and metronidazole. Admission also depends on pregnancy, abscess, severity, inability to tolerate outpatient treatment and other criteria.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm/"
+    }
+  },
+  {
+    "id": "s2fm-2358",
+    "category": "Renal and GI exact-claim reconciliation",
+    "q": "Which two celiac antibody names does the PDF treat as synonyms?",
+    "a": "Anti-endomysial and anti-gliadin, using aka.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "NIDDK professional guidance lists endomysial antibody (EMA) and deamidated gliadin peptide (DGP) assays separately. It does not treat them as the same test. tTG-IgA is generally the preferred serologic test, with IgA status affecting selection.",
+      "url": "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/digestive-diseases/celiac-disease-health-care-professionals"
+    }
+  },
+  {
+    "id": "s2fm-2359",
+    "category": "Renal and GI exact-claim reconciliation",
+    "q": "Which grain list does the PDF give for gluten exposure in celiac disease?",
+    "a": "Wheat, oats, rye and barley, but not rice.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "NIDDK October 2025 says most people with celiac disease can safely eat moderate amounts of gluten-free oats after discussing this with their clinician/dietitian. Cross-contact with gluten-containing grains is common, so ordinary oats are not automatically safe.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/eating-diet-nutrition"
+    }
+  },
+  {
+    "id": "s2fm-2360",
+    "category": "Infant airway and feeding source details",
+    "q": "Which positions does the PDF say can reduce laryngomalacia-related noisy breathing?",
+    "a": "Prone or upright positioning in its diagnostic vignette. This is a source observation, not advice to put an infant to sleep on the stomach.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    },
+    "guideline": {
+      "text": "AAP 2022 safe-sleep policy recommends supine sleep on a firm, flat, noninclined surface. A diagnostic positional clue does not authorize a home sleep-position change; airway disease needs an individualized clinical assessment.",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+    }
+  },
+  {
+    "id": "s2fm-2361",
+    "category": "Infant airway and feeding source details",
+    "q": "What treatment rule does the PDF give for typical laryngomalacia?",
+    "a": "It says almost always self-resolves and not to treat.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    },
+    "guideline": {
+      "text": "CHOP clinical guidance says many cases resolve without surgery, but severe apnea, cyanosis, feeding/growth problems, retractions or oxygen needs require prompt assessment; severe disease may need supraglottoplasty. This is specialist-center patient guidance, not a universal no-treatment rule.",
+      "url": "https://www.chop.edu/conditions-diseases/laryngomalacia"
+    }
+  },
+  {
+    "id": "s2fm-2362",
+    "category": "Infant airway and feeding source details",
+    "q": "What non-drug measures does the PDF name before PPIs for infant reflux?",
+    "a": "Thickened feeds using dry rice added to formula and positional change.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "AAP 2022 specifically advises against head elevation, side or prone positioning for reflux in sleeping infants; supine, flat sleep remains recommended. Feeding changes and awake holding must not be confused with sleep-position advice.",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+    }
+  },
+  {
+    "id": "s2fm-2363",
+    "category": "Infant airway and feeding source details",
+    "q": "Which cereal does the PDF name for thickening infant reflux feeds?",
+    "a": "Rice cereal/dry rice added to formula.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "AAP HealthyChildren advice recommends oatmeal rather than rice cereal when prescribed thickening is needed because of arsenic concerns. The pediatrician/feeding specialist determines consistency and amount; this is not a do-it-yourself recipe.",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Oatmeal-The-Safer-Alternative-Need-Thicker-Food.aspx"
     }
   }
 ];
