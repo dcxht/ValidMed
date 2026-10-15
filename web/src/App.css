@@ -1421,3 +1421,9 @@ body {
 .practice-heading a { color:var(--accent); font-size:13px; }
 .practice-heading p { font-size:12px; color:var(--text-secondary); margin-top:6px; }
 .q-card { max-height:calc(100dvh - 340px); }
+.resources-nav { color:var(--accent); font-size:13px; padding:10px 0 10px 12px; }
+.rotation-practice { color:white; background:var(--accent); padding:12px 16px; border-radius:10px; text-decoration:none; min-height:46px; }
+.rotation-pdf { color:var(--accent); font-size:12px; padding:8px 0; }
+.rotation-pending { color:var(--text-secondary); font-size:12px; padding-top:8px; }
+.q-card { max-height:calc(100dvh - 265px); }
+.practice-heading { margin-bottom:10px; }
