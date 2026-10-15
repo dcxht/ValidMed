@@ -10401,6 +10401,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 247,
       "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    },
+    "guideline": {
+      "text": "Endocrine Society: suspected adrenal crisis needs immediate parenteral hydrocortisone and fluids. Do not wait for stimulation testing.",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/primary-adrenal-insufficiency"
     }
   },
   {
@@ -10844,7 +10848,7 @@ export default [
     },
     "guideline": {
       "text": "ADA/EASD/JBDS/AACE/DTS2024 consensus discusses DKA in both type1 and type2 diabetes, including ketosis-prone type2 diabetes. Do not use diabetes type alone to exclude DKA.",
-      "url": "https://diabetesjournals.org/care/article/47/8/1257/156808/Hyperglycemic-Crises-in-Adults-With-Diabetes-A"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
     }
   },
   {
@@ -25130,6 +25134,438 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 245,
       "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-2193",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why does the PDF allow normal sodium in a high-aldosterone vignette?",
+    "a": "Water/sodium homeostasis can preserve measured serum sodium; hypertension, renin, potassium and acid-base patterns carry more information than one expected sodium arrow.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-2194",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What source familial clue supports primary hyperaldosteronism?",
+    "a": "Multiple affected relatives with hypertension and high aldosterone, in its simplified exam example; the PDF warns against automatically substituting renovascular disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-2195",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Which adrenal cortical hormones are deficient in the source Addison pattern?",
+    "a": "Cortisol and aldosterone, with reduced androgens also possible; low blood pressure is not explained by aldosterone alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-2196",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What incomplete replacement wording does the PDF give for Addison disease?",
+    "a": "Fludrocortisone plus or minus hydrocortisone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    },
+    "guideline": {
+      "text": "Endocrine Society: confirmed primary adrenal insufficiency requires glucocorticoid replacement; add fludrocortisone when aldosterone deficiency is confirmed. Hydrocortisone is not an optional substitute for a cortisol deficit.",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/primary-adrenal-insufficiency"
+    }
+  },
+  {
+    "id": "s2fm-2197",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Should adrenal-crisis treatment wait for the source ACTH stimulation test?",
+    "a": "No. The source Waterhouse-Friderichsen vignette names the test, but shock/severe adrenal insufficiency is an emergency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    },
+    "guideline": {
+      "text": "Endocrine Society recommends immediate IV stress-dose hydrocortisone before diagnostic results in severe insufficiency/crisis, with appropriate fluid resuscitation. Testing is done when the condition permits.",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/primary-adrenal-insufficiency"
+    }
+  },
+  {
+    "id": "s2fm-2198",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why can adrenal cortical failure increase pigmentation and eosinophils in the source?",
+    "a": "Loss of cortisol feedback raises ACTH/MSH-related signaling; loss of normal glucocorticoid effects can permit eosinophilia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-2199",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What three particularly emphasized skeletal/skin complications occur with source cortisol excess?",
+    "a": "Purple abdominal striae, osteoporotic vertebral compression fractures and femoral-head avascular necrosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-2200",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What does lack of low-dose dexamethasone suppression establish in the source shortcut?",
+    "a": "It suggests endogenous cortisol excess, not its source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "NIDDK notes no single test is perfect and doctors usually confirm with two tests; ACTH, further biochemical tests and imaging help locate the cause.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome"
+    }
+  },
+  {
+    "id": "s2fm-2201",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Is source high-dose dexamethasone suppression an infallible pituitary-versus-ectopic rule?",
+    "a": "The PDF presents suppression as pituitary disease and no suppression as a nonpituitary source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "NIDDK describes suppression as probably pituitary and no suppression as possibly ectopic, with more than one test often needed. Treat the PDF pattern as a teaching shortcut.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome"
+    }
+  },
+  {
+    "id": "s2fm-2202",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why can exogenous glucocorticoids produce a Cushingoid appearance with low endogenous cortisol?",
+    "a": "They suppress ACTH and native adrenal production while exerting glucocorticoid effects; the specific assay/drug affects measured values.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-2203",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What hormone explains adrenal enlargement in the source CAH disorders?",
+    "a": "Compensatory ACTH elevation from impaired cortisol feedback.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-2204",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What source substrate clue argues against 17-alpha-hydroxylase deficiency?",
+    "a": "Increased 17-hydroxylated precursors, which require that enzymatic step; the PDF contrasts androgen-excess 21/11 patterns with androgen-deficient 17 disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-2205",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why can normal office blood pressure fail to exclude the source pheochromocytoma?",
+    "a": "Catecholamine spells can be episodic; the source emphasizes headaches, palpitations and intermittent severe hypertension.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-2206",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Which neural-crest-derived cells form the source adrenal-medulla tumor?",
+    "a": "Chromaffin cells in pheochromocytoma; neuroblastoma arises along the sympathetic/neural-crest lineage rather than being literally the same childhood tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-2207",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What posterior-thoracic site does the PDF allow for neuroblastoma?",
+    "a": "The posterior mediastinal sympathetic chain, despite the more typical abdominal presentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-2208",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What urine metabolite does the source use for carcinoid syndrome?",
+    "a": "5-HIAA from serotonin metabolism; the source contrasts hormone-secreting tumor symptoms with medication-related serotonin toxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-2209",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What RET-related family pattern should not require every MEN2 feature?",
+    "a": "Familial medullary thyroid carcinoma can point to RET-related disease even without a fully described pheochromocytoma/parathyroid/neuroma constellation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-2210",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What source feature separates Carney pigmentation from the Peutz-Jeghers vignette?",
+    "a": "Cardiac myxoma and endocrine hypersecretion rather than a focus on hamartomatous intestinal polyps; the syndromes are not diagnosed by pigmentation alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-2211",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why do insulin-deficient cells coexist with high circulating glucose in the source?",
+    "a": "Impaired insulin-sensitive uptake plus continued hepatic glucose production; enhanced lipolysis/ketogenesis can cause acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-2212",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "How can DKA cause high serum potassium but depleted body stores?",
+    "a": "Insulin deficiency/acid-base shifts move potassium out of cells while urinary losses deplete total stores. Initial serum concentration is not a measure of whole-body reserve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-2213",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Is bicarbonate always wrong in DKA as the PDF states?",
+    "a": "The PDF says always wrong, but routine use and extreme acidosis are different.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "CCJM 2025 review of the 2024 multi-society consensus: routine bicarbonate is not recommended; consider it for severe acidosis with pH<7.0. This note is grounded in the clinical review, not a fully retrieved primary treatment section.",
+      "url": "https://www.ccjm.org/content/92/3/152"
+    }
+  },
+  {
+    "id": "s2fm-2214",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "When must potassium correction precede insulin in an adult DKA protocol?",
+    "a": "The PDF emphasizes insulin-related potassium decline but does not give this threshold.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "CCJM 2025 review of 2024 consensus: if potassium is below 3.5 mmol/L, replace potassium and postpone insulin until it is above 3.5 mmol/L. Monitor/replete throughout treatment; this is a hospital protocol.",
+      "url": "https://www.ccjm.org/content/92/3/152"
+    }
+  },
+  {
+    "id": "s2fm-2215",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Does substantial glucose elevation have to accompany every DKA episode?",
+    "a": "No. The PDF uses a classic hyperglycemic pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "The2024 primary multi-society consensus recognizes euglycemic DKA, including association with SGLT2 therapy. Ketones/acidosis and the clinical setting matter, not glucose alone.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
+    }
+  },
+  {
+    "id": "s2fm-2216",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What source mechanisms besides autoimmune diabetes can cause secondary diabetes?",
+    "a": "Iron overload, pancreatitis/pancreatectomy, cortisol/GH excess and certain drugs such as tacrolimus; several mechanisms can coexist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-2217",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What calculation distinguishes a concurrent respiratory process from appropriate compensation in metabolic acidosis?",
+    "a": "Compare measured PCO2 with Winter prediction: 1.5 times bicarbonate plus 8, allowing 2 mmHg either way. Lower indicates added respiratory alkalosis; higher suggests respiratory acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-2218",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What anion-gap cutoff does the PDF use, and why is it a source-specific simplification?",
+    "a": "It calls 8-12 normal and 13+ high without potassium. Laboratories, albumin concentration and method affect interpretation; a fixed boundary is not universal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-2219",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Must potassium be normal in salicylate toxicity as the PDF claims?",
+    "a": "No. The PDF says potassium must always be normal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "ACMT 2013 position document guidance describes multifactorial hypokalemia, early potassium supplementation, variable mixed acid-base patterns and possible falsely high chloride measurements. A normal gap/potassium cannot safely exclude poisoning.",
+      "url": "https://www.acmt.net/wp-content/uploads/2022/06/PRS_130313_Management-Priorities-in-Salicylate-Toxicity.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2220",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Does a fixed 20-minute salicylate timeline safely determine all acid-base values?",
+    "a": "The PDF uses early respiratory alkalosis followed by mixed acidosis/alkalosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "ACMT 2013 position document describes variable patterns by acuity/severity; near-normal pH can conceal a mixed disorder. Treatment and severity assessment use the whole clinical course, not a fixed clock.",
+      "url": "https://www.acmt.net/wp-content/uploads/2022/06/PRS_130313_Management-Priorities-in-Salicylate-Toxicity.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2221",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why is a rising PCO2 concerning in a tiring asthma patient despite initial hyperventilation?",
+    "a": "The source contrasts initial respiratory alkalosis with later hypoventilation/CO2 retention as respiratory effort fails; it is not reassuring normalization in a deteriorating patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2fm-2222",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why can vomiting and diuretics share a hypokalemic alkalosis pattern?",
+    "a": "Chloride/volume losses plus renal RAAS-driven proton/potassium secretion can sustain alkalosis; exact values depend on timing and treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-2223",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "Why do diarrhea and laxative losses commonly create a normal-gap acidosis?",
+    "a": "Bicarbonate-rich intestinal fluid loss, with chloride retention relative to sodium maintaining charge balance; potassium is also lost.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-2224",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What membrane event follows ATP-sensitive potassium-channel blockade by insulin secretagogues?",
+    "a": "Beta-cell depolarization and insulin release; the source groups sulfonylureas and meglitinides by this mechanism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-2225",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "How does DPP-4 blockade differ from directly agonizing the GLP-1 receptor?",
+    "a": "It slows breakdown of endogenous incretins, while GLP-1 agonists mimic receptor stimulation; both can support glucose-dependent insulin responses.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-2226",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What source gastrointestinal actions accompany the amylin analog pramlintide?",
+    "a": "Slower gastric emptying, greater satiety and reduced postmeal glucagon release, alongside insulin rather than replacing it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-2227",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "What should fever/mouth ulcers suggest after PTU or methimazole in the source?",
+    "a": "Possible severe neutropenia/agranulocytosis requiring urgent assessment, rather than assuming a routine viral sore throat.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-2228",
+    "category": "Adrenal, diabetes and electrolyte source details",
+    "q": "How do cinacalcet and desmopressin act on different endocrine signaling targets?",
+    "a": "Cinacalcet sensitizes the calcium-sensing receptor to reduce PTH; desmopressin replaces antidiuretic activity in central DI.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-family-medicine.pdf#page=259"
     }
   }
 ];
