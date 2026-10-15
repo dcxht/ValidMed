@@ -16433,8 +16433,8 @@ export default [
   {
     "id": "s2fm-1435",
     "category": "Pulmonology source details",
-    "q": "What feedback effect would sarcoid-driven excess active vitaminD and calcium have on PTH?",
-    "a": "The hypercalcemia suppresses PTH; extra-renal granuloma 1-alpha-hydroxylase can continue producing active vitaminD.",
+    "q": "What feedback effect would sarcoid-driven excess active vitamin D and calcium have on PTH?",
+    "a": "The hypercalcemia suppresses PTH; extra-renal granuloma 1-alpha-hydroxylase can continue producing active vitamin D.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 39,
@@ -17223,7 +17223,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=51"
     },
     "guideline": {
-      "text": "KDIGO 2025 also recommends screening after personalSAH or family unexplained sudden death in appropriate candidates, considers selected transplant/surgical contexts, and supports informed shared decisions for others wishing screening. TOF-MRA without gadolinium is preferred.",
+      "text": "KDIGO 2025 also recommends screening after personal SAH or family unexplained sudden death in appropriate candidates, considers selected transplant/surgical contexts, and supports informed shared decisions for others wishing screening. TOF-MRA without gadolinium is preferred.",
       "url": "https://kdigo.org/wp-content/uploads/2025/02/KDIGO-2025-ADPKD-Guideline-Key-Takeaways-Chapter-6.pdf"
     }
   },
@@ -17913,7 +17913,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=66"
     },
     "guideline": {
-      "text": "Sepsis-3/SCCM 2016: sepsis requires life-threatening organ dysfunction from dysregulated infection response. Septic shock includes vasopressor need forMAP at least 65 and lactate above 2 mmol/L despite adequate resuscitation.",
+      "text": "Adult Sepsis-3/SCCM 2016: life-threatening organ dysfunction from dysregulated infection response; shock requires vasopressors for MAP at least65 mmHg and lactate above2 mmol/L despite adequate resuscitation. Pediatric criteria differ.",
       "url": "https://www.sccm.org/clinical-resources/sepsis-definitions"
     }
   },
@@ -18825,6 +18825,873 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1650",
+    "category": "Hematology source details",
+    "q": "Which initial studies does the PDF use to separate iron deficiency from thalassemia in microcytic anemia?",
+    "a": "Serum iron and ferritin, followed by hemoglobin electrophoresis when the pattern favors a hemoglobin disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-family-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2fm-1651",
+    "category": "Hematology source details",
+    "q": "How does the source RDW pattern differ between iron deficiency and thalassemia?",
+    "a": "RDW is typically higher in iron deficiency and often normal/less elevated in thalassemia. Its absolute exclusion wording is not taught as a stand-alone rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-family-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2fm-1652",
+    "category": "Hematology source details",
+    "q": "What source rule favors oral over parenteral iron?",
+    "a": "It says oral iron is always preferred in its exam discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "AGA 2024 recommendsIV iron for intolerance, failed ferritin improvement or poor absorption, including selected inflammatory/bariatric cases. The source always-oral rule is not universal.",
+      "url": "https://gastro.org/clinical-guidance/management-of-iron-deficiency-anemia/"
+    }
+  },
+  {
+    "id": "s2fm-1653",
+    "category": "Hematology source details",
+    "q": "Can a normal ferritin by a laboratory range alone exclude iron deficiency in every clinical context?",
+    "a": "The PDF uses normal ferritin to favor thalassemia over iron deficiency in its examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-family-medicine.pdf#page=79"
+    },
+    "guideline": {
+      "text": "AGA 2020 recommends 45 ng/mL as a diagnostic cutoff in anemia and notes that inflammatory conditions/CKD may require CRP, transferrin saturation or other testing alongside ferritin.",
+      "url": "https://gastro.org/clinical-guidance/gastrointestinal-evaluation-of-iron-deficiency-anemia/"
+    }
+  },
+  {
+    "id": "s2fm-1654",
+    "category": "Pharmacology",
+    "q": "What two common stool/GI effects does the source assign to oral iron?",
+    "a": "Constipation and dark/black stools.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-1655",
+    "category": "Hematology source details",
+    "q": "What globin tetramers does the source attach to three versus four alpha-globin-gene defects?",
+    "a": "HbH: beta 4; HbBarts: gamma 4. The source describes progressively more severe disease with increasing alpha-gene involvement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-1656",
+    "category": "Hematology source details",
+    "q": "How does the source contrast electrophoresis in alpha-thalassemia trait versus beta-thalassemia?",
+    "a": "Alpha trait may have a normal electrophoresis; beta-thalassemia commonly increases HbA2 and HbF. Genetic testing/context can be important.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-1657",
+    "category": "Hematology source details",
+    "q": "What causes the source severe-thalassemia skull/facial and splenic changes?",
+    "a": "Expanded hematopoiesis, including marrow expansion and extramedullary hematopoiesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-1658",
+    "category": "Hematology source details",
+    "q": "How does hepcidin contribute to the source anemia-of-inflammation pattern?",
+    "a": "It reduces intestinal iron absorption and promotes sequestration in storage cells, lowering circulating iron.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-1659",
+    "category": "Hematology source details",
+    "q": "What does the PDF prioritize for nonrenal anemia of chronic disease?",
+    "a": "Treating the underlying condition rather than routinely giving EPO. Its renal-disease examples consider deficient EPO production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-1660",
+    "category": "Hematology source details",
+    "q": "What skeletal distribution does the PDF mention for myeloma lesions besides vertebral pain?",
+    "a": "Skull/rib lesions and fractures, and a humeral lytic-lesion example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-1661",
+    "category": "Hematology source details",
+    "q": "What does M in an M-spike mean in the source?",
+    "a": "Monoclonal, not necessarily Ig M.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-1662",
+    "category": "Hematology source details",
+    "q": "Which nuclear morphology does the source associate with plasma cells?",
+    "a": "Clock-face chromatin, within eccentric nuclei.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-1663",
+    "category": "Hematology source details",
+    "q": "How does high immunoglobulin/protein burden affect sedimentation in the source?",
+    "a": "It promotes rouleaux and a higher ESR. The PDF exact light-chain-to-RBC mechanism remains a separate unverified assertion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-1664",
+    "category": "Hematology source details",
+    "q": "What marrow plasma-cell percentage does the PDF use to distinguish myeloma from MGUS?",
+    "a": "Above 10% versus below 10%, in its simplified source description. This alone is not a full diagnostic criterion; symptoms, biomarkers, clone and other tests matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-1665",
+    "category": "Hematology source details",
+    "q": "Which bone-directed drug category does the source name early for myeloma?",
+    "a": "An intravenous bisphosphonate to reduce skeletal complications. This is supportive bone treatment, not the entire antimyeloma regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-1666",
+    "category": "Hematology source details",
+    "q": "What source protein class distinguishes Waldenstrom macroglobulinemia from its myeloma example?",
+    "a": "An Ig M monoclonal protein in Waldenstrom, versus its usual IgG myeloma example. Neither contrast makes every exception impossible.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-1667",
+    "category": "Hematology source details",
+    "q": "Which symptoms does the source group as hyperviscosity features?",
+    "a": "Headache, blurry vision, tinnitus or Raynaud-type symptoms in its monoclonal-protein/erythrocytosis discussions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-1668",
+    "category": "Hematology source details",
+    "q": "What does low EPO mean in the source polycythemia-vera comparison?",
+    "a": "The erythrocytosis is driven by a marrow neoplasm rather than physiologic/exogenous EPO stimulation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-1669",
+    "category": "Hematology source details",
+    "q": "How does the source separate immediate phlebotomy from hydroxyurea in polycythemia vera?",
+    "a": "Phlebotomy is its immediate hyperviscosity-relief answer; hydroxyurea reduces marrow production for selected longer-term control.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-1670",
+    "category": "Hematology source details",
+    "q": "Which nonhypoxic causes of secondary erythrocytosis does the source list?",
+    "a": "EPO-producing renal-cell carcinoma and exogenous EPO use.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-1671",
+    "category": "Hematology source details",
+    "q": "What laboratory time ranges does the PDF list for PT, PTT and bleeding time?",
+    "a": "PT 10-15 seconds;PTT 25-40 seconds; bleeding time 2-7 minutes. These are source ranges; modern laboratory intervals vary, and bleeding time is not a complete clinical screening tool.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-1672",
+    "category": "Hematology source details",
+    "q": "Which platelet surface target does the source associate with ITP antibodies?",
+    "a": "GlycoproteinIIb/IIIa, one source antibody target in immune platelet destruction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-1673",
+    "category": "Hematology source details",
+    "q": "What treatment ladder does the PDF give for ITP?",
+    "a": "Steroids, then IVIG, then splenectomy. This is its source ladder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "ASH 2019 individualizes care by bleeding, platelet count, age and course. Observation is favored for many mildly affected children; second-line options include TPO agonists, rituximab or splenectomy, ideally delaying splenectomy at least 1 year if possible.",
+      "url": "https://ashpublications.org/bloodadvances/article/3/23/3829/429213/American-Society-of-Hematology-2019-guidelines-for"
+    }
+  },
+  {
+    "id": "s2fm-1674",
+    "category": "Hematology source details",
+    "q": "What source explanation is considered if thrombocytopenia recurs months after splenectomy?",
+    "a": "An accessory spleen that remains functional/enlarges, in its source question. Other causes still need evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-1675",
+    "category": "Hematology source details",
+    "q": "How does vWF contribute to primary hemostasis?",
+    "a": "It bridges platelet GPIb and exposed subendothelial collagen to support platelet adhesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-1676",
+    "category": "Hematology source details",
+    "q": "What test does the PDF connect with abnormal platelet adhesion in vWD?",
+    "a": "The ristocetin cofactor assay, within a broader evaluation of vWF quantity/function.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-1677",
+    "category": "Hematology source details",
+    "q": "Why can desmopressin help selected vWD or hemophilia A presentations in the source?",
+    "a": "It can raise circulating vWF and factor VIII. Suitability depends on disease type, response and clinical context; it is not effective treatment for factor IX deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-1678",
+    "category": "Hematology source details",
+    "q": "Why can broad-spectrum antibiotics change warfarin sensitivity in the source?",
+    "a": "Reduced intestinal vitamin K production can lower vitamin K availability, altering the dose required. INR and the clinical context guide management.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-1679",
+    "category": "Hematology source details",
+    "q": "Which clotting and regulatory proteins require vitamin K-dependent modification?",
+    "a": "Factors II, VII, IX, X and proteins C/S, in the source gamma-carboxylation discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-1680",
+    "category": "Hematology source details",
+    "q": "How does microangiopathic injury produce schistocytes in the source HUS/TTP explanation?",
+    "a": "Red cells fragment while passing through injured/narrowed small vessels with platelet-rich thrombi.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-1681",
+    "category": "Hematology source details",
+    "q": "Must the full TTP pentad be present to consider urgent disease?",
+    "a": "The PDF teaches a pentad of low platelets, hemolysis, renal findings, fever and neurologic signs. This source mnemonic is not a requirement to wait for all five before assessment/treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-1682",
+    "category": "Hematology source details",
+    "q": "How can sickle-cell pain mimic appendicitis in the source?",
+    "a": "Abdominal/RLQ pain with anemia may be a vaso-occlusive episode; the source names smear/electrophoresis when the presentation suggests a hemoglobin disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-1683",
+    "category": "Hematology source details",
+    "q": "What source cell/cytokine mechanism leads to marrow fibrosis?",
+    "a": "Abnormal megakaryocyte/granulocyte proliferation and released growth factors promote collagen deposition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2fm-1684",
+    "category": "Hematology source details",
+    "q": "How does the source distinguish reactive thrombocytosis from essential thrombocythemia?",
+    "a": "Reactive counts follow inflammation/infection/surgery; clonal ET can occur without a trigger and cause microvascular symptoms. Count alone is not the complete distinction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2fm-1685",
+    "category": "Hematology source details",
+    "q": "Which symptoms does the source use for microvascular disturbance in ET?",
+    "a": "Painful fingers, Raynaud-like symptoms or headache with marked thrombocytosis. Its aspirin/pheresis treatment rule remains a separate patient-specific issue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2fm-1686",
+    "category": "Hematology source details",
+    "q": "What does the source mean by mucositis and discoid lupus?",
+    "a": "Mouth ulcers and cutaneous lesions, respectively, in its SLE feature list.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2fm-1687",
+    "category": "Hematology source details",
+    "q": "Which mucosal symptoms can be clues to neutropenia?",
+    "a": "Mouth ulcers, sore throat and fever, particularly during marrow-suppressing therapy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-1688",
+    "category": "Hematology source details",
+    "q": "Which cytokine therapy does the source name after antibiotics in febrile neutropenia?",
+    "a": "G-CSF/filgrastim, as its source adjunctive answer, not a universal substitute for antibiotic treatment or a rule for every patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-1689",
+    "category": "Hematology source details",
+    "q": "What limb anomalies does the PDF contrast in Fanconi versus Diamond-Blackfan anemia?",
+    "a": "Hypoplastic/absent thumbs or radii with Fanconi marrow failure; triphalangeal thumbs with Diamond-Blackfan pure-red-cell aplasia. These are source clues, not required findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-1690",
+    "category": "Hematology source details",
+    "q": "Which membrane proteins does the PDF associate with hereditary spherocytosis?",
+    "a": "Ankyrin, spectrin and band proteins. The source predominantly teaches an autosomal-dominant pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-1691",
+    "category": "Hematology source details",
+    "q": "Which tests does the source name for hereditary spherocytosis?",
+    "a": "Osmotic fragility and eosin-5-maleimide testing, with a typically negative direct Coombs test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-1692",
+    "category": "Hematology source details",
+    "q": "Why can splenic removal reduce hemolysis in hereditary spherocytosis?",
+    "a": "The spleen removes poorly deformable red cells; reducing that sequestration can decrease hemolysis. Surgical suitability is not determined by this mechanism alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-1693",
+    "category": "Hematology source details",
+    "q": "What source synonym describes neutrophilic leukemoid reaction?",
+    "a": "Reactive granulocytosis or release of leukocytes from the marrow postmitotic reserve pool.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-1694",
+    "category": "Hematology source details",
+    "q": "What makes pertussis an important alternative to childhood ALL in the source?",
+    "a": "Marked lymphocytosis can accompany pertussis, but the cough/post-tussive-emesis context points to infection. The source hypoglycemia claim is not independently verified.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-1695",
+    "category": "Hematology source details",
+    "q": "Which chromosome syndrome does the source associate with increased ALL risk?",
+    "a": "Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-1696",
+    "category": "Hematology source details",
+    "q": "Which immunophenotypic markers does the source name for CLL?",
+    "a": "CD5 and CD23, interpreted with flow-cytometric/clonal B-cell assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2fm-1697",
+    "category": "Hematology source details",
+    "q": "What immune hematologic complication can accompany CLL in the source?",
+    "a": "Warm autoimmune hemolytic anemia with IgG-mediated red-cell destruction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2fm-1698",
+    "category": "Hematology source details",
+    "q": "Which treatment does the PDF label broadly as AML therapy?",
+    "a": "All-trans retinoic acid/vitaminA to induce maturation. The source label is broader than the approved APL setting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "NCI drug guidance specifies tretinoin with arsenic trioxide for selected APL with PML/RARA rearrangement, including newly diagnosed low-risk APL. ATRA is not a universal regimen for every AML subtype.",
+      "url": "https://www.cancer.gov/about-cancer/treatment/drugs/arsenictrioxide"
+    }
+  },
+  {
+    "id": "s2fm-1699",
+    "category": "Hematology source details",
+    "q": "How does the source distinguish the CML smear from a reactive neutrophilic response?",
+    "a": "CML shows a mix of immature/maturing myeloid forms with BCR-ABL association, rather than predominantly mature neutrophils with a reactive context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-1700",
+    "category": "Pharmacology",
+    "q": "What chromosome/protein mechanism is targeted by imatinib in the source?",
+    "a": "The BCR-ABL fusion tyrosine kinase from t(9;22).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-1701",
+    "category": "Hematology source details",
+    "q": "What blood and skin findings characterize source Sezary syndrome?",
+    "a": "Cerebriform malignantT cells in blood with diffuse erythroderma, a cutaneous T-cell lymphoma with blood involvement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-1702",
+    "category": "Hematology source details",
+    "q": "Which viral cause does the PDF assert for Sezary syndrome?",
+    "a": "HTLV, as the source claim.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    },
+    "guideline": {
+      "text": "NCI infectious-agent guidance instead identifies HTLV-1 with adult T-cell leukemia/lymphoma. NCI-hosted terminology describes CTCL cause as unknown; this does not establish HTLV as Sezary cause.",
+      "url": "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncim/C0036920"
+    }
+  },
+  {
+    "id": "s2fm-1703",
+    "category": "Hematology source details",
+    "q": "Must a lymphoma have an elevated blood leukocyte count in the source?",
+    "a": "No. Lymphoid tissue disease can present with a normal peripheral count/differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-1704",
+    "category": "Hematology source details",
+    "q": "What does the source Virchow/Troisier-node clue mean?",
+    "a": "A palpable left supraclavicular node that can reflect malignancy beyond gastric cancer, including its lymphoma example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-1705",
+    "category": "Hematology source details",
+    "q": "Which general risk contexts does the PDF link with lymphoma?",
+    "a": "EBV/HIV, immunosuppression and selected autoimmune disorders. These are associations, not proof of malignancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-1706",
+    "category": "Hematology source details",
+    "q": "What source temperature distinction separates warm from cold immune hemolysis?",
+    "a": "IgG-associated warm disease reacts at warmer temperatures;Ig M-associated cold agglutination occurs at cooler temperatures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2fm-1707",
+    "category": "Hematology source details",
+    "q": "Which diseases does the source associate with warm versus cold hemolysis?",
+    "a": "Warm: autoimmunity, CLL and drug/infection contexts. Cold:Mycoplasma and viral mononucleosis examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2fm-1708",
+    "category": "Hematology source details",
+    "q": "Which biochemical role of G6PD protects red cells from oxidative stress?",
+    "a": "Production of NADPH supports reducing defenses against oxidative injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1709",
+    "category": "Hematology source details",
+    "q": "What exposures can precipitate the source G6PD hemolysis vignette?",
+    "a": "Infection, fava beans and selected oxidant drugs such as primaquine/dapsone/sulfonamides. Actual drug risk depends on the product and dose.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1710",
+    "category": "Hematology source details",
+    "q": "How do Heinz bodies and bite cells relate?",
+    "a": "Denatured/oxidized hemoglobin forms Heinz inclusions; splenic removal can leave bite-like membrane defects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1711",
+    "category": "Hematology source details",
+    "q": "What two biochemical laboratory clues can accompany hemolysis in the source?",
+    "a": "Raised indirect bilirubin and LDH, within an anemia/reticulocyte evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1712",
+    "category": "Hematology source details",
+    "q": "Why do folate/B12 defects cause megaloblastic changes?",
+    "a": "Impaired DNA synthesis delays nuclear maturation, producing macrocytic red-cell precursors and hypersegmented neutrophils.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1713",
+    "category": "Hematology source details",
+    "q": "What nonvitamin cause of macrocytosis does the source emphasize?",
+    "a": "Alcohol exposure, which can cause macrocytosis even without B9/B12 deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-1714",
+    "category": "Hematology source details",
+    "q": "Where is iron found in a ring sideroblast?",
+    "a": "In mitochondria around the erythroblast nucleus, highlighted by Prussian-blue stain. The source macrophage wording is not used as the cell identity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-1715",
+    "category": "Hematology source details",
+    "q": "Which nonchildhood lead exposures does the PDF mention?",
+    "a": "Lead-containing ammunition/hunting and illicit/home-distilled alcohol equipment, in its adult anemia/neurocognitive examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-1716",
+    "category": "Hematology source details",
+    "q": "What does basophilic stippling represent in the source?",
+    "a": "Aggregatedribosomal RNA in red cells.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-1717",
+    "category": "Pharmacology",
+    "q": "Which three chelators does the source name for lead poisoning?",
+    "a": "Calcium disodium EDTA, dimercaprol and succimer. These are source options, not interchangeable treatment for every severity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-1718",
+    "category": "Pharmacology",
+    "q": "Which two treatments does the PDF name for an acute intermittent-porphyria attack?",
+    "a": "Hematin/hemin and glucose, within its source acute-management description.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-1719",
+    "category": "Pharmacology",
+    "q": "How does aspirin differ from other source NSAIDs in COX binding?",
+    "a": "Aspirin acts irreversibly; the source contrasts other NSAIDs as reversible inhibitors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2fm-1720",
+    "category": "Pharmacology",
+    "q": "Why can aspirin cause both antiplatelet benefit and gastric injury?",
+    "a": "Reduced platelet thromboxane impairs aggregation; reduced mucosal prostaglandins weaken gastric protection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2fm-1721",
+    "category": "Pharmacology",
+    "q": "What mixed acid-base disorder does the source connect with salicylate toxicity?",
+    "a": "Respiratory alkalosis plus high-anion-gap metabolic acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2fm-1722",
+    "category": "Pharmacology",
+    "q": "Why can selective COX-2 inhibition increase cardiovascular thrombotic risk in the source explanation?",
+    "a": "It reduces prostacyclin/prostaglandin signaling without the same platelet thromboxane inhibition. This does not make celecoxib free of GI or renal risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2fm-1723",
+    "category": "Pharmacology",
+    "q": "What enzyme target does the source give for warfarin/dicoumarol?",
+    "a": "VitaminK epoxide reductase, reducing recycling required for vitamin K-dependent clotting-protein activation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2fm-1724",
+    "category": "Pharmacology",
+    "q": "What happens when a CYP inducer versus inhibitor is added to warfarin in the source?",
+    "a": "Induction can lower anticoagulant effect/INR; inhibition can raise INR and bleeding risk. Monitor the actual interaction and INR.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2fm-1725",
+    "category": "Pharmacology",
+    "q": "How does heparin affect the source coagulation pathway?",
+    "a": "It enhances antithrombin activity, inhibiting activated clotting enzymes. Its bridging-use summary is indication-specific rather than required for every warfarin initiation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2fm-1726",
+    "category": "Pharmacology",
+    "q": "What enzyme/second-messenger target does the source assign to cilostazol?",
+    "a": "PDE3 inhibition raises cAMP, helping claudication in suitable patients; heart failure is a current contraindication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
     }
   }
 ];

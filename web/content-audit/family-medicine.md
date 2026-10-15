@@ -62,3 +62,5 @@ Second detail pass through p43:1454cards,230source figures,51current-source note
 Second detail pass through p61:1546cards,230figures,54source notes. Source claim reconciliation still pending as listed.
 
 Second detail pass through p78:1649cards,230figures,57source notes. Still Partial.
+
+Second detail pass through p97:1726cards,230figures,62source notes. Still Partial;pp98-317 and remaining source-claim reconciliation continue.
