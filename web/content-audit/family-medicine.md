@@ -69,3 +69,4 @@ Second detail pass pp98-113:60 additional source-detail cards,1786 total,230 fig
 Second detail pass pp114-130:45 additional source-detail questions. Total1831,230figures,76current-source notes. Detailed claim reconciliation is still open; Partial retained.
 Second detail pass pp131-145 plus implant update p112:47 additional cards,1878total,230figures,82notes. Claim reconciliation remains open; Partial retained.
 Second detail pass pp146-160:60 new questions,1938total,230figures,93current-source notes. Broad source read and figures complete, detail/claim reconciliation still Partial.
+Second detail pass pp161-176:60additional cards,1998total,230figures,105current-source notes. Partial retained: nextpp177 onward, with exact-claim reconciliation still open across prior ranges.

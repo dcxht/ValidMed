@@ -22149,5 +22149,713 @@ export default [
       "page": 160,
       "url": "/mehlman/hy-family-medicine.pdf#page=160"
     }
+  },
+  {
+    "id": "s2fm-1939",
+    "category": "Neuropsychiatric source details",
+    "q": "What lucid-interval pattern does the source describe with an epidural hematoma?",
+    "a": "Transient impaired consciousness, apparent recovery, then deterioration as bleeding expands; not every epidural bleed has the full classic sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2fm-1940",
+    "category": "Neuropsychiatric source details",
+    "q": "What low-GCS head-injury intervention does the source pair with intubation before surgery?",
+    "a": "Hyperventilation, to lower CO2 and cerebral blood flow/pressure in its source sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    },
+    "guideline": {
+      "text": "Brain Trauma Foundation severe-TBI guideline: prolonged prophylactic hyperventilation to PaCO2≤25 is not recommended. Temporizing use for raised ICP is distinct from routine ventilation and requires specialist monitoring.",
+      "url": "https://braintrauma.org/coma/guidelines/severe-tbi"
+    }
+  },
+  {
+    "id": "s2fm-1941",
+    "category": "Neuropsychiatric source details",
+    "q": "What age and exposure contexts does the source associate with subdural hematoma?",
+    "a": "Older adults/brain atrophy, alcohol use and acceleration-deceleration injury; bridging-vein tearing produces a crescent-shaped collection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2fm-1942",
+    "category": "Neuropsychiatric source details",
+    "q": "What important definitive step is absent from the PDF usually-supportive subarachnoid-hemorrhage answer?",
+    "a": "The PDF emphasizes supportive care, blood-pressure control and nimodipine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    },
+    "guideline": {
+      "text": "AHA/ASA 2023 recommends prompt identification and treatment of the ruptured aneurysm, preferably within 24 hours, plus specialist care; early enteral nimodipine benefits delayed-ischemia/outcome prevention. Supportive-only is not a complete aSAH plan.",
+      "url": "https://professional.heart.org/en/science-news/2023-guideline-for-the-management-of-patients-with-aneurysmal-subarachnoid-hemorrhage/top-things-to-know"
+    }
+  },
+  {
+    "id": "s2fm-1943",
+    "category": "Neuropsychiatric source details",
+    "q": "Which inherited conditions does the source associate with intracranial saccular aneurysms?",
+    "a": "ADPKD and Ehlers-Danlos syndrome, in addition to its hypertension association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-1944",
+    "category": "Neuropsychiatric source details",
+    "q": "Why can subarachnoid hemorrhage resemble meningitis in the source?",
+    "a": "Blood irritates meninges, producing neck stiffness/meningism in addition to sudden severe headache.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-1945",
+    "category": "Neuropsychiatric source details",
+    "q": "What source differential does cerebral amyloid angiopathy add for recurrent intracerebral hemorrhage?",
+    "a": "Amyloid-related vessel fragility, particularly in its Alzheimer association; malignancy is another hemorrhage context it mentions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-1946",
+    "category": "Neuropsychiatric source details",
+    "q": "What did the PDF call focal-aware versus impaired-awareness seizures?",
+    "a": "FOAS and FOIAS, with older simple/complex partial labels.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    },
+    "guideline": {
+      "text": "ILAE 2025 retains focal/generalized/unknown/unclassified classes and uses consciousness, defined through awareness and responsiveness, rather than awareness alone as a classifier. Source acronyms reflect its older wording.",
+      "url": "https://www.ilae.org/guidelines/definition-and-classification/updated-classification-of-epileptic-seizures-2025"
+    }
+  },
+  {
+    "id": "s2fm-1947",
+    "category": "Neuropsychiatric source details",
+    "q": "What does focal arm movement before a bilateral convulsion imply in the PDF?",
+    "a": "A focal origin followed by bilateral spread, not proof that the event began as a generalized seizure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-1948",
+    "category": "Neuropsychiatric source details",
+    "q": "What rigid status-epilepticus drug ladder does the PDF give after a benzodiazepine?",
+    "a": "Phenytoin/fosphenytoin then barbiturate, in its simplified source sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "AES 2016 lists fosphenytoin, valproate or levetiracetam as reasonable second-phase options, with no clear superiority; further refractory therapy requires monitored specialist treatment.",
+      "url": "https://aesnet.org/clinical-care/clinical-guidance/guideline-prolonged-seizures"
+    }
+  },
+  {
+    "id": "s2fm-1949",
+    "category": "Neuropsychiatric source details",
+    "q": "What EEG finding and initial source treatment are associated with absence seizures?",
+    "a": "Generalized symmetric 3-Hz spike-wave and ethosuximide, a thalamic calcium-channel blocker in its explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-1950",
+    "category": "Neuropsychiatric source details",
+    "q": "What inheritance statement does the PDF make about West syndrome?",
+    "a": "It labels the syndrome X-linked recessive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "NINDS describes multiple causes of infantile spasms, including structural injury, metabolic disorders and genetic disorders; some have no identified cause. West syndrome is not universally X-linked.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2fm-1951",
+    "category": "Neuropsychiatric source details",
+    "q": "What medication does the source name for infantile spasms?",
+    "a": "ACTH; this is its source answer, not a complete etiology-specific treatment comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-1952",
+    "category": "Neuropsychiatric source details",
+    "q": "How does the PDF describe Lennox-Gastaut syndrome?",
+    "a": "Severe childhood-onset epilepsy with frequent seizures and cognitive regression/impairment; its fixed prognosis percentages remain source estimates.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-1953",
+    "category": "Neuropsychiatric source details",
+    "q": "What source pattern suggests juvenile myoclonic epilepsy?",
+    "a": "Morning or sleep-transition myoclonic jerks, often followed by tonic-clonic seizures in adolescence; it names valproate without a full reproductive-risk selection algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-1954",
+    "category": "Neuropsychiatric source details",
+    "q": "What threshold does the source use to flag a prolonged febrile seizure?",
+    "a": "More than 10 minutes in its source risk discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "AAP 2008 defines simple febrile seizures as generalized, under 15 minutes and once in 24 hours, in otherwise qualifying 6-60-month children. This older guideline addresses long-term management, not a full acute seizure algorithm.",
+      "url": "https://publications.aap.org/pediatrics/article-split/121/6/1281/72767/Febrile-Seizures-Clinical-Practice-Guideline-for"
+    }
+  },
+  {
+    "id": "s2fm-1955",
+    "category": "Neuropsychiatric source details",
+    "q": "Why can an arrhythmia cause movements mistaken for a seizure in the source?",
+    "a": "Transient cerebral hypoperfusion can produce brief jerks during syncope, including its Adams-Stokes example. A normal tongue alone does not establish the cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-1956",
+    "category": "Neuropsychiatric source details",
+    "q": "What anterior-horn findings does the source associate with infantile spinal muscular atrophy?",
+    "a": "Marked hypotonia, absent reflexes and tongue fasciculations, also named Werdnig-Hoffmann syndrome in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-1957",
+    "category": "Neuropsychiatric source details",
+    "q": "Which enzyme/cofactor defect does the source give for PKU?",
+    "a": "Phenylalanine hydroxylase deficiency, or rarely a tetrahydrobiopterin-related defect, impairing phenylalanine-to-tyrosine conversion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-1958",
+    "category": "Neuropsychiatric source details",
+    "q": "What source body-odor and pigmentation clues can accompany untreated PKU?",
+    "a": "Musty/mousy odor and lighter pigmentation relative to siblings, in its exam pattern; newborn detection prevents avoidable neurologic harm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-1959",
+    "category": "Neuropsychiatric source details",
+    "q": "Which developmental-regression behavior does the source emphasize for Rett syndrome?",
+    "a": "Hand-wringing/flapping and loss of prior skills. Its female-only wording remains a source simplification under review.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-1960",
+    "category": "Neuropsychiatric source details",
+    "q": "What gene/chromosome pairs does the source give for NF1 and NF2?",
+    "a": "NF1: chromosome 17; NF2: chromosome 22, with autosomal-dominant inheritance in its table.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-1961",
+    "category": "Neuropsychiatric source details",
+    "q": "What gene/protein pairs does the source give for tuberous sclerosis?",
+    "a": "TSC1/hamartin on chromosome 9 and TSC2/tuberin on chromosome 16.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-1962",
+    "category": "Neuropsychiatric source details",
+    "q": "Which pigment/skin findings supplement the source TSC facial angiofibromas?",
+    "a": "Ash-leaf hypopigmented macules, shagreen patches and subungual fibromas.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-1963",
+    "category": "Neuropsychiatric source details",
+    "q": "What hypoxia-related mechanism does the source give for VHL mutation?",
+    "a": "Constitutive hypoxia-inducible-factor signaling; it lists retinal/cerebellar hemangioblastomas, renal-cell cancers and pancreatic cysts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-1964",
+    "category": "Neuropsychiatric source details",
+    "q": "How does the source Rinne test compare sound transmission?",
+    "a": "Bone conduction at the mastoid is compared with air conduction at the ear canal. Normal/sensorineural ears retain air>bone; conductive loss can reverse the relation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-1965",
+    "category": "Neuropsychiatric source details",
+    "q": "Which way does Weber lateralize in unilateral conductive versus sensorineural loss?",
+    "a": "Toward the conductive-loss ear; away from the sensorineural-loss ear, in the source unilateral comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-1966",
+    "category": "Neuropsychiatric source details",
+    "q": "Which parasympathetic signs are listed in source DUMBBELSS?",
+    "a": "Diarrhea, urination, miosis, bradycardia, bronchoconstriction, lacrimation, salivation and sweating; the mnemonic also includes neuromuscular excitation, which is not a muscarinic effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-1967",
+    "category": "Neuropsychiatric source details",
+    "q": "Which medication classes contribute anticholinergic delirium/retention in the source?",
+    "a": "TCAs, first-generation H1 antihistamines and some antipsychotics; risk depends on the actual agent and patient, not a universal effect of every member.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-1968",
+    "category": "Neuropsychiatric source details",
+    "q": "What muscarinic agonist does the PDF name for a hypocontractile diabetic bladder?",
+    "a": "Bethanechol. This is the source association, not proof of benefit or appropriateness for all retention.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-1969",
+    "category": "Neuropsychiatric source details",
+    "q": "How is methacholine used in the source asthma workup?",
+    "a": "It provokes bronchoconstriction during controlled testing, not as treatment or during an acute attack.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-1970",
+    "category": "Neuropsychiatric source details",
+    "q": "What cholinesterase-inhibitor mechanism explains source MG treatment?",
+    "a": "Increased acetylcholine availability at the neuromuscular junction; pyridostigmine is the longer-acting symptomatic drug it names.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-1971",
+    "category": "Neuropsychiatric source details",
+    "q": "What source toxic exposure is treated with atropine/pralidoxime?",
+    "a": "Organophosphate acetylcholinesterase inhibition. The PDF stresses dermal exposure and gloves; actual exposure routes and emergency decontamination need broader context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-1972",
+    "category": "Neuropsychiatric source details",
+    "q": "Why can diphenhydramine treat an acute dystonic reaction despite being an H1 blocker?",
+    "a": "Its antimuscarinic effects are used for dopamine-blocker-associated acute dystonia in the source comparison with benztropine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-1973",
+    "category": "Neuropsychiatric source details",
+    "q": "Where does the PDF tell a traveler to place a scopolamine patch?",
+    "a": "On the arm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    },
+    "guideline": {
+      "text": "FDA 2025 TransdermScop labeling specifies a hairless area behind one ear, at least 4 hours before motion-sickness protection; the system is used up to 3 days.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/017874s053lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-1974",
+    "category": "Neuropsychiatric source details",
+    "q": "What two receptor actions does the source contrast for smoking-cessation medication?",
+    "a": "Bupropion inhibits norepinephrine/dopamine reuptake and is described as nicotinic-antagonistic; varenicline is a nicotinic partial agonist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-1975",
+    "category": "Neuropsychiatric source details",
+    "q": "Why does the source avoid bupropion in eating-disorder patients?",
+    "a": "It lowers seizure threshold; electrolyte abnormalities can further increase risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-1976",
+    "category": "Neuropsychiatric source details",
+    "q": "What adverse-effect triad does the source give for TCA toxicity?",
+    "a": "Coma, convulsions and cardiotoxicity. Its QT shorthand is not a full ECG/toxicology assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2fm-1977",
+    "category": "Neuropsychiatric source details",
+    "q": "Which reversal drug does the PDF name for benzodiazepine overdose?",
+    "a": "Flumazenil.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    },
+    "guideline": {
+      "text": "DailyMed labeling warns of seizures, especially benzodiazepine dependence/withdrawal and serious cyclic-antidepressant or mixed overdose. Flumazenil is not a universal safe overdose antidote.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a72d9fc1-121c-455d-93a9-002378c9968f"
+    }
+  },
+  {
+    "id": "s2fm-1978",
+    "category": "Neuropsychiatric source details",
+    "q": "How do gabapentin and TCAs overlap in the source pain table?",
+    "a": "Both are named for neuropathic pain, including diabetic neuropathy; patient-specific safety and alternatives are outside its short list.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2fm-1979",
+    "category": "Neuropsychiatric source details",
+    "q": "What ion-flow explanation does the source give for NMDA antagonism by memantine?",
+    "a": "Reduced excitatory glutamate-receptor-mediated ion flux, including calcium entry, in its source explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-1980",
+    "category": "Neuropsychiatric source details",
+    "q": "What additional adverse effect accompanies source aminoglycoside ototoxicity?",
+    "a": "Nephrotoxicity; vertigo or hearing loss can be the ototoxic presentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-1981",
+    "category": "Neuropsychiatric source details",
+    "q": "What is cinchonism in the source quinidine discussion?",
+    "a": "Headache and tinnitus, among its characteristic toxicity clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-1982",
+    "category": "Neuropsychiatric source details",
+    "q": "What retinal-enzyme mechanism does the source propose for sildenafil blue vision?",
+    "a": "Off-target PDE6 inhibition, contrasted with its PDE5 therapeutic target.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-1983",
+    "category": "Neuropsychiatric source details",
+    "q": "What pilot waiting interval does the PDF give after sildenafil?",
+    "a": "Three hours, in its source claim.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    },
+    "guideline": {
+      "text": "FAA current examiner guide requires a minimum 8-hour waiting period after sildenafil before pilot duties. Do not rely on the PDF 3-hour figure.",
+      "url": "https://www.faa.gov/ame_guide/pharm/ed"
+    }
+  },
+  {
+    "id": "s2fm-1984",
+    "category": "Neuropsychiatric source details",
+    "q": "What core symptom condition is missing from merely counting five depression symptoms?",
+    "a": "At least depressed mood or loss of interest/pleasure must be present, with appropriate duration, impairment and exclusions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    },
+    "guideline": {
+      "text": "NIMH describes symptoms most of the day nearly every day for at least 2 weeks, including depressed mood or loss of interest/pleasure; a vignette shortcut does not replace assessment.",
+      "url": "https://www.nimh.nih.gov/health/publications/depression"
+    }
+  },
+  {
+    "id": "s2fm-1985",
+    "category": "Neuropsychiatric source details",
+    "q": "What treatment groups does the source name for depression?",
+    "a": "Psychotherapy/CBT, SSRIs and selected ECT; its table is not an indication/safety algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-1986",
+    "category": "Neuropsychiatric source details",
+    "q": "How does atypical depression mood reactivity differ from constant nonreactive low mood?",
+    "a": "Positive events can temporarily improve mood, alongside hypersomnia/hyperphagia in the source pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-1987",
+    "category": "Neuropsychiatric source details",
+    "q": "What does source DIGFAST capture beyond low sleep need?",
+    "a": "Distractibility, impulsivity, grandiosity, flight of ideas, increased activity and pressured talkativeness, alongside decreased need for sleep.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-1988",
+    "category": "Neuropsychiatric source details",
+    "q": "How does functional impairment distinguish source mania from hypomania?",
+    "a": "Mania causes marked impairment, hospitalization or possible psychosis; hypomania does not cause the same marked impairment/psychosis in its comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-1989",
+    "category": "Neuropsychiatric source details",
+    "q": "How can increased LFTs help distinguish source tremor-causing mood stabilizers?",
+    "a": "The PDF associates liver injury plus tremor with valproate, versus lithium tremor with renal/thyroid effects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-1990",
+    "category": "Neuropsychiatric source details",
+    "q": "What duration categories distinguish source brief psychotic disorder and schizophreniform disorder?",
+    "a": "Under 1 month versus 1-6 months, with the source contrasting schizophrenia at 6 months or longer; minimum duration and exclusion criteria still matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-1991",
+    "category": "Neuropsychiatric source details",
+    "q": "What negative symptoms does the source list in schizophrenia?",
+    "a": "Blunted affect, diminished speech, anhedonia and reduced function, contrasted with hallucinations/delusions and disorganization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2fm-1992",
+    "category": "Neuropsychiatric source details",
+    "q": "What timing relation differentiates mood disorder with psychotic features from source schizoaffective disorder?",
+    "a": "Psychosis confined to mood episodes versus at least 2 weeks outside a major mood episode, respectively; full longitudinal mood burden also needs assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2fm-1993",
+    "category": "Neuropsychiatric source details",
+    "q": "What loose duration boundary does the PDF give for pathologic grief?",
+    "a": "Persistent impairment beyond 6-12 months, in its simplified normal/pathologic contrast.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "APA describes prolonged-grief-disorder diagnosis after at least 12 months in adults or 6 months in children/adolescents, with required symptoms, impairment and cultural context. Duration alone does not diagnose it.",
+      "url": "https://www.psychiatry.org/patients-families/prolonged-grief-disorder"
+    }
+  },
+  {
+    "id": "s2fm-1994",
+    "category": "Neuropsychiatric source details",
+    "q": "Which breathing maneuver does the PDF explicitly reject for panic hyperventilation?",
+    "a": "Breathing into a paper bag. Its source favors breathing exercises; cardiopulmonary mimics require appropriate assessment rather than automatic panic labeling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-1995",
+    "category": "Neuropsychiatric source details",
+    "q": "What universal drug sequence does the source give for social anxiety?",
+    "a": "Beta-blocker first, benzodiazepine when asthma precludes it, in its performance-vignette shortcut.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "NICE CG159 recommends disorder-specific individual CBT for adults and does not routinely offer benzodiazepines. Performance-only symptoms and generalized social-anxiety disorder need a distinction.",
+      "url": "https://www.nice.org.uk/guidance/cg159/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2fm-1996",
+    "category": "Neuropsychiatric source details",
+    "q": "What source symptom distinguishes separation anxiety from selective mutism?",
+    "a": "Attachment/separation-related distress with somatic symptoms versus consistent lack of speech in specific settings despite speech elsewhere.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-1997",
+    "category": "Neuropsychiatric source details",
+    "q": "Can source OCD be diagnosed only when both obsessions and compulsions are present?",
+    "a": "No. It describes obsessions and/or compulsions causing distress or functional interference; its ego-dystonic shortcut is not a complete insight spectrum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-1998",
+    "category": "Neuropsychiatric source details",
+    "q": "How does the source distinguish antisocial behavior from antisocial personality disorder?",
+    "a": "A single violation does not by itself establish the pervasive longitudinal personality pattern; the source requires adult diagnosis and earlier conduct-disorder evidence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-family-medicine.pdf#page=176"
+    }
   }
 ];
