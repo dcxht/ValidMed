@@ -40122,7 +40122,11 @@ export default [
     "sourcePages": [
       168,
       190
-    ]
+    ],
+    "guideline": {
+      "text": "FDA diphenhydramine injection labeling (2013, explicitly dated) describes an antihistamine with anticholinergic/sedative effects and a motion-sickness indication. It does not establish the source M3-only explanation. CDC Yellow Book 2026 describes effective motion-sickness drugs as centrally acting agents, including antimuscarinics and H1 antihistamines; receptor-subtype exclusivity is not verified here.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/091526lbl.pdf"
+    }
   },
   {
     "id": "s2fm-3164",
@@ -40750,6 +40754,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 192,
       "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    },
+    "guideline": {
+      "text": "Guideline eligibility varies. NICE NG25 discusses magnesium neuroprotection at 23+0-23+6 weeks, offers it at 24+0-29+6 and considers it at 30+0-33+6 when established preterm labor or planned birth within 24 hours is present. These UK recommendations are not a silent replacement for a US local protocol; they show why the source before-32-weeks shortcut is not the entire timing/eligibility decision.",
+      "url": "https://www.nice.org.uk/guidance/ng25/chapter/recommendations"
     }
   },
   {
@@ -42508,6 +42516,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 270,
       "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "NICE NG78 bases CF respiratory-infection treatment on identified organism, new versus chronic infection, clinical status and severity. Its Staphylococcus and Pseudomonas pathways are not selected solely by a tenth-birthday cutoff. This note addresses the CF age heuristic, not every community-pneumonia antibiotic question in the source.",
+      "url": "https://www.nice.org.uk/guidance/NG78/chapter/recommendations"
     }
   },
   {
