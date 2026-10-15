@@ -19739,5 +19739,176 @@ export default [
       "text": "A 2024 review defines cough-variant asthma as cough without wheeze, chest tightness or dyspnea and estimates it causes 25 to 42% of chronic-cough cases; it does not verify that one-third of all asthma patients have it. Typical triggers include cold air and allergens, and many patients have normal spirometry.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12180285/"
     }
+  },
+  {
+    "id": "s2peds-1391",
+    "category": "Pediatric dermatology",
+    "q": "What treatment pair does p98 give for eczema?",
+    "a": "Oil-based emollient plus a topical corticosteroid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "AAP calls emollients the cornerstone of atopic-dermatitis treatment and uses a topical corticosteroid twice daily during inflammatory flares until improvement, then continues moisturizer regularly.",
+      "url": "https://www.aap.org/en/patient-care/atopic-dermatitis/treatment-of-atopic-dermatitis/"
+    }
+  },
+  {
+    "id": "s2peds-1392",
+    "category": "Pediatric dermatology",
+    "q": "What dermal risk does the source give after continuous topical-steroid use?",
+    "a": "The source says steroid use for more than 5-7 days continuously may cause thinning of the dermis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "AAP says appropriately used topical corticosteroids are very safe, but excess potency, inappropriate site or excessive duration can cause atrophy and striae. It generally prescribes 2-3 weeks for a flare and allows longer limits by potency, so do not treat 5-7 days as a universal stop rule.",
+      "url": "https://www.aap.org/en/patient-care/atopic-dermatitis/treatment-of-atopic-dermatitis/corticosteroids-for-atopic-dermatitis/"
+    }
+  },
+  {
+    "id": "s2peds-1393",
+    "category": "Pediatric dermatology",
+    "q": "Which eruption is shown by the p98 photograph of raised, well-demarcated wheals?",
+    "a": "Urticaria.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck describes urticaria as migratory, well-circumscribed, pruritic plaques and classifies acute disease as lasting under 6 weeks.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/approach-to-the-dermatologic-patient/urticaria"
+    },
+    "img": "/mehlman/figures/peds-p098-urticaria.png",
+    "imgAlt": "Actual source photograph of urticarial wheals"
+  },
+  {
+    "id": "s2peds-1394",
+    "category": "Pediatric allergy/immunology",
+    "q": "What alternate name and hypersensitivity class does the source give for urticaria?",
+    "a": "Hives, classified by the source as type I hypersensitivity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck says acute urticaria most often results from type I hypersensitivity, with IgE-bound allergen activating mast cells and basophils. Some cases are autoimmune or directly nonimmune-mediated.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/approach-to-the-dermatologic-patient/urticaria"
+    }
+  },
+  {
+    "id": "s2peds-1395",
+    "category": "Pediatric allergy/immunology",
+    "q": "Which precipitating allergens does p98 list for urticaria?",
+    "a": "Pollen, pet dander and drugs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck lists medications, triggering foods, insect bites or stings and infections among common acute-urticaria triggers; the source's pollen and pet-dander examples fit the broader allergen category but are not an exhaustive list.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/approach-to-the-dermatologic-patient/urticaria"
+    }
+  },
+  {
+    "id": "s2peds-1396",
+    "category": "Pediatric dermatology",
+    "q": "Which diagnosis is shown by the p98 target-like erythematous lesions?",
+    "a": "Erythema multiforme.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck describes erythema multiforme as target or iris lesions, often with a violaceous center and pink halo separated by a pale ring, sometimes involving palms and soles.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/erythema-multiforme"
+    },
+    "img": "/mehlman/figures/peds-p098-erythema-multiforme.png",
+    "imgAlt": "Actual source photograph of erythema multiforme target-like lesions"
+  },
+  {
+    "id": "s2peds-1397",
+    "category": "Pediatric dermatology",
+    "q": "How does the source classify erythema multiforme and what classic cause does it give?",
+    "a": "The source calls it an immune-complex-mediated type III hypersensitivity rash and names HSV-1 or HSV-2 infection as the classic cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck says HSV is the most common trigger, especially HSV-1, but describes HSV-associated erythema multiforme as a Th1 T-cell-mediated cytotoxic reaction rather than a classic type-III immune-complex disease.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/erythema-multiforme"
+    }
+  },
+  {
+    "id": "s2peds-1398",
+    "category": "Pediatric dentistry",
+    "q": "Which lesion is shown by the p98 shallow ulcer with a pale center and red rim on the oral mucosa?",
+    "a": "Aphthous ulcer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck describes aphthous ulcers as well-demarcated, shallow, round or ovoid lesions with a yellow-gray pseudomembrane, red halo and slightly raised margins.",
+      "url": "https://www.merckmanuals.com/professional/dental-disorders/symptoms-of-dental-and-oral-disorders/recurrent-aphthous-stomatitis"
+    },
+    "img": "/mehlman/figures/peds-p098-aphthous-ulcer.png",
+    "imgAlt": "Actual source photograph of an aphthous ulcer on oral mucosa"
+  },
+  {
+    "id": "s2peds-1399",
+    "category": "Pediatric dentistry",
+    "q": "What alternate name, treatment and viral distinction does p98 give for aphthous ulcer?",
+    "a": "Aphthous stomatitis; the source says no treatment is necessary and it is not related to HSV-1 or HSV-2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck says minor aphthous ulcers usually heal in about 10 days without scarring, but topical glucocorticoids are the mainstay when symptomatic treatment is used. Herpetiform morphology is unrelated to herpesvirus.",
+      "url": "https://www.merckmanuals.com/professional/dental-disorders/symptoms-of-dental-and-oral-disorders/recurrent-aphthous-stomatitis"
+    }
+  },
+  {
+    "id": "s2peds-1400",
+    "category": "Pediatric dentistry",
+    "q": "What etiology and trigger pattern does p98 give for aphthous ulcer?",
+    "a": "A multifactorial, T-cell-mediated process that can be precipitated by allergens such as spice.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Merck says etiology is unclear and damage is predominantly T-cell-mediated, with cytokines including IL-2, IL-10 and TNF-alpha. Certain foods can exacerbate symptoms, but studies do not directly establish food allergy as the cause.",
+      "url": "https://www.merckmanuals.com/professional/dental-disorders/symptoms-of-dental-and-oral-disorders/recurrent-aphthous-stomatitis"
+    }
+  },
+  {
+    "id": "s2peds-1401",
+    "category": "Pediatric dermatology",
+    "q": "Which condition heading begins at the bottom of p98 and continues on p99?",
+    "a": "Aplasia cutis congenita. The p98 source gives only the heading; its scalp-skin and methimazole details continue on p99.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 98,
+      "url": "/mehlman/hy-pediatrics.pdf#page=98"
+    },
+    "guideline": {
+      "text": "DermNet defines aplasia cutis congenita as congenital absence of skin, most commonly a scalp defect, and lists methimazole among teratogenic associations. The p98 card preserves only the page-boundary heading; p99 handles the source continuation.",
+      "url": "https://dermnetnz.org/topics/aplasia-cutis"
+    }
   }
 ];
