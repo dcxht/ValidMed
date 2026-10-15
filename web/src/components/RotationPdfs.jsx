@@ -1,3 +1,4 @@
+import { BANKS } from "../data/banks";
 const SOURCE = "https://freestuff.mehlmanmedical.com";
 const ROTATIONS = [
   { name: "Family Medicine", pdf: "hy-family-medicine", title: "HY Family Medicine" },
@@ -15,7 +16,7 @@ export default function RotationPdfs({ view }) {
       <div className="rotation-intro">
         <h2 id="rotation-title">{view === "step2" ? "Step 2 CK review" : "Rotation shelves"}</h2>
         <p>{view === "step2" ? "Review the clinical subjects across your rotations." : "Mehlman PDFs, in rotation order."}</p>
-        <p className="rotation-status">FM practice is live: 42 cards from selected clinical points on pp. 4-16. More pages and rotations are in progress.</p>
+        <p className="rotation-status">FM practice: {BANKS.s2fm.questions.length} source-linked cards. {BANKS.s2fm.coverage} Other rotations are in progress.</p>
         <p className="rotation-note">Full PDFs may include both Step 1 and Step 2 material. This view groups them for shelf prep; it does not filter their contents.</p>
       </div>
       <div className="rotation-list">
@@ -25,7 +26,7 @@ export default function RotationPdfs({ view }) {
             <div className="rotation-detail">
               <h3>{rotation.name}</h3>
               <p>{rotation.title} <span className="rotation-author">by Mehlman Medical</span></p>
-              {index === 0 && <a className="rotation-practice" href="#practice">Practice FM · 42 questions →</a>}
+              {index === 0 && <a className="rotation-practice" href="#practice">Practice FM · {BANKS.s2fm.questions.length} questions →</a>}
               <div className="rotation-links">
                 <a className="rotation-open" href={`/mehlman/${rotation.pdf}.pdf`} target="_blank" rel="noreferrer">Open PDF <span aria-hidden="true">↗</span></a>
                 <a className="rotation-source" href={`${SOURCE}/documents/${rotation.pdf}`} target="_blank" rel="noreferrer">Official source</a>
