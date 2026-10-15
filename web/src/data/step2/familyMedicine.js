@@ -28801,5 +28801,110 @@ export default [
       "text": "MedlinePlus Genetics describes a chromosome-7 deletion involving multiple genes, including ELN. Most cases are new rather than inherited, although the condition is autosomal dominant when transmitted. ELN loss helps explain vascular findings but is not the whole deletion.",
       "url": "https://medlineplus.gov/genetics/condition/williams-syndrome/"
     }
+  },
+  {
+    "id": "s2fm-2459",
+    "category": "Sleep medicine source review",
+    "q": "What progression does the PDF use to define obesity hypoventilation syndrome?",
+    "a": "OSA progressing to chronic CO2 retention with pulmonary hypertension and/or cor pulmonale.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "ATS 2019 defines OHS by obesity, sleep-disordered breathing and awake resting PaCO2 at least 45 mm Hg after excluding other causes. Pulmonary hypertension or cor pulmonale may be complications but are not required defining criteria.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6680300/"
+    }
+  },
+  {
+    "id": "s2fm-2460",
+    "category": "Sleep medicine source review",
+    "q": "What mechanism does the PDF assign to modafinil in its narcolepsy treatment entry?",
+    "a": "Dopamine reuptake inhibition plus promotion of hypothalamic orexin release.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "The current retrieved PROVIGIL label states the wake-promoting mechanism is unknown and documents dopamine-transporter binding/reuptake inhibition. It does not establish orexin release as a proven clinical mechanism.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7"
+    }
+  },
+  {
+    "id": "s2fm-2461",
+    "category": "Sleep medicine source review",
+    "q": "What treatment options does the PDF give for restless legs after normal iron studies?",
+    "a": "Gabapentin or dopamine D2 agonists such as ropinirole/pramipexole.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "AASM 2025 strongly recommends gabapentin, gabapentin enacarbil and pregabalin for adults and suggests against standard pramipexole/ropinirole use because of long-term augmentation risk. Iron assessment includes ferritin and transferrin saturation, with RLS-specific thresholds.",
+      "url": "https://aasm.org/wp-content/uploads/2025/11/RLS-and-PLMD-Guideline-at-a-Glance-2025.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2462",
+    "category": "Sleep medicine source review",
+    "q": "What drug does the PDF emphasize for acute insomnia?",
+    "a": "A benzodiazepine, usually clonazepam.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "AASM 2021 strongly recommends multicomponent CBT-I for chronic adult insomnia. That is a different scope from a short acute episode and does not support a universal clonazepam-first rule. Assessment and medication risks still matter.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/"
+    }
+  },
+  {
+    "id": "s2fm-2463",
+    "category": "Perinatal psychiatry source review",
+    "q": "What blanket lithium rule does the PDF give for bipolar disorder during pregnancy?",
+    "a": "Avoid lithium because of teratogenic effects, highlighting Ebstein anomaly.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "ACOG CPG5 (2023), read in a full guideline copy hosted by the Policy Center for Maternal Mental Health, recommends against discontinuing mood stabilizers other than valproate solely for pregnancy. Lithium requires risk-benefit discussion, level monitoring and a detailed second-trimester ultrasound after first-trimester exposure, not an automatic stop.",
+      "url": "https://cdn.policycentermmh.org/2026/09/2023-ACOG-guideline-Treatment-and-Management-of-Mental-Health-Conditions-During-Pregnancy-and-Postpartum_ACOG-Clinical-Practice-Guideline-No.-5_.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2464",
+    "category": "Perinatal psychiatry source review",
+    "q": "Which SSRI does the PDF name first for depression during pregnancy?",
+    "a": "Sertraline, attributed to its lower risk profile.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "ACOG CPG5 (2023), read in an externally hosted full copy, individualizes treatment based on prior response. With no pharmacotherapy history, sertraline or escitalopram are reasonable first-line choices; psychotherapy is first-line for mild-to-moderate perinatal depression.",
+      "url": "https://cdn.policycentermmh.org/2026/09/2023-ACOG-guideline-Treatment-and-Management-of-Mental-Health-Conditions-During-Pregnancy-and-Postpartum_ACOG-Clinical-Practice-Guideline-No.-5_.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2465",
+    "category": "Perinatal psychiatry source review",
+    "q": "Which alternatives does the PDF name for bipolar disorder when planning pregnancy or during pregnancy?",
+    "a": "Lamotrigine, olanzapine or quetiapine, while avoiding valproate and lithium in its shortcut.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "ACOG CPG5 (2023), read in an externally hosted full copy, supports continuing effective mood stabilizers other than valproate when appropriate and tailoring therapy to bipolar subtype, prior response and risks. These three source drugs are not a universal replacement list for every patient.",
+      "url": "https://cdn.policycentermmh.org/2026/09/2023-ACOG-guideline-Treatment-and-Management-of-Mental-Health-Conditions-During-Pregnancy-and-Postpartum_ACOG-Clinical-Practice-Guideline-No.-5_.pdf"
+    }
   }
 ];
