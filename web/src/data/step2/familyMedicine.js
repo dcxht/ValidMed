@@ -4119,7 +4119,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=106"
     },
     "sourcePages": [
-      106
+      106,
+      227
     ]
   },
   {
@@ -8930,7 +8931,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 209,
       "url": "/mehlman/hy-family-medicine.pdf#page=209"
-    }
+    },
+    "sourcePages": [
+      209,
+      260
+    ]
   },
   {
     "id": "s2fm-0742",
@@ -8941,7 +8946,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 209,
       "url": "/mehlman/hy-family-medicine.pdf#page=209"
-    }
+    },
+    "sourcePages": [
+      209,
+      260
+    ]
   },
   {
     "id": "s2fm-0743",
@@ -9130,7 +9139,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
     },
     "sourcePages": [
-      212
+      212,
+      260
     ]
   },
   {
@@ -9142,7 +9152,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 212,
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
-    }
+    },
+    "sourcePages": [
+      212,
+      260
+    ]
   },
   {
     "id": "s2fm-0760",
@@ -9168,7 +9182,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 212,
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
-    }
+    },
+    "sourcePages": [
+      212,
+      260
+    ]
   },
   {
     "id": "s2fm-0762",
@@ -9587,7 +9605,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 222,
       "url": "/mehlman/hy-family-medicine.pdf#page=222"
-    }
+    },
+    "sourcePages": [
+      222,
+      261
+    ]
   },
   {
     "id": "s2fm-0799",
@@ -9609,7 +9631,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 222,
       "url": "/mehlman/hy-family-medicine.pdf#page=222"
-    }
+    },
+    "sourcePages": [
+      222,
+      263,
+      264
+    ]
   },
   {
     "id": "s2fm-0801",
@@ -9620,7 +9647,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 223,
       "url": "/mehlman/hy-family-medicine.pdf#page=223"
-    }
+    },
+    "sourcePages": [
+      223,
+      262
+    ]
   },
   {
     "id": "s2fm-0802",
@@ -9669,7 +9700,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
     },
     "sourcePages": [
-      224
+      224,
+      263
     ]
   },
   {
@@ -9681,7 +9713,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 225,
       "url": "/mehlman/hy-family-medicine.pdf#page=225"
-    }
+    },
+    "sourcePages": [
+      225,
+      263
+    ]
   },
   {
     "id": "s2fm-0807",
@@ -9692,7 +9728,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 225,
       "url": "/mehlman/hy-family-medicine.pdf#page=225"
-    }
+    },
+    "sourcePages": [
+      225,
+      263
+    ]
   },
   {
     "id": "s2fm-0808",
@@ -9731,7 +9771,7 @@ export default [
     "id": "s2fm-0811",
     "category": "Musculoskeletal",
     "q": "Which SLE antibody does the source link with disease activity and renal disease, and which is highly specific?",
-    "a": "Anti-dsDNA is associated with activity/nephritis; anti-Smith is highly specific.",
+    "a": "Anti-dsDNA is associated with activity/nephritis; anti-Smith is highly specific. The PDF describes Smith as a ribonucleoprotein antibody.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 227,
@@ -9772,7 +9812,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
-    }
+    },
+    "sourcePages": [
+      228,
+      261,
+      262
+    ]
   },
   {
     "id": "s2fm-0815",
@@ -9783,7 +9828,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
-    }
+    },
+    "sourcePages": [
+      228,
+      245,
+      246
+    ]
   },
   {
     "id": "s2fm-0816",
@@ -10178,7 +10228,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 236,
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
-    }
+    },
+    "sourcePages": [
+      236
+    ]
   },
   {
     "id": "s2fm-0848",
@@ -10236,7 +10289,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 237,
       "url": "/mehlman/hy-family-medicine.pdf#page=237"
-    }
+    },
+    "sourcePages": [
+      237,
+      259
+    ]
   },
   {
     "id": "s2fm-0853",
@@ -10302,7 +10359,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 237,
       "url": "/mehlman/hy-family-medicine.pdf#page=237"
-    }
+    },
+    "sourcePages": [
+      237,
+      258
+    ]
   },
   {
     "id": "s2fm-0859",
@@ -10346,7 +10407,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 238,
       "url": "/mehlman/hy-family-medicine.pdf#page=238"
-    }
+    },
+    "sourcePages": [
+      238,
+      259
+    ]
   },
   {
     "id": "s2fm-0863",
@@ -10361,7 +10426,11 @@ export default [
     "guideline": {
       "text": "NIDDK guidance: desmopressin replaces deficient vasopressin in central DI. Preventing dehydration is important; this is not an instruction to restrict drinking.",
       "url": "https://www.niddk.nih.gov/health-information/kidney-disease/diabetes-insipidus"
-    }
+    },
+    "sourcePages": [
+      238,
+      259
+    ]
   },
   {
     "id": "s2fm-0864",
@@ -10526,7 +10595,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
-    }
+    },
+    "sourcePages": [
+      240,
+      258
+    ]
   },
   {
     "id": "s2fm-0878",
@@ -10537,7 +10610,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
-    }
+    },
+    "sourcePages": [
+      240,
+      258
+    ]
   },
   {
     "id": "s2fm-0879",
@@ -10727,7 +10804,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 242,
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
-    }
+    },
+    "sourcePages": [
+      242,
+      258
+    ]
   },
   {
     "id": "s2fm-0896",
@@ -10864,7 +10945,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 245,
       "url": "/mehlman/hy-family-medicine.pdf#page=245"
-    }
+    },
+    "sourcePages": [
+      245,
+      254,
+      255
+    ]
   },
   {
     "id": "s2fm-0908",
@@ -10875,7 +10961,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 245,
       "url": "/mehlman/hy-family-medicine.pdf#page=245"
-    }
+    },
+    "sourcePages": [
+      245
+    ]
   },
   {
     "id": "s2fm-0909",
@@ -10897,7 +10986,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 245,
       "url": "/mehlman/hy-family-medicine.pdf#page=245"
-    }
+    },
+    "duplicateOf": "s2fm-0815"
   },
   {
     "id": "s2fm-0911",
@@ -10908,7 +10998,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 246,
       "url": "/mehlman/hy-family-medicine.pdf#page=246"
-    }
+    },
+    "duplicateOf": "s2fm-2142"
   },
   {
     "id": "s2fm-0912",
@@ -11022,7 +11113,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 247,
       "url": "/mehlman/hy-family-medicine.pdf#page=247"
-    }
+    },
+    "sourcePages": [
+      247
+    ]
   },
   {
     "id": "s2fm-0922",
@@ -11088,7 +11182,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 249,
       "url": "/mehlman/hy-family-medicine.pdf#page=249"
-    }
+    },
+    "sourcePages": [
+      249
+    ]
   },
   {
     "id": "s2fm-0928",
@@ -11121,7 +11218,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 249,
       "url": "/mehlman/hy-family-medicine.pdf#page=249"
-    }
+    },
+    "sourcePages": [
+      249
+    ]
   },
   {
     "id": "s2fm-0931",
@@ -11165,7 +11265,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 250,
       "url": "/mehlman/hy-family-medicine.pdf#page=250"
-    }
+    },
+    "sourcePages": [
+      250
+    ]
   },
   {
     "id": "s2fm-0935",
@@ -11281,12 +11384,15 @@ export default [
     "id": "s2fm-0945",
     "category": "Endocrine",
     "q": "Perioral pigmentation, cardiac myxoma and endocrine hypersecretion suggest which complex?",
-    "a": "Carney complex. The source contrasts it with Peutz-Jeghers syndrome and its GI hamartomatous polyps.",
+    "a": "Carney complex. The source contrasts it with Peutz-Jeghers syndrome and its GI hamartomatous polyps. Pigmentation alone does not diagnose either syndrome.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 251,
       "url": "/mehlman/hy-family-medicine.pdf#page=251"
-    }
+    },
+    "sourcePages": [
+      251
+    ]
   },
   {
     "id": "s2fm-0946",
@@ -11330,7 +11436,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 252,
       "url": "/mehlman/hy-family-medicine.pdf#page=252"
-    }
+    },
+    "sourcePages": [
+      252
+    ]
   },
   {
     "id": "s2fm-0950",
@@ -11453,12 +11562,15 @@ export default [
     "id": "s2fm-0960",
     "category": "Endocrine",
     "q": "Which source secondary causes of diabetes involve pancreatic destruction or hormone-induced insulin resistance?",
-    "a": "Chronic pancreatitis/pancreatectomy or iron overload can damage islets; glucocorticoid excess and acromegaly cause insulin resistance.",
+    "a": "Chronic pancreatitis/pancreatectomy or iron overload can damage islets; glucocorticoid excess and acromegaly cause insulin resistance. The source also names tacrolimus; more than one mechanism can coexist.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 254,
       "url": "/mehlman/hy-family-medicine.pdf#page=254"
-    }
+    },
+    "sourcePages": [
+      254
+    ]
   },
   {
     "id": "s2fm-0961",
@@ -11619,7 +11731,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 256,
       "url": "/mehlman/hy-family-medicine.pdf#page=256"
-    }
+    },
+    "sourcePages": [
+      256
+    ]
   },
   {
     "id": "s2fm-0975",
@@ -11647,12 +11762,15 @@ export default [
     "id": "s2fm-0977",
     "category": "Acid-base",
     "q": "Diarrhea or laxative overuse causes bicarbonate and potassium loss. Which acid-base pattern is described?",
-    "a": "Normal-anion-gap, hyperchloremic metabolic acidosis with possible hypokalemia.",
+    "a": "Normal-anion-gap, hyperchloremic metabolic acidosis with possible hypokalemia. Relative chloride retention maintains charge balance as bicarbonate is lost.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 257,
       "url": "/mehlman/hy-family-medicine.pdf#page=257"
-    }
+    },
+    "sourcePages": [
+      257
+    ]
   },
   {
     "id": "s2fm-0978",
@@ -11678,7 +11796,11 @@ export default [
     "guideline": {
       "text": "FDA GLUMETZA label revised August 2026: contraindicated below eGFR 30 mL/min/1.73m2; do not initiate at 30-45; reassess continuation below 45 and stop below 30.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
-    }
+    },
+    "sourcePages": [
+      257,
+      258
+    ]
   },
   {
     "id": "s2fm-0980",
@@ -11757,12 +11879,15 @@ export default [
     "id": "s2fm-0986",
     "category": "Pharmacology",
     "q": "What are the source actions of the amylin analog pramlintide?",
-    "a": "Suppresses glucagon, slows gastric emptying and promotes satiety, limiting postprandial glucose rise.",
+    "a": "Suppresses glucagon, slows gastric emptying and promotes satiety, limiting postprandial glucose rise. The source describes amylin as co-secreted with insulin; this adjunct does not replace insulin.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 258,
       "url": "/mehlman/hy-family-medicine.pdf#page=258"
-    }
+    },
+    "sourcePages": [
+      258
+    ]
   },
   {
     "id": "s2fm-0987",
@@ -11779,12 +11904,15 @@ export default [
     "id": "s2fm-0988",
     "category": "Pharmacology",
     "q": "Fever and oral ulcers follow thionamide treatment. Which serious adverse effect must be considered?",
-    "a": "Drug-induced neutropenia/agranulocytosis.",
+    "a": "Drug-induced neutropenia/agranulocytosis. This needs urgent assessment rather than assuming a routine viral sore throat.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 258,
       "url": "/mehlman/hy-family-medicine.pdf#page=258"
-    }
+    },
+    "sourcePages": [
+      258
+    ]
   },
   {
     "id": "s2fm-0989",
@@ -19593,7 +19721,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
-    }
+    },
+    "sourcePages": [
+      78,
+      259
+    ]
   },
   {
     "id": "s2fm-1645",
@@ -24925,7 +25057,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 209,
       "url": "/mehlman/hy-family-medicine.pdf#page=209"
-    }
+    },
+    "sourcePages": [
+      209,
+      260
+    ]
   },
   {
     "id": "s2fm-2087",
@@ -25385,7 +25521,11 @@ export default [
     "guideline": {
       "text": "AAOS 2022 consensus prefers a sling in most acute clavicle fractures rather than a figure-of-eight brace. Specific fracture indications may require other management.",
       "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/clavicle-fractures/clavicle-fractures-cpg.pdf"
-    }
+    },
+    "sourcePages": [
+      222,
+      264
+    ]
   },
   {
     "id": "s2fm-2125",
@@ -25452,7 +25592,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 224,
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
-    }
+    },
+    "sourcePages": [
+      224,
+      263
+    ]
   },
   {
     "id": "s2fm-2131",
@@ -25467,7 +25611,11 @@ export default [
     "guideline": {
       "text": "AAOS describes age-, stage- and damage-directed observation, symptomatic care, casting/bracing or selected containment surgery/osteotomy for childhood Perthes disease. Routine hip replacement is not its childhood treatment pathway.",
       "url": "https://www.orthoinfo.org/diseases--conditions/perthes-disease/"
-    }
+    },
+    "sourcePages": [
+      225,
+      263
+    ]
   },
   {
     "id": "s2fm-2132",
@@ -25597,7 +25745,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
-    }
+    },
+    "sourcePages": [
+      228,
+      246
+    ]
   },
   {
     "id": "s2fm-2143",
@@ -26280,7 +26432,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 247,
       "url": "/mehlman/hy-family-medicine.pdf#page=247"
-    }
+    },
+    "duplicateOf": "s2fm-0921"
   },
   {
     "id": "s2fm-2200",
@@ -26321,7 +26474,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 249,
       "url": "/mehlman/hy-family-medicine.pdf#page=249"
-    }
+    },
+    "duplicateOf": "s2fm-0927"
   },
   {
     "id": "s2fm-2203",
@@ -26332,7 +26486,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 249,
       "url": "/mehlman/hy-family-medicine.pdf#page=249"
-    }
+    },
+    "duplicateOf": "s2fm-0930"
   },
   {
     "id": "s2fm-2204",
@@ -26354,7 +26509,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 250,
       "url": "/mehlman/hy-family-medicine.pdf#page=250"
-    }
+    },
+    "duplicateOf": "s2fm-0934"
   },
   {
     "id": "s2fm-2206",
@@ -26409,7 +26565,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 251,
       "url": "/mehlman/hy-family-medicine.pdf#page=251"
-    }
+    },
+    "duplicateOf": "s2fm-0945"
   },
   {
     "id": "s2fm-2211",
@@ -26420,7 +26577,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 252,
       "url": "/mehlman/hy-family-medicine.pdf#page=252"
-    }
+    },
+    "duplicateOf": "s2fm-0949"
   },
   {
     "id": "s2fm-2212",
@@ -26488,7 +26646,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 254,
       "url": "/mehlman/hy-family-medicine.pdf#page=254"
-    }
+    },
+    "duplicateOf": "s2fm-0960"
   },
   {
     "id": "s2fm-2217",
@@ -26552,7 +26711,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 256,
       "url": "/mehlman/hy-family-medicine.pdf#page=256"
-    }
+    },
+    "duplicateOf": "s2fm-0974"
   },
   {
     "id": "s2fm-2222",
@@ -26574,7 +26734,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 257,
       "url": "/mehlman/hy-family-medicine.pdf#page=257"
-    }
+    },
+    "duplicateOf": "s2fm-0977"
   },
   {
     "id": "s2fm-2224",
@@ -26608,7 +26769,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 258,
       "url": "/mehlman/hy-family-medicine.pdf#page=258"
-    }
+    },
+    "duplicateOf": "s2fm-0986"
   },
   {
     "id": "s2fm-2227",
@@ -26619,7 +26781,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 258,
       "url": "/mehlman/hy-family-medicine.pdf#page=258"
-    }
+    },
+    "duplicateOf": "s2fm-0988"
   },
   {
     "id": "s2fm-2228",
@@ -26696,7 +26859,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 262,
       "url": "/mehlman/hy-family-medicine.pdf#page=262"
-    }
+    },
+    "sourcePages": [
+      262
+    ]
   },
   {
     "id": "s2fm-2235",
@@ -28930,7 +29096,11 @@ export default [
     "guideline": {
       "text": "ADA patient guidance says dawn phenomenon and waning insulin are more common explanations; Somogyi is rare. Bedtime, overnight and morning glucose or CGM data help distinguish them before changing medication. Morning hyperglycemia alone does not establish an insulin overdose.",
       "url": "https://diabetes.org/living-with-diabetes/high-morning-blood-glucose"
-    }
+    },
+    "sourcePages": [
+      257,
+      258
+    ]
   },
   {
     "id": "s2fm-2404",
@@ -29203,7 +29373,11 @@ export default [
     "guideline": {
       "text": "CDC describes RotaTeq as three doses at 2/4/6 months, but Rotarix as two doses at 2/4 months. Begin before 15 weeks and complete before 8 months; product choice changes the dose count.",
       "url": "https://www.cdc.gov/rotavirus/hcp/vaccine-considerations/index.html"
-    }
+    },
+    "sourcePages": [
+      75,
+      236
+    ]
   },
   {
     "id": "s2fm-2422",
@@ -30067,7 +30241,11 @@ export default [
     "guideline": {
       "text": "FDA GLUMETZA August 2026 label describes elevated lactate, anion-gap acidosis and the clinical/risk setting. Low bicarbonate alone neither proves lactate accumulation nor establishes metformin as the cause. Suspected metformin-associated lactic acidosis requires urgent hospital care.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021748s031lbl.pdf"
-    }
+    },
+    "sourcePages": [
+      257,
+      258
+    ]
   },
   {
     "id": "s2fm-2480",
@@ -30157,7 +30335,11 @@ export default [
     "guideline": {
       "text": "AAP 2025 states no specific fracture is pathognomonic for abuse. Spiral injuries can occur unintentionally; age, mobility, history, mechanism, other injuries and full safeguarding assessment determine concern. A low-specificity pattern also cannot exclude abuse.",
       "url": "https://publications.aap.org/pediatrics/article/155/2/e2024070074/200638/Evaluating-Young-Children-With-Fractures-for-Child"
-    }
+    },
+    "sourcePages": [
+      222,
+      261
+    ]
   },
   {
     "id": "s2fm-2486",
@@ -36331,7 +36513,8 @@ export default [
     },
     "sourcePages": [
       210,
-      222
+      222,
+      264
     ]
   },
   {
@@ -36343,7 +36526,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 210,
       "url": "/mehlman/hy-family-medicine.pdf#page=210"
-    }
+    },
+    "sourcePages": [
+      210,
+      260
+    ]
   },
   {
     "id": "s2fm-2963",
@@ -36470,7 +36657,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 222,
       "url": "/mehlman/hy-family-medicine.pdf#page=222"
-    }
+    },
+    "sourcePages": [
+      222,
+      264
+    ]
   },
   {
     "id": "s2fm-2974",
@@ -36484,7 +36675,9 @@ export default [
     },
     "sourcePages": [
       222,
-      229
+      229,
+      261,
+      262
     ]
   },
   {
@@ -36589,7 +36782,11 @@ export default [
     "guideline": {
       "text": "AAOS evidence-based DDH guideline allows AP pelvic radiography instead of ultrasound beginning at four months, based on limited evidence. The source six-month boundary is not an absolute rule.",
       "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/pddh/pddhcpg.pdf"
-    }
+    },
+    "sourcePages": [
+      224,
+      263
+    ]
   },
   {
     "id": "s2fm-2984",
@@ -36860,7 +37057,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "sourcePages": [
+      234,
+      243
+    ]
   },
   {
     "id": "s2fm-3005",
@@ -36871,7 +37072,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "sourcePages": [
+      234,
+      243
+    ]
   },
   {
     "id": "s2fm-3006",
@@ -36904,7 +37109,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 237,
       "url": "/mehlman/hy-family-medicine.pdf#page=237"
-    }
+    },
+    "sourcePages": [
+      237,
+      254
+    ]
   },
   {
     "id": "s2fm-3009",
@@ -39865,7 +40074,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 222,
       "url": "/mehlman/hy-family-medicine.pdf#page=222"
-    }
+    },
+    "sourcePages": [
+      222,
+      261
+    ]
   },
   {
     "id": "s2fm-3252",
@@ -39887,7 +40100,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 222,
       "url": "/mehlman/hy-family-medicine.pdf#page=222"
-    }
+    },
+    "sourcePages": [
+      222,
+      264
+    ]
   },
   {
     "id": "s2fm-3254",
@@ -39913,7 +40130,11 @@ export default [
     "guideline": {
       "text": "AAOS describes bracing, surgery or both, depending on age and progression. Toddlers may benefit from bracing; adolescent disease or progression despite bracing often requires surgery.",
       "url": "https://www.orthoinfo.org/diseases--conditions/bowed-legs-blounts-disease/"
-    }
+    },
+    "sourcePages": [
+      224,
+      262
+    ]
   },
   {
     "id": "s2fm-3256",
@@ -39935,7 +40156,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 225,
       "url": "/mehlman/hy-family-medicine.pdf#page=225"
-    }
+    },
+    "sourcePages": [
+      225,
+      263
+    ]
   },
   {
     "id": "s2fm-3258",
@@ -39946,7 +40171,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 226,
       "url": "/mehlman/hy-family-medicine.pdf#page=226"
-    }
+    },
+    "sourcePages": [
+      226,
+      262
+    ]
   },
   {
     "id": "s2fm-3259",
@@ -39979,6 +40208,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "AAD-NPF topical guideline recommends topical corticosteroids for plaque psoriasis outside intertriginous areas and vitamin D analogs as steroid-sparing agents, alone or combined. It does not impose the PDF universal calcipotriene-before-steroid ladder.",
+      "url": "https://www.aad.org/member/clinical-quality/guidelines/psoriasis"
     }
   },
   {
@@ -39990,6 +40223,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "AAD-NPF recommends methotrexate for moderate-to-severe adult psoriasis, but describes multiple systemic and biologic choices rather than a universal first oral drug. Acitretin should not be used during pregnancy, intended pregnancy or nursing.",
+      "url": "https://www.aad.org/member/clinical-quality/guidelines/psoriasis"
     }
   },
   {
@@ -40034,7 +40271,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
-    }
+    },
+    "sourcePages": [
+      228,
+      262
+    ]
   },
   {
     "id": "s2fm-3267",
@@ -40056,7 +40297,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
-    }
+    },
+    "sourcePages": [
+      228,
+      261,
+      262
+    ]
   },
   {
     "id": "s2fm-3269",
@@ -40133,6 +40379,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 232,
       "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    },
+    "guideline": {
+      "text": "Current gemfibrozil labeling describes CYP2C8, OATP1B1 and UGT interactions, not only a generic P450 mechanism. Simvastatin coadministration is contraindicated. Muscle pain/tenderness/weakness needs prompt evaluation; suspected myositis requires withdrawal, and periodic CK monitoring does not guarantee prevention of severe injury. The label does not validate the PDF universal mild-CK reassurance.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=556945e8-4100-4538-bcba-af5b2f13a7e8"
     }
   },
   {
@@ -40199,7 +40449,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "sourcePages": [
+      234,
+      243
+    ]
   },
   {
     "id": "s2fm-3282",
@@ -40221,6 +40475,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 236,
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC child schedule notes give hepatitis B at 0,1-2 and6-18 months for the routine HBsAg-negative pathway, with birth-weight/maternal-status exceptions and possible four doses with combination vaccines. Rotavirus is product-specific: Rotarix two doses or RotaTeq three, not universally three doses.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
     }
   },
   {
@@ -40232,6 +40490,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 236,
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC child schedule notes list PCV15/PCV20 at 2,4,6 and12-15 months; IPV at 2,4,6-18 months and4-6 years. The polio final dose must be at age4 or later and at least6 months after the prior dose. Product and catch-up history matter.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
     }
   },
   {
@@ -40243,6 +40505,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 236,
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC 2026 recommends routine PCV for adults 50+ without prior PCV or with unknown history; product/prior-dose history determines whether PPSV23 or further doses are needed.",
+      "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
     }
   },
   {
@@ -40254,6 +40520,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 236,
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC September 2026 influenza guidance licenses live intranasal FluMist for ages 2-49, not 2-45. Age-appropriate injected influenza starts at 6 months; some children need two doses. COVID schedules are a separate product-, age-, immune-status- and history-specific decision, not a fixed universal 2-3-dose rule.",
+      "url": "https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html"
     }
   },
   {
@@ -40265,6 +40535,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 236,
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC child schedule notes retain routine MMR at 12-15 months / 4-6 years and MenACWY at 11-12/16 years. HPV is routine at 11-12, can start at 9; starting before 15 generally uses two doses 6-12 months apart, while starting at 15+ or immunocompromise uses three doses. MenB and high-risk schedules are separate.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
     }
   },
   {
@@ -40353,7 +40627,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 224,
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
-    }
+    },
+    "sourcePages": [
+      224,
+      263
+    ]
   },
   {
     "id": "s2fm-3296",
@@ -40364,7 +40642,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
-    }
+    },
+    "duplicateOf": "s2fm-0354"
   },
   {
     "id": "s2fm-3297",
@@ -40375,7 +40654,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
-    }
+    },
+    "sourcePages": [
+      228,
+      245,
+      246
+    ]
   },
   {
     "id": "s2fm-3298",
@@ -40408,6 +40692,418 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    },
+    "sourcePages": [
+      234,
+      243
+    ]
+  },
+  {
+    "id": "s2fm-3301",
+    "category": "Final source-mapping details",
+    "q": "What imaging shortcut does the PDF give for hyperthyroidism without a palpable nodule?",
+    "a": "It chooses ultrasound over radionuclide uptake if TSH is low but no nodule is described, reversing its low-TSH nodule branch. This is its source answer-choice shortcut, not a newly verified universal thyrotoxicosis algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    },
+    "guideline": {
+      "text": "ATA hyperthyroidism guidance uses examination, hormone/antibody tests and selected ultrasound or nuclear-medicine imaging to establish the cause. It does not establish this PDF blanket no-nodule-ultrasound-only rule.",
+      "url": "https://www.thyroid.org/hyperthyroidism/"
+    }
+  },
+  {
+    "id": "s2fm-3302",
+    "category": "Final source-mapping details",
+    "q": "What fallback does the PDF give when ultrasound is not an answer choice for a euthyroid thyroid nodule?",
+    "a": "Choose FNA in its cited exam vignette. Actual biopsy decisions still depend on size, ultrasound risk and clinical context, rather than absence of a multiple-choice option.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-3303",
+    "category": "Final source-mapping details",
+    "q": "What bound-versus-free thyroid-hormone proportions and feedback sequence does the source describe in pregnancy?",
+    "a": "It says about 99% is protein-bound; estrogen raises TBG, transiently binding free T4 and stimulating feedback until free T4/TSH return toward the euthyroid pattern while total T4 stays high. Pregnancy-specific ranges are needed; the source sequence is a teaching model.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-3304",
+    "category": "Final source-mapping details",
+    "q": "Which thionamide does the source choose for thyroid storm during pregnancy, and what longer-term toxicity does it flag?",
+    "a": "PTU, while warning that prolonged second/third-trimester use is less desirable because of hepatic toxicity. This is its source medication contrast, not an individualized emergency or maintenance regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-3305",
+    "category": "Final source-mapping details",
+    "q": "What geographic etiologic contrast does the source give for congenital hypothyroidism?",
+    "a": "Maternal iodine deficiency worldwide versus fetal thyroid dysgenesis in Western countries, in its source account. Relative frequencies vary by population and screening setting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-3306",
+    "category": "Final source-mapping details",
+    "q": "What neurodevelopmental and abdominal findings does the source connect with congenital hypothyroidism?",
+    "a": "Poor myelin development with impaired neurodevelopment, reduced bone growth, hypotonia, macroglossia and a protuberant abdomen from an umbilical hernia; newborn heel-prick screening aims to detect disease early.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-3307",
+    "category": "Final source-mapping details",
+    "q": "What two kidney-calcium mechanisms does the PDF propose for renal secondary hyperparathyroidism?",
+    "a": "Failure of late-distal calcium reabsorption and reduced proximal production of activated vitamin D with less intestinal calcium absorption. These are its source mechanisms, not a complete independently verified CKD-mineral-bone account.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-3308",
+    "category": "Final source-mapping details",
+    "q": "Which infection categories does the source associate with DiGeorge T-cell deficiency?",
+    "a": "Recurrent viral, fungal and protozoal infections, alongside its low-calcium/low-PTH and thymic-development pattern. Severity and immune findings vary among 22q11.2 deletion phenotypes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-3309",
+    "category": "Final source-mapping details",
+    "q": "How does the source contrast neuromuscular calcium effects?",
+    "a": "Low calcium: tetany/hyperreflexia and Chvostek/Trousseau signs. High calcium: flaccidity/hyporeflexia; severe hypercalcemia may cause confusion. These are teaching tendencies rather than obligatory findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-3310",
+    "category": "Final source-mapping details",
+    "q": "What cellular mechanisms does the source propose for eosinophilia in Addison disease?",
+    "a": "It says cortisol normally promotes splenic sequestration and apoptosis of eosinophils; loss of cortisol therefore raises the count. This is its source mechanistic explanation, not independently verified here.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-3311",
+    "category": "Final source-mapping details",
+    "q": "What nonclassic pediatric presentation does the source give for Cushing syndrome?",
+    "a": "Precocious puberty without the full usual Cushingoid appearance. This is a source vignette association, not a universal diagnostic presentation or a reason to skip an androgen-focused differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-3312",
+    "category": "Final source-mapping details",
+    "q": "What exact ACTH/cortisol arrow response does the source give after high-dose dexamethasone?",
+    "a": "Pituitary Cushing disease: both decrease; its ectopic small-cell-lung-cancer and adrenal-adenoma patterns: neither changes. The existing note separately cautions that suppression is not an infallible source-localization test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    }
+  },
+  {
+    "id": "s2fm-3313",
+    "category": "Final source-mapping details",
+    "q": "Which steroid precursors and androgens does the PDF group as high in 21- or 11-hydroxylase deficiency?",
+    "a": "17-hydroxyprogesterone/17-hydroxypregnenolone, DHEA-S and androstenedione in its source comparison. It contrasts these with low 17-hydroxylated/androgen products in 17-hydroxylase deficiency; individual enzyme profiles are more specific than this grouped shortcut.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-3314",
+    "category": "Final source-mapping details",
+    "q": "What precursor/glucose patterns does the PDF give for the three CAH enzyme defects?",
+    "a": "It calls cortisol, aldosterone and their precursors low in 21 deficiency; low end hormones but high precursors in 11 deficiency; low cortisol/precursors and low glucose in 17 deficiency. This conflicts with its earlier high-17-hydroxyprogesterone statement for 21 deficiency; see the separate verified note.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "Merck describes accumulation of cortisol precursors, especially 17-hydroxyprogesterone, and shunting toward excess adrenal androgens in 21-hydroxylase deficiency. Thus the PDF statement that cortisol and all its precursors are low conflicts with both its own earlier table and the clinical pathway.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/congenital-adrenal-hyperplasia-caused-by-21-hydroxylase-deficiency"
+    }
+  },
+  {
+    "id": "s2fm-3315",
+    "category": "Final source-mapping details",
+    "q": "What calcification and eye/skin findings does the source mention with catecholamine tumors?",
+    "a": "Both pheochromocytoma and neuroblastoma can calcify. Neuroblastoma may include opsoclonus-myoclonus and violaceous eyelids; this does not make it literally the pediatric form of pheochromocytoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-3316",
+    "category": "Final source-mapping details",
+    "q": "Which primary sites does the source list for a serotonin-secreting carcinoid tumor?",
+    "a": "Small bowel, appendix or lung. It pairs serotonin secretion with flushing, tachycardia, sweating, diarrhea and right-sided valvular disease; tumor presence alone does not require the full syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-3317",
+    "category": "Final source-mapping details",
+    "q": "What age exception does the PDF allow for atrial myxoma in Carney complex?",
+    "a": "A myxoma can occur in a child despite its usual adult-vignette association. It contrasts this with childhood cardiac rhabdomyoma in tuberous sclerosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-3318",
+    "category": "Final source-mapping details",
+    "q": "Which viral example does the source use as a possible type 1-diabetes environmental trigger?",
+    "a": "Coxsackie B, in its genetic-susceptibility/environmental-trigger model. This source association is not proof of a viral cause in every patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-3319",
+    "category": "Final source-mapping details",
+    "q": "What direction does the source give for serum sodium versus osmolality in classic DKA?",
+    "a": "Low sodium with high osmolality from marked glucose elevation; it also gives high beta-hydroxybutyrate and anion gap. The sodium-pump and universal-GFR claims have separate correction notes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-3320",
+    "category": "Final source-mapping details",
+    "q": "What source account explains urinary potassium loss in DKA?",
+    "a": "It attributes losses to filtration of high circulating potassium while cell-to-serum shifts persist. This is its source simplified mechanism; the current treatment note still requires assessment of whole-body deficits and careful replacement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-3321",
+    "category": "Final source-mapping details",
+    "q": "What pancreatic compensatory change does the source describe early in type 2 diabetes?",
+    "a": "Beta-cell hypertrophy with high insulin to compensate for peripheral resistance, followed later by cell shrinkage/amyloid. It says adipose-derived adipokines impair insulin signaling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-3322",
+    "category": "Final source-mapping details",
+    "q": "What numerical HHS-versus-DKA contrast does the PDF print?",
+    "a": "HHS glucose usually above 600 mg/dL and bicarbonate generally not below 20 mEq/L; DKA glucose need not be that high and bicarbonate may be profoundly low. These are its source values, not the complete 2024 consensus criteria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-3323",
+    "category": "Final source-mapping details",
+    "q": "What brain-water mechanism does the source use for altered mental status in HHS?",
+    "a": "Extracellular hyperosmolality draws water out of cells, with osmotic diuresis producing major dehydration. It prioritizes saline before insulin in its volume-depleted example; individualized electrolyte/circulatory management is required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-3324",
+    "category": "Final source-mapping details",
+    "q": "What nonpancreatic manifestations does the source attach to hereditary hemochromatosis diabetes?",
+    "a": "Hyperpigmentation, cardiomyopathy, infertility and pseudogout, alongside iron-related islet injury. This source list does not mean every patient has all findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-3325",
+    "category": "Final source-mapping details",
+    "q": "What normal calcium, potassium and phosphate intervals does the source print?",
+    "a": "Calcium 8.4-10.2 mg/dL, potassium 3.5-5.0 mEq/L and phosphate 2.5-4.5 mg/dL. Reference intervals vary by laboratory, albumin/ionized-calcium context and age.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-3326",
+    "category": "Final source-mapping details",
+    "q": "What magnesium interval and neuromuscular contrast does the source give?",
+    "a": "1.7-2.2 mg/dL; low magnesium tends toward hyperreflexia/increased tone and high magnesium toward hyporeflexia/flaccidity. Laboratory ranges and the complete clinical pattern matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-3327",
+    "category": "Final source-mapping details",
+    "q": "What complete MUDPILES expansion does the source list?",
+    "a": "Methanol, uremia, DKA, phenformin, iron/isoniazid, lactic acidosis, ethylene glycol and salicylates. This is a mnemonic of source high-gap examples, not every possible cause or a substitute for checking mixed disorders.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-3328",
+    "category": "Final source-mapping details",
+    "q": "What additional obstructive/restrictive examples does the source list for chronic respiratory acidosis?",
+    "a": "COPD, obstructive sleep apnea, obesity, ankylosing spondylitis and severe kyphoscoliosis. Its chronic pattern includes renal bicarbonate compensation; the disease label alone does not prove a specific blood-gas state.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-3329",
+    "category": "Final source-mapping details",
+    "q": "What renal acid-handling defects does the PDF invoke for metabolic acidosis?",
+    "a": "Reduced proximal bicarbonate reabsorption and distal hydrogen secretion in renal failure, alongside impaired potassium excretion. This is its simplified source account, not a requirement that every CKD stage has the same gap or electrolyte values.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2fm-3330",
+    "category": "Final source-mapping details",
+    "q": "What chloride-answer-choice shortcut does the PDF give for salicylate toxicity?",
+    "a": "If forced between high and low chloride, it chooses low to increase the calculated anion gap. This is its source arithmetic shortcut, not a fixed physiologic chloride requirement; sodium/potassium and timing absolutes are separately qualified.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-family-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2fm-3331",
+    "category": "Final source-mapping details",
+    "q": "What broader metformin mechanism and pregnancy preference does the PDF state?",
+    "a": "Increased glycolysis and reduced gluconeogenesis; insulin rather than metformin for pregnancy/intrapartum fine-tuning. This is its source comparison rather than a complete current pregnancy-specific medication algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-3332",
+    "category": "Final source-mapping details",
+    "q": "What switch does the PDF recommend for uncontrolled diabetes on metformin plus glyburide with low bicarbonate or high creatinine?",
+    "a": "Stop both agents and start intermediate-acting insulin, in its A1c 12% example. The separate notes correct its creatinine 1.5 cutoff and assumption that low bicarbonate always proves metformin lactic acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-3333",
+    "category": "Final source-mapping details",
+    "q": "Which named drugs does the source give for incretin and renal glucose therapies?",
+    "a": "GLP-1 examples liraglutide/semaglutide; DPP-4 example sitagliptin; SGLT2 example dapagliflozin. Mechanisms and adverse-effect cards are separate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-3334",
+    "category": "Final source-mapping details",
+    "q": "Which sulfonylurea names and hypoglycemia warning does the PDF list?",
+    "a": "Glyburide, glipizide and glibenclamide; it singles out glibenclamide for severe hypoglycemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "NCBI LiverTox explicitly identifies glyburide as also known as glibenclamide. The PDF list should not be memorized as three distinct sulfonylurea molecules.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548133/"
+    }
+  },
+  {
+    "id": "s2fm-3335",
+    "category": "Final source-mapping details",
+    "q": "What peripheral thyroid-enzyme effect does the PDF add for propranolol?",
+    "a": "Inhibition of 5-prime-deiodinase conversion of T4 to T3, alongside beta blockade for tachycardia. Dose, hemodynamics and contraindications determine actual emergency use.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2fm-3336",
+    "category": "Final source-mapping details",
+    "q": "Which parathyroid setting does the source name for cinacalcet?",
+    "a": "Secondary hyperparathyroidism, through increased calcium-sensing-receptor sensitivity and reduced PTH. This source indication is not a complete list of labeled use or dialysis-specific precautions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-family-medicine.pdf#page=259"
     }
   }
 ];
