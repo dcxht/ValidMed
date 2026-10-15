@@ -41608,7 +41608,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
     },
     "guideline": {
-      "text": "CDC September 2026 influenza guidance licenses live intranasal FluMist for ages 2-49, not 2-45. Injected influenza starts at 6 months; some children need two doses. Separately, CDC September 23, 2026 COVID guidance for 2026-2027 recommends vaccination for all adults18+, and for children6months-17years with moderate/severe immunocompromise; other children use shared clinical decision-making. Dose counts depend on age, product, history and immune status, not universal2-3doses. The current routine table uses2initial Moderna doses for unvaccinated6-23months,1dose for ages2-64, and2seasonal doses6months apart for65+, with product-specific minimum intervals. The CDC tables explicitly distinguish recommended off-label uses from FDA-approved indications. Immunocompromised schedules require their separate table. See the linked COVID table as well as the influenza source. Influenza source: https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html",
+      "text": "CDC September 2026 influenza guidance licenses live intranasal FluMist for ages 2-49, not 2-45. Injected influenza starts at 6 months; some children need two doses. Separately, CDC September 23, 2026 COVID guidance for 2026-2027 recommends vaccination for all adults 18+, and for children 6 months-17 years with moderate/severe immunocompromise; other children use shared clinical decision-making. Dose counts depend on age, product, history and immune status, not universal 2-3 doses. The current routine table uses 2 initial Moderna doses for unvaccinated 6-23 months,1 dose for ages 2-64, and2 seasonal doses 6 months apart for 65+, with product-specific minimum intervals. The CDC tables explicitly distinguish recommended off-label uses from FDA-approved indications. Immunocompromised schedules require their separate table. See the linked COVID table as well as the influenza source. Influenza source: https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html",
       "url": "https://www.cdc.gov/covid/hcp/vaccine-considerations/routine-guidance.html"
     },
     "sourcePages": [
@@ -43686,6 +43686,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 286,
       "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "Epogen labeling includes selected nonrenal indications: zidovudine-associated anemia in HIV, chemotherapy-associated anemia in specified nonmyeloid cancers, and transfusion reduction for selected elective noncardiac/nonvascular surgery. It is not a general treatment for all inflammatory anemia. The label requires evaluation of other causes and iron status, uses the lowest dose needed to reduce transfusions, warns of thrombosis/stroke/death, and excludes chemotherapy when cure is anticipated. CKD-specific initiation and Hb targets also require the applicable guideline and product label, not a renal/nonrenal shortcut.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1f2d0b28-9cc5-4523-80b8-637fdaf3f7a5"
     }
   },
   {

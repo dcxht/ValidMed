@@ -1,6 +1,6 @@
 # Family Medicine coverage ledger
 
-## Current state, October 15 2026 02:39 CDT
+## Current state, October 15 2026 02:56 CDT
 
 3246 active source-page-linked FM cards, including 230 actual figure cards and 667 separately linked verification notes. Historical 3471 records retain 225 retired duplicate IDs for saved-session hydration/missed/flags/history. New sessions omit duplicates; no saved progress deleted. All clinical pages 4-317 have received three reading passes; pp1-3 and 318-319 are nonclinical end matter. Final completion is NOT claimed.
 
