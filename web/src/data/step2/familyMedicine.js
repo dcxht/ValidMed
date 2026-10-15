@@ -33683,5 +33683,183 @@ export default [
       "text": "Merck May 2026 defines multiple mononeuropathy as sensory/motor disturbance in the distribution of at least two peripheral nerves. Wrist drop and foot drop involve different nerves, not repeated sites of one nerve.",
       "url": "https://www.merckmanuals.com/professional/neurologic-disorders/peripheral-nervous-system-and-motor-unit-disorders/multiple-mononeuropathy"
     }
+  },
+  {
+    "id": "s2fm-2828",
+    "category": "Neurodegeneration exact-source review",
+    "q": "What pathology does the PDF equate with all frontotemporal dementia?",
+    "a": "Pick disease with tau-containing Pick bodies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "NIA describes frontotemporal disorders with different protein pathologies, including tau and TDP-43. Pick disease is not a synonym that makes every FTD case a tau/Pick-body disorder.",
+      "url": "https://www.nia.nih.gov/health/frontotemporal-disorders/what-are-frontotemporal-disorders-causes-symptoms-and-treatment"
+    }
+  },
+  {
+    "id": "s2fm-2829",
+    "category": "Neurodegeneration exact-source review",
+    "q": "What gene does the source call the most common Parkinson-disease mutation?",
+    "a": "Alpha-synuclein/SNCA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "NINDS calls GBA1 variants the most common genetic risk factor and notes that most Parkinson disease has no known cause. SNCA was the first linked gene, which is different from being the commonest genetic risk factor.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease"
+    }
+  },
+  {
+    "id": "s2fm-2830",
+    "category": "Neurodegeneration exact-source review",
+    "q": "What drug name does the source equate with synthetic heroin?",
+    "a": "MPTP.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    },
+    "guideline": {
+      "text": "CDC outbreak investigation distinguishes the intended synthetic opioid MPPP from the neurotoxic contaminant/byproduct MPTP. MPTP exposure caused severe parkinsonism; it is not simply another name for heroin.",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000360.htm"
+    }
+  },
+  {
+    "id": "s2fm-2831",
+    "category": "Neurodegeneration exact-source review",
+    "q": "Which source B12-deficiency setting is described by a tea-and-toast diet?",
+    "a": "Poor nutritional intake in an older adult, alongside vegan diet or pernicious anemia as other B12-risk contexts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-2832",
+    "category": "Neurodegeneration exact-source review",
+    "q": "Which three source tracts are affected in subacute combined degeneration?",
+    "a": "Dorsal columns, corticospinal tracts and spinocerebellar tracts; it specifically contrasts them with spinothalamic involvement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-2833",
+    "category": "Neurodegeneration exact-source review",
+    "q": "What does the source mean by axial dystonia in progressive supranuclear palsy?",
+    "a": "Abnormal posture/movement of the trunk and spine, in its parkinsonism comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-2834",
+    "category": "Neurodegeneration exact-source review",
+    "q": "Which two cranial nerves coordinate horizontal gaze through the MLF in the source?",
+    "a": "Ipsilateral CN VI for abduction and contralateral CN III for adduction, coordinated through the contralateral MLF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-family-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2fm-2835",
+    "category": "Neuroimmune source details",
+    "q": "What test does the source choose to diagnose PANDAS etiology after a sore throat and new neuropsychiatric symptoms?",
+    "a": "Antistreptolysin-O titers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    },
+    "guideline": {
+      "text": "NIMH says no laboratory test confirms PANS/PANDAS. Evidence of preceding strep infection is one part of a thorough clinical evaluation; an elevated ASO titer alone does not diagnose the syndrome.",
+      "url": "https://www.nimh.nih.gov/health/publications/pandas"
+    }
+  },
+  {
+    "id": "s2fm-2836",
+    "category": "Neuroimmune source details",
+    "q": "What isolated attention-related presentation does the source include among PANDAS clues?",
+    "a": "New ADHD after streptococcal pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    },
+    "guideline": {
+      "text": "NIMH criteria emphasize abrupt onset/worsening of OCD or tic disorder with other criteria and strep association for PANDAS. Attention problems can accompany the syndrome but do not establish it alone.",
+      "url": "https://www.nimh.nih.gov/health/publications/pandas"
+    }
+  },
+  {
+    "id": "s2fm-2837",
+    "category": "Neuroimmune source details",
+    "q": "What urinary symptom does the source emphasize in MS while saying it has not seen overflow tested?",
+    "a": "Urge incontinence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-family-medicine.pdf#page=150"
+    },
+    "guideline": {
+      "text": "MS Society guidance also describes impaired emptying/retention, including overflow leakage. The PDF observation about exam frequency is not a statement that MS cannot cause other bladder patterns.",
+      "url": "https://www.mssociety.org.uk/about-ms/signs-and-symptoms/bladder/types-of-bladder-problem"
+    }
+  },
+  {
+    "id": "s2fm-2838",
+    "category": "Neuroimmune source details",
+    "q": "What possible early sensory symptoms does the PDF mention in Guillain-Barre syndrome?",
+    "a": "Tingling in the hands or feet before or with ascending weakness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-2839",
+    "category": "Neuroimmune source details",
+    "q": "What source laboratory abnormality can accompany the motor findings in ALS?",
+    "a": "Elevated CK, which it attributes to increased muscle tone; it is not a specific confirmatory ALS test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-2840",
+    "category": "Neuroimmune source details",
+    "q": "How does the PDF explain hyperacusis in a peripheral facial-nerve palsy?",
+    "a": "Paralysis of the stapedius muscle, which is supplied by CN VII.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-2841",
+    "category": "Neuroimmune source details",
+    "q": "What head-trauma mechanism does the source choose for lost smell with otherwise normal neurologic findings?",
+    "a": "Olfactory nerve injury at the cribriform plate, with diminished smell also reducing perceived taste.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
   }
 ];
