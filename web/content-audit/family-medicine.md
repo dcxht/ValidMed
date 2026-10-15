@@ -77,3 +77,4 @@ Second detail pass pp229-245:49additional cards,2192total,230figures,140current-
 Second detail pass pp246-259:36additional cards,2228total,230figures,150current-source notes. Still Partial.
 Second detail pass pp260-279:35additional cards,2263total,230figures,157current-source notes. Repeated bullets compared with earlier cards rather than automatically duplicated. Partial retained.
 Second detail pass pp280-298:33additional cards,2296total,230figures,164current-source notes. Source claims remain open; Partial retained.
+Second detail pass pp299-317:36additional cards,2332total,230figures,169current-source notes. Second reading has now reached study-page317. This does NOT mean all source claims are converted or reconciled; exact pending-claim ledger and readability/medical QA remain open. Partial retained.

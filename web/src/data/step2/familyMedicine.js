@@ -26371,5 +26371,421 @@ export default [
       "page": 298,
       "url": "/mehlman/hy-family-medicine.pdf#page=298"
     }
+  },
+  {
+    "id": "s2fm-2297",
+    "category": "Rapid-review source details",
+    "q": "What source mechanism links atrial fibrillation to retinal or cerebral embolism?",
+    "a": "Atrial stasis and thrombus formation, often involving the left atrial appendage; stroke prevention depends on overall thromboembolic risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 299,
+      "url": "/mehlman/hy-family-medicine.pdf#page=299"
+    }
+  },
+  {
+    "id": "s2fm-2298",
+    "category": "Rapid-review source details",
+    "q": "Does the current AF guideline support the PDF aspirin-for-low CHADS2 shortcut?",
+    "a": "The PDF says aspirin at CHADS2 of 0-1 and warfarin at 2+.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-family-medicine.pdf#page=300"
+    },
+    "guideline": {
+      "text": "ACC 2023 guideline summary: aspirin is not an alternative to indicated anticoagulation; validated stroke-risk assessment guides treatment. DOACs are preferred to warfarin except with mechanical valves or relevant mitral stenosis.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/11/27/19/46/2023-acc-guideline-for-af-gl-af"
+    }
+  },
+  {
+    "id": "s2fm-2299",
+    "category": "Rapid-review source details",
+    "q": "Is every prosthetic valve the same anticoagulation indication in the source shortcut?",
+    "a": "The PDF calls prosthetic valves a major warfarin indication. Mechanical versus tissue valves, position and time since surgery change treatment; do not extrapolate one rule to all prostheses.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-family-medicine.pdf#page=300"
+    }
+  },
+  {
+    "id": "s2fm-2300",
+    "category": "Rapid-review source details",
+    "q": "What two source risk processes can lead to mesenteric venous thrombosis?",
+    "a": "Cirrhosis-related venous stasis/portal disease and malignancy-associated hypercoagulability; this differs from embolic arterial occlusion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-family-medicine.pdf#page=300"
+    }
+  },
+  {
+    "id": "s2fm-2301",
+    "category": "Rapid-review source details",
+    "q": "What portal-systemic route underlies the source esophageal varices?",
+    "a": "Raised pressure involving the left gastric/portal tributary route and esophageal venous collaterals.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-family-medicine.pdf#page=301"
+    }
+  },
+  {
+    "id": "s2fm-2302",
+    "category": "Rapid-review source details",
+    "q": "Does the source ACE-inhibitor-first summary capture all foundational HFrEF treatment?",
+    "a": "It emphasizes lisinopril/ACE or ARB.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-family-medicine.pdf#page=301"
+    },
+    "guideline": {
+      "text": "ACC 2022 guideline summary identifies four foundational classes: ARNI/ACEi/ARB, evidence-based beta blocker, MRA and SGLT2 inhibitor. ARNI is the preferred renin-angiotensin agent when feasible; eligibility and safety guide use.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2022/03/29/19/53/2022-aha-acc-hfsa-heart-failure-guideline-gl-hf"
+    }
+  },
+  {
+    "id": "s2fm-2303",
+    "category": "Rapid-review source details",
+    "q": "Why can a high HbA1c matter even if one glucose measurement is normal?",
+    "a": "The source emphasizes longer-term glycemia rather than a single point. Diagnostic thresholds and confirmation rules still apply; an isolated normal glucose does not erase a properly confirmed diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 302,
+      "url": "/mehlman/hy-family-medicine.pdf#page=302"
+    }
+  },
+  {
+    "id": "s2fm-2304",
+    "category": "Rapid-review source details",
+    "q": "What final USPSTF AAA screening guidance replaces the PDF men-and-women ever-smoker rule?",
+    "a": "USPSTF 2019: one-time ultrasound for men 65-75 who ever smoked (Grade B); selectively offer to never-smoking men 65-75 (Grade C). Do not screen women who never smoked and lack family history (Grade D); women 65-75 who smoked or have family history have an I statement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 303,
+      "url": "/mehlman/hy-family-medicine.pdf#page=303"
+    },
+    "guideline": {
+      "text": "USPSTF 2019 final recommendation. An I statement is insufficient evidence, not a positive screening recommendation; a symptomatic pulsatile mass is diagnostic evaluation rather than screening.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening"
+    }
+  },
+  {
+    "id": "s2fm-2305",
+    "category": "Rapid-review source details",
+    "q": "How does the source distinguish subdural from epidural blood on CT?",
+    "a": "Crescent-shaped versus lens/biconvex collections; bridging-vein vulnerability with atrophy versus temporal injury/middle meningeal injury in its examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-2306",
+    "category": "Rapid-review source details",
+    "q": "Why are a normal pulse examination and a low ABI not interchangeable source findings?",
+    "a": "Reduced ABI supports arterial obstruction; venous disease often preserves pulses. Mixed arterial/venous disease can occur, so palpable pulses are not a complete exclusion test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-2307",
+    "category": "Rapid-review source details",
+    "q": "What source intervention supports walking function in uncomplicated claudication?",
+    "a": "A structured walking/exercise program alongside vascular risk treatment; active ulceration, ischemic rest pain or threatened tissue require separate assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-2308",
+    "category": "Rapid-review source details",
+    "q": "What source mechanism produces venous stasis pigmentation and a medial-ankle ulcer?",
+    "a": "Venous valvular failure and chronic pressure/edema; the source uses compression after appropriate assessment rather than treating it as an arterial ulcer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-family-medicine.pdf#page=305"
+    }
+  },
+  {
+    "id": "s2fm-2309",
+    "category": "Rapid-review source details",
+    "q": "How do source chemotherapy injury patterns differ?",
+    "a": "Doxorubicin/trastuzumab can injure cardiac function; bleomycin can injure lung interstitium. Attribution still needs clinical evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-family-medicine.pdf#page=305"
+    }
+  },
+  {
+    "id": "s2fm-2310",
+    "category": "Rapid-review source details",
+    "q": "What protection is deficient in alpha1-antitrypsin-related emphysema?",
+    "a": "Inhibition of neutrophil elastase, not elastase production itself. The PDF says elastase deficiency in its vignette; that reverses the usual protease/antiprotease explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-family-medicine.pdf#page=306"
+    }
+  },
+  {
+    "id": "s2fm-2311",
+    "category": "Rapid-review source details",
+    "q": "Why can long-term prednisone exposure matter during surgery?",
+    "a": "Adrenal-axis suppression can impair the stress cortisol response; the source links hypotension to adrenal crisis and treatment with hydrocortisone/fluids.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-family-medicine.pdf#page=306"
+    }
+  },
+  {
+    "id": "s2fm-2312",
+    "category": "Rapid-review source details",
+    "q": "Is skin contact the only possible organophosphate exposure route?",
+    "a": "The PDF farm vignette prefers gloves and says not inhalation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-family-medicine.pdf#page=307"
+    },
+    "guideline": {
+      "text": "CDC 2021 pesticide guidance describes dermal, inhalational and oral exposure routes. Appropriate protection depends on the product/task; gloves do not eliminate inhalation risk.",
+      "url": "https://www.cdc.gov/chemical-radiological-surveillance/media/pdfs/NCEH-PCPHCoP-Newsletter_Pesticides-508.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2313",
+    "category": "Rapid-review source details",
+    "q": "Why can anticholinergic medicines worsen kidney function in a susceptible older man?",
+    "a": "Drug-related urinary retention can worsen outlet obstruction/postrenal injury; the source flags TCAs, older antihistamines and some antipsychotics.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-family-medicine.pdf#page=307"
+    }
+  },
+  {
+    "id": "s2fm-2314",
+    "category": "Rapid-review source details",
+    "q": "What source disease process links iron deficiency to dysphagia and esophageal webs?",
+    "a": "Plummer-Vinson syndrome; associated angular oral changes/spoon nails can reinforce the iron-deficiency pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-family-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2fm-2315",
+    "category": "Rapid-review source details",
+    "q": "What exposures distinguish source esophageal squamous cancer from adenocarcinoma?",
+    "a": "Heavy alcohol/tobacco exposure versus chronic reflux/Barrett context; new dysphagia is an alarm symptom in either setting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-family-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2fm-2316",
+    "category": "Rapid-review source details",
+    "q": "Why can chronic mesenteric ischemia cause pain after eating?",
+    "a": "Meal-related intestinal oxygen demand exceeds supply through diseased mesenteric vessels; the source contrasts this with an ulcer in a younger person without vascular disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-family-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2fm-2317",
+    "category": "Rapid-review source details",
+    "q": "Why can refeeding hypophosphatemia occur at a normal BMI?",
+    "a": "Recent severe deprivation, not only body size, creates risk; renewed metabolism shifts phosphate and other electrolytes intracellularly. The source warns about arrhythmia after a large meal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-family-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2fm-2318",
+    "category": "Rapid-review source details",
+    "q": "How does the source broaden neurologic deficiencies after gastric surgery?",
+    "a": "It considers thiamine as well as B12 when confusion/neuropathy appear, rather than assigning every postoperative deficit to intrinsic-factor loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    }
+  },
+  {
+    "id": "s2fm-2319",
+    "category": "Rapid-review source details",
+    "q": "Why do restless-leg symptoms prompt source iron testing?",
+    "a": "Iron deficiency can contribute; the source names iron/ferritin evaluation. Its dopamine-agonist treatment ladder is qualified by the earlier AASM 2025 note.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    }
+  },
+  {
+    "id": "s2fm-2320",
+    "category": "Rapid-review source details",
+    "q": "What source test investigates fever/abdominal pain with ascites?",
+    "a": "Diagnostic paracentesis with cell count/differential and microbiology. The source prioritizes the neutrophil response; culture can still matter even when it is not its selected first answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    }
+  },
+  {
+    "id": "s2fm-2321",
+    "category": "Rapid-review source details",
+    "q": "Does USPSTF recommend systemic hormone therapy to prevent chronic conditions in asymptomatic postmenopausal people?",
+    "a": "No. USPSTF 2022 recommends against combined estrogen/progestin and against estrogen alone after hysterectomy for primary prevention (Grade D).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-family-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "USPSTF 2022 final explicitly excludes treatment of menopausal symptoms and premature/surgical menopause from this prevention recommendation. Do not apply it as a blanket ban on symptom treatment.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/menopausal-hormone-therapy-preventive-medication"
+    }
+  },
+  {
+    "id": "s2fm-2322",
+    "category": "Rapid-review source details",
+    "q": "Why does stopping the progestogen while continuing systemic estrogen matter with an intact uterus?",
+    "a": "Unopposed endometrial estrogen stimulation raises hyperplasia/cancer risk; it does not mean every hormone regimen or local vaginal product has the same risk profile.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-family-medicine.pdf#page=311"
+    }
+  },
+  {
+    "id": "s2fm-2323",
+    "category": "Rapid-review source details",
+    "q": "How does the source connect prior cesarean delivery to placenta accreta-spectrum risk?",
+    "a": "Prior uterine injury/scar, especially with placenta previa, increases abnormal adherence/invasion risk; the depth distinguishes accreta, increta and percreta.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2fm-2324",
+    "category": "Rapid-review source details",
+    "q": "Why can macrosomia link neonatal and maternal delivery injury?",
+    "a": "Shoulder dystocia can accompany neonatal clavicle injury and maternal laceration; maternal diabetes is a source risk factor rather than a required finding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-family-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2fm-2325",
+    "category": "Rapid-review source details",
+    "q": "What source presentation suggests milk-protein proctocolitis rather than ordinary lactose intolerance?",
+    "a": "Blood in infant stool associated with protein exposure, with extensively hydrolyzed formula in the source management example. Formula selection depends on severity and clinical diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-family-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2fm-2326",
+    "category": "Rapid-review source details",
+    "q": "How does the source explain acquired von Willebrand dysfunction with aortic stenosis?",
+    "a": "High-shear valvular disease with bleeding angiodysplasia forms the Heyde pattern; it differs from inherited vWD.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2fm-2327",
+    "category": "Rapid-review source details",
+    "q": "Why can antiphospholipid antibodies accompany a false-positive VDRL?",
+    "a": "Reactivity with phospholipid-containing test antigens, alongside a prothrombotic pregnancy-loss syndrome; a positive VDRL still needs appropriate confirmatory evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2fm-2328",
+    "category": "Rapid-review source details",
+    "q": "Which source quad-screen pattern suggests trisomy 21?",
+    "a": "Low AFP/estriol and high hCG/inhibin A; it is a screening pattern, not a diagnostic fetal karyotype.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2fm-2329",
+    "category": "Rapid-review source details",
+    "q": "What source renal injury can cause hematuria in sickle-cell disease?",
+    "a": "Renal papillary necrosis, contrasted with a glomerular protein-loss pattern such as FSGS. Hematuria still needs evaluation for other causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2fm-2330",
+    "category": "Rapid-review source details",
+    "q": "How do source drug kidney-injury clues differ for beta-lactams and aminoglycosides?",
+    "a": "Beta-lactam-associated interstitial nephritis can show rash/pyuria; aminoglycosides can cause tubular injury. Neither pattern is exclusive or diagnosed by urinary eosinophils alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-family-medicine.pdf#page=316"
+    }
+  },
+  {
+    "id": "s2fm-2331",
+    "category": "Rapid-review source details",
+    "q": "Why can a lung malignancy produce symptoms outside the lung in the source?",
+    "a": "Small-cell tumors can cause SIADH, Lambert-Eaton or neurologic paraneoplastic syndromes; squamous tumors can produce PTHrP hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    }
+  },
+  {
+    "id": "s2fm-2332",
+    "category": "Rapid-review source details",
+    "q": "What source antibody target distinguishes fatigable myasthenia from Lambert-Eaton?",
+    "a": "Postsynaptic nicotinic acetylcholine receptor versus presynaptic voltage-gated calcium channel in classic antibody-positive forms; thymoma and small-cell associations differ.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    }
   }
 ];
