@@ -1342,7 +1342,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 37,
       "url": "/mehlman/hy-family-medicine.pdf#page=37"
-    }
+    },
+    "sourcePages": [
+      37,
+      179
+    ]
   },
   {
     "id": "s2fm-0116",
@@ -5836,7 +5840,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 147,
       "url": "/mehlman/hy-family-medicine.pdf#page=147"
-    }
+    },
+    "sourcePages": [
+      147,
+      169
+    ]
   },
   {
     "id": "s2fm-0493",
@@ -6063,7 +6071,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 153,
       "url": "/mehlman/hy-family-medicine.pdf#page=153"
-    }
+    },
+    "sourcePages": [
+      153,
+      169
+    ]
   },
   {
     "id": "s2fm-0513",
@@ -6074,7 +6086,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 154,
       "url": "/mehlman/hy-family-medicine.pdf#page=154"
-    }
+    },
+    "sourcePages": [
+      154,
+      169
+    ]
   },
   {
     "id": "s2fm-0514",
@@ -6738,7 +6754,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 159,
       "url": "/mehlman/hy-family-medicine.pdf#page=159"
-    }
+    },
+    "sourcePages": [
+      159,
+      165
+    ]
   },
   {
     "id": "s2fm-0565",
@@ -6958,23 +6978,29 @@ export default [
     "id": "s2fm-0583",
     "category": "Neurology",
     "q": "A child briefly stares with rapid blinking and a generalized 3-Hz spike-and-wave EEG. What seizure and treatment does the PDF name?",
-    "a": "Absence seizure; ethosuximide is the treatment named.",
+    "a": "Absence seizure; ethosuximide is the treatment named. The source describes ethosuximide as a thalamic calcium-channel blocker.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
-    }
+    },
+    "sourcePages": [
+      164
+    ]
   },
   {
     "id": "s2fm-0584",
     "category": "Neurology",
     "q": "An infant has spasms and hypsarrhythmia on EEG. What epilepsy syndrome is described?",
-    "a": "Infantile spasms, traditionally West syndrome. The source names ACTH therapy.",
+    "a": "Infantile spasms, traditionally West syndrome. The source names ACTH therapy. This is its source answer, not a full etiology-specific treatment comparison.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
-    }
+    },
+    "sourcePages": [
+      164
+    ]
   },
   {
     "id": "s2fm-0585",
@@ -7013,12 +7039,15 @@ export default [
     "id": "s2fm-0588",
     "category": "Neurology",
     "q": "Profound hypotonia, absent reflexes and tongue fasciculations occur in an infant. What anterior-horn disorder is suggested?",
-    "a": "Spinal muscular atrophy.",
+    "a": "Spinal muscular atrophy. The PDF also names it Werdnig-Hoffmann syndrome.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 165,
       "url": "/mehlman/hy-family-medicine.pdf#page=165"
-    }
+    },
+    "sourcePages": [
+      165
+    ]
   },
   {
     "id": "s2fm-0589",
@@ -7143,7 +7172,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 167,
       "url": "/mehlman/hy-family-medicine.pdf#page=167"
-    }
+    },
+    "sourcePages": [
+      167,
+      170
+    ]
   },
   {
     "id": "s2fm-0600",
@@ -7201,12 +7234,19 @@ export default [
     "id": "s2fm-0604",
     "category": "Neurology",
     "q": "Which smoking-cessation antidepressant lowers seizure threshold and is problematic in eating disorders?",
-    "a": "Bupropion.",
+    "a": "Bupropion. The PDF links this risk with electrolyte abnormalities.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "guideline": {
+      "text": "DailyMed contraindicates bupropion with a current OR prior diagnosis of bulimia or anorexia nervosa. A past diagnosis still matters; this is not limited to current electrolyte abnormalities.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4100232-a25d-4468-9057-af7e66205154"
+    },
+    "sourcePages": [
+      168
+    ]
   },
   {
     "id": "s2fm-0605",
@@ -7305,7 +7345,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 171,
       "url": "/mehlman/hy-family-medicine.pdf#page=171"
-    }
+    },
+    "sourcePages": [
+      171
+    ]
   },
   {
     "id": "s2fm-0614",
@@ -7425,12 +7468,15 @@ export default [
     "id": "s2fm-0624",
     "category": "Psychiatry",
     "q": "Excessive worry about many areas of life persists for six months with tension and restlessness. Which disorder is described?",
-    "a": "Generalized anxiety disorder. CBT and SSRIs are treatments named.",
+    "a": "Generalized anxiety disorder. CBT and SSRIs are treatments named. Fatigue can accompany the source worry, muscle tension and restlessness.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 174,
       "url": "/mehlman/hy-family-medicine.pdf#page=174"
-    }
+    },
+    "sourcePages": [
+      174
+    ]
   },
   {
     "id": "s2fm-0625",
@@ -7621,7 +7667,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 176,
       "url": "/mehlman/hy-family-medicine.pdf#page=176"
-    }
+    },
+    "sourcePages": [
+      176
+    ]
   },
   {
     "id": "s2fm-0642",
@@ -7676,18 +7725,24 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 177,
       "url": "/mehlman/hy-family-medicine.pdf#page=177"
-    }
+    },
+    "sourcePages": [
+      177
+    ]
   },
   {
     "id": "s2fm-0647",
     "category": "Psychiatry",
     "q": "Why can anorexia cause amenorrhea and low bone density?",
-    "a": "Reduced energy availability disrupts hypothalamic GnRH signaling and lowers gonadotropin/estrogen activity.",
+    "a": "Reduced energy availability disrupts hypothalamic GnRH signaling and lowers gonadotropin/estrogen activity. The source explicitly describes reduced LH and FSH, not primary ovarian failure.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 177,
       "url": "/mehlman/hy-family-medicine.pdf#page=177"
-    }
+    },
+    "sourcePages": [
+      177
+    ]
   },
   {
     "id": "s2fm-0648",
@@ -7734,7 +7789,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 178,
       "url": "/mehlman/hy-family-medicine.pdf#page=178"
-    }
+    },
+    "sourcePages": [
+      178
+    ]
   },
   {
     "id": "s2fm-0652",
@@ -7822,7 +7880,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 179,
       "url": "/mehlman/hy-family-medicine.pdf#page=179"
-    }
+    },
+    "duplicateOf": "s2fm-0115"
   },
   {
     "id": "s2fm-0660",
@@ -7839,12 +7898,15 @@ export default [
     "id": "s2fm-0661",
     "category": "Psychiatry",
     "q": "Hair pulling is followed by ingestion and an indigestible gastric mass. What behavior and complication are described?",
-    "a": "Trichotillomania with trichophagia leading to a trichobezoar.",
+    "a": "Trichotillomania with trichophagia leading to a trichobezoar. The hair mass can cause gastrointestinal obstruction.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 180,
       "url": "/mehlman/hy-family-medicine.pdf#page=180"
-    }
+    },
+    "sourcePages": [
+      180
+    ]
   },
   {
     "id": "s2fm-0662",
@@ -14308,14 +14370,17 @@ export default [
     "id": "s2fm-1216",
     "category": "Neurology images",
     "q": "Blood in the basal cisterns creates which source hemorrhage pattern?",
-    "a": "Subarachnoid hemorrhage, described as a starfish-like appearance.",
+    "a": "Subarachnoid hemorrhage, described as a starfish-like appearance. The PDF also compares it to a sand dollar.",
     "img": "/s2img/fm-162-1.png",
     "alt": "Figure from the source PDF",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 162,
       "url": "/mehlman/hy-family-medicine.pdf#page=162"
-    }
+    },
+    "sourcePages": [
+      162
+    ]
   },
   {
     "id": "s2fm-1217",
@@ -22149,7 +22214,11 @@ export default [
     "guideline": {
       "text": "FDA 2024 also approved donanemab for Alzheimer disease initiated at mild cognitive impairment/mild dementia stage. This specialized treatment has important ARIA risk and eligibility/monitoring requirements; it is not an option for every dementia patient.",
       "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease"
-    }
+    },
+    "sourcePages": [
+      146,
+      170
+    ]
   },
   {
     "id": "s2fm-1884",
@@ -22204,7 +22273,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 147,
       "url": "/mehlman/hy-family-medicine.pdf#page=147"
-    }
+    },
+    "sourcePages": [
+      147,
+      169
+    ]
   },
   {
     "id": "s2fm-1889",
@@ -22215,7 +22288,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 147,
       "url": "/mehlman/hy-family-medicine.pdf#page=147"
-    }
+    },
+    "sourcePages": [
+      147,
+      169
+    ]
   },
   {
     "id": "s2fm-1890",
@@ -22241,7 +22318,11 @@ export default [
     "guideline": {
       "text": "AASM 2025 guideline strongly recommends gabapentin-family/pregabalin treatments and suggests against standard pramipexole/ropinirole use because of augmentation risk. Iron and exacerbating factors still matter.",
       "url": "https://link.springer.com/article/10.5664/jcsm.11390"
-    }
+    },
+    "sourcePages": [
+      147,
+      169
+    ]
   },
   {
     "id": "s2fm-1892",
@@ -22744,7 +22825,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 159,
       "url": "/mehlman/hy-family-medicine.pdf#page=159"
-    }
+    },
+    "sourcePages": [
+      159,
+      165
+    ]
   },
   {
     "id": "s2fm-1934",
@@ -22936,7 +23021,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
-    }
+    },
+    "duplicateOf": "s2fm-0583"
   },
   {
     "id": "s2fm-1950",
@@ -22962,7 +23048,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
-    }
+    },
+    "duplicateOf": "s2fm-0584"
   },
   {
     "id": "s2fm-1952",
@@ -23025,7 +23112,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 165,
       "url": "/mehlman/hy-family-medicine.pdf#page=165"
-    }
+    },
+    "duplicateOf": "s2fm-0588"
   },
   {
     "id": "s2fm-1957",
@@ -23250,7 +23338,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "duplicateOf": "s2fm-0604"
   },
   {
     "id": "s2fm-1976",
@@ -23291,7 +23380,11 @@ export default [
     "guideline": {
       "text": "ADA Standards 2026 recommendation 12.22 lists gabapentinoids, SNRIs, TCAs and sodium-channel blockers as initial options (grade A), rather than a mandatory TCA-first/gabapentin-second order. TCA anticholinergic effects can limit dosing, especially at age 65 or older.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
-    }
+    },
+    "sourcePages": [
+      159,
+      169
+    ]
   },
   {
     "id": "s2fm-1979",
@@ -23387,7 +23480,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 171,
       "url": "/mehlman/hy-family-medicine.pdf#page=171"
-    }
+    },
+    "duplicateOf": "s2fm-0613"
   },
   {
     "id": "s2fm-1987",
@@ -23531,7 +23625,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 176,
       "url": "/mehlman/hy-family-medicine.pdf#page=176"
-    }
+    },
+    "duplicateOf": "s2fm-0641"
   },
   {
     "id": "s2fm-1999",
@@ -23579,7 +23674,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 177,
       "url": "/mehlman/hy-family-medicine.pdf#page=177"
-    }
+    },
+    "duplicateOf": "s2fm-0647"
   },
   {
     "id": "s2fm-2003",
@@ -23628,7 +23724,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 178,
       "url": "/mehlman/hy-family-medicine.pdf#page=178"
-    }
+    },
+    "duplicateOf": "s2fm-0651"
   },
   {
     "id": "s2fm-2007",
@@ -23742,7 +23839,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 180,
       "url": "/mehlman/hy-family-medicine.pdf#page=180"
-    }
+    },
+    "duplicateOf": "s2fm-0661"
   },
   {
     "id": "s2fm-2017",
@@ -29107,7 +29205,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 177,
       "url": "/mehlman/hy-family-medicine.pdf#page=177"
-    }
+    },
+    "duplicateOf": "s2fm-0646"
   },
   {
     "id": "s2fm-2440",
@@ -29140,7 +29239,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 174,
       "url": "/mehlman/hy-family-medicine.pdf#page=174"
-    }
+    },
+    "duplicateOf": "s2fm-0624"
   },
   {
     "id": "s2fm-2443",
@@ -29440,7 +29540,11 @@ export default [
     "guideline": {
       "text": "AASM 2021 strongly recommends multicomponent CBT-I for chronic adult insomnia. That is a different scope from a short acute episode and does not support a universal clonazepam-first rule. Assessment and medication risks still matter.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/"
-    }
+    },
+    "sourcePages": [
+      168,
+      180
+    ]
   },
   {
     "id": "s2fm-2463",
@@ -31138,7 +31242,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 37,
       "url": "/mehlman/hy-family-medicine.pdf#page=37"
-    }
+    },
+    "sourcePages": [
+      37,
+      179
+    ]
   },
   {
     "id": "s2fm-2591",
@@ -34656,7 +34764,11 @@ export default [
     "guideline": {
       "text": "Friedreich ataxia clinical-management guidance describes both insulin deficiency and insulin resistance, with insulin-deficient ketosis-prone presentations in children. FRDA-related diabetes is not uniformly ordinary type 2 diabetes.",
       "url": "https://frdaguidelines.org/10-1/"
-    }
+    },
+    "sourcePages": [
+      159,
+      165
+    ]
   },
   {
     "id": "s2fm-2862",
@@ -34715,7 +34827,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 162,
       "url": "/mehlman/hy-family-medicine.pdf#page=162"
-    }
+    },
+    "duplicateOf": "s2fm-1216"
   },
   {
     "id": "s2fm-2867",
@@ -34878,7 +34991,8 @@ export default [
     "guideline": {
       "text": "DailyMed contraindicates bupropion with a current OR prior diagnosis of bulimia or anorexia nervosa. A past diagnosis still matters; this is not limited to current electrolyte abnormalities.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4100232-a25d-4468-9057-af7e66205154"
-    }
+    },
+    "duplicateOf": "s2fm-0604"
   },
   {
     "id": "s2fm-2880",
@@ -34933,7 +35047,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 169,
       "url": "/mehlman/hy-family-medicine.pdf#page=169"
-    }
+    },
+    "sourcePages": [
+      147,
+      169
+    ]
   },
   {
     "id": "s2fm-2885",
@@ -35640,7 +35758,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 195,
       "url": "/mehlman/hy-family-medicine.pdf#page=195"
-    }
+    },
+    "sourcePages": [
+      167,
+      195
+    ]
   },
   {
     "id": "s2fm-2943",
@@ -35814,7 +35936,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 204,
       "url": "/mehlman/hy-family-medicine.pdf#page=204"
-    }
+    },
+    "sourcePages": [
+      166,
+      204
+    ]
   },
   {
     "id": "s2fm-2957",
@@ -37946,7 +38072,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 147,
       "url": "/mehlman/hy-family-medicine.pdf#page=147"
-    }
+    },
+    "sourcePages": [
+      147,
+      169
+    ]
   },
   {
     "id": "s2fm-3133",
@@ -37957,7 +38087,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 148,
       "url": "/mehlman/hy-family-medicine.pdf#page=148"
-    }
+    },
+    "sourcePages": [
+      148,
+      180
+    ]
   },
   {
     "id": "s2fm-3134",
@@ -37990,7 +38124,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 154,
       "url": "/mehlman/hy-family-medicine.pdf#page=154"
-    }
+    },
+    "sourcePages": [
+      154,
+      169
+    ]
   },
   {
     "id": "s2fm-3137",
@@ -38112,7 +38250,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 160,
       "url": "/mehlman/hy-family-medicine.pdf#page=160"
-    }
+    },
+    "sourcePages": [
+      160
+    ]
   },
   {
     "id": "s2fm-3147",
