@@ -42825,6 +42825,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 286,
       "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "The Endocrine Society 2015 scientific statement describes a complex interaction of genetic, metabolic, neuroendocrine and ovarian factors, including altered GnRH/LH patterns, hyperandrogenism, insulin resistance and follicular arrest. It does not establish a single insulin-resistance-to-premature-ovulatory-signal-to-retained-cyst sequence as the full cause. This is a pathophysiology statement, not a current treatment guideline or proof of one mechanism in every patient.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4591526/"
     }
   },
   {
