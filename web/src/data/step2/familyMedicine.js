@@ -28290,5 +28290,20 @@ export default [
       "text": "AAD pediatric eczema guidance says adverse-effect risk is low when treatment follows the dermatologist plan. Skin thinning risk depends on factors such as potency and site, with face/neck and high-potency products higher risk; the page does not define one universal 5-7-day injury threshold.",
       "url": "https://www.aad.org/public/diseases/eczema/childhood/treating/corticosteroids-applied-to-skin"
     }
+  },
+  {
+    "id": "s2fm-2426",
+    "category": "Infection treatment exact-claim reconciliation",
+    "q": "Which empiric combination does the PDF repeatedly name for endocarditis?",
+    "a": "Vancomycin plus gentamicin, with ampicillin/sulbactam plus gentamicin also listed in the later summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    },
+    "guideline": {
+      "text": "The ACC summary of ESC 2023 endocarditis guidance states that aminoglycosides are not recommended in staphylococcal native-valve endocarditis. Regimens are organism/valve/context-specific; a universal gentamicin-containing rule is not supported. This is an issuing-society summary, not the fully retrieved antibiotic table.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/20/49/2023-esc-guidelines-for-endocarditis-esc-2023"
+    }
   }
 ];

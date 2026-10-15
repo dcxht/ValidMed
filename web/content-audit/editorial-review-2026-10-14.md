@@ -302,3 +302,6 @@ Cards2422-2423,total2423/230figures/287notes. SourceWMcategoricalnoamyloid/nouri
 
 ## AMI/eczema follow-up pp72,127 and mobile space
 Cards2424-2425,total2425/230figures/289notes. WSES2022CTAwithoutdelay andperitonitissurgery;AADpotency/site/risk-directedsteroidcare versusfixed5-7daythreshold. DirectURLs https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/ ; https://www.aad.org/public/diseases/eczema/childhood/treating/corticosteroids-applied-to-skin . Questionrightpaddingreservedforflag, whoseoverlapwasobservedinactual390pxmobilepixels. Partial.
+
+## Endocarditis empiricclaim follow-up p170 (repeats280)
+Card2426,total2426/230figures/290notes. Sourcevanco/gentamicin restoredwithACCsummaryofESC2023specificnoaminoglycosidesstaphylococcalNVE. Notafullreplacementempiricregimen. ExactURL https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/20/49/2023-esc-guidelines-for-endocarditis-esc-2023 . ESCsiteconfirms2023guidelineandJanuary2025corrigendum; notfetchedtable. Partial.
