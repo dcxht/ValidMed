@@ -16253,8 +16253,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=34"
     },
     "guideline": {
-      "text": "GOLD 2026 defines an exacerbation by worsening dyspnea and/or cough/sputum over up to 14 days, often with tachypnea/tachycardia; hypercapnia is not a required part of that definition.",
-      "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+      "text": "Merck Professional defines exacerbations by worsening respiratory symptoms; only those accompanied by CO2 retention have that additional pattern. A normal CO2 does not by itself exclude a COPD exacerbation.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/chronic-obstructive-pulmonary-disease-and-related-disorders/chronic-obstructive-pulmonary-disease-copd"
     }
   },
   {
@@ -16268,8 +16268,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=34"
     },
     "guideline": {
-      "text": "GOLD 2026 recommends antibiotics in selected exacerbations, including purulent sputum/prior lung-infection context, rather than every exacerbation.",
-      "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+      "text": "Merck Professional recommends antibiotics for selected exacerbations, including purulent sputum with relevant symptom changes or need for ventilation. The source always-antibiotics rule is not a universal clinical indication.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/chronic-obstructive-pulmonary-disease-and-related-disorders/treatment-of-acute-copd-exacerbation"
     }
   },
   {
@@ -30343,6 +30343,66 @@ export default [
     "guideline": {
       "text": "Merck Professional describes Takayasu as affecting the aorta, its branches and sometimes pulmonary arteries, with the clinical pattern depending on the arteries involved. Common subclavian disease should not be turned into a requirement that every case has that territory affected.",
       "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/vasculitis/takayasu-arteritis"
+    }
+  },
+  {
+    "id": "s2fm-2575",
+    "category": "Pulmonary exact-source review",
+    "q": "What blanket treatment prohibition does the PDF give for small-cell lung cancer?",
+    "a": "Chemotherapy, never surgery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "NCI PDQ lists surgery followed by chemotherapy or chemoradiation among options for selected limited-stage small-cell disease. Treatment depends on stage and eligibility; the source no-surgery rule is not universal.",
+      "url": "https://www.cancer.gov/types/lung/patient/small-cell-lung-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2fm-2576",
+    "category": "Pulmonary exact-source review",
+    "q": "What inevitable disease sequence does the PDF imply after asbestos exposure?",
+    "a": "Asbestosis first, then mesothelioma years later.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "NCI distinguishes asbestos-related mesothelioma from asbestosis and other nonmalignant pleural disorders. These are different exposure-related outcomes, not a required stepwise transformation from fibrosis into mesothelioma.",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/asbestos/asbestos-fact-sheet"
+    }
+  },
+  {
+    "id": "s2fm-2577",
+    "category": "Pulmonary exact-source review",
+    "q": "What skepticism does the PDF express about radon and nonsmoker lung cancer?",
+    "a": "It calls the basement/radon correlation probably nonsense in real life.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "EPA identifies radon as a cause of lung cancer in smokers and nonsmokers and its leading estimated cause among nonsmokers. This is an established public-health risk, not merely an exam association.",
+      "url": "https://www.epa.gov/radon/health-risk-radon"
+    }
+  },
+  {
+    "id": "s2fm-2578",
+    "category": "Pulmonary exact-source review",
+    "q": "What action does the PDF assign to alpha-1 antitrypsin on neutrophil elastase?",
+    "a": "It says alpha-1 antitrypsin is an enzyme that breaks down neutrophil elastase.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-family-medicine.pdf#page=35"
+    },
+    "guideline": {
+      "text": "MedlinePlus SERPINA1 describes alpha-1 antitrypsin as a serine-protease inhibitor that controls neutrophil elastase activity and protects lung tissue, rather than an elastase-degrading enzyme.",
+      "url": "https://medlineplus.gov/genetics/gene/serpina1/"
     }
   }
 ];
