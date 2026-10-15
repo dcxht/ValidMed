@@ -46,3 +46,5 @@ Editorial concerns are not verified errors. See editorial-review-2026-10-14.md f
 Selected endocrine/pharmacology/vaccine concepts through p249 now added. No exhaustive-coverage claim. See editorial ledger for exact pending items.
 
 Selected points through p259,992 cards; rapid-bullet review pp260 onward still pending.
+
+Selected additional rapid-bullet points through p282; repeated material requires mapping.

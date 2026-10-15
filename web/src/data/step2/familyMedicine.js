@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 259; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 282; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -11216,6 +11216,641 @@ export default [
     "guideline": {
       "text": "USPSTF2021 screening statement. These diagnostic thresholds use at least, not the PDF strict greater-than wording.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes/"
+    }
+  },
+  {
+    "id": "s2fm-0993",
+    "category": "Musculoskeletal",
+    "q": "A distal-radius fracture has dorsal displacement and a dinner-fork deformity. Which fracture is described?",
+    "a": "Colles fracture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2fm-0994",
+    "category": "Musculoskeletal",
+    "q": "A distal-radius fracture has volar displacement. Which fracture is described?",
+    "a": "Smith fracture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2fm-0995",
+    "category": "Musculoskeletal",
+    "q": "A proximal-ulna fracture accompanies radial-head dislocation. Which fracture-dislocation is described?",
+    "a": "Monteggia fracture-dislocation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2fm-0996",
+    "category": "Musculoskeletal",
+    "q": "A radial-shaft fracture accompanies distal radioulnar-joint disruption. Which injury is described?",
+    "a": "Galeazzi fracture-dislocation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-family-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2fm-0997",
+    "category": "Musculoskeletal",
+    "q": "A basketball player has anterior knee pain at the inferior patella during jumping. Which overuse problem is described?",
+    "a": "Patellar tendinopathy, or jumper knee.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-family-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2fm-0998",
+    "category": "Musculoskeletal",
+    "q": "A warm painful anterior-knee bursa is associated with fever but no joint effusion. Which source diagnosis is suggested?",
+    "a": "Septic bursitis, contrasted with intra-articular septic arthritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-family-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2fm-0999",
+    "category": "Musculoskeletal",
+    "q": "A runner with low energy availability has focal metatarsal pain. Which injury does the source consider?",
+    "a": "Metatarsal stress fracture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-family-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2fm-1000",
+    "category": "Musculoskeletal",
+    "q": "Pain at the ball of the foot from repetitive jumping is called what in the source?",
+    "a": "Metatarsalgia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-family-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2fm-1001",
+    "category": "Musculoskeletal",
+    "q": "What is Mulder sign in a patient with suspected Morton neuroma?",
+    "a": "Reproduction of symptoms by compressing the metatarsal heads together.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-family-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2fm-1002",
+    "category": "Musculoskeletal",
+    "q": "A young child holds the arm pronated after traction on the hand. Which elbow injury is described?",
+    "a": "Nursemaid elbow, radial-head subluxation. The source names hyperpronation or supination-based reduction maneuvers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-family-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2fm-1003",
+    "category": "Nutrition",
+    "q": "An older patient has macrocytosis after six months of poor tea-and-toast intake. Which deficiency does the source favor?",
+    "a": "Folate deficiency. The source contrasts rapidly depleted folate stores with longer-lasting B 12 stores.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2fm-1004",
+    "category": "Nutrition",
+    "q": "Bleeding gums and perifollicular hemorrhages accompany poor intake. Which vitamin deficiency is described?",
+    "a": "Vitamin C deficiency, scurvy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2fm-1005",
+    "category": "Genitourinary",
+    "q": "A child has a blue dot at the superior testicular pole with scrotal pain. What source diagnosis is suggested?",
+    "a": "Torsion of the appendix testis. Urgent assessment must still distinguish testicular torsion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-1006",
+    "category": "Genitourinary",
+    "q": "An infant has a transilluminating scrotal swelling associated with a patent processus vaginalis. What is described?",
+    "a": "Hydrocele.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-1007",
+    "category": "Genitourinary",
+    "q": "A testicular mass in a young child is associated with elevated AFP. Which germ-cell tumor is named?",
+    "a": "Yolk-sac (endodermal sinus) tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-1008",
+    "category": "Genitourinary",
+    "q": "A testicular mass produces both AFP and beta-hCG. What does the source favor over an isolated yolk-sac tumor?",
+    "a": "Mixed germ-cell tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-1009",
+    "category": "Genitourinary",
+    "q": "A scrotal bag-of-worms sensation with heaviness suggests what?",
+    "a": "Varicocele, dilated pampiniform plexus veins.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-1010",
+    "category": "Dermatology",
+    "q": "Which acne medication is highly teratogenic and requires pregnancy-prevention precautions?",
+    "a": "Oral isotretinoin. The source also names dry skin, liver-enzyme elevation and dyslipidemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-family-medicine.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2fm-1011",
+    "category": "Infectious disease",
+    "q": "For a tuberculin skin test, which part of the reaction is measured?",
+    "a": "Induration, not erythema.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2fm-1012",
+    "category": "Infectious disease",
+    "q": "Why does the source pair pyridoxine with isoniazid?",
+    "a": "To reduce vitamin-B 6-deficiency-related adverse effects, including neuropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-1013",
+    "category": "Infectious disease",
+    "q": "What four-drug initial regimen does the source call RIPE?",
+    "a": "Rifampin, isoniazid, pyrazinamide and ethambutol for active TB. Drug susceptibility and patient context determine the full regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-1014",
+    "category": "Infectious disease",
+    "q": "Watery diarrhea occurs after travel. Which E. coli subtype and toxin pattern does the source emphasize?",
+    "a": "Enterotoxigenic E. coli, with heat-labile and/or heat-stable enterotoxins.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-1015",
+    "category": "Infectious disease",
+    "q": "An outbreak of watery diarrhea occurs on a cruise ship or in close quarters. Which virus is emphasized?",
+    "a": "Norovirus, historically called Norwalk virus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-1016",
+    "category": "Infectious disease",
+    "q": "Bloody diarrhea and right-lower-quadrant pain mimic appendicitis in a child. Which organism is described?",
+    "a": "Yersinia enterocolitica.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-1017",
+    "category": "Infectious disease",
+    "q": "Which enteric infections can precede reactive arthritis in the source?",
+    "a": "Yersinia, Campylobacter, Shigella and Salmonella.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-1018",
+    "category": "Neurology",
+    "q": "What CSF pattern does the source describe in Guillain-Barre syndrome after diarrheal illness?",
+    "a": "Albuminocytologic dissociation: elevated protein without a corresponding increase in cell count.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-1019",
+    "category": "Cardiology",
+    "q": "After a viral illness, lateral chest-wall pain and elevated CK suggest which intercostal muscle syndrome?",
+    "a": "Pleurodynia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-1020",
+    "category": "Cardiology",
+    "q": "What is pulsus paradoxus, and which source conditions can produce it?",
+    "a": "An inspiratory systolic-pressure fall greater than 10 mmHg; cardiac tamponade and severe asthma are source examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-1021",
+    "category": "Cardiology",
+    "q": "What ECG finding is called electrical alternans, and what does the source associate it with?",
+    "a": "Beat-to-beat variation in QRS amplitude, associated with a large pericardial effusion/tamponade.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-1022",
+    "category": "Infectious disease",
+    "q": "Which exposure-linked pneumonia organisms are paired with rabbits, cattle and birds?",
+    "a": "Rabbits: Francisella tularensis; cattle: Coxiella burnetii; birds: Chlamydia psittaci.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2fm-1023",
+    "category": "Endocrine",
+    "q": "Why can Graves disease cause proptosis and extraocular-muscle changes?",
+    "a": "Immune-mediated orbital tissue changes with glycosaminoglycan accumulation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-family-medicine.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2fm-1024",
+    "category": "Endocrine",
+    "q": "What is reverse T 3?",
+    "a": "An inactive thyroid-hormone metabolite formed from T 4; it is increased in the source nonthyroidal-illness pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-family-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2fm-1025",
+    "category": "Endocrine",
+    "q": "Which glycoprotein hormones share an alpha subunit?",
+    "a": "LH, FSH, TSH and hCG. Their beta subunits differ.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2fm-1026",
+    "category": "Endocrine",
+    "q": "What is the source mechanism of transient hCG-related thyrotoxicosis in early pregnancy?",
+    "a": "hCG can stimulate the TSH receptor; this is distinct from autoimmune Graves disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2fm-1027",
+    "category": "Endocrine",
+    "q": "Which skin-development adverse effect does the source associate with first-trimester methimazole exposure?",
+    "a": "Aplasia cutis congenita.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2fm-1028",
+    "category": "Musculoskeletal",
+    "q": "How does polymyalgia rheumatica differ from inflammatory myopathy in the source?",
+    "a": "PMR emphasizes pain/stiffness with preserved true muscle strength. Inflammatory myopathy emphasizes objective proximal weakness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2fm-1029",
+    "category": "Genitourinary",
+    "q": "Coughing or exertion produces urine leakage after multiple pregnancies. Which incontinence type is described?",
+    "a": "Stress incontinence from impaired urethral support. Pelvic-floor exercises are named as an initial conservative measure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-1030",
+    "category": "Genitourinary",
+    "q": "Urgency causes leakage when arriving home and putting the key in the door. Which incontinence type is described?",
+    "a": "Urge incontinence, associated with detrusor overactivity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-1031",
+    "category": "Pharmacology",
+    "q": "Which receptor does mirabegron activate for overactive bladder?",
+    "a": "Beta 3 adrenergic receptors, promoting detrusor relaxation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-1032",
+    "category": "Genitourinary",
+    "q": "Urine leakage accompanies a large postvoid residual. Which incontinence mechanism is described?",
+    "a": "Overflow incontinence from incomplete emptying, due to outlet obstruction or impaired bladder contractility.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-1033",
+    "category": "Genitourinary",
+    "q": "An exquisitely tender prostate accompanies infectious urinary symptoms. Which source diagnosis is favored?",
+    "a": "Acute prostatitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-1034",
+    "category": "Genitourinary",
+    "q": "Flank/costovertebral-angle tenderness and fever accompany urinary symptoms. Which syndrome is described?",
+    "a": "Pyelonephritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-1035",
+    "category": "Neurology",
+    "q": "Which dementia pattern combines parkinsonism and prominent visual hallucinations?",
+    "a": "Dementia with Lewy bodies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-1036",
+    "category": "Neurology",
+    "q": "Early personality change, apathy and disinhibition accompany cognitive decline. Which dementia is described?",
+    "a": "Frontotemporal dementia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-1037",
+    "category": "Pharmacology",
+    "q": "What drug class do donepezil, galantamine and rivastigmine belong to?",
+    "a": "Cholinesterase inhibitors used for symptomatic dementia treatment. Memantine is instead an NMDA-receptor antagonist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-1038",
+    "category": "Hematology",
+    "q": "Elevated hemoglobin, low EPO, plethora and aquagenic pruritus suggest which myeloproliferative disorder?",
+    "a": "Polycythemia vera.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-1039",
+    "category": "Hematology",
+    "q": "How does the source EPO pattern differ between polycythemia vera and hypoxia-driven erythrocytosis?",
+    "a": "EPO is suppressed in polycythemia vera and elevated in secondary erythrocytosis driven by hypoxia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-1040",
+    "category": "Hematology",
+    "q": "Hematuria, erythrocytosis and hypercalcemia occur in a smoker. Which renal tumor and paraneoplastic mediators are described?",
+    "a": "Renal cell carcinoma, with EPO and PTHrP secretion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-1041",
+    "category": "Hematology",
+    "q": "Which iron-removal approaches does the source distinguish for hereditary hemochromatosis and transfusional iron overload?",
+    "a": "Serial phlebotomy for hereditary hemochromatosis; iron chelation for transfusional overload.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-1042",
+    "category": "Cardiology",
+    "q": "A newborn of a mother with lupus develops which source congenital conduction disorder?",
+    "a": "Congenital complete heart block.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-family-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2fm-1043",
+    "category": "Cardiology",
+    "q": "Bounding pulses and a wide pulse pressure suggest which valve lesion?",
+    "a": "Aortic regurgitation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-1044",
+    "category": "Cardiology",
+    "q": "Syncope, angina and exertional dyspnea form which classic valve-disease symptom triad?",
+    "a": "Aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-1045",
+    "category": "Prevention",
+    "q": "Which current final USPSTF ages replace the PDF age 50 colorectal-screening rule for average-risk adults?",
+    "a": "Screen ages 45-49 (GradeB) and 50-75 (GradeA). Selectively screen 76-85 (GradeC) based on health, prior screening and preferences. Stop after 85. USPSTF 2021.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "Final recommendation18 May2021; applies to asymptomatic average-risk adults, not symptomatic evaluation or inherited high-risk syndromes.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-1046",
+    "category": "Prevention",
+    "q": "Which colorectal-screening intervals does USPSTF 2021 list?",
+    "a": "Annual FIT or high-sensitivity gFOBT; stool DNA-FIT every 1-3 years; CT colonography every 5; flexible sigmoidoscopy every 5, or every 10 plus annual FIT; colonoscopy every 10.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "USPSTF2021 lists several valid strategies. Abnormal stool-based results require colonoscopy; choosing a strategy depends on patient context.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-1047",
+    "category": "Endocrine",
+    "q": "Low FSH and low estrogen accompany amenorrhea with low energy availability. What endocrine pattern is described?",
+    "a": "Hypogonadotropic hypogonadism, contrasted with high-FSH ovarian failure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-1048",
+    "category": "Gastroenterology",
+    "q": "A patient ingests hair and develops upper-GI obstructive symptoms. What mass is described?",
+    "a": "A trichobezoar, a gastric hair mass. Hair pulling and hair eating are distinct behaviors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-1049",
+    "category": "Pulmonology",
+    "q": "How can sarcoidosis produce hypercalcemia with suppressed PTH?",
+    "a": "Activated granuloma macrophages increase 1-alpha-hydroxylase activity and active vitaminD production, increasing intestinal calcium absorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
     }
   }
 ];
