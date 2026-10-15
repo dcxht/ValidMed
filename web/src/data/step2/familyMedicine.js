@@ -23971,5 +23971,594 @@ export default [
       "page": 210,
       "url": "/mehlman/hy-family-medicine.pdf#page=210"
     }
+  },
+  {
+    "id": "s2fm-2093",
+    "category": "Musculoskeletal source details",
+    "q": "What muscle normally holds the scapula against the chest wall in the source winging example?",
+    "a": "Serratus anterior, innervated by the long thoracic nerve; mastectomy-related injury is its example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-2094",
+    "category": "Musculoskeletal source details",
+    "q": "How do source Erb and Klumpke plexus levels differ?",
+    "a": "Upper C5-C6 versus lower C8-T1. Traction/birth injury can affect either pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-2095",
+    "category": "Musculoskeletal source details",
+    "q": "What anatomic tissue is inflamed in source deQuervain tenosynovitis?",
+    "a": "The involved tendon sheaths at the radial wrist; its thumb-in-palm/ulnar-deviation maneuver reproduces pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-2096",
+    "category": "Musculoskeletal source details",
+    "q": "Why can a source ganglion recur after aspiration?",
+    "a": "The communicating stalk/root to the joint or tendon-sheath region can remain; spontaneous regression is also described.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-2097",
+    "category": "Musculoskeletal source details",
+    "q": "What tendon origin does the source associate with tennis elbow?",
+    "a": "Extensor carpi radialis brevis at the lateral epicondylar region; resisted wrist extension reproduces pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-2098",
+    "category": "Musculoskeletal source details",
+    "q": "Which muscle origins does the source name for golfer elbow?",
+    "a": "Flexor carpi radialis and pronator teres, with pain on resisted wrist flexion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-2099",
+    "category": "Musculoskeletal source details",
+    "q": "What two reduction movements does the source name for nursemaid elbow?",
+    "a": "Hyperpronation or supination with elbow flexion, after the history/exam supports radial-head subluxation rather than a fracture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-2100",
+    "category": "Musculoskeletal source details",
+    "q": "What pars-interarticularis definition does the PDF attach to spondylosis?",
+    "a": "It defines the condition as degeneration of the pars interarticularis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    },
+    "guideline": {
+      "text": "AAOS distinguishes spondylolysis as a pars stress fracture/defect and spondylolisthesis as vertebral slip. The PDF pars-specific spondylosis wording conflates these terms.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/spondylolysis-and-spondylolisthesis/"
+    }
+  },
+  {
+    "id": "s2fm-2101",
+    "category": "Musculoskeletal source details",
+    "q": "Why does lumbar stenosis often improve when leaning forward in the source?",
+    "a": "Flexion reduces the posture-related canal compromise/neurogenic claudication pattern; preserved pulses help contrast vascular claudication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2fm-2102",
+    "category": "Musculoskeletal source details",
+    "q": "Which cervical level does the source associate with weak hand muscles and little-finger sensory symptoms?",
+    "a": "C7-T1 foraminal narrowing in its example. An exiting-root pattern is not identical to cervical central-canal disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2fm-2103",
+    "category": "Musculoskeletal source details",
+    "q": "What disc components fail in a source herniated nucleus pulposus?",
+    "a": "Nuclear material herniates through the annulus, potentially irritating/compressing a nerve root.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-family-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2fm-2104",
+    "category": "Musculoskeletal source details",
+    "q": "What imaging shortcut does the source use for radiating low-back pain without deficits?",
+    "a": "No immediate imaging in its uncomplicated vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-family-medicine.pdf#page=215"
+    },
+    "guideline": {
+      "text": "NICE NG59 advises against routine non-specialist imaging with or without sciatica; specialist imaging is considered when likely to change management. Suspected serious disease/progressive deficits need separate evaluation.",
+      "url": "https://www.nice.org.uk/guidance/NG59/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2fm-2105",
+    "category": "Musculoskeletal source details",
+    "q": "What treatment principle does the source repeat for uncomplicated lumbar strain/sciatica?",
+    "a": "Maintain light activity as tolerated and use appropriate symptomatic treatment rather than prolonged bedrest; red flags change this approach.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-family-medicine.pdf#page=215"
+    }
+  },
+  {
+    "id": "s2fm-2106",
+    "category": "Musculoskeletal source details",
+    "q": "What source factors determine whether scoliosis bracing is considered?",
+    "a": "Curve magnitude and remaining growth; it gives over25 degrees in a growing child as its exam threshold, not an individualized orthopedic protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-2107",
+    "category": "Musculoskeletal source details",
+    "q": "What sensory territory does the source assign to the deep fibular nerve?",
+    "a": "First dorsal web space between the first two toes, with dorsiflexion weakness in its motor pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-2108",
+    "category": "Musculoskeletal source details",
+    "q": "What gait adaptation can follow source dorsiflexion weakness?",
+    "a": "High-steppage gait to clear the foot during swing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-2109",
+    "category": "Musculoskeletal source details",
+    "q": "How does a combined tibial/fibular motor deficit point proximally in the source?",
+    "a": "It can implicate the sciatic nerve before its major branches separate, rather than an isolated distal branch.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-2110",
+    "category": "Musculoskeletal source details",
+    "q": "Which muscles underlie the source superior-gluteal Trendelenburg pattern?",
+    "a": "Gluteus medius/minimus; the opposite pelvis drops when supported on the affected side, with compensatory trunk lean.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-2111",
+    "category": "Musculoskeletal source details",
+    "q": "How does source saphenous differ from sural sensation?",
+    "a": "Medial-leg sensory territory versus lateral distal-leg/foot territory in its comparison; neither is a motor nerve pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-2112",
+    "category": "Musculoskeletal source details",
+    "q": "What disc level does the source connect with L4 radiculopathy?",
+    "a": "L3-L4 disc disease affecting the traversing L4 root, with knee-extension/patellar-reflex findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-2113",
+    "category": "Musculoskeletal source details",
+    "q": "What disc level does the source connect with L5 versus S1 radiculopathy?",
+    "a": "L4-L5 and L5-S1 respectively, in its common traversing-root pattern; foraminal/far-lateral lesions can differ.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-2114",
+    "category": "Musculoskeletal source details",
+    "q": "What source feature distinguishes septic bursitis from its septic-arthritis vignette?",
+    "a": "No joint effusion, in the PDF exam contrast; absence of an obvious effusion alone is not a safe universal exclusion of joint infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-2115",
+    "category": "Musculoskeletal source details",
+    "q": "How does the source distinguish jumper knee from patellofemoral pain?",
+    "a": "Patellar-tendon-related anterior pain after jumping versus anterior pain with prolonged sitting/stairs. It also describes patellar-tracking/instability overlap, so exam context matters.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-2116",
+    "category": "Musculoskeletal source details",
+    "q": "What knee translations do ACL and PCL normally restrain in source drawer testing?",
+    "a": "ACL limits anterior tibial translation; PCL limits posterior tibial translation relative to the femur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-family-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2fm-2117",
+    "category": "Musculoskeletal source details",
+    "q": "How do source McMurray rotations differ for medial and lateral meniscus?",
+    "a": "External tibial rotation for a medial pattern and internal rotation for a lateral pattern during the maneuver, with pain/catching as source clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-2118",
+    "category": "Musculoskeletal source details",
+    "q": "What injury components are included in the source unhappy-triad discussion?",
+    "a": "ACL, MCL and a meniscal injury. The PDF acknowledges medial or lateral meniscal involvement rather than requiring one exclusive meniscus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-2119",
+    "category": "Musculoskeletal source details",
+    "q": "Which repetitive-growth mechanism does the source give for Osgood-Schlatter disease?",
+    "a": "Traction stress at the tibial-tubercle apophysis/patellar-ligament insertion in a growing active child.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-2120",
+    "category": "Musculoskeletal source details",
+    "q": "Which location and tissue description does the PDF give for Morton neuroma?",
+    "a": "Between the second and third metatarsals, called a benign nerve tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    },
+    "guideline": {
+      "text": "AAOS describes perineural tissue thickening, not a true tumor; it is most often between the third and fourth toes, though second-web-space disease occurs.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/mortons-neuroma/"
+    }
+  },
+  {
+    "id": "s2fm-2121",
+    "category": "Musculoskeletal source details",
+    "q": "Which ligament supports the medial ankle and is stressed by eversion in the source?",
+    "a": "The deltoid ligament; lateral inversion injuries more commonly affect the anterior talofibular ligament.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-family-medicine.pdf#page=221"
+    }
+  },
+  {
+    "id": "s2fm-2122",
+    "category": "Musculoskeletal source details",
+    "q": "What must accompany a malleolar tenderness criterion in the source Ottawa rule?",
+    "a": "Pain in the malleolar zone, plus qualifying posterior/tip bony tenderness or inability to take 4 steps. It is not merely any swelling/anterior soft-tissue soreness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-family-medicine.pdf#page=221"
+    }
+  },
+  {
+    "id": "s2fm-2123",
+    "category": "Musculoskeletal source details",
+    "q": "What fragment count does the PDF give for a comminuted fracture?",
+    "a": "At least 2 pieces.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    },
+    "guideline": {
+      "text": "AAOS defines comminution as three or more pieces. Its open-fracture definition also does not require bone to visibly protrude from the wound.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/fractures-broken-bones/"
+    }
+  },
+  {
+    "id": "s2fm-2124",
+    "category": "Musculoskeletal source details",
+    "q": "What immobilization does the source name for a clavicle fracture?",
+    "a": "A figure-of-eight sling/brace.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    },
+    "guideline": {
+      "text": "AAOS 2022 consensus prefers a sling in most acute clavicle fractures rather than a figure-of-eight brace. Specific fracture indications may require other management.",
+      "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/clavicle-fractures/clavicle-fractures-cpg.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2125",
+    "category": "Musculoskeletal source details",
+    "q": "Why does the PDF immobilize a suspected scaphoid fracture despite a negative first film?",
+    "a": "An occult fracture can threaten vascular supply; the source uses thumb-spica protection and repeat imaging, rather than excluding it from an initial negative radiograph.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-2126",
+    "category": "Musculoskeletal source details",
+    "q": "What source nutrient disorder is associated with Looser-type pseudofracture bands?",
+    "a": "Osteomalacia/rickets from deficient mineralization, including renal-related vitamin D problems in its discussion. It is not the same as low bone mass alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-2127",
+    "category": "Musculoskeletal source details",
+    "q": "How does unmineralized osteoid change in the source rickets/osteomalacia pattern?",
+    "a": "It accumulates because mineralization is defective; rickets adds growth-plate deformity in children.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-2128",
+    "category": "Musculoskeletal source details",
+    "q": "Why can high bone density coexist with fractures in source osteopetrosis?",
+    "a": "Abnormal osteoclast resorption/remodeling produces dense but disorganized brittle bone. The PDF names carbonic-anhydrase II deficiency as one mechanism, not every genetic subtype.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-2129",
+    "category": "Musculoskeletal source details",
+    "q": "What is arthrogryposis in the source comparison with isolated clubfoot?",
+    "a": "Multiple congenital joint contractures, rather than a single foot deformity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-2130",
+    "category": "Musculoskeletal source details",
+    "q": "How does the source developmental-hip-dysplasia assessment vary by age?",
+    "a": "Barlow/Ortolani exam and early orthopedic evaluation, ultrasound in the young infant and radiography after increasing ossification; the PDF uses a 6-month imaging boundary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-2131",
+    "category": "Musculoskeletal source details",
+    "q": "What universal treatment does the PDF give for childhood Perthes disease?",
+    "a": "Hip replacement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    },
+    "guideline": {
+      "text": "AAOS describes age/stage/severity-based observation, activity adjustment, physical therapy, containment casting/bracing and selected osteotomy. Routine pediatric hip replacement is not the standard source of care.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/perthes-disease/"
+    }
+  },
+  {
+    "id": "s2fm-2132",
+    "category": "Musculoskeletal source details",
+    "q": "Why should normal BMI not exclude the source SCFE presentation?",
+    "a": "The PDF includes adolescents without obesity; age, painful limp and radiographic epiphyseal displacement matter. It names urgent orthopedic pinning in its treatment summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-2133",
+    "category": "Musculoskeletal source details",
+    "q": "What source anemia pattern can accompany JIA inflammation?",
+    "a": "Anemia of inflammation can be microcytic as well as normocytic; MCV alone does not determine the cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-2134",
+    "category": "Musculoskeletal source details",
+    "q": "What treatment distinction does the source make between symptomatic and disease-modifying arthritis drugs?",
+    "a": "NSAIDs/steroids control symptoms; DMARDs such as methotrexate and selected biologics can alter disease activity/progression. Its fixed ladder is not universal across JIA subtypes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-2135",
+    "category": "Musculoskeletal source details",
+    "q": "What does source PAIR group in the spondyloarthritis discussion?",
+    "a": "Psoriatic, ankylosing, inflammatory-bowel-disease-associated and reactive arthritis, with variable HLA-B27 association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2136",
+    "category": "Musculoskeletal source details",
+    "q": "What is Auspitz sign in the source psoriasis description?",
+    "a": "Pinpoint bleeding after removal of scale; it is a clue, not a complete diagnostic requirement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2137",
+    "category": "Musculoskeletal source details",
+    "q": "How does inflammatory axial pain change with activity in the source?",
+    "a": "Morning stiffness/back pain improves with movement, contrasting with some mechanical pain patterns.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2138",
+    "category": "Musculoskeletal source details",
+    "q": "Why do complements fall during some source SLE flares?",
+    "a": "Immune-complex activation/consumption, with C3 highlighted; the value alone does not define every flare or nephritis class.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2139",
+    "category": "Musculoskeletal source details",
+    "q": "What source reason is given for renal biopsy before selecting lupus-nephritis treatment?",
+    "a": "Histologic classification guides therapy; the PDF diffuse-proliferative-only shorthand does not represent all classes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-2140",
+    "category": "Musculoskeletal source details",
+    "q": "Why can a negative joint-fluid organism stain fail to rule out septic arthritis?",
+    "a": "Sensitivity is incomplete; clinical findings, culture and other data remain important. The source explicitly cautions against excluding infection when organisms are not seen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-2141",
+    "category": "Musculoskeletal source details",
+    "q": "Which source pathogen clue remains relevant in sickle-cell septic joint disease?",
+    "a": "Salmonella is emphasized, but a gram-positive culture still supports staphylococcal disease; the underlying condition does not override microbiology.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-2142",
+    "category": "Musculoskeletal source details",
+    "q": "What bone-turnover and cardiac mechanism does the source give for Paget disease?",
+    "a": "Mixed excessive osteoclastic/osteoblastic remodeling; intraosseous vascular shunting can contribute to high-output failure in extensive disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-2143",
+    "category": "Musculoskeletal source details",
+    "q": "Does the current USPSTF male-screening I statement mean men cannot have osteoporosis?",
+    "a": "No. USPSTF 2025 says evidence is insufficient to determine routine-screening benefit/harms in men, not that men are free of fracture/osteoporosis risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    },
+    "guideline": {
+      "text": "USPSTF 2025 final: screen women 65+ and increased-risk postmenopausal women under 65 (Grade B); men I statement. Clinical judgment remains appropriate for men.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening"
+    }
   }
 ];
