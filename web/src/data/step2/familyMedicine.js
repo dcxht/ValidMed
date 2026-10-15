@@ -41689,7 +41689,11 @@ export default [
     "sourcePages": [
       240,
       271
-    ]
+    ],
+    "guideline": {
+      "text": "ATA/ETA 2022 consensus bases thyroid-eye-disease treatment on activity, severity and features, not prednisone for every case of proptosis. Local eye care and smoking cessation support apply broadly; selected active moderate-to-severe cases may need IV glucocorticoids or other therapies, and sight-threatening optic neuropathy needs urgent specialist treatment. Treating thyroid hormone excess is separate from directly treating orbital inflammation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9807259/"
+    }
   },
   {
     "id": "s2fm-3292",
@@ -42464,6 +42468,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 273,
       "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "ATA 2026 pregnancy guideline Table 17 allows PTU when initiating therapy before 16 weeks and individualized consideration of switching early-pregnancy methimazole to PTU. Its footnote explicitly says that if treatment is still needed after 16 weeks, whether to continue PTU or switch to methimazole remains unclear. The PDF automatic trimester switch is therefore not a universal current rule. This passage was read in the author-university repository copy of the published guideline, with title, authors and DOI matched to the publisher record.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/250480178/American_Thyroid_Association_2026_Guidelines_for_Thyroid_Disease_in_Preconception_Pregnancy_and_Postpartum.pdf"
     }
   },
   {
@@ -42752,6 +42760,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 284,
       "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "NIH HIV opportunistic-infection guidance updated October 2024 and reviewed March 2026 uses induction, consolidation and maintenance phases. Preferred induction in monitored US-type settings is liposomal amphotericin B plus flucytosine; resource-limited regimens differ. Fluconazole consolidation and later maintenance depend on response, culture status and immune recovery. CSF pressure management and renal/electrolyte monitoring are essential. This source specifically covers adults/adolescents with HIV, not every host or cryptococcal presentation.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/cryptococcosis"
     }
   },
   {
@@ -42882,6 +42894,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 287,
       "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "NCI explains that LHRH/GnRH agonists can cause an initial testosterone flare and that androgen-receptor blockers are sometimes used during the first weeks to prevent it. GnRH antagonists do not cause that flare. Current treatment includes multiple drug classes and stage-specific combinations; flutamide plus leuprolide is one source example, not the sole modern regimen.",
+      "url": "https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet"
     }
   },
   {
