@@ -18665,11 +18665,15 @@ export default [
     "id": "s2fm-1628",
     "category": "Infectious disease source details",
     "q": "Which intestinal and extraintestinal lesions does the PDF associate with Entamoeba?",
-    "a": "Flask-shaped intestinal ulcers and liver abscess. It says small bowel in its source text; that exact location is pending verification.",
+    "a": "Flask-shaped ulcers described as small-bowel lesions, and liver abscess.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 76,
       "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC DPDx says excystation occurs in the small intestine, but trophozoites migrate to the large intestine, where invasive intestinal disease occurs. The life-cycle location and invasive colitis site are different.",
+      "url": "https://www.cdc.gov/dpdx/amebiasis/"
     }
   },
   {
@@ -18692,6 +18696,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 76,
       "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    },
+    "guideline": {
+      "text": "NIH adult/adolescent HIV guidance makes ART-mediated immune restoration and rehydration/electrolyte replacement central. Nitazoxanide may be considered with optimized ART, not as a replacement for it. CDC notes unclear effectiveness and no approval for weakened immune systems.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/cryptosporidiosis"
     }
   },
   {
@@ -27999,6 +28007,66 @@ export default [
     "guideline": {
       "text": "CDC 2021 guidance uses metronidazole 500 mg twice daily for 7 days for women, versus 2 g once for men; partners need concurrent treatment. Treatment and retesting details depend on the patient and are not one universal single-dose rule.",
       "url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm"
+    }
+  },
+  {
+    "id": "s2fm-2408",
+    "category": "GI infection exact-claim reconciliation",
+    "q": "What antibiotic and follow-up-colonoscopy sequence does the PDF give for diverticulitis?",
+    "a": "Treat with antibiotics, then arrange colonoscopy weeks to months later; avoid colonoscopy acutely.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    },
+    "guideline": {
+      "text": "AGA guidance allows selective rather than routine antibiotics in immunocompetent mild uncomplicated disease. Colonoscopy depends on severity, history and recent high-quality examination; when indicated, usually delay 6-8 weeks or until symptoms resolve, longer if needed. Complicated/high-risk disease differs.",
+      "url": "https://gastro.org/clinical-guidance/medical-management-of-colonic-diverticulitis/"
+    }
+  },
+  {
+    "id": "s2fm-2409",
+    "category": "GI infection exact-claim reconciliation",
+    "q": "Which acquisition route does the PDF emphasize for Vibrio vulnificus while describing beach-associated sepsis?",
+    "a": "Shellfish, despite an example of sepsis after running on a beach.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    },
+    "guideline": {
+      "text": "CDC prevention guidance describes both raw/undercooked seafood ingestion and open-wound exposure to salt/brackish coastal water or seafood juices. Lack of ingestion does not exclude a wound-associated Vibrio infection.",
+      "url": "https://www.cdc.gov/vibrio/prevention/"
+    }
+  },
+  {
+    "id": "s2fm-2410",
+    "category": "GI infection exact-claim reconciliation",
+    "q": "What exposure label does the PDF give Taenia solium beside cysticercosis and neurocysticercosis?",
+    "a": "Pork tapeworm, without distinguishing adult intestinal infection from larval tissue infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    },
+    "guideline": {
+      "text": "CDC explains that swallowing T. solium eggs causes cysticercosis. Eating undercooked pork containing cysticerci causes intestinal tapeworm infection (taeniasis), not directly cysticercosis.",
+      "url": "https://www.cdc.gov/cysticercosis/spreads/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2411",
+    "category": "GI infection exact-claim reconciliation",
+    "q": "What treatment does the PDF give as its hydatid-cyst rule?",
+    "a": "Surgical removal, with a warning not to biopsy because of anaphylaxis risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "CDC describes selected surgery, benzimidazole therapy, PAIR or watch-and-wait for cystic echinococcosis based on cyst type, location, size and complications. This is specialist selection, not permission for unsupervised puncture.",
+      "url": "https://www.cdc.gov/echinococcosis/hcp/clinical-care/index.html"
     }
   }
 ];
