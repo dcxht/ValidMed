@@ -14131,5 +14131,244 @@ export default [
       "text": "The Canadian Paediatric Society, reaffirmed January 2026, recommends trauma-informed examination and expert review because normal findings are common and some nonabuse findings can be misread. No single simple appearance rule should determine whether abuse occurred.",
       "url": "https://cps.ca/en/documents/position/the-medical-evaluation-of-pre-pubertal-children-with-suspected-sexual-abuse"
     }
+  },
+  {
+    "id": "s2peds-1020",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Which benign breast condition causes cyclic tenderness, and what source age range is typical?",
+    "a": "Fibrocystic change. The PDF describes benign cystic alterations in women in their 20s-50s and notes that teenagers can also be affected. The classic vignette is a woman in her 20s-30s with bilateral waxing and waning tenderness over her menstrual cycle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2peds-1021",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Must fibrocystic breast discomfort be bilateral?",
+    "a": "No. The source also describes unilateral tenderness or sharp pain in one breast. Its introduction says three presentations but lists only two numbered patterns; no third pattern is supplied.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "Merck August 2026 describes breast pain, lumpiness and cysts. A new discrete lump or suspicious change requires assessment rather than assuming all focal symptoms are benign fibrocystic change.",
+      "url": "https://www.merckmanuals.com/home/women-s-health-issues/breast-disorders/fibrocystic-changes-of-the-breast"
+    }
+  },
+  {
+    "id": "s2peds-1022",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Does the PDF no-imaging shortcut for fibrocystic change apply to every breast complaint?",
+    "a": "No. For its typical benign cyclic-pain vignette the source uses a clinical diagnosis without biopsy or ultrasound. This is not a blanket instruction to ignore a new or suspicious palpable mass.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "Merck August 2026 recommends further testing for a lump or suspicious change. In adolescents, a 2025 pediatric imaging review supports reassurance for clinically normal development but ultrasound when an actual mass or abnormality is suspected.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12403221/"
+    }
+  },
+  {
+    "id": "s2peds-1023",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "What symptomatic measures does the PDF list for fibrocystic change, and is evening primrose oil established treatment?",
+    "a": "The source lists warm showers and evening primrose oil. Symptom relief rather than a procedure is its exam answer, but the supplement example does not establish efficacy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "The NHS says there is little evidence that evening primrose oil or vitamin E helps breast pain. It recommends a properly fitted bra and pain relief such as paracetamol, ibuprofen or topical pain-relieving gel when appropriate.",
+      "url": "https://www.nhs.uk/symptoms/breast-pain/"
+    }
+  },
+  {
+    "id": "s2peds-1024",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Which histological phrases does the source associate with fibrocystic change if tissue is sampled?",
+    "a": "Sclerosing adenosis, apocrine metaplasia and blue dome cysts. Their appearance in the source does not mean every patient needs a biopsy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2peds-1025",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "What benign developmental breast asymmetry does the source call virginal breast hypertrophy?",
+    "a": "Asymmetric breast growth in a young woman. Its vignette is a 16-year-old with a subareolar lump on one side, for which it favors observation and follow-up even if a first-degree relative had breast cancer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "A 2025 pediatric imaging review confirms common developmental asymmetry and observation for normal development. Rapid growth, a true palpable mass or suspicious findings warrant ultrasound; family cancer history and inherited risk still matter. Severe juvenile hypertrophy is not automatically equivalent to a normal breast bud.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12403221/"
+    }
+  },
+  {
+    "id": "s2peds-1026",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "How can physiologic gynecomastia present in a teenage boy, and what does the source recommend?",
+    "a": "Tender or nontender enlargement of breast tissue on one or both sides. For an otherwise typical pubertal presentation, observe and reassure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "Merck February 2025 describes transient pubertal subareolar glandular enlargement, often resolving within six months to two years. An eccentric hard mass, discharge, skin fixation, a testicular mass or other endocrine signs requires assessment rather than automatic reassurance.",
+      "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/male-reproductive-endocrinology-and-related-disorders/gynecomastia"
+    }
+  },
+  {
+    "id": "s2peds-1027",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Which disease and drugs or substances does the PDF associate with gynecomastia?",
+    "a": "Liver failure and increased estrogen effect; cimetidine, spironolactone, ketoconazole and marijuana. These are source associations, not proof that an exposure caused an individual case.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "Merck February 2025 lists cirrhosis and relevant medications or substances and recommends a full history. The physiological mechanism can be increased estrogen effect or decreased androgen effect, so it is broader than an elevated estrogen concentration alone.",
+      "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/male-reproductive-endocrinology-and-related-disorders/gynecomastia"
+    }
+  },
+  {
+    "id": "s2peds-1028",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Is gynecomastia caused directly by prolactin in the source explanation?",
+    "a": "No. The PDF emphasizes an estrogen effect on breast tissue rather than direct prolactin action.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "Merck February 2025 describes the estrogen-androgen balance, including decreased androgen production or action. Interpret the source as a mechanism distinction, not a reason to ignore evidence of another endocrine disorder.",
+      "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/male-reproductive-endocrinology-and-related-disorders/gynecomastia"
+    }
+  },
+  {
+    "id": "s2peds-1029",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "What kind of breast fat necrosis follows trauma, and how does it differ from pancreatitis-associated fat necrosis?",
+    "a": "Breast trauma causes nonenzymatic fat necrosis, which may calcify. The source examples are a softball injury or tight sports bras. Acute pancreatitis instead causes enzymatic fat necrosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2peds-1030",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "What source presentation and pouch-of-Douglas finding suggest a ruptured ovarian cyst?",
+    "a": "Sudden sharp adnexal pain with 10-15 mL of serosanguineous fluid on culdocentesis, meaning aspiration of the pouch of Douglas. The source explains adnexa as the ovary plus fallopian tube and says its vignette lacks a mass or does not mention one.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "Merck lists ultrasound and, when bleeding is suspected, CBC for evaluation. The source culdocentesis volume is a historical vignette cue, not a mandatory modern diagnostic test or a definitive discriminator from torsion.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/table/some-gynecologic-causes-of-pelvic-pain"
+    }
+  },
+  {
+    "id": "s2peds-1031",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "When does the source symptomatic-only approach to a ruptured ovarian cyst apply?",
+    "a": "For a stable, uncomplicated rupture, it recommends an NSAID and no routine laparoscopy. Its wording must not be applied to an unstable patient or significant ongoing bleeding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "Medscape updated June 2025 supports conservative analgesia for stable patients, observation and serial assessment when evolving, and surgery when continued bleeding is concerning or the patient is hemodynamically unstable.",
+      "url": "https://emedicine.medscape.com/article/253620-treatment"
+    }
+  },
+  {
+    "id": "s2peds-1032",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "What pain course and mass clue does the PDF use for adnexal or ovarian torsion?",
+    "a": "Intermittent adnexal pain becoming constant over hours to weeks, or sometimes a few hours of constant pain without preceding intermittent symptoms. The source gives a large mass such as 8 x 12 cm. Its three-quarters versus one-quarter split is an anecdotal question-pattern claim, not a validated incidence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "ACOG Committee Opinion 783 describes sudden, often intermittent pain with nausea and vomiting. A prior mass is not required: up to 46% of pediatric/adolescent torsions involve an ovary without an associated mass or cyst.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1033",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Does absent mention of free fluid distinguish torsion from a ruptured ovarian cyst?",
+    "a": "The PDF contrasts rupture with pouch-of-Douglas fluid against torsion with a large mass and no fluid mentioned. This is only its vignette shortcut, not an exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "ACOG describes pelvic free fluid among ultrasound findings of torsion. Neither fluid nor its absence settles the diagnosis, and normal Doppler arterial flow does not rule out torsion.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1034",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "A patient with a known ovarian cyst now has acute pain and a large adnexal mass. What diagnosis and treatment does the source favor?",
+    "a": "Adnexal torsion rather than automatically calling it cyst rupture. The PDF calls a pre-existing anatomic abnormality such as a cyst its main risk factor and recommends laparoscopic detorsion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "ACOG supports timely diagnostic laparoscopy when torsion is suspected, with detorsion and preservation of the adnexa regardless of apparent ovarian color. A cyst increases risk but its absence does not exclude torsion; Doppler alone must not delay care.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents"
+    }
+  },
+  {
+    "id": "s2peds-1035",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Which HPV types cause the source genital warts and neonatal vocal-cord lesion?",
+    "a": "HPV 6 and 11 cause condylomata acuminata and can cause laryngeal papillomatosis, warts of the vocal cords, in neonates. The source notes HPV disease is not confined to genital tissue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    },
+    "guideline": {
+      "text": "CDC confirms that types 6 and 11 cause most anogenital warts and can be associated with laryngeal warts. Recurrent respiratory papillomatosis in infants and children is rare; cesarean delivery is not recommended solely to prevent HPV transmission.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/anogenital-warts.htm"
+    }
+  },
+  {
+    "id": "s2peds-1036",
+    "category": "Breast, ovarian and HPV conditions",
+    "q": "Which HPV types and risk modifiers does the source connect with genital or anal squamous cell carcinoma?",
+    "a": "High-risk HPV 16 and 18. The PDF emphasizes increased overt-cancer risk with immunocompromise, including HIV in men who have sex with men, and heavy smoking. This contrasts with the usual low-risk wart types 6 and 11; not every HPV infection progresses to cancer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 74,
+      "url": "/mehlman/hy-pediatrics.pdf#page=74"
+    }
   }
 ];
