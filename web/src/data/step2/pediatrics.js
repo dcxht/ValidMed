@@ -10429,5 +10429,292 @@ export default [
       "text": "Merck July 2026 describes mechanical RBC disruption with fibrin polymers and recommends a smear as part of evaluation alongside platelet count, PT/aPTT, fibrinogen and D-dimer.",
       "url": "https://www.merckmanuals.com/professional/hematology/coagulation-disorders/disseminated-intravascular-coagulation-dic"
     }
+  },
+  {
+    "id": "s2peds-0770",
+    "category": "Pediatric hematology",
+    "q": "What RBC finding is shown in the source smear continuing the DIC row from p55?",
+    "a": "Schistocytes, fragmented red cells including helmet-shaped forms. The source image belongs to the DIC continuation, but this morphology also appears in other microangiopathic processes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 HUS review uses fragmented RBCs with evidence of hemolysis in assessment of thrombotic microangiopathy. A smear shape alone does not distinguish DIC, HUS and TTP.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/hemolytic-uremic-syndrome-hus"
+    },
+    "img": "/mehlman/pediatrics/p056-schistocytes.jpg"
+  },
+  {
+    "id": "s2peds-0771",
+    "category": "Pediatric hematology",
+    "q": "What triad defines the source HUS presentation?",
+    "a": "Thrombocytopenia, microangiopathic hemolytic anemia with schistocytes, and renal insufficiency. Hematuria may be present or absent.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 describes thrombocytopenia, MAHA and acute kidney injury. Kidney involvement may include hematuria, reduced urine output/anuria and hypertension.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/hemolytic-uremic-syndrome-hus"
+    }
+  },
+  {
+    "id": "s2peds-0772",
+    "category": "Pediatric hematology",
+    "q": "How should the source thrombocytopenia-plus-schistocytes shortcut for MAHA be interpreted?",
+    "a": "It is a warning pattern for a thrombotic microangiopathy, not a full definition of hemolytic anemia. MAHA means RBC destruction in the microcirculation and requires evidence of hemolysis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 evaluates hemoglobin, smear, reticulocytes, LDH, bilirubin, haptoglobin and direct antiglobulin testing. Do not establish hemolytic anemia from platelet count and cell shape alone.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/hemolytic-uremic-syndrome-hus"
+    }
+  },
+  {
+    "id": "s2peds-0773",
+    "category": "Pediatric hematology",
+    "q": "Which organisms does the source connect with toxin-mediated HUS?",
+    "a": "Shiga-toxin-producing E. coli, classically O157:H7, and toxin-producing Shigella. The PDF calls their toxins Shiga-like toxin and Shiga toxin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 specifies Shiga-toxin-producing bacteria and some Shigella dysenteriae strains. Not all E. coli or Shigella infections have this mechanism, and other infection-associated or complement-mediated HUS forms exist.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/hemolytic-uremic-syndrome-hus"
+    }
+  },
+  {
+    "id": "s2peds-0774",
+    "category": "Pediatric hematology",
+    "q": "How does the source link bacterial toxin to schistocytes in HUS?",
+    "a": "Endothelial injury in renal microvessels promotes platelet-rich microvascular obstruction; RBCs are damaged as they traverse the affected circulation, producing fragments.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 describes endothelial injury, platelet microthrombi, platelet consumption and nonimmune RBC destruction. This is microvascular injury rather than antibodies directly targeting RBCs.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/hemolytic-uremic-syndrome-hus"
+    }
+  },
+  {
+    "id": "s2peds-0775",
+    "category": "Pediatric hematology",
+    "q": "What classic pentad does the source use to recognize TTP?",
+    "a": "Thrombocytopenia, microangiopathic hemolytic anemia/schistocytes, renal dysfunction, fever and neurologic signs. It is a historical recognition pattern, not a requirement to wait for all five findings.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 emphasizes thrombocytopenia/MAHA with variable organ injury and says treatment may begin before confirmatory testing. Fever is often absent; neurologic symptoms can occur in HUS too.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/thrombotic-thrombocytopenic-purpura-ttp"
+    }
+  },
+  {
+    "id": "s2peds-0776",
+    "category": "Pediatric hematology",
+    "q": "Can fever and neurologic signs alone reliably separate TTP from HUS, as the source contrast might suggest?",
+    "a": "No. They overlap. The source TTP-equals-HUS-plus-two mnemonic should not replace testing for the cause of the thrombotic microangiopathy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 says the presentations are largely indistinguishable, though neurologic involvement is less common and kidney failure more common in HUS. Severe ADAMTS13 deficiency supports TTP.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/thrombotic-thrombocytopenic-purpura-ttp"
+    }
+  },
+  {
+    "id": "s2peds-0777",
+    "category": "Pediatric hematology",
+    "q": "What ADAMTS13 defect does the source identify in TTP?",
+    "a": "Acquired antibodies or inherited mutations can cause ADAMTS13 deficiency. It is a metalloprotease that normally cleaves unusually large VWF multimers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "ISTH 2025 describes immune versus congenital TTP and severe ADAMTS13 activity below 10% in the proper clinical context. Genetic testing and antibody evaluation distinguish causes; a negative initial inhibitor test alone does not prove congenital disease.",
+      "url": "https://www.jthjournal.org/article/S1538-7836(25)00360-5/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0778",
+    "category": "Pediatric hematology",
+    "q": "What does impaired ADAMTS13 cleavage actually leave behind in the source TTP mechanism?",
+    "a": "Unusually large VWF multimers that promote platelet adhesion/aggregation and microvascular thrombi. ADAMTS13 cleaves VWF, not completed platelet aggregates directly.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "ISTH 2025 describes ultra-large VWF accumulation on endothelium and in circulation, excessive platelet aggregation, microvascular thrombi and ischemic organ injury throughout the body, not just the kidney.",
+      "url": "https://www.jthjournal.org/article/S1538-7836(25)00360-5/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0779",
+    "category": "Pediatric hematology",
+    "q": "Why can TTP produce schistocytes and a stroke-like presentation in the source young-woman vignette?",
+    "a": "Microvascular thrombi consume platelets and fragment RBCs while impairing organ perfusion, including the brain. A stroke-like presentation with thrombocytopenia/hemolysis warrants urgent evaluation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck June 2026 describes variable neurologic ischemic manifestations and urgent recognition. The source recalled exam question is an illustration, not a rule that every young woman with stroke symptoms has TTP.",
+      "url": "https://www.merckmanuals.com/professional/hematology/thrombocytopenia-and-platelet-dysfunction/thrombotic-thrombocytopenic-purpura-ttp"
+    }
+  },
+  {
+    "id": "s2peds-0780",
+    "category": "Pediatric hematology",
+    "q": "What urgent treatment does the source Step2 TTP question answer with?",
+    "a": "Therapeutic plasma exchange, which the PDF calls plasmapheresis. In suspected immune TTP this is urgent specialist care, not something to postpone until the full pentad appears.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "ISTH 2025 retains plasma exchange plus corticosteroids for acute immune TTP, with selected additional therapies. The guideline warns pediatric application needs caution because evidence is mostly adult; congenital TTP requires ADAMTS13 replacement rather than assuming the same immune-TTP regimen.",
+      "url": "https://www.jthjournal.org/article/S1538-7836(25)00360-5/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0781",
+    "category": "Pediatric hematology",
+    "q": "What beta-globin change does the source associate with sickle cell anemia?",
+    "a": "A glutamic-acid-to-valine missense substitution in beta-globin, inherited in an autosomal-recessive disease pattern. The molecular change produces hemoglobin S.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck April 2026 places the substitution at beta-chain position 6 and describes deoxygenated HbS polymerization, RBC deformation, vaso-occlusion and hemolysis.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
+    }
+  },
+  {
+    "id": "s2peds-0782",
+    "category": "Pediatric hematology",
+    "q": "What is sickle cell trait in the source one-versus-two-gene comparison?",
+    "a": "One HbS allele with a normal hemoglobin allele is sickle cell trait, usually without sickle cell disease symptoms. HbSS means two HbS alleles and is commonly called sickle cell anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "CDC August 2026 distinguishes HbSS from trait and also lists other SCD genotypes such as HbSC and HbS/beta-thalassemia. Disease is not limited to two identical HbS alleles.",
+      "url": "https://www.cdc.gov/sickle-cell/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0783",
+    "category": "Pediatric hematology",
+    "q": "Why is the source phrase trait is less severe incomplete?",
+    "a": "Trait is not simply a mild form of sickle cell anemia; most people with trait do not have disease symptoms. Rare complications can occur under particular stresses, and the allele can be passed to children.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "CDC August 2026 describes usual absence of disease symptoms in trait and rare stress-associated health problems. Trait and disease are different genetic states, not stages of progression.",
+      "url": "https://www.cdc.gov/sickle-cell/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0784",
+    "category": "Pediatric hematology",
+    "q": "Which source sickle-cell pain presentations should be recognized?",
+    "a": "Abdominal pain, chest pain and dactylitis, meaning painful inflammation/swelling of the digits. A crisis can involve more than a single long-bone pain complaint.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes acute unexplained bone pain, including fingers, and warns chest pain or breathing difficulty requires assessment for acute chest syndrome and other causes. Do not label every chest symptom a routine pain crisis.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
+    }
+  },
+  {
+    "id": "s2peds-0785",
+    "category": "Pediatric hematology",
+    "q": "What source abdominal-pain vignette can resemble appendicitis?",
+    "a": "A child from Libya with RLQ pain and low hemoglobin; the author recalled question asks for a blood smear to reveal sickling. Geographic ancestry is context, not proof of disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes smear examination as part of evaluation, but genotype confirmation uses hemoglobin studies. The exact NBME vignette and author high-yield ranking are not independently verified.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
+    }
+  },
+  {
+    "id": "s2peds-0786",
+    "category": "Pediatric hematology",
+    "q": "Does the source blood-smear answer by itself confirm the sickle genotype?",
+    "a": "No. The smear can show sickling and prompt the diagnosis, but hemoglobin analysis is needed to establish the hemoglobin pattern/genotype. Do not make ancestry or abdominal pain a substitute for confirmation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "The CDC sickle-status fact sheet lists hemoglobin electrophoresis, HPLC or DNA testing to establish the hemoglobin type. The source test-choice anecdote is not a complete diagnostic protocol.",
+      "url": "https://www.cdc.gov/sickle-cell/media/fact-sheets/sickle-cell-trait/get-screened-to-know-your-sickle-cell-status.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0787",
+    "category": "Pediatric hematology",
+    "q": "Which precipitating conditions does the source emphasize for sickling?",
+    "a": "Dehydration and increased acidity. These are source mechanism/trigger reminders, not instructions to force fluids or ignore other triggers and diagnoses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck April 2026 confirms dehydration can precipitate sickling but says the value of vigorous hydration during crises is uncertain; maintain normal intravascular volume. The linked review does not independently verify the PDF acidosis wording.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
+    }
+  },
+  {
+    "id": "s2peds-0788",
+    "category": "Pediatric hematology",
+    "q": "What RBC shape does this actual source sickle-cell smear show?",
+    "a": "Elongated crescent/sickle-shaped red cells, with pointed curved forms visible among other RBCs. The image supports the morphology but does not alone establish a specific SCD genotype.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 56,
+      "url": "/mehlman/hy-pediatrics.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes crescent cells with elongated or pointed ends on a dry-stained smear and confirmation by hemoglobin studies. This is the PDF actual figure, not a substitute illustration.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
+    },
+    "img": "/mehlman/pediatrics/p056-sickle-cells.jpg"
   }
 ];
