@@ -30129,5 +30129,50 @@ export default [
       "text": "NIDDK explains that normal enzymes do not distinguish simple steatosis from steatohepatitis. Blood tests and imaging support evaluation; biopsy can establish NASH when needed. Obesity or normal enzymes alone do not prove steatohepatitis.",
       "url": "https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash/diagnosis"
     }
+  },
+  {
+    "id": "s2fm-2562",
+    "category": "Asthma exact-source criteria",
+    "q": "What prerequisites does the PDF imply for omalizumab in asthma?",
+    "a": "Severe asthma unresponsive to oral steroids, with eosinophilia and elevated IgE.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-family-medicine.pdf#page=293"
+    },
+    "guideline": {
+      "text": "Fetched FDA XOLAIR label (2024, not claimed latest) lists age 6+, moderate-to-severe persistent asthma, perennial-aeroallergen sensitization and inadequate control with inhaled corticosteroids. Failure of oral steroids and eosinophilia are not stated prerequisites. AAAAI April 2026 likewise describes biologic selection after controller optimization.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/103976s5245lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2563",
+    "category": "Late exact-source review",
+    "q": "What unusual urine-cast clue does the rapid PDF pair with pyelonephritis?",
+    "a": "CVA tenderness with granular casts; it explicitly says not acute tubular necrosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "Merck Professional urinary-cast table describes WBC casts as suggestive of pyelonephritis and granular/muddy-brown casts as more often indicating acute tubular necrosis. Casts are interpreted with symptoms, renal function, urinalysis and culture, rather than treating the PDF shortcut as exclusive.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/table/urinary-casts"
+    }
+  },
+  {
+    "id": "s2fm-2564",
+    "category": "Late exact-source review",
+    "q": "What absolute prevention claim does the PDF make for oral corticosteroids in asthma?",
+    "a": "It calls oral steroids the most effective way to prevent recurrence, including in a child with AERD.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-family-medicine.pdf#page=293"
+    },
+    "guideline": {
+      "text": "GINA 2026 describes low-dose maintenance oral corticosteroids only as a last resort after optimized inhaled therapy and other add-on options because of serious adverse effects. Short courses for selected exacerbations and chronic prevention are different uses; a blanket most-effective-prevention slogan should not replace age/phenotype-based care.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+    }
   }
 ];
