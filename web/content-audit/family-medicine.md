@@ -54,3 +54,5 @@ Selected additional rapid-bullet points through p282; repeated material requires
 Image pass: all77 embedded study figures on pp11-108 extracted, visually inspected as four contact sheets, source positions/text checked and converted to image questions. Labeled diagrams explicitly ask about the demonstrated feature rather than pretend labels are hidden.
 
 Remaining66 embedded study figures pp114-249 extracted and visually inspected as3 contact sheets; each source position and nearby text checked. Every embedded study image now has at least one image question (230 images); cover/end-matter images excluded. Full detail and editorial reconciliation remain.
+
+Second detail pass pp4-28 adds omitted concepts; unresolved exact claims remain in editorial ledger. Range is not yet certified exhaustive.

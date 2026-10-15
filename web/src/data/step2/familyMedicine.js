@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 317; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 317; detailed coverage pass in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -14513,6 +14513,707 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 249,
       "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-1266",
+    "category": "Cardiology",
+    "q": "How does pulmonary edema affect gas exchange in the source left-heart-failure explanation?",
+    "a": "It increases the alveolar-arterial oxygen gradient by impairing oxygenation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 4,
+      "url": "/mehlman/hy-family-medicine.pdf#page=4"
+    }
+  },
+  {
+    "id": "s2fm-1267",
+    "category": "Cardiology",
+    "q": "What jugular venous height does the PDF describe as normal?",
+    "a": "About 3 cm above the sternal angle. A numerical height must be interpreted with patient position and the measurement technique.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 4,
+      "url": "/mehlman/hy-family-medicine.pdf#page=4"
+    }
+  },
+  {
+    "id": "s2fm-1268",
+    "category": "Cardiology",
+    "q": "Why can severe COPD produce a subxiphoid rather than lateralized cardiac impulse?",
+    "a": "Hyperinflation can push the heart downward and toward the midline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 4,
+      "url": "/mehlman/hy-family-medicine.pdf#page=4"
+    }
+  },
+  {
+    "id": "s2fm-1269",
+    "category": "Cardiology",
+    "q": "What drug class is bosentan in the source pulmonary-hypertension discussion?",
+    "a": "Endothelin-receptor antagonist. Pulmonary-hypertension treatment depends on its cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 5,
+      "url": "/mehlman/hy-family-medicine.pdf#page=5"
+    }
+  },
+  {
+    "id": "s2fm-1270",
+    "category": "Cardiology",
+    "q": "What mechanism does the PDF give for edema with severe dietary protein deficiency?",
+    "a": "Hypoalbuminemia lowers plasma oncotic pressure. The PDF uses strict vegetarian/vegan diet as an example, but diet label alone does not establish protein deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 5,
+      "url": "/mehlman/hy-family-medicine.pdf#page=5"
+    }
+  },
+  {
+    "id": "s2fm-1271",
+    "category": "Cardiology",
+    "q": "What pregnancy-related mechanical factor can contribute to dependent edema?",
+    "a": "Compression of major abdominal venous outflow by the gravid uterus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 5,
+      "url": "/mehlman/hy-family-medicine.pdf#page=5"
+    }
+  },
+  {
+    "id": "s2fm-1272",
+    "category": "Cardiology",
+    "q": "What material accumulates in thyroid-associated myxedematous skin changes?",
+    "a": "Glycosaminoglycans/mucopolysaccharides, contributing to nonpitting edema.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 5,
+      "url": "/mehlman/hy-family-medicine.pdf#page=5"
+    }
+  },
+  {
+    "id": "s2fm-1273",
+    "category": "Cardiology",
+    "q": "What congenital defect combination defines tetralogy of Fallot?",
+    "a": "VSD, overriding aorta, right-ventricular hypertrophy and right-ventricular outflow obstruction/pulmonic stenosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-family-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2fm-1274",
+    "category": "Cardiology",
+    "q": "How can a longstanding left-to-right septal shunt become cyanotic?",
+    "a": "Pulmonary vascular disease raises right-sided pressure until shunt reversal occurs, Eisenmenger physiology.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-family-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2fm-1275",
+    "category": "Cardiology",
+    "q": "Why can severe mitral disease eventually produce JVD or other right-heart findings?",
+    "a": "Pulmonary venous/arterial pressure elevation can increase right-heart afterload and impair right-heart filling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-family-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2fm-1276",
+    "category": "Cardiology",
+    "q": "What tissue term does the PDF link with prolapse in connective-tissue disorders?",
+    "a": "Myxomatous degeneration of the mitral valve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-family-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2fm-1277",
+    "category": "Cardiology",
+    "q": "Why can aortic regurgitation produce eccentric left-ventricular hypertrophy?",
+    "a": "Regurgitant volume creates a chronic volume load on the ventricle.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-family-medicine.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2fm-1278",
+    "category": "Cardiology",
+    "q": "Why can both aortic regurgitation and aPDA produce bounding pulses?",
+    "a": "Blood runs off rapidly from the arterial circulation: into theLV withAR or into the pulmonary circulation through aPDA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-family-medicine.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2fm-1279",
+    "category": "Cardiology",
+    "q": "Why do many right-sided murmurs get louder with inspiration?",
+    "a": "Increased right-heart venous return increases flow through right-sided valves.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-family-medicine.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2fm-1280",
+    "category": "Cardiology",
+    "q": "What liver finding can accompany tricuspid regurgitation?",
+    "a": "A pulsatile liver from systolic transmission of right-sided venous pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-family-medicine.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2fm-1281",
+    "category": "Cardiology",
+    "q": "A systolic murmur appears during fever, anemia or pregnancy without structural valve disease. What source category is described?",
+    "a": "A functional/flow murmur from increased flow.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-family-medicine.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2fm-1282",
+    "category": "Cardiology",
+    "q": "A position-dependent diastolic rumble changes when the patient rolls to one side. Which source intracardiac mass mechanism is considered?",
+    "a": "A ball-valve effect from an atrial myxoma; the source also discusses pediatric rhabdomyoma in tuberous sclerosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-family-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2fm-1283",
+    "category": "Cardiology",
+    "q": "How does the source contrast anS 3 andS 4?",
+    "a": "Both are diastolic sounds. S 3 occurs during rapid ventricular filling and is associated with volume loading; S 4 reflects atrial contraction into a stiff ventricle.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-family-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2fm-1284",
+    "category": "Cardiology",
+    "q": "In which source settings can anS 3 be physiologic?",
+    "a": "Pregnancy and well-trained endurance athletes. In other contexts it can accompany ventricular dysfunction or high-output states.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-family-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2fm-1285",
+    "category": "Cardiology",
+    "q": "What sarcomere arrangements are associated with eccentric versus concentric hypertrophy in the source?",
+    "a": "Eccentric: sarcomeres added in series. Concentric: sarcomeres added in parallel.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-family-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2fm-1286",
+    "category": "Cardiology",
+    "q": "What source pressure state does a loudP 2 suggest?",
+    "a": "Pulmonary hypertension. A soft pulmonic component can instead accompany severe pulmonic stenosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-family-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2fm-1287",
+    "category": "Cardiology",
+    "q": "Which delayed component makesS 2 splitting paradoxical?",
+    "a": "DelayedA 2 occurring afterP 2, seen with delayed left-ventricular activation or outflow, as inLBBB or aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-family-medicine.pdf#page=9"
+    }
+  },
+  {
+    "id": "s2fm-1288",
+    "category": "Cardiology",
+    "q": "How does proximal subclavian stenosis cause vertebrobasilar symptoms?",
+    "a": "A lower distal pressure can reverse flow in the ipsilateral vertebral artery toward the arm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-family-medicine.pdf#page=9"
+    }
+  },
+  {
+    "id": "s2fm-1289",
+    "category": "Cardiology",
+    "q": "How does the source distinguish vertebral-artery stenosis from subclavian steal by arm pressures?",
+    "a": "Arm pressures may be similar when the vertebral artery alone is affected, unlike proximal subclavian disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-family-medicine.pdf#page=9"
+    }
+  },
+  {
+    "id": "s2fm-1290",
+    "category": "Cardiology",
+    "q": "Neck manipulation precedes a posterior-circulation stroke. Which source vascular injury is considered?",
+    "a": "Vertebral-artery dissection, with thrombus forming along the injured vessel and embolizing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-family-medicine.pdf#page=9"
+    }
+  },
+  {
+    "id": "s2fm-1291",
+    "category": "Cardiology",
+    "q": "How does a carotid bruit differ from a neurologic symptom in the source discussion?",
+    "a": "A bruit is an examination sign. Stroke,TIA or retinal ischemia are symptomatic vascular events.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-family-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2fm-1292",
+    "category": "Cardiology",
+    "q": "What three medical-treatment classes does the PDF emphasize for carotid atherosclerotic disease?",
+    "a": "A statin, antiplatelet therapy and blood-pressure treatment, withACEi/ARB as its example. This is the source framework, not a universal individualized regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-family-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2fm-1293",
+    "category": "Cardiology",
+    "q": "Why can a dissection cause different pressures in the two legs as well as the arms?",
+    "a": "The dissection can extend distally and compromise branch vessels supplying different limbs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-family-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2fm-1294",
+    "category": "Cardiology",
+    "q": "A visible pulsation appears above the manubrium with tracheal displacement. Which source vascular mass is considered?",
+    "a": "Thoracic aortic aneurysm. An epigastric pulsatile mass instead raises concern forAAA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-family-medicine.pdf#page=11"
+    }
+  },
+  {
+    "id": "s2fm-1295",
+    "category": "Cardiology",
+    "q": "Which imaging test does the PDF place afterAF diagnosis to assess structural disease and atrial thrombus?",
+    "a": "Echocardiography. The ability to detect left-atrial-appendage thrombus depends on the echocardiographic method.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-family-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2fm-1296",
+    "category": "Cardiology",
+    "q": "What source mechanism links structural heart disease withAF?",
+    "a": "Hypertrophy, dilation, ischemic injury and other structural remodeling can predispose to atrial arrhythmias.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-family-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2fm-1297",
+    "category": "Cardiology",
+    "q": "What is the source role of metoprolol or verapamil inAF?",
+    "a": "Ventricular rate control, with choice constrained by clinical status and contraindications.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-family-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2fm-1298",
+    "category": "Cardiology",
+    "q": "Which source coronary territory is linked to anterior precordialST elevation?",
+    "a": "TheLAD territory, especially anterior/septal precordial leads.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2fm-1299",
+    "category": "Cardiology",
+    "q": "How can posterior myocardial injury appear in anteriorECG leads?",
+    "a": "ReciprocalST depression inV 1-V 3 can be a clue to posterior infarction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2fm-1300",
+    "category": "Cardiology",
+    "q": "Why can old myocardial scar predispose to later arrhythmia?",
+    "a": "Scar and altered conduction provide a substrate for electrical instability/reentry.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2fm-1301",
+    "category": "Cardiology",
+    "q": "What does the source associate pathologicQ waves with?",
+    "a": "Prior myocardial infarction. ECG interpretation requires the lead distribution and broader clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2fm-1302",
+    "category": "Cardiology",
+    "q": "What etiologies of acute pericarditis does the source list?",
+    "a": "Viral illness, autoimmune disease, uremia and post-myocardial-infarction inflammation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-family-medicine.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2fm-1303",
+    "category": "Cardiology",
+    "q": "WhichECG finding besides diffuseST elevation may support acute pericarditis?",
+    "a": "PR-segment depression.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-family-medicine.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2fm-1304",
+    "category": "Cardiology",
+    "q": "AfterECG in suspected pericarditis, what does the PDF use echocardiography to assess?",
+    "a": "A concomitant pericardial effusion and its hemodynamic significance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-family-medicine.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2fm-1305",
+    "category": "Cardiology",
+    "q": "Why can a small rapidly accumulating effusion cause more compromise than a larger slowly accumulating one?",
+    "a": "Rapid accumulation gives the pericardium little time to accommodate, sharply raising intrapericardial pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-family-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2fm-1306",
+    "category": "ECG",
+    "q": "WhatECG deflection does the source associate with hypothermia?",
+    "a": "J/Osborn waves.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-family-medicine.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2fm-1307",
+    "category": "Cardiology",
+    "q": "How does the source distinguish stable, unstable and variant angina?",
+    "a": "Stable: predictable exertional ischemic symptoms. Unstable: new/worsening or rest ischemic symptoms from coronary disease. Variant/Prinzmetal: vasospasm, often at rest.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-family-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2fm-1308",
+    "category": "Infectious disease",
+    "q": "Which oral streptococcal species are included under the source viridans group?",
+    "a": "S.sanguinis,S.mutans andS.mitis. The source links them to subacute endocarditis after oral bacteremia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-family-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2fm-1309",
+    "category": "Infectious disease",
+    "q": "Which extracardiac embolic findings can complicate infective endocarditis?",
+    "a": "Neurologic deficits from septic emboli and renal findings including hematuria. Reactive thrombocytosis can accompany infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-family-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2fm-1310",
+    "category": "Cardiology",
+    "q": "Which skin, joint and neurologic findings accompany carditis in the sourceJONES mnemonic?",
+    "a": "Migratory polyarthritis, subcutaneous nodules, erythema marginatum and Sydenham chorea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-family-medicine.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2fm-1311",
+    "category": "Cardiology",
+    "q": "What reflex arc is described when shaving or pressure on the neck triggers bradycardic syncope?",
+    "a": "Carotid-sinus baroreceptor activation sends afferentCNIX input and increases vagal efferent activity to cardiac nodal tissue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-family-medicine.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2fm-1312",
+    "category": "Cardiology",
+    "q": "How does the source distinguish pleurodynia from viral pleurisy?",
+    "a": "Pleurodynia is intercostal muscle pain/spasm with possibleCK elevation; pleurisy is pleural inflammation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-family-medicine.pdf#page=23"
+    }
+  },
+  {
+    "id": "s2fm-1313",
+    "category": "Cardiology",
+    "q": "What does cardiac scintigraphy mean?",
+    "a": "Imaging using a radiotracer to assess cardiac perfusion/function. It may be performed at rest or with stress; these are not inherently identical procedures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-family-medicine.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2fm-1314",
+    "category": "Cardiology",
+    "q": "How does dobutamine stress the heart in pharmacologic testing?",
+    "a": "Beta 1 stimulation increases heart rate and contractility, increasing myocardial demand.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-family-medicine.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2fm-1315",
+    "category": "Rheumatology",
+    "q": "A patient with vasculitis develops both wrist drop and foot drop. What neuropathy pattern is described?",
+    "a": "Mononeuritis multiplex: injury involving multiple separate peripheral nerves.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-family-medicine.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2fm-1316",
+    "category": "Cardiology",
+    "q": "Which aortic change does the source associate with tertiary syphilis?",
+    "a": "Ascending aortitis with tree-bark scarring and possible aneurysmal dilation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-family-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2fm-1317",
+    "category": "Vascular",
+    "q": "What are the three components ofVirchow triad?",
+    "a": "Venous stasis, endothelial injury and hypercoagulability.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2fm-1318",
+    "category": "Renal",
+    "q": "Why does nephrotic syndrome increase thrombosis risk in the source?",
+    "a": "Urinary loss of anticoagulant proteins, including antithrombin, contributes to hypercoagulability.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2fm-1319",
+    "category": "Hematology",
+    "q": "How can antiphospholipid syndrome cause thrombosis despite a prolonged in-vitroPTT?",
+    "a": "The antibodies interfere with the phospholipid-dependent laboratory assay while promoting thrombosis in vivo.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2fm-1320",
+    "category": "Vascular",
+    "q": "Why can a legDVT cause sudden dyspnea and tachycardia?",
+    "a": "Thrombus can embolize to the pulmonary arteries, causing pulmonary embolism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2fm-1321",
+    "category": "Pharmacology",
+    "q": "Which medications arealpha 2 agonists versus an antagonist in the source?",
+    "a": "Clonidine and methyldopa arealpha 2 agonists; mirtazapine is analpha 2 antagonist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2fm-1322",
+    "category": "Pharmacology",
+    "q": "How do topical oxymetazoline and phenylephrine relieve nasal congestion, and what rebound problem can follow overuse?",
+    "a": "Alpha-mediated mucosal vasoconstriction; prolonged use can cause rhinitis medicamentosa.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2fm-1323",
+    "category": "Pharmacology",
+    "q": "Which drug class lowers triglycerides by activatingPPAR-alpha and increasing lipoprotein-lipase activity?",
+    "a": "Fibrates. The source also names myopathy, liver toxicity and gallstone risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2fm-1324",
+    "category": "Pharmacology",
+    "q": "Which weight-loss medication inhibits GI lipases and can cause steatorrhea?",
+    "a": "Orlistat.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2fm-1325",
+    "category": "Nutrition",
+    "q": "Which vitamin deficiency causes pellagra, and what are the source 3Ds?",
+    "a": "Niacin/B 3 deficiency: dermatitis, diarrhea and dementia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2fm-1326",
+    "category": "Pharmacology",
+    "q": "Which niacin adverse effects are emphasized in the source?",
+    "a": "Flushing, hyperuricemia/gout and impaired glucose tolerance. Prostaglandins mediate flushing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2fm-1327",
+    "category": "Prevention",
+    "q": "Should asymptomatic adults in the general population receive screening carotid ultrasonography underUSPSTF?",
+    "a": "No. USPSTF 2021 recommends against screening asymptomatic carotid stenosis, GradeD. This does not apply to diagnostic evaluation after stroke/TIA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-family-medicine.pdf#page=10"
+    },
+    "guideline": {
+      "text": "Final reaffirmation2 February2021: harms of general-population screening outweigh benefits.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/carotid-artery-stenosis-screening"
+    }
+  },
+  {
+    "id": "s2fm-1328",
+    "category": "Prevention",
+    "q": "What are the current finalUSPSTF lung-cancer-screening eligibility and stopping rules?",
+    "a": "Annual low-doseCT for adults 50-80 with at least 20 pack-years who currently smoke or quit within 15 years. Stop after 15 smoke-free years or if health substantially limits life expectancy or ability/willingness for curative surgery. USPSTF 2021 GradeB.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-family-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "Final recommendation9 March2021. Applies to screening, not diagnosis of symptoms.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening"
     }
   }
 ];
