@@ -34785,5 +34785,245 @@ export default [
       "text": "AAP HealthyChildren describes encopresis as a sign that bowel function is not normal, often from long-term constipation with overflow leakage. Recurrent soiling in a toilet-trained child warrants assessment rather than dismissal based on the source age cutoff.",
       "url": "https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/Pages/Soiling-Encopresis.aspx"
     }
+  },
+  {
+    "id": "s2fm-2918",
+    "category": "Dementia and brain-gut source details",
+    "q": "What cause category does the source assign to irritable bowel syndrome?",
+    "a": "It calls IBS psychosomatic or psych-related.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "NIDDK describes IBS as a disorder of gut-brain interaction. Symptoms are real and involve how brain and gut work together; the source label should not imply fabrication or a purely psychiatric cause.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/definition-facts"
+    }
+  },
+  {
+    "id": "s2fm-2919",
+    "category": "Dementia and brain-gut source details",
+    "q": "What universal neurologic-examination requirement does the PDF give for Alzheimer disease?",
+    "a": "It says there must be no motor or sensory abnormalities.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-family-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "NIA late-stage care guidance describes loss of physical abilities and problems with movement, balance and walking. A normal motor examination is not a universal requirement across every stage or mixed condition.",
+      "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/caring-person-late-stage-alzheimers-disease"
+    }
+  },
+  {
+    "id": "s2fm-2920",
+    "category": "Dementia and brain-gut source details",
+    "q": "What environmental change does the PDF choose for sundowning instead of bright illumination at all times?",
+    "a": "Reduce ambient noise and distractions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-family-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "NIA advises reducing noise and clutter, keeping routines, and obtaining natural light during the day. Its sundowning guidance does not call for keeping the room brightly lit around the clock.",
+      "url": "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning"
+    }
+  },
+  {
+    "id": "s2fm-2921",
+    "category": "Dementia and brain-gut source details",
+    "q": "Which chromosome-21 gene association does the PDF use for early Alzheimer disease in Down syndrome?",
+    "a": "Amyloid precursor protein, APP, on chromosome 21.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-family-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2fm-2922",
+    "category": "Dementia and brain-gut source details",
+    "q": "What protein-processing role does the source give presenilin in familial Alzheimer disease?",
+    "a": "A role in amyloid cleavage; it names presenilin mutations as an early-onset Alzheimer association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-family-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2fm-2923",
+    "category": "Dementia and brain-gut source details",
+    "q": "What opioid-receptor mechanism does the PDF use for loperamide in diarrhea-predominant IBS?",
+    "a": "Mu-opioid receptor agonism reduces bowel motility/diarrhea; its source answer does not claim comprehensive treatment of all IBS symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-2924",
+    "category": "Dementia and brain-gut source details",
+    "q": "What metabolic-gas problem does the source list as a delirium cause in COPD exacerbation?",
+    "a": "Hypercarbia, alongside other metabolic or medication causes of acute confusion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-2925",
+    "category": "Toxicology finer source details",
+    "q": "What aspirin age warning does the PDF give in its Reye-syndrome entry?",
+    "a": "Avoid aspirin under age twelve, noting some sources also avoid it in teenagers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "CDC chickenpox care says not to use aspirin in children with chickenpox because of Reye syndrome risk. The source under-twelve wording is not a universal permission to give aspirin for viral illness after the twelfth birthday.",
+      "url": "https://www.cdc.gov/chickenpox/treatment/"
+    }
+  },
+  {
+    "id": "s2fm-2926",
+    "category": "Toxicology finer source details",
+    "q": "What timing distinction does the source give for alcohol hallucinosis versus delirium tremens?",
+    "a": "Hallucinosis at 12-48 hours after the last drink; DT at 2-4 days, in its source ranges. Timing varies and cannot by itself determine severity or exclude withdrawal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-2927",
+    "category": "Toxicology finer source details",
+    "q": "What visible exposure clue does the source give for inhaled paint?",
+    "a": "Gold or silver coloration around the nose or mouth, accompanying cognitive changes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-2928",
+    "category": "Toxicology finer source details",
+    "q": "What stimulant effects does the source name for amphetamine intoxication?",
+    "a": "Mydriasis, agitation, insomnia and possible tactile hallucinations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-2929",
+    "category": "Toxicology finer source details",
+    "q": "What muscle-injury laboratory abnormality can occur in the source MDMA vignette?",
+    "a": "Elevated creatine kinase, in addition to euphoria, hyperthermia and bruxism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-2930",
+    "category": "Toxicology finer source details",
+    "q": "What opioid effects does the source group with respiratory depression?",
+    "a": "Miosis and constipation; the source names naloxone for acute reversal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-2931",
+    "category": "Toxicology and medication source details",
+    "q": "What chemical does the source assign to inhaling whipped-cream canisters?",
+    "a": "Butane, in an entry also grouping computer dusters.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    },
+    "guideline": {
+      "text": "FDA identifies culinary whipped-cream propellant canisters/chargers as nitrous oxide products and warns of serious toxicity including B12 deficiency and neurologic injury. Inhalant identity depends on the actual product; these products should not all be labeled butane.",
+      "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-inhale-nitrous-oxide-products"
+    }
+  },
+  {
+    "id": "s2fm-2932",
+    "category": "Toxicology and medication source details",
+    "q": "Which examples of individual SSRI adverse effects does the PDF list?",
+    "a": "Sertraline with diarrhea, fluoxetine with activation/insomnia and higher-dose citalopram with QT prolongation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-2933",
+    "category": "Toxicology and medication source details",
+    "q": "Which two nonselective MAO inhibitors does the source name?",
+    "a": "Phenelzine and tranylcypromine, with serotonergic interaction precautions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-2934",
+    "category": "Toxicology and medication source details",
+    "q": "What receptor profiles does the source use to contrast typical and atypical antipsychotics?",
+    "a": "Typicals mainly D2 antagonism; atypicals additional receptor effects in its simplified class comparison. The actual receptor profile varies by drug.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-2935",
+    "category": "Toxicology and medication source details",
+    "q": "Which depot formulation does the source choose in its poor-adherence schizophrenia example?",
+    "a": "Haloperidol decanoate; actual long-acting medication choice requires shared clinical assessment, not a universal compliance rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-2936",
+    "category": "Toxicology and medication source details",
+    "q": "What medication does the source tell the clinician to stop when it causes parkinsonism?",
+    "a": "Metoclopramide, in its dopamine-blocker adverse-effect vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-2937",
+    "category": "Toxicology and medication source details",
+    "q": "What shared receptor with different binding sites does the source describe for alcohol and benzodiazepines?",
+    "a": "GABA-A, in its receptor illustration explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-family-medicine.pdf#page=191"
+    }
   }
 ];
