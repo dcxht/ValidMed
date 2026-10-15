@@ -30726,5 +30726,192 @@ export default [
       "text": "ATS/IDSA 2016 HAP/VAP uses patient risk and local susceptibility data to select empiric coverage. MRSA treatment is not mandatory for every patient; HAP without MRSA risk or high mortality risk may use an MSSA-active regimen. VAP has its own resistance thresholds.",
       "url": "https://www.idsociety.org/practice-guideline/hap_vap"
     }
+  },
+  {
+    "id": "s2fm-2601",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What antibiotic does the PDF give for pertussis with active cough, regardless of stage?",
+    "a": "Erythromycin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CDC says timing matters: generally treat people aged 1 year or older within 3 weeks of cough onset, and infants under 1 or pregnant patients within 6 weeks. Late antibiotics do not necessarily change illness or transmission.",
+      "url": "https://www.cdc.gov/pertussis/hcp/clinical-care/"
+    }
+  },
+  {
+    "id": "s2fm-2602",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What blanket pertussis-contact treatment does the source name?",
+    "a": "Erythromycin for close contacts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CDC targets postexposure prophylaxis to household contacts and people at high risk or in contact with high-risk people, within defined 21-day windows. It does not recommend indiscriminate prophylaxis for every possible contact.",
+      "url": "https://www.cdc.gov/pertussis/php/postexposure-prophylaxis/"
+    }
+  },
+  {
+    "id": "s2fm-2603",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What first diagnostic step does the source give for suspected symptomatic tuberculosis?",
+    "a": "PPD testing, then chest radiography if positive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CDC: Do not wait for a TB skin or blood test before evaluating a patient with symptoms of TB disease. Evaluation includes chest imaging and bacteriologic testing; a negative infection test does not exclude active disease.",
+      "url": "https://cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html"
+    }
+  },
+  {
+    "id": "s2fm-2604",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What active-versus-latent TB rule does the source apply to positive PPD and chest radiography?",
+    "a": "Positive PPD with negative CXR leads to latent-TB treatment; positive PPD with positive CXR leads to active-TB treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CDC requires clinical assessment and bacteriologic evaluation for suspected TB disease. An abnormal film plus positive infection test is not by itself definitive proof of active disease, and negative CXR alone does not replace assessment of symptoms and other sites.",
+      "url": "https://cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html"
+    }
+  },
+  {
+    "id": "s2fm-2605",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "How does the source say a BCG vaccination history affects TB skin-test management?",
+    "a": "It does not change the risk-based interpretation of PPD; the source also names IGRA to reduce BCG-related false positives.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CDC prefers TB blood tests for people who received BCG, including children, and interprets skin reactions by risk regardless of BCG history.",
+      "url": "https://cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
+    }
+  },
+  {
+    "id": "s2fm-2606",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "Which patients does the PDF put in its greater-than-5-mm PPD group?",
+    "a": "Close contacts of active TB; immunocompromised patients including AIDS, transplant or chronic steroid treatment; and calcification on chest radiography.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "CDC uses at least 5 mm for recent contacts, HIV, transplant or relevant immunosuppression and chest findings suggestive of previous TB. The source vague calcification label should not replace assessment of the actual imaging finding.",
+      "url": "https://cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
+    }
+  },
+  {
+    "id": "s2fm-2607",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "Which patients does the PDF put in its greater-than-10-mm PPD group?",
+    "a": "Health care workers, prisoners or prison workers, immigrants from endemic areas, TB laboratory personnel and children under 4.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "CDC uses at least 10 mm for defined risk categories, including high-risk congregate settings, mycobacteriology laboratories, birth in high-incidence countries and children under 5. Health care employment alone is not listed as an automatic universal category.",
+      "url": "https://cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
+    }
+  },
+  {
+    "id": "s2fm-2608",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What antibiotic does the source favor for aspiration-associated pulmonary abscess?",
+    "a": "Clindamycin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck Professional favors a beta-lactam/beta-lactamase inhibitor such as ampicillin-sulbactam. Clindamycin is now rarely used because of C. difficile and resistance concerns.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/lung-abscess/lung-abscess"
+    }
+  },
+  {
+    "id": "s2fm-2609",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What antibiotic alternatives does the PDF name for ordinary acute otitis media?",
+    "a": "Amoxicillin or penicillin; Augmentin for recurrent episodes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "AAP 2013 recommends amoxicillin when antibiotic treatment is chosen and appropriate. Additional beta-lactamase coverage is indicated with recent amoxicillin, purulent conjunctivitis or recurrent AOM unresponsive to amoxicillin. Plain penicillin is not the interchangeable first-line drug in that recommendation.",
+      "url": "https://publications.aap.org/pediatrics/article/131/3/e964/30912"
+    }
+  },
+  {
+    "id": "s2fm-2610",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What absolute exclusion rule does the source attach to normal tympanic-membrane mobility?",
+    "a": "Normal mobility rules out otitis media.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "AAP requires middle-ear effusion for AOM diagnosis and emphasizes bulging or qualifying new otorrhea, with pneumatic otoscopy or tympanometry. Interpret the full examination rather than turning one mobility observation into an infallible rule.",
+      "url": "https://eqipp.aap.org/courses/antibiotics/mn/clinical-guide/popups/diagnostic-criteria-for-aom"
+    }
+  },
+  {
+    "id": "s2fm-2611",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What unusual laboratory clue besides vomiting after cough does the source mention for adult pertussis?",
+    "a": "Hypoglycemia. It is the PDF clue, not a required finding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2fm-2612",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "What white-cell count range and differential does the source give for pertussis resembling ALL?",
+    "a": "Approximately 30,000-50,000 white cells with more than 80% lymphocytes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2fm-2613",
+    "category": "Pulmonary and ENT exact-source review",
+    "q": "How does the source define ABPA in its brief airway entry?",
+    "a": "An asthma-like presentation with increased sensitivity to Aspergillus skin antigen. The source expands ABPA as acute bronchopulmonary aspergillosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Merck Professional uses allergic bronchopulmonary aspergillosis: hypersensitivity to Aspergillus, usually in asthma or cystic fibrosis, with characteristic immunologic and imaging evaluation.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/asthma-and-related-disorders/allergic-bronchopulmonary-aspergillosis-abpa"
+    }
   }
 ];
