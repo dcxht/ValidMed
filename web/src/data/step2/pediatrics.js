@@ -10716,5 +10716,365 @@ export default [
       "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
     },
     "img": "/mehlman/pediatrics/p056-sickle-cells.jpg"
+  },
+  {
+    "id": "s2peds-0789",
+    "category": "Pediatric hematology",
+    "q": "Which test does the source give to establish a suspected HbS hemoglobin pattern?",
+    "a": "Hemoglobin electrophoresis to detect HbS. Interpret the full pattern to distinguish disease genotypes and trait, rather than treating any HbS as HbSS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 uses hemoglobin electrophoresis in diagnosis; molecular testing can clarify genotype. A sickled smear alone is not the same as a confirmed hemoglobin pattern.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
+    }
+  },
+  {
+    "id": "s2peds-0790",
+    "category": "Pediatric hematology",
+    "q": "What molecular interaction does the source recalled question associate with deoxygenated HbS sickling?",
+    "a": "Gain of stabilizing hydrophobic interactions between deoxygenated HbS molecules, allowing polymer formation. Substitution of hydrophobic valine for glutamic acid favors this interaction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Adachi et al 1995 experimentally studied beta85 in the beta6-valine acceptor pocket and supports the hydrophobic intermolecular contact. This mechanism explains clinical sickling; the exact recalled examination wording is not independently verified.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2143166/"
+    }
+  },
+  {
+    "id": "s2peds-0791",
+    "category": "Pediatric hematology",
+    "q": "Is the source wording beta chain enters an alpha-chain hydrophobic pocket accurate?",
+    "a": "The source reports that wording, but the established key sickle-polymer contact is beta6 valine with a hydrophobic acceptor pocket on a neighboring beta chain, not an alpha-chain pocket.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Adachi et al 1995 directly identifies beta85 phenylalanine as part of the beta6-valine acceptor pocket; the paper also discusses beta88 leucine. Preserve the exam recollection as an attributed claim, not correct structural anatomy.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2143166/"
+    }
+  },
+  {
+    "id": "s2peds-0792",
+    "category": "Pediatric hematology",
+    "q": "How does hydroxyurea reduce recurrent sickle-cell complications in the source?",
+    "a": "It increases fetal hemoglobin, HbF, which inhibits HbS polymerization and can reduce painful crises. The PDF describes the higher HbF fraction as less HbS available to sickle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes increased HbF and reduced sickling, painful crises, acute chest syndrome and transfusion needs. This is a mechanism reminder, not a complete eligibility, monitoring or pregnancy protocol.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/sickle-cell-disease"
+    }
+  },
+  {
+    "id": "s2peds-0793",
+    "category": "Pediatric hematology",
+    "q": "What blood-count pattern does the source call aplastic anemia?",
+    "a": "Reduction of RBCs, WBCs and platelets: pancytopenia due to marrow failure. This contrasts with an isolated erythroid disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 defines aplastic anemia as stem-cell failure with hypocellular marrow and cytopenias in at least two lineages. Counts may not all fall equally or simultaneously; CBC alone does not establish the marrow diagnosis.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/aplastic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0794",
+    "category": "Pediatric hematology",
+    "q": "How does the source contrast parvovirus B19 effects on several marrow cell lines with pure red-cell aplasia?",
+    "a": "The PDF attributes pancytopenia to effects on myeloid, erythroid and megakaryocyte precursors, and separately lists parvovirus as a cause of isolated red-cell aplasia. The count pattern determines the syndrome being evaluated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 directly supports parvovirus targeting erythroid precursors via P antigen. The linked source does not independently verify the PDF claim of direct infection of all three precursor lines; do not present that mechanism as established.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/pure-red-blood-cell-aplasia"
+    }
+  },
+  {
+    "id": "s2peds-0795",
+    "category": "Pediatric hematology",
+    "q": "Which viral association besides parvovirus does the source recall for aplastic anemia?",
+    "a": "Hepatitis, specifically hepatitis A in the author's recalled pediatric examination question. That anecdote does not mean every hepatitis-associated aplastic anemia is HAV infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 recognizes hepatitis-associated aplasia, often seronegative for hepatitis viruses, and lists EBV/CMV. The exact HAV exam anecdote is not independently verified by this review.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/aplastic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0796",
+    "category": "Pediatric hematology",
+    "q": "Which treatment exposures can cause the source pancytopenic marrow-failure picture?",
+    "a": "Chemotherapy and radiotherapy can suppress marrow and lower multiple cell lines.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 lists antineoplastic medications and radiation among recognized causes of aplastic anemia. Clinical timing and marrow assessment distinguish transient treatment suppression from other marrow-failure syndromes.",
+      "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/aplastic-anemia"
+    }
+  },
+  {
+    "id": "s2peds-0797",
+    "category": "Pediatric hematology",
+    "q": "Which source inherited marrow-failure syndrome pairs cytopenias with small or absent thumbs/radii?",
+    "a": "Fanconi anemia. The source describes an autosomal-recessive aplastic-anemia syndrome with hypoplastic or absent thumbs/radii.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "GeneReviews January 2026 supports upper-limb malformations and progressive marrow failure, but physical findings are variable. Most forms are autosomal recessive; RAD51-related dominant and FANCB-related X-linked forms also exist.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1401/"
+    }
+  },
+  {
+    "id": "s2peds-0798",
+    "category": "Pediatric hematology",
+    "q": "Does the Fanconi source pattern require all three cell lines to be low at the first presentation?",
+    "a": "No. It is a recognition pattern, not an all-at-once rule. Progressive inherited marrow failure can initially have one prominent cytopenia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "GeneReviews January 2026 says Fanconi marrow failure often first appears as thrombocytopenia or leukopenia. Diagnosis uses chromosome-breakage testing and/or appropriate genetic findings, not thumb shape alone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1401/"
+    }
+  },
+  {
+    "id": "s2peds-0799",
+    "category": "Pediatric hematology",
+    "q": "What blood-count pattern distinguishes pure red-cell aplasia in the source?",
+    "a": "Isolated anemia from impaired erythroid production, with WBCs and platelets otherwise preserved. It is not generalized pancytopenia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes anemia with reticulocytopenia and markedly reduced erythroid precursors; diagnosis depends on the full evaluation rather than simply any low RBC count.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/pure-red-blood-cell-aplasia"
+    }
+  },
+  {
+    "id": "s2peds-0800",
+    "category": "Pediatric hematology",
+    "q": "Which viral cause links the source pure red-cell aplasia row to a sickle-cell patient with abruptly worsening anemia?",
+    "a": "Parvovirus B19 can suppress erythroid production. In a patient dependent on brisk RBC replacement, this can cause a severe transient aplastic crisis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "GeneReviews DBA July 2025 differential describes parvovirus-associated red-cell aplasia and potentially life-threatening anemia in chronic hemolytic disorders such as SCD. An aplastic crisis in this setting need not mean all blood-cell lines are low.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK7047/"
+    }
+  },
+  {
+    "id": "s2peds-0801",
+    "category": "Pediatric hematology",
+    "q": "Which tumor does the source associate with pure red-cell aplasia and also myasthenia gravis?",
+    "a": "Thymoma. The two are recognized associations, not a rule that both must occur together.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 directly lists thymoma as a cause of acquired pure RBC aplasia. The linked page does not independently verify the separate myasthenia association; that part remains the PDF comparison point here.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/pure-red-blood-cell-aplasia"
+    }
+  },
+  {
+    "id": "s2peds-0802",
+    "category": "Pediatric hematology",
+    "q": "Which source congenital erythroid-failure syndrome is associated with triphalangeal thumbs?",
+    "a": "Diamond-Blackfan anemia, now often called DBA syndrome. The source contrasts isolated red-cell failure with Fanconi pancytopenic marrow failure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "GeneReviews July 2025 describes usually macrocytic anemia with normal leukocytes/platelets, often presenting in infancy, and variable thumb abnormalities including triphalangeal thumbs. The thumb finding is neither required nor unique.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK7047/"
+    }
+  },
+  {
+    "id": "s2peds-0803",
+    "category": "Pediatric hematology",
+    "q": "What presentation should prompt consideration of neutropenia even before the count is supplied?",
+    "a": "Mouth ulcers, fever and sore throat, especially in an immunosuppressed child. The source example is a child receiving AML chemotherapy with oral ulcers or pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes subtle oral ulcers and fever, and recurrent stomatitis/pharyngitis in severe or cyclic neutropenia. These symptoms are clues, not specific diagnostic tests; obtain a CBC with differential.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/leukopenias/neutropenia"
+    }
+  },
+  {
+    "id": "s2peds-0804",
+    "category": "Pediatric hematology",
+    "q": "What is febrile neutropenia in the source recognition rule?",
+    "a": "Fever in a patient with neutropenia, including after marrow-suppressive cancer therapy or with some infections. Other cell lines may or may not also be low.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 emphasizes ANC, severity and clinical setting. Fever may be the only sign of serious infection; do not wait for obvious pus or an impressive local inflammatory response.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/leukopenias/neutropenia"
+    }
+  },
+  {
+    "id": "s2peds-0805",
+    "category": "Pediatric hematology",
+    "q": "Why is the source chemotherapy-associated fever with neutropenia an emergency?",
+    "a": "Severe neutropenia limits the ability to control bacterial or fungal infection, and the patient may deteriorate quickly despite few focal signs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "The 2023 international pediatric cancer/HCT fever-neutropenia guideline calls for prompt evaluation and empiric therapy using risk stratification. Do not assume a viral explanation makes an unstable neutropenic child safe.",
+      "url": "https://ascopubs.org/doi/10.1200/JCO.22.02224"
+    }
+  },
+  {
+    "id": "s2peds-0806",
+    "category": "Pediatric hematology",
+    "q": "What immediate treatment does the source choose for high-risk febrile neutropenia?",
+    "a": "Prompt empiric IV broad-spectrum antibiotics. Obtain appropriate cultures quickly, without delaying urgent treatment while waiting for test results.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Pediatric cancer/HCT guideline 2023 recommends antipseudomonal beta-lactam, fourth-generation cephalosporin or carbapenem monotherapy for high-risk FN; add broader agents for instability or resistance indications. Local protocols guide selection.",
+      "url": "https://ascopubs.org/doi/10.1200/JCO.22.02224"
+    }
+  },
+  {
+    "id": "s2peds-0807",
+    "category": "Pediatric hematology",
+    "q": "Does the source IV-antibiotic answer mean every febrile neutropenic child has the same disposition?",
+    "a": "No. The emergency high-risk presentation needs urgent treatment, but carefully selected low-risk oncology patients may qualify for oral and/or outpatient care with reliable monitoring.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Pediatric cancer/HCT guideline 2023 permits outpatient or oral strategies conditionally after validated risk assessment and with follow-up infrastructure. This is not permission to delay antibiotics or self-triage a new fever.",
+      "url": "https://ascopubs.org/doi/10.1200/JCO.22.02224"
+    }
+  },
+  {
+    "id": "s2peds-0808",
+    "category": "Pediatric hematology",
+    "q": "Which growth factor does the source name after antibiotics in a neutropenic-fever question?",
+    "a": "G-CSF, for example filgrastim, stimulates neutrophil production. The source presents it as a next-step exam answer; it must not be treated as an automatic addition for every fever-neutropenia episode.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "ASCO 2026 adult cancer guideline recommendation 3.2 rejects routine adjunctive CSF with antibiotics; 3.3 allows selected high-risk poor-outcome cases. This is adult evidence, not a pediatric dosing protocol; pediatric cancer/HCT 2023 remains the direct acute-antibiotic reference.",
+      "url": "https://ascopubs.org/doi/10.1200/JCO-25-02938"
+    }
+  },
+  {
+    "id": "s2peds-0809",
+    "category": "Pediatric hematology",
+    "q": "How should the source statement that granulocyte transfusion is never the exam answer be used?",
+    "a": "As the author's exam experience, not a clinical prohibition. It does not replace the established priority of urgent antibiotics or justify choosing a transfusion routinely.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "The 2023 pediatric FN guideline supports the empiric-antibiotic approach but does not verify the author's never-seen-an-exam-answer claim. No universal ban on specialist rescue therapy is inferred.",
+      "url": "https://ascopubs.org/doi/10.1200/JCO.22.02224"
+    }
+  },
+  {
+    "id": "s2peds-0810",
+    "category": "Pediatric hematology",
+    "q": "How does the source explain viral-induced neutropenia?",
+    "a": "It proposes direct precursor suppression/infection, including parvovirus B19, or immune destruction through antibodies against neutrophils, analogous to postviral ITP.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 supports infection-associated marrow suppression and immune-mediated mechanisms broadly. The linked review does not independently verify this specific parvovirus-myeloid-cell mechanism, so that detail remains an attributed PDF claim.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/leukopenias/neutropenia"
+    }
+  },
+  {
+    "id": "s2peds-0811",
+    "category": "Pediatric hematology",
+    "q": "What recurring pattern suggests cyclic neutropenia in the source toddler vignette?",
+    "a": "Repeated episodes of fever and mouth ulcers in a young child, classically about every 21 days. The question may describe repeated similar episodes without stating the interval.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "GeneReviews ELANE-related neutropenia describes approximately three-week fever/oral-ulcer cycles, often diagnosed in the first year, with relative wellness between episodes. The PDF age 1-3 is an example, not an age limit.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1533/"
+    }
+  },
+  {
+    "id": "s2peds-0812",
+    "category": "Pediatric hematology",
+    "q": "What inherited mechanism underlies the source cyclic-neutropenia pattern?",
+    "a": "A gene-related periodic defect in neutrophil production. ELANE-related disease is a classic cause; CBCs across time demonstrate the cycling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 57,
+      "url": "/mehlman/hy-pediatrics.pdf#page=57"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes usually autosomal-dominant ELANE mutation with mean 21 +/- 3 day oscillations, and repeated differential counts to assess periodicity. A single normal neutrophil count between episodes does not exclude cycling.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/leukopenias/neutropenia"
+    }
   }
 ];
