@@ -105,4 +105,6 @@ Psychiatric wording follow-up2431/230figures/299notes, Partial.
 
 Psychiatric finer source pass2442/230figures/306notes; Partial.
 
-MSK precise-source pass2450/230figures/317notes; Partial.
+MSK precise-source pass2450/230figures/316notes; Partial.
+
+Rheumatology/connective-tissue precise pass2458/230figures/326notes; Partial.

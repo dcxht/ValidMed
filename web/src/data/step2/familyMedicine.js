@@ -24604,6 +24604,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 226,
       "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    },
+    "guideline": {
+      "text": "ACR Board-approved 2026 JIA summary tailors treatment to phenotype. Systemic JIA without MAS has IL-1/IL-6 biologics first-line and strong recommendations against NSAID or conventional-DMARD initial monotherapy. This is a formal summary; full manuscripts were pending on the society status page.",
+      "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/blt4e307b8933591fa5/jia-guidelines-summary-2026.pdf"
     }
   },
   {
@@ -24659,6 +24663,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "ACR 2024 guideline, published 2025, recommends prompt biopsy for suspected nephritis and prompt glucocorticoids while awaiting biopsy/histology. Histologic class matters; diffuse proliferative disease is not the only nephritis class.",
+      "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltdeb3e67a69a4528a/lupus-guideline-lupus-nephritis-2024.pdf"
     }
   },
   {
@@ -28672,6 +28680,126 @@ export default [
     "guideline": {
       "text": "AAOS describes bracing, surgery or both, depending on age and progression. Toddlers may benefit from bracing; adolescent disease or progression despite bracing often requires surgery.",
       "url": "https://www.orthoinfo.org/diseases--conditions/bowed-legs-blounts-disease/"
+    }
+  },
+  {
+    "id": "s2fm-2451",
+    "category": "Rheumatology detailed source review",
+    "q": "What fixed disease-modifying drug ladder does the PDF give for JIA?",
+    "a": "Methotrexate first, then an anti-TNF agent, with NSAIDs/steroids for symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    },
+    "guideline": {
+      "text": "ACR Board-approved 2026 JIA summary makes treatment phenotype-specific. For systemic JIA without MAS it strongly recommends IL-1 or IL-6 biologics first-line and against NSAID or conventional-DMARD initial monotherapy. Methotrexate remains a preferred conventional DMARD in specified non-systemic phenotypes; the PDF ladder is not universal.",
+      "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/blt4e307b8933591fa5/jia-guidelines-summary-2026.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2452",
+    "category": "Rheumatology detailed source review",
+    "q": "What JIA-like treatment instruction does the PDF give for ankylosing/sacroiliitis disease?",
+    "a": "Treat it the same as JIA, referring back to NSAIDs/steroids and methotrexate then anti-TNF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "ASAS-EULAR 2022 Recommendation 8 says purely axial disease should normally not receive conventional synthetic DMARDs because of lack of efficacy; sulfasalazine may be considered for peripheral arthritis. Adult axial disease is not simply the PDF JIA ladder.",
+      "url": "https://cris.maastrichtuniversity.nl/ws/files/185207093/Webers-2022-ASAS-EULAR-recommendations-for-the.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2453",
+    "category": "Rheumatology detailed source review",
+    "q": "Which beta-2 protein does the PDF name in its antiphospholipid-antibody description?",
+    "a": "Beta-2 microglobulin, alongside cardiolipin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "ISTH-SSC laboratory guidance identifies anti-beta-2 glycoprotein I, anticardiolipin and lupus anticoagulant as the core tests. Beta-2 glycoprotein I is not beta-2 microglobulin.",
+      "url": "https://cdn.ymaws.com/www.isth.org/resource/resmgr/guidance_and_guidelines/SSC_Guidance_Laboratory_dete.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2454",
+    "category": "Rheumatology detailed source review",
+    "q": "What biopsy-versus-steroid sequence does the PDF give for suspected lupus nephritis?",
+    "a": "Biopsy first; it says steroids first are a wrong exam answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "ACR 2024 guideline, published 2025, calls for prompt biopsy when suspected and also prompt glucocorticoids to suppress acute inflammation while awaiting biopsy and histopathology. Biopsy guides treatment, but the PDF never-steroids-before-biopsy rule is not current guidance.",
+      "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltdeb3e67a69a4528a/lupus-guideline-lupus-nephritis-2024.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2455",
+    "category": "Rheumatology detailed source review",
+    "q": "Which single histologic class does the PDF equate with lupus nephritis in its exam shorthand?",
+    "a": "Diffuse proliferative glomerulonephritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "ACR 2024 guideline, published 2025, separates class III/IV and class V pathways and uses biopsy classification to guide care. Lupus nephritis is not limited to diffuse proliferative disease.",
+      "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltdeb3e67a69a4528a/lupus-guideline-lupus-nephritis-2024.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2456",
+    "category": "Rheumatology detailed source review",
+    "q": "What preventive repair rule does the PDF give for a reducible inguinal hernia?",
+    "a": "Elective repair before incarceration or strangulation, for both direct and indirect hernias.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    },
+    "guideline": {
+      "text": "HerniaSurge 2018 guideline summary distributed by the European Hernia Society allows watchful waiting for asymptomatic or minimally symptomatic men with inguinal hernias after discussion. This older guideline exception is not for all women, femoral hernias, children or acutely painful/irreducible hernias.",
+      "url": "https://europeanherniasociety.eu/wp-content/uploads/2023/04/Groin_ENG_cov13178_ehs_groin_hernia_management_a5_en_10_lr_1.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2457",
+    "category": "Connective-tissue source review",
+    "q": "Which fibrillin genes does the PDF list under its Marfan syndrome heading?",
+    "a": "FBN1 and FBN2, describing an extracellular glycoprotein sheath around elastin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics identifies FBN1 mutations and fibrillin-1 microfibrils in Marfan syndrome. It does not list FBN2 as a second general Marfan gene.",
+      "url": "https://medlineplus.gov/genetics/condition/marfan-syndrome/"
+    }
+  },
+  {
+    "id": "s2fm-2458",
+    "category": "Connective-tissue source review",
+    "q": "How does the PDF describe Williams inheritance and its elastin defect?",
+    "a": "Autosomal dominant, chromosome 7, with an elastin defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics describes a chromosome-7 deletion involving multiple genes, including ELN. Most cases are new rather than inherited, although the condition is autosomal dominant when transmitted. ELN loss helps explain vascular findings but is not the whole deletion.",
+      "url": "https://medlineplus.gov/genetics/condition/williams-syndrome/"
     }
   }
 ];
