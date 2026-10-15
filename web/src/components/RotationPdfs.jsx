@@ -1,5 +1,4 @@
 import { BANKS } from "../data/banks";
-const SOURCE = "https://freestuff.mehlmanmedical.com";
 const ROTATIONS = [
   { name: "Family Medicine", pdf: "hy-family-medicine", title: "HY Family Medicine" },
   { name: "Psychiatry", pdf: "hy-psych", title: "HY Psych" },
@@ -29,7 +28,6 @@ export default function RotationPdfs() {
               {index === 0 ? <a className="rotation-practice" href="#practice">Review questions · {BANKS.s2fm.questions.length} →</a> : <p className="rotation-pending">Question bank not added yet</p>}
               <div className="rotation-links">
                 <a className="rotation-pdf" href={`/mehlman/${rotation.pdf}.pdf`} target="_blank" rel="noreferrer">PDF ↗</a>
-                <a className="rotation-source" href={`${SOURCE}/documents/${rotation.pdf}`} target="_blank" rel="noreferrer">Official source</a>
               </div>
               {rotation.extra && <a className="rotation-extra" href={`/mehlman/${rotation.extra.pdf}.pdf`} target="_blank" rel="noreferrer">Also: {rotation.extra.title} ↗</a>}
             </div>
@@ -37,7 +35,7 @@ export default function RotationPdfs() {
         ))}
       </div>
       <footer className="rotation-footer">
-        <p>PDFs by Mehlman Medical. <a href={SOURCE} target="_blank" rel="noreferrer">Official free library ↗</a></p>
+        <p>PDFs by Mehlman Medical.</p>
         <p>No dedicated PDF for the wellness block. Electives depend on the subject.</p>
       </footer>
     </section>
