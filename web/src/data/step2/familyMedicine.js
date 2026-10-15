@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 201; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 217; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -8236,5 +8236,577 @@ export default [
     },
     "img": "/s2img/fm-201-1.png",
     "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0726",
+    "category": "Ophthalmology",
+    "q": "A child has a painful swollen orbit after sinus infection. What dangerous infection is described?",
+    "a": "Orbital cellulitis, posterior to the orbital septum. It is a medical emergency and the source names IV antibiotics.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-0727",
+    "category": "Ophthalmology",
+    "q": "How does a hordeolum differ from a chalazion?",
+    "a": "Hordeolum is a painful inflamed/infected eyelid bump; chalazion is a typically painless obstructed gland. Warm compresses are named for both.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-0728",
+    "category": "Ophthalmology",
+    "q": "A child has a white pupillary reflex. Which tumor and later cancer predisposition does the PDF emphasize?",
+    "a": "Retinoblastoma associated with RB gene abnormalities and increased osteosarcoma risk. Leukocoria requires prompt evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    }
+  },
+  {
+    "id": "s2fm-0729",
+    "category": "Ophthalmology",
+    "q": "What visual-development complication can untreated ocular misalignment cause?",
+    "a": "Amblyopia, reduced acuity from abnormal visual development. Strabismus is the misalignment itself.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    }
+  },
+  {
+    "id": "s2fm-0730",
+    "category": "Ophthalmology",
+    "q": "Clouding of the lens produces glare and progressive blurry vision. What condition is described?",
+    "a": "Cataract. The source links diabetes with sorbitol-related osmotic lens injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-0731",
+    "category": "Ophthalmology",
+    "q": "A conjunctival growth crosses onto the cornea after chronic UV exposure. Which lesion is described?",
+    "a": "Pterygium. Pinguecula instead remains on the conjunctiva without crossing onto the cornea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-0732",
+    "category": "Ophthalmology",
+    "q": "Blurred optic-disc margins accompany elevated intracranial pressure. What finding is described?",
+    "a": "Papilledema, optic-disc swelling associated with elevated intracranial pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-0733",
+    "category": "Ophthalmology",
+    "q": "A sarcoidosis or ankylosing-spondylitis patient develops anterior-chamber inflammation. What ocular disorder is described?",
+    "a": "Anterior uveitis. The source names slit-lamp examination.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-0734",
+    "category": "Ophthalmology",
+    "q": "Dry eyes and dry mouth coexist with systemic autoimmune symptoms. What syndrome is emphasized?",
+    "a": "Sjogren syndrome, with keratoconjunctivitis sicca and xerostomia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-0735",
+    "category": "Ophthalmology",
+    "q": "Blue sclerae accompany brittle bones. Which collagen disorder is described?",
+    "a": "Osteogenesis imperfecta, associated with type I collagen abnormalities.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-0736",
+    "category": "Ophthalmology",
+    "q": "Hematuria accompanies hearing and ocular abnormalities. Which inherited collagen disorder is emphasized?",
+    "a": "Alport syndrome, associated with type IV collagen abnormalities.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-0737",
+    "category": "Ophthalmology",
+    "q": "Neonatal conjunctivitis is followed by pneumonia. Which STI does the PDF emphasize?",
+    "a": "Chlamydia trachomatis. The source distinguishes systemic neonatal treatment from topical prophylaxis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-0738",
+    "category": "Ophthalmology",
+    "q": "What virus does the source associate with common viral conjunctivitis?",
+    "a": "Adenovirus. The PDF describes watery eyes and supportive care.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-0739",
+    "category": "Ophthalmology",
+    "q": "A corneal lesion has a dendritic fluorescein-staining pattern. What infection is suggested?",
+    "a": "Herpes simplex keratitis. Ophthalmic assessment and appropriate antiviral therapy are required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-0740",
+    "category": "Ophthalmology",
+    "q": "Blurry vision occurs in a severely immunocompromised AIDS patient. Which retinal infection is emphasized?",
+    "a": "CMV retinitis. Ganciclovir is the antiviral named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 208,
+      "url": "/mehlman/hy-family-medicine.pdf#page=208"
+    }
+  },
+  {
+    "id": "s2fm-0741",
+    "category": "Musculoskeletal",
+    "q": "Pain and weakness on empty-can or full-can testing implicate which rotator-cuff tendon?",
+    "a": "Supraspinatus. It is important for initiating shoulder abduction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-0742",
+    "category": "Musculoskeletal",
+    "q": "Which rotator-cuff muscles externally rotate the shoulder?",
+    "a": "Infraspinatus and teres minor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-0743",
+    "category": "Musculoskeletal",
+    "q": "A Gerber lift-off test reproduces weakness or pain. Which rotator-cuff muscle is implicated?",
+    "a": "Subscapularis, responsible for internal rotation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-0744",
+    "category": "Musculoskeletal",
+    "q": "A surgical-neck humerus fracture causes a flattened deltoid and lateral shoulder sensory loss. Which nerve is injured?",
+    "a": "Axillary nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-0745",
+    "category": "Musculoskeletal",
+    "q": "Nocturnal lateral-hand paresthesias and median-nerve compression at the wrist suggest what syndrome?",
+    "a": "Carpal tunnel syndrome. The source names wrist splinting and electrodiagnostic testing in selected scenarios.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-0746",
+    "category": "Musculoskeletal",
+    "q": "A patient cannot adduct the thumb to hold paper against the index finger. Which nerve and sign are described?",
+    "a": "Ulnar nerve dysfunction, producing Froment sign.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-0747",
+    "category": "Musculoskeletal",
+    "q": "A cyclist has ulnar-side hand symptoms from handlebar compression. Which distal canal is involved?",
+    "a": "Guyon canal at the wrist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-0748",
+    "category": "Musculoskeletal",
+    "q": "Ulnar neuropathy results from compression at the elbow. What entrapment syndrome is described?",
+    "a": "Cubital tunnel syndrome. The PDF names an overnight elbow splint.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-0749",
+    "category": "Musculoskeletal",
+    "q": "A midshaft humerus fracture produces wrist drop. Which nerve is injured?",
+    "a": "Radial nerve, which supplies major wrist/finger extensors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-0750",
+    "category": "Musculoskeletal",
+    "q": "Biceps weakness accompanies lateral forearm sensory loss. Which nerve is implicated?",
+    "a": "Musculocutaneous nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-0751",
+    "category": "Musculoskeletal",
+    "q": "Anterior shoulder pain is localized over the biceps tendon. What tendon disorder is suggested?",
+    "a": "Biceps tendinitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-0752",
+    "category": "Musculoskeletal",
+    "q": "Both active and passive shoulder motion are restricted in all directions. Which diagnosis is described?",
+    "a": "Adhesive capsulitis, frozen shoulder. Diabetes is a risk factor; range-of-motion therapy is emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-0753",
+    "category": "Musculoskeletal",
+    "q": "Scapular winging follows mastectomy or nerve injury. Which nerve and muscle are implicated?",
+    "a": "Long thoracic nerve injury affecting serratus anterior.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-0754",
+    "category": "Musculoskeletal",
+    "q": "Birth trauma causes an adducted, internally rotated arm with an upper-plexus injury. What palsy and roots are described?",
+    "a": "Erb-Duchenne palsy, C5-C6.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-0755",
+    "category": "Musculoskeletal",
+    "q": "An injury affects the lower brachial plexus, C8-T1. What palsy is described?",
+    "a": "Klumpke palsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-0756",
+    "category": "Musculoskeletal",
+    "q": "Radial-wrist pain is triggered by thumb flexion and ulnar deviation in the Finkelstein maneuver. What diagnosis is described?",
+    "a": "De Quervain tenosynovitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-0757",
+    "category": "Musculoskeletal",
+    "q": "A fluctuant dorsal wrist lump contains joint/tendon-sheath fluid. What benign lesion is described?",
+    "a": "Ganglion cyst. Spontaneous regression and recurrence after aspiration are discussed.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-0758",
+    "category": "Musculoskeletal",
+    "q": "Lateral elbow pain worsens with resisted wrist extension. Which condition and tendon origin are emphasized?",
+    "a": "Lateral epicondylitis, tennis elbow, involving the extensor carpi radialis brevis origin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-0759",
+    "category": "Musculoskeletal",
+    "q": "Medial elbow pain worsens with resisted wrist flexion. What condition is described?",
+    "a": "Medial epicondylitis, golfer elbow.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-0760",
+    "category": "Musculoskeletal",
+    "q": "A child stops using a pronated arm after it was pulled. What injury and reduction maneuvers are described?",
+    "a": "Radial-head subluxation, nursemaid elbow. Hyperpronation or supination-flexion reduction are named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-0761",
+    "category": "Musculoskeletal",
+    "q": "Posterior elbow swelling occurs after repetitive pressure or contact injury. What condition is described?",
+    "a": "Olecranon bursitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-0762",
+    "category": "Musculoskeletal",
+    "q": "An older adult has neck pain and degenerative cervical-spine changes. What condition is described?",
+    "a": "Cervical spondylosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2fm-0763",
+    "category": "Musculoskeletal",
+    "q": "Why is rheumatoid arthritis relevant before neck manipulation or intubation?",
+    "a": "It can cause atlantoaxial instability, requiring appropriate assessment of cervical-spine risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2fm-0764",
+    "category": "Musculoskeletal",
+    "q": "Back/leg symptoms worsen with standing or downhill walking and improve with leaning forward. What condition is described?",
+    "a": "Lumbar spinal stenosis with neurogenic claudication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2fm-0765",
+    "category": "Musculoskeletal",
+    "q": "A vertebral step-off is detected between adjacent levels. What displacement is described?",
+    "a": "Spondylolisthesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-family-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2fm-0766",
+    "category": "Musculoskeletal",
+    "q": "Radiating leg pain follows heavy lifting. Which disc structure herniates?",
+    "a": "The nucleus pulposus through a defect in the annulus fibrosus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-family-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2fm-0767",
+    "category": "Musculoskeletal",
+    "q": "What makes the straight-leg raise positive for nerve-root irritation in the source?",
+    "a": "Reproduction of radiating radicular pain, not merely localized back discomfort.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-family-medicine.pdf#page=215"
+    }
+  },
+  {
+    "id": "s2fm-0768",
+    "category": "Musculoskeletal",
+    "q": "Paraspinal spasm follows lifting without radicular symptoms. What common diagnosis is described?",
+    "a": "Lumbosacral strain. The source emphasizes staying active as tolerated rather than bed rest.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-family-medicine.pdf#page=215"
+    }
+  },
+  {
+    "id": "s2fm-0769",
+    "category": "Musculoskeletal",
+    "q": "Pain and paresthesias affect the lateral thigh from nerve entrapment. What syndrome and nerve are described?",
+    "a": "Meralgia paresthetica, lateral femoral cutaneous nerve entrapment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-family-medicine.pdf#page=215"
+    }
+  },
+  {
+    "id": "s2fm-0770",
+    "category": "Musculoskeletal",
+    "q": "What bedside examination does the PDF name for scoliosis?",
+    "a": "Adams forward-bend test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-0771",
+    "category": "Musculoskeletal",
+    "q": "An exaggerated thoracic convex curvature is described. What spinal shape abnormality is it?",
+    "a": "Kyphosis. Severe deformity can restrict chest-wall expansion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-0772",
+    "category": "Musculoskeletal",
+    "q": "A nerve injury causes both dorsiflexion and eversion weakness. Which nerve is implicated?",
+    "a": "Common fibular, or peroneal, nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-0773",
+    "category": "Musculoskeletal",
+    "q": "Which fibular-nerve branch dorsiflexes the foot and supplies the first dorsal web space?",
+    "a": "Deep fibular nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-0774",
+    "category": "Musculoskeletal",
+    "q": "Which fibular-nerve branch mainly everts the foot?",
+    "a": "Superficial fibular nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-0775",
+    "category": "Musculoskeletal",
+    "q": "A patient cannot plantarflex the ankle or stand on tiptoe. Which nerve is implicated?",
+    "a": "Tibial nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-0776",
+    "category": "Musculoskeletal",
+    "q": "Weak hip adduction accompanies medial-thigh sensory loss. Which nerve is implicated?",
+    "a": "Obturator nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-0777",
+    "category": "Musculoskeletal",
+    "q": "Weak knee extension and knee buckling suggest which nerve injury?",
+    "a": "Femoral nerve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
   }
 ];
