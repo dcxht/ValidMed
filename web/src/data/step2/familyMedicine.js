@@ -2062,7 +2062,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 52,
       "url": "/mehlman/hy-family-medicine.pdf#page=52"
-    }
+    },
+    "sourcePages": [
+      52,
+      185
+    ]
   },
   {
     "id": "s2fm-0176",
@@ -5755,7 +5759,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "sourcePages": [
+      146,
+      183
+    ]
   },
   {
     "id": "s2fm-0486",
@@ -5769,6 +5777,7 @@ export default [
     },
     "sourcePages": [
       146,
+      183,
       277
     ]
   },
@@ -5784,6 +5793,8 @@ export default [
     },
     "sourcePages": [
       146,
+      183,
+      185,
       277
     ]
   },
@@ -5796,7 +5807,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "sourcePages": [
+      146,
+      183
+    ]
   },
   {
     "id": "s2fm-0489",
@@ -5829,7 +5844,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 147,
       "url": "/mehlman/hy-family-medicine.pdf#page=147"
-    }
+    },
+    "sourcePages": [
+      147,
+      184
+    ]
   },
   {
     "id": "s2fm-0492",
@@ -5843,7 +5862,9 @@ export default [
     },
     "sourcePages": [
       147,
-      169
+      169,
+      184,
+      192
     ]
   },
   {
@@ -5866,7 +5887,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 148,
       "url": "/mehlman/hy-family-medicine.pdf#page=148"
-    }
+    },
+    "sourcePages": [
+      148,
+      184,
+      185
+    ]
   },
   {
     "id": "s2fm-0495",
@@ -6985,7 +7011,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
     },
     "sourcePages": [
-      164
+      164,
+      191
     ]
   },
   {
@@ -7175,7 +7202,8 @@ export default [
     },
     "sourcePages": [
       167,
-      170
+      170,
+      192
     ]
   },
   {
@@ -7228,7 +7256,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-0604",
@@ -7245,7 +7277,9 @@ export default [
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4100232-a25d-4468-9057-af7e66205154"
     },
     "sourcePages": [
-      168
+      168,
+      189,
+      191
     ]
   },
   {
@@ -7257,7 +7291,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-0606",
@@ -7268,7 +7306,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-0607",
@@ -7279,7 +7321,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-0608",
@@ -7301,7 +7347,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 170,
       "url": "/mehlman/hy-family-medicine.pdf#page=170"
-    }
+    },
+    "sourcePages": [
+      170,
+      192
+    ]
   },
   {
     "id": "s2fm-0610",
@@ -7359,7 +7409,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 171,
       "url": "/mehlman/hy-family-medicine.pdf#page=171"
-    }
+    },
+    "sourcePages": [
+      147,
+      171,
+      183
+    ]
   },
   {
     "id": "s2fm-0615",
@@ -7820,12 +7875,15 @@ export default [
     "id": "s2fm-0654",
     "category": "Psychiatry",
     "q": "Fear of serious illness persists despite reassurance, with little or no prominent somatic symptom burden. Which disorder is described?",
-    "a": "Illness anxiety disorder.",
+    "a": "Illness anxiety disorder. Appropriate medical assessment still matters rather than assuming an anxiety cause from reassurance alone.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 178,
       "url": "/mehlman/hy-family-medicine.pdf#page=178"
-    }
+    },
+    "sourcePages": [
+      178
+    ]
   },
   {
     "id": "s2fm-0655",
@@ -8016,7 +8074,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 185,
       "url": "/mehlman/hy-family-medicine.pdf#page=185"
-    }
+    },
+    "duplicateOf": "s2fm-0175"
   },
   {
     "id": "s2fm-0672",
@@ -8044,12 +8103,15 @@ export default [
     "id": "s2fm-0674",
     "category": "Psychiatry",
     "q": "Attention and cognition change acutely over hours to days. What syndrome must be considered?",
-    "a": "Delirium. Causes named include infection, medication effects, electrolyte abnormalities and metabolic disturbances.",
+    "a": "Delirium. Causes named include infection, medication effects, electrolyte abnormalities and metabolic disturbances. Anticholinergic drugs are emphasized, and both hyperactive and hypoactive forms occur.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 186,
       "url": "/mehlman/hy-family-medicine.pdf#page=186"
-    }
+    },
+    "sourcePages": [
+      186
+    ]
   },
   {
     "id": "s2fm-0675",
@@ -8088,23 +8150,29 @@ export default [
     "id": "s2fm-0678",
     "category": "Psychiatry",
     "q": "Does the PDF present minor-consent rules as identical in every US state?",
-    "a": "No. It explicitly notes that policies vary by state; its sexual-health, substance-use, mental-health and emancipation examples are generic, not a substitute for local law.",
+    "a": "No. It explicitly notes that policies vary by state; its sexual-health, substance-use, mental-health and emancipation examples are generic, not a substitute for local law. The PDF also lists emergency care, but these are not jurisdiction-specific legal rules.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 187,
       "url": "/mehlman/hy-family-medicine.pdf#page=187"
-    }
+    },
+    "sourcePages": [
+      187
+    ]
   },
   {
     "id": "s2fm-0679",
     "category": "Psychiatry",
     "q": "What receptor does caffeine antagonize to promote wakefulness?",
-    "a": "Adenosine receptors.",
+    "a": "Adenosine receptors. Withdrawal can cause headache, fatigue and impaired concentration.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 187,
       "url": "/mehlman/hy-family-medicine.pdf#page=187"
-    }
+    },
+    "sourcePages": [
+      187
+    ]
   },
   {
     "id": "s2fm-0680",
@@ -8132,12 +8200,15 @@ export default [
     "id": "s2fm-0682",
     "category": "Psychiatry",
     "q": "Tachycardia, mydriasis and chest pain from coronary vasospasm follow stimulant use. Which exposure is emphasized?",
-    "a": "Cocaine. The source also names aortic dissection and placental abruption as serious associated complications.",
+    "a": "Cocaine. The source also names aortic dissection and placental abruption as serious associated complications. Hypertension is part of the source stimulant pattern.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 187,
       "url": "/mehlman/hy-family-medicine.pdf#page=187"
-    }
+    },
+    "sourcePages": [
+      187
+    ]
   },
   {
     "id": "s2fm-0683",
@@ -8176,7 +8247,7 @@ export default [
     "id": "s2fm-0686",
     "category": "Psychiatry",
     "q": "Acetaminophen overdose causes liver injury through NAPQI. Which antidote does the source name?",
-    "a": "N-acetylcysteine, which replenishes reduced glutathione.",
+    "a": "N-acetylcysteine, which replenishes reduced glutathione. Activated charcoal and antidote timing need separate airway/exposure assessment.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 188,
@@ -8186,7 +8257,11 @@ export default [
       70,
       188,
       307
-    ]
+    ],
+    "guideline": {
+      "text": "The 2023 US/Canada toxicology consensus recommends starting acetylcysteine as soon as indicated; with strong concern for a large acute overdose, do not wait for levels if that would delay treatment beyond 8 hours. Activated charcoal requires appropriate airway/contraindication assessment and is not a prerequisite to acetylcysteine.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062"
+    }
   },
   {
     "id": "s2fm-0687",
@@ -8324,12 +8399,15 @@ export default [
     "id": "s2fm-0699",
     "category": "Psychiatry",
     "q": "How do barbiturates differ from benzodiazepines in their effect on GABA-A channel opening?",
-    "a": "They increase opening duration. The source emphasizes their greater toxicity risk.",
+    "a": "They increase opening duration. The source emphasizes their greater toxicity risk. Benzodiazepines instead increase opening frequency; combined respiratory/CNS depression is hazardous.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 192,
       "url": "/mehlman/hy-family-medicine.pdf#page=192"
-    }
+    },
+    "sourcePages": [
+      192
+    ]
   },
   {
     "id": "s2fm-0700",
@@ -8340,7 +8418,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 192,
       "url": "/mehlman/hy-family-medicine.pdf#page=192"
-    }
+    },
+    "sourcePages": [
+      191,
+      192
+    ]
   },
   {
     "id": "s2fm-0701",
@@ -8412,14 +8494,17 @@ export default [
     "id": "s2fm-0707",
     "category": "Ophthalmology",
     "q": "Identify the ocular cranial-nerve palsies labeled A, B and C.",
-    "a": "A: CN III, down-and-out eye. B: CN IV, impaired superior-oblique function with compensatory head tilt. C: CN VI, failure of abduction.",
+    "a": "A: CN III, down-and-out eye. B: CN IV, impaired superior-oblique function with compensatory head tilt. C: CN VI, failure of abduction. The diagram simplifies the full muscle actions.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 194,
       "url": "/mehlman/hy-family-medicine.pdf#page=194"
     },
     "img": "/s2img/fm-194-0.png",
-    "alt": "Clinical image from the source PDF"
+    "alt": "Clinical image from the source PDF",
+    "sourcePages": [
+      194
+    ]
   },
   {
     "id": "s2fm-0708",
@@ -14406,7 +14491,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 194,
       "url": "/mehlman/hy-family-medicine.pdf#page=194"
-    }
+    },
+    "duplicateOf": "s2fm-0707"
   },
   {
     "id": "s2fm-1219",
@@ -17885,7 +17971,11 @@ export default [
     "guideline": {
       "text": "AUA 2022 supports active symptom/pain management, education/behavioral strategies, appropriate manual pelvic physical therapy for tenderness, and selected oral/intravesical therapies. Pelvic-floor strengthening is not the same as manual therapy.",
       "url": "https://www.auanet.org/guidelines-and-quality/guidelines/diagnosis-and-treatment-interstitial-of-cystitis/bladder-pain-syndrome-(2022)"
-    }
+    },
+    "sourcePages": [
+      52,
+      185
+    ]
   },
   {
     "id": "s2fm-1512",
@@ -22199,7 +22289,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "sourcePages": [
+      146,
+      183
+    ]
   },
   {
     "id": "s2fm-1883",
@@ -22217,7 +22311,8 @@ export default [
     },
     "sourcePages": [
       146,
-      170
+      170,
+      183
     ]
   },
   {
@@ -22276,7 +22371,9 @@ export default [
     },
     "sourcePages": [
       147,
-      169
+      169,
+      184,
+      192
     ]
   },
   {
@@ -22291,7 +22388,9 @@ export default [
     },
     "sourcePages": [
       147,
-      169
+      169,
+      184,
+      192
     ]
   },
   {
@@ -22321,7 +22420,9 @@ export default [
     },
     "sourcePages": [
       147,
-      169
+      169,
+      184,
+      192
     ]
   },
   {
@@ -22333,7 +22434,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 148,
       "url": "/mehlman/hy-family-medicine.pdf#page=148"
-    }
+    },
+    "sourcePages": [
+      148,
+      185
+    ]
   },
   {
     "id": "s2fm-1893",
@@ -22344,7 +22449,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 148,
       "url": "/mehlman/hy-family-medicine.pdf#page=148"
-    }
+    },
+    "sourcePages": [
+      148,
+      185
+    ]
   },
   {
     "id": "s2fm-1894",
@@ -22355,7 +22464,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 148,
       "url": "/mehlman/hy-family-medicine.pdf#page=148"
-    }
+    },
+    "sourcePages": [
+      148,
+      185,
+      187
+    ]
   },
   {
     "id": "s2fm-1895",
@@ -23320,7 +23434,11 @@ export default [
     "guideline": {
       "text": "FDA 2025 TransdermScop labeling specifies a hairless area behind one ear, at least 4 hours before motion-sickness protection; the system is used up to 3 days.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/017874s053lbl.pdf"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-1974",
@@ -23331,7 +23449,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      189,
+      191
+    ]
   },
   {
     "id": "s2fm-1975",
@@ -23369,7 +23492,12 @@ export default [
     "guideline": {
       "text": "DailyMed labeling warns of seizures, especially benzodiazepine dependence/withdrawal and serious cyclic-antidepressant or mixed overdose. Flumazenil is not a universal safe overdose antidote.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a72d9fc1-121c-455d-93a9-002378c9968f"
-    }
+    },
+    "sourcePages": [
+      169,
+      188,
+      192
+    ]
   },
   {
     "id": "s2fm-1978",
@@ -23399,7 +23527,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 170,
       "url": "/mehlman/hy-family-medicine.pdf#page=170"
-    }
+    },
+    "sourcePages": [
+      170,
+      192
+    ]
   },
   {
     "id": "s2fm-1980",
@@ -23766,7 +23898,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 178,
       "url": "/mehlman/hy-family-medicine.pdf#page=178"
-    }
+    },
+    "duplicateOf": "s2fm-0654"
   },
   {
     "id": "s2fm-2010",
@@ -23963,7 +24096,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 182,
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
-    }
+    },
+    "sourcePages": [
+      182
+    ]
   },
   {
     "id": "s2fm-2026",
@@ -24000,7 +24136,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 186,
       "url": "/mehlman/hy-family-medicine.pdf#page=186"
-    }
+    },
+    "duplicateOf": "s2fm-0674"
   },
   {
     "id": "s2fm-2029",
@@ -24048,7 +24185,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 187,
       "url": "/mehlman/hy-family-medicine.pdf#page=187"
-    }
+    },
+    "duplicateOf": "s2fm-0678"
   },
   {
     "id": "s2fm-2033",
@@ -24059,7 +24197,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 187,
       "url": "/mehlman/hy-family-medicine.pdf#page=187"
-    }
+    },
+    "duplicateOf": "s2fm-0682"
   },
   {
     "id": "s2fm-2034",
@@ -24070,7 +24209,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 187,
       "url": "/mehlman/hy-family-medicine.pdf#page=187"
-    }
+    },
+    "duplicateOf": "s2fm-0679"
   },
   {
     "id": "s2fm-2035",
@@ -24085,7 +24225,8 @@ export default [
     "guideline": {
       "text": "The 2023 US/Canada toxicology consensus recommends starting acetylcysteine as soon as indicated; with strong concern for a large acute overdose, do not wait for levels if that would delay treatment beyond 8 hours. Activated charcoal requires appropriate airway/contraindication assessment and is not a prerequisite to acetylcysteine.",
       "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062"
-    }
+    },
+    "duplicateOf": "s2fm-0686"
   },
   {
     "id": "s2fm-2036",
@@ -24159,7 +24300,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 189,
       "url": "/mehlman/hy-family-medicine.pdf#page=189"
-    }
+    },
+    "sourcePages": [
+      189,
+      190
+    ]
   },
   {
     "id": "s2fm-2042",
@@ -24207,7 +24352,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 191,
       "url": "/mehlman/hy-family-medicine.pdf#page=191"
-    }
+    },
+    "duplicateOf": "s2fm-0700"
   },
   {
     "id": "s2fm-2046",
@@ -24218,7 +24364,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 192,
       "url": "/mehlman/hy-family-medicine.pdf#page=192"
-    }
+    },
+    "duplicateOf": "s2fm-0699"
   },
   {
     "id": "s2fm-2047",
@@ -24299,7 +24446,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 194,
       "url": "/mehlman/hy-family-medicine.pdf#page=194"
-    }
+    },
+    "duplicateOf": "s2fm-0707"
   },
   {
     "id": "s2fm-2054",
@@ -29930,6 +30078,7 @@ export default [
     },
     "sourcePages": [
       159,
+      189,
       270
     ]
   },
@@ -29946,7 +30095,12 @@ export default [
     "guideline": {
       "text": "NICE CG111 offers desmopressin when rapid/short-term improvement is prioritized or an alarm is unsuitable, with fluid restriction from 1 hour before until 8 hours after dosing. Imipramine is not first-line but may be considered by an expert after other treatment fails; neither drug is categorically always wrong.",
       "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
-    }
+    },
+    "sourcePages": [
+      182,
+      189,
+      274
+    ]
   },
   {
     "id": "s2fm-2489",
@@ -30006,7 +30160,11 @@ export default [
     "guideline": {
       "text": "NIA distinguishes mild age-related forgetfulness from MCI, dementia and treatable causes. A complaint alone neither proves normal aging nor excludes Alzheimer disease; severity, functional impact and clinical assessment matter.",
       "url": "https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging"
-    }
+    },
+    "sourcePages": [
+      184,
+      277
+    ]
   },
   {
     "id": "s2fm-2493",
@@ -30165,7 +30323,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 277,
       "url": "/mehlman/hy-family-medicine.pdf#page=277"
-    }
+    },
+    "sourcePages": [
+      184,
+      277
+    ]
   },
   {
     "id": "s2fm-2507",
@@ -34453,7 +34615,11 @@ export default [
     "guideline": {
       "text": "NIMH says no laboratory test confirms PANS/PANDAS. Evidence of preceding strep infection is one part of a thorough clinical evaluation; an elevated ASO titer alone does not diagnose the syndrome.",
       "url": "https://www.nimh.nih.gov/health/publications/pandas"
-    }
+    },
+    "sourcePages": [
+      152,
+      181
+    ]
   },
   {
     "id": "s2fm-2836",
@@ -34468,7 +34634,11 @@ export default [
     "guideline": {
       "text": "NIMH criteria emphasize abrupt onset/worsening of OCD or tic disorder with other criteria and strep association for PANDAS. Attention problems can accompany the syndrome but do not establish it alone.",
       "url": "https://www.nimh.nih.gov/health/publications/pandas"
-    }
+    },
+    "sourcePages": [
+      152,
+      181
+    ]
   },
   {
     "id": "s2fm-2837",
@@ -35022,7 +35192,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-2882",
@@ -35033,7 +35207,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      189,
+      191
+    ]
   },
   {
     "id": "s2fm-2883",
@@ -35058,7 +35237,9 @@ export default [
     },
     "sourcePages": [
       147,
-      169
+      169,
+      184,
+      192
     ]
   },
   {
@@ -35073,7 +35254,10 @@ export default [
     },
     "sourcePages": [
       147,
-      170
+      170,
+      184,
+      189,
+      192
     ]
   },
   {
@@ -35151,7 +35335,9 @@ export default [
     },
     "sourcePages": [
       147,
-      169
+      169,
+      184,
+      192
     ]
   },
   {
@@ -35500,7 +35686,11 @@ export default [
     "guideline": {
       "text": "NIA late-stage care guidance describes loss of physical abilities and problems with movement, balance and walking. A normal motor examination is not a universal requirement across every stage or mixed condition.",
       "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/caring-person-late-stage-alzheimers-disease"
-    }
+    },
+    "sourcePages": [
+      146,
+      183
+    ]
   },
   {
     "id": "s2fm-2920",
@@ -35515,7 +35705,11 @@ export default [
     "guideline": {
       "text": "NIA advises reducing noise and clutter, keeping routines, and obtaining natural light during the day. Its sundowning guidance does not call for keeping the room brightly lit around the clock.",
       "url": "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning"
-    }
+    },
+    "sourcePages": [
+      146,
+      183
+    ]
   },
   {
     "id": "s2fm-2921",
@@ -35526,7 +35720,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 183,
       "url": "/mehlman/hy-family-medicine.pdf#page=183"
-    }
+    },
+    "sourcePages": [
+      146,
+      183
+    ]
   },
   {
     "id": "s2fm-2922",
@@ -35537,7 +35735,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 183,
       "url": "/mehlman/hy-family-medicine.pdf#page=183"
-    }
+    },
+    "sourcePages": [
+      146,
+      183
+    ]
   },
   {
     "id": "s2fm-2923",
@@ -35630,7 +35832,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 188,
       "url": "/mehlman/hy-family-medicine.pdf#page=188"
-    }
+    },
+    "sourcePages": [
+      188,
+      193
+    ]
   },
   {
     "id": "s2fm-2931",
@@ -38047,7 +38253,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "sourcePages": [
+      146,
+      183,
+      184
+    ]
   },
   {
     "id": "s2fm-3130",
@@ -38058,7 +38269,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 147,
       "url": "/mehlman/hy-family-medicine.pdf#page=147"
-    }
+    },
+    "sourcePages": [
+      147,
+      183
+    ]
   },
   {
     "id": "s2fm-3131",
@@ -38069,7 +38284,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 147,
       "url": "/mehlman/hy-family-medicine.pdf#page=147"
-    }
+    },
+    "sourcePages": [
+      147,
+      183
+    ]
   },
   {
     "id": "s2fm-3132",
@@ -38083,7 +38302,9 @@ export default [
     },
     "sourcePages": [
       147,
-      169
+      169,
+      184,
+      192
     ]
   },
   {
@@ -38098,7 +38319,8 @@ export default [
     },
     "sourcePages": [
       148,
-      180
+      180,
+      184
     ]
   },
   {
@@ -38452,7 +38674,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      190
+    ]
   },
   {
     "id": "s2fm-3164",
@@ -38463,7 +38689,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-3165",
@@ -38474,7 +38704,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-3166",
@@ -38485,7 +38719,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 169,
       "url": "/mehlman/hy-family-medicine.pdf#page=169"
-    }
+    },
+    "sourcePages": [
+      169,
+      191
+    ]
   },
   {
     "id": "s2fm-3167",
@@ -38496,7 +38734,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 168,
       "url": "/mehlman/hy-family-medicine.pdf#page=168"
-    }
+    },
+    "sourcePages": [
+      168,
+      191
+    ]
   },
   {
     "id": "s2fm-3168",
@@ -38507,7 +38749,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 169,
       "url": "/mehlman/hy-family-medicine.pdf#page=169"
-    }
+    },
+    "sourcePages": [
+      169,
+      192
+    ]
   },
   {
     "id": "s2fm-3169",
@@ -38577,7 +38823,11 @@ export default [
     "guideline": {
       "text": "DailyMed extended-release lithium label updatedNovember 2025 states lithium can precipitate serotonin syndrome, with greater risk alongside other serotonergic drugs orMAO inhibitors. It lists mental-status, autonomic, neuromuscular and gastrointestinal features. This directly supports the source association.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d276da3c-9952-4674-a54d-b1258df71b8a"
-    }
+    },
+    "sourcePages": [
+      172,
+      189
+    ]
   },
   {
     "id": "s2fm-3175",
@@ -38676,6 +38926,415 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 180,
       "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-3184",
+    "category": "Final source-mapping details",
+    "q": "What gross-motor ages does the PDF give before independent walking?",
+    "a": "Head held up at 3 months, rolling front-to-back at 4-5 months, sitting at 6 months and crawling by 9 months. These are source teaching ranges rather than universal diagnostic deadlines; the separately verified CDC 9-month sitting milestone note still applies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "CDC 2025 lists getting to sitting and sitting without support among 9-month milestones. CDC checklists reflect skills most children have by that age; they are not a direct one-to-one replacement for every source teaching range.",
+      "url": "https://www.cdc.gov/act-early/milestones/9-months.html"
+    }
+  },
+  {
+    "id": "s2fm-3185",
+    "category": "Final source-mapping details",
+    "q": "Which additional early language milestones does the source list?",
+    "a": "Mama/dada and recognizing the child's own name by 1 year; two-word phrases at 2 years; approximately 900 words at 3 years. These are source ranges, not a full current developmental-screening tool.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-3186",
+    "category": "Final source-mapping details",
+    "q": "What school-age interest does the PDF call normal rather than pathologic?",
+    "a": "Repeated questions about death around ages 8-10. Context, distress and safety still matter; the source age range is not a diagnosis by itself.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-3187",
+    "category": "Final source-mapping details",
+    "q": "How does the source characterize the course of a provisional isolated tic?",
+    "a": "A single tic may last up to a year and has a very low chance of progression, according to the PDF. The prognosis is a source claim, not a newly verified estimate; its follow-up interval is covered separately.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-3188",
+    "category": "Final source-mapping details",
+    "q": "Which drug-related movement disorder does the PDF label a type of tic disorder?",
+    "a": "Antipsychotic-associated tardive dyskinesia. This is the PDF label; the separately described tardive syndrome and tic syndromes should not be assumed interchangeable diagnoses.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-3189",
+    "category": "Final source-mapping details",
+    "q": "What injury mechanisms does the PDF associate with possible physical abuse?",
+    "a": "Twisting with spiral fractures, squeezing with posterior-rib fractures, cigarettes with circular burns, and immersion with burns sparing flexor areas. It also lists retinal injury, subdural bleeding and avoiding eye contact. These are prompts for careful evaluation, not proof of abuse from any one finding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-3190",
+    "category": "Final source-mapping details",
+    "q": "When does the PDF mention ECT for depression during pregnancy?",
+    "a": "Severe situations with suicidal/homicidal thoughts or refusal to eat/drink; it describes fetal safety with appropriate precautions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "NICECG 192 recommendation 1.8.22(2014) says considerECT for pregnant women with severe depression, severe mixed affective states/mania, or catatonia when the woman's or fetus's physical health is at serious risk. This supports a specialist risk-based option, not a blanket risk-free procedure.",
+      "url": "https://www.nice.org.uk/guidance/cg192/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2fm-3191",
+    "category": "Final source-mapping details",
+    "q": "What infant-care findings make the PDF postpartum-depression example urgent?",
+    "a": "Leaving the infant crying unattended for long periods or not changing soiled diapers, with maternal depression and guilt/worthlessness; the source calls for immediate psychiatric referral. Immediate safety and support matter rather than waiting for a postpartum-day cutoff.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2fm-3192",
+    "category": "Final source-mapping details",
+    "q": "Which SSRIs does the source favor when medication is used for postpartum depression during breastfeeding?",
+    "a": "Sertraline or paroxetine, attributed to lower breast-milk concentrations. This is its source comparison, not a universal switch away from a previously effective treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2fm-3193",
+    "category": "Final source-mapping details",
+    "q": "What antipsychotics does the PDF name for postpartum psychosis?",
+    "a": "Olanzapine or risperidone, after immediate psychiatric referral. Its short list is not a full emergency admission, differential or medication-selection protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2fm-3194",
+    "category": "Final source-mapping details",
+    "q": "What smooth-muscle mechanism does the PDF give for irritable bowel syndrome?",
+    "a": "Smooth muscle hypersensitivity, in its exam explanation. The separately verified gut-brain-disorder note does not imply fabricated symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "NIDDK describes IBS as a disorder of gut-brain interaction. Symptoms are real and involve how brain and gut work together; the source label should not imply fabrication or a purely psychiatric cause.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/definition-facts"
+    }
+  },
+  {
+    "id": "s2fm-3195",
+    "category": "Final source-mapping details",
+    "q": "What source sequence treats delirium associated with severe hypercalcemia?",
+    "a": "Normal saline, then a bisphosphonate such as pamidronate. The PDF also dismisses loop diuretics/calcitonin; its calcitonin absolute is separately corrected for severe malignancy-associated hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "Endocrine Society 2022 guidance for severe hypercalcemia of malignancy (>14 mg/dL) suggests calcitonin plus IV bisphosphonate or denosumab initially, limited to 48-72 hours for tachyphylaxis. This is specifically malignancy-related guidance.",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/hypercalcemia"
+    }
+  },
+  {
+    "id": "s2fm-3196",
+    "category": "Final source-mapping details",
+    "q": "Which OTC cough suppressant can cause the source pediatric delirium/psychosis pattern in excess?",
+    "a": "Dextromethorphan. The PDF calls it an opioid antitussive; its toxicity should not be reduced to a classic mu-opioid toxidrome, and actual exposure/treatment need separate assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-3197",
+    "category": "Final source-mapping details",
+    "q": "What adolescent exposure does the PDF associate with ataxia and cognitive decline?",
+    "a": "Glue inhalation; paint inhalation is another source cognitive-decline example, sometimes with metallic color around the nose/mouth. Exposure identity and neurologic effects require actual product assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-3198",
+    "category": "Final source-mapping details",
+    "q": "What unusual PCP presentation does the source mention besides aggression and nystagmus?",
+    "a": "Mutism with constricted pupils, in a cited exam example. The PDF presents it as uncommon rather than a universal diagnostic pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-3199",
+    "category": "Final source-mapping details",
+    "q": "Which hallucinogen does the source associate with visual hallucinations, and what acute drug group does it name?",
+    "a": "LSD, with benzodiazepines and emergency observation in its source acute-intoxication approach. It similarly lists benzodiazepines for acute cocaine, amphetamine,PCP andMDMA presentations; the full emergency assessment is not supplied.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-3200",
+    "category": "Final source-mapping details",
+    "q": "Which state-dependent routes to minor emancipation does the PDF list?",
+    "a": "Legal process, marriage, military service or other defined circumstances. It also mentions mature-minor assessment and emergency care, including lifesaving transfusion. These are source examples, not current law in any particular state.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-3201",
+    "category": "Final source-mapping details",
+    "q": "What charcoal timing and antidote sequence does the PDF give for acetaminophen overdose?",
+    "a": "Activated charcoal if ingested within 1-2 hours, then N-acetylcysteine. This is the PDF sequence, not a reason to delay indicated antidote treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "The 2023 US/Canada toxicology consensus recommends starting acetylcysteine as soon as indicated; with strong concern for a large acute overdose, do not wait for levels if that would delay treatment beyond 8 hours. Activated charcoal requires appropriate airway/contraindication assessment and is not a prerequisite to acetylcysteine.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062"
+    }
+  },
+  {
+    "id": "s2fm-3202",
+    "category": "Final source-mapping details",
+    "q": "Which individual SSRI, SNRI and TCA names appear in the source depression table?",
+    "a": "SSRIs: fluoxetine, escitalopram, sertraline. SNRIs: desvenlafaxine and duloxetine. TCAs: amitriptyline, nortriptyline, clomipramine and doxepin. This is a recognition list, not a claim of interchangeable indications or risks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-3203",
+    "category": "Final source-mapping details",
+    "q": "What CNS-penetration explanation does the source give for choosing nortriptyline in an older adult?",
+    "a": "It says less blood-brain-barrier penetration and fewer anticholinergic effects. This is a source mechanism claim, not evidence that the drug is automatically safe in older adults.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
+    }
+  },
+  {
+    "id": "s2fm-3204",
+    "category": "Final source-mapping details",
+    "q": "What universal adverse-effect list does the PDF give for antipsychotics?",
+    "a": "EPS, anticholinergic effects, neuroleptic malignant syndrome,QT prolongation and hyperprolactinemia. This is its class-wide shorthand; individual agents differ substantially and do not all have identical receptor actions or risk magnitudes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-3205",
+    "category": "Final source-mapping details",
+    "q": "Which antipsychotics does the PDF prefer in its high-BMI comparison?",
+    "a": "Aripiprazole or ziprasidone rather than the weight-gain-prone olanzapine/clozapine. This is its source metabolic comparison, not a complete patient-specific choice including cardiac and efficacy considerations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-3206",
+    "category": "Final source-mapping details",
+    "q": "Which additional antimuscarinic and antihistamine names does the PDF give for acute dystonia?",
+    "a": "Trihexyphenidyl and chlorpheniramine, alongside benztropine and diphenhydramine. These are the source options for an acute dystonic reaction, not fever/rigidity from neuroleptic malignant syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-3207",
+    "category": "Final source-mapping details",
+    "q": "What drug does the PDF name for antipsychotic-induced parkinsonism?",
+    "a": "Amantadine, in its source EPS table. Reviewing the causative drug and patient-specific options remains necessary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-3208",
+    "category": "Final source-mapping details",
+    "q": "What preventive switch does the PDF recommend after years on a typical antipsychotic without tardive dyskinesia?",
+    "a": "Switch to an atypical to reduce futureTD risk, in its cited exam scenario. This source blanket answer is not an instruction to destabilize a successful regimen without supervised risk-benefit review.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-3209",
+    "category": "Final source-mapping details",
+    "q": "What channel mechanisms does the PDF assign to valproate, carbamazepine and phenytoin?",
+    "a": "Sodium-channel block for all three; increasedGABA is also listed for valproate. These are source pharmacology summaries, not a complete mechanism or selection algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-family-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2fm-3210",
+    "category": "Final source-mapping details",
+    "q": "Which barbiturate names and uses appear in the source table?",
+    "a": "Phenobarbital and thiopental, with general anesthesia and refractory status epilepticus after benzodiazepine/phenytoin failure. This is the PDF sequence; its status-treatment ladder has a separate guideline note.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2fm-3211",
+    "category": "Final source-mapping details",
+    "q": "How does the source describe zolpidem/zaleplon receptor activity?",
+    "a": "GABA-A activation at a different subunit from benzodiazepines, with dependence risk. This is its subunit shorthand, not a full receptor-binding comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2fm-3212",
+    "category": "Final source-mapping details",
+    "q": "What gestational cutoff does the PDF give for magnesium fetal neuroprotection?",
+    "a": "Delivery before 32 weeks, alongside its eclampsia seizure-prevention/treatment use. This is the source cutoff rather than a complete obstetric eligibility, timing and dosing protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2fm-3213",
+    "category": "Final source-mapping details",
+    "q": "Which pain and cough uses does the PDF give for codeine, fentanyl and meperidine?",
+    "a": "Codeine is less potent than morphine and appears in antitussives; fentanyl is a potent synthetic opioid; meperidine is a potent opioid appearing in its drug-seeking vignette. Requesting a named drug alone does not prove malingering.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-3214",
+    "category": "Final source-mapping details",
+    "q": "Which named carbonic-anhydrase inhibitor and alpha-2 agonist does the PDF include in glaucoma therapy?",
+    "a": "Dorzolamide reduces aqueous production; brimonidine is the alpha-2 agonist in its angle-closure list. This is the source drug list, not a substitute for urgent ophthalmic treatment or the separately noted definitive procedure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-3215",
+    "category": "Final source-mapping details",
+    "q": "What treatment does the PDF give for neovascular age-related macular degeneration?",
+    "a": "Anti-VEGF therapy and sometimes laser treatment, contrasting its supportive-only dry-AMD summary. The latter has separate stage-specific nutritional/geographic-atrophy qualifications.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-3216",
+    "category": "Final source-mapping details",
+    "q": "Which definitive treatment category does the source name for retinal detachment?",
+    "a": "Surgery, requiring prompt specialist assessment rather than assuming a benign explanation for new flashes, floaters or vision loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-family-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2fm-3217",
+    "category": "Final source-mapping details",
+    "q": "What descriptive arteriole shape accompanies the PDF hypertensive-retinopathy example?",
+    "a": "A sausage-like appearance, along with arteriolar narrowing andAV nicking. It is a source descriptive clue, not a unique systemic diagnosis from appearance alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2fm-3218",
+    "category": "Final source-mapping details",
+    "q": "What blue-versus-green fluorescein rule does the source teach?",
+    "a": "Blue is normal and green is abnormal under its described violet-light examination. This is its visual shorthand for fluorescein uptake at an epithelial defect, not an all-purpose rule for every ocular color or disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-family-medicine.pdf#page=200"
     }
   }
 ];
