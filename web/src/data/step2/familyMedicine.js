@@ -31107,5 +31107,65 @@ export default [
       "text": "ADA 2026 recommendation 11.6a specifies diabetes with hypertension and albuminuria or reduced eGFR, while 11.6c rejects ACEi/ARB for primary prevention with normal BP, UACR and eGFR. Treatment is not selected from elevated renin alone, and eGFR/potassium require monitoring.",
       "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S246/163914/11-Chronic-Kidney-Disease-and-Risk-Management"
     }
+  },
+  {
+    "id": "s2fm-2628",
+    "category": "Renal exact-source review",
+    "q": "What glucose-based explanation does the PDF give for ACEi/ARB kidney protection in diabetes?",
+    "a": "An early reduction in GFR reduces filtered glucose and therefore slows inevitable glomerular glycosylation/thickening.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    },
+    "guideline": {
+      "text": "National Kidney Foundation explains protection through lower pressure in the glomeruli, with a possible small early eGFR fall and slower long-term CKD worsening. Its account does not use reduced glucose filtration as the central mechanism.",
+      "url": "https://www.kidney.org/kidney-topics/ace-inhibitors-and-arbs"
+    }
+  },
+  {
+    "id": "s2fm-2629",
+    "category": "Renal exact-source review",
+    "q": "What absolute urinary-blood distinction does the source draw for heroin-associated MPGN versus FSGS?",
+    "a": "MPGN has protein and blood in the urine; FSGS from heroin has no blood in the urine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    },
+    "guideline": {
+      "text": "Merck Professional describes microscopic hematuria as possible in FSGS. The presence of urinary blood does not by itself exclude this lesion.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/focal-segmental-glomerulosclerosis"
+    }
+  },
+  {
+    "id": "s2fm-2630",
+    "category": "Renal exact-source review",
+    "q": "How does the source connect multiple myeloma light chains with renal amyloidosis?",
+    "a": "It groups excess immunoglobulins/light chains, Bence-Jones proteinuria and renal deposition under amyloidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    },
+    "guideline": {
+      "text": "International Myeloma Foundation distinguishes light-chain cast nephropathy, in which casts obstruct tubules, as a major mechanism of myeloma kidney impairment. Light-chain proteinuria does not by itself prove amyloid deposition.",
+      "url": "https://www.myeloma.org/what-is-kidney-failure"
+    }
+  },
+  {
+    "id": "s2fm-2631",
+    "category": "Renal malignancy exact-source review",
+    "q": "What metastatic exclusion does the PDF state for squamous-cell lung cancer when contrasting it with RCC?",
+    "a": "It says squamous-cell lung cancer does not metastasize to the kidney.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    },
+    "guideline": {
+      "text": "A 2023 clinicopathologic case series reports renal metastases from lung cancer, including squamous-cell carcinoma. This is observational case-series evidence, not a frequency estimate, but it disproves the source absolute exclusion.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10169492/"
+    }
   }
 ];
