@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 182; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 201; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -7566,5 +7566,675 @@ export default [
       "page": 182,
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     }
+  },
+  {
+    "id": "s2fm-0668",
+    "category": "Psychiatry",
+    "q": "Axial dystonia accompanies a parkinsonian presentation. Which Parkinson-plus disorder does the PDF emphasize?",
+    "a": "Progressive supranuclear palsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-0669",
+    "category": "Psychiatry",
+    "q": "A patient develops parkinsonism after exposure to MPTP. What toxin effect is described?",
+    "a": "MPTP-associated injury to dopaminergic pathways can cause parkinsonism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-0670",
+    "category": "Psychiatry",
+    "q": "Chronic abdominal pain and altered bowel habits improve after defecation. Which disorder is described?",
+    "a": "Irritable bowel syndrome, distinct from inflammatory bowel disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-0671",
+    "category": "Psychiatry",
+    "q": "Suprapubic/bladder pain and urinary symptoms persist without an identified infection. Which pain syndrome is described?",
+    "a": "Interstitial cystitis/bladder pain syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-0672",
+    "category": "Psychiatry",
+    "q": "Widespread pain and tenderness occur without inflammatory laboratory findings. What syndrome and drug classes does the PDF name?",
+    "a": "Fibromyalgia. SNRIs and TCAs are treatment classes named; their use does not require a coexisting depression diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-0673",
+    "category": "Psychiatry",
+    "q": "A nonpregnant patient experiences a belief and physical signs of pregnancy. What condition is described?",
+    "a": "Pseudocyesis, or false pregnancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-0674",
+    "category": "Psychiatry",
+    "q": "Attention and cognition change acutely over hours to days. What syndrome must be considered?",
+    "a": "Delirium. Causes named include infection, medication effects, electrolyte abnormalities and metabolic disturbances.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-0675",
+    "category": "Psychiatry",
+    "q": "Can delirium be quiet and lethargic rather than agitated?",
+    "a": "Yes. Hypoactive delirium can present with reduced responsiveness or activity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-0676",
+    "category": "Psychiatry",
+    "q": "A child becomes confused with warm dry skin and dilated pupils after an OTC antihistamine. Which toxidrome is suggested?",
+    "a": "Anticholinergic toxicity, which can occur with diphenhydramine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-0677",
+    "category": "Psychiatry",
+    "q": "After reducing heavy alcohol intake, a patient develops tremor, tachycardia, diaphoresis and delirium. Which withdrawal complication is described?",
+    "a": "Delirium tremens. The source names benzodiazepines and thiamine treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-0678",
+    "category": "Psychiatry",
+    "q": "Does the PDF present minor-consent rules as identical in every US state?",
+    "a": "No. It explicitly notes that policies vary by state; its sexual-health, substance-use, mental-health and emancipation examples are generic, not a substitute for local law.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-0679",
+    "category": "Psychiatry",
+    "q": "What receptor does caffeine antagonize to promote wakefulness?",
+    "a": "Adenosine receptors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-0680",
+    "category": "Psychiatry",
+    "q": "Which symptoms does the PDF associate with nicotine withdrawal?",
+    "a": "Anxiety, low mood, difficulty concentrating and increased appetite/weight gain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-0681",
+    "category": "Psychiatry",
+    "q": "Conjunctival injection and dry mouth accompany which substance exposure in the PDF?",
+    "a": "Cannabis or marijuana.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-0682",
+    "category": "Psychiatry",
+    "q": "Tachycardia, mydriasis and chest pain from coronary vasospasm follow stimulant use. Which exposure is emphasized?",
+    "a": "Cocaine. The source also names aortic dissection and placental abruption as serious associated complications.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-0683",
+    "category": "Psychiatry",
+    "q": "Agitation and nystagmus follow a dissociative drug exposure. Which drug is emphasized?",
+    "a": "Phencyclidine, PCP.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-0684",
+    "category": "Psychiatry",
+    "q": "Euphoria, bruxism and hyperthermia follow an empathogenic stimulant. Which drug is described?",
+    "a": "MDMA, ecstasy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-0685",
+    "category": "Psychiatry",
+    "q": "Respiratory depression and pinpoint pupils follow opioid exposure. Which reversal agent is named?",
+    "a": "Naloxone, an opioid-receptor antagonist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-0686",
+    "category": "Psychiatry",
+    "q": "Acetaminophen overdose causes liver injury through NAPQI. Which antidote does the source name?",
+    "a": "N-acetylcysteine, which replenishes reduced glutathione.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-0687",
+    "category": "Psychiatry",
+    "q": "Tinnitus accompanies mixed respiratory alkalosis and metabolic acidosis after overdose. Which drug is suggested?",
+    "a": "Aspirin or another salicylate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-0688",
+    "category": "Psychiatry",
+    "q": "Which antidepressant class commonly causes sexual dysfunction and can interact dangerously with MAO inhibitors?",
+    "a": "SSRIs. The source emphasizes anorgasmia and serotonin-syndrome risk with serotonergic combinations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-0689",
+    "category": "Psychiatry",
+    "q": "Which antidepressant class can raise blood pressure at higher doses?",
+    "a": "SNRIs, serotonin-norepinephrine reuptake inhibitors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-0690",
+    "category": "Psychiatry",
+    "q": "Which antidepressant is an alpha-2 antagonist with appetite-promoting effects?",
+    "a": "Mirtazapine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-0691",
+    "category": "Psychiatry",
+    "q": "Which sedating serotonin-antagonist/reuptake inhibitor is often used for insomnia?",
+    "a": "Trazodone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-0692",
+    "category": "Psychiatry",
+    "q": "A serotonergic drug combination is followed by autonomic symptoms and fever. Which syndrome is described?",
+    "a": "Serotonin syndrome. The source names cyproheptadine as a serotonin-antagonist treatment option.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-0693",
+    "category": "Psychiatry",
+    "q": "Which antipsychotic has an important agranulocytosis/neutropenia risk?",
+    "a": "Clozapine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-0694",
+    "category": "Psychiatry",
+    "q": "Which antipsychotics does the PDF emphasize for weight gain?",
+    "a": "Olanzapine and clozapine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-0695",
+    "category": "Psychiatry",
+    "q": "Restlessness appears soon after starting an antipsychotic. What extrapyramidal effect is described?",
+    "a": "Akathisia. Propranolol is a treatment named in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-0696",
+    "category": "Psychiatry",
+    "q": "Repetitive involuntary oral or tongue movements arise after chronic dopamine blockade. What adverse effect is described?",
+    "a": "Tardive dyskinesia. Its management needs individualized review; the source presents drug-switching examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-0697",
+    "category": "Psychiatry",
+    "q": "Which prokinetic antiemetic can cause parkinsonism and other extrapyramidal effects?",
+    "a": "Metoclopramide, a dopamine-receptor antagonist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-0698",
+    "category": "Psychiatry",
+    "q": "How do benzodiazepines affect GABA-A chloride-channel opening?",
+    "a": "They increase the frequency of opening in the presence of GABA, enhancing inhibition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-family-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2fm-0699",
+    "category": "Psychiatry",
+    "q": "How do barbiturates differ from benzodiazepines in their effect on GABA-A channel opening?",
+    "a": "They increase opening duration. The source emphasizes their greater toxicity risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2fm-0700",
+    "category": "Psychiatry",
+    "q": "Which sodium-channel-blocking antiepileptic can cause Stevens-Johnson syndrome?",
+    "a": "Lamotrigine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2fm-0701",
+    "category": "Psychiatry",
+    "q": "Which classic opioid adverse effects does the source emphasize?",
+    "a": "Respiratory depression, miosis and constipation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-0702",
+    "category": "Psychiatry",
+    "q": "Flu-like symptoms, piloerection and yawning follow opioid cessation. What syndrome is described?",
+    "a": "Opioid withdrawal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-0703",
+    "category": "Psychiatry",
+    "q": "Which opioid medication is a partial mu agonist and kappa antagonist?",
+    "a": "Buprenorphine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-0704",
+    "category": "Psychiatry",
+    "q": "Which long-acting full mu agonist is used in opioid-use-disorder treatment?",
+    "a": "Methadone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-0705",
+    "category": "Psychiatry",
+    "q": "Which opioid antagonist is used for alcohol-use disorder and can help prevent opioid relapse after detoxification?",
+    "a": "Naltrexone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-0706",
+    "category": "Psychiatry",
+    "q": "Why is naloxone combined with buprenorphine in Suboxone?",
+    "a": "The source explains that naloxone has little effect through the intended mucosal route but can deter injection misuse by precipitating withdrawal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-0707",
+    "category": "Ophthalmology",
+    "q": "Identify the ocular cranial-nerve palsies labeled A, B and C.",
+    "a": "A: CN III, down-and-out eye. B: CN IV, impaired superior-oblique function with compensatory head tilt. C: CN VI, failure of abduction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-family-medicine.pdf#page=194"
+    },
+    "img": "/s2img/fm-194-0.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0708",
+    "category": "Ophthalmology",
+    "q": "Slow painless peripheral visual-field loss occurs with optic-disc cupping. What disease is suggested?",
+    "a": "Open-angle glaucoma. The source names tonometry to measure intraocular pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-0709",
+    "category": "Ophthalmology",
+    "q": "A painful red eye has a fixed mid-dilated pupil, halos and nausea. What emergency is suggested?",
+    "a": "Acute angle-closure glaucoma. Urgent ophthalmic evaluation is needed; the source lists pressure-lowering therapies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-0710",
+    "category": "Ophthalmology",
+    "q": "How do latanoprost and timolol lower intraocular pressure?",
+    "a": "Latanoprost increases aqueous outflow; timolol decreases aqueous production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-0711",
+    "category": "Ophthalmology",
+    "q": "Wavy Amsler-grid lines and drusen accompany central vision loss. What condition is shown?",
+    "a": "Age-related macular degeneration. The source distinguishes dry and neovascular forms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    },
+    "img": "/s2img/fm-195-0.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0712",
+    "category": "Ophthalmology",
+    "q": "Night blindness and peripheral visual-field loss accompany this pigmentary retinal pattern. What disorder is shown?",
+    "a": "Retinitis pigmentosa.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-family-medicine.pdf#page=196"
+    },
+    "img": "/s2img/fm-196-0.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0713",
+    "category": "Ophthalmology",
+    "q": "After ocular trauma or with high myopia, this fundus finding suggests what diagnosis?",
+    "a": "Retinal detachment, requiring urgent specialist assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-family-medicine.pdf#page=196"
+    },
+    "img": "/s2img/fm-196-1.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0714",
+    "category": "Ophthalmology",
+    "q": "Identify the hemorrhagic fundus finding shown.",
+    "a": "Vitreous hemorrhage. Diabetes is an important risk context emphasized in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    },
+    "img": "/s2img/fm-197-0.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0715",
+    "category": "Ophthalmology",
+    "q": "Sudden painless visual loss occurs with a pale retina and a cherry-red spot. What diagnosis is shown?",
+    "a": "Central retinal artery occlusion, an acute retinal ischemic emergency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    },
+    "img": "/s2img/fm-197-1.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0716",
+    "category": "Ophthalmology",
+    "q": "Which conservative treatment does the PDF mention for central retinal artery occlusion?",
+    "a": "PDF answer: ocular massage may be attempted to dislodge the embolus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    },
+    "guideline": {
+      "text": "Current guidance: AHA 2021 says ocular massage is unproven and may be harmful; CRAO is an emergency requiring rapid emergency-department triage.",
+      "url": "https://professional.heart.org/en/science-news/management-of-central-retinal-artery-occlusion/top-things-to-know"
+    }
+  },
+  {
+    "id": "s2fm-0717",
+    "category": "Ophthalmology",
+    "q": "A small refractile retinal body represents what embolic finding in the source?",
+    "a": "A retinal embolus, described in the PDF as a refractile body.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    },
+    "img": "/s2img/fm-198-0.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0718",
+    "category": "Ophthalmology",
+    "q": "A diabetic patient has retinal hemorrhages and hard/soft exudates. What disease is shown?",
+    "a": "Diabetic retinopathy. Hard exudates are lipid deposits; cotton-wool spots reflect focal ischemic injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    },
+    "img": "/s2img/fm-198-1.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0719",
+    "category": "Ophthalmology",
+    "q": "Which retinal arteriolar findings does the PDF associate with chronic hypertension?",
+    "a": "AV nicking and arteriolar narrowing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2fm-0720",
+    "category": "Ophthalmology",
+    "q": "Identify this yellow eyelid lipid deposit.",
+    "a": "Xanthelasma. It can occur with dyslipidemia or without a recognized lipid disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    },
+    "img": "/s2img/fm-199-1.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0721",
+    "category": "Ophthalmology",
+    "q": "Identify the peripheral corneal lipid ring shown.",
+    "a": "Corneal arcus. It can be age-related, particularly in older adults.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    },
+    "img": "/s2img/fm-199-2.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0722",
+    "category": "Ophthalmology",
+    "q": "A scratchy painful eye is examined with fluorescein. What defect is shown?",
+    "a": "Corneal abrasion, with dye uptake at the epithelial defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-family-medicine.pdf#page=200"
+    },
+    "img": "/s2img/fm-200-0.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0723",
+    "category": "Ophthalmology",
+    "q": "A painless sharply demarcated red area appears after coughing or vomiting. What finding is shown?",
+    "a": "Subconjunctival hemorrhage, often self-limited in an uncomplicated presentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-family-medicine.pdf#page=200"
+    },
+    "img": "/s2img/fm-200-1.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0724",
+    "category": "Ophthalmology",
+    "q": "Absence of iris tissue accompanies Wilms-tumor risk and genitourinary anomalies. What finding is shown?",
+    "a": "Aniridia, associated with WAGR and WT1-region abnormalities.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    },
+    "img": "/s2img/fm-201-0.png",
+    "alt": "Clinical image from the source PDF"
+  },
+  {
+    "id": "s2fm-0725",
+    "category": "Ophthalmology",
+    "q": "A keyhole-shaped iris defect occurs in CHARGE syndrome. What finding is shown?",
+    "a": "Coloboma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    },
+    "img": "/s2img/fm-201-1.png",
+    "alt": "Clinical image from the source PDF"
   }
 ];
