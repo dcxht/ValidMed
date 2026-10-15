@@ -1,11 +1,13 @@
 # Neurology conversion ledger
 
-October 15, 2026. Partial: 440 active cards, 46 figure-bearing cards / 31 distinct actual source figures, 90 separately linked comparisons. First pass pp4-50; pp51-71 and full second source/detail pass remain. Counts and page links are not proof of final coverage.
+October 15, 2026. Partial: 515 active cards, 46 figure-bearing cards / 31 distinct actual source figures, 106 separately linked comparisons. First pass pp4-56; pp57-71 and full second source/detail pass remain. Counts and page links are not proof of final coverage.
 
 ## Intentional scope exclusions
 
 - Pages1-3: cover, social accounts and nonclinical introduction. Pages72-73: social/copyright pages.
 - Page5, explicitly labeled "Step 1 only": Neuro necrosis (liquefaction, red neurons, microglia/astrocytes) and Wallerian degeneration sections. Excluded because the user asked for only shelf/Step2 material, not based on ad hoc judgments. The clinical lacunar/hemorrhage/hemiballismus content on that page is converted.
+
+- Page56: the explicitly Step3-only sildenafil/pilot3-hour aviation-rule sentence is outside the user shelf/Step2 scope. Retained its clinical sildenafil/PDE6 color-vision content as s2neuro-0515; did not publish an unverified aviation restriction.
 
 ## Source-page map
 
@@ -58,6 +60,12 @@ October 15, 2026. Partial: 440 active cards, 46 figure-bearing cards / 31 distin
 | 48 | s2neuro-0415, s2neuro-0416, s2neuro-0417, s2neuro-0418, s2neuro-0419, s2neuro-0420, s2neuro-0421, s2neuro-0422, s2neuro-0423, s2neuro-0424, s2neuro-0425 |
 | 49 | s2neuro-0426, s2neuro-0427, s2neuro-0428, s2neuro-0429, s2neuro-0430, s2neuro-0431, s2neuro-0432 |
 | 50 | s2neuro-0433, s2neuro-0434, s2neuro-0435, s2neuro-0436, s2neuro-0437, s2neuro-0438, s2neuro-0439, s2neuro-0440 |
+| 51 | s2neuro-0441, s2neuro-0442, s2neuro-0443, s2neuro-0444, s2neuro-0445, s2neuro-0446, s2neuro-0447, s2neuro-0448, s2neuro-0449, s2neuro-0450, s2neuro-0451, s2neuro-0452, s2neuro-0453, s2neuro-0454 |
+| 52 | s2neuro-0454, s2neuro-0455, s2neuro-0456, s2neuro-0457, s2neuro-0458, s2neuro-0459, s2neuro-0460, s2neuro-0461, s2neuro-0462, s2neuro-0463, s2neuro-0464, s2neuro-0465, s2neuro-0466, s2neuro-0467 |
+| 53 | s2neuro-0468, s2neuro-0469, s2neuro-0470, s2neuro-0471, s2neuro-0472, s2neuro-0473, s2neuro-0474, s2neuro-0475, s2neuro-0476, s2neuro-0477, s2neuro-0478, s2neuro-0479, s2neuro-0480, s2neuro-0481, s2neuro-0482 |
+| 54 | s2neuro-0482, s2neuro-0483, s2neuro-0484, s2neuro-0485, s2neuro-0486, s2neuro-0487, s2neuro-0488, s2neuro-0489, s2neuro-0490, s2neuro-0491, s2neuro-0492, s2neuro-0493 |
+| 55 | s2neuro-0494, s2neuro-0495, s2neuro-0496, s2neuro-0497, s2neuro-0498, s2neuro-0499, s2neuro-0500, s2neuro-0501, s2neuro-0502, s2neuro-0503, s2neuro-0504 |
+| 56 | s2neuro-0505, s2neuro-0506, s2neuro-0507, s2neuro-0508, s2neuro-0509, s2neuro-0510, s2neuro-0511, s2neuro-0512, s2neuro-0513, s2neuro-0514, s2neuro-0515 |
 
 ## Safety and source differences
 
@@ -91,3 +99,12 @@ All13 newly added figure-bearing cards (12 new distinct images) and five long-an
 ### Product checkpoint through p50
 
 All23 new figure-bearing cards and six long-answer/comparison cards rendered in390x844 or320x568 mobile viewports. All58 top/bottom screenshots inspected in10 contact sheets; images, question/answer text, source links and persistent controls intact. No horizontal overflow/broken images/offscreen controls. Dense source tables/maps link to full-size originals. Corrected GCS score spacing after pixel inspection and re-rendered before publication.
+
+## Pharmacology first pass through p56
+
+- Converted clinical cholinergic/antimuscarinic, neuromuscular-blocking, cessation, seizure/sedative, headache, Parkinson/Alzheimer, anesthesia and neurotoxic-drug content. Source-specific examples retained, including source mechanism limits and drug-name differences; not a final clinical-fact acceptance.
+- Added separately sourced angle-closure emergency context, skin/inhaled/ingested organophosphate routes, GOLD2026 individualized treatment, behind-ear scopolamine placement, flumazenil risk limits, zolpidem receptor-label explanation, TCA QRS safety, RLS2025 comparison, amantadine mechanism uncertainty, MAC minimum-vs-mean/oil-gas distinction, inhaled-agent pulmonary elimination, endocarditis-regimen qualification and digoxin visual-label comparison.
+
+### Product checkpoint through p56
+
+Six new long-answer/comparison cards rendered at320x568, twelve top/bottom screenshots inspected. Text/source links and answer controls remained readable and in bounds, with no broken image or horizontal overflow. All previously checked31 distinct figures retained. Schema and FM/Psych/Neurology saved-progress tests passed. Full second source/detail and clinical acceptance remain outstanding.

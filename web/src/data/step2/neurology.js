@@ -5353,5 +5353,902 @@ export default [
       "page": 50,
       "url": "/mehlman/hy-neuro.pdf#page=50"
     }
+  },
+  {
+    "id": "s2neuro-0441",
+    "category": "Cholinergic drugs",
+    "q": "How does the source distinguish direct cholinergic agonists from acetylcholinesterase inhibitors?",
+    "a": "Direct agents activate receptors; acetylcholinesterase inhibitors reduce ACh breakdown and increase its synaptic availability. It says most anticholinergics instead directly block receptors.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0442",
+    "category": "Cholinergic drugs",
+    "q": "Which target, bladder pattern and patient does the source use for bethanechol?",
+    "a": "Muscarinic stimulation contracts detrusor muscle in its diabetic neurogenic/hypocontractile-bladder overflow example. That example is not permission to treat mechanical outlet obstruction with bethanechol.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0443",
+    "category": "Cholinergic drugs",
+    "q": "Which pupil and pressure effects and indication does the source give for carbachol?",
+    "a": "Miosis and lower intraocular pressure; glaucoma is its listed use.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0444",
+    "category": "Cholinergic drugs",
+    "q": "Which pupil, pressure and emergency indication does the source give for pilocarpine?",
+    "a": "Miosis/lower intraocular pressure in glaucoma, particularly angle closure in its wording. It is not the whole angle-closure emergency regimen.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    },
+    "guideline": {
+      "text": "Merck describes acute angle closure as an emergency requiring multiple pressure-lowering measures and definitive iridotomy. Pilocarpine/other miotics are generally ineffective at very high IOP and are used after initial lowering, not as the entire treatment.",
+      "url": "https://www.merckmanuals.com/professional/eye-disorders/glaucoma/angle-closure-glaucoma"
+    }
+  },
+  {
+    "id": "s2neuro-0445",
+    "category": "Cholinergic drugs",
+    "q": "Which diagnostic test and timing caveat does the source give for methacholine?",
+    "a": "A bronchoconstrictor challenge to help establish asthma by worsening spirometry/reproducing symptoms; not during an acute asthma attack.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0446",
+    "category": "Cholinergic drugs",
+    "q": "Which dementia drugs share source acetylcholinesterase inhibition?",
+    "a": "Donepezil, rivastigmine and galantamine increase ACh availability and are used for symptomatic Alzheimer treatment. The source favors donepezil in its exam ranking.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0447",
+    "category": "Cholinergic drugs",
+    "q": "Which short-acting historical test drug and comparative response does the source give for MG versus Lambert-Eaton?",
+    "a": "Edrophonium/Tensilon, with marked transient improvement in myasthenia gravis and less marked response in Lambert-Eaton. This is the source historical pharmacologic test, not a complete current diagnostic approach.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0448",
+    "category": "Cholinergic drugs",
+    "q": "Which cholinesterase inhibitor does the source use to treat MG?",
+    "a": "Pyridostigmine, for symptomatic improvement. It is not a cure or a complete crisis-management plan.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0449",
+    "category": "Cholinergic drugs",
+    "q": "Which plant poisoning and mechanism make physostigmine the source antidote example?",
+    "a": "Jimson weed contains atropine-like antimuscarinics. Physostigmine inhibits cholinesterase and can reverse selected central anticholinergic effects; the source vignette is not a blanket antidote for every unknown/mixed overdose.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0450",
+    "category": "Cholinergic drugs",
+    "q": "How does the source explain neostigmine reversal at the end of surgery?",
+    "a": "It inhibits acetylcholinesterase, increasing ACh to compete against nondepolarizing neuromuscular blockers. This source mechanism does not imply reversal of every paralysis mechanism.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0451",
+    "category": "Cholinergic drugs",
+    "q": "Which exposures, enzyme binding and prevention answer does the source give for organophosphates?",
+    "a": "Farm/fruit-picking skin contact or intentional ingestion, with phosphorylation/inhibition of acetylcholinesterase. It favors gloves over a mask in its particular exam prevention question; that does not exclude inhalational poisoning or other protective equipment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    },
+    "guideline": {
+      "text": "Merck describes organophosphate toxicity after ingestion, inhalation OR skin absorption. Care includes decontamination, respiratory support, titrated atropine for muscarinic respiratory effects and pralidoxime for neuromuscular toxicity. A glove-versus-mask exam choice is not a general exposure-prevention rule.",
+      "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/organophosphate-poisoning-and-carbamate-poisoning"
+    }
+  },
+  {
+    "id": "s2neuro-0452",
+    "category": "Cholinergic drugs",
+    "q": "What antidote sequence and distinct mechanisms does the source give for organophosphate poisoning?",
+    "a": "Atropine first to antagonize muscarinic effects, then pralidoxime to reactivate inhibited acetylcholinesterase before aging. The source labels pralidoxime a special anticholinergic; it is not a direct receptor antagonist.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    },
+    "guideline": {
+      "text": "Merck describes organophosphate toxicity after ingestion, inhalation OR skin absorption. Care includes decontamination, respiratory support, titrated atropine for muscarinic respiratory effects and pralidoxime for neuromuscular toxicity. A glove-versus-mask exam choice is not a general exposure-prevention rule.",
+      "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/organophosphate-poisoning-and-carbamate-poisoning"
+    }
+  },
+  {
+    "id": "s2neuro-0453",
+    "category": "Cholinergic drugs",
+    "q": "Which heart-rate use does the source give for atropine apart from poisoning?",
+    "a": "Muscarinic blockade can increase heart rate, including selected perioperative bradycardia situations.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2neuro-0454",
+    "category": "Movement-disorder and antimuscarinic drugs",
+    "q": "Which early antipsychotic reaction and drug does the source identify as acute dystonia?",
+    "a": "Hours-to-days after starting an antipsychotic, torticollis, abnormal eye positioning/oculogyric crisis or rigidity without fever; benztropine is its named antimuscarinic treatment. Fever/rigidity raises concern for NMS rather than a simple dystonic reaction.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 51,
+      "url": "/mehlman/hy-neuro.pdf#page=51"
+    },
+    "sourcePages": [
+      51,
+      52
+    ]
+  },
+  {
+    "id": "s2neuro-0455",
+    "category": "Movement-disorder and antimuscarinic drugs",
+    "q": "Which antihistamine can treat source acute dystonia, and what receptor distinction does the source stress?",
+    "a": "Diphenhydramine, a first-generation H1 blocker with strong antimuscarinic effects, can be an alternative to benztropine. Its motion-sickness vignette favors muscarinic blockade rather than H2/stomach-acid blockade.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0456",
+    "category": "Movement-disorder and antimuscarinic drugs",
+    "q": "Which antiemetic D2 antagonist and additional property does the source give for prochlorperazine?",
+    "a": "Prochlorperazine, an antipsychotic/antiemetic with antimuscarinic effects. The source calls those effects useful for nausea/motion symptoms; they also create adverse-effect risks.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0457",
+    "category": "Movement-disorder and antimuscarinic drugs",
+    "q": "Which two bronchodilator classes and examples does the source allow for initial COPD treatment?",
+    "a": "An inhaled antimuscarinic such as ipratropium or a beta-2 agonist such as olodaterol. It downplays short/long-acting distinctions for its answer-choice example; current regimen choice is not determined by that anecdote alone.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    },
+    "guideline": {
+      "text": "GOLD 2026 says initial treatment is individualized by symptom burden, exacerbation risk, comorbidity, adverse effects and device use. Short-versus-long-acting distinctions are clinically meaningful; the source isolated answer-choice story is not a complete maintenance-treatment algorithm.",
+      "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0458",
+    "category": "Movement-disorder and antimuscarinic drugs",
+    "q": "Which urinary symptom does the source treat with oxybutynin?",
+    "a": "Urge incontinence, via antimuscarinic effects on the bladder. Retention risk matters when applying that indication.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0459",
+    "category": "Movement-disorder and antimuscarinic drugs",
+    "q": "Which motion-sickness patch and application site does the source state?",
+    "a": "Scopolamine, which the PDF says to put on the arm before travel. Preserve the source wording but use the separate label comparison for correct placement.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    },
+    "guideline": {
+      "text": "The retrieved scopolamine transdermal label directs application to a hairless area BEHIND ONE EAR, not the arm. Wash hands after application and follow the product-specific timing/removal instructions.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5aa64f85-ae52-4a86-a894-a4e536fbe4ad"
+    }
+  },
+  {
+    "id": "s2neuro-0460",
+    "category": "Movement-disorder and antimuscarinic drugs",
+    "q": "Which GI syndrome does the source sometimes treat with hyoscyamine?",
+    "a": "Irritable bowel syndrome/antispasmodic symptom relief in its list; antimuscarinic adverse effects still apply.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0461",
+    "category": "Neuromuscular blockade and cessation drugs",
+    "q": "What does nondepolarizing mean, and which classic blocker does the source name?",
+    "a": "Competitive nicotinic neuromuscular blockade without the initial depolarization/action potentials; tubocurarine is its classic answer.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0462",
+    "category": "Neuromuscular blockade and cessation drugs",
+    "q": "Which operative nondepolarizing paralytics does the source group?",
+    "a": "Vecuronium, rocuronium and cisatracurium.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0463",
+    "category": "Neuromuscular blockade and cessation drugs",
+    "q": "What initial motor effect and later paralysis does the source give for succinylcholine?",
+    "a": "Nicotinic agonism causes depolarization and transient fasciculations followed by neuromuscular block. The source explains later block as desensitization, which does not distinguish phase I persistent depolarization from phase II block.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0464",
+    "category": "Neuromuscular blockade and cessation drugs",
+    "q": "Which shared anesthetic reaction, findings and antidote does the source associate with succinylcholine?",
+    "a": "Malignant hyperthermia with fever and rigidity, also triggered by susceptible exposure to volatile anesthetics. Dantrolene reduces ryanodine-receptor-mediated skeletal-muscle calcium release; emergency management involves more than that one drug.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0465",
+    "category": "Neuromuscular blockade and cessation drugs",
+    "q": "Which reuptake, receptor, mood and cessation effects does the source give for bupropion?",
+    "a": "Dopamine/norepinephrine-reuptake inhibition with nicotinic-receptor antagonism, antidepressant and smoking-cessation uses. It says no sexual effects compared with SSRIs; this is a comparative source claim, not a guarantee of no adverse effect.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0466",
+    "category": "Neuromuscular blockade and cessation drugs",
+    "q": "Which seizure and eating-disorder warning does the source give for bupropion?",
+    "a": "It lowers seizure threshold and should not be used in its eating-disorder example because of increased seizure risk. The clinically relevant contraindication details need the prescribing context, not the source electrolyte explanation alone.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0467",
+    "category": "Neuromuscular blockade and cessation drugs",
+    "q": "How does the source explain varenicline cessation action?",
+    "a": "Partial nicotinic agonism provides lower receptor activation than a full agonist and reduces the rewarding effects of smoking. Calling it functionally an antagonist does not mean it has no agonist activity.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 52,
+      "url": "/mehlman/hy-neuro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2neuro-0468",
+    "category": "Seizure and sedative medications",
+    "q": "Which mechanism, bipolar role and fetal risk does the source give for valproic acid?",
+    "a": "Sodium-channel effects/increased GABA, an alternative to lithium for bipolar disease in its list, and neural-tube/other fetal risk. Its folate-interference phrase is not the complete mechanism or a way to eliminate fetal risk.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0469",
+    "category": "Seizure and sedative medications",
+    "q": "Which mechanism, neuralgia use and serious adverse effects does the source give for carbamazepine?",
+    "a": "Sodium-channel blockade, epilepsy and trigeminal-neuralgia treatment; fetal risk, aplastic anemia and SIADH are its safety associations.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0470",
+    "category": "Seizure and sedative medications",
+    "q": "Which mechanism, status role and fetal syndrome does the source give for phenytoin?",
+    "a": "Sodium-channel blockade; one option after a benzodiazepine in status epilepticus. It lists neural-tube risk and fetal hydantoin syndrome with nail hypoplasia/facial findings; the printed hydrantoin is a source spelling error.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0471",
+    "category": "Seizure and sedative medications",
+    "q": "Which target and seizure type does the source give for ethosuximide?",
+    "a": "Thalamic T-type calcium-channel inhibition for absence seizures. Its claim that other antiseizure mechanisms are never asked is an unverified exam observation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0472",
+    "category": "Seizure and sedative medications",
+    "q": "Which four examples and channel-opening change define source benzodiazepines?",
+    "a": "Diazepam, lorazepam, midazolam and chlordiazepoxide; positive GABA-A modulation increases chloride-channel opening frequency, enhancing inhibitory signaling.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0473",
+    "category": "Seizure and sedative medications",
+    "q": "Which acute neurologic, withdrawal and intoxication uses does the source list for benzodiazepines?",
+    "a": "Status epilepticus, alcohol-withdrawal syndromes and management of stimulant/PCP-associated agitation in its vignettes, along with hypnotic/anxiolytic effects. These are source uses, not an interchangeable dosing protocol.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0474",
+    "category": "Seizure and sedative medications",
+    "q": "Which insomnia and anxiety/phobia exceptions does the source give for benzodiazepines?",
+    "a": "Clonazepam for insomnia/anxiety, acute fear of flying, and a performance/social-anxiety vignette with asthma where propranolol is unsuitable. These exam examples are not a preferred chronic-insomnia or social-anxiety plan.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0475",
+    "category": "Seizure and sedative medications",
+    "q": "How does the source compare alcohol and benzodiazepine binding?",
+    "a": "It says both enhance GABA-A-related inhibition but at different receptor sites, using a binding illustration question. This is a source mechanistic shorthand, not identical pharmacology.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0476",
+    "category": "Seizure and sedative medications",
+    "q": "Which respiratory hazard and overdose reversal does the source give for benzodiazepines?",
+    "a": "Respiratory/CNS depression, with flumazenil as its antidote answer. The separate warning limits when flumazenil is appropriate.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    },
+    "guideline": {
+      "text": "DailyMed labeling warns of seizures, especially benzodiazepine dependence/withdrawal and serious cyclic-antidepressant or mixed overdose. Flumazenil is not a universal safe overdose antidote.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a72d9fc1-121c-455d-93a9-002378c9968f"
+    }
+  },
+  {
+    "id": "s2neuro-0477",
+    "category": "Seizure and sedative medications",
+    "q": "Which examples, channel effect, anesthesia and refractory-status roles define source barbiturates?",
+    "a": "Phenobarbital and thiopental; increased duration of GABA-A chloride-channel opening. The source emphasizes greater danger and general-anesthesia/refractory-status use after earlier agents.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0478",
+    "category": "Seizure and sedative medications",
+    "q": "Which nonbenzodiazepine hypnotics, receptor-subunit statement and dependence warning does the source give?",
+    "a": "Zolpidem and zaleplon, which act at GABA-A receptor benzodiazepine sites with subtype selectivity. The source calls them a different subunit and notes addiction potential; the separate label note qualifies this wording.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    },
+    "guideline": {
+      "text": "FDA AMBIEN prescribing information (2022, explicitly dated) describes zolpidem binding to the benzodiazepine site of alpha-1-containing GABA-A receptors. This is selectivity within the GABA-A receptor family, not a wholly unrelated receptor/subunit system. The label also warns about complex sleep behaviors and CNS depression.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/019908s40s044s047lbl.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0479",
+    "category": "Seizure and sedative medications",
+    "q": "Which maternal, fetal and cardiac uses does the source list for magnesium?",
+    "a": "Treatment/prevention of eclamptic seizures, fetal neuroprotection with anticipated very preterm birth before 32 weeks, and torsades; it also lists digoxin toxicity. That last shorthand is not a substitute for specific antidote/rhythm management.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0480",
+    "category": "Seizure and sedative medications",
+    "q": "Which channel mechanism and skin warning does the source give for lamotrigine?",
+    "a": "Sodium-channel effects for epilepsy, with a serious rash/Stevens-Johnson risk requiring careful prescribing and assessment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0481",
+    "category": "Neuropathic-pain drugs",
+    "q": "Which TCAs, reuptake mechanism and neuropathy use does the source list?",
+    "a": "Amitriptyline, nortriptyline and imipramine inhibit serotonin/norepinephrine reuptake and may treat neuropathic pain such as diabetic neuropathy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2neuro-0482",
+    "category": "Neuropathic-pain drugs",
+    "q": "Which CCC overdose mnemonic, ECG clue and geriatric effects does the source attach to TCAs?",
+    "a": "Coma, convulsions and cardiotoxicity, described as QT prolongation; antimuscarinic confusion and urinary retention are especially relevant in older people. QRS widening is an important separate toxicity finding.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 53,
+      "url": "/mehlman/hy-neuro.pdf#page=53"
+    },
+    "sourcePages": [
+      53,
+      54
+    ],
+    "guideline": {
+      "text": "FDA amitriptyline 2025 label also stresses QRS axis/width; maximal limb-lead QRS at least 0.10 seconds may best indicate overdose severity. QT prolongation can occur, but focusing only on QT misses sodium-channel blockade; IV bicarbonate is part of specialist overdose management.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/085968s112lbl.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0483",
+    "category": "Neuropathic-pain drugs",
+    "q": "Which calcium-related mechanism and pain example does the source give for gabapentin?",
+    "a": "It calls gabapentin a calcium-channel blocker producing neuroinhibition, used for neuropathic pain such as diabetic neuropathy. This is a shorthand for alpha-2-delta-subunit interaction rather than a conventional pore-blocking calcium antagonist.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0484",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "Which acute and prevention drugs does the source repeat for migraine?",
+    "a": "NSAIDs then sumatriptan/serotonin agonism for attacks, with propranolol prophylaxis. It is a source exam sequence, not every acute/preventive option or every patient's contraindication review.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0485",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "Which acute/preventive drugs does the source repeat for cluster and tension headache?",
+    "a": "Cluster: oxygen acutely and verapamil prevention. Tension: rest and acetaminophen in its list.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0486",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "Why does the source not choose an acute pill for each trigeminal-neuralgia jolt, and what prevention drug does it give?",
+    "a": "Its attacks last only 30-60 seconds and resolve before an abortive pill would help; carbamazepine is the named preventive treatment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0487",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "How does the source explain the levodopa/carbidopa combination and distinguish COMT inhibitors?",
+    "a": "Levodopa crosses the BBB and is converted centrally to dopamine; carbidopa inhibits peripheral decarboxylation to increase brain delivery. Entacapone/tolcapone instead inhibit COMT, a distinct levodopa-metabolism pathway.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0488",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "What medication-adjustment vignette does the source give for new psychosis after levodopa dose escalation?",
+    "a": "Reduce the offending carbidopa/levodopa dose in its exam choice rather than abruptly discontinue it. Real Parkinson-psychosis management also depends on triggers, cognition, other drugs and motor tradeoffs.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0489",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "Which D2 agonists and additional prolactin/RLS uses does the source list?",
+    "a": "Ropinirole, pramipexole, cabergoline, pergolide and bromocriptine for Parkinson-related teaching; bromocriptine for prolactinoma, ropinirole/pramipexole for RLS after iron assessment. Historical agents in a list are not equal current preferences.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0490",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "How does the source reconcile gabapentin with dopamine agonists for RLS?",
+    "a": "It acknowledges newer gabapentin-first literature but expects an answer-choice example adding gabapentin to ropinirole. The current comparison matters because long-term dopamine-agonist augmentation can worsen RLS.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    },
+    "guideline": {
+      "text": "AASM 2025 strongly recommends gabapentin, gabapentin enacarbil and pregabalin for adults and suggests against standard pramipexole/ropinirole use because of long-term augmentation risk. Iron assessment includes ferritin and transferrin saturation, with RLS-specific thresholds.",
+      "url": "https://aasm.org/wp-content/uploads/2025/11/RLS-and-PLMD-Guideline-at-a-Glance-2025.pdf"
+    }
+  },
+  {
+    "id": "s2neuro-0491",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "Which Parkinson drug does the source describe as increasing presynaptic dopamine release?",
+    "a": "Amantadine. This is one proposed dopaminergic mechanism, not its established complete clinical mechanism.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    },
+    "guideline": {
+      "text": "DailyMed says its Parkinson mechanism is not known. Animal data suggest dopaminergic effects, and it is a weak noncompetitive NMDA antagonist. Increased release alone is an incomplete mechanistic account.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=579e6c23-6286-4b80-88de-c86c0e5cc2b2"
+    }
+  },
+  {
+    "id": "s2neuro-0492",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "Which enzyme and interaction risk define source selegiline?",
+    "a": "MAO-B inhibition, reducing dopamine breakdown, with serotonin-toxicity concern especially alongside serotonergic drugs such as SSRIs or St John's wort. Interaction risk depends on drug/dose and prescribing context.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0493",
+    "category": "Headache and neurodegenerative drugs",
+    "q": "Which Alzheimer cholinesterase drugs and NMDA antagonist does the source contrast?",
+    "a": "Donepezil/rivastigmine/galantamine increase cholinergic availability. Memantine antagonizes NMDA glutamate receptors, reducing pathological excitatory signaling; the source calcium-channel label is a receptor shorthand, not a full ion-selectivity account.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 54,
+      "url": "/mehlman/hy-neuro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2neuro-0494",
+    "category": "Anesthesia",
+    "q": "What does MAC stand for in the PDF, and what endpoint does it describe?",
+    "a": "The source prints mean alveolar concentration: anesthetic needed to prevent movement to a noxious stimulus in 50% of people. Standard usage is MINIMUM alveolar concentration, not mean.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    },
+    "guideline": {
+      "text": "The 2024 StatPearls review defines MINIMUM alveolar concentration as the concentration preventing movement in 50% of people. The Meyer-Overton potency relationship uses lipid solubility/oil-gas partitioning; potency does not by itself establish onset speed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532974/"
+    }
+  },
+  {
+    "id": "s2neuro-0495",
+    "category": "Anesthesia",
+    "q": "How does MAC relate inversely to source inhaled-anesthetic potency?",
+    "a": "Lower MAC means less concentration needed and greater potency; higher MAC means lower potency. Halothane is its high-potency/low-MAC example and nitrous oxide its low-potency/high-MAC example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2neuro-0496",
+    "category": "Anesthesia",
+    "q": "Which lipid-solubility term and speed inference does the source attach to anesthetic potency?",
+    "a": "It uses high blood:lipid coefficient for greater lipid solubility/potency and lower MAC, then says this achieves faster anesthesia. Potency and onset are not the same property; the conventional potency correlation uses an oil/gas partition coefficient.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    },
+    "guideline": {
+      "text": "The 2024 StatPearls review defines MINIMUM alveolar concentration as the concentration preventing movement in 50% of people. The Meyer-Overton potency relationship uses lipid solubility/oil-gas partitioning; potency does not by itself establish onset speed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532974/"
+    }
+  },
+  {
+    "id": "s2neuro-0497",
+    "category": "Anesthesia",
+    "q": "Which recovery explanation does the source give in its blood:lipid section?",
+    "a": "Redistribution into adipose tissue. That source shortcut is not a complete account of recovery from an inhaled anesthetic, which also depends on reversal of lung/tissue partial-pressure gradients and pulmonary elimination.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    },
+    "guideline": {
+      "text": "OpenAnesthesia describes multiple receptor mechanisms; nitrous oxide acts primarily through NMDA antagonism. Inhaled agents diffuse back from tissues through venous blood into alveoli for elimination by the lungs. The PDF all-agents-GABA and redistribution-only recovery shortcuts are incomplete.",
+      "url": "https://www.openanesthesia.org/keywords/inhaled-anesthetic-agents-mechanism-of-action-uptake-and-distribution/"
+    }
+  },
+  {
+    "id": "s2neuro-0498",
+    "category": "Anesthesia",
+    "q": "How does the source blood:gas coefficient affect onset, and how does it differ from potency?",
+    "a": "Low blood solubility gives faster equilibration/onset, with nitrous oxide its example; high blood solubility gives slower onset, with halothane its example. The source correctly warns that blood:gas solubility and lipid-solubility/potency are not necessarily inverse properties.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2neuro-0499",
+    "category": "Anesthesia",
+    "q": "What common indication and receptor generalization does the source give for inhaled anesthetics?",
+    "a": "General anesthesia; it says all potentiate GABA and inhibit NMDA. That all-agents receptor statement is a simplification, especially for nitrous oxide.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    },
+    "guideline": {
+      "text": "OpenAnesthesia describes multiple receptor mechanisms; nitrous oxide acts primarily through NMDA antagonism. Inhaled agents diffuse back from tissues through venous blood into alveoli for elimination by the lungs. The PDF all-agents-GABA and redistribution-only recovery shortcuts are incomplete.",
+      "url": "https://www.openanesthesia.org/keywords/inhaled-anesthetic-agents-mechanism-of-action-uptake-and-distribution/"
+    }
+  },
+  {
+    "id": "s2neuro-0500",
+    "category": "Anesthesia",
+    "q": "Which classic inhaled agent, liver hazard and inherited reaction does the source emphasize?",
+    "a": "Halothane, with high potency, severe hepatotoxicity risk and ability to trigger malignant hyperthermia in susceptible people. It notes limited contemporary use.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2neuro-0501",
+    "category": "Anesthesia",
+    "q": "Which inhaled agents does the source label fast onset from low blood:gas solubility?",
+    "a": "Nitrous oxide and sevoflurane in its examples; lower solubility permits more rapid rise in alveolar/brain partial pressure.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2neuro-0502",
+    "category": "Anesthesia",
+    "q": "Which IV drug, receptor and trauma-related procedural use does the source give for ketamine?",
+    "a": "An NMDA-antagonist dissociative anesthetic used for procedural sedation, including selected trauma settings in its list.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2neuro-0503",
+    "category": "Anesthesia",
+    "q": "Which appearance, nutritional property and anesthesia role does the source give for propofol?",
+    "a": "A white lipid emulsion with caloric content, used for general-anesthetic induction/maintenance in the source. It references a celebrity death as an anecdote, not an indication or a safe unsupervised-use example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2neuro-0504",
+    "category": "Anesthesia",
+    "q": "Which benzodiazepine and barbiturate roles does the source give in anesthesia?",
+    "a": "Midazolam as an anxiolytic adjunct and thiopental as a historically common induction drug, often replaced by propofol in its description.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 55,
+      "url": "/mehlman/hy-neuro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2neuro-0505",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which channel action and three duration examples define source local anesthetics?",
+    "a": "Sodium-channel blockade; lidocaine is common and also a class IB antiarrhythmic, procaine shorter acting and bupivacaine longer acting in the source comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0506",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which chemotherapy target and neurologic injury identify source vincristine?",
+    "a": "Microtubule/tubulin assembly inhibition, with peripheral/autonomic toxic neuropathy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0507",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which chemotherapy action and sensory toxicities identify source cisplatin?",
+    "a": "DNA crosslinking with neurotoxicity and ototoxicity in its list.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0508",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which antimicrobial target, examples and toxicities does the source give for aminoglycosides?",
+    "a": "30S ribosomal-subunit action against susceptible gram-negative organisms; gentamicin, tobramycin and amikacin. Ototoxic hearing loss/vertigo and nephrotoxicity are the safety associations.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0509",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which empiric endocarditis combination does the source favor for aminoglycosides?",
+    "a": "An aminoglycoside plus vancomycin, called its highest-yield use. This is not a universal current regimen for every suspected endocarditis case.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Merck emphasizes blood cultures and organism/susceptibility-directed therapy. A typical US empiric example is vancomycin plus ceftriaxone; prosthetic-valve, healthcare and critical-illness risks alter coverage. Aminoglycosides have selected synergistic roles, not a blanket indication in every empiric regimen.",
+      "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/endocarditis/infective-endocarditis"
+    }
+  },
+  {
+    "id": "s2neuro-0510",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which nephron transporter, drug examples and ototoxic symptoms does the source give for loop diuretics?",
+    "a": "Inhibition of the apical thick-ascending-limb Na-K-2Cl cotransporter, with furosemide or ethacrynic acid. Sensorineural hearing loss or vertigo can occur; the source prints a 1:1:2 ratio.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0511",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which COX action and ear symptom does the source emphasize for aspirin?",
+    "a": "Irreversible COX-1/COX-2 inhibition, with tinnitus as its classic toxicity clue; the source calls tinnitus commonest without a dose-specific frequency estimate.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0512",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which antiarrhythmic class and symptom pair define source quinidine cinchonism?",
+    "a": "Class IA sodium-channel blockade, with headache and tinnitus in its example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0513",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which pump target and color-vision complaint does the source give for digoxin?",
+    "a": "Na/K-ATPase inhibition, with yellow/wavy vision in toxicity. The source labels this optic neuritis and references an artist; the label comparison supports visual disturbances without proving that specific inflammatory diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Retrieved digoxin labeling lists visual disturbances, including blurred or yellow-green vision, as toxicity manifestations. Those effects alone do not establish the PDF specific optic-neuritis label. Assess the whole toxicity context rather than diagnosing inflammatory optic neuritis from a color complaint.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dfac7f13-28be-423d-9389-9089da29da17"
+    }
+  },
+  {
+    "id": "s2neuro-0514",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which antimicrobial target and eye findings does the source give for ethambutol?",
+    "a": "Mycobacterial arabinosyl-transferase inhibition, with optic neuropathy/neuritis causing blurred vision, central scotoma or red-green discrimination changes.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2neuro-0515",
+    "category": "Local anesthesia and neurotoxic drugs",
+    "q": "Which primary target, retinal off-target effect and comparative drug does the source give for sildenafil?",
+    "a": "PDE5 inhibition for erectile-dysfunction treatment, with PDE6-related blue/color visual disturbance. The source contrasts tadalafil as much less prone to this particular retinal effect; this is not proof of zero visual risk with tadalafil.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 56,
+      "url": "/mehlman/hy-neuro.pdf#page=56"
+    }
   }
 ];
