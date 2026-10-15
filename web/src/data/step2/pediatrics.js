@@ -12933,5 +12933,160 @@ export default [
       "text": "ARUP describes paternal antigen copy-number testing and fetal genotyping when the father is heterozygous. The father's antigen status estimates inheritance risk; it does not replace fetal assessment or establish that anemia is present.",
       "url": "https://arupconsult.com/ati/alloimmune-hemolytic-disease-fetus-and-newborn-rhcc-rhee-rhd-or-kell-antigen-genotyping"
     }
+  },
+  {
+    "id": "s2peds-0936",
+    "category": "Twinning",
+    "q": "How does the source diagram relate monozygotic splitting time to chorionicity and amnionicity?",
+    "a": "Its conventional exam model is days 1-3: dichorionic/diamniotic; days 4-8: monochorionic/diamniotic; days 8-13: monochorionic/monoamniotic; days 13-15: conjoined twins. Later division is paired with more shared structures.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 66,
+      "url": "/mehlman/hy-pediatrics.pdf#page=66"
+    },
+    "guideline": {
+      "text": "A 2019 clinical report and review discusses fission as a theory with variable timing conventions and documented exceptions. Preserve these as the PDF timing model, not proven exact dates for an individual pregnancy; ultrasound establishes membrane anatomy.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6509934/"
+    },
+    "img": "/mehlman/figures/peds-p066-twinning-chart.jpg"
+  },
+  {
+    "id": "s2peds-0937",
+    "category": "Twinning",
+    "q": "Does dichorionic/diamniotic twinning prove the twins are dizygotic?",
+    "a": "No. The source includes both dizygotic twins, which begin as two zygotes, and monozygotic twins whose conceptus splits at about days 1-3 in its conventional model.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 66,
+      "url": "/mehlman/hy-pediatrics.pdf#page=66"
+    },
+    "guideline": {
+      "text": "The 2019 report and review supports the early-division model while warning that membrane anatomy is not definitive genetic proof of zygosity. Do not equate separate chorions with necessarily fraternal twins.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6509934/"
+    }
+  },
+  {
+    "id": "s2peds-0938",
+    "category": "Twinning",
+    "q": "What does dichorionic/diamniotic mean for chorions, amniotic sacs and placentas?",
+    "a": "There are two chorions and two amniotic sacs. The source describes two placentas, but their adjacent placental tissue can appear as one fused mass rather than two visibly separate placentas.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 66,
+      "url": "/mehlman/hy-pediatrics.pdf#page=66"
+    },
+    "guideline": {
+      "text": "ISUOG 2025 says counting placental masses alone is unreliable: dichorionic placentas can be adjacent and appear as one mass, while some monochorionic pregnancies have two masses. Use the intertwin membrane, insertion signs and other ultrasound features together.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11788470/"
+    }
+  },
+  {
+    "id": "s2peds-0939",
+    "category": "Twinning",
+    "q": "Which twin arrangement does this actual source ultrasound show, and what membrane clue supports it?",
+    "a": "Dichorionic/diamniotic twins. The thick dividing membrane between the fetuses is the source exam clue; each fetus has its own chorion and amniotic sac.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 66,
+      "url": "/mehlman/hy-pediatrics.pdf#page=66"
+    },
+    "guideline": {
+      "text": "ISUOG 2025 describes a thick membrane with fused chorionic layers plus an amnion on either side, producing a full lambda or twin-peak sign at insertion. Membrane thickness is one component of chorionicity assessment, not a standalone count of placentas.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11788470/"
+    },
+    "img": "/mehlman/figures/peds-p066-dichorionic.jpg"
+  },
+  {
+    "id": "s2peds-0940",
+    "category": "Twinning",
+    "q": "In the conventional source model, what splitting time produces monochorionic/diamniotic twins?",
+    "a": "About days 4-8 after fertilization, producing monozygotic twins with one chorion but two amniotic sacs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 67,
+      "url": "/mehlman/hy-pediatrics.pdf#page=67"
+    },
+    "guideline": {
+      "text": "The source uses a conventional timing framework. A 2019 clinical report and review discusses alternative timing conventions and exceptions; the number of sacs is an ultrasound finding, not an exact developmental clock.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6509934/"
+    }
+  },
+  {
+    "id": "s2peds-0941",
+    "category": "Twinning",
+    "q": "What distinguishes this actual monochorionic/diamniotic ultrasound from the thick-membrane dichorionic example?",
+    "a": "A thin intertwin membrane separates two amniotic sacs within a shared chorion. The source says there is no thick dividing membrane; it does not mean there is no membrane at all.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 67,
+      "url": "/mehlman/hy-pediatrics.pdf#page=67"
+    },
+    "guideline": {
+      "text": "ISUOG 2025 describes two thin amniotic layers in monochorionic/diamniotic twins and a T sign or empty lambda at insertion, without intervening chorionic tissue. This differs from the thick, chorion-containing dichorionic membrane.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11788470/"
+    },
+    "img": "/mehlman/figures/peds-p067-monochorionic-diamniotic.jpg"
+  },
+  {
+    "id": "s2peds-0942",
+    "category": "Twinning",
+    "q": "What does monochorionic/monoamniotic mean, and when does the source model place the split?",
+    "a": "One chorion and one shared amniotic sac, with no intertwin dividing membrane. The PDF places monozygotic division at about days 8-13 after fertilization.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 67,
+      "url": "/mehlman/hy-pediatrics.pdf#page=67"
+    },
+    "guideline": {
+      "text": "ISUOG 2025 recommends confirming uncertain membrane absence, including transvaginal assessment when needed. The source day range is a conventional model, not a sonographic dating test.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11788470/"
+    }
+  },
+  {
+    "id": "s2peds-0943",
+    "category": "Twinning",
+    "q": "Which twin arrangement is illustrated by this actual source ultrasound with a shared sac and no dividing membrane?",
+    "a": "Monochorionic/monoamniotic twins. The source places this image under the one-chorion, one-amniotic-sac category.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 67,
+      "url": "/mehlman/hy-pediatrics.pdf#page=67"
+    },
+    "guideline": {
+      "text": "ISUOG 2025 notes that cord entanglement is almost universal in monoamniotic twins and can support the diagnosis with Doppler. A single static image should not replace a complete membrane assessment.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11788470/"
+    },
+    "img": "/mehlman/figures/peds-p067-monoamniotic.jpg"
+  },
+  {
+    "id": "s2peds-0944",
+    "category": "Twinning",
+    "q": "Are cord entanglement and twin-to-twin transfusion syndrome the same mechanism in monochorionic twins?",
+    "a": "No. Shared-sac monoamniotic twins are at high risk of cord entanglement. TTTS is related to intertwin placental blood-flow connections, not caused by cords becoming tangled.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 67,
+      "url": "/mehlman/hy-pediatrics.pdf#page=67"
+    },
+    "guideline": {
+      "text": "The PDF calls TTTS a result of entangled fetal vessels; that conflates two risks. ISUOG 2025 identifies cord entanglement in monoamniotic twins, and SMFM Consult 72 (2024) describes monochorionic complications arising from placental vascular anastomoses. TTTS also occurs in monochorionic/diamniotic pregnancies.",
+      "url": "https://www.ajog.org/article/S0002-9378(24)00760-9/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0945",
+    "category": "Twinning",
+    "q": "Which twins are illustrated here, and how does the source explain their timing?",
+    "a": "Conjoined twins. The text says division around day 13, while the preceding source diagram gives days 13-15: a very late incomplete-separation model.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 67,
+      "url": "/mehlman/hy-pediatrics.pdf#page=67"
+    },
+    "guideline": {
+      "text": "A 2019 clinical report and review discusses incomplete fission near two weeks and alternative fusion mechanisms. It emphasizes that the developmental mechanism is not fully understood; the source date is a conventional model rather than established proof of how every conjoined pair forms.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6509934/"
+    },
+    "img": "/mehlman/figures/peds-p067-conjoined.jpg"
   }
 ];
