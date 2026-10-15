@@ -4795,5 +4795,444 @@ export default [
       "page": 35,
       "url": "/mehlman/hy-pediatrics.pdf#page=35"
     }
+  },
+  {
+    "id": "s2peds-0381",
+    "category": "Perioral infection",
+    "q": "What infection continues the source strawberry-tongue image, and what antibiotic does it choose?",
+    "a": "Scarlet fever caused by group A Streptococcus; penicillin is the source treatment. The tongue image continues its preceding red-lip/body-rash vignette.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 36,
+      "url": "/mehlman/hy-pediatrics.pdf#page=36"
+    },
+    "guideline": {
+      "text": "CDC recommends penicillin or amoxicillin for test-confirmed scarlet fever. A red tongue alone is not a positive streptococcal test or a reason to treat every similar-looking illness.",
+      "url": "https://cdc.gov/group-a-strep/hcp/clinical-guidance/scarlet-fever.html"
+    },
+    "img": "/mehlman/figures/peds-p036-03.jpeg"
+  },
+  {
+    "id": "s2peds-0382",
+    "category": "Perioral infection",
+    "q": "Which two post-streptococcal complications and hypersensitivity categories does the source associate with scarlet fever?",
+    "a": "Acute rheumatic fever, framed as type II hypersensitivity, and poststreptococcal glomerulonephritis, framed as type III. Penicillin treatment of the streptococcal infection is the source prevention point for rheumatic fever, not a promise to prevent every PSGN case.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 36,
+      "url": "/mehlman/hy-pediatrics.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2peds-0383",
+    "category": "Perioral infection",
+    "q": "What syndrome does the source suggest when this perioral eruption accompanies hand and foot lesions, and what virus does it name?",
+    "a": "Hand-foot-mouth disease, a contagious enteroviral illness. The source names coxsackie A, an RNA picornavirus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 36,
+      "url": "/mehlman/hy-pediatrics.pdf#page=36"
+    },
+    "guideline": {
+      "text": "CDC identifies multiple causes: coxsackie A16 is typically most common in the US, A6 may be more severe, and EV-A71 can cause outbreaks and occasionally severe neurologic disease. The source benign label is not a guarantee that every enteroviral case is harmless.",
+      "url": "https://www.cdc.gov/hand-foot-mouth/causes/index.html"
+    },
+    "img": "/mehlman/figures/peds-p036-02.jpeg"
+  },
+  {
+    "id": "s2peds-0384",
+    "category": "Perioral infection",
+    "q": "Is source hand-foot-mouth disease limited to children?",
+    "a": "No. The source includes adults, especially parents or daycare workers exposed to infected children. It remains contagious rather than an age-restricted diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 36,
+      "url": "/mehlman/hy-pediatrics.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2peds-0385",
+    "category": "Perioral infection",
+    "q": "What source disease associations distinguish coxsackie B from the coxsackie A oral-lesion examples?",
+    "a": "Coxsackie B is associated in the source with dilated cardiomyopathy, type 1 diabetes and pleurodynia. This is a differential association list, not proof that a given infection caused a person's diabetes or that all cases share a single viral cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 36,
+      "url": "/mehlman/hy-pediatrics.pdf#page=36"
+    },
+    "guideline": {
+      "text": "The 2023 Endocrine Reviews synthesis found increasing evidence linking coxsackie B infection to islet autoimmunity and type 1 diabetes, but stated that demonstration of causality was missing. The source association must not be converted into a universal proven cause.",
+      "url": "https://academic.oup.com/edrv/article/44/4/737/7072701"
+    }
+  },
+  {
+    "id": "s2peds-0386",
+    "category": "Perioral infection",
+    "q": "What diagnosis does the source give for these posterior oropharyngeal vesicles or sores, and must hand-foot-mouth lesions also be present?",
+    "a": "Herpangina, classically associated with coxsackie A in the source. It can occur with or without the hand-foot-mouth eruption.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 36,
+      "url": "/mehlman/hy-pediatrics.pdf#page=36"
+    },
+    "img": "/mehlman/figures/peds-p036-01.jpeg"
+  },
+  {
+    "id": "s2peds-0387",
+    "category": "Perioral infection",
+    "q": "Which infection is suggested by the source white or bluish spots on buccal mucosa?",
+    "a": "Measles (rubeola), with Koplik spots. They are oral findings rather than the body rash itself; the source photograph continues on p37.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 36,
+      "url": "/mehlman/hy-pediatrics.pdf#page=36"
+    },
+    "guideline": {
+      "text": "CDC describes tiny white Koplik spots inside the mouth, often two to three days after initial symptoms. Their absence does not exclude measles at another phase of illness.",
+      "url": "https://cdc.gov/measles/signs-symptoms/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0388",
+    "category": "Perioral infection",
+    "q": "What oral finding is indicated by the arrows in this source image, and which infection does it favor over German measles?",
+    "a": "Koplik spots, favoring measles/rubeola rather than rubella/German measles.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "img": "/mehlman/figures/peds-p037-02-crop.jpeg"
+  },
+  {
+    "id": "s2peds-0389",
+    "category": "Perioral infection",
+    "q": "What lymph-node pattern does the source use to favor rubella over measles, and is it absolutely unique?",
+    "a": "Suboccipital and postauricular lymphadenopathy. The source calls this unique to rubella as a memorization contrast; it is a characteristic clue, not a pathognomonic diagnosis from nodes alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "CDC says rubella lymphadenopathy often involves posterior auricular or suboccipital nodes and may be generalized. It also states that clinical diagnosis alone is unreliable because other febrile rash illnesses look similar.",
+      "url": "https://www.cdc.gov/rubella/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0390",
+    "category": "Perioral infection",
+    "q": "What body-rash direction do source measles and rubella share?",
+    "a": "A head-to-toe maculopapular eruption. The distribution is a shared pattern rather than a sole way to distinguish the two infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2peds-0391",
+    "category": "Perioral infection",
+    "q": "Are fever, cough, coryza and conjunctivitis uniquely diagnostic of measles in the source comparison?",
+    "a": "No. They are classic measles clues but are not uniquely specific; other viral infections, including source rubella examples, can share some findings. Use the overall syndrome and appropriate testing rather than one symptom as proof.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2peds-0392",
+    "category": "Oral and esophageal candidiasis",
+    "q": "What source diagnosis is suggested by this white tongue plaque that exposes inflamed or bleeding mucosa when scraped?",
+    "a": "Oropharyngeal candidiasis (oral thrush). The source describes a painless white palate/tongue plaque; painlessness is not required for every Candida presentation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NIH pediatric guidance describes removable creamy-white curd-like thrush with inflamed underlying mucosa. Not every form of oral Candida is removable: hyperplastic candidiasis can have nonremovable plaques.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-pediatric-opportunistic-infections/candida-infections"
+    },
+    "img": "/mehlman/figures/peds-p037-01.jpeg"
+  },
+  {
+    "id": "s2peds-0393",
+    "category": "Oral and esophageal candidiasis",
+    "q": "What source pediatric immune settings predispose to oral thrush?",
+    "a": "Advanced HIV/AIDS or immunosuppression after organ transplantation. These are source risk examples, not a claim that every child with thrush has HIV or a transplant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2peds-0394",
+    "category": "Oral and esophageal candidiasis",
+    "q": "Which source asthma treatment can predispose to oral candidiasis, and what simple post-dose step reduces risk?",
+    "a": "Inhaled corticosteroids. Rinse the mouth with water after use; this is about local steroid exposure, not stopping needed asthma therapy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2peds-0395",
+    "category": "Oral and esophageal candidiasis",
+    "q": "What local treatment does the source select for oral candidiasis, and when is systemic treatment different?",
+    "a": "Nystatin mouthwash/oral suspension for uncomplicated oropharyngeal candidiasis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NIH pediatric HIV guidance uses topical nystatin or clotrimazole for uncomplicated OPC, while moderate-to-severe OPC needs systemic therapy such as oral fluconazole. Treatment form, age and severity matter; local mouthwash is not treatment for esophageal candidiasis.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-pediatric-opportunistic-infections/candida-infections"
+    }
+  },
+  {
+    "id": "s2peds-0396",
+    "category": "Oral and esophageal candidiasis",
+    "q": "What diagnosis does the source prioritize for odynophagia in an immunocompromised patient, and is it proved by painful swallowing alone?",
+    "a": "Candida esophagitis is a leading concern, not a diagnosis established by odynophagia alone. The source phrase until proven otherwise is an exam-priority cue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NIH pediatric guidance says esophageal candidiasis may cause odynophagia, dysphagia or retrosternal pain, sometimes without oral thrush. Systemic therapy is required, with fluconazole a first-line option; endoscopy can evaluate refractory disease and alternatives such as HSV or CMV.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-pediatric-opportunistic-infections/candida-infections"
+    }
+  },
+  {
+    "id": "s2peds-0397",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "How does the source distinguish uncomplicated infant reflux-like milk regurgitation from three structural warning patterns?",
+    "a": "It describes milk coming back two to three times daily without force. Forceful/projectile vomiting suggests pyloric stenosis; bilious vomiting suggests obstruction such as duodenal atresia/annular pancreas; choking during the first feed raises concern for a tracheoesophageal fistula.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NASPGHAN/ESPGHAN lists persistent forceful or bilious vomiting as red flags requiring evaluation. Two or three spit-ups per day alone do not establish GERD, which requires troublesome symptoms or complications; do not label every thriving spitting infant as diseased.",
+      "url": "https://www.naspghan.org/files/documents/pdfs/position-papers/PedGERD%20Summary%20FINAL.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0398",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "What lower-esophageal mechanism is the source answer for an infant reflux vignette?",
+    "a": "Immaturity of the lower esophageal sphincter, allowing gastric contents to reflux. This source mechanism is different from a fixed intestinal obstruction or an airway-esophageal connection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2peds-0399",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "What feeding changes does the source put before PPIs for infant reflux, and what limits apply to thickening?",
+    "a": "The source suggests positional change and thickened formula using rice cereal before acid suppression. Feeding review and appropriate thickening can be useful, but do not use prone, side or inclined sleeping as reflux treatment. Sleeping infants remain on their back.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NASPGHAN/ESPGHAN suggests avoiding overfeeding and considering thickened feeds for visible regurgitation. If rice is used, choose low/no-arsenic rice cereal. Commercial thickeners have age restrictions; cereal does not thicken breast milk reliably because milk amylase digests it. Use clinician-guided feeding changes rather than improvised recipes.",
+      "url": "https://www.naspghan.org/files/documents/pdfs/position-papers/PedGERD%20Summary%20FINAL.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0400",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "Should source positional treatment for reflux mean prone, side or inclined sleeping for an infant?",
+    "a": "No. Do not turn the PDF nonspecific positional-change advice into unsafe sleeping instructions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NICE NG1 says not to use positional management for reflux in sleeping infants and to place infants on their back for sleep. This preserves safe sleep while other feeding and medical measures are considered.",
+      "url": "https://www.nice.org.uk/guidance/ng1/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2peds-0401",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "What antireflux surgery does the source reserve for severe or refractory pediatric GERD?",
+    "a": "Nissen fundoplication, a last-resort source answer after conservative care rather than an operation for ordinary spit-up.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 37,
+      "url": "/mehlman/hy-pediatrics.pdf#page=37"
+    },
+    "guideline": {
+      "text": "NASPGHAN/ESPGHAN considers surgery for selected infants with life-threatening complications, refractory symptoms after evaluation, or other high-risk circumstances. Exclude alternative disease and review risks; severity in an exam vignette is not a substitute for specialist assessment.",
+      "url": "https://www.naspghan.org/files/documents/pdfs/position-papers/PedGERD%20Summary%20FINAL.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0402",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "What does the source Nissen-fundoplication diagram show being wrapped around the distal esophagus?",
+    "a": "The gastric fundus, forming a wrap that reinforces the antireflux barrier. The source carries this diagram over from its last-resort GERD treatment section and describes a severe-infant-GERD exam example.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "img": "/mehlman/figures/peds-p038-02.jpeg"
+  },
+  {
+    "id": "s2peds-0403",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "What diagnosis does the source suggest for dysphagia in a patient with asthma, from infancy through adulthood?",
+    "a": "Eosinophilic esophagitis, an immune/allergen-associated esophageal disease. Asthma is an association, not a required feature or stand-alone diagnostic test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "ACG 2025 defines EoE as a chronic immune-mediated clinicopathologic disease. Diagnosis requires symptoms of esophageal dysfunction and at least 15 eosinophils per high-power field on biopsy after evaluating other causes of esophageal eosinophilia.",
+      "url": "https://journals.lww.com/ajg/fulltext/2025/01000/acg_clinical_guideline__diagnosis_and_management.16.aspx"
+    }
+  },
+  {
+    "id": "s2peds-0404",
+    "category": "Pediatric reflux and esophageal disease",
+    "q": "What source endoscopic pattern is shown here in eosinophilic esophagitis, and what tissue finding is needed?",
+    "a": "Concentric rings, called trachealization of the esophagus in the source, with eosinophils in esophageal epithelium on biopsy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "ACG 2025 recommends at least 6 esophageal biopsies from at least 2 levels when assessing suspected EoE. Rings alone do not establish the diagnosis, and a failed PPI trial is no longer a required diagnostic gate.",
+      "url": "https://journals.lww.com/ajg/fulltext/2025/01000/acg_clinical_guideline__diagnosis_and_management.16.aspx"
+    },
+    "img": "/mehlman/figures/peds-p038-01.jpeg"
+  },
+  {
+    "id": "s2peds-0405",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "What source diagnosis causes isolated indirect hyperbilirubinemia and yellow eyes in an otherwise well teenager or young adult after stress, surgery or trauma?",
+    "a": "Gilbert syndrome, with reduced bilirubin glucuronidation. The source calls UDP-glucuronosyltransferase a bilirubin uptake enzyme, but its enzyme role is conjugation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "The Gastroenterology review identifies reduced UGT1A1-mediated bilirubin glucuronidation in Gilbert syndrome. Hepatocyte uptake and intracellular conjugation are different processes; the source term must not collapse them into one step.",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(14)00444-2/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0406",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "Does source Gilbert syndrome need treatment, and how does the author pronounce its name?",
+    "a": "No treatment is needed for the typical benign isolated unconjugated-bilirubin pattern. The source pronunciation is Jeel-BEAR rather than GILL-burt; its clinician anecdote is pronunciation context, not a clinical criterion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2peds-0407",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "What source disorder produces marked neonatal indirect hyperbilirubinemia from near-absent bilirubin conjugating activity?",
+    "a": "Crigler-Najjar syndrome, especially type I. The PDF gives near-absence of UDP-glucuronosyltransferase; its low-exam-yield comment is author opinion, not permission to dismiss severe neonatal jaundice.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "The Gastroenterology review distinguishes type I with complete/near-complete UGT1A1 loss from type II with residual activity. Severe neonatal unconjugated hyperbilirubinemia can threaten the brain and needs urgent specialist care rather than Gilbert-style reassurance.",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(14)00444-2/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0408",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "What diagnosis does the source prioritize for a young infant under six weeks with markedly elevated direct bilirubin?",
+    "a": "Biliary atresia. This is a major time-sensitive neonatal cholestasis concern, not the only cause of direct hyperbilirubinemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "AAP 2025 aims to identify biliary atresia by 2-4 weeks, not wait until 6 weeks. At that age, direct/conjugated bilirubin at least 1 mg/dL warrants urgent pediatric gastroenterology consultation; persistent jaundice, pale stools and prior abnormal bilirubin guide testing.",
+      "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070077/201020/Guidance-for-the-Primary-Care-Provider-in"
+    }
+  },
+  {
+    "id": "s2peds-0409",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "How does the source describe biliary-atresia anatomy, and what is the current disease description?",
+    "a": "The PDF says lack of development of intrahepatic ductules and the biliary tree. Biliary atresia instead involves scarred/blocked bile ducts, classically with extrahepatic outflow obstruction and progressive liver injury, not simply every intrahepatic duct failing to form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "NIDDK describes bile ducts inside and outside the liver becoming scarred and blocked, preventing bile flow to intestine and causing progressive damage. This older educational page is used for anatomy, not a newer referral algorithm.",
+      "url": "https://www.niddk.nih.gov/health-information/liver-disease/biliary-atresia"
+    }
+  },
+  {
+    "id": "s2peds-0410",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "What imaging and confirmatory test does the source select for biliary atresia, and can a normal ultrasound safely end the workup?",
+    "a": "The source says ultrasound first and liver biopsy to confirm. Ultrasound or biopsy may support the diagnosis, but neither a normal ultrasound nor a delay for testing should stop time-sensitive specialist referral.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "AAP 2025 says not to order liver enzymes or ultrasound before specialist consultation in an infant with the urgent bilirubin threshold because normal results may falsely reassure and delay referral.",
+      "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070077/201020/Guidance-for-the-Primary-Care-Provider-in"
+    }
+  },
+  {
+    "id": "s2peds-0411",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "Why is source liver biopsy not the same as definitive operative confirmation of biliary atresia?",
+    "a": "Biopsy may show changes suggesting biliary atresia and help assess other liver diseases. The source exam answer liver biopsy does not replace surgical assessment of bile-duct patency when clinically indicated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    },
+    "guideline": {
+      "text": "NIDDK says ultrasound cannot confirm biliary atresia, biopsy can show that it is likely, and diagnostic surgery directly examines the liver and bile ducts to confirm. Treatment may be performed during the same operation.",
+      "url": "https://www.niddk.nih.gov/health-information/liver-disease/biliary-atresia/diagnosis"
+    }
+  },
+  {
+    "id": "s2peds-0412",
+    "category": "Bilirubin disorders and neonatal cholestasis",
+    "q": "What source treatment sequence is used for biliary atresia?",
+    "a": "Kasai portoenterostomy, followed by liver transplantation if unsuccessful or progressive disease requires it. Timely evaluation matters; this is not a condition to observe as benign newborn jaundice.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 38,
+      "url": "/mehlman/hy-pediatrics.pdf#page=38"
+    }
   }
 ];
