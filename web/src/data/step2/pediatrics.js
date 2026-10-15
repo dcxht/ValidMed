@@ -13088,5 +13088,420 @@ export default [
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6509934/"
     },
     "img": "/mehlman/figures/peds-p067-conjoined.jpg"
+  },
+  {
+    "id": "s2peds-0946",
+    "category": "Pediatric urology",
+    "q": "In this actual source comparison, how do hypospadias and epispadias differ?",
+    "a": "Hypospadias: the urethral meatus opens on the ventral or underside of the penis. Epispadias: it opens on the dorsal or upper side. The diagram also shows a normal terminal meatus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "img": "/mehlman/figures/peds-p068-meatus-comparison.jpg"
+  },
+  {
+    "id": "s2peds-0947",
+    "category": "Pediatric urology",
+    "q": "What is phimosis, and must a young child with a nonretractile foreskin always be treated?",
+    "a": "Phimosis means the foreskin cannot be pulled back over the glans. Nonretractability in a young child can be physiological rather than a disease needing treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 distinguishes physiological nonretractability from scarred pathological phimosis. In an asymptomatic child, physiological phimosis does not require treatment; forced retraction can cause scarring.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/phimosis-and-other-abnormalities-of-the-penile-skin"
+    }
+  },
+  {
+    "id": "s2peds-0948",
+    "category": "Pediatric urology",
+    "q": "How does paraphimosis differ from phimosis, and why is it urgent?",
+    "a": "The foreskin has already been retracted but cannot be returned over the glans. Paraphimosis is the source emergency, unlike uncomplicated inability to retract in phimosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 describes a constricting ring causing edema, impaired perfusion and possible necrosis, requiring urgent treatment. Do not leave a retracted foreskin trapped behind the glans.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/phimosis-and-other-abnormalities-of-the-penile-skin"
+    }
+  },
+  {
+    "id": "s2peds-0949",
+    "category": "Pediatric urology",
+    "q": "What is cryptorchidism, and which long-term risks does the source emphasize?",
+    "a": "An undescended testis. The source links its higher abdominal temperature with impaired spermatogenesis and infertility risk, and also emphasizes testicular cancer risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 supports impaired fertility potential and later malignancy risk. Early orchidopexy improves risk but does not erase it; cryptorchidism is not the same as a retractile testis.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/management-of-undescended-testes"
+    }
+  },
+  {
+    "id": "s2peds-0950",
+    "category": "Pediatric urology",
+    "q": "When should persistent congenital cryptorchidism move from observation to orchidopexy?",
+    "a": "The source observes before six months and recommends orchidopexy after six months if the testis remains undescended.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 uses six months corrected for gestational age, with surgery ideally between six and twelve months and by eighteen months at the latest. This is a planned congenital-cryptorchidism schedule, not permission to defer an acutely painful undescended testis.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/management-of-undescended-testes"
+    }
+  },
+  {
+    "id": "s2peds-0951",
+    "category": "Pediatric urology",
+    "q": "Why is acute testicular torsion an emergency?",
+    "a": "Rotation of the spermatic cord compromises blood supply, risking testicular ischemia and loss. The source presents an acutely painful testis as a surgical emergency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 emphasizes time-dependent irreversible injury with a critical interval of roughly four to six hours and urgent intervention. Do not wait for a fixed time threshold before acting.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2peds-0952",
+    "category": "Pediatric urology",
+    "q": "What is the bell-clapper abnormality that predisposes to testicular torsion?",
+    "a": "Abnormal testicular fixation permits excessive mobility and twisting on the spermatic cord. The PDF describes deficient anchoring and attributes it to the gubernaculum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "Merck December 2025 describes anomalous tunica vaginalis and spermatic-cord development with incomplete fixation, not simply an isolated gubernacular defect. Its diagram shows an abnormally high attachment allowing transverse rotation.",
+      "url": "https://www.merckmanuals.com/professional/genitourinary-disorders/penile-and-scrotal-disorders/testicular-torsion"
+    }
+  },
+  {
+    "id": "s2peds-0953",
+    "category": "Pediatric urology",
+    "q": "What is a negative Prehn sign, and how does the source contrast torsion with epididymitis?",
+    "a": "Pain does not improve when the scrotum is elevated. The source associates this with torsion, while pain relief, a positive Prehn sign, favors epididymitis; it explicitly calls the maneuver unreliable in practice.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 describes this contrast but says history and examination often cannot distinguish causes of acute scrotum. Neither relief nor lack of relief is a safe standalone rule for excluding torsion.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2peds-0954",
+    "category": "Pediatric urology",
+    "q": "What is the normal cremasteric response, and what source clue suggests torsion?",
+    "a": "Stroking the medial thigh normally raises the ipsilateral testis through cremaster contraction. An absent response on the painful side is the source torsion clue; a preserved response favors alternatives such as epididymitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "The PDF also uses scrotal-skin retraction wording. Merck December 2025 describes the reflex as usually absent in torsion, not an infallible finding. The clinically relevant movement is elevation of the testis.",
+      "url": "https://www.merckmanuals.com/professional/genitourinary-disorders/penile-and-scrotal-disorders/testicular-torsion"
+    }
+  },
+  {
+    "id": "s2peds-0955",
+    "category": "Pediatric urology",
+    "q": "Does the source explanation that twisting impairs the reflex nerve fibers establish the mechanism of an absent cremasteric reflex?",
+    "a": "The PDF offers that explanation, but the verified clinical finding is that the reflex is often absent in torsion. Do not treat its nerve-fiber explanation as an independently established mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "Merck December 2025 supports the clinical association but does not establish this specific nerve-injury mechanism. The source mechanism remains an explicitly unverified concern.",
+      "url": "https://www.merckmanuals.com/professional/genitourinary-disorders/penile-and-scrotal-disorders/testicular-torsion"
+    }
+  },
+  {
+    "id": "s2peds-0956",
+    "category": "Pediatric urology",
+    "q": "Must Doppler ultrasound always precede surgery for suspected testicular torsion?",
+    "a": "No. Urgent surgical assessment takes priority when torsion is clinically likely; imaging must not delay intervention. The PDF gives a simplified Doppler-then-surgery sequence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 calls Doppler a useful adjunct but explicitly says it must not delay intervention. Normal or increased arterial flow can occur with early, partial or intermittent torsion and does not exclude it.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2peds-0957",
+    "category": "Pediatric urology",
+    "q": "What is epididymitis, and what examination contrast does the source use?",
+    "a": "Inflammation or infection of the epididymis. The source describes pain relief with scrotal elevation and a preserved cremasteric reflex, in contrast to classic testicular torsion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 stresses that clinical findings overlap. Prepubertal epididymitis often has an unclear, non-STI cause and usually a negative urine culture; the adult organism shortcut should not be applied to every child.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2peds-0958",
+    "category": "Pediatric urology",
+    "q": "Which organism-age shortcut does the source use for epididymitis, and what limits it?",
+    "a": "The PDF associates males younger than 35 with chlamydia or gonorrhea and those older than 35 with E. coli. This is a teaching heuristic rather than a rigid diagnostic cutoff.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "CDC STI Treatment Guidelines identify STI exposure, insertive anal sex, urinary obstruction, instrumentation and other factors. Organism risk follows sexual and urinary history, not age alone; testing and treatment must reflect that risk.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/epididymitis.htm"
+    }
+  },
+  {
+    "id": "s2peds-0959",
+    "category": "Pediatric urology",
+    "q": "A child has superior-pole testicular pain, a blue dot and a preserved cremasteric reflex. What source diagnosis is favored?",
+    "a": "Torsion of the appendix testis, not torsion of the testis itself. The blue superior-pole focus is the classic blue-dot sign.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 describes focal superior-pole tenderness and notes the blue dot is seen in only a minority. Absence of the dot does not exclude appendage torsion, and uncertain cases still need assessment for true testicular torsion.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2peds-0960",
+    "category": "Pediatric urology",
+    "q": "Does the appendix-testis torsion diagnosis require the same operation as confirmed testicular torsion?",
+    "a": "Not necessarily. They are different conditions: the source separates appendage torsion from spermatic-cord torsion because the latter threatens the testis blood supply.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "EAU 2026 supports conservative anti-inflammatory analgesia for confirmed appendix-testis torsion, with exploration for equivocal cases or persistent pain. Confirmed testicular torsion instead requires urgent exploration.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2peds-0961",
+    "category": "Pediatric urology",
+    "q": "What tissue change produces the source penile curvature disorder, Peyronie disease?",
+    "a": "A fibrous plaque in the tunica albuginea produces an acquired curvature deformity. The actual plaque diagram continues on the next PDF page.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 68,
+      "url": "/mehlman/hy-pediatrics.pdf#page=68"
+    },
+    "guideline": {
+      "text": "The AUA guideline defines Peyronie disease as acquired tunica-albuginea fibrosis that can cause pain, deformity, erectile dysfunction or distress. This differs from lifelong congenital curvature without a plaque.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/peyronies-disease-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0962",
+    "category": "Pediatric urology",
+    "q": "Which structure contains the fibrous plaque in this actual source Peyronie diagram?",
+    "a": "The tunica albuginea. Restriction of its expansion produces curvature; the source diagram separately labels the corpus cavernosum and corpus spongiosum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "The AUA Peyronie guideline supports the tunica-albuginea plaque mechanism and distinguishes it from congenital curvature.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/peyronies-disease-guideline"
+    },
+    "img": "/mehlman/figures/peds-p069-peyronie.jpg"
+  },
+  {
+    "id": "s2peds-0963",
+    "category": "Pediatric urology",
+    "q": "Does Peyronie disease always require a procedure?",
+    "a": "No. The PDF says treatment is unnecessary unless it causes functional impairment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "The AUA guideline allows education and observation when appropriate, but decisions also consider pain and patient or partner distress, not function alone. Treatment is individualized rather than triggered by any curvature.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/peyronies-disease-guideline"
+    }
+  },
+  {
+    "id": "s2peds-0964",
+    "category": "Pediatric urology",
+    "q": "What is orchitis, and which viral cause does the source emphasize?",
+    "a": "Inflammation or infection of the testis. Mumps is the source viral association, particularly in an under-vaccinated postpubertal patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "CDC June 2024 says mumps can occur in fully vaccinated people and complications may occur without parotitis. The PDF uses immigration as an implied vaccination cue; actual vaccination history and exposure, not immigration status, should guide suspicion.",
+      "url": "https://cdc.gov/mumps/hcp/clinical-signs/index.html"
+    }
+  },
+  {
+    "id": "s2peds-0965",
+    "category": "Pediatric urology",
+    "q": "How does the source compare bacterial orchitis organisms with epididymitis and prostatitis?",
+    "a": "It uses the same broad younger-STI versus older-E. coli pattern. This retains its comparison without treating age as proof of the pathogen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "CDC epididymitis guidance bases STI versus enteric risk on sexual exposure, urinary obstruction, instrumentation and other clinical factors. The source age pattern is a heuristic, not a universal rule or a regimen for all orchitis.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/epididymitis.htm"
+    }
+  },
+  {
+    "id": "s2peds-0966",
+    "category": "Pediatric urology",
+    "q": "What duration defines the source priapism threshold, and why is the subtype important?",
+    "a": "An erection lasting more than four hours. Acute ischemic priapism is an emergency because prolonged low-flow ischemia threatens erectile tissue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "AUA/SMSNA 2022 defines priapism at more than four hours and requires urgent assessment to identify ischemic versus nonischemic disease. Nonischemic priapism does not have the same emergency treatment pathway.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/diagnosis-and-management-of-priapism-aua/smsna-guideline-(2022)"
+    }
+  },
+  {
+    "id": "s2peds-0967",
+    "category": "Pediatric urology",
+    "q": "Which priapism associations does the source list?",
+    "a": "Sickle cell disease and PDE-5 inhibitors such as sildenafil or tadalafil. The source lists them as possible causes, not an estimate that each is common.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "EAU 2026 calls PDE-5-associated priapism rare, with sporadic cases and often other risk factors; a direct causal role is uncertain. Sickle cell disease is an important pediatric association. Preserve the PDF drug list without assuming routine PDE-5 use is an established independent cause.",
+      "url": "https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/priapism"
+    }
+  },
+  {
+    "id": "s2peds-0968",
+    "category": "Pediatric urology",
+    "q": "What is the source drug for ischemic priapism, and what does guideline-based first-line care add?",
+    "a": "Intracavernosal phenylephrine, an alpha-1 agonist. The PDF explains its action as vasoconstriction reducing blood flow. Guideline-based care for acute ischemic priapism adds corporal aspiration, with or without irrigation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "AUA/SMSNA 2022 recommends intracavernosal phenylephrine plus corporal aspiration, with or without irrigation, before operative treatment, with blood-pressure and heart-rate monitoring. A simple injection-only rule is incomplete for established acute ischemic priapism.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/diagnosis-and-management-of-priapism-aua/smsna-guideline-(2022)"
+    }
+  },
+  {
+    "id": "s2peds-0969",
+    "category": "Pediatric urology",
+    "q": "Where is hydrocele fluid located?",
+    "a": "Between the visceral and parietal layers of the tunica vaginalis surrounding the testis. The source describes it as a serous fluid collection within the scrotum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "EAU 2026 supports this location. A hydrocele is not the same as a sperm-containing epididymal cyst.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/hydrocele"
+    }
+  },
+  {
+    "id": "s2peds-0970",
+    "category": "Pediatric urology",
+    "q": "What developmental connection explains the communicating hydrocele in this actual source diagram?",
+    "a": "A patent processus vaginalis allows peritoneal fluid to enter the scrotal tunica vaginalis. The embryonic peritoneal outpouching normally closes; a wider persistent passage can also permit an indirect inguinal hernia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "EAU 2026 distinguishes communicating hydroceles from hernias that admit abdominal contents. Not all hydroceles have a patent connection: noncommunicating and acquired forms also occur. The exact time of spontaneous closure is not fixed.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/hydrocele"
+    },
+    "img": "/mehlman/figures/peds-p069-hydrocele.jpg"
+  },
+  {
+    "id": "s2peds-0971",
+    "category": "Pediatric urology",
+    "q": "What bedside light finding supports the source hydrocele diagnosis?",
+    "a": "Transillumination: the fluid-filled swelling lets light pass through.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "EAU 2026 notes that some fluid-filled bowel and prepubertal tumors may also transilluminate. Uncertain masses or a nonpalpable testis need ultrasound rather than relying on this sign alone.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/hydrocele"
+    }
+  },
+  {
+    "id": "s2peds-0972",
+    "category": "Pediatric urology",
+    "q": "Should every infant hydrocele be operated on before the first birthday?",
+    "a": "No. The PDF recommends observation before age one because many resolve spontaneously.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    },
+    "guideline": {
+      "text": "EAU 2026 supports observation for most infants during at least the first twelve months. Suspected associated hernia or underlying testicular pathology is an exception requiring earlier surgery; persistent hydrocele may need repair.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/hydrocele"
+    }
+  },
+  {
+    "id": "s2peds-0973",
+    "category": "Pediatric urology",
+    "q": "What distinguishes a spermatocele from a hydrocele in the source?",
+    "a": "A spermatocele is an epididymal fluid-filled cyst containing sperm, whereas a hydrocele is fluid in the tunica vaginalis around the testis. The PDF calls the spermatocele collection serous and labels it an uncommon exam detail.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 69,
+      "url": "/mehlman/hy-pediatrics.pdf#page=69"
+    }
   }
 ];
