@@ -1,6 +1,6 @@
 # Pediatrics conversion ledger
 
-October 15, 2026. Partial:222 active cards/15 actual source figures/68 separately sourced comparisons. First pass clinical pp4-23; pp24-203 and full second source-detail/clinical/product acceptance remain.
+October 15, 2026. Partial:281 active cards/15 actual source figures/86 separately sourced comparisons. First pass clinical pp4-27; pp28-203 and full second source-detail/clinical/product acceptance remain.
 
 ## Source-page map
 
@@ -66,3 +66,20 @@ Verified differences: CDC2024pediatricAOMdiagnosis/antibiotics/observation and s
 Unverifiedsourceconcerns retainedattributed: TNFavoidanceinsilicosisabsolute, organismrank, blackearcanalexamcue, mastoidimaginguniversalization, greypharyngealmembraneexamselection, chronicCT/endoscopyorder, simplifiedNRDSsurfactanthydrophobicmechanism/L:Sratio, TTNtermheuristic, BPDoxygen-onlyetiology/ECGandvascularityassociation, foreignbody fiberopticscopewording, universalrhinitisantihistaminerank, vascularringneckextensionrule, idiopathiccholesteatomasimplification, Centorignore-age/allexudatenodecounts, age/dating-basedrashdistinction. These are notindependentlyclinicallyverified facts. No preventive/screeningquestioninthistranche.
 
 Checkpoint222locallyready after5regressiontests/build; largechunkwarningunchanged. Publication and livestate recordedbelow whenchecked.
+
+05:46expanded222checkpointee3f382 is published and actualliveverified: assets/index-DnfRJbZi.js. Native390menu screenshot104614 inspectedshows222 and otheracceptedbankcounts. No Reset/mark/flag touched. Figure/answer livecheck follows below. Re-readoriginalpush grant phonemsg-01M08AXV1DZNAM139NSSR1C477 and shelf/Step2scope phonemsg-01M4YRXBZSF0SH7FVDWTSPP09C/latestUSPSTFphonemsg-01M4YT4XKNXW2BV2FH9J3VK1WB inthisrun beforepush.
+
+05:48ee3f382livefigure/answer390verifiedandpixelsinspected104830papillomatosisbiopsy,correctsourcep19/fullsize. All222ready. Lease recorded/released.
+
+## Renal first pass pp24-27
+
+- p24: s2peds-0223, s2peds-0224, s2peds-0225, s2peds-0226, s2peds-0227, s2peds-0228, s2peds-0229, s2peds-0230, s2peds-0231, s2peds-0232, s2peds-0233, s2peds-0234, s2peds-0235, s2peds-0236, s2peds-0237, s2peds-0238
+- p25: s2peds-0239, s2peds-0240, s2peds-0241, s2peds-0242, s2peds-0243, s2peds-0244, s2peds-0245, s2peds-0246, s2peds-0247, s2peds-0248, s2peds-0249, s2peds-0250, s2peds-0251, s2peds-0252, s2peds-0253, s2peds-0254, s2peds-0255, s2peds-0256, s2peds-0257
+- p26: s2peds-0258, s2peds-0259, s2peds-0260, s2peds-0261, s2peds-0262, s2peds-0263, s2peds-0264, s2peds-0265, s2peds-0266, s2peds-0267, s2peds-0268, s2peds-0269
+- p27: s2peds-0270, s2peds-0271, s2peds-0272, s2peds-0273, s2peds-0274, s2peds-0275, s2peds-0276, s2peds-0277, s2peds-0278, s2peds-0279, s2peds-0280, s2peds-0281
+
+59newcards,18newcomparisons; nofiguresonthese4sourcepages, verifiedPDFimageinventory. Fullfirstsource-textpass retained mechanisms, simplifiedclaims, sourcefrequencyassertions and vignetteexamples with explicitattribution. Noarbitraryomissions. PSGNultrastructuraltermsretaineddespiteauthorlow-yieldopinion;mechanismvaricocelekeptinshelfcontext; noStep1-onlybank. Verifieddifferencesfromfetchedsources: Mercknephritic/nephroticoverlap; CPS2025weight/timeAKIurinecriteria vsadult400mL/day; KDIGO2025pediatricnephroticdefinitions/albumin and8or12weekinitialglucocorticoidcourse; CDCPSGNlatentperiod/prognosis/management; NIMHPANDAScriteria OCD/ticsnotADHDalone; NIDDKIgAunknowncause/vasculiticabdominalpain andcomplications; MedlinePlusmultipleAlportinheritancepatterns andthinbasementmembrane/familialrisk; Merckcollectingduct-calyx-pelvis-ureteranatomy; MerckATINeosinophilurialimits/raretriad; eviQ2025allopurinolnewurateonlyvsrasburicase+G6PD; MerckFanconidrugcauses,neutralaminoacidHartnupandcystinevsPDFcysteinewording. SeparatecurrentnotesretainPDFclaims.
+
+Unverifiedconcernsremainingattributed: nephritichypertensionRAASonlyandazotemiaurineoutputonlymechanisms, hyperlipidemialiverosmolalitymechanism, antithrombinIIIassolethrombosismechanism, adultPSGNstrongerimmuneresponsehypothesis, Alportcataractshortcut, MCDadult-Hodgkinrank/viralstemhalf-frequency, MCDsize-chargegeneralization, SBPanyascitesabsolute, FSGSsicklecellblood/no-bloodshortcut, papillarynecrosisischemiainfectioncompressionmechanism, ATIN4/5and1/5/half-rashsourceexamcounts/NSAIDedema-anecdote, Fanconianemiainheritanceabsolutes, oldcyanide-nitroprussideexamselection, exactneonatalBP60/40or50/30googledreference, uremicBUN-onlytoxinexplanation. Noindependentallclinicalfactverificationclaim.
+
+Product19target320renders(18newnotespluslongBPcard),38top/bottomscreens in7contactsheets inspectedactualpixels. Zerooverflow/badimages/offscreencontrols. AllIDsunique/exactnormalizedQ/Aduplicatesnone/sourcepageURLsvalid. All5regressiontests/buildpass(existinglargechunkwarningonly). Checkpoint281localready; publication/livepending untilbelowverification. OverallPartialfullsecondPedsacceptanceremainsopen.

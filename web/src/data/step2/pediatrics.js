@@ -2739,5 +2739,726 @@ export default [
       "text": "CCJM describes a diffuse pruritic maculopapular eruption, often involving palms/soles, typically 7-10 days after antimicrobial administration. The rash alone does not settle persistent allergy; appropriate evaluation matters.",
       "url": "https://www.ccjm.org/content/92/6/335"
     }
+  },
+  {
+    "id": "s2peds-0223",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "What source urine-blood shortcut distinguishes nephritic from nephrotic syndromes, and why is it not absolute?",
+    "a": "The PDF says nephritic syndromes have hematuria and nephrotic syndromes do not. That is an exam shorthand, not a strict diagnostic boundary.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    },
+    "guideline": {
+      "text": "Merck notes considerable clinical overlap between nephritic and nephrotic disorders. Hematuria, proteinuria or both can occur; predominant features, history and the specific disorder matter.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/overview-of-glomerular-disorders"
+    }
+  },
+  {
+    "id": "s2peds-0224",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "What four features define the source nephritic pattern?",
+    "a": "Hematuria, oliguria, azotemia and hypertension. The source links elevated BUN to reduced urine output and hypertension to increased RAAS activity from renal microvascular inflammation; these are its simplified mechanisms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0225",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "Why is the source oliguria cutoff of 400 mL/day not a universal pediatric definition?",
+    "a": "The PDF gives urine output below 400 mL/day. An absolute daily volume cannot be applied unchanged across children of different sizes or to neonatal AKI assessment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    },
+    "guideline": {
+      "text": "CPS 2025 pediatric AKI guidance uses weight- and time-based KDIGO urine-output criteria: under 0.5 mL/kg/hour for 6-12 hours is stage 1, with more severe/persistent reductions defining higher stages. Interpret output with age, weight, time and creatinine.",
+      "url": "https://cps.ca/en/documents/position/acute-kidney-injury"
+    }
+  },
+  {
+    "id": "s2peds-0226",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "What four findings define the source nephrotic pattern?",
+    "a": "Heavy proteinuria, hypoalbuminemia, peripheral edema and hyperlipidemia. The PDF gives protein above 3.5 g/day and albumin below 3.5 g/dL; those are not the current pediatric syndrome thresholds.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    },
+    "guideline": {
+      "text": "KDIGO 2025 children: nephrotic-range proteinuria is spot uPCR at least 200 mg/mmol (2 g/g), or at least 1000 mg/m2/day. Nephrotic syndrome adds albumin below 30 g/L (3 g/dL), or edema when albumin is unavailable.",
+      "url": "https://kdigo.org/wp-content/uploads/2025/04/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0227",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "How does the source explain nephrotic edema, ascites and presacral edema?",
+    "a": "Urinary albumin loss reduces serum oncotic pressure, allowing fluid into interstitial spaces and sometimes the abdomen. It treats presacral edema as a strong nephrotic exam cue; edema location alone is not proof.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0228",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "How does the source connect nephrotic syndrome to hyperlipidemia?",
+    "a": "It says the liver increases apolipoprotein production in an attempt to preserve serum osmolality/oncotic pressure. This is the PDF simplified mechanism rather than an independently verified complete explanation of nephrotic dyslipidemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0229",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "Can a nephritic syndrome have proteinuria in the source?",
+    "a": "Yes. Nephritic disease often has proteinuria, generally below the nephrotic range in the PDF pattern. Absence from its four-item mnemonic does not mean absence of urinary protein.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0230",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "Why does the source advise learning disease patterns rather than excluding every mixed nephritic-nephrotic presentation?",
+    "a": "It emphasizes memorizing typical hematuria patterns and says not to worry about conditions that are both. That exam strategy does not erase real overlap.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    },
+    "guideline": {
+      "text": "Merck describes substantial overlap and recommends identifying predominant features with the specific cause, rather than treating the mnemonics as mutually exclusive disease categories.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/overview-of-glomerular-disorders"
+    }
+  },
+  {
+    "id": "s2peds-0231",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "What thrombotic complications and protein loss does the source associate with nephrotic syndrome?",
+    "a": "DVT, renal-vein thrombosis and varicocele risk from urinary antithrombin III loss and hypercoagulability. The PDF attributes massive nonspecific protein loss to a disrupted size/charge barrier.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0232",
+    "category": "Nephritic and nephrotic syndromes",
+    "q": "How can the source nephrotic renal-vein thrombosis mechanism lead to a left varicocele?",
+    "a": "Its mechanism vignette has hypercoagulability causing left renal-vein thrombus, obstructing venous drainage associated with a left varicocele. The clinically relevant mechanism is retained without creating a separate Step 1 bank.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0233",
+    "category": "Post-streptococcal glomerulonephritis",
+    "q": "What alternative diagnostic labels can the source use for PSGN?",
+    "a": "Proliferative glomerulonephritis or acute glomerulonephritis in a matching post-streptococcal stem. Those labels are broader than PSGN outside that specific context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0234",
+    "category": "Post-streptococcal glomerulonephritis",
+    "q": "What timing contrast does the source use between PSGN and IgA nephropathy after a sore throat?",
+    "a": "PSGN: red urine 1-3 weeks later; IgA nephropathy: 1-3 days later. The delayed versus concurrent/near-concurrent pattern is the intended contrast.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0235",
+    "category": "Post-streptococcal glomerulonephritis",
+    "q": "What skin infections can precede source PSGN, and how should its 7-day impetigo anecdote be qualified?",
+    "a": "Impetigo, cellulitis or erysipelas. The source describes a 10-year-old with yellow crusts for 7 days followed by red urine and answers acute glomerulonephritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    },
+    "guideline": {
+      "text": "CDC describes a latent interval of about 10 days after strep pharyngitis and up to 3 weeks after skin infection. Keep the PDF 7-day vignette as an anecdote, not the universal skin-infection latency.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/post-streptococcal-glomerulonephritis.html"
+    }
+  },
+  {
+    "id": "s2peds-0236",
+    "category": "Post-streptococcal glomerulonephritis",
+    "q": "What hypersensitivity distinction does the source draw between PSGN and rheumatic heart disease?",
+    "a": "PSGN: type III immune complexes form in blood and deposit in the kidney. Rheumatic heart disease: type II in its classification. Do not swap the source mechanism labels.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0237",
+    "category": "Post-streptococcal glomerulonephritis",
+    "q": "What complement and streptococcal-antibody findings does the source associate with PSGN?",
+    "a": "Low C3 and elevated streptolysin O or A titers. It notes low C3 also occurs in SLE in a different context. Prior-infection evidence and the clinical syndrome still matter.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2peds-0238",
+    "category": "PANDAS",
+    "q": "What source post-strep neuropsychiatric presentation is called PANDAS, and is ADHD alone enough?",
+    "a": "The PDF lists new tics/Tourette, OCD or ADHD within weeks of group A strep. Its expansion is Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci; ADHD alone is not the defining diagnostic feature.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 24,
+      "url": "/mehlman/hy-pediatrics.pdf#page=24"
+    },
+    "guideline": {
+      "text": "NIMH requires OCD, a tic disorder or both, with childhood onset, episodic abrupt onset/worsening and a temporal strep association. Hyperactivity/inattention can accompany it, but common tics or strep history alone do not establish PANDAS.",
+      "url": "https://www.nimh.nih.gov/health/publications/pandas"
+    }
+  },
+  {
+    "id": "s2peds-0239",
+    "category": "Post-streptococcal glomerulonephritis",
+    "q": "What PSGN ultrastructural terms does the source name even while dismissing their exam yield?",
+    "a": "Subepithelial deposits and a lumpy-bumpy appearance on electron microscopy. The author minimizes their exam yield; that opinion is not a statement that the histologic findings are nonexistent.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0240",
+    "category": "Post-streptococcal glomerulonephritis",
+    "q": "How does the source compare PSGN prognosis in children and adults?",
+    "a": "It usually self-resolves without sequelae in children; older patients have more risk of renal impairment. The source speculates that a stronger adult immune response explains worse outcomes, without independently establishing that mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    },
+    "guideline": {
+      "text": "CDC reports over 90% of children recover fully, while adults are more likely to have residual renal impairment. Treatment includes hypertension/edema management and eradication of remaining GAS, not simple dismissal of every case.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/post-streptococcal-glomerulonephritis.html"
+    }
+  },
+  {
+    "id": "s2peds-0241",
+    "category": "IgA nephropathy and vasculitis",
+    "q": "What deposition site, alternate name and timing identify the source IgA nephropathy pattern?",
+    "a": "Berger disease: IgA in the renal mesangium, with red urine 1-3 days after a sore throat. The source contrasts this with the delayed 1-3-week PSGN pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0242",
+    "category": "IgA nephropathy and vasculitis",
+    "q": "Is IgA nephropathy simply caused by a viral infection, as the source says?",
+    "a": "The PDF says viral, not group A strep, and allows occasional GI triggers. That is an infection-associated vignette shortcut rather than a complete established cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    },
+    "guideline": {
+      "text": "NIDDK says the cause is unknown, with genes/environment involved. Symptoms may become evident after a cold, sore throat or another respiratory infection; that is not proof that a virus alone causes the disease.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/iga-nephropathy"
+    }
+  },
+  {
+    "id": "s2peds-0243",
+    "category": "IgA nephropathy and vasculitis",
+    "q": "What tetrad does the source use for Henoch-Schonlein purpura?",
+    "a": "Palpable purpura, often on buttocks/thighs; hematuria from IgA renal involvement; arthralgias; abdominal pain. All four need not be present at once. The current name is IgA vasculitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0244",
+    "category": "IgA nephropathy and vasculitis",
+    "q": "Why should HSP abdominal pain not simply be presumed to be viral gastroenteritis?",
+    "a": "The PDF speculates that a GI viral trigger explains the abdominal component. Abdominal pain is itself a manifestation of IgA vasculitis and can signal a complication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    },
+    "guideline": {
+      "text": "NIDDK describes GI pain, vomiting/bleeding and occasional intussusception from the disease; IgA vasculitis involves inflammation/leakage of small vessels. Its abdominal pain should not be reduced to a presumed separate viral gastroenteritis.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/iga-vasculitis"
+    }
+  },
+  {
+    "id": "s2peds-0245",
+    "category": "Alport syndrome",
+    "q": "What type IV collagen disorder does the source identify as X-linked, and what inheritance caveat matters?",
+    "a": "Alport syndrome from a collagen IV gene variant. The source emphasizes X-linked disease, which is common but not the only inheritance pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes X-linked COL4A5 disease plus autosomal recessive and dominant COL4A3/COL4A4 forms. Do not rule out Alport solely because a family does not fit the source X-linked shortcut.",
+      "url": "https://medlineplus.gov/genetics/condition/alport-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-0246",
+    "category": "Alport syndrome",
+    "q": "How does the source distinguish Alport syndrome from Goodpasture syndrome?",
+    "a": "Alport: a type IV collagen gene defect. Goodpasture: antibodies against type IV collagen in its teaching contrast. One is inherited structural disease; the other is autoantibody-mediated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0247",
+    "category": "Alport syndrome",
+    "q": "What kidney, hearing and eye constellation identifies source Alport syndrome?",
+    "a": "Hematuria with an eye or ear problem, especially a male in its X-linked vignette. It names blurry vision/cataracts and sensorineural hearing loss, connecting collagen IV to kidney, inner ear/organ of Corti and eye basement membranes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0248",
+    "category": "Minimal change disease",
+    "q": "What source edema presentation favors minimal change disease in a child?",
+    "a": "Unexplained peripheral/periorbital edema or ascites without visible blood in the urine, often after a viral URI. The source example is an 8-year-old after several days of sniffles; absence of a viral history does not rule it out.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0249",
+    "category": "Minimal change disease",
+    "q": "What age and malignancy association does the source give for minimal change disease?",
+    "a": "It is usually pediatric in its exam framing, with rare adult Hodgkin-associated disease. The author says roughly half of vignettes omit the viral trigger; that is an unverified exam-frequency claim.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0250",
+    "category": "Minimal change disease",
+    "q": "How do light and electron microscopy differ in source minimal change disease?",
+    "a": "Light microscopy shows no obvious abnormality; electron microscopy shows podocyte foot-process effacement. The source mechanism is loss of the size/charge barrier.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0251",
+    "category": "Minimal change disease",
+    "q": "What source treatment works well in minimal change disease, and what current pediatric regimen context applies?",
+    "a": "Corticosteroids, with high responsiveness in the source. This does not mean every childhood nephrotic syndrome is minimal change or steroid-sensitive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    },
+    "guideline": {
+      "text": "KDIGO 2025 recommends oral glucocorticoids for an initial childhood nephrotic episode for either 8 weeks (4 daily, 4 alternate-day) or 12 weeks (6 daily, 6 alternate-day). Atypical, resistant or frequently relapsing disease requires a different assessment/pathway.",
+      "url": "https://kdigo.org/wp-content/uploads/2025/04/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children.pdf"
+    }
+  },
+  {
+    "id": "s2peds-0252",
+    "category": "Minimal change disease",
+    "q": "Why can minimal change disease appear in a source spontaneous bacterial peritonitis question?",
+    "a": "It can produce ascites, creating a setting in which SBP occurs. The source generalizes that any cause of ascites can permit SBP; this is its complication association, not proof that every ascites case is infected.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0253",
+    "category": "Minimal change disease",
+    "q": "What alternate name and urinary finding does the source give for minimal change disease?",
+    "a": "Lipoid nephrosis; lipid droplets may appear in urine on microscopy. The source connects the name to nephrotic lipid loss.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0254",
+    "category": "Focal segmental glomerulosclerosis",
+    "q": "What source nephrotic diagnosis is associated with sickle cell disease, heroin and HIV?",
+    "a": "Focal segmental glomerulosclerosis. The source uses sickle cell with nephrotic disease/no blood as its contrast to renal papillary necrosis with dark or bloody urine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0255",
+    "category": "Focal segmental glomerulosclerosis",
+    "q": "What do focal and segmental mean, and how does source steroid responsiveness compare with MCD?",
+    "a": "Some glomeruli are affected, and only parts of those glomeruli are scarred. The source words this as some parts of some nephrons; it says FSGS is less responsive to steroids than minimal change disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0256",
+    "category": "Renal papillary necrosis",
+    "q": "Where do renal papillae drain, and what source anatomy shorthand should be corrected?",
+    "a": "The PDF calls them the place where collecting ducts meet ureters. Urine drains into calyces and the renal pelvis before reaching a ureter, not directly from collecting ducts into ureters.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    },
+    "guideline": {
+      "text": "Merck describes collecting ducts draining into calyces, then the renal pelvis, then the ureter. The PDF direct collecting-duct/ureter wording skips the intervening collecting system.",
+      "url": "https://www.merckmanuals.com/home/kidney-disorders/diagnosis-of-kidney-disorders/kidneys"
+    }
+  },
+  {
+    "id": "s2peds-0257",
+    "category": "Renal papillary necrosis",
+    "q": "What source renal diagnosis fits dark/red urine in sickle cell, as opposed to nephrotic disease without blood?",
+    "a": "Renal papillary necrosis for the dark/red-urine pattern; FSGS for the source nephrotic/no-blood contrast. These are vignette cues, not a claim that sickle cell has only those two renal problems.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 25,
+      "url": "/mehlman/hy-pediatrics.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2peds-0258",
+    "category": "Renal papillary necrosis",
+    "q": "How does the source contrast papillary necrosis with ATN and explain chronic NSAID risk?",
+    "a": "It describes ischemic medullary/papillary injury, generally more subacute/chronic than ATN. NSAID inhibition of vasodilating prostaglandins reduces afferent flow over weeks-months in its mechanism description.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0259",
+    "category": "Renal papillary necrosis",
+    "q": "What acute sickle and infectious mechanisms does the source connect to papillary necrosis?",
+    "a": "Sickling can cause focal medullary ischemia during crises; pyelonephritis can also cause papillary necrosis. The source attributes the infection mechanism to inflammatory compression of medullary microvasculature and cites an infection-associated exam anecdote.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0260",
+    "category": "Interstitial nephritis",
+    "q": "What alternate names, drug exposures and classic allergic pattern identify source interstitial nephritis?",
+    "a": "Interstitial nephropathy or tubulointerstitial nephritis/nephropathy, described as a kidney allergic reaction. NSAIDs, beta-lactams or cephalosporins followed by rash and urinary WBCs/eosinophils are its classic pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0261",
+    "category": "Interstitial nephritis",
+    "q": "Must drug-induced interstitial nephritis have rash or urinary eosinophils?",
+    "a": "No. The source says many stems omit the rash and may say WBCs rather than eosinophils, or only mild proteinuria/hematuria. Its four-fifths/one-fifth and half-with-rash proportions are exam anecdotes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    },
+    "guideline": {
+      "text": "Merck says the full fever/rash/eosinophilia triad occurs in under 10% of drug-induced ATIN. Urinary eosinophils are not particularly useful diagnostically; absence or presence does not reliably settle the diagnosis.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/tubulointerstitial-diseases/tubulointerstitial-nephritis"
+    }
+  },
+  {
+    "id": "s2peds-0262",
+    "category": "Interstitial nephritis",
+    "q": "What does the source answer for edema after six weeks of naproxen, and what uncertainty matters?",
+    "a": "Interstitial nephropathy in its 16-year-old athlete anecdote. It acknowledges NSAID-associated edema classically can instead be a hemodynamic/prerenal effect; edema alone is not definitive proof of interstitial inflammation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0263",
+    "category": "Interstitial nephritis",
+    "q": "What renal compartment does the source choose for an interstitial-nephritis location question?",
+    "a": "Renal tubule, rather than a vascular structure such as the efferent arteriole. Tubulointerstitial disease affects tubular/interstitial tissue in the source anatomy comparison.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0264",
+    "category": "Interstitial nephritis",
+    "q": "How do the source penicillin-rash and cephalexin-urinalysis examples identify interstitial nephritis?",
+    "a": "A 6-year-old after penicillin for strep with a maculopapular rash and urinary eosinophils; a 15-year-old after a 10-day cephalexin course with mild proteinuria and hematuria. The different presentations can support the same drug-associated diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0265",
+    "category": "Tumor lysis syndrome",
+    "q": "What renal crystal risks does the source connect to lysis of ALL or other tumor cells?",
+    "a": "Chemoradiotherapy releases uric acid and phosphate from tumor cells; the load can overwhelm renal handling and cause crystal-related injury, especially from uric acid in the source emphasis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0266",
+    "category": "Tumor lysis syndrome",
+    "q": "What drug and enzyme does the source choose to prevent tumor-lysis renal injury, and what important current limit applies?",
+    "a": "Allopurinol, inhibiting xanthine oxidase. The PDF presents it as the prevention answer; it is not the only measure or the answer for every risk/urate state.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    },
+    "guideline": {
+      "text": "eviQ recommends risk-based prophylaxis with hydration and urate control. Allopurinol prevents new uric acid but does not lower existing uric acid; rasburicase is preferred with pre-existing hyperuricemia and considered in higher-risk circumstances. Rasburicase requires G6PD safety screening.",
+      "url": "https://www.eviq.org.au/clinical-resources/side-effect-and-toxicity-management/prophylaxis-and-treatment/108-prevention-of-tumour-lysis-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-0267",
+    "category": "Tumor lysis syndrome",
+    "q": "What blood-chemistry direction pattern does the source give for tumor lysis syndrome?",
+    "a": "The renal-failure-like pattern plus increased uric acid: increased potassium/phosphate/urate and decreased calcium, with renal dysfunction in the clinical context. The source frames it as an arrow question rather than a full diagnostic-criteria table.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0268",
+    "category": "Fanconi syndrome",
+    "q": "What proximal-tubule reabsorption arrows does the source give for Fanconi syndrome?",
+    "a": "Decreased reabsorption of amino acids, glucose, bicarbonate and phosphate: loss of multiple proximal-tubule solutes, not one isolated transport defect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2peds-0269",
+    "category": "Fanconi syndrome",
+    "q": "What idiopathic or drug cause does the source give for Fanconi syndrome?",
+    "a": "It can be idiopathic or follow expired tetracycline exposure in the PDF. This is distinct from Fanconi anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 26,
+      "url": "/mehlman/hy-pediatrics.pdf#page=26"
+    },
+    "guideline": {
+      "text": "Merck lists proximal tubular losses and acquired causes including outdated tetracycline, some chemotherapy/antiretrovirals, heavy metals and other contexts. A complete medication/exposure assessment matters.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/renal-transport-abnormalities/fanconi-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-0270",
+    "category": "Fanconi syndrome",
+    "q": "How does the source distinguish Fanconi syndrome from Fanconi anemia?",
+    "a": "Fanconi syndrome is proximal renal solute-wasting. Fanconi anemia is an autosomal recessive marrow-failure/aplastic-anemia condition associated with hypoplastic thumbs or radii in the source.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0271",
+    "category": "Hartnup disease",
+    "q": "What nutrient mechanism does the source associate with Hartnup disease, and why is tryptophan not the whole defect?",
+    "a": "The PDF emphasizes impaired proximal-tubule tryptophan reabsorption and potential niacin (B3) deficiency because tryptophan is a precursor. It dismisses exam frequency but retains the mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    },
+    "guideline": {
+      "text": "Merck identifies a neutral amino-acid transporter defect and neutral aminoaciduria, with pellagra-like findings and nicotinamide treatment. The transport problem is broader than tryptophan alone.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/table/miscellaneous-amino-acid-and-organic-acid-metabolism-disorders"
+    }
+  },
+  {
+    "id": "s2peds-0272",
+    "category": "Cystinuria",
+    "q": "What source amino-acid mnemonic, stone shape and age pattern identify cystinuria?",
+    "a": "COLA: cysteine, ornithine, lysine and arginine in the PDF mnemonic, with hexagonal cystine stones in children/young adults. Cystine is two cysteine molecules joined.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    },
+    "guideline": {
+      "text": "Merck lists urinary cystine, lysine, arginine and ornithine from the dibasic-amino-acid transporter defect. The transported stone-forming species is cystine; the source cysteine wording needs that distinction.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/table/miscellaneous-amino-acid-and-organic-acid-metabolism-disorders"
+    }
+  },
+  {
+    "id": "s2peds-0273",
+    "category": "Cystinuria",
+    "q": "What screening reaction does the source name for cystinuria?",
+    "a": "The cyanide-nitroprusside test. This is the source diagnostic answer; a positive screen is not a complete individualized stone work-up.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0274",
+    "category": "Thin basement membrane nephropathy",
+    "q": "What source familial condition causes mild hematuria through thin glomerular basement membranes?",
+    "a": "Thin basement membrane disease. The PDF calls it benign and says no treatment is necessary, but that wording should not erase assessment of familial collagen-IV disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    },
+    "guideline": {
+      "text": "MedlinePlus explains that some COL4A3/COL4A4 heterozygotes have only hematuria while others develop progressive autosomal dominant Alport disease. Family/genetic context and follow-up matter rather than assuming every familial hematuria is permanently harmless.",
+      "url": "https://medlineplus.gov/genetics/condition/alport-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-0275",
+    "category": "Renal artery thrombosis",
+    "q": "What source neonatal hypertension cause follows umbilical artery catheterization, and what hormone arrows accompany it?",
+    "a": "Renal artery thrombosis after umbilical arterial catheterization, with increased renin and aldosterone in the source arrow answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0276",
+    "category": "Renal artery thrombosis",
+    "q": "What premature-infant blood-pressure example does the source use for catheter-associated renal artery thrombosis?",
+    "a": "A former 26-week infant has an umbilical arterial line for blood-pressure monitoring during pneumonia, then BP 128/86 three weeks later. The PDF contrasts approximate term BP 60/40 and 29-week BP 50/30, attributing the latter to Google; those are unverified approximations, not universal neonatal reference limits.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0277",
+    "category": "Uremia",
+    "q": "What does the source mean by uremia, and what electrolyte arrows does it teach?",
+    "a": "Symptomatic renal failure rather than an isolated BUN value. The PDF literal gloss is urea in the blood. Its arrows are high potassium, low bicarbonate/calcium and high phosphate, with variable sodium.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0278",
+    "category": "Uremia",
+    "q": "What source treatment follows a pericardial friction rub with markedly elevated BUN and creatinine?",
+    "a": "Hemodialysis for uremic pericarditis in the source. This is an urgent renal-failure complication, not a reason to rely on BUN alone without clinical assessment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0279",
+    "category": "Uremia",
+    "q": "What source treatment follows mental-status change in advanced renal failure?",
+    "a": "Hemodialysis for uremic encephalopathy, with elevated BUN/creatinine in the source vignette.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0280",
+    "category": "Uremia",
+    "q": "Why can a uremic patient bleed with a normal platelet count in the source?",
+    "a": "Qualitative acquired platelet dysfunction rather than thrombocytopenia: epistaxis/petechiae, prolonged bleeding time and a normal count. The source attributes it to high BUN impairing platelet function, a simplified uremic-toxin explanation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2peds-0281",
+    "category": "Uremia",
+    "q": "Why does the source choose dialysis before surgery in a uremic patient with bleeding risk?",
+    "a": "To improve renal-failure complications and uremic platelet function, reducing perioperative morbidity/bleeding risk in its cited surgical exam. Hemodialysis is also its treatment answer for uremic platelet dysfunction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 27,
+      "url": "/mehlman/hy-pediatrics.pdf#page=27"
+    }
   }
 ];
