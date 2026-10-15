@@ -16510,5 +16510,230 @@ export default [
       "text": "Merck recommends ultrasound to identify a uterus in primary amenorrhea; when absent, assess karyotype and testosterone. A 46,XY result requires clinical and hormonal differentiation of CAIS from other 46,XY conditions, with AR testing when indicated.",
       "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/delayed-puberty"
     }
+  },
+  {
+    "id": "s2peds-1180",
+    "category": "Puberty and growth",
+    "q": "What does the source recommend about gonadal tumor risk and removal in complete androgen insensitivity?",
+    "a": "The PDF names dysgerminoma risk and recommends prophylactic orchiectomy after puberty, preserving spontaneous estrogen-related pubertal development unless malignancy is suspected earlier. This is the source exam answer, not a universal instruction to remove every patient's testes at a fixed age.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "ACOG recommends delaying prophylactic gonadectomy until after puberty so the patient can understand the risks and benefits and choose, with hormone replacement planning. Decisions are complex and should involve an experienced multidisciplinary center; CAIS gonads are not the same as high-risk dysgenetic gonads.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/01/mullerian-agenesis-diagnosis-management-and-treatment"
+    }
+  },
+  {
+    "id": "s2peds-1181",
+    "category": "Puberty and growth",
+    "q": "What diagnosis fits the source 15-year-old with primary amenorrhea, a blind-ending vagina and normal coarse pubic or axillary hair?",
+    "a": "Mullerian agenesis, also called Mayer-Rokitansky-Kuster-Hauser syndrome (MRKH). The source contrasts normal sexual hair in 46,XX MRKH with scant hair in 46,XY complete androgen insensitivity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "ACOG describes normal height, breast development, body hair and external genitalia in Mullerian agenesis. Hair is a useful clue, but anatomic assessment and laboratory testing are needed to distinguish primary-amenorrhea causes.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/01/mullerian-agenesis-diagnosis-management-and-treatment"
+    }
+  },
+  {
+    "id": "s2peds-1182",
+    "category": "Puberty and growth",
+    "q": "Why are ovaries and typical secondary sexual development preserved in source Mullerian agenesis despite absent reproductive-tract structures?",
+    "a": "The patient is usually 46,XX and has ovaries rather than testes, while Mullerian-duct development is impaired. Ovarian hormone production supports typical breasts and sexual hair; the source absence-of-SRY explanation should not imply ovarian development is merely a passive default.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "ACOG explains that the ovaries have a separate embryologic origin and are usually normal in structure and function. The source clinical distinction is preserved without making absent uterus synonymous with absent ovaries.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/01/mullerian-agenesis-diagnosis-management-and-treatment"
+    }
+  },
+  {
+    "id": "s2peds-1183",
+    "category": "Puberty and growth",
+    "q": "Which structures does the source list as absent in Mullerian agenesis, and is the anatomy always completely absent?",
+    "a": "The source lists the uterus, cervix, upper vagina and fallopian tubes as Mullerian derivatives that fail to develop. Clinically, the exact anatomic pattern varies and a uterine remnant can be present rather than complete absence of every listed structure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "ACOG describes agenesis or atresia of the vagina, uterus or both and frequent rudimentary uterine structures. MRI may clarify remnants that are difficult to interpret on ultrasound; avoid treating the source schematic as a universal operative map.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/01/mullerian-agenesis-diagnosis-management-and-treatment"
+    }
+  },
+  {
+    "id": "s2peds-1184",
+    "category": "Puberty and growth",
+    "q": "What diagnostic sequence does the source give for suspected Mullerian agenesis?",
+    "a": "Pelvic ultrasound first if listed, followed by karyotype, particularly to distinguish 46,XX Mullerian agenesis from 46,XY androgen insensitivity when the uterus is absent.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "Merck recommends ultrasound to assess uterine presence in primary amenorrhea, followed by karyotype and testosterone when the uterus is absent. Imaging, clinical findings and hormones must be interpreted together.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/delayed-puberty"
+    }
+  },
+  {
+    "id": "s2peds-1185",
+    "category": "Puberty and growth",
+    "q": "What diagnosis fits a 46,XY boy with typical male external genitalia and testes but a uterus and fallopian tubes discovered during cryptorchidism surgery?",
+    "a": "Persistent Mullerian duct syndrome, called Mullerian-inhibitory factor deficiency in the source. Androgen-mediated male development occurs, but Mullerian structures fail to regress; the source lists retained uterus, fallopian tubes, cervix and upper vagina.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes typical male external genitalia with retained uterus and fallopian tubes, often found during surgery for undescended testes or inguinal hernia. The cause can be an AMH hormone defect or an AMH-receptor defect, not only lack of hormone.",
+      "url": "https://medlineplus.gov/genetics/condition/persistent-mullerian-duct-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-1186",
+    "category": "Puberty and growth",
+    "q": "Where can retained Mullerian structures be found in the source persistent-Mullerian-duct presentation?",
+    "a": "Within the pelvis, described between the bladder and rectum, or extending into an inguinal canal. The source may reveal a primitive uterus and fallopian tubes incidentally during orchiopexy to bring an undescended testis into the scrotum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes pelvic uterus with bilateral cryptorchidism, hernia uteri inguinalis, or transverse testicular ectopia. The retained structures and testes can occupy unusual positions, so the diagnosis is not restricted to a single location.",
+      "url": "https://medlineplus.gov/genetics/condition/persistent-mullerian-duct-syndrome/"
+    }
+  },
+  {
+    "id": "s2peds-1187",
+    "category": "Puberty and growth",
+    "q": "What enzyme defect explains a 46,XY infant with female-appearing or atypical external genitalia in the source?",
+    "a": "5-alpha-reductase deficiency, which impairs conversion of testosterone to dihydrotestosterone (DHT). Reduced DHT disrupts typical external masculinization even though testes are present.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "MedlinePlus identifies SRD5A2-related steroid 5-alpha-reductase 2 deficiency. External appearance ranges from female-appearing through atypical to male-typical with micropenis or hypospadias; a female appearance is not obligatory.",
+      "url": "https://medlineplus.gov/genetics/condition/5-alpha-reductase-deficiency/"
+    }
+  },
+  {
+    "id": "s2peds-1188",
+    "category": "Puberty and growth",
+    "q": "What diagnosis does the source cue with \"phallus at age 12,\" rapid growth, acne, upper-lip hair and an enlarged 3-4 cm clitoral-appearing structure?",
+    "a": "5-alpha-reductase deficiency. The source vignette describes an adolescent raised as a girl who grows four inches in four months and develops pubertal virilization and phallic enlargement.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "MedlinePlus confirms a pubertal growth spurt, increased muscle mass, voice deepening, pubic hair and genital enlargement as testosterone rises. Facial/body hair is often limited, so the upper-lip-hair exam detail should not imply normal full androgen-dependent hair development.",
+      "url": "https://medlineplus.gov/genetics/condition/5-alpha-reductase-deficiency/"
+    }
+  },
+  {
+    "id": "s2peds-1189",
+    "category": "Puberty and growth",
+    "q": "How does the source explain pubertal virilization in 5-alpha-reductase deficiency, and must DHT normalize?",
+    "a": "The PDF says the pubertal testosterone surge can partly override the enzyme defect and produce enough DHT for masculinization. The clinically useful point is pubertal virilization despite impaired prenatal DHT production, not proof that DHT becomes normal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "MedlinePlus attributes secondary male features to higher pubertal testosterone and notes residual enzyme activity may produce some DHT in some patients. This qualifies an obligatory threshold-DHT explanation.",
+      "url": "https://medlineplus.gov/genetics/condition/5-alpha-reductase-deficiency/"
+    }
+  },
+  {
+    "id": "s2peds-1190",
+    "category": "Puberty and growth",
+    "q": "What is the source diagnosis when a male-appearing newborn has a 46,XX karyotype?",
+    "a": "SRY gene translocation causing 46,XX testicular differences of sex development. The source describes the Y-chromosome SRY gene usually moving onto an X chromosome and directing testis development.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "GeneReviews reports SRY positivity in about 80% of nonsyndromic 46,XX testicular DSD, usually from an abnormal X-Y interchange. SRY-negative mechanisms also exist, so 46,XX with testes is not proof of a translocation without molecular testing.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1416/"
+    }
+  },
+  {
+    "id": "s2peds-1191",
+    "category": "Puberty and growth",
+    "q": "What internal anatomy and genital findings does the source associate with SRY-positive 46,XX testicular development?",
+    "a": "Testes produce testosterone and DHT for external masculinization and AMH/MIF for Mullerian regression, so no typical uterus develops. Testes may be small, and the PDF lists hypospadias or epispadias as possible penile abnormalities.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "GeneReviews describes two often-small testes, absent Mullerian structures and external genitalia ranging from typical male to ambiguous, including penoscrotal hypospadias. The PDF epispadias example is preserved as its claim, not independently established as a defining feature.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1416/"
+    }
+  },
+  {
+    "id": "s2peds-1192",
+    "category": "Puberty and growth",
+    "q": "What is the contrasting source outcome when SRY function is lost in a 46,XY individual rather than gained in a 46,XX individual?",
+    "a": "Failure of normal testis development, a female external phenotype, streak gonads and retained Mullerian structures. This belongs to the 46,XY gonadal-dysgenesis pathway, not 46,XX testicular DSD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "The UCL clinical Swyer review describes SRY deletions in a subset of 46,XY complete gonadal dysgenesis, with other testis-determining genes responsible in many cases. Streak gonads should not be described as normal functional ovaries.",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/1488187/1/Swyer%20Syndrome%205%207%2014.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1193",
+    "category": "Puberty and growth",
+    "q": "What is the source gonadal and internal-anatomy pattern in Swyer syndrome?",
+    "a": "46,XY complete gonadal dysgenesis: female external genitalia, streak gonads rather than functioning testes or ovaries, low gonadal androgen production and no normal testicular AMH effect, so a uterus and other Mullerian structures remain.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "The UCL clinical review describes primary amenorrhea and delayed puberty, low sex steroids, high gonadotropins and low/undetectable AMH, with retained Mullerian structures. This is a hormone-production failure, unlike receptor resistance in CAIS.",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/1488187/1/Swyer%20Syndrome%205%207%2014.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1194",
+    "category": "Puberty and growth",
+    "q": "How does the source distinguish Swyer syndrome from complete androgen insensitivity, and is absent sexual hair a reliable Swyer finding?",
+    "a": "Both can present as 46,XY patients with female external genitalia and primary amenorrhea. Swyer has retained Mullerian structures and low gonadal androgens; CAIS lacks a typical uterus and has normal or high testosterone. The PDF also describes scant hair in Swyer, but that hair claim is not a reliable discriminator.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 83,
+      "url": "/mehlman/hy-pediatrics.pdf#page=83"
+    },
+    "guideline": {
+      "text": "The UCL clinical review describes normal axillary and pubic hair in Swyer syndrome, despite poor breast development and estrogen deficiency. Adrenal androgen-related hair can be preserved; do not teach absent hair as necessary for gonadal dysgenesis.",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/1488187/1/Swyer%20Syndrome%205%207%2014.pdf"
+    }
   }
 ];
