@@ -14809,7 +14809,7 @@ export default [
     "id": "s2fm-1287",
     "category": "Cardiology",
     "q": "Which delayed component makes S2 splitting paradoxical?",
-    "a": "DelayedA 2 occurring afterP 2, seen with delayed left-ventricular activation or outflow, as in LBBB or aortic stenosis.",
+    "a": "Delayed A2 occurring after P2, seen with delayed left-ventricular activation or outflow, as in LBBB or aortic stenosis.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 9,
@@ -15481,15 +15481,15 @@ export default [
     "id": "s2fm-1347",
     "category": "Cardiology source details",
     "q": "What aneurysm diameter and growth criterion does the PDF state for AAA repair?",
-    "a": "Diameter greater than 5.5 cm, or growth greater than 0.5 cm per month for six months. The unusual growth wording is retained exactly as a source claim and is pending guideline verification; do not use it as an unqualified current threshold.",
+    "a": "Diameter greater than 5.5 cm, or growth greater than 0.5 cm per month for six months. The unusual growth wording is retained as a source claim; see the separately verified note.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 11,
       "url": "/mehlman/hy-family-medicine.pdf#page=11"
     },
     "guideline": {
-      "text": "ACC/AHA2022: repair is recommended at an AAA diameter of at least5.5 cm in men or5.0 cm in women, or for attributable symptoms. The PDF growth wording remains pending direct verification.",
-      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2022/11/01/12/21/2022-guideline-on-aortic-disease-2-gl-ad"
+      "text": "ACC/AHA 2022 primary guideline section 6.5.5.3: growth of at least 0.5 cm in 6 months may justify repair (Class 2b). Diameter thresholds are at least 5.5 cm in men or 5.0 cm in women; symptoms and operative risk also matter.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9876736/"
     }
   },
   {
@@ -15935,8 +15935,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=9"
     },
     "guideline": {
-      "text": "ACC 2023 review: either aspirin or warfarin may be used in the first 3 months after cervical-artery dissection; treatment is individualized.",
-      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/10/04/13/59/antithrombotic-therapy-for"
+      "text": "AHA Scientific Statement 2024 highlights individualized antithrombotic therapy after cervical-artery dissection. It does not make the PDF heparin answer a universal treatment for every dissection/stroke presentation.",
+      "url": "https://professional.heart.org/en/science-news/treatment-and-outcomes-of-cervical-artery-dissection-in-adults/top-things-to-know"
     }
   },
   {
@@ -15950,8 +15950,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=10"
     },
     "guideline": {
-      "text": "ACC 2023 review: short-course dual antiplatelet treatment is indicated after selected minor ischemic strokes or TIAs, followed by monotherapy.",
-      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/10/04/13/59/antithrombotic-therapy-for"
+      "text": "AHA/ASA secondary-prevention checklist says dual antiplatelet therapy is recommended short-term for very specific ischemic-stroke/TIA patients, not never and not routinely long-term.",
+      "url": "https://www.stroke.org/en/professionals/stroke-resource-library/prevention/secondary-stroke-prevention-checklist"
     }
   },
   {
@@ -30173,6 +30173,51 @@ export default [
     "guideline": {
       "text": "GINA 2026 describes low-dose maintenance oral corticosteroids only as a last resort after optimized inhaled therapy and other add-on options because of serious adverse effects. Short courses for selected exacerbations and chronic prevention are different uses; a blanket most-effective-prevention slogan should not replace age/phenotype-based care.",
       "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2565",
+    "category": "Early cardio exact-source review",
+    "q": "What single mechanism does the PDF assign to peripartum cardiomyopathy?",
+    "a": "Antibody-mediated disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-family-medicine.pdf#page=6"
+    },
+    "guideline": {
+      "text": "AHA describes the cause as unclear and likely multifactorial. An abnormal immune response is one proposed mechanism, not a proven universal antibody cause.",
+      "url": "https://www.heart.org/en/health-topics/cardiomyopathy/what-is-cardiomyopathy-in-adults/peripartum-cardiomyopathy-ppcm"
+    }
+  },
+  {
+    "id": "s2fm-2566",
+    "category": "Early cardio exact-source review",
+    "q": "Which diet labels does the PDF use as a shortcut for protein-deficiency edema?",
+    "a": "Strict vegetarianism or veganism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 5,
+      "url": "/mehlman/hy-family-medicine.pdf#page=5"
+    },
+    "guideline": {
+      "text": "NHS describes a balanced vegan diet including beans, pulses and other protein sources that can meet nutritional needs. A vegan/vegetarian label alone does not establish protein deficiency or explain edema.",
+      "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    }
+  },
+  {
+    "id": "s2fm-2567",
+    "category": "Early cardio exact-source review",
+    "q": "Does the PDF say pulmonary hypertension can cause pulmonic regurgitation?",
+    "a": "No. It says these conditions cause tricuspid rather than pulmonic regurgitation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-family-medicine.pdf#page=7"
+    },
+    "guideline": {
+      "text": "Merck Professional describes pulmonary hypertension as the most common cause of pulmonary regurgitation. Its early diastolic Graham Steell murmur is distinct from the holosystolic tricuspid-regurgitation murmur; both can arise in right-sided pressure disease.",
+      "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/pulmonary-regurgitation"
     }
   }
 ];
