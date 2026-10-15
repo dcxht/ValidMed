@@ -16071,5 +16071,217 @@ export default [
       "text": "Merck identifies DHEA and DHEAS as adrenal androgens driving sexual hair and distinguishes that process from estrogen-dependent breast development. The source final definition links the hormone rise to its later visible effects; those are related, not identical events.",
       "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
     }
+  },
+  {
+    "id": "s2peds-1151",
+    "category": "Puberty and growth",
+    "q": "What do pubarche and menarche mean in the source puberty definitions?",
+    "a": "Pubarche is the appearance of pubic hair. Menarche is the first menstrual period. They name visible events, unlike the earlier adrenal hormonal change called adrenarche.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck describes pubic and axillary hair after the first recognized breast changes, and menarche usually two to three years after breast budding. The events are not interchangeable.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
+    }
+  },
+  {
+    "id": "s2peds-1152",
+    "category": "Puberty and growth",
+    "q": "Which visible change is usually first in a prepubertal girl in the source exam question?",
+    "a": "Breast bud development, thelarche. This is the intended first visible gonadal pubertal change, not a claim that no adrenal androgen production occurred beforehand.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck calls breast budding and the onset of the growth spurt the first changes usually recognized. Adrenarche can begin several years earlier, and the order and timing of visible features vary.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
+    }
+  },
+  {
+    "id": "s2peds-1153",
+    "category": "Puberty and growth",
+    "q": "Which syndrome is illustrated by the actual source figure with short stature, webbed neck, widely spaced nipples, cubitus valgus and neonatal lymphedema?",
+    "a": "Turner syndrome. The figure also labels a low posterior hairline, pigmented nevi, coarctation of the aorta and streak ovaries associated with amenorrhea and reduced fertility.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck describes this clinical pattern, but findings vary and some patients present only later with short stature or absent pubertal development. A missing classic physical feature does not exclude Turner syndrome.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
+    },
+    "img": "/mehlman/figures/peds-p081-turner-features.jpg",
+    "imgAlt": "Actual source Turner syndrome diagram with short stature, webbed neck, low hairline, broad chest, coarctation, cubitus valgus, nevi, streak ovaries and neonatal lymphedema labels"
+  },
+  {
+    "id": "s2peds-1154",
+    "category": "Puberty and growth",
+    "q": "What karyotype is the source classic Turner answer, and is absence of a Barr body the modern diagnostic test?",
+    "a": "45,X, written 45XO in the PDF, with a female phenotype in the classic vignette. The source also gives absence of a Barr body as a single-X clue; it is not a substitute for chromosome testing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "The 2024 Turner guideline defines the syndrome more broadly than classic nonmosaic 45,X and recommends chromosome analysis, counting at least 30 metaphases, as first-line testing. Mosaicism and structural X abnormalities can also be involved.",
+      "url": "https://academic.oup.com/ejendo/article/190/6/G53/7674241"
+    }
+  },
+  {
+    "id": "s2peds-1155",
+    "category": "Puberty and growth",
+    "q": "Why does the source call Turner ovarian failure menopause before menarche?",
+    "a": "Streak ovaries often cause primary ovarian insufficiency, absent or incomplete estrogen-dependent puberty, primary amenorrhea and infertility. Menopause before menarche is the PDF shorthand, not a literal requirement that every patient never menstruates.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck notes that some patients enter puberty or menstruate spontaneously and a small proportion have normal reproductive function. Ovarian dysgenesis can also cause secondary amenorrhea after initial menses.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1156",
+    "category": "Puberty and growth",
+    "q": "What fertility option does the source mention for Turner syndrome despite streak ovaries?",
+    "a": "IVF using a donor egg plus exogenous hormones can make pregnancy possible in selected patients. Do not tell a patient that the syndrome means all routes to parenthood are closed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "The 2024 guideline recommends fertility counseling and thorough cardiac assessment before pregnancy, especially with donated oocytes or embryos. Severe aortic dilation or other major dissection risks can make pregnancy unsafe; donor-egg IVF does not remove the maternal cardiovascular risk.",
+      "url": "https://academic.oup.com/ejendo/article/190/6/G53/7674241"
+    }
+  },
+  {
+    "id": "s2peds-1157",
+    "category": "Puberty and growth",
+    "q": "What LH and FSH pattern does the source predict with Turner ovarian failure, and why?",
+    "a": "Both LH and FSH are elevated: hypergonadotropic primary hypogonadism. Reduced ovarian hormones and inhibin reduce negative feedback at the hypothalamic-pituitary axis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck identifies ovarian dysgenesis with hypergonadotropic hypogonadism as characteristic. Interpret hormone testing for age and pubertal stage; the source is describing ovarian failure, not asserting an identical single LH/FSH result in every young child or mosaic patient.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1158",
+    "category": "Puberty and growth",
+    "q": "Which stature, chest and breast findings does the source associate with Turner syndrome?",
+    "a": "Short stature, often under five feet in the source untreated vignette, a broad shield chest with widely spaced nipples, and absent or limited breast development. The chest shape and breast stage are related clues, not the same finding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck describes short stature relative to family, broad chest and ovarian failure with absent or incomplete puberty. A specific height cutoff is not diagnostic, and some patients undergo spontaneous puberty.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1159",
+    "category": "Puberty and growth",
+    "q": "How do the source webbed neck and newborn swelling fit Turner syndrome?",
+    "a": "They reflect lymphatic problems: cystic hygroma or excess nuchal tissue can leave a webbed neck, and the actual figure shows peripheral lymphedema at birth. A low posterior hairline is another illustrated clue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck describes dorsal hand/foot lymphedema, loose folds over the neck, webbed neck and low posterior hairline. Newborn findings may be mild or absent, so later short stature or pubertal failure can still be the presenting problem.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1160",
+    "category": "Puberty and growth",
+    "q": "Do scattered pigmented nevi in the source exclude Turner syndrome in favor of a neurocutaneous disorder?",
+    "a": "No. Multiple pigmented nevi are a recognized Turner finding. The source warns that this detail can distract from the rest of the Turner pattern.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck lists multiple pigmented nevi among associated physical findings. Nevi alone do not diagnose Turner syndrome or neurofibromatosis; interpret their type and the full clinical pattern.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
+    }
+  },
+  {
+    "id": "s2peds-1161",
+    "category": "Puberty and growth",
+    "q": "Why can normal Tanner stage 4-5 pubic or axillary hair coexist with poorly developed breasts in the source Turner vignette?",
+    "a": "Sexual hair can respond to adrenal androgens despite reduced ovarian estrogen production. Preserved hair does not rule out ovarian insufficiency or Turner syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck distinguishes adrenal androgen-dependent sexual hair from estrogen-dependent breast development. Breast and hair staging should be assessed separately.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
+    }
+  },
+  {
+    "id": "s2peds-1162",
+    "category": "Puberty and growth",
+    "q": "Does the source tumor-risk statement mean every Turner patient needs prophylactic oophorectomy?",
+    "a": "No. The PDF describes dysgerminoma risk in streak gonads and favors prophylactic removal, especially with Y-chromosome material. The clinically important risk assessment is not a universal remove-all-Turner-ovaries rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "The 2024 guideline R7.40 recommends individualized decisions about gonadectomy when Y material is identified by standard karyotype or FISH, balancing gonadoblastoma/dysgerminoma risk against gonadal function, fertility and timing. This differs from the blanket source recommendation.",
+      "url": "https://academic.oup.com/ejendo/article/190/6/G53/7674241"
+    }
+  },
+  {
+    "id": "s2peds-1163",
+    "category": "Puberty and growth",
+    "q": "What does a mixture of 45,X and 46,XX cells mean in the source Turner question?",
+    "a": "Somatic mosaic Turner syndrome. The PDF intended mechanism answer is a post-fertilization mitotic error producing distinct cell lines, rather than every cell sharing one karyotype.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck describes 45,X/46,XX mosaicism with a phenotype ranging from classic findings to few obvious abnormalities. The 2024 Turner guideline still applies surveillance to all Turner karyotypes; a 46,XX cell line does not remove the need for clinical follow-up.",
+      "url": "https://academic.oup.com/ejendo/article/190/6/G53/7674241"
+    }
+  },
+  {
+    "id": "s2peds-1164",
+    "category": "Puberty and growth",
+    "q": "Which two congenital cardiac abnormalities are especially associated with Turner syndrome in the source?",
+    "a": "Coarctation of the aorta and bicuspid aortic valve. A bicuspid valve can later develop aortic stenosis, but bicuspid anatomy is not synonymous with already having stenosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 81,
+      "url": "/mehlman/hy-pediatrics.pdf#page=81"
+    },
+    "guideline": {
+      "text": "Merck lists coarctation, bicuspid aortic valve and aortic dilation, and recommends echocardiography or MRI for detection and ongoing surveillance. Turner cardiovascular risk is broader than a one-time childhood murmur assessment.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-anomalies/turner-syndrome"
+    }
   }
 ];
