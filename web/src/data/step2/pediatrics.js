@@ -21436,5 +21436,307 @@ export default [
       "text": "The 2025 international Sydenham-chorea consensus recommends assessing chorea and hypotonia, screening for acute rheumatic fever features including carditis, treating with antibiotics at first presentation and using corticosteroids for moderate to severe disease.",
       "url": "https://eprints.gla.ac.uk/372852/"
     }
+  },
+  {
+    "id": "s2peds-1502",
+    "category": "Pediatric neuro-oncology",
+    "q": "Which tumor does p105 call the most common brain tumor in kids?",
+    "a": "Pilocytic astrocytoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "Johns Hopkins likewise describes pilocytic astrocytoma as the most common brain tumor found in children and as a slow-growing grade 1 tumor.",
+      "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/brain-tumor/pediatric-brain-tumors"
+    }
+  },
+  {
+    "id": "s2peds-1503",
+    "category": "Pediatric neuro-oncology",
+    "q": "How does p105 describe pilocytic astrocytoma on imaging?",
+    "a": "It has solid (white) and cystic (black) components on imaging.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "NCI says more than 80% of gliomas located in the cerebellum are pilocytic astrocytomas and that they are often cystic. Exact white-versus-black signal depends on the imaging sequence, so preserve the source wording as its exam shorthand.",
+      "url": "https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1504",
+    "category": "Pediatric neuro-oncology",
+    "q": "What biologic behavior does p105 assign to pilocytic astrocytoma?",
+    "a": "Not aggressive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "Current NCI classification places pilocytic astrocytoma among circumscribed, WHO grade 1 gliomas. Johns Hopkins notes that surgical removal is often the only treatment needed when it develops in the cerebellum.",
+      "url": "https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1505",
+    "category": "Pediatric neuro-oncology",
+    "q": "How does p105 characterize medulloblastoma?",
+    "a": "An aggressive brain tumor of the cerebellum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "NCI defines medulloblastoma as a pediatric embryonal tumor arising in the posterior fossa. Embryonal tumors have high mitotic activity and can disseminate through cerebrospinal-fluid pathways.",
+      "url": "https://www.cancer.gov/types/brain/hp/child-cns-embryonal-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1506",
+    "category": "Pediatric neuro-oncology",
+    "q": "How does p105 map medulloblastoma location to ataxia?",
+    "a": "A vermis tumor can cause truncal ataxia; a lateral tumor can cause ipsilateral limb ataxia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "NCI confirms truncal unsteadiness and says more lateral cerebellar tumors can cause appendicular ataxia with unilateral dysmetria on the same side as the tumor.",
+      "url": "https://www.cancer.gov/types/brain/hp/child-cns-embryonal-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1507",
+    "category": "Pediatric neuro-oncology",
+    "q": "What ranking does p105 give craniopharyngioma in children and teenagers?",
+    "a": "The source calls it the most common pituitary tumor in children and teenagers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "Current sources make the location more precise: Endotext calls craniopharyngioma by far the commonest suprasellar tumor of childhood, while NCI classifies it as an uncommon sellar-region tumor rather than a pituitary adenoma.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279153/"
+    }
+  },
+  {
+    "id": "s2peds-1508",
+    "category": "Pediatric neuro-oncology",
+    "q": "Which visual-field finding does p105 associate with craniopharyngioma and other pituitary lesions?",
+    "a": "Bitemporal hemianopsia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "A 2025 StatPearls review says bitemporal hemianopsia is the most common visual symptom pattern in craniopharyngioma because the tumor compresses the optic chiasm.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519027/"
+    }
+  },
+  {
+    "id": "s2peds-1509",
+    "category": "Pediatric neuro-oncology",
+    "q": "What embryologic origin does p105 give for craniopharyngioma?",
+    "a": "It originates from the roof of the primitive oropharynx, also phrased as the roof of the primitive oral cavity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "Current embryology calls this Rathke pouch, an outpouching of the ectodermal roof of the stomodeum that contributes to the anterior pituitary; craniopharyngioma is believed to arise from its epithelial remnants.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519027/"
+    }
+  },
+  {
+    "id": "s2peds-1510",
+    "category": "Pediatric neuro-oncology",
+    "q": "Which classic content and behavior does p105 give for craniopharyngioma?",
+    "a": "It can calcify, contain cholesterol crystals and recur at a high rate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "NCI says the childhood adamantinomatous type has abundant calcification, a cyst with dark oily fluid and a higher recurrence rate than the adult papillary type. StatPearls describes yellow-brown cholesterol-rich cyst fluid and very high recurrence overall.",
+      "url": "https://www.cancer.gov/types/brain/hp/child-cranio-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1511",
+    "category": "Pediatric embryology",
+    "q": "Which different embryologic origin does p105 warn not to confuse with craniopharyngioma?",
+    "a": "Endoderm of the foramen cecum refers to a thyroglossal duct cyst.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "A 2025 StatPearls review confirms that the thyroid primordium originates at the foramen cecum and that thyroglossal duct cysts are remnants of the duct formed during thyroid descent.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519057/"
+    }
+  },
+  {
+    "id": "s2peds-1512",
+    "category": "Pediatric neuro-oncology",
+    "q": "What pediatric syndrome does p105 associate with a pinealoma?",
+    "a": "Vertical gaze palsy, called Parinaud syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "The 2025 European pediatric pineal-tumor recommendations describe Parinaud syndrome as upward gaze palsy with impaired convergence, nystagmus, eyelid retraction and light-near dissociation from tectal compression. Modern classifications use specific pineal-region tumor diagnoses rather than the umbrella term pinealoma.",
+      "url": "https://www.ejcped.com/article/S2772-610X(25)00004-2/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1513",
+    "category": "Pediatric neurology",
+    "q": "What are the tubers in tuberous sclerosis, according to p105?",
+    "a": "Hamartomas, described as periventricular or cortical nodules on imaging.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "The 2021 international TSC recommendations use multiple cortical tubers and/or radial migration lines as a major criterion and separately assess subependymal nodules on brain MRI.",
+      "url": "https://www.pedneur.com/article/S0887-8994(21)00151-X/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1514",
+    "category": "Neural tube defects",
+    "q": "Which p105 spina bifida type matches each source-image label?",
+    "a": "The image contrasts normal and open vertebrae, then shows spina bifida occulta, meningocele and meningomyelocele.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC uses the same three major types, with myelomeningocele as the current spelling for the open form involving spinal cord and nerves.",
+      "url": "https://www.cdc.gov/spina-bifida/about/index.html"
+    },
+    "img": "/mehlman/figures/peds-p105-spina-bifida-types.png",
+    "imgAlt": "Actual source diagram comparing normal vertebra, open vertebra, spina bifida occulta, meningocele and meningomyelocele"
+  },
+  {
+    "id": "s2peds-1515",
+    "category": "Neural tube defects",
+    "q": "How does the p105 figure depict spina bifida occulta?",
+    "a": "A vertebral body open posteriorly with a hair tuft, without herniation of meninges or cord.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC and NICHD describe spina bifida occulta as a small spinal gap with no opening or sac on the back and usually a normal spinal cord and nerves; a hairy patch can mark the site.",
+      "url": "https://www.nichd.nih.gov/health/topics/factsheets/spinabifida"
+    }
+  },
+  {
+    "id": "s2peds-1516",
+    "category": "Neural tube defects",
+    "q": "What herniates in the p105 meningocele drawing?",
+    "a": "Just the meninges.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC says meningocele is a fluid sac through an opening in the back, but the spinal cord is not in the sac, so there is usually little or no nerve damage.",
+      "url": "https://www.cdc.gov/spina-bifida/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1517",
+    "category": "Neural tube defects",
+    "q": "What herniates in the p105 meningomyelocele drawing?",
+    "a": "Meninges plus spinal cord.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC spells this myelomeningocele and describes a fluid sac containing part of the spinal cord and nerves, causing moderate to severe disability.",
+      "url": "https://www.cdc.gov/spina-bifida/about/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1518",
+    "category": "Neural tube defects",
+    "q": "When does p105 say neural tube defects occur?",
+    "a": "Between 3 and 4 weeks gestation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "USPSTF says the neural plate usually completes formation and closure 26 to 28 days after fertilization. That post-fertilization interval is not the same clock as gestational age counted from the last menstrual period.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/folic-acid-for-the-prevention-of-neural-tube-defects-preventive-medication"
+    }
+  },
+  {
+    "id": "s2peds-1519",
+    "category": "Neural tube defects",
+    "q": "Which prevention point does p105 give for spina bifida?",
+    "a": "Adequate folic acid, vitamin B9, before and during early pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "The 2023 USPSTF grade A recommendation is 400 to 800 mcg of folic acid daily for everyone planning or capable of pregnancy, starting at least 1 month before conception and continuing through the first 2 to 3 months.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/folic-acid-for-the-prevention-of-neural-tube-defects-preventive-medication"
+    }
+  },
+  {
+    "id": "s2peds-1520",
+    "category": "Neural tube defects",
+    "q": "Which antiseizure medicines does p105 associate with neural tube defects?",
+    "a": "Particularly valproic acid, but also phenytoin and carbamazepine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "The 2024 AAN/AES/SMFM guideline says valproic acid has the highest neural-tube-defect signal and must be avoided when clinically feasible. It recommends choosing seizure treatment that optimizes seizure control and fetal outcomes rather than treating all listed drugs as equivalent risks.",
+      "url": "https://www.aan.com/Guidelines/Home/GuidelineDetail/1103"
+    }
+  },
+  {
+    "id": "s2peds-1521",
+    "category": "Neural tube defects",
+    "q": "Which markers does p105 say neural tube defects increase?",
+    "a": "AFP and acetylcholinesterase in CSF.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 105,
+      "url": "/mehlman/hy-pediatrics.pdf#page=105"
+    },
+    "guideline": {
+      "text": "Current ACMG guidance uses elevated maternal serum AFP for screening and amniotic-fluid AFP plus acetylcholinesterase, or targeted ultrasound, for diagnosis. Preserve CSF as the source answer, but it is not the specimen named in current prenatal testing guidance.",
+      "url": "https://www.gimjournal.org/article/S1098-3600(21)01248-X/fulltext"
+    }
   }
 ];
