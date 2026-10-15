@@ -20911,6 +20911,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 86,
       "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "StatPearls 2023 describes discoid lupus as a chronic cutaneous form with defined annular plaques, adherent follicular scale and possible atrophy/scarring or scarring alopecia. Discoid lupus is more specific than simply any cutaneous lesion, and it need not imply systemic lupus.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493145/"
     }
   },
   {
@@ -22582,6 +22586,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 127,
       "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "Merck Manual describes HSV-associated erythema multiforme as a Th1-type, T-cell-mediated cytotoxic reaction to viral DNA fragments in keratinocytes. This differs from the PDF type III label.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/erythema-multiforme"
     }
   },
   {
@@ -23163,6 +23171,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 144,
       "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    },
+    "guideline": {
+      "text": "The 2018 IIH consensus states there is no clear evidence of a contraindication to oral contraceptives based on prior reports of association. Do not treat the PDF list as proof that contraceptives cause IIH or stop a needed contraceptive without clinical assessment.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6166610/"
     }
   },
   {
@@ -24640,6 +24652,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 172,
       "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "Merck Manual defines brief psychotic disorder as psychotic symptoms lasting at least 1 day but less than 1 month, with eventual return to premorbid functioning. Duration alone is insufficient; substance-, medical- and other psychiatric causes must be assessed.",
+      "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/brief-psychotic-disorder"
     }
   },
   {
@@ -25653,6 +25669,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 201,
       "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "MedlinePlus identifies WAGR as a contiguous chromosome-11 deletion including PAX6 and WT1. PAX6 loss explains the characteristic eye findings such as aniridia; WT1 loss explains Wilms-tumor/genitourinary features. Do not attribute aniridia directly to WT1 alone.",
+      "url": "https://medlineplus.gov/genetics/condition/wagr-syndrome/"
     }
   },
   {
