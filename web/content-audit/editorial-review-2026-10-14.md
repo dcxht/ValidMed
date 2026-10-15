@@ -649,3 +649,6 @@ Nativebrowserimagezoomactuallytestedonrestoredvisualpathwayasset03:01,1174pxwide
 
 ## Digoxin visual-source wording, October15 03:10CDT
 3170directcurrentDailyMedlabelwarnings/adversereactions/toxicitytextread https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dfac7f13-28be-423d-9389-9089da29da17 :visualdisturbance/coloraberrationyellow-green,noproofeveryvisualsymptomopticneuritis. KeepsPDFlabelasPDFclaimwithseparateverifiedtoxicitynote. CDCYellowBook2026 https://www.ncbi.nlm.nih.gov/books/NBK620959/ readpharmacologysection;supportscentralantimuscarinic/H1activitybutdoesNOTspecificallyresolveprochlorperazineeffectivenessorM3-onlyclaim,thosearenotupgradedfromabsence.
+
+## Neurocutaneous/FAS late-card consistency, October15 03:11CDT
+3158/3159NINDSdirectNF1/NF2SWNsymptom/diagnosisparagraphsread https://www.ninds.nih.gov/health-information/disorders/neurofibromatosis :opticpathwayglioma/LischnodulesNF1,vestibularschwannoma/meningioma/ependymomaNF2SWN,childhoodcataractsrecognized. Doesnotclaimrareotherlesionsimpossible.3155CDCcurrentFASDsfullcauses/signs/typesread https://cdc.gov/fasd/about/ :rangeofphysical/behavioral/learningfindings,FASpartofspectrum,nounrestrictedmost-commonIDcausecorroborated. Originalrankingremainslabeledunverified,nofalseproofbyabsence.

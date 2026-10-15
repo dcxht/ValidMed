@@ -40010,7 +40010,11 @@ export default [
     "sourcePages": [
       165,
       315
-    ]
+    ],
+    "guideline": {
+      "text": "CDC describes fetal alcohol spectrum disorders as a range of physical, behavioral and learning effects from prenatal alcohol exposure. FAS is one part of that spectrum. The current CDC overview does not establish the PDF unrestricted most-common-cause ranking, and the diagnostic facial pattern uses defined criteria rather than any single unusual feature.",
+      "url": "https://cdc.gov/fasd/about/"
+    }
   },
   {
     "id": "s2fm-3156",
@@ -40043,6 +40047,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 166,
       "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "NINDS distinguishes NF1, including optic-pathway glioma and Lisch nodules, from NF2-related schwannomatosis, where vestibular schwannomas, meningiomas and ependymomas are recognized. The PDF combined association list should not be memorized as proof that every listed tumor is a defining NF1 lesion. This note does not claim that a rare tumor can never occur in NF1.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/neurofibromatosis"
     }
   },
   {
@@ -40054,6 +40062,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 166,
       "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "NINDS describes childhood-onset cataracts and other retinal/visual changes among complications of NF2-related schwannomatosis, the current name for the source NF2 condition. Cataracts alone do not establish this diagnosis; clinical and/or genetic criteria are needed.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/neurofibromatosis"
     }
   },
   {
