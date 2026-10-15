@@ -22381,6 +22381,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "NICE NG217 January 2025 safety amendment says first-time valproate use under age 55 in the UK requires two specialists to document no effective/tolerated alternative or compelling reasons reproductive risks do not apply. This is UK-specific safety policy, not a claim that the identical rule applies in every US setting.",
+      "url": "https://www.nice.org.uk/guidance/ng217/chapter/Update-information"
     }
   },
   {
@@ -22550,6 +22554,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 167,
       "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    },
+    "guideline": {
+      "text": "BNF/NICE retention summary says bethanechol use has largely been superseded by catheterization, despite licensing for selected acute postoperative/postpartum/neurogenic retention. It is not a universal first response to retention.",
+      "url": "https://bnf.nice.org.uk/treatment-summaries/urinary-retention/"
     }
   },
   {
@@ -22583,6 +22591,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 167,
       "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    },
+    "guideline": {
+      "text": "A CDC MMWR occupational-poisoning report documents dermal AND inhalational secondary exposure. It stresses agent-appropriate respiratory/chemical-barrier protection and decontamination; ordinary latex gloves alone provide little protection against many chemicals. This is an older outbreak report, not a current comprehensive PPE protocol.",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4951a2.htm"
     }
   },
   {
@@ -27377,6 +27389,81 @@ export default [
     "guideline": {
       "text": "EASL 2022 states ferritin is also an acute-phase reactant and may rise with fatty liver, alcohol, metabolic syndrome, inflammation or neoplasia. High ferritin does not by itself prove iron overload.",
       "url": "https://easl.eu/wp-content/uploads/2022/06/PIIS01688278220021121.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2370",
+    "category": "Neuro emergency exact-claim reconciliation",
+    "q": "Does the PDF allow observation alone for an epidural hematoma with normal GCS?",
+    "a": "No. It says craniotomy even with normal GCS, and intubation/hyperventilation before surgery if GCS is low.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    },
+    "guideline": {
+      "text": "Brain Trauma Foundation surgical guidance permits selected EDH under 30 cm3, under 15 mm thick and under 5 mm midline shift, with GCS above 8 and no focal deficit, to be managed nonoperatively with serial CT and close observation in a neurosurgical center. This is older published guidance, not a new 2026 recommendation.",
+      "url": "https://braintrauma.org/coma/guidelines/surgical"
+    }
+  },
+  {
+    "id": "s2fm-2371",
+    "category": "Neuro emergency exact-claim reconciliation",
+    "q": "What universal operative answer does the PDF give for subdural hematoma?",
+    "a": "Craniotomy; it says observation is not the answer on its cited exams.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    },
+    "guideline": {
+      "text": "Brain Trauma Foundation surgical guidance uses imaging and clinical thresholds: acute SDH over 10 mm thick or over 5 mm shift should be evacuated; smaller lesions in coma have additional deterioration, pupil or ICP criteria. Its recommendations do not say every subdural hematoma automatically needs craniotomy.",
+      "url": "https://braintrauma.org/coma/guidelines/surgical"
+    }
+  },
+  {
+    "id": "s2fm-2372",
+    "category": "Neuro emergency exact-claim reconciliation",
+    "q": "What warfarin-reversal product does the PDF name in its subarachnoid-hemorrhage management summary?",
+    "a": "Fresh frozen plasma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    },
+    "guideline": {
+      "text": "Neurocritical Care Society/SCCM 2016 intracranial-hemorrhage reversal guidance recommends PCC rather than FFP for VKA-associated intracranial hemorrhage with INR at least 1.4, favors 4-factor over 3-factor PCC, and includes IV vitamin K for durable reversal. FFP can remain an alternative when PCC cannot be used. This is an older primary guideline, not a new 2026 update.",
+      "url": "https://www.neurocriticalcare.org/Portals/0/Docs/Resources/FINAL_COPY_COAG.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2373",
+    "category": "Neuro emergency exact-claim reconciliation",
+    "q": "What time-based status-epilepticus definition does the PDF state?",
+    "a": "A seizure over 5 minutes or two seizures within 5 minutes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    },
+    "guideline": {
+      "text": "BNF/NICE defines status as a seizure lasting 5 minutes or longer, OR recurrent seizures without recovery in between. Recovery matters; two short seizures with full recovery are not interchangeable with that definition. This is a directly fetched clinical prescribing summary.",
+      "url": "https://bnf.nice.org.uk/treatment-summaries/status-epilepticus/"
+    }
+  },
+  {
+    "id": "s2fm-2374",
+    "category": "Neuro emergency exact-claim reconciliation",
+    "q": "What treatment does the PDF name without a duration qualifier for febrile seizure?",
+    "a": "A benzodiazepine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "NICE CKS notes most children present after the seizure has stopped. For tonic-clonic activity over 5 minutes, obtain emergency help; rescue benzodiazepines follow specialist advice and the individual plan. A brief resolved febrile seizure is not an automatic indication for a benzodiazepine.",
+      "url": "https://cks.nice.org.uk/topics/febrile-seizure/management/acute-management-of-febrile-seizure/"
     }
   }
 ];
