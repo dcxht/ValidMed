@@ -10,8 +10,8 @@ const context = vm.createContext({ BANKS, key: x => x, localStorage: { getItem: 
 const component = fs.readFileSync(new URL('../src/components/Questions.jsx', import.meta.url), 'utf8');
 vm.runInContext(component.slice(component.indexOf('function storageKey('), component.indexOf('export default function Questions()')), context);
 const retired = allQuestions.filter(q => q.duplicateOf);
-assert.equal(retired.length, 225);
-assert.equal(questions.length, 3246);
+assert.equal(retired.length, 226);
+assert.equal(questions.length, 3245);
 assert.equal(new Set(allQuestions.map(q => q.id)).size, allQuestions.length);
 for (const q of retired) {
   assert(questions.some(c => c.id === q.duplicateOf));

@@ -154,7 +154,7 @@ All source locations after semantic consolidation. This is a locator index, not 
 | 151 | s2fm-0499, s2fm-0500, s2fm-0501, s2fm-0502, s2fm-0503, s2fm-0504, s2fm-0839, s2fm-1899, s2fm-1900, s2fm-1901, s2fm-1903, s2fm-2838, s2fm-2839, s2fm-2870, s2fm-3087 | 0 | 4 |
 | 152 | s2fm-0505, s2fm-0506, s2fm-0507, s2fm-0508, s2fm-0600, s2fm-1904, s2fm-1905, s2fm-1906, s2fm-1907, s2fm-1908, s2fm-1909, s2fm-2835, s2fm-2836, s2fm-2840, s2fm-2841, s2fm-3134 | 0 | 4 |
 | 153 | s2fm-0509, s2fm-0510, s2fm-0511, s2fm-0512, s2fm-1910, s2fm-1911, s2fm-1912, s2fm-1913, s2fm-2842, s2fm-2843, s2fm-2844, s2fm-2851, s2fm-3135 | 0 | 1 |
-| 154 | s2fm-0513, s2fm-0514, s2fm-0515, s2fm-1375, s2fm-1914, s2fm-1916, s2fm-1917, s2fm-2845, s2fm-2846, s2fm-2847, s2fm-2852, s2fm-2854, s2fm-3136, s2fm-3137 | 0 | 3 |
+| 154 | s2fm-0513, s2fm-0514, s2fm-0515, s2fm-1375, s2fm-1914, s2fm-1916, s2fm-1917, s2fm-2340, s2fm-2845, s2fm-2846, s2fm-2847, s2fm-2852, s2fm-2854, s2fm-3136 | 0 | 3 |
 | 155 | s2fm-0135, s2fm-0516, s2fm-0517, s2fm-0518, s2fm-0519, s2fm-0521, s2fm-1003, s2fm-1918, s2fm-1919, s2fm-1920, s2fm-1921, s2fm-2848, s2fm-2853, s2fm-3138 | 0 | 1 |
 | 156 | s2fm-0541, s2fm-0542, s2fm-0543, s2fm-0544, s2fm-0545, s2fm-0546, s2fm-0547, s2fm-1922, s2fm-1923, s2fm-1924, s2fm-2849, s2fm-3139, s2fm-3140, s2fm-3141 | 0 | 3 |
 | 157 | s2fm-0139, s2fm-0548, s2fm-0549, s2fm-0550, s2fm-0552, s2fm-0553, s2fm-0554, s2fm-0555, s2fm-1925, s2fm-1926, s2fm-1927, s2fm-2855, s2fm-2856, s2fm-2857, s2fm-2858, s2fm-3142, s2fm-3143 | 0 | 6 |

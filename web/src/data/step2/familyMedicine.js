@@ -29037,7 +29037,7 @@ export default [
     "id": "s2fm-2340",
     "category": "Cardiovascular exact-claim reconciliation",
     "q": "What biopsy timing examples does the PDF give after starting steroids for suspected giant-cell arteritis?",
-    "a": "Within 3 days or within a week in its exam examples; it says the time frames vary.",
+    "a": "Within 3 days or within a week in its exam examples; it says the time frames vary. Its main teaching is not to delay needed steroids for biopsy; these examples are not a newly verified universal deadline.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 26,
@@ -29046,7 +29046,11 @@ export default [
     "guideline": {
       "text": "ACR/VF 2021 conditionally recommends temporal-artery biopsy within 2 weeks of starting oral glucocorticoids rather than waiting longer. Histologic findings may persist later; treatment should not be held for biopsy.",
       "url": "https://vasculitisfoundation.org/wp-content/uploads/2024/01/2021-ACR-VF-Guideline-for-Management-of-Giant-Cell-Arteritis-and-Takayasu-Artheritis.pdf"
-    }
+    },
+    "sourcePages": [
+      26,
+      154
+    ]
   },
   {
     "id": "s2fm-2341",
@@ -39900,7 +39904,8 @@ export default [
     "guideline": {
       "text": "ACR/VF 2021 conditionally recommends temporal-artery biopsy within 2 weeks of starting oral glucocorticoids rather than waiting longer. Histologic findings may persist later; treatment should not be held for biopsy.",
       "url": "https://vasculitisfoundation.org/wp-content/uploads/2024/01/2021-ACR-VF-Guideline-for-Management-of-Giant-Cell-Arteritis-and-Takayasu-Artheritis.pdf"
-    }
+    },
+    "duplicateOf": "s2fm-2340"
   },
   {
     "id": "s2fm-3138",
