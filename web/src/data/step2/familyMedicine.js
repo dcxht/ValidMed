@@ -31979,5 +31979,197 @@ export default [
       "text": "An ASH Image Bank morphology explanation attributes rouleaux to elevated immunoglobulin or fibrinogen coating red cells and neutralizing their surface charge. This is broader than a specific IgG-light-chain mechanism.",
       "url": "https://imagebank.hematology.org/image/62465/rouleaux-in-myeloma"
     }
+  },
+  {
+    "id": "s2fm-2692",
+    "category": "Hematology source details",
+    "q": "What platelet reference range does the source list in its ITP discussion?",
+    "a": "150,000-450,000/µL; its ITP question examples are usually below 100,000/µL. This is a source reference range, not an isolated diagnostic rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-2693",
+    "category": "Hematology source details",
+    "q": "What immune hypersensitivity category does the source assign to postviral ITP?",
+    "a": "Type II, from cross-reactive antibodies directed against platelets.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-2694",
+    "category": "Hematology source details",
+    "q": "Can the PDF ITP vignette omit a preceding symptomatic viral illness?",
+    "a": "Yes. It gives both a school-age child after coryza and an adult with bruising but no reported viral symptoms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-2695",
+    "category": "Hematology source details",
+    "q": "Which unusual bleeding presentation does the PDF describe for ITP when vWD is not among the choices?",
+    "a": "Isolated heavy menstrual bleeding; thrombocytopenia and the full context distinguish the cause rather than the symptom alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-2696",
+    "category": "Hematology source details",
+    "q": "Which two source hemophilia presentations are especially emphasized?",
+    "a": "A school-age boy with hemarthrosis, sometimes an affected maternal uncle, or a newborn with excessive bleeding after circumcision.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-2697",
+    "category": "Hematology source details",
+    "q": "What specific vitamin K-dependent reaction does the source name?",
+    "a": "Gamma-glutamyl carboxylation of clotting factors and proteins C/S.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-2698",
+    "category": "Hematology source details",
+    "q": "Why is desmopressin not the source replacement treatment for hemophilia B?",
+    "a": "Hemophilia B lacks factor IX, whereas desmopressin increases circulating vWF/factor VIII rather than replacing factor IX.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-2699",
+    "category": "Hematology source details",
+    "q": "Which sickle-crisis manifestations does the PDF list apart from abdominal pain?",
+    "a": "Chest pain and dactylitis; the source describes hydroxyurea-mediated HbF increase to reduce recurrent crises.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-2700",
+    "category": "Hematology source details",
+    "q": "What source inheritance pattern accompanies Fanconi aplastic anemia?",
+    "a": "Autosomal recessive, with possible hypoplastic/absent thumbs or radii.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-2701",
+    "category": "Hematology source details",
+    "q": "What autoimmune neuromuscular condition can accompany the source thymoma/pure-red-cell-aplasia association?",
+    "a": "Myasthenia gravis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-2702",
+    "category": "Hematology source details",
+    "q": "Which uncommon red-cell index can be elevated in hereditary spherocytosis according to the PDF?",
+    "a": "MCHC. The source explicitly says it is not specific to hereditary spherocytosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-2703",
+    "category": "Hematology source details",
+    "q": "How does the source link hereditary spherocytosis to pigment gallstones?",
+    "a": "Splenic removal of abnormal red cells increases heme/bilirubin turnover, promoting pigment stones.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-2704",
+    "category": "Essential thrombocythemia treatment source review",
+    "q": "What treatment pair does the source give for essential thrombocythemia?",
+    "a": "Aspirin plus plateletpheresis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "Merck professional guidance updated April 2026 individualizes aspirin and cytoreduction by symptoms and risk. Plateletpheresis is rarely needed, for selected serious hemorrhage, recurrent thrombosis or emergency surgery; it is not routine treatment for every ET presentation.",
+      "url": "https://www.merckmanuals.com/professional/hematology-and-oncology/myeloproliferative-disorders/essential-thrombocythemia"
+    }
+  },
+  {
+    "id": "s2fm-2705",
+    "category": "Hematology and renal source review",
+    "q": "What antiplatelet treatment does the PDF add to treating the cause of reactive thrombocytosis?",
+    "a": "Aspirin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "StatPearls secondary-thrombocytosis review says antiplatelets are generally not indicated; selected complications or extreme counts can warrant individual assessment. Merck emphasizes treating the underlying disorder. Routine aspirin for every reactive count is not supported by that guidance.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560810/"
+    }
+  },
+  {
+    "id": "s2fm-2706",
+    "category": "Hematology and renal source review",
+    "q": "What categorical statement does the source make about splenectomy in sickle-cell disease?",
+    "a": "Sickle-cell disease causes autosplenectomy and is not treated with splenectomy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    },
+    "guideline": {
+      "text": "ASH acute-complication guidance says to consider splenectomy for recurrent acute splenic sequestration or symptomatic hypersplenism with expert consultation. Autosplenectomy does not exclude all surgical indications.",
+      "url": "https://www.hematology.org/-/media/hematology/files/education/clinicians/guidelines-quality/quick-ref/pocket-guide-acute-complications-scd.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2707",
+    "category": "Hematology and renal source review",
+    "q": "What next step does the PDF choose for elevated BUN and creatinine in a patient with SLE?",
+    "a": "Renal biopsy for presumed lupus nephritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "ACR 2024 guidance conditionally recommends biopsy for proteinuria above 0.5 g/g and/or otherwise unexplained impaired kidney function, and prompt biopsy when lupus nephritis is suspected unless infeasible/contraindicated. Renal dysfunction still requires assessment rather than assuming every cause is lupus nephritis.",
+      "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/blt4db6d0b451e88caf/lupus-nephritis-guideline-summary-2024.pdf"
+    }
   }
 ];
