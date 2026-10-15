@@ -31518,5 +31518,95 @@ export default [
       "page": 69,
       "url": "/mehlman/hy-family-medicine.pdf#page=69"
     }
+  },
+  {
+    "id": "s2fm-2657",
+    "category": "Pediatric allergy exact-source review",
+    "q": "What strongest milk-allergy risk factor does the source claim?",
+    "a": "Not being exclusively breastfed for the first six months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "ESPGHAN 2024 supports breastfeeding but says its role in preventing food allergy remains uncertain. Cow-milk allergy can occur in exclusively breastfed infants, is uncommon in that group and is often overdiagnosed. The source strongest-risk claim is not established by this guidance.",
+      "url": "https://www.espghan.org/dam/jcr:aaf17bec-ca96-403a-8677-eafc202bb35d/J%20pediatr%20gastroenterol%20nutr%20-%202024%20-%20Vandenplas%20-%20An%20ESPGHAN%20Position%20Paper%20on%20the%20Diagnosis%20Management%20and.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2658",
+    "category": "Hepatic treatment exact-source review",
+    "q": "What sole theoretical treatment does the PDF give for NASH?",
+    "a": "Exercise more and stop eating fast food.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "FDA has approved semaglutide (Wegovy) for adults with MASH and moderate-to-advanced fibrosis. Lifestyle measures remain important, but selected patients now have approved drug treatment; an incidental obesity vignette does not establish eligibility.",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash"
+    }
+  },
+  {
+    "id": "s2fm-2659",
+    "category": "Detailed source/current review",
+    "q": "What absolute formula-substitution rule and milk/soy allergy overlap does the PDF state?",
+    "a": "Never switch to soy formula; up to 50% of milk-allergic children also react to soy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "ESPGHAN 2024 says soy is not first choice, but may be an option in selected circumstances, particularly IgE-mediated allergy. Co-allergy varies by age and allergy phenotype; the paper describes lower overlap in IgE-mediated disease and uncertain greater overlap in non-IgE disease, not a universal 50% rule.",
+      "url": "https://www.espghan.org/dam/jcr:aaf17bec-ca96-403a-8677-eafc202bb35d/J%20pediatr%20gastroenterol%20nutr%20-%202024%20-%20Vandenplas%20-%20An%20ESPGHAN%20Position%20Paper%20on%20the%20Diagnosis%20Management%20and.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2660",
+    "category": "Detailed source/current review",
+    "q": "What compensatory explanation does the PDF give for low ceruloplasmin in Wilson disease?",
+    "a": "The body tries to reduce copper carried in blood because copper is overloaded.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    },
+    "guideline": {
+      "text": "EASL-ERN 2025 attributes reduced mature ceruloplasmin secretion to impaired ATP7B-dependent maturation and copper incorporation. It is not simply a protective decision to carry less copper.",
+      "url": "https://www.journal-of-hepatology.eu/article/S0168-8278%2824%2902706-5/fulltext"
+    }
+  },
+  {
+    "id": "s2fm-2661",
+    "category": "Detailed source/current review",
+    "q": "What mechanism does the PDF propose for the aortic-stenosis/angiodysplasia bleeding association?",
+    "a": "Possible pressure backup to the colon.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "StatPearls secondary review describes Heyde syndrome through high shear across a stenotic valve causing loss of large von Willebrand multimers and acquired VWF dysfunction, with gastrointestinal angiodysplasia. This differs from simple colonic pressure backup.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551625/"
+    }
+  },
+  {
+    "id": "s2fm-2662",
+    "category": "Hepatic drug safety source review",
+    "q": "What uniform response does the PDF give to mild transaminitis on its list of potentially hepatotoxic drugs?",
+    "a": "It calls mild transaminitis expected and says not to decrease the dose, listing statins/fibrates, methotrexate, lithium, valproate and PTU.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    },
+    "guideline": {
+      "text": "Merck Professional distinguishes common asymptomatic enzyme elevations, such as with statins, from clinically significant drug-induced liver injury, which may require prompt drug withdrawal. Interpretation depends on the drug, trend, symptoms and liver function; the source blanket continue rule is not safe for every listed medicine.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/drugs-and-the-liver/liver-injury-caused-by-drugs"
+    }
   }
 ];
