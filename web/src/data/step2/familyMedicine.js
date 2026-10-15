@@ -17681,5 +17681,1150 @@ export default [
       "page": 61,
       "url": "/mehlman/hy-family-medicine.pdf#page=61"
     }
+  },
+  {
+    "id": "s2fm-1547",
+    "category": "Gastroenterology source details",
+    "q": "Which clinical pattern helps the source distinguish gastrinoma from a purely secretory diarrheal tumor?",
+    "a": "Watery diarrhea plus recurrent meal-related ulcer pain, rather than diarrhea alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-1548",
+    "category": "Pharmacology",
+    "q": "Which prostaglandin analogue does the source use for NSAID-associated ulcer prevention/treatment?",
+    "a": "Misoprostol, a PGE1 analogue. It restores protective prostaglandin effects; patient-specific contraindications matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-1549",
+    "category": "Gastroenterology source details",
+    "q": "What acid-gastrin-histology pattern does the PDF use for chronic atrophic gastritis?",
+    "a": "Reduced gastric acid and mucosal thickness with increased gastrin and enterochromaffin-like-cell hyperplasia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-1550",
+    "category": "Gastroenterology source details",
+    "q": "How does the source contrast type A and type B gastritis locations?",
+    "a": "It places autoimmune/pernicious-anemia gastritis in body/fundus and H. pylori-associated gastritis mainly in the antrum. Its additional NSAID-type A label is a source nomenclature claim, not a complete modern classification.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-1551",
+    "category": "Gastroenterology source details",
+    "q": "What physical sign can accompany source H. pylori-related gastric-outlet obstruction?",
+    "a": "A succussion splash, reflecting retained gastric contents.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-1552",
+    "category": "Gastroenterology source details",
+    "q": "Which autoimmune associations does the source use to raise suspicion of pernicious anemia?",
+    "a": "Vitiligo or type 1 diabetes in a patient with macrocytosis or neurologic B12-deficiency findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2fm-1553",
+    "category": "Gastroenterology source details",
+    "q": "What does the source identify as the biochemical defect in Gilbert syndrome?",
+    "a": "Partially reduced UDP-glucuronosyltransferase activity. Its text calls this uptake, but the enzyme is named here as the source defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-1554",
+    "category": "Gastroenterology source details",
+    "q": "Which cholestatic laboratory and symptom pattern does the source use for primary biliary disease?",
+    "a": "Pruritus with increased ALP, direct bilirubin and cholesterol, often with autoimmune associations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-1555",
+    "category": "Gastroenterology source details",
+    "q": "What does the source say to do with an incidental gallbladder stone in a classic autoimmune cholestatic presentation?",
+    "a": "Do not assume the stone explains the whole syndrome; interpret the biochemical/autoimmune pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-1556",
+    "category": "Gastroenterology source details",
+    "q": "What does lithogenic bile mean?",
+    "a": "Bile that promotes stone formation; the source links cholesterol supersaturation with cholesterol stones.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-1557",
+    "category": "Gastroenterology source details",
+    "q": "How do estrogen and progesterone contribute to the source pregnancy gallstone explanation?",
+    "a": "Estrogen increases biliary cholesterol; progesterone slows biliary motility, promoting stasis/sludge.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-1558",
+    "category": "Gastroenterology source details",
+    "q": "Why can hereditary-spherocytosis patients receive splenectomy with gallbladder surgery in the source?",
+    "a": "Reduced hemolysis can reduce bilirubin load; symptomatic pigment stones may require cholecystectomy. This is the source selected-case discussion, not an automatic operation for every patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-1559",
+    "category": "Pharmacology",
+    "q": "How does ursodiol affect bile in the source?",
+    "a": "It reduces cholesterol secretion/saturation in bile. The source mentions selected nonsurgical stone cases, not universal treatment of incidental asymptomatic stones.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-1560",
+    "category": "Gastroenterology source details",
+    "q": "Why might isolated cholecystitis not markedly raise direct bilirubin or ALP?",
+    "a": "Gallbladder inflammation does not itself require common-bile-duct obstruction; a duct stone or other concurrent process can change the pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-1561",
+    "category": "Gastroenterology source details",
+    "q": "Why can jaundice shortly after cholecystectomy suggest a retained duct stone?",
+    "a": "Removing the gallbladder does not necessarily remove a stone already in the common bile duct.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-1562",
+    "category": "Gastroenterology source details",
+    "q": "How does an ampullary gallstone cause pancreatic injury in the source?",
+    "a": "Obstruction of pancreatic outflow at the hepatopancreatic ampulla can produce acute pancreatitis with elevated enzymes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-1563",
+    "category": "Gastroenterology source details",
+    "q": "Which definitive drainage procedure does the source emphasize for obstructed infected bile ducts?",
+    "a": "ERCP for biliary drainage, combined with antibiotics and other urgent care in its cholangitis discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-1564",
+    "category": "Gastroenterology source details",
+    "q": "Which two laboratory changes does the PDF emphasize as adverse prognostic clues in acute pancreatitis?",
+    "a": "Low calcium and high glucose. The absolute height of pancreatic enzymes does not reliably grade severity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-1565",
+    "category": "Gastroenterology source details",
+    "q": "Why is the source D-xylose result normal in pancreatic insufficiency?",
+    "a": "The intestinal mucosal absorptive surface remains intact, while digestive enzyme delivery is deficient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-1566",
+    "category": "Infectious disease source details",
+    "q": "What SIRS criteria does the PDF list?",
+    "a": "At least 2: temperature below 36 or above 38 C, heart rate above 90, respiratory rate above 20, or WBC below 4000/above 12000. SIRS can occur without infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-1567",
+    "category": "Infectious disease source details",
+    "q": "How does the PDF define sepsis and septic shock?",
+    "a": "Sepsis is SIRS plus infection; shock adds low blood pressure. These are the source definitions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    },
+    "guideline": {
+      "text": "Sepsis-3/SCCM 2016: sepsis requires life-threatening organ dysfunction from dysregulated infection response. Septic shock includes vasopressor need forMAP at least 65 and lactate above 2 mmol/L despite adequate resuscitation.",
+      "url": "https://www.sccm.org/clinical-resources/sepsis-definitions"
+    }
+  },
+  {
+    "id": "s2fm-1568",
+    "category": "Gastroenterology source details",
+    "q": "What anatomic difference explains nonbilious pyloric-stenosis versus bilious duodenal-obstruction vomiting?",
+    "a": "Pyloric obstruction is proximal to bile entry; obstruction distal to the bile entry can produce bilious vomiting. The source uses these patterns to distinguish neonatal emergencies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-1569",
+    "category": "Gastroenterology source details",
+    "q": "What does the PDF name as the surgical treatment of hypertrophic pyloric stenosis?",
+    "a": "Pyloromyotomy after appropriate clinical stabilization, not just a diagnostic ultrasound.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-1570",
+    "category": "Gastroenterology source details",
+    "q": "What ultrasound appearances does the source mention for intussusception?",
+    "a": "A target-like bowel-within-bowel appearance or sausage-shaped mass, followed by an appropriate reduction enema in selected patients.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-1571",
+    "category": "Gastroenterology source details",
+    "q": "Which possible lead points or triggers does the source list for intussusception?",
+    "a": "Lymphoid enlargement after infection and Meckel diverticulum; it also mentions a vaccination association. These are source associations, not a conclusion about an individual episode.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-family-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2fm-1572",
+    "category": "Gastroenterology source details",
+    "q": "Which heterotopic tissues does the source name in Meckel diverticulum?",
+    "a": "Gastric and pancreatic mucosa; acid-secreting gastric tissue can contribute to bleeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-1573",
+    "category": "Gastroenterology source details",
+    "q": "Does the source restrict symptomatic Meckel disease to toddlers?",
+    "a": "No. It specifically warns it can present in adolescents/adults.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-1574",
+    "category": "Gastroenterology source details",
+    "q": "Which fat-soluble vitamin deficiency does the PDF particularly emphasize in CF-related malabsorption?",
+    "a": "VitaminE deficiency with neurologic findings, in its enzyme-delivery failure discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-1575",
+    "category": "Gastroenterology source details",
+    "q": "What intestinal injury mechanism does the source give for celiac disease?",
+    "a": "T-cell-mediated villous injury/flattening in response to gluten-related antigens, causing malabsorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-1576",
+    "category": "Gastroenterology source details",
+    "q": "Why can iron deficiency be a clue to celiac disease even with vague GI symptoms?",
+    "a": "Damage to the proximal small-bowel mucosa can impair duodenal iron absorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-1577",
+    "category": "Gastroenterology source details",
+    "q": "Where is IgA deposited in the source dermatitis-herpetiformis description?",
+    "a": "At the dermal papillae, associated with an itchy extensor eruption in celiac disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-1578",
+    "category": "Gastroenterology source details",
+    "q": "What sequence confirms the source celiac diagnosis after serologic screening?",
+    "a": "Duodenal biopsy to assess villous changes, in its source diagnostic framework.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-1579",
+    "category": "Gastroenterology source details",
+    "q": "How can transient lactose malabsorption follow gastroenteritis?",
+    "a": "Damage to villous tips reduces brush-border lactase activity; symptoms can improve as the mucosa recovers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-1580",
+    "category": "Gastroenterology source details",
+    "q": "What two tests does the PDF name for lactose malabsorption?",
+    "a": "A hydrogen breath test or low stool pH reflecting carbohydrate malabsorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-1581",
+    "category": "Gastroenterology source details",
+    "q": "Which shared extraintestinal findings does the source connect with IBD?",
+    "a": "Spondyloarthritis, anterior uveitis, psoriasis-related associations and other autoimmune conditions; colon involvement also raises colorectal-cancer risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-1582",
+    "category": "Pharmacology",
+    "q": "How does the source explain loperamide benefit in diarrhea-predominant IBS?",
+    "a": "Peripheral mu-opioid-receptor activity slows intestinal transit. This is symptom-directed treatment, not a complete IBS management plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1583",
+    "category": "Gastroenterology source details",
+    "q": "Why is endoscopy used before gastric-emptying testing in the source gastroparesis sequence?",
+    "a": "To exclude a mechanical obstruction before attributing delayed passage to neuropathic motility failure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1584",
+    "category": "Pharmacology",
+    "q": "Which receptor targets does the source assign to metoclopramide?",
+    "a": "D2 antagonism plus serotonin 5-HT3 antagonism/5-HT4 agonism in its description; the source links it to antiemetic/prokinetic effects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1585",
+    "category": "Pharmacology",
+    "q": "Which motility receptor makes erythromycin useful as a source prokinetic example?",
+    "a": "Motilin-receptor agonism, separate from its antibiotic 50S-ribosome effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1586",
+    "category": "Pharmacology",
+    "q": "Which supplement and drug groups does the PDF associate with constipation versus diarrhea?",
+    "a": "Iron/aluminum and verapamil can constipate; magnesium, macrolides, orlistat and alpha-glucosidase inhibitors can cause diarrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1587",
+    "category": "Infectious disease source details",
+    "q": "Which hepatitisA antibody class does the source use for acute versus prior immunity?",
+    "a": "IgM supports acute/recent infection;IgG is compatible with immunity after cleared infection or vaccination. The source emphasizes no chronic HAV infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1588",
+    "category": "Vaccination",
+    "q": "Which adult risk groups does the PDF specifically mention for hepatitisA vaccination?",
+    "a": "People who use injection drugs and men who have sex with men. These are source groups, not the complete current vaccination schedule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1589",
+    "category": "Infectious disease source details",
+    "q": "How do the source hepatitisB surface and core antibodies differ?",
+    "a": "Anti-HBs marks immunity; anti-HBc indicates natural infection at some time rather than vaccine-only immunity. IgM anti-HBc supports acute/recent infection, including a window pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2fm-1590",
+    "category": "Infectious disease source details",
+    "q": "What hepatitisC transmission absolute does the PDF state?",
+    "a": "It says HCV is not considered sexually transmitted and emphasizes blood exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "CDC 2025: sexual transmission is uncommon but can occur, particularly reported among MSM. HCV is not spread by casual contact or breastfeeding; blood exposure remains central.",
+      "url": "https://cdc.gov/hepatitis-c/prevention/index.html"
+    }
+  },
+  {
+    "id": "s2fm-1591",
+    "category": "Infectious disease source details",
+    "q": "What acute-only claim does the PDF make for hepatitisE?",
+    "a": "It groups HEV with HAV as acute-only infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "CDC-published primary transplant study 2012 documented chronic HEV in immunosuppressed transplant recipients. Thus the source acute-only absolute has exceptions.",
+      "url": "https://wwwnc.cdc.gov/eid/article/18/5/11-1712_article"
+    }
+  },
+  {
+    "id": "s2fm-1592",
+    "category": "Gastroenterology source details",
+    "q": "Does a normal aminotransferase level exclude metabolic fatty liver in the source?",
+    "a": "No. Its overweight/metabolic-syndrome vignettes may have normal or only mildly raised enzymes. This is not a diagnosis based on BMI alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-1593",
+    "category": "Gastroenterology source details",
+    "q": "Which aminotransferase relation does the PDF use as a clue to alcohol-associated liver injury?",
+    "a": "AST greater than ALT, often but not invariably around 2:1. It cautions its examples vary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-1594",
+    "category": "Gastroenterology source details",
+    "q": "Why does the source hereditary-hemochromatosis explanation focus on intestinal iron absorption?",
+    "a": "The body has limited regulated iron excretion, so excessive absorption permits accumulation; menstrual blood loss can delay presentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-1595",
+    "category": "Gastroenterology source details",
+    "q": "Which extrahepatic organs does the source list for iron-overload injury?",
+    "a": "Skin, endocrine pancreas, gonads/pituitary, myocardium and joints, producing pigmentation, diabetes, infertility, cardiomyopathy and arthropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-1596",
+    "category": "Gastroenterology source details",
+    "q": "What hepatic malignancy risk does the PDF emphasize in hemochromatosis?",
+    "a": "Hepatocellular carcinoma, particularly in advanced liver disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-1597",
+    "category": "Gastroenterology source details",
+    "q": "How does the source distinguish treatment for hereditary iron overload from transfusional siderosis?",
+    "a": "Serial phlebotomy for hereditary disease when suitable; iron chelation such as deferoxamine/deferasirox for repeated-transfusion iron loading.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-1598",
+    "category": "Gastroenterology source details",
+    "q": "Which copper transport defect does the source give for Wilson disease?",
+    "a": "Impaired biliary copper excretion, with increased urinary copper and low ceruloplasmin as diagnostic clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-1599",
+    "category": "Ophthalmology source details",
+    "q": "Which eye examination does the source name for suspected Wilson disease?",
+    "a": "Slit-lamp assessment for Kayser-Fleischer rings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-1600",
+    "category": "Pharmacology",
+    "q": "Which chelator does the PDF name for Wilson disease?",
+    "a": "Penicillamine, a source drug example rather than a complete stage-specific treatment plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2fm-1601",
+    "category": "Gastroenterology source details",
+    "q": "Which two colonic watershed locations does the source emphasize for ischemic colitis?",
+    "a": "The splenic flexure and rectosigmoid junction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-1602",
+    "category": "Gastroenterology source details",
+    "q": "What increased physiological demand provokes pain in chronic mesenteric ischemia?",
+    "a": "Meals increase intestinal metabolic/blood-flow demand beyond what narrowed mesenteric arteries can supply.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-1603",
+    "category": "Gastroenterology source details",
+    "q": "Which three source scenarios suggest acute mesenteric ischemia?",
+    "a": "AF-related embolism, embolism after cardioversion, or acute thrombosis superimposed on chronic mesenteric atherosclerosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-1604",
+    "category": "Gastroenterology source details",
+    "q": "What does Rovsing sign mean in the source appendicitis discussion?",
+    "a": "Right-lower-quadrant pain elicited by left-lower-quadrant palpation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-1605",
+    "category": "Gastroenterology source details",
+    "q": "Where is McBurney point in the source?",
+    "a": "About one-third of the distance from the right anterior superior iliac spine toward the umbilicus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-1606",
+    "category": "Gastroenterology source details",
+    "q": "Why can appendicitis cause higher right-sided pain during pregnancy in the source?",
+    "a": "The gravid uterus can displace abdominal structures. The source warns that a negative gallbladder study does not settle all right-sided abdominal pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-1607",
+    "category": "Gastroenterology source details",
+    "q": "What bowel-wall layers form the common acquired colonic diverticulum in the source?",
+    "a": "Mucosa and submucosa herniate through the muscular wall, a false diverticulum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-family-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2fm-1608",
+    "category": "Gastroenterology source details",
+    "q": "Why does fecal impaction sometimes produce apparent diarrhea?",
+    "a": "Liquid stool can pass around retained hard stool, causing overflow leakage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-1609",
+    "category": "Gastroenterology source details",
+    "q": "Which acute decompression approach does the PDF name for uncomplicated sigmoid volvulus?",
+    "a": "Sigmoidoscopy-guided rectal-tube placement in its exam example. This is not a rule for ischemia, perforation or unstable patients.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-1610",
+    "category": "Gastroenterology source details",
+    "q": "What diagnostic sequence does the source use for hemorrhoidal symptoms?",
+    "a": "Rectal examination followed by anoscopy in its source question.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-family-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2fm-1611",
+    "category": "Gastroenterology source details",
+    "q": "Which sphincter mechanism and topical drug classes does the source associate with chronic anal fissure?",
+    "a": "Increased resting sphincter tone; topical nitrates or diltiazem relax the sphincter. The source also names sitz baths.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-1612",
+    "category": "Gastroenterology source details",
+    "q": "How does a perianal abscess differ in location from a pilonidal abscess?",
+    "a": "Perianal: near the anal verge; pilonidal: higher in the natal/gluteal cleft. The source names incision/drainage for an acute abscess.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-1613",
+    "category": "Infectious disease source details",
+    "q": "Which two organisms does the source associate with Shiga-mediated HUS?",
+    "a": "Shiga-toxin-producing E. coli and Shigella, in a bloody-diarrhea context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-1614",
+    "category": "Infectious disease source details",
+    "q": "How does the source distinguish Salmonella typhi from nontyphoidal Salmonella exposure?",
+    "a": "Typhi has a human reservoir and systemic typhoid presentation; nontyphoidal strains are linked with poultry, eggs and reptiles.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-1615",
+    "category": "Infectious disease source details",
+    "q": "What distinguishes the source cholera story from ordinary travelers diarrhea?",
+    "a": "Profuse high-volume rice-water stool with dangerous dehydration, not merely the daily number of stools.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-1616",
+    "category": "Infectious disease source details",
+    "q": "When does the source cholera hydration discussion escalate from oral to IV treatment?",
+    "a": "Hypotension or altered mental status signifies severe dehydration requiring IV resuscitation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-1617",
+    "category": "Infectious disease source details",
+    "q": "Which pathogen does the source associate with sushi/shellfish-related diarrhea?",
+    "a": "Vibrio parahaemolyticus, contrasted with V. cholerae and severe V. vulnificus infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-family-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2fm-1618",
+    "category": "Infectious disease source details",
+    "q": "What source food association points toward Bacillus cereus?",
+    "a": "Vomiting or watery diarrhea after reheated/fried rice. The source heating/spore explanation is not a complete food-safety mechanism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1619",
+    "category": "Infectious disease source details",
+    "q": "Which organism does the PDF link to both food-associated diarrhea and gas gangrene?",
+    "a": "Clostridium perfringens.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1620",
+    "category": "Infectious disease source details",
+    "q": "How do antibiotics predispose to C. difficile disease in the source?",
+    "a": "Disruption of competing intestinal flora permits toxin-mediated disease after acquisition/colonization. The source emphasizes stool toxin testing rather than ordinary culture alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1621",
+    "category": "Infectious disease source details",
+    "q": "What source initial oral drug treats C. difficile colitis?",
+    "a": "Oral vancomycin, the source answer. This is not a claim that it is the sole current first-line option.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1622",
+    "category": "Gastroenterology source details",
+    "q": "Which source histologic finding supports Whipple disease?",
+    "a": "PAS-positive macrophages in the intestinal lamina propria, with malabsorption and possible joint/systemic involvement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1623",
+    "category": "Gastroenterology source details",
+    "q": "Which treatment course does the PDF report for Whipple disease?",
+    "a": "Ceftriaxone followed by daily TMP-SMX for one year, presented as its exam answer rather than a complete specialist protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1624",
+    "category": "Gastroenterology source details",
+    "q": "How does tropical sprue resemble celiac disease in the source?",
+    "a": "Both can cause villous flattening/malabsorption, but tropical sprue has geographic/infectious context; the source names tetracycline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1625",
+    "category": "Infectious disease source details",
+    "q": "How does the source distinguish HSV and CMV esophageal ulcers?",
+    "a": "HSV: punched-out lesions;CMV: linear/confluent lesions in an immunocompromised setting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1626",
+    "category": "Infectious disease source details",
+    "q": "Which opportunistic GI and retinal problems does the source associate with advanced CMV disease?",
+    "a": "Esophagitis, colitis with bleeding, and retinitis, particularly with advanced immunosuppression.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2fm-1627",
+    "category": "Infectious disease source details",
+    "q": "Which three GI protozoa form the PDF waterborne ECG mnemonic?",
+    "a": "Entamoeba, Cryptosporidium and Giardia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1628",
+    "category": "Infectious disease source details",
+    "q": "Which intestinal and extraintestinal lesions does the PDF associate with Entamoeba?",
+    "a": "Flask-shaped intestinal ulcers and liver abscess. It says small bowel in its source text; that exact location is pending verification.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1629",
+    "category": "Pharmacology",
+    "q": "Which source drug kills luminal Entamoeba after tissue-directed treatment?",
+    "a": "Iodoquinol, in its source antiparasitic discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1630",
+    "category": "Infectious disease source details",
+    "q": "How does host immunity change the source Cryptosporidium course?",
+    "a": "It may self-resolve in immunocompetent hosts but persist with immunodeficiency. The source names nitazoxanide for HIV-associated disease without a complete immune-restoration plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1631",
+    "category": "Infectious disease source details",
+    "q": "Which Giardia forms does the source say to recognize microscopically?",
+    "a": "The cyst and flagellated trophozoite.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1632",
+    "category": "Infectious disease source details",
+    "q": "Which swallowed roundworm does the source associate with intestinal obstruction?",
+    "a": "Ascaris lumbricoides.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1633",
+    "category": "Infectious disease source details",
+    "q": "Which exposure does the source connect with Angiostrongylus eosinophilic meningitis?",
+    "a": "Raw snails/slugs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1634",
+    "category": "Infectious disease source details",
+    "q": "How do hookworms cause anemia in the source?",
+    "a": "Soil-acquired larvae enter through skin; intestinal worms feed on blood, causing iron loss. The source names Ancylostoma and Necator.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1635",
+    "category": "Infectious disease source details",
+    "q": "Which soil-acquired nematode has pulmonary migration in the source?",
+    "a": "Strongyloides stercoralis. This is a source life-cycle clue, not the same organism as Ascaris.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-1636",
+    "category": "Infectious disease source details",
+    "q": "What is the route of acquisition for Schistosoma in the source?",
+    "a": "Skin penetration during freshwater exposure, with snails as intermediate hosts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-1637",
+    "category": "Infectious disease source details",
+    "q": "Which Schistosoma species does the source associate with portal disease versus bladder cancer?",
+    "a": "S. mansoni/japonicum with portal hypertension;S. haematobium with bladder squamous-cell carcinoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-1638",
+    "category": "Infectious disease source details",
+    "q": "Which food exposure does the PDF associate with Paragonimus lung-fluke infection?",
+    "a": "Crab/crayfish ingestion. The source hemoptysis-prevalence ranking is not independently verified.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-1639",
+    "category": "Pharmacology",
+    "q": "How do PPIs and H2 blockers differ pharmacologically in the source?",
+    "a": "PPIs irreversibly inhibit the parietal proton pump;H2 blockers competitively inhibit histamine signaling. The source generally favors PPIs for acid disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-1640",
+    "category": "Pharmacology",
+    "q": "Which antipsychotic-like adverse effects can occur with metoclopramide D2 antagonism?",
+    "a": "Hyperprolactinemia and movement disorders including dystonia, parkinsonism, akathisia and tardive dyskinesia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-1641",
+    "category": "Pharmacology",
+    "q": "Which antiemetic blocks 5-HT3 receptors in the source?",
+    "a": "Ondansetron, commonly used for chemotherapy-associated nausea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-1642",
+    "category": "Pharmacology",
+    "q": "Which common supplements can reduce absorption of tetracyclines, fluoroquinolones or bisphosphonates?",
+    "a": "Calcium and iron can bind/chelate drugs. Appropriate separation depends on the specific product.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1643",
+    "category": "Pharmacology",
+    "q": "How do infliximab/adalimumab differ structurally frometanercept?",
+    "a": "The first are anti-TNF monoclonal antibodies; etanercept is a soluble receptor fusion protein. This mechanism card does not establish an IBD indication for every named drug.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1644",
+    "category": "Pharmacology",
+    "q": "How does octreotide help in the source variceal-bleeding discussion?",
+    "a": "A somatostatin analogue that reduces portal/splanchnic blood flow, alongside definitive urgent care.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1645",
+    "category": "Pharmacology",
+    "q": "How does lactulose promote ammonia elimination in the source?",
+    "a": "Gut bacterial metabolism acidifies luminal contents and traps ammonia as ammonium, favoring fecal elimination.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1646",
+    "category": "Pharmacology",
+    "q": "What lipid-absorption target does the source assign to ezetimibe?",
+    "a": "Reduced intestinal cholesterol absorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1647",
+    "category": "Pharmacology",
+    "q": "How does cholestyramine reduce circulating cholesterol in the source?",
+    "a": "Bile-acid binding interrupts enterohepatic recycling, so hepatic cholesterol is used to replace bile acids.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1648",
+    "category": "Pharmacology",
+    "q": "How do nystatin and fluconazole affect fungal membranes differently?",
+    "a": "Nystatin forms membrane pores via ergosterol binding; fluconazole inhibits ergosterol synthesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-1649",
+    "category": "Pharmacology",
+    "q": "Which antiviral pair does the source use for HSV versus CMV esophageal infection?",
+    "a": "Acyclovir for HSV; ganciclovir for CMV. Both interfere with viral DNA synthesis, with different activation/clinical use.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
   }
 ];

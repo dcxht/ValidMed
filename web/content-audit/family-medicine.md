@@ -60,3 +60,5 @@ Second detail pass pp4-28 adds omitted concepts; unresolved exact claims remain 
 Second detail pass through p43:1454cards,230source figures,51current-source notes; precise outstanding claims remain in editorial ledger.
 
 Second detail pass through p61:1546cards,230figures,54source notes. Source claim reconciliation still pending as listed.
+
+Second detail pass through p78:1649cards,230figures,57source notes. Still Partial.
