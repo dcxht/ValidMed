@@ -490,3 +490,13 @@ Automated regression tests run the actual hydration/session/missed/flag function
 Retired1090 into0580 after sourcepp163/304 confirmed the same cerebral-amyloid-angiopathy recurrence concept. Active3041/230figures/609notes; historical3088 full records. MPTP2830 remains separate from1098 because it tests the PDF's incorrect synonym claim with a separately verified CDC distinction, while1098 asks the causal contaminant.
 
 family-medicine-page-map.md now provides a per-page active-card locator including merged sourcePages. Page184 is explicitly mapped as repetition, not omitted without accounting. This index is not independent verification of every medical statement. Full source mapping/clinical QA and selected long-note/figure mobile checks remain before completion.
+
+## October15 02:07 final precise-source checks
+
+AHA2025 remaining magnesium-table gap CLOSED: read the full issuing-body webpage after Expand All, including the exact recommendation table. Sustained polymorphic VT requires immediate unsynchronized shock(Class1); magnesium may be considered for recurrences associated with prolongedQT/torsades(Class2b,C-LD); routine magnesium with normalQT is not recommended(Class3,no benefit,C-LD). Card0043 now has this exact separate note. Source: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support . The initially fetched text stopped before this table, so only the browser-expanded full text resolved the gap.
+
+ACR2026JIA status rechecked live: issuing-body page remains Step8/post-summary and lists the2026 summary, not a full2026manuscript. Card2451 already explicitly identifies Board-approved summary; this is a source-type limitation, not an invented missing clinical recommendation. https://rheumatology.org/juvenile-idiopathic-arthritis-guideline .
+
+ACOG2023CPG5 original webpage still gates detailed manuscript text, with an October2025clinicalupdate link. External ILPQC reproduction again exposes detailed lithium-ultrasound/monitoring text, but publisher detailed text/update not independently recovered. Do not promote the precise lithium recommendation beyond already verified official/general guidance. https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/06/treatment-and-management-of-mental-health-conditions-during-pregnancy-and-postpartum .
+
+Live390x844 renal-mineral card3079 separately displayed PDF answer and long expert-secondary note in full, Source link and p244link, with bottom review controls readable and no horizontal overflow. Actual screenshot070606inspected. Consolidated hormone card0377 showed both p113andp311links, no overflow; actual screenshot070449inspected.

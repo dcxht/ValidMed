@@ -484,8 +484,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=17"
     },
     "guideline": {
-      "text": "AHA 2025 adult ALS take-home guidance says polymorphic VT is always unstable and needs immediate defibrillation. Magnesium in the source answer must not be taken as a reason to delay a shock. The retrieved passage did not include the full magnesium recurrence recommendation.",
-      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001376"
+      "text": "AHA 2025 recommends immediate unsynchronized shock for sustained polymorphic VT (Class 1). Magnesium may be considered for recurrences with a long QT interval (torsades; Class 2b), but routine magnesium is not recommended with a normal QT interval (Class 3: no benefit). Do not delay a shock for magnesium.",
+      "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support"
     }
   },
   {
