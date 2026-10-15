@@ -31310,5 +31310,95 @@ export default [
       "text": "Merck Professional says some Mallory-Weiss bleeding requires transfusion and endoscopic hemostasis. Bleeding volume is a useful clue but cannot safely exclude the tear.",
       "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/mallory-weiss-syndrome"
     }
+  },
+  {
+    "id": "s2fm-2641",
+    "category": "Gastrointestinal exact-source review",
+    "q": "How does the PDF classify NSAID-associated gastritis by type and location?",
+    "a": "Type A gastritis, affecting the gastric fundus/body, like pernicious anemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-family-medicine.pdf#page=62"
+    },
+    "guideline": {
+      "text": "NIDDK distinguishes autoimmune gastritis from NSAID-related reactive gastropathy or acute erosive gastropathy. Grouping NSAID injury with autoimmune type A disease is not a reliable modern classification.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gastritis-gastropathy/symptoms-causes"
+    }
+  },
+  {
+    "id": "s2fm-2642",
+    "category": "Gastrointestinal exact-source review",
+    "q": "What step of bilirubin handling does the PDF assign to the deficient enzyme in Gilbert syndrome?",
+    "a": "Bilirubin uptake by the liver.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes bilirubin-UGT/UGT1A1 as catalyzing glucuronidation, converting unconjugated to conjugated bilirubin. This is a conjugation defect, not the enzyme directly performing uptake.",
+      "url": "https://medlineplus.gov/genetics/condition/gilbert-syndrome/"
+    }
+  },
+  {
+    "id": "s2fm-2643",
+    "category": "Gastrointestinal exact-source review",
+    "q": "What mandatory confirmatory test follows antimitochondrial antibodies in the PDF primary-biliary-disease algorithm?",
+    "a": "Liver biopsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "NIDDK says AMA positivity with increased alkaline phosphatase may establish PBC even without other symptoms. Biopsy may help confirm uncertain disease, exclude alternatives or assess activity/stage; it is not mandatory after every positive antibody result.",
+      "url": "https://www.niddk.nih.gov/health-information/liver-disease/primary-biliary-cholangitis/diagnosis"
+    }
+  },
+  {
+    "id": "s2fm-2644",
+    "category": "Gastrointestinal exact-source review",
+    "q": "Why does the PDF exclude a common-bile-duct stone in a patient whose gallbladder was removed years ago?",
+    "a": "It says obstruction years after cholecystectomy clearly cannot be a duct stone and favors pancreatic-head cancer in its vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "Merck Professional describes primary duct stones and recurrent duct stones more than 3 years after surgery. Prior cholecystectomy does not exclude choledocholithiasis.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/choledocholithiasis-and-cholangitis"
+    }
+  },
+  {
+    "id": "s2fm-2645",
+    "category": "Hepatobiliary exact-source review",
+    "q": "Why does the PDF put abdominal CT before ERCP in gallstone pancreatitis?",
+    "a": "To look for a pancreatic fluid collection before removing the stone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    },
+    "guideline": {
+      "text": "ACG 2024 guidance reserves CT for uncertain diagnosis or failure to improve after 48-72 hours. Cholangitis complicating pancreatitis calls for ERCP within 24 hours; a routine CT-first step should not delay that.",
+      "url": "https://webfiles.gi.org/links/journals/AJG-Clinical-Guidelines-Highlights-Acute-Pancreatitis-2024-FINAL.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2646",
+    "category": "Hepatobiliary exact-source review",
+    "q": "Which patients does the PDF include among candidates for ursodiol for gallstones?",
+    "a": "Asymptomatic patients, those declining cholecystectomy and pregnant patients.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    },
+    "guideline": {
+      "text": "NIDDK says asymptomatic gallstones usually need no treatment. Nonsurgical dissolution is used only in selected cholesterol-stone circumstances and is not universal therapy for an incidental stone.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/treatment"
+    }
   }
 ];
