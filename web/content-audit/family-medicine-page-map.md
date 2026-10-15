@@ -310,7 +310,7 @@ All source locations after semantic consolidation. This is a locator index, not 
 | 307 | s2fm-0686, s2fm-1097, s2fm-1098, s2fm-2312, s2fm-2313, s2fm-2516, s2fm-3430 | 0 | 2 |
 | 308 | s2fm-0188, s2fm-1101, s2fm-1525, s2fm-2315, s2fm-2541, s2fm-2561, s2fm-3432, s2fm-3433 | 0 | 2 |
 | 309 | s2fm-1102, s2fm-2316, s2fm-2317, s2fm-2542, s2fm-2543, s2fm-3434, s2fm-3435, s2fm-3436, s2fm-3437 | 0 | 0 |
-| 310 | s2fm-0515, s2fm-0881, s2fm-1103, s2fm-1917, s2fm-1920, s2fm-2286, s2fm-2319, s2fm-2320, s2fm-2544, s2fm-3074, s2fm-3438, s2fm-3439, s2fm-3440 | 0 | 1 |
+| 310 | s2fm-0515, s2fm-0881, s2fm-1103, s2fm-1917, s2fm-1920, s2fm-2286, s2fm-2319, s2fm-2320, s2fm-2544, s2fm-3074, s2fm-3438, s2fm-3439, s2fm-3440 | 0 | 2 |
 | 311 | s2fm-0370, s2fm-0374, s2fm-0377, s2fm-2321, s2fm-2333, s2fm-2334, s2fm-3075, s2fm-3441 | 0 | 4 |
 | 312 | s2fm-1106, s2fm-1107, s2fm-1108, s2fm-1109, s2fm-1777, s2fm-2323, s2fm-2545, s2fm-2557, s2fm-2558, s2fm-2559, s2fm-3112, s2fm-3442, s2fm-3443 | 0 | 3 |
 | 313 | s2fm-0233, s2fm-1110, s2fm-1111, s2fm-1112, s2fm-1113, s2fm-1557, s2fm-2325, s2fm-2659, s2fm-3444, s2fm-3445 | 0 | 2 |

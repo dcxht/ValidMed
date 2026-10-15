@@ -42470,7 +42470,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=273"
     },
     "guideline": {
-      "text": "ATA 2026 pregnancy guideline Table 17 allows PTU when initiating therapy before 16 weeks and individualized consideration of switching early-pregnancy methimazole to PTU. Its footnote explicitly says that if treatment is still needed after 16 weeks, whether to continue PTU or switch to methimazole remains unclear. The PDF automatic trimester switch is therefore not a universal current rule. This passage was read in the author-university repository copy of the published guideline, with title, authors and DOI matched to the publisher record.",
+      "text": "ATA 2026 pregnancy guideline Table 17 allows PTU when initiating therapy before 16 weeks and individualized consideration of switching early-pregnancy methimazole to PTU. Its footnote explicitly says that if treatment is still needed after 16 weeks, whether to continue PTU or switch to methimazole remains unclear. The PDF automatic trimester switch is therefore not a universal current rule.",
       "url": "https://pure.eur.nl/ws/portalfiles/portal/250480178/American_Thyroid_Association_2026_Guidelines_for_Thyroid_Disease_in_Preconception_Pregnancy_and_Postpartum.pdf"
     }
   },
@@ -43491,6 +43491,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 310,
       "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    },
+    "guideline": {
+      "text": "ATA 2026 describes variable postpartum-thyroiditis trajectories: women may present during only the thyrotoxic phase, only the hypothyroid phase, or both. The guideline explicitly says phase timing and clinical presentation vary. A fixed hypothyroid presentation at four weeks is a source vignette, not a diagnostic requirement; postpartum Graves disease is an important different cause of thyrotoxicosis.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/250480178/American_Thyroid_Association_2026_Guidelines_for_Thyroid_Disease_in_Preconception_Pregnancy_and_Postpartum.pdf"
     }
   },
   {
