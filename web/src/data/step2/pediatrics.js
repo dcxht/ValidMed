@@ -15812,5 +15812,264 @@ export default [
       "text": "Merck describes late congenital findings typically after age two, including Hutchinson incisors, interstitial keratitis and eighth-nerve deafness. Newborns may be asymptomatic, so the absence of late dental or shin findings does not exclude congenital syphilis in a neonate.",
       "url": "https://www.merckmanuals.com/professional/pediatrics/infections-in-neonates/congenital-syphilis"
     }
+  },
+  {
+    "id": "s2peds-1134",
+    "category": "Puberty and growth",
+    "q": "What does the source mean by menarche is imminent at Tanner stage 3?",
+    "a": "The PDF uses Tanner stage 3 as an exam cue that menarche is approaching, not as a guarantee that bleeding must begin immediately. Breast maturation and elapsed time since thelarche help judge the timing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck describes menarche about two to three years after breast budding and after peak height velocity. The source stage-3 shortcut is not a clinical deadline or a reason to ignore absent progression.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
+    }
+  },
+  {
+    "id": "s2peds-1135",
+    "category": "Puberty and growth",
+    "q": "What is the source next step for an otherwise well 13- or 14-year-old without menses who is progressing through Tanner stage 2 or 3?",
+    "a": "Schedule follow-up in six months in the source uncomplicated vignette. Ongoing normal pubertal progression at this age can justify observation rather than an immediate extensive workup.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck recommends evaluation for no breast development by 13, no menarche by 15, more than three years from breast development to menarche, or stalled progression. A 14-year-old whose thelarche began over three years ago or who has concerning symptoms is not covered by blanket reassurance.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/delayed-puberty"
+    }
+  },
+  {
+    "id": "s2peds-1136",
+    "category": "Puberty and growth",
+    "q": "Why can Turner syndrome show Tanner stage 1-2 breasts but stage 4-5 pubic or axillary hair?",
+    "a": "Ovarian dysgenesis can limit estrogen-dependent breast development while adrenal androgens still support pubic and axillary hair. Advanced hair staging does not prove normal ovarian function.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck distinguishes adrenarche, which produces adrenal DHEA/DHEAS and sexual hair, from gonadal puberty. Tanner breast and hair stages must be recorded separately; the PDF pattern is compatible with Turner syndrome but is not required in every patient.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
+    }
+  },
+  {
+    "id": "s2peds-1137",
+    "category": "Puberty and growth",
+    "q": "What breast and sexual-hair pattern does the source associate with complete androgen insensitivity?",
+    "a": "A 46,XY individual with a female external phenotype, normal breast development (often Tanner 4-5), and scant or absent pubic/axillary hair (the source calls this Tanner 1). The combination differs from ovarian failure with preserved adrenal hair.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "GeneReviews describes normal breast development and sparse to absent sexual hair in complete AIS, often presenting with primary amenorrhea. AIS has complete, partial and mild forms; the source pattern should not be generalized to all androgen-insensitivity phenotypes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1429/"
+    }
+  },
+  {
+    "id": "s2peds-1138",
+    "category": "Puberty and growth",
+    "q": "What is bone age, and which radiograph is used in assessing a short child?",
+    "a": "Bone age is the degree of skeletal maturation assessed radiographically, compared with chronologic age. A left hand and wrist radiograph is the conventional study.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck recommends bone age assessment when growth is abnormal. It estimates remaining growth potential and can help predict adult height, but it does not establish a diagnosis by itself.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/delayed-puberty"
+    }
+  },
+  {
+    "id": "s2peds-1139",
+    "category": "Puberty and growth",
+    "q": "What is the source interpretation of a short 14-year-old boy with average-height parents and a bone age of 12?",
+    "a": "Constitutional delay of growth and puberty is the intended answer: skeletal maturation is delayed, leaving more time for later growth. The source expects catch-up rather than permanent short adult height.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Pediatric Endocrine Society describes normal growth velocity, delayed bone age often two or more years, and a family history of late maturation as supportive features. Most reach height appropriate for their family, but delayed bone age alone does not guarantee catch-up or exclude disease.",
+      "url": "https://pedsendo.org/patient-resource/constitutional-growth-delay/"
+    }
+  },
+  {
+    "id": "s2peds-1140",
+    "category": "Puberty and growth",
+    "q": "Does any bone age below chronologic age prove constitutional growth delay?",
+    "a": "No. It supports the source constitutional-delay vignette only when the overall growth pattern and evaluation fit. A short child still needs assessment of growth velocity, family height, nutrition and symptoms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck calls constitutional delay a diagnosis of exclusion and lists chronic illness, undernutrition, thyroid disease, other hormone deficiencies and genetic disorders among alternative causes. Do not turn the PDF shorthand into an unconditional prediction of normal adult height.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/delayed-puberty"
+    }
+  },
+  {
+    "id": "s2peds-1141",
+    "category": "Puberty and growth",
+    "q": "How can the source signal constitutional delay without supplying a bone age?",
+    "a": "It may describe a short 14-year-old boy with Tanner stage 2 pubic hair, implying that pubertal development is still early and a later growth spurt may remain. This is an exam clue, not a complete clinical assessment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck explicitly excludes pubic hair alone from the definition of gonadal puberty because it reflects adrenarche. In boys, no testicular enlargement by 14 warrants evaluation even if some pubic hair is present. Assess testicular development, not hair staging alone.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/delayed-puberty"
+    }
+  },
+  {
+    "id": "s2peds-1142",
+    "category": "Puberty and growth",
+    "q": "What does the source intend when a short child has bone age equal to chronologic age, and is this diagnostic of Turner syndrome?",
+    "a": "The PDF contrasts this with constitutional delay and calls it genuine short stature, citing Turner vignettes with adult height under five feet. Concordant bone age suggests less delayed maturation, but is not a Turner test or proof of one adult height.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Pediatric Endocrine Society notes that familial short stature often has bone age within about a year of chronologic age. Interpret bone age with growth velocity, family height and physical findings; neither normal bone age nor a height cutoff diagnoses or excludes Turner syndrome.",
+      "url": "https://pedsendo.org/patient-resource/constitutional-growth-delay/"
+    }
+  },
+  {
+    "id": "s2peds-1143",
+    "category": "Puberty and growth",
+    "q": "Using the actual source Tanner chart, what distinguishes breast stages 1 and 2?",
+    "a": "Stage 1: papilla elevation only, without a breast bud. Stage 2: breast budding, thelarche. Breast stage 2 indicates the start of visible estrogen-dependent puberty.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Tanner staging describes breast development separately from pubic hair and male genital development. Do not assign one global stage from whichever feature looks most mature.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470280/"
+    },
+    "img": "/mehlman/figures/peds-p080-tanner-stages.jpg",
+    "imgAlt": "Actual page 80 Tanner chart comparing stages 1-5 of genital, pubic hair and breast development"
+  },
+  {
+    "id": "s2peds-1144",
+    "category": "Puberty and growth",
+    "q": "What breast contours distinguish Tanner stages 3, 4 and 5 in the source chart?",
+    "a": "Stage 3: enlargement of breast and areola. Stage 4: the areola and papilla project as a secondary mound above the breast. Stage 5: the areola returns to the general breast contour, with the papilla still projecting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "The Tanner review defines stage 3 as continued enlargement without contour separation, stage 4 as the secondary areolar mound, and stage 5 as mature breast contour. These are morphology stages, not fixed ages.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470280/"
+    }
+  },
+  {
+    "id": "s2peds-1145",
+    "category": "Puberty and growth",
+    "q": "What pubic-hair progression does the source Tanner chart show from stage 1 through stage 3?",
+    "a": "Stage 1: no pubic hair. Stage 2: sparse hair chiefly along the labia or base of the penis. Stage 3: darker, coarser and more curled hair. This hair scale is independent of the breast or genital scale.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "The Tanner review separates no pubic hair, downy hair and early terminal hair into stages 1, 2 and 3. It emphasizes that adrenal and gonadal maturation are independent, so sexual hair is not by itself proof of gonadal puberty.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470280/"
+    }
+  },
+  {
+    "id": "s2peds-1146",
+    "category": "Puberty and growth",
+    "q": "How do pubic-hair Tanner stages 4 and 5 differ in the source figure?",
+    "a": "Stage 4 has adult-type hair but over a smaller area. Stage 5 has adult distribution extending onto the medial thighs. Hair texture alone cannot distinguish these two stages; distribution matters.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "The Tanner review separates adult-type pubic hair without thigh spread at stage 4 from adult distribution with spread to the medial thighs at stage 5.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470280/"
+    }
+  },
+  {
+    "id": "s2peds-1147",
+    "category": "Puberty and growth",
+    "q": "What male genital progression is intended in source Tanner stages 1 and 2, and which printed volume needs correction?",
+    "a": "Stage 1 is prepubertal. Stage 2 starts with testicular/scrotal enlargement and scrotal skin change. The chart prints testicular volume under 3 mL for both rows; do not use that repeated stage-2 value as the clinical threshold.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Pediatric Endocrine Society defines pubertal testicular enlargement as at least 4 mL or 2.5 cm in long diameter and recommends evaluation if this has not occurred by 14. The PDF stage-2 under-3-mL label is inconsistent with this threshold.",
+      "url": "https://pedsendo.org/clinical-resource/child-with-suspected-delayed-puberty/"
+    }
+  },
+  {
+    "id": "s2peds-1148",
+    "category": "Puberty and growth",
+    "q": "How does the source chart distinguish male genital Tanner stages 3, 4 and 5?",
+    "a": "Stage 3: increased penile size with further testicular enlargement. Stage 4: further penile and testicular enlargement with development of the glans. Stage 5: adult genital size and shape.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "The Tanner review uses separate male-genital and pubic-hair scales and identifies testicular enlargement as the first visible gonadal pubertal change. Genital staging and sexual-hair staging may differ in the same boy.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470280/"
+    }
+  },
+  {
+    "id": "s2peds-1149",
+    "category": "Puberty and growth",
+    "q": "What does the actual source puberty timeline show, and how does TAPM relate to its early events?",
+    "a": "The bars put adrenal androgen production first, followed by visible thelarche, a growth spurt, pubarche and then menarche. The PDF gives TAPM (tap em) as a mnemonic for the sequence, yet its own figure places adrenal androgen production before breast budding. Do not use the mnemonic to reverse that physiologic order.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck distinguishes adrenarche, an adrenal androgen rise beginning several years before puberty, from visible pubic/axillary hair. Breast budding is usually the first recognized gonadal pubertal change, with sexual hair appearing later and menarche about two to three years after budding. Timeline ages are ranges, not deadlines.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
+    },
+    "img": "/mehlman/figures/peds-p080-puberty-timeline.jpg",
+    "imgAlt": "Actual page 80 timeline with adrenarche, thelarche, growth spurt, pubarche and menarche bars"
+  },
+  {
+    "id": "s2peds-1150",
+    "category": "Puberty and growth",
+    "q": "What is thelarche, and how is adrenarche different from pubarche?",
+    "a": "Thelarche is onset of breast development. Adrenarche is increased production of adrenal androgens; pubarche is the appearance of pubic hair. Adrenal androgens promote pubic and axillary hair but their production can rise before visible hair appears.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 80,
+      "url": "/mehlman/hy-pediatrics.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Merck identifies DHEA and DHEAS as adrenal androgens driving sexual hair and distinguishes that process from estrogen-dependent breast development. The source final definition links the hormone rise to its later visible effects; those are related, not identical events.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/female-reproductive-endocrinology/female-reproductive-endocrinology"
+    }
   }
 ];
