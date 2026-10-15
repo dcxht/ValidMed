@@ -19396,4 +19396,176 @@ export default [
       "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/herpes-zoster"
     }
   }
+,
+  {
+    "id": "s2peds-1369",
+    "category": "Pediatric infectious disease",
+    "q": "What name and causative virus does the source give for shingles?",
+    "a": "Shingles is also called herpes zoster and is caused by varicella-zoster virus (VZV).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck likewise describes herpes zoster as reactivation of VZV from latency in a dorsal root ganglion.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/herpes-zoster"
+    }
+  },
+  {
+    "id": "s2peds-1370",
+    "category": "Pediatric infectious disease",
+    "q": "Why does the source say “herpes zoster” is not the virus name?",
+    "a": "Herpes zoster is just another name for the shingles illness. The virus is VZV, human herpesvirus 3, not HSV-1 or HSV-2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck states that chickenpox and herpes zoster are both caused by varicella-zoster virus, human herpesvirus type 3.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/herpes-zoster"
+    }
+  },
+  {
+    "id": "s2peds-1371",
+    "category": "Pediatric dermatology",
+    "q": "Which eruption is shown by the p96 herald patch with smaller secondary lesions?",
+    "a": "Pityriasis rosea. The larger pink ellipse is the herald patch.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck describes a 2-to-10-cm herald patch followed within 7 to 14 days by smaller rose- or fawn-colored oval papules and plaques.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/psoriasis-and-other-papulosquamous-disorders/pityriasis-rosea"
+    },
+    "img": "/mehlman/figures/peds-p096-pityriasis-rosea.png",
+    "imgAlt": "Actual source photograph of pityriasis rosea with a larger herald patch and smaller truncal lesions"
+  },
+  {
+    "id": "s2peds-1372",
+    "category": "Pediatric dermatology",
+    "q": "What cause and course does the source give for pityriasis rosea?",
+    "a": "HHV-6 or HHV-7, and it is self-limiting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck calls the cause possible viral infection and says research has implicated HHV-6, HHV-7 and HHV-8. Keep the source HHV-6/7 phrase as exam wording, not as proof of a settled cause.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/psoriasis-and-other-papulosquamous-disorders/pityriasis-rosea"
+    }
+  },
+  {
+    "id": "s2peds-1373",
+    "category": "Pediatric dermatology",
+    "q": "What lesion sequence and distribution does the source teach for pityriasis rosea?",
+    "a": "A larger herald patch starts on the back or trunk, then the eruption spreads upward onto the shoulder blades in a “Christmas tree distribution.”",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck confirms a truncal herald patch followed by a centripetal secondary eruption and says lesions along back skin-cleavage lines produce the Christmas tree pattern.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/psoriasis-and-other-papulosquamous-disorders/pityriasis-rosea"
+    }
+  },
+  {
+    "id": "s2peds-1374",
+    "category": "Pediatric dermatology",
+    "q": "What age clue does the source give for pityriasis rosea?",
+    "a": "It can occur in teenagers, although it is more common in people in their 20s.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck says pityriasis rosea most commonly occurs between ages 10 and 35.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/psoriasis-and-other-papulosquamous-disorders/pityriasis-rosea"
+    }
+  },
+  {
+    "id": "s2peds-1375",
+    "category": "Pediatric dermatology",
+    "q": "Which eruption is shown by the p96 spotty hypopigmented truncal photograph?",
+    "a": "Tinea versicolor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck describes multiple asymptomatic scaly patches ranging from white to tan, brown or pink, often becoming conspicuous in summer because the lesions do not tan.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-versicolor"
+    },
+    "img": "/mehlman/figures/peds-p096-tinea-versicolor.png",
+    "imgAlt": "Actual source photograph of tinea versicolor with spotty hypopigmentation across the back"
+  },
+  {
+    "id": "s2peds-1376",
+    "category": "Pediatric dermatology",
+    "q": "What organism and pigment clue does the source give for tinea versicolor?",
+    "a": "Malassezia furfur causes spotty hypopigmentation, classically in a patient from a subtropical area such as Florida.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck confirms Malassezia furfur and explains that its azelaic acid inhibits tyrosinase, causing hypopigmentation. Heat and humidity predispose.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-versicolor"
+    }
+  },
+  {
+    "id": "s2peds-1377",
+    "category": "Pediatric dermatology",
+    "q": "What activity clue does the source give for tinea versicolor in teenagers?",
+    "a": "A teenager who surfs or goes to the beach.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck does not require a surfing history; heat, humidity and summer tanning make the hypopigmented lesions more noticeable. Treat the beach vignette as the source's pattern clue, not a diagnostic requirement.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-versicolor"
+    }
+  },
+  {
+    "id": "s2peds-1378",
+    "category": "Pediatric dermatology",
+    "q": "What treatment does the source give for tinea versicolor?",
+    "a": "Topical selenium.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck lists selenium sulfide 2.5% shampoo applied to skin as one topical option; topical azoles are alternatives, with oral fluconazole for extensive or frequently recurrent disease.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-versicolor"
+    }
+  },
+  {
+    "id": "s2peds-1379",
+    "category": "Pediatric dermatology",
+    "q": "Which diagnosis does the p96 papule photograph label introduce?",
+    "a": "Molluscum contagiosum. The p96 source gives only the label and photograph; the poxvirus, umbilication and pool-party details continue on p97.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 96,
+      "url": "/mehlman/hy-pediatrics.pdf#page=96"
+    },
+    "guideline": {
+      "text": "Merck says molluscum is usually diagnosed clinically from its characteristic appearance. Its current cause and morphology comparison is kept with the p97 source continuation.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/viral-skin-diseases/molluscum-contagiosum"
+    },
+    "img": "/mehlman/figures/peds-p096-molluscum-contagiosum.png",
+    "imgAlt": "Actual source photograph labeled molluscum contagiosum showing several raised papules"
+  }
 ];
