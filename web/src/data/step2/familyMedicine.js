@@ -19917,6 +19917,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 98,
       "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "CDC STI guidance bases likely cause and testing on STI exposure, insertive anal sex, bacteriuria/outlet obstruction, instrumentation and other risks. Age alone is not a strict STI-versus-E. coli cutoff. Test suspected acute epididymitis for chlamydia/gonorrhea by NAAT and obtain bacterial urine culture.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/epididymitis.htm"
     }
   },
   {
@@ -32330,6 +32334,154 @@ export default [
     "guideline": {
       "text": "FDA Celebrex labeling includes a boxed warning for serious gastrointestinal bleeding, ulceration and perforation, including fatal events. COX-2 selectivity does not eliminate GI risk.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020998s058lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2720",
+    "category": "Osteoarthritis source treatment review",
+    "q": "What first oral medication does the PDF choose for osteoarthritis, and why does it discount NSAIDs?",
+    "a": "Acetaminophen; it says OA is noninflammatory and NSAIDs offer no added benefit.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    },
+    "guideline": {
+      "text": "ACR/Arthritis Foundation 2019 guidance strongly recommends oral NSAIDs and calls them the initial oral medication of choice for hand/hip/knee OA when appropriate. Acetaminophen is conditional, with small average benefit; individual GI, renal, cardiovascular and liver risks still guide selection.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10518852/"
+    }
+  },
+  {
+    "id": "s2fm-2721",
+    "category": "Reproductive source details",
+    "q": "What does the source infer from no trauma or lacerations in a child with a vaginal foreign body?",
+    "a": "It says the absence of physical trauma means not abuse.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "AAP clinical guidance says most sexually abused children have normal anogenital examinations. A normal examination neither confirms nor excludes abuse; foreign-body evaluation does not authorize this categorical inference.",
+      "url": "https://publications.aap.org/pediatrics/article/132/2/e558/31459/The-Evaluation-of-Children-in-the-Primary-Care"
+    }
+  },
+  {
+    "id": "s2fm-2722",
+    "category": "Reproductive source details",
+    "q": "What age threshold does the PDF use for treatment of persistent cryptorchidism?",
+    "a": "No treatment before six months; orchiopexy after six months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "AUA 2025 guideline uses corrected gestational age: refer if no descent by six months, and specialists should perform surgery within the following year. Early specialist assessment for concerning findings remains separate from routine timing.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/cryptorchidism-guideline"
+    }
+  },
+  {
+    "id": "s2fm-2723",
+    "category": "Reproductive source details",
+    "q": "What mechanism does the source give for hydrocele?",
+    "a": "A patent processus vaginalis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "Cleveland Clinic distinguishes congenital hydroceles, including trapped fluid after the processus closes, from acquired hydroceles after injury or inflammation/infection. Not every hydrocele proves an open processus.",
+      "url": "https://my.clevelandclinic.org/health/diseases/16294-hydrocele"
+    }
+  },
+  {
+    "id": "s2fm-2724",
+    "category": "Reproductive source details",
+    "q": "What conservative timing does the PDF give for an infant hydrocele?",
+    "a": "Observe before age one because most resolve spontaneously; this is the source uncomplicated-infant rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-2725",
+    "category": "Reproductive source details",
+    "q": "Which varicocele laterality exception does the source specifically mention?",
+    "a": "Bilateral varicoceles can occur despite its usual left-sided pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-2726",
+    "category": "Reproductive source details",
+    "q": "What source physical clue should prompt evaluation for testicular cancer even without a classic hard nodule?",
+    "a": "A nontransilluminating testicular mass that does not fit an uncomplicated fluid collection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-2727",
+    "category": "Reproductive source details",
+    "q": "What medication-history change does the source associate with unopposed estrogen and endometrial cancer?",
+    "a": "Stopping the progesterone component of hormone replacement while continuing estrogen in a patient with an endometrium.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-2728",
+    "category": "Reproductive source details",
+    "q": "Which organisms does the PDF choose for a Bartholin gland abscess?",
+    "a": "Polymicrobial infection, rather than a mandatory single STI organism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-2729",
+    "category": "Reproductive source details",
+    "q": "What initial care does the source name for an uncomplicated Bartholin cyst?",
+    "a": "Sitz baths and warm compresses; an overt abscess instead needs drainage assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-2730",
+    "category": "Reproductive source details",
+    "q": "What histologic features does the PDF list for lichen sclerosus?",
+    "a": "Atrophy, hyperkeratosis and a band of dermal lymphocytes; it is not itself neoplasia, dysplasia or metaplasia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-2731",
+    "category": "Reproductive source details",
+    "q": "What urinary obstruction can accompany source cervical carcinoma?",
+    "a": "Unilateral or bilateral hydroureter/hydronephrosis, sometimes alongside vaginal bleeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
     }
   }
 ];
