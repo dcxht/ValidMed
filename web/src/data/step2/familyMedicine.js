@@ -2295,7 +2295,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 58,
       "url": "/mehlman/hy-family-medicine.pdf#page=58"
-    }
+    },
+    "sourcePages": [
+      58,
+      120
+    ]
   },
   {
     "id": "s2fm-0196",
@@ -3992,7 +3996,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 103,
       "url": "/mehlman/hy-family-medicine.pdf#page=103"
-    }
+    },
+    "sourcePages": [
+      103
+    ]
   },
   {
     "id": "s2fm-0345",
@@ -4102,7 +4109,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 106,
       "url": "/mehlman/hy-family-medicine.pdf#page=106"
-    }
+    },
+    "sourcePages": [
+      106
+    ]
   },
   {
     "id": "s2fm-0355",
@@ -4242,7 +4252,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 109,
       "url": "/mehlman/hy-family-medicine.pdf#page=109"
-    }
+    },
+    "sourcePages": [
+      109
+    ]
   },
   {
     "id": "s2fm-0367",
@@ -4456,7 +4469,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=116"
     },
     "img": "/s2img/fm-116-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      116
+    ]
   },
   {
     "id": "s2fm-0385",
@@ -4560,7 +4576,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=119"
     },
     "img": "/s2img/fm-119-1.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      119
+    ]
   },
   {
     "id": "s2fm-0393",
@@ -4599,7 +4618,10 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=120"
     },
     "img": "/s2img/fm-120-1.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      120
+    ]
   },
   {
     "id": "s2fm-0396",
@@ -20561,7 +20583,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 103,
       "url": "/mehlman/hy-family-medicine.pdf#page=103"
-    }
+    },
+    "duplicateOf": "s2fm-0344"
   },
   {
     "id": "s2fm-1755",
@@ -20679,7 +20702,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 106,
       "url": "/mehlman/hy-family-medicine.pdf#page=106"
-    }
+    },
+    "duplicateOf": "s2fm-0354"
   },
   {
     "id": "s2fm-1765",
@@ -20771,7 +20795,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 109,
       "url": "/mehlman/hy-family-medicine.pdf#page=109"
-    }
+    },
+    "duplicateOf": "s2fm-0366"
   },
   {
     "id": "s2fm-1773",
@@ -21025,7 +21050,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 116,
       "url": "/mehlman/hy-family-medicine.pdf#page=116"
-    }
+    },
+    "duplicateOf": "s2fm-0384"
   },
   {
     "id": "s2fm-1795",
@@ -33695,7 +33721,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 119,
       "url": "/mehlman/hy-family-medicine.pdf#page=119"
-    }
+    },
+    "duplicateOf": "s2fm-0392"
   },
   {
     "id": "s2fm-2792",
@@ -33717,7 +33744,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 120,
       "url": "/mehlman/hy-family-medicine.pdf#page=120"
-    }
+    },
+    "duplicateOf": "s2fm-0395"
   },
   {
     "id": "s2fm-2794",
@@ -33728,7 +33756,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 120,
       "url": "/mehlman/hy-family-medicine.pdf#page=120"
-    }
+    },
+    "duplicateOf": "s2fm-0195"
   },
   {
     "id": "s2fm-2795",
@@ -37516,6 +37545,146 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 76,
       "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-3105",
+    "category": "Final source-mapping details",
+    "q": "What source next step follows HSIL colposcopy when the entire squamocolumnar junction cannot be seen?",
+    "a": "Cone biopsy, in the PDF exam example. This is its diagnostic-escalation statement rather than a complete risk-based cervical-management algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-3106",
+    "category": "Final source-mapping details",
+    "q": "How does the PDF contrast simple and complex breast cysts on ultrasound?",
+    "a": "It calls simple cysts hypoechoic/black and fluid-filled; complex cysts have a solid echogenic component. This is the source simplification, not a complete BI-RADS assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-3107",
+    "category": "Final source-mapping details",
+    "q": "When does the PDF consider draining an otherwise simple breast cyst?",
+    "a": "For discomfort, such as a large symptomatic cyst; it says there is no fixed size threshold in its exam framework.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-3108",
+    "category": "Final source-mapping details",
+    "q": "Which findings does the PDF use for methotrexate eligibility in a small stable ectopic pregnancy?",
+    "a": "Hemodynamic stability, no rupture or intraperitoneal fluid, size below 3.5 cm and beta-hCG below 5000 mIU/mL. These source thresholds alone are not a full eligibility or follow-up assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "NICE NG126, current page reviewed October 2026: methotrexate also requires definitive tubal ectopic diagnosis, exclusion of viable intrauterine pregnancy, no significant pain, no fetal heartbeat and reliable follow-up. Below 1500 IU/L offer methotrexate if suitable; 1500-4999 offer a choice with surgery; 5000 or more favors surgery. Check hCG days 4/7 then weekly until negative.",
+      "url": "https://www.nice.org.uk/guidance/ng126/chapter/Management-of-tubal-ectopic-pregnancy"
+    }
+  },
+  {
+    "id": "s2fm-3109",
+    "category": "Final source-mapping details",
+    "q": "Which operations does the source name if ectopic pregnancy cannot be managed with methotrexate?",
+    "a": "Laparoscopic salpingostomy or salpingectomy; it chooses laparotomy rather than laparoscopy if the patient is hemodynamically unstable. Actual approach depends on emergency assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "NICE NG126 recommends laparoscopy whenever possible while taking condition and surgical complexity into account. Salpingectomy is generally offered; salpingotomy can be considered with other infertility risks, with follow-up and possible additional treatment. The source rigid operative distinction is not the full guideline.",
+      "url": "https://www.nice.org.uk/guidance/ng126/chapter/Management-of-tubal-ectopic-pregnancy"
+    }
+  },
+  {
+    "id": "s2fm-3110",
+    "category": "Final source-mapping details",
+    "q": "What source medication and procedural options are listed for endometriosis versus adenomyosis?",
+    "a": "Endometriosis: NSAIDs/OCPs for short-term symptoms and laparoscopic lesion removal as its definitive answer. Adenomyosis: NSAIDs/OCPs, with leuprolide mentioned as a possible agent. These are source options, not complete individualized plans.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-3111",
+    "category": "Final source-mapping details",
+    "q": "What does the PDF say condoms add for someone already using another contraceptive method while taking isotretinoin?",
+    "a": "Barrier protection in addition to the other method, in its pregnancy-prevention discussion. This is not a complete current isotretinoin program checklist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-3112",
+    "category": "Final source-mapping details",
+    "q": "What cancer-risk reductions does the source associate with combined oral contraceptives?",
+    "a": "Lower ovarian and endometrial cancer risk. Its explanation is synchronization of cycles; this card records that source explanation rather than independently verifying the mechanism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-3113",
+    "category": "Final source-mapping details",
+    "q": "When does the source consider systemic estrogen without a progestogen?",
+    "a": "After hysterectomy, because there is no endometrium needing progestogen protection in its example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-3114",
+    "category": "Final source-mapping details",
+    "q": "What mechanism does the PDF propose for reduced libido during hormone replacement therapy?",
+    "a": "Reduced endogenous androgen production through hypothalamic-pituitary negative feedback, lowering GnRH/LH/FSH. This is a source mechanism claim, not a universal patient effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-3115",
+    "category": "Final source-mapping details",
+    "q": "What treatment does the PDF name for herpetic whitlow?",
+    "a": "Topical and oral acyclovir, in its brief source entry rather than a complete treatment algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2fm-3116",
+    "category": "Final source-mapping details",
+    "q": "Which adrenal-support drug does the source name after saline in meningococcal Waterhouse-Friderichsen shock?",
+    "a": "Hydrocortisone in its adrenal-failure example. This does not replace urgent antibiotics, shock treatment or sepsis care.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-family-medicine.pdf#page=117"
     }
   }
 ];

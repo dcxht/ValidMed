@@ -528,3 +528,9 @@ Final source/card mapping now throughp80. Nine duplicate concepts retired and al
 ## October15 02:15 source mapping pp81-100
 
 Read/reconciled all source and mapped cards pp81-100. Five further exact repeats retired with flattened direct canonical mapping; small spacing fixes in heme/reproductive prompts. AGA pancreatic-necrosis advice read in full at https://gastro.org/clinical-guidance/management-of-pancreatic-necrosis/ : verified note3102 distinguishes infected necrosis from sterile disease, rather than a general imipenem-for-pancreatitis rule.3103carries the already verified ACG2024regimen distinction. Current3001active/3104historical/103retired/230figures/613notes. Mapping now throughp100; not a statement that all facts received fresh independent clinical verification.
+
+## October15 02:17 source mapping pp101-120
+
+Detailed source/card reconciliation now throughp120. Seven exact repeats retired with preserved IDs/links. Added3105-3116for actual gaps: incompleteHSIL colposcopy cone, source breast-cyst imaging/drainage, ectopicmethotrexate thresholds/operative alternatives, endometriosis/adenomyosis treatments, condom counseling/cancer-risk source claims, estrogen-only afterhysterectomy/HRTlibido mechanism, whitlow therapy and hydrocortisone aftersaline in source meningococcal adrenalshock. NICEcurrentNG126tubal page read completely;3108/3109have separate verification notes about definitive diagnosis, eligibility/follow-up and condition-sensitive surgery.
+
+Remaining exact clinical-source details flagged while mapping: sourcep100HIVPap schedule and low-gradeCIN follow-up, p101family-history/under30screening framing and hormone clotting-factor mechanism, p112IUDuterine-migration risk/combined-pill cervical-risk explanation, p116sourceStaphbeta-lactamasepercentage. These must be covered or explicitly reconciled before final completion; not silently excluded. Current3006active/3116historical/110retired/230figures/615notes.
