@@ -1427,3 +1427,5 @@ body {
 .rotation-pending { color:var(--text-secondary); font-size:12px; padding-top:8px; }
 .q-card { max-height:calc(100dvh - 265px); }
 .practice-heading { margin-bottom:10px; }
+.partial-tag { color:var(--text-secondary); background:#f3f4f6; border:1px solid var(--border); border-radius:5px; font-size:10px; padding:2px 6px; }
+.practice-heading { margin-bottom:4px; }

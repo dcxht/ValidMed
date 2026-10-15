@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { Analytics } from "@vercel/analytics/react";
-import { BANKS } from "./data/banks";
 import Questions from "./components/Questions";
 import RotationPdfs from "./components/RotationPdfs";
 import "./App.css";
@@ -24,7 +23,7 @@ export default function App() {
       <main className="app-main">
         {resources ? <RotationPdfs /> : <>
           <div className="practice-heading">
-            <p>{BANKS.s2fm.questions.length} FM cards · Selected points, pp. 4-28 / 319. Full coverage in progress.</p>
+            <p><span className="partial-tag">Partial</span></p>
           </div>
           <Questions />
         </>}

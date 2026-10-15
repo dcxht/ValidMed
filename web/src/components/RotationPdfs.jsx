@@ -12,20 +12,15 @@ const ROTATIONS = [
 export default function RotationPdfs() {
   return (
     <section className="rotation-library" aria-labelledby="rotation-title">
-      <div className="rotation-intro">
-        <h2 id="rotation-title">Rotation resources</h2>
-        <p>Question practice first. Source PDFs are here when you need them.</p>
-        <p className="rotation-status">FM practice: {BANKS.s2fm.questions.length} source-linked cards. {BANKS.s2fm.coverage} Other rotations are in progress.</p>
-        <p className="rotation-note">Full PDFs may include both Step 1 and Step 2 material. This view groups them for shelf prep; it does not filter their contents.</p>
-      </div>
+      <div className="rotation-intro"><h2 id="rotation-title">Rotations</h2></div>
       <div className="rotation-list">
         {ROTATIONS.map((rotation, index) => (
           <article className="rotation-resource" key={rotation.pdf}>
             <span className="rotation-number" aria-hidden="true">{index + 1}</span>
             <div className="rotation-detail">
               <h3>{rotation.name}</h3>
-              <p>{rotation.title}</p>
-              {index === 0 ? <a className="rotation-practice" href="#practice">Review questions · {BANKS.s2fm.questions.length} →</a> : <p className="rotation-pending">Question bank not added yet</p>}
+              
+              {index === 0 ? <a className="rotation-practice" href="#practice">Review questions · {BANKS.s2fm.questions.length} →</a> : <p className="rotation-pending">Coming next</p>}
               <div className="rotation-links">
                 <a className="rotation-pdf" href={`/mehlman/${rotation.pdf}.pdf`} target="_blank" rel="noreferrer">PDF ↗</a>
               </div>
@@ -36,7 +31,6 @@ export default function RotationPdfs() {
       </div>
       <footer className="rotation-footer">
         <p>PDFs by Mehlman Medical.</p>
-        <p>No dedicated PDF for the wellness block. Electives depend on the subject.</p>
       </footer>
     </section>
   );

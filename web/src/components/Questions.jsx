@@ -95,7 +95,14 @@ function loadState(bank) {
     const raw = localStorage.getItem(storageKey(bank));
     if (raw) {
       const state = JSON.parse(raw);
-      if (state && Array.isArray(state.queue)) state.queue = state.queue.map(hydrateQ);
+      if (state && Array.isArray(state.queue)) {
+        state.queue = state.queue.map(hydrateQ).filter((q) => QUESTION_BY_ID[q.id]);
+        if (BANKS[bank]) {
+          const present = new Set(state.queue.map((q) => q.id));
+          const added = BANKS[bank].questions.filter((q) => !present.has(q.id) && (!state.category || state.category === "All" || q.category === state.category));
+          state.queue.push(...added);
+        }
+      }
       if (state && Array.isArray(state.missed)) state.missed = state.missed.map(hydrateQ);
       return state;
     }
