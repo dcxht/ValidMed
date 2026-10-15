@@ -1,6 +1,6 @@
 # Neurology conversion ledger
 
-October 15, 2026. Partial: 78 active cards, 10 actual source figures, 13 separately linked comparisons. First pass pp4-12; pp13-71 and full second source/detail pass remain. Counts and page links are not proof of final coverage.
+October 15, 2026. Partial: 298 active cards, 23 figure-bearing cards / 22 distinct actual source figures, 64 separately linked comparisons. First pass pp4-36; pp37-71 and full second source/detail pass remain. Counts and page links are not proof of final coverage.
 
 ## Intentional scope exclusions
 
@@ -19,7 +19,31 @@ October 15, 2026. Partial: 78 active cards, 10 actual source figures, 13 separat
 | 9 | s2neuro-0050, s2neuro-0051, s2neuro-0052, s2neuro-0053, s2neuro-0054, s2neuro-0055, s2neuro-0056, s2neuro-0057, s2neuro-0058 |
 | 10 | s2neuro-0058, s2neuro-0059, s2neuro-0060, s2neuro-0061, s2neuro-0062, s2neuro-0063, s2neuro-0064 |
 | 11 | s2neuro-0065, s2neuro-0066, s2neuro-0067, s2neuro-0068, s2neuro-0069, s2neuro-0070, s2neuro-0071 |
-| 12 | s2neuro-0072, s2neuro-0073, s2neuro-0074, s2neuro-0075, s2neuro-0076, s2neuro-0077, s2neuro-0078 |
+| 12 | s2neuro-0072, s2neuro-0073, s2neuro-0074, s2neuro-0075, s2neuro-0076, s2neuro-0077, s2neuro-0078, s2neuro-0079 |
+| 13 | s2neuro-0079, s2neuro-0080, s2neuro-0081, s2neuro-0082, s2neuro-0083 |
+| 14 | s2neuro-0084, s2neuro-0085, s2neuro-0086, s2neuro-0087, s2neuro-0088, s2neuro-0089, s2neuro-0090 |
+| 15 | s2neuro-0090, s2neuro-0091, s2neuro-0092, s2neuro-0093, s2neuro-0094 |
+| 16 | s2neuro-0095, s2neuro-0096, s2neuro-0097, s2neuro-0098, s2neuro-0099, s2neuro-0100 |
+| 17 | s2neuro-0101, s2neuro-0102, s2neuro-0103 |
+| 18 | s2neuro-0104, s2neuro-0105, s2neuro-0106, s2neuro-0107, s2neuro-0108, s2neuro-0109, s2neuro-0110, s2neuro-0111, s2neuro-0112, s2neuro-0113, s2neuro-0114, s2neuro-0115 |
+| 19 | s2neuro-0116, s2neuro-0117, s2neuro-0118, s2neuro-0119, s2neuro-0120, s2neuro-0121, s2neuro-0122, s2neuro-0123, s2neuro-0124, s2neuro-0125, s2neuro-0126, s2neuro-0127 |
+| 20 | s2neuro-0127, s2neuro-0128, s2neuro-0129, s2neuro-0130, s2neuro-0131, s2neuro-0132, s2neuro-0133, s2neuro-0134, s2neuro-0135, s2neuro-0136, s2neuro-0137, s2neuro-0138 |
+| 21 | s2neuro-0139, s2neuro-0140, s2neuro-0141, s2neuro-0142, s2neuro-0143, s2neuro-0144, s2neuro-0145, s2neuro-0146, s2neuro-0147, s2neuro-0148, s2neuro-0149, s2neuro-0150, s2neuro-0151 |
+| 22 | s2neuro-0151, s2neuro-0152, s2neuro-0153, s2neuro-0154, s2neuro-0155, s2neuro-0156, s2neuro-0157, s2neuro-0158, s2neuro-0159, s2neuro-0160, s2neuro-0161 |
+| 23 | s2neuro-0143, s2neuro-0144, s2neuro-0151, s2neuro-0162, s2neuro-0163, s2neuro-0164, s2neuro-0165, s2neuro-0166, s2neuro-0167, s2neuro-0168, s2neuro-0169, s2neuro-0170, s2neuro-0171, s2neuro-0172 |
+| 24 | s2neuro-0172, s2neuro-0173 |
+| 25 | s2neuro-0174, s2neuro-0175, s2neuro-0176, s2neuro-0177, s2neuro-0178 |
+| 26 | s2neuro-0179, s2neuro-0180, s2neuro-0181, s2neuro-0182, s2neuro-0183, s2neuro-0184, s2neuro-0185, s2neuro-0186, s2neuro-0187, s2neuro-0188, s2neuro-0189 |
+| 27 | s2neuro-0190, s2neuro-0191, s2neuro-0192, s2neuro-0193, s2neuro-0194, s2neuro-0195, s2neuro-0196, s2neuro-0197, s2neuro-0198, s2neuro-0199, s2neuro-0200 |
+| 28 | s2neuro-0201, s2neuro-0202, s2neuro-0203, s2neuro-0204, s2neuro-0205, s2neuro-0206, s2neuro-0207, s2neuro-0208, s2neuro-0209 |
+| 29 | s2neuro-0209, s2neuro-0210, s2neuro-0211, s2neuro-0212, s2neuro-0213, s2neuro-0214, s2neuro-0215, s2neuro-0216, s2neuro-0217, s2neuro-0218, s2neuro-0219, s2neuro-0220 |
+| 30 | s2neuro-0221, s2neuro-0222, s2neuro-0223, s2neuro-0224, s2neuro-0225, s2neuro-0226, s2neuro-0227, s2neuro-0228, s2neuro-0229, s2neuro-0230, s2neuro-0231 |
+| 31 | s2neuro-0232, s2neuro-0233, s2neuro-0234, s2neuro-0235, s2neuro-0236, s2neuro-0237, s2neuro-0238, s2neuro-0239, s2neuro-0240, s2neuro-0241, s2neuro-0242, s2neuro-0243, s2neuro-0244, s2neuro-0245 |
+| 32 | s2neuro-0245, s2neuro-0246, s2neuro-0247, s2neuro-0248, s2neuro-0249, s2neuro-0250, s2neuro-0251, s2neuro-0252, s2neuro-0253, s2neuro-0254, s2neuro-0255, s2neuro-0256, s2neuro-0257, s2neuro-0298 |
+| 33 | s2neuro-0257, s2neuro-0258, s2neuro-0259, s2neuro-0260, s2neuro-0261, s2neuro-0262, s2neuro-0263, s2neuro-0264, s2neuro-0265 |
+| 34 | s2neuro-0266, s2neuro-0267, s2neuro-0268, s2neuro-0269, s2neuro-0270, s2neuro-0271, s2neuro-0272, s2neuro-0273, s2neuro-0274, s2neuro-0275, s2neuro-0276, s2neuro-0277 |
+| 35 | s2neuro-0277, s2neuro-0278, s2neuro-0279, s2neuro-0280, s2neuro-0281, s2neuro-0282, s2neuro-0283, s2neuro-0284, s2neuro-0285, s2neuro-0286 |
+| 36 | s2neuro-0286, s2neuro-0287, s2neuro-0288, s2neuro-0289, s2neuro-0290, s2neuro-0291, s2neuro-0292, s2neuro-0293, s2neuro-0294, s2neuro-0295, s2neuro-0296, s2neuro-0297 |
 
 ## Safety and source differences
 
@@ -30,3 +54,17 @@ October 15, 2026. Partial: 78 active cards, 10 actual source figures, 13 separat
 - USPSTF2023 final GradeA folic acid controls routine prevention; high-risk/antiseizure regimens are outside its usual-risk dose recommendation.
 - Source risk rankings and question-frequency percentages remain attributed and unverified.
 - All10 extracted source figures pixel-inspected natively/in contact sheet. All10 source figures also pixel-inspected in actual390x844 card renders; five320x568 figure/long-note targets passed. No horizontal overflow, broken image or offscreen answer controls in15 targeted renders. Fine-print source diagrams have full-size links. First partial-bank live publication is pending.
+
+## October15 continuation checkpoint
+
+- All clinical source pages13-36 received a first-pass Q/A conversion, including the image-only page17. This is not a second-pass acceptance claim.
+- Separate comparisons address ACR/WFNS emergency low-back imaging, scoliosis management, AAOS2024 carpal-tunnel diagnosis, Froment thumb-IP anatomy, medial-forearm innervation, mononeuritis multiplex, RLS2025 treatments, Parkinson genetics/mechanisms, Bell palsy72-hour steroid timing, myasthenia/CMT/PANDAS cautions, dementia pathologies, Romberg and GCA.
+- WHO2025 meningitis: prompt safe LP before therapy where feasible, never delay antibiotics for CT/LP deferral, selected CT criteria, early adjunctive steroids rather than waiting for confirmed pneumococcus. Neonatal antibiotics remain age-specific.
+- NIH toxoplasmosis: seropositive plus CD4 threshold for prophylaxis; prophylaxis does not prove lymphoma; TMP-SMX is also a preferred acute regimen; pyrimethamine requires leucovorin.
+- CDC rabies HRIG wound infiltration/IM and prior-vaccine-specific schedule; CDC cysticercosis egg acquisition and lesion-specific management; CDC tetanus5/10-year thresholds, TIG indication and IM route; pregnancy Tdap each pregnancy.
+- HTLV-associated adult T-cell leukemia/lymphoma is not interchangeable with mycosis fungoides/Sezary syndrome (NINDS plus NCI source checks). Brain Trauma Foundation cautions against routine prophylactic severe hyperventilation.
+- Source-dependent epidemiologic ranks, exam frequencies and shortcut diagnostic assertions remain attributed, not independently accepted as universal clinical facts.
+
+### Product checkpoint through p36
+
+All13 newly added figure-bearing cards (12 new distinct images) and five long-answer/comparison cards rendered in actual390x844 or320x568 mobile viewports. Inspected all36 top/bottom screenshots as six contact sheets: intact source figures, readable text/links, visible answer controls. No horizontal overflow, broken images or offscreen controls. Dense original labels retain a full-size-image link. No full clinical/source-detail acceptance claim yet.
