@@ -2206,6 +2206,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 59,
       "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    },
+    "guideline": {
+      "text": "ACG 2022 recommends an 8-week once-daily premeal PPI trial for classic symptoms without alarm features; this is longer than the source two-week example. Dysphagia and other alarm symptoms warrant endoscopy rather than an empiric-only pathway.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/"
     }
   },
   {
@@ -17663,6 +17667,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 59,
       "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    },
+    "guideline": {
+      "text": "ACG 2022 first optimizes PPI use in refractory symptoms. Endoscopy and reflux testing depend on whether GERD is proven and prior results; reflux monitoring off therapy helps establish uncertain GERD when endoscopy is nondiagnostic. A failed short trial does not automatically select one test for everyone.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/"
     }
   },
   {
@@ -31241,6 +31249,66 @@ export default [
     "guideline": {
       "text": "BNFC/NICE warns against routine aspirin under age 16 because of Reye risk but lists specialist indications beyond Kawasaki, including prevention of clot formation after cardiac surgery and stroke prophylaxis in selected high-risk children. It is not a routine childhood fever medicine.",
       "url": "https://bnfc.nice.org.uk/treatment-summaries/antiplatelet-drugs/"
+    }
+  },
+  {
+    "id": "s2fm-2637",
+    "category": "Esophageal exact-source review",
+    "q": "Which additional esophageal-SCC risk factors does the PDF dismiss as unimportant?",
+    "a": "Burns/chemical injury and achalasia, while emphasizing smoking and alcohol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "NCI PDQ lists achalasia and lye injury among esophageal-cancer risk factors. They should not be dismissed as nonexistent because of an exam-frequency preference; smoking and alcohol remain major risk factors.",
+      "url": "https://www.cancer.gov/types/esophageal/hp/esophageal-screening-pdq"
+    }
+  },
+  {
+    "id": "s2fm-2638",
+    "category": "Esophageal exact-source review",
+    "q": "What fixed treatment sequence does the source teach for achalasia?",
+    "a": "Pneumatic balloon dilation followed by myotomy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "ACG patient guidance lists pneumatic dilation, Heller myotomy and POEM as treatment options and identifies Heller myotomy as a primary treatment. They are not a mandatory universal dilation-first sequence; selection depends on patient and disease factors.",
+      "url": "https://gi.org/topics/achalasia/"
+    }
+  },
+  {
+    "id": "s2fm-2639",
+    "category": "Esophageal exact-source review",
+    "q": "Which diagnostic sequence does the source teach for achalasia, without routine biopsy?",
+    "a": "Barium swallow first, then confirmatory esophageal manometry.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "ACG describes endoscopy, barium esophagram and manometry as complementary tests in establishing achalasia. The source sequence should not be read as a reason to omit endoscopic assessment in a dysphagia evaluation.",
+      "url": "https://gi.org/topics/achalasia/"
+    }
+  },
+  {
+    "id": "s2fm-2640",
+    "category": "Esophageal exact-source review",
+    "q": "What bleeding-volume exclusion does the PDF make for Mallory-Weiss tears?",
+    "a": "It says they do not cause high-volume hematemesis; large-volume bleeding instead favors a ruptured varix in its exam examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Merck Professional says some Mallory-Weiss bleeding requires transfusion and endoscopic hemostasis. Bleeding volume is a useful clue but cannot safely exclude the tear.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/mallory-weiss-syndrome"
     }
   }
 ];
