@@ -91,3 +91,4 @@ Diagnostic wording follow-up2386/230figures/240notes, Partial.
 Ophthalmology exactclaim follow-up2394/230figures/248notes, Partial.
 Hematology follow-up2400/230figures/258notes, Partial.
 Endocrine exactclaim follow-up2403/230figures/261notes, Partial.
+STI/CDI follow-up2407/230figures/266notes, Partial.

@@ -18589,6 +18589,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 75,
       "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "SHEA/IDSA 2021 adult guidance conditionally prefers fidaxomicin over standard-course vancomycin for an initial nonfulminant CDI episode when resources allow; vancomycin remains acceptable. Fulminant disease is different and retains vancomycin-based management.",
+      "url": "https://www.idsociety.org/practice-guideline/clostridioides-difficile-2021-focused-update/"
     }
   },
   {
@@ -27929,12 +27933,72 @@ export default [
     "a": "Somogyi effect after nighttime hypoglycemia, with reducing evening insulin as its next step.",
     "source": {
       "title": "Mehlman HY Family Medicine",
-      "page": 258,
-      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
     },
     "guideline": {
       "text": "ADA patient guidance says dawn phenomenon and waning insulin are more common explanations; Somogyi is rare. Bedtime, overnight and morning glucose or CGM data help distinguish them before changing medication. Morning hyperglycemia alone does not establish an insulin overdose.",
       "url": "https://diabetes.org/living-with-diabetes/high-morning-blood-glucose"
+    }
+  },
+  {
+    "id": "s2fm-2404",
+    "category": "STI exact-claim reconciliation",
+    "q": "Which treatments does the PDF give for vaginal candidiasis without separating pregnancy?",
+    "a": "Topical nystatin or oral fluconazole.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC 2021 STI guidance recommends only topical azoles for 7 days during pregnancy and advises against oral fluconazole. Nonpregnant uncomplicated, recurrent and severe cases have different regimens; the source two-option list is not a pregnancy treatment rule.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm/"
+    }
+  },
+  {
+    "id": "s2fm-2405",
+    "category": "STI exact-claim reconciliation",
+    "q": "What penicillin-allergy strategy does the PDF give for pregnancy or neurosyphilis?",
+    "a": "Desensitize and give penicillin when there is a history of beta-lactam anaphylaxis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    },
+    "guideline": {
+      "text": "CDC pregnancy guidance says no proven alternatives exist for syphilis in pregnancy; patients with penicillin allergy should be desensitized and treated with penicillin G. The stage-specific regimen still matters.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis-pregnancy.htm"
+    }
+  },
+  {
+    "id": "s2fm-2406",
+    "category": "STI exact-claim reconciliation",
+    "q": "Does the PDF describe an alternative to penicillin desensitization for nonpregnant neurosyphilis with allergy?",
+    "a": "No. Its rule groups severe disease with desensitization and penicillin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    },
+    "guideline": {
+      "text": "CDC neurosyphilis guidance allows ceftriaxone 1-2 g IM/IV daily for 10-14 days as an alternative based on limited data. When ceftriaxone safety is a concern, assess allergy and consider desensitization with specialist consultation. Pregnancy remains a separate penicillin-only situation.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/neurosyphilis.htm"
+    }
+  },
+  {
+    "id": "s2fm-2407",
+    "category": "STI exact-claim reconciliation",
+    "q": "Which treatment-and-partner principle does the PDF give for trichomoniasis?",
+    "a": "Metronidazole for the patient and partner because reinfection is common.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC 2021 guidance uses metronidazole 500 mg twice daily for 7 days for women, versus 2 g once for men; partners need concurrent treatment. Treatment and retesting details depend on the patient and are not one universal single-dose rule.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm"
     }
   }
 ];
