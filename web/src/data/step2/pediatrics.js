@@ -19910,5 +19910,206 @@ export default [
       "text": "DermNet defines aplasia cutis congenita as congenital absence of skin, most commonly a scalp defect, and lists methimazole among teratogenic associations. The p98 card preserves only the page-boundary heading; p99 handles the source continuation.",
       "url": "https://dermnetnz.org/topics/aplasia-cutis"
     }
+  },
+  {
+    "id": "s2peds-1402",
+    "category": "Pediatric dermatology",
+    "q": "Which congenital condition is shown by the p99 photograph of a scalp area without skin?",
+    "a": "Aplasia cutis congenita.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "DermNet describes the commonest form as a scalp defect at birth; deeper defects can extend beyond the epidermis and may need careful evaluation.",
+      "url": "https://dermnetnz.org/topics/aplasia-cutis"
+    },
+    "img": "/mehlman/figures/peds-p099-aplasia-cutis-congenita.png",
+    "imgAlt": "Actual source photograph of a scalp defect in aplasia cutis congenita"
+  },
+  {
+    "id": "s2peds-1403",
+    "category": "Pediatric dermatology",
+    "q": "What anatomic defect does p99 give for aplasia cutis congenita?",
+    "a": "Absence of skin on an area of scalp.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "DermNet defines aplasia cutis congenita as congenital absence of skin and says 70-80% of cases affect the scalp lateral to the midline.",
+      "url": "https://dermnetnz.org/topics/aplasia-cutis"
+    }
+  },
+  {
+    "id": "s2peds-1404",
+    "category": "Pediatric obstetric pharmacology",
+    "q": "Which teratogen does the source name for aplasia cutis congenita, and how does it emphasize the point?",
+    "a": "Methimazole; the source calls it a seemingly pedantic detail that shows up on the real exam.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "DermNet lists methimazole and carbimazole among teratogenic associations. The link is an association, not proof that every exposed pregnancy will have this rare defect.",
+      "url": "https://dermnetnz.org/topics/aplasia-cutis"
+    }
+  },
+  {
+    "id": "s2peds-1405",
+    "category": "Pediatric allergy/immunology",
+    "q": "Which diagnosis is suggested by the p99 photograph of recurrent facial or periorbital swelling?",
+    "a": "Hereditary angioedema.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Merck says hereditary C1 inhibitor deficiency causes bradykinin-mediated asymmetric swelling of the face, lips, tongue or other regions, characteristically without urticaria or pruritus.",
+      "url": "https://www.merckmanuals.com/professional/immunology-allergic-disorders/allergic-autoimmune-and-other-hypersensitivity-disorders/hereditary-and-acquired-c1-inhibitor-deficiency-or-dysfunction"
+    },
+    "img": "/mehlman/figures/peds-p099-hereditary-angioedema.png",
+    "imgAlt": "Actual source photograph of facial swelling in hereditary angioedema"
+  },
+  {
+    "id": "s2peds-1406",
+    "category": "Pediatric allergy/immunology",
+    "q": "Which protein deficiency does the source emphasize in hereditary angioedema?",
+    "a": "Deficiency of C1 esterase inhibitor, not C1 esterase alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Merck says type 1 has low C1 inhibitor level/function and type 2 has normal level but abnormal function; both lower C4. Rare normal-C1-inhibitor HAE exists, so the source wording covers the classic types.",
+      "url": "https://www.merckmanuals.com/professional/immunology-allergic-disorders/allergic-autoimmune-and-other-hypersensitivity-disorders/hereditary-and-acquired-c1-inhibitor-deficiency-or-dysfunction"
+    }
+  },
+  {
+    "id": "s2peds-1407",
+    "category": "Pediatric allergy/immunology",
+    "q": "What clinical pattern does p99 give for hereditary angioedema?",
+    "a": "Recurrent swelling of various bodily regions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Merck describes recurrent asymmetric swelling of face, lips, tongue, extremities, genitals or gastrointestinal tract, often triggered by trauma, viral illness, cold, pregnancy, estrogen or foods. Laryngeal edema is the dangerous presentation.",
+      "url": "https://www.merckmanuals.com/professional/immunology-allergic-disorders/allergic-autoimmune-and-other-hypersensitivity-disorders/hereditary-and-acquired-c1-inhibitor-deficiency-or-dysfunction"
+    }
+  },
+  {
+    "id": "s2peds-1408",
+    "category": "Pediatric allergy/immunology",
+    "q": "How does the source say danazol treats hereditary angioedema?",
+    "a": "As an androgen-receptor partial agonist, it causes the liver to produce more C1 esterase inhibitor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Merck confirms attenuated androgens such as danazol can stimulate hepatic C1 inhibitor synthesis, but says they should not be used in children and are not first-line when modern options are available. Acute attacks use C1 inhibitor, kallikrein inhibitors or icatibant.",
+      "url": "https://www.merckmanuals.com/professional/immunology-allergic-disorders/allergic-autoimmune-and-other-hypersensitivity-disorders/hereditary-and-acquired-c1-inhibitor-deficiency-or-dysfunction"
+    }
+  },
+  {
+    "id": "s2peds-1409",
+    "category": "Pediatric genetics",
+    "q": "Which diagnosis is shown by the p99 café-au-lait spot photograph?",
+    "a": "Neurofibromatosis type I.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Revised international criteria use six or more café-au-lait macules, not one spot alone, together with another qualifying feature when no affected parent is present.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354850/"
+    },
+    "img": "/mehlman/figures/peds-p099-nf1-cafe-au-lait.png",
+    "imgAlt": "Actual source photograph of a café-au-lait spot in NF1"
+  },
+  {
+    "id": "s2peds-1410",
+    "category": "Pediatric genetics",
+    "q": "What inheritance and broader disease category does p99 give for NF1?",
+    "a": "Autosomal dominant and one of the phakomatoses, alongside NF2, von Hippel-Lindau, tuberous sclerosis and Sturge-Weber in the source list.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "GeneReviews confirms autosomal-dominant NF1 with nearly complete penetrance after childhood; almost half of affected people have de novo variants. Treat phakomatosis as a legacy umbrella term rather than a single mechanism or current diagnostic category.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1109/"
+    }
+  },
+  {
+    "id": "s2peds-1411",
+    "category": "Pediatric genetics",
+    "q": "Which NF1 findings does p99 list?",
+    "a": "Café-au-lait spots, neurofibromas, axillary or groin freckling, optic glioma and pheochromocytoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Current diagnostic criteria include café-au-lait macules, axillary/inguinal freckling, neurofibromas and optic-pathway glioma. GeneReviews also lists pheochromocytoma among tumors seen more often than expected in NF1, but it is not a defining criterion.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354850/"
+    }
+  },
+  {
+    "id": "s2peds-1412",
+    "category": "Pediatric genetics",
+    "q": "What inheritance and disease category does p99 give for tuberous sclerosis?",
+    "a": "Autosomal dominant and one of the phakomatoses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "TSC Alliance's current criteria say a pathogenic TSC1 or TSC2 variant is diagnostic, and clinical diagnosis uses major and minor features. The source's inheritance statement is correct; phakomatosis remains legacy grouping language.",
+      "url": "https://www.tscalliance.org/understanding-tsc/diagnosis-criteria/"
+    }
+  },
+  {
+    "id": "s2peds-1413",
+    "category": "Pediatric genetics",
+    "q": "What skin finding does p99 name for tuberous sclerosis?",
+    "a": "Adenoma sebaceum, meaning angiofibromas. The actual source photograph appears at the top of p100 and is kept with p100.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Current criteria count three or more facial angiofibromas or a fibrous cephalic plaque as a major feature. The obsolete name adenoma sebaceum is preserved as source exam wording.",
+      "url": "https://www.tscalliance.org/understanding-tsc/diagnosis-criteria/"
+    }
+  },
+  {
+    "id": "s2peds-1414",
+    "category": "Pediatric genetics",
+    "q": "Which multisystem findings does p99 list for tuberous sclerosis?",
+    "a": "Intracranial/periventricular nodules (tubers or hamartomas), adenoma sebaceum (angiofibromas), cardiac rhabdomyoma, lymphangioleiomyomatosis, subungual fibromas and renal angiomyolipoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 99,
+      "url": "/mehlman/hy-pediatrics.pdf#page=99"
+    },
+    "guideline": {
+      "text": "TSC Alliance criteria include multiple cortical tubers/subependymal nodules, facial angiofibromas, ungual fibromas, cardiac rhabdomyoma, LAM and multiple angiomyolipomas as major features. The source list matches the classic multisystem pattern.",
+      "url": "https://www.tscalliance.org/understanding-tsc/diagnosis-criteria/"
+    }
   }
 ];
