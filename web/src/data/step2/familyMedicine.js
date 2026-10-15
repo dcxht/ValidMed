@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 155; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 169; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -6160,6 +6160,762 @@ export default [
     "guideline": {
       "text": "USPSTF 2018, Grade D. Latest final recommendation checked October 14, 2026.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-0541",
+    "category": "Neurology",
+    "q": "Fever, stiff neck and photophobia suggest what syndrome?",
+    "a": "Meningitis. The source distinguishes this from encephalitis, which more prominently produces altered mental status.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-0542",
+    "category": "Neurology",
+    "q": "Which CSF pattern does the PDF describe for bacterial meningitis?",
+    "a": "Increased protein, decreased glucose and neutrophilic pleocytosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-0543",
+    "category": "Neurology",
+    "q": "Which CSF pattern does the PDF describe for viral meningitis?",
+    "a": "Normal or slightly elevated protein, usually normal glucose, and lymphocytic pleocytosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-0544",
+    "category": "Neurology",
+    "q": "An immunocompromised patient has fungal meningitis. Which organism is emphasized?",
+    "a": "Cryptococcus neoformans. The source describes low CSF glucose, increased protein and lymphocytic pleocytosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-0545",
+    "category": "Neurology",
+    "q": "Fever, confusion and temporal-lobe hemorrhagic inflammation suggest which encephalitis?",
+    "a": "HSV encephalitis. RBCs may be present in the CSF, but are not required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-0546",
+    "category": "Neurology",
+    "q": "Why does the PDF favor LP before antibiotics in suspected meningitis?",
+    "a": "PDF answer: antibiotics can interfere with CSF culture results.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    },
+    "guideline": {
+      "text": "Current guideline: NICE NG240 (2024) says LP first only when safe and without a clinically significant antibiotic delay; start antibiotics within one hour of arrival.",
+      "url": "https://www.nice.org.uk/guidance/ng240/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2fm-0547",
+    "category": "Neurology",
+    "q": "Which hearing complication should be considered after bacterial meningitis?",
+    "a": "Sensorineural hearing loss. The source names audiometry, not tympanometry, to evaluate hearing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-0548",
+    "category": "Neurology",
+    "q": "An AIDS patient has ring-enhancing brain lesions. Which opportunistic protozoal infection is emphasized?",
+    "a": "Toxoplasmosis due to Toxoplasma gondii. The source contrasts it with primary CNS lymphoma; imaging alone does not prove the cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0549",
+    "category": "Neurology",
+    "q": "What toxoplasmosis treatment combination does the PDF name?",
+    "a": "Sulfadiazine plus pyrimethamine. This is the source regimen, not a complete prescribing protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0550",
+    "category": "Neurology",
+    "q": "Brain cystic lesions occur after travel to an endemic region. Which pork-tapeworm infection is suggested?",
+    "a": "Neurocysticercosis due to Taenia solium.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0551",
+    "category": "Neurology",
+    "q": "A child has postauricular tenderness with upward and outward pinna displacement after otitis media. What complication is suggested?",
+    "a": "Mastoiditis. The source names temporal-bone CT or MRI to evaluate complicated disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0552",
+    "category": "Neurology",
+    "q": "Endocarditis is followed by fever and focal neurologic deficits from a focal intracranial infection. What complication is suggested?",
+    "a": "Brain abscess from septic embolization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0553",
+    "category": "Neurology",
+    "q": "An IV-drug user has focal spinal pain or vertebral tenderness, with or without fever and neurologic deficits. What infection must be considered?",
+    "a": "Spinal epidural abscess.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0554",
+    "category": "Neurology",
+    "q": "Tuberculosis destroys vertebral structures. What eponym names this spinal infection?",
+    "a": "Pott disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0555",
+    "category": "Neurology",
+    "q": "A rapidly fatal meningoencephalitis follows warm freshwater entering the nose. Which amoeba is emphasized?",
+    "a": "Naegleria fowleri.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2fm-0556",
+    "category": "Neurology",
+    "q": "Eosinophilic meningoencephalitis follows ingestion of raw slugs or snails. Which parasite is suggested?",
+    "a": "Angiostrongylus, the rat lungworm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-0557",
+    "category": "Neurology",
+    "q": "Sinus infection is followed by severe headache, proptosis, diplopia and ophthalmoplegia. What venous complication is suggested?",
+    "a": "Cavernous sinus thrombosis. CN VI dysfunction can occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-0558",
+    "category": "Neurology",
+    "q": "Which intracranial malignancy can cause ring-enhancing lesions in an immunocompromised patient?",
+    "a": "Primary CNS lymphoma. The source presents it as a differential to toxoplasmosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-0559",
+    "category": "Neurology",
+    "q": "How does lactulose reduce ammonia absorption in hepatic encephalopathy?",
+    "a": "Gut acidification promotes conversion of ammonia to ammonium, which is less readily absorbed.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-0560",
+    "category": "Neurology",
+    "q": "A patient with renal failure develops altered mental status from retained nitrogenous waste. What encephalopathy is described?",
+    "a": "Uremic encephalopathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-0561",
+    "category": "Neurology",
+    "q": "Severe neuropathic limb pain develops months after a stroke involving sensory pathways. What syndrome is described?",
+    "a": "Thalamic or central post-stroke pain syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-0562",
+    "category": "Neurology",
+    "q": "Disproportionate persistent pain follows limb trauma with nerve-related changes. What pain syndrome is described?",
+    "a": "Complex regional pain syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-0563",
+    "category": "Neurology",
+    "q": "Chorea and progressive neurodegeneration show autosomal-dominant anticipation. Which repeat disorder and chromosome are described?",
+    "a": "Huntington disease, CAG expansion on chromosome 4. The source emphasizes caudate degeneration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-0564",
+    "category": "Neurology",
+    "q": "Ataxia, high-arched feet and cardiomyopathy occur in an autosomal-recessive repeat disorder. What is it?",
+    "a": "Friedreich ataxia, associated with a GAA repeat expansion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-0565",
+    "category": "Neurology",
+    "q": "Rapidly progressive cognitive decline with myoclonus suggests what prion disease?",
+    "a": "Creutzfeldt-Jakob disease. A misfolded prion protein propagates abnormal folding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-0566",
+    "category": "Neurology",
+    "q": "Which spinal neurons are primarily affected by poliomyelitis?",
+    "a": "Anterior horn motor neurons, causing lower motor neuron weakness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-0567",
+    "category": "Neurology",
+    "q": "An immunocompromised patient develops progressive multifocal neurologic decline due to latent JC-virus reactivation. What condition is described?",
+    "a": "Progressive multifocal leukoencephalopathy, PML.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-0568",
+    "category": "Neurology",
+    "q": "An adolescent develops delayed cognitive decline after prior measles. What rare CNS disease is described?",
+    "a": "Subacute sclerosing panencephalitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-0569",
+    "category": "Neurology",
+    "q": "An infant has flaccid weakness after exposure to honey. Which toxin mechanism is described?",
+    "a": "Botulinum toxin impairs presynaptic acetylcholine release at the neuromuscular junction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-0570",
+    "category": "Neurology",
+    "q": "Trismus and opisthotonus occur after a contaminated wound. Which toxin mechanism is described?",
+    "a": "Tetanus toxin impairs inhibitory neurotransmission involving GABA and glycine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-0571",
+    "category": "Neurology",
+    "q": "What dirty-wound tetanus-immune-globulin rule does the PDF give?",
+    "a": "PDF answer: TIG plus vaccine for a dirty wound when more than ten years have passed since vaccination.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "Current guideline: CDC 2026 bases TIG on dirty/major wound plus unknown, absent or incomplete vaccination, or HIV/severe immunodeficiency, not simply elapsed time after a complete series.",
+      "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html"
+    }
+  },
+  {
+    "id": "s2fm-0572",
+    "category": "Neurology",
+    "q": "Hot-cold temperature reversal follows a reef-fish meal. Which poisoning is suggested?",
+    "a": "Ciguatera poisoning.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-0573",
+    "category": "Neurology",
+    "q": "Paralysis follows pufferfish consumption. Which toxin is suggested?",
+    "a": "Tetrodotoxin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-0574",
+    "category": "Neurology",
+    "q": "After temporal head trauma, CT shows a biconvex lens-shaped collection. What bleed and classic vessel are described?",
+    "a": "Epidural hematoma, classically associated with middle meningeal artery injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2fm-0575",
+    "category": "Neurology",
+    "q": "An older adult after head trauma has a crescent-shaped extra-axial collection. What bleed and vessels are described?",
+    "a": "Subdural hematoma from bridging-vein injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2fm-0576",
+    "category": "Neurology",
+    "q": "Sudden thunderclap headache with blood in basal cisterns suggests what bleed?",
+    "a": "Subarachnoid hemorrhage, classically from ruptured intracranial aneurysm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-0577",
+    "category": "Neurology",
+    "q": "A posterior communicating artery aneurysm compresses CN III. Which pupillary finding is described?",
+    "a": "Ipsilateral mydriasis, a dilated pupil.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-0578",
+    "category": "Neurology",
+    "q": "Which calcium-channel blocker does the PDF name after aneurysmal subarachnoid hemorrhage?",
+    "a": "Nimodipine, to reduce ischemic neurologic complications.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-0579",
+    "category": "Neurology",
+    "q": "Chronic hypertension is associated with a deep intracerebral bleed. Which small-vessel mechanism is described?",
+    "a": "Charcot-Bouchard microaneurysms involving lenticulostriate vessels.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-0580",
+    "category": "Neurology",
+    "q": "Recurrent lobar hemorrhage occurs with cerebral amyloid deposition. What angiopathy is described?",
+    "a": "Cerebral amyloid angiopathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-0581",
+    "category": "Neurology",
+    "q": "Headache, cognitive symptoms and light/sound sensitivity persist after a concussion. What syndrome is described?",
+    "a": "Post-concussion syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-0582",
+    "category": "Neurology",
+    "q": "What distinguishes focal aware from focal impaired-awareness seizures?",
+    "a": "Preserved versus impaired awareness during the seizure. Focal symptoms before bilateral convulsion suggest focal onset with spread.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-0583",
+    "category": "Neurology",
+    "q": "A child briefly stares with rapid blinking and a generalized 3-Hz spike-and-wave EEG. What seizure and treatment does the PDF name?",
+    "a": "Absence seizure; ethosuximide is the treatment named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-0584",
+    "category": "Neurology",
+    "q": "An infant has spasms and hypsarrhythmia on EEG. What epilepsy syndrome is described?",
+    "a": "Infantile spasms, traditionally West syndrome. The source names ACTH therapy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-0585",
+    "category": "Neurology",
+    "q": "An adolescent has morning myoclonic jerks followed by generalized convulsions. What epilepsy is suggested?",
+    "a": "Juvenile myoclonic epilepsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-0586",
+    "category": "Neurology",
+    "q": "Olfactory or gustatory aura and deja vu precede impaired-awareness seizures. Which lobe is suggested?",
+    "a": "Temporal lobe, often the medial temporal structures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-0587",
+    "category": "Neurology",
+    "q": "A toddler cries during a tantrum, becomes cyanotic and briefly loses consciousness. What seizure mimic is described?",
+    "a": "A breath-holding spell.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-0588",
+    "category": "Neurology",
+    "q": "Profound hypotonia, absent reflexes and tongue fasciculations occur in an infant. What anterior-horn disorder is suggested?",
+    "a": "Spinal muscular atrophy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-0589",
+    "category": "Neurology",
+    "q": "A child has spastic lower limbs and a scissoring gait. What nonprogressive motor disorder is suggested?",
+    "a": "Cerebral palsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-0590",
+    "category": "Neurology",
+    "q": "A child has a smooth philtrum and thin upper lip after prenatal alcohol exposure. What syndrome is described?",
+    "a": "Fetal alcohol syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-0591",
+    "category": "Neurology",
+    "q": "A newborn with phenylalanine-hydroxylase deficiency is at risk of neurologic injury without dietary treatment. What disorder is described?",
+    "a": "Phenylketonuria, PKU. The source emphasizes newborn screening and phenylalanine restriction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-0592",
+    "category": "Neurology",
+    "q": "An infant has hypotonia, macroglossia and an umbilical hernia from thyroid-hormone deficiency. What condition is described?",
+    "a": "Congenital hypothyroidism. Early detection through newborn screening is emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-0593",
+    "category": "Neurology",
+    "q": "Developmental regression with hand-wringing movements occurs in a young girl. What syndrome is suggested?",
+    "a": "Rett syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-0594",
+    "category": "Neurology",
+    "q": "Bilateral vestibular schwannomas and meningiomas suggest which neurocutaneous syndrome?",
+    "a": "Neurofibromatosis type 2, traditionally NF2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-0595",
+    "category": "Neurology",
+    "q": "Retinal/cerebellar hemangioblastomas and renal-cell carcinoma suggest which syndrome?",
+    "a": "Von Hippel-Lindau syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-0596",
+    "category": "Neurology",
+    "q": "In conductive hearing loss on the left, how do Rinne and Weber behave?",
+    "a": "Rinne shows bone conduction greater than air on the left; Weber lateralizes to the left.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-0597",
+    "category": "Neurology",
+    "q": "In sensorineural hearing loss on the left, how do Rinne and Weber behave?",
+    "a": "Air conduction remains greater than bone; Weber lateralizes to the better-hearing right ear.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-0598",
+    "category": "Neurology",
+    "q": "An older patient develops delirium and urinary retention while taking diphenhydramine. What drug property is implicated?",
+    "a": "Anticholinergic activity. The source emphasizes reviewing and stopping offending drugs where appropriate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-0599",
+    "category": "Neurology",
+    "q": "Which acetylcholinesterase inhibitor does the PDF name for symptomatic Alzheimer treatment?",
+    "a": "Donepezil; galantamine and rivastigmine are other agents named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-0600",
+    "category": "Neurology",
+    "q": "Which longer-acting acetylcholinesterase inhibitor is named for myasthenia gravis?",
+    "a": "Pyridostigmine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-0601",
+    "category": "Neurology",
+    "q": "Acute torticollis or oculogyric crisis begins after an antipsychotic, without fever. Which adverse effect and treatments are described?",
+    "a": "Acute dystonia. Benztropine or diphenhydramine are treatments named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-0602",
+    "category": "Neurology",
+    "q": "Which antimuscarinic does the PDF name for urge incontinence?",
+    "a": "Oxybutynin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-0603",
+    "category": "Neurology",
+    "q": "Which smoking-cessation drug is a partial nicotinic-receptor agonist?",
+    "a": "Varenicline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-0604",
+    "category": "Neurology",
+    "q": "Which smoking-cessation antidepressant lowers seizure threshold and is problematic in eating disorders?",
+    "a": "Bupropion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-0605",
+    "category": "Neurology",
+    "q": "Which antiepileptic can cause SIADH and aplastic anemia?",
+    "a": "Carbamazepine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-0606",
+    "category": "Neurology",
+    "q": "Which antiepileptic is associated with neural-tube defects and is also used in bipolar disorder?",
+    "a": "Valproic acid. Pregnancy risks require careful prescribing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-0607",
+    "category": "Neurology",
+    "q": "Which antiepileptic is associated with fetal hydantoin syndrome?",
+    "a": "Phenytoin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-0608",
+    "category": "Neurology",
+    "q": "Why can TCAs be troublesome in older patients with cognitive change or BPH?",
+    "a": "Their anticholinergic effects can worsen confusion and urinary retention; overdose can cause seizures and cardiotoxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
     }
   }
 ];

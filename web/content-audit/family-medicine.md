@@ -13,7 +13,8 @@ No claim of complete coverage yet. Cards use printed PDF pages.
 - Pages 98-113: read; selected GU/repro/breast/obstetric cards drafted. Figure coverage and remaining details pending.
 - Pages 114-140: read; 79 additional text/figure cards. Source photographs extracted and inspected as contact sheets. Not exhaustive.
 - Pages 141-155: read; selected dermatology and neurology cards drafted. Not exhaustive.
-- Pages 156-319: pending detailed review.
+- Pages 156-169: read; selected neuro/infection/medication cards drafted. Figures and other details remain.
+- Pages 170-319: pending detailed review.
 
 Uncertain or dated source recommendations were not converted into current clinical guidance:
 - p11 AAA screening recommendation for women and unusual growth threshold.
