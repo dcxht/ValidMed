@@ -17504,5 +17504,275 @@ export default [
       "text": "This combination matches two Rotterdam features, but current diagnosis still requires excluding mimics and may use biochemical hyperandrogenism or ovarian morphology. Adolescent diagnosis is more cautious because acne and irregular cycles can be common after menarche.",
       "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/polycystic-ovary-syndrome-pcos"
     }
+  },
+  {
+    "id": "s2peds-1246",
+    "category": "Anovulation and endometrial risk",
+    "q": "What correction is needed to the source claim that PCOS ultrasound diagnosis requires 11+ bilateral cysts under \"Amsterdam criteria\"?",
+    "a": "Do not memorize that criterion. The source likely means Rotterdam criteria, not Amsterdam, and current PCOS guidance no longer uses a universal 11-plus bilateral cyst rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "The 2023 international guideline uses follicle number per ovary, per cross-section or ovarian volume in adults and says ultrasound is not recommended to define polycystic ovarian morphology in adolescents. Ultrasound is unnecessary when irregular cycles and hyperandrogenism already establish the clinical diagnosis.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/"
+    }
+  },
+  {
+    "id": "s2peds-1247",
+    "category": "Anovulation and endometrial risk",
+    "q": "What is the corpus luteum, and which hormone does it secrete?",
+    "a": "After a follicle ruptures at ovulation, the remnant becomes the corpus luteum, which secretes progesterone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck describes the LH surge promoting oocyte release and corpus-luteum formation, after which the corpus luteum produces progesterone.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1248",
+    "category": "Anovulation and endometrial risk",
+    "q": "How do progesterone and estrogen differ in their effects on the endometrium?",
+    "a": "Estrogen stimulates endometrial growth; progesterone limits and stabilizes that growth. The source uses this pair to explain why progesterone loss leaves estrogen effect unbalanced.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck confirms that estrogen causes endometrial proliferation and that falling estrogen and progesterone after an unfertilized ovulation produces menstrual shedding. Progesterone opposition is central to preventing prolonged estrogen-driven proliferation.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1249",
+    "category": "Anovulation and endometrial risk",
+    "q": "Why does anovulation create unopposed estrogen in the source?",
+    "a": "Without ovulation, no corpus luteum forms, so cyclic progesterone production falls. Estrogen continues to stimulate the endometrium without enough progesterone opposition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "The 2023 PCOS guideline recognizes chronic ovulatory dysfunction as a risk setting for endometrial hyperplasia. \"Unopposed estrogen\" is a useful mechanism but does not mean every anovulatory patient has a high absolute estrogen level.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/"
+    }
+  },
+  {
+    "id": "s2peds-1250",
+    "category": "Anovulation and endometrial risk",
+    "q": "What cancer risk follows prolonged unopposed estrogen?",
+    "a": "Unopposed estrogen increases the risk of endometrial hyperplasia and, in turn, endometrial carcinoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "The 2023 PCOS guideline reports a markedly higher risk of endometrial hyperplasia and cancer in premenopausal PCOS, while emphasizing that the overall chance of cancer remains low and routine screening is not recommended.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/"
+    }
+  },
+  {
+    "id": "s2peds-1251",
+    "category": "Anovulation and endometrial risk",
+    "q": "A high-BMI postmenopausal patient has vaginal bleeding. What is the source next step, and what must not be assumed?",
+    "a": "The source answer is endometrial biopsy. Obesity raises concern for prior anovulation and endometrial hyperplasia, but BMI alone does not prove cancer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Current ACOG and Merck guidance evaluates any postmenopausal bleeding to exclude hyperplasia or cancer, commonly using ultrasound and/or endometrial sampling based on risk and findings. Biopsy is important, but the source chain from current weight to a cancer diagnosis is a heuristic, not evidence.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/symptoms-of-gynecologic-disorders/vaginal-bleeding"
+    }
+  },
+  {
+    "id": "s2peds-1252",
+    "category": "Anovulation and endometrial risk",
+    "q": "Why does PCOS increase type 2 diabetes risk?",
+    "a": "Insulin resistance is part of the underlying PCOS physiology and increases the risk of impaired glucose tolerance and type 2 diabetes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "The 2023 international guideline says PCOS carries increased impaired glucose tolerance and type-2-diabetes risk regardless of age or BMI and recommends glycemic assessment at diagnosis and periodically thereafter.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/"
+    }
+  },
+  {
+    "id": "s2peds-1253",
+    "category": "Anovulation and endometrial risk",
+    "q": "How can Cushing syndrome mimic the source PCOS-anovulation picture?",
+    "a": "Elevated glucocorticoids can cause insulin resistance, anovulation, irregular menses and a PCOS-like presentation. The source distinction is that classic PCOS is idiopathic rather than caused by a known secondary disorder such as Cushing syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Current PCOS guidance requires excluding important mimics, including Cushing syndrome, especially with rapid, severe or otherwise atypical hyperandrogenism. High BMI alone does not establish that the condition is idiopathic PCOS.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/"
+    }
+  },
+  {
+    "id": "s2peds-1254",
+    "category": "Anovulation and endometrial risk",
+    "q": "What hypothyroidism-to-anovulation pathway does the source describe?",
+    "a": "Hypothyroidism raises TRH, which can stimulate prolactin; elevated prolactin disrupts normal GnRH pulsation and can cause anovulation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck lists hyperprolactinemia and hypothyroidism as amenorrhea causes. The pathway is clinically useful, but it is not the only mechanism and does not replace direct TSH and prolactin testing when indicated.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1255",
+    "category": "Anovulation and endometrial risk",
+    "q": "What more fundamental prolactin-control rule does the source prioritize over the TRH pathway?",
+    "a": "Dopamine normally inhibits prolactin secretion. Reduced dopamine signaling or overt dopamine-2 receptor antagonism raises prolactin, as in pituitary-stalk disruption or antipsychotic medication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck identifies pituitary disorders, medications such as antipsychotics and hypothalamic/stalk disruption as hyperprolactinemia causes. Dopamine inhibition is the core control mechanism; TRH stimulation is secondary.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1256",
+    "category": "Amenorrhea evaluation",
+    "q": "What is the progesterone withdrawal test?",
+    "a": "Give a progestin for a short course, stop it, and observe whether withdrawal bleeding occurs. The test helps evaluate oligo- or amenorrhea by indicating whether estrogen has primed the endometrium.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck describes the progestin challenge only after pregnancy and major endocrine causes have been assessed, using medroxyprogesterone or another progestogen for 7-10 days. It is a diagnostic aid, not the first test for every amenorrhea.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1257",
+    "category": "Amenorrhea evaluation",
+    "q": "What does a positive progesterone withdrawal test mean?",
+    "a": "Bleeding after progestin withdrawal means estrogen is sufficient and the endometrium can proliferate. In the source framework, this supports anovulation as the cause of irregular menses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck agrees that withdrawal bleeding indicates adequate estrogen effect. It places the test after normal prolactin, FSH and thyroid evaluation, so a positive test does not by itself complete the amenorrhea workup.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1258",
+    "category": "Amenorrhea evaluation",
+    "q": "Why is the progesterone withdrawal test expected to be positive in PCOS?",
+    "a": "PCOS has anovulation without enough endogenous corpus-luteum progesterone, but estrogen is usually sufficient to build the endometrium. Exogenous progestin followed by withdrawal can therefore induce bleeding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck supports the principle that adequate estrogen produces withdrawal bleeding. Current amenorrhea evaluation starts with pregnancy testing and endocrine studies; the challenge test is optional and its result must be interpreted with those findings.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1259",
+    "category": "Amenorrhea evaluation",
+    "q": "Why may Turner syndrome or Asherman syndrome produce no bleeding after progesterone withdrawal?",
+    "a": "Turner syndrome can have insufficient estrogen to build the endometrium. Asherman syndrome has intrauterine scarring, so the endometrium cannot respond normally even if hormonal priming is attempted.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck says no bleeding after an estrogen/progestin challenge suggests an endometrial lesion such as Asherman syndrome or an outflow obstruction. Low-estrogen causes are assessed separately, so the source correctly lists two different reasons for a negative test.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1260",
+    "category": "Dysmenorrhea",
+    "q": "What is primary dysmenorrhea, and what mediator drives it?",
+    "a": "Primary dysmenorrhea is painful menstruation without another gynecologic cause. Endometrial prostaglandin F2-alpha hypersecretion drives uterine contractions and ischemic pain.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck supports prostaglandin F2-alpha and other inflammatory mediators in secretory endometrium. Primary dysmenorrhea is a diagnosis after clinically considering secondary causes; it is not simply every young patient with cramps.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/dysmenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1261",
+    "category": "Dysmenorrhea",
+    "q": "Why can primary dysmenorrhea cause headache and nausea?",
+    "a": "Prostaglandins released during menstruation can enter the systemic circulation in addition to causing uterine contractions, producing headache, nausea and related systemic symptoms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "ACOG attributes painful periods to uterine prostaglandins and Merck describes associated systemic symptoms. Severe, progressive or atypical symptoms still warrant evaluation rather than automatic labeling as primary dysmenorrhea.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/dysmenorrhea"
+    }
+  },
+  {
+    "id": "s2peds-1262",
+    "category": "Dysmenorrhea",
+    "q": "What is the source age-and-exam shortcut for primary dysmenorrhea versus endometriosis, and why is it too rigid?",
+    "a": "The source says period pain under age 20 with a normal exam is primary dysmenorrhea, while endometriosis is over 20 with an abnormal exam. Use the normal-exam clue, not the absolute age cutoff.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "ACOG states endometriosis is most often diagnosed in reproductive years but occurs in teens, and imaging or exam can be normal even when endometriosis is present. Adolescents can have endometriosis, so age and a normal pelvic exam do not exclude it.",
+      "url": "https://www.acog.org/womens-health/faqs/endometriosis"
+    }
+  },
+  {
+    "id": "s2peds-1263",
+    "category": "Dysmenorrhea",
+    "q": "What is the source first treatment for primary dysmenorrhea, and is an OCP a wrong answer?",
+    "a": "The source answer is an NSAID because it inhibits prostaglandin production. An oral contraceptive is not inherently wrong: hormonal contraception is another effective treatment when desired or when NSAIDs are insufficient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 87,
+      "url": "/mehlman/hy-pediatrics.pdf#page=87"
+    },
+    "guideline": {
+      "text": "Merck considers NSAIDs first line and says estrogen/progestin contraceptives are usually effective. ACOG likewise describes NSAIDs first and hormonal methods for persistent pain or suspected endometriosis. The source NBME-specific framing should not become a clinical prohibition.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/dysmenorrhea"
+    }
   }
 ];
