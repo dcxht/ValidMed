@@ -42810,6 +42810,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 286,
       "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "Canadian Stroke Best Practices 2022 recommends brain and vascular imaging after suspected stroke/TIA, plus a 12-lead ECG to assess cardiac causes. Selected embolic presentations need extended rhythm monitoring; echocardiography is selective, not universal. Hypertension versus normotension does not divide patients into mutually exclusive carotid versus cardiac workups. Hyperacute symptoms require emergency assessment; this section concerns TIA/non-disabling stroke not eligible for acute intervention.",
+      "url": "https://www.strokebestpractices.ca/recommendations/acute-stroke-management/triage-and-initial-diagnostic-evaluation-of-transient-ischemic-attack-and-non-disabling-stroke"
     }
   },
   {
@@ -43583,6 +43587,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 314,
       "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "SASGOG/Exxcellence review reaffirmed May 2026 prefers MSAFP measurement at 15-18 weeks and initial ultrasound after elevation, checking gestational dating, fetal anatomy and placental attachment. Dating errors can require reinterpretation or redraw outside the appropriate window. Dating error is one possibility, not the established cause of every abnormal AFP, and a first-trimester crown-rump-length shortcut is not the entire second-trimester workup. Amniocentesis can be considered; improved targeted ultrasound has reduced its role solely for AFP measurement.",
+      "url": "https://www.exxcellence.org/list-of-pearls/elevated-maternal-serum-afp-msafp-during-the-second-trimester/"
     }
   },
   {
@@ -43616,6 +43624,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 315,
       "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    },
+    "guideline": {
+      "text": "Hoyme and colleagues 2016 diagnostic consensus requires a defined combination of facial findings and growth, brain and neurobehavioral criteria for FAS, not any philtrum change alone. Its partial-FAS pathways also require additional criteria. The article explicitly says it is not necessarily AAP policy. A facial feature by itself does not establish prenatal exposure or justify attributing alcohol use to a parent.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960726/"
     }
   },
   {
