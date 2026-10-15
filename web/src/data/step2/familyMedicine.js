@@ -427,7 +427,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 15,
       "url": "/mehlman/hy-family-medicine.pdf#page=15"
-    }
+    },
+    "sourcePages": [
+      15,
+      269
+    ]
   },
   {
     "id": "s2fm-0037",
@@ -508,7 +512,10 @@ export default [
     "guideline": {
       "text": "AHA 2025 recommends immediate unsynchronized shock for sustained polymorphic VT (Class 1). Magnesium may be considered for recurrences with a long QT interval (torsades; Class 2b), but routine magnesium is not recommended with a normal QT interval (Class 3: no benefit). Do not delay a shock for magnesium.",
       "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support"
-    }
+    },
+    "sourcePages": [
+      17
+    ]
   },
   {
     "id": "s2fm-0044",
@@ -828,7 +835,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=24"
     },
     "sourcePages": [
-      24
+      24,
+      269
     ]
   },
   {
@@ -840,7 +848,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 25,
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
-    }
+    },
+    "sourcePages": [
+      25,
+      269
+    ]
   },
   {
     "id": "s2fm-0073",
@@ -1708,7 +1720,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 46,
       "url": "/mehlman/hy-family-medicine.pdf#page=46"
-    }
+    },
+    "sourcePages": [
+      46,
+      275
+    ]
   },
   {
     "id": "s2fm-0147",
@@ -2150,7 +2166,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "sourcePages": [
+      54,
+      274
+    ]
   },
   {
     "id": "s2fm-0183",
@@ -2889,7 +2909,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 71,
       "url": "/mehlman/hy-family-medicine.pdf#page=71"
-    }
+    },
+    "sourcePages": [
+      71,
+      277
+    ]
   },
   {
     "id": "s2fm-0247",
@@ -3299,7 +3323,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 83,
       "url": "/mehlman/hy-family-medicine.pdf#page=83"
-    }
+    },
+    "sourcePages": [
+      83,
+      279
+    ]
   },
   {
     "id": "s2fm-0283",
@@ -3836,6 +3864,16 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 99,
       "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    },
+    "sourcePages": [
+      98,
+      99,
+      234,
+      265
+    ],
+    "guideline": {
+      "text": "Cleveland Clinic distinguishes congenital hydroceles, including trapped fluid after the processus closes, from acquired hydroceles after injury or inflammation/infection. Not every hydrocele proves an open processus.",
+      "url": "https://my.clevelandclinic.org/health/diseases/16294-hydrocele"
     }
   },
   {
@@ -4507,7 +4545,11 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=117"
     },
     "img": "/s2img/fm-117-0.png",
-    "alt": "Clinical photograph from the source PDF"
+    "alt": "Clinical photograph from the source PDF",
+    "sourcePages": [
+      117,
+      266
+    ]
   },
   {
     "id": "s2fm-0387",
@@ -4942,7 +4984,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 116,
       "url": "/mehlman/hy-family-medicine.pdf#page=116"
-    }
+    },
+    "sourcePages": [
+      116,
+      266
+    ]
   },
   {
     "id": "s2fm-0420",
@@ -5848,7 +5894,8 @@ export default [
     },
     "sourcePages": [
       147,
-      184
+      184,
+      278
     ]
   },
   {
@@ -5892,7 +5939,8 @@ export default [
     "sourcePages": [
       148,
       184,
-      185
+      185,
+      277
     ]
   },
   {
@@ -5904,7 +5952,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 148,
       "url": "/mehlman/hy-family-medicine.pdf#page=148"
-    }
+    },
+    "sourcePages": [
+      148,
+      277
+    ]
   },
   {
     "id": "s2fm-0496",
@@ -6214,7 +6266,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 155,
       "url": "/mehlman/hy-family-medicine.pdf#page=155"
-    }
+    },
+    "sourcePages": [
+      155,
+      271
+    ]
   },
   {
     "id": "s2fm-0522",
@@ -6274,7 +6330,11 @@ export default [
     "guideline": {
       "text": "Current guideline: CDC/NTCA 2020 prefers short-course rifamycin-based regimens when suitable; six/nine-month isoniazid remains an alternative after excluding active disease.",
       "url": "https://www.cdc.gov/mmwr/volumes/69/rr/rr6901a1.htm"
-    }
+    },
+    "sourcePages": [
+      42,
+      268
+    ]
   },
   {
     "id": "s2fm-0526",
@@ -8013,7 +8073,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 182,
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
-    }
+    },
+    "duplicateOf": "s2fm-1521"
   },
   {
     "id": "s2fm-0666",
@@ -8046,7 +8107,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 185,
       "url": "/mehlman/hy-family-medicine.pdf#page=185"
-    }
+    },
+    "sourcePages": [
+      185,
+      278
+    ]
   },
   {
     "id": "s2fm-0669",
@@ -8365,7 +8430,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 190,
       "url": "/mehlman/hy-family-medicine.pdf#page=190"
-    }
+    },
+    "sourcePages": [
+      190,
+      271
+    ]
   },
   {
     "id": "s2fm-0696",
@@ -8975,7 +9044,8 @@ export default [
     },
     "sourcePages": [
       209,
-      222
+      222,
+      278
     ]
   },
   {
@@ -9034,7 +9104,8 @@ export default [
     },
     "sourcePages": [
       210,
-      222
+      222,
+      278
     ]
   },
   {
@@ -9255,7 +9326,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 215,
       "url": "/mehlman/hy-family-medicine.pdf#page=215"
-    }
+    },
+    "sourcePages": [
+      215
+    ]
   },
   {
     "id": "s2fm-0768",
@@ -9288,7 +9362,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 216,
       "url": "/mehlman/hy-family-medicine.pdf#page=216"
-    }
+    },
+    "sourcePages": [
+      216
+    ]
   },
   {
     "id": "s2fm-0771",
@@ -9401,7 +9478,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 218,
       "url": "/mehlman/hy-family-medicine.pdf#page=218"
-    }
+    },
+    "sourcePages": [
+      218
+    ]
   },
   {
     "id": "s2fm-0781",
@@ -9459,7 +9539,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 219,
       "url": "/mehlman/hy-family-medicine.pdf#page=219"
-    }
+    },
+    "sourcePages": [
+      219,
+      261
+    ]
   },
   {
     "id": "s2fm-0786",
@@ -9503,7 +9587,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 220,
       "url": "/mehlman/hy-family-medicine.pdf#page=220"
-    }
+    },
+    "sourcePages": [
+      220,
+      261
+    ]
   },
   {
     "id": "s2fm-0790",
@@ -9514,7 +9602,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 220,
       "url": "/mehlman/hy-family-medicine.pdf#page=220"
-    }
+    },
+    "sourcePages": [
+      220,
+      261
+    ]
   },
   {
     "id": "s2fm-0791",
@@ -9525,7 +9617,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 220,
       "url": "/mehlman/hy-family-medicine.pdf#page=220"
-    }
+    },
+    "sourcePages": [
+      220,
+      261
+    ]
   },
   {
     "id": "s2fm-0792",
@@ -10013,7 +10109,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 233,
       "url": "/mehlman/hy-family-medicine.pdf#page=233"
-    }
+    },
+    "sourcePages": [
+      233,
+      280
+    ]
   },
   {
     "id": "s2fm-0831",
@@ -10035,7 +10135,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 233,
       "url": "/mehlman/hy-family-medicine.pdf#page=233"
-    }
+    },
+    "sourcePages": [
+      233,
+      280
+    ]
   },
   {
     "id": "s2fm-0833",
@@ -10528,7 +10632,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
     },
     "sourcePages": [
-      239
+      239,
+      271
     ]
   },
   {
@@ -10540,7 +10645,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 239,
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
-    }
+    },
+    "sourcePages": [
+      239,
+      271
+    ]
   },
   {
     "id": "s2fm-0873",
@@ -10551,7 +10660,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 239,
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
-    }
+    },
+    "sourcePages": [
+      239
+    ]
   },
   {
     "id": "s2fm-0874",
@@ -10573,7 +10685,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 239,
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
-    }
+    },
+    "sourcePages": [
+      239,
+      271
+    ]
   },
   {
     "id": "s2fm-0876",
@@ -10613,7 +10729,8 @@ export default [
     },
     "sourcePages": [
       240,
-      258
+      258,
+      271
     ]
   },
   {
@@ -10625,7 +10742,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
-    }
+    },
+    "sourcePages": [
+      240,
+      272
+    ]
   },
   {
     "id": "s2fm-0880",
@@ -10636,7 +10757,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
-    }
+    },
+    "sourcePages": [
+      240,
+      272
+    ]
   },
   {
     "id": "s2fm-0881",
@@ -10647,7 +10772,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
-    }
+    },
+    "sourcePages": [
+      240,
+      272
+    ]
   },
   {
     "id": "s2fm-0882",
@@ -10664,12 +10793,16 @@ export default [
     "id": "s2fm-0883",
     "category": "Endocrine",
     "q": "A severely ill hospitalized patient has low T3 and increased reverse T3 with initially normal TSH/T4 in the source pattern. Which syndrome is described?",
-    "a": "Nonthyroidal illness, also called euthyroid sick syndrome.",
+    "a": "Nonthyroidal illness, also called euthyroid sick syndrome. Actual laboratory values vary with illness severity and do not replace assessment for primary thyroid disease.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
-    }
+    },
+    "sourcePages": [
+      240,
+      272
+    ]
   },
   {
     "id": "s2fm-0884",
@@ -10691,7 +10824,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 241,
       "url": "/mehlman/hy-family-medicine.pdf#page=241"
-    }
+    },
+    "sourcePages": [
+      241,
+      273
+    ]
   },
   {
     "id": "s2fm-0886",
@@ -10735,7 +10872,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 241,
       "url": "/mehlman/hy-family-medicine.pdf#page=241"
-    }
+    },
+    "sourcePages": [
+      241,
+      273
+    ]
   },
   {
     "id": "s2fm-0890",
@@ -10746,7 +10887,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 241,
       "url": "/mehlman/hy-family-medicine.pdf#page=241"
-    }
+    },
+    "sourcePages": [
+      241,
+      273
+    ]
   },
   {
     "id": "s2fm-0891",
@@ -10757,7 +10902,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 241,
       "url": "/mehlman/hy-family-medicine.pdf#page=241"
-    }
+    },
+    "sourcePages": [
+      241,
+      273
+    ]
   },
   {
     "id": "s2fm-0892",
@@ -10770,7 +10919,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
     },
     "sourcePages": [
-      242
+      242,
+      273
     ]
   },
   {
@@ -10842,7 +10992,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 243,
       "url": "/mehlman/hy-family-medicine.pdf#page=243"
-    }
+    },
+    "sourcePages": [
+      243,
+      273
+    ]
   },
   {
     "id": "s2fm-0899",
@@ -12023,7 +12177,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 261,
       "url": "/mehlman/hy-family-medicine.pdf#page=261"
-    }
+    },
+    "sourcePages": [
+      261
+    ]
   },
   {
     "id": "s2fm-0998",
@@ -12085,7 +12242,7 @@ export default [
     "id": "s2fm-1003",
     "category": "Nutrition",
     "q": "An older patient has macrocytosis after six months of poor tea-and-toast intake. Which deficiency does the source favor?",
-    "a": "Folate deficiency. The source contrasts rapidly depleted folate stores with longer-lasting B 12 stores.",
+    "a": "Folate deficiency. The source contrasts rapidly depleted folate stores with longer-lasting B 12 stores. Mixed deficiencies remain possible.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 264,
@@ -12127,7 +12284,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 265,
       "url": "/mehlman/hy-family-medicine.pdf#page=265"
-    }
+    },
+    "duplicateOf": "s2fm-0329"
   },
   {
     "id": "s2fm-1007",
@@ -12182,7 +12340,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 267,
       "url": "/mehlman/hy-family-medicine.pdf#page=267"
-    }
+    },
+    "sourcePages": [
+      267
+    ]
   },
   {
     "id": "s2fm-1012",
@@ -12193,7 +12354,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 268,
       "url": "/mehlman/hy-family-medicine.pdf#page=268"
-    }
+    },
+    "sourcePages": [
+      268
+    ]
   },
   {
     "id": "s2fm-1013",
@@ -12204,7 +12368,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 268,
       "url": "/mehlman/hy-family-medicine.pdf#page=268"
-    }
+    },
+    "sourcePages": [
+      268
+    ]
   },
   {
     "id": "s2fm-1014",
@@ -12372,7 +12539,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 274,
       "url": "/mehlman/hy-family-medicine.pdf#page=274"
-    }
+    },
+    "duplicateOf": "s2fm-2155"
   },
   {
     "id": "s2fm-1029",
@@ -12395,7 +12563,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 276,
       "url": "/mehlman/hy-family-medicine.pdf#page=276"
-    }
+    },
+    "sourcePages": [
+      276
+    ]
   },
   {
     "id": "s2fm-1031",
@@ -12412,12 +12583,15 @@ export default [
     "id": "s2fm-1032",
     "category": "Genitourinary",
     "q": "Urine leakage accompanies a large postvoid residual. Which incontinence mechanism is described?",
-    "a": "Overflow incontinence from incomplete emptying, due to outlet obstruction or impaired bladder contractility.",
+    "a": "Overflow incontinence from incomplete emptying, due to outlet obstruction or impaired bladder contractility. Leakage alone does not establish detrusor overactivity.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 276,
       "url": "/mehlman/hy-family-medicine.pdf#page=276"
-    }
+    },
+    "sourcePages": [
+      276
+    ]
   },
   {
     "id": "s2fm-1033",
@@ -12486,18 +12660,22 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 279,
       "url": "/mehlman/hy-family-medicine.pdf#page=279"
-    }
+    },
+    "duplicateOf": "s2fm-0282"
   },
   {
     "id": "s2fm-1039",
     "category": "Hematology",
     "q": "How does the source EPO pattern differ between polycythemia vera and hypoxia-driven erythrocytosis?",
-    "a": "EPO is suppressed in polycythemia vera and elevated in secondary erythrocytosis driven by hypoxia.",
+    "a": "EPO is suppressed in polycythemia vera and elevated in secondary erythrocytosis driven by hypoxia. A single elevated hemoglobin is not the complete diagnosis.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 279,
       "url": "/mehlman/hy-family-medicine.pdf#page=279"
-    }
+    },
+    "sourcePages": [
+      279
+    ]
   },
   {
     "id": "s2fm-1040",
@@ -12526,12 +12704,15 @@ export default [
     "id": "s2fm-1042",
     "category": "Cardiology",
     "q": "A newborn of a mother with lupus develops which source congenital conduction disorder?",
-    "a": "Congenital complete heart block.",
+    "a": "Congenital complete heart block. This risk does not mean every exposed infant develops it.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 280,
       "url": "/mehlman/hy-family-medicine.pdf#page=280"
-    }
+    },
+    "sourcePages": [
+      280
+    ]
   },
   {
     "id": "s2fm-1043",
@@ -16493,7 +16674,11 @@ export default [
     "guideline": {
       "text": "ACC summary of the 2024 HCM guideline recommends nonvasodilating beta blockers first for symptomatic obstruction. Sudden-death prevention separately requires risk assessment every 1-2 years and ICD consideration; symptom treatment is not proof that beta blockers eliminate sudden-death risk.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/05/06/15/12/2024-hypertrophic-cardiomyopathy-gl"
-    }
+    },
+    "sourcePages": [
+      20,
+      271
+    ]
   },
   {
     "id": "s2fm-1367",
@@ -16541,7 +16726,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 22,
       "url": "/mehlman/hy-family-medicine.pdf#page=22"
-    }
+    },
+    "sourcePages": [
+      22,
+      280
+    ]
   },
   {
     "id": "s2fm-1371",
@@ -16635,12 +16824,16 @@ export default [
     "id": "s2fm-1378",
     "category": "Cardiology source details",
     "q": "Which distinct beta-blocker uses does the PDF group under propranolol?",
-    "a": "Hyperthyroid tachycardia with reduced T4-to-T3 conversion, essential tremor, antipsychotic-induced akathisia, performance anxiety and obstructive cardiomyopathy. These are source uses, not an instruction to ignore contraindications.",
+    "a": "Hyperthyroid tachycardia with reduced T4-to-T3 conversion, essential tremor, antipsychotic-induced akathisia, performance anxiety and obstructive cardiomyopathy. These are source uses, not an instruction to ignore contraindications. The rapid list also includes portal-variceal prophylaxis and hypertension with tremor.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 27,
       "url": "/mehlman/hy-family-medicine.pdf#page=27"
-    }
+    },
+    "sourcePages": [
+      27,
+      271
+    ]
   },
   {
     "id": "s2fm-1379",
@@ -17492,7 +17685,11 @@ export default [
     "guideline": {
       "text": "CDC 2025: two-step testing is for baseline skin testing in people who will be retested periodically; if the first is negative, repeat 1-3 weeks later. It is not a rule for every negative test.",
       "url": "https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
-    }
+    },
+    "sourcePages": [
+      43,
+      267
+    ]
   },
   {
     "id": "s2fm-1452",
@@ -17700,7 +17897,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 46,
       "url": "/mehlman/hy-family-medicine.pdf#page=46"
-    }
+    },
+    "sourcePages": [
+      46,
+      275
+    ]
   },
   {
     "id": "s2fm-1470",
@@ -17711,7 +17912,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 46,
       "url": "/mehlman/hy-family-medicine.pdf#page=46"
-    }
+    },
+    "sourcePages": [
+      46,
+      276
+    ]
   },
   {
     "id": "s2fm-1471",
@@ -18139,7 +18344,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 52,
       "url": "/mehlman/hy-family-medicine.pdf#page=52"
-    }
+    },
+    "sourcePages": [
+      52
+    ]
   },
   {
     "id": "s2fm-1509",
@@ -18254,7 +18462,11 @@ export default [
     "guideline": {
       "text": "BNF/NICE urinary-retention summary notes bethanechol licensing for acute postoperative/postpartum/neurogenic retention but says its use has largely been superseded by catheterization. This is a directly fetched prescribing summary, not a claim of routine benefit in every diabetic hypotonic bladder.",
       "url": "https://bnf.nice.org.uk/treatment-summaries/urinary-retention/"
-    }
+    },
+    "sourcePages": [
+      53,
+      276
+    ]
   },
   {
     "id": "s2fm-1518",
@@ -18299,7 +18511,13 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "sourcePages": [
+      54,
+      182,
+      274,
+      275
+    ]
   },
   {
     "id": "s2fm-1522",
@@ -19439,7 +19657,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 75,
       "url": "/mehlman/hy-family-medicine.pdf#page=75"
-    }
+    },
+    "sourcePages": [
+      75,
+      268
+    ]
   },
   {
     "id": "s2fm-1621",
@@ -19454,7 +19676,11 @@ export default [
     "guideline": {
       "text": "SHEA/IDSA 2021 adult guidance conditionally prefers fidaxomicin over standard-course vancomycin for an initial nonfulminant CDI episode when resources allow; vancomycin remains acceptable. Fulminant disease is different and retains vancomycin-based management.",
       "url": "https://www.idsociety.org/practice-guideline/clostridioides-difficile-2021-focused-update/"
-    }
+    },
+    "sourcePages": [
+      75,
+      268
+    ]
   },
   {
     "id": "s2fm-1622",
@@ -20262,7 +20488,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 88,
       "url": "/mehlman/hy-family-medicine.pdf#page=88"
-    }
+    },
+    "sourcePages": [
+      88,
+      279
+    ]
   },
   {
     "id": "s2fm-1691",
@@ -20745,7 +20975,11 @@ export default [
     "guideline": {
       "text": "CDC STI guidance bases likely cause and testing on STI exposure, insertive anal sex, bacteriuria/outlet obstruction, instrumentation and other risks. Age alone is not a strict STI-versus-E. coli cutoff. Test suspected acute epididymitis for chlamydia/gonorrhea by NAAT and obtain bacterial urine culture.",
       "url": "https://www.cdc.gov/std/treatment-guidelines/epididymitis.htm"
-    }
+    },
+    "sourcePages": [
+      98,
+      264
+    ]
   },
   {
     "id": "s2fm-1733",
@@ -20778,7 +21012,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 99,
       "url": "/mehlman/hy-family-medicine.pdf#page=99"
-    }
+    },
+    "sourcePages": [
+      99,
+      234
+    ]
   },
   {
     "id": "s2fm-1736",
@@ -21486,7 +21724,12 @@ export default [
     "guideline": {
       "text": "AAD 2024 strongly recommends benzoyl peroxide, topical retinoids and combination regimens; topical/oral antibiotics should be paired with benzoyl peroxide to limit resistance. This is not a compulsory sequential ladder.",
       "url": "https://www.aad.org/news/updated-guidelines-acne-management"
-    }
+    },
+    "sourcePages": [
+      116,
+      265,
+      266
+    ]
   },
   {
     "id": "s2fm-1797",
@@ -21497,7 +21740,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 116,
       "url": "/mehlman/hy-family-medicine.pdf#page=116"
-    }
+    },
+    "sourcePages": [
+      116,
+      265,
+      266
+    ]
   },
   {
     "id": "s2fm-1798",
@@ -21512,7 +21760,11 @@ export default [
     "guideline": {
       "text": "AAD pregnancy advice recommends stopping tretinoin during pregnancy and stopping/avoiding several retinoids, including isotretinoin and tazarotene. Discuss safer acne treatment during pregnancy.",
       "url": "https://www.aad.org/public/diseases/acne/derm-treat/pregnancy"
-    }
+    },
+    "sourcePages": [
+      116,
+      266
+    ]
   },
   {
     "id": "s2fm-1799",
@@ -22742,7 +22994,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 151,
       "url": "/mehlman/hy-family-medicine.pdf#page=151"
-    }
+    },
+    "sourcePages": [
+      151,
+      280
+    ]
   },
   {
     "id": "s2fm-1900",
@@ -23583,7 +23839,11 @@ export default [
     "guideline": {
       "text": "BNF/NICE retention summary says bethanechol use has largely been superseded by catheterization, despite licensing for selected acute postoperative/postpartum/neurogenic retention. It is not a universal first response to retention.",
       "url": "https://bnf.nice.org.uk/treatment-summaries/urinary-retention/"
-    }
+    },
+    "sourcePages": [
+      167,
+      276
+    ]
   },
   {
     "id": "s2fm-1969",
@@ -24267,7 +24527,11 @@ export default [
     "guideline": {
       "text": "NICE CG111 recommends rewarding agreed behaviors rather than dry nights, such as toileting or engaging with treatment. Wetting should not be punished.",
       "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
-    }
+    },
+    "sourcePages": [
+      182,
+      274
+    ]
   },
   {
     "id": "s2fm-2023",
@@ -25409,7 +25673,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 219,
       "url": "/mehlman/hy-family-medicine.pdf#page=219"
-    }
+    },
+    "sourcePages": [
+      219,
+      261
+    ]
   },
   {
     "id": "s2fm-2116",
@@ -25907,7 +26175,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 231,
       "url": "/mehlman/hy-family-medicine.pdf#page=231"
-    }
+    },
+    "sourcePages": [
+      231,
+      274
+    ]
   },
   {
     "id": "s2fm-2156",
@@ -25918,7 +26190,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 232,
       "url": "/mehlman/hy-family-medicine.pdf#page=232"
-    }
+    },
+    "sourcePages": [
+      232,
+      274
+    ]
   },
   {
     "id": "s2fm-2157",
@@ -25944,7 +26220,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 232,
       "url": "/mehlman/hy-family-medicine.pdf#page=232"
-    }
+    },
+    "sourcePages": [
+      232,
+      271,
+      272
+    ]
   },
   {
     "id": "s2fm-2159",
@@ -26012,7 +26293,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "duplicateOf": "s2fm-1735"
   },
   {
     "id": "s2fm-2165",
@@ -26269,7 +26551,11 @@ export default [
     "guideline": {
       "text": "ATA 2026 Box 3, read in an author-university copy of the full guideline, describes about a 25% increase after a positive pregnancy test, then testing/titration. Many women need about 25% more by week 12 and 50% by week 20; baseline TSH/dose and overtreatment risk matter. A fixed 50% increase for everyone is not the rule.",
       "url": "https://pure.eur.nl/ws/portalfiles/portal/250480178/American_Thyroid_Association_2026_Guidelines_for_Thyroid_Disease_in_Preconception_Pregnancy_and_Postpartum.pdf"
-    }
+    },
+    "sourcePages": [
+      242,
+      273
+    ]
   },
   {
     "id": "s2fm-2186",
@@ -26837,7 +27123,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 261,
       "url": "/mehlman/hy-family-medicine.pdf#page=261"
-    }
+    },
+    "sourcePages": [
+      261
+    ]
   },
   {
     "id": "s2fm-2233",
@@ -26921,7 +27210,8 @@ export default [
     "sourcePages": [
       155,
       264
-    ]
+    ],
+    "duplicateOf": "s2fm-1003"
   },
   {
     "id": "s2fm-2240",
@@ -27018,7 +27308,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 267,
       "url": "/mehlman/hy-family-medicine.pdf#page=267"
-    }
+    },
+    "duplicateOf": "s2fm-1011"
   },
   {
     "id": "s2fm-2247",
@@ -27095,7 +27386,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 272,
       "url": "/mehlman/hy-family-medicine.pdf#page=272"
-    }
+    },
+    "duplicateOf": "s2fm-3016"
   },
   {
     "id": "s2fm-2254",
@@ -27172,7 +27464,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 276,
       "url": "/mehlman/hy-family-medicine.pdf#page=276"
-    }
+    },
+    "duplicateOf": "s2fm-1032"
   },
   {
     "id": "s2fm-2260",
@@ -27205,7 +27498,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 279,
       "url": "/mehlman/hy-family-medicine.pdf#page=279"
-    }
+    },
+    "duplicateOf": "s2fm-1039"
   },
   {
     "id": "s2fm-2263",
@@ -27227,7 +27521,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 280,
       "url": "/mehlman/hy-family-medicine.pdf#page=280"
-    }
+    },
+    "duplicateOf": "s2fm-1042"
   },
   {
     "id": "s2fm-2265",
@@ -28189,7 +28484,11 @@ export default [
     "guideline": {
       "text": "ACC summary of the 2024 perioperative guideline limits stress testing to highly selected patients, such as poor/unknown functional capacity plus elevated calculated perioperative risk. Low-risk procedures or patients and those with good capacity should not receive routine testing.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/09/23/04/15/2024-aha-acc-perioperative-guideline-gl"
-    }
+    },
+    "sourcePages": [
+      25,
+      269
+    ]
   },
   {
     "id": "s2fm-2343",
@@ -28301,7 +28600,11 @@ export default [
     "guideline": {
       "text": "ESC 2025 section 6.2.2.1.1 uses aspirin/NSAID plus colchicine as the usual initial acute-pericarditis treatment, with gastroprotection for NSAIDs. Low-to-moderate corticosteroids are considered for contraindications, specific indications or incomplete response, not as three interchangeable defaults.",
       "url": "https://www.sicardiologia.it/wp-content/uploads/2025/09/ehaf192.pdf"
-    }
+    },
+    "sourcePages": [
+      15,
+      269
+    ]
   },
   {
     "id": "s2fm-2351",
@@ -29452,7 +29755,11 @@ export default [
     "guideline": {
       "text": "The ACC summary of ESC 2023 endocarditis guidance states that aminoglycosides are not recommended in staphylococcal native-valve endocarditis. Regimens are organism/valve/context-specific; a universal gentamicin-containing rule is not supported. This is an issuing-society summary, not the fully retrieved antibiotic table.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/20/49/2023-esc-guidelines-for-endocarditis-esc-2023"
-    }
+    },
+    "sourcePages": [
+      170,
+      280
+    ]
   },
   {
     "id": "s2fm-2427",
@@ -30106,7 +30413,11 @@ export default [
     "guideline": {
       "text": "ATA September 2026 patient summary of a surgical series reports rare cancers in hot nodules. It also states current guidelines generally do not require biopsy of overactive nodules. This is observational evidence in a selected surgical population, not a new universal biopsy rule.",
       "url": "https://www.thyroid.org/patient-thyroid-information/ct-for-patients/september-2026/vol-19-issue-9-p-5-6/"
-    }
+    },
+    "sourcePages": [
+      241,
+      273
+    ]
   },
   {
     "id": "s2fm-2471",
@@ -30506,7 +30817,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 272,
       "url": "/mehlman/hy-family-medicine.pdf#page=272"
-    }
+    },
+    "duplicateOf": "s2fm-3016"
   },
   {
     "id": "s2fm-2497",
@@ -30517,7 +30829,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 272,
       "url": "/mehlman/hy-family-medicine.pdf#page=272"
-    }
+    },
+    "duplicateOf": "s2fm-0883"
   },
   {
     "id": "s2fm-2498",
@@ -30540,7 +30853,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 274,
       "url": "/mehlman/hy-family-medicine.pdf#page=274"
-    }
+    },
+    "duplicateOf": "s2fm-2155"
   },
   {
     "id": "s2fm-2500",
@@ -30551,7 +30865,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 274,
       "url": "/mehlman/hy-family-medicine.pdf#page=274"
-    }
+    },
+    "duplicateOf": "s2fm-2156"
   },
   {
     "id": "s2fm-2501",
@@ -30573,7 +30888,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 276,
       "url": "/mehlman/hy-family-medicine.pdf#page=276"
-    }
+    },
+    "duplicateOf": "s2fm-1030"
   },
   {
     "id": "s2fm-2503",
@@ -30649,7 +30965,7 @@ export default [
     "id": "s2fm-2509",
     "category": "Rapid-bullet detailed review",
     "q": "Which inherited red-cell membrane disorder is paired with ankyrin, spectrin or band-protein defects?",
-    "a": "Hereditary spherocytosis, usually autosomal dominant in the source. It lists splenectomy as a treatment, not a mandatory intervention for every severity.",
+    "a": "Hereditary spherocytosis, usually autosomal dominant in the source. It lists splenectomy as a treatment, not a mandatory intervention for every severity. Earlier source details identify ankyrin, spectrin and band proteins.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 279,
@@ -30665,7 +30981,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 279,
       "url": "/mehlman/hy-family-medicine.pdf#page=279"
-    }
+    },
+    "duplicateOf": "s2fm-1597"
   },
   {
     "id": "s2fm-2511",
@@ -31751,7 +32068,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 40,
       "url": "/mehlman/hy-family-medicine.pdf#page=40"
-    }
+    },
+    "sourcePages": [
+      40,
+      269
+    ]
   },
   {
     "id": "s2fm-2594",
@@ -31792,7 +32113,11 @@ export default [
     "guideline": {
       "text": "ATS/IDSA 2019 offers amoxicillin or doxycycline for otherwise healthy outpatients; macrolide monotherapy is conditional on local pneumococcal resistance below 25%. Comorbidities change options. ATS 2025 updates other CAP questions, not this routine drug-selection question.",
       "url": "https://www.idsociety.org/globalassets/idsa/practice-guidelines/community-acquired-pneumonia-in-adults/executive_summary.pdf"
-    }
+    },
+    "sourcePages": [
+      40,
+      269
+    ]
   },
   {
     "id": "s2fm-2597",
@@ -31897,7 +32222,11 @@ export default [
     "guideline": {
       "text": "CDC: Do not wait for a TB skin or blood test before evaluating a patient with symptoms of TB disease. Evaluation includes chest imaging and bacteriologic testing; a negative infection test does not exclude active disease.",
       "url": "https://cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html"
-    }
+    },
+    "sourcePages": [
+      42,
+      267
+    ]
   },
   {
     "id": "s2fm-2604",
@@ -31912,7 +32241,11 @@ export default [
     "guideline": {
       "text": "CDC requires clinical assessment and bacteriologic evaluation for suspected TB disease. An abnormal film plus positive infection test is not by itself definitive proof of active disease, and negative CXR alone does not replace assessment of symptoms and other sites.",
       "url": "https://cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html"
-    }
+    },
+    "sourcePages": [
+      42,
+      267
+    ]
   },
   {
     "id": "s2fm-2605",
@@ -31927,7 +32260,11 @@ export default [
     "guideline": {
       "text": "CDC prefers TB blood tests for people who received BCG, including children, and interprets skin reactions by risk regardless of BCG history.",
       "url": "https://cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
-    }
+    },
+    "sourcePages": [
+      42,
+      267
+    ]
   },
   {
     "id": "s2fm-2606",
@@ -31942,7 +32279,11 @@ export default [
     "guideline": {
       "text": "CDC uses at least 5 mm for recent contacts, HIV, transplant or relevant immunosuppression and chest findings suggestive of previous TB. The source vague calcification label should not replace assessment of the actual imaging finding.",
       "url": "https://cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
-    }
+    },
+    "sourcePages": [
+      42,
+      267
+    ]
   },
   {
     "id": "s2fm-2607",
@@ -31957,7 +32298,12 @@ export default [
     "guideline": {
       "text": "CDC uses at least 10 mm for defined risk categories, including high-risk congregate settings, mycobacteriology laboratories, birth in high-incidence countries and children under 5. Health care employment alone is not listed as an automatic universal category.",
       "url": "https://cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
-    }
+    },
+    "sourcePages": [
+      43,
+      267,
+      268
+    ]
   },
   {
     "id": "s2fm-2608",
@@ -32084,7 +32430,11 @@ export default [
     "guideline": {
       "text": "IDSA 2025 scoring table specifies swollen tender anterior cervical nodes for Centor/McIsaac scoring, not any lymphadenopathy in any neck region.",
       "url": "https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/"
-    }
+    },
+    "sourcePages": [
+      46,
+      275
+    ]
   },
   {
     "id": "s2fm-2617",
@@ -33518,7 +33868,8 @@ export default [
     "guideline": {
       "text": "Cleveland Clinic distinguishes congenital hydroceles, including trapped fluid after the processus closes, from acquired hydroceles after injury or inflammation/infection. Not every hydrocele proves an open processus.",
       "url": "https://my.clevelandclinic.org/health/diseases/16294-hydrocele"
-    }
+    },
+    "duplicateOf": "s2fm-0329"
   },
   {
     "id": "s2fm-2724",
@@ -33529,7 +33880,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 99,
       "url": "/mehlman/hy-family-medicine.pdf#page=99"
-    }
+    },
+    "sourcePages": [
+      99,
+      265
+    ]
   },
   {
     "id": "s2fm-2725",
@@ -34377,7 +34732,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 119,
       "url": "/mehlman/hy-family-medicine.pdf#page=119"
-    }
+    },
+    "sourcePages": [
+      119,
+      265
+    ]
   },
   {
     "id": "s2fm-2793",
@@ -35038,7 +35397,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 154,
       "url": "/mehlman/hy-family-medicine.pdf#page=154"
-    }
+    },
+    "sourcePages": [
+      154,
+      270,
+      271
+    ]
   },
   {
     "id": "s2fm-2846",
@@ -36607,7 +36971,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 219,
       "url": "/mehlman/hy-family-medicine.pdf#page=219"
-    }
+    },
+    "sourcePages": [
+      219,
+      261
+    ]
   },
   {
     "id": "s2fm-2970",
@@ -36722,7 +37090,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 224,
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
-    }
+    },
+    "sourcePages": [
+      224
+    ]
   },
   {
     "id": "s2fm-2979",
@@ -36978,7 +37349,10 @@ export default [
     "guideline": {
       "text": "Merck distinguishes the usual polymyositis endomysial CD8 pattern from dermatomyositis perifascicular/perivascular changes. The source one-pattern description should not be imposed on both diseases.",
       "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies"
-    }
+    },
+    "sourcePages": [
+      232
+    ]
   },
   {
     "id": "s2fm-3000",
@@ -36996,7 +37370,8 @@ export default [
     },
     "sourcePages": [
       128,
-      232
+      232,
+      274
     ]
   },
   {
@@ -37015,7 +37390,8 @@ export default [
     },
     "sourcePages": [
       128,
-      232
+      232,
+      274
     ]
   },
   {
@@ -37169,7 +37545,11 @@ export default [
     "guideline": {
       "text": "NICE NG145 considers a six-month levothyroxine trial in adults under 65 with persistent TSH elevation below 10 and symptoms. Subclinical is a biochemical classification, not proof that symptoms are absent.",
       "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
-    }
+    },
+    "sourcePages": [
+      240,
+      272
+    ]
   },
   {
     "id": "s2fm-3013",
@@ -37184,7 +37564,11 @@ export default [
     "guideline": {
       "text": "For adults, NICE considers TSH at least 10 on two occasions three months apart, with symptoms and evidence of underlying thyroid disease also informing discussion. Antibody positivity alone is not a universal automatic prescription rule; pregnancy needs separate guidance.",
       "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
-    }
+    },
+    "sourcePages": [
+      240,
+      272
+    ]
   },
   {
     "id": "s2fm-3014",
@@ -37195,7 +37579,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 239,
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
-    }
+    },
+    "sourcePages": [
+      239,
+      272
+    ]
   },
   {
     "id": "s2fm-3015",
@@ -37212,12 +37600,16 @@ export default [
     "id": "s2fm-3016",
     "category": "Thyroid finer source review",
     "q": "How does taking T3 rather than T4 change the source exogenous-thyrotoxicosis pattern?",
-    "a": "T3 dosing raises T3 while T4 may be low and TSH suppressed; T4 dosing can raise both T4 and T3 because T4 is converted peripherally.",
+    "a": "T3 dosing raises T3 while T4 may be low and TSH suppressed; T4 dosing can raise both T4 and T3 because T4 is converted peripherally. T4 can also be converted to inactive reverse T3; T3 is not converted back into T4.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 241,
       "url": "/mehlman/hy-family-medicine.pdf#page=241"
-    }
+    },
+    "sourcePages": [
+      241,
+      272
+    ]
   },
   {
     "id": "s2fm-3017",
@@ -37559,7 +37951,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 262,
       "url": "/mehlman/hy-family-medicine.pdf#page=262"
-    }
+    },
+    "sourcePages": [
+      262
+    ]
   },
   {
     "id": "s2fm-3047",
@@ -37737,7 +38132,10 @@ export default [
     "guideline": {
       "text": "NICE CG111 recommendation1.7.1 rewards agreed behaviors rather than dry nights, such as drinking appropriately, toileting before sleep or helping with management. Do not penalize or remove earned rewards. Dry nights are not entirely under the child's control.",
       "url": "https://www.nice.org.uk/guidance/cg111/chapter/1-recommendations"
-    }
+    },
+    "sourcePages": [
+      274
+    ]
   },
   {
     "id": "s2fm-3061",
@@ -38398,7 +38796,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 112,
       "url": "/mehlman/hy-family-medicine.pdf#page=112"
-    }
+    },
+    "sourcePages": [
+      112,
+      266
+    ]
   },
   {
     "id": "s2fm-3112",
@@ -39893,7 +40295,8 @@ export default [
     },
     "sourcePages": [
       209,
-      222
+      222,
+      278
     ]
   },
   {
@@ -40115,7 +40518,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 222,
       "url": "/mehlman/hy-family-medicine.pdf#page=222"
-    }
+    },
+    "sourcePages": [
+      222,
+      278
+    ]
   },
   {
     "id": "s2fm-3255",
@@ -40583,7 +40990,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 240,
       "url": "/mehlman/hy-family-medicine.pdf#page=240"
-    }
+    },
+    "sourcePages": [
+      240,
+      271
+    ]
   },
   {
     "id": "s2fm-3292",
@@ -40722,7 +41133,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 241,
       "url": "/mehlman/hy-family-medicine.pdf#page=241"
-    }
+    },
+    "sourcePages": [
+      241,
+      273
+    ]
   },
   {
     "id": "s2fm-3303",
@@ -40733,7 +41148,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 242,
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
-    }
+    },
+    "sourcePages": [
+      242,
+      273
+    ]
   },
   {
     "id": "s2fm-3304",
@@ -40755,7 +41174,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 243,
       "url": "/mehlman/hy-family-medicine.pdf#page=243"
-    }
+    },
+    "sourcePages": [
+      243,
+      273
+    ]
   },
   {
     "id": "s2fm-3306",
@@ -41093,7 +41516,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 258,
       "url": "/mehlman/hy-family-medicine.pdf#page=258"
-    }
+    },
+    "sourcePages": [
+      258,
+      271
+    ]
   },
   {
     "id": "s2fm-3336",
@@ -41104,6 +41531,392 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 259,
       "url": "/mehlman/hy-family-medicine.pdf#page=259"
+    }
+  },
+  {
+    "id": "s2fm-3337",
+    "category": "Final source-mapping details",
+    "q": "What supportive measures accompany source quadriceps strengthening for anterior knee overuse pain?",
+    "a": "Rest, ice, compression and elevation in its patellofemoral and jumper-knee examples, with loading adapted to the individual rather than indefinite bed rest.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-family-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2fm-3338",
+    "category": "Final source-mapping details",
+    "q": "Which angulation term does the source contrast with bow-legged genu varum?",
+    "a": "Genu valgum: knock-knees, where the knees move toward each other. Its bow-leg source examples include physiologic infant bowing, rickets and Blount disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-family-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2fm-3339",
+    "category": "Final source-mapping details",
+    "q": "What additional source risk associations accompany Dupuytren contracture?",
+    "a": "Norwegian ancestry and epilepsy, alongside diabetes and alcohol use. These are source associations, not diagnostic requirements or a universal surgical indication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-family-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2fm-3340",
+    "category": "Final source-mapping details",
+    "q": "What examination sign does the source include in its epididymitis vignette?",
+    "a": "A preserved cremasteric reflex with fever and testicular pain. This is its vignette clue, not a safe stand-alone exclusion of testicular torsion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2fm-3341",
+    "category": "Final source-mapping details",
+    "q": "What source treatment order is printed for carpal and cubital tunnel syndromes?",
+    "a": "Carpal tunnel: wrist splint then steroid injection; cubital tunnel: elbow splint. Its claims that surgery is always wrong and electrophysiology always required have separate current-source qualifications.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2fm-3342",
+    "category": "Final source-mapping details",
+    "q": "Which bowel/abdominal findings shift the source painful-scrotum vignette toward strangulated hernia?",
+    "a": "Reduced bowel sounds and abdominal rigidity, even when the superior testicular area appears blue/black. A focal blue dot without these obstructive findings is its appendix-testis-torsion contrast; urgent assessment remains necessary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-3343",
+    "category": "Final source-mapping details",
+    "q": "What mechanisms does the PDF give for acne retinoids versus benzoyl peroxide?",
+    "a": "Retinoids reduce sebum in its source account; benzoyl peroxide kills bacteria. It lists topical clindamycin and oral tetracycline escalation; this is a source summary rather than complete current acne pharmacology.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-family-medicine.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2fm-3344",
+    "category": "Final source-mapping details",
+    "q": "What additional treatment-course and adverse-effect details does the source give for oral isotretinoin?",
+    "a": "Dry peeling skin, elevated liver enzymes and dyslipidemia; it says several weeks may be needed and severe nodulocystic acne can prompt earlier use. Pregnancy-prevention requirements are separately noted.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-family-medicine.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2fm-3345",
+    "category": "Final source-mapping details",
+    "q": "What blood-pressure/albuminuria and lipid actions does the rapid diabetes source select?",
+    "a": "ACE inhibition when blood pressure exceeds 130/80 or urine protein is present; statin therapy in its 40-year-old with LDL 112 to target under 70. These are source vignette answers; current antihypertensive selection and latest final USPSTF primary-prevention statin scope are separately documented.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2fm-3346",
+    "category": "Final source-mapping details",
+    "q": "What exact chronic-steroid threshold and test-selection claims appear in the rapid TB bullets?",
+    "a": "Prednisone above 15 mg/day for over 1 month or anti-TNF therapy appears in its 5 mm TST risk group. It favors IGRA after BCG and says not to combine IGRA with PPD; negative-test absolutes and active-disease workup are separately corrected.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2fm-3347",
+    "category": "Final source-mapping details",
+    "q": "Which alternative latent-TB regimens does the source name beyond nine months of isoniazid?",
+    "a": "Four months rifampin or three months isoniazid/rifapentine with pyridoxine. These are source alternatives, not a complete susceptibility-, interaction- or age-specific selection algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-3348",
+    "category": "Final source-mapping details",
+    "q": "What total duration and phase split does the PDF give for its conventional active-TB regimen?",
+    "a": "Two months RIPE then four months rifampin/isoniazid, for six months total, with pyridoxine. This is its conventional source regimen, not a claim that every patient or modern eligible regimen has this duration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-3349",
+    "category": "Final source-mapping details",
+    "q": "What C. difficile diagnosis and surgical-emergency shorthand does the rapid PDF give?",
+    "a": "Stool toxin A/B testing rather than culture; fever 104 F and distension implies toxic megacolon and laparotomy in its account. This is a source shortcut rather than a complete multistep testing, severity or surgical-selection protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-family-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2fm-3350",
+    "category": "Final source-mapping details",
+    "q": "What isolated anterior-lead ECG pattern does the source use for posterior MI?",
+    "a": "ST depressions in anterior leads, as a reciprocal clue. This source association is not a complete MI rule-in/out method or a substitute for urgent ECG/clinical evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-family-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2fm-3351",
+    "category": "Final source-mapping details",
+    "q": "What antibiotic-change and cystic-fibrosis age rules does the rapid pneumonia source state?",
+    "a": "Antibiotics within three months favors a fluoroquinolone over azithromycin; under 10 with CF favors S. aureus, over 10 favors Pseudomonas. These are source exam rules, not culture-, local-resistance- or comorbidity-specific current treatment guidance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2fm-3352",
+    "category": "Final source-mapping details",
+    "q": "What gland-level iodide mechanism and exposure example does the PDF name?",
+    "a": "Wolff-Chaikoff inhibition of thyroid hormone production; it gives nuclear fallout or radioiodine laboratory exposure as examples for potassium iodide. This is its source mechanism, not independent advice to take KI after any radiation exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-family-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "FDA: potassium iodide blocks radioactive iodine uptake by flooding the thyroid with nonradioactive iodine. It is not a general radiation-protection drug. That radioiodine-blocking role is distinct from the PDF thyroid-hormone-synthesis explanation; public-health exposure thresholds and individual risks determine use.",
+      "url": "https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/frequently-asked-questions-potassium-iodide-ki"
+    }
+  },
+  {
+    "id": "s2fm-3353",
+    "category": "Final source-mapping details",
+    "q": "What analgesic-first order does the PDF give for painful subacute thyroiditis?",
+    "a": "Aspirin first, with steroids later. This is its source sequence; severity and contraindications determine an individualized treatment choice.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-family-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "ATA describes aspirin or ibuprofen for subacute-thyroiditis pain; severe pain may require prednisone. Antithyroid drugs are not used for its destructive thyrotoxic phase because the gland is not overproducing hormone.",
+      "url": "https://www.thyroid.org/thyroiditis/"
+    }
+  },
+  {
+    "id": "s2fm-3354",
+    "category": "Final source-mapping details",
+    "q": "What initial thyroid-test contradiction appears across adjacent rapid-bullet pages?",
+    "a": "Page 272 says TSH first; page 273 says free T4 first and describes it as definitive. These are inconsistent source shortcuts; test selection requires clinical context and pituitary/pregnancy considerations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-family-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2fm-3355",
+    "category": "Final source-mapping details",
+    "q": "What trimester switch does the source give for Graves medication during pregnancy?",
+    "a": "PTU in the first trimester, then methimazole in second/third to limit prolonged PTU hepatotoxicity while avoiding early methimazole embryopathy. This is its source summary, not a personal medication-change instruction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2fm-3356",
+    "category": "Final source-mapping details",
+    "q": "Which exact inflammatory-myopathy antibodies appear in the rapid PDF rather than its earlier EMG-first sequence?",
+    "a": "Anti-Jo1 and anti-Mi2, followed by muscle biopsy if positive. The existing note explains that modern workup is phenotype-specific rather than one identical sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2fm-3357",
+    "category": "Final source-mapping details",
+    "q": "What age threshold and intervention order does the source use for nocturnal enuresis?",
+    "a": "After age 5 it considers bedwetting pathologic; address stressors first, then positive reinforcement, then alarm if earlier options are absent or tried. Its always-wrong medication and dry-night-reward claims have separate correction notes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2fm-3358",
+    "category": "Final source-mapping details",
+    "q": "What pre-antibiotic testing detail does the source give for its Centor pharyngitis algorithm?",
+    "a": "At 2-4 points use rapid strep testing; after a negative rapid test it chooses throat, not sputum, culture. Age-specific culture needs and empiric-antibiotic claims are separately qualified; the score does not establish every URTI is bacterial.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2fm-3359",
+    "category": "Final source-mapping details",
+    "q": "What rash distribution and delay does the PDF describe after beta-lactams during EBV?",
+    "a": "A more intense itchy rash on extensor surfaces/pressure points about 7-10 days after the antibiotic; EBV alone may cause a milder maculopapular rash. These are source patterns, not proof of permanent drug allergy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-3360",
+    "category": "Final source-mapping details",
+    "q": "What residual-volume numbers does the source use for overflow incontinence?",
+    "a": "Usually 300-400 mL in its vignette, contrasting below 50 mL as normal. These are source examples, not universal age- and measurement-independent thresholds for diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-3361",
+    "category": "Final source-mapping details",
+    "q": "What source treatment sequence addresses BPH-associated overflow retention?",
+    "a": "Catheter drainage first, then an alpha-1 blocker or 5-alpha-reductase inhibitor, then TURP if needed. This is its source sequence, not a requirement for surgery in every patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-3362",
+    "category": "Final source-mapping details",
+    "q": "What antimicrobial and enzyme-target pair does the source give for prostatitis?",
+    "a": "Ciprofloxacin, a fluoroquinolone inhibiting bacterial DNA gyrase/topoisomerase II, in its source example. Sexual exposure, cultures, resistance, illness severity and drug harms determine actual treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-3363",
+    "category": "Final source-mapping details",
+    "q": "What preoperative cervical imaging does the PDF name in rheumatoid arthritis?",
+    "a": "Cervical CT or flexion/extension radiographs to assess atlantoaxial instability, while symptomatic bilateral arm paresthesias prompt MRI in its other vignette. This is its source test list rather than a universal identical screening plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-3364",
+    "category": "Final source-mapping details",
+    "q": "What source cell-line explanation accompanies itching after a shower in polycythemia vera?",
+    "a": "Basophilia, in its aquagenic-pruritus shortcut. This is a source mechanistic attribution, not an independently verified single cause of every itching episode.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-3365",
+    "category": "Final source-mapping details",
+    "q": "What short murmur phrases does the rapid source use for PDA?",
+    "a": "To-and-fro, pansystolic-pandiastolic or continuous machinery-like. These are its source descriptions, not interchangeable timing labels for every continuous or bidirectional murmur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-family-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2fm-3366",
+    "category": "Final source-mapping details",
+    "q": "Which second antibiotic combination does the rapid PDF name for pyelonephritis besides ciprofloxacin?",
+    "a": "Ampicillin plus gentamicin. This differs from the earlier source ciprofloxacin/ceftriaxone examples; actual therapy depends on severity, cultures, local resistance, pregnancy and renal/drug risks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-3367",
+    "category": "Final source-mapping details",
+    "q": "What testing absolute and broad TST 15 mm group does the rapid PDF give?",
+    "a": "A negative IGRA means no further studies, and 15 mm applies to everyone in its source table. Symptoms/exposure can still require evaluation despite negative immune tests; risk- and age-specific threshold rules are separately qualified.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2fm-3368",
+    "category": "Final source-mapping details",
+    "q": "What steroid route does the rapid PDF assign to a new temporal-headache/high ESR giant-cell-arteritis vignette?",
+    "a": "Immediate IV methylprednisolone before biopsy in its source wording. The need for urgent treatment is distinct from a universal IV route for every presentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "ACR/VF2021 conditionally favors high-dose oral glucocorticoids for newly diagnosed GCA without cranial ischemia and IV pulse glucocorticoids when vision loss is threatened. Thus urgent steroid treatment does not mean every GCA presentation needs the PDF universal IV route.",
+      "url": "https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.41774"
+    }
+  },
+  {
+    "id": "s2fm-3369",
+    "category": "Final source-mapping details",
+    "q": "What source diagnostic/management steps follow suspected compartment syndrome?",
+    "a": "Measure compartment pressure and remove a constricting cast or perform fasciotomy. This source list must not delay urgent surgical assessment in a clinically threatened limb.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-family-medicine.pdf#page=278"
+    }
+  },
+  {
+    "id": "s2fm-3370",
+    "category": "Final source-mapping details",
+    "q": "What isolated back-pain red-flag inference does the rapid PDF make for injection-drug use?",
+    "a": "Focal vertebral tenderness implies epidural abscess, in its source shorthand. This is a high-risk clue, not proof from one feature or a complete spinal-infection differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-family-medicine.pdf#page=278"
     }
   }
 ];
