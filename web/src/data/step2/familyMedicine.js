@@ -30476,5 +30476,113 @@ export default [
       "text": "Merck Professional associates CO2 retention with more advanced disease and recognizes exacerbations with or without CO2 retention. Chronic hypercapnia is not present in every person with COPD.",
       "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/chronic-obstructive-pulmonary-disease-and-related-disorders/chronic-obstructive-pulmonary-disease-copd"
     }
+  },
+  {
+    "id": "s2fm-2583",
+    "category": "Pulmonary exact-source review",
+    "q": "What does the PDF claim about asthma as a cause of bronchiectasis?",
+    "a": "Asthma does not cause bronchiectasis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "Merck Professional lists advanced asthma as an associated obstructive condition and describes asthma/ABPA inflammatory airway damage. A categorical exclusion misses these clinical associations.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/bronchiectasis-and-atelectasis/bronchiectasis"
+    }
+  },
+  {
+    "id": "s2fm-2584",
+    "category": "Pulmonary exact-source review",
+    "q": "What chronic blood-gas pattern does the source assign to all patients in its OSA discussion?",
+    "a": "Chronic respiratory acidosis: high CO2, high bicarbonate and normal or low pH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "ATS 2019 defines obesity hypoventilation syndrome by obesity, sleep-disordered breathing and awake daytime hypercapnia after exclusion of other causes. This is a distinct diagnosis, not a necessary blood-gas finding in every patient with obstructive sleep apnea.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6680300/"
+    }
+  },
+  {
+    "id": "s2fm-2585",
+    "category": "Pulmonary exact-source review",
+    "q": "What single genetic cause does the source assign to primary pulmonary hypertension?",
+    "a": "Mutations in BMPR2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "MedlinePlus identifies BMPR2 as the most common genetic cause, but idiopathic PAH is usually sporadic and most such cases have no identified causative gene mutation. BMPR2 is an association, not a requirement for every case.",
+      "url": "https://medlineplus.gov/genetics/condition/pulmonary-arterial-hypertension/"
+    }
+  },
+  {
+    "id": "s2fm-2586",
+    "category": "Pulmonary exact-source review",
+    "q": "What blood-pressure rule does the PDF use to exclude diffuse systemic sclerosis in an exam vignette?",
+    "a": "If there is no high blood pressure, it is not diffuse systemic sclerosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "NIAMS distinguishes limited from diffuse cutaneous disease by the extent of skin involvement. Renal damage and hypertension are possible complications, not required defining findings for diffuse disease.",
+      "url": "https://www.niams.nih.gov/health-topics/scleroderma"
+    }
+  },
+  {
+    "id": "s2fm-2587",
+    "category": "Pulmonary exact-source review",
+    "q": "What treatment escalation order does the PDF give after albuterol plus ICS is inadequate?",
+    "a": "Increase the ICS dose, then add a LABA such as salmeterol; later options include mast-cell stabilizers or leukotriene blockers. This is the PDF sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-family-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "GINA 2026 uses age-specific ICS-containing treatment pathways and favors ICS-formoterol reliever-based regimens for adults/adolescents. The source ladder should not be read as the full current treatment algorithm.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2588",
+    "category": "Pulmonary exact-source review",
+    "q": "Which source asthma vignette starts ICS and albuterol together rather than albuterol alone?",
+    "a": "An untreated patient with at least two episodes weekly. The PDF answer is inhaled fluticasone plus albuterol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-family-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2fm-2589",
+    "category": "Pulmonary exact-source review",
+    "q": "What cardiac fibrosis complication does the PDF mention in systemic sclerosis?",
+    "a": "Pericardial fibrosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2fm-2590",
+    "category": "Pulmonary exact-source review",
+    "q": "What mood diagnosis does the PDF favor for depression or dysthymia associated with sleep apnea?",
+    "a": "Mood disorder due to a medical condition, attributed in the source to fatigue and poor oxygenation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    }
   }
 ];
