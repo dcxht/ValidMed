@@ -15106,8 +15106,8 @@ export default [
   {
     "id": "s2fm-1211",
     "category": "Neurology images",
-    "q": "What horizontal-eye-movement defect does this labeled source diagram demonstrate?",
-    "a": "Internuclear ophthalmoplegia: impaired adduction on the side of the MLF lesion with abducting nystagmus of the opposite eye.",
+    "q": "What pupillary defect does the source swinging-light diagram demonstrate?",
+    "a": "A relative afferent pupillary defect (RAPD), also called a Marcus Gunn pupil. Moving light from the better afferent eye to the affected eye produces less constriction or relative dilation. This is a pupillary light-response diagram, not the separate internuclear-ophthalmoplegia eye-movement diagram on page 150.",
     "img": "/s2img/fm-149-0.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -41962,6 +41962,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 242,
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "ATA 2026 Box 6 treats decompensated hyperthyroidism/thyroid storm in pregnancy as an emergency requiring experienced multidisciplinary care and maternal-fetal risk assessment. Beta blockade, antithyroid treatment and selected additional measures or surgery may be needed. The PDF PTU answer is not a complete storm protocol or an automatic long-term trimester-switch instruction.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/250480178/American_Thyroid_Association_2026_Guidelines_for_Thyroid_Disease_in_Preconception_Pregnancy_and_Postpartum.pdf"
     }
   },
   {
