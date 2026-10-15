@@ -23101,7 +23101,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 164,
       "url": "/mehlman/hy-family-medicine.pdf#page=164"
-    }
+    },
+    "sourcePages": [
+      164,
+      165
+    ]
   },
   {
     "id": "s2fm-1956",
@@ -29559,7 +29563,11 @@ export default [
     "guideline": {
       "text": "ACOG's official perinatal-treatment page recommends against withholding or stopping mental-health medication because of pregnancy or lactation alone. The PDF blanket avoidance/replacement shortcut is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. Detailed lithium-specific recommendations from an external guideline copy remain pending publisher-text verification.",
       "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
-    }
+    },
+    "sourcePages": [
+      172,
+      182
+    ]
   },
   {
     "id": "s2fm-2464",
@@ -38264,6 +38272,410 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 160,
       "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-3148",
+    "category": "Final source-mapping details",
+    "q": "Which communicating-artery aneurysm location does the source rank first?",
+    "a": "Anterior communicating more often than posterior communicating, in its saccular-aneurysm summary; the latter is linked with ipsilateral CN III compression and mydriasis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-3149",
+    "category": "Final source-mapping details",
+    "q": "How does the PDF contrast hypertension-related aneurysm risk with myocardial infarction?",
+    "a": "It calls hypertension the most common population risk for berry aneurysm, while stating that a patient with hypertension is more likely to die of MI. These are source population comparisons, not individualized outcome probabilities.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-3150",
+    "category": "Final source-mapping details",
+    "q": "What hemorrhage diagnosis does the PDF favor when a short exam stem mentions decorticate posturing?",
+    "a": "Intracerebral hemorrhage, which it links with brainstem compression. This is a source shortcut, not a claim that posturing is specific to one hemorrhage compartment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-3151",
+    "category": "Final source-mapping details",
+    "q": "What motor phases and recovery period does the source describe in a tonic-clonic seizure?",
+    "a": "Tonic stiffening with loss of consciousness, then rhythmic clonic jerking, followed by postictal confusion, drowsiness or amnesia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-3152",
+    "category": "Final source-mapping details",
+    "q": "What absolute seizure-exclusion clue does the PDF attach to an uninjured tongue?",
+    "a": "It says a normal tongue means the episode was not a seizure. This is the PDF assertion, not a safe exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    },
+    "guideline": {
+      "text": "Benbadis et al.(1995) studied monitored events and syncope: tongue biting had only 24% sensitivity for generalized tonic-clonic seizures, despite high specificity. Absence of tongue injury therefore cannot exclude a seizure. This is an older diagnostic study, not a new treatment guideline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7487261/"
+    }
+  },
+  {
+    "id": "s2fm-3153",
+    "category": "Final source-mapping details",
+    "q": "What awareness and EEG pattern does the PDF use for a myoclonic seizure?",
+    "a": "Very brief muscle jerks with preserved consciousness despite generalized EEG activity, which can resemble a focal-aware motor event clinically.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-3154",
+    "category": "Final source-mapping details",
+    "q": "What age and fixed frequency/risk estimates does the source give for febrile seizures?",
+    "a": "Age 6 months to 5 years, affecting 2-4% of children, with roughly twice the general-population epilepsy risk. These are source estimates, not an individual prognosis; recurrent events within 24 hours, focal signs and its prolonged-duration threshold are additional risk features.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-3155",
+    "category": "Final source-mapping details",
+    "q": "Which associated anomalies and facial findings does the PDF list for fetal alcohol syndrome?",
+    "a": "Heart/lung defects attributed to abnormal neural-crest migration, smooth/elongated philtrum, thin upper lip, widely spaced eyes, midface hypoplasia and a short nose. It also calls FAS the most common intellectual-disability cause; that ranking is an unverified source claim, not a current prevalence estimate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-3156",
+    "category": "Final source-mapping details",
+    "q": "Which two named syndromes does the source associate with frequent laughter versus hyperphagia?",
+    "a": "Angelman syndrome with its happy-puppet description; Prader-Willi syndrome with intellectual disability and hyperphagia. These source clues are not full diagnostic criteria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-3157",
+    "category": "Final source-mapping details",
+    "q": "What developmental mechanisms does the PDF associate with untreated congenital hypothyroidism?",
+    "a": "Poor myelin development and impaired bone growth, alongside hypotonia, macroglossia and umbilical hernia. Its newborn-screening emphasis is prevention of avoidable developmental harm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-3158",
+    "category": "Final source-mapping details",
+    "q": "Which additional eye/CNS associations does the source list with NF 1?",
+    "a": "Lisch nodules, optic-nerve glioma, oligodendroglioma and ependymoma, alongside neurofibromas, café-au-lait lesions, axillary/groin freckling and pheochromocytoma. This is the source association list, not a verified statement that each tumor is characteristic of NF 1 rather than another syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-3159",
+    "category": "Final source-mapping details",
+    "q": "What childhood lens finding does the source associate with NF 2?",
+    "a": "Bilateral cataracts, contrasting its adult bilateral vestibular-schwannoma and meningioma pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-3160",
+    "category": "Final source-mapping details",
+    "q": "Which brain, renal and cardiac lesions appear together in the source tuberous-sclerosis table?",
+    "a": "Periventricular tubers/nodules and seizures, renal angiomyolipoma and cardiac rhabdomyoma, alongside facial angiofibromas, subungual fibromas, ash-leaf spots and shagreen patches. The PDF groups these findings rather than separating every lesion subtype.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-3161",
+    "category": "Final source-mapping details",
+    "q": "What anticholinergic effects does the PDF list as the opposite of DUMBBELSS?",
+    "a": "Constipation, urinary retention, mydriasis, tachycardia, dry eyes/mouth, reduced sweating, bronchodilation and skeletal-muscle relaxation. This is the PDF mnemonic: autonomic muscarinic effects should not be equated with nicotinic neuromuscular blockade, and its separate denial of muscarinic bronchodilation is corrected elsewhere.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-3162",
+    "category": "Final source-mapping details",
+    "q": "Which muscarinic agonist does the source name alongside pilocarpine for glaucoma?",
+    "a": "Carbachol, described as constricting the pupil and lowering intraocular pressure. This is a source drug association, not a complete glaucoma treatment plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-3163",
+    "category": "Final source-mapping details",
+    "q": "Which receptor does the PDF choose for diphenhydramine anti-motion-sickness activity?",
+    "a": "M 3 antagonism, while emphasizing that diphenhydramine is an H 1 blocker rather than an H 2 blocker. This is the source receptor answer, not a proven claim that only one receptor subtype explains clinical benefit.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-3164",
+    "category": "Final source-mapping details",
+    "q": "What antiemetic antipsychotic does the source describe as having useful antimuscarinic effects?",
+    "a": "Prochlorperazine, a D 2 antagonist. The PDF attributes nausea/motion-sickness benefit to anticholinergic effects; this is its mechanism framing, not a universal motion-sickness prescribing recommendation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-3165",
+    "category": "Final source-mapping details",
+    "q": "Which benzodiazepine names and broad uses appear in the source drug table?",
+    "a": "Diazepam, lorazepam, midazolam and chlordiazepoxide. The source lists hypnosis, anxiolysis, anticonvulsant treatment, alcohol withdrawal and stimulant intoxication; it also gives clonazepam for insomnia/anxiety and an acute benzodiazepine for flying phobia. This is a source list, not a universal first-line recommendation for each condition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-3166",
+    "category": "Final source-mapping details",
+    "q": "What potentially serious respiratory effect does the source list for benzodiazepines?",
+    "a": "Respiratory depression. Its flumazenil reversal rule is separately qualified for mixed overdose and seizure/withdrawal risks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2fm-3167",
+    "category": "Final source-mapping details",
+    "q": "Which additional fetal and mechanistic claims does the source make for carbamazepine and phenytoin?",
+    "a": "It links both to neural-tube defects through folate interference. For phenytoin it also names fetal hydantoin syndrome with nail hypoplasia and abnormal facies; this is the source account, not a full agent-specific reproductive-risk comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-3168",
+    "category": "Final source-mapping details",
+    "q": "Which Parkinson-list dopamine agonist does the PDF also name for prolactinoma?",
+    "a": "Bromocriptine, because dopamine agonism reduces prolactin release.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2fm-3169",
+    "category": "Final source-mapping details",
+    "q": "What ribosomal target and drug names does the source give for aminoglycosides?",
+    "a": "The 30 S ribosomal subunit; gentamicin, tobramycin and amikacin. Its nephrotoxicity/ototoxicity and empiric-endocarditis regimen are covered separately.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-3170",
+    "category": "Final source-mapping details",
+    "q": "What eye-disease label does the PDF attach to digoxin yellow/wavy vision?",
+    "a": "It calls the disturbance optic neuritis. This source label is not independently verified here and should not be treated as a diagnostic rule for every digoxin visual adverse effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-3171",
+    "category": "Final source-mapping details",
+    "q": "Which symptoms make up the source depression mnemonic?",
+    "a": "Sleep change, interest loss, guilt/worthlessness, energy loss, concentration trouble, appetite change, psychomotor agitation or slowing, and suicidal thoughts. Together with depressed mood, these form its symptom-count framework; at least mood or interest loss must be present under the separately noted diagnostic qualification.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-3172",
+    "category": "Final source-mapping details",
+    "q": "Which additional drug class does the source give for atypical depression?",
+    "a": "MAO inhibitors, alongside CBT and SSRIs. It says interaction/serotonin-syndrome risk limits first-line use; actual selection and washout restrictions require the specific agent.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-3173",
+    "category": "Final source-mapping details",
+    "q": "Which medical contexts does the PDF emphasize when depression follows illness?",
+    "a": "Hypothyroidism, a recent myocardial infarction or cancer. It chooses sertraline in a post-MI vignette, without claiming every illness-associated low mood has the same cause or treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-3174",
+    "category": "Final source-mapping details",
+    "q": "Which additional serious adverse effect does the PDF associate with lithium?",
+    "a": "Serotonin syndrome, beyond its renal, thyroid and tremor effects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-family-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "DailyMed extended-release lithium label updatedNovember 2025 states lithium can precipitate serotonin syndrome, with greater risk alongside other serotonergic drugs orMAO inhibitors. It lists mental-status, autonomic, neuromuscular and gastrointestinal features. This directly supports the source association.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d276da3c-9952-4674-a54d-b1258df71b8a"
+    }
+  },
+  {
+    "id": "s2fm-3175",
+    "category": "Final source-mapping details",
+    "q": "Which treatment groups does the PDF list for delusional disorder?",
+    "a": "CBT, antipsychotics such as risperidone, mood stabilizers such as lithium, and/or SSRIs. This is its broad list, not evidence that every class is an equivalent universal treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2fm-3176",
+    "category": "Final source-mapping details",
+    "q": "What developmental age range does the PDF give for separation anxiety?",
+    "a": "It peaks around 12-18 months and usually subsides by 2-3 years, while the disorder can occur later, including adolescence. Developmentally expected distress is not automatically a psychiatric diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-3177",
+    "category": "Final source-mapping details",
+    "q": "Which treatments does the source name for PTSD?",
+    "a": "CBT and group therapy, with SSRIs when medication is used. This is a source treatment list, not a full trauma-focused therapy or medication selection guideline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-family-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2fm-3178",
+    "category": "Final source-mapping details",
+    "q": "Which appetite-increasing antipsychotic does the source mention as a possible anorexia treatment?",
+    "a": "Olanzapine, as a source option rather than a replacement for nutritional, medical and psychological treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-3179",
+    "category": "Final source-mapping details",
+    "q": "What voice and visual examples does the PDF give for functional neurologic symptoms?",
+    "a": "Hoarseness and reported monocular blindness without a relative afferent pupillary defect. These source examples do not establish the diagnosis by a normal test alone; positive incompatibility signs and appropriate evaluation of alternative causes matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-3180",
+    "category": "Final source-mapping details",
+    "q": "How does the PDF describe symptom generation and motive in somatic/conversion versus factitious disorders?",
+    "a": "It calls both generation and motive unconscious in somatic/conversion disorders, versus conscious symptom production with an unconscious motive in factitious disorder. This is its psychoanalytic shorthand, not proof of a particular person's intent.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-3181",
+    "category": "Final source-mapping details",
+    "q": "What exogenous thyroid-hormone behavior does the source call factitious thyrotoxicosis?",
+    "a": "Surreptitious thyroid hormone use, which it says may aim at weight loss rather than medical attention. The biochemical exposure does not by itself establish the psychiatric diagnosis or motive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-3182",
+    "category": "Final source-mapping details",
+    "q": "What weight-related claim does the source make about covert insulin or sulfonylurea use?",
+    "a": "It says these drugs may be used to produce hypoglycemia or weight loss. The weight-loss framing is an unverified source claim, not advice or a reliable pharmacologic weight-loss effect; hypoglycemia can be fatal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-3183",
+    "category": "Final source-mapping details",
+    "q": "What broad treatment approach does the source group for hair pulling, skin picking and body dysmorphic disorder?",
+    "a": "CBT, or antidepressants such as SSRIs. This is the PDF grouped approach, not a claim that one drug class has the same evidence or indication for every disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
     }
   }
 ];

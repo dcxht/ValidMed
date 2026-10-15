@@ -11,7 +11,7 @@ const component = fs.readFileSync(new URL('../src/components/Questions.jsx', imp
 vm.runInContext(component.slice(component.indexOf('function storageKey('), component.indexOf('export default function Questions()')), context);
 const retired = allQuestions.filter(q => q.duplicateOf);
 assert.equal(retired.length, 136);
-assert.equal(questions.length, 3011);
+assert.equal(questions.length, 3047);
 assert.equal(new Set(allQuestions.map(q => q.id)).size, allQuestions.length);
 for (const q of retired) {
   assert(questions.some(c => c.id === q.duplicateOf));
