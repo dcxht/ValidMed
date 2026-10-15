@@ -19568,4 +19568,176 @@ export default [
     "img": "/mehlman/figures/peds-p096-molluscum-contagiosum.png",
     "imgAlt": "Actual source photograph labeled molluscum contagiosum showing several raised papules"
   }
+,
+  {
+    "id": "s2peds-1380",
+    "category": "Pediatric dermatology",
+    "q": "Which virus family causes molluscum contagiosum in the p97 continuation?",
+    "a": "Poxvirus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Merck confirms that molluscum contagiosum virus is a poxvirus and that the condition is common among children.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/viral-skin-diseases/molluscum-contagiosum"
+    }
+  },
+  {
+    "id": "s2peds-1381",
+    "category": "Pediatric dermatology",
+    "q": "What classic lesion morphology does the source give for molluscum contagiosum?",
+    "a": "Skin-colored or reddish papules with central umbilication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Merck describes clusters of pink, dome-shaped, smooth, waxy or pearly umbilicated papules, usually 2 to 5 mm, and says diagnosis is based on clinical appearance.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/viral-skin-diseases/molluscum-contagiosum"
+    }
+  },
+  {
+    "id": "s2peds-1382",
+    "category": "Pediatric dermatology",
+    "q": "What exposure vignette does the source associate with molluscum contagiosum?",
+    "a": "A child who recently went to a pool party.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Merck says spread can occur by direct contact, autoinoculation, fomites such as towels and bath sponges, and bath water. Treat the pool-party history as a clue, not a requirement.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/viral-skin-diseases/molluscum-contagiosum"
+    }
+  },
+  {
+    "id": "s2peds-1383",
+    "category": "Pediatric infectious disease",
+    "q": "Which infection is shown by the p97 violaceous hand or arm lesions after water exposure?",
+    "a": "Mycobacterium marinum infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Merck calls the presentation swimming-pool or fish-tank granuloma and says erythematous lesions enlarge into violaceous nodules, most often on the upper extremities or knees.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/mycobacteria/nontuberculous-mycobacterial-infections"
+    },
+    "img": "/mehlman/figures/peds-p097-mycobacterium-marinum.png",
+    "imgAlt": "Actual source photograph of Mycobacterium marinum lesions on the hand and wrist"
+  },
+  {
+    "id": "s2peds-1384",
+    "category": "Pediatric infectious disease",
+    "q": "What vignette and adult clue does the source give for Mycobacterium marinum?",
+    "a": "A child recently went to an aquarium or water park and now has red lesions on the hand or arm; adults can acquire it while working at aquariums or water parks.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Merck gives contaminated pools and home aquarium cleaning as examples of acquisition. Current treatment options include minocycline or doxycycline, clarithromycin, or rifampin plus ethambutol for 3 to 6 months when treatment is needed.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/mycobacteria/nontuberculous-mycobacterial-infections"
+    }
+  },
+  {
+    "id": "s2peds-1385",
+    "category": "Pediatric infectious disease",
+    "q": "Which infection is shown by the p97 reddish-violaceous preauricular neck lesion?",
+    "a": "Mycobacterium avium-intracellulare lymphadenitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Merck says chronic cervical lymphadenitis in children 1 to 5 is commonly due to MAC or M. scrofulaceum; its photographed example shows characteristic skin discoloration.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/mycobacteria/nontuberculous-mycobacterial-infections"
+    },
+    "img": "/mehlman/figures/peds-p097-mai-lymphadenitis.png",
+    "imgAlt": "Actual source photograph of reddish-violaceous MAI lymphadenitis beside the ear"
+  },
+  {
+    "id": "s2peds-1386",
+    "category": "Pediatric infectious disease",
+    "q": "What organism name and lesion location does the source give for MAI?",
+    "a": "Mycobacterium avium-intracellulare can cause lymphadenitis with a classic reddish-violaceous lesion on the neck or preauricularly.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Merck calls the group Mycobacterium avium complex, covering M. avium and M. intracellulare, and most often describes chronic submandibular/submaxillary cervical lymphadenitis in children 1 to 5. Excision is usually adequate; macrolides can be used for recurrent or recalcitrant cases.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/mycobacteria/nontuberculous-mycobacterial-infections"
+    }
+  },
+  {
+    "id": "s2peds-1387",
+    "category": "Pediatric dermatology",
+    "q": "Which diagnosis does the p97 pruritic flexural rash photograph introduce?",
+    "a": "Eczema, meaning atopic dermatitis in this source context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "AAP describes atopic dermatitis as part of atopy, alongside IgE-mediated food allergy, allergic rhinitis and asthma.",
+      "url": "https://www.aap.org/en/patient-care/atopic-dermatitis/about-atopic-disease/"
+    },
+    "img": "/mehlman/figures/peds-p097-eczema.png",
+    "imgAlt": "Actual source photograph of an eczematous erythematous rash in the antecubital fossa"
+  },
+  {
+    "id": "s2peds-1388",
+    "category": "Pediatric dermatology",
+    "q": "What immune pattern and atopic association does the source give for eczema?",
+    "a": "The source labels eczema type I immediate hypersensitivity and places it within atopy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "AAP describes atopic disease through genetic and environmental predisposition, epithelial barrier dysfunction and TH2/type-2 responses including IgE. Preserve the source's type-I label as exam shorthand, but do not reduce atopic dermatitis to only an immediate IgE reaction.",
+      "url": "https://www.aap.org/en/patient-care/allergic-march/"
+    }
+  },
+  {
+    "id": "s2peds-1389",
+    "category": "Pediatric allergy/immunology",
+    "q": "What seasonal atopy sequence does the source teach?",
+    "a": "Asthma in winter, hay fever or rhinoconjunctivitis in spring, and eczema in summer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "AAP frames the allergic march by age-related sequence rather than fixed seasons: eczema often first in infancy, then food allergy, allergic rhinitis and asthma. Use the source's season mnemonic only as its exam wording.",
+      "url": "https://www.aap.org/en/patient-care/allergic-march/"
+    }
+  },
+  {
+    "id": "s2peds-1390",
+    "category": "Pediatric pulmonology",
+    "q": "What cough-variant asthma pearl does the source give?",
+    "a": "One-third of asthma patients are said to have cough-variant asthma: only a dry cough, usually worse in winter or with exercise.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 97,
+      "url": "/mehlman/hy-pediatrics.pdf#page=97"
+    },
+    "guideline": {
+      "text": "A 2024 review defines cough-variant asthma as cough without wheeze, chest tightness or dyspnea and estimates it causes 25 to 42% of chronic-cough cases; it does not verify that one-third of all asthma patients have it. Typical triggers include cold air and allergens, and many patients have normal spirometry.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12180285/"
+    }
+  }
 ];
