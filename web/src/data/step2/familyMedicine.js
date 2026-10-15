@@ -3573,6 +3573,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 98,
       "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "AUA: high-suspicion torsion requires urgent surgical assessment/exploration; imaging should not delay it.",
+      "url": "https://www.auanet.org/meetings-and-education/for-medical-students/medical-students-curriculum/acute-scrotum"
     }
   },
   {
@@ -18875,7 +18879,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=79"
     },
     "guideline": {
-      "text": "AGA 2020 recommends 45 ng/mL as a diagnostic cutoff in anemia and notes that inflammatory conditions/CKD may require CRP, transferrin saturation or other testing alongside ferritin.",
+      "text": "AGA 2020 recommends a ferritin cutoff of 45 ng/mL rather than 15 ng/mL for diagnosing iron deficiency in anemia. A laboratory normal-range label alone is not the same as this diagnostic cutoff.",
       "url": "https://gastro.org/clinical-guidance/gastrointestinal-evaluation-of-iron-deficiency-anemia/"
     }
   },
@@ -19692,6 +19696,690 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 97,
       "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2fm-1727",
+    "category": "Reproductive source details",
+    "q": "How do hypospadias and epispadias differ?",
+    "a": "Hypospadias opens ventrally; epispadias opens dorsally.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-1728",
+    "category": "Reproductive source details",
+    "q": "How does phimosis differ from paraphimosis?",
+    "a": "Phimosis prevents foreskin retraction; paraphimosis traps the retracted foreskin behind the glans and is urgent.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-1729",
+    "category": "Reproductive source details",
+    "q": "What anatomic predisposition does the source associate with testicular torsion?",
+    "a": "Inadequate normal fixation allows excessive rotation, the bell-clapper configuration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-1730",
+    "category": "Reproductive source details",
+    "q": "Which imaging-before-surgery sequence does the PDF give for suspected testicular torsion?",
+    "a": "Doppler ultrasound then surgery. This is the source sequence, not permission to delay treatment when suspicion is high.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "AUA acute-scrotum curriculum: prompt exploration is reasonable with high clinical suspicion; ultrasound can clarify uncertain cases but must not delay exploration.",
+      "url": "https://www.auanet.org/meetings-and-education/for-medical-students/medical-students-curriculum/acute-scrotum"
+    }
+  },
+  {
+    "id": "s2fm-1731",
+    "category": "Reproductive source details",
+    "q": "What limitation does the source itself acknowledge for Prehn sign?",
+    "a": "Relief or persistence of pain with elevation is not a reliable stand-alone discriminator. Do not use it alone to exclude torsion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-1732",
+    "category": "Reproductive source details",
+    "q": "What age-based organism split does the PDF use for epididymitis/prostatitis?",
+    "a": "Under 35: chlamydia/gonorrhea; over 35:E. coli. This is its simplified exam pattern, not a replacement for sexual-exposure, urinary and microbiologic assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-1733",
+    "category": "Reproductive source details",
+    "q": "What tissue lesion causes Peyronie curvature in the source?",
+    "a": "Fibrous plaque in the tunica albuginea. It emphasizes functional impairment when considering treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-1734",
+    "category": "Reproductive source details",
+    "q": "Which viral infection does the source link with orchitis?",
+    "a": "Mumps, particularly in an unvaccinated person.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-family-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2fm-1735",
+    "category": "Reproductive source details",
+    "q": "How does a patent processus vaginalis connect hydrocele and indirect hernia?",
+    "a": "Persistent communication can allow fluid or abdominal contents to pass toward the scrotum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-1736",
+    "category": "Reproductive source details",
+    "q": "What is a spermatocele in the source?",
+    "a": "A sperm-containing fluid collection associated with the epididymis, commonly in adults and able to transilluminate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-1737",
+    "category": "Reproductive source details",
+    "q": "Why is left-sided varicocele common in the source anatomic explanation?",
+    "a": "The left gonadal vein drains into the left renal vein, whereas the right drains directly into the IVC; pressure/outflow differences can favor left-sided congestion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-1738",
+    "category": "Reproductive source details",
+    "q": "How can nephrotic thrombosis be linked with a new varicocele in the source?",
+    "a": "Renal-vein thrombosis can impede gonadal venous drainage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-1739",
+    "category": "Reproductive source details",
+    "q": "What tumor-age association does the PDF give for a testicular mass?",
+    "a": "Seminoma in older adolescents/adults; yolk-sac tumor in younger children. These are source associations, not a complete differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-1740",
+    "category": "Reproductive source details",
+    "q": "Which inherited cancer syndrome and ovarian tumor can increase endometrial-cancer risk in the source?",
+    "a": "Lynch syndrome and estrogen-secreting granulosa-cell tumor, via distinct inherited and hormonal mechanisms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-family-medicine.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2fm-1741",
+    "category": "Reproductive source details",
+    "q": "How does the source distinguish a Bartholin cyst from abscess?",
+    "a": "A cyst is a blocked gland/duct swelling; warmth, erythema and tenderness with infection suggest an abscess requiring drainage assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-1742",
+    "category": "Reproductive source details",
+    "q": "What does the source biopsy seek to exclude in a persistent lichen-sclerosus-like vulvar lesion?",
+    "a": "Squamous-cell carcinoma; the source names topical steroid after confirming the inflammatory condition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-1743",
+    "category": "Reproductive source details",
+    "q": "What cervical location is emphasized in source carcinogenesis?",
+    "a": "The transformation/squamocolumnar zone between ectocervical squamous and endocervical glandular epithelium.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-1744",
+    "category": "Reproductive source details",
+    "q": "How do cytology terms LSIL/HSIL relate to the source biopsy CIN terms?",
+    "a": "The PDF associates LSIL with CIN1 and HSIL with CIN2/3. Management depends on risk, histology, age and context, not just the labels.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-family-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2fm-1745",
+    "category": "Reproductive source details",
+    "q": "What does the PDF say about excision of CIN3 during pregnancy?",
+    "a": "It defers excision/ablation and reassesses postpartum, in its source framework.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "ASCCP 2024: pregnancy management is risk-based; expedited treatment is not recommended and excision is reserved for suspected cancer. Postpartum colposcopy is no sooner than 4 weeks after delivery.",
+      "url": "https://www.asccp.org/clinical-practice/practice-pearls/tips-for-best-practices-on-management-of-abnormal-cervical-cancer-screening-tests-in-pregnancy/"
+    }
+  },
+  {
+    "id": "s2fm-1746",
+    "category": "Reproductive source details",
+    "q": "Why do ER/PR and HER2 results matter in source breast-cancer treatment?",
+    "a": "Hormone receptors support endocrine-treatment selection; HER2 overexpression supports HER2-directed treatment such as trastuzumab. Prognosis also depends on stage and treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-1747",
+    "category": "Reproductive source details",
+    "q": "What does triple-negative mean in the source breast-cancer discussion?",
+    "a": "No ER, PR or HER2 positivity; the source associates this group with aggressive behavior, while actual prognosis is patient/stage dependent.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2fm-1748",
+    "category": "Reproductive source details",
+    "q": "How does a galactocele differ from an inflamed breast abscess in the source?",
+    "a": "A milk-retention cyst may be fluctuant but lacks the fever, warmth and erythema emphasized for an abscess.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-1749",
+    "category": "Reproductive source details",
+    "q": "Which drug or disease contexts does the PDF associate with gynecomastia?",
+    "a": "Liver disease, spironolactone, cimetidine and ketoconazole among its examples. Pubertal asymmetry/tenderness can also be physiologic.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-family-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2fm-1750",
+    "category": "Reproductive source details",
+    "q": "What hormonal signal is linked with bilateral theca-lutein cysts in the source?",
+    "a": "HighhCG, including trophoblastic disease, multiple gestation or fertility treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-1751",
+    "category": "Reproductive source details",
+    "q": "What underlying factor can predispose to ovarian torsion in the source?",
+    "a": "An ovarian cyst or other anatomic mass can increase torsion risk; a prior cyst does not prove that sudden pain is just cyst rupture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-1752",
+    "category": "Reproductive source details",
+    "q": "How does the source use free PSA in the BPH-versus-cancer comparison?",
+    "a": "A lower free-to-total PSA fraction favors malignancy in its discussion; a higher fraction favors benign enlargement. This is a clue, not a diagnostic proof.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-1753",
+    "category": "Reproductive source details",
+    "q": "What tissue process and grading system does the source give for prostate cancer?",
+    "a": "Adenocarcinoma, with Gleason grading. Osteoblastic bone metastases are its major diagnostic clue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-1754",
+    "category": "Reproductive source details",
+    "q": "What mechanism links anticholinergic medication with worsening BPH retention?",
+    "a": "Reduced bladder contraction can worsen emptying against an obstructed outlet.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-family-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2fm-1755",
+    "category": "Reproductive source details",
+    "q": "Which chlamydial serovar groups does the PDF contrast?",
+    "a": "D-K: typical genital infection; A-C: trachoma; L1-3: lymphogranuloma venereum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-1756",
+    "category": "Reproductive source details",
+    "q": "How does ascending chlamydial/gonococcal infection raise ectopic-pregnancy risk?",
+    "a": "Tubal inflammation damages cilia and promotes scarring, impairing embryo transport.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2fm-1757",
+    "category": "Infectious disease source details",
+    "q": "What does the source say about azithromycin versus doxycycline for uncomplicated chlamydia?",
+    "a": "It treats one-dose azithromycin and a week of doxycycline as alternative exam answers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    },
+    "guideline": {
+      "text": "CDC 2021 recommends doxycycline 100 mg twice daily 7 days for adolescents/adults; azithromycin 1 g once is an alternative. During pregnancy, azithromycin 1 g once is recommended; treatment/site/adherence context matters.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2fm-1758",
+    "category": "Infectious disease source details",
+    "q": "What blanket cotreatment statement does the PDF give for gonorrhea?",
+    "a": "It says always add chlamydia treatment to ceftriaxone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    },
+    "guideline": {
+      "text": "CDC 2021 adds chlamydia treatment when chlamydial infection has not been excluded. Recommended ceftriaxone dosing depends on weight; pregnancy changes the chlamydia option.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2fm-1759",
+    "category": "Reproductive source details",
+    "q": "What is a clue cell in bacterial vaginosis?",
+    "a": "A vaginal squamous epithelial cell coated with adherent bacteria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-1760",
+    "category": "Reproductive source details",
+    "q": "What is the whiff test in the source BV discussion?",
+    "a": "Adding KOH produces a characteristic amine/fishy odor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-1761",
+    "category": "Reproductive source details",
+    "q": "How does the source describe syphilitic condylomata lata versus HPV warts?",
+    "a": "Lata are broad painless plaques in secondary syphilis; acuminata are papillomatous/cauliflower-like HPV lesions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-1762",
+    "category": "Reproductive source details",
+    "q": "Can neurosyphilis occur only after tertiary disease in the source?",
+    "a": "No. The PDF explicitly says it may occur at any stage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-1763",
+    "category": "Reproductive source details",
+    "q": "Which sensory deficit and pupillary response does the source associate with neurosyphilis?",
+    "a": "Dorsal-column dysfunction with reduced vibration/proprioception and Argyll-Robertson light-near dissociation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-family-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2fm-1764",
+    "category": "Reproductive source details",
+    "q": "Why can antiphospholipid antibodies cause a false-positive RPR/VDRL?",
+    "a": "The tests use cardiolipin-containing antigen, so non-syphilitic antibodies can react. Confirmatory treponemal testing and the clinical context matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-1765",
+    "category": "Reproductive source details",
+    "q": "Which HSV manifestations beyond recurrent genital lesions does the PDF mention?",
+    "a": "Herpetic whitlow and temporal-lobe encephalitis, with PCR-based testing/current clinical context outside this source clue summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-1766",
+    "category": "Reproductive source details",
+    "q": "What pathogen causes a painful genital chancroid in the source?",
+    "a": "Haemophilus ducreyi. A recurrent vesicle pattern instead favors HSV in its comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-family-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2fm-1767",
+    "category": "Reproductive source details",
+    "q": "What source hCG trend raises concern in an early pregnancy with pain?",
+    "a": "A lower-than-expected or inadequately rising value can raise concern for ectopic/nonviable pregnancy, but no single trend alone establishes location or viability.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-1768",
+    "category": "Reproductive source details",
+    "q": "What source findings distinguish incomplete from complete pregnancy loss?",
+    "a": "Incomplete: some tissue retained after partial passage, often an open cervix. Complete: contents expelled, confirmed in the clinical/imaging context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-1769",
+    "category": "Reproductive source details",
+    "q": "Which management categories does the source give after a confirmed early loss?",
+    "a": "Expectant, medication-assisted or procedural evacuation depending on patient stability, infection, preferences and eligibility; confirmation precedes treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-1770",
+    "category": "Reproductive source details",
+    "q": "What features suggest infected/septic pregnancy loss in the source?",
+    "a": "Fever, discharge and infection associated with retained pregnancy tissue; it requires urgent antibiotics/evacuation assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2fm-1771",
+    "category": "Reproductive source details",
+    "q": "What do thelarche, adrenarche, pubarche and menarche mean?",
+    "a": "Breast development, increased adrenal-androgen activity, pubic-hair development, and first menstruation, respectively.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-1772",
+    "category": "Reproductive source details",
+    "q": "Why can Turner syndrome preserve pubic hair despite poor ovarian breast development?",
+    "a": "Adrenal androgens can drive hair development despite ovarian insufficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-1773",
+    "category": "Reproductive source details",
+    "q": "Which cardiovascular lesions does the source associate with Turner syndrome?",
+    "a": "Aortic coarctation and a bicuspid aortic valve.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-1774",
+    "category": "Reproductive source details",
+    "q": "What karyotype and physical pattern does the PDF use for Klinefelter syndrome?",
+    "a": "47,XXY with tall/eunuchoid proportions, small testes and gynecomastia in the PDF pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-1775",
+    "category": "Reproductive source details",
+    "q": "What tissue response defect explains complete androgen-insensitivity features?",
+    "a": "An androgen-receptor defect despite a 46, XY karyotype and testosterone production; breast development may occur with little androgen-dependent body hair.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-1776",
+    "category": "Reproductive source details",
+    "q": "What enzyme defect can allow pubertal virilization after undervirilized neonatal genitalia in the source?",
+    "a": "5-alpha-reductase deficiency, reducing testosterone-to-DHT conversion. The source gives increased pubertal androgen production as the trigger.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-family-medicine.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2fm-1777",
+    "category": "Reproductive source details",
+    "q": "Why does anovulation reduce endometrial progesterone exposure?",
+    "a": "No ovulated follicular remnant/corpus luteum forms to produce normal luteal progesterone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-family-medicine.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2fm-1778",
+    "category": "Reproductive source details",
+    "q": "What metabolic long-term risk does the source emphasize in PCOS?",
+    "a": "Type 2 diabetes/insulin resistance, while other endocrine causes of hyperandrogenism/anovulation need consideration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-1779",
+    "category": "Reproductive source details",
+    "q": "Which source pelvic findings can accompany endometriosis?",
+    "a": "Uterosacral nodularity, tenderness, adhesions or a fixed retroverted uterus. Absence of such findings is not presented here as a universal exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-1780",
+    "category": "Reproductive source details",
+    "q": "How does adenomyosis differ anatomically from endometriosis?",
+    "a": "Adenomyosis involves endometrial tissue within myometrium; endometriosis involves extrauterine endometrial-like tissue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-1781",
+    "category": "Reproductive source details",
+    "q": "How does a progestin contraceptive change cervical mucus in the source?",
+    "a": "It thickens mucus to impede sperm passage. Ovulation suppression varies with product.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-1782",
+    "category": "Reproductive source details",
+    "q": "Which source combined-pill component helps control breakthrough bleeding?",
+    "a": "The estrogen component, within a combined regimen that also affects ovulation and cervical mucus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-1783",
+    "category": "Pharmacology",
+    "q": "What enzyme target do anastrozole and exemestane inhibit?",
+    "a": "Aromatase, reducing androgen-to-estrogen conversion; the source names postmenopausal hormone-sensitive breast cancer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-1784",
+    "category": "Pharmacology",
+    "q": "How does the source explain clomiphene stimulation of ovulation?",
+    "a": "Reduced effective estrogen feedback at the hypothalamic-pituitary axis increases gonadotropin drive. This mechanism does not establish it as first-line for every infertility condition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-1785",
+    "category": "Prevention",
+    "q": "Who should receive asymptomatic chlamydia/gonorrhea screening under the latest final USPSTF recommendation?",
+    "a": "Sexually active women, including pregnant persons, age 24 or younger, and age 25+ at increased risk. USPSTF 2021 Grade B; evidence is insufficient for screening men, Grade I.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Final 14 September 2021. This is screening of asymptomatic people, not evaluation/treatment of symptoms or a known exposure.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/chlamydia-and-gonorrhea-screening"
+    }
+  },
+  {
+    "id": "s2fm-1786",
+    "category": "Prevention",
+    "q": "Who should receive HIV screening under the latest final USPSTF recommendation?",
+    "a": "Everyone age 15-65; younger/older people at increased risk; and all pregnant persons, including those in labor with unknown status. USPSTF 2019 Grade A.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-family-medicine.pdf#page=104"
+    },
+    "guideline": {
+      "text": "Final 11 June 2019. Repeat screening can be appropriate with ongoing risk; the recommendation does not define a single optimal repeat interval.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/human-immunodeficiency-virus-hiv-infection-screening"
     }
   }
 ];
