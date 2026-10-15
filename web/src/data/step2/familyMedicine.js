@@ -34090,5 +34090,382 @@ export default [
       "page": 158,
       "url": "/mehlman/hy-family-medicine.pdf#page=158"
     }
+  },
+  {
+    "id": "s2fm-2861",
+    "category": "Neuropathy source finer details",
+    "q": "What diabetes type does the source list with Friedreich ataxia?",
+    "a": "Early-onset type 2 diabetes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    },
+    "guideline": {
+      "text": "Friedreich ataxia clinical-management guidance describes both insulin deficiency and insulin resistance, with insulin-deficient ketosis-prone presentations in children. FRDA-related diabetes is not uniformly ordinary type 2 diabetes.",
+      "url": "https://frdaguidelines.org/10-1/"
+    }
+  },
+  {
+    "id": "s2fm-2862",
+    "category": "Neuropathy source finer details",
+    "q": "What retroviral pair does the PDF name for tropical spastic paraparesis?",
+    "a": "HTLV-1/2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "NINDS describes the established syndrome as HTLV-1-associated myelopathy/tropical spastic paraparesis. This source does not establish equal causation by HTLV-2.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/htlv-1-associated-myelopathy-hamtropical-spastic-paraparesis-tsp"
+    }
+  },
+  {
+    "id": "s2fm-2863",
+    "category": "Neuropathy source finer details",
+    "q": "What source phenotype suggests diabetic neuropathy?",
+    "a": "Distal pain, paresthesia and/or numbness in a patient with diabetes; it names gabapentin or a TCA for neuropathic pain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-2864",
+    "category": "Neuropathy source finer details",
+    "q": "What source drug distinction separates shingles-virus treatment from neuralgia treatment?",
+    "a": "Acyclovir treats the viral infection; gabapentin is named for neuropathic pain, which may occur during or after the eruption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-2865",
+    "category": "Neuropathy source finer details",
+    "q": "What source location and timing pattern suggests thalamic pain syndrome?",
+    "a": "Pain, often contralateral to the infarct, emerging months after a thalamic stroke.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-2866",
+    "category": "Neuropathy source finer details",
+    "q": "How can the source describe the CT distribution of subarachnoid blood without naming the diagnosis?",
+    "a": "Blood in basal cisterns, with a starfish/sand-dollar pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-2867",
+    "category": "Neuropathy source finer details",
+    "q": "What source post-concussion symptoms can persist for weeks to years?",
+    "a": "Cognitive disturbance, memory problems, headache, and sensitivity to light or sound.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-family-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2fm-2868",
+    "category": "Neuroinfection source boundaries",
+    "q": "Which skin-lymphoma association does the PDF attach to HTLV in its TSP entry?",
+    "a": "It says the same virus causes mycosis fungoides and Sezary syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "NINDS links HTLV-1 with adult T-cell leukemia/lymphoma. NCI distinguishes adult T-cell leukemia/lymphoma from mycosis fungoides/Sezary cutaneous T-cell lymphomas; these names should not be treated as interchangeable.",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/mycosis-fungoides-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2fm-2869",
+    "category": "Neuroinfection source boundaries",
+    "q": "What viral-infection course does the source use to describe SSPE?",
+    "a": "Reactivation of certain measles strains in the CNS.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "NINDS describes SSPE as a slow, persistent measles-related infection, with brain infection thought to occur soon after primary measles and progress over years. Persistent infection is more precise than simple new reactivation.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/subacute-sclerosing-panencephalitis"
+    }
+  },
+  {
+    "id": "s2fm-2870",
+    "category": "Neuroinfection source boundaries",
+    "q": "What negative CSF finding does the PDF use as an NMO-versus-MS clue?",
+    "a": "Negative oligoclonal bands, followed by aquaporin-4 antibodies as its answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    },
+    "guideline": {
+      "text": "NINDS describes NMOSD diagnosis using symptoms, blood testing and MRI to distinguish it from MS. An isolated negative oligoclonal-band result is not a complete diagnostic evaluation.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/neuromyelitis-optica"
+    }
+  },
+  {
+    "id": "s2fm-2871",
+    "category": "Source neurologic finer details",
+    "q": "What fixed prognosis figures does the PDF give for Lennox-Gastaut syndrome?",
+    "a": "It gives 5% childhood mortality and persistent seizures into adulthood in 80-90%. These are PDF estimates, not a newly verified patient-specific prognosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-family-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2fm-2872",
+    "category": "Source neurologic finer details",
+    "q": "Which congenital-hypothyroidism causes does the source distinguish by region?",
+    "a": "Maternal iodine deficiency worldwide versus fetal thyroid dysgenesis in western settings, in its source summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-2873",
+    "category": "Source neurologic finer details",
+    "q": "What mechanism does the source give for the lighter pigmentation sometimes seen in PKU?",
+    "a": "Reduced conversion of phenylalanine to tyrosine can reduce melanin production, in its source explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2fm-2874",
+    "category": "Source neurologic finer details",
+    "q": "Which gene, chromosome and inheritance does the PDF give for VHL?",
+    "a": "VHL on chromosome 3, with autosomal-dominant inheritance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-2875",
+    "category": "Source neurologic finer details",
+    "q": "Which somatic mutation does the source name for Sturge-Weber syndrome?",
+    "a": "Somatic mosaic GNAQ mutation; it says the disorder is not inherited.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-2876",
+    "category": "Source neurologic finer details",
+    "q": "Which source eye complication accompanies the Sturge-Weber port-wine stain and leptomeningeal angioma?",
+    "a": "Glaucoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2fm-2877",
+    "category": "Source neurologic finer details",
+    "q": "How does edrophonium differ in duration from pyridostigmine in the source?",
+    "a": "Edrophonium is short acting and used in its diagnostic comparison; pyridostigmine is longer acting and used for symptomatic treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2fm-2878",
+    "category": "Neurologic pharmacology source review",
+    "q": "What parenthetical claim does the PDF make about muscarinic antagonism and bronchodilation?",
+    "a": "It says beta-2 agonism, but not muscarinic antagonism, bronchodilates.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "DailyMed ipratropium labeling calls it an anticholinergic bronchodilator indicated for COPD bronchospasm. Muscarinic antagonism can produce clinically useful bronchodilation; the source parenthesis is incorrect.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e3d4faa-cf6e-460b-b1e0-fcc8094505fa"
+    }
+  },
+  {
+    "id": "s2fm-2879",
+    "category": "Neurologic pharmacology source review",
+    "q": "What eating-disorder history matters for the bupropion seizure-risk association?",
+    "a": "The source says not to give it to patients with eating disorders because of seizure risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    },
+    "guideline": {
+      "text": "DailyMed contraindicates bupropion with a current OR prior diagnosis of bulimia or anorexia nervosa. A past diagnosis still matters; this is not limited to current electrolyte abnormalities.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4100232-a25d-4468-9057-af7e66205154"
+    }
+  },
+  {
+    "id": "s2fm-2880",
+    "category": "Neurologic pharmacology source review",
+    "q": "What beta-2 agonist does the source contrast with ipratropium for COPD?",
+    "a": "Olodaterol. The source lists one muscarinic antagonist and one beta-2 agonist, not a full symptom/exacerbation-based maintenance algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-2881",
+    "category": "Neurologic pharmacology source review",
+    "q": "Which antimuscarinic does the PDF sometimes associate with IBS?",
+    "a": "Hyoscyamine, in its source drug list.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-2882",
+    "category": "Neurologic pharmacology source review",
+    "q": "What sexual-adverse-effect comparison does the PDF make for bupropion versus SSRIs?",
+    "a": "It describes bupropion as not causing the SSRI sexual-side-effect pattern; this is the source comparison rather than a guarantee of no sexual adverse effects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-family-medicine.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2fm-2883",
+    "category": "Neurologic pharmacology source review",
+    "q": "Which nonbenzodiazepine hypnotics are named in the PDF?",
+    "a": "Zolpidem and zaleplon; it warns of dependence/addiction risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2fm-2884",
+    "category": "Neurologic pharmacology source review",
+    "q": "Which Parkinson drug does the PDF identify as an MAO-B inhibitor?",
+    "a": "Selegiline, which reduces dopamine breakdown in its mechanism summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2fm-2885",
+    "category": "Neurologic pharmacology source review",
+    "q": "What serotonergic interaction does the source flag for selegiline?",
+    "a": "Serotonin syndrome, especially with serotonergic drugs such as SSRIs or St John's wort; actual interaction restrictions depend on the product and regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-2886",
+    "category": "Neurologic pharmacology exact-source details",
+    "q": "What loop-diuretic cotransporter stoichiometry is printed in the source?",
+    "a": "1 sodium / 1 potassium / 2 chloride at the thick ascending limb.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-family-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2fm-2887",
+    "category": "Neurologic pharmacology exact-source details",
+    "q": "What does the PDF choose for new psychosis after a carbidopa-levodopa dose increase?",
+    "a": "Decrease the dose rather than abruptly discontinue it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    },
+    "guideline": {
+      "text": "DailyMed recognizes hallucinations/psychosis and warns against sudden discontinuation or rapid dose reduction because of hyperpyrexia/confusion resembling NMS. Any adjustment needs supervised assessment.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=74e7f96b-de31-4e3c-b32d-11421b291d4e"
+    }
+  },
+  {
+    "id": "s2fm-2888",
+    "category": "Neurologic pharmacology exact-source details",
+    "q": "What source erectile-function clue can accompany depression-related reduced libido?",
+    "a": "Preserved nocturnal erections, in its source psychogenic-versus-organic pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-2889",
+    "category": "Neurologic pharmacology exact-source details",
+    "q": "Which SSRI does the source choose in its post-MI depressive vignette?",
+    "a": "Sertraline; the source answer is not a substitute for assessing the full psychiatric and cardiovascular context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-2890",
+    "category": "Neurologic pharmacology exact-source details",
+    "q": "What sleep-timing symptom does the PDF call terminal insomnia?",
+    "a": "Waking too early in the morning.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-family-medicine.pdf#page=171"
+    }
+  },
+  {
+    "id": "s2fm-2891",
+    "category": "Neurologic pharmacology exact-source review",
+    "q": "What single mechanism does the source give for amantadine in Parkinson disease?",
+    "a": "Increased presynaptic dopamine release.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    },
+    "guideline": {
+      "text": "DailyMed says its Parkinson mechanism is not known. Animal data suggest dopaminergic effects, and it is a weak noncompetitive NMDA antagonist. Increased release alone is an incomplete mechanistic account.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=579e6c23-6286-4b80-88de-c86c0e5cc2b2"
+    }
   }
 ];
