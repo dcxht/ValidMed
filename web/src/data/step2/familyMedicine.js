@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points from pp. 4-28; full-PDF coverage in progress.
+// Source-linked clinical review. Selected points from pp. 4-47; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -977,6 +977,699 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 28,
       "url": "/mehlman/hy-family-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2fm-0090",
+    "category": "Pulmonary function",
+    "q": "A patient has a low FEV1/FVC ratio with increased total lung capacity. What lung-function pattern is this?",
+    "a": "Obstructive disease, such as asthma or COPD. Air trapping increases total lung capacity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-family-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2fm-0091",
+    "category": "Pulmonary function",
+    "q": "Reduced lung volumes with a preserved or increased FEV1/FVC ratio suggest what pattern?",
+    "a": "Restrictive disease, such as pulmonary fibrosis. Total lung capacity is reduced.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-family-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2fm-0092",
+    "category": "Pulmonary function",
+    "q": "How does DLCO help distinguish emphysema from asthma in the PDF?",
+    "a": "DLCO is reduced in emphysema but can be increased in asthma. Neuromuscular restrictive disease may have preserved DLCO.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-family-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2fm-0093",
+    "category": "Pulmonary function",
+    "q": "What general shape of the expiratory flow-volume loop suggests obstructive disease?",
+    "a": "A scooped-out or concave expiratory limb. The clinical history then helps distinguish asthma from COPD.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-family-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2fm-0094",
+    "category": "Lung cancer",
+    "q": "A smoker has a central lung mass with SIADH, ectopic ACTH secretion or Lambert-Eaton syndrome. Which cancer is suggested?",
+    "a": "Small-cell lung carcinoma. Mehlman emphasizes its central location and paraneoplastic syndromes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2fm-0095",
+    "category": "Lung cancer",
+    "q": "A central lung mass is accompanied by hypercalcemia and suppressed endogenous PTH. What cancer and mediator are suggested?",
+    "a": "Squamous-cell carcinoma secreting PTH-related peptide. Hypercalcemia suppresses the patient's own PTH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2fm-0096",
+    "category": "Lung cancer",
+    "q": "A nonsmoker has a peripheral lung cancer with glandular morphology. Which tumor is most likely?",
+    "a": "Lung adenocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2fm-0097",
+    "category": "Lung cancer",
+    "q": "An apical lung tumor causes ptosis, miosis and anhidrosis. What syndrome is present?",
+    "a": "Horner syndrome from interruption of the sympathetic pathway by a Pancoast tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2fm-0098",
+    "category": "Lung cancer",
+    "q": "A pulmonary neuroendocrine tumor causes flushing, tachycardia and diarrhea. Which urine test does the PDF name?",
+    "a": "Urinary 5-HIAA for suspected carcinoid syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2fm-0099",
+    "category": "Occupational lung disease",
+    "q": "A former shipyard worker has pleural plaques and later develops a pleural malignancy. What exposure and cancer are linked?",
+    "a": "Asbestos exposure and mesothelioma. Asbestos exposure can also cause restrictive pulmonary fibrosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-family-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2fm-0100",
+    "category": "Occupational lung disease",
+    "q": "An aerospace worker develops granulomatous restrictive lung disease. What occupational exposure is suggested?",
+    "a": "Beryllium, causing berylliosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-family-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2fm-0101",
+    "category": "Occupational lung disease",
+    "q": "A quarry worker has upper-lobe calcified nodules and increased tuberculosis risk. What occupational disease is suggested?",
+    "a": "Silicosis. The PDF warns that anti-TNF therapy adds concern because TNF helps contain TB.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-family-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2fm-0102",
+    "category": "Occupational lung disease",
+    "q": "Rheumatoid arthritis plus pneumoconiosis and pulmonary nodules is called what?",
+    "a": "Caplan syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-family-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2fm-0103",
+    "category": "Interstitial lung disease",
+    "q": "An older adult has months of dry cough, restrictive spirometry and reticular lung markings. Which diagnosis is suggested, and what imaging study is next after CXR?",
+    "a": "Idiopathic pulmonary fibrosis. The PDF names high-resolution CT of the chest after initial chest radiography and spirometry.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-family-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2fm-0104",
+    "category": "Interstitial lung disease",
+    "q": "Which antifibrotic drug is named for idiopathic pulmonary fibrosis, with inhibition of TGF-beta-mediated collagen synthesis?",
+    "a": "Pirfenidone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-family-medicine.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2fm-0105",
+    "category": "COPD",
+    "q": "Why can severe COPD produce a long, narrow cardiac silhouette and a subxiphoid point of maximal impulse?",
+    "a": "Hyperinflated lungs push the heart toward the midline. This contrasts with the lateralized apex beat of left-ventricular enlargement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-family-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2fm-0106",
+    "category": "COPD",
+    "q": "What defines chronic bronchitis in the PDF?",
+    "a": "Productive cough for at least three months per year for at least two years.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-family-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2fm-0107",
+    "category": "COPD",
+    "q": "How can chronic lung hypoxia lead to cor pulmonale?",
+    "a": "Hypoxic pulmonary vasoconstriction raises pulmonary pressure and right-ventricular afterload. Right-heart failure then produces JVD and peripheral edema.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-family-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2fm-0108",
+    "category": "COPD",
+    "q": "A relatively young adult has emphysema plus a family history of early emphysema or cirrhosis. What inherited condition should be considered?",
+    "a": "Alpha-1 antitrypsin deficiency. Smoking does not exclude it; the unusually early disease and family history are important clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-family-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2fm-0109",
+    "category": "COPD",
+    "q": "What is emphysema, and how do the distributions associated with smoking and alpha-1 antitrypsin deficiency differ?",
+    "a": "Destruction of alveolar walls and gas-exchange surface area. Smoking classically causes centriacinar emphysema; alpha-1 antitrypsin deficiency causes panacinar emphysema.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-family-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2fm-0110",
+    "category": "Asthma",
+    "q": "A patient has dry cough worse in winter but no obvious wheeze or dyspnea. What asthma presentation is described?",
+    "a": "Cough-variant asthma. Atopic conditions such as allergic rhinitis and eczema may provide additional clues.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-family-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2fm-0111",
+    "category": "Asthma",
+    "q": "Asthma, nasal polyps and aspirin sensitivity form what triad?",
+    "a": "Samter triad. Aspirin inhibits cyclooxygenase, promoting leukotriene production and bronchoconstriction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-family-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2fm-0112",
+    "category": "Asthma",
+    "q": "What initial diagnostic test does Mehlman favor for suspected asthma?",
+    "a": "Spirometry. Methacholine challenge can be used between episodes when needed, but not during an acute attack.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-family-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2fm-0113",
+    "category": "Asthma",
+    "q": "Why is an inhaled corticosteroid prescribed after a severe asthma episode requiring hospital care?",
+    "a": "To decrease future exacerbations. It is preventive therapy, not a substitute for immediate rescue bronchodilation or systemic steroids during a severe acute attack.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-family-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2fm-0114",
+    "category": "Bronchiectasis",
+    "q": "A patient expectorates large volumes of foul-smelling sputum and CT shows dilated airways. What is the diagnosis?",
+    "a": "Bronchiectasis. Foul odor suggests anaerobic organisms; clubbing may also be present.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2fm-0115",
+    "category": "Sleep disorders",
+    "q": "An obese patient snores, is chronically tired and has suspected obstructive sleep apnea. What test establishes the diagnosis?",
+    "a": "Polysomnography, a sleep study.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2fm-0116",
+    "category": "Anaphylaxis",
+    "q": "Acute wheezing and hypotension follow a bee sting or food exposure. What is the immediate drug and route?",
+    "a": "Intramuscular epinephrine. Beta-2 effects dilate the airways, and alpha-1 effects restore vascular tone and blood pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2fm-0117",
+    "category": "Anaphylaxis",
+    "q": "After a serious venom allergy, what therapy in addition to carrying epinephrine can reduce recurrence?",
+    "a": "Venom immunotherapy, which promotes desensitization and neutralizing IgG responses.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-family-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2fm-0118",
+    "category": "Allergic mimics",
+    "q": "Several people develop flushing and allergy-like symptoms after eating spoiled meaty fish. What nonallergic syndrome is suggested?",
+    "a": "Scombroid poisoning. Bacterial breakdown of histidine in fish produces histamine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2fm-0119",
+    "category": "Pulmonary hypertension",
+    "q": "A young woman has pulmonary hypertension without an external cause. Which gene and receptor-blocking drug are mentioned?",
+    "a": "BMPR2 mutations and bosentan, an endothelin-1 receptor antagonist. Pulmonary hypertension alone does not establish right-heart failure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2fm-0120",
+    "category": "Autoimmune lung disease",
+    "q": "Raynaud phenomenon, esophageal dysmotility, sclerodactyly and telangiectasias suggest what systemic disease, and what pulmonary complication can follow?",
+    "a": "Systemic sclerosis. Pulmonary fibrosis and pulmonary hypertension can occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2fm-0121",
+    "category": "Autoimmune lung disease",
+    "q": "Which cold-weather advice and drug class are relevant to Raynaud symptoms in the PDF?",
+    "a": "Keep warm; dihydropyridine calcium channel blockers can help. Avoid vasoconstricting alpha-1 agonists such as phenylephrine or oxymetazoline.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2fm-0122",
+    "category": "Autoimmune lung disease",
+    "q": "Chronic dry cough, erythema nodosum and bilateral hilar adenopathy suggest what disease?",
+    "a": "Sarcoidosis, characterized by noncaseating granulomas.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-family-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2fm-0123",
+    "category": "Autoimmune lung disease",
+    "q": "How can sarcoidosis cause hypercalcemia?",
+    "a": "Activated macrophages in granulomas express 1-alpha-hydroxylase, increasing active vitamin D and intestinal calcium absorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-family-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2fm-0124",
+    "category": "Autoimmune lung disease",
+    "q": "A patient with rheumatoid arthritis develops restrictive lung disease. What two contributors does the PDF mention?",
+    "a": "Rheumatoid lung disease itself and methotrexate-related pulmonary toxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-family-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2fm-0125",
+    "category": "Pneumonia",
+    "q": "Pneumonia develops after influenza. Which bacterial pathogen is emphasized?",
+    "a": "Staphylococcus aureus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-0126",
+    "category": "Pneumonia",
+    "q": "An atypical pneumonia is accompanied by hemolysis and cold agglutinins. Which organism is suggested?",
+    "a": "Mycoplasma pneumoniae, associated with IgM-mediated cold-agglutinin hemolysis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-0127",
+    "category": "Pneumonia",
+    "q": "Pneumonia with diarrhea and hyponatremia suggests what organism?",
+    "a": "Legionella.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-0128",
+    "category": "Pneumonia",
+    "q": "An infant develops pneumonia at three weeks after earlier neonatal conjunctivitis. Which organism is suggested?",
+    "a": "Chlamydia trachomatis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-0129",
+    "category": "Pneumonia",
+    "q": "An immunocompromised patient has bilateral ground-glass pneumonia. Which opportunistic infection is suggested?",
+    "a": "Pneumocystis jirovecii pneumonia. The PDF names bronchoalveolar lavage as a diagnostic approach.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-0130",
+    "category": "Bronchiolitis",
+    "q": "A young infant has low-grade fever and diffuse wheezing. What infection and treatment approach are emphasized?",
+    "a": "RSV bronchiolitis. Supportive care is the treatment emphasized in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-0131",
+    "category": "Upper airway emergencies",
+    "q": "A child has a barking cough, hoarseness and subglottic narrowing on neck imaging. What is the diagnosis?",
+    "a": "Croup, or laryngotracheobronchitis, commonly caused by parainfluenza virus. The narrowing is described as the steeple sign.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-family-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2fm-0132",
+    "category": "Upper airway emergencies",
+    "q": "A febrile child has drooling, respiratory distress and tripod positioning. What emergency is suggested and what is the priority?",
+    "a": "Epiglottitis. Securing the airway is the priority because sudden airway occlusion can occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-family-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2fm-0133",
+    "category": "Upper airway emergencies",
+    "q": "After a viral URI, a child has stridor without drooling and fails to improve with racemic epinephrine. What bacterial process is suggested?",
+    "a": "Bacterial tracheitis, classically due to Staphylococcus aureus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2fm-0134",
+    "category": "Pertussis",
+    "q": "A patient has prolonged coughing fits with post-tussive vomiting and marked lymphocytosis. What infection is suggested?",
+    "a": "Pertussis. It can affect adults as well as children; vaccination is the key preventive measure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2fm-0135",
+    "category": "Tuberculosis",
+    "q": "A patient receiving isoniazid develops peripheral neuropathy. Which vitamin deficiency and supplement are relevant?",
+    "a": "Vitamin B6 deficiency. Pyridoxine supplementation helps prevent isoniazid-associated neuropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2fm-0136",
+    "category": "Pulmonary abscess",
+    "q": "An aspiration-prone patient develops foul-smelling sputum and a cavitary lung lesion with an air-fluid level. What is the diagnosis and likely microbial source?",
+    "a": "Pulmonary abscess due to aspiration of mixed oropharyngeal flora, including anaerobes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2fm-0137",
+    "category": "Otitis media",
+    "q": "A child has acute ear pain with a red, poorly mobile tympanic membrane. What middle-ear diagnosis is suggested?",
+    "a": "Acute otitis media. The PDF emphasizes loss of tympanic-membrane mobility.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2fm-0138",
+    "category": "Otitis media",
+    "q": "Several weeks after an ear infection, a child has middle-ear fluid without an acute infectious illness. What diagnosis and management are described?",
+    "a": "Otitis media with effusion, or serous otitis media. Observation is usually appropriate because it often resolves spontaneously.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-0139",
+    "category": "Otitis complications",
+    "q": "A child has pain behind the ear and outward displacement of the pinna after otitis media. What complication and imaging are described?",
+    "a": "Mastoiditis. CT of the temporal bone or MRI can establish the diagnosis; plain radiographs are not the study emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-0140",
+    "category": "Otitis externa",
+    "q": "A swimmer has infection of the external ear canal. Which organism and topical treatment are emphasized?",
+    "a": "Pseudomonas. The PDF lists topical ciprofloxacin-hydrocortisone drops for treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-0141",
+    "category": "Sinusitis",
+    "q": "URI symptoms persist beyond about ten days with facial discomfort. What diagnosis should be considered?",
+    "a": "Bacterial sinusitis. The PDF names amoxicillin-clavulanate for treatment and CT for chronic symptoms lasting over 12 weeks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-0142",
+    "category": "Allergic rhinitis",
+    "q": "Allergic rhinitis requires drug treatment. What local medication class does Mehlman favor?",
+    "a": "Intranasal corticosteroids. Oral prednisone is not the intranasal treatment being described.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-0143",
+    "category": "Upper airway conditions",
+    "q": "A child has severe unilateral throat pain, a posterior oropharyngeal swelling and difficulty opening the mouth. What collection is suggested?",
+    "a": "Peritonsillar abscess, also called quinsy. Trismus helps distinguish it from bacterial tracheitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-0144",
+    "category": "Upper airway conditions",
+    "q": "An infant has noisy breathing that improves when upright, from soft airway cartilage. What is the diagnosis?",
+    "a": "Laryngomalacia. It usually resolves spontaneously. Positional observations are diagnostic clues, not safe-sleep instructions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-0145",
+    "category": "Ear conditions",
+    "q": "A growing keratinizing mass behind the tympanic membrane causes conductive hearing loss. What is the diagnosis and treatment category?",
+    "a": "Cholesteatoma. Surgical treatment is required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-0146",
+    "category": "Pharyngitis",
+    "q": "What four findings make up the simplified Centor criteria in the PDF?",
+    "a": "Absence of cough, fever over 38 C, tonsillar exudates and cervical lymphadenopathy. They estimate likelihood of streptococcal pharyngitis; the score is not itself organism confirmation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-0147",
+    "category": "Pharyngitis",
+    "q": "An adolescent with mononucleosis-like pharyngitis develops a rash after amoxicillin. Which virus and diagnostic test are suggested?",
+    "a": "Epstein-Barr virus; the PDF names heterophile antibody testing, also called the Monospot test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-0148",
+    "category": "Respiratory drugs",
+    "q": "Which asthma drug adverse effect can mimic tremulousness or anxiety shortly after a rescue inhaler?",
+    "a": "Albuterol can cause tremor through beta-2 agonism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-0149",
+    "category": "Respiratory drugs",
+    "q": "How do montelukast and zileuton differ in their leukotriene targets?",
+    "a": "Montelukast blocks leukotriene receptors; zileuton inhibits lipoxygenase and therefore leukotriene synthesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-0150",
+    "category": "Respiratory drugs",
+    "q": "What are tiotropium and olodaterol?",
+    "a": "Tiotropium is a long-acting muscarinic antagonist; olodaterol is a long-acting beta-2 agonist. Both are bronchodilators used for COPD.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2fm-0151",
+    "category": "Respiratory drugs",
+    "q": "Which biologic asthma drug targets IgE?",
+    "a": "Omalizumab, an anti-IgE monoclonal antibody.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2fm-0152",
+    "category": "Respiratory drugs",
+    "q": "What is epoprostenol, and which pulmonary vascular disease is it used for?",
+    "a": "A prostacyclin, or PGI2, used for pulmonary hypertension.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
     }
   }
 ];

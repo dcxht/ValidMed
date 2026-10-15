@@ -6,7 +6,8 @@ No claim of complete coverage yet. Cards use printed PDF pages.
 - Pages 1-3: cover/social links/contents, no study cards needed.
 - Pages 4-16: read; 42 selected clinical questions drafted and checked against source text. NOT exhaustive. More murmur, physiology and figure points remain.
 - Pages 17-28: read; 47 selected clinical questions drafted and checked against source text. NOT exhaustive. ECG figure cards and remaining clinical points still needed.
-- Pages 29-319: pending detailed review.
+- Pages 29-47: read; 63 selected pulmonary/ENT clinical cards drafted. Figure cards and additional clinical details remain.
+- Pages 48-319: pending detailed review.
 
 Uncertain or dated source recommendations were not converted into current clinical guidance:
 - p11 AAA screening recommendation for women and unusual growth threshold.
@@ -17,3 +18,5 @@ These need separate source-specific treatment or live-guideline checks before ad
 
 Card schema: id, category, q, a, source {title, page, url}. IDs s2fm-0001 onward.
 Step 2 progress uses validmed_step2_* keys, preserving old Step 1 keys.
+
+Additional cautions withheld: blanket antibiotic rules for COPD/CAP, latent-TB regimen and PPD-repeat instructions, empiric pharyngitis antibiotics pending culture, old asthma treatment sequence.
