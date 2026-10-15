@@ -1,9 +1,9 @@
 import { BANKS } from "../data/banks";
 const ROTATIONS = [
-  { name: "Family Medicine", pdf: "hy-family-medicine", title: "HY Family Medicine" },
-  { name: "Psychiatry", pdf: "hy-psych", title: "HY Psych" },
-  { name: "Neurology", pdf: "hy-neuro", title: "HY Neuro" },
-  { name: "Pediatrics", pdf: "hy-pediatrics", title: "HY Pediatrics" },
+  { name: "Family Medicine", bank: "s2fm", pdf: "hy-family-medicine", title: "HY Family Medicine" },
+  { name: "Psychiatry", bank: "s2psy", pdf: "hy-psych", title: "HY Psych" },
+  { name: "Neurology", bank: "s2neuro", pdf: "hy-neuro", title: "HY Neuro" },
+  { name: "Pediatrics", bank: "s2peds", pdf: "hy-pediatrics", title: "HY Pediatrics" },
   { name: "Medicine", pdf: "hy-internal-medicine", title: "HY Internal Medicine" },
   { name: "Surgery", pdf: "hy-surgery", title: "HY Surgery" },
   { name: "OB/GYN", pdf: "hy-obgyn-repro", title: "HY Obgyn/Repro" },
@@ -20,7 +20,7 @@ export default function RotationPdfs() {
             <div className="rotation-detail">
               <h3>{rotation.name}</h3>
               
-              {index === 0 ? <a className="rotation-practice" href="#practice">Review questions · {BANKS.s2fm.questions.length} →</a> : <p className="rotation-pending">Coming next</p>}
+              {rotation.bank && BANKS[rotation.bank] ? <a className="rotation-practice" href={`?bank=${rotation.bank}#practice`}>Review questions · {BANKS[rotation.bank].questions.length} →</a> : <p className="rotation-pending">Coming next</p>}
               <div className="rotation-links">
                 <a className="rotation-pdf" href={`/mehlman/${rotation.pdf}.pdf`} target="_blank" rel="noreferrer">PDF ↗</a>
               </div>

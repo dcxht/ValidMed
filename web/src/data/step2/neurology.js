@@ -7613,7 +7613,7 @@ export default [
     "id": "s2neuro-0626",
     "category": "Rapid source vignettes",
     "q": "Which medication combinations and severe-versus-low-stenosis examples does the source use for carotid disease?",
-    "a": "It lists statin plus clopidogrel OR aspirin/dipyridamole for symptomatic disease;90% stenosis favors endarterectomy and 50% medical therapy in its examples. An asymptomatic person with 10%/30% already taking aspirin/statin stays on treatment in its vignette. Symptomatic 50% is not universally a no-surgery category.",
+    "a": "It lists statin plus clopidogrel OR aspirin/dipyridamole for symptomatic disease; 90% stenosis favors endarterectomy and 50% medical therapy in its examples. An asymptomatic person with 10%/30% already taking aspirin/statin stays on treatment in its vignette. Symptomatic 50% is not universally a no-surgery category.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 68,
