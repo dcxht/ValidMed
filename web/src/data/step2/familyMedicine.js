@@ -2420,7 +2420,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 61,
       "url": "/mehlman/hy-family-medicine.pdf#page=61"
-    }
+    },
+    "sourcePages": [
+      61
+    ]
   },
   {
     "id": "s2fm-0207",
@@ -2574,7 +2577,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 65,
       "url": "/mehlman/hy-family-medicine.pdf#page=65"
-    }
+    },
+    "sourcePages": [
+      65
+    ]
   },
   {
     "id": "s2fm-0221",
@@ -2607,7 +2613,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 66,
       "url": "/mehlman/hy-family-medicine.pdf#page=66"
-    }
+    },
+    "sourcePages": [
+      66
+    ]
   },
   {
     "id": "s2fm-0224",
@@ -2695,7 +2704,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 68,
       "url": "/mehlman/hy-family-medicine.pdf#page=68"
-    }
+    },
+    "sourcePages": [
+      68
+    ]
   },
   {
     "id": "s2fm-0232",
@@ -3038,7 +3050,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 75,
       "url": "/mehlman/hy-family-medicine.pdf#page=75"
-    }
+    },
+    "sourcePages": [
+      75
+    ]
   },
   {
     "id": "s2fm-0262",
@@ -3137,7 +3152,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
-    }
+    },
+    "sourcePages": [
+      78
+    ]
   },
   {
     "id": "s2fm-0271",
@@ -18091,7 +18109,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 61,
       "url": "/mehlman/hy-family-medicine.pdf#page=61"
-    }
+    },
+    "duplicateOf": "s2fm-0206"
   },
   {
     "id": "s2fm-1544",
@@ -18315,7 +18334,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 65,
       "url": "/mehlman/hy-family-medicine.pdf#page=65"
-    }
+    },
+    "duplicateOf": "s2fm-0220"
   },
   {
     "id": "s2fm-1564",
@@ -18385,7 +18405,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 66,
       "url": "/mehlman/hy-family-medicine.pdf#page=66"
-    }
+    },
+    "duplicateOf": "s2fm-0223"
   },
   {
     "id": "s2fm-1570",
@@ -18473,7 +18494,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 68,
       "url": "/mehlman/hy-family-medicine.pdf#page=68"
-    }
+    },
+    "duplicateOf": "s2fm-0231"
   },
   {
     "id": "s2fm-1578",
@@ -18528,7 +18550,12 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 69,
       "url": "/mehlman/hy-family-medicine.pdf#page=69"
-    }
+    },
+    "sourcePages": [
+      69,
+      78,
+      185
+    ]
   },
   {
     "id": "s2fm-1583",
@@ -18550,7 +18577,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 69,
       "url": "/mehlman/hy-family-medicine.pdf#page=69"
-    }
+    },
+    "sourcePages": [
+      69,
+      77
+    ]
   },
   {
     "id": "s2fm-1585",
@@ -18561,7 +18592,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 69,
       "url": "/mehlman/hy-family-medicine.pdf#page=69"
-    }
+    },
+    "sourcePages": [
+      69,
+      77
+    ]
   },
   {
     "id": "s2fm-1586",
@@ -18988,7 +19023,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 75,
       "url": "/mehlman/hy-family-medicine.pdf#page=75"
-    }
+    },
+    "duplicateOf": "s2fm-0261"
   },
   {
     "id": "s2fm-1623",
@@ -19220,7 +19256,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
-    }
+    },
+    "duplicateOf": "s2fm-0270"
   },
   {
     "id": "s2fm-1643",
@@ -32173,7 +32210,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 77,
       "url": "/mehlman/hy-family-medicine.pdf#page=77"
-    }
+    },
+    "duplicateOf": "s2fm-1584"
   },
   {
     "id": "s2fm-2676",
@@ -32206,7 +32244,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 77,
       "url": "/mehlman/hy-family-medicine.pdf#page=77"
-    }
+    },
+    "duplicateOf": "s2fm-1585"
   },
   {
     "id": "s2fm-2679",
@@ -32258,7 +32297,8 @@ export default [
     "sourcePages": [
       78,
       185
-    ]
+    ],
+    "duplicateOf": "s2fm-1582"
   },
   {
     "id": "s2fm-2683",
@@ -35257,7 +35297,7 @@ export default [
       "page": 185,
       "url": "/mehlman/hy-family-medicine.pdf#page=185"
     },
-    "duplicateOf": "s2fm-2682"
+    "duplicateOf": "s2fm-1582"
   },
   {
     "id": "s2fm-2924",
@@ -37349,6 +37389,105 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 41,
       "url": "/mehlman/hy-family-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2fm-3096",
+    "category": "Final source-mapping details",
+    "q": "What numerical H. pylori attribution does the PDF print for duodenal versus gastric ulcers?",
+    "a": "More than 95% of duodenal and more than 60% of gastric ulcers, without a population or date. These are source percentages, not verified current epidemiology.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-3097",
+    "category": "Final source-mapping details",
+    "q": "What infant hepatitis-B vaccine timing does the PDF state?",
+    "a": "Birth, 2 months and 6 months, with an explicit warning that its schedule no longer includes 4 months. This is the PDF schedule rather than a complete current product-specific immunization recommendation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-3098",
+    "category": "Final source-mapping details",
+    "q": "What early decontamination option does the source mention after massive acetaminophen ingestion?",
+    "a": "Activated charcoal may decrease absorption if presentation is very early. The PDF still emphasizes N-acetylcysteine as its exam antidote; charcoal is not a substitute for poisoning assessment or antidote treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2fm-3099",
+    "category": "Final source-mapping details",
+    "q": "Which tapeworm does the source identify simply as the fish tapeworm?",
+    "a": "Diphyllobothrium latum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-3100",
+    "category": "Final source-mapping details",
+    "q": "Which drug does the PDF name for Giardia, and for tissue infection from Entamoeba?",
+    "a": "Metronidazole for both. The source separately names iodoquinol for intraluminal Entamoeba; tissue-only therapy is not the whole amebiasis treatment course.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2fm-3101",
+    "category": "Final source-mapping details",
+    "q": "Which two antibiotics does the PDF combine for diverticulitis?",
+    "a": "Metronidazole plus a fluoroquinolone. This is its source regimen example, not a current rule that every uncomplicated case needs antibiotics.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-3102",
+    "category": "Final source-mapping details",
+    "q": "What pancreatic indication does the PDF give for imipenem?",
+    "a": "It says imipenem has good penetration for pancreatitis. This is a source pharmacology remark, not an instruction for routine antibiotics in sterile pancreatitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-3103",
+    "category": "Final source-mapping details",
+    "q": "What failure interval and drug substitution does the source H. pylori table describe?",
+    "a": "A positive urea breath test after 4 weeks leads it to replace clarithromycin/amoxicillin with tetracycline, metronidazole and bismuth while retaining the PPI. See the separately verified ACG 2024 note on the main regimen card for current treatment selection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-3104",
+    "category": "Final source-mapping details",
+    "q": "What treatment categories does the PDF contrast for cestodes/trematodes versus neurocysticercosis?",
+    "a": "Praziquantel for cestodes/trematodes generally; albendazole is its named neurocysticercosis exception. This is the source drug grouping rather than a complete specialist protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-family-medicine.pdf#page=76"
     }
   }
 ];
