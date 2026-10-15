@@ -290,3 +290,6 @@ Cards2412-2416, total2416/230figures/277notes. Sourceallfungemiaampho/simplefung
 
 ## Skin source follow-up pp136-137
 Cards2417-2418 plusnote1202, total2418/230figures/280notes. KMPsurgery-only sourceclaim restoredwithNCIselectedsurgery/medicaloptions; cherryangiomasunlightclaim contrastedwithMedlinePluscauseunknown; congenitaldermalmelanocytosisnaming directlyverified. DirectURLs https://www.cancer.gov/pediatric%2Dadult%2Drare%2Dtumor/rare-tumors/rare-vascular-tumors/kaposiform-hemangioendothelioma ; https://medlineplus.gov/ency/article/001441.htm ; https://medlineplus.gov/ency/article/001472.htm . Partial.
+
+## Newer-source refresh without newcardcount
+2418/230figures/282notes.2412nowdirect2025ECMM/ISHAM/ASMglobalprimarycandidiasisguidelineinstead2016IDSA.0043AHA2025retrievedtake-home8supports immediatepolymorphicVTdefibrillation (NOTretrievedmagnesiumrecurrencetable; raw403andpartialwebfetchpersist).1640FDAReglan2026TDduration/discontinue note. URLs https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00749-7/fulltext ; https://www.ahajournals.org/doi/10.1161/CIR.0000000000001376 ; https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/017854s071lbl.pdf . GlyburidesynonymFDAfetchdidnotyieldusabletext; no newassertion. Partial.

@@ -479,6 +479,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 17,
       "url": "/mehlman/hy-family-medicine.pdf#page=17"
+    },
+    "guideline": {
+      "text": "AHA 2025 adult ALS take-home guidance says polymorphic VT is always unstable and needs immediate defibrillation. Magnesium in the source answer must not be taken as a reason to delay a shock. The retrieved passage did not include the full magnesium recurrence recommendation.",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001376"
     }
   },
   {
@@ -18814,6 +18818,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 77,
       "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "FDA Reglan labeling revised February 2026 warns that tardive dyskinesia can be irreversible, with risk rising with duration/cumulative dose. Discontinue for TD signs; avoid prolonged courses beyond 12 weeks in diabetic gastroparesis except when unavoidable with monitoring.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/017854s071lbl.pdf"
     }
   },
   {
@@ -28084,8 +28092,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=284"
     },
     "guideline": {
-      "text": "IDSA 2016 candidiasis guidance recommends an echinocandin for initial candidemia treatment in nonneutropenic adults, with fluconazole an alternative in selected stable patients unlikely to have resistance. Fungal species, site and host context matter; all fungemia is not one regimen.",
-      "url": "https://www.idsociety.org/practice-guideline/candidiasis/"
+      "text": "The ECMM/ISHAM/ASM global candidiasis guideline (2025) strongly recommends echinocandins as first-line candidaemia treatment, with alternatives selected by resistance, availability and patient factors. CNS/ocular disease has different treatment considerations; all fungemia is not one amphotericin regimen.",
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00749-7/fulltext"
     }
   },
   {
