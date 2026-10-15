@@ -305,3 +305,6 @@ Cards2424-2425,total2425/230figures/289notes. WSES2022CTAwithoutdelay andperiton
 
 ## Endocarditis empiricclaim follow-up p170 (repeats280)
 Card2426,total2426/230figures/290notes. Sourcevanco/gentamicin restoredwithACCsummaryofESC2023specificnoaminoglycosidesstaphylococcalNVE. Notafullreplacementempiricregimen. ExactURL https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/20/49/2023-esc-guidelines-for-endocarditis-esc-2023 . ESCsiteconfirms2023guidelineandJanuary2025corrigendum; notfetchedtable. Partial.
+
+## Neurocutaneous wording follow-up pp165-166
+Card2427plusnotes1959/0594,total2427/230figures/293notes. MedlinePlusRettalmostexclusivelynotfemale-only, NINDS2026NF2-relatedschwannomatosisname/tumors, MedlinePlus2026orangepeelshagreenratherthanvelvety. DirectURLs https://medlineplus.gov/genetics/condition/rett-syndrome/ ; https://www.ninds.nih.gov/health-information/disorders/neurofibromatosis ; https://medlineplus.gov/ency/article/000787.htm . Partial.

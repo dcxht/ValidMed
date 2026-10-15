@@ -6802,6 +6802,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 166,
       "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "NINDS 2026 guidance uses NF2-related schwannomatosis (NF2-SWN). Vestibular schwannomas, meningiomas and spinal ependymomas are recognized tumors; the older NF2 name in the source refers to this condition.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/neurofibromatosis"
     }
   },
   {
@@ -22502,11 +22506,15 @@ export default [
     "id": "s2fm-1959",
     "category": "Neuropsychiatric source details",
     "q": "Which developmental-regression behavior does the source emphasize for Rett syndrome?",
-    "a": "Hand-wringing/flapping and loss of prior skills. Its female-only wording remains a source simplification under review.",
+    "a": "Hand-wringing/flapping and loss of prior skills; the PDF frames Rett syndrome as female-only.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 165,
       "url": "/mehlman/hy-family-medicine.pdf#page=165"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics describes Rett syndrome as almost exclusively affecting girls, not an absolute sex exclusion. MECP2-related disorders also affect males, with variable severe or milder phenotypes.",
+      "url": "https://medlineplus.gov/genetics/condition/rett-syndrome/"
     }
   },
   {
@@ -28304,6 +28312,21 @@ export default [
     "guideline": {
       "text": "The ACC summary of ESC 2023 endocarditis guidance states that aminoglycosides are not recommended in staphylococcal native-valve endocarditis. Regimens are organism/valve/context-specific; a universal gentamicin-containing rule is not supported. This is an issuing-society summary, not the fully retrieved antibiotic table.",
       "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/20/49/2023-esc-guidelines-for-endocarditis-esc-2023"
+    }
+  },
+  {
+    "id": "s2fm-2427",
+    "category": "Neurocutaneous exact-claim reconciliation",
+    "q": "What texture/pigment description does the PDF give for shagreen patches in tuberous sclerosis?",
+    "a": "Hyperpigmented velvety lesions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-family-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "MedlinePlus 2026 guidance describes raised orange-peel-textured patches, often on the back, separately from white ash-leaf/confetti pigment lesions. The source velvety label is not the usual texture description in that guidance.",
+      "url": "https://medlineplus.gov/ency/article/000787.htm"
     }
   }
 ];
