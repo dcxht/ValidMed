@@ -293,3 +293,6 @@ Cards2417-2418 plusnote1202, total2418/230figures/280notes. KMPsurgery-only sour
 
 ## Newer-source refresh without newcardcount
 2418/230figures/282notes.2412nowdirect2025ECMM/ISHAM/ASMglobalprimarycandidiasisguidelineinstead2016IDSA.0043AHA2025retrievedtake-home8supports immediatepolymorphicVTdefibrillation (NOTretrievedmagnesiumrecurrencetable; raw403andpartialwebfetchpersist).1640FDAReglan2026TDduration/discontinue note. URLs https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00749-7/fulltext ; https://www.ahajournals.org/doi/10.1161/CIR.0000000000001376 ; https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/017854s071lbl.pdf . GlyburidesynonymFDAfetchdidnotyieldusabletext; no newassertion. Partial.
+
+## Vaccine precise-rule follow-up pp75,284-285
+Cards2419-2421, total2421/230figures/285notes. HPV9-45source range versusCDC/ACIP11-12start9/catchup26/SCDM27-45; influenzaonlyfallwinter versuscurrentCDC2026-27interimcontinuecirculationunexpired; rotavirus3doseversusbrand2/3. DirectURLs https://cdc.gov/acip/evidence-to-recommendations/HPV-adults-etr.html ; https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html ; https://www.cdc.gov/rotavirus/hcp/vaccine-considerations/index.html . CDCJune2026HBVVISalsofetchedconfirmsbirth/59/basedrisk60; didnotinfernewuniversaladultcardfromPDFp285HBIGclaimalreadytreated. Partial.

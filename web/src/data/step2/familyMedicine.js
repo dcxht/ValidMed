@@ -28185,5 +28185,50 @@ export default [
       "text": "MedlinePlus says their cause is unknown and they tend to be inherited; they are most common after age 30. The source sunlight explanation is not established by that guidance.",
       "url": "https://medlineplus.gov/ency/article/001441.htm"
     }
+  },
+  {
+    "id": "s2fm-2419",
+    "category": "Vaccine exact-claim reconciliation",
+    "q": "What undifferentiated HPV-vaccine age range does the PDF give?",
+    "a": "Age 9-45.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "CDC/ACIP recommends routine vaccination at 11-12 years, possible start at 9, catch-up through 26, and shared clinical decision-making for inadequately vaccinated adults 27-45. The full licensed age span is not a universal catch-up recommendation.",
+      "url": "https://cdc.gov/acip/evidence-to-recommendations/HPV-adults-etr.html"
+    }
+  },
+  {
+    "id": "s2fm-2420",
+    "category": "Vaccine exact-claim reconciliation",
+    "q": "What season-only restriction does the PDF place on influenza vaccination?",
+    "a": "Every year in fall/winter only, starting at 6 months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "CDC interim 2026-2027 guidance retains July 2025 recommendations: aim for September/October for most recipients, but continue vaccination throughout the season while influenza circulates and unexpired vaccine is available. Travel and other circumstances can differ; fall/winter-only is too narrow.",
+      "url": "https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html"
+    }
+  },
+  {
+    "id": "s2fm-2421",
+    "category": "Vaccine exact-claim reconciliation",
+    "q": "What three-dose rotavirus schedule does the PDF list?",
+    "a": "Oral doses at 2, 4 and 6 months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-family-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "CDC describes RotaTeq as three doses at 2/4/6 months, but Rotarix as two doses at 2/4 months. Begin before 15 weeks and complete before 8 months; product choice changes the dose count.",
+      "url": "https://www.cdc.gov/rotavirus/hcp/vaccine-considerations/index.html"
+    }
   }
 ];
