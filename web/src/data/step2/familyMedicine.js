@@ -36709,5 +36709,80 @@ export default [
       "text": "Merck Professional describes anti-Yo cerebellar degeneration especially with breast/ovarian cancer and anti-Hu syndromes with lung cancer. These antibody/tumor associations are not interchangeable or perfectly exclusive; the source pair should not imply identical typical cancer associations.",
       "url": "https://www.merckmanuals.com/professional/oncology/overview-of-cancer/paraneoplastic-syndromes"
     }
+  },
+  {
+    "id": "s2fm-3078",
+    "category": "Renal mineral physiology reconciliation",
+    "q": "What universal phosphate finding does the PDF require in renal failure?",
+    "a": "It says phosphate is always high, even with high PTH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "Endotext describes calcium/phosphate remaining normal for prolonged periods early in CKD and hyperphosphatemia developing mainly in later stages. The blanket source arrow is not obligatory in every CKD stage. This is an expert secondary chapter; KDIGO2017 separately bases phosphate-lowering treatment on progressively or persistently elevated levels.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK278975/"
+    }
+  },
+  {
+    "id": "s2fm-3079",
+    "category": "Renal mineral physiology reconciliation",
+    "q": "What transporter explanation does the PDF give for high phosphate in renal failure?",
+    "a": "Failure to downregulate proximal phosphate-reabsorption pumps, causing excess reabsorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "Endotext describes early FGF23/PTH-mediated inhibition of tubular phosphate reabsorption and later phosphate retention as functioning nephron mass falls and compensation reaches its limits. The source transporter-failure-only explanation omits this stage-dependent physiology. This is a secondary expert chapter, not a new treatment guideline.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK278975/"
+    }
+  },
+  {
+    "id": "s2fm-3080",
+    "category": "Recurrent UTI source reconciliation",
+    "q": "What behavioral prevention step does the PDF place before postcoital antibiotics for recurrent UTI?",
+    "a": "Postcoital voiding, which it says reduces recurrence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    },
+    "guideline": {
+      "text": "EAU2026 section3.5.3.b counsels avoidance of habitual/postcoital delayed urination and other risks before long-term drug prophylaxis, while explicitly noting limited evidence for these measures. This supports counseling, not a guarantee of prevention or a requirement to delay needed evaluation.",
+      "url": "https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Urological-Infections-2026_2026-04-16-075122_wabn.pdf"
+    }
+  },
+  {
+    "id": "s2fm-3081",
+    "category": "Outstanding-source-ledger review",
+    "q": "Which calcium-channel blocker does the PDF list for pulmonary hypertension without a response-testing qualifier?",
+    "a": "Nifedipine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    },
+    "guideline": {
+      "text": "ESC/ERS2022 section6.3.3.1 restricts high-dose CCB treatment to appropriate vasoreactive PAH. Do not start PAH-directed CCB treatment without vasoreactivity testing or after a negative test because hypotension, syncope and right-ventricular failure can occur. Standard-dose use for another indication is a different question.",
+      "url": "https://pure.rug.nl/ws/files/258895003/ehac237.pdf"
+    }
+  },
+  {
+    "id": "s2fm-3082",
+    "category": "Outstanding-source-ledger review",
+    "q": "What fixed fatality estimate does the PDF give for ruptured esophageal varices?",
+    "a": "About 50%, without specifying a time horizon or liver-disease severity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Merck Professional gives 15-25% mortality at6weeks and emphasizes underlying liver disease as a major determinant. These are population estimates with a stated horizon, not a prediction for an individual or a universally fixed50% fatality.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/gastrointestinal-bleeding/varices"
+    }
   }
 ];

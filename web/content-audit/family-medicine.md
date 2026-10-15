@@ -220,3 +220,5 @@ Computed2590cards/230figures/409notes, Partial.
 3073 cards / 230 figure cards / 597 linked notes. Finer pass through p299. Partial.
 
 3077 cards / 230 figure cards / 601 linked notes. Finer pass through p317; endmatter 318-319 checked. Full-bank QA outstanding. Partial.
+
+3082 cards / 230 figure cards / 606 linked notes. Finer pass complete; full-bank QA in progress. Partial.
