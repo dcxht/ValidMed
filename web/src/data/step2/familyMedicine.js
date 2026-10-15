@@ -16657,5 +16657,1029 @@ export default [
       "page": 43,
       "url": "/mehlman/hy-family-medicine.pdf#page=43"
     }
+  },
+  {
+    "id": "s2fm-1455",
+    "category": "ENT source details",
+    "q": "Which recurrent-ear-infection counts does the PDF use for tympanostomy tubes?",
+    "a": "More than 3 episodes in 6 months or more than 4 in a year, as written in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-family-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "AAO-HNS 2022: do not insert tubes for recurrentAOM if no middle-ear effusion is present at candidacy assessment; offer bilateral tubes when recurrentAOM has unilateral/bilateral effusion. Counts alone are not the full decision.",
+      "url": "https://bulletin.entnet.org/home/article/22030720/guideline-update-key-action-statements"
+    }
+  },
+  {
+    "id": "s2fm-1456",
+    "category": "ENT source details",
+    "q": "What presentation does the PDF use for an acute tympanic-membrane perforation?",
+    "a": "Severe ear pain after a viral illness with bloody/seropurulent ear discharge obscuring the membrane.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-1457",
+    "category": "ENT source details",
+    "q": "What is myringitis in the source?",
+    "a": "Inflammation limited to the tympanic membrane, sometimes bullous. The source names S. pneumoniae and Mycoplasma as associated organisms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-1458",
+    "category": "ENT source details",
+    "q": "Which physical change after otitis media points toward mastoiditis?",
+    "a": "Painful swelling behind the ear with outward/upward displacement of the pinna. The source names CT temporal bone for imaging.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-1459",
+    "category": "ENT source details",
+    "q": "What does the PDF mean by malignant or necrotizing otitis externa?",
+    "a": "An invasive external-ear infection, with a source example of black tissue in the canal. Its risk discussion emphasizes diabetes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-1460",
+    "category": "ENT source details",
+    "q": "Which preventive drops does the source name for repeated water-exposure-associated otitis externa?",
+    "a": "Acetic-acid/alcohol drops, distinct from its topical ciprofloxacin-hydrocortisone treatment answer. This is a source example, not an instruction to place drops in an ear with an uncertain membrane/perforation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-1461",
+    "category": "ENT source details",
+    "q": "What chronic-sinusitis duration and test sequence does the PDF describe?",
+    "a": "More than 12 weeks, with CT followed by possible nasal endoscopy. This is its source diagnostic sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-1462",
+    "category": "ENT source details",
+    "q": "Which antibiotic does the PDF distinguish for sinusitis versus simple otitis/strep throat?",
+    "a": "Amoxicillin-clavulanate for sinusitis, compared with amoxicillin/penicillin in its otitis and pharyngitis examples. The source does not provide a full age-, severity- or resistance-specific prescribing algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-family-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2fm-1463",
+    "category": "ENT source details",
+    "q": "What allergy-related surface appearance does the source call cobblestoning?",
+    "a": "Nasal mucosa or tarsal conjunctival surface changes in allergic disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-1464",
+    "category": "ENT source details",
+    "q": "Which environmental intervention does the PDF report for allergic rhinitis?",
+    "a": "Pillow and mattress covers to reduce allergen exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-1465",
+    "category": "ENT source details",
+    "q": "What medication fallback does the PDF name if intranasal steroid is not an offered allergic-rhinitis answer?",
+    "a": "A second-generation H1 blocker such as loratadine; it distinguishes local intranasal steroids from oral prednisone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-1466",
+    "category": "ENT source details",
+    "q": "Which positional clue distinguishes a vascular ring in the source infant-stridor comparison?",
+    "a": "Stridor improves with neck extension, contrasting with its laryngomalacia positioning examples. It names surgery for a compressing vascular ring.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-1467",
+    "category": "ENT source details",
+    "q": "How can a vascular ring cause stridor?",
+    "a": "An anomalous vascular arrangement compresses the airway.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-1468",
+    "category": "ENT source details",
+    "q": "What does the source call a growing squamous/keratinizing middle-ear lesion?",
+    "a": "Cholesteatoma, which can cause conductive hearing loss and invade nearby structures, requiring surgical assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-family-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2fm-1469",
+    "category": "ENT source details",
+    "q": "How does the PDF use simplified Centor scores of 0-1 versus 2-4?",
+    "a": "Low scores favor supportive care; higher scores prompt a rapid strep test, with culture after a negative rapid result in its source algorithm. Age-specific testing recommendations are a separate issue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-1470",
+    "category": "Infectious disease source details",
+    "q": "Why can EBV pharyngitis look bacterial in the source?",
+    "a": "It can produce fever, exudates, lymphadenopathy and absent cough, overlapping its Centor features. A beta-lactam-associated rash can provide an additional clue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-1471",
+    "category": "Infectious disease source details",
+    "q": "What distinction does the source make between an EBV-related drug rash and the spontaneous viral rash?",
+    "a": "It describes a more pruritic/intense rash after beta-lactam exposure, versus a possible mild maculopapular eruption without the drug. This pattern alone does not prove permanent beta-lactam allergy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-1472",
+    "category": "Pharmacology",
+    "q": "Which enzyme does methotrexate inhibit in the source pharmacology table?",
+    "a": "Dihydrofolate reductase. The source also highlights pulmonary, hepatic and marrow toxicity and folinic-acid/leucovorin rescue in toxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-1473",
+    "category": "Pharmacology",
+    "q": "Which leukotriene-receptor antagonists does the PDF name, and how does zileuton differ?",
+    "a": "Montelukast/zafirlukast block the receptor; zileuton inhibits lipoxygenase-mediated synthesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2fm-1474",
+    "category": "Pharmacology",
+    "q": "Which two drugs stabilize mast cells in the source table?",
+    "a": "Cromolyn sodium and nedocromil.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2fm-1475",
+    "category": "Pharmacology",
+    "q": "Which short-acting inhaled antimuscarinic does the PDF contrast with tiotropium?",
+    "a": "Ipratropium is a SAMA; tiotropium is a LAMA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2fm-1476",
+    "category": "Pharmacology",
+    "q": "Which drug used for pulmonary hypertension inhibits PDE5?",
+    "a": "Sildenafil.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2fm-1477",
+    "category": "Pharmacology",
+    "q": "Which synthetic prostacyclin does the PDF name for pulmonary hypertension?",
+    "a": "Epoprostenol, a PGI2 therapy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2fm-1478",
+    "category": "Renal source details",
+    "q": "What prognostic difference does the source emphasize for post-streptococcal GN in children versus adults?",
+    "a": "Children commonly recover; adults have a higher risk of substantial persistent renal injury. This is a broad source pattern, not an outcome guarantee.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-1479",
+    "category": "Renal source details",
+    "q": "Which histologic location is named for IgA deposition in Berger disease?",
+    "a": "The glomerular mesangium.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-1480",
+    "category": "Renal source details",
+    "q": "Must every component of the source IgA-vasculitis tetrad be present?",
+    "a": "No. The source says palpable purpura, renal involvement, arthralgia and abdominal pain need not all occur together.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-1481",
+    "category": "Renal source details",
+    "q": "How does the source contrast Alport and Goodpasture mechanisms?",
+    "a": "Alport is a type IV-collagen gene disorder; Goodpasture involves antibodies to type IV-collagen basement-membrane targets. The PDF emphasizes an X-linked Alport presentation, not every inheritance pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-1482",
+    "category": "Renal source details",
+    "q": "Which source renal syndrome is associated with hepatitis C, heroin or malignancy and hematuria?",
+    "a": "Membranoproliferative glomerulonephritis. The source uses renal biopsy to guide management.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-1483",
+    "category": "Renal source details",
+    "q": "Why is minimal-change disease called minimal change?",
+    "a": "Light microscopy may appear normal despite podocyte-foot-process effacement on electron microscopy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1484",
+    "category": "Renal source details",
+    "q": "What glomerular barrier defect does the source associate with nephrotic protein loss?",
+    "a": "Loss of size/charge-selective filtration barrier properties.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1485",
+    "category": "Renal source details",
+    "q": "Which adult malignancy does the source associate with minimal-change disease?",
+    "a": "Hodgkin lymphoma, as an uncommon adult association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1486",
+    "category": "Renal source details",
+    "q": "Which medication/infection/cancer examples does the PDF list for membranous nephropathy?",
+    "a": "Dapsone, gold salts and sulfonamides; hepatitisB; visceral malignancy; and primaryanti-PLA2R autoimmunity. This is the source association list, not a complete causal differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1487",
+    "category": "Renal source details",
+    "q": "How does the source identify renal amyloid histologically?",
+    "a": "Congo-red staining with apple-green birefringence under polarized light.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1488",
+    "category": "Renal source details",
+    "q": "What early hemodynamic effect does the PDF give for ACE inhibitors or ARBs at the glomerulus?",
+    "a": "Reduced angiotensin II-mediated efferent arteriolar constriction lowers intraglomerular pressure/filtration fraction, so an initial GFR change may occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1489",
+    "category": "Renal source details",
+    "q": "Which nephrotic lesion does the source say is less steroid-responsive than minimal-change disease?",
+    "a": "Focal segmental glomerulosclerosis. The source associates it with HIV, sickle-cell disease and heroin use.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1490",
+    "category": "Renal source details",
+    "q": "Must interstitial nephritis include both rash and urinary eosinophils in the source vignettes?",
+    "a": "No. The source also gives pyuria without a rash or mild protein/hematuria after a medication exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1491",
+    "category": "Renal source details",
+    "q": "Which renal structure is the answer in the source interstitial-nephritis localization question?",
+    "a": "Renal tubules/tubulointerstitial tissue rather than an arteriolar primary lesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-1492",
+    "category": "Renal source details",
+    "q": "What trajectory of hypertension does the PDF use to suggest renal-artery atherosclerosis?",
+    "a": "Longstanding hypertension followed by a recent marked acceleration, especially with other vascular disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-1493",
+    "category": "Renal source details",
+    "q": "Why does renal-artery narrowing activate RAAS in the source?",
+    "a": "Reduced perfusion at the kidney stimulates renin release, raising angiotensin/aldosterone signaling and blood pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-1494",
+    "category": "Renal source details",
+    "q": "What does the source say about renin in the opposite kidney in unilateral stenosis?",
+    "a": "It says the unaffected kidney does not have the same renin increase. This is its simplified lateralized physiology.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-1495",
+    "category": "Renal source details",
+    "q": "Which imaging modality does the PDF name for both atherosclerotic renal-artery disease and FMD?",
+    "a": "MR angiography of the renal vessels, in its diagnostic examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-1496",
+    "category": "Renal source details",
+    "q": "Which extra-renal vessels can FMD also affect in the source?",
+    "a": "The carotid arteries, as illustrated in its source vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-1497",
+    "category": "Renal source details",
+    "q": "What are the two major calcium-containing stone types named by the PDF?",
+    "a": "Calcium oxalate and calcium phosphate, with the source emphasizing oxalate for its exam discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1498",
+    "category": "Renal source details",
+    "q": "What serum-versus-urine calcium pattern does the PDF use for many idiopathic calcium stones?",
+    "a": "Normal serum calcium with increased urinary calcium, normocalcemic hypercalciuria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1499",
+    "category": "Renal source details",
+    "q": "Which ingestion-related causes of calcium-oxalate stones does the source name?",
+    "a": "Ethylene glycol and excess vitamin C, with oxalate formation. This is a source association, not a suggested exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1500",
+    "category": "Renal source details",
+    "q": "What triad does the source use for milk-alkali syndrome?",
+    "a": "Hypercalcemia, metabolic alkalosis and calcium stones in its discussion; excess calcium-containing antacids are its classic example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1501",
+    "category": "Renal source details",
+    "q": "Why do uricosuric gout drugs increase uric-acid-stone risk in the source?",
+    "a": "They increase urinary urate delivery. The source contrasts them with xanthine-oxidase inhibitors, allopurinol/febuxostat.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1502",
+    "category": "Renal source details",
+    "q": "Which assay does the PDF name for cystinuria?",
+    "a": "The cyanide-nitroprusside test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1503",
+    "category": "Renal source details",
+    "q": "What does COLA refer to in the source cystinuria mnemonic?",
+    "a": "Cystine/cysteine, ornithine, lysine and arginine in its dibasic-amino-acid reabsorption discussion. Cystine consists of two cysteine molecules.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1504",
+    "category": "Renal source details",
+    "q": "Why can enlarging ADPKD cysts increase blood pressure?",
+    "a": "Compression of renal microvasculature can activate RAAS. The source prioritizes regular blood-pressure assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1505",
+    "category": "Renal source details",
+    "q": "When does the PDF recommend intracranial-aneurysm screening in ADPKD?",
+    "a": "Only with a positive family history of subarachnoid hemorrhage or aneurysm, in its source algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    },
+    "guideline": {
+      "text": "KDIGO 2025 also recommends screening after personalSAH or family unexplained sudden death in appropriate candidates, considers selected transplant/surgical contexts, and supports informed shared decisions for others wishing screening. TOF-MRA without gadolinium is preferred.",
+      "url": "https://kdigo.org/wp-content/uploads/2025/02/KDIGO-2025-ADPKD-Guideline-Key-Takeaways-Chapter-6.pdf"
+    }
+  },
+  {
+    "id": "s2fm-1506",
+    "category": "Renal source details",
+    "q": "Which liver association does the PDF give for autosomal-recessive polycystic kidney disease?",
+    "a": "Hepatic fibrosis, in a pediatric contrast with the more adult-presenting ADPKD discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-1507",
+    "category": "Renal source details",
+    "q": "What risk factors does the source emphasize for pyelonephritis?",
+    "a": "Urinary reflux/obstruction, pregnancy-associated urinary changes and posterior urethral valves. It highlights fever and CVA tenderness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-1508",
+    "category": "Infectious disease source details",
+    "q": "Which two antibiotics does the PDF name in pyelonephritis exam examples?",
+    "a": "Ciprofloxacin or ceftriaxone. These are source examples, not a universal outpatient/pregnancy/resistance-specific regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-1509",
+    "category": "Pharmacology",
+    "q": "What adverse event does the source connect with ciprofloxacin after treatment of pyelonephritis?",
+    "a": "Tendinopathy, illustrated by new ankle pain after the antibiotic.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-1510",
+    "category": "Renal source details",
+    "q": "Which source urinary findings support bacterial cystitis?",
+    "a": "Pyuria and bacteriuria, with possible nitrites/leukocyte esterase. Recent urinary catheterization is a source risk factor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-1511",
+    "category": "Renal source details",
+    "q": "What treatment description does the PDF give for interstitial cystitis/bladder pain?",
+    "a": "It says no specific treatment and lists education, self-care and physiotherapy. Its dismissive wording is not reproduced here.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    },
+    "guideline": {
+      "text": "AUA 2022 supports active symptom/pain management, education/behavioral strategies, appropriate manual pelvic physical therapy for tenderness, and selected oral/intravesical therapies. Pelvic-floor strengthening is not the same as manual therapy.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/diagnosis-and-treatment-interstitial-of-cystitis/bladder-pain-syndrome-(2022)"
+    }
+  },
+  {
+    "id": "s2fm-1512",
+    "category": "Infectious disease source details",
+    "q": "What preventive-antibiotic sequence does the PDF give for recurrent UTIs linked to intercourse?",
+    "a": "Postcoital nitrofurantoin, then daily TMP-SMX in its examples after behavioral steps. This source sequence is not a mandate to give prophylaxis without confirming recurrent infection, suitability and resistance risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-1513",
+    "category": "Renal source details",
+    "q": "Which urethral support terms does the PDF link with stress incontinence?",
+    "a": "Urethral hypermobility, downward mobility of the vesicourethral junction and altered urethrovesical angle.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-1514",
+    "category": "Renal source details",
+    "q": "What procedural option does the PDF name if pelvic-floor exercises fail for stress incontinence?",
+    "a": "A midurethral sling in its source example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-1515",
+    "category": "Renal source details",
+    "q": "What daily-life cue does the source use for urge incontinence?",
+    "a": "Urgency when arriving home, using a key or stepping from a car, attributed to detrusor overactivity in its vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-1516",
+    "category": "Renal source details",
+    "q": "How does the source distinguish transient urgency from UTI and established urge incontinence?",
+    "a": "Dysuria with recent catheterization can indicate UTI rather than primary detrusor overactivity; investigate the clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-1517",
+    "category": "Renal source details",
+    "q": "Which contrasting receptor targets explain oxybutynin versus bethanechol in the source?",
+    "a": "Oxybutynin antagonizes muscarinic signaling to reduce detrusor contraction; bethanechol stimulates it. The source mentions bethanechol for hypotonic bladder, not a universal current retention treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-1518",
+    "category": "Renal source details",
+    "q": "Which two immediate assessments/interventions does the PDF emphasize for substantial overflow retention?",
+    "a": "Postvoid-residual measurement and bladder catheter drainage, chosen according to the vignette. It then addresses the underlying cause such as BPH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-1519",
+    "category": "Renal source details",
+    "q": "Which drug mechanisms does the source name for BPH after retention is addressed?",
+    "a": "Finasteride inhibits 5-alpha reductase; tamsulosin/terazosin block alpha 1 receptors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-1520",
+    "category": "Renal source details",
+    "q": "Which causes of cauda-equina compression does the source list?",
+    "a": "Disc herniation, trauma and malignancy/metastases. New retention with leg symptoms raises urgent concern even without classic saddle anesthesia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-1521",
+    "category": "Renal source details",
+    "q": "What non-drug next steps does the PDF list for persistent nocturnal enuresis?",
+    "a": "Positive reinforcement/star chart and an enuresis alarm after addressing stressors. Its examples favor these before medications; they are not an instruction to punish wet nights.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-1522",
+    "category": "Renal source details",
+    "q": "Which paraneoplastic mediators does the source connect with renal-cell carcinoma?",
+    "a": "Erythropoietin can cause erythrocytosis;PTHrP can cause hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-1523",
+    "category": "Renal source details",
+    "q": "How does the PDF distinguish a young child's Wilms-tumor mass from its neuroblastoma example?",
+    "a": "A unilateral flank mass favors Wilms; the source uses a midline mass for neuroblastoma. This is an exam pattern, not a universal imaging/anatomic rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-1524",
+    "category": "Gastroenterology source details",
+    "q": "How can hereditary hemorrhagic telangiectasia cause anemia and high-output cardiac findings?",
+    "a": "Recurrent mucosal/GI bleeding causes iron loss; vascular shunts can increase cardiac output. The source highlights pulmonary AV connections.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-1525",
+    "category": "Gastroenterology source details",
+    "q": "Which two iron-deficiency signs accompany the source Plummer-Vinson discussion?",
+    "a": "Pica and koilonychia, spoon-shaped nails, besides angular cheilitis/web-related dysphagia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-1526",
+    "category": "Dermatology source details",
+    "q": "Can psoriasis involve the lips or forehead in the source?",
+    "a": "Yes. The PDF warns against assuming every lesion must be on an extensor surface.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2fm-1527",
+    "category": "Infectious disease source details",
+    "q": "How does primary herpes labialis differ from recurrences in the PDF?",
+    "a": "Primary episodes can cause fever and regional lymphadenopathy; recurrences are often less severe. HSV persists in sensory ganglia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-1528",
+    "category": "Infectious disease source details",
+    "q": "Can hand-foot-mouth disease occur in adults in the source?",
+    "a": "Yes, including parents/daycare workers. The source also discusses related enteroviral herpangina with or without peripheral lesions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2fm-1529",
+    "category": "Infectious disease source details",
+    "q": "What lymph-node distribution does the source use as a rubella clue?",
+    "a": "Postauricular and suboccipital adenopathy, contrasted with measles Koplik spots. This is an association, not an exclusive rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-family-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2fm-1530",
+    "category": "Pharmacology",
+    "q": "Why should patients rinse their mouths after an inhaled corticosteroid?",
+    "a": "To reduce local candidiasis risk. Oral thrush can occur with inhaled steroid exposure as well as broader immunosuppression.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1531",
+    "category": "Gastroenterology source details",
+    "q": "What does painful swallowing suggest in an immunocompromised patient with candidiasis risk?",
+    "a": "Candida esophagitis is a source consideration. The source wording is not a complete infectious-esophagitis differential.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1532",
+    "category": "Gastroenterology source details",
+    "q": "What nonclassic respiratory presentations does the PDF associate with reflux?",
+    "a": "Nocturnal cough or recurrent aspiration/pneumonitis, even without typical postmeal burning.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1533",
+    "category": "Gastroenterology source details",
+    "q": "Which source risk factors can reduce effective lower-esophageal-sphincter barrier function?",
+    "a": "Obesity/increased abdominal pressure and hiatal hernia, in its reflux discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1534",
+    "category": "Gastroenterology source details",
+    "q": "If the source PPI trial fails, which diagnostic test does the PDF name?",
+    "a": "24-hour esophageal pH monitoring. This is the source sequence; evaluation depends on alarm symptoms, endoscopic findings and whether reflux is established.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1535",
+    "category": "Gastroenterology source details",
+    "q": "Which antireflux procedure does the source mention for selected refractory cases?",
+    "a": "Nissen fundoplication.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-family-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2fm-1536",
+    "category": "Gastroenterology source details",
+    "q": "What distinguishes the source infant-reflux vignette from obstruction or a tracheoesophageal fistula?",
+    "a": "Nonforceful milk regurgitation rather than projectile/bilious emesis or choking at the first feed; it attributes this to an immature LES.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-1537",
+    "category": "Gastroenterology source details",
+    "q": "How does the source connect longstanding reflux with distal esophageal malignancy?",
+    "a": "GERD can lead to Barrett metaplasia and then adenocarcinoma in the lower third.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-1538",
+    "category": "Gastroenterology source details",
+    "q": "What next step follows an endoscopically observed stricture in the source progressive-dysphagia cancer vignette?",
+    "a": "Biopsy of the lesion/stricture to assess malignancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-1539",
+    "category": "Gastroenterology source details",
+    "q": "What anatomic site and treatment does the source give for Zenker diverticulum?",
+    "a": "An outpouching above the cricopharyngeus/upper esophageal sphincter; the source names diverticulectomy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-1540",
+    "category": "Gastroenterology source details",
+    "q": "Which neuronal defect explains impaired LES relaxation in the source achalasia description?",
+    "a": "Loss of nitric-oxide-secreting inhibitory myenteric neurons.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-1541",
+    "category": "Gastroenterology source details",
+    "q": "Which two mechanical treatments does the source name for achalasia?",
+    "a": "Pneumatic dilation and myotomy, presented in that order in the PDF rather than as a full patient-specific selection algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-family-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2fm-1542",
+    "category": "Gastroenterology source details",
+    "q": "Which retching contexts besides alcohol can cause the source Mallory-Weiss injury?",
+    "a": "Eating-disorder vomiting and hyperemesis gravidarum, with mucosal injury near the gastroesophageal junction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-1543",
+    "category": "Gastroenterology source details",
+    "q": "Which variceal drug does the source distinguish as prophylaxis rather than immediate bleeding control?",
+    "a": "Propranolol. It separately names endoscopic banding and octreotide for acute bleeding, not propranolol as acute hemostasis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-1544",
+    "category": "Gastroenterology source details",
+    "q": "How does the source compare diffuse esophageal spasm with nutcracker esophagus?",
+    "a": "Both can cause noncardiac chest pain; it describes spasm versus hyperperistaltic contraction. These are the source terms rather than the full modern manometric classification.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-1545",
+    "category": "Gastroenterology source details",
+    "q": "How do meal-related pain and weight changes differ in the source gastric-versus-duodenal ulcer comparison?",
+    "a": "Gastric: pain soon after food with possible avoidance/weight loss. Duodenal: delayed pain, sometimes relieved by eating with weight gain. These are patterns, not diagnostic exclusion rules.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2fm-1546",
+    "category": "Gastroenterology source details",
+    "q": "Which two H. pylori mechanisms does the source connect with survival and mucosal injury?",
+    "a": "Urease generates local ammonia for acid survival; mucosa-damaging proteins contribute to injury, with altered gastrin/acid signaling also discussed.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    }
   }
 ];
