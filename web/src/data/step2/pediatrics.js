@@ -13745,5 +13745,391 @@ export default [
       "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/omphalocele"
     },
     "img": "/mehlman/figures/peds-p071-abdominal-wall-defects.jpg"
+  },
+  {
+    "id": "s2peds-0992",
+    "category": "Congenital and genital disorders",
+    "q": "What developmental fusion failures does the source distinguish for cleft lip and cleft palate?",
+    "a": "Cleft lip: failure of fusion of the maxillary and nasal prominences. Cleft palate: failure of fusion of the lateral palatine processes, also called palatal shelves. The actual source diagram contrasts normal palate, cleft lip and cleft palate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    },
+    "guideline": {
+      "text": "CDC January 2026 describes incomplete joining of upper-lip tissues versus palatal tissues. A cleft palate can occur with or without a cleft lip, so these are related but distinct defects.",
+      "url": "https://www.cdc.gov/birth-defects/about/cleft-lip-cleft-palate.html"
+    },
+    "img": "/mehlman/figures/peds-p072-cleft-comparison.jpg"
+  },
+  {
+    "id": "s2peds-0993",
+    "category": "Congenital and genital disorders",
+    "q": "Does the source consider cleft lip a single-gene condition, and what frequency range does it quote?",
+    "a": "It describes polygenic causation and a population-dependent occurrence of roughly one in 1,000-5,000. These are the PDF estimates, not a single current prevalence for all clefts.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    },
+    "guideline": {
+      "text": "CDC January 2026 describes a combination of genes and other factors with causes unknown in most infants. Its US estimates are about one in 1,031 for cleft lip with or without cleft palate and one in 1,563 for cleft palate alone, different denominators that should not be collapsed.",
+      "url": "https://www.cdc.gov/birth-defects/about/cleft-lip-cleft-palate.html"
+    }
+  },
+  {
+    "id": "s2peds-0994",
+    "category": "Congenital and genital disorders",
+    "q": "What is the source exam shortcut for an otherwise isolated cleft lip, and what limits that shortcut?",
+    "a": "The PDF calls it a one-off developmental anomaly rather than automatically assigning a larger syndrome. It compares this exam framing with pyloric stenosis and ASD/VSD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    },
+    "guideline": {
+      "text": "CDC January 2026 explicitly recognizes associated syndromes and other birth defects. The source shortcut is not a rule that any cleft, pyloric stenosis or septal defect must be nonsyndromic; clinical context and additional findings matter.",
+      "url": "https://www.cdc.gov/birth-defects/about/cleft-lip-cleft-palate.html"
+    }
+  },
+  {
+    "id": "s2peds-0995",
+    "category": "Congenital and genital disorders",
+    "q": "What recurrence estimates does the PDF give after one affected child versus one affected parent?",
+    "a": "After an affected child: 3-5% for a second child. With an affected parent: 10-15% for a child. These are the source estimates, not individualized genetic counseling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    },
+    "guideline": {
+      "text": "The NHS gives approximately 2-8% after an affected child and also 2-8% when a parent is affected, differing from the PDF parent estimate. Actual recurrence depends on the cleft type, family history and whether a syndrome is present; use specialist counseling rather than a universal 10-15% rule.",
+      "url": "https://www.nhs.uk/conditions/cleft-lip-and-palate/"
+    }
+  },
+  {
+    "id": "s2peds-0996",
+    "category": "Congenital and genital disorders",
+    "q": "What distinguishes a malformation from a deformation in the source definitions?",
+    "a": "Malformation: an intrinsic structural-development problem from genetic factors or early environmental influences such as teratogens. Deformation: an initially normal structure is reshaped later, usually by mechanical forces.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2peds-0997",
+    "category": "Congenital and genital disorders",
+    "q": "Which source examples illustrate malformation?",
+    "a": "Spina bifida, cleft lip or palate, congenital heart defects and phocomelia. The PDF defines phocomelia as a severe flipper-like limb malformation and links it to thalidomide exposure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2peds-0998",
+    "category": "Congenital and genital disorders",
+    "q": "What forces and examples does the source associate with deformation?",
+    "a": "Mechanical influences such as uterine compression or oligohydramnios reshape an initially normal part. Its examples are clubfoot, developmental hip dysplasia and plagiocephaly, an abnormal head shape. These are the PDF examples, not a claim that every case has only a mechanical cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2peds-0999",
+    "category": "Congenital and genital disorders",
+    "q": "How does the actual source development-pattern diagram distinguish malformation, disruption, deformation and dysplasia?",
+    "a": "Malformation begins with an abnormal developmental structure; disruption shows an outside destructive event interrupting an initially normal structure; deformation shows mechanical distortion; dysplasia depicts abnormal organization along the developing tissue. The PDF text defines the first and third here and disruption on page 73; dysplasia appears as a labeled pattern in the actual figure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 72,
+      "url": "/mehlman/hy-pediatrics.pdf#page=72"
+    },
+    "img": "/mehlman/figures/peds-p072-development-patterns.jpg"
+  },
+  {
+    "id": "s2peds-1000",
+    "category": "Congenital and genital disorders",
+    "q": "What is a disruption, and which source example shows its mechanism?",
+    "a": "An initially normal organ or part is damaged by a destructive event. In amniotic band syndrome, fibrous amniotic-membrane bands can entangle fetal limbs or fingers and cause amputation. This differs from intrinsic malformation and mechanical reshaping without destruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2peds-1001",
+    "category": "Congenital and genital disorders",
+    "q": "What tumor is also called an endodermal sinus tumor, and what pediatric age shortcut does the PDF use?",
+    "a": "Yolk sac tumor. The source highlights it as an ovarian-tumor answer in very young children, usually up to age three.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI describes ovarian germ-cell tumors mainly in adolescents and young adults, with many benign mature teratomas and several malignant histologies. Young age alone does not make every ovarian mass a yolk sac tumor; the PDF age cue must be combined with histology and markers.",
+      "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1002",
+    "category": "Congenital and genital disorders",
+    "q": "What tumor marker and histological structure identify the source yolk sac tumor?",
+    "a": "Alpha-fetoprotein, AFP, and Schiller-Duval bodies that resemble glomeruli.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI confirms AFP production by yolk sac tumors and notes physiological AFP elevation during infancy. Interpret AFP against age and clinical context rather than calling every infant elevation a malignancy.",
+      "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1003",
+    "category": "Congenital and genital disorders",
+    "q": "What source tumor is aggressive, rapidly growing and composed of undifferentiated or anaplastic cells?",
+    "a": "Embryonal carcinoma. The PDF emphasizes that histological appearance alongside its tumor-marker and age clues.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2peds-1004",
+    "category": "Congenital and genital disorders",
+    "q": "Which AFP and hCG shortcut does the source use to distinguish embryonal carcinoma from yolk sac tumor?",
+    "a": "Both AFP and hCG high: the PDF favors embryonal carcinoma. AFP alone high: it favors yolk sac tumor. This is the source exam heuristic, not a marker-only pathological diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI states that yolk sac components produce AFP and some embryonal carcinomas produce beta-hCG. Mixed tumors and other histologies can alter the pattern; both markers do not uniquely prove pure embryonal carcinoma.",
+      "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1005",
+    "category": "Congenital and genital disorders",
+    "q": "How does the source compare the usual ages and sex sites of embryonal carcinoma and yolk sac tumor?",
+    "a": "It contrasts a very young child with yolk sac tumor against an adult man with embryonal carcinoma, while acknowledging that embryonal carcinoma can also occur in the ovary.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI separates prepubertal and postpubertal germ-cell biology and describes multiple ovarian germ-cell histologies. The source ages and sites are clues, not exclusive diagnostic boundaries.",
+      "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1006",
+    "category": "Congenital and genital disorders",
+    "q": "What testicular tumor does the PDF call most common from the teenage years onward, and how do its cells look?",
+    "a": "Seminoma, with large uniform cells and watery or clear cytoplasm. The source most-common label is age-context dependent rather than a rule for a prepubertal testicular mass.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI pediatric germ-cell guidance describes pure yolk sac tumor as a common malignant testicular histology in early childhood, unlike the postpubertal seminoma pattern. Do not apply the PDF seminoma shortcut to young boys.",
+      "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1007",
+    "category": "Congenital and genital disorders",
+    "q": "Which treatment sensitivities and marker does the source associate with seminoma?",
+    "a": "Chemo- and radiosensitivity, with placental alkaline phosphatase, PLAP, as a possible marker. Sensitivity does not specify the best treatment for every stage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2peds-1008",
+    "category": "Congenital and genital disorders",
+    "q": "What ovarian tumor is the seminoma counterpart, and what source histology and serum marker are linked to it?",
+    "a": "Dysgerminoma, with large uniform clear cells and lactate dehydrogenase, LDH, as a marker. The source compares its morphology with seminoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2peds-1009",
+    "category": "Congenital and genital disorders",
+    "q": "Does the source dysgerminoma radiosensitivity mean radiotherapy is automatically the preferred treatment?",
+    "a": "No. The PDF calls it highly sensitive to both chemotherapy and radiotherapy, but sensitivity is not the same as a stage-specific treatment recommendation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI ovarian germ-cell guidance supports observation after surgery for fully staged stage IA dysgerminoma and chemotherapy when indicated. It notes ovarian failure and fertility loss from radiation; BEP chemotherapy has replaced radiation in most stage II settings and is preferred in advanced disease when preserving fertility.",
+      "url": "https://www.cancer.gov/types/ovarian/hp/ovarian-germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1010",
+    "category": "Congenital and genital disorders",
+    "q": "What syndrome does the source associate with dysgerminoma, and can it occur without that syndrome?",
+    "a": "Turner syndrome is the source association, but dysgerminoma can also occur without a named syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI describes increased gonadoblastoma and dysgerminoma risk with Turner syndrome and emphasizes that dysgenetic gonads containing Y-chromosome material are at increased tumor risk. The source association does not mean every Turner patient has the same gonadal-tumor risk.",
+      "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1011",
+    "category": "Congenital and genital disorders",
+    "q": "What is a dermoid cyst, and which source contents or imaging finding suggest it?",
+    "a": "A mature cystic teratoma containing tissue from multiple germ layers, such as hair, skin and teeth; it can calcify.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "NCI notes that most ovarian germ-cell tumors are benign mature teratomas. Mature and immature teratomas are not interchangeable labels.",
+      "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-1012",
+    "category": "Congenital and genital disorders",
+    "q": "What source lesion consists of painless skin-colored or slightly darker cauliflower-like papules, and which HPV types cause it?",
+    "a": "Condylomata acuminata, genital warts, classically HPV 6 and 11. The PDF describes papular cauliflower-like lesions, not an ulcerative process.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "CDC child-assault STI guidance says anogenital warts in children require assessment for possible abuse but can occur without other evidence of abuse. They are neither automatic proof nor grounds to dismiss a safeguarding concern.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/sexual-assault-children.htm"
+    }
+  },
+  {
+    "id": "s2peds-1013",
+    "category": "Congenital and genital disorders",
+    "q": "A child has grape-like tissue protruding from the vagina. Which rare source tumor is suggested?",
+    "a": "Sarcoma botryoides, a vaginal rhabdomyosarcoma. The source emphasizes its rarity and grape-bunch appearance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2peds-1014",
+    "category": "Congenital and genital disorders",
+    "q": "Where are Bartholin lesions located, and how does a cyst differ from an abscess?",
+    "a": "The source localizes a bump to the 4- or 8-o'clock vulvar position and describes pain or tenderness; warmth and redness suggest an infected abscess.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "Merck February 2026 locates the glands posterolateral to the vaginal opening. Most uncomplicated cysts are nontender or asymptomatic, whereas abscesses cause marked pain and erythema, correcting the PDF broad tender-cyst description.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/miscellaneous-gynecologic-disorders/bartholin-gland-cyst-and-bartholin-gland-abscess"
+    }
+  },
+  {
+    "id": "s2peds-1015",
+    "category": "Congenital and genital disorders",
+    "q": "What organism answer does the source expect for a Bartholin gland abscess?",
+    "a": "Polymicrobial rather than a single mandatory organism. The PDF presents this as the exam answer, not a culture result for every patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "Merck February 2026 notes increasing MRSA and occasional sexually transmitted causes and recommends culturing an abscess. Actual management depends on the patient and infection severity; the source label does not identify an individual pathogen.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/miscellaneous-gynecologic-disorders/bartholin-gland-cyst-and-bartholin-gland-abscess"
+    }
+  },
+  {
+    "id": "s2peds-1016",
+    "category": "Congenital and genital disorders",
+    "q": "How does source treatment differ for a mildly symptomatic Bartholin cyst versus an overt abscess?",
+    "a": "For a cyst, the PDF starts with sitz baths and warm compresses. For an overt abscess, it calls for drainage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "Merck February 2026 says asymptomatic cysts need no treatment; persistent symptoms may need a procedure. Abscess drainage usually includes a Word catheter or another durable opening because simple drainage recurs. Antibiotics are added for relevant risks such as cellulitis or systemic infection.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/miscellaneous-gynecologic-disorders/bartholin-gland-cyst-and-bartholin-gland-abscess"
+    }
+  },
+  {
+    "id": "s2peds-1017",
+    "category": "Congenital and genital disorders",
+    "q": "What source diagnosis should be considered in a child with foul-smelling vaginal discharge?",
+    "a": "A vaginal foreign body. The source also notes a similar presentation can occur in elderly patients. The diagnosis is not established by odor alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "Merck September 2026 lists foreign bodies, often toilet paper or a small object, with foul discharge and spotting. Infection, irritants and sexual abuse are other possibilities, so the clinical assessment must remain broader.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/symptoms-of-gynecologic-disorders/vulvovaginal-pruritus-or-vaginal-discharge-in-children"
+    }
+  },
+  {
+    "id": "s2peds-1018",
+    "category": "Congenital and genital disorders",
+    "q": "Does the absence of vaginal lacerations or visible trauma rule out sexual abuse?",
+    "a": "No. A normal examination does not exclude sexual abuse. The PDF contrasts foreign-body discharge without lacerations against abuse with lacerations and claims no trauma means not abuse; that exclusion is unsafe and must not be used.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "The Canadian Paediatric Society statement, reaffirmed January 2026, says most genital examinations in suspected child sexual abuse are normal or nonspecific and a normal examination does not exclude abuse. Assess concerns with a trained clinician rather than relying on injury absence.",
+      "url": "https://cps.ca/en/documents/position/the-medical-evaluation-of-pre-pubertal-children-with-suspected-sexual-abuse"
+    }
+  },
+  {
+    "id": "s2peds-1019",
+    "category": "Congenital and genital disorders",
+    "q": "Can sexual abuse be present with no discharge, and do lacerations alone settle the diagnosis?",
+    "a": "Yes. Sexual abuse can occur without discharge or visible injury, and lacerations alone do not settle the diagnosis. The PDF says discharge may or may not be present and uses lacerations as a vignette clue. Findings and concerns need expert interpretation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 73,
+      "url": "/mehlman/hy-pediatrics.pdf#page=73"
+    },
+    "guideline": {
+      "text": "The Canadian Paediatric Society, reaffirmed January 2026, recommends trauma-informed examination and expert review because normal findings are common and some nonabuse findings can be misread. No single simple appearance rule should determine whether abuse occurred.",
+      "url": "https://cps.ca/en/documents/position/the-medical-evaluation-of-pre-pubertal-children-with-suspected-sexual-abuse"
+    }
   }
 ];
