@@ -25207,8 +25207,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
     },
     "guideline": {
-      "text": "ATA advises patients already taking levothyroxine to increase by 20-30% as soon as pregnancy is diagnosed and contact their clinician for prompt testing; total requirements often rise 25-50%, with monitoring/titration.",
-      "url": "https://www.thyroid.org/hypothyroidism-in-pregnancy/"
+      "text": "ATA 2026 Box 3, read in an author-university copy of the full guideline, describes about a 25% increase after a positive pregnancy test, then testing/titration. Many women need about 25% more by week 12 and 50% by week 20; baseline TSH/dose and overtreatment risk matter. A fixed 50% increase for everyone is not the rule.",
+      "url": "https://pure.eur.nl/ws/portalfiles/portal/250480178/American_Thyroid_Association_2026_Guidelines_for_Thyroid_Disease_in_Preconception_Pregnancy_and_Postpartum.pdf"
     }
   },
   {
@@ -28905,6 +28905,96 @@ export default [
     "guideline": {
       "text": "ACOG CPG5 (2023), read in an externally hosted full copy, supports continuing effective mood stabilizers other than valproate when appropriate and tailoring therapy to bipolar subtype, prior response and risks. These three source drugs are not a universal replacement list for every patient.",
       "url": "https://cdn.policycentermmh.org/2026/09/2023-ACOG-guideline-Treatment-and-Management-of-Mental-Health-Conditions-During-Pregnancy-and-Postpartum_ACOG-Clinical-Practice-Guideline-No.-5_.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2466",
+    "category": "Endocrine precise-source review",
+    "q": "What shared calcium-channel pathogenesis does the PDF give for NMS and malignant hyperthermia?",
+    "a": "It says a ryanodine channel gets stuck open in both, causing heat-producing calcium cycling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    },
+    "guideline": {
+      "text": "MHAUS says NMS and malignant hyperthermia arise through different mechanisms and do not appear genetically related, although dantrolene may help NMS. A shared treatment does not prove identical pathogenesis.",
+      "url": "https://www.mhaus.org/faqs/should-patients-who-experienced-neuroleptic-malignant-syndrome-nms-or-serotonin-syndrome-be-tested-for-mh/"
+    }
+  },
+  {
+    "id": "s2fm-2467",
+    "category": "Endocrine precise-source review",
+    "q": "Which anti-inflammatory class does the PDF include among causes of nephrogenic DI?",
+    "a": "NSAIDs, alongside lithium, demeclocycline and hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    },
+    "guideline": {
+      "text": "GeneReviews nephrogenic-DI review, a secondary clinical source, describes indomethacin/NSAIDs as selected therapy to improve concentrating ability, with important renal, GI and other risks. Its acquired-cause list instead includes lithium, electrolyte disorders and several kidney diseases/drugs. This does not claim every NSAID exposure is harmless.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1177/"
+    }
+  },
+  {
+    "id": "s2fm-2468",
+    "category": "Endocrine precise-source review",
+    "q": "Which lymphoma example does the PDF give for the increased risk in Hashimoto thyroiditis?",
+    "a": "Non-Hodgkin lymphoma, specifically giving primary CNS lymphoma as an example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    },
+    "guideline": {
+      "text": "ATA patient guidance identifies increased risk of rare primary thyroid lymphoma in Hashimoto thyroiditis. That is a thyroid-site association; this guidance does not establish the source CNS-specific example.",
+      "url": "https://www.thyroid.org/primary-thyroid-lymphoma/"
+    }
+  },
+  {
+    "id": "s2fm-2469",
+    "category": "Endocrine precise-source review",
+    "q": "Does the PDF use explicitly absent exophthalmos to exclude Graves disease?",
+    "a": "Yes, as its exam shortcut, even though it also says the vignette need not mention eye signs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    },
+    "guideline": {
+      "text": "NIDDK reports eye disease in more than one-third of people with Graves, not all. Graves can occur without eye involvement, so absence of exophthalmos is not a clinical exclusion.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/graves-disease"
+    }
+  },
+  {
+    "id": "s2fm-2470",
+    "category": "Endocrine precise-source review",
+    "q": "What malignancy exclusion does the PDF use for a hyperthyroid thyroid nodule?",
+    "a": "It says carcinoma is nonsecretory, so hyperthyroidism removes concern for carcinoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    },
+    "guideline": {
+      "text": "ATA September 2026 patient summary of a surgical series reports rare cancers in hot nodules. It also states current guidelines generally do not require biopsy of overactive nodules. This is observational evidence in a selected surgical population, not a new universal biopsy rule.",
+      "url": "https://www.thyroid.org/patient-thyroid-information/ct-for-patients/september-2026/vol-19-issue-9-p-5-6/"
+    }
+  },
+  {
+    "id": "s2fm-2471",
+    "category": "Endocrine precise-source review",
+    "q": "Which two thyroid-hormone replacements does the PDF present as alternatives for Hashimoto hypothyroidism?",
+    "a": "Levothyroxine or triiodothyronine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    },
+    "guideline": {
+      "text": "NIDDK identifies levothyroxine, identical to T4, as the recommended treatment for hypothyroidism. The source pairing should not be read as routine interchangeability of T4 and T3 monotherapy.",
+      "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease"
     }
   }
 ];
