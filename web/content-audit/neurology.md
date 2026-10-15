@@ -1,6 +1,6 @@
 # Neurology conversion ledger
 
-October 15, 2026. Partial: 298 active cards, 23 figure-bearing cards / 22 distinct actual source figures, 64 separately linked comparisons. First pass pp4-36; pp37-71 and full second source/detail pass remain. Counts and page links are not proof of final coverage.
+October 15, 2026. Partial: 440 active cards, 46 figure-bearing cards / 31 distinct actual source figures, 90 separately linked comparisons. First pass pp4-50; pp51-71 and full second source/detail pass remain. Counts and page links are not proof of final coverage.
 
 ## Intentional scope exclusions
 
@@ -43,7 +43,21 @@ October 15, 2026. Partial: 298 active cards, 23 figure-bearing cards / 22 distin
 | 33 | s2neuro-0257, s2neuro-0258, s2neuro-0259, s2neuro-0260, s2neuro-0261, s2neuro-0262, s2neuro-0263, s2neuro-0264, s2neuro-0265 |
 | 34 | s2neuro-0266, s2neuro-0267, s2neuro-0268, s2neuro-0269, s2neuro-0270, s2neuro-0271, s2neuro-0272, s2neuro-0273, s2neuro-0274, s2neuro-0275, s2neuro-0276, s2neuro-0277 |
 | 35 | s2neuro-0277, s2neuro-0278, s2neuro-0279, s2neuro-0280, s2neuro-0281, s2neuro-0282, s2neuro-0283, s2neuro-0284, s2neuro-0285, s2neuro-0286 |
-| 36 | s2neuro-0286, s2neuro-0287, s2neuro-0288, s2neuro-0289, s2neuro-0290, s2neuro-0291, s2neuro-0292, s2neuro-0293, s2neuro-0294, s2neuro-0295, s2neuro-0296, s2neuro-0297 |
+| 36 | s2neuro-0286, s2neuro-0287, s2neuro-0288, s2neuro-0289, s2neuro-0290, s2neuro-0291, s2neuro-0292, s2neuro-0293, s2neuro-0294, s2neuro-0295, s2neuro-0296, s2neuro-0297, s2neuro-0299 |
+| 37 | s2neuro-0299, s2neuro-0300, s2neuro-0301, s2neuro-0302, s2neuro-0303, s2neuro-0304 |
+| 38 | s2neuro-0305, s2neuro-0306, s2neuro-0307, s2neuro-0308 |
+| 39 | s2neuro-0308, s2neuro-0309, s2neuro-0310, s2neuro-0311, s2neuro-0312, s2neuro-0313, s2neuro-0314, s2neuro-0315, s2neuro-0316 |
+| 40 | s2neuro-0316, s2neuro-0317, s2neuro-0318, s2neuro-0319, s2neuro-0320, s2neuro-0321, s2neuro-0322, s2neuro-0323, s2neuro-0324, s2neuro-0325 |
+| 41 | s2neuro-0320, s2neuro-0321, s2neuro-0322, s2neuro-0323, s2neuro-0324, s2neuro-0325, s2neuro-0326, s2neuro-0327, s2neuro-0328, s2neuro-0329, s2neuro-0330, s2neuro-0331, s2neuro-0332, s2neuro-0333, s2neuro-0334, s2neuro-0335, s2neuro-0336 |
+| 42 | s2neuro-0337, s2neuro-0338, s2neuro-0339, s2neuro-0340, s2neuro-0341, s2neuro-0342, s2neuro-0343, s2neuro-0344, s2neuro-0345, s2neuro-0346, s2neuro-0347, s2neuro-0348, s2neuro-0349, s2neuro-0350, s2neuro-0351 |
+| 43 | s2neuro-0351, s2neuro-0352, s2neuro-0353, s2neuro-0354, s2neuro-0355, s2neuro-0356, s2neuro-0357, s2neuro-0358, s2neuro-0359, s2neuro-0360, s2neuro-0361, s2neuro-0362, s2neuro-0363, s2neuro-0364, s2neuro-0365 |
+| 44 | s2neuro-0365, s2neuro-0366, s2neuro-0367, s2neuro-0368, s2neuro-0369, s2neuro-0370, s2neuro-0371, s2neuro-0372, s2neuro-0373, s2neuro-0374, s2neuro-0375 |
+| 45 | s2neuro-0376, s2neuro-0377, s2neuro-0378, s2neuro-0379, s2neuro-0380, s2neuro-0381, s2neuro-0382, s2neuro-0383, s2neuro-0384, s2neuro-0385, s2neuro-0386, s2neuro-0387, s2neuro-0388 |
+| 46 | s2neuro-0389, s2neuro-0390, s2neuro-0391, s2neuro-0392, s2neuro-0393, s2neuro-0394, s2neuro-0395, s2neuro-0396, s2neuro-0397, s2neuro-0398, s2neuro-0399, s2neuro-0400, s2neuro-0401, s2neuro-0402, s2neuro-0403, s2neuro-0404 |
+| 47 | s2neuro-0404, s2neuro-0405, s2neuro-0406, s2neuro-0407, s2neuro-0408, s2neuro-0409, s2neuro-0410, s2neuro-0411, s2neuro-0412, s2neuro-0413, s2neuro-0414 |
+| 48 | s2neuro-0415, s2neuro-0416, s2neuro-0417, s2neuro-0418, s2neuro-0419, s2neuro-0420, s2neuro-0421, s2neuro-0422, s2neuro-0423, s2neuro-0424, s2neuro-0425 |
+| 49 | s2neuro-0426, s2neuro-0427, s2neuro-0428, s2neuro-0429, s2neuro-0430, s2neuro-0431, s2neuro-0432 |
+| 50 | s2neuro-0433, s2neuro-0434, s2neuro-0435, s2neuro-0436, s2neuro-0437, s2neuro-0438, s2neuro-0439, s2neuro-0440 |
 
 ## Safety and source differences
 
@@ -68,3 +82,12 @@ October 15, 2026. Partial: 298 active cards, 23 figure-bearing cards / 22 distin
 ### Product checkpoint through p36
 
 All13 newly added figure-bearing cards (12 new distinct images) and five long-answer/comparison cards rendered in actual390x844 or320x568 mobile viewports. Inspected all36 top/bottom screenshots as six contact sheets: intact source figures, readable text/links, visible answer controls. No horizontal overflow, broken images or offscreen controls. Dense original labels retain a full-size-image link. No full clinical/source-detail acceptance claim yet.
+
+## First-pass checkpoint through p50
+
+- All source pages37-50 converted, including image-only page49 visual pathways, GCS table and all six labeled herniations. Existing source ranks and obsolete terminology remain attributed. Clinical pp51-71 and complete second-detail pass remain.
+- Explicit comparisons: AHA/ASA2023 aneurysm securing and nimodipine; BTF hyperventilation; Merck upward herniation; NCI meningioma/GBM rank qualifier; AAN2019 tic treatments and source clozapine-vs-clonidine discrepancy; ILAE2025 consciousness terminology; AES2016 status alternatives;2024 febrile-seizure review; NINDS infantile-spasm causes/treatments and Rett sex nonexclusion; CDC CP risk factors; FAS consensus multiparameter criteria; nonneuronopathic Gaucher; MedlinePlus I-cell extracellular misdirection and separate MPSI/II disorders; ipratropium bronchodilation; cabergoline alternative;2004 AAFP absence-of-tongue-injury nonexclusion.
+
+### Product checkpoint through p50
+
+All23 new figure-bearing cards and six long-answer/comparison cards rendered in390x844 or320x568 mobile viewports. All58 top/bottom screenshots inspected in10 contact sheets; images, question/answer text, source links and persistent controls intact. No horizontal overflow/broken images/offscreen controls. Dense source tables/maps link to full-size originals. Corrected GCS score spacing after pixel inspection and re-rendered before publication.

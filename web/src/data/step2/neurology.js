@@ -2055,7 +2055,7 @@ export default [
     "id": "s2neuro-0171",
     "category": "Movement disorders",
     "q": "Which nerve, visual findings and MS association define source optic neuritis?",
-    "a": "Inflammation of CNII with changes in acuity/color vision or a central scotoma. It calls this nearly synonymous with MS on exams, but later acknowledges other causes; it is not uniquely diagnostic of MS.",
+    "a": "Inflammation of CN II with changes in acuity/color vision or a central scotoma. It calls this nearly synonymous with MS on exams, but later acknowledges other causes; it is not uniquely diagnostic of MS.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 23,
@@ -2066,7 +2066,7 @@ export default [
     "id": "s2neuro-0172",
     "category": "Movement disorders",
     "q": "Why does the affected eye produce weaker direct and consensual constriction in source RAPD?",
-    "a": "Reduced afferent input from the affected optic nerve decreases the bilateral CNIII parasympathetic response. Moving the light from the normal eye to the affected eye produces relative dilation, not an active isolated efferent dilation command.",
+    "a": "Reduced afferent input from the affected optic nerve decreases the bilateral CN III parasympathetic response. Moving the light from the normal eye to the affected eye produces relative dilation, not an active isolated efferent dilation command.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 23,
@@ -2107,8 +2107,8 @@ export default [
   {
     "id": "s2neuro-0175",
     "category": "Neuro-ophthalmology and demyelination",
-    "q": "How does the actual source drawing distinguish INO from a CNIII lesion on convergence?",
-    "a": "It shows preserved convergence in INO despite impaired adduction during conjugate gaze. A CNIII lesion can also impair convergence. The source also labels INO pathognomonic for MS; that diagnostic absolute is not valid across all ages/causes.",
+    "q": "How does the actual source drawing distinguish INO from a CN III lesion on convergence?",
+    "a": "It shows preserved convergence in INO despite impaired adduction during conjugate gaze. A CN III lesion can also impair convergence. The source also labels INO pathognomonic for MS; that diagnostic absolute is not valid across all ages/causes.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 25,
@@ -2272,7 +2272,7 @@ export default [
     "id": "s2neuro-0188",
     "category": "Motor neuron and peripheral disorders",
     "q": "Which facial distribution, lesion type and cause examples does the source call Bell palsy?",
-    "a": "An ipsilateral lower-motor-neuron CNVII palsy affecting facial muscles. It lists idiopathic/postviral disease, shingles/Ramsay Hunt and Lyme; those identifiable causes are facial palsy differentials rather than all being idiopathic Bell palsy.",
+    "a": "An ipsilateral lower-motor-neuron CN VII palsy affecting facial muscles. It lists idiopathic/postviral disease, shingles/Ramsay Hunt and Lyme; those identifiable causes are facial palsy differentials rather than all being idiopathic Bell palsy.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 26,
@@ -2312,7 +2312,7 @@ export default [
   {
     "id": "s2neuro-0191",
     "category": "Motor neuron and peripheral disorders",
-    "q": "Which hearing and taste changes can accompany source CNVII palsy?",
+    "q": "Which hearing and taste changes can accompany source CN VII palsy?",
     "a": "Ipsilateral hyperacusis from stapedius weakness and lost taste over the anterior two-thirds of the tongue.",
     "source": {
       "title": "Mehlman HY Neuro",
@@ -2323,8 +2323,8 @@ export default [
   {
     "id": "s2neuro-0192",
     "category": "Motor neuron and peripheral disorders",
-    "q": "Why does the source choose CNI after trauma with isolated perceived taste loss?",
-    "a": "Cribriform-plate injury can damage olfaction; loss of smell impairs much perceived flavor. With an otherwise normal neurologic examination, it chooses olfactory rather than facial nerve injury, while acknowledging CNVII taste changes usually accompany facial weakness in its vignettes.",
+    "q": "Why does the source choose CN I after trauma with isolated perceived taste loss?",
+    "a": "Cribriform-plate injury can damage olfaction; loss of smell impairs much perceived flavor. With an otherwise normal neurologic examination, it chooses olfactory rather than facial nerve injury, while acknowledging CN VII taste changes usually accompany facial weakness in its vignettes.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 27,
@@ -2442,7 +2442,7 @@ export default [
     "id": "s2neuro-0202",
     "category": "Vertigo",
     "q": "What postviral symptom and nerve distinguish source vestibular neuritis?",
-    "a": "Vertigo after a viral illness from inflammation of the vestibular branch of CNVIII.",
+    "a": "Vertigo after a viral illness from inflammation of the vestibular branch of CN VIII.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 28,
@@ -3158,7 +3158,7 @@ export default [
     "id": "s2neuro-0262",
     "category": "CNS infection and thrombosis",
     "q": "Which symptoms, venous route, organism and treatment identify source cavernous-sinus thrombosis?",
-    "a": "Severe headache, diplopia, proptosis or ophthalmoplegia after sinus infection. Infection can ascend valveless facial veins, often with Staphylococcus aureus; the source chooses IV antibiotics plus heparin and notes possible CNVI palsy.",
+    "a": "Severe headache, diplopia, proptosis or ophthalmoplegia after sinus infection. Infection can ascend valveless facial veins, often with Staphylococcus aureus; the source chooses IV antibiotics plus heparin and notes possible CN VI palsy.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 33,
@@ -3487,7 +3487,7 @@ export default [
     "id": "s2neuro-0289",
     "category": "Tetanus vaccination and wound care",
     "q": "What complete-series wound-booster intervals does the PDF give?",
-    "a": "It says no treatment0-5 years, dirty-wound Td at 6-9 years and a booster for either wound at 10+ years. This source boundary is not the current CDC threshold: dirty/major-wound boosters begin at 5 years, not after5.",
+    "a": "It says no treatment0-5 years, dirty-wound Td at 6-9 years and a booster for either wound at 10+ years. This source boundary is not the current CDC threshold: dirty/major-wound boosters begin at 5 years, not after 5.",
     "source": {
       "title": "Mehlman HY Neuro",
       "page": 36,
@@ -3615,6 +3615,1743 @@ export default [
     "guideline": {
       "text": "CDC prioritizes managing neurologic manifestations. Killing viable cysts can worsen inflammation; anti-inflammatory treatment may accompany therapy. Drug choice and duration depend on lesion location, size, number and stage, while some cases need surgery. Do not apply one source drug answer to every lesion.",
       "url": "https://www.cdc.gov/cysticercosis/hcp/clinical-care/index.html"
+    }
+  },
+  {
+    "id": "s2neuro-0299",
+    "category": "Intracranial hemorrhage",
+    "q": "Which extra-axial bleed does this actual source image illustrate?",
+    "a": "Epidural hematoma: a lens/biconvex hyperdense collection. The source picture continues the previous page's middle-meningeal-artery/lucid-interval discussion.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 37,
+      "url": "/mehlman/hy-neuro.pdf#page=37"
+    },
+    "img": "/mehlman/figures/neuro-p037-02.jpeg",
+    "sourcePages": [
+      36,
+      37
+    ]
+  },
+  {
+    "id": "s2neuro-0300",
+    "category": "Intracranial hemorrhage",
+    "q": "Which vessel, shape, accumulation and clinical risks identify source subdural hematoma?",
+    "a": "Bridging/superior cerebral veins, with a crescent-shaped collection that may slowly accumulate and contain mixed old/new blood. The source emphasizes older people/dementia, alcohol use and acceleration-deceleration injuries, including abusive head trauma and car crashes.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 37,
+      "url": "/mehlman/hy-neuro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2neuro-0301",
+    "category": "Intracranial hemorrhage",
+    "q": "Which extra-axial collection is shown in this actual source subdural scan?",
+    "a": "A crescent-shaped subdural hematoma along the cerebral convexity, rather than the epidural example on the same page.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 37,
+      "url": "/mehlman/hy-neuro.pdf#page=37"
+    },
+    "img": "/mehlman/figures/neuro-p037-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0302",
+    "category": "Intracranial hemorrhage",
+    "q": "What lucid-interval and surgical shortcuts does the source give for subdural hematoma?",
+    "a": "It says no lucid interval, glossed as no initial loss of consciousness, and favors craniotomy in its exam observations. It acknowledges observing small subdurals but says it has not seen that answer. These observations do not define every real presentation or operative indication.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 37,
+      "url": "/mehlman/hy-neuro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2neuro-0303",
+    "category": "Intracranial hemorrhage",
+    "q": "What low-GCS sequence does the source repeat for subdural hematoma?",
+    "a": "Intubation plus hyperventilation before craniotomy in its shortcut. Airway support and emergency neurosurgical assessment are important, but routine hyperventilation is not a universal safe head-injury step.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 37,
+      "url": "/mehlman/hy-neuro.pdf#page=37"
+    },
+    "guideline": {
+      "text": "Brain Trauma Foundation advises against prolonged prophylactic hyperventilation to PaCO2 at or below 25 mmHg. It retains older temporizing-ICP guidance with explicit evidence limits; early low cerebral blood flow is a concern. The PDF shortcut is not a universal ventilator target or a complete operative decision rule.",
+      "url": "https://braintrauma.org/coma/guidelines/severe-tbi"
+    }
+  },
+  {
+    "id": "s2neuro-0304",
+    "category": "Intracranial hemorrhage",
+    "q": "Which aneurysm sites, headache, meningeal sign and pupil finding identify source SAH?",
+    "a": "Ruptured anterior-communicating or posterior-communicating saccular/berry aneurysm, with the source ranking ACoM above PCoM. Worst-ever headache and meningismus can mimic meningitis. A PCoM aneurysm may compress ipsilateral CN III and cause a dilated pupil.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 37,
+      "url": "/mehlman/hy-neuro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2neuro-0305",
+    "category": "Intracranial hemorrhage",
+    "q": "Which common and inherited risk factors does the source associate with saccular aneurysms?",
+    "a": "Hypertension, Ehlers-Danlos syndrome and autosomal-dominant polycystic kidney disease. It ranks hypertension as the commonest population risk/most cases and says MI remains a more likely cause of death than berry aneurysm in a general hypertensive patient; these exact rank claims are source assertions.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 38,
+      "url": "/mehlman/hy-neuro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2neuro-0306",
+    "category": "Intracranial hemorrhage",
+    "q": "Which hemorrhage and basal-cistern pattern are shown in this actual source scan?",
+    "a": "Subarachnoid hemorrhage, with blood in basal cisterns described by the source as a starfish or sand dollar.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 38,
+      "url": "/mehlman/hy-neuro.pdf#page=38"
+    },
+    "img": "/mehlman/figures/neuro-p038-02.jpeg"
+  },
+  {
+    "id": "s2neuro-0307",
+    "category": "Intracranial hemorrhage",
+    "q": "What supportive-care, reversal and vasospasm treatment does the source list for SAH?",
+    "a": "Blood-pressure control, reversal of anticoagulation using FFP for warfarin in its example, and nimodipine to reduce later neurologic sequelae. Its usually-supportive summary is not a complete aneurysm-treatment plan.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 38,
+      "url": "/mehlman/hy-neuro.pdf#page=38"
+    },
+    "guideline": {
+      "text": "AHA/ASA 2023 recommends prompt evaluation and treatment to secure the ruptured aneurysm, preferably within 24 hours, with complete obliteration where feasible. Early enteral nimodipine reduces delayed cerebral ischemia and improves outcomes. Supportive care alone is not the full management of a ruptured aneurysm.",
+      "url": "https://professional.heart.org/en/science-news/2023-guideline-for-the-management-of-patients-with-aneurysmal-subarachnoid-hemorrhage/top-things-to-know"
+    }
+  },
+  {
+    "id": "s2neuro-0308",
+    "category": "Intracranial hemorrhage",
+    "q": "Which intraparenchymal bleed, vessel mechanism and posturing clue accompany this actual source scan?",
+    "a": "Intracerebral hemorrhage, with the source emphasizing hypertensive lenticulostriate/Charcot-Bouchard microaneurysm rupture. It associates decorticate/decerebrate posturing with severe hemorrhage/brainstem compression; posturing alone is not specific to ICH.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 38,
+      "url": "/mehlman/hy-neuro.pdf#page=38"
+    },
+    "img": "/mehlman/figures/neuro-p038-01.jpeg",
+    "sourcePages": [
+      38,
+      39
+    ]
+  },
+  {
+    "id": "s2neuro-0309",
+    "category": "Intracranial hemorrhage",
+    "q": "Which dementia-associated vascular disorder and brain tumor does the source link to intracerebral hemorrhage?",
+    "a": "Cerebral amyloid angiopathy associated with recurrent hemorrhagic strokes/Alzheimer disease, and hemorrhage associated with brain tumors such as glioblastoma.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2neuro-0310",
+    "category": "Intracranial hemorrhage",
+    "q": "Which lesion, field defect and postpartum or tumor settings identify source pituitary apoplexy?",
+    "a": "Acute bleeding into the pituitary, potentially producing bitemporal hemianopia. It gives puerperium and pituitary tumors as settings and uses a postpartum field-loss answer-choice example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2neuro-0311",
+    "category": "Intracranial hemorrhage",
+    "q": "Which three findings define the source Cushing reflex?",
+    "a": "Raised intracranial pressure with hypertension, bradycardia and disturbed respiration. Respiratory slowing is classic but the source notes an example without a stated low rate.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2neuro-0312",
+    "category": "Intracranial hemorrhage",
+    "q": "What vascular, autonomic and baroreceptor sequence explains the source Cushing reflex?",
+    "a": "Raised ICP compromises brain perfusion, triggering sympathetic vasoconstriction and higher BP; carotid baroreceptor stretch increases CN IX afferent signaling to the medulla and CN X output to cardiac nodal tissue, slowing heart rate. Brainstem compression disturbs respiration.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2neuro-0313",
+    "category": "Intracranial hemorrhage",
+    "q": "How does the source distinguish trauma-related hypertension from a Cushing ulcer?",
+    "a": "Hypertension after serious head trauma can reflect raised ICP/Cushing reflex. A Cushing ulcer instead refers to stress-related peptic injury after CNS trauma, with increased vagal/gastric-acid activity in the source explanation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2neuro-0314",
+    "category": "Intracranial hemorrhage",
+    "q": "Which eye-opening scores and maximum total are shown in this actual source GCS table?",
+    "a": "Eye opening: spontaneous 4, speech 3, pain 2, none 1. The maximum total GCS is 15 from eye 4 + verbal 5 + motor 6.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    },
+    "img": "/mehlman/figures/neuro-p039-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0315",
+    "category": "Brain injury and examination",
+    "q": "Which verbal and motor scores are given in the source GCS table?",
+    "a": "Verbal: oriented 5, confused 4, inappropriate words 3, incomprehensible sounds 2, none 1. Motor: obeys 6, localizes pain 5, withdraws 4, abnormal flexion/decorticate 3, extension/decerebrate 2, none 1.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2neuro-0316",
+    "category": "Brain injury and examination",
+    "q": "How does the source use posturing and GCS in exam questions rather than arithmetic?",
+    "a": "It says its exam experience rarely requires calculating GCS but expects recognition that decorticate/decerebrate posturing means serious brain dysfunction/possible raised ICP or herniation. That exam observation is not a reason to avoid calculating/documenting GCS when clinically needed.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 39,
+      "url": "/mehlman/hy-neuro.pdf#page=39"
+    },
+    "sourcePages": [
+      39,
+      40
+    ]
+  },
+  {
+    "id": "s2neuro-0317",
+    "category": "Brain injury and examination",
+    "q": "What GCS threshold does the source give for CT before LP?",
+    "a": "It says any GCS other than 15 requires CT before LP. This source threshold is broader than the GCS-below 10 criterion in the separately retrieved WHO 2025 checklist and must not delay urgent meningitis therapy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    },
+    "guideline": {
+      "text": "WHO 2025 advises against routine pre-LP imaging. Selected concerns include GCS below 10, focal or cranial-nerve deficits, papilledema, new adult seizures or severe immune compromise. Treatment must not wait for CT. Isolated new seizures in children without other risk features do not automatically require CT.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/"
+    }
+  },
+  {
+    "id": "s2neuro-0318",
+    "category": "Brain injury and examination",
+    "q": "Which injury, symptoms and duration define source post-concussion syndrome?",
+    "a": "A blow or sudden head movement can produce traumatic brain dysfunction. Persistent cognitive/memory symptoms, headache and light/sound sensitivity may last weeks, months or years.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2neuro-0319",
+    "category": "Brain injury and examination",
+    "q": "Which four external findings and additional ear finding suggest a source basilar skull fracture?",
+    "a": "Battle sign/mastoid bruising, raccoon-eye/bilateral periorbital bruising, CSF otorrhea and CSF rhinorrhea. Hemotympanum is blood behind the tympanic membrane.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2neuro-0320",
+    "category": "Brain herniation",
+    "q": "Which herniation and key findings does label A identify in the actual source diagram?",
+    "a": "Cingulate/subfalcine herniation: the cingulate gyrus shifts beneath the falx and may compress ACA blood flow, affecting contralateral leg motor/sensation; it may otherwise lack a specific symptom.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    },
+    "img": "/mehlman/figures/neuro-p040-01.jpeg",
+    "sourcePages": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "s2neuro-0321",
+    "category": "Brain herniation",
+    "q": "Which herniation and key findings does label B identify in the actual source diagram?",
+    "a": "Transcalvarial herniation: brain tissue protrudes through a skull defect; findings range from none to seizure or focal deficits.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    },
+    "img": "/mehlman/figures/neuro-p040-01.jpeg",
+    "sourcePages": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "s2neuro-0322",
+    "category": "Brain herniation",
+    "q": "Which herniation and key findings does label C identify in the actual source diagram?",
+    "a": "Central transtentorial herniation: downward displacement through the tentorial notch, with reduced consciousness and bilateral motor abnormalities in the source.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    },
+    "img": "/mehlman/figures/neuro-p040-01.jpeg",
+    "sourcePages": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "s2neuro-0323",
+    "category": "Brain herniation",
+    "q": "Which herniation and key findings does label D identify in the actual source diagram?",
+    "a": "Uncal herniation: medial temporal tissue shifts into the tentorial notch, potentially causing ipsilateral CN III compression/mydriasis and contralateral weakness via peduncular compression.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    },
+    "img": "/mehlman/figures/neuro-p040-01.jpeg",
+    "sourcePages": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "s2neuro-0324",
+    "category": "Brain herniation",
+    "q": "Which herniation and key findings does label E identify in the actual source diagram?",
+    "a": "Upward transtentorial herniation: reduced consciousness and pupil changes in the source. The text calls it upward diencephalic movement; this wording needs the separate posterior-fossa comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    },
+    "img": "/mehlman/figures/neuro-p040-01.jpeg",
+    "sourcePages": [
+      40,
+      41
+    ],
+    "guideline": {
+      "text": "Merck Professional describes upward transtentorial herniation from an infratentorial/posterior-fossa mass, with brainstem distortion, posterior-third-ventricle compression and possible superior cerebellar ischemia. The PDF upward-diencephalon phrase should not replace the posterior-fossa mechanism.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/coma-and-impaired-consciousness/brain-herniation"
+    }
+  },
+  {
+    "id": "s2neuro-0325",
+    "category": "Brain herniation",
+    "q": "Which herniation and key findings does label F identify in the actual source diagram?",
+    "a": "Tonsillar herniation: cerebellar tonsils move down through the foramen magnum, compressing the brainstem and threatening respiratory/cardiovascular function; abnormal posturing may occur.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 40,
+      "url": "/mehlman/hy-neuro.pdf#page=40"
+    },
+    "img": "/mehlman/figures/neuro-p040-01.jpeg",
+    "sourcePages": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "s2neuro-0326",
+    "category": "CNS tumors",
+    "q": "Which presenting symptoms and nonspecific enhancement pattern introduce the source CNS-tumor section?",
+    "a": "Seizure and morning vomiting/raised ICP. Ring enhancement can represent tumor/metastasis or abscess as well as toxoplasmosis, so it is not an organism-specific label.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0327",
+    "category": "CNS tumors",
+    "q": "Which pediatric tumor, solid/cystic imaging and histology does the source call common and less aggressive?",
+    "a": "Pilocytic astrocytoma, with solid and cystic components and eosinophilic corkscrew/Rosenthal fibers. The source calls it the commonest pediatric brain tumor; that unqualified ranking is preserved as a source claim.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0328",
+    "category": "CNS tumors",
+    "q": "Which pediatric cerebellar tumor produces midline versus lateral ataxia in the source?",
+    "a": "Medulloblastoma, an aggressive tumor. Vermis involvement produces truncal ataxia, while lateral cerebellar disease produces ipsilateral limb ataxia; its vignette combines morning vomiting with truncal ataxia.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0329",
+    "category": "CNS tumors",
+    "q": "Which childhood sellar-region tumor, embryology, field loss and pathology does the source emphasize?",
+    "a": "Craniopharyngioma: Rathke-pouch/roof-of-primitive-oral-cavity origin, bitemporal field loss, calcification, cholesterol crystals and recurrence. The source calls it a pituitary tumor; it is a sellar/suprasellar-region tumor rather than a pituitary adenoma.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0330",
+    "category": "CNS tumors",
+    "q": "Which embryologic distractor does the source separate from craniopharyngioma?",
+    "a": "Endoderm of the foramen cecum refers to the thyroid-development/thyroglossal-duct context, not the Rathke-pouch answer it wants for craniopharyngioma.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0331",
+    "category": "CNS tumors",
+    "q": "Which pediatric tumor causes vertical-gaze palsy in the source?",
+    "a": "A pineal-region tumor/pinealoma may cause Parinaud syndrome; the label is a location-based source shorthand, not one histologic diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0332",
+    "category": "CNS tumors",
+    "q": "What are the source tubers and imaging descriptions in tuberous sclerosis?",
+    "a": "Hamartomatous lesions, described in the source as cortical or periventricular nodules. The broad source wording should not erase the distinction between cortical tubers and subependymal nodules.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0333",
+    "category": "CNS tumors",
+    "q": "Which aggressive adult tumor crosses the corpus callosum, and what source ranking/classification accompanies it?",
+    "a": "Glioblastoma multiforme/butterfly glioma, heterogeneous from necrosis/hemorrhage. The source calls it the most common adult brain tumor and a grade IV fibrillary astrocytoma; those broad/older labels require qualification.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    },
+    "guideline": {
+      "text": "NCI identifies meningioma as the most common PRIMARY brain tumor overall. The source most-common-adult-brain-tumor statement therefore needs a malignant-versus-all-primary qualifier; metastatic lesions are another separate category.",
+      "url": "https://www.cancer.gov/rare-brain-spine-tumor/tumors/meningioma"
+    }
+  },
+  {
+    "id": "s2neuro-0334",
+    "category": "CNS tumors",
+    "q": "Which meningeal tumor and cranial/spinal locations does the source list?",
+    "a": "Meningioma, described as a benign-appearing tumor sitting on/over brain or spinal cord, sometimes adjacent to the falx. Not all meningiomas are low grade.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0335",
+    "category": "CNS tumors",
+    "q": "Which cell, nerve, site, syndrome and hearing-test pattern define source vestibular schwannoma?",
+    "a": "A Schwann-cell tumor of CN VIII, often at the cerebellopontine angle, with tinnitus/vertigo and sensorineural hearing loss. It can be sporadic or associated with NF2; Rinne retains air above bone conduction and Weber lateralizes away from the affected side.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0336",
+    "category": "CNS tumors",
+    "q": "Which adult pituitary tumor and reproductive effects does the source emphasize?",
+    "a": "Prolactinoma, called the commonest adult pituitary tumor, with amenorrhea in women or erectile dysfunction/impotence in men in its examples.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 41,
+      "url": "/mehlman/hy-neuro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2neuro-0337",
+    "category": "CNS tumors",
+    "q": "What additional symptom, drug and mechanism complete the source prolactinoma entry?",
+    "a": "Galactorrhea can affect anyone. The source treats prolactinoma with bromocriptine, a D2 agonist, because dopamine inhibits prolactin secretion. This is its named treatment, not a comparison of all available dopamine agonists.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Merck Professional lists cabergoline as the preferred dopamine agonist because of efficacy/tolerability in many patients; bromocriptine is an alternative, with pregnancy and individual circumstances affecting selection. The source named agent is not the sole current choice.",
+      "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/pituitary-disorders/prolactinoma"
+    }
+  },
+  {
+    "id": "s2neuro-0338",
+    "category": "CNS tumors",
+    "q": "Which neurocutaneous syndrome does the source associate with optic glioma?",
+    "a": "Neurofibromatosis type 1/NF1.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0339",
+    "category": "CNS tumors",
+    "q": "Which cell and histologic patterns define source oligodendroglioma?",
+    "a": "A tumor of the CNS myelinating oligodendrocyte lineage, with fried-egg-appearing cells and chicken-wire capillaries. The histologic shorthand is not a complete modern molecular diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0340",
+    "category": "CNS tumors",
+    "q": "Which cell and CSF-production statement does the source give for ependymoma?",
+    "a": "A tumor of ependymal cells, which the source describes broadly as producing CSF. This wording does not distinguish ordinary ventricular lining from specialized choroid-plexus epithelium.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0341",
+    "category": "CNS tumors",
+    "q": "Which nerve deficit and localization comparison identify a source foramen-magnum tumor?",
+    "a": "CN XII involvement with ipsilateral tongue deviation; the source contrasts foramen-magnum tumor with medial medullary disease as possible hypoglossal-lesion localizations.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0342",
+    "category": "CNS tumors",
+    "q": "Which brain location and primary cancer examples does the source give for metastases?",
+    "a": "Grey-white-junction lesions; choriocarcinoma and lung cancer are its named primaries.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0343",
+    "category": "Tics and movement disorders",
+    "q": "Which motor and vocal behaviors are source Tourette examples?",
+    "a": "Motor tics include eye blinking, head jerks, shoulder shrugging, hopping, twirling or copying actions. Vocal tics include throat clearing, sniffing, humming, repeated words/phrases or coprolalia; not every patient has every example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0344",
+    "category": "Tics and movement disorders",
+    "q": "Which two medications does the Neuro PDF name for Tourette tics?",
+    "a": "Haloperidol and clozapine are the names actually printed here. This differs from the Psych PDF's haloperidol/clonidine wording and must not be silently treated as the same drug.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    },
+    "guideline": {
+      "text": "AAN 2019 evidence review supports CBIT and several medicines, including haloperidol, risperidone, aripiprazole and clonidine. Clozapine is not a routine supported tic treatment in that review. The Neuro and Psych source texts use different drug names; this comparison does not silently substitute one.",
+      "url": "https://www.aan.com/Guidelines/Home/GetGuidelineContent/964"
+    }
+  },
+  {
+    "id": "s2neuro-0345",
+    "category": "Tics and movement disorders",
+    "q": "What course, follow-up and progression claim does the source give for provisional tics?",
+    "a": "A child may have an isolated tongue/lip tic for up to a year, with observation/follow-up in 3-6 months. Its very-low-chance-of-progression claim is an unverified source prediction, not assured resolution.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0346",
+    "category": "Tics and movement disorders",
+    "q": "Which postinfection vignette and test does the source use for PANDAS?",
+    "a": "New tics, OCD or attention symptoms weeks after group A-strep sore throat, with antistreptolysin-O titers as its etiology answer. A sore throat or ASO result alone does not establish the syndrome.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    },
+    "guideline": {
+      "text": "NIMH says no laboratory test confirms PANS/PANDAS. Evidence of preceding strep infection is one part of a thorough clinical evaluation; an elevated ASO titer alone does not diagnose the syndrome.",
+      "url": "https://www.nimh.nih.gov/health/publications/pandas"
+    }
+  },
+  {
+    "id": "s2neuro-0347",
+    "category": "Tics and movement disorders",
+    "q": "Which exposures and classification claim appear in the source drug-induced-tic entry?",
+    "a": "Methylphenidate, amphetamines and caffeine are listed as potential triggers. The source also calls antipsychotic-related tardive dyskinesia a tic disorder; these movement labels should not be treated as interchangeable.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2neuro-0348",
+    "category": "Seizures and epilepsy",
+    "q": "What awareness and older names does the source give for focal aware seizures?",
+    "a": "FOAS/focal-onset aware seizure, formerly simple/simple-partial, with preserved awareness and focal onset. The source terminology reflects an earlier classification.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    },
+    "guideline": {
+      "text": "ILAE 2025 retains focal/generalized/unknown/unclassified seizure classes, but consciousness replaces awareness as a classifier, assessed through awareness and responsiveness. Absence is not made focal merely by impaired consciousness or staring. Historical PDF terms are retained for source fidelity.",
+      "url": "https://www.ilae.org/guidelines/definition-and-classification/updated-classification-of-epileptic-seizures-2025"
+    }
+  },
+  {
+    "id": "s2neuro-0349",
+    "category": "Seizures and epilepsy",
+    "q": "What awareness and older names does the source give for focal impaired-awareness seizures?",
+    "a": "FOIAS/focal-onset impaired-awareness seizure, formerly complex/complex-partial, with impaired consciousness. It also groups absence-like staring here; staring itself does not establish focal onset, and true absence seizures are generalized.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    },
+    "guideline": {
+      "text": "ILAE 2025 retains focal/generalized/unknown/unclassified seizure classes, but consciousness replaces awareness as a classifier, assessed through awareness and responsiveness. Absence is not made focal merely by impaired consciousness or staring. Historical PDF terms are retained for source fidelity.",
+      "url": "https://www.ilae.org/guidelines/definition-and-classification/updated-classification-of-epileptic-seizures-2025"
+    }
+  },
+  {
+    "id": "s2neuro-0350",
+    "category": "Seizures and epilepsy",
+    "q": "How does the source contrast partial with generalized-onset seizures?",
+    "a": "Partial means focal involvement, subdivided by preserved versus impaired awareness in its older labels. Generalized-onset involves bilateral networks; the source calls it the replacement term for generalized.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    },
+    "guideline": {
+      "text": "ILAE 2025 retains focal/generalized/unknown/unclassified seizure classes, but consciousness replaces awareness as a classifier, assessed through awareness and responsiveness. Absence is not made focal merely by impaired consciousness or staring. Historical PDF terms are retained for source fidelity.",
+      "url": "https://www.ilae.org/guidelines/definition-and-classification/updated-classification-of-epileptic-seizures-2025"
+    }
+  },
+  {
+    "id": "s2neuro-0351",
+    "category": "Seizures and epilepsy",
+    "q": "Which tonic, clonic and postictal phases characterize the source tonic-clonic seizure?",
+    "a": "Tonic stiffening with falling/unconsciousness, then rhythmic limb jerks, followed by confusion/drowsiness/amnesia. The source labels grand mal as generalized, although focal seizures can also evolve to bilateral tonic-clonic activity.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 42,
+      "url": "/mehlman/hy-neuro.pdf#page=42"
+    },
+    "sourcePages": [
+      42,
+      43
+    ]
+  },
+  {
+    "id": "s2neuro-0352",
+    "category": "Seizures and epilepsy",
+    "q": "What tongue-biting shortcut does the source use to distinguish a seizure from a mimic?",
+    "a": "Tongue laceration supports its seizure vignette; it says explicitly normal tongue means no seizure. That absence-based exclusion is too strong and must not be used as a clinical rule.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    },
+    "guideline": {
+      "text": "The AAFP clinical review notes that most people with seizures do not have tongue injury. Lateral tongue injury can support a tonic-clonic seizure, but absence of injury does not exclude it. This retrieved review is 2004 evidence, not a new guideline.",
+      "url": "https://www.aafp.org/afp/2004/1101/p1757"
+    }
+  },
+  {
+    "id": "s2neuro-0353",
+    "category": "Seizures and epilepsy",
+    "q": "Which recurrent-seizure drugs does the source list without specifying seizure-type selection?",
+    "a": "Valproic acid, carbamazepine and phenytoin. Their presence in a general list is not evidence they are interchangeable for every epilepsy syndrome.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2neuro-0354",
+    "category": "Seizures and epilepsy",
+    "q": "How does one-arm twitching before a tonic-clonic event change source seizure classification?",
+    "a": "It indicates focal origin before bilateral spread. The source answer is complex partial/focal impaired-awareness seizure with secondary generalization rather than a generalized-onset event.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2neuro-0355",
+    "category": "Seizures and epilepsy",
+    "q": "What new-versus-old duration definition does the source give for status epilepticus?",
+    "a": "It says over 5 minutes or 2 seizures within 5 minutes, replacing an older 30-minute rule. Its repeat-seizure wording does not explicitly say whether consciousness recovers between events.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    },
+    "guideline": {
+      "text": "AES 2016 begins the initial treatment phase at five minutes of convulsive activity, after immediate stabilization. Do not wait beyond five minutes because the source says more than five; evaluate ongoing activity, recovery and the full clinical setting.",
+      "url": "https://aesnet.org/clinical-care/clinical-guidance/guideline-prolonged-seizures"
+    }
+  },
+  {
+    "id": "s2neuro-0356",
+    "category": "Seizures and epilepsy",
+    "q": "What treatment ladder does the source give for convulsive status epilepticus?",
+    "a": "Benzodiazepine such as IV lorazepam, then phenytoin/fosphenytoin if ongoing, then a barbiturate such as phenobarbital. This is the source ladder, not the only supported second-line sequence.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    },
+    "guideline": {
+      "text": "AES 2016 recommends a benzodiazepine in the initial treatment phase, with fosphenytoin, valproate or levetiracetam as reasonable second-phase options. Phenobarbital is an alternative when those are unavailable, and refractory status may require anesthetic therapy with continuous EEG. The PDF sequence is not the only supported ladder.",
+      "url": "https://aesnet.org/clinical-care/clinical-guidance/guideline-prolonged-seizures"
+    }
+  },
+  {
+    "id": "s2neuro-0357",
+    "category": "Seizures and epilepsy",
+    "q": "Which duration, awareness and EEG distinction define source myoclonic seizures?",
+    "a": "Very brief muscle jerks, sometimes in clusters, usually without loss of awareness in its description. A generalized EEG pattern distinguishes its example from a focal aware seizure.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2neuro-0358",
+    "category": "Seizures and epilepsy",
+    "q": "What age range, frequency and later-epilepsy estimate does the source give for febrile seizures?",
+    "a": "Fever-triggered seizures in 6-month- to 5-year-olds, affecting 2-4% in its estimate, with about twice the general-population epilepsy risk. Those broad source figures are not an individualized prognosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2neuro-0359",
+    "category": "Seizures and epilepsy",
+    "q": "What treatment and higher-risk features does the source give for febrile seizures?",
+    "a": "It says benzodiazepine treatment and higher later-epilepsy risk with duration over 10 minutes, recurrence within 24 hours or focal signs. Its duration cutoff and blanket drug statement need the separate comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    },
+    "guideline": {
+      "text": "The 2024 febrile-seizure review states most events stop on their own. Rescue benzodiazepines are used for ongoing prolonged seizures, typically at 5 minutes, not automatically after every resolved simple event. The usual simple/complex duration boundary remains 15 minutes, with focality or recurrence within 24 hours also defining complexity.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11089695/"
+    }
+  },
+  {
+    "id": "s2neuro-0360",
+    "category": "Seizures and epilepsy",
+    "q": "Which school presentation, awareness, EEG and drug define source absence seizures?",
+    "a": "A child briefly staring/spacing out with possible rapid blinking and impaired awareness; symmetric 3-Hz spike-wave EEG. Ethosuximide, a thalamic T-type calcium-channel blocker, is its named drug.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2neuro-0361",
+    "category": "Seizures and epilepsy",
+    "q": "Which origin, auras and seizure pattern define source temporal-lobe epilepsy?",
+    "a": "Medial temporal origin, with gustatory/olfactory sensations or deja vu and focal impaired-awareness events with or without bilateral spread. The source calls it commonest and defaults to temporal origin without another localizing sign; those are source exam priorities, not localization from absent data.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2neuro-0362",
+    "category": "Seizures and epilepsy",
+    "q": "Which infant syndrome, EEG, development and inherited claim does the source give for West syndrome?",
+    "a": "Infantile spasms with chaotic hypsarrhythmia and risk of intellectual/developmental impairment. The source labels it X-linked recessive, which is not a universal inheritance pattern for this syndrome.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    },
+    "guideline": {
+      "text": "NINDS describes infantile spasms from many underlying conditions, including structural injury, metabolic disorders and genetic disorders, or unknown cause. West/infantile-spasms syndrome is not universally X-linked recessive.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2neuro-0363",
+    "category": "Seizures and epilepsy",
+    "q": "Which treatment and rationale does the source give for infantile spasms?",
+    "a": "ACTH, described as increasing endogenous cortisol to reduce progression. This is its treatment example, not the only supported initial therapy or a reason to delay urgent specialist care.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    },
+    "guideline": {
+      "text": "NINDS lists hormone treatment such as ACTH or prednisolone, or vigabatrin, as first-line approaches. Choice depends on the child and cause, and these treatments have important risks requiring pediatric-neurology care.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/infantile-spasms"
+    }
+  },
+  {
+    "id": "s2neuro-0364",
+    "category": "Seizures and epilepsy",
+    "q": "Which age, seizure burden, regression clue and outlook define source Lennox-Gastaut syndrome?",
+    "a": "Severe childhood-onset epilepsy with near-daily seizures, cognitive decline and poor prognosis. Hyperorality/mouthing objects is its regression clue, not a syndrome-specific diagnostic test.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2neuro-0365",
+    "category": "Seizures and epilepsy",
+    "q": "Which onset age, progression, sleep timing and drug define source juvenile myoclonic epilepsy?",
+    "a": "Usually 10-16 years, with brief jerks around sleep/waking and later tonic-clonic seizures in its example. The source names valproic acid; reproductive safety and individual epilepsy features affect treatment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 43,
+      "url": "/mehlman/hy-neuro.pdf#page=43"
+    },
+    "sourcePages": [
+      43,
+      44
+    ]
+  },
+  {
+    "id": "s2neuro-0366",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "Which arrhythmia and EEG pattern define the source Adams-Stokes attack?",
+    "a": "A transient arrhythmia-related reduction in brain perfusion can cause fainting with seizure-like movements and no ictal EEG activity. The PDF frames it as idiopathic arrhythmia in children, not the full age/etiology range.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2neuro-0367",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "Which trigger and sequence identify source cyanotic breath-holding spells?",
+    "a": "A young child becomes upset, frightened or hurt, cries/exhales, stops breathing and turns blue; brief unconsciousness/jerks may follow. Its example is a three-year-old after a tantrum.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2neuro-0368",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "How does the source explain jerking during syncope in older adults?",
+    "a": "Cerebral hypoperfusion can cause twitching during fainting, for example in a patient with cardiac disease. It mentions aortic stenosis/atrial fibrillation and absent tongue injury in a vignette; absent tongue injury alone cannot exclude epilepsy.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    },
+    "guideline": {
+      "text": "The AAFP clinical review notes that most people with seizures do not have tongue injury. Lateral tongue injury can support a tonic-clonic seizure, but absence of injury does not exclude it. This retrieved review is 2004 evidence, not a new guideline.",
+      "url": "https://www.aafp.org/afp/2004/1101/p1757"
+    }
+  },
+  {
+    "id": "s2neuro-0369",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "Which anterior-horn disorder and infant findings define source spinal muscular atrophy?",
+    "a": "Werdnig-Hoffmann/spinal muscular atrophy, with profound hypotonia, absent reflexes and tongue fasciculations due to motor-neuron dysfunction.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2neuro-0370",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "What motor example, cognitive claim and causal shorthand does the source give for cerebral palsy?",
+    "a": "Childhood spastic paraparesis with scissoring legs. The source broadly links motor/cognitive impairment to intrapartum hypoxia; that is not every CP phenotype or cause.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    },
+    "guideline": {
+      "text": "CDC lists multiple congenital and acquired CP risk factors, including prematurity, infection, stroke and some birth complications. Intrapartum oxygen disruption can cause CP but is not its universal explanation; the source scissoring example is one motor pattern.",
+      "url": "https://www.cdc.gov/cerebral-palsy/risk-factors/index.html"
+    }
+  },
+  {
+    "id": "s2neuro-0371",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "Which displacement, age and symptoms distinguish source Chiari I?",
+    "a": "Cerebellar tonsils displaced through the foramen magnum, often recognized in teens/young adults with headache/neck pain or incidentally without symptoms.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2neuro-0372",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "Which displacement, associated lesion and symptoms distinguish source Chiari II?",
+    "a": "Arnold-Chiari malformation, with hindbrain/cerebellar-brainstem displacement through the foramen magnum, often associated with myelomeningocele; its child example has dysphagia and motor dysfunction.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2neuro-0373",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "Which vermis and fourth-ventricle findings define source Dandy-Walker malformation?",
+    "a": "Absent or underdeveloped cerebellar vermis with cystic enlargement of the fourth ventricle in the source shorthand.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2neuro-0374",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "Which facial and organ features and epidemiologic rank does the source give for fetal alcohol syndrome?",
+    "a": "Thin upper lip, smooth/flat/long philtrum, midface hypoplasia, short nose and widely spaced eyes; heart/lung defects are also listed. It calls FAS the most common cause of intellectual disability, an unqualified source rank not independently verified here.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2neuro-0375",
+    "category": "Seizure mimics and pediatric neurology",
+    "q": "How does the source use a philtrum finding to choose FAS over Down syndrome?",
+    "a": "It gives a Down-like vignette with older maternal age, palpebral/slant and single-palmar-crease clues but says any philtrum detail should determine FAS. That one-feature shortcut is not a diagnostic standard and does not establish prenatal alcohol exposure.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 44,
+      "url": "/mehlman/hy-neuro.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Hoyme and colleagues 2016 diagnostic consensus requires a defined combination of facial findings and growth, brain and neurobehavioral criteria for FAS, not any philtrum change alone. Its partial-FAS pathways also require additional criteria. The article explicitly says it is not necessarily AAP policy. A facial feature by itself does not establish prenatal exposure or justify attributing alcohol use to a parent.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960726/"
+    }
+  },
+  {
+    "id": "s2neuro-0376",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which inheritance, enzyme/cofactor and blocked reaction define source phenylketonuria?",
+    "a": "Autosomal-recessive phenylalanine-hydroxylase deficiency, or rarely its tetrahydrobiopterin cofactor deficiency, preventing normal phenylalanine-to-tyrosine conversion.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0377",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which newborn test, dietary treatment and untreated consequences does the source give for PKU?",
+    "a": "Newborn heel-prick screening, then a phenylalanine-restricted diet. Untreated high phenylalanine can cause intellectual/developmental impairment; the source says deficient diet, not permission to eliminate an essential amino acid entirely.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0378",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which odor, pigmentation and biochemical link suggest source PKU?",
+    "a": "Musty/mousy body odor and relatively lighter skin than siblings; impaired tyrosine supply limits normal melanin production in its explanation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0379",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which enzyme, amino acids, inheritance and urine clue define source maple-syrup urine disease?",
+    "a": "Autosomal-recessive branched-chain ketoacid-dehydrogenase deficiency impairing leucine/isoleucine/valine breakdown; sweet/maple-syrup urine and neurologic/developmental problems if untreated.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0380",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which worldwide versus Western causes does the source give for congenital hypothyroidism?",
+    "a": "Maternal iodine deficiency worldwide and thyroid dysgenesis in Western countries in its rank shorthand. It uses the historical term cretinism; newborn screening aims to prevent neurodevelopmental injury.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0381",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which growth, tone, tongue and abdominal findings suggest source congenital hypothyroidism?",
+    "a": "Impaired bone growth, hypotonia, macroglossia and a protuberant abdomen/umbilical hernia, with impaired myelination/development if untreated. Its differential contrasts the hernia with protein-calorie malnutrition/kwashiorkor-associated edema or ascites.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0382",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which hearing, pigmentation and embryologic clues identify source Waardenburg syndrome?",
+    "a": "Congenital sensorineural hearing loss with pigment changes, such as a white forelock; abnormal neural-crest development/migration is the source mechanism.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0383",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "What migration failure and imaging anatomy define source double-cortex syndrome?",
+    "a": "Failed radial neuronal migration creates a band of grey matter beneath the normal cortex, producing the source two-grey-matter-layers appearance.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0384",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which regression behaviors and sex claim define source Rett syndrome?",
+    "a": "Hand wringing/flapping, loss of prior function and mouthing objects as a regression clue. The source says exclusively female infants, which is too absolute.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    },
+    "guideline": {
+      "text": "NINDS says Rett syndrome most commonly affects girls but boys are rarely affected. The source exclusively-female rule is therefore incorrect.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/rett-syndrome"
+    }
+  },
+  {
+    "id": "s2neuro-0385",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which deletion, cry, head size and development define source cri-du-chat syndrome?",
+    "a": "Deletion of chromosome 5 short arm, with a cat-like infant cry, microcephaly, characteristic facial findings and intellectual/developmental impairment.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0386",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which repeat/inheritance and systemic cluster does the source repeat for Friedreich ataxia?",
+    "a": "Autosomal-recessive GAA-repeat disease with ataxia, kyphoscoliosis, cardiomyopathy, high arches/hammer toes and diabetes described by the source as early type II. It repeats the earlier cluster rather than establishing a universal diabetes subtype.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    },
+    "guideline": {
+      "text": "Friedreich-ataxia diabetes reflects both insulin resistance and beta-cell dysfunction. Its clinical-management guideline recommends individualized treatment and does not reduce all affected people to a single early type 2-diabetes profile.",
+      "url": "https://frdaguidelines.org/10-1/"
+    }
+  },
+  {
+    "id": "s2neuro-0387",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which phenotype and parent-of-origin loss explain source Angelman syndrome?",
+    "a": "A happy/laughing demeanor with developmental impairment in its shorthand. The paternal allele is normally silenced in relevant brain expression; loss/mutation of the normally active maternal contribution or paternal uniparental disomy can cause disease.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0388",
+    "category": "Pediatric genetic and metabolic disorders",
+    "q": "Which phenotype and parent-of-origin loss explain source Prader-Willi syndrome?",
+    "a": "Hyperphagia and intellectual/developmental problems in its shorthand. Loss of normally active paternally expressed genes or maternal uniparental disomy can produce disease; the corresponding maternal contribution is normally silenced.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 45,
+      "url": "/mehlman/hy-neuro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2neuro-0389",
+    "category": "Neurocutaneous disorders",
+    "q": "Which inheritance, gene/chromosome and skin/iris findings define source NF1?",
+    "a": "Autosomal dominant, NF1 on chromosome 17, with neurofibromas, cafe-au-lait macules, axillary/groin freckles and iris Lisch nodules/hamartomas.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0390",
+    "category": "Neurocutaneous disorders",
+    "q": "Which endocrine and CNS tumors does the source list with NF1?",
+    "a": "Pheochromocytoma and optic glioma, plus oligodendroglioma/ependymoma in its list. This is the source association list, not a claim that each listed tumor is equally characteristic.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0391",
+    "category": "Neurocutaneous disorders",
+    "q": "Which inheritance, chromosome, hearing tumors and childhood eye finding define source NF2?",
+    "a": "Autosomal-dominant NF2/chromosome 22, bilateral vestibular/acoustic schwannomas and meningiomas, sometimes cataracts in childhood.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0392",
+    "category": "Neurocutaneous disorders",
+    "q": "Which genes, inheritance, cerebral and seizure findings define source tuberous sclerosis?",
+    "a": "Autosomal-dominant TSC1/TSC2 disease, seizures and cerebral lesions it broadly calls periventricular nodules/tubers. Cortical tubers and subependymal nodules are distinct lesion terms.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0393",
+    "category": "Neurocutaneous disorders",
+    "q": "Which skin, kidney and cardiac findings does the source list for tuberous sclerosis?",
+    "a": "Facial angiofibromas/adenoma sebaceum, peri/subungual fibromas, hypomelanotic ash-leaf spots, shagreen patches, renal angiomyolipoma and cardiac rhabdomyoma. It calls shagreen patches hyperpigmented/velvety; their connective-tissue morphology is more specific than that adjective.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0394",
+    "category": "Neurocutaneous disorders",
+    "q": "Which inheritance, chromosome, lesions and oxygen-sensing mechanism define source VHL?",
+    "a": "Autosomal-dominant chromosome 3 VHL disease, cerebellar/retinal hemangioblastomas, bilateral renal-cell carcinoma and pancreatic cysts; loss of normal VHL function permits constitutive hypoxia-inducible-factor activity.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0395",
+    "category": "Neurocutaneous disorders",
+    "q": "Which genetic pattern, skin, meningeal and eye findings define source Sturge-Weber syndrome?",
+    "a": "Somatic-mosaic GNAQ change rather than inherited disease, a facial port-wine birthmark/nevus flammeus, leptomeningeal vascular malformation with seizures and glaucoma. The source also describes temporal-distribution violaceous papules.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0396",
+    "category": "Lysosomal storage disorders",
+    "q": "What inheritance pattern and universal-neurologic statement introduce the source storage-disease table?",
+    "a": "Autosomal recessive except Fabry and Hunter as X-linked. It says all have cognitive/neurologic deficits; that universal claim is too broad, particularly for nonneuronopathic Gaucher disease.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    },
+    "guideline": {
+      "text": "NINDS describes type 1 Gaucher disease as nonneuronopathic and usually not affecting the brain, while types 2/3 have different neurologic involvement. A universal all-storage-diseases cause cognitive deficits rule is not accurate.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/lipid-storage-diseases"
+    }
+  },
+  {
+    "id": "s2neuro-0397",
+    "category": "Lysosomal storage disorders",
+    "q": "Which enzyme, targeting signal and trafficking error define source I-cell disease?",
+    "a": "N-acetylglucosamine-1-phosphotransferase deficiency prevents Golgi mannose-6-phosphate tagging of lysosomal hydrolases. The source says enzymes are secreted into cytosol plus serum; extracellular misdirection rather than the cytosol claim is the appropriate comparison.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics describes absent M6P targeting in mucolipidosis II alpha/beta, causing hydrolases to end up OUTSIDE cells rather than reaching lysosomes. The PDF cytosol-plus-serum wording confuses the secreted extracellular destination.",
+      "url": "https://medlineplus.gov/genetics/condition/mucolipidosis-ii-alpha-beta/"
+    }
+  },
+  {
+    "id": "s2neuro-0398",
+    "category": "Lysosomal storage disorders",
+    "q": "Which clinical features does the source list for I-cell disease?",
+    "a": "Coarse facial features, joint contractures, hepatomegaly and recurrent ear infections, from failure of normal lysosomal enzyme targeting.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0399",
+    "category": "Lysosomal storage disorders",
+    "q": "Which enzyme, stored lipid, bone and macrophage clues define source Gaucher disease?",
+    "a": "Glucocerebrosidase deficiency with glucocerebroside accumulation, bone disease including hip avascular necrosis, and lipid-laden crumpled-tissue-paper macrophages. Its storage-disease-plus-bone-problem answer is a source recognition shortcut.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0400",
+    "category": "Lysosomal storage disorders",
+    "q": "Which enzyme, substrate, eye and organ-size findings distinguish source Tay-Sachs?",
+    "a": "Hexosaminidase A deficiency, GM2-ganglioside accumulation, neurodegeneration and a cherry-red macula without hepatosplenomegaly in its classic presentation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0401",
+    "category": "Lysosomal storage disorders",
+    "q": "Which enzyme, substrate, eye and organ-size findings distinguish source Niemann-Pick?",
+    "a": "Sphingomyelinase deficiency/sphingomyelin buildup, neurodegeneration, cherry-red macula and hepatosplenomegaly in its classic shorthand. This refers to acid-sphingomyelinase-deficiency forms, not every Niemann-Pick subtype.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0402",
+    "category": "Lysosomal storage disorders",
+    "q": "Which enzyme, substrate and course define source metachromatic leukodystrophy?",
+    "a": "Arylsulfatase A deficiency with cerebroside-sulfate/sulfatide buildup and progressive neurologic decline.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0403",
+    "category": "Lysosomal storage disorders",
+    "q": "Which enzyme, substrates, alternate name and cells define source Krabbe disease?",
+    "a": "Galactocerebrosidase deficiency with galactocerebroside/psychosine buildup, neurodegeneration and giant multinucleated globoid cells; globoid-cell leukodystrophy is its alternate name.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2neuro-0404",
+    "category": "Lysosomal storage disorders",
+    "q": "Which inheritance, enzyme, stored lipid, skin and organ complications define source Fabry disease?",
+    "a": "X-linked alpha-galactosidase A deficiency, ceramide-trihexoside accumulation and angiokeratomas/small red-purple skin lesions, with cardiac and renal problems.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 46,
+      "url": "/mehlman/hy-neuro.pdf#page=46"
+    },
+    "sourcePages": [
+      46,
+      47
+    ]
+  },
+  {
+    "id": "s2neuro-0405",
+    "category": "Lysosomal storage disorders",
+    "q": "Which inheritance, enzyme, substrate and corneal finding define source Hunter syndrome?",
+    "a": "X-linked iduronate-sulfatase deficiency with dermatan/heparan-sulfate glycosaminoglycan buildup. Coarse facial features, stridor and behavioral problems with no corneal clouding in its classic distinction.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2neuro-0406",
+    "category": "Lysosomal storage disorders",
+    "q": "Which enzyme, substrate, inheritance and corneal finding distinguish source Hurler syndrome?",
+    "a": "Autosomal-recessive alpha-L-iduronidase deficiency with dermatan/heparan-sulfate buildup, coarse facial features, stridor and clouded corneas. It calls Hurler a more severe form of Hunter; these are different enzyme disorders, not the same disease at two severities.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    },
+    "guideline": {
+      "text": "MedlinePlus distinguishes MPSI/Hurler-spectrum disease due to IDUA/alpha-L-iduronidase deficiency from MPSII/Hunter due to IDS/iduronate-2-sulfatase deficiency. They are separate enzyme disorders with overlapping clinical features, not two severities of one disease.",
+      "url": "https://medlineplus.gov/genetics/condition/mucopolysaccharidosis-type-i/"
+    }
+  },
+  {
+    "id": "s2neuro-0407",
+    "category": "Cranial nerve examination",
+    "q": "Which ocular motor nerve is impaired in panel A of the actual source diagram?",
+    "a": "CN III/oculomotor palsy, with the eye down and out. It can be isolated or occur in Weber syndrome in the source.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    },
+    "img": "/mehlman/figures/neuro-p047-01.png"
+  },
+  {
+    "id": "s2neuro-0408",
+    "category": "Cranial nerve examination",
+    "q": "Which ocular motor nerve is impaired in panel B of the actual source diagram?",
+    "a": "CN IV/trochlear palsy, with an elevated affected eye and compensatory head tilt toward the unaffected side in the source.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    },
+    "img": "/mehlman/figures/neuro-p047-01.png"
+  },
+  {
+    "id": "s2neuro-0409",
+    "category": "Cranial nerve examination",
+    "q": "Which ocular motor nerve is impaired in panel C of the actual source diagram?",
+    "a": "CN VI/abducens palsy, with a medially deviated eye/impaired abduction; cavernous-sinus thrombosis is its association.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    },
+    "img": "/mehlman/figures/neuro-p047-01.png"
+  },
+  {
+    "id": "s2neuro-0410",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit, thalamic distinction and taste caveat does the source give for CN I?",
+    "a": "Olfactory fibers pass through the cribriform plate, with no initial obligatory thalamic relay. Smell loss can impair perceived flavor; the source assumes olfactory damage over CN VII damage without Bell palsy, but absence of Bell palsy does not exclude every taste-pathway lesion.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2neuro-0411",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit and pupillary-reflex limb belong to source CN II?",
+    "a": "Optic canal; the afferent limb of the light reflex.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2neuro-0412",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit and parasympathetic light-reflex limb belong to source CN III?",
+    "a": "Superior orbital fissure; the efferent parasympathetic pathway constricts the pupil.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2neuro-0413",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit and oblique muscle belong to source CN IV?",
+    "a": "Superior orbital fissure; superior oblique, which depresses the adducted eye in the source inferomedial-movement shorthand.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2neuro-0414",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exits, corneal-reflex limb and motor function distinguish source trigeminal branches?",
+    "a": "V1: superior orbital fissure and corneal-reflex afferent. V2: foramen rotundum. V3: foramen ovale and muscles of mastication. The source exit mnemonic is Standing Room Only.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 47,
+      "url": "/mehlman/hy-neuro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2neuro-0415",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit and eye movement belong to source CN VI?",
+    "a": "Superior orbital fissure; lateral eye movement/abduction.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0416",
+    "category": "Cranial nerve anatomy",
+    "q": "Which intracranial passage, corneal-reflex limb and facial weakness patterns belong to source CN VII?",
+    "a": "The source lists auditory canal, referring to the internal acoustic canal; the external facial exit is not specified there. CN VII supplies the corneal-reflex efferent limb. LMN lesions weaken the ipsilateral whole face; supranuclear lesions usually weaken the contralateral lower face with forehead sparing.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0417",
+    "category": "Cranial nerve anatomy",
+    "q": "Which passage and tumor association belong to source CN VIII?",
+    "a": "Internal acoustic/auditory canal and vestibular/acoustic schwannoma.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0418",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit, gag-reflex limb and carotid function belong to source CN IX?",
+    "a": "Jugular foramen, gag-reflex afferent and carotid-sinus baroreceptor afferents.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0419",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit, gag-reflex limb, heart-rate effect and uvula direction belong to source CN X?",
+    "a": "Jugular foramen, gag-reflex efferent, parasympathetic heart-rate slowing, and uvula deviation away from a weak side/contralateral to a unilateral vagal lesion.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0420",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit and muscles belong to source CN XI?",
+    "a": "Jugular foramen; sternocleidomastoid and trapezius.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0421",
+    "category": "Cranial nerve anatomy",
+    "q": "Which exit, tongue direction and lesion examples belong to source CN XII?",
+    "a": "Hypoglossal canal; an LMN lesion produces ipsilateral tongue deviation. The source names medial medullary disease and a foramen-magnum tumor.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0422",
+    "category": "Cranial nerve anatomy",
+    "q": "How is the source Rinne test performed and interpreted?",
+    "a": "Compare mastoid bone-conduction hearing with air-conduction hearing beside the ear canal. Air exceeds bone in normal hearing and typical sensorineural loss; bone exceeding air suggests conductive loss.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0423",
+    "category": "Cranial nerve anatomy",
+    "q": "How is the source Weber test performed and interpreted?",
+    "a": "Place a vibrating tuning fork at the midline forehead/vertex. It is normally centered; with unilateral conductive loss it lateralizes to the affected ear, while unilateral sensorineural loss lateralizes to the better ear.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0424",
+    "category": "Cranial nerve anatomy",
+    "q": "Which Rinne/Weber combination identifies source left versus right conductive loss?",
+    "a": "Conductive left: affected-ear bone greater than air, Weber left. Conductive right: affected-ear bone greater than air, Weber right.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0425",
+    "category": "Cranial nerve anatomy",
+    "q": "Which Rinne/Weber combination identifies source left versus right sensorineural loss?",
+    "a": "Sensorineural left: air greater than bone, Weber right. Sensorineural right: air greater than bone, Weber left; interpret within the limits of bedside tuning-fork tests.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 48,
+      "url": "/mehlman/hy-neuro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2neuro-0426",
+    "category": "Visual pathways",
+    "q": "Which field defect and lesion does marker A identify in the actual source visual-pathway map?",
+    "a": "Central scotoma of the right eye from its focal retinal/optic-pathway example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 49,
+      "url": "/mehlman/hy-neuro.pdf#page=49"
+    },
+    "img": "/mehlman/figures/neuro-p049-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0427",
+    "category": "Visual pathways",
+    "q": "Which field defect and lesion does marker B identify in the actual source visual-pathway map?",
+    "a": "Right monocular vision loss from a right optic-nerve lesion.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 49,
+      "url": "/mehlman/hy-neuro.pdf#page=49"
+    },
+    "img": "/mehlman/figures/neuro-p049-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0428",
+    "category": "Visual pathways",
+    "q": "Which field defect and lesion does marker C identify in the actual source visual-pathway map?",
+    "a": "Bitemporal hemianopia from a lesion at the optic chiasm affecting crossing nasal-retinal fibers.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 49,
+      "url": "/mehlman/hy-neuro.pdf#page=49"
+    },
+    "img": "/mehlman/figures/neuro-p049-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0429",
+    "category": "Visual pathways",
+    "q": "Which field defect and lesion does marker D, G and H identify in the actual source visual-pathway map?",
+    "a": "Contralateral homonymous hemianopia from a retrochiasmal tract/radiation/occipital-pathway lesion, as labeled.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 49,
+      "url": "/mehlman/hy-neuro.pdf#page=49"
+    },
+    "img": "/mehlman/figures/neuro-p049-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0430",
+    "category": "Visual pathways",
+    "q": "Which field defect and lesion does marker E and J identify in the actual source visual-pathway map?",
+    "a": "Contralateral superior quadrantanopia from temporal-lobe/Meyer-loop or lower calcarine-bank pathways.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 49,
+      "url": "/mehlman/hy-neuro.pdf#page=49"
+    },
+    "img": "/mehlman/figures/neuro-p049-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0431",
+    "category": "Visual pathways",
+    "q": "Which field defect and lesion does marker F and I identify in the actual source visual-pathway map?",
+    "a": "Contralateral inferior quadrantanopia from parietal/superior radiations or upper calcarine-bank pathways.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 49,
+      "url": "/mehlman/hy-neuro.pdf#page=49"
+    },
+    "img": "/mehlman/figures/neuro-p049-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0432",
+    "category": "Visual pathways",
+    "q": "Which field defect and lesion does marker K identify in the actual source visual-pathway map?",
+    "a": "Contralateral homonymous hemianopia with macular sparing in the source PCA/occipital example.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 49,
+      "url": "/mehlman/hy-neuro.pdf#page=49"
+    },
+    "img": "/mehlman/figures/neuro-p049-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0433",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "Which ganglionic and target receptors does the actual source diagram assign to parasympathetic pathways?",
+    "a": "Preganglionic acetylcholine activates nicotinic ganglion receptors; postganglionic acetylcholine acts on muscarinic receptors in target organs such as GI tract, bladder detrusor and cardiac tissue.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
+    },
+    "img": "/mehlman/figures/neuro-p050-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0434",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "Which sympathetic exception and somatic junction does the actual source diagram contrast?",
+    "a": "Sympathetic sweat glands receive postganglionic acetylcholine at muscarinic receptors, while somatic skeletal-muscle junctions use acetylcholine at nicotinic receptors. Most other sympathetic target pathways are illustrated as adrenergic.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
+    },
+    "img": "/mehlman/figures/neuro-p050-01.jpeg"
+  },
+  {
+    "id": "s2neuro-0435",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "Which ligand and receptor mechanisms define source cholinergic signaling?",
+    "a": "Acetylcholine binds muscarinic G-protein-coupled receptors or nicotinic ligand-gated cation channels. The source highlights inward sodium/calcium flux with nicotinic activation.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2neuro-0436",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "How does the source qualify its use of cholinergic versus muscarinic language?",
+    "a": "It says the terms are used interchangeably in most exam questions and gives 19-of-20 as an anecdotal frequency. That is an unverified exam observation, not a biological identity between all cholinergic and muscarinic actions.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2neuro-0437",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "What cholinergic signs does the source DUMBBELSS mnemonic encode?",
+    "a": "Diarrhea, urination, miosis, bradycardia, bronchoconstriction, neuromuscular excitation, lacrimation, salivation and sweating. Skeletal-muscle excitation is nicotinic rather than muscarinic.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2neuro-0438",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "Which opposite mnemonic effects and disputed respiratory claim does the source give for anticholinergics?",
+    "a": "Constipation, retention, mydriasis, tachycardia, dry eyes/mouth and anhidrosis. Its anti-DUMBBELSS list includes bronchodilation and muscle relaxation, while a parenthesis denies muscarinic-antagonist bronchodilation. That respiratory denial is contradicted by inhaled antimuscarinic treatment; skeletal-muscle blockade is a separate nicotinic action.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
+    },
+    "guideline": {
+      "text": "DailyMed ipratropium labeling calls it an anticholinergic bronchodilator indicated for COPD bronchospasm. Muscarinic antagonism can produce clinically useful bronchodilation; the source parenthesis is incorrect.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e3d4faa-cf6e-460b-b1e0-fcc8094505fa"
+    }
+  },
+  {
+    "id": "s2neuro-0439",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "Which drug classes and older-adult risks make source anticholinergic adverse effects clinically important?",
+    "a": "TCAs such as amitriptyline, some antipsychotics and first-generation H1 blockers such as diphenhydramine/chlorpheniramine can cause urinary retention and confusion/delirium. This is a class-risk pattern, not equal antimuscarinic potency for every drug.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2neuro-0440",
+    "category": "Autonomic anatomy and cholinergic drugs",
+    "q": "What medication change does the source use for retention/azotemia or confusion in an older person?",
+    "a": "Review and stop the implicated anticholinergic where appropriate, such as amitriptyline with obstruction/BPH or diphenhydramine with delirium. The source says all older men have BPH; age is a risk, not a universal diagnosis.",
+    "source": {
+      "title": "Mehlman HY Neuro",
+      "page": 50,
+      "url": "/mehlman/hy-neuro.pdf#page=50"
     }
   }
 ];

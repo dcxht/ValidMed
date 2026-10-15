@@ -5,5 +5,5 @@ import familyMedicine from "./step2/familyMedicine";
 export const BANKS = {
   s2fm: { label: "Family Medicine", questions: familyMedicine.filter((q) => !q.duplicateOf), allQuestions: familyMedicine, coverage: "Source conversion and acceptance complete for clinical pages 4-317. Source claims and current notes are distinct; documented verification limits remain." },
   s2psy: { label: "Psychiatry", questions: psychiatry.filter((q) => !q.duplicateOf), allQuestions: psychiatry, coverage: "Source conversion and acceptance complete for clinical pages 3-53. Source claims and current notes are distinct; documented verification limits remain." },
-  s2neuro: { label: "Neurology", questions: neurology.filter((q) => !q.duplicateOf), allQuestions: neurology, coverage: "Partial: first source conversion pp4-36; pp37-71 and final source-detail, clinical and product acceptance remain." },
+  s2neuro: { label: "Neurology", questions: neurology.filter((q) => !q.duplicateOf), allQuestions: neurology, coverage: "Partial: first source conversion pp4-50; pp51-71 and final source-detail, clinical and product acceptance remain." },
 };
