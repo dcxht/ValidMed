@@ -1685,12 +1685,15 @@ export default [
     "id": "s2fm-0145",
     "category": "Ear conditions",
     "q": "A growing keratinizing mass behind the tympanic membrane causes conductive hearing loss. What is the diagnosis and treatment category?",
-    "a": "Cholesteatoma. Surgical treatment is required.",
+    "a": "Cholesteatoma. Surgical treatment is required. The source notes that it can grow into the inner ear.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 45,
       "url": "/mehlman/hy-family-medicine.pdf#page=45"
-    }
+    },
+    "sourcePages": [
+      45
+    ]
   },
   {
     "id": "s2fm-0146",
@@ -1778,7 +1781,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 47,
       "url": "/mehlman/hy-family-medicine.pdf#page=47"
-    }
+    },
+    "sourcePages": [
+      47
+    ]
   },
   {
     "id": "s2fm-0153",
@@ -1800,7 +1806,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 48,
       "url": "/mehlman/hy-family-medicine.pdf#page=48"
-    }
+    },
+    "sourcePages": [
+      48
+    ]
   },
   {
     "id": "s2fm-0155",
@@ -1852,7 +1861,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 49,
       "url": "/mehlman/hy-family-medicine.pdf#page=49"
-    }
+    },
+    "sourcePages": [
+      49
+    ]
   },
   {
     "id": "s2fm-0159",
@@ -1874,7 +1886,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 49,
       "url": "/mehlman/hy-family-medicine.pdf#page=49"
-    }
+    },
+    "sourcePages": [
+      49
+    ]
   },
   {
     "id": "s2fm-0161",
@@ -2113,7 +2128,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "sourcePages": [
+      54
+    ]
   },
   {
     "id": "s2fm-0182",
@@ -2135,7 +2153,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "sourcePages": [
+      54
+    ]
   },
   {
     "id": "s2fm-0184",
@@ -2146,7 +2167,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "sourcePages": [
+      54
+    ]
   },
   {
     "id": "s2fm-0185",
@@ -17097,7 +17121,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 44,
       "url": "/mehlman/hy-family-medicine.pdf#page=44"
-    }
+    },
+    "duplicateOf": "s2fm-0139"
   },
   {
     "id": "s2fm-1459",
@@ -17207,7 +17232,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 45,
       "url": "/mehlman/hy-family-medicine.pdf#page=45"
-    }
+    },
+    "duplicateOf": "s2fm-0145"
   },
   {
     "id": "s2fm-1469",
@@ -17307,7 +17333,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 47,
       "url": "/mehlman/hy-family-medicine.pdf#page=47"
-    }
+    },
+    "duplicateOf": "s2fm-0152"
   },
   {
     "id": "s2fm-1478",
@@ -17329,7 +17356,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 48,
       "url": "/mehlman/hy-family-medicine.pdf#page=48"
-    }
+    },
+    "duplicateOf": "s2fm-0154"
   },
   {
     "id": "s2fm-1480",
@@ -17340,7 +17368,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 48,
       "url": "/mehlman/hy-family-medicine.pdf#page=48"
-    }
+    },
+    "duplicateOf": "s2fm-0155"
   },
   {
     "id": "s2fm-1481",
@@ -17373,7 +17402,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 49,
       "url": "/mehlman/hy-family-medicine.pdf#page=49"
-    }
+    },
+    "duplicateOf": "s2fm-0158"
   },
   {
     "id": "s2fm-1484",
@@ -17401,7 +17431,7 @@ export default [
     "id": "s2fm-1486",
     "category": "Renal source details",
     "q": "Which medication/infection/cancer examples does the PDF list for membranous nephropathy?",
-    "a": "Dapsone, gold salts and sulfonamides; hepatitis B; visceral malignancy; and primaryanti-PLA2R autoimmunity. This is the source association list, not a complete causal differential.",
+    "a": "Dapsone, gold salts and sulfonamides; hepatitis B; visceral malignancy; and primary anti-PLA2R autoimmunity. This is the source association list, not a complete causal differential.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 49,
@@ -17417,7 +17447,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 49,
       "url": "/mehlman/hy-family-medicine.pdf#page=49"
-    }
+    },
+    "duplicateOf": "s2fm-0160"
   },
   {
     "id": "s2fm-1488",
@@ -17796,7 +17827,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "duplicateOf": "s2fm-0181"
   },
   {
     "id": "s2fm-1521",
@@ -17818,7 +17850,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "duplicateOf": "s2fm-0183"
   },
   {
     "id": "s2fm-1523",
@@ -17829,7 +17862,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 54,
       "url": "/mehlman/hy-family-medicine.pdf#page=54"
-    }
+    },
+    "duplicateOf": "s2fm-0184"
   },
   {
     "id": "s2fm-1524",
@@ -37293,6 +37327,28 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 27,
       "url": "/mehlman/hy-family-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2fm-3094",
+    "category": "Final source-mapping details",
+    "q": "Which patient-history factor does the source flag for worse scombroid outcomes?",
+    "a": "A history of asthma; the PDF specifically mentions greater mortality risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-family-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2fm-3095",
+    "category": "Final source-mapping details",
+    "q": "Which antimicrobial class and examples does the PDF name for epiglottitis after emergency airway care?",
+    "a": "A third-generation cephalosporin: cefotaxime in its pediatric example or ceftriaxone. Antibiotics do not replace urgent airway assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-family-medicine.pdf#page=41"
     }
   }
 ];
