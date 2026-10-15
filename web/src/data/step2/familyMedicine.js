@@ -36076,5 +36076,196 @@ export default [
       "page": 249,
       "url": "/mehlman/hy-family-medicine.pdf#page=249"
     }
+  },
+  {
+    "id": "s2fm-3027",
+    "category": "Endocrine finer source details",
+    "q": "Which other inherited conditions does the source group with pheochromocytoma?",
+    "a": "MEN 2A/2B and NF1, in addition to sporadic disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-3028",
+    "category": "Endocrine finer source details",
+    "q": "What localization imaging does the source place after positive pheochromocytoma metanephrines?",
+    "a": "Abdominal CT in its source sequence; the exact modality depends on clinical circumstances.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-3029",
+    "category": "Endocrine finer source details",
+    "q": "What nuclear-imaging tracer does the PDF name for neuroblastoma after catecholamine metabolites?",
+    "a": "Metaiodobenzylguanidine, MIBG.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2fm-3030",
+    "category": "Endocrine finer source details",
+    "q": "What auscultation pattern does the source give for carcinoid tricuspid regurgitation?",
+    "a": "A holosystolic murmur that increases with inspiration, accompanying its right-sided valvular disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-3031",
+    "category": "Endocrine finer source details",
+    "q": "What inheritance pattern does the source give for MEN syndromes and Carney complex?",
+    "a": "Autosomal dominant, while the specific causal genes and de novo possibilities differ.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-3032",
+    "category": "Endocrine finer source details",
+    "q": "What pancreatic endocrine tumor is the source highest-yield MEN 1 example?",
+    "a": "Gastrinoma causing Zollinger-Ellison syndrome with recurrent peptic ulcers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-3033",
+    "category": "Endocrine finer source details",
+    "q": "What pituitary tumor does the PDF emphasize for MEN 1?",
+    "a": "Prolactinoma, in its source tumor constellation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2fm-3034",
+    "category": "Endocrine finer source details",
+    "q": "What HLA susceptibility pair does the source associate with autoimmune type 1 diabetes?",
+    "a": "HLA-DR3/DR4, with a genetic-susceptibility/environmental-trigger model rather than a single causal gene.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-3035",
+    "category": "Endocrine finer source details",
+    "q": "How does the source describe early versus late pancreatic histology in type 1 diabetes?",
+    "a": "Inflammatory infiltrate early versus atrophy/fibrosis later, in its source summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-family-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2fm-3036",
+    "category": "Endocrine finer source details",
+    "q": "What mechanism can make glucose fall during exercise in an insulin-treated patient in the source?",
+    "a": "Increased use of glucose during activity without appropriately adjusted insulin/food planning can precipitate hypoglycemia; this differs from DKA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-3037",
+    "category": "Diabetes and acid-base finer details",
+    "q": "What late pancreatic deposit does the PDF associate with type 2 diabetes?",
+    "a": "Amyloid, with later beta-cell shrinkage in its source histology summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-family-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2fm-3038",
+    "category": "Diabetes and acid-base finer details",
+    "q": "What chronic pancreatic injury can cause both steatorrhea and diabetes in the source?",
+    "a": "Chronic pancreatitis, including alcohol-related disease, affecting both exocrine and islet functions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-3039",
+    "category": "Diabetes and acid-base finer details",
+    "q": "What source mechanism links tacrolimus to immunosuppression?",
+    "a": "Reduced IL-2 synthesis/T-cell stimulation, with diabetes as a notable adverse-effect association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-family-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2fm-3040",
+    "category": "Diabetes and acid-base finer details",
+    "q": "What normal acid-base reference ranges does the source print?",
+    "a": "pH 7.35-7.45, bicarbonate 22-28 mEq/L and PCO2 33-44 mmHg. Interpret laboratory-specific reference ranges and the clinical setting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-3041",
+    "category": "Diabetes and acid-base finer details",
+    "q": "What bicarbonate difference does the PDF use to contrast acute and chronic respiratory disorders?",
+    "a": "Little bicarbonate change in its acute pattern versus renal bicarbonate compensation over time. These are teaching patterns, not a claim of zero immediate buffering.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-family-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2fm-3042",
+    "category": "Diabetes and acid-base finer details",
+    "q": "Why does the source retain carbon dioxide during metabolic alkalosis?",
+    "a": "Reduced ventilation raises CO2 as respiratory compensation, within physiologic limits.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2fm-3043",
+    "category": "Endocrine finer source details",
+    "q": "Which toxicity does the PDF highlight for pioglitazone, and what major warning does the fetched label add?",
+    "a": "The source names liver toxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-family-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "DailyMed pioglitazone label also has a boxed warning for causing or worsening congestive heart failure, with monitoring for edema, dyspnea and rapid weight gain. Initiation in NYHA class III/IV heart failure is contraindicated; suspected hepatic injury requires assessment.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?audience=consumer&setid=38011100-3203-4626-ba3b-81acd3a0f0f1"
+    }
   }
 ];

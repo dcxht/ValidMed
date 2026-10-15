@@ -439,3 +439,5 @@ Count correction: preceding 2578 entry has397notes, not399. Four new pp29/33/34 
 3011 cards / 230 actual figure cards / 581 linked notes. pp234-238finepass:CDCHibproduct-dependentseriesand12-15monthbooster;2023EndocrineReviewsfluidrestrictiontreatmentnotstandalonediagnostictest. Ordinaryneckmass/hernia/octreotide/sodium/ADH/specificgravitydetailsadded. 3010replacedthiazideduplicatewithspecificgravitydetailbeforecommit. Partial.
 
 3026 cards / 230 actual figure cards / 583 linked notes. pp239-249finerpass:NG145subclinicalbiochemicalnotsymptom-freeandtreatmentcontextnotautomaticantibodiesalone. Ordinarythyroid/adrenal/calcium/signsdetailsadded. CKDblanketphosphateclaimstillunderreview(NIDDK/NKFnotpreciseenoughforstage-specificnote);retainedledger. Partial.
+
+3043 cards / 584 linked notes. Finer pass through p259: pheo/neuroblastoma localization/inheritance, MEN details, type1 histology, type2 amyloid, chronic pancreatitis, acid-base reference ranges. Pioglitazone liver teaching retained plus label boxed CHF warning. Existing salicylate/diabetes corrections reviewed. Partial. Beginning rapid bullets p260 onward and checking cross-page duplicates.
