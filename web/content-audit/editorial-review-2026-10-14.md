@@ -447,3 +447,5 @@ Rapid p260-267finerpass:clinical CTS-6 vs compulsory electrophysiology reconcile
 3054cards/591notes. ADA2026fetchedtextends9.19:3054note narrowed to verified9.5-9.17person-centeredintensification, not highlight-onlyinsulinthresholds. Unverifiedthresholdnotpromoted. Rapidfinerpassthroughp268. Partial.
 
 3063cards/595notes. Finerpassp269-286:enuresisbehaviornotdry-nightrewards(NICE);trichotillomaniahabit-reversal(NHS);varicocelerepairselection(AUA2024);heart-failureloweffectivevolumeandbaroreceptorwording(Merck+2020review). ExistingHBIGunder2kgandtympanostomyeffusionnotesrecheckedagainstfetchedCDC/AAO-HNS. Duplicateconcept2231/2235/2263/2272/2273/2510replacedwithsource-specificdetails. Partial, finalQAremaining.
+
+3073cards/597notes. Finerpassp287-299:DailyMedresolves2283sulfasalazineactivedrugclaim(relativeRAmetabolitecontributionsunknown);ACR2020goutnoprescriptiverankamongfirstlineclasses;ACR2021lowactivityRAexceptiontoMTXalways. Source-onlyadditionsCPPD/marrow-vsperipheral/clottingbleeding/ganciclovir/ticlopidine/MEN1chromosome/livermets. Partial.

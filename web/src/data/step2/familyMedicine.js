@@ -26416,16 +26416,16 @@ export default [
   {
     "id": "s2fm-2283",
     "category": "Rapid-review source details",
-    "q": "What drug does ACR describe as the RA DMARD in the source sulfasalazine discussion?",
-    "a": "Sulfasalazine itself; the PDF calls mesalamine the absorbed RA-active component.",
+    "q": "What active-moiety explanation does the PDF give for sulfasalazine in rheumatoid arthritis?",
+    "a": "It calls mesalamine/5-ASA the absorbed component treating RA.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 288,
       "url": "/mehlman/hy-family-medicine.pdf#page=288"
     },
     "guideline": {
-      "text": "ACR identifies sulfasalazine as the DMARD used for RA. The patient guidance does not verify the PDF mesalamine-active-moiety explanation; that specific mechanism remains unresolved.",
-      "url": "https://rheumatology.org/patients/sulfasalazine-azulfidine"
+      "text": "The DailyMed AZULFIDINE EN-tabs label says the relative contributions of parent sulfasalazine and its major metabolites in RA are unknown. Sulfapyridine is relatively well absorbed, while 5-ASA is less well absorbed. The source should not transfer the 5-ASA-dominant ulcerative-colitis explanation into a settled RA mechanism.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1"
     }
   },
   {
@@ -26442,8 +26442,8 @@ export default [
   {
     "id": "s2fm-2285",
     "category": "Rapid-review source details",
-    "q": "What separate roles of vWF link platelet adhesion and coagulation?",
-    "a": "It bridges platelet GpIb to exposed collagen and carries/stabilizes factor VIII; this explains mucosal bleeding and possible prolonged aPTT.",
+    "q": "Which platelet glycoprotein does the source assign to adhesion rather than aggregation?",
+    "a": "GpIb binds vWF at exposed collagen for adhesion; this differs from the GpIIb/IIIa aggregation pathway.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 290,
@@ -26527,8 +26527,8 @@ export default [
   {
     "id": "s2fm-2292",
     "category": "Rapid-review source details",
-    "q": "How does source timing separate IgA nephropathy from postinfectious GN?",
-    "a": "Hematuria during/within days of a respiratory infection versus a delayed interval after infection. Timing helps, but complement, clinical severity and other testing matter.",
+    "q": "What two infection sites does the source allow before IgA-nephropathy hematuria?",
+    "a": "Respiratory or gastrointestinal infection, with the short synpharyngitic timing pattern rather than a mandatory respiratory trigger.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 294,
@@ -36530,6 +36530,124 @@ export default [
     "guideline": {
       "text": "Merck Professional links heart-failure hyponatremia to decreased effective circulating volume and vasopressin release despite increased total extracellular fluid. A 2020 peer-reviewed review describes reduced carotid/aortic afferent firing with reduced systolic stretch and reduced vagal response. The source wording should not imply increased arterial stretch is the low-volume signal.",
       "url": "https://www.merckmanuals.com/professional/nephrology/electrolyte-disorders/hyponatremia"
+    }
+  },
+  {
+    "id": "s2fm-3064",
+    "category": "Rapid-bullet finer review",
+    "q": "What two calcium/iron disorders does the PDF emphasize as CPPD associations?",
+    "a": "Primary hyperparathyroidism and hemochromatosis; CPPD can present as acute large-joint monoarthritis or an osteoarthritis-like pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-3065",
+    "category": "Rapid-bullet finer review",
+    "q": "What peripheral mechanism does the source use for multiple low blood-cell lines in SLE?",
+    "a": "Immune-mediated peripheral destruction, contrasted with defective marrow production in aplasia; this source comparison does not rule out other causes or mixed mechanisms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-3066",
+    "category": "Rapid-bullet finer review",
+    "q": "Which classic bleeding sites does the source use for hemophilia by age?",
+    "a": "Hemarthrosis in a school-age boy and bleeding after circumcision in a neonate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2fm-3067",
+    "category": "Rapid-bullet finer review",
+    "q": "Which antiviral does the source list among agranulocytosis-associated drugs?",
+    "a": "Ganciclovir, used against CMV through DNA-polymerase inhibition in its source summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-3068",
+    "category": "Rapid-bullet finer review",
+    "q": "What antiplatelet drug appears in the PDF agranulocytosis list?",
+    "a": "Ticlopidine, alongside clozapine, ganciclovir, thionamides and methotrexate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-3069",
+    "category": "Rapid-bullet finer review",
+    "q": "Which chromosome does the PDF identify for MEN1?",
+    "a": "Chromosome 11, in its pituitary/pancreas/parathyroid syndrome summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-3070",
+    "category": "Rapid-bullet finer review",
+    "q": "Why can liver metastases make an intestinal carcinoid syndrome more apparent in the source?",
+    "a": "Tumor products can bypass normal hepatic first-pass metabolism when liver metastases release them into systemic circulation; the PDF also permits bronchial carcinoid.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-3071",
+    "category": "Rapid-bullet finer review",
+    "q": "What context makes the PDF favor smoking cessation over its usual diabetes-first MI-risk heuristic?",
+    "a": "An overwhelmingly emphasized COPD/cor-pulmonale presentation with recent diabetes only a peripheral detail. This illustrates source vignette reasoning, not an individualized numerical risk comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-family-medicine.pdf#page=297"
+    }
+  },
+  {
+    "id": "s2fm-3072",
+    "category": "Rapid-bullet guideline reconciliation",
+    "q": "What fixed order does the PDF give for treating an acute gout flare?",
+    "a": "Indomethacin/NSAID first, then steroids, then colchicine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "ACR2020 strongly recommends colchicine, NSAIDs or glucocorticoids as appropriate first-line flare therapy. It does not rank one above all others; choose using patient factors, comorbidities, access and past experience.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/"
+    }
+  },
+  {
+    "id": "s2fm-3073",
+    "category": "Rapid-bullet guideline reconciliation",
+    "q": "What unconditional first-DMARD rule does the PDF give for early rheumatoid arthritis?",
+    "a": "Always methotrexate first.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "ACR2021 favors methotrexate for DMARD-naive moderate/high disease activity, but conditionally favors hydroxychloroquine over other conventional DMARDs for low disease activity. Contraindications, prognosis and preferences matter; always is too broad.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273041/"
     }
   }
 ];
