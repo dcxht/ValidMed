@@ -28348,7 +28348,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=172"
     },
     "guideline": {
-      "text": "APA patient guidance uses at least one week for mania and four consecutive days for hypomania, not strictly longer. NIMH also allows a shorter manic duration when severe symptoms require hospital care; duration is not the only criterion.",
+      "text": "APA patient guidance uses at least one week for mania and four consecutive days for hypomania, not strictly longer. Severity and functional change also distinguish the episodes; duration is not the only criterion.",
       "url": "https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders"
     }
   },
@@ -28393,7 +28393,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=173"
     },
     "guideline": {
-      "text": "Merck Manual Professional review (2025), a secondary clinical source, allows bizarre or nonbizarre delusions and requires at least one month plus exclusion/functional criteria. A religious theme alone also cannot replace clinical and cultural assessment.",
+      "text": "Merck Manual Professional review (2025), a secondary clinical source, allows bizarre or nonbizarre delusions and requires at least one month plus exclusion and functional criteria. Diagnosis requires psychiatric assessment, not a single unusual belief.",
       "url": "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/delusional-disorder"
     }
   }
