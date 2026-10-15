@@ -379,6 +379,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 14,
       "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "AHA issuing-body summary of ACS guideline 2025 recommends ticagrelor or prasugrel over clopidogrel for NSTE-ACS/STEMI patients undergoing PCI. Choice and timing vary with bleeding risk, anticoagulation and invasive strategy; the PDF aspirin-then-clopidogrel sequence is not universal.",
+      "url": "https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes/top-things-to-know"
     }
   },
   {
@@ -14539,7 +14543,7 @@ export default [
     "id": "s2fm-1263",
     "category": "Endocrine images",
     "q": "What limited nodule branch of the source thyroid-evaluation diagram is summarized?",
-    "a": "Palpated nodule: measure TSH; normal/highTSH prompts ultrasound assessment; lowTSH prompts radionuclide assessment. The separate no-nodule universal rule is pending review.",
+    "a": "Palpated nodule: measure TSH; normal/high TSH prompts ultrasound assessment; low TSH prompts radionuclide assessment. The separate no-nodule universal rule is pending review.",
     "img": "/s2img/fm-242-0.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -14941,7 +14945,7 @@ export default [
     "id": "s2fm-1299",
     "category": "Cardiology",
     "q": "How can posterior myocardial injury appear in anterior ECG leads?",
-    "a": "Reciprocal ST depression inV 1-V3 can be a clue to posterior infarction.",
+    "a": "Reciprocal ST depression in V1-V3 can be a clue to posterior infarction.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 14,
@@ -15409,6 +15413,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 7,
       "url": "/mehlman/hy-family-medicine.pdf#page=7"
+    },
+    "guideline": {
+      "text": "Merck Professional describes genetic predisposition and increased family prevalence, not every BAV case as following one proven autosomal-dominant pattern. It recommends screening echocardiography of first-degree relatives.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/congenital-cardiovascular-anomalies/bicuspid-aortic-valve"
     }
   },
   {
@@ -15600,11 +15608,15 @@ export default [
     "id": "s2fm-1356",
     "category": "Cardiology source details",
     "q": "What source phrase explains a delayed embolic stroke after MI?",
-    "a": "Embolus from a ventricular septal aneurysm. That exact anatomic phrase is pending verification; the source intends post-MI ventricular thrombus with embolization.",
+    "a": "Embolus from a ventricular septal aneurysm. This is the exact PDF anatomic phrase, not the usual post-MI LV-thrombus description.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 14,
       "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "ACC summary of AHA Scientific Statement 2022 discusses LV thrombus after MI, especially anteroapical injury/akinesis, with cardiac imaging and treatment selected accordingly. Do not assume the PDF ventricular-septal-aneurysm phrase describes every post-MI embolic mechanism.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2022/09/23/13/56/management-of-patients-at-risk"
     }
   },
   {
@@ -15627,6 +15639,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 14,
       "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "Merck Professional describes prerenal AKI as inadequate renal perfusion and ischemic tubular injury after sufficiently severe/prolonged hypoperfusion. Cardiogenic shock does not by itself prove every case is already ATN or exclude a prerenal component.",
+      "url": "https://www.merckmanuals.com/professional/nephrology/acute-kidney-injury/acute-kidney-injury-aki"
     }
   },
   {
@@ -15847,7 +15863,7 @@ export default [
     "id": "s2fm-1377",
     "category": "Cardiology source details",
     "q": "What source description identifies superficial thrombophlebitis?",
-    "a": "A tender palpable superficial venous cord, potentially extending from ankle toward knee, often with venous insufficiency. Blanket anticoagulation is a separate pending treatment claim.",
+    "a": "A tender palpable superficial venous cord, potentially extending from ankle toward knee, often with venous insufficiency. Its blanket anticoagulation claim is reviewed separately.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 27,
@@ -15902,7 +15918,7 @@ export default [
     "id": "s2fm-1382",
     "category": "Cardiology source details",
     "q": "What triglyceride threshold for fibrates does the PDF state?",
-    "a": "Greater than 300 mg/dL. This is its source threshold, pending independent verification, not an unqualified current treatment cutoff.",
+    "a": "Greater than 300 mg/dL. This is the source threshold, not an unqualified current treatment cutoff; see the separate note with its evidence limitation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 28,
@@ -27162,6 +27178,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 8,
       "url": "/mehlman/hy-family-medicine.pdf#page=8"
+    },
+    "guideline": {
+      "text": "ACC summary of AHA/ACC/HFSA 2022 defines HFrEF as LVEF at most 40%, mildly reduced EF as 41-49%, and preserved EF as at least 50%; HF above 40% also needs supporting evidence of elevated filling pressure. The PDF 55%/70% examples are not these guideline categories.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2022/03/29/19/53/2022-aha-acc-hfsa-heart-failure-guideline-gl-hf"
     }
   },
   {
@@ -30218,6 +30238,21 @@ export default [
     "guideline": {
       "text": "Merck Professional describes pulmonary hypertension as the most common cause of pulmonary regurgitation. Its early diastolic Graham Steell murmur is distinct from the holosystolic tricuspid-regurgitation murmur; both can arise in right-sided pressure disease.",
       "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/pulmonary-regurgitation"
+    }
+  },
+  {
+    "id": "s2fm-2568",
+    "category": "Early cardio exact-source review",
+    "q": "What universal procedure does the PDF assign to all acute coronary syndromes?",
+    "a": "Coronary catheterization for MI or unstable angina.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "AHA 2025 ACS summary recommends an invasive approach during hospitalization for intermediate/high-risk NSTE-ACS. Low-risk NSTE-ACS may follow routine or selective invasive evaluation with further risk stratification. It is not an identical immediate-catheterization rule for every ACS presentation.",
+      "url": "https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes/top-things-to-know"
     }
   }
 ];
