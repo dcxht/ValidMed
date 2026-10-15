@@ -83,3 +83,4 @@ Targeted follow-up p311:2more cards,2334total/230figures/172linkednotes. CDC2024
 Early backlog follow-up p11/p18:2336total/230figures/174linkednotes. AAAgrowthprimarytable and PRsecondaryreference verified, source answers retained separately. Partial.
 Exact-claim follow-up pp5-28:2352cards/230sourcefigures/195linkednotes. Several cardiovascular unsafe absolutes now source-attributed with directly checked notes. Still Partial; large later-page reconciliation backlog remains.
 Exact renal/GI/infant follow-up:2363/230figures/208notes; source claims with separatecheckednotes. Partial remains, many otherpage-specificclaims unresolved.
+IBD/liver follow-up2369/230figures/215notes. Partial.

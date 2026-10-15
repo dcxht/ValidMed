@@ -12633,7 +12633,7 @@ export default [
     "id": "s2fm-1118",
     "category": "Nutrition",
     "q": "A child with cystic fibrosis develops neuropathy from fat malabsorption. Which fat-soluble vitamin deficiency is emphasized?",
-    "a": "VitaminE deficiency.",
+    "a": "Vitamin E deficiency.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 315,
@@ -12654,7 +12654,7 @@ export default [
   {
     "id": "s2fm-1120",
     "category": "Rheumatology",
-    "q": "Which medium-vessel vasculitis is associated with hepatitisB and beaded aneurysmal arteries?",
+    "q": "Which medium-vessel vasculitis is associated with hepatitis B and beaded aneurysmal arteries?",
     "a": "Polyarteritis nodosa.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -13689,7 +13689,7 @@ export default [
     "id": "s2fm-1200",
     "category": "Dermatology images",
     "q": "Purple polygonal papules appear on the skin. Which source dermatosis is illustrated?",
-    "a": "Lichen planus. The source also highlights its hepatitisC association.",
+    "a": "Lichen planus. The source also highlights its hepatitis C association.",
     "img": "/s2img/fm-131-2.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -17055,7 +17055,7 @@ export default [
     "id": "s2fm-1486",
     "category": "Renal source details",
     "q": "Which medication/infection/cancer examples does the PDF list for membranous nephropathy?",
-    "a": "Dapsone, gold salts and sulfonamides; hepatitisB; visceral malignancy; and primaryanti-PLA2R autoimmunity. This is the source association list, not a complete causal differential.",
+    "a": "Dapsone, gold salts and sulfonamides; hepatitis B; visceral malignancy; and primaryanti-PLA2R autoimmunity. This is the source association list, not a complete causal differential.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 49,
@@ -18043,7 +18043,7 @@ export default [
     "id": "s2fm-1574",
     "category": "Gastroenterology source details",
     "q": "Which fat-soluble vitamin deficiency does the PDF particularly emphasize in CF-related malabsorption?",
-    "a": "VitaminE deficiency with neurologic findings, in its enzyme-delivery failure discussion.",
+    "a": "Vitamin E deficiency with neurologic findings, in its enzyme-delivery failure discussion.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 67,
@@ -18185,8 +18185,8 @@ export default [
   {
     "id": "s2fm-1587",
     "category": "Infectious disease source details",
-    "q": "Which hepatitisA antibody class does the source use for acute versus prior immunity?",
-    "a": "IgM supports acute/recent infection;IgG is compatible with immunity after cleared infection or vaccination. The source emphasizes no chronic HAV infection.",
+    "q": "Which hepatitis A antibody class does the source use for acute versus prior immunity?",
+    "a": "IgM supports acute/recent infection; IgG is compatible with immunity after cleared infection or vaccination. The source emphasizes no chronic HAV infection.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 69,
@@ -18196,7 +18196,7 @@ export default [
   {
     "id": "s2fm-1588",
     "category": "Vaccination",
-    "q": "Which adult risk groups does the PDF specifically mention for hepatitisA vaccination?",
+    "q": "Which adult risk groups does the PDF specifically mention for hepatitis A vaccination?",
     "a": "People who use injection drugs and men who have sex with men. These are source groups, not the complete current vaccination schedule.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -18207,7 +18207,7 @@ export default [
   {
     "id": "s2fm-1589",
     "category": "Infectious disease source details",
-    "q": "How do the source hepatitisB surface and core antibodies differ?",
+    "q": "How do the source hepatitis B surface and core antibodies differ?",
     "a": "Anti-HBs marks immunity; anti-HBc indicates natural infection at some time rather than vaccine-only immunity. IgM anti-HBc supports acute/recent infection, including a window pattern.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -18218,7 +18218,7 @@ export default [
   {
     "id": "s2fm-1590",
     "category": "Infectious disease source details",
-    "q": "What hepatitisC transmission absolute does the PDF state?",
+    "q": "What hepatitis C transmission absolute does the PDF state?",
     "a": "It says HCV is not considered sexually transmitted and emphasizes blood exposure.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -18233,7 +18233,7 @@ export default [
   {
     "id": "s2fm-1591",
     "category": "Infectious disease source details",
-    "q": "What acute-only claim does the PDF make for hepatitisE?",
+    "q": "What acute-only claim does the PDF make for hepatitis E?",
     "a": "It groups HEV with HAV as acute-only infection.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -18254,6 +18254,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 70,
       "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "NIDDK October 2025 uses history, examination, blood tests, imaging and sometimes biopsy to diagnose MASLD/NAFLD. Ordinary imaging can show fat but not establish steatohepatitis; biopsy can establish MASH/NASH when needed. Obesity alone does not distinguish simple steatosis from steatohepatitis.",
+      "url": "https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash/diagnosis"
     }
   },
   {
@@ -18809,7 +18813,7 @@ export default [
   {
     "id": "s2fm-1643",
     "category": "Pharmacology",
-    "q": "How do infliximab/adalimumab differ structurally frometanercept?",
+    "q": "How do infliximab/adalimumab differ structurally from etanercept?",
     "a": "The first are anti-TNF monoclonal antibodies; etanercept is a soluble receptor fusion protein. This mechanism card does not establish an IBD indication for every named drug.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -27283,6 +27287,96 @@ export default [
     "guideline": {
       "text": "AAP HealthyChildren advice recommends oatmeal rather than rice cereal when prescribed thickening is needed because of arsenic concerns. The pediatrician/feeding specialist determines consistency and amount; this is not a do-it-yourself recipe.",
       "url": "https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Oatmeal-The-Safer-Alternative-Need-Thicker-Food.aspx"
+    }
+  },
+  {
+    "id": "s2fm-2364",
+    "category": "IBD and liver exact-claim reconciliation",
+    "q": "What initial-treatment ladder does the PDF apply broadly to both Crohn disease and ulcerative colitis?",
+    "a": "5-ASA drugs such as mesalamine/sulfasalazine first, then steroids, with anti-TNF agents after failure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "AGA living UC guidance, reviewed through March 2026 without amendment, suggests early advanced therapy for moderate-to-severe adult UC rather than gradual escalation after 5-ASA failure. Severity and diagnosis matter; this is not the same plan for every IBD presentation.",
+      "url": "https://gastro.org/clinical-guidance/living-guideline-for-moderate-to-severe-ulcerative-colitis/"
+    }
+  },
+  {
+    "id": "s2fm-2365",
+    "category": "IBD and liver exact-claim reconciliation",
+    "q": "Which three anti-TNF examples does the PDF list for IBD after initial-treatment failure?",
+    "a": "Infliximab, adalimumab and etanercept.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "The directly retrieved 2001 randomized Crohn trial found etanercept 25 mg twice weekly ineffective versus placebo for moderate-to-severe disease. This is primary trial evidence, not a current prescribing guideline; anti-TNF drugs are not interchangeable simply by class.",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(01)71195-X/fulltext"
+    }
+  },
+  {
+    "id": "s2fm-2366",
+    "category": "IBD and liver exact-claim reconciliation",
+    "q": "What psychiatric label and smooth-muscle mechanism does the PDF assign to IBS?",
+    "a": "Psychosomatic/psych-related disease, with smooth-muscle hypersensitivity in its exam wording.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    },
+    "guideline": {
+      "text": "NIDDK October 2025 calls IBS a disorder of gut-brain interaction, with altered sensitivity and bowel-muscle contraction. This is not a claim that symptoms are imaginary or solely psychiatric.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/definition-facts"
+    }
+  },
+  {
+    "id": "s2fm-2367",
+    "category": "IBD and liver exact-claim reconciliation",
+    "q": "What does the PDF recommend when previously completed hepatitis-B vaccination is followed by low measured immunity titers?",
+    "a": "Give more vaccine; it attributes the low titer to waning immunity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "CDC 2024 Pink Book training distinguishes documented responders from nonresponders: immunocompetent responders remain protected even if anti-HBs later falls below 10 mIU/mL. Revaccination/testing algorithms depend on the population and prior documented response, not a blanket booster for every low late titer.",
+      "url": "https://www2.cdc.gov/vaccines/ed/pinkbook/2024/pb_hepb/PB_HepB.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2368",
+    "category": "IBD and liver exact-claim reconciliation",
+    "q": "What ferritin cutoff and unit does the PDF print for hemochromatosis diagnosis?",
+    "a": "Ferritin greater than 300 mg/dL, with clearly increased transferrin saturation. The unit here is reproduced as printed, not endorsed.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    },
+    "guideline": {
+      "text": "EASL 2022 uses ferritin in micrograms/L, together with transferrin saturation and genotype/context. In HFE C282Y homozygotes, provisional overload thresholds include ferritin over 200 micrograms/L in females or over 300 in males/postmenopausal women, plus elevated saturation. Ferritin alone is not the diagnosis.",
+      "url": "https://easl.eu/wp-content/uploads/2022/06/PIIS01688278220021121.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2369",
+    "category": "IBD and liver exact-claim reconciliation",
+    "q": "How specific does the PDF say ferritin above 300 is for hemochromatosis?",
+    "a": "It calls this exceedingly rare in other conditions, while mentioning lymphoma/leukemia as exceptions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-family-medicine.pdf#page=71"
+    },
+    "guideline": {
+      "text": "EASL 2022 states ferritin is also an acute-phase reactant and may rise with fatty liver, alcohol, metabolic syndrome, inflammation or neoplasia. High ferritin does not by itself prove iron overload.",
+      "url": "https://easl.eu/wp-content/uploads/2022/06/PIIS01688278220021121.pdf"
     }
   }
 ];
