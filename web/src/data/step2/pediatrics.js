@@ -3460,5 +3460,456 @@ export default [
       "page": 27,
       "url": "/mehlman/hy-pediatrics.pdf#page=27"
     }
+  },
+  {
+    "id": "s2peds-0282",
+    "category": "Urinary stones",
+    "q": "What anatomic stone terms does the source include under urolithiasis?",
+    "a": "Nephrolithiasis and ureterolithiasis: stones in the kidney or ureter respectively.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2peds-0283",
+    "category": "Urinary stones",
+    "q": "What stone type does the source rank most common, and what two calcium forms does it name?",
+    "a": "Calcium stones, either calcium oxalate or calcium phosphate. The author dismisses calcium-phosphate exam frequency, but the clinically relevant type is retained.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2peds-0284",
+    "category": "Urinary stones",
+    "q": "What serum-versus-urine calcium pattern does the source give for idiopathic stones in teenagers or young adults?",
+    "a": "Normocalcemia with hypercalciuria: normal serum calcium but increased urinary calcium. The source calls this the usual idiopathic pattern, not a universal finding in every stone former.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2peds-0285",
+    "category": "Urinary stones",
+    "q": "How does the source connect fat malabsorption or Crohn disease to calcium oxalate stones?",
+    "a": "Retained intestinal fat binds calcium, leaving less calcium to bind oxalate. More unbound oxalate is absorbed and excreted in urine, increasing calcium oxalate stone risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2peds-0286",
+    "category": "Urinary stones",
+    "q": "Which hypercalcemic and toxic exposures does the source connect to calcium stones?",
+    "a": "Hyperparathyroidism or malignancy can cause hypercalcemia; ethylene glycol and excess vitamin C can increase oxalate-stone risk in the source examples.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2peds-0287",
+    "category": "Urinary stones",
+    "q": "What first preventive/treatment measure does the source choose for urinary stones, and what pediatric assessment is still needed?",
+    "a": "Adequate hydration. It is a general first measure, not proof that hydration alone treats infection, obstruction or every metabolic cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "EAU pediatric guidance recommends a complete metabolic evaluation for every child with a urinary stone, because recurrence and predisposing metabolic/anatomic conditions are common. High urine flow is one part of cause-specific treatment.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/urinary-stone-disease"
+    }
+  },
+  {
+    "id": "s2peds-0288",
+    "category": "Urinary stones",
+    "q": "How do thiazides prevent recurrent hypercalciuric calcium stones in the source?",
+    "a": "They increase renal calcium reabsorption and reduce urinary calcium.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "EAU pediatric guidance allows thiazides for idiopathic hypercalciuria, with follow-up for electrolytes and other adverse effects. Citrate may help low citrate or persistent hypercalciuria; treatment follows the measured metabolic problem.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/urinary-stone-disease"
+    }
+  },
+  {
+    "id": "s2peds-0289",
+    "category": "Urinary stones",
+    "q": "What theoretical urine-pH rule does the source give for calcium oxalate versus phosphate stones, and why is it incomplete?",
+    "a": "Do not use a blanket urine-pH rule for all calcium stones. The PDF says alkalinization can help oxalate stones and acidification can help phosphate stones, but the cause must guide treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "EAU treats the cause: calcium-phosphate disease may reflect hyperparathyroidism, renal tubular acidosis or infection. RTA can require bicarbonate/alkaline citrate despite calcium-phosphate stones; hypercalciuria can warrant thiazides. Urine chemistry and diagnosis, not the stone label alone, guide treatment.",
+      "url": "https://uroweb.org/guidelines/urolithiasis/chapter/metabolic-evaluation-and-recurrence-prevention"
+    }
+  },
+  {
+    "id": "s2peds-0290",
+    "category": "Urinary stones",
+    "q": "What composition, urine-pH environment and organisms identify source struvite stones?",
+    "a": "Magnesium ammonium phosphate in alkaline urine with urease-positive infection. The source names Klebsiella, Serratia and Proteus in a teenage-girl UTI example; culture is needed rather than inferring a pathogen from sex or stone shape.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2peds-0291",
+    "category": "Urinary stones",
+    "q": "What large branching stone pattern is shown in this actual source image?",
+    "a": "A staghorn or ram-horn-like calculus filling branches of the collecting system, used by the source as the struvite-stone pattern. Shape alone does not establish its exact chemical composition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "img": "/mehlman/figures/peds-p028-01.jpeg"
+  },
+  {
+    "id": "s2peds-0292",
+    "category": "Urinary stones",
+    "q": "What does the source add to hydration for struvite stones, and what current treatment priorities qualify it?",
+    "a": "Surgery plus urinary acidification with ammonium chloride. That is its short treatment answer, not a complete pediatric infection-stone pathway.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "EAU pediatric guidance emphasizes eliminating the stone and the bacteria, since stones can harbor infection, and investigating stasis/anatomic causes. General EAU guidance strongly recommends complete stone removal and antibiotics for persistent bacteriuria; ammonium-chloride acidification is only a weak adjunct recommendation, not the main pediatric default.",
+      "url": "https://uroweb.org/guidelines/urolithiasis/chapter/metabolic-evaluation-and-recurrence-prevention"
+    }
+  },
+  {
+    "id": "s2peds-0293",
+    "category": "Urinary stones",
+    "q": "What source association and chronic-gout drug class accompany uric acid stones?",
+    "a": "Gout and xanthine oxidase inhibitors, allopurinol or febuxostat, rather than uricosurics in its source comparison. These adult gout examples are a differential/mechanism context, not a pediatric gout prevalence claim.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "ACR 2020 strongly recommends allopurinol as the preferred first-line urate-lowering therapy over other agents. Febuxostat is not an interchangeable default first choice for every patient.",
+      "url": "https://acrjournals.onlinelibrary.wiley.com/doi/full/10.1002/acr.24180"
+    }
+  },
+  {
+    "id": "s2peds-0294",
+    "category": "Urinary stones",
+    "q": "Why does the source prefer xanthine oxidase inhibitors to probenecid or sulfinpyrazone in a gout patient at stone risk?",
+    "a": "Uricosurics increase urinary uric acid, which can increase uric-acid stone risk. The source names probenecid and sulfinpyrazone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "DailyMed describes probenecid inhibition of urate tubular reabsorption, increasing urinary uric acid; uric-acid stones, renal colic and hematuria are recognized concerns. This does not establish that every uric-acid stone needs a gout drug.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f2375d90-4132-4fb6-aee7-c4f9d11e98d5"
+    }
+  },
+  {
+    "id": "s2peds-0295",
+    "category": "Urinary stones",
+    "q": "What renal transport action does the source attribute to probenecid, and why must urate and penicillin handling be separated?",
+    "a": "It says probenecid/sulfinpyrazone inhibit an organic-anion transporter involved in urate absorption. The broad OAT label should not blur urate reabsorption with antibiotic secretion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "DailyMed specifies two effects for probenecid: reduced tubular urate reabsorption increases uricosuria; reduced tubular penicillin secretion increases penicillin plasma levels. These are distinct transported substrates and directions.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f2375d90-4132-4fb6-aee7-c4f9d11e98d5"
+    }
+  },
+  {
+    "id": "s2peds-0296",
+    "category": "Urinary stones",
+    "q": "Why can a patient receive a beta-lactam with probenecid without having gout?",
+    "a": "The source describes reduced renal antibiotic excretion to maintain higher beta-lactam concentrations. The combination can be chosen for drug-exposure reasons rather than urate treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "DailyMed confirms probenecid inhibits renal tubular penicillin secretion and raises its plasma concentrations. Drug-specific indications, renal function and interactions still matter; do not extrapolate the combination to every beta-lactam regimen.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f2375d90-4132-4fb6-aee7-c4f9d11e98d5"
+    }
+  },
+  {
+    "id": "s2peds-0297",
+    "category": "Urinary stones",
+    "q": "What current pediatric uric-acid stone measure is missing from the source gout-drug emphasis?",
+    "a": "The source focuses on gout drugs and uricosuric risk, without a full pediatric urine-pH treatment plan.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "EAU pediatric guidance calls urinary alkalinization the mainstay of uric-acid stone treatment/prevention, commonly using citrate. It reserves allopurinol for selected persistent hyperuricosuria/hyperuricemia, recurrent stones or other specific circumstances after conservative measures.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/urinary-stone-disease"
+    }
+  },
+  {
+    "id": "s2peds-0298",
+    "category": "Urinary stones",
+    "q": "What repeated cystine-stone mechanism and screen does the source give on the stone table?",
+    "a": "Hexagonal cystine stones from impaired COLA amino-acid reabsorption; the PDF says cysteine, ornithine, lysine and arginine, and reminds that cystine is two joined cysteines. Cyanide-nitroprusside is its named test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 28,
+      "url": "/mehlman/hy-pediatrics.pdf#page=28"
+    },
+    "guideline": {
+      "text": "EAU identifies cystine, ornithine, lysine and arginine as the transported solutes. Initial cystine-stone management includes high urine flow and alkalinization; a positive nitroprusside screen does not replace the broader pediatric stone work-up.",
+      "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/urinary-stone-disease"
+    }
+  },
+  {
+    "id": "s2peds-0299",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "Which cystic-kidney inheritance pattern, chromosome and liver association does the source pair in a child?",
+    "a": "Autosomal recessive polycystic kidney disease, chromosome 6 and hepatic fibrosis. The source uses ARPKD as its pediatric cystic-kidney exam answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "NIDDK describes ARPKD as an early-life disorder with enlarged cystic kidneys and liver scarring; the childhood setting fits but is not sufficient to diagnose every cystic kidney disorder as ARPKD.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/polycystic-kidney-disease/autosomal-recessive-pkd"
+    }
+  },
+  {
+    "id": "s2peds-0300",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What adult-age and vascular comparison does the source give for ADPKD?",
+    "a": "ADPKD presenting in the 30s-40s with berry aneurysms of the circle of Willis, contrasted with pediatric ARPKD. Age is a typical presentation pattern, not an absolute exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "NIDDK says ADPKD is usually diagnosed at 30-50 and recognizes brain aneurysms; it also discusses imaging in infants and children. Do not exclude ADPKD solely because a patient is young.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/polycystic-kidney-disease/autosomal-dominant-pkd"
+    }
+  },
+  {
+    "id": "s2peds-0301",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "Where are posterior urethral valves, and what do they do in a male infant?",
+    "a": "Abnormal obstructing folds at the posterior/prostatic urethra prevent bladder outflow. The source emphasizes the diagnosis for pediatric shelf/Step 2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0302",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "How broad is the source frequency claim for posterior urethral valves, and what narrower claim is supported?",
+    "a": "The PDF calls PUV the most common genitourinary abnormality in neonatal males. That is broader than a claim about urinary outflow obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "StatPearls identifies PUV as the most common cause of urinary tract obstruction and obstructive-uropathy CKD in children. This does not validate ranking PUV above every congenital genitourinary abnormality.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2peds-0303",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What prenatal finding does the source associate with severe posterior urethral obstruction?",
+    "a": "Oligohydramnios in utero from impaired fetal urinary output.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "StatPearls links severe PUV, oligohydramnios and pulmonary hypoplasia; respiratory distress can follow birth. This is a severity clue, not a finding required in every case.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2peds-0304",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What diagnosis does the source choose for a 12-hour-old boy who has not voided and has a suprapubic mass?",
+    "a": "Posterior urethral valves causing a full bladder. The mass and obstructed-voiding context matter; failure to void by 12 hours alone is not the same claim.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "StatPearls recommends prompt evaluation when an infant has not voided within 24 hours and describes urinary retention with suprapubic distension in severe cases. Do not use the source vignette to diagnose PUV from the 12-hour time alone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2peds-0305",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "How can partially obstructing posterior urethral valves present later in infancy in the source?",
+    "a": "A six-week-old boy with a distended bladder, reflecting slower accumulation behind partly obstructed outflow. PUV also increases the risk of cystitis, UTI and pyelonephritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0306",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What diagnostic imaging sequence does the source choose for suspected posterior urethral valves?",
+    "a": "Ultrasound followed by voiding cystourethrography (VCUG). In a vignette with ultrasound already done or omitted, VCUG can be the next answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "StatPearls describes ultrasound as initial imaging and VCUG as the diagnostic gold-standard imaging test, while noting a negative VCUG does not definitively exclude PUV when suspicion persists; cystoscopy may be needed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2peds-0307",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What backward flow and renal complication define vesicoureteral reflux in the source?",
+    "a": "Urine moves from bladder back toward the ureter/kidney, increasing recurrent acute pyelonephritis and eventual renal scarring/chronic pyelonephritis risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0308",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What pregnancy mechanisms does the source connect to reflux/stasis and pyelonephritis risk?",
+    "a": "Third-trimester uterine compression of the ureters and progesterone-related reduction in ureteral peristalsis. These are its explanation for urinary stasis/reflux in pregnancy, not evidence that every pregnant patient has a congenital VUR lesion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0309",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "How does the source contrast asymptomatic bacteriuria treatment in pregnancy versus outside pregnancy?",
+    "a": "It says to treat ASB in pregnancy but not in a nonpregnant woman. The latter statement must not be read as a no-exception rule for all nonpregnant people.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "IDSA 2019 recommends against ASB screening/treatment in infants, children and healthy nonpregnant women, but recommends screening/treatment before endoscopic urologic procedures with mucosal trauma. Pregnancy is another indicated group. A symptomatic UTI is not ASB.",
+      "url": "https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/"
+    }
+  },
+  {
+    "id": "s2peds-0310",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What embryologic phrase does the source choose for a dilated renal collecting system without dilated ureters?",
+    "a": "Failure of canalization of the proximal ureter, in its ureteral-atresia table. The pattern localizes a proximal outflow problem rather than proving one exact embryologic mechanism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "CHOP describes UPJ obstruction at the renal-pelvis-to-ureter junction, causing hydronephrosis. Developmental narrowing is common, but crossing vessels and other causes also occur; do not equate every such dilation with complete ureteral atresia.",
+      "url": "https://www.chop.edu/conditions-diseases/ureteropelvic-junction-upj-obstruction"
+    }
+  },
+  {
+    "id": "s2peds-0311",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "How does the source use urinary tract anatomy to localize a congenital obstruction?",
+    "a": "Follow kidney to ureter to bladder to urethra; dilation upstream helps localize obstruction. The PDF says failure of canalization may be used for congenital obstruction, but the wording is not a universal mechanism for every obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0312",
+    "category": "Cystic kidneys and urinary anatomy",
+    "q": "What congenital cause does the source connect with recurrent renal infection and tubular atrophy?",
+    "a": "Congenital ureteral obstruction in a chronic-pyelonephritis question. It is a structural cause of stasis/infection and later scarring, not the only possible cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0313",
+    "category": "Urinary infection",
+    "q": "What clinical syndrome does the source identify by fever and costovertebral-angle tenderness?",
+    "a": "Acute pyelonephritis, a kidney infection. CVA tenderness is flank pain with percussion; the source says most of its exam examples include both findings, not that their absence excludes infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0314",
+    "category": "Urinary infection",
+    "q": "Does a source vignette with granular casts necessarily mean acute tubular necrosis?",
+    "a": "No. The PDF reports nonspecific granular casts in pyelonephritis or dehydration and warns against diagnosing ATN from that finding alone. Clinical context is needed; it is the author's exam observation, not an independently verified diagnostic-performance claim.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2peds-0315",
+    "category": "Urinary infection",
+    "q": "What latest final USPSTF screening recommendation qualifies the source pregnancy bacteriuria comparison?",
+    "a": "The PDF says to treat asymptomatic bacteriuria in pregnancy and not routinely in a nonpregnant woman. Screening recommendations must name the population and guideline rather than silently extend this to everyone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 29,
+      "url": "/mehlman/hy-pediatrics.pdf#page=29"
+    },
+    "guideline": {
+      "text": "USPSTF final 2019: screen pregnant persons with urine culture (Grade B), at the first prenatal visit or 12-16 weeks, whichever is earlier. Do not screen nonpregnant adults (Grade D). It covers pregnant persons of any age and adults 18 or older without UTI symptoms, but excludes chronic medical/urinary conditions, hospitalization and institutions. Pediatric and special-procedure guidance is separate.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/asymptomatic-bacteriuria-in-adults-screening"
+    }
   }
 ];
