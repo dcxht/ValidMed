@@ -14434,7 +14434,7 @@ export default [
   {
     "id": "s2fm-1255",
     "category": "Musculoskeletal images",
-    "q": "What femoral-head process is illustrated on this source MRI in thePerthes discussion?",
+    "q": "What femoral-head process is illustrated on this source MRI in the Perthes discussion?",
     "a": "Femoral-head osteonecrosis with altered signal and flattening/collapse.",
     "img": "/s2img/fm-225-0.png",
     "alt": "Figure from the source PDF",
@@ -14539,7 +14539,7 @@ export default [
     "id": "s2fm-1263",
     "category": "Endocrine images",
     "q": "What limited nodule branch of the source thyroid-evaluation diagram is summarized?",
-    "a": "Palpated nodule: measureTSH; normal/highTSH prompts ultrasound assessment; lowTSH prompts radionuclide assessment. The separate no-nodule universal rule is pending review.",
+    "a": "Palpated nodule: measure TSH; normal/highTSH prompts ultrasound assessment; lowTSH prompts radionuclide assessment. The separate no-nodule universal rule is pending review.",
     "img": "/s2img/fm-242-0.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -14564,7 +14564,7 @@ export default [
   {
     "id": "s2fm-1265",
     "category": "Endocrine images",
-    "q": "What branch point distinguishes 21-hydroxylase from 11-beta-hydroxylase deficiency in the labeled sourceCAH diagram?",
+    "q": "What branch point distinguishes 21-hydroxylase from 11-beta-hydroxylase deficiency in the labeled source CAH diagram?",
     "a": "Salt-wasting/hyperkalemic low-pressure pattern favors 21 deficiency; hypertension and low/normal potassium favor 11-beta deficiency.",
     "img": "/s2img/fm-249-0.png",
     "alt": "Figure from the source PDF",
@@ -22747,6 +22747,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 169,
       "url": "/mehlman/hy-family-medicine.pdf#page=169"
+    },
+    "guideline": {
+      "text": "ADA Standards 2026 recommendation 12.22 lists gabapentinoids, SNRIs, TCAs and sodium-channel blockers as initial options (grade A), rather than a mandatory TCA-first/gabapentin-second order. TCA anticholinergic effects can limit dosing, especially at age 65 or older.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
     }
   },
   {
@@ -29208,6 +29212,427 @@ export default [
     "guideline": {
       "text": "AAP 2025 states no specific fracture is pathognomonic for abuse. Spiral injuries can occur unintentionally; age, mobility, history, mechanism, other injuries and full safeguarding assessment determine concern. A low-specificity pattern also cannot exclude abuse.",
       "url": "https://publications.aap.org/pediatrics/article/155/2/e2024070074/200638/Evaluating-Young-Children-With-Fractures-for-Child"
+    }
+  },
+  {
+    "id": "s2fm-2486",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What first-versus-second drug order does the rapid PDF assign to diabetic neuropathic pain?",
+    "a": "A TCA such as amitriptyline first, then gabapentin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "ADA Standards 2026 recommendation 12.22 lists gabapentinoids, SNRIs, TCAs and sodium-channel blockers as initial options (grade A), rather than a mandatory TCA-first/gabapentin-second order. TCA anticholinergic effects can limit dosing, especially at age 65 or older.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
+    }
+  },
+  {
+    "id": "s2fm-2487",
+    "category": "Rapid-bullet source distinctions",
+    "q": "Which drug does the PDF choose for an 82-year-old with diabetic pain unrelieved by carbamazepine and gabapentin?",
+    "a": "Switch to nortriptyline; it says this TCA has fewer adverse effects than other TCAs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-family-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "ADA 2026 lists several initial drug classes and warns TCA anticholinergic effects can be dose limiting, especially at 65 or older. This source vignette does not establish nortriptyline as automatically safe or the sole next choice for an older adult.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S261/163919/12-Retinopathy-Neuropathy-and-Foot-Care-Standards"
+    }
+  },
+  {
+    "id": "s2fm-2488",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What absolute statement does the rapid PDF make about desmopressin and imipramine for childhood bedwetting?",
+    "a": "It calls both medications always wrong.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "NICE CG111 offers desmopressin when rapid/short-term improvement is prioritized or an alarm is unsuitable, with fluid restriction from 1 hour before until 8 hours after dosing. Imipramine is not first-line but may be considered by an expert after other treatment fails; neither drug is categorically always wrong.",
+      "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2fm-2489",
+    "category": "Rapid-bullet source distinctions",
+    "q": "Why does the PDF insist that renovascular hypertension from FMD is not renal artery stenosis?",
+    "a": "It reserves the term renal artery stenosis for atherosclerosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "ESH/SVM international consensus 2019 describes renal artery stenosis from FMD and distinguishes it from atherosclerotic stenosis. Renal artery stenosis is an anatomic description, not an atherosclerosis-only term.",
+      "url": "https://www.eshonline.org/esh-content/uploads/2019/07/1.-First-international-consensus-on-the-diagnosis-and-management-of-FMD-.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2490",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What definitive procedure does the PDF group together for atherosclerotic renal artery disease and FMD?",
+    "a": "Renal angioplasty plus stenting.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "ESH/SVM international consensus 2019 recommends angioplasty alone for renal FMD when revascularization is indicated; stents are generally reserved for procedural complications such as dissection or rupture. This differs from the PDF routine-stent wording.",
+      "url": "https://www.eshonline.org/esh-content/uploads/2019/07/1.-First-international-consensus-on-the-diagnosis-and-management-of-FMD-.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2491",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What absolute prognosis does the PDF give for FMD?",
+    "a": "It says FMD is not curable.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "ESH/SVM consensus 2019 reports that hypertension can resolve after selected renal revascularization, with outcome depending on factors including age, hypertension duration and lesion pattern. Do not turn the source wording into a claim that blood pressure cannot improve or normalize.",
+      "url": "https://www.eshonline.org/esh-content/uploads/2019/07/1.-First-international-consensus-on-the-diagnosis-and-management-of-FMD-.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2492",
+    "category": "Rapid-bullet source distinctions",
+    "q": "Does a patient reporting memory loss exclude Alzheimer disease according to the rapid PDF?",
+    "a": "The rapid bullet labels a memory-loss complaint normal aging rather than Alzheimer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "NIA distinguishes mild age-related forgetfulness from MCI, dementia and treatable causes. A complaint alone neither proves normal aging nor excludes Alzheimer disease; severity, functional impact and clinical assessment matter.",
+      "url": "https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging"
+    }
+  },
+  {
+    "id": "s2fm-2493",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What activation pattern does the rapid PDF incorrectly use for essential tremor?",
+    "a": "It calls essential tremor a bilateral resting tremor in a young adult.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-family-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "NINDS defines the key essential-tremor feature as bilateral hand/arm tremor during action without other neurological signs. Rest tremor is a different activation category and is commonly seen in Parkinson disease.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/tremor"
+    }
+  },
+  {
+    "id": "s2fm-2494",
+    "category": "Rapid-bullet detailed review",
+    "q": "What headache vignette does the rapid PDF pair with tension-type headache?",
+    "a": "Diffuse headache in a 32-year-old relieved by acetaminophen and sleep; it suggests rest and tapering caffeine if used. These clues alone do not exclude a secondary headache.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-family-medicine.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2fm-2495",
+    "category": "Rapid-bullet detailed review",
+    "q": "What autonomic effect makes propranolol useful in source hyperthyroid examples?",
+    "a": "Beta-adrenergic blockade reduces adrenergic symptoms; the source also notes reduced peripheral T4-to-T3 conversion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-family-medicine.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2fm-2496",
+    "category": "Rapid-bullet detailed review",
+    "q": "How do injected T3 and injected T4 differ in the source laboratory thought experiment?",
+    "a": "T3 suppresses TSH and raises T3 without increasing T4 because conversion does not run from T3 back to T4. T4 suppresses TSH and can raise T4, T3 and reverse T3 through peripheral metabolism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-family-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2fm-2497",
+    "category": "Rapid-bullet detailed review",
+    "q": "What inactive thyroid-hormone metabolite does the PDF associate with illness/stress?",
+    "a": "Reverse T3, produced from T4. Its simplified nonthyroidal-illness pattern is low T3 with increased reverse T3; results vary with illness severity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-family-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2fm-2498",
+    "category": "Rapid-bullet detailed review",
+    "q": "What binding-protein change can explain low total T4 but normal free T4 in a child?",
+    "a": "Thyroxine-binding globulin deficiency; this differs from true low free hormone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-family-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2fm-2499",
+    "category": "Rapid-bullet detailed review",
+    "q": "What strength finding separates the source PMR pattern from polymyositis?",
+    "a": "PMR has pain and stiffness with preserved true strength; polymyositis has proximal weakness, which can coexist with pain or stiffness.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2fm-2500",
+    "category": "Rapid-bullet detailed review",
+    "q": "Which extra skin clues beyond heliotrope rash does the source list for dermatomyositis?",
+    "a": "Shawl-distribution rash, Gottron papules over knuckles and rough/scaly mechanic hands. These findings are clues rather than a complete diagnostic classification.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-family-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2fm-2501",
+    "category": "Rapid-bullet detailed review",
+    "q": "What distinction does the source make between Wernicke and Korsakoff presentations?",
+    "a": "Wernicke: ataxia, confusion and ophthalmoplegia. Korsakoff: chronic amnesia and confabulation. It associates both with thiamine deficiency and mammillary-body injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-2502",
+    "category": "Rapid-bullet detailed review",
+    "q": "Which everyday trigger does the PDF use to illustrate urge incontinence?",
+    "a": "Urgency when putting a key in the front door, reflecting its overactive-detrusor association rather than outlet-obstruction retention.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-2503",
+    "category": "Rapid-bullet detailed review",
+    "q": "What anatomic change does the PDF associate with multiparity-related stress leakage?",
+    "a": "Downward movement of the vesicourethral junction/urethral support, contrasted with an unstable detrusor in urge leakage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-family-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2fm-2504",
+    "category": "Rapid-bullet detailed review",
+    "q": "What two sensory distributions does the rapid PDF use to separate cauda equina from conus presentations?",
+    "a": "Saddle anesthesia with urinary retention for cauda equina, and perianal anesthesia with urinary dysfunction for conus. The patterns overlap; new symptoms are urgent, not a reason to wait for a perfect distinction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-2505",
+    "category": "Rapid-bullet detailed review",
+    "q": "What cognitive-testing behavior does the source contrast between Alzheimer and depressive cognitive symptoms?",
+    "a": "It depicts effort despite poor performance in Alzheimer versus apathy/slowness and poor serial sevens in depression. This is its vignette heuristic, not a reliable stand-alone diagnostic test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-2506",
+    "category": "Rapid-bullet detailed review",
+    "q": "What additional motor finding does the PDF say does not exclude normal-pressure hydrocephalus?",
+    "a": "Parkinsonism accompanying gait dysfunction, urinary incontinence and cognitive change; clinical evaluation still must consider other causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-family-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2fm-2507",
+    "category": "Rapid-bullet detailed review",
+    "q": "What initial change does the PDF include for a cast-associated compartment syndrome?",
+    "a": "Remove or loosen the constricting cast, while urgent assessment and definitive fasciotomy may be required. Uncasting is not proof compartment ischemia has resolved.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-family-medicine.pdf#page=278"
+    }
+  },
+  {
+    "id": "s2fm-2508",
+    "category": "Rapid-bullet detailed review",
+    "q": "What foot/hand symptom cluster does the source use for hyperviscosity?",
+    "a": "Blurry vision, Raynaud-type symptoms, painful fingers or headache. They are nonspecific clues, not a viscosity measurement or exclusive diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-2509",
+    "category": "Rapid-bullet detailed review",
+    "q": "Which inherited red-cell membrane disorder is paired with ankyrin, spectrin or band-protein defects?",
+    "a": "Hereditary spherocytosis, usually autosomal dominant in the source. It lists splenectomy as a treatment, not a mandatory intervention for every severity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-2510",
+    "category": "Rapid-bullet detailed review",
+    "q": "What is the PDF contrast between iron removal in hereditary versus transfusional iron overload?",
+    "a": "Serial phlebotomy for hereditary hemochromatosis versus chelation, such as deferoxamine, for transfusional siderosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-family-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2fm-2511",
+    "category": "Rapid-bullet detailed review",
+    "q": "Which anti-inflammatory treatment does the source give for an acute MS flare?",
+    "a": "IV methylprednisolone. This is its selected relapse treatment, not a complete assessment of infection, severity or steroid alternatives.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-family-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2fm-2512",
+    "category": "Rapid-bullet detailed review",
+    "q": "Which GABA receptor does baclofen stimulate in the source MS-spasticity example?",
+    "a": "GABA-B receptors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-family-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2fm-2513",
+    "category": "Rapid-bullet detailed review",
+    "q": "What pulse-contour description does the PDF pair with aortic regurgitation beyond a wide pulse pressure?",
+    "a": "A brisk upstroke followed by a precipitous downstroke, matching its bounding-pulse association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2fm-2514",
+    "category": "Rapid-bullet detailed review",
+    "q": "How does the PDF connect sarcoid vitamin-D activation with fecal calcium?",
+    "a": "Increased intestinal calcium absorption leaves less calcium to be excreted in feces; it links macrophage 1-alpha-hydroxylase with increased active vitamin D.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-2515",
+    "category": "Rapid-bullet detailed review",
+    "q": "What laboratory contrast does the PDF use between iron deficiency and thalassemia when reviewing RDW?",
+    "a": "Raised RDW for iron deficiency versus a lower/more uniform RDW for thalassemia. This is a pattern clue and does not exclude coexistence or replace iron/hemoglobin studies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2fm-2516",
+    "category": "Rapid-bullet detailed review",
+    "q": "What reason does the source give for peripheral edema after naproxen in osteoarthritis?",
+    "a": "Renal sodium retention after NSAID-related reduction of renal blood flow; retained sodium is accompanied by water.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-2517",
+    "category": "Rapid-bullet detailed review",
+    "q": "Which complement trend does the source pair with rising anti-dsDNA during an SLE flare?",
+    "a": "Falling C3. These trends can support assessment but do not independently define every flare.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-2518",
+    "category": "Rapid-bullet detailed review",
+    "q": "What clinical contrast does the source draw between platelet-type and clotting-factor-type bleeding?",
+    "a": "Platelet-type: epistaxis, bruising and petechiae. Factor-type: more substantial bleeding such as after dental extraction or into joints. Menstrual bleeding can overlap categories.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-2519",
+    "category": "Rapid-bullet detailed review",
+    "q": "Which osteoclast effect does the source assign to calcitonin?",
+    "a": "Inhibits osteoclast activity and limits calcium resorption; it does not simply deposit calcium back into bone as an exact opposite of PTH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-2520",
+    "category": "Rapid-bullet source distinctions",
+    "q": "What age-only shortcut does the PDF use for a beta-lactam rash during pharyngitis?",
+    "a": "It labels a rash in a 12-year-old beta-lactam allergy, contrasting a dating-age teenager with EBV.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-family-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A 2025 Cleveland Clinic Journal of Medicine review explains that an amoxicillin rash during infectious mononucleosis may be transient rather than true penicillin allergy, though persistent hypersensitivity can occur. Age alone cannot make this distinction; clinical assessment and appropriate allergy testing may be needed. This is a secondary review.",
+      "url": "https://www.ccjm.org/content/92/6/335"
     }
   }
 ];
