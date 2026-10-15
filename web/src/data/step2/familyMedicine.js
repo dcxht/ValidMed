@@ -43252,6 +43252,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 302,
       "url": "/mehlman/hy-family-medicine.pdf#page=302"
+    },
+    "guideline": {
+      "text": "ADA Standards 2026 recommendation 6.3a gives A1c below 7% as appropriate for many nonpregnant adults without severe or burdensome hypoglycemia, not a universal target. Recommendations 6.4-6.8 allow lower or less stringent goals and treatment changes based on health, function, hypoglycemia risk, burden and preferences. A1c in the 7s is not automatically acceptable for every patient, and reducing long-term complications also requires disease-specific cardiovascular and kidney care.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690178/"
     }
   },
   {
@@ -43588,6 +43592,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 314,
       "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "The AAN/AES/SMFM 2024 clinician guideline summary explicitly states valproate teratogenesis is not exclusively through disrupted folate metabolism. Risks differ by drug; avoiding valproate when clinically feasible must be balanced with seizure control, and removing an effective drug after pregnancy begins requires caution. Its recommendations include specialist-selected regimens and folic acid for people with epilepsy taking antiseizure medication. Do not reduce the mechanism to universal folate malabsorption or stop treatment from this card.",
+      "url": "https://aanfiles.blob.core.windows.net/guidelines/1e977235-86cb-45bc-b180-4e5dd8cc4f95/24%20ClinicianGL-EpilepsyPregnancy.pdf"
     }
   },
   {
