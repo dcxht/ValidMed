@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points from pp. 4-78; full coverage in progress.
+// Source-linked clinical review. Selected points from pp. 4-97; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -2968,6 +2968,589 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-0271",
+    "category": "Microcytic anemia",
+    "q": "Microcytic anemia occurs with low iron and low ferritin. What is the likely deficiency?",
+    "a": "Iron deficiency anemia. Ferritin reflects iron stores; menstrual blood loss is a common cause in premenopausal patients.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-family-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2fm-0272",
+    "category": "Microcytic anemia",
+    "q": "Microcytosis persists despite iron treatment and iron stores are normal. Which inherited hemoglobin disorder should be considered?",
+    "a": "Thalassemia. Hemoglobin electrophoresis can help evaluate beta-thalassemia, although alpha-thalassemia trait can have a normal result.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-family-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2fm-0273",
+    "category": "Microcytic anemia",
+    "q": "Which electrophoresis pattern supports beta-thalassemia?",
+    "a": "Increased HbA2 and HbF. Alpha-thalassemia trait may have normal electrophoresis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-0274",
+    "category": "Microcytic anemia",
+    "q": "Severe thalassemia requiring repeated transfusions leads to iron overload. What treatment category is described?",
+    "a": "Iron chelation, such as deferoxamine, for transfusional siderosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-0275",
+    "category": "Anemia of inflammation",
+    "q": "An anemic patient with RA or chronic infection has low serum iron but normal or increased ferritin. What is the pattern?",
+    "a": "Anemia of chronic disease or inflammation. Hepcidin and cytokines reduce iron availability despite stored iron.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-0276",
+    "category": "Anemia of inflammation",
+    "q": "Must anemia of chronic disease always have a normal MCV?",
+    "a": "No. The PDF emphasizes that it can also be microcytic.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-0277",
+    "category": "Plasma-cell disorders",
+    "q": "An older adult has back pain, anemia and hypercalcemia with lytic bone lesions. What diagnosis is suggested?",
+    "a": "Multiple myeloma, a plasma-cell neoplasm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-0278",
+    "category": "Plasma-cell disorders",
+    "q": "A patient with suspected myeloma has a monoclonal spike on serum protein electrophoresis. What tissue study confirms clonal plasma-cell proliferation?",
+    "a": "Bone marrow examination. The PDF emphasizes increased plasma cells; the diagnosis also depends on the clinical and laboratory context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-0279",
+    "category": "Plasma-cell disorders",
+    "q": "What are Bence-Jones proteins?",
+    "a": "Monoclonal immunoglobulin light chains excreted in urine, associated with plasma-cell disorders such as multiple myeloma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-0280",
+    "category": "Plasma-cell disorders",
+    "q": "RBCs stack like coins in a patient with high serum monoclonal proteins. What is the smear finding called?",
+    "a": "Rouleaux formation, associated with multiple myeloma and increased sedimentation rate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2fm-0281",
+    "category": "Plasma-cell disorders",
+    "q": "A patient has an IgM monoclonal protein with headache, blurred vision and hyperviscosity, without myeloma-type lytic lesions. What diagnosis is suggested?",
+    "a": "Waldenström macroglobulinemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-0282",
+    "category": "Myeloproliferative disease",
+    "q": "High hemoglobin plus increased WBCs or platelets, low EPO and itching after a hot shower suggest what disease?",
+    "a": "Polycythemia vera, commonly associated with a JAK2 mutation. Phlebotomy reduces symptomatic hyperviscosity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-0283",
+    "category": "Myeloproliferative disease",
+    "q": "High hemoglobin occurs with high EPO but otherwise normal cell lines in a hypoxemic patient. What type of erythrocytosis is this?",
+    "a": "Secondary polycythemia, driven by EPO. Other causes in the PDF include EPO-producing renal tumors and exogenous EPO.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-0284",
+    "category": "Bleeding disorders",
+    "q": "Which screening coagulation test reflects the extrinsic pathway, and which reflects the intrinsic pathway?",
+    "a": "PT reflects the extrinsic pathway; aPTT reflects the intrinsic pathway. Abnormalities in the common pathway can prolong both.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-family-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2fm-0285",
+    "category": "Bleeding disorders",
+    "q": "A child develops petechiae and epistaxis with isolated thrombocytopenia after a viral illness. What diagnosis is suggested?",
+    "a": "Immune thrombocytopenia. PT and aPTT are generally normal because the primary problem is platelet destruction rather than coagulation-factor deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-0286",
+    "category": "Bleeding disorders",
+    "q": "A young woman has heavy menses and epistaxis with a normal platelet count. What inherited bleeding disorder is suggested?",
+    "a": "Von Willebrand disease. Platelet adhesion is impaired; aPTT may be prolonged but can be normal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-0287",
+    "category": "Bleeding disorders",
+    "q": "Why can von Willebrand disease prolong aPTT despite normal platelet count?",
+    "a": "Von Willebrand factor stabilizes factor VIII. Reduced factor VIII activity can impair the intrinsic pathway in addition to the platelet-adhesion defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-family-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2fm-0288",
+    "category": "Bleeding disorders",
+    "q": "A boy has hemarthroses and an isolated prolonged aPTT. What inherited deficiencies are suggested?",
+    "a": "Hemophilia A, factor VIII deficiency, or hemophilia B, factor IX deficiency. Both are X-linked recessive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-0289",
+    "category": "Bleeding disorders",
+    "q": "A patient with hemophilia A stops responding to factor VIII replacement. What complication should be checked?",
+    "a": "An inhibitor antibody against factor VIII.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-0290",
+    "category": "Bleeding disorders",
+    "q": "A neonate bleeds from the umbilical stump. Which vitamin-related deficiency is emphasized?",
+    "a": "Vitamin K deficiency, impairing activation of factors II, VII, IX and X as well as proteins C and S.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-0291",
+    "category": "Thrombotic microangiopathy",
+    "q": "Thrombocytopenia, schistocytes and neurologic changes raise concern for TTP. Which protein is implicated and what urgent therapy is named?",
+    "a": "ADAMTS13 deficiency or inhibition, impairing cleavage of large von Willebrand factor multimers. The PDF names plasma exchange. The full classic pentad need not be awaited.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-0292",
+    "category": "Sickle-cell disease",
+    "q": "A child with sickle-cell disease has recurrent painful crises. Which drug increases HbF to reduce recurrence?",
+    "a": "Hydroxyurea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-family-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2fm-0293",
+    "category": "Myeloproliferative disease",
+    "q": "Massive splenomegaly, tear-drop RBCs and a dry bone-marrow aspirate suggest what disease?",
+    "a": "Myelofibrosis, often associated with JAK2 mutations and marrow fibrosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2fm-0294",
+    "category": "Myeloproliferative disease",
+    "q": "Marked thrombocytosis with painful fingertips or hyperviscosity and no inflammatory trigger suggests what neoplasm?",
+    "a": "Essential thrombocythemia. The PDF contrasts it with reactive thrombocytosis after infection or inflammation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2fm-0295",
+    "category": "Autoimmune cytopenias",
+    "q": "An SLE patient has low RBCs, WBCs and platelets. What broad mechanism does Mehlman emphasize?",
+    "a": "Immune-mediated peripheral destruction, rather than automatically assuming deficient marrow production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-family-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2fm-0296",
+    "category": "Neutropenia",
+    "q": "A chemotherapy patient has fever and severe neutropenia. What immediate treatment is emphasized?",
+    "a": "Urgent IV broad-spectrum antibiotics. Febrile neutropenia is an emergency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-0297",
+    "category": "Neutropenia",
+    "q": "A young child has recurrent fever and mouth ulcers at roughly three-week intervals. What disorder is suggested?",
+    "a": "Cyclic neutropenia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-0298",
+    "category": "Marrow failure",
+    "q": "Pancytopenia occurs after marrow-toxic therapy. What marrow-failure syndrome is described?",
+    "a": "Aplastic anemia, with reduced production across RBCs, leukocytes and platelets.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-0299",
+    "category": "Marrow failure",
+    "q": "Only red-cell production is suppressed, with a possible thymoma association. What syndrome is described?",
+    "a": "Pure red-cell aplasia. The PDF also names parvovirus B19 as a cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-family-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2fm-0300",
+    "category": "Hemolytic anemia",
+    "q": "A child and parent have hemolytic anemia, pigment stones and spherical RBCs without central pallor. Coombs testing is negative. What inherited disorder is suggested?",
+    "a": "Hereditary spherocytosis, an autosomal dominant red-cell membrane/cytoskeletal disorder involving proteins such as spectrin or ankyrin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-0301",
+    "category": "Hemolytic anemia",
+    "q": "How does a positive direct Coombs test help distinguish immune hemolysis from hereditary spherocytosis?",
+    "a": "It supports antibodies attached to RBCs, favoring immune hemolysis. Hereditary spherocytosis is a membrane defect and is generally Coombs-negative.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-family-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2fm-0302",
+    "category": "Leukocytosis",
+    "q": "A severe infection produces marked neutrophilic leukocytosis with elevated leukocyte alkaline phosphatase. What reactive process can mimic leukemia?",
+    "a": "A leukemoid reaction. The source contrasts it with CML, which can show a broad myeloid precursor spectrum and low leukocyte alkaline phosphatase.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-0303",
+    "category": "Leukemia",
+    "q": "A young child has markedly increased lymphoblasts and suspected leukemia. Which leukemia is most typical?",
+    "a": "Acute lymphoblastic leukemia. Down syndrome increases leukemia risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2fm-0304",
+    "category": "Leukemia",
+    "q": "An older adult has marked lymphocytosis and smudge cells. What leukemia is suggested?",
+    "a": "Chronic lymphocytic leukemia, associated with CD5 and CD23 expression and sometimes autoimmune hemolysis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2fm-0305",
+    "category": "Leukemia",
+    "q": "A smear shows Auer rods in myeloid blasts. What leukemia lineage is suggested?",
+    "a": "Acute myeloid leukemia. Treatment depends on subtype; the PDF's retinoic-acid point applies specifically to acute promyelocytic leukemia, not all AML.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-family-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2fm-0306",
+    "category": "Leukemia",
+    "q": "A leukemia has BCR-ABL from t(9;22), many stages of myeloid maturation and low leukocyte alkaline phosphatase. What is the diagnosis and targeted drug?",
+    "a": "Chronic myeloid leukemia. Imatinib inhibits BCR-ABL tyrosine kinase.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-0307",
+    "category": "Leukemia",
+    "q": "A patient has cytopenias and lymphoid cells with cytoplasmic projections that stain TRAP-positive. What leukemia is suggested?",
+    "a": "Hairy-cell leukemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-family-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2fm-0308",
+    "category": "Lymphoma",
+    "q": "A painless neck node with systemic symptoms shows Reed-Sternberg cells. What lymphoma is suggested?",
+    "a": "Hodgkin lymphoma. A normal peripheral leukocyte count does not rule out a lymphatic-tissue malignancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-0309",
+    "category": "Lymphoma",
+    "q": "A rapidly growing jaw or abdominal tumor carries a MYC t(8;14) rearrangement. Which lymphoma is suggested?",
+    "a": "Burkitt lymphoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-0310",
+    "category": "Lymphoma",
+    "q": "Waxing and waning painless lymphadenopathy carries BCL2 t(14;18). What lymphoma is suggested?",
+    "a": "Follicular lymphoma, an indolent B-cell non-Hodgkin lymphoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-family-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2fm-0311",
+    "category": "Lymphoma",
+    "q": "What common aggressive B-cell non-Hodgkin lymphoma is abbreviated DLBCL?",
+    "a": "Diffuse large B-cell lymphoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2fm-0312",
+    "category": "Lymphoma",
+    "q": "A chronic rash is caused by a cutaneous T-cell lymphoma with cerebriform cells. What skin-limited disease is named?",
+    "a": "Mycosis fungoides. Sézary syndrome represents a related leukemic presentation with blood involvement and erythroderma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2fm-0313",
+    "category": "Hemolytic anemia",
+    "q": "How do antibody classes differ in warm and cold autoimmune hemolytic anemia?",
+    "a": "Warm autoimmune hemolysis is associated with IgG; cold agglutinin disease with IgM. Both can have positive Coombs testing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-family-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2fm-0314",
+    "category": "Hemolytic anemia",
+    "q": "Jaundice and hemolysis follow an oxidant drug or infection in a boy, with bite cells and Heinz bodies. What enzyme deficiency is suggested?",
+    "a": "G6PD deficiency. Reduced NADPH protection makes red cells vulnerable to oxidative damage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-0315",
+    "category": "Macrocytic anemia",
+    "q": "Macrocytosis plus hypersegmented neutrophils suggests deficiency of which two vitamins?",
+    "a": "Folate or vitamin B12, causing megaloblastic anemia from impaired DNA synthesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-family-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2fm-0316",
+    "category": "Heme synthesis disorders",
+    "q": "Ringed sideroblasts on Prussian-blue staining suggest what anemia category?",
+    "a": "Sideroblastic anemia, with impaired incorporation of iron into heme. Alcohol is one acquired cause named in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-0317",
+    "category": "Heme synthesis disorders",
+    "q": "Microcytic anemia and cognitive or neurologic changes occur after lead exposure. What smear finding is emphasized?",
+    "a": "Basophilic stippling. The source lists calcium EDTA, dimercaprol and succimer as chelation agents used in appropriate cases.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-0318",
+    "category": "Heme synthesis disorders",
+    "q": "Recurrent abdominal pain with dark or reddish urine and neurologic symptoms suggests which acute porphyria?",
+    "a": "Acute intermittent porphyria. The PDF names hemin and glucose treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-0319",
+    "category": "Heme synthesis disorders",
+    "q": "Photosensitivity with blistering and dark urine suggests which porphyria?",
+    "a": "Porphyria cutanea tarda.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-family-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2fm-0320",
+    "category": "Antithrombotic drugs",
+    "q": "Which antiplatelet drug irreversibly inhibits cyclooxygenase and reduces thromboxane A2 synthesis?",
+    "a": "Aspirin. GI bleeding and renal adverse effects are important risks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2fm-0321",
+    "category": "Antithrombotic drugs",
+    "q": "Which platelet receptor is inhibited by clopidogrel?",
+    "a": "The ADP P2Y12 receptor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-family-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2fm-0322",
+    "category": "Antithrombotic drugs",
+    "q": "Why can CYP450 inhibitors raise bleeding risk in a patient on warfarin?",
+    "a": "They can reduce warfarin metabolism, raising anticoagulant effect and INR. CYP inducers can have the opposite effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2fm-0323",
+    "category": "Antithrombotic drugs",
+    "q": "Which vitamin-K antagonist anticoagulant is teratogenic and generally avoided in pregnancy?",
+    "a": "Warfarin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-family-medicine.pdf#page=97"
     }
   }
 ];
