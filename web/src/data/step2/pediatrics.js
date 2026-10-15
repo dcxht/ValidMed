@@ -12783,5 +12783,155 @@ export default [
       "text": "The 2025 HDFN review explains the acid-elution method and its role in estimating fetal-cell percentage for immune-globulin dose adjustment. Interpret the test in context rather than as a direct fetal blood type.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
     }
+  },
+  {
+    "id": "s2peds-0926",
+    "category": "Neonatology",
+    "q": "How can the fetal-cell fraction on a Kleihauer-Betke test affect Rh immune-globulin dosing?",
+    "a": "A larger fetomaternal hemorrhage may require more than the routine prophylactic dose. The source uses the fetal RBC fraction in maternal blood to guide the amount needed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "The 2025 HDFN review describes quantitative acid-elution testing after a positive rosette screen to determine whether additional doses are required. This is not a reason to use prophylaxis as treatment for established immune anti-D sensitization.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-0927",
+    "category": "Neonatology",
+    "q": "Why does the source third-trimester anti-D vignette have an increased fetal heart rate?",
+    "a": "Rh isoimmunization causes fetal RBC destruction, reducing oxygen-carrying capacity. The source explains tachycardia as compensation for the resulting anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "Merck April 2024 supports fetal anemia and possible high-output failure from Rh-mediated disease. Tachycardia alone is nonspecific; antibody identification and fetal-anemia assessment are needed rather than diagnosing alloimmunization from heart rate alone.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/hemolytic-disease-of-the-fetus-and-neonate"
+    }
+  },
+  {
+    "id": "s2peds-0928",
+    "category": "Neonatology",
+    "q": "Why can ABO antibodies cause neonatal hemolysis particularly when the mother has type O blood?",
+    "a": "Anti-A and anti-B antibodies are often IgM, which does not cross the placenta, but type O mothers may have a clinically important IgG fraction. Maternal IgG can cross and target fetal A or B antigens.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "The 2025 HDFN review supports preexisting type O maternal IgG anti-A/anti-B and the placental-crossing distinction. ABO incompatibility is common, but clinically important hemolysis is not inevitable.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-0929",
+    "category": "Neonatology",
+    "q": "Which classic source blood-type pairing points to ABO hemolytic disease in a first pregnancy?",
+    "a": "An O-positive mother and a type A or type B fetus or newborn. Preexisting maternal IgG permits ABO disease in the first pregnancy, unlike the classic prior-sensitization RhD sequence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "The 2025 HDFN review describes first-pregnancy ABO disease, mainly with an O mother and A or B fetus, and generally milder disease than Rh-mediated HDFN. Neither the first-pregnancy timing nor Rh positivity is required for ABO disease.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-0930",
+    "category": "Neonatology",
+    "q": "Does the source O-positive first-pregnancy teaching pattern mean ABO hemolytic disease cannot occur in an Rh-negative mother or a later pregnancy?",
+    "a": "No. The PDF explicitly says an Rh-negative mother in a second pregnancy can also have ABO disease. The O-positive first-pregnancy pairing is a teaching cue, not an exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "ABO and RhD are separate antigen systems. The 2025 HDFN review supports antibody specificity and fetal antigen compatibility as the basis of diagnosis rather than pregnancy number alone.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-0931",
+    "category": "Neonatology",
+    "q": "Which non-D blood-group antigens does the source list as additional causes of fetal or neonatal hemolytic disease?",
+    "a": "Kell, Duffy and Kidd. A routine ABO group and RhD-positive result do not describe all clinically relevant RBC antigens.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "Merck April 2024 lists Kell, Duffy, Kidd and other systems. The BSH 2025 guideline summary also identifies anti-K and anti-c, alongside anti-D, as important fetal and neonatal risks.",
+      "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/hemolytic-disease-of-the-fetus-and-neonate"
+    }
+  },
+  {
+    "id": "s2peds-0932",
+    "category": "Neonatology",
+    "q": "How is non-D alloimmune HDFN similar to RhD disease, and what Kell-specific distinction matters?",
+    "a": "Maternal sensitization produces antigen-specific IgG that can affect an antigen-positive fetus. The source calls the process the same as Rh disease, but anti-K can also suppress fetal RBC production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "ARUP, updated July 2025, describes transplacental maternal IgG and severe anti-K anemia from suppression of fetal RBC synthesis. Do not reduce Kell anemia to hemolysis alone.",
+      "url": "https://arupconsult.com/ati/alloimmune-hemolytic-disease-fetus-and-newborn-rhcc-rhee-rhd-or-kell-antigen-genotyping"
+    }
+  },
+  {
+    "id": "s2peds-0933",
+    "category": "Neonatology",
+    "q": "What does the source want you to consider when an RhD-positive mother with type A, B or AB blood has fetal hemolysis and a positive minor-antigen antibody titer?",
+    "a": "A non-D alloantibody such as anti-K, anti-Duffy or anti-Kidd. The source uses the mother's blood type to steer away from its classic O-mother ABO and RhD-negative-mother examples.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "ARUP describes other Rh antigens including C, c, E and e as well as Kell. RhD positivity does not mean all Rh-system incompatibility is excluded, and blood type alone cannot identify the cause of fetal anemia.",
+      "url": "https://arupconsult.com/ati/alloimmune-hemolytic-disease-fetus-and-newborn-rhcc-rhee-rhd-or-kell-antigen-genotyping"
+    }
+  },
+  {
+    "id": "s2peds-0934",
+    "category": "Neonatology",
+    "q": "What source next step helps assess fetal risk when the mother has a clinically significant anti-K antibody?",
+    "a": "Check the biological father's Kell antigen status, and assess zygosity when relevant. This asks whether the fetus could inherit the antigen targeted by maternal anti-K.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "ARUP supports paternal K/k genotyping when the reproductive partner has a significant alloantibody and fetal genotyping when the father is heterozygous or unavailable. Merck conditions paternal interpretation on reliable paternity.",
+      "url": "https://arupconsult.com/ati/alloimmune-hemolytic-disease-fetus-and-newborn-rhcc-rhee-rhd-or-kell-antigen-genotyping"
+    }
+  },
+  {
+    "id": "s2peds-0935",
+    "category": "Neonatology",
+    "q": "If a mother has anti-K and the father is K-positive, does that prove the fetus is K-positive?",
+    "a": "No. The source infers that an anti-K-producing mother lacks the target K antigen and that a K-positive father makes a K-positive fetus possible. Paternal positivity alone does not establish the fetal genotype.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 65,
+      "url": "/mehlman/hy-pediatrics.pdf#page=65"
+    },
+    "guideline": {
+      "text": "ARUP describes paternal antigen copy-number testing and fetal genotyping when the father is heterozygous. The father's antigen status estimates inheritance risk; it does not replace fetal assessment or establish that anemia is present.",
+      "url": "https://arupconsult.com/ati/alloimmune-hemolytic-disease-fetus-and-newborn-rhcc-rhee-rhd-or-kell-antigen-genotyping"
+    }
   }
 ];
