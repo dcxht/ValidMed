@@ -20440,5 +20440,206 @@ export default [
     },
     "img": "/mehlman/figures/peds-p101-preauricular-pit.png",
     "imgAlt": "Actual source photograph of a preauricular pit"
+  },
+  {
+    "id": "s2peds-1436",
+    "category": "Pediatric dermatology",
+    "q": "What does p102 say about the significance of preauricular pits?",
+    "a": "They are benign findings and usually not associated with any congenital disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "PCDS calls them benign congenital malformations that need no investigation when isolated, but rare associations include hearing loss and branchio-oto-renal syndrome, so routine newborn hearing screening should be confirmed.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/pre-auricular-pits"
+    }
+  },
+  {
+    "id": "s2peds-1437",
+    "category": "Pediatric dermatology",
+    "q": "What treatment rule does p102 give for preauricular pits?",
+    "a": "No treatment is necessary. If they become infected frequently, do surgical closure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "PCDS agrees: reassurance is usual, most pits need no treatment, and complete excision is indicated only for recurrent infection.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/pre-auricular-pits"
+    }
+  },
+  {
+    "id": "s2peds-1438",
+    "category": "Pediatric hematology-oncology",
+    "q": "Which large purpuric vascular lesion with thrombocytopenia is shown on p102?",
+    "a": "Kasabach-Merritt syndrome, now more precisely called Kasabach-Merritt phenomenon.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "Current vascular-anomaly literature defines Kasabach-Merritt phenomenon as profound thrombocytopenia with consumptive coagulopathy associated with kaposiform hemangioendothelioma or tufted angioma.",
+      "url": "https://link.springer.com/article/10.1186/s13023-020-1320-1"
+    },
+    "img": "/mehlman/figures/peds-p102-kasabach-merritt-phenomenon.png",
+    "imgAlt": "Actual source photograph of a large purpuric vascular tumor associated with Kasabach-Merritt phenomenon"
+  },
+  {
+    "id": "s2peds-1439",
+    "category": "Pediatric hematology-oncology",
+    "q": "What alternate name does p102 give for Kasabach-Merritt syndrome?",
+    "a": "The source calls it infantile hemangioma with thrombocytopenia and says it is asked several times on Step 2 CK pediatrics assessments.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "Preserve the source's exam phrase, but current literature says the lesions previously called hemangiomas in Kasabach-Merritt phenomenon are not common infantile hemangiomas; they are kaposiform hemangioendothelioma or tufted angioma.",
+      "url": "https://link.springer.com/article/10.1186/s13023-020-1320-1"
+    }
+  },
+  {
+    "id": "s2peds-1440",
+    "category": "Pediatric hematology-oncology",
+    "q": "Why does the p102 Kasabach-Merritt patient develop thrombocytopenia?",
+    "a": "Platelets are sequestered within the vascular lesion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "Current reviews describe intralesional platelet aggregation with profound thrombocytopenia, consumptive coagulopathy, hypofibrinogenemia and purpuric enlargement of the kaposiform hemangioendothelioma or tufted angioma.",
+      "url": "https://link.springer.com/article/10.1186/s13023-020-1320-1"
+    }
+  },
+  {
+    "id": "s2peds-1441",
+    "category": "Pediatric hematology-oncology",
+    "q": "How does p102 distinguish Kasabach-Merritt syndrome from strawberry hemangioma?",
+    "a": "Kasabach-Merritt syndrome is large and deforming; do not confuse it with the smaller strawberry hemangioma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "Current literature makes this a true entity distinction rather than only a size distinction: Kasabach-Merritt phenomenon is associated with kaposiform hemangioendothelioma or tufted angioma, not common infantile hemangioma.",
+      "url": "https://link.springer.com/article/10.1186/s13023-020-1320-1"
+    }
+  },
+  {
+    "id": "s2peds-1442",
+    "category": "Pediatric hematology-oncology",
+    "q": "What treatment does p102 give for Kasabach-Merritt syndrome?",
+    "a": "The source's treatment answer is surgical.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "Current reviews say treatment is individualized; Kasabach-Merritt phenomenon is usually treated aggressively with combined medical regimens, including sirolimus plus short-term corticosteroids or vincristine plus corticosteroids, and elective resection during active KMP is usually ill advised.",
+      "url": "https://link.springer.com/article/10.1186/s13023-020-1320-1"
+    }
+  },
+  {
+    "id": "s2peds-1443",
+    "category": "Pediatric dermatology",
+    "q": "Which patterned injury is shown by the p102 round hand lesion?",
+    "a": "A cigarette burn concerning for non-accidental injury.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "DermNet says abusive cigarette burns are suspected when one or more rounded ulcers or erosions are present, sometimes with singed vellus hairs.",
+      "url": "https://dermnetnz.org/topics/skin-signs-of-non-accidental-injury"
+    },
+    "img": "/mehlman/figures/peds-p102-cigarette-burn.png",
+    "imgAlt": "Actual source photograph of a round cigarette burn on a child's hand"
+  },
+  {
+    "id": "s2peds-1444",
+    "category": "Pediatric dermatology",
+    "q": "What is the p102 exam answer when this cigarette-burn image is shown?",
+    "a": "Contact child protective services.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "DermNet notes there is usually a legal obligation to report suspected physical abuse, neglect or sexual abuse, with local laws and protocols controlling the exact route.",
+      "url": "https://dermnetnz.org/topics/skin-signs-of-non-accidental-injury"
+    }
+  },
+  {
+    "id": "s2peds-1445",
+    "category": "Pediatric dermatology",
+    "q": "What location and mimic does p102 give for cigarette burns?",
+    "a": "They can also be on the face and may resemble impetigo when lesions are at different stages of healing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "DermNet supports rounded ulcers or erosions as suspicious cigarette-burn morphology and emphasizes documenting the whole skin examination plus the history because mimicry and inconsistent mechanisms matter.",
+      "url": "https://dermnetnz.org/topics/skin-signs-of-non-accidental-injury"
+    }
+  },
+  {
+    "id": "s2peds-1446",
+    "category": "Pediatric dermatology",
+    "q": "Which benign newborn facial finding is shown by the tiny white papules on p102?",
+    "a": "Milia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "DermNet describes neonatal milia as tiny pearly-white keratin cysts, common on the nose and elsewhere on the face.",
+      "url": "https://dermnetnz.org/topics/milium"
+    },
+    "img": "/mehlman/figures/peds-p102-milia.png",
+    "imgAlt": "Actual source photograph of milia on a newborn's nose and cheek"
+  },
+  {
+    "id": "s2peds-1447",
+    "category": "Pediatric dermatology",
+    "q": "How does p102 describe milia?",
+    "a": "Milk spots from clogged eccrine ducts; a common, benign finding in babies.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "PCDS describes milia as small subepidermal keratin cysts mainly arising from undeveloped sebaceous glands and sometimes sweat glands. DermNet says neonatal milia affect 40-50% of newborns and heal spontaneously within a few weeks.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/milia"
+    }
+  },
+  {
+    "id": "s2peds-1448",
+    "category": "Pediatric dermatology",
+    "q": "What treatment rule and wrong answers does p102 give for milia?",
+    "a": "No treatment is necessary. Exfoliative cleanser and topical low-dose corticosteroid are the source's wrong answers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 102,
+      "url": "/mehlman/hy-pediatrics.pdf#page=102"
+    },
+    "guideline": {
+      "text": "PCDS says treatment is not necessary and most milia disappear spontaneously. DermNet also says treatment is unnecessary unless the lesions concern the patient.",
+      "url": "https://www.pcds.org.uk/clinical-guidance/milia"
+    }
   }
 ];
