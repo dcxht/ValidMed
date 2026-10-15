@@ -1,4 +1,3 @@
-// Source-linked clinical review. Selected points through p. 317; detailed coverage pass in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -28995,6 +28994,66 @@ export default [
     "guideline": {
       "text": "NIDDK identifies levothyroxine, identical to T4, as the recommended treatment for hypothyroidism. The source pairing should not be read as routine interchangeability of T4 and T3 monotherapy.",
       "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease"
+    }
+  },
+  {
+    "id": "s2fm-2472",
+    "category": "Endocrine precise-source review",
+    "q": "How does the PDF distinguish hydrocortisone from cortisol in its exogenous-steroid pattern?",
+    "a": "It says prednisone and hydrocortisone are not the same as cortisol, so native ACTH/cortisol can be low despite Cushing features.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "LactMed (December 2024), a clinical reference hosted by NCBI, explicitly names hydrocortisone as cortisol. Endogenous-production suppression is separate from chemical identity; assay results depend on the administered drug and timing.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK500976/"
+    }
+  },
+  {
+    "id": "s2fm-2473",
+    "category": "Endocrine tumor source review",
+    "q": "What hormone does the PDF blame for the hypertension and hypokalemia of 17-hydroxylase deficiency?",
+    "a": "High aldosterone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-family-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "StatPearls 17-hydroxylase review, a secondary source, identifies accumulated deoxycorticosterone and corticosterone-related mineralocorticoid activity as the main mechanism. Aldosterone can vary; the physiology should not be reduced to obligatory high aldosterone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546644/"
+    }
+  },
+  {
+    "id": "s2fm-2474",
+    "category": "Endocrine tumor source review",
+    "q": "Which immunostain does the PDF use as a broad carcinoid-tumor identifier?",
+    "a": "S-100 positivity, with small blue cells.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    },
+    "guideline": {
+      "text": "A 2021 peer-reviewed pathology review, a secondary source, describes chromogranin/synaptophysin-based panels with site/type exceptions and S100-positive sustentacular cells in some appendiceal NETs. S100 alone is not a universal tumor-cell identifier or a stand-alone exclusion test.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8138694/"
+    }
+  },
+  {
+    "id": "s2fm-2475",
+    "category": "Endocrine tumor source review",
+    "q": "What adrenal explanation accompanies the PDF Carney-complex Cushing pattern?",
+    "a": "Granular hyperpigmentation of the zona fasciculata, in its endocrine-hypersecretion example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-family-medicine.pdf#page=251"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics identifies primary pigmented nodular adrenocortical disease as the cortisol-excess lesion in about one-quarter of people with Carney complex. PRKAR1A variants cause most cases, rather than pigmentation alone defining the mechanism.",
+      "url": "https://medlineplus.gov/genetics/condition/carney-complex/"
     }
   }
 ];
