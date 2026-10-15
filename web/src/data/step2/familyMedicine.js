@@ -30838,7 +30838,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "The official ACOG perinatal-treatment page recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. A third-party-hosted PDF claims to reproduce lithium-specific guidance, but publisher-text verification of those details remains pending.",
+      "text": "ACOG recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. The lithium-specific details of its member/subscriber guideline have not been independently verified here.",
       "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     },
     "sourcePages": [
@@ -30873,7 +30873,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "The official ACOG perinatal-treatment page recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. A third-party-hosted PDF claims to reproduce lithium-specific guidance, but publisher-text verification of those details remains pending.",
+      "text": "ACOG recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. The lithium-specific details of its member/subscriber guideline have not been independently verified here.",
       "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     }
   },
@@ -41608,8 +41608,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=236"
     },
     "guideline": {
-      "text": "CDC September 2026 influenza guidance licenses live intranasal FluMist for ages 2-49, not 2-45. Age-appropriate injected influenza starts at 6 months; some children need two doses. COVID schedules are a separate product-, age-, immune-status- and history-specific decision, not a fixed universal 2-3-dose rule.",
-      "url": "https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html"
+      "text": "CDC September 2026 influenza guidance licenses live intranasal FluMist for ages 2-49, not 2-45. Injected influenza starts at 6 months; some children need two doses. Separately, CDC September 23, 2026 COVID guidance for 2026-2027 recommends vaccination for all adults18+, and for children6months-17years with moderate/severe immunocompromise; other children use shared clinical decision-making. Dose counts depend on age, product, history and immune status, not universal2-3doses. The current routine table uses2initial Moderna doses for unvaccinated6-23months,1dose for ages2-64, and2seasonal doses6months apart for65+, with product-specific minimum intervals. The CDC tables explicitly distinguish recommended off-label uses from FDA-approved indications. Immunocompromised schedules require their separate table. See the linked COVID table as well as the influenza source. Influenza source: https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html",
+      "url": "https://www.cdc.gov/covid/hcp/vaccine-considerations/routine-guidance.html"
     },
     "sourcePages": [
       236,
@@ -43559,7 +43559,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=314"
     },
     "guideline": {
-      "text": "The official ACOG perinatal-treatment page recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. A third-party-hosted PDF claims to reproduce lithium-specific guidance, but publisher-text verification of those details remains pending.",
+      "text": "ACOG recommends against withholding or stopping psychiatric medication because of pregnancy or lactation alone. Blanket lithium avoidance is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. The lithium-specific details of its member/subscriber guideline have not been independently verified here.",
       "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     }
   },
