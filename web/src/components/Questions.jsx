@@ -65,6 +65,11 @@ function AnswerText({ text }) {
   );
 }
 
+function GuidelineNote({ note }) {
+  if (!note) return null;
+  return <p className="q-guideline-note">{note.text} <a href={note.url} target="_blank" rel="noreferrer">Source ↗</a></p>;
+}
+
 function storageKey(bank) { return key(`validmed_step2_q_${bank}`); }
 
 function shuffle(arr) {
@@ -819,6 +824,7 @@ export default function Questions() {
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
                     <AnswerText text={item.a} />
+                    <GuidelineNote note={item.guideline} />
                     {item.source && <a className="q-source" href={item.source.url} target="_blank" rel="noreferrer">p. {item.source.page} ↗</a>}
                     {item.aimg && <img className="q-review-img" src={item.aimg} alt={item.alt || ""} loading="lazy" />}
                   </div>
@@ -941,6 +947,7 @@ export default function Questions() {
           <div className="q-answer-block">
             <div className="q-divider-line" />
             <AnswerText text={q.a} />
+            <GuidelineNote note={q.guideline} />
             {q.source && <a className="q-source" href={q.source.url} target="_blank" rel="noreferrer">p. {q.source.page} ↗</a>}
             {q.aimg && <img className="q-question-img" src={q.aimg} alt={q.alt || ""} loading="lazy" />}
           </div>

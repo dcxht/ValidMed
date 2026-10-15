@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 140; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 155; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -5171,6 +5171,800 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 140,
       "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2fm-0458",
+    "category": "Dermatology",
+    "q": "A patient with hepatitis C has cryoglobulinemia. Which complement component is characteristically reduced?",
+    "a": "C4. Cryoglobulins are circulating proteins/immune complexes that precipitate at low temperatures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-family-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2fm-0459",
+    "category": "Dermatology",
+    "q": "Facial redness and venous congestion appear when the arms are raised. What sign is described?",
+    "a": "Pemberton sign, indicating impaired venous return at the thoracic inlet.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-family-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2fm-0460",
+    "category": "Dermatology",
+    "q": "An older adult has flat purpura on sun-exposed forearms. What benign process and dermal mechanism are described?",
+    "a": "Actinic purpura, associated with chronic solar damage and dermal connective-tissue degeneration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-family-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2fm-0461",
+    "category": "Dermatology",
+    "q": "Small rough keratotic follicular bumps appear on the upper arms. What benign diagnosis is suggested?",
+    "a": "Keratosis pilaris. Emollients may help.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-family-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2fm-0462",
+    "category": "Neurology",
+    "q": "A stroke predominantly affects the contralateral leg. Which arterial territory is suggested?",
+    "a": "Anterior cerebral artery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0463",
+    "category": "Neurology",
+    "q": "A stroke affects the contralateral face and arm and produces aphasia in the dominant hemisphere. Which territory is suggested?",
+    "a": "Middle cerebral artery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0464",
+    "category": "Neurology",
+    "q": "A stroke causes contralateral homonymous hemianopia with macular sparing. Which arterial territory is suggested?",
+    "a": "Posterior cerebral artery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0465",
+    "category": "Neurology",
+    "q": "A stroke causes dysphagia and ipsilateral Horner syndrome. What syndrome and vessels are suggested?",
+    "a": "Lateral medullary or Wallenberg syndrome, associated with PICA or vertebral artery ischemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0466",
+    "category": "Neurology",
+    "q": "A medullary stroke causes ipsilateral tongue weakness/deviation. Which medullary syndrome is suggested?",
+    "a": "Medial medullary syndrome, associated with anterior spinal artery territory.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0467",
+    "category": "Neurology",
+    "q": "A pontine stroke causes ipsilateral peripheral facial weakness. Which lateral pontine arterial territory is suggested?",
+    "a": "Anterior inferior cerebellar artery, AICA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0468",
+    "category": "Neurology",
+    "q": "Ipsilateral CN III palsy accompanies contralateral limb weakness. What midbrain syndrome is suggested?",
+    "a": "Weber syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0469",
+    "category": "Neurology",
+    "q": "A conscious patient cannot move limbs or speak but retains eye movements. What brainstem syndrome is suggested?",
+    "a": "Locked-in syndrome, classically from ventral pontine injury in basilar artery ischemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-0470",
+    "category": "Neurology",
+    "q": "Agraphia, acalculia, finger agnosia and left-right confusion occur after a stroke. Name the syndrome and region.",
+    "a": "Gerstmann syndrome, associated with the dominant angular gyrus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-0471",
+    "category": "Neurology",
+    "q": "Violent flinging movements affect one side after a stroke. Which contralateral nucleus is implicated?",
+    "a": "Subthalamic nucleus, causing hemiballismus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-0472",
+    "category": "Neurology",
+    "q": "Speech is fluent but nonsensical, with poor comprehension and poor repetition. What aphasia is suggested?",
+    "a": "Wernicke aphasia, involving the dominant temporal language region.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-0473",
+    "category": "Neurology",
+    "q": "Speech is effortful and nonfluent, comprehension relatively preserved, and repetition impaired. What aphasia is suggested?",
+    "a": "Broca aphasia, involving the dominant frontal language region.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-0474",
+    "category": "Neurology",
+    "q": "Fluency and comprehension are relatively preserved but repetition is disproportionately impaired. What aphasia is suggested?",
+    "a": "Conduction aphasia, associated with disruption of language connections including the arcuate fasciculus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-0475",
+    "category": "Neurology",
+    "q": "How do transcortical sensory and motor aphasia differ from Wernicke and Broca aphasia?",
+    "a": "Repetition is preserved in the transcortical types despite similar comprehension or fluency deficits.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-0476",
+    "category": "Neurology",
+    "q": "A child given aspirin during a viral illness develops encephalopathy and liver injury. What syndrome is suggested?",
+    "a": "Reye syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2fm-0477",
+    "category": "Neurology",
+    "q": "Which spinal pathways carry pain/temperature, voluntary motor function, and vibration/proprioception?",
+    "a": "Spinothalamic tracts carry pain and temperature; corticospinal tracts carry motor signals; dorsal columns carry vibration and proprioception.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-0478",
+    "category": "Neurology",
+    "q": "Hyperreflexia, spasticity, clonus and an extensor plantar response suggest which motor-neuron lesion type?",
+    "a": "An upper motor neuron lesion. Fasciculations, muscle wasting and hyporeflexia instead suggest lower motor neuron injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-0479",
+    "category": "Neurology",
+    "q": "A patient with neurosyphilis loses vibration and proprioception and has a positive Romberg test. What condition is suggested?",
+    "a": "Tabes dorsalis, involving the dorsal columns.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-0480",
+    "category": "Neurology",
+    "q": "Bilateral segmental loss of pain and temperature suggests a spinal cavity affecting which crossing fibers?",
+    "a": "Syringomyelia affecting the anterior white commissure, where spinothalamic fibers cross.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-0481",
+    "category": "Neurology",
+    "q": "A spinal hemisection causes which pattern of motor and sensory loss below the lesion?",
+    "a": "Brown-Sequard pattern: ipsilateral weakness and vibration/proprioception loss, with contralateral pain/temperature loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-0482",
+    "category": "Neurology",
+    "q": "After neck hyperextension, weakness is greater in the arms than the legs. What cord syndrome is suggested?",
+    "a": "Central cord syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-0483",
+    "category": "Neurology",
+    "q": "Motor and pain/temperature function are lost but vibration and proprioception are preserved. What cord syndrome is suggested?",
+    "a": "Anterior cord syndrome, sparing the dorsal columns.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-0484",
+    "category": "Neurology",
+    "q": "A vasculitis patient develops wrist drop and foot drop from patchy nerve involvement. What neuropathy pattern is suggested?",
+    "a": "Mononeuritis multiplex, involving multiple individual peripheral nerves.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-0485",
+    "category": "Neurology",
+    "q": "Progressive memory loss is associated with amyloid plaques and hyperphosphorylated-tau tangles. What disease is suggested?",
+    "a": "Alzheimer disease. The source names cholinesterase inhibitors and memantine as symptomatic treatments.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-0486",
+    "category": "Neurology",
+    "q": "Early personality change, apathy and disinhibition dominate a dementia presentation. Which dementia is suggested?",
+    "a": "Frontotemporal dementia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-0487",
+    "category": "Neurology",
+    "q": "Dementia, recurrent visual hallucinations and parkinsonism coexist. Which dementia is suggested?",
+    "a": "Dementia with Lewy bodies, associated with alpha-synuclein inclusions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-0488",
+    "category": "Neurology",
+    "q": "Cognitive decline occurs with prior strokes and focal motor or sensory deficits. Which dementia is suggested?",
+    "a": "Vascular dementia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-0489",
+    "category": "Neurology",
+    "q": "Depression, apathy and poor test effort mimic cognitive decline. What potentially reversible mimic is described?",
+    "a": "Depression-associated cognitive impairment, traditionally called pseudodementia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-0490",
+    "category": "Neurology",
+    "q": "A patient with poor intake or pernicious anemia develops cognitive change and dorsal-column/corticospinal deficits. Which deficiency is suggested?",
+    "a": "Vitamin B12 deficiency causing subacute combined degeneration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-0491",
+    "category": "Neurology",
+    "q": "Bradykinesia, resting tremor, cogwheel rigidity and a shuffling gait suggest what disease and affected midbrain region?",
+    "a": "Parkinson disease, involving dopamine-neuron loss in the substantia nigra pars compacta.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-0492",
+    "category": "Neurology",
+    "q": "Why is carbidopa combined with levodopa?",
+    "a": "It reduces peripheral conversion of levodopa to dopamine, increasing levodopa available to enter the brain.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-0493",
+    "category": "Neurology",
+    "q": "An urge to move the legs occurs at rest at night and improves with movement. What diagnosis and initial deficiency check are described?",
+    "a": "Restless legs syndrome. Assess iron status, including ferritin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-0494",
+    "category": "Neurology",
+    "q": "An older adult has gait disturbance, urinary incontinence and cognitive impairment. Which hydrocephalus syndrome is suggested?",
+    "a": "Normal-pressure hydrocephalus. Parkinsonian features may coexist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-0495",
+    "category": "Neurology",
+    "q": "A young patient has parkinsonism and liver disease. Which metal-accumulation disorder should be considered?",
+    "a": "Wilson disease, due to copper accumulation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-0496",
+    "category": "Neurology",
+    "q": "A swinging-flashlight test shows less bilateral pupillary constriction when light reaches the affected eye. What sign is described?",
+    "a": "A relative afferent pupillary defect, or Marcus Gunn pupil, indicating asymmetric afferent visual pathway dysfunction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-0497",
+    "category": "Neurology",
+    "q": "On rightward gaze the left eye fails to adduct while the right eye abducts with nystagmus. Where is the internuclear lesion?",
+    "a": "The left medial longitudinal fasciculus. The failed-adduction side identifies the MLF lesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-family-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2fm-0498",
+    "category": "Neurology",
+    "q": "Relapsing CNS deficits include optic neuritis and internuclear ophthalmoplegia. What disease and CSF marker are suggested?",
+    "a": "Multiple sclerosis; CSF oligoclonal IgG bands may be present, and MRI can show disseminated CNS lesions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-family-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2fm-0499",
+    "category": "Neurology",
+    "q": "Which treatments does the source name for an acute MS flare and MS-related spasticity?",
+    "a": "IV methylprednisolone for an acute flare; baclofen, a GABA-B agonist, for spasticity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-0500",
+    "category": "Neurology",
+    "q": "Severe optic neuritis and myelitis suggest neuromyelitis optica spectrum disorder. Which antibody is emphasized?",
+    "a": "Antibody against aquaporin-4.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-0501",
+    "category": "Neurology",
+    "q": "Progressive weakness has both upper and lower motor neuron signs, without a prominent sensory deficit. What disease is suggested?",
+    "a": "Amyotrophic lateral sclerosis. Electromyography and nerve-conduction studies support evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-0502",
+    "category": "Neurology",
+    "q": "Rapid ascending weakness and loss of deep-tendon reflexes follow an infection. What syndrome is suggested?",
+    "a": "Guillain-Barre syndrome. Peripheral demyelination is one important subtype.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-0503",
+    "category": "Neurology",
+    "q": "A GBS-like neuropathy progresses over months rather than days to weeks. Which chronic syndrome is suggested?",
+    "a": "Chronic inflammatory demyelinating polyneuropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-0504",
+    "category": "Neurology",
+    "q": "According to the PDF, pes cavus, hammer toes and foot drop suggest which neuropathy?",
+    "a": "Charcot-Marie-Tooth disease. The PDF groups this under autoimmune neuropathies; that classification is recorded as an unverified concern in the editorial ledger.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-0505",
+    "category": "Neurology",
+    "q": "How does a typical central facial palsy differ from peripheral CN VII palsy?",
+    "a": "Central weakness usually affects the contralateral lower face with relative forehead sparing; peripheral facial palsy affects the ipsilateral upper and lower face.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-0506",
+    "category": "Neurology",
+    "q": "Diplopia, ptosis and dysphagia worsen with repeated use and through the day. Which junction disorder and target are suggested?",
+    "a": "Myasthenia gravis, classically involving antibodies against postsynaptic acetylcholine receptors. Thymoma is an important association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-0507",
+    "category": "Neurology",
+    "q": "Proximal weakness improves with repeated activity in a patient with small-cell lung cancer. Which disorder and target are suggested?",
+    "a": "Lambert-Eaton myasthenic syndrome, involving presynaptic voltage-gated calcium channels.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-0508",
+    "category": "Neurology",
+    "q": "Brief positional vertigo with a positive Dix-Hallpike maneuver suggests what condition and repositioning treatment?",
+    "a": "Benign paroxysmal positional vertigo from displaced otoconia. The Epley maneuver is a repositioning treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-0509",
+    "category": "Neurology",
+    "q": "Recurrent vertigo occurs with tinnitus and fluctuating low-frequency hearing loss. What inner-ear disorder is suggested?",
+    "a": "Meniere disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-0510",
+    "category": "Neurology",
+    "q": "A patient receiving gentamicin develops vertigo. Which adverse effect is suggested?",
+    "a": "Ototoxicity. Aminoglycosides, cisplatin and loop diuretics are drug classes named in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-0511",
+    "category": "Neurology",
+    "q": "Brief electric-shock facial pain is triggered by brushing teeth or light touch. What diagnosis and preventive drug are described?",
+    "a": "Trigeminal neuralgia. Carbamazepine is named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-0512",
+    "category": "Neurology",
+    "q": "Excruciating unilateral orbital pain with tearing, rhinorrhea and restlessness occurs in attacks. What diagnosis and treatments are named?",
+    "a": "Cluster headache. Oxygen is an acute treatment and verapamil a preventive option.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-0513",
+    "category": "Neurology",
+    "q": "A unilateral throbbing headache with aura lasts hours. Are triptans preventive or abortive drugs?",
+    "a": "Migraine; triptans are abortive therapy, not routine preventive treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-0514",
+    "category": "Neurology",
+    "q": "An older adult has new headache, jaw claudication and high ESR. Why should steroids not wait for biopsy when giant-cell arteritis is strongly suspected?",
+    "a": "To reduce the risk of irreversible visual loss from ischemic optic neuropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-0515",
+    "category": "Neurology",
+    "q": "Confusion, ataxia and ophthalmoplegia occur in a patient with alcohol-use disorder. What syndrome and deficiency are suggested?",
+    "a": "Wernicke encephalopathy from thiamine deficiency. Thiamine replacement is required.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-0516",
+    "category": "Neurology",
+    "q": "A patient cannot perform rapid alternating hand movements. What cerebellar sign is this?",
+    "a": "Dysdiadochokinesia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-0517",
+    "category": "Neurology",
+    "q": "A tremor worsens as the hand approaches a target. What tremor type is described?",
+    "a": "Intention tremor, associated with cerebellar dysfunction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-0518",
+    "category": "Neurology",
+    "q": "Do cerebellar limb lesions generally cause ipsilateral or contralateral coordination deficits?",
+    "a": "Ipsilateral deficits. Midline/vermis disease more often affects truncal stability.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-0519",
+    "category": "Neurology",
+    "q": "A patient with cystic-fibrosis-related pancreatic insufficiency develops peripheral neuropathy. Which fat-soluble vitamin deficiency is emphasized?",
+    "a": "Vitamin E deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-0520",
+    "category": "Neurology",
+    "q": "Isoniazid therapy causes neuropathy. Which vitamin deficiency and supplement are implicated?",
+    "a": "Pyridoxine, vitamin B6.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-0521",
+    "category": "Neurology",
+    "q": "An action tremor improves with alcohol and runs in a family. Which diagnosis and treatment are described?",
+    "a": "Essential tremor. Propranolol is a treatment named.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-0522",
+    "category": "Guideline comparisons",
+    "q": "What screening mammography interval and ages does the PDF give?",
+    "a": "PDF answer: every two years, ages 50-74.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-family-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "Current guideline: USPSTF 2024 recommends biennial screening ages 40-74 for its applicable population.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening"
+    }
+  },
+  {
+    "id": "s2fm-0523",
+    "category": "Guideline comparisons",
+    "q": "What first-line H. pylori regimen does the PDF name?",
+    "a": "PDF answer: clarithromycin, amoxicillin and a PPI, with bismuth quadruple therapy if that fails.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-family-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "Current guideline: ACG 2024 prefers 14-day optimized bismuth quadruple therapy when susceptibility is unknown; use clarithromycin triple only with proven susceptibility.",
+      "url": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
+    }
+  },
+  {
+    "id": "s2fm-0524",
+    "category": "Guideline comparisons",
+    "q": "How does the PDF start outpatient asthma treatment and when does it add an ICS?",
+    "a": "PDF answer: albuterol for acute attacks, adding an inhaled corticosteroid for weekly episodes or to reduce future episodes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-family-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "Current guideline: GINA 2026 says adults, adolescents and children 6-11 should receive ICS-containing treatment, not SABA alone.",
+      "url": "https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2fm-0525",
+    "category": "Guideline comparisons",
+    "q": "What latent-TB regimen does the PDF name after a positive PPD and negative chest radiograph?",
+    "a": "PDF answer: nine months of isoniazid with vitamin B6.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-family-medicine.pdf#page=42"
+    },
+    "guideline": {
+      "text": "Current guideline: CDC/NTCA 2020 prefers short-course rifamycin-based regimens when suitable; six/nine-month isoniazid remains an alternative after excluding active disease.",
+      "url": "https://www.cdc.gov/mmwr/volumes/69/rr/rr6901a1.htm"
+    }
+  },
+  {
+    "id": "s2fm-0526",
+    "category": "Guideline comparisons",
+    "q": "What does the PDF advise while awaiting a throat culture for presumed strep pharyngitis?",
+    "a": "PDF answer: send the patient home with amoxicillin or penicillin for presumptive treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-family-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "Current guideline: CDC 2025 advises backup culture after negative RADT in children older than 3, with antibiotics started if that culture is positive.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html"
+    }
+  },
+  {
+    "id": "s2fm-0527",
+    "category": "Guideline comparisons",
+    "q": "How does the PDF simplify HCV antibody classes?",
+    "a": "PDF answer: IgM indicates acute infection; IgG usually indicates chronic infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-family-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "Current guideline: CDC 2025 uses antibody testing with reflex RNA; antibody alone can reflect current, resolved or false positivity, and RNA identifies current infection.",
+      "url": "https://www.cdc.gov/hepatitis-c/hcp/diagnosis-testing/"
     }
   }
 ];
