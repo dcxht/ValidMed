@@ -35796,5 +35796,112 @@ export default [
       "text": "MedlinePlus Genetics describes TK2-related mitochondrial DNA depletion syndrome as autosomal recessive. Mitochondrial disorders due to nuclear-gene defects need not follow maternal mitochondrial-DNA inheritance.",
       "url": "https://medlineplus.gov/genetics/condition/tk2-related-mitochondrial-dna-depletion-syndrome-myopathic-form/"
     }
+  },
+  {
+    "id": "s2fm-3003",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What fixed Hib schedule does the source print?",
+    "a": "Two, four and six months with a booster at fifteen to eighteen months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "CDC recommends a product-dependent two- or three-dose primary series and a booster at 12-15 months. The PDF single schedule does not fit every Hib product.",
+      "url": "https://www.cdc.gov/hi-disease/hcp/vaccine-recommendations/index.html"
+    }
+  },
+  {
+    "id": "s2fm-3004",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What embryologic origin does the PDF give for a thyroglossal duct cyst?",
+    "a": "Endoderm at the foramen cecum, in its source neck-mass explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-3005",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What symptoms can the source lingual thyroid cause besides hypothyroidism?",
+    "a": "Dysphagia, voice change or breathing difficulty from ectopic thyroid tissue high in the neck.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-3006",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What source complication distinguishes an acutely painful strangulated hernia from uncomplicated reducibility?",
+    "a": "Compromised blood supply with ischemia, potentially causing pain, fever and necrosis; this needs urgent assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-3007",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What pancreatic hormones does the source say octreotide also suppresses?",
+    "a": "Insulin and glucagon, in addition to growth-hormone suppression.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-3008",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What normal serum sodium interval does the PDF use when discussing SIADH?",
+    "a": "135-145 mEq/L; lower sodium alone does not establish SIADH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-3009",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What endogenous ADH direction does the source give for nephrogenic DI?",
+    "a": "Increased ADH in response to poor renal responsiveness, contrasted with deficient central secretion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-3010",
+    "category": "Endocrine and vaccine finer source details",
+    "q": "What urine-specific-gravity ranges does the source use as dilute versus concentrated exam clues?",
+    "a": "Approximately 1.000-1.006 as dilute versus 1.024-1.030 as concentrated, in its source examples; diagnosis requires the full fluid/osmolality context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-3011",
+    "category": "SIADH exact-source review",
+    "q": "What first diagnostic step does the PDF call for in SIADH?",
+    "a": "Fluid restriction to see how serum and urine values change.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    },
+    "guideline": {
+      "text": "A 2023 Endocrine Reviews article describes fluid restriction as first-line treatment in SIAD without severe symptoms, not a stand-alone diagnostic test. Hyponatremia has multiple causes and requires clinical/biochemical reassessment; severe symptoms need urgent intervention. This is a review published by the Endocrine Society.",
+      "url": "https://www.endocrine.org/journals/endocrine-reviews/syndrome-of-inappropriate-antidiuresis"
+    }
   }
 ];
