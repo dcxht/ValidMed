@@ -13656,5 +13656,863 @@ export default [
       "page": 108,
       "url": "/mehlman/hy-family-medicine.pdf#page=108"
     }
+  },
+  {
+    "id": "s2fm-1200",
+    "category": "Dermatology images",
+    "q": "Purple polygonal papules appear on the skin. Which source dermatosis is illustrated?",
+    "a": "Lichen planus. The source also highlights its hepatitisC association.",
+    "img": "/s2img/fm-131-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-family-medicine.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2fm-1201",
+    "category": "Dermatology images",
+    "q": "An ulcerated lesion develops in a chronically sun-exposed area. Which source skin cancer is shown?",
+    "a": "Squamous-cell carcinoma.",
+    "img": "/s2img/fm-134-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2fm-1202",
+    "category": "Dermatology images",
+    "q": "Which benign congenital pigment finding does the source illustrate at the lower back?",
+    "a": "Congenital dermal melanocytosis. The PDF labels it blue nevus/Mongolian spot; that terminology concern remains in the review ledger.",
+    "img": "/s2img/fm-136-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2fm-1203",
+    "category": "Dermatology images",
+    "q": "What small red vascular papules are illustrated in the source?",
+    "a": "Cherry angiomas, benign vascular skin lesions.",
+    "img": "/s2img/fm-137-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    }
+  },
+  {
+    "id": "s2fm-1204",
+    "category": "Dermatology images",
+    "q": "A round sharply demarcated burn-like injury occurs in a child. What concern does the source raise?",
+    "a": "Possible inflicted burn requiring careful safeguarding assessment. An image alone does not establish who caused an injury.",
+    "img": "/s2img/fm-138-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-family-medicine.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2fm-1205",
+    "category": "Dermatology images",
+    "q": "Digital gangrene accompanies heavy tobacco exposure. Which source vasculopathy is described?",
+    "a": "Thromboangiitis obliterans, Buerger disease.",
+    "img": "/s2img/fm-140-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-family-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2fm-1206",
+    "category": "Dermatology images",
+    "q": "Facial redness/congestion increases with elevation of both arms in this source comparison. What sign is shown?",
+    "a": "Pemberton sign, reflecting impaired venous drainage at the thoracic inlet.",
+    "img": "/s2img/fm-141-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-family-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2fm-1207",
+    "category": "Dermatology images",
+    "q": "What reticular vascular skin pattern is illustrated in the source cryoglobulinemia discussion?",
+    "a": "Livedo reticularis. It has multiple causes and is not diagnostic of cryoglobulinemia alone.",
+    "img": "/s2img/fm-141-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-family-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2fm-1208",
+    "category": "Dermatology images",
+    "q": "A diabetic patient has an ulcerated neuropathic foot lesion in the source discussion. What joint mechanism is emphasized?",
+    "a": "Loss of protective sensation can allow repeated injury and Charcot neuroarthropathy. The photograph itself does not show the joint radiographic changes.",
+    "img": "/s2img/fm-141-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-family-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2fm-1209",
+    "category": "Dermatology images",
+    "q": "Small rough follicular bumps occur on the upper arm. Which source condition is illustrated?",
+    "a": "Keratosis pilaris.",
+    "img": "/s2img/fm-142-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-family-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2fm-1210",
+    "category": "Dermatology images",
+    "q": "An older patient has flat purple forearm lesions after minor trauma. What source process is illustrated?",
+    "a": "Actinic/solar purpura from chronically sun-damaged fragile skin.",
+    "img": "/s2img/fm-142-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-family-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2fm-1211",
+    "category": "Neurology images",
+    "q": "What horizontal-eye-movement defect does this labeled source diagram demonstrate?",
+    "a": "Internuclear ophthalmoplegia: impaired adduction on the side of the MLF lesion with abducting nystagmus of the opposite eye.",
+    "img": "/s2img/fm-149-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 149,
+      "url": "/mehlman/hy-family-medicine.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2fm-1212",
+    "category": "Neurology images",
+    "q": "In the labeled leftINO diagram, which eye has impaired adduction on rightward gaze?",
+    "a": "The left eye, localizing to the left medial longitudinal fasciculus. INO is not exclusive to multiple sclerosis.",
+    "img": "/s2img/fm-150-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-family-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2fm-1213",
+    "category": "Neurology images",
+    "q": "Which crescent-shaped extra-axial hemorrhage is illustrated on this sourceCT?",
+    "a": "Subdural hematoma.",
+    "img": "/s2img/fm-161-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2fm-1214",
+    "category": "Neurology images",
+    "q": "Which lens-shaped extra-axial hemorrhage is illustrated on this sourceCT?",
+    "a": "Epidural hematoma.",
+    "img": "/s2img/fm-161-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-family-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2fm-1215",
+    "category": "Neurology images",
+    "q": "Which compartment contains the focal hyperdense hemorrhage in the sourceCT?",
+    "a": "Brain parenchyma, an intracerebral hemorrhage.",
+    "img": "/s2img/fm-162-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-1216",
+    "category": "Neurology images",
+    "q": "Blood in the basal cisterns creates which source hemorrhage pattern?",
+    "a": "Subarachnoid hemorrhage, described as a starfish-like appearance.",
+    "img": "/s2img/fm-162-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-family-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2fm-1217",
+    "category": "Psychiatry",
+    "q": "What broad distinction does this labeled psychiatric timeline illustrate?",
+    "a": "Psychosis outside mood episodes in the schizoaffective teaching example, versus psychosis tied to mood episodes in mood disorders with psychotic features. Full longitudinal diagnostic criteria still matter.",
+    "img": "/s2img/fm-173-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-family-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2fm-1218",
+    "category": "Ophthalmology images",
+    "q": "Which extraocular-nerve palsies are compared in the labeled source diagram?",
+    "a": "A:CNIII, down-and-out eye. B:CNIV, vertical misalignment. C:CNVI, impaired abduction with medial deviation.",
+    "img": "/s2img/fm-194-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-family-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2fm-1219",
+    "category": "Ophthalmology images",
+    "q": "Which retinal embolic finding does the source identify in this image?",
+    "a": "A refractile retinal embolus. Sudden vision loss requires emergency evaluation.",
+    "img": "/s2img/fm-198-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2fm-1220",
+    "category": "Ophthalmology images",
+    "q": "What peripheral corneal finding is illustrated in the source lipid-disorder discussion?",
+    "a": "Corneal arcus, peripheral lipid deposition. It can be age-related and does not alone prove dyslipidemia.",
+    "img": "/s2img/fm-199-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2fm-1221",
+    "category": "Ophthalmology images",
+    "q": "Which iris-development abnormality is illustrated in the sourceWAGR discussion?",
+    "a": "Aniridia, partial or complete absence of iris tissue.",
+    "img": "/s2img/fm-201-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2fm-1222",
+    "category": "Ophthalmology images",
+    "q": "A painless localized eyelid nodule is illustrated. Which source lesion is described?",
+    "a": "Chalazion, an obstructed meibomian gland rather than an acute infectious stye.",
+    "img": "/s2img/fm-202-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-1223",
+    "category": "Ophthalmology images",
+    "q": "A painful focal eyelid bump is illustrated. Which source lesion is described?",
+    "a": "Hordeolum, stye.",
+    "img": "/s2img/fm-202-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-1224",
+    "category": "Ophthalmology images",
+    "q": "Marked swelling/redness around the eye occurs in the source orbital-infection discussion. What additional findings distinguish orbital involvement?",
+    "a": "Pain or restriction with eye movement, proptosis or visual change raise concern for orbital cellulitis. The external photograph alone cannot establish the depth of infection.",
+    "img": "/s2img/fm-202-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-1225",
+    "category": "Ophthalmology images",
+    "q": "What do the four labeled directions of ocular misalignment mean?",
+    "a": "Esotropia: inward; exotropia: outward; hypotropia: downward; hypertropia: upward deviation.",
+    "img": "/s2img/fm-203-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    }
+  },
+  {
+    "id": "s2fm-1226",
+    "category": "Ophthalmology images",
+    "q": "One pupil shows a white rather than red reflex. What finding is illustrated?",
+    "a": "Leukocoria. Retinoblastoma is the source example, but other causes require urgent assessment too.",
+    "img": "/s2img/fm-203-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    }
+  },
+  {
+    "id": "s2fm-1227",
+    "category": "Ophthalmology images",
+    "q": "Conjunctival tissue grows across the limbus onto the cornea. Which source lesion is illustrated?",
+    "a": "Pterygium.",
+    "img": "/s2img/fm-204-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-1228",
+    "category": "Ophthalmology images",
+    "q": "What pigmented ocular mass is illustrated in the source melanoma discussion?",
+    "a": "An ocular melanoma example. A photograph alone does not establish its precise tissue of origin.",
+    "img": "/s2img/fm-204-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-1229",
+    "category": "Ophthalmology images",
+    "q": "A cloudy lens is visible through the pupil. What source condition is illustrated?",
+    "a": "Cataract.",
+    "img": "/s2img/fm-204-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-1230",
+    "category": "Ophthalmology images",
+    "q": "What optic-disc changes are compared in this labeled source figure?",
+    "a": "Swelling and blurred disc margins in papilledema compared with a normal optic disc.",
+    "img": "/s2img/fm-205-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-1231",
+    "category": "Ophthalmology images",
+    "q": "A yellowish conjunctival lesion does not extend across the cornea. Which source lesion is illustrated?",
+    "a": "Pinguecula.",
+    "img": "/s2img/fm-205-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-1232",
+    "category": "Ophthalmology images",
+    "q": "Blue sclerae occur in a patient with recurrent fractures. Which source collagen disorder is considered?",
+    "a": "Osteogenesis imperfecta, commonly involving typeI collagen.",
+    "img": "/s2img/fm-206-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-1233",
+    "category": "Ophthalmology images",
+    "q": "What periorbital skin finding is illustrated in the source dermatomyositis discussion?",
+    "a": "Heliotrope rash, a violaceous periorbital eruption.",
+    "img": "/s2img/fm-206-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-1234",
+    "category": "Ophthalmology images",
+    "q": "Fluorescein highlights a branching corneal lesion. Which source infection is illustrated?",
+    "a": "Herpes simplex keratitis with a dendritic lesion.",
+    "img": "/s2img/fm-207-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-1235",
+    "category": "Musculoskeletal images",
+    "q": "What lower-plexus injury does the labeled claw-hand diagram illustrate?",
+    "a": "Klumpke palsy,C 8-T 1 lower brachial plexus injury.",
+    "img": "/s2img/fm-211-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-1236",
+    "category": "Musculoskeletal images",
+    "q": "What upper-plexus injury does the labeled waiter-tip diagram illustrate?",
+    "a": "Erb-Duchenne palsy,C 5-C 6 upper brachial plexus injury.",
+    "img": "/s2img/fm-211-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-1237",
+    "category": "Musculoskeletal images",
+    "q": "What nerve and muscle are implicated by the pictured winged scapula?",
+    "a": "Long thoracic nerve injury weakens serratus anterior.",
+    "img": "/s2img/fm-211-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-family-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2fm-1238",
+    "category": "Musculoskeletal images",
+    "q": "What cystic lesion is illustrated on the dorsal wrist?",
+    "a": "Ganglion cyst.",
+    "img": "/s2img/fm-212-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-1239",
+    "category": "Musculoskeletal images",
+    "q": "What radial-wrist tendon-sheath syndrome is assessed by the source provocative maneuver?",
+    "a": "DeQuervain tenosynovitis. The source illustrates thumb-in-palm ulnar deviation; maneuver naming/technique distinctions remain for detailed review.",
+    "img": "/s2img/fm-212-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-family-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2fm-1240",
+    "category": "Musculoskeletal images",
+    "q": "What central-canal change is illustrated by this labeled comparison?",
+    "a": "Lumbar spinal stenosis, narrowing around the spinal canal.",
+    "img": "/s2img/fm-213-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2fm-1241",
+    "category": "Musculoskeletal images",
+    "q": "Which pars-interarticularis defect does this labeled source diagram show?",
+    "a": "Spondylolysis, a pars defect/stress fracture. The source narrative places it near spondylosis terminology; those terms must not be treated as identical.",
+    "img": "/s2img/fm-213-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2fm-1242",
+    "category": "Musculoskeletal images",
+    "q": "What intervertebral-disc process compresses a nerve root in this labeled diagram?",
+    "a": "Disc herniation.",
+    "img": "/s2img/fm-214-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-family-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2fm-1243",
+    "category": "Musculoskeletal images",
+    "q": "Which vertebral-alignment abnormality is marked in the sourceMRI?",
+    "a": "Spondylolisthesis, one vertebra displaced relative to another.",
+    "img": "/s2img/fm-214-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-family-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2fm-1244",
+    "category": "Musculoskeletal images",
+    "q": "What nerve-exit narrowing is shown in this labeled diagram?",
+    "a": "Foraminal stenosis.",
+    "img": "/s2img/fm-214-2.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-family-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2fm-1245",
+    "category": "Musculoskeletal images",
+    "q": "Which nerve/root pain pattern is illustrated extending from the low back into the leg?",
+    "a": "Sciatica, often due to lumbosacral nerve-root irritation from disc herniation.",
+    "img": "/s2img/fm-215-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-family-medicine.pdf#page=215"
+    }
+  },
+  {
+    "id": "s2fm-1246",
+    "category": "Musculoskeletal images",
+    "q": "Which three-dimensional spinal deformity does the labeled diagram/radiograph demonstrate?",
+    "a": "Scoliosis with lateral curvature and vertebral/rib rotation.",
+    "img": "/s2img/fm-216-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-1247",
+    "category": "Musculoskeletal images",
+    "q": "Which purely sensory nerve territory is mapped in this labeled source diagram?",
+    "a": "Lateral femoral cutaneous nerve; entrapment causes meralgia paresthetica.",
+    "img": "/s2img/fm-216-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2fm-1248",
+    "category": "Musculoskeletal images",
+    "q": "How do the labeled scoliosis, kyphosis and lordosis curves differ?",
+    "a": "Scoliosis: lateral curvature/rotation. Kyphosis: increased posterior thoracic curvature. Lordosis: increased anterior lumbar curvature.",
+    "img": "/s2img/fm-217-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-family-medicine.pdf#page=217"
+    }
+  },
+  {
+    "id": "s2fm-1249",
+    "category": "Musculoskeletal images",
+    "q": "What anatomic sensory framework is shown in this labeled body map?",
+    "a": "Dermatomes, cutaneous territories associated with spinal nerve roots. Overlap and individual variation matter.",
+    "img": "/s2img/fm-218-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-family-medicine.pdf#page=218"
+    }
+  },
+  {
+    "id": "s2fm-1250",
+    "category": "Musculoskeletal images",
+    "q": "Which source ankle ligaments are contrasted on the lateral and medial sides?",
+    "a": "Lateral talofibular/calcaneofibular ligaments versus the medial deltoid ligament.",
+    "img": "/s2img/fm-220-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-1251",
+    "category": "Musculoskeletal images",
+    "q": "Medial ankle-joint widening is marked before repair. Which source ligament injury is emphasized?",
+    "a": "Deltoid ligament injury.",
+    "img": "/s2img/fm-221-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-family-medicine.pdf#page=221"
+    }
+  },
+  {
+    "id": "s2fm-1252",
+    "category": "Musculoskeletal images",
+    "q": "Which lower-limb angular deformity is shown in the source pediatric-bone images?",
+    "a": "Genu varum, bow legs. Etiology requires clinical and radiographic context.",
+    "img": "/s2img/fm-223-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-1253",
+    "category": "Musculoskeletal images",
+    "q": "What normal-versus-bowing alignment comparison does this labeled diagram illustrate?",
+    "a": "Normal lower-limb alignment compared with genu varum.",
+    "img": "/s2img/fm-223-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-family-medicine.pdf#page=223"
+    }
+  },
+  {
+    "id": "s2fm-1254",
+    "category": "Musculoskeletal images",
+    "q": "What congenital foot deformity is shown in the source?",
+    "a": "Talipes equinovarus, clubfoot.",
+    "img": "/s2img/fm-224-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-1255",
+    "category": "Musculoskeletal images",
+    "q": "What femoral-head process is illustrated on this sourceMRI in thePerthes discussion?",
+    "a": "Femoral-head osteonecrosis with altered signal and flattening/collapse.",
+    "img": "/s2img/fm-225-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2fm-1256",
+    "category": "Musculoskeletal images",
+    "q": "The arrow points to a flattened/contracted femoral head in a young child. What source disorder is illustrated?",
+    "a": "Legg-Calve-Perthes disease, idiopathic childhood femoral-head osteonecrosis.",
+    "img": "/s2img/fm-225-1.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2fm-1257",
+    "category": "Musculoskeletal images",
+    "q": "Which slipped growth-plate relationship is illustrated in the source hip radiograph?",
+    "a": "Slipped capital femoral epiphysis, the ice-cream-off-the-cone appearance.",
+    "img": "/s2img/fm-226-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-1258",
+    "category": "Musculoskeletal images",
+    "q": "What periosteal reaction features are marked in the source osteosarcoma radiograph?",
+    "a": "Codman triangle at the arrow and sunburst/spiculated new bone near the star.",
+    "img": "/s2img/fm-229-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-1259",
+    "category": "Musculoskeletal images",
+    "q": "What benign fluid-filled bone lesion is illustrated in the proximal humerus in the source?",
+    "a": "Unicameral/simple bone cyst.",
+    "img": "/s2img/fm-230-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-1260",
+    "category": "Musculoskeletal images",
+    "q": "What type of study illustrates multiple skeletal metastatic sites in the source?",
+    "a": "Technetium bone scintigraphy.",
+    "img": "/s2img/fm-231-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-1261",
+    "category": "Musculoskeletal images",
+    "q": "What inflammatory-myopathy skin finding is shown over the knuckles?",
+    "a": "Gottron papules/sign in dermatomyositis.",
+    "img": "/s2img/fm-232-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-1262",
+    "category": "Musculoskeletal images",
+    "q": "What connective-tissue property is illustrated in the source hand photograph?",
+    "a": "Skin/joint hyperextensibility in the Ehlers-Danlos discussion. Subtype cannot be determined from this photo.",
+    "img": "/s2img/fm-233-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-1263",
+    "category": "Endocrine images",
+    "q": "What limited nodule branch of the source thyroid-evaluation diagram is summarized?",
+    "a": "Palpated nodule: measureTSH; normal/highTSH prompts ultrasound assessment; lowTSH prompts radionuclide assessment. The separate no-nodule universal rule is pending review.",
+    "img": "/s2img/fm-242-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-1264",
+    "category": "Endocrine images",
+    "q": "What multisystem manifestations of glucocorticoid excess does this labeled source diagram summarize?",
+    "a": "Cushing features include central adiposity, thin bruisable skin/striae, muscle weakness, bone loss, hypertension and metabolic changes.",
+    "img": "/s2img/fm-248-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    }
+  },
+  {
+    "id": "s2fm-1265",
+    "category": "Endocrine images",
+    "q": "What branch point distinguishes 21-hydroxylase from 11-beta-hydroxylase deficiency in the labeled sourceCAH diagram?",
+    "a": "Salt-wasting/hyperkalemic low-pressure pattern favors 21 deficiency; hypertension and low/normal potassium favor 11-beta deficiency.",
+    "img": "/s2img/fm-249-0.png",
+    "alt": "Figure from the source PDF",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
   }
 ];
