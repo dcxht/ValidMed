@@ -33216,10 +33216,6 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 117,
       "url": "/mehlman/hy-family-medicine.pdf#page=117"
-    },
-    "guideline": {
-      "text": "CDC lists both lone-star and blacklegged ticks as ehrlichiosis vectors, depending on species. The Ixodes association should not be generalized to every Ehrlichia infection.",
-      "url": "https://www.cdc.gov/ehrlichiosis/about/"
     }
   },
   {
@@ -33231,6 +33227,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 118,
       "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC lists both lone-star and blacklegged ticks as ehrlichiosis vectors, depending on species. The Ixodes association should not be generalized to every Ehrlichia infection.",
+      "url": "https://www.cdc.gov/ehrlichiosis/about/"
     }
   },
   {
@@ -33419,6 +33419,150 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 129,
       "url": "/mehlman/hy-family-medicine.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2fm-2807",
+    "category": "Lentigo exact-source review",
+    "q": "What pigment-versus-cell-number mechanism does the source assign to a solar age spot?",
+    "a": "Increased melanocyte number with no increase in melanin production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-family-medicine.pdf#page=129"
+    },
+    "guideline": {
+      "text": "DermNet describes increased melanogenesis and retained melanin, with melanocyte number normal or only slightly increased. The source no-change-in-melanin statement does not match this solar-lentigo account.",
+      "url": "https://dermnetnz.org/topics/solar-lentigo"
+    }
+  },
+  {
+    "id": "s2fm-2808",
+    "category": "Eczema mechanism exact-source review",
+    "q": "What hypersensitivity label does the PDF give atopic eczema?",
+    "a": "Type I immediate hypersensitivity, in its atopy discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-family-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "AAD describes skin-barrier defects, immune responses, inherited factors and environmental exposures. Most atopic dermatitis is not caused or triggered by a specific allergy; one immediate-allergy label does not capture its whole mechanism.",
+      "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/causes"
+    }
+  },
+  {
+    "id": "s2fm-2809",
+    "category": "Dermatology source details",
+    "q": "What treatment does the source give for keloids?",
+    "a": "Surgical excision, while warning that recurrence is common.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-family-medicine.pdf#page=138"
+    },
+    "guideline": {
+      "text": "AAD says keloids nearly always recur after surgery alone; clinicians often combine treatments such as corticosteroid injections, pressure, silicone or selected radiation. Excision is not reliably curative by itself.",
+      "url": "https://www.aad.org/public/diseases/a-z/keloids-treatment"
+    }
+  },
+  {
+    "id": "s2fm-2810",
+    "category": "Dermatology source details",
+    "q": "What source inheritance patterns do NF1 and tuberous sclerosis share?",
+    "a": "Autosomal dominant; Sturge-Weber differs as somatic mosaicism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-2811",
+    "category": "Dermatology source details",
+    "q": "Which source pigment/freckling findings accompany NF1?",
+    "a": "Café-au-lait spots and axillary/groin freckling, with neurofibromas and associated tumors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-2812",
+    "category": "Dermatology source details",
+    "q": "What old lesion name does the PDF use for tuberous-sclerosis facial angiofibromas?",
+    "a": "Adenoma sebaceum; it also names subungual fibromas.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-family-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2fm-2813",
+    "category": "Dermatology source details",
+    "q": "Which endocrine manifestation is classic in the source McCune-Albright triad?",
+    "a": "Precocious puberty, accompanying polyostotic fibrous dysplasia and irregular coast-of-Maine café-au-lait spots.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2fm-2814",
+    "category": "Dermatology source details",
+    "q": "How does the source describe the acanthosis-nigricans surface and usual location?",
+    "a": "Brown-black velvety skin, often on the posterior neck, associated with hyperinsulinemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-family-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2fm-2815",
+    "category": "Dermatology source details",
+    "q": "Which outdoor occupations does the PDF use as actinic-keratosis exposure clues?",
+    "a": "Fishing, farming and construction, with scaly red lesions on sun-exposed forehead, ears or arms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-family-medicine.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2fm-2816",
+    "category": "Dermatology source details",
+    "q": "Which biopsy feature does the PDF emphasize when melanoma is suspected?",
+    "a": "A full-thickness sample that permits assessment of depth; it generally prefers narrow-margin excisional biopsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-family-medicine.pdf#page=135"
+    }
+  },
+  {
+    "id": "s2fm-2817",
+    "category": "Dermatology source details",
+    "q": "What tactile appearance does the PDF associate with seborrheic keratoses?",
+    "a": "Greasy/waxy, stuck-on lesions that appear peelable; these are benign in its usual age-related example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2fm-2818",
+    "category": "Dermatology source details",
+    "q": "What injury pattern does the source cigarette-burn image raise concern for?",
+    "a": "Possible inflicted burns requiring appropriate child-protection evaluation; the clinical history and examination still establish the assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-family-medicine.pdf#page=138"
     }
   }
 ];
