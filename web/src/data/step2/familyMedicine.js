@@ -31400,5 +31400,123 @@ export default [
       "text": "NIDDK says asymptomatic gallstones usually need no treatment. Nonsurgical dissolution is used only in selected cholesterol-stone circumstances and is not universal therapy for an incidental stone.",
       "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/treatment"
     }
+  },
+  {
+    "id": "s2fm-2647",
+    "category": "Detailed PDF review",
+    "q": "What absolute pancreatic-enzyme rule does the source use to distinguish pancreatic cancer from gallstone pancreatitis?",
+    "a": "Pancreatic cancer never raises pancreatic enzymes in its exam framing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    },
+    "guideline": {
+      "text": "Merck Professional lists pancreatic/periampullary cancer among mechanical causes of acute pancreatitis. Cancer and pancreatitis can coexist; elevated enzymes cannot exclude malignancy.",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/pancreatitis/acute-pancreatitis"
+    }
+  },
+  {
+    "id": "s2fm-2648",
+    "category": "Detailed PDF review",
+    "q": "How does the PDF turn its gallstone vignette into a cholecystitis diagnosis?",
+    "a": "It adds fever to the biliary-colic story and calls the result cholecystitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    },
+    "guideline": {
+      "text": "Merck Professional describes acute cholecystitis using the full clinical picture. Fever may be absent, particularly in older patients, and fever alone does not establish the diagnosis.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/acute-cholecystitis"
+    }
+  },
+  {
+    "id": "s2fm-2649",
+    "category": "Detailed PDF review",
+    "q": "What fever and pain pattern does the source give for obstructive jaundice from pancreatic-head cancer?",
+    "a": "Afebrile, with possible dull abdominal pain, often weight loss in a smoker.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-family-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2fm-2650",
+    "category": "Detailed PDF review",
+    "q": "What mechanism does the source give for estrogen-related cholesterol stones?",
+    "a": "Increased HMG-CoA reductase activity increases cholesterol synthesis and secretion into bile.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-2651",
+    "category": "Detailed PDF review",
+    "q": "What additional urinary effect does the source assign to progesterone while explaining pregnancy gallstones?",
+    "a": "Slower ureteral peristalsis, contributing to pyelonephritis risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-family-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2fm-2652",
+    "category": "Detailed PDF review",
+    "q": "What intestinal-absorption test pattern does the source contrast for pancreatic insufficiency versus celiac or Crohn disease?",
+    "a": "Normal D-xylose with pancreatic enzyme deficiency or lactose intolerance; abnormal D-xylose when small-bowel mucosa is damaged.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-family-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2fm-2653",
+    "category": "Detailed PDF review",
+    "q": "What treatment rule does the source give for an incidental versus bleeding Meckel diverticulum?",
+    "a": "Operate if symptomatic with bleeding; an asymptomatic diverticulum may be left alone. This is the source general rule, not a full surgical-risk algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-2654",
+    "category": "Detailed PDF review",
+    "q": "Why can the source cystic-fibrosis patient have a normal D-xylose test despite steatorrhea?",
+    "a": "The mucosa is intact; inspissated pancreatic secretions prevent enzyme delivery rather than directly flattening intestinal villi.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-family-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2fm-2655",
+    "category": "Detailed PDF review",
+    "q": "What biopsy finding does the PDF contrast in lactose intolerance versus celiac disease?",
+    "a": "Normal mucosal biopsy in lactose intolerance versus villous flattening in celiac disease, in its comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-family-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2fm-2656",
+    "category": "Detailed PDF review",
+    "q": "What advanced-diabetes diagnostic shortcut does the PDF use for reflux-like symptoms?",
+    "a": "It favors diabetic gastroparesis rather than ordinary GERD and says a two-week PPI trial is the wrong exam answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-family-medicine.pdf#page=69"
+    }
   }
 ];
