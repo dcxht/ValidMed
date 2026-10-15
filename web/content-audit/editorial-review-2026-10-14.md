@@ -510,3 +510,9 @@ Live actual CT-card1213 initially loaded after screenshot, then complete natural
 ## October15 02:10 source-to-card reconciliation pp4-17
 
 Re-read source and active cards side by side for pp4-17. Five additional partial/full overlaps retired with nuance merged into active answers:1334opening-snapabsence,1336pregnancycardiaccomparison,1286loudP2,1337dissectionARcause,1354PVCorigin. Full historical IDs remain. Active3021/230figures/609notes,67 retired records. Corrected minor StanfordA/B and peakedT spacing. Primary recognition and actual-figure cards remain intentionally distinct. Source erroneous shortcuts retain verified notes or explicit source-only framing, not silent deletions. Not a fourth whole-document completion claim.
+
+## October15 02:11 source-to-card reconciliation pp18-40
+
+Side-by-side source/card reconciliation throughp40. Twelve further duplicates retired into existing records, with explicit original-ID map, leaving3014active from3093historical records/79retired;230figures/610active notes. Source recognition versus figure practice remain distinct. Additional real details added3089-3093: hepatosplenomegaly in right failure, right-sidedS4with mitral disease, source lateral-MI lead/artery grouping, named endocarditis skin/nail findings, beta-blocker sexual adverse effect. Lateral-MI addition has separate Merck tracing context, without inventing a universal artery rule.
+
+All operations remain reversible; no existing queue, score, flag, missed item or history deleted. Source-only absolute claims remain in their separate verified-note cards. Repeated source pages retained as links. Actual ECG1134hyperkalemia figure loaded fully594pxwide before screenshot070859was accepted; waveform/labels,answer/source/control layout readable390x844.

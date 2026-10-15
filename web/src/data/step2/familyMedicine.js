@@ -695,7 +695,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 21,
       "url": "/mehlman/hy-family-medicine.pdf#page=21"
-    }
+    },
+    "sourcePages": [
+      21
+    ]
   },
   {
     "id": "s2fm-0061",
@@ -776,7 +779,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 23,
       "url": "/mehlman/hy-family-medicine.pdf#page=23"
-    }
+    },
+    "sourcePages": [
+      23
+    ]
   },
   {
     "id": "s2fm-0068",
@@ -820,7 +826,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 24,
       "url": "/mehlman/hy-family-medicine.pdf#page=24"
-    }
+    },
+    "sourcePages": [
+      24
+    ]
   },
   {
     "id": "s2fm-0072",
@@ -848,12 +857,15 @@ export default [
     "id": "s2fm-0074",
     "category": "Vasculitis",
     "q": "Asthma plus eosinophilia, sometimes with sinus disease or neuropathy, suggests which vasculitis?",
-    "a": "Eosinophilic granulomatosis with polyangiitis, formerly Churg-Strauss. The PDF associates it with pANCA and anti-MPO antibodies.",
+    "a": "Eosinophilic granulomatosis with polyangiitis, formerly Churg-Strauss. The PDF associates it with pANCA and anti-MPO antibodies, but positivity is not required in every patient.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 25,
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
-    }
+    },
+    "sourcePages": [
+      25
+    ]
   },
   {
     "id": "s2fm-0075",
@@ -934,7 +946,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 27,
       "url": "/mehlman/hy-family-medicine.pdf#page=27"
-    }
+    },
+    "sourcePages": [
+      27
+    ]
   },
   {
     "id": "s2fm-0082",
@@ -945,7 +960,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 27,
       "url": "/mehlman/hy-family-medicine.pdf#page=27"
-    }
+    },
+    "sourcePages": [
+      27
+    ]
   },
   {
     "id": "s2fm-0083",
@@ -1022,7 +1040,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 28,
       "url": "/mehlman/hy-family-medicine.pdf#page=28"
-    }
+    },
+    "sourcePages": [
+      28
+    ]
   },
   {
     "id": "s2fm-0090",
@@ -1077,7 +1098,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 31,
       "url": "/mehlman/hy-family-medicine.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31
+    ]
   },
   {
     "id": "s2fm-0095",
@@ -1088,7 +1112,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 31,
       "url": "/mehlman/hy-family-medicine.pdf#page=31"
-    }
+    },
+    "sourcePages": [
+      31
+    ]
   },
   {
     "id": "s2fm-0096",
@@ -1235,7 +1262,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 35,
       "url": "/mehlman/hy-family-medicine.pdf#page=35"
-    }
+    },
+    "sourcePages": [
+      35
+    ]
   },
   {
     "id": "s2fm-0109",
@@ -1323,7 +1353,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 37,
       "url": "/mehlman/hy-family-medicine.pdf#page=37"
-    }
+    },
+    "sourcePages": [
+      37
+    ]
   },
   {
     "id": "s2fm-0117",
@@ -1470,7 +1503,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 40,
       "url": "/mehlman/hy-family-medicine.pdf#page=40"
-    }
+    },
+    "sourcePages": [
+      40
+    ]
   },
   {
     "id": "s2fm-0130",
@@ -15263,7 +15299,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 21,
       "url": "/mehlman/hy-family-medicine.pdf#page=21"
-    }
+    },
+    "duplicateOf": "s2fm-0060"
   },
   {
     "id": "s2fm-1309",
@@ -15307,7 +15344,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 23,
       "url": "/mehlman/hy-family-medicine.pdf#page=23"
-    }
+    },
+    "duplicateOf": "s2fm-0067"
   },
   {
     "id": "s2fm-1313",
@@ -15375,7 +15413,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 27,
       "url": "/mehlman/hy-family-medicine.pdf#page=27"
-    }
+    },
+    "duplicateOf": "s2fm-0081"
   },
   {
     "id": "s2fm-1319",
@@ -15386,7 +15425,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 27,
       "url": "/mehlman/hy-family-medicine.pdf#page=27"
-    }
+    },
+    "duplicateOf": "s2fm-0082"
   },
   {
     "id": "s2fm-1320",
@@ -15441,7 +15481,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 28,
       "url": "/mehlman/hy-family-medicine.pdf#page=28"
-    }
+    },
+    "duplicateOf": "s2fm-0089"
   },
   {
     "id": "s2fm-1325",
@@ -16038,7 +16079,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 24,
       "url": "/mehlman/hy-family-medicine.pdf#page=24"
-    }
+    },
+    "duplicateOf": "s2fm-0071"
   },
   {
     "id": "s2fm-1373",
@@ -16064,7 +16106,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 25,
       "url": "/mehlman/hy-family-medicine.pdf#page=25"
-    }
+    },
+    "duplicateOf": "s2fm-0074"
   },
   {
     "id": "s2fm-1375",
@@ -16289,7 +16332,7 @@ export default [
     "id": "s2fm-1393",
     "category": "Pulmonology source details",
     "q": "Which secondary lung-volume changes does the source chart assign to restriction?",
-    "a": "Reduced residual volume,FRC and reserve volumes, with relatively preserved tidal volume in the chart.",
+    "a": "Reduced residual volume, FRC and reserve volumes, with relatively preserved tidal volume in the chart.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 29,
@@ -16305,7 +16348,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 31,
       "url": "/mehlman/hy-family-medicine.pdf#page=31"
-    }
+    },
+    "duplicateOf": "s2fm-0094"
   },
   {
     "id": "s2fm-1395",
@@ -16327,7 +16371,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 31,
       "url": "/mehlman/hy-family-medicine.pdf#page=31"
-    }
+    },
+    "duplicateOf": "s2fm-0095"
   },
   {
     "id": "s2fm-1397",
@@ -16593,7 +16638,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 35,
       "url": "/mehlman/hy-family-medicine.pdf#page=35"
-    }
+    },
+    "duplicateOf": "s2fm-0108"
   },
   {
     "id": "s2fm-1419",
@@ -16692,7 +16738,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 37,
       "url": "/mehlman/hy-family-medicine.pdf#page=37"
-    }
+    },
+    "duplicateOf": "s2fm-0116"
   },
   {
     "id": "s2fm-1428",
@@ -16879,7 +16926,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 40,
       "url": "/mehlman/hy-family-medicine.pdf#page=40"
-    }
+    },
+    "duplicateOf": "s2fm-0129"
   },
   {
     "id": "s2fm-1445",
@@ -37182,6 +37230,65 @@ export default [
     "guideline": {
       "text": "A 2006 macrocytosis review lists myeloma among associated disorders and describes nutritional deficiency, marrow disease, drugs, reticulocytosis and artifacts as mechanisms requiring evaluation. It does not establish RBC immunoglobulin transport as the cause. The source exact mechanism remains unverified rather than a confirmed fact.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1570488/"
+    }
+  },
+  {
+    "id": "s2fm-3089",
+    "category": "Final source-mapping details",
+    "q": "What organ-enlargement finding does the source say can accompany right-heart failure?",
+    "a": "Hepatosplenomegaly, although the source says it is rarely mentioned in its exam vignettes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 4,
+      "url": "/mehlman/hy-family-medicine.pdf#page=4"
+    }
+  },
+  {
+    "id": "s2fm-3090",
+    "category": "Final source-mapping details",
+    "q": "What side can the source S4 arise from when severe mitral stenosis causes pressure to back up through the pulmonary circulation?",
+    "a": "The right ventricle; an S4 is not restricted to the left side in the source explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-family-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2fm-3091",
+    "category": "Final source-mapping details",
+    "q": "Which source coronary artery and lead grouping are used for a lateral MI?",
+    "a": "Left circumflex with V4-V6 in the PDF simplification. Lead distribution and coronary anatomy must be assessed in context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-family-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "Merck Professional illustrates acute lateral infarction with I, aVL, V4 and V6 ST elevation and reciprocal changes. This is an illustrative secondary-reference tracing, not proof that V4-V6 alone identifies the same artery in every patient.",
+      "url": "https://www.merckmanuals.com/professional/multimedia/image/acute-lateral-left-ventricular-infarction-tracing-obtained-within-a-few-hours-of-onset-of-illness"
+    }
+  },
+  {
+    "id": "s2fm-3092",
+    "category": "Final source-mapping details",
+    "q": "Which skin or nail signs does the source mention in endocarditis despite calling them lower yield?",
+    "a": "Janeway lesions, Osler nodes and splinter hemorrhages; the source does not make their presence mandatory.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-family-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2fm-3093",
+    "category": "Final source-mapping details",
+    "q": "Which nonpsychiatric adverse effect does the PDF group with depression under beta blockers?",
+    "a": "Sexual dysfunction, in its source drug list rather than a claim that every patient develops it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-family-medicine.pdf#page=27"
     }
   }
 ];
