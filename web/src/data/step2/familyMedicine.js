@@ -42243,6 +42243,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 257,
       "url": "/mehlman/hy-family-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "ADA Standards of Care 2026 recommendation 15.17 uses insulin for type 1 diabetes in pregnancy and prefers it for GDM/type 2 diabetes in pregnancy. Recommendation 15.21 says metformin/glyburide should not be first-line because they cross the placenta and may not achieve goals. This is pregnancy treatment guidance, not a preventive-screening rule or a complete intrapartum protocol.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690181/"
     }
   },
   {
@@ -42315,6 +42319,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 259,
       "url": "/mehlman/hy-family-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "Cinacalcet labeling revised October 2025 limits its CKD secondary-hyperparathyroidism indication to adults on dialysis, with hypocalcemia risk and monitoring requirements. The label also includes selected hypercalcemia indications in parathyroid carcinoma and primary hyperparathyroidism. The source indication should not be read as all CKD patients or all high-PTH states.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=55f95ae0-84ac-4ae4-b7a0-7590ab919ae1"
     }
   },
   {
@@ -42392,6 +42400,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 266,
       "url": "/mehlman/hy-family-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "AAD distinguishes topical retinoids that help clear pores from oral isotretinoin that treats severe acne through several effects. The source one-line retinoid/sebum statement is not a full mechanism comparison or a complete combination-treatment plan.",
+      "url": "https://www.aad.org/public/diseases/acne/derm-treat/treat"
     }
   },
   {
@@ -42720,6 +42732,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 281,
       "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "ACG 2021 recommendations 9 and 11 distinguish family-history groups: one first-degree relative diagnosed before 60, or at least two at any age, supports the age 40/10-years-earlier start with five-year colonoscopy. One first-degree relative diagnosed at 60 or older has a similar early start but then average-risk intervals. Familial syndromes need separate assessment. This is high-risk guidance, not the USPSTF average-risk schedule.",
+      "url": "https://journals.lww.com/ajg/fulltext/2021/03000/acg_clinical_guidelines__colorectal_cancer.14.aspx"
     }
   },
   {
