@@ -5687,11 +5687,15 @@ export default [
     "id": "s2fm-0504",
     "category": "Neurology",
     "q": "According to the PDF, pes cavus, hammer toes and foot drop suggest which neuropathy?",
-    "a": "Charcot-Marie-Tooth disease. The PDF groups this under autoimmune neuropathies; that classification is recorded as an unverified concern in the editorial ledger.",
+    "a": "Charcot-Marie-Tooth disease. The PDF groups it under autoimmune neuropathies; see the separate current-source note.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 151,
       "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    },
+    "guideline": {
+      "text": "NINDS 2026 describes CMT as a genetic/inherited peripheral neuropathy group, not autoimmune.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/charcot-marie-tooth-disease"
     }
   },
   {
@@ -6267,6 +6271,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 157,
       "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "NIH 2025: pyrimethamine/sulfadiazine requires leucovorin; TMP-SMX is also a preferred acute regimen, not categorically wrong.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis"
     }
   },
   {
@@ -6511,8 +6519,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=160"
     },
     "guideline": {
-      "text": "Current guideline: CDC 2026 bases TIG on dirty/major wound plus unknown, absent or incomplete vaccination, or HIV/severe immunodeficiency, not simply elapsed time after a complete series.",
-      "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html"
+      "text": "CDC 2025 bases TIG for dirty/major wounds on unknown/absent/incomplete vaccination, or HIV/severe immunodeficiency, not elapsed time alone after a complete series. Booster intervals differ by wound type.",
+      "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/"
     }
   },
   {
@@ -21444,6 +21452,702 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 145,
       "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-1879",
+    "category": "Neurology source details",
+    "q": "Which upper-airway, lung and renal constellation does the PDF emphasize for GPA?",
+    "a": "ENT inflammation, hemoptysis and hematuria/necrotizing glomerulonephritis, associated with PR3/cANCA in its pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-1880",
+    "category": "Neurology source details",
+    "q": "How does the source EGPA pattern differ from GPA?",
+    "a": "Asthma and eosinophilia dominate EGPA, with possible sinonasal disease; the source associates MPO/pANCA but that marker is not required in every patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-1881",
+    "category": "Neurology source details",
+    "q": "What neuropathy clue can join an otherwise recognizable systemic vasculitis vignette?",
+    "a": "Patchy asymmetric separate-nerve deficits such as wrist drop and foot drop, called mononeuritis multiplex.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-1882",
+    "category": "Neurology source details",
+    "q": "What inherited/pathology links does the source give for early Alzheimer disease?",
+    "a": "Down syndrome/APP on chromosome 21 and presenilin mutations; it names amyloid plaques and hyperphosphorylated tau tangles.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-1883",
+    "category": "Neurology source details",
+    "q": "Which symptomatic drug classes does the PDF name for Alzheimer disease?",
+    "a": "Cholinesterase inhibitors such as donepezil, galantamine and rivastigmine, plus memantine, an NMDA-receptor antagonist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "FDA 2024 also approved donanemab for Alzheimer disease initiated at mild cognitive impairment/mild dementia stage. This specialized treatment has important ARIA risk and eligibility/monitoring requirements; it is not an option for every dementia patient.",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease"
+    }
+  },
+  {
+    "id": "s2fm-1884",
+    "category": "Neurology source details",
+    "q": "What source first behavioral measure is given for sundowning?",
+    "a": "Reduce ambient noise/distractions, rather than continuous bright illumination in its exam contrast.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-1885",
+    "category": "Neurology source details",
+    "q": "What protein does the source associate with Lewy bodies?",
+    "a": "Alpha-synuclein; it contrasts widespread Lewy-body dementia pathology with nigral involvement in Parkinson disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-1886",
+    "category": "Neurology source details",
+    "q": "What pathology does the source associate with Pick disease?",
+    "a": "Tau-containing Pick bodies. Its broad frontotemporal-dementia category should not imply that every FTD subtype has the same pathology.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2fm-1887",
+    "category": "Neurology source details",
+    "q": "Why should depression and nutritional deficiency remain in a cognitive-decline differential?",
+    "a": "The PDF describes depression-related poor test performance and B12-related neurologic dysfunction as potentially treatable contributors; neither excludes coexisting neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-1888",
+    "category": "Neurology source details",
+    "q": "What neurotransmitter precursor crosses the BBB in carbidopa-levodopa treatment?",
+    "a": "Levodopa; carbidopa reduces peripheral breakdown, increasing availability for central conversion to dopamine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-1889",
+    "category": "Neurology source details",
+    "q": "Which separate metabolism targets does the source contrast with carbidopa?",
+    "a": "COMT inhibitors entacapone/tolcapone and MAO-B inhibition by selegiline, used in selected Parkinson regimens.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-1890",
+    "category": "Neurology source details",
+    "q": "What medication-history change does the source link with new hallucinations in Parkinson disease?",
+    "a": "A recent carbidopa-levodopa addition/dose increase; it favors dose reduction rather than abrupt cessation in its exam example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2fm-1891",
+    "category": "Neurology source details",
+    "q": "How does the PDF treat dopamine agonists after normal iron testing in RLS?",
+    "a": "It lists ropinirole/pramipexole as options alongside gabapentin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-family-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "AASM 2025 guideline strongly recommends gabapentin-family/pregabalin treatments and suggests against standard pramipexole/ropinirole use because of augmentation risk. Iron and exacerbating factors still matter.",
+      "url": "https://link.springer.com/article/10.5664/jcsm.11390"
+    }
+  },
+  {
+    "id": "s2fm-1892",
+    "category": "Neurology source details",
+    "q": "What bladder mechanism does the source give for NPH incontinence?",
+    "a": "Failure to inhibit the voiding reflex, related to periventricular/corona-radiata effects in its explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-1893",
+    "category": "Neurology source details",
+    "q": "Which axial movement clue does the PDF emphasize for progressive supranuclear palsy?",
+    "a": "Axial dystonia with parkinsonism. This is its source clue, not a complete modern diagnostic definition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-1894",
+    "category": "Neurology source details",
+    "q": "What toxin does the source name as a cause of parkinsonism after an illicit drug exposure?",
+    "a": "MPTP, described by the PDF as synthetic-heroin-related exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-1895",
+    "category": "Neurology source details",
+    "q": "Why do both pupils constrict less when light enters the optic-neuritis-affected eye?",
+    "a": "Reduced afferent optic-nerve input yields less bilateral efferent constriction, producing a relative afferent pupillary defect on the swinging-light test.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-family-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2fm-1896",
+    "category": "Neurology source details",
+    "q": "What exclusive-cause assertion does the source make about INO?",
+    "a": "It calls INO pathognomonic for MS.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-family-medicine.pdf#page=150"
+    },
+    "guideline": {
+      "text": "NCBI-hosted StatPearls2023 describes infarction, demyelination and other causes of INO. This is a secondary clinical review, not an issuing-body guideline; INO does not establish MS alone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441970/"
+    }
+  },
+  {
+    "id": "s2fm-1897",
+    "category": "Neurology source details",
+    "q": "What CNS cells and CSF immune finding are named in source MS pathophysiology?",
+    "a": "Oligodendrocyte/myelin injury with IgG oligoclonal bands; diagnostic interpretation depends on the full clinical/imaging context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-family-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2fm-1898",
+    "category": "Neurology source details",
+    "q": "What receptor does baclofen activate for source MS-related spasticity?",
+    "a": "GABA-B receptor, in the source drug explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-1899",
+    "category": "Neurology source details",
+    "q": "What disease-modifying therapy does the PDF name between MS flares?",
+    "a": "Beta-interferon. The source does not supply a complete current disease-modifying-therapy comparison or selection algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-1900",
+    "category": "Neurology source details",
+    "q": "What spinal structures contribute to the mixed UMN/LMN ALS pattern?",
+    "a": "Lateral corticospinal pathways and anterior-horn motor neurons, with a predominantly motor clinical pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-1901",
+    "category": "Neurology source details",
+    "q": "How does the source contrast the myelin target in MS with AIDP/GBS?",
+    "a": "CNS oligodendrocyte-associated myelin versus peripheral Schwann-cell-associated myelin. GBS includes variants beyond the source demyelinating shorthand.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-1902",
+    "category": "Neurology source details",
+    "q": "What timing separates source GBS from CIDP?",
+    "a": "GBS evolves over days and reaches its nadir over weeks; a months-long progressive similar neuropathy suggests CIDP in the PDF comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2fm-1903",
+    "category": "Neurology source details",
+    "q": "What incorrect etiologic grouping does the PDF use for Charcot-Marie-Tooth?",
+    "a": "It places CMT under autoimmune neuropathies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-family-medicine.pdf#page=151"
+    },
+    "guideline": {
+      "text": "NINDS 2026 describes CMT as a group of genetic/inherited peripheral neuropathies, not an autoimmune category.",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/charcot-marie-tooth-disease"
+    }
+  },
+  {
+    "id": "s2fm-1904",
+    "category": "Neurology source details",
+    "q": "What steroid route/taper does the PDF give for Bell palsy?",
+    "a": "IV steroids followed by 10-21 days of an oral taper.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    },
+    "guideline": {
+      "text": "AAO-HNS 2013 recommends oral steroids within 72 hours for patients age 16+ with Bell palsy, with eye protection for impaired closure. The PDF IV/taper sequence is not its standard recommendation.",
+      "url": "https://www.entnet.org/resource/aao-hnsf-clinical-practice-guideline-bells-palsy-press-release-fact-sheet/"
+    }
+  },
+  {
+    "id": "s2fm-1905",
+    "category": "Neurology source details",
+    "q": "What laboratory-test-first rule does the PDF suggest for Bell palsy?",
+    "a": "Lyme serology first if listed, in its source exam rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    },
+    "guideline": {
+      "text": "AAO-HNS advises against routine laboratory testing for every new Bell palsy. History/exam guide evaluation for identifiable causes; do not apply a universal Lyme test rule.",
+      "url": "https://www.entnet.org/resource/aao-hnsf-clinical-practice-guideline-bells-palsy-press-release-fact-sheet/"
+    }
+  },
+  {
+    "id": "s2fm-1906",
+    "category": "Neurology source details",
+    "q": "What autoimmune movement disorder follows rheumatic fever in the source?",
+    "a": "Sydenham chorea, rapid purposeless jerky movement; the source contrasts it with post-streptococcal neuropsychiatric/tic presentations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-1907",
+    "category": "Neurology source details",
+    "q": "What does an edrophonium response test attempt to demonstrate in the source MG discussion?",
+    "a": "Transient improvement from cholinesterase inhibition at the neuromuscular junction. The PDF names the historical Tensilon test; availability and modern testing require separate context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-1908",
+    "category": "Neurology source details",
+    "q": "What neoplasm does the source link with MG versus Lambert-Eaton?",
+    "a": "Thymoma with MG; small-cell lung cancer with Lambert-Eaton. The source suggests chest evaluation after MG, but does not give a full current imaging protocol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-1909",
+    "category": "Neurology source details",
+    "q": "Where do dislodged otoconia originate and enter in source BPPV?",
+    "a": "Normally in utricle/saccule; dislodged calcium-carbonate crystals entering a semicircular canal can cause positional vertigo.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-family-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2fm-1910",
+    "category": "Neurology source details",
+    "q": "What is the mechanical goal of the source Epley maneuver?",
+    "a": "Move canalith material out of the affected semicircular canal toward the utricle; its applicability depends on the BPPV pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-1911",
+    "category": "Neurology source details",
+    "q": "How does the source contrast Meniere hearing loss with presbycusis?",
+    "a": "Meniere can involve fluctuating low-frequency hearing loss; age-related presbycusis predominantly affects higher frequencies.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-1912",
+    "category": "Neurology source details",
+    "q": "Which drug groups does the source list as ototoxic besides aminoglycosides?",
+    "a": "Cisplatin and loop diuretics. Vestibular dizziness can be an adverse effect even when overt hearing loss is not the main symptom.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-1913",
+    "category": "Neurology source details",
+    "q": "How do source trigeminal-neuralgia and cluster-attack durations differ?",
+    "a": "Very brief shock-like neuralgia, often under a minute, versus longer orbital cluster attacks with autonomic features and restlessness; duration alone is not a complete diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-family-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2fm-1914",
+    "category": "Neurology source details",
+    "q": "What serotonin-receptor activity does the PDF give for triptans?",
+    "a": "Serotonin-receptor agonism, used as abortive migraine therapy rather than regular prophylaxis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-1915",
+    "category": "Neurology source details",
+    "q": "What associated syndrome does the source connect with giant-cell arteritis?",
+    "a": "Polymyalgia rheumatica: proximal pain/stiffness rather than primary muscle weakness with high CK; the two do not have to coexist.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-1916",
+    "category": "Neurology source details",
+    "q": "What vision complication does immediate GCA treatment aim to prevent in the PDF?",
+    "a": "Ischemic optic neuropathy/blindness. Its broad all-IV-steroid statement remains separate from the individualized treatment route.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-1917",
+    "category": "Neurology source details",
+    "q": "What additional memory behavior does the source associate with Korsakoff syndrome?",
+    "a": "Confabulation and amnesia after thiamine-deficiency brain injury. The source contrasts Wernicke acute confusion/ataxia/eye findings with chronic memory dysfunction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-family-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2fm-1918",
+    "category": "Neurology source details",
+    "q": "What is asterixis in the source definition?",
+    "a": "Brief lapses in maintained posture causing a flapping appearance, commonly called a hepatic flap. Its placement in the cerebellar table does not make it specific to cerebellar disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-1919",
+    "category": "Neurology source details",
+    "q": "How does midline versus lateral cerebellar dysfunction differ in the source?",
+    "a": "Midline/vermal dysfunction tends toward truncal ataxia; lateral cerebellar dysfunction toward ipsilateral limb coordination deficits.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-1920",
+    "category": "Neurology source details",
+    "q": "What gastrectomy-related deficiency can cause neuropathy with confusion besides B12?",
+    "a": "Thiamine deficiency, with Wernicke features and possible peripheral neuropathy in the source examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-1921",
+    "category": "Neurology source details",
+    "q": "What pancreatic-insufficiency mechanism links CF with vitamin E neuropathy?",
+    "a": "Fat-soluble-vitamin malabsorption; the source also links vitamin D deficiency to low calcium/rickets-like findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-family-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2fm-1922",
+    "category": "Neurology source details",
+    "q": "Which CSF pattern does the source give for cryptococcal meningitis?",
+    "a": "High protein, low glucose and lymphocytic inflammation, especially in immunocompromise; individual cases may not match the full textbook pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-1923",
+    "category": "Neurology source details",
+    "q": "Why can a normal CT fail to exclude the source HSV-encephalitis pattern?",
+    "a": "Temporal inflammation may not be apparent on initial noncontrast CT; compatible fever/confusion still needs appropriate investigation/treatment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-1924",
+    "category": "Neurology source details",
+    "q": "What does the source list as reasons to consider imaging before LP?",
+    "a": "Focal neurologic signs, seizure, papilledema or inability to assess fundi, and impaired consciousness/examination. LP safety and antibiotic timing require clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-family-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2fm-1925",
+    "category": "Neurology source details",
+    "q": "What prophylaxis eligibility detail is absent from the PDF CD4-only toxoplasma rule?",
+    "a": "The PDF names TMP-SMX below CD4 100 without specifying IgG eligibility.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "NIH 2025 recommends primary toxoplasma prophylaxis for Toxoplasma-IgG-positive people with HIV and CD4<100; preferred TMP-SMX also covers PCP.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis"
+    }
+  },
+  {
+    "id": "s2fm-1926",
+    "category": "Neurology source details",
+    "q": "What source assertion excludes TMP-SMX for acute toxoplasma treatment?",
+    "a": "The PDF calls sulfadiazine/pyrimethamine the answer and TMP-SMX wrong.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "NIH 2025 includes TMP-SMX as a preferred acute regimen; pyrimethamine/sulfadiazine is paired with leucovorin. The PDF exclusion is not current universal guidance.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis"
+    }
+  },
+  {
+    "id": "s2fm-1927",
+    "category": "Neurology source details",
+    "q": "What rabies-immunoglobulin terminology does the PDF use after exposure?",
+    "a": "Rabies IVIG plus vaccine courses.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-family-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "CDC 2025 specifies human rabies immune globulin infiltrated around wounds, with remainder IM away from vaccine, for previously unvaccinated people. Previously vaccinated people receive vaccine without HRIG; wound care and immune status matter.",
+      "url": "https://cdc.gov/rabies/hcp/clinical-care/post-exposure-prophylaxis.html"
+    }
+  },
+  {
+    "id": "s2fm-1928",
+    "category": "Neurology source details",
+    "q": "How can facial/sinus infection reach the cavernous sinus in the source?",
+    "a": "Spread through valveless facial veins; the source emphasizes headache, proptosis, diplopia and possible CN VI palsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-1929",
+    "category": "Neurology source details",
+    "q": "What drug mechanism acidifies the gut in source hepatic encephalopathy treatment?",
+    "a": "Lactulose bacterial metabolism produces acids, shifting ammonia toward less-absorbed ammonium.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-1930",
+    "category": "Neurology source details",
+    "q": "Which noninfectious causes of encephalopathy does the source list?",
+    "a": "Uremia, electrolyte abnormalities, hypoglycemia, thyroid storm, toxins, lupus cerebritis and hypoxic injury; confusion alone does not identify a cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-family-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2fm-1931",
+    "category": "Neurology source details",
+    "q": "What difference does the source give between chorea and athetosis?",
+    "a": "Rapid purposeless jerks versus slower writhing movement, both in its Huntington discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-1932",
+    "category": "Neurology source details",
+    "q": "Which repeat and neuronal region does the source associate with Huntington disease?",
+    "a": "Autosomal-dominant CAG expansion on chromosome 4 with caudate degeneration and anticipation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-1933",
+    "category": "Neurology source details",
+    "q": "Which multisystem clues does the source name for Friedreich ataxia?",
+    "a": "Autosomal-recessive GAA expansion, ataxia, foot deformity, kyphoscoliosis and cardiomyopathy; it also mentions diabetes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-1934",
+    "category": "Neurology source details",
+    "q": "What protein-conversion mechanism does the source give for prion disease?",
+    "a": "Abnormally folded prion protein promotes misfolding of normal protein, with beta-sheet-rich abnormal structure and neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-1935",
+    "category": "Neurology source details",
+    "q": "How do the source Salk and Sabin polio vaccines differ?",
+    "a": "Salk: inactivated injected vaccine. Sabin: live attenuated oral vaccine. Both generate circulating neutralizing antibodies; the source emphasizes mucosal response with oral vaccine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-family-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2fm-1936",
+    "category": "Neurology source details",
+    "q": "What exposure distinction does the PDF give for infant versus foodborne botulism?",
+    "a": "Infant ingestion of spores, including honey exposure, versus preformed foodborne toxin in its adult canned-food pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-1937",
+    "category": "Neurology source details",
+    "q": "Which neurotransmitter-release block distinguishes tetanus from botulism in the source?",
+    "a": "Tetanus blocks inhibitory GABA/glycine release, producing spasticity; botulinum toxin blocks acetylcholine release, producing flaccid paralysis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2fm-1938",
+    "category": "Neurology source details",
+    "q": "What two fish-toxin patterns does the PDF contrast?",
+    "a": "Ciguatera with temperature dysesthesia after reef fish; tetrodotoxin with paralysis after pufferfish.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-family-medicine.pdf#page=160"
     }
   }
 ];
