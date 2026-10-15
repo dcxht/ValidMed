@@ -24077,6 +24077,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 210,
       "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "StatPearls medial-antebrachial-cutaneous anatomy reference, a secondary source, assigns medial-forearm skin to that separate cutaneous nerve, not ulnar nerve. Forearm sensory loss should prompt more precise localization.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551638/"
     }
   },
   {
@@ -24272,6 +24276,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 216,
       "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    },
+    "guideline": {
+      "text": "AAOS describes bracing in a growing child with a 25-45 degree curve. Remaining growth, progression and curve size matter; above 45-50 degrees surgery may be recommended.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents/"
     }
   },
   {
@@ -24561,7 +24569,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=225"
     },
     "guideline": {
-      "text": "AAOS describes age/stage/severity-based observation, activity adjustment, physical therapy, containment casting/bracing and selected osteotomy. Routine pediatric hip replacement is not the standard source of care.",
+      "text": "AAOS describes age-, stage- and damage-directed observation, symptomatic care, casting/bracing or selected containment surgery/osteotomy for childhood Perthes disease. Routine hip replacement is not its childhood treatment pathway.",
       "url": "https://www.orthoinfo.org/diseases--conditions/perthes-disease/"
     }
   },
@@ -28544,6 +28552,126 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 174,
       "url": "/mehlman/hy-family-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2fm-2443",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "Which forearm sensory territory does the PDF attribute to the median nerve?",
+    "a": "The lateral forearm, along with the lateral three-and-a-half fingers and thenar region.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    },
+    "guideline": {
+      "text": "StatPearls cutaneous-anatomy reference, a secondary source, assigns lateral-forearm sensation to the lateral antebrachial cutaneous continuation of musculocutaneous nerve, not median nerve.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545249/"
+    }
+  },
+  {
+    "id": "s2fm-2444",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "Which forearm sensory territory does the PDF attribute to the ulnar nerve and use in its cubital-tunnel shortcut?",
+    "a": "Medial-forearm sensation, in addition to the medial hand and one-and-a-half fingers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "StatPearls medial-antebrachial-cutaneous anatomy reference, a secondary source, assigns medial-forearm skin to that separate cutaneous nerve. Ulnar hand symptoms and medial-forearm sensory loss should not be treated as one identical nerve territory.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551638/"
+    }
+  },
+  {
+    "id": "s2fm-2445",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "What thenar sensory involvement does the PDF include in its carpal-tunnel presentation?",
+    "a": "Thenar-region numbness or paresthesia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    },
+    "guideline": {
+      "text": "StatPearls cutaneous-anatomy reference, a secondary source, states thenar-eminence sensation is spared in typical carpal tunnel because the palmar cutaneous branch leaves before and passes outside the tunnel. Thenar motor weakness or atrophy can still occur.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545249/"
+    }
+  },
+  {
+    "id": "s2fm-2446",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "What treatment exclusion does the PDF give for cubital tunnel syndrome?",
+    "a": "It recommends overnight elbow splinting and calls surgery a wrong exam answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "AAOS describes surgery when nonsurgical care fails or compression is severe. Splinting can be appropriate, but surgery is not universally wrong.",
+      "url": "https://orthoinfo.aaos.org/en/treatment/cubital-tunnel-release"
+    }
+  },
+  {
+    "id": "s2fm-2447",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "What universal pre-intubation imaging rule does the PDF give for rheumatoid arthritis?",
+    "a": "CT or flexion-extension cervical radiographs before surgery involving intubation; MRI in its symptomatic-neurologic example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-family-medicine.pdf#page=213"
+    },
+    "guideline": {
+      "text": "A 2022 Korean Journal of Internal Medicine anesthesia review, a secondary source, reports no evidence-based consensus for radiographs in every RA patient and emphasizes careful airway/cervical assessment. It specifically calls MRI essential when neurologic signs are present. This is not a substitute for anesthesia planning.",
+      "url": "https://kjim.org/journal/view.php?number=170692"
+    }
+  },
+  {
+    "id": "s2fm-2448",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "What scoliosis surgical threshold does the PDF cite while saying surgery is not its usual exam answer?",
+    "a": "It cites surgery only when curvature exceeds 40 degrees.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-family-medicine.pdf#page=216"
+    },
+    "guideline": {
+      "text": "AAOS patient guidance discusses bracing at 25-45 degrees while growing and surgery generally above 45-50 degrees or when bracing does not stop progression. Curve, growth and clinical context determine the plan.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents/"
+    }
+  },
+  {
+    "id": "s2fm-2449",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "What fixed imaging sequence does the PDF give for suspected Morton neuroma?",
+    "a": "X-ray first to exclude arthritis/fracture, then ultrasound.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    },
+    "guideline": {
+      "text": "AAOS says X-rays may be required to exclude other causes; ultrasound is preferred for neuroma abnormalities and MRI is usually unnecessary. Imaging is guided by clinical evaluation, not a mandatory identical sequence for every patient.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/mortons-neuroma"
+    }
+  },
+  {
+    "id": "s2fm-2450",
+    "category": "Musculoskeletal exact-claim review",
+    "q": "What universal treatment does the PDF give for Blount disease?",
+    "a": "Surgery by osteotomy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    },
+    "guideline": {
+      "text": "AAOS describes bracing, surgery or both, depending on age and progression. Toddlers may benefit from bracing; adolescent disease or progression despite bracing often requires surgery.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/bowed-legs-blounts-disease/"
     }
   }
 ];
