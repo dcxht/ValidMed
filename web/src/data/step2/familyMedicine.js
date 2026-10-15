@@ -8130,7 +8130,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=197"
     },
     "guideline": {
-      "text": "Current guidance: AHA 2021 says ocular massage is unproven and may be harmful; CRAO is an emergency requiring rapid emergency-department triage.",
+      "text": "AHA 2021: ocular massage is unproven and potentially harmful. CRAO requires rapid emergency stroke assessment rather than delay for this maneuver.",
       "url": "https://professional.heart.org/en/science-news/management-of-central-retinal-artery-occlusion/top-things-to-know"
     }
   },
@@ -23498,6 +23498,478 @@ export default [
     "guideline": {
       "text": "FDA 2025 Suboxone film is administered sublingually or buccally and should not be swallowed/chewed/cut. It is part of a complete OUD treatment plan, not reserved only for people who previously misused methadone.",
       "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022410s056lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2053",
+    "category": "Ophthalmology source details",
+    "q": "How does the source distinguish CN III,IV andVI eye-position palsies?",
+    "a": "CN III: down-and-out; CN IV: vertical misalignment with compensatory head tilt; CN VI: impaired abduction with medial deviation. The diagram is a source simplification of muscle actions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-family-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2fm-2054",
+    "category": "Ophthalmology source details",
+    "q": "Does the source glaucoma definition require increased intraocular pressure?",
+    "a": "It defines glaucoma through increased IOP from impaired drainage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    },
+    "guideline": {
+      "text": "NEI 2024 notes that some people with normal pressure develop glaucoma and not everyone with high pressure has it. Optic-nerve/field assessment matters beyond tonometry.",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/glaucoma-and-eye-pressure"
+    }
+  },
+  {
+    "id": "s2fm-2055",
+    "category": "Ophthalmology source details",
+    "q": "What medical-only limitation exists in the PDF acute-angle-closure drug list?",
+    "a": "It lists mannitol, timolol, pilocarpine and brimonidine without a definitive procedural step.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    },
+    "guideline": {
+      "text": "AAO 2021 teaching review: pupillary-block acute angle closure needs definitive laser peripheral iridotomy, commonly after pressure-lowering therapy. Cause-specific urgent ophthalmic care is required; pilocarpine can worsen some non-pupillary-block forms.",
+      "url": "https://www.aao.org/young-ophthalmologists/yo-info/article/yo-need-to-know-acute-angle-closure"
+    }
+  },
+  {
+    "id": "s2fm-2056",
+    "category": "Ophthalmology source details",
+    "q": "How do source carbonic-anhydrase inhibitors and beta-blockers lower IOP?",
+    "a": "They reduce aqueous-humor production, contrasted with prostaglandin-mediated increased outflow.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-2057",
+    "category": "Ophthalmology source details",
+    "q": "What visual region is affected by source macular degeneration versus glaucoma?",
+    "a": "Central vision in macular degeneration versus peripheral-field loss in its glaucoma pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-2058",
+    "category": "Ophthalmology source details",
+    "q": "What are drusen in the source AMD fundus description?",
+    "a": "Yellow lipoproteinaceous deposits, supporting the source macular-degeneration pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2fm-2059",
+    "category": "Ophthalmology source details",
+    "q": "What non-neovascular AMD management does the source leave out by saying dry disease is supportive only?",
+    "a": "The PDF says supportive care for dry AMD.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-family-medicine.pdf#page=195"
+    },
+    "guideline": {
+      "text": "NEI AREDS evidence supports selected nutritional formulations for intermediate/late AMD, not routine supplements for early/no AMD. Selection and smoking-related beta-carotene risks matter. This note does not cover every newer geographic-atrophy therapy.",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/aredsareds2-frequently-asked-questions"
+    }
+  },
+  {
+    "id": "s2fm-2060",
+    "category": "Ophthalmology source details",
+    "q": "What paired visual deficits does the PDF use for retinitis pigmentosa?",
+    "a": "Night blindness and progressive peripheral-field loss, often with a family history and characteristic pigmentary fundus findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-family-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2fm-2061",
+    "category": "Ophthalmology source details",
+    "q": "What trauma/refractive contexts does the source associate with retinal detachment?",
+    "a": "Eye trauma and severe myopia; new visual loss needs urgent eye assessment rather than assuming an alternative from mechanism alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-family-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2fm-2062",
+    "category": "Ophthalmology source details",
+    "q": "What vascular sources can embolize to the central retinal artery in the source?",
+    "a": "Carotid atheroma and atrial thrombus related to AF, producing sudden painless monocular loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2fm-2063",
+    "category": "Ophthalmology source details",
+    "q": "Why can retinal artery occlusion have a cherry-red foveal appearance?",
+    "a": "Pale ischemic surrounding retina contrasts with the foveal/choroidal circulation in the source explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2fm-2064",
+    "category": "Ophthalmology source details",
+    "q": "What treatment does the PDF suggest for retinal artery occlusion?",
+    "a": "Ocular massage to try to dislodge an embolus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-family-medicine.pdf#page=197"
+    },
+    "guideline": {
+      "text": "AHA 2021 scientific statement: CRAO is an acute ischemic-stroke emergency needing rapid emergency evaluation. Ocular massage and similar conservative measures lack proven efficacy and may harm; they must not delay stroke care.",
+      "url": "https://professional.heart.org/en/science-news/management-of-central-retinal-artery-occlusion/top-things-to-know"
+    }
+  },
+  {
+    "id": "s2fm-2065",
+    "category": "Ophthalmology source details",
+    "q": "What source lesion does a retinal refractile body refer to?",
+    "a": "An embolus visible in a retinal vessel, in its illustrated comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2fm-2066",
+    "category": "Ophthalmology source details",
+    "q": "How do soft and hard retinal exudates differ in the source?",
+    "a": "Cotton-wool/soft lesions represent nerve-fiber ischemic/axoplasmic change; hard exudates are lipid/protein deposits from leaky vessels.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2fm-2067",
+    "category": "Ophthalmology source details",
+    "q": "Can cotton-wool spots and retinal hemorrhages occur only in diabetes?",
+    "a": "No. The source also describes them in hypertension; the image alone does not establish a single systemic cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-family-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2fm-2068",
+    "category": "Ophthalmology source details",
+    "q": "Why is corneal arcus not proof of dyslipidemia in every patient?",
+    "a": "It can occur with age even without a lipid disorder in the source; age and clinical context matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-family-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2fm-2069",
+    "category": "Ophthalmology source details",
+    "q": "What examination highlights a source corneal epithelial defect?",
+    "a": "Fluorescein staining under appropriate blue/violet illumination; the defect fluoresces, rather than diagnosing from discomfort alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-family-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2fm-2070",
+    "category": "Ophthalmology source details",
+    "q": "What pressure events can precipitate a subconjunctival hemorrhage in the source?",
+    "a": "Forceful cough/vomiting or trauma can rupture superficial conjunctival vessels; its benign example must be distinguished from a painful/vision-threatening injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-family-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2fm-2071",
+    "category": "Ophthalmology source details",
+    "q": "What do WAGR and CHARGE connect with source iris abnormalities?",
+    "a": "Aniridia is linked with WAGR/WT1-related disease; iris coloboma with CHARGE. These are syndromic associations rather than diagnoses from one eye finding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-family-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2fm-2072",
+    "category": "Ophthalmology source details",
+    "q": "How does source orbital infection differ anatomically from preseptal cellulitis?",
+    "a": "Orbital infection extends posterior to the orbital septum and needs urgent assessment/IV treatment; preseptal disease is anterior to the septum, not simply a milder orbital infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-family-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2fm-2073",
+    "category": "Ophthalmology source details",
+    "q": "How does source ocular misalignment differ from amblyopia?",
+    "a": "Strabismus is misalignment; amblyopia is impaired visual development/acuity. The PDF uses lazy eye for the former.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "NEI calls amblyopia lazy eye and lists strabismus as one cause. Management first addresses the visual problem and may use patching/atropine of the stronger eye; not all misalignment is due to weak muscles.",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/amblyopia-lazy-eye"
+    }
+  },
+  {
+    "id": "s2fm-2074",
+    "category": "Ophthalmology source details",
+    "q": "What lens metabolic mechanism links diabetes and cataract in the source?",
+    "a": "Lens glucose conversion to sorbitol via aldose reductase can cause osmotic stress; it is one source mechanism, not the only cataract cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-2075",
+    "category": "Ophthalmology source details",
+    "q": "How does a pterygium differ from a pinguecula at the corneal boundary?",
+    "a": "Pterygium crosses onto the cornea; pinguecula stays on the conjunctiva. Chronic UV exposure is the source association.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2fm-2076",
+    "category": "Ophthalmology source details",
+    "q": "What examination does the source name for suspected anterior uveitis?",
+    "a": "Slit-lamp examination, looking for anterior-chamber inflammation in the appropriate painful/red-eye context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2fm-2077",
+    "category": "Ophthalmology source details",
+    "q": "What connective-tissue disorders can cause lens displacement in the source?",
+    "a": "Marfan syndrome and homocystinuria; the PDF does not give a universal direction-of-dislocation rule here.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-2078",
+    "category": "Ophthalmology source details",
+    "q": "Which mitochondrial disease names does the source group with LHON?",
+    "a": "MELAS and MERRF; it gives broad eye/ear, hypotonia and lactic-acidosis clues that should not be required in every mitochondrial condition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    }
+  },
+  {
+    "id": "s2fm-2079",
+    "category": "Ophthalmology source details",
+    "q": "Why is topical neonatal erythromycin not adequate treatment for established chlamydial disease?",
+    "a": "The source emphasizes associated respiratory infection and systemic therapy rather than ointment alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-2080",
+    "category": "Ophthalmology source details",
+    "q": "Which neonatal gonococcal drug default does the PDF give?",
+    "a": "A third-generation cephalosporin, usually cefotaxime in its pediatric shortcut.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    },
+    "guideline": {
+      "text": "CDC 2021 recommends systemic ceftriaxone for gonococcal ophthalmia, with bilirubin/calcium cautions and cefotaxime when ceftriaxone cannot be used. Topical therapy alone is inadequate.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+    }
+  },
+  {
+    "id": "s2fm-2081",
+    "category": "Ophthalmology source details",
+    "q": "What chemical agent does the source associate with historical neonatal chemical conjunctivitis?",
+    "a": "Silver nitrate prophylaxis, contrasted with current erythromycin ointment in its discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-2082",
+    "category": "Ophthalmology source details",
+    "q": "What does conjunctival cobblestoning suggest in the source?",
+    "a": "An allergic conjunctivitis pattern; history and symptoms are still needed because a single surface finding is not a full diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 207,
+      "url": "/mehlman/hy-family-medicine.pdf#page=207"
+    }
+  },
+  {
+    "id": "s2fm-2083",
+    "category": "Ophthalmology source details",
+    "q": "What drug route does the PDF give for herpes zoster ophthalmicus?",
+    "a": "Topical acyclovir/valacyclovir in its source treatment summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 208,
+      "url": "/mehlman/hy-family-medicine.pdf#page=208"
+    },
+    "guideline": {
+      "text": "AAO EyeWiki clinical review describes systemic oral antiviral therapy for HZO, with IV therapy in selected severe/intolerant patients. Topical-only is not an adequate general treatment plan.",
+      "url": "https://eyewiki.aao.org/Herpes_Zoster_Ophthalmicus"
+    }
+  },
+  {
+    "id": "s2fm-2084",
+    "category": "Ophthalmology source details",
+    "q": "What antiviral does the source name for CMV retinitis?",
+    "a": "Ganciclovir; actual regimen depends on lesion location, immune status and specialist management.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 208,
+      "url": "/mehlman/hy-family-medicine.pdf#page=208"
+    }
+  },
+  {
+    "id": "s2fm-2085",
+    "category": "Musculoskeletal source details",
+    "q": "What shoulder motion distinction separates the source supraspinatus from deltoid?",
+    "a": "Supraspinatus initiates abduction; deltoid supplies much of subsequent abduction. Source fixed-degree clues are simplified examination associations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-2086",
+    "category": "Musculoskeletal source details",
+    "q": "Why is pitcher history alone insufficient to choose infraspinatus in the source?",
+    "a": "A positive can test/abduction weakness still implicates supraspinatus; the physical maneuver matters more than the sport label.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-2087",
+    "category": "Musculoskeletal source details",
+    "q": "What conditions does the source associate with carpal-tunnel median compression?",
+    "a": "Pregnancy edema, hypothyroidism, acromegaly and repetitive/vibration exposure among its examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-family-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2fm-2088",
+    "category": "Musculoskeletal source details",
+    "q": "What carpal-tunnel treatment does the PDF call always wrong?",
+    "a": "Surgery; it instead favors splinting then steroid injection in its source ladder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "AAOS 2024 provides surgical-release recommendations and notes steroid injections do not provide long-term improvement. Surgery is not categorically wrong, and temporary relief is not the same as durable benefit.",
+      "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2089",
+    "category": "Musculoskeletal source details",
+    "q": "How do source Guyon-canal and cubital-tunnel compression differ in location?",
+    "a": "Wrist/hand versus elbow ulnar compression. The source forearm-sensory shorthand should not replace precise cutaneous nerve anatomy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-2090",
+    "category": "Musculoskeletal source details",
+    "q": "Which hand muscle functions does the source associate with the ulnar nerve?",
+    "a": "Finger abduction/adduction through interossei and thumb adduction; Froment testing assesses the latter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-2091",
+    "category": "Musculoskeletal source details",
+    "q": "What muscles does source radial BEST mnemonic include?",
+    "a": "Brachioradialis, extensors, supinator and triceps; lesion level determines which are actually weak.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2fm-2092",
+    "category": "Musculoskeletal source details",
+    "q": "What motion finding helps distinguish source adhesive capsulitis from isolated tendon pain?",
+    "a": "Both active and passive restriction in multiple directions; the source names range-of-motion therapy and increased risk in diabetes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-family-medicine.pdf#page=210"
     }
   }
 ];
