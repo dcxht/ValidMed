@@ -35640,5 +35640,161 @@ export default [
       "page": 228,
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
     }
+  },
+  {
+    "id": "s2fm-2991",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What T-score interval does the source give for osteopenia?",
+    "a": "1.5-2.5 standard deviations below the young-adult mean.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    },
+    "guideline": {
+      "text": "ISCD uses low bone mass with T-scores below -1.0 and above -2.5 in the applicable diagnostic population. Osteoporosis by densitometry is T-score at or below -2.5 at qualifying sites; age/sex and clinical context matter.",
+      "url": "https://iscd.org/official-positions-2023/"
+    }
+  },
+  {
+    "id": "s2fm-2992",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What sex-based reassurance does the PDF give about osteoporosis?",
+    "a": "It says males are unlikely to develop it, even with a female family history.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    },
+    "guideline": {
+      "text": "NIAMS states osteoporosis affects women and men of all races and ethnic groups. Male sex does not exclude clinically important fracture risk or secondary osteoporosis.",
+      "url": "https://www.niams.nih.gov/health-topics/osteoporosis"
+    }
+  },
+  {
+    "id": "s2fm-2993",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What structural form of PTH analogue does the source name for osteoporosis?",
+    "a": "Teriparatide, an N-terminal PTH analogue that can stimulate bone formation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-2994",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What gross appearance does the source associate with chondrosarcoma?",
+    "a": "Glistening or shiny cartilage-producing tumor, which may occur in long bones or the pelvis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-2995",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What bone-scan location does the source contrast for Ewing sarcoma and osteomyelitis?",
+    "a": "Diaphyseal uptake for its Ewing pattern versus metaphyseal uptake for its typical osteomyelitis pattern; these are not absolute location exclusions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-2996",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What linkage role does the source give dystrophin at the muscle membrane?",
+    "a": "Connecting the internal cytoskeleton through the dystroglycan complex to the extracellular matrix; disruption contributes to muscle-fiber damage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-2997",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What early hair pattern can accompany the source myotonic-dystrophy presentation?",
+    "a": "Frontal balding, alongside grip myotonia and other possible multisystem findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-2998",
+    "category": "Bone and myopathy exact-source details",
+    "q": "What pain-and-stiffness finding can occur in both PMR and polymyositis according to the source?",
+    "a": "Proximal pain and stiffness in an older adult. Objective strength testing and CK help distinguish its patterns, rather than using pain alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-2999",
+    "category": "Inflammatory myopathy source reconciliation",
+    "q": "What single biopsy immune-cell pattern does the PDF give for polymyositis/dermatomyositis?",
+    "a": "CD8-positive T cells and macrophages surrounding muscle fibers.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    },
+    "guideline": {
+      "text": "Merck distinguishes the usual polymyositis endomysial CD8 pattern from dermatomyositis perifascicular/perivascular changes. The source one-pattern description should not be imposed on both diseases.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies"
+    }
+  },
+  {
+    "id": "s2fm-3000",
+    "category": "Inflammatory myopathy source reconciliation",
+    "q": "What antibody does the PDF say is often positive in its polymyositis/dermatomyositis discussion?",
+    "a": "Anti-Jo-1.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    },
+    "guideline": {
+      "text": "Merck links Jo-1/other antisynthetase antibodies with a subset including interstitial lung disease and arthritis; it describes a broader antibody panel and variable phenotypes. Jo-1 is not required for every inflammatory myopathy diagnosis.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies"
+    }
+  },
+  {
+    "id": "s2fm-3001",
+    "category": "Inflammatory myopathy source reconciliation",
+    "q": "What first diagnostic study does the source choose for suspected polymyositis/dermatomyositis?",
+    "a": "Electromyography and nerve-conduction studies, followed by confirmatory muscle biopsy in its sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    },
+    "guideline": {
+      "text": "Merck uses clinical findings, muscle enzymes, antibody testing and selected EMG/MRI/biopsy. EMG/MRI may localize a biopsy site; characteristic dermatomyositis skin disease may not require muscle biopsy. A rigid identical test sequence is not universal.",
+      "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies"
+    }
+  },
+  {
+    "id": "s2fm-3002",
+    "category": "Mitochondrial inheritance exact-source review",
+    "q": "What universal inheritance claim does the PDF make for mitochondrial disorders?",
+    "a": "Maternally inherited only.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics describes TK2-related mitochondrial DNA depletion syndrome as autosomal recessive. Mitochondrial disorders due to nuclear-gene defects need not follow maternal mitochondrial-DNA inheritance.",
+      "url": "https://medlineplus.gov/genetics/condition/tk2-related-mitochondrial-dna-depletion-syndrome-myopathic-form/"
+    }
   }
 ];
