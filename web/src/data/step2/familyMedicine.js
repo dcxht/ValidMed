@@ -31167,5 +31167,80 @@ export default [
       "text": "A 2023 clinicopathologic case series reports renal metastases from lung cancer, including squamous-cell carcinoma. This is observational case-series evidence, not a frequency estimate, but it disproves the source absolute exclusion.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10169492/"
     }
+  },
+  {
+    "id": "s2fm-2632",
+    "category": "Pediatric source detail review",
+    "q": "Up to what age does the PDF call occasional encopresis normal?",
+    "a": "Through age 5.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    },
+    "guideline": {
+      "text": "StatPearls, a secondary clinical review, describes encopresis using a developmental age of at least 4 and repeated inappropriate stool passage over time. Recurrent soiling around that age should be assessed rather than dismissed solely because the child is under 5.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560560/"
+    }
+  },
+  {
+    "id": "s2fm-2633",
+    "category": "Oral and systemic source review",
+    "q": "Which vascular shunt does the PDF name as a cause of high-output cardiac failure in HHT?",
+    "a": "Pulmonary AV fistulae.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-family-medicine.pdf#page=55"
+    },
+    "guideline": {
+      "text": "The international HHT management algorithms, revised April 2025, place high-output cardiac failure in the liver vascular-malformation pathway and discuss specialist management for that complication. Pulmonary AVMs and liver VMs have distinct complication/evaluation pathways.",
+      "url": "https://hhtguidelines.org/wp-content/uploads/2025/04/Algorithms-for-the-Diagnosis-Evaluation-and-Management-of-HHT-4.14.2025.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2634",
+    "category": "Oral and systemic source review",
+    "q": "How important does the PDF say coronary aneurysms are to recognizing Kawasaki disease?",
+    "a": "It downplays them as rarely mentioned in its exam vignettes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    },
+    "guideline": {
+      "text": "AHA issuing-body summary of the 2024 scientific statement identifies coronary involvement as a hallmark and recommends risk assessment and serial echocardiographic monitoring. The source exam-frequency comment should not reduce attention to this major complication.",
+      "url": "https://newsroom.heart.org/news/early-detection-intensive-treatment-critical-for-high-risk-patients-with-kawasaki-disease"
+    }
+  },
+  {
+    "id": "s2fm-2635",
+    "category": "Oral infection exact-source review",
+    "q": "What claim does the PDF make about the usual oral-versus-genital distribution of HSV types?",
+    "a": "It rejects emphasizing HSV-1 as oral and HSV-2 as genital, noting either type can cause herpes labialis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-family-medicine.pdf#page=57"
+    },
+    "guideline": {
+      "text": "CDC says HSV-1 often causes oral herpes and that both HSV-1 and HSV-2 can cause genital herpes. Overlap does not erase the usual associations, and lesion site alone does not determine viral type.",
+      "url": "https://cdc.gov/herpes/about/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2636",
+    "category": "Pediatric treatment exact-source review",
+    "q": "What sole pediatric aspirin indication does the PDF claim?",
+    "a": "Kawasaki disease is the only condition for which aspirin can be given to children.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-family-medicine.pdf#page=56"
+    },
+    "guideline": {
+      "text": "BNFC/NICE warns against routine aspirin under age 16 because of Reye risk but lists specialist indications beyond Kawasaki, including prevention of clot formation after cardiac surgery and stroke prophylaxis in selected high-risk children. It is not a routine childhood fever medicine.",
+      "url": "https://bnfc.nice.org.uk/treatment-summaries/antiplatelet-drugs/"
+    }
   }
 ];
