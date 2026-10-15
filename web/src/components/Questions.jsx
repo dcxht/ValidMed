@@ -70,6 +70,13 @@ function GuidelineNote({ note }) {
   return <p className="q-guideline-note"><span className="q-guideline-label">Verified note: </span>{note.text} <a href={note.url} target="_blank" rel="noreferrer">Source ↗</a></p>;
 }
 
+function SourcePages({ question }) {
+  if (!question.source) return null;
+  const pages = question.sourcePages || [question.source.page];
+  const base = question.source.url.split("#")[0];
+  return <>{pages.map((page) => <a key={page} className="q-source" href={`${base}#page=${page}`} target="_blank" rel="noreferrer">p. {page} ↗</a>)}</>;
+}
+
 function storageKey(bank) { return key(`validmed_step2_q_${bank}`); }
 
 function shuffle(arr) {
@@ -825,7 +832,7 @@ export default function Questions() {
                     <div className="q-divider-line" />
                     <AnswerText text={item.a} />
                     <GuidelineNote note={item.guideline} />
-                    {item.source && <a className="q-source" href={item.source.url} target="_blank" rel="noreferrer">p. {item.source.page} ↗</a>}
+                    <SourcePages question={item} />
                     {item.aimg && <img className="q-review-img" src={item.aimg} alt={item.alt || ""} loading="lazy" />}
                   </div>
                 )}
@@ -948,7 +955,7 @@ export default function Questions() {
             <div className="q-divider-line" />
             <AnswerText text={q.a} />
             <GuidelineNote note={q.guideline} />
-            {q.source && <a className="q-source" href={q.source.url} target="_blank" rel="noreferrer">p. {q.source.page} ↗</a>}
+            <SourcePages question={q} />
             {q.aimg && <img className="q-question-img" src={q.aimg} alt={q.alt || ""} loading="lazy" />}
           </div>
         )}

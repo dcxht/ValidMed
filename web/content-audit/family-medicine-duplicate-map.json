@@ -2,10 +2,160 @@
   "reason": "Exact or near-identical source concept repeated across conversion passes. Full retired records retained for saved sessions, missed cards, flags and history. New sessions omit them; no local storage migration or deletion.",
   "duplicates": [
     {
+      "retired": "s2fm-0520",
+      "active": "s2fm-0135",
+      "retiredPage": 155,
+      "activePage": 42
+    },
+    {
+      "retired": "s2fm-0551",
+      "active": "s2fm-0139",
+      "retiredPage": 157,
+      "activePage": 44
+    },
+    {
+      "retired": "s2fm-0736",
+      "active": "s2fm-0156",
+      "retiredPage": 206,
+      "activePage": 48
+    },
+    {
+      "retired": "s2fm-0841",
+      "active": "s2fm-0601",
+      "retiredPage": 235,
+      "activePage": 167
+    },
+    {
+      "retired": "s2fm-0896",
+      "active": "s2fm-0835",
+      "retiredPage": 243,
+      "activePage": 234
+    },
+    {
+      "retired": "s2fm-1002",
+      "active": "s2fm-0760",
+      "retiredPage": 263,
+      "activePage": 212
+    },
+    {
+      "retired": "s2fm-1015",
+      "active": "s2fm-0260",
+      "retiredPage": 268,
+      "activePage": 75
+    },
+    {
+      "retired": "s2fm-1016",
+      "active": "s2fm-0257",
+      "retiredPage": 268,
+      "activePage": 74
+    },
+    {
+      "retired": "s2fm-1029",
+      "active": "s2fm-0177",
+      "retiredPage": 276,
+      "activePage": 53
+    },
+    {
+      "retired": "s2fm-1035",
+      "active": "s2fm-0487",
+      "retiredPage": 277,
+      "activePage": 146
+    },
+    {
+      "retired": "s2fm-1036",
+      "active": "s2fm-0486",
+      "retiredPage": 277,
+      "activePage": 146
+    },
+    {
+      "retired": "s2fm-1041",
+      "active": "s2fm-1597",
+      "retiredPage": 279,
+      "activePage": 71
+    },
+    {
+      "retired": "s2fm-1049",
+      "active": "s2fm-0123",
+      "retiredPage": 282,
+      "activePage": 39
+    },
+    {
+      "retired": "s2fm-1079",
+      "active": "s2fm-0155",
+      "retiredPage": 294,
+      "activePage": 48
+    },
+    {
+      "retired": "s2fm-1085",
+      "active": "s2fm-1866",
+      "retiredPage": 299,
+      "activePage": 143
+    },
+    {
+      "retired": "s2fm-1088",
+      "active": "s2fm-0575",
+      "retiredPage": 304,
+      "activePage": 161
+    },
+    {
+      "retired": "s2fm-1089",
+      "active": "s2fm-0574",
+      "retiredPage": 304,
+      "activePage": 161
+    },
+    {
+      "retired": "s2fm-1099",
+      "active": "s2fm-0244",
+      "retiredPage": 307,
+      "activePage": 70
+    },
+    {
+      "retired": "s2fm-1104",
+      "active": "s2fm-1920",
+      "retiredPage": 310,
+      "activePage": 155
+    },
+    {
+      "retired": "s2fm-1105",
+      "active": "s2fm-0377",
+      "retiredPage": 311,
+      "activePage": 113
+    },
+    {
+      "retired": "s2fm-1118",
+      "active": "s2fm-0519",
+      "retiredPage": 315,
+      "activePage": 155
+    },
+    {
+      "retired": "s2fm-1120",
+      "active": "s2fm-0076",
+      "retiredPage": 316,
+      "activePage": 26
+    },
+    {
+      "retired": "s2fm-1315",
+      "active": "s2fm-0484",
+      "retiredPage": 25,
+      "activePage": 146
+    },
+    {
+      "retired": "s2fm-1376",
+      "active": "s2fm-0514",
+      "retiredPage": 26,
+      "activePage": 154
+    },
+    {
       "retired": "s2fm-1473",
       "active": "s2fm-0149",
       "retiredPage": 46,
       "activePage": 46
+    },
+    {
+      "retired": "s2fm-1721",
+      "active": "s2fm-0972",
+      "retiredPage": 96,
+      "activePage": 256
     },
     {
       "retired": "s2fm-2005",
@@ -26,6 +176,18 @@
       "activePage": 239
     },
     {
+      "retired": "s2fm-2186",
+      "active": "s2fm-0892",
+      "retiredPage": 242,
+      "activePage": 242
+    },
+    {
+      "retired": "s2fm-2212",
+      "active": "s2fm-0952",
+      "retiredPage": 252,
+      "activePage": 252
+    },
+    {
       "retired": "s2fm-2217",
       "active": "s2fm-0968",
       "retiredPage": 255,
@@ -39,9 +201,21 @@
     },
     {
       "retired": "s2fm-2270",
-      "active": "s2fm-1049",
+      "active": "s2fm-0123",
       "retiredPage": 282,
-      "activePage": 282
+      "activePage": 39
+    },
+    {
+      "retired": "s2fm-2297",
+      "active": "s2fm-1866",
+      "retiredPage": 299,
+      "activePage": 143
+    },
+    {
+      "retired": "s2fm-2314",
+      "active": "s2fm-1525",
+      "retiredPage": 308,
+      "activePage": 55
     },
     {
       "retired": "s2fm-2328",
@@ -50,46 +224,22 @@
       "activePage": 315
     },
     {
-      "retired": "s2fm-2540",
-      "active": "s2fm-2313",
-      "retiredPage": 307,
-      "activePage": 307
+      "retired": "s2fm-2335",
+      "active": "s2fm-1347",
+      "retiredPage": 11,
+      "activePage": 11
     },
     {
-      "retired": "s2fm-2552",
-      "active": "s2fm-2332",
-      "retiredPage": 317,
-      "activePage": 317
+      "retired": "s2fm-2498",
+      "active": "s2fm-0899",
+      "retiredPage": 273,
+      "activePage": 243
     },
     {
-      "retired": "s2fm-1315",
-      "active": "s2fm-0484",
-      "retiredPage": 25,
-      "activePage": 146
-    },
-    {
-      "retired": "s2fm-1118",
-      "active": "s2fm-0519",
-      "retiredPage": 315,
-      "activePage": 155
-    },
-    {
-      "retired": "s2fm-1036",
-      "active": "s2fm-0486",
-      "retiredPage": 277,
-      "activePage": 146
-    },
-    {
-      "retired": "s2fm-1015",
-      "active": "s2fm-0260",
-      "retiredPage": 268,
-      "activePage": 75
-    },
-    {
-      "retired": "s2fm-1089",
-      "active": "s2fm-0574",
-      "retiredPage": 304,
-      "activePage": 161
+      "retired": "s2fm-2512",
+      "active": "s2fm-1898",
+      "retiredPage": 280,
+      "activePage": 151
     },
     {
       "retired": "s2fm-2513",
@@ -98,10 +248,34 @@
       "activePage": 7
     },
     {
-      "retired": "s2fm-1099",
-      "active": "s2fm-0244",
+      "retired": "s2fm-2540",
+      "active": "s2fm-2313",
       "retiredPage": 307,
-      "activePage": 70
+      "activePage": 307
+    },
+    {
+      "retired": "s2fm-2546",
+      "active": "s2fm-1557",
+      "retiredPage": 313,
+      "activePage": 64
+    },
+    {
+      "retired": "s2fm-2552",
+      "active": "s2fm-2332",
+      "retiredPage": 317,
+      "activePage": 317
+    },
+    {
+      "retired": "s2fm-2711",
+      "active": "s2fm-0147",
+      "retiredPage": 93,
+      "activePage": 46
+    },
+    {
+      "retired": "s2fm-2850",
+      "active": "s2fm-0547",
+      "retiredPage": 156,
+      "activePage": 156
     }
   ]
 }

@@ -853,7 +853,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 26,
       "url": "/mehlman/hy-family-medicine.pdf#page=26"
-    }
+    },
+    "sourcePages": [
+      26,
+      316
+    ]
   },
   {
     "id": "s2fm-0077",
@@ -1365,12 +1369,16 @@ export default [
     "id": "s2fm-0123",
     "category": "Autoimmune lung disease",
     "q": "How can sarcoidosis cause hypercalcemia?",
-    "a": "Activated macrophages in granulomas express 1-alpha-hydroxylase, increasing active vitamin D and intestinal calcium absorption.",
+    "a": "Activated macrophages in granulomas express 1-alpha-hydroxylase, increasing active vitamin D and intestinal calcium absorption. Rising calcium suppresses native PTH.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 39,
       "url": "/mehlman/hy-family-medicine.pdf#page=39"
-    }
+    },
+    "sourcePages": [
+      39,
+      282
+    ]
   },
   {
     "id": "s2fm-0124",
@@ -1502,7 +1510,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 42,
       "url": "/mehlman/hy-family-medicine.pdf#page=42"
-    }
+    },
+    "sourcePages": [
+      42,
+      155
+    ]
   },
   {
     "id": "s2fm-0136",
@@ -1546,7 +1558,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 44,
       "url": "/mehlman/hy-family-medicine.pdf#page=44"
-    }
+    },
+    "sourcePages": [
+      44,
+      157
+    ]
   },
   {
     "id": "s2fm-0140",
@@ -1634,7 +1650,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 46,
       "url": "/mehlman/hy-family-medicine.pdf#page=46"
-    }
+    },
+    "sourcePages": [
+      46,
+      93
+    ]
   },
   {
     "id": "s2fm-0148",
@@ -1725,7 +1745,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 48,
       "url": "/mehlman/hy-family-medicine.pdf#page=48"
-    }
+    },
+    "sourcePages": [
+      48,
+      294
+    ]
   },
   {
     "id": "s2fm-0156",
@@ -1736,7 +1760,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 48,
       "url": "/mehlman/hy-family-medicine.pdf#page=48"
-    }
+    },
+    "sourcePages": [
+      48,
+      206
+    ]
   },
   {
     "id": "s2fm-0157",
@@ -1967,7 +1995,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 53,
       "url": "/mehlman/hy-family-medicine.pdf#page=53"
-    }
+    },
+    "sourcePages": [
+      53,
+      276
+    ]
   },
   {
     "id": "s2fm-0178",
@@ -2855,7 +2887,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 74,
       "url": "/mehlman/hy-family-medicine.pdf#page=74"
-    }
+    },
+    "sourcePages": [
+      74,
+      268
+    ]
   },
   {
     "id": "s2fm-0258",
@@ -4195,7 +4231,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 113,
       "url": "/mehlman/hy-family-medicine.pdf#page=113"
-    }
+    },
+    "sourcePages": [
+      113,
+      311
+    ]
   },
   {
     "id": "s2fm-0378",
@@ -5559,7 +5599,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 146,
       "url": "/mehlman/hy-family-medicine.pdf#page=146"
-    }
+    },
+    "sourcePages": [
+      146,
+      277
+    ]
   },
   {
     "id": "s2fm-0488",
@@ -5860,7 +5904,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 154,
       "url": "/mehlman/hy-family-medicine.pdf#page=154"
-    }
+    },
+    "sourcePages": [
+      26,
+      154
+    ]
   },
   {
     "id": "s2fm-0515",
@@ -5930,7 +5978,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 155,
       "url": "/mehlman/hy-family-medicine.pdf#page=155"
-    }
+    },
+    "duplicateOf": "s2fm-0135"
   },
   {
     "id": "s2fm-0521",
@@ -6307,7 +6356,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 156,
       "url": "/mehlman/hy-family-medicine.pdf#page=156"
-    }
+    },
+    "sourcePages": [
+      156
+    ]
   },
   {
     "id": "s2fm-0548",
@@ -6355,7 +6407,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 157,
       "url": "/mehlman/hy-family-medicine.pdf#page=157"
-    }
+    },
+    "duplicateOf": "s2fm-0139"
   },
   {
     "id": "s2fm-0552",
@@ -6622,12 +6675,16 @@ export default [
     "id": "s2fm-0575",
     "category": "Neurology",
     "q": "An older adult after head trauma has a crescent-shaped extra-axial collection. What bleed and vessels are described?",
-    "a": "Subdural hematoma from bridging-vein injury.",
+    "a": "Subdural hematoma from bridging-vein injury. Cerebral atrophy increases susceptibility in older adults.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 161,
       "url": "/mehlman/hy-family-medicine.pdf#page=161"
-    }
+    },
+    "sourcePages": [
+      161,
+      304
+    ]
   },
   {
     "id": "s2fm-0576",
@@ -6917,7 +6974,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 167,
       "url": "/mehlman/hy-family-medicine.pdf#page=167"
-    }
+    },
+    "sourcePages": [
+      167,
+      235
+    ]
   },
   {
     "id": "s2fm-0602",
@@ -8448,7 +8509,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 206,
       "url": "/mehlman/hy-family-medicine.pdf#page=206"
-    }
+    },
+    "duplicateOf": "s2fm-0156"
   },
   {
     "id": "s2fm-0737",
@@ -8712,7 +8774,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 212,
       "url": "/mehlman/hy-family-medicine.pdf#page=212"
-    }
+    },
+    "sourcePages": [
+      212,
+      263
+    ]
   },
   {
     "id": "s2fm-0761",
@@ -9540,12 +9606,16 @@ export default [
     "id": "s2fm-0835",
     "category": "Musculoskeletal",
     "q": "A midline neck mass moves with swallowing or tongue protrusion. What developmental cyst is described?",
-    "a": "Thyroglossal duct cyst.",
+    "a": "Thyroglossal duct cyst, a remnant of the thyroid descent tract.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "sourcePages": [
+      234,
+      243
+    ]
   },
   {
     "id": "s2fm-0836",
@@ -9611,7 +9681,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 235,
       "url": "/mehlman/hy-family-medicine.pdf#page=235"
-    }
+    },
+    "duplicateOf": "s2fm-0601"
   },
   {
     "id": "s2fm-0842",
@@ -10182,12 +10253,15 @@ export default [
     "id": "s2fm-0892",
     "category": "Endocrine",
     "q": "Why does total T4 rise in the source description of normal pregnancy?",
-    "a": "Estrogen increases hepatic thyroid-binding globulin. More hormone is protein-bound, so total T4 rises while the patient remains euthyroid.",
+    "a": "Estrogen increases hepatic thyroid-binding globulin. More hormone is protein-bound, so total T4 rises while the patient remains euthyroid. Pregnancy-specific interpretation still matters.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 242,
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
-    }
+    },
+    "sourcePages": [
+      242
+    ]
   },
   {
     "id": "s2fm-0893",
@@ -10231,7 +10305,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 243,
       "url": "/mehlman/hy-family-medicine.pdf#page=243"
-    }
+    },
+    "duplicateOf": "s2fm-0835"
   },
   {
     "id": "s2fm-0897",
@@ -10264,7 +10339,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 243,
       "url": "/mehlman/hy-family-medicine.pdf#page=243"
-    }
+    },
+    "sourcePages": [
+      243,
+      273
+    ]
   },
   {
     "id": "s2fm-0900",
@@ -10846,12 +10925,15 @@ export default [
     "id": "s2fm-0952",
     "category": "Endocrine",
     "q": "Why may total-body potassium be low despite a normal or high initial serum potassium in DKA?",
-    "a": "Urinary losses deplete total-body stores while insulin deficiency and acid-base changes shift potassium out of cells.",
+    "a": "Urinary losses deplete total-body stores while insulin deficiency and acid-base changes shift potassium out of cells. Initial serum concentration is not a measure of whole-body reserve.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 252,
       "url": "/mehlman/hy-family-medicine.pdf#page=252"
-    }
+    },
+    "sourcePages": [
+      252
+    ]
   },
   {
     "id": "s2fm-0953",
@@ -11078,7 +11160,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 256,
       "url": "/mehlman/hy-family-medicine.pdf#page=256"
-    }
+    },
+    "sourcePages": [
+      96,
+      256
+    ]
   },
   {
     "id": "s2fm-0973",
@@ -11428,7 +11514,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 263,
       "url": "/mehlman/hy-family-medicine.pdf#page=263"
-    }
+    },
+    "duplicateOf": "s2fm-0760"
   },
   {
     "id": "s2fm-1003",
@@ -11583,7 +11670,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 268,
       "url": "/mehlman/hy-family-medicine.pdf#page=268"
-    }
+    },
+    "duplicateOf": "s2fm-0257"
   },
   {
     "id": "s2fm-1017",
@@ -11726,7 +11814,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 276,
       "url": "/mehlman/hy-family-medicine.pdf#page=276"
-    }
+    },
+    "duplicateOf": "s2fm-0177"
   },
   {
     "id": "s2fm-1030",
@@ -11792,7 +11881,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 277,
       "url": "/mehlman/hy-family-medicine.pdf#page=277"
-    }
+    },
+    "duplicateOf": "s2fm-0487"
   },
   {
     "id": "s2fm-1036",
@@ -11859,7 +11949,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 279,
       "url": "/mehlman/hy-family-medicine.pdf#page=279"
-    }
+    },
+    "duplicateOf": "s2fm-1597"
   },
   {
     "id": "s2fm-1042",
@@ -11961,7 +12052,8 @@ export default [
     },
     "sourcePages": [
       282
-    ]
+    ],
+    "duplicateOf": "s2fm-0123"
   },
   {
     "id": "s2fm-1050",
@@ -12291,7 +12383,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 294,
       "url": "/mehlman/hy-family-medicine.pdf#page=294"
-    }
+    },
+    "duplicateOf": "s2fm-0155"
   },
   {
     "id": "s2fm-1080",
@@ -12357,7 +12450,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 299,
       "url": "/mehlman/hy-family-medicine.pdf#page=299"
-    }
+    },
+    "duplicateOf": "s2fm-1866"
   },
   {
     "id": "s2fm-1086",
@@ -12390,7 +12484,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 304,
       "url": "/mehlman/hy-family-medicine.pdf#page=304"
-    }
+    },
+    "duplicateOf": "s2fm-0575"
   },
   {
     "id": "s2fm-1089",
@@ -12568,7 +12663,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 310,
       "url": "/mehlman/hy-family-medicine.pdf#page=310"
-    }
+    },
+    "duplicateOf": "s2fm-1920"
   },
   {
     "id": "s2fm-1105",
@@ -12579,7 +12675,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 311,
       "url": "/mehlman/hy-family-medicine.pdf#page=311"
-    }
+    },
+    "duplicateOf": "s2fm-0377"
   },
   {
     "id": "s2fm-1106",
@@ -12748,7 +12845,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 316,
       "url": "/mehlman/hy-family-medicine.pdf#page=316"
-    }
+    },
+    "duplicateOf": "s2fm-0076"
   },
   {
     "id": "s2fm-1121",
@@ -15560,7 +15658,10 @@ export default [
     "guideline": {
       "text": "ACC/AHA 2022 primary guideline section 6.5.5.3: growth of at least 0.5 cm in 6 months may justify repair (Class 2b). Diameter thresholds are at least 5.5 cm in men or 5.0 cm in women; symptoms and operative risk also matter.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9876736/"
-    }
+    },
+    "sourcePages": [
+      11
+    ]
   },
   {
     "id": "s2fm-1348",
@@ -15919,7 +16020,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 26,
       "url": "/mehlman/hy-family-medicine.pdf#page=26"
-    }
+    },
+    "duplicateOf": "s2fm-0514"
   },
   {
     "id": "s2fm-1377",
@@ -17627,7 +17729,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 55,
       "url": "/mehlman/hy-family-medicine.pdf#page=55"
-    }
+    },
+    "sourcePages": [
+      55,
+      308
+    ]
   },
   {
     "id": "s2fm-1526",
@@ -17983,7 +18089,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 64,
       "url": "/mehlman/hy-family-medicine.pdf#page=64"
-    }
+    },
+    "sourcePages": [
+      64,
+      313
+    ]
   },
   {
     "id": "s2fm-1558",
@@ -18439,7 +18549,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 71,
       "url": "/mehlman/hy-family-medicine.pdf#page=71"
-    }
+    },
+    "sourcePages": [
+      71,
+      279
+    ]
   },
   {
     "id": "s2fm-1598",
@@ -19855,7 +19969,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 96,
       "url": "/mehlman/hy-family-medicine.pdf#page=96"
-    }
+    },
+    "duplicateOf": "s2fm-0972"
   },
   {
     "id": "s2fm-1722",
@@ -21542,7 +21657,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 143,
       "url": "/mehlman/hy-family-medicine.pdf#page=143"
-    }
+    },
+    "sourcePages": [
+      143,
+      299
+    ]
   },
   {
     "id": "s2fm-1867",
@@ -21906,7 +22025,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 151,
       "url": "/mehlman/hy-family-medicine.pdf#page=151"
-    }
+    },
+    "sourcePages": [
+      151,
+      280
+    ]
   },
   {
     "id": "s2fm-1899",
@@ -22160,7 +22283,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 155,
       "url": "/mehlman/hy-family-medicine.pdf#page=155"
-    }
+    },
+    "sourcePages": [
+      155,
+      310
+    ]
   },
   {
     "id": "s2fm-1921",
@@ -25341,7 +25468,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 242,
       "url": "/mehlman/hy-family-medicine.pdf#page=242"
-    }
+    },
+    "duplicateOf": "s2fm-0892"
   },
   {
     "id": "s2fm-2187",
@@ -25643,7 +25771,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 252,
       "url": "/mehlman/hy-family-medicine.pdf#page=252"
-    }
+    },
+    "duplicateOf": "s2fm-0952"
   },
   {
     "id": "s2fm-2213",
@@ -26340,7 +26469,7 @@ export default [
       "page": 282,
       "url": "/mehlman/hy-family-medicine.pdf#page=282"
     },
-    "duplicateOf": "s2fm-1049"
+    "duplicateOf": "s2fm-0123"
   },
   {
     "id": "s2fm-2271",
@@ -26657,7 +26786,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 299,
       "url": "/mehlman/hy-family-medicine.pdf#page=299"
-    }
+    },
+    "duplicateOf": "s2fm-1866"
   },
   {
     "id": "s2fm-2298",
@@ -26867,7 +26997,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 308,
       "url": "/mehlman/hy-family-medicine.pdf#page=308"
-    }
+    },
+    "duplicateOf": "s2fm-1525"
   },
   {
     "id": "s2fm-2315",
@@ -27118,7 +27249,8 @@ export default [
     "guideline": {
       "text": "ACC/AHA 2022 primary guideline section 6.5.5.3: growth of at least 0.5 cm in 6 months may justify repair (Class 2b). Diameter thresholds are at least 5.5 cm in men or 5.0 cm in women; symptoms and operative risk also matter.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9876736/"
-    }
+    },
+    "duplicateOf": "s2fm-1347"
   },
   {
     "id": "s2fm-2336",
@@ -29515,7 +29647,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 273,
       "url": "/mehlman/hy-family-medicine.pdf#page=273"
-    }
+    },
+    "duplicateOf": "s2fm-0899"
   },
   {
     "id": "s2fm-2499",
@@ -29669,7 +29802,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 280,
       "url": "/mehlman/hy-family-medicine.pdf#page=280"
-    }
+    },
+    "duplicateOf": "s2fm-1898"
   },
   {
     "id": "s2fm-2513",
@@ -30065,7 +30199,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 313,
       "url": "/mehlman/hy-family-medicine.pdf#page=313"
-    }
+    },
+    "duplicateOf": "s2fm-1557"
   },
   {
     "id": "s2fm-2547",
@@ -32321,7 +32456,8 @@ export default [
     "guideline": {
       "text": "CDC does not recommend Monospot for general use because of false-positive/negative results; heterophile antibodies are often absent in children. Specific EBV serology can help when confirmation is needed.",
       "url": "https://www.cdc.gov/epstein-barr/php/laboratories/index.html"
-    }
+    },
+    "duplicateOf": "s2fm-0147"
   },
   {
     "id": "s2fm-2712",
@@ -34038,7 +34174,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 156,
       "url": "/mehlman/hy-family-medicine.pdf#page=156"
-    }
+    },
+    "duplicateOf": "s2fm-0547"
   },
   {
     "id": "s2fm-2851",
