@@ -33564,5 +33564,124 @@ export default [
       "page": 138,
       "url": "/mehlman/hy-family-medicine.pdf#page=138"
     }
+  },
+  {
+    "id": "s2fm-2819",
+    "category": "Neurology exact-source review",
+    "q": "What contralateral motor deficit does the PDF name in Weber syndrome?",
+    "a": "Spastic paraparesis, alongside ipsilateral CN III palsy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls describes contralateral hemiparesis in Weber syndrome. Paraparesis means weakness of both legs and is not interchangeable with the unilateral limb pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559158/"
+    }
+  },
+  {
+    "id": "s2fm-2820",
+    "category": "Neurology exact-source review",
+    "q": "What eye-movement exception does the source give in locked-in syndrome?",
+    "a": "It says the patient cannot move the body except for the eyes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "Merck describes preserved vertical eye movements and blinking while lateral eye movement is impaired in the classic pontine syndrome. All eye movements are not necessarily preserved.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/coma-and-impaired-consciousness/locked-in-syndrome"
+    }
+  },
+  {
+    "id": "s2fm-2821",
+    "category": "Neurology exact-source review",
+    "q": "Where does the source place the pain-temperature deficit from an anterior-white-commissure syrinx?",
+    "a": "Bilateral loss below the lesion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    },
+    "guideline": {
+      "text": "Merck describes the characteristic capelike segmental loss across the shoulders, arms and back in syringomyelia. This crossing-fiber pattern differs from automatically losing all pain/temperature below a spinal level; extension can add other deficits.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/spinal-cord-disorders/syrinx-of-the-spinal-cord-or-brain-stem"
+    }
+  },
+  {
+    "id": "s2fm-2822",
+    "category": "Neurology exact-source review",
+    "q": "What causal role does the source give oral contraceptives in pseudotumor cerebri?",
+    "a": "It lists them among notable causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-family-medicine.pdf#page=144"
+    },
+    "guideline": {
+      "text": "IIH consensus guidance says there is no clear evidence that oral contraceptives are contraindicated simply because of reported associations. The source list does not establish equal causality for every exposure or a universal instruction to stop contraception.",
+      "url": "https://jnnp.bmj.com/content/89/10/1088"
+    }
+  },
+  {
+    "id": "s2fm-2823",
+    "category": "Neurology exact-source review",
+    "q": "What mottled vascular skin pattern does the PDF connect with cryoglobulinemia?",
+    "a": "Livedo reticularis, which the source itself says has many possible causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-family-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2fm-2824",
+    "category": "Neurology exact-source review",
+    "q": "Where does the source usually locate actinic purpura?",
+    "a": "Dorsal hands and forearms of older adults, with flat purple discoloration from chronic solar dermal damage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-family-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2fm-2825",
+    "category": "Neurology exact-source review",
+    "q": "Which three findings form the source Horner syndrome clue?",
+    "a": "Ipsilateral miosis, partial ptosis and anhidrosis; lateral medullary stroke and an apical lung tumor are its two highlighted contexts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-family-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2fm-2826",
+    "category": "Neurology exact-source review",
+    "q": "What boundary separates upper from lower motor-neuron lesions in the source?",
+    "a": "UMN injury lies upstream of the anterior-horn motor neuron; anterior-horn and downstream peripheral motor injury produces LMN findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-family-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2fm-2827",
+    "category": "Neuropathy definition source review",
+    "q": "What one-nerve definition does the source give for mononeuritis multiplex?",
+    "a": "Neuropathy of one large nerve in many locations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-family-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "Merck May 2026 defines multiple mononeuropathy as sensory/motor disturbance in the distribution of at least two peripheral nerves. Wrist drop and foot drop involve different nerves, not repeated sites of one nerve.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/peripheral-nervous-system-and-motor-unit-disorders/multiple-mononeuropathy"
+    }
   }
 ];
