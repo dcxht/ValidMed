@@ -19224,4 +19224,176 @@ export default [
     "img": "/mehlman/figures/peds-p094-roseola.png",
     "imgAlt": "Actual source photograph of the diffuse maculopapular rash of roseola"
   }
+,
+  {
+    "id": "s2peds-1358",
+    "category": "Pediatric infectious disease",
+    "q": "What cause and fever-rash sequence does the source give for roseola?",
+    "a": "HHV-6 causes roseola. The source phrase is “spiking fever followed by a rash”: high fever for 2 to 3 days, then the rash.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "Merck identifies HHV-6B, or less often HHV-7, and gives an abrupt fever of 39.5 to 40.5 C lasting 3 to 5 days, followed by the exanthem during or after defervescence. Preserve the source 2-to-3-day wording as the exam phrasing.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/common-viral-infections-in-infants-and-children/roseola-infantum"
+    }
+  },
+  {
+    "id": "s2peds-1359",
+    "category": "Pediatric dermatology",
+    "q": "Which complication is shown by the p95 widespread punched-out eruption on eczematous skin?",
+    "a": "Eczema herpeticum, a disseminated HSV infection superimposed on eczema.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "DermNet describes eczema herpeticum as a dermatologic emergency with fever and clusters of itchy blisters or punched-out erosions, most often complicating atopic dermatitis.",
+      "url": "https://dermnetnz.org/topics/eczema-herpeticum"
+    },
+    "img": "/mehlman/figures/peds-p095-eczema-herpeticum.png",
+    "imgAlt": "Actual source photograph of widespread eczema herpeticum with many small erythematous lesions"
+  },
+  {
+    "id": "s2peds-1360",
+    "category": "Pediatric dermatology",
+    "q": "Which viruses cause eczema herpeticum in the source?",
+    "a": "HSV-1 or HSV-2 superimposed on eczema.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "DermNet confirms that most cases are due to herpes simplex virus type 1 or 2 and that infants and children with atopic dermatitis are common patients.",
+      "url": "https://dermnetnz.org/topics/eczema-herpeticum"
+    }
+  },
+  {
+    "id": "s2peds-1361",
+    "category": "Pediatric dermatology",
+    "q": "How does the source say eczema herpeticum is often acquired?",
+    "a": "By self-inoculation: the child touches a cold sore and then the cracked skin of eczema.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "DermNet says eczema herpeticum usually arises during primary HSV infection after contact with an infected person, and a disrupted skin barrier permits severe local spread. The source cold-sore self-inoculation example fits that mechanism.",
+      "url": "https://dermnetnz.org/topics/eczema-herpeticum"
+    }
+  },
+  {
+    "id": "s2peds-1362",
+    "category": "Pediatric dermatology",
+    "q": "What systemic and sensory features can accompany eczema herpeticum?",
+    "a": "Fever, lymphadenopathy, and tingling, burning, painful rash, which the source labels herpetic neuralgia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "DermNet says patients are unwell with fever and swollen local lymph nodes, and lesions are itchy and painful. Severe disease can involve the eyes, brain, lung or liver, so systemic features should not be waved off as ordinary eczema.",
+      "url": "https://dermnetnz.org/topics/eczema-herpeticum"
+    }
+  },
+  {
+    "id": "s2peds-1363",
+    "category": "Pediatric dermatology",
+    "q": "What treatment does the source give for eczema herpeticum?",
+    "a": "Acyclovir. The current practical point is systemic antiviral treatment, not just eczema skin care.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "DermNet calls eczema herpeticum one of the few dermatologic emergencies. It recommends prompt oral aciclovir or valaciclovir, intravenous aciclovir when the patient is too sick or worsening, and ophthalmology review for eye involvement.",
+      "url": "https://dermnetnz.org/topics/eczema-herpeticum"
+    }
+  },
+  {
+    "id": "s2peds-1364",
+    "category": "Pediatric dermatology",
+    "q": "Which eruption is shown by the p95 symmetric extensor-surface lesions?",
+    "a": "Dermatitis herpetiformis, the intensely itchy celiac-associated papulovesicular eruption.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "Merck describes symmetric, intensely pruritic vesicles, papules and bullae on extensor elbows and knees, sacrum, buttocks and occiput.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/bullous-diseases/dermatitis-herpetiformis"
+    },
+    "img": "/mehlman/figures/peds-p095-dermatitis-herpetiformis.png",
+    "imgAlt": "Actual source photograph of dermatitis herpetiformis lesions on the elbows"
+  },
+  {
+    "id": "s2peds-1365",
+    "category": "Pediatric dermatology",
+    "q": "With which disease does the source associate dermatitis herpetiformis?",
+    "a": "Celiac disease. It is an extra-intestinal cutaneous eruption that can occur in celiac patients.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "Merck says almost all patients have histologic celiac disease even when gastrointestinal symptoms are absent, and all should be evaluated for celiac disease. Initial treatment is usually dapsone or sulfapyridine plus a strict gluten-free diet.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/bullous-diseases/dermatitis-herpetiformis"
+    }
+  },
+  {
+    "id": "s2peds-1366",
+    "category": "Pediatric dermatology",
+    "q": "Why is dermatitis herpetiformis not a herpes infection, and what is deposited in the skin?",
+    "a": "Despite the name, it is not HSV. It is IgA deposition at the dermal papillae; do not confuse it with eczema herpeticum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "Merck confirms granular IgA deposition in dermal papillary tips on direct immunofluorescence, with approximately 90 to 95% sensitivity and 95 to 100% specificity.",
+      "url": "https://www.merckmanuals.com/professional/dermatologic-disorders/bullous-diseases/dermatitis-herpetiformis"
+    }
+  },
+  {
+    "id": "s2peds-1367",
+    "category": "Pediatric infectious disease",
+    "q": "Which diagnosis does the p95 dermatomal vesicular rash photograph introduce?",
+    "a": "Pediatric shingles. The p95 source point is that shingles can occur in children; the VZV-versus-HSV naming discussion continues on p96.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "Merck describes herpes zoster as varicella-zoster virus reactivation with pain followed by a unilateral dermatomal vesicular eruption. Its organism-name details are handled with the p96 source continuation.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/herpes-zoster"
+    },
+    "img": "/mehlman/figures/peds-p095-pediatric-shingles.png",
+    "imgAlt": "Actual source photograph of a dermatomal vesicular rash from pediatric shingles"
+  },
+  {
+    "id": "s2peds-1368",
+    "category": "Pediatric infectious disease",
+    "q": "In which children does the source say shingles is classically seen?",
+    "a": "Immunocompromised children, for example those receiving chemotherapy. The key is not to dismiss shingles solely because the patient is a child.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 95,
+      "url": "/mehlman/hy-pediatrics.pdf#page=95"
+    },
+    "guideline": {
+      "text": "Merck says herpes zoster is more frequent and severe in patients immunocompromised by defects in cell-mediated immunity, and that severely immunocompromised patients, including children, may need IV acyclovir.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/herpes-zoster"
+    }
+  }
 ];
