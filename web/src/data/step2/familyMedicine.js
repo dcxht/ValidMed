@@ -32858,5 +32858,252 @@ export default [
       "page": 106,
       "url": "/mehlman/hy-family-medicine.pdf#page=106"
     }
+  },
+  {
+    "id": "s2fm-2761",
+    "category": "Reproductive endocrine source review",
+    "q": "How does the PDF define recurrent pregnancy loss?",
+    "a": "Two or more consecutive spontaneous miscarriages.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    },
+    "guideline": {
+      "text": "ACOG patient guidance defines recurrent pregnancy loss as two or more miscarriages and recommends evaluation after two; its definition does not require the source consecutive qualifier.",
+      "url": "https://www.acog.org/womens-health/faqs/repeated-miscarriages"
+    }
+  },
+  {
+    "id": "s2fm-2762",
+    "category": "Reproductive endocrine source review",
+    "q": "What mechanism does the PDF give for pubertal virilization in 5-alpha-reductase deficiency?",
+    "a": "Rising testosterone partially overrides the defect to achieve threshold DHT production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-family-medicine.pdf#page=110"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics attributes secondary male sex characteristics to higher pubertal testosterone; residual enzyme activity and DHT may also contribute in some patients. Pubertal virilization need not prove normal DHT generation.",
+      "url": "https://medlineplus.gov/genetics/condition/5-alpha-reductase-deficiency/"
+    }
+  },
+  {
+    "id": "s2fm-2763",
+    "category": "Reproductive endocrine source review",
+    "q": "Where does the source say most ectopic implantation occurs?",
+    "a": "The ampulla of the fallopian tube, cited as 70-80% in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-2764",
+    "category": "Reproductive endocrine source review",
+    "q": "Which non-tubal implantation sites does the PDF mention for ectopic pregnancy?",
+    "a": "Cervix and parametrium, alongside its usual tubal location.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-2765",
+    "category": "Reproductive endocrine source review",
+    "q": "Does the PDF itself claim proven benefit from bed rest for threatened miscarriage?",
+    "a": "No. It calls bed rest traditional treatment but says newer guidance lacks evidence of benefit.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2fm-2766",
+    "category": "Reproductive endocrine source review",
+    "q": "What does the source call the empty gestational-sac pregnancy in which the embryo fails to develop?",
+    "a": "Anembryonic pregnancy/blighted ovum; placental tissue may initially produce rising hCG. Nonviability still requires appropriate imaging criteria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2fm-2767",
+    "category": "Reproductive endocrine source review",
+    "q": "What two source Tanner patterns distinguish Turner syndrome from complete androgen insensitivity?",
+    "a": "Turner: little breast development but preserved pubic/axillary hair; complete AIS: developed breasts but scant pubic/axillary hair.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-2768",
+    "category": "Reproductive endocrine source review",
+    "q": "Which source imaging study is offered before karyotype in primary amenorrhea with a blind-ending vagina?",
+    "a": "Pelvic ultrasound, followed by karyotype when distinguishing AIS from Müllerian agenesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-2769",
+    "category": "Reproductive endocrine source review",
+    "q": "What skin and neck clues does the PDF list for Turner syndrome?",
+    "a": "A webbed neck/cystic hygroma from lymphatic insufficiency and scattered nevi.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2fm-2770",
+    "category": "Reproductive endocrine source review",
+    "q": "Which procedure does the PDF give for an imperforate hymen causing hematocolpos?",
+    "a": "Cruciate incision of the hymen, following assessment of the obstructed outflow.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-family-medicine.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2fm-2771",
+    "category": "Reproductive endocrine source review",
+    "q": "Which endocrine disorders can mimic PCOS-associated anovulation in the source?",
+    "a": "Hypothyroidism and Cushing syndrome; the source says PCOS is not simply another label for a known secondary cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-2772",
+    "category": "Reproductive endocrine source review",
+    "q": "Which prostaglandin does the PDF name in primary dysmenorrhea?",
+    "a": "PGF2-alpha, with uterine contractions and possible systemic headache/nausea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-2773",
+    "category": "Reproductive source details",
+    "q": "What maximum duration does the PDF give for levonorgestrel IUD contraception?",
+    "a": "Usually three to seven years.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    },
+    "guideline": {
+      "text": "FDA Mirena labeling permits pregnancy prevention for up to eight years, with replacement by the end of year eight. Duration is product- and indication-specific; its heavy-menstrual-bleeding indication remains five years.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021225s043lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2774",
+    "category": "Reproductive source details",
+    "q": "What strict timing rule does the PDF give for every progestin-only pill?",
+    "a": "It must be taken at precisely the same time every day.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    },
+    "guideline": {
+      "text": "CDC 2024 guidance distinguishes products: a norethindrone/norgestrel pill is missed when more than three hours late; drospirenone uses different late/missed thresholds, with a pill missed at 24 hours or more. The missed-dose instructions are not identical for all POPs.",
+      "url": "https://www.cdc.gov/contraception/hcp/usspr/progestin-only-pills.html"
+    }
+  },
+  {
+    "id": "s2fm-2775",
+    "category": "Reproductive source details",
+    "q": "How often is the depot medroxyprogesterone contraceptive injection given in the PDF?",
+    "a": "Every three months.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-2776",
+    "category": "Reproductive source details",
+    "q": "Which contraceptive adverse effect can improve after stopping depot medroxyprogesterone in the source?",
+    "a": "Reduced bone mineral density can recover after discontinuation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-2777",
+    "category": "Reproductive source details",
+    "q": "How does the source describe depot-medroxyprogesterone bleeding variability?",
+    "a": "Irregular bleeding, unchanged bleeding or amenorrhea, presented as roughly one-third each in the PDF rather than a guaranteed individual outcome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-family-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2fm-2778",
+    "category": "Reproductive source details",
+    "q": "What source mechanism explains finasteride for BPH?",
+    "a": "5-alpha-reductase inhibition reduces testosterone conversion to DHT and DHT-driven prostate growth.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-2779",
+    "category": "Reproductive source details",
+    "q": "Which source arteriolar dilator is used for androgenetic hair loss?",
+    "a": "Minoxidil; the source calls androgenetic alopecia polygenic and links increased risk with anabolic steroids.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2fm-2780",
+    "category": "Reproductive source details",
+    "q": "What source symptoms can occur with posterior pelvic endometriosis lesions?",
+    "a": "Pain with defecation and dyspareunia, alongside menstrual pain and possible pelvic findings.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2fm-2781",
+    "category": "Reproductive source details",
+    "q": "What size description can clue adenomyosis without implying actual pregnancy?",
+    "a": "A diffusely enlarged uterus described as, for example, eight weeks gestational size in a nonpregnant patient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    }
   }
 ];
