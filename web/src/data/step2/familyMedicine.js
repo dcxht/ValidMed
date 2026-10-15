@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points from pp. 4-47; full coverage in progress.
+// Source-linked clinical review. Selected points from pp. 4-54; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -1670,6 +1670,369 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 47,
       "url": "/mehlman/hy-family-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2fm-0153",
+    "category": "Glomerular disease",
+    "q": "A child has hematuria one to three weeks after streptococcal pharyngitis or impetigo. What diagnosis is suggested?",
+    "a": "Post-streptococcal glomerulonephritis. In contrast, IgA nephropathy causes hematuria within one to three days of a respiratory infection.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-0154",
+    "category": "Glomerular disease",
+    "q": "Hematuria starts within days of a sore throat. Which glomerular disease is favored over post-streptococcal GN?",
+    "a": "IgA nephropathy, also called Berger disease, with mesangial IgA deposition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-0155",
+    "category": "Glomerular disease",
+    "q": "A child has palpable purpura, abdominal pain, arthralgia and hematuria. What systemic syndrome is suggested?",
+    "a": "IgA vasculitis, formerly Henoch-Schönlein purpura. Not all four features need to be present.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-0156",
+    "category": "Glomerular disease",
+    "q": "A young male has hematuria with sensorineural hearing loss or ocular abnormalities. Which inherited syndrome is suggested?",
+    "a": "Alport syndrome, associated with type IV collagen defects. The PDF emphasizes the X-linked form.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-0157",
+    "category": "Glomerular disease",
+    "q": "An SLE patient develops hematuria and suspected glomerulonephritis. Which test helps determine renal pathology and management?",
+    "a": "Renal biopsy. The PDF highlights diffuse proliferative glomerulonephritis as an important lupus-associated pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-family-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2fm-0158",
+    "category": "Nephrotic syndromes",
+    "q": "A child has periorbital and peripheral edema without hematuria after a viral illness. What diagnosis and treatment response are expected?",
+    "a": "Minimal change disease. Light microscopy can be normal; electron microscopy shows podocyte effacement. It is usually highly steroid-responsive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-0159",
+    "category": "Nephrotic syndromes",
+    "q": "An adult has nephrotic syndrome associated with hepatitis B, a solid tumor or anti-PLA2R antibodies. Which nephropathy is suggested?",
+    "a": "Membranous nephropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-0160",
+    "category": "Nephrotic syndromes",
+    "q": "A patient with multiple myeloma has nephrotic syndrome and Congo-red-positive renal deposits with apple-green birefringence. What process is present?",
+    "a": "Renal amyloidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-0161",
+    "category": "Nephrotic syndromes",
+    "q": "Nephrotic syndrome in a patient with HIV, heroin use or sickle-cell disease suggests which glomerular lesion?",
+    "a": "Focal segmental glomerulosclerosis. It is less steroid-responsive than minimal change disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-0162",
+    "category": "Interstitial nephritis",
+    "q": "A patient recently took a beta-lactam or NSAID and now has kidney dysfunction with pyuria and possibly rash. What renal process is suggested?",
+    "a": "Acute interstitial nephritis, a drug-related inflammatory tubulointerstitial process. Eosinophils and rash may be present, but the source notes they are not required in every vignette.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-family-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2fm-0163",
+    "category": "Renovascular hypertension",
+    "q": "An older patient with extensive atherosclerosis develops rapidly worsening hypertension. What secondary cause should be considered?",
+    "a": "Atherosclerotic renal artery stenosis, which activates the renin-angiotensin-aldosterone system.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-0164",
+    "category": "Renovascular hypertension",
+    "q": "Creatinine rises after starting an ACE inhibitor in a patient with compromised renal perfusion. What renovascular diagnosis is suggested?",
+    "a": "Renal artery stenosis. Reducing angiotensin-II-mediated efferent arteriolar constriction can lower filtration when renal blood flow is already compromised.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-0165",
+    "category": "Renovascular hypertension",
+    "q": "A younger woman has renovascular hypertension with a string-of-beads appearance on renal imaging. What is the cause?",
+    "a": "Fibromuscular dysplasia, a nonatherosclerotic arterial disorder. The PDF names MR angiography as a diagnostic study.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-family-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2fm-0166",
+    "category": "Kidney stones",
+    "q": "A young adult has colicky flank or groin pain with hematuria. What stone type is most common, and what is the basic preventive measure?",
+    "a": "Calcium stones, often calcium oxalate. Adequate hydration is emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-0167",
+    "category": "Kidney stones",
+    "q": "Why can Crohn disease or fat malabsorption increase calcium-oxalate stone risk?",
+    "a": "Unabsorbed fat binds intestinal calcium, leaving more free oxalate available for absorption and urinary excretion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-0168",
+    "category": "Kidney stones",
+    "q": "How can a thiazide help prevent recurrent calcium stones?",
+    "a": "By increasing renal calcium reabsorption and reducing urinary calcium excretion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-0169",
+    "category": "Kidney stones",
+    "q": "A large branching renal stone forms in alkaline urine with Proteus infection. What is its composition?",
+    "a": "Struvite, ammonium magnesium phosphate, associated with urease-positive organisms.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-0170",
+    "category": "Kidney stones",
+    "q": "A patient with gout develops kidney stones. Which stone type is associated, and why can uricosurics worsen risk?",
+    "a": "Uric-acid stones. Uricosurics increase urinary uric acid and can increase stone risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-0171",
+    "category": "Kidney stones",
+    "q": "A young adult has hexagonal urinary crystals. What stone disorder and transport defect are suggested?",
+    "a": "Cystinuria, due to impaired reabsorption of cystine and the dibasic amino acids ornithine, lysine and arginine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-0172",
+    "category": "Polycystic kidney disease",
+    "q": "An adult develops hypertension with enlarged cystic kidneys. What inherited disorder and intracranial complication are associated?",
+    "a": "Autosomal dominant polycystic kidney disease. It is associated with saccular cerebral aneurysms and risk of subarachnoid hemorrhage.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-family-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2fm-0173",
+    "category": "Urinary infections",
+    "q": "Fever and costovertebral-angle tenderness accompany a urinary infection. What is the diagnosis and common organism?",
+    "a": "Acute pyelonephritis, most commonly caused by E. coli.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-0174",
+    "category": "Urinary infections",
+    "q": "Dysuria and suprapubic tenderness occur with pyuria, bacteriuria and positive nitrites. What lower-tract infection is suggested?",
+    "a": "Cystitis. E. coli is the most common cause; nitrofurantoin is one treatment named in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-0175",
+    "category": "Bladder pain",
+    "q": "A patient has over six weeks of bladder-area pain and dysuria with negative urine studies. What noninfectious diagnosis is suggested?",
+    "a": "Interstitial cystitis, or bladder pain syndrome. The source distinguishes it from a bacterial UTI.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-0176",
+    "category": "Urinary infections",
+    "q": "Dysuria persists after treatment for a presumed UTI. What additional infection testing does the PDF recommend?",
+    "a": "Testing for Chlamydia and Gonorrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-family-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2fm-0177",
+    "category": "Incontinence",
+    "q": "Urine leaks during coughing, laughing or sneezing. What type of incontinence and first exercise-based treatment are described?",
+    "a": "Stress incontinence from pelvic-floor or urethral support weakness. Pelvic-floor exercises, or Kegels, are emphasized.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-0178",
+    "category": "Incontinence",
+    "q": "A patient has sudden urges to void many times per day, unrelated to cough or exertion. What mechanism and drug are described?",
+    "a": "Urge incontinence due to detrusor overactivity. Oxybutynin is an antimuscarinic treatment named in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-0179",
+    "category": "Incontinence",
+    "q": "An older man with BPH leaks urine and has a postvoid residual of 350 mL. What type of incontinence is this?",
+    "a": "Overflow incontinence from impaired bladder emptying. Catheterization relieves significant obstruction or retention; BPH treatment can then address the cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-0180",
+    "category": "Incontinence",
+    "q": "How can diabetes lead to overflow incontinence?",
+    "a": "Autonomic neuropathy can cause a hypocontractile neurogenic bladder with a large postvoid residual.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-family-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2fm-0181",
+    "category": "Cauda equina",
+    "q": "Leg pain and new urinary retention raise concern for what neurologic emergency, even without saddle anesthesia?",
+    "a": "Cauda equina syndrome from compression of the lower spinal nerve roots. Disc herniation, trauma or metastases are causes mentioned in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-0182",
+    "category": "Enuresis",
+    "q": "A child develops bedwetting after a stressful family event. What initial approach is favored over medication?",
+    "a": "Address stressors and use supportive behavioral measures. Positive reinforcement and an enuresis alarm are further options described in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-0183",
+    "category": "Urinary malignancy",
+    "q": "An older smoker has hematuria, a flank mass, polycythemia and hypercalcemia. Which tumor is suggested?",
+    "a": "Renal cell carcinoma. EPO secretion can cause polycythemia; PTH-related peptide can cause hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-0184",
+    "category": "Urinary malignancy",
+    "q": "A child aged two to four has a painless unilateral flank mass. What renal tumor is suggested?",
+    "a": "Wilms tumor, also called nephroblastoma. A midline abdominal mass instead raises concern for neuroblastoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2fm-0185",
+    "category": "Urinary malignancy",
+    "q": "A smoker has hematuria without a flank mass. What common bladder cancer is associated, and what occupational exposures matter?",
+    "a": "Urothelial carcinoma, formerly called transitional-cell carcinoma. Smoking, aniline dyes and naphthylamine are exposures emphasized in the PDF.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-family-medicine.pdf#page=54"
     }
   }
 ];
