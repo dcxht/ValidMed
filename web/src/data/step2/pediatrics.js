@@ -18463,5 +18463,204 @@ export default [
     },
     "img": "/mehlman/figures/peds-p090-cellulitis.png",
     "imgAlt": "Actual source photograph of cellulitis showing a spreading erythematous area on a limb"
+  },
+  {
+    "id": "s2peds-1309",
+    "category": "Pediatric dermatology",
+    "q": "Which organism does the source say now exceeds group A strep as the cause of cellulitis?",
+    "a": "Staphylococcus aureus exceeds Streptococcus pyogenes in the source. That is why the exam antibiotic must cover beta-lactamase-producing MSSA as well as streptococci.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "Merck says cellulitis is most often caused by streptococci or staphylococci and recommends empiric nonpurulent coverage for group A streptococci and methicillin-susceptible S. aureus.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/cellulitis"
+    }
+  },
+  {
+    "id": "s2peds-1310",
+    "category": "Pediatric dermatology",
+    "q": "Which oral antibiotics are acceptable source answers for uncomplicated cellulitis?",
+    "a": "Dicloxacillin or flucloxacillin, a first-generation cephalosporin such as cephalexin or cefazolin (the source prints “cephazolin”), or amoxicillin-clavulanate. These cover streptococci and beta-lactamase-producing MSSA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "Merck lists oral dicloxacillin or cephalexin for mild nonpurulent cellulitis and typically recommends 5 days when the patient is improving. Broader MRSA or parenteral coverage depends on purulence and severity, not on the source shortcut alone.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/cellulitis"
+    }
+  },
+  {
+    "id": "s2peds-1311",
+    "category": "Pediatric dermatology",
+    "q": "Why are amoxicillin or penicillin alone wrong cellulitis answers in the source?",
+    "a": "Most community MSSA produces beta-lactamase, so plain amoxicillin or penicillin can fail if Staphylococcus aureus is involved. The source gives approximately 90% for community MSSA beta-lactamase production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The mechanism is sound, but current Merck guidance does not restate the source 90% figure. It instead frames empiric nonpurulent cellulitis treatment around streptococci plus MSSA and reserves broader coverage for purulence, MRSA risk or severe disease.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/cellulitis"
+    }
+  },
+  {
+    "id": "s2peds-1312",
+    "category": "Pediatric dermatology",
+    "q": "Which infection is shown by the p91 fiery-red, sharply demarcated plaque?",
+    "a": "Erysipelas. The raised, bright-red plaque with a distinct border fits a superficial cellulitis involving the upper dermis and superficial lymphatics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "Merck describes erysipelas as shiny, raised, indurated, tender plaques with distinct margins, often with fever, chills or malaise. It most often affects the legs or face and can occur in children.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/erysipelas"
+    },
+    "img": "/mehlman/figures/peds-p091-erysipelas.png",
+    "imgAlt": "Actual source photograph of erysipelas showing a bright red raised plaque with a distinct border"
+  },
+  {
+    "id": "s2peds-1313",
+    "category": "Pediatric dermatology",
+    "q": "What tissue planes and organism define erysipelas in the source?",
+    "a": "It infects the upper dermis and superficial lymphatics, and Streptococcus pyogenes eclipses Staphylococcus aureus as the cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "Merck confirms a superficial plane with dermal lymphatic involvement and says group A, or rarely group C or G, beta-hemolytic streptococci cause most cases.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/erysipelas"
+    }
+  },
+  {
+    "id": "s2peds-1314",
+    "category": "Pediatric dermatology",
+    "q": "How does the source contrast erysipelas with ordinary cellulitis?",
+    "a": "Erysipelas can look worse with a fiery-red, well-demarcated, raised edge, but it is more superficial than ordinary cellulitis. Cellulitis more often has indistinct borders and deeper subcutaneous involvement.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "Merck likewise distinguishes erysipelas by clearer margins and more superficial planes, while noting that some regions use the terms synonymously. The source phrase “not as bad” is a mnemonic, not a reason to undertreat systemic or spreading disease.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/erysipelas"
+    }
+  },
+  {
+    "id": "s2peds-1315",
+    "category": "Pediatric dermatology",
+    "q": "What does the source say about erysipelas treatment despite group A strep predominance?",
+    "a": "It tells students to use the same staphylococcal-covering oral options as cellulitis, such as dicloxacillin, cephalexin or amoxicillin-clavulanate, because Staphylococcus can still contribute. It separately notes that penicillin alone treats strep pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "Current Merck guidance is narrower for classic erysipelas: streptococcal treatment is primary, and oral penicillin V, amoxicillin, amoxicillin-clavulanate, cephalexin or cefadroxil are first-line. MRSA is uncommon; add coverage only when identified or strongly suspected.",
+      "url": "https://www.merckmanuals.com/professional/infectious-diseases/bacterial-skin-infections/erysipelas"
+    }
+  },
+  {
+    "id": "s2peds-1316",
+    "category": "Acne",
+    "q": "What diagnosis does the p91 facial photograph show, and what look-alike should not be chosen?",
+    "a": "Acne vulgaris. The source warns students not to mistake simple acne for tinea faciei, a fungal infection of the face.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The 2024 AAD guideline describes acne as follicular hyperkeratinization, Cutibacterium acnes colonization, sebum production and inflammation. Routine cultures are not indicated; treatment is based on morphology and severity.",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    },
+    "img": "/mehlman/figures/peds-p091-acne.png",
+    "imgAlt": "Actual source photograph of inflammatory acne papules and pustules on the face"
+  },
+  {
+    "id": "s2peds-1317",
+    "category": "Acne",
+    "q": "Which bacterium does the source name as the cause of acne?",
+    "a": "Propionibacterium acnes, now named Cutibacterium acnes. It contributes to follicular inflammation together with plugging and sebum production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The 2024 AAD guideline uses the current name Cutibacterium acnes, formerly Propionibacterium acnes, and notes that some strains are pathogenic while others are commensal skin microbiome organisms.",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1318",
+    "category": "Acne",
+    "q": "What is the source first-line acne treatment, and which adverse effects should be expected?",
+    "a": "A topical retinoid such as tretinoin is first-line. The source says topical retinoids inhibit sebum production; current guidance more specifically calls them comedolytic and anti-inflammatory. They can cause photosensitivity, dryness and desquamation or peeling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The 2024 AAD strongly recommends topical retinoids and describes them as comedolytic and anti-inflammatory; it does not present direct sebum suppression as their defining mechanism. Photosensitivity, burning, dryness, erythema and peeling are recognized adverse effects; sunscreen and titration can improve tolerance.",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1319",
+    "category": "Acne",
+    "q": "Where does topical benzoyl peroxide fit in the source acne sequence?",
+    "a": "The source calls benzoyl peroxide second-line but says it is often combined with topical tretinoin. It is antimicrobial and mildly comedolytic, helping clear pores and kill acne-associated bacteria.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The 2024 AAD strongly recommends benzoyl peroxide and multimodal topical therapy. It is especially important with topical or oral antibiotics because it reduces antibiotic resistance; no C. acnes resistance to benzoyl peroxide has been reported.",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1320",
+    "category": "Acne",
+    "q": "What escalation sequence does the source give after topical retinoid and benzoyl peroxide?",
+    "a": "Add topical clindamycin if needed; if topical antibiotic therapy is insufficient, use an oral tetracycline. The source flags “blistering photosensitivity” with oral tetracyclines.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The 2024 AAD strongly recommends topical antibiotics but not as monotherapy; combine them with benzoyl peroxide. Oral doxycycline is the strongly recommended tetracycline, should be paired with topical therapy, used for the shortest practical duration, and can cause phototoxicity among other adverse effects.",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1321",
+    "category": "Acne",
+    "q": "When is oral isotretinoin used, and what test does the source require before starting?",
+    "a": "Oral isotretinoin is the source last resort for severe acne. A beta-hCG pregnancy test is required before commencement because isotretinoin is highly teratogenic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 91,
+      "url": "/mehlman/hy-pediatrics.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The 2024 AAD strongly recommends isotretinoin for severe acne, acne with psychosocial burden or scarring, or acne failing standard therapy; pregnancy prevention is mandatory for patients with pregnancy potential. The p91 sentence then continues onto p92, so its remaining sperm/topical-retinoid claim is intentionally left for the p92 conversion.",
+      "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
+    }
   }
 ];
