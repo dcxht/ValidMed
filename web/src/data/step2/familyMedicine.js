@@ -34443,6 +34443,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 89,
       "url": "/mehlman/hy-family-medicine.pdf#page=89"
+    },
+    "guideline": {
+      "text": "NCI professional CLL PDQ describes characteristic B-cell markers and the need for morphology/immunophenotype, while also discussing rare historically classified T-marker cases. It does not corroborate the PDF mediastinal-compression clue as a T-lineage CLL diagnostic rule. The source clue remains unverified; compression symptoms require evaluation rather than lineage assignment from this mnemonic.",
+      "url": "https://www.cancer.gov/types/leukemia/hp/cll-treatment-pdq"
     }
   },
   {
