@@ -30584,5 +30584,72 @@ export default [
       "page": 37,
       "url": "/mehlman/hy-family-medicine.pdf#page=37"
     }
+  },
+  {
+    "id": "s2fm-2591",
+    "category": "Pulmonary exact-source review",
+    "q": "What forced-choice diagnosis does the PDF favor for dry cough with a normal or mildly hyperinflated chest radiograph?",
+    "a": "Asthma rather than sarcoidosis, with mast-cell activation as its mechanism answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-family-medicine.pdf#page=39"
+    },
+    "guideline": {
+      "text": "Merck Professional recognizes stage 0 sarcoidosis with a normal chest radiograph. Normal CXR does not exclude sarcoidosis; the source exam shortcut is not a general exclusion rule.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/sarcoidosis/sarcoidosis"
+    }
+  },
+  {
+    "id": "s2fm-2592",
+    "category": "Pulmonary exact-source review",
+    "q": "How does the source describe lupus pernio?",
+    "a": "An enlarged nose due to sarcoidosis, not SLE.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-family-medicine.pdf#page=39"
+    },
+    "guideline": {
+      "text": "Merck Professional describes lupus pernio as violaceous plaques on the nose, cheeks, lips or ears. Enlargement alone is not the defining skin finding.",
+      "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/sarcoidosis/sarcoidosis"
+    }
+  },
+  {
+    "id": "s2fm-2593",
+    "category": "Pulmonary exact-source review",
+    "q": "In the PDF, which organism wins when a pneumonia stem mentions lobar location and interstitial markings but omits pneumococcus as a choice?",
+    "a": "Mycoplasma. The source says the interstitial descriptor wins over location.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-2594",
+    "category": "Pulmonary exact-source review",
+    "q": "What pneumonia organism does the PDF favor for an AIDS patient with lobar rather than bilateral ground-glass disease?",
+    "a": "Streptococcus pneumoniae rather than Pneumocystis jirovecii. This is its exam-pattern distinction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-family-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2fm-2595",
+    "category": "Pulmonary exact-source review",
+    "q": "What initial treatment ranking does the PDF give for croup?",
+    "a": "Supportive care, then steroids if an active treatment is offered, followed by nebulized racemic epinephrine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-family-medicine.pdf#page=41"
+    },
+    "guideline": {
+      "text": "Canadian Paediatric Society advises corticosteroids for children with croup symptoms across severity; nebulized epinephrine is used for moderate/severe disease. Steroids are not merely an optional answer after supportive care.",
+      "url": "https://cps.ca/en/documents/position/acute-management-of-croup"
+    }
   }
 ];
