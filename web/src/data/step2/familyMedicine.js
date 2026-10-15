@@ -3985,6 +3985,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 107,
       "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "ACOG Practice Bulletin 2018 warns that a single ultrasound or hCG result may be insufficient to confirm early pregnancy loss. Confirming nonviability and location before treatment avoids interrupting a viable pregnancy; repeat assessment depends on findings and circumstances.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/11/early-pregnancy-loss"
     }
   },
   {
@@ -3996,6 +4000,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 108,
       "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    },
+    "guideline": {
+      "text": "ACOG Practice Bulletin 2018 warns that a single ultrasound or hCG result may be insufficient to confirm early pregnancy loss. Confirming nonviability and location before treatment avoids interrupting a viable pregnancy; repeat assessment depends on findings and circumstances.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/11/early-pregnancy-loss"
     }
   },
   {
@@ -20219,6 +20227,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 107,
       "url": "/mehlman/hy-family-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "ACOG Practice Bulletin 2018 warns that a single ultrasound or hCG result may be insufficient to confirm early pregnancy loss. Confirming nonviability and location before treatment avoids interrupting a viable pregnancy; repeat assessment depends on findings and circumstances.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/11/early-pregnancy-loss"
     }
   },
   {
@@ -27464,6 +27476,81 @@ export default [
     "guideline": {
       "text": "NICE CKS notes most children present after the seizure has stopped. For tonic-clonic activity over 5 minutes, obtain emergency help; rescue benzodiazepines follow specialist advice and the individual plan. A brief resolved febrile seizure is not an automatic indication for a benzodiazepine.",
       "url": "https://cks.nice.org.uk/topics/febrile-seizure/management/acute-management-of-febrile-seizure/"
+    }
+  },
+  {
+    "id": "s2fm-2375",
+    "category": "Reproductive exact-claim reconciliation",
+    "q": "What ultrasound shorthand does the PDF use for anembryonic pregnancy?",
+    "a": "A gestational sac without yolk sac or embryo in an early pregnancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-family-medicine.pdf#page=108"
+    },
+    "guideline": {
+      "text": "ACOG 2018 requires a sufficiently certain diagnosis, using appropriate ultrasound criteria and sometimes repeat imaging. An early empty sac by itself does not establish nonviability or authorize treatment.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/11/early-pregnancy-loss"
+    }
+  },
+  {
+    "id": "s2fm-2376",
+    "category": "Reproductive exact-claim reconciliation",
+    "q": "What ovarian ultrasound requirement does the PDF state for clinical PCOS diagnosis?",
+    "a": "At least 11 cysts bilaterally, which it calls Amsterdam criteria.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-family-medicine.pdf#page=110"
+    },
+    "guideline": {
+      "text": "NICHD guidance describes adult diagnostic approaches using ovulatory dysfunction, hyperandrogenism and ovarian morphology, often two of the three. Some approaches require no ultrasound finding. It does not endorse the source mandatory bilateral 11-cyst rule.",
+      "url": "https://www.nichd.nih.gov/health/topics/factsheets/pcos"
+    }
+  },
+  {
+    "id": "s2fm-2377",
+    "category": "Reproductive exact-claim reconciliation",
+    "q": "Does the PDF require an abnormal pelvic examination for endometriosis?",
+    "a": "Yes, it contrasts an abnormal exam in endometriosis with a normal exam in primary dysmenorrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "ACOG patient guidance says endometriosis lesions may be small or beyond the reach of a pelvic exam; transvaginal ultrasound can be appropriate even when the exam is normal. A normal examination does not exclude it.",
+      "url": "https://www.acog.org/womens-health/faqs/endometriosis"
+    }
+  },
+  {
+    "id": "s2fm-2378",
+    "category": "Reproductive exact-claim reconciliation",
+    "q": "What diagnostic procedure does the PDF place next when an exam suggests endometriosis?",
+    "a": "Laparoscopy with biopsy/visualization in its source diagnostic sequence.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "ACOG guidance allows medical treatment without surgical confirmation. Laparoscopy may be chosen when another condition is suspected, the patient wants definitive diagnosis or combined lesion removal, or medical treatment is not working. It is not automatically the first step in every symptomatic patient.",
+      "url": "https://www.acog.org/womens-health/faqs/endometriosis"
+    }
+  },
+  {
+    "id": "s2fm-2379",
+    "category": "Reproductive exact-claim reconciliation",
+    "q": "What age exclusion does the PDF use when comparing endometriosis with primary dysmenorrhea?",
+    "a": "It says endometriosis is always over age 20, whereas younger patients with painful periods are framed as primary dysmenorrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-family-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "ACOG Committee Opinion 760 summary (2018) identifies endometriosis as the leading cause of secondary dysmenorrhea in adolescents. Persistent significant pain despite appropriate empiric treatment warrants evaluation; age under 20 does not exclude it.",
+      "url": "https://doi.org/10.1097/aog.0000000000002981"
     }
   }
 ];

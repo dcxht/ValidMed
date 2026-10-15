@@ -85,3 +85,4 @@ Exact-claim follow-up pp5-28:2352cards/230sourcefigures/195linkednotes. Several 
 Exact renal/GI/infant follow-up:2363/230figures/208notes; source claims with separatecheckednotes. Partial remains, many otherpage-specificclaims unresolved.
 IBD/liver follow-up2369/230figures/215notes. Partial.
 Neuro-emergency exactclaims:2374total/230figures/223notes. Selectedsurgical/reversal sourcesexplicitlyolder; sourceanswersremainseparate. Partial.
+Reproductive exactclaim follow-up2379/230figures/231notes, Partial.
