@@ -41480,7 +41480,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=228"
     },
     "guideline": {
-      "text": "NIAMS states that osteoporosis risk rises with age and that women and men of all racial/ethnic groups can be affected. Population differences do not remove clinically important individual fracture risk. The source answer-choice rankings are not a validated fracture-risk calculation; densitometric osteoporosis uses an inclusive T-score threshold of -2.5 or below in the applicable diagnostic population.",
+      "text": "NIAMS states that osteoporosis risk rises with age and that women and men of all racial/ethnic groups can be affected. Population differences do not remove clinically important individual fracture risk. The source answer-choice rankings are not a validated fracture-risk calculation.",
       "url": "https://www.niams.nih.gov/health-topics/osteoporosis"
     }
   },
@@ -41563,6 +41563,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 233,
       "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    },
+    "guideline": {
+      "text": "A 2023 cross-sectional study/meta-analysis found intracranial aneurysms in some genetically confirmed Marfan patients, while emphasizing selection bias, uncertain excess risk and the need for larger prospective studies. The PDF no-aneurysm association should not become an impossibility rule. This study does not by itself establish a universal screening recommendation or an individual rupture risk.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10334184/"
     }
   },
   {
@@ -41739,6 +41743,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 239,
       "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    },
+    "guideline": {
+      "text": "A 2024 JCEM clinical review uses a structured approach to raised thyroid hormones with nonsuppressed TSH, including assay interference, altered binding proteins, thyroid-hormone resistance and TSH-secreting pituitary tumors. The source theoretical TRH/hyperplasia list is not a complete differential or a reason to skip confirmation of the laboratory pattern. This is a clinical review, not a new formal guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10940260/"
     }
   },
   {
@@ -42016,6 +42024,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 246,
       "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "A 2020 Blood mechanistic study combined human-response data with rhesus-macaque cell tracking and found glucocorticoid-associated eosinopenia linked to CXCR4-dependent bone-marrow migration. Early disappearance from blood preceded observed apoptosis in the cited human work. This limits the source spleen/apoptosis-only explanation but is not a direct study proving every mechanism of eosinophilia in Addison disease.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7735160/"
     }
   },
   {
