@@ -22857,5 +22857,647 @@ export default [
       "page": 176,
       "url": "/mehlman/hy-family-medicine.pdf#page=176"
     }
+  },
+  {
+    "id": "s2fm-1999",
+    "category": "Psychiatry source details",
+    "q": "How does source avoidant personality differ from schizoid personality?",
+    "a": "The avoidant patient desires relationships but fears rejection/inadequacy; the schizoid pattern involves low desire for close interaction. A single preference does not diagnose a personality disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-2000",
+    "category": "Psychiatry source details",
+    "q": "What cost distinguishes maladaptive OCPD perfectionism from ordinary conscientiousness in the source?",
+    "a": "Lost efficiency and damaged work/relationships, such as excessive repeated checking that prevents completing tasks.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-2001",
+    "category": "Psychiatry source details",
+    "q": "What autism intellectual-ability assumption does the source imply with the old Asperger label?",
+    "a": "It contrasts reduced IQ with preserved/high IQ in an Asperger variant.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "NIMH describes a wide spectrum of abilities, traits and support needs. Autism does not by itself determine IQ or a special compensatory talent.",
+      "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd"
+    }
+  },
+  {
+    "id": "s2fm-2002",
+    "category": "Psychiatry source details",
+    "q": "Why can restrictive eating cause central amenorrhea in the source?",
+    "a": "Altered hypothalamic GnRH pulsation reduces LH/FSH and estrogen exposure; amenorrhea is not required for anorexia diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-2003",
+    "category": "Psychiatry source details",
+    "q": "Can the source anorexia pattern include purging?",
+    "a": "Yes. Purging is not exclusive to bulimia; the source distinguishes anorexia through low-weight restrictive features.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2fm-2004",
+    "category": "Psychiatry source details",
+    "q": "What fixed admission threshold does the PDF use for anorexia?",
+    "a": "BMI<15 or overt malnutrition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-family-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "NICE NG69 advises against an absolute BMI/weight admission threshold; compromised health, rate of loss, monitoring needs and outpatient safety guide admission. Medication is not sole treatment for anorexia.",
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2fm-2005",
+    "category": "Psychiatry source details",
+    "q": "What finding separates binge-eating disorder from source bulimia?",
+    "a": "Recurrent binge episodes are not regularly followed by compensatory behaviors. Frequency, distress and other diagnostic criteria still need assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-2006",
+    "category": "Psychiatry source details",
+    "q": "What does source dissociative fugue add to dissociative amnesia?",
+    "a": "Travel/wandering accompanying autobiographical memory loss, rather than memory gaps alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-2007",
+    "category": "Psychiatry source details",
+    "q": "Why is preserved reality testing important in depersonalization/derealization?",
+    "a": "The patient recognizes the unreal/detached sensation as an experience, not literal proof that the world or self has changed.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-2008",
+    "category": "Psychiatry source details",
+    "q": "What unexplained-symptom requirement does the PDF give for somatic symptom disorder?",
+    "a": "It requires unrevealing medical examination/testing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    },
+    "guideline": {
+      "text": "APA states symptoms may or may not accompany diagnosed medical disease; the diagnosis depends on excessive symptom-related thoughts, feelings or behavior, not lack of a medical explanation alone.",
+      "url": "https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder"
+    }
+  },
+  {
+    "id": "s2fm-2009",
+    "category": "Psychiatry source details",
+    "q": "What source example distinguishes illness anxiety from a large somatic symptom burden?",
+    "a": "Fear of serious illness despite reassurance, often with little symptom burden; ongoing appropriate medical assessment still matters.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-family-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2fm-2010",
+    "category": "Psychiatry source details",
+    "q": "What intentionality distinction does the source use for factitious disorder and malingering?",
+    "a": "Symptoms are intentionally produced in both; an obvious external incentive distinguishes malingering in its framework. Inferred motive or refusal of surgery alone is not proof.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-2011",
+    "category": "Psychiatry source details",
+    "q": "What safeguarding principle does factitious disorder imposed on another raise?",
+    "a": "Induced/fabricated illness in a dependent person is abuse; protect and evaluate the affected person rather than treating it only as the caregiver diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-2012",
+    "category": "Psychiatry source details",
+    "q": "How does C-peptide help distinguish exogenous insulin from a secretagogue in the source?",
+    "a": "Exogenous insulin suppresses endogenous secretion/C-peptide; sulfonylurea exposure and insulinoma can both raise it. The value alone does not distinguish those latter causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-2013",
+    "category": "Psychiatry source details",
+    "q": "Which hypothalamic neurotransmitter deficiency does the source associate with narcolepsy?",
+    "a": "Orexin/hypocretin, particularly its cataplexy-linked pattern; the source names modafinil without a full subtype/treatment algorithm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-2014",
+    "category": "Psychiatry source details",
+    "q": "How do hypnagogic and hypnopompic hallucinations differ?",
+    "a": "At sleep onset versus upon awakening, respectively, in the narcolepsy discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-family-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2fm-2015",
+    "category": "Psychiatry source details",
+    "q": "Which sleep stage does the source associate with sleepwalking and sleep terrors?",
+    "a": "Deep NREM stage 3, compared with REM nightmares that can be recalled after awakening.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-2016",
+    "category": "Psychiatry source details",
+    "q": "What gastric complication can follow trichophagia?",
+    "a": "A trichobezoar, an indigestible hair mass that can obstruct the GI tract.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-2017",
+    "category": "Psychiatry source details",
+    "q": "What skin behavior does the source call excoriation disorder?",
+    "a": "Recurrent skin picking causing lesions, with distress/impairment needed beyond an occasional habit.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-family-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2fm-2018",
+    "category": "Psychiatry source details",
+    "q": "What medication classes does the PDF list for Tourette symptoms?",
+    "a": "Haloperidol, a dopamine-receptor antagonist, and clonidine, an alpha-2 agonist. Severity and behavioral-treatment options need additional context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2019",
+    "category": "Psychiatry source details",
+    "q": "Which source toddler social-play sequence is contrasted?",
+    "a": "Parallel play around 2-3 years versus cooperative play around 3-4 years; these are source ranges, not a stand-alone developmental diagnosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2020",
+    "category": "Psychiatry source details",
+    "q": "Which source gross-motor milestone is placed at 6 months?",
+    "a": "Sitting up, in the PDF table.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "CDC 2025 lists getting to sitting and sitting without support among 9-month milestones. CDC checklists reflect skills most children have by that age; they are not a direct one-to-one replacement for every source teaching range.",
+      "url": "https://www.cdc.gov/act-early/milestones/9-months.html"
+    }
+  },
+  {
+    "id": "s2fm-2021",
+    "category": "Psychiatry source details",
+    "q": "What injury patterns does the source flag for possible inflicted trauma?",
+    "a": "Posterior rib fractures, patterned burns, retinal injury and subdural bleeding, among its examples. Each requires full age/history/mechanism evaluation, not a diagnosis from one sign alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-family-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2fm-2022",
+    "category": "Psychiatry source details",
+    "q": "What reward target does the PDF suggest for enuresis?",
+    "a": "Stars for dry nights.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "NICE CG111 recommends rewarding agreed behaviors rather than dry nights, such as toileting or engaging with treatment. Wetting should not be punished.",
+      "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2fm-2023",
+    "category": "Psychiatry source details",
+    "q": "What categorical statement does the PDF make about desmopressin for bedwetting?",
+    "a": "It calls desmopressin a wrong answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "NICE CG111 offers desmopressin in selected children, including when rapid/short-term improvement is important or an alarm is unsuitable, with required fluid-safety advice. It is not universally wrong.",
+      "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
+    }
+  },
+  {
+    "id": "s2fm-2024",
+    "category": "Psychiatry source details",
+    "q": "What exact day boundary does the PDF use between baby blues and depression?",
+    "a": "More than 10 days suggests postpartum depression in its simplified rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "ACOG says baby blues usually improve within 1-2 weeks; postpartum depression involves more intense/persistent symptoms and impaired function. Severe symptoms or harm thoughts need prompt help at any time, not waiting for a day cutoff.",
+      "url": "https://www.acog.org/womens-health/faqs/postpartum-depression"
+    }
+  },
+  {
+    "id": "s2fm-2025",
+    "category": "Psychiatry source details",
+    "q": "How does source PMS differ from PMDD?",
+    "a": "Luteal mood/physical symptoms versus severe impairing symptoms; the PDF names SSRIs for PMDD.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-family-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2fm-2026",
+    "category": "Psychiatry source details",
+    "q": "What cause label does the PDF give for fibromyalgia?",
+    "a": "It calls it a psych condition rather than a muscle disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "ACR describes chronic widespread pain with nervous-system processing involvement, not an inflammatory/autoimmune disease and not simply a psychiatric label. Exercise, selected medicine and therapy can help.",
+      "url": "https://rheumatology.org/patients/fibromyalgia"
+    }
+  },
+  {
+    "id": "s2fm-2027",
+    "category": "Psychiatry source details",
+    "q": "What physical changes can accompany source pseudocyesis?",
+    "a": "Amenorrhea, abdominal enlargement/bloating and breast symptoms despite no pregnancy; the source mentions stress or prior loss as possible contexts.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-family-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2fm-2028",
+    "category": "Psychiatry source details",
+    "q": "Which reversible factors should be sought in source delirium examples?",
+    "a": "Infection, electrolyte/metabolic disturbance and medications, especially anticholinergic agents. Both agitated and quiet presentations occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-2029",
+    "category": "Psychiatry source details",
+    "q": "What blanket treatment exclusion does the source make for calcitonin in hypercalcemia?",
+    "a": "It says calcitonin is always wrong after saline/bisphosphonate.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "Endocrine Society 2022 guidance for severe hypercalcemia of malignancy (>14 mg/dL) suggests calcitonin plus IV bisphosphonate or denosumab initially, limited to 48-72 hours for tachyphylaxis. This is specifically malignancy-related guidance.",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/hypercalcemia"
+    }
+  },
+  {
+    "id": "s2fm-2030",
+    "category": "Psychiatry source details",
+    "q": "How do source anticholinergic delirium skin/eye clues differ from Reye syndrome?",
+    "a": "Hot dry flushed skin and mydriasis point toward an antimuscarinic toxidrome; aspirin-associated encephalopathy with liver dysfunction supports Reye. An OTC exposure alone identifies neither.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-2031",
+    "category": "Psychiatry source details",
+    "q": "Why can marked reduction rather than complete cessation of alcohol precipitate withdrawal?",
+    "a": "A rapid fall in usual intake can trigger withdrawal physiology; the PDF gives reduced daily consumption as an example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-family-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2fm-2032",
+    "category": "Psychiatry source details",
+    "q": "What limitation does the source explicitly give for minor-consent rules?",
+    "a": "US state law differs. Its sexual-health, mental-health, substance-use, emergency and emancipation categories are orientation, not jurisdiction-specific legal advice.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-2033",
+    "category": "Psychiatry source details",
+    "q": "What autonomic cardiovascular risks does the source associate with cocaine?",
+    "a": "Hypertension, tachycardia, vasospasm/chest pain and possible aortic dissection, with pregnancy abruption also mentioned.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-2034",
+    "category": "Psychiatry source details",
+    "q": "What neurotransmitter-receptor block explains source caffeine wakefulness?",
+    "a": "Adenosine-receptor antagonism; withdrawal can cause headache, fatigue and impaired concentration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-family-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2fm-2035",
+    "category": "Psychiatry source details",
+    "q": "What antidote replenishes glutathione in acetaminophen toxicity?",
+    "a": "N-acetylcysteine, limiting NAPQI injury; timing/risk assessment are not fully supplied by the PDF charcoal-then-antidote summary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-2036",
+    "category": "Psychiatry source details",
+    "q": "What urinary mechanism does the source give for bicarbonate in salicylate poisoning?",
+    "a": "Urine alkalinization increases salicylate elimination. Severe poisoning needs toxicology/airway/dialysis assessment beyond this mechanism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-2037",
+    "category": "Psychiatry source details",
+    "q": "Why can SSRI adverse sexual effects be used therapeutically in premature ejaculation?",
+    "a": "Delayed orgasm/ejaculation is the source link; patient-specific selection and risks still apply.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-2038",
+    "category": "Psychiatry source details",
+    "q": "What generic SSRI response ladder does the PDF give after 4-6 weeks?",
+    "a": "Increase dose, then switch within class, then switch class. It is a source simplification, not a universal plan without diagnosis, adherence, tolerability and safety review.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2fm-2039",
+    "category": "Psychiatry source details",
+    "q": "What laboratory diagnostic test does the PDF name for serotonin syndrome?",
+    "a": "Urinary 5-HIAA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "NCBI-hosted StatPearls 2024 states serotonin syndrome is diagnosed clinically, with medication history/examination and findings such as clonus/hyperreflexia; no diagnostic laboratory test establishes it. This is a secondary clinical review, not a guideline.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482377/"
+    }
+  },
+  {
+    "id": "s2fm-2040",
+    "category": "Psychiatry source details",
+    "q": "What current administrative change does not remove clozapine neutropenia risk?",
+    "a": "The source emphasizes neutropenia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "FDA removed the clozapine REMS effective 13 June 2025, but prescribers should continue ANC monitoring per labeling. REMS removal did not eliminate the adverse effect or monitoring need.",
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+    }
+  },
+  {
+    "id": "s2fm-2041",
+    "category": "Psychiatry source details",
+    "q": "Which eye-tissue deposition pair does the source associate with older antipsychotics?",
+    "a": "Chlorpromazine/corneal and thioridazine/retinal deposits, using its name-letter mnemonic.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-family-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2fm-2042",
+    "category": "Psychiatry source details",
+    "q": "What does the source rule-of-fours approximate for antipsychotic movement effects?",
+    "a": "Hours: acute dystonia; days: akathisia; weeks: parkinsonism; months: tardive dyskinesia. The PDF says these are broad trends, not strict onset rules.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-2043",
+    "category": "Psychiatry source details",
+    "q": "What new symptom distinguishes source akathisia from dystonia?",
+    "a": "Subjective/objective restlessness versus sustained abnormal muscle postures such as torticollis or oculogyric crisis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-2044",
+    "category": "Psychiatry source details",
+    "q": "What source strategy is given for tardive dyskinesia?",
+    "a": "Stop/switch the causative antipsychotic, often to another atypical. This is its source answer, not a complete current management plan or instruction to stop abruptly.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2fm-2045",
+    "category": "Psychiatry source details",
+    "q": "What pharmacologic activity does the source give for lamotrigine?",
+    "a": "Sodium-channel block; severe rash/Stevens-Johnson risk is its highlighted adverse effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-family-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2fm-2046",
+    "category": "Psychiatry source details",
+    "q": "How do barbiturates differ from benzodiazepines in source GABA-A modulation?",
+    "a": "Longer duration versus greater frequency of chloride-channel opening; respiratory/CNS depression makes combinations hazardous.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2fm-2047",
+    "category": "Psychiatry source details",
+    "q": "What obstetric uses does the source give for magnesium?",
+    "a": "Eclamptic seizure prevention/treatment and fetal neuroprotection when early preterm delivery is expected; actual eligibility/regimen requires obstetric guidance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2fm-2048",
+    "category": "Psychiatry source details",
+    "q": "What ion-channel effects does the source use to explain opioid neuronal inhibition?",
+    "a": "Opening potassium channels and reducing calcium-channel-mediated neurotransmitter release.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2049",
+    "category": "Psychiatry source details",
+    "q": "What adverse affect can kappa-receptor agonism produce in the source?",
+    "a": "Dysphoria, despite analgesic activity; the source contrasts this with classic mu-mediated euphoria/respiratory depression.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2050",
+    "category": "Psychiatry source details",
+    "q": "Why can morphine metabolites contribute to prolonged toxicity in the source?",
+    "a": "Active metabolites can accumulate; the source uses repeated patient-controlled dosing as a caution rather than a complete dosing model.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2051",
+    "category": "Psychiatry source details",
+    "q": "What two actions make tramadol distinct in the source table?",
+    "a": "Weak mu-opioid agonism plus serotonin/norepinephrine-reuptake inhibition, with interaction/seizure risk needing separate assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2fm-2052",
+    "category": "Psychiatry source details",
+    "q": "What route clarification matters for the source orally-given Suboxone description?",
+    "a": "The PDF broadly says oral buprenorphine/naloxone, contrasting it with injection misuse.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-family-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "FDA 2025 Suboxone film is administered sublingually or buccally and should not be swallowed/chewed/cut. It is part of a complete OUD treatment plan, not reserved only for people who previously misused methadone.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022410s056lbl.pdf"
+    }
   }
 ];

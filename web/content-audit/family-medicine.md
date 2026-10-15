@@ -70,3 +70,4 @@ Second detail pass pp114-130:45 additional source-detail questions. Total1831,23
 Second detail pass pp131-145 plus implant update p112:47 additional cards,1878total,230figures,82notes. Claim reconciliation remains open; Partial retained.
 Second detail pass pp146-160:60 new questions,1938total,230figures,93current-source notes. Broad source read and figures complete, detail/claim reconciliation still Partial.
 Second detail pass pp161-176:60additional cards,1998total,230figures,105current-source notes. Partial retained: nextpp177 onward, with exact-claim reconciliation still open across prior ranges.
+Second detail pass pp177-193:54additional cards,2052total,230figures,118current-source notes. Repeated dementia/Parkinson material pp183-184 cross-checked rather than mechanically duplicated. Partial retained; claim reconciliation remains open.
