@@ -212,3 +212,5 @@ Computed2590cards/230figures/409notes, Partial.
 3026 cards / 230 figure cards / 583 linked notes. Finer pass through p249. Partial.
 
 3043 cards / 230 figure cards / 584 linked notes. Finer pass through p259. Partial.
+
+3054 cards / 230 figure cards / 591 linked notes. Finer pass through p268. Partial.

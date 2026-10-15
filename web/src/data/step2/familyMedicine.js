@@ -25800,8 +25800,8 @@ export default [
   {
     "id": "s2fm-2231",
     "category": "Rapid-review source details",
-    "q": "How do Monteggia and Galeazzi fracture-dislocations differ in the source?",
-    "a": "Proximal ulna fracture with radial-head dislocation versus radial-shaft fracture with distal radioulnar-joint disruption.",
+    "q": "Which direction of radial-head displacement accompanies the source Monteggia example?",
+    "a": "Anterior displacement of the radial head with a proximal-ulna fracture, in this source example.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 260,
@@ -25844,8 +25844,8 @@ export default [
   {
     "id": "s2fm-2235",
     "category": "Rapid-review source details",
-    "q": "How does the source describe Mulder sign in suspected Morton neuroma?",
-    "a": "Compression of the metatarsal heads recreates interdigital pain/clicking in the foot.",
+    "q": "Between which metatarsal heads does the source localize a Morton-neuroma pain vignette?",
+    "a": "Most prominently the third-fourth web space in its high-heel vignette; the PDF also lists the second-third space.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 263,
@@ -36266,6 +36266,155 @@ export default [
     "guideline": {
       "text": "DailyMed pioglitazone label also has a boxed warning for causing or worsening congestive heart failure, with monitoring for edema, dyspnea and rapid weight gain. Initiation in NYHA class III/IV heart failure is contraindicated; suspected hepatic injury requires assessment.",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?audience=consumer&setid=38011100-3203-4626-ba3b-81acd3a0f0f1"
+    }
+  },
+  {
+    "id": "s2fm-3044",
+    "category": "Rapid-bullet finer review",
+    "q": "Does the PDF require electrophysiological testing to establish carpal tunnel syndrome?",
+    "a": "Yes. Its rapid bullet says examination findings are insufficient.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    },
+    "guideline": {
+      "text": "AAOS 2024 strong evidence supports CTS-6, a structured clinical diagnostic tool, in place of routine ultrasonography or NCV/EMG. Additional testing remains useful in selected uncertain cases; the guideline does not make electrophysiology mandatory for every patient.",
+      "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf"
+    }
+  },
+  {
+    "id": "s2fm-3045",
+    "category": "Rapid-bullet finer review",
+    "q": "Does the PDF surgical-only shorthand cover all Dupuytren disease treatment?",
+    "a": "It says treatment is surgical.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-family-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "AAOS describes treatment based on contracture/function, including collagenase injection and needle aponeurotomy as well as surgery. The source shorthand does not mean every palmar nodule requires surgery.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/dupuytrens-disease"
+    }
+  },
+  {
+    "id": "s2fm-3046",
+    "category": "Rapid-bullet finer review",
+    "q": "What joint characteristics does the PDF emphasize as septic-arthritis risks?",
+    "a": "Abnormal or prosthetic joints, rheumatoid/osteoarthritis, joint trauma and its pediatric inflammatory-arthritis context. These are risk clues, not a rule that a previously healthy joint cannot be infected.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-family-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2fm-3047",
+    "category": "Rapid-bullet finer review",
+    "q": "What calcium answer does the rapid PDF favor in a vegan nutrition question when B12 is not offered?",
+    "a": "Calcium, contrasting its dairy/fish sources with folate from leafy greens. The source forced-choice answer is not a diagnosis of deficiency in every vegan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2fm-3048",
+    "category": "Rapid-bullet finer review",
+    "q": "What absolute does the PDF use to exclude surgery for carpal tunnel syndrome?",
+    "a": "It says a surgical choice is always wrong on USMLE.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    },
+    "guideline": {
+      "text": "AAOS patient guidance supports carpal-tunnel release for appropriate patients, with evidence of benefit over nonsurgical measures. The exam shorthand must not be used to exclude indicated surgery. This fetched summary predates the separately linked 2024 diagnostic guideline.",
+      "url": "https://www.orthoinfo.org/globalassets/pdfs/carpal-tunnel-syndrome-cpg_pls.pdf"
+    }
+  },
+  {
+    "id": "s2fm-3049",
+    "category": "Rapid-bullet finer review",
+    "q": "Which infection does the source infer from young sexually active epididymitis with no growth on routine culture?",
+    "a": "Chlamydia, rather than an enteric organism in its source contrast.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-family-medicine.pdf#page=264"
+    },
+    "guideline": {
+      "text": "CDC includes chlamydia, gonorrhea and enteric causes according to exposure/risk. Test suspected cases for chlamydia and gonorrhea by NAAT; urine culture is insensitive for these pathogens. No growth does not prove chlamydia, and sudden severe pain requires torsion assessment.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/epididymitis.htm"
+    }
+  },
+  {
+    "id": "s2fm-3050",
+    "category": "Rapid-bullet finer review",
+    "q": "What additional infertility mechanism does the source give for varicocele?",
+    "a": "Elevated testicular temperature in its bag-of-worms vignette; it says elective intervention may be considered rather than demanding surgery for every finding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-3051",
+    "category": "Rapid-bullet finer review",
+    "q": "What test does the source name to evaluate its varicocele vignette?",
+    "a": "Doppler ultrasound, in its rapid source example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-family-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2fm-3052",
+    "category": "Rapid diabetes source reconciliation",
+    "q": "What universal first-drug rule does the PDF give for type 2 diabetes?",
+    "a": "Metformin first.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-family-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "ADA Standards2026 uses person-centered treatment selection, including ASCVD, heart failure, CKD, weight goals, hypoglycemia risk and access. Cardiorenal-beneficial SGLT2 or GLP-1 therapy may be indicated irrespective of A1c; metformin is not a mandatory first step for every patient.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
+    }
+  },
+  {
+    "id": "s2fm-3053",
+    "category": "Rapid diabetes source reconciliation",
+    "q": "What beta-cell inference does the PDF make when glyburide does not control HbA1c at 9.6%?",
+    "a": "It says beta cells are burned out and switches to metformin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "ADA2026 calls for reassessment and treatment intensification based on the person and current regimen. One elevated A1c does not prove complete beta-cell failure or dictate this single switch.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
+    }
+  },
+  {
+    "id": "s2fm-3054",
+    "category": "Rapid diabetes source reconciliation",
+    "q": "What single escalation does the rapid PDF give for HbA1c 9.6% despite glyburide and metformin?",
+    "a": "Switch to intermediate-acting insulin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-family-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "ADA2026 recommendations9.5-9.17 direct person-centered reassessment and timely intensification, considering glucose/weight goals, comorbidities, hypoglycemia and access. Cardiorenal-beneficial treatments may be indicated irrespective of A1c. A1c9.6% alone does not establish intermediate-acting insulin as the sole appropriate next choice.",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
     }
   }
 ];
