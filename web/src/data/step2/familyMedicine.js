@@ -23371,6 +23371,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 188,
       "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "The 2023 US/Canada toxicology consensus recommends starting acetylcysteine as soon as indicated; with strong concern for a large acute overdose, do not wait for levels if that would delay treatment beyond 8 hours. Activated charcoal requires appropriate airway/contraindication assessment and is not a prerequisite to acetylcysteine.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062"
     }
   },
   {
@@ -23478,6 +23482,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 190,
       "url": "/mehlman/hy-family-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "APA 2020 schizophrenia guideline recommends a reversible VMAT2 inhibitor for moderate-to-severe or disabling antipsychotic-associated tardive dyskinesia. Drug review/switching is not the only treatment consideration; changes need supervised risk-benefit planning.",
+      "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.177901"
     }
   },
   {
@@ -27549,8 +27557,53 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=111"
     },
     "guideline": {
-      "text": "ACOG Committee Opinion 760 summary (2018) identifies endometriosis as the leading cause of secondary dysmenorrhea in adolescents. Persistent significant pain despite appropriate empiric treatment warrants evaluation; age under 20 does not exclude it.",
-      "url": "https://doi.org/10.1097/aog.0000000000002981"
+      "text": "ACOG Committee Opinion 760 abstract (2018) identifies endometriosis as the leading cause of secondary dysmenorrhea in adolescents. Persistent significant pain despite appropriate empiric treatment warrants evaluation; age under 20 does not exclude it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30461694/"
+    }
+  },
+  {
+    "id": "s2fm-2380",
+    "category": "Toxicology exact-claim reconciliation",
+    "q": "What ECG interval does the PDF repeatedly name as a clue to tricyclic-antidepressant overdose?",
+    "a": "QT prolongation, alongside coma, convulsions and cardiotoxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-family-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "FDA amitriptyline 2025 label also stresses QRS axis/width; maximal limb-lead QRS at least 0.10 seconds may best indicate overdose severity. QT prolongation can occur, but focusing only on QT misses sodium-channel blockade; IV bicarbonate is part of specialist overdose management.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/085968s112lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2381",
+    "category": "Toxicology exact-claim reconciliation",
+    "q": "Which reversal drug does the PDF name for Jimson-weed anticholinergic toxicity?",
+    "a": "Physostigmine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-family-medicine.pdf#page=167"
+    },
+    "guideline": {
+      "text": "FDA amitriptyline 2025 overdose labeling cautions against physostigmine in TCA poisoning except life-threatening symptoms refractory to other treatment and only with poison-control consultation. A plant-toxicity association must not become an unqualified antidote rule for mixed or suspected TCA overdose.",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/085968s112lbl.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2382",
+    "category": "Toxicology exact-claim reconciliation",
+    "q": "What electrolyte treatment does the PDF say may help an arrhythmia caused by digoxin toxicity?",
+    "a": "Magnesium, in its myocardium-stabilizing discussion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-family-medicine.pdf#page=192"
+    },
+    "guideline": {
+      "text": "FDA DigiFab labeling specifically indicates digoxin immune Fab for life-threatening or potentially life-threatening digoxin toxicity, including severe arrhythmias and other defined high-risk findings. Magnesium is not a substitute for antidote assessment; potassium and clinical response require monitoring.",
+      "url": "https://www.fda.gov/media/74693/download"
     }
   }
 ];
