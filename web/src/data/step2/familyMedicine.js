@@ -3522,7 +3522,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 89,
       "url": "/mehlman/hy-family-medicine.pdf#page=89"
-    }
+    },
+    "sourcePages": [
+      89
+    ]
   },
   {
     "id": "s2fm-0304",
@@ -3555,7 +3558,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 91,
       "url": "/mehlman/hy-family-medicine.pdf#page=91"
-    }
+    },
+    "sourcePages": [
+      91
+    ]
   },
   {
     "id": "s2fm-0307",
@@ -3731,7 +3737,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 97,
       "url": "/mehlman/hy-family-medicine.pdf#page=97"
-    }
+    },
+    "sourcePages": [
+      97
+    ]
   },
   {
     "id": "s2fm-0323",
@@ -3753,7 +3762,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 98,
       "url": "/mehlman/hy-family-medicine.pdf#page=98"
-    }
+    },
+    "sourcePages": [
+      98
+    ]
   },
   {
     "id": "s2fm-0325",
@@ -3856,7 +3868,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 100,
       "url": "/mehlman/hy-family-medicine.pdf#page=100"
-    }
+    },
+    "sourcePages": [
+      100
+    ]
   },
   {
     "id": "s2fm-0334",
@@ -13896,7 +13911,7 @@ export default [
   {
     "id": "s2fm-1191",
     "category": "Hematology images",
-    "q": "A persistent patch/plaque eruption occurs in the source cutaneousT-cell-lymphoma discussion. Which condition is illustrated?",
+    "q": "A persistent patch/plaque eruption occurs in the source cutaneous T-cell-lymphoma discussion. Which condition is illustrated?",
     "a": "Mycosis fungoides.",
     "img": "/s2img/fm-93-0.png",
     "alt": "Figure from the source PDF",
@@ -13922,7 +13937,7 @@ export default [
   {
     "id": "s2fm-1193",
     "category": "Hematology images",
-    "q": "Which denatured-hemoglobin inclusions are circled in the sourceG 6PD image?",
+    "q": "Which denatured-hemoglobin inclusions are circled in the source G6PD image?",
     "a": "Heinz bodies.",
     "img": "/s2img/fm-94-1.png",
     "alt": "Figure from the source PDF",
@@ -19598,7 +19613,7 @@ export default [
     "id": "s2fm-1672",
     "category": "Hematology source details",
     "q": "Which platelet surface target does the source associate with ITP antibodies?",
-    "a": "GlycoproteinIIb/IIIa, one source antibody target in immune platelet destruction.",
+    "a": "Glycoprotein IIb/IIIa, one source antibody target in immune platelet destruction.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 83,
@@ -19871,7 +19886,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 89,
       "url": "/mehlman/hy-family-medicine.pdf#page=89"
-    }
+    },
+    "duplicateOf": "s2fm-0303"
   },
   {
     "id": "s2fm-1696",
@@ -19899,7 +19915,7 @@ export default [
     "id": "s2fm-1698",
     "category": "Hematology source details",
     "q": "Which treatment does the PDF label broadly as AML therapy?",
-    "a": "All-trans retinoic acid/vitaminA to induce maturation. The source label is broader than the approved APL setting.",
+    "a": "All-trans retinoic acid/vitamin A to induce maturation. The source label is broader than the approved APL setting.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 90,
@@ -19930,13 +19946,14 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 91,
       "url": "/mehlman/hy-family-medicine.pdf#page=91"
-    }
+    },
+    "duplicateOf": "s2fm-0306"
   },
   {
     "id": "s2fm-1701",
     "category": "Hematology source details",
     "q": "What blood and skin findings characterize source Sezary syndrome?",
-    "a": "Cerebriform malignantT cells in blood with diffuse erythroderma, a cutaneous T-cell lymphoma with blood involvement.",
+    "a": "Cerebriform malignant T cells in blood with diffuse erythroderma, a cutaneous T-cell lymphoma with blood involvement.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 91,
@@ -20105,7 +20122,7 @@ export default [
     "id": "s2fm-1716",
     "category": "Hematology source details",
     "q": "What does basophilic stippling represent in the source?",
-    "a": "Aggregatedribosomal RNA in red cells.",
+    "a": "Aggregated ribosomal RNA in red cells.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 95,
@@ -20183,7 +20200,7 @@ export default [
     "id": "s2fm-1723",
     "category": "Pharmacology",
     "q": "What enzyme target does the source give for warfarin/dicoumarol?",
-    "a": "VitaminK epoxide reductase, reducing recycling required for vitamin K-dependent clotting-protein activation.",
+    "a": "Vitamin K epoxide reductase, reducing recycling required for vitamin K-dependent clotting-protein activation.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 97,
@@ -20199,7 +20216,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 97,
       "url": "/mehlman/hy-family-medicine.pdf#page=97"
-    }
+    },
+    "duplicateOf": "s2fm-0322"
   },
   {
     "id": "s2fm-1725",
@@ -20243,7 +20261,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 98,
       "url": "/mehlman/hy-family-medicine.pdf#page=98"
-    }
+    },
+    "duplicateOf": "s2fm-0324"
   },
   {
     "id": "s2fm-1729",
@@ -20286,7 +20305,7 @@ export default [
     "id": "s2fm-1732",
     "category": "Reproductive source details",
     "q": "What age-based organism split does the PDF use for epididymitis/prostatitis?",
-    "a": "Under 35: chlamydia/gonorrhea; over 35:E. coli. This is its simplified exam pattern, not a replacement for sexual-exposure, urinary and microbiologic assessment.",
+    "a": "Under 35: chlamydia/gonorrhea; over 35: E. coli. This is its simplified exam pattern, not a replacement for sexual-exposure, urinary and microbiologic assessment.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 98,
@@ -20405,7 +20424,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 100,
       "url": "/mehlman/hy-family-medicine.pdf#page=100"
-    }
+    },
+    "duplicateOf": "s2fm-0333"
   },
   {
     "id": "s2fm-1743",
@@ -37466,6 +37486,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    },
+    "guideline": {
+      "text": "AGA pancreatic-necrosis best-practice advice (2019): do not use routine prophylactic antibiotics for sterile necrosis. With proven or strongly suspected infected necrosis, favor IV agents that penetrate necrosis, including carbapenems, quinolones or metronidazole. This is not a recommendation for imipenem in every pancreatitis case.",
+      "url": "https://gastro.org/clinical-guidance/management-of-pancreatic-necrosis/"
     }
   },
   {
@@ -37477,6 +37501,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 78,
       "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Current guideline: ACG 2024 prefers 14-day optimized bismuth quadruple therapy when susceptibility is unknown; use clarithromycin triple only with proven susceptibility.",
+      "url": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
     }
   },
   {
