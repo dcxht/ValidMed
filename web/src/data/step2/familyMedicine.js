@@ -41316,6 +41316,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 226,
       "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    },
+    "guideline": {
+      "text": "NIAMS explains that no single test diagnoses JIA. RF and anti-CCP antibodies are rarely detected and, when present, usually correspond to RF-positive polyarticular JIA. ACR patient guidance associates the recurring pink rash with systemic-onset JIA rather than every subtype. Clinical pattern, duration and exclusion of other causes matter; the PDF test list is not a universal positive-test requirement.",
+      "url": "https://www.niams.nih.gov/health-topics/juvenile-arthritis/diagnosis-treatment-and-steps-to-take"
     }
   },
   {
