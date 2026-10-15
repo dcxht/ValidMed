@@ -27665,5 +27665,125 @@ export default [
       "text": "NEI patient guidance distinguishes nonproliferative from proliferative diabetic retinopathy; neovascularization defines the proliferative stage. Macular edema can occur at any stage. The older NEI booklet is used here for terminology only; current treatment details are separately described on NEI retinopathy guidance.",
       "url": "https://www.nei.nih.gov/sites/default/files/health-pdfs/diabeticretino.pdf"
     }
+  },
+  {
+    "id": "s2fm-2387",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "What shorthand does the PDF give for a fourth-nerve palsy?",
+    "a": "Upward gaze and a head tilt toward the unaffected side.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-family-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "AAPOS describes superior-oblique weakness as misalignment, often with one eye higher, and compensatory head tilt that may reduce diplopia. The PDF position label is a shorthand, not a complete motility examination.",
+      "url": "https://www.aapos.org/glossary/fourth-nerve-palsy"
+    }
+  },
+  {
+    "id": "s2fm-2388",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "What muscle-cause shorthand does the PDF give for strabismus?",
+    "a": "It calls it misalignment due to weakened muscles in one eye, with possible later amblyopia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "AAPOS says most strabismus reflects abnormal neuromuscular control of eye movements, including brain control; an actual muscle problem is less common. Misalignment and reduced visual acuity are different concepts.",
+      "url": "https://www.aapos.org/glossary/strabismus"
+    }
+  },
+  {
+    "id": "s2fm-2389",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "How does the PDF phrase the RB1-related retinoblastoma association?",
+    "a": "Congenital retinoblastoma with later osteosarcoma risk.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-family-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "NCI distinguishes heritable and nonheritable retinoblastoma. Most cases are nonheritable, with chance RB1 mutations after birth; heritable disease carries additional cancer risks. Not every retinoblastoma is congenital or inherited.",
+      "url": "https://www.cancer.gov/types/retinoblastoma/patient/retinoblastoma-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2fm-2390",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "Which cataract cause does the PDF rank as most important for its exam patterns?",
+    "a": "Diabetes, through glucose-to-sorbitol conversion and osmotic lens injury.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-family-medicine.pdf#page=204"
+    },
+    "guideline": {
+      "text": "NEI says most cataracts are age-related; diabetes is one risk factor. The source exam emphasis should not be read as the most common population cause.",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/cataracts"
+    }
+  },
+  {
+    "id": "s2fm-2391",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "What mechanism wording does the PDF use for papilledema?",
+    "a": "Blurred optic-disc margins from inflammation of the optic nerve head in increased intracranial pressure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-family-medicine.pdf#page=205"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes papilledema as swelling of the optic nerve in the back of the eye in intracranial hypertension. The source inflammation word should not be taken to mean that papilledema is synonymous with optic neuritis.",
+      "url": "https://medlineplus.gov/ency/article/000351.htm"
+    }
+  },
+  {
+    "id": "s2fm-2392",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "What inheritance shorthand does the PDF give for Alport syndrome?",
+    "a": "Type IV collagen mutation, X-linked recessive.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics describes X-linked COL4A5 disease and autosomal recessive or dominant COL4A3/COL4A4 disease. X-linked is not the only inheritance pattern.",
+      "url": "https://medlineplus.gov/genetics/condition/alport-syndrome/"
+    }
+  },
+  {
+    "id": "s2fm-2393",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "What definition does the PDF give for heteroplasmy?",
+    "a": "Variability of phenotype severity across offspring.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics defines heteroplasmy as a mixture of mitochondria with mutated and unmutated DNA in cells. Mutant proportion can affect severity, but variability between offspring is not the definition.",
+      "url": "https://medlineplus.gov/genetics/chromosome/mitochondrial-dna/"
+    }
+  },
+  {
+    "id": "s2fm-2394",
+    "category": "Ophthalmology exact-claim reconciliation",
+    "q": "Which broad triad does the PDF attach to mitochondrial disorders such as LHON?",
+    "a": "Eye/ear problems, hypotonia and lactic acidosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 206,
+      "url": "/mehlman/hy-family-medicine.pdf#page=206"
+    },
+    "guideline": {
+      "text": "MedlinePlus Genetics describes LHON primarily as inherited central vision loss, usually starting in teens or twenties, with mitochondrial inheritance. The source broad triad is not required for LHON diagnosis.",
+      "url": "https://medlineplus.gov/genetics/condition/leber-hereditary-optic-neuropathy/"
+    }
   }
 ];
