@@ -33105,5 +33105,205 @@ export default [
       "page": 111,
       "url": "/mehlman/hy-family-medicine.pdf#page=111"
     }
+  },
+  {
+    "id": "s2fm-2782",
+    "category": "SERM source indication review",
+    "q": "What established-cancer use does the PDF assign to both tamoxifen and raloxifene?",
+    "a": "It calls both SERMs treatments for estrogen-receptor-positive breast cancer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-family-medicine.pdf#page=113"
+    },
+    "guideline": {
+      "text": "FDA Evista labeling distinguishes raloxifene risk reduction in selected postmenopausal women from treatment: it is not indicated to treat invasive breast cancer or reduce recurrence. Tamoxifen and raloxifene do not have identical treatment indications.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01143c04-f5d7-481d-95bb-d384f2413585"
+    }
+  },
+  {
+    "id": "s2fm-2783",
+    "category": "Growth exact-source review",
+    "q": "What automatic prognosis does the PDF infer from bone age younger than chronological age in a short child?",
+    "a": "Constitutional short stature with later catch-up.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    },
+    "guideline": {
+      "text": "Merck professional guidance says growth-hormone deficiency can also cause skeletal maturation more than two years behind chronological age. Delayed bone age alone does not prove a normal variant or guarantee catch-up; growth velocity and the full evaluation matter.",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/endocrine-disorders-in-children/growth-hormone-deficiency-in-children"
+    }
+  },
+  {
+    "id": "s2fm-2784",
+    "category": "Dermatology infection source review",
+    "q": "What antibiotic does the PDF choose for Lyme involving the nervous system?",
+    "a": "Ceftriaxone for advanced CNS involvement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC distinguishes oral treatment for facial palsy and oral or IV treatment for Lyme meningitis/radiculoneuritis according to severity. Neurologic involvement does not by itself mandate ceftriaxone in every case.",
+      "url": "https://www.cdc.gov/lyme/hcp/clinical-care/neurologic-lyme-disease.html"
+    }
+  },
+  {
+    "id": "s2fm-2785",
+    "category": "Dermatology infection source review",
+    "q": "What antibiotic does the PDF choose for Lyme involving the heart?",
+    "a": "Ceftriaxone for advanced cardiac involvement.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC selects oral antibiotics for mild carditis and IV ceftriaxone initially for severe disease, with possible oral transition after improvement. Severity and conduction findings guide treatment, not merely any cardiac manifestation.",
+      "url": "https://www.cdc.gov/lyme/hcp/clinical-care/lyme-carditis.html"
+    }
+  },
+  {
+    "id": "s2fm-2786",
+    "category": "Dermatology infection source review",
+    "q": "Which specific oral agent does the PDF choose for scalp dermatophyte infection?",
+    "a": "Griseofulvin; its prevention instruction is not to share hats.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-2787",
+    "category": "Dermatology infection source review",
+    "q": "Which source shampoos treat seborrheic dermatitis?",
+    "a": "Selenium-containing or ketoconazole shampoo.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-family-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2fm-2788",
+    "category": "Dermatology infection source review",
+    "q": "Which source oral antifungal treats sporotrichosis?",
+    "a": "Itraconazole; an ascending lymphatic pattern can follow rose-thorn inoculation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-family-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2fm-2789",
+    "category": "Dermatology infection source review",
+    "q": "Which topical agents does the PDF choose for tinea faciei?",
+    "a": "Topical azoles such as clotrimazole or miconazole.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-family-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2fm-2790",
+    "category": "Dermatology infection source review",
+    "q": "Which other tick-borne infections does the source link to the Ixodes vector beside Lyme?",
+    "a": "Babesiosis, anaplasmosis and its listed Ehrlichia association; species and geography still matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-family-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2fm-2791",
+    "category": "Dermatology infection source review",
+    "q": "Which organism does the source identify as a bed bug?",
+    "a": "Cimex, producing clusters of itchy lesions on limbs or torso.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2fm-2792",
+    "category": "Dermatology infection source review",
+    "q": "What source topical treatment applies to ordinary scabies and also lice?",
+    "a": "Permethrin; formulation and repeat/contact instructions depend on the infestation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-family-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2fm-2793",
+    "category": "Dermatology infection source review",
+    "q": "Which organism causes the PDF hot-tub folliculitis rash?",
+    "a": "Pseudomonas, associated with contaminated water exposure.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2fm-2794",
+    "category": "Dermatology infection source review",
+    "q": "What oral enanthem does the PDF call characteristic of measles?",
+    "a": "Koplik spots, whitish buccal mucosal lesions.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-family-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2fm-2795",
+    "category": "Dermatology infection source review",
+    "q": "How does the source distinguish rubella lymph-node findings from measles Koplik spots?",
+    "a": "Rubella can cause posterior-auricular and suboccipital lymphadenopathy with a head-to-toe rash.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2fm-2796",
+    "category": "Exact-source qualifier review",
+    "q": "What categorical fertility finding does the source assign to Turner syndrome?",
+    "a": "Infertility from streak ovaries, with donor-egg IVF as its described route to pregnancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-family-medicine.pdf#page=109"
+    },
+    "guideline": {
+      "text": "The 2024 Turner clinical-guideline family version says spontaneous pregnancy can occur, usually in mosaic TS, though it is rare. Fertility and cardiovascular pregnancy safety require individual specialist assessment; a universal impossibility claim is inaccurate.",
+      "url": "https://tsgalliance.org/wp-content/uploads/2025/02/CPG-Family-version-2024-Guidelines.pdf"
+    }
+  },
+  {
+    "id": "s2fm-2797",
+    "category": "Exact-source qualifier review",
+    "q": "What does the source infer once a child develops parvovirus slapped cheeks?",
+    "a": "The child has immunologically cleared the virus.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-family-medicine.pdf#page=121"
+    },
+    "guideline": {
+      "text": "CDC says people are usually no longer contagious after rash or joint symptoms, but anemia and weakened immunity can prolong contagiousness. A rash alone should not establish clearance for every patient or host state.",
+      "url": "https://www.cdc.gov/parvovirus-b19/prevention-treatment/"
+    }
   }
 ];
