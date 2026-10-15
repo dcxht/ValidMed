@@ -28872,8 +28872,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "ACOG CPG5 (2023), read in a full guideline copy hosted by the Policy Center for Maternal Mental Health, recommends against discontinuing mood stabilizers other than valproate solely for pregnancy. Lithium requires risk-benefit discussion, level monitoring and a detailed second-trimester ultrasound after first-trimester exposure, not an automatic stop.",
-      "url": "https://cdn.policycentermmh.org/2026/09/2023-ACOG-guideline-Treatment-and-Management-of-Mental-Health-Conditions-During-Pregnancy-and-Postpartum_ACOG-Clinical-Practice-Guideline-No.-5_.pdf"
+      "text": "ACOG's official perinatal-treatment page recommends against withholding or stopping mental-health medication because of pregnancy or lactation alone. The PDF blanket avoidance/replacement shortcut is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. Detailed lithium-specific recommendations from an external guideline copy remain pending publisher-text verification.",
+      "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     }
   },
   {
@@ -28887,8 +28887,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "ACOG CPG5 (2023), read in an externally hosted full copy, individualizes treatment based on prior response. With no pharmacotherapy history, sertraline or escitalopram are reasonable first-line choices; psychotherapy is first-line for mild-to-moderate perinatal depression.",
-      "url": "https://cdn.policycentermmh.org/2026/09/2023-ACOG-guideline-Treatment-and-Management-of-Mental-Health-Conditions-During-Pregnancy-and-Postpartum_ACOG-Clinical-Practice-Guideline-No.-5_.pdf"
+      "text": "Cleveland Clinic Journal of Medicine 2026, a secondary clinical review of ACOG guidance, recommends continuing or restarting previously effective therapy; if medication-naive, sertraline or escitalopram are first-line choices. Treatment is individualized, not sertraline for everyone.",
+      "url": "https://www.ccjm.org/content/93/4/201"
     }
   },
   {
@@ -28902,8 +28902,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=182"
     },
     "guideline": {
-      "text": "ACOG CPG5 (2023), read in an externally hosted full copy, supports continuing effective mood stabilizers other than valproate when appropriate and tailoring therapy to bipolar subtype, prior response and risks. These three source drugs are not a universal replacement list for every patient.",
-      "url": "https://cdn.policycentermmh.org/2026/09/2023-ACOG-guideline-Treatment-and-Management-of-Mental-Health-Conditions-During-Pregnancy-and-Postpartum_ACOG-Clinical-Practice-Guideline-No.-5_.pdf"
+      "text": "ACOG's official perinatal-treatment page recommends against withholding or stopping mental-health medication because of pregnancy or lactation alone. The PDF blanket avoidance/replacement shortcut is not a basis to stop effective treatment; individualized specialist risk-benefit review is needed. Detailed lithium-specific recommendations from an external guideline copy remain pending publisher-text verification.",
+      "url": "https://www.acog.org/programs/perinatal-mental-health/assessment-and-treatment-of-perinatal-mental-health-conditions"
     }
   },
   {
