@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 282; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 317; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -11851,6 +11851,809 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 282,
       "url": "/mehlman/hy-family-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2fm-1050",
+    "category": "Immunology",
+    "q": "Recurrent mucocutaneous candidiasis since childhood suggests dysfunction in which immune compartment in the source?",
+    "a": "Cell-mediated/T-cell-related immunity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-1051",
+    "category": "Immunology",
+    "q": "What molecular defects are paired with X-linked and adenosine-deaminase-related SCID in the source?",
+    "a": "X-linked SCID: common cytokine-receptor gamma chain. ADA deficiency: an autosomal recessive cause of SCID.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-1052",
+    "category": "Immunology",
+    "q": "What signaling-protein defect causes classic X-linked agammaglobulinemia?",
+    "a": "Bruton tyrosine kinase (BTK) deficiency, impairing B-cell maturation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-1053",
+    "category": "Immunology",
+    "q": "Why does CD 40-ligand deficiency cause hyper-IgM syndrome?",
+    "a": "T cells cannot properly provide CD 40-mediated help for B-cell immunoglobulin class switching.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-family-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2fm-1054",
+    "category": "Infectious disease",
+    "q": "Why does esophageal candidiasis require systemic rather than nystatin mouthwash treatment in the source?",
+    "a": "A mouthwash does not adequately treat esophageal infection; the source names a systemic azole.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-family-medicine.pdf#page=284"
+    }
+  },
+  {
+    "id": "s2fm-1055",
+    "category": "Pulmonology",
+    "q": "How does FEV 1/FVC typically differ in obstructive and restrictive ventilatory defects?",
+    "a": "Reduced in obstruction; normal or increased in restriction. Lung volumes are needed to establish restriction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2fm-1056",
+    "category": "Pulmonology",
+    "q": "In the upright lung, how do ventilation and perfusion change from apex to base?",
+    "a": "Both increase toward the base.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-family-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2fm-1057",
+    "category": "Endocrine",
+    "q": "Which ovarian cells are stimulated by LH to produce androgens?",
+    "a": "Theca interna cells. LH also stimulates Leydig-cell androgen production in the testes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-family-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2fm-1058",
+    "category": "Endocrine",
+    "q": "Which ovarian cells does FSH stimulate in the source?",
+    "a": "Granulosa cells, promoting follicular development and aromatase activity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-1059",
+    "category": "Pharmacology",
+    "q": "Which enzyme is inhibited by allopurinol and febuxostat?",
+    "a": "Xanthine oxidase, reducing uric-acid synthesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-1060",
+    "category": "Pharmacology",
+    "q": "How do rasburicase and pegloticase differ from xanthine-oxidase inhibitors?",
+    "a": "They are uricase/urate-oxidase agents that directly break down uric acid.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-1061",
+    "category": "Metabolism",
+    "q": "A child has self-injurious behavior and orange urate crystals in the diaper. Which enzyme defect is described?",
+    "a": "HGPRT deficiency, Lesch-Nyhan syndrome; X-linked inheritance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-family-medicine.pdf#page=287"
+    }
+  },
+  {
+    "id": "s2fm-1062",
+    "category": "Pharmacology",
+    "q": "Which pyrimidine-synthesis enzyme is inhibited by leflunomide?",
+    "a": "Dihydroorotate dehydrogenase.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-1063",
+    "category": "Rheumatology",
+    "q": "Which rheumatoid-arthritis antibody is emphasized as more specific than rheumatoid factor?",
+    "a": "Anti-cyclic citrullinated peptide (anti-CCP).",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-family-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2fm-1064",
+    "category": "Rheumatology",
+    "q": "Which antibody does the source associate with drug-induced lupus?",
+    "a": "Anti-histone antibodies. Source drug examples include hydralazine, procainamide, isoniazid, minocycline and penicillamine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2fm-1065",
+    "category": "Hematology",
+    "q": "Which laboratory abnormality is central to immune thrombocytopenia?",
+    "a": "Isolated thrombocytopenia, often from immune-mediated peripheral platelet destruction; the source names antibodies against platelet GPIIb/IIIa.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2fm-1066",
+    "category": "Hematology",
+    "q": "Which clotting factors are deficient in hemophilia A and B?",
+    "a": "Factor VIII in A; factor IX in B. Both are classically X-linked.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2fm-1067",
+    "category": "Hematology",
+    "q": "How do PT and aPTT typically appear in isolated hemophilia?",
+    "a": "aPTT can be prolonged with a normal PT. Platelet function is not the primary defect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-family-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2fm-1068",
+    "category": "Hematology",
+    "q": "What are the two source functions of von Willebrand factor?",
+    "a": "Bridges platelet GPIb to exposed subendothelial collagen for adhesion, and stabilizes circulating factor VIII.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-1069",
+    "category": "Hematology",
+    "q": "Which beta-globin amino-acid substitution produces sickle hemoglobin?",
+    "a": "Glutamate to valine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-1070",
+    "category": "Infectious disease",
+    "q": "What urgent treatment category does the source name for febrile neutropenia?",
+    "a": "Prompt empiric broad-spectrum intravenous antibiotics. Exact regimen depends on risk, local resistance and clinical context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-1071",
+    "category": "Endocrine",
+    "q": "Which thyroid cancer produces calcitonin and may show amyloid in its stroma?",
+    "a": "Medullary thyroid carcinoma, linked to RET-associated familial syndromes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-1072",
+    "category": "Endocrine",
+    "q": "Which thyroid carcinoma is associated with papillary architecture and psammoma bodies in the source?",
+    "a": "Papillary thyroid carcinoma, which commonly spreads through lymphatics.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-family-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2fm-1073",
+    "category": "Endocrine",
+    "q": "Which thyroid carcinoma does the source contrast with papillary cancer by hematogenous spread?",
+    "a": "Follicular thyroid carcinoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-1074",
+    "category": "Endocrine",
+    "q": "A patient with Hashimoto thyroiditis develops a rapidly enlarging thyroid mass. Which malignancy does the source emphasize?",
+    "a": "Primary thyroid lymphoma. This differs from the earlier source wording about CNS lymphoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-family-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2fm-1075",
+    "category": "Pharmacology",
+    "q": "What are the mechanisms of cromolyn, zileuton and montelukast?",
+    "a": "Cromolyn stabilizes mast cells; zileuton inhibits 5-lipoxygenase; montelukast blocks cysteinyl-leukotriene receptors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-family-medicine.pdf#page=292"
+    }
+  },
+  {
+    "id": "s2fm-1076",
+    "category": "Pulmonology",
+    "q": "Wheezing follows aspirin/NSAID exposure in a patient with nasal polyps. Which syndrome is described?",
+    "a": "Aspirin-exacerbated respiratory disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-family-medicine.pdf#page=292"
+    }
+  },
+  {
+    "id": "s2fm-1077",
+    "category": "Pharmacology",
+    "q": "What is the molecular target of omalizumab?",
+    "a": "IgE. It is a biologic used in selected allergic-asthma patients, not a universal step for all asthma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-family-medicine.pdf#page=293"
+    }
+  },
+  {
+    "id": "s2fm-1078",
+    "category": "Renal",
+    "q": "Hematuria begins within days of an upper-respiratory infection. Which renal diagnosis does the source favor?",
+    "a": "IgA nephropathy, contrasted with the longer post-infectious interval of poststreptococcal glomerulonephritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-1079",
+    "category": "Rheumatology",
+    "q": "A child has palpable purpura on the legs/buttocks, abdominal pain, arthralgias and hematuria. What is described?",
+    "a": "IgA vasculitis, formerly Henoch-Schonlein purpura.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-family-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2fm-1080",
+    "category": "Gynecology",
+    "q": "Severe menstrual cramps occur with a normal examination in an adolescent. Which mediator and initial medication class are named?",
+    "a": "Primary dysmenorrhea from prostaglandin effects; NSAIDs inhibit prostaglandin synthesis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    }
+  },
+  {
+    "id": "s2fm-1081",
+    "category": "Pharmacology",
+    "q": "Peripheral edema begins after a dihydropyridine calcium-channel blocker. Which drug class effect is described?",
+    "a": "Dihydropyridine-associated edema, with nifedipine as the source example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    }
+  },
+  {
+    "id": "s2fm-1082",
+    "category": "Pharmacology",
+    "q": "Which metabolic effects are grouped in the source thiazide hyper-GLUC mnemonic?",
+    "a": "Hyperglycemia, hyperlipidemia, hyperuricemia and hypercalcemia. This is an adverse-effect mnemonic, not a claim that every patient develops each effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    }
+  },
+  {
+    "id": "s2fm-1083",
+    "category": "Dermatology",
+    "q": "A squamous-cell carcinoma arises in a longstanding scar or burn site. What eponym is used?",
+    "a": "Marjolin ulcer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-family-medicine.pdf#page=295"
+    }
+  },
+  {
+    "id": "s2fm-1084",
+    "category": "Allergy",
+    "q": "A child develops new allergic rhinoconjunctivitis. Which recent household exposure does the source suggest asking about?",
+    "a": "New pets or other new allergen exposures.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-family-medicine.pdf#page=297"
+    }
+  },
+  {
+    "id": "s2fm-1085",
+    "category": "Cardiology",
+    "q": "Why can atrial fibrillation cause embolic stroke?",
+    "a": "Blood stasis in the left atrium, especially the appendage, can lead to thrombus formation and systemic embolization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 299,
+      "url": "/mehlman/hy-family-medicine.pdf#page=299"
+    }
+  },
+  {
+    "id": "s2fm-1086",
+    "category": "Gastroenterology",
+    "q": "Cirrhosis and malignancy are discussed as risk factors for which venous cause of ischemic bowel?",
+    "a": "Mesenteric venous thrombosis, associated with venous stasis and hypercoagulability.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-family-medicine.pdf#page=300"
+    }
+  },
+  {
+    "id": "s2fm-1087",
+    "category": "Gastroenterology",
+    "q": "Which portal tributary is involved in esophageal varices in the source?",
+    "a": "The left gastric vein, with portosystemic collateral connections involving esophageal veins.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-family-medicine.pdf#page=301"
+    }
+  },
+  {
+    "id": "s2fm-1088",
+    "category": "Neurology",
+    "q": "An older adult has gradually worsening gait symptoms and a crescent-shaped intracranial collection. Which bleed and vessel type are described?",
+    "a": "Subdural hematoma from bridging-vein bleeding. Cerebral atrophy increases susceptibility.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-1089",
+    "category": "Neurology",
+    "q": "A biconvex intracranial collection follows temporal trauma. Which bleed is described?",
+    "a": "Epidural hematoma, classically involving the middle meningeal artery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-1090",
+    "category": "Neurology",
+    "q": "Recurrent lobar hemorrhages occur in an older patient with Alzheimer disease. Which vascular process is emphasized?",
+    "a": "Cerebral amyloid angiopathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-1091",
+    "category": "Vascular",
+    "q": "Exertional leg pain with reduced pulses and ABI below 0.9 suggests what?",
+    "a": "Peripheral artery disease. Structured exercise and cardiovascular risk reduction are important source themes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-family-medicine.pdf#page=304"
+    }
+  },
+  {
+    "id": "s2fm-1092",
+    "category": "Vascular",
+    "q": "A medial-malleolar ulcer is accompanied by brawny edema, pigmentation and preserved arterial pulses. What source mechanism is described?",
+    "a": "Chronic venous insufficiency. Compression is a source treatment when appropriate arterial assessment permits it.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-family-medicine.pdf#page=305"
+    }
+  },
+  {
+    "id": "s2fm-1093",
+    "category": "Pharmacology",
+    "q": "Which chemotherapy drugs are paired with cardiotoxicity and pulmonary toxicity in the source?",
+    "a": "Doxorubicin and trastuzumab: cardiotoxicity. Bleomycin: pulmonary toxicity.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-family-medicine.pdf#page=305"
+    }
+  },
+  {
+    "id": "s2fm-1094",
+    "category": "Pulmonology",
+    "q": "An aerospace worker develops granulomatous lung disease with noncaseating granulomas. Which exposure disease is described?",
+    "a": "Chronic beryllium disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-family-medicine.pdf#page=305"
+    }
+  },
+  {
+    "id": "s2fm-1095",
+    "category": "Hematology",
+    "q": "Rheumatoid arthritis, neutropenia and splenomegaly form which syndrome?",
+    "a": "Felty syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-family-medicine.pdf#page=306"
+    }
+  },
+  {
+    "id": "s2fm-1096",
+    "category": "Endocrine",
+    "q": "A patient on long-term glucocorticoids becomes hypotensive during a major stressor. Which endocrine complication is considered?",
+    "a": "Adrenal suppression with inability to mount an adequate stress response. The source names fluids and hydrocortisone for adrenal crisis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-family-medicine.pdf#page=306"
+    }
+  },
+  {
+    "id": "s2fm-1097",
+    "category": "Toxicology",
+    "q": "Cognitive decline and microcytic anemia accompany use of contaminated home-distillation equipment. Which metal toxicity is described?",
+    "a": "Lead poisoning.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-family-medicine.pdf#page=307"
+    }
+  },
+  {
+    "id": "s2fm-1098",
+    "category": "Toxicology",
+    "q": "Which illicit-drug contaminant is linked to toxin-induced parkinsonism?",
+    "a": "MPTP.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-family-medicine.pdf#page=307"
+    }
+  },
+  {
+    "id": "s2fm-1099",
+    "category": "Toxicology",
+    "q": "Marked aminotransferase elevation follows an acetaminophen overdose. Which antidote is named?",
+    "a": "N-acetylcysteine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-family-medicine.pdf#page=307"
+    }
+  },
+  {
+    "id": "s2fm-1100",
+    "category": "Gastroenterology",
+    "q": "Iron deficiency, esophageal webs/dysphagia and angular oral changes suggest which syndrome?",
+    "a": "Plummer-Vinson syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-family-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2fm-1101",
+    "category": "Nutrition",
+    "q": "Craving ice, clay or starch in the source suggests which nutritional disorder?",
+    "a": "Pica associated with iron deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-family-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2fm-1102",
+    "category": "Gastroenterology",
+    "q": "Postprandial abdominal pain accompanies extensive atherosclerotic disease and claudication. Which source diagnosis is favored?",
+    "a": "Chronic mesenteric ischemia, angina of the bowel.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-family-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2fm-1103",
+    "category": "Nutrition",
+    "q": "What stomach-derived protein is lost when parietal cells are removed, impairing B 12 absorption?",
+    "a": "Intrinsic factor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    }
+  },
+  {
+    "id": "s2fm-1104",
+    "category": "Nutrition",
+    "q": "Why does the source caution that neuropathy/confusion after gastric surgery need not be only B 12 deficiency?",
+    "a": "Thiamine deficiency can also occur and may produce Wernicke features and peripheral neuropathy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-family-medicine.pdf#page=310"
+    }
+  },
+  {
+    "id": "s2fm-1105",
+    "category": "Gynecology",
+    "q": "Why is a progestogen commonly paired with systemic estrogen in a patient who has a uterus?",
+    "a": "To oppose endometrial stimulation and reduce the risk of endometrial hyperplasia/cancer from unopposed estrogen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-family-medicine.pdf#page=311"
+    }
+  },
+  {
+    "id": "s2fm-1106",
+    "category": "Gynecology",
+    "q": "How does chronic anovulation increase endometrial-hyperplasia risk?",
+    "a": "Without ovulation there is no normal corpus-luteum progesterone phase, allowing prolonged unopposed estrogen stimulation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2fm-1107",
+    "category": "Pharmacology",
+    "q": "How do tamoxifen and raloxifene differ at the endometrium in the source?",
+    "a": "Tamoxifen has partial agonist effects and can increase endometrial-cancer risk; raloxifene does not have that endometrial agonist effect. This does not make their cancer-treatment indications interchangeable.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2fm-1108",
+    "category": "Obstetrics",
+    "q": "Painful late-pregnancy bleeding follows cocaine exposure or trauma. Which placental emergency is described?",
+    "a": "Placental abruption. Placenta previa classically causes painless bleeding.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2fm-1109",
+    "category": "Obstetrics",
+    "q": "How do accreta, increta and percreta differ?",
+    "a": "Abnormal placental adherence at the myometrium, invasion into it, and extension through it, respectively. Prior cesarean and placenta previa are source risk factors.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-family-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2fm-1110",
+    "category": "Obstetrics",
+    "q": "How can maternal diabetes increase shoulder-dystocia risk?",
+    "a": "Fetal macrosomia can lead to shoulder impaction, neonatal clavicular injury and maternal birth-canal trauma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-family-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2fm-1111",
+    "category": "Gynecology",
+    "q": "Amenorrhea follows dilation and curettage. Which intrauterine scarring disorder is described?",
+    "a": "Asherman syndrome from uterine synechiae.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-family-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2fm-1112",
+    "category": "Obstetrics",
+    "q": "How can pregnancy increase urinary-stasis and pyelonephritis risk?",
+    "a": "Uterine compression and progesterone-related reduced ureteral peristalsis promote urinary stasis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-family-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2fm-1113",
+    "category": "Pediatrics",
+    "q": "Excess cow-milk intake in a toddler is associated with which anemia in the source?",
+    "a": "Iron-deficiency anemia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-family-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2fm-1114",
+    "category": "Gastroenterology",
+    "q": "Aortic stenosis, GI angiodysplasia bleeding and acquired von Willebrand dysfunction form what syndrome?",
+    "a": "Heyde syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2fm-1115",
+    "category": "Obstetrics",
+    "q": "Recurrent pregnancy loss accompanies antiphospholipid antibodies. What mechanism is described?",
+    "a": "Placental thrombosis/vascular injury from antiphospholipid syndrome. A false-positive nontreponemal syphilis test may occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2fm-1116",
+    "category": "Obstetrics",
+    "q": "Which neural-tube-defect risk is associated with valproate exposure in pregnancy?",
+    "a": "Increased risk of neural tube defects, including spina bifida.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-family-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2fm-1117",
+    "category": "Obstetrics",
+    "q": "Which second-trimester serum-screen pattern does the source associate with trisomy 21?",
+    "a": "Low AFP and estriol, with elevated hCG and inhibinA. This is a screening pattern, not diagnostic confirmation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2fm-1118",
+    "category": "Nutrition",
+    "q": "A child with cystic fibrosis develops neuropathy from fat malabsorption. Which fat-soluble vitamin deficiency is emphasized?",
+    "a": "VitaminE deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2fm-1119",
+    "category": "Pediatrics",
+    "q": "Diarrhea after meals follows gastroenteritis in a child. What transient brush-border problem is described?",
+    "a": "Secondary lactose intolerance from temporary lactase deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-family-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2fm-1120",
+    "category": "Rheumatology",
+    "q": "Which medium-vessel vasculitis is associated with hepatitisB and beaded aneurysmal arteries?",
+    "a": "Polyarteritis nodosa.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-family-medicine.pdf#page=316"
+    }
+  },
+  {
+    "id": "s2fm-1121",
+    "category": "Infectious disease",
+    "q": "Barefoot soil exposure is followed by eosinophilia and microcytic anemia. Which parasite group is described?",
+    "a": "Hookworms, which can enter through skin and cause intestinal blood loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
+    }
+  },
+  {
+    "id": "s2fm-1122",
+    "category": "Oncology",
+    "q": "Hereditary retinoblastoma increases risk of which bone malignancy in the source?",
+    "a": "Osteosarcoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-family-medicine.pdf#page=317"
     }
   }
 ];

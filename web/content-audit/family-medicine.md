@@ -19,7 +19,9 @@ No claim of complete coverage yet. Cards use printed PDF pages.
 - Pages 185-201: read; selected psych/toxicology/ophthalmology cards including source image questions. Figures inspected as contact sheet. Not exhaustive.
 - Pages 202-217: read; selected eye/upper-limb/spinal/peripheral-nerve cards. Figures and further details pending.
 - Pages 218-234: read; selected lower-limb/bone/rheumatology cards and current USPSTF osteoporosis screening. Figures and additional details pending.
-- Pages 235-319: pending detailed review.
+- Pages 235-259: read; selected vaccine, endocrine, electrolyte and pharmacology points converted. Not exhaustive.
+- Pages 260-317: read; rapid-bullet repetition checked and selected additional concepts converted. Duplicate mapping, additional details and verification remain.
+- Pages 318-319: social links/end matter, no study cards needed.
 
 Uncertain or dated source recommendations were not converted into current clinical guidance:
 - p11 AAA screening recommendation for women and unusual growth threshold.
