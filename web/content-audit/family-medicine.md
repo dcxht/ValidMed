@@ -1,10 +1,10 @@
 # Family Medicine coverage ledger
 
-## Current state, October15 2026 02:27 CDT
+## Current state, October 15 2026 02:29 CDT
 
-3094 active source-page-linked FM cards, including229 actual figure cards and631 separately linked verification notes. Historical3249 records retain155 retired duplicate IDs for saved-session hydration/missed/flags/history. New sessions omit duplicates; no saved progress deleted. All clinical pages4-317 have received three reading passes; pp1-3 and318-319 are nonclinical end matter. Figure-onlyp149 has a figure card; p184 repeats earlier dementia/Parkinson/RLS concepts without count padding. Final completion is NOT claimed.
+3128 active source-page-linked FM cards, including 229 actual figure cards and 632 separately linked verification notes. Historical 3291 records retain 163 retired duplicate IDs for saved-session hydration/missed/flags/history. New sessions omit duplicates; no saved progress deleted. All clinical pages 4-317 have received three reading passes; pp1-3 and 318-319 are nonclinical end matter. Final completion is NOT claimed.
 
-Detailed final source-to-card reconciliation is throughp220. One hundred sixty-one missed source specifics added3089-3249. The whole bank has had answer/readability and automated integrity checks, but these are not independent clinical verification of every fact. Remaining: source mapping afterp220, clinical cross-checks and final figure/mobile QA. Latest final USPSTF controls screening/prevention; other verified differences use separate notes. AHA2025torsades table now read completely; ACOG exact lithium details gated and2026JIA is a summary, not full manuscript. Several hours FM work remain. Other rotations unstarted, sequential after FM. Partial remains.
+Detailed final source-to-card reconciliation is through p240. Two hundred three missed source specifics added 3089-3291. Page maps are locators, not proof of complete coverage. The bank has answer/readability and automated integrity checks, but these are not independent clinical verification of every fact. Remaining: source mapping after p240, clinical cross-checks and final figure/mobile QA. Latest final USPSTF controls screening/prevention; other verified differences use separate notes. AHA 2025 torsades table now read completely; ACOG exact lithium details gated and 2026 JIA is a summary, not full manuscript. Several hours FM work remain. Other rotations unstarted, sequential after FM. Partial remains.
 
 Everything below is append-only history of earlier partial batches, not the current missing-content list. Its old counts and exclusions are superseded by later entries and the editorial ledger.
 

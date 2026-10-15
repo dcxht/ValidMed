@@ -6865,7 +6865,11 @@ export default [
     "guideline": {
       "text": "CDC 2025 bases TIG for dirty/major wounds on unknown/absent/incomplete vaccination, or HIV/severe immunodeficiency, not elapsed time alone after a complete series. Booster intervals differ by wound type.",
       "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/"
-    }
+    },
+    "sourcePages": [
+      160,
+      236
+    ]
   },
   {
     "id": "s2fm-0572",
@@ -8959,7 +8963,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 209,
       "url": "/mehlman/hy-family-medicine.pdf#page=209"
-    }
+    },
+    "sourcePages": [
+      209,
+      222
+    ]
   },
   {
     "id": "s2fm-0745",
@@ -9014,7 +9022,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 210,
       "url": "/mehlman/hy-family-medicine.pdf#page=210"
-    }
+    },
+    "sourcePages": [
+      210,
+      222
+    ]
   },
   {
     "id": "s2fm-0750",
@@ -9545,12 +9557,15 @@ export default [
     "id": "s2fm-0796",
     "category": "Musculoskeletal",
     "q": "According to the PDF Ottawa ankle criteria, which findings support ankle radiography?",
-    "a": "Malleolar-zone pain plus posterior-edge/tip tenderness at either malleolus or inability to take four weight-bearing steps. This is the source summary, not the separate midfoot rule.",
+    "a": "Malleolar-zone pain plus posterior-edge/tip tenderness at either malleolus or inability to take four weight-bearing steps. This is the source summary, not the separate midfoot rule. Swelling or anterior soft-tissue soreness alone does not meet this source rule.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 221,
       "url": "/mehlman/hy-family-medicine.pdf#page=221"
-    }
+    },
+    "sourcePages": [
+      221
+    ]
   },
   {
     "id": "s2fm-0797",
@@ -9638,7 +9653,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 224,
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
-    }
+    },
+    "sourcePages": [
+      224
+    ]
   },
   {
     "id": "s2fm-0805",
@@ -9649,7 +9667,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 224,
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
-    }
+    },
+    "sourcePages": [
+      224
+    ]
   },
   {
     "id": "s2fm-0806",
@@ -9721,12 +9742,15 @@ export default [
     "id": "s2fm-0812",
     "category": "Musculoskeletal",
     "q": "Why can an SLE flare produce low complement levels?",
-    "a": "Immune-complex-driven complement consumption. The source emphasizes reduced C3.",
+    "a": "Immune-complex-driven complement consumption. The source emphasizes reduced C3. Complement alone does not determine every flare or nephritis class.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
-    }
+    },
+    "sourcePages": [
+      227
+    ]
   },
   {
     "id": "s2fm-0813",
@@ -9811,7 +9835,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 229,
       "url": "/mehlman/hy-family-medicine.pdf#page=229"
-    }
+    },
+    "sourcePages": [
+      229,
+      235
+    ]
   },
   {
     "id": "s2fm-0820",
@@ -9921,7 +9949,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 233,
       "url": "/mehlman/hy-family-medicine.pdf#page=233"
-    }
+    },
+    "sourcePages": [
+      233
+    ]
   },
   {
     "id": "s2fm-0830",
@@ -9971,12 +10002,15 @@ export default [
     "id": "s2fm-0834",
     "category": "Musculoskeletal",
     "q": "How do direct and indirect inguinal hernias relate to the inferior epigastric vessels?",
-    "a": "Direct hernias are medial; indirect hernias are lateral and pass through the deep inguinal ring.",
+    "a": "Direct hernias are medial; indirect hernias are lateral and pass through the deep inguinal ring. Direct hernias pass through weakened abdominal-wall/transversalis tissues.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "sourcePages": [
+      234
+    ]
   },
   {
     "id": "s2fm-0835",
@@ -10013,7 +10047,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "sourcePages": [
+      234,
+      235
+    ]
   },
   {
     "id": "s2fm-0838",
@@ -10024,7 +10062,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 235,
       "url": "/mehlman/hy-family-medicine.pdf#page=235"
-    }
+    },
+    "duplicateOf": "s2fm-0819"
   },
   {
     "id": "s2fm-0839",
@@ -10074,7 +10113,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 235,
       "url": "/mehlman/hy-family-medicine.pdf#page=235"
-    }
+    },
+    "sourcePages": [
+      235
+    ]
   },
   {
     "id": "s2fm-0843",
@@ -10085,7 +10127,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 235,
       "url": "/mehlman/hy-family-medicine.pdf#page=235"
-    }
+    },
+    "sourcePages": [
+      235
+    ]
   },
   {
     "id": "s2fm-0844",
@@ -10161,12 +10206,15 @@ export default [
     "id": "s2fm-0850",
     "category": "Endocrine",
     "q": "Which initial serum marker does the source prefer over a random growth-hormone level for suspected acromegaly?",
-    "a": "IGF-1. Growth hormone stimulates hepatic IGF-1 production.",
+    "a": "IGF-1. Growth hormone stimulates hepatic IGF-1 production. A random GH value is less useful because secretion is pulsatile.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 237,
       "url": "/mehlman/hy-family-medicine.pdf#page=237"
-    }
+    },
+    "sourcePages": [
+      237
+    ]
   },
   {
     "id": "s2fm-0851",
@@ -22994,7 +23042,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 159,
       "url": "/mehlman/hy-family-medicine.pdf#page=159"
-    }
+    },
+    "sourcePages": [
+      159
+    ]
   },
   {
     "id": "s2fm-1936",
@@ -24143,7 +24194,11 @@ export default [
     "guideline": {
       "text": "ACR describes chronic widespread pain with nervous-system processing involvement, not an inflammatory/autoimmune disease and not simply a psychiatric label. Exercise, selected medicine and therapy can help.",
       "url": "https://rheumatology.org/patients/fibromyalgia"
-    }
+    },
+    "sourcePages": [
+      185,
+      232
+    ]
   },
   {
     "id": "s2fm-2027",
@@ -25299,7 +25354,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 221,
       "url": "/mehlman/hy-family-medicine.pdf#page=221"
-    }
+    },
+    "duplicateOf": "s2fm-0796"
   },
   {
     "id": "s2fm-2123",
@@ -25384,7 +25440,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 224,
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
-    }
+    },
+    "duplicateOf": "s2fm-0804"
   },
   {
     "id": "s2fm-2130",
@@ -25491,7 +25548,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 227,
       "url": "/mehlman/hy-family-medicine.pdf#page=227"
-    }
+    },
+    "duplicateOf": "s2fm-0812"
   },
   {
     "id": "s2fm-2139",
@@ -25683,7 +25741,10 @@ export default [
     "guideline": {
       "text": "ACR describes GCA jaw pain from chewing. Do not use eating-related pain to exclude GCA; associated visual/headache symptoms need urgent assessment.",
       "url": "https://rheumatology.org/patients/giant-cell-arteritis"
-    }
+    },
+    "sourcePages": [
+      231
+    ]
   },
   {
     "id": "s2fm-2155",
@@ -25753,7 +25814,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 233,
       "url": "/mehlman/hy-family-medicine.pdf#page=233"
-    }
+    },
+    "duplicateOf": "s2fm-0829"
   },
   {
     "id": "s2fm-2161",
@@ -25786,7 +25848,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
-    }
+    },
+    "duplicateOf": "s2fm-0834"
   },
   {
     "id": "s2fm-2164",
@@ -25819,7 +25882,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 235,
       "url": "/mehlman/hy-family-medicine.pdf#page=235"
-    }
+    },
+    "sourcePages": [
+      234,
+      235
+    ]
   },
   {
     "id": "s2fm-2167",
@@ -25908,7 +25975,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 237,
       "url": "/mehlman/hy-family-medicine.pdf#page=237"
-    }
+    },
+    "duplicateOf": "s2fm-0850"
   },
   {
     "id": "s2fm-2174",
@@ -29386,7 +29454,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 177,
       "url": "/mehlman/hy-family-medicine.pdf#page=177"
-    }
+    },
+    "sourcePages": [
+      177,
+      222
+    ]
   },
   {
     "id": "s2fm-2439",
@@ -33663,8 +33735,7 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=104"
     },
     "sourcePages": [
-      104,
-      207
+      104
     ]
   },
   {
@@ -36257,7 +36328,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 210,
       "url": "/mehlman/hy-family-medicine.pdf#page=210"
-    }
+    },
+    "sourcePages": [
+      210,
+      222
+    ]
   },
   {
     "id": "s2fm-2962",
@@ -36356,7 +36431,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 220,
       "url": "/mehlman/hy-family-medicine.pdf#page=220"
-    }
+    },
+    "sourcePages": [
+      220
+    ]
   },
   {
     "id": "s2fm-2971",
@@ -36367,7 +36445,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 220,
       "url": "/mehlman/hy-family-medicine.pdf#page=220"
-    }
+    },
+    "sourcePages": [
+      220
+    ]
   },
   {
     "id": "s2fm-2972",
@@ -36400,7 +36481,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 222,
       "url": "/mehlman/hy-family-medicine.pdf#page=222"
-    }
+    },
+    "sourcePages": [
+      222,
+      229
+    ]
   },
   {
     "id": "s2fm-2975",
@@ -36466,7 +36551,8 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 224,
       "url": "/mehlman/hy-family-medicine.pdf#page=224"
-    }
+    },
+    "duplicateOf": "s2fm-0805"
   },
   {
     "id": "s2fm-2981",
@@ -36710,7 +36796,11 @@ export default [
     "guideline": {
       "text": "Merck links Jo-1/other antisynthetase antibodies with a subset including interstitial lung disease and arthritis; it describes a broader antibody panel and variable phenotypes. Jo-1 is not required for every inflammatory myopathy diagnosis.",
       "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies"
-    }
+    },
+    "sourcePages": [
+      128,
+      232
+    ]
   },
   {
     "id": "s2fm-3001",
@@ -36725,7 +36815,11 @@ export default [
     "guideline": {
       "text": "Merck uses clinical findings, muscle enzymes, antibody testing and selected EMG/MRI/biopsy. EMG/MRI may localize a biopsy site; characteristic dermatomyositis skin disease may not require muscle biopsy. A rigid identical test sequence is not universal.",
       "url": "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/idiopathic-inflammatory-myopathies"
-    }
+    },
+    "sourcePages": [
+      128,
+      232
+    ]
   },
   {
     "id": "s2fm-3002",
@@ -36832,7 +36926,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 238,
       "url": "/mehlman/hy-family-medicine.pdf#page=238"
-    }
+    },
+    "sourcePages": [
+      237,
+      238
+    ]
   },
   {
     "id": "s2fm-3011",
@@ -38171,7 +38269,7 @@ export default [
     },
     "sourcePages": [
       128,
-      206
+      232
     ]
   },
   {
@@ -38530,7 +38628,8 @@ export default [
       "url": "/mehlman/hy-family-medicine.pdf#page=160"
     },
     "sourcePages": [
-      160
+      160,
+      236
     ]
   },
   {
@@ -38823,7 +38922,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 170,
       "url": "/mehlman/hy-family-medicine.pdf#page=170"
-    }
+    },
+    "sourcePages": [
+      170,
+      235
+    ]
   },
   {
     "id": "s2fm-3171",
@@ -39578,7 +39681,11 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 209,
       "url": "/mehlman/hy-family-medicine.pdf#page=209"
-    }
+    },
+    "sourcePages": [
+      209,
+      222
+    ]
   },
   {
     "id": "s2fm-3236",
@@ -39736,6 +39843,472 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 220,
       "url": "/mehlman/hy-family-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2fm-3250",
+    "category": "Final source-mapping details",
+    "q": "What acute skull-fracture pattern does the source link with an epidural hematoma?",
+    "a": "A linear skull fracture without displaced bone, described as the most common skull-fracture type in its source account.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-3251",
+    "category": "Final source-mapping details",
+    "q": "What cellular-composition explanation does the PDF give for childhood greenstick fractures?",
+    "a": "More collagen and less mineral make the bone more flexible, allowing one cortex to bend while the other cracks rather than a complete adult-type fracture.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-3252",
+    "category": "Final source-mapping details",
+    "q": "Which carpal injury does the PDF favor for central-palm pain after a fall without snuffbox tenderness?",
+    "a": "Lunate fracture, in its source exam contrast with scaphoid injury. This is not a universal exclusion of other carpal injuries from pain location alone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-3253",
+    "category": "Final source-mapping details",
+    "q": "What repeat-imaging interval does the PDF give after thumb-spica protection for an occult scaphoid fracture?",
+    "a": "Two to three weeks, in its source sequence. A negative initial radiograph alone does not exclude the injury; actual imaging choice/timing depend on clinical guidance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-3254",
+    "category": "Final source-mapping details",
+    "q": "Which endocrine and medication contexts does the source connect with vertebral compression fractures?",
+    "a": "Postmenopause, corticosteroid treatment and Cushing syndrome, with focal vertebral tenderness. Its osteoporosis shortcut must still be distinguished from malignancy, infection or other causes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-family-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2fm-3255",
+    "category": "Final source-mapping details",
+    "q": "What age and exclusion criteria does the source use for Blount disease?",
+    "a": "Persistent tibial bowing after age 2 when rickets is excluded; it can be unilateral or bilateral. Its osteotomy-only treatment claim is separately corrected for age- and progression-specific bracing options.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    },
+    "guideline": {
+      "text": "AAOS describes bracing, surgery or both, depending on age and progression. Toddlers may benefit from bracing; adolescent disease or progression despite bracing often requires surgery.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/bowed-legs-blounts-disease/"
+    }
+  },
+  {
+    "id": "s2fm-3256",
+    "category": "Final source-mapping details",
+    "q": "What neonatal sequence does the source associate with clubfoot?",
+    "a": "Potter sequence, while noting most talipes equinovarus is idiopathic. It distinguishes this from Edwards-associated rocker-bottom foot.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-family-medicine.pdf#page=224"
+    }
+  },
+  {
+    "id": "s2fm-3257",
+    "category": "Final source-mapping details",
+    "q": "What source imaging sequence follows suspected childhood Perthes disease?",
+    "a": "Hip radiography first; bone scan or MRI if radiographs are negative despite concern. Its flattened/contracted femoral-head clue contrasts with SCFE.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-family-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2fm-3258",
+    "category": "Final source-mapping details",
+    "q": "What joint history does the PDF use to favor JIA over septic arthritis?",
+    "a": "Intermittent or recurrent similar episodes with possible low-grade fever, rather than a single acute event. This is a source vignette clue, not a safe exclusion of superimposed infection in a child with JIA.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-3259",
+    "category": "Final source-mapping details",
+    "q": "Which rash and antibody testing statements does the source attach to JIA?",
+    "a": "A salmon-pink rash appears in about half its exam examples; it recommends both rheumatoid factor and anti-CCP, calling anti-CCP more specific. These are source statements, not a universal diagnostic phenotype or test requirement for all JIA subtypes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-family-medicine.pdf#page=226"
+    }
+  },
+  {
+    "id": "s2fm-3260",
+    "category": "Final source-mapping details",
+    "q": "What fixed percentage of psoriasis patients does the source say develop arthritis before skin findings?",
+    "a": "15%, as its source estimate. An absence of recognized plaques does not itself exclude psoriatic arthritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-3261",
+    "category": "Final source-mapping details",
+    "q": "What topical psoriasis order does the PDF favor, and why?",
+    "a": "Calcipotriene first, then topical triamcinolone/hydrocortisone, then coal tar if forced to choose. It links chronic topical steroids with dermal collagen thinning; this is its exam ladder, not a universal site- and severity-independent regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-3262",
+    "category": "Final source-mapping details",
+    "q": "What source situations lead to systemic psoriasis treatment, and which oral drugs are named?",
+    "a": "Failure of topical therapy or systemic/joint disease; methotrexate is its first oral example, with acitretin as an alternative exam answer. Actual treatment is not determined by a single fixed ladder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-3263",
+    "category": "Final source-mapping details",
+    "q": "What axial-inflammation imaging and eye follow-up does the PDF name?",
+    "a": "Lumbosacral/sacroiliac radiographs and slit-lamp examination for anterior uveitis, in its ankylosing-spondylitis/sacroiliitis description. It also notes pediatric disease is possible, not only adult men.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-3264",
+    "category": "Final source-mapping details",
+    "q": "What fixed presenting-feature frequency does the PDF give for lupus arthritis?",
+    "a": "90%, calling arthritis the most common presenting feature. This is a source frequency rather than a requirement that every patient with SLE has arthritis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-3265",
+    "category": "Final source-mapping details",
+    "q": "Which nonrenal organ findings does the source describe in lupus flares?",
+    "a": "Cerebritis with confusion, transverse myelitis that can resemble a Brown-Sequard pattern, and pericarditis, alongside immune cytopenias and reduced complement. It names steroids for flares without supplying an organ-specific regimen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-family-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2fm-3266",
+    "category": "Final source-mapping details",
+    "q": "What source contexts raise concern for septic arthritis beyond a healthy joint?",
+    "a": "Recent trauma or intense exercise, sickle-cell disease, prior RA/JIA or OA, and a prosthetic joint. These are source risk examples; culture data and urgent clinical assessment still matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-3267",
+    "category": "Final source-mapping details",
+    "q": "What organism and treatment categories does the PDF give for septic arthritis?",
+    "a": "Staphylococcus aureus is its most common overall organism; drainage plus antibiotics are its treatment categories. Its sickle-cell and sexually transmitted organism examples need microbiologic context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-3268",
+    "category": "Final source-mapping details",
+    "q": "Which source findings favor septic arthritis over transient synovitis in a child?",
+    "a": "Leukocytosis and inability to bear weight; fever can occur in both. The PDF calls transient synovitis a diagnosis of exclusion and gives ibuprofen for its uncomplicated postviral example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-3269",
+    "category": "Final source-mapping details",
+    "q": "What infection and organ triad does the source use for reactive arthritis?",
+    "a": "Genitourinary or gastrointestinal infection followed by polyarthritis and conjunctival/episcleral/uveal inflammation. It emphasizes chlamydia, not gonococcus, and also lists rubella, hepatitis B/C and Yersinia in its broad source associations.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-3270",
+    "category": "Final source-mapping details",
+    "q": "What bone-density and osteoporosis risk-ranking shortcuts does the PDF give?",
+    "a": "Osteoporosis more than 2.5 SD below a young-adult mean; it favors sex over age, family history over age in a woman, and Black ethnicity as protective in selected vignettes. These source shortcuts are not an individualized fracture-risk tool; screening follows the separately documented latest final USPSTF recommendation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-family-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2fm-3271",
+    "category": "Final source-mapping details",
+    "q": "What source activities and body-size contexts are linked with low bone density?",
+    "a": "Low or low-normal BMI, stress fractures in distance runners, glucocorticoid excess and reduced weight-bearing activity. It prefers walking to swimming for bone loading, while its vitamin D-malabsorption example can involve defective mineralization as well as low bone mass.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    }
+  },
+  {
+    "id": "s2fm-3272",
+    "category": "Final source-mapping details",
+    "q": "What age and radiographic contrasts does the PDF give for giant-cell tumor and a unicameral cyst?",
+    "a": "Giant-cell tumor at 20-40 years with a soap-bubble appearance; a single fluid-filled unicameral cyst from birth to about 20 years. These are source pattern ranges, not absolute age cutoffs.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-family-medicine.pdf#page=230"
+    }
+  },
+  {
+    "id": "s2fm-3273",
+    "category": "Final source-mapping details",
+    "q": "What clinical diagnosis and first-line drug does the source give for PMR?",
+    "a": "A clinical diagnosis of proximal pain/stiffness in an older adult, with preserved strength/normal CK; steroids, not NSAIDs, are its treatment answer. Its GCA overlap and jaw-pain claim are addressed separately.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-family-medicine.pdf#page=231"
+    }
+  },
+  {
+    "id": "s2fm-3274",
+    "category": "Final source-mapping details",
+    "q": "Which cancer does the PDF specifically associate with dermatomyositis?",
+    "a": "Ovarian cancer, as one source paraneoplastic association rather than the only malignancy requiring consideration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-3275",
+    "category": "Final source-mapping details",
+    "q": "What drug-interaction and mild CK management claims does the source make for statin-fibrate myopathy?",
+    "a": "It attributes the interaction to P450 and says mild CK elevations are expected without dose reduction. These are source generalizations, not a universal instruction to continue a medicine despite symptoms or a concerning CK trend.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-family-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2fm-3276",
+    "category": "Final source-mapping details",
+    "q": "What muscle-biopsy and genetic-allocation clues does the source give for mitochondrial myopathy?",
+    "a": "Ragged-red fibers and variable severity from differing allocation of affected mitochondrial genomes. Its earlier heteroplasmy definition is separately corrected, and maternal inheritance is not universal for every nuclear-encoded mitochondrial disease.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-3277",
+    "category": "Final source-mapping details",
+    "q": "Which additional skeletal/cardiovascular findings does the source list for Marfan syndrome?",
+    "a": "Flat feet, chest-wall deformity, scoliosis, mitral-valve prolapse and aortic dissection/root dilatation with aortic regurgitation. It says Marfan is not associated with berry aneurysms; that exclusion is a source claim, not independently verified here.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-3278",
+    "category": "Final source-mapping details",
+    "q": "What variable severity examples does the PDF give for osteogenesis imperfecta?",
+    "a": "Recurrent childhood fractures may occur without obvious blue sclerae; some severe types can cause pregnancy loss. It mentions a maternal miscarriage history as a source contextual clue rather than proof of a fetal collagen disorder.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-3279",
+    "category": "Final source-mapping details",
+    "q": "What developmental strength does the source associate with Williams syndrome?",
+    "a": "Relatively developed verbal skills, alongside characteristic facies, hypercalcemia and supravalvular aortic stenosis. This source pattern does not imply every child has identical cognition.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-family-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2fm-3280",
+    "category": "Final source-mapping details",
+    "q": "What source examination maneuver differentiates indirect from direct inguinal hernia?",
+    "a": "Pressure over the deep inguinal ring may reduce the indirect route but not the direct route, according to the PDF. It is an anatomic teaching maneuver, not a complete diagnostic or incarceration assessment.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-3281",
+    "category": "Final source-mapping details",
+    "q": "What source location and scan feature can accompany a thyroglossal-duct-region mass?",
+    "a": "A painless midline mass below the hyoid with technetium uptake, in addition to movement with swallowing or tongue protrusion. Ectopic functioning thyroid must be considered rather than assuming every such mass is a simple nonfunctioning cyst.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-3282",
+    "category": "Final source-mapping details",
+    "q": "What pain-modulation mechanism does the source give for cyclobenzaprine?",
+    "a": "Brainstem modulation of pain sensation, alongside its TCA-like structure and use for muscle spasm. This is its source mechanistic summary, not a complete receptor account.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-3283",
+    "category": "Final source-mapping details",
+    "q": "What infant hepatitis B and rotavirus schedules does the source print?",
+    "a": "Hepatitis B at birth, 2 and 6 months; rotavirus at 2,4 and 6 months. These are PDF schedules, not a newly verified current product-specific schedule. The source itself advises checking current recommendations; maternal HBsAg/weight-related HBIG rules are separately qualified.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-3284",
+    "category": "Final source-mapping details",
+    "q": "What infant pneumococcal and polio schedules does the source print?",
+    "a": "PCV15 at 2,4,6 and 12-15 months; injected inactivated polio at 2,4,6 months and 4-6 years. These are the source schedules, not a complete current catch-up/product-specific vaccination plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-3285",
+    "category": "Final source-mapping details",
+    "q": "What adult pneumococcal products and risk groups does the PDF list?",
+    "a": "At 65 it gives PCV20 alone or PCV15 then PPSV23 a year later; selected immunocompromising/anatomic risk groups get PCV15 then PPSV23 after 8 or more weeks. This is the PDF regimen, not the latest routine-age recommendation, which is separately corrected.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-3286",
+    "category": "Final source-mapping details",
+    "q": "What influenza and COVID vaccine age/formulation rules does the PDF list?",
+    "a": "Injected influenza from 6 months yearly, including pregnancy; live intranasal influenza for immunocompetent nonpregnant people 2-45; COVID injection from 6 months in 2-3 doses. These are source claims requiring current schedule/product review, not current universal eligibility rules.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-3287",
+    "category": "Final source-mapping details",
+    "q": "What MMR, HPV and meningococcal age schedules does the source print?",
+    "a": "MMR at 12-15 months and 4-6 years, avoiding pregnancy and HIV with CD4 below 200; HPV at 11-12 with 2 doses 6 months apart; meningococcal at 11-12 then 16, with additional asplenia considerations. These are source summaries, not complete current risk-, age- and dose-history-specific rules.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-3288",
+    "category": "Final source-mapping details",
+    "q": "Which pituitary conditions does the source use as secondary-hypothyroidism examples?",
+    "a": "Sheehan syndrome after postpartum pituitary ischemia and a pituitary mass such as prolactinoma impairing thyrotrope function. Low or inappropriately normal TSH with low free T4 requires axis-level evaluation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-3289",
+    "category": "Final source-mapping details",
+    "q": "Which hypothalamic/pituitary mechanisms does the source propose for high thyroid hormones with non-suppressed TSH?",
+    "a": "Autonomous TSH or TRH secretion and, theoretically, glandular hyperplasia or autoimmune hypophysitis. These are source possibilities, not a newly verified hierarchy for this uncommon laboratory pattern.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-3290",
+    "category": "Final source-mapping details",
+    "q": "What tissue and nonocular systemic findings does the source add for Graves disease?",
+    "a": "Lymphocytic infiltrate with hyperplastic follicles; tachycardia, heat intolerance, sweating, palpitations and possible atrial fibrillation even in a younger patient. Objective muscle weakness/CK elevation can also occur in its source account.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-3291",
+    "category": "Final source-mapping details",
+    "q": "What eye-specific therapy does the PDF contrast with thionamides in Graves disease?",
+    "a": "Oral prednisone for exophthalmos, not thionamides as direct eye treatment. This is its source shortcut, not a severity- or activity-specific thyroid-eye-disease plan.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
     }
   }
 ];
