@@ -31768,5 +31768,216 @@ export default [
       "text": "CDC recommends ivermectin as first-line treatment for Strongyloides; albendazole is an alternative. The source broad nematode grouping does not choose appropriate treatment for every named species.",
       "url": "https://www.cdc.gov/strongyloides/hcp/clinical-care/index.html"
     }
+  },
+  {
+    "id": "s2fm-2675",
+    "category": "GI pharmacology and anemia source review",
+    "q": "Which additional receptor effects does the source ascribe to metoclopramide besides D2 blockade?",
+    "a": "5-HT3 antagonism and 5-HT4 agonism, contributing to its prokinetic effect.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-2676",
+    "category": "GI pharmacology and anemia source review",
+    "q": "Which source adverse effect of metoclopramide concerns ventricular repolarization?",
+    "a": "QT prolongation, in addition to hyperprolactinemia and extrapyramidal movement disorders.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-2677",
+    "category": "GI pharmacology and anemia source review",
+    "q": "What source comparison distinguishes cimetidine from ranitidine in a diazepam-associated coma stem?",
+    "a": "Cimetidine inhibits P450 metabolism; ranitidine does not share that source metabolic-inhibition clue. This identifies the historical source drug interaction, not current product availability.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-2678",
+    "category": "GI pharmacology and anemia source review",
+    "q": "What mechanism does the source give for erythromycin in diabetic gastroparesis?",
+    "a": "Motilin-receptor agonism; it also inhibits the bacterial 50S ribosomal subunit.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-2679",
+    "category": "GI pharmacology and anemia source review",
+    "q": "How does misoprostol counter NSAID-associated gastric injury in the source?",
+    "a": "As a PGE1 analogue, it replaces prostaglandin effects: less acid, more mucus/bicarbonate and more mucosal blood flow.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-family-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2fm-2680",
+    "category": "GI pharmacology and anemia source review",
+    "q": "What exact drug does the PDF name to reduce ammonia-producing intestinal bacteria?",
+    "a": "Neomycin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    },
+    "guideline": {
+      "text": "AASLD/EASL 2014 calls neomycin an alternative for overt hepatic encephalopathy. EASL 2022 recommends rifaximin added to lactulose for secondary prophylaxis after a further overt episode within six months of the first. The source drug is not the whole current treatment or prevention plan.",
+      "url": "https://www.journal-of-hepatology.eu/article/S0168-8278(22)00346-4/fulltext"
+    }
+  },
+  {
+    "id": "s2fm-2681",
+    "category": "GI pharmacology and anemia source review",
+    "q": "What does the source name as orlistat's target and stool adverse effect?",
+    "a": "Pancreatic lipase inhibition for obesity; fat malabsorption can cause steatorrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-2682",
+    "category": "GI pharmacology and anemia source review",
+    "q": "Which source oral opioid is used for diarrhea-predominant IBS?",
+    "a": "Loperamide, a mu-opioid agonist whose bowel-slowing effect reduces diarrhea.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-family-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2fm-2683",
+    "category": "GI pharmacology and anemia source review",
+    "q": "What globin-gene defect counts does the PDF contrast between alpha- and beta-thalassemia?",
+    "a": "Up to four alpha-globin-gene defects versus two beta-globin-gene defects in its simplified inheritance comparison.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-2684",
+    "category": "GI pharmacology and anemia source review",
+    "q": "What do HbA2 and HbF contain in the source hemoglobin discussion?",
+    "a": "HbA2 is alpha2/delta2; HbF is alpha2/gamma2.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2fm-2685",
+    "category": "GI pharmacology and anemia source review",
+    "q": "Which chronic conditions besides kidney disease does the PDF list as anemia-of-chronic-disease settings?",
+    "a": "Autoimmune disease including RA, juvenile arthritis, IBD or SLE; hepatitis B/C, HIV and malignancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-2686",
+    "category": "GI pharmacology and anemia source review",
+    "q": "Which inflammatory cytokines does the source name in iron sequestration?",
+    "a": "IL-6 and TNF-alpha, alongside its hepcidin explanation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-family-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2fm-2687",
+    "category": "GI pharmacology and anemia source review",
+    "q": "What simplified threshold does the source use to call a marrow result MGUS?",
+    "a": "Less than 10% plasma cells.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "IMWG criteria require more than a percentage: non-IgM MGUS also has serum monoclonal protein below 3 g/dL and no attributable CRAB injury or amyloidosis. Smoldering myeloma is a separate category; active myeloma needs defining clinical/biomarker criteria.",
+      "url": "https://www.myeloma.org/international-myeloma-working-group-imwg-criteria-diagnosis-multiple-myeloma"
+    }
+  },
+  {
+    "id": "s2fm-2688",
+    "category": "Thalassemia source review",
+    "q": "Why does the source select alpha-thalassemia trait rather than beta-thalassemia minor in its two asymptomatic parents example?",
+    "a": "It claims a parent with a beta-globin mutation would be symptomatic.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "GeneReviews describes heterozygous HBB carriers as typically asymptomatic. Lack of symptoms alone cannot exclude beta-thalassemia carrier status; family testing and hematologic/genetic findings are needed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1426/"
+    }
+  },
+  {
+    "id": "s2fm-2689",
+    "category": "Hemoglobin and myeloma exact-source review",
+    "q": "What blood-count finding does the source assign to a single alpha-globin-gene mutation?",
+    "a": "Incidental microcytic anemia in an otherwise asymptomatic adult.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-family-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "GeneReviews says the single-gene silent carrier can have a completely silent hematologic phenotype or very mild microcytosis. Anemia is not required in every carrier.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1435/table/a-thal.T.alphathalassemia_carrier_states/"
+    }
+  },
+  {
+    "id": "s2fm-2690",
+    "category": "Hemoglobin and myeloma exact-source review",
+    "q": "What immunoglobulin class does the source attach to urinary Bence-Jones light chains?",
+    "a": "IgG light chains.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "International Myeloma Foundation guidance distinguishes heavy-chain classes (IgG/IgA/IgD/IgE/IgM) from kappa/lambda light chains and describes light-chain-only myeloma. Bence-Jones protein is not restricted to an IgG-producing clone.",
+      "url": "https://www.myeloma.org/monoclonal-protein-tests"
+    }
+  },
+  {
+    "id": "s2fm-2691",
+    "category": "Hemoglobin and myeloma exact-source review",
+    "q": "What exact protein-to-RBC explanation does the PDF give for rouleaux?",
+    "a": "IgG light chains stick to RBCs, causing stacks and rapid sedimentation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-family-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "An ASH Image Bank morphology explanation attributes rouleaux to elevated immunoglobulin or fibrinogen coating red cells and neutralizing their surface charge. This is broader than a specific IgG-light-chain mechanism.",
+      "url": "https://imagebank.hematology.org/image/62465/rouleaux-in-myeloma"
+    }
   }
 ];
