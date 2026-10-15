@@ -1436,3 +1436,5 @@ body {
 .q-question { padding-right: 30px; }
 
 .q-guideline-label { font-weight: 600; }
+
+.q-figure-link { display: block; flex: 0 0 auto; align-self: flex-start; padding: 8px 0; color: var(--accent, #0f766e); font-size: 12px; text-decoration: underline; }

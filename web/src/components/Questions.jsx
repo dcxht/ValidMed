@@ -70,6 +70,10 @@ function GuidelineNote({ note }) {
   return <p className="q-guideline-note"><span className="q-guideline-label">Verified note: </span>{note.text} <a href={note.url} target="_blank" rel="noreferrer">Source ↗</a></p>;
 }
 
+function FigureLink({ src }) {
+  return <a className="q-figure-link" href={src} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()}>Full-size image ↗</a>;
+}
+
 function SourcePages({ question }) {
   if (!question.source) return null;
   const pages = question.sourcePages || [question.source.page];
@@ -826,14 +830,14 @@ export default function Questions() {
                   <span className="q-review-num">#{i + 1}</span>
                 </div>
                 <div className="q-review-q">{item.q}</div>
-                {item.img && <img className="q-review-img" src={item.img} alt={item.alt || ""} loading="lazy" />}
+                {item.img && <><img className="q-review-img" src={item.img} alt={item.alt || ""} loading="lazy" /><FigureLink src={item.img} /></>}
                 {isOpen && (
                   <div className="q-answer-block">
                     <div className="q-divider-line" />
                     <AnswerText text={item.a} />
                     <GuidelineNote note={item.guideline} />
                     <SourcePages question={item} />
-                    {item.aimg && <img className="q-review-img" src={item.aimg} alt={item.alt || ""} loading="lazy" />}
+                    {item.aimg && <><img className="q-review-img" src={item.aimg} alt={item.alt || ""} loading="lazy" /><FigureLink src={item.aimg} /></>}
                   </div>
                 )}
                 {!isOpen && <div className="q-tap-hint" style={{ marginTop: 8 }}>Tap to reveal</div>}
@@ -948,7 +952,7 @@ export default function Questions() {
         )}
         <div className="q-question">{q.q}</div>
 
-        {q.img && <img className="q-question-img" src={q.img} alt={q.alt || ""} loading="lazy" />}
+        {q.img && <><img className="q-question-img" src={q.img} alt={q.alt || ""} loading="lazy" /><FigureLink src={q.img} /></>}
 
         {revealed && (
           <div className="q-answer-block">
@@ -956,7 +960,7 @@ export default function Questions() {
             <AnswerText text={q.a} />
             <GuidelineNote note={q.guideline} />
             <SourcePages question={q} />
-            {q.aimg && <img className="q-question-img" src={q.aimg} alt={q.alt || ""} loading="lazy" />}
+            {q.aimg && <><img className="q-question-img" src={q.aimg} alt={q.alt || ""} loading="lazy" /><FigureLink src={q.aimg} /></>}
           </div>
         )}
       </div>
