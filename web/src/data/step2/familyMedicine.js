@@ -17764,7 +17764,7 @@ export default [
     "id": "s2fm-1424",
     "category": "Pulmonology source details",
     "q": "What underlying conditions and imaging clue does the source associate with bronchiectasis?",
-    "a": "The source names TB and CF, while describing dilated airways on CT and often clubbing. Its cause-prevalence rankings are source statements, not verified current epidemiology.",
+    "a": "It ranks TB as the most common cause worldwide and CF as the most common in western countries, while saying its exam vignettes often feature a smoker. It describes dilated airways on CT and often clubbing. These source prevalence rankings are not independently verified current epidemiology.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 37,
@@ -20338,7 +20338,7 @@ export default [
     "id": "s2fm-1638",
     "category": "Infectious disease source details",
     "q": "Which food exposure does the PDF associate with Paragonimus lung-fluke infection?",
-    "a": "Crab/crayfish ingestion. The source hemoptysis-prevalence ranking is not independently verified.",
+    "a": "Crab/crayfish ingestion. It calls Paragonimus westermani the most common cause of hemoptysis worldwide. That unrestricted prevalence ranking is an unverified source claim, not a current epidemiologic fact.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 77,
