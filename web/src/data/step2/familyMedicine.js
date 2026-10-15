@@ -13727,13 +13727,17 @@ export default [
     "id": "s2fm-1202",
     "category": "Dermatology images",
     "q": "Which benign congenital pigment finding does the source illustrate at the lower back?",
-    "a": "Congenital dermal melanocytosis. The PDF labels it blue nevus/Mongolian spot; that terminology concern remains in the review ledger.",
+    "a": "Congenital dermal melanocytosis. The PDF labels it blue nevus/Mongolian spot.",
     "img": "/s2img/fm-136-1.png",
     "alt": "Figure from the source PDF",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 136,
       "url": "/mehlman/hy-family-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "MedlinePlus names this flat blue/blue-gray birthmark dermal melanocytosis, formerly Mongolian blue spots. This directly verifies the illustrated congenital-birthmark terminology, not equivalence with every lesion called a blue nevus.",
+      "url": "https://medlineplus.gov/ency/article/001472.htm"
     }
   },
   {
@@ -28142,6 +28146,36 @@ export default [
     "guideline": {
       "text": "CDC crusted-scabies guidance recommends combined oral and topical treatment, typically ivermectin plus permethrin, with duration based on severity. Immunocompromise alone does not define the phenotype; its extent requires assessment.",
       "url": "https://www.cdc.gov/scabies/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2fm-2417",
+    "category": "Skin exact-claim reconciliation",
+    "q": "Which treatment does the PDF give for its Kasabach-Merritt syndrome example?",
+    "a": "Surgery.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "NCI KHE guidance describes surgery in selected resectable or rapidly growing tumors and medical options including chemotherapy. Its separate definition links Kasabach-Merritt coagulopathy to tufted angioma/KHE rather than ordinary infantile hemangioma. Surgery-only is not a complete treatment rule.",
+      "url": "https://www.cancer.gov/pediatric%2Dadult%2Drare%2Dtumor/rare-tumors/rare-vascular-tumors/kaposiform-hemangioendothelioma"
+    }
+  },
+  {
+    "id": "s2fm-2418",
+    "category": "Skin exact-claim reconciliation",
+    "q": "What cause does the PDF assign to cherry angiomas?",
+    "a": "Sunlight, with greater prevalence as age increases.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-family-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "MedlinePlus says their cause is unknown and they tend to be inherited; they are most common after age 30. The source sunlight explanation is not established by that guidance.",
+      "url": "https://medlineplus.gov/ency/article/001441.htm"
     }
   }
 ];

@@ -94,3 +94,4 @@ Endocrine exactclaim follow-up2403/230figures/261notes, Partial.
 STI/CDI follow-up2407/230figures/266notes, Partial.
 GI infection follow-up2411/230figures/272notes, Partial.
 Infection therapy follow-up2416/230figures/277notes, Partial.
+Skin follow-up2418/230figures/280notes, Partial.
