@@ -5234,5 +5234,615 @@ export default [
       "page": 38,
       "url": "/mehlman/hy-pediatrics.pdf#page=38"
     }
+  },
+  {
+    "id": "s2peds-0413",
+    "category": "Neonatal jaundice",
+    "q": "Why is a newborn hematocrit of 56% not automatically polycythemia in the source?",
+    "a": "Neonatal hematocrit is normally higher than the adult range. The PDF gives 45-61% for the first month versus 40-50% in adults, so 56% alone is not its polycythemia example. Age, sampling and the laboratory reference range still matter.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "MedlinePlus describes newborn polycythemia when hematocrit is greater than 65%; do not diagnose it by applying an adult upper limit to a newborn.",
+      "url": "https://medlineplus.gov/ency/article/000536.htm"
+    }
+  },
+  {
+    "id": "s2peds-0414",
+    "category": "Neonatal jaundice",
+    "q": "What increased bilirubin-production mechanism does the source link to newborn red-cell turnover?",
+    "a": "Increased red-cell turnover produces more unconjugated bilirubin. The PDF frames this as fetal hemoglobin being replaced by adult hemoglobin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "CDC describes shorter newborn red-cell lifespan, higher red-cell concentration, immature liver processing and delayed meconium clearance. The source HbF-to-HbA phrase is not the whole physiologic explanation.",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/jaundice.html"
+    }
+  },
+  {
+    "id": "s2peds-0415",
+    "category": "Neonatal jaundice",
+    "q": "What total and direct bilirubin values does p39 give as general normal reference points, and can they define every newborn treatment threshold?",
+    "a": "The source gives total bilirubin about 1.0 mg/dL and direct about 0.1 mg/dL. These are source reference points, not universal neonatal treatment targets.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 for infants at least 35 weeks uses gestational age, age in hours and neurotoxicity risk factors for treatment thresholds. Direct-reacting and conjugated bilirubin differ, and laboratory reference ranges vary.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0416",
+    "category": "Neonatal jaundice",
+    "q": "What are the source five red flags for its pathologic-jaundice checklist?",
+    "a": "The PDF lists jaundice in the first 24 hours; persistence beyond one week if term or two weeks if preterm; total bilirubin over 15 mg/dL; direct bilirubin over 10% of total; or a rise over 0.5 mg/dL/hour. These are historical source rules, not a current all-or-none diagnostic or treatment algorithm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 replaces a fixed total-bilirubin cutoff with age/gestation/risk-based management; it uses lower rapid-rise flags and does not require a direct percentage threshold. The following questions separate the source rules from current assessment.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0417",
+    "category": "Neonatal jaundice",
+    "q": "How should the source first-day jaundice warning change the next assessment?",
+    "a": "Jaundice in the first 24 hours needs prompt bilirubin measurement and assessment rather than routine physiologic-jaundice reassurance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 KAS4: measure TSB or TcB as soon as possible for jaundice before 24 hours. Hemolysis is a leading identifiable cause, but early jaundice does not establish one specific diagnosis.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0418",
+    "category": "Neonatal jaundice",
+    "q": "Does jaundice after day7 in a term infant automatically prove pathology as the source checklist suggests?",
+    "a": "No. The PDF flags persistence beyond one week if term or two weeks if preterm, but duration alone does not establish the cause. Breast milk jaundice can persist in a growing, adequately fed infant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 notes breast milk jaundice may last up to 3 months. KAS9 calls for total/direct bilirubin in still-jaundiced breastfed infants at 3-4 weeks and formula-fed infants at 2 weeks; earlier concerning findings still require assessment. Do not use these windows to delay urgent cholestasis evaluation.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0419",
+    "category": "Neonatal jaundice",
+    "q": "Why is the source total bilirubin over 15 mg/dL not a universal phototherapy trigger?",
+    "a": "The source treats over 15 mg/dL as one pathologic-jaundice flag. Current treatment depends on the infant age in hours, gestational age and neurotoxicity risk, not that single cutoff.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 phototherapy curves vary by gestation, age and risk. TcB at least 15 mg/dL is instead one indication to obtain a serum TSB; it does not by itself mean every infant needs phototherapy.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0420",
+    "category": "Neonatal jaundice",
+    "q": "What is wrong with requiring the source direct bilirubin over 10% rule before considering neonatal cholestasis?",
+    "a": "A percentage-only rule can miss important direct hyperbilirubinemia. The PDF gives over 10% of total, even when total is below 15 mg/dL, but a low percentage must not be used to dismiss an abnormal direct value.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 cites direct bilirubin over 1.0 mg/dL as abnormal and states a direct fraction over 20% is not necessary for cholestasis. Direct and conjugated tests are not identical. Repeat values and the clinical course guide evaluation; the urgent biliary-atresia pathway is covered separately.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0421",
+    "category": "Neonatal jaundice",
+    "q": "How does the source bilirubin rise over 0.5 mg/dL/hour compare with AAP rapid-rise flags?",
+    "a": "The PDF uses over 0.5 mg/dL/hour. A slower rise can already be concerning under current guidance; do not wait for the source cutoff.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 KAS7 flags a rise at least 0.3 mg/dL/hour in the first 24 hours or at least 0.2 mg/dL/hour afterward as exceptional and suggestive of hemolysis; obtain a DAT if not already done.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0422",
+    "category": "Neonatal jaundice",
+    "q": "Can absence of all five source checklist items safely prove physiologic jaundice?",
+    "a": "No. The PDF calls jaundice physiologic if none of its five rules is met, but that checklist alone cannot exclude hemolysis, inadequate intake, cholestasis or other illness.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 uses measured bilirubin, age/gestation/risk, feeding/weight and clinical course. A source checklist is not a substitute for cause assessment or reliable follow-up.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0423",
+    "category": "Neonatal jaundice",
+    "q": "What treatment sequence does p39 give for significant neonatal unconjugated hyperbilirubinemia, and what limits apply?",
+    "a": "The source sequence is phototherapy, then exchange transfusion if needed. Not every infant labeled pathologic by its checklist automatically needs either treatment; assess the cause and current age/risk-specific thresholds.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP guidance uses gestation/age/risk-specific phototherapy and exchange thresholds; escalation of care begins 2 mg/dL below the exchange threshold. This is an urgent monitored neonatal-care pathway, not a routine outpatient step for any jaundice.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0424",
+    "category": "Neonatal jaundice",
+    "q": "Does the source exam preference for exchange transfusion mean IVIG has no possible role?",
+    "a": "No. The PDF says its exam examples choose exchange transfusion rather than IVIG, but that exam observation is not a universal clinical exclusion of IVIG.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP FAQ updated 2025: IVIG benefit is unclear and adverse effects include NEC. It may help selected newborns with isoimmune hemolytic disease whose bilirubin exceeds the escalation threshold and rises despite intensive phototherapy. All infants needing escalation receive hydration and intensive phototherapy.",
+      "url": "https://www.aap.org/en/patient-care/hyperbilirubinemia/frequently-asked-questions-about-the-2022-aap-guideline-on-the-management-of-hyperbilirubinemia/"
+    }
+  },
+  {
+    "id": "s2peds-0425",
+    "category": "Neonatal jaundice",
+    "q": "What neonatal bilirubin complication and source exam structure do the arrows in this gross brain image illustrate?",
+    "a": "Kernicterus, with yellow bilirubin deposition in basal ganglia. The source exam answer names the putamen; it describes irreversible neurologic injury from bilirubin toxicity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 distinguishes acute bilirubin encephalopathy from permanent kernicterus, which can cause movement disorder, gaze abnormalities and hearing injury. The putamen exam label does not imply the whole disease is confined to one structure.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    },
+    "img": "/mehlman/figures/peds-p039-01.jpeg"
+  },
+  {
+    "id": "s2peds-0426",
+    "category": "Neonatal jaundice",
+    "q": "What mechanism and time course does the source give for breast milk jaundice?",
+    "a": "The PDF attributes it to breast-milk beta-glucuronidase causing intestinal bilirubin deconjugation and increased enterohepatic circulation, with onset days 3-5 and a peak at 2-3 weeks. These are the source mechanism/timing claims, not a diagnostic calendar.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "CDC says breast milk jaundice most often appears in the second or later weeks and may last several weeks; its exact mechanism is unknown. AAP separates persistent jaundice despite adequate intake/weight gain from early suboptimal-intake jaundice.",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/jaundice.html"
+    }
+  },
+  {
+    "id": "s2peds-0427",
+    "category": "Neonatal jaundice",
+    "q": "Should breast milk jaundice routinely be treated by stopping breastfeeding for 48 hours as p39 suggests?",
+    "a": "No. The source recommends a roughly 48-hour interruption and describes a fall in bilirubin with limited rebound, but most jaundiced newborns can continue breastfeeding. A blanket interruption is not the default.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "CDC recommends individualized assessment and supplementation when needed. Rare cases benefit from a 12-48-hour interruption, with repeat bilirubin assessment and pumping/hand expression to maintain milk production. The source rebound prediction is not a guarantee.",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/jaundice.html"
+    }
+  },
+  {
+    "id": "s2peds-0428",
+    "category": "Neonatal jaundice",
+    "q": "What feeding problem causes the source breastfeeding-jaundice pattern, and when does it peak?",
+    "a": "Insufficient milk intake, such as ineffective attachment or suckling, reduces bilirubin intestinal clearance and increases enterohepatic circulation. The source peak is days 3-5.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP 2022 calls this suboptimal-intake hyperbilirubinemia, often with excess weight loss, rather than blaming breastfeeding itself. Low intake reduces stooling and increases enterohepatic circulation.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0429",
+    "category": "Neonatal jaundice",
+    "q": "Is formula feeding the automatic treatment for every source breastfeeding-jaundice vignette?",
+    "a": "No. The PDF selects formula as fluid/caloric supplementation, but feeding assessment and lactation support come first, with supplementation individualized. Breastfeeding can usually continue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "CDC lists expressed maternal milk, donor milk or formula as possible supplements. AAP advises against routine formula supplementation of adequately hydrated breastfed infants; frequent effective feeding and weight/hydration assessment matter.",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/jaundice.html"
+    }
+  },
+  {
+    "id": "s2peds-0430",
+    "category": "Neonatal jaundice",
+    "q": "How should the source latch-difficulty vignette be interpreted if none of its five jaundice rules is met?",
+    "a": "The author says the exam can still select physiologic jaundice. Treat that as an exam anecdote, not permission to ignore ineffective feeding, weight loss or dehydration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 39,
+      "url": "/mehlman/hy-pediatrics.pdf#page=39"
+    },
+    "guideline": {
+      "text": "AAP distinguishes inadequate intake from prolonged breast milk jaundice and uses bilirubin trajectory, feeding adequacy and weight change. Absence of the old five-item checklist does not prove feeding is safe.",
+      "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of"
+    }
+  },
+  {
+    "id": "s2peds-0431",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What source diagnosis should be considered with fever and diffuse abdominal pain in cirrhosis or nephrotic syndrome?",
+    "a": "Spontaneous bacterial peritonitis. The author calls it high yield and gives a minimal-change nephrotic child as one exam example; neither an exam anecdote nor the symptom pair proves the diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0432",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Is the source description of SBP as infection by mixed enteric flora the usual microbiology?",
+    "a": "No. The PDF says mixed enteric flora, but ordinary SBP usually involves one organism, not a polymicrobial mixture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "Merck 2025: a single organism is usually involved; mixed flora raises concern for a perforated abdominal viscus or specimen contamination. Assess for secondary peritonitis rather than assuming all infected ascites is uncomplicated SBP.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/spontaneous-bacterial-peritonitis-sbp"
+    }
+  },
+  {
+    "id": "s2peds-0433",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Why should the source recent-peritoneal-dialysis vignette not simply inherit the cirrhotic SBP algorithm?",
+    "a": "The PDF groups recent peritoneal dialysis with cirrhosis and nephrotic syndrome. Dialysis-associated peritonitis has a separate effluent-based diagnostic and treatment pathway.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "ISPD 2022 diagnoses PD peritonitis with at least two of: compatible symptoms/cloudy effluent; effluent WBC over 100/µL after at least 2h dwell with over 50% PMNs; positive effluent culture. Do not substitute the ascitic SBP PMN threshold.",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/08968608221080586"
+    }
+  },
+  {
+    "id": "s2peds-0434",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What procedure samples ascitic fluid in the source suspected-SBP workup, and what similarly named procedure is different?",
+    "a": "Abdominal paracentesis samples the peritoneal cavity. Pericardiocentesis instead samples/drains the pericardial sac; it is not the procedure for ascites.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0435",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What ascitic-fluid tests does the source rank after paracentesis, and should this ranking delay cultures?",
+    "a": "The author prioritizes white-cell count and differential before Gram stain/culture in its exam choices. Clinically, obtain the appropriate cell count/differential and cultures together rather than waiting for one result before collecting the other.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "Merck recommends diagnostic paracentesis including culture; bedside transfer into blood-culture media improves sensitivity. The source exam-answer ranking is not a reason to delay culture collection or needed antibiotics.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/spontaneous-bacterial-peritonitis-sbp"
+    }
+  },
+  {
+    "id": "s2peds-0436",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What cell type matters at the source SBP threshold of over 250 cells/µL?",
+    "a": "Ascitic neutrophils (PMNs), not simply the total white-cell count. The PDF says over 250 WBCs/µL, which is an important imprecision.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "AASLD teaching 2025 uses ascitic PMN count at least 250/mm³; fluid neutrophils, clinical context and exclusion of a secondary intra-abdominal source matter.",
+      "url": "https://www.aasld.org/liver-fellow-network/core-series/why-series/antibiotics-sbp-prophylaxis-why-or-why-not"
+    }
+  },
+  {
+    "id": "s2peds-0437",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Can SBP need treatment without fever or abdominal pain, and does total ascitic WBC 900 alone establish it?",
+    "a": "SBP may be present without the classic symptoms. The PDF gives an asymptomatic cirrhosis vignette with total WBC 900/µL and selects antibiotics, but the differential is needed to know the PMN count.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "CCJM 2023 recommends diagnostic paracentesis in hospitalized cirrhotic patients even without SBP symptoms. Treatment is based on ascitic neutrophils and clinical assessment, not totalWBC 900 alone. The author six-in-seven exam frequency is not measured clinical prevalence.",
+      "url": "https://www.ccjm.org/content/90/4/209"
+    }
+  },
+  {
+    "id": "s2peds-0438",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What antibiotics does p40 choose for SBP, and is cefotaxime always preferred to ceftriaxone in every child?",
+    "a": "The source chooses ceftriaxone, or cefotaxime over ceftriaxone if both are listed for Pediatrics. Treat that as the author exam preference, not a universal age-independent drug ranking.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "Merck 2025 lists ceftriaxone or cefotaxime; hospital-acquired infection/resistance may require broader coverage. Age, neonatal drug precautions, cultures and local resistance matter. Adult cirrhotic guidance does not establish one regimen for every nephrotic child.",
+      "url": "https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/spontaneous-bacterial-peritonitis-sbp"
+    }
+  },
+  {
+    "id": "s2peds-0439",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What three settings does the source list for possible splenectomy, and do they make surgery automatic?",
+    "a": "Splenic trauma, hereditary spherocytosis and immune thrombocytopenia. They are possible indications in selected patients, not automatic reasons to remove a spleen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "Pediatric Trauma Society guidance bases blunt liver/spleen management on hemodynamic status and supports nonoperative care when appropriate; unstable cases need urgent center-specific intervention assessment.",
+      "url": "https://pediatrictraumasociety.org/resources/blsi-guidelines.cgi"
+    }
+  },
+  {
+    "id": "s2peds-0440",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What is autosplenectomy in the source sickle-cell context?",
+    "a": "Loss of functional splenic tissue after repeated microinfarction in sickle cell disease. This is functional/anatomic loss from disease, not a surgical operation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0441",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What acquired and congenital categories does the source include under asplenia?",
+    "a": "Surgical splenectomy, sickle-cell autosplenectomy and congenital absence. The PDF uses Ivemark syndrome as its congenital exam association; the term asplenia itself is broader than one syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0442",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What macrophage-reservoir claim does p40 make, and is clearance confined to white pulp?",
+    "a": "The PDF claims white pulp contains 50% of the immune-system macrophage reservoir and locates opsonized-bacterial phagocytosis there. That exact percentage is unverified here, and splenic immune clearance is not confined to white pulp.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "The International Immunology 2019 study describes distinct red-pulp, white-pulp and marginal-zone macrophages. Red-pulp macrophages clear defective blood cells; marginal-zone populations capture blood-borne antigens. This supports compartment diversity, not the source exact 50% claim.",
+      "url": "https://academic.oup.com/intimm/article/31/1/51/5106941"
+    }
+  },
+  {
+    "id": "s2peds-0443",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Why does the source link asplenia to encapsulated-organism infection, and what opsonins does it name?",
+    "a": "The spleen helps clear opsonized organisms through phagocytosis. The PDF names IgG and complement C3b; loss of this defense raises risk from encapsulated bacteria.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "CPS emphasizes lifelong overwhelming-sepsis risk with absent or defective splenic function, especially pneumococcus. The source simplified white-pulp-only localization should not replace the broader compartment model.",
+      "url": "https://cps.ca/en/documents/position/preventing-treating-infections-in-children-with-asplenia"
+    }
+  },
+  {
+    "id": "s2peds-0444",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Which encapsulated-organism vaccine targets does the source name after loss of splenic function?",
+    "a": "Streptococcus pneumoniae, Neisseria meningitidis and Haemophilus influenzae type b. These targets supplement, rather than replace, routine immunization.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "Current CDC child schedule has specific asplenia recommendations for pneumococcal, Hib, MenACWY and age-eligible MenB vaccination. Exact products, doses and boosters depend on age and prior doses; do not use an old fixed product schedule.",
+      "url": "https://cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-0445",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What penicillin-prophylaxis duration does the source give for asplenia, and is it the only accepted duration?",
+    "a": "The PDF says until age 5 or until one year after surgical splenectomy. That is source framing, not a universal stop date for every risk profile.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "CPS cites AAP 2018 as through age 5 and at least one year postsplenectomy in older appropriately vaccinated children, but CPS recommends at least two years postsplenectomy and all children under 5, with longer/lifelong prophylaxis considered by risk. The regional difference is explicit, not a claim that the source one-year rule never existed.",
+      "url": "https://cps.ca/en/documents/position/preventing-treating-infections-in-children-with-asplenia"
+    }
+  },
+  {
+    "id": "s2peds-0446",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Which organism is the main source target of penicillin prophylaxis in asplenia?",
+    "a": "Streptococcus pneumoniae. The author prioritizes pneumococcus when its exam forces one choice; prophylaxis does not eliminate the need for vaccination or prompt fever care.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "CPS identifies pneumococcus as the leading cause of fulminant sepsis in this population and notes vaccines do not provide complete protection.",
+      "url": "https://cps.ca/en/documents/position/preventing-treating-infections-in-children-with-asplenia"
+    }
+  },
+  {
+    "id": "s2peds-0447",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What is the source treatment distinction when an asplenic child misses prophylaxis and presents with sepsis?",
+    "a": "Treat suspected sepsis urgently with therapeutic antibiotics, not just a replacement oral penicillin-prophylaxis dose. The source selects a third-generation cephalosporin, ceftriaxone or cefotaxime.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "CPS treats fever/possible sepsis in asplenia as an emergency, with immediate ceftriaxone and additional vancomycin where resistant pneumococci are prevalent. Obtain blood culture without delaying antibiotics; adjust to cultures, allergies and local guidance.",
+      "url": "https://cps.ca/en/documents/position/preventing-treating-infections-in-children-with-asplenia"
+    }
+  },
+  {
+    "id": "s2peds-0448",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What are Howell-Jolly bodies in the source asplenia smear, and which splenic compartment normally filters abnormal red cells?",
+    "a": "Nuclear remnants within red cells. The source connects their persistence to absent splenic filtering; red pulp ordinarily clears senescent and abnormal red cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0449",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What red-cell lifespan does p40 give as an exam reference?",
+    "a": "About four months, specified by the PDF as 118 days. This is the author approximate red-cell lifespan reference, not a treatment waiting period for toxin exposure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0450",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Must carbon monoxide remain in blood until all exposed red cells turn over, as the source claims?",
+    "a": "No. The PDF incorrectly links carbon-monoxide clearance to the full roughly four-month red-cell lifespan. Carbon monoxide dissociates and can be eliminated far sooner; do not wait for red-cell replacement.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "StatPearls 2025 describes a room-air carboxyhemoglobin half-life around 4-6 hours, reduced to roughly 40-80 minutes with 100% oxygen and shorter with hyperbaric oxygen. CO toxicity requires immediate removal from exposure and oxygen assessment/treatment, not months of waiting.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430740/"
+    }
+  },
+  {
+    "id": "s2peds-0451",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Which two source diagnostic contexts use attempted nasogastric-tube insertion?",
+    "a": "Tracheoesophageal fistula/esophageal-atresia context and choanal atresia. The failed passage/anatomic context differs; a tube attempt alone is not a complete classification of either disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0452",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What source upper-GI study and appearance suggest congenital midgut volvulus?",
+    "a": "An upper gastrointestinal contrast study, with a corkscrew appearance. The source describes contrast swallowing followed by radiographs to visualize the upper GI tract; suspected volvulus is a time-sensitive problem, not routine reassurance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0453",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What is the source first imaging test for pyloric stenosis?",
+    "a": "Abdominal ultrasound. This is distinct from an upper-GI contrast series for malrotation/volvulus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2peds-0454",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "What source diagnostic and treatment sequence is used for intussusception?",
+    "a": "Ultrasound first, then an enema that can diagnose and reduce the intussusception in an appropriate patient. The source sequence is not permission to attempt reduction without clinical suitability assessment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "ACR rates abdominal ultrasound usually appropriate as initial imaging for suspected pediatric intussusception; a contrast enema is not the routine first test.",
+      "url": "https://acsearch.acr.org/docs/3196027/Narrative"
+    }
+  },
+  {
+    "id": "s2peds-0455",
+    "category": "Peritonitis, spleen and pediatric imaging",
+    "q": "Does the source CT-radiation warning mean abdominal CT is almost never appropriate in children?",
+    "a": "No. The PDF emphasizes radiation and names renal injury as one exception before continuing on p41. CT choice is indication-specific, not an almost-always-wrong rule.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 40,
+      "url": "/mehlman/hy-pediatrics.pdf#page=40"
+    },
+    "guideline": {
+      "text": "ACR rates contrast-enhanced abdominal/pelvic CT usually appropriate for some pediatric acute-abdominal scenarios, including suspected surgical complication. Ultrasound is preferred for some other diagnoses; choose by the actual clinical question.",
+      "url": "https://acsearch.acr.org/docs/3196027/Narrative"
+    }
   }
 ];
