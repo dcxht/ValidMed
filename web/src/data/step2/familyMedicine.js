@@ -1,4 +1,4 @@
-// Source-linked clinical review. Selected points through p. 234; full coverage in progress.
+// Source-linked clinical review. Selected points through p. 249; full coverage in progress.
 export default [
   {
     "id": "s2fm-0001",
@@ -9475,6 +9475,1063 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 234,
       "url": "/mehlman/hy-family-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2fm-0838",
+    "category": "Musculoskeletal",
+    "q": "Which osteoporosis medicines are an intermittent PTH analog and an anti-RANKL antibody, respectively?",
+    "a": "Teriparatide is the PTH analog; denosumab is the anti-RANKL antibody.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-0839",
+    "category": "Pharmacology",
+    "q": "Which receptor does baclofen activate, and what symptom does the source use it for?",
+    "a": "GABA-B receptor agonist used for spasticity, including in multiple sclerosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-0840",
+    "category": "Pharmacology",
+    "q": "Which muscle relaxant for spasms is structurally related to tricyclic antidepressants?",
+    "a": "Cyclobenzaprine.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-0841",
+    "category": "Pharmacology",
+    "q": "A patient develops an oculogyric crisis and stiff neck without fever shortly after starting an antipsychotic. Which antimuscarinic treatments are named?",
+    "a": "Benztropine or diphenhydramine for acute dystonia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-0842",
+    "category": "Pharmacology",
+    "q": "Why does the source caution against first-generation antihistamines in older adults and machine operators?",
+    "a": "Sedation, anticholinergic cognitive effects including delirium, and orthostatic hypotension.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-0843",
+    "category": "Pharmacology",
+    "q": "Which skeletal-muscle calcium-release channel is inhibited by dantrolene?",
+    "a": "The ryanodine receptor, reducing calcium release from the sarcoplasmic reticulum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-family-medicine.pdf#page=235"
+    }
+  },
+  {
+    "id": "s2fm-0844",
+    "category": "Vaccines",
+    "q": "Which hepatitis vaccine does the source associate with travel to endemic regions, men who have sex with men, and injection-drug use?",
+    "a": "Hepatitis A vaccine. This card describes the source risk groups, not a complete current vaccination schedule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-0845",
+    "category": "Vaccines",
+    "q": "Which vaccine contains diphtheria, tetanus and acellular pertussis components?",
+    "a": "DTaP. Tdap is the reduced-antigen formulation used for adolescent/adult boosting and during pregnancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-0846",
+    "category": "Vaccines",
+    "q": "Which vaccine does the source name for each pregnancy at 27-36 weeks to protect the infant against pertussis?",
+    "a": "Tdap.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-0847",
+    "category": "Vaccines",
+    "q": "Which routine infant vaccine in the source is oral and live attenuated?",
+    "a": "Rotavirus vaccine. Product-specific schedules require current schedule review.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-0848",
+    "category": "Vaccines",
+    "q": "Which three infections are covered by MMR?",
+    "a": "Measles, mumps and rubella. The source notes that this live vaccine is not given during pregnancy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-family-medicine.pdf#page=236"
+    }
+  },
+  {
+    "id": "s2fm-0849",
+    "category": "Endocrine",
+    "q": "A patient develops enlargement of hands and feet, prognathism, carpal tunnel symptoms and insulin resistance after epiphyseal closure. Which condition is described?",
+    "a": "Acromegaly from excess growth hormone, usually from a pituitary tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0850",
+    "category": "Endocrine",
+    "q": "Which initial serum marker does the source prefer over a random growth-hormone level for suspected acromegaly?",
+    "a": "IGF-1. Growth hormone stimulates hepatic IGF-1 production.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0851",
+    "category": "Endocrine",
+    "q": "How does excess growth hormone before versus after growth-plate closure affect growth?",
+    "a": "Before closure it causes gigantism; after closure it causes acromegaly.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0852",
+    "category": "Endocrine",
+    "q": "What hormone class is octreotide, and how does it reduce growth-hormone secretion?",
+    "a": "A somatostatin analog. Somatostatin inhibits growth-hormone release from the anterior pituitary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0853",
+    "category": "Endocrine",
+    "q": "Where is vasopressin synthesized, and where is it stored for release?",
+    "a": "Synthesized in the hypothalamic supraoptic and paraventricular nuclei; stored and released by the posterior pituitary.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0854",
+    "category": "Endocrine",
+    "q": "How does ADH increase collecting-duct water reabsorption?",
+    "a": "It promotes aquaporin insertion, increasing free-water reabsorption.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0855",
+    "category": "Endocrine",
+    "q": "What paired serum and urine pattern suggests SIADH in the source?",
+    "a": "Hypotonic hyponatremia with inappropriately concentrated urine: low serum sodium/osmolality and relatively high urine osmolality.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0856",
+    "category": "Endocrine",
+    "q": "Which lung tumor is associated with ectopic ADH secretion?",
+    "a": "Small cell lung carcinoma.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0857",
+    "category": "Endocrine",
+    "q": "Which neurologic events and medication are listed as possible SIADH triggers?",
+    "a": "Head trauma, meningitis, brain tumors and pain; carbamazepine is also listed.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0858",
+    "category": "Endocrine",
+    "q": "How does demeclocycline reduce the effect of ADH in the source SIADH discussion?",
+    "a": "It induces renal resistance to ADH, producing a nephrogenic-diabetes-insipidus effect. This is a mechanism question, not a universal treatment choice.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-family-medicine.pdf#page=237"
+    }
+  },
+  {
+    "id": "s2fm-0859",
+    "category": "Endocrine",
+    "q": "How does central diabetes insipidus differ from nephrogenic diabetes insipidus?",
+    "a": "Central DI reflects inadequate vasopressin secretion; nephrogenic DI reflects renal resistance to vasopressin.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-0860",
+    "category": "Endocrine",
+    "q": "A patient taking lithium has polyuria and dilute urine despite concentrated serum. Which disorder is described?",
+    "a": "Nephrogenic diabetes insipidus. Lithium is a source-listed cause of renal ADH resistance.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-0861",
+    "category": "Endocrine",
+    "q": "Which calcium abnormality can produce renal resistance to ADH?",
+    "a": "Hypercalcemia, including from primary hyperparathyroidism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-0862",
+    "category": "Endocrine",
+    "q": "In the source diagnostic pattern, what happens to urine concentration after desmopressin in central versus nephrogenic DI?",
+    "a": "Central DI shows a marked rise in urine osmolality; nephrogenic DI shows little or no rise. Partial responses can occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-0863",
+    "category": "Endocrine",
+    "q": "Which replacement medication is named for central diabetes insipidus?",
+    "a": "Desmopressin, a vasopressin analog.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    },
+    "guideline": {
+      "text": "NIDDK guidance: desmopressin replaces deficient vasopressin in central DI. Preventing dehydration is important; this is not an instruction to restrict drinking.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/diabetes-insipidus"
+    }
+  },
+  {
+    "id": "s2fm-0864",
+    "category": "Endocrine",
+    "q": "What does a water-deprivation test investigate in suspected DI, and why is supervision important?",
+    "a": "The source uses persistence of dilute urine despite rising serum concentration to evaluate DI, followed by desmopressin response. This is a monitored diagnostic test, not home fluid restriction.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    },
+    "guideline": {
+      "text": "NIDDK describes measurement of urine output, weight, blood and urine during water deprivation. DI can cause dangerous dehydration; testing is conducted by health professionals.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/diabetes-insipidus"
+    }
+  },
+  {
+    "id": "s2fm-0865",
+    "category": "Endocrine",
+    "q": "Which medication classes does the PDF name to reduce urine losses in nephrogenic DI?",
+    "a": "A thiazide plus an NSAID is the PDF answer.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    },
+    "guideline": {
+      "text": "NIDDK: treat the cause when possible, including medicine changes or correction of calcium/potassium abnormalities. Thiazides may reduce urine production; NSAIDs and other diuretics are other options, not an obligatory combination for every patient.",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/diabetes-insipidus"
+    }
+  },
+  {
+    "id": "s2fm-0866",
+    "category": "Endocrine",
+    "q": "Both serum and urine are dilute in a patient drinking excessive amounts of water. Which source differential is favored?",
+    "a": "Primary/psychogenic polydipsia, contrasted with DI, which classically has dilute urine despite concentrated serum.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-0867",
+    "category": "Endocrine",
+    "q": "Low free thyroid hormones with elevated TSH suggest which level of hypothyroidism?",
+    "a": "Primary hypothyroidism: the thyroid gland is underproducing hormone despite increased pituitary stimulation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-0868",
+    "category": "Endocrine",
+    "q": "Low free thyroid hormones with a low or inappropriately non-elevated TSH suggest dysfunction where?",
+    "a": "The hypothalamic-pituitary axis, described as secondary hypothyroidism in the source.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-family-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2fm-0869",
+    "category": "Endocrine",
+    "q": "Elevated thyroid hormones with suppressed TSH suggest which broad category?",
+    "a": "Primary hyperthyroidism, such as Graves disease, toxic adenoma or toxic multinodular goiter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-0870",
+    "category": "Endocrine",
+    "q": "Elevated thyroid hormones with inappropriately elevated TSH raise concern for which source mechanism?",
+    "a": "A TSH-secreting pituitary tumor, described as secondary hyperthyroidism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-0871",
+    "category": "Endocrine",
+    "q": "Which antibodies and tissue infiltrate does the source associate with Hashimoto thyroiditis?",
+    "a": "Anti-thyroid peroxidase (anti-microsomal) and anti-thyroglobulin antibodies, with lymphocytic infiltration.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-0872",
+    "category": "Endocrine",
+    "q": "Cold intolerance, dry skin, bradycardia, constipation-type slowing and elevated TSH suggest which thyroid state?",
+    "a": "Hypothyroidism. The source additionally emphasizes depression/apathy, menstrual irregularity, carpal tunnel symptoms and elevated cholesterol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-0873",
+    "category": "Endocrine",
+    "q": "What mechanism causes Graves hyperthyroidism?",
+    "a": "TSH-receptor-stimulating autoantibodies, also called thyroid-stimulating immunoglobulins.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-0874",
+    "category": "Endocrine",
+    "q": "How does the source describe radioactive-iodine uptake in Graves disease?",
+    "a": "Diffusely increased uptake, unlike the low uptake of destructive thyroiditis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-0875",
+    "category": "Endocrine",
+    "q": "Which eye and skin findings strongly support Graves disease?",
+    "a": "Proptosis/exophthalmos and pretibial myxedema. This card does not make their absence an exclusion rule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-family-medicine.pdf#page=239"
+    }
+  },
+  {
+    "id": "s2fm-0876",
+    "category": "Endocrine",
+    "q": "A patient with hyperthyroidism develops hyperthermia, marked tachycardia and altered mental status after a major stressor. Which emergency is described?",
+    "a": "Thyroid storm.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0877",
+    "category": "Endocrine",
+    "q": "Which serious blood-cell adverse effect is shared by PTU and methimazole?",
+    "a": "Neutropenia/agranulocytosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0878",
+    "category": "Endocrine",
+    "q": "Which medication does the source name to control tachycardia from hyperthyroidism?",
+    "a": "Propranolol, a beta blocker. Individual contraindications and hemodynamic status still matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0879",
+    "category": "Endocrine",
+    "q": "A painful thyroid follows a viral illness, with transient thyrotoxicosis and low radioactive-iodine uptake. What condition is described?",
+    "a": "Subacute granulomatous (de Quervain) thyroiditis. Preformed hormone leaks from inflamed tissue rather than being newly overproduced.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0880",
+    "category": "Endocrine",
+    "q": "Why can a patient be thyrotoxic yet have low thyroid radioactive-iodine uptake?",
+    "a": "Destructive thyroiditis releases stored hormone without increasing new hormone synthesis. Subacute, postpartum and drug-related thyroiditis are source examples.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0881",
+    "category": "Endocrine",
+    "q": "Which two medicines are highlighted as causes of thyroid dysfunction/thyroiditis?",
+    "a": "Lithium and amiodarone.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0882",
+    "category": "Endocrine",
+    "q": "Elevated TSH with normal free T4 is called what?",
+    "a": "Subclinical hypothyroidism. This is a biochemical diagnosis; treatment depends on context.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0883",
+    "category": "Endocrine",
+    "q": "A severely ill hospitalized patient has low T3 and increased reverse T3 with initially normal TSH/T4 in the source pattern. Which syndrome is described?",
+    "a": "Nonthyroidal illness, also called euthyroid sick syndrome.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-family-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2fm-0884",
+    "category": "Endocrine",
+    "q": "A single autonomously functioning thyroid nodule has focal radioactive-iodine uptake and suppressed TSH. What is described?",
+    "a": "Toxic thyroid adenoma, a hot nodule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0885",
+    "category": "Endocrine",
+    "q": "Multiple autonomous nodules produce patchy/multifocal uptake in an older patient with hyperthyroidism. Which condition is described?",
+    "a": "Toxic multinodular goiter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0886",
+    "category": "Endocrine",
+    "q": "A densely fibrosed, woody thyroid extends into nearby structures. Which fibrosing condition is described?",
+    "a": "Riedel thyroiditis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0887",
+    "category": "Endocrine",
+    "q": "Thyrotoxicosis occurs with suppressed TSH and a small thyroid in someone taking thyroid hormone. What source diagnosis is considered?",
+    "a": "Factitious or exogenous thyrotoxicosis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0888",
+    "category": "Endocrine",
+    "q": "Which ovarian tumor is described as containing functioning thyroid tissue and causing thyrotoxicosis?",
+    "a": "Struma ovarii.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0889",
+    "category": "Endocrine",
+    "q": "After a thyroid nodule is found, which initial laboratory test guides the source evaluation?",
+    "a": "Serum TSH. The source emphasizes history and examination before tests.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0890",
+    "category": "Endocrine",
+    "q": "For a thyroid nodule with normal or elevated TSH, which imaging test does the PDF place before deciding on FNA?",
+    "a": "Thyroid ultrasound. FNA decisions require the nodule size and sonographic risk pattern; this is not a blanket instruction to biopsy every nodule.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0891",
+    "category": "Endocrine",
+    "q": "For a thyroid nodule with suppressed TSH, what functional imaging test does the PDF emphasize?",
+    "a": "Radionuclide thyroid uptake scanning to assess autonomous function.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-family-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2fm-0892",
+    "category": "Endocrine",
+    "q": "Why does total T4 rise in the source description of normal pregnancy?",
+    "a": "Estrogen increases hepatic thyroid-binding globulin. More hormone is protein-bound, so total T4 rises while the patient remains euthyroid.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-0893",
+    "category": "Endocrine",
+    "q": "Which hormone increases thyroid-binding globulin in pregnancy: estrogen or progesterone?",
+    "a": "Estrogen.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-0894",
+    "category": "Endocrine",
+    "q": "A postpartum patient develops thyroid dysfunction with low radioactive-iodine uptake. What process does the source describe?",
+    "a": "Postpartum thyroiditis, which may have thyrotoxic and hypothyroid phases from destructive inflammation.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-0895",
+    "category": "Endocrine",
+    "q": "Which thionamide does the source advise avoiding during the first trimester because of teratogenic risk?",
+    "a": "Methimazole. PTU is the source alternative for that period; longer-term drug choice requires individualized management.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-family-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2fm-0896",
+    "category": "Endocrine",
+    "q": "A child has a painless midline neck mass that rises with swallowing or tongue protrusion. What embryologic lesion is described?",
+    "a": "Thyroglossal duct cyst, a remnant of the thyroid descent tract.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-0897",
+    "category": "Endocrine",
+    "q": "A child has hypothyroidism and ectopic thyroid tissue at the base of the tongue. What condition is described?",
+    "a": "Lingual thyroid, which may be the only functioning thyroid tissue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-0898",
+    "category": "Endocrine",
+    "q": "Which congenital endocrine disorder may cause hypotonia, macroglossia and impaired neurodevelopment and is detected by newborn screening?",
+    "a": "Congenital hypothyroidism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-0899",
+    "category": "Endocrine",
+    "q": "A patient has low total T4 but normal free T4 and TSH. What binding-protein abnormality does the source describe?",
+    "a": "Thyroid-binding globulin deficiency. Low total hormone alone does not establish hypothyroidism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-0900",
+    "category": "Endocrine",
+    "q": "High calcium, low phosphate and high PTH suggest which parathyroid disorder?",
+    "a": "Primary hyperparathyroidism, usually from an adenoma; four-gland hyperplasia is another source cause.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-0901",
+    "category": "Endocrine",
+    "q": "Chronic kidney disease with low calcium, high phosphate and high PTH suggests what?",
+    "a": "Secondary hyperparathyroidism. Reduced active vitamin D and impaired phosphate handling contribute.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-family-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2fm-0902",
+    "category": "Endocrine",
+    "q": "Long-standing renal disease is followed by autonomous PTH secretion and elevated calcium. What condition is described?",
+    "a": "Tertiary hyperparathyroidism after prolonged secondary hyperparathyroidism.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-0903",
+    "category": "Endocrine",
+    "q": "Hypocalcemia, congenital heart disease, absent thymic tissue and T-cell deficiency suggest which deletion syndrome?",
+    "a": "22q11.2 deletion (DiGeorge syndrome), with abnormal third/fourth pharyngeal pouch development.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-0904",
+    "category": "Endocrine",
+    "q": "A patient develops low calcium, high phosphate and low PTH after thyroid surgery. Which complication is described?",
+    "a": "Postoperative hypoparathyroidism from injury to or removal of parathyroid tissue.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-0905",
+    "category": "Endocrine",
+    "q": "Tapping over the facial nerve produces facial muscle twitching in hypocalcemia. What sign is described?",
+    "a": "Chvostek sign.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-family-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2fm-0906",
+    "category": "Endocrine",
+    "q": "Inflating a blood-pressure cuff causes carpopedal spasm. What electrolyte sign is described?",
+    "a": "Trousseau sign of hypocalcemia, distinct from malignancy-associated migratory thrombophlebitis.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-0907",
+    "category": "Endocrine",
+    "q": "Hypocalcemia or hypokalemia does not correct with supplementation in a patient with alcohol-use disorder. Which additional electrolyte should be checked?",
+    "a": "Magnesium. Severe hypomagnesemia can impair PTH secretion and make calcium/potassium abnormalities refractory.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-0908",
+    "category": "Endocrine",
+    "q": "A patient with squamous lung cancer has hypercalcemia, low phosphate and suppressed endogenous PTH. Which mediator is described?",
+    "a": "PTH-related peptide (PTHrP), not endogenous PTH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-0909",
+    "category": "Endocrine",
+    "q": "How can skeletal metastases cause hypercalcemia with suppressed PTH?",
+    "a": "Osteolysis releases calcium from bone, and the resulting hypercalcemia suppresses parathyroid PTH secretion.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-0910",
+    "category": "Endocrine",
+    "q": "An older patient has an enlarging skull, hearing symptoms and isolated elevated alkaline phosphatase with normal calcium/phosphate. Which disease is described?",
+    "a": "Paget disease of bone, a disorder of increased and disorganized bone remodeling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-family-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2fm-0911",
+    "category": "Endocrine",
+    "q": "Why can Paget disease of bone be associated with high-output cardiac failure?",
+    "a": "Intraosseous arteriovenous shunting can increase cardiac-output demand.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-0912",
+    "category": "Endocrine",
+    "q": "Hypercalcemia and metabolic alkalosis occur in someone taking excessive calcium-carbonate antacids. Which syndrome is described?",
+    "a": "Calcium-alkali (milk-alkali) syndrome; kidney stones may occur.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-0913",
+    "category": "Endocrine",
+    "q": "Hypertension, hypokalemia, metabolic alkalosis, elevated aldosterone and suppressed renin suggest what?",
+    "a": "Primary hyperaldosteronism; an aldosterone-producing adenoma is Conn syndrome. Sodium may remain normal.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-0914",
+    "category": "Endocrine",
+    "q": "Which receptor does spironolactone block in primary hyperaldosteronism?",
+    "a": "The mineralocorticoid/aldosterone receptor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-0915",
+    "category": "Endocrine",
+    "q": "Fatigue, low blood pressure, hyperpigmentation, hyponatremia and hyperkalemia suggest which source endocrine diagnosis?",
+    "a": "Primary adrenal insufficiency (Addison disease), with low cortisol and aldosterone and elevated ACTH.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-0916",
+    "category": "Endocrine",
+    "q": "Why does primary adrenal insufficiency cause hyperpigmentation?",
+    "a": "Loss of cortisol feedback increases POMC-derived ACTH/melanocortin signaling.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-0917",
+    "category": "Endocrine",
+    "q": "Which white-cell abnormality can accompany adrenal insufficiency in the source?",
+    "a": "Eosinophilia, related to loss of glucocorticoid effects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-family-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2fm-0918",
+    "category": "Endocrine",
+    "q": "How does cortisol respond to ACTH stimulation in established primary adrenal insufficiency?",
+    "a": "It fails to rise appropriately because the adrenal cortex cannot produce sufficient cortisol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-0919",
+    "category": "Endocrine",
+    "q": "Meningococcal sepsis causes bilateral adrenal hemorrhage. What syndrome is described?",
+    "a": "Waterhouse-Friderichsen syndrome, with acute adrenal insufficiency. This is an emergency-recognition question, not an instruction to delay treatment for testing.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-0920",
+    "category": "Endocrine",
+    "q": "How do Cushing syndrome and Cushing disease differ?",
+    "a": "Cushing syndrome means manifestations of glucocorticoid excess from any cause. Cushing disease specifically means a pituitary ACTH-secreting tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-0921",
+    "category": "Endocrine",
+    "q": "Which skeletal and skin findings does the source emphasize in glucocorticoid excess?",
+    "a": "Wide purple striae, osteoporosis/compression fractures and femoral-head osteonecrosis, alongside central weight gain, hypertension and diabetes.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-0922",
+    "category": "Endocrine",
+    "q": "Why can marked cortisol excess cause hypokalemia?",
+    "a": "Cortisol can produce mineralocorticoid effects at the kidney, increasing potassium loss.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-family-medicine.pdf#page=247"
+    }
+  },
+  {
+    "id": "s2fm-0923",
+    "category": "Endocrine",
+    "q": "What is the physiologic basis of dexamethasone suppression testing?",
+    "a": "Dexamethasone exerts glucocorticoid negative feedback on hypothalamic-pituitary ACTH secretion, normally lowering endogenous cortisol.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    }
+  },
+  {
+    "id": "s2fm-0924",
+    "category": "Endocrine",
+    "q": "In the PDF high-dose dexamethasone teaching pattern, which cause of Cushing syndrome suppresses?",
+    "a": "Pituitary Cushing disease suppresses; ectopic ACTH and an adrenal cortisol-producing tumor do not. This is the source teaching pattern, not a claim of perfect diagnostic accuracy.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    }
+  },
+  {
+    "id": "s2fm-0925",
+    "category": "Endocrine",
+    "q": "In ACTH-dependent cortisol excess, high ACTH without suppression in the source high-dose dexamethasone pattern suggests what?",
+    "a": "Ectopic ACTH production, with small cell lung cancer as the source example.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-family-medicine.pdf#page=248"
+    }
+  },
+  {
+    "id": "s2fm-0926",
+    "category": "Endocrine",
+    "q": "High cortisol with suppressed ACTH suggests what source of endogenous Cushing syndrome?",
+    "a": "An adrenal cortisol-producing tumor.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-0927",
+    "category": "Endocrine",
+    "q": "What happens to endogenous ACTH and cortisol during chronic exogenous glucocorticoid exposure?",
+    "a": "Both are suppressed by negative feedback. The source labels this the exogenous-steroid pattern; assay cross-reactivity and the specific drug matter.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-0928",
+    "category": "Endocrine",
+    "q": "New mood disturbance, delirium-like symptoms or psychosis follow glucocorticoid treatment. What adverse effect is described?",
+    "a": "Glucocorticoid-associated psychiatric effects.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-0929",
+    "category": "Endocrine",
+    "q": "What electrolyte effect can excessive licorice consumption cause in the source?",
+    "a": "Hypokalemia from increased mineralocorticoid effect at the kidney.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-0930",
+    "category": "Endocrine",
+    "q": "What inheritance pattern and compensatory hormone change are shared by the source congenital adrenal hyperplasias?",
+    "a": "Autosomal recessive inheritance and elevated ACTH due to impaired cortisol synthesis, causing adrenal hyperplasia.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-0931",
+    "category": "Endocrine",
+    "q": "Which enzyme deficiency is the most common congenital adrenal hyperplasia in the source?",
+    "a": "21-hydroxylase deficiency.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2fm-0932",
+    "category": "Endocrine",
+    "q": "Salt wasting, hyperkalemia and impaired cortisol production suggest which common congenital adrenal hyperplasia?",
+    "a": "Classic salt-wasting 21-hydroxylase deficiency. Androgen excess may cause virilization.",
+    "source": {
+      "title": "Mehlman HY Family Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-family-medicine.pdf#page=249"
     }
   }
 ];

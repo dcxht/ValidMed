@@ -42,3 +42,5 @@ Additional cautions withheld: old mammography starting age; blanket STI cotreatm
 Dermatology source cautions: cellulitis organism/treatment absolutes; parvovirus marrow-biopsy fallback; angioedema drug choice; milia incorrectly described as eccrine obstruction; congenital dermal melanocytosis mislabeled blue nevus; Kasabach-Merritt incorrectly generalized to infantile hemangioma; blanket skin biopsy and superficial thrombophlebitis rules. These claims were withheld.
 
 Editorial concerns are not verified errors. See editorial-review-2026-10-14.md for complete tracked list and verification status. Six source-version cards now have separately labeled current-guideline notes with direct issuing-body sources.
+
+Selected endocrine/pharmacology/vaccine concepts through p249 now added. No exhaustive-coverage claim. See editorial ledger for exact pending items.
