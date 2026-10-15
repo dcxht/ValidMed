@@ -1434,3 +1434,5 @@ body {
 
 /* Reserve space for the flag control so long question text stays legible. */
 .q-question { padding-right: 30px; }
+
+.q-guideline-label { font-weight: 600; }

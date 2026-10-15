@@ -15652,8 +15652,8 @@ export default [
   {
     "id": "s2fm-1359",
     "category": "Cardiology source details",
-    "q": "What next imaging study does the source choose after ECG for pericarditis?",
-    "a": "Echocardiography to look for a concomitant effusion. Its early/Dressler timing distinction is covered separately.",
+    "q": "What source vignette links cocaine use with acute pericarditis rather than assuming coronary ischemia?",
+    "a": "A22-year-old with chest pain after heavy partying and diffuse ST elevations. The PDF calls this pericarditis; cocaine-related chest pain still needs assessment for other dangerous causes.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 15,
@@ -17150,8 +17150,8 @@ export default [
   {
     "id": "s2fm-1489",
     "category": "Renal source details",
-    "q": "Which renal structure does the PDF identify as affected in its interstitial-nephritis localization question?",
-    "a": "The renal tubule/tubulointerstitial compartment rather than an efferent arteriole, in its answer-choice example.",
+    "q": "What unusual NSAID presentation does the PDF report as an interstitial-nephropathy exam answer?",
+    "a": "Peripheral edema alone after an NSAID, without the usual rash or urinary findings. The PDF explicitly calls it an unusual single-question example, not a diagnostic rule for all NSAID-associated edema.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 49,

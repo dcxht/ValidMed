@@ -461,3 +461,8 @@ Rapid p260-267finerpass:clinical CTS-6 vs compulsory electrophysiology reconcile
 - Reworked concept duplicates in0614(clock completion with prompting),1359(echo after ECG for effusion),1489(tubular localization),1656(incidental antenatal microcytosis),2250(tamponade drainage alternatives),2314(koilonychia),2497(full simplified nonthyroidal-illness lab pattern). Source pages171,15,49,80,269,308,272 checked directly; earlier cards preserve the overlapping core concepts. IDs retained for progress continuity.
 -0029 now explicitly presents the narrow-SVT/wide-VT contrast as PDF shorthand; its previously verified AHA2025 note remains separate.0146 marks the broad cervical-node term as source wording rather than definitive organism confirmation.
 - Sparse-page check:149 is image-only with its actual figure question already present.184 repeats benign-senility/Parkinson/RLS material from146-148 and continues NPH; no count-padding duplicate added solely for a page anchor. Overall status remains Partial. Full-bank clinical/readability/concept-duplicate QA is underway, not complete.
+
+## Full-bank QA, October15 01:53 follow-up
+
+The first replacement prompts for1359/1489 still overlapped1304/1491. Rechecked the actual pp15/49 and changed them to distinct source details: cocaine-associated diffuse-ST vignette and the explicitly unusual NSAID-peripheral-edema-only exam report. Both clearly identified as source examples rather than universal diagnostic rules.
+Added a compact "Verified note:" label to the separate note region. This label covers official guidelines, drug labels and other verified sources without mislabeling every reference as a guideline; no banner or repeated PDF credit added. Live mobile visual verification required after deployment.

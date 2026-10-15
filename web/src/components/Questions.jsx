@@ -67,7 +67,7 @@ function AnswerText({ text }) {
 
 function GuidelineNote({ note }) {
   if (!note) return null;
-  return <p className="q-guideline-note">{note.text} <a href={note.url} target="_blank" rel="noreferrer">Source ↗</a></p>;
+  return <p className="q-guideline-note"><span className="q-guideline-label">Verified note: </span>{note.text} <a href={note.url} target="_blank" rel="noreferrer">Source ↗</a></p>;
 }
 
 function storageKey(bank) { return key(`validmed_step2_q_${bank}`); }
