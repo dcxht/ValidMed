@@ -39617,7 +39617,11 @@ export default [
     "sourcePages": [
       101,
       281
-    ]
+    ],
+    "guideline": {
+      "text": "ACR 2022 palpable-mass criteria rate ultrasound usually appropriate for initial imaging under 30. When ultrasound is suspicious (BI-RADS 4/5), diagnostic mammography/tomosynthesis and core biopsy are usually appropriate. This is symptomatic diagnostic imaging, not average-risk screening.",
+      "url": "https://acsearch.acr.org/list/TopicNarrativePdf?topicId=153"
+    }
   },
   {
     "id": "s2fm-3125",
@@ -41876,6 +41880,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 229,
       "url": "/mehlman/hy-family-medicine.pdf#page=229"
+    },
+    "guideline": {
+      "text": "AAOS OrthoInfo calls osteosarcoma the most common childhood bone cancer and notes that it can occur at any age. Do not extend that childhood ranking to an unrestricted all-age ranking that includes marrow cancers.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/osteosarcoma/"
     }
   },
   {
@@ -42807,6 +42815,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 281,
       "url": "/mehlman/hy-family-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "ACR 2022 palpable-mass criteria rate ultrasound, diagnostic mammography and diagnostic tomosynthesis usually appropriate for initial evaluation at ages 30-39. This is a symptomatic-mass pathway, not an age-only routine-screening rule.",
+      "url": "https://acsearch.acr.org/list/TopicNarrativePdf?topicId=153"
     }
   },
   {
@@ -43306,6 +43318,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 296,
       "url": "/mehlman/hy-family-medicine.pdf#page=296"
+    },
+    "guideline": {
+      "text": "ACC/AHA 2026 dyslipidemia guidance uses individualized PREVENT-ASCVD risk assessment in eligible primary-prevention adults, with risk enhancers and clinical context. This does not verify the PDF fixed diabetes-smoking-hypertension or arterial-bed ranking.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001423"
     }
   },
   {
@@ -43365,6 +43381,10 @@ export default [
       "title": "Mehlman HY Family Medicine",
       "page": 298,
       "url": "/mehlman/hy-family-medicine.pdf#page=298"
+    },
+    "guideline": {
+      "text": "NHLBI 2024 explains that high blood pressure can damage artery walls and allow plaque buildup, alongside diabetes, smoking and other risk factors. That supports vascular injury broadly, not the PDF specific systolic-impulse mechanism or claim that other factors affect different arterial beds first.",
+      "url": "https://www.nhlbi.nih.gov/health/atherosclerosis/causes"
     }
   },
   {
