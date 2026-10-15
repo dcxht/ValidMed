@@ -11377,5 +11377,217 @@ export default [
       "text": "Merck April 2026 estimates about 5% of AIHA is direct-antiglobulin-negative, including low antibody density or uncommon antibody types. Persistent evidence of hemolysis requires further evaluation rather than a diagnosis from one negative test.",
       "url": "https://www.merckmanuals.com/professional/hematology/anemias-caused-by-hemolysis/autoimmune-hemolytic-anemia"
     }
+  },
+  {
+    "id": "s2peds-0833",
+    "category": "Pediatric hematology",
+    "q": "Which leukemia does the source prioritize in a preadolescent child?",
+    "a": "Acute lymphoblastic leukemia, ALL. It is the common childhood leukemia, not the only possible malignancy in that age group.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "NCI PDQ identifies ALL as the most common childhood cancer, with an early-childhood incidence peak. Age is a probability clue; it does not exclude AML or establish lineage.",
+      "url": "https://www.cancer.gov/types/leukemia/hp/child-all-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0834",
+    "category": "Pediatric hematology",
+    "q": "What does the source six-year-old with WBC 60,000/µL and 90% lymphoid cells prompt concern for?",
+    "a": "ALL in the intended vignette. A very high lymphoid-cell count warrants urgent evaluation for blasts and other causes rather than diagnosis from the percentage alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "Merck April 2026 describes peripheral blasts, marrow examination and immunophenotyping in ALL diagnosis. Mature reactive lymphocytes are not interchangeable with lymphoblasts.",
+      "url": "https://www.merckmanuals.com/professional/oncology/leukemias/acute-lymphoblastic-leukemia-all"
+    }
+  },
+  {
+    "id": "s2peds-0835",
+    "category": "Pediatric hematology",
+    "q": "Which source infection can mimic childhood leukemia with marked lymphocytosis?",
+    "a": "Pertussis. The PDF describes WBC counts around 30,000-40,000/µL or higher with a large lymphocyte fraction as a reactive response.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "CDC Pink Book supports marked absolute lymphocytosis in classical infant pertussis but says some infants/children and mild or modified cases lack it. Neither a high count nor its absence establishes or excludes infection.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-16-pertussis.html"
+    }
+  },
+  {
+    "id": "s2peds-0836",
+    "category": "Pediatric hematology",
+    "q": "Which respiratory clues favor the source pertussis mimic over an isolated ALL count vignette?",
+    "a": "Paroxysmal cough and post-tussive vomiting. The symptoms and exposure/testing context help interpret the reactive lymphocytosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "CDC Pink Book describes cough paroxysms followed by vomiting/exhaustion; young infants may have apnea or no whoop. A child with cough and cytopenias or blasts still needs a broad evaluation, not automatic dismissal of leukemia.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-16-pertussis.html"
+    }
+  },
+  {
+    "id": "s2peds-0837",
+    "category": "Pediatric hematology",
+    "q": "How should the source hypoglycemia clue for pertussis be used?",
+    "a": "The PDF lists low glucose as an additional recalled clue, but it is not a required or independently diagnostic feature of pertussis. Do not use it instead of the respiratory presentation and testing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "The fetched CDC Pink Book confirms the cough/lymphocytosis features but does not independently verify the PDF emphasis on hypoglycemia as a high-yield discriminator. That claim remains explicitly unverified here.",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-16-pertussis.html"
+    }
+  },
+  {
+    "id": "s2peds-0838",
+    "category": "Pediatric hematology",
+    "q": "Which immunophenotypic markers does the source say ALL may express?",
+    "a": "CD10 and terminal deoxynucleotidyl transferase, TdT. These are clues within a panel, not a requirement that every ALL subtype express both.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "NCI PDQ includes CD10 in B-lineage assessment, while Merck April 2026 describes TdT in lymphoid blasts and broader immunophenotyping. Morphology and clinical suspicion alone do not replace lineage classification.",
+      "url": "https://www.cancer.gov/types/leukemia/hp/child-all-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0839",
+    "category": "Pediatric hematology",
+    "q": "What leukemia risk does the source Down-syndrome vignette illustrate?",
+    "a": "Increased risk of ALL, expressed in the source as excess lymphoblasts. Down syndrome also raises the risk of AML, so the association is not exclusive to ALL.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "NCI PDQ explicitly describes increased childhood ALL and AML risk in Down syndrome. The source answer reflects its vignette, not a claim that all leukemia in Down syndrome is lymphoblastic.",
+      "url": "https://www.cancer.gov/types/leukemia/hp/child-all-treatment-pdq"
+    }
+  },
+  {
+    "id": "s2peds-0840",
+    "category": "Pediatric hematology",
+    "q": "What does this actual source ALL image ask you to recognize?",
+    "a": "A relatively uniform population of large immature-appearing mononuclear cells, labeled lymphoblasts by the source. Their smooth appearance contrasts with the segmented neutrophils in the next figure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "NCI PDQ explains that modern ALL classification uses lineage and genetic findings rather than morphology alone. This is the PDF actual labeled image, not independent confirmation of subtype.",
+      "url": "https://www.cancer.gov/types/leukemia/hp/child-all-treatment-pdq"
+    },
+    "img": "/mehlman/pediatrics/p059-lymphoblasts.jpg"
+  },
+  {
+    "id": "s2peds-0841",
+    "category": "Pediatric hematology",
+    "q": "What is a leukemoid reaction in the source leukemia-versus-infection comparison?",
+    "a": "A marked reactive increase in WBCs that resembles leukemia but is driven by a nonleukemic process, classically severe infection in the source.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "AAFP 2015 describes leukemoid-range counts around 50,000-100,000/µL with severe infection and other causes. It is not a diagnosis established merely by a count above the PDF 30,000 shortcut.",
+      "url": "https://www.aafp.org/afp/2015/1201/p1004"
+    }
+  },
+  {
+    "id": "s2peds-0842",
+    "category": "Pediatric hematology",
+    "q": "Does the source WBC range 4,000-11,000/µL apply to every pediatric age?",
+    "a": "No. It is an adult-like reference range; normal WBC counts and differential proportions vary substantially with age, especially in neonates and young children.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "AAFP 2015 specifically recommends age-specific ranges and describes higher normal neonatal/infant counts and changing lymphocyte/neutrophil predominance. Use the laboratory age-appropriate interval.",
+      "url": "https://www.aafp.org/afp/2015/1201/p1004"
+    }
+  },
+  {
+    "id": "s2peds-0843",
+    "category": "Pediatric hematology",
+    "q": "How should the source comparison of ordinary infection counts in the teens/20,000s versus counts above 30,000/µL be interpreted?",
+    "a": "As a prompt to reassess an unusually high count, not a hard boundary separating infection and leukemia. Severe reactive illness can produce striking leukocytosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "AAFP 2015 describes severe infection/sepsis among causes of leukemoid-range counts. Magnitude alone cannot establish clonality; repeat CBC, differential and smear and consider other cell lines and symptoms.",
+      "url": "https://www.aafp.org/afp/2015/1201/p1004"
+    }
+  },
+  {
+    "id": "s2peds-0844",
+    "category": "Pediatric hematology",
+    "q": "What combination does the source use to favor a leukemoid reaction?",
+    "a": "An infectious illness with marked leukocytosis and a smear dominated by neutrophils rather than a uniform blast population. The PDF uses WBC above 30,000/µL as its vignette threshold.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "AAFP 2015 emphasizes cell maturity, toxic granulation, differential, accompanying anemia/platelet abnormalities and clinical context. The commonly cited leukemoid range is higher, about 50,000-100,000/µL.",
+      "url": "https://www.aafp.org/afp/2015/1201/p1004"
+    }
+  },
+  {
+    "id": "s2peds-0845",
+    "category": "Pediatric hematology",
+    "q": "What does the source leukocyte alkaline phosphatase contrast say about leukemoid reaction versus CML?",
+    "a": "Leukocyte alkaline phosphatase, LAP, is classically high in a reactive neutrophilic leukocytosis and low in CML. It is a historical exam distinction, not the definitive current CML test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "The 2006 leukemoid-reaction review supports the historical raised LAP/BCR-ABL-negative distinction. Merck April 2026 instead confirms CML using Philadelphia chromosome/BCR::ABL1 cytogenetic or molecular studies; do not rely on LAP alone.",
+      "url": "https://www.ejinme.com/article/S0953-6205(06)00163-4/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-0846",
+    "category": "Pediatric hematology",
+    "q": "What cells are visible in the actual source leukemoid-reaction smear?",
+    "a": "Several mature segmented neutrophils among RBCs, with dark multilobed nuclei and pale cytoplasm. The image differs from the source smooth, relatively uniform lymphoblast field.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 59,
+      "url": "/mehlman/hy-pediatrics.pdf#page=59"
+    },
+    "guideline": {
+      "text": "AAFP 2015 recommends reviewing maturity, differential and reactive changes on smear. This photograph supports morphology; it cannot alone exclude CML or prove infection as the cause.",
+      "url": "https://www.aafp.org/afp/2015/1201/p1004"
+    },
+    "img": "/mehlman/pediatrics/p059-reactive-neutrophils.jpg"
   }
 ];
