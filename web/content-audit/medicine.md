@@ -1073,3 +1073,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p314 (disc herniation workup, strain, sciatica, meralgia) - 7 cards, ids s2med-3061 to 3067
 - "Straight-leg raise not reliable" and "no imaging for radiculopathy" are the source's claims; linked papers only by title.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p315 (scoliosis, kyphosis) - 7 cards, ids s2med-3068 to 3074
+- 3% prevalence, 4:1 girls, Marfan/NF1 association unverified. First figure (meralgia) matched to p314 by page order.
+
+## p316 (lower limb nerves) - 11 cards, ids s2med-3075 to 3085
+- Expletive about NBME and webbing sensation paraphrased. Spine curvature figure placed on p316 where it appears.
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.

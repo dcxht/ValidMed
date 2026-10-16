@@ -40929,5 +40929,261 @@ export default [
       "text": "A review of meralgia paresthetica is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10622057/"
     }
+  },
+  {
+    "id": "s2med-3068",
+    "category": "IM MSK",
+    "q": "Meralgia paresthetica figure per p315 (continued from p314)?",
+    "a": "The figure shows the lateral femoral cutaneous nerve with anterior and posterior branches and the lateral thigh area of pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=315"
+    },
+    "img": "/mehlman/figures/med-p315-01.jpg",
+    "imgAlt": "Source figure: lateral femoral cutaneous nerve and area of pain",
+    "guideline": {
+      "text": "A review of meralgia paresthetica is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10622057/"
+    }
+  },
+  {
+    "id": "s2med-3069",
+    "category": "IM MSK",
+    "q": "Scoliosis per p315?",
+    "a": "Sideways curvature of the spine, creating an S- or C-shaped curve. Usually idiopathic; affects 3% of the population; girls 4:1.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=315"
+    },
+    "img": "/mehlman/figures/med-p315-02.jpg",
+    "imgAlt": "Source figure: normal spine vs scoliosis rib rotation and x-ray",
+    "guideline": {
+      "text": "A review of adolescent idiopathic scoliosis is linked (title only); I did not verify the 3% and 4:1 figures.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7250959/"
+    }
+  },
+  {
+    "id": "s2med-3070",
+    "category": "IM MSK",
+    "q": "Scoliosis associations per p315?",
+    "a": "Can be associated with Marfan syndrome, Friedreich ataxia, NF1.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=315"
+    },
+    "guideline": {
+      "text": "A cohort paper on scoliosis in Friedreich's ataxia is linked (title only); I did not verify the Marfan or NF1 links.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8164850/"
+    }
+  },
+  {
+    "id": "s2med-3071",
+    "category": "IM MSK",
+    "q": "Scoliosis diagnosis per p315?",
+    "a": "Adams forward bend test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=315"
+    }
+  },
+  {
+    "id": "s2med-3072",
+    "category": "IM MSK",
+    "q": "Scoliosis management per p315?",
+    "a": "USMLE wants you to know most children do not need treatment, but curvatures will remain throughout life. Answer = bracing if curvature is >25 degrees and the child is still growing. The source has never seen surgery as an answer on NBME; literature says it is recommended only when curvature is >40 degrees.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=315"
+    },
+    "guideline": {
+      "text": "The adolescent idiopathic scoliosis review is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7250959/"
+    }
+  },
+  {
+    "id": "s2med-3073",
+    "category": "IM MSK",
+    "q": "Kyphosis per p315?",
+    "a": "Abnormal convex curvature of the thoracic spine. Usually idiopathic due to old age; can be due to degenerative disc disease and compression fractures (osteoporosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=315"
+    },
+    "guideline": {
+      "text": "A paper on restrictive pulmonary dysfunction and osteoporotic thoracic vertebral fractures is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8561149/"
+    }
+  },
+  {
+    "id": "s2med-3074",
+    "category": "IM MSK",
+    "q": "Severe kyphosis per p315?",
+    "a": "If severe, can in theory cause restrictive lung disease due to impaired chest wall expansion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 315,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=315"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8561149/"
+    }
+  },
+  {
+    "id": "s2med-3075",
+    "category": "IM MSK",
+    "q": "Spine curvature figure per p316?",
+    "a": "The figure compares scoliosis (sideways curve), kyphosis (excess thoracic convex curve) and lordosis (inward lumbar curve), with arrows showing curve direction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "img": "/mehlman/figures/med-p316-01.jpg",
+    "imgAlt": "Source figure: scoliosis, kyphosis, lordosis"
+  },
+  {
+    "id": "s2med-3076",
+    "category": "IM MSK",
+    "q": "Common peroneal (fibular) nerve per p316?",
+    "a": "The answer if the patient loses both eversion and dorsiflexion of the foot. Sensation to the upper third of the lateral leg (around and below the lateral knee). Splits into the superficial and deep peroneal (fibular) nerves.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "A foot drop management paper is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6637663/"
+    }
+  },
+  {
+    "id": "s2med-3077",
+    "category": "IM MSK",
+    "q": "Superficial peroneal nerve per p316?",
+    "a": "The answer if the patient loses only eversion of the foot while dorsiflexion stays intact. Sensation to the lower lateral leg and dorsum of the foot.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "A StatPearls page on peroneal nerve injury is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549859/"
+    }
+  },
+  {
+    "id": "s2med-3078",
+    "category": "IM MSK",
+    "q": "Deep peroneal nerve per p316?",
+    "a": "The answer if the patient loses only dorsiflexion while eversion stays intact. Deep = dorsiflexion, so superficial does eversion. Loss of dorsiflexion causes a high-steppage gait (lifting the foot high with each step).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "The same StatPearls page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549859/"
+    }
+  },
+  {
+    "id": "s2med-3079",
+    "category": "IM MSK",
+    "q": "Deep peroneal sensation per p316?",
+    "a": "Also supplies sensation to the webbing between the 1st and 2nd toes. The source says it has never seen NBME questions that care about this detail, though students treat it as high-yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    }
+  },
+  {
+    "id": "s2med-3080",
+    "category": "IM MSK",
+    "q": "Tibial nerve per p316?",
+    "a": "The answer if the patient loses plantarflexion of the foot (can't stand on tiptoes). Sensation to the bottom of the foot / heel.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the tibial nerve is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537028/"
+    }
+  },
+  {
+    "id": "s2med-3081",
+    "category": "IM MSK",
+    "q": "Sciatic nerve per p316?",
+    "a": "The answer if the patient has motor dysfunction of the tibial and common peroneal nerves at the same time, or sciatica (shooting pain down the leg). Splits into the common peroneal and tibial nerves.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    }
+  },
+  {
+    "id": "s2med-3082",
+    "category": "IM MSK",
+    "q": "Sciatic nerve sensation per p316?",
+    "a": "Does not supply sensation to the thigh; its sensation equals that supplied by the common peroneal and tibial nerves combined. It supplies some thigh motor function but USMLE doesn't care.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    }
+  },
+  {
+    "id": "s2med-3083",
+    "category": "IM MSK",
+    "q": "Sciatica per p316?",
+    "a": "Shooting pain from the lower back down the leg, usually from disc herniation; 2CK forms simply want NSAIDs. The straight-leg test is classically used in part to diagnose, but the source has seen it on NBME material for simple lumbosacral strain (i.e., non-specific and not reliable).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "A patient information page on slipped disc is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279472/"
+    }
+  },
+  {
+    "id": "s2med-3084",
+    "category": "IM MSK",
+    "q": "Obturator nerve per p316?",
+    "a": "The answer if the patient has inability to adduct the hip with loss of sensation to the medial thigh.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "A paper on obturator nerve injury is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33548990/"
+    }
+  },
+  {
+    "id": "s2med-3085",
+    "category": "IM MSK",
+    "q": "Femoral nerve per p316?",
+    "a": "The answer if the patient cannot extend the knee and/or has buckling at the knee.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 316,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=316"
+    },
+    "guideline": {
+      "text": "A scoping review of iatrogenic femoral nerve injury is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8593564/"
+    }
   }
 ];
