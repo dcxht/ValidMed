@@ -6720,5 +6720,289 @@ export default [
       "text": "A StatPearls/PMC review is a reference; the page ends here and the explanation continues on p54.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9128715/"
     }
+  },
+  {
+    "id": "s2med-0519",
+    "category": "IM Pulmonary",
+    "q": "Scombroid mechanism per p53-54?",
+    "a": "Bacteria in decaying meaty fish (e.g., mahimahi) break down histidine in the fish into histamine, causing an allergic-/asthma-like presentation. Patients with asthma have greater risk of mortality.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    },
+    "guideline": {
+      "text": "A paper titled 'Scombroid syndrome: it seems to be fish allergy but... it isn't' is a reference; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27466827/"
+    }
+  },
+  {
+    "id": "s2med-0520",
+    "category": "IM Pulmonary",
+    "q": "Shellfish allergy vs scombroid per p54?",
+    "a": "Shellfish allergy occurs right after eating shellfish (clams, mussels) with an allergic-/asthma-like presentation. If USMLE gives shellfish, the answer is shellfish allergy, not scombroid, which is from meaty fish and not an allergy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2med-0521",
+    "category": "IM Pulmonary",
+    "q": "Cystic fibrosis genetics per p54?",
+    "a": "Autosomal recessive; chromosome 7; mutations in CFTR, a chloride channel gene. Most common mutation is DF508 (delta F508), a deletion of a phenylalanine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2med-0522",
+    "category": "IM Pulmonary",
+    "q": "CF mechanism answer on USMLE per p54?",
+    "a": "'Abnormal protein structure' or 'abnormal protein folding'. The CFTR chloride channel, normally at the cell surface, is instead sequestered at the RER, so patients lack the channel on the cell membrane.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    },
+    "guideline": {
+      "text": "A review of F508del misfolding is available; I did not verify its text.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4101494/"
+    }
+  },
+  {
+    "id": "s2med-0523",
+    "category": "IM Pulmonary",
+    "q": "Why CF secretions are inspissated per p54?",
+    "a": "Impaired Cl- secretion into alveolar and pancreatic secretions makes the cell more negative; Na+ enters through increased ENaC; water follows Na+, drying the secretions (inspissated = desiccated within a lumen). Alveolar: mucous plugging, obstruction, recurrent pneumonias. Pancreatic: 'exocrine pancreatic insufficiency' and fat-soluble vitamin malabsorption.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2med-0524",
+    "category": "IM Pulmonary",
+    "q": "Vitamin deficiency in CF per p54?",
+    "a": "The source says vitamin E deficiency is the highest-yield across NBME questions, presenting as neuropathy in a child with CF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    },
+    "guideline": {
+      "text": "A paper on vitamin E deficiency neuropathy in children with fat malabsorption (CF, cholestasis) exists; I did not verify the NBME-frequency claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2629595/"
+    }
+  },
+  {
+    "id": "s2med-0525",
+    "category": "IM Pulmonary",
+    "q": "Meconium ileus and nasal polyps per p54?",
+    "a": "Meconium ileus is HY: failure to pass stool in the first 24 hours after birth. CF can sometimes cause nasal polyps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2med-0526",
+    "category": "IM Pulmonary",
+    "q": "Organisms in CF pneumonia per p54?",
+    "a": "Classically Pseudomonas. Before age 10 S. aureus exceeds Pseudomonas; after age 10 Pseudomonas exceeds S. aureus. Use the stem: an 8-year-old with gram-negative rods = Pseudomonas; a 17-year-old with gram-positive cocci in clusters = S. aureus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    },
+    "guideline": {
+      "text": "A paper on changing prevalence of lower airway infections in young children with CF exists; I did not verify the age-10 crossover.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30811949/"
+    }
+  },
+  {
+    "id": "s2med-0527",
+    "category": "IM Pulmonary",
+    "q": "Diagnosis of CF per p54?",
+    "a": "Sweat glands normally reabsorb Cl-, impaired in CF, so sweat chloride is increased (>60 mEq/L). The sweat chloride test is more accurate than genotyping because of allelic heterogeneity of CFTR. A transepithelial nasal voltage test shows increased nasal potential difference.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    },
+    "guideline": {
+      "text": "The Cystic Fibrosis Foundation consensus report on diagnosis is a reference; I did not verify its text. Many sources also define an intermediate range of 30-59 mmol/L.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2810958/"
+    }
+  },
+  {
+    "id": "s2med-0528",
+    "category": "IM Pulmonary",
+    "q": "CF and the male reproductive tract per p54?",
+    "a": "Congenital bilateral absence of vas deferens (CBAVD), leading to absent sperm in a sample.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2med-0529",
+    "category": "IM Pulmonary",
+    "q": "Sibling carrier risk in AR disease per p54?",
+    "a": "A phenotypically normal sibling of a CF patient has a 2/3 chance of being a carrier. Applies to any AR disorder; USMLE uses CF as the archetype.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 54,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2med-0530",
+    "category": "IM Pulmonary",
+    "q": "CF drugs per p55?",
+    "a": "Not HY for Step, but -caftor agents (ivacaftor, lumacaftor) help proper CFTR channel localization to the cell membrane and structural folding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2med-0531",
+    "category": "IM Pulmonary",
+    "q": "Mucolytics in CF per p55?",
+    "a": "Dornase alfa (spelled 'alfa') softens mucus; the source calls it a 'nucleotidase'. Guaifenesin is also a mucus-softening agent.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Dornase alfa is recombinant human deoxyribonuclease I (a DNase); a Cochrane-type review on it in CF exists. The source's 'nucleotidase' is loose wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33735508/"
+    }
+  },
+  {
+    "id": "s2med-0532",
+    "category": "IM Pulmonary",
+    "q": "Sounds like CF but has situs inversus or dextrocardia per p55?",
+    "a": "Primary ciliary dyskinesia (Kartagener syndrome): recurrent pneumonias with organs (or just the heart) on the opposite side.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2med-0533",
+    "category": "IM Pulmonary",
+    "q": "Defect in Kartagener syndrome per p55 (figure)?",
+    "a": "Abnormal cilia function from a defective dynein arm; sometimes the answer is just 'dynein'. A cilium in cross-section has a 9x2 (source wording) microtubule configuration; dynein is needed for cilia function.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    },
+    "img": "/mehlman/figures/med-p055-01.jpg",
+    "imgAlt": "Source figure p55: cross-section of a cilium showing the outer microtubule doublets and the central pair"
+  },
+  {
+    "id": "s2med-0534",
+    "category": "IM Pulmonary",
+    "q": "Sperm in Kartagener vs CF per p55?",
+    "a": "Kartagener: sperm are present but with decreased motility. CF: sperm absent due to CBAVD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    },
+    "guideline": {
+      "text": "A paper on infertility and pregnancy outcomes in PCD exists; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11219480/"
+    }
+  },
+  {
+    "id": "s2med-0535",
+    "category": "IM Pulmonary",
+    "q": "Women with Kartagener syndrome per p55?",
+    "a": "Can get ectopic pregnancy due to abnormal fallopian tube cilia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    },
+    "guideline": {
+      "text": "A paper titled 'Ectopic pregnancy in primary ciliary dyskinesia' exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18569496/"
+    }
+  },
+  {
+    "id": "s2med-0536",
+    "category": "IM Pulmonary",
+    "q": "How situs inversus is written in the vignette per p55?",
+    "a": "Cardiac sounds loudest on the right, or a large mass palpable beneath the left costal margin (liver on the opposite side). The source notes students miss these.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2med-0537",
+    "category": "IM Pulmonary",
+    "q": "Primary pulmonary hypertension vignette per p55?",
+    "a": "Woman in her 20s-30s, non-smoker, with increased pulmonary vascularity/markings and either a loud P2 or tricuspid regurgitation (HY findings for pulmonary hypertension).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2med-0538",
+    "category": "IM Pulmonary",
+    "q": "'Primary' in primary pulmonary hypertension per p55?",
+    "a": "The pulmonary hypertension starts inherently in the lungs rather than from a secondary cause such as smoking, CF or systemic sclerosis. Due to mutations in the BMPR2 gene.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    },
+    "guideline": {
+      "text": "Current guidelines (2022 ESC/ERS) use the term pulmonary arterial hypertension; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36017548/"
+    }
+  },
+  {
+    "id": "s2med-0539",
+    "category": "IM Pulmonary",
+    "q": "PPH vs cor pulmonale per p55?",
+    "a": "Cor pulmonale is right heart failure findings or RV structural changes due to a pulmonary cause: RVH (RBBB, right-axis deviation, boot-shaped heart on CXR) or JVD/peripheral edema. A loud P2 and tricuspid regurgitation are HY findings for pulmonary hypertension that do not necessarily mean cor pulmonale.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2med-0540",
+    "category": "IM Pulmonary",
+    "q": "Mediator and treatment in PPH per p55?",
+    "a": "Endothelin-1 is increased (a vasoconstrictor increased in pulmonary hypertension from any cause; USMLE likes it for PPH). Bosentan blocks endothelin-1 receptors and is HY treatment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 55,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=55"
+    },
+    "guideline": {
+      "text": "2022 ESC/ERS guideline lists endothelin receptor antagonists among PAH drugs; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36017548/"
+    }
   }
 ];

@@ -236,3 +236,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures). Page ends at the start of scombroid; continues on p54.
 - Conflict: atelectasis as most common cause of postop fever (paper titles say evidence lacking; text not verified). Unverified: VIT IgG detail.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p54 (IM Pulmonary: scombroid, shellfish, cystic fibrosis) - 11 cards, ids s2med-0519 to 0529
+- Inspected page text (no figures). Starts mid-scombroid from p53.
+- Source conflict/looseness: sweat chloride >60 (many sources add intermediate 30-59). Unverified: vitamin E NBME frequency, age-10 organism crossover.
+
+## p55 (IM Pulmonary: CF drugs, Kartagener, PPH) - 11 cards, ids s2med-0530 to 0540
+- Inspected page text and figure (cilium cross-section).
+- Source wording: "nucleotidase" for dornase alfa (it is a DNase); "primary pulmonary hypertension" (current term PAH). Unverified: PCD fertility and ectopic details, 2022 ESC/ERS text.
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
