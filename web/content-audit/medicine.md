@@ -546,3 +546,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p124 (cirrhosis, SIRS/sepsis) - 10 cards, ids s2med-1127 to 1136
 - Conflict: SIRS-based sepsis vs Sepsis-3 definitions; source definitions kept.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p125 (referred pain, GI diagnostic modalities part 1) - 12 cards, ids s2med-1137 to 1148
+- Capsule endoscopy claim is the source's.
+
+## p126 (ERCP, MRCP, colonoscopy schedules) - 10 cards, ids s2med-1149 to 1158
+- Conflict: avg-risk age 45-50 vs USPSTF 45; MRCP/EUS never correct vs current guidelines; hereditary syndrome ages unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.

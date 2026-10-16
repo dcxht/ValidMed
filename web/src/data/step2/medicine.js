@@ -15090,5 +15090,283 @@ export default [
       "text": "The Surviving Sepsis Campaign 2021 guideline is linked; I did not verify specific regimens.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8486643/"
     }
+  },
+  {
+    "id": "s2med-1137",
+    "category": "IM Gastro",
+    "q": "Referred pain: spleen and diaphragm per p125?",
+    "a": "Splenic laceration: left upper quadrant pain, +/- referred to the left shoulder (Kehr sign). Diaphragmatic irritation can also cause left shoulder pain (asked on NBME; spleen is the wrong answer when the stem says 'irritation').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    },
+    "guideline": {
+      "text": "StatPearls on splenic trauma is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430920/"
+    }
+  },
+  {
+    "id": "s2med-1138",
+    "category": "IM Gastro",
+    "q": "Referred pain: gallbladder and appendix per p125?",
+    "a": "Gallbladder: RUQ or epigastric pain +/- right shoulder. Appendix: epigastric pain first (visceral peritoneal inflammation) migrating to RLQ (parietal peritoneal inflammation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1139",
+    "category": "IM Gastro",
+    "q": "NG tube as the answer per p125?",
+    "a": "'Insertion of NG tube' is the answer for tracheoesophageal fistula and choanal atresia (per the HY Pulm PDF).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1140",
+    "category": "IM Gastro",
+    "q": "Barium swallow uses per p125?",
+    "a": "Suspected Zenker (shows outpouching); first step in achalasia before manometry (bird's beak); do not use for esophageal perforation (mediastinitis if it leaks); usable in aspiration risk since it does not cause pneumonitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1141",
+    "category": "IM Gastro",
+    "q": "Gastrografin swallow per p125?",
+    "a": "Water-soluble contrast swallow. Used for esophageal perforation (no mediastinitis). Do not use if the patient has aspiration risk (pneumonitis); use barium instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1142",
+    "category": "IM Gastro",
+    "q": "Esophageal manometry per p125?",
+    "a": "A pressure study of the esophagus; answer for achalasia after barium shows bird's beak.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1143",
+    "category": "IM Gastro",
+    "q": "Endoscopy (EGD) uses per p125?",
+    "a": "Immediate answer for new-onset dysphagia with GERD history or heavy smoking/alcohol (esophageal cancer), then biopsy any lesion/stricture. Endoscopy + banding for emergent varices management. Diagnosis of hiatal hernia (NBME). Done in patients over 50 who are H. pylori positive (newer 2CK form). Capsule endoscopy: source says always a wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1144",
+    "category": "IM Gastro",
+    "q": "Upper GI series per p125?",
+    "a": "Contrast swallow followed by X-rays of the upper GI tract; answer for congenital midgut volvulus in pediatrics (shows a corkscrew).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1145",
+    "category": "IM Gastro",
+    "q": "Abdominal ultrasound uses per p125?",
+    "a": "Cholelithiasis; first step for cholecystitis (if negative, HIDA scan); first step for choledocholithiasis (then ERCP); intussusception (then enema, diagnostic and therapeutic); pyloric stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    },
+    "guideline": {
+      "text": "The Tokyo Guidelines flowchart and ASGE guideline are linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29045062/"
+    }
+  },
+  {
+    "id": "s2med-1146",
+    "category": "IM Gastro",
+    "q": "HIDA scan per p125?",
+    "a": "Confirmatory diagnosis of cholecystitis (not cholelithiasis alone) if ultrasound is negative. Radiocontrast is secreted into bile: gallbladder lights up = no cystic duct obstruction (negative); no uptake = stone obstruction, confirms cholecystitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1147",
+    "category": "IM Gastro",
+    "q": "CT of abdomen uses per p125?",
+    "a": "Source: assume contrast CT; non-contrast only for urolithiasis and intracranial bleeds. Uses: pancreatic cancer (highest-yield), liver cancer and focal nodular hyperplasia, renal injury, stable blunt abdominal trauma, diverticulitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1148",
+    "category": "IM Gastro",
+    "q": "Abdominal X-ray uses per p125-126?",
+    "a": "Bowel gas in suspected obstruction (sigmoid volvulus coffee bean sign), duodenal atresia (double-bubble), congenital diaphragmatic hernia (bowel gas in left hemithorax), necrotizing enterocolitis (pneumatosis intestinalis), toxic megacolon if stable. 'X-rays of chest and abdomen' for duodenal ulcer perforation (air under the diaphragm).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 125,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2med-1149",
+    "category": "IM Gastro",
+    "q": "ERCP per p126?",
+    "a": "Type of EGD that enters the biliary tree, removes stones and injects contrast. USMLE answer for choledocholithiasis (including gallstone pancreatitis) after ultrasound, for diagnosis of cholangitis, and for drainage of pancreatic pseudocyst.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    },
+    "guideline": {
+      "text": "The ASGE choledocholithiasis guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8594622/"
+    }
+  },
+  {
+    "id": "s2med-1150",
+    "category": "IM Gastro",
+    "q": "MRCP and EUS per p126?",
+    "a": "MRCP: never seen as correct on NBME; visualizes the biliary tree more safely than ERCP but is not therapeutic. Endoscopic ultrasound: never seen as correct; can diagnose pancreatic cancer if CT is negative or drain fluid collections instead of ERCP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    },
+    "guideline": {
+      "text": "The ASGE guideline is linked; it may favor MRCP/EUS in intermediate-risk patients, I did not verify. Source answer stays for the exam.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8594622/"
+    }
+  },
+  {
+    "id": "s2med-1151",
+    "category": "IM Gastro",
+    "q": "Paracentesis and Meckel scan per p126?",
+    "a": "Paracentesis: for SBP; choose white cell count and differential before gram stain/culture; not pericardiocentesis. Meckel scan: radiocontrast uptake scan localizing the diverticulum at the terminal ileum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2med-1152",
+    "category": "IM Gastro",
+    "q": "Colonoscopy indications per p126?",
+    "a": "Colorectal cancer, IBD, pseudomembranous colitis. Do not do in diverticulitis (perforation risk; CT instead). Do before excision if anal cancer, to see the extent (2CK: cancer at anal verge, excision is wrong; answer colonoscopy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2med-1153",
+    "category": "IM Gastro",
+    "q": "Average-risk colonoscopy screening per p126?",
+    "a": "Start at age 45-50 (guidelines evolving), then every 10 years. USMLE won't force you between 45 and 50; if forced to choose 45, other answers are clearly wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    },
+    "guideline": {
+      "text": "The USPSTF recommendation is linked; I did not verify details, but it recommends starting at 45. Current guideline wins over the source's 45-50 wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34003218/"
+    }
+  },
+  {
+    "id": "s2med-1154",
+    "category": "IM Gastro",
+    "q": "Colonoscopy with first-degree relative with colon cancer per p126?",
+    "a": "Start at age 40 or 10 years before the relative's diagnosis, whichever is earlier (never later than 40); repeat every 5 years. Dad diagnosed at 58: start at 40. Dad at 44: start at 34.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    },
+    "guideline": {
+      "text": "A review of screening with family history is linked; I did not verify its age and interval recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6853346/"
+    }
+  },
+  {
+    "id": "s2med-1155",
+    "category": "IM Gastro",
+    "q": "Colonoscopy in IBD per p126?",
+    "a": "Start 8 years after diagnosis, then every 2-3 years. 2CK NBME: mid-30s patient with IBD diagnosed in 20s and dad with colon cancer in 50s: 'colonoscopy now' (wrong answer: colonoscopy at 40).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    },
+    "guideline": {
+      "text": "A review of IBD surveillance is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8905018/"
+    }
+  },
+  {
+    "id": "s2med-1156",
+    "category": "IM Gastro",
+    "q": "Colonoscopy after dysplastic polyps per p126?",
+    "a": "Repeat every 2-5 years depending on size/morphology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    },
+    "guideline": {
+      "text": "The 2020 USMSTF follow-up consensus is linked; I did not verify it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7389642/"
+    }
+  },
+  {
+    "id": "s2med-1157",
+    "category": "IM Gastro",
+    "q": "Colonoscopy in hereditary syndromes per p126?",
+    "a": "Lynch (HNPCC): start at 20-25, every 1-2 years. FAP: start at 10-12, every 1-2 years, prophylactic proctocolectomy at 18 (NBME). Peutz-Jeghers: start at age 8, every 1-2 years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    },
+    "guideline": {
+      "text": "GeneReviews tables for Lynch and Peutz-Jeghers and a European FAP guideline are linked; I did not verify the numbers.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1211/table/hnpcc.T.recommended_surveillance_for_ind/"
+    }
+  },
+  {
+    "id": "s2med-1158",
+    "category": "IM Gastro",
+    "q": "Sigmoidoscopy per p126?",
+    "a": "NBME answer: 'sigmoidoscopy-guided insertion of rectal tube' for treatment of sigmoid volvulus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 126,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=126"
+    }
   }
 ];
