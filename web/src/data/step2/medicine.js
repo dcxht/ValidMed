@@ -25695,5 +25695,460 @@ export default [
       "text": "A study of breast cancer risk in Klinefelter syndrome is linked; I did not verify the text.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/21241366/"
     }
+  },
+  {
+    "id": "s2med-1964",
+    "category": "IM Repro/Obgyn",
+    "q": "Androgen insensitivity syndrome (AIS): defect per p197?",
+    "a": "46XY karyotype, female phenotype. Defect in the androgen receptor; DHT is needed for external male development, so the patient appears female.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1965",
+    "category": "IM Repro/Obgyn",
+    "q": "AIS hormones per p197?",
+    "a": "Testosterone and DHT normal or elevated: less negative feedback at hypothalamus and pituitary, so more LH and more testicular androgen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1966",
+    "category": "IM Repro/Obgyn",
+    "q": "AIS testes per p197?",
+    "a": "Usually in the abdomen or inguinal canal. Testes still develop because SRY induces differentiation of primitive gonads into testes, independent of androgens.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1967",
+    "category": "IM Repro/Obgyn",
+    "q": "AIS and Mullerian structures per p197?",
+    "a": "The testes make Mullerian-inhibitory factor, so there is no uterus or Fallopian tubes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1968",
+    "category": "IM Repro/Obgyn",
+    "q": "AIS vignette per p197?",
+    "a": "15-year-old girl with no menstrual period, vagina ending in a blind pouch, scant/absent pubic/axillary hair (breasts Tanner 4-5): AIS. Next best step: ultrasound first if listed, then karyotype.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1969",
+    "category": "IM Repro/Obgyn",
+    "q": "AIS: cancer risk and surgery per p197?",
+    "a": "Increased testicular malignancy risk (dysgerminoma); prophylactic orchiectomy after puberty (to maximize estrogen effects on phenotype) unless malignancy is seen earlier.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    },
+    "guideline": {
+      "text": "A paper on gonadectomy timing in complete AIS is linked; I did not verify the details, as recommended timing may differ from the source. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26428189/"
+    }
+  },
+  {
+    "id": "s2med-1970",
+    "category": "IM Repro/Obgyn",
+    "q": "Mullerian agenesis per p197?",
+    "a": "Aka Mayer-Rokitansky-Kuster-Hauser syndrome (the source says USMLE never assesses the name). 46XX; looks like AIS except pubic/axillary hair is normal/coarse.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    },
+    "guideline": {
+      "text": "An ACOG committee opinion on Mullerian agenesis is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29266078/"
+    }
+  },
+  {
+    "id": "s2med-1971",
+    "category": "IM Repro/Obgyn",
+    "q": "Mullerian agenesis: anatomy per p197?",
+    "a": "Ovaries present (no SRY). Mullerian (paramesonephric) ducts don't develop, so Fallopian tubes, uterus, cervix and upper vagina are absent. Next best step: ultrasound first if listed, then karyotype.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1972",
+    "category": "IM Repro/Obgyn",
+    "q": "MIF deficiency per p197?",
+    "a": "46XY, phenotypically male with testes, but failure of Mullerian duct regression leaves a uterus, Fallopian tubes, cervix and upper vagina. Found in the pelvis or inguinal canal, often incidentally during orchidopexy for cryptorchidism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    },
+    "guideline": {
+      "text": "A review of persistent Mullerian duct syndrome is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32172781/"
+    }
+  },
+  {
+    "id": "s2med-1973",
+    "category": "IM Repro/Obgyn",
+    "q": "5-alpha-reductase deficiency per p197?",
+    "a": "46XY, phenotypically female or ambiguous genitalia. 5a-reductase converts testosterone to DHT; without DHT, male external structures don't develop.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    },
+    "guideline": {
+      "text": "A practical approach to 5-alpha-reductase type 2 deficiency is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20349245/"
+    }
+  },
+  {
+    "id": "s2med-1974",
+    "category": "IM Repro/Obgyn",
+    "q": "5-alpha-reductase deficiency vignette per p197?",
+    "a": "'Phallus at age 12': 12-year-old 'girl' grew 4 inches in 4 months, has acne, upper lip hair, and a 3-4 cm clitoral hood. At puberty, rising testosterone can partially override the deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1975",
+    "category": "IM Repro/Obgyn",
+    "q": "SRY gene translocation per p197 (continues p198)?",
+    "a": "46XX karyotype, phenotypically male.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 197,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=197"
+    }
+  },
+  {
+    "id": "s2med-1976",
+    "category": "IM Repro/Obgyn",
+    "q": "SRY translocation: mechanism per p198?",
+    "a": "SRY from the Y chromosome is translocated, usually onto an X, so testes form instead of ovaries. Testosterone and DHT develop male external structures; MIF means no Mullerian structures.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    },
+    "guideline": {
+      "text": "A GeneReviews entry on 46,XX testicular disorders is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1416/"
+    }
+  },
+  {
+    "id": "s2med-1977",
+    "category": "IM Repro/Obgyn",
+    "q": "SRY translocation features per p198?",
+    "a": "Small testes; possible hypo- or epispadias. USMLE: neonate appears male but is 46XX.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1978",
+    "category": "IM Repro/Obgyn",
+    "q": "Rare 46XY SRY loss per p198?",
+    "a": "SRY is lost rather than gained: no testes, streak ovaries and Mullerian structures.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1979",
+    "category": "IM Repro/Obgyn",
+    "q": "Congenital adrenal hyperplasia (CAH): enzymes per p198?",
+    "a": "Ambiguous genitalia from deficiency of 21-, 11-, or 17-hydroxylase in the adrenals.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    },
+    "guideline": {
+      "text": "A review of the uncommon forms of CAH is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10616726/"
+    }
+  },
+  {
+    "id": "s2med-1980",
+    "category": "IM Repro/Obgyn",
+    "q": "CAH: high 17-OH substrates or DHEA-S/androstenedione per p198?",
+    "a": "17-hydroxylase deficiency is wrong; the answer is 21- or 11-deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1981",
+    "category": "IM Repro/Obgyn",
+    "q": "21- versus 11-hydroxylase deficiency per p198?",
+    "a": "Low/normal BP or high K+: 21-deficiency. High BP or normal/low K+: 11-deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1982",
+    "category": "IM Repro/Obgyn",
+    "q": "21-hydroxylase deficiency presentation per p198?",
+    "a": "Like Addison disease: high K+, low Na+, low bicarb, low pH; glucose can be low from low glucocorticoids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1983",
+    "category": "IM Repro/Obgyn",
+    "q": "CAH mechanism on 2CK NBME (46XX neonatal girl with fused labia) per p198?",
+    "a": "ACTH hypersecretion: adrenal androgens (DHEA-S in particular) rise because cortisol is low, so ACTH rises to compensate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1984",
+    "category": "IM Repro/Obgyn",
+    "q": "Swyer syndrome per p198?",
+    "a": "46XY, phenotypically female. Primitive gonads fail to become testes (or ovaries) and become streak gonads; low androgens give a female phenotype and scanty/absent pubic/axillary hair. No MIF, so Mullerian structures develop.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    },
+    "guideline": {
+      "text": "A Swyer syndrome entry is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25314337/"
+    }
+  },
+  {
+    "id": "s2med-1985",
+    "category": "IM Repro/Obgyn",
+    "q": "Swyer syndrome versus AIS per p198?",
+    "a": "Both: female phenotype with scanty/absent pubic/axillary hair. Swyer has Mullerian structures and low androgens; AIS has no Mullerian structures and normal or high androgens (tissues insensitive).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1986",
+    "category": "IM Repro/Obgyn",
+    "q": "Imperforate hymen per p198?",
+    "a": "The hymen normally has a small hole for menstrual blood; imperforate hymen completely covers the vaginal opening, leading to hematocolpos and hematometra.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    },
+    "guideline": {
+      "text": "An ACOG opinion on hymenal variants is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31135760/"
+    }
+  },
+  {
+    "id": "s2med-1987",
+    "category": "IM Repro/Obgyn",
+    "q": "Hematocolpos per p198?",
+    "a": "Blood accumulation in the vaginal canal. Teenager with no menstrual period (or monthly pain) and a bluish bulge behind the hymen. Answer: hematocolpos or 'cruciate incision of the hymen.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1988",
+    "category": "IM Repro/Obgyn",
+    "q": "Hematometra per p198 (continues p199)?",
+    "a": "Blood backing up to the uterus, causing uterine distention.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 198,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=198"
+    }
+  },
+  {
+    "id": "s2med-1989",
+    "category": "IM Repro/Obgyn",
+    "q": "Hematocolpos with low blood pressure per p199 (continued from p198)?",
+    "a": "Uterine distention can trigger a vagal response causing low BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2med-1990",
+    "category": "IM Repro/Obgyn",
+    "q": "Trisomy 21: genetics per p199?",
+    "a": "3 copies of chromosome 21. 95% from meiotic nondisjunction with advanced maternal age (1 in 350 at 35; 1 in 100 at 40; 1 in 10 at 50). 4% Robertsonian translocation (usually onto chromosome 14). 1% mosaic from post-fertilization mitotic error.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    },
+    "guideline": {
+      "text": "A study of maternal age and trisomy 21 nondisjunction is linked; I did not verify the risk figures.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2833410/"
+    }
+  },
+  {
+    "id": "s2med-1991",
+    "category": "IM Repro/Obgyn",
+    "q": "Down syndrome and intellectual disability per p199?",
+    "a": "The source says it's the most common genetic cause of mental retardation (its older term), Fragile X is second, and fetal alcohol syndrome is the most common cause overall.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2med-1992",
+    "category": "IM Repro/Obgyn",
+    "q": "Trisomy 21 features per p199?",
+    "a": "Flattened facies; slanted palpebral fissures; epicanthal folds; single palmar crease (non-specific); large gap between first and second toes; Brushfield spots; Eustachian tube atresia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2med-1993",
+    "category": "IM Repro/Obgyn",
+    "q": "Trisomy 21 associations per p199?",
+    "a": "Hirschsprung disease; duodenal atresia (double bubble on AXR); endocardial cushion defects (AVSD, VSD, ASD); pulmonary artery malformations; ALL; congenital hypothyroidism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2med-1994",
+    "category": "IM Repro/Obgyn",
+    "q": "First-trimester screen in Down syndrome per p199?",
+    "a": "At 8-10 weeks: increased nuchal translucency, increased hCG, decreased PAPP-A (decreased, not increased). Hypoplastic nasal bone is also important.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    },
+    "guideline": {
+      "text": "ACOG's first-trimester aneuploidy screening opinion is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15229041/"
+    }
+  },
+  {
+    "id": "s2med-1995",
+    "category": "IM Repro/Obgyn",
+    "q": "Second-trimester quad screen in Down syndrome per p199?",
+    "a": "Decreased AFP, increased hCG, decreased estriol, increased inhibin A. The ones with 'H' (hCG, inhibin A) are increased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2med-1996",
+    "category": "IM Repro/Obgyn",
+    "q": "Trisomy 18 (Edwards) per p199?",
+    "a": "Low-yield. Low-set ears, prominent occiput, rocker-bottom feet, clenched hands / overlapping fingers, omphalocele or gastroschisis. Usually fatal in utero or shortly after birth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2med-1997",
+    "category": "IM Repro/Obgyn",
+    "q": "Quad screen in Edwards and Patau per p199?",
+    "a": "Edwards: arrows all decreased in theory. Patau: all decreased except inhibin normal. The source says USMLE doesn't care.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    },
+    "guideline": {
+      "text": "A review of antenatal screening for chromosomal abnormalities is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8967741/"
+    }
+  },
+  {
+    "id": "s2med-1998",
+    "category": "IM Repro/Obgyn",
+    "q": "Trisomy 13 (Patau) per p199?",
+    "a": "Holoprosencephaly (cyclopia; halves of brain fail to separate) and polysyndactyly. Usually fatal in utero or shortly after birth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
+  },
+  {
+    "id": "s2med-1999",
+    "category": "IM Repro/Obgyn",
+    "q": "Polyhydramnios: definition and gestational diabetes per p199?",
+    "a": "Excessive amniotic fluid. Maternal GDM: more glucose in the fetus pulls water through the fetal kidneys, increasing urine volume.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls on polyhydramnios is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562140/"
+    }
+  },
+  {
+    "id": "s2med-2000",
+    "category": "IM Repro/Obgyn",
+    "q": "Polyhydramnios and fetal hypoxia per p199 (continues p200)?",
+    "a": "Causes: maternal anemia, HDN, or infections like Parvo. Reduced oxygen delivery, fetal RBC hemolysis or reduced production causes fetal hypoxia and a compensatory rise in fetal cardiac output, dilating renal vessels (continues next page).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 199,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=199"
+    }
   }
 ];

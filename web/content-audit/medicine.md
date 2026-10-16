@@ -741,3 +741,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p196 (Turner, Klinefelter) - 11 cards, ids s2med-1953 to 1963
 - Conflicts: efavirenz avoidance, HIV breastfeeding (2023 US update shared decision-making), intrapartum zidovudine/C-section thresholds. Unverified: Turner dysgerminoma vs gonadoblastoma wording, HSV acyclovir timing.
 - Mobile QA (320x740, local vite preview build, not live): all 31 cards ox=false off=false bad=0.
+
+## p197 (AIS, Mullerian agenesis, MIF/5-ARD, SRY start) - 12 cards, ids s2med-1964 to 1975
+## p198 (SRY translocation, CAH, Swyer, imperforate hymen) - 13 cards, ids s2med-1976 to 1988
+## p199 (hematocolpos BP, trisomies, polyhydramnios start) - 12 cards, ids s2med-1989 to 2000
+- Conflicts/unverified: AIS gonadectomy timing vs current practice; maternal-age risk figures; Down screening direction wording; MRKH and PMDS details.
+- Mobile QA (320x740, local vite preview build, not live): all 37 cards ox=false off=false bad=0.
