@@ -34761,5 +34761,411 @@ export default [
       "page": 267,
       "url": "/mehlman/hy-internal-medicine.pdf#page=267"
     }
+  },
+  {
+    "id": "s2med-2634",
+    "category": "IM Neuro",
+    "q": "Concussion per p268?",
+    "a": "A type of traumatic brain injury caused by a blow to the head or a sudden movement that makes the brain move rapidly inside the skull. The rapid movement can stretch and damage brain cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2med-2635",
+    "category": "IM Neuro",
+    "q": "Post-concussion syndrome per p268?",
+    "a": "Aka post-concussive disorder: a range of symptoms that can persist for weeks, months or years after a concussion, such as cognitive disturbance, memory loss, headache, and sensitivity to light or sound. USMLE asks for the diagnosis straight up on 2CK forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "A consensus paper on persisting symptoms after concussion is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11294671/"
+    }
+  },
+  {
+    "id": "s2med-2636",
+    "category": "IM Neuro",
+    "q": "Base of skull fracture: classic tetrad per p268?",
+    "a": "1) Battle sign (bruising over the mastoid process behind the ear); 2) raccoon eyes (bilateral periorbital ecchymoses); 3) otorrhea (CSF leaking from the ear); 4) rhinorrhea (CSF leaking from the nose). Hemotympanum (blood behind the tympanic membrane) can also be seen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "A StatPearls page on basilar skull fractures is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470175/"
+    }
+  },
+  {
+    "id": "s2med-2637",
+    "category": "IM Neuro",
+    "q": "CNS malignancy: presentation per p268?",
+    "a": "Can present with seizure and/or morning vomiting (a sign of increased ICP). Ring-enhancing lesions are not limited to Toxo; they can also be tumors/metastases and abscesses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2med-2638",
+    "category": "IM Neuro",
+    "q": "Pilocytic astrocytoma per p268?",
+    "a": "Most common brain tumor in kids. Solid (white) and cystic (black) components on imaging. Not aggressive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "A pictorial review of pilocytic astrocytoma is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4035491/"
+    }
+  },
+  {
+    "id": "s2med-2639",
+    "category": "IM Neuro",
+    "q": "Medulloblastoma per p268?",
+    "a": "Aggressive brain tumor of the cerebellum. Can cause truncal ataxia if at the vermis, and ipsilateral limb ataxia if lateral.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2med-2640",
+    "category": "IM Neuro",
+    "q": "Craniopharyngioma per p268?",
+    "a": "The source calls it the most common pituitary tumor in children and teenagers. Bitemporal hemianopsia (can occur with any pituitary lesion). Can calcify and contain cholesterol crystals; high recurrence rate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "Caution: it is generally described as a sellar/suprasellar tumor rather than a pituitary tumor; I did not verify this. A surgical paper on calcified Rathke's cleft cyst is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21785252/"
+    }
+  },
+  {
+    "id": "s2med-2641",
+    "category": "IM Neuro",
+    "q": "Craniopharyngioma embryology per p268?",
+    "a": "Originates from the 'roof of the primitive oropharynx' or 'roof of the primitive oral cavity'. Do not confuse with 'endoderm of foramen cecum', which refers to thyroglossal duct cyst.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2med-2642",
+    "category": "IM Neuro",
+    "q": "Pinealoma per p268?",
+    "a": "Can cause vertical gaze palsy in kids (Parinaud syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "A paper on Parinaud syndrome is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8615667/"
+    }
+  },
+  {
+    "id": "s2med-2643",
+    "category": "IM Neuro",
+    "q": "Hamartomas per p268?",
+    "a": "The 'tubers' in tuberous sclerosis are hamartomas, described as periventricular or cortical nodules on imaging.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2med-2644",
+    "category": "IM Neuro",
+    "q": "Glioblastoma multiforme per p268?",
+    "a": "Most common adult brain tumor; aggressive. Aka 'butterfly glioma' since it can cross the corpus callosum. Heterogeneous in appearance due to necrosis and hemorrhage. USMLE wants you to know it is a grade IV fibrillary astrocytoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "A systematic review of gliomas infiltrating the corpus callosum is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9139932/"
+    }
+  },
+  {
+    "id": "s2med-2645",
+    "category": "IM Neuro",
+    "q": "Meningioma per p268?",
+    "a": "Benign tumor that grows from the meninges and appears to sit on top of the brain. An NBME question describes one adjacent to the falx cerebri. Can also occur within the spinal canal, overlying the spinal cord (on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "A paper on falcine meningiomas is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32586481/"
+    }
+  },
+  {
+    "id": "s2med-2646",
+    "category": "IM Neuro",
+    "q": "Schwannoma per p268?",
+    "a": "Arises from Schwann cells, which myelinate peripheral nerves. Vestibular schwannoma arises from CN VIII, often at the cerebellopontine junction, and can cause tinnitus and/or vertigo. Can be idiopathic or part of neurofibromatosis type II (NF2).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    },
+    "guideline": {
+      "text": "A paper on NF2 and vestibular schwannoma is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7881257/"
+    }
+  },
+  {
+    "id": "s2med-2647",
+    "category": "IM Neuro",
+    "q": "Schwannoma: hearing loss per p268?",
+    "a": "USMLE wants you to identify its growth as causing sensorineural hearing loss (Rinne: AC > BC; Weber: lateralizes contralaterally, that is, to the unaffected ear).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2med-2648",
+    "category": "IM Neuro",
+    "q": "Prolactinoma: epidemiology per p268?",
+    "a": "Most common pituitary tumor in adults.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 268,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2med-2649",
+    "category": "IM Neuro",
+    "q": "Prolactinoma: symptoms per p269 (continued)?",
+    "a": "Can cause amenorrhea in women and impotence in men. Galactorrhea can occur in everyone. The source covers other pituitary tumors and hormones in its HY Endocrine PDF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2med-2650",
+    "category": "IM Neuro",
+    "q": "Optic glioma per p269?",
+    "a": "Seen in neurofibromatosis type I (NF1).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "A paper on NF1-associated optic pathway gliomas is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10351533/"
+    }
+  },
+  {
+    "id": "s2med-2651",
+    "category": "IM Neuro",
+    "q": "Oligodendroglioma per p269?",
+    "a": "Tumor of oligodendrocytes (the cells that normally myelinate CNS neurons). Histology has a fried-egg appearance and chicken-wire capillary pattern.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "A StatPearls page on oligodendroglioma is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559184/"
+    }
+  },
+  {
+    "id": "s2med-2652",
+    "category": "IM Neuro",
+    "q": "Ependymoma per p269?",
+    "a": "Tumor of ependymal cells, which normally produce CSF. The source lists Rosenthal fibers (eosinophilic corkscrew filaments) on histology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "Caution: Rosenthal fibers are more often associated with other tumors such as pilocytic astrocytoma; I did not verify this claim. A paper on ependymoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4903119/"
+    }
+  },
+  {
+    "id": "s2med-2653",
+    "category": "IM Neuro",
+    "q": "Tumor of the foramen magnum per p269?",
+    "a": "Can cause hypoglossal nerve (CN XII) palsy, leading to ipsilateral tongue deviation. Shows up on a 2CK form. CN XII lesions occur from medial medullary syndrome as well as tumors of the foramen magnum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "A case report of foramen magnum meningioma is linked (title only); I did not verify the exam claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28415060/"
+    }
+  },
+  {
+    "id": "s2med-2654",
+    "category": "IM Neuro",
+    "q": "Brain metastases per p269?",
+    "a": "Can be described as lesions at the grey-white junction. Choriocarcinoma and lung cancer love to metastasize to the brain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "A paper on CNS metastases is linked (title only); I did not verify the primaries list.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6906733/"
+    }
+  },
+  {
+    "id": "s2med-2655",
+    "category": "IM Neuro",
+    "q": "Tourette syndrome per p269?",
+    "a": "Neurologic disorder with repetitive, involuntary movements and vocalizations (tics). Motor tics range from eye blinking, head jerking, shoulder shrugging to hopping, twirling, or mimicking others' actions. Vocal tics include throat clearing, sniffing, humming; complex ones include repeating words or phrases or shouting inappropriate words (coprolalia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Tourette and tic disorders is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499958/"
+    }
+  },
+  {
+    "id": "s2med-2656",
+    "category": "IM Neuro",
+    "q": "Tourette syndrome: treatment per p269?",
+    "a": "Haloperidol and clozapine are two agents used to treat it that show up on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "A guideline summary on treating tics is linked (title only); I did not verify the NBME claim, and clozapine is not a typical tic drug.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/"
+    }
+  },
+  {
+    "id": "s2med-2657",
+    "category": "IM Neuro",
+    "q": "Provisional tic disorder per p269?",
+    "a": "In pediatrics it is normal for a kid to sometimes have a single tic that lasts up to a year (for example an unusual tongue or lip gesture). Very low chance of progressing to chronic tic disorder / Tourette. USMLE wants follow-up in 3-6 months as the next best step (observe).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "The StatPearls page is linked on an earlier card; I did not verify the follow-up interval.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499958/"
+    }
+  },
+  {
+    "id": "s2med-2658",
+    "category": "IM Neuro",
+    "q": "PANDAS per p269?",
+    "a": "Pediatric Autoimmune Neuropsychiatric disorder Associated with Streptococci: Group A Strep pharyngitis can cause a tic disorder, OCD, or ADHD in the weeks following infection. A kid with a sore throat two weeks ago and a new tic, ADHD or OCD: 'anti-streptolysin O titers'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2med-2659",
+    "category": "IM Neuro",
+    "q": "Drug-induced tics per p269?",
+    "a": "Stimulants such as methylphenidate, amphetamines, and caffeine can cause tics. The source considers tardive dyskinesia due to antipsychotics a type of tic disorder.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "A paper on drug-induced movement disorder nomenclature is linked; the source's classification of tardive dyskinesia as a tic disorder is not verified.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15189106/"
+    }
+  },
+  {
+    "id": "s2med-2660",
+    "category": "IM Neuro",
+    "q": "Focal-onset aware seizure per p269?",
+    "a": "FOAS, formerly simple seizures. No loss of consciousness (LoC).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "The ILAE 2017 seizure classification manual is linked (title only); I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28276064/"
+    }
+  },
+  {
+    "id": "s2med-2661",
+    "category": "IM Neuro",
+    "q": "Focal-onset impaired awareness seizure per p269?",
+    "a": "FOIAS, formerly complex seizures. LoC; includes staring blankly into space as with absence seizures (discussed later in the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    },
+    "guideline": {
+      "text": "I did not verify that absence seizures are classified as focal; in the ILAE system absence seizures are generalized-onset. Source wording stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28276064/"
+    }
+  },
+  {
+    "id": "s2med-2662",
+    "category": "IM Neuro",
+    "q": "Partial seizure terms per p269?",
+    "a": "One part of the brain is affected. Simple partial = no LoC and only one part of the brain. Complex partial = LoC and only one part of the brain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2med-2663",
+    "category": "IM Neuro",
+    "q": "Generalized-onset seizure per p269?",
+    "a": "Formerly generalized. Involves both cerebral hemispheres. The source calls the nomenclature changes dumb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 269,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=269"
+    }
   }
 ];

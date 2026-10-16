@@ -938,3 +938,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p267 (herniation types) - 8 cards, ids s2med-2626 to 2633
 - Herniation wording from source; linked paper title only.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p268 (concussion, skull fracture, brain tumors) - 15 cards, ids s2med-2634 to 2648
+- Craniopharyngioma "pituitary tumor" label flagged. Schwannoma Weber wording clarified with note. NBME claims unverified.
+## p269 (tumors cont., tics, seizure terminology) - 15 cards, ids s2med-2649 to 2663
+- Ependymoma Rosenthal fibers flagged. Clozapine for tics flagged. Absence seizures listed as focal by source (ILAE: generalized): flagged. TD as tic disorder flagged.
+- Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.
