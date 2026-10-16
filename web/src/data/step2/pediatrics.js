@@ -35006,5 +35006,132 @@ export default [
       "text": "StatPearls: prompt methylene blue when symptomatic or significantly elevated; alternatives include high-dose ascorbic acid. Nitrite exposure is a classic source.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK537317/"
     }
+  },
+  {
+    "id": "s2peds-2458",
+    "category": "Peds vignettes",
+    "q": "9-month-old boy who can only sit with support, bangs two blocks together but does not scribble, says \"mama\" and \"dada\" but not specifically to his parent. Normal or delayed per p168?",
+    "a": "Delayed gross motor; normal fine motor and language development.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2peds-2459",
+    "category": "Peds vignettes",
+    "q": "10-month-old boy with grade IV GERD. Which surgical management per p168?",
+    "a": "Fundoplication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    }
+  },
+  {
+    "id": "s2peds-2460",
+    "category": "Peds vignettes",
+    "q": "12-hour-old newborn with excessive oral secretions and coughing after the first feed, resolving with suctioning, with polyhydramnios in pregnancy. Next best step per p168?",
+    "a": "Insertion of a nasogastric tube. Diagnosis: tracheoesophageal fistula.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    },
+    "guideline": {
+      "text": "StatPearls: esophageal atresia presents with drooling, choking and failure to pass a nasogastric tube; polyhydramnios is a prenatal clue (about 60%).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560848/"
+    }
+  },
+  {
+    "id": "s2peds-2461",
+    "category": "Peds vignettes",
+    "q": "2-month-old boy with non-bloody, non-bilious vomiting after feeds, increasing in amount and force. Diagnosis and associations per p168?",
+    "a": "Pyloric stenosis. Associated with first-born males and oral erythromycin use (a motilin receptor agonist; also treats chlamydia ophthalmia neonatorum).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    },
+    "guideline": {
+      "text": "StatPearls: postnatal erythromycin and first-born status are risk factors; male-to-female ratio is 4 to 1.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555931/"
+    }
+  },
+  {
+    "id": "s2peds-2462",
+    "category": "Peds vignettes",
+    "q": "How is pyloric stenosis diagnosed and treated per p168, and what acid-base findings occur?",
+    "a": "Another Peds NBME question wants you to know it is a \"single developmental defect\" (almost never part of a syndrome). Diagnose with abdominal ultrasound. Treatment is printed as \"myomectomy.\" Findings: low K, low Cl, high bicarb. The \"olive-shaped\" mass is too easy for 2CK but not unheard of.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    },
+    "guideline": {
+      "text": "StatPearls: classic electrolyte imbalance is hypochloremic, hypokalemic metabolic alkalosis. Caution: the surgical treatment is pyloromyotomy, not myomectomy. I did not verify the 'single developmental defect' claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555931/"
+    }
+  },
+  {
+    "id": "s2peds-2463",
+    "category": "Peds vignettes",
+    "q": "2-month-old boy with bilious vomiting and Down syndrome. Diagnosis and imaging per p168?",
+    "a": "Duodenal atresia. AXR shows the double bubble sign. Mechanism: \"failure of canalization of proximal bowel.\" Annular pancreas can be an alternative cause of bilious vomiting plus double bubble (not with Down syndrome).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    },
+    "guideline": {
+      "text": "StatPearls: about 30-40% of children with duodenal atresia have Down syndrome; failure of the epithelial cord to recanalize; association with annular pancreas.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470548/"
+    }
+  },
+  {
+    "id": "s2peds-2464",
+    "category": "Peds vignettes",
+    "q": "2-month-old boy with bilious vomiting and chronic constipation. Diagnosis per p168?",
+    "a": "Hirschsprung disease; also associated with Down syndrome; failure of neural crest cell migration distally. The answer is sometimes \"rectal manometry\" as the next best step; it can cause bilious vomiting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    },
+    "guideline": {
+      "text": "StatPearls: disturbed rostrocaudal migration of neural crest cells; chronic constipation and obstruction. I did not verify rectal manometry as the diagnostic step (biopsy is the reference standard).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562142/"
+    }
+  },
+  {
+    "id": "s2peds-2465",
+    "category": "Peds vignettes",
+    "q": "What is the acid-base disturbance with vomiting per p168?",
+    "a": "Hypochloremic, hypokalemic metabolic alkalosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    },
+    "guideline": {
+      "text": "StatPearls describes this pattern in pyloric stenosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555931/"
+    }
+  },
+  {
+    "id": "s2peds-2466",
+    "category": "Peds vignettes",
+    "q": "18-month-old girl with 24 hours of intermittent abdominal pain, an RLQ mass and a positive fecal occult blood test. Next best step in diagnosis per p168?",
+    "a": "Air-contrast enema (or contrast, or air). Ultrasound (target sign) may be done, but on the NBME the answer for diagnosing intussusception is always enema (diagnostic and therapeutic). Presentation is almost always under 2 years with an intermittent nature (the sentence continues on p169).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 168,
+      "url": "/mehlman/hy-pediatrics.pdf#page=168"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says ultrasound is the preferred diagnostic method in children, with enema used for treatment (it also confirms and reduces). Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431078/"
+    }
   }
 ];

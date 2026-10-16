@@ -871,3 +871,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict flagged: 6-week AZT for neonates of HIV-positive mothers (current US guidelines individualize by risk). I could not retrieve the guideline text, so I did not state current durations.
 - Left unverified: AT DNA repair wording, HHT inheritance and high-output failure framing, CVID 2 SD criterion, oil-based emollients, danazol mechanism.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p168 (Bullet points: milestones, GERD, TEF, pyloric stenosis, duodenal atresia, Hirschsprung, vomiting, intussusception start) - 9 cards, ids s2peds-2458 to 2466
+- Inspected page text and layout; no figures. Developmental milestone vignette has no source note (CDC milestone page could not be read).
+- Notes verified against StatPearls (Pyloric Stenosis, Esophageal Atresia, Duodenal Atresia, Hirschsprung, Child Intussusception).
+- Source conflicts, source answer kept with caution note: intussusception "enema is always the diagnostic answer" (ultrasound preferred); "myomectomy" for pyloric stenosis (pyloromyotomy).
+- Left unverified: milestone delay judgment, GERD fundoplication, "single developmental defect", rectal manometry as next step.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
