@@ -348,3 +348,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures). Page ends mid-sentence (ketorolac case); carried to p79.
 - Source's FENa/BUN-Cr rules kept as exam heuristics; FENa has known limits (not text-verified).
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p79 (IM Renal: pre-/intra-/post-renal, nephritic vs nephrotic) - 10 cards, ids s2med-0760 to 0769
+- Inspected page text (no figures). Starts mid-sentence (ketorolac) from p78.
+- Source exam heuristics kept (intra-renal = ATN; post-void <50 mL; catheter over antibiotics). Unverified: apolipoprotein explanation, review texts.
+
+## p80 (IM Renal: nephrotic thrombosis, PSGN, IgA nephropathy) - 10 cards, ids s2med-0770 to 0779
+- Inspected page text (no figures). Page ends within the HSP list; continues p81.
+- Unverified: PANDAS (controversial entity), review texts.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

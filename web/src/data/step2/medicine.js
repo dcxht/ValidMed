@@ -9895,5 +9895,261 @@ export default [
       "page": 78,
       "url": "/mehlman/hy-internal-medicine.pdf#page=78"
     }
+  },
+  {
+    "id": "s2med-0760",
+    "category": "IM Renal",
+    "q": "Post-op oliguria after ketorolac per p78-79?",
+    "a": "2CK NBME: post-op, no blood loss, no low BP, started on ketorolac (an NSAID), now oliguria and increased creatinine: answer 'hypoperfusion' (pre-renal); NSAIDs, not ATN, can cause post-op oliguria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    },
+    "guideline": {
+      "text": "A review of NSAID nephropathy pathophysiology exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6534025/"
+    }
+  },
+  {
+    "id": "s2med-0761",
+    "category": "IM Renal",
+    "q": "HY causes of pre-renal azotemia per p79?",
+    "a": "NSAID or diuretic use, chronic left heart failure, or dehydration from days of vomiting/diarrhea. Vignettes: several weeks of naproxen, or furosemide started a few days ago.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2med-0762",
+    "category": "IM Renal",
+    "q": "NSAID with edema per p79?",
+    "a": "Patient on an NSAID with peripheral edema: reason is 'decreased renal excretion of sodium' (increased PCT sodium reabsorption in pre-renal, FENa <1%). Or the answer is 'discontinuation of ibuprofen'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2med-0763",
+    "category": "IM Renal",
+    "q": "Intra-renal azotemia per p79?",
+    "a": "Essentially synonymous with acute tubular necrosis on USMLE. The kidney cannot reabsorb urea and sodium as easily: lower BUN (BUN/Cr <20) and more urinary sodium (FENa >1%). Acute drop in perfusion causes ATN, not pre-renal (the source stresses this).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2med-0764",
+    "category": "IM Renal",
+    "q": "Post-renal azotemia per p79?",
+    "a": "Almost always BPH on USMLE (or ovarian/cervical cancer impinging on the ureters). Old man + high creatinine = BPH until proven otherwise. Answer is often 'increased Bowman capsule hydrostatic pressure'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    },
+    "guideline": {
+      "text": "A review of obstructive uropathy management exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9846865/"
+    }
+  },
+  {
+    "id": "s2med-0765",
+    "category": "IM Renal",
+    "q": "Next step in obstructive azotemia per p79?",
+    "a": "Insertion of a catheter to relieve urinary retention, even with bacteriuria (choose catheter over antibiotics). Another 2CK question: 'check post-void volume' in an elderly man with high Cr (USMLE will not force a choice between them).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    },
+    "guideline": {
+      "text": "A review of urinary retention evaluation and initial management exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30277739/"
+    }
+  },
+  {
+    "id": "s2med-0766",
+    "category": "IM Renal",
+    "q": "Post-void volume per p79?",
+    "a": "Normal is <50 mL (approximate). Overflow incontinence: about 300-400+ mL. Diabetic neurogenic bladder (hypotonic detrusor from neuropathy) can also cause overflow incontinence and post-renal azotemia; hydronephrosis (large dilated kidneys) is a rare diagnosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2med-0767",
+    "category": "IM Renal",
+    "q": "Nephritic vs nephrotic per p79?",
+    "a": "Nephritic conditions have blood in the urine; nephrotic syndromes do not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2med-0768",
+    "category": "IM Renal",
+    "q": "Four features of nephritic syndrome per p79?",
+    "a": "1) Hematuria. 2) Oliguria (<400 mL/day; USMLE will not assess the number). 3) Azotemia (high BUN, from low urine output). 4) Hypertension (RAAS activation due to inflammation of renal microvasculature).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2med-0769",
+    "category": "IM Renal",
+    "q": "Four features of nephrotic syndrome per p79?",
+    "a": "1) Proteinuria (>3.5 g/day; number not assessed). 2) Hypoalbuminemia (<3.5 g/dL). 3) Peripheral edema (low oncotic pressure; ascites if severe; 'pre-sacral edema' = nephrotic until proven otherwise). 4) Hyperlipidemia (liver pumps out apolipoproteins to preserve oncotic pressure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 79,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=79"
+    },
+    "guideline": {
+      "text": "A review of dyslipidemia mechanisms in nephrotic syndrome exists; I did not verify the apolipoprotein explanation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5770189/"
+    }
+  },
+  {
+    "id": "s2med-0770",
+    "category": "IM Renal",
+    "q": "Proteinuria in nephritic syndromes per p80?",
+    "a": "Nephritic syndromes often have proteinuria, just usually not at nephrotic levels. Do not worry about which conditions are 'both'; know which have hematuria and which do not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2med-0771",
+    "category": "IM Renal",
+    "q": "Thrombosis in nephrotic syndrome per p80?",
+    "a": "Increased risk of DVT, renal vein thrombosis and varicocele from loss of antithrombin III in the urine (hypercoagulable state; massive non-specific protein loss from loss of size and charge barrier). NBME: left renal vein thrombus can cause a varicocele.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "Papers on nephrotic-associated thromboembolism and on left renal vein thrombosis with varicocele exist; I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3302669/"
+    }
+  },
+  {
+    "id": "s2med-0772",
+    "category": "IM Renal",
+    "q": "PSGN names per p80?",
+    "a": "Post-streptococcal glomerulonephritis, aka 'proliferative glomerulonephritis' (an NBME vignette of PSGN has this as the answer) or 'acute glomerulonephritis'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2med-0773",
+    "category": "IM Renal",
+    "q": "PSGN timing per p80?",
+    "a": "Red urine 1-3 weeks after a Group A Strep (S. pyogenes) sore throat; IgA nephropathy is red urine 1-3 days after a sore throat.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "A review of glomerulonephritis after streptococcal infection exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8730744/"
+    }
+  },
+  {
+    "id": "s2med-0774",
+    "category": "IM Renal",
+    "q": "PSGN after skin infection per p80?",
+    "a": "Can follow impetigo, cellulitis or erysipelas. Example: a 10-year-old with yellow crusts on his arm for 7 days, then red urine: 'acute glomerulonephritis'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2med-0775",
+    "category": "IM Renal",
+    "q": "PSGN mechanism and labs per p80?",
+    "a": "Type III hypersensitivity (antigen-antibody complexes deposit in the kidney); not rheumatic heart disease, which is type II. Serum C3 can be decreased (also in SLE, unrelated). Streptolysin O or A titers increased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2med-0776",
+    "category": "IM Renal",
+    "q": "PANDAS per p80?",
+    "a": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci: new-onset tic/Tourette, OCD or ADHD within weeks of Group A Strep infection (tested on 2CK).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "A consensus document on PANS/PANDAS exists; the entity is considered controversial. I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11540630/"
+    }
+  },
+  {
+    "id": "s2med-0777",
+    "category": "IM Renal",
+    "q": "EM descriptors and prognosis of PSGN per p80?",
+    "a": "Subepithelial deposits or 'lumpy bumpy' EM appearance are, per the source, not useful for USMLE. PSGN usually self-resolves in kids; older age means worse prognosis, with higher chance of renal failure in adults.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2med-0778",
+    "category": "IM Renal",
+    "q": "IgA nephropathy per p80?",
+    "a": "Aka Berger disease; IgA deposition in the renal mesangium. Red urine 1-3 days after a sore throat, caused by viral infection not Group A Strep. Can follow GI infections, but USMLE usually avoids this unless within the Henoch-Schonlein purpura constellation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "StatPearls on IgA nephropathy is a reference; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538214/"
+    }
+  },
+  {
+    "id": "s2med-0779",
+    "category": "IM Renal",
+    "q": "Henoch-Schonlein purpura per p80 (continues p81)?",
+    "a": "Classic tetrad: 1) palpable purpura (buttocks/thighs); 2) IgA nephropathy (red urine); 3) arthralgias; 4) abdominal pain. All 4 need not be present.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 80,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=80"
+    },
+    "guideline": {
+      "text": "A review of IgA vasculitis (HSP) is available; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546386/"
+    }
   }
 ];
