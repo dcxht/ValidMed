@@ -29834,5 +29834,208 @@ export default [
       "text": "A review of Kasabach-Merritt management options is linked; I did not verify 'Tx is surgical' (medical therapy is also described).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5428202/"
     }
+  },
+  {
+    "id": "s2med-2271",
+    "category": "IM Derm",
+    "q": "Cushing syndrome: physical exam finding USMLE wants per p236?",
+    "a": "Purple striae are a high-yield physical exam finding. Mechanism: weakening of dermal collagen and capillary walls leads to micro bleeding into the skin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=236"
+    },
+    "img": "/mehlman/figures/med-p236-01.jpg",
+    "imgAlt": "Pink-purple linear striae across the abdomen",
+    "guideline": {
+      "text": "An article on investigating Cushing syndrome is linked; I did not verify the mechanism wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6080996/"
+    }
+  },
+  {
+    "id": "s2med-2272",
+    "category": "IM Derm",
+    "q": "Cigarette burn lesion per p236?",
+    "a": "The question shows an image like this and the answer is 'contact child protective services'. It can also be on the face and resemble impetigo at different stages of healing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=236"
+    },
+    "img": "/mehlman/figures/med-p236-02.jpg",
+    "imgAlt": "Round crusted ulcerated lesion on the back of a child's hand",
+    "guideline": {
+      "text": "A review of child abuse injury hallmarks is linked; I did not verify the impetigo-resemblance claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6474498/"
+    }
+  },
+  {
+    "id": "s2med-2273",
+    "category": "IM Derm",
+    "q": "Keloids: what are they per p236?",
+    "a": "Disorganized growth of dermal collagen. Benign.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=236"
+    },
+    "img": "/mehlman/figures/med-p236-03.jpg",
+    "imgAlt": "Two firm raised smooth nodules on an earlobe and ear (keloids)"
+  },
+  {
+    "id": "s2med-2274",
+    "category": "IM Derm",
+    "q": "Keloid treatment per p236?",
+    "a": "Tx is surgical excision, although recurrence is common.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 236,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=236"
+    },
+    "guideline": {
+      "text": "A systematic review of keloid treatments is linked; it covers other options as well. I did not read it in full. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10012475/"
+    }
+  },
+  {
+    "id": "s2med-2275",
+    "category": "IM Derm",
+    "q": "Pseudofolliculitis barbae per p237?",
+    "a": "Aka razor bumps; increased prevalence in persons of African descent; curly beard hair grows back into the skin. Tx is to allow the beard to grow. The USMLE question shows an image and just asks for the spot diagnosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=237"
+    },
+    "img": "/mehlman/figures/med-p237-01.jpg",
+    "imgAlt": "Small papules along the beard area of the jaw and chin (pseudofolliculitis barbae)",
+    "guideline": {
+      "text": "A review of PFB treatments is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36840647/"
+    }
+  },
+  {
+    "id": "s2med-2276",
+    "category": "IM Derm",
+    "q": "Milia per p237?",
+    "a": "Aka 'milk spots'; due to clogged eccrine ducts; common, benign finding in babies. No Tx necessary. 'Exfoliative cleanser' and 'topical low-dose corticosteroid' are wrong answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=237"
+    },
+    "img": "/mehlman/figures/med-p237-02.jpg",
+    "imgAlt": "Tiny white-yellow dots on a newborn's nose (milia, arrow)",
+    "guideline": {
+      "text": "A StatPearls page on milia is linked; I did not verify the 'eccrine ducts' wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560481/"
+    }
+  },
+  {
+    "id": "s2med-2277",
+    "category": "IM Derm",
+    "q": "Varicose veins: next best step in diagnosis per p237?",
+    "a": "Duplex venous ultrasonography, for venous disease or valvular insufficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=237"
+    },
+    "img": "/mehlman/figures/med-p237-03.jpg",
+    "imgAlt": "Dilated visible veins at the ankle and lower leg (varicose veins)",
+    "guideline": {
+      "text": "The 2023 SVS/AVF/AVLS varicose vein guideline (Part II) is linked; I did not read it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+    }
+  },
+  {
+    "id": "s2med-2278",
+    "category": "IM Derm",
+    "q": "Varicose veins: treatment per p237?",
+    "a": "Tx is compression stockings. Do not choose surgical interventions for varicose veins on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 237,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=237"
+    },
+    "guideline": {
+      "text": "Current guidelines describe interventional options for symptomatic disease; the source's exam-oriented answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+    }
+  },
+  {
+    "id": "s2med-2279",
+    "category": "IM Derm",
+    "q": "Superficial thrombophlebitis: presentation per p238?",
+    "a": "Similar to DVT, but in a more superficial vein; presents as a painful, warm 'palpable cord' at the ankle that may or may not track up to the knee.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=238"
+    },
+    "img": "/mehlman/figures/med-p238-01.jpg",
+    "imgAlt": "Lower leg with brown skin discoloration and visible veins (image shown near this section on p238)",
+    "guideline": {
+      "text": "A review of superficial venous thrombosis is linked; I did not verify the ankle location detail.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11434259/"
+    }
+  },
+  {
+    "id": "s2med-2280",
+    "category": "IM Derm",
+    "q": "Superficial thrombophlebitis: treatment per p238?",
+    "a": "Subcutaneous enoxaparin (heparin). Wrong answer is compression stockings. Very difficult question since stockings are the common answer for venous disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=238"
+    },
+    "guideline": {
+      "text": "Current guidance varies by clot size and location (for example fondaparinux for larger clots); the same review is linked. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11434259/"
+    }
+  },
+  {
+    "id": "s2med-2281",
+    "category": "IM Derm",
+    "q": "Compression stockings vs heparin per p238?",
+    "a": "For simple venous disease or varicose veins, choose compression stockings. If the patient has an active clot presenting as a palpable vein with pain, give heparin instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=238"
+    }
+  },
+  {
+    "id": "s2med-2282",
+    "category": "IM Derm",
+    "q": "Buerger disease per p238?",
+    "a": "Aka thromboangiitis obliterans; digital gangrene in males who are heavy smokers; contrasts with gangrene due to diabetes, which is pedal. Tx = smoking cessation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=238"
+    },
+    "img": "/mehlman/figures/med-p238-02.jpg",
+    "imgAlt": "Dark discolored fingertips and nails on both hands (digital gangrene)",
+    "guideline": {
+      "text": "A StatPearls page on Buerger disease is linked; I did not verify the 'males' wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430858/"
+    }
+  },
+  {
+    "id": "s2med-2283",
+    "category": "IM Derm",
+    "q": "Charcot joint per p238?",
+    "a": "Aka neurogenic joint. Mechanism is lack of appropriate joint sensation: the patient cannot feel the foot due to neuropathy, causing damage, and cannot heal the area due to vasculopathy. The question shows a diabetic with poor HbA1c, a foot ulcer, and an x-ray with disorganization of the tarsals/metatarsals.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 238,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=238"
+    },
+    "guideline": {
+      "text": "IWGDF 2023 Charcot guidelines are linked; I did not verify the vasculopathy mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37218537/"
+    }
   }
 ];

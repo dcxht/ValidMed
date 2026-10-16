@@ -849,3 +849,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p235 (cherry, preauricular pit, Kasabach-Merritt) - 4 cards, ids s2med-2267 to 2270
 - Kasabach-Merritt linked to kaposiform hemangioendothelioma in literature; source says infantile hemangioma and surgical Tx. Caution notes added.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p236 (Cushing striae, cigarette burn, keloid) - 4 cards, ids s2med-2271 to 2274
+- Keloid "Tx surgical" vs broader options in the literature: caution note.
+## p237 (PFB, milia, varicose veins) - 4 cards, ids s2med-2275 to 2278
+- Varicose "no surgery" is exam-oriented; guidelines list interventions for symptomatic disease: note added.
+## p238 (SVT, Buerger, Charcot) - 5 cards, ids s2med-2279 to 2283
+- SVT enoxaparin vs fondaparinux/size-based guidance: note added. Leg image on p238 is unlabeled in source; neutral alt text.
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
