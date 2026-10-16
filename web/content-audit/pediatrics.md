@@ -850,3 +850,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - No outright conflicts. Chediak-Higashi mechanism wording ("microtubule function") unverified.
 - Left unverified: DI as a cause of lactic acidosis, trauma-to-DI timing, parvovirus as aplastic anemia cause, TMP/SMX neutropenia, antibiotics-first sequencing.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p165 (Bullet points: SCID end, Bruton, PKU, DiGeorge, IgA deficiency) - 9 cards, ids s2peds-2428 to 2436
+- Inspected page text and layout; no figures. First lines continue SCID from p164.
+- Notes verified against StatPearls (SCID, XLA, PKU, Selective IgA Deficiency) and a 22q11.2 deletion review.
+- Terminology caution on "mental retardation". No outright conflicts.
+- Left unverified: lymphoid tissue to B cell link, monthly immune globulin schedule, PKU/THB statements, infection patterns by cell deficiency, Giardia and seasonal atopy pattern for IgA deficiency.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.

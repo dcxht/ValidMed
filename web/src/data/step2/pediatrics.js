@@ -34568,5 +34568,140 @@ export default [
       "text": "StatPearls: SCID thymus is fetal in appearance, with absent lymphoid cells and Hassall corpuscles.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK539762/"
     }
+  },
+  {
+    "id": "s2peds-2428",
+    "category": "SCID",
+    "q": "What inheritance, causes, treatment and cell deficits does p165 give for SCID?",
+    "a": "X-linked is most common, due to a common gamma-chain mutation or IL-2 receptor deficiency. Autosomal recessive is due to adenosine deaminase (ADA) deficiency. Treatment is bone marrow transplant. An absent thymic shadow means T cell deficiency; scanty/absent lymphoid tissue means B cell deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls: X-linked SCID from common gamma chain lack; ADA deficiency gives a similar phenotype; bone marrow transplant or gene therapy is the cure. I did not verify the lymphoid tissue to B cell link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539762/"
+    }
+  },
+  {
+    "id": "s2peds-2429",
+    "category": "Peds vignettes",
+    "q": "2M with bacterial infections from about 6 months of life and scanty or absent lymph nodes and tonsils. Diagnosis per p165?",
+    "a": "Deficiency of humoral immunity (Bruton X-linked agammaglobulinemia).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls: XLA prevents antibody production; lymph nodes and tonsils are underdeveloped.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549865/"
+    }
+  },
+  {
+    "id": "s2peds-2430",
+    "category": "Peds vignettes",
+    "q": "What caveat and treatment does p165 give for Bruton agammaglobulinemia?",
+    "a": "A newer Peds form had Bruton as the answer for bacterial infections since birth, so emphasize that Bruton is bacterial only, whereas SCID is all types of infection (viral, fungal, bacterial, protozoal). Treatment: monthly infusion of immune globulin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls: lifelong immunoglobulin replacement therapy plus antibiotics. I did not verify the 'monthly' schedule.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549865/"
+    }
+  },
+  {
+    "id": "s2peds-2431",
+    "category": "Peds vignettes",
+    "q": "2M with mental retardation, fairer skin than siblings and a deficient hydroxylase enzyme. How could this have been prevented per p165?",
+    "a": "Routine newborn screening by heel-prick test at birth for phenylketonuria (PKU). Note: current terminology is intellectual disability.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls covers PKU as phenylalanine hydroxylase deficiency. I did not verify the details of screening in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK535378/"
+    }
+  },
+  {
+    "id": "s2peds-2432",
+    "category": "Peds vignettes",
+    "q": "What are the PKU facts on p165?",
+    "a": "Autosomal recessive; deficiency of phenylalanine hydroxylase; tyrosine becomes essential; phenylalanine must be avoided in the diet. Malignant PKU is tetrahydrobiopterin (THB) deficiency (cofactor for phenylalanine hydroxylase).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls: PKU is caused by phenylalanine hydroxylase deficiency. I did not verify the other statements.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK535378/"
+    }
+  },
+  {
+    "id": "s2peds-2433",
+    "category": "Peds vignettes",
+    "q": "8-month-old girl with oropharyngeal candidiasis, history of parainfluenza infection and a 3/6 harsh systolic murmur at the left sternal border. What is she deficient in per p165?",
+    "a": "T lymphocytes, possibly DiGeorge syndrome (tetralogy of Fallot with a murmur that is a mix of VSD and pulmonary stenosis). T cell deficiency causes viral, fungal and protozoal infections; if the USMLE wants B cell deficiency, they mention bacterial infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "Review: 22q11.2 deletion features include cardiac anomalies, hypoparathyroidism and thymic hypoplasia, with T cell lymphopenia. I did not verify the infection pattern claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999075/"
+    }
+  },
+  {
+    "id": "s2peds-2434",
+    "category": "Peds vignettes",
+    "q": "8-day-old newborn with truncus arteriosus, serum calcium 7 mg/dL and no thymic shadow. Diagnosis per p165?",
+    "a": "Hypoparathyroidism (DiGeorge): 3rd and 4th pouch agenesis. The 3rd pouch gives the thymus and inferior parathyroids; the 4th gives the superior parathyroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "Review: abnormal development of the third and fourth pharyngeal pouches causes cardiac anomalies, hypoparathyroidism and thymic hypoplasia.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999075/"
+    }
+  },
+  {
+    "id": "s2peds-2435",
+    "category": "Peds vignettes",
+    "q": "16F with 3 days of left cheek pain and pressure, strep pneumonia at ages 6 and 10, and seasonal allergies. Diagnosis per p165?",
+    "a": "\"Impaired humoral immunity\" or \"deficiency of mucosal immunoglobulin\": IgA deficiency (one of the highest-yield presentations for the Peds shelf and USMLE). The sore cheek is sinusitis; it presents as recurrent sinopulmonary infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls: recurrent sinopulmonary infection, allergies and autoimmune disease are typical.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538205/"
+    }
+  },
+  {
+    "id": "s2peds-2436",
+    "category": "Peds vignettes",
+    "q": "What associations does p165 list for IgA deficiency?",
+    "a": "History of Giardia infection, autoimmune diseases (for example vitiligo) and atopy (dry cough in winter as cough-variant asthma, hay fever in spring, eczema in summer). Anaphylaxis with blood transfusion is too easy for most 2CK questions but rarely shows up.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 165,
+      "url": "/mehlman/hy-pediatrics.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls: autoimmune disease in about 20 to 30%; anti-IgA antibodies may cause transfusion reactions, so IgA-poor or washed red cells are used. I did not verify Giardia or the seasonal atopy pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538205/"
+    }
   }
 ];
