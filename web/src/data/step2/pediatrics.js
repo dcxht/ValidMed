@@ -31782,5 +31782,225 @@ export default [
       "page": 147,
       "url": "/mehlman/hy-pediatrics.pdf#page=147"
     }
+  },
+  {
+    "id": "s2peds-2234",
+    "category": "Graves disease",
+    "q": "What does p148 say about myopathy and atrial fibrillation in Graves disease?",
+    "a": "Myopathy can occur with increased CK, but USMLE tends to give it in hypothyroidism. Graves can cause atrial fibrillation in younger patients (AF is normally elderly).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: Graves disease can cause atrial flutter, atrial fibrillation and high-output cardiac failure.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448195/"
+    }
+  },
+  {
+    "id": "s2peds-2235",
+    "category": "Thyroid storm",
+    "q": "What is thyroid storm per p148?",
+    "a": "An acute exacerbation of Graves, often precipitated by a stressor such as surgery, trauma or infection, where thyroid hormone production rises enormously, causing hyperthermia, tachycardia and altered mental status.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: thyroid storm needs an acute precipitating factor such as infection.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448095/"
+    }
+  },
+  {
+    "id": "s2peds-2236",
+    "category": "Thyroid storm",
+    "q": "What adrenal complication does p148 link to thyroid storm, and how is it treated?",
+    "a": "Adrenal crisis (acute decrease in blood pressure from rapid cortisol consumption), especially with concurrent adrenal insufficiency on exogenous steroids. Treat the low BP with IV glucocorticoid (hydrocortisone or methylprednisolone).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2peds-2237",
+    "category": "Graves disease",
+    "q": "What is the treatment for general Graves disease per p148?",
+    "a": "Thionamides: propylthiouracil (PTU) and methimazole.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: methimazole and propylthiouracil are the antithyroid drugs available in the USA.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448195/"
+    }
+  },
+  {
+    "id": "s2peds-2238",
+    "category": "Graves disease",
+    "q": "What shared adverse effect do PTU and methimazole have per p148?",
+    "a": "Neutropenia/agranulocytosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls describes PTU and methimazole as the antithyroid drugs. I did not verify agranulocytosis in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448195/"
+    }
+  },
+  {
+    "id": "s2peds-2239",
+    "category": "Graves disease",
+    "q": "What is propranolol used for in hyperthyroidism per p148?",
+    "a": "Tachycardia (beta-blockade, which also inhibits 5-deiodinase).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: a beta-blocker should be started in any suspected thyroid storm.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448095/"
+    }
+  },
+  {
+    "id": "s2peds-2240",
+    "category": "Graves disease",
+    "q": "What treats exophthalmos per p148?",
+    "a": "Oral prednisone, not thionamides.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "Current caution: the ATA/ETA thyroid eye disease consensus says standard glucocorticoid dosing is intravenous methylprednisolone for active moderate-to-severe disease. Thionamides do not treat the eye disease. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9727317/"
+    }
+  },
+  {
+    "id": "s2peds-2241",
+    "category": "Thyroid storm",
+    "q": "What is the USMLE treatment tetrad for thyroid storm per p148?",
+    "a": "PTU, propranolol, steroids and potassium iodide.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: after supportive measures, start a beta-blocker; ATA recommends propylthiouracil for thyroid storm. I did not verify the full tetrad in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448095/"
+    }
+  },
+  {
+    "id": "s2peds-2242",
+    "category": "deQuervain thyroiditis",
+    "q": "What is deQuervain thyroiditis and what is the mechanism per p148?",
+    "a": "Aka subacute granulomatous thyroiditis. A viral infection followed by a painful/tender thyroid. Inflammation increases the spacing between cells, releasing pre-formed thyroid hormone into the blood.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: painful thyroiditis; viral infection is presumed as the cause; neck pain and tenderness with hyperthyroidism then euthyroidism, hypothyroidism and recovery.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526066/"
+    }
+  },
+  {
+    "id": "s2peds-2243",
+    "category": "deQuervain thyroiditis",
+    "q": "What are the labs and uptake in deQuervain thyroiditis per p148?",
+    "a": "Decreased TSH, increased T3 and T4, decreased 131I uptake. The gland is not overproducing hormone, so uptake is not increased.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: hyperthyroid phase of subacute thyroiditis. I did not verify the uptake statement in this chapter.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526066/"
+    }
+  },
+  {
+    "id": "s2peds-2244",
+    "category": "deQuervain thyroiditis",
+    "q": "What is the key detail p148 wants you to know about uptake in subacute granulomatous thyroiditis?",
+    "a": "It can be hypo- or hyperthyroid, but uptake is always decreased, even if the patient is hyperthyroid. Vignettes are almost always hyperthyroid to test this.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: a predictable course of hyperthyroidism followed by euthyroidism, hypothyroidism and recovery.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526066/"
+    }
+  },
+  {
+    "id": "s2peds-2245",
+    "category": "deQuervain thyroiditis",
+    "q": "Which other thyroiditis conditions have decreased uptake per p148, and why might the viral infection go unmentioned?",
+    "a": "All thyroiditis conditions: deQuervain, drug-induced and postpartum. Viral infections are often asymptomatic, so most deQuervain vignettes do not mention one.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2peds-2246",
+    "category": "Factitious thyrotoxicosis",
+    "q": "What is factitious thyrotoxicosis per p148?",
+    "a": "Aka surreptitious thyrotoxicosis. USMLE need not mention the patient is a pharmacist. The patient is hyperthyroid with a small, non-palpable (atrophic) thyroid from suppressed TSH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2peds-2247",
+    "category": "Factitious thyrotoxicosis",
+    "q": "What are the thyroid labs if thyroxine is taken versus triiodothyronine per p148?",
+    "a": "Thyroxine: increased T3, increased T4, decreased TSH. Triiodothyronine: increased T3, decreased T4 (red on the page), decreased TSH. T4 is converted to T3, but T3 is not converted to T4.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2peds-2248",
+    "category": "Thyroglossal duct cyst",
+    "q": "Describe a thyroglossal duct cyst in pediatrics per p148.",
+    "a": "A benign, painless, midline neck mass in a school-age kid from a persistent thyroglossal duct, the embryologic remnant of the thyroid's descent from the base of the tongue to the neck.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    },
+    "guideline": {
+      "text": "StatPearls: midline neck mass near the hyoid bone along the thyroid descent path.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519057/"
+    }
+  },
+  {
+    "id": "s2peds-2249",
+    "category": "Thyroglossal duct cyst",
+    "q": "What question pattern does p148 give for a thyroglossal duct cyst?",
+    "a": "About 2 of 3 questions give a painless midline neck lump that moves upward with swallowing or protrusion of the tongue, due to its attachment to the hyoid bone and/or the base of the tongue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 148,
+      "url": "/mehlman/hy-pediatrics.pdf#page=148"
+    }
   }
 ];

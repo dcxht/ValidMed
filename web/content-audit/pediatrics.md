@@ -731,3 +731,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: Hashimoto lymphoma risk "e.g. primary CNS lymphoma" - thyroid lymphoma sources describe DLBCL and MALT of the thyroid; I did not find a CNS lymphoma link.
 - Left un-noted or flagged unverified: NSAID/thiazide mechanism, lithium 2CK question, PP exam-pattern claims, Hashimoto NBME extras (bradycardia 55-60, transaminitis, HLA statement), uptake scan descriptions, Graves biopsy description.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p148 (Graves end, thyroid storm, deQuervain, factitious thyrotoxicosis, thyroglossal duct cyst) - 16 cards, ids s2peds-2234 to 2249
+- Inspected page pixels. No figures.
+- Notes verified against StatPearls (Graves, Thyroid Storm, De Quervain Thyroiditis, Thyroglossal Duct Cyst) and the ATA/ETA thyroid eye disease consensus.
+- Source conflict, source answer kept with caution note: "oral prednisone treats exophthalmos" - the consensus says standard glucocorticoid dosing is IV methylprednisolone.
+- Left un-noted or flagged unverified: myopathy/AF exam-pattern claims, adrenal crisis in thyroid storm, agranulocytosis with PTU/methimazole, 5-deiodinase, storm tetrad, deQuervain uptake mechanism and exam-pattern claims, factitious thyrotoxicosis details and T3/T4 labs, 2/3 vs half question frequency for thyroglossal cyst.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
