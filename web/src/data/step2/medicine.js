@@ -26628,5 +26628,413 @@ export default [
       "text": "A StatPearls chapter on fetal heart rate tracing is linked; I did not verify the 20 bpm/20 s figures. Source answer stays.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK546627/"
     }
+  },
+  {
+    "id": "s2med-2039",
+    "category": "IM Repro/Obgyn",
+    "q": "NST accelerations tracing per p203?",
+    "a": "Two accelerations on the fetal heart rate tracing (arrows), the reassuring sign of fetal well-being discussed on p202.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    },
+    "img": "/mehlman/figures/med-p203-01.jpg",
+    "imgAlt": "Fetal heart rate tracing with two accelerations marked by arrows"
+  },
+  {
+    "id": "s2med-2040",
+    "category": "IM Repro/Obgyn",
+    "q": "Early decelerations per p203?",
+    "a": "Fetal head compression. The drop in fetal HR coincides with uterine contractions (nadir and contraction peak line up), from increased vagal outflow, partly due to increased vascular resistance from the compression.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    },
+    "img": "/mehlman/figures/med-p203-02.jpg",
+    "imgAlt": "Early, late and variable decelerations relative to uterine contractions"
+  },
+  {
+    "id": "s2med-2041",
+    "category": "IM Repro/Obgyn",
+    "q": "Late decelerations per p203?",
+    "a": "Fetal hypoxia or uteroplacental insufficiency. The bradycardia occurs just after the contraction. The 'bad type.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "The ACOG intrapartum fetal heart rate guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40966736/"
+    }
+  },
+  {
+    "id": "s2med-2042",
+    "category": "IM Repro/Obgyn",
+    "q": "Treatment of late and variable decelerations per p203?",
+    "a": "Stop all oxytocin, give maternal oxygen, position left-lateral decubitus. If these fail, C-section is often performed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    }
+  },
+  {
+    "id": "s2med-2043",
+    "category": "IM Repro/Obgyn",
+    "q": "Fetal scalp pH per p203?",
+    "a": "In theory obtained from a fetal scalp blood sample if decelerations are prolonged. pH under 7.2 suggests acidosis and hypoxia (a stronger threshold than the usual under 7.35 for acidosis) to decide on urgent interventions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "A review on fetal scalp lactate testing is linked; I did not verify the pH threshold.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532205/"
+    }
+  },
+  {
+    "id": "s2med-2044",
+    "category": "IM Repro/Obgyn",
+    "q": "Variable decelerations per p203?",
+    "a": "Umbilical cord compression. Amnioinfusion (sterile saline into the uterine cavity to relieve cord compression) is a USMLE answer alongside the left-lateral, oxygen, stop-oxytocin triad.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "A Cochrane review of amnioinfusion is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7061253/"
+    }
+  },
+  {
+    "id": "s2med-2045",
+    "category": "IM Repro/Obgyn",
+    "q": "Sheehan syndrome: cause per p203?",
+    "a": "The maternal pituitary grows in pregnancy. Traumatic labor (e.g., C-section with big blood loss) raises the risk of anterior pituitary ischemic infarction. Textbook vignette: unable to breastfeed (low milk production) after labor with low BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "StatPearls on Sheehan syndrome is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459166/"
+    }
+  },
+  {
+    "id": "s2med-2046",
+    "category": "IM Repro/Obgyn",
+    "q": "Sheehan syndrome: hormones per p203?",
+    "a": "USMLE wants all anterior pituitary hormones low. NBME wants decreased prolactin, ACTH and TSH, and increased aldosterone. Fatigue reflects low TSH (secondary hypothyroidism).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 203,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=203"
+    },
+    "guideline": {
+      "text": "I did not verify the aldosterone claim; the source itself says it's odd and only a suspicion of the mechanism (low cortisol, low BP, compensatory slight rise). Source answer stays.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459166/"
+    }
+  },
+  {
+    "id": "s2med-2047",
+    "category": "IM Repro/Obgyn",
+    "q": "Amniotic fluid embolism per p204?",
+    "a": "USMLE answer for acute shortness of breath and tachycardia 30 seconds to 2 minutes after delivery of the placenta. Amniotic fluid enters maternal circulation and the pulmonary arterioles; can cause DIC with bleeding from IV lines/catheter sites. Treatment: supportive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    },
+    "guideline": {
+      "text": "A review of amniotic fluid embolism diagnosis and management is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26987420/"
+    }
+  },
+  {
+    "id": "s2med-2048",
+    "category": "IM Repro/Obgyn",
+    "q": "Pulmonary embolism postpartum per p204?",
+    "a": "Acute shortness of breath and tachycardia two days postpartum when the mother gets up to go to the bathroom (presumed DVT from the hospital bed). Treatment: heparin first, followed by CT of the chest (CT angio).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2med-2049",
+    "category": "IM Repro/Obgyn",
+    "q": "PE in pregnancy: imaging per p204?",
+    "a": "V/Q scan before CT, to limit fetal radiation. If V/Q shows segmental perfusion defects and they force a next best step in diagnosis, the answer is still CT chest if listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    },
+    "guideline": {
+      "text": "The ASH 2018 VTE-in-pregnancy guideline is linked; I did not verify its imaging recommendations. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258928/"
+    }
+  },
+  {
+    "id": "s2med-2050",
+    "category": "IM Repro/Obgyn",
+    "q": "Peripartum cardiomyopathy: timing and cause per p204?",
+    "a": "Dilated cardiomyopathy almost always in the 3rd trimester or first months postpartum. Multifactorial; some studies point to an autoantibody-mediated process.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    },
+    "guideline": {
+      "text": "A review of peripartum cardiomyopathy is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11657248/"
+    }
+  },
+  {
+    "id": "s2med-2051",
+    "category": "IM Repro/Obgyn",
+    "q": "Peripartum cardiomyopathy: presentation per p204?",
+    "a": "Gradually worsening exertional dyspnea (LHF at minimum); depending on severity, JVD and significant pitting edema (RHF). Tends to worsen with each subsequent pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2med-2052",
+    "category": "IM Repro/Obgyn",
+    "q": "Peripartum cardiomyopathy: diagnosis and risk per p204?",
+    "a": "Transthoracic echo looking for low ejection fraction (normal 55-70%). It's also the answer for assessing risk in future pregnancies: if the EF is already low, it'll only be worse next time.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    },
+    "guideline": {
+      "text": "A meta-analysis of subsequent pregnancy outcomes is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10989162/"
+    }
+  },
+  {
+    "id": "s2med-2053",
+    "category": "IM Repro/Obgyn",
+    "q": "Normal peripheral edema in pregnancy per p204?",
+    "a": "Common, from increased plasma volume plus the uterus compressing the pelvic veins and IVC, both raising venous hydrostatic pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2med-2054",
+    "category": "IM Repro/Obgyn",
+    "q": "Atelectasis: what is it and why important per p204?",
+    "a": "'Lung collapse' / collapse of alveoli. Most common cause of fever within 24 hours after surgery (pass-level on 2CK). One 2CK Q has atelectasis 2 days after a C-section.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    },
+    "guideline": {
+      "text": "A review asking where the clinical evidence is for atelectasis as a cause of postoperative fever is linked; I did not verify the text. Source answer stays for exam use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21527508/"
+    }
+  },
+  {
+    "id": "s2med-2055",
+    "category": "IM Repro/Obgyn",
+    "q": "Atelectasis: mechanism and findings per p204?",
+    "a": "Pain meds plus sedentation make breathing slower and shallower in bed, collapsing some alveoli (so breathing exercises matter). Bibasilar shadows/opacities on CXR the day after surgery with fever.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2med-2056",
+    "category": "IM Repro/Obgyn",
+    "q": "Obstructive (resorptive) atelectasis per p204?",
+    "a": "Lung distal to an obstruction (e.g., tumor) collapses, raising pneumonia risk distally. 2CK IM: endobronchial obstruction is the answer for distal collapse in lung cancer; 'vascular occlusion by tumor' is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2med-2057",
+    "category": "IM Repro/Obgyn",
+    "q": "Budd-Chiari syndrome in pregnancy per p204 (continues p205)?",
+    "a": "Hepatic vein thrombosis due to the hypercoagulable state of pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 204,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=204"
+    }
+  },
+  {
+    "id": "s2med-2058",
+    "category": "IM Repro/Obgyn",
+    "q": "Budd-Chiari presentation per p205 (continued from p204)?",
+    "a": "Abdominal pain plus hepatomegaly, with or without ascites (hydrostatic backup to the portal vein).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    },
+    "guideline": {
+      "text": "A study on Budd-Chiari during pregnancy is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4592727/"
+    }
+  },
+  {
+    "id": "s2med-2059",
+    "category": "IM Repro/Obgyn",
+    "q": "Why pregnancy is hypercoagulable per p205?",
+    "a": "Placenta makes plasminogen-activator inhibitor (PAI-2), lowering plasmin activity and fibrinolysis; increased estrogen and progesterone raise fibrinogen, clotting factor and vWF synthesis. An evolutionary mechanism to reduce hemorrhage at parturition.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2060",
+    "category": "IM Repro/Obgyn",
+    "q": "Hemorrhoids in pregnancy per p205?",
+    "a": "Bleeding or protrusion from rectal veins; common in the 2nd and 3rd trimesters. Causes: more pelvic blood flow and uterine pressure, progesterone relaxing vein walls, and constipation-related straining.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    },
+    "guideline": {
+      "text": "A review of conservative management of hemorrhoids in pregnancy is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8763308/"
+    }
+  },
+  {
+    "id": "s2med-2061",
+    "category": "IM Repro/Obgyn",
+    "q": "Hemorrhoids in pregnancy: treatment per p205?",
+    "a": "Dietary modifications to prevent constipation, cushions or pillows to relieve pressure when sitting, and avoiding prolonged standing or sitting.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2062",
+    "category": "IM Repro/Obgyn",
+    "q": "PCOS: mechanism per p205?",
+    "a": "High BMI leads to insulin resistance, abnormal GnRH pulsation, increased LH and decreased FSH (an increased LH/FSH ratio; FSH is low, not high).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    },
+    "guideline": {
+      "text": "A paper on the LH:FSH ratio in PCOS is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7520057/"
+    }
+  },
+  {
+    "id": "s2med-2063",
+    "category": "IM Repro/Obgyn",
+    "q": "PCOS: LH and FSH effects per p205?",
+    "a": "LH acts on theca (lutein) cells to make androgens, so high LH gives hirsutism. Low FSH means poor follicular development, so the Graafian follicle fails to rupture and is retained as a follicular cyst.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2064",
+    "category": "IM Repro/Obgyn",
+    "q": "Anovulation per p205?",
+    "a": "Failure of ovulation; exceedingly HY. Irregular periods. Broader than PCOS (also hypothyroidism, Cushing syndrome), but alone usually means the PCOS mechanism: high-BMI female, irregular periods.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2065",
+    "category": "IM Repro/Obgyn",
+    "q": "High-BMI female with irregular periods per p205?",
+    "a": "Anovulation until proven otherwise. Anovulation plus hirsutism = PCOS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2066",
+    "category": "IM Repro/Obgyn",
+    "q": "PCOS ultrasound criteria per p205?",
+    "a": "In practice, 11+ cysts bilaterally (the source cites Amsterdam criteria); USMLE doesn't assess this.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2067",
+    "category": "IM Repro/Obgyn",
+    "q": "Unopposed estrogen in anovulation per p205?",
+    "a": "No corpus luteum, so low progesterone. Progesterone inhibits endometrial growth; estrogen stimulates it. Unopposed estrogen raises risk of endometrial hyperplasia and carcinoma (one of the highest-yield USMLE phrases).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2068",
+    "category": "IM Repro/Obgyn",
+    "q": "High-BMI postmenopausal woman with vaginal bleeding per p205?",
+    "a": "Endometrial biopsy. Overweight implies past anovulatory cycles and hyperplasia, raising endometrial cancer risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2069",
+    "category": "IM Repro/Obgyn",
+    "q": "PCOS and diabetes per p205?",
+    "a": "Insulin resistance underlies PCOS, so higher type II diabetes risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
+  },
+  {
+    "id": "s2med-2070",
+    "category": "IM Repro/Obgyn",
+    "q": "Cushing syndrome versus PCOS per p205?",
+    "a": "Cushing (and hypothyroidism) are HY causes of anovulation. High glucocorticoids cause insulin resistance and anovulation, mimicking PCOS; PCOS is idiopathic with high BMI, not from a known secondary cause.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 205,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=205"
+    }
   }
 ];

@@ -753,3 +753,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p202 (TSS, peripartum bleeding, NST start) - 14 cards, ids s2med-2025 to 2038
 - Unverified: appendix displacement RUQ claim, IUGR abdominal circumference as best measure, placenta previa 37 weeks, NST 20/20 criteria, endometritis regimen details.
 - Mobile QA (320x740, local vite preview build, not live): all 38 cards ox=false off=false bad=0.
+
+## p203 (NST tracing, decelerations, Sheehan) - 8 cards, ids s2med-2039 to 2046
+## p204 (repro-cardio DDx, atelectasis) - 11 cards, ids s2med-2047 to 2057
+## p205 (Budd-Chiari, hemorrhoids, PCOS) - 13 cards, ids s2med-2058 to 2070
+- Unverified: Sheehan aldosterone increase, scalp pH <7.2 threshold, PE imaging sequence vs ASH, atelectasis-fever evidence, PCOS "Amsterdam" cyst criterion.
+- Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
