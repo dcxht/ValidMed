@@ -31,3 +31,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Notes from StatPearls (MVP, Water Hammer Pulse, Aortic Stenosis, Tricuspid Regurgitation), ACC 2020 VHD guideline summary (Part 1), MVP-panic review (title only).
 - Unverified: AR EF <50% replacement cutoff, 4/5 bounding pulse frequency, bicuspid inheritance, AS radiation and pulse wording.
 - Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.
+
+## p10 (IM Cardio: TR cont., rare valve lesions, PDA) - 10 cards, ids s2med-0058 to 0067
+- Inspected page text and the extracted figure (PDA oxygen saturations) natively.
+- Notes from StatPearls (TR, Pulmonary Stenosis) and a PDA closure meta-analysis (PubMed). Unverified: PS murmur location/inspiration, rubella-arthritis history.
+
+## p11 (IM Cardio: PDA drugs, TOF, functional murmurs, PPHN, S3/S4) - 11 cards, ids s2med-0068 to 0078
+- Inspected page text; no figures.
+- Source conflict kept with caution: TOF described as developing Eisenmenger syndrome years later (shunt reversal is Eisenmenger; TOF is RVOT obstruction driven).
+- Notes from StatPearls (TOF, Innocent Murmur, Atrial Myxoma, PPHN), Clinical Methods S3 chapter. Unverified: PGE1 statement, squatting mechanism, rhabdomyoma association, S3 EF cutoffs.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.

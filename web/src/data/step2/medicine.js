@@ -779,5 +779,286 @@ export default [
       "text": "StatPearls: TR may be due to damage from pulmonary hypertension or infective endocarditis.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK526121/"
     }
+  },
+  {
+    "id": "s2med-0058",
+    "category": "IM Cardio",
+    "q": "Pulmonary hypertension and cor pulmonale cause which regurgitation per p10 (continuing from p9)?",
+    "a": "They do not cause pulmonic regurgitation; they cause tricuspid regurgitation. If you see TR in a question, first think pulmonary hypertension or cor pulmonale.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    },
+    "guideline": {
+      "text": "StatPearls: TR can result from damage from pulmonary hypertension or infective endocarditis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526121/"
+    }
+  },
+  {
+    "id": "s2med-0059",
+    "category": "IM Cardio",
+    "q": "IV drug user endocarditis and carcinoid as causes of TR per p10?",
+    "a": "IV drug user endocarditis is an obvious risk factor for TR but weirdly nonexistent on USMLE. Carcinoid syndrome is a theoretical cause but lower yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2med-0060",
+    "category": "IM Cardio",
+    "q": "Tricuspid stenosis per p10?",
+    "a": "Nonexistent murmur on USMLE (never assessed on any NBME for Steps 1 and 2). In theory a rumbling diastolic murmur like mitral stenosis, increasing with inspiration since it is right-sided.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2med-0061",
+    "category": "IM Cardio",
+    "q": "Pulmonic regurgitation per p10?",
+    "a": "Nonexistent on USMLE. In theory the same as aortic regurgitation on the right (holodiastolic murmur), increasing with inspiration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2med-0062",
+    "category": "IM Cardio",
+    "q": "Pulmonic stenosis murmur per p10?",
+    "a": "Seen in tetralogy of Fallot; mid-systolic (just systolic) murmur that increases with inspiration at the left sternal border, 2nd intercostal space (theoretical location; AS is the right 2nd intercostal space, but USMLE is often not strict).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    },
+    "guideline": {
+      "text": "StatPearls: pulmonary stenosis occurs in isolation or more commonly with other congenital defects such as tetralogy of Fallot; P2 ranges from normal to increased. I did not verify the location or inspiration wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560750/"
+    }
+  },
+  {
+    "id": "s2med-0063",
+    "category": "IM Cardio",
+    "q": "What is the ductus arteriosus and what happens after birth per p10?",
+    "a": "A fetal vessel connecting the proximal pulmonary trunk to the descending aortic arch so blood bypasses the high-resistance lungs. After birth it should close to the ligamentum arteriosum; if it does not, PDA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2med-0064",
+    "category": "IM Cardio",
+    "q": "Direction of flow in a PDA per p10?",
+    "a": "Left to right in the neonate (opposite of in utero): from the descending aorta to the pulmonary trunk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2med-0065",
+    "category": "IM Cardio",
+    "q": "Chamber oxygen figure per p10: RV 73%, pulmonary artery 85%. Which defect?",
+    "a": "PDA: oxygenated blood moves L to R from the aorta to the pulmonary artery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    },
+    "img": "/mehlman/figures/med-p010-01.jpg",
+    "imgAlt": "Source figure p10: SVC 73, RA 73, RV 73, PA 85, pulmonary veins 99, LA 96, LV 96, aorta 96"
+  },
+  {
+    "id": "s2med-0066",
+    "category": "IM Cardio",
+    "q": "PDA murmur descriptions on USMLE per p10?",
+    "a": "Continuous machinery-like; pan-systolic pan-diastolic (continuous through both); and to-and-fro (appeared on 2CK offline NBME 6).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2med-0067",
+    "category": "IM Cardio",
+    "q": "PDA association and maternal history per p10?",
+    "a": "Classically associated with congenital rubella (high yield). For a kid born with PDA, the mother experienced arthritis and/or rash (rubella often presents as arthritis in adults).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 10,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=10"
+    }
+  },
+  {
+    "id": "s2med-0068",
+    "category": "IM Cardio",
+    "q": "Drug to close a PDA and drug to keep it open per p11?",
+    "a": "Indomethacin (NSAID) closes the PDA; prostaglandin E1 keeps it open (cyanotic congenital heart malformation, to buy time until surgery).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "Meta-analysis of indomethacin, ibuprofen and acetaminophen for PDA closure in preterm infants; ibuprofen is also used. I did not verify the PGE1 statement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29584842/"
+    }
+  },
+  {
+    "id": "s2med-0069",
+    "category": "IM Cardio",
+    "q": "Open PDA masking cyanosis per p11, and a week-old cyanotic baby with normal APGARs?",
+    "a": "An open PDA can mask cyanosis in conditions such as hypoplastic left heart syndrome or pre-ductal coarctation. A kid with normal APGARs who becomes cyanotic a week later: closure of the ductus arteriosus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    }
+  },
+  {
+    "id": "s2med-0070",
+    "category": "IM Cardio",
+    "q": "Four components of tetralogy of Fallot and the prognosis determinant per p11?",
+    "a": "1) Pulmonic stenosis; 2) RVH; 3) overriding aorta; 4) VSD. Prognosis is determined by the degree of pulmonic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "StatPearls: shunting toward the aorta bypasses the pulmonary bed, causing cyanosis; severity of RVOT obstruction determines presentation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513288/"
+    }
+  },
+  {
+    "id": "s2med-0071",
+    "category": "IM Cardio",
+    "q": "Tetralogy of Fallot cyanosis timeline per p11?",
+    "a": "The child is not cyanotic at birth, and years later develops Eisenmenger syndrome (reversal of the L to R shunt over the VSD) and cyanosis; the stem gives a school-age kid who squats on the playground.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "Current caution: Eisenmenger syndrome describes shunt reversal from pulmonary vascular disease in an unrepaired left-to-right shunt, not the mechanism of tetralogy of Fallot, where RVOT obstruction drives the right-to-left shunt. StatPearls also describes sudden hypoxic (tet) spells. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513288/"
+    }
+  },
+  {
+    "id": "s2med-0072",
+    "category": "IM Cardio",
+    "q": "Why does squatting relieve symptoms in tetralogy of Fallot per p11?",
+    "a": "Squatting increases afterload, which increases LV pressure and decreases the pressure gradient of the R to L shunt, mitigating cyanosis. It also increases preload by increasing venous return, but the afterload effect is most related to symptom relief.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "StatPearls describes tet spells; I did not verify the squatting mechanism in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513288/"
+    }
+  },
+  {
+    "id": "s2med-0073",
+    "category": "IM Cardio",
+    "q": "Treatment of tetralogy of Fallot per p11?",
+    "a": "Surgical correction in infancy or early childhood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "StatPearls: primary surgical repair can be performed within the first few months of life.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513288/"
+    }
+  },
+  {
+    "id": "s2med-0074",
+    "category": "IM Cardio",
+    "q": "Functional (flow) murmur per p11?",
+    "a": "Systolic murmur with a higher heart rate from infection, anemia or pregnancy, due to increased flow across the pulmonic and/or aortic valves; goes away when the heart rate comes down. Seen all over 2CK for kids with a simple viral infection. With ASD, fixed S2 splitting plus a systolic murmur reflects higher right-sided volume across the pulmonic valve.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "StatPearls: a flow murmur can be present with a widely fixed split S2 (ASD).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507849/"
+    }
+  },
+  {
+    "id": "s2med-0075",
+    "category": "IM Cardio",
+    "q": "Venous hum per p11?",
+    "a": "A murmur in the neck that abates when the kid is laid supine with the neck rotated; benign, do not treat.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "StatPearls: venous hum is heard sitting up and usually disappears supine.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507849/"
+    }
+  },
+  {
+    "id": "s2med-0076",
+    "category": "IM Cardio",
+    "q": "Ball-in-valve murmur per p11?",
+    "a": "Diastolic rumbling murmur that abates when the patient is repositioned (e.g., onto the right side); associated with cardiac tumors (myxoma in adults; rhabdomyoma in kids with tuberous sclerosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "StatPearls: atrial myxoma findings fluctuate with body position and may include a diastolic murmur or tumor plop. I did not verify rhabdomyoma.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556040/"
+    }
+  },
+  {
+    "id": "s2med-0077",
+    "category": "IM Cardio",
+    "q": "Post-term neonate (42-43 weeks) with meconium-stained fluid and an echo showing R to L shunt across the foramen ovale per p11?",
+    "a": "Persistent fetal circulation (persistent pulmonary hypertension): the answer is failure of pulmonary vasodilation. Meconium aspiration can decrease opening of the lung vasculature, increasing right heart pressure and risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "StatPearls: PPHN has low circulating vasodilators such as nitric oxide and prostaglandins; meconium aspiration is associated. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK585100/"
+    }
+  },
+  {
+    "id": "s2med-0078",
+    "category": "IM Cardio",
+    "q": "S3 versus S4 per p11: both diastolic; mechanism and causes of S3?",
+    "a": "S3 is due to high volume/preload in the left ventricle causing a reverberation against the wall. It can be physiologic in pregnancy and high-endurance athletes (eccentric hypertrophy); pathologic S3 is due to dilated cardiomyopathy with reduced EF (<55%) or high-output cardiac failure (EF >70%).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 11,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=11"
+    },
+    "guideline": {
+      "text": "Clinical Methods chapter: the explanation for physiologic S3 is unknown. I did not verify the EF cutoffs.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK342/"
+    }
   }
 ];
