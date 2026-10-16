@@ -227,3 +227,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures). Page ends mid-list (outpatient management) and continues on p52.
 - Unverified: all asthma mechanism and respiratory-failure terminology (source's own framing).
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p52 (IM Pulmonary: asthma Tx, bronchiectasis) - 10 cards, ids s2med-0499 to 0508
+- Inspected page text and figure (bronchiectasis CT).
+- Conflict: asthma stepwise order is older (SABA first); GINA 2024 prefers ICS-formoterol reliever; "asthma does not cause bronchiectasis" disputed (ABPA). Unverified: text of NAEPP/GINA/registry papers.
+
+## p53 (IM Pulmonary: atelectasis, OSA, anaphylaxis) - 10 cards, ids s2med-0509 to 0518
+- Inspected page text (no figures). Page ends at the start of scombroid; continues on p54.
+- Conflict: atelectasis as most common cause of postop fever (paper titles say evidence lacking; text not verified). Unverified: VIT IgG detail.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

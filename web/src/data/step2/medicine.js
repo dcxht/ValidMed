@@ -6466,5 +6466,259 @@ export default [
       "page": 51,
       "url": "/mehlman/hy-internal-medicine.pdf#page=51"
     }
+  },
+  {
+    "id": "s2med-0499",
+    "category": "IM Pulmonary",
+    "q": "Asthma outpatient step 2 per p51-52?",
+    "a": "If episodes are weekly, or the question asks what decreases the risk of future episodes in a patient already on albuterol: inhaled corticosteroid (ICS, e.g., fluticasone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    },
+    "guideline": {
+      "text": "This is the source's stepwise order. GINA 2024 (summary guide) and the 2020 NAEPP focused update both moved away from SABA-only as the routine approach (GINA: ICS-formoterol reliever); I did not verify their text. For exam answers keep the source's order.",
+      "url": "https://ginasthma.org/wp-content/uploads/2024/12/GINA-Summary-Guide-2024-WEB-WMS.pdf"
+    }
+  },
+  {
+    "id": "s2med-0500",
+    "category": "IM Pulmonary",
+    "q": "Next steps if albuterol + ICS is insufficient per p52?",
+    "a": "3) Increase the dose of the ICS. 4) Add a LABA (e.g., salmeterol). 5) Try agents such as mast cell stabilizers or leukotriene blockers; leukotriene blockers can be especially effective with aspirin allergy history. 6) Last resort outpatient: oral prednisone, most effective at decreasing recurrence but avoided because of Cushing syndrome risk and decreased linear bone growth in children.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    },
+    "guideline": {
+      "text": "The 2020 NAEPP focused update is a current reference for stepwise therapy; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7924476/"
+    }
+  },
+  {
+    "id": "s2med-0501",
+    "category": "IM Pulmonary",
+    "q": "Acute management of severe asthma attack per p52?",
+    "a": "Nebulized albuterol, oxygen and IV methylprednisolone. Inhaled corticosteroids have no role in acute asthma management.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2med-0502",
+    "category": "IM Pulmonary",
+    "q": "Asthma admission discharge per p52?",
+    "a": "Any asthma patient hospitalized for an acute episode must automatically be given ICS (e.g., fluticasone) at discharge if not already on one. The NBME stem does not mention albuterol; inhaled fluticasone is the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2med-0503",
+    "category": "IM Pulmonary",
+    "q": "Asthma with 2+ episodes weekly and no medication per p52?",
+    "a": "Answer: inhaled fluticasone + albuterol. Any patient with 2+ episodes per week needs ICS in addition to albuterol and can start dual therapy right away (the source notes the answer lists the ICS before albuterol).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2med-0504",
+    "category": "IM Pulmonary",
+    "q": "Bronchiectasis definition and CT per p52 (figure)?",
+    "a": "Dilation of the airways (ectasia = dilation) due to 'loss of musculature of the airways' (source wording). Transverse CT shows cystic dilation of the airways.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    },
+    "img": "/mehlman/figures/med-p052-01.jpg",
+    "imgAlt": "Source figure p52: chest CT with cystic bronchial dilation in the right lung"
+  },
+  {
+    "id": "s2med-0505",
+    "category": "IM Pulmonary",
+    "q": "Causes of bronchiectasis per p52?",
+    "a": "Most common cause worldwide is TB; most common in western countries is CF; but on USMLE it will usually be a smoker. The source says asthma does not cause bronchiectasis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    },
+    "guideline": {
+      "text": "A global registry review of bronchiectasis etiology and StatPearls are references; I did not verify them. Caution: causes in registries vary by region, and allergic bronchopulmonary aspergillosis occurs in asthma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10532132/"
+    }
+  },
+  {
+    "id": "s2med-0506",
+    "category": "IM Pulmonary",
+    "q": "Sputum in bronchiectasis per p52?",
+    "a": "Almost always 'cups and cups of foul-smelling sputum'. Foul-smelling means anaerobes such as Bacteroides.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2med-0507",
+    "category": "IM Pulmonary",
+    "q": "Atypical bronchiectasis question per p52?",
+    "a": "One 2CK form gives bronchiectasis as the answer in a child with right middle lobe syndrome, scant white sputum (not cups and cups) and a thin, linear opacity in the right middle lobe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2med-0508",
+    "category": "IM Pulmonary",
+    "q": "Clubbing in bronchiectasis per p52?",
+    "a": "Tends to be seen; not mandatory, but the source observes USMLE likes it for bronchiectasis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 52,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2med-0509",
+    "category": "IM Pulmonary",
+    "q": "Atelectasis and postoperative fever per p53?",
+    "a": "Atelectasis means lung collapse or collapse of alveoli. Highest yield: the source says it is the most common cause of fever within 24 hours after surgery. One 2CK question has a woman 2 days after C-section with atelectasis as the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    },
+    "guideline": {
+      "text": "Current evidence disagrees: a 2024 review is titled 'Debunking a mythology: Atelectasis is not a cause of postoperative fever' and a 2011 review asked 'where is the clinical evidence?'. Keep the source answer for NBME-style questions; I did not verify the text of either paper.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39566396/"
+    }
+  },
+  {
+    "id": "s2med-0510",
+    "category": "IM Pulmonary",
+    "q": "Mechanism and presentation of postoperative atelectasis per p53?",
+    "a": "Pain medication + sedation make breathing slower and shallower in a hospital bed, collapsing some alveoli; breathing exercises matter after surgery. Often bibasilar shadows/opacities: surgery yesterday, fever, mild opacity at lung bases = atelectasis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    },
+    "guideline": {
+      "text": "See the evidence caution on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21527508/"
+    }
+  },
+  {
+    "id": "s2med-0511",
+    "category": "IM Pulmonary",
+    "q": "Obstructive (resorptive) atelectasis per p53?",
+    "a": "Area of lung distal to an obstruction (e.g., tumor) collapses, increasing the chance of pneumonia distal to the obstruction. A 2CK IM form has 'endobronchial obstruction' as the answer in a lung cancer patient; 'vascular occlusion by tumor' is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2med-0512",
+    "category": "IM Pulmonary",
+    "q": "Obstructive sleep apnea: acid-base and cor pulmonale per p53?",
+    "a": "Can be obstructive (usually obesity) or central (brain-related). Chronic respiratory acidosis: increased CO2 and bicarb, pH normal or low. Cor pulmonale can occur from pulmonary hypertension via hypoxic vasoconstriction: JVD or peripheral edema. RBBB, right-axis deviation on ECG and wide splitting of S2 mean RVH. With only pulmonary hypertension: loud P2 or tricuspid regurgitation (holosystolic murmur increasing with inspiration).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2med-0513",
+    "category": "IM Pulmonary",
+    "q": "Psychiatric consequence and diagnosis of OSA per p53?",
+    "a": "Chronic fatigue and poor oxygenation can lead to dysthymia/depression; the NBME answer is 'mood disorder due to a medical condition'. Polysomnography (sleep study) is the diagnostic test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2med-0514",
+    "category": "IM Pulmonary",
+    "q": "Anaphylaxis vignette per p53?",
+    "a": "Acute dyspnea and bilateral wheezes in a patient gardening (bee sting), who ate a food (e.g., peanuts) or who recently started a drug (e.g., TMP/SMX). Often tachycardia and low BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2med-0515",
+    "category": "IM Pulmonary",
+    "q": "Anaphylaxis mechanism and hemodynamics per p53?",
+    "a": "IgE crosslinking on mast cells and basophils leads to degranulation and histamine + prostaglandin release; eosinophils can be recruited. USMLE wants decreased vascular resistance, increased CO, decreased/normal PCWP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2med-0516",
+    "category": "IM Pulmonary",
+    "q": "Anaphylaxis treatment per p53?",
+    "a": "Intramuscular epinephrine: beta-2 effect opens the airways; alpha-1 effect constricts arterioles and restores BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    },
+    "guideline": {
+      "text": "A 2020 clinical practice guideline on emergency management of anaphylaxis is a current reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8996305/"
+    }
+  },
+  {
+    "id": "s2med-0517",
+    "category": "IM Pulmonary",
+    "q": "Preventing recurrence of venom anaphylaxis per p53?",
+    "a": "In addition to self-injectable epinephrine: venom immunotherapy (VIT), which desensitizes the patient by letting him/her develop neutralizing IgG antibodies against the antigen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    },
+    "guideline": {
+      "text": "A review of immune mechanisms of hymenoptera VIT exists; I did not verify the IgG detail.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8306808/"
+    }
+  },
+  {
+    "id": "s2med-0518",
+    "category": "IM Pulmonary",
+    "q": "Scombroid per p53 (continues p54)?",
+    "a": "Often misdiagnosed as seafood allergy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 53,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=53"
+    },
+    "guideline": {
+      "text": "A StatPearls/PMC review is a reference; the page ends here and the explanation continues on p54.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9128715/"
+    }
   }
 ];
