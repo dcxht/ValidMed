@@ -4,7 +4,7 @@ const ROTATIONS = [
   { name: "Psychiatry", bank: "s2psy", pdf: "hy-psych", title: "HY Psych" },
   { name: "Neurology", bank: "s2neuro", pdf: "hy-neuro", title: "HY Neuro" },
   { name: "Pediatrics", bank: "s2peds", pdf: "hy-pediatrics", title: "HY Pediatrics" },
-  { name: "Medicine", pdf: "hy-internal-medicine", title: "HY Internal Medicine" },
+  { name: "Medicine", bank: "s2med", pdf: "hy-internal-medicine", title: "HY Internal Medicine" },
   { name: "Surgery", pdf: "hy-surgery", title: "HY Surgery" },
   { name: "OB/GYN", pdf: "hy-obgyn-repro", title: "HY Obgyn/Repro" },
 ];
