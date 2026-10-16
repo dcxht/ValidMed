@@ -458,5 +458,326 @@ export default [
       "page": 7,
       "url": "/mehlman/hy-internal-medicine.pdf#page=7"
     }
+  },
+  {
+    "id": "s2med-0035",
+    "category": "IM Cardio",
+    "q": "Mitral regurgitation causes and JVD per p8 (continuing from p7)?",
+    "a": "Can be caused by general ischemia or dilated cardiomyopathy. Can cause JVD (back up all the way to the right heart); asked multiple times on the new NBMEs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2med-0036",
+    "category": "IM Cardio",
+    "q": "Smoker with mere mitral regurgitation, no dyspnea or chest pain on exertion. Preoperative stress test per p8?",
+    "a": "No further management indicated; an exercise stress test is wrong. Do a pre-op stress test only if the patient has symptoms of heart failure or ischemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2med-0037",
+    "category": "IM Cardio",
+    "q": "When is the mitral valve replaced for MR per p8?",
+    "a": "Severe pulmonary symptoms (shortness of breath or reduced exercise tolerance), reduced ejection fraction, arrhythmia, or endocarditis if valve function is destroyed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2med-0038",
+    "category": "IM Cardio",
+    "q": "Mitral stenosis murmur per p8?",
+    "a": "Rumbling diastolic murmur with an opening snap, also described as decrescendo mid-late diastolic murmur following the opening snap. Can cause a right-sided S4 if pressure backs up to the right heart (S4 is a diastolic sound in either ventricle with diastolic stiffening).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2med-0039",
+    "category": "IM Cardio",
+    "q": "Cause of mitral stenosis per p8?",
+    "a": "99% due to history of rheumatic heart disease (MR at the time, MS years later).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    },
+    "guideline": {
+      "text": "StatPearls: the most common cause of mitral stenosis is rheumatic fever, presenting 20 to 40 years after the episode. 99% is the source's estimate; I did not verify it.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430742/"
+    }
+  },
+  {
+    "id": "s2med-0040",
+    "category": "IM Cardio",
+    "q": "Rheumatic history with a 4/6 rumbling diastolic murmur and no opening snap per p8?",
+    "a": "Still mitral stenosis; the opening snap is buzzy for MS but not mandatory.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    }
+  },
+  {
+    "id": "s2med-0041",
+    "category": "IM Cardio",
+    "q": "Pregnant woman with new dyspnea in the 2nd trimester and a diastolic murmur per p8?",
+    "a": "Mitral stenosis becomes symptomatic from the 50% rise in plasma volume by the 2nd trimester. Do not confuse with severe dyspnea and edema in the late third trimester, which is peripartum cardiomyopathy (antibody-mediated).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    },
+    "guideline": {
+      "text": "Review of severe MS during pregnancy exists in Circulation; I did not verify the 50% volume figure or the peripartum cardiomyopathy mechanism.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430742/"
+    }
+  },
+  {
+    "id": "s2med-0042",
+    "category": "IM Cardio",
+    "q": "Non-rheumatic mitral stenosis and verrucous vegetations per p8?",
+    "a": "The 1% of MS not due to rheumatic fever can be marantic (nonbacterial thrombotic endocarditis, NBTE) from a hypercoagulable state with malignancy; small verrucous vegetations on both sides of the valve, in contrast to the large floppy vegetations of bacterial endocarditis that cause MR, not MS. Libman-Sacks in SLE is due to antiphospholipid antibodies and is a type of NBTE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    },
+    "guideline": {
+      "text": "StatPearls: NBTE is frequently associated with a hypercoagulable state; Libman-Sacks is linked to SLE and antiphospholipid syndrome and is described as verrucous endocarditis. I did not verify MS as the consequence.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532864/"
+    }
+  },
+  {
+    "id": "s2med-0043",
+    "category": "IM Cardio",
+    "q": "First-line treatment of mitral stenosis per p8?",
+    "a": "Balloon valvuloplasty, if minimal calcification of the valve plus pulmonary hypertension. Valve replacement if valvuloplasty fails, or severe MS with dyspnea, arrhythmia or calcification.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    },
+    "guideline": {
+      "text": "Current caution: the 2020 ACC/AHA guideline recommends percutaneous mitral balloon commissurotomy for symptomatic severe rheumatic MS with favorable valve morphology (Class 1), without a pulmonary hypertension requirement. Source answer kept.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/22/00/2020-acc-aha-vhd-gl-pt-2-gl-vhd"
+    }
+  },
+  {
+    "id": "s2med-0044",
+    "category": "IM Cardio",
+    "q": "Mitral valve prolapse per p8: murmur and meaning of 'myxomatous degeneration'?",
+    "a": "Most common murmur, mid-systolic click. Myxomatous degeneration is connective tissue degeneration causing MVP in Marfan and Ehlers-Danlos.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    },
+    "guideline": {
+      "text": "StatPearls: MVP is also called systolic click-murmur syndrome. I did not verify 'most common murmur' or the Marfan and EDS link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470288/"
+    }
+  },
+  {
+    "id": "s2med-0045",
+    "category": "IM Cardio",
+    "q": "Mitral valve prolapse syndrome per p8 (2CK)?",
+    "a": "Symptomatic MVP: repeated episodes of fleeting left-sided chest pain in an otherwise healthy patient in their 20s-30s, even with family history of MI. Answer on NBME is no treatment necessary.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 8,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=8"
+    },
+    "guideline": {
+      "text": "StatPearls: most patients with MVP remain asymptomatic with near-normal life expectancy. I did not verify the NBME wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470288/"
+    }
+  },
+  {
+    "id": "s2med-0046",
+    "category": "IM Cardio",
+    "q": "Panic attack paragraph with a mid-systolic click: what is the cause per p9?",
+    "a": "Panic disorder, not MVP; MVP is usually incidental, benign and asymptomatic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "A review questions whether MVP and panic disorder are really associated; I did not verify its conclusions beyond the title.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2249820/"
+    }
+  },
+  {
+    "id": "s2med-0047",
+    "category": "IM Cardio",
+    "q": "Does MVP progress to MR per p9?",
+    "a": "Almost never; do not think MVP and MR are the same.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: a small proportion of those with MVP progress to severe mitral regurgitation. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470288/"
+    }
+  },
+  {
+    "id": "s2med-0048",
+    "category": "IM Cardio",
+    "q": "Aortic regurgitation murmur and pulse per p9?",
+    "a": "Decrescendo holodiastolic (pan-diastolic) murmur, also called early diastolic murmur or diastolic murmur loudest after S2. Wide pulse pressure (e.g., 160/50 or 120/40) causing head-bobbing and bounding pulses (not the slow-rising pulses of aortic stenosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: water hammer pulse is a bounding, forceful pulse with rapid upstroke and descent, most commonly associated with aortic regurgitation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526118/"
+    }
+  },
+  {
+    "id": "s2med-0049",
+    "category": "IM Cardio",
+    "q": "Bounding pulses per p9: how often is it AR and what else causes it?",
+    "a": "About 4 out of 5 times AR; the other 1 in 5 is PDA or AV fistulae. Blood quickly leaves the arterial circulation: back into the LV in AR, into the ductus in PDA, into a vein in AV fistulae. NBME wording: brisk upstroke with precipitous downstroke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: water hammer pulse is associated with hyperdynamic states or cardiac lesions, most commonly aortic regurgitation. The 4/5 frequency is the source's estimate.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526118/"
+    }
+  },
+  {
+    "id": "s2med-0050",
+    "category": "IM Cardio",
+    "q": "Highest yield cause of AR on USMLE per p9?",
+    "a": "Aortic dissection propagating retrograde to the aortic root, causing root dilatation and AR. AR is second most common in Marfan and EDS after MVP, because of dissection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    }
+  },
+  {
+    "id": "s2med-0051",
+    "category": "IM Cardio",
+    "q": "Left ventricular consequence of AR per p9, and when is the valve replaced?",
+    "a": "Volume overload and eccentric hypertrophy. Replace the valve if EF <50%, significant LV dilatation, or severe endocarditis obliterating the valve.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "Current caution: I did not verify the EF <50% cutoff against the 2020 ACC/AHA guideline, which uses symptom status and LV function and dimensions. Source answer kept.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/21/58/2020-acc-aha-vhd-gl-pt-1-gl-vhd"
+    }
+  },
+  {
+    "id": "s2med-0052",
+    "category": "IM Cardio",
+    "q": "Aortic stenosis murmur per p9?",
+    "a": "Mid-systolic (or just systolic) murmur, also late-peaking systolic murmur with an ejection click; radiates to the carotids (far more often on NBME than MR radiating to the axilla); causes slow-rising pulses (pulsus parvus et tardus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: AS etiologies include congenital (bicuspid/unicuspid), calcific and rheumatic; symptoms include chest pain, heart failure and syncope. I did not verify the radiation or pulse wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557628/"
+    }
+  },
+  {
+    "id": "s2med-0053",
+    "category": "IM Cardio",
+    "q": "Classic symptom triad of aortic stenosis per p9?",
+    "a": "SAD: Syncope, Angina, Dyspnea (not mandatory). A systolic murmur with chest pain or fainting is AS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: patients go on to develop chest pain, heart failure and syncope.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557628/"
+    }
+  },
+  {
+    "id": "s2med-0054",
+    "category": "IM Cardio",
+    "q": "Cause of aortic stenosis and inheritance of bicuspid valve per p9?",
+    "a": "Often a bicuspid aortic valve. The patient need not have Turner syndrome; bicuspid valve is usually inherited as autosomal dominant. It need not calcify in middle age and can present with an AS murmur in a child or high schooler.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: congenital bicuspid is a major etiology. I did not verify the inheritance claim.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557628/"
+    }
+  },
+  {
+    "id": "s2med-0055",
+    "category": "IM Cardio",
+    "q": "When is aortic valve replacement done on 2CK per p9?",
+    "a": "Cross-sectional valve area <1.0 cm2, or SAD symptoms (asked as separate questions).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "Current caution: the 2020 ACC/AHA guideline defines severe high-gradient AS as Vmax 4 m/s or more, mean gradient 40 mmHg or more, and AVA 1.0 cm2 or less, and intervention is based on symptoms and LVEF below 50% or other criteria. Source answer kept.",
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/21/58/2020-acc-aha-vhd-gl-pt-1-gl-vhd"
+    }
+  },
+  {
+    "id": "s2med-0056",
+    "category": "IM Cardio",
+    "q": "Tricuspid regurgitation murmur per p9 and why it varies with breathing?",
+    "a": "Holosystolic murmur that increases with inspiration. Right-sided murmurs worsen with inspiration: diaphragm moves down, intrathoracic pressure decreases, right heart filling increases. Can cause a pulsatile liver.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: during inspiration the severity of tricuspid regurgitation increases.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526121/"
+    }
+  },
+  {
+    "id": "s2med-0057",
+    "category": "IM Cardio",
+    "q": "Highest yield cause of TR on USMLE per p9?",
+    "a": "Pulmonary hypertension / cor pulmonale (seen all over the NBME exams).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 9,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=9"
+    },
+    "guideline": {
+      "text": "StatPearls: TR may be due to damage from pulmonary hypertension or infective endocarditis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526121/"
+    }
   }
 ];
