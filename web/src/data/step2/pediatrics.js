@@ -25902,5 +25902,337 @@ export default [
       "page": 119,
       "url": "/mehlman/hy-pediatrics.pdf#page=119"
     }
+  },
+  {
+    "id": "s2peds-1814",
+    "category": "Tricyclic antidepressant overdose",
+    "q": "What example and toxicity triad does p120 give for TCAs?",
+    "a": "Example: amitriptyline. Toxicity is the CCCs: coma, convulsions, cardiotoxicity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: TCA poisoning causes cardiovascular, anticholinergic and neurologic toxicity, including seizures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430931/"
+    }
+  },
+  {
+    "id": "s2peds-1815",
+    "category": "Tricyclic antidepressant overdose",
+    "q": "How does p120 say the USMLE presents TCA overdose with ECG changes?",
+    "a": "A big vague paragraph about a drug overdose where the last line says QT is prolonged. The answer is the TCA, because of its cardiotoxicity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: TCA toxicity includes dangerous cardiac dysrhythmias; QRS widening is the classic monitored ECG sign, with QT prolongation also seen.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430931/"
+    }
+  },
+  {
+    "id": "s2peds-1816",
+    "category": "Tricyclic antidepressant overdose",
+    "q": "What anticholinergic picture does p120 give for TCA overdose?",
+    "a": "Anticholinergic effects: delirium plus a hot, red, dry patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: anticholinergic toxicity commonly causes sinus tachycardia in TCA overdose.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430931/"
+    }
+  },
+  {
+    "id": "s2peds-1817",
+    "category": "SSRIs",
+    "q": "Which drugs does p120 list as SSRIs, and what side effects?",
+    "a": "Fluoxetine, escitalopram, sertraline and others. They cause sexual dysfunction (anorgasmia) and sleep disturbance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: anxiety, insomnia and sexual dysfunction (delayed ejaculation, decreased desire, anorgasmia) need regular assessment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554406/"
+    }
+  },
+  {
+    "id": "s2peds-1818",
+    "category": "SSRIs",
+    "q": "What does p120 say anorgasmia makes SSRIs useful for?",
+    "a": "Treatment of premature ejaculation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls lists premature ejaculation among off-label SSRI uses.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554406/"
+    }
+  },
+  {
+    "id": "s2peds-1819",
+    "category": "SSRIs",
+    "q": "Which interactions does p120 warn about with SSRIs?",
+    "a": "Do not combine with monoamine oxidase inhibitors or St John wort, because this can cause serotonin syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2peds-1820",
+    "category": "SSRIs",
+    "q": "What SSRI-specific side effects does p120 list, and how does it rate their exam value?",
+    "a": "Sertraline is more likely to cause diarrhea; fluoxetine is stimulating and more likely to cause insomnia; citalopram can prolong the QT interval at higher doses. The source says the USMLE does not test these.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: citalopram correlates with longer QT duration than other SSRIs; ECG monitoring is an option with cardiac risk factors.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554406/"
+    }
+  },
+  {
+    "id": "s2peds-1821",
+    "category": "SSRIs",
+    "q": "What non-depression uses does p120 give for SSRIs?",
+    "a": "A variety of psychiatric conditions beyond depression, for example fibromyalgia and OCD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls lists off-label uses including binge eating disorder, body dysmorphic disorder, fibromyalgia and premature ejaculation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554406/"
+    }
+  },
+  {
+    "id": "s2peds-1822",
+    "category": "SSRIs",
+    "q": "How long does an SSRI take to work on p120, and what is the stepwise plan if it fails?",
+    "a": "4-6 weeks. If it is not working after that, first increase the dose; if that fails, switch to a different SSRI; then switch to a different class.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: effects may take up to 6 weeks; consider a dose increase after several weeks if the current dose is tolerated. Guideline-based switching sequences vary by patient.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554406/"
+    }
+  },
+  {
+    "id": "s2peds-1823",
+    "category": "SNRIs",
+    "q": "Which drugs does p120 list as SNRIs, and what do they block?",
+    "a": "Desvenlafaxine, duloxetine and others. They block reuptake of both serotonin and norepinephrine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2peds-1824",
+    "category": "SNRIs",
+    "q": "What blood-pressure effect does p120 give for SNRIs?",
+    "a": "They can increase blood pressure at higher doses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "Review of antidepressant effects on blood pressure (PMC8370473) covers the blood-pressure effects of SNRIs such as venlafaxine and duloxetine.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8370473/"
+    }
+  },
+  {
+    "id": "s2peds-1825",
+    "category": "Tricyclic antidepressants",
+    "q": "Which drugs does p120 list as TCAs, and what neuropathic pain use?",
+    "a": "Amitriptyline, nortriptyline, clomipramine, doxepin and others. They can be used for neuropathic pain (for example from trauma); gabapentin is also frequently used.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls Amitriptyline: describes pain use and strong anticholinergic effects.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537225/"
+    }
+  },
+  {
+    "id": "s2peds-1826",
+    "category": "Tricyclic antidepressants",
+    "q": "What side effects and toxicity does p120 give for TCAs?",
+    "a": "Nasty anticholinergic side effects (anti-DUMBBELSS; see HY Neuro PDF). Toxicity is coma, convulsions and cardiotoxicity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: anticholinergic side effects include blurred vision, dry mouth, urinary retention, tachycardia, glaucoma, confusion and delirium; the Beers criteria advise avoiding amitriptyline in the elderly.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537225/"
+    }
+  },
+  {
+    "id": "s2peds-1827",
+    "category": "Tricyclic antidepressants",
+    "q": "What does p120 say if the question only mentions prolonged QT in a patient on an antidepressant?",
+    "a": "The answer is the TCA, since TCAs are cardiotoxic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2peds-1828",
+    "category": "Tricyclic antidepressants",
+    "q": "What does p120 say about imipramine for nocturnal enuresis?",
+    "a": "TCAs such as imipramine for nocturnal enuresis are wrong on the USMLE.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2peds-1829",
+    "category": "Tricyclic antidepressants",
+    "q": "Why does p120 say doxepin shows up on a 2CK form?",
+    "a": "The question rides on knowing doxepin is a TCA and so the only listed drug that causes anticholinergic effects. Students miss it and then ask what doxepin is.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls confirms doxepin is a tricyclic antidepressant.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK542306/"
+    }
+  },
+  {
+    "id": "s2peds-1830",
+    "category": "MAOIs",
+    "q": "Which drugs does p120 list as MAOIs, and why are they avoided first-line?",
+    "a": "Phenelzine and tranylcypromine. They are avoided first-line the overwhelming majority of the time because of increased risk of serotonin syndrome, which can occur alone or when started too soon after stopping an SSRI.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "Review: limited MAOI clinical use is due to significant adverse effects including the 'cheese effect' hypertension, and serotonin syndrome is a possible complication.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9680847/"
+    }
+  },
+  {
+    "id": "s2peds-1831",
+    "category": "Bupropion",
+    "q": "What is bupropion's mechanism per p120?",
+    "a": "A dopamine and norepinephrine reuptake inhibitor with antidepressant effects.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2peds-1832",
+    "category": "Bupropion",
+    "q": "How does bupropion disincentivize smoking per p120?",
+    "a": "It antagonizes nicotinic receptors, so smoking does not produce rewarding effects.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "Slemmer et al. (J Pharmacol Exp Ther 2000): bupropion acts as a nicotinic receptor antagonist.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10991997/"
+    }
+  },
+  {
+    "id": "s2peds-1833",
+    "category": "Bupropion",
+    "q": "What seizure and eating-disorder warning does p120 give for bupropion?",
+    "a": "It lowers the seizure threshold. Do not give it to patients with eating disorders (electrolyte abnormalities increase seizure risk).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2peds-1834",
+    "category": "Bupropion",
+    "q": "Does bupropion cause sexual side effects per p120?",
+    "a": "No. Unlike SSRIs, it does not cause sexual side effects.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2peds-1835",
+    "category": "Mirtazapine",
+    "q": "What is mirtazapine on p120?",
+    "a": "An alpha-2 antagonist that stimulates appetite and is used for patients with depression and anorexia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: mirtazapine inhibits central presynaptic alpha-2 adrenergic receptors; it has sedative, antiemetic, anxiolytic and appetite-stimulating effects.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519059/"
+    }
+  },
+  {
+    "id": "s2peds-1836",
+    "category": "Trazodone",
+    "q": "What class is trazodone on p120?",
+    "a": "A serotonin antagonist and reuptake inhibitor (SARI).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: trazodone inhibits the serotonin transporter and serotonin type 2 receptors.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470560/"
+    }
+  },
+  {
+    "id": "s2peds-1837",
+    "category": "Trazodone",
+    "q": "What is trazodone frequently used for on p120, and what risk?",
+    "a": "Used for depression, but frequently for insomnia because of strong sedative effects. It can cause serotonin syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 120,
+      "url": "/mehlman/hy-pediatrics.pdf#page=120"
+    },
+    "guideline": {
+      "text": "StatPearls: off-label insomnia use; not FDA-approved for sleep because of insufficient clinical data. Low-dose sedation comes from 5-HT2A, H1 and alpha-1 antagonism.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470560/"
+    }
   }
 ];
