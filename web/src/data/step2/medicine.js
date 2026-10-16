@@ -15368,5 +15368,251 @@ export default [
       "page": 126,
       "url": "/mehlman/hy-internal-medicine.pdf#page=126"
     }
+  },
+  {
+    "id": "s2med-1159",
+    "category": "IM Gastro",
+    "q": "Sigmoidoscopy diagnostic role per p126-127?",
+    "a": "Source: never seen sigmoidoscopy as a diagnostic tool; alternative regimens (sigmoidoscopy + barium enema) are never assessed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2med-1160",
+    "category": "IM Gastro",
+    "q": "Anoscopy per p127?",
+    "a": "Newer 2CK form: answer for diagnosis of hemorrhoids before banding, to determine extent.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2med-1161",
+    "category": "IM Gastro",
+    "q": "Lynch syndrome per p127?",
+    "a": "Hereditary non-polyposis colorectal cancer (HNPCC). Mismatch repair genes MSH2/6, MLH1, PMS2; mutations cause microsatellite instability. Colonic polyps/cancer and gynecologic cancer. Colonoscopy from 20-25, every 1-2 years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "GeneReviews on Lynch syndrome is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1211/"
+    }
+  },
+  {
+    "id": "s2med-1162",
+    "category": "IM Gastro",
+    "q": "Familial adenomatous polyposis per p127?",
+    "a": "Chromosome 5, autosomal dominant. Hundreds to thousands of polyps; 100% cancer risk. Colonoscopy from 10-12, every 1-2 years, prophylactic proctocolectomy at 18 (NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "A European FAP guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11081080/"
+    }
+  },
+  {
+    "id": "s2med-1163",
+    "category": "IM Gastro",
+    "q": "Gardner and Turcot per p127?",
+    "a": "FAP + soft tissue tumors (e.g., lipoma) or bone tumors (e.g., skull) = Gardner syndrome. FAP + CNS tumors = Turcot syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2med-1164",
+    "category": "IM Gastro",
+    "q": "Peutz-Jeghers per p127?",
+    "a": "Perioral melanosis and hamartomatous colonic polyps. Colonoscopy from age 8, every 1-2 years. On a 2CK NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "GeneReviews on Peutz-Jeghers is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1266/"
+    }
+  },
+  {
+    "id": "s2med-1165",
+    "category": "IM Gastro",
+    "q": "Juvenile polyposis per p127?",
+    "a": "Teenager with intermittent rectal bleeding, scattered polyps, biopsy 'dilated, cystic, mucus-filled glands with abundant lamina propria and inflammatory infiltrates.' Only question seen, on new 2CK NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "GeneReviews on juvenile polyposis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1469/"
+    }
+  },
+  {
+    "id": "s2med-1166",
+    "category": "IM Gastro",
+    "q": "Hyperplastic polyps per p127?",
+    "a": "Not pre-cancerous; no dysplasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2med-1167",
+    "category": "IM Gastro",
+    "q": "Dysplastic polyp risk ordering per p127?",
+    "a": "Precancerous polyps are tubular or villous, and pedunculated or sessile. Villous is worse than tubular; sessile (flat) is worse than pedunculated (sticks out). Pedunculated tubular is best; sessile villous is worst. Mixed = tubulovillous.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2med-1168",
+    "category": "IM Gastro",
+    "q": "Polyp picture in a 65-year-old per p127?",
+    "a": "Answer: 'tubular polyp.' Wrong answers are hamartomatous, juvenile, hyperplastic; eliminate without needing the image. Patients with dysplastic polyps need repeat colonoscopy every 2-5 years by size/morphology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "The 2020 USMSTF follow-up consensus is linked; I did not verify it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7389642/"
+    }
+  },
+  {
+    "id": "s2med-1169",
+    "category": "IM Gastro",
+    "q": "First gene mutated in colonic polyps per p127?",
+    "a": "KRAS on USMLE. Progressive mutations: KRAS, then PTEN, then DCC, then TP53.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 127,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=127"
+    },
+    "guideline": {
+      "text": "A paper on adenoma-carcinoma sequence driver mutations is linked; I did not verify the text. In the commonly taught sequence APC is first; this order is the source's exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7568276/"
+    }
+  },
+  {
+    "id": "s2med-1170",
+    "category": "IM Gastro",
+    "q": "Metastatic colon cancer gene per p128?",
+    "a": "TP53 (p53 protein). If a polyp is seen with no invasion of the stalk, choose KRAS (earlier change).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=128"
+    },
+    "guideline": {
+      "text": "A paper on adenoma-carcinoma driver mutations is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7568276/"
+    }
+  },
+  {
+    "id": "s2med-1171",
+    "category": "IM Gastro",
+    "q": "Colon cancer complications per p128?",
+    "a": "Colovesicular fistula: passage between GI tract and bladder leading to UTIs and mixed enteric flora in urine; also assessed for diverticulosis on 2CK; could be Crohn in theory. Strep bovis endocarditis (obscure, rare USMLE point).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=128"
+    },
+    "guideline": {
+      "text": "A case report on colovesical fistula from diverticulitis and a meta-analysis of S. gallolyticus in colorectal cancer are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10713247/"
+    }
+  },
+  {
+    "id": "s2med-1172",
+    "category": "IM Gastro",
+    "q": "Pyloric stenosis per p128?",
+    "a": "Forceful/projectile non-bilious vomiting in neonate days to weeks old (obstruction above the duodenum). Source says age varies and not to fixate on it. Hypertrophic pylorus; 'olive-shaped mass' is buzzy but rarely seen. Ultrasound to diagnose; myotomy to treat.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=128"
+    },
+    "guideline": {
+      "text": "A paper on ultrasound diagnosis of pyloric stenosis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3369120/"
+    }
+  },
+  {
+    "id": "s2med-1173",
+    "category": "IM Gastro",
+    "q": "Pyloric stenosis vs duodenal atresia association per p128?",
+    "a": "Pyloric stenosis is almost always a sporadic one-off defect without a syndrome. Duodenal atresia is usually Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=128"
+    }
+  },
+  {
+    "id": "s2med-1174",
+    "category": "IM Gastro",
+    "q": "Duodenal atresia per p128?",
+    "a": "Bilious vomiting in a neonate (obstruction at the duodenum or lower). Associated with Down syndrome, not mandatory. Double-bubble sign on abdominal X-ray.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=128"
+    },
+    "img": "/mehlman/figures/med-p128-01.jpg",
+    "imgAlt": "Abdominal X-ray of an infant showing a double-bubble gas pattern",
+    "guideline": {
+      "text": "A paper on the double-bubble sign and genetic etiologies is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6893095/"
+    }
+  },
+  {
+    "id": "s2med-1175",
+    "category": "IM Gastro",
+    "q": "Annular pancreas per p128?",
+    "a": "Another cause of duodenal obstruction with double-bubble sign, much rarer than duodenal atresia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=128"
+    }
+  },
+  {
+    "id": "s2med-1176",
+    "category": "IM Gastro",
+    "q": "Intussusception per p128?",
+    "a": "Telescoping of the bowel into itself; almost always under age 2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 128,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=128"
+    },
+    "img": "/mehlman/figures/med-p128-02.jpg",
+    "imgAlt": "Diagram comparing intussusception with normal bowel",
+    "guideline": {
+      "text": "A review of intussusception diagnosis and reduction is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9815940/"
+    }
   }
 ];
