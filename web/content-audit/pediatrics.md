@@ -599,3 +599,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls Erb Palsy, Klumpke Palsy, Osteomalacia and a PMC rickets review. Lab note: calcium is often normal early (PTH keeps it up) and ALP is raised; source says low calcium. Source answer kept with note.
 - Left un-noted: exam answer wording, rickets sign list (craniotabes, rosary, genu varum), vit D action on osteoid, histology, CF/Crohn malabsorption, pseudofracture. Klumpke and Erb mechanism-in-neonate match StatPearls only in general.
 - Mobile QA (320x740, live, local headless Chrome): all 14 cards ox=false off=false bad=0; both figure cards render and answers fit.
+
+## p128 (rickets bow-legs figure, osteopetrosis, OI) - 9 cards, ids s2peds-1914 to 1922
+- Inspected page pixels. Two source figures added: normal vs bow legs diagram (continues p127 rickets row) and OI blue sclerae photo (same photo as p123).
+- Notes verified against StatPearls Osteopetrosis and Osteogenesis Imperfecta, plus a review of osteoclast generation.
+- Source conflict flagged: p128 says GM-CSF drives osteoclast differentiation; the review names M-CSF and RANKL as the essential cytokines. Source answer kept with caution note.
+- Left un-noted: osteopetrosis/OI/child abuse differential, "bone strength depends on architecture" explanation, blue-sclera buzziness.
+- Mobile QA: PENDING

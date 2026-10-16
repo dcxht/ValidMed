@@ -27330,5 +27330,136 @@ export default [
       "text": "PMC review: early on calcium is kept normal by rising PTH, with hypophosphatemia and higher ALP; hypocalcemia develops in a later stage. So calcium can be normal early, and ALP is also raised.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10543743/"
     }
+  },
+  {
+    "id": "s2peds-1914",
+    "category": "Rickets",
+    "q": "What does the p128 diagram at the top of the page (continuing the rickets entry) compare?",
+    "a": "Normal legs with bow legs (genu varum), the tibial bowing of rickets.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "img": "/mehlman/figures/peds-p128-rickets-bow-legs.png",
+    "imgAlt": "Actual source diagram (continuing the p127 rickets entry) comparing normal legs with bow legs, genu varum"
+  },
+  {
+    "id": "s2peds-1915",
+    "category": "Osteopetrosis",
+    "q": "What is osteopetrosis per p128 and why do fractures occur with high bone density?",
+    "a": "Osteoclast dysfunction causing recurrent fractures in children even though bone density is too high. Bone strength depends on balanced internal architecture of canals and networks, not density alone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "guideline": {
+      "text": "StatPearls: increased bone density from osteoclast dysfunction leaves bones abnormally brittle, with pathologic fractures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557529/"
+    }
+  },
+  {
+    "id": "s2peds-1916",
+    "category": "Osteopetrosis",
+    "q": "Which conditions does p128 name as the high-yield differential for osteopetrosis?",
+    "a": "Osteogenesis imperfecta and child abuse.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    }
+  },
+  {
+    "id": "s2peds-1917",
+    "category": "Osteopetrosis",
+    "q": "What enzyme deficiency causes osteoclast dysfunction in osteopetrosis per p128, and what does it normally do?",
+    "a": "Carbonic anhydrase II deficiency. In osteoclasts it normally allows formation of H+ to resorb bone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "guideline": {
+      "text": "StatPearls: osteoclasts with defective proton pumps, chloride channels or carbonic anhydrase II cannot resorb bone effectively. CAII loss causes the intermediate autosomal recessive form. Other gene defects also cause osteopetrosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557529/"
+    }
+  },
+  {
+    "id": "s2peds-1918",
+    "category": "Osteopetrosis",
+    "q": "Which factor does p128 say drives osteoclast precursors to differentiate into osteoclasts (NBME osteopetrosis question)?",
+    "a": "GM-CSF.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "guideline": {
+      "text": "Caution: a review of osteoclast formation names M-CSF and RANKL as the two essential cytokines for osteoclast differentiation, not GM-CSF. Source answer kept because p128 says the NBME form used it; check the vignette wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4162467/"
+    }
+  },
+  {
+    "id": "s2peds-1919",
+    "category": "Osteogenesis imperfecta",
+    "q": "What defect and key differential does p128 give for osteogenesis imperfecta?",
+    "a": "A collagen I defect causing recurrent fractures in a child. Differential: child abuse and osteopetrosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "guideline": {
+      "text": "StatPearls: OI is abnormal synthesis or processing of type I collagen with increased fracture susceptibility.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536957/"
+    }
+  },
+  {
+    "id": "s2peds-1920",
+    "category": "Osteogenesis imperfecta",
+    "q": "Which eye finding does p128 give for OI, and how buzzy is it?",
+    "a": "Blue sclerae, which p128 says is too buzzy and often not mentioned.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "img": "/mehlman/figures/peds-p128-oi-blue-sclerae.png",
+    "imgAlt": "Actual source photograph of a child with blue sclerae from osteogenesis imperfecta",
+    "guideline": {
+      "text": "StatPearls lists blue sclerae among OI manifestations.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536957/"
+    }
+  },
+  {
+    "id": "s2peds-1921",
+    "category": "Osteogenesis imperfecta",
+    "q": "What hearing loss does p128 link to OI and why?",
+    "a": "Conductive hearing loss due to defective ossicles (middle ear bones).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "guideline": {
+      "text": "StatPearls: conductive hearing loss is listed as a manifestation of the childhood-onset form.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536957/"
+    }
+  },
+  {
+    "id": "s2peds-1922",
+    "category": "Osteogenesis imperfecta",
+    "q": "What harder OI vignette does p128 describe?",
+    "a": "A child with multiple fractures whose mother has a history of recurrent miscarriage, because some OI types cause miscarriage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 128,
+      "url": "/mehlman/hy-pediatrics.pdf#page=128"
+    },
+    "guideline": {
+      "text": "StatPearls: perinatal type II OI has fractures often incompatible with life and increased perinatal mortality.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536957/"
+    }
   }
 ];
