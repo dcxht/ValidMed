@@ -46130,5 +46130,479 @@ export default [
       "text": "A study of leukemia after radioactive iodine therapy is linked (title only).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/26133388/"
     }
+  },
+  {
+    "id": "s2med-3437",
+    "category": "IM Gen Path",
+    "q": "2-naphthylamine per p345 (continued from p344)?",
+    "a": "Main compound in some types of moth balls. Associated with collecting duct cancer (on NBME; the source discusses more in its HY Renal PDF).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A carcinogenicity evaluation of 2-naphthylamine is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK533625/"
+    }
+  },
+  {
+    "id": "s2med-3438",
+    "category": "IM Gen Path",
+    "q": "Nitrosamines per p345?",
+    "a": "Gastric cancer; associated with increased consumption of cured meats.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A cohort study of processed meat, nitrosamines and stomach cancer is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16550597/"
+    }
+  },
+  {
+    "id": "s2med-3439",
+    "category": "IM Gen Path",
+    "q": "Processed meats per p345?",
+    "a": "Colorectal cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    }
+  },
+  {
+    "id": "s2med-3440",
+    "category": "IM Gen Path",
+    "q": "Radon per p345?",
+    "a": "Adenocarcinoma of the lung in non-smokers. Due to background radiation from the ground; considered the second-most important cause of lung cancer after smoking.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A meta-analysis of residential radon and lung cancer in never-smokers is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9488946/"
+    }
+  },
+  {
+    "id": "s2med-3441",
+    "category": "IM Gen Path",
+    "q": "Smoking/tobacco and UV light per p345?",
+    "a": "Smoking: basically every cancer. UV light: skin cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    }
+  },
+  {
+    "id": "s2med-3442",
+    "category": "IM Gen Path",
+    "q": "Vinyl chloride per p345?",
+    "a": "Hepatic angiosarcoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A paper on liver angiosarcoma in PVC manufacture is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4856325/"
+    }
+  },
+  {
+    "id": "s2med-3443",
+    "category": "IM Gen Path",
+    "q": "Gastric cancer: acanthosis nigricans per p345?",
+    "a": "Acanthosis nigricans. Almost always it simply means insulin resistance, but it can also be associated with visceral malignancies like gastric. 'Visceral malignancy' is a general term for main organ system cancers (liver, pancreas, stomach, etc.).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A review of malignant acanthosis nigricans is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6257767/"
+    }
+  },
+  {
+    "id": "s2med-3444",
+    "category": "IM Gen Path",
+    "q": "Sign of Leser-Trelat per p345?",
+    "a": "Sudden appearance of large numbers of seborrheic keratoses. Can occur with visceral malignancies like gastric and pancreatic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A paper on the Leser-Trelat sign is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29261959/"
+    }
+  },
+  {
+    "id": "s2med-3445",
+    "category": "IM Gen Path",
+    "q": "Virchow node per p345?",
+    "a": "Palpable supraclavicular lymph node (Troisier sign), classically associated with gastric cancer but can be any visceral malignancy. There is also a 2CK NBME question where Virchow node presents in a Hodgkin lymphoma patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Virchow node is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556100/"
+    }
+  },
+  {
+    "id": "s2med-3446",
+    "category": "IM Gen Path",
+    "q": "Ovarian cancer paraneoplastic per p345?",
+    "a": "Can cause dermatomyositis. Weird, but asked on an NBME question.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A report on concurrent ovarian cancer and dermatomyositis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6779614/"
+    }
+  },
+  {
+    "id": "s2med-3447",
+    "category": "IM Gen Path",
+    "q": "Pancreatic cancer paraneoplastic per p345?",
+    "a": "Migratory thrombophlebitis (Trousseau sign of malignancy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A paper on pancreatic carcinoma and Trousseau's syndrome is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3958764/"
+    }
+  },
+  {
+    "id": "s2med-3448",
+    "category": "IM Gen Path",
+    "q": "Renal cell carcinoma paraneoplastic per p345?",
+    "a": "Hypercalcemia (PTHrP secretion, same as squamous cell of lung). Polycythemia (EPO secretion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A paper on paraneoplastic manifestations of RCC is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8946620/"
+    }
+  },
+  {
+    "id": "s2med-3449",
+    "category": "IM Gen Path",
+    "q": "Lung cancer (general) paraneoplastic per p345?",
+    "a": "Hypertrophic osteoarthropathy (clubbing + periostitis; periostitis is inflammation of the periosteum over the bone). Classically associated with adenocarcinoma, but USMLE doesn't specify: a vignette of clubbing + hand pain has chest x-ray as the next best step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A paper on pulmonary hypertrophic osteoarthropathy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8544379/"
+    }
+  },
+  {
+    "id": "s2med-3450",
+    "category": "IM Gen Path",
+    "q": "Neuroblastoma paraneoplastic per p345?",
+    "a": "Opsoclonus-myoclonus syndrome (dancing eyes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A paper on neuroblastoma with opsoclonus-myoclonus-ataxia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10307920/"
+    }
+  },
+  {
+    "id": "s2med-3451",
+    "category": "IM Gen Path",
+    "q": "Small cell lung carcinoma paraneoplastic per p345?",
+    "a": "Cushing syndrome (ACTH secretion); SIADH (ADH secretion); Lambert-Eaton (antibodies against presynaptic voltage-gated Ca2+ channels); cerebellar dysfunction/ataxia (anti-Hu/anti-Yo antibodies).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A review of paraneoplastic neurological syndromes of SCLC is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11304241/"
+    }
+  },
+  {
+    "id": "s2med-3452",
+    "category": "IM Gen Path",
+    "q": "Squamous cell carcinoma of the lung paraneoplastic per p345?",
+    "a": "Hypercalcemia/hypophosphatemia from PTHrP secretion. PTHrP is not the same as endogenous PTH, which is suppressed due to negative feedback from high calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    }
+  },
+  {
+    "id": "s2med-3453",
+    "category": "IM Gen Path",
+    "q": "Thymoma per p345?",
+    "a": "Myasthenia gravis (antibodies against postsynaptic nicotinic acetylcholine receptors); do CXR/chest CT in MG patients. Can also rarely cause pure RBC aplasia (only RBCs are down).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A case report of pure red cell aplasia with thymoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7431916/"
+    }
+  },
+  {
+    "id": "s2med-3454",
+    "category": "IM Gen Path",
+    "q": "Metastases to spine/vertebrae per p345?",
+    "a": "Prostate, breast, and lung cancer all love to metastasize to spine/vertebrae. Neurologic findings in a patient with cancer: the wanted answer is epidural spinal cord metastases/compression or metastases to cauda equina (seen on NBME and 2CK Neuro CMS questions).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    },
+    "guideline": {
+      "text": "A review of malignant epidural spinal cord compression is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10632584/"
+    }
+  },
+  {
+    "id": "s2med-3455",
+    "category": "IM Gen Path",
+    "q": "Vertebral lytic lesions NBME point per p345?",
+    "a": "An NBME question gives lytic vertebral lesions in a vague 1-2 liner, multiple myeloma isn't listed, and they want 'metastatic breast cancer'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 345,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=345"
+    }
+  },
+  {
+    "id": "s2med-3456",
+    "category": "IM Gen Path",
+    "q": "Osteoblastic vs osteolytic metastases per p346 (continued from p345)?",
+    "a": "One of the highest yield principles: prostate cancer causes osteoblastic metastases, which light up on a bone scan. Pretty much all other cancers cause osteolytic metastases. Breast can occasionally cause osteoblastic metastases, but the source says that is essentially nonexistent for USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A paper on osteoblastic bone metastasis in prostate cancer is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6397422/"
+    }
+  },
+  {
+    "id": "s2med-3457",
+    "category": "IM Gen Path",
+    "q": "Choriocarcinoma metastases per p346?",
+    "a": "Loves to go to lung and brain. Gynecologic question + pulmonary nodules or stroke-like presentation is HY for choriocarcinoma. Hydatidiform mole is wrong here: if the question already mentions pulmonary or neuro findings, we already have the cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A review of imaging of gestational choriocarcinoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11651844/"
+    }
+  },
+  {
+    "id": "s2med-3458",
+    "category": "IM Gen Path",
+    "q": "Metastasis to ovaries per p346?",
+    "a": "Gastric cancer can metastasize hematogenously to the ovaries: Krukenberg tumors, with signet ring cells on biopsy that contain mucin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A paper on Krukenberg tumor is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3934036/"
+    }
+  },
+  {
+    "id": "s2med-3459",
+    "category": "IM Gen Path",
+    "q": "Metastasis to omentum per p346?",
+    "a": "Direct extension to the omentum for ovarian cancer. Two 2CK NBME questions say 'omental thickening' and 'omental caking'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    }
+  },
+  {
+    "id": "s2med-3460",
+    "category": "IM Gen Path",
+    "q": "Para-aortic lymph nodes per p346?",
+    "a": "Testicular and ovarian cancers drain there; the source includes this one here because it is the most important lymph node drainage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A StatPearls page on testicular cancer is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK563159/"
+    }
+  },
+  {
+    "id": "s2med-3461",
+    "category": "IM Gen Path",
+    "q": "Aspergillus per p346?",
+    "a": "Fungus that can produce aflatoxin, which increases risk of hepatocellular carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    }
+  },
+  {
+    "id": "s2med-3462",
+    "category": "IM Gen Path",
+    "q": "Clonorchis sinensis per p346?",
+    "a": "A trematode (fluke), a type of helminth. Can cause cholangiocarcinoma. Treat with praziquantel.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A paper on clonorchiasis and cholangiocarcinoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC452546/"
+    }
+  },
+  {
+    "id": "s2med-3463",
+    "category": "IM Gen Path",
+    "q": "EBV per p346?",
+    "a": "Causes nasopharyngeal carcinoma and B-cell lymphomas (Hodgkin and NHL).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A review of EBV and nasopharyngeal carcinoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5597737/"
+    }
+  },
+  {
+    "id": "s2med-3464",
+    "category": "IM Gen Path",
+    "q": "Helicobacter pylori and HepB/C per p346?",
+    "a": "H. pylori: MALT lymphoma, a type of B-cell lymphoma. HepB/C: hepatocellular carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A review of gastric MALT lymphoma and H. pylori is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4962427/"
+    }
+  },
+  {
+    "id": "s2med-3465",
+    "category": "IM Gen Path",
+    "q": "HHV-8 per p346?",
+    "a": "Kaposi sarcoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A review of KSHV/HHV-8 and Kaposi sarcoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4721662/"
+    }
+  },
+  {
+    "id": "s2med-3466",
+    "category": "IM Gen Path",
+    "q": "HIV and malignancy per p346?",
+    "a": "Primary CNS lymphoma at CD4 counts generally <100/uL. Immunodeficiency can increase squamous cell carcinoma risk (anal SCC in MSM; esophageal SCC with smoking/alcohol; skin SCC from sunlight); NBME questions can mention immunodeficiency to imply SCC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    }
+  },
+  {
+    "id": "s2med-3467",
+    "category": "IM Gen Path",
+    "q": "HPV 16/18 per p346?",
+    "a": "Squamous cell carcinoma (usually genital/anal).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    }
+  },
+  {
+    "id": "s2med-3468",
+    "category": "IM Gen Path",
+    "q": "HTLV per p346?",
+    "a": "Human T-cell lymphotropic virus. Can cause cutaneous T-cell lymphoma (mycosis fungoides) and T-cell leukemia (Sezary syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    }
+  },
+  {
+    "id": "s2med-3469",
+    "category": "IM Gen Path",
+    "q": "Schistosoma haematobium per p346?",
+    "a": "A trematode. Squamous cell carcinoma of the bladder (patient who swam in a lake in Africa). Don't confuse with transitional cell carcinoma of the bladder: smoking, aniline (industrial) dyes, 2-naphthylamine (moth balls).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A report chapter on schistosomes, liver flukes and H. pylori is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK487782/"
+    }
+  },
+  {
+    "id": "s2med-3470",
+    "category": "IM Gen Path",
+    "q": "Strep bovis per p346?",
+    "a": "Can increase risk of colorectal cancer, and endocarditis in the setting of CRC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 346,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=346"
+    },
+    "guideline": {
+      "text": "A meta-analysis of S. gallolyticus infection in colorectal cancer is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21960713/"
+    }
   }
 ];

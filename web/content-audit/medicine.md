@@ -1188,3 +1188,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p344 (type IV, carcinogens) - 9 cards, ids s2med-3428 to 3436
 - Arsenic fertilizer claim unverified. Expletive paraphrased (alcohol/breast).
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p345 (carcinogens end, paraneoplastic, spine mets) - 19 cards, ids s2med-3437 to 3455
+
+## p346 (metastases, malignancy-associated microbes) - 15 cards, ids s2med-3456 to 3470
+- HTLV/mycosis fungoides-Sezary association: source claim, unverified, no note (a PubMed title seen in search suggested these may not be HTLV-related).
+- Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.
