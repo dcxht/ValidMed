@@ -71,3 +71,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figures (tongue telangiectasia med-p017-01.jpg, AF ECG med-p017-02.jpg). Section header "HY Murmur / ECG points" skipped.
 - Source cautions: Holter 24 h vs longer monitoring; echo for LA thrombus; mesenteric angiography vs CT angiography first. Notes from ESO guideline, monitoring meta-analysis, WSES AMI guidelines. Unverified: echo as next step.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p18 (IM Cardio: AF management, flutter, VT) - 9 cards, ids s2med-0141 to 0149
+- Inspected page text and figures (flutter, VT). Expletive paraphrased out. Page ends at start of VT.
+- Source cautions: warfarin vs NOAC (current guideline text not readable here); flecainide wording. Unverified: CHADS2 use, NBME NOAC claim, rate vs rhythm control order.
+
+## p19 (IM Cardio: VT treatment, PVC, SVT, STEMI) - 7 cards, ids s2med-0150 to 0156
+- Inspected page text and figures (PVC, SVT, inferior STEMI). Notes from 2015 ACC/AHA/HRS SVT guideline; carotid massage is the source's wording.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.

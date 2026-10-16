@@ -1866,5 +1866,223 @@ export default [
       "text": "The WSES updated guidelines on acute mesenteric ischemia cover diagnosis (CT angiography is now the usual first imaging) and management. A review covers hyperthyroidism-related AF. Source answer kept.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/"
     }
+  },
+  {
+    "id": "s2med-0141",
+    "category": "IM Cardio",
+    "q": "Severe leg pain with absent pulses in a patient with irregularly irregular rhythm per p18?",
+    "a": "Acute limb ischemia (embolus from AF); USMLE wants embolectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2med-0142",
+    "category": "IM Cardio",
+    "q": "Structural causes of AF per p18?",
+    "a": "Any structural heart abnormality: LV hypertrophy, ischemia, growth hormone/anabolic steroid use, prior MI, etc.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2med-0143",
+    "category": "IM Cardio",
+    "q": "AF stroke prevention drug choice and score per p18?",
+    "a": "Patient gets either a NOAC or warfarin; aspirin is no longer indicated for AF. Decided by CHADS2: CHF, HTN, Age 75+, Diabetes, Stroke/TIA/emboli (1 point each, but stroke/TIA/emboli is 2). More points favors warfarin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    },
+    "guideline": {
+      "text": "Current caution: the 2023 ACC/AHA/ACCP/HRS AF guideline is the current reference; I could read only its title and keywords, not the recommendation text, so I did not verify score or drug-choice wording. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/"
+    }
+  },
+  {
+    "id": "s2med-0144",
+    "category": "IM Cardio",
+    "q": "What does 'emboli' mean in CHADS2 per p18?",
+    "a": "Any history of an embolic event from AF: stroke, TIA, acute mesenteric ischemia or acute limb ischemia. 2CK IM form: 67F with chronic AF + history of acute limb ischemia, nothing else: warfarin to prevent recurrence; aspirin is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2med-0145",
+    "category": "IM Cardio",
+    "q": "NOACs on NBME per p18?",
+    "a": "The source has never seen NBME care about apixaban etc. for non-valvular AF; NBME seems old-school with warfarin as the answer, since use of NOACs is less textbook.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    },
+    "guideline": {
+      "text": "Current practice: I did not verify the NBME claim; check the current AF guideline before using this for patients.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/"
+    }
+  },
+  {
+    "id": "s2med-0146",
+    "category": "IM Cardio",
+    "q": "AF rate vs rhythm control per p18?",
+    "a": "Rate control comes before rhythm control; USMLE does not care about this part. In theory metoprolol or verapamil is standard. For Step 3: flecainide is first-line for rhythm control if rate control fails, with structurally normal heart and no coronary artery disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    },
+    "guideline": {
+      "text": "A reappraisal of flecainide for AF exists; I did not verify the 'first-line' wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12566288/"
+    }
+  },
+  {
+    "id": "s2med-0147",
+    "category": "IM Cardio",
+    "q": "AF with hemodynamic instability (low BP) per p18?",
+    "a": "NBME 2CK: electrical cardioversion. AF can trigger 'rapid ventricular response' (HR >150) with low BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2med-0148",
+    "category": "IM Cardio",
+    "q": "Atrial flutter ECG appearance per p18 (figure)?",
+    "a": "Classic sawtooth appearance. Low yield; asked once on a 2CK NBME, but know it exists.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    },
+    "img": "/mehlman/figures/med-p018-01.jpg",
+    "imgAlt": "Source figure p18: lead II atrial flutter with sawtooth baseline",
+    "guideline": {
+      "text": "StatPearls: in inferior leads, typical flutter waves resemble a picket fence or sawtooth.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK540985/"
+    }
+  },
+  {
+    "id": "s2med-0149",
+    "category": "IM Cardio",
+    "q": "Ventricular tachycardia ECG per p18 (figure)?",
+    "a": "Wide-complex QRS complexes (>120 ms; normal is 80-120 ms). Exceedingly HY for 2CK: VT is wide-complex, SVT is narrow-complex. Even if you do not know the strip, the complexes look wide like mountains.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 18,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=18"
+    },
+    "img": "/mehlman/figures/med-p018-02.jpg",
+    "imgAlt": "Source figure p18: wide-complex tachycardia, ventricular tachycardia"
+  },
+  {
+    "id": "s2med-0150",
+    "category": "IM Cardio",
+    "q": "VT treatment per p19?",
+    "a": "Anti-arrhythmics, e.g., amiodarone. If coma or hemodynamic instability (low BP): NBME answer is direct current countershock/cardioversion (same thing).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=19"
+    },
+    "guideline": {
+      "text": "The 2017 AHA/ACC/HRS ventricular arrhythmia guideline covers management; I did not verify drug wording.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000549"
+    }
+  },
+  {
+    "id": "s2med-0151",
+    "category": "IM Cardio",
+    "q": "Premature ventricular complex strip per p19 (figure): where does it originate?",
+    "a": "Ventricle. A wide complex (ventricular origin) that occurs earlier (premature). Do not treat PVCs on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=19"
+    },
+    "img": "/mehlman/figures/med-p019-01.jpg",
+    "imgAlt": "Source figure p19: sinus rhythm with one early wide premature ventricular complex"
+  },
+  {
+    "id": "s2med-0152",
+    "category": "IM Cardio",
+    "q": "SVT ECG per p19 (figure)?",
+    "a": "Narrow, needle-shaped complexes; the tachycardia originates above the ventricles. Contrast with wide-complex VT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=19"
+    },
+    "img": "/mehlman/figures/med-p019-02.jpg",
+    "imgAlt": "Source figure p19: regular narrow-complex tachycardia, SVT"
+  },
+  {
+    "id": "s2med-0153",
+    "category": "IM Cardio",
+    "q": "First step for stable SVT per p19?",
+    "a": "Carotid massage (vagal maneuvers). In pediatrics, ice pack to the face.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=19"
+    },
+    "guideline": {
+      "text": "2015 ACC/AHA/HRS SVT guideline: vagal maneuvers are recommended for acute treatment in patients with regular SVT. Note: modern vagal maneuvers are Valsalva or similar; carotid massage is the source's term.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000310"
+    }
+  },
+  {
+    "id": "s2med-0154",
+    "category": "IM Cardio",
+    "q": "Next step if vagal maneuvers fail in SVT per p19?",
+    "a": "Adenosine (not amiodarone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=19"
+    },
+    "guideline": {
+      "text": "2015 ACC/AHA/HRS SVT guideline: adenosine is recommended for acute treatment in regular SVT.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000310"
+    }
+  },
+  {
+    "id": "s2med-0155",
+    "category": "IM Cardio",
+    "q": "SVT or VT with coma or low BP per p19?",
+    "a": "Shock first (synchronized cardioversion). Treatments differ only for stable SVT and VT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=19"
+    },
+    "guideline": {
+      "text": "SVT guideline: synchronized cardioversion is recommended for hemodynamically unstable SVT when vagal maneuvers or adenosine are ineffective or not feasible.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000310"
+    }
+  },
+  {
+    "id": "s2med-0156",
+    "category": "IM Cardio",
+    "q": "STEMI on ECG per p19 (figure)?",
+    "a": "ST elevations in 3-4 contiguous leads. Figure marks elevations in II, III and aVF (inferior leads).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 19,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=19"
+    },
+    "img": "/mehlman/figures/med-p019-03.jpg",
+    "imgAlt": "Source figure p19: 12-lead ECG with ST elevation in leads II, III, aVF (arrows)"
   }
 ];
