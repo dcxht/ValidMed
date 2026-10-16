@@ -656,3 +656,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls SCFE and the current Osteosarcoma chapter (NBK563177; the older NBK549868 is archived and was not cited).
 - Left un-noted (not verified): NBME question-pattern claims (about half not overweight, age 10-13 emphasis, specific 2CK questions, 5-year-old contracted epiphysis), "ice cream off the cone" description, osteosarcoma age 10-30 (noted as unverified). The page's "spiculated new born formation" typo is flagged in the answer.
 - Mobile QA (320x740, live, local headless Chrome): all 14 cards ox=false off=false bad=0.
+
+## p137 (osteosarcoma film, Ewing sarcoma, unicameral bone cyst) - 9 cards, ids s2peds-2052 to 2060
+- Inspected page pixels. Two figures: osteosarcoma radiograph (arrow = Codman triangle, star = sunburst) and Ewing sarcoma histology.
+- Notes verified against StatPearls Osteosarcoma, Ewing Sarcoma (t(11;22), small round blue cells, diaphysis) and Unicameral Bone Cyst. No source conflicts found. Ewing note clarifies onion skin is a periosteal x-ray finding, while the page lists it under histology.
+- Left un-noted or flagged unverified: osteomyelitis-mimic framing, bone scan diaphysis vs metaphysis comparison, neuroendocrine origin wording, NBME answer-choice wording, osteoclastoma comparison, UBC age ranges, 2CK claims.
+- Mobile QA: PENDING

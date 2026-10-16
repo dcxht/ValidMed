@@ -29234,5 +29234,140 @@ export default [
       "page": 136,
       "url": "/mehlman/hy-pediatrics.pdf#page=136"
     }
+  },
+  {
+    "id": "s2peds-2052",
+    "category": "Osteosarcoma",
+    "q": "What do the white arrow and white star mark on the osteosarcoma x-ray on p137?",
+    "a": "The white arrow is the Codman triangle; the white star is the sunburst appearance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "img": "/mehlman/figures/peds-p137-osteosarcoma-xray.png",
+    "imgAlt": "Long bone radiograph with a white arrow at a Codman triangle and a white star at sunburst periosteal reaction, from p137",
+    "guideline": {
+      "text": "StatPearls: sunburst configuration from aggressive periostitis and Codman triangle from elevation of the periosteum away from the bone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563177/"
+    }
+  },
+  {
+    "id": "s2peds-2053",
+    "category": "Ewing sarcoma",
+    "q": "A child has a bone tumor that presents like osteomyelitis (fever and bone pain). What is the answer per p137?",
+    "a": "Ewing sarcoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls: a small round blue cell tumor of childhood, commonly found in the diaphysis of long bones. I did not verify the osteomyelitis-mimic framing.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559183/"
+    }
+  },
+  {
+    "id": "s2peds-2054",
+    "category": "Ewing sarcoma",
+    "q": "Where does bone scan uptake show in Ewing sarcoma versus osteomyelitis per p137?",
+    "a": "Ewing sarcoma: most likely the diaphysis. Osteomyelitis: the metaphysis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls: Ewing sarcoma is commonly found in the diaphysis of long bones. I did not verify the bone scan comparison with osteomyelitis.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559183/"
+    }
+  },
+  {
+    "id": "s2peds-2055",
+    "category": "Ewing sarcoma",
+    "q": "What does histology show in Ewing sarcoma per p137?",
+    "a": "Small blue cells of neuroendocrine origin and/or onion-skinning.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls: composed of small round blue cells; x-ray may show an onion-skin periosteal reaction (the onion skin is a periosteal imaging finding, not a cell feature). I did not verify the neuroendocrine origin wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559183/"
+    }
+  },
+  {
+    "id": "s2peds-2056",
+    "category": "Ewing sarcoma",
+    "q": "How might an NBME answer choice describe Ewing sarcoma histology per p137?",
+    "a": "Closely packed, small, round, uniform neoplastic cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls: Ewing sarcoma is composed of small round cells with a high nuclear-cytoplasmic ratio. I did not verify the NBME wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559183/"
+    }
+  },
+  {
+    "id": "s2peds-2057",
+    "category": "Ewing sarcoma",
+    "q": "What does the histology image on p137 show?",
+    "a": "Ewing sarcoma: sheets of closely packed, small, round, uniform blue cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "img": "/mehlman/figures/peds-p137-ewing-histo.png",
+    "imgAlt": "H&E histology of densely packed small round blue cells, from p137",
+    "guideline": {
+      "text": "StatPearls: small round blue cell tumor.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559183/"
+    }
+  },
+  {
+    "id": "s2peds-2058",
+    "category": "Ewing sarcoma",
+    "q": "Which translocation is associated with Ewing sarcoma per p137, and what should you not confuse it with?",
+    "a": "t(11;22). Do not confuse with the 22q11 deletion in DiGeorge syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls: the most frequent gene rearrangement is t(11;22)(q24;q12).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559183/"
+    }
+  },
+  {
+    "id": "s2peds-2059",
+    "category": "Unicameral bone cyst",
+    "q": "How does p137 describe unicameral bone cyst for USMLE?",
+    "a": "An underrated diagnosis, asked on the 2CK exam.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    }
+  },
+  {
+    "id": "s2peds-2060",
+    "category": "Unicameral bone cyst",
+    "q": "What is a unicameral bone cyst and what age does it occur per p137?",
+    "a": "A benign bone tumor that looks similar to osteoclastoma but with onset usually from birth to age 20, rather than 20-40.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 137,
+      "url": "/mehlman/hy-pediatrics.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls: unicameral bone cysts are most common in children, in long bones (proximal humerus about 90%), near or at the metaphysis. I did not verify the comparison with osteoclastoma or the age ranges.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470587/"
+    }
   }
 ];
