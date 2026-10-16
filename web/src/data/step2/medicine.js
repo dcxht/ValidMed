@@ -40236,5 +40236,253 @@ export default [
       "text": "A paper on nerve injury in supracondylar fractures is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12674161/"
     }
+  },
+  {
+    "id": "s2med-3019",
+    "category": "IM MSK",
+    "q": "Carpal tunnel next step per p309 (continued from p308)?",
+    "a": "Steroid injection into the carpal tunnel (not IV steroids) is the next answer. The source says surgery is always the wrong answer for carpal tunnel on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "A network meta-analysis of steroid injections and splints in carpal tunnel syndrome is linked (title only). Caution: surgery is a real option for severe or refractory cases; the 'always wrong' claim is the source's exam rule, and I did not verify it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38546484/"
+    }
+  },
+  {
+    "id": "s2med-3020",
+    "category": "IM MSK",
+    "q": "Carpal tunnel diagnosis per p309?",
+    "a": "2CK wants 'electrophysiological testing' and 'electromyography and nerve conduction studies' as the next best step in diagnosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2med-3021",
+    "category": "IM MSK",
+    "q": "Ulnar nerve innervation per p309?",
+    "a": "Main innervation of the medial 1.5 fingers and the medial forearm. Also does finger abduction and adduction (interosseous muscles).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2med-3022",
+    "category": "IM MSK",
+    "q": "Froment sign per p309?",
+    "a": "USMLE loves it for ulnar nerve injury: inability to pinch a piece of paper between the thumb and index finger (ulnar nerve is needed for thumb adduction against the index finger, despite the thumb being the most lateral digit).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "A MedGen entry on Froment sign is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/medgen/713325"
+    }
+  },
+  {
+    "id": "s2med-3023",
+    "category": "IM MSK",
+    "q": "Guyon canal syndrome per p309?",
+    "a": "Distal ulnar compression (wrist and hand only, not forearm), caused by hook of hamate fracture; sometimes seen in cyclists from handlebar compression. Presents as paresthesias/numbness of the 4th and 5th fingers plus the hypothenar eminence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "A case report on handlebar syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7656046/"
+    }
+  },
+  {
+    "id": "s2med-3024",
+    "category": "IM MSK",
+    "q": "Cubital tunnel syndrome per p309?",
+    "a": "Proximal ulnar compression (medial forearm plus wrist/hand). The source calls it one of the most underrated USMLE diagnoses, with yield on 2CK comparable to carpal tunnel. Paresthesias of the medial forearm and hand that 'sound like carpal tunnel but on the ulnar side' = cubital tunnel syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2med-3025",
+    "category": "IM MSK",
+    "q": "Cubital tunnel Tx per p309?",
+    "a": "Overnight elbow splint. Surgery is the wrong answer on USMLE per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "A systematic review of night splints for cubital tunnel syndrome is linked (title only). I did not verify the 'surgery is wrong' claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12081431/"
+    }
+  },
+  {
+    "id": "s2med-3026",
+    "category": "IM MSK",
+    "q": "Radial nerve per p309?",
+    "a": "Main innervation for finger, wrist, and elbow extension. Innervates BEST: Brachioradialis, Extensors, Supinator, Triceps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2med-3027",
+    "category": "IM MSK",
+    "q": "Radial nerve palsy cause per p309?",
+    "a": "Occurs from a midshaft fracture of the humerus, or fracture at the radial groove (the latter is obvious). A retired NBME question: a construction worker with a comminuted spiral fracture of the humerus (unusual, since spiral fracture classically suggests child abuse); the resulting defect is 'loss of radial nerve function'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "A case series on radial nerve palsy with humeral shaft fracture is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229417/"
+    }
+  },
+  {
+    "id": "s2med-3028",
+    "category": "IM MSK",
+    "q": "Radial nerve injury highest-yield point per p309?",
+    "a": "Injury results in a pronated forearm plus wrist drop.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2med-3029",
+    "category": "IM MSK",
+    "q": "Musculocutaneous nerve per p309?",
+    "a": "Main innervation of the biceps. Just know that injury gives loss of sensation over the lateral forearm and decreased biceps function. The source says USMLE does not care what kind of injury causes the palsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2med-3030",
+    "category": "IM MSK",
+    "q": "Subacromial bursitis vs rotator cuff tendonitis per p309?",
+    "a": "NBME vignettes can give both a history of frequent overhead movement (like painting a fence), pain with palpation, and pain worse when lying on the shoulder at night. Subacromial bursitis presents only with these findings (collectively impingement syndrome). Rotator cuff tendonitis presents with weakness on the exam maneuvers from the prior table.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "A systematic review of shoulder exam for subacromial bursitis and rotator cuff tears is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11660602/"
+    }
+  },
+  {
+    "id": "s2med-3031",
+    "category": "IM MSK",
+    "q": "Biceps tendonitis per p309?",
+    "a": "Anterior shoulder pain with focal tenderness over the biceps tendon (i.e., when pressing on the anterior shoulder).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    }
+  },
+  {
+    "id": "s2med-3032",
+    "category": "IM MSK",
+    "q": "Adhesive capsulitis per p309?",
+    "a": "Aka 'frozen shoulder' or arthrofibrosis. Decreased passive and active motion of the shoulder in all directions. Idiopathic, but increased risk in diabetes. Tx = range of motion exercises / physiotherapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 309,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=309"
+    },
+    "guideline": {
+      "text": "A systematic review of nonsurgical treatment of adhesive capsulitis in diabetes is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30268804/"
+    }
+  },
+  {
+    "id": "s2med-3033",
+    "category": "IM MSK",
+    "q": "Winged scapula per p310?",
+    "a": "Long thoracic nerve injury, which innervates the serratus anterior. Can occur post-mastectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=310"
+    },
+    "img": "/mehlman/figures/med-p310-01.jpg",
+    "imgAlt": "Source figure: winged scapula",
+    "guideline": {
+      "text": "A paper on long thoracic nerve injury after axillary node dissection is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25035064/"
+    }
+  },
+  {
+    "id": "s2med-3034",
+    "category": "IM MSK",
+    "q": "Brachial plexus injuries causes per p310?",
+    "a": "Both upper and lower injuries can be caused in neonates by breech / traumatic labor, or by injuries such as grabbing a tree branch while falling.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=310"
+    },
+    "guideline": {
+      "text": "A narrative review of brachial plexus birth injuries is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340930/"
+    }
+  },
+  {
+    "id": "s2med-3035",
+    "category": "IM MSK",
+    "q": "Erb-Duchenne per p310?",
+    "a": "Upper brachial plexus injury (C5-C6). Sometimes the answer is just 'upper brachial plexus' when asked what is injured. Arm is adducted, pronated, and wrist flexed ('waiter's tip').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=310"
+    },
+    "img": "/mehlman/figures/med-p310-02.jpg",
+    "imgAlt": "Source figure: waiter's tip deformity",
+    "guideline": {
+      "text": "The brachial plexus review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340930/"
+    }
+  },
+  {
+    "id": "s2med-3036",
+    "category": "IM MSK",
+    "q": "Klumpke per p310?",
+    "a": "Lower brachial plexus injury (C8-T1). Sometimes the answer is just 'lower brachial plexus' when asked what is injured.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 310,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=310"
+    },
+    "img": "/mehlman/figures/med-p310-03.jpg",
+    "imgAlt": "Source figure: Klumpke claw-hand",
+    "guideline": {
+      "text": "The brachial plexus review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340930/"
+    }
   }
 ];

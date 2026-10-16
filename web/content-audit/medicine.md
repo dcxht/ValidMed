@@ -1050,3 +1050,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p308 (rotator cuff, upper limb nerves) - 12 cards, ids s2med-3007 to 3018
 - Form 7 CMS claim unverified. Median nerve heading was missing in text extraction; cards titled by content.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p309 (ulnar, radial, musculocutaneous, shoulder conditions) - 14 cards, ids s2med-3019 to 3032
+- "Surgery always wrong" for carpal tunnel and cubital tunnel kept as source; caution notes added / unverified.
+- Expletive paraphrased in musculocutaneous card.
+
+## p310 (winged scapula, brachial plexus) - 4 cards, ids s2med-3033 to 3036
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
