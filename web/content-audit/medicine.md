@@ -1154,3 +1154,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Celiac "anti-endomysial (aka anti-gliadin)" conflated; caution note added.
 - Anti-Hu/-Yo and small cell lung cancer, RHD "almost always" claims unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 40 cards ox=false off=false bad=0.
+
+## p336 (phakomatoses, GSDs, collagen) - 12 cards, ids s2med-3321 to 3332
+- Pompe enzyme named as debranching/acid maltase in source; caution note added.
+- NF1 oligodendroglioma/ependymoma unverified.
+
+## p337 (EDS end, collagen IV, lysosomal storage) - 12 cards, ids s2med-3333 to 3344
+- I-cell "secreted into cytosol + serum" wording flagged.
+- Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.

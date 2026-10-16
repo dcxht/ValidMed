@@ -44502,5 +44502,357 @@ export default [
       "text": "A review of AIHA in CLL is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8616265/"
     }
+  },
+  {
+    "id": "s2med-3321",
+    "category": "IM Biochem",
+    "q": "Neurofibromatosis type 1 per p336?",
+    "a": "AD; chromosome 17. Neurofibromas, cafe au lait spots (hyperpigmented macules), axillary/groin freckling, Lisch nodules (iris hamartomas), pheochromocytoma, optic nerve glioma, oligodendroglioma, ependymoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A consensus on diagnostic criteria for NF1 is linked (title only). I did not verify the oligodendroglioma and ependymoma associations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354850/"
+    }
+  },
+  {
+    "id": "s2med-3322",
+    "category": "IM Biochem",
+    "q": "Neurofibromatosis type 2 per p336?",
+    "a": "AD; chromosome 22. In kids, sometimes bilateral cataracts. Bilateral acoustic schwannomas plus meningioma in adults.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A paper on NF2 diagnostic criteria is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11374461/"
+    }
+  },
+  {
+    "id": "s2med-3323",
+    "category": "IM Biochem",
+    "q": "Tuberous sclerosis per p336?",
+    "a": "TSC1/2 genes; AD. Periventricular nodules (tubers) on head MRI, seizures, adenoma sebaceum (angiofibromas), subungual fibromas, renal angiomyolipoma, cardiac rhabdomyoma, hypopigmented macules ('ashleaf spots'), hyperpigmented velvety lesions ('shagreen patches').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "International TSC diagnostic criteria are linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34399110/"
+    }
+  },
+  {
+    "id": "s2med-3324",
+    "category": "IM Biochem",
+    "q": "Von Hippel-Lindau per p336?",
+    "a": "VHL; AD; chromosome 3. Cerebellar/retinal hemangioblastomas, bilateral renal cell carcinoma, pancreatic cysts. The mutation causes constitutive activation of hypoxia-inducible factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A review of VHL disease and oxygen sensing is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9479583/"
+    }
+  },
+  {
+    "id": "s2med-3325",
+    "category": "IM Biochem",
+    "q": "Sturge-Weber per p336?",
+    "a": "Not inherited; somatic mosaicism of the GNAQ gene. Port wine stain birthmark (nevus flammeus; may also present as violaceous papules in a temporal distribution), leptomeningeal angioma (presenting as seizure); glaucoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A review of GNAQ mutations in Sturge-Weber is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9670321/"
+    }
+  },
+  {
+    "id": "s2med-3326",
+    "category": "IM Biochem",
+    "q": "Type I glycogen storage (von Gierke) per p336?",
+    "a": "Deficiency of glucose-6-phosphatase. Lactic acidosis, hypoglycemia, jaundice, hepatomegaly. 'Super sick kid with glycogen storage disease.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A guideline on GSD type I is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25356975/"
+    }
+  },
+  {
+    "id": "s2med-3327",
+    "category": "IM Biochem",
+    "q": "Type II glycogen storage (Pompe) per p336?",
+    "a": "Cardiomyopathy and hepatomegaly. The answer for glycogen storage disease plus a heart problem. The source states the deficiency as 'debranching a1,4-glucosidase (aka lysosomal acid maltase)'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A guideline on Pompe disease is linked (title only). Caution: Pompe is usually described as acid alpha-glucosidase (acid maltase) deficiency, not the debranching enzyme; I did not verify the source's wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3110959/"
+    }
+  },
+  {
+    "id": "s2med-3328",
+    "category": "IM Biochem",
+    "q": "Type III glycogen storage (Cori) per p336?",
+    "a": "Deficiency of a1,6-glucosidase (debranching enzyme). No lactic acidosis (in contrast to von Gierke). 'Not so sick kid with glycogen storage disease.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A page on GSD type III is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK26372/"
+    }
+  },
+  {
+    "id": "s2med-3329",
+    "category": "IM Biochem",
+    "q": "Type V glycogen storage (McArdle) per p336?",
+    "a": "Deficiency of myophosphorylase (muscle glycogen phosphorylase). Usually adolescent or adult; severe cramping/rhabdomyolysis after intense exercise, but normal serum lactate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A page on GSD type V is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1344/"
+    }
+  },
+  {
+    "id": "s2med-3330",
+    "category": "IM Biochem",
+    "q": "Collagen type I per p336?",
+    "a": "Found in bone; predominates in late wound healing (white in color); higher tensile strength than type III. Osteogenesis imperfecta: fractures at different stages of healing, often mistaken for child abuse; blue sclerae (too easy, often omitted); conductive hearing loss (ossicle malformation); if OI and child abuse are ruled out, think osteopetrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A review of collagen in wound healing is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151502/"
+    }
+  },
+  {
+    "id": "s2med-3331",
+    "category": "IM Biochem",
+    "q": "Collagen type II per p336?",
+    "a": "Found in cartilage, intervertebral discs, and vitreous humor. Stickler syndrome causes congenital hearing loss.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "A paper on hearing loss in Stickler syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9498449/"
+    }
+  },
+  {
+    "id": "s2med-3332",
+    "category": "IM Biochem",
+    "q": "Collagen type III per p336?",
+    "a": "Found in blood vessels; early wound healing (pink in color); lower tensile strength than type I.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 336,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=336"
+    },
+    "guideline": {
+      "text": "The wound healing review is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151502/"
+    }
+  },
+  {
+    "id": "s2med-3333",
+    "category": "IM Biochem",
+    "q": "Vascular Ehlers-Danlos per p337 (continued from p336)?",
+    "a": "Hyperextensible skin/joints; easy bruising; aortic dissection/regurgitation; mitral valve prolapse (myxomatous degeneration); circle of Willis berry (saccular) aneurysms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A paper on COL3A1 variants in vascular Ehlers-Danlos is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4795191/"
+    }
+  },
+  {
+    "id": "s2med-3334",
+    "category": "IM Biochem",
+    "q": "Collagen type IV per p337?",
+    "a": "Found in basement membranes of the kidney and alveoli; also the lens, cornea, and inner ear. Alport (XR; type IV collagen mutation): eye/ear problems in a male with hematuria. Goodpasture (antibodies against type IV collagen): male 20s-40s with hemoptysis and hematuria; linear immunofluorescence on biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    }
+  },
+  {
+    "id": "s2med-3335",
+    "category": "IM Biochem",
+    "q": "Lysosomal storage diseases general per p337?",
+    "a": "All are associated with cognitive/neurologic deficits. AR except Fabry and Hunter, which are XR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    }
+  },
+  {
+    "id": "s2med-3336",
+    "category": "IM Biochem",
+    "q": "I-cell disease per p337?",
+    "a": "N-acetylglucosamine-1-phosphotransferase deficiency; many lysosomal enzymes build up. Cannot synthesize mannose-6-phosphate at the Golgi; M6P is needed to target lysosomal enzymes to lysosomes, so the enzymes are secreted (the source says 'into cytosol + serum'). Coarse facial features, joint contractures, hepatomegaly, recurrent ear infections, avascular necrosis of the hip.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A paper on mucolipidosis type II is linked (title only). I did not verify the 'cytosol' wording; the enzymes are generally described as missorted outside the cell.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30882951/"
+    }
+  },
+  {
+    "id": "s2med-3337",
+    "category": "IM Biochem",
+    "q": "Gaucher disease per p337?",
+    "a": "Glucocerebrosidase deficiency; glucocerebroside builds up. 'Crumpled tissue paper' (lipid-laden) macrophages. The answer for lysosomal storage disease plus a bone problem.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A registry study on fractures and avascular necrosis in Gaucher disease is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22692814/"
+    }
+  },
+  {
+    "id": "s2med-3338",
+    "category": "IM Biochem",
+    "q": "Tay-Sachs per p337?",
+    "a": "Hexosaminidase A deficiency; GM2 ganglioside builds up. Cherry red spot on the macula (blindness); no hepatosplenomegaly; neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Tay-Sachs is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK564432/"
+    }
+  },
+  {
+    "id": "s2med-3339",
+    "category": "IM Biochem",
+    "q": "Niemann-Pick per p337?",
+    "a": "Sphingomyelinase deficiency; sphingomyelin builds up. Cherry red spot on the macula (blindness); yes hepatosplenomegaly; neurodegeneration. The source's memory aid: Niemann-Pick is the longer name, as hepatosplenomegaly is the longer word.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "Consensus guidelines on acid sphingomyelinase deficiency are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10108815/"
+    }
+  },
+  {
+    "id": "s2med-3340",
+    "category": "IM Biochem",
+    "q": "Metachromatic leukodystrophy per p337?",
+    "a": "Arylsulfatase A deficiency; cerebroside sulfate builds up. Progressive neurologic decline; neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A review of metachromatic leukodystrophy is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7606900/"
+    }
+  },
+  {
+    "id": "s2med-3341",
+    "category": "IM Biochem",
+    "q": "Krabbe disease per p337?",
+    "a": "Galactocerebrosidase deficiency; galactocerebroside and psychosine build up. Aka globoid cell leukodystrophy; globoid cells (giant, multinucleated); neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A paper on galactosylceramidase deficiency in Krabbe disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10474820/"
+    }
+  },
+  {
+    "id": "s2med-3342",
+    "category": "IM Biochem",
+    "q": "Fabry disease per p337?",
+    "a": "XR. Alpha-galactosidase A deficiency; ceramide trihexoside builds up. Angiokeratomas (small red/purple dots on the skin from capillary dilation); heart and/or renal problems; neurodegeneration per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A review of cutaneous manifestations of Fabry disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11975216/"
+    }
+  },
+  {
+    "id": "s2med-3343",
+    "category": "IM Biochem",
+    "q": "Hunter syndrome per p337?",
+    "a": "XR. Iduronate sulfatase deficiency; glycosaminoglycans (dermatan and heparan sulfates) build up. Gargoyle-like facies, stridor, aggressive behavior. No clouded corneas ('Hunters can see the X': XR and no clouded corneas).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on MPS type II is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1274/"
+    }
+  },
+  {
+    "id": "s2med-3344",
+    "category": "IM Biochem",
+    "q": "Hurler syndrome per p337?",
+    "a": "Alpha-L-iduronidase deficiency; same GAG buildup. Gargoyle-like facies, stridor, aggressive behavior. Yes, clouded corneas. A more severe form than Hunter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 337,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=337"
+    },
+    "guideline": {
+      "text": "The MPS type II page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1274/"
+    }
   }
 ];
