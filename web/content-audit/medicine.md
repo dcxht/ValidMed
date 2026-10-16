@@ -1103,3 +1103,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p322 (LCP figures, SCFE) - 8 cards, ids s2med-3150 to 3157
 - Two figures on p322 matched to LCP by caption text.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p323 (SCFE end, rickets) - 10 cards, ids s2med-3158 to 3167
+- Rickets lab pattern kept as source, unverified.
+
+## p324 (peds bone issues) - 8 cards, ids s2med-3168 to 3175
+- Figures matched to topics by page order (tibial bowing x-ray to tibia vara; foot x-ray to talipes).
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.

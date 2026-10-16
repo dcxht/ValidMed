@@ -42179,5 +42179,263 @@ export default [
       "page": 322,
       "url": "/mehlman/hy-internal-medicine.pdf#page=322"
     }
+  },
+  {
+    "id": "s2med-3158",
+    "category": "IM MSK",
+    "q": "SCFE x-ray per p323 (continued from p322)?",
+    "a": "X-ray shows the 'ice cream slipping off its cone'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    },
+    "img": "/mehlman/figures/med-p323-01.jpg",
+    "imgAlt": "Source figure: hip x-ray with slipped capital femoral epiphysis",
+    "guideline": {
+      "text": "A paper comparing in situ pinning and the modified Dunn procedure in SCFE is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11556608/"
+    }
+  },
+  {
+    "id": "s2med-3159",
+    "category": "IM MSK",
+    "q": "SCFE vs LCP per p323?",
+    "a": "An offline 2CK question: x-ray in a 5-year-old shows 'contracted capital femoral epiphysis'; the answer is LCP, not SCFE. The younger age plus the word 'contracted' beat the words 'femoral capital epiphysis'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    }
+  },
+  {
+    "id": "s2med-3160",
+    "category": "IM MSK",
+    "q": "SCFE Tx per p323?",
+    "a": "Surgical pinning.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    },
+    "guideline": {
+      "text": "The pinning paper is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11556608/"
+    }
+  },
+  {
+    "id": "s2med-3161",
+    "category": "IM MSK",
+    "q": "Rickets vs osteomalacia per p323?",
+    "a": "Rickets = vitamin D deficiency in children. Osteomalacia = vitamin D deficiency in adults.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    },
+    "guideline": {
+      "text": "A position statement on rickets is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11066174/"
+    }
+  },
+  {
+    "id": "s2med-3162",
+    "category": "IM MSK",
+    "q": "Rickets findings per p323?",
+    "a": "Craniotabes (soft skull), rachitic rosary (bony knobs at the costochondral junctions), genu varum (bowing of the tibias).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    },
+    "img": "/mehlman/figures/med-p323-02.jpg",
+    "imgAlt": "Source figure: normal legs vs bow legs",
+    "guideline": {
+      "text": "The rickets position statement is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11066174/"
+    }
+  },
+  {
+    "id": "s2med-3163",
+    "category": "IM MSK",
+    "q": "Active vitamin D in bone per p323?",
+    "a": "Activated vitamin D (1,25) is necessary to convert unmineralized osteoid into mineralized hydroxyapatite, hardening bones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    }
+  },
+  {
+    "id": "s2med-3164",
+    "category": "IM MSK",
+    "q": "Histology in rickets and osteomalacia per p323?",
+    "a": "Both show 'increased unmineralized osteoid', or 'deficient mineralization of osteoid'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    },
+    "guideline": {
+      "text": "A paper on bone histomorphometry in osteomalacia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6020114/"
+    }
+  },
+  {
+    "id": "s2med-3165",
+    "category": "IM MSK",
+    "q": "Vitamin D deficiency cause per p323?",
+    "a": "An important USMLE cause is impaired intestinal absorption (e.g., CF, Crohn). For CF, the answer can be written 'exocrine pancreas insufficiency'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    },
+    "guideline": {
+      "text": "A review of vitamin D deficiency in malabsorption is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26316334/"
+    }
+  },
+  {
+    "id": "s2med-3166",
+    "category": "IM MSK",
+    "q": "Pseudofracture per p323?",
+    "a": "A buzzy x-ray finding in osteomalacia/rickets.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    }
+  },
+  {
+    "id": "s2med-3167",
+    "category": "IM MSK",
+    "q": "Rickets labs per p323?",
+    "a": "Low Ca2+, low PO4 3-, high PTH (due to less negative feedback at the parathyroid glands).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 323,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=323"
+    }
+  },
+  {
+    "id": "s2med-3168",
+    "category": "IM MSK",
+    "q": "Tibia vara per p324?",
+    "a": "Aka Blount disease. Bowing of the tibias after age 2 in a patient whom rickets has been ruled out. Can be unilateral or bilateral. Bowing of one or both tibias is sometimes normal until age 2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    },
+    "img": "/mehlman/figures/med-p324-01.jpg",
+    "imgAlt": "Source figure: leg x-ray with tibial bowing",
+    "guideline": {
+      "text": "A paper on Blount's disease reconstruction is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8303124/"
+    }
+  },
+  {
+    "id": "s2med-3169",
+    "category": "IM MSK",
+    "q": "Tibia vara Tx per p324?",
+    "a": "Surgery (osteotomy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8303124/"
+    }
+  },
+  {
+    "id": "s2med-3170",
+    "category": "IM MSK",
+    "q": "Osteopetrosis per p324?",
+    "a": "Osteoclast dysfunction causing recurrent fractures in children despite bone density being too high. Bone strength depends on balanced internal architecture of canals and networks, not density alone. High-yield differential against osteogenesis imperfecta and child abuse.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    }
+  },
+  {
+    "id": "s2med-3171",
+    "category": "IM MSK",
+    "q": "Osteopetrosis mechanism per p324?",
+    "a": "Osteoclast dysfunction due to carbonic anhydrase II deficiency; this enzyme inside osteoclasts normally lets them form H+ to resorb bone. The source says this is the straight answer on a 2CK NBME form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    },
+    "guideline": {
+      "text": "A paper on carbonic anhydrase II deficiency in osteopetrosis is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC393906/"
+    }
+  },
+  {
+    "id": "s2med-3172",
+    "category": "IM MSK",
+    "q": "Growing pains per p324?",
+    "a": "A healthy child age 3-12 awakens from sleep with throbbing pain in the legs. No treatment necessary; just know the diagnosis exists.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    },
+    "guideline": {
+      "text": "A review of growing pains is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5349398/"
+    }
+  },
+  {
+    "id": "s2med-3173",
+    "category": "IM MSK",
+    "q": "Talipes equinovarus per p324?",
+    "a": "Aka clubbed foot. USMLE wants you to know it is treated initially with serial casting. Usually idiopathic; can be seen in Potter sequence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    },
+    "img": "/mehlman/figures/med-p324-02.jpg",
+    "imgAlt": "Source figure: clubfoot x-ray",
+    "guideline": {
+      "text": "A review of idiopathic congenital clubfoot is linked (title only); a paper on Potter sequence is also linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9645716/"
+    }
+  },
+  {
+    "id": "s2med-3174",
+    "category": "IM MSK",
+    "q": "Rocker-bottom foot per p324?",
+    "a": "Not the same as clubfoot. Rocker-bottom foot (aka congenital vertical talus) is seen in Edward syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    },
+    "guideline": {
+      "text": "A review of congenital vertical talus is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10518251/"
+    }
+  },
+  {
+    "id": "s2med-3175",
+    "category": "IM MSK",
+    "q": "Arthrogryposis per p324?",
+    "a": "A fancy name for a child born with multiple joint contractures. If a child has not just a clubbed foot but also knee and/or elbow contractures, the answer is arthrogryposis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 324,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=324"
+    },
+    "guideline": {
+      "text": "An update on arthrogryposis multiplex congenita is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4661148/"
+    }
   }
 ];
