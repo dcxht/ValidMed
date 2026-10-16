@@ -23021,5 +23021,215 @@ export default [
       "text": "DSM-5 requires at least 4 consecutive days for hypomania and specifies the episode is not severe enough to cause marked impairment and has no psychosis; if psychosis is present, the episode is mania by definition.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
     }
+  },
+  {
+    "id": "s2peds-1607",
+    "category": "Bipolar disorder I and II",
+    "q": "How does p110 diagnose bipolar I disorder?",
+    "a": "The patient has at least one manic episode, with or without a depressive episode.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms DSM-5 bipolar I requires criteria met for at least one manic episode, which might have been preceded or followed by hypomanic or major depressive episodes, though those are not required.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
+    }
+  },
+  {
+    "id": "s2peds-1608",
+    "category": "Bipolar disorder I and II",
+    "q": "How does p110 diagnose bipolar II disorder, and why is a major depressive episode required?",
+    "a": "At least one hypomanic episode plus at least one major depressive episode, with no lifetime full-blown manic episode; the depressive episode is required because hypomania with only past depressed mood could be cyclothymia rather than bipolar II.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms bipolar II requires at least one current or past hypomanic episode plus a major depressive episode with no manic episodes, and defines cyclothymic disorder as subthreshold hypomanic and depressive symptoms that never meet full episode criteria.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
+    }
+  },
+  {
+    "id": "s2peds-1609",
+    "category": "Bipolar disorder I and II",
+    "q": "What does p110 give as the USMLE treatment for bipolar disorder?",
+    "a": "Lithium or valproic acid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls lists first-line acute mania monotherapy as a mood stabilizer (lithium or valproate) or an antipsychotic (aripiprazole, asenapine, cariprazine, quetiapine, or risperidone); lithium StatPearls notes FDA approval for bipolar I acute manic or mixed episodes and maintenance in patients aged 7 and older (sustained-release 12 and older).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519062/"
+    }
+  },
+  {
+    "id": "s2peds-1610",
+    "category": "Bipolar disorder I and II",
+    "q": "What adverse effects does p110 list for lithium?",
+    "a": "Nephrogenic diabetes insipidus, hypothyroidism, and tremor; it is also a teratogen that causes Ebstein anomaly.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms lithium causes nephrogenic diabetes insipidus with polyuria and polydipsia, hypothyroidism from thyroid accumulation, tremor, and first-trimester cardiac malformations, particularly Ebstein anomaly.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519062/"
+    }
+  },
+  {
+    "id": "s2peds-1611",
+    "category": "Bipolar disorder I and II",
+    "q": "What adverse effects does p110 list for valproic acid, and what exam clue picks it over lithium?",
+    "a": "Neural tube defects (interference with folate metabolism), tremor, and hepatotoxicity; if the question gives increased LFTs plus tremor, choose valproic acid over lithium.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "MotherToBaby confirms valproic acid lowers folic acid levels and carries a 1% to 2% neural-tube-defect risk with first-trimester exposure, and StatPearls notes valproate hepatotoxicity (via mitochondrial injury) and tremor, matching the source exam rule.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK583009/"
+    }
+  },
+  {
+    "id": "s2peds-1612",
+    "category": "Psychotic disorders",
+    "q": "What four diagnostic points does p110 give for schizophrenia?",
+    "a": "1) At least 6 months in duration; 2) two or more of five symptom groups; 3) socio-occupational dysfunction (impairment in school, interpersonal relationships, or self-care); 4) not attributed to a mood disorder (depression or bipolar), substance use, or another medical condition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms DSM-5 requires continuous signs for at least 6 months with at least 1 month of active-phase symptoms, significant functional decline, and exclusion of schizoaffective, mood, substance, and medical causes; childhood-onset schizophrenia (younger than 13) is rare and typically more severe.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539864/"
+    }
+  },
+  {
+    "id": "s2peds-1613",
+    "category": "Psychotic disorders",
+    "q": "What five symptom groups count toward the p110 schizophrenia diagnosis?",
+    "a": "Hallucinations (always auditory on USMLE; hearing voices that are not there), delusions (false beliefs, possibly bizarre such as aliens or demons), disorganized speech (often nonsensical or muffled), disorganized or catatonic behavior, and negative symptoms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms the same five DSM-5 symptom domains, requiring two or more, each present for a significant portion of 1 month, with at least one being delusions, hallucinations, or disorganized speech; auditory hallucinations are the most common type.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539864/"
+    }
+  },
+  {
+    "id": "s2peds-1614",
+    "category": "Psychotic disorders",
+    "q": "How does p110 describe the negative symptoms of schizophrenia?",
+    "a": "Flattened or blunted affect, anhedonia (inability to feel pleasure), and diminished speech.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls describes negative symptoms as diminished emotional expression or avolition, with reduced motivation and expressiveness, plus associated cognitive impairment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539864/"
+    }
+  },
+  {
+    "id": "s2peds-1615",
+    "category": "Psychotic disorders",
+    "q": "How does p110 define schizophreniform disorder?",
+    "a": "Same as schizophrenia but 1 to 6 months in duration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms schizophreniform disorder is diagnosed when psychotic symptoms last less than 6 months, with the lower boundary at 1 month (shorter episodes are brief psychotic disorder).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539864/"
+    }
+  },
+  {
+    "id": "s2peds-1616",
+    "category": "Psychotic disorders",
+    "q": "How does p110 define brief psychotic disorder?",
+    "a": "Same as schizophrenia but less than 1 month in duration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms brief psychotic disorder spans from 1 day to less than 1 month of psychotic symptoms.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539864/"
+    }
+  },
+  {
+    "id": "s2peds-1617",
+    "category": "Commonly confused conditions",
+    "q": "How does p110 define schizoaffective disorder, including its vignette example?",
+    "a": "At least two weeks of psychosis without a mood disorder (neither depression nor mania/hypomania), followed by periods of simultaneous psychotic and mood disorder; for example, a student hearing voices for 6 weeks who has been staying up all night for the past month (4 weeks of mania or hypomania plus at least 2 weeks of psychosis alone).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms DSM-5 schizoaffective disorder requires hallucinations or delusions for 2 or more weeks without a major mood episode, plus a major mood episode present for the majority of the total illness duration, concurrent with schizophrenia criterion A.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541012/"
+    }
+  },
+  {
+    "id": "s2peds-1618",
+    "category": "Commonly confused conditions",
+    "q": "What p110 mnemonic separates schizoaffective disorder's baseline from its spikes?",
+    "a": "The name starts with \"schizo,\" so psychosis is the baseline disorder; the mood disorder then spikes on top of it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls supports the distinction mechanistically: schizoaffective requires a definite period of at least 2 weeks of psychotic symptoms without mood symptoms, while mood episodes dominate most of the total illness duration.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541012/"
+    }
+  },
+  {
+    "id": "s2peds-1619",
+    "category": "Commonly confused conditions",
+    "q": "How does p110 describe depression with psychotic features compared with schizoaffective disorder?",
+    "a": "Depression, rather than psychosis, is the baseline: the patient has periods of major depression without any psychosis, and the psychosis periodically spikes on top of the depression.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms that in major depressive disorder with psychotic features, psychosis occurs only during mood episodes, whereas schizoaffective disorder requires at least 2 weeks of psychosis without mood symptoms.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541012/"
+    }
+  },
+  {
+    "id": "s2peds-1620",
+    "category": "Commonly confused conditions",
+    "q": "How does p110 describe bipolar disorder with psychotic features?",
+    "a": "Bipolar is the baseline, with periods of depression or mania alone followed by psychosis spiking on top; mania alone followed by simultaneous psychosis makes the diagnosis easier, while depression followed by psychosis can mimic depression with psychotic features except the patient also has a history of at least one manic episode.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 110,
+      "url": "/mehlman/hy-pediatrics.pdf#page=110"
+    },
+    "guideline": {
+      "text": "StatPearls confirms that in bipolar disorder with psychotic features, delusions and hallucinations occur only during manic (or depressive) episodes, and that bipolar I is defined by at least one manic episode regardless of depressive history.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541012/"
+    }
   }
 ];
