@@ -25119,5 +25119,355 @@ export default [
       "text": "CDC checklists list getting to a sitting position and sitting without support at 9 months; crawling is not a listed checklist milestone. Source age kept as written.",
       "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
     }
+  },
+  {
+    "id": "s2peds-1757",
+    "category": "Developmental milestones: gross motor",
+    "q": "At what age does a baby stand or walk alongside the sofa, per p118?",
+    "a": "10-11 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC lists pulling to stand and walking while holding on to furniture on the 12-month checklist. CDC checklists (revised 2022) place each milestone at the age by which 75% or more of children achieve it.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1758",
+    "category": "Developmental milestones: gross motor",
+    "q": "At what age does a child walk, per p118?",
+    "a": "12-15 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC lists a few steps on their own at 15 months and walking without holding on at 18 months. CDC checklists (revised 2022) place each milestone at the age by which 75% or more of children achieve it.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1759",
+    "category": "Developmental milestones: fine motor",
+    "q": "At what age does the pincer grasp appear, per p118?",
+    "a": "9 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1760",
+    "category": "Developmental milestones: fine motor",
+    "q": "How many blocks does a child stack at ages 1, 2 and 3, per p118?",
+    "a": "3 blocks at age 1, 6 blocks at age 2, 9 blocks at age 3.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC's 15-month checklist lists stacking at least two small objects.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1761",
+    "category": "Developmental milestones: fine motor",
+    "q": "At what age does a child copy a circle, a square and a triangle, per p118?",
+    "a": "Circle at 3-4 years, square at 4-5 years, triangle at 5-6 years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC's 3-year checklist lists drawing a circle when shown how.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1762",
+    "category": "Developmental milestones: language",
+    "q": "What does p118 say about 'mama' and 'dada' and the child's own name at 1 year?",
+    "a": "'Mama' and 'dada' by 1 year, and the child recognizes their own name by 1 year.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC: calling a parent 'mama' or 'dada' is on the 12-month checklist; looking when called by name is on the 9-month checklist. CDC checklists (revised 2022) place each milestone at the age by which 75% or more of children achieve it.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1763",
+    "category": "Developmental milestones: language",
+    "q": "What sentence length does p118 give at age 2?",
+    "a": "2-word sentences at age 2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC's 2-year checklist lists saying at least two words together, like 'More milk'.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1764",
+    "category": "Developmental milestones: language",
+    "q": "How many words does p118 give at age 3?",
+    "a": "900 words at age 3.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1765",
+    "category": "Developmental milestones: social",
+    "q": "When does the social smile appear per p118?",
+    "a": "2-3 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC's 2-month checklist lists smiling when you talk to or smile at the baby.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1766",
+    "category": "Developmental milestones: social",
+    "q": "When does stranger anxiety appear per p118?",
+    "a": "6-9 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "CDC's 9-month checklist lists being shy, clingy or fearful around strangers.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1767",
+    "category": "Developmental milestones: social",
+    "q": "When does separation anxiety appear per p118?",
+    "a": "9-14 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1768",
+    "category": "Developmental milestones: social",
+    "q": "What does p118 say about imaginary friends at ages 4-6, and why does the Peds shelf like it?",
+    "a": "Imaginary friends are normal at age 4-6. The Peds shelf likes this; it is not psychosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1769",
+    "category": "Developmental milestones: social",
+    "q": "What does p118 say about repeated questioning about death at ages 8-10?",
+    "a": "It is normal at age 8-10.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1770",
+    "category": "Developmental milestones: social",
+    "q": "What play stages does p118 give by age?",
+    "a": "Parallel play at age 2-3 (children play side by side); cooperative play at age 3-4.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1771",
+    "category": "Enuresis",
+    "q": "What does p118 say about nocturnal enuresis up to age 5?",
+    "a": "Wetting the bed is normal on occasion up through age 5.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1772",
+    "category": "Enuresis",
+    "q": "What first step does p118 give to decrease enuresis recurrence, with its example vignette?",
+    "a": "Behavioral-science-type answers: decrease stressors and increase time spent with the child. Example: a child wets the bed after a sibling is diagnosed with ALL (a stressor).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1773",
+    "category": "Enuresis",
+    "q": "What does p118 give after the behavioral answers, and how does the star chart work?",
+    "a": "The star chart (positive reinforcement): the child gets a star on a chart every time he or she does not wet the bed, and after, for example, 10 stars gets an extra dessert.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1774",
+    "category": "Enuresis",
+    "q": "What does p118 say is the next best step if the star chart is not listed?",
+    "a": "The enuresis alarm: a sensor in the child's underwear that detects moisture and sounds or vibrates to wake the child, encouraging toileting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "NICE-based review of nocturnal enuresis treatments treats alarms and desmopressin as the initial treatments.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK62714/"
+    }
+  },
+  {
+    "id": "s2peds-1775",
+    "category": "Enuresis",
+    "q": "Which answers does p118 say are wrong on the USMLE for enuresis?",
+    "a": "Imipramine, desmopressin and water deprivation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "Current enuresis guidance (NICE-based review; ICCS standardization) lists desmopressin and alarm interventions as first-line options for suitable children, so the source's 'wrong' label reflects its exam sequence (behavioral steps, star chart, then alarm), not current practice.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK62714/"
+    }
+  },
+  {
+    "id": "s2peds-1776",
+    "category": "Encopresis",
+    "q": "How does p118 define encopresis and its normal age?",
+    "a": "Passing stool in the underwear. It is normal on occasion up through age 5.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls: encopresis is involuntary passage of stool into inappropriate places such as underwear in children older than 4 years.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560560/"
+    }
+  },
+  {
+    "id": "s2peds-1777",
+    "category": "Reye syndrome",
+    "q": "What causes Reye syndrome per p118?",
+    "a": "Acute encephalopathy and hepatic dysfunction from giving aspirin during a viral illness and/or fever.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls: Reye syndrome is acute noninflammatory encephalopathy with fatty liver failure; surveillance and aspirin warnings followed in the 1970s.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526101/"
+    }
+  },
+  {
+    "id": "s2peds-1778",
+    "category": "Reye syndrome",
+    "q": "What age limit for aspirin does p118 give, and what mechanism?",
+    "a": "Aspirin should be avoided under age 12, and some sources say avoid it in teens as well. The mechanism is obscure and thought to be related to impairment of beta-oxidation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "FPIN review: aspirin should not be used for acute febrile viral illness in children; no causal link proven but case-control studies show an association, and risk falls with age.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526101/"
+    }
+  },
+  {
+    "id": "s2peds-1779",
+    "category": "Anticholinergic delirium",
+    "q": "How does p118 describe anticholinergic delirium in children?",
+    "a": "Anticholinergic medications can cause confusion and a delirium-like presentation. Children have increased susceptibility.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls Anticholinergic Toxicity: history of antihistamine ingestion is common; presentation can be less straightforward.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/"
+    }
+  },
+  {
+    "id": "s2peds-1780",
+    "category": "Anticholinergic delirium",
+    "q": "What vignette does p118 give for anticholinergic delirium vs Reye?",
+    "a": "A kid was given an over-the-counter medication and now has low-grade fever and confusion. Flushed, dry, warm skin or enlarged pupils suggest anticholinergic delirium over Reye. It can be confused with Reye if the stem only says 'over-the-counter' medication.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2peds-1781",
+    "category": "Anticholinergic delirium",
+    "q": "Which drug class does p118 call notoriously anticholinergic?",
+    "a": "First-generation H1-blockers, such as diphenhydramine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls: diphenhydramine is a first-generation antihistamine with anticholinergic and sedative properties.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557578/"
+    }
+  },
+  {
+    "id": "s2peds-1782",
+    "category": "Dextromethorphan",
+    "q": "What does p118 say about dextromethorphan in excess in children?",
+    "a": "It can cause delirium and psychosis in children when taken in excessive amounts. It is an opioid that is an antitussive (cough suppressant).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 118,
+      "url": "/mehlman/hy-pediatrics.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls: dextromethorphan is an OTC antitussive; overdose produces toxicity through NMDA receptor antagonism and other effects.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538502/"
+    }
   }
 ];
