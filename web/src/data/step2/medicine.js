@@ -55779,5 +55779,420 @@ export default [
       "page": 411,
       "url": "/mehlman/hy-internal-medicine.pdf#page=411"
     }
+  },
+  {
+    "id": "s2med-4256",
+    "category": "IM Mixed",
+    "q": "Rewarming-related hyperkalemia mechanism (continued from p411)?",
+    "a": "With ATN, reperfusion injury can cause O2 radical-mediated damage that induces cell lysis (raising K).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4257",
+    "category": "IM Mixed",
+    "q": "14M ataxia + cognitive decline over a few months per p412?",
+    "a": "Glue (inhalant) exposure, not alcohol: a kid that young would not get alcoholic cerebellar ataxia (an NBME item per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4258",
+    "category": "IM Mixed",
+    "q": "16M found unconscious in a school bathroom, normal vitals, no eye findings, a little sluggish per p412?",
+    "a": "Butane (inhalant) toxicity, from 'dusters' / computer cleaner.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4259",
+    "category": "IM Mixed",
+    "q": "Medial malleolus ulcer + hyperpigmentation of lower legs per p412?",
+    "a": "Chronic venous insufficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4260",
+    "category": "IM Mixed",
+    "q": "Punched-out foot ulcer + intermittent claudication per p412?",
+    "a": "Arterial insufficiency (peripheral vascular disease).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4261",
+    "category": "IM Mixed",
+    "q": "Cause of venous insufficiency per p412?",
+    "a": "Valvular incompetence (most commonly familial) causing venous reflux.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4262",
+    "category": "IM Mixed",
+    "q": "Cause of arterial insufficiency per p412?",
+    "a": "Atherosclerosis. Diabetes then smoking are the two most accelerating risk factors; hypertension is the most common risk factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4263",
+    "category": "IM Mixed",
+    "q": "Diagnosis of venous insufficiency per p412?",
+    "a": "Duplex ultrasound of the calves showing stasis and/or occlusive disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4264",
+    "category": "IM Mixed",
+    "q": "Diagnosis of arterial insufficiency per p412?",
+    "a": "Ankle-brachial index first; then Doppler ultrasound of the calves or arteriography (both correct, only one will be listed; duplex is the venous answer).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    },
+    "guideline": {
+      "text": "The 2024 ESC peripheral arterial disease guideline is linked for current diagnostic and treatment guidance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39210722/"
+    }
+  },
+  {
+    "id": "s2med-4265",
+    "category": "IM Mixed",
+    "q": "Treatment of venous insufficiency and varicose veins per p412?",
+    "a": "Compression stockings. Varicose veins are one presentation of venous insufficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4266",
+    "category": "IM Mixed",
+    "q": "47F varicose veins + painful palpable cord by the ankle per p412?",
+    "a": "Superficial thrombophlebitis: subcutaneous enoxaparin (not compression stockings).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4267",
+    "category": "IM Mixed",
+    "q": "Treatment of arterial insufficiency per p412?",
+    "a": "Exercise regimen first, THEN cilostazol (phosphodiesterase 3 inhibitor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4268",
+    "category": "IM Mixed",
+    "q": "What to do before the exercise regimen for arterial insufficiency per p412?",
+    "a": "ECG stress test to determine exercise tolerance (continues on p413).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 412,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=412"
+    }
+  },
+  {
+    "id": "s2med-4269",
+    "category": "IM Mixed",
+    "q": "Abnormal baseline ECG (e.g., BBB) before stress testing per p413?",
+    "a": "Echo stress test instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4270",
+    "category": "IM Mixed",
+    "q": "Patient who cannot exercise per p413?",
+    "a": "Dobutamine-echo stress test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4271",
+    "category": "IM Mixed",
+    "q": "Stable angina after merely walking up a flight of stairs per p413?",
+    "a": "Skip the stress test and go straight to a myocardial perfusion scan (NBME answer per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4272",
+    "category": "IM Mixed",
+    "q": "Severe ischemia on stress test or perfusion scan per p413?",
+    "a": "Coronary angiography, then CABG if three-vessel disease, OR two-vessel disease + diabetic, OR single-vessel disease if left main.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4273",
+    "category": "IM Mixed",
+    "q": "CVD patient on several drugs with hyperkalemia per p413?",
+    "a": "ACE inhibitor, ARB, and spironolactone can all cause hyperkalemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4274",
+    "category": "IM Mixed",
+    "q": "CVD patient on several drugs with hypokalemia per p413?",
+    "a": "Furosemide (loop diuretic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4275",
+    "category": "IM Mixed",
+    "q": "When to start furosemide per p413?",
+    "a": "To unload fluid (dyspnea in heart failure or peripheral edema).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4276",
+    "category": "IM Mixed",
+    "q": "Still fluid overloaded on furosemide: next diuretic per p413?",
+    "a": "Spironolactone (HY on Step 1 and 2CK NBMEs). Furosemide wastes K, so a potassium-sparing diuretic balances it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4277",
+    "category": "IM Mixed",
+    "q": "MOA and side effects of spironolactone per p413?",
+    "a": "Aldosterone receptor antagonist; hyperkalemia and gynecomastia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4278",
+    "category": "IM Mixed",
+    "q": "Spironolactone in heart failure per p413?",
+    "a": "Added after the patient is already on ACEi (or ARB) + beta-blocker: ACEi/ARB first, then beta-blocker, then spironolactone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    },
+    "guideline": {
+      "text": "Current heart failure therapy optimization is reviewed in the linked PMC article; the source's sequence stays as the exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11379751/"
+    }
+  },
+  {
+    "id": "s2med-4279",
+    "category": "IM Mixed",
+    "q": "Major side effects of beta-blockers per p413?",
+    "a": "Depression and sexual dysfunction (avoid in these patients, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4280",
+    "category": "IM Mixed",
+    "q": "Major side effect of naproxen per p413?",
+    "a": "Fluid retention (edema) from increased renal sodium retention. The source says the USMLE is obsessed with naproxen as the NSAID.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4281",
+    "category": "IM Mixed",
+    "q": "Why NSAIDs cause fluid retention per p413?",
+    "a": "COX inhibition lowers prostaglandins, reducing afferent arteriolar dilation and renal blood flow; the PCT compensates for perceived low volume by reabsorbing more Na, and water follows.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4282",
+    "category": "IM Mixed",
+    "q": "BUN/Cr ratio in NSAID-induced interstitial nephropathy per p413?",
+    "a": "Over 20 (pre-renal pattern), per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 413,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=413"
+    }
+  },
+  {
+    "id": "s2med-4283",
+    "category": "IM Mixed",
+    "q": "Classic vignette for a patient on naproxen per p414?",
+    "a": "Osteoarthritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4284",
+    "category": "IM Mixed",
+    "q": "Treatment of osteoarthritis per p414?",
+    "a": "Weight loss (obesity is the biggest risk factor), then acetaminophen, then NSAIDs. Acetaminophen comes before NSAIDs because of NSAID renal damage; a stem may show an OA patient on naproxen as poor self-management.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4285",
+    "category": "IM Mixed",
+    "q": "Beta-blockers that decrease mortality in heart failure per p414?",
+    "a": "Metoprolol XR (extended release), carvedilol, nebivolol, bisoprolol. USMLE will just say metoprolol; propranolol, atenolol, etc. do not improve mortality.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4286",
+    "category": "IM Mixed",
+    "q": "When to use 'regular' metoprolol per p414?",
+    "a": "Classically first-line for atrial fibrillation rate control.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4287",
+    "category": "IM Mixed",
+    "q": "When to use atenolol per p414?",
+    "a": "Stage fright (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4288",
+    "category": "IM Mixed",
+    "q": "When to use propranolol per p414?",
+    "a": "Migraine prophylaxis; tachycardia in hyperthyroidism (decreases peripheral T4 to T3 conversion); esophageal varices prophylaxis; antipsychotic akathisia; HOCM (increases preload; HOCM and MVP murmurs worsen with low preload); essential tremor; social phobia (different from stage fright).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4289",
+    "category": "IM Mixed",
+    "q": "Muscle pain reliever and wheezing: acetaminophen or aspirin to avoid per p414?",
+    "a": "Aspirin (aspirin-induced asthma).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4290",
+    "category": "IM Mixed",
+    "q": "27F intermittent headaches + blurry vision per p414?",
+    "a": "Optic neuritis (multiple sclerosis), per the source an NBME item despite the headaches. Optic neuritis is inflammation of CN II: blurry vision, color vision change, or Marcus Gunn pupil (relative afferent pupillary defect).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4291",
+    "category": "IM Mixed",
+    "q": "Most specific eye finding in MS per p414?",
+    "a": "MLF syndrome (internuclear ophthalmoplegia): on abduction to one side CN VI fires, which needs the contralateral CN III to adduct. The side that cannot adduct is the lesioned side; the normal side has nystagmus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
+  },
+  {
+    "id": "s2med-4292",
+    "category": "IM Mixed",
+    "q": "Treatment of an acute MS flare per p414?",
+    "a": "IV steroids (oral is wrong and can worsen flares, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 414,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=414"
+    }
   }
 ];

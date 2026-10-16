@@ -1415,3 +1415,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Sturge-Weber "violaceous papules in trigeminal distribution": source claim, not verified.
 - Kasabach-Merritt "requires surgical treatment": source, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 39 cards ox=false off=false bad=0.
+
+## p412 (IM mixed bullets: inhalants, venous/arterial insufficiency) - 13 cards, ids s2med-4256 to 4268
+- Glue/butane inhalant vignettes: source, not verified.
+
+## p413 (IM mixed bullets: stress testing, HF drugs, NSAIDs) - 14 cards, ids s2med-4269 to 4282
+- HF drug sequence kept as exam answer; GDMT review linked. NSAID BUN/Cr >20 for interstitial nephropathy: source, not verified.
+
+## p414 (IM mixed bullets: OA, beta-blockers, MS) - 10 cards, ids s2med-4283 to 4292
+- "Atenolol for stage fright" and "oral steroids worsen MS flares": source, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 37 cards ox=false off=false bad=0.
