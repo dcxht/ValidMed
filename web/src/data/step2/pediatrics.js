@@ -28727,5 +28727,200 @@ export default [
       "page": 133,
       "url": "/mehlman/hy-pediatrics.pdf#page=133"
     }
+  },
+  {
+    "id": "s2peds-2017",
+    "category": "Tibia vara",
+    "q": "What does the AP radiograph at the top of p134 (continuing tibia vara on p133) show?",
+    "a": "Bilateral bowing of the lower legs in a toddler, the picture of tibia vara (Blount disease) / bowed tibias.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "img": "/mehlman/figures/peds-p134-tibiavara.png",
+    "imgAlt": "AP radiograph of both lower legs in a toddler with tibial bowing, from p134",
+    "guideline": {
+      "text": "StatPearls: Blount disease causes progressive tibial bowing, which can be unilateral or bilateral. The page does not label the film, so this follows its placement under the tibia vara row.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560923/"
+    }
+  },
+  {
+    "id": "s2peds-2018",
+    "category": "Clubfoot",
+    "q": "What is talipes equinovarus per p134?",
+    "a": "Clubfoot.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "img": "/mehlman/figures/peds-p134-clubfoot.png",
+    "imgAlt": "Radiograph of an infant clubfoot, from p134",
+    "guideline": {
+      "text": "StatPearls: talipes equinovarus (clubfoot) is a congenital deformity of the foot.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557841/"
+    }
+  },
+  {
+    "id": "s2peds-2019",
+    "category": "Clubfoot",
+    "q": "What is the initial treatment of talipes equinovarus that USMLE wants you to know per p134?",
+    "a": "Serial casting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "StatPearls: treatment typically begins with nonoperative serial manipulation, casting and bracing (Ponseti method); success is reported at greater than 90% in multiple studies.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557841/"
+    }
+  },
+  {
+    "id": "s2peds-2020",
+    "category": "Clubfoot",
+    "q": "What is the usual cause of clubfoot, and what syndrome can it appear in per p134?",
+    "a": "Usually idiopathic. It can be seen in Potter sequence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "StatPearls: most clubfoot is idiopathic. I did not verify the Potter sequence association; StatPearls lists oligohydramnios only as a historical risk factor not demonstrated in later studies.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557841/"
+    }
+  },
+  {
+    "id": "s2peds-2021",
+    "category": "Clubfoot",
+    "q": "How does clubfoot differ from rocker-bottom foot per p134?",
+    "a": "Rocker-bottom foot is congenital vertical talus, seen in Edwards syndrome. It is not the same as clubfoot.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "StatPearls lists congenital vertical talus as a separate congenital foot deformity. I did not verify the Edwards syndrome link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557841/"
+    }
+  },
+  {
+    "id": "s2peds-2022",
+    "category": "Arthrogryposis",
+    "q": "What is arthrogryposis per p134?",
+    "a": "A child born with multiple joint contractures.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "Review: arthrogryposis (multiple congenital contractures) means congenital joint contractures in two or more body areas; isolated contractures such as clubfoot are the most common single-area type.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2698792/"
+    }
+  },
+  {
+    "id": "s2peds-2023",
+    "category": "Arthrogryposis",
+    "q": "A child has clubfoot plus knee and/or elbow contractures. What is the answer per p134?",
+    "a": "Arthrogryposis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "Review: arthrogryposis involves contractures in multiple body areas; isolated clubfoot is a single-area contracture.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2698792/"
+    }
+  },
+  {
+    "id": "s2peds-2024",
+    "category": "Developmental dysplasia of the hip",
+    "q": "What is developmental dysplasia of the hip, and what is the mechanism per p134?",
+    "a": "Aka DDH or primary hip dysplasia. Mechanism is a poorly developed acetabulum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "StatPearls: DDH covers instability, acetabular dysplasia, subluxation and dislocation of the hip.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2peds-2025",
+    "category": "Developmental dysplasia of the hip",
+    "q": "How is DDH initially diagnosed per p134?",
+    "a": "Ortolani and Barlow maneuvers, which elicit a clicking and clunking on exam.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "StatPearls: the Ortolani and Barlow maneuvers identify hip instability or dislocation in the infant.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2peds-2026",
+    "category": "Developmental dysplasia of the hip",
+    "q": "After a positive Ortolani or Barlow maneuver, what is the next best step per p134?",
+    "a": "Orthopedic referral, before imaging. p134 says it sounds wrong but is the answer if listed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2peds-2027",
+    "category": "Developmental dysplasia of the hip",
+    "q": "How is DDH definitively diagnosed per p134?",
+    "a": "Hip ultrasound if under 6 months of age; hip x-ray if over 6 months of age.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls cites the AAP recommendation of hip ultrasound at 6 weeks or hip x-ray at 4 months, and says a normal pelvic radiograph at 4 months reliably excludes dysplasia. The age cutoff for switching to x-ray is commonly given as about 4 to 6 months. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2peds-2028",
+    "category": "Developmental dysplasia of the hip",
+    "q": "What is the treatment of DDH per p134?",
+    "a": "Abduction harness, aka Pavlik harness, which positions the child's legs in a frog-leg-appearing manner.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "StatPearls: abduction devices, including the Pavlik harness, are used in patients aged 1 to 6 months; use is directed by the orthopedic surgeon.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2peds-2029",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "What is Legg-Calve-Perthes disease per p134?",
+    "a": "Idiopathic avascular necrosis of the femoral head.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 134,
+      "url": "/mehlman/hy-pediatrics.pdf#page=134"
+    },
+    "guideline": {
+      "text": "StatPearls: idiopathic osteonecrosis (avascular necrosis) of the capital femoral epiphysis of the femoral head.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
   }
 ];

@@ -638,3 +638,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls ACL, PCL, LCL, MCL, ITB, Osgood-Schlatter, Plantar Heel Pain, Blount; McMurray systematic review; growing pains review. No source conflicts found.
 - Left un-noted (not verified): test technique descriptions (varus/valgus hand placement), unhappy triad content and NBME claim, ITB pain distribution and treatment details beyond conservative, growing pains age 3-12 and no treatment, Blount after age 2 and osteotomy, physiologic bowing until 2.
 - Mobile QA (320x740, live, local headless Chrome): all 18 cards ox=false off=false bad=0.
+
+## p134 (tibia vara film, clubfoot, arthrogryposis, DDH, Legg-Calve-Perthes) - 13 cards, ids s2peds-2017 to 2029
+- Inspected page pixels. Two figures: top AP leg radiograph (placed under the tibia vara row, unlabeled on the page) and a clubfoot radiograph.
+- Notes verified against StatPearls (Talipes Equinovarus, DDH, Blount, Legg-Calve-Perthes) and an arthrogryposis review. Source answer kept for DDH imaging cutoff (ultrasound <6 months, x-ray >6 months); caution note cites AAP 6 weeks ultrasound / 4 months x-ray.
+- Left un-noted (not verified): ortho referral before imaging, Potter sequence association, Edwards syndrome and rocker-bottom foot, frog-leg description of Pavlik positioning.
+- Mobile QA: PENDING
