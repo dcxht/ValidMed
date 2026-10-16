@@ -32555,5 +32555,214 @@ export default [
       "text": "I did not verify these values; the source gives them as printed.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
     }
+  },
+  {
+    "id": "s2peds-2289",
+    "category": "17-hydroxylase deficiency",
+    "q": "What are the findings in 17-hydroxylase deficiency per p152?",
+    "a": "Cortisol and aldosterone are low, but their precursors, which have some effect, are high. Decreased 17-OH substrates, decreased DHEA-S and androstenedione. Decreased K+, increased Na+, increased pH, increased HCO3- (high aldosterone effect). Decreased glucose (cortisol and its precursor are low).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "StatPearls: 17-OH deficiency presents with hypertension and hypokalemia and sexual infantilism. The source says aldosterone is low yet also lists a 'high aldosterone' electrolyte pattern; I did not resolve this.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546644/"
+    }
+  },
+  {
+    "id": "s2peds-2290",
+    "category": "Neuroblastoma",
+    "q": "What is neuroblastoma per p152?",
+    "a": "Essentially the pediatric pheo. N-myc gene. Secretes catecholamines and can calcify.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "StatPearls: MYCN amplification is the most important biological marker, with rapid progression and poor outcome.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448111/"
+    }
+  },
+  {
+    "id": "s2peds-2291",
+    "category": "Neuroblastoma",
+    "q": "Where does neuroblastoma grow per p152?",
+    "a": "From the median (midline) sympathetic chain. Usually intra-abdominal but can sometimes be in the posterior mediastinum, which shows up on a Peds CMS form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "StatPearls: it can present in the neck, chest, abdomen or pelvis; the adrenal medulla is the most frequent origin.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448111/"
+    }
+  },
+  {
+    "id": "s2peds-2292",
+    "category": "Neuroblastoma",
+    "q": "What findings does neuroblastoma cause per p152?",
+    "a": "Increased BP, opsoclonus-myoclonus syndrome (dancing eyes) and violaceous eyelids (sounds like the heliotrope rash of dermatomyositis but is unrelated).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says hypertension is rare in neuroblastoma and is often from renal artery compression rather than catecholamine excess. Source answer kept. I did not verify violaceous eyelids.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448111/"
+    }
+  },
+  {
+    "id": "s2peds-2293",
+    "category": "Neuroblastoma",
+    "q": "How is neuroblastoma diagnosed per p152?",
+    "a": "Urinary homovanillic acid (HVA) and vanillylmandelic acid (VMA), catecholamine metabolites. A metaiodobenzylguanidine (MIBG) scan can be done after HVA and VMA are detected.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "StatPearls: about 90% of patients have elevated urinary VMA and HVA.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448111/"
+    }
+  },
+  {
+    "id": "s2peds-2294",
+    "category": "Diabetes mellitus",
+    "q": "What does the word diabetes mean, and why do students confuse DM with DI per p152?",
+    "a": "Diabetes means polydipsia plus polyuria. Both DM and DI vignettes give increased thirst and urination.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2peds-2295",
+    "category": "Diabetes mellitus",
+    "q": "What distinguishes acute DM from DI per p152?",
+    "a": "DM vignettes often mention weight loss from increased catabolism (also seen in acute type II even though the patient is usually overweight). Vomiting is another high-yield finding. Increased thirst plus urination plus weight loss with or without vomiting is DM, not DI.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "StatPearls: DKA presentations include nausea, vomiting, abdominal pain and weight loss.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
+  },
+  {
+    "id": "s2peds-2296",
+    "category": "Diabetes mellitus",
+    "q": "What does p152 say about other organ-system effects of diabetes?",
+    "a": "It points to the author's other HY PDFs (cardio, renal, ophthalmology, GI, pregnancy) and keeps this document focused on endocrine and electrolytes/acid-base.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2peds-2297",
+    "category": "Diabetes mellitus",
+    "q": "What are the diagnostic criteria for DM per p152?",
+    "a": "Two fasting glucoses above 126 mg/dL, any one random glucose above 200 mg/dL, or HbA1c above 6.5%.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "Current caution: ADA 2026 criteria are A1C of 6.5% or higher, fasting glucose of 126 mg/dL or higher, 2-hour glucose of 200 mg/dL or higher on OGTT, or a random glucose of 200 mg/dL or higher only with classic hyperglycemia symptoms or crisis. Without symptoms, confirm with a second test. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690183/"
+    }
+  },
+  {
+    "id": "s2peds-2298",
+    "category": "Type 1 diabetes",
+    "q": "What is the cause of type 1 DM per p152?",
+    "a": "Absence of insulin; autoimmune-mediated; no one specific gene, though HLA-DR3/4 are associated. Often described as genetic susceptibility with an environmental trigger (viral infection, usually Coxsackie B). Almost always in children or teens of normal BMI.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "Review: enterovirus infection is linked to type 1 diabetes with a seasonal pattern after epidemics. I did not verify HLA-DR3/4 or that Coxsackie B is the usual trigger.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7409303/"
+    }
+  },
+  {
+    "id": "s2peds-2299",
+    "category": "Type 1 diabetes",
+    "q": "What is the pathogenesis of type 1 DM per p152?",
+    "a": "Usually an antibody- (anti-GAD65 or -ZnT8) and T-cell-mediated destruction of beta-islet cells in the tail of the pancreas, causing decreased insulin secretion. GLUT4 is not recruited to the surface of skeletal muscle and adipose tissue, so cells cannot take up glucose and are starved, increasing gluconeogenesis and ketogenesis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "ADA: GAD is the primary islet autoantibody measured, followed by IA-2 and/or ZnT8. I did not verify the tail-of-pancreas location.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690183/"
+    }
+  },
+  {
+    "id": "s2peds-2300",
+    "category": "Type 1 diabetes",
+    "q": "How does hyperglycemia occur in type 1 DM per p152?",
+    "a": "Continued liver glucose production (gluconeogenesis) combined with decreased uptake by skeletal muscle and adipose tissue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2peds-2301",
+    "category": "Type 1 diabetes",
+    "q": "What does a pancreas biopsy show in type 1 DM per p152?",
+    "a": "An inflammatory infiltrate in acute type I DM; atrophy and fibrosis in late type I (years later).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2peds-2302",
+    "category": "Type 1 diabetes",
+    "q": "Why does DKA occur in type 1 but not type 2 per p152?",
+    "a": "The absence of insulin in type I enables ketogenesis. In type II ketones are low because insulin is present.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "StatPearls: fatty acid oxidation to ketone bodies produces ketonemia and metabolic acidosis; euglycemic DKA can occur with SGLT2 inhibitors. Type 2 DKA is uncommon but possible. I did not verify 'ketones are low in type II'.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
+  },
+  {
+    "id": "s2peds-2303",
+    "category": "DKA",
+    "q": "What does DKA look like per p152?",
+    "a": "Ketone bodies (USMLE likes beta-hydroxybutyrate) are highly acidic and drop blood pH (high anion-gap metabolic acidosis). A kid or teen with polyuria, polydipsia and sometimes vomiting has severe metabolic acidosis (low bicarb) from DKA. Breath can be fruity (ketones).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 152,
+      "url": "/mehlman/hy-pediatrics.pdf#page=152"
+    },
+    "guideline": {
+      "text": "StatPearls: DKA is a high anion gap metabolic acidosis with ketonemia from beta-hydroxybutyrate and acetoacetate. I did not verify fruity breath.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
   }
 ];

@@ -759,3 +759,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source issues flagged in notes: "virilization" generalisation (17-OH deficiency undervirilizes); "precursors all low" in 21-OH row contradicts the high 17-OH substrates stated above it; pathway figure labels the 21-OH product "11-OH-corticosterone" (standard: 11-deoxycorticosterone).
 - Left unverified: 11-OH electrolyte values, DHEA-S/androstenedione/17-OH-pregnenolone elevations, NBME "increased ACTH" answer.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0 (2 figure cards included).
+
+## p152 (17-hydroxylase deficiency, neuroblastoma, DM, type 1 DM, DKA start) - 15 cards, ids s2peds-2289 to 2303
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (17-Hydroxylase Deficiency, Neuroblastoma, Adult DKA), ADA Standards of Care 2026 (Diagnosis and Classification) and an enterovirus/T1D review.
+- Source conflicts, source answer kept with caution note: neuroblastoma "causes increased BP" (StatPearls: hypertension rare, often renal artery compression); DM diagnostic thresholds ("above" vs ADA "at or above"; random glucose only with symptoms; confirm if asymptomatic). Source's 17-OH "aldosterone low" wording noted as internally inconsistent.
+- Left unverified: neuroblastoma "pediatric pheo", violaceous eyelids, Peds CMS form claim, HLA-DR3/4, Coxsackie B, tail of pancreas, GLUT4 mechanism, biopsy findings, ketones low in type II, fruity breath.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
