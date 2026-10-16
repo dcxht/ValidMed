@@ -1224,3 +1224,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p354 (PTH/phosphate, vitamin D, hyperparathyroidism) - 10 cards, ids s2med-3550 to 3559
 - Secondary hyperparathyroidism reason 2 for low calcium continues on p355.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p355 (secondary/tertiary hyperPTH, DiGeorge) - 9 cards, ids s2med-3560 to 3568
+
+## p356 (post-thyroidectomy, Ca signs, hypomagnesemia, PTHrP) - 11 cards, ids s2med-3569 to 3579
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

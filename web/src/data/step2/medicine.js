@@ -47745,5 +47745,257 @@ export default [
       "page": 354,
       "url": "/mehlman/hy-internal-medicine.pdf#page=354"
     }
+  },
+  {
+    "id": "s2med-3560",
+    "category": "IM Endocrine",
+    "q": "Why calcium is low in secondary hyperparathyroidism, reason 2 per p355 (continued from p354)?",
+    "a": "The kidney can't synthesize activated 1,25-D3 in the PCT; since 1,25-D3 absorbs calcium in the small bowel, serum calcium is lower.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    }
+  },
+  {
+    "id": "s2med-3561",
+    "category": "IM Endocrine",
+    "q": "Why PTH is high in secondary hyperparathyroidism per p355?",
+    "a": "Low serum calcium reduces negative feedback at the calcium-sensing receptors on the parathyroid glands. Because the cause isn't the glands themselves, it is secondary; adenoma or diffuse hyperplasia would be primary. Calcium and phosphate arrows are the opposite of primary.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    }
+  },
+  {
+    "id": "s2med-3562",
+    "category": "IM Endocrine",
+    "q": "Phosphate in renal failure per p355?",
+    "a": "High despite high PTH, because the kidney can't downregulate PCT phosphate transporters, so too much phosphate is reabsorbed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    }
+  },
+  {
+    "id": "s2med-3563",
+    "category": "IM Endocrine",
+    "q": "Tertiary hyperparathyroidism per p355?",
+    "a": "Hyperplasia of the parathyroid glands after long-standing secondary hyperparathyroidism: even if renal failure is controlled and calcium normalizes, PTH keeps being secreted autonomously at higher basal levels (resetting the calcium setpoint). Labs: high Ca2+, high PO4, high PTH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    },
+    "guideline": {
+      "text": "A review of tertiary hyperparathyroidism is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33956045/"
+    }
+  },
+  {
+    "id": "s2med-3564",
+    "category": "IM Endocrine",
+    "q": "Red flag for tertiary hyperparathyroidism per p355?",
+    "a": "A rise in serum calcium in a patient with renal failure (they almost always have low calcium). It is not primary hyperparathyroidism because the etiology of high PTH was not an adenoma or hyperplasia. Phosphate stays high because of renal failure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    }
+  },
+  {
+    "id": "s2med-3565",
+    "category": "IM Endocrine",
+    "q": "DiGeorge labs and mechanism per p355?",
+    "a": "Low Ca2+, high PO4, low PTH, low T cells, normal B cells. Most frequently 22q11 deletion causing agenesis of the 3rd and 4th pharyngeal pouches. 3rd pouch: thymus + two inferior parathyroids. 4th pouch: two superior parathyroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    },
+    "guideline": {
+      "text": "A review of 22q11.2 deletion syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999075/"
+    }
+  },
+  {
+    "id": "s2med-3566",
+    "category": "IM Endocrine",
+    "q": "DiGeorge heart and immune features per p355?",
+    "a": "Tetralogy of Fallot and truncus arteriosus are common heart defects. Parathyroid agenesis causes primary hypoparathyroidism (low calcium + high phosphate). T cell deficiency: recurrent viral, fungal, and protozoal infections.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    }
+  },
+  {
+    "id": "s2med-3567",
+    "category": "IM Endocrine",
+    "q": "Thymic shadow and lymphoid tissue clues per p355?",
+    "a": "Absent thymic shadow = T cell deficiency = DiGeorge. Scanty lymph nodes/tonsils = B cell deficiency = Bruton agammaglobulinemia. Both absent thymic shadow and scanty nodes/tonsils = SCID.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    },
+    "guideline": {
+      "text": "A paper on diagnostic clues for SCID, including absent thymic shadow, is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4500664/"
+    }
+  },
+  {
+    "id": "s2med-3568",
+    "category": "IM Endocrine",
+    "q": "Post-thyroidectomy hypoparathyroidism labs per p355 (continued on p356)?",
+    "a": "Low Ca2+, high PO4, low PTH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 355,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=355"
+    }
+  },
+  {
+    "id": "s2med-3569",
+    "category": "IM Endocrine",
+    "q": "Post-thyroidectomy hypocalcemia mechanism per p356 (continued from p355)?",
+    "a": "Thyroidectomy can remove or damage the parathyroids, decreasing PTH and causing hypocalcemia. Phosphate rises from increased renal reabsorption (PTH normally downregulates apical PCT phosphate transporters).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    },
+    "guideline": {
+      "text": "An ATA statement on postoperative hypoparathyroidism is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29848235/"
+    }
+  },
+  {
+    "id": "s2med-3570",
+    "category": "IM Endocrine",
+    "q": "Chvostek and Trousseau signs of hypocalcemia per p356?",
+    "a": "Chvostek: twitching of the masseter with stimulation. Trousseau: carpopedal spasm with blood pressure cuff inflation. USMLE can give either when Ca2+ is low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Trousseau sign is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557832/"
+    }
+  },
+  {
+    "id": "s2med-3571",
+    "category": "IM Endocrine",
+    "q": "Hypocalcemia vs hypercalcemia findings per p356?",
+    "a": "Hypocalcemia causes 'up' findings: tetany and hyperreflexia. Hypercalcemia causes 'down' findings: muscle flaccidity and hyporeflexia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    }
+  },
+  {
+    "id": "s2med-3572",
+    "category": "IM Endocrine",
+    "q": "Trousseau and Troisier signs of malignancy per p356?",
+    "a": "Don't confuse them with Trousseau sign of hypocalcemia. Troisier: palpable left supraclavicular lymph node in visceral malignancy (aka Virchow node). Trousseau of malignancy: migratory thrombophlebitis, classically head of pancreas adenocarcinoma (can be other adenocarcinomas, e.g., bronchogenic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    }
+  },
+  {
+    "id": "s2med-3573",
+    "category": "IM Endocrine",
+    "q": "Hypomagnesemia labs per p356?",
+    "a": "Low Ca2+, high PO4, low PTH, low Mg2+ (the arrows to choose, though levels may be normal).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    }
+  },
+  {
+    "id": "s2med-3574",
+    "category": "IM Endocrine",
+    "q": "Why alcoholics get hypomagnesemia per p356?",
+    "a": "Dietary deficiency: EtOH is 7 kcal/g, so they fill up on alcohol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    }
+  },
+  {
+    "id": "s2med-3575",
+    "category": "IM Endocrine",
+    "q": "Effects of low magnesium per p356?",
+    "a": "Hypocalcemia and hypokalemia that don't respond to supplementation. Basal magnesium is required for proper parathyroid function, so low magnesium can cause low PTH secretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    },
+    "guideline": {
+      "text": "A review of inadequate PTH secretion in severe hypomagnesemia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12309935/"
+    }
+  },
+  {
+    "id": "s2med-3576",
+    "category": "IM Endocrine",
+    "q": "Step 2 hypomagnesemia question per p356?",
+    "a": "An alcoholic with low calcium or potassium nonresponsive to supplementation: next best step is check serum magnesium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    }
+  },
+  {
+    "id": "s2med-3577",
+    "category": "IM Endocrine",
+    "q": "Paraneoplastic PTHrP per p356?",
+    "a": "Squamous cell carcinoma of the lung and renal cell carcinoma secrete parathyroid hormone-related peptide (PTHrP), not the same as PTH. Labs: high serum Ca2+, low PO4, low PTH. PTHrP has similar effects as PTH; PTH from the glands is suppressed by high calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    },
+    "guideline": {
+      "text": "A paper on calcium-sensing receptor in lung squamous cell hypercalcemia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3084619/"
+    }
+  },
+  {
+    "id": "s2med-3578",
+    "category": "IM Endocrine",
+    "q": "Lung cancer + high calcium + low PTH per p356?",
+    "a": "Answer: squamous cell carcinoma of the lung (NBME). The low PTH isn't weird: PTH is not PTHrP, which is up.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    }
+  },
+  {
+    "id": "s2med-3579",
+    "category": "IM Endocrine",
+    "q": "Hypercalcemia from metastases per p356?",
+    "a": "High serum Ca2+, low PTH. Once metastases seed bone, cytokine activity causes bone lysis and calcium release; hypercalcemia is common in metastatic malignancy. PTH is suppressed by the high calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 356,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=356"
+    },
+    "guideline": {
+      "text": "A review of hypercalcemia of malignancy is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4683803/"
+    }
   }
 ];
