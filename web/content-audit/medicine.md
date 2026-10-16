@@ -700,3 +700,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p176 (aspirin, NSAIDs, acetaminophen, celecoxib, clopidogrel) - 21 cards, ids s2med-1643 to 1663
 - Conflicts: AF aspirin by CHADS2 (current guidelines use CHA2DS2-VASc, no aspirin reliance); stroke aspirin "after 4.5 h" wording; OA first-line acetaminophen vs 2019 ACR guideline. Unverified: Reye beta-oxidation wording, PPI-then-misoprostol sequence, TRALI 6h rule.
 - Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.
+
+## p177 (antiplatelets, tPA, heparin, HIT) - 19 cards, ids s2med-1664 to 1682
+## p178 (warfarin, DOACs, chemo agents) - 18 cards, ids s2med-1683 to 1700
+## p179 (chemo/immunosuppressant pharm, methotrexate) - 24 cards, ids s2med-1701 to 1724
+- Conflicts: HIT dabigatran example vs ASH 2018 (IV DTIs argatroban/bivalirudin); CHADS2 vs CHA2DS2-VASc; tPA window. Unverified: 6-MP/5-FU row attribution (page layout), griseofulvin contacts claim, warfarin bridging explanation.
+- Mobile QA (320x740, local vite preview build, not live): all 61 cards ox=false off=false bad=0.

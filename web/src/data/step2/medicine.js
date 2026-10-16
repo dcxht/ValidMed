@@ -21957,5 +21957,736 @@ export default [
       "page": 176,
       "url": "/mehlman/hy-internal-medicine.pdf#page=176"
     }
+  },
+  {
+    "id": "s2med-1664",
+    "category": "IM Heme/Onc",
+    "q": "Clopidogrel uses per p177 (continued from p176)?",
+    "a": "Anti-platelet component of the PAD and carotid stenosis triad (antiplatelet, statin, ACEi or ARB). Also for ischemic heart disease patients who can't tolerate aspirin. The source says stenting use is perpetuated by resources but it hasn't seen USMLE test it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1665",
+    "category": "IM Heme/Onc",
+    "q": "Prasugrel, ticlopidine, ticagrelor per p177?",
+    "a": "Same MOA as clopidogrel, but not assessed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1666",
+    "category": "IM Heme/Onc",
+    "q": "Dipyridamole: mechanism per p177?",
+    "a": "Phosphodiesterase-3 inhibitor; prevents breakdown of cAMP. Causes arteriolar dilation and is also an anti-platelet agent.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "A paper on cilostazol and dipyridamole platelet inhibition is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15243309/"
+    }
+  },
+  {
+    "id": "s2med-1667",
+    "category": "IM Heme/Onc",
+    "q": "USMLE: which is both a vasodilator and anti-platelet agent per p177?",
+    "a": "Dipyridamole or cilostazol, whichever is listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1668",
+    "category": "IM Heme/Onc",
+    "q": "Dipyridamole/thallium per p177?",
+    "a": "A combo used for pharmacologic stress testing. Arteriolar vasodilation raises HR; thallium uptake into myocardium helps visualize ischemic areas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1669",
+    "category": "IM Heme/Onc",
+    "q": "Cilostazol: mechanism and use per p177?",
+    "a": "Phosphodiesterase-3 inhibitor, same as dipyridamole (arteriolar dilation plus anti-platelet). Used for intermittent claudication / PAD after a walking/exercise program is already prescribed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "The SVS claudication guideline focused update is linked; I did not verify its drug recommendations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40316185/"
+    }
+  },
+  {
+    "id": "s2med-1670",
+    "category": "IM Heme/Onc",
+    "q": "First treatment for PAD per p177?",
+    "a": "Do not choose cilostazol first. Choose a walking/exercise program first, then cilostazol if forced to choose a drug for additional management.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1671",
+    "category": "IM Heme/Onc",
+    "q": "Abciximab: mechanism per p177?",
+    "a": "GpIIb/IIIa inhibitor on platelets; prevents platelet aggregation (platelet-platelet interaction). Fibrinogen normally bridges GpIIb/IIIa on adjacent platelets, so abciximab is considered a fibrinogen analogue.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1672",
+    "category": "IM Heme/Onc",
+    "q": "GpIIb/IIIa versus GpIb per p177?",
+    "a": "Don't confuse them: GpIb is for platelet adhesion (vWF bridges GpIb to endothelium/collagen) and is unrelated to abciximab.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1673",
+    "category": "IM Heme/Onc",
+    "q": "Tirofiban and eptifibatide per p177?",
+    "a": "Same MOA as abciximab but aren't assessed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1674",
+    "category": "IM Heme/Onc",
+    "q": "tPA (alteplase) and streptokinase: mechanism per p177?",
+    "a": "tPA activates plasminogen, which breaks down fibrin clots.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1675",
+    "category": "IM Heme/Onc",
+    "q": "tPA uses on NBME per p177?",
+    "a": "Source saw only two: ischemic stroke within 4.5 hours, and pulmonary embolism with obstructive shock (low BP).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "The ASH 2020 VTE treatment guideline is linked; I did not verify its thrombolysis recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7556153/"
+    }
+  },
+  {
+    "id": "s2med-1676",
+    "category": "IM Heme/Onc",
+    "q": "Heparin: mechanism per p177?",
+    "a": "Activates anti-thrombin III, inactivating thrombin (factor II) and factors IXa, Xa, XIa, and XIIa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1677",
+    "category": "IM Heme/Onc",
+    "q": "Heparin as bridge to warfarin per p177?",
+    "a": "Needed because warfarin inhibits protein C, which temporarily makes the patient hypercoagulable.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "A report of warfarin skin necrosis in protein C deficiency is linked; I did not verify the bridging explanation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8450298/"
+    }
+  },
+  {
+    "id": "s2med-1678",
+    "category": "IM Heme/Onc",
+    "q": "Heparin monitoring per p177?",
+    "a": "It raises both PT and aPTT, but aPTT is used because it's more sensitive. Heparin inhibits intrinsic pathway factors (IXa, XIa, XIIa) plus common pathway factors (thrombin, Xa); the source counts 5 factors in the intrinsic pathway versus 2 common ones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1679",
+    "category": "IM Heme/Onc",
+    "q": "Heparin first-line uses per p177?",
+    "a": "Subcutaneous enoxaparin (LMWH) is first-line for DVT and superficial thrombophlebitis. Heparin is also used for acute limb ischemia and vertebral artery dissection (clot can form within the false lumen; asked on 2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1680",
+    "category": "IM Heme/Onc",
+    "q": "Unfractionated heparin versus LMWH per p177?",
+    "a": "USMLE won't ask, but the source says unfractionated heparin is used with severe renal impairment and when rapid reversal may be needed, since protamine sulfate reverses it faster than LMWH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "A practical reversal guide is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9963371/"
+    }
+  },
+  {
+    "id": "s2med-1681",
+    "category": "IM Heme/Onc",
+    "q": "Heparin-induced thrombocytopenia (HIT): mechanism per p177?",
+    "a": "Autoantibodies against the heparin-platelet factor 4 (PF4) complex, lowering platelets. Type II hypersensitivity. NBME can write the answer simply as 'anti-platelet antibodies.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    }
+  },
+  {
+    "id": "s2med-1682",
+    "category": "IM Heme/Onc",
+    "q": "HIT treatment per p177?",
+    "a": "Stop heparin and give a direct-thrombin inhibitor (e.g., dabigatran per the source). Warfarin is the wrong answer. A 2CK NBME Q gives just 'direct-thrombin inhibitor' as the answer, without a specific drug (continues on p178).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 177,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=177"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: the ASH 2018 HIT guideline (linked) is the current source; I did not verify its agent list, and I did not verify that dabigatran is the usual example (argatroban or bivalirudin are the IV direct thrombin inhibitors I would check there). Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258919/"
+    }
+  },
+  {
+    "id": "s2med-1683",
+    "category": "IM Heme/Onc",
+    "q": "Warfarin: mechanism per p178?",
+    "a": "Inhibits vitamin K epoxide reductase, so vitamin K isn't recycled to its active form. Vitamin K is a cofactor for gamma-glutamyl carboxylase, which activates factors II, VII, IX, X and the anti-clotting proteins C and S.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1684",
+    "category": "IM Heme/Onc",
+    "q": "Why monitor warfarin with PT per p178?",
+    "a": "Many intrinsic pathway factors (PTT) are unaffected by warfarin, whereas most extrinsic pathway factors (PT) are affected.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1685",
+    "category": "IM Heme/Onc",
+    "q": "INR per p178?",
+    "a": "Ratio of the patient's PT to a control standard's PT; usual warfarin target is 2.0-3.0.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1686",
+    "category": "IM Heme/Onc",
+    "q": "Highest-yield warfarin uses per p178?",
+    "a": "Maintenance anticoagulation in DVT, prosthetic valves, or atrial fibrillation with elevated CHADS2 score.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1687",
+    "category": "IM Heme/Onc",
+    "q": "Warfarin and drug interactions per p178?",
+    "a": "Levels are sensitive to P-450 drugs: inhibitors raise INR and cause bleeding diathesis; inducers lower INR and cause thromboses. Broad-spectrum antibiotics depleting bowel flora (vitamin K) can raise INR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1688",
+    "category": "IM Heme/Onc",
+    "q": "Warfarin in pregnancy per p178?",
+    "a": "Teratogenic; avoid. It's a small, lipophilic molecule that crosses the placenta; heparin is a large, acidic polymer that does not. Fetal bleeding diathesis and bone abnormalities.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    },
+    "guideline": {
+      "text": "A StatPearls chapter on anticoagulants in pregnancy and a fetal-effects review are linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK606098/"
+    }
+  },
+  {
+    "id": "s2med-1689",
+    "category": "IM Heme/Onc",
+    "q": "Warfarin skin necrosis per p178?",
+    "a": "Can occur in patients with protein C deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1690",
+    "category": "IM Heme/Onc",
+    "q": "Warfarin reversal per p178?",
+    "a": "Slowly with vitamin K (liver must resynthesize clotting factors); quickly with fresh frozen plasma (supplies factors).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    },
+    "guideline": {
+      "text": "A practical reversal guide is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9963371/"
+    }
+  },
+  {
+    "id": "s2med-1691",
+    "category": "IM Heme/Onc",
+    "q": "Dabigatran per p178?",
+    "a": "Direct-thrombin inhibitor. Used for HIT, and sometimes non-valvular AF with high CHADS2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1692",
+    "category": "IM Heme/Onc",
+    "q": "Apixaban per p178?",
+    "a": "Factor Xa inhibitor; just know MOA. Can be given for non-valvular AF with high CHADS2; USMLE doesn't assess use cases.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1693",
+    "category": "IM Heme/Onc",
+    "q": "Fondaparinux per p178?",
+    "a": "Factor Xa inhibitor; just know MOA. Can be given for DVT and PE in place of heparin in some patients.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1694",
+    "category": "IM Heme/Onc",
+    "q": "Irinotecan and topotecan per p178?",
+    "a": "Topoisomerase I inhibitors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1695",
+    "category": "IM Heme/Onc",
+    "q": "Etoposide and teniposide per p178?",
+    "a": "Eukaryotic topoisomerase II inhibitors (anti-cancer). Don't confuse with prokaryotic topoisomerase II (DNA gyrase) inhibitors, i.e., fluoroquinolones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1696",
+    "category": "IM Heme/Onc",
+    "q": "Cisplatin per p178?",
+    "a": "Cross-linking agent. Causes nephro-, oto- and neurotoxicity. Chloride diuresis (normal saline) and amifostine mitigate toxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1697",
+    "category": "IM Heme/Onc",
+    "q": "Doxorubicin (Adriamycin) per p178?",
+    "a": "Intercalating agent that produces free radicals. Dilated cardiomyopathy (HY). Dexrazoxane mitigates toxicity by mopping up free radicals.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    },
+    "guideline": {
+      "text": "A Cochrane review of dexrazoxane is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9512638/"
+    }
+  },
+  {
+    "id": "s2med-1698",
+    "category": "IM Heme/Onc",
+    "q": "Bleomycin per p178?",
+    "a": "Induces DNA breaks; causes pulmonary fibrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1699",
+    "category": "IM Heme/Onc",
+    "q": "Carmustine and lomustine per p178?",
+    "a": "Alkylating agents.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1700",
+    "category": "IM Heme/Onc",
+    "q": "Cyclophosphamide: mechanism per p178 (continues p179)?",
+    "a": "Guanine N7 alkylating agent.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 178,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=178"
+    }
+  },
+  {
+    "id": "s2med-1701",
+    "category": "IM Heme/Onc",
+    "q": "Cyclophosphamide toxicity and mesna per p179?",
+    "a": "Hemorrhagic cystitis (red urine). Mesna uses a thiol (-SH) group to mop up acrolein, the toxic metabolite that harms uroepithelium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "A cohort study on cyclophosphamide hemorrhagic cystitis with and without mesna is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32356687/"
+    }
+  },
+  {
+    "id": "s2med-1702",
+    "category": "IM Heme/Onc",
+    "q": "5-fluorouracil per p179?",
+    "a": "Thymidylate synthase inhibitor; prevents conversion of dUMP to dTMP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1703",
+    "category": "IM Heme/Onc",
+    "q": "6-mercaptopurine (6-MP): enzyme per p179?",
+    "a": "Inhibits PRPP amidotransferase (purine synthesis) and requires xanthine oxidase for breakdown. I matched this to 6-MP from the page layout; I did not verify the attribution.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1704",
+    "category": "IM Heme/Onc",
+    "q": "Allopurinol and chemotherapy per p179?",
+    "a": "A xanthine oxidase inhibitor that prevents tumor lysis syndrome in leukemia chemo (lysed cells release nucleic acids converted to uric acid).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1705",
+    "category": "IM Heme/Onc",
+    "q": "Allopurinol with 6-MP per p179?",
+    "a": "Cannot be given together: 6-MP requires xanthine oxidase for breakdown, so 6-MP toxicity can result.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "A paper on the 6-MP and allopurinol interaction is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6580097/"
+    }
+  },
+  {
+    "id": "s2med-1706",
+    "category": "IM Heme/Onc",
+    "q": "Azathioprine per p179?",
+    "a": "Pro-drug metabolized into 6-MP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1707",
+    "category": "IM Heme/Onc",
+    "q": "Mycophenolate mofetil per p179?",
+    "a": "Inhibits IMP dehydrogenase (purine synthesis). Can be used for lupus nephritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1708",
+    "category": "IM Heme/Onc",
+    "q": "Hydroxyurea: mechanism per p179?",
+    "a": "Inhibits ribonucleotide reductase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1709",
+    "category": "IM Heme/Onc",
+    "q": "Hydroxyurea in sickle cell per p179?",
+    "a": "USMLE wants you to know it increases HbF to reduce recurrence of painful crises.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "A review of hydroxyurea in sickle cell anemia is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546997/"
+    }
+  },
+  {
+    "id": "s2med-1710",
+    "category": "IM Heme/Onc",
+    "q": "Hydroxyurea in polycythemia vera per p179?",
+    "a": "Reduces bone marrow cell production to reduce hyperviscosity episodes. For acute hyperviscosity syndrome, choose phlebotomy; hydroxyurea is merely to decrease recurrence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1711",
+    "category": "IM Heme/Onc",
+    "q": "Microtubule polymerization inhibitors per p179?",
+    "a": "Vincristine, vinblastine, colchicine, griseofulvin, and the -bendazoles (e.g., mebendazole).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1712",
+    "category": "IM Heme/Onc",
+    "q": "Paclitaxel and docetaxel per p179?",
+    "a": "Hyper-stabilize microtubules (prevent disassembly).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1713",
+    "category": "IM Heme/Onc",
+    "q": "Protein that microtubule drugs interfere with per p179?",
+    "a": "Tubulin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1714",
+    "category": "IM Heme/Onc",
+    "q": "Cells most affected by chemotherapy per p179?",
+    "a": "Quickly dividing cells (GI mucosa, skin, hair follicles, bone marrow) more than slowly dividing ones (e.g., myocardium).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1715",
+    "category": "IM Heme/Onc",
+    "q": "WBC type monitored for chemo toxicity per p179?",
+    "a": "Neutrophils (agranulocytosis). Not limited to microtubule inhibitors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1716",
+    "category": "IM Heme/Onc",
+    "q": "Vincristine toxicity per p179?",
+    "a": "Neurotoxic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1717",
+    "category": "IM Heme/Onc",
+    "q": "Colchicine uses per p179?",
+    "a": "Acute gout and pericarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1718",
+    "category": "IM Heme/Onc",
+    "q": "Griseofulvin per p179?",
+    "a": "Used orally for tinea capitis. The source says treat the patient only, not close contacts (asked on a 2CK form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "A tinea capitis treatment review is linked; I did not verify the 'don't treat contacts' claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6615323/"
+    }
+  },
+  {
+    "id": "s2med-1719",
+    "category": "IM Heme/Onc",
+    "q": "Mebendazole and albendazole per p179?",
+    "a": "Anti-helminthic agents, mostly for nematodes such as ascariasis; can also be used for neurocysticercosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1720",
+    "category": "IM Heme/Onc",
+    "q": "Imatinib per p179?",
+    "a": "Bcr/Abl tyrosine kinase inhibitor used for CML. Can cause fluid retention / peripheral edema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1721",
+    "category": "IM Heme/Onc",
+    "q": "Erlotinib per p179?",
+    "a": "EGFR tyrosine kinase inhibitor used for non-small cell lung cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1722",
+    "category": "IM Heme/Onc",
+    "q": "Rituximab per p179?",
+    "a": "CD20 inhibitor on B cells. Can raise bacterial pneumonia risk (asked on NBME): B cells mature into plasma cells that make immunoglobulins, crucial for humoral immunity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "A study on rituximab, hypogammaglobulinemia and infection risk is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30646343/"
+    }
+  },
+  {
+    "id": "s2med-1723",
+    "category": "IM Heme/Onc",
+    "q": "Methotrexate: mechanism and uses per p179?",
+    "a": "Dihydrofolate reductase inhibitor. First-line DMARD in rheumatoid arthritis; first-line oral agent for plaque psoriasis not responding to topicals, or systemic psoriasis (arthritis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    }
+  },
+  {
+    "id": "s2med-1724",
+    "category": "IM Heme/Onc",
+    "q": "Methotrexate toxicity and rescue per p179?",
+    "a": "Pulmonary fibrosis, mucositis (mouth ulcers due to neutropenia), hepatotoxicity. Mitigated with folinic acid (not folic acid), aka leucovorin rescue.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 179,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=179"
+    },
+    "guideline": {
+      "text": "A review of leucovorin rescue for high-dose methotrexate is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35929573/"
+    }
   }
 ];
