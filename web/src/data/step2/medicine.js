@@ -16187,5 +16187,292 @@ export default [
       "page": 134,
       "url": "/mehlman/hy-internal-medicine.pdf#page=134"
     }
+  },
+  {
+    "id": "s2med-1218",
+    "category": "IM Gastro",
+    "q": "Serology that points to UC per p135?",
+    "a": "2CK NBME: negative anti-Saccharomyces cerevisiae antibodies (ASCA) with positive pANCA: answer UC (Crohn can cause ASCA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    }
+  },
+  {
+    "id": "s2med-1219",
+    "category": "IM Gastro",
+    "q": "IBD malabsorption per p135?",
+    "a": "Terminal ileum is the classic inflammatory location, so B12 deficiency is most common. Impaired fat absorption can raise calcium oxalate urolithiasis (HY Renal PDF).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    }
+  },
+  {
+    "id": "s2med-1220",
+    "category": "IM Gastro",
+    "q": "IBS presentation per p135?",
+    "a": "Not IBD; source calls it psychosomatic. Woman 20s-40s with stress and alternating diarrhea/constipation; can be bloating or cramping. Key: symptoms relieved by bowel movements.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    },
+    "guideline": {
+      "text": "The ACG IBS guideline is linked; I did not verify the text or the 'psychosomatic' framing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33315591/"
+    }
+  },
+  {
+    "id": "s2med-1221",
+    "category": "IM Gastro",
+    "q": "IBS mechanism and diarrhea treatment per p135?",
+    "a": "NBME mechanism: smooth muscle hypersensitivity. Diarrhea-predominant IBS: loperamide (opioid causing constipation); answer can be 'mu-opioid receptor agonist.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    },
+    "guideline": {
+      "text": "The ACG IBS guideline is linked; I did not verify what it recommends for loperamide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33315591/"
+    }
+  },
+  {
+    "id": "s2med-1222",
+    "category": "IM Gastro",
+    "q": "Diabetic gastroparesis per p135?",
+    "a": "Decreased peristalsis from GI neuropathy, presenting as GERD-like symptoms in someone with advanced diabetes. USMLE wants endoscopy first to rule out obstruction, then gastric-emptying scintigraphy to confirm. '2-week PPI trial' is wrong here (that is for regular GERD).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    },
+    "guideline": {
+      "text": "The ACG gastroparesis guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9373497/"
+    }
+  },
+  {
+    "id": "s2med-1223",
+    "category": "IM Gastro",
+    "q": "Gastroparesis treatment per p135?",
+    "a": "Metoclopramide first: prokinetic and antiemetic; D2 antagonist, also 5HT3 antagonist and 5HT4 agonist. Erythromycin can also be used (motilin receptor agonist).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    },
+    "guideline": {
+      "text": "The ACG gastroparesis guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9373497/"
+    }
+  },
+  {
+    "id": "s2med-1224",
+    "category": "IM Gastro",
+    "q": "Diabetic neuropathy and bowel habits per p135?",
+    "a": "Hypogastric (sympathetic, anti-peristalsis) nerve neuropathy gives severe diarrhea; pelvic splanchnic (parasympathetic, pro-peristalsis) neuropathy gives severe constipation. Diabetes + diarrhea: hypogastric nerves; diabetes + constipation: pelvic splanchnic nerves.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    },
+    "guideline": {
+      "text": "A review of diabetic autonomic neuropathy of the GI tract is linked; I did not verify the nerve mapping, which is the source's.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7294968/"
+    }
+  },
+  {
+    "id": "s2med-1225",
+    "category": "IM Gastro",
+    "q": "Thyroid and GI per p135?",
+    "a": "Hypothyroidism can cause constipation; hyperthyroidism can cause diarrhea. A thyroid vignette with GI disturbance can have 'motility disorder' as the answer (same for diabetes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    }
+  },
+  {
+    "id": "s2med-1226",
+    "category": "IM Gastro",
+    "q": "Supplements and drugs affecting stool per p135?",
+    "a": "Iron and aluminum cause constipation; magnesium causes diarrhea; verapamil causes constipation; macrolides, orlistat and alpha-glucosidase inhibitors (acarbose) cause diarrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 135,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=135"
+    }
+  },
+  {
+    "id": "s2med-1227",
+    "category": "IM Gastro",
+    "q": "Acute vs chronic viral hepatitis per p136?",
+    "a": "Hep A and E cause acute hepatitis only; Hep B, C and D can be chronic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2med-1228",
+    "category": "IM Gastro",
+    "q": "Mechanism of hepatocellular damage per p136?",
+    "a": "T-cell-mediated apoptosis, not direct viral cytopathicity (same for general hepatic inflammation). Choose T cell response.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "A review of HBV immunobiology is linked; I did not verify the text. Some literature describes direct cytopathic effects too, so this is the source's exam answer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34002067/"
+    }
+  },
+  {
+    "id": "s2med-1229",
+    "category": "IM Gastro",
+    "q": "Transaminase pattern in hepatitis per p136?",
+    "a": "Classically ALT > AST, in the hundreds to thousands, though NBME shows variability (not a foundational point).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2med-1230",
+    "category": "IM Gastro",
+    "q": "Hep A per p136?",
+    "a": "Most common acute hepatitis in the US (e.g., travel to Mexico). Fecal-oral; acute only. IgM HepA = acute infection; IgG = cleared infection (no chronic HepA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "The 2020 ACIP hepatitis A recommendations are linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/mmwr/volumes/69/rr/rr6905a1.htm"
+    }
+  },
+  {
+    "id": "s2med-1231",
+    "category": "IM Gastro",
+    "q": "Hep A vaccination per p136?",
+    "a": "Source: indicated for IV drug users and men who have sex with men; a 2CK NBME question with an otherwise healthy MSM has Hep A vaccination as the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "The 2020 ACIP recommendations are linked; I did not verify them, and current recommendations are broader (including routine childhood vaccination), so the source's list is partial.",
+      "url": "https://www.cdc.gov/mmwr/volumes/69/rr/rr6905a1.htm"
+    }
+  },
+  {
+    "id": "s2med-1232",
+    "category": "IM Gastro",
+    "q": "Hep B epidemiology and transmission per p136?",
+    "a": "Source: most common hepatitis infection worldwide (USMLE likes China), due to many unvaccinated; in the USA HepC is most common. Parenteral; acute or chronic. Vertical transmission, sex, IV drugs, blood exposure. Present in all body fluids including breast milk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "CDC global viral hepatitis page is linked; I did not verify the prevalence rankings.",
+      "url": "https://www.cdc.gov/hepatitis/global/"
+    }
+  },
+  {
+    "id": "s2med-1233",
+    "category": "IM Gastro",
+    "q": "Hep B serology: antigen, antibody, core per p136?",
+    "a": "(+) surface antigen = currently has HepB. (+) surface antibody = immune. (+) core antibody = HepB now or in the past; core IgM = acute infection; core IgG = chronic HepB or cleared.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "CDC clinical testing page for hepatitis B is linked; I did not verify the text.",
+      "url": "https://cdc.gov/hepatitis-b/hcp/diagnosis-testing/"
+    }
+  },
+  {
+    "id": "s2med-1234",
+    "category": "IM Gastro",
+    "q": "Hep B serology combinations per p136?",
+    "a": "Surface Ab (+) / core Ab (-): immune by vaccination. Surface Ab (+) / core Ab (+): immune from past infection. Both (-): susceptible, vaccinate. Surface Ag (-) / surface Ab (-) / core IgM (+): window period.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "CDC clinical testing page is linked; I did not verify the text.",
+      "url": "https://cdc.gov/hepatitis-b/hcp/diagnosis-testing/"
+    }
+  },
+  {
+    "id": "s2med-1235",
+    "category": "IM Gastro",
+    "q": "Hep B window period per p136?",
+    "a": "As the immune system clears HepB, surface antigen can fall below detection before surface antibody becomes detectable: both negative, so it looks like no infection. Core IgM is (+) and is the most reliable marker in the window.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "CDC testing page is linked; I did not verify the text.",
+      "url": "https://cdc.gov/hepatitis-b/hcp/diagnosis-testing/"
+    }
+  },
+  {
+    "id": "s2med-1236",
+    "category": "IM Gastro",
+    "q": "Hep B vaccination schedule per p136?",
+    "a": "Source: birth, 2 months and 6 months (no longer at 4 months). Titers showing susceptibility despite completed vaccination: give more vaccine (immunity wanes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "The CDC perinatal vaccine page is linked; I did not verify the schedule, which I know only as the source's version.",
+      "url": "https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/vaccine-administration.html"
+    }
+  },
+  {
+    "id": "s2med-1237",
+    "category": "IM Gastro",
+    "q": "Newborn with unknown maternal HepB status per p136?",
+    "a": "2CK NBME: give HepB vaccine now, and give HBIG only if the mother is confirmed positive. Source says to give IVIG to neonate only if mom is confirmed (+).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    },
+    "guideline": {
+      "text": "The CDC perinatal page is linked; I did not verify this, and current guidance has specific rules for unknown status.",
+      "url": "https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/vaccine-administration.html"
+    }
+  },
+  {
+    "id": "s2med-1238",
+    "category": "IM Gastro",
+    "q": "Hep B pharmacology per p136?",
+    "a": "Source: USMLE doesn't test entecavir/tenofovir; know interferon-alpha can be used for HepB.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 136,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=136"
+    }
   }
 ];

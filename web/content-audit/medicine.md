@@ -581,3 +581,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p134 (Crohn imaging/pathology) - 5 cards, ids s2med-1213 to 1217
 - Figures inspected and mapped (skip lesion gross, creeping fat diagram, string sign barium).
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p135 (IBD extras, IBS, motility) - 9 cards, ids s2med-1218 to 1226
+- Unverified: IBS psychosomatic framing, nerve mapping for diabetic diarrhea/constipation.
+
+## p136 (viral hepatitis A, B) - 12 cards, ids s2med-1227 to 1238
+- Conflict: Hep A vaccine list is narrower than current ACIP; T-cell-only injury vs literature on cytopathic effects; HepB schedule, unknown-status handling and prevalence rankings unverified. Page ends mid-HepC, carried on p137.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
