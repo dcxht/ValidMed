@@ -34137,5 +34137,140 @@ export default [
       "text": "Current caution: the 2018 AAP Committee on Infectious Diseases states that doxycycline for 3 weeks or less is safe in children of all ages, so the under-8 restriction is outdated. Source answer kept.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11732018/"
     }
+  },
+  {
+    "id": "s2peds-2399",
+    "category": "Peds vignettes",
+    "q": "3M with 1 hour of rapid breathing, hyper-resonance on the right chest, CXR with overexpansion of the right lung. Next best step per p162?",
+    "a": "Endoscopic examination of the airway (bronchoscopy for foreign body aspiration). Exceedingly HY for the Peds shelf; easier questions mention a 14-month-old crawling on the floor beforehand.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: definitive management of known or suspected foreign body is rigid bronchoscopy under general anesthesia.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK539756/"
+    }
+  },
+  {
+    "id": "s2peds-2400",
+    "category": "Peds vignettes",
+    "q": "2M with writhing movements in sleep and periventricular nodules on head MRI. What else will be seen per p162?",
+    "a": "Cardiac rhabdomyoma. Diagnosis: tuberous sclerosis (TSC). Periventricular nodules are the tubers. Also renal angiomyolipoma, adenoma sebaceum (angiofibromas in a butterfly distribution along the nasal bridge and nasolabial folds) and subungual (nailbed) fibromas. Writhing movements in sleep are seizures, the classic first presenting feature.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: cardiac rhabdomyomas and cortical tubers may be present prenatally; facial angiofibromas and ungual fibromas appear later; seizures are common. I did not verify the butterfly distribution.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538492/"
+    }
+  },
+  {
+    "id": "s2peds-2401",
+    "category": "Peds vignettes",
+    "q": "17M with ataxia, an excised cerebellar vascular lesion and red urine. Diagnosis per p162?",
+    "a": "Von Hippel-Lindau: causes cerebellar and retinal hemangioblastomas; can eventually lead to renal cell carcinoma (which may become bilateral).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: autosomal dominant; hemangioblastomas in the CNS and retina cause ataxia and vision loss; RCC is also seen.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459242/"
+    }
+  },
+  {
+    "id": "s2peds-2402",
+    "category": "Peds vignettes",
+    "q": "6F with axillary and groin freckling and a small growth in the eye seen by her mother. Diagnosis and features per p162?",
+    "a": "Neurofibromatosis type I (NF1): Lisch nodules (iris hamartomas), optic glioma, axillary and groin freckling, neurofibromas (cutaneous lumps), cafe au lait spots (hyperpigmented macules), pheochromocytoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: cafe-au-lait macules and neurofibromas are the distinguishing features of NF1. I did not verify the other features in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459358/"
+    }
+  },
+  {
+    "id": "s2peds-2403",
+    "category": "Peds vignettes",
+    "q": "2F with congenital cataracts and a mother with a history of removed meningioma. Diagnosis per p162?",
+    "a": "NF2. Congenital cataracts can be seen; meningioma; classically bilateral acoustic schwannomas.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: bilateral vestibular schwannomas are the hallmark (90-95%); meningiomas are seen in about 50%. I did not verify cataracts.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470350/"
+    }
+  },
+  {
+    "id": "s2peds-2404",
+    "category": "Peds vignettes",
+    "q": "16M with violaceous papules in a temporal distribution and a history of seizure. Diagnosis per p162?",
+    "a": "Sturge-Weber. Port wine stain birthmark is classic, but violaceous papules is a newer presentation on USMLE.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: facial capillary malformation (port-wine stain) in the trigeminal territory with seizures. I did not verify violaceous papules.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459163/"
+    }
+  },
+  {
+    "id": "s2peds-2405",
+    "category": "Peds vignettes",
+    "q": "What are the phakomatoses per p162, and how are they inherited?",
+    "a": "Neurocutaneous disorders: TSC, VHL, NF1/2 and Sturge-Weber. All autosomal dominant, but SW is de novo.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: VHL is autosomal dominant. Sturge-Weber is sporadic, caused by somatic mosaic GNAQ mutations, so it is not inherited in a dominant pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459163/"
+    }
+  },
+  {
+    "id": "s2peds-2406",
+    "category": "Peds vignettes",
+    "q": "Neonate with a large facial hematoma (printed as such) and aortic coarctation on echo. Diagnosis per p162?",
+    "a": "PHACES syndrome: Posterior fossa anomalies, Hemangiomas (classically a large facial hemangioma), Arterial anomalies, Cardiac anomalies, Eye anomalies, Sternal defects.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "StatPearls: PHACE stands for posterior fossa malformations, cervicofacial hemangioma, arterial anomalies, cardiac anomalies, eye anomalies, plus sternal/abdominal clefting (PHACES).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539722/"
+    }
+  },
+  {
+    "id": "s2peds-2407",
+    "category": "Peds vignettes",
+    "q": "Neonate who turns blue during breastfeeding and pink when crying or detaching, with a pupil that appears to bleed into the iris periphery. Diagnosis per p162?",
+    "a": "CHARGE syndrome: Coloboma (hole) of the eye, Heart defects, Atresia of the choanae, Renal defects, Genitourinary defects, Ear abnormalities.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 162,
+      "url": "/mehlman/hy-pediatrics.pdf#page=162"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls lists the R in CHARGE as retardation of growth and mental development, with genital anomalies and ear malformations, not renal defects. The diagnosis is the same. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559199/"
+    }
   }
 ];

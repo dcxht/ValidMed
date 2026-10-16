@@ -829,3 +829,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: doxycycline avoided under age 8 for Lyme (AAP: up to 3 weeks is safe at any age).
 - Left unverified: type II hypersensitivity detail, ASO titer step, tic disorder figures and 3-month follow-up, pityriasis rosea 5 week average, the 11-month-old scarlet fever vignette.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p162 (Bullet points: foreign body, TSC, VHL, NF1/2, Sturge-Weber, PHACES, CHARGE) - 9 cards, ids s2peds-2399 to 2407
+- Inspected page text and layout; no figures. "Facial hematoma" in the PHACES vignette kept as printed (source likely means hemangioma).
+- Notes verified against StatPearls (Airway Foreign Bodies, TSC, VHL, NF1, NF2, Sturge-Weber, PHACE, CHARGE).
+- Source conflicts, source answer kept with caution note: Sturge-Weber listed as autosomal dominant phakomatosis ("de novo") when it is sporadic/somatic GNAQ; CHARGE "R" expanded as renal defects (StatPearls: retardation of growth).
+- Left unverified: tuberous sclerosis butterfly distribution, NF1 feature list, NF2 cataracts, violaceous papules in Sturge-Weber.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
