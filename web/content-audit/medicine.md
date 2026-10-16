@@ -982,3 +982,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p282 (anxiety disorders, PTSD) - 12 cards, ids s2med-2806 to 2817
 - Panic disorder benzo answer and social phobia beta-blocker first-line differ from current guideline preference (SSRI/CBT); source answers kept with caution notes. "Adjustment disorder" heading carries to p283.
 - Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
+
+## p283 (adjustment disorder, ADHD, OCD, ODD/conduct) - 8 cards, ids s2med-2818 to 2825
+## p284 (eating, factitious, sleep) - 10 cards, ids s2med-2826 to 2835
+- Anorexia cause of death (VF from hypokalemia) not verified.
+## p285 (sleep apnea/RLS, tics, PANDAS, trichotillomania, child abuse) - 10 cards, ids s2med-2836 to 2845
+## p286 (enuresis, IBS, IC, fibromyalgia, delirium) - 11 cards, ids s2med-2846 to 2856
+- Source says IBS and fibromyalgia are "psychosomatic"/"psych condition"; not endorsed, left out of card text.
+- Interstitial cystitis "no treatment", enuresis "desmopressin wrong": differ from current guidelines; source answers kept with caution.
+- "Avoidance of eye contact" bullet ambiguous (child abuse list end).
+- Mobile QA (320x740, local vite preview build, not live): all 39 cards ox=false off=false bad=0.

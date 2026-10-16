@@ -37303,5 +37303,538 @@ export default [
       "text": "A DSM-5 comparison table for acute stress disorder is linked (title only).",
       "url": "https://ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t30"
     }
+  },
+  {
+    "id": "s2med-2818",
+    "category": "IM Psych",
+    "q": "Adjustment disorder per p283?",
+    "a": "Socio-occupational dysfunction starting within 3 months of one specific stressor (breakup, job loss, death, illness). Usually lasts under 6 months; longer is called chronic adjustment disorder. The key is the single stressor, whereas GAD has many or no specific stressor. No psychotic symptoms, but can have a mood component ('adjustment disorder with depressed mood' or 'with anxious mood'). First-line Tx is CBT and SSRIs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    },
+    "guideline": {
+      "text": "A review of adjustment disorder is linked; I did not verify the wording. I did not verify the SSRI first-line claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6678970/"
+    }
+  },
+  {
+    "id": "s2med-2819",
+    "category": "IM Psych",
+    "q": "ADHD features per p283?",
+    "a": "Inattentiveness (distractibility, not listening when spoken to) and/or hyperactivity (fidgeting, inability to stay seated or play quietly) at home and at school; the pattern must be consistent across venues.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2med-2820",
+    "category": "IM Psych",
+    "q": "ADHD Tx per p283?",
+    "a": "First-line is stimulants such as methylphenidate (Ritalin). Non-stimulants such as atomoxetine can be tried second-line. Family therapy, behavioral skills training and parenting skills training can also be pursued; teenagers or adults can undergo CBT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    },
+    "guideline": {
+      "text": "An ADHD clinical practice guideline is linked (title only); I did not verify the details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10363932/"
+    }
+  },
+  {
+    "id": "s2med-2821",
+    "category": "IM Psych",
+    "q": "OCD definition per p283?",
+    "a": "Obsessions are unwanted, intrusive thoughts, images or urges causing significant anxiety (e.g., needing to touch a doorknob correctly before opening the door). Compulsions are repetitive behaviors done in response (touching it repeatedly to make sure it was touched correctly). Persistent obsessions and/or compulsions causing distress or interfering with functioning; having just one of the two is enough.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2med-2822",
+    "category": "IM Psych",
+    "q": "OCD vs OCPD per p283?",
+    "a": "OCD is ego-dystonic (the patient dislikes it and feels distressed); obsessive-compulsive personality disorder is ego-syntonic (the patient is content and sees nothing wrong).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2med-2823",
+    "category": "IM Psych",
+    "q": "OCD Tx per p283?",
+    "a": "CBT. If drugs, use an SSRI or clomipramine (a TCA); the clomipramine factoid showed up on a 2CK Psych form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    },
+    "guideline": {
+      "text": "A 2025 OCD clinical practice guideline update is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900050/"
+    }
+  },
+  {
+    "id": "s2med-2824",
+    "category": "IM Psych",
+    "q": "Oppositional defiant disorder per p283?",
+    "a": "Argumentative and defiant behavior, often with problems at school with teachers and grades. Can sound like normal teenage behavior, but the emphasis is an impediment to social or scholastic progress. No law-breaking; if the vignette mentions crimes, USMLE wants conduct disorder.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    },
+    "guideline": {
+      "text": "A DSM-5 conceptualization paper on ODD and conduct disorder is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3826598/"
+    }
+  },
+  {
+    "id": "s2med-2825",
+    "category": "IM Psych",
+    "q": "Conduct disorder per p283?",
+    "a": "Over 6 months of law-breaking starting at age 17 or younger. Vignette: a teenager killing a cat, destroying property, or theft. USMLE may give just a snapshot (a 14-year-old killed a cat) and the answer is conduct disorder because it is a crime; ODD is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 283,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=283"
+    }
+  },
+  {
+    "id": "s2med-2826",
+    "category": "IM Psych",
+    "q": "Anorexia nervosa definition per p284?",
+    "a": "Intense preoccupation with maintaining low body weight and intense fear of gaining weight. BMI must be low (under 18.5) for diagnosis. Purging can be seen (not limited to bulimia). Vignette: a girl who runs 12 miles per day and barely eats.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "A review of anorexia nervosa effects on bone is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6226604/"
+    }
+  },
+  {
+    "id": "s2med-2827",
+    "category": "IM Psych",
+    "q": "Anorexia complications per p284?",
+    "a": "USMLE likes metatarsal stress fractures from decreased bone density. Asked what she is at risk for later: osteoporosis (reduced adipose leads to reduced estrogen). Most common cause of death is ventricular fibrillation due to hypokalemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "The bone review is linked on the previous card; I did not verify the cause-of-death claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6226604/"
+    }
+  },
+  {
+    "id": "s2med-2828",
+    "category": "IM Psych",
+    "q": "Anorexia amenorrhea per p284?",
+    "a": "Amenorrhea can be seen but is no longer mandatory for diagnosis. USMLE wants 'abnormal GnRH pulsation' as the mechanism, with LH and FSH both decreased: hypogonadotropic (central) amenorrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    }
+  },
+  {
+    "id": "s2med-2829",
+    "category": "IM Psych",
+    "q": "Anorexia admission and Tx per p284?",
+    "a": "BMI under 15 or overt malnutrition is an indication for hospital admission. Tx is CBT and/or SSRI. Mirtazapine (an a2-antagonist that stimulates appetite) is used in depression plus anorexia. Avoid bupropion (lowers seizure threshold). Olanzapine can be used in theory (antipsychotic that increases appetite).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "A review of medical management of restrictive eating disorders is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10864000/"
+    }
+  },
+  {
+    "id": "s2med-2830",
+    "category": "IM Psych",
+    "q": "Bulimia per p284?",
+    "a": "Binge eating followed by compensatory behaviors (vomiting, excessive exercise, laxatives). BMI is normal or increased, unlike anorexia. Tx is CBT and/or SSRI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "A review of therapeutic approaches to bulimia nervosa is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7902447/"
+    }
+  },
+  {
+    "id": "s2med-2831",
+    "category": "IM Psych",
+    "q": "Factitious thyrotoxicosis per p284?",
+    "a": "Injection of thyroid hormone (surreptitious thyrotoxicosis). Usually an endocrine-type Q. It need not be tied to seeking medical care (the patient may just be trying to lose weight), though some inject for attention. The Q need not say the patient is a pharmacist.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "A paper on factitious thyrotoxicosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12796672/"
+    }
+  },
+  {
+    "id": "s2med-2832",
+    "category": "IM Psych",
+    "q": "Factitious glycemic med use per p284?",
+    "a": "Use of insulin or hypoglycemic meds (e.g., sulfonylureas) to cause hypoglycemia or weight loss; some patients do it for attention. Asked with C-peptide: low C-peptide indicates exogenous insulin; high C-peptide means secretagogue abuse (sulfonylureas) or insulinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "A StatPearls page on factitious hypoglycemia is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK542310/"
+    }
+  },
+  {
+    "id": "s2med-2833",
+    "category": "IM Psych",
+    "q": "Narcolepsy per p284?",
+    "a": "Chronic disorder of sleep-wake regulation: excessive daytime sleepiness, cataplexy (sudden muscle weakness), sleep paralysis, and hallucinations (hypnagogic before sleep, hypnopompic on waking). Thought due to deficiency of orexin (hypocretin), which promotes wakefulness.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "A paper on modafinil in orexin-deficient mice is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15652995/"
+    }
+  },
+  {
+    "id": "s2med-2834",
+    "category": "IM Psych",
+    "q": "Narcolepsy Tx per p284?",
+    "a": "Modafinil (dopamine reuptake inhibitor plus promotes release of orexin from the hypothalamus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    },
+    "guideline": {
+      "text": "The modafinil paper is linked on the previous card; I did not verify the orexin-release claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15652995/"
+    }
+  },
+  {
+    "id": "s2med-2835",
+    "category": "IM Psych",
+    "q": "Sleep apnea per p284?",
+    "a": "Can be obstructive (usually obesity) or central (brain-related). Chronic fatigue and poor oxygenation can lead to dysthymia/depression; the NBME answer is 'mood disorder due to a medical condition' (continues on p285).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 284,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=284"
+    }
+  },
+  {
+    "id": "s2med-2836",
+    "category": "IM Psych",
+    "q": "Sleep apnea diagnosis per p285?",
+    "a": "USMLE wants polysomnography (sleep study) to diagnose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "An AASM guideline on diagnostic testing for adult OSA is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5337595/"
+    }
+  },
+  {
+    "id": "s2med-2837",
+    "category": "IM Psych",
+    "q": "Obesity hypoventilation per p285?",
+    "a": "When OSA progresses to a chronic CO2 retainer with pulmonary hypertension and/or cor pulmonale, it is called obesity hypoventilation syndrome (Pickwickian syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "An ATS guideline on obesity hypoventilation syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6680300/"
+    }
+  },
+  {
+    "id": "s2med-2838",
+    "category": "IM Psych",
+    "q": "Restless leg syndrome per p285?",
+    "a": "Idiopathic, irresistible urge to move the legs in bed. Most common cause is iron deficiency anemia; first step is serum iron and ferritin. If iron studies are normal, gabapentin and D2 agonists (ropinirole, pramipexole) can be used. USMLE wants you to know RLS patients have increased risk of developing Parkinson disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "A paper on the relationship between Parkinson disease and RLS is linked (title only); I did not verify the risk claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11890847/"
+    }
+  },
+  {
+    "id": "s2med-2839",
+    "category": "IM Psych",
+    "q": "Tourette per p285?",
+    "a": "Neurologic disorder of repetitive, involuntary movements and vocalizations. Motor tics range from eye blinking, head jerking or shoulder shrugging to hopping, twirling or mimicking. Vocal tics include throat clearing, sniffing, humming, repeating words, or shouting inappropriate words (coprolalia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Tourette syndrome and tic disorders is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499958/"
+    }
+  },
+  {
+    "id": "s2med-2840",
+    "category": "IM Psych",
+    "q": "Tourette Tx per p285?",
+    "a": "Haloperidol (typical antipsychotic, D2 antagonist) and clonidine (a2 agonist) both show up on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "A practice guideline summary on tic treatment is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/"
+    }
+  },
+  {
+    "id": "s2med-2841",
+    "category": "IM Psych",
+    "q": "Provisional tic disorder per p285?",
+    "a": "In pediatrics it is normal for a child to sometimes have a single tic lasting up to a year (e.g., an unusual tongue or lip gesture). Very low chance of progressing to chronic tic disorder or Tourette. USMLE wants follow-up in 3-6 months (observe).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2med-2842",
+    "category": "IM Psych",
+    "q": "PANDAS per p285?",
+    "a": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci: group A strep pharyngitis can cause a tic disorder, OCD, or ADHD in the weeks after infection. Vignette: a child with a sore throat 2 weeks ago and a new tic, ADHD or OCD; the test that best identifies etiology is anti-streptolysin O titers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "A diagnostic-approach paper on PANDAS is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8580040/"
+    }
+  },
+  {
+    "id": "s2med-2843",
+    "category": "IM Psych",
+    "q": "Drug-induced tics per p285?",
+    "a": "Stimulants such as methylphenidate, amphetamines and caffeine can cause tics. Tardive dyskinesia due to antipsychotics is considered a type of tic disorder.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    }
+  },
+  {
+    "id": "s2med-2844",
+    "category": "IM Psych",
+    "q": "Trichotillomania per p285?",
+    "a": "Pulling out one's hair anywhere (eyebrows, scalp). The patient may also eat the hair, leading to a gastric bezoar (asked on NBME), an undigestible mass that can cause bowel obstruction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "A paper on trichotillomania and trichophagia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6109030/"
+    }
+  },
+  {
+    "id": "s2med-2845",
+    "category": "IM Psych",
+    "q": "Child abuse findings per p285?",
+    "a": "Spiral fractures (twisting force), posterior rib fractures (squeezing), circular burns (cigarettes), burns sparing the flexor regions (dipped in hot water; child flexes limbs), retinal detachment/hemorrhages, subdural hematoma (shaken baby syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 285,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=285"
+    },
+    "guideline": {
+      "text": "A systematic review of skeletal fracture patterns in child abuse is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18832412/"
+    }
+  },
+  {
+    "id": "s2med-2846",
+    "category": "IM Psych",
+    "q": "Avoidance of eye contact per p286 (child abuse list continued)?",
+    "a": "The last bullet of the child abuse list: avoidance of eye contact. The source adds that if the history mentions meningitis, think neurosensory hearing loss instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2med-2847",
+    "category": "IM Psych",
+    "q": "Enuresis per p286?",
+    "a": "Nocturnal enuresis is normal on occasion up through age 5. First step to decrease recurrence is behavioral-science answers (decrease stressors, increase time with the child), e.g., bedwetting after a sibling is diagnosed with ALL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2med-2848",
+    "category": "IM Psych",
+    "q": "Enuresis next steps per p286?",
+    "a": "After behavioral answers, a star chart (positive reinforcement). If not listed, an enuresis alarm (moisture sensor that wakes the child). Imipramine, desmopressin and water deprivation are wrong answers on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "A NICE enuresis guideline is linked (title only). Caution: it lists desmopressin as a treatment option in some situations; I did not verify. Source answer stays for exam purposes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3080223/"
+    }
+  },
+  {
+    "id": "s2med-2849",
+    "category": "IM Psych",
+    "q": "Encopresis per p286?",
+    "a": "Fecal soiling; normal on occasion up through age 5.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2med-2850",
+    "category": "IM Psych",
+    "q": "IBS per p286?",
+    "a": "Classic vignette: a woman in her 20s-40s with stress factors and alternating diarrhea/constipation (can also be bloating or cramping). Key detail: symptoms relieved with bowel movements. NBME assesses 'smooth muscle hypersensitivity' as the mechanism. Not an infection; do not confuse with IBD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "A paper on visceral hypersensitivity in IBS is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10609912/"
+    }
+  },
+  {
+    "id": "s2med-2851",
+    "category": "IM Psych",
+    "q": "IBS-D Tx per p286?",
+    "a": "Loperamide, an opioid that causes constipation; the USMLE answer is just 'mu-opioid receptor agonist'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2med-2852",
+    "category": "IM Psych",
+    "q": "Chronic interstitial cystitis per p286?",
+    "a": "Over 6 weeks of unexplained suprapubic tenderness plus dysuria with negative lab and urinary findings; can mention anterior vaginal wall pain. The source says USMLE wants no treatment (steroids wrong), with 'education', 'self-care' and 'physiotherapy' as answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "A 2025 Canadian guideline on IC/BPS treatment is linked (title only). Caution: current guidelines list multiple treatments; I did not verify details. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11973989/"
+    }
+  },
+  {
+    "id": "s2med-2853",
+    "category": "IM Psych",
+    "q": "Fibromyalgia per p286?",
+    "a": "Labs normal, ESR not elevated, no fever. A woman in her 20s-50s with multiple, often symmetric, muscle tender points. Often confused with polymyositis and polymyalgia rheumatica.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    }
+  },
+  {
+    "id": "s2med-2854",
+    "category": "IM Psych",
+    "q": "Fibromyalgia Tx per p286?",
+    "a": "SNRIs or TCAs; USMLE can write it as 'anti-depressant therapy' even though the patient is not depressed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "An overview of Cochrane reviews of fibromyalgia drugs is linked (title only); I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12048062/"
+    }
+  },
+  {
+    "id": "s2med-2855",
+    "category": "IM Psych",
+    "q": "Delirium per p286?",
+    "a": "Acute disturbance in attention and cognition over hours to days. Most commonly hyperactive (confused, restless, agitated, combative); hypoactive is mute, lethargic or slow to respond.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "A review of delirium is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9012267/"
+    }
+  },
+  {
+    "id": "s2med-2856",
+    "category": "IM Psych",
+    "q": "Delirium causes per p286?",
+    "a": "Infection, electrolyte disturbance (e.g., hypercalcemic crisis), medications (especially first-generation H1 blockers like diphenhydramine), and metabolic causes (e.g., hypercarbia in COPD exacerbation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 286,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=286"
+    },
+    "guideline": {
+      "text": "The delirium review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9012267/"
+    }
   }
 ];
