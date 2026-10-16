@@ -718,3 +718,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p185 (breast tumors, BRCA, screening, HRT) - 16 cards, ids s2med-1807 to 1822
 - Conflicts: Pap schedule vs USPSTF 2018/ACS 2020 (primary HPV); mammography 50-74 vs USPSTF 2024 (40-74); "needle-guided open biopsy" for DCIS wording; fibroadenoma FNA vs core biopsy; HRT only indication. Unverified: HIV Pap intervals, BRCA RRM, E-cadherin, DES timing, Bartholin organism.
 - Mobile QA (320x740, local vite preview build, not live): all 51 cards ox=false off=false bad=0.
+
+## p186 (other breast conditions) - 15 cards, ids s2med-1823 to 1837
+## p187 (gynecomastia, ovarian conditions) - 12 cards, ids s2med-1838 to 1849
+## p188 (testicular cancer, prostate cancer, BPH start) - 15 cards, ids s2med-1850 to 1864
+- Unverified/caution: fibrocystic no-imaging, mastitis antibiotic (MRSA), methylprednisolone for cord compression, marijuana gynecomastia, free PSA, PLAP, p188 "immature/anaplastic" yolk sac wording.
+- Mobile QA (320x740, local vite preview build, not live): all 42 cards ox=false off=false bad=0.

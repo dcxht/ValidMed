@@ -23902,5 +23902,531 @@ export default [
       "text": "The linked menopause HRT review covers indications and risks; I did not verify whether it lists indications beyond vasomotor symptoms. Source answer stays.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8034540/"
     }
+  },
+  {
+    "id": "s2med-1823",
+    "category": "IM Repro/Obgyn",
+    "q": "Fibrocystic change: presentations on NBME per p186?",
+    "a": "Benign cystic alteration in women 20s-50s. (1) Classic: woman 20s-30s with bilateral waxing/waning tenderness over the menstrual cycle; (2) unilateral tenderness or sharp pain in one breast; (3) painless unilateral breast cyst in a woman in her 40s that drains brown/greenish fluid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls on fibrocystic breast disease is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551609/"
+    }
+  },
+  {
+    "id": "s2med-1824",
+    "category": "IM Repro/Obgyn",
+    "q": "Fibrocystic change: workup and treatment per p186?",
+    "a": "Clinical diagnosis; no biopsy or ultrasound needed per the source. Symptomatic treatment only (warm showers, evening primrose oil).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "The linked StatPearls page covers diagnosis and management; I did not verify whether it supports skipping imaging. Source answer stays.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551609/"
+    }
+  },
+  {
+    "id": "s2med-1825",
+    "category": "IM Repro/Obgyn",
+    "q": "Fibrocystic change histology per p186?",
+    "a": "'Sclerosing adenosis,' apocrine metaplasia, and/or 'blue dome cysts.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1826",
+    "category": "IM Repro/Obgyn",
+    "q": "Simple versus complex breast cyst per p186?",
+    "a": "Simple: hypoechoic (black) on ultrasound, a fluid-filled cyst. Complex: at least partly hyperechoic (white), meaning a solid component.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1827",
+    "category": "IM Repro/Obgyn",
+    "q": "Simple breast cyst management per p186?",
+    "a": "Observe; FNA drainage only if it causes discomfort (e.g., large). No specific size requires drainage on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls on breast cyst is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK562196/"
+    }
+  },
+  {
+    "id": "s2med-1828",
+    "category": "IM Repro/Obgyn",
+    "q": "NBME: woman started HRT 3 months ago, now has a simple cyst per p186?",
+    "a": "Biopsy of the lesion; sudden growth in size can be an indication for biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1829",
+    "category": "IM Repro/Obgyn",
+    "q": "Complex breast cysts per p186?",
+    "a": "All require FNA biopsy, similar to fibroadenoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1830",
+    "category": "IM Repro/Obgyn",
+    "q": "Mastitis: classic presentation and organism per p186?",
+    "a": "Red, cracked, fissured nipple in a breastfeeding woman. Usually S. aureus, but Group A Strep also possible.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1831",
+    "category": "IM Repro/Obgyn",
+    "q": "Mastitis treatment per p186?",
+    "a": "Oral dicloxacillin (not doxycycline) and continue breastfeeding through the affected breast; no risk to the neonate. Methicillin-class beta-lactams and first-generation cephalosporins (cephalexin) are equivalent on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "The ABM mastitis protocol is linked; I did not verify the antibiotic details (e.g., MRSA coverage).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4048576/"
+    }
+  },
+  {
+    "id": "s2med-1832",
+    "category": "IM Repro/Obgyn",
+    "q": "Mastitis versus abscess per p186?",
+    "a": "Mastitis can present as a red, warm, tender, non-fluctuant breast mass without nipple involvement. Non-fluctuant = mastitis; fluctuant = abscess (asked on a 2CK form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1833",
+    "category": "IM Repro/Obgyn",
+    "q": "Breast abscess per p186?",
+    "a": "Warm, red, tender fluctuant mass of the breast; drain as next best step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1834",
+    "category": "IM Repro/Obgyn",
+    "q": "Galactocele per p186?",
+    "a": "Aka milk retention cyst; usually in recently breastfeeding women. Painless or tender fluctuant peri-areolar mass, afebrile, not warm or red. Treatment: warm compresses, then drainage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls on galactocele is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK578180/"
+    }
+  },
+  {
+    "id": "s2med-1835",
+    "category": "IM Repro/Obgyn",
+    "q": "Ductal ectasia per p186?",
+    "a": "Dilation of lactiferous ducts; a diagnosis of exclusion on USMLE. 2/3 of Qs present as an inverted nipple; 1/3 as a breast lesion whose biopsy shows dilation of ducts.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1836",
+    "category": "IM Repro/Obgyn",
+    "q": "Virginal breast hypertrophy per p186?",
+    "a": "Benign asymmetric breast growth in young women. USMLE tries to scare you with a first-degree relative with breast cancer; 16-year-old with a large lump under one nipple: observe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1837",
+    "category": "IM Repro/Obgyn",
+    "q": "Gynecomastia in teenage boys per p186?",
+    "a": "Physiologic; increased breast tissue, tender or not, uni- or bilateral. Just observe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 186,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=186"
+    }
+  },
+  {
+    "id": "s2med-1838",
+    "category": "IM Repro/Obgyn",
+    "q": "Gynecomastia causes per p187?",
+    "a": "Increased estrogen in liver failure, or drugs like cimetidine, spironolactone, ketoconazole, even marijuana. Caused by a direct estrogen effect on the breast, not prolactin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    },
+    "guideline": {
+      "text": "An evidence-based review of drug-induced gynecomastia is linked; I did not verify the text, including the marijuana and prolactin statements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22862307/"
+    }
+  },
+  {
+    "id": "s2med-1839",
+    "category": "IM Repro/Obgyn",
+    "q": "NBME: gynecomastia in a male taking hCG, mechanism per p187?",
+    "a": "'Testis producing estrogen' (or 'estrogen; direct effect on breast'). hCG shares the alpha subunit with LH, FSH and TSH, so it acts like LH + FSH: LH raises androgens, FSH raises aromatase, so testicular androgens convert to estrogens.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2med-1840",
+    "category": "IM Repro/Obgyn",
+    "q": "Breast fat necrosis per p187?",
+    "a": "Non-enzymatic fat necrosis from trauma; can calcify. Not enzymatic fat necrosis (acute pancreatitis). Can follow overt trauma (softball) or sometimes tight sports bras.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2med-1841",
+    "category": "IM Repro/Obgyn",
+    "q": "Ruptured ovarian cyst: presentation per p187?",
+    "a": "Sudden sharp adnexal pain (adnexa = Fallopian tube plus ovary). Often 10-15 mL serosanguineous fluid in the pouch of Douglas on culdocentesis; no mass mentioned.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    },
+    "guideline": {
+      "text": "Case reports on conservative management of ruptured cysts with hemoperitoneum are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3946718/"
+    }
+  },
+  {
+    "id": "s2med-1842",
+    "category": "IM Repro/Obgyn",
+    "q": "Ruptured ovarian cyst: treatment per p187?",
+    "a": "Symptomatic (NSAID). Do not do laparoscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2med-1843",
+    "category": "IM Repro/Obgyn",
+    "q": "Ruptured cyst vignette timing per p187?",
+    "a": "3/4 of Qs: intermittent adnexal pain that becomes constant over hours to weeks. 1/4: a few-hour history of constant pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2med-1844",
+    "category": "IM Repro/Obgyn",
+    "q": "Adnexal/ovarian torsion per p187?",
+    "a": "'Large' adnexal mass (e.g., 8 x 12 cm), no mention of fluid in the pouch of Douglas. Treatment: laparoscopic detorsion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    },
+    "guideline": {
+      "text": "A review of ovary torsion is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5615993/"
+    }
+  },
+  {
+    "id": "s2med-1845",
+    "category": "IM Repro/Obgyn",
+    "q": "Biggest risk factor for ovarian torsion per p187?",
+    "a": "Pre-existing anatomic abnormality (e.g., cyst). History of a cyst plus now a large adnexal mass with pain is torsion, not ruptured cyst.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    },
+    "guideline": {
+      "text": "A paper on clinical risk factors for ovarian torsion is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5615993/"
+    }
+  },
+  {
+    "id": "s2med-1846",
+    "category": "IM Repro/Obgyn",
+    "q": "Theca-lutein cyst per p187?",
+    "a": "Arises from theca cells; usually bilateral. Frequent with very high hCG: moles, multiple gestation, fertility drugs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    },
+    "guideline": {
+      "text": "A paper on the natural history of theca lutein cysts is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2455880/"
+    }
+  },
+  {
+    "id": "s2med-1847",
+    "category": "IM Repro/Obgyn",
+    "q": "Hemorrhagic theca-lutein cyst per p187?",
+    "a": "A diagnosis of exclusion; endometrioid cyst is eliminated because the Q doesn't mention dysmenorrhea or endometriosis signs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2med-1848",
+    "category": "IM Repro/Obgyn",
+    "q": "Endometrioid cyst per p187?",
+    "a": "Aka endometrioma or 'chocolate cyst': a cyst filled with bleeding endometrial tissue in endometriosis (endometrial tissue outside the uterus, usually on the ovary).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    }
+  },
+  {
+    "id": "s2med-1849",
+    "category": "IM Repro/Obgyn",
+    "q": "Dermoid cyst per p187?",
+    "a": "Aka mature cystic teratoma; contains tissue from multiple germ layers (hair, skin, teeth); can calcify.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 187,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=187"
+    },
+    "guideline": {
+      "text": "StatPearls on cystic teratoma is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK564325/"
+    }
+  },
+  {
+    "id": "s2med-1850",
+    "category": "IM Repro/Obgyn",
+    "q": "Seminoma per p188?",
+    "a": "Most common testicular cancer, teenage years and older. Large uniform cells with watery cytoplasm; chemo- and radiosensitive. Placental ALP can be a tumor marker.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "A paper on placental ALP as a seminoma marker is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7093962/"
+    }
+  },
+  {
+    "id": "s2med-1851",
+    "category": "IM Repro/Obgyn",
+    "q": "Testicular yolk sac tumor per p188?",
+    "a": "Aka endodermal sinus tumor; most common in kids under 3. AFP is the marker; immature/anaplastic cells (as the source writes it).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1852",
+    "category": "IM Repro/Obgyn",
+    "q": "Testicular embryonal carcinoma per p188?",
+    "a": "Combined AFP and hCG are tumor markers; usually adult men.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1853",
+    "category": "IM Repro/Obgyn",
+    "q": "Testicular Sertoli-Leydig cell tumor per p188?",
+    "a": "Secretes androgens. Can cause gynecomastia (on NBME) because androgens are aromatized to estrogens.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1854",
+    "category": "IM Repro/Obgyn",
+    "q": "Testicular granulosa cell tumor per p188?",
+    "a": "Secretes estrogen; can also cause gynecomastia. If NBME gives Sertoli-Leydig causing gynecomastia, granulosa won't also be listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1855",
+    "category": "IM Repro/Obgyn",
+    "q": "Choriocarcinoma per p188?",
+    "a": "Syncytiotrophoblastic placental cells; can occur in males, usually 20s-30s. Very high hCG is the marker.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1856",
+    "category": "IM Repro/Obgyn",
+    "q": "Prostate cancer: features per p188?",
+    "a": "Adenocarcinoma, the most common cancer in men; stimulated by DHT. Osteoblastic metastases are the highest-yield point.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1857",
+    "category": "IM Repro/Obgyn",
+    "q": "Prostate cancer vignette: man over 50, sudden leg neurologic symptoms, two blastic spine lesions on MRI per p188?",
+    "a": "Spinal metastases. With neuro symptoms, give IV methylprednisolone; with no neuro symptoms and just vertebral blastic lesions, the answer is radiotherapy (distractors like morphine + corticosteroids are wrong).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "A guideline on metastatic spinal cord compression is linked; I did not verify which corticosteroid it names (I did not verify methylprednisolone). Source answer stays.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK595817/"
+    }
+  },
+  {
+    "id": "s2med-1858",
+    "category": "IM Repro/Obgyn",
+    "q": "Orchiectomy in prostate cancer per p188?",
+    "a": "Lowers androgen production, causing atrophy and shrinkage of prostate cancer cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1859",
+    "category": "IM Repro/Obgyn",
+    "q": "Flutamide and leuprolide per p188?",
+    "a": "Flutamide blocks the androgen receptor and is given before leuprolide (a GnRH agonist that desensitizes the receptor when given continuously). Leuprolide can raise LH and FSH before desensitization, so flutamide goes first.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "A paper on flutamide and LHRH-agonist flare is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3309363/"
+    }
+  },
+  {
+    "id": "s2med-1860",
+    "category": "IM Repro/Obgyn",
+    "q": "PSA in prostate cancer per p188?",
+    "a": "PSA often elevated. Free PSA (not protein-bound) is low compared with bound PSA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "A trial on the percentage of free PSA is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9605898/"
+    }
+  },
+  {
+    "id": "s2med-1861",
+    "category": "IM Repro/Obgyn",
+    "q": "Prostate cancer grading and surgery per p188?",
+    "a": "Gleason scoring grades prostate cancer. During radical prostatectomy, the parasympathetic nerves (for erection) are at greatest risk of injury (asked on NBMEs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    },
+    "guideline": {
+      "text": "A review of erectile dysfunction after radical prostatectomy is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35579053/"
+    }
+  },
+  {
+    "id": "s2med-1862",
+    "category": "IM Repro/Obgyn",
+    "q": "BPH: cause and presentation per p188?",
+    "a": "Benign prostatic hyperplasia from lifetime DHT exposure. Dribbling, hesitancy, interrupted stream in a male over 60 (usually 70s+).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1863",
+    "category": "IM Repro/Obgyn",
+    "q": "Old man with high creatinine per p188?",
+    "a": "BPH until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
+  },
+  {
+    "id": "s2med-1864",
+    "category": "IM Repro/Obgyn",
+    "q": "BPH: medications to stop per p188 (continues p189)?",
+    "a": "Anti-cholinergic medications, because they cause urinary retention; this shows up a lot on NBMEs. The source then lists three drug classes in particular (next page).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 188,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=188"
+    }
   }
 ];
