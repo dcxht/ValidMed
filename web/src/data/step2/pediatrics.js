@@ -23945,5 +23945,315 @@ export default [
       "text": "DSM-5 folded Asperger disorder into the single diagnosis of ASD; the separate label is historical.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK525976/"
     }
+  },
+  {
+    "id": "s2peds-1671",
+    "category": "Anorexia nervosa",
+    "q": "How does p114 describe the core anorexia presentation and its BMI requirement?",
+    "a": "Intense preoccupation with maintaining low body weight and intense fear of gaining weight. BMI must be low (<18.5) for the diagnosis. Purging can be seen (not limited to bulimia).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: DSM-5 anorexia centers on restriction leading to significantly low body weight, fear of gaining weight and body-image disturbance; it does not set a fixed BMI cutoff of 18.5, which the source uses as an exam rule of thumb. BMI is used for severity grading.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+    }
+  },
+  {
+    "id": "s2peds-1672",
+    "category": "Anorexia nervosa",
+    "q": "What vignette does p114 give for anorexia, and what bone finding does the USMLE like?",
+    "a": "A girl who runs 12 miles per day and barely eats. The USMLE likes metatarsal stress fractures from decreased bone density.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2peds-1673",
+    "category": "Anorexia nervosa",
+    "q": "What later-life risk does p114 say the question can ask about in anorexia, and why?",
+    "a": "Osteoporosis, because reduced adipose tissue means reduced estrogen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls lists hypothalamic hypogonadism and osteoporosis among the endocrine complications.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+    }
+  },
+  {
+    "id": "s2peds-1674",
+    "category": "Anorexia nervosa",
+    "q": "Is amenorrhea required for anorexia on p114, and what mechanism does the USMLE want for it?",
+    "a": "Amenorrhea can be seen but is no longer mandatory for diagnosis. The USMLE wants abnormal GnRH pulsation, with LH and FSH both decreased: hypogonadotropic (central) amenorrhea.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls confirms amenorrhea was removed from the DSM-5 criteria.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+    }
+  },
+  {
+    "id": "s2peds-1675",
+    "category": "Anorexia nervosa",
+    "q": "What does p114 give as the hospital-admission indication in anorexia?",
+    "a": "BMI <15 or overt malnutrition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls lists inpatient criteria as medical instability (for example bradycardia, hypotension, hypothermia, electrolyte problems), psychiatric need or failure of outpatient care, not a single BMI number. Treat the source's BMI <15 as a quick exam cutoff.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+    }
+  },
+  {
+    "id": "s2peds-1676",
+    "category": "Anorexia nervosa",
+    "q": "What treatment does p114 give for anorexia, and what role does mirtazapine play?",
+    "a": "CBT and/or SSRI. Mirtazapine is an alpha-2 antagonist that stimulates appetite and is used in patients with depression and anorexia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: nutritional rehabilitation and psychotherapy are the core of treatment, with pharmacotherapy not used initially; SSRIs are for comorbid depression or anxiety. The source's mirtazapine point is not a StatPearls recommendation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+    }
+  },
+  {
+    "id": "s2peds-1677",
+    "category": "Anorexia nervosa",
+    "q": "Which antidepressant does p114 say to avoid in eating disorders, and why?",
+    "a": "Bupropion, because it lowers the seizure threshold.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2peds-1678",
+    "category": "Anorexia nervosa",
+    "q": "What is the most common cause of death in anorexia per p114, and what is the mechanism?",
+    "a": "Ventricular fibrillation due to hypokalemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls identifies cardiac complications and electrolyte disturbance as major causes of death, and suicide also contributes substantially. The source's single cause is an exam simplification.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+    }
+  },
+  {
+    "id": "s2peds-1679",
+    "category": "Anorexia nervosa",
+    "q": "What does p114 say about olanzapine in anorexia?",
+    "a": "It can be used in theory: an antipsychotic that increases appetite.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: for acutely ill patients who do not respond to initial treatment, olanzapine is a first-line medication; other antipsychotics have not shown similar weight-gain effects.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+    }
+  },
+  {
+    "id": "s2peds-1680",
+    "category": "Bulimia nervosa",
+    "q": "How does p114 define bulimia?",
+    "a": "Binge eating followed by compensatory behaviors such as vomiting, excessive exercise or laxative use.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: recurrent binge eating with inappropriate compensatory behavior to prevent weight gain.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562178/"
+    }
+  },
+  {
+    "id": "s2peds-1681",
+    "category": "Bulimia nervosa",
+    "q": "How does BMI differ between bulimia and anorexia on p114?",
+    "a": "In bulimia BMI is normal or increased. In anorexia it must be decreased.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2peds-1682",
+    "category": "Bulimia nervosa",
+    "q": "What treatment does p114 give for bulimia?",
+    "a": "CBT and/or SSRI.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: SSRIs reduce symptoms and fluoxetine is the only FDA-approved medication for bulimia nervosa (60 mg dose better than placebo). Bupropion remains avoided because of seizure risk.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562178/"
+    }
+  },
+  {
+    "id": "s2peds-1683",
+    "category": "Binge-eating disorder",
+    "q": "How does p114 describe binge-eating disorder?",
+    "a": "Frequent episodes of eating large amounts of food in a short time, often in secret, usually with guilt or shame.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: DSM-5-TR requires binge episodes at least once a week for 3 months.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551700/"
+    }
+  },
+  {
+    "id": "s2peds-1684",
+    "category": "Binge-eating disorder",
+    "q": "How does p114 separate binge-eating disorder from bulimia, and what is the treatment?",
+    "a": "The episodes are not regularly followed by purging, excessive exercise or other compensatory behaviors. Treatment is CBT and/or SSRI.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls confirms binge-eating disorder lacks compensatory behavior.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551700/"
+    }
+  },
+  {
+    "id": "s2peds-1685",
+    "category": "Dissociative identity disorder (DID)",
+    "q": "How does p114 define dissociative identity disorder?",
+    "a": "Two or more distinct identities that take control of the patient's behavior, with memory gaps during the transitions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: DID is characterized by disruption of identity with two or more distinct personality states and gaps in recall.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK568768/"
+    }
+  },
+  {
+    "id": "s2peds-1686",
+    "category": "Dissociative identity disorder (DID)",
+    "q": "What patient report does p114 give for DID?",
+    "a": "Experiences of 'time loss', or being told of actions the patient does not recall performing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2peds-1687",
+    "category": "Dissociative amnesia",
+    "q": "How does p114 define dissociative amnesia?",
+    "a": "Inability to recall important personal information, typically about a traumatic or stressful event, that goes beyond ordinary forgetting. The amnesia can cause loss of identity or life history.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "Review: DSM-5 gaps in recall may involve everyday events as well as traumatic ones.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4227384/"
+    }
+  },
+  {
+    "id": "s2peds-1688",
+    "category": "Dissociative amnesia",
+    "q": "What is dissociative fugue on p114, with its example?",
+    "a": "A subtype of dissociative amnesia: memory loss plus travel. Example: found in a parking lot 50 miles from home, not knowing who he or she is when police arrive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "DSM-5 made fugue a specifier of dissociative amnesia rather than a separate diagnosis, matching the source.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4227384/"
+    }
+  },
+  {
+    "id": "s2peds-1689",
+    "category": "Depersonalization / derealization disorder",
+    "q": "How does p114 describe depersonalization and derealization?",
+    "a": "Feeling detached from oneself (depersonalization) or that the world is unreal or dreamlike (derealization).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "DSM-5 combines both under depersonalization-derealization disorder.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910194/"
+    }
+  },
+  {
+    "id": "s2peds-1690",
+    "category": "Depersonalization / derealization disorder",
+    "q": "What key insight feature does p114 give in depersonalization/derealization disorder?",
+    "a": "The experiences can be distressing, but the patient is aware the perceptions do not reflect reality.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "The review describes intact reality testing as a defining feature.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910194/"
+    }
+  },
+  {
+    "id": "s2peds-1691",
+    "category": "Somatic symptom disorder",
+    "q": "What unconscious features does p114 give for somatic symptom and related disorders?",
+    "a": "Both symptom generation and motive are unconscious.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2peds-1692",
+    "category": "Somatic symptom disorder",
+    "q": "How does p114 define somatic symptom disorder?",
+    "a": "One or more chronic somatic symptoms (for example GI pain, adnexal pain, shortness of breath, neuropathic pain) that are distressing or cause socio-occupational dysfunction, but medical exam and diagnostics find no abnormality.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 114,
+      "url": "/mehlman/hy-pediatrics.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls: DSM-5 no longer requires symptoms to be medically unexplained; the diagnosis needs excessive thoughts, feelings or behaviors about the symptoms causing distress or dysfunction.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532253/"
+    }
   }
 ];
