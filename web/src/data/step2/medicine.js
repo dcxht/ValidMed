@@ -27577,5 +27577,439 @@ export default [
       "page": 208,
       "url": "/mehlman/hy-internal-medicine.pdf#page=208"
     }
+  },
+  {
+    "id": "s2med-2114",
+    "category": "IM Repro/Obgyn",
+    "q": "Smoking in pregnancy per p209 (continued from p208)?",
+    "a": "IUGR and reduced IQ.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2med-2115",
+    "category": "IM Repro/Obgyn",
+    "q": "Barrier contraception (condoms) per p209?",
+    "a": "Latex, polyurethane or lambskin sheaths worn over the penis or inside the vagina. Apart from abstinence, male condoms are the #1 way to reduce pregnancy and STD risk. Recommended even with other contraception in women on isotretinoin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2med-2116",
+    "category": "IM Repro/Obgyn",
+    "q": "OCPs and cervical cancer per p209?",
+    "a": "Slightly increased risk, not a direct effect but from less barrier contraception use and more HPV exposure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2med-2117",
+    "category": "IM Repro/Obgyn",
+    "q": "Combined OCPs: contents and mechanism per p209?",
+    "a": "Estrogen plus progesterone. Estrogen reduces breakthrough bleeding and ovulation probability; progesterone thickens cervical mucus (reducing sperm penetration) and, depending on dose, can reduce ovulation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    },
+    "guideline": {
+      "text": "The CDC 2024 US Medical Eligibility Criteria is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11315372/"
+    }
+  },
+  {
+    "id": "s2med-2118",
+    "category": "IM Repro/Obgyn",
+    "q": "Combined OCP contraindications per p209?",
+    "a": "Smokers over 35 (HY), migraine with aura, history of thrombotic disorders, current breast/gynecologic cancer (the estrogen component).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    },
+    "guideline": {
+      "text": "The linked 2024 MEC is the current source; I did not verify its wording on age 35 and smoking. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11315372/"
+    }
+  },
+  {
+    "id": "s2med-2119",
+    "category": "IM Repro/Obgyn",
+    "q": "Nebulous OCP answer wordings per p209?",
+    "a": "'Synchronization of endometrium' or 'triphasic oral contraceptive pills' mean the same as OCPs on 2CK forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2med-2120",
+    "category": "IM Repro/Obgyn",
+    "q": "OCPs and cancer risk per p209?",
+    "a": "Greatest reduction is in ovarian cancer (cycle synchronization; asked on NBME); also reduced endometrial cancer risk. Cervical cancer risk is up via less barrier use; some studies suggest a slight, non-significant increase in breast cancer risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    },
+    "guideline": {
+      "text": "A review of time-dependent OC effects on breast, ovarian and endometrial cancers is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33334812/"
+    }
+  },
+  {
+    "id": "s2med-2121",
+    "category": "IM Repro/Obgyn",
+    "q": "Progestin-only pills per p209?",
+    "a": "Aka 'mini-pill'; progesterone analogue only; thicken cervical mucus. Must be taken at the same time every day, so require adherence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2med-2122",
+    "category": "IM Repro/Obgyn",
+    "q": "Transdermal patch and vaginal ring per p209?",
+    "a": "Patch: estrogen + progesterone, acts like combined OCP, worn one week at a time. Ring (NuvaRing): estrogen + progesterone, worn monthly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2med-2123",
+    "category": "IM Repro/Obgyn",
+    "q": "Copper IUD per p209?",
+    "a": "Releases copper ions into the uterine cavity, toxic to sperm and inhibiting motility. Among the most effective emergency contraception if inserted within five days post-coitally; up to 10 years of protection. Risk of migration through the uterine wall.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    },
+    "guideline": {
+      "text": "A review of emergency contraception is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4216625/"
+    }
+  },
+  {
+    "id": "s2med-2124",
+    "category": "IM Repro/Obgyn",
+    "q": "Levonorgestrel IUD per p209?",
+    "a": "Releases a progesterone analogue; lasts 3-7 years; ideal for long-term contraception or poor medication compliance. Thickens cervical mucus; risk of migration through the uterine wall.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    }
+  },
+  {
+    "id": "s2med-2125",
+    "category": "IM Repro/Obgyn",
+    "q": "Depo shot per p209?",
+    "a": "Depot medroxyprogesterone acetate every 3 months; thickens cervical mucus; decreases bone mineral density (rebounds on discontinuation). Bleeding: erratic in 1/3, no change in 1/3, amenorrhea in 1/3.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 209,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=209"
+    },
+    "guideline": {
+      "text": "A systematic review of DMPA side effects and benefits is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30633132/"
+    }
+  },
+  {
+    "id": "s2med-2126",
+    "category": "IM Repro/Obgyn",
+    "q": "Woman who forgets contraception, needs reliability, STI in past 3 months per p210 (continued from p209)?",
+    "a": "Implantable rod: the 2CK answer, because the source says an IUD is contraindicated if STI within the past 3 months.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: the CDC IUD eligibility table (linked) is the current source; I did not verify its wording on recent STI. Source answer stays for exam use.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK619474/table/ch5.tab4/"
+    }
+  },
+  {
+    "id": "s2med-2127",
+    "category": "IM Repro/Obgyn",
+    "q": "Implantable rod per p210?",
+    "a": "Aka Implanon/Nexplanon; releases a progesterone analogue; thickens cervical mucus; lasts 3 years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2med-2128",
+    "category": "IM Repro/Obgyn",
+    "q": "Diaphragm per p210?",
+    "a": "Cervical cap covering the uterus, often inserted with spermicidal jelly; prevents sperm from entering the uterine cavity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2med-2129",
+    "category": "IM Repro/Obgyn",
+    "q": "Plan B (emergency contraception) per p210?",
+    "a": "Levonorgestrel (progesterone analogue), effective within 3 days. Ulipristal (SPRM), effective within 5 days. Copper IUD also works and is the most effective if inserted.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "A review of ulipristal versus levonorgestrel is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538737/"
+    }
+  },
+  {
+    "id": "s2med-2130",
+    "category": "IM Repro/Obgyn",
+    "q": "Plan C (medication abortion) per p210?",
+    "a": "Mifepristone (progesterone receptor antagonist) up to 10 weeks, followed by misoprostol (PGE1 analogue) 1-2 days later. The source says 'post-intercourse' for the 10 weeks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "The ACOG bulletin on medication abortion up to 70 days of gestation is linked; I did not verify the 'post-intercourse' wording, and 70 days is counted by gestation. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32804884/"
+    }
+  },
+  {
+    "id": "s2med-2131",
+    "category": "IM Repro/Obgyn",
+    "q": "Plan D (surgical abortion) per p210?",
+    "a": "Vacuum aspiration at 6-16 weeks; dilation and evacuation (D&E) after 16 weeks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "A review of second trimester abortion methods is linked; I did not verify the cutoffs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31281014/"
+    }
+  },
+  {
+    "id": "s2med-2132",
+    "category": "IM Repro/Obgyn",
+    "q": "HRT: approved indications per p210?",
+    "a": "Estrogen with progesterone, only for severe perimenopausal vasomotor symptoms (hot flashes, urge incontinence, atrophic vaginitis). Not for bone density, mood or neurocognition, since more lifetime estrogen exposure raises breast cancer, MI, and thromboembolic risk (estrogen upregulates fibrinogen and factors V and VIII).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2med-2133",
+    "category": "IM Repro/Obgyn",
+    "q": "HRT and endometrial cancer per p210?",
+    "a": "Unopposed estrogen raises risk only if the woman stops the progesterone. Estrogen alone can be considered only after hysterectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2med-2134",
+    "category": "IM Repro/Obgyn",
+    "q": "HRT and libido per p210?",
+    "a": "Can lower libido through less endogenous androgen production (more negative feedback, lower GnRH, lower LH and FSH).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2med-2135",
+    "category": "IM Repro/Obgyn",
+    "q": "Aromatase inhibitors per p210?",
+    "a": "Decrease conversion of androgens to estrogens. Letrozole stimulates ovulation by reducing negative feedback; the source says the literature is split vs clomiphene and NBME doesn't assess it. Anastrozole and exemestane treat breast cancer in postmenopausal women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    },
+    "guideline": {
+      "text": "A guideline on ovulatory dysfunction treatment is linked; I did not verify its letrozole recommendation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK620409/"
+    }
+  },
+  {
+    "id": "s2med-2136",
+    "category": "IM Repro/Obgyn",
+    "q": "BPH meds per p210?",
+    "a": "Finasteride: 5a-reductase inhibitor, reducing testosterone to DHT conversion and prostatic growth. Tamsulosin/terazosin: a1 blockers reducing internal urethral sphincter constriction to promote outflow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2med-2137",
+    "category": "IM Repro/Obgyn",
+    "q": "Clomiphene per p210 (continues p211)?",
+    "a": "SERM used to stimulate ovulation in irregular cycles (particularly PCOS).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 210,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=210"
+    }
+  },
+  {
+    "id": "s2med-2138",
+    "category": "IM Repro/Obgyn",
+    "q": "Clomiphene mechanism per p211 (continued from p210)?",
+    "a": "Weak partial-agonist effects at the hypothalamus; it interprets this as low estrogen, so negative feedback falls and GnRH rises.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2med-2139",
+    "category": "IM Repro/Obgyn",
+    "q": "Danazol per p211?",
+    "a": "Androgen-receptor partial agonist. Theoretically for endometriosis (USMLE doesn't assess). Used for hereditary angioedema (stimulates liver C1-esterase inhibitor synthesis). Can cause hirsutism and pseudotumor cerebri.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    },
+    "guideline": {
+      "text": "A survey of danazol benefits and risks in hereditary angioedema is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18320917/"
+    }
+  },
+  {
+    "id": "s2med-2140",
+    "category": "IM Repro/Obgyn",
+    "q": "GnRH receptor agonists per p211?",
+    "a": "Leuprolide, goserelin, nafarelin. Continuous administration desensitizes GnRH receptors, lowering LH and FSH: clinically they act as antagonists.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2med-2141",
+    "category": "IM Repro/Obgyn",
+    "q": "HTN meds in pregnancy per p211?",
+    "a": "Methyldopa (a2 agonist), labetalol, and nifedipine classically. Hydralazine for hypertensive emergencies in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2med-2142",
+    "category": "IM Repro/Obgyn",
+    "q": "Magnesium: uses per p211?",
+    "a": "Prevents seizures in severe preeclampsia; treats seizures in eclampsia; neuroprotection for the neonate when giving birth before 32 weeks; can in theory be a tocolytic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    },
+    "guideline": {
+      "text": "A Cochrane review on magnesium sulfate for neuroprotection is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250087/"
+    }
+  },
+  {
+    "id": "s2med-2143",
+    "category": "IM Repro/Obgyn",
+    "q": "Methotrexate for ectopic pregnancy per p211?",
+    "a": "Small, stable ectopic: hemodynamically stable, no evidence of tubal rupture or peritoneal fluid, ectopic under 3.5 cm, b-hCG under 5000 mIU/mL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    },
+    "guideline": {
+      "text": "A review of expectant versus medical management of tubal ectopic pregnancy is linked; I did not verify the criteria.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK576538/"
+    }
+  },
+  {
+    "id": "s2med-2144",
+    "category": "IM Repro/Obgyn",
+    "q": "Minoxidil per p211?",
+    "a": "Arteriolar dilator that promotes hair growth in androgenetic alopecia, which is polygenic with risk raised by anabolic steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2med-2145",
+    "category": "IM Repro/Obgyn",
+    "q": "SERMs per p211?",
+    "a": "Different effects by tissue. Tamoxifen and raloxifene for ER(+) breast cancer: antagonistic at breast, agonistic at bone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    }
+  },
+  {
+    "id": "s2med-2146",
+    "category": "IM Repro/Obgyn",
+    "q": "Tamoxifen and endometrial cancer per p211?",
+    "a": "Raises endometrial cancer risk through agonistic effects at the endometrium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    },
+    "guideline": {
+      "text": "A meta-analysis of tamoxifen and endometrial cancer risk is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10075294/"
+    }
+  },
+  {
+    "id": "s2med-2147",
+    "category": "IM Repro/Obgyn",
+    "q": "Tocolytics per p211?",
+    "a": "Suppress labor by reducing uterine contractions; delay premature labor so fetal lungs mature while two boluses of corticosteroids are given. HY: terbutaline (mixed b1/2 agonist), ritodrine (b2 agonist), nifedipine; indomethacin and magnesium can technically be used.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 211,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=211"
+    },
+    "guideline": {
+      "text": "StatPearls on tocolysis is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK562212/"
+    }
   }
 ];

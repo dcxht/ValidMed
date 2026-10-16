@@ -765,3 +765,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p208 (carpal tunnel, IC, teratogens, substance abuse start) - 17 cards, ids s2med-2097 to 2113
 - Conflicts: endometriosis diagnostic laparoscopy first vs ESHRE guideline (imaging/empirical). Unverified: lithium Ebstein, teratogen table details, OHSS clomiphene, progesterone withdrawal details.
 - Mobile QA (320x740, local vite preview build, not live): all 43 cards ox=false off=false bad=0.
+
+## p209 (smoking, contraception) - 12 cards, ids s2med-2114 to 2125
+## p210 (contraception end, abortion, HRT, drugs start) - 12 cards, ids s2med-2126 to 2137
+## p211 (repro/obgyn drugs end; IM Repro/Obgyn done) - 10 cards, ids s2med-2138 to 2147
+- Conflicts: IUD contraindicated with STI in past 3 months (CDC IUD table); mifepristone "up to 10 weeks post-intercourse" vs gestational 70 days; HRT indications. Unverified: ectopic MTX thresholds, D&E cutoffs, OCP smoker age wording.
+- Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.
