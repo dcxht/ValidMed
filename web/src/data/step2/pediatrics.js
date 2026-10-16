@@ -39314,5 +39314,140 @@ export default [
       "text": "PMC review: the classic triad of hydrocephalus, intracranial calcifications and chorioretinitis is observed very rarely nowadays. Source answer kept.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9301253/"
     }
+  },
+  {
+    "id": "s2peds-2746",
+    "category": "Peds vignettes",
+    "q": "Neonate with patent ductus arteriosus, with or without deafness and cataracts. Diagnosis per p197?",
+    "a": "Congenital rubella syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "StatPearls: rubella virus has been recovered from lens aspirates in children with congenital cataracts. I did not verify the PDA or deafness features in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK507879/"
+    }
+  },
+  {
+    "id": "s2peds-2747",
+    "category": "Peds vignettes",
+    "q": "Neonate with saddle nose, saber shins and Hutchinson teeth, with or without deafness and cataracts. Diagnosis per p197?",
+    "a": "Congenital syphilis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "StatPearls: facial changes include frontal bossing, saddle nose and short maxilla. I did not verify the saber shins or Hutchinson teeth wording in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK537087/"
+    }
+  },
+  {
+    "id": "s2peds-2748",
+    "category": "Peds vignettes",
+    "q": "Neonate with intracranial calcifications, deafness, with or without hepatosplenomegaly and blueberry muffin rash. Diagnosis and reasoning per p197?",
+    "a": "Congenital CMV. Calcifications are non-specific but the triad is not for toxoplasmosis; deafness is very high yield for CMV although not specific; diagnose CMV by eliminating toxo, syphilis, rubella and varicella descriptions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "StatPearls: CMV is the most common congenital infection worldwide and the leading nonhereditary cause of sensorineural hearing loss in children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541003/"
+    }
+  },
+  {
+    "id": "s2peds-2749",
+    "category": "Peds vignettes",
+    "q": "16F sexually active. Pap smears and/or STI checks per p197?",
+    "a": "Do not do Pap smears; start at age 21 regardless of age of onset of sexual activity. Do check for chlamydia and gonorrhea starting from the age of sexual onset, and make sure she has had the HPV vaccine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "Current guideline: USPSTF recommends cervical cancer screening starting at age 21, every 3 years with cytology alone for ages 21-29. I did not verify the chlamydia and gonorrhea screening age from a source I read.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening"
+    }
+  },
+  {
+    "id": "s2peds-2750",
+    "category": "Peds vignettes",
+    "q": "16F with mucopurulent discharge and adnexal pain. Treatment and diagnosis per p197?",
+    "a": "Pelvic inflammatory disease; IM ceftriaxone PLUS either oral azithromycin (one stat dose) or oral doxycycline (BID for a week); always cotreat for chlamydia and gonorrhea; if the patient is septic give IV antibiotics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "Current caution: CDC 2021 PID regimens add metronidazole (ceftriaxone 1 g IV every 24 hours, doxycycline 100 mg every 12 hours, metronidazole 500 mg every 12 hours for the inpatient regimen), and doxycycline, not azithromycin, is used for chlamydia. Source answer kept.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm/"
+    }
+  },
+  {
+    "id": "s2peds-2751",
+    "category": "Peds vignettes",
+    "q": "17F asymptomatic, male partner recently tested positive for gonorrhea; tests ordered. Treat or not per p197?",
+    "a": "Treat: IM ceftriaxone and oral doxycycline. The wrong answer is no treatment because she is asymptomatic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "CDC: ceftriaxone 500 mg IM single dose for uncomplicated gonorrhea (under 150 kg); if chlamydia has not been excluded, add doxycycline 100 mg orally twice daily for 7 days. This matches the source answer.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+    }
+  },
+  {
+    "id": "s2peds-2752",
+    "category": "Peds vignettes",
+    "q": "16M with redness of both eyes, rash over extremities and mucopurulent urethral discharge. Diagnosis and cause per p197?",
+    "a": "Reactive arthritis due to chlamydia; gonococcus does not cause reactive arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "StatPearls: Chlamydia trachomatis is the most frequent genitourinary cause of reactive arthritis; Reiter syndrome historically described arthritis, urethritis and conjunctivitis. I did not verify the gonococcus exclusion in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499831/"
+    }
+  },
+  {
+    "id": "s2peds-2753",
+    "category": "Peds vignettes",
+    "q": "16M sexually active with left knee pain and fever, S. aureus not listed as an answer. Diagnosis per p197?",
+    "a": "Gonococcal arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "StatPearls: gonococcal arthritis is a presentation of disseminated gonococcal infection. Source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470439/"
+    }
+  },
+  {
+    "id": "s2peds-2754",
+    "category": "Peds vignettes",
+    "q": "16M with polyarthritis, positive Finkelstein test and cutaneous papules over the wrist. Diagnosis and presentations per p197?",
+    "a": "Gonococcal arthritis; it presents either as a monoarthritis of a large joint such as the knee, or as a triad of polyarthritis, tenosynovitis and cutaneous papules.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 197,
+      "url": "/mehlman/hy-pediatrics.pdf#page=197"
+    },
+    "guideline": {
+      "text": "StatPearls: arthritis-dermatitis syndrome is a form of DGI that usually comprises tenosynovitis, dermatitis and polyarthralgia.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470439/"
+    }
   }
 ];

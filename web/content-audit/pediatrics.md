@@ -1074,3 +1074,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: PCV13 high-risk sequence; GBS CSF 'normal' claim; classic toxoplasmosis triad is rare.
 - Left unverified: SSSS 5% figure, tetanus antitoxin wording, vitamin K lab pattern, deli food sources, GBS regimen, zoster in leukemia.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p197 (Bullet points: congenital infections, adolescent STIs) - 9 cards, ids s2peds-2746 to 2754
+- Inspected page text; no figures.
+- Notes verified against StatPearls (Congenital Rubella, Congenital and Maternal Syphilis, Congenital CMV, Reactive Arthritis, Gonococcal Arthritis), CDC gonorrhea and PID guidelines, USPSTF cervical screening.
+- Source answers kept with caution notes: PID regimen omits metronidazole and uses azithromycin for chlamydia; Pap start age 21 matches USPSTF.
+- Left unverified: rubella PDA/deafness, syphilis saber shins/Hutchinson teeth, chlamydia/gonorrhea screening start age, gonococcus not causing reactive arthritis.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
