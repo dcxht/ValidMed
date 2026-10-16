@@ -670,3 +670,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p164 (CML, hairy cell, Sezary, lymphoma intro, Hodgkin) - 11 cards, ids s2med-1526 to 1536
 - Conflict: Sezary syndrome attributed to HTLV in source (not verified; Sezary/MF cell lines differ from HTLV-1 leukemias per linked paper title). Unverified: 9/10 myelo-cell and hairy cell WBC claims.
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p165 (Hodgkin, Burkitt) - 11 cards, ids s2med-1537 to 1547
+## p166 (Burkitt, follicular, DLBCL, mantle, mycosis fungoides) - 9 cards, ids s2med-1548 to 1556
+- Unverified: subtype-prognosis and nodular-sclerosis sex claims, NBME-specific claims.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

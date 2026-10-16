@@ -20356,5 +20356,265 @@ export default [
       "text": "A review of Hodgkin lymphoma pathology is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9179292/"
     }
+  },
+  {
+    "id": "s2med-1537",
+    "category": "IM Heme/Onc",
+    "q": "Hodgkin lymphoma presentation per p165?",
+    "a": "100% of questions give a painless lateral neck mass or facial swelling (lymphadenopathy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2med-1538",
+    "category": "IM Heme/Onc",
+    "q": "Additional Hodgkin findings per p165?",
+    "a": "At least one of: hepatomegaly; mediastinal mass (not thymoma; mediastinal lymphadenopathy); Virchow node (Troisier sign: palpable left supraclavicular node), which isn't limited to gastric cancer (one NBME gives it for Hodgkin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    },
+    "guideline": {
+      "text": "StatPearls on Virchow node is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556100/"
+    }
+  },
+  {
+    "id": "s2med-1539",
+    "category": "IM Heme/Onc",
+    "q": "B symptoms in lymphoma per p165?",
+    "a": "Fever, night sweats, weight loss: common but not mandatory in vignettes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2med-1540",
+    "category": "IM Heme/Onc",
+    "q": "Leukocyte count in lymphoma per p165?",
+    "a": "Can be normal. One NBME gives WBCs of 10,000/uL (NR 4-11,000) and lymphocytes 33% (NR 25-33). Lymphomas are cancers of lymphatic tissue, not leukemias.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2med-1541",
+    "category": "IM Heme/Onc",
+    "q": "Nodular-sclerosing Hodgkin per p165?",
+    "a": "Tends to favor women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    },
+    "guideline": {
+      "text": "A review of Hodgkin lymphoma pathology is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9179292/"
+    }
+  },
+  {
+    "id": "s2med-1542",
+    "category": "IM Heme/Onc",
+    "q": "Hodgkin prognosis by subtype per p165?",
+    "a": "More normal B cells relative to RS cells is a better prognosis: leukocyte-rich Hodgkin is better; leukocyte-depleted (relatively more RS cells) is worse.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2med-1543",
+    "category": "IM Heme/Onc",
+    "q": "Reed-Sternberg cell image per p165?",
+    "a": "Owl-eye cell: binucleate with prominent nucleoli.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    },
+    "img": "/mehlman/figures/med-p165-01.jpg",
+    "imgAlt": "Histology of a binucleate Reed-Sternberg cell with prominent nucleoli"
+  },
+  {
+    "id": "s2med-1544",
+    "category": "IM Heme/Onc",
+    "q": "Burkitt lymphoma translocation per p165?",
+    "a": "t(8;14) of the c-myc gene; rarely t(2;8) or t(8;22).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    },
+    "guideline": {
+      "text": "A paper on C-MYC rearrangements in aggressive B-cell lymphomas is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2480535/"
+    }
+  },
+  {
+    "id": "s2med-1545",
+    "category": "IM Heme/Onc",
+    "q": "c-myc function per p165?",
+    "a": "A transcription factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2med-1546",
+    "category": "IM Heme/Onc",
+    "q": "Burkitt classic presentation per p165?",
+    "a": "Jaw lesion in an African boy, or an abdominal lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    },
+    "img": "/mehlman/figures/med-p165-02.jpg",
+    "imgAlt": "Child with a jaw mass from Burkitt lymphoma",
+    "guideline": {
+      "text": "StatPearls on Burkitt lymphoma is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538148/"
+    }
+  },
+  {
+    "id": "s2med-1547",
+    "category": "IM Heme/Onc",
+    "q": "Burkitt histology per p165?",
+    "a": "'Starry sky': background of basophilic (purple) B cells with translucent macrophages.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 165,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=165"
+    }
+  },
+  {
+    "id": "s2med-1548",
+    "category": "IM Heme/Onc",
+    "q": "Tingible body macrophages per p166?",
+    "a": "The translucent macrophages of Burkitt 'starry sky' phagocytose lymphomatous B cells undergoing apoptosis. An NBME points to one and the answer is 'apoptosis' (the macrophage itself isn't apoptotic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    },
+    "img": "/mehlman/figures/med-p166-01.jpg",
+    "imgAlt": "Burkitt lymphoma histology with starry-sky pattern",
+    "guideline": {
+      "text": "StatPearls on Burkitt lymphoma is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538148/"
+    }
+  },
+  {
+    "id": "s2med-1549",
+    "category": "IM Heme/Onc",
+    "q": "How can Burkitt grow if B cells undergo apoptosis per p166?",
+    "a": "Rate of proliferation far exceeds that of apoptosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2med-1550",
+    "category": "IM Heme/Onc",
+    "q": "Follicular lymphoma translocation per p166?",
+    "a": "t(14;18) of the Bcl-2 gene, which codes for an anti-apoptotic molecule.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "A 2023 update on follicular lymphoma is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36255040/"
+    }
+  },
+  {
+    "id": "s2med-1551",
+    "category": "IM Heme/Onc",
+    "q": "Follicular lymphoma behavior and presentation per p166?",
+    "a": "Most common indolent (less aggressive) NHL. Waxing/waning painless neck mass over 1-2 years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2med-1552",
+    "category": "IM Heme/Onc",
+    "q": "Diffuse large B cell lymphoma (DLBCL) per p166?",
+    "a": "Most common aggressive NHL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2med-1553",
+    "category": "IM Heme/Onc",
+    "q": "Mantle cell lymphoma translocation per p166?",
+    "a": "t(11;14) involving over-expression of cyclin D (can't halt the cell cycle).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "A review of mantle cell lymphoma genetics is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8649949/"
+    }
+  },
+  {
+    "id": "s2med-1554",
+    "category": "IM Heme/Onc",
+    "q": "Mycosis fungoides per p166?",
+    "a": "Cutaneous T-cell lymphoma characterized by cerebriform-shaped cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    },
+    "guideline": {
+      "text": "StatPearls on mycosis fungoides is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519572/"
+    }
+  },
+  {
+    "id": "s2med-1555",
+    "category": "IM Heme/Onc",
+    "q": "Mycosis fungoides vs Sezary per p166?",
+    "a": "Less aggressive than the T-cell lymphoma of Sezary syndrome; does not extend to the blood as a T-cell leukemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2med-1556",
+    "category": "IM Heme/Onc",
+    "q": "Mycosis fungoides on the skin per p166?",
+    "a": "An important differential for 'skin rash'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 166,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=166"
+    },
+    "img": "/mehlman/figures/med-p166-02.jpg",
+    "imgAlt": "Skin with scattered red papules and plaques of mycosis fungoides"
   }
 ];
