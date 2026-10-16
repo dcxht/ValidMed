@@ -33153,7 +33153,7 @@ export default [
   {
     "id": "s2peds-2331",
     "category": "Peds vignettes",
-    "q": "Male, 2 (as printed: "2M"), fever 101F, diffuse crackles, CXR with diffuse interstitial infiltrates, thrush, failure to thrive, diarrhea, mother used drugs in pregnancy. What is the next best step in diagnosis per p155?",
+    "q": "Child printed as 2M, fever 101F, diffuse crackles, CXR with diffuse interstitial infiltrates, thrush, failure to thrive, diarrhea, mother used drugs in pregnancy. What is the next best step in diagnosis per p155?",
     "a": "Silver stain of bronchoalveolar fluid. This is Pneumocystis jirovecii pneumonia (PJP) in a child with AIDS secondary to maternal drug use (presumably IV).",
     "source": {
       "title": "Mehlman HY Pediatrics",
