@@ -43914,5 +43914,593 @@ export default [
       "text": "A GeneReviews page on CD40 ligand deficiency is linked (title only).",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK1402/"
     }
+  },
+  {
+    "id": "s2med-3281",
+    "category": "IM Immuno",
+    "q": "Hyper-IgM mechanism per p334 (continued from p333)?",
+    "a": "Decreased activation of CD40 on B cells leads to decreased B cell activation and decreased ability to differentiate into plasma cells and class-switch; the antibody isotype is 'stuck' at IgM.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on CD40 ligand deficiency is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1402/"
+    }
+  },
+  {
+    "id": "s2med-3282",
+    "category": "IM Immuno",
+    "q": "Hyper-IgE (Job) syndrome per p334?",
+    "a": "FATED: abnormal Facies, staphylococcal cold Abscesses, retained primary Teeth, hyper IgE, Dermatologic findings (e.g., eczematoid lesions).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on STAT3 hyper IgE syndrome is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25507/"
+    }
+  },
+  {
+    "id": "s2med-3283",
+    "category": "IM Immuno",
+    "q": "IL-12 receptor deficiency per p334?",
+    "a": "Recurrent TB (mycobacterial) infections. Th1 CD4+ T cells and macrophages activate each other in a loop via IL-12 and IFN-gamma. A Th1 cell lacking the IL-12 receptor cannot be activated and does not secrete IFN-gamma, so macrophages are not activated and granuloma formation is decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A paper on IL-12 receptor deficiency and mycobacterial infection is linked (title only). The source's layout put 'recurrent TB' next to the Hyper-IgE row; I placed it here by mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9603733/"
+    }
+  },
+  {
+    "id": "s2med-3284",
+    "category": "IM Immuno",
+    "q": "Common variable immunodeficiency per p334?",
+    "a": "Normal B cell number but defective maturation into plasma cells, so decreased immunoglobulin production. The answer for an adult with recurrent sinopulmonary infections (similar to IgA deficiency) but with decreased Ig not limited to IgA. If the vignette gives atopy or Giardia, the answer is IgA deficiency, not CVID.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A consensus document on CVID is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4869529/"
+    }
+  },
+  {
+    "id": "s2med-3285",
+    "category": "IM Immuno",
+    "q": "Terminal complement deficiency per p334?",
+    "a": "Deficiency of C5-C9, so no membrane attack complex (MAC) forms. Recurrent Neisseria infections (gonococcal and meningococcal). The answer is often a deficiency of 'C7' or 'C8', 'terminal complement deficiency', or 'complement-mediated immunodeficiency'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A review of complement and Neisseriae is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32058583/"
+    }
+  },
+  {
+    "id": "s2med-3286",
+    "category": "IM Immuno",
+    "q": "Antiphospholipid syndrome antibodies per p334?",
+    "a": "Source lists: anti-b2-microglobulin, anti-cardiolipin, lupus anticoagulant (the name for either of the first two if the patient has SLE). Associated with recurrent miscarriage; can cause a false-positive syphilis screen (e.g., VDRL in an SLE patient).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A StatPearls page on antiphospholipid syndrome is linked (title only). Caution: the usual antibody is anti-beta2 glycoprotein I, not beta2-microglobulin; I did not verify the source's wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430980/"
+    }
+  },
+  {
+    "id": "s2med-3287",
+    "category": "IM Immuno",
+    "q": "Bullous pemphigoid antibodies per p334?",
+    "a": "Anti-hemidesmosome (bullous pemphigoid antigen). Hemidesmosomes connect the dermis to the epidermis; linear immunofluorescence on skin biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A review of bullous pemphigoid is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6486083/"
+    }
+  },
+  {
+    "id": "s2med-3288",
+    "category": "IM Immuno",
+    "q": "Pemphigus vulgaris antibodies per p334?",
+    "a": "Anti-desmosome (anti-desmoglein 1 and 3). Desmosomes connect adjacent cells in the epidermis; net-like immunofluorescence on skin biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A StatPearls page on pemphigus vulgaris is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560860/"
+    }
+  },
+  {
+    "id": "s2med-3289",
+    "category": "IM Immuno",
+    "q": "Goodpasture antibodies per p334?",
+    "a": "Anti-collagen IV (anti-GBM; glomerular basement membrane); linear immunofluorescence on renal biopsy. Don't confuse with Alport syndrome, which is a mutation in type IV collagen, not an antibody.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A review of anti-GBM disease is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30371823/"
+    }
+  },
+  {
+    "id": "s2med-3290",
+    "category": "IM Immuno",
+    "q": "Granulomatosis with polyangiitis antibodies per p334?",
+    "a": "c-ANCA; anti-proteinase 3 (PR3). Source mnemonic: 'Water Closet' (Wegener C-ANCA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A consensus paper on ANCA testing in GPA and MPA is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28905856/"
+    }
+  },
+  {
+    "id": "s2med-3291",
+    "category": "IM Immuno",
+    "q": "Eosinophilic granulomatosis with polyangiitis antibodies per p334?",
+    "a": "p-ANCA (anti-myeloperoxidase), per the source (Churg-Strauss).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A consensus paper on ANCA testing in EGPA is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32584187/"
+    }
+  },
+  {
+    "id": "s2med-3292",
+    "category": "IM Immuno",
+    "q": "Microscopic polyangiitis antibodies per p334?",
+    "a": "p-ANCA (anti-myeloperoxidase).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    }
+  },
+  {
+    "id": "s2med-3293",
+    "category": "IM Immuno",
+    "q": "SLE antibodies per p334?",
+    "a": "Anti-dsDNA; anti-Smith (ribonucleoprotein); anti-hematologic cell line antibodies. dsDNA goes up in acute flares and best reflects renal prognosis; anti-Smith is more specific than anti-dsDNA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    },
+    "guideline": {
+      "text": "A review of anti-Smith antibodies and lupus nephritis is linked (title only). I did not verify the source's renal prognosis claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11376143/"
+    }
+  },
+  {
+    "id": "s2med-3294",
+    "category": "IM Immuno",
+    "q": "SLE blood findings per p334?",
+    "a": "Thrombocytopenia is an exceedingly high-yield finding in SLE due to antibodies. If all cell lines are down in SLE, aplastic anemia (decreased bone marrow production) is the wrong answer; choose 'increased peripheral destruction' (continues on p335).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 334,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=334"
+    }
+  },
+  {
+    "id": "s2med-3295",
+    "category": "IM Immuno",
+    "q": "SLE cytopenia answer per p335 (continued from p334)?",
+    "a": "If all cell lines are down in SLE, aplastic anemia is the wrong answer; choose 'increased peripheral destruction'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    }
+  },
+  {
+    "id": "s2med-3296",
+    "category": "IM Immuno",
+    "q": "Drug-induced lupus antibody per p335?",
+    "a": "Anti-histone. Caused by various drugs; mnemonic 'Mom is HIPP': Minocycline, Hydralazine, INH, Procainamide, Penicillamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on autoantibody specificity in drug-induced lupus is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1633638/"
+    }
+  },
+  {
+    "id": "s2med-3297",
+    "category": "IM Immuno",
+    "q": "Myasthenia gravis antibody per p335?",
+    "a": "Anti-post-synaptic acetylcholine receptor; sometimes paraneoplastic from thymoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of myasthenia gravis immunopathology is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7755715/"
+    }
+  },
+  {
+    "id": "s2med-3298",
+    "category": "IM Immuno",
+    "q": "Lambert-Eaton antibody per p335?",
+    "a": "Anti-presynaptic voltage-gated calcium channel; sometimes paraneoplastic from small cell lung cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on Lambert-Eaton and small cell lung carcinoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4928366/"
+    }
+  },
+  {
+    "id": "s2med-3299",
+    "category": "IM Immuno",
+    "q": "Small cell cerebellar dysfunction per p335?",
+    "a": "Anti-Hu/-Yo: ataxia in someone with small cell lung cancer and negative CNS imaging.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on paraneoplastic cerebellar degeneration is linked (title only). I did not verify that anti-Hu and anti-Yo are both tied to small cell lung cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12764061/"
+    }
+  },
+  {
+    "id": "s2med-3300",
+    "category": "IM Immuno",
+    "q": "Polymyositis / dermatomyositis antibody per p335?",
+    "a": "Anti-Jo1; can be paraneoplastic from ovarian cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of antisynthetase syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8922626/"
+    }
+  },
+  {
+    "id": "s2med-3301",
+    "category": "IM Immuno",
+    "q": "Limited systemic sclerosis antibody per p335?",
+    "a": "Anti-centromere.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of autoantibody testing in systemic sclerosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10001109/"
+    }
+  },
+  {
+    "id": "s2med-3302",
+    "category": "IM Immuno",
+    "q": "Diffuse systemic sclerosis antibody per p335?",
+    "a": "Anti-topoisomerase I (Scl-70).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10001109/"
+    }
+  },
+  {
+    "id": "s2med-3303",
+    "category": "IM Immuno",
+    "q": "Primary biliary cirrhosis antibody per p335?",
+    "a": "Anti-mitochondrial.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A meta-analysis of AMA in primary biliary cholangitis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10637435/"
+    }
+  },
+  {
+    "id": "s2med-3304",
+    "category": "IM Immuno",
+    "q": "Autoimmune hepatitis antibody per p335?",
+    "a": "Anti-smooth muscle.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A guideline on autoimmune hepatitis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11574148/"
+    }
+  },
+  {
+    "id": "s2med-3305",
+    "category": "IM Immuno",
+    "q": "Rheumatoid arthritis antibodies per p335?",
+    "a": "Rheumatoid factor (an IgM against the Fc region of IgG) and anti-cyclic citrullinated peptide (CCP). Anti-CCP is more specific than rheumatoid factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A meta-analysis of anti-CCP and RF accuracy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17548411/"
+    }
+  },
+  {
+    "id": "s2med-3306",
+    "category": "IM Immuno",
+    "q": "Sjogren antibodies per p335?",
+    "a": "Anti-SS-A (anti-Ro); anti-SS-B (anti-La).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on autoantibodies in Sjogren syndrome is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35024595/"
+    }
+  },
+  {
+    "id": "s2med-3307",
+    "category": "IM Immuno",
+    "q": "Graves disease antibody per p335?",
+    "a": "Anti-TSH receptor, called thyroid-stimulating immunoglobulin (TSI), which activates the TSH receptor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on TRAbs in Graves' disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11662723/"
+    }
+  },
+  {
+    "id": "s2med-3308",
+    "category": "IM Immuno",
+    "q": "Hashimoto antibodies per p335?",
+    "a": "Anti-thyroperoxidase (anti-microsomal); anti-thyroglobulin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on thyroid antibodies is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10366745/"
+    }
+  },
+  {
+    "id": "s2med-3309",
+    "category": "IM Immuno",
+    "q": "Pernicious anemia antibodies per p335?",
+    "a": "Anti-parietal cell; anti-intrinsic factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of B12 deficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10859001/"
+    }
+  },
+  {
+    "id": "s2med-3310",
+    "category": "IM Immuno",
+    "q": "Celiac disease antibodies per p335?",
+    "a": "The source lists anti-endomysial (aka anti-gliadin) and anti-tissue transglutaminase IgA. Antibody screening gives false negatives if the patient also has IgA deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A clinical practice update on celiac serology is linked (title only). Caution: endomysial and gliadin antibodies are different tests; I did not verify the source's 'aka'. Source answer stays.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6409202/"
+    }
+  },
+  {
+    "id": "s2med-3311",
+    "category": "IM Immuno",
+    "q": "Type 1 diabetes antibodies per p335?",
+    "a": "Anti-glutamic acid decarboxylase (anti-GAD); anti-zinc transporter 8.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on anti-islet autoantibodies is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10298549/"
+    }
+  },
+  {
+    "id": "s2med-3312",
+    "category": "IM Immuno",
+    "q": "Primary membranous glomerulonephritis antibody per p335?",
+    "a": "Anti-phospholipase A2 receptor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on PLA2R autoantibodies is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12315804/"
+    }
+  },
+  {
+    "id": "s2med-3313",
+    "category": "IM Immuno",
+    "q": "TTP antibody per p335?",
+    "a": "Anti-ADAMTS13 (a matrix metalloproteinase that cleaves vWF multimers).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on anti-ADAMTS13 autoantibodies is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11939265/"
+    }
+  },
+  {
+    "id": "s2med-3314",
+    "category": "IM Immuno",
+    "q": "ITP antibody per p335?",
+    "a": "Anti-GpIIb/IIIa on platelets (platelet aggregation); aka idiopathic thrombocytopenic purpura.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on glycoprotein-specific platelet autoantibody testing is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6960466/"
+    }
+  },
+  {
+    "id": "s2med-3315",
+    "category": "IM Immuno",
+    "q": "HIT antibody per p335?",
+    "a": "Anti-platelet factor 4-heparin complex (anti-PF4-heparin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A practical guide on HIT is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11665626/"
+    }
+  },
+  {
+    "id": "s2med-3316",
+    "category": "IM Immuno",
+    "q": "Addison disease antibody per p335?",
+    "a": "Anti-21-hydroxylase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of autoimmune adrenal insufficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10667925/"
+    }
+  },
+  {
+    "id": "s2med-3317",
+    "category": "IM Immuno",
+    "q": "Rheumatic heart disease antibodies per p335?",
+    "a": "Anti-myosin; anti-valve-derived proteins. Formed against S. pyogenes M protein and almost always cross-react with the mitral valve (molecular mimicry).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A paper on molecular mimicry in rheumatic heart disease is linked (title only). I did not verify 'almost always'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16455580/"
+    }
+  },
+  {
+    "id": "s2med-3318",
+    "category": "IM Immuno",
+    "q": "Neuromyelitis optica antibody per p335?",
+    "a": "Anti-aquaporin 4 (asked on a 2CK form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of aquaporin-4 antibodies in NMO is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8028894/"
+    }
+  },
+  {
+    "id": "s2med-3319",
+    "category": "IM Immuno",
+    "q": "Cold autoimmune hemolytic anemia per p335?",
+    "a": "IgM against RBCs (CMV and Mycoplasma are high-yield infectious associations); positive Coombs test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of cold agglutinin-mediated AIHA is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7154122/"
+    }
+  },
+  {
+    "id": "s2med-3320",
+    "category": "IM Immuno",
+    "q": "Warm autoimmune hemolytic anemia per p335?",
+    "a": "IgG against RBCs (various drugs and infections); also associated with chronic lymphocytic leukemia; positive Coombs test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 335,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=335"
+    },
+    "guideline": {
+      "text": "A review of AIHA in CLL is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8616265/"
+    }
   }
 ];
