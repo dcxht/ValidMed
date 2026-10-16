@@ -1126,14 +1126,14 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Fibromyalgia called a psych condition; SSRIs as Tx; statin+fibrate "P450-mediated" claim: source claims, unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.
 
-## p329 (mitochondrial/IBM myopathy, connective tissue) - 12 cards, ids s2med-3221 to 3232
+## p329 (mitochondrial/IBM myopathy, connective tissue) - 11 cards, ids s2med-3221 to 3231
 - Mitochondrial "tetrad" lists three findings; noted in card.
 - Ehlers-Danlos collagen III generalization, Marfan/aneurysm claim: unverified.
 - Figure matched to Marfan by page order (wrist sign appearance).
 
-## p330 (neck masses, MSK pharm) - 16 cards, ids s2med-3233 to 3248
+## p330 (neck masses, MSK pharm) - 15 cards, ids s2med-3232 to 3246
 - ONJ and esophagitis yield claims unverified. Expletive none.
 
-## p331 (H1 blockers end, dantrolene) - 6 cards, ids s2med-3249 to 3254
+## p331 (H1 blockers end, dantrolene) - 6 cards, ids s2med-3247 to 3252
 - NMS ryanodine mechanism noted as in earlier audit.
 - Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
