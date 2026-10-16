@@ -183,3 +183,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (lung volume bars). Table converted to cards.
 - Source conflict: fixed 70% FEV1/FVC vs lower limit of normal in ERS/ATS interpretive strategies. Unverified: radial traction explanation.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p42 (IM Pulmonary: flow-volume loops) - 4 cards, ids s2med-0413 to 0416
+- Inspected page text and both figures (flow-volume loops; one carries the source site's watermark).
+
+## p43 (IM Pulmonary: shunt vs dead space) - 12 cards, ids s2med-0417 to 0428
+- Inspected page text; no figures.
+- Source conflicts: "shunt" used for low V/Q (standard physiology: true shunt is V/Q 0); oxygen response in shunt vs low V/Q. Unverified: USMLE usage of the terms.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.

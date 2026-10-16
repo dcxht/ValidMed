@@ -5372,5 +5372,201 @@ export default [
       "page": 41,
       "url": "/mehlman/hy-internal-medicine.pdf#page=41"
     }
+  },
+  {
+    "id": "s2med-0413",
+    "category": "IM Pulmonary",
+    "q": "Most important flow-volume loop point for USMLE per p42 (figure)?",
+    "a": "The expiratory component of the obstructive curve has a scooped-out/concave shape: obstruction reduces flow significantly throughout expiration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=42"
+    },
+    "img": "/mehlman/figures/med-p042-01.jpg",
+    "imgAlt": "Source figure p42: flow-volume loops for normal, obstructive (scooped expiratory limb, wider) and restrictive (smaller, narrower)",
+    "guideline": {
+      "text": "A review of interpretive strategies for routine lung function tests and an office spirometry review are references.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11625406/"
+    }
+  },
+  {
+    "id": "s2med-0414",
+    "category": "IM Pulmonary",
+    "q": "Spirometry curve in a 34-year-old with no family history and a 5-year smoking history per p42 (figure)?",
+    "a": "A scooped-out/concave curve means obstructive; when guessing between COPD and asthma in a young patient, choose asthma over COPD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=42"
+    },
+    "img": "/mehlman/figures/med-p042-02.jpg",
+    "imgAlt": "Source figure p42: flow-volume loop with concave scooped expiratory limb"
+  },
+  {
+    "id": "s2med-0415",
+    "category": "IM Pulmonary",
+    "q": "Obstructive flow-volume loop shape and flow per p42?",
+    "a": "Scooped-out/concave appearance; big reduction in expiratory flow rate that drops precipitously. Inspiratory flow is less affected (normal or reduced). Curve is wider due to increased TLC from air trapping.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2med-0416",
+    "category": "IM Pulmonary",
+    "q": "Restrictive flow-volume loop shape and flow per p42?",
+    "a": "Smaller and more symmetric. Peak expiratory flow rate relatively preserved, but loop size is reduced due to less volume on maximum inspiration. Inspiratory flow significantly reduced due to diminished compliance. Narrower curve, due to diminished TLC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 42,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2med-0417",
+    "category": "IM Pulmonary",
+    "q": "V/Q meaning per p43?",
+    "a": "V = ventilation; Q = perfusion. Decreased V/Q = reduced ventilation relative to perfusion. Increased V/Q = reduced perfusion relative to ventilation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0418",
+    "category": "IM Pulmonary",
+    "q": "Shunt versus dead space on USMLE per p43?",
+    "a": "Shunt = decreased V/Q and refers to almost all lung conditions. Dead space = increased V/Q and refers to just pulmonary emboli.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0419",
+    "category": "IM Pulmonary",
+    "q": "Shunt (pathologic) per p43?",
+    "a": "Decreased V/Q to the point that arterial oxygen is decompensated: lung problem where alveolar aeration is decreased, but perfusion is fine (blood flow not cut off).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0420",
+    "category": "IM Pulmonary",
+    "q": "Physiologic shunt at lung bases per p43?",
+    "a": "V/Q about 0.6: both ventilation and perfusion increase from apex to base, but gravity pulls blood down more, so perfusion rises much more than ventilation and V/Q is lower at the bases.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0421",
+    "category": "IM Pulmonary",
+    "q": "Hypoxic vasoconstriction per p43?",
+    "a": "Areas with decreased V/Q constrict their vessels, redirecting blood to better-ventilated areas: lowering Q increases V/Q and prevents wasting blood flow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "A review on hypoxic pulmonary vasoconstriction exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11627260/"
+    }
+  },
+  {
+    "id": "s2med-0422",
+    "category": "IM Pulmonary",
+    "q": "Pathologic dead space per p43?",
+    "a": "Increased V/Q to the point that arterial oxygen is decompensated because blood flow is cut off to the lungs: PE (and air, fat, amniotic fluid emboli) on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "A review on pathophysiology of pulmonary embolism and a paper on hypoxemia in acute PE exist.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9507564/"
+    }
+  },
+  {
+    "id": "s2med-0423",
+    "category": "IM Pulmonary",
+    "q": "Alveolar dead space per p43?",
+    "a": "Natural physiologic increased V/Q in the alveoli: apices (V/Q about 3.0) compared to bases (about 0.6), since gravity pulls blood down more than air, so the apices have relatively less blood flow for their ventilation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0424",
+    "category": "IM Pulmonary",
+    "q": "Anatomic and physiologic dead space per p43?",
+    "a": "Anatomic: parts of the respiratory tree ventilated but not exchanging gas (trachea, bronchi, terminal bronchioles). Physiologic dead space = anatomic + alveolar dead space.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0425",
+    "category": "IM Pulmonary",
+    "q": "Shunt versus dead space mixing per p43?",
+    "a": "Both involve right-to-left mixing of deoxygenated and oxygenated blood. In shunt the 'R' arises from alveoli not receiving enough oxygen; in dead space the 'R' is from decreased perfusion to areas of lung.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0426",
+    "category": "IM Pulmonary",
+    "q": "Why arterial O2 is low in pathologic shunt or dead space per p43?",
+    "a": "An under-ventilated or under-perfused area contributes a 'zero' to oxygenation, which mixes with normal areas, so the average cannot be normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2med-0427",
+    "category": "IM Pulmonary",
+    "q": "Oxygen administration in shunt versus dead space per p43?",
+    "a": "Shunt (COPD, pneumonia, asthma in the source): oxygen is less effective, because hypoxic vasoconstriction diverts much blood away from normal V/Q areas; PaO2 still fails to rise. Dead space (PE): hypoxic vasoconstriction does not occur as ventilation is normal, so oxygen reaching normal V/Q areas helps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    },
+    "guideline": {
+      "text": "Current caution: oxygen failing to correct hypoxemia is a feature of a true shunt (V/Q 0); low V/Q areas usually do respond to oxygen. The source's explanation was not verified.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4064770/"
+    }
+  },
+  {
+    "id": "s2med-0428",
+    "category": "IM Pulmonary",
+    "q": "Primary versus secondary decrease in perfusion per p43?",
+    "a": "Dead space is a primary decrease in perfusion; shunt causes a secondary decrease in perfusion (hypoxic vasoconstriction is compensatory to decreased ventilation), which we do not call dead space. The blood shunted away can exceed the primary decrease in perfusion seen in dead space.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 43,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=43"
+    }
   }
 ];
