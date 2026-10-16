@@ -29046,5 +29046,193 @@ export default [
       "text": "StatPearls: SCFE presents with atraumatic hip, thigh or knee pain, possibly with limp or inability to bear weight; obesity is the single most significant risk factor. I did not verify the 10-13 age range.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
     }
+  },
+  {
+    "id": "s2peds-2038",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "What mechanism will the NBME write for SCFE per p136?",
+    "a": "Displacement of the epiphysis of the femoral head.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "guideline": {
+      "text": "StatPearls: the femoral epiphysis is displaced posteriorly and inferiorly relative to the femoral neck.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
+    }
+  },
+  {
+    "id": "s2peds-2039",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "What does p136 say about obesity as a clue in NBME SCFE questions?",
+    "a": "Resources emphasize obesity as the main risk factor, but maybe only about half of NBME SCFE questions describe the child as overweight. Do not rely on seeing a high BMI.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "guideline": {
+      "text": "StatPearls: obesity is the single most significant risk factor for SCFE. The 'about half of NBME questions' claim is the author's and I did not verify it.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
+    }
+  },
+  {
+    "id": "s2peds-2040",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "Which clue matters most for SCFE on NBME questions per p136, and what do you think of if the child is younger?",
+    "a": "Age: a kid about 10-13. If the kid is younger, think Legg-Calve-Perthes instead.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2peds-2041",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "A 13-year-old boy has a painful gait and no mention of weight. What is the answer per p136?",
+    "a": "SCFE (a 2CK NBME question per p136).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2peds-2042",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "A 13-year-old, 6 feet tall, has BMI 20 and hip pain. What is the answer per p136?",
+    "a": "SCFE. Normal BMI does not rule it out (a 2CK question per p136).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2peds-2043",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "What is the classic x-ray description of SCFE per p136?",
+    "a": "Ice cream falling (slipping) off the cone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2peds-2044",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "What does the pelvic x-ray on p136 show?",
+    "a": "SCFE: the ice cream slipping off its cone. The femoral head epiphysis (asterisk) is displaced off the femoral neck, with arrows marking the slip.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "img": "/mehlman/figures/peds-p136-scfe-xray.png",
+    "imgAlt": "AP pelvis radiograph with right femoral epiphysis slipped off the neck, from p136",
+    "guideline": {
+      "text": "StatPearls: SCFE is displacement of the epiphysis relative to the femoral neck; the Southwick slip angle and 'S' sign are other radiographic signs.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
+    }
+  },
+  {
+    "id": "s2peds-2045",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "A 5-year-old has an x-ray showing a contracted capital femoral epiphysis. What is the answer per p136?",
+    "a": "Legg-Calve-Perthes, not SCFE. The younger age and the word contracted win over the words femoral capital epiphysis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    }
+  },
+  {
+    "id": "s2peds-2046",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "What is the treatment of SCFE per p136?",
+    "a": "Surgical pinning.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "guideline": {
+      "text": "StatPearls: the epiphysis is fixed in situ.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
+    }
+  },
+  {
+    "id": "s2peds-2047",
+    "category": "Osteosarcoma",
+    "q": "How common is osteosarcoma and in whom does it occur per p136?",
+    "a": "Most common primary bone cancer, usually in patients aged 10-30.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "guideline": {
+      "text": "StatPearls: the most common primary malignant bone tumor, about 20% of cases. I did not verify the 10-30 age range.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563177/"
+    }
+  },
+  {
+    "id": "s2peds-2048",
+    "category": "Osteosarcoma",
+    "q": "A 1-year-old boy had enucleation of an eye for retinoblastoma. What is he at risk of developing later per p136?",
+    "a": "Osteosarcoma (RB mutations are associated).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "guideline": {
+      "text": "StatPearls: germline RB1 mutations cause bilateral retinoblastoma by about 1 year and predispose to osteosarcoma.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563177/"
+    }
+  },
+  {
+    "id": "s2peds-2049",
+    "category": "Osteosarcoma",
+    "q": "What are the buzzy imaging findings of osteosarcoma per p136?",
+    "a": "Codman triangle and sunburst appearance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "guideline": {
+      "text": "StatPearls: sunburst configuration from aggressive periostitis, and Codman triangle from elevation of the periosteum off the bone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563177/"
+    }
+  },
+  {
+    "id": "s2peds-2050",
+    "category": "Osteosarcoma",
+    "q": "What is a Codman triangle per p136?",
+    "a": "Periosteal reaction with lifting of the periosteum off the bone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    },
+    "guideline": {
+      "text": "StatPearls: elevation of the periosteum away from the bone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563177/"
+    }
+  },
+  {
+    "id": "s2peds-2051",
+    "category": "Osteosarcoma",
+    "q": "How does the NBME describe the sunburst appearance per p136?",
+    "a": "A periosteal reaction described as spiculated new bone formation. (The page's typo reads 'spiculated new born formation'.)",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 136,
+      "url": "/mehlman/hy-pediatrics.pdf#page=136"
+    }
   }
 ];

@@ -650,3 +650,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls Legg-Calve-Perthes and SCFE. Source answer kept for "Tx = hip replacement"; caution note says current treatment is containment/nonoperative care or osteotomy, hip replacement a late adult outcome.
 - Left un-noted (not verified): Gaucher/sickle cell/corticosteroid examples, "contracted" as HY wording, SCFE age 10-13 (noted as unverified in the note).
 - Mobile QA (320x740, live, local headless Chrome): all 8 cards ox=false off=false bad=0.
+
+## p136 (SCFE continued, osteosarcoma) - 14 cards, ids s2peds-2038 to 2051
+- Inspected page pixels. One figure: AP pelvis x-ray of SCFE.
+- Notes verified against StatPearls SCFE and the current Osteosarcoma chapter (NBK563177; the older NBK549868 is archived and was not cited).
+- Left un-noted (not verified): NBME question-pattern claims (about half not overweight, age 10-13 emphasis, specific 2CK questions, 5-year-old contracted epiphysis), "ice cream off the cone" description, osteosarcoma age 10-30 (noted as unverified). The page's "spiculated new born formation" typo is flagged in the answer.
+- Mobile QA: PENDING
