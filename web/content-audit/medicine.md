@@ -209,3 +209,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (ferruginous bodies).
 - Source wording kept: "silicon" for silica and "egg-shelf"; unverified: upper-lobe eggshell detail, macrophage as initiating cell.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p48 (IM Pulmonary: IPF) - 5 cards, ids s2med-0467 to 0471
+- Inspected page text and two figures (CXR, CT).
+- Conflict: source says biopsy as next step; current ATS/ERS/JRS/ALAT guidance may allow HRCT-only diagnosis (not text-verified).
+
+## p49 (IM Pulmonary: IPF tx, COPD) - 7 cards, ids s2med-0472 to 0478
+- Inspected page text and figure (hyperinflated CXR). Page ends mid-sentence on COPD exacerbation; carried to p50.
+- Unverified: oxygen thresholds, GOLD details, PMI phrasing.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.

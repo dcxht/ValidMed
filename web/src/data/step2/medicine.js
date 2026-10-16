@@ -6072,5 +6072,163 @@ export default [
       "text": "StatPearls on Caplan syndrome is a reference.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK499886/"
     }
+  },
+  {
+    "id": "s2med-0467",
+    "category": "IM Pulmonary",
+    "q": "Idiopathic pulmonary fibrosis: the classic vignette per p48?",
+    "a": "Patient over 50 with 6-12+ months of unexplained dry cough (the source says this is how it shows up 4/5 times). Textbook restrictive lung disease with a normal or increased FEV1/FVC (higher than in obstructive disease because of radial traction).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=48"
+    },
+    "img": "/mehlman/figures/med-p048-01.jpg",
+    "imgAlt": "Source figure p48: chest X-ray with basal fibrosis and shaggy heart borders"
+  },
+  {
+    "id": "s2med-0468",
+    "category": "IM Pulmonary",
+    "q": "Imaging descriptors of IPF per p48?",
+    "a": "CXR and CT show a 'reticular' or 'reticulonodular' pattern, colloquially 'honeycombing'. The source says the exam often uses 'reticular' or 'reticulonodular' alone and these words signal restrictive lung disease (fibrosis). Do not confuse with 'reticulogranular', which the source says NBME uses for neonatal RDS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=48"
+    },
+    "img": "/mehlman/figures/med-p048-02.jpg",
+    "imgAlt": "Source figure p48: chest CT with honeycombing and subpleural reticulation"
+  },
+  {
+    "id": "s2med-0469",
+    "category": "IM Pulmonary",
+    "q": "Next best step after CXR and spirometry in suspected IPF per p48?",
+    "a": "High-resolution CT of the chest. The newer 2CK NBME wants 'lung biopsy' to confirm interstitial lung disease (IPF) after imaging.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=48"
+    },
+    "guideline": {
+      "text": "The 2022 ATS/ERS/JRS/ALAT guideline update is the current reference; I did not verify its text, but current practice generally allows diagnosis from a typical HRCT UIP pattern without biopsy.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9851481/"
+    }
+  },
+  {
+    "id": "s2med-0470",
+    "category": "IM Pulmonary",
+    "q": "Physical exam clues in IPF per p48?",
+    "a": "Loud P2 (pulmonary hypertension) with dry inspiratory crackles heard bilaterally.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2med-0471",
+    "category": "IM Pulmonary",
+    "q": "Atypical IPF vignette per p48?",
+    "a": "About 1/10 times: over 50 with increasing fatigue and shortness of breath over 6-12 months and only 1 month of cough, initially sounding like heart failure; CXR says 'interstitial markings' instead of reticular. The stem will still say 'decreased FEV1/FVC showing restrictive pattern' (source wording).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 48,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2med-0472",
+    "category": "IM Pulmonary",
+    "q": "Usual interstitial pneumonitis per p49?",
+    "a": "UIP is another name for idiopathic pulmonary fibrosis. NBME has twice written 'usual interstitial pneumonitis' as the answer instead of IPF. UIP is technically a broader term for many restrictive conditions, but on NBME it is synonymous with IPF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2med-0473",
+    "category": "IM Pulmonary",
+    "q": "Treatment of IPF on 2CK per p49?",
+    "a": "Pirfenidone, an anti-fibrotic agent that inhibits TGF-beta-mediated synthesis of collagen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=49"
+    },
+    "guideline": {
+      "text": "A review of current IPF treatment exists; nintedanib is the other approved antifibrotic. I did not verify the mechanism detail.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9060042/"
+    }
+  },
+  {
+    "id": "s2med-0474",
+    "category": "IM Pulmonary",
+    "q": "What is COPD per p49?",
+    "a": "Chronic bronchitis + emphysema. Smokers have a combination of the two. In theory COPD can cover any chronic obstructive disease (asthma, Kartagener), but without a specific condition attached it means the combo of chronic bronchitis and emphysema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2med-0475",
+    "category": "IM Pulmonary",
+    "q": "Chest findings of hyperinflation in COPD per p49?",
+    "a": "Air trapping pushes the heart to the midline: NBME says 'long, narrow cardiac silhouette' or 'point of maximal impulse in the sub-xiphoid space'. In LVH the apex beat is lateralized, in the anterior axillary line.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=49"
+    },
+    "img": "/mehlman/figures/med-p049-01.jpg",
+    "imgAlt": "Source figure p49: chest X-ray with hyperinflated lungs and narrow central heart",
+    "guideline": {
+      "text": "A review of lung imaging in COPD is available; I did not verify the PMI phrasing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10403625/"
+    }
+  },
+  {
+    "id": "s2med-0476",
+    "category": "IM Pulmonary",
+    "q": "Home oxygen indications on 2CK per p49?",
+    "a": "O2 saturation <88% (55 mm Hg), or <89% (60 mm Hg) if the patient has cor pulmonale.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=49"
+    },
+    "guideline": {
+      "text": "The 2020 ATS home oxygen guideline is a reference; I did not verify its thresholds. Many sources state PaO2 of 55 mm Hg or less, or 59 mm Hg or less with cor pulmonale.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7667898/"
+    }
+  },
+  {
+    "id": "s2med-0477",
+    "category": "IM Pulmonary",
+    "q": "First-line COPD drug therapy per p49?",
+    "a": "A long-acting muscarinic antagonist (LAMA, e.g., tiotropium) or a long-acting beta-2 agonist (LABA, e.g., olodaterol), alone or combined. If insufficient, add an inhaled corticosteroid (e.g., fluticasone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=49"
+    },
+    "guideline": {
+      "text": "GOLD 2024 pocket guide is the current reference; I did not verify details. GOLD generally favors LABA+LAMA for higher-risk patients and ICS by exacerbation history and eosinophils.",
+      "url": "https://goldcopd.org/wp-content/uploads/2024/02/POCKET-GUIDE-GOLD-2024-ver-1.2-11Jan2024_WMV.pdf"
+    }
+  },
+  {
+    "id": "s2med-0478",
+    "category": "IM Pulmonary",
+    "q": "SAMA or SABA as first-line COPD answer per p49?",
+    "a": "An earlier NBME had ipratropium (SAMA) as the answer when no other anti-muscarinic or beta-2 agonist was listed. If forced to choose a SAMA or SABA (albuterol) these are OK, but newer guidelines say start with a LAMA or LABA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 49,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=49"
+    }
   }
 ];
