@@ -8287,5 +8287,282 @@ export default [
       "text": "A paper on Bornholm disease and Coxsackie virus exists; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2038089/"
     }
+  },
+  {
+    "id": "s2med-0638",
+    "category": "IM Pulmonary",
+    "q": "Pleurodynia lab clue per p65-66?",
+    "a": "Creatine kinase can be elevated in the stem due to increased muscle tone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0639",
+    "category": "IM Pulmonary",
+    "q": "Mycobacterium tuberculosis microbiology per p66?",
+    "a": "Unique cell wall of mycolic acid, hard to Gram stain: requires acid-fast stain. Produces cord factor (asked on NBME) as a virulence factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0640",
+    "category": "IM Pulmonary",
+    "q": "TB clinical presentation per p66?",
+    "a": "Can mimic lung cancer: B symptoms (fever, night sweats, weight loss) and hemoptysis. Homeless shelter or immigrant from an endemic area is buzzy (rural India and Albania on NBME questions).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0641",
+    "category": "IM Pulmonary",
+    "q": "TB pathology per p66?",
+    "a": "Cavitations and calcification grossly; caseating granulomatous inflammation on histology. Ghon foci/complexes are textbook descriptors but not tested by name. Can cause constrictive pericarditis (can calcify).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0642",
+    "category": "IM Pulmonary",
+    "q": "Disseminated (miliary) TB per p66?",
+    "a": "Multiple organs: psoas abscess, Pott disease (vertebral TB), adrenal insufficiency, meningitis, osteomyelitis, arthritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0643",
+    "category": "IM Pulmonary",
+    "q": "TB diagnostic sequence per p66?",
+    "a": "First step: PPD (type IV hypersensitivity). If PPD positive: CXR. If PPD positive but CXR negative: treat latent TB (INH for 9 months + vitamin B6). Neuropathy in a TB patient on treatment = B6 deficiency. If both positive: treat for active TB.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    },
+    "guideline": {
+      "text": "CDC lists several latent TB regimens (including shorter rifamycin-based ones such as 3HP and 4R) beyond 9 months of INH, and a positive test plus abnormal CXR usually needs sputum testing before diagnosing active disease; I did not verify the text.",
+      "url": "https://www.cdc.gov/tb/hcp/treatment/latent-tuberculosis-infection.html"
+    }
+  },
+  {
+    "id": "s2med-0644",
+    "category": "IM Pulmonary",
+    "q": "Active TB regimen per p66?",
+    "a": "RIPE for 2 months + RI for 4 more months (6 months total). RIPE = rifampin, isoniazid, pyrazinamide, ethambutol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    },
+    "guideline": {
+      "text": "CDC treatment page and the ATS/CDC/ERS/IDSA guideline update are the references (they also describe a 4-month rifapentine regimen); I did not verify the text.",
+      "url": "https://cdc.gov/tb/hcp/treatment/tuberculosis-disease.html"
+    }
+  },
+  {
+    "id": "s2med-0645",
+    "category": "IM Pulmonary",
+    "q": "BCG history and TB tests per p66?",
+    "a": "BCG is live-attenuated; history of BCG does not change management based on PPD guidelines. IGRA (Quantiferon Gold) can reduce false positives after BCG, but USMLE does not assess it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    },
+    "guideline": {
+      "text": "CDC pages on TST and IGRA are references; I did not verify the text.",
+      "url": "https://cdc.gov/tb/hcp/testing-diagnosis/interferon-gamma-release-assay.html"
+    }
+  },
+  {
+    "id": "s2med-0646",
+    "category": "IM Pulmonary",
+    "q": "Sputum culture timing and TB immunology per p66?",
+    "a": "Sputum cultures become positive 2-5 weeks after exposure (source answer). Interferon-gamma is needed to stimulate alveolar macrophages; IFN-gamma deficiency or IL-12 receptor deficiency raises TB susceptibility.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0647",
+    "category": "IM Pulmonary",
+    "q": "TNF-alpha inhibitors and TB per p66?",
+    "a": "TNF-alpha is also needed to suppress TB, so infliximab, adalimumab and etanercept increase TB risk (avoid in silicosis, as mentioned earlier).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0648",
+    "category": "IM Pulmonary",
+    "q": "PPD positive cutoffs per p66?",
+    "a": ">5 mm: close contact with active TB; immunocompromised (AIDS, transplant on immunosuppressants, chronic corticosteroids); calcification on CXR. >10 mm: health care worker, prisoner/prison worker, immigrant from endemic area, TB lab personnel, children <4. >15 mm: everyone else.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    },
+    "guideline": {
+      "text": "CDC TST page is the reference; I did not verify the exact lists. CDC groups risk categories somewhat differently (e.g., fibrotic changes on CXR).",
+      "url": "https://cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html"
+    }
+  },
+  {
+    "id": "s2med-0649",
+    "category": "IM Pulmonary",
+    "q": "Repeating a PPD per p66?",
+    "a": "If positive, never repeat; if negative, repeat in 1-2 weeks (sometimes false negatives).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2med-0650",
+    "category": "IM Pulmonary",
+    "q": "Hot tub lung per p66?",
+    "a": "A man moves into a new apartment building with a hot tub and gets a bilateral chest infection: inhalation of fumes with Mycobacterium avium complex (MAC), in the source's wording.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 66,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=66"
+    },
+    "guideline": {
+      "text": "Studies describe hot tub lung as hypersensitivity pneumonitis vs infection from MAC in hot tub water (aerosol exposure, not fumes); I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9118726/"
+    }
+  },
+  {
+    "id": "s2med-0651",
+    "category": "IM Pulmonary",
+    "q": "Lung abscess cause per p67?",
+    "a": "Exceedingly HY: aspiration of oropharyngeal normal flora/anaerobes. Risk factors: alcoholism, dementia (loss of gag reflex), stroke (dysphagia), epilepsy, broken or missing teeth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "A paper on aspiration pneumonia and lung abscess anaerobes exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20477271/"
+    }
+  },
+  {
+    "id": "s2med-0652",
+    "category": "IM Pulmonary",
+    "q": "Lung abscess radiology and sputum per p67 (figure)?",
+    "a": "Pulmonary lesion with an air-fluid level (air on top, pus settling below; buzzy but not mandatory). 'Foul-smelling sputum' is exceedingly HY and synonymous with anaerobes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    },
+    "img": "/mehlman/figures/med-p067-01.jpg",
+    "imgAlt": "Source figure p67: chest X-ray with a cavity showing an air-fluid level"
+  },
+  {
+    "id": "s2med-0653",
+    "category": "IM Pulmonary",
+    "q": "Oropharyngeal flora in lung abscess per p67?",
+    "a": "Bacteroides (strictly anaerobic gram-negative rods; the HY one), Peptostreptococcus and Mobiluncus. Sputum with 'gram-negative rods, gram-positive cocci and gram-positive rods' means mixed normal flora.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2med-0654",
+    "category": "IM Pulmonary",
+    "q": "Lung abscess treatment and follow-up per p67?",
+    "a": "Clindamycin. If treated and a year later a lesion remains on CXR: 'failure of maintenance of basement membranes'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "A paper on how important anaerobes are in aspiration pneumonia exists; current practice may favor other regimens (e.g., beta-lactam/beta-lactamase inhibitor). I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20477271/"
+    }
+  },
+  {
+    "id": "s2med-0655",
+    "category": "IM Pulmonary",
+    "q": "ABPA per p67?",
+    "a": "Asthma-like presentation in a patient with increased sensitivity to Aspergillus skin antigen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "ISHAM-ABPA working group guidelines are a reference; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10991853/"
+    }
+  },
+  {
+    "id": "s2med-0656",
+    "category": "IM Pulmonary",
+    "q": "Hypersensitivity pneumonitis vignette per p67?",
+    "a": "Bilateral lung condition + fever in a farmer exposed to hay (new NBME); the fever self-resolves in 2 days. Byssinosis (hemp/cotton, textile workers) is wrong because it would not give fever.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "StatPearls on farmer's lung is a reference; I did not verify the details.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557580/"
+    }
+  },
+  {
+    "id": "s2med-0657",
+    "category": "IM Pulmonary",
+    "q": "Cryptogenic organizing pneumonia per p67?",
+    "a": "Idiopathic restrictive lung disease with a pneumonia-like presentation that fails to improve with antibiotics; not actual pneumonia. Formerly BOOP. The source says it has nonexistent yield but appears as a wrong answer on hard 2CK questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "A COP update review exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10157489/"
+    }
+  },
+  {
+    "id": "s2med-0658",
+    "category": "IM Pulmonary",
+    "q": "Otitis media per p67 (continues p68)?",
+    "a": "Infection of the portion of the ear just deep to the tympanic membrane; most commonly Strep pneumo (source spelling 'pnuemo').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 67,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=67"
+    },
+    "guideline": {
+      "text": "A review on acute otitis media in children is a reference; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9471510/"
+    }
   }
 ];

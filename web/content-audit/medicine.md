@@ -290,3 +290,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (epiglottitis lateral neck).
 - Conflicts: pertussis erythromycin vs azithromycin; hypoglycemia clue (infants). Unverified: tracheitis details.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p66 (IM Pulmonary: tuberculosis, hot tub lung) - 13 cards, ids s2med-0638 to 0650
+- Inspected page text (no figures). First bullet is a pleurodynia carry-over from p65.
+- Conflicts: INH 9 months vs shorter CDC LTBI regimens; PPD cutoff lists simplified; "treat active TB if PPD and CXR positive" (sputum testing normally needed); hot tub lung "fumes" vs aerosol hypersensitivity/infection. Unverified: text of CDC pages.
+
+## p67 (IM Pulmonary: lung abscess, ABPA, HP, COP, otitis media start) - 8 cards, ids s2med-0651 to 0658
+- Inspected page text and figure (air-fluid level CXR). Page ends with otitis media; continues p68.
+- Conflict: clindamycin for lung abscess (current regimens vary). Unverified: ABPA/HP details.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
