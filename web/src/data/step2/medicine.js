@@ -39220,5 +39220,284 @@ export default [
       "text": "The CRAO page is linked on the previous card; I did not verify ocular massage efficacy.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK470354/"
     }
+  },
+  {
+    "id": "s2med-2953",
+    "category": "IM Ophthal",
+    "q": "Refractile body per p297?",
+    "a": "USMLE can show an image like the figure; the weird crescent-shaped finding is called a 'refractile body' and refers to an embolus (continues the CRAO discussion on p296).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=297"
+    },
+    "img": "/mehlman/figures/med-p297-01.jpg",
+    "imgAlt": "Source figure: fundus with a crescent-shaped refractile body at the optic disc",
+    "guideline": {
+      "text": "A table of CRAO etiology is linked (title only); I did not verify the term.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470354/table/article-19136.table0/?report=objectonly"
+    }
+  },
+  {
+    "id": "s2med-2954",
+    "category": "IM Ophthal",
+    "q": "Diabetic retinopathy presentation per p297?",
+    "a": "Can present with blurred or fluctuating vision and difficulty recognizing colors. The vignette usually says cotton wool spots (soft exudates), hard exudates and retinal hemorrhages.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=297"
+    },
+    "img": "/mehlman/figures/med-p297-02.jpg",
+    "imgAlt": "Source figure: fundus of diabetic retinopathy with hemorrhages and exudates",
+    "guideline": {
+      "text": "A review on anti-VEGF agents for diabetic retinopathy is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10222751/"
+    }
+  },
+  {
+    "id": "s2med-2955",
+    "category": "IM Ophthal",
+    "q": "Soft vs hard exudates per p297?",
+    "a": "Soft exudates are small whitish lesions from microinfarctions (axoplasmic material). Hard exudates are lipoproteinaceous deposits due to leaky retinal vessels. Soft/hard exudates and retinal hemorrhages are classic in both diabetic and hypertensive retinopathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=297"
+    },
+    "img": "/mehlman/figures/med-p297-03.jpg",
+    "imgAlt": "Source figure: normal retina next to diabetic retinopathy with labeled hemorrhages, exudates, cotton wool spots, aneurysm and abnormal vessel growth"
+  },
+  {
+    "id": "s2med-2956",
+    "category": "IM Ophthal",
+    "q": "Diabetic retinopathy types and Tx per p297?",
+    "a": "Can be dry or wet (neovascular). The wet type can be treated with anti-VEGF agents.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 297,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=297"
+    },
+    "img": "/mehlman/figures/med-p297-03.jpg",
+    "imgAlt": "Source figure: normal retina next to diabetic retinopathy with labeled hemorrhages, exudates, cotton wool spots, aneurysm and abnormal vessel growth",
+    "guideline": {
+      "text": "The anti-VEGF review is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10222751/"
+    }
+  },
+  {
+    "id": "s2med-2957",
+    "category": "IM Ophthal",
+    "q": "Hypertensive retinopathy per p298?",
+    "a": "Buzzy findings: AV nicking and arteriolar narrowing. The Q can mention a 'sausage-like' appearance of retinal arterioles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=298"
+    },
+    "img": "/mehlman/figures/med-p298-01.jpg",
+    "imgAlt": "Source figure: hypertensive retinopathy with labeled AV nicking, arteriolar narrowing, copper wiring, cotton wool spot, exudates, blot hemorrhage and disc edema",
+    "guideline": {
+      "text": "A StatPearls page on hypertensive retinopathy is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK525980/"
+    }
+  },
+  {
+    "id": "s2med-2958",
+    "category": "IM Ophthal",
+    "q": "Orbital xanthoma per p298?",
+    "a": "Cholesterol deposits around the eye (dyslipidemia finding). Can occasionally be seen idiopathically in patients without lipid disorders.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=298"
+    },
+    "img": "/mehlman/figures/med-p298-02.jpg",
+    "imgAlt": "Source figure: orbital xanthoma on the eyelid",
+    "guideline": {
+      "text": "A lipid study of corneal arcus and xanthelasma is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3940677/"
+    }
+  },
+  {
+    "id": "s2med-2959",
+    "category": "IM Ophthal",
+    "q": "Corneal arcus per p298?",
+    "a": "Lipid deposits around the cornea (dyslipidemia finding). Can be seen idiopathically, in the elderly, without lipid disorders.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=298"
+    },
+    "img": "/mehlman/figures/med-p298-03.jpg",
+    "imgAlt": "Source figure: corneal arcus",
+    "guideline": {
+      "text": "The lipid study is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3940677/"
+    }
+  },
+  {
+    "id": "s2med-2960",
+    "category": "IM Ophthal",
+    "q": "Corneal abrasion presentation per p298?",
+    "a": "Scratchy or tearing sensation of the eye. Can be caused by contact lens use or irritants like sand (e.g., playing in a sandbox with a child).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=298"
+    },
+    "guideline": {
+      "text": "A review of evaluation and management of corneal abrasions is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23317075/"
+    }
+  },
+  {
+    "id": "s2med-2961",
+    "category": "IM Ophthal",
+    "q": "Corneal abrasion next step per p298?",
+    "a": "USMLE asks the next best step, answer 'instillation of fluorescein into the eye', or shows a fluorescein image (p299) and asks for the diagnosis (corneal abrasion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 298,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=298"
+    },
+    "guideline": {
+      "text": "The review is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23317075/"
+    }
+  },
+  {
+    "id": "s2med-2962",
+    "category": "IM Ophthal",
+    "q": "Fluorescein per p299?",
+    "a": "Orange dye that appears blue-green under violet light when dripped into the eye. Anything blue is normal; anything green is abnormal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 299,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=299"
+    },
+    "img": "/mehlman/figures/med-p299-01.jpg",
+    "imgAlt": "Source figure: fluorescein instillation showing a corneal abrasion under blue light",
+    "guideline": {
+      "text": "The corneal abrasion review is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23317075/"
+    }
+  },
+  {
+    "id": "s2med-2963",
+    "category": "IM Ophthal",
+    "q": "Subconjunctival hemorrhage per p299?",
+    "a": "Buzzy spot diagnosis. Caused by bursting of superficial conjunctival vessels. Looks sinister but self-resolves uneventfully. Can be caused by trauma or brief increases in pressure (severe vomiting or coughing).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 299,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=299"
+    },
+    "img": "/mehlman/figures/med-p299-02.jpg",
+    "imgAlt": "Source figure: subconjunctival hemorrhage",
+    "guideline": {
+      "text": "A StatPearls page on subconjunctival hemorrhage is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551666/"
+    }
+  },
+  {
+    "id": "s2med-2964",
+    "category": "IM Ophthal",
+    "q": "Aniridia per p299?",
+    "a": "Seen as part of WAGR complex with WT1 mutations: Wilms tumor, Aniridia, Genitourinary anomalies, and Retardation (the source's 'R', developmental delay).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 299,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=299"
+    },
+    "img": "/mehlman/figures/med-p299-03.jpg",
+    "imgAlt": "Source figure for aniridia",
+    "guideline": {
+      "text": "A GeneReviews page on WAGR spectrum disorder is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK621298/"
+    }
+  },
+  {
+    "id": "s2med-2965",
+    "category": "IM Ophthal",
+    "q": "Coloboma per p300?",
+    "a": "Means hole in the eye. Seen in CHARGE syndrome: Coloboma of the eye, Heart defects, Atresia of the choanae, Retardation of growth and development, Genitourinary anomalies, Ear defects.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=300"
+    },
+    "img": "/mehlman/figures/med-p300-01.jpg",
+    "imgAlt": "Source figure: coloboma with a keyhole pupil",
+    "guideline": {
+      "text": "A review of ocular coloboma is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8302742/"
+    }
+  },
+  {
+    "id": "s2med-2966",
+    "category": "IM Ophthal",
+    "q": "Albinism and the iris per p300?",
+    "a": "Can cause pale blue or pink irides.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=300"
+    },
+    "img": "/mehlman/figures/med-p300-02.jpg",
+    "imgAlt": "Source figure: albinism with pale red-pink iris",
+    "guideline": {
+      "text": "A GeneReviews overview of albinism is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK590568/"
+    }
+  },
+  {
+    "id": "s2med-2967",
+    "category": "IM Ophthal",
+    "q": "Lisch nodules per p300?",
+    "a": "Iris hamartomas seen in NF1.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=300"
+    },
+    "img": "/mehlman/figures/med-p300-03.jpg",
+    "imgAlt": "Source figure: Lisch nodules on the iris",
+    "guideline": {
+      "text": "A GeneReviews page on neurofibromatosis 1 is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1109/"
+    }
+  },
+  {
+    "id": "s2med-2968",
+    "category": "IM Ophthal",
+    "q": "NF1 features per p300?",
+    "a": "Axillary and groin freckling, cafe au lait spots (hyperpigmented macules), optic glioma (tumor of CN II), neurofibromas (nodules under the skin), pheochromocytoma, and brain tumors such as ependymoma and oligodendroglioma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=300"
+    },
+    "img": "/mehlman/figures/med-p300-03.jpg",
+    "imgAlt": "Source figure: Lisch nodules on the iris",
+    "guideline": {
+      "text": "The NF1 page is linked on the previous card; I did not verify the brain tumor list.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1109/"
+    }
+  },
+  {
+    "id": "s2med-2969",
+    "category": "IM Ophthal",
+    "q": "Brushfield spots per p300?",
+    "a": "Connective tissue deposits seen within the irides of some patients with Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 300,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=300"
+    },
+    "guideline": {
+      "text": "A review of ocular manifestations of Down syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9252013/"
+    }
   }
 ];

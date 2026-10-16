@@ -1016,3 +1016,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p296 (vitreous hemorrhage, CRAO; figures) - 4 cards, ids s2med-2949 to 2952
 - Ocular massage efficacy not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p297 (refractile body, diabetic retinopathy; figures) - 4 cards, ids s2med-2953 to 2956
+## p298 (hypertensive retinopathy, dyslipidemia eye signs, corneal abrasion; figures) - 5 cards, ids s2med-2957 to 2961
+## p299 (fluorescein, subconjunctival hemorrhage, aniridia; figures) - 3 cards, ids s2med-2962 to 2964
+- Aniridia figure identification assumed from page order (image sits under the Aniridia label).
+## p300 (iris abnormalities; figures) - 5 cards, ids s2med-2965 to 2969
+- WAGR/CHARGE "R" terms paraphrased from the outdated wording.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
