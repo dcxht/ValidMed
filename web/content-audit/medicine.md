@@ -759,3 +759,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p205 (Budd-Chiari, hemorrhoids, PCOS) - 13 cards, ids s2med-2058 to 2070
 - Unverified: Sheehan aldosterone increase, scalp pH <7.2 threshold, PE imaging sequence vs ASH, atelectasis-fever evidence, PCOS "Amsterdam" cyst criterion.
 - Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
+
+## p206 (progesterone withdrawal, dysmenorrhea, endometriosis) - 12 cards, ids s2med-2071 to 2082
+## p207 (adenomyosis, misc repro terms and DDx) - 14 cards, ids s2med-2083 to 2096
+## p208 (carpal tunnel, IC, teratogens, substance abuse start) - 17 cards, ids s2med-2097 to 2113
+- Conflicts: endometriosis diagnostic laparoscopy first vs ESHRE guideline (imaging/empirical). Unverified: lithium Ebstein, teratogen table details, OHSS clomiphene, progesterone withdrawal details.
+- Mobile QA (320x740, local vite preview build, not live): all 43 cards ox=false off=false bad=0.
