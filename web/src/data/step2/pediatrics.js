@@ -26691,5 +26691,142 @@ export default [
       "text": "GeneReviews: CBS deficiency involves ectopia lentis and/or severe myopia, a Marfanoid skeletal habitus and thromboembolism.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK1524/"
     }
+  },
+  {
+    "id": "s2peds-1869",
+    "category": "Subconjunctival hemorrhage",
+    "q": "What does the p124 photo show, and how does p124 describe it as a USMLE spot diagnosis?",
+    "a": "A subconjunctival hemorrhage: a bright red patch on the white of the eye. A buzzy image and spot diagnosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "img": "/mehlman/figures/peds-p124-subconjunctival-hemorrhage.png",
+    "imgAlt": "Actual source photograph of an eye with a bright red subconjunctival hemorrhage over the white of the eye",
+    "guideline": {
+      "text": "StatPearls: a sharply demarcated red patch on the scleral surface, usually painless and not affecting vision.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551666/"
+    }
+  },
+  {
+    "id": "s2peds-1870",
+    "category": "Subconjunctival hemorrhage",
+    "q": "What causes a subconjunctival hemorrhage per p124?",
+    "a": "Bursting of superficial conjunctival vessels.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2peds-1871",
+    "category": "Subconjunctival hemorrhage",
+    "q": "What is the course of a subconjunctival hemorrhage per p124?",
+    "a": "It looks sinister but self-resolves uneventfully.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "guideline": {
+      "text": "StatPearls: benign and self-limiting, most resolve within 1 to 2 weeks without specific treatment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551666/"
+    }
+  },
+  {
+    "id": "s2peds-1872",
+    "category": "Subconjunctival hemorrhage",
+    "q": "What can trigger a subconjunctival hemorrhage per p124?",
+    "a": "Trauma or brief periods of increased pressure, such as severe vomiting or coughing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "guideline": {
+      "text": "StatPearls lists trauma and Valsalva maneuvers among the causes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551666/"
+    }
+  },
+  {
+    "id": "s2peds-1873",
+    "category": "Iris abnormalities",
+    "q": "Which iris abnormality is part of the WAGR complex per p124, and what does WAGR stand for?",
+    "a": "Aniridia. WAGR: Wilms tumor, Aniridia, Genitourinary anomalies, Retardation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "img": "/mehlman/figures/peds-p124-aniridia.png",
+    "imgAlt": "Actual source photograph of an eye with aniridia, showing absent iris",
+    "guideline": {
+      "text": "StatPearls: WAGR arises from a partial deletion of 11p13 involving both PAX6 (aniridia) and WT1 (Wilms tumor). The source attributes it to WT1 mutations alone.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538133/"
+    }
+  },
+  {
+    "id": "s2peds-1874",
+    "category": "Iris abnormalities",
+    "q": "Which gene does p124 link to the WAGR complex?",
+    "a": "WT1.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "guideline": {
+      "text": "StatPearls: the deletion involves both WT1 and PAX6; PAX6 loss explains the aniridia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538133/"
+    }
+  },
+  {
+    "id": "s2peds-1875",
+    "category": "Iris abnormalities",
+    "q": "What does coloboma mean per p124, and which syndrome is it seen in?",
+    "a": "A hole in the eye (keyhole pupil in the photo). Seen in CHARGE syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "img": "/mehlman/figures/peds-p124-coloboma.png",
+    "imgAlt": "Actual source photograph of an eye with an iris coloboma, a keyhole-shaped pupil",
+    "guideline": {
+      "text": "StatPearls: CHARGE features include coloboma of the eye, heart defects, atresia of the choanae, retardation of growth, genital underdevelopment and ear anomalies. It is caused by a CHD7 mutation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559199/"
+    }
+  },
+  {
+    "id": "s2peds-1876",
+    "category": "Iris abnormalities",
+    "q": "What does CHARGE stand for per p124?",
+    "a": "Coloboma, Heart defects, Atresia of the choanae, Retardation of growth and development, Genitourinary anomalies, Ear defects.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "guideline": {
+      "text": "StatPearls gives the same six components.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559199/"
+    }
+  },
+  {
+    "id": "s2peds-1877",
+    "category": "Iris abnormalities",
+    "q": "What iris findings can albinism cause per p124?",
+    "a": "Pale blue or pink irides.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 124,
+      "url": "/mehlman/hy-pediatrics.pdf#page=124"
+    },
+    "guideline": {
+      "text": "StatPearls: iris pigment is reduced and varies from pink to light blue, green, gray or light brown; transillumination gives a pink spoke-wheel appearance.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519018/"
+    }
   }
 ];

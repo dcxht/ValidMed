@@ -572,3 +572,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls (Amblyopia, Alport, Ectopia Lentis, OI), a pediatric cataract review (TORCH incl. rubella, syphilis) and GeneReviews (CBS deficiency).
 - Left un-noted/unverified: NF2 as a pediatric cataract cause (genetics table lists NF2 but I did not verify the clinical association in the fetched review; note says so), cataract symptom description, "eye exercises" for strabismus, p123's last line ("Marfan and Alport can also cause eye issues, but ...") continues on p124 and will be handled there.
 - Mobile QA (320x740, live, local headless Chrome): all 11 cards ox=false off=false bad=0; three figure cards render and answers fit.
+
+## p124 (subconjunctival hemorrhage, iris abnormalities) - 9 cards, ids s2peds-1869 to 1877
+- Inspected page pixels. Three source photos added: subconjunctival hemorrhage, aniridia, coloboma. The albinism photo row has no image on this page.
+- Notes verified against StatPearls Subconjunctival Hemorrhage, Aniridia, CHARGE and Albinism. WAGR: StatPearls says an 11p13 deletion removes both PAX6 and WT1; source says WT1 mutations. Source answer kept with a clarifying note.
+- Left un-noted: "buzzy image" exam-frequency remark, "bursting of superficial conjunctival vessels" mechanism wording.
+- p123's cut-off last line ("Marfan and Alport can also cause eye issues, but") does not continue on p124; it is a source truncation, nothing to add.
+- Mobile QA: PENDING
