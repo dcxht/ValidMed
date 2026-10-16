@@ -8564,5 +8564,306 @@ export default [
       "text": "A review on acute otitis media in children is a reference; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9471510/"
     }
+  },
+  {
+    "id": "s2med-0659",
+    "category": "IM Pulmonary",
+    "q": "Acute otitis media signs per p68?",
+    "a": "Red, immobile tympanic membrane. Immobility is highly sensitive for OM: if the stem says mobility is normal, rule it out. Ear tugging in children can be a sign of otitis media or externa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "The AAP 2013 AOM guideline is a reference (it emphasizes bulging of the membrane as a key criterion); I did not verify its text.",
+      "url": "https://publications.aap.org/pediatrics/article/131/3/e964/30912"
+    }
+  },
+  {
+    "id": "s2med-0660",
+    "category": "IM Pulmonary",
+    "q": "Otitis media treatment per p68?",
+    "a": "Amoxicillin or penicillin. Augmentin is classically for recurrent OM; if forced to choose between amoxicillin/penicillin alone or Augmentin, choose the former.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2med-0661",
+    "category": "IM Pulmonary",
+    "q": "Tympanostomy tubes per p68?",
+    "a": "On 2CK Peds: tube (grommet) if more than 3 OM occurrences in 6 months, or more than 4 in a year.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "AAO-HNS tympanostomy tube guideline is the reference (it uses 3 episodes in 6 months or 4 in 12 months); I did not verify the text.",
+      "url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/tympanostomy-tubes-in-children/"
+    }
+  },
+  {
+    "id": "s2med-0662",
+    "category": "IM Pulmonary",
+    "q": "Serous otitis media per p68?",
+    "a": "Aka otitis media with effusion: fluid behind the tympanic membrane in a kid weeks after resolution of 1 or 2 OM infections. Almost always benign and self-resolves in 4-8 weeks; answer is observation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "AAO-HNS OME guideline is the reference; I did not verify the text.",
+      "url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/ome/"
+    }
+  },
+  {
+    "id": "s2med-0663",
+    "category": "IM Pulmonary",
+    "q": "Tympanic membrane perforation per p68?",
+    "a": "2CK NBME: 2-year-old with 3 days of viral infection, wakes with severe ear pain, dried blood on ear lobe and pillow, and seropurulent fluid draining from the canal so the TM cannot be seen. Can occur with OM, although this vignette does not sound like classic OM.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2med-0664",
+    "category": "IM Pulmonary",
+    "q": "Mastoiditis per p68?",
+    "a": "Inflammation of the mastoid bone from untreated otitis media (the mastoid process is the posterior temporal bone behind the ear). A painful ear pinna displaced (e.g., upward and outward). Diagnosis by CT or MRI; X-ray is wrong. A 2CK IM question has a 2-year-old with mastoiditis: 'CT of the temporal bone'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "A paper on CT in pediatric acute mastoiditis exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19746754/"
+    }
+  },
+  {
+    "id": "s2med-0665",
+    "category": "IM Pulmonary",
+    "q": "Myringitis per p68?",
+    "a": "Isolated inflammation of the tympanic membrane; can be bullous. Caused by Strep pneumo or Mycoplasma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2med-0666",
+    "category": "IM Pulmonary",
+    "q": "Otitis externa per p68?",
+    "a": "Infection of the ear superficial to the tympanic membrane; classically Pseudomonas; increased risk in swimmers and diabetics. NBME: 'necrotizing otitis externa' (aka malignant otitis externa) for black skin within the ear canal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "A review of malignant external otitis in diabetes exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10064349/"
+    }
+  },
+  {
+    "id": "s2med-0667",
+    "category": "IM Pulmonary",
+    "q": "Otitis externa prophylaxis and treatment per p68?",
+    "a": "Prophylaxis in a college student who does crew with continuing water exposure: acetic acid-alcohol drops. Treatment: topical ciprofloxacin-hydrocortisone drops.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "AAO-HNS acute otitis externa guideline is a reference; I did not verify the text.",
+      "url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/aoe/"
+    }
+  },
+  {
+    "id": "s2med-0668",
+    "category": "IM Pulmonary",
+    "q": "Sinusitis clues per p68?",
+    "a": "School-age kid with lingering fever after a URTI for 10-14+ days. Think sinusitis whenever a URTI lingers more than about 10 days.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    },
+    "guideline": {
+      "text": "AAP guideline on acute bacterial sinusitis in children is a reference; I did not verify the text.",
+      "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2med-0669",
+    "category": "IM Pulmonary",
+    "q": "Odd sinusitis vignettes per p68?",
+    "a": "A 2CK vignette: nocturnal cough (aspiration from the sinuses) and grey oropharyngeal membranes (usually buzzy for diphtheria, but diphtheria is not listed). IgA deficiency vignette: history of pneumonias + sore left cheek = sinusitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2med-0670",
+    "category": "IM Pulmonary",
+    "q": "Chronic sinusitis workup per p68?",
+    "a": "For 2CK: CT if chronic sinusitis >12 weeks; after CT, nasal endoscopy can be performed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 68,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2med-0671",
+    "category": "IM Pulmonary",
+    "q": "Sinusitis treatment per p69?",
+    "a": "Amoxicillin/clavulanate (Augmentin), unlike OM and Strep pharyngitis, which are treated with amoxicillin or penicillin alone (unless recurrent).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    },
+    "guideline": {
+      "text": "AAP sinusitis guideline is a reference; I did not verify the regimen text.",
+      "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and?autologincheck=redirected"
+    }
+  },
+  {
+    "id": "s2med-0672",
+    "category": "IM Pulmonary",
+    "q": "Influenza presentation per p69?",
+    "a": "Respiratory distress, fever and myalgias; myalgias are exceedingly HY and usually suggest flu over other diagnoses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2med-0673",
+    "category": "IM Pulmonary",
+    "q": "Hemagglutinin per p69?",
+    "a": "Influenza has 8 segments, two of which encode hemagglutinin and neuraminidase. Hemagglutinin mediates attachment by binding sialic acid receptors; the molecule most flu vaccines target.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2med-0674",
+    "category": "IM Pulmonary",
+    "q": "Neuraminidase and -mivirs per p69?",
+    "a": "Neuraminidase cleaves sialic acid residues so new viral particles can leave the host cell. Oseltamivir and zanamivir are sialic acid analogues that competitively inhibit neuraminidase: virions cannot leave the cell ('packed with virions'); the drug that prevents spread within a community.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    },
+    "guideline": {
+      "text": "A paper on oseltamivir binding to neuraminidase exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9401145/"
+    }
+  },
+  {
+    "id": "s2med-0675",
+    "category": "IM Pulmonary",
+    "q": "Antigenic drift vs shift per p69?",
+    "a": "Drift: point mutations in hemagglutinin and/or neuraminidase; seasonal epidemics. Shift: two influenza viruses (human + animal, e.g., bird or swine) in one cell reassort segments, creating a novel virus; generational pandemics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2med-0676",
+    "category": "IM Pulmonary",
+    "q": "Post-influenza bacterial pneumonia per p69?",
+    "a": "Lobar pneumonia after convalescence from influenza with gram-positive cocci in clusters: S. aureus (not S. pneumo, which is gram-positive diplococci). The stem will not force a choice between the two by trivia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2med-0677",
+    "category": "IM Pulmonary",
+    "q": "Influenza vaccines per p69?",
+    "a": "IM killed vaccine: start at 6 months, yearly in fall or winter for life; safe in pregnancy. Intranasal live-attenuated: ages 2-45 (source); immunocompetent, non-pregnant persons only.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    },
+    "guideline": {
+      "text": "CDC states the nasal spray (LAIV) is approved for ages 2 through 49; the source's upper limit of 45 is older. I did not verify the CDC page text.",
+      "url": "https://www.cdc.gov/flu/vaccine-types/nasalspray.html"
+    }
+  },
+  {
+    "id": "s2med-0678",
+    "category": "IM Pulmonary",
+    "q": "SARS-CoV-2 per p69?",
+    "a": "The virus that caused the 2019 global pandemic (COVID-19); SARS = Severe Acute Respiratory Syndrome. Spike proteins give a crown-like appearance on electron microscopy and bind the ACE2 receptor for fusion with host respiratory epithelium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    },
+    "guideline": {
+      "text": "A paper on ACE2 binding by the spike exists; I did not verify its text. The source's remarks on the pandemic's origin are contested and not carded.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10183628/"
+    }
+  },
+  {
+    "id": "s2med-0679",
+    "category": "IM Pulmonary",
+    "q": "COVID presentation per p69?",
+    "a": "From mild respiratory symptoms similar to the common cold (rhinovirus) to severe respiratory disease with multi-organ failure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2med-0680",
+    "category": "IM Pulmonary",
+    "q": "COVID vaccine types per p69?",
+    "a": "mRNA (Moderna; mRNA coding for the spike protein); viral vector (AstraZeneca; the source says it delivers mRNA in a harmless viral capsid); killed (Sinovac; inactivated virus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2med-0681",
+    "category": "IM Pulmonary",
+    "q": "Rare adverse effects per p69 (continues p70)?",
+    "a": "Both live viral infection and vaccination are known to cause rare adverse effects, such as Bell's palsy and myocarditis. The sentence continues on p70.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 69,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=69"
+    },
+    "guideline": {
+      "text": "CDC safety considerations for COVID-19 vaccines is a reference; I did not verify the text.",
+      "url": "https://www.cdc.gov/covid/hcp/vaccine-considerations/safety-considerations.html"
+    }
   }
 ];

@@ -299,3 +299,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (air-fluid level CXR). Page ends with otitis media; continues p68.
 - Conflict: clindamycin for lung abscess (current regimens vary). Unverified: ABPA/HP details.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p68 (IM Pulmonary: ENT infections, sinusitis) - 12 cards, ids s2med-0659 to 0670
+- Inspected page text (no figures). Starts mid-otitis media from p67.
+- Conflicts: AOM immobile vs bulging membrane criteria; tube thresholds ">3 in 6 mo" vs guideline "3 in 6 / 4 in 12". Unverified: guideline texts.
+
+## p69 (IM Pulmonary: sinusitis tail, influenza, coronavirus) - 11 cards, ids s2med-0671 to 0681
+- Inspected page text (no figures). Page ends mid-sentence on vaccine adverse effects; continues p70.
+- Conflicts: LAIV age 2-45 vs CDC 2-49; source says AstraZeneca delivers mRNA (it is a DNA vector; unverified here). Source statement about pandemic origin (lab leak) deliberately NOT carded: contested, not verifiable.
+- Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.
