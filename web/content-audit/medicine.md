@@ -1095,3 +1095,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p320 (fractures by site) - 16 cards, ids s2med-3123 to 3138
 - Source "FOSH" expanded to FOOSH. Clavicle figure-of-8 sling unverified; supracondylar "distal shaft" equivalence unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
+
+## p321 (Ottawa ankle, DDH, LCP) - 11 cards, ids s2med-3139 to 3149
+- LCP "Tx = hip replacement" kept as source with caution; not verified.
+- Ottawa examples are source vignettes, not verified.
+
+## p322 (LCP figures, SCFE) - 8 cards, ids s2med-3150 to 3157
+- Two figures on p322 matched to LCP by caption text.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.

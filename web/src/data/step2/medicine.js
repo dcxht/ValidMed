@@ -41926,5 +41926,258 @@ export default [
       "text": "A StatPearls page on orbital floor fracture is linked (title only).",
       "url": "https://ncbi.nlm.nih.gov/books/NBK534825/"
     }
+  },
+  {
+    "id": "s2med-3139",
+    "category": "IM MSK",
+    "q": "Ottawa ankle criteria purpose per p321?",
+    "a": "Used to assess the probability of ankle fracture and decide between an x-ray and supportive care such as RICE (rest, ice, compression, elevation). Before the criteria, ankle x-rays were ordered frivolously, mostly showing no fracture.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "A StatPearls page on acute ankle sprain is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459212/"
+    }
+  },
+  {
+    "id": "s2med-3140",
+    "category": "IM MSK",
+    "q": "Ottawa ankle criteria rule per p321?",
+    "a": "Only order an ankle x-ray if there is pain in the malleolar zone AND any of: tenderness posterior to the lateral or medial malleolus; tenderness on the tip of the lateral or medial malleolus; or the patient cannot bear weight for four steps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459212/"
+    }
+  },
+  {
+    "id": "s2med-3141",
+    "category": "IM MSK",
+    "q": "Ottawa example 1 per p321?",
+    "a": "25M twisted his ankle yesterday, with moderate lateral edema and ecchymoses, tenderness lateral and anterior to the lateral malleolus, and can bear weight. After 2 days of ice, next best step? Source shelf answer: a soft protective brace and early range of motion exercises. Wrong: ankle x-ray.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    }
+  },
+  {
+    "id": "s2med-3142",
+    "category": "IM MSK",
+    "q": "Ottawa example 2 per p321?",
+    "a": "40M rolls his ankle playing basketball: pain anterior to the lateral malleolus, swelling, no pain posterior to the lateral malleolus, can bear weight. Answer = RICE; x-ray is wrong because he has malleolar zone pain but no posterior or tip tenderness and can bear weight.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    }
+  },
+  {
+    "id": "s2med-3143",
+    "category": "IM MSK",
+    "q": "Ottawa example 3 per p321?",
+    "a": "26F rolled her ankle running: lateral ankle pain, tenderness posterior to the malleolus, can bear weight. Answer = x-ray of the ankle; malleolar zone pain plus posterior malleolar tenderness meets the criteria even though she can bear weight.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    }
+  },
+  {
+    "id": "s2med-3144",
+    "category": "IM MSK",
+    "q": "Primary hip dysplasia per p321?",
+    "a": "Aka developmental dysplasia of the hip. Mechanism is a 'poorly developed acetabulum'. Initial diagnosis is with the Ortolani and Barlow maneuvers, which elicit a 'clicking and clunking' on exam.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "A StatPearls page on developmental dysplasia of the hip is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2med-3145",
+    "category": "IM MSK",
+    "q": "Hip dysplasia next step per p321?",
+    "a": "After the Ortolani and Barlow maneuvers, the next best step is ortho referral. It sounds wrong, but if listed it is the answer before imaging. Definitive diagnosis: hip ultrasound if under 6 months of age; hip x-ray if over 6 months.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2med-3146",
+    "category": "IM MSK",
+    "q": "Hip dysplasia Tx per p321?",
+    "a": "'Abduction harness', aka Pavlik harness, which positions the child's legs in a frog-leg appearance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "The same page is linked on an earlier card.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2med-3147",
+    "category": "IM MSK",
+    "q": "Legg-Calve-Perthes per p321?",
+    "a": "Aka idiopathic avascular necrosis of the femoral head. If the cause of the avascular necrosis is known (e.g., Gaucher, sickle cell, corticosteroids), the diagnosis is just 'avascular necrosis', not LCP. Vignette: child 5-8 years old with hip pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "A review of LCP disease is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38315432/"
+    }
+  },
+  {
+    "id": "s2med-3148",
+    "category": "IM MSK",
+    "q": "LCP workup per p321?",
+    "a": "First step is a hip x-ray showing a 'contracted' or flattened femoral head; the word 'contracted' is high-yield and synonymous with avascular necrosis. If the x-ray is negative, diagnose with bone scan or MRI (on a 2CK form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38315432/"
+    }
+  },
+  {
+    "id": "s2med-3149",
+    "category": "IM MSK",
+    "q": "LCP Tx per p321?",
+    "a": "The source says Tx = hip replacement.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 321,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=321"
+    },
+    "guideline": {
+      "text": "Caution: the source's hip replacement answer is kept as written; pediatric LCP management is usually described as observation or containment, and I did not verify a source for this. The linked review is title only.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38315432/"
+    }
+  },
+  {
+    "id": "s2med-3150",
+    "category": "IM MSK",
+    "q": "LCP x-ray per p322 (continued from p321)?",
+    "a": "X-ray shows a flattened/contracted femoral head (compare with the normal side that looks rounder).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    },
+    "img": "/mehlman/figures/med-p322-01.jpg",
+    "imgAlt": "Source figure: hip x-ray with flattened femoral head, arrow",
+    "guideline": {
+      "text": "The LCP review is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38315432/"
+    }
+  },
+  {
+    "id": "s2med-3151",
+    "category": "IM MSK",
+    "q": "LCP MRI per p322?",
+    "a": "On MRI, the right femoral head appears hypointense (more black). The necrotic/lack of bone in the black superior portion means the remaining white part is 'flattened' or 'contracted'. The left femoral head shows a small area of necrosis too (black medial portion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    },
+    "img": "/mehlman/figures/med-p322-02.jpg",
+    "imgAlt": "Source figure: hip MRI of femoral head necrosis"
+  },
+  {
+    "id": "s2med-3152",
+    "category": "IM MSK",
+    "q": "SCFE vignette per p322?",
+    "a": "Classic vignette is a 10-13-year-old (pre-adolescent) overweight boy with a painful limp.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    },
+    "guideline": {
+      "text": "A rapid evidence review of SCFE is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41118186/"
+    }
+  },
+  {
+    "id": "s2med-3153",
+    "category": "IM MSK",
+    "q": "SCFE mechanism per p322?",
+    "a": "NBME writes the answer/mechanism as 'displacement of the epiphysis of the femoral head'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    }
+  },
+  {
+    "id": "s2med-3154",
+    "category": "IM MSK",
+    "q": "SCFE and weight per p322?",
+    "a": "Resources emphasize obesity as the main risk factor, but the source says only about half of NBME SCFE questions describe the child as overweight, which trips students who rely on a high BMI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    }
+  },
+  {
+    "id": "s2med-3155",
+    "category": "IM MSK",
+    "q": "SCFE age per p322?",
+    "a": "The source concludes age matters most, since they always give a kid around 10-13. If the kid is younger, think LCP instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    }
+  },
+  {
+    "id": "s2med-3156",
+    "category": "IM MSK",
+    "q": "SCFE 2CK examples per p322?",
+    "a": "A 2CK NBME question gives a 13M with painful gait and no mention of weight: SCFE. Another says BMI 20 in a 13-year-old who is 6 feet tall: SCFE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    }
+  },
+  {
+    "id": "s2med-3157",
+    "category": "IM MSK",
+    "q": "SCFE x-ray per p322?",
+    "a": "Shows 'ice cream falling off the cone'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 322,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=322"
+    }
   }
 ];
