@@ -665,3 +665,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p162 (ALL, CLL) - 10 cards, ids s2med-1505 to 1514
 - Unverified: "leukemias almost always B-cell", ALL CD10/TdT feedback, NBME-specific claims.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p163 (AML, APL, CML) - 11 cards, ids s2med-1515 to 1525
+## p164 (CML, hairy cell, Sezary, lymphoma intro, Hodgkin) - 11 cards, ids s2med-1526 to 1536
+- Conflict: Sezary syndrome attributed to HTLV in source (not verified; Sezary/MF cell lines differ from HTLV-1 leukemias per linked paper title). Unverified: 9/10 myelo-cell and hairy cell WBC claims.
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.

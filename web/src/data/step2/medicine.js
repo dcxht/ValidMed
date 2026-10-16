@@ -20074,5 +20074,287 @@ export default [
       "page": 162,
       "url": "/mehlman/hy-internal-medicine.pdf#page=162"
     }
+  },
+  {
+    "id": "s2med-1515",
+    "category": "IM Heme/Onc",
+    "q": "Acute myeloblastic leukemia (AML) smear per p163?",
+    "a": "Auer rods.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    },
+    "img": "/mehlman/figures/med-p163-01.jpg",
+    "imgAlt": "Bone marrow smear with myeloblasts containing Auer rods",
+    "guideline": {
+      "text": "A 2025 AML diagnosis update is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11966364/"
+    }
+  },
+  {
+    "id": "s2med-1516",
+    "category": "IM Heme/Onc",
+    "q": "Auer rods composition per p163?",
+    "a": "Myeloperoxidase, a blue-green heme-containing pigment. The image is exceedingly HY for Step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2med-1517",
+    "category": "IM Heme/Onc",
+    "q": "AML stem without the Auer rod image per p163?",
+    "a": "They'll say '30% blasts' or '50% blasts'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2med-1518",
+    "category": "IM Heme/Onc",
+    "q": "Acute promyelocytic leukemia (APL, AML M3) translocation per p163?",
+    "a": "t(15;17).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2med-1519",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of APL per p163?",
+    "a": "All-trans retinoic acid (vitamin A), which causes maturation of leukemic cells into mature granulocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    },
+    "guideline": {
+      "text": "A paper on APL coagulopathy and ATRA is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3248345/"
+    }
+  },
+  {
+    "id": "s2med-1520",
+    "category": "IM Heme/Onc",
+    "q": "AML treatment and DIC per p163?",
+    "a": "Treatment leads to leukemic cell lysis; release of Auer rods into the circulation can precipitate DIC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2med-1521",
+    "category": "IM Heme/Onc",
+    "q": "Chronic myelogenous leukemia (CML): translocation per p163?",
+    "a": "t(9;22) (Philadelphia chromosome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2med-1522",
+    "category": "IM Heme/Onc",
+    "q": "CML fusion protein per p163?",
+    "a": "bcr/abl, an oncogenic tyrosine kinase ('fusion protein').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    },
+    "guideline": {
+      "text": "The 2025 ELN CML recommendations are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12310532/"
+    }
+  },
+  {
+    "id": "s2med-1523",
+    "category": "IM Heme/Onc",
+    "q": "CML stem cell types per p163?",
+    "a": "Myelocytes, promyelocytes, metamyelocytes: 9/10 questions mentioning these cells are CML.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2med-1524",
+    "category": "IM Heme/Onc",
+    "q": "Leukocyte ALP in CML per p163?",
+    "a": "Low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2med-1525",
+    "category": "IM Heme/Onc",
+    "q": "CML smear per p163?",
+    "a": "A 'motley mix' or 'soup' showing all different cell types.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 163,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=163"
+    },
+    "img": "/mehlman/figures/med-p163-02.jpg",
+    "imgAlt": "Blood smear with a mix of myeloid cells at different maturation stages"
+  },
+  {
+    "id": "s2med-1526",
+    "category": "IM Heme/Onc",
+    "q": "CML smear vs leukemoid reaction per p164?",
+    "a": "The HY smear of mixed myeloid cells differentiates CML from leukemoid reaction, which shows neutrophilia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2med-1527",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of CML per p164?",
+    "a": "Imatinib, which targets the bcr/abl tyrosine kinase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "The 2025 ELN CML recommendations are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12310532/"
+    }
+  },
+  {
+    "id": "s2med-1528",
+    "category": "IM Heme/Onc",
+    "q": "Hairy cell leukemia stem per p164?",
+    "a": "Leukemia characterized by 'cytoplasmic projections' that stains positive for tartrate-resistant acid phosphatase (TRAP).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    },
+    "img": "/mehlman/figures/med-p164-01.jpg",
+    "imgAlt": "Blood smear with hairy cell leukemia cells showing cytoplasmic projections",
+    "guideline": {
+      "text": "A paper on hairy cell leukemia diagnostic criteria is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6331060/"
+    }
+  },
+  {
+    "id": "s2med-1529",
+    "category": "IM Heme/Onc",
+    "q": "Hairy cell and WBC count per p164?",
+    "a": "The stem can give low WBCs, unusual for leukemia (9 of 10 leukemia questions give ultra-high WBCs). One NBME hairy cell question: image like above, WBCs 3,500, 'WBCs with cytoplasmic projections', TRAP positive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2med-1530",
+    "category": "IM Heme/Onc",
+    "q": "Sezary syndrome: what is it per p164?",
+    "a": "Cutaneous T-cell lymphoma that extends to the blood as a T-cell leukemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "A review of leukemic variants of cutaneous T-cell lymphoma is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9056079/"
+    }
+  },
+  {
+    "id": "s2med-1531",
+    "category": "IM Heme/Onc",
+    "q": "Sezary syndrome cause per p164?",
+    "a": "Caused by human T-cell lymphotropic virus (HTLV).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "Conflict: a paper comparing Sezary/mycosis fungoides cell lines with HTLV-1-positive leukemic lines is linked; its title suggests they are different diseases. I did not verify the text. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5707075/"
+    }
+  },
+  {
+    "id": "s2med-1532",
+    "category": "IM Heme/Onc",
+    "q": "Sezary cells per p164?",
+    "a": "Cerebriform-shaped T cells in the bloodstream.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2med-1533",
+    "category": "IM Heme/Onc",
+    "q": "Sezary skin presentation per p164?",
+    "a": "Erythroderma (red skin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    },
+    "img": "/mehlman/figures/med-p164-02.jpg",
+    "imgAlt": "Back with diffuse erythroderma and scattered lesions"
+  },
+  {
+    "id": "s2med-1534",
+    "category": "IM Heme/Onc",
+    "q": "Lymphoma: definition per p164?",
+    "a": "Cancer of the lymphatic system; usually starts in lymph nodes but can be in spleen and bone marrow. Almost always B-cell. Categorized as Hodgkin or non-Hodgkin (NHL).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2med-1535",
+    "category": "IM Heme/Onc",
+    "q": "Lymphoma risk factors per p164?",
+    "a": "Epstein-Barr virus, HIV, general immunosuppression (chronic corticosteroids, immunosuppressants), autoimmune disease (SLE, Hashimoto).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    }
+  },
+  {
+    "id": "s2med-1536",
+    "category": "IM Heme/Onc",
+    "q": "Hodgkin lymphoma: characteristic cell per p164?",
+    "a": "Reed-Sternberg cells: CD15/30 (+) B cells with a characteristic 'owl eye' appearance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 164,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=164"
+    },
+    "guideline": {
+      "text": "A review of Hodgkin lymphoma pathology is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9179292/"
+    }
   }
 ];
