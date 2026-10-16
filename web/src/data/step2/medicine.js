@@ -40076,5 +40076,165 @@ export default [
       "text": "A review of CMV retinitis management in AIDS is linked; I did not verify the wording.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2861935/"
     }
+  },
+  {
+    "id": "s2med-3007",
+    "category": "IM MSK",
+    "q": "Supraspinatus per p308?",
+    "a": "Abducts the arm (first 15 degrees). Answer if the patient has difficulty abducting the arm first 15 degrees.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "A review of rotator cuff examination is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3826176/"
+    }
+  },
+  {
+    "id": "s2med-3008",
+    "category": "IM MSK",
+    "q": "Supraspinatus tests per p308?",
+    "a": "Empty-can (thumb-down) / full-can (thumb-up): patient abducts arm to 90 degrees with thumb up or down, downward pressure applied; if it elicits pain, answer = supraspinatus injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "The rotator cuff exam review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3826176/"
+    }
+  },
+  {
+    "id": "s2med-3009",
+    "category": "IM MSK",
+    "q": "Supraspinatus NBME note per p308?",
+    "a": "A question on a new 2CK CMS IM form (form 7) has supraspinatus tendonitis as the answer, with a patient who has reduced ability to abduct the first 60 degrees.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2med-3010",
+    "category": "IM MSK",
+    "q": "Pitcher injury per p308?",
+    "a": "The notion of 'pitcher injury' = infraspinatus does more harm than good for USMLE; a vignette can give a pitcher with a positive full-can test and the answer is supraspinatus, not infraspinatus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "The rotator cuff exam review is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3826176/"
+    }
+  },
+  {
+    "id": "s2med-3011",
+    "category": "IM MSK",
+    "q": "Infraspinatus per p308?",
+    "a": "Lateral (external) rotation. If the question says the patient simply cannot externally rotate the arm and teres minor isn't listed, infraspinatus is the only one that could be right.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2med-3012",
+    "category": "IM MSK",
+    "q": "Teres minor per p308?",
+    "a": "Adduction and lateral rotation. If the patient has issues with both lateral rotation and adduction, the answer is teres minor over infraspinatus. The source has never seen NBME material assess the diagnostic tests for infraspinatus or teres minor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2med-3013",
+    "category": "IM MSK",
+    "q": "Subscapularis per p308?",
+    "a": "Adduction and medial (internal) rotation of the arm.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2med-3014",
+    "category": "IM MSK",
+    "q": "Gerber lift-off test per p308?",
+    "a": "Asked on both Steps; answer = subscapularis. Patient places the dorsal hand on the lower back, palm facing posteriorly; examiner presses into the palm; patient is asked to move the hand away against pressure; if painful or difficult, subscapularis injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "A paper on isolated subscapularis rupture is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1670434/"
+    }
+  },
+  {
+    "id": "s2med-3015",
+    "category": "IM MSK",
+    "q": "Axillary nerve per p308?",
+    "a": "Main innervation of the deltoid, allowing abduction of the arm 15-90 degrees. USMLE wants you to know the deltoid originates on the lateral clavicle and the axillary nerve is C5/C6.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "A paper on the axillary nerve and humerus fractures is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26606602/"
+    }
+  },
+  {
+    "id": "s2med-3016",
+    "category": "IM MSK",
+    "q": "Axillary nerve palsy per p308?",
+    "a": "Caused by surgical neck of humerus fracture. The vignette often says 'flattened deltoid' or 'loss of sensation over the lateral upper arm / deltoid'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26606602/"
+    }
+  },
+  {
+    "id": "s2med-3017",
+    "category": "IM MSK",
+    "q": "Median nerve innervation per p308?",
+    "a": "Main innervation is the lateral 3.5 fingers / thenar pad, and the lateral forearm. Does thumb abduction (ulnar nerve does thumb adduction). NBME wants 'palmar cutaneous branch of median nerve' as the answer for sensation over the thenar region.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    }
+  },
+  {
+    "id": "s2med-3018",
+    "category": "IM MSK",
+    "q": "Median nerve palsy cause per p308?",
+    "a": "Caused by supracondylar fracture of the humerus, or 'distal shaft fracture'. The former is buzzy; the latter sounds non-specific, but the source has seen it this way on NBME. Continues on p309.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 308,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=308"
+    },
+    "guideline": {
+      "text": "A paper on nerve injury in supracondylar fractures is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12674161/"
+    }
   }
 ];

@@ -1046,3 +1046,7 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p307 (herpes keratitis, HZO, CMV retinitis) - 3 cards, ids s2med-3004 to 3006
 - HZO topical antiviral treatment kept as source; note says not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p308 (rotator cuff, upper limb nerves) - 12 cards, ids s2med-3007 to 3018
+- Form 7 CMS claim unverified. Median nerve heading was missing in text extraction; cards titled by content.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
