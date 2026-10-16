@@ -2084,5 +2084,375 @@ export default [
     },
     "img": "/mehlman/figures/med-p019-03.jpg",
     "imgAlt": "Source figure p19: 12-lead ECG with ST elevation in leads II, III, aVF (arrows)"
+  },
+  {
+    "id": "s2med-0157",
+    "category": "IM Cardio",
+    "q": "Inferior MI on ECG (II, III, aVF) per p20: affected vessel?",
+    "a": "Posterior descending artery (supplies the diaphragmatic surface). Since >85% of people are right-dominant (PDA from the right coronary), the answer can just be right coronary artery. If the Q says left-dominant: left main, left circumflex, then PDA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    },
+    "guideline": {
+      "text": "A review on localising the culprit artery in inferior STEMI is available. I did not verify the 85% figure.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9884921/"
+    }
+  },
+  {
+    "id": "s2med-0158",
+    "category": "IM Cardio",
+    "q": "ST elevations in V1-V3 per p20?",
+    "a": "LAD (supplies the apex of the heart).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0159",
+    "category": "IM Cardio",
+    "q": "ST elevations in V4-V6 (lateral MI) per p20?",
+    "a": "Left circumflex artery (supplies the left-lateral heart).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0160",
+    "category": "IM Cardio",
+    "q": "Reciprocal ST depressions in V1-V3 per p20?",
+    "a": "Can reflect posterior wall MI: the elevations are out the back of the heart, so they look like depressions on anterior leads.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0161",
+    "category": "IM Cardio",
+    "q": "New systolic murmur hours to days after MI per p20?",
+    "a": "Mitral regurgitation (papillary muscle rupture), with or without dyspnea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0162",
+    "category": "IM Cardio",
+    "q": "Stroke-like presentation in a patient with MI weeks ago per p20?",
+    "a": "Embolus from ventricular septal aneurysm (on a 2CK form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0163",
+    "category": "IM Cardio",
+    "q": "Most common cause of death due to MI per p20?",
+    "a": "Ventricular fibrillation (VF).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0164",
+    "category": "IM Cardio",
+    "q": "Post-MI fibrosis and Q waves per p20?",
+    "a": "Fibrosis in months to years after MI raises risk of arrhythmias (AF, SVT, VT); no specific one needs memorizing. Q waves mean old MI: fainting with Q waves in II, III, aVF and the answer is something like paroxysmal SVT; the point is history of MI means risk for nearly any arrhythmia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0165",
+    "category": "IM Cardio",
+    "q": "MI histology per p20?",
+    "a": "Coagulative necrosis of the myocardium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0166",
+    "category": "IM Cardio",
+    "q": "Cardiogenic shock hemodynamics from MI per p20?",
+    "a": "Decreased cardiac output, increased peripheral vascular resistance, increased PCWP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0167",
+    "category": "IM Cardio",
+    "q": "Kidney injury after MI with cardiogenic shock per p20?",
+    "a": "Acute tubular necrosis from acute drop in renal perfusion; not pre-renal (discussed in the renal section).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0168",
+    "category": "IM Cardio",
+    "q": "First MI drugs per p20?",
+    "a": "Aspirin first; next clopidogrel (ADP P2Y12 blocker) as dual antiplatelet therapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    },
+    "guideline": {
+      "text": "The 2025 ACC/AHA ACS guideline is the current reference; I could read only its title. A review of antithrombotic therapy for ACS exists. Source answer kept; I did not verify newer P2Y12 preferences.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001309"
+    }
+  },
+  {
+    "id": "s2med-0169",
+    "category": "IM Cardio",
+    "q": "Acute coronary syndrome (MI or unstable angina) per p20?",
+    "a": "Gets coronary catheterization (answer on the new 2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0170",
+    "category": "IM Cardio",
+    "q": "Nitrates in right heart MI per p20?",
+    "a": "Contraindicated, which includes inferior MI in most people (right coronary supplies the PDA): right-sided MIs are preload-dependent and need sufficient preload to maintain BP. Other MI management (beta-blockers, nitrates, morphine, oxygen, statin, PCI) is not assessed in detail.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    },
+    "guideline": {
+      "text": "StatPearls on RV MI: agents that cause venodilation, including nitrates and diuretics, should be avoided.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431048/"
+    }
+  },
+  {
+    "id": "s2med-0171",
+    "category": "IM Cardio",
+    "q": "PCI timing in STEMI per p20?",
+    "a": "PCI within 90 minutes of reaching hospital.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    },
+    "guideline": {
+      "text": "The 2013 ACCF/AHA STEMI guideline and 2025 ACS guideline are references; I did not verify wording.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/cir.0b013e3182742cf6"
+    }
+  },
+  {
+    "id": "s2med-0172",
+    "category": "IM Cardio",
+    "q": "Pericarditis ECG per p20?",
+    "a": "Diffuse ST elevations (all leads, not 3-4 contiguous leads as with MI); PR depressions can also be seen but USMLE does not care.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0173",
+    "category": "IM Cardio",
+    "q": "Pericarditis pain per p20?",
+    "a": "Worse lying back, better leaning forward; may walk in bent over at the waist.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0174",
+    "category": "IM Cardio",
+    "q": "Serous pericarditis causes per p20?",
+    "a": "Post-viral, autoimmune disease, or cocaine use. NBME: pericarditis plus a list of organism types, the answer is virus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 20,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2med-0175",
+    "category": "IM Cardio",
+    "q": "RA or SLE with a pericardial friction rub per p21?",
+    "a": "Do not be confused; patients with RA or SLE are notably at risk for pericarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2med-0176",
+    "category": "IM Cardio",
+    "q": "22-year-old man with chest pain after heavy partying and diffuse ST elevations per p21?",
+    "a": "Cocaine-related pericarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2med-0177",
+    "category": "IM Cardio",
+    "q": "Uremic pericarditis per p21?",
+    "a": "HY for 2CK: very high creatinine and BUN with a friction rub; treatment is hemodialysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    },
+    "guideline": {
+      "text": "StatPearls: most patients improve with intensified dialysis; some require pericardiocentesis or a pericardial window.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536920/"
+    }
+  },
+  {
+    "id": "s2med-0178",
+    "category": "IM Cardio",
+    "q": "Pericarditis treatment per p21?",
+    "a": "Same as acute gout: NSAIDs, colchicine, steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    },
+    "guideline": {
+      "text": "A pericarditis review and the 2025 ESC guideline on myocarditis and pericarditis exist; I did not verify wording, and steroids are generally second line in current guidance (I did not verify).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39235771/"
+    }
+  },
+  {
+    "id": "s2med-0179",
+    "category": "IM Cardio",
+    "q": "Fibrinous pericarditis after MI per p21?",
+    "a": "Two types: 1) 'post-MI fibrinous pericarditis': friction rub within days of MI; 2) Dressler syndrome: antibody-mediated, 2-6 weeks post-MI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    },
+    "guideline": {
+      "text": "StatPearls: Dressler symptoms typically start from 3 or 4 days to 2 to 6 weeks post-injury.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441988/"
+    }
+  },
+  {
+    "id": "s2med-0180",
+    "category": "IM Cardio",
+    "q": "Typical pericarditis, next best step in diagnosis per p21?",
+    "a": "Echocardiography, to look for a concomitant effusion (ECG is first step but may not be listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2med-0181",
+    "category": "IM Cardio",
+    "q": "Chronic constrictive pericarditis per p21 (USMLE yield)?",
+    "a": "A separate condition that does not present with standard pericarditis findings. Low yield, but students confuse it with tamponade.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2med-0182",
+    "category": "IM Cardio",
+    "q": "Two ways chronic constrictive pericarditis shows up per p21?",
+    "a": "1) Tuberculosis is a classic cause (calcification around the heart on imaging may or may not be present): TB plus impaired heart filling = chronic constrictive pericarditis. 2) Kussmaul sign: JVD with inspiration rather than expiration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    },
+    "guideline": {
+      "text": "A Circulation review on tuberculous pericarditis and a Kussmaul sign paper exist. I did not verify the details.",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.105.543066"
+    }
+  },
+  {
+    "id": "s2med-0183",
+    "category": "IM Cardio",
+    "q": "Why Kussmaul sign occurs in constriction but not tamponade per p21?",
+    "a": "Normally inspiration lowers intrathoracic pressure and pulls blood into the RA. With a rigid constricting pericardium the drop is not transmitted to the right heart, so JVP does not fall (and can rise). In tamponade the pericardium is filled with blood that can shift with respiration, allowing right heart expansion, so Kussmaul sign does not occur.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    },
+    "guideline": {
+      "text": "The source says 'likely' for this mechanism; I did not verify it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4929812/"
+    }
+  },
+  {
+    "id": "s2med-0184",
+    "category": "IM Cardio",
+    "q": "Cardiac tamponade definition per p21?",
+    "a": "Pericardial effusion + low blood pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2med-0185",
+    "category": "IM Cardio",
+    "q": "What determines tamponade per p21?",
+    "a": "The rate of fluid accumulation, not the volume: a stab wound or post-MI LV free-wall rupture can cause tamponade with a small volume; slow, large accumulation from cancer might not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2med-0186",
+    "category": "IM Cardio",
+    "q": "Beck triad per p21?",
+    "a": "1) Hypotension, 2) JVD, 3) muffled/distant heart sounds. Questions basically always give hypotension and JVD, sometimes not heart sounds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 21,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=21"
+    },
+    "guideline": {
+      "text": "A JAMA review on whether a patient with pericardial effusion has tamponade exists; I did not verify the Beck triad frequencies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17456823/"
+    }
   }
 ];

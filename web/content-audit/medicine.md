@@ -79,3 +79,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p19 (IM Cardio: VT treatment, PVC, SVT, STEMI) - 7 cards, ids s2med-0150 to 0156
 - Inspected page text and figures (PVC, SVT, inferior STEMI). Notes from 2015 ACC/AHA/HRS SVT guideline; carotid massage is the source's wording.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p20 (IM Cardio: MI localization, complications, treatment, pericarditis start) - 18 cards, ids s2med-0157 to 0174
+- Inspected page text; no figures. Expletive paraphrased out.
+- Source cautions: dual antiplatelet wording versus 2025 ACC/AHA ACS guideline (title only); PCI 90 minutes. Unverified: 85% right dominance, MR timing, VF as top cause of death, nitrate wording beyond RV MI, coagulative necrosis.
+
+## p21 (IM Cardio: pericarditis, constriction, tamponade start) - 12 cards, ids s2med-0175 to 0186
+- Inspected page text; no figures. Page ends mid-tamponade (pulsus paradoxus bullet carries to p22).
+- Source cautions: steroids for pericarditis (current guidance may differ; not verified); Kussmaul mechanism is the source's "likely" explanation.
+- Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.
