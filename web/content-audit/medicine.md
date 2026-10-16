@@ -200,3 +200,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figures (keratin pearls, cavitary squamous). Page ends mid-Pancoast sentence (continues p46).
 - Source conflicts: radon "nonsense in real life" (residential radon meta-analysis exists); Pancoast "C8 superior cervical ganglia" wording.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p46 (IM Pulmonary: Pancoast tail, carcinoid, mesothelioma, laryngeal) - 11 cards, ids s2med-0449 to 0459
+- Inspected page text and figure (mesothelioma gross). Two laryngeal papilloma images physically sit on p47 and are attached to the p46 papillomatosis cards. Page starts mid-Pancoast sentence.
+- Unverified: Pemberton wording, 5-HIAA step, calretinin, HOA adenocarcinoma claim.
+
+## p47 (IM Pulmonary: pneumoconioses) - 7 cards, ids s2med-0460 to 0466
+- Inspected page text and figure (ferruginous bodies).
+- Source wording kept: "silicon" for silica and "egg-shelf"; unverified: upper-lobe eggshell detail, macrophage as initiating cell.
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.

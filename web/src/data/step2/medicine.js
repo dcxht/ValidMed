@@ -5822,5 +5822,255 @@ export default [
       "text": "StatPearls on Pancoast syndrome is a reference; the source's 'C8 superior cervical ganglia' is loose wording (the sympathetic chain/stellate ganglion is involved), which I did not verify.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK482155/"
     }
+  },
+  {
+    "id": "s2med-0449",
+    "category": "IM Pulmonary",
+    "q": "Brachiocephalic syndrome and Pemberton sign per p46?",
+    "a": "Brachiocephalic syndrome: only the right side of the face/neck affected, due to impingement on venous return. A positive Pemberton sign is worsening of flushing and neck vein congestion when raising the arms above the head.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "StatPearls on Pancoast syndrome is a reference; I did not verify the Pemberton description.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482155/"
+    }
+  },
+  {
+    "id": "s2med-0450",
+    "category": "IM Pulmonary",
+    "q": "Lung cancer and migratory thrombophlebitis per p46?",
+    "a": "Can be associated with Trousseau sign of malignancy; not limited to head-of-pancreas cancer. Adenocarcinomas in general are associated with a hypercoagulable state; USMLE will not ask the mechanism, but tissue factor (factor III) liberation is a proposed etiology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2med-0451",
+    "category": "IM Pulmonary",
+    "q": "Hypertrophic osteoarthropathy per p46?",
+    "a": "Associated with lung cancer: clubbing + hand pain; mechanism is fibrovascular proliferation. Literature says lung adenocarcinoma is the most common cause, though not 100% specific.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "A paper links HOA in lung cancer to hypoxia-inducible factor-1 alpha and VEGF; I did not verify the 'adenocarcinoma most common' claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10175026/"
+    }
+  },
+  {
+    "id": "s2med-0452",
+    "category": "IM Pulmonary",
+    "q": "Large cell carcinoma per p46?",
+    "a": "Nonexistent on USMLE; the source has never seen it assessed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2med-0453",
+    "category": "IM Pulmonary",
+    "q": "Bronchogenic carcinoid tumor per p46?",
+    "a": "Pulmonary nodule secreting serotonin or serotonin-like derivatives, causing carcinoid syndrome (tachycardia, flushing, diarrhea). A neuroendocrine tumor; carcinoids are classically appendiceal and small bowel, but bronchogenic ones exist. USMLE wants urinary 5-HIAA as the initial diagnostic step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "A review on bronchopulmonary carcinoid is available; I did not verify the 5-HIAA step.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4524963/"
+    }
+  },
+  {
+    "id": "s2med-0454",
+    "category": "IM Pulmonary",
+    "q": "Mesothelioma per p46 (figure)?",
+    "a": "Cancer of 'mesothelial cells' (NBME answer) in patients with prior occupational asbestos exposure. Asbestosis occurs first, then mesothelioma years later. Shipyard and construction workers are buzzy. White tumor described as an 'encasing rind of pleural-based tumor'. Calretinin positive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    },
+    "img": "/mehlman/figures/med-p046-01.jpg",
+    "imgAlt": "Source figure p46: gross specimen with pleural-based tumor rind encasing the lung",
+    "guideline": {
+      "text": "The 2023 IMIG consensus statement on pathologic diagnosis of mesothelioma exists; I did not verify calretinin in its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38586983/"
+    }
+  },
+  {
+    "id": "s2med-0455",
+    "category": "IM Pulmonary",
+    "q": "Asbestosis findings per p46?",
+    "a": "Pleural or supradiaphragmatic plaques ('soft tissue plaques seen on CXR'); pulmonary biopsy shows ferruginous bodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    },
+    "guideline": {
+      "text": "A CAP/PPS update on the pathology of asbestosis exists.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20196674/"
+    }
+  },
+  {
+    "id": "s2med-0456",
+    "category": "IM Pulmonary",
+    "q": "Nasopharyngeal carcinoma per p46?",
+    "a": "Can be caused by EBV; a type of squamous cell carcinoma of the airway.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2med-0457",
+    "category": "IM Pulmonary",
+    "q": "Laryngeal cancer per p46?",
+    "a": "Squamous cell carcinoma of the vocal cords; smoking is the major risk factor. A new NBME Q wants you to know it spreads to cervical lymph nodes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2med-0458",
+    "category": "IM Pulmonary",
+    "q": "Laryngeal papillomatosis per p46 (figures on p47)?",
+    "a": "Pediatric condition with warts of the vocal cords; lesions show papillary structures on biopsy; due to HPV 6/11 exposure from the maternal vaginal canal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    },
+    "img": "/mehlman/figures/med-p047-01.jpg",
+    "imgAlt": "Source figure (appears on p47): wart-like papillomas on the vocal cords",
+    "guideline": {
+      "text": "StatPearls on laryngeal papillomas is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562327/"
+    }
+  },
+  {
+    "id": "s2med-0459",
+    "category": "IM Pulmonary",
+    "q": "Histology of laryngeal papillomatosis per p46 (figure on p47)?",
+    "a": "Papillary structures with fibrovascular cores on biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 46,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=46"
+    },
+    "img": "/mehlman/figures/med-p047-02.jpg",
+    "imgAlt": "Source figure (appears on p47): biopsy with papillary squamous fronds"
+  },
+  {
+    "id": "s2med-0460",
+    "category": "IM Pulmonary",
+    "q": "Asbestosis occupational exposure per p47?",
+    "a": "Shipyard workers, construction workers and electricians; can give rise to mesothelioma later in life.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2med-0461",
+    "category": "IM Pulmonary",
+    "q": "Ferruginous body per p47 (figure)?",
+    "a": "The ferruginous body is dumbbell-shaped. Choose macrophage as the answer for the cell that initiates pulmonary fibrosis (in response to asbestos and in general). Asbestosis causes a restrictive pattern.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=47"
+    },
+    "img": "/mehlman/figures/med-p047-03.jpg",
+    "imgAlt": "Source figure p47: dumbbell-shaped golden-brown ferruginous bodies",
+    "guideline": {
+      "text": "A CAP/PPS update on asbestosis pathology exists.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20196674/"
+    }
+  },
+  {
+    "id": "s2med-0462",
+    "category": "IM Pulmonary",
+    "q": "Berylliosis per p47?",
+    "a": "Occupational exposure to beryllium in the aerospace/aeronautical industry; restrictive lung pattern; can cause granulomas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=47"
+    },
+    "guideline": {
+      "text": "StatPearls on berylliosis is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470364/"
+    }
+  },
+  {
+    "id": "s2med-0463",
+    "category": "IM Pulmonary",
+    "q": "Silicosis exposure and findings per p47?",
+    "a": "Silica (sand) in foundry or stone quarry workers (the source says 'silicon'). Can cause egg-shell calcifications in upper lobes ('egg-shelf' in the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=47"
+    },
+    "guideline": {
+      "text": "Systematic review of silica, silicosis and tuberculosis exists; I did not verify the upper lobe or eggshell detail.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8136154/"
+    }
+  },
+  {
+    "id": "s2med-0464",
+    "category": "IM Pulmonary",
+    "q": "Silicosis and tuberculosis per p47?",
+    "a": "Increases risk of TB infection. Avoid anti-TNF-alpha agents (infliximab, adalimumab, etanercept) in these patients due to increased TB risk (TNF-alpha is needed to fight TB).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=47"
+    },
+    "guideline": {
+      "text": "A case report of accelerated silicosis on TNF-alpha inhibitor therapy exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4970307/"
+    }
+  },
+  {
+    "id": "s2med-0465",
+    "category": "IM Pulmonary",
+    "q": "Anthracosis per p47?",
+    "a": "Aka 'coal miner's lung'; black discoloration of the lung; can be obstructive or restrictive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2med-0466",
+    "category": "IM Pulmonary",
+    "q": "Caplan syndrome per p47?",
+    "a": "Rheumatoid arthritis + any pneumoconiosis, presenting as pulmonary nodules. Clinically, patients with RA are at increased risk of pneumoconioses if they have a workplace exposure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 47,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=47"
+    },
+    "guideline": {
+      "text": "StatPearls on Caplan syndrome is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499886/"
+    }
   }
 ];
