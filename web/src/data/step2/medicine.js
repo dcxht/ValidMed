@@ -45227,5 +45227,594 @@ export default [
       "text": "A paper on diagnosing Lynch syndrome is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7865821/"
     }
+  },
+  {
+    "id": "s2med-3372",
+    "category": "IM Gen Path",
+    "q": "PMS2 per p340 (continued from p339)?",
+    "a": "Colonic polyps/cancer; also associated with gynecologic cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A paper on diagnosing Lynch syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7865821/"
+    }
+  },
+  {
+    "id": "s2med-3373",
+    "category": "IM Gen Path",
+    "q": "NF1 gene per p340?",
+    "a": "Neurofibromatosis type I; chromosome 17; AD. Cafe au lait spots, axillary/groin freckling, neurofibromas (nerve sheath tumors presenting as nodules under the skin), CNS tumors (oligodendroglioma, ependymoma, meningioma), optic glioma (CN II tumor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A consensus on NF1 diagnostic criteria is linked (title only). I did not verify the CNS tumor list.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354850/"
+    }
+  },
+  {
+    "id": "s2med-3374",
+    "category": "IM Gen Path",
+    "q": "Variable expressivity per p340?",
+    "a": "NF1 is the classic example of variable expressivity: varying disease severity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    }
+  },
+  {
+    "id": "s2med-3375",
+    "category": "IM Gen Path",
+    "q": "NF2 gene per p340?",
+    "a": "Neurofibromatosis type II; chromosome 22; AD. Presents with acoustic schwannoma (can be bilateral) and meningioma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A paper on NF2 diagnostic criteria is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11374461/"
+    }
+  },
+  {
+    "id": "s2med-3376",
+    "category": "IM Gen Path",
+    "q": "RB gene per p340?",
+    "a": "Congenital retinoblastoma (leukocoria in a 1-year-old) and osteosarcoma. Tumor-suppressor gene; AD (two hits are required, but the chance of a second mutation is 100%, so AD not AR).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    }
+  },
+  {
+    "id": "s2med-3377",
+    "category": "IM Gen Path",
+    "q": "RB protein function per p340?",
+    "a": "RB is normally complexed with the transcription factor E2F, repressing it and preventing cell cycle progression. CDK/Cyclin complexes phosphorylate RB, releasing E2F, which goes to the nucleus and transcribes genes for cell cycle progression. NBME wants you to know 'decreased RB phosphorylation' is the wrong answer for what to expect in cancer cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A paper on RB regulation by G1 CDK complexes is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC87164/"
+    }
+  },
+  {
+    "id": "s2med-3378",
+    "category": "IM Gen Path",
+    "q": "RET per p340?",
+    "a": "Proto-oncogene for MEN 2A/2B. Both have pheochromocytoma and medullary thyroid carcinoma. MEN 2A has parathyroid adenoma or hyperplasia (same as MEN 1). MEN 2B has Marfanoid body habitus and/or mucosal neuromas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A paper on genotype/phenotype in MEN2 is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39404342/"
+    }
+  },
+  {
+    "id": "s2med-3379",
+    "category": "IM Gen Path",
+    "q": "RET on NBME per p340?",
+    "a": "NBME questions need not give all findings. One gives medullary thyroid carcinoma alone and the answer is RET; another gives groin pain (urolithiasis from hypercalcemia) plus a neck tumor and the answer is RET.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    }
+  },
+  {
+    "id": "s2med-3380",
+    "category": "IM Gen Path",
+    "q": "TP53 per p340?",
+    "a": "Codes for the p53 tumor-suppressor protein, which halts the cell cycle in cellular damage so DNA repair can occur. Li-Fraumeni syndrome = congenital TP53 mutation leading to cancers of various organ systems. High-yield NBME answer for the gene mutated in metastasized cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on Li-Fraumeni syndrome is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1311/"
+    }
+  },
+  {
+    "id": "s2med-3381",
+    "category": "IM Gen Path",
+    "q": "Pleiotropy per p340?",
+    "a": "One gene has multiple effects; TP53 is the textbook example, since a mutation can cause many unrelated cancers (pancreatic, ovarian, colon, etc.).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    }
+  },
+  {
+    "id": "s2med-3382",
+    "category": "IM Gen Path",
+    "q": "TSC1/2 per p340?",
+    "a": "Autosomal dominant; hamartin and tuberin proteins. Intellectual disability; periventricular nodules (tubers); adenoma sebaceum (angiofibromas: skin-colored/reddish papules on cheeks, nose, nasolabial folds); subungual fibromas; cardiac rhabdomyoma; renal angiomyolipoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "International TSC diagnostic criteria are linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34399110/"
+    }
+  },
+  {
+    "id": "s2med-3383",
+    "category": "IM Gen Path",
+    "q": "Cardiac rhabdomyoma murmur per p340?",
+    "a": "The source describes a ball-in-valve murmur presenting as a diastolic rumble that attenuates with change of positioning.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    }
+  },
+  {
+    "id": "s2med-3384",
+    "category": "IM Gen Path",
+    "q": "VHL gene per p340?",
+    "a": "Autosomal dominant; chromosome 3. Renal cell carcinoma plus retinal and/or cerebellar hemangioblastomas. Pancreatic cysts can also be seen (on NBME). The RCC need not be bilateral; don't confuse with angiomyolipoma of TSC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A review of VHL disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12062539/"
+    }
+  },
+  {
+    "id": "s2med-3385",
+    "category": "IM Gen Path",
+    "q": "VHL NBME image per p340?",
+    "a": "A new NBME question shows a gross kidney lesion plus cerebellar hemangioblastoma and retinal angioma; the lesion is 'renal adenocarcinoma'; angioma is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    }
+  },
+  {
+    "id": "s2med-3386",
+    "category": "IM Gen Path",
+    "q": "WT1 per p340?",
+    "a": "Can be isolated Wilms tumor; almost always the answer for a kidney tumor in a kid; painless flank mass at 2-4 years. Also part of syndromes: Denys-Drash = gonadal agenesis plus Wilms tumor; WAGR = Wilms tumor, Aniridia, Genitourinary abnormalities, intellectual disability (the source's original last term is an outdated word).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on WAGR spectrum disorder is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK621298/"
+    }
+  },
+  {
+    "id": "s2med-3387",
+    "category": "IM Gen Path",
+    "q": "Beckwith-Wiedemann per p340?",
+    "a": "Fetal macrosomia, macroglossia, hemihypertrophy, hypoglycemia, and Wilms tumor. A harder 2CK question gives a big baby with hemihypertrophy without mentioning Wilms tumor and asks what else could be seen: hypoglycemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 340,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=340"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on Beckwith-Wiedemann syndrome is linked (title only). The source lists WT1 with this syndrome; I did not verify that gene link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1394/"
+    }
+  },
+  {
+    "id": "s2med-3388",
+    "category": "IM Gen Path",
+    "q": "ATP7B per p341?",
+    "a": "Wilson disease; autosomal recessive; chromosome 13. Copper overload from inability to secrete copper into bile from the liver. Increased urinary copper and decreased serum ceruloplasmin (the copper-binding protein in blood).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "A paper on biochemical diagnosis of Wilson's disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10197364/"
+    }
+  },
+  {
+    "id": "s2med-3389",
+    "category": "IM Gen Path",
+    "q": "Wilson disease eye finding per p341?",
+    "a": "Kayser-Fleischer rings (the source spells 'Keiser-Fleischer'): copper deposited in the cornea; a buzzy/pass-level detail. A vignette that sounds like Wilson disease may have 'slit-lamp exam' as the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10197364/"
+    }
+  },
+  {
+    "id": "s2med-3390",
+    "category": "IM Gen Path",
+    "q": "Wilson disease organ effects per p341?",
+    "a": "Increased LFTs with cirrhosis, hemolytic anemia, and parkinsonism. Copper deposits in the basal ganglia, especially the putamen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    }
+  },
+  {
+    "id": "s2med-3391",
+    "category": "IM Gen Path",
+    "q": "Parkinsonism by age per p341?",
+    "a": "Parkinsonism in a young patient = Wilson until proven otherwise. In an old patient: Parkinson disease, normal pressure hydrocephalus, Lewy body dementia, or progressive supranuclear palsy. Wilson Tx: the copper chelator penicillamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    }
+  },
+  {
+    "id": "s2med-3392",
+    "category": "IM Gen Path",
+    "q": "CFTR per p341?",
+    "a": "Cystic fibrosis; chromosome 7; AR. Codes for a chloride channel that is normally at the cell surface; when mutated, it remains sequestered in the rough endoplasmic reticulum. 'Abnormal protein folding' is the NBME answer for the result of CFTR mutations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "A StatPearls page on sweat testing is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK547728/"
+    }
+  },
+  {
+    "id": "s2med-3393",
+    "category": "IM Gen Path",
+    "q": "CF delta F508 per p341?",
+    "a": "Delta F508 is the most common mutation: deletion of phenylalanine 508. CF is the textbook example of allelic heterogeneity (many mutations cause the same disease), so most genotyping panels lack sensitivity; a sweat chloride test over 60 mEq/L is the most diagnostic. A nasal test showing increased potential difference can also be done.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "The sweat test page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK547728/"
+    }
+  },
+  {
+    "id": "s2med-3394",
+    "category": "IM Gen Path",
+    "q": "CF presentation per p341?",
+    "a": "A child with a chronic history of lung infections (Pseudomonas exceeds S. aureus after age 10). Inspissated (dried up) secretions in the alveoli and pancreatic ducts make them sticky, leading to exocrine pancreatic insufficiency and fat-soluble vitamin malabsorption.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    }
+  },
+  {
+    "id": "s2med-3395",
+    "category": "IM Gen Path",
+    "q": "CF vitamin E per p341?",
+    "a": "NBME exams love vitamin E deficiency in CF in particular (presents as neuropathy). Meconium ileus at birth is buzzy, but often not mentioned.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "A paper on vitamin E deficiency and neurologic function is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3171788/"
+    }
+  },
+  {
+    "id": "s2med-3396",
+    "category": "IM Gen Path",
+    "q": "AR carrier risk per p341?",
+    "a": "Phenotypically normal siblings of affected children have a 2/3 chance of being carriers (true for any AR disorder).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    }
+  },
+  {
+    "id": "s2med-3397",
+    "category": "IM Gen Path",
+    "q": "CF modulators per p341?",
+    "a": "Ivacaftor/lumacaftor are newer treatments: potentiators/correctors that improve the Cl- channel's structure, location, and function.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "A review of CFTR modulators is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36535667/"
+    }
+  },
+  {
+    "id": "s2med-3398",
+    "category": "IM Gen Path",
+    "q": "DMD gene per p341?",
+    "a": "XR disorder from a dystrophin mutation, disrupting alpha-/beta-dystroglycan, which anchors the muscle cell cytoskeleton to the extracellular matrix. Pseudohypertrophy (fibroadipose replacement). Duchenne: young boy using the Gower maneuver. Becker: adolescence or young adulthood, less severe. Duchenne is classically frameshift; Becker is not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "A page on Duchenne muscular dystrophy is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482346/"
+    }
+  },
+  {
+    "id": "s2med-3399",
+    "category": "IM Gen Path",
+    "q": "FBN1/2 per p341?",
+    "a": "Marfan syndrome; AD; chromosome 15. Fibrillin forms a sheath around elastin. Tall, lanky habitus, pectus excavatum or carinatum, pes planus, scoliosis, mitral valve prolapse (mid-systolic click), aortic dissection risk (retrograde to the root, causing root dilatation and aortic regurgitation with a decrescendo diastolic murmur). Not associated with berry aneurysms, per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    },
+    "guideline": {
+      "text": "A review of cardiovascular findings in Marfan syndrome is linked (title only). I did not verify the berry aneurysm claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8411824/"
+    }
+  },
+  {
+    "id": "s2med-3400",
+    "category": "IM Gen Path",
+    "q": "FMR1 per p341?",
+    "a": "Fragile X; X-linked; CGG trinucleotide repeat expansion. Results in hypermethylation of the gene and transcriptional silencing (continues on p342).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 341,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=341"
+    }
+  },
+  {
+    "id": "s2med-3401",
+    "category": "IM Gen Path",
+    "q": "Fragile X presentation per p342 (continued from p341)?",
+    "a": "A boy with large, everted ears; long, narrow jaw; macroorchidism; and intellectual disability. Can sometimes be symptomatic in females with skewed X-inactivation (lyonization).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "A paper on macroorchidism in FMR1 carriers is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4332881/"
+    }
+  },
+  {
+    "id": "s2med-3402",
+    "category": "IM Gen Path",
+    "q": "FXN per p342?",
+    "a": "Friedreich ataxia; frataxin gene; GAA trinucleotide repeat expansion. Ataxia, scoliosis, cardiomyopathy, and decreased reflexes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on Friedreich ataxia is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1281/"
+    }
+  },
+  {
+    "id": "s2med-3403",
+    "category": "IM Gen Path",
+    "q": "G6PD per p342?",
+    "a": "X-linked recessive. A boy with hemolysis leading to jaundice (unconjugated hyperbilirubinemia) after an oxidizing drug (e.g., sulfa, dapsone, primaquine). Heinz bodies (denatured hemoglobin) and bite cells (partially phagocytosed RBCs after Heinz body removal).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "A review of drug-induced hemolysis in G6PD deficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12343164/"
+    }
+  },
+  {
+    "id": "s2med-3404",
+    "category": "IM Gen Path",
+    "q": "HFE hemochromatosis per p342?",
+    "a": "Autosomal recessive; chromosome 6. Iron overload. The mechanism USMLE wants: 'increased intestinal iron absorption'. The body excretes iron poorly (menses in women, minor skin losses); main regulation is shutting off intestinal absorption, which is impaired. Usually presents in adulthood in males first.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "Guidelines on hemochromatosis are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10224841/"
+    }
+  },
+  {
+    "id": "s2med-3405",
+    "category": "IM Gen Path",
+    "q": "Hemochromatosis findings per p342?",
+    "a": "'Bronze diabetes': hyperpigmentation from hemosiderin in skin plus high fasting sugars (iron in the pancreatic tail). Also infertility (iron in hypothalamus, anterior pituitary, or gonads), cardiomyopathy, arthritis (pseudogout).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "The same guidelines are linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10224841/"
+    }
+  },
+  {
+    "id": "s2med-3406",
+    "category": "IM Gen Path",
+    "q": "Pseudogout causes per p342?",
+    "a": "Hereditary hemochromatosis, primary hyperparathyroidism, and hypothyroidism are the 3 most important causes; hypothyroidism appears on a new 2CK NBME exam mentioning chondrocalcinosis (calcium deposition in cartilage).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "A paper on diseases associated with CPPD is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1295092/"
+    }
+  },
+  {
+    "id": "s2med-3407",
+    "category": "IM Gen Path",
+    "q": "Hemochromatosis cancer risk per p342?",
+    "a": "Increased risk of hepatocellular carcinoma. An easy NBME question asks what the patient is at increased risk for, and the answer is simply 'hepatocellular carcinoma'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    }
+  },
+  {
+    "id": "s2med-3408",
+    "category": "IM Gen Path",
+    "q": "Hemochromatosis diagnosis per p342?",
+    "a": "Ferritin >300 mg/dL (the source's unit); transferrin saturation also clearly increased. Rarely >300 in other conditions, but can occur in lymphoma and leukemia, where high ferritin is a poor prognostic marker in non-Hodgkin lymphoma. One 2CK question has ferritin 300 that is not hemochromatosis, but the source says USMLE won't play gotcha.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "The guidelines are linked on an earlier card. I did not verify the ferritin unit or cutoff; kept as the source states them.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10224841/"
+    }
+  },
+  {
+    "id": "s2med-3409",
+    "category": "IM Gen Path",
+    "q": "Hemochromatosis Tx per p342?",
+    "a": "Serial phlebotomy, not chelators. Chelators such as deferoxamine or deferasirox are for secondary hemochromatosis from transfusional siderosis (repeated transfusions, e.g., beta-thalassemia major).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "The same guidelines are linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10224841/"
+    }
+  },
+  {
+    "id": "s2med-3410",
+    "category": "IM Gen Path",
+    "q": "HTT per p342?",
+    "a": "Huntington disease; AD; CAG trinucleotide repeat expansion on chromosome 4. Cognitive decline and choreoathetosis, usually in the 30s-40s. Chorea = fast, purposeless, jerky movements. Athetosis = slow, writhing movements (source wrote 'writing').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "A paper on striatal atrophy and CAG repeat length in Huntington's is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16906288/"
+    }
+  },
+  {
+    "id": "s2med-3411",
+    "category": "IM Gen Path",
+    "q": "Anticipation per p342?",
+    "a": "Trinucleotide repeat disorders show anticipation: more severe and earlier onset each generation from further repeat expansion; e.g., a 40-year-old whose parent had similar symptoms in their 50s. If asked which part of the brain is affected in Huntington, choose the caudate nucleus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    }
+  },
+  {
+    "id": "s2med-3412",
+    "category": "IM Gen Path",
+    "q": "NFKB1/2 per p342?",
+    "a": "Codes for the NF-kB protein, involved in many cell-signaling processes. A repeated NBME question wants 'IkB releases NF-kB after undergoing phosphorylation'. NF-kB then goes to the nucleus to upregulate transcription of 150+ genes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    }
+  },
+  {
+    "id": "s2med-3413",
+    "category": "IM Gen Path",
+    "q": "Glucocorticoids and NF-kB per p342?",
+    "a": "Glucocorticoids (e.g., prednisone) partially exert immunosuppressive effects by inhibiting NF-kB-mediated gene expression.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "A paper on glucocorticoid inhibition of NF-kB is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7569976/"
+    }
+  },
+  {
+    "id": "s2med-3414",
+    "category": "IM Gen Path",
+    "q": "PKD1/2 per p342?",
+    "a": "Autosomal dominant polycystic kidney disease. The answer on USMLE if the disease starts in adulthood (30s-40s). Cysts are technically present early in life, but become clinical in adulthood (high BP and rising creatinine).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 342,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=342"
+    },
+    "guideline": {
+      "text": "A StatPearls page on ADPKD is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532934/"
+    }
   }
 ];

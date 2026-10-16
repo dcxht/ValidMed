@@ -1171,3 +1171,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - KRAS-first mutation order differs from usual APC-first sequence; caution added.
 - PV stem-cell wording unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 27 cards ox=false off=false bad=0.
+
+## p340 (cancer genes PMS2 to WT1) - 16 cards, ids s2med-3372 to 3387
+- Cardiac rhabdomyoma murmur description, WT1/Beckwith-Wiedemann gene link unverified. "Retardation" in WAGR paraphrased.
+
+## p341 (Other HY genes: ATP7B to FMR1) - 13 cards, ids s2med-3388 to 3400
+- Berry aneurysm claim in Marfan unverified. FMR1 card carries a title-only link note without a URL key.
+
+## p342 (FMR1 end to PKD) - 14 cards, ids s2med-3401 to 3414
+- Ferritin ">300 mg/dL" unit/cutoff unverified. Expletive paraphrased (caudate).
+- Mobile QA (320x740, local vite preview build, not live): all 43 cards ox=false off=false bad=0.
