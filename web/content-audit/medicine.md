@@ -973,3 +973,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p278 (neurotoxic drugs cont.) - 6 cards, ids s2med-2780 to 2785
 - Digoxin "optic neuritis" per source flagged; sildenafil pilot 3-hour rule unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 35 cards ox=false off=false bad=0.
+
+## p279 (psych: depressive disorders) - 7 cards, ids s2med-2786 to 2792
+- Source exam claims on MDD criteria not verified.
+## p280 (bipolar, psychotic disorders) - 8 cards, ids s2med-2793 to 2800
+- Lithium causing serotonin syndrome and "hallucinations always auditory" not verified.
+## p281 (commonly confused psychosis conditions, delusional disorder; figure) - 5 cards, ids s2med-2801 to 2805
+## p282 (anxiety disorders, PTSD) - 12 cards, ids s2med-2806 to 2817
+- Panic disorder benzo answer and social phobia beta-blocker first-line differ from current guideline preference (SSRI/CBT); source answers kept with caution notes. "Adjustment disorder" heading carries to p283.
+- Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.

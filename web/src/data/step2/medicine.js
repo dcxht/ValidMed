@@ -36861,5 +36861,447 @@ export default [
       "page": 278,
       "url": "/mehlman/hy-internal-medicine.pdf#page=278"
     }
+  },
+  {
+    "id": "s2med-2786",
+    "category": "IM Psych",
+    "q": "MDD criteria per p279?",
+    "a": "At least 5 out of 9 SIGECAPS symptoms must be present for at least a 2-week period: Sleep disturbance (insomnia or hypersomnia), Interest loss, Guilt/worthlessness, Energy loss, Concentration problems, Appetite changes (usually weight loss, sometimes gain), Psychomotor agitation or slowing, Suicidal ideation. Symptoms must cause socio-occupational impairment and not be attributed to a substance or another medical condition.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=279"
+    },
+    "guideline": {
+      "text": "DSM-5-TR criteria for major depressive disorder are linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK617010/box/ch7.box189/?report=objectonly"
+    }
+  },
+  {
+    "id": "s2med-2787",
+    "category": "IM Psych",
+    "q": "MDD on USMLE per p279?",
+    "a": "The source says USMLE does not actually care about counting 5/9: an elderly male who is quiet, teary-eyed and has weight loss is just depression. Weight loss is one of the most buzzy indicators in a psych vignette that MDD is likely the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2med-2788",
+    "category": "IM Psych",
+    "q": "MDD features and Tx per p279?",
+    "a": "Terminal insomnia (waking too early) can be seen. Can cause decreased libido, but the patient still has nocturnal erections (asked on NBME). Can be caused by beta-blockers (propranolol; asked on NBME). Tx is SSRIs, CBT, and occasionally ECT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=279"
+    },
+    "guideline": {
+      "text": "A case-control study of beta-blockers and depression risk is linked (title only); I did not verify what it concludes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8857000/"
+    }
+  },
+  {
+    "id": "s2med-2789",
+    "category": "IM Psych",
+    "q": "Depression due to a medical condition per p279?",
+    "a": "Hypothyroidism is an important cause of low mood and apathy. USMLE likes post-MI and cancer diagnoses as causes of depression. A teary-eyed post-MI patient with weight loss: the NBME answer is just sertraline (an SSRI).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=279"
+    }
+  },
+  {
+    "id": "s2med-2790",
+    "category": "IM Psych",
+    "q": "Atypical depression per p279?",
+    "a": "Hypersomnolence plus hyperphagia in depression that is reactive and ameliorates when positive circumstances occur ('mood reactivity'), which distinguishes it from other depression where mood stays persistently low. Tx = CBT, SSRIs, or MAOIs. MAOIs are highly efficacious but not first-line because of serotonin syndrome risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=279"
+    },
+    "guideline": {
+      "text": "A paper on Columbia atypical depression and MAOI response is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8217065/"
+    }
+  },
+  {
+    "id": "s2med-2791",
+    "category": "IM Psych",
+    "q": "Pseudodementia per p279?",
+    "a": "Not actual dementia: depression that presents as cognitive decline, usually in the elderly. Depressed patients with apathy perform poorly on the MMSE. The Q might say the patient cannot draw a clockface but can finish it quickly when prompted, or recalls 0 of 3 objects after 5 minutes. Look for obvious depression signs (short, quiet answers, low mood).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=279"
+    },
+    "guideline": {
+      "text": "A paper on the dementia syndrome of depression is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475928/"
+    }
+  },
+  {
+    "id": "s2med-2792",
+    "category": "IM Psych",
+    "q": "Dysthymia vs cyclothymia per p279?",
+    "a": "Dysthymia: at least 2 years of depressed mood without fulfilling MDD criteria. Cyclothymia: at least 2 years of oscillation between depressed mood and hypomania.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 279,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=279"
+    },
+    "guideline": {
+      "text": "A DSM-5 comparison table for persistent depressive disorder is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519712/table/ch3.t6/"
+    }
+  },
+  {
+    "id": "s2med-2793",
+    "category": "IM Psych",
+    "q": "DIGFAST per p280?",
+    "a": "Mnemonic for mania/hypomania: Distractibility, Impulsivity (shopping sprees, reckless driving), Grandiosity, Flight of ideas, Activity increase (goal-directed activity, sexual activity, psychomotor agitation), Sleep deficit (decreased need), Talkativeness (pressured speech).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2med-2794",
+    "category": "IM Psych",
+    "q": "Mania per p280?",
+    "a": "State of intensely elevated, expansive, or irritable mood, often with marked impairment in judgment. Usually lasts longer than a week and causes socio-occupational dysfunction (e.g., a dentist who can't go to work). Can cause psychotic features and require hospitalization. Increased risk of suicide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    },
+    "guideline": {
+      "text": "A DSM-5 comparison table for manic episode criteria is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519712/table/ch3.t7/"
+    }
+  },
+  {
+    "id": "s2med-2795",
+    "category": "IM Psych",
+    "q": "Hypomania per p280?",
+    "a": "Usually lasts longer than 4 days and does not cause socio-occupational dysfunction (e.g., the dentist maintains the job with no issues). No psychotic features and does not require hospitalization.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    }
+  },
+  {
+    "id": "s2med-2796",
+    "category": "IM Psych",
+    "q": "Bipolar I vs II per p280?",
+    "a": "Bipolar I: at least one manic episode, with or without a depressive episode. Bipolar II: at least one hypomanic episode plus at least one major depressive episode, and never a full-blown manic episode. The depressive episode is required because hypomania may be part of cyclothymia if the patient has only had depressed mood without a full depressive episode.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    },
+    "guideline": {
+      "text": "A StatPearls page on bipolar disorder is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
+    }
+  },
+  {
+    "id": "s2med-2797",
+    "category": "IM Psych",
+    "q": "Bipolar disorder Tx and lithium per p280?",
+    "a": "Treatment on USMLE is lithium or valproic acid. Lithium can cause nephrogenic DI, hypothyroidism and tremor, and is a teratogen (Ebstein anomaly). The source notes a new 2CK NBME has lithium causing serotonin syndrome (very unusual, but asked).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    },
+    "guideline": {
+      "text": "A StatPearls page on lithium is linked; I did not verify the wording. I did not verify the serotonin syndrome claim.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519062/"
+    }
+  },
+  {
+    "id": "s2med-2798",
+    "category": "IM Psych",
+    "q": "Valproic acid in bipolar per p280?",
+    "a": "Causes neural tube defects (interference with folate metabolism), tremor and hepatotoxicity. If the Q gives increased LFTs plus tremor, choose valproic acid over lithium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    },
+    "guideline": {
+      "text": "A meta-analysis of valproic acid tremor is linked (title only); I did not verify the folate mechanism.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7769765/"
+    }
+  },
+  {
+    "id": "s2med-2799",
+    "category": "IM Psych",
+    "q": "Schizophrenia criteria per p280?",
+    "a": "Four points: (1) at least 6 months; (2) two or more of hallucinations (always auditory on USMLE), delusions (can be bizarre: demons, aliens, 'the lord'), disorganized speech, disorganized or catatonic behavior, negative symptoms (blunted affect, anhedonia, diminished speech); (3) socio-occupational dysfunction; (4) not attributed to a mood disorder, substance use, or another medical condition.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    },
+    "guideline": {
+      "text": "Diagnostic criteria for schizophrenia are linked (title only). Caution: the 'always auditory' statement is the source's exam observation; I did not verify it.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK571021/box/ch4.b31/?report=objectonly"
+    }
+  },
+  {
+    "id": "s2med-2800",
+    "category": "IM Psych",
+    "q": "Schizophreniform vs brief psychotic disorder per p280?",
+    "a": "Schizophreniform: same as schizophrenia but 1-6 months in duration. Brief psychotic disorder: same but less than 1 month.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 280,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=280"
+    },
+    "guideline": {
+      "text": "A DSM-5 table on psychotic disorders is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t20/"
+    }
+  },
+  {
+    "id": "s2med-2801",
+    "category": "IM Psych",
+    "q": "Schizoaffective disorder per p281?",
+    "a": "At least two weeks of psychosis without a mood disorder, followed by periods of simultaneous psychotic and mood disorder. Example: a college student hearing voices for 6 weeks who has been up all night for the past month (4 weeks of mania/hypomania plus at least 2 weeks of psychosis alone). Psychosis is the baseline ('schizo'), and the mood disorder spikes on top.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=281"
+    },
+    "img": "/mehlman/figures/med-p281-01.jpg",
+    "imgAlt": "Source figure: baselines and spikes for schizoaffective disorder, depression with psychotic features, and bipolar with psychotic features",
+    "guideline": {
+      "text": "A review of schizoaffective disorder is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK541012/"
+    }
+  },
+  {
+    "id": "s2med-2802",
+    "category": "IM Psych",
+    "q": "Depression with psychotic features per p281?",
+    "a": "Depression, rather than psychosis, is the baseline. The patient has periods with major depression only, and psychosis periodically spikes on top.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=281"
+    },
+    "img": "/mehlman/figures/med-p281-01.jpg",
+    "imgAlt": "Source figure: baselines and spikes for schizoaffective disorder, depression with psychotic features, and bipolar with psychotic features"
+  },
+  {
+    "id": "s2med-2803",
+    "category": "IM Psych",
+    "q": "Bipolar with psychotic features per p281?",
+    "a": "Bipolar is the baseline: periods of depression or mania alone, with psychosis spiking on top. Periods of mania alone followed by simultaneous psychosis make the diagnosis easier. Depression alone followed by psychosis can look like depression with psychotic features, but the patient has a history of at least one manic episode.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=281"
+    },
+    "img": "/mehlman/figures/med-p281-01.jpg",
+    "imgAlt": "Source figure: baselines and spikes for schizoaffective disorder, depression with psychotic features, and bipolar with psychotic features"
+  },
+  {
+    "id": "s2med-2804",
+    "category": "IM Psych",
+    "q": "Delusional disorder per p281?",
+    "a": "One or more non-bizarre delusions without other signs of psychosis. Non-bizarre means potentially plausible but untrue (e.g., coworkers stealing from or undermining you); bizarre on USMLE involves aliens, demons, the heavens, the lord. Behavior and thinking apart from the delusion tend to be normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=281"
+    }
+  },
+  {
+    "id": "s2med-2805",
+    "category": "IM Psych",
+    "q": "Delusional disorder Tx per p281?",
+    "a": "CBT, anti-psychotics (e.g., risperidone), mood stabilizers (lithium), and/or anti-depressants (SSRIs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 281,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=281"
+    },
+    "guideline": {
+      "text": "A systematic review of pharmacological treatment of delusional disorder is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27811554/"
+    }
+  },
+  {
+    "id": "s2med-2806",
+    "category": "IM Psych",
+    "q": "GAD per p282?",
+    "a": "6+ months of excessive, persistent worry about various aspects of life, often with restlessness, fatigue and muscle tension. USMLE might give a 40-year-old woman worried about many things (son going to college, work, marriage). Can coexist with a mood or psychotic disorder (e.g., 'GAD with comorbid MDD').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2med-2807",
+    "category": "IM Psych",
+    "q": "GAD Tx per p282?",
+    "a": "CBT and SSRIs. Buspirone (serotonin receptor agonist) can also be used.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "A meta-analysis of GAD treatments is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC7063818/"
+    }
+  },
+  {
+    "id": "s2med-2808",
+    "category": "IM Psych",
+    "q": "Panic disorder diagnosis per p282?",
+    "a": "2 or more panic attacks plus at least one month of worry about having more attacks. A panic attack is an episode of intense fear with severe physical reactions despite no real danger. USMLE usually gives hyperventilation with a feeling of dying or having an MI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2med-2809",
+    "category": "IM Psych",
+    "q": "Panic disorder vs MVP per p282?",
+    "a": "If the vignette mentions a mid-systolic click (mitral valve prolapse) and asks the cause of symptoms, the answer is panic disorder. MVP is common and almost always asymptomatic, so it is not the cause.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2med-2810",
+    "category": "IM Psych",
+    "q": "Panic disorder Tx per p282?",
+    "a": "Breathing exercises to stop hyperventilation. Breathing into a paper bag is the wrong answer. Often breathing exercises are not listed, and a benzo is correct.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "WHO recommendations for GAD and panic disorder are linked (title only); I did not verify the benzo claim, and current guidance generally does not favor benzodiazepines long-term. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10785994/"
+    }
+  },
+  {
+    "id": "s2med-2811",
+    "category": "IM Psych",
+    "q": "Social phobia per p282?",
+    "a": "Fear of being judged, negatively evaluated or rejected in a social or performance scenario; on USMLE, fear of public speaking. USMLE wants a beta-blocker (propranolol or atenolol) first-line. If the Q gives an asthma patient, choose a benzo. CBT for longer-term management.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "A meta-analysis of beta-blockers for anxiety disorders is linked (title only). Caution: current guidelines generally favor SSRIs and CBT for social anxiety disorder; I did not verify this. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39271062/"
+    }
+  },
+  {
+    "id": "s2med-2812",
+    "category": "IM Psych",
+    "q": "Specific phobia per p282?",
+    "a": "Fear of a specific object or situation causing significant distress or impairment; high-yield example is fear of flying. USMLE wants a benzo for acute relief and CBT for longer-term.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "A review of treatment of specific phobia in adults is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17112646/"
+    }
+  },
+  {
+    "id": "s2med-2813",
+    "category": "IM Psych",
+    "q": "Agoraphobia per p282?",
+    "a": "Fear of places or situations from which escape might be difficult or embarrassing, or where help might not be available if a panic attack occurs. Usually refers to crowded, open spaces.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    }
+  },
+  {
+    "id": "s2med-2814",
+    "category": "IM Psych",
+    "q": "Separation anxiety disorder per p282?",
+    "a": "Excessive distress with separation from home or a major attachment figure. Peaks at 12-18 months and usually subsides by 2-3 years, but can persist into the teenage years. Vignette: a child at summer camp or school with stomach aches on arrival.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "A StatPearls page on separation anxiety disorder is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560793/"
+    }
+  },
+  {
+    "id": "s2med-2815",
+    "category": "IM Psych",
+    "q": "Selective mutism per p282?",
+    "a": "Patient fails to speak in certain situations, such as with new people, despite speaking in other situations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "A primer on selective mutism is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8222660/"
+    }
+  },
+  {
+    "id": "s2med-2816",
+    "category": "IM Psych",
+    "q": "PTSD per p282?",
+    "a": "At least 1 month of reliving a traumatic event, usually flashbacks or nightmares. Treatment includes CBT and group therapy; SSRIs if medication is used.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "The 2023 VA/DoD PTSD guideline synopsis is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38408360/"
+    }
+  },
+  {
+    "id": "s2med-2817",
+    "category": "IM Psych",
+    "q": "Acute stress disorder per p282?",
+    "a": "Same as PTSD, but presenting for 3 days to less than 1 month since the traumatic event.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 282,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=282"
+    },
+    "guideline": {
+      "text": "A DSM-5 comparison table for acute stress disorder is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t30"
+    }
   }
 ];
