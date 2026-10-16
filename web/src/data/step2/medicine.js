@@ -15762,5 +15762,225 @@ export default [
       "page": 130,
       "url": "/mehlman/hy-internal-medicine.pdf#page=130"
     }
+  },
+  {
+    "id": "s2med-1187",
+    "category": "IM Gastro",
+    "q": "Cystic fibrosis malabsorption per p130-131?",
+    "a": "Pancreatic duct secretions are inspissated (dried, sticky), so enzymes can't reach the duodenum: fat-soluble vitamin malabsorption. NBME loves vitamin E deficiency in CF (neuropathy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    },
+    "guideline": {
+      "text": "A paper on vitamin E and A deficiency in CF is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8777920/"
+    }
+  },
+  {
+    "id": "s2med-1188",
+    "category": "IM Gastro",
+    "q": "D-xylose in cystic fibrosis per p131?",
+    "a": "Normal, since the intestinal lining is intact; malabsorption is from lack of enzymes. Abnormal D-xylose on USMLE would be celiac or Crohn.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2med-1189",
+    "category": "IM Gastro",
+    "q": "Biliary atresia recap per p131?",
+    "a": "Very high direct bilirubin in a child under 6 weeks; lack of development of intrahepatic bile ductules and biliary tree. Ultrasound first, USMLE wants liver biopsy to confirm. Kasai procedure, then liver transplant if unsuccessful.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    },
+    "guideline": {
+      "text": "A biliary atresia guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13449986/"
+    }
+  },
+  {
+    "id": "s2med-1190",
+    "category": "IM Gastro",
+    "q": "Celiac disease mechanism per p131?",
+    "a": "Intolerance to gluten (gliadin in wheat, oats, rye, barley; not rice). Type IV hypersensitivity: T cells attack small intestinal villi causing villous flattening and malabsorption.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    },
+    "img": "/mehlman/figures/med-p131-01.jpg",
+    "imgAlt": "Small bowel biopsy comparing normal villi (left) with flattened villi (right)",
+    "guideline": {
+      "text": "The ACG celiac guideline is linked; I did not verify the text, including the oats statement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36602836/"
+    }
+  },
+  {
+    "id": "s2med-1191",
+    "category": "IM Gastro",
+    "q": "Celiac antibodies per p131?",
+    "a": "Antibodies are HY despite T-cell villous destruction: anti-endomysial (source writes 'aka anti-gliadin') and anti-tissue transglutaminase IgA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    },
+    "guideline": {
+      "text": "The ACG guideline is linked; I did not verify the text. Anti-endomysial and anti-gliadin antibodies are usually described as different tests, so the 'aka' is the source's wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36602836/"
+    }
+  },
+  {
+    "id": "s2med-1192",
+    "category": "IM Gastro",
+    "q": "IgA deficiency and celiac per p131?",
+    "a": "IgA-deficient patients have false-negative tissue transglutaminase IgA results and a 15x greater likelihood of developing celiac (source figure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    },
+    "guideline": {
+      "text": "The ACG guideline is linked; I did not verify the 15x figure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36602836/"
+    }
+  },
+  {
+    "id": "s2med-1193",
+    "category": "IM Gastro",
+    "q": "Celiac presentation per p131?",
+    "a": "Vague bloating/diarrhea in patients who can't pinpoint the trigger. One of the highest-yield points: iron deficiency anemia from impaired duodenal iron absorption. Low hemoglobin in a vague vignette with celiac vs lactase deficiency favors celiac.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2med-1194",
+    "category": "IM Gastro",
+    "q": "Dermatitis herpetiformis per p131?",
+    "a": "Associated with celiac: itchy vesicular lesions on extensor areas; IgA deposition at dermal papillae.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 131,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=131"
+    },
+    "img": "/mehlman/figures/med-p132-01.jpg",
+    "imgAlt": "Vesicular and crusted lesions on both elbows",
+    "guideline": {
+      "text": "A dermatitis herpetiformis update is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8068693/"
+    }
+  },
+  {
+    "id": "s2med-1195",
+    "category": "IM Gastro",
+    "q": "Celiac D-xylose, lymphoma and diagnosis per p132?",
+    "a": "D-xylose is abnormal (flattened villi). Increased risk of enteropathy-associated T-cell lymphoma (EATL). Diagnosis: antibody screening, then duodenal biopsy to confirm. Treatment: gluten-free diet.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    },
+    "guideline": {
+      "text": "A retrospective study of EATL in celiac disease is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7185558/"
+    }
+  },
+  {
+    "id": "s2med-1196",
+    "category": "IM Gastro",
+    "q": "Lactose intolerance mechanism per p132?",
+    "a": "Deficiency of brush border disaccharidase (lactase). The brush border is at the tips of the villi; GI stem cells are at the base of the crypts (USMLE asks locations). Diarrhea/bloating with dairy; no iron deficiency anemia (versus celiac).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2med-1197",
+    "category": "IM Gastro",
+    "q": "Lactose intolerance epidemiology per p132?",
+    "a": "Increased incidence in Asians; can develop idiopathically from the teen years onward as lactase production decreases with age. If hemoglobin is low, choose celiac instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2med-1198",
+    "category": "IM Gastro",
+    "q": "Secondary lactose intolerance per p132?",
+    "a": "After viral gastroenteritis (rotavirus, Norwalk), villus tip sloughing causes new diarrhea/bloating 1-2 weeks later; transient and patients recover. HY cause of lactose intolerance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2med-1199",
+    "category": "IM Gastro",
+    "q": "Lactose intolerance diagnosis and treatment per p132?",
+    "a": "Biopsy is normal; D-xylose normal. Diagnose with hydrogen breath test or decreased stool pH. Treat with lactose avoidance or lactase pills.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    },
+    "guideline": {
+      "text": "A European guideline on breath tests is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830282/"
+    }
+  },
+  {
+    "id": "s2med-1200",
+    "category": "IM Gastro",
+    "q": "Milk protein allergy per p132?",
+    "a": "Biggest risk factor: not exclusively breastfed for the first 6 months. Presents as blood in stool in e.g. a 4-month-old started on formula 3 weeks ago.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    },
+    "guideline": {
+      "text": "The WAO DRACMA cow's milk allergy guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11369454/"
+    }
+  },
+  {
+    "id": "s2med-1201",
+    "category": "IM Gastro",
+    "q": "Milk protein allergy treatment per p132?",
+    "a": "Switch to hydrolyzed casein formula. Soy formula is the wrong answer: up to 50% crossover between milk- and soy-protein allergy (source figure). Cow-milk or soy start doesn't matter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    },
+    "guideline": {
+      "text": "The DRACMA guideline is linked; I did not verify the 50% figure or its soy recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11369454/"
+    }
+  },
+  {
+    "id": "s2med-1202",
+    "category": "IM Gastro",
+    "q": "IBD basics per p132?",
+    "a": "IBD means ulcerative colitis and Crohn. Both can present with bloody, mucoid stools. Both are associated with HLA-B27: PAIR (Psoriasis, Ankylosing spondylitis, IBD, Reactive arthritis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 132,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=132"
+    }
   }
 ];

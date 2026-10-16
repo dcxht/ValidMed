@@ -567,3 +567,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p130 (NEC, Hirschsprung, CF) - 5 cards, ids s2med-1182 to 1186
 - Figure p130-01 (bubbly bowel X-ray) assigned to NEC by page order, neutral alt. Manometry-before-biopsy order is the source's exam sequence.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p131 (CF malabsorption, biliary atresia, celiac) - 8 cards, ids s2med-1187 to 1194
+- Figures inspected (villi histology; elbow lesions assigned to dermatitis herpetiformis, shown on p132 order). Unverified: 15x IgA deficiency figure; source equates anti-endomysial with anti-gliadin.
+
+## p132 (celiac, lactose, milk protein allergy, IBD start) - 8 cards, ids s2med-1195 to 1202
+- Unverified: 50% milk/soy crossover.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
