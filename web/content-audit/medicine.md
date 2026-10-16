@@ -1150,7 +1150,7 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - "Recurrent TB infections" bullet placed under IL-12 receptor deficiency by mechanism (layout put it next to Hyper-IgE).
 - Anti-Smith renal prognosis claim unverified. "dumb mnemonic" paraphrased.
 
-## p335 (autoantibody table end) - 27 cards, ids s2med-3295 to 3321
+## p335 (autoantibody table end) - 26 cards, ids s2med-3295 to 3320
 - Celiac "anti-endomysial (aka anti-gliadin)" conflated; caution note added.
 - Anti-Hu/-Yo and small cell lung cancer, RHD "almost always" claims unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 40 cards ox=false off=false bad=0.
