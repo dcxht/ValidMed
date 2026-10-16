@@ -1469,3 +1469,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Source says urine eosinophils on "Homer-Wright" stain: probable source error, flagged unverified in the card.
 - Stress/urge incontinence and Kegel items repeat p405.
 - Mobile QA (320x740, local vite preview build, not live): all 38 cards ox=false off=false bad=0.
+
+## p427 (IM mixed bullets: incontinence repeat, lacunar stroke, GIP, aspirin) - 6 cards, ids s2med-4469 to 4474
+- Overflow incontinence/urge incontinence items repeat p405-406.
+
+## p428 (IM mixed bullets: aspirin, MEN, autacoids, hydronephrosis, oncotic pressure) - 6 cards, ids s2med-4475 to 4480
+- "Common iliac artery compresses ureter; ovarian vs cervical cancer unilateral vs bilateral" heuristics: source, not verified.
+
+## p429 (IM mixed bullets: edema mechanisms, methemoglobinemia, RAAS, Babesia) - 5 cards, ids s2med-4481 to 4485
+- Afferent-resistance answer for external renal artery compression: source says it is a hypothetical NBME answer; not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.

@@ -58146,5 +58146,192 @@ export default [
       "page": 426,
       "url": "/mehlman/hy-internal-medicine.pdf#page=426"
     }
+  },
+  {
+    "id": "s2med-4469",
+    "category": "IM Mixed",
+    "q": "Urge incontinence treatment per p427 (continued from p426)?",
+    "a": "Oxybutynin (antimuscarinic) or mirabegron (beta-3 agonist); do not give these in stress incontinence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 427,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=427"
+    }
+  },
+  {
+    "id": "s2med-4470",
+    "category": "IM Mixed",
+    "q": "Overflow incontinence per p427 (repeat of p405-406)?",
+    "a": "Seen in diabetes (neurogenic bladder, source: sorbitol damage to myelin) and BPH (outlet obstruction, detrusor burnout); postvoid residual high (300-400 mL in USMLE questions; normal <50-75 mL); diabetic bladder: bethanechol; BPH: insert a catheter first.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 427,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=427"
+    }
+  },
+  {
+    "id": "s2med-4471",
+    "category": "IM Mixed",
+    "q": "72M left facial droop + left arm and leg weakness with hyperreflexia + left Babinski + intact sensation per p427?",
+    "a": "Lacunar infarct of the internal capsule: 'pure motor' stroke (posterior limb); thalamic stroke gives 'pure sensory'. Lacunar infarcts usually follow hypertension causing lipohyalinosis of lenticulostriate arteries.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 427,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=427"
+    }
+  },
+  {
+    "id": "s2med-4472",
+    "category": "IM Mixed",
+    "q": "Glucose IV is cleared faster when food is eaten orally at the same time: which hormone per p427?",
+    "a": "Glucose-dependent insulinotropic peptide (GIP): secreted in response to oral macronutrients and causes insulin secretion, so insulin rises more with oral intake than with parenteral glucose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 427,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=427"
+    }
+  },
+  {
+    "id": "s2med-4473",
+    "category": "IM Mixed",
+    "q": "50 g glucose IV vs orally, insulin rises more orally: why per p427?",
+    "a": "GIP, causing greater insulin secretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 427,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=427"
+    }
+  },
+  {
+    "id": "s2med-4474",
+    "category": "IM Mixed",
+    "q": "6F finds an open aspirin bottle: finding best suggesting a toxic dose per p427?",
+    "a": "Increased respiratory rate: acute respiratory alkalosis (respiratory center upregulation; high pH, low CO2, no bicarb change). After roughly 20 minutes a mixed metabolic acidosis-respiratory alkalosis (low pH, low CO2, low bicarb); the low bicarb is not compensation, since salicylic acid itself is an acid. Tachypnea is the first observed sign (continues on p428).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 427,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=427"
+    }
+  },
+  {
+    "id": "s2med-4475",
+    "category": "IM Mixed",
+    "q": "Aspirin toxicity: first symptom and treatment (continued from p427)?",
+    "a": "Tinnitus can be the first patient-reported symptom. Sodium bicarbonate treats by urinary alkalinization, increasing aspirin excretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 428,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=428"
+    }
+  },
+  {
+    "id": "s2med-4476",
+    "category": "IM Mixed",
+    "q": "30M with shooting groin pain + high BP + mother had thyroid cancer surgery: best test per p428?",
+    "a": "Urinary metanephrines. Diagnosis MEN 2A: pheochromocytoma + medullary thyroid carcinoma + primary hyperparathyroidism. Treat pheo with phenoxybenzamine (irreversible alpha blocker); groin pain is urolithiasis from hypercalcemia; medullary thyroid cancer raises calcitonin. MEN I: pancreatic tumor, pituitary tumor, primary hyperparathyroidism. MEN 2B: pheochromocytoma + medullary thyroid carcinoma + mucosal neuromas + Marfanoid habitus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 428,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=428"
+    }
+  },
+  {
+    "id": "s2med-4477",
+    "category": "IM Mixed",
+    "q": "Neonate with a hereditary disease and homozygous gene deletion: inheritance pattern per p428?",
+    "a": "Autosomal recessive: 'homozygous deletion' with no mention of parental disease implies it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 428,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=428"
+    }
+  },
+  {
+    "id": "s2med-4478",
+    "category": "IM Mixed",
+    "q": "MOA of nedocromil per p428?",
+    "a": "Blocks release of autacoids from cellular storage: mast cell stabilizers (nedocromil, cromolyn) prevent histamine release; an autacoid is a biologic molecule acting like a local hormone near its site of synthesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 428,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=428"
+    }
+  },
+  {
+    "id": "s2med-4479",
+    "category": "IM Mixed",
+    "q": "84F with unilateral hydronephrosis from ureteral compression by a vascular structure per p428?",
+    "a": "The ipsilateral common iliac artery. If the stem says cancer causes unilateral hydronephrosis: ovarian cancer; bilateral hydronephrosis from cancer: cervical cancer (usually younger).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 428,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=428"
+    }
+  },
+  {
+    "id": "s2med-4480",
+    "category": "IM Mixed",
+    "q": "54M dyspnea 4 months + ascites + leg edema + bilateral pleural effusions + EF 55%: mechanism of lung fluid per p428?",
+    "a": "Decreased plasma colloid osmotic (oncotic) pressure (nephrotic syndrome or hepatic disease with low albumin). Wrong answer: increased capillary hydrostatic pressure (left heart failure, but EF is normal). Increased vascular permeability is for ARDS, pneumonia/sepsis, or PE (continues on p429).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 428,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=428"
+    }
+  },
+  {
+    "id": "s2med-4481",
+    "category": "IM Mixed",
+    "q": "When 'increased vascular permeability' is the right pulmonary edema answer (continued from p428)?",
+    "a": "ARDS (bilateral infiltrates), infection (pneumonia +/- sepsis), or pulmonary embolism (local inflammation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 429,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=429"
+    }
+  },
+  {
+    "id": "s2med-4482",
+    "category": "IM Mixed",
+    "q": "Neonate with persistent cyanosis, normal Hct and RBC morphology, normal CXR and echo per p429?",
+    "a": "Methemoglobinemia from cytochrome b5 reductase deficiency (congenital). Inhaled nitric oxide for neonatal pulmonary hypertension can cause it (oxidizes ferrous to ferric iron). Acrocyanosis is a normal bluish tinge of the extremities (treat with warming lights and tactile stimulation). Treatment in most cases: methylene blue + vitamin C.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 429,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=429"
+    }
+  },
+  {
+    "id": "s2med-4483",
+    "category": "IM Mixed",
+    "q": "40F with fibromuscular dysplasia and normal GFR: explanation per p429?",
+    "a": "Increased efferent arteriolar resistance: RAAS upregulates, angiotensin II constricts efferent arterioles, raising filtration fraction so GFR is held despite lower renal blood flow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 429,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=429"
+    }
+  },
+  {
+    "id": "s2med-4484",
+    "category": "IM Mixed",
+    "q": "19F with external compression of the left renal artery but normal renal perfusion pressure per p429?",
+    "a": "Decreased afferent arteriolar resistance (the source's answer in this hypothetical; afferent arterioles distal to the compression dilate). The source notes the usual response to reduced perfusion is efferent constriction via RAAS, which maintains GFR rather than perfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 429,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=429"
+    }
+  },
+  {
+    "id": "s2med-4485",
+    "category": "IM Mixed",
+    "q": "27M from Pennsylvania, splenectomy, intraerythrocytic rings per p429?",
+    "a": "Babesia: malaria-like hemolytic disorder in people who have never left the United States; ring forms and Maltese crosses in RBCs (continues on p430).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 429,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=429"
+    }
   }
 ];
