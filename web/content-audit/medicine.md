@@ -724,3 +724,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p188 (testicular cancer, prostate cancer, BPH start) - 15 cards, ids s2med-1850 to 1864
 - Unverified/caution: fibrocystic no-imaging, mastitis antibiotic (MRSA), methylprednisolone for cord compression, marijuana gynecomastia, free PSA, PLAP, p188 "immature/anaplastic" yolk sac wording.
 - Mobile QA (320x740, local vite preview build, not live): all 42 cards ox=false off=false bad=0.
+
+## p189 (BPH end, HPV, chlamydia, gonorrhea) - 15 cards, ids s2med-1865 to 1879
+## p190 (PID, trichomonas, BV, Candida, syphilis start; clue cell figure) - 14 cards, ids s2med-1880 to 1893
+## p191 (syphilis, HSV, chancroid) - 16 cards, ids s2med-1894 to 1909
+- Conflicts: chlamydia azithromycin vs CDC 2021 regimen; gonorrhea/chlamydia cotreatment wording; neonatal cefotaxime; syphilis penicillin-allergy "mere rash" statement. Unverified: BV "gram-negative rod", Candida/trich details.
+- Mobile QA (320x740, local vite preview build, not live): all 45 cards ox=false off=false bad=0.

@@ -24428,5 +24428,574 @@ export default [
       "page": 188,
       "url": "/mehlman/hy-internal-medicine.pdf#page=188"
     }
+  },
+  {
+    "id": "s2med-1865",
+    "category": "IM Repro/Obgyn",
+    "q": "BPH: three drug classes to stop per p189?",
+    "a": "First-gen H1 blockers (diphenhydramine, chlorpheniramine), TCAs (amitriptyline), and anti-psychotics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "A paper on anticholinergic therapy in BPH-related urinary symptoms is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18294115/"
+    }
+  },
+  {
+    "id": "s2med-1866",
+    "category": "IM Repro/Obgyn",
+    "q": "NBME: older man with high creatinine per p189?",
+    "a": "The answer can be just 'discontinue anticholinergic meds,' or 'discontinue the diphenhydramine.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1867",
+    "category": "IM Repro/Obgyn",
+    "q": "BPH: exam and PSA per p189?",
+    "a": "Can be described as 'nodular' on palpation. PSA often elevated; free PSA is high compared with bound PSA in BPH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1868",
+    "category": "IM Repro/Obgyn",
+    "q": "BPH treatment per p189?",
+    "a": "Alpha-1 blocker (tamsulosin/terazosin) or the 5-alpha-reductase inhibitor finasteride. TURP for refractory cases.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "The Canadian Urological Association BPH guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9343161/"
+    }
+  },
+  {
+    "id": "s2med-1869",
+    "category": "IM Repro/Obgyn",
+    "q": "HPV 6/11 per p189?",
+    "a": "Condylomata acuminata (warts), not limited to the genitalia; can cause laryngeal papillomatosis (vocal cord warts) in neonates (asked on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1870",
+    "category": "IM Repro/Obgyn",
+    "q": "HPV 16/18 per p189?",
+    "a": "Squamous cell carcinoma of genitalia/anus; risk of overt SCC is higher in immunocompromised people (e.g., HIV in MSM) and heavy smokers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1871",
+    "category": "IM Repro/Obgyn",
+    "q": "Chlamydia trachomatis D-K: presentation per p189?",
+    "a": "The 'regular' STD: mucopurulent discharge. In females can advance to PID, with inflammation and scarring of the Fallopian tubes raising ectopic pregnancy risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1872",
+    "category": "IM Repro/Obgyn",
+    "q": "Chlamydia: microscopy and culture per p189?",
+    "a": "Obligate intracellular, can't be grown. Discharge shows WBCs with no organisms on light microscopy; 'no organisms grow' is pass-level for Chlamydia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1873",
+    "category": "IM Repro/Obgyn",
+    "q": "Chlamydia treatment per p189?",
+    "a": "One-off oral azithromycin (GI upset), or a week of twice-daily doxycycline (not with dairy or divalent cations; photosensitivity). The source calls doxycycline slightly more efficacious but more annoying. If forced to choose in pregnancy, azithromycin (sometimes erythromycin), because doxycycline can discolor the neonate's teeth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: the 2021 CDC STI treatment guidelines (linked) are the current source; I did not verify, but check whether doxycycline is now listed as the recommended regimen. Source answer stays for exam use.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8344968/"
+    }
+  },
+  {
+    "id": "s2med-1874",
+    "category": "IM Repro/Obgyn",
+    "q": "Chlamydia and reactive arthritis per p189?",
+    "a": "Reactive arthritis triad: urethritis, arthritis, and eye inflammation (conjunctivitis, anterior uveitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1875",
+    "category": "IM Repro/Obgyn",
+    "q": "Chlamydia and neonates per p189?",
+    "a": "To prevent ophthalmia neonatorum, treat the female while pregnant; to treat it in neonates, give oral erythromycin. Neonatal conjunctivitis can lead to Chlamydia pneumonia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "StatPearls on neonatal conjunctivitis is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK441840/"
+    }
+  },
+  {
+    "id": "s2med-1876",
+    "category": "IM Repro/Obgyn",
+    "q": "Chlamydia A-C and L1-3 per p189?",
+    "a": "A-C are not STDs and cause trachoma (cause of blindness in Africa). L1-3 cause lymphogranuloma venereum (anal strictures).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1877",
+    "category": "IM Repro/Obgyn",
+    "q": "Neisseria gonorrhoeae: features per p189?",
+    "a": "Mucopurulent discharge, gram-negative diplococci on light microscopy. Can advance to PID with higher ectopic risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1878",
+    "category": "IM Repro/Obgyn",
+    "q": "Gonococcal arthritis per p189?",
+    "a": "Doesn't cause reactive arthritis. NBME presents as (1) monoarthritis of the knee, or (2) mono- or polyarthritis plus cutaneous papules/pustules plus tenosynovitis (stems like deQuervain tenosynovitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    }
+  },
+  {
+    "id": "s2med-1879",
+    "category": "IM Repro/Obgyn",
+    "q": "Gonorrhea treatment per p189 (continues p190)?",
+    "a": "IM ceftriaxone. Always cotreat for Chlamydia (continues next page).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 189,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=189"
+    },
+    "guideline": {
+      "text": "The CDC 2020 gonococcal update is linked; I did not verify the dose or cotreatment wording in the current guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7745960/"
+    }
+  },
+  {
+    "id": "s2med-1880",
+    "category": "IM Repro/Obgyn",
+    "q": "Gonorrhea cotreatment per p190 (continued from p189)?",
+    "a": "Chlamydia shows no organisms, so with gram-negative diplococci you can't know if it's also there: treat with IM ceftriaxone plus oral azithromycin or doxycycline.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "The 2021 CDC STI guidelines are linked; I did not verify the current regimen.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8344968/"
+    }
+  },
+  {
+    "id": "s2med-1881",
+    "category": "IM Repro/Obgyn",
+    "q": "PID despite early ceftriaxone for gonorrhea per p190?",
+    "a": "Possible answer: history of improper antibiotic treatment (should have been cotreated for Chlamydia with azithromycin but got only ceftriaxone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2med-1882",
+    "category": "IM Repro/Obgyn",
+    "q": "Septic PID per p190?",
+    "a": "High fever, tachycardia, high WBCs: admit to hospital plus IV antibiotics, not the outpatient combo of IM plus oral.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls on PID is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK499959/"
+    }
+  },
+  {
+    "id": "s2med-1883",
+    "category": "IM Repro/Obgyn",
+    "q": "Asymptomatic patient whose partner tested positive for gonorrhea or Chlamydia per p190?",
+    "a": "2CK: give treatment without waiting for test results.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2med-1884",
+    "category": "IM Repro/Obgyn",
+    "q": "Neonatal conjunctivitis prophylaxis and treatment per p190?",
+    "a": "Erythromycin ointment as prophylaxis; if the neonate already has it, IM cefotaxime (preferred 3rd-gen cephalosporin in peds if listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls on neonatal conjunctivitis is linked; I did not verify the cefotaxime statement.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK441840/"
+    }
+  },
+  {
+    "id": "s2med-1885",
+    "category": "IM Repro/Obgyn",
+    "q": "Trichomonas vaginalis: presentation per p190?",
+    "a": "Flagellated protozoan on wet mount; yellow-green discharge. 'Strawberry cervix' (punctate hemorrhages on the cervix), or yellow-green discharge with an erythematous vaginal canal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2med-1886",
+    "category": "IM Repro/Obgyn",
+    "q": "Trichomoniasis treatment per p190?",
+    "a": "Metronidazole for patient and partner (high reinfection rate).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "The CDC 2021 trichomonas evidence summary is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9006969/"
+    }
+  },
+  {
+    "id": "s2med-1887",
+    "category": "IM Repro/Obgyn",
+    "q": "Gardnerella vaginalis (bacterial vaginosis) per p190?",
+    "a": "Gram-negative rod; thin grey/watery discharge. Positive whiff test (KOH gives a fishy odor). Clue cells are exceedingly HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls on Amsel criteria is linked; I did not verify the 'gram-negative rod' wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542319/"
+    }
+  },
+  {
+    "id": "s2med-1888",
+    "category": "IM Repro/Obgyn",
+    "q": "Clue cells per p190?",
+    "a": "Squamous epithelial cells studded with bacteria: bacterial vaginosis (Gardnerella).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "img": "/mehlman/figures/med-p190-01.jpg",
+    "imgAlt": "Vaginal smear showing a clue cell, a squamous epithelial cell studded with bacteria"
+  },
+  {
+    "id": "s2med-1889",
+    "category": "IM Repro/Obgyn",
+    "q": "Candida: presentation per p190?",
+    "a": "About 2/3 of Qs: thick, white, cottage cheese-like discharge. About 1/3: itchy/erythematous vaginal canal without overt discharge (trichomoniasis can also have erythema but has yellow-green discharge).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2med-1890",
+    "category": "IM Repro/Obgyn",
+    "q": "Candidiasis treatment per p190?",
+    "a": "Topical nystatin or oral fluconazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "A review of the evidence for the 2021 CDC guidelines on vulvovaginal candidiasis is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35416967/"
+    }
+  },
+  {
+    "id": "s2med-1891",
+    "category": "IM Repro/Obgyn",
+    "q": "Treponema pallidum: visualization per p190?",
+    "a": "Spirochete visible under dark-field microscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2med-1892",
+    "category": "IM Repro/Obgyn",
+    "q": "Primary syphilis per p190?",
+    "a": "Painless chancre (painless ulcer) on the genitalia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    },
+    "guideline": {
+      "text": "The CDC 2021 STI guidelines are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8344968/"
+    }
+  },
+  {
+    "id": "s2med-1893",
+    "category": "IM Repro/Obgyn",
+    "q": "Secondary syphilis per p190?",
+    "a": "6 weeks to 6 months after the chancre appears and disappears: body rash including palms and soles, and condylomata lata (painless genital plaques).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 190,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=190"
+    }
+  },
+  {
+    "id": "s2med-1894",
+    "category": "IM Repro/Obgyn",
+    "q": "Tertiary syphilis per p191 (continued from p190)?",
+    "a": "Years later: gummas (painless chancre-like lesions elsewhere, e.g., face/nose), arthritis, and ascending aortitis ('tree-barking' of vasa vasorum).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1895",
+    "category": "IM Repro/Obgyn",
+    "q": "Neurosyphilis timing per p191?",
+    "a": "Can occur at any stage; not sequential after tertiary. A 2CK Neuro Q gives neurosyphilis in an 18-year-old.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1896",
+    "category": "IM Repro/Obgyn",
+    "q": "Neurosyphilis presentations per p191?",
+    "a": "Tabes dorsalis (dorsal column loss: vibration/proprioception loss, positive Romberg), Argyll-Robertson pupil (accommodates but doesn't react), and 'stroke without hypertension' in a younger patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1897",
+    "category": "IM Repro/Obgyn",
+    "q": "Diagnosis of primary syphilis per p191?",
+    "a": "Visualize spirochetes from a chancre scraping under dark-field microscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1898",
+    "category": "IM Repro/Obgyn",
+    "q": "Diagnosis of secondary, tertiary, and neurosyphilis per p191?",
+    "a": "Serology: VDRL and/or RPR first (sensitive, not specific); FTA as confirmation (specific, not sensitive).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    },
+    "guideline": {
+      "text": "A guideline evidence summary on adult syphilis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9006973/"
+    }
+  },
+  {
+    "id": "s2med-1899",
+    "category": "IM Repro/Obgyn",
+    "q": "VDRL and RPR mechanism per p191?",
+    "a": "VDRL mixes serum with cardiolipin antigen and shows clumping/flocculation if antibodies are present; RPR enhances it with charcoal particles. An NBME Q with clumping with charcoal particles has SLE as the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1900",
+    "category": "IM Repro/Obgyn",
+    "q": "Why SLE/APS causes false-positive VDRL per p191?",
+    "a": "APS is often caused by antibodies against cardiolipin (in SLE, called 'lupus anticoagulant').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    },
+    "guideline": {
+      "text": "A paper on antiphospholipid antibodies and false-positive syphilis serology in SLE is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6201309/"
+    }
+  },
+  {
+    "id": "s2med-1901",
+    "category": "IM Repro/Obgyn",
+    "q": "FTA per p191?",
+    "a": "Mixes serum with fluorescent Treponema antibodies; binding confirms syphilis. USMLE: 24-year-old male with back rash, negative KOH prep, most likely diagnostic test: FTA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1902",
+    "category": "IM Repro/Obgyn",
+    "q": "Syphilis treatment per p191?",
+    "a": "Penicillin for all types.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    },
+    "guideline": {
+      "text": "The CDC 2021 STI guidelines are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8344968/"
+    }
+  },
+  {
+    "id": "s2med-1903",
+    "category": "IM Repro/Obgyn",
+    "q": "Syphilis with beta-lactam allergy per p191?",
+    "a": "Anaphylaxis history but pregnant or tertiary/neurosyphilis: desensitize and give penicillin. Mere rash history, not anaphylaxis: give the beta-lactam anyway.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    },
+    "guideline": {
+      "text": "A practical guide on syphilis in pregnancy is linked; I did not verify the 'mere rash' statement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12553112/"
+    }
+  },
+  {
+    "id": "s2med-1904",
+    "category": "IM Repro/Obgyn",
+    "q": "HSV 1/2: lesions per p191?",
+    "a": "Painful vesicular lesions recurring at varying intervals (usually months). Primary infection is most severe: fever, regional lymphadenopathy, burning/stinging/itching pain (herpetic neuralgia), many vesicles. Recurrences are milder, preceded by herpetic neuralgia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1905",
+    "category": "IM Repro/Obgyn",
+    "q": "HSV other manifestations per p191?",
+    "a": "Encephalitis (confusion plus blood in CSF from temporal lobe hemorrhage) and herpetic whitlow (vesicles on the finger). Viral culture can be negative (not 100% sensitive).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1906",
+    "category": "IM Repro/Obgyn",
+    "q": "HSV treatment per p191?",
+    "a": "Acyclovir (or valacyclovir).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    },
+    "guideline": {
+      "text": "An InformedHealth page on genital herpes treatment is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK525771/"
+    }
+  },
+  {
+    "id": "s2med-1907",
+    "category": "IM Repro/Obgyn",
+    "q": "Haemophilus ducreyi (chancroid) per p191?",
+    "a": "Painful genital ulcer; gram-negative rod. '-oid' means looks like but isn't: it resembles the painless syphilitic chancre, but the lesion is painful.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls on chancroid is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513331/"
+    }
+  },
+  {
+    "id": "s2med-1908",
+    "category": "IM Repro/Obgyn",
+    "q": "When chancroid is the answer per p191?",
+    "a": "Single painful genital lesion in someone who traveled abroad (classically backpacking in Africa or South America). A single small painful lesion that is a recurrence is HSV, since H. ducreyi doesn't recur like HSV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
+  },
+  {
+    "id": "s2med-1909",
+    "category": "IM Repro/Obgyn",
+    "q": "H. ducreyi as a distractor per p191?",
+    "a": "Often a wrong answer on HSV Qs, though a 2CK NBME Q has it as correct as a one-off.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 191,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=191"
+    }
   }
 ];
