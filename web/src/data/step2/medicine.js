@@ -10579,5 +10579,228 @@ export default [
       "text": "A review on rhabdomyolysis exists; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4365849/"
     }
+  },
+  {
+    "id": "s2med-0810",
+    "category": "IM Renal",
+    "q": "Urine dipstick in rhabdomyolysis per p85?",
+    "a": "False-positive blood: urinalysis shows 2+ blood but only 1-2 RBCs/hpf, because the dipstick cannot differentiate free myoglobin from hemoglobin in RBCs. One Surgery question gives 3-4 RBCs/hpf as negative; true positive RBCs would be like 10-20+/hpf.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    },
+    "guideline": {
+      "text": "StatPearls on rhabdomyolysis and a paper on urinalysis for myoglobinuria exist; I did not verify the RBC cutoffs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31116043/"
+    }
+  },
+  {
+    "id": "s2med-0811",
+    "category": "IM Renal",
+    "q": "Other rhabdo vignettes per p85?",
+    "a": "Half will not mention the false-positive urinalysis and will just say oliguria (ATN). NBME favorite: found at the bottom of stairs with false-positive blood on dipstick and/or oliguria: rhabdomyolysis. Also increased K+ and increased CK.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    },
+    "guideline": {
+      "text": "StatPearls on rhabdomyolysis is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448168/"
+    }
+  },
+  {
+    "id": "s2med-0812",
+    "category": "IM Renal",
+    "q": "Rhabdo lab question per p85?",
+    "a": "A 44-year-old man found on a park bench with increased K+, CK and oliguria: rhabdo. If only increased CK + oliguria and 'what is most likely seen': increased K+.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2med-0813",
+    "category": "IM Renal",
+    "q": "Highest-yield cause of ATN per p85?",
+    "a": "Acute ischemia, in the source's observation of NBME exams. Despite the medulla receiving less blood flow than the cortex, USMLE focuses on the PCT as most susceptible to hypoxic injury (high ATPase transporter concentration): acute drop in flow, acute hypoxia, PCT sheds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    },
+    "guideline": {
+      "text": "A review of the cellular pathophysiology of ischemic AKI exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3204829/"
+    }
+  },
+  {
+    "id": "s2med-0814",
+    "category": "IM Renal",
+    "q": "Cellular swelling in ischemic ATN per p85?",
+    "a": "Acute ischemia decreases PCT ATPase activity, intracellular Na+ builds up, water follows, and tubular cells swell. NBME answer for why there is swelling: decreased ATPase activity (similar to swelling + hemolysis in pyruvate kinase deficiency).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2med-0815",
+    "category": "IM Renal",
+    "q": "Causes of acute ischemia causing ATN per p85?",
+    "a": "Blood loss from trauma/surgery, acute arrhythmia (e.g., 30 seconds of VFib), MI, or acute exacerbation of heart failure (2CK Free 120). These cause ATN, not pre-renal; pre-renal is more subacute/chronic (NSAID use, recent diuretic, dehydration). There are rare exceptions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    },
+    "guideline": {
+      "text": "A paper asks whether to move beyond the prerenal vs ATN classification; the distinction is more of a continuum. I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3186449/"
+    }
+  },
+  {
+    "id": "s2med-0816",
+    "category": "IM Renal",
+    "q": "ATN one-liners per p85?",
+    "a": "Major surgical blood loss with many packs of RBCs and oliguria 2 days later: ATN. 30-second intra-operative BP of 80/40: ATN. MI (cardiogenic shock) with new oliguria: ATN. Burns over 50% of the body with oliguria: ATN (acute fluid loss, acute decreased perfusion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2med-0817",
+    "category": "IM Renal",
+    "q": "Acute heart failure and ATN per p85?",
+    "a": "Difficult because heart failure is classically pre-renal from chronic low flow; in acute exacerbation there is acute marked decreased flow, leading to ATN (on Free 120).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 85,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2med-0818",
+    "category": "IM Renal",
+    "q": "Diffuse cortical necrosis per p86?",
+    "a": "Rarely assessed; only seen as an incorrect answer choice. Considered an extension of ischemic ATN in severe ischemia (e.g., obstetric hemorrhage). Just be aware it exists.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "A case series of renal cortical necrosis in postpartum hemorrhage exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26786299/"
+    }
+  },
+  {
+    "id": "s2med-0819",
+    "category": "IM Renal",
+    "q": "Renal papillary necrosis per p86?",
+    "a": "Renal papillae are where the collecting ducts meet the ureters (source wording). Answer for red/dark urine in a patient with sickle cell. A sickle cell patient with a renal condition and no blood in the urine: FSGS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "A review of sickle cell nephropathy exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9832386/"
+    }
+  },
+  {
+    "id": "s2med-0820",
+    "category": "IM Renal",
+    "q": "Mechanism of RPN per p86?",
+    "a": "Loss of renal medulla from ischemia, usually subacute or chronic unlike ATN. NSAIDs are a notable cause: decreased afferent blood flow from decreased vasodilating prostaglandins over weeks-months. Sickle crises cause more acute focal ischemia in the medulla's microvasculature.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2med-0821",
+    "category": "IM Renal",
+    "q": "Infection and RPN per p86?",
+    "a": "Pyelonephritis can cause RPN due to inflammatory compression of the medullary microvasculature; one NBME question has RPN as the answer due to infection, but the highest yield is red/dark urine in sickle cell = RPN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2med-0822",
+    "category": "IM Renal",
+    "q": "Interstitial nephritis per p86?",
+    "a": "Exceedingly HY, often confused with ATN. Aka interstitial nephropathy or tubulointerstitial nephritis. 'An allergic reaction of the kidney'. 4 of 5 questions: an NSAID, beta-lactam or cephalosporin, then a maculopapular rash and WBCs (eosinophils) in the urine. Only about 50% mention the rash.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "StatPearls on drug-induced interstitial nephritis is a reference; I did not verify the frequencies.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482323/"
+    }
+  },
+  {
+    "id": "s2med-0823",
+    "category": "IM Renal",
+    "q": "Interstitial nephritis without 'eosinophils' per p86?",
+    "a": "The stem need not say eosinophils: a patient on a beta-lactam with WBCs in the urine and no rash is interstitial nephritis. 1 of 5 questions: NSAID, beta-lactam or cephalosporin with just mild proteinuria and hematuria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "A paper on the utility of urine eosinophils in the diagnosis of AIN exists (they have limited accuracy); I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3817898/"
+    }
+  },
+  {
+    "id": "s2med-0824",
+    "category": "IM Renal",
+    "q": "NSAID and edema per p86?",
+    "a": "A singular NBME question: simple peripheral edema due to an NSAID with nothing else: interstitial nephropathy. Unusual since 'NSAIDs + edema' classically = pre-renal; the NBME has not been ambiguous: they will ask one or the other.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2med-0825",
+    "category": "IM Renal",
+    "q": "Location of interstitial nephritis per p86?",
+    "a": "'Renal tubule' if asked which part of the kidney is affected (e.g., efferent arterioles is wrong), even for an NSAID.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2med-0826",
+    "category": "IM Renal",
+    "q": "Interstitial nephritis examples per p86?",
+    "a": "40M on nafcillin for 6 weeks for MSSA endocarditis with maculopapular rash and urine eosinophils; 60F on naproxen for 6 weeks with peripheral edema; 35F after 10 days of cephalexin with mild proteinuria and hematuria; 35F on ibuprofen with rash and urine eosinophils (asks the location: renal tubule). All: interstitial nephropathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 86,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=86"
+    },
+    "guideline": {
+      "text": "A paper on diagnosing drug-induced AIN in hospitalized patients exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4326856/"
+    }
   }
 ];

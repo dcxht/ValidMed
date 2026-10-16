@@ -375,3 +375,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures). Page ends with rhabdomyolysis; continues p85.
 - Conflicts: "vancomycin not reliably nephrotoxic" is contested; contrast prophylaxis now limited to higher-risk patients; BP target >130/80. Unverified: review texts.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p85 (IM Renal: rhabdomyolysis tail, ischemic ATN) - 8 cards, ids s2med-0810 to 0817
+- Inspected page text (no figures). Starts mid-rhabdo from p84.
+- Unverified: dipstick RBC cutoffs; "acute ischemia is highest-yield" (source's observation).
+
+## p86 (IM Renal: papillary necrosis, interstitial nephritis) - 9 cards, ids s2med-0818 to 0826
+- Inspected page text (no figures).
+- Conflict: urine eosinophils have limited diagnostic accuracy (paper not text-verified); source frequencies (4/5, 1/5) are its own observations.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
