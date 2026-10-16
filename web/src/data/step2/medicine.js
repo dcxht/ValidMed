@@ -31050,5 +31050,426 @@ export default [
       "page": 246,
       "url": "/mehlman/hy-internal-medicine.pdf#page=246"
     }
+  },
+  {
+    "id": "s2med-2359",
+    "category": "IM Neuro",
+    "q": "Brachial plexus injury causes per p247?",
+    "a": "Both Klumpke and Erb-Duchenne can be caused in neonates by breech/traumatic labor, and by injuries such as grabbing a tree branch while falling.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=247"
+    },
+    "guideline": {
+      "text": "A review of brachial plexus birth injuries is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340930/"
+    }
+  },
+  {
+    "id": "s2med-2360",
+    "category": "IM Neuro",
+    "q": "Klumpke palsy per p247?",
+    "a": "Lower brachial plexus injury (C8-T1). Sometimes the answer is just 'lower brachial plexus' when asked what is injured.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=247"
+    },
+    "img": "/mehlman/figures/med-p247-01.jpg",
+    "imgAlt": "Drawing of a clawed hand labeled Klumpke claw-hand",
+    "guideline": {
+      "text": "The same review is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340930/"
+    }
+  },
+  {
+    "id": "s2med-2361",
+    "category": "IM Neuro",
+    "q": "Erb-Duchenne palsy per p247?",
+    "a": "Upper brachial plexus injury (C5-C6). Sometimes the answer is just 'upper brachial plexus'. The arm is adducted, pronated, and the wrist flexed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=247"
+    },
+    "img": "/mehlman/figures/med-p247-02.jpg",
+    "imgAlt": "Drawing of an arm hanging with the wrist flexed, labeled waiter's tip deformity",
+    "guideline": {
+      "text": "The same review is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340930/"
+    }
+  },
+  {
+    "id": "s2med-2362",
+    "category": "IM Neuro",
+    "q": "Spina bifida: timing and prevention per p247?",
+    "a": "Neural tube defects occur between 3-4 weeks gestation. The pregnant woman needs adequate folic acid (vitamin B9) before and during early pregnancy for prevention.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=247"
+    },
+    "img": "/mehlman/figures/med-p247-03.jpg",
+    "imgAlt": "Diagrams comparing spina bifida occulta, meningocele and meningomyelocele",
+    "guideline": {
+      "text": "A guide on neural tube defect screening and folate is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK15468/"
+    }
+  },
+  {
+    "id": "s2med-2363",
+    "category": "IM Neuro",
+    "q": "Neural tube defects: drugs and labs per p247?",
+    "a": "Antiepileptics (particularly valproic acid, but also phenytoin and carbamazepine) are associated with neural tube defects. Neural tube defects lead to increased AFP and acetylcholinesterase in CSF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 247,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=247"
+    },
+    "guideline": {
+      "text": "I did not verify the CSF acetylcholinesterase wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK15468/"
+    }
+  },
+  {
+    "id": "s2med-2364",
+    "category": "IM Neuro",
+    "q": "Neurogenic joint per p248?",
+    "a": "Aka Charcot joint: the patient injures the joint due to lack of joint sensation from peripheral neuropathy. Usually seen in diabetes; can also be seen in neurosyphilis. The USMLE answer when a diabetic has 'disorganization of the tarsometatarsal joints' on foot x-ray.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    }
+  },
+  {
+    "id": "s2med-2365",
+    "category": "IM Neuro",
+    "q": "Mononeuritis multiplex per p248?",
+    "a": "Neuropathy of 'one large nerve in many locations', for example wrist drop plus foot drop in the same patient. Presents with one of the vasculitides (Wegener, Churg-Strauss, microscopic polyangiitis). A Wegener vignette with wrist drop is just mononeuritis multiplex.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A paper on neuropathy in systemic vasculitis is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23212754/"
+    }
+  },
+  {
+    "id": "s2med-2366",
+    "category": "IM Neuro",
+    "q": "Granulomatosis with polyangiitis: presentation per p248?",
+    "a": "Formerly Wegener granulomatosis. The answer for an adult with the triad of hematuria, hemoptysis, and 'head-I' (any head problem such as nasal septal perforation, mastoiditis, sinusitis, otitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A review of GPA is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11385631/"
+    }
+  },
+  {
+    "id": "s2med-2367",
+    "category": "IM Neuro",
+    "q": "Granulomatosis with polyangiitis: antibodies and kidney per p248?",
+    "a": "Associated with cANCA and anti-proteinase 3 (anti-PR3) antibodies. Causes 'necrotizing glomerulonephritis' that can lead to rapidly progressive glomerulonephritis (RPGN).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "The same review is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11385631/"
+    }
+  },
+  {
+    "id": "s2med-2368",
+    "category": "IM Neuro",
+    "q": "Eosinophilic granulomatosis with polyangiitis per p248?",
+    "a": "Formerly Churg-Strauss. Presents as asthma plus eosinophilia, with or without head-I. Head-I is always seen in Wegener vignettes but maybe only about 50% of Churg-Strauss questions. Renal involvement is rare.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A 2025 consensus on EGPA is linked (title only); I did not read it or verify the 50% figure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40300867/"
+    }
+  },
+  {
+    "id": "s2med-2369",
+    "category": "IM Neuro",
+    "q": "Microscopic polyangiitis per p248?",
+    "a": "Associated with pANCA and anti-myeloperoxidase (anti-MPO) antibodies. Presents as hematuria in a patient who is pANCA/anti-MPO positive. Similar to Wegener, can cause RPGN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A StatPearls page on microscopic polyangiitis is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK531484/"
+    }
+  },
+  {
+    "id": "s2med-2370",
+    "category": "IM Neuro",
+    "q": "Communicating hydrocephalus per p248?",
+    "a": "CSF can flow freely between the ventricles and the subarachnoid space. The answer for meningitis causing hydrocephalus, where the mechanism is 'failure of CSF reabsorption by the arachnoid granulations'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A StatPearls page on hydrocephalus is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560875/"
+    }
+  },
+  {
+    "id": "s2med-2371",
+    "category": "IM Neuro",
+    "q": "Non-communicating hydrocephalus per p248?",
+    "a": "Aka obstructive hydrocephalus: a blockage prevents CSF flow between the ventricles or subarachnoid space. An NBME question gives a spinal cord tumor with hydrocephalus and the answer is obstructive hydrocephalus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "I did not verify the NBME claim.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560875/"
+    }
+  },
+  {
+    "id": "s2med-2372",
+    "category": "IM Neuro",
+    "q": "Causes of non-communicating hydrocephalus per p248?",
+    "a": "Aqueductal stenosis (narrowing of the cerebral aqueduct of Sylvius between the 3rd and 4th ventricles), the most common cause of congenital hydrocephalus. Colloid cyst: a benign fluid-filled growth at the anterior roof of the third ventricle, just posterior to the foramen of Monro.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A paper on colloid cysts of the third ventricle is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26967781/"
+    }
+  },
+  {
+    "id": "s2med-2373",
+    "category": "IM Neuro",
+    "q": "Normal pressure hydrocephalus per p248?",
+    "a": "'Wet, wobbly, wacky' with or without Parkinsonism: urinary incontinence, ataxia, and cognitive dysfunction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    }
+  },
+  {
+    "id": "s2med-2374",
+    "category": "IM Neuro",
+    "q": "NPH: anatomy and mechanism per p248?",
+    "a": "Due to impingement on the corona radiata (asked on an NBME), a white-matter bundle connecting the motor cortex superiorly to the internal capsule inferiorly. Mechanism for urinary incontinence = 'failure to inhibit the voiding reflex'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A paper on corona radiata deformation in NPH is linked (title only); I did not verify the NBME claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25239382/"
+    }
+  },
+  {
+    "id": "s2med-2375",
+    "category": "IM Neuro",
+    "q": "Congenital hydrocephalus causes per p248?",
+    "a": "Aqueductal stenosis is the most common cause. The source thinks the most important cause on NBME is congenital toxoplasmosis: triad of hydrocephalus, chorioretinitis, and intracranial calcifications.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 248,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=248"
+    },
+    "guideline": {
+      "text": "A review of congenital toxoplasmosis is linked; I did not verify the wording. The 'most important on NBME' view is the source's opinion.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9301253/"
+    }
+  },
+  {
+    "id": "s2med-2376",
+    "category": "IM Neuro",
+    "q": "Ex-vacuo ventriculomegaly per p249?",
+    "a": "Appearance of enlarged lateral ventricles on imaging without true hydrocephalus, from loss of surrounding brain matter. Alzheimer and schizophrenia are important causes on USMLE, where lateral ventricle enlargement can show up in question stems.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A paper comparing hydrocephalus ex vacuo and NPH is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8328827/"
+    }
+  },
+  {
+    "id": "s2med-2377",
+    "category": "IM Neuro",
+    "q": "Alzheimer disease: presentation per p249?",
+    "a": "Gradual-onset idiopathic cognitive decline. The patient must have a normal neurologic exam (no motor or sensory abnormalities). MMSE will be low (low 20s out of 30) on USMLE; for benign senility the MMSE is usually 28+.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2med-2378",
+    "category": "IM Neuro",
+    "q": "Alzheimer disease: pathology and genetics per p249?",
+    "a": "Beta-amyloid plaques and neurofibrillary tangles (hyperphosphorylated tau) on brain biopsy. Early-onset Alzheimer in Down syndrome (amyloid precursor protein gene is on chromosome 21). Presenilin gene mutations can cause Alzheimer (on NBME); presenilin is involved in cleavage of amyloid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2med-2379",
+    "category": "IM Neuro",
+    "q": "Alzheimer disease: treatment per p249?",
+    "a": "Cholinesterase inhibitors (donepezil, galantamine, rivastigmine); memantine (NMDA glutamate receptor antagonist) can also be used.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "An Italian dementia guideline is linked (title only); I did not read it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11564805/"
+    }
+  },
+  {
+    "id": "s2med-2380",
+    "category": "IM Neuro",
+    "q": "Sundowning per p249?",
+    "a": "Worsening of dementia at night that can resemble delirium. First-line Tx for sundowning on NBME is 'decrease ambient noise and distractions'. 'Bright illumination of the room at all times' is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A review of sundowning is linked; I did not verify the NBME claim, and light-based approaches are discussed in the literature.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11856004/"
+    }
+  },
+  {
+    "id": "s2med-2381",
+    "category": "IM Neuro",
+    "q": "Frontotemporal dementia per p249?",
+    "a": "Aka Pick disease. Usually the triad of personality change, apathy, and disinhibition. Hyperphosphorylated tau accumulates, similar to Alzheimer, but as round silver-staining inclusions known as Pick bodies rather than neurofibrillary tangles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A paper on FTLD-Tau neuropathology is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3208128/"
+    }
+  },
+  {
+    "id": "s2med-2382",
+    "category": "IM Neuro",
+    "q": "Lewy body dementia per p249?",
+    "a": "Dementia plus visual hallucinations plus Parkinsonism. Lewy bodies are collections of alpha-synuclein deposited throughout the brain; in Parkinson disease it is deposited primarily in the substantia nigra pars compacta of the midbrain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A paper on DLB diagnostic criteria is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6987529/"
+    }
+  },
+  {
+    "id": "s2med-2383",
+    "category": "IM Neuro",
+    "q": "Vascular dementia per p249?",
+    "a": "Aka multi-infarct dementia. The answer for dementia plus motor/sensory abnormalities. Seen in patients with repeated mini-strokes (cerebral infarcts) due to hypertension.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A paper on vascular cognitive impairment is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12261353/"
+    }
+  },
+  {
+    "id": "s2med-2384",
+    "category": "IM Neuro",
+    "q": "Vascular dementia: what USMLE likes per p249?",
+    "a": "Resources focus on 'step-wise decline', but the source observes on NBME exams that this is rarely salient. USMLE likes giving motor and/or sensory deficits somewhere in a long stem (for example 3/5 right upper extremity strength), indicating a history of stroke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    }
+  },
+  {
+    "id": "s2med-2385",
+    "category": "IM Neuro",
+    "q": "AIDS and dementia per p249?",
+    "a": "AIDS can cause dementia, known as AIDS complex dementia. Can present as 'wet, wobbly, wacky', similar to normal pressure hydrocephalus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A StatPearls page on HIV-associated neurocognitive disorder is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555954/"
+    }
+  },
+  {
+    "id": "s2med-2386",
+    "category": "IM Neuro",
+    "q": "Pseudodementia per p249?",
+    "a": "Not actual dementia: depression that presents as cognitive decline. Patients with depression who have apathy will perform poorly on the MMSE. The question might say the patient cannot draw a clockface but can finish it quickly when prompted, or remembers 0 of 3 objects after 5 minutes. Look for obvious signs of depression such as short quiet answers and low mood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A StatPearls page on depressive cognitive disorders is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559256/"
+    }
+  },
+  {
+    "id": "s2med-2387",
+    "category": "IM Neuro",
+    "q": "Subacute combined degeneration per p249?",
+    "a": "The fancy name for neurologic degeneration seen in B12 deficiency. Can sometimes present as a reversible cause of dementia. In elderly patients on 'tea and toast' diets, or high-risk groups (vegans, pernicious anemia), consider B12 as the cause of cognitive decline.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 249,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=249"
+    },
+    "guideline": {
+      "text": "A case report of reversible B12 deficiency with dementia is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5187480/"
+    }
   }
 ];

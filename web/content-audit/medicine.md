@@ -879,3 +879,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p246 (syringomyelia, Brown-Sequard, transverse myelitis, cord syndromes) - 10 cards, ids s2med-2349 to 2358
 - Frequency claims and NBME observations unverified. Expletive paraphrased.
 - Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
+
+## p247 (brachial plexus, spina bifida) - 5 cards, ids s2med-2359 to 2363
+- CSF acetylcholinesterase wording unverified.
+## p248 (neurogenic joint, vasculitides, hydrocephalus) - 12 cards, ids s2med-2364 to 2375
+- NBME claims and 50% EGPA head-I figure unverified.
+## p249 (dementia types) - 12 cards, ids s2med-2376 to 2387
+- Sundowning "bright light wrong" vs literature: caution note. MMSE cutoffs and NBME observations unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
