@@ -1479,3 +1479,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p429 (IM mixed bullets: edema mechanisms, methemoglobinemia, RAAS, Babesia) - 5 cards, ids s2med-4481 to 4485
 - Afferent-resistance answer for external renal artery compression: source says it is a hypothetical NBME answer; not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p430 (IM mixed bullets: Babesia, nutrition, TLR-4, pouches, LAD, benzene) - 7 cards, ids s2med-4486 to 4492
+- Insulin "tyrosine kinase (MAP)" wording: source, not verified.
+
+## p431 (IM mixed bullets: antiplatelets, celecoxib, vitamin A, B9/B12, phentolamine) - 7 cards, ids s2med-4493 to 4499
+- "abciximab is a fibrinogen analogue" and celecoxib thromboxane wording: source, flagged unverified in cards.
+
+## p432 (IM mixed bullets: vWD, Hardy-Weinberg, hemochromatosis) - 5 cards, ids s2med-4500 to 4504
+- No new conflicts.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.

@@ -58333,5 +58333,214 @@ export default [
       "page": 429,
       "url": "/mehlman/hy-internal-medicine.pdf#page=429"
     }
+  },
+  {
+    "id": "s2med-4486",
+    "category": "IM Mixed",
+    "q": "Babesia vs malaria per p430 (continued from p429)?",
+    "a": "If the stem says the patient went to Africa, choose malaria; if the patient never left the US, malaria is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 430,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=430"
+    }
+  },
+  {
+    "id": "s2med-4487",
+    "category": "IM Mixed",
+    "q": "Kilocalories per gram of fat, carbs, protein, ethanol per p430?",
+    "a": "Fat 9; carbs 4; protein 4; ethanol 7. USMLE nutrition math relies on these.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 430,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=430"
+    }
+  },
+  {
+    "id": "s2med-4488",
+    "category": "IM Mixed",
+    "q": "Mechanism of insulin action per p430?",
+    "a": "Tyrosine kinase (MAP). The source also wants: increased nuclear transcription, increased serine-threonine kinase activity, decreased ubiquitin-mediated proteolysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 430,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=430"
+    }
+  },
+  {
+    "id": "s2med-4489",
+    "category": "IM Mixed",
+    "q": "What LPS binds to cause septic (endotoxic) shock per p430?",
+    "a": "Toll-like receptors: lipid A of LPS binds CD14 on macrophages (TLR-4), causing release of TNF-alpha and IL-1. Toxic shock syndrome (S. aureus TSST superantigen) instead bridges MHC-II and TCR; if the stem mentions cotton nasal packing or tampons, choose MHC-II + TCR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 430,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=430"
+    }
+  },
+  {
+    "id": "s2med-4490",
+    "category": "IM Mixed",
+    "q": "2F with a missing superior left parathyroid gland: embryologic defect per p430?",
+    "a": "Fourth pharyngeal pouch (superior parathyroids; third pouch = thymus + inferior parathyroids). Pouches are endoderm, arches mesoderm, clefts/grooves ectoderm. DiGeorge: aplasia of the 3rd and 4th pouches with hypocalcemia, T cell deficiency (absent thymic shadow), cleft lip/palate, heart defects (tetralogy of Fallot, truncus arteriosus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 430,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=430"
+    }
+  },
+  {
+    "id": "s2med-4491",
+    "category": "IM Mixed",
+    "q": "20F recurrent Staph infections + CD18 deficiency per p430?",
+    "a": "Failure of phagocyte emigration to inflamed tissue: leukocyte adhesion deficiency (LFA-1/CD18 integrin needed for diapedesis); recurrent infections (often Staph) with absent pus; delayed umbilical cord separation is often omitted as too easy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 430,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=430"
+    }
+  },
+  {
+    "id": "s2med-4492",
+    "category": "IM Mixed",
+    "q": "40F develops AML after an exposure: likely agent per p430?",
+    "a": "Benzene. Naphthylamine is associated with urothelial cancers; vinyl chloride with hepatic angiosarcoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 430,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=430"
+    }
+  },
+  {
+    "id": "s2med-4493",
+    "category": "IM Mixed",
+    "q": "Antiplatelet agent that prevents platelets from interacting with fibrinogen per p431?",
+    "a": "Abciximab: monoclonal antibody against GpIIb/IIIa (which mediates aggregation and is bridged by fibrinogen). The source also calls it a fibrinogen analogue (not verified). Do not confuse aggregation (GpIIb/IIIa) with adhesion (Gp Ib). Eptifibatide and tirofiban also inhibit GpIIb/IIIa (lower yield).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 431,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=431"
+    }
+  },
+  {
+    "id": "s2med-4494",
+    "category": "IM Mixed",
+    "q": "P2Y12 (ADP) receptor inhibitors per p431?",
+    "a": "HY: clopidogrel and prasugrel; lower yield: ticagrelor and ticlopidine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 431,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=431"
+    }
+  },
+  {
+    "id": "s2med-4495",
+    "category": "IM Mixed",
+    "q": "Antiplatelet agent and vasodilator per p431?",
+    "a": "Cilostazol (cilostazol and dipyridamole inhibit platelet phosphodiesterase). Cilostazol is used for claudication after exercise fails; dipyridamole-thallium is a pharmacologic stress test (e.g., before AAA repair to assess perioperative MI risk).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 431,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=431"
+    }
+  },
+  {
+    "id": "s2med-4496",
+    "category": "IM Mixed",
+    "q": "Why celecoxib increases cardiovascular events per p431?",
+    "a": "Source answer: it inhibits platelet prostaglandin synthesis without inhibiting thromboxane synthesis (selective COX-2 inhibitor). I did not verify the wording.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 431,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=431"
+    }
+  },
+  {
+    "id": "s2med-4497",
+    "category": "IM Mixed",
+    "q": "35F on high-dose vitamins: cracked lips, rough dry skin, scalp alopecia per p431?",
+    "a": "Excess vitamin A: desquamation, increased transaminases, dyslipidemia, pseudotumor cerebri; teratogenic (pregnancy test before isotretinoin for acne).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 431,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=431"
+    }
+  },
+  {
+    "id": "s2med-4498",
+    "category": "IM Mixed",
+    "q": "46M alcoholic with hypersegmented neutrophils per p431?",
+    "a": "Folate (B9) deficiency, the most common vitamin deficiency; also tea-and-toast diet and antiepileptics (valproate, phenytoin, carbamazepine). B12 is for veganism/strict vegetarianism, chronic gastritis, pernicious anemia, gastrectomy or ileectomy, Crohn, D. latum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 431,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=431"
+    }
+  },
+  {
+    "id": "s2med-4499",
+    "category": "IM Mixed",
+    "q": "34F receives phentolamine: intracellular effect per p431?",
+    "a": "Decreased phospholipase C activity: phentolamine is an alpha-1 antagonist; alpha-1 is Gq-coupled (agonism raises PLC, IP3, DAG; antagonism lowers them, continues on p432).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 431,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=431"
+    }
+  },
+  {
+    "id": "s2med-4500",
+    "category": "IM Mixed",
+    "q": "Effect of alpha-1 antagonism on second messengers (continued from p431)?",
+    "a": "Decreased phospholipase C activity, decreased IP3, decreased DAG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 432,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=432"
+    }
+  },
+  {
+    "id": "s2med-4501",
+    "category": "IM Mixed",
+    "q": "17F heavy menses + easy bruising + low Hb + normal platelets + normal PT + increased PTT: deficient factor per p432?",
+    "a": "von Willebrand factor: bridges Gp Ib on platelets to endothelium. Bleeding time always increased; PT normal; PTT increased only about half the time (stabilizing factor VIII is a secondary role); many NBME items have a normal PTT. Platelets normal or slightly low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 432,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=432"
+    }
+  },
+  {
+    "id": "s2med-4502",
+    "category": "IM Mixed",
+    "q": "Typical vWD vignette per p432?",
+    "a": "One platelet problem (easy bruising, petechiae, epistaxis) plus one clotting factor problem (menorrhagia, bleeding with tooth extraction). Hemarthrosis is more hemophilia than vWD. vWD is AD; hemophilia A and B are XR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 432,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=432"
+    }
+  },
+  {
+    "id": "s2med-4503",
+    "category": "IM Mixed",
+    "q": "What most disturbs Hardy-Weinberg equilibrium per p432?",
+    "a": "An appreciable rate of gene mutation. H-W assumes: no appreciable mutation, random mating, a large population, no selection against a genotype, and no significant immigration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 432,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=432"
+    }
+  },
+  {
+    "id": "s2med-4504",
+    "category": "IM Mixed",
+    "q": "43M elevated fasting glucose + arthritis + cardiomegaly: mechanism per p432?",
+    "a": "Increased intestinal iron absorption: hemochromatosis (AR, chromosome 6). Iron deposits in the pancreas tail (diabetes), heart (dilated or restrictive cardiomyopathy), hypothalamus/testes (infertility), skin ('bronze diabetes'). Hemochromatosis and primary hyperparathyroidism are two HY causes of pseudogout (CPPD), which can mimic OA even with Heberden nodes. Next step: check serum iron and ferritin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 432,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=432"
+    }
   }
 ];
