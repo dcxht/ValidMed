@@ -1447,3 +1447,14 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p420 (IM mixed bullets: PJP vs pneumococcus, adolescent gyn/growth) - 14 cards, ids s2med-4385 to 4398
 - Aspergilloma open lung biopsy: source answer (repeat of earlier entry).
 - Mobile QA (320x740, local vite preview build, not live): all 48 cards ox=false off=false bad=0.
+
+## p421 (IM mixed bullets: alcohol withdrawal, Addison/Conn, tuberous sclerosis) - 14 cards, ids s2med-4399 to 4412
+- "FMD with high AT-II/aldosterone despite normal labs" and buspirone MOA wording: source, not verified.
+
+## p422 (IM mixed bullets: myxoma, Carney, DKA, salicylates, neutropenic fever) - 6 cards, ids s2med-4413 to 4418
+- Salicylate 20-minute mixed acid-base timing: source, not verified; guidance linked.
+- "Low cortisol causes chronic fatigue" aside omitted (unverified, in earlier entry).
+
+## p423 (IM mixed bullets: transfusion thresholds, HTN drugs, thiazides, electrolytes) - 12 cards, ids s2med-4419 to 4430
+- Source HTN rule (ACEi/ARB only with comorbidity) differs from current guideline options; AHA 2017 review linked.
+- Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.

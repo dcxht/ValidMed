@@ -57360,5 +57360,373 @@ export default [
       "page": 420,
       "url": "/mehlman/hy-internal-medicine.pdf#page=420"
     }
+  },
+  {
+    "id": "s2med-4399",
+    "category": "IM Mixed",
+    "q": "Adult male 4 feet tall with head and trunk proportional to limbs per p421?",
+    "a": "Laron dwarfism (growth hormone receptor defect, GH insensitivity).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4400",
+    "category": "IM Mixed",
+    "q": "Diffusely enlarged uterus + vaginal bleeding per p421?",
+    "a": "Adenomyosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4401",
+    "category": "IM Mixed",
+    "q": "Globular uterus + vaginal bleeding per p421?",
+    "a": "Leiomyomata uteri (fibroids).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4402",
+    "category": "IM Mixed",
+    "q": "42M two days after surgery: restlessness, tremulousness, tachycardia, diaphoresis per p421?",
+    "a": "Delirium tremens (alcohol withdrawal).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4403",
+    "category": "IM Mixed",
+    "q": "Treatment of delirium tremens per p421?",
+    "a": "Long-acting benzodiazepine (diazepam, lorazepam, or chlordiazepoxide); the source says USMLE likes chlordiazepoxide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4404",
+    "category": "IM Mixed",
+    "q": "42M two days after surgery: restlessness + tactile/visual hallucinations per p421?",
+    "a": "Alcoholic hallucinosis (same spectrum as DT); treat with a long-acting benzodiazepine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4405",
+    "category": "IM Mixed",
+    "q": "When is buspirone the answer per p421?",
+    "a": "Second-line treatment of generalized anxiety disorder (first-line is an SSRI).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4406",
+    "category": "IM Mixed",
+    "q": "MOA of buspirone per p421?",
+    "a": "Serotonin receptor agonist (source wording).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4407",
+    "category": "IM Mixed",
+    "q": "Biochemistry in Addison disease per p421?",
+    "a": "Low Na, high K, low pH, low bicarb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4408",
+    "category": "IM Mixed",
+    "q": "Biochemistry in Conn syndrome per p421?",
+    "a": "High Na, low K, high pH, high bicarb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4409",
+    "category": "IM Mixed",
+    "q": "Fatigue + normal Na, high K, low pH, low bicarb per p421?",
+    "a": "Addison disease (sodium can sometimes be normal in aldosterone derangement).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4410",
+    "category": "IM Mixed",
+    "q": "22F BP 160/110, FMD confirmed on MR angiography, normal electrolytes and pH: AT-II and aldosterone per p421?",
+    "a": "Both high. The source says biochemistry can be completely normal in aldosterone derangement; if the stem insists on a confirmed cause of hyperaldosteronism with high BP, AT-II and aldosterone are both high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4411",
+    "category": "IM Mixed",
+    "q": "2-year-old boy with writhing movements in sleep + periventricular nodules on head MRI: what else would be seen per p421?",
+    "a": "Renal angiomyolipoma or cardiac rhabdomyoma; diagnosis tuberous sclerosis (AD).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4412",
+    "category": "IM Mixed",
+    "q": "Child with a heart tumor per p421?",
+    "a": "Cardiac rhabdomyoma until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 421,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=421"
+    }
+  },
+  {
+    "id": "s2med-4413",
+    "category": "IM Mixed",
+    "q": "Adult with a heart tumor per p422?",
+    "a": "Cardiac myxoma until proven otherwise: ball-in-valve tumor in the left atrium causing a diastolic rumble that abates with unusual positioning (e.g., on the right side leaning diagonally).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 422,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=422"
+    }
+  },
+  {
+    "id": "s2med-4414",
+    "category": "IM Mixed",
+    "q": "2-year-old with cardiac myxoma + perioral melanosis + hyperthyroidism per p422?",
+    "a": "Carney complex: cardiac myxoma + perioral melanosis + endocrine hypersecretion (classically bilateral pigmented zona fasciculata hyperplasia causing Cushing; can be hyperthyroidism or growth hormone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 422,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=422"
+    },
+    "guideline": {
+      "text": "The linked PubMed record describes the complex of myxomas, spotty pigmentation, and endocrine overactivity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4010501/"
+    }
+  },
+  {
+    "id": "s2med-4415",
+    "category": "IM Mixed",
+    "q": "Biochemistry in DKA per p422?",
+    "a": "Low Na, high serum K, low total body K, low bicarb, low pH, low CO2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 422,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=422"
+    }
+  },
+  {
+    "id": "s2med-4416",
+    "category": "IM Mixed",
+    "q": "Aspirin toxicity in the first 20 minutes per p422?",
+    "a": "Normal O2, low CO2, high pH, normal bicarb: respiratory alkalosis only.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 422,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=422"
+    }
+  },
+  {
+    "id": "s2med-4417",
+    "category": "IM Mixed",
+    "q": "Aspirin toxicity after 20 minutes per p422?",
+    "a": "Normal O2, low CO2, low pH, low bicarb: mixed metabolic acidosis-respiratory alkalosis. The source says a pediatric 2CK NBME form with a teen who overdosed 20 minutes earlier had this as the answer (not respiratory alkalosis), and that 'lethargy' in a stem can non-specifically imply metabolic acidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 422,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=422"
+    },
+    "guideline": {
+      "text": "Mixed acid-base findings in salicylate toxicity are covered in the linked guidance document; I did not verify the 20-minute timing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4371029/"
+    }
+  },
+  {
+    "id": "s2med-4418",
+    "category": "IM Mixed",
+    "q": "Fever 103F, Hb 7, platelets 50,000, few neutrophils: next step per p422?",
+    "a": "Immediate IV broad-spectrum antibiotics: febrile neutropenia is a medical emergency (infection with no way to fight it). Giving platelets is a wrong answer; platelets are rarely transfused (continues on p423).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 422,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=422"
+    }
+  },
+  {
+    "id": "s2med-4419",
+    "category": "IM Mixed",
+    "q": "Transfusion thresholds in the febrile neutropenia stem (continued from p422)?",
+    "a": "Platelets may be considered under 10-20k with spontaneous bleeding. RBCs are usually transfused under 7 g/dL, but with low neutrophils + fever, 'transfuse RBCs' is wrong. Treat the Hb 7 rule as a general propensity, not a mandatory answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4420",
+    "category": "IM Mixed",
+    "q": "AV-nicking on fundoscopy per p423?",
+    "a": "Hypertensive retinopathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4421",
+    "category": "IM Mixed",
+    "q": "Treatment of hypertension per p423?",
+    "a": "Prediabetes, diabetes, or any cardiovascular/cerebrovascular disease: ACEi or ARB first. None of these (typical overweight middle-aged man with essential HTN): HCTZ or a dihydropyridine CCB. The source says there is no evidence of added benefit from ACEi/ARB in patients without those risk factors; HY for 2CK.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    },
+    "guideline": {
+      "text": "Current hypertension first-line options are reviewed in the linked 2017 AHA protocol review; the source's rule stays as the exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6207493/"
+    }
+  },
+  {
+    "id": "s2med-4422",
+    "category": "IM Mixed",
+    "q": "32F with pedal and forearm edema after starting an antihypertensive per p423?",
+    "a": "Fluid retention from a dihydropyridine CCB (e.g., nifedipine), a really HY side effect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4423",
+    "category": "IM Mixed",
+    "q": "Side effects of thiazides per p423?",
+    "a": "'HyperGLUC': hyperglycemia, hyperlipidemia, hyperuricemia, hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4424",
+    "category": "IM Mixed",
+    "q": "Who should never get thiazides per p423?",
+    "a": "Prediabetics or diabetics (push toward or worsen type II DM; per the source one of the most frequent pharmacologic mistreatments) and patients with a history of gout.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4425",
+    "category": "IM Mixed",
+    "q": "Diabetic patient on HCTZ for HTN per p423?",
+    "a": "Stop the thiazide and use an ACEi or ARB.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4426",
+    "category": "IM Mixed",
+    "q": "Other important thiazide use per p423?",
+    "a": "Decreased risk of nephro-/ureterolithiasis because thiazides cause hypocalciuria (and hence hypercalcemia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    },
+    "guideline": {
+      "text": "Thiazide-associated hypercalcemia is described in the linked PMC article.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2065855/"
+    }
+  },
+  {
+    "id": "s2med-4427",
+    "category": "IM Mixed",
+    "q": "Delirium in a patient on a thiazide per p423?",
+    "a": "Think hypercalcemia (high Ca is a HY USMLE cause of CNS dysfunction, 'hypercalcemic crisis').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4428",
+    "category": "IM Mixed",
+    "q": "Renal issue + hypercalcemia per p423?",
+    "a": "Nephrogenic diabetes insipidus (an NBME item per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4429",
+    "category": "IM Mixed",
+    "q": "CNS disturbance from an electrolyte problem per p423?",
+    "a": "High or low sodium; high calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
+  },
+  {
+    "id": "s2med-4430",
+    "category": "IM Mixed",
+    "q": "Arrhythmia from an electrolyte problem per p423?",
+    "a": "High or low potassium or calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 423,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=423"
+    }
   }
 ];
