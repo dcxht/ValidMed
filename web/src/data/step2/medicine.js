@@ -12551,5 +12551,176 @@ export default [
       "text": "A review of hyponatremia and SIAD exists; I did not verify its drug recommendations.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9282351/"
     }
+  },
+  {
+    "id": "s2med-0954",
+    "category": "IM Gastro",
+    "q": "Peutz-Jeghers syndrome per p103?",
+    "a": "Perioral melanosis (hyperpigmentation around the lips/mouth) plus hamartomatous colonic polyps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=103"
+    },
+    "img": "/mehlman/figures/med-p103-01.jpg",
+    "imgAlt": "Dark pigmented macules on the lips and around the mouth",
+    "guideline": {
+      "text": "StatPearls on Peutz-Jeghers syndrome is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK535357/"
+    }
+  },
+  {
+    "id": "s2med-0955",
+    "category": "IM Gastro",
+    "q": "How Peutz-Jeghers is tested per p103?",
+    "a": "USMLE nearly always shows the lips image and asks which polyps are in the colon (hyperplastic, tubulovillous, etc.): answer 'hamartomatous'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2med-0956",
+    "category": "IM Gastro",
+    "q": "Osler-Weber-Rendu syndrome per p103?",
+    "a": "Also called hereditary hemorrhagic telangiectasia; autosomal dominant. NBME loves showing a mouth or fingernail picture of telangiectasias.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=103"
+    },
+    "img": "/mehlman/figures/med-p103-02.jpg",
+    "imgAlt": "Small red telangiectasias on the lips and tongue",
+    "guideline": {
+      "text": "GeneReviews on HHT is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1351/"
+    }
+  },
+  {
+    "id": "s2med-0957",
+    "category": "IM Gastro",
+    "q": "OWR clinical clues per p103?",
+    "a": "A question gives nosebleeds plus the picture. High-output cardiac failure can occur from pulmonary AV fistulae. GI bleeding can occur, leading to anemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2med-0958",
+    "category": "IM Gastro",
+    "q": "Plummer-Vinson syndrome per p103?",
+    "a": "Triad of iron deficiency anemia, esophageal webs (dysphagia) and angular cheilitis (cracked corners of the mouth).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=103"
+    },
+    "img": "/mehlman/figures/med-p103-03.jpg",
+    "imgAlt": "Redness and cracking at the corners of the mouth (angular cheilitis)",
+    "guideline": {
+      "text": "StatPearls and a review on Plummer-Vinson syndrome exist; I did not verify their text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538306/"
+    }
+  },
+  {
+    "id": "s2med-0959",
+    "category": "IM Gastro",
+    "q": "Iron deficiency clues per p103?",
+    "a": "NBME can mention pica (eating clay, starch or ice), or show spoon-shaped nails (koilonychia), a sign of severe iron deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 103,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=103"
+    },
+    "guideline": {
+      "text": "A scoping review of pica and iron deficiency anemia exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10199804/"
+    }
+  },
+  {
+    "id": "s2med-0960",
+    "category": "IM Gastro",
+    "q": "Lip psoriasis per p104?",
+    "a": "Just know it is possible. USMLE can mention it on the upper lip or forehead, which confuses students who think psoriasis has to be on extensors only.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=104"
+    },
+    "img": "/mehlman/figures/med-p104-01.jpg",
+    "imgAlt": "Scaly red plaques on the lips",
+    "guideline": {
+      "text": "A case report with review of psoriasis of the lips exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8339463/"
+    }
+  },
+  {
+    "id": "s2med-0961",
+    "category": "IM Gastro",
+    "q": "Aphthous ulcer per p104?",
+    "a": "Also called canker sore. Usually a very painful, self-resolving lesion on labial mucosa. Not infective; idiopathic; thought to have a very mild autoimmune association; sometimes linked to triggers like spicy food.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=104"
+    },
+    "img": "/mehlman/figures/med-p104-02.jpg",
+    "imgAlt": "Single circled aphthous ulcer on the inner lip mucosa",
+    "guideline": {
+      "text": "StatPearls on recurrent aphthous stomatitis is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431059/"
+    }
+  },
+  {
+    "id": "s2med-0962",
+    "category": "IM Gastro",
+    "q": "Kawasaki disease per p104?",
+    "a": "Vasculitis causing 5+ days of fever plus injected (red) eyes and/or lips/tongue, cervical lymphadenopathy, edema of the dorsa of the hands, and desquamation of the palms/soles (often called a 'rash' but not a true rash).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=104"
+    },
+    "img": "/mehlman/figures/med-p104-03.jpg",
+    "imgAlt": "Red, cracked, glossy lips in Kawasaki disease",
+    "guideline": {
+      "text": "The AHA scientific statement on Kawasaki disease is a reference; I did not verify its criteria text.",
+      "url": "https://www.ahajournals.org/doi/10.1161/cir.0000000000000484"
+    }
+  },
+  {
+    "id": "s2med-0963",
+    "category": "IM Gastro",
+    "q": "Coronary aneurysms in Kawasaki per p104?",
+    "a": "The source says students obsess over coronary artery aneurysms, but USMLE basically never mentions them.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=104"
+    },
+    "guideline": {
+      "text": "This is the source's exam observation; the AHA statement does cover coronary artery complications in practice, so this is an exam heuristic only.",
+      "url": "https://www.ahajournals.org/doi/10.1161/cir.0000000000000484"
+    }
+  },
+  {
+    "id": "s2med-0964",
+    "category": "IM Gastro",
+    "q": "Perioral impetigo per p104?",
+    "a": "Often confused with herpes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 104,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=104"
+    },
+    "img": "/mehlman/figures/med-p104-04.jpg",
+    "imgAlt": "Crusted lesions around the mouth in a child",
+    "guideline": {
+      "text": "A case article on progressive perioral lesions in a child exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12702201/"
+    }
   }
 ];

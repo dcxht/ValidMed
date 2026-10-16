@@ -456,3 +456,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Page text inspected, no figures. End of IM Renal (p103 starts Gastro). Expletive paraphrased.
 - Unverified: eplerenone gynecomastia claim details.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p103 (IM Gastro: oral cavity - PJS, OWR, Plummer-Vinson) - 6 cards, ids s2med-0954 to 0959
+- Figures med-p103-01/02/03 inspected (lips pigmentation; telangiectasias; angular cheilitis). Gastro section starts here (category "IM Gastro").
+- Unverified: review texts.
+
+## p104 (IM Gastro: lip psoriasis, aphthous, Kawasaki, impetigo) - 5 cards, ids s2med-0960 to 0964
+- Figures med-p104-01..04 inspected.
+- Note: Kawasaki coronary aneurysm de-emphasis is an exam heuristic only. Unverified: review texts.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
