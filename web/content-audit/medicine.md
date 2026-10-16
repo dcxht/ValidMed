@@ -88,3 +88,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text; no figures. Page ends mid-tamponade (pulsus paradoxus bullet carries to p22).
 - Source cautions: steroids for pericarditis (current guidance may differ; not verified); Kussmaul mechanism is the source's "likely" explanation.
 - Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.
+
+## p22 (IM Cardio: tamponade ECG/management, torsades, peaked T) - 9 cards, ids s2med-0187 to 0195
+- Inspected page text and figures (alternans, torsades, peaked T). Page starts mid-pulsus paradoxus bullet.
+- Unverified: NBME wording claims, magnesium mechanism.
+
+## p23 (IM Cardio: hyperK treatment, U wave, delta wave, J wave, first-degree block) - 5 cards, ids s2med-0196 to 0200
+- Inspected page text and figures (U wave, delta wave, first-degree block). 
+- Source conflicts: source's normal PR "80-120 ms" is wrong (normal 120-200 ms); calcium chloride vs gluconate (gluconate preferred, chloride kept as source answer). Unverified: U wave statement, J wave 89.6 F vignette.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.

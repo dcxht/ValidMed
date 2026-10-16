@@ -2454,5 +2454,203 @@ export default [
       "text": "A JAMA review on whether a patient with pericardial effusion has tamponade exists; I did not verify the Beck triad frequencies.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/17456823/"
     }
+  },
+  {
+    "id": "s2med-0187",
+    "category": "IM Cardio",
+    "q": "'The pulsus paradoxus is <10 mm Hg' in a 2CK NBME vignette?",
+    "a": "The vignette's odd way of saying the diagnosis is not tamponade (pulsus paradoxus is a drop in systolic BP >10 mm Hg with inspiration).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2med-0188",
+    "category": "IM Cardio",
+    "q": "Tamponade ECG per p22 (figure)?",
+    "a": "Electrical alternans and low-voltage QRS complexes: short amplitudes, with heights that oscillate slightly up and down. Shown twice on 2CK NBMEs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    },
+    "img": "/mehlman/figures/med-p022-01.jpg",
+    "imgAlt": "Source figure p22: ECG with low-voltage QRS and alternating amplitude",
+    "guideline": {
+      "text": "A study of 12-lead ECG in tamponade with malignant pericardial effusion exists; I did not verify the NBME statement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6711093/"
+    }
+  },
+  {
+    "id": "s2med-0189",
+    "category": "IM Cardio",
+    "q": "Next best step in diagnosis of tamponade per p22?",
+    "a": "ECG first if listed; if not listed, echocardiography, which confirms fluid over the heart.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2med-0190",
+    "category": "IM Cardio",
+    "q": "Next best step in management of obvious tamponade per p22?",
+    "a": "Pericardiocentesis or pericardial window; USMLE will not list both. NBME 8 offline for 2CK has pericardial window as the answer with pericardiocentesis not listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2med-0191",
+    "category": "IM Cardio",
+    "q": "Torsades de pointes ECG per p22 (figure)?",
+    "a": "HY type of VT with a sinusoidal pattern on ECG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    },
+    "img": "/mehlman/figures/med-p022-02.jpg",
+    "imgAlt": "Source figure p22: polymorphic VT with sinusoidal amplitude, torsades de pointes"
+  },
+  {
+    "id": "s2med-0192",
+    "category": "IM Cardio",
+    "q": "Antiarrhythmics that cause torsades per p22?",
+    "a": "Sodium- and potassium-channel blockers such as quinidine and ibutilide. NBME asks directly: patient given ibutilide, increased risk of torsades.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    },
+    "guideline": {
+      "text": "A case report 'ECG Diagnosis: Ibutilide-induced Torsade de Pointes' exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6380474/"
+    }
+  },
+  {
+    "id": "s2med-0193",
+    "category": "IM Cardio",
+    "q": "QT prolongation and torsades per p22?",
+    "a": "QT prolongation is a risk factor for torsades. Antipsychotics, macrolides and metoclopramide prolong the QT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    }
+  },
+  {
+    "id": "s2med-0194",
+    "category": "IM Cardio",
+    "q": "Treatment USMLE wants for torsades per p22?",
+    "a": "Magnesium (asked directly on the new 2CK form), which stabilizes the myocardium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    },
+    "guideline": {
+      "text": "A scoping review of IV magnesium for torsade exists; I did not verify its conclusions.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12597394/"
+    }
+  },
+  {
+    "id": "s2med-0195",
+    "category": "IM Cardio",
+    "q": "Peaked T wave per p22 (figure)?",
+    "a": "Seen in hyperkalemia. Asked once on a 2CK form where they show the ECG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 22,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=22"
+    },
+    "img": "/mehlman/figures/med-p022-03.jpg",
+    "imgAlt": "Source figure p22: V4 with peaked T waves"
+  },
+  {
+    "id": "s2med-0196",
+    "category": "IM Cardio",
+    "q": "Hyperkalemia with ECG changes per p23: treatment?",
+    "a": "IV calcium gluconate or calcium chloride, which stabilizes the myocardium. Calcium gluconate is classic; calcium chloride shows up as an answer on a 2CK NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=23"
+    },
+    "guideline": {
+      "text": "An expert panel consensus on hyperkalemia in the ED: calcium gluconate is preferred because calcium chloride carries a risk of tissue necrosis with extravasation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8485984/"
+    }
+  },
+  {
+    "id": "s2med-0197",
+    "category": "IM Cardio",
+    "q": "U wave per p23 (figure)?",
+    "a": "Means hypokalemia. Shows up on NBME 12 for 2CK in an anorexia patient; purging (anorexia or bulimia) causes hypokalemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=23"
+    },
+    "img": "/mehlman/figures/med-p023-01.jpg",
+    "imgAlt": "Source figure p23: ECG with U wave after the T wave (arrow)",
+    "guideline": {
+      "text": "StatPearls on hypokalemia is a reference; I did not verify the U wave statement in the page I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482465/"
+    }
+  },
+  {
+    "id": "s2med-0198",
+    "category": "IM Cardio",
+    "q": "Delta wave per p23 (figure)?",
+    "a": "Seen in Wolff-Parkinson-White (accessory conduction pathway that bypasses the AV node, resulting in reentrant SVT). Classically a 'slurred upstroke' of the QRS with shortened PR. Basically nonexistent yield on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=23"
+    },
+    "img": "/mehlman/figures/med-p023-02.jpg",
+    "imgAlt": "Source figure p23: delta wave with PR interval <120 ms",
+    "guideline": {
+      "text": "StatPearls: a short PR interval with a slurred start to the QRS termed a delta wave.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554437/"
+    }
+  },
+  {
+    "id": "s2med-0199",
+    "category": "IM Cardio",
+    "q": "J waves per p23?",
+    "a": "Hypothermia. You do not need to identify them on ECG; they show up in a 2CK vignette with body temperature of 89.6 F.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=23"
+    },
+    "guideline": {
+      "text": "A Circulation article, Osborn Waves of Hypothermia, exists.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/01.CIR.101.25.e233"
+    }
+  },
+  {
+    "id": "s2med-0200",
+    "category": "IM Cardio",
+    "q": "First-degree heart block per p23 (figure)?",
+    "a": "Prolonged PR interval (>200 ms). Not really assessed on USMLE; just know the definition. Do not treat on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 23,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=23"
+    },
+    "img": "/mehlman/figures/med-p023-03.jpg",
+    "imgAlt": "Source figure p23: ECG with prolonged PR interval, first-degree block",
+    "guideline": {
+      "text": "Normal PR interval is 120 to 200 ms per StatPearls; the source page says 'should normally be 80-120 ms', which is not the standard normal range. Source figure is shown as given.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459147/"
+    }
   }
 ];
