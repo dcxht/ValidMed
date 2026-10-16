@@ -956,3 +956,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p273 (Rinne/Weber, cholinergic review) - 14 cards, ids s2med-2706 to 2719
 - Pharmacology wording from source; links by title only.
 - Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
+
+## p274 (neuro pharm: AChE inhibitors, anticholinergics) - 15 cards, ids s2med-2720 to 2734
+- Pralidoxime called "special anti-cholinergic" in source (it is a cholinesterase reactivator); flagged in note.
+- Diphenhydramine "M3" claim and NBME claims not verified.
+## p275 (neuro pharm: antimuscarinics, NM blockers, smoking cessation, AEDs) - 16 cards, ids s2med-2735 to 2750
+- Tiotropium vs ipratropium: source says USMLE doesn't care; GOLD favors long-acting agents. Source answer kept.
+- Valproate/carbamazepine/phenytoin "folate" mechanism not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 31 cards ox=false off=false bad=0.

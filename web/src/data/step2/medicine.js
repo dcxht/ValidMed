@@ -35959,5 +35959,434 @@ export default [
       "text": "A paper on the methacholine challenge is linked; I did not verify the wording.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40769591/"
     }
+  },
+  {
+    "id": "s2med-2720",
+    "category": "IM Neuro",
+    "q": "Donepezil per p274?",
+    "a": "Acetylcholinesterase inhibitor that increases acetylcholine in the synaptic cleft (pro-cholinergic). Used first-line for Alzheimer disease. Galantamine and rivastigmine have the same mechanism and use.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "A meta-analysis of acetylcholinesterase inhibitors for Alzheimer disease is linked (title only); I did not verify the first-line wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38439609/"
+    }
+  },
+  {
+    "id": "s2med-2721",
+    "category": "IM Neuro",
+    "q": "Edrophonium per p274?",
+    "a": "Aka Tensilon (brand name). Short-acting acetylcholinesterase inhibitor. In myasthenia gravis it causes marked improvement in symptoms and muscle function; in Lambert-Eaton it does not result in as marked improvement.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2med-2722",
+    "category": "IM Neuro",
+    "q": "Pyridostigmine per p274?",
+    "a": "Treatment for myasthenia gravis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2med-2723",
+    "category": "IM Neuro",
+    "q": "Physostigmine per p274?",
+    "a": "Antidote for Jimson weed poisoning (asked on NBME). Jimson weed contains atropine-like anticholinergic compounds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "A paper on anticholinergic poisoning from Jimson weed is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/933412/"
+    }
+  },
+  {
+    "id": "s2med-2724",
+    "category": "IM Neuro",
+    "q": "Neostigmine per p274?",
+    "a": "Used post-surgically to reverse neuromuscular blockade. Toward the end of surgery it increases ACh availability so ACh can bind its receptors and displace the nicotinic antagonists used for paralysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "A paper on neuromuscular block management is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10941205/"
+    }
+  },
+  {
+    "id": "s2med-2725",
+    "category": "IM Neuro",
+    "q": "Organophosphates: presentation per p274?",
+    "a": "The vignette is a backpacker in his or her 20s picking fruit on a farm, or someone who drank fluid in a suicide attempt. The phosphate group binds to acetylcholinesterase, inhibiting it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "A review of acute organophosphorus pesticide poisoning is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1832029/"
+    }
+  },
+  {
+    "id": "s2med-2726",
+    "category": "IM Neuro",
+    "q": "Organophosphates: prevention and Tx per p274?",
+    "a": "An NBME question asks how toxicity could best be prevented: 'wearing gloves' (wearing a mask is wrong), so acquisition occurs mostly through skin. USMLE wants atropine first, followed by pralidoxime as Tx.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card; I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1832029/"
+    }
+  },
+  {
+    "id": "s2med-2727",
+    "category": "IM Neuro",
+    "q": "Atropine per p274?",
+    "a": "Classic drug that blocks muscarinic receptors. Can be used to increase heart rate during surgery. First-line Tx for organophosphate poisoning before pralidoxime.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2med-2728",
+    "category": "IM Neuro",
+    "q": "Pralidoxime per p274?",
+    "a": "The source calls it a 'special anti-cholinergic' that regenerates functional acetylcholinesterase by removing the phosphate group that inhibited it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "Caution: this is described as an acetylcholinesterase reactivator rather than an anticholinergic receptor blocker; I did not verify. The management review is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1832029/"
+    }
+  },
+  {
+    "id": "s2med-2729",
+    "category": "IM Neuro",
+    "q": "Benztropine per p274?",
+    "a": "Used for acute dystonia due to antipsychotics. If a patient starts an antipsychotic and within hours to days gets torticollis, muscle rigidity without fever, and/or abnormal eye movements (oculogyric crisis), this is first-line Tx. Muscle rigidity with fever suggests neuroleptic malignant syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "A guideline on medical emergencies with psychotropic medications is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122152/"
+    }
+  },
+  {
+    "id": "s2med-2730",
+    "category": "IM Neuro",
+    "q": "Diphenhydramine per p274?",
+    "a": "First-generation H1 blocker with strong anticholinergic side effects, often characterized as a primary anticholinergic med. Can be used like benztropine for acute dystonia (USMLE will not list both).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2med-2731",
+    "category": "IM Neuro",
+    "q": "Diphenhydramine for motion sickness per p274?",
+    "a": "If used for motion sickness and asked which receptor antagonism enables the effect, the answer is M3. H2 is wrong since it refers to stomach acid secretion; diphenhydramine is an H1 blocker.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "A review of antihistamines for motion sickness is linked (title only); I did not verify the M3 claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9575651/"
+    }
+  },
+  {
+    "id": "s2med-2732",
+    "category": "IM Neuro",
+    "q": "Diphenhydramine: what USMLE asks per p274?",
+    "a": "Most questions revolve around knowing it should be discontinued from a patient's regimen, not added.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2med-2733",
+    "category": "IM Neuro",
+    "q": "Prochlorperazine per p274?",
+    "a": "Antipsychotic used as an anti-nausea med. Even though it is a D2 antagonist, antipsychotics have anticholinergic effects; here the antimuscarinic effects are 'good' since they treat nausea and motion sickness.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "A StatPearls page on prochlorperazine is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537083/"
+    }
+  },
+  {
+    "id": "s2med-2734",
+    "category": "IM Neuro",
+    "q": "Ipratropium per p274?",
+    "a": "One of the first-line agents used for COPD (asked on a 2CK NBME). COPD patients can be started on either a muscarinic antagonist such as ipratropium or a beta-2 agonist such as olodaterol (continued on p275).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 274,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=274"
+    },
+    "guideline": {
+      "text": "The 2023 GOLD report on inhaled therapy is linked (title only); current guidance favors long-acting agents. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10447769/"
+    }
+  },
+  {
+    "id": "s2med-2735",
+    "category": "IM Neuro",
+    "q": "Ipratropium vs tiotropium per p275 (continued)?",
+    "a": "New literature is pedantic about duration (long- versus short-acting antimuscarinics and beta-2 agonists), but USMLE is not. Some sources say tiotropium is now recommended over ipratropium first-line, but the source's students report ipratropium showed up and did not matter since it was the only listed drug that worked.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "The 2023 GOLD report is linked on the p274 card; I did not verify the exam anecdote.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10447769/"
+    }
+  },
+  {
+    "id": "s2med-2736",
+    "category": "IM Neuro",
+    "q": "Oxybutynin per p275?",
+    "a": "Used for urge incontinence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A paper on antimuscarinic therapy for incontinence is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1502391/"
+    }
+  },
+  {
+    "id": "s2med-2737",
+    "category": "IM Neuro",
+    "q": "Scopolamine per p275?",
+    "a": "Anticholinergic patch used for motion sickness (for example placed on the arm before a boat or plane). Oral diphenhydramine can also be used, but scopolamine is the classic treatment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A review of transdermal scopolamine is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2647072/"
+    }
+  },
+  {
+    "id": "s2med-2738",
+    "category": "IM Neuro",
+    "q": "Hyoscyamine per p275?",
+    "a": "Used sometimes for irritable bowel syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2med-2739",
+    "category": "IM Neuro",
+    "q": "Non-depolarizing blockers per p275?",
+    "a": "'Non-depolarizing' means the agent does not cause any action potentials. An NBME question mentions a non-depolarizing agent for neuromuscular blockade during surgery and the answer is 'tubocurarine'. Vecuronium is used for paralysis during surgery; cisatracurium and rocuronium are other important agents.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A StatPearls page on non-depolarizing neuromuscular blockers is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534828/"
+    }
+  },
+  {
+    "id": "s2med-2740",
+    "category": "IM Neuro",
+    "q": "Succinylcholine: mechanism per p275?",
+    "a": "Depolarizing nicotinic receptor agonist that acts as an antagonist due to desensitization. It binds and agonizes nicotinic receptors, causing initial action potentials and muscle twitching (fasciculations), before desensitization and paralysis. Akin to leuprolide desensitizing GnRH receptors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2med-2741",
+    "category": "IM Neuro",
+    "q": "Succinylcholine: malignant hyperthermia per p275?",
+    "a": "Can cause malignant hyperthermia (high fever plus muscular rigidity); treat with dantrolene, which inhibits the ryanodine Ca2+ channel.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A paper on succinylcholine and dantrolene availability is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30550426/"
+    }
+  },
+  {
+    "id": "s2med-2742",
+    "category": "IM Neuro",
+    "q": "Bupropion per p275?",
+    "a": "Dopamine plus norepinephrine reuptake inhibitor with antidepressant effects; also antagonizes nicotinic receptors, which removes the reward from smoking. Used for smoking cessation. Doesn't cause sexual side effects, unlike SSRIs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A paper on bupropion tolerability in smoking cessation is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12109935/"
+    }
+  },
+  {
+    "id": "s2med-2743",
+    "category": "IM Neuro",
+    "q": "Bupropion: seizure risk per p275?",
+    "a": "Lowers seizure threshold. Do not give to patients with eating disorders (electrolyte abnormalities increase seizure risk).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12109935/"
+    }
+  },
+  {
+    "id": "s2med-2744",
+    "category": "IM Neuro",
+    "q": "Varenicline per p275?",
+    "a": "Used for smoking cessation. Partial agonist at nicotinic receptors, but since the effect is less than endogenous ACh, it functions like an antagonist.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A paper on varenicline as an alpha4beta2 partial agonist is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15887955/"
+    }
+  },
+  {
+    "id": "s2med-2745",
+    "category": "IM Neuro",
+    "q": "Epilepsy drugs: what USMLE cares about per p275?",
+    "a": "The source says USMLE does not care about mechanisms for these; it mostly cares about side effects. Ethosuximide is the exception where USMLE might ask the mechanism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2med-2746",
+    "category": "IM Neuro",
+    "q": "Valproic acid per p275?",
+    "a": "Blocks sodium channels and increases GABA. Used as an alternative to lithium in bipolar disorder. Causes neural tube defects in pregnancy due to interference with folate metabolism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "An AAN/AES/SMFM guideline on antiseizure medication teratogenesis is linked (title only); I did not verify the folate mechanism.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11175651/"
+    }
+  },
+  {
+    "id": "s2med-2747",
+    "category": "IM Neuro",
+    "q": "Carbamazepine per p275?",
+    "a": "Blocks sodium channels. Generic antiepileptic; also used as prophylaxis for trigeminal neuralgia. Causes neural tube defects in pregnancy due to interference with folate metabolism. Can cause aplastic anemia and SIADH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A narrative review of hyponatremia with anticonvulsants is linked (title only); I did not verify aplastic anemia in it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11066697/"
+    }
+  },
+  {
+    "id": "s2med-2748",
+    "category": "IM Neuro",
+    "q": "Phenytoin per p275?",
+    "a": "Blocks sodium channels. Generic antiepileptic. Causes neural tube defects in pregnancy due to interference with folate metabolism. Can cause fetal hydantoin syndrome (finger nail hypoplasia plus abnormal facies). Used for status epilepticus if a benzo fails.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A paper on fetal hydantoin syndrome is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/957016/"
+    }
+  },
+  {
+    "id": "s2med-2749",
+    "category": "IM Neuro",
+    "q": "Ethosuximide per p275?",
+    "a": "Blocks thalamic calcium channels. The only antiepileptic USMLE might ask the mechanism for. Used for absence seizures.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    },
+    "guideline": {
+      "text": "A paper on ethosuximide and thalamic calcium current is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2545161/"
+    }
+  },
+  {
+    "id": "s2med-2750",
+    "category": "IM Neuro",
+    "q": "Benzodiazepines per p275?",
+    "a": "Diazepam, lorazepam, midazolam, chlordiazepoxide, etc.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 275,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=275"
+    }
   }
 ];
