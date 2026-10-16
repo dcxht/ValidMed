@@ -10151,5 +10151,194 @@ export default [
       "text": "A review of IgA vasculitis (HSP) is available; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546386/"
     }
+  },
+  {
+    "id": "s2med-0780",
+    "category": "IM Renal",
+    "q": "Goodpasture syndrome vignette per p81?",
+    "a": "Male in his 20s-40s with hematuria and hemoptysis. Like Wegener and microscopic polyangiitis, can cause RPGN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2med-0781",
+    "category": "IM Renal",
+    "q": "Goodpasture mechanism and biopsy per p81 (figure)?",
+    "a": "Anti-glomerular basement membrane antibodies (anti-GBM), against collagen IV. Renal biopsy shows linear immunofluorescence (USMLE likes the bright green image).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=81"
+    },
+    "img": "/mehlman/figures/med-p081-01.jpg",
+    "imgAlt": "Source figure p81: renal biopsy immunofluorescence with linear bright green staining along glomerular capillary walls",
+    "guideline": {
+      "text": "A paper identifying the alpha-3 chain of type IV collagen as the autoantigen exists, and a review of immunofluorescence in glomerular disease; I did not verify their text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8589284/"
+    }
+  },
+  {
+    "id": "s2med-0782",
+    "category": "IM Renal",
+    "q": "Alport syndrome per p81?",
+    "a": "X-linked (the source says XR; offline NBME 18 states XR) mutation in the collagen IV gene. Do not confuse with Goodpasture (antibodies against type IV collagen). Answer for a male with red urine + an eye or ear problem (collagen IV is in basement membranes of kidney, ear, eye). Eye: blurry vision/cataracts; ear: sensorineural hearing loss (organ of Corti). 'Splitting of the lamina densa'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=81"
+    },
+    "guideline": {
+      "text": "StatPearls on Alport syndrome is a reference; literature on inheritance varies (the source says USMLE does not care). I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470419/"
+    }
+  },
+  {
+    "id": "s2med-0783",
+    "category": "IM Renal",
+    "q": "MPGN per p81?",
+    "a": "Membranoproliferative glomerulonephritis: red urine in a patient with hepatitis C, heroin use or malignancy. Descriptors ('dense deposits', 'C3 nephritic factor', 'duplication of basement membranes') are, per the source, nonsense for USMLE. Next best step: renal biopsy (guides management).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=81"
+    },
+    "guideline": {
+      "text": "A review of hepatitis C-associated glomerulopathies exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4069286/"
+    }
+  },
+  {
+    "id": "s2med-0784",
+    "category": "IM Renal",
+    "q": "Heroin and the kidney per p81?",
+    "a": "A 2CK IM form: 'heroin' (heroin-induced nephropathy) for a patient with protein and blood in the urine. FSGS from heroin has no blood in the urine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=81"
+    },
+    "guideline": {
+      "text": "A review of the changing spectrum of heroin-associated kidney disease exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6032573/"
+    }
+  },
+  {
+    "id": "s2med-0785",
+    "category": "IM Renal",
+    "q": "Diffuse proliferative glomerulonephritis per p81?",
+    "a": "Red urine in a patient with SLE; sometimes 'wire-looping of capillary walls'. As with MPGN, next best step is renal biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=81"
+    },
+    "guideline": {
+      "text": "A review of lupus nephritis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3318208/"
+    }
+  },
+  {
+    "id": "s2med-0786",
+    "category": "IM Renal",
+    "q": "RPGN per p81-82 (figure)?",
+    "a": "Rapidly progressive glomerulonephritis: acute deterioration of renal function in the setting of a vasculitis (Wegener, microscopic polyangiitis) or Goodpasture syndrome. Characterized by fibrin crescents on biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 81,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=81"
+    },
+    "img": "/mehlman/figures/med-p082-01.jpg",
+    "imgAlt": "Source figure (top of p82, continuing the p81 table): glomerulus with a cellular crescent",
+    "guideline": {
+      "text": "StatPearls on RPGN is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557430/"
+    }
+  },
+  {
+    "id": "s2med-0787",
+    "category": "IM Renal",
+    "q": "Minimal change disease vignette per p82?",
+    "a": "Otherwise unexplained edema (peripheral, periorbital, ascites) in a kid without blood in the urine; almost always pediatric (rarely due to Hodgkin in adults). Classically post-viral, but about 50% of vignettes do not mention it. Example: 8-year-old with sniffles for 4 days, then edema a week later.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "StatPearls on minimal change disease is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560639/"
+    }
+  },
+  {
+    "id": "s2med-0788",
+    "category": "IM Renal",
+    "q": "Why it is called minimal change per p82?",
+    "a": "Light microscopy shows no abnormalities; EM shows effacement of podocytes. Mechanism: 'loss of size and charge barrier'. Corticosteroids are the highly effective treatment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "IPNA recommendations on steroid-sensitive nephrotic syndrome in children exist; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560639/"
+    }
+  },
+  {
+    "id": "s2med-0789",
+    "category": "IM Renal",
+    "q": "MCD and SBP per p82?",
+    "a": "A 2CK question gives minimal change disease as the etiology of spontaneous bacterial peritonitis (any cause of ascites can cause SBP). MCD is aka lipoid nephrosis (lipid droplets in urine on LM).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2med-0790",
+    "category": "IM Renal",
+    "q": "Membranous nephropathy causes per p82?",
+    "a": "Nephrotic syndrome in a patient with: drugs (dapsone, gold salts, sulfonamides); hepatitis B (hepatitis C rare); visceral cancers (breast, pancreatic); autoimmune primary disease: antibodies against phospholipase A2 receptor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "Reviews of PLA2R autoantibodies in membranous nephropathy exist; I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8019786/"
+    }
+  },
+  {
+    "id": "s2med-0791",
+    "category": "IM Renal",
+    "q": "Membranous nephropathy pathology per p82 (figure)?",
+    "a": "LM shows highly eosinophilic (pink), inflamed, thickened capillary walls. EM can show 'spike and dome' subepithelial deposits.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=82"
+    },
+    "img": "/mehlman/figures/med-p082-02.jpg",
+    "imgAlt": "Source figure p82: glomerulus with thickened eosinophilic capillary walls (membranous nephropathy)"
+  },
+  {
+    "id": "s2med-0792",
+    "category": "IM Renal",
+    "q": "Renal amyloidosis per p82?",
+    "a": "The answer for nephrotic syndrome in multiple myeloma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 82,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=82"
+    },
+    "guideline": {
+      "text": "A review of myeloma and AL amyloidosis with renal involvement exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3465548/"
+    }
   }
 ];

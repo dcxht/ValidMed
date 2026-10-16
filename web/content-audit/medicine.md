@@ -357,3 +357,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures). Page ends within the HSP list; continues p81.
 - Unverified: PANDAS (controversial entity), review texts.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p81 (IM Renal: Goodpasture, Alport, MPGN, DPGN, RPGN) - 7 cards, ids s2med-0780 to 0786
+- Inspected page text and figure (linear IF). The RPGN crescent image sits at the top of p82 (continuing this table) and is attached to the RPGN card.
+- Unverified: review texts; Alport inheritance noted as varying in the literature.
+
+## p82 (IM Renal: nephrotic syndromes) - 6 cards, ids s2med-0787 to 0792
+- Inspected page text and figure (membranous glomerulus). Page ends at renal amyloidosis start.
+- Unverified: review texts.
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
