@@ -29611,5 +29611,228 @@ export default [
       "text": "A review of keratoacanthoma management is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9651152/"
     }
+  },
+  {
+    "id": "s2med-2256",
+    "category": "IM Derm",
+    "q": "Melanoma: prognosis and the NBME biopsy answer per p233?",
+    "a": "Depth is most important for prognosis. Answer on NBME = excisional biopsy; suspected malignant lesions in non-cosmetically sensitive areas (not head/neck) can simply be excised with narrow margins; excise additional tissue if margins are positive (the entire lesion was not excised).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=233"
+    },
+    "img": "/mehlman/figures/med-p233-01.jpg",
+    "imgAlt": "Irregular dark brown-black lesion with uneven borders (melanoma)",
+    "guideline": {
+      "text": "The ESMO melanoma guideline is linked; I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7618628/"
+    }
+  },
+  {
+    "id": "s2med-2257",
+    "category": "IM Derm",
+    "q": "Melanoma on the back of the neck: biopsy and management per p233?",
+    "a": "'Full-thickness biopsy' is the USMLE answer for suspected melanoma on the back of the neck (an NBME question gives a similar lesion on the neck with full-thickness biopsy as the answer). Excision is management for neck lesions if full-thickness biopsy confirms melanoma; do Mohs micrographic surgery for facial lesions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=233"
+    },
+    "guideline": {
+      "text": "Source claims about NBME and Mohs for facial melanoma were not verified; the ESMO guideline linked in the previous card is the current reference. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7618628/"
+    }
+  },
+  {
+    "id": "s2med-2258",
+    "category": "IM Derm",
+    "q": "Punch biopsy and shave biopsy for suspected melanoma per p233?",
+    "a": "Punch biopsy is a type of full-thickness biopsy; if asked, choose the side of the lesion for biopsy rather than the middle. Shave biopsy: source has never seen it assessed on NBME, but says literature shows it can sometimes remove superficial non-pigmented lesions when melanoma is not suspected (shave biopsy on melanoma can create problems for assessing depth, prognosis and therapy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=233"
+    }
+  },
+  {
+    "id": "s2med-2259",
+    "category": "IM Derm",
+    "q": "Acral lentiginous melanoma per p233?",
+    "a": "Occurs on the palms/soles (areas not usually exposed to sun); more common in persons of African and Asian descent. Can also occur under the fingernail.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=233"
+    },
+    "img": "/mehlman/figures/med-p233-02.jpg",
+    "imgAlt": "Dark irregular lesion on the sole of the foot (acral lentiginous melanoma)",
+    "guideline": {
+      "text": "A US incidence study of acral lentiginous melanoma by race and ethnicity is linked; I did not verify the 'more common' wording (incidence rates versus share of melanomas).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10949133/"
+    }
+  },
+  {
+    "id": "s2med-2260",
+    "category": "IM Derm",
+    "q": "Subungual melanoma picture per p233?",
+    "a": "Melanoma can occur under the fingernail, seen as a dark longitudinal band in the nail.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 233,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=233"
+    },
+    "img": "/mehlman/figures/med-p233-03.jpg",
+    "imgAlt": "Dark brown vertical band in a fingernail (subungual melanoma)"
+  },
+  {
+    "id": "s2med-2261",
+    "category": "IM Derm",
+    "q": "Seborrheic keratoses per p234?",
+    "a": "Sun exposure and old age are the biggest risk factors; also seen in smokers. Described as 'greasy' or waxy skin growths that look like they can be 'peeled off'; not malignant.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=234"
+    },
+    "img": "/mehlman/figures/med-p234-01.jpg",
+    "imgAlt": "Brown waxy raised growths stuck-on in appearance (seborrheic keratoses)"
+  },
+  {
+    "id": "s2med-2262",
+    "category": "IM Derm",
+    "q": "Sign of Leser-Trelat per p234?",
+    "a": "Sudden, eruptive seborrheic keratoses secondary to an underlying visceral malignancy (unrelated to age or sun).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=234"
+    },
+    "guideline": {
+      "text": "A Leser-Trelat sign page is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29261959/"
+    }
+  },
+  {
+    "id": "s2med-2263",
+    "category": "IM Derm",
+    "q": "Mongolian spot per p234?",
+    "a": "Type of benign birthmark where dermal melanocytes fail to migrate superficially to the stratum basale. More common in Asians and blacks. (Listed under the blue nevus label in the source.)",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=234"
+    },
+    "img": "/mehlman/figures/med-p234-02.jpg",
+    "imgAlt": "Blue-gray flat patch on a baby's back and buttock (Mongolian spot)"
+  },
+  {
+    "id": "s2med-2264",
+    "category": "IM Derm",
+    "q": "Mongolian spot vs child abuse per p234?",
+    "a": "Often mistaken for child abuse. Schedule routine follow-up; the wrong answer is contacting child protective services.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=234"
+    },
+    "guideline": {
+      "text": "A paper on Mongolian spots in suspected abuse examinations is linked; I did not verify the exam advice, and the paper discusses the need to document these findings.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7181436/"
+    }
+  },
+  {
+    "id": "s2med-2265",
+    "category": "IM Derm",
+    "q": "Strawberry hemangioma per p234?",
+    "a": "Benign capillary tumor that will grow slightly then regress spontaneously within a few years. No Tx necessary unless causing functional impairment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=234"
+    },
+    "img": "/mehlman/figures/med-p234-03.jpg",
+    "imgAlt": "Raised red lobulated lesion beside the ear of an infant (strawberry hemangioma)",
+    "guideline": {
+      "text": "IADVL recommendations on infantile hemangioma are linked; current guidelines include propranolol for problematic or high-risk lesions (I did not read them). Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10115319/"
+    }
+  },
+  {
+    "id": "s2med-2266",
+    "category": "IM Derm",
+    "q": "Cherry vs strawberry hemangioma per p234?",
+    "a": "Do not confuse strawberry hemangioma with cherry hemangioma, which is due to sun exposure in the elderly and presents as a tiny cherry-colored papule.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 234,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=234"
+    }
+  },
+  {
+    "id": "s2med-2267",
+    "category": "IM Derm",
+    "q": "Cherry hemangioma per p235?",
+    "a": "Benign capillary tumors caused by sunlight; benign; greater prevalence as age increases. Students confuse them with strawberry hemangioma in peds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=235"
+    },
+    "img": "/mehlman/figures/med-p235-01.jpg",
+    "imgAlt": "Two small bright red papules (cherry hemangiomas)",
+    "guideline": {
+      "text": "A StatPearls page on cherry hemangioma is linked; I did not verify the 'caused by sunlight' claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563207/"
+    }
+  },
+  {
+    "id": "s2med-2268",
+    "category": "IM Derm",
+    "q": "Preauricular pit per p235?",
+    "a": "Benign finding, usually not associated with any congenital disorder. No Tx necessary. Can become infected; do surgical closure if frequent infections.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=235"
+    },
+    "img": "/mehlman/figures/med-p235-02.jpg",
+    "imgAlt": "Small pit in front of the ear (preauricular pit)",
+    "guideline": {
+      "text": "A paper on managing the infected preauricular sinus is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37295154/"
+    }
+  },
+  {
+    "id": "s2med-2269",
+    "category": "IM Derm",
+    "q": "Kasabach-Merritt syndrome per p235?",
+    "a": "Aka infantile hemangioma with thrombocytopenia; asked several times on 2CK assessments. The child has thrombocytopenia due to platelet sequestration within the lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=235"
+    },
+    "img": "/mehlman/figures/med-p235-03.jpg",
+    "imgAlt": "Large swollen purple-red vascular lesion on a baby's buttock and thigh (Kasabach-Merritt)",
+    "guideline": {
+      "text": "Caution: published work I found (title only, not read in full) links Kasabach-Merritt phenomenon to kaposiform hemangioendothelioma rather than common infantile hemangioma. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9385948/"
+    }
+  },
+  {
+    "id": "s2med-2270",
+    "category": "IM Derm",
+    "q": "Kasabach-Merritt: size and treatment per p235?",
+    "a": "Large and deforming; do not confuse with strawberry hemangioma. Tx is surgical.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 235,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=235"
+    },
+    "guideline": {
+      "text": "A review of Kasabach-Merritt management options is linked; I did not verify 'Tx is surgical' (medical therapy is also described).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5428202/"
+    }
   }
 ];

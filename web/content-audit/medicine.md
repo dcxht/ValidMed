@@ -841,3 +841,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p232 (AK, SCC, keratoacanthoma) - 5 cards, ids s2med-2251 to 2255
 - Not individually verified.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p233 (melanoma, acral) - 5 cards, ids s2med-2256 to 2260
+- NBME biopsy claims and Mohs for facial melanoma unverified; source answers kept.
+## p234 (SK, Mongolian spot, strawberry hemangioma) - 6 cards, ids s2med-2261 to 2266
+- Strawberry hemangioma "no Tx" vs propranolol in current guidelines: caution note added.
+## p235 (cherry, preauricular pit, Kasabach-Merritt) - 4 cards, ids s2med-2267 to 2270
+- Kasabach-Merritt linked to kaposiform hemangioendothelioma in literature; source says infantile hemangioma and surgical Tx. Caution notes added.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
