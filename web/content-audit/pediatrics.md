@@ -690,3 +690,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: Pompe listed as "debranching alpha-1,4-glucosidase" - it is lysosomal acid alpha-glucosidase; debranching deficiency is type III.
 - Left un-noted or flagged unverified: jaundice in von Gierke, "no lactic acidosis" in Cori, normal lactate in McArdle, Hunter XR, I-cell clinical features, crumpled tissue paper wording, "Niemann-Pick long name" mnemonic.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p142 (MPS, PKU, MSUD, homocystinuria, galactose and fructose disorders) - 16 cards, ids s2peds-2126 to 2141
+- Inspected page pixels. No figures (tables).
+- Notes verified against GeneReviews (MPS II, CBS deficiency), StatPearls (Hurler, PKU, MSUD, Galactokinase deficiency, GALT deficiency, HFI, Fructose metabolism).
+- Source conflict, source answer kept with caution note: Hurler described as "more severe form of Hunter" - StatPearls describes Hurler (MPS I, alpha-L-iduronidase, AR) as a separate disease from X-linked Hunter (MPS II). Card wording also adds "intellectual disability, current term" next to the page's "mental retardation".
+- Left un-noted or flagged unverified: corneal clouding Hunter vs Hurler, MSUD diaper odor, homocystinuria marfanoid girl detail and methionine synthase cause, endothelial/platelet mechanism, galactose-1-phosphate sequestering phosphate, essential fructosuria benign/urine test.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.

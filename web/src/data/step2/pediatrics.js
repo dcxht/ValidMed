@@ -30290,5 +30290,237 @@ export default [
       "text": "StatPearls: X-linked; angiokeratomas, acroparesthesia, renal dysfunction progressing to end-stage renal disease.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK435996/"
     }
+  },
+  {
+    "id": "s2peds-2126",
+    "category": "Lysosomal storage diseases",
+    "q": "What are the HY points of Hunter syndrome per p142?",
+    "a": "Iduronate sulfatase deficiency, GAG (dermatan + heparan sulfate) buildup. Gargoyle-like facies, stridor, aggressive behavior, no clouded corneas. Mnemonic: Hunters can see the X, so XR and no clouded corneas.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "GeneReviews: MPS II (Hunter) is an X-linked multisystem disorder with GAG accumulation from iduronate 2-sulfatase deficiency. I did not verify the corneal findings.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1274/"
+    }
+  },
+  {
+    "id": "s2peds-2127",
+    "category": "Lysosomal storage diseases",
+    "q": "What are the HY points of Hurler syndrome per p142?",
+    "a": "Alpha-L-iduronidase deficiency, GAG buildup. Gargoyle-like facies, stridor, aggressive behavior, yes clouded corneas. p142 calls it the more severe form of Hunter.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls describes Hurler as its own autosomal recessive disorder from alpha-L-iduronidase deficiency, separate from X-linked Hunter syndrome, not a severe form of Hunter. I did not verify the corneal clouding. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532261/"
+    }
+  },
+  {
+    "id": "s2peds-2128",
+    "category": "Phenylketonuria",
+    "q": "What is the inheritance and enzyme defect of PKU per p142?",
+    "a": "Autosomal recessive. Phenylalanine hydroxylase deficiency (or rarely THB, its cofactor), so phenylalanine cannot be converted to tyrosine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls and GeneReviews: phenylalanine hydroxylase deficiency; tetrahydrobiopterin is its cofactor.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK535378/"
+    }
+  },
+  {
+    "id": "s2peds-2129",
+    "category": "Phenylketonuria",
+    "q": "How is PKU screened for and why per p142?",
+    "a": "Heel-prick test at birth, since failure to detect PKU results in mental retardation (intellectual disability, current term).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls: PKU became the foundation for modern newborn screening programs; untreated PKU causes neurocognitive impairment.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK535378/"
+    }
+  },
+  {
+    "id": "s2peds-2130",
+    "category": "Phenylketonuria",
+    "q": "What is the treatment of PKU per p142?",
+    "a": "A phenylalanine-deficient diet.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls: dietary management is the mainstay, with pharmacologic options also described.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK535378/"
+    }
+  },
+  {
+    "id": "s2peds-2131",
+    "category": "Phenylketonuria",
+    "q": "What is the classic PKU presentation per p142?",
+    "a": "A child with a mousy or musty body odor who has lighter skin than siblings (partial albinism, since tyrosine is normally converted to melanin and cannot be synthesized).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls: musty or mousy odor of the skin or urine; reduced tyrosine causes hypopigmentation of skin and hair.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK535378/"
+    }
+  },
+  {
+    "id": "s2peds-2132",
+    "category": "Maple syrup urine disease",
+    "q": "What enzyme and amino acids are involved in maple syrup urine disease per p142?",
+    "a": "Branched-chain ketoacid dehydrogenase deficiency. Inability to break down leucine, isoleucine and valine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls: a genetic disorder of branched-chain amino acid metabolism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557773/"
+    }
+  },
+  {
+    "id": "s2peds-2133",
+    "category": "Maple syrup urine disease",
+    "q": "What is the classic sign of maple syrup urine disease per p142?",
+    "a": "A maple syrup scent in the diapers from the urine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls lists the condition as a branched-chain amino acid disorder. I did not verify the diaper odor wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557773/"
+    }
+  },
+  {
+    "id": "s2peds-2134",
+    "category": "Homocystinuria",
+    "q": "What is the classic vignette of homocystinuria per p142?",
+    "a": "A marfanoid school-age kid with thromboses: a tall, lanky 12-year-old girl with lens dislocation who also has thrombosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "GeneReviews: thromboembolism is the major cause of early death and morbidity in CBS deficiency. I did not verify the marfanoid or girl detail.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1524/"
+    }
+  },
+  {
+    "id": "s2peds-2135",
+    "category": "Homocystinuria",
+    "q": "Why does homocystinuria cause thrombosis per p142?",
+    "a": "Increased homocystine causes endothelial cell dysfunction and platelet activation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2peds-2136",
+    "category": "Homocystinuria",
+    "q": "Which enzyme deficiencies raise urinary homocystine per p142?",
+    "a": "Cystathionine synthase or methionine synthase deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "GeneReviews covers the cystathionine beta-synthase form. I did not verify methionine synthase as a cause in this source.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1524/"
+    }
+  },
+  {
+    "id": "s2peds-2137",
+    "category": "Galactokinase deficiency",
+    "q": "What are the HY points of galactokinase deficiency per p142?",
+    "a": "Present from birth after milk lactose becomes galactose + glucose, screened by heel-prick. Cataracts in the neonate: aldose reductase converts galactose to galactitol, which has a large osmotic pull in the lens. Milder than classic galactosemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls: nuclear cataracts without intolerance symptoms; galactose is reduced to galactitol by aldose reductase.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560683/"
+    }
+  },
+  {
+    "id": "s2peds-2138",
+    "category": "Classic galactosemia",
+    "q": "What enzyme and findings define classic galactosemia per p142?",
+    "a": "Galactose-1-phosphate uridyl transferase deficiency. From birth after milk feeds, screened by heel-prick. Cataracts, hepatomegaly, jaundice, hypoglycemia, associated with E. coli sepsis. Worse than GK deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls: hepatomegaly, hypoglycemia, cataracts and Escherichia coli sepsis in galactosemia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441957/"
+    }
+  },
+  {
+    "id": "s2peds-2139",
+    "category": "Classic galactosemia",
+    "q": "Why is classic galactosemia worse than GK deficiency per p142?",
+    "a": "Trapped galactose-1-phosphate in the liver sequesters phosphate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2peds-2140",
+    "category": "Essential fructosuria",
+    "q": "What are the HY points of essential fructosuria per p142?",
+    "a": "Fructokinase deficiency. A benign condition. Mere presence of reducing sugars in the urine, with a negative glucose oxidase urine test (reducing sugars are not glucose).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls describes fructokinase as the main enzyme for fructose metabolism. I did not verify the benign course or the urine test wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK576428/"
+    }
+  },
+  {
+    "id": "s2peds-2141",
+    "category": "Hereditary fructose intolerance",
+    "q": "What are the HY points of hereditary fructose intolerance per p142?",
+    "a": "Aldolase B deficiency. Begins with dietary introduction of juice, fruit, honey and table sugar. Hepatomegaly, jaundice, hypoglycemia. Trapped fructose-1-phosphate in the liver sequesters phosphate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 142,
+      "url": "/mehlman/hy-pediatrics.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls: autosomal recessive aldolase B deficiency presenting at weaning with vomiting, jaundice, hypoglycemia, with hypophosphatemia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559102/"
+    }
   }
 ];
