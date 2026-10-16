@@ -1217,3 +1217,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p352 (thyroid in pregnancy) - 10 cards, ids s2med-3530 to 3539
 - Levothyroxine "increase 50%" in pregnancy: source answer kept; not verified, flagged in note.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p353 (peds thyroid, TBG deficiency, PTH) - 10 cards, ids s2med-3540 to 3549
+- "Mental retardation" in source paraphrased to intellectual disability.
+
+## p354 (PTH/phosphate, vitamin D, hyperparathyroidism) - 10 cards, ids s2med-3550 to 3559
+- Secondary hyperparathyroidism reason 2 for low calcium continues on p355.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

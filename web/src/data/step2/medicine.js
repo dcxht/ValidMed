@@ -47493,5 +47493,257 @@ export default [
       "page": 352,
       "url": "/mehlman/hy-internal-medicine.pdf#page=352"
     }
+  },
+  {
+    "id": "s2med-3540",
+    "category": "IM Endocrine",
+    "q": "Thyroglossal duct cyst per p353?",
+    "a": "Benign, painless, midline neck mass in a school-age child arising from a persistent thyroglossal duct (embryologic remnant of the thyroid's descent from the base of the tongue to the neck).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    },
+    "guideline": {
+      "text": "A review of pediatric neck masses is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7140292/"
+    }
+  },
+  {
+    "id": "s2med-3541",
+    "category": "IM Endocrine",
+    "q": "Thyroglossal duct cyst vignettes per p353?",
+    "a": "2/3 of questions: painless midline neck lump that moves upward with swallowing or tongue protrusion (attached to the hyoid bone and/or base of tongue). 1/3 just say a painless midline neck mass just inferior to the hyoid bone with 99Tc uptake.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    }
+  },
+  {
+    "id": "s2med-3542",
+    "category": "IM Endocrine",
+    "q": "Lingual thyroid per p353?",
+    "a": "Ectopic thyroid tissue at the base of the tongue from failure of the gland to descend from the foramen cecum. It may be the only functioning thyroid tissue, causing hypothyroidism. An obscure cause of hypothyroidism on an offline NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    },
+    "guideline": {
+      "text": "A case report of ectopic lingual thyroid is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38465442/"
+    }
+  },
+  {
+    "id": "s2med-3543",
+    "category": "IM Endocrine",
+    "q": "Lingual thyroid vignette per p353?",
+    "a": "A child with hypothyroidism plus a midline neck lump high in the neck, with no mention of tongue protrusion or uptake. Can sometimes cause dysphagia, dysphonia, or dyspnea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    }
+  },
+  {
+    "id": "s2med-3544",
+    "category": "IM Endocrine",
+    "q": "Cretinism per p353?",
+    "a": "Aka congenital hypothyroidism. Most common causes: maternal iodine deficiency during pregnancy (worldwide) and fetal thyroid dysgenesis (western countries).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    },
+    "guideline": {
+      "text": "Guidelines for newborn screening of congenital hypothyroidism are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9887297/"
+    }
+  },
+  {
+    "id": "s2med-3545",
+    "category": "IM Endocrine",
+    "q": "Cretinism findings per p353?",
+    "a": "Intellectual disability (poor myelin sheath development), impaired bone growth, hypotonia, macroglossia, and protuberant abdomen (umbilical hernia; can be confused with kwashiorkor, protein-calorie malnutrition causing ascites). Screened for at birth with the heel-prick test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    }
+  },
+  {
+    "id": "s2med-3546",
+    "category": "IM Endocrine",
+    "q": "TBG deficiency per p353?",
+    "a": "Not expected to be known as an obscure condition; it's asked because TBG's role in pregnancy is high-yield: infer the inverse. Normal TSH, normal T3, normal free T4, low total T4.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    },
+    "guideline": {
+      "text": "A paper on thyroid function tests in TBG deficiency is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/120131/"
+    }
+  },
+  {
+    "id": "s2med-3547",
+    "category": "IM Endocrine",
+    "q": "PTH basic effects per p353?",
+    "a": "PTH increases serum Ca2+ and decreases serum phosphate. It raises calcium in three ways: pulls it out of bone, increases renal reabsorption, and upregulates 1-alpha-hydroxylase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    },
+    "guideline": {
+      "text": "A paper on PTH pharmacology is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5777439/"
+    }
+  },
+  {
+    "id": "s2med-3548",
+    "category": "IM Endocrine",
+    "q": "PTH and bone per p353?",
+    "a": "PTH binds osteoblasts, which express RANK-L on the surface; RANK-L binds RANK on osteoclasts, which resorb bone. Calcium enters the blood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    }
+  },
+  {
+    "id": "s2med-3549",
+    "category": "IM Endocrine",
+    "q": "PTH and the kidney per p353?",
+    "a": "Late-DCT calcium reabsorption increases (increased expression of an apical calcium channel). PTH also upregulates 1-alpha-hydroxylase in the PCT, converting 25-OH-D3 (calcidiol) into 1,25-(OH)2-D3 (calcitriol), which increases small bowel absorption of both calcium and phosphate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 353,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=353"
+    }
+  },
+  {
+    "id": "s2med-3550",
+    "category": "IM Endocrine",
+    "q": "PTH and phosphate per p354 (continued from p353)?",
+    "a": "PTH decreases serum phosphate by inhibiting PCT reabsorption (downregulates apical PCT phosphate transporters). If PTH is low, transporters aren't downregulated, too much phosphate is reabsorbed, and serum phosphate rises.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    }
+  },
+  {
+    "id": "s2med-3551",
+    "category": "IM Endocrine",
+    "q": "Rickets vs osteomalacia per p354?",
+    "a": "Rickets = vitamin D deficiency in children. Osteomalacia = vitamin D deficiency in adults.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    },
+    "guideline": {
+      "text": "A rickets diagnostic workup guidance is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9307538/"
+    }
+  },
+  {
+    "id": "s2med-3552",
+    "category": "IM Endocrine",
+    "q": "Vitamin D deficiency labs per p354?",
+    "a": "Calcium and phosphate both low (vitamin D is needed for intestinal absorption of both). PTH up because calcium is low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    }
+  },
+  {
+    "id": "s2med-3553",
+    "category": "IM Endocrine",
+    "q": "Vitamin D deficiency with renal failure per p354?",
+    "a": "Phosphate is high, not low: renal failure wins; the kidney can't downregulate PCT phosphate reabsorption. Renal failure + low vitamin D: low Ca2+, high PO4, high PTH. No renal failure + low vitamin D: low Ca2+, low PO4, high PTH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    },
+    "guideline": {
+      "text": "A KDIGO CKD-MBD guideline is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6340919/"
+    }
+  },
+  {
+    "id": "s2med-3554",
+    "category": "IM Endocrine",
+    "q": "Renal failure and vitamin D synthesis per p354?",
+    "a": "PTH can't activate 1-alpha-hydroxylase in the PCT: low 1,25-D3 but normal 25-D3. Extra 25-D3 doesn't build up; it is shunted to inactive 24,25-D3 (asked on NBME). Osteomalacia from renal failure is renal osteodystrophy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    }
+  },
+  {
+    "id": "s2med-3555",
+    "category": "IM Endocrine",
+    "q": "Primary hyperparathyroidism labs per p354?",
+    "a": "High Ca2+, low PO4, high PTH. Usually a PTH-secreting adenoma, but can be diffuse four-gland hyperplasia. Can be part of MEN-1 or MEN-2A.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    }
+  },
+  {
+    "id": "s2med-3556",
+    "category": "IM Endocrine",
+    "q": "Primary hyperparathyroidism urine findings per p354?",
+    "a": "High urinary Ca2+, high serum Ca2+, high urinary cAMP. Not an erratum: PTH increases late-DCT reabsorption, but high serum calcium means more is filtered, so urinary calcium is still high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    },
+    "guideline": {
+      "text": "A paper on hypercalciurias and parathyroid function is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC301566/"
+    }
+  },
+  {
+    "id": "s2med-3557",
+    "category": "IM Endocrine",
+    "q": "PTH and urinary cAMP per p354?",
+    "a": "PTH acts through G-alpha-s G-proteins, increasing adenylyl cyclase activity and cAMP, so urinary cAMP rises.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    }
+  },
+  {
+    "id": "s2med-3558",
+    "category": "IM Endocrine",
+    "q": "Secondary hyperparathyroidism labs per p354?",
+    "a": "Low Ca2+, high PO4, high PTH, low 1,25-D3. Due to renal failure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    }
+  },
+  {
+    "id": "s2med-3559",
+    "category": "IM Endocrine",
+    "q": "Why calcium is low in secondary hyperparathyroidism per p354 (continued on p355)?",
+    "a": "Reason 1: the kidney can't reabsorb calcium in the late-DCT as it should.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 354,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=354"
+    }
   }
 ];
