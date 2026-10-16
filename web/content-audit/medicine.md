@@ -366,3 +366,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (membranous glomerulus). Page ends at renal amyloidosis start.
 - Unverified: review texts.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p83 (IM Renal: amyloid, diabetic nephropathy) - 6 cards, ids s2med-0793 to 0798
+- Inspected page text and two figures (Congo red; Kimmelstiel-Wilson). First bullets carry over from p82's amyloidosis row.
+- Conflict: source's Congo red "apple-green birefringence" explanation; a paper questions the color description (not text-verified).
+
+## p84 (IM Renal: ACEi, FSGS, ATN) - 11 cards, ids s2med-0799 to 0809
+- Inspected page text (no figures). Page ends with rhabdomyolysis; continues p85.
+- Conflicts: "vancomycin not reliably nephrotoxic" is contested; contrast prophylaxis now limited to higher-risk patients; BP target >130/80. Unverified: review texts.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.

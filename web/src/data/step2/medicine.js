@@ -10340,5 +10340,244 @@ export default [
       "text": "A review of myeloma and AL amyloidosis with renal involvement exists; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3465548/"
     }
+  },
+  {
+    "id": "s2med-0793",
+    "category": "IM Renal",
+    "q": "Amyloidosis and multiple myeloma per p82-83?",
+    "a": "Amyloidosis = protein depositing where it should not. Multiple myeloma = plasma cell cancer producing too much immunoglobulin (high serum IgG kappa/lambda light chains); these pass through the kidney causing Bence-Jones proteinuria and deposit in the renal parenchyma, causing renal amyloidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=83"
+    },
+    "guideline": {
+      "text": "A review of light chain cast nephropathy in myeloma exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9113496/"
+    }
+  },
+  {
+    "id": "s2med-0794",
+    "category": "IM Renal",
+    "q": "Amyloid biopsy per p83 (figure)?",
+    "a": "Apple-green birefringence with Congo red stain. USMLE wants you to know this is because amyloid is beta-pleated sheets (NBME answer; alpha-helices is wrong).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=83"
+    },
+    "img": "/mehlman/figures/med-p083-01.jpg",
+    "imgAlt": "Source figure p83: Congo red stained glomerulus (left) and polarized view with birefringence (right)",
+    "guideline": {
+      "text": "A review of the amyloid-Congo red staining mechanism exists, and a paper titled 'Origins of a pervasive, erroneous idea: The green birefringence of Congo red-stained amyloid' questions the color description; I did not verify their text. Keep the source answer for the exam.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30403893/"
+    }
+  },
+  {
+    "id": "s2med-0795",
+    "category": "IM Renal",
+    "q": "NBME answer for myeloma kidney issue per p83?",
+    "a": "'Renal parenchymal disease' for a kidney issue due to multiple myeloma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2med-0796",
+    "category": "IM Renal",
+    "q": "Chronic renal failure per p83?",
+    "a": "Diabetes is the most common cause. Renal failure simply means decreased glomerular filtration rate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2med-0797",
+    "category": "IM Renal",
+    "q": "First kidney changes in diabetes per p83?",
+    "a": "1) Hyperfiltration (glucose crossing the glomerular membrane pulls water with it; polyuria): 'increased glomerular filtration' is what is most likely seen initially; over time GFR falls. 2) Thickening of the glomerular basement membrane (non-enzymatic glycosylation; loss of size and charge barrier).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=83"
+    },
+    "guideline": {
+      "text": "Papers on glomerular hyperfiltration in early diabetic kidney disease and on GBM thickening exist; I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10161735/"
+    }
+  },
+  {
+    "id": "s2med-0798",
+    "category": "IM Renal",
+    "q": "Kimmelstiel-Wilson nodules per p83 (figure)?",
+    "a": "Composed of hyaline; pink circles on light microscopy (very HY image) in diabetic glomerulosclerosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 83,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=83"
+    },
+    "img": "/mehlman/figures/med-p083-02.jpg",
+    "imgAlt": "Source figure p83: glomerulus with pink hyaline nodules (arrows)",
+    "guideline": {
+      "text": "A review of diabetic nephropathy glomerulosclerosis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1860608/"
+    }
+  },
+  {
+    "id": "s2med-0799",
+    "category": "IM Renal",
+    "q": "Hyaline arteriolosclerosis per p84?",
+    "a": "Deposition of hyaline (protein) in the walls of renal vasculature. Can have many causes, but on USMLE it is caused by diabetes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2med-0800",
+    "category": "IM Renal",
+    "q": "ACEi/ARBs in diabetes per p84?",
+    "a": "First drugs in diabetes with HTN (>130/80 in diabetes, not 140/90), proteinuria, or increased creatinine or renin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "The 2022 KDIGO diabetes-in-CKD guideline is a reference; I did not verify the BP target text.",
+      "url": "https://kdigo.org/wp-content/uploads/2022/10/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD.pdf"
+    }
+  },
+  {
+    "id": "s2med-0801",
+    "category": "IM Renal",
+    "q": "Angiotensin II and GFR per p84?",
+    "a": "AT-II constricts efferent arterioles, backing up pressure at the glomerulus to maintain GFR when renal blood flow falls: with low perfusion, RAAS and AT-II rise, efferent constriction increases filtration fraction (GFR/renal plasma flow), and GFR stays the same.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2med-0802",
+    "category": "IM Renal",
+    "q": "Why ACEi/ARBs help in diabetic kidney disease per p84?",
+    "a": "They decrease efferent constriction (not 'dilate'; prostaglandins dilate afferent), lowering filtration fraction and GFR slightly. Early slightly reduced GFR reduces how fast glucose is filtered across the glomerulus, slowing the inevitable GBM glycosylation and thickening: a small GFR loss now to prevent a massive loss later.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2med-0803",
+    "category": "IM Renal",
+    "q": "FSGS per p84?",
+    "a": "Answer for nephrotic syndrome in sickle cell; also heroin and HIV. Not as responsive to steroids as MCD. Focal = some glomeruli; diffuse = all; segmental = part of the nephron; global = all of the nephron.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "A review of FSGS pathogenesis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4149756/"
+    }
+  },
+  {
+    "id": "s2med-0804",
+    "category": "IM Renal",
+    "q": "Acute tubular necrosis presentation per p84?",
+    "a": "Sloughing of PCT tubular epithelial cells from chemical or ischemic insult. Only about 50% of questions mention 'muddy brown granular casts' (or dirty/brown pigmented casts); the rest just give oliguria or acutely worsening renal function with a classic ATN etiology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "A paper on muddy brown casts vs FENa in AKI exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9136901/"
+    }
+  },
+  {
+    "id": "s2med-0805",
+    "category": "IM Renal",
+    "q": "Next best step for suspected ATN per p84?",
+    "a": "'Measurement of urine sodium and creatinine concentrations' (2CK form); expect FENa >1% and BUN/Cr <20 almost always.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "StatPearls on acute tubular necrosis is a reference; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK507815/"
+    }
+  },
+  {
+    "id": "s2med-0806",
+    "category": "IM Renal",
+    "q": "Drugs causing ATN per p84?",
+    "a": "Aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin, IV contrast. Any of these + new oliguria or increased creatinine = ATN even without casts. A new NBME gives many drugs and creatinine 2 (NR 0.1-1.2) and asks what was given: gentamicin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "A review of antibiotic-induced nephrotoxicity exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10658282/"
+    }
+  },
+  {
+    "id": "s2med-0807",
+    "category": "IM Renal",
+    "q": "Endocarditis treatment then oliguria per p84?",
+    "a": "ATN due to gentamicin (empiric endocarditis Tx = gentamicin + vancomycin). The source adds that new literature suggests vancomycin is not reliably nephrotoxic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "A paper titled 'The Nephrotoxicity of Vancomycin' and one on low-dose gentamicin nephrotoxicity in S. aureus endocarditis exist; the vancomycin claim is contested. I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5579760/"
+    }
+  },
+  {
+    "id": "s2med-0808",
+    "category": "IM Renal",
+    "q": "Contrast nephropathy prevention per p84?",
+    "a": "Exceedingly HY on 2CK: adequate hydration before IV contrast is the number-one way to prevent it. Answer: '0.9% saline' or 'IV hydration therapy'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "The ACR/NKF consensus on IV iodinated contrast in kidney disease is the current reference; I did not verify its text. It limits prophylaxis to higher-risk patients.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7525144/"
+    }
+  },
+  {
+    "id": "s2med-0809",
+    "category": "IM Renal",
+    "q": "Rhabdomyolysis per p84 (continues p85)?",
+    "a": "Myoglobin is nephrotoxic. Risk factors: alcoholism, falls, intense training (e.g., marathon), McArdle syndrome (source: 'McCardle'), statins/fibrates.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 84,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=84"
+    },
+    "guideline": {
+      "text": "A review on rhabdomyolysis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4365849/"
+    }
   }
 ];
