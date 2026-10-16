@@ -54163,5 +54163,490 @@ export default [
       "page": 399,
       "url": "/mehlman/hy-internal-medicine.pdf#page=399"
     }
+  },
+  {
+    "id": "s2med-4112",
+    "category": "IM Mixed",
+    "q": "Bloods in CML per p400?",
+    "a": "High leukocyte count (mature neutrophils + metamyelocytes + myelocytes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4113",
+    "category": "IM Mixed",
+    "q": "Translocation for APL (AML M3) per p400?",
+    "a": "t(15;17).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4114",
+    "category": "IM Mixed",
+    "q": "Blood smear finding in APL per p400?",
+    "a": "Auer rods.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4115",
+    "category": "IM Mixed",
+    "q": "What are Auer rods composed of per p400?",
+    "a": "Myeloperoxidase (causes DIC when released into the blood during treatment).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4116",
+    "category": "IM Mixed",
+    "q": "Translocation and gene for follicular lymphoma per p400?",
+    "a": "t(14;18); bcl-2, an anti-apoptotic molecule.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4117",
+    "category": "IM Mixed",
+    "q": "Most common indolent NHL per p400?",
+    "a": "Follicular (waxing and waning neck mass over two years in an adult).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4118",
+    "category": "IM Mixed",
+    "q": "Most common aggressive NHL per p400?",
+    "a": "Diffuse large B cell lymphoma (DLBCL).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4119",
+    "category": "IM Mixed",
+    "q": "Translocation for mantle cell lymphoma per p400?",
+    "a": "t(11;14).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4120",
+    "category": "IM Mixed",
+    "q": "17F, painless lateral neck mass + mediastinal mass per p400?",
+    "a": "Hodgkin lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4121",
+    "category": "IM Mixed",
+    "q": "42M, painless lateral neck mass + hepatomegaly per p400?",
+    "a": "Hodgkin lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4122",
+    "category": "IM Mixed",
+    "q": "40M with Hodgkin lymphoma + renal condition per p400?",
+    "a": "Minimal change disease (a cytokine effect; the source says it was in UW 2CK).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    },
+    "guideline": {
+      "text": "Minimal change nephrotic syndrome with Hodgkin lymphoma is reported in the linked PubMed case series.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16672913/"
+    }
+  },
+  {
+    "id": "s2med-4123",
+    "category": "IM Mixed",
+    "q": "Lymph node biopsy in Hodgkin per p400?",
+    "a": "Reed-Sternberg cells ('owl eyes'; CD15/30+ B cells).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4124",
+    "category": "IM Mixed",
+    "q": "Are lymphomas/leukemias normally B or T cell per p400?",
+    "a": "Almost always B cell.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4125",
+    "category": "IM Mixed",
+    "q": "When is the answer T cell per p400?",
+    "a": "When there is a thymic lesion, as shown by a positive Pemberton sign (facial flushing with arms above head). The mediastinal mass in Hodgkin is from lymph node enlargement, not thymic (thymic lesion in Hodgkin is exceedingly rare).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4126",
+    "category": "IM Mixed",
+    "q": "First drug to start in T2DM per p400?",
+    "a": "Metformin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4127",
+    "category": "IM Mixed",
+    "q": "Side effect of metformin per p400?",
+    "a": "Lactic acidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4128",
+    "category": "IM Mixed",
+    "q": "Mechanism of metformin per p400?",
+    "a": "Source: 'increases glycolysis; decreases gluconeogenesis'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    },
+    "guideline": {
+      "text": "Metformin inhibiting gluconeogenesis is described in the linked PMC article; I did not verify the 'increases glycolysis' wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6129196/"
+    }
+  },
+  {
+    "id": "s2med-4129",
+    "category": "IM Mixed",
+    "q": "Treatment of impetigo per p400?",
+    "a": "Topical mupirocin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4130",
+    "category": "IM Mixed",
+    "q": "Treatment of erysipelas and cellulitis per p400?",
+    "a": "Oral dicloxacillin or oral cephalexin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4131",
+    "category": "IM Mixed",
+    "q": "Inpatient treatment of MSSA per p400?",
+    "a": "IV flucloxacillin or IV cefazolin (source spelling: cephazolin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 400,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=400"
+    }
+  },
+  {
+    "id": "s2med-4132",
+    "category": "IM Mixed",
+    "q": "Treatment of osteomyelitis per p401?",
+    "a": "IV nafcillin, oxacillin, or cefazolin; add ceftriaxone in sickle cell; add clindamycin for MRSA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4133",
+    "category": "IM Mixed",
+    "q": "Treatment of MRSA skin infection per p401?",
+    "a": "Clindamycin, TMP/SMX, doxycycline, or linezolid; vancomycin has poor skin penetration (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4134",
+    "category": "IM Mixed",
+    "q": "Suspected incarcerated hernia in a vignette per p401?",
+    "a": "Immediate groin exploration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4135",
+    "category": "IM Mixed",
+    "q": "Most common cause of fever after surgery per p401?",
+    "a": "Atelectasis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4136",
+    "category": "IM Mixed",
+    "q": "Electrolyte abnormality in Cushing syndrome per p401?",
+    "a": "Hypokalemia (chronically high glucocorticoid causes distal renal potassium wasting similar to aldosterone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4137",
+    "category": "IM Mixed",
+    "q": "Tachycardia + diaphoresis + diarrhea after a drug per p401?",
+    "a": "Serotonin syndrome (e.g., tramadol; or MAOI started too soon after stopping an SSRI).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4138",
+    "category": "IM Mixed",
+    "q": "Tachycardia + diaphoresis + diarrhea + tricuspid valve lesion per p401?",
+    "a": "Carcinoid syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4139",
+    "category": "IM Mixed",
+    "q": "Cause of carcinoid syndrome per p401?",
+    "a": "Usually a small bowel or appendiceal tumor metastatic to the liver (without metastasis the liver processes the serotonin derivatives); can also be bronchial carcinoid. The source says the tumors are S-100 positive and neural crest origin (unverified).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4140",
+    "category": "IM Mixed",
+    "q": "Diagnosis of serotonin and carcinoid syndromes per p401?",
+    "a": "Urinary 5-hydroxyindoleacetic acid (5-HIAA), per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4141",
+    "category": "IM Mixed",
+    "q": "Treatment of serotonin syndrome per p401?",
+    "a": "Remove offending agents + cyproheptadine (serotonin receptor antagonist).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4142",
+    "category": "IM Mixed",
+    "q": "Treatment of carcinoid syndrome per p401?",
+    "a": "Treat the underlying condition.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4143",
+    "category": "IM Mixed",
+    "q": "Outpatient asthma step order per p401?",
+    "a": "1) SABA (albuterol) for immediate management; 2) low-dose ICS; 3) maximize ICS dose; 4) add LABA (salmeterol). The source says this initial order is universal; last resort is oral corticosteroids, which are nonetheless most effective.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    },
+    "guideline": {
+      "text": "Current NAEPP 2020 guidance differs (for example ICS-formoterol as both maintenance and reliever for ages 12+); see the linked focused update. The source's stepwise order stays as the exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7924476/"
+    }
+  },
+  {
+    "id": "s2med-4144",
+    "category": "IM Mixed",
+    "q": "12M with ongoing wheezing on an albuterol inhaler: next best step per p401?",
+    "a": "Add low-dose ICS (continues on p402).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 401,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=401"
+    }
+  },
+  {
+    "id": "s2med-4145",
+    "category": "IM Mixed",
+    "q": "12M with ongoing wheezing on albuterol: what most decreases recurrence per p402?",
+    "a": "Oral corticosteroids. The source says although ICS is the next step and oral steroids are last resort, they are still most effective at decreasing recurrence, and NBME forms assess this distinction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4146",
+    "category": "IM Mixed",
+    "q": "Agents between LABA and oral steroids in asthma per p402?",
+    "a": "Any number in any order: nedocromil or cromolyn sodium, zileuton, montelukast, zafirlukast.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4147",
+    "category": "IM Mixed",
+    "q": "MOA of nedocromil and cromolyn sodium per p402?",
+    "a": "Mast cell stabilizers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4148",
+    "category": "IM Mixed",
+    "q": "MOA of zileuton per p402?",
+    "a": "Lipoxygenase inhibitor (the enzyme that makes leukotrienes from arachidonic acid).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4149",
+    "category": "IM Mixed",
+    "q": "MOA of the -lukasts per p402?",
+    "a": "Leukotriene LTC4, LTD4, and LTE4 inhibitors (receptor antagonists). The source says LTB4 is unrelated and induces neutrophil chemotaxis (like IL-8, kallikrein, platelet-activating factor, C5a, bacterial proteins).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4150",
+    "category": "IM Mixed",
+    "q": "16M snowboards all day, takes a pain reliever, next day wheezes on the slopes per p402?",
+    "a": "Aspirin-exacerbated respiratory disease (Samter triad): aspirin-induced asthma + aspirin hypersensitivity + nasal polyps. Other NSAIDs can precipitate it, but the literature and USMLE make it about aspirin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4151",
+    "category": "IM Mixed",
+    "q": "16M takes aspirin and wheezes: expected physical exam finding per p402?",
+    "a": "Nasal polyps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4152",
+    "category": "IM Mixed",
+    "q": "Why does aspirin cause asthma per p402?",
+    "a": "Arachidonic acid goes down either the cyclooxygenase or lipoxygenase pathway; blocking COX (irreversibly with aspirin, reversibly with other NSAIDs) shunts more down lipoxygenase, giving more leukotrienes and more bronchoconstriction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4153",
+    "category": "IM Mixed",
+    "q": "Kid with AERD: agent to decrease recurrence of symptoms (physician considering) per p402?",
+    "a": "Zileuton or a -lukast (both correct; only one will be listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
+  },
+  {
+    "id": "s2med-4154",
+    "category": "IM Mixed",
+    "q": "Kid with AERD: agent most likely to decrease recurrence per p402?",
+    "a": "Oral steroids: the source says they are most effective for preventing asthma, but are not wanted because of side effects (Cushing syndrome); very HY on 2CK forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 402,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=402"
+    }
   }
 ];

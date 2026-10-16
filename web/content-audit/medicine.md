@@ -1371,3 +1371,14 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - "bcr/abl tyrosine kinase inhibitor" wording: source error likely, card rewritten as fusion tyrosine kinase, flagged unverified.
 - "Hashimoto + cancer = thyroid lymphoma", Burkitt Western intra-abdominal claim: source, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 54 cards ox=false off=false bad=0.
+
+## p400 (IM mixed bullets: CML, APL, lymphomas, metformin, skin Abx) - 20 cards, ids s2med-4112 to 4131
+- Metformin "increases glycolysis" wording: source, not verified (gluconeogenesis note linked).
+
+## p401 (IM mixed bullets: osteomyelitis, MRSA, carcinoid, asthma steps) - 13 cards, ids s2med-4132 to 4144
+- Asthma stepwise order: source answer kept; NAEPP 2020 update linked as current note.
+- Carcinoid S-100 claim: source, flagged unverified (repeat of earlier entry).
+
+## p402 (IM mixed bullets: asthma drugs, AERD) - 10 cards, ids s2med-4145 to 4154
+- "Oral steroids most effective at preventing asthma" and LTB4 side-claims: source, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 43 cards ox=false off=false bad=0.
