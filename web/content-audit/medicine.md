@@ -1092,6 +1092,6 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Spiral fracture "pathognomonic for child abuse" kept as source with caution.
 - Expletive in unhappy triad entry paraphrased.
 
-## p320 (fractures by site) - 15 cards, ids s2med-3123 to 3137
+## p320 (fractures by site) - 16 cards, ids s2med-3123 to 3138
 - Source "FOSH" expanded to FOOSH. Clavicle figure-of-8 sling unverified; supracondylar "distal shaft" equivalence unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
