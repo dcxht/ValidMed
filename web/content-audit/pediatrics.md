@@ -682,4 +682,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls (MELAS, MCTD, Thyroglossal Duct Cyst, Congenital Torticollis, Branchial Cleft Cysts, Myotonic Dystrophy) and GeneReviews (Primary Mitochondrial Disorders Overview).
 - Source conflict, source answer kept with caution note: "mitochondrial disorders are maternally inherited only" - GeneReviews notes over 1,000 nuclear genes encode mitochondrial proteins and nuclear-gene disorders can be autosomal recessive.
 - Left un-noted or flagged unverified: early frontal balding, hypotonia/ear/eye/lactic acidosis tetrad as a rule, ragged red fibers, MCTD in children, thyroglossal swallowing/tongue movement and technetium uptake, "half of Qs" claim, branchial cleft opening to skin.
-- Mobile QA: PENDING (batched; will be run after the next push)
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
