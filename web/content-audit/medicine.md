@@ -393,3 +393,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures).
 - Conflict: MR angiography as RAS next step (guidance often starts with duplex US or CT/MR angiography); FMD "tunica media hyperplasia" wording. Unverified: review texts.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p89 (IM Renal: FMD vs PAN, neonatal renal artery thrombosis) - 6 cards, ids s2med-0843 to 0848
+- Figures med-p089-01/02 inspected (FMD proximal beading; PAN distal pearls; assignment by page order/caption).
+- Unverified: neonatal BP figures (source cites Google), review texts.
+
+## p90 (IM Renal: uremia, urolithiasis) - 9 cards, ids s2med-0849 to 0857
+- Page text inspected, no figures. Page ends mid-stone table (calcium row); continues p91.
+- Unverified: AUA imaging recommendation details, review texts.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

@@ -11026,5 +11026,214 @@ export default [
       "text": "StatPearls on fibromuscular dysplasia is a reference; I did not verify the histology wording.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK493204/"
     }
+  },
+  {
+    "id": "s2med-0843",
+    "category": "IM Renal",
+    "q": "FMD imaging and carotids per p89?",
+    "a": "MR angiography is the answer on NBME for the diagnostic modality. FMD can affect the carotid vessels; a 2CK Surg question gives an FMD vignette and says there is 25% occlusion of one carotid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=89"
+    },
+    "guideline": {
+      "text": "StatPearls on FMD is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK493204/"
+    }
+  },
+  {
+    "id": "s2med-0844",
+    "category": "IM Renal",
+    "q": "FMD vs PAN on angiogram per p89?",
+    "a": "Both can give a 'string of beads/pearls' look in renal vessels. FMD shows more beading along the larger/proximal arterial sections; PAN (a medium-vessel vasculitis) shows pearls more at the vascular termini, sparing the proximal parts. An NBME question lists both as choices and relies on the angiogram alone; the answer is PAN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=89"
+    },
+    "img": "/mehlman/figures/med-p089-01.jpg",
+    "imgAlt": "FMD angiogram: beading along the larger, proximal renal artery segments"
+  },
+  {
+    "id": "s2med-0845",
+    "category": "IM Renal",
+    "q": "PAN angiogram per p89?",
+    "a": "Polyarteritis nodosa angiogram: pearls (aneurysm-like dilations) are more distal in the renal vasculature, with the proximal portions more likely spared.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=89"
+    },
+    "img": "/mehlman/figures/med-p089-02.jpg",
+    "imgAlt": "PAN angiogram: pearls in the distal renal branches",
+    "guideline": {
+      "text": "A paper on PAN, hepatitis B antigen and angiography exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19966/"
+    }
+  },
+  {
+    "id": "s2med-0846",
+    "category": "IM Renal",
+    "q": "HY PAN facts per p89?",
+    "a": "Causes fibrinoid necrosis. Can be caused by hepatitis B. Spares the pulmonary vasculature. In the NBME PAN-vs-FMD question hepatitis B is not mentioned, but the answer is still PAN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=89"
+    },
+    "guideline": {
+      "text": "The 2021 ACR/Vasculitis Foundation PAN guideline is a reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12323812/"
+    }
+  },
+  {
+    "id": "s2med-0847",
+    "category": "IM Renal",
+    "q": "Hypertension in a neonate after umbilical artery catheterization per p89-90?",
+    "a": "Renal artery thrombosis. USMLE wants 'increased renin, increased aldosterone'. A 2CK NBME question: a child born at 26 weeks, umbilical artery catheter for BP monitoring during pneumonia, 3 weeks later BP 128/86; answer is increased renin, increased aldosterone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=89"
+    },
+    "guideline": {
+      "text": "A paper on infant hypertension after umbilical arterial catheterization exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/978330/"
+    }
+  },
+  {
+    "id": "s2med-0848",
+    "category": "IM Renal",
+    "q": "Neonatal BP norms per p90?",
+    "a": "The source says BP in term neonates is about 60/40 and about 50/30 in a preemie of 29 weeks, 'according to Google'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 89,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2med-0849",
+    "category": "IM Renal",
+    "q": "Uremia labs per p90?",
+    "a": "'Uremia' means urea in the blood but refers to symptomatic renal failure with poor labs. USMLE uremic patient: increased K+, decreased HCO3-, decreased Ca2+, increased PO4 3-; Na+ variable.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2med-0850",
+    "category": "IM Renal",
+    "q": "Uremic pericarditis and encephalopathy per p90?",
+    "a": "Friction rub in a patient with high BUN and Cr = uremic pericarditis; mental status change with high BUN and Cr = uremic encephalopathy. Answer for both = hemodialysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "StatPearls on uremic pericarditis is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536920/"
+    }
+  },
+  {
+    "id": "s2med-0851",
+    "category": "IM Renal",
+    "q": "Uremic platelet dysfunction per p90?",
+    "a": "Nosebleeds and/or petechiae in renal failure. Qualitative, not quantitative: bleeding time is increased, platelet count normal. Mechanism: high BUN impairs platelet function. Can be written as 'acquired platelet dysfunction'. Treatment = hemodialysis. On 2CK NBME 10 a pre-op uremic patient gets 'initiation of dialysis', lowering peri-op morbidity and intra-op bleeding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2med-0852",
+    "category": "IM Renal",
+    "q": "Uremic frost per p90?",
+    "a": "Yellow skin in severe renal failure from decreased ability to excrete urea; excess is excreted in sweat and precipitates as white crystalline deposits (frost). Can go with itchy skin (uremic pruritus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "StatPearls on uremic pruritus is a reference; I did not verify its text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK587340/"
+    }
+  },
+  {
+    "id": "s2med-0853",
+    "category": "IM Renal",
+    "q": "Urolithiasis diagnosis per p90?",
+    "a": "Urolithiasis is the umbrella term for nephrolithiasis and ureterolithiasis. Diagnosed with non-contrast CT of the abdomen and pelvis; KUB is less sensitive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "The AUA kidney stone guideline page is a reference; I did not verify its imaging recommendations.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/kidney-stones-medical-mangement-guideline"
+    }
+  },
+  {
+    "id": "s2med-0854",
+    "category": "IM Renal",
+    "q": "Calcium stones per p90?",
+    "a": "Most common type (oxalate or phosphate; the source says USMLE does not assess phosphate stones). Most young adults with idiopathic stones have normocalcemia and hypercalciuria. Healthy male in his 20s with sharp flank or groin pain plus RBCs in urine = urolithiasis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2med-0855",
+    "category": "IM Renal",
+    "q": "Causes of calcium oxalate stones per p90?",
+    "a": "Crohn disease and fat malabsorption (fat in the gut chelates calcium, leaving more free oxalate to be absorbed, so urinary oxalate rises). Primary hyperparathyroidism and malignancy with hypercalcemia. Ethylene glycol and hypervitaminosis C.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "Reviews on enteric hyperoxaluria in Crohn disease and on ethylene glycol toxicity exist; I did not verify their texts.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10821467/"
+    }
+  },
+  {
+    "id": "s2med-0856",
+    "category": "IM Renal",
+    "q": "Milk-alkali syndrome per p90?",
+    "a": "Increased calcium plus increased bicarbonate plus calcium stones. Textbook: too many antacids, but the vignette usually does not mention it and it is a diagnosis of exclusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "A review of milk-alkali syndrome exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2664604/"
+    }
+  },
+  {
+    "id": "s2med-0857",
+    "category": "IM Renal",
+    "q": "Stone prevention per p90?",
+    "a": "First step in prevention and treatment: adequate hydration. Thiazides prevent recurrent stones by decreasing urinary calcium; the NBME 'why' answer is increased reabsorption of calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 90,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=90"
+    },
+    "guideline": {
+      "text": "A CARI guidelines summary on preventing recurrent kidney stones exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12997322/"
+    }
   }
 ];
