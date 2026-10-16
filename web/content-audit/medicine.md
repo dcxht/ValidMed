@@ -384,3 +384,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures).
 - Conflict: urine eosinophils have limited diagnostic accuracy (paper not text-verified); source frequencies (4/5, 1/5) are its own observations.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p87 (IM Renal: RTA, TLS, Fanconi, Hartnup) - 8 cards, ids s2med-0827 to 0834
+- Inspected page text (no figures). Page ends mid-Hartnup; continues p88.
+- Source notes: anion gap reference 8-12 varies by lab; TLS prophylaxis broader than allopurinol in high risk. Unverified: expired tetracycline cause, review texts.
+
+## p88 (IM Renal: cystinuria, HRS, RAS, FMD) - 8 cards, ids s2med-0835 to 0842
+- Inspected page text (no figures).
+- Conflict: MR angiography as RAS next step (guidance often starts with duplex US or CT/MR angiography); FMD "tunica media hyperplasia" wording. Unverified: review texts.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.

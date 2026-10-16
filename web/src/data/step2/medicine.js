@@ -10802,5 +10802,229 @@ export default [
       "text": "A paper on diagnosing drug-induced AIN in hospitalized patients exists; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4326856/"
     }
+  },
+  {
+    "id": "s2med-0827",
+    "category": "IM Renal",
+    "q": "MUDPILES per p87?",
+    "a": "High anion-gap metabolic acidoses: Methanol, Uremia (renal failure), DKA, Phenformin (not needed), Iron/Isoniazid, Lactic acidosis, Ethylene glycol, Salicylates (aspirin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2med-0828",
+    "category": "IM Renal",
+    "q": "Anion gap per p87?",
+    "a": "Na+ - (Cl- + HCO3-). Normal 8-12; high = 13 or greater.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    },
+    "guideline": {
+      "text": "A paper on interpreting anion gap reference intervals exists (ranges vary by laboratory); I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32445342/"
+    }
+  },
+  {
+    "id": "s2med-0829",
+    "category": "IM Renal",
+    "q": "How RTA is tested per p87?",
+    "a": "USMLE does not care about the specifics of types I, II and IV; it is a normal anion-gap metabolic acidosis (not part of MUDPILES). Example: a long stem with an anion gap of 12 eliminates MUDPILES options (lactic acidosis, DKA, ethylene glycol), leaving e.g. Crohn disease or RTA. About 4/5 RTA questions show up this way.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    },
+    "guideline": {
+      "text": "A review of the evaluation of normal anion gap metabolic acidosis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5757610/"
+    }
+  },
+  {
+    "id": "s2med-0830",
+    "category": "IM Renal",
+    "q": "RTA types per p87?",
+    "a": "Type I: decreased ability to secrete H+ in the cortical collecting duct. Type II: decreased ability to reabsorb HCO3- in the PCT. Type IV: renal resistance to aldosterone or hyporeninemic hypoaldosteronism. Type III is 'hyper-rare'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    },
+    "guideline": {
+      "text": "A 2025 core curriculum on RTA exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39864011/"
+    }
+  },
+  {
+    "id": "s2med-0831",
+    "category": "IM Renal",
+    "q": "Type IV RTA vignette per p87?",
+    "a": "Hyperkalemia (the others do not). An Addisonian-like picture (decreased Na+, increased K+, decreased HCO3-) in a patient with chronic renal failure. Type II can be caused by Fanconi syndrome; type I can have renal parenchymal stones (in the tissue rather than the lumen, source wording).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2med-0832",
+    "category": "IM Renal",
+    "q": "Tumor lysis syndrome per p87?",
+    "a": "Lysis of tumor cells (especially leukemic) by chemoradiotherapy releases uric acid and phosphate, overwhelming the kidneys and causing uric acid crystals. Prevention of renal failure: allopurinol; the MOA answer is 'xanthine oxidase'. Blood arrows are the same as renal failure plus increased uric acid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    },
+    "guideline": {
+      "text": "An expert consensus on TLS prophylaxis exists (it also describes other agents such as rasburicase in higher-risk patients); I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37579533/"
+    }
+  },
+  {
+    "id": "s2med-0833",
+    "category": "IM Renal",
+    "q": "Fanconi syndrome per p87?",
+    "a": "Inability of the PCT to reabsorb many substances. NBME arrow question: decreased reabsorption of amino acids, glucose, bicarbonate and phosphate. Impaired bicarb reabsorption can lead to type II RTA. An important cause is consumption of expired tetracyclines. Do not confuse with Fanconi anemia (autosomal recessive aplastic anemia with hypoplastic thumbs/radii).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    },
+    "guideline": {
+      "text": "A review of renal tubular disorders exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4953774/"
+    }
+  },
+  {
+    "id": "s2med-0834",
+    "category": "IM Renal",
+    "q": "Hartnup disease per p87-88?",
+    "a": "Inability of the PCT to reabsorb tryptophan; in theory causes niacin (B3) deficiency because tryptophan is a precursor in niacin synthesis. The source says it has never seen this assessed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 87,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=87"
+    },
+    "guideline": {
+      "text": "StatPearls on Hartnup disease is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559076/"
+    }
+  },
+  {
+    "id": "s2med-0835",
+    "category": "IM Renal",
+    "q": "Cystinuria per p88?",
+    "a": "Hexagonal cystine stones in a young adult from inability to reabsorb the COLA (dibasic) amino acids: Cysteine, Ornithine, Lysine, Arginine. Cystine is two cysteines. Diagnosed with the cyanide-nitroprusside test. The source calls it a nonsense diagnosis that only appears as a distractor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    },
+    "guideline": {
+      "text": "A consensus statement on cystine nephrolithiasis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869875/"
+    }
+  },
+  {
+    "id": "s2med-0836",
+    "category": "IM Renal",
+    "q": "Hepatorenal syndrome per p88?",
+    "a": "Liver failure can sometimes cause renal failure via 'obscure mechanisms' (source wording). Renal biopsy is almost always normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    },
+    "guideline": {
+      "text": "A review of HRS pathophysiology and diagnosis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10308288/"
+    }
+  },
+  {
+    "id": "s2med-0837",
+    "category": "IM Renal",
+    "q": "Thin glomerular basement membrane disease per p88?",
+    "a": "Benign familial condition with mild hematuria; thin basement membranes allow small amounts of RBCs through. No treatment necessary.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    },
+    "guideline": {
+      "text": "StatPearls on thin basement membrane nephropathy is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK594234/"
+    }
+  },
+  {
+    "id": "s2med-0838",
+    "category": "IM Renal",
+    "q": "Renal artery stenosis vignette per p88?",
+    "a": "Narrowing of one or both renal arteries from atherosclerosis causes increased RAAS and BP. Patient over 50 with CVD risk factors (diabetes, HTN, smoking). Often 10-20 years of background HTN that becomes accelerated over months to 2 years once the kidney can no longer autoregulate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2med-0839",
+    "category": "IM Renal",
+    "q": "Other ways RAS is tested per p88?",
+    "a": "Increased BP in a patient with significant atherosclerosis elsewhere (CABG history, intermittent claudication, carotid bruit): the most likely cause is RAS (atherosclerosis elsewhere implies renal arteries too).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2med-0840",
+    "category": "IM Renal",
+    "q": "ACEi/ARB in RAS per p88?",
+    "a": "HY: renin and/or creatinine go up (NBME does not care if uni- or bilateral). Patients with compromised renal blood flow are more sensitive to the decreased filtration fraction from ACEi/ARBs. In unilateral RAS, renin is increased only from the affected kidney.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    },
+    "guideline": {
+      "text": "A paper on ACE inhibitor-induced renal dysfunction in atherosclerotic renovascular disease exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9551408/"
+    }
+  },
+  {
+    "id": "s2med-0841",
+    "category": "IM Renal",
+    "q": "Diagnosis of RAS per p88?",
+    "a": "After renin and aldosterone levels: MR angiography of the renal vessels (the USMLE next best step).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    },
+    "guideline": {
+      "text": "The ERA/ESH clinical practice document on atherosclerotic renovascular disease is a reference; imaging choice often starts with duplex ultrasound or CT/MR angiography. I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10689166/"
+    }
+  },
+  {
+    "id": "s2med-0842",
+    "category": "IM Renal",
+    "q": "Fibromuscular dysplasia per p88?",
+    "a": "Narrowing of renal arteries in a woman in her 20s-40s; not caused by atherosclerosis and not what 'renal artery stenosis' specifically refers to (atherosclerosis in a patient >50 with CVD). Tunica media hyperplasia (not dysplasia, despite the name) with a 'string of beads' appearance on renal angiogram.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 88,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=88"
+    },
+    "guideline": {
+      "text": "StatPearls on fibromuscular dysplasia is a reference; I did not verify the histology wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK493204/"
+    }
   }
 ];
