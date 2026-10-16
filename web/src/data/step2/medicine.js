@@ -16445,7 +16445,7 @@ export default [
       "url": "/mehlman/hy-internal-medicine.pdf#page=136"
     },
     "guideline": {
-      "text": "The CDC perinatal vaccine page is linked; I did not verify the schedule, which I know only as the source's version.",
+      "text": "The CDC perinatal vaccine page is linked; I did not verify the schedule; it is the source's version.",
       "url": "https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/vaccine-administration.html"
     }
   },
