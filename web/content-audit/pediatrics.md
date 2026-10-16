@@ -1088,3 +1088,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: topical metronidazole for trichomonas (CDC: oral 7 days); podophyllum resin vs podofilox; neurosyphilis timing.
 - Left unverified: clue cell/whiff wording, one-week herpes timeline, seronegative primary syphilis, FTA-ABS wording, neurosyphilis at any stage.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p199 (Bullet points: candidiasis, pediatric brain tumors, eyelid lesions, neonatal conjunctivitis) - 10 cards, ids s2peds-2764 to 2773
+- Inspected page text; no figures. Page ends mid-bullet inside the neonatal conjunctivitis list after the chemical subtype; continuation carded on p200.
+- Notes verified against CDC (candidiasis, gonorrhea in neonates) and StatPearls (Medulloblastoma, Pilocytic Astrocytoma, Parinaud, Craniopharyngioma, Periorbital Cellulitis, Hordeolum, Chalazion).
+- Source answers kept with caution notes: topical nystatin (CDC lists azoles); chalazion persistence needs ophthalmology.
+- Left unverified: nystatin, medulloblastoma vermis wording, craniopharyngioma recurrence/motor-oil, IV vs oral cellulitis, dermoid cyst, erythromycin not preventing chlamydia.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.

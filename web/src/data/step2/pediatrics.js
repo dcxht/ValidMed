@@ -39584,5 +39584,155 @@ export default [
       "text": "StatPearls: the most common presenting symptom in pediatric patients is vaginal bleeding or discharge.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK549794/"
     }
+  },
+  {
+    "id": "s2peds-2764",
+    "category": "Peds vignettes",
+    "q": "17F, BMI 28, erythematous and itchy vulva, no mention of discharge but the question asks for the organism. Diagnosis and treatment per p199?",
+    "a": "Candidiasis; classically curd-like white discharge, but one 2CK-level question does not mention it. Treat with topical nystatin first or oral fluconazole (topical nystatin usually tried first).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "CDC: fluconazole 150 mg orally in a single dose, or short-course topical azole formulations. CDC lists topical azoles, not nystatin, as the main topical class; I did not verify nystatin in the passage I read. Source answer kept.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm"
+    }
+  },
+  {
+    "id": "s2peds-2765",
+    "category": "Peds vignettes",
+    "q": "7M with 6 weeks of headaches, difficulty walking and bilateral papilledema. Diagnosis per p199?",
+    "a": "Medulloblastoma. It is cerebellar, not medullar: a tumor of the cerebellar vermis causing truncal ataxia. Morning vomiting is classic, but papilledema means increased intracranial pressure.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls: medulloblastoma signs include increased intracranial pressure (headache, nausea, vomiting). I did not verify the vermis wording for the classic subtype in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431069/"
+    }
+  },
+  {
+    "id": "s2peds-2766",
+    "category": "Peds vignettes",
+    "q": "4M with morning vomiting and an infratentorial MRI lesion that is mixed hyper- and hypointense. Diagnosis per p199?",
+    "a": "Pilocytic astrocytoma: mixed solid and cystic grossly; the most common pediatric primary brain tumor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls: pilocytic astrocytoma is the most common childhood brain tumor and is most commonly found in the cerebellum, optic pathways and hypothalamus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560614/"
+    }
+  },
+  {
+    "id": "s2peds-2767",
+    "category": "Peds vignettes",
+    "q": "4M with upward-gaze palsy. Diagnosis per p199?",
+    "a": "Parinaud syndrome due to a pinealoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls: Parinaud syndrome is the triad of impaired upward gaze, convergence retraction nystagmus and pupillary hyporeflexia; the most common causes are pineal gland tumors and midbrain infarction.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441892/"
+    }
+  },
+  {
+    "id": "s2peds-2768",
+    "category": "Peds vignettes",
+    "q": "4M with bitemporal hemianopsia and calcification on MRI. Diagnosis and facts per p199?",
+    "a": "Craniopharyngioma; the most common pituitary-region tumor in peds (prolactinoma in adults), though some sources say it is not a true pituitary tumor since it derives from Rathke pouch (roof of primitive pharynx). It can calcify, has motor-oil appearance, and frequently recurs after surgery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "Review: adamantinomatous craniopharyngioma commonly affects children and is associated with calcifications; bitemporal hemianopsia from optic chiasm compression is the most common visual finding. I did not verify the recurrence or motor-oil wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519027/"
+    }
+  },
+  {
+    "id": "s2peds-2769",
+    "category": "Peds vignettes",
+    "q": "6M in whom the image shows the eye looking like it was hit by a softball. Diagnosis and treatment per p199?",
+    "a": "Orbital cellulitis; must give IV antibiotics. In contrast, pre-septal cellulitis is less severe and can be treated with oral antibiotics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls: periorbital (preseptal) cellulitis is anterior to the orbital septum and is sometimes misdiagnosed as the more severe orbital cellulitis. I did not verify the IV versus oral treatment wording in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470408/"
+    }
+  },
+  {
+    "id": "s2peds-2770",
+    "category": "Peds vignettes",
+    "q": "6M with a painful bump on the eyelid. Diagnosis and treatment per p199?",
+    "a": "Hordeolum (stye); S. aureus infection; treat with warm compresses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls: 90% to 95% of hordeolum cases are due to Staphylococcus aureus; warm compresses are the first-line treatment.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459349/"
+    }
+  },
+  {
+    "id": "s2peds-2771",
+    "category": "Peds vignettes",
+    "q": "6M with a painless bump on the eyelid. Diagnosis and treatment per p199?",
+    "a": "Chalazion (blocked oil duct); treat with warm compresses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls: chalazion is a painless eyelid swelling; warm compresses for 15 minutes 2 to 4 times daily. I did not verify the blocked-gland mechanism.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK499889/"
+    }
+  },
+  {
+    "id": "s2peds-2772",
+    "category": "Peds vignettes",
+    "q": "6M with a painless eyelid bump and warm compresses are not working. Diagnosis and treatment per p199?",
+    "a": "Dermoid cyst of the eyelid; treatment is surgical.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "StatPearls says referral to ophthalmology for surgical management is suggested if a chalazion persists, so persistent bump needs ophthalmology evaluation. I did not verify the dermoid cyst claim.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK499889/"
+    }
+  },
+  {
+    "id": "s2peds-2773",
+    "category": "Peds vignettes",
+    "q": "Chemical neonatal conjunctivitis (first 24 hours of life) per p199: cause and prophylaxis?",
+    "a": "Frequently caused by silver nitrate eyedrops (gonococcal prophylaxis), more historical and replaced by topical erythromycin drops (most states require by law). Erythromycin (and silver nitrate) drops are only prophylaxis against gonococcus, not against chlamydia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 199,
+      "url": "/mehlman/hy-pediatrics.pdf#page=199"
+    },
+    "guideline": {
+      "text": "CDC: neonatal ocular prophylaxis with erythromycin, the only agent available in the United States, is required by law in most states. I did not verify the statement that it does not prevent chlamydia.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+    }
   }
 ];
