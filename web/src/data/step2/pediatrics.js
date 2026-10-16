@@ -40214,5 +40214,125 @@ export default [
       "text": "StatPearls: TCAs block peripheral alpha-adrenergic, histaminic, muscarinic and serotonin receptors; alpha blockade can cause hypotension. I did not verify the dissociation mechanism or urinary excretion wording.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK430931/"
     }
+  },
+  {
+    "id": "s2peds-2806",
+    "category": "Peds vignettes",
+    "q": "Caput succedaneum per p202-p203: what is it and how long does it last?",
+    "a": "Poorly defined soft tissue edema of the scalp, caused by pressure of the fetal scalp against the cervix during parturition (transient decreased blood flow and reactive edema); crosses suture lines; can be purplish like cephalohematoma (do not use color to distinguish); complications rare; disappears in hours to a few days.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "StatPearls: caput succedaneum is benign edema that crosses cranial suture lines and midline, from pressure on the fetal head during passage through the cervix. I did not verify the hours-to-days resolution.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK574534/"
+    }
+  },
+  {
+    "id": "s2peds-2807",
+    "category": "Peds vignettes",
+    "q": "Cephalohematoma per p203: what is it and how does it differ from caput?",
+    "a": "Well-defined, localized, fluctuant swelling from subperiosteal hemorrhage (Peds NBME answer: blood under the periosteum of the parietal bone); does not cross suture lines; may be associated with underlying skull fracture, clotting disorders and jaundice; disappears in weeks to months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "StatPearls: cephalohematoma is subperiosteal blood, typically occipital or parietal, and does not cross the midline or calvarial suture lines. I did not verify the fracture association and weeks-to-months resolution.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470192/"
+    }
+  },
+  {
+    "id": "s2peds-2808",
+    "category": "Peds vignettes",
+    "q": "Name the classic five findings in neonates of diabetic mothers per p203.",
+    "a": "Hypoglycemia, hypocalcemia, hypomagnesemia, hyperbilirubinemia and polycythemia. The baby is also often large (over 4000 g; macrosomia).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "Review of infants of diabetic mothers lists hypoglycemia, hyperbilirubinemia, polycythemia and macrosomia-related complications. The source's list of five is a mnemonic.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11037090/"
+    }
+  },
+  {
+    "id": "s2peds-2809",
+    "category": "Peds vignettes",
+    "q": "Neonate of a diabetic mom with hypoglycemia. What is the mechanism per p203?",
+    "a": "Increased insulin secretion: high maternal glucose crosses the placenta and drives high neonatal insulin; maternal insulin does not cross the placenta. Hypoglycemia is also the answer if the neonate is described as jittery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "Review: abrupt interruption of glucose delivery with elevated fetal insulin leads to hypoglycemia in the first hours after birth; the same symptoms may result from hypocalcemia, hypomagnesemia or asphyxia.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11037090/"
+    }
+  },
+  {
+    "id": "s2peds-2810",
+    "category": "Peds vignettes",
+    "q": "Neonate of a diabetic mom with QT interval changes. Which electrolyte abnormality per p203?",
+    "a": "Hypocalcemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "Review lists hypocalcemia among the metabolic problems of infants of diabetic mothers. I did not verify the QT link.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11037090/"
+    }
+  },
+  {
+    "id": "s2peds-2811",
+    "category": "Peds vignettes",
+    "q": "Why is hypomagnesemia relevant in a neonate of a diabetic mom per p203?",
+    "a": "Just be aware it is possible; hypomagnesemia can cause hypocalcemia and/or hypokalemia refractory to supplementation. This is better established in adult alcoholics who are dietary Mg deficient but can theoretically be applied to pediatrics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "StatPearls: magnesium deficiency can cause hypocalcemia as the two are interrelated; hypomagnesemia is linked with hypokalemia through potassium wasting.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK500003/"
+    }
+  },
+  {
+    "id": "s2peds-2812",
+    "category": "Peds vignettes",
+    "q": "Neonate of a diabetic mom with hyperbilirubinemia per p203: what is the risk?",
+    "a": "Increased risk for jaundice and kernicterus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "Review lists hyperbilirubinemia among the neonatal complications of maternal diabetes. I did not verify kernicterus wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11037090/"
+    }
+  },
+  {
+    "id": "s2peds-2813",
+    "category": "Peds vignettes",
+    "q": "Polycythemia in neonates of diabetic mothers per p203: what is normal and what is the definition?",
+    "a": "Increased RBC turnover is normal in neonates as fetal Hb declines and adult Hb rises; physiologic jaundice questions often give Hct in the low 50s% as normal. Polycythemia in neonates is defined as venous Hct above 65%.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 203,
+      "url": "/mehlman/hy-pediatrics.pdf#page=203"
+    },
+    "guideline": {
+      "text": "PubMed article on management of polycythemia in neonates; I did not verify the 65% definition beyond the title and the source claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20725868/"
+    }
   }
 ];

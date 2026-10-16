@@ -1116,3 +1116,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts: salicylate bicarbonate mechanism says "oxalate" (should be salicylate); card keeps source answer with salicylate wording.
 - Left unverified: glue toxicity vignette, butane vignette, salicylate normal Na/K/Cl values, TCA dissociation mechanism and urinary excretion wording.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p203 (Bullet points: caput vs cephalohematoma, infant of diabetic mother) - 8 cards, ids s2peds-2806 to 2813
+- Inspected page text; no figures. Source PDF has 205 pages: p204 is a social-links page and p205 a copyright page; no content to card.
+- Notes verified against StatPearls (Caput Succedaneum, Cephalohematoma, Hypomagnesemia) and an IDM review (PMC11037090); polycythemia article by title only.
+- Left unverified: caput hours-to-days resolution, cephalohematoma fracture/weeks resolution, hypocalcemia QT link, kernicterus wording, Hct above 65% definition.
+- Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
