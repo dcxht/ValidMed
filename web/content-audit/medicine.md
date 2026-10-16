@@ -902,3 +902,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p255 (vertigo, ototoxicity, trigeminal neuralgia) - 12 cards, ids s2med-2455 to 2466
 - NBME claims unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 51 cards ox=false off=false bad=0.
+
+## p256 (headaches, temporal arteritis, WKS start) - 21 cards, ids s2med-2467 to 2487
+- NBME claims unverified. GCA steroid route/biopsy timing unverified.
+## p257 (WKS, ataxia, cerebellar signs, B12/B1) - 18 cards, ids s2med-2488 to 2505
+- Source says ataxia-telangiectasia is X-linked (flagged, unverified). Asterixis listed under cerebellar signs (flagged). Romberg wording typo corrected with note. Expletives paraphrased.
+- Mobile QA (320x740, local vite preview build, not live): all 39 cards ox=false off=false bad=0.

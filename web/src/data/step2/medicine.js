@@ -32528,5 +32528,514 @@ export default [
       "text": "A paper on carbamazepine and trigger zones in trigeminal neuralgia is linked; I did not verify the wording.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/14716252/"
     }
+  },
+  {
+    "id": "s2med-2467",
+    "category": "IM Neuro",
+    "q": "Trigeminal neuralgia: which brain part per p256 (continued from p255)?",
+    "a": "An NBME question asks what part of the brain is damaged (no nerves listed) and the answer is pons, since CN V originates from the pons.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2468",
+    "category": "IM Neuro",
+    "q": "Trigeminal neuralgia: treatment per p256?",
+    "a": "Carbamazepine (the source calls it prophylaxis). No Tx for acute episodes since the pain lasts such a short duration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "The AAN-EFNS trigeminal neuralgia guideline is linked (title only); I did not read it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18721143/"
+    }
+  },
+  {
+    "id": "s2med-2469",
+    "category": "IM Neuro",
+    "q": "Trigeminal neuralgia vs cluster headache per p256?",
+    "a": "Often confused with cluster headache if occurring in the V1 (ophthalmic branch) distribution.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2470",
+    "category": "IM Neuro",
+    "q": "Cluster headache: presentation per p256?",
+    "a": "Male in his 20s-40s who wakes from sleep with 11/10 lancinating, knife-like headache; often ipsilateral lacrimation, rhinorrhea, and sometimes pupillary changes (the source has seen NBME say ipsilateral miotic pupil).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "A European guideline on cluster headache treatment is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37515405/"
+    }
+  },
+  {
+    "id": "s2med-2471",
+    "category": "IM Neuro",
+    "q": "Cluster headache: duration per p256?",
+    "a": "Episodes last minutes to half an hour (longer than trigeminal neuralgia); the man wakes from sleep and paces his room until the pain goes away.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2472",
+    "category": "IM Neuro",
+    "q": "Cluster headache: treatment per p256?",
+    "a": "Prophylaxis is verapamil. Tx for acute episodes is oxygen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "The same European guideline is linked on an earlier card; I did not verify the details.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37515405/"
+    }
+  },
+  {
+    "id": "s2med-2473",
+    "category": "IM Neuro",
+    "q": "Migraine: presentation per p256?",
+    "a": "Unilateral throbbing/pounding headache lasting hours; can have a prodromal visual aura or sounds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2474",
+    "category": "IM Neuro",
+    "q": "Migraine: treatment per p256?",
+    "a": "Prophylaxis is propranolol. Tx is NSAIDs first, followed by triptans (for example sumatriptan).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "An IHS recommendation on migraine prevention is linked (title only); I did not verify the order of treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39262214/"
+    }
+  },
+  {
+    "id": "s2med-2475",
+    "category": "IM Neuro",
+    "q": "Triptans per p256?",
+    "a": "Triptans are serotonin (5-HT) receptor agonists. They are not prophylactic; they are only abortive therapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2476",
+    "category": "IM Neuro",
+    "q": "Migraine history plus hypertension per p256?",
+    "a": "USMLE gives a woman in her 30s with hypertension and migraine history, and the treatment is 'beta blockade' for her HTN management.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2477",
+    "category": "IM Neuro",
+    "q": "Migraine with aura and contraceptives per p256?",
+    "a": "Estrogen-containing contraceptives are contraindicated in patients with migraine with aura.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "A systematic review of estrogen contraceptives and stroke in women with migraine is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29139115/"
+    }
+  },
+  {
+    "id": "s2med-2478",
+    "category": "IM Neuro",
+    "q": "Tension headache per p256?",
+    "a": "Bilateral, dull, band-like headache. Treated with sleep and acetaminophen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "A NICE headache guideline is linked (title only); I did not verify the treatment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK553317/"
+    }
+  },
+  {
+    "id": "s2med-2479",
+    "category": "IM Neuro",
+    "q": "Temporal arteritis: presentation per p256?",
+    "a": "Aka giant cell arteritis. In 9/10 questions it is a painful unilateral headache in a patient over 50 (the source has seen one NBME question where it is bilateral). Flares can come with low-grade fever and high ESR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "A StatPearls page on giant cell arteritis is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459376/"
+    }
+  },
+  {
+    "id": "s2med-2480",
+    "category": "IM Neuro",
+    "q": "Temporal arteritis and polymyalgia rheumatica per p256?",
+    "a": "Patients can get proximal muscle pain and stiffness (polymyalgia rheumatica, PMR). The two do not always go together, but the association is high yield. Do not confuse PMR with polymyositis: polymyositis has increased CK and/or proximal muscle weakness on exam; PMR has neither.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2481",
+    "category": "IM Neuro",
+    "q": "Temporal arteritis: jaw claudication per p256?",
+    "a": "Patients can get pain with chewing (jaw claudication).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2482",
+    "category": "IM Neuro",
+    "q": "Temporal arteritis: steroids before biopsy per p256?",
+    "a": "Highest-yield point: give steroids before biopsy to prevent blindness. An NBME has 'ischemic optic neuropathy' as the complication being prevented.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "The British Society for Rheumatology GCA guideline is linked (title only); I did not read it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31970405/"
+    }
+  },
+  {
+    "id": "s2med-2483",
+    "category": "IM Neuro",
+    "q": "Temporal arteritis: which steroid per p256?",
+    "a": "IV methylprednisolone is typically the steroid given, since it is faster than oral prednisone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "I did not verify this; see the guideline linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31970405/"
+    }
+  },
+  {
+    "id": "s2med-2484",
+    "category": "IM Neuro",
+    "q": "Temporal arteritis: biopsy timing answers per p256?",
+    "a": "The source observes many 2CK NBME questions give answers like 'steroids now and then biopsy within 3 days' or 'IV methylprednisolone and biopsy within a week'. Students ask about time frames, but USMLE gives scattered answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2485",
+    "category": "IM Neuro",
+    "q": "Temporal arteritis: next best step in diagnosis per p256?",
+    "a": "A 2CK Neuro CMS question gives an easy vignette and asks for the next best step in diagnosis: biopsy. Steroids are not part of the answer, since a diagnostic step is asked.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2486",
+    "category": "IM Neuro",
+    "q": "Ataxia definition per p256?",
+    "a": "A neurological disorder characterized by a lack of coordination of voluntary muscle movements, leading to unsteady gait and difficulty with balance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    }
+  },
+  {
+    "id": "s2med-2487",
+    "category": "IM Neuro",
+    "q": "Wernicke-Korsakoff syndrome: lesion per p256?",
+    "a": "Damage primarily to the mamillary bodies due to thiamine (B1) deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 256,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=256"
+    },
+    "guideline": {
+      "text": "A paper on mamillary body damage in Wernicke and Korsakoff is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34225949/"
+    }
+  },
+  {
+    "id": "s2med-2488",
+    "category": "IM Neuro",
+    "q": "Wernicke encephalopathy per p257?",
+    "a": "A COW: Ataxia, Confusion, Ophthalmoplegia, Wernicke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2489",
+    "category": "IM Neuro",
+    "q": "Korsakoff psychosis per p257?",
+    "a": "Retrograde amnesia; causes confabulations (making up stories about the past because of loss of memory of prior events). WKS = A COW plus confabulations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "A paper on mamillary body damage in WKS is linked; I did not verify the amnesia type.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34225949/"
+    }
+  },
+  {
+    "id": "s2med-2490",
+    "category": "IM Neuro",
+    "q": "WKS: application per p257?",
+    "a": "Alcoholics presenting with confusion, ataxia, or eye findings require thiamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2491",
+    "category": "IM Neuro",
+    "q": "Thiamine in an alcoholic: NBME per p257?",
+    "a": "One NBME question asks what giving thiamine will reduce the risk of in an alcoholic: anterograde amnesia (apparently by reducing risk of confusion due to Wernicke), where retrograde amnesia is not listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2492",
+    "category": "IM Neuro",
+    "q": "Cerebellar vs dorsal column ataxia per p257?",
+    "a": "USMLE wants you to differentiate ataxia from cerebellar vs dorsal column lesions. Dorsal column lesions cause a positive Romberg test (the patient falls over standing with eyes closed due to loss of proprioception). Cerebellar lesions almost always give a negative Romberg because proprioception is preserved (the source's printed wording says 'won't cause a (-) Romberg', which looks like a typo).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "I corrected the apparent typo in the source wording; check page 257 if you want the original.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5567218/"
+    }
+  },
+  {
+    "id": "s2med-2493",
+    "category": "IM Neuro",
+    "q": "Ataxia-telangiectasia per p257?",
+    "a": "The source calls it an X-linked immunodeficiency causing ataxia and telangiectasias. USMLE makes the diagnosis obvious and the answer is 'failure of double-stranded DNA break repair'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "Caution: the 'X-linked' label in the source needs checking; I did not verify inheritance. A paper on ATM's role in DNA double-strand break repair is linked for the mechanism.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8466060/"
+    }
+  },
+  {
+    "id": "s2med-2494",
+    "category": "IM Neuro",
+    "q": "Asterixis per p257 (listed under cerebellar signs)?",
+    "a": "Aka 'hepatic flap'. Motor disturbance of brief, sudden lapses of muscle tone, seen as a 'flapping' motion of the hands when the patient extends the arms and hands forward.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "Caution: asterixis is listed under cerebellar lesion signs in the source, but a paper on asterixis in hepatic encephalopathy is linked (title only); I did not verify its localization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24372275/"
+    }
+  },
+  {
+    "id": "s2med-2495",
+    "category": "IM Neuro",
+    "q": "Dysdiadochokinesia per p257?",
+    "a": "Impaired ability to perform rapid alternating movements; difficulty rapidly tapping a finger or quickly pronating and supinating the hand.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "A paper on ataxia is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5567218/"
+    }
+  },
+  {
+    "id": "s2med-2496",
+    "category": "IM Neuro",
+    "q": "Intention tremor per p257?",
+    "a": "Kinetic tremor that worsens as the hand approaches a target.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2497",
+    "category": "IM Neuro",
+    "q": "Truncal ataxia per p257?",
+    "a": "Tends to occur with more midline cerebellar lesions (the vermis). Can be seen, for example, in pediatrics with medulloblastoma: a kid with morning vomiting (often indicates brain tumor) and truncal ataxia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "A paper on medulloblastoma is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4995146/"
+    }
+  },
+  {
+    "id": "s2med-2498",
+    "category": "IM Neuro",
+    "q": "Limb ataxia and laterality per p257?",
+    "a": "Tends to occur with more lateral cerebellar lesions. Cerebellar lesions cause ipsilateral deficits, unlike many brain lesions that cause contralateral limb findings.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2499",
+    "category": "IM Neuro",
+    "q": "Vitamin B12 deficiency: neuro and risk per p257?",
+    "a": "Causes subacute combined degeneration with reversible dementia and/or systemic neurologic findings. History of gastrectomy, pernicious anemia, veganism, or strict vegetarianism is buzzy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "A Delphi consensus on B12 deficiency is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11050313/"
+    }
+  },
+  {
+    "id": "s2med-2500",
+    "category": "IM Neuro",
+    "q": "B12 deficiency plus another autoimmune disorder per p257?",
+    "a": "If a patient has B12 deficiency and an unrelated autoimmune disorder (vitiligo, Hashimoto), the cause is probably pernicious anemia, since autoimmune diseases go together.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2501",
+    "category": "IM Neuro",
+    "q": "B12 deficiency: neurologic dysfunction not required per p257?",
+    "a": "Patients need not have neurologic dysfunction in B12 deficiency; thinking they do is a common misconception.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "The same consensus is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11050313/"
+    }
+  },
+  {
+    "id": "s2med-2502",
+    "category": "IM Neuro",
+    "q": "B12 deficiency: blood findings per p257?",
+    "a": "Increased MCV (megaloblastic anemia) and hypersegmented neutrophils.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2503",
+    "category": "IM Neuro",
+    "q": "Tea-and-toast diet with high MCV per p257?",
+    "a": "An older patient on a tea-and-toast diet with high MCV and no other information: folate (B9) deficiency is more common than B12 deficiency (on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "A paper on folic acid deficiency in elderly patients is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476717/"
+    }
+  },
+  {
+    "id": "s2med-2504",
+    "category": "IM Neuro",
+    "q": "Vitamin B1 deficiency: conditions per p257?",
+    "a": "Can cause WKS, dry beriberi (neuropathy), and wet beriberi (dilated cardiomyopathy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    }
+  },
+  {
+    "id": "s2med-2505",
+    "category": "IM Neuro",
+    "q": "B1 deficiency after gastrectomy per p257?",
+    "a": "Two new 2CK NBME questions assess thiamine deficiency causing neuropathy (dry beriberi) after gastrectomy, even though we classically think of B12 deficiency there. A helpful detail is confusion, which is characteristic of Wernicke encephalopathy, not subacute combined degeneration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 257,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=257"
+    },
+    "guideline": {
+      "text": "A review of B1 deficiency after bariatric surgery is linked; I did not verify the NBME claim or the gastrectomy point.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35776243/"
+    }
   }
 ];
