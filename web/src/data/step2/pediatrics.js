@@ -35133,5 +35133,136 @@ export default [
       "text": "Current caution: StatPearls says ultrasound is the preferred diagnostic method in children, with enema used for treatment (it also confirms and reduces). Source answer kept.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK431078/"
     }
+  },
+  {
+    "id": "s2peds-2467",
+    "category": "Peds vignettes",
+    "q": "How does intussusception present per p169 (continuing from p168)?",
+    "a": "Almost always under age 2, with an intermittent nature: intermittent crying, intermittently bringing the legs to the chest, intermittent squatting and intermittent vomiting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls: pain is intermittent because the bowel segment transiently stops contracting; red currant jelly stool appears later.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431078/"
+    }
+  },
+  {
+    "id": "s2peds-2468",
+    "category": "Peds vignettes",
+    "q": "7-day-old boy with bilious vomiting, blood in stool, a slightly distended abdomen, decreased bowel sounds, gross blood on rectal exam, and a corkscrew appearance on upper GI barium study. Diagnosis per p169?",
+    "a": "\"Failure of normal bowel rotation\": congenital midgut volvulus, diagnosed with an upper-GI series (x-ray with contrast swallow).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls: malrotation with a narrow mesenteric base predisposes to midgut volvulus; definitive management is the Ladd procedure. I did not verify the corkscrew sign in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560888/"
+    }
+  },
+  {
+    "id": "s2peds-2469",
+    "category": "Peds vignettes",
+    "q": "1-month-old boy with bilious vomiting, normal rectal tone and positive fecal occult blood. Diagnosis per p169?",
+    "a": "Midgut volvulus (Peds NBME form 2); intussusception and Hirschsprung are wrong answers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls: malrotation with volvulus is a cause of neonatal bilious vomiting.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560888/"
+    }
+  },
+  {
+    "id": "s2peds-2470",
+    "category": "Peds vignettes",
+    "q": "18-month-old girl with 24 hours of intermittent abdominal pain, negative FOBT, and AXR with dilated small bowel loops and air-fluid levels. Diagnosis per p169?",
+    "a": "Volvulus (congenital midgut volvulus). The author first thought the negative FOB was the distinguishing feature, but the 18-month-old from Peds form 2 has positive FOB for midgut volvulus, so the distinction is the AXR findings (dilated small bowel loops and air-fluid levels), which would not be seen for intussusception. FOB is not specific for either.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2peds-2471",
+    "category": "Peds vignettes",
+    "q": "9M with blood in stool, confirmed on a Tc99 uptake scan. Mechanism per p169?",
+    "a": "\"Heterotopic gastric tissue\": Meckel diverticulum. The NBME has Meckel questions presenting even in adults (do not fixate on age 2).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls: ectopic gastric mucosa in the diverticulum secretes acid and causes bleeding; children present with currant jelly stool, adults with melena.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499960/"
+    }
+  },
+  {
+    "id": "s2peds-2472",
+    "category": "Peds vignettes",
+    "q": "3F with failure to thrive, 3 months of steatorrhea, and no meconium passage until day 3. Mechanism for failure to thrive per p169?",
+    "a": "\"Exocrine pancreatic insufficiency.\" The Peds shelf frequently refers to cystic fibrosis this way (it can also refer to chronic pancreatitis in adults).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls: cystic fibrosis causes pancreatic insufficiency; delta F508 is linked to pancreatic insufficiency and meconium ileus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK493206/"
+    }
+  },
+  {
+    "id": "s2peds-2473",
+    "category": "Peds vignettes",
+    "q": "4-month-old girl with a 5-cm melanoma-appearing lesion on the thigh. Diagnosis per p169?",
+    "a": "Congenital melanocytic nevus (most common type of birthmark; benign).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "Current caution: a 5-cm lesion is a large congenital melanocytic nevus, which is not the most common birthmark and carries a higher melanoma risk than small nevi per a systematic review. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36149403/"
+    }
+  },
+  {
+    "id": "s2peds-2474",
+    "category": "Peds vignettes",
+    "q": "4-month-old girl with a 3-cm \"bruise\" on her back and a vignette that does not sound like abuse. Diagnosis per p169?",
+    "a": "Blue nevus (Mongolian spot); more common in Asian descent; melanocytes do not migrate to the basal layer and get trapped in the dermis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls covers congenital dermal melanocytosis (Mongolian spot). Caution: the source calls it a blue nevus; I did not verify that equivalence.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557408/"
+    }
+  },
+  {
+    "id": "s2peds-2475",
+    "category": "Peds vignettes",
+    "q": "Neonate with a spongy 1-cm red lesion on the chest. Diagnosis per p169?",
+    "a": "Strawberry hemangioma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 169,
+      "url": "/mehlman/hy-pediatrics.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls: infantile hemangiomas are often called strawberry marks and are the most common benign tumor of infancy.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538232/"
+    }
   }
 ];

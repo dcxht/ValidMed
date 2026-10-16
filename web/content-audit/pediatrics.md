@@ -878,3 +878,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: intussusception "enema is always the diagnostic answer" (ultrasound preferred); "myomectomy" for pyloric stenosis (pyloromyotomy).
 - Left unverified: milestone delay judgment, GERD fundoplication, "single developmental defect", rectal manometry as next step.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p169 (Bullet points: intussusception end, midgut volvulus, Meckel, CF, birthmarks, hemangioma) - 9 cards, ids s2peds-2467 to 2475
+- Inspected page text and layout; no figures. First lines continue intussusception from p168.
+- Notes verified against StatPearls (Child Intussusception, Midgut Malrotation, Meckel, Cystic Fibrosis, Dermal Melanocytosis, Hemangioma) and a congenital melanocytic nevus melanoma-risk review.
+- Source conflicts, source answer kept with caution note: 5-cm lesion as "most common birthmark" (large CMN is uncommon, higher melanoma risk); Mongolian spot called blue nevus (not verified).
+- Left unverified: corkscrew sign, volvulus vs intussusception AXR distinction, CF "exocrine pancreatic insufficiency" shelf phrasing.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
