@@ -41,3 +41,14 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Source conflict kept with caution: TOF described as developing Eisenmenger syndrome years later (shunt reversal is Eisenmenger; TOF is RVOT obstruction driven).
 - Notes from StatPearls (TOF, Innocent Murmur, Atrial Myxoma, PPHN), Clinical Methods S3 chapter. Unverified: PGE1 statement, squatting mechanism, rhabdomyoma association, S3 EF cutoffs.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p12 (IM Cardio: S3/S4, loud P2, splitting, coarctation) - 10 cards, ids s2med-0079 to 0088
+- Inspected page text; no figures. Page starts mid-S3/S4 bullets.
+- Notes from Clinical Methods (S2, S3, S4 chapters) and StatPearls (Pulmonary Hypertension); coarctation PMC review could not be read (title only).
+- Unverified: S4 always pathologic, mitral stenosis S4 link, loud A2, RBBB/RVH equation, coarctation statements.
+
+## p13 (IM Cardio: pre/post-ductal, subclavian steal, vertebral/carotid disease) - 11 cards, ids s2med-0089 to 0099
+- Inspected page text; no figures. Expletive in the source paraphrased out ("USMLE does not test").
+- Source conflicts kept with caution: vertebral dissection heparin answer (CADISS: antiplatelet vs anticoagulant no difference); asymptomatic endarterectomy >80% (current sources use 70% or recommend discussion).
+- Notes from StatPearls (Vertebral Artery Dissection, Symptomatic Carotid Stenosis, Carotid Endarterectomy), CADISS abstract, carotid disease review. Unverified: subclavian steal mechanism text, carotid dissection pain mechanism, ACEi/ARB in medical triad.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.

@@ -1060,5 +1060,284 @@ export default [
       "text": "Clinical Methods chapter: the explanation for physiologic S3 is unknown. I did not verify the EF cutoffs.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK342/"
     }
+  },
+  {
+    "id": "s2med-0079",
+    "category": "IM Cardio",
+    "q": "S3 in diastolic dysfunction on IM CMS form 7 per p12?",
+    "a": "The source believes it is an erratum but mentions it because it exists on the NBME form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2med-0080",
+    "category": "IM Cardio",
+    "q": "S4 mechanism, hypertrophy type and causes per p12?",
+    "a": "High pressure/afterload on the left (sometimes right) ventricle, causing a stiffened ventricle with diastolic dysfunction and concentric hypertrophy (sarcomeres in parallel). Always pathologic; usually caused by systemic hypertension or aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    },
+    "guideline": {
+      "text": "Clinical Methods: a left-sided fourth heart sound is frequently present with systemic hypertension, aortic stenosis or hypertrophic cardiomyopathy. I did not verify 'always pathologic'.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK344/"
+    }
+  },
+  {
+    "id": "s2med-0081",
+    "category": "IM Cardio",
+    "q": "Right-sided S4 on USMLE per p12?",
+    "a": "A 2CK question gives severe mitral stenosis with an S4 that comes from the RV, not the LV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    },
+    "guideline": {
+      "text": "Clinical Methods: significant pulmonic stenosis and pulmonary arterial hypertension are typically accompanied by a right ventricular fourth heart sound. I did not verify the mitral stenosis link.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK344/"
+    }
+  },
+  {
+    "id": "s2med-0082",
+    "category": "IM Cardio",
+    "q": "S3 and S4 together per p12?",
+    "a": "High-output cardiac failure (e.g., AV fistula/conduit or Paget disease). High-output failure can present with isolated S3 or S3 + S4 together, never S4 alone on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2med-0083",
+    "category": "IM Cardio",
+    "q": "Loud P2 per p12?",
+    "a": "Pulmonary hypertension or cor pulmonale on USMLE: the pulmonic valve slams shut due to high pressure distal to it. Remember both TR and loud P2. Loud A2 would in theory mean systemic hypertension; soft P2 refers to pulmonic stenosis but is low yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    },
+    "guideline": {
+      "text": "StatPearls: P2 intensity ranges from normal to increased in pulmonary valve disease and pulmonary hypertension. I did not verify the loud A2 statement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482463/"
+    }
+  },
+  {
+    "id": "s2med-0084",
+    "category": "IM Cardio",
+    "q": "Wide splitting of S2 per p12?",
+    "a": "Means right ventricular hypertrophy on USMLE: A2 and P2 are far apart; more pressure in a ventricle delays semilunar closure, so RVH delays P2. Wide splitting, right-axis deviation and RBBB all = RVH on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    },
+    "guideline": {
+      "text": "Clinical Methods covers splitting types. I did not verify the RVH linkage with RBBB.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK341/"
+    }
+  },
+  {
+    "id": "s2med-0085",
+    "category": "IM Cardio",
+    "q": "Paradoxical splitting of S2 per p12?",
+    "a": "Means left ventricular hypertrophy on USMLE: A2 occurs after P2 because high LV pressure delays A2. Paradoxical splitting, left-axis deviation and LBBB all = LVH on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    },
+    "guideline": {
+      "text": "Clinical Methods: paradoxical or reversed splitting results from a delay in the aortic closure sound; narrowing of the split on inspiration is needed to diagnose it. LBBB is a classic cause but the USMLE equation with LVH is the source's shorthand.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK341/"
+    }
+  },
+  {
+    "id": "s2med-0086",
+    "category": "IM Cardio",
+    "q": "Coarctation of the aorta per p12: terminology, association and exam?",
+    "a": "Narrowing of the aortic arch (call it coarctation, not stenosis). Classically Turner syndrome but not mandatory; often idiopathic. Upper extremities have higher BP, brisk pulses and are warmer; lower extremities have lower BP, weak pulses and are cooler.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    },
+    "guideline": {
+      "text": "Review of coarctation diagnosis and management (PMC); I could not read its text, so I did not verify these statements.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10340190/"
+    }
+  },
+  {
+    "id": "s2med-0087",
+    "category": "IM Cardio",
+    "q": "Brisk radial pulses in a vignette per p12?",
+    "a": "Implies the pulses in the legs are not brisk (coarctation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2med-0088",
+    "category": "IM Cardio",
+    "q": "Coarctation murmur and ECG per p12?",
+    "a": "Murmur not important for USMLE; can be a systolic murmur heard in the infrascapular region. Can cause LVH with left-axis deviation on ECG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 12,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=12"
+    }
+  },
+  {
+    "id": "s2med-0089",
+    "category": "IM Cardio",
+    "q": "Pre-ductal versus post-ductal coarctation per p13?",
+    "a": "USMLE does not test pre- versus post-ductal. In theory pre-ductal presents as a very sick neonate; post-ductal presents as an adult (most cases).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    }
+  },
+  {
+    "id": "s2med-0090",
+    "category": "IM Cardio",
+    "q": "Subclavian steal syndrome mechanism per p13?",
+    "a": "Narrowing/stenosis of the proximal subclavian artery before the vertebral branch point lowers vertebral pressure, causing backflow of blood in the vertebral artery and miscellaneous neuro findings such as dizziness; blood pressure differs between the two arms. The vertebral artery is the first branch of the subclavian.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "Review of subclavian-vertebral steal syndrome (StatPearls); I did not verify the mechanism in the passage I read (the passage was an outline).",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK554599/"
+    }
+  },
+  {
+    "id": "s2med-0091",
+    "category": "IM Cardio",
+    "q": "How does USMLE ask about subclavian steal per p13?",
+    "a": "1) Dizziness with different BP between the arms; answer subclavian steal or backflow in a vertebral artery. Or 2) BP in one arm plus dizziness; answer: check BP in the other arm. Next best step in diagnosis is CT or MR angiography. About 3/4 of questions with different arm pressures are aortic dissection and 1/4 subclavian steal (the source's observation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    }
+  },
+  {
+    "id": "s2med-0092",
+    "category": "IM Cardio",
+    "q": "Vertebral artery stenosis per p13?",
+    "a": "Presents like subclavian steal with unexplained dizziness, but BP is not different between the arms; caused by atherosclerosis; CT or MR angiography diagnoses. Vertebrobasilar insufficiency is the broader term covering subclavian steal syndrome or vertebral artery stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    }
+  },
+  {
+    "id": "s2med-0093",
+    "category": "IM Cardio",
+    "q": "Vertebral artery dissection per p13?",
+    "a": "A false lumen causes stasis and clot that can embolize to the brain and cause stroke; neck manipulation (chiropractor) is a known cause. NBME answer for posterior stroke due to vertebral artery dissection: heparin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "StatPearls: chiropractic manipulation, coughing, vomiting and blunt trauma are likely initiating events. Current caution: the CADISS randomized trial found no difference in efficacy between antiplatelet and anticoagulant drugs in cervical artery dissection. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25684164/"
+    }
+  },
+  {
+    "id": "s2med-0094",
+    "category": "IM Cardio",
+    "q": "Carotid artery dissection presentation per p13?",
+    "a": "Stroke-like presentation with simultaneous ipsilateral facial/neck pain, due to stretching of nociceptors from vascular dilation; stasis within the false lumen can embolize to brain or eye.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "StatPearls on cervical artery dissection is cited for the vertebral artery. I did not verify the carotid pain mechanism.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK441827/"
+    }
+  },
+  {
+    "id": "s2med-0095",
+    "category": "IM Cardio",
+    "q": "Carotid artery stenosis cause and risk factor per p13?",
+    "a": "Caused by atherosclerosis; hypertension is the biggest risk factor for carotid atherosclerosis (strong systolic impulse pounds the carotids, endothelial damage, plaque). A carotid bruit is present in only about 25% of questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    }
+  },
+  {
+    "id": "s2med-0096",
+    "category": "IM Cardio",
+    "q": "Stroke, TIA or retinal artery occlusion in a hypertensive patient per p13?",
+    "a": "A plaque from one of the carotids has launched off; HTN increases risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    }
+  },
+  {
+    "id": "s2med-0097",
+    "category": "IM Cardio",
+    "q": "Next best step in carotid stenosis per p13?",
+    "a": "Carotid duplex ultrasonography to determine the degree of occlusion; carotid angiography has never been a correct answer on the NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "StatPearls: a carotid duplex is a common initial noninvasive test.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK442025/"
+    }
+  },
+  {
+    "id": "s2med-0098",
+    "category": "IM Cardio",
+    "q": "Endarterectomy thresholds per p13?",
+    "a": "Endarterectomy if occlusion >70% symptomatic, or >80% asymptomatic. Symptomatic = stroke, TIA or retinal artery occlusion; a mere bruit is a sign, not a symptom.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says asymptomatic patients with 70% or more narrowing are encouraged to undergo surgery; a recent review notes asymptomatic management remains debated and symptomatic 50-69% stenosis has a smaller benefit. The source's >80% asymptomatic cutoff is not a current threshold I found. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470582/"
+    }
+  },
+  {
+    "id": "s2med-0099",
+    "category": "IM Cardio",
+    "q": "Medical management when under the threshold per p13?",
+    "a": "A triad: 1) statin; 2) ACEi or ARB; 3) anti-platelet therapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 13,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=13"
+    },
+    "guideline": {
+      "text": "I did not verify the ACEi or ARB component in the passages I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8544812/"
+    }
   }
 ];
