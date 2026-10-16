@@ -25929,7 +25929,7 @@ export default [
       "url": "/mehlman/hy-pediatrics.pdf#page=120"
     },
     "guideline": {
-      "text": "StatPearls: TCA toxicity includes dangerous cardiac dysrhythmias; QRS widening is the classic monitored ECG sign, with QT prolongation also seen.",
+      "text": "StatPearls: TCA poisoning includes dangerous tachydysrhythmias and other cardiovascular toxicity.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK430931/"
     }
   },
