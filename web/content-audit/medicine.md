@@ -712,3 +712,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p182 (ovarian germ cell, Krukenberg, endometrial cancer, fibroids) - 13 cards, ids s2med-1759 to 1771
 - Conflicts/unverified: cryptorchidism orchiopexy timing (source 6 months) vs AUA; priapism stepwise management; Krukenberg "hematogenous" spread unendorsed; endometrial biopsy vs TVUS for postmenopausal bleeding; dysgerminoma LDH/Turner.
 - Mobile QA (320x740, local vite preview build, not live): all 47 cards ox=false off=false bad=0.
+
+## p183 (vulvovaginal lesions, cervical cancer/Pap) - 18 cards, ids s2med-1772 to 1789
+## p184 (CIN, cervical conditions, breast neoplasia) - 17 cards, ids s2med-1790 to 1806
+## p185 (breast tumors, BRCA, screening, HRT) - 16 cards, ids s2med-1807 to 1822
+- Conflicts: Pap schedule vs USPSTF 2018/ACS 2020 (primary HPV); mammography 50-74 vs USPSTF 2024 (40-74); "needle-guided open biopsy" for DCIS wording; fibroadenoma FNA vs core biopsy; HRT only indication. Unverified: HIV Pap intervals, BRCA RRM, E-cadherin, DES timing, Bartholin organism.
+- Mobile QA (320x740, local vite preview build, not live): all 51 cards ox=false off=false bad=0.

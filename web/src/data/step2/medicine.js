@@ -23269,5 +23269,638 @@ export default [
       "page": 182,
       "url": "/mehlman/hy-internal-medicine.pdf#page=182"
     }
+  },
+  {
+    "id": "s2med-1772",
+    "category": "IM Repro/Obgyn",
+    "q": "Vulvovaginal carcinoma per p183?",
+    "a": "Cancer of the vagina and/or vulva; almost always squamous cell carcinoma due to HPV 16 or 18. Rarely occurs due to lichen sclerosus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1773",
+    "category": "IM Repro/Obgyn",
+    "q": "Condylomata acuminata per p183?",
+    "a": "Aka warts; HPV 6/11. Painless, skin-colored or slightly hyperpigmented cauliflower-like papular lesions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1774",
+    "category": "IM Repro/Obgyn",
+    "q": "Lichen sclerosus: presentation per p183?",
+    "a": "Whitish-grey, rough, irritated or scratchy patch on the vulva or perineum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1775",
+    "category": "IM Repro/Obgyn",
+    "q": "Lichen sclerosus: cause and histology per p183?",
+    "a": "Thought to be chronic irritation plus autoimmunity; not HPV-related. Atrophy, hyperkeratosis and a band of lymphocytes in the dermis; not neoplasia, dysplasia or metaplasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "A 2023 lichen sclerosus update is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9978401/"
+    }
+  },
+  {
+    "id": "s2med-1776",
+    "category": "IM Repro/Obgyn",
+    "q": "Lichen sclerosus: management per p183?",
+    "a": "Biopsy as next best step to rule out SCC. If SCC is negative and diagnosis is LS, topical steroid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "The linked 2023 update is available; I did not verify its biopsy recommendation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9978401/"
+    }
+  },
+  {
+    "id": "s2med-1777",
+    "category": "IM Repro/Obgyn",
+    "q": "Sarcoma botryoides per p183?",
+    "a": "Rhabdomyosarcoma of the vagina; in pediatrics, bunches of grapes protruding from the vagina.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "A review of botryoid rhabdomyosarcoma is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3026308/"
+    }
+  },
+  {
+    "id": "s2med-1778",
+    "category": "IM Repro/Obgyn",
+    "q": "Clear cell vaginal carcinoma per p183?",
+    "a": "Obscure cancer in women in their 30s-50s from maternal diethylstilbestrol (DES) exposure during pregnancy 30-50 years earlier.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "A paper on DES-related clear cell adenocarcinoma is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2263810/"
+    }
+  },
+  {
+    "id": "s2med-1779",
+    "category": "IM Repro/Obgyn",
+    "q": "Bartholin gland cyst: presentation per p183?",
+    "a": "Tender/painful bump at the 4 or 8 o'clock position on the vulva. If infected (warm and red), called a Bartholin gland abscess.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1780",
+    "category": "IM Repro/Obgyn",
+    "q": "Bartholin abscess: organism and treatment per p183?",
+    "a": "USMLE wants 'polymicrobial.' Cysts: sitz bath and warm compresses first. Overt abscesses: drainage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "A review of Bartholin gland microbiology is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20925614/"
+    }
+  },
+  {
+    "id": "s2med-1781",
+    "category": "IM Repro/Obgyn",
+    "q": "Child with foul-smelling vaginal discharge, no trauma signs per p183?",
+    "a": "Vaginal foreign body (means not abuse). Can occur in children or elderly (both seen on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1782",
+    "category": "IM Repro/Obgyn",
+    "q": "Sexual abuse vignette per p183?",
+    "a": "Likes to mention lacerations; may or may not have discharge.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1783",
+    "category": "IM Repro/Obgyn",
+    "q": "Cervical cancer: histology and location per p183?",
+    "a": "Squamous cell carcinoma at the transitional zone between the stratified squamous ectocervix and columnar endocervix.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1784",
+    "category": "IM Repro/Obgyn",
+    "q": "Cervical cancer: cause and complications per p183?",
+    "a": "HPV 16/18. Can cause vaginal bleeding and uni- or bilateral hydroureter / hydronephrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1785",
+    "category": "IM Repro/Obgyn",
+    "q": "When to start Pap smears per p183?",
+    "a": "Age 21. Sexually active teenager: test for STDs, no Pap smear.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1786",
+    "category": "IM Repro/Obgyn",
+    "q": "Pap schedule per p183?",
+    "a": "Age 21-65. From 21-30: every 3 years without HPV co-testing. From 30-65: Pap every 3 years, or Pap-HPV co-testing every 5 years. Stop at 65.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: USPSTF 2018 (linked) adds primary HPV testing every 5 years from 30-65, and ACS 2020 (linked) prefers primary HPV testing from age 25; I did not verify the details. Source answer stays for exam use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30140884/"
+    }
+  },
+  {
+    "id": "s2med-1787",
+    "category": "IM Repro/Obgyn",
+    "q": "Pap after age 65 per p183?",
+    "a": "Continue if history of HSIL or CIN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "The ACS 2020 guideline is linked; I did not verify its wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32729638/"
+    }
+  },
+  {
+    "id": "s2med-1788",
+    "category": "IM Repro/Obgyn",
+    "q": "Pap after hysterectomy per p183?",
+    "a": "Hysterectomy due to cervical cancer: continued Pap smears of the vaginal cuff. Hysterectomy due to endometrial cancer: no.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    }
+  },
+  {
+    "id": "s2med-1789",
+    "category": "IM Repro/Obgyn",
+    "q": "Pap in HIV per p183?",
+    "a": "Two Paps in the first year after diagnosis (6 months apart), then annually. Don't assume a normal Pap last year means none for 2 years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 183,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=183"
+    },
+    "guideline": {
+      "text": "A guideline on cervical screening in adults with HIV is linked; I did not verify the interval details.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK579640/"
+    }
+  },
+  {
+    "id": "s2med-1790",
+    "category": "IM Repro/Obgyn",
+    "q": "LSIL and ASC-US management per p184?",
+    "a": "Either repeat Pap smear or HPV co-testing; HPV (+) vs (-) determines colposcopy plus biopsy. The source says USMLE won't assess the algorithm specifics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    },
+    "guideline": {
+      "text": "The 2019 ASCCP risk-based consensus guidelines are linked; I did not verify the details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7147428/"
+    }
+  },
+  {
+    "id": "s2med-1791",
+    "category": "IM Repro/Obgyn",
+    "q": "HSIL on Pap per p184?",
+    "a": "Immediate colposcopy plus biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1792",
+    "category": "IM Repro/Obgyn",
+    "q": "CIN I versus CIN II/III per p184?",
+    "a": "CIN I is LSIL confirmed on colposcopy plus biopsy; CIN II/III is HSIL confirmed on colposcopy plus biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1793",
+    "category": "IM Repro/Obgyn",
+    "q": "CIN I management per p184?",
+    "a": "High rate of spontaneous regression; repeat Paps in a year.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1794",
+    "category": "IM Repro/Obgyn",
+    "q": "CIN II/III management per p184?",
+    "a": "Excisional or ablational treatment (LEEP, coning, cryotherapy, laser ablation) due to higher risk of progression to invasive cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1795",
+    "category": "IM Repro/Obgyn",
+    "q": "HSIL on Pap, colposcopy can't see the entire squamocolumnar junction per p184?",
+    "a": "Cone biopsy (colposcopy insufficient).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1796",
+    "category": "IM Repro/Obgyn",
+    "q": "CIN III in pregnancy per p184?",
+    "a": "Not excised or ablated during pregnancy. HPV lesions (including warts) temporarily worsen in pregnancy due to relative immunosuppression. Postpartum, evaluated for regression over weeks; if not regressing, excised like CIN II or III in non-pregnant women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    },
+    "guideline": {
+      "text": "A review of cervical squamous lesions in pregnancy and postpartum is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38547493/"
+    }
+  },
+  {
+    "id": "s2med-1797",
+    "category": "IM Repro/Obgyn",
+    "q": "Cervical trauma per p184?",
+    "a": "Vaginal bleeding in a young woman, usually within 12 hours of intercourse. The vignette can be nebulous but the history mentions post-coital bleeding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1798",
+    "category": "IM Repro/Obgyn",
+    "q": "Cervical polyp per p184?",
+    "a": "Benign, non-cancerous, pedunculated tumor, typically on the ectocervix; idiopathic. Can cause metrorrhagia (mid-cycle bleeding). Not described as ulcerated; ulcerated suggests cervical SCC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1799",
+    "category": "IM Repro/Obgyn",
+    "q": "DCIS: key points per p184?",
+    "a": "Most common malignant (metastatic potential) breast cancer per the source. Microcalcifications on mammography = DCIS until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1800",
+    "category": "IM Repro/Obgyn",
+    "q": "DCIS: next best step per p184?",
+    "a": "2CK wants a needle-guided open biopsy; FNA is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    },
+    "guideline": {
+      "text": "A study of image-guided biopsy methods for microcalcifications is linked; I did not verify that 'open' biopsy is current practice (core needle biopsy is the usual term I would check). Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4559796/"
+    }
+  },
+  {
+    "id": "s2med-1801",
+    "category": "IM Repro/Obgyn",
+    "q": "Paget disease of the breast per p184?",
+    "a": "Nipple eczema-like appearance in a patient over 50; often the cutaneous extension of an underlying DCIS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    },
+    "guideline": {
+      "text": "A paper on underlying pathology in mammary Paget disease is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9181226/"
+    }
+  },
+  {
+    "id": "s2med-1802",
+    "category": "IM Repro/Obgyn",
+    "q": "Invasive ductal carcinoma per p184?",
+    "a": "Invasive form of ductal carcinoma; biopsy cells have stellate morphology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1803",
+    "category": "IM Repro/Obgyn",
+    "q": "LCIS per p184?",
+    "a": "Same as DCIS (malignant potential but not yet invaded) for lobular cells. Linear rows of cells ('Indian file') on histology, supposedly from decreased E-cadherin expression. The source hasn't seen USMLE test the detail.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    },
+    "guideline": {
+      "text": "A paper on E-cadherin expression in lobular carcinoma is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7484442/"
+    }
+  },
+  {
+    "id": "s2med-1804",
+    "category": "IM Repro/Obgyn",
+    "q": "Invasive lobular carcinoma per p184?",
+    "a": "Invasive form of lobular carcinoma; 20-30% bilateral.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1805",
+    "category": "IM Repro/Obgyn",
+    "q": "Intraductal papilloma per p184?",
+    "a": "Unilateral bloody/rusty nipple discharge = intraductal papilloma until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1806",
+    "category": "IM Repro/Obgyn",
+    "q": "Inflammatory carcinoma per p184?",
+    "a": "Red/inflamed breast as though infected: rubor, dolor, tumor, calor. Peau d'orange is orange-peel texture from Cooper ligament tethering of skin when tumor cells block lymphatic drainage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 184,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=184"
+    }
+  },
+  {
+    "id": "s2med-1807",
+    "category": "IM Repro/Obgyn",
+    "q": "Comedocarcinoma and medullary carcinoma per p185?",
+    "a": "Comedocarcinoma has cheese-like consistency; the source says both are nonexistent on USMLE and mentions them only because students ask.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1808",
+    "category": "IM Repro/Obgyn",
+    "q": "Fibroadenoma per p185?",
+    "a": "Most common breast tumor overall; benign. Rubbery, mobile, non-tender lump in a woman in her 20s-30s; solid mass without calcification on ultrasound.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1809",
+    "category": "IM Repro/Obgyn",
+    "q": "Fibroadenoma: next step per p185?",
+    "a": "FNA to confirm the diagnosis. If confirmed, they do not need to be excised.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "The ASBrS/SBI 2025 fibroepithelial lesion guideline is linked; I did not verify whether it prefers core needle biopsy. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41123921/"
+    }
+  },
+  {
+    "id": "s2med-1810",
+    "category": "IM Repro/Obgyn",
+    "q": "Cystosarcoma phyllodes per p185?",
+    "a": "Fast-growing breast lesion with leaf-like appearance on light microscopy; benign or malignant based on histology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1811",
+    "category": "IM Repro/Obgyn",
+    "q": "BRCA1/2 inheritance per p185?",
+    "a": "Tumor suppressor genes inherited autosomal dominant with incomplete penetrance (can skip a generation); a pedigree asked on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1812",
+    "category": "IM Repro/Obgyn",
+    "q": "BRCA molecular defect per p185?",
+    "a": "'Recombinational double-stranded DNA repair.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1813",
+    "category": "IM Repro/Obgyn",
+    "q": "Mammography screening age per p185?",
+    "a": "Source: every two years between ages 50-74; USMLE won't be borderline (e.g., 56-year-old due after 2 years).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: the 2024 USPSTF statement (linked) recommends biennial screening from age 40; I did not verify the details. Source answer stays for exam use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38687503/"
+    }
+  },
+  {
+    "id": "s2med-1814",
+    "category": "IM Repro/Obgyn",
+    "q": "Mammography with first-degree relative with breast cancer per p185?",
+    "a": "Start at age 40, not 50.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1815",
+    "category": "IM Repro/Obgyn",
+    "q": "Breast screening under age 30 per p185?",
+    "a": "No mammography; ultrasound is typical, since younger women have denser breasts and mammography is less specific.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1816",
+    "category": "IM Repro/Obgyn",
+    "q": "ER/PR positivity prognosis per p185?",
+    "a": "Correlates with better prognosis, partly because SERMs and aromatase inhibitors can be used.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1817",
+    "category": "IM Repro/Obgyn",
+    "q": "HER2/neu prognosis per p185?",
+    "a": "Positivity correlates with worse prognosis; trastuzumab (Herceptin) targets it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1818",
+    "category": "IM Repro/Obgyn",
+    "q": "Triple-negative breast cancer per p185?",
+    "a": "ER/PR/HER2 negative: bad prognosis due to aggressiveness, higher recurrence, and metastasis to lungs/brain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1819",
+    "category": "IM Repro/Obgyn",
+    "q": "Confirmed BRCA mutation: 2CK answer per p185?",
+    "a": "Bilateral mastectomy plus oophorectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "A review of risk-reducing mastectomy in BRCA carriers is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961322/"
+    }
+  },
+  {
+    "id": "s2med-1820",
+    "category": "IM Repro/Obgyn",
+    "q": "HRT and breast cancer per p185?",
+    "a": "Risk rises with HRT even with progesterone, and with increased lifetime absolute estrogen exposure; unrelated to unopposed estrogen (the endometrial cancer risk factor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "A review of menopausal hormone therapy is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8034540/"
+    }
+  },
+  {
+    "id": "s2med-1821",
+    "category": "IM Repro/Obgyn",
+    "q": "OCPs and breast cancer per p185?",
+    "a": "Some literature suggests increased risk but without significance; USMLE won't assess it, but does assess HRT raising risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    }
+  },
+  {
+    "id": "s2med-1822",
+    "category": "IM Repro/Obgyn",
+    "q": "Only approved indication of HRT per p185?",
+    "a": "Source: severe vasomotor symptoms (not bone density). Because HRT raises breast cancer, thromboembolism, MI and stroke risk; estrogen upregulates fibrinogen and factors V and VIII.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 185,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=185"
+    },
+    "guideline": {
+      "text": "The linked menopause HRT review covers indications and risks; I did not verify whether it lists indications beyond vasomotor symptoms. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8034540/"
+    }
   }
 ];
