@@ -730,3 +730,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p191 (syphilis, HSV, chancroid) - 16 cards, ids s2med-1894 to 1909
 - Conflicts: chlamydia azithromycin vs CDC 2021 regimen; gonorrhea/chlamydia cotreatment wording; neonatal cefotaxime; syphilis penicillin-allergy "mere rash" statement. Unverified: BV "gram-negative rod", Candida/trich details.
 - Mobile QA (320x740, local vite preview build, not live): all 45 cards ox=false off=false bad=0.
+
+## p192 (chancroid tx, PID, HSG figures) - 6 cards, ids s2med-1910 to 1915
+## p193 (Fitz-Hugh-Curtis, TORCHeS) - 17 cards, ids s2med-1916 to 1932
+- Unverified: chancroid first-line, VZV IVIG timing/passive immunity details, CMV ganciclovir resistance mechanism, MMR inadvertent-vaccination wording.
+- Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.

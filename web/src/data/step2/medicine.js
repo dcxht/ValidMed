@@ -24997,5 +24997,298 @@ export default [
       "page": 191,
       "url": "/mehlman/hy-internal-medicine.pdf#page=191"
     }
+  },
+  {
+    "id": "s2med-1910",
+    "category": "IM Repro/Obgyn",
+    "q": "Chancroid treatment per p192 (continued from p191)?",
+    "a": "USMLE won't assess treatment, but either azithromycin or ceftriaxone is considered first-line.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=192"
+    },
+    "guideline": {
+      "text": "StatPearls on chancroid is linked; I did not verify the treatment line.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513331/"
+    }
+  },
+  {
+    "id": "s2med-1911",
+    "category": "IM Repro/Obgyn",
+    "q": "PID: cause and complication per p192?",
+    "a": "Caused by Chlamydia or Gonorrhea. Ascent to the uterus and Fallopian tubes causes inflammation and scarring, raising ectopic pregnancy risk (loss of tubal cilia leads to premature implantation, usually in the ampulla).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2med-1912",
+    "category": "IM Repro/Obgyn",
+    "q": "PID exam finding per p192?",
+    "a": "Adnexal and cervical motion tenderness are buzzy, particularly cervical motion tenderness: if you see it, they're talking about PID.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=192"
+    }
+  },
+  {
+    "id": "s2med-1913",
+    "category": "IM Repro/Obgyn",
+    "q": "Fallopian tubes and hysterosalpingogram (HSG) per p192?",
+    "a": "Tubes are open on both ends (fimbriae catch the ovum from the ruptured Graafian follicle), so bilateral spillage of dye into the peritoneal cavity is normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=192"
+    },
+    "img": "/mehlman/figures/med-p192-01.jpg",
+    "imgAlt": "Normal hysterosalpingogram with bilateral spill of dye from both tubes"
+  },
+  {
+    "id": "s2med-1914",
+    "category": "IM Repro/Obgyn",
+    "q": "HSG after PID scarring per p192?",
+    "a": "A scarred tube may be sealed, so the HSG shows failure of spillage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=192"
+    },
+    "img": "/mehlman/figures/med-p192-02.jpg",
+    "imgAlt": "HSG illustration with a blocked tube"
+  },
+  {
+    "id": "s2med-1915",
+    "category": "IM Repro/Obgyn",
+    "q": "PID treated with antibiotics but persistent fever and adnexal pain per p192?",
+    "a": "Next best step: ultrasound to look for tubo-ovarian abscess, a potential sequela of PID.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 192,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=192"
+    },
+    "guideline": {
+      "text": "A study on bedside transvaginal ultrasound for tubo-ovarian abscess is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18242924/"
+    }
+  },
+  {
+    "id": "s2med-1916",
+    "category": "IM Repro/Obgyn",
+    "q": "Fitz-Hugh-Curtis syndrome per p193?",
+    "a": "Extension of PID to the liver capsule.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "StatPearls on Fitz-Hugh-Curtis syndrome is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499950/"
+    }
+  },
+  {
+    "id": "s2med-1917",
+    "category": "IM Repro/Obgyn",
+    "q": "TORCHeS infections per p193?",
+    "a": "Congenital infections in the neonate due to infection in the mother during pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1918",
+    "category": "IM Repro/Obgyn",
+    "q": "Toxoplasmosis: neonatal triad per p193?",
+    "a": "Hydrocephalus, chorioretinitis, and intracranial calcifications. The stem doesn't have to mention the cat litter box; can also be acquired from pork.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "StatPearls on congenital toxoplasmosis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545228/"
+    }
+  },
+  {
+    "id": "s2med-1919",
+    "category": "IM Repro/Obgyn",
+    "q": "Parvovirus B19 in utero per p193?",
+    "a": "Can cause aplastic anemia (all 3 cell lines down) in utero or in the neonate, with increased risk in sickle cell; sometimes pure RBC aplasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "A review of parvovirus B19 in pregnancy is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25668048/"
+    }
+  },
+  {
+    "id": "s2med-1920",
+    "category": "IM Repro/Obgyn",
+    "q": "Fetal hydrops per p193?",
+    "a": "Heart failure in utero; suggests severe anemia, e.g., maternal Parvo. Stem: mom had a flu-like illness or cold, then fetal hydrops: Parvo.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1921",
+    "category": "IM Repro/Obgyn",
+    "q": "Confirming Parvo in a neonate per p193?",
+    "a": "Check Parvo IgM titers in the neonate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1922",
+    "category": "IM Repro/Obgyn",
+    "q": "Varicella (VZV) in pregnancy per p193?",
+    "a": "Can cause microcephaly and limb hypoplasia. Pregnant women who contract VZV can get pneumonia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "StatPearls on congenital varicella syndrome is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK568794/"
+    }
+  },
+  {
+    "id": "s2med-1923",
+    "category": "IM Repro/Obgyn",
+    "q": "Neonatal VZV immunoglobulin per p193?",
+    "a": "If the mother first contracts VZV between 5 days before delivery and 2 days after, the neonate needs varicella immunoglobulin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1924",
+    "category": "IM Repro/Obgyn",
+    "q": "Neonate exposed to active varicella per p193?",
+    "a": "If the mother previously had chickenpox or was vaccinated, VZV IVIG isn't needed (transplacental IgG gives passive immunity).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1925",
+    "category": "IM Repro/Obgyn",
+    "q": "Congenital VZV syndrome and shingles per p193?",
+    "a": "Affected kids (and immunocompromised kids) are at increased risk of pediatric shingles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1926",
+    "category": "IM Repro/Obgyn",
+    "q": "Congenital rubella: key finding per p193?",
+    "a": "Patent ductus arteriosus (PDA) in a neonate; exceedingly HY. Cataracts and deafness also possible.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "StatPearls on congenital rubella is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK507879/"
+    }
+  },
+  {
+    "id": "s2med-1927",
+    "category": "IM Repro/Obgyn",
+    "q": "Rubella in the mother without rash per p193?",
+    "a": "The stem can say she had only arthritis; adults sometimes get only arthritis with rubella or measles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1928",
+    "category": "IM Repro/Obgyn",
+    "q": "MMR vaccine in pregnancy per p193?",
+    "a": "Live-attenuated, contraindicated in pregnancy due to theoretical fetal risk. Inadvertent vaccination in pregnancy or within the prior month isn't an indication for abortion, but monitoring is important.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "A MotherToBaby fact sheet on MMR is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK597353/"
+    }
+  },
+  {
+    "id": "s2med-1929",
+    "category": "IM Repro/Obgyn",
+    "q": "Congenital CMV on NBME per p193?",
+    "a": "A diagnosis of exclusion. Congenital deafness, hepatomegaly, blueberry muffin rash and intracranial calcifications are HY but non-specific.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    },
+    "guideline": {
+      "text": "A consensus recommendation on congenital CMV is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10999471/"
+    }
+  },
+  {
+    "id": "s2med-1930",
+    "category": "IM Repro/Obgyn",
+    "q": "Calcifications, hepatomegaly, deafness: toxo, rubella, syphilis or CMV per p193?",
+    "a": "CMV by elimination: toxo is the strict triad, rubella always mentions PDA, and syphilis always mentions tooth or shin abnormalities.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1931",
+    "category": "IM Repro/Obgyn",
+    "q": "CMV histology and treatment per p193?",
+    "a": "Owl-eye cells from intranuclear inclusions. Ganciclovir (DNA polymerase inhibitor); resistance via altered viral thymidine kinase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
+  },
+  {
+    "id": "s2med-1932",
+    "category": "IM Repro/Obgyn",
+    "q": "Vaginal HSV1/2 in the mother per p193?",
+    "a": "Vertical transmission raises the risk of neonatal encephalitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 193,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=193"
+    }
   }
 ];
