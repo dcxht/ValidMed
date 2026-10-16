@@ -37836,5 +37836,767 @@ export default [
       "text": "The delirium review is linked on the previous card.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9012267/"
     }
+  },
+  {
+    "id": "s2med-2857",
+    "category": "IM Psych",
+    "q": "Hypercalcemic crisis per p287?",
+    "a": "Cognitive dysfunction or a delirium-like state in severe hypercalcemia, often from malignancy or primary hyperparathyroidism (the source saw it once with a thiazide). USMLE wants you to know high calcium, as well as any sodium disturbance, can cause delirium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "An endocrine emergency guidance on acute hypercalcaemia is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314807/"
+    }
+  },
+  {
+    "id": "s2med-2858",
+    "category": "IM Psych",
+    "q": "Hypercalcemia Tx per p287?",
+    "a": "First step is normal saline. After saline, bisphosphonate therapy (pamidronate was listed on an NBME). The source says it has never seen calcitonin or loop diuretics as correct answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "The guidance on the previous card is linked; caution: it may list calcitonin as an option in severe cases (I did not verify). Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314807/"
+    }
+  },
+  {
+    "id": "s2med-2859",
+    "category": "IM Psych",
+    "q": "Reye syndrome per p287?",
+    "a": "Acute encephalopathy and hepatic dysfunction from giving aspirin during a viral illness and/or fever. Avoid aspirin under age 12; some sources say avoid it in teens too. The mechanism is obscure and thought related to impaired beta-oxidation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A clinical inquiry on aspirin use in children is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20000310/"
+    }
+  },
+  {
+    "id": "s2med-2860",
+    "category": "IM Psych",
+    "q": "Anticholinergic delirium in kids per p287?",
+    "a": "Anticholinergic medications can cause confusion and a delirium-like state; children are more susceptible. A kid given an over-the-counter medication with low-grade fever and confusion: flushed, dry, warm skin or enlarged pupils suggest anticholinergic delirium over Reye. First-generation H1 blockers (diphenhydramine) are notoriously anticholinergic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A primer of pediatric toxidromes is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2528748/"
+    }
+  },
+  {
+    "id": "s2med-2861",
+    "category": "IM Psych",
+    "q": "Dextromethorphan per p287?",
+    "a": "Can cause delirium and psychosis in children when taken in excessive amounts. The source describes it as an opioid antitussive (cough suppressant).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A paper on pediatric dextromethorphan exposures is linked (title only). Caution: I did not verify the 'opioid' label; it is listed in the audit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27736263/"
+    }
+  },
+  {
+    "id": "s2med-2862",
+    "category": "IM Psych",
+    "q": "Alcoholic hallucinosis per p287?",
+    "a": "Presents 12-48 hours after the last drink. Hallucinations, usually tactile (bugs crawling on skin) or visual (bugs crawling up the wall). Treat with a benzo plus thiamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A paper on thiamine in alcohol use disorders is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8302359/"
+    }
+  },
+  {
+    "id": "s2med-2863",
+    "category": "IM Psych",
+    "q": "Delirium tremens per p287?",
+    "a": "Presents 2-4 days after the last drink: tremulousness, tachycardia, diaphoresis and restlessness; seizures can occur. USMLE favorite: a man in his 40s with tremulousness and tachycardia in hospital about 2 days after surgery; answer is just a benzo. Can also be a man who goes from 12 beers a day to 2. Treat with a benzo plus thiamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A StatPearls page on delirium tremens is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482134/"
+    }
+  },
+  {
+    "id": "s2med-2864",
+    "category": "IM Psych",
+    "q": "Glue per p287?",
+    "a": "Inhalant: ataxia plus cognitive decline in a teenager. Sounds like alcohol abuse, but alcohol effects don't occur so young.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A paper on recognition of inhalant abuse is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13678134/"
+    }
+  },
+  {
+    "id": "s2med-2865",
+    "category": "IM Psych",
+    "q": "Paint per p287?",
+    "a": "Inhalant: cognitive decline; the Q can say the teenager has gold or silver coloration around the nose/mouth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "The inhalant abuse paper is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13678134/"
+    }
+  },
+  {
+    "id": "s2med-2866",
+    "category": "IM Psych",
+    "q": "Butane per p287?",
+    "a": "Inhalant: cognitive decline; classically computer cleaner (dusters) or whipped cream bottles. A high schooler found on the floor of the school bathroom, brought to the ED sluggish with normal pupils and vitals: answer is butane.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "The inhalant abuse paper is linked on an earlier card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13678134/"
+    }
+  },
+  {
+    "id": "s2med-2867",
+    "category": "IM Psych",
+    "q": "Caffeine per p287?",
+    "a": "The source calls it the most common drug addiction in the world. Adenosine accumulates in the brain through the day and causes fatigue; caffeine blocks adenosine receptors, promoting wakefulness. Intoxication causes over-stimulation, panic and palpitations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 287,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=287"
+    },
+    "guideline": {
+      "text": "A StatPearls page on caffeine is linked (title only); I did not verify the 'most common' claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519490/"
+    }
+  },
+  {
+    "id": "s2med-2868",
+    "category": "IM Psych",
+    "q": "Caffeine withdrawal per p288?",
+    "a": "Headache, sense of depression, fatigue, anxiety (worry/doom), and inability to concentrate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2med-2869",
+    "category": "IM Psych",
+    "q": "Smoking/vaping per p288?",
+    "a": "Nicotine can promote euphoria. Withdrawal causes anxiety, depression, difficulty concentrating, and weight gain due to increased appetite.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A paper on nicotine withdrawal is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4542051/"
+    }
+  },
+  {
+    "id": "s2med-2870",
+    "category": "IM Psych",
+    "q": "Marijuana per p288?",
+    "a": "Conjunctival injection (redness) and dry mouth. Increased risk of developing psychosis and schizophrenia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "An umbrella review on cannabis and psychosis outcomes is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38096722/"
+    }
+  },
+  {
+    "id": "s2med-2871",
+    "category": "IM Psych",
+    "q": "Cocaine per p288?",
+    "a": "Mydriasis, tachycardia. High BP causing aortic dissection; chest pain (coronary vasospasm). Abruptio placentae in pregnant teens. Give a benzo if acutely intoxicated and observe in the emergency department.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A review of cocaine-related aortic dissection is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7598981/"
+    }
+  },
+  {
+    "id": "s2med-2872",
+    "category": "IM Psych",
+    "q": "Amphetamine per p288?",
+    "a": "Mydriasis, agitation, insomnia (up all night). Can cause tactile hallucinations. Give a benzo if acutely intoxicated and observe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A StatPearls page on amphetamine toxicity is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470276/"
+    }
+  },
+  {
+    "id": "s2med-2873",
+    "category": "IM Psych",
+    "q": "PCP per p288?",
+    "a": "Bellicosity/pugnacity (wanting to fight, aggressive), nystagmus with or without mydriasis. One 2CK NBME Q gives mutism plus constricted pupils for PCP with nothing about pugnacity, so the source says that rare presentation is possible. Give a benzo if acutely intoxicated and observe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A paper on phencyclidine intoxication is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7224272/"
+    }
+  },
+  {
+    "id": "s2med-2874",
+    "category": "IM Psych",
+    "q": "MDMA (ecstasy) per p288?",
+    "a": "Euphoria, heightened sensory perception, low-grade fever, bruxism (teeth grinding). An NBME Q gives increased creatine kinase, so that is possible. Give a benzo if acutely intoxicated and observe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A StatPearls page on MDMA toxicity is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538482/"
+    }
+  },
+  {
+    "id": "s2med-2875",
+    "category": "IM Psych",
+    "q": "LSD (acid) per p288?",
+    "a": "Visual hallucinations. Give a benzo if acutely intoxicated and observe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2med-2876",
+    "category": "IM Psych",
+    "q": "MPTP per p288?",
+    "a": "Synthetic heroin that causes Parkinsonism (shows up on a 2CK form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A paper on chronic parkinsonism from a meperidine-analog synthesis product is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6823561/"
+    }
+  },
+  {
+    "id": "s2med-2877",
+    "category": "IM Psych",
+    "q": "Opioids per p288?",
+    "a": "E.g., oxycodone or dextromethorphan (as the source lists it). Respiratory depression, constricted pupils, constipation. Naloxone (opioid receptor antagonist) for acute toxicity; methadone (opioid agonist) to decrease relapses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A StatPearls page on opioid toxicity is linked (title only); I did not verify the dextromethorphan listing.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470415/"
+    }
+  },
+  {
+    "id": "s2med-2878",
+    "category": "IM Psych",
+    "q": "Benzos overdose per p288?",
+    "a": "E.g., diazepam. Respiratory depression. Flumazenil (benzodiazepine receptor antagonist) to treat acute toxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2med-2879",
+    "category": "IM Psych",
+    "q": "Barbiturate overdose per p288?",
+    "a": "Respiratory depression. The Q will say naloxone and flumazenil had no effect, so you eliminate to get to barbiturates.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A StatPearls page on barbiturate toxicity is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499875/"
+    }
+  },
+  {
+    "id": "s2med-2880",
+    "category": "IM Psych",
+    "q": "Acetaminophen overdose per p288?",
+    "a": "Fulminant liver failure. Give activated charcoal if ingested within 1-2 hours. N-acetylcysteine must be given after to regenerate reduced glutathione and prevent liver damage from NAPQI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A paper on activated charcoal and N-acetylcysteine need after overdose is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10584587/"
+    }
+  },
+  {
+    "id": "s2med-2881",
+    "category": "IM Psych",
+    "q": "Aspirin overdose per p288?",
+    "a": "Tinnitus plus mixed metabolic acidosis and respiratory alkalosis. Give sodium bicarbonate (increases excretion via urinary alkalinization).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    },
+    "guideline": {
+      "text": "A guidance document on salicylate toxicity is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4371029/"
+    }
+  },
+  {
+    "id": "s2med-2882",
+    "category": "IM Psych",
+    "q": "TCA overdose per p288?",
+    "a": "E.g., amitriptyline. CCCs (coma, convulsions, cardiotoxicity). ECG changes (prolonged QT in the last line of a vague overdose vignette) point to the TCA. Anticholinergic effects (delirium; hot, red, dry patient).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 288,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=288"
+    }
+  },
+  {
+    "id": "s2med-2883",
+    "category": "IM Psych",
+    "q": "SSRIs per p289?",
+    "a": "Selective serotonin reuptake inhibitors: fluoxetine, escitalopram, sertraline. Cause sexual dysfunction (anorgasmia) and sleep disturbance; anorgasmia makes them the Tx for premature ejaculation. Do not combine with MAOIs or St John's wort (serotonin syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A meta-analysis of SSRI sexual dysfunction is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41721013/"
+    }
+  },
+  {
+    "id": "s2med-2884",
+    "category": "IM Psych",
+    "q": "SSRI differences per p289?",
+    "a": "Sertraline is more likely to cause diarrhea; fluoxetine is stimulating and more likely to cause insomnia; citalopram can prolong the QT interval at higher doses. The source says USMLE doesn't test these. SSRIs are also used for OCD and other conditions beyond depression.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2med-2885",
+    "category": "IM Psych",
+    "q": "SSRI failure per p289?",
+    "a": "It can take 4-6 weeks to work. If not working after that, the first step is increasing the dose; then switch to a different SSRI; then switch to a different class.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A paper on nonresponse to antidepressant therapy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12363125/"
+    }
+  },
+  {
+    "id": "s2med-2886",
+    "category": "IM Psych",
+    "q": "SNRIs per p289?",
+    "a": "Serotonin and norepinephrine reuptake inhibitors (desvenlafaxine, duloxetine). Can increase blood pressure at higher doses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A pooled analysis of desvenlafaxine and blood pressure is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25758058/"
+    }
+  },
+  {
+    "id": "s2med-2887",
+    "category": "IM Psych",
+    "q": "TCAs per p289?",
+    "a": "Block reuptake of serotonin and norepinephrine (amitriptyline, nortriptyline, clomipramine, doxepin). High-yield as first-line for diabetic neuropathic pain, and neuropathic pain in general; gabapentin is otherwise frequently used. Nasty anticholinergic side effects.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2med-2888",
+    "category": "IM Psych",
+    "q": "TCA anticholinergic vignettes per p289?",
+    "a": "Three high-yield vignettes: (1) palpable suprapubic mass in an older male (full bladder from an anticholinergic plus BPH); (2) hot, red, dry patient (anhidrosis); (3) confusion plus dilated pupils (anticholinergic delirium and mydriasis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2med-2889",
+    "category": "IM Psych",
+    "q": "TCA cardiotoxicity and elderly per p289?",
+    "a": "Coma, convulsions, cardiotoxicity. A Q that just mentions prolonged QT in a patient on an antidepressant: the answer is the TCA. If elderly, use nortriptyline (less BBB penetration and fewer anticholinergic effects).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A paper on serum anticholinergicity in elderly patients on nortriptyline versus paroxetine is linked (title only); I did not verify the BBB claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9699704/"
+    }
+  },
+  {
+    "id": "s2med-2890",
+    "category": "IM Psych",
+    "q": "Imipramine and doxepin per p289?",
+    "a": "TCAs such as imipramine for nocturnal enuresis are wrong on USMLE. Doxepin was asked on a 2CK Psych form: the Q rides on knowing it is a TCA (the only listed drug that causes anticholinergic effects).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A MeSH entry for doxepin is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/mesh/D02.355.291.852.500"
+    }
+  },
+  {
+    "id": "s2med-2891",
+    "category": "IM Psych",
+    "q": "MAOIs per p289?",
+    "a": "Phenelzine, tranylcypromine. Avoided first-line the overwhelming majority of the time because of increased serotonin syndrome risk, in isolation or when started too soon after discontinuing an SSRI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A systematic case review of MAOIs and serotonin syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9470874/"
+    }
+  },
+  {
+    "id": "s2med-2892",
+    "category": "IM Psych",
+    "q": "Selegiline and serotonin syndrome per p289?",
+    "a": "Selegiline is an MAO-B inhibitor used for Parkinson disease; it is the NBME answer when asked which Parkinson med caused serotonin syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2med-2893",
+    "category": "IM Psych",
+    "q": "Bupropion per p289?",
+    "a": "Dopamine plus norepinephrine reuptake inhibitor with antidepressant effects. Also antagonizes nicotinic receptors, removing the reward from smoking. Lowers seizure threshold; don't give to patients with eating disorders (electrolyte abnormalities increase seizure risk). No sexual side effects, unlike SSRIs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    }
+  },
+  {
+    "id": "s2med-2894",
+    "category": "IM Psych",
+    "q": "Mirtazapine per p289?",
+    "a": "A2-antagonist; stimulates appetite; used in patients with depression and anorexia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A paper on mirtazapine's metabolic effects in healthy men is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6485362/"
+    }
+  },
+  {
+    "id": "s2med-2895",
+    "category": "IM Psych",
+    "q": "Trazodone per p289?",
+    "a": "Serotonin antagonist and reuptake inhibitor (SARI). Used for depression but frequently for insomnia because of strong sedative effects. Can cause serotonin syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 289,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=289"
+    },
+    "guideline": {
+      "text": "A case report of serotonin syndrome with trazodone, amitriptyline and lithium is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9031998/"
+    }
+  },
+  {
+    "id": "s2med-2896",
+    "category": "IM Psych",
+    "q": "Serotonin syndrome per p290?",
+    "a": "Flushing, tachycardia, diarrhea after drug interactions (MAOI plus SSRI; SSRI plus St John's wort) or high-risk drugs alone (MAOI, trazodone, lithium; lithium is on a new 2CK NBME). Can cause high fever (105F+). Treated with cyproheptadine (blocks serotonin receptors).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "The Hunter serotonin toxicity criteria paper is linked (title only); I did not verify lithium as a cause.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12925718/"
+    }
+  },
+  {
+    "id": "s2med-2897",
+    "category": "IM Psych",
+    "q": "Serotonin syndrome diagnosis per p290?",
+    "a": "The source says to diagnose with urinary 5-hydroxyindole acetic acid (5-HIAA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "Caution: the Hunter criteria paper on the previous card describes a clinical diagnosis; I did not verify any role for 5-HIAA. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12925718/"
+    }
+  },
+  {
+    "id": "s2med-2898",
+    "category": "IM Psych",
+    "q": "Serotonin syndrome vs carcinoid per p290?",
+    "a": "Carcinoid syndrome is due to serotonin-secreting carcinoid tumors (lung, small bowel, appendix), not drugs. It can cause tricuspid vegetations, whereas serotonin syndrome does not. The source says it is still diagnosed with urinary 5-HIAA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A StatPearls page on 5-HIAA is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK551684/"
+    }
+  },
+  {
+    "id": "s2med-2899",
+    "category": "IM Psych",
+    "q": "Typical vs atypical antipsychotics per p290?",
+    "a": "Typical antagonize D2; atypical antagonize mostly D2 plus other receptors (D4, serotonin). HY typicals: haloperidol, chlorpromazine, prochlorperazine, thioridazine. HY atypicals: olanzapine, clozapine, quetiapine, risperidone, aripiprazole, ziprasidone ('Old Closets Quietly Whisper (Risper) from A to Z').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2med-2900",
+    "category": "IM Psych",
+    "q": "Antipsychotic side effects per p290?",
+    "a": "All can cause extrapyramidal side effects, anticholinergic effects, NMS, QT prolongation, and hyperprolactinemia (D2 normally inhibits prolactin). Typicals are older and more known for these, so atypicals are usually preferred first-line for schizophrenia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A review of schizophrenia guidelines on antipsychotics is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8873492/"
+    }
+  },
+  {
+    "id": "s2med-2901",
+    "category": "IM Psych",
+    "q": "Typicals still used per p290?",
+    "a": "Haloperidol is still used acutely for violent delirium, Tourette, or psychosis with poor compliance. A 2CK form wants haloperidol decanoate for a schizophrenia patient with poor compliance. Prochlorperazine is used as an antiemetic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A paper on long-acting injectable versus oral antipsychotic adherence is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28895758/"
+    }
+  },
+  {
+    "id": "s2med-2902",
+    "category": "IM Psych",
+    "q": "Clozapine per p290?",
+    "a": "Can cause neutropenia (agranulocytosis); the source calls this exceedingly high-yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A meta-analysis of clozapine agranulocytosis is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30857568/"
+    }
+  },
+  {
+    "id": "s2med-2903",
+    "category": "IM Psych",
+    "q": "Antipsychotics and weight per p290?",
+    "a": "Olanzapine and clozapine can worsen obesity; aripiprazole or ziprasidone are better for high-BMI patients.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A meta-analysis of antipsychotic weight change is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885350/"
+    }
+  },
+  {
+    "id": "s2med-2904",
+    "category": "IM Psych",
+    "q": "Deposits per p290?",
+    "a": "Chlorpromazine can cause Corneal deposits; thioridazine can cause reTinal deposits.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A review of systemic medications and ocular side effects is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11692015/"
+    }
+  },
+  {
+    "id": "s2med-2905",
+    "category": "IM Psych",
+    "q": "Rule of 4s per p290?",
+    "a": "Extrapyramidal effects follow a general time trend after starting an antipsychotic: acute dystonia at 4 hours, akathisia at 4 days, parkinsonism at 4 weeks, tardive dyskinesia at 4 months. Not rigid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A review of drug-induced movement disorders is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10453030/"
+    }
+  },
+  {
+    "id": "s2med-2906",
+    "category": "IM Psych",
+    "q": "Acute dystonia per p290?",
+    "a": "At about 4 hours: torticollis (stiff, crooked neck), oculogyric crisis (weird eye movements; don't confuse with tardive dyskinesia tongue movements), muscle rigidity without fever. Rigidity with fever is NMS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2med-2907",
+    "category": "IM Psych",
+    "q": "Acute dystonia Tx per p290?",
+    "a": "Benztropine or trihexyphenidyl (muscarinic antagonists), or a first-generation H1 blocker (diphenhydramine, chlorpheniramine). The source estimates about 2/3 of such Qs have benztropine as the answer and 1/3 an H1 blocker.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A guideline on psychotropic medical emergencies is linked (title only); I did not verify the 2/3 estimate.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122152/"
+    }
+  },
+  {
+    "id": "s2med-2908",
+    "category": "IM Psych",
+    "q": "Akathisia per p290?",
+    "a": "At about 4 days: restlessness. Treat with propranolol (beta-blockade).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A network meta-analysis of akathisia treatments is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10921255/"
+    }
+  },
+  {
+    "id": "s2med-2909",
+    "category": "IM Psych",
+    "q": "Parkinsonism per p290?",
+    "a": "At about 4 weeks: akinesia/bradykinesia. Treat with amantadine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    }
+  },
+  {
+    "id": "s2med-2910",
+    "category": "IM Psych",
+    "q": "Tardive dyskinesia per p290?",
+    "a": "At about 4 months: abnormal facial movements (notably tongue). Risk is greater with typicals but TD can occur with atypicals (seen on NBME). The source's treatment is stop the typical and give an atypical.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 290,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=290"
+    },
+    "guideline": {
+      "text": "A review of tardive dyskinesia treatment is linked (title only); current options may include other drugs. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597038/"
+    }
   }
 ];

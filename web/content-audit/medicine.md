@@ -992,3 +992,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Interstitial cystitis "no treatment", enuresis "desmopressin wrong": differ from current guidelines; source answers kept with caution.
 - "Avoidance of eye contact" bullet ambiguous (child abuse list end).
 - Mobile QA (320x740, local vite preview build, not live): all 39 cards ox=false off=false bad=0.
+
+## p287 (hypercalcemia, delirium causes, withdrawal, inhalants, caffeine) - 11 cards, ids s2med-2857 to 2867
+- "Calcitonin/loop diuretics always wrong" differs from endocrine guidance; dextromethorphan "opioid" label not verified.
+## p288 (drugs of abuse and overdose) - 15 cards, ids s2med-2868 to 2882
+- Source lists dextromethorphan as an opioid; MPTP "synthetic heroin" not verified beyond the linked paper title.
+## p289 (antidepressants) - 13 cards, ids s2med-2883 to 2895
+- TCA "first-line for diabetic neuropathic pain" not verified.
+## p290 (serotonin syndrome, antipsychotics, EPS) - 15 cards, ids s2med-2896 to 2910
+- Source says serotonin syndrome is diagnosed with urinary 5-HIAA; flagged (clinical diagnosis per Hunter criteria paper title). Lithium as cause unverified. TD treatment stays source answer.
+- Mobile QA (320x740, local vite preview build, not live): all 54 cards ox=false off=false bad=0.
