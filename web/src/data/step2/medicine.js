@@ -16739,5 +16739,274 @@ export default [
       "text": "The EASL guideline is linked; I did not verify the cutoffs. Ferritin is normally reported in ng/mL or ug/L, so the source's unit is questionable.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11138169/"
     }
+  },
+  {
+    "id": "s2med-1258",
+    "category": "IM Gastro",
+    "q": "Other causes of high ferritin per p138-139?",
+    "a": "Exceedingly rare to have ferritin >300 outside hemochromatosis, but it can occur in lymphoma and leukemia (high ferritin is a poor prognostic marker in non-Hodgkin lymphoma). One 2CK NBME question has ferritin 300 that is not hemochromatosis, but USMLE won't play gotcha.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "The EASL guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11138169/"
+    }
+  },
+  {
+    "id": "s2med-1259",
+    "category": "IM Gastro",
+    "q": "Hemochromatosis treatment per p139?",
+    "a": "Serial phlebotomy, not chelators. Chelators (deferoxamine, deferasirox) are for secondary hemochromatosis from transfusional siderosis (e.g., beta-thalassemia major).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "A review of genetic iron overload disorders is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258594/"
+    }
+  },
+  {
+    "id": "s2med-1260",
+    "category": "IM Gastro",
+    "q": "Wilson disease mechanism per p139?",
+    "a": "Autosomal recessive copper overload: inability to secrete copper into bile from the liver (normally the route of excretion). Increased urinary copper and decreased serum ceruloplasmin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "The updated AASLD Wilson disease summary is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10187853/"
+    }
+  },
+  {
+    "id": "s2med-1261",
+    "category": "IM Gastro",
+    "q": "Wilson disease findings per p139?",
+    "a": "Kayser-Fleischer rings (corneal copper; the source spells it 'Keiser-Fleischer'); a Wilson-sounding vignette can have 'slit-lamp exam' as the answer. Increased LFTs with cirrhosis and parkinsonism; copper deposits in basal ganglia, especially the putamen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "The AASLD summary is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10187853/"
+    }
+  },
+  {
+    "id": "s2med-1262",
+    "category": "IM Gastro",
+    "q": "Parkinsonism by age per p139?",
+    "a": "Young patient: Wilson disease until proven otherwise. Old patient: Parkinson disease, normal pressure hydrocephalus, Lewy-body dementia, or progressive supranuclear palsy. Wilson treatment: copper chelator penicillamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "The AASLD summary is linked; I did not verify the treatment recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10187853/"
+    }
+  },
+  {
+    "id": "s2med-1263",
+    "category": "IM Gastro",
+    "q": "Ischemic colitis per p139?",
+    "a": "Patient with cardiovascular disease and blood in stool, from bleeding at ischemic ulcers at colonic watershed areas (splenic flexure, rectosigmoid junction). Can be random or follow an inciting event such as recent AAA surgery. Diagnose with colonoscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls on bowel ischemia is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554527/"
+    }
+  },
+  {
+    "id": "s2med-1264",
+    "category": "IM Gastro",
+    "q": "Chronic mesenteric ischemia per p139?",
+    "a": "CVD patient with abdominal pain 1-2 hours after meals: SMA/IMA atherosclerosis, where eating increases bowel oxygen demand ('angina of bowel'). Resembles a duodenal ulcer by timing but the patient is e.g. 69 with CABG, claudication, HTN, diabetes. Next best step: mesenteric angiography.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "European guidelines on chronic mesenteric ischaemia are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7226699/"
+    }
+  },
+  {
+    "id": "s2med-1265",
+    "category": "IM Gastro",
+    "q": "Acute mesenteric ischemia presentations per p139?",
+    "a": "1) Severe abdominal pain in AF (LA thrombus embolizes to SMA/IMA); 2) severe pain just after cardioversion/defibrillation (a 2CK question doesn't mention AF); 3) acute on chronic: atheroma in SMA/IMA ruptures ('MI of the bowel').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "The WSES acute mesenteric ischemia guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/"
+    }
+  },
+  {
+    "id": "s2med-1266",
+    "category": "IM Gastro",
+    "q": "Acute mesenteric ischemia next step per p139?",
+    "a": "USMLE: mesenteric angiography; laparotomy is also an NBME answer. Source never saw medications or endarterectomy as answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 139,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=139"
+    },
+    "guideline": {
+      "text": "The WSES guideline is linked; I did not verify its imaging recommendation (CT angiography is common in current practice).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/"
+    }
+  },
+  {
+    "id": "s2med-1267",
+    "category": "IM Gastro",
+    "q": "Mesenteric vein thrombosis per p140?",
+    "a": "Splenic vein and SMV merge to form the portal vein; IMV drains to the SMV. Cirrhosis raises portal pressure and causes stasis; malignancy adds hypercoagulability. NBME: cirrhosis + lung cancer, abdominal pain, dark mottled small bowel at surgery: mesenteric venous thrombosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "The WSES acute mesenteric ischemia guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/"
+    }
+  },
+  {
+    "id": "s2med-1268",
+    "category": "IM Gastro",
+    "q": "Splenic vein thrombosis per p140?",
+    "a": "Cause of esophageal varices via collaterals with the left gastric vein (draining esophageal veins). Short gastric veins feed into the splenic vein, so high splenic or portal venous pressure also raises short gastric pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2med-1269",
+    "category": "IM Gastro",
+    "q": "Budd-Chiari syndrome per p140?",
+    "a": "Hepatic vein thrombosis (hepatic vein drains the liver). Caused by polycythemia vera and pregnancy. Triad: abdominal pain, ascites, hepatomegaly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "A meta-analysis on myeloproliferative neoplasms in Budd-Chiari is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23043069/"
+    }
+  },
+  {
+    "id": "s2med-1270",
+    "category": "IM Gastro",
+    "q": "Portal vein thrombosis per p140?",
+    "a": "Caused by portal venous stasis from cirrhosis (portal vein enters the liver).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2med-1271",
+    "category": "IM Gastro",
+    "q": "Appendicitis presentation per p140?",
+    "a": "Source: triad of RLQ pain, fever and vomiting ('Murphy's triad'). Pain starts at the epigastrium (visceral) and migrates to RLQ; the reason is inflammation of the parietal peritoneum. Pain at McBurney's point (1/3 from ASIS to umbilicus). Rovsing sign: RLQ pain on palpation of LLQ.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls on appendicitis is linked; I did not verify the text or the 'Murphy's triad' name.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493193/"
+    }
+  },
+  {
+    "id": "s2med-1272",
+    "category": "IM Gastro",
+    "q": "Appendicitis in pregnancy per p140?",
+    "a": "Pain can be RUQ due to displaced bowel and a shifted appendix. Third-trimester pregnant woman with RUQ pain, fever, vomiting and a negative abdominal ultrasound (not cholecystitis): appendicitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls on appendicitis in pregnancy is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK551642/"
+    }
+  },
+  {
+    "id": "s2med-1273",
+    "category": "IM Gastro",
+    "q": "Appendicitis diagnosis and treatment per p140?",
+    "a": "'Inflammatory mass and fecalith in the cecum' describes appendicitis on a 2CK form. Source has not seen USMLE assess ultrasound or CT (utility debated); it has seen laparoscopic removal in the stable patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "The 2024 IDSA imaging guideline for suspected appendicitis is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493193/"
+    }
+  },
+  {
+    "id": "s2med-1274",
+    "category": "IM Gastro",
+    "q": "Appendix found during another operation per p140?",
+    "a": "Ovarian procedure and an acutely inflamed appendix is seen: remove it as a medical emergency. If the scenario is reversed (suspicious ovarian lesion found during appendectomy): do not biopsy; consent must be obtained for all non-emergencies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2med-1275",
+    "category": "IM Gastro",
+    "q": "Angiodysplasia per p140?",
+    "a": "Tortuous superficial vessels in the colonic wall causing painless bleeding per rectum in the elderly. Classically associated with aortic stenosis (Heyde syndrome). NBME: older man arguing with his wife gets chest pain and bleeding per rectum; colonoscopy is negative, to say it's not cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls on Heyde syndrome is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551625/"
+    }
+  },
+  {
+    "id": "s2med-1276",
+    "category": "IM Gastro",
+    "q": "Diverticulosis per p140?",
+    "a": "Mere presence of diverticula in the colon; >50% of people over 60 in the US (source figure); continues on p141.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 140,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=140"
+    }
   }
 ];

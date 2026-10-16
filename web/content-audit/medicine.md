@@ -595,3 +595,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p138 (drug transaminitis, HELLP, ICP, FHC, hemochromatosis) - 10 cards, ids s2med-1248 to 1257
 - Unverified: ferritin cutoff and unit; ICP miscarriage claim.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p139 (hemochromatosis cont., Wilson, bowel ischemia) - 9 cards, ids s2med-1258 to 1266
+- Unverified: ferritin>300 exceptions; angiography-first vs CT angiography in current practice.
+
+## p140 (GI thromboses, appendicitis, angiodysplasia, diverticulosis start) - 10 cards, ids s2med-1267 to 1276
+- Unverified: 'Murphy's triad' naming, consent/ethics answers, >50% diverticulosis figure.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
