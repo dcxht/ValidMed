@@ -894,3 +894,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - "100% of questions" PSP claim and sildenafil optic neuritis unverified. Expletives paraphrased.
 ## p252 (optic neuritis, RAPD) - 3 cards, ids s2med-2413 to 2415
 - Mobile QA (320x740, local vite preview build, not live): all 28 cards ox=false off=false bad=0.
+
+## p253 (MS, NMO, ALS, GBS, CIDP) - 20 cards, ids s2med-2416 to 2435
+- MS between-flare Tx (interferon only) vs modern DMTs: caution. NBME claims unverified. Expletive paraphrased.
+## p254 (CIDP, CMT, Bell, PANDAS, MG, LEMS) - 19 cards, ids s2med-2436 to 2454
+- CMT labeled autoimmune by source (generally inherited): caution. Bell palsy IV steroids/taper: caution. Tensilon test currency unverified.
+## p255 (vertigo, ototoxicity, trigeminal neuralgia) - 12 cards, ids s2med-2455 to 2466
+- NBME claims unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 51 cards ox=false off=false bad=0.

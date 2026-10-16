@@ -31851,5 +31851,682 @@ export default [
       "text": "The same page is linked; I did not verify the wording.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3588138/"
     }
+  },
+  {
+    "id": "s2med-2416",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: pathogenesis per p253?",
+    "a": "T-cell-mediated attack against oligodendrocytes and myelin basic protein.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2417",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: who gets it per p253?",
+    "a": "Idiopathic autoimmune disorder classically in white women in their 20s-30s who live far from the equator.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "A cohort study on latitude and MS incidence in US women is linked; I did not verify the demographic wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7431017/"
+    }
+  },
+  {
+    "id": "s2med-2418",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: course per p253?",
+    "a": "Relapsing-remitting is most common: repeated episodes of neurologic disturbance over many years at varying intervals.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2419",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: highest-yield findings per p253?",
+    "a": "Optic neuritis and INO. Clonus and positive Babinski sign (UMN findings) are also high yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2420",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: bladder per p253?",
+    "a": "Urge incontinence is exceedingly high yield. The source has never seen overflow incontinence due to MS on NBME; urge incontinence shows up all over the NBME forms for MS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2421",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: MRI per p253?",
+    "a": "MRI is the gold standard for diagnosis, showing scattered white matter lesions within the CNS (both brain and spinal cord).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "The 2017 McDonald criteria revisions are linked; I did not read them.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29275977/"
+    }
+  },
+  {
+    "id": "s2med-2422",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: CSF per p253?",
+    "a": "CSF analysis shows IgG oligoclonal bands.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "The McDonald criteria linked above address CSF findings; I did not verify details.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29275977/"
+    }
+  },
+  {
+    "id": "s2med-2423",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: acute flare Tx per p253?",
+    "a": "Steroids for acute flares (IV methylprednisolone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "A paper with recommendations for MS relapses is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8780774/"
+    }
+  },
+  {
+    "id": "s2med-2424",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: between flares per p253?",
+    "a": "Beta-interferon is what USMLE wants between flares to decrease recurrences.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2425",
+    "category": "IM Neuro",
+    "q": "Multiple sclerosis: spasticity per p253?",
+    "a": "Baclofen (GABA-B receptor agonist) is used for spasticity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2426",
+    "category": "IM Neuro",
+    "q": "Neuromyelitis optica per p253?",
+    "a": "Aka Devic disease. Sounds exactly like MS, but CSF oligoclonal bands are negative, and the answer is 'antibodies against aquaporin-4'. The source says it is asked on a 2CK form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "A paper on CSF aquaporin-4 antibodies in NMO is linked; I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2945323/"
+    }
+  },
+  {
+    "id": "s2med-2427",
+    "category": "IM Neuro",
+    "q": "ALS: what degenerates per p253?",
+    "a": "Amyotrophic lateral sclerosis: the lateral corticospinal tracts (UMN) and anterior horns (LMN) degenerate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "A paper on ALS diagnosis criteria and EMG is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9120398/"
+    }
+  },
+  {
+    "id": "s2med-2428",
+    "category": "IM Neuro",
+    "q": "ALS: UMN plus LMN findings per p253?",
+    "a": "Every ALS vignette has a combination of UMN and LMN findings. LMN: fasciculations, decreased reflexes, decreased tone, muscle atrophy. UMN: Babinski reflex, clonus, brisk reflexes, increased tone. Serum CK can be elevated due to increased tone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2429",
+    "category": "IM Neuro",
+    "q": "ALS: no sensory findings per p253?",
+    "a": "Must have no sensory findings. If any sensory abnormality (paresthesias, numbness) is in the vignette, ALS is wrong. USMLE will often give an ALS vignette and the answer is simply 'motor neurons'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2430",
+    "category": "IM Neuro",
+    "q": "ALS: next best step in diagnosis per p253?",
+    "a": "For 2CK: electromyography and nerve conduction studies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "The ALS diagnosis paper linked above covers EMG; I did not verify the exam claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9120398/"
+    }
+  },
+  {
+    "id": "s2med-2431",
+    "category": "IM Neuro",
+    "q": "Guillain-Barre syndrome: pathology per p253?",
+    "a": "Aka acute inflammatory demyelinating polyneuropathy. T-cell- and antibody-mediated destruction of Schwann cells and myelin of peripheral nerves; can be described as 'segmental and inflammatory demyelination'. In other words, MS = CNS/oligodendrocytes; GBS = PNS/Schwann cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2432",
+    "category": "IM Neuro",
+    "q": "Guillain-Barre syndrome: presentation per p253?",
+    "a": "Ascending paralysis and loss of deep tendon reflexes. Can affect both upper and lower limbs. Symptoms can start as tingling in the hands and/or feet.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2433",
+    "category": "IM Neuro",
+    "q": "GBS: 'proximal and distal weakness' vignette per p253?",
+    "a": "USMLE can say 'weakness of proximal and distal muscles in lower limbs and weakness of distal muscles in upper limbs', implying the weakness has ascended in the legs but not yet in the arms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    }
+  },
+  {
+    "id": "s2med-2434",
+    "category": "IM Neuro",
+    "q": "GBS: Campylobacter per p253?",
+    "a": "Textbook cause is Campylobacter jejuni, but in almost all questions you will not get bloody diarrhea after a BBQ. They give only the symptoms and you must know it is GBS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "A systematic review of Campylobacter and GBS is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2995022/"
+    }
+  },
+  {
+    "id": "s2med-2435",
+    "category": "IM Neuro",
+    "q": "CIDP per p253?",
+    "a": "Chronic inflammatory demyelinating polyneuropathy. The vignette sounds exactly like GBS, but symptoms are present for months and progress slowly. GBS develops quickly over days and peaks within weeks (continued on p254).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 253,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=253"
+    },
+    "guideline": {
+      "text": "A paper on autoimmune neuropathy guidelines is linked (title only); I did not verify the time cutoffs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41308579/"
+    }
+  },
+  {
+    "id": "s2med-2436",
+    "category": "IM Neuro",
+    "q": "CIDP vs GBS vignette per p254 (continued from p253)?",
+    "a": "If a vignette sounds like GBS but symptoms have been present for 4 months, it is CIDP, not GBS. The source says there is one question on a 2CK form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "I did not verify the NBME claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41308579/"
+    }
+  },
+  {
+    "id": "s2med-2437",
+    "category": "IM Neuro",
+    "q": "Charcot-Marie-Tooth disease per p254?",
+    "a": "Obscure peripheral nerve disease (the source calls it autoimmune) that is the answer on USMLE if the vignette gives high-arched feet (pes cavus), hammer toes, and foot drop.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "A paper on foot deformities in CMT is linked; CMT is generally described as an inherited neuropathy, which differs from the source's 'autoimmune' label. Source answer for the vignette stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5811923/"
+    }
+  },
+  {
+    "id": "s2med-2438",
+    "category": "IM Neuro",
+    "q": "Bell palsy: what is it per p254?",
+    "a": "LMN lesion of CN VII (facial nerve) causing paralysis of ipsilateral facial muscles. Usually idiopathic/autoimmune, following viral infection, shingles (Ramsay-Hunt syndrome II), or Lyme disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Bell palsy is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482290/"
+    }
+  },
+  {
+    "id": "s2med-2439",
+    "category": "IM Neuro",
+    "q": "Bell palsy: next best step per p254?",
+    "a": "Serology for Lyme disease. If not listed (or the patient does not live in an endemic area), choose 'no further diagnostic studies indicated'. Nerve conduction studies are wrong (on NBME). Bell palsy is a clinical diagnosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "A review of facial palsy guidelines is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7402921/"
+    }
+  },
+  {
+    "id": "s2med-2440",
+    "category": "IM Neuro",
+    "q": "Bell palsy: treatment per p254?",
+    "a": "IV steroids followed by a 10-21 day taper of oral steroids, to minimize the immune response.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "Caution: the guideline review linked on the previous card (title only) is the place to check current dosing and route; I did not verify oral versus IV. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7402921/"
+    }
+  },
+  {
+    "id": "s2med-2441",
+    "category": "IM Neuro",
+    "q": "Bell palsy: hyperacusis and taste per p254?",
+    "a": "Ipsilateral hyperacusis (paralysis of the stapedius) and/or loss of taste on the anterior 2/3 of the tongue are basically nonexistent in questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2med-2442",
+    "category": "IM Neuro",
+    "q": "Loss of taste after trauma per p254?",
+    "a": "An NBME question says the patient has loss of taste after trauma with a normal neurologic exam: answer = olfactory nerve (CN I) palsy, not CN VII, due to cribriform plate fracture (loss of smell means loss of most taste). If CN VII were wanted, a concurrent Bell palsy would presumably be given.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2med-2443",
+    "category": "IM Neuro",
+    "q": "UMN facial lesion vs Bell palsy per p254?",
+    "a": "CN VII lesions are 19 of 20 times LMN (Bell palsy). 1/20 are UMN, causing loss of motor function of the contralateral middle and lower face, with the forehead spared.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2med-2444",
+    "category": "IM Neuro",
+    "q": "PANDAS per p254?",
+    "a": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci. In rare cases, Group A Strep pharyngitis can cause a tic disorder, OCD, or ADHD in the weeks following infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "A diagnostic approach paper on PANDAS is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8580040/"
+    }
+  },
+  {
+    "id": "s2med-2445",
+    "category": "IM Neuro",
+    "q": "PANDAS vignette per p254?",
+    "a": "A kid with a sore throat two weeks ago who now has a new-onset tic, ADHD, or OCD; asked what will most likely diagnose the etiology: 'anti-streptolysin O titers'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "The same paper is linked; I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8580040/"
+    }
+  },
+  {
+    "id": "s2med-2446",
+    "category": "IM Neuro",
+    "q": "Sydenham chorea per p254?",
+    "a": "Autoimmune movement disorder seen as part of rheumatic fever. Chorea = fast, purposeless, jerky movements. A child with rheumatic fever, asked about the cause of the movement disorder: 'autoimmune'. The source covers rheumatic heart disease in its HY Cardio PDF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "Sydenham chorea consensus guidelines are linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41265690/"
+    }
+  },
+  {
+    "id": "s2med-2447",
+    "category": "IM Neuro",
+    "q": "Myasthenia gravis: mechanism and vignette per p254?",
+    "a": "Autoantibodies against post-synaptic nicotinic acetylcholine receptors. Classic vignette: female office worker in her 40s with the triad of diplopia, dysphagia, and ptosis that worsens through the day.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "A guidance paper on AChR-antibody myasthenia gravis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11236053/"
+    }
+  },
+  {
+    "id": "s2med-2448",
+    "category": "IM Neuro",
+    "q": "Myasthenia gravis: fatigability per p254?",
+    "a": "Gets worse with recurrent muscle stimulation (the vignette might say the patient cannot perform upward gaze for 60 seconds).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2med-2449",
+    "category": "IM Neuro",
+    "q": "Tensilon test per p254?",
+    "a": "Administration of edrophonium (short-acting acetylcholinesterase inhibitor); the MG patient experiences significant improvement in symptoms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "A review on MG and LEMS diagnosis is linked; I did not verify that the Tensilon test is still used. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9792103/"
+    }
+  },
+  {
+    "id": "s2med-2450",
+    "category": "IM Neuro",
+    "q": "Myasthenia gravis: treatment per p254?",
+    "a": "Pyridostigmine (longer-acting acetylcholinesterase inhibitor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2med-2451",
+    "category": "IM Neuro",
+    "q": "MG and thymoma per p254?",
+    "a": "MG can be a paraneoplastic syndrome of thymoma; 10-15% of MG patients have thymoma. If MG is diagnosed, do a chest x-ray to look for thymoma; if abnormal, order a CT. Removing the thymoma can significantly improve or cure the MG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "The AChR-antibody MG guidance linked above discusses thymoma; I did not verify the 10-15% figure.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11236053/"
+    }
+  },
+  {
+    "id": "s2med-2452",
+    "category": "IM Neuro",
+    "q": "Lambert-Eaton: mechanism per p254?",
+    "a": "Autoantibodies against pre-synaptic voltage-gated calcium channels.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "A paper on LEMS and small cell lung carcinoma is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4928366/"
+    }
+  },
+  {
+    "id": "s2med-2453",
+    "category": "IM Neuro",
+    "q": "Lambert-Eaton: presentation per p254?",
+    "a": "Proximal muscle weakness that improves with activity (the vignette might say the patient tries to get up from a chair a few times before succeeding). Tensilon test does not significantly improve symptoms compared with MG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2med-2454",
+    "category": "IM Neuro",
+    "q": "Lambert-Eaton: highest-yield point per p254?",
+    "a": "It is a paraneoplastic syndrome of small cell lung cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 254,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=254"
+    },
+    "guideline": {
+      "text": "The same paper is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4928366/"
+    }
+  },
+  {
+    "id": "s2med-2455",
+    "category": "IM Neuro",
+    "q": "BPPV: presentation and cause per p255?",
+    "a": "Benign paroxysmal positional vertigo. Vertigo is the feeling of the room spinning. Brief episodes of dizziness, usually 30-60 seconds, sometimes with vomiting. Caused by a semicircular canal otolith (ear stone, aka otoconia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    },
+    "guideline": {
+      "text": "A BPPV guideline summary is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542064/"
+    }
+  },
+  {
+    "id": "s2med-2456",
+    "category": "IM Neuro",
+    "q": "BPPV: otoconia per p255?",
+    "a": "Otoconia made of calcium carbonate are normally in the utricle and saccule and help detect acceleration and motion. If one becomes dislodged and enters the semicircular canals, BPPV results.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2med-2457",
+    "category": "IM Neuro",
+    "q": "BPPV: diagnosis per p255?",
+    "a": "Dix-Hallpike maneuver: nystagmus is induced when the patient is rapidly moved from seated to lying with the head tilted backward and turned to one side. If nystagmus occurs, Dx = BPPV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2med-2458",
+    "category": "IM Neuro",
+    "q": "BPPV: treatment per p255?",
+    "a": "Epley maneuver, a series of head movements to move the semicircular canal otolith back to the utricle, curing the BPPV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2med-2459",
+    "category": "IM Neuro",
+    "q": "Vestibular neuritis per p255?",
+    "a": "Viral infection plus vertigo. Inflammation of the vestibular nerve (branch of CN VIII).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    },
+    "guideline": {
+      "text": "A consensus document on vestibular neuritis diagnostic criteria is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9661346/"
+    }
+  },
+  {
+    "id": "s2med-2460",
+    "category": "IM Neuro",
+    "q": "Labyrinthitis per p255?",
+    "a": "Viral infection plus vertigo with or without tinnitus. Inflammation of both the vestibular and cochlear nerves.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    },
+    "guideline": {
+      "text": "I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9661346/"
+    }
+  },
+  {
+    "id": "s2med-2461",
+    "category": "IM Neuro",
+    "q": "Vestibular neuritis vs labyrinthitis on NBME per p255?",
+    "a": "The internet distinction (VN is only vertigo, labyrinthitis also has tinnitus) is not reliable per the source: an NBME question repeated across forms does not mention tinnitus and the answer is labyrinthitis (vestibular neuritis is not listed). That is why the source writes 'with or without' tinnitus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2med-2462",
+    "category": "IM Neuro",
+    "q": "Labyrinthitis: abnormal light reflex per p255?",
+    "a": "The tympanic light reflex can be abnormal, reflecting increased middle ear pressure (sometimes seen with viral infection). The NBME stem says 'abnormal light reflex', which could be misread as the eyes. The same question has MS as a wrong answer with a sibling with MS. The key sentence is nausea and reduced ability to eat for a few days, implying recent viral infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    }
+  },
+  {
+    "id": "s2med-2463",
+    "category": "IM Neuro",
+    "q": "Meniere disease: presentation per p255?",
+    "a": "Waxing and waning, asymmetric tinnitus and vertigo with a slowly progressive course over many years. Has a familial component but no strict inheritance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    },
+    "guideline": {
+      "text": "A clinical practice guideline on Meniere disease is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32267799/"
+    }
+  },
+  {
+    "id": "s2med-2464",
+    "category": "IM Neuro",
+    "q": "Meniere disease: mechanism and hearing loss per p255?",
+    "a": "Due to defective endolymphatic drainage. Can cause low-frequency hearing loss (for example difficulty hearing conversations at a crowded dinner table), in contrast to presbycusis, which is high-frequency hearing loss in the elderly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    },
+    "guideline": {
+      "text": "The same guideline is linked on the previous card; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32267799/"
+    }
+  },
+  {
+    "id": "s2med-2465",
+    "category": "IM Neuro",
+    "q": "Drug-induced ototoxicity per p255?",
+    "a": "Aminoglycosides (gentamicin, amikacin), chemo agents like cisplatin, and loop diuretics (furosemide, ethacrynic acid) are known for ototoxicity. It need not be hearing loss and can be vertigo, for example a patient on IV antibiotics for endocarditis who feels the room spinning (gentamicin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    },
+    "guideline": {
+      "text": "A paper on aminoglycoside and cisplatin ototoxicity is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6579718/"
+    }
+  },
+  {
+    "id": "s2med-2466",
+    "category": "IM Neuro",
+    "q": "Trigeminal neuralgia per p255?",
+    "a": "'11/10' lancinating, knife-like pain in episodes usually lasting under 1 minute. Classically brought on by minor stimuli such as brushing hair or teeth, or a gust of wind. Thought to be caused by trigeminal nerve irritation or impingement (for example at the exit points from the skull).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 255,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=255"
+    },
+    "guideline": {
+      "text": "A paper on carbamazepine and trigger zones in trigeminal neuralgia is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14716252/"
+    }
   }
 ];
