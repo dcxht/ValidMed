@@ -1382,3 +1382,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p402 (IM mixed bullets: asthma drugs, AERD) - 10 cards, ids s2med-4145 to 4154
 - "Oral steroids most effective at preventing asthma" and LTB4 side-claims: source, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 43 cards ox=false off=false bad=0.
+
+## p403 (IM mixed bullets: omalizumab, acute asthma acid-base) - 7 cards, ids s2med-4155 to 4161
+- Acetazolamide altitude sickness explanation and "ICS no role in acute asthma": source, not verified.
+
+## p404 (IM mixed bullets: PE, tPA, rhabdo) - 11 cards, ids s2med-4162 to 4172
+- "tPA never an answer for PE", pregnant V/Q then CT, 21-day GI bleed: source, not verified; only BP threshold linked to a guideline.
+
+## p405 (IM mixed bullets: alcohol anemia, episiotomy, incontinence) - 7 cards, ids s2med-4173 to 4179
+- Sorbitol myelin mechanism for diabetic bladder: source, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 25 cards ox=false off=false bad=0.

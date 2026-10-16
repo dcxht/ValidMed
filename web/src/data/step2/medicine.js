@@ -54648,5 +54648,292 @@ export default [
       "page": 402,
       "url": "/mehlman/hy-internal-medicine.pdf#page=402"
     }
+  },
+  {
+    "id": "s2med-4155",
+    "category": "IM Mixed",
+    "q": "Weird asthma treatment per p403?",
+    "a": "Omalizumab: monoclonal antibody against IgE, for intractable severe asthma unresponsive to oral steroids, in patients with eosinophilia and high IgE (the source's pulmonologist had 3 of 1000 asthma patients on it).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 403,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=403"
+    },
+    "guideline": {
+      "text": "Omalizumab for severe allergic asthma is reviewed in the linked PubMed meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32565844/"
+    }
+  },
+  {
+    "id": "s2med-4156",
+    "category": "IM Mixed",
+    "q": "Role of inhaled corticosteroids in acute asthma per p403?",
+    "a": "None (per the source). First give oxygen (any USMLE question with depressed O2 sats: O2) + nebulized albuterol; IV steroids are then given.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 403,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=403"
+    }
+  },
+  {
+    "id": "s2med-4157",
+    "category": "IM Mixed",
+    "q": "Acid-base disturbance in asthma per p403?",
+    "a": "Respiratory alkalosis: low O2, low CO2, high pH, normal bicarb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 403,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=403"
+    }
+  },
+  {
+    "id": "s2med-4158",
+    "category": "IM Mixed",
+    "q": "Why is CO2 low in asthma despite airway obstruction per p403?",
+    "a": "High respiratory rate; CO2 diffuses quickly even through constricted, secretion-filled bronchioles, while O2 diffuses slowly and needs healthy airways. 19 times out of 20 on USMLE, a high RR means low CO2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 403,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=403"
+    }
+  },
+  {
+    "id": "s2med-4159",
+    "category": "IM Mixed",
+    "q": "Exception to 'high RR means low CO2' per p403?",
+    "a": "COPD/emphysema: RR 28 with very high CO2 = chronic plus acute respiratory acidosis (acute on chronic); reduced surface area means CO2 cannot diffuse out despite a high RR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 403,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=403"
+    }
+  },
+  {
+    "id": "s2med-4160",
+    "category": "IM Mixed",
+    "q": "Why is bicarb normal in an acute asthma attack per p403?",
+    "a": "Not enough time for bicarb to change; renal compensation takes at least 12-24 hours. In altitude sickness (low CO2 from high RR), acetazolamide (carbonic anhydrase inhibitor) increases PCT bicarb loss to force a compensating metabolic acidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 403,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=403"
+    }
+  },
+  {
+    "id": "s2med-4161",
+    "category": "IM Mixed",
+    "q": "12M acute asthma on O2, albuterol, IV steroids; at 30 minutes: low O2, normal CO2, normal pH, normal bicarb per p403?",
+    "a": "He is tiring (RR decreasing; low O2 should still drive hyperventilation). Answer: intubate. Initial low O2 + low CO2 is type I respiratory failure; it eventually inverts to respiratory acidosis with low O2, high CO2, low pH, normal bicarb (type II; continues on p404).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 403,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=403"
+    }
+  },
+  {
+    "id": "s2med-4162",
+    "category": "IM Mixed",
+    "q": "Acid-base disturbance in pulmonary embolism per p404?",
+    "a": "Same as acute asthma: low O2, low CO2, high pH, normal bicarb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4163",
+    "category": "IM Mixed",
+    "q": "Treatment of PE and the pregnancy workup per p404?",
+    "a": "Heparin before spiral CT; V/Q scan in pregnant women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4164",
+    "category": "IM Mixed",
+    "q": "Pregnant woman, V/Q scan shows a segmental defect: next best step in diagnosis per p404?",
+    "a": "Spiral CT (per the source and UW 2CK), even though CT is normally avoided in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4165",
+    "category": "IM Mixed",
+    "q": "PE patient already on warfarin per p404?",
+    "a": "Do not give heparin; go straight to spiral CT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4166",
+    "category": "IM Mixed",
+    "q": "IVC filter in PE per p404?",
+    "a": "Only after spiral CT confirms the PE in a patient who is already anticoagulated. Do not pick IVC filter before confirming the PE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4167",
+    "category": "IM Mixed",
+    "q": "tPA in PE per p404?",
+    "a": "Never an answer on USMLE because the indications are debated (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4168",
+    "category": "IM Mixed",
+    "q": "Is tPA ever an answer per p404?",
+    "a": "Ischemic stroke within 4.5 hours; non-contrast head CT first to confirm no bleed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4169",
+    "category": "IM Mixed",
+    "q": "72M with 30 minutes of facial droop + arm weakness since waking from a nap per p404?",
+    "a": "Time since stroke = time since last known normal (before sleep); on USMLE this usually means do not give tPA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4170",
+    "category": "IM Mixed",
+    "q": "Main tPA contraindications on USMLE per p404?",
+    "a": "BP above 185/110 (either value exceeded); also low platelets, high PT or aPTT, GI bleed in the past 21 days, history of intracranial bleed, recent major surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    },
+    "guideline": {
+      "text": "Blood pressure management around thrombolysis is covered in the linked ESO guideline; I did not verify the other listed contraindications.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8370078/"
+    }
+  },
+  {
+    "id": "s2med-4171",
+    "category": "IM Mixed",
+    "q": "45F alcoholic + increased creatine kinase per p404?",
+    "a": "Rhabdomyolysis (increased risk in alcoholics).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4172",
+    "category": "IM Mixed",
+    "q": "82F fell at home; urine dipstick positive for blood, no RBCs on urine microscopy per p404?",
+    "a": "Rhabdomyolysis (myoglobinuria gives a false-positive dipstick blood).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 404,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=404"
+    }
+  },
+  {
+    "id": "s2med-4173",
+    "category": "IM Mixed",
+    "q": "Anemia in alcoholism per p405?",
+    "a": "Non-megaloblastic macrocytic anemia: USMLE gives a high MCV (normal 80-100) with other findings, and only wants you to attribute it to alcohol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 405,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=405"
+    }
+  },
+  {
+    "id": "s2med-4174",
+    "category": "IM Mixed",
+    "q": "Electrolyte abnormality in rhabdomyolysis per p405?",
+    "a": "Hyperkalemia (cell lysis + renal failure; myoglobin causes acute tubular necrosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 405,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=405"
+    }
+  },
+  {
+    "id": "s2med-4175",
+    "category": "IM Mixed",
+    "q": "Midline posterior episiotomy cut too far: what is cut per p405?",
+    "a": "The external anal sphincter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 405,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=405"
+    }
+  },
+  {
+    "id": "s2med-4176",
+    "category": "IM Mixed",
+    "q": "Stress incontinence per p405?",
+    "a": "Weakened pelvic floor muscles with urine loss on raised abdominal pressure (cough, sneeze, laugh); multiple pregnancies classic; stems may say 'downward movement of the vesicourethral junction with coughing'. Next step: pelvic floor (Kegel) exercises; if insufficient, mid-urethral sling. No medications for stress incontinence (HY).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 405,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=405"
+    },
+    "guideline": {
+      "text": "First-line pelvic floor muscle training then midurethral sling is described in the linked 2024 CUA guideline.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11034962/"
+    }
+  },
+  {
+    "id": "s2med-4177",
+    "category": "IM Mixed",
+    "q": "Which muscle is not strengthened by Kegel exercises per p405?",
+    "a": "Internal anal sphincter: internal sphincters (urethral + anal) are under sympathetic control, and you cannot voluntarily strengthen a muscle not under somatic control. Kegel strengthens levator ani (pubococcygeus, puborectalis, iliococcygeus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 405,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=405"
+    }
+  },
+  {
+    "id": "s2med-4178",
+    "category": "IM Mixed",
+    "q": "Urge incontinence per p405?",
+    "a": "Hyperactive detrusor / detrusor instability (running to the bathroom at the key in the door). Seen in multiple sclerosis, menopause, or idiopathic. Treat with oxybutynin (antimuscarinic) or mirabegron (beta-3 agonist); do not give these in stress incontinence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 405,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=405"
+    }
+  },
+  {
+    "id": "s2med-4179",
+    "category": "IM Mixed",
+    "q": "Overflow incontinence per p405?",
+    "a": "Seen in diabetes and BPH. Diabetes: neurogenic bladder (the source says sorbitol-driven osmotic damage to myelin). BPH: outlet obstruction leading to detrusor burnout. Postvoid residual volume is high (the bullet continues on p406).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 405,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=405"
+    }
   }
 ];
