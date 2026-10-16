@@ -28922,5 +28922,129 @@ export default [
       "text": "StatPearls: idiopathic osteonecrosis (avascular necrosis) of the capital femoral epiphysis of the femoral head.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
     }
+  },
+  {
+    "id": "s2peds-2030",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "When is the diagnosis avascular necrosis instead of Legg-Calve-Perthes per p135?",
+    "a": "When the etiology of the avascular necrosis is known (for example Gaucher disease, sickle cell disease, corticosteroids). Then the diagnosis is just avascular necrosis, not LCP.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "guideline": {
+      "text": "StatPearls: LCP is idiopathic avascular necrosis of the femoral head. I did not verify the specific named causes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2031",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "What is the vignette for Legg-Calve-Perthes per p135?",
+    "a": "A child aged 5-8 years with hip pain.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "guideline": {
+      "text": "StatPearls: occurs between ages 3 and 12 years, with the highest rate at 5 to 7 years.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2032",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "What is the first diagnostic step in Legg-Calve-Perthes, and what does it show per p135?",
+    "a": "Hip x-ray, which shows a contracted or flattened femoral head. p135 says the word contracted is high yield and synonymous with avascular necrosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "guideline": {
+      "text": "StatPearls: early radiographs can be normal; later films show femoral head changes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2033",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "What is the next step if the x-ray is negative in suspected Legg-Calve-Perthes per p135?",
+    "a": "Bone scan or MRI (p135 says on the 2CK Peds form).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "guideline": {
+      "text": "StatPearls: if plain films are normal, try a bone scan or MRI; MRI shows marrow changes and bone scan shows decreased perfusion to the femoral head.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2034",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "What treatment does p135 give for Legg-Calve-Perthes?",
+    "a": "Hip replacement.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls lists treatment goals as symptom control, restoration of hip motion and containment of the femoral head, with nonoperative care or femoral/pelvic osteotomy (surgery does better in children over 8 and lateral pillar B or B/C). Hip replacement is a late adult complication. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2035",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "What does the pelvic x-ray on p135 show?",
+    "a": "The right femoral head (left side of image) looks contracted or flattened, buzzy for avascular necrosis (Legg-Calve-Perthes). A cyan arrow marks it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "img": "/mehlman/figures/peds-p135-lcp-xray.png",
+    "imgAlt": "AP pelvis radiograph with a flattened right femoral head marked by a cyan arrow, from p135",
+    "guideline": {
+      "text": "StatPearls: Legg-Calve-Perthes is idiopathic avascular necrosis of the capital femoral epiphysis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2036",
+    "category": "Legg-Calve-Perthes disease",
+    "q": "What does the MRI on p135 show?",
+    "a": "The right femoral head (left side of image) is hypointense (more black). The necrotic, bone-lacking superior portion is black, so the remaining white part is flattened or contracted. The left femoral head has a small black medial area of necrosis too.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "img": "/mehlman/figures/peds-p135-lcp-mri.png",
+    "imgAlt": "Coronal pelvic MRI with a hypointense right femoral head, from p135",
+    "guideline": {
+      "text": "StatPearls: MRI shows marrow changes suggestive of Legg-Calve-Perthes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2037",
+    "category": "Slipped capital femoral epiphysis",
+    "q": "What is the classic SCFE vignette per p135?",
+    "a": "A 10-13-year-old pre-adolescent overweight boy with a painful limp.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 135,
+      "url": "/mehlman/hy-pediatrics.pdf#page=135"
+    },
+    "guideline": {
+      "text": "StatPearls: SCFE presents with atraumatic hip, thigh or knee pain, possibly with limp or inability to bear weight; obesity is the single most significant risk factor. I did not verify the 10-13 age range.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
+    }
   }
 ];

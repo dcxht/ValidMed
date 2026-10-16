@@ -644,3 +644,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls (Talipes Equinovarus, DDH, Blount, Legg-Calve-Perthes) and an arthrogryposis review. Source answer kept for DDH imaging cutoff (ultrasound <6 months, x-ray >6 months); caution note cites AAP 6 weeks ultrasound / 4 months x-ray.
 - Left un-noted (not verified): ortho referral before imaging, Potter sequence association, Edwards syndrome and rocker-bottom foot, frog-leg description of Pavlik positioning.
 - Mobile QA (320x740, live, local headless Chrome): all 13 cards ox=false off=false bad=0.
+
+## p135 (Legg-Calve-Perthes continued, SCFE vignette) - 8 cards, ids s2peds-2030 to 2037
+- Inspected page pixels. Two figures: AP pelvis x-ray (cyan arrow, right femoral head) and pelvic MRI.
+- Notes verified against StatPearls Legg-Calve-Perthes and SCFE. Source answer kept for "Tx = hip replacement"; caution note says current treatment is containment/nonoperative care or osteotomy, hip replacement a late adult outcome.
+- Left un-noted (not verified): Gaucher/sickle cell/corticosteroid examples, "contracted" as HY wording, SCFE age 10-13 (noted as unverified in the note).
+- Mobile QA: PENDING
