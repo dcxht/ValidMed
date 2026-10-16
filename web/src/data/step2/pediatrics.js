@@ -38594,5 +38594,125 @@ export default [
       "text": "StatPearls: reflux nephropathy was previously called chronic pyelonephritis, thought to result from childhood recurrent UTIs. I did not verify the thyroidization detail.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK526055/"
     }
+  },
+  {
+    "id": "s2peds-2698",
+    "category": "Peds vignettes",
+    "q": "9F with recurrent pyelonephritis and simple UTIs and BP 160/100. Next best step per p192?",
+    "a": "Measurement of serum urea nitrogen and creatinine; likely chronic pyelonephritis (reflux nephropathy) with renal scarring, disruption of renal microvasculature and RAAS upregulation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "StatPearls: reflux nephropathy was previously called chronic pyelonephritis and often presents with chronic kidney disease. I did not verify the RAAS mechanism in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK526055/"
+    }
+  },
+  {
+    "id": "s2peds-2699",
+    "category": "Peds vignettes",
+    "q": "6M with dancing eyes, hypertension and a lesion in the posterior mediastinum on CXR. Diagnosis per p192?",
+    "a": "Neuroblastoma; it can occur anywhere along the median sympathetic chain, though classically intra-abdominal. Dancing eyes is opsoclonus-myoclonus syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "StatPearls: neuroblastoma is the most common tumor of the sympathetic nervous system; rare presentation with opsoclonus and myoclonus. I did not verify 'median' sympathetic chain wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448111/"
+    }
+  },
+  {
+    "id": "s2peds-2700",
+    "category": "Peds vignettes",
+    "q": "How is neuroblastoma diagnosed per p192?",
+    "a": "On the NBME: urinary homovanillic acid (HVA) and vanillylmandelic acid (VMA); mIBG scan may also be used; n-myc gene.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "StatPearls: MYCN is the most important marker, with MYCN amplification associated with poor outcome. I did not verify the HVA/VMA or mIBG statements in the passage I read; tissue biopsy is also used for diagnosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448111/"
+    }
+  },
+  {
+    "id": "s2peds-2701",
+    "category": "Peds vignettes",
+    "q": "5M with 4 days of increasing shortness of breath, a superior mediastinal mass on CXR and thoracentesis giving 400 mL serosanguinous fluid. Most likely cause of the effusion per p192?",
+    "a": "Malignant pleural effusion from T-cell ALL (the mediastinal mass causes an SVC-like syndrome).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says the most common malignancy associated with pediatric malignant pleural effusion is lymphoma; T-cell ALL and lymphoma can both present with a mediastinal mass. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507720/"
+    }
+  },
+  {
+    "id": "s2peds-2702",
+    "category": "Peds vignettes",
+    "q": "What makes jaundice pathologic in a neonate per p192?",
+    "a": "At least one: any jaundice in the first 24 hours of life; jaundice after one week if term or two weeks if preterm; total bilirubin above 15 mg/dL; direct bilirubin above 10% of total even if total is below 15; rate of rise above 0.5 mg/dL/hour.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "Current caution: the 2022 AAP technical report manages neonatal hyperbilirubinemia by age-based phototherapy and exchange thresholds rather than a fixed 15 mg/dL total; a direct bilirubin above 1 mg/dL is the cholestasis flag in the NASPGHAN/ESPGHAN guideline. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35927519/"
+    }
+  },
+  {
+    "id": "s2peds-2703",
+    "category": "Peds vignettes",
+    "q": "Treatment for pathologic jaundice per p192?",
+    "a": "Phototherapy first, followed by exchange transfusion; some literature supports IVIG after phototherapy, but USMLE has exchange transfusion as correct without listing IVIG.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "Current caution: AAP 2022 guidance uses phototherapy and exchange thresholds by age and risk factors, and recommends IVIG in isoimmune hemolytic disease when approaching exchange thresholds. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35927519/"
+    }
+  },
+  {
+    "id": "s2peds-2704",
+    "category": "Peds vignettes",
+    "q": "Neonate with total bilirubin 14 mg/dL and direct bilirubin 13 mg/dL. Diagnosis, next step and treatment per p192?",
+    "a": "Biliary atresia; next step is liver biopsy; treatment is liver transplant. Total bilirubin is okay here, but direct is severely pathologic because it is above 10% of total (over 1.4 mg/dL).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says diagnosis uses imaging, liver biopsy and intraoperative cholangiography, and Kasai portoenterostomy is the initial surgery; many patients later need liver transplant. Source answer (transplant) is not first-line surgery. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537262/"
+    }
+  },
+  {
+    "id": "s2peds-2705",
+    "category": "Peds vignettes",
+    "q": "Neonate with total bilirubin 20 mg/dL, all unconjugated, continually worsening despite management. Diagnosis and treatment per p192?",
+    "a": "Crigler-Najjar: absence of UDP-glucuronosyltransferase; treatment is liver transplant. Type II is a deficiency, not absence, of the enzyme and can be managed with phenobarbital, which reduces bilirubin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 192,
+      "url": "/mehlman/hy-pediatrics.pdf#page=192"
+    },
+    "guideline": {
+      "text": "StatPearls: CN1 is absence and CN2 profound decrease of UGT1A1 enzyme; the only cure for CN1 is liver transplant; transplant is infrequent in CN2. I did not verify phenobarbital in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562171/"
+    }
   }
 ];

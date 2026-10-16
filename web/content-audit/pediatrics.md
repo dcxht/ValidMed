@@ -1039,3 +1039,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source wording flagged in notes: "periventricular" vs subependymal nodules; WAGR as single WT1 mutation (contiguous 11p13 deletion); outdated "pseudohermaphroditism" and "retardation"; WT2 as BWS label.
 - Left unverified: acanthocytes in heat stroke, ultrasound as first imaging for Wilms, Wilms-Turner link, ADPKD chromosome/aneurysm details, thyroidization.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p192 (Bullet points: reflux nephropathy, neuroblastoma, T-ALL effusion, neonatal jaundice) - 8 cards, ids s2peds-2698 to 2705
+- Inspected page text and layout; no figures. The page ends on the breast milk vs breastfeeding jaundice question, which is answered on p193 and will be carded there.
+- Notes verified against StatPearls (Reflux Nephropathy, Neuroblastoma, Pediatric Malignant Pleural Effusion, Biliary Atresia, Crigler-Najjar), the NASPGHAN/ESPGHAN cholestasis guideline abstract and the 2022 AAP hyperbilirubinemia technical report (title only).
+- Source answers kept with caution notes: lymphoma vs T-ALL for pediatric malignant effusion; fixed 15 mg/dL pathologic jaundice criteria (AAP 2022 age-based thresholds); IVIG omission; biliary atresia treatment as transplant (Kasai first).
+- Left unverified: RAAS mechanism, HVA/VMA and mIBG statements, phenobarbital in CN2.
+- Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
