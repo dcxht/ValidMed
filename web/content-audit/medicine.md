@@ -706,3 +706,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p179 (chemo/immunosuppressant pharm, methotrexate) - 24 cards, ids s2med-1701 to 1724
 - Conflicts: HIT dabigatran example vs ASH 2018 (IV DTIs argatroban/bivalirudin); CHADS2 vs CHA2DS2-VASc; tPA window. Unverified: 6-MP/5-FU row attribution (page layout), griseofulvin contacts claim, warfarin bridging explanation.
 - Mobile QA (320x740, local vite preview build, not live): all 61 cards ox=false off=false bad=0.
+
+## p180 (penile/testicular disorders) - 18 cards, ids s2med-1725 to 1742
+## p181 (hydrocele, varicocele, testicular cancer, ovarian neoplasms) - 16 cards, ids s2med-1743 to 1758
+## p182 (ovarian germ cell, Krukenberg, endometrial cancer, fibroids) - 13 cards, ids s2med-1759 to 1771
+- Conflicts/unverified: cryptorchidism orchiopexy timing (source 6 months) vs AUA; priapism stepwise management; Krukenberg "hematogenous" spread unendorsed; endometrial biopsy vs TVUS for postmenopausal bleeding; dysgerminoma LDH/Turner.
+- Mobile QA (320x740, local vite preview build, not live): all 47 cards ox=false off=false bad=0.

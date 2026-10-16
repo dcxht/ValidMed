@@ -22688,5 +22688,586 @@ export default [
       "text": "A review of leucovorin rescue for high-dose methotrexate is linked; I did not verify the text.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/35929573/"
     }
+  },
+  {
+    "id": "s2med-1725",
+    "category": "IM Repro/Obgyn",
+    "q": "Hypospadias versus epispadias per p180?",
+    "a": "Hypospadias: urethral meatus opens on the underside (ventral) of the penis. Epispadias: opens on top (dorsal).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1726",
+    "category": "IM Repro/Obgyn",
+    "q": "Phimosis per p180?",
+    "a": "Cannot retract the prepuce (foreskin), i.e., cannot pull it back to expose the glans.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1727",
+    "category": "IM Repro/Obgyn",
+    "q": "Paraphimosis per p180?",
+    "a": "Cannot reduce the prepuce: once retracted, cannot replace it over the glans. It's the bad one / emergency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1728",
+    "category": "IM Repro/Obgyn",
+    "q": "Cryptorchidism: features per p180?",
+    "a": "Undescended testis. Increased infertility risk (higher abdominal temperature lowers spermatogenesis) and increased testicular carcinoma risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1729",
+    "category": "IM Repro/Obgyn",
+    "q": "Cryptorchidism: treatment timing per p180?",
+    "a": "Source: no treatment before age 6 months; after 6 months, orchiopexy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "The AUA cryptorchidism guideline is linked; I did not verify its timing. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24857650/"
+    }
+  },
+  {
+    "id": "s2med-1730",
+    "category": "IM Repro/Obgyn",
+    "q": "Testicular torsion: what is it per p180?",
+    "a": "Acutely painful testis, a medical emergency that can lead to ischemia and loss of the testis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "StatPearls on testicular torsion is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448199/"
+    }
+  },
+  {
+    "id": "s2med-1731",
+    "category": "IM Repro/Obgyn",
+    "q": "Testicular torsion: cause per p180?",
+    "a": "Abnormality of the gubernaculum (ligamentous cord anchoring the testis in the scrotum) causing 'bell-clapper deformity': improper anchoring, increased rotation risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1732",
+    "category": "IM Repro/Obgyn",
+    "q": "Prehn sign in torsion per p180?",
+    "a": "Negative Prehn: no pain relief on lifting the scrotum. Source says unreliable in real life, but NBME vignettes can mention it. (+) Prehn (relief) suggests epididymitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1733",
+    "category": "IM Repro/Obgyn",
+    "q": "Cremasteric reflex in torsion per p180?",
+    "a": "Negative (scrotal skin fails to retract on stroking the medial thigh). A (+) reflex suggests epididymitis. In torsion, the twisted cord can impair the nerves that trigger the reflex.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "A StatPearls chapter on the cremasteric reflex is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK513348/"
+    }
+  },
+  {
+    "id": "s2med-1734",
+    "category": "IM Repro/Obgyn",
+    "q": "Torsion: next best step per p180?",
+    "a": "Doppler ultrasonography, followed by surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1735",
+    "category": "IM Repro/Obgyn",
+    "q": "Epididymitis: signs per p180?",
+    "a": "Inflammation/infection of the epididymis; (+) Prehn sign and (+) cremasteric reflex.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "StatPearls on epididymitis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430814/"
+    }
+  },
+  {
+    "id": "s2med-1736",
+    "category": "IM Repro/Obgyn",
+    "q": "Epididymitis organisms per p180?",
+    "a": "Chlamydia and gonorrhea are most common in males under 35; E. coli over 35. USMLE will give a clear 25- or 45-year-old; same applies to prostatitis. An NBME Q with a 45-year-old has E. coli as the answer and chlamydia wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1737",
+    "category": "IM Repro/Obgyn",
+    "q": "Torsion of the appendix testis per p180?",
+    "a": "Not the same as testicular torsion (asked on a 2CK form). Kid with painful testis, blue superior pole ('blue dot' sign), and intact cremasteric reflex (not intact in regular torsion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "A study distinguishing testicular torsion from appendix testis torsion is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5587186/"
+    }
+  },
+  {
+    "id": "s2med-1738",
+    "category": "IM Repro/Obgyn",
+    "q": "Peyronie disease per p180?",
+    "a": "Curvature deformity of the penis from a fibrous plaque within the tunica albuginea. No treatment unless causing functional impairment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1739",
+    "category": "IM Repro/Obgyn",
+    "q": "Orchitis per p180?",
+    "a": "Inflammation/infection of the testis. Mumps is HY in unvaccinated people / immigrants. If not mumps, bacterial causes are the same as epididymitis and prostatitis (STIs when young, E. coli when older).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1740",
+    "category": "IM Repro/Obgyn",
+    "q": "Priapism: definition and causes per p180?",
+    "a": "Erection lasting longer than 4 hours. Can be caused by sickle cell or PDE-5 inhibitors (tadalafil/sildenafil).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1741",
+    "category": "IM Repro/Obgyn",
+    "q": "Priapism: treatment per p180?",
+    "a": "Injection of an alpha-1 agonist (e.g., phenylephrine) into the erectile tissue, decreasing blood flow through vasoconstriction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    },
+    "guideline": {
+      "text": "The AUA/SMSNA ischemic priapism guideline is linked; I did not verify the stepwise approach (the guideline may list other steps first).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34495686/"
+    }
+  },
+  {
+    "id": "s2med-1742",
+    "category": "IM Repro/Obgyn",
+    "q": "Hydrocele: what is it per p180 (continues p181)?",
+    "a": "Serous fluid collection in the scrotum between the layers of the tunica vaginalis around the testis. Mechanism: patent processus vaginalis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 180,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=180"
+    }
+  },
+  {
+    "id": "s2med-1743",
+    "category": "IM Repro/Obgyn",
+    "q": "Processus vaginalis per p181?",
+    "a": "An embryonic peritoneal outpouching that descends into the scrotum. It normally obliterates shortly after birth; if it stays open it can cause hydrocele or indirect inguinal hernia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "A consensus statement on pediatric hernias and hydroceles is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2819962/"
+    }
+  },
+  {
+    "id": "s2med-1744",
+    "category": "IM Repro/Obgyn",
+    "q": "Hydrocele: transillumination and treatment per p181?",
+    "a": "Transilluminates. USMLE wants no treatment before age 1; most spontaneously close.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1745",
+    "category": "IM Repro/Obgyn",
+    "q": "Spermatocele per p181?",
+    "a": "Obscure serous fluid collection within the epididymis containing sperm. Usually adult men (not neonates like hydrocele). Transilluminates like hydrocele.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1746",
+    "category": "IM Repro/Obgyn",
+    "q": "Varicocele: features per p181?",
+    "a": "Dilation/congestion of the pampiniform venous plexus. Does not transilluminate. 'Bag of worms' (an NBME Q uses it literally), or heavy dragging scrotum, lower on the left.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1747",
+    "category": "IM Repro/Obgyn",
+    "q": "Why varicocele is almost always left-sided per p181?",
+    "a": "Left testicular vein drains to the left renal vein (at 90 degrees, favoring hydrostatic backup); right testicular vein drains directly to the IVC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "A paper on the testicular-renal venous route is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10972559/"
+    }
+  },
+  {
+    "id": "s2med-1748",
+    "category": "IM Repro/Obgyn",
+    "q": "Bilateral varicocele per p181?",
+    "a": "A 2CK NBME Q has bilateral varicocele as the answer. Highly obscure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1749",
+    "category": "IM Repro/Obgyn",
+    "q": "Left renal vein thrombosis and varicocele per p181?",
+    "a": "Can occur in nephrotic syndrome (urinary loss of antithrombin III leads to hypercoagulability).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1750",
+    "category": "IM Repro/Obgyn",
+    "q": "Testicular cancer by age per p181?",
+    "a": "Seminoma most likely in teens and older; yolk sac tumor in school-age kids and younger.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1751",
+    "category": "IM Repro/Obgyn",
+    "q": "Non-transilluminating testicular mass without hard nodule per p181?",
+    "a": "Testicular cancer is still on the DDx, even though a hard nodule is the buzzy presentation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1752",
+    "category": "IM Repro/Obgyn",
+    "q": "Serous cystadenoma per p181?",
+    "a": "Fallopian tube-like epithelium; can be bilateral; benign; can have psammoma bodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1753",
+    "category": "IM Repro/Obgyn",
+    "q": "Serous cystadenocarcinoma per p181?",
+    "a": "20-30% bilateral at diagnosis; malignant (metastatic potential).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1754",
+    "category": "IM Repro/Obgyn",
+    "q": "Mucinous cystadenoma per p181?",
+    "a": "Intestine-like epithelium; loculated (honeycomb-like tiny cavities); benign.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1755",
+    "category": "IM Repro/Obgyn",
+    "q": "Mucinous cystadenocarcinoma per p181?",
+    "a": "Malignant version of mucinous cystadenoma. Can cause pseudomyxoma peritonei (mucin-producing tumor cells and gelatinous ascites in the peritoneal cavity).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1756",
+    "category": "IM Repro/Obgyn",
+    "q": "Dysgerminoma per p181?",
+    "a": "Seminoma equivalent in females: large uniform cells with clear cytoplasm, highly sensitive to chemo- and radiotherapy. Occurs idiopathically or in Turner syndrome. LDH is a tumor marker.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "A case report of gonadoblastoma with dysgerminoma is linked; I did not verify the Turner or LDH statements.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9797587/"
+    }
+  },
+  {
+    "id": "s2med-1757",
+    "category": "IM Repro/Obgyn",
+    "q": "Sertoli-Leydig cell tumor per p181?",
+    "a": "Produces androgens; can cause virilization in females.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    }
+  },
+  {
+    "id": "s2med-1758",
+    "category": "IM Repro/Obgyn",
+    "q": "Granulosa cell tumor per p181?",
+    "a": "Produces estrogen; can cause endometrial hyperplasia and higher endometrial cancer risk via unopposed estrogen. NBME: female with ovarian neoplasm, thick endometrial stripe and vaginal bleeding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 181,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls on granulosa-theca cell tumors is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK565872/"
+    }
+  },
+  {
+    "id": "s2med-1759",
+    "category": "IM Repro/Obgyn",
+    "q": "Yolk sac tumor per p182?",
+    "a": "Aka endodermal sinus tumor. USMLE answer for an ovarian tumor in pediatrics (usually up to age 3). Secretes AFP; Schiller-Duval bodies on histology resemble glomeruli.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2med-1760",
+    "category": "IM Repro/Obgyn",
+    "q": "Embryonal carcinoma per p182?",
+    "a": "Aggressive, rapidly growing; undifferentiated/anaplastic cells. Secretes both AFP and hCG. Usually adult men, can be ovarian. If AFP and hCG are both high, it's embryonal carcinoma; if only AFP, yolk sac tumor (kids versus adults).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2med-1761",
+    "category": "IM Repro/Obgyn",
+    "q": "Brenner tumor per p182?",
+    "a": "Benign ovarian tumor with urothelium (transitional cells). Can appear tan/yellow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "A case of coexisting Brenner tumor and struma ovarii is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3341679/"
+    }
+  },
+  {
+    "id": "s2med-1762",
+    "category": "IM Repro/Obgyn",
+    "q": "Struma ovarii per p182?",
+    "a": "Benign ovarian tumor that secretes thyroid hormone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2med-1763",
+    "category": "IM Repro/Obgyn",
+    "q": "Krukenberg tumor per p182?",
+    "a": "Gastric metastases to the ovaries bilaterally, with mucin-containing signet-ring cells on biopsy. The source says spread from stomach is usually hematogenous.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls on Krukenberg tumor is linked; I did not verify the route of spread, so this claim stays unendorsed.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482284/"
+    }
+  },
+  {
+    "id": "s2med-1764",
+    "category": "IM Repro/Obgyn",
+    "q": "Endometrial cancer: highest-yield cause per p182?",
+    "a": "Unopposed estrogen, usually due to anovulation/PCOS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "A PDQ summary on endometrial cancer prevention is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK66042/"
+    }
+  },
+  {
+    "id": "s2med-1765",
+    "category": "IM Repro/Obgyn",
+    "q": "Why anovulation/PCOS causes unopposed estrogen per p182?",
+    "a": "Estrogen stimulates endometrial growth; progesterone prevents overgrowth. Without ovulation there's no corpus luteum (the follicular remnant), so no progesterone; endometrial hyperplasia follows, raising adenocarcinoma risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2med-1766",
+    "category": "IM Repro/Obgyn",
+    "q": "Vignette: overweight perimenopausal woman with mid-cycle bleeding, or postmenopausal woman with any bleeding per p182?",
+    "a": "Endometrial biopsy. High BMI hints at past anovulation/PCOS with unopposed estrogen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "An ACOG opinion on transvaginal ultrasound in postmenopausal bleeding is linked; I did not verify whether it ranks ultrasound ahead of biopsy. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29683904/"
+    }
+  },
+  {
+    "id": "s2med-1767",
+    "category": "IM Repro/Obgyn",
+    "q": "Other causes of unopposed estrogen per p182?",
+    "a": "Granulosa cell tumor of the ovary (rare); HRT in women who stop the progesterone component (one NBME Q).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2med-1768",
+    "category": "IM Repro/Obgyn",
+    "q": "Endometrial cancer and hereditary syndrome per p182?",
+    "a": "Can be associated with HNPCC (Lynch syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    }
+  },
+  {
+    "id": "s2med-1769",
+    "category": "IM Repro/Obgyn",
+    "q": "Fibroids: what are they per p182?",
+    "a": "Aka leiomyomata uteri; the most common benign tumor in women. Smooth muscle tumors of the myometrium; desmin positive; grossly white whorled tumors; often found incidentally on ultrasound or autopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls on uterine leiomyomata is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546680/"
+    }
+  },
+  {
+    "id": "s2med-1770",
+    "category": "IM Repro/Obgyn",
+    "q": "Fibroids found incidentally on ultrasound per p182?",
+    "a": "Observe / follow-up. Source: almost always not managed. Negligible progression to leiomyosarcoma, so don't choose myomectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    },
+    "guideline": {
+      "text": "The ACOG practice bulletin on symptomatic leiomyomas is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34011888/"
+    }
+  },
+  {
+    "id": "s2med-1771",
+    "category": "IM Repro/Obgyn",
+    "q": "Bleeding due to fibroids per p182?",
+    "a": "OCPs and NSAIDs can be tried in theory, though the source hasn't seen USMLE assess them. Leuprolide and similar treatments don't appear on USMLE per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 182,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=182"
+    }
   }
 ];
