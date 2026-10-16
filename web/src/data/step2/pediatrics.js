@@ -18662,8 +18662,7 @@ export default [
       "text": "The 2024 AAD strongly recommends isotretinoin for severe acne, acne with psychosocial burden or scarring, or acne failing standard therapy; pregnancy prevention is mandatory for patients with pregnancy potential. The p91 sentence then continues onto p92, so its remaining sperm/topical-retinoid claim is intentionally left for the p92 conversion.",
       "url": "https://www.jaad.org/article/S0190-9622(23)03389-3/fulltext"
     }
-  }
-,
+  },
   {
     "id": "s2peds-1322",
     "category": "Acne",
@@ -18819,8 +18818,7 @@ export default [
     },
     "img": "/mehlman/figures/peds-p092-lyme.png",
     "imgAlt": "Actual source photograph of a target-like erythema migrans rash associated with Lyme disease"
-  }
-,
+  },
   {
     "id": "s2peds-1332",
     "category": "Pediatric infectious disease",
@@ -19006,8 +19004,7 @@ export default [
     },
     "img": "/mehlman/figures/peds-p093-measles-koplik.png",
     "imgAlt": "Actual source photograph of Koplik spots on the buccal mucosa in measles"
-  }
-,
+  },
   {
     "id": "s2peds-1344",
     "category": "Pediatric infectious disease",
@@ -19223,8 +19220,7 @@ export default [
     },
     "img": "/mehlman/figures/peds-p094-roseola.png",
     "imgAlt": "Actual source photograph of the diffuse maculopapular rash of roseola"
-  }
-,
+  },
   {
     "id": "s2peds-1358",
     "category": "Pediatric infectious disease",
@@ -19395,8 +19391,7 @@ export default [
       "text": "Merck says herpes zoster is more frequent and severe in patients immunocompromised by defects in cell-mediated immunity, and that severely immunocompromised patients, including children, may need IV acyclovir.",
       "url": "https://www.merckmanuals.com/professional/infectious-diseases/herpesviruses/herpes-zoster"
     }
-  }
-,
+  },
   {
     "id": "s2peds-1369",
     "category": "Pediatric infectious disease",
@@ -19567,8 +19562,7 @@ export default [
     },
     "img": "/mehlman/figures/peds-p096-molluscum-contagiosum.png",
     "imgAlt": "Actual source photograph labeled molluscum contagiosum showing several raised papules"
-  }
-,
+  },
   {
     "id": "s2peds-1380",
     "category": "Pediatric dermatology",
@@ -21738,9 +21732,7 @@ export default [
       "text": "Current ACMG guidance uses elevated maternal serum AFP for screening and amniotic-fluid AFP plus acetylcholinesterase, or targeted ultrasound, for diagnosis. Preserve CSF as the source answer, but it is not the specimen named in current prenatal testing guidance.",
       "url": "https://www.gimjournal.org/article/S1098-3600(21)01248-X/fulltext"
     }
-  }
-
-  ,
+  },
   {
     "id": "s2peds-1522",
     "category": "Pediatric neuromuscular",
@@ -22160,10 +22152,7 @@ export default [
       "text": "The 2025 GeneReview confirms autosomal-recessive Friedreich ataxia caused by biallelic FXN variants. About 96% have biallelic GAA repeat expansions in intron 1. The manifestations listed next in the source are on p107 and are intentionally not duplicated here.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK1281/"
     }
-  }
-
-
-  ,
+  },
   {
     "id": "s2peds-1550",
     "category": "Ataxias",
@@ -22493,10 +22482,7 @@ export default [
       "text": "Keep the source's confirmed-GBS framing: ceftriaxone plus vancomycin can be appropriate empiric coverage in older infants and children, but once GBS is confirmed, current CPS therapy is penicillin or ampicillin with early gentamicin rather than continuing unnecessary vancomycin.",
       "url": "https://cps.ca/en/documents/position/management-of-bacterial-meningitis"
     }
-  }
-
-
-  ,
+  },
   {
     "id": "s2peds-1572",
     "category": "Neonatal antibiotics",
@@ -23727,6 +23713,237 @@ export default [
     "guideline": {
       "text": "StatPearls confirms compulsions are repetitive actions or mental events performed to alleviate the distress caused by obsessions or to prevent a feared consequence.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK553162/"
+    }
+  },
+  {
+    "id": "s2peds-1654",
+    "category": "Obsessive-compulsive disorder (OCD)",
+    "q": "What makes the OCD diagnosis on p113, and does the patient need both obsessions and compulsions?",
+    "a": "Persistent obsessions and/or compulsions that cause significant distress or interfere with socio-occupational functioning. Either one alone is enough.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls: OCD is defined by obsessions, compulsions, or both, that are time-consuming or cause distress or impairment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK553162/"
+    }
+  },
+  {
+    "id": "s2peds-1655",
+    "category": "Obsessive-compulsive disorder (OCD)",
+    "q": "How does p113 separate OCD from obsessive-compulsive personality disorder (OCDP)?",
+    "a": "OCD is ego-dystonic (the patient dislikes it and feels distressed). OCDP is ego-syntonic (the patient is content and sees nothing wrong).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls confirms OCD is ego-dystonic and OCPD behaviors are usually ego-syntonic, often not seen as a problem by the patient.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK597372/"
+    }
+  },
+  {
+    "id": "s2peds-1656",
+    "category": "Obsessive-compulsive disorder (OCD)",
+    "q": "What treatment does p113 give for OCD, including the drug options?",
+    "a": "CBT. If drugs are used, an SSRI or clomipramine (a TCA).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls Clomipramine: FDA-approved for OCD in patients aged 10 and older. Current practice favors CBT with exposure and response prevention and SSRIs first; clomipramine is generally a later option because of side effects.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541006/"
+    }
+  },
+  {
+    "id": "s2peds-1657",
+    "category": "Obsessive-compulsive disorder (OCD)",
+    "q": "What 'mini-factoid' about OCD treatment does p113 say appears on a 2CK Psych form?",
+    "a": "That the TCA clomipramine can be used to treat OCD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2peds-1658",
+    "category": "Attention-deficit/hyperactivity disorder (ADHD)",
+    "q": "What symptoms define ADHD on p113, and where must they appear?",
+    "a": "Inattentiveness (distractibility, not listening when spoken to) and/or hyperactivity (fidgeting, unable to stay seated or play quietly), at home and at school. The pattern must be consistent across the venues and daily situations the child is in.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls: DSM-5 requires symptoms in two or more settings, starting before age 12, with 6 months of duration.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441838/"
+    }
+  },
+  {
+    "id": "s2peds-1659",
+    "category": "Attention-deficit/hyperactivity disorder (ADHD)",
+    "q": "What is first-line ADHD drug treatment on p113, with its example, and what is second-line?",
+    "a": "Stimulants such as methylphenidate (Ritalin) first-line. Non-stimulants such as atomoxetine can be tried second-line.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls: stimulants (methylphenidate and amphetamines) remain the mainstay; non-stimulants are an alternative. Current pediatric guidance for preschool-age children puts behavioral parent training first.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441838/"
+    }
+  },
+  {
+    "id": "s2peds-1660",
+    "category": "Attention-deficit/hyperactivity disorder (ADHD)",
+    "q": "What non-drug ADHD treatments does p113 list, and who can get CBT?",
+    "a": "Family therapy, behavioral skills training and parenting skills training. Teenagers or adults can undergo CBT.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2peds-1661",
+    "category": "Oppositional defiant vs conduct disorder",
+    "q": "What is the p113 picture of oppositional defiant disorder (ODD)?",
+    "a": "Argumentative and defiant behavior, often causing problems at school with teachers and grades. It can sound like normal teenage behavior, but the emphasis is an impediment to social or scholastic progress.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls: DSM-5-TR groups ODD symptoms into angry/irritable mood, argumentative/defiant behavior and vindictiveness, causing functional impairment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557443/"
+    }
+  },
+  {
+    "id": "s2peds-1662",
+    "category": "Oppositional defiant vs conduct disorder",
+    "q": "What key point separates ODD from conduct disorder on p113?",
+    "a": "ODD has no law-breaking. If the vignette mentions crimes, the USMLE wants conduct disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls: conduct disorder involves violating others' rights or major age-appropriate norms; ODD is often a precursor to it.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470238/"
+    }
+  },
+  {
+    "id": "s2peds-1663",
+    "category": "Oppositional defiant vs conduct disorder",
+    "q": "How does p113 define the conduct disorder pattern and age of onset?",
+    "a": "A greater-than-6-month pattern of law-breaking starting at age 17 or younger.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "DSM-5 criteria require 3 or more behaviors in the past 12 months with at least one in the past 6 months (the source's 6-month figure is a simplification), with onset before 18 as the childhood-onset framing.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470238/"
+    }
+  },
+  {
+    "id": "s2peds-1664",
+    "category": "Oppositional defiant vs conduct disorder",
+    "q": "What example vignettes does p113 give for conduct disorder?",
+    "a": "A teenager who kills a cat, destroys property or steals.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2peds-1665",
+    "category": "Oppositional defiant vs conduct disorder",
+    "q": "How does p113 say the USMLE tests conduct disorder, with its 14-year-old example?",
+    "a": "As a snapshot rather than an ongoing pattern. A 14-year-old who killed a cat: most likely diagnosis is conduct disorder because it was a crime. ODD is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2peds-1666",
+    "category": "Autism spectrum disorder (ASD)",
+    "q": "How does p113 define autism spectrum disorder?",
+    "a": "A neurodevelopmental condition with repetitive patterns of behavior, interests or activities and persistent challenges in social communication and interaction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls: persistent social communication/interaction deficits plus restricted, repetitive behaviors, interests or activities.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK525976/"
+    }
+  },
+  {
+    "id": "s2peds-1667",
+    "category": "Autism spectrum disorder (ASD)",
+    "q": "When does ASD usually start, and which sex is more affected, per p113?",
+    "a": "Usually before age 3; more common in boys.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "StatPearls: symptoms appear in early childhood; the disorder is more commonly diagnosed in males.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK525976/"
+    }
+  },
+  {
+    "id": "s2peds-1668",
+    "category": "Autism spectrum disorder (ASD)",
+    "q": "What social and attention features does p113 give for ASD?",
+    "a": "Difficulty understanding social cues, atypical speech patterns or body language, and/or intense focus on specific activities.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2peds-1669",
+    "category": "Autism spectrum disorder (ASD)",
+    "q": "What interest pattern and repetitive motions does p113 call characteristic of ASD?",
+    "a": "Interest in linear patterns (trains, train tracks, toys lined up in straight lines), and repetitive motions (stimming) such as rocking back and forth.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2peds-1670",
+    "category": "Autism spectrum disorder (ASD)",
+    "q": "What does p113 say about IQ in ASD and about Asperger disorder?",
+    "a": "ASD patients might have reduced IQ at the expense of enhanced abilities elsewhere (for example painting). Asperger disorder is the variant with normal or increased IQ.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 113,
+      "url": "/mehlman/hy-pediatrics.pdf#page=113"
+    },
+    "guideline": {
+      "text": "DSM-5 folded Asperger disorder into the single diagnosis of ASD; the separate label is historical.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK525976/"
     }
   }
 ];
