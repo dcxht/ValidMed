@@ -28473,5 +28473,259 @@ export default [
       "text": "StatPearls: symptoms worsen with squatting, running, prolonged sitting or stair climbing.",
       "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK557657/"
     }
+  },
+  {
+    "id": "s2peds-1999",
+    "category": "Patellofemoral pain syndrome",
+    "q": "What treatment does p133 give at the top of the page (continuing p132 patellofemoral pain syndrome)?",
+    "a": "Quadriceps strengthening exercises.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2peds-2000",
+    "category": "Knee ligament injuries",
+    "q": "Which injury is the answer for a positive anterior drawer or Lachman test per p133?",
+    "a": "ACL injury, with excessive anterior displacement of the tibia relative to the femur.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: the anterior drawer, pivot shift and Lachman tests assess the ACL; Lachman is the most sensitive (95% sensitivity, 94% specificity).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK499848/"
+    }
+  },
+  {
+    "id": "s2peds-2001",
+    "category": "Knee ligament injuries",
+    "q": "How is the ACL classically injured per p133?",
+    "a": "Knee hyperextension, or a rotational force on a fixed, planted knee.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: most ACL tears are non-contact pivoting injuries with the tibia translating anteriorly, knee slightly flexed and in valgus.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK499848/"
+    }
+  },
+  {
+    "id": "s2peds-2002",
+    "category": "Knee ligament injuries",
+    "q": "Which injury is the answer for a positive posterior drawer test per p133?",
+    "a": "PCL injury, with excessive posterior displacement of the tibia relative to the femur.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: the posterior drawer is the most accurate test for PCL integrity.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430726/"
+    }
+  },
+  {
+    "id": "s2peds-2003",
+    "category": "Knee ligament injuries",
+    "q": "How is the PCL classically injured per p133?",
+    "a": "The knee hits the dashboard in a car accident.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: dashboard injuries are the most common mechanism (35% in one series).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430726/"
+    }
+  },
+  {
+    "id": "s2peds-2004",
+    "category": "Knee ligament injuries",
+    "q": "Which ligament is injured if the varus test induces excessive lateral knee motion per p133, and how is it done?",
+    "a": "LCL. Hand on the medial knee pushing outward plus the other hand on the lateral ankle pushing inward.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: the LCL resists varus stress.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560847/"
+    }
+  },
+  {
+    "id": "s2peds-2005",
+    "category": "Knee ligament injuries",
+    "q": "Which ligament is injured if the valgus test induces excessive medial knee motion per p133, and how is it done?",
+    "a": "MCL. Hand on the lateral knee pushing inward plus the other hand on the medial ankle pulling outward.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: the MCL provides valgus stability.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431095/"
+    }
+  },
+  {
+    "id": "s2peds-2006",
+    "category": "Meniscal tears",
+    "q": "How does a lateral meniscal tear present and how is it diagnosed per p133?",
+    "a": "Lateral knee pain with locking or catching in partial flexion. McMurray test: internal rotation of the leg with knee extension causes lateral pain or catching.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "Systematic review of McMurray test: full internal rotation tests the lateral meniscus.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2704345/"
+    }
+  },
+  {
+    "id": "s2peds-2007",
+    "category": "Meniscal tears",
+    "q": "How does a medial meniscal tear present and how is it diagnosed per p133?",
+    "a": "Medial knee pain with locking or catching in partial flexion. McMurray test: external rotation of the leg with knee extension causes medial pain or catching.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "Systematic review of McMurray test: full external rotation tests the medial meniscus.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2704345/"
+    }
+  },
+  {
+    "id": "s2peds-2008",
+    "category": "Knee ligament injuries",
+    "q": "What is the unhappy triad per p133, and how much does USMLE care?",
+    "a": "Injury of the ACL, MCL and either the medial or lateral meniscus. p133 says it has never been assessed on the NBME and lives in the Qbank domain.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2peds-2009",
+    "category": "Iliotibial band syndrome",
+    "q": "Which story gives iliotibial band syndrome per p133, and how is it treated?",
+    "a": "Lateral knee pain, usually in a runner. Treatment is conservative with physiotherapy, NSAIDs for pain.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: a common cause of lateral knee pain in athletes, often treated nonoperatively.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542185/"
+    }
+  },
+  {
+    "id": "s2peds-2010",
+    "category": "Iliotibial band syndrome",
+    "q": "Where does iliotibial band pain occur per p133?",
+    "a": "Anywhere along the hip, lateral thigh and lateral knee, but worst at the lateral knee.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2peds-2011",
+    "category": "Osgood-Schlatter disease",
+    "q": "What is the classic Osgood-Schlatter vignette per p133?",
+    "a": "Knee pain in a fast-growing teenage male who plays soccer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: anterior knee pain with tenderness at the patellar tendon insertion on the tibial tuberosity, from repetitive extensor mechanism stress such as jumping and sprinting.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441995/"
+    }
+  },
+  {
+    "id": "s2peds-2012",
+    "category": "Osgood-Schlatter disease",
+    "q": "What is inflamed and what is the mechanism in Osgood-Schlatter per p133?",
+    "a": "The patellar ligament at the tibial tuberosity, from repeated stress on the growth plate of the superior tibia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: self-limited condition; also called tibial tuberosity apophysitis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441995/"
+    }
+  },
+  {
+    "id": "s2peds-2013",
+    "category": "Plantar fasciitis",
+    "q": "Which story gives plantar fasciitis per p133?",
+    "a": "Severe heel pain worst when first getting out of bed in the morning.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: heel pain with the first steps after getting up in the morning.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499868/"
+    }
+  },
+  {
+    "id": "s2peds-2014",
+    "category": "Growing pains",
+    "q": "Which vignette gives growing pains per p133, and what is the treatment?",
+    "a": "A healthy child aged 3-12 who awakens from sleep with throbbing leg pain. No treatment is necessary.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "Review: growing pains are typically bilateral lower-extremity pain late in the day or at night. I did not verify the 3-12 age range or the throbbing description.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5349398/"
+    }
+  },
+  {
+    "id": "s2peds-2015",
+    "category": "Tibia vara",
+    "q": "What is tibia vara (Blount disease) per p133?",
+    "a": "Bowing of the tibias after age 2 years in a patient in whom rickets has been ruled out. It can be unilateral or bilateral.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    },
+    "guideline": {
+      "text": "StatPearls: Blount disease can be unilateral or bilateral, in infantile (usually bilateral, about 80%) and adolescent (often unilateral) forms.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560923/"
+    }
+  },
+  {
+    "id": "s2peds-2016",
+    "category": "Tibia vara",
+    "q": "Is tibial bowing before age 2 abnormal per p133, and how is tibia vara treated?",
+    "a": "Bowing of one or both tibias is sometimes normal until age 2. Treatment is surgery (osteotomy).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 133,
+      "url": "/mehlman/hy-pediatrics.pdf#page=133"
+    }
   }
 ];

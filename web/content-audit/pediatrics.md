@@ -632,3 +632,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls Transient Synovitis, Reactive Arthritis, Nursemaid Elbow, Lateral Epicondylitis, Patellofemoral Pain Syndrome, Gonococcal arthritis. Differences kept as notes: rubella/hepatitis B+C not in StatPearls reactive arthritis triggers; chondromalacia is not a strict synonym for PFPS.
 - Left un-noted (not verified): Salmonella-in-sickle-cell exam rule, surgical drainage, toxic vs septic discriminators (weight bearing/leukocytosis not checked against Kocher), ibuprofen, gonococcus not causing reactive arthritis, golfer elbow muscles, strap treatments, reduction technique, jumper's knee treatment, patellofemoral instability vignette, obesity/squatting claim.
 - Mobile QA (320x740, live, local headless Chrome): all 20 cards ox=false off=false bad=0.
+
+## p133 (knee injuries, ITB syndrome, Osgood-Schlatter, plantar fasciitis, growing pains, tibia vara) - 18 cards, ids s2peds-1999 to 2016
+- Inspected page pixels. No figures. First row continues p132 patellofemoral pain treatment.
+- Notes verified against StatPearls ACL, PCL, LCL, MCL, ITB, Osgood-Schlatter, Plantar Heel Pain, Blount; McMurray systematic review; growing pains review. No source conflicts found.
+- Left un-noted (not verified): test technique descriptions (varus/valgus hand placement), unhappy triad content and NBME claim, ITB pain distribution and treatment details beyond conservative, growing pains age 3-12 and no treatment, Blount after age 2 and osteotomy, physiologic bowing until 2.
+- Mobile QA: PENDING
