@@ -1326,3 +1326,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 
 ## p384 (IM mixed bullets: sarcoid, asthma, vasculitis) - 10 cards, ids s2med-3911 to 3920
 - Mobile QA (320x740, local vite preview build, not live): all 42 cards ox=false off=false bad=0.
+
+## p385 (IM mixed bullets: biliary, immunodeficiency start) - 9 cards, ids s2med-3921 to 3929
+
+## p386 (IM mixed bullets: immunodef, dermatology/fungal) - 12 cards, ids s2med-3930 to 3941
+
+## p387 (IM mixed bullets: skin infections, arrhythmias, vaccines) - 12 cards, ids s2med-3942 to 3953
+- Vaccine schedule items (PCV13, HPV 9-45, MMR/varicella timing, influenza): source values, possibly outdated, flagged unverified in notes.
+- Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.

@@ -52050,5 +52050,368 @@ export default [
       "page": 384,
       "url": "/mehlman/hy-internal-medicine.pdf#page=384"
     }
+  },
+  {
+    "id": "s2med-3921",
+    "category": "IM Mixed",
+    "q": "High ALP + high direct bilirubin + high amylase or lipase per p385 (continued from p384)?",
+    "a": "Gallstone pancreatitis = choledocholithiasis. With a remote history of cholecystectomy: sphincter of Oddi dysfunction (can't be a stone since the gallbladder was removed ages ago).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3922",
+    "category": "IM Mixed",
+    "q": "High ALP + high direct bilirubin + normal amylase/lipase, recent cholecystectomy per p385?",
+    "a": "Choledocholithiasis (retained stone in the cystic duct that descended, but not distal to the pancreatic duct entry). Diagnosis and treatment: ERCP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3923",
+    "category": "IM Mixed",
+    "q": "Same labs, remote cholecystectomy per p385?",
+    "a": "Pancreatic cancer; diagnose with CT abdomen with contrast. If CT is negative: cholangiocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3924",
+    "category": "IM Mixed",
+    "q": "Same labs + diffuse pruritus + high cholesterol per p385?",
+    "a": "Primary biliary cirrhosis (PBC); also if autoimmune disease in the patient or family. Diagnosis: anti-mitochondrial antibodies next; liver biopsy is confirmatory.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3925",
+    "category": "IM Mixed",
+    "q": "Recent cholecystectomy + fever + abdominal pain per p385?",
+    "a": "Post-op bile leak.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3926",
+    "category": "IM Mixed",
+    "q": "Same labs + CT shows a cystic lesion in the bile duct per p385?",
+    "a": "Choledochal cyst: simple excision of the cyst (cholangiocarcinoma isn't cystic and CT can be negative).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3927",
+    "category": "IM Mixed",
+    "q": "Imaging choices per p385?",
+    "a": "Liver or pancreas: CT with contrast. Gallbladder: ultrasound (HIDA scan only if ultrasound is negative in suspected cholecystitis). Bile ducts: ERCP or MRCP (choose ERCP over MRCP if both are listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3928",
+    "category": "IM Mixed",
+    "q": "Teenage girl with cutaneous candida infections since childhood per p385?",
+    "a": "Chronic mucocutaneous candidiasis; the answer is T cell dysfunction (impaired cell-mediated immunity).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3929",
+    "category": "IM Mixed",
+    "q": "Immunodeficiency by infection onset per p385 (continued on p386)?",
+    "a": "Bacterial + fungal + protozoal + viral infections since birth: SCID. Bacterial infections since age 6 months: Bruton.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 385,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=385"
+    }
+  },
+  {
+    "id": "s2med-3930",
+    "category": "IM Mixed",
+    "q": "Bacterial infections only since birth per p386 (continued from p385)?",
+    "a": "Bruton (rare, but on a new 2CK NBME). Mechanism: tyrosine kinase mutation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3931",
+    "category": "IM Mixed",
+    "q": "SCID variants per p386?",
+    "a": "X-linked: common gamma-chain mutation (IL-2 receptor deficiency). Autosomal recessive: adenosine deaminase deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3932",
+    "category": "IM Mixed",
+    "q": "Hyper IgM syndrome per p386?",
+    "a": "Deficiency of CD40 ligand on T cells (can't activate CD40 on B cells to induce isotype class switching).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3933",
+    "category": "IM Mixed",
+    "q": "Greasy, scaly, itchy scalp with papules in an adult per p386?",
+    "a": "Seborrheic dermatitis. Treatment: azole or selenium shampoo.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3934",
+    "category": "IM Mixed",
+    "q": "Tinea capitis per p386?",
+    "a": "Oral griseofulvin for the patient only. Reduce risk by avoiding sharing hats.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3935",
+    "category": "IM Mixed",
+    "q": "Nail and skin dermatophytes per p386?",
+    "a": "Onychomycosis: oral terbinafine. Tinea pedis: topical terbinafine or topical azole. Tinea corporis: topical azole (clotrimazole or miconazole).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3936",
+    "category": "IM Mixed",
+    "q": "Candida treatment by site per p386?",
+    "a": "Cutaneous: oral azole. Oropharyngeal: nystatin mouthwash. Esophageal: oral azole, not nystatin mouthwash. Vaginal: topical nystatin before trying an oral azole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3937",
+    "category": "IM Mixed",
+    "q": "Odynophagia in an immunocompromised patient per p386?",
+    "a": "Esophageal candidiasis till proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3938",
+    "category": "IM Mixed",
+    "q": "Systemic fungal treatments per p386?",
+    "a": "CNS fungal infection or fungemia (rigors/chills): amphotericin B. Cryptococcal meningitis: amphotericin B + flucytosine, then fluconazole taper. Simple fungal pneumonia: fluconazole. Sporothrix schenckii (rose thorn + finger papule): itraconazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3939",
+    "category": "IM Mixed",
+    "q": "Hypopigmentation on the upper back / trunk per p386?",
+    "a": "Tinea versicolor (Malassezia furfur). Treatment: topical selenium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3940",
+    "category": "IM Mixed",
+    "q": "Impetigo per p386?",
+    "a": "Most common cause: S. aureus now exceeds S. pyogenes. Treatment: topical mupirocin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3941",
+    "category": "IM Mixed",
+    "q": "Beefy red, well-demarcated skin plaque per p386 (continued on p387)?",
+    "a": "Erysipelas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 386,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=386"
+    }
+  },
+  {
+    "id": "s2med-3942",
+    "category": "IM Mixed",
+    "q": "Erysipelas vs cellulitis per p387 (continued from p386)?",
+    "a": "Erysipelas: most common cause Group A Strep (S. pyogenes) much more than S. aureus. Cellulitis: more diffuse pink skin lesion + tenderness + fever; most common cause S. aureus exceeds S. pyogenes. Treatment of both: oral dicloxacillin or oral cephalexin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3943",
+    "category": "IM Mixed",
+    "q": "Wide- vs narrow-complex tachycardia per p387?",
+    "a": "Wide-complex: ventricular tachycardia (VT). Narrow-complex: SVT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3944",
+    "category": "IM Mixed",
+    "q": "Treatment of SVT and VT per p387?",
+    "a": "SVT: vagal/carotid massage first; if it doesn't work, adenosine. VT: anti-arrhythmics, e.g., amiodarone. SVT or VT with coma/unconsciousness: direct-current countershock.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3945",
+    "category": "IM Mixed",
+    "q": "Heart block treatment per p387?",
+    "a": "First-degree or Mobitz I (Wenckebach): observe. Mobitz II or third-degree: pacemaker.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3946",
+    "category": "IM Mixed",
+    "q": "Heart block ECG findings per p387?",
+    "a": "First-degree: PR interval >200 ms. Mobitz I: PR gradually prolongs before a QRS drops. Mobitz II: no gradual prolongation; QRS randomly drops. Third-degree: HR very slow at 30-40, no relation between P waves and QRS complexes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3947",
+    "category": "IM Mixed",
+    "q": "Infective causes of third-degree heart block per p387?",
+    "a": "Lyme disease, congenital lupus, diphtheria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3948",
+    "category": "IM Mixed",
+    "q": "Influenza vaccines per p387?",
+    "a": "Killed IM: every year in fall/winter, from 6 months of age; safe in pregnancy at any time. Live-attenuated intranasal: only age 2-49 in non-pregnant, non-immunocompromised people.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3949",
+    "category": "IM Mixed",
+    "q": "Vaccines at 2, 4, 6 months per p387?",
+    "a": "HepB (also at birth), polio (Salk), pneumococcal PCV13, DPT, HiB, rotavirus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3950",
+    "category": "IM Mixed",
+    "q": "HPV vaccine age per p387?",
+    "a": "Age 9-45 per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3951",
+    "category": "IM Mixed",
+    "q": "Mom's HepB status unknown per p387?",
+    "a": "Give the neonate the HepB vaccine; give immunoglobulin only if mom comes back positive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3952",
+    "category": "IM Mixed",
+    "q": "MMR and varicella timing per p387?",
+    "a": "MMR: first dose at 12-15 months, second at 4-6 years. Varicella: one dose between 12-18 months (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
+  },
+  {
+    "id": "s2med-3953",
+    "category": "IM Mixed",
+    "q": "Pneumococcal vaccines per p387?",
+    "a": "Age 65 or older: PCV13 followed by PPSV23 6-12 months later. Asplenia or sickle cell: PCV13 + PPSV23 + HiB + meningococcal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 387,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=387"
+    }
   }
 ];
