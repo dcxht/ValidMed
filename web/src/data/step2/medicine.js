@@ -6230,5 +6230,241 @@ export default [
       "page": 49,
       "url": "/mehlman/hy-internal-medicine.pdf#page=49"
     }
+  },
+  {
+    "id": "s2med-0479",
+    "category": "IM Pulmonary",
+    "q": "COPD exacerbation as a diagnosis on USMLE per p49-50?",
+    "a": "The vignette will always give a patient with high CO2. If you get a big paragraph and are not sure of the Dx and CO2 is not elevated, the answer is not COPD exacerbation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2med-0480",
+    "category": "IM Pulmonary",
+    "q": "Antibiotics in COPD exacerbation on 2CK per p50?",
+    "a": "Exacerbations can be triggered by minor chest infections, so always give antibiotics on 2CK, even though the etiology is usually viral.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    },
+    "guideline": {
+      "text": "GOLD 2024 gives antibiotic criteria (e.g., increased sputum purulence with other cardinal symptoms, or need for ventilation); 'always' is the source's exam rule. I did not verify the text.",
+      "url": "https://goldcopd.org/wp-content/uploads/2024/02/POCKET-GUIDE-GOLD-2024-ver-1.2-11Jan2024_WMV.pdf"
+    }
+  },
+  {
+    "id": "s2med-0481",
+    "category": "IM Pulmonary",
+    "q": "Acid-base status in chronic COPD per p50?",
+    "a": "Chronic CO2 retainers: chronic respiratory acidosis (increased CO2 and bicarb; pH can be low or compensated back into normal range).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2med-0482",
+    "category": "IM Pulmonary",
+    "q": "Lung cancer screening criteria on 2CK per p50?",
+    "a": "Annual low-dose chest CT if all of: age 50-80, 20-pack-year smoking history, and smoked within the past 15 years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    },
+    "guideline": {
+      "text": "USPSTF 2021 recommendation page is the reference; I did not verify its text. Other bodies (e.g., ACS) have since dropped the years-since-quitting limit.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening"
+    }
+  },
+  {
+    "id": "s2med-0483",
+    "category": "IM Pulmonary",
+    "q": "Chronic bronchitis definition and Reid index per p50?",
+    "a": "Productive cough for at least 3 months in a year for 2+ years. Reid index >0.5 (ratio of bronchial mucous gland thickness to bronchial wall); <0.4 is normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    },
+    "guideline": {
+      "text": "StatPearls on chronic bronchitis; I did not verify the Reid index cutoffs.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482437/"
+    }
+  },
+  {
+    "id": "s2med-0484",
+    "category": "IM Pulmonary",
+    "q": "Why chronic bronchitis is called 'blue bloater' per p50?",
+    "a": "The source says mucus sits in the alveolar spaces and impairs gas exchange, causing marked hypoxic vasoconstriction, so the patient can become acutely blue and hypoxic during exacerbations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2med-0485",
+    "category": "IM Pulmonary",
+    "q": "Chronic bronchitis to cor pulmonale per p50?",
+    "a": "Hypoxic vasoconstriction causes pulmonary hypertension, raising right ventricular afterload: RV hypertrophy and right heart decompensation. Right heart failure (JVD, peripheral edema) from a pulmonary cause = cor pulmonale. Pulmonary hypertension can cause a loud P2 and tricuspid regurgitation before cor pulmonale occurs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2med-0486",
+    "category": "IM Pulmonary",
+    "q": "Chronic vs acute bronchitis per p50?",
+    "a": "Do not confuse: acute bronchitis is a worsening cough, with or without COPD, after a viral infection; temporary airway irritation/inflammation that self-resolves.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2med-0487",
+    "category": "IM Pulmonary",
+    "q": "Emphysema and 'pink puffer' per p50?",
+    "a": "Emphysema = loss/destruction of alveolar surface area, which also reduces alveolar capillary surface area and gas exchange. 'Pink puffer': gas exchange is impaired, but sudden acute increases in hypoxic vasoconstriction as in chronic bronchitis are not a feature. 'Bullous changes' on CXR are synonymous with emphysema on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2med-0488",
+    "category": "IM Pulmonary",
+    "q": "Emphysema patterns per p50?",
+    "a": "Smokers: centri-acinar (proximal alveolar structure destroyed). Alpha-1-antitrypsin deficiency: pan-acinar (entire alveolus destroyed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2med-0489",
+    "category": "IM Pulmonary",
+    "q": "Alpha-1-antitrypsin deficiency per p50?",
+    "a": "Codominant genetic condition causing emphysema and hepatic cirrhosis; ZZ allele combination is worst. A1AT is made in the liver, travels to the lungs and breaks down neutrophil elastase; excess elastase destroys alveoli. Vignette: a young adult with a sibling or parent with early-onset emphysema or cirrhosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 50,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=50"
+    },
+    "guideline": {
+      "text": "A review of A1AT deficiency and chronic respiratory disorders is available; I did not verify details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9488707/"
+    }
+  },
+  {
+    "id": "s2med-0490",
+    "category": "IM Pulmonary",
+    "q": "Smoking or alcohol history in suspected A1AT deficiency per p51?",
+    "a": "The vignette can say the patient smokes or drinks (e.g., 34 years old, 5 years of smoking, bullous changes on CXR, father died of alcoholic cirrhosis). Do not exclude A1AT deficiency: it increases the risk of early-onset emphysema and cirrhosis, whereas COPD normally takes 20+ years of smoking.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0491",
+    "category": "IM Pulmonary",
+    "q": "Asthma definition per p51?",
+    "a": "Bronchospasm that occurs idiopathically/hereditarily, or in response to allergens or cold air.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0492",
+    "category": "IM Pulmonary",
+    "q": "Cough-variant asthma per p51?",
+    "a": "One-third of patients with asthma only have a dry cough and no breathing problems. Often a dry cough that is worse in the winter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0493",
+    "category": "IM Pulmonary",
+    "q": "Asthma and atopy per p51?",
+    "a": "Can present as part of the atopy constellation: dry cough in winter, seasonal allergies/rhinoconjunctivitis/urticaria in spring, eczema in summer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0494",
+    "category": "IM Pulmonary",
+    "q": "Mechanism of aspirin-induced asthma per p51?",
+    "a": "Aspirin inhibits COX, shunting arachidonic acid down the lipoxygenase pathway, so leukotrienes rise and bronchoconstriction increases. Samter triad = aspirin allergy, asthma, nasal polyps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0495",
+    "category": "IM Pulmonary",
+    "q": "'Increased expiratory phase' per p51?",
+    "a": "Buzzy phrase in asthma vignettes; not specific, it can refer to any obstructive pathology. In obstructive conditions exhalation takes much longer (FEV1 markedly decreased).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0496",
+    "category": "IM Pulmonary",
+    "q": "Acid-base in an acute asthma attack per p51?",
+    "a": "Decreased CO2, increased pH, normal bicarb = acute respiratory alkalosis. CO2 diffuses quickly while O2 diffuses slowly, so a faster respiratory rate lowers CO2; bicarb is unchanged because kidneys take about a day. In COPD, CO2 rises because of hypoxic vasoconstriction from mucus (chronic bronchitis) or lost alveolar surface area (emphysema).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0497",
+    "category": "IM Pulmonary",
+    "q": "Type I to type II respiratory failure in asthma per p51?",
+    "a": "Low CO2 and low O2 in an acute attack is called type I respiratory failure. When the patient fatigues and breathing slows, CO2 and pH rebound to normal while O2 stays low: transition to type II (hypoventilation; high CO2, low O2). USMLE wants intubation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2med-0498",
+    "category": "IM Pulmonary",
+    "q": "Best initial diagnostic step in asthma per p51?",
+    "a": "Spirometry; the expiratory component of the flow-volume curve appears concave. Methacholine challenge (a muscarinic agonist) can also diagnose, but never give it during an acute episode; if forced to choose, pick spirometry.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 51,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=51"
+    }
   }
 ];

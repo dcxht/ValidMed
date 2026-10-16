@@ -218,3 +218,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (hyperinflated CXR). Page ends mid-sentence on COPD exacerbation; carried to p50.
 - Unverified: oxygen thresholds, GOLD details, PMI phrasing.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p50 (IM Pulmonary: COPD, emphysema, A1AT) - 11 cards, ids s2med-0479 to 0489
+- Inspected page text (no figures). Page starts mid-sentence from p49 (COPD exacerbation card at p49-50).
+- Unverified: antibiotic rule, Reid cutoffs, "blue bloater" mucus-in-alveoli explanation, A1AT details. Screening criteria are USPSTF 2021; other bodies differ.
+
+## p51 (IM Pulmonary: A1AT tail, asthma) - 9 cards, ids s2med-0490 to 0498
+- Inspected page text (no figures). Page ends mid-list (outpatient management) and continues on p52.
+- Unverified: all asthma mechanism and respiratory-failure terminology (source's own framing).
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
