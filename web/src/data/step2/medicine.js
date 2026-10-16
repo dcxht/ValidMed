@@ -17290,5 +17290,252 @@ export default [
       "text": "The CDC Vibrio page is linked; I did not verify the text.",
       "url": "https://www.cdc.gov/vibrio/about/index.html"
     }
+  },
+  {
+    "id": "s2med-1297",
+    "category": "IM Gastro",
+    "q": "Vibrio vulnificus per p143?",
+    "a": "Severe sepsis in half of patients (source figure). Offline NBME 19: man ran on a beach and got sepsis with no food mentioned; apparently acquired from shellfish.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls on Vibrio vulnificus is linked; I did not verify the text or the 'half' figure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554404/"
+    }
+  },
+  {
+    "id": "s2med-1298",
+    "category": "IM Gastro",
+    "q": "Yersinia enterocolitica per p143?",
+    "a": "Bloody diarrhea plus appendicitis-like RLQ pain (mesenteric adenitis or terminal ileitis) or arthritis. Toxin has the same MOA as ETEC heat-stable toxin (increased cGMP).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls on Yersinia enterocolitica is linked; I did not verify the toxin mechanism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499837/"
+    }
+  },
+  {
+    "id": "s2med-1299",
+    "category": "IM Gastro",
+    "q": "Campylobacter jejuni per p143?",
+    "a": "Bloody diarrhea 1-3 days after poultry. Can cause Guillain-Barre syndrome (ascending paralysis, decreased tendon reflexes, albuminocytologic dissociation in CSF; treat with IVIG + plasmapheresis). Grows best at high temperature (42 C).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "The CDC page on Campylobacter and Guillain-Barre is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/campylobacter/signs-symptoms/guillain-barre-syndrome.html"
+    }
+  },
+  {
+    "id": "s2med-1300",
+    "category": "IM Gastro",
+    "q": "Bacillus cereus per p143?",
+    "a": "Watery diarrhea and/or vomiting after reheated or fried rice (heating germinates spores). Can also cause eye infections: after eye surgery with a gram-positive rod infection, it is the only gram-positive rod listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "A review of 'fried rice syndrome' is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37866551/"
+    }
+  },
+  {
+    "id": "s2med-1301",
+    "category": "IM Gastro",
+    "q": "Clostridium perfringens per p143?",
+    "a": "Watery/secretory diarrhea after poultry. Causes gas gangrene (CO2 gas) via alpha-toxin/phospholipase: black skin and crepitus. Can cause emphysematous cholecystitis (air in gallbladder wall).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2med-1302",
+    "category": "IM Gastro",
+    "q": "C. difficile presentation per p143?",
+    "a": "Diarrhea (pseudomembranous colitis) about 7-10 days after starting oral antibiotics (any antibiotic). Antibiotics kill normal flora; C. difficile is not normal flora, acquired by consuming spores. Watery or bloody diarrhea; LLQ cramping (not RLQ as with Yersinia). NBME: 28-year-old with LLQ cramping and bloody diarrhea 7 days after oral antibiotics: C. diff, not Yersinia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "The IDSA/SHEA 2021 focused update is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34164674/"
+    }
+  },
+  {
+    "id": "s2med-1303",
+    "category": "IM Gastro",
+    "q": "C. difficile diagnosis and treatment per p143?",
+    "a": "Diagnose with stool toxin test A/B; stool culture is wrong. Treat with oral vancomycin (poor oral bioavailability is an advantage here: it stays in the gut). Source never saw fidaxomicin, rifaximin on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "Conflict: the IDSA/SHEA 2021 update is linked; I did not verify details, but it lists fidaxomicin as preferred over vancomycin for an initial episode. Source answer stays for the exam.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34164674/"
+    }
+  },
+  {
+    "id": "s2med-1304",
+    "category": "IM Gastro",
+    "q": "Staph aureus food poisoning per p143?",
+    "a": "Pre-formed heat-stable toxin from meats left under a heat lamp or out for long (buffet) or dairy products like creams, custards, potato salad. Vomiting 1-6 hours after eating (quick onset); diarrhea not mandatory.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "The CDC staph food poisoning page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/staph-food-poisoning/about/"
+    }
+  },
+  {
+    "id": "s2med-1305",
+    "category": "IM Gastro",
+    "q": "Whipple disease per p143?",
+    "a": "Tropheryma whipplei: malabsorption plus arthritis and renal and cardiac disease. Source: 100% of questions say 'PAS-positive macrophages in the lamina propria.' NBME 10: ceftriaxone + daily TMP/SMX for one year. Flattens villi like celiac but considered bacterial.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls on Whipple disease is linked; I did not verify the regimen.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441937/"
+    }
+  },
+  {
+    "id": "s2med-1306",
+    "category": "IM Gastro",
+    "q": "Tropical sprue per p143?",
+    "a": "Answer for a patient living in a tropical area with unknown malabsorptive disease, by elimination. Treatment: tetracycline.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 143,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=143"
+    },
+    "guideline": {
+      "text": "A review of tropical malabsorption is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2653921/"
+    }
+  },
+  {
+    "id": "s2med-1307",
+    "category": "IM Gastro",
+    "q": "Rotavirus per p144?",
+    "a": "Most common cause of watery diarrhea in unvaccinated children under 5. Vaccine normally given orally at 2, 4 and 6 months.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=144"
+    },
+    "guideline": {
+      "text": "The ACIP rotavirus recommendations are linked; I did not verify the schedule (it depends on the product).",
+      "url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/rotavirus.html"
+    }
+  },
+  {
+    "id": "s2med-1308",
+    "category": "IM Gastro",
+    "q": "Norwalk virus per p144?",
+    "a": "Most common cause of watery diarrhea in adults and rotavirus-vaccinated children. Cruise ships and conferences (crowded places), fecal-oral. If a young child and family all have watery diarrhea: Norwalk, not rota.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=144"
+    },
+    "guideline": {
+      "text": "A CDC page on cruise ship outbreaks is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/"
+    }
+  },
+  {
+    "id": "s2med-1309",
+    "category": "IM Gastro",
+    "q": "HSV and CMV esophagitis per p144?",
+    "a": "HSV1/2: odynophagia and punched-out esophageal ulcers. CMV: odynophagia and linear (confluent) ulcers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=144"
+    },
+    "guideline": {
+      "text": "A paper comparing endoscopic findings of CMV and HSV esophagitis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6571398/"
+    }
+  },
+  {
+    "id": "s2med-1310",
+    "category": "IM Gastro",
+    "q": "CMV syndromes per p144?",
+    "a": "CMV colitis: bleeding per rectum in AIDS with CD4 <50. CMV retinitis: blurry vision in HIV or immunosuppressed patients. Most common organism transmitted by blood transfusion and organ transplant.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls on CMV esophagitis is linked; I did not verify the CD4 cutoff.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556110/"
+    }
+  },
+  {
+    "id": "s2med-1311",
+    "category": "IM Gastro",
+    "q": "CMV histology per p144?",
+    "a": "'Intranuclear inclusions' / 'intranuclear inclusion bodies': 'owl eyes' on histology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=144"
+    },
+    "img": "/mehlman/figures/med-p144-01.jpg",
+    "imgAlt": "Histology of a cell with large intranuclear inclusions surrounded by clear halos"
+  },
+  {
+    "id": "s2med-1312",
+    "category": "IM Gastro",
+    "q": "GI protozoa acquisition per p144?",
+    "a": "Entamoeba histolytica, Cryptosporidium parvum and Giardia lamblia (ECG): cysts in water (water-borne). If 'water-borne' and 'fecal-oral' are both listed, USMLE wants water-borne. A protozoan is a unicellular eukaryote.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2med-1313",
+    "category": "IM Gastro",
+    "q": "Entamoeba histolytica per p144?",
+    "a": "Bloody diarrhea in a person who went to Mexico. Flask-shaped ulcers (in the small bowel per the source) and liver abscess. Erythrophagocytosis: RBCs seen inside the organism on light microscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 144,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=144"
+    },
+    "img": "/mehlman/figures/med-p144-02.jpg",
+    "imgAlt": "Light microscopy of an amoeba with ingested red blood cells, a vesicular nucleus and a central endosome labeled",
+    "guideline": {
+      "text": "A review of intestinal amebiasis pathogenesis is linked; I did not verify the text. Flask-shaped colonic ulcers are the usual description I did not verify; the source says small bowel.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC100155/"
+    }
   }
 ];

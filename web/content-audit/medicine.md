@@ -609,3 +609,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p142 (anorectal, GI bacterial infections 1) - 13 cards, ids s2med-1284 to 1296
 - The source text repeats 'bloody diarrhea after beef' in the Shigella row; carded only under EHEC, Shigella carded as bloody diarrhea + HUS.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p143 (GI bacteria 2: Vibrio, Yersinia, Campylobacter, Bacillus, Clostridia, Staph, Whipple, sprue) - 10 cards, ids s2med-1297 to 1306
+- Conflict: C. diff first-line (oral vancomycin vs fidaxomicin preferred in IDSA/SHEA 2021 update); unverified Whipple regimen and V. vulnificus sepsis figure.
+
+## p144 (GI viral and protozoal infections) - 7 cards, ids s2med-1307 to 1313
+- Figures inspected (CMV owl eye cell; E. histolytica with ingested RBCs). Source says flask-shaped ulcers in small bowel; unverified. Page ends mid-protozoa, continues p145.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
