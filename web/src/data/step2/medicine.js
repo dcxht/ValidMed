@@ -7266,5 +7266,243 @@ export default [
       "text": "A paper titled 'Pulmonary embolism as a cause of cardiac arrest' exists; I did not verify the rhythm claim, and PEA is commonly cited as the usual arrest rhythm.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/10826469/"
     }
+  },
+  {
+    "id": "s2med-0561",
+    "category": "IM Pulmonary",
+    "q": "Acid-base in PE per p58?",
+    "a": "Decreased CO2, increased pH, normal bicarb: acute respiratory alkalosis from high RR. Bicarb is unchanged because the kidney needs at least 12 hours (source figure). Same arrows as an acute asthma attack.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    },
+    "guideline": {
+      "text": "StatPearls on acute PE is a reference; I did not verify the acid-base statement.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560551/"
+    }
+  },
+  {
+    "id": "s2med-0562",
+    "category": "IM Pulmonary",
+    "q": "PE with low CO2 and low pH per p58?",
+    "a": "One 2CK question: the patient has lactic acidosis (low bicarb) from ischemia due to poor perfusion. Any cause of shock (septic, hypovolemic, cardiogenic, obstructive from PE) can cause lactic acidosis and low bicarb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2med-0563",
+    "category": "IM Pulmonary",
+    "q": "Physiologic concept of PE per p58?",
+    "a": "PE is the textbook example of dead space (ventilated but not perfused).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2med-0564",
+    "category": "IM Pulmonary",
+    "q": "Amniotic fluid embolism vs PE per p58?",
+    "a": "Shortness of breath and tachycardia 30 seconds to 2 minutes after delivery of the placenta: amniotic fluid embolism. A woman 2 days after C-section who gets up to use the bathroom with acute SoB and tachycardia: PE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    },
+    "guideline": {
+      "text": "An evidence-based review of amniotic fluid embolism is available; I did not verify the timing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3401570/"
+    }
+  },
+  {
+    "id": "s2med-0565",
+    "category": "IM Pulmonary",
+    "q": "Amniotic fluid embolism and DIC per p58?",
+    "a": "Can cause DIC; a weird cause on USMLE. Bleeding from IV sites/catheter lines following delivery of the placenta.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2med-0566",
+    "category": "IM Pulmonary",
+    "q": "Fat embolism per p58?",
+    "a": "Long-bone fracture (usually femur), then shortness of breath + petechiae on the shoulders/chest. Thrombocytopenia in about half of vignettes. The petechiae are not due to low platelets (ITP does not give this); literature suggests microvascular fat plugging in the dermis. A pulmonary biopsy can be stained with Oil Red O or Sudan black (fat stains).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    },
+    "guideline": {
+      "text": "StatPearls on fat embolism is a reference; I did not verify the petechiae mechanism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499885/"
+    }
+  },
+  {
+    "id": "s2med-0567",
+    "category": "IM Pulmonary",
+    "q": "Air embolism per p58?",
+    "a": "Sudden death after insertion of a central venous line: air goes to the lungs and kills the patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2med-0568",
+    "category": "IM Pulmonary",
+    "q": "Cholesterol embolism per p58 (figure)?",
+    "a": "Violaceous lesions on the feet in someone who just had AAA repair: cholesterol plaque launches to the feet.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    },
+    "img": "/mehlman/figures/med-p058-01.jpg",
+    "imgAlt": "Source figure p58: violaceous discoloration of the toe",
+    "guideline": {
+      "text": "A case report of cholesterol embolization after an arterial procedure exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10640895/"
+    }
+  },
+  {
+    "id": "s2med-0569",
+    "category": "IM Pulmonary",
+    "q": "Second way cholesterol embolism is tested per p58?",
+    "a": "2CK NBME 10: no image; violaceous foot lesions in someone with only a history of AAA (not repair). Stem says 'Maltese crosses are seen', which the source says refers to birefringence of cholesterol esters under polarized light (obscure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 58,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2med-0570",
+    "category": "IM Pulmonary",
+    "q": "Pulmonary contusion vignette per p59?",
+    "a": "A difficult diagnosis of exclusion on 2CK: accident, difficulty breathing and patchy infiltrates in one or more lung areas; may mention rib fractures just above the infiltrates. The source says textbook 'white-out of the lung' is not what NBME uses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2med-0571",
+    "category": "IM Pulmonary",
+    "q": "Fluid sensitivity of contused lung per p59?",
+    "a": "Contused lung is fluid-sensitive: given IV saline, O2 sats worsen. Also seen in myocardial contusion questions; eliminate myocardial contusion if no severe bruising or pain over the sternum or post-MVA arrhythmia (e.g., PACs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    },
+    "guideline": {
+      "text": "An EAST practice guideline on pulmonary contusion and flail chest exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23114493/"
+    }
+  },
+  {
+    "id": "s2med-0572",
+    "category": "IM Pulmonary",
+    "q": "Flail chest per p59?",
+    "a": "Paradoxical breathing: the chest wall moves outward with expiration and inward with inspiration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2med-0573",
+    "category": "IM Pulmonary",
+    "q": "Ruptured bronchus per p59?",
+    "a": "'Persistent air leak despite placement of a chest tube' in a trauma patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    },
+    "guideline": {
+      "text": "A review on tracheobronchial injuries exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7656380/"
+    }
+  },
+  {
+    "id": "s2med-0574",
+    "category": "IM Pulmonary",
+    "q": "Diaphragmatic rupture per p59?",
+    "a": "MVA followed by CXR with 'obscured left hemidiaphragm and the NG tube present in the lower left side of the chest'. Do not confuse with ruptured bronchus or esophageal rupture (water-soluble contrast swallow seen in the mediastinum).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    },
+    "guideline": {
+      "text": "An imaging review of blunt diaphragmatic lesions exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5084060/"
+    }
+  },
+  {
+    "id": "s2med-0575",
+    "category": "IM Pulmonary",
+    "q": "Spontaneous pneumothorax per p59 (figure)?",
+    "a": "Air in the pleural space; usually 'spontaneous pneumothorax': acute-onset sharp chest pain in a tall, lanky patient in teens or 20s due to a ruptured subapical bleb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    },
+    "img": "/mehlman/figures/med-p059-01.jpg",
+    "imgAlt": "Source figure p59: chest X-ray with right-sided pneumothorax and collapsed lung edge outlined",
+    "guideline": {
+      "text": "A review of the etiology of primary spontaneous pneumothorax exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8836443/"
+    }
+  },
+  {
+    "id": "s2med-0576",
+    "category": "IM Pulmonary",
+    "q": "Tension pneumothorax per p59?",
+    "a": "Pneumothorax + low BP = tension pneumothorax. Mechanism: compression of the vena cavae leads to decreased venous return, which can cause JVD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2med-0577",
+    "category": "IM Pulmonary",
+    "q": "Tracheal shift in pneumothorax per p59?",
+    "a": "Source: simple/spontaneous pneumothorax causes ipsilateral tracheal shift; tension pneumothorax causes contralateral shift.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    },
+    "guideline": {
+      "text": "Caution: a simple pneumothorax typically does not shift the trachea; shift away from the affected side is the sign of tension. A review of traumatic pneumothorax exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2700561/"
+    }
+  },
+  {
+    "id": "s2med-0578",
+    "category": "IM Pulmonary",
+    "q": "Does tension pneumothorax need trauma per p59 (continues p60)?",
+    "a": "No: it will literally just be pneumothorax + low BP 9/10 times on USMLE. The page ends here mid-sentence and continues on p60.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 59,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=59"
+    }
   }
 ];

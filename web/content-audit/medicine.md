@@ -254,3 +254,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (bilateral hilar adenopathy CXR).
 - Conflicts: PE death rhythm (Vfib vs PEA); V/Q in pregnancy (CTPA also accepted); heparin-first vs probability-based. Unverified: text of cited papers.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p58 (IM Pulmonary: PE tail, embolic syndromes) - 9 cards, ids s2med-0561 to 0569
+- Inspected page text and figure (cholesterol embolism toe).
+- Unverified: 12-hour bicarb statement, AFE timing, petechiae mechanism.
+
+## p59 (IM Pulmonary: chest trauma, pneumothorax) - 9 cards, ids s2med-0570 to 0578
+- Inspected page text and figure (pneumothorax CXR). Page ends mid-sentence; remainder on p60.
+- Conflict: source says simple pneumothorax causes ipsilateral tracheal shift (typically no shift). Unverified: cited reviews' text.
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
