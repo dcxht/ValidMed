@@ -1002,3 +1002,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p290 (serotonin syndrome, antipsychotics, EPS) - 15 cards, ids s2med-2896 to 2910
 - Source says serotonin syndrome is diagnosed with urinary 5-HIAA; flagged (clinical diagnosis per Hunter criteria paper title). Lithium as cause unverified. TD treatment stays source answer.
 - Mobile QA (320x740, local vite preview build, not live): all 54 cards ox=false off=false bad=0.
+
+## p291 (TD, metoclopramide, NMS, opioids) - 12 cards, ids s2med-2911 to 2922
+- NMS "ryanodine channel stuck open" mechanism (source) not verified. TD switch-to-atypical advice per source.
+## p292 (opioid drugs, alcohol-abuse drugs) - 11 cards, ids s2med-2923 to 2933
+- Dextromethorphan "opioid" label per source, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.

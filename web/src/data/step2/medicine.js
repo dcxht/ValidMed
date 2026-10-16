@@ -38598,5 +38598,334 @@ export default [
       "text": "A review of tardive dyskinesia treatment is linked (title only); current options may include other drugs. Source answer stays.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597038/"
     }
+  },
+  {
+    "id": "s2med-2911",
+    "category": "IM Psych",
+    "q": "TD on an atypical per p291?",
+    "a": "Weird NBME Q: patient on an atypical develops TD; Tx is to stop the atypical and give another atypical.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "The tardive dyskinesia review is linked (title only); I did not verify this. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597038/"
+    }
+  },
+  {
+    "id": "s2med-2912",
+    "category": "IM Psych",
+    "q": "TD prevention per p291?",
+    "a": "A patient on a typical for 15 years with no TD asks how to decrease TD risk; the correct answer is 'stop the typical and give an atypical'; 'maintain current regimen' is wrong. Per the source, switching to an atypical still reduces TD risk even after long uneventful use.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597038/"
+    }
+  },
+  {
+    "id": "s2med-2913",
+    "category": "IM Psych",
+    "q": "Metoclopramide per p291?",
+    "a": "D2 antagonist used as an anti-emetic and prokinetic; can also cause EPS and prolong QT like antipsychotics. A 2CK Psych Q gives parkinsonism in a patient on metoclopramide; next best step is 'discontinue metoclopramide'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A FAERS analysis of metoclopramide is linked (title only); I did not verify the QT claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38995209/"
+    }
+  },
+  {
+    "id": "s2med-2914",
+    "category": "IM Psych",
+    "q": "NMS presentation per p291?",
+    "a": "Muscle rigidity and fever after starting an antipsychotic. The source says fever is usually 103F+ on NBME, since anticholinergic effects can give only low-grade fever (hot, red, dry patient).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A StatPearls page on neuroleptic malignant syndrome is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482282/"
+    }
+  },
+  {
+    "id": "s2med-2915",
+    "category": "IM Psych",
+    "q": "NMS mechanism per p291?",
+    "a": "Per the source: the ryanodine channel gets stuck open, so calcium moves from the sarcoplasmic reticulum into the cytosol; the cell uses a lot of ATP to pump it back, generating heat. The source says this is the same as malignant hyperthermia from succinylcholine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "Caution: I did not verify this mechanism for NMS; the NMS references are linked on other cards of this page. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6366389/"
+    }
+  },
+  {
+    "id": "s2med-2916",
+    "category": "IM Psych",
+    "q": "NMS Tx per p291?",
+    "a": "Dantrolene, which closes the ryanodine channel. The NBME may phrase the answer as 'decreases sarcoplasmic calcium release'. In theory bromocriptine (D2 agonist) can be an alternative to dantrolene, but the source has not seen NBME assess it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "The NMS emergent treatment paper is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6366389/"
+    }
+  },
+  {
+    "id": "s2med-2917",
+    "category": "IM Psych",
+    "q": "Opioid receptors per p291?",
+    "a": "Mu and kappa are most studied (delta and NOP also exist). Mu agonism causes analgesia, euphoria, respiratory depression and dependence, inhibiting neuronal firing and neurotransmitter release by opening K+ channels and closing Ca2+ channels. Kappa has analgesic effects but can cause dysphoria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A paper on opioid receptor roles in respiration is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2171388/"
+    }
+  },
+  {
+    "id": "s2med-2918",
+    "category": "IM Psych",
+    "q": "Opioid effects and withdrawal per p291?",
+    "a": "Effects: respiratory depression, miosis, constipation. Withdrawal: flu-like symptoms, irritability, piloerection, yawning.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A StatPearls page on opioid withdrawal is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK526012/"
+    }
+  },
+  {
+    "id": "s2med-2919",
+    "category": "IM Psych",
+    "q": "Morphine per p291?",
+    "a": "Gold standard opioid for moderate to severe pain. USMLE: 'metabolized into active metabolites that accumulate' is the NBME answer for how overdose occurs with self-controlled pumps (it takes time to work, so the patient uses too much).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A paper on morphine glucuronides in kidney failure and a paper on morphine overdose on an acute pain service are linked (titles only); I did not verify the NBME answer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8354025/"
+    }
+  },
+  {
+    "id": "s2med-2920",
+    "category": "IM Psych",
+    "q": "Morphine uses and pain per p291?",
+    "a": "Severe pain can cause hypertension; a Surgery Q has morphine as the answer for controlling BP post-op. If a patient has a history of opioid abuse but severe pain (e.g., trauma), do not withhold opioids; always treat pain fully.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    }
+  },
+  {
+    "id": "s2med-2921",
+    "category": "IM Psych",
+    "q": "Codeine and oxycodone per p291?",
+    "a": "Codeine is less potent than morphine, used for mild to moderate pain and in many antitussives. Oxycodone is a potent opioid often combined with acetaminophen; the oxycodone/acetaminophen combo is preferred initially post-op, rather than jumping to morphine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A review of oxycodone with or without paracetamol for postoperative pain is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4170904/"
+    }
+  },
+  {
+    "id": "s2med-2922",
+    "category": "IM Psych",
+    "q": "Fentanyl and meperidine per p291?",
+    "a": "Fentanyl: potent synthetic opioid with high abuse potential. Meperidine: potent opioid with high abuse potential; NBME likes it for malingering Qs (e.g., a 47-year-old man in the ER in severe pain requesting meperidine).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 291,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=291"
+    },
+    "guideline": {
+      "text": "A paper on the drug-seeking patient in the ER is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15829387/"
+    }
+  },
+  {
+    "id": "s2med-2923",
+    "category": "IM Psych",
+    "q": "Dextromethorphan per p292?",
+    "a": "Opioid used in antitussives (as the source states). Common cause of delirium from over-the-counter cold meds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    }
+  },
+  {
+    "id": "s2med-2924",
+    "category": "IM Psych",
+    "q": "Loperamide and eluxadoline per p292?",
+    "a": "Opioids used for diarrhea-predominant IBS. Low addictive potential. Constipation as an adverse effect is a good thing when limiting diarrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "An AGA guideline on IBS-D is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35738725/"
+    }
+  },
+  {
+    "id": "s2med-2925",
+    "category": "IM Psych",
+    "q": "Buprenorphine per p292?",
+    "a": "Mu partial agonist and kappa antagonist; kappa antagonism can cause less dysphoria. An NBME Q floating around wants you to know about the kappa effects.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "A StatPearls page on buprenorphine is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459126/"
+    }
+  },
+  {
+    "id": "s2med-2926",
+    "category": "IM Psych",
+    "q": "Tramadol per p292?",
+    "a": "Unique MOA: weak mu opioid agonist plus an SNRI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "A paper on tramadol's opioid and nonopioid components is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1309873/"
+    }
+  },
+  {
+    "id": "s2med-2927",
+    "category": "IM Psych",
+    "q": "Methadone per p292?",
+    "a": "Long-acting full mu opioid agonist used for opioid/heroin withdrawal; reduces opioid cravings.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "Methadone maintenance treatment guidance is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK310658/"
+    }
+  },
+  {
+    "id": "s2med-2928",
+    "category": "IM Psych",
+    "q": "Naloxone per p292?",
+    "a": "Opioid receptor antagonist used for acute overdoses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    }
+  },
+  {
+    "id": "s2med-2929",
+    "category": "IM Psych",
+    "q": "Naltrexone per p292?",
+    "a": "Opioid receptor antagonist used for alcohol dependence (decreases cravings). Also for opioid dependence in already-detoxified patients to prevent relapse: if they take opioids they won't feel euphoria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "A paper on extended-release naltrexone for opioid and alcohol users is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4347612/"
+    }
+  },
+  {
+    "id": "s2med-2930",
+    "category": "IM Psych",
+    "q": "Suboxone per p292?",
+    "a": "Buprenorphine plus naloxone, given orally for opioid addiction in those at high risk of abuse or who already abused methadone. Buprenorphine's partial mu agonism helps cravings; naloxone is added so that if the patient crushes and injects it, the naloxone antagonizes opioid receptors and causes withdrawal. Taken orally, naloxone has negligible effect due to poor oral bioavailability.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "A page on crushed buprenorphine-naloxone tablets is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK612733/"
+    }
+  },
+  {
+    "id": "s2med-2931",
+    "category": "IM Psych",
+    "q": "Disulfiram per p292?",
+    "a": "Blocks acetaldehyde dehydrogenase. If the patient drinks on the drug, flushing plus severe discomfort, disincentivizing drinking.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "A paper on disulfiram inhibition of human aldehyde dehydrogenase is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7071604/"
+    }
+  },
+  {
+    "id": "s2med-2932",
+    "category": "IM Psych",
+    "q": "Acamprosate per p292?",
+    "a": "Alcohol inhibits NMDA glutamate receptor activity; chronic alcoholism upregulates NMDA receptors, causing excess glutamate transmission and excitotoxicity on withdrawal. Acamprosate decreases cravings by modulating glutamatergic activity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    },
+    "guideline": {
+      "text": "A paper on acamprosate as a weak NMDA antagonist is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11369029/"
+    }
+  },
+  {
+    "id": "s2med-2933",
+    "category": "IM Psych",
+    "q": "Naltrexone for alcohol per p292?",
+    "a": "Opioid receptor antagonist that decreases alcohol cravings (as covered above).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 292,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=292"
+    }
   }
 ];
