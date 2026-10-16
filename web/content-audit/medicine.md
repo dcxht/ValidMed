@@ -154,3 +154,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text; no figures (table converted to three cards). Page starts mid-DVT bullets.
 - Unverified: 48-hour PST wording, 4-cm fluctuant cord, LDL ranges, creamy plasma.
 - Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.
+
+## p36 (IM Cardio: cardio pharm points, CCBs, beta-blockers, antiarrhythmics, digoxin) - 16 cards, ids s2med-0334 to 0349
+- Inspected page text; no figures. Expletive paraphrased out. Table converted to cards.
+- Source conflicts/cautions: beta-blocker after ACEi/ARB (current HF guideline title only); digoxin "Na/Ca ATPase" is usually the exchanger.
+- Unverified: verapamil constipation in cited reviews, propranolol T4 to T3, labetalol/propranolol arrow patterns.
+
+## p37 (IM Cardio: digoxin tail, loops, thiazides, K-sparing) - 17 cards, ids s2med-0350 to 0366
+- Inspected page text; no figures. Page starts mid-digoxin bullets.
+- Source cautions: Na/K/2Cl is a symporter, not an ATPase; ACEi first-line for EF framing; thiazide galactorrhea unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.

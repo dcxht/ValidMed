@@ -4383,5 +4383,424 @@ export default [
       "page": 35,
       "url": "/mehlman/hy-internal-medicine.pdf#page=35"
     }
+  },
+  {
+    "id": "s2med-0334",
+    "category": "IM Cardio",
+    "q": "Verapamil per p36?",
+    "a": "Non-dihydropyridine calcium channel blocker (acts on nodal calcium channels). Causes constipation. Sometimes used for AF rate control in place of metoprolol; USMLE only wants MOA and side effect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "A review of GI side effects of antiarrhythmics and a verapamil vs diltiazem AF rate-control comparison exist; I did not verify the constipation statement in them.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5669531/"
+    }
+  },
+  {
+    "id": "s2med-0335",
+    "category": "IM Cardio",
+    "q": "Nifedipine per p36?",
+    "a": "Dihydropyridine calcium channel blocker (acts on arteriolar calcium channels, dilates arterioles, decreases peripheral vascular resistance and BP). Causes peripheral edema/fluid retention (HY on Family Med). Used for essential HTN in patients without diabetes, atherosclerotic disease or renal disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0336",
+    "category": "IM Cardio",
+    "q": "Beta receptor locations per p36?",
+    "a": "Beta-1 is on myocardium; beta-2 is on peripheral arterioles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0337",
+    "category": "IM Cardio",
+    "q": "Beta-1-selective blockers per p36?",
+    "a": "A BEAM: Atenolol, Bisoprolol, Esmolol, Acebutolol, Metoprolol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0338",
+    "category": "IM Cardio",
+    "q": "Non-selective and mixed blockers per p36?",
+    "a": "Propranolol is the important beta-1/2 non-selective blocker. Labetalol and carvedilol antagonize both beta-1 and alpha-1 (they do not end in -olol).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0339",
+    "category": "IM Cardio",
+    "q": "Beta-1 antagonism and oxygen demand per p36?",
+    "a": "Slows HR, increasing diastolic filling time and LVEDV. Increased preload raises oxygen demand, but decreased chronotropy and inotropy cause a larger decrease, so net oxygen demand falls.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0340",
+    "category": "IM Cardio",
+    "q": "Step 1 NBME wording for beta-blockers per p36?",
+    "a": "'Slowing the rate of diastolic depolarization': with a slower HR fractionally more time is spent in diastole, which delays return to systole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0341",
+    "category": "IM Cardio",
+    "q": "Labetalol in dissection and traumatic rupture per p36?",
+    "a": "Labetalol is first-line in aortic dissection and traumatic rupture; nitroprusside comes after. A 2CK Q once gave 'esmolol + nitroprusside' for traumatic rupture, but almost always they want labetalol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0342",
+    "category": "IM Cardio",
+    "q": "Timolol per p36?",
+    "a": "Can be used topically for glaucoma (decreased aqueous humor production).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0343",
+    "category": "IM Cardio",
+    "q": "Propranolol uses per p36?",
+    "a": "Tachycardia in hyperthyroidism (also decreases peripheral conversion of T4 to T3); akathisia from antipsychotics; essential, alcoholic or idiopathic tremors; social phobia (if the patient has asthma a 2CK Psych form wants a benzodiazepine instead); HOCM (decreased HR, increased LVEDV, decreased murmur/obstruction).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "A study of propranolol as adjunct for hyperthyroid tremor exists; I did not verify the T4 to T3 or other uses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9137929/"
+    }
+  },
+  {
+    "id": "s2med-0344",
+    "category": "IM Cardio",
+    "q": "Propranolol and labetalol hemodynamic arrows per p36?",
+    "a": "Propranolol: increased LVEDV; decreased CO; increased peripheral vascular resistance (beta-2 blockade removes arteriolar dilation). Labetalol: increased LVEDV; decreased CO; decreased PVR (alpha-1 blockade).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0345",
+    "category": "IM Cardio",
+    "q": "Beta-blockers in heart failure and adverse effects per p36?",
+    "a": "In heart failure, beta-blocker is given after ACEi/ARB (choose ACEi or ARB first). Metoprolol is used for rate control in AF. Beta-blockers can cause depression and sexual dysfunction; avoid in lung disease or severe/psychotic depression.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "Current caution: the 2022 AHA/ACC/HFSA heart failure guideline is the current reference; I could read only its title and did not verify whether it supports sequential starts. Source answer kept.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063"
+    }
+  },
+  {
+    "id": "s2med-0346",
+    "category": "IM Cardio",
+    "q": "Dobutamine per p36?",
+    "a": "Beta-1 agonist used in pharmacologic stress testing (dobutamine-echo).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2med-0347",
+    "category": "IM Cardio",
+    "q": "Amiodarone per p36?",
+    "a": "Potassium channel blocker. Can cause TdP, greyish skin discoloration and thyroiditis. Used for VT in patients without coma or low BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "A paper on amiodarone blue-gray skin discoloration and the 2018 ETA guideline on amiodarone thyroid dysfunction exist.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6528521/"
+    }
+  },
+  {
+    "id": "s2med-0348",
+    "category": "IM Cardio",
+    "q": "Quinidine per p36?",
+    "a": "Sodium channel blocker. Can cause TdP and cinchonism (headache + tinnitus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "StatPearls on cinchonism is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559319"
+    }
+  },
+  {
+    "id": "s2med-0349",
+    "category": "IM Cardio",
+    "q": "Digoxin mechanism per p36?",
+    "a": "Directly blocks the myocardial Na+/K+ ATPase pump, causing indirect inactivation of the myocardial Na+/Ca2+ exchange (source says ATPase) so more Ca2+ stays in the cell: increased contractility. Also parasympathomimetic at nodal tissue, slowing HR. It both slows HR and increases contractility.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 36,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=36"
+    },
+    "guideline": {
+      "text": "A paper on digoxin's mechanism requiring the sodium pump exists. The source's 'Na+/Ca2+ ATPase' is usually described as the Na+/Ca2+ exchanger; source wording kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12710698/"
+    }
+  },
+  {
+    "id": "s2med-0350",
+    "category": "IM Cardio",
+    "q": "Why hypokalemia causes digoxin toxicity per p37?",
+    "a": "Digoxin binds the extracellular K+ binding site, so with less K+ competing a lower dose is needed to induce the effect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "StatPearls on digoxin toxicity is a reference; I did not verify the binding explanation in the text I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470568/"
+    }
+  },
+  {
+    "id": "s2med-0351",
+    "category": "IM Cardio",
+    "q": "Classic digoxin toxicity vision per p37?",
+    "a": "Yellow/wavy 'Vincent van Gogh' vision.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0352",
+    "category": "IM Cardio",
+    "q": "Digoxin and mortality in heart failure per p37?",
+    "a": "Does not decrease mortality.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "The DIG trial report (NEJM abstract on PubMed) examines digoxin effect on mortality and morbidity in heart failure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9036306/"
+    }
+  },
+  {
+    "id": "s2med-0353",
+    "category": "IM Cardio",
+    "q": "Furosemide mechanism per p37?",
+    "a": "Loop diuretic inhibiting the apical Na+/K+/2Cl- symporter on the thick ascending limb (source says 'ATPase symporter'). Apical = urine side; basolateral = blood side.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "StatPearls on loop diuretics is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546656/"
+    }
+  },
+  {
+    "id": "s2med-0354",
+    "category": "IM Cardio",
+    "q": "Furosemide efficacy and mortality per p37?",
+    "a": "Most efficacious diuretic for fluid unloading in pulmonary and peripheral edema. Does not decrease mortality in cardiac patients.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0355",
+    "category": "IM Cardio",
+    "q": "Heart failure patient with low O2 sats who refuses to lie back per p37?",
+    "a": "Furosemide. CXR or exam may show fluid 2/3 up the lung fields. Do not confuse with ACEi/ARB: those are first line to increase EF in heart failure even if O2 sats are low (decrease AT-II constriction, decrease afterload), but loops are first-line if the vignette emphasizes dyspnea and low O2 sats.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "I did not verify the 'first-line ACEi for EF' framing against the 2022 AHA/ACC/HFSA guideline text.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063"
+    }
+  },
+  {
+    "id": "s2med-0356",
+    "category": "IM Cardio",
+    "q": "Second diuretic after furosemide insufficient per p37?",
+    "a": "Anything potassium-sparing: ENaC inhibitor (amiloride, triamterene) or aldosterone receptor antagonist (spironolactone, eplerenone); furosemide causes hypokalemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0357",
+    "category": "IM Cardio",
+    "q": "Other loop diuretic effects per p37?",
+    "a": "Ototoxicity (tinnitus, vertigo). Loops increase urinary calcium, in contrast with thiazides, which decrease it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "A review of ototoxic effects of loop diuretics exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6002634/"
+    }
+  },
+  {
+    "id": "s2med-0358",
+    "category": "IM Cardio",
+    "q": "Ethacrynic acid per p37?",
+    "a": "Another loop diuretic; used in patients with sulfa allergy since furosemide is a sulfa drug. Also ototoxic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "StatPearls on ethacrynic acid is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558988/"
+    }
+  },
+  {
+    "id": "s2med-0359",
+    "category": "IM Cardio",
+    "q": "Thiazide mechanism per p37?",
+    "a": "HCTZ is HY; chlorthalidone is 'thiazide-like'. Inhibit the Na+/Cl- symporter on the apical membrane of the early DCT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0360",
+    "category": "IM Cardio",
+    "q": "Thiazides and calcium per p37?",
+    "a": "Increase calcium reabsorption in the DCT; used to decrease calcium stone recurrence, and can cause hypercalcemia. An NBME MOA question for HCTZ may list only 'increased calcium reabsorption' as the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "A review on thiazides in nephrolithiasis exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8061960/"
+    }
+  },
+  {
+    "id": "s2med-0361",
+    "category": "IM Cardio",
+    "q": "First-line HTN drugs per p37?",
+    "a": "Thiazides and dihydropyridine calcium channel blockers in patients without renal or cardiovascular issues. With proteinuria, raised creatinine or renin, or pre-diabetes/diabetes: ACEi or ARB first.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0362",
+    "category": "IM Cardio",
+    "q": "Thiazide in heart failure and diabetes per p37?",
+    "a": "Can be used in HF with diabetic nephropathy already on ACEi and beta-blocker; a new 2CK Q has thiazide as correct over spironolactone in a diabetic (spironolactone can cause hyperkalemia with worrisome kidney function).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0363",
+    "category": "IM Cardio",
+    "q": "Other thiazide adverse effects per p37?",
+    "a": "Can cause gout (contraindicated in gout). Offline NBME 20 wants galactorrhea, via an obscure mechanism (~0.2% of adverse effects per the source's literature search).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    },
+    "guideline": {
+      "text": "StatPearls on hydrochlorothiazide is a reference; I did not verify galactorrhea.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK500965/"
+    }
+  },
+  {
+    "id": "s2med-0364",
+    "category": "IM Cardio",
+    "q": "ENaC inhibitors per p37?",
+    "a": "Amiloride and triamterene block the apical sodium channel in the cortical collecting duct: decreased Na+ and water reabsorption. Potassium-sparing: by inhibiting apical ENaC they indirectly inhibit the basolateral Na+/K+ ATPase, decreasing Na+ reabsorption and K+ secretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0365",
+    "category": "IM Cardio",
+    "q": "When to choose an ENaC inhibitor per p37?",
+    "a": "The Q says a patient with peripheral/pulmonary edema from a cause is already on furosemide and needs more: amiloride or triamterene. Caution: in one Q the patient is on furosemide but needs HTN control, and the answer is a thiazide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2med-0366",
+    "category": "IM Cardio",
+    "q": "Spironolactone and eplerenone per p37?",
+    "a": "Aldosterone receptor antagonists: blocking the aldosterone receptor decreases basolateral Na+/K+ ATPase activity, indirectly decreasing apical ENaC activity, so less Na+ and water reabsorption.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 37,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=37"
+    }
   }
 ];
