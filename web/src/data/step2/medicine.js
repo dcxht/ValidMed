@@ -43060,5 +43060,459 @@ export default [
       "text": "Caution: I did not verify the P450 mechanism; kept as the source's exam answer.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/19636324/"
     }
+  },
+  {
+    "id": "s2med-3221",
+    "category": "IM MSK",
+    "q": "Mitochondrial myopathy per p329?",
+    "a": "A broad term that can refer to numerous mitochondrial diseases. USMLE wants you to recognize a mitochondrial disorder from hypotonia, ear/eye problems, and lactic acidosis (the source calls this a tetrad but lists three findings).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on MERRF is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1520/"
+    }
+  },
+  {
+    "id": "s2med-3222",
+    "category": "IM MSK",
+    "q": "Mitochondrial myopathy buzzwords per p329?",
+    "a": "'Ragged red fibers' can be a buzzy descriptor. Mitochondrial disorders are maternally inherited only. Heteroplasmy refers to offspring having varying disease severity based on variation in how diseased mitochondrial genes are allocated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1520/"
+    }
+  },
+  {
+    "id": "s2med-3223",
+    "category": "IM MSK",
+    "q": "Inclusion body myositis per p329?",
+    "a": "The answer if a patient 50 or older has months to years of progressive muscle weakness and a muscle biopsy shows basophilic rimmed vacuoles. Shows up on a new 2CK form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "guideline": {
+      "text": "A review of sporadic inclusion body myositis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10932328/"
+    }
+  },
+  {
+    "id": "s2med-3224",
+    "category": "IM MSK",
+    "q": "Marfan genetics per p329?",
+    "a": "Autosomal dominant; chromosome 15, FBN1/2. Codes for fibrillin, a glycoprotein that forms a sheath around elastin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "guideline": {
+      "text": "A review of cardiovascular findings in Marfan syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8411824/"
+    }
+  },
+  {
+    "id": "s2med-3225",
+    "category": "IM MSK",
+    "q": "Marfan findings per p329?",
+    "a": "Tall, lanky habitus, chest wall abnormalities (pectus excavatum or carinatum), flat feet (pes planus), scoliosis, mitral valve prolapse (mid-systolic click), and increased risk of aortic dissection (can propagate retrograde toward the root, causing root dilatation and aortic regurgitation: decrescendo diastolic murmur).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "img": "/mehlman/figures/med-p329-01.jpg",
+    "imgAlt": "Source figure: hand encircling the wrist (matched to Marfan by page order)",
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8411824/"
+    }
+  },
+  {
+    "id": "s2med-3226",
+    "category": "IM MSK",
+    "q": "Marfan and aneurysms per p329?",
+    "a": "Not associated with berry/saccular aneurysms (unlike Ehlers-Danlos and ADPKD), per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    }
+  },
+  {
+    "id": "s2med-3227",
+    "category": "IM MSK",
+    "q": "Ehlers-Danlos defect per p329?",
+    "a": "Defect in collagen III synthesis; can be written 'defect in synthesis of fibrillar collagen'. The source warns this is confusing because fibrillin (Marfan) is unrelated; 'fibrillar collagen' just coincidentally means type III collagen. Wrong answer = 'abnormal synthesis of extracellular glycoprotein' (fibrillin, Marfan).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "guideline": {
+      "text": "A paper on COL3A1 variants in vascular Ehlers-Danlos is linked (title only). Caution: collagen III is the vascular type; other types involve other collagens. I did not verify the source's generalization.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4795191/"
+    }
+  },
+  {
+    "id": "s2med-3228",
+    "category": "IM MSK",
+    "q": "Ehlers-Danlos presentation per p329?",
+    "a": "Easy bruising plus hyperextensible skin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    }
+  },
+  {
+    "id": "s2med-3229",
+    "category": "IM MSK",
+    "q": "Osteogenesis imperfecta per p329?",
+    "a": "Collagen I defect causing recurrent fractures in a child; important differentials are child abuse and osteopetrosis. Blue sclerae are buzzy but often not mentioned. Conductive hearing loss from defective ossicles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "guideline": {
+      "text": "A meta-analysis on hearing loss treatment in OI is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9556526/"
+    }
+  },
+  {
+    "id": "s2med-3230",
+    "category": "IM MSK",
+    "q": "OI harder vignette per p329?",
+    "a": "Many types of OI exist, some resulting in miscarriage. A harder vignette can mention a child with multiple fractures whose mother has a history of recurrent miscarriage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    }
+  },
+  {
+    "id": "s2med-3231",
+    "category": "IM MSK",
+    "q": "Mixed connective tissue disease per p329?",
+    "a": "The answer if the patient has anti-U1-ribonucleoprotein (U1-RNP) antibodies. Combined features of three disorders: LPS = Lupus, Polymyositis, Scleroderma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 329,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=329"
+    },
+    "guideline": {
+      "text": "A paper on U1-RNP in MCTD is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4847272/"
+    }
+  },
+  {
+    "id": "s2med-3232",
+    "category": "IM MSK",
+    "q": "Thyroglossal duct cyst per p330?",
+    "a": "The answer for a painless, midline neck lump in a child that moves upward with swallowing or tongue protrusion (buzzy, but seen in maybe only half of questions). Can also be a painless mass inferior to the hyoid bone with uptake on a Technetium-99 scan.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A review of thyroid scan and ultrasound in thyroglossal cysts is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40757114/"
+    }
+  },
+  {
+    "id": "s2med-3233",
+    "category": "IM MSK",
+    "q": "Thyroglossal duct cyst embryology per p330?",
+    "a": "USMLE wants 'endoderm of foramen cecum'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    }
+  },
+  {
+    "id": "s2med-3234",
+    "category": "IM MSK",
+    "q": "Sternocleidomastoid injury per p330?",
+    "a": "The answer for a nodular mass in the lateral neck of an infant born via forceps delivery (a risk factor for muscle damage).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A review of fibromatosis colli is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11086591/"
+    }
+  },
+  {
+    "id": "s2med-3235",
+    "category": "IM MSK",
+    "q": "Branchial cleft cyst per p330?",
+    "a": "The answer for an idiopathic lateral neck mass in an infant that may or may not have an opening to the skin. Neonates or infants.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A paper on congenital cystic neck masses is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8395831/"
+    }
+  },
+  {
+    "id": "s2med-3236",
+    "category": "IM MSK",
+    "q": "Lingual thyroid per p330?",
+    "a": "The answer for hypothyroidism plus a midline neck lump high in the neck. Nothing is said about tongue protrusion or uptake in the mass (that would be thyroglossal duct cyst). Can sometimes cause dysphagia, dysphonia, or dyspnea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A case report of lingual thyroid with hypothyroidism is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8556010/"
+    }
+  },
+  {
+    "id": "s2med-3237",
+    "category": "IM MSK",
+    "q": "Alendronate mechanism per p330?",
+    "a": "Bisphosphonate; inhibits osteoclasts (high-yield MOA). Used for osteoporosis after Ca2+/vitamin D.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A paper on alendronate esophagitis is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8793925/"
+    }
+  },
+  {
+    "id": "s2med-3238",
+    "category": "IM MSK",
+    "q": "Pamidronate per p330?",
+    "a": "The source has seen pamidronate (not alendronate) on 2CK forms for treating hypercalcemia, after normal saline.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "An Endocrine Society guideline on hypercalcemia of malignancy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36545746/"
+    }
+  },
+  {
+    "id": "s2med-3239",
+    "category": "IM MSK",
+    "q": "Bisphosphonate adverse effects per p330?",
+    "a": "Students get fanatical about osteonecrosis of the jaw, but the source says its yield on NBME exams is basically nonexistent. USMLE wants you to know bisphosphonates cause pill-induced esophagitis (very high-yield for 2CK; K+ supplements also cause esophagitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "The alendronate esophagitis paper is linked on an earlier card. I did not verify the yield claims.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8793925/"
+    }
+  },
+  {
+    "id": "s2med-3240",
+    "category": "IM MSK",
+    "q": "Teriparatide per p330?",
+    "a": "N-terminus PTH analogue that can induce bone formation. Even though PTH causes bone resorption, this agent stimulates osteoblast-mediated bone formation more than RANK-L-mediated osteoclast activation. Can be used for severe/advanced osteoporosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A paper on the anabolic effect of intermittent PTH is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC1995599/"
+    }
+  },
+  {
+    "id": "s2med-3241",
+    "category": "IM MSK",
+    "q": "Denosumab per p330?",
+    "a": "Monoclonal antibody against RANK-L. Can be used for severe/advanced osteoporosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    }
+  },
+  {
+    "id": "s2med-3242",
+    "category": "IM MSK",
+    "q": "Baclofen per p330?",
+    "a": "Agonizes GABA-B. Used for spasticity, classically in multiple sclerosis; the source saw one NBME question using it for spasticity in an older man. Remember: it is an agonist, not an antagonist, at GABA-B.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A systematic review of baclofen in spinal cord injury spasticity is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35750207/"
+    }
+  },
+  {
+    "id": "s2med-3243",
+    "category": "IM MSK",
+    "q": "Cyclobenzaprine per p330?",
+    "a": "Muscle relaxant used for spasms. Structurally similar to TCAs; helps modulate pain sensation at the brain stem.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A paper on cyclobenzaprine's possible mechanism is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7214207/"
+    }
+  },
+  {
+    "id": "s2med-3244",
+    "category": "IM MSK",
+    "q": "Benztropine per p330?",
+    "a": "Muscarinic (cholinergic) receptor antagonist used to treat acute dystonia from antipsychotics. If a patient starts an antipsychotic and then gets a stiff neck, oculogyric crisis, or muscle rigidity without fever, the answer = benztropine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A guideline on medical emergencies with psychotropic medications is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122152/"
+    }
+  },
+  {
+    "id": "s2med-3245",
+    "category": "IM MSK",
+    "q": "Diphenhydramine / chlorpheniramine per p330?",
+    "a": "First-generation H1 antagonists. The source says diphenhydramine is quite possibly the highest-yield drug on USMLE. Used for acute dystonia, similar to benztropine, and motion sickness.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "A paper on diphenhydramine's antidystonic effects is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7556545/"
+    }
+  },
+  {
+    "id": "s2med-3246",
+    "category": "IM MSK",
+    "q": "H1 blockers and dystonia per p330?",
+    "a": "H1 blockers can treat allergies, but have significant anticholinergic (antimuscarinic) side effects, which are helpful for acute dystonia. Psych questions will list either benztropine or diphenhydramine (or chlorpheniramine), not both. Continues on p331.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 330,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=330"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7556545/"
+    }
+  },
+  {
+    "id": "s2med-3247",
+    "category": "IM MSK",
+    "q": "Anticholinergics and motion sickness per p331 (continued from p330)?",
+    "a": "Anticholinergic effects treat motion sickness. Scopolamine is the classic anticholinergic for it, but the source has seen NBME ask diphenhydramine straight for this too, since its anticholinergic side effects are helpful here.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 331,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=331"
+    },
+    "guideline": {
+      "text": "A paper on diphenhydramine is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7556545/"
+    }
+  },
+  {
+    "id": "s2med-3248",
+    "category": "IM MSK",
+    "q": "1st-gen H1 blocker adverse effects per p331?",
+    "a": "Can cause cognitive dysfunction (delirium, worsening dementia) and drowsiness; avoid in the elderly and in people who operate vehicles or machines if possible. Can also cause anti-alpha1-adrenergic effects (orthostatic hypotension).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 331,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=331"
+    }
+  },
+  {
+    "id": "s2med-3249",
+    "category": "IM MSK",
+    "q": "Dantrolene mechanism per p331?",
+    "a": "Blocks the ryanodine Ca2+ channel. Treatment for neuroleptic malignant syndrome (NMS) and malignant hyperthermia (MH).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 331,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=331"
+    },
+    "guideline": {
+      "text": "A paper on dantrolene for NMS is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6366389/"
+    }
+  },
+  {
+    "id": "s2med-3250",
+    "category": "IM MSK",
+    "q": "Dantrolene vignette per p331?",
+    "a": "Muscle rigidity and fever after starting an antipsychotic, or after succinylcholine during surgery: answer = dantrolene. The source says bromocriptine for NMS is low-yield and rarely seen on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 331,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=331"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6366389/"
+    }
+  },
+  {
+    "id": "s2med-3251",
+    "category": "IM MSK",
+    "q": "Dantrolene NBME wording per p331?",
+    "a": "NBME sometimes gives an NMS or MH vignette, and the answer for Tx is 'decreases sarcoplasmic calcium release'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 331,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=331"
+    }
+  },
+  {
+    "id": "s2med-3252",
+    "category": "IM MSK",
+    "q": "MH mechanism per p331?",
+    "a": "The source says in NMS and MH the ryanodine channel, which lets calcium move from the sarcoplasmic reticulum into the cytosol, gets stuck open; the cell uses a lot of ATP to pump the calcium back, generating heat and fever. Dantrolene closes this channel.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 331,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=331"
+    },
+    "guideline": {
+      "text": "Caution: the ryanodine mechanism is established for malignant hyperthermia; for NMS I did not verify it. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6366389/"
+    }
   }
 ];
