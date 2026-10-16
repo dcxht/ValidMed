@@ -1542,3 +1542,4 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p447 (IM mixed bullets: RCC, NRDS, surfactant protein D) - 3 cards, ids s2med-4595 to 4597
 - Pages 448-449 are social-media and copyright pages: not carded.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+- Second QA pass (320x740, local preview build): all 4597 Medicine cards ox=false off=false bad=0.
