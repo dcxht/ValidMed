@@ -52776,5 +52776,368 @@ export default [
       "page": 390,
       "url": "/mehlman/hy-internal-medicine.pdf#page=390"
     }
+  },
+  {
+    "id": "s2med-3987",
+    "category": "IM Mixed",
+    "q": "Leflunomide per p391 (continued from p390)?",
+    "a": "MOA: dihydroorotate dehydrogenase inhibitor (pyrimidine synthesis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3988",
+    "category": "IM Mixed",
+    "q": "Most specific antibody in RA per p391?",
+    "a": "Anti-CCP (cyclic citrullinated peptide), not RF (rheumatoid factor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3989",
+    "category": "IM Mixed",
+    "q": "RA vs OA in the hands per p391?",
+    "a": "Only OA involves the DIPs; RA involves PIPs + MCPs. RA is symmetrical; OA is not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3990",
+    "category": "IM Mixed",
+    "q": "Red, warm, tender knee per p391?",
+    "a": "Joint aspiration (arthrocentesis); septic arthritis till proven otherwise. This also applies to a patient with OA or RA, a 17-year-old after a kickboxing tournament, and a child with suspected JRA and a sore knee.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3991",
+    "category": "IM Mixed",
+    "q": "Septic arthritis risk per p391?",
+    "a": "Biggest risk factor: abnormal joint architecture. Groups: prosthetic joints (the top group), RA/OA, recent intense exercise/joint trauma, and children (JRA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3992",
+    "category": "IM Mixed",
+    "q": "Juvenile rheumatoid arthritis (JRA, Still disease) per p391?",
+    "a": "A child with recurrent knee redness, warmth, pain + fever; or recurrent joint pain +/- high ESR +/- rash; or recurrent joint pain + anemia (anemia of chronic disease).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3993",
+    "category": "IM Mixed",
+    "q": "Most common SLE presentation per p391?",
+    "a": "Arthritis (>90%). Woman 20s-40s + arthritis + thrombocytopenia, or + mouth ulcer + circular skin lesions: SLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3994",
+    "category": "IM Mixed",
+    "q": "Low cell lines in SLE per p391?",
+    "a": "Malar rash + low RBCs, WBCs, platelets: increased peripheral destruction (antibodies against blood cell lines; isolated thrombocytopenia is most common).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3995",
+    "category": "IM Mixed",
+    "q": "SLE flare and lupus nephritis per p391?",
+    "a": "Flare: steroids. Red urine: lupus nephritis, specifically diffuse proliferative glomerulonephritis (wire-loop capillary pattern). Treatment: mycophenolate mofetil.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3996",
+    "category": "IM Mixed",
+    "q": "Discoid lupus treatment per p391?",
+    "a": "Hydroxychloroquine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3997",
+    "category": "IM Mixed",
+    "q": "Most specific antibody for SLE per p391?",
+    "a": "Anti-Smith (RNP), not anti-dsDNA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 391,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=391"
+    }
+  },
+  {
+    "id": "s2med-3998",
+    "category": "IM Mixed",
+    "q": "Antibodies in SLE flares per p392 (continued from p391)?",
+    "a": "Anti-dsDNA goes up in acute flares (and C3 goes down).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-3999",
+    "category": "IM Mixed",
+    "q": "Drug-induced lupus per p392?",
+    "a": "Antibody: anti-histone. Drugs, 'Mom is HIPP': Minocycline, Hydralazine, INH, Procainamide, Penicillamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4000",
+    "category": "IM Mixed",
+    "q": "Viral infection + all three cell lines down per p392?",
+    "a": "Viral-induced aplastic anemia. Next best step: bone marrow aspiration. Mechanism: defective bone marrow production (contrast with SLE).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4001",
+    "category": "IM Mixed",
+    "q": "Viral infection + low platelets per p392?",
+    "a": "ITP. Also a woman in her 30s-40s with random bruising at different stages of healing (first rule out abuse).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4002",
+    "category": "IM Mixed",
+    "q": "ITP mechanism and diagnosis per p392?",
+    "a": "Antibodies against GpIIb/IIIa on platelets. Diagnosis: low platelet count (don't choose increased bleeding time).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4003",
+    "category": "IM Mixed",
+    "q": "ITP treatment per p392?",
+    "a": "Steroids first, then IVIG, then splenectomy. For an episode, next best step: steroids; the most effective way to decrease recurrence: splenectomy (not first-line).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4004",
+    "category": "IM Mixed",
+    "q": "Family history of a heme condition treated with splenectomy per p392?",
+    "a": "Hereditary spherocytosis (autosomal dominant).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4005",
+    "category": "IM Mixed",
+    "q": "Bleeding time vs PT/aPTT per p392?",
+    "a": "Bleeding time: platelet problem. PT and aPTT: clotting factor problem. ITP: increased BT, normal PT, normal aPTT. Hemophilia: increased aPTT; BT and PT normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4006",
+    "category": "IM Mixed",
+    "q": "Hemophilia per p392?",
+    "a": "X-linked recessive; hemophilia A (factor VIII deficiency), hemophilia B (factor IX deficiency). Classic: hemarthrosis in a school-age boy; bleeding after circumcision in a neonate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4007",
+    "category": "IM Mixed",
+    "q": "Hemophilia treatment per p392?",
+    "a": "A: desmopressin (increases VIII release), then give factor VIII. B: give factor IX.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4008",
+    "category": "IM Mixed",
+    "q": "von Willebrand disease basics per p392?",
+    "a": "Autosomal dominant. Bleeding time always high; PT always normal; aPTT elevated half the time.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4009",
+    "category": "IM Mixed",
+    "q": "Main function of vWF per p392 (continued on p393)?",
+    "a": "Bridges platelet GpIb to underlying collagen (adhesion, not aggregation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 392,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=392"
+    }
+  },
+  {
+    "id": "s2med-4010",
+    "category": "IM Mixed",
+    "q": "Secondary vWF function per p393 (continued from p392)?",
+    "a": "Stabilizes factor VIII in plasma (why aPTT is only elevated half the time).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4011",
+    "category": "IM Mixed",
+    "q": "vWD presentation per p393?",
+    "a": "Always one platelet problem + one clotting factor problem. Platelet problem: epistaxis, bruising, petechiae (mild, cutaneous). Clotting factor problem: menorrhagia, excessive bleeding with tooth extraction, hemarthrosis (very rare in vWD; seen in hemophilia). Treatment: desmopressin (increases vWF release).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4012",
+    "category": "IM Mixed",
+    "q": "Vitamin K deficiency per p393?",
+    "a": "Increased PT + aPTT; bleeding time normal. In adults caused by chronic antibiotics knocking out colonic flora.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4013",
+    "category": "IM Mixed",
+    "q": "Sickle cell basics per p393?",
+    "a": "Glutamic acid to valine mutation on the beta chain; autosomal recessive. Nephrotic syndrome: FSGS. Dark urine: renal papillary necrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4014",
+    "category": "IM Mixed",
+    "q": "High-yield drugs causing agranulocytosis per p393?",
+    "a": "Clozapine, ganciclovir, propylthiouracil, methimazole, methotrexate, ticlopidine. It presents with mouth ulcers + fever.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4015",
+    "category": "IM Mixed",
+    "q": "Febrile neutropenia treatment per p393?",
+    "a": "Immediate broad-spectrum IV antibiotics, e.g., piperacillin/tazobactam; cefepime + vancomycin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4016",
+    "category": "IM Mixed",
+    "q": "Ganciclovir, PTU/methimazole, ticlopidine uses per p393?",
+    "a": "Ganciclovir: CMV (DNA polymerase inhibitor). PTU and methimazole: Graves. Ticlopidine: a P2Y12 (ADP receptor) blocking antiplatelet (as are clopidogrel, prasugrel, ticagrelor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4017",
+    "category": "IM Mixed",
+    "q": "Strongest indication for anticoagulation per p393?",
+    "a": "Prosthetic material in the heart / prosthetic valve (factoid in isolation, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4018",
+    "category": "IM Mixed",
+    "q": "'Hot feels cold; cold feels hot' per p393?",
+    "a": "Ciguatera toxicity: caused by eating reef fish (mahimahi, Spanish mackerel, etc.); the source says the toxin blocks sodium channels.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
+  },
+  {
+    "id": "s2med-4019",
+    "category": "IM Mixed",
+    "q": "No atopy history + meaty fish in a questionable location + dyspnea and allergic-like reaction per p393?",
+    "a": "Scombroid, not seafood allergy: histidine decarboxylase in decaying fish converts histidine to histamine (often misdiagnosed as allergy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 393,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=393"
+    }
   }
 ];

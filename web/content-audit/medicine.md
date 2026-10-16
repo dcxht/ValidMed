@@ -1343,3 +1343,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p390 (IM mixed bullets: gout, pseudogout, OA, RA) - 12 cards, ids s2med-3975 to 3986
 - Final mesalamine/"only NSAID considered DMARD" line garbled; flagged and omitted from answer.
 - Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
+
+## p391 (IM mixed bullets: RA, septic arthritis, JRA, SLE) - 11 cards, ids s2med-3987 to 3997
+
+## p392 (IM mixed bullets: SLE, ITP, bleeding disorders) - 12 cards, ids s2med-3998 to 4009
+
+## p393 (IM mixed bullets: vWD, SCD, agranulocytosis, fish toxins) - 10 cards, ids s2med-4010 to 4019
+- Ciguatera "blocks sodium channels" mechanism wording: source, flagged unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
