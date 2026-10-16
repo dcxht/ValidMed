@@ -1280,3 +1280,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p370 (Mg, acid/base, Winter formula) - 11 cards, ids s2med-3724 to 3734
 - Normal pCO2 "33-44 mmHg" as printed; unverified. Reference ranges are the source's.
 - Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.
+
+## p371 (salicylates, renal failure, pulm acid/base) - 9 cards, ids s2med-3735 to 3743
+
+## p372 (vomiting, diuretics, diarrhea, metformin, insulin) - 11 cards, ids s2med-3744 to 3754
+- Metformin "creatinine >=1.5" cutoff: source wording, flagged unverified (labeling may be eGFR-based). Expletives paraphrased out.
+- Somogyi phenomenon explanation continues on p373.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

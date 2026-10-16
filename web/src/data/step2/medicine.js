@@ -49932,5 +49932,249 @@ export default [
       "page": 370,
       "url": "/mehlman/hy-internal-medicine.pdf#page=370"
     }
+  },
+  {
+    "id": "s2med-3735",
+    "category": "IM Endocrine",
+    "q": "Salicylate toxicity first symptom per p371?",
+    "a": "Tinnitus (ear-ringing) is the most common first symptom. Diagnosis is salicylate (aspirin) toxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    },
+    "guideline": {
+      "text": "A narrative review of acute salicylate toxicity is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12491073/"
+    }
+  },
+  {
+    "id": "s2med-3736",
+    "category": "IM Endocrine",
+    "q": "Salicylate acid-base per p371?",
+    "a": "Mixed metabolic acidosis-respiratory alkalosis. Aspirin first causes isolated respiratory alkalosis (first 20 minutes) from direct upregulation of the brain's respiratory centers; then aspirin itself (salicylic acid) causes a metabolic acidosis that wins, so pH ultimately goes low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3737",
+    "category": "IM Endocrine",
+    "q": "Salicylate lab arrows per p371?",
+    "a": "First 20 mins: high pH, normal HCO3-, low CO2. After 20 mins: low pH, low HCO3-, low CO2, high anion gap. Salicylates are the S in MUDPILES. Sodium and potassium are normal (potassium must always be normal).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3738",
+    "category": "IM Endocrine",
+    "q": "Why bicarb is low in salicylate toxicity per p371?",
+    "a": "Not compensation: the kidney can't alter bicarb until at least 12-24 hours later. Bicarb is low because aspirin is an acid causing metabolic acidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3739",
+    "category": "IM Endocrine",
+    "q": "Chloride in salicylate toxicity per p371?",
+    "a": "A 2CK-level point: if forced to choose, pick low chloride, because anion gap = Na+ - (HCO3- + Cl-) and low chloride raises the gap. Na+ and Cl- can be abnormal insofar as bicarb is low and the gap is high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3740",
+    "category": "IM Endocrine",
+    "q": "Renal failure key disturbances per p371?",
+    "a": "Secondary hyperparathyroidism (low Ca2+, high PO4, high PTH, low 1,25-D3), plus high K+, low HCO3-, low pH, high anion gap (U in MUDPILES = uremia), Na+ variable.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3741",
+    "category": "IM Endocrine",
+    "q": "Why K+ rises and HCO3- falls in renal failure per p371?",
+    "a": "The kidney normally secretes potassium in the cortical collecting duct under aldosterone, so K+ rises when it fails. HCO3- is normally reabsorbed in the PCT and H+ secreted in the cortical collecting duct; without that, blood HCO3- and pH fall.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3742",
+    "category": "IM Endocrine",
+    "q": "Acute asthma and PE acid-base per p371?",
+    "a": "Low pCO2, no change in HCO3-, high pH: acute respiratory alkalosis, not acidosis. pCO2 only rises if the patient tires as an attack prolongs. Bicarb is unchanged because the kidney needs at least 12-24 hours. Metabolic disturbances are compensated instantly by breathing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3743",
+    "category": "IM Endocrine",
+    "q": "COPD and obstructive sleep apnea per p371?",
+    "a": "Chronic CO2 retainers: high pCO2, high HCO3- (bicarb rises to compensate), low pH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 371,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=371"
+    }
+  },
+  {
+    "id": "s2med-3744",
+    "category": "IM Endocrine",
+    "q": "Vomiting acid-base per p372?",
+    "a": "Low serum K+, low Cl-, high HCO3-, high CO2, high pH: hypokalemic, hypochloremic metabolic alkalosis. Vomitus contains lots of potassium, chloride and protons; volume depletion promotes distal K+ and H+ losses via RAAS. CO2 is retained to compensate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    },
+    "guideline": {
+      "text": "A core curriculum on metabolic alkalosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10947768/"
+    }
+  },
+  {
+    "id": "s2med-3745",
+    "category": "IM Endocrine",
+    "q": "Loop/thiazide diuretic abuse per p372?",
+    "a": "Same arrows as vomiting (low K+, low Cl-, high HCO3-, high CO2, high pH). Furosemide blocks the apical 2Cl-/K+/Na+ symporter in the thick ascending limb; volume loss upregulates RAAS and distal proton secretion: 'contraction alkalosis', with extra distal K+ secretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    }
+  },
+  {
+    "id": "s2med-3746",
+    "category": "IM Endocrine",
+    "q": "Thiazides and acid-base per p372?",
+    "a": "Block the Na+/Cl- symporter on the apical membrane of the early DCT, causing volume depletion and increased RAAS, thereby increased distal H+ and K+ secretion; same arrows as vomiting.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    }
+  },
+  {
+    "id": "s2med-3747",
+    "category": "IM Endocrine",
+    "q": "Diarrhea acid-base per p372?",
+    "a": "Low K+, high Cl-, low HCO3-, low pH, low CO2, normal anion gap. Stool is rich in potassium and bicarb; CO2 is blown off to compensate; chloride is high due to cellular shifts; the gap is normal because diarrhea isn't in MUDPILES.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    },
+    "guideline": {
+      "text": "A review of normal anion gap metabolic acidosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5757610/"
+    }
+  },
+  {
+    "id": "s2med-3748",
+    "category": "IM Endocrine",
+    "q": "Laxative abuse acid-base per p372?",
+    "a": "Same as diarrhea: low K+, high Cl-, low HCO3-, low CO2, low pH, normal anion gap.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    }
+  },
+  {
+    "id": "s2med-3749",
+    "category": "IM Endocrine",
+    "q": "Metformin basics per p372?",
+    "a": "MOA per the source: increases glycolysis and decreases gluconeogenesis. Only used for type II DM. Causes lactic acidosis; discontinue if bicarb is low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    }
+  },
+  {
+    "id": "s2med-3750",
+    "category": "IM Endocrine",
+    "q": "Metformin and creatinine per p372?",
+    "a": "Per the source: discontinue (or don't start) if creatinine is 1.5 or greater, as reduced renal function raises lactic acidosis risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    },
+    "guideline": {
+      "text": "The source's creatinine cutoff may differ from current labeling; FDA safety announcements on metformin are linked (title only). I did not verify the cutoff.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK409379/"
+    }
+  },
+  {
+    "id": "s2med-3751",
+    "category": "IM Endocrine",
+    "q": "Metformin vs insulin in pregnancy per p372?",
+    "a": "Choose insulin over metformin for glycemic control in pregnancy/intrapartum, as it allows optimal fine-tuning of glucose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    }
+  },
+  {
+    "id": "s2med-3752",
+    "category": "IM Endocrine",
+    "q": "Metformin and contrast per p372?",
+    "a": "Patient on metformin has a CT with contrast and creatinine rises; what would have prevented it: infusion of 0.9% saline / adequate IV hydration. The wrong answer is discontinuing metformin. Metformin raises lactic acidosis risk in renal insufficiency but doesn't itself cause renal insufficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    },
+    "guideline": {
+      "text": "A review of IV iodinated contrast in kidney disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7525144/"
+    }
+  },
+  {
+    "id": "s2med-3753",
+    "category": "IM Endocrine",
+    "q": "Insulin types per p372?",
+    "a": "The source says USMLE doesn't test the different insulin types and durations of action.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    }
+  },
+  {
+    "id": "s2med-3754",
+    "category": "IM Endocrine",
+    "q": "Somogyi phenomenon per p372 (continued on p373)?",
+    "a": "On 2CK: a diabetic wakes up with severe hyperglycemia and the answer is to decrease (not increase) the evening intermediate-acting insulin. It appears morning glucose is high because night insulin is insufficient (explanation continues on the next source page).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 372,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=372"
+    },
+    "guideline": {
+      "text": "A study of nocturnal hypoglycemia and morning hyperglycemia is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3582075/"
+    }
   }
 ];
