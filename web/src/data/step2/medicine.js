@@ -53569,5 +53569,599 @@ export default [
       "page": 396,
       "url": "/mehlman/hy-internal-medicine.pdf#page=396"
     }
+  },
+  {
+    "id": "s2med-4058",
+    "category": "IM Mixed",
+    "q": "MVA + paradoxical breathing (chest moves out with exhalation, in with inhalation) per p397?",
+    "a": "Flail chest.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4059",
+    "category": "IM Mixed",
+    "q": "MVA + rib fractures + underlying lung infiltrates + low O2 sats per p397?",
+    "a": "Pulmonary contusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4060",
+    "category": "IM Mixed",
+    "q": "MVA + no rib fractures + non-central chest pain + infiltrates under the painful area per p397?",
+    "a": "Pulmonary contusion. The source says 'white out of the lung' is buzzwordy and never shows up on actual NBME material.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4061",
+    "category": "IM Mixed",
+    "q": "MVA + infiltrates + low O2 sats, saline bolus worsens O2 sats per p397?",
+    "a": "Pulmonary contusion (contused lung is very sensitive to fluid overload).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4062",
+    "category": "IM Mixed",
+    "q": "MVA + bruising/pain over the sternum +/- rib fractures per p397?",
+    "a": "Myocardial contusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4063",
+    "category": "IM Mixed",
+    "q": "MVA + sternal bruising/pain + pulmonary infiltrates + O2 sats worse with saline per p397?",
+    "a": "Myocardial contusion: the source says 'bruising/pain over the sternum' wins if listed, even though the saline finding is HY for pulmonary contusion (on a 2CK NBME form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4064",
+    "category": "IM Mixed",
+    "q": "Key management point for myocardial contusion per p397?",
+    "a": "Check troponins and monitor for arrhythmia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4065",
+    "category": "IM Mixed",
+    "q": "Adult male + abdominal pain + alcohol use + diffuse pulmonary infiltrates + low O2 sats per p397?",
+    "a": "ARDS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4066",
+    "category": "IM Mixed",
+    "q": "Required pO2/FiO2 for ARDS per p397?",
+    "a": "<300.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4067",
+    "category": "IM Mixed",
+    "q": "Treatment of ARDS per p397?",
+    "a": "Low-tidal-volume mechanical ventilation (prevents barotrauma) + increase PEEP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4068",
+    "category": "IM Mixed",
+    "q": "Random ventilator question where an answer is wanted per p397?",
+    "a": "'Increase PEEP' is almost always right (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4069",
+    "category": "IM Mixed",
+    "q": "Improving O2 sats on a ventilator: next best step per p397?",
+    "a": "Wean from the ventilator.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4070",
+    "category": "IM Mixed",
+    "q": "Thyroid dysfunction in a ventilated patient per p397?",
+    "a": "Euthyroid sick syndrome: normal TSH, normal T4, low T3, high reverse T3 (the source says cortisol decreases peripheral T4-to-T3 conversion, shunting to reverse T3).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4071",
+    "category": "IM Mixed",
+    "q": "What is reverse T3 per p397?",
+    "a": "An inactive form of T3. If T4 rises (e.g., Graves), reverse T3 should rise because T4 converts to both T3 and reverse T3; it is also high in euthyroid sick syndrome (with T3 low).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4072",
+    "category": "IM Mixed",
+    "q": "25F + intermittent bloody diarrhea for 3 months + intermittent fever + weight loss per p397?",
+    "a": "IBD (Crohn or UC).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4073",
+    "category": "IM Mixed",
+    "q": "Treatment of Crohn and UC per p397?",
+    "a": "The source says USMLE wants oral sulfasalazine (or mesalamine) before oral steroids; for perianal Crohn, topical agents or enemas can be used; the NBME will not make you pick oral vs topical. Surgery can be done for UC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 397,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=397"
+    }
+  },
+  {
+    "id": "s2med-4074",
+    "category": "IM Mixed",
+    "q": "UC + high bilirubin + high ALP per p398?",
+    "a": "Primary sclerosing cholangitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4075",
+    "category": "IM Mixed",
+    "q": "Red shins + Crohn per p398?",
+    "a": "Erythema nodosum (type III hypersensitivity; panniculitis, inflammation of subcutaneous fat, not a rash).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4076",
+    "category": "IM Mixed",
+    "q": "Crater with necrotic debris on the forearm + UC per p398?",
+    "a": "Pyoderma gangrenosum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4077",
+    "category": "IM Mixed",
+    "q": "IBD + eczematoid plaque on forehead + sore joints per p398?",
+    "a": "Psoriatic arthritis. HLA-B27: PAIR (Psoriasis, Ankylosing spondylitis, IBD, Reactive arthritis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4078",
+    "category": "IM Mixed",
+    "q": "IBD + back pain per p398?",
+    "a": "Sacroiliitis (or ankylosing spondylitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4079",
+    "category": "IM Mixed",
+    "q": "Biopsy in Crohn vs UC per p398?",
+    "a": "Crohn: non-caseating granulomas, transmural. UC: these findings are not seen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4080",
+    "category": "IM Mixed",
+    "q": "Vesicles anywhere on the body (not limited to extensors) + Celiac per p398?",
+    "a": "Dermatitis herpetiformis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4081",
+    "category": "IM Mixed",
+    "q": "Biopsy of dermatitis herpetiformis per p398?",
+    "a": "IgA deposition at the dermal papillae.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4082",
+    "category": "IM Mixed",
+    "q": "Small bowel biopsy in Celiac per p398?",
+    "a": "Flattening of intestinal villi.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4083",
+    "category": "IM Mixed",
+    "q": "Diagnosis of Celiac per p398?",
+    "a": "IgA anti-tissue transglutaminase, anti-gliadin (the source also lists anti-endomysial).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4084",
+    "category": "IM Mixed",
+    "q": "After positive Celiac antibodies, next best step per p398?",
+    "a": "Duodenal biopsy (the source says it sounds wrong but is what USMLE wants).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4085",
+    "category": "IM Mixed",
+    "q": "Weird Celiac factoid per p398?",
+    "a": "Increased risk of T cell lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4086",
+    "category": "IM Mixed",
+    "q": "Small bowel biopsy in lactose intolerance per p398?",
+    "a": "Normal villi.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4087",
+    "category": "IM Mixed",
+    "q": "Diagnosis of lactose intolerance per p398?",
+    "a": "Hydrogen breath test or decreased stool pH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4088",
+    "category": "IM Mixed",
+    "q": "Vague vignette (Celiac vs lactose intolerance) in a young adult with zero prior symptoms per p398?",
+    "a": "Lactose intolerance (can be adult-onset).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4089",
+    "category": "IM Mixed",
+    "q": "PAS-positive macrophages in the lamina propria + arthritis per p398?",
+    "a": "Whipple disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4090",
+    "category": "IM Mixed",
+    "q": "AIDS, CD4 47, confluent ulcers on colonoscopy per p398?",
+    "a": "CMV colitis. Confluent means linear: CMV = linear ulcers; HSV = punched-out ulcers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4091",
+    "category": "IM Mixed",
+    "q": "Treatment and toxicity of CMV drug per p398?",
+    "a": "Ganciclovir (DNA polymerase inhibitor); toxicity is neutropenia (mouth ulcers + fever).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4092",
+    "category": "IM Mixed",
+    "q": "Treatment and toxicity of herpes drug per p398?",
+    "a": "Acyclovir; toxicity is nephrotoxicity (crystal nephropathy; acyclovir stones not visible on CT).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4093",
+    "category": "IM Mixed",
+    "q": "Cause of hereditary angioedema per p398?",
+    "a": "C1 esterase inhibitor deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4094",
+    "category": "IM Mixed",
+    "q": "Treatment for hereditary angioedema per p398?",
+    "a": "Danazol (synthetic androgen receptor partial agonist that makes the liver produce more C1 esterase inhibitor); continues on p399.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 398,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=398"
+    }
+  },
+  {
+    "id": "s2med-4095",
+    "category": "IM Mixed",
+    "q": "Drugs to avoid in hereditary angioedema per p399?",
+    "a": "ACE inhibitors (can cause angioedema).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4096",
+    "category": "IM Mixed",
+    "q": "Familial thyroid cancer per p399?",
+    "a": "Medullary (even without other MEN 2A/2B features): apple-green birefringence on Congo red from amyloid deposition; serum calcitonin high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4097",
+    "category": "IM Mixed",
+    "q": "Calcitonin mechanism per p399?",
+    "a": "Inhibits osteoclast activity. It is not the opposite of PTH and does not put calcium back into bone; it only caps the calcium that can resorb out of bone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4098",
+    "category": "IM Mixed",
+    "q": "Most common thyroid cancer per p399?",
+    "a": "Papillary: spreads lymphatically; papillary structure and psammoma bodies on LM (do not worry about buzzwords like Orphan Annie nuclei).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4099",
+    "category": "IM Mixed",
+    "q": "Follicular carcinoma per p399?",
+    "a": "Just thyroid follicles on biopsy; a cold nodule like other thyroid cancers (a hot nodule with increased uptake is toxic adenoma); spreads hematogenously.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4100",
+    "category": "IM Mixed",
+    "q": "Hashimoto + thyroid cancer + no other histology per p399?",
+    "a": "Thyroid lymphoma (autoimmune disease raises non-Hodgkin lymphoma risk).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4101",
+    "category": "IM Mixed",
+    "q": "MEN1 per p399?",
+    "a": "Pituitary, pancreas, parathyroid (MEN1 gene; chromosome 11).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4102",
+    "category": "IM Mixed",
+    "q": "MEN2A per p399?",
+    "a": "Parathyroid, medullary thyroid carcinoma, pheochromocytoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4103",
+    "category": "IM Mixed",
+    "q": "MEN2B per p399?",
+    "a": "Medullary thyroid carcinoma, pheochromocytoma, mucosal neuromas, Marfanoid body habitus ('oid' means looks like but is not).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4104",
+    "category": "IM Mixed",
+    "q": "Riedel thyroiditis per p399?",
+    "a": "Fibrosis of the thyroid that can extend into adjacent structures (e.g., esophagus) and resemble anaplastic carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4105",
+    "category": "IM Mixed",
+    "q": "52M + abdominal mass + weight loss + biopsy with lymphocytes and interspersed macrophages per p399?",
+    "a": "Burkitt lymphoma. The source says in Western countries it is usually intra-abdominal, and newer African studies show a growing share of intra-abdominal Burkitt.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4106",
+    "category": "IM Mixed",
+    "q": "Burkitt translocation per p399?",
+    "a": "t(8;14); USMLE also wants t(2;8) and t(8;22).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4107",
+    "category": "IM Mixed",
+    "q": "Burkitt gene per p399?",
+    "a": "c-myc, a transcription factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4108",
+    "category": "IM Mixed",
+    "q": "CML translocation per p399?",
+    "a": "t(9;22), the Philadelphia chromosome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4109",
+    "category": "IM Mixed",
+    "q": "Product of t(9;22) per p399?",
+    "a": "The bcr/abl fusion tyrosine kinase (the source wording is 'bcr/abl tyrosine kinase inhibitor', which I did not verify; imatinib is the tyrosine kinase inhibitor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4110",
+    "category": "IM Mixed",
+    "q": "Treatment of CML per p399?",
+    "a": "Imatinib (tyrosine kinase inhibitor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
+  },
+  {
+    "id": "s2med-4111",
+    "category": "IM Mixed",
+    "q": "Side effect of imatinib per p399?",
+    "a": "Fluid retention (edema).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 399,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=399"
+    }
   }
 ];

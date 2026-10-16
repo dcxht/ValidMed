@@ -1360,3 +1360,14 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p396 (IM mixed bullets: encephalitis, crypto, IgA deficiency, PJP) - 11 cards, ids s2med-4047 to 4057
 - PJP steroid A-a gradient >35 cutoff: source, not verified against current guidelines.
 - Mobile QA (320x740, local vite preview build, not live): all 38 cards ox=false off=false bad=0.
+
+## p397 (IM mixed bullets: chest trauma, ARDS, IBD) - 16 cards, ids s2med-4058 to 4073
+- Sulfasalazine/mesalamine before steroids for Crohn/UC and "increase PEEP almost always right": source wording, not verified.
+
+## p398 (IM mixed bullets: IBD extraintestinal, Celiac, CMV, HAE) - 21 cards, ids s2med-4074 to 4094
+- "Acyclovir stones not visible on CT" and Whipple/CMV ulcer morphology: source, not verified.
+
+## p399 (IM mixed bullets: HAE, thyroid cancers, MEN, Burkitt, CML) - 17 cards, ids s2med-4095 to 4111
+- "bcr/abl tyrosine kinase inhibitor" wording: source error likely, card rewritten as fusion tyrosine kinase, flagged unverified.
+- "Hashimoto + cancer = thyroid lymphoma", Burkitt Western intra-abdominal claim: source, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 54 cards ox=false off=false bad=0.
