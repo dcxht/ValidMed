@@ -558,4 +558,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. Two source figures extracted and shown as figure cards: extraocular palsy diagram A/B/C (peds-p121-extraocular-palsies.png) and orbital cellulitis photo (peds-p121-orbital-cellulitis.png).
 - Notes verified against StatPearls CN III, CN IV, CN VI, Orbital Cellulitis and a PMC hordeolum review (fetched text checked for: ptosis/ophthalmoplegia, head tilt to opposite side, lateral rectus weakness, postseptal definition, IV therapy, chemosis, warm compresses).
 - Left un-noted (not verified): Staph aureus as most common orbital cellulitis cause, sinus origin, "medical emergency" wording, hordeolum sweat gland/oil duct, any age.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 11 cards ox=false off=false bad=0; both figure cards render and answers fit.
