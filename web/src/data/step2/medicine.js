@@ -17537,5 +17537,254 @@ export default [
       "text": "A review of intestinal amebiasis pathogenesis is linked; I did not verify the text. I did not verify the ulcer location; the source says small bowel.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC100155/"
     }
+  },
+  {
+    "id": "s2med-1314",
+    "category": "IM Gastro",
+    "q": "Entamoeba histolytica treatment per p144-145?",
+    "a": "Metronidazole. Iodoquinol kills the intraluminal parasite.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls on E. histolytica infection is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557718/"
+    }
+  },
+  {
+    "id": "s2med-1315",
+    "category": "IM Gastro",
+    "q": "Cryptosporidium parvum presentation per p145?",
+    "a": "Watery diarrhea in a person who went to Mexico. Appears as acid-fast cysts (same stain as TB).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=145"
+    },
+    "img": "/mehlman/figures/med-p145-01.jpg",
+    "imgAlt": "Stained stool smear showing several round pink-purple oocysts on a blue background",
+    "guideline": {
+      "text": "The CDC clinical care page for Cryptosporidium is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/cryptosporidium/hcp/clinical-care/index.html"
+    }
+  },
+  {
+    "id": "s2med-1316",
+    "category": "IM Gastro",
+    "q": "Cryptosporidium treatment per p145?",
+    "a": "Self-limiting in immunocompetent persons: supportive care. Chronic diarrhea in HIV: nitazoxanide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=145"
+    },
+    "guideline": {
+      "text": "The CDC clinical care page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/cryptosporidium/hcp/clinical-care/index.html"
+    }
+  },
+  {
+    "id": "s2med-1317",
+    "category": "IM Gastro",
+    "q": "Giardia presentation per p145?",
+    "a": "Steatorrhea in a person who went to Mexico: bloating and extremely foul-smelling stool that floats, from malabsorptive diarrhea. One NBME question says 'foul-smelling watery diarrhea with bloating' (9 of 10 times it isn't described as watery).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls on giardiasis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513239/"
+    }
+  },
+  {
+    "id": "s2med-1318",
+    "category": "IM Gastro",
+    "q": "Giardia acquisition per p145?",
+    "a": "Fresh water lakes / scuba diving: an NBME question has a woman scuba diving in Mexico who gets foul-smelling stools with bloating (people can dive in fresh water lakes too).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2med-1319",
+    "category": "IM Gastro",
+    "q": "Giardia morphology per p145-146?",
+    "a": "Flagellated protozoan. USMLE wants both the cyst image and the flagellated trophozoite image.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 145,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=145"
+    },
+    "img": "/mehlman/figures/med-p145-02.jpg",
+    "imgAlt": "Light microscopy of an oval Giardia cyst in stool",
+    "guideline": {
+      "text": "The CDC Giardia clinical care page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/giardia/hcp/clinical-care/"
+    }
+  },
+  {
+    "id": "s2med-1320",
+    "category": "IM Gastro",
+    "q": "Giardia trophozoite and treatment per p146?",
+    "a": "Trophozoite form is the flagellated image. Treatment: metronidazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "img": "/mehlman/figures/med-p146-01.jpg",
+    "imgAlt": "Stained Giardia trophozoite with two nuclei and flagella",
+    "guideline": {
+      "text": "The CDC Giardia clinical care page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/giardia/hcp/clinical-care/"
+    }
+  },
+  {
+    "id": "s2med-1321",
+    "category": "IM Gastro",
+    "q": "Anthelmintic drug big picture per p146?",
+    "a": "Know routes of acquisition for nematodes, not exact drug-organism pairs. Bendazoles (e.g., mebendazole) act on microtubules (tubulin) and pyrantel pamoate causes helminth paralysis; these are the two nematode agents. Praziquantel (cestodes and trematodes) causes helminth paralysis. Albendazole is the odd one out for neurocysticercosis (Taenia solium; cestode).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "A StatPearls page on anthelmintic agents and a praziquantel mechanism paper are linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK548602/"
+    }
+  },
+  {
+    "id": "s2med-1322",
+    "category": "IM Gastro",
+    "q": "Ascaris and Enterobius per p146?",
+    "a": "Ascaris lumbricoides: ingested; giant roundworm; intestinal obstruction. Enterobius vermicularis: ingested; perianal itching and positive tape test in children.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2med-1323",
+    "category": "IM Gastro",
+    "q": "Angiostrongylus and Trichinella per p146?",
+    "a": "Angiostrongylus: ingested via raw slugs/snails; eosinophilic meningitis. Trichinella spiralis: ingested via pork or bear meat; fever, periorbital edema, myalgias (trichinosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "CDC pages on angiostrongyliasis and trichinellosis symptoms are linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/trichinellosis/symptoms/index.html"
+    }
+  },
+  {
+    "id": "s2med-1324",
+    "category": "IM Gastro",
+    "q": "Strongyloides per p146?",
+    "a": "Acquired through soil/feet. Intestinal obstruction plus pulmonary symptoms (travels to the lungs via blood, up the respiratory tree, then is swallowed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "The CDC clinical overview of Strongyloides is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/strongyloides/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2med-1325",
+    "category": "IM Gastro",
+    "q": "Hookworms per p146?",
+    "a": "Ancylostoma duodenale and Necator americanus, acquired through soil/feet. Cause microcytic anemia (decreased hemoglobin) by sucking blood in the GI tract.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2med-1326",
+    "category": "IM Gastro",
+    "q": "Cestodes per p146?",
+    "a": "Diphyllobothrium latum: fish tapeworm. Taenia solium: pork tapeworm; cysticercosis (muscle pain/cysts) and neurocysticercosis ('Swiss cheese' brain or soap bubbles in the ventricles).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "The 2017 IDSA/ASTMH neurocysticercosis guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5889044/"
+    }
+  },
+  {
+    "id": "s2med-1327",
+    "category": "IM Gastro",
+    "q": "Echinococcus granulosus per p146?",
+    "a": "Hydatid worm / dog tapeworm; acquired from dogs; liver cysts (hydatid cyst disease). Do not biopsy (anaphylaxis); treatment is surgical removal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "A review of anaphylaxis risk in percutaneous cystic echinococcosis treatment is linked; I did not verify the text. The review title suggests the risk may be overstated, so the 'do not biopsy' answer is the source's exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3114754/"
+    }
+  },
+  {
+    "id": "s2med-1328",
+    "category": "IM Gastro",
+    "q": "Schistosoma per p146?",
+    "a": "Penetrates skin when swimming; snail is host. S. mansoni/japonicum can cause portal hypertension (once on NBME). S. haematobium causes squamous cell carcinoma of the bladder (source spells it 'Schistoma').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "A paper on schistosomiasis and bladder cancer is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC88908/"
+    }
+  },
+  {
+    "id": "s2med-1329",
+    "category": "IM Gastro",
+    "q": "Paragonimus westermani per p146?",
+    "a": "Ingested from crab meat or crayfish; lung fluke; most common cause of hemoptysis in the world (source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "The CDC clinical overview of paragonimiasis is linked; I did not verify the hemoptysis claim.",
+      "url": "https://www.cdc.gov/paragonimus/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2med-1330",
+    "category": "IM Gastro",
+    "q": "Clonorchis sinensis per p146?",
+    "a": "Ingested from fish; causes cholangiocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 146,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=146"
+    },
+    "guideline": {
+      "text": "A review on Clonorchis sinensis and cholangiocarcinoma is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12040606/"
+    }
   }
 ];

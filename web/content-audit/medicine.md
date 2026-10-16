@@ -616,3 +616,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p144 (GI viral and protozoal infections) - 7 cards, ids s2med-1307 to 1313
 - Figures inspected (CMV owl eye cell; E. histolytica with ingested RBCs). Source says flask-shaped ulcers in small bowel; unverified. Page ends mid-protozoa, continues p145.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p145 (E. histolytica tx, Cryptosporidium, Giardia) - 6 cards, ids s2med-1314 to 1319
+- Figures inspected (crypto oocysts, Giardia cyst).
+
+## p146 (Giardia trophozoite, helminths) - 11 cards, ids s2med-1320 to 1330
+- Figure inspected (trophozoite). Unverified: hydatid 'do not biopsy' (literature may differ), hemoptysis claim.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
