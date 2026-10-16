@@ -18695,5 +18695,352 @@ export default [
       "page": 154,
       "url": "/mehlman/hy-internal-medicine.pdf#page=154"
     }
+  },
+  {
+    "id": "s2med-1402",
+    "category": "IM Heme/Onc",
+    "q": "vWD vignette: 17-year-old girl per p155?",
+    "a": "Nosebleeds plus heavy periods, or bruising plus history of excessive bleeding with tooth extraction: one platelet problem plus one clotting factor problem. About 8/10 vWD questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1403",
+    "category": "IM Heme/Onc",
+    "q": "vWD vignette with an isolated problem per p155?",
+    "a": "About 1/10: only an isolated platelet or clotting-factor problem (e.g., bleeding with tooth extraction), but a parent has nosebleeds. vWD is autosomal dominant, linking the two.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1404",
+    "category": "IM Heme/Onc",
+    "q": "vWD vignette with a finger cut per p155?",
+    "a": "About 1/10: a cut on the finger that takes longer to heal than normal, plus heavy menses, normal platelets, normal PT and PTT, and bleeding time not mentioned. The slow-healing cut is their way of saying bleeding time is increased. Normal platelets rule out ITP, so vWD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1405",
+    "category": "IM Heme/Onc",
+    "q": "Ristocetin cofactor assay per p155?",
+    "a": "Abnormal in vWD (abnormal if platelet adhesion is impaired).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1406",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of vWD per p155?",
+    "a": "Desmopressin (DDAVP), which can in theory increase functional vWF levels.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1407",
+    "category": "IM Heme/Onc",
+    "q": "Hemophilia A and B per p155?",
+    "a": "Deficiency of factors VIII and IX, respectively. Both X-linked recessive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1408",
+    "category": "IM Heme/Onc",
+    "q": "Hemophilia lab pattern per p155?",
+    "a": "Isolated increased PTT; bleeding time and PT normal. VIII and IX are in the intrinsic pathway; extrinsic unaffected; platelets unrelated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1409",
+    "category": "IM Heme/Onc",
+    "q": "Hemophilia USMLE presentations per p155?",
+    "a": "1) School-age boy with hemarthrosis and isolated increased PTT (maybe a maternal uncle who died from minor head trauma). 2) Neonate with excessive bleeding at circumcision.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1410",
+    "category": "IM Heme/Onc",
+    "q": "Hemophilia treatment per p155?",
+    "a": "A: DDAVP and factor VIII replacement. B: factor IX replacement (DDAVP doesn't work).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1411",
+    "category": "IM Heme/Onc",
+    "q": "Hemophilia A with persistently increased PTT despite factor VIII per p155?",
+    "a": "Check for antibodies against factor VIII (resistance to exogenous replacement).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    },
+    "guideline": {
+      "text": "International recommendations on acquired hemophilia A are linked; this concerns a different condition, and I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2663620/"
+    }
+  },
+  {
+    "id": "s2med-1412",
+    "category": "IM Heme/Onc",
+    "q": "Vitamin K deficiency labs per p155?",
+    "a": "Increased PT and PTT, no change in bleeding time (platelets unaffected).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1413",
+    "category": "IM Heme/Onc",
+    "q": "Role of vitamin K per p155?",
+    "a": "Cofactor for gamma-glutamyl carboxylase, which activates clotting factors II, VII, IX, X and anti-clotting proteins C and S.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    },
+    "guideline": {
+      "text": "StatPearls on vitamin K deficiency is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK536983/"
+    }
+  },
+  {
+    "id": "s2med-1414",
+    "category": "IM Heme/Onc",
+    "q": "Vitamin K deficiency: neonate presentation per p155?",
+    "a": "Bleeding from the umbilical stump, with or without retinal hemorrhages (can sound like shaken-baby syndrome, but umbilical stump bleeding is highly buzzy for vitamin K deficiency).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1415",
+    "category": "IM Heme/Onc",
+    "q": "Adult on 6 weeks of broad-spectrum antibiotics now needing lower warfarin dose per p155?",
+    "a": "Depletion of bowel normal flora (colonic flora synthesize vitamin K). Warfarin inhibits vitamin K function, so if vitamin K is decreased, less warfarin is needed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1416",
+    "category": "IM Heme/Onc",
+    "q": "DIC: what and what triggers it per p155?",
+    "a": "Runaway consumption of clotting factors and platelets, precipitated by trauma, sepsis, amniotic fluid embolism, treatment of AML.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    },
+    "guideline": {
+      "text": "The 2025 ISTH update on DIC definition and scoring is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40216223/"
+    }
+  },
+  {
+    "id": "s2med-1417",
+    "category": "IM Heme/Onc",
+    "q": "DIC lab pattern per p155?",
+    "a": "Increased bleeding time, PT, PTT, D-dimer and plasmin activity; decreased fibrinogen, platelets and clotting factors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1418",
+    "category": "IM Heme/Onc",
+    "q": "Why those DIC labs per p155?",
+    "a": "Fibrinogen is converted to fibrin (decreased). Plasmin breaks down fibrin, so more fibrin means more plasmin. D-dimer is fibrin degradation products, increased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1419",
+    "category": "IM Heme/Onc",
+    "q": "Bleeding from catheter/IV sites per p155?",
+    "a": "Nine times out of ten DIC. One 2CK Surgery question has dilutional thrombocytopenia from many blood transfusions presenting the same.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1420",
+    "category": "IM Heme/Onc",
+    "q": "DIC blood smear per p155?",
+    "a": "Schistocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 155,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=155"
+    }
+  },
+  {
+    "id": "s2med-1421",
+    "category": "IM Heme/Onc",
+    "q": "HUS triad per p156?",
+    "a": "1) Thrombocytopenia, 2) hemolytic anemia with schistocytes, 3) renal insufficiency with or without hematuria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    },
+    "guideline": {
+      "text": "A narrative review of Shiga toxin-associated HUS is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7076748/"
+    }
+  },
+  {
+    "id": "s2med-1422",
+    "category": "IM Heme/Onc",
+    "q": "Thrombocytopenia plus schistocytosis per p156?",
+    "a": "Microangiopathic hemolytic anemia (MAHA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2med-1423",
+    "category": "IM Heme/Onc",
+    "q": "HUS mechanism per p156?",
+    "a": "EHEC O157:H7 (Shiga-like toxin) and Shigella (Shiga toxin) damage renal microvasculature; platelets plug damaged endothelium, protrude into the lumen and shear passing RBCs into schistocytes (helmet cells).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    },
+    "img": "/mehlman/figures/med-p156-01.jpg",
+    "imgAlt": "Blood smear with schistocytes (helmet and fragmented cells)"
+  },
+  {
+    "id": "s2med-1424",
+    "category": "IM Heme/Onc",
+    "q": "TTP pentad per p156?",
+    "a": "HUS triad (thrombocytopenia, schistocytes, renal insufficiency) plus fever and neurologic signs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2med-1425",
+    "category": "IM Heme/Onc",
+    "q": "TTP mechanism per p156?",
+    "a": "Antibodies against, or mutation in, ADAMTS13, a metalloproteinase that breaks down vWF multimers; platelet aggregates plug renal microvasculature and shear RBCs into schistocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2med-1426",
+    "category": "IM Heme/Onc",
+    "q": "Stroke-like presentation in a young woman per p156?",
+    "a": "TTP; they just want 'schistocytes' as the answer (Step 1 NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2med-1427",
+    "category": "IM Heme/Onc",
+    "q": "TTP treatment per p156?",
+    "a": "Plasmapheresis (2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    },
+    "guideline": {
+      "text": "The ISTH TTP treatment guidelines are linked; I did not verify details, but current guidance also uses immunosuppression such as steroids. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32914526/"
+    }
+  },
+  {
+    "id": "s2med-1428",
+    "category": "IM Heme/Onc",
+    "q": "Sickle cell genetics per p156?",
+    "a": "Autosomal recessive; glutamic acid to valine missense mutation on the beta-chain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    },
+    "img": "/mehlman/figures/med-p156-02.jpg",
+    "imgAlt": "Blood smear with sickled red cells"
+  },
+  {
+    "id": "s2med-1429",
+    "category": "IM Heme/Onc",
+    "q": "Sickle cell trait vs anemia per p156?",
+    "a": "Carrier status (one mutation) is sickle cell trait, less severe than sickle cell anemia (two mutations).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2med-1430",
+    "category": "IM Heme/Onc",
+    "q": "Why does sickle cell exist per NBME per p156?",
+    "a": "Heterozygote advantage: confers resistance to malaria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 156,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=156"
+    },
+    "guideline": {
+      "text": "A paper on protection from P. falciparum in children with sickle cell trait is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3335384/"
+    }
   }
 ];

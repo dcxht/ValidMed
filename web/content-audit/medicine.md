@@ -645,3 +645,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p154 (PT/PTT, ITP, vWD) - 13 cards, ids s2med-1389 to 1401
 - Notes: ITP treatment list omits TPO agonists (ASH 2019). Unverified: 50% PTT and accessory-spleen heuristics.
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p155 (vWD, hemophilia, vitamin K, DIC) - 19 cards, ids s2med-1402 to 1420
+## p156 (HUS, TTP, sickle cell) - 10 cards, ids s2med-1421 to 1430
+- Notes: TTP treatment lists plasmapheresis only (current guidance adds immunosuppression). Unverified: ristocetin detail, 8/10 and 1/10 vignette frequencies.
+- Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
