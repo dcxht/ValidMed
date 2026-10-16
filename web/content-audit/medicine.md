@@ -602,3 +602,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p140 (GI thromboses, appendicitis, angiodysplasia, diverticulosis start) - 10 cards, ids s2med-1267 to 1276
 - Unverified: 'Murphy's triad' naming, consent/ethics answers, >50% diverticulosis figure.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p141 (diverticular disease, sigmoid volvulus, impaction, hemorrhoids) - 7 cards, ids s2med-1277 to 1283
+- Figure inspected (coffee bean sign).
+
+## p142 (anorectal, GI bacterial infections 1) - 13 cards, ids s2med-1284 to 1296
+- The source text repeats 'bloody diarrhea after beef' in the Shigella row; carded only under EHEC, Shigella carded as bloody diarrhea + HUS.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

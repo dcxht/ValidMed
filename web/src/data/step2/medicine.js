@@ -17008,5 +17008,287 @@ export default [
       "page": 140,
       "url": "/mehlman/hy-internal-medicine.pdf#page=140"
     }
+  },
+  {
+    "id": "s2med-1277",
+    "category": "IM Gastro",
+    "q": "Diverticulosis mechanism and bleeding per p141?",
+    "a": "Lifelong increased straining herniates mucosa + submucosa through the muscularis propria of the colonic wall. Usually asymptomatic but can bleed. Diverticular bleed is the most common cause of painless rectal bleeding in the elderly, followed by colorectal cancer, then angiodysplasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2med-1278",
+    "category": "IM Gastro",
+    "q": "Colovesical fistula per p141?",
+    "a": "Passage between colon and bladder (new 2CK NBME) causing UTI and mixed flora in the urine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=141"
+    },
+    "guideline": {
+      "text": "A case report on colovesical fistula from diverticulitis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10713247/"
+    }
+  },
+  {
+    "id": "s2med-1279",
+    "category": "IM Gastro",
+    "q": "Diverticulitis per p141?",
+    "a": "Inflamed diverticulum, usually sigmoid. LLQ pain + fever in a patient over 60; one of the highest-yield USMLE diagnoses. Diagnose with contrast CT of the abdomen. Do not scope acutely (perforation); colonoscopy weeks to months after antibiotics to rule out malignancy. Perforated diverticulitis can require colectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=141"
+    },
+    "guideline": {
+      "text": "The AGA clinical practice update on diverticulitis is linked; I did not verify the text, including routine follow-up colonoscopy.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7878331/"
+    }
+  },
+  {
+    "id": "s2med-1280",
+    "category": "IM Gastro",
+    "q": "Sigmoid volvulus per p141?",
+    "a": "Patient over 75 with 2-3 days of constipation and abdominal pain. Rotation around its mesentery causes 'dilation of sigmoid colon' (NBME answer). Abdominal X-ray shows the coffee bean sign (one of the highest-yield USMLE images). NBME treatment: sigmoidoscopy-guided insertion of rectal tube.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=141"
+    },
+    "img": "/mehlman/figures/med-p141-01.jpg",
+    "imgAlt": "Abdominal X-ray with a hugely dilated sigmoid loop forming a coffee bean shape",
+    "guideline": {
+      "text": "The WSES sigmoid volvulus consensus guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10186802/"
+    }
+  },
+  {
+    "id": "s2med-1281",
+    "category": "IM Gastro",
+    "q": "Fecal impaction per p141?",
+    "a": "Patient over 70 with chronic constipation and hard stool palpated in the rectal vault. Can cause fecal incontinence and paradoxical overflow diarrhea leading to encopresis. Idiopathic, worsened by opioids. Treatment: enema and laxatives.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2med-1282",
+    "category": "IM Gastro",
+    "q": "Hemorrhoids presentation per p141?",
+    "a": "Bleeding described as blood on the toilet paper or dripping into the toilet bowl. Hemorrhoids are technically normal anal canal vascular cushions. Internal (above the pectinate line): painless bleeding. External (below the pectinate line): painful. Risk factors: pregnancy and cirrhosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=141"
+    },
+    "guideline": {
+      "text": "The ASCRS hemorrhoid guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38294832/"
+    }
+  },
+  {
+    "id": "s2med-1283",
+    "category": "IM Gastro",
+    "q": "Hemorrhoid diagnosis per p141?",
+    "a": "2CK NBME: rectal exam followed by anoscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 141,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2med-1284",
+    "category": "IM Gastro",
+    "q": "Hemorrhoid management per p142?",
+    "a": "Often self-resolve; conservative care with sitz bath, NSAIDs and increased dietary fiber. If forced to choose surgery for severe cases: rubber band ligation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The ASCRS hemorrhoid guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38294832/"
+    }
+  },
+  {
+    "id": "s2med-1285",
+    "category": "IM Gastro",
+    "q": "Anal fissure per p142?",
+    "a": "Young adult with painful bowel movements +/- blood; refuses rectal exam because of pain; sometimes a skin tag. Mechanism can be increased anal sphincter tone. 2CK Surg treatment: sitz bath; if forced to choose a medication, topical nitrates or diltiazem.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "An Italian anal fissure guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10576345/"
+    }
+  },
+  {
+    "id": "s2med-1286",
+    "category": "IM Gastro",
+    "q": "Pilonidal cyst/abscess per p142?",
+    "a": "Cystic mass at the superior gluteal cleft; contains hair; often from ingrown hairs. 2CK Surg treatment: incision and drainage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The ASCRS pilonidal disease guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30640830/"
+    }
+  },
+  {
+    "id": "s2med-1287",
+    "category": "IM Gastro",
+    "q": "Perianal abscess per p142?",
+    "a": "Painful, erythematous mass near the anal verge; higher risk in Crohn and diabetes. 2CK Surg treatment: incision and drainage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "StatPearls on perianal abscess is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459167/"
+    }
+  },
+  {
+    "id": "s2med-1288",
+    "category": "IM Gastro",
+    "q": "Anal malignancy next step per p142?",
+    "a": "2CK Surg: cancer at the anal verge, next best step is colonoscopy; excision is wrong (presumably to assess extent first).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2med-1289",
+    "category": "IM Gastro",
+    "q": "ETEC per p142?",
+    "a": "Enterotoxigenic E. coli causes traveler's diarrhea: brown/green diarrhea after travel, classically Mexico or Middle East.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The CDC Yellow Book traveler's diarrhea page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html"
+    }
+  },
+  {
+    "id": "s2med-1290",
+    "category": "IM Gastro",
+    "q": "EHEC per p142?",
+    "a": "Enterohemorrhagic E. coli: bloody diarrhea 1-3 days after eating beef. Shiga-like toxin can cause hemolytic uremic syndrome (renal dysfunction, schistocytosis, thrombocytopenia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "A review of Shiga toxin-producing E. coli and HUS is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37819955/"
+    }
+  },
+  {
+    "id": "s2med-1291",
+    "category": "IM Gastro",
+    "q": "Shigella per p142?",
+    "a": "Bloody diarrhea; can also cause HUS via shiga toxin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The STEC/HUS review is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37819955/"
+    }
+  },
+  {
+    "id": "s2med-1292",
+    "category": "IM Gastro",
+    "q": "Salmonella per p142?",
+    "a": "Food poisoning from S. typhimurium and S. enteritidis. Bloody diarrhea 1-3 days after poultry, eggs or reptile exposure (new NBME: pet lizard).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The CDC reptile and amphibian page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+    }
+  },
+  {
+    "id": "s2med-1293",
+    "category": "IM Gastro",
+    "q": "Typhoid fever per p142?",
+    "a": "S. typhi: rose spots on the abdomen in a prostrated patient; diarrhea or constipation. Reservoir is humans, not chickens/reptiles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    }
+  },
+  {
+    "id": "s2med-1294",
+    "category": "IM Gastro",
+    "q": "Cholera vs ETEC per p142?",
+    "a": "V. cholerae: 'liters and liters' of rice-water stool after travel, fecal-oral from contaminated food/water. Both ETEC and cholera vignettes can give 8-12 stools daily; the difference is the emphasis on very high volume. Death is from severe dehydration and electrolyte disturbance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The CDC cholera treatment page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/cholera/treatment/"
+    }
+  },
+  {
+    "id": "s2med-1295",
+    "category": "IM Gastro",
+    "q": "Cholera treatment per p142?",
+    "a": "Oral rehydration; IV hydration if low BP or altered mental status.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The CDC cholera treatment page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/cholera/treatment/"
+    }
+  },
+  {
+    "id": "s2med-1296",
+    "category": "IM Gastro",
+    "q": "Vibrio parahaemolyticus per p142?",
+    "a": "Doesn't cause cholera-like profuse watery diarrhea; asked once on NBME in a patient who ate sushi (acquired from sushi and shellfish).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 142,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=142"
+    },
+    "guideline": {
+      "text": "The CDC Vibrio page is linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/vibrio/about/index.html"
+    }
   }
 ];
