@@ -18047,5 +18047,177 @@ export default [
       "text": "A StatPearls page on anthelmintic agents is linked; I did not verify the text.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK548602/"
     }
+  },
+  {
+    "id": "s2med-1350",
+    "category": "IM Heme/Onc",
+    "q": "Iron deficiency anemia vs thalassemia: lab pattern per p149?",
+    "a": "IDA: low Hb, low MCV, low serum iron, low ferritin, normal Hb electrophoresis, pale RBCs. Thalassemia: low Hb, low MCV, normal serum iron and ferritin; alpha has normal electrophoresis, beta has increased HbA2 + HbF; target cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 149,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=149"
+    },
+    "guideline": {
+      "text": "A meta-analysis of indices separating thalassemia from iron deficiency is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26536581/"
+    }
+  },
+  {
+    "id": "s2med-1351",
+    "category": "IM Heme/Onc",
+    "q": "Microcytic anemia in a 32-year-old woman, next step per p149?",
+    "a": "Check serum iron and ferritin. Thalassemia is often misdiagnosed as IDA; if iron and ferritin are normal, it's thalassemia and next best step is hemoglobin electrophoresis. Most IDA is in menstruating women even when menses are not heavy (2CK says so explicitly, Dx is still IDA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 149,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2med-1352",
+    "category": "IM Heme/Onc",
+    "q": "Pregnant woman with microcytic anemia given iron for 3 weeks with no improvement per p149?",
+    "a": "Thalassemia (microcytic anemia despite iron supplementation means iron and ferritin are normal). Next best step: hemoglobin electrophoresis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 149,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2med-1353",
+    "category": "IM Heme/Onc",
+    "q": "RDW in IDA vs thalassemia per p149?",
+    "a": "Increased RDW means IDA in 9/10 questions (sensitive, not specific). Thalassemia: decreased/normal RDW. If RDW isn't increased you can rule out IDA, but don't automatically say IDA when it is increased. One CMS FM form 4 question has increased RDW with normal ferritin, where IDA is wrong; the source calls it essentially an erratum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 149,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2med-1354",
+    "category": "IM Heme/Onc",
+    "q": "Blood smear in IDA per p149?",
+    "a": "Pale RBCs (increased central pallor), not dramatic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 149,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=149"
+    },
+    "img": "/mehlman/figures/med-p149-01.jpg",
+    "imgAlt": "Blood smear with pale red cells showing increased central pallor"
+  },
+  {
+    "id": "s2med-1355",
+    "category": "IM Heme/Onc",
+    "q": "Target cells per p149?",
+    "a": "Thalassemia (alpha or beta); about 14/15 USMLE questions mentioning target cells. One NBME question has target cells in a splenectomy patient, as a background finding that doesn't help answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 149,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2med-1356",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of IDA per p150?",
+    "a": "Oral iron, always preferred over parenteral (IV) or IM iron; 'parenteral iron' is basically always a distractor. Oral iron causes constipation and black stools. Iron, aluminum (antacid) and verapamil all cause constipation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2med-1357",
+    "category": "IM Heme/Onc",
+    "q": "Transfusional siderosis per p150?",
+    "a": "Secondary hemochromatosis: iron overload from repeated blood transfusions (e.g., beta-thalassemia major); each RBC transfusion contains iron. Treat with chelators (deferoxamine). Thalassemia itself: transfusions if severe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    },
+    "guideline": {
+      "text": "The Thalassaemia International Federation transfusion-dependent thalassemia guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9345633/"
+    }
+  },
+  {
+    "id": "s2med-1358",
+    "category": "IM Heme/Onc",
+    "q": "What is thalassemia, and how many alleles per p150?",
+    "a": "Impaired synthesis of the alpha- or beta-globin chain. Alpha can have 1-4 alleles mutated; beta has 2. Skip obscure intermediate types. USMLE focuses on adults, who are misdiagnosed as IDA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2med-1359",
+    "category": "IM Heme/Onc",
+    "q": "Adult alpha-thalassemia by number of mutations per p150?",
+    "a": "1 mutation: asymptomatic, incidental microcytic anemia (e.g., on antenatal screening). 2 mutations: symptoms like IDA but no improvement with iron. 3 (HbH disease, beta4 tetramer): sick kid. 4 (Hb Barts, gamma4 tetramer): fatal in utero.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    },
+    "guideline": {
+      "text": "GeneReviews on alpha-thalassemia is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1435/"
+    }
+  },
+  {
+    "id": "s2med-1360",
+    "category": "IM Heme/Onc",
+    "q": "Beta-thalassemia minor vs major per p150?",
+    "a": "Minor: 1 mutation, adult presenting like IDA (similar to 2 alpha mutations). Major: 2 mutations, sick child similar to 3 alpha mutations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2med-1361",
+    "category": "IM Heme/Onc",
+    "q": "Hemoglobin electrophoresis in alpha vs beta thalassemia per p150?",
+    "a": "Beta: increased HbA2 (alpha2/delta2) and HbF (alpha2/gamma2). Alpha (1 or 2 mutations): normal electrophoresis. Exceedingly HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2med-1362",
+    "category": "IM Heme/Onc",
+    "q": "Sick child with thalassemia: facial and organ findings per p150?",
+    "a": "Chipmunk facies/skull and hepatosplenomegaly, due to increased extramedullary hematopoiesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    },
+    "img": "/mehlman/figures/med-p150-02.jpg",
+    "imgAlt": "Skull x-ray with hair-on-end pattern in a thalassemia patient"
+  },
+  {
+    "id": "s2med-1363",
+    "category": "IM Heme/Onc",
+    "q": "Target cells image on p150?",
+    "a": "Target cells: thalassemia (alpha or beta).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 150,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=150"
+    },
+    "img": "/mehlman/figures/med-p150-01.jpg",
+    "imgAlt": "Blood smear with target cells"
   }
 ];

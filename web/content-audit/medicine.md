@@ -630,3 +630,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p148 (GI pharm basics 2) - 6 cards, ids s2med-1344 to 1349
 - Conflict: CAP first-line vs current ACG H. pylori guidance (unverified details).
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p149 (IDA vs thalassemia) - 6 cards, ids s2med-1350 to 1355
+## p150 (thalassemia) - 8 cards, ids s2med-1356 to 1363
+- Unverified: RDW heuristics, target-cell frequency claims.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
