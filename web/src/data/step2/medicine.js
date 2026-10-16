@@ -17534,7 +17534,7 @@ export default [
     "img": "/mehlman/figures/med-p144-02.jpg",
     "imgAlt": "Light microscopy of an amoeba with ingested red blood cells, a vesicular nucleus and a central endosome labeled",
     "guideline": {
-      "text": "A review of intestinal amebiasis pathogenesis is linked; I did not verify the text. Flask-shaped colonic ulcers are the usual description I did not verify; the source says small bowel.",
+      "text": "A review of intestinal amebiasis pathogenesis is linked; I did not verify the text. I did not verify the ulcer location; the source says small bowel.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC100155/"
     }
   }
