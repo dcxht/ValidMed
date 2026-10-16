@@ -906,3 +906,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: ITP steroids always (ASH: observation for no or minor bleeding in children; steroid courses 7 days or less). Expletive paraphrased out of card text.
 - Left unverified: string sign, relative CRC risk, EN/uveitis, PSC and pyoderma links, PJ colonoscopy step, C. diff bloody vs watery, ITP GpIIb/IIIa mechanism.
 - Mobile QA (320x740, local vite preview build, not live): all 7 cards ox=false off=false bad=0.
+
+## p173 (Bullet points: vWD, hemophilia, lyonization, ITP splenectomy) - 8 cards, ids s2peds-2502 to 2509
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (von Willebrand Disease, Hemophilia), a PubMed abstract on skewed X-inactivation in hemophilia A carriers, and the ICIS splenectomy registry update.
+- Source conflicts, source answer kept with caution note: vWD "autosomal dominant" (type 3 is recessive); "aggregation normal" (RIPA abnormal in some subtypes). Expletive context on the page was not carried into card text.
+- Left unverified: bleeding time always increased, aPTT value patterns, DDAVP for hemophilia A and not B, factor VIII inhibitor aPTT value, splenectomy most effective.
+- Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.

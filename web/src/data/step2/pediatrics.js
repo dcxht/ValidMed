@@ -35654,5 +35654,125 @@ export default [
       "text": "Current caution: the ASH 2019 guideline suggests observation rather than corticosteroids, and recommends observation rather than IVIG, in children with newly diagnosed ITP and no or minor bleeding; when treatment is needed for mucosal bleeding, steroid courses of 7 days or less are recommended. Source answer kept.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
     }
+  },
+  {
+    "id": "s2peds-2502",
+    "category": "Peds vignettes",
+    "q": "17F with heavy periods, occasional epistaxis, slow bleeding after a finger cut, normal PT, normal aPTT and normal platelet aggregation studies. Diagnosis per p173?",
+    "a": "von Willebrand disease (autosomal dominant). Bleeding time is always increased because vWF bridges platelet GpIb to collagen; the stabilizing effect on factor VIII is secondary, so aPTT is normal in about half of questions (often near the upper limit, e.g. 38 or 43 s).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "StatPearls: aPTT may be prolonged because of increased factor VIII degradation. I did not verify 'bleeding time always increased' or the exam-frequency observations. The source's blanket 'autosomal dominant' omits type 3, which StatPearls lists as autosomal recessive.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459222/"
+    }
+  },
+  {
+    "id": "s2peds-2503",
+    "category": "Peds vignettes",
+    "q": "Why are platelet aggregation studies normal in vWD, and what is the mix of bleeding per p173?",
+    "a": "vWD has nothing to do with GpIIb/IIIa, which mediates platelet-platelet aggregation; vWF affects adherence to collagen. Bleeding is a mix of a platelet problem (cutaneous, mild: epistaxis, petechiae) and a clotting factor problem (more severe: bleeding after tooth extraction, menorrhagia).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "StatPearls notes ristocetin-induced platelet aggregation is abnormal in some subtypes (e.g. type 2B hypersensitive). I did not verify the source's claim that aggregation is normal in general.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459222/"
+    }
+  },
+  {
+    "id": "s2peds-2504",
+    "category": "Peds vignettes",
+    "q": "Treatment of vWD per p173?",
+    "a": "Desmopressin (DDAVP), which stimulates release of vWF from endothelial cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "StatPearls: desmopressin causes vWF release from endothelial cells; used for type 1 and most type 2 (not 2B); type 3 does not respond.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459222/"
+    }
+  },
+  {
+    "id": "s2peds-2505",
+    "category": "Peds vignettes",
+    "q": "5M with hemarthrosis. Diagnosis until proven otherwise, and key facts per p173?",
+    "a": "Hemophilia A or B (choose A if both are listed and you cannot tell them apart; A is far more common). Both X-linked recessive with isolated aPTT increase; A is factor VIII deficiency, B (Christmas disease) is factor IX deficiency. Hemarthrosis is classic for hemophilia but rare in vWD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "StatPearls: hemophilia A and B are factor VIII and IX deficiencies encoded on the X chromosome; joint and muscle bleeding is the hallmark in severe disease.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK551607/"
+    }
+  },
+  {
+    "id": "s2peds-2506",
+    "category": "Peds vignettes",
+    "q": "Treatment of hemophilia A versus B per p173?",
+    "a": "Hemophilia A: DDAVP and factor VIII replacement. Hemophilia B: factor IX replacement only; DDAVP cannot be used.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "I did not verify the DDAVP statements in the StatPearls page I read; desmopressin is generally limited to mild hemophilia A.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK551607/"
+    }
+  },
+  {
+    "id": "s2peds-2507",
+    "category": "Peds vignettes",
+    "q": "5M with hemophilia A, several factor VIII transfusions with increasingly poor effect and an aPTT now over 120 s. Diagnosis per p173?",
+    "a": "Antibodies against factor VIII (inhibitors), which occur with repeated treatments.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "StatPearls Hemophilia page covers factor VIII inhibitors as a treatment complication. I did not verify the specific aPTT value.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK551607/"
+    }
+  },
+  {
+    "id": "s2peds-2508",
+    "category": "Peds vignettes",
+    "q": "5F with hemophilia A; the question asks how this is possible. Answer per p173?",
+    "a": "Lyonization (skewed X-inactivation); you will never see an X-linked recessive disorder in a female unless the question's point is lyonization.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "PubMed: heritable skewed X-chromosome inactivation leads to hemophilia A expression in heterozygous females.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17342157/"
+    }
+  },
+  {
+    "id": "s2peds-2509",
+    "category": "Peds vignettes",
+    "q": "12M with epistaxis, bleeding time 9 minutes and platelets 50,000. Most effective way to decrease recurrence per p173?",
+    "a": "Splenectomy. Steroids come first, but splenectomy is still the most effective at decreasing recurrence.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 173,
+      "url": "/mehlman/hy-pediatrics.pdf#page=173"
+    },
+    "guideline": {
+      "text": "A registry study of splenectomy in children with ITP (ICIS) reports long-term outcomes; I did not verify the 'most effective' claim or recurrence rates.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7604652/"
+    }
   }
 ];
