@@ -51093,5 +51093,500 @@ export default [
       "page": 378,
       "url": "/mehlman/hy-internal-medicine.pdf#page=378"
     }
+  },
+  {
+    "id": "s2med-3834",
+    "category": "IM Mixed",
+    "q": "Treatment of cystitis per p379 (continued from p378)?",
+    "a": "Nitrofurantoin (need not be pregnant).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3835",
+    "category": "IM Mixed",
+    "q": "Waiter tip position in a child per p379?",
+    "a": "Upper brachial plexus injury (C5/6): Erb-Duchenne palsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3836",
+    "category": "IM Mixed",
+    "q": "Claw hand per p379?",
+    "a": "Lower brachial plexus (C8/T1): Klumpke palsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3837",
+    "category": "IM Mixed",
+    "q": "Pronated arm + wrist-drop, or midshaft humerus fracture per p379?",
+    "a": "Radial nerve injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3838",
+    "category": "IM Mixed",
+    "q": "Supracondylar humerus fracture per p379?",
+    "a": "Median nerve injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3839",
+    "category": "IM Mixed",
+    "q": "Surgical neck of humerus fracture per p379?",
+    "a": "Axillary nerve injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3840",
+    "category": "IM Mixed",
+    "q": "Medial epicondylar injury per p379?",
+    "a": "Ulnar nerve injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3841",
+    "category": "IM Mixed",
+    "q": "Weakened biceps + loss of sensation of the lateral forearm per p379?",
+    "a": "Musculocutaneous nerve injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3842",
+    "category": "IM Mixed",
+    "q": "Paresthesias + pain after a burn or casting per p379?",
+    "a": "Compartment syndrome. Diagnosis: measure compartment pressure. Treatment: fasciotomy of the uncast limb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3843",
+    "category": "IM Mixed",
+    "q": "Heavy box lift + severe low back pain + muscle spasm, no radiculopathy per p379?",
+    "a": "Lumbosacral strain only. Do not x-ray. Treatment: NSAIDs + exercise as tolerated; bedrest is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3844",
+    "category": "IM Mixed",
+    "q": "Heavy box lift + severe low back pain + radiculopathy per p379?",
+    "a": "Herniated disc; yes, x-ray (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3845",
+    "category": "IM Mixed",
+    "q": "Point tenderness over a vertebra per p379?",
+    "a": "Older woman, younger patient on steroids, or a patient with autoimmune disease (recognize they are on steroids): osteoporosis (compression fracture). IV drug user: epidural abscess.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3846",
+    "category": "IM Mixed",
+    "q": "'Step-off' of one vertebra relative to another per p379?",
+    "a": "Spondylolisthesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3847",
+    "category": "IM Mixed",
+    "q": "Back pain worse in the morning, better through the day, male 20s-40s per p379?",
+    "a": "Ankylosing spondylitis. Bamboo spine: ankylosing spondylitis. Diagnosis: x-ray of the sacroiliac joints.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3848",
+    "category": "IM Mixed",
+    "q": "Back pain worse standing or walking for long periods per p379?",
+    "a": "Lumbar spinal stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 379,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=379"
+    }
+  },
+  {
+    "id": "s2med-3849",
+    "category": "IM Mixed",
+    "q": "Radiculopathy down an arm per p380 (continued from p379)?",
+    "a": "Cervical disc herniation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3850",
+    "category": "IM Mixed",
+    "q": "Bilateral arm paresthesias in a rheumatoid arthritis patient per p380?",
+    "a": "Atlantoaxial subluxation; MR of the spine to diagnose. Before surgery in an RA patient: cervical CT or flexion/extension x-rays of the cervical spine to check for it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3851",
+    "category": "IM Mixed",
+    "q": "Back pain in an elderly patient with hypercalcemia per p380?",
+    "a": "Multiple myeloma or metastases. Back pain with a history of another cancer: metastases. Suspected spinal mets: MRI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3852",
+    "category": "IM Mixed",
+    "q": "Prostate cancer metastases per p380?",
+    "a": "Osteoblastic in long bones (diagnose with bone scan); for the spine do MRI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3853",
+    "category": "IM Mixed",
+    "q": "High hemoglobin +/- pruritus after a shower +/- plethora +/- splenomegaly per p380?",
+    "a": "Polycythemia vera. High hemoglobin + low EPO: polycythemia vera. Pruritus after a shower: basophilia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3854",
+    "category": "IM Mixed",
+    "q": "High hemoglobin + lung disease / low pO2 per p380?",
+    "a": "Secondary polycythemia (high EPO).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3855",
+    "category": "IM Mixed",
+    "q": "Polycythemia + hypercalcemia + smoker + red urine per p380?",
+    "a": "Renal cell carcinoma (paraneoplastic EPO + PTHrP).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3856",
+    "category": "IM Mixed",
+    "q": "Blurry vision, Raynaud, finger pain, or headache per p380?",
+    "a": "Hyperviscosity syndrome: Waldenstrom macroglobulinemia or polycythemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3857",
+    "category": "IM Mixed",
+    "q": "Hereditary spherocytosis per p380?",
+    "a": "Autosomal dominant; ankyrin, spectrin or band protein deficiency. Treatment: splenectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3858",
+    "category": "IM Mixed",
+    "q": "Treatment of ITP per p380?",
+    "a": "Steroids, then IVIG, then splenectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3859",
+    "category": "IM Mixed",
+    "q": "Hemochromatosis treatment per p380?",
+    "a": "Hereditary: serial phlebotomy. Secondary (transfusional siderosis): chelation (deferoxamine).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3860",
+    "category": "IM Mixed",
+    "q": "Viral infection + tinnitus + vertigo +/- neurosensory hearing loss per p380?",
+    "a": "Labyrinthitis. Viral infection + vertigo alone: vestibular neuritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3861",
+    "category": "IM Mixed",
+    "q": "Multiple sclerosis treatment per p380?",
+    "a": "Flares: IV steroids (IV methylprednisolone). Between flares: interferon-beta. Spasticity: baclofen (GABA-B receptor agonist). Incontinence: urge (hyperactive detrusor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3862",
+    "category": "IM Mixed",
+    "q": "New-onset murmur + fever per p380?",
+    "a": "Endocarditis till proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3863",
+    "category": "IM Mixed",
+    "q": "Empiric treatment of endocarditis per p380?",
+    "a": "Vancomycin or ampicillin/sulbactam, PLUS gentamicin (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 380,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=380"
+    }
+  },
+  {
+    "id": "s2med-3864",
+    "category": "IM Mixed",
+    "q": "Beta-lactam or cephalosporin + rash + renal issue per p381 (continued from p380)?",
+    "a": "Interstitial nephritis; WBCs (eosinophils) in the urine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3865",
+    "category": "IM Mixed",
+    "q": "Fixed splitting of S2 per p381?",
+    "a": "Atrial septal defect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3866",
+    "category": "IM Mixed",
+    "q": "Holosystolic murmur at the left sternal border per p381?",
+    "a": "With parasternal heave, palpable thrill, or a diastolic rumble: VSD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3867",
+    "category": "IM Mixed",
+    "q": "PDA murmurs per p381?",
+    "a": "To-and-fro murmur (on a 2CK NBME), pan-systolic-pan-diastolic murmur, continuous machinery-like murmur: PDA. Congenital rubella syndrome: PDA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3868",
+    "category": "IM Mixed",
+    "q": "Heart problem in a neonate of a mom with SLE per p381?",
+    "a": "Congenital third-degree heart block.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3869",
+    "category": "IM Mixed",
+    "q": "Heart problem in Williams syndrome per p381?",
+    "a": "Supravalvular aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3870",
+    "category": "IM Mixed",
+    "q": "Bicuspid aortic valve per p381?",
+    "a": "Aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3871",
+    "category": "IM Mixed",
+    "q": "Mid-systolic crescendo-decrescendo murmur and Valsalva per p381?",
+    "a": "Worse with Valsalva: HOCM. No change or softer with Valsalva: aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3872",
+    "category": "IM Mixed",
+    "q": "Mitral valve prolapse clues per p381?",
+    "a": "Myxomatous degeneration of the mitral valve; mid-systolic click. Marfan or Ehlers-Danlos: MVP or aortic regurgitation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3873",
+    "category": "IM Mixed",
+    "q": "Rheumatic heart disease per p381?",
+    "a": "Acutely (onset of Group A Strep infection): mitral regurgitation. Years later: mitral stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3874",
+    "category": "IM Mixed",
+    "q": "Late-peaking systolic murmur with ejection click per p381?",
+    "a": "Another way to describe aortic stenosis. Syncope + angina + dyspnea (SAD): aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3875",
+    "category": "IM Mixed",
+    "q": "Aortic regurgitation clues per p381?",
+    "a": "Bounding pulses + massively wide pulse pressure; brisk upstroke + precipitous downstroke of the pulse.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3876",
+    "category": "IM Mixed",
+    "q": "Dyspnea in pregnancy per p381?",
+    "a": "Second trimester: mitral stenosis. Late in pregnancy: peripartum cardiomyopathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3877",
+    "category": "IM Mixed",
+    "q": "Screening at age 50 per p381?",
+    "a": "Mammogram (every two years) + colonoscopy (every ten years), per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
+  },
+  {
+    "id": "s2med-3878",
+    "category": "IM Mixed",
+    "q": "Colon cancer in a first-degree relative per p381?",
+    "a": "Start screening at age 40 or ten years before the relative's diagnosis, whichever is earlier, and repeat every 5 years (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 381,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=381"
+    }
   }
 ];

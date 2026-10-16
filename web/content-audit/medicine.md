@@ -1309,3 +1309,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p378 (IM mixed bullets: BPH, UTI, dementia, Parkinsonism) - 12 cards, ids s2med-3822 to 3833
 - Exam one-liners from source; no external verification done.
 - Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.
+
+## p379 (IM mixed bullets: nerves, back pain) - 15 cards, ids s2med-3834 to 3848
+
+## p380 (IM mixed bullets: RA, MS, heme, endocarditis) - 15 cards, ids s2med-3849 to 3863
+
+## p381 (IM mixed bullets: murmurs, screening) - 15 cards, ids s2med-3864 to 3878
+- Screening ages/intervals (50, first-degree relative at 40): source, unverified, flagged in notes.
+- Mobile QA (320x740, local vite preview build, not live): all 45 cards ox=false off=false bad=0.
