@@ -13155,5 +13155,170 @@ export default [
       "text": "StatPearls on Nissen fundoplication is a reference; I did not verify the text.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK519521/"
     }
+  },
+  {
+    "id": "s2med-0994",
+    "category": "IM Gastro",
+    "q": "Severe GERD treatment per p108-109?",
+    "a": "Answer can be 'fundoplication' alone in a patient with severe GERD; also on Peds for an infant with severe GERD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=109"
+    },
+    "img": "/mehlman/figures/med-p109-01.jpg",
+    "imgAlt": "Diagram of Nissen fundoplication: stomach fundus wrapped around the lower esophagus",
+    "guideline": {
+      "text": "StatPearls on Nissen fundoplication is a reference; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519521/"
+    }
+  },
+  {
+    "id": "s2med-0995",
+    "category": "IM Gastro",
+    "q": "Pediatric GERD presentation per p109?",
+    "a": "Coughing up milk 2-3x daily. Not forceful/high-energy (that is pyloric stenosis); not bilious (duodenal atresia, annular pancreas); not choking or spitting up during the first feed (tracheoesophageal fistula).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=109"
+    },
+    "guideline": {
+      "text": "A joint NASPGHAN/ESPGHAN pediatric reflux guideline exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/"
+    }
+  },
+  {
+    "id": "s2med-0996",
+    "category": "IM Gastro",
+    "q": "Cause of pediatric GERD per p109?",
+    "a": "Immature lower esophageal sphincter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2med-0997",
+    "category": "IM Gastro",
+    "q": "Treatment of pediatric GERD per p109?",
+    "a": "Thickened feeds (adding dry rice to formula) and positional change before any PPI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=109"
+    },
+    "guideline": {
+      "text": "The NASPGHAN/ESPGHAN guideline is linked; I did not verify what it says about thickened feeds or rice.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/"
+    }
+  },
+  {
+    "id": "s2med-0998",
+    "category": "IM Gastro",
+    "q": "Barrett esophagus per p109?",
+    "a": "Metaplasia of the distal esophagus: non-keratinized stratified squamous epithelium becomes columnar epithelium with goblet cells (which secrete mucus). Sometimes called 'intestinal columnar epithelium' because the stomach has mucous neck (foveolar) cells, not goblet cells. Major risk factor for esophageal adenocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 109,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=109"
+    },
+    "img": "/mehlman/figures/med-p109-02.jpg",
+    "imgAlt": "Normal esophagus squamous epithelium beside Barrett's esophagus columnar epithelium with goblet cells",
+    "guideline": {
+      "text": "The updated ACG Barrett's esophagus guideline exists; I did not verify its definition wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10259184/"
+    }
+  },
+  {
+    "id": "s2med-0999",
+    "category": "IM Gastro",
+    "q": "Barrett esophagus on endoscopy per p110?",
+    "a": "Can look grossly red on upper endoscopy. Once visualized, the next best step is biopsy to confirm Barrett metaplasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=110"
+    },
+    "guideline": {
+      "text": "The ACG Barrett's esophagus guideline is linked; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10259184/"
+    }
+  },
+  {
+    "id": "s2med-1000",
+    "category": "IM Gastro",
+    "q": "Esophageal adenocarcinoma per p110?",
+    "a": "Affects the lower 1/3 of the esophagus. HY pathogenesis: GERD to Barrett esophagus to adenocarcinoma. Patient over 50 with history of GERD and either new-onset dysphagia to solids, or dysphagia to solids progressing to solids and liquids. 'New-onset' can be a 3-6-month history in a patient with a 10-20-year GERD history.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=110"
+    },
+    "img": "/mehlman/figures/med-p110-01.jpg",
+    "imgAlt": "Endoscopic view of an esophageal lesion"
+  },
+  {
+    "id": "s2med-1001",
+    "category": "IM Gastro",
+    "q": "Next step for dysphagia with alarm features per p110?",
+    "a": "2CK wants immediate endoscopy (not barium first). If the stem says endoscopy showed a stricture, the next best step is biopsy of the stricture.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=110"
+    },
+    "guideline": {
+      "text": "A clinical practice guideline on uninvestigated esophageal dysphagia exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6487990/"
+    }
+  },
+  {
+    "id": "s2med-1002",
+    "category": "IM Gastro",
+    "q": "Esophageal squamous cell carcinoma per p110?",
+    "a": "Affects the upper 2/3 of the esophagus. Biggest USMLE risk factors: heavy smoking and alcohol use. The source calls other risk factors (burns, chemicals, achalasia) nonsense for the exam. Patient over 50, heavy smoker/drinker, with new-onset solid dysphagia or dysphagia progressing to liquids. Immediate endoscopy, then biopsy of a stricture or lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=110"
+    },
+    "guideline": {
+      "text": "A meta-analysis on alcohol, tobacco and esophageal SCC risk exists; I did not verify its text. Caustic injury and achalasia are recognized risk factors in the literature I did not verify; the source's 'nonsense' is an exam heuristic.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK65955/"
+    }
+  },
+  {
+    "id": "s2med-1003",
+    "category": "IM Gastro",
+    "q": "Zenker diverticulum per p110?",
+    "a": "Outpouching of the esophagus above the cricopharyngeus muscle (just above the upper esophageal sphincter).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=110"
+    },
+    "img": "/mehlman/figures/med-p110-02.jpg",
+    "imgAlt": "Barium swallow showing a pharyngeal pouch (arrow) above the upper esophageal sphincter",
+    "guideline": {
+      "text": "StatPearls on Zenker diverticulum is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499996/"
+    }
+  },
+  {
+    "id": "s2med-1004",
+    "category": "IM Gastro",
+    "q": "Zenker diverticulum mechanisms per p110?",
+    "a": "Mechanisms listed on USMLE: cricopharyngeal muscle spasm, uncoordinated swallowing, dysphagia, increased oropharyngeal pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 110,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=110"
+    },
+    "guideline": {
+      "text": "A paper on pharyngeal pressure abnormalities in Zenker's diverticulum exists; I did not verify its text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499996/"
+    }
   }
 ];

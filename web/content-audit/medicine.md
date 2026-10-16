@@ -483,3 +483,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figure med-p108-01 inspected (hiatal hernia diagram).
 - Conflict: "operative repair is the treatment" for hiatal hernia vs observation of asymptomatic hernias. Unverified: 95%/5% split.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p109 (IM Gastro: fundoplication, pediatric GERD, Barrett) - 5 cards, ids s2med-0994 to 0998
+- Figures med-p109-01/02 inspected. Page ends mid-Barrett (biopsy step on p110).
+- Unverified: dry rice thickener, review texts.
+
+## p110 (IM Gastro: esophageal cancers, Zenker) - 6 cards, ids s2med-0999 to 1004
+- Figures med-p110-01/02 inspected; p110-01 placement ambiguous (neutral alt).
+- Conflict: SCC risk factors (burns/chemicals/achalasia called nonsense by source) vs literature.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
