@@ -4037,5 +4037,351 @@ export default [
       "text": "European Headache Federation recommendations on GCA exist; I did not verify the 9/10 pattern.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7079499/"
     }
+  },
+  {
+    "id": "s2med-0308",
+    "category": "IM Cardio",
+    "q": "Temporal arteritis and PMR per p34?",
+    "a": "Patients can get proximal muscle pain and stiffness: polymyalgia rheumatica (PMR). They do not always go together, but the association is HY. PMR has no raised CK and no proximal muscle weakness on exam (unlike polymyositis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "A 2016 update on GCA and PMR exists; I did not verify the CK statement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5101009/"
+    }
+  },
+  {
+    "id": "s2med-0309",
+    "category": "IM Cardio",
+    "q": "Jaw claudication per p34?",
+    "a": "Pain with chewing (temporal arteritis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2med-0310",
+    "category": "IM Cardio",
+    "q": "Highest yield point of temporal arteritis treatment per p34?",
+    "a": "Give steroids before biopsy to prevent blindness. An NBME has 'ischemic optic neuropathy' as the complication prevented. IV methylprednisolone is typically given since it is faster than oral prednisone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "StatPearls: because of the importance of preventing vision loss, ACR recommends IV methylprednisolone 500 to 1000 mg for 3 days, with oral prednisone 1 mg/kg/d as the alternative; skip lesions give false-negative biopsies.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459376/"
+    }
+  },
+  {
+    "id": "s2med-0311",
+    "category": "IM Cardio",
+    "q": "Steroid and biopsy timing answers on 2CK per p34?",
+    "a": "Scattered answers such as 'steroids now and then biopsy within 3 days' or 'IV methylprednisolone and biopsy within a week'; USMLE gives varied time frames.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2med-0312",
+    "category": "IM Cardio",
+    "q": "Easy temporal arteritis vignette asking next best step in diagnosis per p34?",
+    "a": "Biopsy (steroids are not part of the answer, since it asks for a diagnostic step).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2med-0313",
+    "category": "IM Cardio",
+    "q": "Thromboangiitis obliterans per p34?",
+    "a": "Aka Buerger disease; technically a vasculitis. Dry gangrene of fingers or toes, generally in a male over 30 who is a heavy smoker. Treatment is smoking cessation. Do not confuse with Berger disease (IgA nephropathy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "StatPearls on Buerger disease is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430858/"
+    }
+  },
+  {
+    "id": "s2med-0314",
+    "category": "IM Cardio",
+    "q": "Ascending aortitis per p34?",
+    "a": "Tertiary syphilis can cause ascending aortitis + aortic aneurysm, with 'tree-barking' of the aorta.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "A paper says syphilitic aortitis is a cause of aneurysm of the tubular ascending aorta; I did not verify 'tree-barking'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31951962/"
+    }
+  },
+  {
+    "id": "s2med-0315",
+    "category": "IM Cardio",
+    "q": "DVT presentation and risk factors per p34?",
+    "a": "Unilateral thigh or lower leg swelling with risk factors such as post-surgery, prolonged sedentation, OCP use, history of thrombotic disorders (Factor V Leiden, prothrombin mutation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "CDC lists risk factors for blood clots.",
+      "url": "https://www.cdc.gov/blood-clots/risk-factors/index.html"
+    }
+  },
+  {
+    "id": "s2med-0316",
+    "category": "IM Cardio",
+    "q": "Virchow triad per p34?",
+    "a": "1) Venous stasis (post-surgery sedentation), 2) hypercoagulable state (estrogen use, malignancy), 3) endothelial damage (smoking).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "CDC lists these risk factors without naming the triad; the triad itself is textbook.",
+      "url": "https://www.cdc.gov/blood-clots/risk-factors/index.html"
+    }
+  },
+  {
+    "id": "s2med-0317",
+    "category": "IM Cardio",
+    "q": "OCPs in smokers over 35 per p34?",
+    "a": "Contraindicated because estrogen causes a hypercoagulable state: 1) upregulates fibrinogen; 2) upregulates factors Va and VIIIa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "Current caution: CDC US MEC (combined hormonal contraceptives) is the current reference for smoking and age; I did not verify the exact category thresholds, and the mechanism text is the source's.",
+      "url": "https://www.cdc.gov/contraception/hcp/usmec/combined-hormonal-contraceptives.html"
+    }
+  },
+  {
+    "id": "s2med-0318",
+    "category": "IM Cardio",
+    "q": "Nephrotic syndrome and DVT per p34?",
+    "a": "USMLE loves it as a cause of DVT: loss of antithrombin III in the urine causes a hypercoagulable state.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2med-0319",
+    "category": "IM Cardio",
+    "q": "Antiphospholipid syndrome per p34?",
+    "a": "DVTs despite a paradoxically high PTT. May or may not be due to SLE. Antibodies against phospholipids cause in vivo platelet clumping and increased clot initiation, but disrupt the in vitro PTT assay, giving a high PTT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "A review of isolated aPTT prolongation exists; I did not verify the mechanism wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10305031/"
+    }
+  },
+  {
+    "id": "s2med-0320",
+    "category": "IM Cardio",
+    "q": "DVT major danger and exam sign per p34?",
+    "a": "DVT can embolize to the lungs causing PE (acute shortness of breath and tachycardia; death with a saddle embolus). Homan sign (calf pain with dorsiflexion of the foot) can mean DVT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "A paper on the significance of Homan's sign exists; I did not read it. The source answer is kept; many references treat the sign as unreliable (I did not verify).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10526599/"
+    }
+  },
+  {
+    "id": "s2med-0321",
+    "category": "IM Cardio",
+    "q": "DVT diagnosis and treatment per p34?",
+    "a": "Duplex venous ultrasound of the leg/calf; treatment is heparin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    },
+    "guideline": {
+      "text": "A review of diagnosis and management of DVT exists; I did not verify the details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1126050/"
+    }
+  },
+  {
+    "id": "s2med-0322",
+    "category": "IM Cardio",
+    "q": "Prophylactic vs therapeutic heparin per p34?",
+    "a": "2CK cares: prophylactic dose is lower, used perioperatively in patients with venous disease/stasis or high risk; for full-blown DVT give the therapeutic (higher) dose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 34,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2med-0323",
+    "category": "IM Cardio",
+    "q": "2CK heparin dose questions per p35?",
+    "a": "1) A man going to surgery with a history of venous stasis: 'prophylactic heparin dose'; therapeutic dose is wrong. 2) A man already on prophylactic heparin who gets a DVT: 'heparin', meaning a therapeutic (higher) dose now for the active DVT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2med-0324",
+    "category": "IM Cardio",
+    "q": "DVT and stroke per p35?",
+    "a": "DVT can rarely cause stroke if an ASD is present (paradoxical embolus). Low yield, but shows up.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2med-0325",
+    "category": "IM Cardio",
+    "q": "Post-op migratory thrombophlebitis per p35?",
+    "a": "Thrombophlebitis means inflammation of a vein. Post-surgery it is usually due to changes in hemostasis and coagulability: pink/red painful lesions appearing asymmetrically on the limbs within days of surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2med-0326",
+    "category": "IM Cardio",
+    "q": "Trousseau sign of malignancy per p35?",
+    "a": "Migratory thrombophlebitis, classically due to head of pancreas adenocarcinoma, but can be seen with adenocarcinomas in general (e.g., pulmonary).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2med-0327",
+    "category": "IM Cardio",
+    "q": "Catheter-associated septic thrombophlebitis per p35?",
+    "a": "2CK form: patient who had a catheter in develops a 4-cm indurated, painful, fluctuant cord in the arm (a vein). Answer: excision of vein.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    },
+    "guideline": {
+      "text": "A paper on surgical resection for suppurative thrombophlebitis exists; I did not verify the 4-cm detail.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6883314/"
+    }
+  },
+  {
+    "id": "s2med-0328",
+    "category": "IM Cardio",
+    "q": "Pelvic septic thrombophlebitis per p35?",
+    "a": "Postpartum endometritis (fever + tender lower abdomen) with persistent fever >48 hours despite antibiotics; endometritis raises risk of local infective clots in the ovarian veins.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    },
+    "guideline": {
+      "text": "A review 'Septic Pelvic Thrombophlebitis: Diagnosis and Management' exists; I did not verify the 48-hour wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1581461/"
+    }
+  },
+  {
+    "id": "s2med-0329",
+    "category": "IM Cardio",
+    "q": "Postpartum sepsis not fitting pelvic septic thrombophlebitis per p35?",
+    "a": "The 2CK answer is 'puerperal sepsis', a more general term that can include many causes (including PST).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    },
+    "guideline": {
+      "text": "StatPearls on postpartum infection is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560804/"
+    }
+  },
+  {
+    "id": "s2med-0330",
+    "category": "IM Cardio",
+    "q": "Superficial thrombophlebitis per p35?",
+    "a": "Painful palpable cord in the ankle that may or may not track up to the knee, in patients with venous insufficiency. Answer: subcutaneous enoxaparin; compression stockings are the first step in venous insufficiency, but active ST or DVT needs heparin as first step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2med-0331",
+    "category": "IM Cardio",
+    "q": "Hyperchylomicronemia per p35?",
+    "a": "Autosomal recessive; deficiency of lipoprotein lipase or apolipoprotein C-II. Increased chylomicrons + triglycerides; pancreatitis (abdominal, not chest, pain); xanthomas; plasma appears 'creamy'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    },
+    "guideline": {
+      "text": "A review of familial chylomicronemia syndrome exists; I did not verify 'creamy'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40234111/"
+    }
+  },
+  {
+    "id": "s2med-0332",
+    "category": "IM Cardio",
+    "q": "Hypercholesterolemia (familial) per p35?",
+    "a": "Autosomal dominant; deficiency (heterozygous) or absence (homozygous) of the LDL receptor or Apo B-100. Increased LDL; xanthomas. Heterozygotes: LDL usually 300-400 with MI/death in 30s-40s (answer: deficiency of functional LDL receptor). Homozygotes: LDL usually 700-1000 with MI in teens (answer: absence of functional LDL receptor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    },
+    "guideline": {
+      "text": "A genotype-phenotype cohort of heterozygous and homozygous FH exists; I did not verify the LDL ranges.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10624405/"
+    }
+  },
+  {
+    "id": "s2med-0333",
+    "category": "IM Cardio",
+    "q": "Hypertriglyceridemia (familial) per p35?",
+    "a": "Autosomal dominant; increased hepatic production of VLDL. Increased triglycerides; pancreatitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 35,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=35"
+    }
   }
 ];

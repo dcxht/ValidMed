@@ -144,3 +144,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (renal angiogram PAN, PNG converted to JPEG).
 - Source cautions: PAN spares lungs (not verified); Takayasu "always subclavian" and age (not verified).
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p34 (IM Cardio: GCA tail, Buerger, aortitis, DVT) - 15 cards, ids s2med-0308 to 0322
+- Inspected page text; no figures. Page starts mid-GCA bullets.
+- Source cautions: OCP smoking age rule (CDC US MEC is the reference; thresholds not verified); Homan sign reliability (not verified); steroid timing (ACR guidance via StatPearls supports prompt steroids).
+- Unverified: tree-barking, APS mechanism wording, Virchow triad exact examples.
+
+## p35 (IM Cardio: DVT tail, thrombophlebitis types, familial dyslipidemias) - 11 cards, ids s2med-0323 to 0333
+- Inspected page text; no figures (table converted to three cards). Page starts mid-DVT bullets.
+- Unverified: 48-hour PST wording, 4-cm fluctuant cord, LDL ranges, creamy plasma.
+- Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.
