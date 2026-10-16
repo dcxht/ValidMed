@@ -791,3 +791,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p217 (scabies, bed bugs, anthrax) - 4 cards, ids s2med-2179 to 2182
 - Caution: anthrax ciprofloxacin-only vs CDC 2023 regimens; not verified. Ivermectin in HIV disseminated scabies not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p218 (tularemia, hot tub folliculitis, measles) - 4 cards, ids s2med-2183 to 2186
+- Unverified: doxycycline-first for tularemia, diabetic risk for Pseudomonas folliculitis, SSPE reactivation wording.
+
+## p219 (rubella, mumps, parvovirus B19) - 7 cards, ids s2med-2187 to 2193
+- Unverified: "bone marrow biopsy if IgM not listed" exam tip; parental reassurance wording. Source expletive paraphrased.
+
+## p220 (roseola, eczema herpeticum, dermatitis herpetiformis) - 4 cards, ids s2med-2194 to 2197
+- Unverified: roseola 2-3 day fever figure.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

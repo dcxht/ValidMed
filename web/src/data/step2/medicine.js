@@ -28526,5 +28526,228 @@ export default [
       "text": "The CDC 2023 anthrax guideline is linked; I did not verify the ciprofloxacin-only wording. Source answer stays.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10651316/"
     }
+  },
+  {
+    "id": "s2med-2183",
+    "category": "IM Derm",
+    "q": "Tularemia per p218?",
+    "a": "Caused by Francisella tularensis. Cutaneous tularemia can present as ulcerative lesions; it can also cause bilateral atypical pneumonia; rabbits are the classic source. Treatment: doxycycline.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=218"
+    },
+    "img": "/mehlman/figures/med-p218-01.jpg",
+    "imgAlt": "Skin ulcer with a central crust and red rim on the hand (cutaneous tularemia)",
+    "guideline": {
+      "text": "A review of tularemia treatment is linked; I did not verify the doxycycline-first wording. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10827922/"
+    }
+  },
+  {
+    "id": "s2med-2184",
+    "category": "IM Derm",
+    "q": "Hot tub folliculitis per p218?",
+    "a": "Rash caused by Pseudomonas from water sources. Increased risk in diabetics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=218"
+    },
+    "img": "/mehlman/figures/med-p218-02.jpg",
+    "imgAlt": "Scattered small red follicular papules across the trunk (hot tub folliculitis)",
+    "guideline": {
+      "text": "A paper on hot tub (Pseudomonas) folliculitis is linked; I did not verify the diabetic risk claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2307901/"
+    }
+  },
+  {
+    "id": "s2med-2185",
+    "category": "IM Derm",
+    "q": "Measles: rash and sign per p218?",
+    "a": "Aka rubeola; causes a head-to-toe maculopapular rash. The image shows Koplik spots (pathognomonic whitish lesions on the buccal mucosa).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=218"
+    },
+    "img": "/mehlman/figures/med-p218-03.jpg",
+    "imgAlt": "Whitish spots on the buccal mucosa (Koplik spots, arrows)",
+    "guideline": {
+      "text": "The CDC Yellow Book measles chapter is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK620906/"
+    }
+  },
+  {
+    "id": "s2med-2186",
+    "category": "IM Derm",
+    "q": "Measles: vaccination history and late complication per p218?",
+    "a": "An immigrant history on USMLE sometimes implies unvaccinated status. Rarely causes subacute sclerosing panencephalitis (reactivation of latent infection in the CNS in teenagers).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 218,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=218"
+    },
+    "guideline": {
+      "text": "A StatPearls page on SSPE is linked; I did not verify the reactivation wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560673/"
+    }
+  },
+  {
+    "id": "s2med-2187",
+    "category": "IM Derm",
+    "q": "Rubella versus measles per p219?",
+    "a": "Rubella also causes a head-to-toe maculopapular rash, but instead of Koplik spots, suboccipital and post-auricular lymphadenopathy (tenderness at the back of the head and behind the ears) is characteristic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=219"
+    },
+    "guideline": {
+      "text": "A report on posterior auricular lymphadenopathy in adult rubella is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056234/"
+    }
+  },
+  {
+    "id": "s2med-2188",
+    "category": "IM Derm",
+    "q": "Mumps: what does POM stand for per p219?",
+    "a": "Parotitis, Orchitis, Meningitis. Doesn't typically cause rash.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=219"
+    },
+    "img": "/mehlman/figures/med-p219-01.jpg",
+    "imgAlt": "Child with swelling of the cheek and jaw (mumps parotitis)",
+    "guideline": {
+      "text": "A StatPearls page on mumps is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534785/"
+    }
+  },
+  {
+    "id": "s2med-2189",
+    "category": "IM Derm",
+    "q": "Fifth disease: sign and cause per p219?",
+    "a": "'Slapped cheek' facial erythema caused by parvovirus B19 in pediatrics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=219"
+    },
+    "img": "/mehlman/figures/med-p219-02.jpg",
+    "imgAlt": "Child with bright red cheeks (slapped cheek, fifth disease)"
+  },
+  {
+    "id": "s2med-2190",
+    "category": "IM Derm",
+    "q": "Parvovirus B19: next best step per p219?",
+    "a": "Check serum IgM titers; if IgM titers are not listed, choose bone marrow biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2med-2191",
+    "category": "IM Derm",
+    "q": "Parvovirus B19: marrow effects per p219?",
+    "a": "Can cause pure red cell aplasia (only RBCs low) or full aplastic anemia (RBCs, WBCs and platelets all down). Increased risk of pure red cell aplasia and aplastic anemia in sickle cell disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=219"
+    },
+    "guideline": {
+      "text": "A study of transient aplastic crisis in sickle cell disease is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1415073/"
+    }
+  },
+  {
+    "id": "s2med-2192",
+    "category": "IM Derm",
+    "q": "Parvovirus B19: parent counseling once the cheeks are red per p219?",
+    "a": "The child has already cleared the virus by the time red cheeks develop, so reassure the parents.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=219"
+    }
+  },
+  {
+    "id": "s2med-2193",
+    "category": "IM Derm",
+    "q": "Parvovirus B19 in adults per p219?",
+    "a": "Can cause a body rash +/- arthritis in adults; as with fifth disease, the next best step is to check serum IgM titers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 219,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=219"
+    },
+    "img": "/mehlman/figures/med-p219-03.jpg",
+    "imgAlt": "Diffuse small red macules on both lower legs"
+  },
+  {
+    "id": "s2med-2194",
+    "category": "IM Derm",
+    "q": "Roseola per p220?",
+    "a": "Caused by HHV6; described as 'spiking fever followed by a rash': the child has a high fever for 2-3 days, followed by a rash.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=220"
+    },
+    "img": "/mehlman/figures/med-p220-01.jpg",
+    "imgAlt": "Diffuse pink macules and papules on a child's back (roseola rash)",
+    "guideline": {
+      "text": "A paper on primary HHV-6 infection in infants is linked; I did not verify the 2-3 day figure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8265302/"
+    }
+  },
+  {
+    "id": "s2med-2195",
+    "category": "IM Derm",
+    "q": "Eczema herpeticum: what and how acquired per p220?",
+    "a": "HSV1/2 infection superimposed on eczema; often self-inoculated from touching a cold sore and then cracked eczematous skin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=220"
+    },
+    "img": "/mehlman/figures/med-p220-02.jpg",
+    "imgAlt": "Dense small red papules over eczematous skin (eczema herpeticum)",
+    "guideline": {
+      "text": "A review of infectious complications of atopic dermatitis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7411503/"
+    }
+  },
+  {
+    "id": "s2med-2196",
+    "category": "IM Derm",
+    "q": "Eczema herpeticum: presentation and treatment per p220?",
+    "a": "Fever, lymphadenopathy, and a tingling, burning, painful rash (the source calls it herpetic neuralgia). Treatment: acyclovir.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=220"
+    }
+  },
+  {
+    "id": "s2med-2197",
+    "category": "IM Derm",
+    "q": "Dermatitis herpetiformis per p220?",
+    "a": "Extra-intestinal cutaneous eruption that can occur in patients with celiac disease. Despite the name it is not actual herpes: it is IgA deposition at the dermal papillae. Don't confuse with eczema herpeticum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 220,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=220"
+    },
+    "img": "/mehlman/figures/med-p220-03.jpg",
+    "imgAlt": "Clustered itchy blisters and red papules over both knees (dermatitis herpetiformis)",
+    "guideline": {
+      "text": "An update on dermatitis herpetiformis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8068693/"
+    }
   }
 ];
