@@ -885,3 +885,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: 5-cm lesion as "most common birthmark" (large CMN is uncommon, higher melanoma risk); Mongolian spot called blue nevus (not verified).
 - Left unverified: corkscrew sign, volvulus vs intussusception AXR distinction, CF "exocrine pancreatic insufficiency" shelf phrasing.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p170 (Bullet points: hemangioma, Kasabach-Merritt, Potter, PUV, febrile UTI imaging, phimosis) - 10 cards, ids s2peds-2476 to 2485
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (Hemangioma, Kasabach-Merritt, Posterior Urethral Valves, Potter, Phimosis, Paraphimosis) and the AAP 2011 febrile UTI guideline abstract.
+- Source conflicts, source answer kept with caution note: KMS "requires surgical treatment" (StatPearls: associated with KHE/tufted angioma, steroids historical first-line); routine VCUG after a normal ultrasound (AAP: not routine after first UTI).
+- Left unverified: hemangioma no-treatment advice and timeline, PUV most common GU abnormality, PUV VCUG step.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.

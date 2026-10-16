@@ -35264,5 +35264,155 @@ export default [
       "text": "StatPearls: infantile hemangiomas are often called strawberry marks and are the most common benign tumor of infancy.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK538232/"
     }
+  },
+  {
+    "id": "s2peds-2476",
+    "category": "Peds vignettes",
+    "q": "What is the treatment for a strawberry hemangioma per p170?",
+    "a": "Do not treat; it will grow slightly, then regress spontaneously over a few years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls: infantile hemangiomas (strawberry marks) are the most common benign tumor of infancy. I did not verify the regression timeline or the no-treatment advice in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538232/"
+    }
+  },
+  {
+    "id": "s2peds-2477",
+    "category": "Peds vignettes",
+    "q": "Neonate with a large vascular lesion on the leg and thrombocytopenia. Diagnosis per p170?",
+    "a": "Kasabach-Merritt syndrome (hemangioma with thrombocytopenia); asked three times on the pediatric 2CK forms in different ways. It is not a strawberry hemangioma and requires surgical treatment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says KMP is associated with kaposiform hemangioendothelioma and tufted angioma, not common infantile hemangiomas, and lists steroids as historical first-line; platelet transfusion is avoided unless bleeding. The source's 'requires surgical treatment' is not what StatPearls states. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519053/"
+    }
+  },
+  {
+    "id": "s2peds-2478",
+    "category": "Peds vignettes",
+    "q": "1-month-old male with a 12x8 cm vascular lesion on the buttocks since birth, with scattered petechiae and bruises. What best explains these findings per p170?",
+    "a": "\"Platelet sequestration,\" similar to how splenomegaly causes thrombocytopenia by sequestration in the red pulp; platelets simply get caught within the large vascular lesion of KMS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls: it is theorized that platelets become trapped in the lesion, leading to activation and fibrinogen consumption.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519053/"
+    }
+  },
+  {
+    "id": "s2peds-2479",
+    "category": "Peds vignettes",
+    "q": "What is Potter sequence per p170?",
+    "a": "Renal agenesis leading to oligohydramnios, which causes pulmonary hypoplasia in the fetus (amniotic fluid is needed for lung development).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls: oligohydramnios from renal agenesis; pulmonary hypoplasia causes respiratory distress soon after birth.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560858/"
+    }
+  },
+  {
+    "id": "s2peds-2480",
+    "category": "Peds vignettes",
+    "q": "12-hour-old male with a distended abdomen and a midline mass. Diagnosis per p170?",
+    "a": "Posterior urethral valves: the most common genitourinary abnormality in neonatal males, thin membrane(s) in the urethra preventing urine outflow.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls: posterior urethral valves cause congenital urinary tract obstruction with a spectrum from delayed voiding to severe retention. I did not verify 'most common GU abnormality'.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2peds-2481",
+    "category": "Peds vignettes",
+    "q": "2-day-old male with urinary dribbling, decreased urine output and a 6-cm suprapubic mass. Diagnosis per p170?",
+    "a": "Posterior urethral valves; two different questions on different Peds forms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls covers PUV presentation with urinary retention.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2peds-2482",
+    "category": "Peds vignettes",
+    "q": "3-month-old boy with fever, pyuria and few bacteria. Next best step in diagnosis per p170?",
+    "a": "Renal ultrasound. Most likely pyelonephritis (few bacteria are typical on UA despite pyuria). Do renal and bladder ultrasound for all kids aged 2-24 months with a febrile UTI, to screen for congenital GU tract abnormalities.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "AAP guideline: renal and bladder ultrasonography should be performed to detect anatomic abnormalities in febrile infants 2 to 24 months with a first UTI.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21873693/"
+    }
+  },
+  {
+    "id": "s2peds-2483",
+    "category": "Peds vignettes",
+    "q": "6-month-old boy with 1 day of fever, pyuria, E. coli on urine culture, antibiotics started, and a normal renal ultrasound. Next best step per p170?",
+    "a": "Voiding cystourethrogram (check for posterior urethral valves).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "Current caution: the AAP guideline does not recommend routine VCUG after the first febrile UTI; VCUG is indicated when ultrasound shows hydronephrosis, scarring or findings suggesting high-grade reflux or obstruction, or with a recurrent febrile UTI. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21873693/"
+    }
+  },
+  {
+    "id": "s2peds-2484",
+    "category": "Peds vignettes",
+    "q": "What is phimosis versus paraphimosis per p170?",
+    "a": "Phimosis: inability to retract the foreskin. Paraphimosis: inability to reduce (put back) the foreskin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls: phimosis is a foreskin unable to be retracted behind the glans; paraphimosis is a foreskin trapped behind the corona, a urologic emergency.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459233/"
+    }
+  },
+  {
+    "id": "s2peds-2485",
+    "category": "Peds vignettes",
+    "q": "Neonatal male with posterior urethral valves. Next best step in diagnosis and treatment per p170?",
+    "a": "Voiding cystourethrogram. Treatment must be surgery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 170,
+      "url": "/mehlman/hy-pediatrics.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls covers PUV management. I did not verify the VCUG step in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
   }
 ];
