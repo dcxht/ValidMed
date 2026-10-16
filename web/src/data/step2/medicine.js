@@ -28749,5 +28749,202 @@ export default [
       "text": "An update on dermatitis herpetiformis is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8068693/"
     }
+  },
+  {
+    "id": "s2med-2198",
+    "category": "IM Derm",
+    "q": "Hidradenitis suppurativa per p221?",
+    "a": "Skin condition of painful abscesses and sinus tracts, most commonly in the groin, axilla and under the breasts; frequently affects apocrine glands. Cause is a combination of genetic and environmental factors (idiopathic). NBME answer: surgical excision of lesions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=221"
+    },
+    "img": "/mehlman/figures/med-p221-01.jpg",
+    "imgAlt": "Axilla with abscesses, sinus tracts and scarring (hidradenitis suppurativa)",
+    "guideline": {
+      "text": "North American HS management guidelines are linked; I did not verify the source's NBME-style answer. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131894/"
+    }
+  },
+  {
+    "id": "s2med-2199",
+    "category": "IM Derm",
+    "q": "Pediatric shingles per p221?",
+    "a": "You need to know pediatric shingles 'is a thing.' Classically seen in immunocompromised children (e.g., on chemotherapy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=221"
+    },
+    "img": "/mehlman/figures/med-p221-02.jpg",
+    "imgAlt": "Grouped red vesicular rash on a child's leg (pediatric herpes zoster)",
+    "guideline": {
+      "text": "A review of pediatric herpes zoster is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949924/"
+    }
+  },
+  {
+    "id": "s2med-2200",
+    "category": "IM Derm",
+    "q": "Shingles: name and cause per p221?",
+    "a": "Shingles is aka herpes zoster, caused by varicella zoster virus (VZV, HHV3), not HSV1/2 (HHV1/2). 'Herpes zoster' is not a virus name; it is just another name for shingles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=221"
+    }
+  },
+  {
+    "id": "s2med-2201",
+    "category": "IM Derm",
+    "q": "Herpes zoster oticus per p221?",
+    "a": "VZV (shingles) causing periauricular lesions. Can concurrently affect CN VII, leading to Bell's palsy (Ramsay-Hunt syndrome II).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 221,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=221"
+    },
+    "img": "/mehlman/figures/med-p221-03.jpg",
+    "imgAlt": "Dark crusted vesicles around the ear (herpes zoster oticus)",
+    "guideline": {
+      "text": "A StatPearls page on Ramsay Hunt syndrome is linked; I did not verify the 'type II' naming.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557409/"
+    }
+  },
+  {
+    "id": "s2med-2202",
+    "category": "IM Derm",
+    "q": "Kaposi sarcoma: cause and appearance per p221-222?",
+    "a": "Caused by HHV8 (Kaposi sarcoma-associated herpes virus) in immunocompromised patients (AIDS, chemotherapy). Violaceous, tumorous lesions of vascular-lymphatic origin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=222"
+    },
+    "img": "/mehlman/figures/med-p222-01.jpg",
+    "imgAlt": "Back and arms with dark violaceous plaques and nodules (Kaposi sarcoma)",
+    "guideline": {
+      "text": "A PDQ Kaposi sarcoma treatment summary is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK65897/"
+    }
+  },
+  {
+    "id": "s2med-2203",
+    "category": "IM Derm",
+    "q": "Kaposi sarcoma: treatment answer per p222?",
+    "a": "The question can show an image and the answer is just 'anti-neoplastic'; anti-fungal, anti-bacterial and similar answers are wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2med-2204",
+    "category": "IM Derm",
+    "q": "Pityriasis rosea: cause and course per p222?",
+    "a": "Caused by HHV6 or 7; self-limiting. Can occur in teenagers, more common in the 20s.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=222"
+    },
+    "img": "/mehlman/figures/med-p222-02.jpg",
+    "imgAlt": "Scattered pink oval patches on the abdomen, one larger (pityriasis rosea)",
+    "guideline": {
+      "text": "A pityriasis rosea classification paper is linked; I did not verify the cause.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27096928/"
+    }
+  },
+  {
+    "id": "s2med-2205",
+    "category": "IM Derm",
+    "q": "Pityriasis rosea: distribution per p222?",
+    "a": "Starts as a herald patch (larger pink ellipse), usually on the back or trunk, then spreads upward onto the shoulder blades ('Christmas tree distribution'). USMLE shows an image and expects the spot-diagnosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2med-2206",
+    "category": "IM Derm",
+    "q": "Tinea versicolor: cause and clues per p222?",
+    "a": "Caused by Malassezia furfur; the fungus causes spotty hypopigmentation; the patient usually lives in sub-tropical areas like Florida. Can occur in teenagers who surf or go to the beach.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=222"
+    },
+    "img": "/mehlman/figures/med-p222-03.jpg",
+    "imgAlt": "Back with pale spotty patches (tinea versicolor)",
+    "guideline": {
+      "text": "A tinea versicolor review is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9677953/"
+    }
+  },
+  {
+    "id": "s2med-2207",
+    "category": "IM Derm",
+    "q": "Tinea versicolor: treatment per p222?",
+    "a": "Topical selenium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 222,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=222"
+    }
+  },
+  {
+    "id": "s2med-2208",
+    "category": "IM Derm",
+    "q": "Molluscum contagiosum per p223?",
+    "a": "Very HY spot-diagnosis for peds; caused by a poxvirus. Classically skin-colored or reddish papules with central umbilication. USMLE likes a vignette where the kid went to a recent pool party.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=223"
+    },
+    "img": "/mehlman/figures/med-p223-01.jpg",
+    "imgAlt": "Small dome-shaped pink papules (molluscum contagiosum)",
+    "guideline": {
+      "text": "A study of molluscum and swimming pools is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8520069/"
+    }
+  },
+  {
+    "id": "s2med-2209",
+    "category": "IM Derm",
+    "q": "Mycobacterium marinum per p223?",
+    "a": "Unusual diagnosis but asked. Vignette says the kid recently went to an aquarium or water park and now has red lesions on the hand/arm. Can occur in adults who work at aquariums or water parks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=223"
+    },
+    "img": "/mehlman/figures/med-p223-02.jpg",
+    "imgAlt": "Purple nodules on the wrist and hand (Mycobacterium marinum)",
+    "guideline": {
+      "text": "A StatPearls page on M. marinum is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441883/"
+    }
+  },
+  {
+    "id": "s2med-2210",
+    "category": "IM Derm",
+    "q": "Leishmaniasis: organism and spread per p223?",
+    "a": "Leishmania donovani; a protozoan (unicellular eukaryote); spread by sandfly bite.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 223,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=223"
+    },
+    "img": "/mehlman/figures/med-p223-03.jpg",
+    "imgAlt": "Ulcer with raised border on the back of the hand (leishmaniasis)",
+    "guideline": {
+      "text": "The CDC Yellow Book leishmaniasis chapter is linked; I did not verify that L. donovani is the cutaneous species, and the source continues on p224.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK620910/"
+    }
   }
 ];

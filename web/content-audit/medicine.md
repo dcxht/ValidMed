@@ -801,3 +801,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p220 (roseola, eczema herpeticum, dermatitis herpetiformis) - 4 cards, ids s2med-2194 to 2197
 - Unverified: roseola 2-3 day fever figure.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p221 (HS, zoster) - 4 cards, ids s2med-2198 to 2201
+- HS NBME answer (surgical excision), pediatric zoster, "Ramsay-Hunt II" naming not verified.
+
+## p222 (Kaposi, PR, TV) - 6 cards, ids s2med-2202 to 2207
+- Kaposi "anti-neoplastic" answer omits HIV treatment (NCCN); source answer kept. HHV6/7 for PR and TV treatment not verified.
+
+## p223 (molluscum, M. marinum, leishmaniasis) - 3 cards, ids s2med-2208 to 2210
+- L. donovani (visceral) with cutaneous image: caution; continues on p224.
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
