@@ -49058,5 +49058,285 @@ export default [
       "text": "A paper on catecholamine profiles in neuroblastoma is linked (title only).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/28061374/"
     }
+  },
+  {
+    "id": "s2med-3663",
+    "category": "IM Endocrine",
+    "q": "Neuroblastoma location per p365 (continued from p364)?",
+    "a": "Grows from the median (midline) sympathetic chain. Usually intra-abdominal but can be in the posterior mediastinum (appeared on a 2CK form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    },
+    "guideline": {
+      "text": "A review of imaging in neuroblastoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4419422/"
+    }
+  },
+  {
+    "id": "s2med-3664",
+    "category": "IM Endocrine",
+    "q": "Neuroblastoma findings per p365?",
+    "a": "High BP and opsoclonus-myoclonus syndrome (dancing eyes), and violaceous eyelids (sounds like the heliotrope rash of dermatomyositis but unrelated).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    }
+  },
+  {
+    "id": "s2med-3665",
+    "category": "IM Endocrine",
+    "q": "Neuroblastoma diagnosis per p365?",
+    "a": "Urinary homovanillic acid (HVA) and vanillylmandelic acid (VMA), metabolites of catecholamines. A metaiodobenzylguanidine scan can be done after HVA and VMA are detected.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    }
+  },
+  {
+    "id": "s2med-3666",
+    "category": "IM Endocrine",
+    "q": "Congenital adrenal hyperplasia (CAH) basics per p365?",
+    "a": "Autosomal recessive. 21-, 11-, and 17-hydroxylase deficiencies; 21-hydroxylase deficiency is most common. A cause of ambiguous genitalia and/or virilization. Presentations vary (neonates, children, adults), so differentiate by electrolytes and BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    },
+    "guideline": {
+      "text": "A paper on steroid biomarkers in 21-hydroxylase deficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10438890/"
+    }
+  },
+  {
+    "id": "s2med-3667",
+    "category": "IM Endocrine",
+    "q": "CAH mechanism of hyperplasia per p365?",
+    "a": "ACTH is increased in all three types: cortisol production is impaired, so ACTH rises to compensate, stimulating adrenal hyperplasia. The NBME-style answer for 'most likely explanation' is increased ACTH secretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    }
+  },
+  {
+    "id": "s2med-3668",
+    "category": "IM Endocrine",
+    "q": "17-OH substrates in CAH per p365?",
+    "a": "For both 21- and 11-hydroxylase deficiency: increased 17-OH-progesterone and 17-OH-pregnenolone, increased DHEA-S, increased androstenedione. If any is up, the answer is 21- or 11-deficiency, because it is impossible to get 17-OH substrates in 17-hydroxylase deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    },
+    "img": "/mehlman/figures/med-p365-01.jpg",
+    "imgAlt": "Source figure: CAH diagnostic decision tree"
+  },
+  {
+    "id": "s2med-3669",
+    "category": "IM Endocrine",
+    "q": "21-hydroxylase deficiency per p365?",
+    "a": "High serum K+, low Na+, low pH, low HCO3-, low glucose; low to normal BP. Cortisol and aldosterone, and their precursors, are all low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    }
+  },
+  {
+    "id": "s2med-3670",
+    "category": "IM Endocrine",
+    "q": "11-hydroxylase deficiency per p365?",
+    "a": "Low to normal K+, high to normal Na+, pH and HCO3-, and glucose; high BP. Cortisol and aldosterone are low, but their precursors (which have some effect) are high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    },
+    "guideline": {
+      "text": "A paper on the basis of 11-beta-hydroxylase deficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5347606/"
+    }
+  },
+  {
+    "id": "s2med-3671",
+    "category": "IM Endocrine",
+    "q": "17-hydroxylase deficiency per p365?",
+    "a": "Low 17-OH substrates, low DHEA-S, low androstenedione; low K+, high Na+, high pH, high HCO3- (high aldosterone); low glucose (cortisol and its precursor are low).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 365,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=365"
+    },
+    "guideline": {
+      "text": "A page on 17-hydroxylase deficiency is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK546644/"
+    }
+  },
+  {
+    "id": "s2med-3672",
+    "category": "IM Endocrine",
+    "q": "Carcinoid tumor per p366?",
+    "a": "Neuroendocrine tumor of small bowel, appendix, or lung; S-100 (+), small blue cells. Secretes serotonin. Flushing, tachycardia, diaphoresis, diarrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    },
+    "guideline": {
+      "text": "A 2022 ENETS guidance on carcinoid syndrome is linked (title only). I did not verify the S-100 detail.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9539661/"
+    }
+  },
+  {
+    "id": "s2med-3673",
+    "category": "IM Endocrine",
+    "q": "Carcinoid heart and diagnosis per p366?",
+    "a": "Tricuspid regurgitation is common (holosystolic murmur that increases with inspiration) due to tricuspid lesions. Diagnose with urinary 5-hydroxyindole acetic acid (5-HIAA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
+  },
+  {
+    "id": "s2med-3674",
+    "category": "IM Endocrine",
+    "q": "Carcinoid vs serotonin syndrome per p366?",
+    "a": "Serotonin syndrome is a drug interaction (e.g., starting an MAOI too soon after stopping an SSRI, or St John's wort with an SSRI).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    },
+    "guideline": {
+      "text": "A paper on St John's wort herb-drug interactions is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2782080/"
+    }
+  },
+  {
+    "id": "s2med-3675",
+    "category": "IM Endocrine",
+    "q": "MEN inheritance per p366?",
+    "a": "All MEN syndromes and Carney complex are autosomal dominant.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
+  },
+  {
+    "id": "s2med-3676",
+    "category": "IM Endocrine",
+    "q": "MEN 1 per p366?",
+    "a": "MEN1 gene mutation. Parathyroid adenoma (or hyperplasia), pituitary adenoma, pancreatic adenoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    },
+    "guideline": {
+      "text": "An AACE consensus statement on MEN1 management is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40232217/"
+    }
+  },
+  {
+    "id": "s2med-3677",
+    "category": "IM Endocrine",
+    "q": "MEN 1 high-yield tumors per p366?",
+    "a": "Zollinger-Ellison syndrome (gastrinoma) is the highest-yield pancreatic tumor (recurrent peptic ulcers). Prolactinoma is the highest-yield pituitary tumor. Parathyroid adenoma often presents with calcium urolithiasis (flank or groin pain in a patient with a history of ulcers).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
+  },
+  {
+    "id": "s2med-3678",
+    "category": "IM Endocrine",
+    "q": "Partial MEN 1 vignette per p366?",
+    "a": "USMLE needn't give the full constellation. An NBME question gives a parathyroid adenoma alone and the answer is MEN1 as the gene mutated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
+  },
+  {
+    "id": "s2med-3679",
+    "category": "IM Endocrine",
+    "q": "MEN 2A per p366?",
+    "a": "RET proto-oncogene mutation. Parathyroid adenoma (or hyperplasia), pheochromocytoma, medullary thyroid carcinoma. NBME questions can give isolated medullary thyroid carcinoma in a family: answer RET. In theory isolated parathyroid adenoma could be RET, but in the NBME example MEN1 was listed without RET.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    },
+    "guideline": {
+      "text": "A PDQ summary on MEN2 is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK610386/"
+    }
+  },
+  {
+    "id": "s2med-3680",
+    "category": "IM Endocrine",
+    "q": "MEN 2B per p366?",
+    "a": "RET proto-oncogene mutation. Marfanoid body habitus, mucosal neuromas, pheochromocytoma, medullary thyroid carcinoma. '-oid' means looks like but isn't: the patient looks Marfan-like (tall, lanky) but it is not an FBN1/2 mutation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
+  },
+  {
+    "id": "s2med-3681",
+    "category": "IM Endocrine",
+    "q": "MEN 2B thyroidectomy precaution per p366?",
+    "a": "Before thyroidectomy for medullary thyroid carcinoma, check for pheochromocytoma first with urinary metanephrines (surgery stress can cause a catecholamine surge from the tumor and kill the patient); if positive, CT abdomen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
+  },
+  {
+    "id": "s2med-3682",
+    "category": "IM Endocrine",
+    "q": "Carney complex per p366?",
+    "a": "Hyperpigmentation, atrial myxoma, endocrine hypersecretion. Hyperpigmentation can present as perioral melanosis, similar to Peutz-Jeghers, but the question mentions a cardiac tumor and another endocrine organ hypersecreting instead of hamartomatous colonic polyps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    },
+    "guideline": {
+      "text": "A GeneReviews-type chapter on Carney complex is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507877/"
+    }
+  },
+  {
+    "id": "s2med-3683",
+    "category": "IM Endocrine",
+    "q": "Carney atrial myxoma per p366?",
+    "a": "Atrial myxoma normally shows up in adults (cardiac rhabdomyoma in children with tuberous sclerosis). In Carney the question can say atrial myxoma in a child: the only USMLE example that breaks the rule.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
+  },
+  {
+    "id": "s2med-3684",
+    "category": "IM Endocrine",
+    "q": "Carney endocrine hypersecretion per p366?",
+    "a": "Classically Cushing syndrome (the source says granular hyperpigmentation of the zona fasciculata) or hyperthyroidism. The source notes students often don't realize this is what they saw on the exam.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 366,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=366"
+    }
   }
 ];

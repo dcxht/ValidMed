@@ -1258,3 +1258,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p364 (dex test results, misc, pheo, neuroblastoma) - 12 cards, ids s2med-3651 to 3662
 - Expletive in exogenous steroid line removed.
 - Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.
+
+## p365 (neuroblastoma, CAH) - 9 cards, ids s2med-3663 to 3671
+- CAH table layout mapped to row labels by position; 17-OH row BP not stated in source.
+
+## p366 (carcinoid, MEN, Carney) - 13 cards, ids s2med-3672 to 3684
+- Carcinoid S-100 (+) claim and Carney "zona fasciculata granular hyperpigmentation" wording: source, unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
