@@ -58542,5 +58542,248 @@ export default [
       "page": 432,
       "url": "/mehlman/hy-internal-medicine.pdf#page=432"
     }
+  },
+  {
+    "id": "s2med-4505",
+    "category": "IM Mixed",
+    "q": "6M with perioral hyperpigmentation + colonic polyps per p433?",
+    "a": "Hamartomatous polyps: Peutz-Jeghers syndrome (perioral melanosis + hamartomatous polyps).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4506",
+    "category": "IM Mixed",
+    "q": "26F hyperpigmentation + BP 100/60 + muscle weakness: sodium, potassium, cortisol per p433?",
+    "a": "Low sodium, high potassium, low cortisol: Addison disease (aldosterone is low). Often autoantibodies against 21-hydroxylase, needed for both aldosterone and cortisol synthesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4507",
+    "category": "IM Mixed",
+    "q": "80F with colonic diverticula: where per p433?",
+    "a": "Sigmoid colon.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4508",
+    "category": "IM Mixed",
+    "q": "What increases in the third trimester per p433?",
+    "a": "Hepatic protein production. CO2 decreases (mild respiratory alkalosis); residual capacity decreases (diaphragm pushed up); serum osmolality decreases (plasma volume expansion); systemic vascular resistance decreases (placental vessels add parallel units).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4509",
+    "category": "IM Mixed",
+    "q": "40F on chemotherapy with a low leukocyte count: helpful drug per p433?",
+    "a": "Pegfilgrastim (G-CSF), which increases neutrophils.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4510",
+    "category": "IM Mixed",
+    "q": "27M infertile with high testosterone and low LH/FSH per p433?",
+    "a": "Exogenous testosterone use (a testosterone-secreting tumor could theoretically be an answer, but only the former is listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4511",
+    "category": "IM Mixed",
+    "q": "Why does the facial nerve regenerate but not the optic nerve per p433?",
+    "a": "The optic nerve is myelinated by oligodendrocytes (CNS, limited regeneration); the facial nerve by Schwann cells (PNS).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4512",
+    "category": "IM Mixed",
+    "q": "Drug that increases insulin release: MOA per p433?",
+    "a": "Increases the ATP/ADP ratio in beta cells: ATP closes a K+ channel, K+ builds up and depolarizes, Ca2+ influx releases insulin vesicles (continues on p434).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 433,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=433"
+    }
+  },
+  {
+    "id": "s2med-4513",
+    "category": "IM Mixed",
+    "q": "Sulfonylureas and the ATP-gated K+ channel per p434 (continued from p433)?",
+    "a": "In real life sulfonylureas (e.g., glipizide) close the ATP-gated K+ channel without needing ATP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4514",
+    "category": "IM Mixed",
+    "q": "46M with esophageal varices: vein with increased flow per p434?",
+    "a": "Left gastric vein: increased portal venous pressure backs up into the left gastric vein, then esophageal veins.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4515",
+    "category": "IM Mixed",
+    "q": "74M cheek lesion with neoplastic cells with dense pigment granules per p434?",
+    "a": "Melanoma (the source says it sounds like pigmented BCC, but USMLE wants melanoma). BCC: islands and nests of basophilic cells; SCC: keratin pearls and intercellular bridges.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4516",
+    "category": "IM Mixed",
+    "q": "Woman gets toxoplasmosis and cats is not listed: source per p434?",
+    "a": "Pork, or 'delicatessen meats' (both are answers on offline NBMEs, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4517",
+    "category": "IM Mixed",
+    "q": "Increasing the number of participants in a study per p434?",
+    "a": "Decreases the standard error of the mean (SEM = SD / sqrt(n)); also increases power and decreases beta (false-negative) error.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4518",
+    "category": "IM Mixed",
+    "q": "50F weight loss + dyspnea + pleural-based mass encasing the lungs: cell of origin per p434?",
+    "a": "Mesothelial cells (mesothelioma): classically pleural/supradiaphragmatic plaques; grossly it surrounds the lungs circumferentially rather than forming an isolated mass.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4519",
+    "category": "IM Mixed",
+    "q": "30F LMP 8 weeks ago, no fetus or sac on ultrasound, curettage shows trophoblastic proliferation: chromosomes per p434?",
+    "a": "46,XX: complete mole (an empty egg fertilized by one sperm that duplicates; only paternal genetic material; no fetal parts). Partial mole: one egg fertilized by two sperm, fetal parts present on ultrasound; the source gives a '67 chromosome' karyotype (a typical partial mole is triploid, 69 chromosomes; I did not verify the source figure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4520",
+    "category": "IM Mixed",
+    "q": "Picture of a cavitating lung cancer per p434?",
+    "a": "Squamous cell carcinoma (can cavitate).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 434,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=434"
+    }
+  },
+  {
+    "id": "s2med-4521",
+    "category": "IM Mixed",
+    "q": "35F menorrhagia + hoarse voice + delayed reflexes + globular heart + low Hct and MCV: next step per p435?",
+    "a": "Check serum TSH: probable Hashimoto hypothyroidism (menorrhagia, slow reflexes, cardiomyopathy). Anemia is likely iron deficiency from heavy periods (though anemia of chronic disease also shows low MCV on many NBME items). Other HY: hypothyroid myopathy (increased CK), raised LDL, raised transaminases, low mood; constipation, cold intolerance, brittle hair, doughy skin are often omitted as too easy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 435,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=435"
+    }
+  },
+  {
+    "id": "s2med-4522",
+    "category": "IM Mixed",
+    "q": "Study concludes no increased cancer risk between groups, p = 0.02: what does the p value indicate per p435?",
+    "a": "The source's answer: the probability of accepting the null hypothesis when it is false (a beta, false-negative error). The source generalizes that a p value is 'the chance your conclusion is wrong'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 435,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=435"
+    },
+    "guideline": {
+      "text": "This is the source's exam answer. The ASA statement on p-values (linked) says a p-value is the probability of data at least this extreme if the null hypothesis is true, and is not the probability that a conclusion is wrong; I did not verify the NBME item.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108"
+    }
+  },
+  {
+    "id": "s2med-4523",
+    "category": "IM Mixed",
+    "q": "Study says high sugar causes prostate cancer, p = 0.07: probability of what per p435?",
+    "a": "The source's answer: the chance of rejecting a true null hypothesis (a type I error; the source reads the p value as a 7% chance they said there was increased risk when there is none).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 435,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=435"
+    },
+    "guideline": {
+      "text": "See the ASA p-value statement for the precise definition; the source's reading is the exam answer.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108"
+    }
+  },
+  {
+    "id": "s2med-4524",
+    "category": "IM Mixed",
+    "q": "NMDA receptor antagonist per p435?",
+    "a": "Ketamine (NMDA receptors are a glutamate receptor type).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 435,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=435"
+    }
+  },
+  {
+    "id": "s2med-4525",
+    "category": "IM Mixed",
+    "q": "Effect of bortezomib per p435?",
+    "a": "Decreased activation of CD8+ T cells: bortezomib is a proteasome inhibitor that decreases MHC I expression (the source's wording).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 435,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=435"
+    },
+    "guideline": {
+      "text": "Proteasome inhibition reducing MHC class I peptide presentation is described in the linked PubMed record; I did not verify the 'decreased expression' wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8087844"
+    }
   }
 ];

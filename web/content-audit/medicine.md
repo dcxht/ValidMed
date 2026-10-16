@@ -1489,3 +1489,15 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p432 (IM mixed bullets: vWD, Hardy-Weinberg, hemochromatosis) - 5 cards, ids s2med-4500 to 4504
 - No new conflicts.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p433 (IM mixed bullets: Peutz-Jeghers, Addison, pregnancy physiology, insulin release) - 8 cards, ids s2med-4505 to 4512
+- No new conflicts.
+
+## p434 (IM mixed bullets: varices, melanoma, mesothelioma, moles) - 8 cards, ids s2med-4513 to 4520
+- Partial mole "67 chromosomes" figure: source wording, flagged unverified (typical triploid is 69).
+- Toxoplasmosis from pork/deli meats: source, not verified.
+
+## p435 (IM mixed bullets: hypothyroid, biostats p values, ketamine, bortezomib) - 5 cards, ids s2med-4521 to 4525
+- Source's p-value interpretation (p value as probability of beta error / "chance conclusion is wrong") differs from the ASA statement on p-values; source answer kept, separate sourced note added.
+- Bortezomib "decreases MHC I expression": source wording, partly supported by linked record.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
