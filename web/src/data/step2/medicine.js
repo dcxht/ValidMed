@@ -50176,5 +50176,227 @@ export default [
       "text": "A study of nocturnal hypoglycemia and morning hyperglycemia is linked (title only).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/3582075/"
     }
+  },
+  {
+    "id": "s2med-3755",
+    "category": "IM Endocrine",
+    "q": "Somogyi phenomenon explanation per p373 (continued from p372)?",
+    "a": "The opposite: the evening/night insulin dose is too high, pushing the patient into overnight hypoglycemia, causing a compensatory sympathetic response with robust rebound hyperglycemia by morning.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3756",
+    "category": "IM Endocrine",
+    "q": "Metformin + glyburide with HbA1c 12% per p373?",
+    "a": "Type II DM on metformin + glyburide, uncontrolled HbA1c 12%, with low bicarb or high creatinine: answer 'discontinue metformin and glyburide and commence intermediate-acting insulin'. Low bicarb on metformin means lactic acidosis, so choose discontinuing metformin; renal insufficiency is a lactic acidosis risk factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3757",
+    "category": "IM Endocrine",
+    "q": "Metformin creatinine cutoff per p373?",
+    "a": "The source says a creatinine of 1.5 or greater needs the patient off metformin (max 1.4 seen on NBME where metformin is acceptable).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3758",
+    "category": "IM Endocrine",
+    "q": "Sulfonylureas per p373?",
+    "a": "Glyburide, glipizide, glibenclamide. Insulin secretagogues: increase insulin secretion by blocking the ATP-gated K+ channel on beta-islet cells without needing ATP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    },
+    "guideline": {
+      "text": "A paper on sulphonylurea action on KATP channels is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4613533/"
+    }
+  },
+  {
+    "id": "s2med-3759",
+    "category": "IM Endocrine",
+    "q": "Sulfonylureas on NBME per p373?",
+    "a": "Glyburide and glipizide show up repeatedly; the source hasn't seen other sulfonylureas. Glibenclamide was known for severe hypoglycemia (be aware in theory).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3760",
+    "category": "IM Endocrine",
+    "q": "Meglitinides per p373?",
+    "a": "Repaglinide. Like sulfonylureas, they increase insulin secretion by blocking the ATP-gated K+ channel on beta-islet cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3761",
+    "category": "IM Endocrine",
+    "q": "GLP-1 analogues per p373?",
+    "a": "Liraglutide, semaglutide (Ozempic). Glucagon-like peptide-1 stimulates insulin release.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3762",
+    "category": "IM Endocrine",
+    "q": "DPP-4 inhibitors per p373?",
+    "a": "Sitagliptin. DPP-4 breaks down GLP-1, so inhibiting it raises GLP-1 and therefore insulin release from the pancreas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    },
+    "guideline": {
+      "text": "A paper on the mechanism of DPP-4 inhibitors is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19748065/"
+    }
+  },
+  {
+    "id": "s2med-3763",
+    "category": "IM Endocrine",
+    "q": "Thiazolidinediones per p373?",
+    "a": "Pioglitazone. Increase insulin sensitivity at tissues by stimulating PPAR-gamma. Can cause liver toxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    },
+    "guideline": {
+      "text": "A study of pioglitazone and insulin sensitivity is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11315836/"
+    }
+  },
+  {
+    "id": "s2med-3764",
+    "category": "IM Endocrine",
+    "q": "Alpha-glucosidase inhibitors per p373?",
+    "a": "Acarbose, miglitol. Decrease glucose absorption in the small bowel. Can cause diarrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3765",
+    "category": "IM Endocrine",
+    "q": "SGLT-2 inhibitors per p373?",
+    "a": "Dapagliflozin. Decrease glucose reabsorption in the PCT of the kidney. Can increase risk of candidal infections.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    },
+    "guideline": {
+      "text": "A paper on genital infections with SGLT2 inhibitors is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6330876/"
+    }
+  },
+  {
+    "id": "s2med-3766",
+    "category": "IM Endocrine",
+    "q": "Amylin analogues per p373?",
+    "a": "Pramlintide. Amylin is co-secreted with insulin from beta-cells; it suppresses glucagon secretion, slows gastric emptying, and promotes satiety, preventing a rapid rise in postprandial glucose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    },
+    "guideline": {
+      "text": "A paper on pramlintide is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2496974/"
+    }
+  },
+  {
+    "id": "s2med-3767",
+    "category": "IM Endocrine",
+    "q": "PTU/methimazole adverse effects per p373?",
+    "a": "Both used for Graves; both inhibit thyroperoxidase (PTU also inhibits 5-deiodinase). Both can cause neutropenia/agranulocytosis, often presenting as mouth ulcers: e.g., recently treated for thyroid storm, now mouth ulcers and fever: answer 'drug adverse effect' / 'drug-induced neutropenia'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3768",
+    "category": "IM Endocrine",
+    "q": "Propranolol, steroids, methimazole in pregnancy per p373?",
+    "a": "Propranolol for tachycardia in hyperthyroidism; steroids for exophthalmos. Methimazole is teratogenic in the first trimester.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3769",
+    "category": "IM Endocrine",
+    "q": "Demeclocycline per p373?",
+    "a": "Shows up as treatment for SIADH on NBME. A tetracycline antibiotic causing nephrogenic DI as an adverse effect, a 'good thing' when treating SIADH (one problem cancels the other).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 373,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=373"
+    }
+  },
+  {
+    "id": "s2med-3770",
+    "category": "IM Endocrine",
+    "q": "Desmopressin per p374 (continued from p373)?",
+    "a": "Vasopressin (ADH) analogue used as treatment for central DI. Also used after fluid restriction in DI cases to differentiate central from nephrogenic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 374,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=374"
+    }
+  },
+  {
+    "id": "s2med-3771",
+    "category": "IM Endocrine",
+    "q": "Octreotide per p374?",
+    "a": "Somatostatin analogue used for acromegaly and esophageal varices.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 374,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=374"
+    }
+  },
+  {
+    "id": "s2med-3772",
+    "category": "IM Endocrine",
+    "q": "Cinacalcet per p374?",
+    "a": "Increases sensitivity of calcium-sensing receptors on the parathyroid glands. Helps suppress PTH in secondary hyperparathyroidism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 374,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=374"
+    },
+    "guideline": {
+      "text": "A paper on the calcium-sensing receptor in secondary hyperparathyroidism is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4421157/"
+    }
   }
 ];

@@ -1287,3 +1287,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Metformin "creatinine >=1.5" cutoff: source wording, flagged unverified (labeling may be eGFR-based). Expletives paraphrased out.
 - Somogyi phenomenon explanation continues on p373.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p373 (Somogyi end, DM drugs, thionamides) - 15 cards, ids s2med-3755 to 3769
+- Metformin creatinine cutoff (1.5, "max 1.4 on NBME"): source, flagged unverified.
+
+## p374 (desmopressin, octreotide, cinacalcet) - 3 cards, ids s2med-3770 to 3772
+- Endocrine section ends on p374.
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
