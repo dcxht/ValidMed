@@ -97,3 +97,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figures (U wave, delta wave, first-degree block). 
 - Source conflicts: source's normal PR "80-120 ms" is wrong (normal 120-200 ms); calcium chloride vs gluconate (gluconate preferred, chloride kept as source answer). Unverified: U wave statement, J wave 89.6 F vignette.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p24 (IM Cardio: Mobitz I/II, third-degree block) - 6 cards, ids s2med-0201 to 0206
+- Inspected page text and figures (Mobitz I, II, 2:1/3:1, third degree). Page starts mid-block (Mobitz I).
+- Unverified: Mobitz II progression to third-degree, NBME pacemaker answer, escape rate 30-40.
+
+## p25 (IM Cardio: DCM and hypertensive HF heading) - 9 cards, ids s2med-0207 to 0215
+- Inspected page text and figure (DCM chest X-ray). 
+- Source conflicts: DCM EF <55% vs StatPearls LVEF <40%; source heading "Hypertrophic (HCM)" over text that describes hypertensive heart disease (kept as source answer; may be continued on p26).
+- Unverified: rheumatic heart disease and hemochromatosis as DCM causes; USMLE arrow patterns.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

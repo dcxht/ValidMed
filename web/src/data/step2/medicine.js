@@ -2652,5 +2652,208 @@ export default [
       "text": "Normal PR interval is 120 to 200 ms per StatPearls; the source page says 'should normally be 80-120 ms', which is not the standard normal range. Source figure is shown as given.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK459147/"
     }
+  },
+  {
+    "id": "s2med-0201",
+    "category": "IM Cardio",
+    "q": "Second-degree Mobitz I (Wenckebach) per p24 (figure)?",
+    "a": "Gradually prolonging PR interval until a QRS drops; then the cycle repeats. Do not treat on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=24"
+    },
+    "img": "/mehlman/figures/med-p024-01.jpg",
+    "imgAlt": "Source figure p24: progressive PR lengthening then a dropped QRS"
+  },
+  {
+    "id": "s2med-0202",
+    "category": "IM Cardio",
+    "q": "Second-degree Mobitz II per p24 (figures)?",
+    "a": "No gradual prolongation of the PR interval; a QRS is dropped at random. It can also occur in patterns of 2:1, 3:1, with a P to QRS ratio of 2:1 or 3:1. Whether random or in a pattern, no gradual prolongation precedes the dropped complex.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=24"
+    },
+    "img": "/mehlman/figures/med-p024-02.jpg",
+    "imgAlt": "Source figure p24: fixed PR interval with a randomly dropped QRS",
+    "guideline": {
+      "text": "StatPearls on second-degree AV block is a reference; a review notes Mobitz II is commonly overdiagnosed. I did not verify the pattern wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482359/"
+    }
+  },
+  {
+    "id": "s2med-0203",
+    "category": "IM Cardio",
+    "q": "Mobitz II 2:1 and 3:1 patterns per p24 (figure)?",
+    "a": "P to QRS ratio of 2:1 or 3:1 with no gradual PR prolongation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=24"
+    },
+    "img": "/mehlman/figures/med-p024-03.jpg",
+    "imgAlt": "Source figure p24: strip labelled 2:1 and 3:1 conduction"
+  },
+  {
+    "id": "s2med-0204",
+    "category": "IM Cardio",
+    "q": "Why Mobitz II is more dangerous than Mobitz I, and its treatment on USMLE per p24?",
+    "a": "Higher chance of progression to third-degree (type III) heart block. Treatment on USMLE is pacemaker insertion (asked on a new 2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=24"
+    },
+    "guideline": {
+      "text": "Mobitz II review: commonly overdiagnosed and misinterpreted. I did not verify the 'progression' claim or the NBME statement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11390567/"
+    }
+  },
+  {
+    "id": "s2med-0205",
+    "category": "IM Cardio",
+    "q": "Third-degree heart block ECG per p24 (figure)?",
+    "a": "1) Ultra-slow HR (30-40), QRS far apart (ventricular escape rhythm). 2) No relationship between P waves and QRS complexes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=24"
+    },
+    "img": "/mehlman/figures/med-p024-04.jpg",
+    "imgAlt": "Source figure p24: P waves unrelated to QRS complexes, slow ventricular escape",
+    "guideline": {
+      "text": "StatPearls on third-degree AV block is a reference; I did not verify the heart rate range.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK545199/"
+    }
+  },
+  {
+    "id": "s2med-0206",
+    "category": "IM Cardio",
+    "q": "Which heart blocks get a pacemaker on USMLE per p24?",
+    "a": "Mobitz II and third-degree get a pacemaker; first-degree and Mobitz I do not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 24,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2med-0207",
+    "category": "IM Cardio",
+    "q": "Dilated cardiomyopathy definition per p25?",
+    "a": "Isolated ventricular or diffuse 4-chamber dilation; many causes, key feature is systolic dysfunction with reduced ejection fraction (<55%; normal 55-70).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    },
+    "guideline": {
+      "text": "StatPearls on DCM defines impaired contractility as LVEF <40% with ventricular dilation. The source's <55% differs; I did not verify it.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441911/"
+    }
+  },
+  {
+    "id": "s2med-0208",
+    "category": "IM Cardio",
+    "q": "DCM imaging and exam per p25 (figure)?",
+    "a": "CXR shows enlarged cardiac silhouette; S3 can sometimes be heard; lateralized apex beat (PMI in the anterior axillary line), which only means an enlarged LV and is nonspecific (also seen in LVH).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    },
+    "img": "/mehlman/figures/med-p025-01.jpg",
+    "imgAlt": "Source figure p25: chest X-ray with enlarged cardiac silhouette"
+  },
+  {
+    "id": "s2med-0209",
+    "category": "IM Cardio",
+    "q": "DCM arrows per p25?",
+    "a": "Decreased EF; increased LVEDV; increased LVEDP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2med-0210",
+    "category": "IM Cardio",
+    "q": "Causes of DCM mnemonic per p25?",
+    "a": "ABCD: Alcohol; B = wet Beriberi (thiamine deficiency); C = Coxsackie B virus, Cocaine, Chagas disease; D = Drugs, doxorubicin (Adriamycin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    },
+    "guideline": {
+      "text": "StatPearls lists myocarditis (viral, Chagas), anthracyclines, alcohol and peripartum causes. A review covers thiamine and heart failure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441911/"
+    }
+  },
+  {
+    "id": "s2med-0211",
+    "category": "IM Cardio",
+    "q": "Other notable DCM causes per p25?",
+    "a": "Pregnancy (peripartum cardiomyopathy), hemochromatosis, rheumatic heart disease (myocarditis leading to DCM).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    },
+    "guideline": {
+      "text": "StatPearls lists peripartum cardiomyopathy. I did not verify rheumatic heart disease or hemochromatosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441911/"
+    }
+  },
+  {
+    "id": "s2med-0212",
+    "category": "IM Cardio",
+    "q": "Heart failure from systemic hypertension (source heading 'Hypertrophic') per p25?",
+    "a": "Characterized by diastolic dysfunction (the heart pumps fine but cannot expand as easily); can be associated with an S4. Note: this page places it under the heading 'Hypertrophic (HCM)'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    },
+    "guideline": {
+      "text": "A review of diastolic dysfunction in hypertension exists. The source's heading says HCM but the text describes hypertensive heart disease; I kept the source answer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39018386/"
+    }
+  },
+  {
+    "id": "s2med-0213",
+    "category": "IM Cardio",
+    "q": "Arrows for diastolic dysfunction per p25?",
+    "a": "Unchanged EF; unchanged LVEDV; increased LVEDP. EF is normal because the heart pumps fine; students think LVEDV should be low, but USMLE wants normal volume reached with more force/pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2med-0214",
+    "category": "IM Cardio",
+    "q": "Lateralized apex and LVH signs per p25?",
+    "a": "PMI can be lateralized from LV hypertrophy. Paradoxical splitting of S2, left-axis deviation and LBBB can all be seen from LVH; they just mean LVH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2med-0215",
+    "category": "IM Cardio",
+    "q": "Hypertensive heart disease associations per p25?",
+    "a": "Hypertensive retinopathy (narrowed retinal vessels, flame hemorrhages, AV-nicking) and hypertensive nephropathy (hyperplastic arteriolosclerosis with raised creatinine).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 25,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=25"
+    }
   }
 ];
