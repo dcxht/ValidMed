@@ -863,3 +863,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p240 (actinic purpura, keratosis pilaris) - 5 cards, ids s2med-2289 to 2293
 - NBME solar elastosis claim unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p241 (stroke risk factors, vascular syndromes) - 16 cards, ids s2med-2294 to 2309
+- Source claims on exam emphasis and mnemonics unverified.
+## p242 (Gerstmann, lacunar, aphasias) - 10 cards, ids s2med-2310 to 2319
+- Source expletive paraphrased. Source calls conduction aphasia "Conductive"; card notes it.
+## p243 (stroke Tx, sodium correction, hypercalcemia) - 10 cards, ids s2med-2320 to 2329
+- tPA window/aspirin and hemorrhagic BP <140: caution notes; 2026 AHA/ASA and 2015 ICH guideline URLs seen in search, not read.
+- Mobile QA (320x740, local vite preview build, not live): all 36 cards ox=false off=false bad=0.

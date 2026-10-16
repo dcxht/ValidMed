@@ -30193,5 +30193,467 @@ export default [
       "text": "The treatment review is linked in the previous card; I did not verify the NBME claim.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/32886029/"
     }
+  },
+  {
+    "id": "s2med-2294",
+    "category": "IM Neuro",
+    "q": "Two most important stroke risk factors on USMLE per p241?",
+    "a": "Hypertension and atrial fibrillation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    },
+    "guideline": {
+      "text": "The INTERSTROKE risk factor study is linked; I did not verify the exam emphasis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27431356/"
+    }
+  },
+  {
+    "id": "s2med-2295",
+    "category": "IM Neuro",
+    "q": "How does HTN cause stroke per p241?",
+    "a": "A strong systolic impulse pounds the carotid arteries, leading to endothelial damage and increased development of atherosclerotic plaques (carotid stenosis), which then launch off to the brain/eye.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2296",
+    "category": "IM Neuro",
+    "q": "How does atrial fibrillation cause stroke per p241?",
+    "a": "AF results in turbulence and stasis, leading to left atrial mural thrombus, which launches off.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2297",
+    "category": "IM Neuro",
+    "q": "HTN vs smoking cessation for stroke risk per p241?",
+    "a": "Hypertension is the most common risk factor in the population for causing stroke. Blood pressure control is more important than smoking cessation for decreasing stroke risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    },
+    "guideline": {
+      "text": "I did not verify the BP versus smoking comparison.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27431356/"
+    }
+  },
+  {
+    "id": "s2med-2298",
+    "category": "IM Neuro",
+    "q": "Patient has both AF and HTN: most important stroke risk factor per p241?",
+    "a": "AF. Even though HTN is the most common risk factor in the population, AF is still more likely to cause stroke if the patient has both.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2299",
+    "category": "IM Neuro",
+    "q": "How do most strokes occur per p241?",
+    "a": "The patient usually has carotid stenosis from HTN, where an atheromatous plaque has launched off, or has AF where a left atrial mural thrombus has launched off. The source says carotid stenosis and AF management for stroke prevention are covered in its HY Cardio PDF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2300",
+    "category": "IM Neuro",
+    "q": "ACA stroke per p241?",
+    "a": "Anterior cerebral artery: motor/sensory abnormalities of the contralateral leg.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2301",
+    "category": "IM Neuro",
+    "q": "MCA stroke per p241?",
+    "a": "Middle cerebral artery: motor/sensory abnormalities of the contralateral arm and face.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2302",
+    "category": "IM Neuro",
+    "q": "Dominant vs non-dominant MCA stroke per p241?",
+    "a": "Dominant MCA stroke (usually left) can lead to Wernicke or Broca aphasia. Non-dominant MCA stroke (usually right) can cause hemispatial neglect (inability to draw a clockface).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2303",
+    "category": "IM Neuro",
+    "q": "PCA stroke per p241?",
+    "a": "Posterior cerebral artery: contralateral homonymous hemianopsia with macular sparing; prosopagnosia (inability to recognize faces).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2304",
+    "category": "IM Neuro",
+    "q": "Lateral medullary syndrome per p241?",
+    "a": "Aka Wallenberg syndrome. The answer for dysphagia plus ipsilateral Horner syndrome after a stroke. Due to stroke of the posterior inferior cerebellar artery (PICA) or vertebral artery. Mnemonic: 'PICAchew' (Pikachu), PICA stroke causes dysphagia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    },
+    "guideline": {
+      "text": "A StatPearls page on lateral medullary syndrome is linked; I did not verify the mnemonic.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551670/"
+    }
+  },
+  {
+    "id": "s2med-2305",
+    "category": "IM Neuro",
+    "q": "Another high-yield cause of Horner syndrome per p241?",
+    "a": "Students may know Horner syndrome (ipsilateral miosis, partial ptosis, anhidrosis) can be caused by a Pancoast tumor, but another high-yield cause is lateral medullary syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2306",
+    "category": "IM Neuro",
+    "q": "Medial medullary syndrome per p241?",
+    "a": "The answer for ipsilateral tongue deviation after a stroke. Due to stroke of the anterior spinal artery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    },
+    "guideline": {
+      "text": "A StatPearls page on medial medullary syndrome is linked; I did not verify the artery wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560590/"
+    }
+  },
+  {
+    "id": "s2med-2307",
+    "category": "IM Neuro",
+    "q": "Lateral pontine syndrome per p241?",
+    "a": "The answer for ipsilateral Bell palsy after a stroke. Due to stroke of the anterior inferior cerebellar artery (AICA). Mnemonic: FACIAL contains AICA backwards.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2308",
+    "category": "IM Neuro",
+    "q": "Weber syndrome per p241?",
+    "a": "Midbrain stroke. The answer for ipsilateral CN III palsy (down and out eye) plus contralateral spastic hemiparesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Weber syndrome is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559158/"
+    }
+  },
+  {
+    "id": "s2med-2309",
+    "category": "IM Neuro",
+    "q": "Locked-in syndrome per p241?",
+    "a": "Basilar artery stroke. The answer for inability to move the entire body except for the eyes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 241,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=241"
+    }
+  },
+  {
+    "id": "s2med-2310",
+    "category": "IM Neuro",
+    "q": "Gerstmann syndrome per p242?",
+    "a": "Stroke of the angular gyrus of the parietal lobe. Tetrad: agraphia (inability to write), acalculia (cannot do math), finger agnosia (cannot identify fingers), and left-right disassociation (cannot differentiate left from right sides of the body).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "A review of Gerstmann syndrome is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29519471/"
+    }
+  },
+  {
+    "id": "s2med-2311",
+    "category": "IM Neuro",
+    "q": "Hemiballismus per p242?",
+    "a": "Stroke of the subthalamic nucleus; causes 'ballistic' flailing of the contralateral arm and/or leg. Source says it is a weird condition but for some reason is asked. Example: random flailing of the left arm after a stroke = right subthalamic nucleus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "A paper on hemichorea-hemiballismus localization is linked; I did not verify that it is asked.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4898318/"
+    }
+  },
+  {
+    "id": "s2med-2312",
+    "category": "IM Neuro",
+    "q": "Lacunar infarcts: mechanism per p242?",
+    "a": "HTN can cause lipohyalinosis (microatheroma formation) of small lenticulostriate arteries deep within the brain. Ischemia in these small vessels leads to necrosis and reabsorption of tissue, leaving tiny cavities called lacunae.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "A review of lacunar infarction pathology is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4325635/"
+    }
+  },
+  {
+    "id": "s2med-2313",
+    "category": "IM Neuro",
+    "q": "Lacunar infarcts: presentation per p242?",
+    "a": "Unlike larger strokes, lacunar infarcts often do not present with cortical deficits like aphasia, neglect or visual field losses. They manifest as specific syndromes based on location, such as pure motor hemiparesis, pure sensory stroke, or ataxic hemiparesis. The source says USMLE does not care about the specific types; they want you to know they exist and that the mechanism is HTN causing lipohyalinosis of small penetrating vessels.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2med-2314",
+    "category": "IM Neuro",
+    "q": "Charcot-Bouchard microaneurysms per p242?",
+    "a": "Tiny (<1 mm) aneurysms that can form within lenticulostriate arteries and bleed, causing hemorrhagic strokes / intraparenchymal (intracerebral) bleeds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "A paper revisiting Charcot-Bouchard aneurysms is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8592842/"
+    }
+  },
+  {
+    "id": "s2med-2315",
+    "category": "IM Neuro",
+    "q": "Wernicke aphasia per p242?",
+    "a": "Fluent aphasia (normal pace, lots of words) but none of it makes sense ('word salad'). Comprehension is similarly impaired; repetition is impaired. Wernicke area is in the temporal lobe; caused by L-sided MCA infarct.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    },
+    "guideline": {
+      "text": "A review of language disorders is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6839799/"
+    }
+  },
+  {
+    "id": "s2med-2316",
+    "category": "IM Neuro",
+    "q": "Broca aphasia per p242?",
+    "a": "Non-fluent aphasia ('telegraphic speech') with frustration at not being able to communicate despite normal comprehension, like trying to communicate in a second language. Repetition is impaired. Broca area is in the frontal lobe; caused by L-sided MCA infarct.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2med-2317",
+    "category": "IM Neuro",
+    "q": "Conduction aphasia per p242 (printed 'Conductive')?",
+    "a": "Only repetition is impaired. Stroke of the arcuate fasciculus, the bundle of fibers that connects the Wernicke and Broca areas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2med-2318",
+    "category": "IM Neuro",
+    "q": "Global aphasia per p242?",
+    "a": "Presentation like Broca and Wernicke aphasias at the same time, plus impaired repetition. Stroke of Broca area, Wernicke area and the arcuate fasciculus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2med-2319",
+    "category": "IM Neuro",
+    "q": "Transcortical sensory vs motor aphasia per p242?",
+    "a": "Transcortical sensory: presentation same as Wernicke but repetition intact. Transcortical motor: presentation same as Broca but repetition intact.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 242,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=242"
+    }
+  },
+  {
+    "id": "s2med-2320",
+    "category": "IM Neuro",
+    "q": "Stroke workup: first imaging per p243?",
+    "a": "Non-contrast CT of the head to look for ischemic vs hemorrhagic stroke. Blood appears bright (hyperdense) on CT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2med-2321",
+    "category": "IM Neuro",
+    "q": "Ischemic stroke: tPA window per p243?",
+    "a": "If no blood is seen on non-contrast CT, tPA is given if symptom onset was within the past 4.5 hours and there are no overt contraindications. If the 4.5-hour window has elapsed, aspirin is the answer for ischemic stroke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    },
+    "guideline": {
+      "text": "The 2026 AHA/ASA early management guideline is linked (title only; I did not read it). Source answer stays; current care may also involve thrombectomy or extended-window imaging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582814/"
+    }
+  },
+  {
+    "id": "s2med-2322",
+    "category": "IM Neuro",
+    "q": "When does the 4.5-hour window start per p243?",
+    "a": "When the patient was last confirmed/observed to be normal. If a patient was sleeping, the exact time he or she went to sleep and that he or she was normal beforehand must be known. A patient who woke 2 hours ago with facial droop: tPA is wrong because the stroke could have occurred any time during sleep and the last time seen normal was the night before.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2med-2323",
+    "category": "IM Neuro",
+    "q": "Ischemic stroke: blood pressure before tPA per p243?",
+    "a": "Bring BP down rapidly until below 185/110 so tPA can be given. Below that threshold, do cautious/slower BP control, since higher BP can facilitate perfusion of penumbral areas of ischemia (areas of ischemia around the stroke).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    },
+    "guideline": {
+      "text": "I did not verify the thresholds; see the guideline linked in the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582814/"
+    }
+  },
+  {
+    "id": "s2med-2324",
+    "category": "IM Neuro",
+    "q": "Hemorrhagic stroke management per p243?",
+    "a": "Do not give tPA. First step is lowering BP (labetalol, nicardipine or hydralazine). Reduce BP rapidly to systolic <140 mm Hg. Reverse anticoagulation if the patient is on it (for example FFP for patients on warfarin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    },
+    "guideline": {
+      "text": "The AHA/ASA 2015 intracerebral hemorrhage guideline is linked; I did not verify the 140 target against current guidance. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26022637/"
+    }
+  },
+  {
+    "id": "s2med-2325",
+    "category": "IM Neuro",
+    "q": "Correcting hypernatremia too fast per p243?",
+    "a": "Correcting hypernatremia too quickly with hypotonic saline can cause cerebral edema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2med-2326",
+    "category": "IM Neuro",
+    "q": "Correcting hyponatremia too fast per p243?",
+    "a": "Correcting hyponatremia too quickly with hypertonic saline causes central pontine myelinolysis, also described as 'osmotic demyelination'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    },
+    "img": "/mehlman/figures/med-p243-01.jpg",
+    "imgAlt": "MRI of the pons with an arrow pointing to central bright signal (central pontine myelinolysis)",
+    "guideline": {
+      "text": "A meta-analysis on correction rate and osmotic demyelination is linked; I did not read it in full.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11833618/"
+    }
+  },
+  {
+    "id": "s2med-2327",
+    "category": "IM Neuro",
+    "q": "Central pontine myelinolysis: syndrome and imaging per p243?",
+    "a": "Causes locked-in syndrome. USMLE can show an MRI of the pons similar to the image.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    }
+  },
+  {
+    "id": "s2med-2328",
+    "category": "IM Neuro",
+    "q": "Hypercalcemic crisis per p243?",
+    "a": "Cognitive dysfunction or a delirium-like state in the setting of severe hypercalcemia, often due to malignancy or primary hyperparathyroidism. USMLE wants you to know that high calcium, as well as any sodium disturbance, can cause delirium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    },
+    "guideline": {
+      "text": "A Society for Endocrinology guidance on acute hypercalcaemia is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314807/"
+    }
+  },
+  {
+    "id": "s2med-2329",
+    "category": "IM Neuro",
+    "q": "First step for Tx of hypercalcemia per p243?",
+    "a": "Normal saline.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 243,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=243"
+    },
+    "guideline": {
+      "text": "The same emergency guidance is linked; I did not verify it states this as the first step.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314807/"
+    }
   }
 ];
