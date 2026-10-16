@@ -539,3 +539,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p122 (pseudocyst, chronic pancreatitis, bile leak) - 6 cards, ids s2med-1114 to 1119
 - Figures inspected (pseudocyst CT circled; calcifications arrow).
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p123 (bile leak, SOD, gallstone ileus, choledochal cyst, PBC, SBP) - 7 cards, ids s2med-1120 to 1126
+- Conflict: SBP WBC vs neutrophil count unverified; PBC renamed.
+
+## p124 (cirrhosis, SIRS/sepsis) - 10 cards, ids s2med-1127 to 1136
+- Conflict: SIRS-based sepsis vs Sepsis-3 definitions; source definitions kept.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.

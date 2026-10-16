@@ -14855,5 +14855,240 @@ export default [
       "text": "The 2020 WSES guidelines on bile duct injury during cholecystectomy are linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8190978/"
     }
+  },
+  {
+    "id": "s2med-1120",
+    "category": "IM Gastro",
+    "q": "Post-op bile leak per p122-123?",
+    "a": "After cholecystectomy anastomoses there can be a post-op bile leak, literally; 'weird diagnosis but it shows up on occasion.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2med-1121",
+    "category": "IM Gastro",
+    "q": "Sphincter of Oddi dysfunction per p123?",
+    "a": "Answer when the vignette sounds like gallstone pancreatitis (high ALP, high direct bilirubin, high pancreatic enzymes) but the patient has had no gallbladder for many years, so a stone can't be the cause.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=123"
+    },
+    "guideline": {
+      "text": "The Rome IV chapter on gallbladder and sphincter of Oddi disorders is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27144629/"
+    }
+  },
+  {
+    "id": "s2med-1122",
+    "category": "IM Gastro",
+    "q": "Gallstone ileus per p123?",
+    "a": "Gallstone enters the small bowel and causes intestinal obstruction. Answer if the stem says 'air in the biliary tree' (pneumobilia). Can come from a cholecystoduodenal fistula (conduit between gallbladder and small bowel in cholelithiasis). A rambling stem ending in 'air in the biliary tree' wants 'gallstone ileus' or 'cholecystoduodenal fistula.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=123"
+    },
+    "guideline": {
+      "text": "StatPearls on gallstone ileus is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430834/"
+    }
+  },
+  {
+    "id": "s2med-1123",
+    "category": "IM Gastro",
+    "q": "Choledochal cyst per p123?",
+    "a": "2CK Surg: nonsense paragraph with high ALP and direct bilirubin + 'CT shows a cystic structure within the biliary tree.' Answer: simple excision of the cyst.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=123"
+    },
+    "guideline": {
+      "text": "StatPearls on choledochal cyst is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557762/"
+    }
+  },
+  {
+    "id": "s2med-1124",
+    "category": "IM Gastro",
+    "q": "PBC recap per p123?",
+    "a": "Woman 20s-50s with generalized pruritus, high cholesterol, high ALP, high direct bilirubin, autoimmune history in her or a relative. Anti-mitochondrial antibodies first, then liver biopsy to confirm. Initial treatment ursodiol. One of the highest-yield 2CK diagnoses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=123"
+    },
+    "guideline": {
+      "text": "The disease is now called primary biliary cholangitis; the AASLD summary is linked, I did not verify the biopsy requirement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8605692/"
+    }
+  },
+  {
+    "id": "s2med-1125",
+    "category": "IM Gastro",
+    "q": "Spontaneous bacterial peritonitis scenarios per p123?",
+    "a": "Bacterial infection of peritoneal fluid by mixed enteric flora. Answer for diffuse abdominal pain and fever with 1) cirrhosis, 2) recent peritoneal dialysis, or 3) nephrotic syndrome. Stems often omit shifting dullness/fluid wave; infer ascites from the risk factor. A 2CK question: child with minimal change disease with abdominal pain + fever: SBP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=123"
+    },
+    "guideline": {
+      "text": "The 2021 AASLD guidance on ascites and SBP is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33942342/"
+    }
+  },
+  {
+    "id": "s2med-1126",
+    "category": "IM Gastro",
+    "q": "SBP diagnosis per p123?",
+    "a": "Next best step: abdominal paracentesis (aspiration of peritoneal fluid; not pericardiocentesis). Then choose 'white cell count and differential' first if listed, then gram stain and culture. SBP is diagnosed when paracentesis shows >250 WBCs/uL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 123,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=123"
+    },
+    "guideline": {
+      "text": "The AASLD guidance is linked; I did not verify whether it defines SBP by neutrophil count rather than total WBC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33942342/"
+    }
+  },
+  {
+    "id": "s2med-1127",
+    "category": "IM Gastro",
+    "q": "Ascites with high WBC but no symptoms per p123-124?",
+    "a": "New 2CK question: cirrhosis with ascites, no fever or abdominal pain, paracentesis shows 900 WBC/uL: answer antibiotic therapy. About 6/7 SBP questions give abdominal pain and fever. Treatment: ceftriaxone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    },
+    "guideline": {
+      "text": "The AASLD guidance is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33942342/"
+    }
+  },
+  {
+    "id": "s2med-1128",
+    "category": "IM Gastro",
+    "q": "Focal nodular hyperplasia per p124?",
+    "a": "Adult has abdominal CT for an unrelated reason showing a 1-2-cm hepatic lesion with a central scar, with no mention of trauma or infection. Hepatocellular hyperplasia that needs no treatment; NBME answer: 'no further diagnostic studies indicated.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    },
+    "guideline": {
+      "text": "The EASL benign liver tumor guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7206317/"
+    }
+  },
+  {
+    "id": "s2med-1129",
+    "category": "IM Gastro",
+    "q": "Cirrhosis basics per p124?",
+    "a": "Small, shrunken, burnt-out liver from chronic disease. HY causes: alcoholism, HepB/C, Wilson disease, hemochromatosis, NASH, a1-antitrypsin deficiency. LFTs normal or low (no transaminitis). USMLE likes increased PT and decreased clotting factor synthesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2med-1130",
+    "category": "IM Gastro",
+    "q": "Hyperammonemia in cirrhosis per p124?",
+    "a": "Decreased urea cycle activity (normally in liver) causes hepatic encephalopathy (confusion) and asterixis. Acute exacerbations are triggered by GI bleeds (more ammonia absorption).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    },
+    "guideline": {
+      "text": "The EASL hepatic encephalopathy guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35724930/"
+    }
+  },
+  {
+    "id": "s2med-1131",
+    "category": "IM Gastro",
+    "q": "Other cirrhosis points per p124?",
+    "a": "SBP is very HY on 2CK. Esophageal varices from portal pressure backing up to the left gastric vein. Caput medusae are visible periumbilical veins (superior epigastric veins per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2med-1132",
+    "category": "IM Gastro",
+    "q": "SIRS definition per p124?",
+    "a": "2 or more: temperature <36C or >38C (<96.8F or >100.4F); HR >90; RR >20; WBC <4,000 or >12,000. Matters because abnormal vitals can occur without infection (stress from trauma, surgery, autoimmune flare, sympathetic activation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    },
+    "guideline": {
+      "text": "The Sepsis-3 consensus is linked; I did not verify the text. Sepsis-3 moved away from SIRS-based definitions, so the SIRS ladder is the source's exam framework.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4968574/"
+    }
+  },
+  {
+    "id": "s2med-1133",
+    "category": "IM Gastro",
+    "q": "Sepsis and septic shock per p124?",
+    "a": "Sepsis: SIRS + source of infection. Septic shock: sepsis + low BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    },
+    "guideline": {
+      "text": "Conflict: Sepsis-3 defines sepsis as life-threatening organ dysfunction; the Surviving Sepsis 2021 guideline is linked, I did not verify details. Source definitions stay for the exam.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8486643/"
+    }
+  },
+  {
+    "id": "s2med-1134",
+    "category": "IM Gastro",
+    "q": "Septic PID treatment per p124?",
+    "a": "On one 2CK NBME: IV ceftriaxone and azithromycin if the patient is septic; IM ceftriaxone with oral azithromycin is wrong (that regimen is for non-septic PID).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2med-1135",
+    "category": "IM Gastro",
+    "q": "Ceftriaxone in septic inpatients per p124?",
+    "a": "Frequently the answer for in-hospital septic patients with community-acquired conditions (pneumonia, pyelonephritis, prostatitis). Community-acquired pneumonia is empirically azithromycin (2CK NBME 8), but if septic, go straight to ceftriaxone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2med-1136",
+    "category": "IM Gastro",
+    "q": "Septic hospital-acquired infection per p124?",
+    "a": "NBME answer: vancomycin PLUS ceftazidime or cefepime, covering MRSA and Pseudomonas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 124,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=124"
+    },
+    "guideline": {
+      "text": "The Surviving Sepsis Campaign 2021 guideline is linked; I did not verify specific regimens.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8486643/"
+    }
   }
 ];
