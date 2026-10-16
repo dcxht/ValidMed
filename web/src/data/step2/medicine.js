@@ -58991,5 +58991,141 @@ export default [
       "page": 438,
       "url": "/mehlman/hy-internal-medicine.pdf#page=438"
     }
+  },
+  {
+    "id": "s2med-4544",
+    "category": "IM Mixed",
+    "q": "Where is endothelin increased per p439 (continued from p438)?",
+    "a": "Pulmonary hypertension, cor pulmonale, and congestive heart failure (including isolated left heart failure): any cause of increased pulmonary pressure leads to compensatory endothelin release.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 439,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=439"
+    }
+  },
+  {
+    "id": "s2med-4545",
+    "category": "IM Mixed",
+    "q": "28M with renal failure + hematuria + hearing loss per p439?",
+    "a": "Alport syndrome: type IV collagen mutation (X-linked). Wrong answer: antibodies against type IV collagen (Goodpasture). Alport: male with hematuria + ear and/or eye problem; Goodpasture: male in his 20s-40s with hematuria and hemoptysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 439,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=439"
+    }
+  },
+  {
+    "id": "s2med-4546",
+    "category": "IM Mixed",
+    "q": "19F with alkaline urine and renal calculi: organism per p439?",
+    "a": "Proteus (Klebsiella or Serratia could also be correct): struvite (ammonium magnesium phosphate) stones form in alkaline urine from UTIs by urease-positive organisms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 439,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=439"
+    }
+  },
+  {
+    "id": "s2med-4547",
+    "category": "IM Mixed",
+    "q": "62F high Hb, WBCs, platelets, pO2 93%: EPO and arterial O2 content per p439?",
+    "a": "Low EPO + normal arterial O2 content: polycythemia vera (JAK2 mutation), marrow overproduction suppresses renal EPO; WBCs and/or platelets also high. In secondary polycythemia (lung disease: high EPO from low O2; renal cell carcinoma: tumor EPO) only RBCs are high. Treatment of PV: serial phlebotomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 439,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=439"
+    },
+    "guideline": {
+      "text": "PV diagnosis and treatment, including low EPO and phlebotomy, are covered in the linked review.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11921015/"
+    }
+  },
+  {
+    "id": "s2med-4548",
+    "category": "IM Mixed",
+    "q": "Why arterial O2 content is normal in polycythemia vera per p439?",
+    "a": "Content = dissolved O2 + Hb-bound O2; with high Hb the saturation is at the low end of normal (93%), but total O2 in blood is the same since there is no lung disease and Hb still binds O2 normally.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 439,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=439"
+    }
+  },
+  {
+    "id": "s2med-4549",
+    "category": "IM Mixed",
+    "q": "Role of IkB relative to NFkB per p439?",
+    "a": "IkB releases NFkB after it is phosphorylated. USMLE also wants: corticosteroids decrease NFkB signaling in leukocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 439,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=439"
+    }
+  },
+  {
+    "id": "s2med-4550",
+    "category": "IM Mixed",
+    "q": "Newborn with chorioretinitis + cataracts + microcephaly and no other info per p439?",
+    "a": "CMV. Congenital toxoplasmosis is always the triad chorioretinitis + hydrocephalus + intracranial calcifications; without that triad, eliminate it. Congenital CMV has nonspecific findings (deafness, chorioretinitis, intracranial calcifications). Congenital rubella: PDA; congenital syphilis: Hutchinson teeth, often saddle nose and/or saber shins (continues on p440 for VZV).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 439,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=439"
+    }
+  },
+  {
+    "id": "s2med-4551",
+    "category": "IM Mixed",
+    "q": "Congenital VZV findings per p440 (continued from p439)?",
+    "a": "Zig-zag skin lesions, limb abnormalities, microphthalmia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 440,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=440"
+    }
+  },
+  {
+    "id": "s2med-4552",
+    "category": "IM Mixed",
+    "q": "14M temp 103F + WBC 25,000 with neutrophil shift: mechanism per p440?",
+    "a": "Accelerated release of leukocytes from the bone marrow postmitotic reserve pool: leukemoid reaction (leukocytosis with infection); leukocyte ALP is high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 440,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=440"
+    }
+  },
+  {
+    "id": "s2med-4553",
+    "category": "IM Mixed",
+    "q": "Function of the tRNA anticodon per p440?",
+    "a": "Selection of the specific mRNA codon for ribosomal binding: the anticodon is a 5' to 3' sequence complementary to the mRNA codon; the amino acid sits on the acceptor stem and is transferred to the growing peptide at the ribosome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 440,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=440"
+    }
+  },
+  {
+    "id": "s2med-4554",
+    "category": "IM Mixed",
+    "q": "15M skiing accident, tachycardia, tachypnea, BP 98/72, decreased right breath sounds, black pleural space on CXR per p440?",
+    "a": "Tension pneumothorax: hemodynamic decompensation (BP may be low-normal only because the heart rate compensates). Low BP comes from compressed venous return to the right atrium. Tracheal deviation need not be mentioned. Treatment: needle decompression then chest tube to an underwater seal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 440,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=440"
+    }
+  },
+  {
+    "id": "s2med-4555",
+    "category": "IM Mixed",
+    "q": "36M stab wound to chest + low BP + JVD + systolic BP drops 12 mmHg on inspiration per p440?",
+    "a": "Cardiac tamponade: Beck triad (hypotension, JVD, muffled heart sounds; not all need be mentioned). Pulsus paradoxus is a systolic drop >10 mmHg on inspiration. Tamponade is a pericardial effusion plus hemodynamic decompensation; ECG shows electrical alternans (also seen in a simple effusion; continues on p441).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 440,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=440"
+    }
   }
 ];

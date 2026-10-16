@@ -1511,3 +1511,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p438 (IM mixed bullets: granulosa tumor, carotid compression, ADPKD, gastroparesis, endothelin) - 5 cards, ids s2med-4539 to 4543
 - Endothelin as the cause of fast bleeding cessation: source answer, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p439 (IM mixed bullets: Alport, struvite, polycythemia vera, congenital infections) - 7 cards, ids s2med-4544 to 4550
+- No new conflicts. PV review linked.
+
+## p440 (IM mixed bullets: leukemoid, tRNA, tension pneumothorax, tamponade) - 5 cards, ids s2med-4551 to 4555
+- No new conflicts.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
