@@ -34703,5 +34703,143 @@ export default [
       "text": "StatPearls: autoimmune disease in about 20 to 30%; anti-IgA antibodies may cause transfusion reactions, so IgA-poor or washed red cells are used. I did not verify Giardia or the seasonal atopy pattern.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK538205/"
     }
+  },
+  {
+    "id": "s2peds-2437",
+    "category": "Peds vignettes",
+    "q": "3M with recurrent otitis media, recent tympanostomy tube placement, HIV-negative mother. Diagnosis per p166?",
+    "a": "\"Antibody deficiency\": IgA deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2peds-2438",
+    "category": "Peds vignettes",
+    "q": "6M with recurrent Staph infections and diarrhea. Diagnosis and mechanism per p166?",
+    "a": "\"Neutrophil oxidative burst\" defect: chronic granulomatous disease (NADPH oxidase deficiency), with infections by catalase-positive organisms (Staph infections are the signature complication).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    },
+    "guideline": {
+      "text": "StatPearls: defective phagocyte NADPH oxidase causes CGD. I did not verify the catalase-positive wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493171/"
+    }
+  },
+  {
+    "id": "s2peds-2439",
+    "category": "Peds vignettes",
+    "q": "What is the SPACES mnemonic for CGD per p166, and what else is tested?",
+    "a": "Staph, Pseudomonas, Aspergillus, Candida, E. coli, Serratia. Aspergillus is the most common fungal infection in CGD; 2CK has a question where a child gets Serratia sepsis as part of CGD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    },
+    "guideline": {
+      "text": "I did not verify the organism list in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493171/"
+    }
+  },
+  {
+    "id": "s2peds-2440",
+    "category": "Peds vignettes",
+    "q": "8F with fever, purpuric lesions on the trunk and extremities, and a brother who died of fulminant meningococcemia 4 years ago. Diagnosis per p166?",
+    "a": "\"Complement system immunodeficiency\": terminal complement deficiency (C5-9) is associated with recurrent Neisseria infections (gonococcal and meningococcal).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    },
+    "guideline": {
+      "text": "StatPearls: deficiencies of the late common pathway (C5 to C9) are associated with increased Neisseria meningitidis and gonorrhoeae infections.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557581/"
+    }
+  },
+  {
+    "id": "s2peds-2441",
+    "category": "Peds vignettes",
+    "q": "14M with fever, stiff neck, non-blanching purpura on the abdomen, BP 60/35, and limited response to IV fluids and norepinephrine. Treatment per p166?",
+    "a": "Hydrocortisone. Diagnosis: Waterhouse-Friderichsen syndrome, hemorrhagic necrosis of the adrenal cortices from meningococcal septicemia. Non-blanching rash with meningitis means meningococcus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    },
+    "guideline": {
+      "text": "Consistent with the p150 caution: adrenal crisis is treated with immediate hydrocortisone. I did not verify the vignette as an exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7385786/"
+    }
+  },
+  {
+    "id": "s2peds-2442",
+    "category": "Peds vignettes",
+    "q": "Why is hydrocortisone the answer and why does NE have limited effect in that vignette per p166?",
+    "a": "Cortisol is deficient, and cortisol is normally needed to upregulate alpha-1 receptors on arterioles, permitting NE and E to do their job.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2peds-2443",
+    "category": "Peds vignettes",
+    "q": "17F with cutaneous candida infections since childhood, 2 years of type I diabetes and autoimmune thyroiditis. Diagnosis per p166?",
+    "a": "Chronic mucocutaneous candidiasis. Answer: \"T cell dysfunction\" = \"impaired cell-mediated immunity\" (both answers). Candida infections can occur in diabetes, but the durations do not match.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    },
+    "guideline": {
+      "text": "StatPearls: APS-1 is a triad of hypoparathyroidism, Addison disease and chronic mucocutaneous candidiasis. I did not verify the vignette link to the T cell answer.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537211/"
+    }
+  },
+  {
+    "id": "s2peds-2444",
+    "category": "Peds vignettes",
+    "q": "1-month-old male with white oral plaques that bleed when scraped and a papular erythematous diaper rash with satellite lesions. Mechanism per p166?",
+    "a": "Decreased T lymphocyte activity: chronic mucocutaneous candidiasis (printed as \"popular\" rash on the page).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    }
+  },
+  {
+    "id": "s2peds-2445",
+    "category": "Peds vignettes",
+    "q": "8M with very high IgM. Mechanism per p166?",
+    "a": "Deficiency of CD40 ligand on T cells (cannot activate CD40 on B cells to induce isotype class switching): Hyper IgM syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    },
+    "guideline": {
+      "text": "StatPearls: X-linked hyper-IgM results from CD40L mutations that disrupt class-switch recombination.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562182/"
+    }
+  },
+  {
+    "id": "s2peds-2446",
+    "category": "Peds vignettes",
+    "q": "6F with recurrent Staph abscesses, eczematoid skin lesions and abnormal dentition. Diagnosis per p166?",
+    "a": "Hyper IgE syndrome (Job syndrome): FATED, with abnormal Facies, staphylococcal cold Abscesses, retained primary Teeth, hyper IgE and Dermatologic findings (for example eczematoid lesions).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 166,
+      "url": "/mehlman/hy-pediatrics.pdf#page=166"
+    },
+    "guideline": {
+      "text": "StatPearls: STAT3 hyper-IgE syndrome with elevated IgE, eczema, recurrent skin and respiratory infections, and a characteristic facial appearance emerging in adolescence. I did not verify retained primary teeth or the mnemonic.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25507/"
+    }
   }
 ];

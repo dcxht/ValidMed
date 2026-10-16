@@ -857,3 +857,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Terminology caution on "mental retardation". No outright conflicts.
 - Left unverified: lymphoid tissue to B cell link, monthly immune globulin schedule, PKU/THB statements, infection patterns by cell deficiency, Giardia and seasonal atopy pattern for IgA deficiency.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p166 (Bullet points: IgA deficiency, CGD, complement, Waterhouse-Friderichsen, CMC, hyper IgM, hyper IgE) - 10 cards, ids s2peds-2437 to 2446
+- Inspected page text and layout; no figures. Typo "popular" (papular) noted in the card.
+- Notes verified against StatPearls (CGD, Complement Deficiency, APS-1, X-linked immunodeficiency, STAT3 HIES).
+- Internal inconsistency noted: p150 gives ACTH stimulation test for Waterhouse-Friderichsen while p166 gives hydrocortisone; current guidance supports hydrocortisone first.
+- Left unverified: catalase-positive wording, SPACES organisms, CMC vignette answers, FATED mnemonic and retained teeth.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
