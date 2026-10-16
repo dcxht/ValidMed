@@ -9061,5 +9061,257 @@ export default [
       "text": "A review of congenital diaphragmatic hernia exists; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5029975/"
     }
+  },
+  {
+    "id": "s2med-0696",
+    "category": "IM Pulmonary",
+    "q": "Neonatal RDS presentation per p72?",
+    "a": "Aka hyaline membrane disease. Respiratory distress in a kid born <34 weeks' gestation. Insufficient surfactant from type II pneumocytes due to decreased lamellar bodies (the organelles that produce surfactant).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2med-0697",
+    "category": "IM Pulmonary",
+    "q": "Lecithin/sphingomyelin ratio in NRDS per p72?",
+    "a": "Decreased L/S ratio (<2.0; normally >2-2.4). Lecithin = dipalmitoyl phosphatidylcholine (asked on NBME). A question may ask for 'increased sphingomyelin', which would decrease the ratio.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "StatPearls on the L/S ratio is a reference; I did not verify the cutoffs.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560650/"
+    }
+  },
+  {
+    "id": "s2med-0698",
+    "category": "IM Pulmonary",
+    "q": "Surfactant physiology in NRDS per p72?",
+    "a": "Decreased surfactant means decreased alveolar compliance and increased elastic recoil. Surfactant is hydrophobic and normally prevents alveolar collapse; deficiency allows hydrophobic (source wording) interactions of the alveolar walls to increase collapse.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2med-0699",
+    "category": "IM Pulmonary",
+    "q": "CXR in NRDS per p72?",
+    "a": "'Reticulogranular' appearance: very buzzy and HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "A paper on decoding the neonatal chest radiograph exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7954172/"
+    }
+  },
+  {
+    "id": "s2med-0700",
+    "category": "IM Pulmonary",
+    "q": "Preventing NRDS per p72?",
+    "a": "A woman giving birth before 34 weeks gets two boluses of corticosteroids within 24 hours of parturition to accelerate fetal lung maturity. 2CK example: 33 weeks, a bolus given 12 hours ago, next step is 'bolus of corticosteroids' (she needs two).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "ACOG committee opinion on antenatal corticosteroids is the reference (regimens are usually betamethasone two doses 24 hours apart); I did not verify its text.",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/08/antenatal-corticosteroid-therapy-for-fetal-maturation"
+    }
+  },
+  {
+    "id": "s2med-0701",
+    "category": "IM Pulmonary",
+    "q": "Management of the newborn with NRDS per p72?",
+    "a": "2CK: tactile stimulation first, then warming lights (HY sequence). Then exogenous surfactant and oxygen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "The 2025 AHA/AAP neonatal resuscitation guideline is the current reference; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41122887/"
+    }
+  },
+  {
+    "id": "s2med-0702",
+    "category": "IM Pulmonary",
+    "q": "Transient tachypnea of the newborn per p72?",
+    "a": "Sounds like NRDS but the kid is term (>37 weeks). Usually after C-section or fast vaginal delivery. Mechanism: not enough time for pulmonary lymphatics to clear amniotic fluid. CXR: 'fluid within fissure lines'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "StatPearls on TTN is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537354/"
+    }
+  },
+  {
+    "id": "s2med-0703",
+    "category": "IM Pulmonary",
+    "q": "Bronchopulmonary dysplasia per p72?",
+    "a": "Fibrotic lung disease in an infant caused by continued supplemental oxygen. Vignette: born at 26 weeks, ICU on oxygen, now 4 months old on home oxygen; ECG shows right-axis deviation +/- CXR shows increased pulmonary vascularity: RVH (cor pulmonale) from pulmonary hypertension due to BPD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "A review of pulmonary hypertension in BPD exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8530892/"
+    }
+  },
+  {
+    "id": "s2med-0704",
+    "category": "IM Pulmonary",
+    "q": "Foreign body aspiration per p72?",
+    "a": "2CK answer for a kid under 2 crawling on the floor with acute-onset respiratory distress, plus either unilateral hyperresonance in one lung (not pneumothorax) or unilateral atelectasis with ipsilateral tracheal shift. Answer: bronchoscopy ('fiberoptic examination of the airways').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "A paper on rigid bronchoscopy for pediatric foreign body aspiration exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8700144/"
+    }
+  },
+  {
+    "id": "s2med-0705",
+    "category": "IM Pulmonary",
+    "q": "Allergic rhinitis signs per p72?",
+    "a": "Not limited to kids; can be part of atopy in asthma patients. 'Cobblestoning' of the nasal mucosa is buzzy for allergy (the same word describes the tarsal conjunctiva in allergic conjunctivitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2med-0706",
+    "category": "IM Pulmonary",
+    "q": "Allergic rhinitis treatment per p72-73?",
+    "a": "NBME 9: 'use of pillow and mattress covers'. Otherwise first-line medication is intranasal corticosteroids; antihistamines are not first-line. If intranasal steroids are not listed, second-generation H1 blockers (loratadine); oral prednisone is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 72,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=72"
+    },
+    "guideline": {
+      "text": "A 2017 Joint Task Force synopsis on pharmacologic treatment of seasonal allergic rhinitis is a reference; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29181536/"
+    }
+  },
+  {
+    "id": "s2med-0707",
+    "category": "IM Pulmonary",
+    "q": "Adenoid hypertrophy per p73?",
+    "a": "Enlarged tonsils (adenoids) are a known cause of stridor in pediatrics. Answer: tonsillectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2med-0708",
+    "category": "IM Pulmonary",
+    "q": "Peritonsillar abscess (quinsy) per p73 (figure)?",
+    "a": "Pus collection with pain and swelling at the posterior oropharynx; can complicate tonsillitis. Difficulty opening the mouth, in contrast to bacterial tracheitis (full mouth opening; an important detail on a 2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=73"
+    },
+    "img": "/mehlman/figures/med-p073-01.jpg",
+    "imgAlt": "Source figure p73: oropharynx without abscess beside peritonsillar abscess with deviated uvula",
+    "guideline": {
+      "text": "StatPearls on peritonsillar abscess is a reference; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28409615/"
+    }
+  },
+  {
+    "id": "s2med-0709",
+    "category": "IM Pulmonary",
+    "q": "Laryngomalacia per p73?",
+    "a": "Most common cause of stridor in infants; softening of airway cartilage. Kid under 1 with noisy breathing better when prone or upright. Self-resolves almost always (do not treat).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=73"
+    },
+    "guideline": {
+      "text": "A systematic review on spontaneous resolution of laryngomalacia exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3299329/"
+    }
+  },
+  {
+    "id": "s2med-0710",
+    "category": "IM Pulmonary",
+    "q": "Vascular ring per p73?",
+    "a": "A weird stridor cause USMLE contrasts with laryngomalacia: a vascular embryology variant compresses the airway. Mitigated when the neck is extended (vs laryngomalacia: prone/upright). Treatment is surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=73"
+    },
+    "guideline": {
+      "text": "A case report of double aortic arch causing stridor exists; I did not verify the neck-extension detail.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8711860/"
+    }
+  },
+  {
+    "id": "s2med-0711",
+    "category": "IM Pulmonary",
+    "q": "Velopharyngeal insufficiency per p73?",
+    "a": "High-pitched, hypernasal or whistling speech in a patient with a history of cleft palate (shortened palate), with or without repair. The answer on a 2CK NBME to 'cleft palate, what is the kid at risk for'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2med-0712",
+    "category": "IM Pulmonary",
+    "q": "Cholesteatoma per p73?",
+    "a": "Idiopathic squamous proliferation in the middle ear behind the tympanic membrane, presenting as an enlarging mass. Can cause obstructive (conductive) hearing loss and grow into the inner ear. Requires surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=73"
+    },
+    "guideline": {
+      "text": "StatPearls on middle ear cholesteatoma is a reference; I did not verify the text. The source says 'idiopathic'; acquired cholesteatoma is often linked to chronic middle ear disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448108/"
+    }
+  },
+  {
+    "id": "s2med-0713",
+    "category": "IM Pulmonary",
+    "q": "Tracheomalacia per p73?",
+    "a": "Not pediatric, but confused with laryngomalacia: stridor in (usually) adults developing months after surgery, due to a history of intubation softening the airway cartilage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 73,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=73"
+    },
+    "guideline": {
+      "text": "StatPearls on tracheomalacia is a reference; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK553191/"
+    }
   }
 ];

@@ -317,3 +317,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and two figures (choanal atresia diagram; CDH CXR). End of the Pulmonary section.
 - Unverified: "always on the left" for CDH.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p72 (IM Pulmonary: neonatal lung, allergic rhinitis) - 11 cards, ids s2med-0696 to 0706
+- Inspected page text (no figures).
+- Conflicts: antenatal steroid regimen wording ("two boluses within 24 h"); NRDS management sequence vs current neonatal resuscitation guideline; "idiopathic" etc. Unverified: guideline texts.
+
+## p73 (IM Pulmonary: pediatric ENT airway) - 7 cards, ids s2med-0707 to 0713
+- Inspected page text and figure (peritonsillar abscess diagram).
+- Source calls cholesteatoma "idiopathic" (acquired forms linked to chronic ear disease). Unverified: vascular ring neck extension.
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
