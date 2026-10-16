@@ -613,3 +613,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Differences kept as notes, source answers kept: StatPearls names FBN1 only (source says FBN1/2); collagen III defect fits vascular EDS (COL3A1), not all EDS; Williams is usually a new 7q11.23 deletion; AAOS gives bracing at 25-45 degrees in a growing child; USPSTF does not recommend routine screening (I).
 - Left un-noted (not verified): fibrillin sheath-around-elastin wording, Marfan not associated with berry aneurysms, scoliosis 3% and 4:1 figures, most common type wording, Marfan/Friedreich/NF1 associations, surgery >40 degrees threshold (AAOS fetch did not show the surgical threshold).
 - Mobile QA (320x740, live, local headless Chrome): all 17 cards ox=false off=false bad=0; EDS photo card renders. One answer reworded after QA so the bold lead is not the wrong choice (s2peds-1929).
+
+## p130 (scoliosis figure, JIA, psoriasis) - 15 cards, ids s2peds-1941 to 1955
+- Inspected page pixels. One source figure added: scoliosis rib rotation figure with x-ray (continues p129).
+- Notes verified against StatPearls JIA, Psoriatic Arthritis and Plaque Psoriasis, and the 2019 ACR JIA guideline (non-systemic polyarthritis).
+- Differences kept as notes, source answers kept: StatPearls says RF/anti-CCP have little diagnostic value in JIA (source says order both); salmon rash is a systemic-onset feature; steroids are not an automatic second step in current guidelines; PsA precedes skin disease in about 17%; HLA-B27 is much weaker in psoriatic than in axial spondyloarthritis.
+- Left un-noted (not verified): low MCV in anemia of chronic disease, arthrocentesis leukocytes, Auspitz sign, psoriasis plus IBD vignette, calcipotriene/triamcinolone list. The psoriasis treatment list is cut off at the page bottom and continues on p131.
+- Mobile QA: PENDING

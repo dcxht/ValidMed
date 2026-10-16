@@ -27709,5 +27709,212 @@ export default [
       "page": 129,
       "url": "/mehlman/hy-pediatrics.pdf#page=129"
     }
+  },
+  {
+    "id": "s2peds-1941",
+    "category": "Scoliosis",
+    "q": "What does the p130 figure at the top of the page (continuing the scoliosis entry) show?",
+    "a": "A normal spine, scoliosis with rib rotation, and a scoliosis x-ray with rib rotation. The x-ray labels curves of 35.1 and 25.7 degrees.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "img": "/mehlman/figures/peds-p130-scoliosis-rib-rotation.png",
+    "imgAlt": "Actual source figure (continuing the p129 scoliosis entry): normal spine, scoliosis with rib rotation, and a scoliosis x-ray showing curves of 35.1 and 25.7 degrees"
+  },
+  {
+    "id": "s2peds-1942",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "How does p130 describe JIA (JRA) in USMLE terms?",
+    "a": "Formerly juvenile rheumatoid arthritis. It sounds like regular RA but in a kid, and 2CK Peds forms love it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls lists seven ILAR JIA categories, including oligoarthritis, RF-positive and RF-negative polyarthritis, systemic arthritis, psoriatic and enthesitis-related arthritis.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-1943",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "How does p130 say to pick JRA over septic arthritis when a child has a warm, red, painful knee and low-grade fever?",
+    "a": "Look for similar past episodes. Septic arthritis is usually a one-off, while JRA is described as intermittent or episodic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls lists septic arthritis in the differential of childhood arthritis that must be excluded.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-1944",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "How often does the salmon-pink rash appear in JRA vignettes per p130?",
+    "a": "About 50%. About half of JRA vignettes do not mention a rash.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls links the evanescent erythematous rash to systemic-onset JIA specifically.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-1945",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "What does p130 say about MCV in the anemia of chronic disease of JRA?",
+    "a": "MCV can be low. Resources that push normal MCV are wrong per p130, and many 2CK NBME questions give MCV in the 70s.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    }
+  },
+  {
+    "id": "s2peds-1946",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "Which cardiac complication does p130 link to JRA?",
+    "a": "Serous pericarditis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls: systemic-onset JIA criteria include serositis (pericarditis, pleuritis, peritonitis).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-1947",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "What does arthrocentesis show in JRA per p130?",
+    "a": "Leukocytes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    }
+  },
+  {
+    "id": "s2peds-1948",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "Which is more specific, anti-CCP or rheumatoid factor, and what does p130 say about ordering them in JRA?",
+    "a": "Anti-CCP is more specific than RF. p130 says both should be ordered for JRA and RA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls: positive RF or anti-CCP provides little diagnostic value in JIA but may indicate a poorer course; they are part of initial testing.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-1949",
+    "category": "Juvenile idiopathic arthritis",
+    "q": "What are the two arms of JRA treatment per p130 and what drugs go with each?",
+    "a": "Symptoms: NSAIDs first, then steroids (they do not slow disease progression). Disease progression: DMARDs, methotrexate first, then add an anti-TNF agent (infliximab, adalimumab or etanercept).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls: NSAIDs are the mainstay of initial symptomatic treatment for all subtypes. The 2019 ACR guideline covers methotrexate and TNF inhibitor use in non-systemic polyarthritis. Current guidelines limit systemic steroids in several subtypes, so steroids are not an automatic second step.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6561114/"
+    }
+  },
+  {
+    "id": "s2peds-1950",
+    "category": "Psoriasis",
+    "q": "How common is arthritis before skin findings in psoriasis per p130?",
+    "a": "15% of patients get arthritis before any skin findings.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls: in psoriatic arthritis, arthritis comes before skin disease in about 17% of patients, with skin disease first in 68% and onset together in 15%.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK547710/"
+    }
+  },
+  {
+    "id": "s2peds-1951",
+    "category": "Psoriasis",
+    "q": "Where do psoriasis plaques occur and how are they described per p130?",
+    "a": "Silvery and scaly over extensor regions such as the elbows. They can also appear on the face (forehead and lip).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls: erythematous plaques with silvery-white scales on the extensor elbows and knees, scalp and lumbosacral region.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430879/"
+    }
+  },
+  {
+    "id": "s2peds-1952",
+    "category": "Psoriasis",
+    "q": "What is the Auspitz sign per p130?",
+    "a": "Bleeding when the scales are removed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    }
+  },
+  {
+    "id": "s2peds-1953",
+    "category": "Psoriasis",
+    "q": "What does PAIR stand for in the p130 HLA-B27 constellation?",
+    "a": "Psoriasis, Ankylosing spondylitis, IBD, Reactive arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls: HLA-B27 is far more common in axial spondyloarthritis (80-90%) than in axial psoriatic arthritis (about 20%), so psoriasis alone is a weaker HLA-B27 link than the mnemonic suggests.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK547710/"
+    }
+  },
+  {
+    "id": "s2peds-1954",
+    "category": "Psoriasis",
+    "q": "A 17-year-old has silvery plaques on the elbow and forehead plus bloody stool. What does p130 say the stool most likely means?",
+    "a": "IBD, due to the HLA-B27 association. Do not confuse the psoriasis-IBD combination with dermatitis herpetiformis plus celiac disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    }
+  },
+  {
+    "id": "s2peds-1955",
+    "category": "Psoriasis",
+    "q": "Which topical agents does p130 name first for plaque psoriasis?",
+    "a": "Calcipotriene (a vitamin D derivative), triamcinolone or hydrocortisone (corticosteroids), and more (the list is cut off at the bottom of p130).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 130,
+      "url": "/mehlman/hy-pediatrics.pdf#page=130"
+    },
+    "guideline": {
+      "text": "StatPearls: conventional therapy includes topical corticosteroids and phototherapy.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430879/"
+    }
   }
 ];
