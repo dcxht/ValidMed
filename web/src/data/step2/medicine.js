@@ -51588,5 +51588,467 @@ export default [
       "page": 381,
       "url": "/mehlman/hy-internal-medicine.pdf#page=381"
     }
+  },
+  {
+    "id": "s2med-3879",
+    "category": "IM Mixed",
+    "q": "Breast imaging per p382 (continued from p381)?",
+    "a": "If performed: ultrasound only under age 30; over age 30, mammogram +/- ultrasound.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3880",
+    "category": "IM Mixed",
+    "q": "Anuria after catheter removal per p382?",
+    "a": "Acute urethral obstruction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3881",
+    "category": "IM Mixed",
+    "q": "Preventing contrast-induced nephropathy per p382?",
+    "a": "Saline hydration beforehand.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3882",
+    "category": "IM Mixed",
+    "q": "BUN/Cr ratio per p382?",
+    "a": "Above 20: prerenal (hypovolemia, e.g., heart failure). Below 20: not prerenal. The source says the cutoffs 15-20 for post-renal and <15 for intra-renal are wrong on 2CK NBMEs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3883",
+    "category": "IM Mixed",
+    "q": "Blood loss + oliguria per p382?",
+    "a": "Acute tubular necrosis. Blood loss + obstetric catastrophe: diffuse cortical necrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3884",
+    "category": "IM Mixed",
+    "q": "Sickle cell and the kidney per p382?",
+    "a": "Nephrotic syndrome: focal segmental glomerulosclerosis. Red urine: renal papillary necrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3885",
+    "category": "IM Mixed",
+    "q": "2+ blood on urine dipstick but 0-4 RBCs/HPF on microscopy per p382?",
+    "a": "False-positive dipstick blood: myoglobinuria (rhabdomyolysis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3886",
+    "category": "IM Mixed",
+    "q": "Pleural / supradiaphragmatic plaques per p382?",
+    "a": "Asbestosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3887",
+    "category": "IM Mixed",
+    "q": "Preferred antibiotics in sepsis per p382?",
+    "a": "Ceftriaxone; in young children, cefotaxime. Ceftriaxone also for spontaneous bacterial peritonitis (SBP).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3888",
+    "category": "IM Mixed",
+    "q": "SBP clues and diagnosis per p382?",
+    "a": "Cirrhosis, recent peritoneal dialysis, or nephrotic syndrome + fever + abdominal pain. Diagnose with paracentesis, gram stain, and >250 WBCs (the source writes per HPF).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3889",
+    "category": "IM Mixed",
+    "q": "Dysphagia to solids and liquids at the same time from the start per p382?",
+    "a": "Neurogenic cause: achalasia. Dysphagia to solids progressing to solids and liquids: esophageal cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3890",
+    "category": "IM Mixed",
+    "q": "Halitosis + gurgling on swallowing + regurgitation of undigested food per p382?",
+    "a": "Zenker diverticulum. Initial diagnostic modality for Zenker and achalasia: barium swallow. A bird's beak on barium swallow: manometry to confirm achalasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3891",
+    "category": "IM Mixed",
+    "q": "GERD history + dysphagia per p382?",
+    "a": "Straight to endoscopy to rule out cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3892",
+    "category": "IM Mixed",
+    "q": "Diabetic with new-onset GERD per p382 (continued on p383)?",
+    "a": "Diabetic gastroparesis; give metoclopramide, not a PPI. Before giving the medication, do endoscopy first to rule out physical obstruction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 382,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=382"
+    }
+  },
+  {
+    "id": "s2med-3893",
+    "category": "IM Mixed",
+    "q": "Negative endoscopy in suspected diabetic gastroparesis per p383 (continued from p382)?",
+    "a": "Gastric-emptying scintigraphy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3894",
+    "category": "IM Mixed",
+    "q": "Bulimia nervosa or anorexia and bupropion per p383?",
+    "a": "Never give bupropion (seizure risk).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3895",
+    "category": "IM Mixed",
+    "q": "Anorexia electrolytes and death per p383?",
+    "a": "Hypokalemia; the most common cause of death is arrhythmia from hypokalemia. Refeeding syndrome: worry about hypophosphatemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3896",
+    "category": "IM Mixed",
+    "q": "Anorexia + depression per p383?",
+    "a": "Mirtazapine (alpha-2 antagonist); stimulates appetite.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3897",
+    "category": "IM Mixed",
+    "q": "Amenorrhea hormones per p383?",
+    "a": "Anorexia: low FSH + low estrogen (hypogonadotropic). Premature ovarian failure, Turner syndrome, menopause: high FSH (low inhibin) + low estrogen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3898",
+    "category": "IM Mixed",
+    "q": "Cholelithiasis per p383?",
+    "a": "Diagnose with abdominal ultrasound; fat, forties, female, fertile. With fever: cholecystitis. Treatment: cholecystectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3899",
+    "category": "IM Mixed",
+    "q": "Cholelithiasis when the patient declines surgery or is pregnant per p383?",
+    "a": "Ursodeoxycholic acid (ursodiol).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3900",
+    "category": "IM Mixed",
+    "q": "Suspected cholecystitis with negative ultrasound per p383?",
+    "a": "HIDA scan; a gallbladder that doesn't light up confirms cholecystitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3901",
+    "category": "IM Mixed",
+    "q": "Why cholelithiasis in pregnancy per p383?",
+    "a": "Estrogen upregulates HMG-CoA reductase and progesterone slows biliary peristalsis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3902",
+    "category": "IM Mixed",
+    "q": "Hair-pulling and eating hair + GI symptoms per p383?",
+    "a": "Gastric bezoar (hair ball). The source labels it trichotillomania (eating one's hair).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3903",
+    "category": "IM Mixed",
+    "q": "Surgery history + high-pitched bowel sounds or acute abdominal symptoms per p383?",
+    "a": "Small bowel obstruction (SBO).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3904",
+    "category": "IM Mixed",
+    "q": "Renal failure + friction rub over the chest per p383?",
+    "a": "Uremic pericarditis; do hemodialysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3905",
+    "category": "IM Mixed",
+    "q": "High leukocytes with leukocyte ALP per p383?",
+    "a": "High leukocyte ALP: leukemoid reaction. Low leukocyte ALP: CML.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3906",
+    "category": "IM Mixed",
+    "q": "CML per p383?",
+    "a": "Metamyelocytes + myelocytes + splenomegaly. Treatment: imatinib (causes fluid retention/edema).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3907",
+    "category": "IM Mixed",
+    "q": "CLL and AML per p383?",
+    "a": "Smudge cells + autoimmune hemolytic anemia: CLL. Auer rods: AML, composed of myeloperoxidase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3908",
+    "category": "IM Mixed",
+    "q": "DIC in AML per p383?",
+    "a": "DIC caused by Auer rod release into the blood (the source labels the line 'Tx of AML', which appears to be a typo).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3909",
+    "category": "IM Mixed",
+    "q": "Child with high lymphocytes per p383?",
+    "a": "ALL or pertussis (weird because bacterial, but lymphocytes are often >30k).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3910",
+    "category": "IM Mixed",
+    "q": "Dry cough in winter per p383 (continued on p384)?",
+    "a": "Cough-variant asthma (1/3 of asthmatics only have cough).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 383,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=383"
+    }
+  },
+  {
+    "id": "s2med-3911",
+    "category": "IM Mixed",
+    "q": "Young African American woman + dry cough per p384 (continued from p383)?",
+    "a": "Normal CXR: asthma (mast cell activation), not sarcoidosis. Nodularity on CXR: sarcoidosis (noncaseating granulomas).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3912",
+    "category": "IM Mixed",
+    "q": "Sarcoid calcium per p384?",
+    "a": "Hypercalcemia with LOW PTH + high calcium. Epithelioid (activated) macrophages produce 1-alpha hydroxylase, activating vitamin D3; the increased calcium means decreased calcium in the feces (more small bowel absorption).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3913",
+    "category": "IM Mixed",
+    "q": "Treatment of sarcoid per p384?",
+    "a": "Steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3914",
+    "category": "IM Mixed",
+    "q": "Outpatient asthma stepwise treatment per p384?",
+    "a": "SABA, then low-dose ICS, then maximize ICS dose, then LABA, then any number of drugs (mast cell stabilizers, anti-leukotrienes), then oral steroids as a last resort.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3915",
+    "category": "IM Mixed",
+    "q": "Child with asthma on a SABA that isn't effective per p384?",
+    "a": "Next best step: ICS (fluticasone). Most effective way to decrease recurrence: oral steroids (not the next best step, but the most effective).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3916",
+    "category": "IM Mixed",
+    "q": "40s male + hematuria + hemoptysis per p384?",
+    "a": "Goodpasture syndrome. Antibodies: anti-GBM (anti-collagen IV). Diagnosis: antibodies first, confirmed by renal biopsy with linear immunofluorescence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3917",
+    "category": "IM Mixed",
+    "q": "Hematuria + hemoptysis + 'head-itis' per p384?",
+    "a": "Mastoiditis, sinusitis, otitis, or nasal septal perforation: Wegener (granulomatosis with polyangiitis). Diagnosis: c-ANCA (anti-PR3; anti-proteinase 3).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3918",
+    "category": "IM Mixed",
+    "q": "Asthma + eosinophilia per p384?",
+    "a": "Churg-Strauss (eosinophilic granulomatosis with polyangiitis). Diagnosis: p-ANCA (anti-MPO).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3919",
+    "category": "IM Mixed",
+    "q": "Hematuria in isolation + p-ANCA per p384?",
+    "a": "Microscopic polyangiitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
+  },
+  {
+    "id": "s2med-3920",
+    "category": "IM Mixed",
+    "q": "Severe renal disease in Wegener, Goodpasture, or MPA per p384?",
+    "a": "Rapidly progressive (crescentic) glomerulonephritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 384,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=384"
+    }
   }
 ];

@@ -1317,3 +1317,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p381 (IM mixed bullets: murmurs, screening) - 15 cards, ids s2med-3864 to 3878
 - Screening ages/intervals (50, first-degree relative at 40): source, unverified, flagged in notes.
 - Mobile QA (320x740, local vite preview build, not live): all 45 cards ox=false off=false bad=0.
+
+## p382 (IM mixed bullets: renal, GI) - 14 cards, ids s2med-3879 to 3892
+- Breast imaging age rule and SBP ">250 WBCs per HPF" unit: source wording, flagged unverified.
+
+## p383 (IM mixed bullets: GI, eating disorders, heme) - 18 cards, ids s2med-3893 to 3910
+- "Tx of AML a DIC" line is garbled in source; carded as DIC cause with caution note. "Trichotillomania (eating hair)" paraphrased.
+
+## p384 (IM mixed bullets: sarcoid, asthma, vasculitis) - 10 cards, ids s2med-3911 to 3920
+- Mobile QA (320x740, local vite preview build, not live): all 42 cards ox=false off=false bad=0.
