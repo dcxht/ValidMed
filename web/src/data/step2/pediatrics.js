@@ -29886,5 +29886,192 @@ export default [
       "text": "StatPearls: myotonia improves with repeated exercise and worsens with cold exposure.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK557446/"
     }
+  },
+  {
+    "id": "s2peds-2098",
+    "category": "Myotonic dystrophy",
+    "q": "What is the USMLE vignette for myotonic dystrophy per p140?",
+    "a": "A patient who cannot relax grip on a doorknob or handshake, or cannot let go of a golf club.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: myotonia is the inability to relax muscles; it improves with repeated exercise and worsens with cold.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557446/"
+    }
+  },
+  {
+    "id": "s2peds-2099",
+    "category": "Myotonic dystrophy",
+    "q": "What hair finding is sometimes associated with myotonic dystrophy per p140?",
+    "a": "Early / frontal balding.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2peds-2100",
+    "category": "Mitochondrial myopathy",
+    "q": "What tetrad points to a mitochondrial disorder per p140?",
+    "a": "Hypotonia, ear/eye problems, and lactic acidosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: MELAS is a mitochondrial disorder affecting the nervous system and muscles with lactic acidosis. I did not verify the page's tetrad as a rule.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532959/"
+    }
+  },
+  {
+    "id": "s2peds-2101",
+    "category": "Mitochondrial myopathy",
+    "q": "What is the buzzy descriptor in mitochondrial myopathy questions per p140?",
+    "a": "Ragged red fibers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    }
+  },
+  {
+    "id": "s2peds-2102",
+    "category": "Mitochondrial myopathy",
+    "q": "How are mitochondrial disorders inherited per p140?",
+    "a": "Maternally inherited only (per the source).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "Current caution: GeneReviews notes that more than 1,000 nuclear genes encode mitochondrial proteins and that nuclear-gene mitochondrial disorders can be autosomal recessive. So not all mitochondrial disease is maternally inherited; mtDNA variants are. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1224/"
+    }
+  },
+  {
+    "id": "s2peds-2103",
+    "category": "Mitochondrial myopathy",
+    "q": "What is heteroplasmy per p140?",
+    "a": "Offspring have varying disease severity based on variation in how diseased mitochondrial genes are allocated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "GeneReviews: mtDNA variants may occur as a mixture of mutated and wild type mtDNA within each cell (heteroplasmy).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1224/"
+    }
+  },
+  {
+    "id": "s2peds-2104",
+    "category": "Mixed connective tissue disease",
+    "q": "What antibody gives mixed connective tissue disease per p140, and can it occur in kids?",
+    "a": "Anti-U1-ribonucleoprotein (U1-RNP) antibodies. It can occur in kids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: MCTD is defined by anti-U1-RNP antibodies and Raynaud phenomenon. I did not verify occurrence in children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542198/"
+    }
+  },
+  {
+    "id": "s2peds-2105",
+    "category": "Mixed connective tissue disease",
+    "q": "What does the LPS mnemonic stand for in MCTD per p140?",
+    "a": "Lupus, Polymyositis, Scleroderma: combined features from three different disorders.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: overlapping features of at least 2 connective tissue diseases, including lupus, systemic sclerosis, polymyositis, dermatomyositis and rheumatoid arthritis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542198/"
+    }
+  },
+  {
+    "id": "s2peds-2106",
+    "category": "Thyroglossal duct cyst",
+    "q": "What is the classic vignette for a thyroglossal duct cyst per p140?",
+    "a": "A painless midline neck lump in a child that moves upward with swallowing or protrusion of the tongue. p140 says this description is seen for maybe only about half of questions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: midline neck masses near the hyoid bone. I did not verify the swallowing and tongue-protrusion movement or the half-of-questions claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519057/"
+    }
+  },
+  {
+    "id": "s2peds-2107",
+    "category": "Thyroglossal duct cyst",
+    "q": "How else can a thyroglossal duct cyst be described per p140?",
+    "a": "A painless mass inferior to the hyoid bone that shows uptake on a Technetium-99 scan.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: located near the hyoid bone along the path of thyroid descent. I did not verify the technetium uptake.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519057/"
+    }
+  },
+  {
+    "id": "s2peds-2108",
+    "category": "Thyroglossal duct cyst",
+    "q": "What embryology does USMLE want for a thyroglossal duct cyst per p140?",
+    "a": "Endoderm of the foramen cecum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: the thyroid primordium originates at the foramen cecum and descends to the neck near the hyoid.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519057/"
+    }
+  },
+  {
+    "id": "s2peds-2109",
+    "category": "Sternocleidomastoid injury",
+    "q": "Which story gives sternocleidomastoid injury per p140?",
+    "a": "A nodular mass in the lateral neck of an infant who was born via forceps delivery (a risk factor for damage to the muscle).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: congenital torticollis is a contracture or fibrosis of the sternocleidomastoid; trauma during childbirth is one proposed cause, with a reported 2% incidence in traumatic deliveries.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549778/"
+    }
+  },
+  {
+    "id": "s2peds-2110",
+    "category": "Branchial cleft cyst",
+    "q": "Which story gives a branchial cleft cyst per p140?",
+    "a": "An idiopathic lateral neck mass in an infant that may or may not have an opening to the skin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 140,
+      "url": "/mehlman/hy-pediatrics.pdf#page=140"
+    },
+    "guideline": {
+      "text": "StatPearls: branchial cleft anomalies can be cysts (no connection to skin or pharynx), sinuses or fistulae.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482467/"
+    }
   }
 ];

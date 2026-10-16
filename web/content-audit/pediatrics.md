@@ -676,3 +676,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answers kept with caution notes: (1) fibromyalgia "psych condition, not an actual muscle disorder" - StatPearls describes a chronic widespread pain disorder; (2) fibromyalgia "treatment is SSRIs" - StatPearls lists duloxetine, milnacipran, pregabalin, amitriptyline.
 - Left un-noted or flagged unverified: supracondylar median nerve and "distal shaft" alias, dystroglycan mechanism, Gower description, Duchenne frameshift vs Becker, dermatomyositis in children, Gottron/heliotrope wording, EMG/NCS as first step (note says EMG is nonspecific), fibromyalgia normal ESR/no fever, CTG wording in the cited chapter, 1,25-D3 explanation.
 - Mobile QA (320x740, live, local headless Chrome): all 23 cards ox=false off=false bad=0.
+
+## p140 (myotonic dystrophy end, mitochondrial myopathy, MCTD, neck masses) - 13 cards, ids s2peds-2098 to 2110
+- Inspected page pixels. No figures. This ends the MSK/rheum section; neck masses close the page.
+- Notes verified against StatPearls (MELAS, MCTD, Thyroglossal Duct Cyst, Congenital Torticollis, Branchial Cleft Cysts, Myotonic Dystrophy) and GeneReviews (Primary Mitochondrial Disorders Overview).
+- Source conflict, source answer kept with caution note: "mitochondrial disorders are maternally inherited only" - GeneReviews notes over 1,000 nuclear genes encode mitochondrial proteins and nuclear-gene disorders can be autosomal recessive.
+- Left un-noted or flagged unverified: early frontal balding, hypotonia/ear/eye/lactic acidosis tetrad as a rule, ragged red fibers, MCTD in children, thyroglossal swallowing/tongue movement and technetium uptake, "half of Qs" claim, branchial cleft opening to skin.
+- Mobile QA: PENDING (batched; will be run after the next push)
