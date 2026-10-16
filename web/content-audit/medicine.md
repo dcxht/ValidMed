@@ -465,3 +465,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figures med-p104-01..04 inspected.
 - Note: Kawasaki coronary aneurysm de-emphasis is an exam heuristic only. Unverified: review texts.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p105 (IM Gastro: herpes labialis, scarlet fever, HFM) - 9 cards, ids s2med-0965 to 0973
+- Figures med-p105-01/02/03 inspected. Page starts mid-impetigo bullet. Expletive paraphrased.
+- Conflict: HSV1 vs HSV2 site (source says exam does not care). Unverified: review texts.
+
+## p106 (IM Gastro: herpangina, Koplik, sialolithiasis, leukoplakia) - 6 cards, ids s2med-0974 to 0979
+- Figures med-p106-01/02/03 inspected (leukoplakia has no image on this page). Page ends at leukoplakia; continues p107.
+- Unverified: Koplik/rubella node wording.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

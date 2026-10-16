@@ -12722,5 +12722,226 @@ export default [
       "text": "A case article on progressive perioral lesions in a child exists; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12702201/"
     }
+  },
+  {
+    "id": "s2med-0965",
+    "category": "IM Gastro",
+    "q": "Lip lesions in a young child per p105?",
+    "a": "Usually impetigo caused by S. aureus or Group A Strep (S. pyogenes). Can lead to PSGN if caused by Strep.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    },
+    "guideline": {
+      "text": "CDC clinical guidance on group A strep impetigo and on PSGN exists; I did not verify its text.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html"
+    }
+  },
+  {
+    "id": "s2med-0966",
+    "category": "IM Gastro",
+    "q": "Herpes labialis per p105?",
+    "a": "Caused by HSV1 or 2. The source says USMLE does not care about HSV1 being lips and HSV2 genitals.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    },
+    "img": "/mehlman/figures/med-p105-01.jpg",
+    "imgAlt": "Single grouped vesicular lesion at the corner of the upper lip",
+    "guideline": {
+      "text": "CDC STI guidelines note that either type can infect either site; I did not verify the details.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2med-0967",
+    "category": "IM Gastro",
+    "q": "HSV infection course per p105?",
+    "a": "Primary infection presents with fever and regional lymphadenopathy; recurrences are less severe. HSV goes latent in sensory nerves.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2med-0968",
+    "category": "IM Gastro",
+    "q": "HSV virus structure per p105?",
+    "a": "USMLE answer: 'DNA, enveloped, linear'. Do not confuse with Hepatitis B: 'DNA, enveloped, circular'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    },
+    "guideline": {
+      "text": "A chapter on herpesviruses and a review of HBV structure exist; I did not verify their text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK20829/"
+    }
+  },
+  {
+    "id": "s2med-0969",
+    "category": "IM Gastro",
+    "q": "Acyclovir per p105?",
+    "a": "DNA polymerase inhibitor causing chain termination. HSV resistance is due to altered thymidine kinase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    },
+    "guideline": {
+      "text": "A review of antiviral drug resistance exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2871161/"
+    }
+  },
+  {
+    "id": "s2med-0970",
+    "category": "IM Gastro",
+    "q": "Scarlet fever per p105?",
+    "a": "Caused by Group A Strep. Strawberry tongue and red lips plus a salmon-pink maculopapular body rash.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    },
+    "img": "/mehlman/figures/med-p105-02.jpg",
+    "imgAlt": "Strawberry tongue with a red, bumpy surface",
+    "guideline": {
+      "text": "CDC clinical guidance on scarlet fever is a reference; I did not verify the text.",
+      "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/scarlet-fever.html"
+    }
+  },
+  {
+    "id": "s2med-0971",
+    "category": "IM Gastro",
+    "q": "Scarlet fever treatment per p105?",
+    "a": "Penicillin to prevent rheumatic fever (type II hypersensitivity). Can also lead to PSGN (type III hypersensitivity).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2med-0972",
+    "category": "IM Gastro",
+    "q": "Hand-foot-mouth disease per p105?",
+    "a": "Caused by Coxsackie A (an RNA virus, picornaviridae). Benign but contagious lesions on the hands, feet and mouth. Usually pediatric but can occur in adults (daycare workers, parents).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    },
+    "img": "/mehlman/figures/med-p105-03.jpg",
+    "imgAlt": "Small red spots around a child's mouth",
+    "guideline": {
+      "text": "A case report of HFMD in an adult exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9924706/"
+    }
+  },
+  {
+    "id": "s2med-0973",
+    "category": "IM Gastro",
+    "q": "Coxsackie B per p105?",
+    "a": "Do not confuse with Coxsackie A: coxsackie B can cause dilated cardiomyopathy, type I diabetes and pleurodynia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 105,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=105"
+    },
+    "guideline": {
+      "text": "A paper on coxsackievirus B in myocarditis and dilated cardiomyopathy exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4227425/"
+    }
+  },
+  {
+    "id": "s2med-0974",
+    "category": "IM Gastro",
+    "q": "Herpangina per p106?",
+    "a": "Also caused by coxsackie A. Presents as oropharyngeal vesicles or sores. Can occur with or without hand-foot-mouth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=106"
+    },
+    "img": "/mehlman/figures/med-p106-01.jpg",
+    "imgAlt": "Small white vesicles and ulcers on the soft palate and posterior pharynx",
+    "guideline": {
+      "text": "StatPearls on herpangina is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507792/"
+    }
+  },
+  {
+    "id": "s2med-0975",
+    "category": "IM Gastro",
+    "q": "Koplik spots per p106?",
+    "a": "Caused by measles. White/bluish spots on the buccal mucosa. One way to distinguish measles (rubeola) from rubella (German measles).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=106"
+    },
+    "img": "/mehlman/figures/med-p106-02.jpg",
+    "imgAlt": "Koplik spots (small white dots) on red buccal mucosa",
+    "guideline": {
+      "text": "CDC clinical overview of rubella exists; I did not verify the text on Koplik spots.",
+      "url": "https://www.cdc.gov/rubella/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2med-0976",
+    "category": "IM Gastro",
+    "q": "Rubella-specific finding per p106?",
+    "a": "Memorize sub-occipital and post-auricular lymphadenopathy as unique to rubella, as Koplik spots are to measles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=106"
+    },
+    "guideline": {
+      "text": "CDC clinical overview of rubella is a reference; I did not verify the lymph node wording.",
+      "url": "https://www.cdc.gov/rubella/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2med-0977",
+    "category": "IM Gastro",
+    "q": "Measles vs rubella shared features per p106?",
+    "a": "Both have a head-to-toe maculopapular body rash. Both can present with fever, cough, coryza, conjunctivitis; these are nonspecific for viral infection (not only measles), and show up in numerous NBME questions for various viruses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2med-0978",
+    "category": "IM Gastro",
+    "q": "Sialolithiasis per p106?",
+    "a": "Stones within the ducts of the salivary glands. Stensen duct is the opening of the parotid duct into the oral cavity, near the 2nd upper molar bilaterally. A question may describe pain or inflammation on the buccal mucosa across from the second upper molar; sialadenitis or sialolithiasis can be answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=106"
+    },
+    "img": "/mehlman/figures/med-p106-03.jpg",
+    "imgAlt": "Endoscopic view of a small stone in a salivary duct (arrow)",
+    "guideline": {
+      "text": "A paper on parotid sialolithiasis in Stensen's duct exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16388301/"
+    }
+  },
+  {
+    "id": "s2med-0979",
+    "category": "IM Gastro",
+    "q": "Leukoplakia per p106?",
+    "a": "White-ish, painless, rough patch on the lateral tongue.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 106,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=106"
+    }
   }
 ];
