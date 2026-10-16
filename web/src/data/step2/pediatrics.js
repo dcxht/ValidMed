@@ -37424,5 +37424,170 @@ export default [
       "text": "StatPearls Erb palsy page defines the brachial plexus as C5-C8 and T1. I did not verify the Klumpke details in the passage I read.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK513260/"
     }
+  },
+  {
+    "id": "s2peds-2620",
+    "category": "Peds vignettes",
+    "q": "Outpatient asthma stepwise treatment order per p184-185?",
+    "a": "1) SABA (albuterol) for immediate management; 2) low-dose ICS preventer; 3) maximize ICS dose; 4) add LABA (salmeterol). The source calls that initial order universal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "Current caution: the 2020 NAEPP focused update revised stepwise asthma therapy (it adds ICS-formoterol as-needed and maintenance approaches for ages 12 and over); I could not verify its exact steps from the text I read. StatPearls describes stepwise therapy by symptom frequency and risk. LABAs should be used with an ICS, never alone. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7924476/"
+    }
+  },
+  {
+    "id": "s2peds-2621",
+    "category": "Peds vignettes",
+    "q": "What is the last resort in asthma, and how does it relate to effectiveness per p185?",
+    "a": "Oral corticosteroids are the last resort but are the most effective.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "StatPearls Asthma page. I did not verify the effectiveness ranking in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430901/"
+    }
+  },
+  {
+    "id": "s2peds-2622",
+    "category": "Peds vignettes",
+    "q": "12M with ongoing wheezing on an albuterol inhaler. Next best step per p185?",
+    "a": "Add low-dose ICS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "StatPearls: stepwise approach by symptom frequency and risk. NAEPP 2020 updates this for ages 12 and over; source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430901/"
+    }
+  },
+  {
+    "id": "s2peds-2623",
+    "category": "Peds vignettes",
+    "q": "12M with ongoing wheezing on albuterol. What is most likely to decrease recurrence per p185?",
+    "a": "Oral corticosteroids (despite being the last resort, they are the most effective at decreasing recurrence; also assessed on FM NBME forms).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "I did not verify this exam convention; oral steroids carry the most adverse effects, which is why they are used last.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430901/"
+    }
+  },
+  {
+    "id": "s2peds-2624",
+    "category": "Peds vignettes",
+    "q": "After LABA and before oral steroids, which agents can be given in any order per p185?",
+    "a": "Nedocromil or cromolyn sodium, zileuton, montelukast, zafirlukast.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "StatPearls covers each of these agents individually (cromolyn, zileuton, leukotriene receptor antagonists). I did not verify the 'any order' claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554445/"
+    }
+  },
+  {
+    "id": "s2peds-2625",
+    "category": "Peds vignettes",
+    "q": "What is the mechanism of nedocromil and cromolyn sodium per p185?",
+    "a": "Mast cell stabilizers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "StatPearls: cromolyn sodium is a mast cell stabilizer approved for asthma prophylaxis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557473/"
+    }
+  },
+  {
+    "id": "s2peds-2626",
+    "category": "Peds vignettes",
+    "q": "What is the mechanism of zileuton per p185?",
+    "a": "Lipoxygenase inhibitor (the enzyme that makes leukotrienes from arachidonic acid).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "StatPearls: zileuton is a 5-lipoxygenase inhibitor for chronic asthma in patients aged 12 and older.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448202/"
+    }
+  },
+  {
+    "id": "s2peds-2627",
+    "category": "Peds vignettes",
+    "q": "What is the mechanism of the -lukasts (montelukast, zafirlukast) per p185?",
+    "a": "Leukotriene LTC4, D4 and E4 inhibitors (receptor antagonists). LTB4 receptor agonism is unrelated and induces neutrophilic chemotaxis (LTB4, IL-8, kallikrein, platelet-activating factor, C5a, bacterial proteins; Step 1).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "StatPearls: montelukast and zafirlukast are cysteinyl leukotriene receptor antagonists. I did not verify the LTB4 chemotaxis list.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554445/"
+    }
+  },
+  {
+    "id": "s2peds-2628",
+    "category": "Peds vignettes",
+    "q": "16M snowboards all day, takes a pain reliever for sore muscles, and next day wheezes on the slopes again. What is going on per p185?",
+    "a": "He took aspirin; this is Samter triad (now aspirin-exacerbated respiratory disease, AERD): aspirin-induced asthma, aspirin hypersensitivity and nasal polyps. Other NSAIDs can precipitate it, but the literature and USMLE make it explicitly about aspirin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "Review: AERD is a triad of asthma, chronic rhinosinusitis with nasal polyposis, and a respiratory reaction to aspirin and other COX-1 inhibiting NSAIDs. The source's 'explicitly aspirin' is its exam advice.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7314471/"
+    }
+  },
+  {
+    "id": "s2peds-2629",
+    "category": "Peds vignettes",
+    "q": "16M takes aspirin and wheezes. What is likely on physical exam per p185?",
+    "a": "Nasal polyps (answer on USMLE).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "Review: AERD includes chronic rhinosinusitis with nasal polyposis.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7314471/"
+    }
+  },
+  {
+    "id": "s2peds-2630",
+    "category": "Peds vignettes",
+    "q": "8M with a non-productive cough worse at night, shortness of breath during the day, and mild hyperinflation on CXR. Next best step in diagnosis per p185?",
+    "a": "Spirometry (answer on NBME); diagnosis is asthma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 185,
+      "url": "/mehlman/hy-pediatrics.pdf#page=185"
+    },
+    "guideline": {
+      "text": "StatPearls: spirometry with a post-bronchodilator response is the primary diagnostic test; asthma shows an obstructive pattern with reduced FEV1/FVC.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430901/"
+    }
   }
 ];

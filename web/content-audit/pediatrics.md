@@ -990,3 +990,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: rapid strep test only for Centor 0-2 (IDSA tests unless overt viral features); empiric amoxicillin while waiting on culture (not verified).
 - Left unverified: beta-lactam allergy convention, EBV rash mechanism/timing/distribution, Klumpke details.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p185 (Bullet points: asthma stepwise therapy, agents, AERD, spirometry) - 11 cards, ids s2peds-2620 to 2630
+- Inspected page text and layout; no figures. First lines finish the asthma ladder bullet from p184; one source line used an expletive in a student quote, left out of card text.
+- Notes verified against StatPearls (Asthma, Cromolyn, Zileuton, Leukotriene Receptor Antagonists), an AERD review and the 2020 NAEPP focused update (title and partial text only).
+- Source answers kept with caution notes: stepwise asthma order (NAEPP 2020 revised for ages 12+, LABA never alone).
+- Left unverified: oral steroid effectiveness convention, any-order claim for add-ons, LTB4 chemotaxis list.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
