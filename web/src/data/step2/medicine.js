@@ -38927,5 +38927,298 @@ export default [
       "page": 292,
       "url": "/mehlman/hy-internal-medicine.pdf#page=292"
     }
+  },
+  {
+    "id": "s2med-2934",
+    "category": "IM Ophthal",
+    "q": "Eye A in the figure per p293?",
+    "a": "A = CN III (oculomotor) lesion, presenting as down and out.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=293"
+    },
+    "img": "/mehlman/figures/med-p293-01.jpg",
+    "imgAlt": "Source figure: eyes A, B, C showing CN III, IV and VI palsies",
+    "guideline": {
+      "text": "A StatPearls page on CN III palsy is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526112/"
+    }
+  },
+  {
+    "id": "s2med-2935",
+    "category": "IM Ophthal",
+    "q": "Eye B in the figure per p293?",
+    "a": "B = CN IV (trochlear) lesion, presenting as upward gaze; the patient tilts the head toward the unaffected side.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=293"
+    },
+    "img": "/mehlman/figures/med-p293-01.jpg",
+    "imgAlt": "Source figure: eyes A, B, C showing CN III, IV and VI palsies",
+    "guideline": {
+      "text": "A chapter on cranial nerves III, IV and VI is linked (title only); I did not verify the head tilt wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK406/"
+    }
+  },
+  {
+    "id": "s2med-2936",
+    "category": "IM Ophthal",
+    "q": "Eye C in the figure per p293?",
+    "a": "C = CN VI (abducens) lesion, with a medially directed eye.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=293"
+    },
+    "img": "/mehlman/figures/med-p293-01.jpg",
+    "imgAlt": "Source figure: eyes A, B, C showing CN III, IV and VI palsies",
+    "guideline": {
+      "text": "A StatPearls page on abducens nerve palsy is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482177/"
+    }
+  },
+  {
+    "id": "s2med-2937",
+    "category": "IM Ophthal",
+    "q": "Visual field defects A to C per the p293 figure?",
+    "a": "A) central scotoma (lesion at the retina/optic nerve head end); B) monocular vision loss (optic nerve); C) bitemporal hemianopia (optic chiasm).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=293"
+    },
+    "img": "/mehlman/figures/med-p293-02.jpg",
+    "imgAlt": "Source figure: visual pathway lesion sites A-K and the matching visual field defects",
+    "guideline": {
+      "text": "A paper on imaging the visual pathway based on visual deficits is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/"
+    }
+  },
+  {
+    "id": "s2med-2938",
+    "category": "IM Ophthal",
+    "q": "Visual field defects D to K per the p293 figure?",
+    "a": "D, G, H) contralateral homonymous hemianopia; E, J) contralateral superior quadrantanopia (temporal lobe); F, I) contralateral inferior quadrantanopia (parietal lobe); K) contralateral homonymous hemianopia with macular sparing (H becomes K if the PCA is occluded).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 293,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=293"
+    },
+    "img": "/mehlman/figures/med-p293-02.jpg",
+    "imgAlt": "Source figure: visual pathway lesion sites A-K and the matching visual field defects",
+    "guideline": {
+      "text": "The visual pathway paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/"
+    }
+  },
+  {
+    "id": "s2med-2939",
+    "category": "IM Ophthal",
+    "q": "Open-angle glaucoma per p294?",
+    "a": "Chronic increased intraocular pressure from impaired aqueous humor drainage; unlike acute angle-closure, the drainage angle (canal of Schlemm) between cornea and iris stays open. Progresses slowly and is usually painless. As it advances: peripheral vision loss (tunnel vision) and optic nerve damage with cupping of the optic disc (increased cup-to-disc ratio).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2med-2940",
+    "category": "IM Ophthal",
+    "q": "Open-angle glaucoma first step per p294?",
+    "a": "USMLE wants tonometry (measures intraocular pressure) as the first step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=294"
+    },
+    "guideline": {
+      "text": "A review of tonometers is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8456330/"
+    }
+  },
+  {
+    "id": "s2med-2941",
+    "category": "IM Ophthal",
+    "q": "Open-angle glaucoma Tx per p294?",
+    "a": "Not a 'which drug first' game. Topical prostaglandins (latanoprost) increase aqueous outflow, lowering IOP. Topical beta-blockers (timolol) and carbonic anhydrase inhibitors (dorzolamide) decrease aqueous production. Pilocarpine, a muscarinic agonist, constricts the pupil and increases outflow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=294"
+    }
+  },
+  {
+    "id": "s2med-2942",
+    "category": "IM Ophthal",
+    "q": "Closed-angle glaucoma presentation per p294?",
+    "a": "Very buzzy red, teary, fixed mid-dilated pupil. Due to closure of the drainage angle between cornea and iris, with rapid IOP rise. Can compress the optic nerve and vessels: intense eye pain, headache, nausea, vomiting, blurred vision, colored rings or halos.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=294"
+    },
+    "guideline": {
+      "text": "A review on emergency management of angle-closure glaucoma is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6253313/"
+    }
+  },
+  {
+    "id": "s2med-2943",
+    "category": "IM Ophthal",
+    "q": "Closed-angle glaucoma first step and Tx per p294?",
+    "a": "As with open-angle, USMLE wants tonometry first to confirm increased IOP. Treatment is IV mannitol (draws excess aqueous humor out), timolol, pilocarpine, or alpha-2 agonists such as brimonidine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=294"
+    },
+    "guideline": {
+      "text": "The angle-closure review is linked on the previous card; I did not verify the list against it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6253313/"
+    }
+  },
+  {
+    "id": "s2med-2944",
+    "category": "IM Ophthal",
+    "q": "Macular degeneration per p294?",
+    "a": "'Wavy lines' on a straight-line Amsler test = macular degeneration. Loss of central vision. Fundoscopy shows drusen (yellow lipoproteinaceous deposits). Dry (atrophic) and wet (neovascular) types; most commonly idiopathic with age.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=294"
+    },
+    "img": "/mehlman/figures/med-p294-01.jpg",
+    "imgAlt": "Source figure: fundus with drusen (left) and an Amsler grid with wavy lines (right)",
+    "guideline": {
+      "text": "A meta-analysis of Amsler grid accuracy for neovascular AMD is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12278824/"
+    }
+  },
+  {
+    "id": "s2med-2945",
+    "category": "IM Ophthal",
+    "q": "Macular degeneration Tx per p294?",
+    "a": "Dry is treated supportively; wet is treated with anti-VEGF agents and sometimes laser therapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 294,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=294"
+    },
+    "img": "/mehlman/figures/med-p294-01.jpg",
+    "imgAlt": "Source figure: fundus with drusen (left) and an Amsler grid with wavy lines (right)"
+  },
+  {
+    "id": "s2med-2946",
+    "category": "IM Ophthal",
+    "q": "Retinitis pigmentosa per p295?",
+    "a": "Presents as nyctalopia (loss of night vision) plus loss of peripheral vision. Often a family history. Fundoscopy shows characteristic pigmentation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=295"
+    },
+    "img": "/mehlman/figures/med-p295-01.jpg",
+    "imgAlt": "Source figure: fundus of retinitis pigmentosa with characteristic pigmentation",
+    "guideline": {
+      "text": "A StatPearls page on retinitis pigmentosa is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519518/"
+    }
+  },
+  {
+    "id": "s2med-2947",
+    "category": "IM Ophthal",
+    "q": "Retinal detachment per p295?",
+    "a": "Classically after sudden trauma to the eye or in severe myopia. Fundoscopy is high-yield for USMLE, especially 2CK.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=295"
+    },
+    "img": "/mehlman/figures/med-p295-02.jpg",
+    "imgAlt": "Source figure: fundus of retinal detachment"
+  },
+  {
+    "id": "s2med-2948",
+    "category": "IM Ophthal",
+    "q": "Retinal detachment Tx per p295?",
+    "a": "Surgical: pneumatic retinopexy (gas bubble injected to push the retina back); scleral buckling (silicone attached to the sclera to exert posteriorly directed pressure so the retina reattaches); vitrectomy (vitreous removed and replaced with gas or silicone oil to flatten the retina).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 295,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=295"
+    },
+    "img": "/mehlman/figures/med-p295-02.jpg",
+    "imgAlt": "Source figure: fundus of retinal detachment",
+    "guideline": {
+      "text": "A meta-analysis of vitrectomy, scleral buckle and pneumatic retinopexy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34043984/"
+    }
+  },
+  {
+    "id": "s2med-2949",
+    "category": "IM Ophthal",
+    "q": "Vitreous hemorrhage risk factors per p296?",
+    "a": "The biggest risk factors for bleeding into the vitreous are diabetes and hypertension.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=296"
+    },
+    "img": "/mehlman/figures/med-p296-01.jpg",
+    "imgAlt": "Source figure: fundus with vitreous hemorrhage",
+    "guideline": {
+      "text": "A review of vitreous hemorrhage causes is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10155538/"
+    }
+  },
+  {
+    "id": "s2med-2950",
+    "category": "IM Ophthal",
+    "q": "Vitreous hemorrhage as a distractor per p296?",
+    "a": "Usually a distractor: a young boxer hit in the eye, but the answer is retinal detachment, not vitreous hemorrhage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=296"
+    },
+    "img": "/mehlman/figures/med-p296-01.jpg",
+    "imgAlt": "Source figure: fundus with vitreous hemorrhage"
+  },
+  {
+    "id": "s2med-2951",
+    "category": "IM Ophthal",
+    "q": "Central retinal artery occlusion presentation per p296?",
+    "a": "Sudden, painless vision loss where a 'curtain comes down'. Due to a carotid atheroma (with HTN) or a left atrial mural thrombus (with atrial fibrillation) launched to the retinal vessels. Fundoscopy: pale retina with a cherry red spot due to preserved perfusion from the choroidal artery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=296"
+    },
+    "img": "/mehlman/figures/med-p296-02.jpg",
+    "imgAlt": "Source figure: fundus with pale retina and cherry red spot of central retinal artery occlusion",
+    "guideline": {
+      "text": "A StatPearls page on CRAO is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470354/"
+    }
+  },
+  {
+    "id": "s2med-2952",
+    "category": "IM Ophthal",
+    "q": "CRAO Tx per p296?",
+    "a": "Ocular massage can be attempted to dislodge the embolus and restore perfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 296,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=296"
+    },
+    "img": "/mehlman/figures/med-p296-02.jpg",
+    "imgAlt": "Source figure: fundus with pale retina and cherry red spot of central retinal artery occlusion",
+    "guideline": {
+      "text": "The CRAO page is linked on the previous card; I did not verify ocular massage efficacy.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470354/"
+    }
   }
 ];

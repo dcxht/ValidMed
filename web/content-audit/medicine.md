@@ -1008,3 +1008,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p292 (opioid drugs, alcohol-abuse drugs) - 11 cards, ids s2med-2923 to 2933
 - Dextromethorphan "opioid" label per source, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.
+
+## p293 (IM Ophthal: extraocular palsies figure, visual field figure) - 5 cards, ids s2med-2934 to 2938
+- Visual field figure appears on the page without heading text; cards built from the figure labels.
+## p294 (glaucoma, macular degeneration; figure) - 7 cards, ids s2med-2939 to 2945
+## p295 (retinitis pigmentosa, retinal detachment; figures) - 3 cards, ids s2med-2946 to 2948
+## p296 (vitreous hemorrhage, CRAO; figures) - 4 cards, ids s2med-2949 to 2952
+- Ocular massage efficacy not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
