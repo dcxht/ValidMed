@@ -474,3 +474,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figures med-p106-01/02/03 inspected (leukoplakia has no image on this page). Page ends at leukoplakia; continues p107.
 - Unverified: Koplik/rubella node wording.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p107 (IM Gastro: leukoplakia, OHL, candidiasis, salivary tumors) - 8 cards, ids s2med-0980 to 0987
+- Figures med-p107-01/02 inspected; alt texts kept neutral because image-to-row placement is approximate.
+- Unverified: B-symptoms claim for mucoepidermoid carcinoma; review texts. Expletive-free.
+
+## p108 (IM Gastro: hiatal hernia, GERD) - 6 cards, ids s2med-0988 to 0993
+- Figure med-p108-01 inspected (hiatal hernia diagram).
+- Conflict: "operative repair is the treatment" for hiatal hernia vs observation of asymptomatic hernias. Unverified: 95%/5% split.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.

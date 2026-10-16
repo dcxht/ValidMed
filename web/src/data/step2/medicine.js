@@ -12943,5 +12943,217 @@ export default [
       "page": 106,
       "url": "/mehlman/hy-internal-medicine.pdf#page=106"
     }
+  },
+  {
+    "id": "s2med-0980",
+    "category": "IM Gastro",
+    "q": "Leukoplakia risk per p106-107?",
+    "a": "Precursor to squamous cell carcinoma of the tongue. Biggest risk factor is smoking / chewing tobacco.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "A meta-analysis on malignant transformation of oral leukoplakia exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33606345/"
+    }
+  },
+  {
+    "id": "s2med-0981",
+    "category": "IM Gastro",
+    "q": "Oral hairy leukoplakia per p107?",
+    "a": "Looks like leukoplakia but is caused by EBV. Not considered premalignant (no dysplasia on biopsy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "img": "/mehlman/figures/med-p107-01.jpg",
+    "imgAlt": "White patches on the side of the tongue",
+    "guideline": {
+      "text": "A short review of EBV and oral hairy leukoplakia exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4800082/"
+    }
+  },
+  {
+    "id": "s2med-0982",
+    "category": "IM Gastro",
+    "q": "Oropharyngeal candidiasis per p107?",
+    "a": "Painless white plaque on the palate or tongue that bleeds when scraped. Seen in immunocompromised patients such as AIDS or organ transplant recipients on immunosuppressants.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "img": "/mehlman/figures/med-p107-02.jpg",
+    "imgAlt": "Tongue with a thick white-yellow coating",
+    "guideline": {
+      "text": "The 2016 IDSA candidiasis guideline is a reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/"
+    }
+  },
+  {
+    "id": "s2med-0983",
+    "category": "IM Gastro",
+    "q": "Candidiasis and inhaled steroids per p107?",
+    "a": "Can be seen in asthma patients using inhaled corticosteroids; they should rinse the mouth with water after use to decrease candida risk. Treat with nystatin mouthwash.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "A narrative review of preventing oral candidiasis with inhaled steroids exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40724743/"
+    }
+  },
+  {
+    "id": "s2med-0984",
+    "category": "IM Gastro",
+    "q": "Odynophagia in an immunocompromised patient per p107?",
+    "a": "Candidal esophagitis until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "A paper on candidiasis management in HIV exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3218701/"
+    }
+  },
+  {
+    "id": "s2med-0985",
+    "category": "IM Gastro",
+    "q": "Pleomorphic adenoma per p107?",
+    "a": "The USMLE answer for a benign salivary gland tumor with variability in cell size and shape. Most common salivary gland tumor; benign. Pleomorphic = cells and nuclei vary in size and shape. It will not invade.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "StatPearls on benign salivary gland tumors is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK564295/"
+    }
+  },
+  {
+    "id": "s2med-0986",
+    "category": "IM Gastro",
+    "q": "Mucoepidermoid carcinoma per p107?",
+    "a": "USMLE answer for a salivary gland tumor that invades or has spread, or if the patient has B-symptoms (fever, night sweats, weight loss). Most common malignant salivary gland tumor. Malignant means capable of invading.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "StatPearls on malignant salivary gland tumors is a reference; I did not verify the B-symptoms claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563022/"
+    }
+  },
+  {
+    "id": "s2med-0987",
+    "category": "IM Gastro",
+    "q": "Warthin tumor per p107?",
+    "a": "USMLE answer for a salivary gland tumor where the stem says it resembles lymphatic tissue. It has lymphoid stroma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 107,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=107"
+    },
+    "guideline": {
+      "text": "A paper on the origin of Warthin tumors in intraparotid lymph nodes exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8134598/"
+    }
+  },
+  {
+    "id": "s2med-0988",
+    "category": "IM Gastro",
+    "q": "Hiatal hernia per p108?",
+    "a": "Herniation of the stomach upward through the diaphragm. 95% are 'sliding': the cardia rises through the esophageal hiatus. NBME answer: 'abnormal relation of the cardia to the lower end of the diaphragm'. 5% are paraesophageal: the fundus herniates through a hole in the diaphragm adjacent to the esophagus. NBME answer: 'protrusion of the fundus into the chest above the level of T10'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=108"
+    },
+    "img": "/mehlman/figures/med-p108-01.jpg",
+    "imgAlt": "Diagram of sliding and paraesophageal hiatal hernias",
+    "guideline": {
+      "text": "The SAGES guideline on hiatal hernia management exists; I did not verify the 95%/5% split.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24018762/"
+    }
+  },
+  {
+    "id": "s2med-0989",
+    "category": "IM Gastro",
+    "q": "Hiatal hernia diagnosis and treatment per p108?",
+    "a": "Often associated with GERD. Diagnose with upper endoscopy. Operative repair is the treatment (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=108"
+    },
+    "guideline": {
+      "text": "Current guidance does not call for repair of every hiatal hernia (asymptomatic ones are often observed); I did not verify the details.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24018762/"
+    }
+  },
+  {
+    "id": "s2med-0990",
+    "category": "IM Gastro",
+    "q": "GERD causes per p108?",
+    "a": "Irritation of the esophageal mucosa by gastric acid, usually from decreased lower esophageal sphincter (LES) tone. Obesity is a risk factor (stretching and pressure on the LES); hiatal hernia is also a risk factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=108"
+    },
+    "guideline": {
+      "text": "The 2022 ACG GERD guideline is a reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/"
+    }
+  },
+  {
+    "id": "s2med-0991",
+    "category": "IM Gastro",
+    "q": "GERD presentation per p108?",
+    "a": "Classic: burning in the throat/chest after a meal. Can present with nocturnal cough or recurrent pneumonitis, HY in patients without classic symptoms. Can lead to Barrett esophagus, then esophageal adenocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2med-0992",
+    "category": "IM Gastro",
+    "q": "First step in diagnosing GERD per p108?",
+    "a": "2-week trial of a proton pump inhibitor (such as omeprazole), which will decrease symptoms. PPIs are more efficacious than H2-blockers (cimetidine); choose the PPI if both are listed. One 2CK form has '2-week trial of H2-blocker' when PPI is not listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=108"
+    },
+    "guideline": {
+      "text": "The 2022 ACG GERD guideline is a reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/"
+    }
+  },
+  {
+    "id": "s2med-0993",
+    "category": "IM Gastro",
+    "q": "When PPI trial fails per p108?",
+    "a": "24-hour esophageal pH monitoring is the answer. Nissen fundoplication is a last resort but is asked on NBMEs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 108,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=108"
+    },
+    "guideline": {
+      "text": "StatPearls on Nissen fundoplication is a reference; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519521/"
+    }
   }
 ];
