@@ -25290,5 +25290,410 @@ export default [
       "page": 193,
       "url": "/mehlman/hy-internal-medicine.pdf#page=193"
     }
+  },
+  {
+    "id": "s2med-1933",
+    "category": "IM Repro/Obgyn",
+    "q": "Pregnant woman with HSV prodromal symptoms but no visible lesions per p194 (continued from p193)?",
+    "a": "C-section is still recommended.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "The ACOG practice bulletin on genital herpes in pregnancy is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32332414/"
+    }
+  },
+  {
+    "id": "s2med-1934",
+    "category": "IM Repro/Obgyn",
+    "q": "Pregnant woman with predictable vesicular episodes per p194?",
+    "a": "Acyclovir is often given within 4-6 weeks of parturition to decrease the risk of a peripartum episode.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2med-1935",
+    "category": "IM Repro/Obgyn",
+    "q": "HIV in pregnancy: when to start HAART per p194?",
+    "a": "Immediately in any HIV patient regardless of CD4 count; it is three-drug therapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "The perinatal HIV guidelines are linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK586310/bin/pregnancyguide.pdf"
+    }
+  },
+  {
+    "id": "s2med-1936",
+    "category": "IM Repro/Obgyn",
+    "q": "Efavirenz in pregnancy per p194?",
+    "a": "Source: an NNRTI that is avoided in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "Current guidelines may differ: the perinatal HIV guidelines (linked) are the current source; I did not verify their efavirenz statement. Source answer stays for exam use.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK586310/bin/pregnancyguide.pdf"
+    }
+  },
+  {
+    "id": "s2med-1937",
+    "category": "IM Repro/Obgyn",
+    "q": "TMP/SMX in pregnancy with HIV per p194?",
+    "a": "Avoided in the first trimester or if immediately trying to conceive, even with CD4 under 200. Okay in the 2nd and 3rd trimesters.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "A meta-analysis of cotrimoxazole safety in pregnancy is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4331013/"
+    }
+  },
+  {
+    "id": "s2med-1938",
+    "category": "IM Repro/Obgyn",
+    "q": "Intrapartum and neonatal zidovudine per p194?",
+    "a": "Intrapartum zidovudine to HIV(+) mothers plus C-section. Neonate gets zidovudine within 6-12 hours of birth for 6 weeks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "The perinatal HIV guidelines are linked; I did not verify the details, including whether C-section is now indicated only for high viral load.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK586310/bin/pregnancyguide.pdf"
+    }
+  },
+  {
+    "id": "s2med-1939",
+    "category": "IM Repro/Obgyn",
+    "q": "Breastfeeding with HIV per p194?",
+    "a": "HIV is in breastmilk; generally avoid breastfeeding if the mother is HIV(+). With undetectable viral load on continued HAART transmission might not occur, but it's still advised against.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: the 2023 US infant feeding and HIV update (linked) changed recommendations toward shared decision-making; I did not verify the details. Source answer stays for exam use.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10776031/"
+    }
+  },
+  {
+    "id": "s2med-1940",
+    "category": "IM Repro/Obgyn",
+    "q": "Congenital syphilis: highest-yield point per p194?",
+    "a": "Tooth abnormalities (mulberry molars/incisors).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "A review of congenital syphilis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10453258/"
+    }
+  },
+  {
+    "id": "s2med-1941",
+    "category": "IM Repro/Obgyn",
+    "q": "Congenital syphilis other findings per p194?",
+    "a": "'Saber shins' (bone abnormalities), saddle nose, deafness, and cataracts.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2med-1942",
+    "category": "IM Repro/Obgyn",
+    "q": "Tanner staging chart per p194?",
+    "a": "Stage 1: testicular volume <3 mL; no pubic hair; papilla elevation only. Stage 2: scrotal skin change; sparse pubic hair; breast bud. Stage 3: penis growth; darker, coarser hair; breast and areola enlargement. Stage 4: further genital growth; adult-type hair over a smaller area; areola and papilla project. Stage 5: adult genitals; hair spreads to medial thighs; areola recedes to the breast contour.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "img": "/mehlman/figures/med-p194-01.jpg",
+    "imgAlt": "Tanner stage chart for male genitals, female pubic hair and breast development",
+    "guideline": {
+      "text": "StatPearls on Tanner stages is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470280/"
+    }
+  },
+  {
+    "id": "s2med-1943",
+    "category": "IM Repro/Obgyn",
+    "q": "Tanner stage 3 per p194?",
+    "a": "'Menarche is imminent' (a straight-up 2CK answer). A 13/14-year-old who has never menstruated at Tanner stage 2 or 3: schedule follow-up in 6 months.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2med-1944",
+    "category": "IM Repro/Obgyn",
+    "q": "Turner syndrome and Tanner staging per p194?",
+    "a": "Can present with Tanner 1-2 breasts and Tanner 4-5 pubic/axillary hair (adrenal, not ovarian, androgens).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2med-1945",
+    "category": "IM Repro/Obgyn",
+    "q": "Androgen insensitivity syndrome and Tanner staging per p194?",
+    "a": "46XY karyotype with female phenotype: normal breast development (Tanner 4-5), but pubic/axillary hair Tanner 1 (scant/absent).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2med-1946",
+    "category": "IM Repro/Obgyn",
+    "q": "Bone age less than chronologic age per p194?",
+    "a": "The short child will catch up (growth chart right-shifted): constitutional short stature. Both parents usually average height. E.g., 14-year-old shortest boy with bone age 12.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    },
+    "guideline": {
+      "text": "A mini-review of bone age evaluation is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7994346/"
+    }
+  },
+  {
+    "id": "s2med-1947",
+    "category": "IM Repro/Obgyn",
+    "q": "Constitutional short stature without bone age per p194?",
+    "a": "The vignette may give Tanner stage instead: e.g., 14-year-old shortest boy with Tanner 2 pubic hair, very early in development, will probably catch up.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 194,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=194"
+    }
+  },
+  {
+    "id": "s2med-1948",
+    "category": "IM Repro/Obgyn",
+    "q": "Bone age equals chronologic age per p195 (continued from p194)?",
+    "a": "Genuine short stature; seen in Turner syndrome Qs, where the female is usually under 5 feet.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2med-1949",
+    "category": "IM Repro/Obgyn",
+    "q": "Puberty sequence mnemonic per p195?",
+    "a": "'Tap em' (TAPM): Thelarche, Adrenarche, Pubarche, Menarche.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=195"
+    },
+    "img": "/mehlman/figures/med-p195-01.jpg",
+    "imgAlt": "Timeline of adrenarche, thelarche, growth spurt, pubarche and menarche by age",
+    "guideline": {
+      "text": "A study of age at thelarche and menarche in US females is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4137967/"
+    }
+  },
+  {
+    "id": "s2med-1950",
+    "category": "IM Repro/Obgyn",
+    "q": "Puberty term definitions per p195?",
+    "a": "Thelarche: onset of breast development. Adrenarche: increased adrenal androgens, causing pubic and axillary hair. Pubarche: pubic hair growth. Menarche: onset of menstruation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2med-1951",
+    "category": "IM Repro/Obgyn",
+    "q": "First event in a pre-pubescent female per p195?",
+    "a": "Breast bud development (thelarche).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=195"
+    }
+  },
+  {
+    "id": "s2med-1952",
+    "category": "IM Repro/Obgyn",
+    "q": "Turner syndrome: karyotype per p195?",
+    "a": "45XO, female phenotype. With one X, no Barr body is visible on electron microscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 195,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=195"
+    },
+    "img": "/mehlman/figures/med-p195-02.jpg",
+    "imgAlt": "Turner syndrome features: short stature, webbed neck, low posterior hairline, broad chest, cubitus valgus, coarctation of the aorta, streak ovaries, nevi, lymphedema",
+    "guideline": {
+      "text": "StatPearls on Turner syndrome is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK554621/"
+    }
+  },
+  {
+    "id": "s2med-1953",
+    "category": "IM Repro/Obgyn",
+    "q": "Turner syndrome: fertility per p196?",
+    "a": "Infertile due to streak ovaries ('menopause before menarche'). Can still have children with IVF using donor egg plus exogenous hormones (sometimes asked on behavioral/psych Qs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2med-1954",
+    "category": "IM Repro/Obgyn",
+    "q": "Turner syndrome: hormones per p196?",
+    "a": "LH and FSH both increased: primary hypogonadism (less negative feedback at hypothalamus and pituitary from lower ovarian hormones and inhibin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2med-1955",
+    "category": "IM Repro/Obgyn",
+    "q": "Turner syndrome: physical findings per p196?",
+    "a": "Short stature (usually under 5 feet), Tanner 1 breasts ('shield chest'), cystic hygroma (webbed neck from lymphatic insufficiency; asked on NBME), scattered nevi (don't confuse with NF1), normal pubic and axillary hair (Tanner 4-5).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    },
+    "guideline": {
+      "text": "StatPearls on Turner syndrome is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK554621/"
+    }
+  },
+  {
+    "id": "s2med-1956",
+    "category": "IM Repro/Obgyn",
+    "q": "Turner syndrome: cancer risk per p196?",
+    "a": "Increased risk of dysgerminoma from the streak ovaries; prophylactic oophorectomy is recommended, especially with Y-chromosome material in rarer mosaic forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    },
+    "guideline": {
+      "text": "A review of gonadectomy in Turner syndrome with Y material is linked; I did not verify that dysgerminoma (rather than gonadoblastoma) is the usual named tumor.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11061777/"
+    }
+  },
+  {
+    "id": "s2med-1957",
+    "category": "IM Repro/Obgyn",
+    "q": "Somatic mosaic Turner mechanism per p196?",
+    "a": "Some cells 46XX and some 45XO: post-fertilization mitotic error.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2med-1958",
+    "category": "IM Repro/Obgyn",
+    "q": "Turner syndrome cardiac findings per p196?",
+    "a": "Coarctation of the aorta and bicuspid aortic valve (aortic stenosis) are HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2med-1959",
+    "category": "IM Repro/Obgyn",
+    "q": "Klinefelter syndrome: karyotype and features per p196?",
+    "a": "47XXY, male phenotype. Tall, eunuchoid body shape; small testes; gynecomastia; reduced IQ.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    },
+    "img": "/mehlman/figures/med-p196-01.jpg",
+    "imgAlt": "Klinefelter syndrome features: tall stature, gynecomastia, small firm testes, narrow shoulders, wide hips, long legs, sparse beard"
+  },
+  {
+    "id": "s2med-1960",
+    "category": "IM Repro/Obgyn",
+    "q": "Klinefelter syndrome: electron microscopy per p196?",
+    "a": "An electron-dense mass in the cell (a Barr body).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2med-1961",
+    "category": "IM Repro/Obgyn",
+    "q": "Klinefelter syndrome: hormones per p196?",
+    "a": "Testes present but small, with dysgenesis of the seminiferous tubules: LH and FSH increased (less negative feedback from lower androgens and inhibin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2med-1962",
+    "category": "IM Repro/Obgyn",
+    "q": "Klinefelter syndrome: estrogen/androgen ratio per p196?",
+    "a": "Increased, because Leydig cell dysgenesis lowers androgen; absolute estrogen is also increased from more adipose tissue (more aromatase).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    }
+  },
+  {
+    "id": "s2med-1963",
+    "category": "IM Repro/Obgyn",
+    "q": "Klinefelter syndrome: cancer risk per p196?",
+    "a": "Increased breast cancer risk; testicular cancer risk is only very subtly increased, so prophylactic orchiectomy is not indicated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 196,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=196"
+    },
+    "guideline": {
+      "text": "A study of breast cancer risk in Klinefelter syndrome is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21241366/"
+    }
   }
 ];
