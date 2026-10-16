@@ -42437,5 +42437,303 @@ export default [
       "text": "An update on arthrogryposis multiplex congenita is linked (title only).",
       "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4661148/"
     }
+  },
+  {
+    "id": "s2med-3176",
+    "category": "IM MSK",
+    "q": "Paget disease per p325?",
+    "a": "Idiopathic disorder of increased bone turnover. Bone has mixed osteoblastic and osteoclastic phases, so it looks heterogeneous on x-ray. Buzzy vignette: a male over 50 whose hat doesn't fit anymore and who has tinnitus (narrowing of the acoustic foramina).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A review on diagnosis and treatment of Paget's disease of bone is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11142991/"
+    }
+  },
+  {
+    "id": "s2med-3177",
+    "category": "IM MSK",
+    "q": "Paget disease labs per p325?",
+    "a": "19 of 20 questions give an isolated rise in serum ALP; Ca2+, PO4 3-, and PTH are all normal. One 2CK CMS question gives a non-elevated ALP, but that is a rare one-off.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "The Paget review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11142991/"
+    }
+  },
+  {
+    "id": "s2med-3178",
+    "category": "IM MSK",
+    "q": "Paget disease complication per p325?",
+    "a": "High-output cardiac failure from intraosseous AV fistulae: an S3 heart sound with a high, rather than low, ejection fraction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    }
+  },
+  {
+    "id": "s2med-3179",
+    "category": "IM MSK",
+    "q": "Osteoporosis definition per p325?",
+    "a": "Bone density more than 2.5 SD below the mean for a young adult woman. Osteopenia is 1.5-2.5 SD below the mean.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A WHO criteria table is linked (title only). Caution: WHO lists osteopenia as T-score between -1 and -2.5; I did not verify this against the page text, so the source's 1.5 is kept as written.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279049/table/osteoporosis-clinic.T.world_health_organ/"
+    }
+  },
+  {
+    "id": "s2med-3180",
+    "category": "IM MSK",
+    "q": "Osteoporosis screening age per p325?",
+    "a": "Bone densitometry done at age 65.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A USPSTF osteoporosis screening statement is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39808425/"
+    }
+  },
+  {
+    "id": "s2med-3181",
+    "category": "IM MSK",
+    "q": "Osteoporosis risk factors, sex and age per p325?",
+    "a": "If forced to choose between female gender and age as the most important risk factor, choose gender. If given a female and forced to choose between family history and age, choose family history. Males are unlikely to develop osteoporosis, even with a family history in females.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A postmenopausal osteoporosis guideline is linked (title only); I did not verify these exam rules.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7688018/"
+    }
+  },
+  {
+    "id": "s2med-3182",
+    "category": "IM MSK",
+    "q": "Osteoporosis protective factor per p325?",
+    "a": "If given two women without family history and asked what is most protective, the answer is ethnicity: Black race is protective against osteoporosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    }
+  },
+  {
+    "id": "s2med-3183",
+    "category": "IM MSK",
+    "q": "Femoral fracture rehabilitation per p325?",
+    "a": "An old woman with a femoral fracture and no mention of osteoporosis: the most important predictor of rehabilitation success is 'activity level before fracture'. Weight-bearing exercise during life is protective against later osteoporosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    }
+  },
+  {
+    "id": "s2med-3184",
+    "category": "IM MSK",
+    "q": "Osteoporosis causes per p325?",
+    "a": "USMLE loves corticosteroids and Cushing syndrome as causes. Compression fractures = osteoporosis on USMLE (e.g., RA patient on steroids with a compression fracture).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A guideline on glucocorticoid-induced osteoporosis is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39556468/"
+    }
+  },
+  {
+    "id": "s2med-3185",
+    "category": "IM MSK",
+    "q": "Low BMI and osteoporosis per p325?",
+    "a": "High-yield. The source says 2CK NBMEs have a couple of odd questions giving a BMI of 19 or 20 in a young woman and asking what she is at increased risk of: osteoporosis. A student may say low BMI is under 18.5; the source agrees but says it's on NBME. Metatarsal stress fracture is high-yield in low-BMI young female runners with low bone density.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    }
+  },
+  {
+    "id": "s2med-3186",
+    "category": "IM MSK",
+    "q": "Vitamin D and osteoporosis per p325?",
+    "a": "USMLE also assesses low vitamin D in intestinal malabsorption (CF, Crohn) as a cause of osteoporosis, even though the source says that makes no sense, since low vitamin D causes osteomalacia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    }
+  },
+  {
+    "id": "s2med-3187",
+    "category": "IM MSK",
+    "q": "Osteoporosis labs per p325?",
+    "a": "Serum calcium, phosphate, PTH, and ALP are all normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    }
+  },
+  {
+    "id": "s2med-3188",
+    "category": "IM MSK",
+    "q": "Osteoporosis Tx first step per p325?",
+    "a": "Weight-bearing exercise first. NBME has 'go for a long walk outside daily' as correct; the wrong answer was 'increase participation in swimming pool-based exercise classes to at least three times weekly'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A clinician's guide to osteoporosis prevention and treatment is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9546973/"
+    }
+  },
+  {
+    "id": "s2med-3189",
+    "category": "IM MSK",
+    "q": "Osteoporosis drug order per p325?",
+    "a": "Calcium and vitamin D are the first medical/pharmacologic treatment. Bisphosphonates can be used after Ca2+/vitamin D.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "The same guide is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9546973/"
+    }
+  },
+  {
+    "id": "s2med-3190",
+    "category": "IM MSK",
+    "q": "Teriparatide and denosumab per p325?",
+    "a": "Teriparatide is an N-terminus PTH analogue that stimulates bone development. Denosumab is a RANK-L monoclonal antibody.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A review of osteoporosis therapy mechanisms is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8506919/"
+    }
+  },
+  {
+    "id": "s2med-3191",
+    "category": "IM MSK",
+    "q": "Osteosarcoma per p325?",
+    "a": "Most common primary bone cancer; usually in patients age 10-30. Rb mutations (congenital retinoblastoma) are associated with it: a 1-year-old boy who had an eye enucleated for retinoblastoma is at risk of osteosarcoma later in life. The source says it can also occur in Paget disease of bone patients (older age).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "A paper on osteosarcoma in retinoblastoma survivors is linked, and one on osteosarcoma in Paget's disease (titles only). Caution: 'most common primary bone cancer' is the source's wording; I did not verify it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10566973/"
+    }
+  },
+  {
+    "id": "s2med-3192",
+    "category": "IM MSK",
+    "q": "Osteosarcoma imaging per p325?",
+    "a": "Buzzy findings are 'Codman triangle' and 'sunburst appearance'. Codman triangle = periosteal reaction with lifting of the periosteum off the bone. Sunburst = periosteal reaction described on NBME as 'spiculated new bone formation' (continues on p326).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 325,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=325"
+    },
+    "guideline": {
+      "text": "The Paget osteosarcoma paper is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17229010/"
+    }
+  },
+  {
+    "id": "s2med-3193",
+    "category": "IM MSK",
+    "q": "Osteosarcoma figure per p326 (continued from p325)?",
+    "a": "The white arrow is the Codman triangle; the white star is the sunburst appearance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 326,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=326"
+    },
+    "img": "/mehlman/figures/med-p326-01.jpg",
+    "imgAlt": "Source figure: osteosarcoma with Codman triangle (arrow) and sunburst (star)"
+  },
+  {
+    "id": "s2med-3194",
+    "category": "IM MSK",
+    "q": "Osteosarcoma NBME histology per p326?",
+    "a": "NBME writes the correct answer as 'pleomorphic neoplastic cells producing new woven bone'. The source calls it an underrated diagnosis, asked on the 2CK exam.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 326,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=326"
+    }
+  },
+  {
+    "id": "s2med-3195",
+    "category": "IM MSK",
+    "q": "Unicameral bone cyst per p326?",
+    "a": "Benign bone tumor that looks similar to osteoclastoma, but age of onset is usually birth to 20 rather than 20-40. Unicameral means 'one chamber'; it is fluid-filled.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 326,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=326"
+    },
+    "img": "/mehlman/figures/med-p326-02.jpg",
+    "imgAlt": "Source figure: unicameral bone cyst x-ray (2CK image per the source)",
+    "guideline": {
+      "text": "A review of interventions for simple bone cysts in children is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6464391/"
+    }
+  },
+  {
+    "id": "s2med-3196",
+    "category": "IM MSK",
+    "q": "Spinal metastases per p326?",
+    "a": "USMLE loves metastases to the vertebrae, particularly from breast, prostate, and lung. The exam will not show spinal mets images, but gives either lytic vertebral lesions in a patient with a background of cancer, or a neurologic syndrome (e.g., cauda equina).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 326,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=326"
+    },
+    "guideline": {
+      "text": "A StatPearls page on conus and cauda equina tumors is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK441878/"
+    }
+  },
+  {
+    "id": "s2med-3197",
+    "category": "IM MSK",
+    "q": "Bone metastases presentation per p326?",
+    "a": "Diffuse bone pain in a patient with a background of cancer = mets.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 326,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=326"
+    }
   }
 ];

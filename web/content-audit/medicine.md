@@ -1110,3 +1110,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p324 (peds bone issues) - 8 cards, ids s2med-3168 to 3175
 - Figures matched to topics by page order (tibial bowing x-ray to tibia vara; foot x-ray to talipes).
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p325 (Paget, osteoporosis, osteosarcoma start) - 17 cards, ids s2med-3176 to 3192
+- Osteopenia defined as 1.5-2.5 SD in source; WHO uses T-score -1 to -2.5. Kept source with caution.
+- Race, sex/age/family-history exam rules, low-BMI "NBME" claims, and vitamin D as osteoporosis cause are source claims, unverified.
+- "spiculated new born formation" in source treated as typo for new bone formation.
+
+## p326 (osteosarcoma figure, unicameral cyst, mets) - 5 cards, ids s2med-3193 to 3197
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
