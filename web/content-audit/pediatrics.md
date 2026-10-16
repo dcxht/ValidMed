@@ -843,3 +843,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: morning fasting serum cortisol as the Cushing screen (guideline: urine free cortisol, late-night salivary cortisol or 1 mg dexamethasone test). DKA cerebral edema mechanism as stated is unverified.
 - Left unverified: Pemberton sign and T-cell ALL link, hypoglycemia in pertussis, pertussis lymphocytosis figures, how to answer the dying-child question.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p164 (Bullet points: lactic acidosis, DI, aplastic anemia, TMP/SMX neutropenia, Fanconi, DBA, Chediak-Higashi, LAD, SCID start) - 10 cards, ids s2peds-2418 to 2427
+- Inspected page text and layout; no figures. Typo "triphalyngeal" and "fell of tricycle" normalised in card text only where noted.
+- Notes verified against StatPearls (Lactic Acidosis, Fanconi, DBA, Chediak-Higashi, LAD, SCID), an acquired aplastic anemia review and a neutropenia drug review.
+- No outright conflicts. Chediak-Higashi mechanism wording ("microtubule function") unverified.
+- Left unverified: DI as a cause of lactic acidosis, trauma-to-DI timing, parvovirus as aplastic anemia cause, TMP/SMX neutropenia, antibiotics-first sequencing.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.

@@ -34418,5 +34418,155 @@ export default [
       "text": "Current caution: ISPAD calls this cerebral injury, more common in children, to be anticipated and monitored. The source's statement that water moving out of cells causes edema does not explain the mechanism; I did not verify it.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
     }
+  },
+  {
+    "id": "s2peds-2418",
+    "category": "Peds vignettes",
+    "q": "12-month-old female with fever, 8-10 watery stools daily, low BP, high HR and low bicarb. Why the low bicarb per p164?",
+    "a": "Lactic acidosis: any scenario with decreased perfusion (oxygen delivery) to muscle increases anaerobic respiration. HY for any shock (septic, cardiogenic, hypovolemic); can also be seen with severe diabetes insipidus and pulmonary embolism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "StatPearls: lactic acidosis is typically from tissue hypoperfusion (type A); septic shock is a frequent cause. I did not verify the DI link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470202/"
+    }
+  },
+  {
+    "id": "s2peds-2419",
+    "category": "Peds vignettes",
+    "q": "3F who fell off a tricycle 2 weeks ago, now with polyuria, polydipsia, high serum sodium and high urine output. Diagnosis per p164?",
+    "a": "Diabetes insipidus. Head trauma can cause both central DI and SIADH. DI: high serum sodium and low urinary osmolality. SIADH: low serum sodium and high urinary osmolality.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "Review: brain injury can be complicated by hypernatremia. I did not verify the trauma-to-DI timing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9743987/"
+    }
+  },
+  {
+    "id": "s2peds-2420",
+    "category": "Peds vignettes",
+    "q": "3F with 2 weeks of fever, pallor, poor appetite, mouth ulcers and low RBCs, WBCs and platelets. Diagnosis and next step per p164?",
+    "a": "Aplastic anemia (presumably from Parvo, but also other viruses). Next best step: immediate IV antibiotics for neutropenic fever. Low WBCs means low neutrophils, and mouth ulcers on USMLE are a hugely HY presentation of neutropenia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "Review: acquired aplastic anemia is pancytopenia with a hypocellular marrow. I did not verify the parvovirus link or the antibiotics step.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3894991/"
+    }
+  },
+  {
+    "id": "s2peds-2421",
+    "category": "Peds vignettes",
+    "q": "4F treated for 3 weeks with TMP/SMX, now with isolated neutropenia. Cause per p164?",
+    "a": "TMP/SMX: be aware it can cause neutropenia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "Review: nonchemotherapy drugs can cause neutropenia and agranulocytosis. I did not verify TMP/SMX in the abstract I read.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25124379/"
+    }
+  },
+  {
+    "id": "s2peds-2422",
+    "category": "Peds vignettes",
+    "q": "3F with fever and low RBCs, WBCs and platelets, already on IV antibiotics. Next best step in diagnosis per p164?",
+    "a": "Bone marrow aspiration (sounds invasive, but it diagnoses aplastic anemia). A UWorld question with Parvo IgM/IgG titers is for an adult daycare worker with a lacy body rash and no drop in blood cell lines.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "Review: aplastic anemia is defined by pancytopenia with a hypocellular bone marrow, shown on aspirate and biopsy.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3894991/"
+    }
+  },
+  {
+    "id": "s2peds-2423",
+    "category": "Peds vignettes",
+    "q": "4M with hypoplastic thumbs and decreased RBCs, WBCs and platelets. Diagnosis per p164?",
+    "a": "Fanconi anemia: autosomal recessive aplastic anemia characterized by absent or hypoplastic thumbs or radii.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "StatPearls: mostly autosomal recessive (about 2% X-linked, FANCB); upper limb anomalies include absent or hypoplastic thumb and radii.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559133/"
+    }
+  },
+  {
+    "id": "s2peds-2424",
+    "category": "Peds vignettes",
+    "q": "4M with triphalangeal thumbs (printed \"triphalyngeal\") and low RBCs. Diagnosis per p164?",
+    "a": "Diamond-Blackfan anemia: pure red cell aplasia characterized by triphalangeal thumbs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "StatPearls: pure red cell aplasia with congenital anomalies, most commonly thumb and upper extremity malformations.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545302/"
+    }
+  },
+  {
+    "id": "s2peds-2425",
+    "category": "Peds vignettes",
+    "q": "4F with immunodeficiency, fairer skin than her siblings, and giant granules in phagocytes. Diagnosis per p164?",
+    "a": "Chediak-Higashi syndrome: a phagolysosomal fusion disorder with disrupted microtubule function; melanosome function is also impaired.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "StatPearls: autosomal recessive; albinism and recurrent infections from LYST (lysosomal trafficking regulator) mutations. I did not verify the microtubule wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK507881/"
+    }
+  },
+  {
+    "id": "s2peds-2426",
+    "category": "Peds vignettes",
+    "q": "2M with immunodeficiency and delayed separation of the umbilical cord. Diagnosis per p164?",
+    "a": "Leukocyte adhesion deficiency: deficiency of the LFA-1/CD18 integrin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "StatPearls: deficiency of LFA-1/Mac-1 integrins from CD18 mutations; leukocytes cannot migrate to infection sites.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539770/"
+    }
+  },
+  {
+    "id": "s2peds-2427",
+    "category": "Peds vignettes",
+    "q": "2M with viral, fungal, bacterial and protozoal infections since birth, an absent thymic shadow and scanty or absent lymph nodes and tonsils. Diagnosis per p164?",
+    "a": "Severe combined immunodeficiency (SCID); the X-linked type is most common (the sentence continues on p165).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 164,
+      "url": "/mehlman/hy-pediatrics.pdf#page=164"
+    },
+    "guideline": {
+      "text": "StatPearls: SCID thymus is fetal in appearance, with absent lymphoid cells and Hassall corpuscles.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539762/"
+    }
   }
 ];
