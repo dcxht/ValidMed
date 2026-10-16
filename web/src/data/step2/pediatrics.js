@@ -31350,5 +31350,229 @@ export default [
       "page": 145,
       "url": "/mehlman/hy-pediatrics.pdf#page=145"
     }
+  },
+  {
+    "id": "s2peds-2202",
+    "category": "SIADH",
+    "q": "What is SIADH and what are its causes per p146?",
+    "a": "Too much ADH (vasopressin) secretion. Central SIADH follows head trauma, meningitis, brain cancer and pain (peds or adults). Ectopic SIADH: small cell lung cancer secreting ADH (adults). Drug-induced is ultra-rare on USMLE, but carbamazepine can do it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "StatPearls: ectopic ADH from small cell carcinomas; carbamazepine and oxcarbazepine increase sensitivity to ADH; hyponatremia is common in CNS infections like meningitis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507777/"
+    }
+  },
+  {
+    "id": "s2peds-2203",
+    "category": "SIADH",
+    "q": "What are the serum and urine findings in SIADH per p146?",
+    "a": "Dilute serum and concentrated urine: decreased serum sodium (<135, normal 135-145), serum osmolality and serum specific gravity; increased urinary osmolality and urinary specific gravity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "StatPearls: normal sodium 135 to 145 mEq/L.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507777/"
+    }
+  },
+  {
+    "id": "s2peds-2204",
+    "category": "SIADH",
+    "q": "What does p146 say about osmolality numbers in SIADH questions?",
+    "a": "You need not memorize values. If serum osmolality is 250 and urine is 750, serum is dilute compared with urine, which sounds like SIADH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2peds-2205",
+    "category": "SIADH",
+    "q": "What urine specific gravity values does p146 call dilute versus concentrated?",
+    "a": "Specific gravity ranges 1.000-1.030 on USMLE. About 1.000-1.006 is dilute and 1.024-1.030 is concentrated. For 9 of 10 questions, values are what you expect.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2peds-2206",
+    "category": "SIADH",
+    "q": "What is the first answer in diagnosing SIADH on 2CK per p146?",
+    "a": "Fluid restriction, to see how the serum and urinary values change in response.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls and an SIADH management review describe fluid restriction as the first-line treatment for SIADH, not a diagnostic test; diagnosis relies on serum and urine osmolality and urine sodium. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386802/"
+    }
+  },
+  {
+    "id": "s2peds-2207",
+    "category": "SIADH",
+    "q": "What is the treatment answer on offline NBME 8 per p146, and why is it odd?",
+    "a": "Demeclocycline. It is a tetracycline antibiotic but is used because it causes insensitivity to ADH at the kidney (nephrogenic DI), creating a second problem that cancels the first.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "A SIADH management review lists demeclocycline as an additional approach after fluid restriction.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386802/"
+    }
+  },
+  {
+    "id": "s2peds-2208",
+    "category": "Diabetes insipidus",
+    "q": "What is central DI versus nephrogenic DI per p146?",
+    "a": "Central DI: not enough ADH secretion by the hypothalamus, or the posterior pituitary cannot release it. Nephrogenic DI: insensitivity to ADH at the kidney (serum ADH is increased).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "StatPearls: central DI (AVP deficiency) versus nephrogenic DI (AVP resistance).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470458/"
+    }
+  },
+  {
+    "id": "s2peds-2209",
+    "category": "Diabetes insipidus",
+    "q": "What causes central DI per p146?",
+    "a": "Similar to central SIADH: head trauma, meningitis, and cancer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "StatPearls lists intracranial etiologies such as hypothalamic tumors and tuberculous meningitis. I did not verify head trauma in this chapter.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470458/"
+    }
+  },
+  {
+    "id": "s2peds-2210",
+    "category": "Diabetes insipidus",
+    "q": "What causes nephrogenic DI per p146?",
+    "a": "Lithium, demeclocycline, hypercalcemia and NSAIDs (bold on the page).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "StatPearls: chronic lithium causes nephrogenic DI in about 20% and hypercalcemia predominates in adults. I did not verify NSAIDs and demeclocycline in the sources I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470458/"
+    }
+  },
+  {
+    "id": "s2peds-2211",
+    "category": "Diabetes insipidus",
+    "q": "What NBME question about NSAIDs does p146 describe?",
+    "a": "A patient on chronic NSAIDs asked about response to ADH: the answer is no change in response to ADH and no change in urinary osmolality.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2peds-2212",
+    "category": "Diabetes insipidus",
+    "q": "A patient with primary hyperparathyroidism and high serum calcium has nephrogenic DI. What causes the DI per p146?",
+    "a": "Hypercalcemia. High calcium causes renal insensitivity to vasopressin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "StatPearls: hypercalcemia (persistently above about 11 mg/dL) causes a reversible concentrating defect.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470458/"
+    }
+  },
+  {
+    "id": "s2peds-2213",
+    "category": "Diabetes insipidus",
+    "q": "What are the serum and urine findings in DI per p146?",
+    "a": "Opposite of SIADH: increased serum sodium (>145), serum osmolality and serum specific gravity; decreased urinary osmolality and urinary specific gravity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    }
+  },
+  {
+    "id": "s2peds-2214",
+    "category": "Diabetes insipidus",
+    "q": "How is DI first diagnosed per p146?",
+    "a": "Fluid restriction first, same as SIADH, to see how serum and urine values change. If urine stays dilute and serum stays concentrated, give desmopressin next.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "Review: a water deprivation test followed by a desmopressin challenge separates central DI from nephrogenic DI.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3610677/"
+    }
+  },
+  {
+    "id": "s2peds-2215",
+    "category": "Diabetes insipidus",
+    "q": "How does the desmopressin response separate central from nephrogenic DI per p146?",
+    "a": "Urine becomes more concentrated: central DI. If desmopressin does not work: nephrogenic DI. Even in nephrogenic DI desmopressin might work very little; in central DI urinary osmolality rises robustly.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "Review: in nephrogenic DI urine osmolality will increase only minimally after desmopressin.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3610677/"
+    }
+  },
+  {
+    "id": "s2peds-2216",
+    "category": "Diabetes insipidus",
+    "q": "What is the treatment of central DI per p146?",
+    "a": "Desmopressin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "StatPearls: AVP deficiency is treated with desmopressin.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470458/"
+    }
+  },
+  {
+    "id": "s2peds-2217",
+    "category": "Diabetes insipidus",
+    "q": "What is the treatment of nephrogenic DI per p146, and why does it work?",
+    "a": "An NSAID plus a thiazide. Thiazides decrease Na+ reabsorption in the early DCT, which promotes compensatory increased Na+ (and water) reabsorption in the PCT, so net fluid loss is less. (The explanation continues on p147.)",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 146,
+      "url": "/mehlman/hy-pediatrics.pdf#page=146"
+    },
+    "guideline": {
+      "text": "A case report review describes lithium-induced nephrogenic DI managed with desmopressin plus thiazides and NSAIDs.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11157307/"
+    }
   }
 ];

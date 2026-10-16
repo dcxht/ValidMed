@@ -717,3 +717,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answers kept with caution notes: (1) IL-12 receptor deficiency "recurrent TB" - MSMD literature describes mycobacterial disease incl. nontuberculous and BCG; (2) CGD 70% X-linked claim - StatPearls says most CGD is autosomal recessive; this differs by population.
 - Left un-noted or flagged unverified: WAS immunoglobulin pattern, LAD delayed cord separation, CHS microtubule/giant granule wording, A-T DNA repair wording, 12M Pneumocystis question, CVID vs IgA exam tips, C7/C8 exam wording.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p146 (peds endocrine: SIADH vs DI) - 16 cards, ids s2peds-2202 to 2217
+- Inspected page pixels. No figures. Page ends mid-sentence on thiazide mechanism, which continues on p147; card says so.
+- Notes verified against StatPearls (SIADH, AVP disorder/DI), an SIADH management review, a nephrogenic DI review and a lithium NDI case report.
+- Source conflict, source answer kept with caution note: "fluid restriction is the first answer in diagnosis" for SIADH - sources describe fluid restriction as first-line treatment; diagnosis uses serum/urine osmolality and urine sodium.
+- Left un-noted or flagged unverified: specific gravity cutoffs, osmolality example, NBME 8 demeclocycline question, NSAID and demeclocycline as NDI causes in cited chapters, head trauma as central DI cause, the NBME NSAID question, 2CK hyperparathyroidism question, thiazide mechanism.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
