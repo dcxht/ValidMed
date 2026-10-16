@@ -585,4 +585,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls NF1 and a PMC Down syndrome ocular review.
 - Source conflict flagged: p125 lists ependymoma under NF1; StatPearls names ependymoma as a hallmark of NF2. Source answer kept, note warns. Oligodendroglioma and pheochromocytoma in NF1 not verified here.
 - Left un-noted: "iris hamartomas" wording for Lisch nodules, the albinism photo description.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 7 cards ox=false off=false bad=0. The 1879 question screenshot caught the previous card image mid-swap (screenshot timing); its answer view and data show the correct Lisch photo.
