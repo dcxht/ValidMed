@@ -50398,5 +50398,414 @@ export default [
       "text": "A paper on the calcium-sensing receptor in secondary hyperparathyroidism is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4421157/"
     }
+  },
+  {
+    "id": "s2med-3773",
+    "category": "IM Mixed",
+    "q": "Travel + self-limiting watery or brown/green diarrhea per p375?",
+    "a": "Traveler diarrhea = ETEC (heat-labile or heat-stable toxin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3774",
+    "category": "IM Mixed",
+    "q": "Bloody diarrhea + poultry per p375?",
+    "a": "Campylobacter jejuni or Salmonella spp.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3775",
+    "category": "IM Mixed",
+    "q": "Antibiotics (clindamycin, beta-lactam, cephalosporin) + diarrhea per p375?",
+    "a": "C. difficile.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3776",
+    "category": "IM Mixed",
+    "q": "Diagnosis of C. diff per p375?",
+    "a": "Stool A/B toxin test, not stool culture.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3777",
+    "category": "IM Mixed",
+    "q": "C. diff with fever of 104 and abdominal distension per p375?",
+    "a": "Toxic megacolon; laparotomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3778",
+    "category": "IM Mixed",
+    "q": "Treatment of C. diff per p375?",
+    "a": "The source says vancomycin, not metronidazole (updated guidelines as of Feb 2018).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    },
+    "guideline": {
+      "text": "A 2021 IDSA/SHEA focused update on C. difficile management is linked (title only); check it for the current preferred agents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34492699/"
+    }
+  },
+  {
+    "id": "s2med-3779",
+    "category": "IM Mixed",
+    "q": "Bloody diarrhea + travel per p375?",
+    "a": "Entamoeba histolytica. Treatment per the source: metronidazole + iodoquinol; can give paromomycin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3780",
+    "category": "IM Mixed",
+    "q": "Watery diarrhea in close quarters (military barracks, cruise ship) per p375?",
+    "a": "Norwalk virus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3781",
+    "category": "IM Mixed",
+    "q": "Child <5 years + watery diarrhea per p375?",
+    "a": "Rotavirus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3782",
+    "category": "IM Mixed",
+    "q": "Bloody diarrhea with few organisms per p375?",
+    "a": "Shigella.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3783",
+    "category": "IM Mixed",
+    "q": "Bloody diarrhea + appendicitis-like pain (pseudoappendicitis) in a child per p375?",
+    "a": "Yersinia enterocolitica.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    },
+    "guideline": {
+      "text": "A case report of appendicitis then reactive arthritis after Y. enterocolitica is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9334870/"
+    }
+  },
+  {
+    "id": "s2med-3784",
+    "category": "IM Mixed",
+    "q": "Bloody diarrhea + reactive arthritis in an adult per p375?",
+    "a": "Y. enterocolitica, Campylobacter, Shigella, Salmonella.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3785",
+    "category": "IM Mixed",
+    "q": "Diarrhea + Guillain-Barre syndrome per p375?",
+    "a": "Campylobacter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    },
+    "guideline": {
+      "text": "A review of triggers of Guillain-Barre syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9696744/"
+    }
+  },
+  {
+    "id": "s2med-3786",
+    "category": "IM Mixed",
+    "q": "GBS CSF and diagnosis per p375?",
+    "a": "CSF: albuminocytologic dissociation (high protein + normal cells). Diagnosis: electromyography + nerve conduction studies (on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3787",
+    "category": "IM Mixed",
+    "q": "Cardiac ischemia evaluation per p375?",
+    "a": "ECG stress test first-line. With an abnormal baseline ECG (e.g., BBB): echo stress test (a normal ECG is needed for ECG stress test). If the patient can't exercise: dobutamine + ECG/echo.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3788",
+    "category": "IM Mixed",
+    "q": "Diffuse ST-segment elevations per p375?",
+    "a": "Pericarditis. Treatment: NSAID, or steroid, or colchicine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3789",
+    "category": "IM Mixed",
+    "q": "Central chest pain worse supine, better leaning forward per p375?",
+    "a": "Pericarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3790",
+    "category": "IM Mixed",
+    "q": "Lateral chest pain after viral infection + increased CK per p375?",
+    "a": "Pleurodynia (intercostal muscle spasm).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3791",
+    "category": "IM Mixed",
+    "q": "ST-segment depressions in the anterior ECG leads per p375?",
+    "a": "Posterior MI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3792",
+    "category": "IM Mixed",
+    "q": "Electrical alternans on ECG per p375?",
+    "a": "Pericardial tamponade / pericardial effusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 375,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=375"
+    }
+  },
+  {
+    "id": "s2med-3793",
+    "category": "IM Mixed",
+    "q": "Pulsus paradoxus per p376 (continued from p375)?",
+    "a": "Drop in systolic BP >10 mm Hg with inspiration: cardiac tamponade or severe asthma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3794",
+    "category": "IM Mixed",
+    "q": "Beck triad per p376?",
+    "a": "Hypotension + muffled heart sounds + JVD: pericardial tamponade.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    },
+    "guideline": {
+      "text": "A review of pericardial tamponade is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35696801/"
+    }
+  },
+  {
+    "id": "s2med-3795",
+    "category": "IM Mixed",
+    "q": "Treatment of tamponade per p376?",
+    "a": "Pericardiocentesis or pericardial window. If both are listed, do an echo before pericardiocentesis (sounds wrong, but on a 2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3796",
+    "category": "IM Mixed",
+    "q": "Community-acquired pneumonia with bilateral CXR infiltrates per p376?",
+    "a": "Mycoplasma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3797",
+    "category": "IM Mixed",
+    "q": "CAP with a lobar pattern per p376?",
+    "a": "Right-lower lobe consolidation + dullness to percussion: Strep pneumo. If the vignette says 'interstitial' despite a lobar pattern: Mycoplasma, not S. pneumo.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3798",
+    "category": "IM Mixed",
+    "q": "Empiric treatment of CAP per p376?",
+    "a": "Azithromycin. If the patient was on antibiotics in the past three months: a fluoroquinolone over azithromycin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    },
+    "guideline": {
+      "text": "An ATS clinical practice guideline on CAP is linked (title only). I did not verify these choices against it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40679934/"
+    }
+  },
+  {
+    "id": "s2med-3799",
+    "category": "IM Mixed",
+    "q": "Pneumonia in cystic fibrosis per p376?",
+    "a": "Under 10 years: S. aureus exceeds Pseudomonas. Over 10 years: Pseudomonas exceeds S. aureus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3800",
+    "category": "IM Mixed",
+    "q": "Pneumonia after influenza per p376?",
+    "a": "USMLE wants S. aureus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3801",
+    "category": "IM Mixed",
+    "q": "Pneumonia with animal exposure per p376?",
+    "a": "Rabbits: F. tularensis. Cattle: Coxiella (Q fever). Birds: Chlamydia psittaci.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3802",
+    "category": "IM Mixed",
+    "q": "Leg swelling + pain + shortness of breath per p376?",
+    "a": "Pulmonary embolism caused by DVT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3803",
+    "category": "IM Mixed",
+    "q": "PE management order per p376?",
+    "a": "Heparin before spiral CT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3804",
+    "category": "IM Mixed",
+    "q": "PE in a pregnant woman per p376?",
+    "a": "V/Q scan, not CT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    },
+    "guideline": {
+      "text": "An ASH 2018 guideline on VTE in pregnancy is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258928/"
+    }
+  },
+  {
+    "id": "s2med-3805",
+    "category": "IM Mixed",
+    "q": "PE in someone already on warfarin per p376?",
+    "a": "Spiral CT to confirm, then IVC filter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3806",
+    "category": "IM Mixed",
+    "q": "Acid-base in PE and asthma per p376?",
+    "a": "Respiratory alkalosis: low CO2, high pH, low O2, normal bicarb (too acute to change).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
+  },
+  {
+    "id": "s2med-3807",
+    "category": "IM Mixed",
+    "q": "Acid-base in aspirin toxicity first 20 minutes per p376?",
+    "a": "Respiratory alkalosis: low CO2, high pH, normal O2, normal bicarb (too acute to change).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 376,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=376"
+    }
   }
 ];

@@ -1294,3 +1294,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p374 (desmopressin, octreotide, cinacalcet) - 3 cards, ids s2med-3770 to 3772
 - Endocrine section ends on p374.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p375 (IM mixed bullets: GI infections, cardiac) - 20 cards, ids s2med-3773 to 3792
+- C. diff treatment (vancomycin not metronidazole, "as of Feb 2018"): source answer kept; 2021 IDSA/SHEA update linked in note for checking.
+- E. histolytica iodoquinol and other exam-style one-liners: source, unverified.
+
+## p376 (IM mixed bullets: tamponade, pneumonia, PE) - 15 cards, ids s2med-3793 to 3807
+- CAP empiric choices and "heparin before CT" exam rules: source answers kept; not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 35 cards ox=false off=false bad=0.
