@@ -21539,5 +21539,423 @@ export default [
       "page": 174,
       "url": "/mehlman/hy-internal-medicine.pdf#page=174"
     }
+  },
+  {
+    "id": "s2med-1630",
+    "category": "IM Heme/Onc",
+    "q": "Acute hemolytic transfusion reaction (ABO mismatch): mechanism, continued from p174 (p175)?",
+    "a": "Recipient antibodies against A and/or B antigens on donor RBCs cause RBC agglutination and intravascular hemolysis with release of hemoglobin into the bloodstream. Antibody binding can also activate complement and lyse RBCs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    },
+    "guideline": {
+      "text": "StatPearls on noninfectious transfusion complications is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK574536/"
+    }
+  },
+  {
+    "id": "s2med-1631",
+    "category": "IM Heme/Onc",
+    "q": "Lab marker in hemolysis per p175?",
+    "a": "LDH can be increased (RBCs are packed with LDH).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1632",
+    "category": "IM Heme/Onc",
+    "q": "Acute hemolytic reaction vignette per p175?",
+    "a": "Fever, chills, and often flank pain within minutes of a blood transfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1633",
+    "category": "IM Heme/Onc",
+    "q": "NBME: 10 minutes into a transfusion, 'impending sense of doom,' transfusion stopped; next best step per p175?",
+    "a": "Antiglobulin test (another way of writing Coombs test). The source notes it sounds like MI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1634",
+    "category": "IM Heme/Onc",
+    "q": "Delayed transfusion reaction: cause per p175?",
+    "a": "Recipient antibodies against minor antigens on donor RBCs, such as Rh, Kell, Duffy, Kidd. Coombs test is (+).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    },
+    "guideline": {
+      "text": "A review of transfusion-related RBC alloantibodies is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6484385/"
+    }
+  },
+  {
+    "id": "s2med-1635",
+    "category": "IM Heme/Onc",
+    "q": "Delayed transfusion reaction vignette per p175?",
+    "a": "Surgery with intraoperative RBCs, then hemoglobin gradually decreases over the following week. Answer: Coombs (+); unconjugated bilirubin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1636",
+    "category": "IM Heme/Onc",
+    "q": "TRALI: USMLE presentation per p175?",
+    "a": "ARDS-like presentation with bilateral crackles and low O2 sats less than 6 hours after a transfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    },
+    "guideline": {
+      "text": "A consensus redefinition of TRALI is linked; I did not verify the 6-hour wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6850655/"
+    }
+  },
+  {
+    "id": "s2med-1637",
+    "category": "IM Heme/Onc",
+    "q": "TRALI: mechanism per p175?",
+    "a": "Abnormal priming of neutrophils in the lung that react to cytokines within transfused blood products (the source says straight from a CMS form). Technically a type of non-cardiogenic pulmonary edema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1638",
+    "category": "IM Heme/Onc",
+    "q": "TACO: what is it per p175?",
+    "a": "Transfusion-associated circulatory overload, aka transfusion-induced hypervolemia. Cardiogenic pulmonary edema: the left heart can't handle the increased hydrostatic pressure from volume, so transudation into alveoli occurs. Differs from TRALI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    },
+    "guideline": {
+      "text": "A review of TACO and TRALI is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30808638/"
+    }
+  },
+  {
+    "id": "s2med-1639",
+    "category": "IM Heme/Onc",
+    "q": "TACO: when is it the answer per p175?",
+    "a": "ARDS-like presentation more than 6 hours after a transfusion, or ARDS-like picture after transfusion in the setting of cardiovascular disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1640",
+    "category": "IM Heme/Onc",
+    "q": "2CK form: elderly man received 3 packs of RBCs, bilateral crackles and low O2 sats 12 hours after admission per p175?",
+    "a": "Next best step: chest X-ray. The explanation says TACO, but the question doesn't rely on telling TACO from TRALI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1641",
+    "category": "IM Heme/Onc",
+    "q": "72-year-old with MI 10 years ago, SOB and crackles 30 minutes after crystalloid and 4 packs of RBCs per p175?",
+    "a": "TACO (heart disease history with repeated blood products).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1642",
+    "category": "IM Heme/Onc",
+    "q": "Summary rule for ARDS-like picture after transfusion per p175?",
+    "a": "Less than 6 hours: TRALI. More than 6 hours: TACO. Heart disease: TACO regardless of time frame.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 175,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=175"
+    }
+  },
+  {
+    "id": "s2med-1643",
+    "category": "IM Heme/Onc",
+    "q": "Aspirin: mechanism per p176?",
+    "a": "Irreversible COX-1 and COX-2 inhibitor (an NSAID, aka salicylic acid / salicylate). Blocks synthesis of prostaglandins and platelet thromboxane A2: less prostaglandin means less inflammation, pain and body temperature; less thromboxane A2 means less platelet clumping.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1644",
+    "category": "IM Heme/Onc",
+    "q": "Aspirin for atrial fibrillation per p176?",
+    "a": "Source: with a low CHADS2 score (CHF, HTN, Age >75, DM, Stroke/TIA/emboli worth 2), give aspirin for 0 or 1 points and warfarin for 2+. USMLE doesn't obsess over valvular vs non-valvular AF; the choices will be aspirin or warfarin, not NOACs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: the 2023 ACC/AHA/ACCP/HRS AF guideline (linked) uses CHA2DS2-VASc and does not rely on aspirin for stroke prevention; I did not verify the exact thresholds. Source answer stays for exam use.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/"
+    }
+  },
+  {
+    "id": "s2med-1645",
+    "category": "IM Heme/Onc",
+    "q": "PAD and carotid stenosis: USMLE triad per p176?",
+    "a": "Antiplatelet therapy (aspirin alone sufficient on USMLE), statin, and ACEi or ARB.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1646",
+    "category": "IM Heme/Onc",
+    "q": "Ischemic heart disease with angina: drugs per p176?",
+    "a": "Nitrates for acute angina, plus daily aspirin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1647",
+    "category": "IM Heme/Onc",
+    "q": "Aspirin in stroke per p176?",
+    "a": "The source says aspirin is given for ischemic strokes after 4.5 hours have passed; if less than 4.5 hours, give tPA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "The ESO thrombolysis guideline is linked; I did not verify the details. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995316/"
+    }
+  },
+  {
+    "id": "s2med-1648",
+    "category": "IM Heme/Onc",
+    "q": "Aspirin adverse effects per p176?",
+    "a": "GI bleeds (less prostaglandin, less gastric mucous protection), nephropathy (pre-renal, interstitial, nephrogenic DI), and asthma (COX inhibition shunts arachidonic acid down the lipoxygenase pathway, raising leukotrienes and causing bronchoconstriction).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1649",
+    "category": "IM Heme/Onc",
+    "q": "Why never give aspirin to children per p176?",
+    "a": "Reye syndrome risk (defect in beta-oxidation, with cerebral edema and hepatitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "A clinical inquiry on aspirin use in children is linked; I did not verify the text, including the beta-oxidation wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20000310/"
+    }
+  },
+  {
+    "id": "s2med-1650",
+    "category": "IM Heme/Onc",
+    "q": "NSAID-induced gastric ulcer: what to add after a PPI per p176?",
+    "a": "Misoprostol (PGE1 analogue).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "A Cochrane meta-analysis of NSAID GI toxicity prevention is linked; I did not verify the details of the PPI-then-misoprostol sequence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10990235/"
+    }
+  },
+  {
+    "id": "s2med-1651",
+    "category": "IM Heme/Onc",
+    "q": "Aspirin overdose acid-base per p176?",
+    "a": "High-anion gap mixed metabolic acidosis and respiratory alkalosis (the S in MUDPILES).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1652",
+    "category": "IM Heme/Onc",
+    "q": "Other NSAIDs versus aspirin per p176?",
+    "a": "Other NSAIDs are reversible COX inhibitors; aspirin is irreversible.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1653",
+    "category": "IM Heme/Onc",
+    "q": "Indomethacin uses per p176?",
+    "a": "Acute gout and pericarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1654",
+    "category": "IM Heme/Onc",
+    "q": "Ibuprofen uses per p176?",
+    "a": "General NSAID used broadly for pain, fever, and autoimmune diseases (RA, IBD, SLE, etc.).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1655",
+    "category": "IM Heme/Onc",
+    "q": "USMLE-favorite NSAID causing GI bleeds and nephropathy per p176?",
+    "a": "Naproxen (shows up on 2CK forms a lot).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1656",
+    "category": "IM Heme/Onc",
+    "q": "Diclofenac and ketorolac per p176?",
+    "a": "Just know these names are NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1657",
+    "category": "IM Heme/Onc",
+    "q": "5-ASA compounds per p176?",
+    "a": "Mesalamine and sulfasalazine are used for IBD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1658",
+    "category": "IM Heme/Onc",
+    "q": "Acetaminophen: mechanism per p176?",
+    "a": "Central-acting COX inhibitor. Not an NSAID because it doesn't act peripherally: decreases pain and fever but isn't anti-inflammatory in the periphery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1659",
+    "category": "IM Heme/Onc",
+    "q": "First-line medication for osteoarthritis per p176?",
+    "a": "Source: acetaminophen (weight loss first). NSAIDs are not ideal first-line because they harm kidneys and OA is non-inflammatory; chronic frequent NSAID users risk nephropathy and GI bleeds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "Current guidelines differ: the 2019 ACR/Arthritis Foundation OA guideline (linked) is the current source; I did not verify its ranking of acetaminophen versus topical or oral NSAIDs. Source answer stays for exam use.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11488261/"
+    }
+  },
+  {
+    "id": "s2med-1660",
+    "category": "IM Heme/Onc",
+    "q": "Acetaminophen toxicity per p176?",
+    "a": "The metabolite NAPQI causes massive hepatotoxicity. Activated charcoal immediately after ingestion, otherwise N-acetylcysteine, which regenerates reduced glutathione that neutralizes NAPQI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "StatPearls on acetaminophen toxicity is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441917/"
+    }
+  },
+  {
+    "id": "s2med-1661",
+    "category": "IM Heme/Onc",
+    "q": "Celecoxib per p176?",
+    "a": "Selective COX-2 inhibitor that does not cause GI bleeds, but can still cause nephropathy. In theory used for pain and inflammation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
+  },
+  {
+    "id": "s2med-1662",
+    "category": "IM Heme/Onc",
+    "q": "NBME: why can celecoxib increase MI risk per p176?",
+    "a": "It decreases prostaglandin production without inhibiting platelets.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    },
+    "guideline": {
+      "text": "A review of the cardiovascular effects of COX-2 inhibitors is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5137820/"
+    }
+  },
+  {
+    "id": "s2med-1663",
+    "category": "IM Heme/Onc",
+    "q": "Clopidogrel per p176?",
+    "a": "Anti-platelet agent that inhibits the ADP P2Y12 receptor on platelets. The mechanism is HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 176,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=176"
+    }
   }
 ];

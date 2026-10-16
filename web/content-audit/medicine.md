@@ -695,3 +695,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p174 (RhoGAM, KB, ABO/Kell HDN, FNHTR) - 12 cards, ids s2med-1618 to 1629
 - Unverified: 8-10 week Rh screen timing; "bilirubin released directly" wording; AIP hematin+glucose only (hemin is standard name; not verified).
 - Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.
+
+## p175 (transfusion reactions, TRALI/TACO) - 13 cards, ids s2med-1630 to 1642
+## p176 (aspirin, NSAIDs, acetaminophen, celecoxib, clopidogrel) - 21 cards, ids s2med-1643 to 1663
+- Conflicts: AF aspirin by CHADS2 (current guidelines use CHA2DS2-VASc, no aspirin reliance); stroke aspirin "after 4.5 h" wording; OA first-line acetaminophen vs 2019 ACR guideline. Unverified: Reye beta-oxidation wording, PPI-then-misoprostol sequence, TRALI 6h rule.
+- Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.
