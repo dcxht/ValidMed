@@ -857,3 +857,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p238 (SVT, Buerger, Charcot) - 5 cards, ids s2med-2279 to 2283
 - SVT enoxaparin vs fondaparinux/size-based guidance: note added. Leg image on p238 is unlabeled in source; neutral alt text.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p239 (cryoglobulinemia, SVC syndrome) - 5 cards, ids s2med-2284 to 2288
+- Foot ulcer image at top of p239 is unlabeled in source; neutral alt text. SVC/Pancoast "classic" claim unverified.
+## p240 (actinic purpura, keratosis pilaris) - 5 cards, ids s2med-2289 to 2293
+- NBME solar elastosis claim unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.

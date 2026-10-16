@@ -30037,5 +30037,161 @@ export default [
       "text": "IWGDF 2023 Charcot guidelines are linked; I did not verify the vasculopathy mechanism.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/37218537/"
     }
+  },
+  {
+    "id": "s2med-2284",
+    "category": "IM Derm",
+    "q": "Cryoglobulins per p239?",
+    "a": "Cryoglobulins are immune complexes that precipitate at cold temperatures.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=239"
+    },
+    "img": "/mehlman/figures/med-p239-01.jpg",
+    "imgAlt": "Ulcerated foot lesion (unlabeled image at the top of p239 in the source)",
+    "guideline": {
+      "text": "A StatPearls page on cryoglobulinemia is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557606/"
+    }
+  },
+  {
+    "id": "s2med-2285",
+    "category": "IM Derm",
+    "q": "Cryoglobulinemia: skin finding and association per p239?",
+    "a": "Often presents as livedo reticularis, a mottled, reticulated vascular pattern with many etiologies; associated with hepatitis C.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=239"
+    },
+    "img": "/mehlman/figures/med-p239-02.jpg",
+    "imgAlt": "Mottled net-like purple-brown pattern on both lower legs (livedo reticularis)",
+    "guideline": {
+      "text": "A review of hepatitis C related mixed cryoglobulinemia and a livedo reticularis update are linked; I did not read either in full.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3104260/"
+    }
+  },
+  {
+    "id": "s2med-2286",
+    "category": "IM Derm",
+    "q": "Cryoglobulinemia: complement per p239?",
+    "a": "Associated with decreased serum complement protein C4 (in contrast, C3 is sometimes down in SLE flares and Group A Strep infections).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=239"
+    },
+    "guideline": {
+      "text": "I did not verify the contrast with C3.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557606/"
+    }
+  },
+  {
+    "id": "s2med-2287",
+    "category": "IM Derm",
+    "q": "SVC syndrome: Pemberton sign per p239?",
+    "a": "Image shows Pemberton sign: facial erythema due to diminished venous return when the arms are raised above the head.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=239"
+    },
+    "img": "/mehlman/figures/med-p239-03.jpg",
+    "imgAlt": "Man's face at rest (left) and flushed red with both arms raised (right), Pemberton sign",
+    "guideline": {
+      "text": "A case report on Pemberton's sign in SVC syndrome is linked; I did not verify the source wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5878269/"
+    }
+  },
+  {
+    "id": "s2med-2288",
+    "category": "IM Derm",
+    "q": "SVC syndrome: classic cause per p239?",
+    "a": "Seen classically in Pancoast (apical) tumors of the lung.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 239,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=239"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Pancoast tumor is linked; I did not verify this association.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK556109/"
+    }
+  },
+  {
+    "id": "s2med-2289",
+    "category": "IM Derm",
+    "q": "Actinic purpura per p240?",
+    "a": "Aka senile or solar purpura. Flat, purple discolorations caused by damage to dermal collagen and blood vessels due to chronic sun exposure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=240"
+    },
+    "img": "/mehlman/figures/med-p240-01.jpg",
+    "imgAlt": "Irregular flat purple-red patches on the forearm skin (actinic purpura)",
+    "guideline": {
+      "text": "A StatPearls page on actinic purpura is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448130/"
+    }
+  },
+  {
+    "id": "s2med-2290",
+    "category": "IM Derm",
+    "q": "Actinic purpura: location and course per p240?",
+    "a": "Commonly appears on the back of the hands and forearms in the elderly. Benign; may be mistaken for bruises.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=240"
+    }
+  },
+  {
+    "id": "s2med-2291",
+    "category": "IM Derm",
+    "q": "Actinic purpura: NBME mechanism per p240?",
+    "a": "An NBME question describes actinic purpura and asks for the mechanism. The answer is 'solar elastosis', which refers to degenerative changes in the dermis due to chronic sun exposure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=240"
+    },
+    "guideline": {
+      "text": "I did not verify the NBME claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448130/"
+    }
+  },
+  {
+    "id": "s2med-2292",
+    "category": "IM Derm",
+    "q": "Keratosis pilaris per p240?",
+    "a": "Benign bumps and rough patches on the skin due to build-up of excess keratin, which can block hair follicles and pores, causing small, hard bumps.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=240"
+    },
+    "img": "/mehlman/figures/med-p240-02.jpg",
+    "imgAlt": "Many tiny follicular red-brown bumps over the thigh (keratosis pilaris)",
+    "guideline": {
+      "text": "A systematic review of keratosis pilaris treatment is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32886029/"
+    }
+  },
+  {
+    "id": "s2med-2293",
+    "category": "IM Derm",
+    "q": "Keratosis pilaris: treatment per p240?",
+    "a": "No treatment necessary. Emollients may be used. The source says this is not an obscure condition and that it shows up on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 240,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=240"
+    },
+    "guideline": {
+      "text": "The treatment review is linked in the previous card; I did not verify the NBME claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32886029/"
+    }
   }
 ];
