@@ -675,3 +675,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p166 (Burkitt, follicular, DLBCL, mantle, mycosis fungoides) - 9 cards, ids s2med-1548 to 1556
 - Unverified: subtype-prognosis and nodular-sclerosis sex claims, NBME-specific claims.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p167 (warm/cold AIHA, mono, LCH) - 11 cards, ids s2med-1557 to 1567
+## p168 (Birbeck granules, LCH histology) - 3 cards, ids s2med-1568 to 1570
+- Unverified: NBME-specific claims on LCH images and amoxicillin rash by age.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.

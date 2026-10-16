@@ -20616,5 +20616,177 @@ export default [
     },
     "img": "/mehlman/figures/med-p166-02.jpg",
     "imgAlt": "Skin with scattered red papules and plaques of mycosis fungoides"
+  },
+  {
+    "id": "s2med-1557",
+    "category": "IM Heme/Onc",
+    "q": "Coombs test in AIHA per p167?",
+    "a": "Both warm and cold AIHA present with a (+) Coombs, meaning antibodies against RBCs. (-) means no antibodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1558",
+    "category": "IM Heme/Onc",
+    "q": "Warm AIHA per p167?",
+    "a": "IgG antibodies against RBCs. 'Warm' because agglutination occurs at warmer temperatures (the stem can say agglutination happens when the nurse holds the tube by hand). Seen with SLE or RA, CLL; or drug- or infection-induced.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1559",
+    "category": "IM Heme/Onc",
+    "q": "Cold AIHA per p167?",
+    "a": "IgM antibodies against RBCs. 'Cold' because agglutination occurs at cooler temperatures (e.g., tubes transported en route to the lab). Seen with Mycoplasma pneumonia and CMV mononucleosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    },
+    "guideline": {
+      "text": "A review of cold agglutinin disease is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8432332/"
+    }
+  },
+  {
+    "id": "s2med-1560",
+    "category": "IM Heme/Onc",
+    "q": "Infectious mononucleosis: cause and atypical lymphocytes per p167?",
+    "a": "Usually EBV, can be CMV. The virus invades B cells, which stimulates CD8+ T cells to attack infected B cells. In mono these CD8+ T cells are 'atypical lymphocytes': reactive CD8+ T cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1561",
+    "category": "IM Heme/Onc",
+    "q": "Mono presentation per p167?",
+    "a": "Teenager or young adult with fever >38 C, lymphadenopathy, tonsillar exudates and no cough, so it looks bacterial and is often misdiagnosed as Strep pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1562",
+    "category": "IM Heme/Onc",
+    "q": "Rash after amoxicillin or penicillin per p167?",
+    "a": "Can be EBV mono, not beta-lactam allergy. Pre-adolescent with rash after a beta-lactam: likely allergy. Adolescent or older with rash: heterophile antibody (Monospot) test as next best step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    },
+    "guideline": {
+      "text": "A paper on amoxicillin rash in mono (evidence of true drug sensitization) is linked; I did not verify the text. Source answer stays for the exam.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4362637/"
+    }
+  },
+  {
+    "id": "s2med-1563",
+    "category": "IM Heme/Onc",
+    "q": "Mono later course per p167?",
+    "a": "Recurrent episodes of extreme fatigue at intervals of months to years after primary infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1564",
+    "category": "IM Heme/Onc",
+    "q": "Langerhans cell histiocytosis (LCH): what is it per p167?",
+    "a": "Overproduction of Langerhans cells, the dendritic cells of the skin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    },
+    "guideline": {
+      "text": "LCH guidelines for patients up to 18 years are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9150752/"
+    }
+  },
+  {
+    "id": "s2med-1565",
+    "category": "IM Heme/Onc",
+    "q": "Dendritic cell vs macrophage and B cell per p167?",
+    "a": "Dendritic cells are strict APCs: phagocytose antigen, migrate to lymph nodes and spleen, present to CD4+ T cells. Macrophages (destroy antigens) and B cells (mature into plasma cells and make antibodies) are APCs with extra functions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1566",
+    "category": "IM Heme/Onc",
+    "q": "Where LCH proliferates per p167?",
+    "a": "Notably bone, causing lytic lesions (e.g., of the skull).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1567",
+    "category": "IM Heme/Onc",
+    "q": "Birbeck granules per p167?",
+    "a": "Tennis racquet- or rod-shaped inclusions in Langerhans cells on electron microscopy. An NBME LCH question gives the rod-shaped form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 167,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=167"
+    }
+  },
+  {
+    "id": "s2med-1568",
+    "category": "IM Heme/Onc",
+    "q": "Tennis racquet-shaped Birbeck granules per p168?",
+    "a": "EM showing rod-shaped granules with a vesicle at one end, giving a tennis racquet shape.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=168"
+    },
+    "img": "/mehlman/figures/med-p168-01.jpg",
+    "imgAlt": "Electron micrograph of tennis racquet-shaped Birbeck granules"
+  },
+  {
+    "id": "s2med-1569",
+    "category": "IM Heme/Onc",
+    "q": "Rod-shaped Birbeck granules per p168?",
+    "a": "EM showing the rod-shaped.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=168"
+    },
+    "img": "/mehlman/figures/med-p168-02.jpg",
+    "imgAlt": "Electron micrograph of rod-shaped Birbeck granule marked by an arrow"
+  },
+  {
+    "id": "s2med-1570",
+    "category": "IM Heme/Onc",
+    "q": "Child with skull lytic lesion and a histology image of large irregular cells per p168?",
+    "a": "LCH. Langerhans cells appear as large, irregularly shaped cells with copious eosinophilic cytoplasm and characteristic horseshoe- or kidney-shaped nuclei (shown on a difficult NBME question without Birbeck granules).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 168,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=168"
+    },
+    "img": "/mehlman/figures/med-p168-03.jpg",
+    "imgAlt": "Histology of Langerhans cell histiocytosis with Langerhans cells and eosinophils"
   }
 ];
