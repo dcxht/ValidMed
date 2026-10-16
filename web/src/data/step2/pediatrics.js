@@ -32966,5 +32966,143 @@ export default [
       "page": 153,
       "url": "/mehlman/hy-pediatrics.pdf#page=153"
     }
+  },
+  {
+    "id": "s2peds-2318",
+    "category": "Type II diabetes",
+    "q": "Why does high BMI cause insulin resistance per p154?",
+    "a": "Adipose tissue secretes adipokines that impair insulin signaling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    },
+    "guideline": {
+      "text": "StatPearls: obesity and high BMI cause resistance of peripheral tissue to insulin. I did not verify the adipokine mechanism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482142/"
+    }
+  },
+  {
+    "id": "s2peds-2319",
+    "category": "Type II diabetes",
+    "q": "What happens to insulin early in type II DM per p154?",
+    "a": "Insulin is high initially (hyperinsulinemia) due to beta-cell hypertrophy, compensating for peripheral insulin resistance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    },
+    "guideline": {
+      "text": "Review: increased insulin resistance raises insulin demand and causes hyperinsulinemia. I did not verify beta-cell hypertrophy.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4008003/"
+    }
+  },
+  {
+    "id": "s2peds-2320",
+    "category": "Type II diabetes",
+    "q": "Why are ketones absent or low in type II DM, and why does it matter per p154?",
+    "a": "The presence of insulin inhibits ketogenesis. This and the hyperinsulinemia point are the highest-yield pieces of info for USMLE.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2peds-2321",
+    "category": "Type II diabetes",
+    "q": "What does a pancreas biopsy show in type II DM per p154?",
+    "a": "Initially beta-cell hypertrophy; years later amyloid deposition and cell shrinkage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    },
+    "guideline": {
+      "text": "Review: islet amyloid deposition is a pathological feature of type 2 diabetes. I did not verify early beta-cell hypertrophy.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4008003/"
+    }
+  },
+  {
+    "id": "s2peds-2322",
+    "category": "Type II diabetes",
+    "q": "How does hyperglycemia occur in type II DM per p154?",
+    "a": "As with type I, continued liver glucose production (gluconeogenesis) plus decreased uptake by skeletal muscle and adipose tissue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2peds-2323",
+    "category": "HHS",
+    "q": "Which diabetes type gets HHS versus DKA per p154?",
+    "a": "HHS is seen in type II; DKA is strictly type I on USMLE.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    },
+    "guideline": {
+      "text": "Current caution: DKA can occur in type 2 diabetes (for example with SGLT2 inhibitors, ketosis-prone presentations); StatPearls says DKA is the most common complication of type 1. Source answer kept as the exam rule.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482142/"
+    }
+  },
+  {
+    "id": "s2peds-2324",
+    "category": "HHS",
+    "q": "How do glucose and bicarbonate differ between HHS and DKA per p154?",
+    "a": "HHS: glucose usually above 600 mg/dL (DKA need not be that high) and bicarb usually not below 20 mEq/L (normal 22-28). DKA: bicarb can be as low as it wants (the author saw 5 mEq/L on NBME).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    },
+    "guideline": {
+      "text": "Current caution: Endotext criteria give HHS glucose above 600 mg/dL with bicarbonate of 15 mmol/L or higher (DKA: bicarbonate below 18). The source cutoff of 20 is not the published one. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279052/"
+    }
+  },
+  {
+    "id": "s2peds-2325",
+    "category": "HHS",
+    "q": "How do you answer a long vignette with glucose 650-700 and a mental status change per p154?",
+    "a": "The answer is \"hyperosmolality,\" or simply \"hyperglycemia\" or \"osmotic diuresis\" (which causes severe dehydration). On 2CK NBMEs, long paragraphs with many lab values can be answered in seconds by spotting the glucose.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2peds-2326",
+    "category": "HHS",
+    "q": "What causes the mental status change in HHS per p154?",
+    "a": "Hyperosmolality in the brain ECF pulls water out of the ICF (the cells).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    },
+    "guideline": {
+      "text": "StatPearls: HHS is profound hyperglycemia without the Kussmaul breathing or ketones of DKA. I did not verify the brain-water mechanism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482142/"
+    }
+  },
+  {
+    "id": "s2peds-2327",
+    "category": "HHS",
+    "q": "What is the first treatment for HHS per p154?",
+    "a": "Normal saline first, prior to insulin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 154,
+      "url": "/mehlman/hy-pediatrics.pdf#page=154"
+    },
+    "guideline": {
+      "text": "StatPearls and Endotext hyperglycemic crisis management begin with fluid resuscitation. I did not verify the insulin sequencing in the passages I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279052/"
+    }
   }
 ];

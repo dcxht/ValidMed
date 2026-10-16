@@ -773,3 +773,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: GFR increased in DKA (StatPearls: decreased filtration with dehydration). Bicarbonate and fluids-first agree with ISPAD; ISPAD allows balanced crystalloids and starts insulin after the first hour of fluids.
 - Left unverified: BHB NBME claim, dilutional sodium and Na/K-ATPase mechanism, proton shift detail, IM glucagon wording, counter-regulatory glucagon deficiency in alcoholism and pancreatectomy, 2CK type II in a 17-year-old.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p154 (type II DM, HHS) - 10 cards, ids s2peds-2318 to 2327
+- Inspected page text and layout; no figures. Expletive paraphrased out of card text.
+- Notes verified against StatPearls (Hyperosmolar Hyperglycemic Syndrome), Endotext Hyperglycemic Crises and a type 2 diabetes islet review.
+- Source conflicts, source answer kept with caution note: "DKA strictly type I" (can occur in type 2); HHS bicarb "not below 20" (Endotext: 15 or higher).
+- Left unverified: adipokine mechanism, early beta-cell hypertrophy, ketones absent in type II, brain ECF/ICF osmolality mechanism, fluids-before-insulin for HHS, NBME-style exam patterns.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
