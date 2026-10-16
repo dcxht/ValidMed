@@ -22495,4 +22495,292 @@ export default [
     }
   }
 
+
+  ,
+  {
+    "id": "s2peds-1572",
+    "category": "Neonatal antibiotics",
+    "q": "Which third-generation cephalosporin does p108 prefer in the first month of life?",
+    "a": "Cefotaxime. The exact transition age matters less than choosing cefotaxime when a pediatric question offers both cefotaxime and ceftriaxone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "RCH also uses cefotaxime for ages 0-2 months and says to avoid ceftriaxone where possible before 41 weeks postmenstrual age. FDA labeling adds narrower contraindications: prematurity up to 41 weeks postmenstrual age, hyperbilirubinemia, or a neonate 28 days or younger who needs calcium-containing IV solutions.",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Meningitis_encephalitis/"
+    }
+  },
+  {
+    "id": "s2peds-1573",
+    "category": "Neonatal antibiotics",
+    "q": "Why does p108 avoid ceftriaxone compared with cefotaxime in neonates?",
+    "a": "Ceftriaxone displaces bilirubin from albumin, increasing neonatal hyperbilirubinemia risk, and can cause calcium deposits in the lungs and kidney.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "FDA labeling confirms bilirubin displacement and a risk of bilirubin encephalopathy in hyperbilirubinemic neonates. It also reports fatal ceftriaxone-calcium precipitation with crystalline material in neonatal lungs and kidneys, especially with calcium-containing IV fluids.",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=befd73ff-cb3b-4543-8a8e-bdb9b7fc1ff0&type=display"
+    }
+  },
+  {
+    "id": "s2peds-1574",
+    "category": "Toxin-induced neuropathies",
+    "q": "Which paralysis pattern does p108 give for botulism?",
+    "a": "Flaccid paralysis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC describes botulism as a neuroparalytic illness with symmetric, descending flaccid paralysis of motor and autonomic nerves, always beginning with the cranial nerves.",
+      "url": "https://www.cdc.gov/botulism/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1575",
+    "category": "Toxin-induced neuropathies",
+    "q": "How does p108 botulinum toxin cause botulism?",
+    "a": "Clostridium botulinum toxin inhibits release of presynaptic acetylcholine, which normally stimulates muscles.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC's botulism guideline confirms that botulinum neurotoxin blocks acetylcholine release from the presynaptic motor-neuron terminal, producing flaccid paralysis at the neuromuscular junction.",
+      "url": "https://www.cdc.gov/mmwr/volumes/70/rr/rr7002a1.htm"
+    }
+  },
+  {
+    "id": "s2peds-1576",
+    "category": "Toxin-induced neuropathies",
+    "q": "How can p108 infant botulism present?",
+    "a": "Floppy baby syndrome, and it can also cause cranial nerve palsies.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC says infant botulism can cause hypotonia or paralysis, ptosis, sluggish pupils, a flat facial expression, weak cry, poor feeding and diminished suck/gag; progressive weakness begins with muscles controlled by the cranial nerves.",
+      "url": "https://www.cdc.gov/botulism/hcp/clinical-overview/infant-botulism.html"
+    }
+  },
+  {
+    "id": "s2peds-1577",
+    "category": "Toxin-induced neuropathies",
+    "q": "Which acquisition routes does p108 contrast for botulism?",
+    "a": "Spores in honey for infants under 1 year, versus preformed toxin from canned goods in anyone older.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC says not to give honey before 12 months because infant intestinal spore germination can cause botulism. For foodborne botulism, CDC's common source is food contaminated with botulinum toxin, especially improperly home-canned, preserved or fermented foods; it is not limited to store-bought canned goods.",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+    }
+  },
+  {
+    "id": "s2peds-1578",
+    "category": "Toxin-induced neuropathies",
+    "q": "Which paralysis pattern does p108 give for tetanus?",
+    "a": "Spastic paralysis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC says tetanus toxin blocks inhibitory impulses, leading to unopposed muscle contractions and spasms. ECDC confirms generalized rigidity and reflex spasms with trismus and opisthotonus.",
+      "url": "https://cdc.gov/tetanus/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1579",
+    "category": "Toxin-induced neuropathies",
+    "q": "How does p108 tetanus toxin cause tetanus?",
+    "a": "Clostridium tetani toxin inhibits release of presynaptic GABA and glycine, which are normally inhibitory neurotransmitters.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "ECDC confirms that tetanospasmin blocks central release of glycine and gamma-aminobutyric acid, leaving excitatory impulses unopposed. A pathophysiology review adds retrograde transport into inhibitory GABAergic/glycinergic terminals and VAMP cleavage.",
+      "url": "https://www.ecdc.europa.eu/en/tetanus/facts"
+    }
+  },
+  {
+    "id": "s2peds-1580",
+    "category": "Toxin-induced neuropathies",
+    "q": "Which tetanus manifestations does p108 give?",
+    "a": "Opisthotonos, meaning an arched back, and trismus, meaning lockjaw.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC lists trismus, spasms, muscle rigidity and dysphagia/breathing difficulty. ECDC confirms generalized tetanus with trismus, opisthotonus, facial grimacing, spasms, back and neck stiffness and rigidity.",
+      "url": "https://www.ecdc.europa.eu/en/tetanus/facts"
+    }
+  },
+  {
+    "id": "s2peds-1581",
+    "category": "Toxin-induced neuropathies",
+    "q": "Which two p108 USMLE patients should suggest tetanus?",
+    "a": "A home-born neonate whose umbilical cord was cut with a kitchen knife and tied with twine, or a person who cut himself in the backyard.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC says spores usually enter through a wound and neonatal tetanus follows umbilical-stump infection. ECDC ties neonatal tetanus to unclean delivery/cord care and symptoms at 3-14 days; a contaminated backyard wound is a classic portal for nonneonatal tetanus.",
+      "url": "https://cdc.gov/tetanus/hcp/clinical-overview/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1582",
+    "category": "Tetanus prevention",
+    "q": "What DtaP schedule does p108 list?",
+    "a": "2, 4 and 6 months, then 15-18 months, then 4-6 years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC's 2026 diphtheria/tetanus recommendations confirm the five-dose DTaP series at 2, 4 and 6 months, 15 through 18 months, and 4 through 6 years. DTaP is the current capitalization; the PDF prints DtaP.",
+      "url": "https://www.cdc.gov/diphtheria/hcp/vaccine-recommendations/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1583",
+    "category": "Tetanus prevention",
+    "q": "What later tetanus boosters does p108 list?",
+    "a": "Tdap at 11-12 years, followed by a Td booster every 10 years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "CDC confirms one Tdap dose at 11-12 years. For adults, CDC recommends a booster every 10 years and says either Td or Tdap can be used once an adult has received Tdap.",
+      "url": "https://www.cdc.gov/tetanus/hcp/vaccine-recommendations/"
+    }
+  },
+  {
+    "id": "s2peds-1584",
+    "category": "Hearing tests",
+    "q": "How is the p108 Rinne test performed?",
+    "a": "Place a vibrating tuning fork on the mastoid bone for bone conduction; when the patient can no longer hear it, move it in front of the ear canal for air conduction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "The 2026 Rinne StatPearls confirms the mastoid-to-external-auditory-canal sequence, usually with a 512-Hz tuning fork held 1-2 cm from the canal after bone conduction becomes inaudible.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431071/"
+    }
+  },
+  {
+    "id": "s2peds-1585",
+    "category": "Hearing tests",
+    "q": "How does p108 interpret the Rinne test?",
+    "a": "Air conduction exceeds bone conduction in normal hearing and sensorineural loss; bone conduction exceeds air conduction in conductive loss.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "The 2026 Rinne StatPearls confirms AC greater than BC in normal hearing or sensorineural loss and BC greater than or equal to AC in conductive loss, while noting that abnormal results still need formal audiometry.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431071/"
+    }
+  },
+  {
+    "id": "s2peds-1586",
+    "category": "Hearing tests",
+    "q": "How is the p108 Weber test performed?",
+    "a": "Place a vibrating tuning fork at the center of the forehead or top of the head and ask whether the sound is equal in both ears or louder in one ear.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "The Weber StatPearls confirms a midline forehead/vertex placement for a lateralization test, most useful when hearing loss is asymmetric.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526135/"
+    }
+  },
+  {
+    "id": "s2peds-1587",
+    "category": "Hearing tests",
+    "q": "What does p108 call it when Weber is louder in one ear?",
+    "a": "Lateralization to that ear.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "The Weber StatPearls uses the same lateralization term: sound lateralizes to the affected ear in conductive loss and to the contralateral ear in sensorineural loss.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526135/"
+    }
+  },
+  {
+    "id": "s2peds-1588",
+    "category": "Hearing tests",
+    "q": "What Rinne and Weber pattern does p108 give for normal hearing?",
+    "a": "Rinne is air conduction greater than bone conduction, and Weber does not lateralize.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "StatPearls confirms AC greater than BC with normal hearing and equal bilateral Weber perception when hearing is normal.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431071/"
+    }
+  },
+  {
+    "id": "s2peds-1589",
+    "category": "Hearing tests",
+    "q": "What p108 Rinne/Weber pattern identifies left- versus right-sided conductive hearing loss?",
+    "a": "Rinne is bone conduction greater than air conduction on the affected side; Weber lateralizes to that same side: left conductive loss lateralizes left, and right conductive loss lateralizes right.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "StatPearls confirms conductive loss gives BC greater than or equal to AC, and Weber lateralizes to the ear with conductive loss.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526135/"
+    }
+  },
+  {
+    "id": "s2peds-1590",
+    "category": "Hearing tests",
+    "q": "What p108 Rinne/Weber pattern identifies left- versus right-sided sensorineural hearing loss?",
+    "a": "Rinne is air conduction greater than bone conduction; Weber lateralizes away from the affected side: left sensorineural loss lateralizes right, and right sensorineural loss lateralizes left.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 108,
+      "url": "/mehlman/hy-pediatrics.pdf#page=108"
+    },
+    "guideline": {
+      "text": "StatPearls confirms AC greater than BC in sensorineural loss and Weber lateralization to the contralateral unaffected ear.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526135/"
+    }
+  }
+
 ];
