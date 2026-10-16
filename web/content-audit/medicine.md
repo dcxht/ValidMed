@@ -811,3 +811,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p223 (molluscum, M. marinum, leishmaniasis) - 3 cards, ids s2med-2208 to 2210
 - L. donovani (visceral) with cutaneous image: caution; continues on p224.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p224 (leish, MAI, syphilis) - 5 cards, ids s2med-2211 to 2215
+- NBME/Iraq claim, VDRL false-positive in APS not verified.
+
+## p225 (arsenic, eczema, urticaria) - 6 cards, ids s2med-2216 to 2221
+- Fertilizer/gardener arsenic claim, 1/3 cough-variant asthma, 5-7 day steroid threshold not verified.
+
+## p226 (EM, EN, dermatomyositis) - 5 cards, ids s2med-2222 to 2226
+- EM "type III" claim, anti-Jo1 as diagnostic not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.

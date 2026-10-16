@@ -28946,5 +28946,241 @@ export default [
       "text": "The CDC Yellow Book leishmaniasis chapter is linked; I did not verify that L. donovani is the cutaneous species, and the source continues on p224.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK620910/"
     }
+  },
+  {
+    "id": "s2med-2211",
+    "category": "IM Derm",
+    "q": "Leishmaniasis: skin and visceral disease per p223-224?",
+    "a": "Can cause a skin ulcer; USMLE likes the Middle East as the endemic area (source says Iraq has appeared on NBME). Visceral disease is known as kala azar, which causes elevated LFTs and pancytopenia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=224"
+    },
+    "guideline": {
+      "text": "The CDC Yellow Book leishmaniasis chapter is linked; I did not verify the NBME claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK620910/"
+    }
+  },
+  {
+    "id": "s2med-2212",
+    "category": "IM Derm",
+    "q": "MAI (Mycobacterium avium intracellulare) skin/node finding per p224?",
+    "a": "Can cause lymphadenitis with a classic reddish/violaceous lesion on the neck or pre-auricularly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=224"
+    },
+    "img": "/mehlman/figures/med-p224-01.jpg",
+    "imgAlt": "Red-violet lesion below and behind the ear (MAI lymphadenitis)",
+    "guideline": {
+      "text": "A pediatric NTM cervicofacial lymphadenitis consensus guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36764081/"
+    }
+  },
+  {
+    "id": "s2med-2213",
+    "category": "IM Derm",
+    "q": "Secondary syphilis: organism and picture per p224?",
+    "a": "Treponema pallidum (spirochete); image shows maculopapular/nodular body rash. Palms and soles are classically affected in secondary syphilis, but the question need not mention it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=224"
+    },
+    "img": "/mehlman/figures/med-p224-02.jpg",
+    "imgAlt": "Maculopapular rash scattered across the back (secondary syphilis)"
+  },
+  {
+    "id": "s2med-2214",
+    "category": "IM Derm",
+    "q": "Syphilis: diagnosis per p224?",
+    "a": "Diagnosed with serology. VDRL/RPR is ordered before FTA, but the latter (FTA) is more specific. VDRL can be falsely positive in antiphospholipid syndrome (usually SLE patients with lupus anticoagulant).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=224"
+    },
+    "guideline": {
+      "text": "CDC 2024 syphilis testing recommendations are linked; I did not verify the false-positive claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10849099/"
+    }
+  },
+  {
+    "id": "s2med-2215",
+    "category": "IM Derm",
+    "q": "Syphilis: condylomata lata and treatment per p224?",
+    "a": "USMLE can show a picture of condylomata lata (wart-like genital lesions) and tell you there is a palms/soles rash; the answer is Treponema pallidum. Treatment = penicillin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 224,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=224"
+    },
+    "guideline": {
+      "text": "CDC 2021 STI treatment guidelines are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8344968/"
+    }
+  },
+  {
+    "id": "s2med-2216",
+    "category": "IM Derm",
+    "q": "Arsenic poisoning: nail finding per p224-225?",
+    "a": "Mees lines are white lines seen on fingernails in arsenic toxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=225"
+    },
+    "img": "/mehlman/figures/med-p225-00.jpg",
+    "imgAlt": "Transverse white lines on two fingernails (Mees lines)",
+    "guideline": {
+      "text": "A paper on Mees lines and arsenic is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8607647/"
+    }
+  },
+  {
+    "id": "s2med-2217",
+    "category": "IM Derm",
+    "q": "Arsenic: exposure and skin finding per p225?",
+    "a": "Arsenic is present in small amounts in fertilizers, which causes plants to flourish; gardeners are at increased risk. Arsenic can also cause a palms/soles rash (arsenical keratosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=225"
+    },
+    "guideline": {
+      "text": "A systematic review of cutaneous arsenic toxicity is linked; I did not verify the fertilizer/gardener claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395639/"
+    }
+  },
+  {
+    "id": "s2med-2218",
+    "category": "IM Derm",
+    "q": "Eczema: hypersensitivity type per p225?",
+    "a": "Type I (immediate); can occur as part of atopy (i.e., asthma in winter, hay fever / rhinoconjunctivitis in spring, eczema in summer).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=225"
+    },
+    "img": "/mehlman/figures/med-p225-01.jpg",
+    "imgAlt": "Red scaly patch on the forearm (eczema)"
+  },
+  {
+    "id": "s2med-2219",
+    "category": "IM Derm",
+    "q": "Cough-variant asthma per p225?",
+    "a": "About 1/3 of asthma patients have cough-variant asthma (only dry cough, usually worse in winter or with exercise).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=225"
+    }
+  },
+  {
+    "id": "s2med-2220",
+    "category": "IM Derm",
+    "q": "Eczema: treatment per p225?",
+    "a": "Oil-based emollient and topical corticosteroids; if steroids are used continuously for more than 5-7 days, thinning of the dermis may occur.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=225"
+    },
+    "guideline": {
+      "text": "Canadian consensus guidelines on topical therapy for atopic dermatitis are linked; I did not verify the 5-7 day threshold.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12092898/"
+    }
+  },
+  {
+    "id": "s2med-2221",
+    "category": "IM Derm",
+    "q": "Urticaria per p225?",
+    "a": "Aka hives; type I hypersensitivity; can be precipitated by various allergens, including pollen, pet dander and drugs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 225,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=225"
+    },
+    "img": "/mehlman/figures/med-p225-02.jpg",
+    "imgAlt": "Raised red blotchy wheals on the forearm (urticaria)"
+  },
+  {
+    "id": "s2med-2222",
+    "category": "IM Derm",
+    "q": "Erythema multiforme per p225-226?",
+    "a": "Immune complex-mediated rash (type III hypersensitivity) with many etiologies; HSV1/2 infection is a classic cause.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=226"
+    },
+    "img": "/mehlman/figures/med-p225-03.jpg",
+    "imgAlt": "Pink target-like papules on the back of the hand (erythema multiforme)",
+    "guideline": {
+      "text": "A StatPearls page on erythema multiforme is linked; I did not verify the type III claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470259/"
+    }
+  },
+  {
+    "id": "s2med-2223",
+    "category": "IM Derm",
+    "q": "Erythema nodosum per p226?",
+    "a": "Panniculitis (inflammation of subcutaneous fat) that resembles a rash. Seen with autoimmune diseases like sarcoidosis and Crohn, and as part of serum sickness due to medications (e.g., sulfa).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=226"
+    },
+    "img": "/mehlman/figures/med-p226-01.jpg",
+    "imgAlt": "Tender purple-red nodular patches on the shin (erythema nodosum)",
+    "guideline": {
+      "text": "A review of erythema nodosum is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4918048/"
+    }
+  },
+  {
+    "id": "s2med-2224",
+    "category": "IM Derm",
+    "q": "Dermatomyositis: rashes per p226?",
+    "a": "Heliotrope rash (eyelids) and shawl rash (upper back/shoulders) are seen in dermatomyositis. Do not confuse the heliotrope rash with the malar rash of SLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=226"
+    },
+    "img": "/mehlman/figures/med-p226-02.jpg",
+    "imgAlt": "Violaceous swollen eyelids (heliotrope rash)",
+    "guideline": {
+      "text": "A StatPearls page on dermatomyositis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558917/"
+    }
+  },
+  {
+    "id": "s2med-2225",
+    "category": "IM Derm",
+    "q": "Dermatomyositis: diagnosis and treatment per p226?",
+    "a": "Anti-Jo1 antibodies and electromyography + nerve conduction studies are diagnostic. Give steroids for flares.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=226"
+    },
+    "img": "/mehlman/figures/med-p226-03.jpg",
+    "imgAlt": "Red rash across the upper back and shoulders (shawl sign)"
+  },
+  {
+    "id": "s2med-2226",
+    "category": "IM Derm",
+    "q": "Dermatomyositis: hand findings per p226?",
+    "a": "Patients can also get Gottron papules (on the knuckles) and 'mechanics' hands' (rough-surfaced / scaly hands).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 226,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=226"
+    },
+    "img": "/mehlman/figures/med-p226-04.jpg",
+    "imgAlt": "Scaly red papules over the knuckles (Gottron papules)"
   }
 ];
