@@ -690,3 +690,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p172 (sideroblastic anemia, lead, AIP) - 11 cards, ids s2med-1595 to 1605
 - Unverified: orotic aciduria/leflunomide enzyme claim (linked paper names UMPS), lead vignette 1/3-2/3 split.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p173 (PCT, intra/extravascular hemolysis, Rh HDN) - 12 cards, ids s2med-1606 to 1617
+## p174 (RhoGAM, KB, ABO/Kell HDN, FNHTR) - 12 cards, ids s2med-1618 to 1629
+- Unverified: 8-10 week Rh screen timing; "bilirubin released directly" wording; AIP hematin+glucose only (hemin is standard name; not verified).
+- Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.

@@ -21239,5 +21239,305 @@ export default [
       "page": 172,
       "url": "/mehlman/hy-internal-medicine.pdf#page=172"
     }
+  },
+  {
+    "id": "s2med-1606",
+    "category": "IM Heme/Onc",
+    "q": "AIP: neurologic findings and treatment per p173?",
+    "a": "Patients can sometimes have miscellaneous neurologic findings, but not mandatory. Treatment is hematin and glucose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "A review of AIP treatment is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7586882/"
+    }
+  },
+  {
+    "id": "s2med-1607",
+    "category": "IM Heme/Onc",
+    "q": "Porphyria cutanea tarda (PCT): enzyme per p173?",
+    "a": "Deficiency of uroporphyrinogen decarboxylase, leading to increased urinary uroporphyrins.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "StatPearls on PCT is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563209/"
+    }
+  },
+  {
+    "id": "s2med-1608",
+    "category": "IM Heme/Onc",
+    "q": "Heme synthesis disorder with photosensitivity / blistering per p173?",
+    "a": "Porphyria cutanea tarda (PCT).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1609",
+    "category": "IM Heme/Onc",
+    "q": "PCT urine versus AIP urine per p173?",
+    "a": "PCT urine can appear tea-colored / dark. Don't confuse it with the red/pink/port-wine urine of AIP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1610",
+    "category": "IM Heme/Onc",
+    "q": "Intravascular hemolysis: features per p173?",
+    "a": "Lysis of RBCs within the bloodstream. Releases hemoglobin directly into the blood, leading to hemoglobinuria. Serum haptoglobin is decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "A review of hemolytic markers is linked; I did not verify the text. The source says bilirubin is released directly; I did not verify that wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4706896/"
+    }
+  },
+  {
+    "id": "s2med-1611",
+    "category": "IM Heme/Onc",
+    "q": "Haptoglobin per p173?",
+    "a": "A liver protein that binds and removes free hemoglobin released from damaged or lysed RBCs, preventing renal damage and helping recycle iron. Low serum haptoglobin helps differentiate intra- from extravascular hemolysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1612",
+    "category": "IM Heme/Onc",
+    "q": "HY examples of intravascular hemolysis per p173?",
+    "a": "G6PD deficiency (oxidative damage), PNH (complement-mediated), HUS, TTP, HELLP syndrome, DIC, and mechanical hemolysis by prosthetic valves (shearing; all schistocytes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1613",
+    "category": "IM Heme/Onc",
+    "q": "Extravascular hemolysis: features per p173?",
+    "a": "Phagocytosis and lysis of RBCs within the spleen (and liver). Hemoglobin is broken down within macrophages to biliverdin, then bilirubin, which goes to the liver for excretion in bile. No hemoglobinuria; haptoglobin is not decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1614",
+    "category": "IM Heme/Onc",
+    "q": "HY examples of extravascular hemolysis per p173?",
+    "a": "Hereditary spherocytosis, thalassemias, and warm and cold AIHA (Abs opsonize RBCs, which are removed in splenic red pulp). AIHA can also cause intravascular hemolysis if complement is recruited, but most destruction is extravascular.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1615",
+    "category": "IM Heme/Onc",
+    "q": "Rh status prevalence and risk per p173?",
+    "a": "About 85% of people are Rh(+). Rh(-) women (about 15%) are at risk of IgG antibodies against Rh if the fetus is Rh(+) and the circulations mix.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1616",
+    "category": "IM Heme/Onc",
+    "q": "Rh isoimmunization per p173?",
+    "a": "The mother has developed IgG antibodies against Rh (sensitized). NBME uses the term.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    }
+  },
+  {
+    "id": "s2med-1617",
+    "category": "IM Heme/Onc",
+    "q": "Mechanism of Rh hemolytic disease of the newborn per p173?",
+    "a": "Rh(-) mom in first pregnancy is exposed to Rh(+) fetal blood and makes antibodies; in a subsequent pregnancy, IgG crosses the placenta and targets fetal Rh(+) RBCs, causing fetal hemolysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 173,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=173"
+    },
+    "guideline": {
+      "text": "ACOG's Rh D alloimmunization prevention bulletin is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28742673/"
+    }
+  },
+  {
+    "id": "s2med-1618",
+    "category": "IM Heme/Onc",
+    "q": "Rh(-) mother: when to give RhoGAM per p174?",
+    "a": "Rh status is checked at the first antenatal screening at 8-10 weeks. If Rh(-), give RhoGAM at 28 weeks and at parturition, and also after interventions (e.g., amniocentesis) or complications such as spontaneous abortion or abruptio placentae.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "ACOG's Rh D bulletin is linked; I did not verify the text, including the 8-10 week timing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28742673/"
+    }
+  },
+  {
+    "id": "s2med-1619",
+    "category": "IM Heme/Onc",
+    "q": "Rh(-) woman in a later pregnancy already has anti-Rh titers: RhoGAM per p174?",
+    "a": "Do not give RhoGAM during the pregnancy, since it's too late.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2med-1620",
+    "category": "IM Heme/Onc",
+    "q": "Kleihauer-Betke test per p174?",
+    "a": "Used with hemorrhage or suspected mixing of maternal and fetal circulations in Rh(-) women. Maternal blood is drawn; HbF resists acid, so fetal RBCs are distinguished from maternal cells on a smear. The fraction of fetal RBCs determines the RhoGAM dose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "FIGO/ICM guidelines on preventing Rhesus disease are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7898700/"
+    }
+  },
+  {
+    "id": "s2med-1621",
+    "category": "IM Heme/Onc",
+    "q": "2CK: increased fetal HR in 3rd trimester, 2nd pregnancy, anti-D titers per p174?",
+    "a": "Rh isoimmunization: destruction of fetal RBCs reduces oxygen delivery, so fetal HR rises to compensate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2med-1622",
+    "category": "IM Heme/Onc",
+    "q": "ABO hemolytic disease of the newborn: why mother O per p174?",
+    "a": "Most anti-A and anti-B antibodies are IgM, but people with type O can have fractionally more IgG; if the O mother has a higher % of IgG anti-A/B, the fetus can be symptomatic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "The NCBI hemolytic disease of the newborn chapter is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK2266/"
+    }
+  },
+  {
+    "id": "s2med-1623",
+    "category": "IM Heme/Onc",
+    "q": "Typical ABO HDN vignette per p174?",
+    "a": "O+ mom, usually first pregnancy, with an A or B fetus. It can occur in Rh(-) women in second pregnancies, but USMLE gives O+ mom in the first pregnancy to test ABO HDN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2med-1624",
+    "category": "IM Heme/Onc",
+    "q": "Other antigens that can cause HDN per p174?",
+    "a": "Minor antigens beyond Rh, i.e., Kell, Duffy, Kidd. Isoimmunization process is the same as Rh.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2med-1625",
+    "category": "IM Heme/Onc",
+    "q": "A+/B+/AB+ mother, second pregnancy with fetal hemolysis, neither ABO nor Rh per p174?",
+    "a": "Kell, Duffy or Kidd type HDN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2med-1626",
+    "category": "IM Heme/Onc",
+    "q": "High maternal anti-Kell titer: next best step per p174?",
+    "a": "Check Kell status of the father. Mother is Kell negative; if the father is Kell(+), the fetus is likely Kell(+), explaining the HDN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "A review of antibody testing during pregnancy is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7365158/"
+    }
+  },
+  {
+    "id": "s2med-1627",
+    "category": "IM Heme/Onc",
+    "q": "Febrile non-hemolytic transfusion reaction (FNHTR): mechanism per p174?",
+    "a": "Donor WBCs are activated by recipient plasma antibodies, releasing cytokines that cause fever and chills. Coombs test is negative (no antibodies against donor RBCs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    },
+    "guideline": {
+      "text": "A narrative review of FNHTR is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9843350/"
+    }
+  },
+  {
+    "id": "s2med-1628",
+    "category": "IM Heme/Onc",
+    "q": "FNHTR vignette and answer wordings per p174?",
+    "a": "Fever and chills within 2 hours of a transfusion. Answer is written as either (1) preformed antibodies against donor leukocyte antigens, or (2) cytokine release from transfused blood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    }
+  },
+  {
+    "id": "s2med-1629",
+    "category": "IM Heme/Onc",
+    "q": "Prevention of FNHTR per p174?",
+    "a": "Leukoreduction: removing or reducing WBCs from blood components before transfusion, reducing the chance donor WBCs meet recipient antibodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 174,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=174"
+    }
   }
 ];
