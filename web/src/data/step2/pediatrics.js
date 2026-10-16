@@ -38399,5 +38399,200 @@ export default [
       "text": "StatPearls Heat Illness: heat injury involves organ injury and heat stroke involves CNS dysfunction, while heat exhaustion has similar symptoms without organ injury.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK553117/"
     }
+  },
+  {
+    "id": "s2peds-2685",
+    "category": "Peds vignettes",
+    "q": "How does heat stroke differ from heat exhaustion per p190-191?",
+    "a": "Heat stroke is high body temperature with end-organ damage; heat exhaustion has none.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: progression to end-organ damage makes it heat injury; heat stroke involves CNS dysfunction; rapid cooling is the mainstay of treatment. The source's single-sentence split is simplified.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537135/"
+    }
+  },
+  {
+    "id": "s2peds-2686",
+    "category": "Peds vignettes",
+    "q": "What do acanthocytes on a blood smear indicate in heat stroke per p191?",
+    "a": "Liver failure (HY for heat stroke); acanthocytes are not limited to abetalipoproteinemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls mentions liver involvement in heat illness. I did not verify the acanthocyte claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537135/"
+    }
+  },
+  {
+    "id": "s2peds-2687",
+    "category": "Peds vignettes",
+    "q": "Renal cancer in children per p191?",
+    "a": "Wilms tumor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: Wilms tumor is the main pediatric renal malignancy and usually presents as an asymptomatic abdominal mass.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK442004/"
+    }
+  },
+  {
+    "id": "s2peds-2688",
+    "category": "Peds vignettes",
+    "q": "3M with a painless flank mass and no other information. Diagnosis and next step per p191?",
+    "a": "Wilms tumor; the answer on the Peds form is ultrasonography of the abdomen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: Wilms tumor usually presents as an asymptomatic abdominal mass. I did not verify ultrasound as first imaging in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK442004/"
+    }
+  },
+  {
+    "id": "s2peds-2689",
+    "category": "Peds vignettes",
+    "q": "6M with a painless flank mass, a seizure and brain MRI showing periventricular nodules. Diagnosis per p191?",
+    "a": "Tuberous sclerosis with renal angiomyolipoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: TSC has subependymal nodules in 80-90% and renal angiomyolipomas that can bleed. The source says periventricular; StatPearls says subependymal.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538492/"
+    }
+  },
+  {
+    "id": "s2peds-2690",
+    "category": "Peds vignettes",
+    "q": "Anything else about Wilms tumor and Turner syndrome per p191?",
+    "a": "Increased incidence in horseshoe kidney in Turner syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls Horseshoe Kidney: horseshoe kidney is associated with Turner syndrome at about 20%, and with Wilms tumor in children. I did not verify a Wilms-Turner link beyond that.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431105/"
+    }
+  },
+  {
+    "id": "s2peds-2691",
+    "category": "Peds vignettes",
+    "q": "Horseshoe kidney key point per p191?",
+    "a": "Increased risk of Wilms tumor, and the kidney gets caught under the inferior mesenteric artery (IMA); a Step 1 factoid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: the ascent is often described as held back by the origin of the IMA at L3.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431105/"
+    }
+  },
+  {
+    "id": "s2peds-2692",
+    "category": "Peds vignettes",
+    "q": "What is WAGR complex per p191?",
+    "a": "Wilms tumor, Aniridia, Genitourinary malformation, Retardation; caused by WT1 gene mutation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "GeneReviews WT1 Disorder covers Wilms tumor with WT1 variants. WAGR is a contiguous deletion at 11p13 including WT1 and PAX6; the source's single-gene wording is simplified. 'Retardation' is now intellectual disability.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556455/"
+    }
+  },
+  {
+    "id": "s2peds-2693",
+    "category": "Peds vignettes",
+    "q": "What is Denys-Drash syndrome per p191?",
+    "a": "Wilms tumor plus male pseudohermaphroditism (secondary sex characteristics female, primary male); caused by WT1 gene mutation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "GeneReviews: WT1 disorders involve disorders of testicular development with or without genital abnormalities, plus Wilms tumor. 'Pseudohermaphroditism' is outdated wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556455/"
+    }
+  },
+  {
+    "id": "s2peds-2694",
+    "category": "Peds vignettes",
+    "q": "Neonate born at 4800 g with macroglossia, omphalocele and visceromegaly. What will he most likely develop per p191?",
+    "a": "Hypoglycemia (Beckwith-Wiedemann syndrome): Wilms tumor, neonatal hypoglycemia, macrosomia/macroglossia, hemihypertrophy, with or without omphalocele; caused by WT2 gene mutation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: BWS is an imprinting disorder of chromosome 11p15 with hemihypertrophy, macrosomia, macroglossia, abdominal wall defects and neonatal hypoglycemia from hyperinsulinism. The source's WT2 gene wording is an older label for the 11p15 region.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558993/"
+    }
+  },
+  {
+    "id": "s2peds-2695",
+    "category": "Peds vignettes",
+    "q": "1M with 2 months of increasing weakness, feeding difficulty, profound hypotonia, tongue fasciculations and absent reflexes. Diagnosis per p191?",
+    "a": "Progressive infantile spinal muscular atrophy: decreased reflexes, weakness, decreased tone, tongue fasciculations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: SMA results from homozygous SMN1 deletion on chromosome 5q13 in 95% of cases.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560687/"
+    }
+  },
+  {
+    "id": "s2peds-2696",
+    "category": "Peds vignettes",
+    "q": "Compare AR vs AD polycystic kidney disease per p191.",
+    "a": "ARPKD: chromosome 6, pediatric, associated with hepatic fibrosis. ADPKD: chromosome 16, presents in the 30s-40s, with hypertension and circle of Willis saccular (berry) aneurysms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: ARPKD results from PKHD1 mutations with renal cysts and congenital hepatic fibrosis early in life. I did not verify the ADPKD chromosome or aneurysm details here.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537137/"
+    }
+  },
+  {
+    "id": "s2peds-2697",
+    "category": "Peds vignettes",
+    "q": "4F with her third pyelonephritis and a high creatinine. Most likely cause and pathology per p191?",
+    "a": "Congenital urinary tract obstruction or vesicoureteral reflux; chronic pyelonephritis from recurrent acute pyelonephritis, with thyroidization of the kidney and blunting and scarring of the renal calyces.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 191,
+      "url": "/mehlman/hy-pediatrics.pdf#page=191"
+    },
+    "guideline": {
+      "text": "StatPearls: reflux nephropathy was previously called chronic pyelonephritis, thought to result from childhood recurrent UTIs. I did not verify the thyroidization detail.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK526055/"
+    }
   }
 ];

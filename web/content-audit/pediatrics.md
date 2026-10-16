@@ -1032,3 +1032,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: OCP vs observation for a simple cyst (exam-form dependent); imperforate hymen presents as a perineal bulge in StatPearls vs upper vagina in the source.
 - Left unverified: vagal low BP mechanism, cruciate incision, bone age step, Turner high gonadotropins and IVF detail, diet diary step.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p191 (Bullet points: heat stroke, Wilms and syndromes, SMA, PKD, chronic pyelonephritis) - 13 cards, ids s2peds-2685 to 2697
+- Inspected page text and layout; no figures. First lines finish the heat stroke bullet from p190.
+- Notes verified against StatPearls (Heat Stroke, Wilms Tumor, Tuberous Sclerosis, Horseshoe Kidney, Beckwith-Wiedemann, SMA, ARPKD, Reflux Nephropathy) and GeneReviews WT1 Disorder.
+- Source wording flagged in notes: "periventricular" vs subependymal nodules; WAGR as single WT1 mutation (contiguous 11p13 deletion); outdated "pseudohermaphroditism" and "retardation"; WT2 as BWS label.
+- Left unverified: acanthocytes in heat stroke, ultrasound as first imaging for Wilms, Wilms-Turner link, ADPKD chromosome/aneurysm details, thyroidization.
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
