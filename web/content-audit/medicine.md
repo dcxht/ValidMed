@@ -871,3 +871,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p243 (stroke Tx, sodium correction, hypercalcemia) - 10 cards, ids s2med-2320 to 2329
 - tPA window/aspirin and hemorrhagic BP <140: caution notes; 2026 AHA/ASA and 2015 ICH guideline URLs seen in search, not read.
 - Mobile QA (320x740, local vite preview build, not live): all 36 cards ox=false off=false bad=0.
+
+## p244 (hypercalcemia Tx, IIH, Reye, DAI, spinal tracts) - 11 cards, ids s2med-2330 to 2340
+- Calcitonin/loop "always wrong" vs acute hypercalcemia guidance: caution note. DAI text says MRI, image looks like CT. Source expletive paraphrased.
+## p245 (spinal tracts, UMN/LMN, tabes, syringomyelia) - 8 cards, ids s2med-2341 to 2348
+- Expletives paraphrased. "9/10 Qs" frequency unverified.
+## p246 (syringomyelia, Brown-Sequard, transverse myelitis, cord syndromes) - 10 cards, ids s2med-2349 to 2358
+- Frequency claims and NBME observations unverified. Expletive paraphrased.
+- Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.

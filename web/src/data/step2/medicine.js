@@ -30655,5 +30655,400 @@ export default [
       "text": "The same emergency guidance is linked; I did not verify it states this as the first step.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314807/"
     }
+  },
+  {
+    "id": "s2med-2330",
+    "category": "IM Neuro",
+    "q": "Hypercalcemia: step after normal saline per p244?",
+    "a": "Bisphosphonate therapy. The source has seen pamidronate listed on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "The Endocrine Society hypercalcemia of malignancy guideline is linked; I did not read it, and I did not verify the NBME claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36545746/"
+    }
+  },
+  {
+    "id": "s2med-2331",
+    "category": "IM Neuro",
+    "q": "Calcitonin and loop diuretics for hypercalcemia per p244?",
+    "a": "The source has never seen calcitonin or loop diuretics as correct answers for hypercalcemia Tx; they are always wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "Caution: acute hypercalcemia guidance (Society for Endocrinology, linked) may mention calcitonin for rapid effect in severe cases; I did not verify. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314807/"
+    }
+  },
+  {
+    "id": "s2med-2332",
+    "category": "IM Neuro",
+    "q": "Pseudotumor cerebri: definition per p244?",
+    "a": "Increased intracranial pressure in the setting of no clear structural cause.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "A review of idiopathic intracranial hypertension is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2908600/"
+    }
+  },
+  {
+    "id": "s2med-2333",
+    "category": "IM Neuro",
+    "q": "Pseudotumor cerebri: notable causes per p244?",
+    "a": "Obesity (idiopathic intracranial hypertension), OCPs, isotretinoin, and danazol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "A systematic review of drug-induced intracranial hypertension is linked; I did not verify each drug.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31741184/"
+    }
+  },
+  {
+    "id": "s2med-2334",
+    "category": "IM Neuro",
+    "q": "Reye syndrome per p244?",
+    "a": "Cerebral edema and hepatotoxicity seen with administration of aspirin to children (and sometimes adolescents) during a viral infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "A clinical inquiry on aspirin use in children is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20000310/"
+    }
+  },
+  {
+    "id": "s2med-2335",
+    "category": "IM Neuro",
+    "q": "Reye syndrome: mechanism per p244?",
+    "a": "Thought to be due to impairment of beta-oxidation, but the source says USMLE does not care.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2med-2336",
+    "category": "IM Neuro",
+    "q": "Diffuse axonal injury per p244?",
+    "a": "Deceleration injury (for example a car accident) followed by severe cognitive and/or motor/sensory dysfunction (for example after an MVA the patient has to relearn tying shoes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "A StatPearls page on diffuse axonal injury is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448102/"
+    }
+  },
+  {
+    "id": "s2med-2337",
+    "category": "IM Neuro",
+    "q": "Diffuse axonal injury imaging per p244?",
+    "a": "USMLE can show an MRI with scattered hyperintense (white) lesions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "img": "/mehlman/figures/med-p244-01.jpg",
+    "imgAlt": "Head image with cyan arrows pointing to scattered bright foci (diffuse axonal injury)",
+    "guideline": {
+      "text": "The image printed here looks like a CT with arrows on scattered bright foci, while the text says MRI hyperintense lesions; I did not resolve this.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448102/"
+    }
+  },
+  {
+    "id": "s2med-2338",
+    "category": "IM Neuro",
+    "q": "Spinothalamic tract per p244?",
+    "a": "Carries pain and temperature sensation from the contralateral body. Cross-over (decussation) is in the spinal cord, so a left spinothalamic tract lesion loses pain and temperature on the right side of the body below the lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2med-2339",
+    "category": "IM Neuro",
+    "q": "Anterior white commissure lesion per p244?",
+    "a": "The decussation point of the spinothalamic tract is the anterior white commissure. A lesion here is called syringomyelia, with bilateral loss of pain and temperature below the lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    },
+    "guideline": {
+      "text": "A StatPearls page on syringomyelia is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537110/"
+    }
+  },
+  {
+    "id": "s2med-2340",
+    "category": "IM Neuro",
+    "q": "Corticospinal tract function per p244?",
+    "a": "Motor function from the ipsilateral body (continued on p245).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 244,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=244"
+    }
+  },
+  {
+    "id": "s2med-2341",
+    "category": "IM Neuro",
+    "q": "Corticospinal lesion effect per p245?",
+    "a": "If the left-sided corticospinal tract is damaged, motor function is lost on the left side below the lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2med-2342",
+    "category": "IM Neuro",
+    "q": "Dorsal columns per p245?",
+    "a": "Carry vibration and proprioception from the ipsilateral body. Tabes dorsalis is a dorsal column lesion caused by neurosyphilis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    },
+    "guideline": {
+      "text": "A StatPearls page on tabes dorsalis is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557891/"
+    }
+  },
+  {
+    "id": "s2med-2343",
+    "category": "IM Neuro",
+    "q": "Dorsal column lesion: Romberg per p245?",
+    "a": "The patient has a positive Romberg test, falling over when standing with eyes closed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the Romberg test is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563187/"
+    }
+  },
+  {
+    "id": "s2med-2344",
+    "category": "IM Neuro",
+    "q": "UMN lesion findings per p245?",
+    "a": "UMN lesion: corticospinal tract from the cerebral cortex down to the anterior horn of the spinal cord. Presents as hyperreflexia, hypertonia, clonus, Babinski sign.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2med-2345",
+    "category": "IM Neuro",
+    "q": "LMN lesion findings per p245?",
+    "a": "LMN lesion: motor neuron from the anterior horn to the muscle itself. An anterior horn lesion is LMN, not UMN. Presents as hyporeflexia, hypotonia/flaccidity, fasciculations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    },
+    "guideline": {
+      "text": "A StatPearls page on lower motor neuron lesions is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539814/"
+    }
+  },
+  {
+    "id": "s2med-2346",
+    "category": "IM Neuro",
+    "q": "Tabes dorsalis per p245?",
+    "a": "Loss of dorsal columns due to neurosyphilis. On a myelin stain, where normal myelination appears black, the dorsal columns are damaged and appear white. Bilateral loss of vibration and proprioception.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    },
+    "img": "/mehlman/figures/med-p245-01.jpg",
+    "imgAlt": "Myelin-stained spinal cord cross-section with pale dorsal columns (tabes dorsalis)"
+  },
+  {
+    "id": "s2med-2347",
+    "category": "IM Neuro",
+    "q": "Tabes dorsalis: ataxia and Romberg per p245?",
+    "a": "Ataxia with a positive Romberg test indicates dorsal columns as the cause, since proprioception is lost. If the cause of ataxia is cerebellar, the Romberg test is negative.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    }
+  },
+  {
+    "id": "s2med-2348",
+    "category": "IM Neuro",
+    "q": "Syringomyelia: how it is asked per p245?",
+    "a": "The source says 9/10 questions give bilateral loss of pain and temperature due to a lesion of the anterior white commissure (decussation point for the spinothalamic tract).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 245,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=245"
+    },
+    "guideline": {
+      "text": "A StatPearls page on syringomyelia is linked; I did not verify the 9/10 frequency.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537110/"
+    }
+  },
+  {
+    "id": "s2med-2349",
+    "category": "IM Neuro",
+    "q": "Syringomyelia: anterior white commissure picture per p246?",
+    "a": "Image shows a cyan dot marking the anterior white commissure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    },
+    "img": "/mehlman/figures/med-p246-01.jpg",
+    "imgAlt": "Spinal cord cross-section with a cyan dot at the anterior white commissure"
+  },
+  {
+    "id": "s2med-2350",
+    "category": "IM Neuro",
+    "q": "Syringomyelia: other question patterns per p246?",
+    "a": "Maybe 1/3 of questions also involve the corticospinal tract, with some impaired motor function in addition to bilateral loss of pain/temperature. About 1/10 do not mention pain/temperature loss and give just impaired motor function, where it sounds nothing like syringomyelia but you must eliminate to get there (on a 2CK Neuro CMS form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "I did not verify these frequencies.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537110/"
+    }
+  },
+  {
+    "id": "s2med-2351",
+    "category": "IM Neuro",
+    "q": "Brown-Sequard syndrome per p246?",
+    "a": "Hemisection of the spinal cord.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    },
+    "img": "/mehlman/figures/med-p246-02.jpg",
+    "imgAlt": "Diagram of Brown-Sequard syndrome: ipsilateral loss of sensation and weakness, ipsilateral vibration/proprioception loss, contralateral loss of pain and temperature"
+  },
+  {
+    "id": "s2med-2352",
+    "category": "IM Neuro",
+    "q": "Brown-Sequard deficits per p246?",
+    "a": "Ipsilateral loss of vibration and proprioception (dorsal columns); ipsilateral loss of motor function (corticospinal tract); contralateral loss of pain and temperature (spinothalamic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2med-2353",
+    "category": "IM Neuro",
+    "q": "Brown-Sequard cause on NBME per p246?",
+    "a": "Not typically a stab wound with perfect half-transection of the cord. In the source's observation on NBME forms (especially 2CK Neuro CMS) they like viral infection or SLE causing transverse myelitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "A case series of myelitis presenting as Brown-Sequard syndrome is linked; I did not verify the NBME observation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8114540/"
+    }
+  },
+  {
+    "id": "s2med-2354",
+    "category": "IM Neuro",
+    "q": "Transverse myelitis per p246?",
+    "a": "Inflammation of the spinal cord with variable deficits. USMLE likes viral infection and SLE (autoimmune). Brown-Sequard syndrome is one way transverse myelitis presents.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "The same case series is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8114540/"
+    }
+  },
+  {
+    "id": "s2med-2355",
+    "category": "IM Neuro",
+    "q": "Central cord syndrome per p246?",
+    "a": "The answer when weakness in the upper limbs is greater than weakness in the lower limbs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "A PubMed page on central cord syndrome is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19948700/"
+    }
+  },
+  {
+    "id": "s2med-2356",
+    "category": "IM Neuro",
+    "q": "Central cord syndrome: cause per p246?",
+    "a": "Typically follows a hyperextension injury of the neck during whiplash in a rear-end MVA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    }
+  },
+  {
+    "id": "s2med-2357",
+    "category": "IM Neuro",
+    "q": "Anterior cord syndrome per p246?",
+    "a": "The answer when vibration/proprioception is preserved but motor and pain/temperature are lost, classically in a patient with arterial disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    },
+    "guideline": {
+      "text": "A PubMed page on anterior spinal artery syndrome is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32809566/"
+    }
+  },
+  {
+    "id": "s2med-2358",
+    "category": "IM Neuro",
+    "q": "Anterior cord syndrome vs tabes dorsalis per p246?",
+    "a": "Everything but the dorsal columns is damaged; essentially the opposite of tabes dorsalis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 246,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=246"
+    }
   }
 ];
