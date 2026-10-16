@@ -31574,5 +31574,213 @@ export default [
       "text": "A case report review describes lithium-induced nephrogenic DI managed with desmopressin plus thiazides and NSAIDs.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11157307/"
     }
+  },
+  {
+    "id": "s2peds-2218",
+    "category": "Diabetes insipidus",
+    "q": "Why does adding an NSAID help nephrogenic DI per p147?",
+    "a": "The NSAID presumably decreases renal blood flow, which decreases GFR and net fluid loss. In healthy people the thiazide would make them lose more net fluid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2peds-2219",
+    "category": "Diabetes insipidus",
+    "q": "A patient on lithium has increased urinary output. What is the answer on the difficult 2CK NBME question per p147?",
+    "a": "NSAID plus a thiazide diuretic. Fluid restriction is the wrong answer here, though p147 says it is correct 9 of 10 times when listed. If the diagnosis is already obviously nephrogenic DI, going straight to treatment is acceptable.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2peds-2220",
+    "category": "Psychogenic polydipsia",
+    "q": "What is psychogenic polydipsia and what are the findings per p147?",
+    "a": "The patient simply drinks too much. Both urine and serum are dilute: decreased serum sodium (<135), serum osmolality and serum specific gravity, and decreased urinary osmolality and specific gravity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls: excess fluid consumption leading to polyuria with diluted urine and ultimately hyponatremia; psychogenic polydipsia is seen in psychiatric disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562251/"
+    }
+  },
+  {
+    "id": "s2peds-2221",
+    "category": "Psychogenic polydipsia",
+    "q": "How do psychogenic polydipsia questions look per p147?",
+    "a": "About 3 of 4 are obvious: a psych patient drinking lots to clear himself from evil spirits. About 1 of 4 just give lab values where you say the urine and serum are both dilute.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2peds-2222",
+    "category": "Psychogenic polydipsia",
+    "q": "What is the first step in diagnosing psychogenic polydipsia per p147?",
+    "a": "Fluid restriction, to see how the urinary and serum values change.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2peds-2223",
+    "category": "Hashimoto thyroiditis",
+    "q": "What is Hashimoto thyroiditis and who gets it on a Peds form per p147?",
+    "a": "Autoimmune destruction of the thyroid gland. It shows up in a teenager on a Peds form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls: chronic autoimmune (lymphocytic) thyroiditis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+    }
+  },
+  {
+    "id": "s2peds-2224",
+    "category": "Hashimoto thyroiditis",
+    "q": "What does biopsy show in Hashimoto per p147?",
+    "a": "A lymphocytic infiltrate (asked on 2CK NBME even though it sounds like Step 1).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls: lymphocytic infiltration and thyroid follicular fibrosis are characteristic.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+    }
+  },
+  {
+    "id": "s2peds-2225",
+    "category": "Hashimoto thyroiditis",
+    "q": "Which antibodies and labs go with Hashimoto per p147?",
+    "a": "Anti-microsomal (anti-thyroperoxidase) and anti-thyroglobulin antibodies. Decreased T3 and T4, increased TSH. 131I uptake scan decreased or patchy (the gland is not producing hormone).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls: thyroid peroxidase and thyroglobulin antibodies are characteristic. I did not verify the uptake scan description.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+    }
+  },
+  {
+    "id": "s2peds-2226",
+    "category": "Hashimoto thyroiditis",
+    "q": "What are the buzzy findings of Hashimoto per p147?",
+    "a": "Weight gain, brittle hair, dry/doughy skin and cold intolerance. USMLE often omits these because they are too easy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2peds-2227",
+    "category": "Hashimoto thyroiditis",
+    "q": "What additional findings has p147 seen in NBME Hashimoto questions?",
+    "a": "Bradycardia (55-60), menstrual irregularity, dysthymia/depression/apathy, carpal tunnel syndrome (glycosaminoglycan deposition), increased cholesterol, proximal muscle weakness with increased CK (hypothyroid myopathy), and transaminitis (LFTs can be elevated).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2peds-2228",
+    "category": "Hashimoto thyroiditis",
+    "q": "Which diseases are associated with Hashimoto per p147?",
+    "a": "Other autoimmune diseases (type 1 diabetes, pernicious anemia, vitiligo) and immunodeficiencies (IgA deficiency). Autoimmune diseases go together, and autoimmune disease in general raises the risk of immunodeficiency and vice versa. Strict HLA associations are not important outside HLA-B27.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2peds-2229",
+    "category": "Hashimoto thyroiditis",
+    "q": "Which lymphoma risk does p147 attach to Hashimoto, and what is the treatment?",
+    "a": "Increased risk of non-Hodgkin lymphoma (for example primary CNS lymphoma). Treatment is levothyroxine or triiodothyronine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls on thyroid lymphoma describes mainly diffuse large B-cell and MALT lymphomas of the thyroid. I did not find primary CNS lymphoma linked to Hashimoto in the sources I read. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544282/"
+    }
+  },
+  {
+    "id": "s2peds-2230",
+    "category": "Graves disease",
+    "q": "What causes Graves disease per p147?",
+    "a": "An activating autoantibody against the TSH receptor, called thyroid-stimulating immunoglobulin (TSI).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls: caused by thyroid stimulating immunoglobulin binding the TSH receptor.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448195/"
+    }
+  },
+  {
+    "id": "s2peds-2231",
+    "category": "Graves disease",
+    "q": "What are the labs, biopsy and scan findings in Graves per p147?",
+    "a": "Increased T3 and T4, decreased TSH. Biopsy: lymphocytic infiltrate and hyperplastic thyroid follicles. 131I uptake scan shows diffusely increased uptake.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls: TSH is the initial test for hyperthyroidism. I did not verify the biopsy and uptake scan details.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448195/"
+    }
+  },
+  {
+    "id": "s2peds-2232",
+    "category": "Graves disease",
+    "q": "Which findings are specific to Graves per p147, and what if the question says there is no exophthalmos?",
+    "a": "Exophthalmos (proptosis) and pretibial myxedema (non-pitting edema of the shins due to GAG deposition). If the question says there is no exophthalmos, it is not Graves.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls: orbitopathy and pretibial myxedema are features of Graves disease.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448195/"
+    }
+  },
+  {
+    "id": "s2peds-2233",
+    "category": "Graves disease",
+    "q": "What are the buzzy findings of Graves per p147?",
+    "a": "Tachycardia, heat intolerance, sweating and palpitations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 147,
+      "url": "/mehlman/hy-pediatrics.pdf#page=147"
+    }
   }
 ];

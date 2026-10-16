@@ -724,3 +724,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: "fluid restriction is the first answer in diagnosis" for SIADH - sources describe fluid restriction as first-line treatment; diagnosis uses serum/urine osmolality and urine sodium.
 - Left un-noted or flagged unverified: specific gravity cutoffs, osmolality example, NBME 8 demeclocycline question, NSAID and demeclocycline as NDI causes in cited chapters, head trauma as central DI cause, the NBME NSAID question, 2CK hyperparathyroidism question, thiazide mechanism.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p147 (nephrogenic DI treatment end, psychogenic polydipsia, Hashimoto, Graves) - 16 cards, ids s2peds-2218 to 2233
+- Inspected page pixels. No figures. The first two cards complete the thiazide explanation begun on p146.
+- Notes verified against StatPearls (Primary Polydipsia, Hashimoto, Graves, Thyroid Lymphoma).
+- Source conflict, source answer kept with caution note: Hashimoto lymphoma risk "e.g. primary CNS lymphoma" - thyroid lymphoma sources describe DLBCL and MALT of the thyroid; I did not find a CNS lymphoma link.
+- Left un-noted or flagged unverified: NSAID/thiazide mechanism, lithium 2CK question, PP exam-pattern claims, Hashimoto NBME extras (bradycardia 55-60, transaminitis, HLA statement), uptake scan descriptions, Graves biopsy description.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
