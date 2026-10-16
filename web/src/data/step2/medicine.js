@@ -18219,5 +18219,209 @@ export default [
     },
     "img": "/mehlman/figures/med-p150-01.jpg",
     "imgAlt": "Blood smear with target cells"
+  },
+  {
+    "id": "s2med-1364",
+    "category": "IM Heme/Onc",
+    "q": "When is anemia of chronic disease (AoCD) the USMLE answer per p151?",
+    "a": "Low Hb in a patient with renal failure, an autoimmune disease (RA, JRA, IBD, SLE), hepatitis B/C, HIV or malignancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    },
+    "guideline": {
+      "text": "A review of anemia of chronic disease is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7353365/"
+    }
+  },
+  {
+    "id": "s2med-1365",
+    "category": "IM Heme/Onc",
+    "q": "Iron studies in AoCD per p151?",
+    "a": "Low iron but normal (or slightly high) ferritin. Ferritin is the most sensitive marker of iron stores, so these patients are not iron deficient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2med-1366",
+    "category": "IM Heme/Onc",
+    "q": "Why is iron low in AoCD per p151?",
+    "a": "1) Cytokines (IL-6, TNF-alpha) block iron release from storage sites, decreasing RBC production. 2) Hepcidin from the liver decreases gut iron absorption and promotes storage in cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2med-1367",
+    "category": "IM Heme/Onc",
+    "q": "Highest-yield cause of AoCD and its treatment per p151?",
+    "a": "Renal failure ('cytokine-mediated EPO deficiency'). EPO treats AoCD only if renal failure is the cause; otherwise treat the underlying condition (EPO is wrong). One NBME RA question has the answer 'no specific measures indicated'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2med-1368",
+    "category": "IM Heme/Onc",
+    "q": "MCV in AoCD per p151?",
+    "a": "Classically normal, but low in about 50% of NBME questions, especially 2CK (e.g., MCVs of 72 and 75 in JRA questions). Don't exclude AoCD because MCV is low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2med-1369",
+    "category": "IM Heme/Onc",
+    "q": "Multiple myeloma: what is it and what presents per p151?",
+    "a": "Cancer of plasma cells, which normally secrete immunoglobulins, so serum immunoglobulins are increased. Buzzy presentation: patient over 50 with mid-back pain plus hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    },
+    "guideline": {
+      "text": "The IMWG updated diagnostic criteria are linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25439696/"
+    }
+  },
+  {
+    "id": "s2med-1370",
+    "category": "IM Heme/Onc",
+    "q": "Why is calcium increased in myeloma, and what does it look like per p151?",
+    "a": "Lytic bone lesions from proliferating plasma cells: pathologic rib fractures or 'pepper pot skull'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    },
+    "img": "/mehlman/figures/med-p151-01.jpg",
+    "imgAlt": "Lateral skull x-ray with multiple punched-out lytic lesions (pepper pot skull)"
+  },
+  {
+    "id": "s2med-1371",
+    "category": "IM Heme/Onc",
+    "q": "Less textbook myeloma lesion on one NBME question per p151?",
+    "a": "Lytic lesions of the humerus (not as buzzy as rib or skull lesions).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 151,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=151"
+    },
+    "img": "/mehlman/figures/med-p151-02.jpg",
+    "imgAlt": "Right humerus x-ray with lytic lesions"
+  },
+  {
+    "id": "s2med-1372",
+    "category": "IM Heme/Onc",
+    "q": "Diagnosing multiple myeloma per p152?",
+    "a": "First step: serum protein electrophoresis (SPEP), showing an M-spike (monoclonal spike; not IgM) of IgG kappa or lambda light chains. Bone marrow biopsy confirms: >10% plasma cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    },
+    "guideline": {
+      "text": "Conflict (wording): current IMWG criteria are linked; an M-spike is a monoclonal immunoglobulin, with light chains as a component. I did not verify the text. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25439696/"
+    }
+  },
+  {
+    "id": "s2med-1373",
+    "category": "IM Heme/Onc",
+    "q": "Smear finding in myeloma per p152?",
+    "a": "Plasma cells (blue cells) with 'clockface chromatin' in the nuclei.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    },
+    "img": "/mehlman/figures/med-p152-01.jpg",
+    "imgAlt": "Bone marrow smear with plasma cells showing eccentric clockface-chromatin nuclei"
+  },
+  {
+    "id": "s2med-1374",
+    "category": "IM Heme/Onc",
+    "q": "Urine finding in myeloma per p152?",
+    "a": "Bence Jones proteinuria: light chains in the urine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2med-1375",
+    "category": "IM Heme/Onc",
+    "q": "Amyloidosis in myeloma per p152?",
+    "a": "Immunoglobulins are proteins that deposit where they shouldn't. Heart: cardiac amyloidosis (S4 with diastolic dysfunction). Kidney: renal amyloidosis (nephrotic syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2med-1376",
+    "category": "IM Heme/Onc",
+    "q": "Rouleaux and ESR in myeloma per p152?",
+    "a": "Light chains stick to RBCs, causing stacks (rouleaux). They're heavy and sediment quickly on centrifugation, hence increased ESR. A picture of rouleaux means myeloma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    },
+    "img": "/mehlman/figures/med-p152-02.jpg",
+    "imgAlt": "Blood smear with rouleaux (red cell stacks) marked by arrows"
+  },
+  {
+    "id": "s2med-1377",
+    "category": "IM Heme/Onc",
+    "q": "MCV in myeloma per p152?",
+    "a": "Can be increased (e.g., 108; NR 80-100); common. Causes: 1) increased immunoglobulins transported by RBCs increase RBC size, 2) decreased marrow RBC production from infiltrating plasma cells, with compensatory larger RBCs, 3) B9 and B12 deficiency can be caused by myeloma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    }
+  },
+  {
+    "id": "s2med-1378",
+    "category": "IM Heme/Onc",
+    "q": "Initial treatment of myeloma per p152?",
+    "a": "IV bisphosphonate, to decrease the risk of bone lysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    },
+    "guideline": {
+      "text": "The IMWG bone disease recommendations are linked. Bisphosphonates address bone disease, not the myeloma itself; I did not verify the text. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33545067/"
+    }
+  },
+  {
+    "id": "s2med-1379",
+    "category": "IM Heme/Onc",
+    "q": "MGUS per p152?",
+    "a": "Bone marrow biopsy shows <10% plasma cells. Small annual risk of progression to myeloma. May have fatigue and/or increased MCV, but no hypercalcemia or renal dysfunction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 152,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=152"
+    },
+    "guideline": {
+      "text": "A review of MGUS diagnosis and management is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11975479/"
+    }
   }
 ];

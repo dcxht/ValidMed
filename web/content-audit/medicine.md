@@ -635,3 +635,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p150 (thalassemia) - 8 cards, ids s2med-1356 to 1363
 - Unverified: RDW heuristics, target-cell frequency claims.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p151 (AoCD, multiple myeloma) - 8 cards, ids s2med-1364 to 1371
+## p152 (multiple myeloma) - 8 cards, ids s2med-1372 to 1379
+- Wording conflicts: M-spike described as IgG light chains; bisphosphonate as initial myeloma treatment (bone disease only). Unverified: AoCD low-MCV percentage.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
