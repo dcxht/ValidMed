@@ -1265,3 +1265,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p366 (carcinoid, MEN, Carney) - 13 cards, ids s2med-3672 to 3684
 - Carcinoid S-100 (+) claim and Carney "zona fasciculata granular hyperpigmentation" wording: source, unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p367 (DM diagnosis, type I, DKA) - 13 cards, ids s2med-3685 to 3697
+- DM diagnostic thresholds as worded in source (">126", "any one random fasting glucose >200", "HbA1c >6.5%"): differ from usual ADA wording; flagged unverified.
+- Beta-cell destruction "in the tail of the pancreas": source claim, unverified.
+
+## p368 (DKA potassium, hypoglycemia, type II, HHS) - 13 cards, ids s2med-3698 to 3710
+- "Bicarb always wrong in DKA" and "DKA strictly type I on USMLE": source statements, flagged unverified. Expletives paraphrased out.
+- Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.

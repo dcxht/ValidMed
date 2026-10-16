@@ -49338,5 +49338,319 @@ export default [
       "page": 366,
       "url": "/mehlman/hy-internal-medicine.pdf#page=366"
     }
+  },
+  {
+    "id": "s2med-3685",
+    "category": "IM Endocrine",
+    "q": "Diabetes mellitus vs insipidus per p367?",
+    "a": "'Diabetes' means polydipsia + polyuria. Students confuse DM with DI since both give increased thirst and urination. Acute DM vignettes can mention weight loss from increased catabolism (also in acute type II, though the patient is usually overweight); vomiting is another HY finding. Thirst + urination + weight loss +/- vomiting = DM, not DI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3686",
+    "category": "IM Endocrine",
+    "q": "Diagnosis of DM per p367?",
+    "a": "Per the source: two fasting glucoses >126 mg/dL, any one random glucose >200 mg/dL, or HbA1c >6.5%.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    },
+    "guideline": {
+      "text": "ADA Standards of Care diagnosis criteria are linked (title only). The source's wording (>126, >6.5%) and 'random fasting' phrasing differ from the usual criteria; I did not verify the exact cutoffs.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690183/"
+    }
+  },
+  {
+    "id": "s2med-3687",
+    "category": "IM Endocrine",
+    "q": "Type I DM basics per p367?",
+    "a": "Absence of insulin; autoimmune; no single gene, though HLA-DR3/4 are associated. Often 'genetic susceptibility with environmental trigger' (viral infection, usually Coxsackie B). Almost always in children or teenagers of normal BMI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    },
+    "guideline": {
+      "text": "A review of type 1 diabetes pathogenesis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9032728/"
+    }
+  },
+  {
+    "id": "s2med-3688",
+    "category": "IM Endocrine",
+    "q": "Type I DM pathogenesis per p367?",
+    "a": "Usually antibody- (anti-GAD65 or anti-ZnT8) plus T-cell-mediated destruction of beta-islet cells (the source says in the tail of the pancreas), decreasing insulin; GLUT4 can't be recruited to the surface of skeletal muscle and adipose tissue, so cells are starved of energy, increasing gluconeogenesis + ketogenesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3689",
+    "category": "IM Endocrine",
+    "q": "Why hyperglycemia occurs in type I per p367?",
+    "a": "Continued glucose production by the liver (gluconeogenesis) plus decreased uptake by skeletal muscle and adipose tissue.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3690",
+    "category": "IM Endocrine",
+    "q": "Type I pancreas biopsy per p367?",
+    "a": "Acute: inflammatory infiltrate. Late (years later): atrophy and fibrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3691",
+    "category": "IM Endocrine",
+    "q": "Ketogenesis in type I vs type II per p367?",
+    "a": "The absence of insulin in type I enables ketogenesis. In type II, ketones are low because insulin is present.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3692",
+    "category": "IM Endocrine",
+    "q": "DKA presentation per p367?",
+    "a": "Ketone bodies (USMLE likes beta-hydroxybutyrate) are highly acidic, dropping pH (high anion-gap metabolic acidosis). Child or teenager with polyuria, polydipsia, sometimes vomiting, severe metabolic acidosis; fruity breath (ketones).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    },
+    "guideline": {
+      "text": "A StatPearls page on adult DKA is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
+  },
+  {
+    "id": "s2med-3693",
+    "category": "IM Endocrine",
+    "q": "DKA acid-base per p367?",
+    "a": "Low pH, low HCO3-, low CO2. Ketones cause metabolic acidosis; we blow off CO2 to compensate; Kussmaul breathing is deep, labored breathing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3694",
+    "category": "IM Endocrine",
+    "q": "DKA ketones, osmolality, gap per p367?",
+    "a": "Increased beta-hydroxybutyrate, increased serum osmolality, increased anion gap. Osmolality is high because glucose is markedly increased, even though serum sodium is low. DKA is the D in MUDPILES.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3695",
+    "category": "IM Endocrine",
+    "q": "DKA sodium, potassium, GFR per p367?",
+    "a": "Low serum Na+, high serum K+, low total body K+, increased GFR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3696",
+    "category": "IM Endocrine",
+    "q": "Why serum sodium is low in DKA per p367?",
+    "a": "Mostly dilutional: high osmolality holds fluid intravascularly. Also low insulin means less glucose entry, less ATP, less Na+/K+-ATPase activity, so sodium isn't pumped out of cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3697",
+    "category": "IM Endocrine",
+    "q": "Why serum potassium is high in DKA, reason 1 per p367 (continued on p368)?",
+    "a": "Potassium-proton shift: acidosis from ketosis makes blood protons exchange with intracellular potassium via the H+/K+ antiporter (H+ in, K+ out). The state is hyperkalemia despite low total body potassium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 367,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=367"
+    }
+  },
+  {
+    "id": "s2med-3698",
+    "category": "IM Endocrine",
+    "q": "Why serum potassium is high in DKA, reason 2 per p368 (continued from p367)?",
+    "a": "Insulin drives potassium into cells by upregulating Na+/K+-ATPase (3 Na+ out for every 2 K+ in); with low insulin less K+ enters cells, so blood potassium is high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3699",
+    "category": "IM Endocrine",
+    "q": "Why total body potassium is low in DKA per p368?",
+    "a": "Increased renal losses: high serum potassium means more is filtered and excreted, and the processes causing hyperkalemia continue, depleting body K+.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3700",
+    "category": "IM Endocrine",
+    "q": "Why GFR is increased in DKA per p368?",
+    "a": "Hyperfiltration from hyperglycemia: more glucose is filtered, pulling water with it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3701",
+    "category": "IM Endocrine",
+    "q": "DKA treatment order per p368?",
+    "a": "Normal saline (0.9% NaCl) first, prior to insulin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    },
+    "guideline": {
+      "text": "A review of DKA is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10289692/"
+    }
+  },
+  {
+    "id": "s2med-3702",
+    "category": "IM Endocrine",
+    "q": "Potassium after insulin in DKA per p368?",
+    "a": "Serum potassium drops as insulin is given. DKA with a normal potassium, insulin given, and now an arrhythmia: the answer is potassium (it was driven into cells, causing hypokalemia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3703",
+    "category": "IM Endocrine",
+    "q": "Bicarbonate in DKA per p368?",
+    "a": "Per the source, bicarb is always a wrong answer for low pH in DKA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3704",
+    "category": "IM Endocrine",
+    "q": "Hypoglycemia in type I DM per p368?",
+    "a": "Don't confuse DKA with hypoglycemia: e.g., a type I diabetic who exercised or cleaned the roof and is found unconscious (insulin dose not decreased before exercise). Treatment is intramuscular glucagon (2CK likes this) or dextrose in water.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    },
+    "guideline": {
+      "text": "A review of hypoglycemia in diabetes is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8696639/"
+    }
+  },
+  {
+    "id": "s2med-3705",
+    "category": "IM Endocrine",
+    "q": "Prolonged hypoglycemia after insulin per p368?",
+    "a": "Answer: 'deficiency of counter-regulatory glucagon.' In advanced diabetes the glucagon-producing alpha-islet cells can also fail; also asked for chronic alcoholism and pancreatectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3706",
+    "category": "IM Endocrine",
+    "q": "Type II DM basics per p368?",
+    "a": "Insulin resistance, usually in high-BMI adults but can rarely occur in peds (a 2CK form gives type II in a 17-year-old). High BMI causes insulin resistance because adipose tissue secretes adipokines that impair insulin signaling.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    },
+    "guideline": {
+      "text": "A review of type 2 diabetes pathogenesis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11445387/"
+    }
+  },
+  {
+    "id": "s2med-3707",
+    "category": "IM Endocrine",
+    "q": "Insulin and ketones in type II per p368?",
+    "a": "Insulin is high initially (hyperinsulinemia) from beta-cell hypertrophy compensating for peripheral resistance. Ketones are absent/low because insulin inhibits ketogenesis. These two points are the highest yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3708",
+    "category": "IM Endocrine",
+    "q": "Type II pancreas biopsy per p368?",
+    "a": "Initially beta-cell hypertrophy; years later amyloid deposition and cell shrinkage. Hyperglycemia, as in type I, comes from continued hepatic gluconeogenesis plus decreased uptake by skeletal muscle and adipose tissue.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
+  },
+  {
+    "id": "s2med-3709",
+    "category": "IM Endocrine",
+    "q": "HHS vs DKA per p368?",
+    "a": "Hyperosmolar hyperglycemic state (HHS) is seen in type II; per the source DKA is strictly type I on USMLE. In HHS, glucose is usually >600 mg/dL and bicarb usually isn't below 20 mEq/L (normal 22-28); in DKA glucose need not be that high and bicarb can be very low (the source saw 5 mEq/L on an NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    },
+    "guideline": {
+      "text": "A JBDS guideline on HHS in adults is linked (title only). The 'strictly type I' rule is the source's exam-oriented statement; I did not verify it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10107355/"
+    }
+  },
+  {
+    "id": "s2med-3710",
+    "category": "IM Endocrine",
+    "q": "HHS mental status vignette per p368?",
+    "a": "A long vignette with glucose of 650-700 and a question on the cause of mental status change: answer is 'hyperosmolality', 'hyperglycemia', or 'osmotic diuresis' (severe dehydration). Mechanism: hyperosmolality in the brain's ECF pulls water out of the ICF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 368,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=368"
+    }
   }
 ];
