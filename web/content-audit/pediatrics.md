@@ -787,3 +787,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: croup treatment omits dexamethasone (first-line today); croup "school-age child" vs typical young children.
 - Left unverified: RML syndrome as bronchiectasis, Adams-Stokes brainstem hypoxia mechanism, lobar-pattern exclusion of PJP, "ribavirin and palivizumab almost always wrong" as an NBME pattern, "Peds NBME" claims.
 - Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
+
+## p156 (Bullet points: epiglottitis, tracheitis, vascular ring, laryngomalacia, adenotonsillar cor pulmonale, papillomatosis, diphtheria, CF polyps, neck masses) - 12 cards, ids s2peds-2336 to 2347
+- Inspected page text and layout; no figures. Source ages "8M" etc. kept as printed (ambiguous).
+- Notes verified against StatPearls (Epiglottitis, Bacterial Tracheitis, Vascular Aortic Arch Ring, Laryngomalacia, Diphtheria, Branchial Cleft Cysts), RRP review, CF nasal polyp review, cor pulmonale abstract.
+- No outright conflicts. "brachial cleft" typo noted in the answer.
+- Left unverified: ceftriaxone/rifampin for epiglottitis contacts, tracheitis antibiotic regimen, vascular ring improving with neck extension, long-term cor pulmonale management step, polyps-causing-stridor link in CF, forceps link to sternomastoid injury.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.

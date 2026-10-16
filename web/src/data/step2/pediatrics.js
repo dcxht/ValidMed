@@ -33224,5 +33224,181 @@ export default [
       "text": "Canadian Paediatric Society review: RSV causes most bronchiolitis; management is primarily supportive (hydration, suctioning, oxygen).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4235450/"
     }
+  },
+  {
+    "id": "s2peds-2336",
+    "category": "Peds vignettes",
+    "q": "Child printed as 8M, immigrant family, sitting forward in tripod position, drooling. Next best step per p156?",
+    "a": "Intubation. Diagnosis is epiglottitis, Haemophilus influenzae type B (unvaccinated patient).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "StatPearls: classic triad is drooling, dysphagia and distress with air hunger; tripod position; airway is secured by intubation. Hib caused most pediatric cases before vaccination.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430960/"
+    }
+  },
+  {
+    "id": "s2peds-2337",
+    "category": "Peds vignettes",
+    "q": "What antibiotic and contact prophylaxis does p156 give for epiglottitis?",
+    "a": "If the question asks for an antibiotic, ceftriaxone. For close contacts, rifampin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "StatPearls covers epiglottitis management; I did not verify ceftriaxone or rifampin contact prophylaxis in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430960/"
+    }
+  },
+  {
+    "id": "s2peds-2338",
+    "category": "Peds vignettes",
+    "q": "8M, recent URTI, now stridor and fever 101F. Diagnosis, organism, diagnosis method and treatment per p156?",
+    "a": "Bacterial tracheitis, usually S. aureus. Diagnose with bronchoscopy. Treat with a third-generation cephalosporin plus an aminopenicillin (for example IV flucloxacillin).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "StatPearls: a bacterial infection of the trachea often preceded by a viral URI; S. aureus is the most commonly implicated pathogen. I did not verify the antibiotic regimen.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470240/"
+    }
+  },
+  {
+    "id": "s2peds-2339",
+    "category": "Peds vignettes",
+    "q": "8-month-old girl, stridor that improves with neck extension. Diagnosis per p156?",
+    "a": "Vascular ring: aberrant embryologic development where the aorta and/or surrounding vessels form a ring around the esophagus and/or trachea.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "StatPearls: tracheal and esophageal compression from a vascular ring causes inspiratory stridor. I did not verify improvement with neck extension.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560919/"
+    }
+  },
+  {
+    "id": "s2peds-2340",
+    "category": "Peds vignettes",
+    "q": "8-month-old girl, stridor that improves when prone or upright. Diagnosis per p156?",
+    "a": "Laryngomalacia, the most common cause of stridor in pediatrics: soft cartilage of the upper larynx collapses during inhalation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "StatPearls: soft, immature cartilages of the infant larynx collapse on inspiration; noisy breathing worsens with feeding or when supine.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544266/"
+    }
+  },
+  {
+    "id": "s2peds-2341",
+    "category": "Peds vignettes",
+    "q": "3F, 2-week cough and congestion, loud snoring for 6 months, mouth breathing, 1/6 holosystolic murmur, loud S2, cardiomegaly, increased pulmonary vascular markings, echo with RV hypertrophy and mild TR. Long-term management per p156?",
+    "a": "Adenoidectomy and tonsillectomy. Chronic upper airway obstruction can cause obstructive lung disease with cor pulmonale; the loud S2 and increased vascular markings suggest pulmonary hypertension, and TR can be seen in pulmonary HTN.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "Report: cor pulmonale from adenoidal or tonsillar hypertrophy in children. I did not verify the details of the long-term management step.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3335141/"
+    }
+  },
+  {
+    "id": "s2peds-2342",
+    "category": "Peds vignettes",
+    "q": "2F, stridor, laryngoscopy shows small growths of the larynx. Diagnosis per p156?",
+    "a": "HPV 6/11: laryngeal papillomatosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "Review: recurrent respiratory papillomatosis is caused by low-risk HPV6 and HPV11.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5824106/"
+    }
+  },
+  {
+    "id": "s2peds-2343",
+    "category": "Peds vignettes",
+    "q": "9M with a grey pseudomembrane in the oropharynx. Treatment per p156?",
+    "a": "Diphtheria antitoxin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "StatPearls: thick, gray, adherent pseudomembrane on the tonsils and throat; management includes isolation, antitoxin and antibiotics.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560911/"
+    }
+  },
+  {
+    "id": "s2peds-2344",
+    "category": "Peds vignettes",
+    "q": "12M with steatorrhea, recurrent URTIs and new-onset stridor. Why the stridor per p156?",
+    "a": "Nasal polyps (common in cystic fibrosis); the steatorrhea is from exocrine pancreatic insufficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "Review: patients with CF are at increased risk of nasal polyps. I did not verify the link to stridor.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4932358/"
+    }
+  },
+  {
+    "id": "s2peds-2345",
+    "category": "Peds vignettes",
+    "q": "7F, painless midline neck lump that moves upward on swallowing. What does biopsy show per p156?",
+    "a": "Thyroid tissue. Diagnosis: thyroglossal duct cyst.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    }
+  },
+  {
+    "id": "s2peds-2346",
+    "category": "Peds vignettes",
+    "q": "7F, painless lateral neck mass over the sternocleidomastoid. Diagnosis per p156?",
+    "a": "Branchial cleft cyst (printed on the page as \"brachial\").",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "StatPearls: nontender, fluctuant masses along the anterior border of the sternocleidomastoid.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482467/"
+    }
+  },
+  {
+    "id": "s2peds-2347",
+    "category": "Peds vignettes",
+    "q": "Neonate born by forceps delivery, crooked neck, 1.5 cm mass in the left neck. Diagnosis per p156?",
+    "a": "\"Sternomastoid injury.\"",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 156,
+      "url": "/mehlman/hy-pediatrics.pdf#page=156"
+    },
+    "guideline": {
+      "text": "Case report: sternocleidomastoid tumour in a neonate (fibromatosis colli). I did not verify the forceps link.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5786991/"
+    }
   }
 ];
