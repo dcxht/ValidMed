@@ -45816,5 +45816,319 @@ export default [
       "text": "A StatPearls page on ADPKD is linked (title only).",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK532934/"
     }
+  },
+  {
+    "id": "s2med-3415",
+    "category": "IM Gen Path",
+    "q": "ADPKD blood pressure per p343 (continued from p342)?",
+    "a": "Patients have high BP due to high RAAS activity (enlarging cysts compress the kidney's microvasculature).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    }
+  },
+  {
+    "id": "s2med-3416",
+    "category": "IM Gen Path",
+    "q": "ADPKD aneurysms per p343?",
+    "a": "Can cause saccular (berry) aneurysms of the circle of Willis, with risk of subarachnoid hemorrhage. The highest-yield point: serial blood pressure checks are correct over circle of Willis MR angiogram screening, which is the wrong answer on USMLE. MRA screening is done only with a positive family history of SAH or saccular aneurysms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A meta-analysis on who needs aneurysm screening in ADPKD is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39951701/"
+    }
+  },
+  {
+    "id": "s2med-3417",
+    "category": "IM Gen Path",
+    "q": "Cystic kidney ciliopathy per p343?",
+    "a": "Cystic kidneys are part of the 'ciliopathies' (conditions with abnormal cilia). Polycystin is a protein required for cilia function on renal epithelium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A paper on ciliary mechanisms of cyst formation is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5666631/"
+    }
+  },
+  {
+    "id": "s2med-3418",
+    "category": "IM Gen Path",
+    "q": "ADPKD liver cysts per p343?",
+    "a": "The most common extra-renal location for cysts is the liver (85% by age 30, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    }
+  },
+  {
+    "id": "s2med-3419",
+    "category": "IM Gen Path",
+    "q": "PKHD1 per p343?",
+    "a": "Autosomal recessive polycystic kidney disease. The answer on USMLE for cystic kidneys in pediatrics. Can be associated with hepatic fibrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A paper on congenital hepatic fibrosis and ARPKD is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4369775/"
+    }
+  },
+  {
+    "id": "s2med-3420",
+    "category": "IM Gen Path",
+    "q": "AFP per p343?",
+    "a": "Alpha-fetoprotein. Yolk sac tumor (aka endodermal sinus tumor) is the answer for a testicular or ovarian tumor in a child. Mixed germ cell tumors if hCG is also high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A paper on predicting yolk sac tumor in children is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11598321/"
+    }
+  },
+  {
+    "id": "s2med-3421",
+    "category": "IM Gen Path",
+    "q": "ALP as a tumor marker per p343?",
+    "a": "Alkaline phosphatase: placental ALP can sometimes be increased in seminoma, unrelated to the increased ALP of bile duct obstruction or bone fractures.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A paper on placental ALP in seminoma is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7093962/"
+    }
+  },
+  {
+    "id": "s2med-3422",
+    "category": "IM Gen Path",
+    "q": "CA 15-3, CA 19-9, CEA, PSA per p343?",
+    "a": "CA 15-3: breast cancer. CA 19-9: pancreatic cancer. CEA (carcinoembryonic antigen): colon cancer, though non-specific. PSA (prostate-specific antigen): prostate cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A primer on commonly used cancer markers is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9990734/"
+    }
+  },
+  {
+    "id": "s2med-3423",
+    "category": "IM Gen Path",
+    "q": "Calcitonin per p343?",
+    "a": "Increased in medullary thyroid carcinoma. Normal role: inhibits osteoclast activity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A paper on calcitonin is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9125613/"
+    }
+  },
+  {
+    "id": "s2med-3424",
+    "category": "IM Gen Path",
+    "q": "hCG and LDH markers per p343?",
+    "a": "hCG (human chorionic gonadotropin): choriocarcinoma; mixed germ cell tumors if AFP is also high. LDH (lactate dehydrogenase): dysgerminoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A paper on elevated hCG differential diagnosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10101843/"
+    }
+  },
+  {
+    "id": "s2med-3425",
+    "category": "IM Gen Path",
+    "q": "Type I hypersensitivity per p343?",
+    "a": "Immediate (minutes): antigen binds the Fab region of IgE on mast cells; adjacent IgE crosslink; the mast cell degranulates and secretes histamine and tryptase. Late (hours): cytokines recruit inflammatory cells (e.g., eosinophils) for further inflammation. Examples: anaphylaxis (bee sting, peanut allergy), atopy/asthma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A review of IgE and mast cells in allergic disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597223/"
+    }
+  },
+  {
+    "id": "s2med-3426",
+    "category": "IM Gen Path",
+    "q": "Type II hypersensitivity per p343?",
+    "a": "Antibody production against cells, tissues, receptors. Examples: Graves, Hashimoto, Goodpasture, pernicious anemia, HIT, ITP, rheumatic fever, myasthenia gravis, Lambert-Eaton, bullous pemphigoid, pemphigus vulgaris.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    },
+    "guideline": {
+      "text": "A StatPearls page on type II hypersensitivity is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK563264/"
+    }
+  },
+  {
+    "id": "s2med-3427",
+    "category": "IM Gen Path",
+    "q": "Type III hypersensitivity per p343?",
+    "a": "Antibody-antigen complexes: antibodies simply bind antigen and deposit; they do not target cells, tissues, or receptors. Examples: post-streptococcal glomerulonephritis, polyarteritis nodosa, SLE, Arthus reaction, serum sickness.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 343,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=343"
+    }
+  },
+  {
+    "id": "s2med-3428",
+    "category": "IM Gen Path",
+    "q": "Type IV hypersensitivity per p344 (continued from p343)?",
+    "a": "A T cell response (the only hypersensitivity type not associated with antibodies); mediated by CD8+ or CD4+ T cells. Examples: PPD skin test for TB, contact dermatitis, graft-vs-host disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    }
+  },
+  {
+    "id": "s2med-3429",
+    "category": "IM Gen Path",
+    "q": "Alcohol as a carcinogen per p344?",
+    "a": "Oral/pharyngeal SCC; SCC of the esophagus; hepatocellular carcinoma; breast cancer. The source says the highest yield is esophageal SCC plus hepatocellular carcinoma, and that breast cancer is a theoretical association USMLE doesn't test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    },
+    "guideline": {
+      "text": "A report on carcinogens covering alcoholic beverages is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK590905/"
+    }
+  },
+  {
+    "id": "s2med-3430",
+    "category": "IM Gen Path",
+    "q": "Aflatoxin per p344?",
+    "a": "The answer if they mention peanut farming in China. Can cause hepatocellular carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    },
+    "guideline": {
+      "text": "A review of aflatoxins in HCC is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3496858/"
+    }
+  },
+  {
+    "id": "s2med-3431",
+    "category": "IM Gen Path",
+    "q": "Aniline dyes per p344?",
+    "a": "The answer for hematuria in a textile factory worker. Can cause transitional cell carcinoma of the bladder. Aniline dyes are a type of industrial clothing dye.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    },
+    "guideline": {
+      "text": "A paper on bladder tumours in dye workers is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC1037533/"
+    }
+  },
+  {
+    "id": "s2med-3432",
+    "category": "IM Gen Path",
+    "q": "Arsenic per p344?",
+    "a": "The answer for Mees lines (white lines on the nails), or a palms-and-soles rash, in a gardener. A 2CK NBME question shows a picture of Mees lines in a gardener: arsenic. The source says arsenic is in many fertilizers and poisoning is seen in gardeners/landscapers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    },
+    "img": "/mehlman/figures/med-p344-01.jpg",
+    "imgAlt": "Source figure: Mees lines on the nails",
+    "guideline": {
+      "text": "A paper on Mees' lines and arsenic poisoning is linked (title only). I did not verify the fertilizer claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8607647/"
+    }
+  },
+  {
+    "id": "s2med-3433",
+    "category": "IM Gen Path",
+    "q": "Asbestos per p344?",
+    "a": "Asbestosis causes restrictive lung disease with ferruginous bodies and supradiaphragmatic/pleural plaques; can develop into mesothelioma. An NBME question shows a ferruginous body and asks which cell initiates pulmonary fibrosis: macrophage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    },
+    "img": "/mehlman/figures/med-p344-02.jpg",
+    "imgAlt": "Source figure: ferruginous bodies in asbestosis",
+    "guideline": {
+      "text": "A paper on ferruginous bodies is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1903711/"
+    }
+  },
+  {
+    "id": "s2med-3434",
+    "category": "IM Gen Path",
+    "q": "Asbestos plaques and mesothelioma per p344?",
+    "a": "The pleural/supradiaphragmatic plaques can be described simply as 'soft tissue densities' on CXR. Mesothelioma can appear as a whitish cancer circumferentially enveloping the lungs; the NBME answer asks for 'mesothelial cells'. Shipyard workers, construction workers, and electricians are buzzy professions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    }
+  },
+  {
+    "id": "s2med-3435",
+    "category": "IM Gen Path",
+    "q": "Benzene per p344?",
+    "a": "Leukemias.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    },
+    "guideline": {
+      "text": "A meta-analysis of workplace benzene and leukemia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2903550/"
+    }
+  },
+  {
+    "id": "s2med-3436",
+    "category": "IM Gen Path",
+    "q": "Ionizing radiation per p344?",
+    "a": "Thyroid cancer; leukemias.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 344,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=344"
+    },
+    "guideline": {
+      "text": "A study of leukemia after radioactive iodine therapy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26133388/"
+    }
   }
 ];

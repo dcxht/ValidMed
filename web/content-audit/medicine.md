@@ -1181,3 +1181,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p342 (FMR1 end to PKD) - 14 cards, ids s2med-3401 to 3414
 - Ferritin ">300 mg/dL" unit/cutoff unverified. Expletive paraphrased (caudate).
 - Mobile QA (320x740, local vite preview build, not live): all 43 cards ox=false off=false bad=0.
+
+## p343 (PKD end, tumor markers, hypersensitivity I-III) - 13 cards, ids s2med-3415 to 3427
+- ADPKD MRA screening rule and 85% liver cysts claim: source, unverified/with link.
+
+## p344 (type IV, carcinogens) - 9 cards, ids s2med-3428 to 3436
+- Arsenic fertilizer claim unverified. Expletive paraphrased (alcohol/breast).
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
