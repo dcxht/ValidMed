@@ -8865,5 +8865,201 @@ export default [
       "text": "CDC safety considerations for COVID-19 vaccines is a reference; I did not verify the text.",
       "url": "https://www.cdc.gov/covid/hcp/vaccine-considerations/safety-considerations.html"
     }
+  },
+  {
+    "id": "s2med-0682",
+    "category": "IM Pulmonary",
+    "q": "Vaccine adverse effects per p69-70?",
+    "a": "Bell's palsy and myocarditis are not unique to coronavirus; they can rarely happen with many viral infections and vaccines.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2med-0683",
+    "category": "IM Pulmonary",
+    "q": "Earlier coronavirus outbreaks per p70?",
+    "a": "Before 2019: SARS in China in 2002 and Middle Eastern Respiratory Syndrome (MERS) in Saudi Arabia in 2012.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "WHO MERS-CoV fact sheet is a reference; I did not verify the text.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov)"
+    }
+  },
+  {
+    "id": "s2med-0684",
+    "category": "IM Pulmonary",
+    "q": "Childhood COVID vaccine per p70?",
+    "a": "IM vaccine starting at 6 months; 2-3 doses (source schedule).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2med-0685",
+    "category": "IM Pulmonary",
+    "q": "Pneumococcal vaccine in infants per p70?",
+    "a": "PCV15 at 2, 4 and 6 months, then again at 12-15 months.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "CDC child schedule is the reference (PCV15 or PCV20 are both used); I did not verify the text.",
+      "url": "https://www.cdc.gov/pneumococcal/vaccines/children.html"
+    }
+  },
+  {
+    "id": "s2med-0686",
+    "category": "IM Pulmonary",
+    "q": "Pneumococcal vaccine age 65 and over per p70?",
+    "a": "PCV20 once; OR PCV15 then PPSV23 a year later.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "CDC adult recommendations have since broadened (e.g., to younger ages and newer conjugate vaccines); I did not verify the current text. Keep the source answer for the exam.",
+      "url": "https://cdc.gov/pneumococcal/vaccines/adults.html"
+    }
+  },
+  {
+    "id": "s2med-0687",
+    "category": "IM Pulmonary",
+    "q": "Pneumococcal vaccine in high-risk patients per p70?",
+    "a": "For asplenia/surgical splenectomy, sickle cell, cochlear implant, CSF leak, chronic renal failure/nephrotic syndrome, HIV and immunosuppressed patients: an extra dose of PCV15, followed by PPSV23 8+ weeks later.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "CDC pneumococcal recommendations are the reference; I did not verify the details.",
+      "url": "https://www.cdc.gov/vaccines/vpd/pneumo/hcp/recommendations.html"
+    }
+  },
+  {
+    "id": "s2med-0688",
+    "category": "IM Pulmonary",
+    "q": "Influenza vaccine summary per p70?",
+    "a": "IM killed vaccine: start at 6 months, yearly through life; safe in pregnancy. Intranasal live-attenuated: ages 2-45 (source); immunocompetent, non-pregnant persons.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2med-0689",
+    "category": "IM Pulmonary",
+    "q": "Tracheoesophageal fistula per p70 (figure)?",
+    "a": "Proximal esophagus ends in a blind pouch and the distal esophagus connects to the trachea. A neonate coughs up milk with the first feeding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    },
+    "img": "/mehlman/figures/med-p070-01.jpg",
+    "imgAlt": "Source figure p70: neonatal diagram with a blind upper esophageal pouch and a distal esophagus joined to the trachea",
+    "guideline": {
+      "text": "A review of esophageal atresia is a reference; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1884133/"
+    }
+  },
+  {
+    "id": "s2med-0690",
+    "category": "IM Pulmonary",
+    "q": "Diagnosing TEF per p70?",
+    "a": "Highest yield: diagnosis by inserting a nasogastric tube, which cannot be inserted fully because it hits the blind esophageal pouch. An NBME question wants 'endoderm' as the abnormal embryology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2med-0691",
+    "category": "IM Pulmonary",
+    "q": "Choanal atresia per p70 (continues p71)?",
+    "a": "The nasal passages do not develop patency, so the neonate is an obligate mouth-breather.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 70,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=70"
+    },
+    "guideline": {
+      "text": "A review of choanal atresia is a reference; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4460812/"
+    }
+  },
+  {
+    "id": "s2med-0692",
+    "category": "IM Pulmonary",
+    "q": "Choanal atresia presentation per p71 (figure)?",
+    "a": "A child who becomes blue/hypoxic while breastfeeding (cannot breathe through the nose), then cries and turns pink after detaching from the breast. Diagnosis, as in TEF, is by inserting a nasogastric tube.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=71"
+    },
+    "img": "/mehlman/figures/med-p071-01.jpg",
+    "imgAlt": "Source figure p71: normal nasal airway beside a choanal atresia with blocked nasal airway",
+    "guideline": {
+      "text": "A review on the cyanotic neonate and one on choanal atresia exist; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4460812/"
+    }
+  },
+  {
+    "id": "s2med-0693",
+    "category": "IM Pulmonary",
+    "q": "CHARGE syndrome per p71?",
+    "a": "Choanal atresia is part of CHARGE: Coloboma of the eye (hole in the eye), Heart defects, Atresia of the choanae, Renal defects, Genitourinary anomalies, Ear anomalies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2med-0694",
+    "category": "IM Pulmonary",
+    "q": "Congenital diaphragmatic hernia cause per p71?",
+    "a": "One of the highest-yield Peds conditions: failure of formation of the pleuroperitoneal membranes. The source says it always occurs on the left, where abdominal bowel herniates into the left chest.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=71"
+    },
+    "guideline": {
+      "text": "StatPearls on Bochdalek hernia is a reference; it is most often left-sided but not always (I did not verify this).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539767/"
+    }
+  },
+  {
+    "id": "s2med-0695",
+    "category": "IM Pulmonary",
+    "q": "Findings in CDH per p71 (figure)?",
+    "a": "Decreased bowel sounds in the abdomen and increased bowel sounds in the left hemithorax. CXR can show cystic-appearing areas in the left hemithorax (loops of bowel).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 71,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=71"
+    },
+    "img": "/mehlman/figures/med-p071-02.jpg",
+    "imgAlt": "Source figure p71: neonatal chest X-ray with bowel loops in the left chest",
+    "guideline": {
+      "text": "A review of congenital diaphragmatic hernia exists; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5029975/"
+    }
   }
 ];

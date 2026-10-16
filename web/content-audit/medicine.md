@@ -308,3 +308,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures). Page ends mid-sentence on vaccine adverse effects; continues p70.
 - Conflicts: LAIV age 2-45 vs CDC 2-49; source says AstraZeneca delivers mRNA (it is a DNA vector; unverified here). Source statement about pandemic origin (lab leak) deliberately NOT carded: contested, not verifiable.
 - Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.
+
+## p70 (IM Pulmonary: COVID tail, vaccines, TEF, choanal atresia) - 10 cards, ids s2med-0682 to 0691
+- Inspected page text and figure (TEF diagram). Starts mid-sentence from p69. Skipped the political vaccination-mandate sentence (non-medical).
+- Conflicts: pneumococcal vaccine schedules are outdated vs current CDC; LAIV age 2-45 vs 2-49. Unverified: CDC page texts.
+
+## p71 (IM Pulmonary: choanal atresia, CDH) - 4 cards, ids s2med-0692 to 0695
+- Inspected page text and two figures (choanal atresia diagram; CDH CXR). End of the Pulmonary section.
+- Unverified: "always on the left" for CDH.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
