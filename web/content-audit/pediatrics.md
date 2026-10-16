@@ -683,3 +683,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: "mitochondrial disorders are maternally inherited only" - GeneReviews notes over 1,000 nuclear genes encode mitochondrial proteins and nuclear-gene disorders can be autosomal recessive.
 - Left un-noted or flagged unverified: early frontal balding, hypotonia/ear/eye/lactic acidosis tetrad as a rule, ragged red fibers, MCTD in children, thyroglossal swallowing/tongue movement and technetium uptake, "half of Qs" claim, branchial cleft opening to skin.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p141 (peds biochem: glycogen and lysosomal storage diseases) - 15 cards, ids s2peds-2111 to 2125
+- Inspected page pixels. No figures (tables).
+- Notes verified against StatPearls: GSD I, II, III (GeneReviews), V, I-cell/protein targeting, Gaucher, Tay-Sachs, Niemann-Pick, MLD, Krabbe, Fabry.
+- Source conflict, source answer kept with caution note: Pompe listed as "debranching alpha-1,4-glucosidase" - it is lysosomal acid alpha-glucosidase; debranching deficiency is type III.
+- Left un-noted or flagged unverified: jaundice in von Gierke, "no lactic acidosis" in Cori, normal lactate in McArdle, Hunter XR, I-cell clinical features, crumpled tissue paper wording, "Niemann-Pick long name" mnemonic.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

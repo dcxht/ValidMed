@@ -30073,5 +30073,222 @@ export default [
       "text": "StatPearls: branchial cleft anomalies can be cysts (no connection to skin or pharynx), sinuses or fistulae.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK482467/"
     }
+  },
+  {
+    "id": "s2peds-2111",
+    "category": "Peds biochem",
+    "q": "What does p141 say about memorizing enzyme deficiencies for the 2CK Peds shelf?",
+    "a": "You do not need to memorize the specific enzyme deficiencies. You need to know how the conditions present and how to diagnose them. The enzyme names are listed for context.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2peds-2112",
+    "category": "Glycogen storage diseases",
+    "q": "What is the inheritance of the glycogen storage diseases on p141?",
+    "a": "All autosomal recessive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: GSD I, II, III and V are each autosomal recessive.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534196/"
+    }
+  },
+  {
+    "id": "s2peds-2113",
+    "category": "Glycogen storage diseases",
+    "q": "What is the enzyme deficiency and HY presentation of type I (von Gierke) per p141?",
+    "a": "Glucose-6-phosphatase. Lactic acidosis, hypoglycemia, jaundice, hepatomegaly: the super sick kid with glycogen storage disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: severe fasting hypoglycemia, hyperlipidemia, lactic acidosis and hepatomegaly. I did not verify jaundice.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534196/"
+    }
+  },
+  {
+    "id": "s2peds-2114",
+    "category": "Glycogen storage diseases",
+    "q": "What is type II (Pompe) per p141 and when is it the answer?",
+    "a": "Cardiomyopathy and hepatomegaly. It is the answer if they say anything about the heart in the context of glycogen storage disease. p141 lists the enzyme as debranching alpha-1,4-glucosidase (lysosomal acid maltase).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls describes Pompe as a lysosomal glycogen breakdown defect (acid alpha-glucosidase, acid maltase) with hypertrophic cardiomyopathy in the infantile form, not a debranching enzyme defect. Debranching enzyme deficiency is type III. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470558/"
+    }
+  },
+  {
+    "id": "s2peds-2115",
+    "category": "Glycogen storage diseases",
+    "q": "What is type III (Cori) per p141, and how does it differ from von Gierke?",
+    "a": "Debranching alpha-1,6-glucosidase deficiency. No lactic acidosis, in contrast to von Gierke: the not so sick kid with glycogen storage disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls (GeneReviews): hepatomegaly, failure to thrive and fasting ketotic hypoglycemia; autosomal recessive. I did not verify the absence of lactic acidosis.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK26372/"
+    }
+  },
+  {
+    "id": "s2peds-2116",
+    "category": "Glycogen storage diseases",
+    "q": "What is type V (McArdle) per p141?",
+    "a": "Myophosphorylase (glycogen muscle phosphorylase) deficiency. Usually adolescent or adult, with severe cramping/rhabdo after intense exercise but normal serum lactate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: exercise intolerance, muscle cramps and weakness, typically presenting in childhood or adolescence with adult-onset cases. I did not verify normal lactate.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560785/"
+    }
+  },
+  {
+    "id": "s2peds-2117",
+    "category": "Lysosomal storage diseases",
+    "q": "What is the inheritance of the lysosomal storage diseases on p141?",
+    "a": "All AR except Fabry and Hunter, which are XR.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: Fabry disease follows an X-linked inheritance pattern. I did not verify Hunter here.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK435996/"
+    }
+  },
+  {
+    "id": "s2peds-2118",
+    "category": "Lysosomal storage diseases",
+    "q": "What causes I-cell disease per p141?",
+    "a": "N-acetylglucosamine-1-phosphotransferase deficiency: it cannot synthesize mannose-6-phosphate at the Golgi, which targets enzymes to lysosomes. Lysosomal enzymes are instead secreted into the cytosol and serum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: GlcNAc-1-phosphotransferase marks over 70 lysosomal enzymes with M6P for lysosome transport.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK576370/"
+    }
+  },
+  {
+    "id": "s2peds-2119",
+    "category": "Lysosomal storage diseases",
+    "q": "What clinical features of I-cell disease does p141 list?",
+    "a": "Coarse facial features, joint contractures, hepatomegaly and recurrent ear infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    }
+  },
+  {
+    "id": "s2peds-2120",
+    "category": "Lysosomal storage diseases",
+    "q": "What are the HY points of Gaucher disease per p141?",
+    "a": "Glucocerebrosidase deficiency, glucocerebroside buildup. Avascular necrosis of the hip, crumpled tissue paper (lipid-laden) macrophages, and the answer for lysosomal storage disease plus a bone problem.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: glucocerebroside accumulation, with hepatosplenomegaly, pancytopenia, osteoporosis and avascular necrosis. I did not verify the crumpled tissue paper wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448080/"
+    }
+  },
+  {
+    "id": "s2peds-2121",
+    "category": "Lysosomal storage diseases",
+    "q": "What are the HY points of Tay-Sachs per p141?",
+    "a": "Hexosaminidase A deficiency, GM2 ganglioside buildup. Cherry red spot on the macula, no hepatosplenomegaly, neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: hexosaminidase-A deficiency with GM2 ganglioside accumulation, cherry-red spot, neurodegeneration.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK564432/"
+    }
+  },
+  {
+    "id": "s2peds-2122",
+    "category": "Lysosomal storage diseases",
+    "q": "What are the HY points of Niemann-Pick per p141, and how does it differ from Tay-Sachs?",
+    "a": "Sphingomyelinase deficiency, sphingomyelin buildup. Cherry red spot, yes hepatosplenomegaly, neurodegeneration. p141 mnemonic: Niemann-Pick is the longer name, and hepatosplenomegaly is a long word.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: acid sphingomyelinase deficiency, lipid-laden macrophages causing hepatosplenomegaly, cytopenias and neurologic symptoms.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556129/"
+    }
+  },
+  {
+    "id": "s2peds-2123",
+    "category": "Lysosomal storage diseases",
+    "q": "What is metachromatic leukodystrophy per p141?",
+    "a": "Arylsulfatase A deficiency, cerebroside sulfate buildup, with progressive neurologic decline.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: deficient arylsulfatase A, autosomal recessive demyelinating leukodystrophy.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560744/"
+    }
+  },
+  {
+    "id": "s2peds-2124",
+    "category": "Lysosomal storage diseases",
+    "q": "What is Krabbe disease per p141?",
+    "a": "Galactocerebrosidase deficiency (galactocerebroside, psychosine buildup), aka globoid cell leukodystrophy, with giant multinucleated globoid cells and neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: galactocerebrosidase deficiency; multinucleated globoid cells; psychosine is cytotoxic.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562315/"
+    }
+  },
+  {
+    "id": "s2peds-2125",
+    "category": "Lysosomal storage diseases",
+    "q": "What are the HY points of Fabry disease per p141?",
+    "a": "X-linked, alpha-galactosidase A deficiency, ceramide trihexoside buildup. Angiokeratomas (small red/purple skin dots from capillary dilation) and heart and/or renal problems.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 141,
+      "url": "/mehlman/hy-pediatrics.pdf#page=141"
+    },
+    "guideline": {
+      "text": "StatPearls: X-linked; angiokeratomas, acroparesthesia, renal dysfunction progressing to end-stage renal disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK435996/"
+    }
   }
 ];
