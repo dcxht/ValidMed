@@ -326,3 +326,16 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (peritonsillar abscess diagram).
 - Source calls cholesteatoma "idiopathic" (acquired forms linked to chronic ear disease). Unverified: vascular ring neck extension.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p74 (IM Pulmonary: Centor, ventilator pearls) - 11 cards, ids s2med-0714 to 0724
+- Inspected page text (no figures).
+- Source heuristics kept: "increase PEEP 4 of 5 times" (exam heuristic, not clinical rule); presumptive amoxicillin while awaiting culture; IDSA does not advise score-only treatment. Unverified: guideline texts.
+
+## p75 (IM Pulmonary: ventilator tail, drug points) - 14 cards, ids s2med-0725 to 0738
+- Inspected page text (no figures).
+- Unverified: bosentan/endothelin cut, euthyroid sick text, drug review texts.
+
+## p76 (IM Pulmonary: drug points tail) - 5 cards, ids s2med-0739 to 0743
+- Inspected page text (no figures). End of the Pulmonary section (next: Renal p77).
+- Source calls dornase alfa a "nucleotidase" (it is DNase); ivacaftor stated as in source.
+- Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.

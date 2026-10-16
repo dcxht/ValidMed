@@ -9313,5 +9313,383 @@ export default [
       "text": "StatPearls on tracheomalacia is a reference; I did not verify the text.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK553191/"
     }
+  },
+  {
+    "id": "s2med-0714",
+    "category": "IM Pulmonary",
+    "q": "Centor criteria per p74?",
+    "a": "Exceedingly HY for IM. 1 point each: absence of cough; fever >38 C; tonsillar exudates; lymphadenopathy (cervical, submandibular). 0-1 points: unlikely bacterial (viral); 2-4: much greater chance of bacterial. Use the simplified four points; the age-inclusive version can cause wrong answers on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    },
+    "guideline": {
+      "text": "The 2012 IDSA group A Strep pharyngitis guideline is a reference; I did not verify its text. IDSA does not endorse treating on score alone; testing is advised.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108032/"
+    }
+  },
+  {
+    "id": "s2med-0715",
+    "category": "IM Pulmonary",
+    "q": "Management with Centor 0-1 per p74?",
+    "a": "'Supportive care', 'no treatment necessary', 'warm saline gargle' or 'acetaminophen' (the answer for a 3-year-old with viral URTI + fever on an NBME form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2med-0716",
+    "category": "IM Pulmonary",
+    "q": "Management with Centor 2-4 per p74?",
+    "a": "Next best step: rapid Strep test. If negative: throat culture (NOT sputum culture). While awaiting culture, send the patient home with amoxicillin or penicillin for presumptive Strep pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    },
+    "guideline": {
+      "text": "IDSA 2012 generally says a negative rapid test in children should be followed by culture; presumptive treatment while waiting is the source's rule. I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108032/"
+    }
+  },
+  {
+    "id": "s2med-0717",
+    "category": "IM Pulmonary",
+    "q": "Rash after beta-lactam in a 12-year-old per p74?",
+    "a": "Beta-lactam allergy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2med-0718",
+    "category": "IM Pulmonary",
+    "q": "Rash after beta-lactam in a 16-17-year-old who has been dating per p74?",
+    "a": "EBV mononucleosis; do a heterophile antibody (Monospot) test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    },
+    "guideline": {
+      "text": "A systematic review of rash with antibiotics in infectious mononucleosis exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40512251/"
+    }
+  },
+  {
+    "id": "s2med-0719",
+    "category": "IM Pulmonary",
+    "q": "Why EBV looks like Strep per p74?",
+    "a": "EBV is the odd virus out that usually shows all four Centor criteria and mimics bacterial infection, so it is often misdiagnosed as Strep pharyngitis. Beta-lactams in EBV may cause a rash by hypersensitivity (antibody production to the virus). Without antibiotics, EBV causes a mild maculopapular rash; with a beta-lactam, a more intense pruritic rash about 7-10 days later on extensor surfaces and pressure points.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2med-0720",
+    "category": "IM Pulmonary",
+    "q": "Ventilator settings question per p74?",
+    "a": "Source: increasing PEEP is probably the answer 4 of 5 times, even after a long rambling stem. PEEP keeps the alveoli open longer and facilitates gas exchange.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    },
+    "guideline": {
+      "text": "A narrative review on setting optimal PEEP exists; this is the source's exam heuristic, not a clinical rule. I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395088/"
+    }
+  },
+  {
+    "id": "s2med-0721",
+    "category": "IM Pulmonary",
+    "q": "General aims on a ventilator per p74?",
+    "a": "Keep FiO2 as low as possible (high O2 causes free radical damage); tidal volume low/normal (about 400-500 mL; high volumes cause barotrauma); increase PEEP if that allows lower FiO2 and tidal volume.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2med-0722",
+    "category": "IM Pulmonary",
+    "q": "Ventilator caveat per p74?",
+    "a": "If the patient has arterial pO2 of 40 mm Hg (normal 80-100) with FiO2 100% and tidal volume 1000 mL, the answer is still 'increase PEEP': lowering FiO2 and volume would worsen the very low pO2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2med-0723",
+    "category": "IM Pulmonary",
+    "q": "ARDS ventilation triad per p74?",
+    "a": "Prone positioning, low-tidal-volume ventilation and permissive hypercapnia (see p62).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2med-0724",
+    "category": "IM Pulmonary",
+    "q": "CO2 and cerebral perfusion per p74-75?",
+    "a": "Decreased CO2 decreases cerebral perfusion (why patients faint in panic attacks, asked on NBME). First step in managing increased intracranial pressure: 'intubation + hyperventilation'. The inverse: to increase cerebral perfusion (anesthesiologist), decrease respiratory rate, which increases CO2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 74,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=74"
+    },
+    "guideline": {
+      "text": "A review of intracranial hypertension management in the ICU is a reference; I did not verify its text. Hyperventilation is generally a temporary measure.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7241587/"
+    }
+  },
+  {
+    "id": "s2med-0725",
+    "category": "IM Pulmonary",
+    "q": "VAP treatment per p75?",
+    "a": "Vancomycin PLUS ceftazidime or cefepime. Vancomycin covers MRSA and some high-resistance S. pneumo; ceftazidime (3rd generation) and cefepime (4th) cover Pseudomonas, a HY nosocomial VAP organism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "The 2016 IDSA/ATS HAP/VAP guideline is the reference (see p64); I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4981759/"
+    }
+  },
+  {
+    "id": "s2med-0726",
+    "category": "IM Pulmonary",
+    "q": "Euthyroid sick syndrome on a ventilator per p75?",
+    "a": "Cannot be weaned from the ventilator with decreased T3 and normal TSH: euthyroid sick syndrome. Arrows: decreased T3, increased rT3, normal T4, normal TSH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "A review of non-thyroidal illness syndrome exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8285315/"
+    }
+  },
+  {
+    "id": "s2med-0727",
+    "category": "IM Pulmonary",
+    "q": "High CO2 per p75?",
+    "a": "Answer can be 'ventilatory insufficiency' (normal CO2 33-44 mm Hg), on or off a ventilator. Do not be confused by an increased RR; a new NBME form gives RR 40 with high CO2 (shallow breathing despite fast RR).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0728",
+    "category": "IM Pulmonary",
+    "q": "Bosentan per p75?",
+    "a": "Endothelin-1 receptor antagonist for pulmonary hypertension. Endothelin is a vasoconstrictor increased in pulmonary hypertension. An NBME question about a shaving cut asks what is seen at the injury: increased endothelin (it is a vasoconstrictive mediator not isolated to the lungs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "A review of bosentan in PAH is a reference; I did not verify the details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2350123/"
+    }
+  },
+  {
+    "id": "s2med-0729",
+    "category": "IM Pulmonary",
+    "q": "Methotrexate per p75?",
+    "a": "Dihydrofolate reductase inhibitor; first-line DMARD for RA and first-line oral agent for psoriasis failing topicals. Causes pulmonary fibrosis, hepatotoxicity and neutropenia. Toxicity mitigated with leucovorin rescue (folinic acid, not folic acid).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "A review of leucovorin rescue for high-dose methotrexate exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35929573/"
+    }
+  },
+  {
+    "id": "s2med-0730",
+    "category": "IM Pulmonary",
+    "q": "Albuterol per p75?",
+    "a": "Short-acting beta-2 agonist for asthma; can cause tremor (asked on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0731",
+    "category": "IM Pulmonary",
+    "q": "Fluticasone and beclomethasone per p75?",
+    "a": "Inhaled corticosteroids for asthma and COPD, used to prevent or decrease recurrence. No role in acute exacerbations (IV methylprednisolone is used).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0732",
+    "category": "IM Pulmonary",
+    "q": "Prednisone in asthma per p75?",
+    "a": "Most effective at decreasing recurrent attacks but a last resort because oral steroids can cause Cushing syndrome and growth stunting.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0733",
+    "category": "IM Pulmonary",
+    "q": "Montelukast and zafirlukast per p75?",
+    "a": "Leukotriene receptor antagonists (LTC4, D4, E4), which decrease airway constriction. LTB4 is a neutrophil chemotactic molecule (LTB4, IL-8 and C5a are HY chemotactic molecules). Used in aspirin-induced asthma, or in general between a LABA and prednisone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "A randomized trial of montelukast in aspirin-intolerant asthma exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11779723/"
+    }
+  },
+  {
+    "id": "s2med-0734",
+    "category": "IM Pulmonary",
+    "q": "Zileuton per p75?",
+    "a": "Lipoxygenase inhibitor that blocks leukotriene synthesis; same use-case as the -lukasts.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    },
+    "guideline": {
+      "text": "StatPearls on zileuton is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448202/"
+    }
+  },
+  {
+    "id": "s2med-0735",
+    "category": "IM Pulmonary",
+    "q": "Nedocromil and cromolyn per p75?",
+    "a": "Mast cell stabilizers for asthma; prevent histamine release.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0736",
+    "category": "IM Pulmonary",
+    "q": "Tiotropium and olodaterol per p75?",
+    "a": "Tiotropium: LAMA, first-line for COPD. Olodaterol: LABA, first-line for COPD. Either a LAMA or LABA can be used first-line.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0737",
+    "category": "IM Pulmonary",
+    "q": "Ipratropium per p75?",
+    "a": "Short-acting muscarinic antagonist (SAMA) for COPD; not first-line anymore, but still on 2CK material and used by some practitioners.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0738",
+    "category": "IM Pulmonary",
+    "q": "Epoprostenol and sildenafil per p75?",
+    "a": "Epoprostenol: PGI2 prostacyclin for pulmonary hypertension. Sildenafil: PDE-5 inhibitor (Viagra) also used for pulmonary hypertension.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 75,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2med-0739",
+    "category": "IM Pulmonary",
+    "q": "Nifedipine per p76?",
+    "a": "Dihydropyridine calcium channel blocker that can be used for pulmonary hypertension; can cause peripheral edema/fluid retention.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2med-0740",
+    "category": "IM Pulmonary",
+    "q": "Omalizumab per p76?",
+    "a": "Monoclonal antibody against IgE; in theory for severe asthmatics with high IgE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2med-0741",
+    "category": "IM Pulmonary",
+    "q": "Dornase alfa and guaifenesin per p76?",
+    "a": "Dornase alfa breaks down airway mucus in CF (the source says 'nucleotidase'); guaifenesin is a mucolytic that softens mucus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=76"
+    },
+    "guideline": {
+      "text": "Dornase alfa is recombinant human DNase I; a review of dornase alfa for CF exists. I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33735508/"
+    }
+  },
+  {
+    "id": "s2med-0742",
+    "category": "IM Pulmonary",
+    "q": "Ivacaftor per p76?",
+    "a": "Helps localize the CFTR channel to the membrane and correct its folding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2med-0743",
+    "category": "IM Pulmonary",
+    "q": "Pirfenidone per p76?",
+    "a": "Used for idiopathic pulmonary fibrosis; anti-fibrotic that inhibits TGF-beta-mediated collagen synthesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 76,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=76"
+    }
   }
 ];
