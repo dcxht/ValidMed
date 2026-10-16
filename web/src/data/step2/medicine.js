@@ -39759,5 +39759,322 @@ export default [
       "text": "A review of papilledema and elevated ICP is linked; I did not verify the wording.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9187153/"
     }
+  },
+  {
+    "id": "s2med-2986",
+    "category": "IM Ophthal",
+    "q": "Anterior uveitis per p305?",
+    "a": "WBCs in the anterior chamber, sometimes seen in flares of autoimmune diseases, especially sarcoidosis and ankylosing spondylitis. USMLE might give a sarcoidosis patient and ask about follow-up: 'slit-lamp examination' to check for anterior uveitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "guideline": {
+      "text": "A review of uveitis in spondyloarthritis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7488890/"
+    }
+  },
+  {
+    "id": "s2med-2987",
+    "category": "IM Ophthal",
+    "q": "Keratoconjunctivitis sicca per p305?",
+    "a": "Dry eye (xerophthalmia) from decreased tear production. Classically autoimmune, stand-alone or part of Sjogren syndrome; the latter adds dry mouth (xerostomia) and systemic findings such as arthritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "guideline": {
+      "text": "A paper on diagnosing Sjogren syndrome in dry eye patients is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4699514/"
+    }
+  },
+  {
+    "id": "s2med-2988",
+    "category": "IM Ophthal",
+    "q": "Dermatomyositis eyes per p305?",
+    "a": "Causes a heliotrope rash (violaceous eyelids); don't confuse with the malar rash of lupus. The source adds that violaceous eyelids can also be seen in neuroblastoma in peds, unrelated, because it showed up on an NBME form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "img": "/mehlman/figures/med-p305-01.jpg",
+    "imgAlt": "Source figure: violaceous eyelid of dermatomyositis (heliotrope rash)",
+    "guideline": {
+      "text": "A StatPearls page on dermatomyositis is linked (title only); I did not verify the neuroblastoma claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558917/"
+    }
+  },
+  {
+    "id": "s2med-2989",
+    "category": "IM Ophthal",
+    "q": "Leber hereditary optic neuropathy per p305?",
+    "a": "USMLE wants mitochondrial disorders, e.g., LHON, to present as a triad of eye/ear problems, hypotonia, and lactic acidosis (low bicarb, metabolic acidosis). Heteroplasmy is variability of phenotype severity across offspring.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "guideline": {
+      "text": "A paper on heteroplasmy in LHON is linked; I did not verify the wording. I did not verify the triad.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8240102/"
+    }
+  },
+  {
+    "id": "s2med-2990",
+    "category": "IM Ophthal",
+    "q": "Other mitochondrial disorders per p305?",
+    "a": "MELAS (Mitochondrial Encephalopathy, Lactic Acidosis, and Stroke-like episodes) and MERRF (Myoclonic epilepsy with ragged red fibers).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "guideline": {
+      "text": "A GeneReviews table of mtDNA syndromes is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1224/table/mt-overview.T.clinical_syndromes_of_mtdn/"
+    }
+  },
+  {
+    "id": "s2med-2991",
+    "category": "IM Ophthal",
+    "q": "Osteogenesis imperfecta per p305?",
+    "a": "Collagen I mutation. Can cause the very buzzy blue sclerae.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "img": "/mehlman/figures/med-p305-02.jpg",
+    "imgAlt": "Source figure: blue sclerae",
+    "guideline": {
+      "text": "A systematic review of ocular findings in OI is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9290710/"
+    }
+  },
+  {
+    "id": "s2med-2992",
+    "category": "IM Ophthal",
+    "q": "Alport syndrome per p305?",
+    "a": "Mutation in type IV collagen; the source says X-linked recessive. The USMLE answer for eye and/or ear problem plus red urine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "guideline": {
+      "text": "A report on Alport syndrome is linked (title only). Caution: Alport can also be autosomal; I did not verify the inheritance statement. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12995486/"
+    }
+  },
+  {
+    "id": "s2med-2993",
+    "category": "IM Ophthal",
+    "q": "Marfan syndrome eye per p305?",
+    "a": "Can cause lens dislocations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "guideline": {
+      "text": "A review of Marfan syndrome in the eye clinic is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10032431/"
+    }
+  },
+  {
+    "id": "s2med-2994",
+    "category": "IM Ophthal",
+    "q": "Homocystinuria eye per p305?",
+    "a": "Can cause lens dislocations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 305,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=305"
+    },
+    "guideline": {
+      "text": "A review of homocystinuria ocular complications is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9426183/"
+    }
+  },
+  {
+    "id": "s2med-2995",
+    "category": "IM Ophthal",
+    "q": "Ophthalmia neonatorum per p306?",
+    "a": "Neonatal conjunctivitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    }
+  },
+  {
+    "id": "s2med-2996",
+    "category": "IM Ophthal",
+    "q": "Chlamydial ophthalmia neonatorum per p306?",
+    "a": "Caused by C. trachomatis D-K. Usually presents more than 1 week after birth and can lead to pneumonia with a lymphocytic shift, since chlamydia is obligate intracellular and drains through the nasolacrimal duct to the lungs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "A meta-analysis on neonatal chlamydial conjunctivitis treatment is linked; I did not verify the wording. I did not verify the lymphocytic shift.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6097578/"
+    }
+  },
+  {
+    "id": "s2med-2997",
+    "category": "IM Ophthal",
+    "q": "Chlamydial ophthalmia Tx per p306?",
+    "a": "Prophylaxis is treating the mother during pregnancy if she has chlamydia. Treatment in the neonate with conjunctivitis is oral erythromycin. NBME: wheezes, crackles and fever in a 3-week-old previously treated with topical erythromycin; topical does not cover organisms already in the nasolacrimal duct.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "The meta-analysis is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6097578/"
+    }
+  },
+  {
+    "id": "s2med-2998",
+    "category": "IM Ophthal",
+    "q": "Gonococcal conjunctivitis per p306?",
+    "a": "Presents in the first week of life with yellow discharge from the eye(s). The source says if the vignette is chlamydial, it will always tie to subsequent pneumonia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "A StatPearls page on gonococcal conjunctivitis is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459289/"
+    }
+  },
+  {
+    "id": "s2med-2999",
+    "category": "IM Ophthal",
+    "q": "Gonococcal conjunctivitis prophylaxis and Tx per p306?",
+    "a": "Prophylaxis is erythromycin ointment; treatment is IM third-generation cephalosporin (usually cefotaxime in peds).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "The same StatPearls page is linked on the previous card.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459289/"
+    }
+  },
+  {
+    "id": "s2med-3000",
+    "category": "IM Ophthal",
+    "q": "Chemical conjunctivitis per p306?",
+    "a": "Classically due to silver nitrate eyedrops once given to neonates for gonococcal prophylaxis; replaced by erythromycin ointment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "A paper on silver nitrate and chemical conjunctivitis is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/808790/"
+    }
+  },
+  {
+    "id": "s2med-3001",
+    "category": "IM Ophthal",
+    "q": "Viral conjunctivitis per p306?",
+    "a": "Teary eye, unilateral or bilateral, itchy or not (variable on USMLE). Most likely diagnosis in school-age kids and adults; caused by adenovirus (a DNA virus). Treatment is supportive with saline rinse.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "An update on viral conjunctivitis treatment is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12388293/"
+    }
+  },
+  {
+    "id": "s2med-3002",
+    "category": "IM Ophthal",
+    "q": "Allergic conjunctivitis per p306?",
+    "a": "'Cobblestoning' of the tarsal conjunctiva is buzzy. Likewise cobblestoning of the nasal mucosa for allergic rhinitis. It need not be bilateral or itchy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "guideline": {
+      "text": "A StatPearls page on allergic conjunctivitis is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448118/"
+    }
+  },
+  {
+    "id": "s2med-3003",
+    "category": "IM Ophthal",
+    "q": "Herpes keratitis per p306?",
+    "a": "Keratitis is inflammation of the cornea. HSV1/2 can cause a dendritic (tree-like) pattern on fluorescein instillation (continues on p307).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 306,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=306"
+    },
+    "img": "/mehlman/figures/med-p306-01.jpg",
+    "imgAlt": "Source figure: dendritic fluorescein pattern of herpes keratitis",
+    "guideline": {
+      "text": "A StatPearls page on herpes simplex keratitis is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545278/"
+    }
+  },
+  {
+    "id": "s2med-3004",
+    "category": "IM Ophthal",
+    "q": "Herpes keratitis Tx per p307?",
+    "a": "May or may not cause vesicles around the eye. Treat with topical acyclovir/valacyclovir.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=307"
+    },
+    "guideline": {
+      "text": "The herpes simplex keratitis page is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545278/"
+    }
+  },
+  {
+    "id": "s2med-3005",
+    "category": "IM Ophthal",
+    "q": "Herpes zoster ophthalmicus per p307?",
+    "a": "VZV (HHV-3) can cause shingles of the eye. Keratitis with a similar dendritic pattern to HSV 1/2. May or may not cause vesicles around the eye. Tx with topical acyclovir/valacyclovir.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=307"
+    },
+    "guideline": {
+      "text": "A paper on initial management of herpes zoster ophthalmicus is linked (title only); I did not verify the topical route. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10517067/"
+    }
+  },
+  {
+    "id": "s2med-3006",
+    "category": "IM Ophthal",
+    "q": "CMV retinitis per p307?",
+    "a": "The answer for blurry vision in a severely immunocompromised patient (usually AIDS). You don't need to know the fundoscopy. Treat with ganciclovir.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 307,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=307"
+    },
+    "guideline": {
+      "text": "A review of CMV retinitis management in AIDS is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2861935/"
+    }
   }
 ];

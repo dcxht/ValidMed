@@ -1033,3 +1033,16 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - NF2 cataract link not verified.
 ## p304 (pterygium figure, pinguecula, papilledema; figures) - 3 cards, ids s2med-2983 to 2985
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p305 (autoimmune eye, hereditary) - 9 cards, ids s2med-2986 to 2994
+- LHON "triad" of eye/ear, hypotonia, lactic acidosis is questionable (LHON is optic neuropathy; triad resembles other mitochondrial syndromes). Source answer kept with caution note.
+- Alport inheritance "X-linked recessive" only; can be autosomal. Note added.
+- Neuroblastoma violaceous eyelid claim unverified.
+
+## p306 (ophthalmia neonatorum, conjunctivitis) - 9 cards, ids s2med-2995 to 3003
+- Erythromycin ointment as gonococcal prophylaxis kept as source; current guidance varies.
+- Lymphocytic shift claim unverified.
+
+## p307 (herpes keratitis, HZO, CMV retinitis) - 3 cards, ids s2med-3004 to 3006
+- HZO topical antiviral treatment kept as source; note says not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
