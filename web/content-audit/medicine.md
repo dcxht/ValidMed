@@ -420,3 +420,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figure med-p094-01 inspected (scarred kidney).
 - Conflict: fluoroquinolone first-line; source observations (bacteria few, ceftriaxone HY) unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p95 (IM Renal: cystitis, IC, UTI, stress incontinence) - 10 cards, ids s2med-0888 to 0897
+- Page text inspected, no figures. Page ends mid-Kegel bullet; continues p96.
+- Conflict: interstitial cystitis "don't treat" vs 2022 AUA stepwise treatment. Unverified: nitrofurantoin/prophylaxis current guidance.
+
+## p96 (IM Renal: urge/overflow incontinence, NPH, AIDS dementia) - 11 cards, ids s2med-0898 to 0908
+- Page text inspected, no figures.
+- Unverified: mirabegron guidance, zona radiata wording, "1/3 of urge vignettes are MS".
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.

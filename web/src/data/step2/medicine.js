@@ -11641,5 +11641,284 @@ export default [
       "page": 94,
       "url": "/mehlman/hy-internal-medicine.pdf#page=94"
     }
+  },
+  {
+    "id": "s2med-0888",
+    "category": "IM Renal",
+    "q": "Cystitis presentation per p95?",
+    "a": "Suprapubic tenderness in a female; she need not have fever. E. coli is the most common cause. Bacteriuria plus pyuria (bacteria and WBCs in urine); urinary nitrites and leukocyte esterase can be positive. These just reflect bacterial infection and organism-specific combinations are low-yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2med-0889",
+    "category": "IM Renal",
+    "q": "How E. coli attaches to the urothelium per p95?",
+    "a": "Fimbriae and pilus proteins facilitate E. coli attachment to the urothelium (HY for USMLE).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "A paper on uroplakin Ia as the urothelial receptor for E. coli FimH exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11739641/"
+    }
+  },
+  {
+    "id": "s2med-0890",
+    "category": "IM Renal",
+    "q": "Cystitis causes and treatment per p95?",
+    "a": "Can be caused by suprapubic catheters (on 2CK IM and Surg). Nitrofurantoin is the HY drug to treat cystitis on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "The IDSA/ESCMID cystitis guideline is linked; I did not verify drug rankings in it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21292654/"
+    }
+  },
+  {
+    "id": "s2med-0891",
+    "category": "IM Renal",
+    "q": "Chronic interstitial cystitis per p95?",
+    "a": "Not an infection. More than 6 weeks of unexplained suprapubic tenderness plus dysuria with negative laboratory and urinary findings. They can mention anterior vaginal wall pain (the bladder is anterior to the vagina). USMLE answer: you do not treat; steroids are wrong. 'Treatment' is education, self-care and physiotherapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "The 2022 AUA guideline on interstitial cystitis/bladder pain syndrome lays out a stepwise treatment approach beyond the source's 'don't treat'; I did not verify its details.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/diagnosis-and-treatment-interstitial-of-cystitis/bladder-pain-syndrome-%282022%29"
+    }
+  },
+  {
+    "id": "s2med-0892",
+    "category": "IM Renal",
+    "q": "General UTI per p95?",
+    "a": "Classically E. coli infection of the urethra; common in women due to shorter urethras. Fimbriae and pili help attachment. Most common mechanism is inoculation after sexual activity. Can be caused by catheters: dysuria plus history of catheter = UTI (also HY in general sepsis with an IV line or catheter history).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2med-0893",
+    "category": "IM Renal",
+    "q": "UTI treatment per p95?",
+    "a": "Trimethoprim, TMP/SMX or nitrofurantoin are standard treatments for UTI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "I did not verify current resistance-based guidance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21292654/"
+    }
+  },
+  {
+    "id": "s2med-0894",
+    "category": "IM Renal",
+    "q": "Preventing recurrent UTI per p95?",
+    "a": "Post-coital voiding lowers recurrence risk. If it fails, 'post-coital nitrofurantoin therapy' is the 2CK NBME answer. If that fails, 'daily TMP/SMX prophylaxis' (a couple of 2CK assessments, including a girl treated successfully with TMP/SMX before, jump straight to it).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "The 2025 AUA/CUA/SUFU guideline on recurrent uncomplicated UTI exists; I did not verify its prophylaxis recommendations.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti"
+    }
+  },
+  {
+    "id": "s2med-0895",
+    "category": "IM Renal",
+    "q": "Dysuria persists after UTI treatment per p95?",
+    "a": "Next best step is testing for Chlamydia and Gonorrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "A mini-review of urethritis pathogens exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9459106/"
+    }
+  },
+  {
+    "id": "s2med-0896",
+    "category": "IM Renal",
+    "q": "Stress incontinence per p95?",
+    "a": "Loss of urine with increased intra-abdominal pressure from laughing, sneezing, coughing. Stereotypical risk factor is grand multiparity (weakened pelvic floor). Only about 50% of questions mention pregnancy; the rest are idiopathic. Buzzy descriptors: 'downward mobility of the vesicourethral junction', 'urethral hypermobility', 'urethral atrophy with loss of urethrovesical angle'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2med-0897",
+    "category": "IM Renal",
+    "q": "Treatment of stress incontinence per p95?",
+    "a": "Pelvic floor (Kegel) exercises, which strengthen levator ani, pubococcygeus and the external urethral sphincter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 95,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=95"
+    },
+    "guideline": {
+      "text": "A 2024 Canadian Urological Association guideline on female stress urinary incontinence exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11034962/"
+    }
+  },
+  {
+    "id": "s2med-0898",
+    "category": "IM Renal",
+    "q": "Which muscle is not strengthened by Kegel exercises per p95-96?",
+    "a": "Internal urethral sphincter. Internal sphincters are under sympathetic (involuntary, autonomic) control and cannot be strengthened by voluntary (somatic) exercise. External sphincter control is voluntary (somatic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2med-0899",
+    "category": "IM Renal",
+    "q": "Stress incontinence medications and surgery per p96?",
+    "a": "Do not give medications for stress incontinence on USMLE. If Kegel exercises fail, a mid-urethral sling (low yield; asked once).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    },
+    "guideline": {
+      "text": "The CUA guideline on stress incontinence is linked; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11034962/"
+    }
+  },
+  {
+    "id": "s2med-0900",
+    "category": "IM Renal",
+    "q": "Urge incontinence presentation per p96?",
+    "a": "An 'urge' (NBME uses the word) to void 6-12+ times daily unrelated to sneezing, coughing, laughing. Multiple sclerosis is ultra-HY: shows up as urge, never overflow in the source's experience; about 1/3 of NBME urge vignettes are MS. Others: peri-menopausal women or idiopathic in old women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    },
+    "guideline": {
+      "text": "A review of urological disorders in MS exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7332813/"
+    }
+  },
+  {
+    "id": "s2med-0901",
+    "category": "IM Renal",
+    "q": "Mechanism of urge incontinence per p96?",
+    "a": "Detrusor hyperactivity (detrusor instability). A vignette may say she has the urge when stepping out of her car or sticking her key in the door.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2med-0902",
+    "category": "IM Renal",
+    "q": "UTI vs urge incontinence per p96?",
+    "a": "UTIs can transiently cause urgency but are not a cause of urge incontinence. Example: history of urinary catheter with dysuria and urinary urgency, answer = urinary tract infection; 'detrusor hyperactivity' is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2med-0903",
+    "category": "IM Renal",
+    "q": "Treatment of urge incontinence per p96?",
+    "a": "Oxybutynin (muscarinic receptor antagonist), which decreases detrusor activity. The source has never seen mirabegron (beta-3 agonist) assessed on NBME forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2med-0904",
+    "category": "IM Renal",
+    "q": "Overflow incontinence per p96?",
+    "a": "Due to BPH or diabetes on USMLE. Increased post-void volume (normal under about 50 mL; overflow vignettes give 300-400 mL).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2med-0905",
+    "category": "IM Renal",
+    "q": "Old man with high creatinine and BPH per p96?",
+    "a": "Post-renal azotemia. Next best step is insertion of a catheter to relieve obstruction (if not listed, measurement of post-void volume). Then treat BPH with finasteride (5-alpha-reductase inhibitor) or an alpha-1 blocker (tamsulosin, terazosin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2med-0906",
+    "category": "IM Renal",
+    "q": "Diabetic overflow incontinence per p96?",
+    "a": "Neuropathy of the bladder causing 'neurogenic bladder' (hypotonic or hypocontractile bladder/detrusor). USMLE first wants 'measure post-void volume' and 'insertion of catheter' before medications. Treat with bethanechol (muscarinic agonist), which stimulates the detrusor muscle. Do not confuse oxybutynin with bethanechol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    },
+    "guideline": {
+      "text": "StatPearls on bethanechol is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560587/"
+    }
+  },
+  {
+    "id": "s2med-0907",
+    "category": "IM Renal",
+    "q": "Normal pressure hydrocephalus per p96?",
+    "a": "'Wet, wobbly, wacky': urinary incontinence, ataxia, cognitive changes, with or without Parkinsonism (short-steppage gait). Caused by failure of reabsorption of CSF by the arachnoid granulations, impinging on the zona radiata and 'failure to inhibit the voiding reflex' (NBME answer). Head CT: enlarged lateral ventricles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    },
+    "guideline": {
+      "text": "A guideline on idiopathic NPH exists; I did not verify the zona radiata wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7905302/"
+    }
+  },
+  {
+    "id": "s2med-0908",
+    "category": "IM Renal",
+    "q": "AIDS dementia complex per p96?",
+    "a": "Presents similarly to NPH: 'wet, wobbly, wacky' in an AIDS patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 96,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=96"
+    },
+    "guideline": {
+      "text": "A paper on HIV-associated dementia assessment exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9966987/"
+    }
   }
 ];
