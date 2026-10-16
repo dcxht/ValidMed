@@ -1236,3 +1236,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p358 (RAAS, aldosterone, AT II start) - 10 cards, ids s2med-3589 to 3598
 - JGCs "of the PCT" wording: source, flagged unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p359 (AT II roles, cortisol, RAS start) - 11 cards, ids s2med-3599 to 3609
+
+## p360 (RAS, FMD, PAN) - 8 cards, ids s2med-3610 to 3617
+- Figure med-p360-01.jpg (beaded renal artery angiogram) captioned neutrally; source does not caption it in text.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.

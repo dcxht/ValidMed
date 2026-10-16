@@ -48238,5 +48238,252 @@ export default [
       "page": 358,
       "url": "/mehlman/hy-internal-medicine.pdf#page=358"
     }
+  },
+  {
+    "id": "s2med-3599",
+    "category": "IM Endocrine",
+    "q": "AT II and the efferent arteriole per p359 (continued from p358)?",
+    "a": "Efferent constriction causes hydrostatic pressure backup at the glomerulus, maintaining GFR when renal perfusion falls; this means increased filtration fraction (FF = GFR/renal perfusion). It acts like squeezing the hose to keep the same filtration despite lower renal blood flow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    },
+    "guideline": {
+      "text": "A paper on angiotensin II and preferential efferent constriction is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3037655/"
+    }
+  },
+  {
+    "id": "s2med-3600",
+    "category": "IM Endocrine",
+    "q": "AT II and peripheral arterioles per p359?",
+    "a": "Constricts peripheral arterioles, helping maintain basal blood pressure. ACE inhibitors (lisinopril) or ARBs (valsartan) lower afterload by relieving this constriction, which raises ejection fraction. With their ability to reduce cardiac remodeling, this is why ACEi/ARBs are first-line in heart failure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    },
+    "guideline": {
+      "text": "A review of ACE inhibitors in chronic heart failure trials is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6426571/"
+    }
+  },
+  {
+    "id": "s2med-3601",
+    "category": "IM Endocrine",
+    "q": "AT II and the PCT per p359?",
+    "a": "Promotes Na+ reabsorption in the PCT, contributing to fluid retention with low renal perfusion without needing aldosterone distally. For example, in pre-renal azotemia FeNa is low due to the increased proximal Na+ reabsorption by AT II.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    },
+    "guideline": {
+      "text": "A paper on FeNa and urea in AKI is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10371381/"
+    }
+  },
+  {
+    "id": "s2med-3602",
+    "category": "IM Endocrine",
+    "q": "Where is cortisol made per p359?",
+    "a": "Zona fasciculata of the adrenal cortex.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    }
+  },
+  {
+    "id": "s2med-3603",
+    "category": "IM Endocrine",
+    "q": "Cortisol and blood pressure per p359?",
+    "a": "Maintains basal BP by increasing alpha-1 receptor expression on peripheral arterioles. Norepinephrine and epinephrine (adrenal medulla catecholamines) then bind them, causing arteriolar constriction and increased BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    }
+  },
+  {
+    "id": "s2med-3604",
+    "category": "IM Endocrine",
+    "q": "Cortisol and glucose per p359?",
+    "a": "Maintains basal blood glucose by increasing insulin resistance at peripheral tissues (physiologic if cortisol is normal) and increasing gluconeogenesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    },
+    "guideline": {
+      "text": "A review of glucocorticoids and glucose homeostasis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6185996/"
+    }
+  },
+  {
+    "id": "s2med-3605",
+    "category": "IM Endocrine",
+    "q": "Cortisol and fetal lungs per p359?",
+    "a": "For repro/obgyn, it accelerates fetal lung maturity by increasing surfactant production by lamellar bodies in type II pneumocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    },
+    "guideline": {
+      "text": "A meta-analysis of antenatal corticosteroids is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27733360"
+    }
+  },
+  {
+    "id": "s2med-3606",
+    "category": "IM Endocrine",
+    "q": "ACTH and cortisol feedback per p359?",
+    "a": "ACTH causes cortisol secretion by the zona fasciculata. Cortisol provides negative feedback at the hypothalamus and anterior pituitary, decreasing CRH and ACTH. If cortisol is low, CRH and ACTH go up.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    }
+  },
+  {
+    "id": "s2med-3607",
+    "category": "IM Endocrine",
+    "q": "POMC and Addison hyperpigmentation per p359?",
+    "a": "POMC is the precursor of ACTH and alpha-MSH. Low cortisol raises CRH, POMC, ACTH and alpha-MSH, which is why hyperpigmentation is seen in Addison disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    },
+    "guideline": {
+      "text": "A review of Addisonian pigmentation is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11623411/"
+    }
+  },
+  {
+    "id": "s2med-3608",
+    "category": "IM Endocrine",
+    "q": "Renal artery stenosis (RAS) per p359?",
+    "a": "Narrowing of one or both renal arteries due to atherosclerosis, causing increased RAAS and BP. The patient is over 50 with cardiovascular risk factors (diabetes, HTN, smoking).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    }
+  },
+  {
+    "id": "s2med-3609",
+    "category": "IM Endocrine",
+    "q": "RAS accelerated hypertension per p359?",
+    "a": "Patients with pre-existing HTN often have 10-20 years of background HTN that becomes accelerated over a few months to 2 years: slowly developing renal artery atherosclerosis finally reaches the point where the kidney can't maintain autoregulation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 359,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=359"
+    }
+  },
+  {
+    "id": "s2med-3610",
+    "category": "IM Endocrine",
+    "q": "Other ways USMLE presents RAS per p360 (continued from p359)?",
+    "a": "High BP in a patient with significant atherosclerotic disease (history of CABG, intermittent claudication) asking the most likely cause: RAS. Or an older patient with a carotid bruit and recent large BP rise: RAS (atherosclerosis in one location implies it elsewhere).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    }
+  },
+  {
+    "id": "s2med-3611",
+    "category": "IM Endocrine",
+    "q": "ACEi/ARB in RAS per p360?",
+    "a": "A high-yield factoid asked on NBMEs: ACEi or ARBs cause renin and/or creatinine to go up. Per the source, NBME doesn't care whether it's uni- or bilateral. Kidneys with compromised blood flow are more sensitive to the subtle fall in filtration fraction from ACEi/ARBs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    },
+    "guideline": {
+      "text": "A paper on ACE inhibitor-induced renal dysfunction in atherosclerotic renovascular disease is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9551408/"
+    }
+  },
+  {
+    "id": "s2med-3612",
+    "category": "IM Endocrine",
+    "q": "Unilateral RAS renin per p360?",
+    "a": "Renin is only increased from that kidney; the other kidney won't produce increased renin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    }
+  },
+  {
+    "id": "s2med-3613",
+    "category": "IM Endocrine",
+    "q": "Next best diagnostic step in RAS per p360?",
+    "a": "After renin and aldosterone levels are obtained, MR angiography of the renal vessels.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    }
+  },
+  {
+    "id": "s2med-3614",
+    "category": "IM Endocrine",
+    "q": "Fibromuscular dysplasia (FMD) per p360?",
+    "a": "The answer for narrowing of the renal arteries in a woman in her 20s-40s. Not the same as renal artery stenosis (which specifically means atherosclerosis in a patient >50 with CVD) and not caused by atherosclerosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    },
+    "guideline": {
+      "text": "A StatPearls page on fibromuscular dysplasia is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK493204/"
+    }
+  },
+  {
+    "id": "s2med-3615",
+    "category": "IM Endocrine",
+    "q": "FMD pathology and imaging per p360?",
+    "a": "Tunica media hyperplasia (not dysplasia, despite the name) causing a 'string of beads' appearance on renal angiogram. MR angiography is the NBME answer for the diagnostic modality.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    },
+    "img": "/mehlman/figures/med-p360-01.jpg",
+    "imgAlt": "Source figure: beaded renal artery angiogram"
+  },
+  {
+    "id": "s2med-3616",
+    "category": "IM Endocrine",
+    "q": "FMD and carotids per p360?",
+    "a": "Can affect the carotid vessels. A 2CK Surg question gives an FMD vignette and also says there is 25% occlusion of one of the carotids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    }
+  },
+  {
+    "id": "s2med-3617",
+    "category": "IM Endocrine",
+    "q": "PAN vs FMD imaging per p360?",
+    "a": "PAN is a medium-vessel vasculitis (discussed in the source's cardio PDF) causing a 'string of pearls' appearance of renal vessels. FMD shows more beading along larger/proximal arterial sections, whereas PAN shows pearls more at vascular termini, with proximal parts more likely spared.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 360,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=360"
+    },
+    "guideline": {
+      "text": "A paper on angiographic findings of PAN is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11158650/"
+    }
   }
 ];
