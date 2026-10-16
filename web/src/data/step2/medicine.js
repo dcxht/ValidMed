@@ -8019,5 +8019,273 @@ export default [
       "page": 63,
       "url": "/mehlman/hy-internal-medicine.pdf#page=63"
     }
+  },
+  {
+    "id": "s2med-0618",
+    "category": "IM Pulmonary",
+    "q": "Nosocomial pneumonia treatment per p64?",
+    "a": "Hospital- or ventilator-acquired pneumonia needs MRSA and Pseudomonas coverage: vancomycin PLUS ceftazidime or cefepime (the source calls them 3rd- and 4th-generation cephalosporins).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The 2016 IDSA/ATS HAP/VAP guideline is the current reference and lists several options by risk; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4981759/"
+    }
+  },
+  {
+    "id": "s2med-0619",
+    "category": "IM Pulmonary",
+    "q": "Fungal pneumonia treatment per p64?",
+    "a": "Fluconazole. With fungemia (high fever, chills): amphotericin B.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2med-0620",
+    "category": "IM Pulmonary",
+    "q": "Cultures in septic pneumonia per p64?",
+    "a": "NBME: sputum culture, then blood cultures in septic pneumonia patients. If sputum culture was already done and the next diagnostic step is asked, answer blood culture.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2med-0621",
+    "category": "IM Pulmonary",
+    "q": "Pneumocystis pneumonia diagnosis per p64?",
+    "a": "Jump straight to bronchoalveolar lavage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2med-0622",
+    "category": "IM Pulmonary",
+    "q": "Cavitary lesion filled with a mass per p64?",
+    "a": "Likely an Aspergillus fungus ball; the source wants 'open lung biopsy' as the most confirmatory test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    },
+    "guideline": {
+      "text": "StatPearls on aspergilloma is a reference; I did not verify the biopsy claim. Imaging is usually described as the main diagnostic tool.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546668/"
+    }
+  },
+  {
+    "id": "s2med-0623",
+    "category": "IM Pulmonary",
+    "q": "Normal CXR after pneumonia resolves per p64?",
+    "a": "'Maintenance of integrity of basement membranes' (mentioned earlier in the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2med-0624",
+    "category": "IM Pulmonary",
+    "q": "Distal pneumonia in lung tumor per p64?",
+    "a": "The reason is 'endobronchial obstruction' (same answer as for distal atelectasis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2med-0625",
+    "category": "IM Pulmonary",
+    "q": "Rituximab and pneumonia per p64?",
+    "a": "Rituximab (anti-CD20 on B cells) increases bacterial pneumonia risk because B cells are needed for antibody production (humoral immunity against bacteria).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    },
+    "guideline": {
+      "text": "A paper on severe bacterial infections in patients on rituximab exists; I did not verify its text.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058071/"
+    }
+  },
+  {
+    "id": "s2med-0626",
+    "category": "IM Pulmonary",
+    "q": "Bronchiolitis per p64?",
+    "a": "A kid under 18 months with low-grade fever and bilateral wheezes; caused by RSV. Treatment is supportive care on USMLE; do not choose ribavirin or palivizumab.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    },
+    "guideline": {
+      "text": "The 2014 AAP bronchiolitis guideline is the reference; I did not verify its text.",
+      "url": "https://publications.aap.org/pediatrics/article/134/5/e1474/75848/Clinical-Practice-Guideline-The-Diagnosis"
+    }
+  },
+  {
+    "id": "s2med-0627",
+    "category": "IM Pulmonary",
+    "q": "Croup cause and presentation per p64 (figure)?",
+    "a": "Laryngotracheobronchitis caused by parainfluenza virus (a paramyxovirus). Hoarse, barking or seal-like cough in a school-age kid (the source's phrase); cough better after going out into cold air. Neck X-ray shows the 'steeple sign', subglottic narrowing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    },
+    "img": "/mehlman/figures/med-p064-01.jpg",
+    "imgAlt": "Source figure p64: frontal neck X-ray with subglottic narrowing between arrows",
+    "guideline": {
+      "text": "StatPearls on croup is a reference; I did not verify the age range. Croup typically occurs in younger children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431070/"
+    }
+  },
+  {
+    "id": "s2med-0628",
+    "category": "IM Pulmonary",
+    "q": "Croup trick answer and treatment per p64?",
+    "a": "Sometimes an easy croup vignette has the answer 'larynx' (inflammation of larynx, trachea and bronchi); subglottic = below the vocal cords. Treatment is supportive; if forced, steroids if listed, followed by nebulized racemic epinephrine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 64,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2med-0629",
+    "category": "IM Pulmonary",
+    "q": "Epiglottitis cause and risk groups per p65 (figure)?",
+    "a": "Haemophilus influenzae type B. Unvaccinated children and immigrants, and patients with asplenia or sickle cell (auto-splenectomy). Can also cause meningitis. Neck X-ray shows the 'thumbprint sign'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    },
+    "img": "/mehlman/figures/med-p065-01.jpg",
+    "imgAlt": "Source figure p65: lateral neck X-ray with a swollen epiglottis (arrow)",
+    "guideline": {
+      "text": "Two papers on epiglottitis (thumb and vallecula signs; Hib epiglottitis in children) exist; I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5647168/"
+    }
+  },
+  {
+    "id": "s2med-0630",
+    "category": "IM Pulmonary",
+    "q": "Epiglottitis presentation per p65?",
+    "a": "Child with fever and difficulty breathing; drooling and/or tripod positioning (facilitates use of accessory muscles).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2med-0631",
+    "category": "IM Pulmonary",
+    "q": "Management of epiglottitis per p65?",
+    "a": "Intubation: a medical emergency with risk of sudden airway occlusion. Treatment is a 3rd-generation cephalosporin (cefotaxime in peds, or ceftriaxone); rifampin for close contacts.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    },
+    "guideline": {
+      "text": "A paper on Hib epiglottitis as a cause of airway obstruction exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1124584/"
+    }
+  },
+  {
+    "id": "s2med-0632",
+    "category": "IM Pulmonary",
+    "q": "Bacterial tracheitis per p65?",
+    "a": "Diagnosis of exclusion; classically S. aureus after a viral URTI. 2CK: recent viral URTI + stridor + no drooling (against epiglottitis) + can open the mouth fully (against peritonsillar abscess) + no improvement with racemic epinephrine (against croup).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    },
+    "guideline": {
+      "text": "StatPearls on bacterial tracheitis is a reference; I did not verify the details.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470240/"
+    }
+  },
+  {
+    "id": "s2med-0633",
+    "category": "IM Pulmonary",
+    "q": "Pertussis presentation per p65?",
+    "a": "Classically many successive coughs followed by an inspiratory 'whoop'. Can occur in adults, who may describe a regular cough; clues are hypoglycemia or post-tussive emesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    },
+    "guideline": {
+      "text": "CDC clinical care page is a reference; I did not verify the hypoglycemia detail (typically described in infants).",
+      "url": "https://www.cdc.gov/pertussis/hcp/clinical-care/"
+    }
+  },
+  {
+    "id": "s2med-0634",
+    "category": "IM Pulmonary",
+    "q": "Pertussis labs per p65?",
+    "a": "Very high WBC counts in the 30-50,000 range with >80% lymphocytes, resembling ALL. ALL-like findings + cough = pertussis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2med-0635",
+    "category": "IM Pulmonary",
+    "q": "Pertussis prevention per p65?",
+    "a": "Number-one prevention: vaccination (part of Tdap; the pertussis component is killed acellular; tetanus and diphtheria are toxoids).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2med-0636",
+    "category": "IM Pulmonary",
+    "q": "Pertussis treatment per p65?",
+    "a": "Erythromycin for patients with active cough; close contacts should also receive erythromycin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    },
+    "guideline": {
+      "text": "CDC guidance on treatment and postexposure prophylaxis is the reference; it generally favors azithromycin (macrolide) in many patients. I did not verify the text.",
+      "url": "https://www.cdc.gov/pertussis/php/postexposure-prophylaxis/index.html"
+    }
+  },
+  {
+    "id": "s2med-0637",
+    "category": "IM Pulmonary",
+    "q": "Pleurodynia per p65?",
+    "a": "Despite the name, an MSK condition that has nothing to do with the lungs (asked twice on NBME, as mentioned in the Cardio section). Viral infection (Coxsackie B) causes sharp lateral chest pain from intercostal muscle spasm.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 65,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=65"
+    },
+    "guideline": {
+      "text": "A paper on Bornholm disease and Coxsackie virus exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2038089/"
+    }
   }
 ];

@@ -281,3 +281,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures).
 - Conflict: azithromycin empiric CAP vs 2019 ATS/IDSA regimens. Unverified: nasolacrimal explanation, catheter/Staph epidermidis claim, 6-hour cutoff.
 - Mobile QA (320x740, local vite preview build, not live): all 25 cards ox=false off=false bad=0.
+
+## p64 (IM Pulmonary: nosocomial pneumonia, bronchiolitis, croup) - 11 cards, ids s2med-0618 to 0628
+- Inspected page text and figure (steeple sign).
+- Conflicts: "open lung biopsy" for aspergilloma; croup age range; HAP regimen simplified. Unverified: cited guideline texts.
+
+## p65 (IM Pulmonary: epiglottitis, tracheitis, pertussis, pleurodynia) - 9 cards, ids s2med-0629 to 0637
+- Inspected page text and figure (epiglottitis lateral neck).
+- Conflicts: pertussis erythromycin vs azithromycin; hypoglycemia clue (infants). Unverified: tracheitis details.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
