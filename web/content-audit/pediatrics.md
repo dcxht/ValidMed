@@ -710,3 +710,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: CGD "usually X-linked recessive" - StatPearls says most mutations are autosomal recessive with only the NOX2 variant X-linked.
 - Left un-noted or flagged unverified: IgA deficiency as most common hereditary immunodeficiency and vignette frequencies, Giardia link, false-positive pregnancy tests, DiGeorge pouch embryology/hypocalcemia/cardiac/normal antibody details, T1DM and thyroiditis with CMC (differs from APS-1 triad), CGD organism list incl. H. pylori, DHR vs NBT NBME claim, MPO Staph aureus claim.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p145 (immunodeficiencies continued) - 19 cards, ids s2peds-2183 to 2201
+- Inspected page pixels. No figures (tables).
+- Notes verified against StatPearls (Wiskott-Aldrich, LAD, Chediak-Higashi, A-T, X-Linked Immunodeficiency/hyper-IgM, CVID, Complement Deficiency), GeneReviews (STAT3 HIES) and an MSMD review.
+- Source conflicts, source answers kept with caution notes: (1) IL-12 receptor deficiency "recurrent TB" - MSMD literature describes mycobacterial disease incl. nontuberculous and BCG; (2) CGD 70% X-linked claim - StatPearls says most CGD is autosomal recessive; this differs by population.
+- Left un-noted or flagged unverified: WAS immunoglobulin pattern, LAD delayed cord separation, CHS microtubule/giant granule wording, A-T DNA repair wording, 12M Pneumocystis question, CVID vs IgA exam tips, C7/C8 exam wording.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.

@@ -31081,5 +31081,274 @@ export default [
       "text": "StatPearls and a case report link MPO deficiency to Candida infection. I did not verify the Staph aureus claim.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK470278/"
     }
+  },
+  {
+    "id": "s2peds-2183",
+    "category": "Myeloperoxidase deficiency",
+    "q": "A 6-year-old girl with an AR disorder has a mix of S. aureus and Candida infections. What is the answer per p145 (Free 120 question)?",
+    "a": "MPO deficiency, not CGD. CGD can present with the same organisms, but p145 says about 70% of CGD is X-linked, and childhood CGD is usually X-linked since AR CGD is milder and presents later.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: MPO deficiency is autosomal recessive. For CGD, StatPearls says most mutations are autosomal recessive with only NOX2 X-linked, so the 70% X-linked figure is the author's and differs by population. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470278/"
+    }
+  },
+  {
+    "id": "s2peds-2184",
+    "category": "Wiskott-Aldrich syndrome",
+    "q": "What are the genetics and triad of Wiskott-Aldrich syndrome per p145?",
+    "a": "X-linked recessive (WAS gene), T cell cytoskeletal dysfunction. Triad: immunodeficiency, eczematoid skin lesions, thrombocytopenia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: X-linked disorder with the triad of immunodeficiency, thrombocytopenia and eczema.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539838/"
+    }
+  },
+  {
+    "id": "s2peds-2185",
+    "category": "Wiskott-Aldrich syndrome",
+    "q": "What are the immunoglobulin changes in Wiskott-Aldrich per p145?",
+    "a": "Increased serum IgA and IgE; decreased IgM.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "I did not verify the immunoglobulin pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539838/"
+    }
+  },
+  {
+    "id": "s2peds-2186",
+    "category": "Wiskott-Aldrich syndrome",
+    "q": "A 12-month-old has Pneumocystis infection, a history of nosebleeds and eczema. Which cell is dysfunctional per p145?",
+    "a": "T cell. The answer can be deficiency of cell-mediated immunity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2peds-2187",
+    "category": "Leukocyte adhesion deficiency",
+    "q": "What is the defect in leukocyte adhesion deficiency per p145?",
+    "a": "Deficiency of CD18/LFA-1 integrin. Leukocytes cannot leave blood vessels for sites of infection, so there is decreased pus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: leukocytes cannot migrate to infection sites due to CD18 mutations, with an inability to form pus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539770/"
+    }
+  },
+  {
+    "id": "s2peds-2188",
+    "category": "Leukocyte adhesion deficiency",
+    "q": "What is the classic association of LAD per p145, and how may the answer be worded?",
+    "a": "Delayed separation of the umbilical cord. The answer can be defective leukocyte chemotaxis instead of just LAD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls describes the umbilical cord remnant with few inflammatory cells. I did not verify delayed separation in this chapter.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539770/"
+    }
+  },
+  {
+    "id": "s2peds-2189",
+    "category": "Chediak-Higashi syndrome",
+    "q": "What is the defect in Chediak-Higashi syndrome per p145?",
+    "a": "A phagolysosomal fusion disorder with disruption of microtubule function.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: mutation in the lysosomal trafficking regulator (LYST) gene. I did not verify the microtubule wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK507881/"
+    }
+  },
+  {
+    "id": "s2peds-2190",
+    "category": "Chediak-Higashi syndrome",
+    "q": "What other findings does p145 list for Chediak-Higashi?",
+    "a": "Melanosome function also impaired: partial albinism (fairer skin than siblings). Giant granules in phagocytes in neutrophils and eosinophils.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: easy bruising, oculocutaneous albinism and recurrent pyogenic infections. I did not verify the giant granules wording in this chapter.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK507881/"
+    }
+  },
+  {
+    "id": "s2peds-2191",
+    "category": "Ataxia-telangiectasia",
+    "q": "What is the defect and clinical picture of ataxia-telangiectasia per p145?",
+    "a": "Failure of double-stranded DNA break repair. Cerebellar atrophy causing ataxia, and telangiectasias.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: ATM gene mutation with cerebellar ataxia and telangiectasias. I did not verify the double-strand break repair wording in this chapter.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519542/"
+    }
+  },
+  {
+    "id": "s2peds-2192",
+    "category": "Ataxia-telangiectasia",
+    "q": "What cancer risk does ataxia-telangiectasia carry per p145?",
+    "a": "Increased susceptibility to radiation and increased risk of leukemia and lymphoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2peds-2193",
+    "category": "Hyper-IgM syndrome",
+    "q": "What is the defect in hyper-IgM syndrome per p145?",
+    "a": "Deficiency of CD40L on CD4+ T cells. Decreased CD40 activation on B cells means decreased B cell activation and decreased differentiation into plasma cells and isotype class-switching, so the antibody isotype is stuck at IgM.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: CD40LG mutations impair class-switch recombination, with normal or elevated IgM and deficient IgG and IgA.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562182/"
+    }
+  },
+  {
+    "id": "s2peds-2194",
+    "category": "Hyper-IgE syndrome",
+    "q": "What is the genetic cause of hyper-IgE (Job) syndrome per p145?",
+    "a": "STAT3 mutation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "GeneReviews: heterozygous dominant-negative STAT3 pathogenic variants.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25507/"
+    }
+  },
+  {
+    "id": "s2peds-2195",
+    "category": "Hyper-IgE syndrome",
+    "q": "What does the FATED mnemonic stand for per p145?",
+    "a": "Abnormal Facies, staphylococcal cold Abscesses, retained primary Teeth, hyper IgE, Dermatologic findings (eczematoid lesions).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "GeneReviews: retained primary teeth and characteristic facial appearance.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25507/"
+    }
+  },
+  {
+    "id": "s2peds-2196",
+    "category": "IL-12 receptor deficiency",
+    "q": "What infections occur in IL-12 receptor deficiency per p145?",
+    "a": "Recurrent TB infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "Current caution: the MSMD review describes susceptibility to mycobacterial disease (including nontuberculous mycobacteria and BCG) from IL12RB1 and IFN-gamma pathway defects, not only TB. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4357480/"
+    }
+  },
+  {
+    "id": "s2peds-2197",
+    "category": "IL-12 receptor deficiency",
+    "q": "What is the mechanism of IL-12 receptor deficiency per p145?",
+    "a": "Th1 CD4+ T cells and macrophages activate each other in a loop via IL-12 and IFN-gamma. A Th1 cell lacking the IL-12 receptor cannot be activated, so no IFN-gamma, macrophages are not activated, and granuloma formation falls.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "The MSMD review: defects of IL12RB1 impair the IFN-gamma-dependent immunity needed against mycobacteria.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4357480/"
+    }
+  },
+  {
+    "id": "s2peds-2198",
+    "category": "Common variable immunodeficiency",
+    "q": "What is the defect in CVID per p145?",
+    "a": "Normal B cell number but defective maturation into plasma cells, so decreased immunoglobulin production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: impaired antibody responses despite a normal or near-normal B cell count.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549787/"
+    }
+  },
+  {
+    "id": "s2peds-2199",
+    "category": "Common variable immunodeficiency",
+    "q": "Which vignette gives CVID per p145, and how does it differ from IgA deficiency?",
+    "a": "An adult with recurrent sinopulmonary infections, like IgA deficiency, except immunoglobulins are decreased and not limited to IgA. If the vignette gives atopy or Giardia, the answer is IgA deficiency, not CVID.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    }
+  },
+  {
+    "id": "s2peds-2200",
+    "category": "Terminal complement deficiency",
+    "q": "What is the defect and infection risk in terminal complement deficiency per p145?",
+    "a": "Deficiency of C5-C9, so no membrane attack complex (MAC). Recurrent Neisseria infections (gonococcal and meningococcal).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    },
+    "guideline": {
+      "text": "StatPearls: late common pathway deficiencies (C5-C9) are associated with increased Neisseria meningitidis and gonorrhoeae infections.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557581/"
+    }
+  },
+  {
+    "id": "s2peds-2201",
+    "category": "Terminal complement deficiency",
+    "q": "How may USMLE word the answer for terminal complement deficiency per p145?",
+    "a": "Deficiency of C7 or C8 (a random terminal complement protein), terminal complement deficiency, or complement-mediated immunodeficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 145,
+      "url": "/mehlman/hy-pediatrics.pdf#page=145"
+    }
   }
 ];
