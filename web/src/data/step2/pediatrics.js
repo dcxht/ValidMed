@@ -39734,5 +39734,170 @@ export default [
       "text": "CDC: neonatal ocular prophylaxis with erythromycin, the only agent available in the United States, is required by law in most states. I did not verify the statement that it does not prevent chlamydia.",
       "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
     }
+  },
+  {
+    "id": "s2peds-2774",
+    "category": "Peds vignettes",
+    "q": "Best way to prevent chlamydial and gonococcal ophthalmia neonatorum per p200?",
+    "a": "Effective treatment of the mother prior to delivery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "CDC: ocular prophylaxis and screening and treatment of infected pregnant women are both important in preventing gonococcal ophthalmia neonatorum.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+    }
+  },
+  {
+    "id": "s2peds-2775",
+    "category": "Peds vignettes",
+    "q": "Gonococcal ophthalmia neonatorum (2-5 days of life): presentation and treatment per p200?",
+    "a": "Purulent discharge; treat with IM cefotaxime (choose over ceftriaxone for neonates).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "Current caution: CDC recommends ceftriaxone 25-50 mg/kg IV or IM in a single dose (not to exceed 250 mg), and says one dose is adequate for gonococcal ophthalmia. The source's cefotaxime preference mirrors older concerns about ceftriaxone in hyperbilirubinemic neonates. Source answer kept.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+    }
+  },
+  {
+    "id": "s2peds-2776",
+    "category": "Peds vignettes",
+    "q": "Chlamydial ophthalmia neonatorum (5-14 days of life): presentation and complication per p200?",
+    "a": "Watery or purulent discharge. It can classically lead to Chlamydia trachomatis D-K pneumonia (not Chlamydia pneumoniae): infection can drain through the nasolacrimal duct into the nasopharynx and lungs, with diffuse crackles 1-2 weeks after the eye infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "CDC chlamydia guidance covers transmission of C. trachomatis to neonates at birth. I did not verify the pneumonia timeline wording.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-2777",
+    "category": "Peds vignettes",
+    "q": "Treatment of chlamydial ophthalmia neonatorum per p200?",
+    "a": "Oral erythromycin; topical is not only less effective but also does not account for any organism having entered the nasopharynx and/or lungs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "I did not verify the neonatal regimen from the CDC page I read (the erythromycin statement there concerns adult and pregnancy regimens). Source answer kept.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-2778",
+    "category": "Peds vignettes",
+    "q": "4M who goes to daycare with red, itchy eyes. Diagnosis per p200?",
+    "a": "Adenovirus (most common cause of viral conjunctivitis).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls: adenovirus is a widespread cause of upper respiratory infection and conjunctivitis, including epidemic keratoconjunctivitis. I did not verify the 'most common' claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559072/"
+    }
+  },
+  {
+    "id": "s2peds-2779",
+    "category": "Peds vignettes",
+    "q": "4M at daycare with red, itchy eyes. The organism most likely responsible can also cause what per p200?",
+    "a": "Hemorrhagic cystitis (red urine); adenovirus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls: adenovirus symptoms include epidemic keratoconjunctivitis, acute hemorrhagic cystitis and gastroenteritis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559072/"
+    }
+  },
+  {
+    "id": "s2peds-2780",
+    "category": "Peds vignettes",
+    "q": "6M playing with a firecracker with eye pain and tearing, full ocular movements and 20/20 acuity. Next best step per p200?",
+    "a": "Fluorescein instillation of the eye; diagnosis is corneal abrasion. It shows green on fluorescein staining (normal areas are blue). The cornea heals very fast; tearing and scratchy sensation for a day, then normal the next morning.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls: identify corneal abrasions using fluorescein staining. I did not verify the one-day healing statement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532960/"
+    }
+  },
+  {
+    "id": "s2peds-2781",
+    "category": "Peds vignettes",
+    "q": "6M with an itchy eye, infraorbital vesicles and a dendritic pattern on fluorescein staining. Diagnosis per p200?",
+    "a": "Herpes keratitis; a similar diagnosis is herpes zoster (VZV) ophthalmicus (immunocompromised if a child).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls: dendritic corneal ulcer is the typical finding in herpes simplex keratitis. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545278/"
+    }
+  },
+  {
+    "id": "s2peds-2782",
+    "category": "Peds vignettes",
+    "q": "6M being treated with chemo for ALL with vesicles around the ear and Bell palsy. Diagnosis per p200?",
+    "a": "Herpes zoster oticus, also called Ramsay Hunt syndrome type II (VZV).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls: Ramsay Hunt syndrome is the triad of ipsilateral facial paralysis, otalgia and vesicles near the ear. I did not verify the 'type II' label.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557409/"
+    }
+  },
+  {
+    "id": "s2peds-2783",
+    "category": "Peds vignettes",
+    "q": "Newborn with cystic dilation of the 4th ventricle and absent cerebellar vermis. Diagnosis per p200?",
+    "a": "Dandy-Walker syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls: Dandy-Walker malformation is characterized by agenesis or hypoplasia of the vermis and cystic enlargement of the fourth ventricle.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538197/"
+    }
+  },
+  {
+    "id": "s2peds-2784",
+    "category": "Peds vignettes",
+    "q": "Newborn with myelomeningocele and downward herniation of the cerebellar vermis. Diagnosis per p200?",
+    "a": "Arnold-Chiari malformation (the term only applies to Chiari type II).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 200,
+      "url": "/mehlman/hy-pediatrics.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls: Chiari type 2 is always associated with myelomeningocele and is characterized by caudal displacement of the cerebellar vermis, brainstem and fourth ventricle.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557498/"
+    }
   }
 ];

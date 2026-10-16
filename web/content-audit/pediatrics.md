@@ -1095,3 +1095,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: topical nystatin (CDC lists azoles); chalazion persistence needs ophthalmology.
 - Left unverified: nystatin, medulloblastoma vermis wording, craniopharyngioma recurrence/motor-oil, IV vs oral cellulitis, dermoid cyst, erythromycin not preventing chlamydia.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p200 (Bullet points: neonatal conjunctivitis, eye infections, neural tube/posterior fossa) - 11 cards, ids s2peds-2774 to 2784
+- Inspected page text; no figures.
+- Notes verified against CDC (neonatal gonorrhea, chlamydia) and StatPearls (Adenoviruses, Corneal Abrasion, Herpes Simplex Keratitis, Ramsay Hunt, Dandy-Walker, Chiari 2).
+- Source answers kept with caution notes: cefotaxime vs ceftriaxone for neonatal gonococcal conjunctivitis (CDC ceftriaxone).
+- Left unverified: neonatal chlamydia oral erythromycin regimen, pneumonia timeline, adenovirus 'most common', one-day abrasion healing, Ramsay Hunt 'type II' label.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
