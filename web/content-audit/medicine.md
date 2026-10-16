@@ -1209,3 +1209,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Drug-induced thyroiditis "uptake decreased" generalization: source, differs for amiodarone type 1; flagged unverified.
 - Propranolol "inhibits 5-deiodinase": source wording, unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.
+
+## p351 (toxic adenoma/TMG, factitious, nodule evaluation) - 9 cards, ids s2med-3521 to 3529
+- Opening bullet at top of p351 ("USMLE asks this... underrated thyroid diagnosis") has no visible heading (cut from p350); not carded.
+- Nodule algorithm figure is on p352 (med-p352-01.jpg), attached to the p351 nodule card.
+
+## p352 (thyroid in pregnancy) - 10 cards, ids s2med-3530 to 3539
+- Levothyroxine "increase 50%" in pregnancy: source answer kept; not verified, flagged in note.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.

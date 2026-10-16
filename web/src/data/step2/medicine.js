@@ -47250,5 +47250,248 @@ export default [
       "page": 350,
       "url": "/mehlman/hy-internal-medicine.pdf#page=350"
     }
+  },
+  {
+    "id": "s2med-3521",
+    "category": "IM Endocrine",
+    "q": "Toxic adenoma per p351?",
+    "a": "Autonomously secreting thyroid nodule (aka hot nodule). 131I scan shows uptake in the area of a single nodule. High T3, high T4, low TSH. Not malignant (no metastatic potential).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    },
+    "guideline": {
+      "text": "An EANM guideline on radioiodine therapy of benign thyroid disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10542302/"
+    }
+  },
+  {
+    "id": "s2med-3522",
+    "category": "IM Endocrine",
+    "q": "Toxic multinodular goiter per p351?",
+    "a": "Autonomously secreting thyroid nodules (many hot nodules). 131I scan shows multinodular uptake. High T3, high T4, low TSH. Not malignant.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    },
+    "guideline": {
+      "text": "A paper on toxic multinodular goiter in the elderly is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12508907/"
+    }
+  },
+  {
+    "id": "s2med-3523",
+    "category": "IM Endocrine",
+    "q": "Toxic multinodular goiter as a distractor per p351?",
+    "a": "The source has never seen it as a correct answer on USMLE, but it shows up as a distractor (e.g., for deQuervain). It occurs in the elderly: in a young hyperthyroid patient you can eliminate it because the patient is young and deQuervain is painful/tender while TMG is not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    }
+  },
+  {
+    "id": "s2med-3524",
+    "category": "IM Endocrine",
+    "q": "Factitious thyrotoxicosis per p351?",
+    "a": "Aka surreptitious thyrotoxicosis. The vignette need not mention the patient is a pharmacist. Hyperthyroid patient with a small, non-palpable thyroid gland (atrophic due to suppressed TSH).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    },
+    "guideline": {
+      "text": "A paper on factitious thyrotoxicosis and hormone misuse is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36963754/"
+    }
+  },
+  {
+    "id": "s2med-3525",
+    "category": "IM Endocrine",
+    "q": "Factitious thyrotoxicosis labs per p351?",
+    "a": "T4 is converted to T3, but T3 isn't converted to T4. If thyroxine is taken: high T3, high T4, low TSH. If triiodothyronine is taken: high T3, low T4, low TSH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    }
+  },
+  {
+    "id": "s2med-3526",
+    "category": "IM Endocrine",
+    "q": "First step in thyroid nodule evaluation per p351?",
+    "a": "Palpation of the thyroid gland comes before checking serum TSH (a 2CK NBME question lists both and palpation is correct: history and exam before tests). Once a nodule is palpated, serum TSH is next.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    }
+  },
+  {
+    "id": "s2med-3527",
+    "category": "IM Endocrine",
+    "q": "Nodule with normal or high TSH per p351?",
+    "a": "Per the source, ultrasound before fine-needle aspiration (FNA): the new 2CK Free 120 has ultrasound correct over FNA. A 2CK IM CMS question gives a euthyroid patient with a nodule where FNA is the answer but ultrasound isn't listed. So: if both are listed choose ultrasound; if ultrasound isn't listed choose FNA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    },
+    "img": "/mehlman/figures/med-p352-01.jpg",
+    "imgAlt": "Source figure: thyroid nodule algorithm",
+    "guideline": {
+      "text": "A 2023 European Thyroid Association guideline on nodule management is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10448590/"
+    }
+  },
+  {
+    "id": "s2med-3528",
+    "category": "IM Endocrine",
+    "q": "Nodule with low TSH per p351?",
+    "a": "Do a 131I uptake scan, not ultrasound. Carcinomas don't secrete thyroid hormone, so a hyperthyroid patient isn't a carcinoma concern; uptake separates Graves (diffuse), toxic adenoma (single nodular uptake) and toxic multinodular goiter (multifocal).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    }
+  },
+  {
+    "id": "s2med-3529",
+    "category": "IM Endocrine",
+    "q": "Low TSH but no nodule per p351?",
+    "a": "Choose ultrasound over uptake scan, per a new NBME question (low TSH in a young patient with no mention of a nodule). With low TSH and a nodule, uptake scan comes first.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 351,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=351"
+    }
+  },
+  {
+    "id": "s2med-3530",
+    "category": "IM Endocrine",
+    "q": "Thyroid labs in pregnancy per p352?",
+    "a": "For asymptomatic pregnant women choose: no change in TSH, no change in free T4, increased total T4.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    },
+    "guideline": {
+      "text": "ATA pregnancy guidelines are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3472679/"
+    }
+  },
+  {
+    "id": "s2med-3531",
+    "category": "IM Endocrine",
+    "q": "Which hormone raises TBG in pregnancy per p352?",
+    "a": "Estrogen (not progesterone) increases thyroid-binding globulin (TBG) production by the liver, per an NBME question. TBG is the carrier protein for thyroid hormone in blood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    }
+  },
+  {
+    "id": "s2med-3532",
+    "category": "IM Endocrine",
+    "q": "Free vs total T4 per p352?",
+    "a": "Free T4 is the physiologically active form. T4 bound to TBG (99%) has minimal effect. Free T4 + TBG-bound T4 = total T4.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    }
+  },
+  {
+    "id": "s2med-3533",
+    "category": "IM Endocrine",
+    "q": "Why total T4 rises in pregnancy per p352?",
+    "a": "TBG mops up free T4, so free T4 transiently falls and TSH rises; the TSH rise stimulates more T4 production, so total T4 goes up and free T4 returns to normal, suppressing TSH to normal. Free T4 is normal again, but TBG-bound T4 is higher.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    }
+  },
+  {
+    "id": "s2med-3534",
+    "category": "IM Endocrine",
+    "q": "T3 in pregnancy per p352?",
+    "a": "T3 is normal because free T4 is normal (free T4 is peripherally converted to T3). The source has never seen free T3 on NBME material.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    }
+  },
+  {
+    "id": "s2med-3535",
+    "category": "IM Endocrine",
+    "q": "Why the pregnancy arrows are 'no change TSH/free T4, high total T4' per p352?",
+    "a": "Those are what USMLE wants: a euthyroid pregnant woman has normal free T4, increased total T4 and normal TSH; the TBG changes are likely synchronous and slow enough that TSH and free T4 stay in range.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    }
+  },
+  {
+    "id": "s2med-3536",
+    "category": "IM Endocrine",
+    "q": "Postpartum (silent) thyroiditis per p352?",
+    "a": "Can be hypo- or hyperthyroid after delivery. Highest yield: 131I uptake is low even if hyperthyroid (same as deQuervain and drug-induced thyroiditis). Inflammation increases spacing between thyroid cells so hormone leaks out; the gland isn't overproducing, negative feedback lowers TSH, so uptake is low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    },
+    "guideline": {
+      "text": "An Endotext chapter on postpartum thyroiditis is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK278999/"
+    }
+  },
+  {
+    "id": "s2med-3537",
+    "category": "IM Endocrine",
+    "q": "Levothyroxine dosing in pregnancy per p352?",
+    "a": "The source's answer: increase the dose by 50%.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    },
+    "guideline": {
+      "text": "ATA pregnancy guidelines are linked (title only). I did not verify the 50% figure against them; check current dosing guidance before using it outside the exam.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3472679/"
+    }
+  },
+  {
+    "id": "s2med-3538",
+    "category": "IM Endocrine",
+    "q": "Methimazole in pregnancy per p352?",
+    "a": "Avoid methimazole in the first trimester (teratogenic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    },
+    "guideline": {
+      "text": "A 2018 European Thyroid Association Graves guideline is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6140607/"
+    }
+  },
+  {
+    "id": "s2med-3539",
+    "category": "IM Endocrine",
+    "q": "Thyroid storm in pregnancy per p352?",
+    "a": "PTU is the answer, even though longer-term PTU use in the 2nd and 3rd trimesters isn't considered ideal because of hepatic toxicity risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 352,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=352"
+    }
   }
 ];
