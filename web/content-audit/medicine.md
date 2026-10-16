@@ -62,3 +62,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Source conflicts/cautions: esmolol vs labetalol first beta blocker; CT angiography is first imaging now. Notes from StatPearls (Aortic Dissection, Traumatic Aortic Injuries, AAA repair thresholds), USPSTF AAA screening.
 - Unverified: type A/B treatment split, deceleration "most common cause of death", emergency surgery timing, 0.5 cm/6 months growth, perioperative stress test.
 - Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.
+
+## p16 (IM Cardio: AAA pearls, AV fistula) - 11 cards, ids s2med-0124 to 0134
+- Inspected page text and figure (leg fistula angiogram, med-p016-01.jpg). Expletive in the source paraphrased out.
+- Notes from JAHA diabetes/aneurysm study, high-output HF review, HHT guidelines. Unverified: glycosylation mechanism, EF >70%, USMLE patterns.
+
+## p17 (IM Cardio: HHT end, AF) - 6 cards, ids s2med-0135 to 0140
+- Inspected page text and figures (tongue telangiectasia med-p017-01.jpg, AF ECG med-p017-02.jpg). Section header "HY Murmur / ECG points" skipped.
+- Source cautions: Holter 24 h vs longer monitoring; echo for LA thrombus; mesenteric angiography vs CT angiography first. Notes from ESO guideline, monitoring meta-analysis, WSES AMI guidelines. Unverified: echo as next step.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.

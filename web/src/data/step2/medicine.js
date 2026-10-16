@@ -1653,5 +1653,218 @@ export default [
       "page": 15,
       "url": "/mehlman/hy-internal-medicine.pdf#page=15"
     }
+  },
+  {
+    "id": "s2med-0124",
+    "category": "IM Cardio",
+    "q": "Diabetes and aortic aneurysm per p16?",
+    "a": "Diabetes is protective against aneurysm: non-enzymatic glycosylation of endothelium stiffens the vascular wall.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    },
+    "guideline": {
+      "text": "A nationwide observational study (JAHA) reported reduced long-term risk of aortic aneurysm and dissection in type 2 diabetes. I did not verify the glycosylation mechanism.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/JAHA.117.007618"
+    }
+  },
+  {
+    "id": "s2med-0125",
+    "category": "IM Cardio",
+    "q": "AAA repair in patients with advanced comorbidities or terminal disease per p16?",
+    "a": "Do not do AAA repair on USMLE in such patients, e.g., stage 4 lung cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2med-0126",
+    "category": "IM Cardio",
+    "q": "Pulsatile hematoma in the neck of a trauma patient per p16?",
+    "a": "2CK loves this; the answer is endotracheal intubation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2med-0127",
+    "category": "IM Cardio",
+    "q": "Arteriovenous fistula causes per p16?",
+    "a": "Idiopathic, iatrogenic (e.g., dialysis), from injury (e.g., stab wound), or caused by other disease (e.g., hereditary hemorrhagic telangiectasia or Paget disease of bone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2med-0128",
+    "category": "IM Cardio",
+    "q": "AV fistula and pulsatile mass per p16?",
+    "a": "Like aortic aneurysms, AV fistulae can present with a pulsatile mass in an odd location, e.g., around the left ear in a patient with tinnitus (on an NBME exam).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2med-0129",
+    "category": "IM Cardio",
+    "q": "Highest yield point of AV fistula and why per p16?",
+    "a": "They can cause high-output cardiac failure: blood quickly enters the venous circulation from the arterial, increasing preload to the right heart, plus poorer arterial perfusion distal to the fistula, causing compensatory increased cardiac output.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    },
+    "guideline": {
+      "text": "A structured review (Call to Action) covers high-output heart failure and pulmonary hypertension in patients with AV fistulas.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37004865/"
+    }
+  },
+  {
+    "id": "s2med-0130",
+    "category": "IM Cardio",
+    "q": "Murmur and pulse of an AV fistula per p16?",
+    "a": "A continuous machinery murmur like a PDA since blood flows through it continuously (e.g., in the leg at a prior stab wound), and bounding pulses like AR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2med-0131",
+    "category": "IM Cardio",
+    "q": "How to tell AV fistula from similar conditions per p16?",
+    "a": "Look for HY points: lone S3 or S3/S4 combo, EF >70%, history of penetrating trauma, or Paget disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2med-0132",
+    "category": "IM Cardio",
+    "q": "Angiogram of a leg fistula with a continuous machinery murmur (figure p16): what determines prognosis?",
+    "a": "Size of the lesion (2CK NBME). The same answer appears on another NBME question with a similar image and a continuous murmur.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    },
+    "img": "/mehlman/figures/med-p016-01.jpg",
+    "imgAlt": "Source figure p16: leg angiogram showing arteriovenous fistula (arrow)"
+  },
+  {
+    "id": "s2med-0133",
+    "category": "IM Cardio",
+    "q": "45-year-old man with nosebleeds since adolescence, S3 and dyspnea, with a tongue picture per p16-17 (NBME): cause of dyspnea?",
+    "a": "Pulmonary arteriovenous fistula, leading to high-output failure; the diagnosis is hereditary hemorrhagic telangiectasia. USMLE almost always shows red dots on the tongue/mouth or finger in a patient with nosebleeds.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    },
+    "img": "/mehlman/figures/med-p017-01.jpg",
+    "imgAlt": "Source figure p17: red telangiectatic dots on the tongue and lips",
+    "guideline": {
+      "text": "The second international HHT guidelines and an update on pulmonary AVMs cover HHT and pulmonary AVMs. I did not verify the high-output failure framing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32894695/"
+    }
+  },
+  {
+    "id": "s2med-0134",
+    "category": "IM Cardio",
+    "q": "Other place AV fistulae occur per p17?",
+    "a": "Intraosseous AV fistulae can occur in Paget disease of bone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 16,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2med-0135",
+    "category": "IM Cardio",
+    "q": "Rhythm pattern of atrial fibrillation per p17 (figure)?",
+    "a": "'Irregularly irregular' rhythm with absent P waves; QRS complexes at random, irregular distances from one another.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=17"
+    },
+    "img": "/mehlman/figures/med-p017-02.jpg",
+    "imgAlt": "Source figure p17: lead II atrial fibrillation with irregular R-R intervals, no P waves"
+  },
+  {
+    "id": "s2med-0136",
+    "category": "IM Cardio",
+    "q": "Why AF is hugely important per p17?",
+    "a": "Turbulence/stasis in the left atrium leads to LA mural thrombus; the thrombus can embolize to brain (stroke, TIA, retinal artery occlusion), SMA/IMA (acute mesenteric ischemia) and legs (acute limb ischemia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2med-0137",
+    "category": "IM Cardio",
+    "q": "AF vignette per p17?",
+    "a": "HY in older patients, especially >75: stroke, TIA or retinal artery occlusion with normal BP (so carotid stenosis is not the source of the embolus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2med-0138",
+    "category": "IM Cardio",
+    "q": "75-year-old with a TIA, normal BP and a sinus-rhythm ECG per p17: next best step?",
+    "a": "Holter monitor (24-hour ambulatory ECG) to pick up paroxysmal AF, which comes and goes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=17"
+    },
+    "guideline": {
+      "text": "The ESO guideline on screening for subclinical AF after stroke/TIA of undetermined origin, and a meta-analysis, support prolonged monitoring; current guidance may favor monitoring longer than 24 hours. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9446336/"
+    }
+  },
+  {
+    "id": "s2med-0139",
+    "category": "IM Cardio",
+    "q": "After AF is diagnosed on ECG or Holter, 2CK next best step per p17?",
+    "a": "Echocardiography, to visualize the LA mural thrombus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2med-0140",
+    "category": "IM Cardio",
+    "q": "Severe abdominal pain with AF or hyperthyroidism per p17?",
+    "a": "Acute mesenteric ischemia; next best step is mesenteric angiography; treatment is laparotomy if unstable (NBME answer).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 17,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=17"
+    },
+    "guideline": {
+      "text": "The WSES updated guidelines on acute mesenteric ischemia cover diagnosis (CT angiography is now the usual first imaging) and management. A review covers hyperthyroidism-related AF. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/"
+    }
   }
 ];
