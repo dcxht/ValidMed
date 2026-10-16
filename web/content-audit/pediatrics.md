@@ -669,3 +669,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Verified: greenstick definition (StatPearls), clavicle middle third (95% in children), UBC proximal humerus.
 - Left un-noted or flagged unverified: bone flexibility collagen/mineral explanation, runner vignette, osteoporosis as long-term risk, scaphoid snuffbox presentation, lunate answer, USMLE-imaging statement, UBC one-chamber wording.
 - Mobile QA (320x740, live, local headless Chrome): all 14 cards ox=false off=false bad=0. Two unverified gloss sentences were removed from the spiral and scaphoid notes after QA (data text only).
+
+## p139 (upper limb fracture nerve injuries, pseudofracture, myopathies, fibromyalgia, myotonic dystrophy) - 23 cards, ids s2peds-2075 to 2097
+- Inspected page pixels. No figures.
+- Notes verified against StatPearls: Hamate Fractures, Proximal Humerus Fracture, Humeral Shaft Fractures, Osteomalacia, Duchenne, Dermatomyositis, Polymyositis, Fibromyalgia, Myotonic Dystrophy.
+- Source conflicts, source answers kept with caution notes: (1) fibromyalgia "psych condition, not an actual muscle disorder" - StatPearls describes a chronic widespread pain disorder; (2) fibromyalgia "treatment is SSRIs" - StatPearls lists duloxetine, milnacipran, pregabalin, amitriptyline.
+- Left un-noted or flagged unverified: supracondylar median nerve and "distal shaft" alias, dystroglycan mechanism, Gower description, Duchenne frameshift vs Becker, dermatomyositis in children, Gottron/heliotrope wording, EMG/NCS as first step (note says EMG is nonspecific), fibromyalgia normal ESR/no fever, CTG wording in the cited chapter, 1,25-D3 explanation.
+- Mobile QA: PENDING

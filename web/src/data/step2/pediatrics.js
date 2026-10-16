@@ -29565,5 +29565,326 @@ export default [
       "page": 138,
       "url": "/mehlman/hy-pediatrics.pdf#page=138"
     }
+  },
+  {
+    "id": "s2peds-2075",
+    "category": "Hook of hamate fracture",
+    "q": "What nerve injury does a hook of hamate fracture cause per p139, and how does it happen?",
+    "a": "Distal ulnar nerve injury / Guyon canal syndrome. Often from a handlebar injury or impaction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls lists ulnar nerve compression as a complication of hamate fractures and an indication for surgery.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544314/"
+    }
+  },
+  {
+    "id": "s2peds-2076",
+    "category": "Humerus fractures",
+    "q": "Which nerve injury does a surgical neck of humerus fracture cause per p139?",
+    "a": "Axillary nerve injury: loss of deltoid function plus sensation over the deltoid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: the axillary nerve is the most commonly injured nerve in proximal humerus fractures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470346/"
+    }
+  },
+  {
+    "id": "s2peds-2077",
+    "category": "Humerus fractures",
+    "q": "Which nerve injury does a midshaft humerus fracture cause per p139?",
+    "a": "Radial nerve injury: wrist-drop and a pronated arm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: middle-third humeral fractures can injure the radial nerve in the radial groove.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448074/"
+    }
+  },
+  {
+    "id": "s2peds-2078",
+    "category": "Humerus fractures",
+    "q": "What does a supracondylar fracture of the humerus cause per p139?",
+    "a": "Median nerve injury: motor/sensory dysfunction of forearm muscles, the first three fingers and the thenar region. (p139 also calls it the distal shaft fracture.)",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2peds-2079",
+    "category": "Pseudofracture",
+    "q": "What is a pseudofracture per p139?",
+    "a": "A band of low-density bone that looks like a fracture on x-ray but is not an actual fracture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: Looser zones or pseudofractures are a classic radiographic finding in osteomalacia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551616/"
+    }
+  },
+  {
+    "id": "s2peds-2080",
+    "category": "Pseudofracture",
+    "q": "What does pseudofracture mean on USMLE per p139?",
+    "a": "Vitamin D deficiency (osteomalacia/rickets).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: pseudofractures are a classic finding in osteomalacia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551616/"
+    }
+  },
+  {
+    "id": "s2peds-2081",
+    "category": "Pseudofracture",
+    "q": "How can pseudofracture occur in renal failure per p139?",
+    "a": "1,25-D3 is low. Osteomalacia due to renal failure is called renal osteodystrophy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls lists renal osteodystrophy among conditions that can mimic or accompany these bone findings. I did not verify the 1,25-D3 explanation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551616/"
+    }
+  },
+  {
+    "id": "s2peds-2082",
+    "category": "Duchenne / Becker muscular dystrophy",
+    "q": "What is the inheritance and gene of Duchenne/Becker muscular dystrophy per p139?",
+    "a": "X-linked recessive, mutation in the dystrophin (DMD) gene.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: X-linked recessive dystrophin gene mutations cause Duchenne, Becker and intermediate forms.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482346/"
+    }
+  },
+  {
+    "id": "s2peds-2083",
+    "category": "Duchenne / Becker muscular dystrophy",
+    "q": "What does the dystrophin mutation disrupt per p139?",
+    "a": "The alpha/beta-dystroglycan link, required for anchoring the internal cytoskeleton of the muscle cell to the extracellular matrix.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2peds-2084",
+    "category": "Duchenne / Becker muscular dystrophy",
+    "q": "What is pseudohypertrophy per p139?",
+    "a": "Muscles that appear large but are replaced with fibroadipose (connective tissue stromal) tissue.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: calf enlargement with thigh wasting, pseudohypertrophy of the calves is a classical feature.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482346/"
+    }
+  },
+  {
+    "id": "s2peds-2085",
+    "category": "Duchenne / Becker muscular dystrophy",
+    "q": "What is the Gower maneuver and in whom is it seen per p139?",
+    "a": "Duchenne in a young boy: uses arms to walk up off the floor to stand because leg muscles are weak.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2peds-2086",
+    "category": "Duchenne / Becker muscular dystrophy",
+    "q": "How do Becker and Duchenne differ per p139?",
+    "a": "Becker presents in adolescence or young adulthood and is less severe. Duchenne is classically a frameshift mutation; Becker classically is not.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: dystrophinopathies include Duchenne, Becker and an intermediate form. I did not verify the frameshift distinction.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482346/"
+    }
+  },
+  {
+    "id": "s2peds-2087",
+    "category": "Polymyositis / dermatomyositis",
+    "q": "Can dermatomyositis occur in a child per p139?",
+    "a": "Yes. A Peds form question has it in a kid. It is usually seen in patients over 50.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2peds-2088",
+    "category": "Polymyositis / dermatomyositis",
+    "q": "How does polymyositis present per p139?",
+    "a": "Proximal muscle pain and stiffness plus muscle weakness on exam and/or increased serum CK.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2peds-2089",
+    "category": "Polymyositis / dermatomyositis",
+    "q": "What skin findings turn polymyositis into dermatomyositis per p139?",
+    "a": "Gottron papules (violaceous papules on the knuckles), mechanics' hands (rough-surfaced hands), shawl rash (body rash), heliotrope rash (violaceous eyelids / periorbital rash, not the malar rash of SLE).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls describes the shawl sign and mechanic's hands (hyperkeratotic, cracked lines on the fingers); I did not verify the page's Gottron and heliotrope wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558917/"
+    }
+  },
+  {
+    "id": "s2peds-2090",
+    "category": "Polymyositis / dermatomyositis",
+    "q": "Which antibody is often positive in polymyositis/dermatomyositis per p139?",
+    "a": "Anti-Jo1 antibodies.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: anti-Jo antibodies are linked to antisynthetase syndrome (ILD, mechanic's hands, Raynaud, arthritis) and ILD in polymyositis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558917/"
+    }
+  },
+  {
+    "id": "s2peds-2091",
+    "category": "Polymyositis / dermatomyositis",
+    "q": "What is the first step in management of polymyositis/dermatomyositis per p139?",
+    "a": "Electromyography and nerve conduction studies. p139 says anti-Jo1 is usually in the vignette rather than the test to order.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: EMG helps identify affected muscles and guide biopsy, but findings are not specific and may be absent in 11% of patients.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558917/"
+    }
+  },
+  {
+    "id": "s2peds-2092",
+    "category": "Polymyositis / dermatomyositis",
+    "q": "What does confirmatory muscle biopsy show in polymyositis per p139, and what is the treatment?",
+    "a": "CD8+ T cell infiltration (CD8+ T cells and macrophages surrounding muscle fibers). Treatment is steroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: endomysial infiltrate of mostly CD8 T cells and macrophages; long-term treatment with steroids or immunomodulators.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563129/"
+    }
+  },
+  {
+    "id": "s2peds-2093",
+    "category": "Fibromyalgia",
+    "q": "What does p139 say fibromyalgia is and what are the labs?",
+    "a": "A psych condition, not an actual muscle disorder. Labs are normal, ESR is not elevated and there is no fever.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls describes fibromyalgia as a chronic widespread pain disorder with fatigue, sleep and cognitive problems and frequent psychiatric symptoms, not as purely psychiatric. I did not verify the normal ESR and no fever claim. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK540974/"
+    }
+  },
+  {
+    "id": "s2peds-2094",
+    "category": "Fibromyalgia",
+    "q": "Who gets fibromyalgia per p139?",
+    "a": "Can occur in teenagers, but typically women in their 20s-50s with multiple symmetric muscle tender points.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    }
+  },
+  {
+    "id": "s2peds-2095",
+    "category": "Fibromyalgia",
+    "q": "What treatment does p139 give for fibromyalgia?",
+    "a": "SSRIs. USMLE can write it as anti-depressant therapy, which is still correct even if she is not depressed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls lists duloxetine, milnacipran, pregabalin and amitriptyline as medications with modest benefit; SSRIs are not named there. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK540974/"
+    }
+  },
+  {
+    "id": "s2peds-2096",
+    "category": "Myotonic dystrophy",
+    "q": "What is the inheritance and mechanism of myotonic dystrophy per p139?",
+    "a": "Autosomal dominant, CTG trinucleotide repeat expansion disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: myotonic disorders are inherited in an autosomal dominant manner. I did not verify the CTG repeat wording in this chapter.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557446/"
+    }
+  },
+  {
+    "id": "s2peds-2097",
+    "category": "Myotonic dystrophy",
+    "q": "What is myotonia per p139?",
+    "a": "Inability to relax muscles.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 139,
+      "url": "/mehlman/hy-pediatrics.pdf#page=139"
+    },
+    "guideline": {
+      "text": "StatPearls: myotonia improves with repeated exercise and worsens with cold exposure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557446/"
+    }
   }
 ];
