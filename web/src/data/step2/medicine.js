@@ -15614,5 +15614,153 @@ export default [
       "text": "A review of intussusception diagnosis and reduction is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9815940/"
     }
+  },
+  {
+    "id": "s2med-1177",
+    "category": "IM Gastro",
+    "q": "Intussusception causes per p129?",
+    "a": "Idiopathic, but can follow viral infection or rotavirus vaccination, where mesenteric lymphadenopathy acts as a lead point. Underlying Meckel diverticulum is also a common lead point. Ultra-rare in the elderly, due to colon cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=129"
+    },
+    "guideline": {
+      "text": "A meta-analysis of intussusception risk after rotavirus vaccination is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28648544/"
+    }
+  },
+  {
+    "id": "s2med-1178",
+    "category": "IM Gastro",
+    "q": "Intussusception presentation per p129?",
+    "a": "Intermittent/colicky abdominal pain with the child drawing legs to the chest or squatting, blood in stool, +/- bilious vomiting. Sausage-shaped abdominal mass is key but not in all questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2med-1179",
+    "category": "IM Gastro",
+    "q": "Intussusception diagnosis and treatment per p129?",
+    "a": "Ultrasound first (sausage mass or target sign; NBME never shows the image). Then enema is both diagnostic and therapeutic; USMLE doesn't care which type (air-contrast is classic). 'Air enema with ultrasound' is the answer on one 2CK form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=129"
+    },
+    "guideline": {
+      "text": "A review of image-guided reduction is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9815940/"
+    }
+  },
+  {
+    "id": "s2med-1180",
+    "category": "IM Gastro",
+    "q": "Midgut volvulus per p129?",
+    "a": "Failure of rotation of proximal bowel; almost always under age 1. Presents like intussusception but no mass. Upper-GI series shows corkscrew appearance. If an abdominal X-ray is done: dilated small bowel loops with air-fluid levels. Treatment is surgical.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=129"
+    },
+    "img": "/mehlman/figures/med-p129-01.jpg",
+    "imgAlt": "Upper GI contrast study showing a spiral corkscrew-like duodenum",
+    "guideline": {
+      "text": "A review of malrotation and midgut volvulus is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38362395/"
+    }
+  },
+  {
+    "id": "s2med-1181",
+    "category": "IM Gastro",
+    "q": "Necrotizing enterocolitis per p129-130?",
+    "a": "Necrotic bowel in premature neonates born <32 weeks. Presents with pneumatosis intestinalis (air in the bowel wall, like bubbles).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 129,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=129"
+    },
+    "guideline": {
+      "text": "StatPearls on necrotizing enterocolitis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513357/"
+    }
+  },
+  {
+    "id": "s2med-1182",
+    "category": "IM Gastro",
+    "q": "NEC on USMLE per p130?",
+    "a": "USMLE shows the pneumatosis image in a kid born at e.g. 26 weeks; answer: necrotizing enterocolitis. Source: it usually appears as a wrong answer (e.g., in an adult); remember it as a premature neonate condition.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=130"
+    },
+    "img": "/mehlman/figures/med-p130-01.jpg",
+    "imgAlt": "Infant abdominal X-ray with dilated bowel loops and a bubbly gas pattern",
+    "guideline": {
+      "text": "StatPearls on necrotizing enterocolitis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513357/"
+    }
+  },
+  {
+    "id": "s2med-1183",
+    "category": "IM Gastro",
+    "q": "Hirschsprung disease mechanism per p130?",
+    "a": "Failure of neural crest cell migration distally in the colon, leaving an aganglionic distal segment that causes increased anal sphincter tone. Often associated with Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=130"
+    },
+    "img": "/mehlman/figures/med-p130-02.jpg",
+    "imgAlt": "Diagram of normal colon versus Hirschsprung disease with a dilated colon above a segment lacking ganglion cells",
+    "guideline": {
+      "text": "A review of Hirschsprung diagnosis in children is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308050/"
+    }
+  },
+  {
+    "id": "s2med-1184",
+    "category": "IM Gastro",
+    "q": "Hirschsprung presentation per p130?",
+    "a": "Failure to pass stool at birth, or chronic constipation in an infant depending on severity. Do not confuse with meconium ileus (failure to pass stool at birth specifically due to cystic fibrosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=130"
+    },
+    "guideline": {
+      "text": "A paper on meconium ileus in cystic fibrosis is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28986020/"
+    }
+  },
+  {
+    "id": "s2med-1185",
+    "category": "IM Gastro",
+    "q": "Hirschsprung diagnosis per p130?",
+    "a": "Anal manometry showing increased anal sphincter tone, followed by biopsy. Discussed in the HY Pulm PDF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=130"
+    },
+    "guideline": {
+      "text": "A review of Hirschsprung diagnosis is linked; I did not verify the text. Rectal biopsy is the reference standard in what I did not verify, so the manometry-first order is the source's exam sequence.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308050/"
+    }
+  },
+  {
+    "id": "s2med-1186",
+    "category": "IM Gastro",
+    "q": "Cystic fibrosis reiteration per p130?",
+    "a": "Meconium ileus and exocrine pancreatic insufficiency are exceedingly HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 130,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=130"
+    }
   }
 ];
