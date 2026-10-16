@@ -58785,5 +58785,211 @@ export default [
       "text": "Proteasome inhibition reducing MHC class I peptide presentation is described in the linked PubMed record; I did not verify the 'decreased expression' wording.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/8087844"
     }
+  },
+  {
+    "id": "s2med-4526",
+    "category": "IM Mixed",
+    "q": "25M after a motorcycle accident cannot dorsiflex the left foot but eversion is intact per p436?",
+    "a": "Deep peroneal (fibular) nerve: dorsiflexion and sensation of the web between toes 1 and 2. Superficial peroneal: eversion + sensation over most of the dorsum of the foot. Common peroneal injury loses both dorsiflexion and eversion. Tibial nerve injury loses plantar flexion and sole sensation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 436,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=436"
+    }
+  },
+  {
+    "id": "s2med-4527",
+    "category": "IM Mixed",
+    "q": "21F with vesicular painful flank rash and multinucleated giant cells: what to screen for per p436?",
+    "a": "HIV (the source says it is the only sensible listed answer; the rash is shingles/VZV, and shingles in a young patient could reflect HIV immunosuppression).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 436,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=436"
+    }
+  },
+  {
+    "id": "s2med-4528",
+    "category": "IM Mixed",
+    "q": "25M with 3 days of leg paresthesias + dysphagia + diminished reflexes, CSF protein 70 mg/dL with 5 cells/uL per p436?",
+    "a": "Guillain-Barre syndrome: 'destruction of myelin and endoneurial lymphocytic infiltrates'; CSF albuminocytologic dissociation (high protein, normal cells).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 436,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=436"
+    },
+    "guideline": {
+      "text": "CSF findings in Guillain-Barre syndrome are reviewed in the linked PubMed record.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37076309/"
+    }
+  },
+  {
+    "id": "s2med-4529",
+    "category": "IM Mixed",
+    "q": "Receptor agonism associated with pain and itching per p436?",
+    "a": "H1 agonism. Second-generation H1 blockers (loratadine) are used for allergy; first-generation (diphenhydramine, chlorpheniramine) have strong anticholinergic effects and can treat acute dystonia and motion sickness.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 436,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=436"
+    }
+  },
+  {
+    "id": "s2med-4530",
+    "category": "IM Mixed",
+    "q": "Rate-limiting step in sensory recovery after nerve injury per p436?",
+    "a": "Slow anterograde axonal transport: Wallerian degeneration breaks down axon and myelin distal to the injury; the nerve regrows anterograde at about 1 mm/day.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 436,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=436"
+    }
+  },
+  {
+    "id": "s2med-4531",
+    "category": "IM Mixed",
+    "q": "25M with palm and sole rash, given a previously received antibiotic, now fever, tachycardia, tachypnea per p436?",
+    "a": "Jarisch-Herxheimer reaction (reaction to lysis of spirochetes) in secondary syphilis (palms/soles rash) treated with penicillin G.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 436,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=436"
+    }
+  },
+  {
+    "id": "s2med-4532",
+    "category": "IM Mixed",
+    "q": "30F with RA on infliximab who has not improved: likely mediator per p437?",
+    "a": "IL-1. Infliximab is a monoclonal antibody against soluble TNF-alpha (not the receptor), so TNF-alpha is not the answer; IL-1 and IL-6 drive RA inflammation; tocilizumab is an anti-IL-6 receptor monoclonal antibody for advanced RA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 437,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=437"
+    }
+  },
+  {
+    "id": "s2med-4533",
+    "category": "IM Mixed",
+    "q": "Normal RA treatment structure per p437?",
+    "a": "Two arms: symptoms and DMARDs. Symptoms: NSAIDs then steroids (they do not slow progression). Slowing progression: first-line DMARD almost always methotrexate; if it fails or is contraindicated (pulmonary or hepatic disease), use an anti-TNF drug.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 437,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=437"
+    },
+    "guideline": {
+      "text": "The 2021 ACR rheumatoid arthritis guideline is linked for current treatment guidance.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273041/"
+    }
+  },
+  {
+    "id": "s2med-4534",
+    "category": "IM Mixed",
+    "q": "Function of Sertoli cells per p437?",
+    "a": "Produce aromatase. Sertoli cells (stimulated by FSH) also make androgen-binding protein and inhibin, and anti-Mullerian factor in the fetus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 437,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=437"
+    }
+  },
+  {
+    "id": "s2med-4535",
+    "category": "IM Mixed",
+    "q": "Leydig cells per p437?",
+    "a": "Stimulated by LH, produce androgens; Sertoli aromatase converts them to estrogens. Leydig cells in males = theca interna cells in females.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 437,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=437"
+    }
+  },
+  {
+    "id": "s2med-4536",
+    "category": "IM Mixed",
+    "q": "Androgen-binding protein per p437?",
+    "a": "Binds testosterone locally to keep concentrations high in the seminiferous tubules for spermatogenesis. Not the same as sex-hormone-binding globulin (liver; carries androgens and estrogens in blood).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 437,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=437"
+    }
+  },
+  {
+    "id": "s2med-4537",
+    "category": "IM Mixed",
+    "q": "Sertoli cells in males correspond to what in females per p437?",
+    "a": "Granulosa cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 437,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=437"
+    }
+  },
+  {
+    "id": "s2med-4538",
+    "category": "IM Mixed",
+    "q": "Sertoli-Leydig cell tumor per p437?",
+    "a": "Seen in females too; produces androgens causing hirsutism/virilization; can cause gynecomastia via aromatization of androgens to estrogens (continues on p438 for granulosa tumors).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 437,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=437"
+    }
+  },
+  {
+    "id": "s2med-4539",
+    "category": "IM Mixed",
+    "q": "Granulosa cell tumors on USMLE per p438?",
+    "a": "Present as endometrial hyperplasia from unopposed/higher estrogen, which can cause endometrial cancer (vaginal bleeding).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 438,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=438"
+    }
+  },
+  {
+    "id": "s2med-4540",
+    "category": "IM Mixed",
+    "q": "20M with both common carotids externally compressed for 10 seconds: effects per p438?",
+    "a": "Alveolar ventilation, venous tone, arterial tone, and blood pressure all increase. Less carotid sinus flow lowers baroreceptor stretch and CN IX afferent firing to the solitary nucleus; vagal efferent firing falls and sympathetic efferent firing rises (increasing heart rate), with alpha-1 vasoconstriction (more SVR, more BP) and beta-2 bronchodilation and higher respiratory rate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 438,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=438"
+    }
+  },
+  {
+    "id": "s2med-4541",
+    "category": "IM Mixed",
+    "q": "39M bilateral renal enlargement + high BP + father died of subarachnoid hemorrhage: mutated protein per p438?",
+    "a": "Polycystin (ADPKD); hypertension from cysts compressing renal microvasculature causing RAAS surges.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 438,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=438"
+    }
+  },
+  {
+    "id": "s2med-4542",
+    "category": "IM Mixed",
+    "q": "52M with 3 months of esophageal burning, diabetes, reduced pin-prick to the ankles, HbA1c 9.6%: MOA of best drug per p438?",
+    "a": "D2 receptor antagonism: metoclopramide for diabetic gastroparesis (prokinetic and antiemetic). With a plain GERD-like picture and no poor diabetic control: trial of PPI or H2 blocker (if forced to choose, PPI).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 438,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=438"
+    }
+  },
+  {
+    "id": "s2med-4543",
+    "category": "IM Mixed",
+    "q": "30F cuts a finger and bleeding stops quickly: mechanism per p438?",
+    "a": "Localized secretion of endothelin (it acts peripherally as well as in pulmonary vascular resistance).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 438,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=438"
+    }
   }
 ];

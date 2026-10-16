@@ -1501,3 +1501,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Source's p-value interpretation (p value as probability of beta error / "chance conclusion is wrong") differs from the ASA statement on p-values; source answer kept, separate sourced note added.
 - Bortezomib "decreases MHC I expression": source wording, partly supported by linked record.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p436 (IM mixed bullets: peroneal nerves, GBS, H1, Jarisch-Herxheimer) - 6 cards, ids s2med-4526 to 4531
+- No new conflicts.
+
+## p437 (IM mixed bullets: RA, Sertoli/Leydig) - 7 cards, ids s2med-4532 to 4538
+- RA treatment: source (NSAIDs then steroids for symptoms); ACR 2021 linked.
+
+## p438 (IM mixed bullets: granulosa tumor, carotid compression, ADPKD, gastroparesis, endothelin) - 5 cards, ids s2med-4539 to 4543
+- Endothelin as the cause of fast bleeding cessation: source answer, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
