@@ -927,3 +927,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: celiac "positive screen needs biopsy" (ESPGHAN 2020 allows no-biopsy at tTG-IgA 10x ULN); soy cross-reactivity 10-15% (StatPearls: up to 50%).
 - Left unverified: rotavirus not affecting adults, brush border mechanism, anti-gliadin, exclusive breastfeeding for 6 months as prevention (modern consensus differs, not confirmed in text I read), FDA hypoallergenic labeling.
 - Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
+
+## p176 (Bullet points: FPIES/FPIAP/FPE, Yersinia, C. diff, Giardia, scrotal emergencies) - 10 cards, ids s2peds-2526 to 2535
+- Inspected page text and layout; no figures. Continues the FPIES list from p175.
+- Notes verified against a 2023 FPIES review, a food protein proctocolitis/enteropathy review, StatPearls (Pseudoappendicitis, Giardiasis, Epididymitis, Testicular Torsion), the SUNSHINE pediatric C. diff trial abstract and a PubMed abstract on incarcerated pediatric hernias.
+- Source answers kept with caution notes: C. diff vancomycin (current first-line not verified here); torsion workup (cremasteric reflex unreliable, do not delay surgery).
+- Left unverified: FPIES severity wording, NBME frequency of FPIAP, Giardia metronidazole wording, prostatitis organism, hernia blue-dot discoloration.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.

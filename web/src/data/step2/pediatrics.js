@@ -36014,5 +36014,155 @@ export default [
       "text": "StatPearls: hypoallergenic formulas are enzymatically hydrolyzed; recommendations favor extensively hydrolyzed formulas over partially hydrolyzed. I did not verify the FDA labeling statement.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK542243/"
     }
+  },
+  {
+    "id": "s2peds-2526",
+    "category": "Peds vignettes",
+    "q": "What are the types of milk protein allergy per p175-176 (FPIES, FPIAP, FPE)?",
+    "a": "FPIES: very severe; incessant vomiting and diarrhea within hours of consumption; some develop shock from dehydration. FPIAP: milder; intermittent bloody stools; how cow milk allergy frequently presents on Peds NBME. FPE: chronic diarrhea that resolves when milk protein is removed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "Review: acute FPIES is repetitive projectile vomiting typically 1-4 hours (generally 2) after the trigger food, and FPIAP and FPE are separate entities. I did not verify 'very severe' for every case or the NBME frequency claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10612481/"
+    }
+  },
+  {
+    "id": "s2peds-2527",
+    "category": "Peds vignettes",
+    "q": "2-month-old boy started on cow milk formula last week, with 1 week of vomiting and diarrhea hours after feeds. Next best step per p176?",
+    "a": "Switch to hydrolyzed formula; diagnosis is FPIES.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "Review: FPIES presents with vomiting hours after the trigger food. Management specifics (trigger avoidance) I read only in part.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10612481/"
+    }
+  },
+  {
+    "id": "s2peds-2528",
+    "category": "Peds vignettes",
+    "q": "6-week-old girl on cow milk formula for 4 weeks, switched to soy formula 2 weeks ago, with 2 weeks of stool streaked with blood and mucus and no vomiting. Next best step per p176?",
+    "a": "Switch to formula with hydrolyzed casein; diagnosis is FPIAP.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "Review: FPIAP and FPE are separate entities; extensively hydrolyzed casein formula is a standard elimination formula. Soy is a common cross-reactive trigger in this setting.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250191/"
+    }
+  },
+  {
+    "id": "s2peds-2529",
+    "category": "Peds vignettes",
+    "q": "Bloody diarrhea with appendicitis-like pain (pseudoappendicitis) in a child. Diagnosis per p176?",
+    "a": "Yersinia enterocolitica.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "StatPearls: pseudoappendicitis is most commonly due to acute yersiniosis from Y. enterocolitica.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499946/"
+    }
+  },
+  {
+    "id": "s2peds-2530",
+    "category": "Peds vignettes",
+    "q": "3F who finished a 10-day antibiotic course, now with fever 101F, LLQ tenderness and positive fecal occult blood. Diagnosis and treatment per p176?",
+    "a": "C. difficile; treat with vancomycin. Two points: C. diff frequently causes bloody stool on 2CK forms; and the pseudoappendicitis of Y. enterocolitica is truly RLQ (terminal ileitis or mesenteric adenitis), not LLQ.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "Current caution: a phase 3 pediatric trial (SUNSHINE) compared fidaxomicin with vancomycin in children; I did not verify current first-line choice beyond that. The YER pseudoappendicitis RLQ point is supported by StatPearls. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31773143/"
+    }
+  },
+  {
+    "id": "s2peds-2531",
+    "category": "Peds vignettes",
+    "q": "16-month-old with Giardia infection and failure to thrive. Mechanism of failure to thrive and treatment per p176?",
+    "a": "Malabsorption of fats and carbohydrates; treat Giardia with metronidazole.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "StatPearls: chronic giardiasis can cause malabsorption and failure to thrive, with brush border disaccharidase deficiency. I did not verify the fat malabsorption wording or metronidazole in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513239/"
+    }
+  },
+  {
+    "id": "s2peds-2532",
+    "category": "Peds vignettes",
+    "q": "16M with painful testes, fever and a positive cremasteric reflex. Diagnosis per p176?",
+    "a": "Epididymitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "StatPearls: epididymitis presents with testicular pain; the cremasteric reflex is typically preserved, unlike torsion.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430814/"
+    }
+  },
+  {
+    "id": "s2peds-2533",
+    "category": "Peds vignettes",
+    "q": "Most common organism causing epididymitis per p176?",
+    "a": "Chlamydia in sexually active younger males; E. coli in elderly males; same for prostatitis. If the vignette says no organisms grow on culture, choose Chlamydia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "StatPearls: Chlamydia and gonorrhea in males under 39; E. coli and coliforms after 39. I did not verify the prostatitis claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430814/"
+    }
+  },
+  {
+    "id": "s2peds-2534",
+    "category": "Peds vignettes",
+    "q": "16M with acutely painful testes and a negative cremasteric reflex. Diagnosis and workup per p176?",
+    "a": "Testicular torsion; Doppler ultrasound followed by surgical detorsion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says the cremasteric reflex is not as sensitive as once thought and is unreliable under age 1; color Doppler of both testes is used. Suspected torsion should not be delayed by imaging when clinical suspicion is high. Source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448199/"
+    }
+  },
+  {
+    "id": "s2peds-2535",
+    "category": "Peds vignettes",
+    "q": "6M with a painful testis with blue/black discoloration of the superior pole, decreased bowel sounds, and a rigid abdomen. Diagnosis and management per p176?",
+    "a": "Strangulated hernia, not testicular torsion; operative management.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 176,
+      "url": "/mehlman/hy-pediatrics.pdf#page=176"
+    },
+    "guideline": {
+      "text": "PubMed: indirect inguinal hernias are the most commonly incarcerated hernias in children; most can be reduced nonoperatively, but strangulation needs surgery. I did not verify the vignette's blue-dot discoloration detail.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27894423/"
+    }
   }
 ];
