@@ -12320,5 +12320,236 @@ export default [
       "text": "NKCC2 is a cotransporter, not an ATPase; I did not verify the source's wording beyond that.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11663917/"
     }
+  },
+  {
+    "id": "s2med-0937",
+    "category": "IM Renal",
+    "q": "Furosemide use per p101?",
+    "a": "Most efficacious diuretic for fluid unloading in pulmonary and peripheral edema. Answer for a heart failure patient with low O2 sats who refuses to lie supine because of breathlessness (CXR or exam shows fluid 2/3 up the lung fields). Also the first drug to decrease peripheral edema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "The 2022 AHA/ACC/HFSA heart failure guideline and a review of loop diuretics exist; I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10924023/"
+    }
+  },
+  {
+    "id": "s2med-0938",
+    "category": "IM Renal",
+    "q": "Loops vs ACEi/ARB per p101?",
+    "a": "ACEi/ARBs are first-line to increase EF in heart failure even with low O2 sats (less AT-II arteriolar constriction lowers afterload), but loops are first-line if the vignette emphasizes dyspnea and low O2 sats. Loops do not decrease mortality in cardiac patients; they are only for fluid unloading.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "Current HF guideline medical therapy is broader than the source's ordering (it adds other drug classes); I did not verify details.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063"
+    }
+  },
+  {
+    "id": "s2med-0939",
+    "category": "IM Renal",
+    "q": "Loop diuretic adverse effects per p101?",
+    "a": "Ototoxicity (tinnitus, vertigo). Hypokalemia: if furosemide is started but insufficient and a second diuretic is needed, the answer is anything potassium-sparing (amiloride, triamterene, spironolactone, eplerenone). Loops increase urinary calcium (thiazides decrease it).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2med-0940",
+    "category": "IM Renal",
+    "q": "Ethacrynic acid per p101?",
+    "a": "Another loop diuretic, used in patients with sulfa allergies because furosemide is a sulfa drug. Also ototoxic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "A clinical inquiry on diuretics in sulfa allergy exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17543262/"
+    }
+  },
+  {
+    "id": "s2med-0941",
+    "category": "IM Renal",
+    "q": "Thiazides per p101?",
+    "a": "HCTZ is the HY example; chlorthalidone is thiazide-like. Inhibit the Na+/Cl- symporter on the apical membrane of the early DCT. First-line HTN in patients without renal or cardiovascular issues (with dihydropyridine CCBs). If proteinuria, increased creatinine or renin, or pre-diabetes/diabetes: ACEi or ARB first.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "A 2025 AHA/ACC hypertension guideline is linked; I did not verify the first-line wording in it.",
+      "url": "https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249"
+    }
+  },
+  {
+    "id": "s2med-0942",
+    "category": "IM Renal",
+    "q": "Thiazides and calcium per p101?",
+    "a": "Used to decrease recurrence of calcium stones by promoting reabsorption of urinary calcium; can sometimes cause hypercalcemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "A paper on thiazide-associated hypercalcemia exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2065855/"
+    }
+  },
+  {
+    "id": "s2med-0943",
+    "category": "IM Renal",
+    "q": "Thiazides in diabetic heart failure per p101?",
+    "a": "A new 2CK question has a thiazide as correct over spironolactone in a diabetic with diabetic nephropathy and heart failure already on ACEi and beta-blocker. Spironolactone can cause hyperkalemia with worrisome kidney function.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2med-0944",
+    "category": "IM Renal",
+    "q": "Other thiazide adverse effects per p101?",
+    "a": "Can cause gout (contraindicated in gout). Offline NBME 20: thiazides can cause galactorrhea by an obscure mechanism. The source says a literature search shows it is about 0.2% of adverse effects.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2med-0945",
+    "category": "IM Renal",
+    "q": "ENaC inhibitors per p101?",
+    "a": "Amiloride and triamterene block the apical sodium channel in the cortical collecting duct, decreasing Na+ and water reabsorption. Potassium-sparing: inhibiting apical ENaC indirectly inhibits the basolateral Na+/K+ ATPase, decreasing Na+ reabsorption and K+ secretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    },
+    "guideline": {
+      "text": "Reviews on potassium-sparing diuretics and amiloride's mechanism exist; I did not verify their text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2455308/"
+    }
+  },
+  {
+    "id": "s2med-0946",
+    "category": "IM Renal",
+    "q": "Second diuretic with furosemide per p101?",
+    "a": "Answer is an ENaC inhibitor (amiloride or triamterene) when the question says edema from X cause, already on furosemide, what now. Careful: one question had the patient on furosemide but needed HTN control, and the answer was a thiazide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2med-0947",
+    "category": "IM Renal",
+    "q": "Spironolactone and eplerenone mechanism per p101?",
+    "a": "Aldosterone receptor antagonists. Blocking the aldosterone receptor decreases basolateral Na+/K+ ATPase activity, indirectly decreasing apical ENaC activity, sodium and water reabsorption. Potassium-sparing; used for fluid unloading in a patient already on furosemide when K+ loss is a worry.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 101,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2med-0948",
+    "category": "IM Renal",
+    "q": "Spironolactone in heart failure per p102?",
+    "a": "Up the hierarchy of heart failure meds: ACEi/ARB first-line, then add beta-blocker, then spironolactone (but if the patient is diabetic with poor renal function, give a thiazide instead, per the new 2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "The 2022 AHA/ACC/HFSA guideline lists additional therapy classes; I did not verify the source's ordering.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063"
+    }
+  },
+  {
+    "id": "s2med-0949",
+    "category": "IM Renal",
+    "q": "Spironolactone other uses per p102?",
+    "a": "Can be used for aldosteronoma (Conn syndrome) prior to surgery. Can cause gynecomastia (anti-androgenic effect by blocking androgen receptors). Eplerenone has lower gynecomastia risk, but the source says USMLE does not care.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "Papers on eplerenone vs spironolactone in primary aldosteronism and eplerenone relieving gynecomastia exist; I did not verify their text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17018542/"
+    }
+  },
+  {
+    "id": "s2med-0950",
+    "category": "IM Renal",
+    "q": "Lisinopril per p102?",
+    "a": "USMLE-favorite ACE inhibitor. Prevents conversion of AT-I into AT-II in the lungs. Used for HTN in patients with pre-diabetes, diabetes, atherosclerotic disease or renal disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "StatPearls on ACE inhibitors is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430896/"
+    }
+  },
+  {
+    "id": "s2med-0951",
+    "category": "IM Renal",
+    "q": "ACE inhibitor adverse effects per p102?",
+    "a": "Dry cough (ACE is bradykininase, so ACEi decrease breakdown of bradykinin in the lungs). Can increase serum K+ (less aldosterone, which normally secretes K+ in the distal kidney). Avoid in hereditary angioedema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2med-0952",
+    "category": "IM Renal",
+    "q": "Valsartan per p102?",
+    "a": "Angiotensin II receptor blocker (ARB). USMLE use-cases are identical to ACEi (if both are choices, both are usually wrong because they are the 'same'). Does not cause dry cough the way ACEi do.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "A review comparing ACEi, ARBs and direct renin inhibitors exists; I did not verify its text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK61789/"
+    }
+  },
+  {
+    "id": "s2med-0953",
+    "category": "IM Renal",
+    "q": "Tolvaptan and conivaptan per p102?",
+    "a": "ADH receptor antagonists at the V2 receptor in the medullary collecting duct. Can be used for SIADH. Demeclocycline is also an answer on 2CK NBME for SIADH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 102,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=102"
+    },
+    "guideline": {
+      "text": "A review of hyponatremia and SIAD exists; I did not verify its drug recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9282351/"
+    }
   }
 ];

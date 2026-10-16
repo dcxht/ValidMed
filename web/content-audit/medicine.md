@@ -447,3 +447,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figure med-p100-01 inspected (nephron diuretic diagram). Page ends mid-diuretic table (furosemide); continues p101.
 - Unverified: drug lists; "ATPase symporter" wording flagged.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p101 (IM Renal: loop, thiazide, K-sparing diuretics) - 11 cards, ids s2med-0937 to 0947
+- Page text inspected, no figures. Page begins mid-furosemide row; ends mid-spironolactone row.
+- Conflict: HF therapy ordering vs current guideline classes. Unverified: thiazide galactorrhea 0.2%, thiazide over spironolactone in diabetic HF.
+
+## p102 (IM Renal: spironolactone, ACEi, ARB, V2 antagonists) - 6 cards, ids s2med-0948 to 0953
+- Page text inspected, no figures. End of IM Renal (p103 starts Gastro). Expletive paraphrased.
+- Unverified: eplerenone gynecomastia claim details.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
