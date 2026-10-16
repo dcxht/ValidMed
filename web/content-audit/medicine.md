@@ -402,3 +402,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Page text inspected, no figures. Page ends mid-stone table (calcium row); continues p91.
 - Unverified: AUA imaging recommendation details, review texts.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p91 (IM Renal: struvite, uric acid, cystine, crystal nephropathy) - 7 cards, ids s2med-0858 to 0864
+- Figure med-p091-01 inspected (staghorn X-ray). Page begins mid-calcium row (urine pH bullet).
+- Unverified: NH4Cl acidification for struvite; review texts.
+
+## p92 (IM Renal: ADPKD, ARPKD, PUV) - 7 cards, ids s2med-0865 to 0871
+- Figure med-p092-01 inspected (polycystic kidney illustration).
+- Conflict: ADPKD aneurysm screening only with family history (some higher-risk groups screened). Unverified: 85% liver cyst figure.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.

@@ -11235,5 +11235,203 @@ export default [
       "text": "A CARI guidelines summary on preventing recurrent kidney stones exists; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12997322/"
     }
+  },
+  {
+    "id": "s2med-0858",
+    "category": "IM Renal",
+    "q": "Urine pH and stones per p91?",
+    "a": "In theory, alkalinization of the urine can help treat oxalate stones and acidification can help treat phosphate stones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=91"
+    },
+    "guideline": {
+      "text": "Urine alkalinization is the mainstay for uric acid stones in the guideline overview below; the source's pH heuristics for calcium stones are not something I verified.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10889283/"
+    }
+  },
+  {
+    "id": "s2med-0859",
+    "category": "IM Renal",
+    "q": "Struvite stone composition and cause per p91?",
+    "a": "Ammonium magnesium phosphate. Forms in increased urine pH in the presence of urease-positive bacteria. Klebsiella, Serratia and Proteus are HY causes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=91"
+    },
+    "guideline": {
+      "text": "StatPearls on struvite calculi is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK568783/"
+    }
+  },
+  {
+    "id": "s2med-0860",
+    "category": "IM Renal",
+    "q": "Struvite stone imaging and treatment per p91?",
+    "a": "Large, ram-horn (staghorn) shaped stones; the image is HY. Treatment: adequate hydration, acidification of urine with NH4Cl, plus surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=91"
+    },
+    "img": "/mehlman/figures/med-p091-01.jpg",
+    "imgAlt": "Abdominal X-ray showing a large staghorn (ram-horn) calculus",
+    "guideline": {
+      "text": "I did not verify the NH4Cl acidification claim; surgery is the part the staghorn reference stresses.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK568783/"
+    }
+  },
+  {
+    "id": "s2med-0861",
+    "category": "IM Renal",
+    "q": "Uric acid stones per p91?",
+    "a": "Seen in patients who have gout. Not complicated. First-line treatment for chronic gout is xanthine oxidase inhibitors (allopurinol or febuxostat), preferred over uricosurics (probenecid, sulfinpyrazone) because the latter increase the risk of uric acid stones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=91"
+    },
+    "guideline": {
+      "text": "The 2020 ACR gout guideline is a reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/"
+    }
+  },
+  {
+    "id": "s2med-0862",
+    "category": "IM Renal",
+    "q": "Probenecid mechanism per p91?",
+    "a": "Probenecid and sulfinpyrazone inhibit the organic anion transporter (OAT), which normally increases uric acid absorption. Probenecid also helps maintain serum beta-lactam levels because beta-lactams are excreted by OAT; old-school docs combine them. The patient does not have gout; it is just decreasing renal excretion of the beta-lactam.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=91"
+    },
+    "guideline": {
+      "text": "A systematic review on adding probenecid to oral beta-lactams exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9721384/"
+    }
+  },
+  {
+    "id": "s2med-0863",
+    "category": "IM Renal",
+    "q": "Cystine stones per p91?",
+    "a": "Cystine is two cysteines. Hexagonal stones in a young adult from inability to reabsorb the COLA (dibasic) amino acids (Cysteine, Ornithine, Lysine, Arginine). Diagnosed with the cyanide-nitroprusside test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2med-0864",
+    "category": "IM Renal",
+    "q": "Drug crystal nephropathy per p91?",
+    "a": "Acyclovir (HSV, shingles) and indinavir (HIV) can cause crystal nephropathy. The source says not particularly HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 91,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=91"
+    },
+    "guideline": {
+      "text": "A review of crystalline nephropathies exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8640557/"
+    }
+  },
+  {
+    "id": "s2med-0865",
+    "category": "IM Renal",
+    "q": "ADPKD per p92?",
+    "a": "Autosomal dominant polycystic kidney disease, chromosome 16. USMLE answer if the disease starts as an adult (30s-40s). Cysts are present early but only become clinical in adulthood (increased BP and RFTs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=92"
+    },
+    "img": "/mehlman/figures/med-p092-01.jpg",
+    "imgAlt": "Illustration of a polycystic kidney next to a normal kidney"
+  },
+  {
+    "id": "s2med-0866",
+    "category": "IM Renal",
+    "q": "Hypertension in ADPKD per p92?",
+    "a": "Increased RAAS from compression of the kidney's microvasculature by enlarging cysts.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2med-0867",
+    "category": "IM Renal",
+    "q": "ADPKD and the circle of Willis per p92?",
+    "a": "Can cause saccular (berry) aneurysms of the circle of Willis with SAH risk. Highest-yield: serial BP checks are correct, not MR angiogram screening (a wrong answer on USMLE). MR angiogram screening is only done with a positive family history of SAH or saccular aneurysms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=92"
+    },
+    "guideline": {
+      "text": "Reviews of intracranial aneurysm screening in ADPKD exist; I did not verify their texts and screening recommendations may differ for some higher-risk patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28502970/"
+    }
+  },
+  {
+    "id": "s2med-0868",
+    "category": "IM Renal",
+    "q": "Protein in ADPKD per p92?",
+    "a": "Polycystin. Cystic kidneys are part of the ciliopathies (abnormal cilia); polycystin is required for cilia function on renal epithelium. Most common extra-renal cyst site is the liver (85% by age 30).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=92"
+    },
+    "guideline": {
+      "text": "The 85% figure is the source's; I did not verify it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39951701/"
+    }
+  },
+  {
+    "id": "s2med-0869",
+    "category": "IM Renal",
+    "q": "ARPKD per p92?",
+    "a": "Autosomal recessive polycystic kidney disease, chromosome 6. USMLE answer for cystic kidneys in pediatrics. Can be associated with hepatic fibrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=92"
+    },
+    "guideline": {
+      "text": "StatPearls on ARPKD is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537137/"
+    }
+  },
+  {
+    "id": "s2med-0870",
+    "category": "IM Renal",
+    "q": "Other cystic conditions per p92?",
+    "a": "Renal cysts can occasionally develop in other conditions such as chronic dialysis patients. Medullary sponge kidney is called a waste of time for USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2med-0871",
+    "category": "IM Renal",
+    "q": "Posterior urethral valves per p92?",
+    "a": "Most common genitourinary abnormality in neonatal males. Abnormal valves at the posterior (prostatic) urethra block urine outflow. Severity varies: most severe is in utero oligohydramnios; a 12-hour-old neonate who has not urinated with a suprapubic mass (full bladder); or a 6-week-old boy with a full bladder (partial obstruction). Obstructed outflow raises risk for UTIs, cystitis and pyelonephritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 92,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=92"
+    },
+    "guideline": {
+      "text": "StatPearls on posterior urethral valves is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
   }
 ];
