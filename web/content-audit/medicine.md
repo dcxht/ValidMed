@@ -908,3 +908,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p257 (WKS, ataxia, cerebellar signs, B12/B1) - 18 cards, ids s2med-2488 to 2505
 - Source says ataxia-telangiectasia is X-linked (flagged, unverified). Asterixis listed under cerebellar signs (flagged). Romberg wording typo corrected with note. Expletives paraphrased.
 - Mobile QA (320x740, local vite preview build, not live): all 39 cards ox=false off=false bad=0.
+
+## p258 (B1/E/B6, tremors, meningitis, encephalitis, CT before LP) - 19 cards, ids s2med-2506 to 2524
+- Essential tremor "intention" label and "LP before antibiotics" flagged with caution notes. NBME claims unverified.
+## p259 (meningitis Tx, CNS infections) - 15 cards, ids s2med-2525 to 2539
+- Steroid timing in meningitis flagged. Toxo/PJP prophylaxis thresholds and NBME claims unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.

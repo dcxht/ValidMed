@@ -33037,5 +33037,475 @@ export default [
       "text": "A review of B1 deficiency after bariatric surgery is linked; I did not verify the NBME claim or the gastrectomy point.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/35776243/"
     }
+  },
+  {
+    "id": "s2med-2506",
+    "category": "IM Neuro",
+    "q": "B1 deficiency after gastrectomy: exam trap per p258 (continued)?",
+    "a": "One of the questions also mentions a positive Romberg test for B1 deficiency. The source says everyone gets these wrong because B1 deficiency as correct post-gastrectomy (not B12) is obscure. B1 deficiency can cause peripheral neuropathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "The bariatric surgery B1 review is linked on the previous page's card; I did not verify the NBME claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35776243/"
+    }
+  },
+  {
+    "id": "s2med-2507",
+    "category": "IM Neuro",
+    "q": "Vitamin E deficiency per p258?",
+    "a": "An extremely high-yield vitamin deficiency on USMLE despite not seeming common; shows up in cystic fibrosis questions. CF patients have exocrine pancreatic insufficiency causing fat-soluble vitamin malabsorption, so CF plus neuropathy = vitamin E deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "A paper on vitamin E deficiency and neurologic function in CF is linked (title only); I did not read it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3171788/"
+    }
+  },
+  {
+    "id": "s2med-2508",
+    "category": "IM Neuro",
+    "q": "Vitamin E deficiency: other causes and vitamin D per p258?",
+    "a": "In theory seen with any cause of exocrine pancreatic insufficiency (chronic pancreatitis from alcoholism, pancreatectomy, severe diabetes), but high yield for CF questions. Bowing of the tibias or low calcium in CF patients would be vitamin D deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2med-2509",
+    "category": "IM Neuro",
+    "q": "Vitamin B6 deficiency per p258?",
+    "a": "Neuropathy and/or seizures in patients taking isoniazid for tuberculosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "A StatPearls page on isoniazid toxicity is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK531488/"
+    }
+  },
+  {
+    "id": "s2med-2510",
+    "category": "IM Neuro",
+    "q": "Essential tremor per p258?",
+    "a": "Autosomal dominant intention tremor. Can occur at any age but usually middle age and older. Patients self-medicate with alcohol, which decreases the tremor. Propranolol (beta-blockade) is the treatment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "An overview of essential tremor is linked; I did not verify the wording. The source calls it an intention tremor; reviews often describe it as a postural/kinetic tremor, so I did not verify that label.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2938289/"
+    }
+  },
+  {
+    "id": "s2med-2511",
+    "category": "IM Neuro",
+    "q": "Resting tremor per p258?",
+    "a": "Parkinson disease (or a Parkinson-plus disorder) in older patients. Wilson disease until proven otherwise in younger patients.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2med-2512",
+    "category": "IM Neuro",
+    "q": "Intention tremor causes per p258?",
+    "a": "Cerebellar lesions or essential tremor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2med-2513",
+    "category": "IM Neuro",
+    "q": "Drug-induced tremor: lithium vs valproic acid per p258?",
+    "a": "Lithium and valproic acid can both cause tremor. Lithium is classic, but an NBME question gives valproic acid as correct (lithium wrong) for a patient with tremor and abnormal liver function tests, since valproic acid is known for hepatotoxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "A review of drug-induced tremor is linked; I did not verify the NBME claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35220110/"
+    }
+  },
+  {
+    "id": "s2med-2514",
+    "category": "IM Neuro",
+    "q": "Other tremor causes per p258?",
+    "a": "Albuterol (beta-2 agonist for asthma) shows up in an NBME question as causing tremor. Alcohol withdrawal (delirium tremens): treat with a benzodiazepine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2med-2515",
+    "category": "IM Neuro",
+    "q": "Meningitis presentation per p258?",
+    "a": "High fever plus stiff neck and photophobia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2med-2516",
+    "category": "IM Neuro",
+    "q": "Bacterial meningitis: organisms per p258?",
+    "a": "Usually Group B Strep in neonates (gram-positive cocci). S. pneumoniae and N. meningitidis most common otherwise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "A paper on Group B streptococcal neonatal meningitis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8849199/"
+    }
+  },
+  {
+    "id": "s2med-2517",
+    "category": "IM Neuro",
+    "q": "Bacterial meningitis: CSF per p258?",
+    "a": "Increased protein, decreased glucose, increased neutrophils (polymorphonuclear cells).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "A WHO table of typical CSF abnormalities in bacterial and viral meningitis is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/table/ch3.tab1/"
+    }
+  },
+  {
+    "id": "s2med-2518",
+    "category": "IM Neuro",
+    "q": "Fungal meningitis per p258?",
+    "a": "Cryptococcus neoformans in immunocompromised patients (for example HIV). CSF shows increased protein, decreased glucose, increased lymphocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "A paper on CSF response in HIV cryptococcal meningitis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469563/"
+    }
+  },
+  {
+    "id": "s2med-2519",
+    "category": "IM Neuro",
+    "q": "Viral meningitis per p258?",
+    "a": "Aka aseptic meningitis. Commonly echovirus (if vaccinated); can also be mumps (if unvaccinated). CSF shows normal (or slightly elevated) protein, normal glucose, increased lymphocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "The WHO CSF table is linked on an earlier card; I did not verify the organism list.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/table/ch3.tab1/"
+    }
+  },
+  {
+    "id": "s2med-2520",
+    "category": "IM Neuro",
+    "q": "Encephalitis presentation per p258?",
+    "a": "High fever plus confusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2med-2521",
+    "category": "IM Neuro",
+    "q": "HSV encephalitis per p258?",
+    "a": "Herpes encephalitis can occur following vertical transmission. RBCs in the CSF due to temporal lobe hemorrhage. Non-contrast head CT is often negative, but they can say EEG shows abnormal spikes over the temporal region. Other CSF findings are the same as viral meningitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "A review of HSV-1 encephalitis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4965403/"
+    }
+  },
+  {
+    "id": "s2med-2522",
+    "category": "IM Neuro",
+    "q": "HSV encephalitis without RBCs per p258?",
+    "a": "The source has seen only one 2CK Neuro CMS question where RBCs were absent in CSF in herpes encephalitis; you could still get the answer because other CSF findings were viral and no other virus was listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    }
+  },
+  {
+    "id": "s2med-2523",
+    "category": "IM Neuro",
+    "q": "LP before antibiotics per p258?",
+    "a": "Do the lumbar puncture before antibiotics, as antibiotics first can interfere with culture results.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "The WHO meningitis recommendations are linked (title only); current guidance may favor not delaying antibiotics for LP. I did not verify. Source answer stays.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/"
+    }
+  },
+  {
+    "id": "s2med-2524",
+    "category": "IM Neuro",
+    "q": "CT before LP: indications per p258-259?",
+    "a": "Four indications for CT before LP in suspected meningitis/encephalitis: 1) focal neurologic signs; 2) seizure; 3) papilledema, or optic fundi cannot be visualized; 4) confusion that interferes with the neurologic exam / reduced Glasgow score.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 258,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=258"
+    },
+    "guideline": {
+      "text": "The WHO recommendations linked above address CT before LP; I did not verify the list.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/"
+    }
+  },
+  {
+    "id": "s2med-2525",
+    "category": "IM Neuro",
+    "q": "Why CT before LP per p259?",
+    "a": "Risk of an intracranial mass lesion: if LP is performed, which acutely decreases intracranial pressure, herniation and death might occur. A 2CK NBME question gives point 3 (papilledema) where the answer is CT, not LP, and many students get it wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    }
+  },
+  {
+    "id": "s2med-2526",
+    "category": "IM Neuro",
+    "q": "Empiric meningitis treatment per p259?",
+    "a": "Ceftriaxone plus vancomycin. Steroids can be added if confirmed S. pneumoniae.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "A NICE bacterial meningitis guideline is linked (title only). Caution: current guidance on when to give dexamethasone may differ from 'if confirmed S. pneumo'; I did not verify. Source answer stays.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK604183/"
+    }
+  },
+  {
+    "id": "s2med-2527",
+    "category": "IM Neuro",
+    "q": "Group B Strep meningitis treatment per p259?",
+    "a": "For Group B Strep only, choose ampicillin plus gentamicin, or ampicillin plus cefotaxime; vancomycin plus ceftriaxone is wrong on the NBME for GBS. A 2CK NBME question has amp plus gent as correct over vanc plus ceftriaxone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "A NICE neonatal infection guideline is linked (title only); I did not verify the NBME claim.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK83071/"
+    }
+  },
+  {
+    "id": "s2med-2528",
+    "category": "IM Neuro",
+    "q": "Ceftriaxone vs cefotaxime in neonates per p259?",
+    "a": "Ceftriaxone is normally avoided in the first month of life and cefotaxime is preferred as the 3rd-gen cephalosporin. The exact age of transition is not important; if a peds question lists both, cefotaxime is generally preferred.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "The same guideline is linked on the previous card; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK83071/"
+    }
+  },
+  {
+    "id": "s2med-2529",
+    "category": "IM Neuro",
+    "q": "Why avoid ceftriaxone in neonates per p259?",
+    "a": "Compared with cefotaxime, ceftriaxone displaces bilirubin from albumin, increasing risk of neonatal hyperbilirubinemia. It can also cause calcium deposits in the lungs and kidney.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    }
+  },
+  {
+    "id": "s2med-2530",
+    "category": "IM Neuro",
+    "q": "Meningitis and hearing loss per p259?",
+    "a": "Meningitis can cause sensorineural hearing loss. A 6-year-old boy not paying attention in class, doing poorly in school, with a history of meningitis: next best step = air-conduction audiometry. Do not confuse with tympanometry, which evaluates mobility of the tympanic membrane.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "A protocol for evaluating hearing loss after meningitis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10188668/"
+    }
+  },
+  {
+    "id": "s2med-2531",
+    "category": "IM Neuro",
+    "q": "Toxoplasmosis per p259?",
+    "a": "Toxoplasma gondii, a protozoan. Causes ring-enhancing lesion(s) on CT head. Does not need exposure to cats; can be acquired from pork.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "A paper on toxoplasmosis treatment is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6148195/"
+    }
+  },
+  {
+    "id": "s2med-2532",
+    "category": "IM Neuro",
+    "q": "Toxoplasmosis prophylaxis per p259?",
+    "a": "TMP-SMX prophylaxis in HIV patients with CD4 count <100/uL. Patients with HIV are already started on TMP-SMX for Pneumocystis jirovecii pneumonia (PJP) prophylaxis once CD4 is <200, so the same drug covers eventual toxo prophylaxis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "The toxoplasmosis paper is linked on the previous card; I did not verify the thresholds.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6148195/"
+    }
+  },
+  {
+    "id": "s2med-2533",
+    "category": "IM Neuro",
+    "q": "Ring-enhancing lesion in HIV on TMP-SMX per p259?",
+    "a": "Because PJP and toxo prophylaxis are the same, a ring-enhancing lesion on CT in an HIV patient with CD4 <100 who is on TMP-SMX is not toxo; the diagnosis is primary CNS lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "A paper on MRI features of HIV-related CNS disease is linked; I did not verify the exam claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8202053/"
+    }
+  },
+  {
+    "id": "s2med-2534",
+    "category": "IM Neuro",
+    "q": "Toxoplasmosis treatment per p259?",
+    "a": "Sulfadiazine plus pyrimethamine. This distinction is asked on a 2CK NBME, where TMP-SMX is also listed and wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "The toxoplasmosis paper is linked above; I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6148195/"
+    }
+  },
+  {
+    "id": "s2med-2535",
+    "category": "IM Neuro",
+    "q": "AIDS and CNS per p259?",
+    "a": "Can cause AIDS complex dementia, presenting as 'wet, wobbly, wacky' (similar to NPH) in an AIDS patient. Can cause primary CNS lymphoma, especially when CD4 count is <100/uL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    }
+  },
+  {
+    "id": "s2med-2536",
+    "category": "IM Neuro",
+    "q": "Neurocysticercosis per p259?",
+    "a": "Taenia solium; a cestode (pork tapeworm). Causes lesions within the brain in a patient who went abroad (for example Mexico). Treated with albendazole or praziquantel.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "A meta-analysis of albendazole-praziquantel versus albendazole is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41445936/"
+    }
+  },
+  {
+    "id": "s2med-2537",
+    "category": "IM Neuro",
+    "q": "Mastoiditis per p259?",
+    "a": "Complication of untreated or severe otitis media. A child has tenderness behind the ear and the pinna is displaced upward and outward.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "A review of acute mastoiditis in children is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7947742/"
+    }
+  },
+  {
+    "id": "s2med-2538",
+    "category": "IM Neuro",
+    "q": "Mastoiditis: next best step per p259?",
+    "a": "CT or MRI of the temporal bone to visualize a potential fluid collection, since if not drained it can lead to brain abscess. A 2CK form has CT of temporal bone as the answer for a kid. X-ray is wrong, as it does not adequately visualize a fluid collection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card; I did not verify the 2CK claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7947742/"
+    }
+  },
+  {
+    "id": "s2med-2539",
+    "category": "IM Neuro",
+    "q": "Brain abscess per p259?",
+    "a": "Abscess in the brain. Can be caused by septic embolus due to endocarditis: murmur plus fever plus neurologic findings means a vegetation from a heart valve has launched to the brain, causing a stroke-like presentation. Tx = drainage of abscess plus IV antibiotics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 259,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=259"
+    },
+    "guideline": {
+      "text": "An ESCMID brain abscess guideline is linked (title only); I did not read it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37648062/"
+    }
   }
 ];
