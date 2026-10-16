@@ -1053,3 +1053,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: stop breastfeeding 48 h (StatPearls: usually resolves without stopping); 11-OH normal BP (StatPearls: hypertension); 17-OH hypoglycemia (not confirmed).
 - Left unverified: breastfeeding/breast milk jaundice peak timing; 21-OH precursor list wording.
 - Mobile QA (320x740, local vite preview build, not live): all 7 cards ox=false off=false bad=0.
+
+## p194 (Bullet points: 17-OH end, Addison test, vaccine schedule) - 9 cards, ids s2peds-2713 to 2721
+- Inspected page text; no figures. Page ends mid-list at 4-6 years vaccines.
+- Notes verified against StatPearls (17-Hydroxylase Deficiency, Addison Disease) and CDC child schedule and schedule notes pages.
+- Source answers kept with caution notes: PCV13 (now PCV15/PCV20); Tdap vs DTaP in children; MMRV vs MMR; HepB 4th dose permitted with combinations; 17-OH aldosterone wording.
+- Left unverified: random cortisol 25 mcg/dL; Hib and PCV 4th dose age windows; 15-18 month DTaP; polio dose number.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.

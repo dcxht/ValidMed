@@ -38819,5 +38819,140 @@ export default [
       "text": "StatPearls: 17-hydroxylase (CYP17A1) deficiency causes hypertension, hypokalemia and metabolic alkalosis from accumulation of mineralocorticoid precursors, and it presents with delayed sexual maturation. Hypoglycemia is not a typical feature I could confirm; source answer kept.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK546644/"
     }
+  },
+  {
+    "id": "s2peds-2713",
+    "category": "Peds vignettes",
+    "q": "Finish the 17-hydroxylase deficiency explanation from p193 (p194 top). What is made and what is not?",
+    "a": "The zona fasciculata (cortisol layer) and zona reticularis (androgen layer) precursors and products cannot be made effectively; pregnenolone is shunted purely to aldosterone in the zona glomerulosa.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says CYP17A1 deficiency causes accumulation of mineralocorticoid precursors with hypertension, hypokalemia and metabolic alkalosis, and delayed sexual maturation. Whether the shunted product is aldosterone itself or its precursors differs from the source wording. Source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK546644/"
+    }
+  },
+  {
+    "id": "s2peds-2714",
+    "category": "Peds vignettes",
+    "q": "7F with progressive fatigue over 6 months, low BP and darkening of skin. Most effective test to determine diagnosis and management (Peds NBME)? Diagnosis?",
+    "a": "Plasma cortisol; diagnosis is Addison disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "StatPearls: Addison disease is established by demonstrating low cortisol and aldosterone, high renin, and a blunt cortisol response with ACTH stimulation; a low random cortisol is characteristic.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
+  },
+  {
+    "id": "s2peds-2715",
+    "category": "Peds vignettes",
+    "q": "Same vignette on the IM NBME (adult with Addison). Next best step per p194, and what random cortisol excludes it?",
+    "a": "ACTH stimulation test. Literature says a random plasma cortisol above 25 mcg/dL excludes Addison; random cortisol may be done before the ACTH stimulation test, which involves serial cortisol measurements anyway.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "StatPearls supports the ACTH stimulation test for diagnosis. I did not verify the 25 mcg/dL cutoff in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
+  },
+  {
+    "id": "s2peds-2716",
+    "category": "Peds vignettes",
+    "q": "Which vaccine is given at birth per p194?",
+    "a": "Hepatitis B.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "CDC: monovalent HepB at birth, with HBIG within 12 hours for infants of HBsAg-positive mothers.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2717",
+    "category": "Peds vignettes",
+    "q": "Hepatitis B schedule per p194 (new 2020 guidelines)?",
+    "a": "Skip the 4-month dose: give at birth, 2 months and 6 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "CDC: 3-dose series at age 0, 1-2 and 6-18 months; a 4th dose is permitted when a HepB-containing combination vaccine is used after the birth dose, and infants under 2000 g get 4 doses.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2718",
+    "category": "Peds vignettes",
+    "q": "Which vaccines are given at 2, 4 and 6 months per p194?",
+    "a": "Hepatitis B (birth, 2, 6 months only), Strep pneumo PCV13, rotavirus (oral live-attenuated), polio (Salk, IM killed), TDaP (tetanus, diphtheria, pertussis), and Haemophilus influenzae type B.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "Current caution: CDC now lists PCV15 or PCV20, not PCV13, and children under 7 get DTaP, not Tdap. Source answer kept. I did not verify rotavirus dose counts on the pages I read.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
+    }
+  },
+  {
+    "id": "s2peds-2719",
+    "category": "Peds vignettes",
+    "q": "Which vaccines are given at 1 year per p194?",
+    "a": "Strep pneumo (4th dose), Haemophilus influenzae type B (4th dose), MMRV (1st dose) and hepatitis A (1st dose).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "Current caution: CDC says MMR or MMRV may be given, and MMRV is used if parents or caregivers prefer it. I did not verify the exact age windows for the 4th pneumococcal and Hib doses.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2720",
+    "category": "Peds vignettes",
+    "q": "Which vaccines are given at 18 months per p194?",
+    "a": "Hepatitis A (2nd dose) and TDaP (4th dose).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "Current caution: children under 7 receive DTaP, not Tdap, and I did not verify the 4th-dose age window (CDC schedule lists it at 15-18 months). Source answer kept.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
+    }
+  },
+  {
+    "id": "s2peds-2721",
+    "category": "Peds vignettes",
+    "q": "Which vaccines are given at 4-6 years per p194?",
+    "a": "TDaP (5th dose) and polio (4th dose).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 194,
+      "url": "/mehlman/hy-pediatrics.pdf#page=194"
+    },
+    "guideline": {
+      "text": "Current caution: this is DTaP (5th dose) in a child, with Tdap reserved for adolescents and adults. I did not verify the polio dose number on the pages I read.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
+    }
   }
 ];
