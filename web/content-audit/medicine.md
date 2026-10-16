@@ -660,3 +660,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p160 (pure-RBC aplasia, hereditary spherocytosis) - 14 cards, ids s2med-1480 to 1493
 - Conflict: APS antibody named as b2-microglobulin in source (current criteria: anti-beta2 glycoprotein I). Unverified: MCHC 4/5 heuristic.
 - Mobile QA (320x740, local vite preview build, not live): all 31 cards ox=false off=false bad=0.
+
+## p161 (AIHA continuation, leukemoid reaction, leukemias intro, ALL) - 11 cards, ids s2med-1494 to 1504
+## p162 (ALL, CLL) - 10 cards, ids s2med-1505 to 1514
+- Unverified: "leukemias almost always B-cell", ALL CD10/TdT feedback, NBME-specific claims.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.

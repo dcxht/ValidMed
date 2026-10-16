@@ -19809,5 +19809,270 @@ export default [
       "page": 160,
       "url": "/mehlman/hy-internal-medicine.pdf#page=160"
     }
+  },
+  {
+    "id": "s2med-1494",
+    "category": "IM Heme/Onc",
+    "q": "Spherocytosis from hemolysis: Coombs per p161?",
+    "a": "Coombs (+): antibodies against RBCs. In hereditary spherocytosis the mechanism has nothing to do with antibodies, so Coombs is (-).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    },
+    "guideline": {
+      "text": "A review of warm autoimmune hemolytic anemia is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9821065/"
+    }
+  },
+  {
+    "id": "s2med-1495",
+    "category": "IM Heme/Onc",
+    "q": "How antibodies cause spherocytes per p161?",
+    "a": "Antibodies bound to RBCs can trigger complement-mediated damage, leading to deformation of the RBC membrane and cytoskeleton.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2med-1496",
+    "category": "IM Heme/Onc",
+    "q": "Child with recent viral infection, low Hb, spherocytes and positive Coombs per p161?",
+    "a": "Hemolytic anemia, not hereditary spherocytosis (answer 'no specific mutation').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2med-1497",
+    "category": "IM Heme/Onc",
+    "q": "Leukemoid reaction per p161?",
+    "a": "Exaggerated immune response to infection with markedly increased WBCs that can resemble leukemia ('-oid' means looks like but isn't).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2med-1498",
+    "category": "IM Heme/Onc",
+    "q": "WBC levels in infection vs leukemia per p161?",
+    "a": "Normal leukocyte count 4-11,000/uL. Typical infections: teens or 20,000s. When WBCs creep into the 30s, it's increasingly rare even in sepsis, so think leukemia; if no leukemia, it's called leukemoid reaction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2med-1499",
+    "category": "IM Heme/Onc",
+    "q": "USMLE leukemoid reaction answer per p161?",
+    "a": "Infection plus WBCs >30,000/uL, plus a smear showing neutrophils or elevated leukocyte ALP (low in CML).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    },
+    "guideline": {
+      "text": "A paper on leukocyte alkaline phosphatase activity is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6429381/"
+    }
+  },
+  {
+    "id": "s2med-1500",
+    "category": "IM Heme/Onc",
+    "q": "Leukemoid reaction smear per p161?",
+    "a": "Neutrophilia (lots of neutrophils). Can also be worded 'reactive granulocytosis' or 'increased release of leukocytes from bone marrow post-mitotic reserve pool'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    },
+    "img": "/mehlman/figures/med-p161-01.jpg",
+    "imgAlt": "Blood smear with many segmented neutrophils (neutrophilia)"
+  },
+  {
+    "id": "s2med-1501",
+    "category": "IM Heme/Onc",
+    "q": "Typical leukemoid reaction question per p161?",
+    "a": "UTI plus WBCs 32,000/uL plus the neutrophilia smear.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2med-1502",
+    "category": "IM Heme/Onc",
+    "q": "Leukemia: general facts per p161?",
+    "a": "Cancer of white blood cells in the blood; almost always B-cell in origin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2med-1503",
+    "category": "IM Heme/Onc",
+    "q": "T-cell lymphocytic leukemia (ALL, CLL) on USMLE per p161?",
+    "a": "Apart from Sezary syndrome and mycosis fungoides, a T-cell one is signaled by an SVC-like syndrome (positive Pemberton sign, congested neck veins and/or facial erythema/swelling) from a thymic lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    },
+    "guideline": {
+      "text": "The EBMT handbook chapter on adult ALL is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK608240/"
+    }
+  },
+  {
+    "id": "s2med-1504",
+    "category": "IM Heme/Onc",
+    "q": "Acute lymphoblastic leukemia (ALL): who per p161?",
+    "a": "The answer for a pre-adolescent child with leukemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 161,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=161"
+    }
+  },
+  {
+    "id": "s2med-1505",
+    "category": "IM Heme/Onc",
+    "q": "ALL vignette per p162?",
+    "a": "A 6-year-old with a leukocyte count of 60,000/uL, 90% lymphocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2med-1506",
+    "category": "IM Heme/Onc",
+    "q": "ALL vs pertussis per p162?",
+    "a": "Pertussis can cause an ALL-like picture (WBCs 30-40,000+, 90% lymphocytes): reactive lymphocytosis. Distinguish by cough and/or post-tussive emesis and/or hypoglycemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    },
+    "guideline": {
+      "text": "A paper on pertussis lymphocytosis is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2042590/"
+    }
+  },
+  {
+    "id": "s2med-1507",
+    "category": "IM Heme/Onc",
+    "q": "ALL markers per p162?",
+    "a": "CD10 and TdT positive (the source says feedback reports them appearing).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2med-1508",
+    "category": "IM Heme/Onc",
+    "q": "ALL and Down syndrome per p162?",
+    "a": "Increased risk. A Down syndrome stem asking what the child is at greatest risk of developing: 'excess lymphoblasts'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    },
+    "guideline": {
+      "text": "A review of ALL in children with Down syndrome is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5434972/"
+    }
+  },
+  {
+    "id": "s2med-1509",
+    "category": "IM Heme/Onc",
+    "q": "ALL smear per p162?",
+    "a": "Lymphoblasts appear smooth and relatively uniform.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    },
+    "img": "/mehlman/figures/med-p162-01.jpg",
+    "imgAlt": "Blood smear with uniform lymphoblasts of ALL"
+  },
+  {
+    "id": "s2med-1510",
+    "category": "IM Heme/Onc",
+    "q": "Chronic lymphocytic leukemia (CLL) vignette per p162?",
+    "a": "Sounds like ALL but not in a child (usually older adults).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    },
+    "guideline": {
+      "text": "A review of lymphocytosis and CLL is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9135088/"
+    }
+  },
+  {
+    "id": "s2med-1511",
+    "category": "IM Heme/Onc",
+    "q": "70-year-old with WBCs 87,000/uL (90% lymphocytes): next best step per p162?",
+    "a": "Quantitative immunoglobulin assay, which can sometimes show increased monoclonal immunoglobulin in CLL (an NBME answer).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    }
+  },
+  {
+    "id": "s2med-1512",
+    "category": "IM Heme/Onc",
+    "q": "CLL smear per p162?",
+    "a": "Smudge cells (fragile cells on light microscopy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    },
+    "img": "/mehlman/figures/med-p162-02.jpg",
+    "imgAlt": "Blood smear with smudge cells and small lymphocytes of CLL"
+  },
+  {
+    "id": "s2med-1513",
+    "category": "IM Heme/Onc",
+    "q": "CLL immunophenotype per p162?",
+    "a": "CD5 and CD23 positive (asked on an NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    },
+    "guideline": {
+      "text": "A paper on lymphocytosis with smudge cells is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8255663/"
+    }
+  },
+  {
+    "id": "s2med-1514",
+    "category": "IM Heme/Onc",
+    "q": "CLL associated autoimmune disease per p162?",
+    "a": "Warm autoimmune hemolytic anemia (IgG against RBCs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 162,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=162"
+    }
   }
 ];
