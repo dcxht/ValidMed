@@ -815,3 +815,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source inconsistency flagged: two acrocyanosis vignettes with different next steps (warming lights vs tactile stimulation and oxygen).
 - Left unverified: L/S cutoff of 2, lymphatic absorption mechanism, germinal matrix bleed as oxygen effect, three VSD exam patterns, to-and-fro murmur for PDA.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p160 (Bullet points: PDA sounds, ASD, neonatal lupus, Williams, murmur associations, PSVT, rheumatic fever) - 13 cards, ids s2peds-2375 to 2387
+- Inspected page text and layout; no figures. Page ends mid-vignette; the rheumatic fever line may continue on p161.
+- Notes verified against StatPearls (PDA, ASD, Neonatal Lupus, Williams, HCM, MVP, Acute Rheumatic Fever) and a neonatal SVT review.
+- Source conflict, source answer kept with caution note: rheumatic fever at 2 days after strep (StatPearls: 2 to 4 weeks).
+- Left unverified: to-and-fro and bounding-pulse PDA descriptors, hypercalcemia and verbal skills in Williams, Valsalva direction, late-peaking murmur with click, adenosine step, PSGN 1-2 week interval.
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.

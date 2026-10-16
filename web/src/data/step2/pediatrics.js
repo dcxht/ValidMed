@@ -33793,5 +33793,184 @@ export default [
       "text": "StatPearls covers patent ductus arteriosus. I did not verify the 'to-and-fro' murmur description.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK430758/"
     }
+  },
+  {
+    "id": "s2peds-2375",
+    "category": "Peds vignettes",
+    "q": "What are the four ways PDA sounds on the Peds shelf per p160?",
+    "a": "1) Continuous, machinery-like murmur. 2) Pan-systolic-pan-diastolic (continuous means present throughout the cardiac cycle). 3) To-and-fro murmur (HY; also NBME 6 for 2CK). 4) Bounding pulses (normally aortic regurgitation, but a rare PDA descriptor because blood leaves the aorta quickly L to R); the question will say continuous murmur with bounding pulses, whereas AR is a decrescendo holodiastolic murmur.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls covers patent ductus arteriosus. I did not verify the to-and-fro and bounding-pulse descriptors.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430758/"
+    }
+  },
+  {
+    "id": "s2peds-2376",
+    "category": "Peds vignettes",
+    "q": "2-month-old boy with fixed splitting of S2. Diagnosis per p160?",
+    "a": "Patent foramen ovale (ASD).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls: a soft systolic ejection murmur over the pulmonic area with wide, fixed S2 splitting is characteristic of ASD; PFO is the most frequent type listed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK535440/"
+    }
+  },
+  {
+    "id": "s2peds-2377",
+    "category": "Peds vignettes",
+    "q": "What heart problem occurs in a neonate of a mother with SLE per p160?",
+    "a": "Congenital third-degree heart block.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls: neonatal lupus from maternal anti-Ro/SSA and anti-La/SSB IgG; congenital heart block was first documented in an infant of a mother with SLE.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526061/"
+    }
+  },
+  {
+    "id": "s2peds-2378",
+    "category": "Peds vignettes",
+    "q": "3M with elfin-like facies, hypercalcemia and well-developed verbal skills. Diagnosis per p160?",
+    "a": "Williams syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls: elfin-like facies with supravalvular aortic stenosis. I did not verify hypercalcemia or verbal skills in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544278/"
+    }
+  },
+  {
+    "id": "s2peds-2379",
+    "category": "Peds vignettes",
+    "q": "What is the heart problem in Williams syndrome per p160?",
+    "a": "Supravalvular aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls: the characteristic cardiac defect is supravalvular aortic stenosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544278/"
+    }
+  },
+  {
+    "id": "s2peds-2380",
+    "category": "Peds vignettes",
+    "q": "A bicuspid aortic valve is most likely to cause which murmur per p160?",
+    "a": "Aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2peds-2381",
+    "category": "Peds vignettes",
+    "q": "Mid-systolic (crescendo-decrescendo) murmur that gets worse with Valsalva. Diagnosis per p160?",
+    "a": "HOCM.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls notes Valsalva is among provocative maneuvers in the HCM exam. I did not verify the direction of change.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430788/"
+    }
+  },
+  {
+    "id": "s2peds-2382",
+    "category": "Peds vignettes",
+    "q": "Mid-systolic (crescendo-decrescendo) murmur with no change or softening on Valsalva. Diagnosis per p160?",
+    "a": "Aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2peds-2383",
+    "category": "Peds vignettes",
+    "q": "Myxomatous degeneration of the mitral valve, or a mid-systolic click. Diagnosis per p160?",
+    "a": "Mitral valve prolapse (MVP).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls: MVP is also called systolic click-murmur syndrome.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470288/"
+    }
+  },
+  {
+    "id": "s2peds-2384",
+    "category": "Peds vignettes",
+    "q": "Marfan or Ehlers-Danlos syndrome: which heart murmurs per p160?",
+    "a": "MVP or aortic regurgitation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2peds-2385",
+    "category": "Peds vignettes",
+    "q": "What is another way the shelf describes aortic stenosis per p160?",
+    "a": "A late-peaking systolic murmur with an ejection click.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2peds-2386",
+    "category": "Peds vignettes",
+    "q": "2-week-old girl, HR 240, QRS duration 50 ms, no P waves, awake and alert, ice pack to the face does not change the HR. Next best step per p160?",
+    "a": "Adenosine. Diagnosis: paroxysmal supraventricular tachycardia (PSVT). Complexes are needle-shaped (short QRS), unlike ventricular tachycardia with wide complexes (over 120 ms).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "Review: common reentrant SVTs present with a narrow QRS complex. I did not verify adenosine after failed vagal maneuvers in this passage.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6904811/"
+    }
+  },
+  {
+    "id": "s2peds-2387",
+    "category": "Peds vignettes",
+    "q": "10-month-old girl, sore throat for 2 days, fever 101F, S3 gallop. What best explains these findings per p160?",
+    "a": "Myocarditis (rheumatic fever). PSGN takes 1-2 weeks after Group A Strep, but the NBME has RF occurring as early as 2 days.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 160,
+      "url": "/mehlman/hy-pediatrics.pdf#page=160"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says acute rheumatic fever presents 2 to 4 weeks after untreated GAS infection and carditis within 2 to 3 weeks, so a 2-day onset conflicts. Source answer kept as the exam pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK594238/"
+    }
   }
 ];
