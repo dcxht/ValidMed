@@ -1302,3 +1302,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p376 (IM mixed bullets: tamponade, pneumonia, PE) - 15 cards, ids s2med-3793 to 3807
 - CAP empiric choices and "heparin before CT" exam rules: source answers kept; not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 35 cards ox=false off=false bad=0.
+
+## p377 (IM mixed bullets: toxicology, Ca, incontinence) - 14 cards, ids s2med-3808 to 3821
+- Calcium unit printed as mEq/L on p377 (mg/dL on p369); noted in card. No notes or links (exam one-liners; unverified).
+
+## p378 (IM mixed bullets: BPH, UTI, dementia, Parkinsonism) - 12 cards, ids s2med-3822 to 3833
+- Exam one-liners from source; no external verification done.
+- Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.

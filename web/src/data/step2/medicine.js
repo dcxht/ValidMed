@@ -50807,5 +50807,291 @@ export default [
       "page": 376,
       "url": "/mehlman/hy-internal-medicine.pdf#page=376"
     }
+  },
+  {
+    "id": "s2med-3808",
+    "category": "IM Mixed",
+    "q": "Acid-base in aspirin toxicity after 20 minutes per p377 (continued from p376)?",
+    "a": "Mixed metabolic acidosis-respiratory alkalosis: low CO2, low pH, normal O2, low bicarb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3809",
+    "category": "IM Mixed",
+    "q": "Treatment of aspirin toxicity per p377?",
+    "a": "Bicarb (increased excretion through urinary alkalinization).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3810",
+    "category": "IM Mixed",
+    "q": "Treatment of TCA toxicity per p377?",
+    "a": "Sodium bicarb, which dissociates the drug from myocardial sodium channels.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3811",
+    "category": "IM Mixed",
+    "q": "Normal calcium per p377?",
+    "a": "8.4-10.2 (the source writes mEq/L; p369 of the source gives it as mg/dL).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3812",
+    "category": "IM Mixed",
+    "q": "Hypercalcemia treatment by level per p377?",
+    "a": "10.2-12: normal saline. 12-14: normal saline only if asymptomatic; add a bisphosphonate (e.g., pamidronate) if symptomatic. 14+: normal saline + bisphosphonate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3813",
+    "category": "IM Mixed",
+    "q": "High calcium + polyuria or confusion per p377?",
+    "a": "Polyuria: nephrogenic diabetes insipidus (weird, but on NBME). Confusion: delirium caused by high calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3814",
+    "category": "IM Mixed",
+    "q": "Low calcium or potassium not responsive to supplementation per p377?",
+    "a": "Cause is low Mg; in an alcoholic, hypomagnesemia is the cause.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3815",
+    "category": "IM Mixed",
+    "q": "Ataxia, confusion, ophthalmoplegia per p377?",
+    "a": "Wernicke encephalopathy (B1 deficiency).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3816",
+    "category": "IM Mixed",
+    "q": "Retrograde amnesia + confabulation in an alcoholic per p377?",
+    "a": "Korsakoff psychosis. Wernicke-Korsakoff syndrome involves the mammillary bodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3817",
+    "category": "IM Mixed",
+    "q": "Many pregnancies + downward movement of the vesicourethral junction per p377?",
+    "a": "Stress incontinence. Treatment: pelvic floor (Kegel) exercises; if insufficient, mid-urethral sling.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3818",
+    "category": "IM Mixed",
+    "q": "Urge incontinence clues per p377?",
+    "a": "Hyperactive detrusor or detrusor instability; needing to run to the bathroom when sticking a key in the door; incontinence in a multiple sclerosis or perimenopausal patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3819",
+    "category": "IM Mixed",
+    "q": "Treatment of urge incontinence per p377?",
+    "a": "Oxybutynin (muscarinic cholinergic antagonist) or mirabegron (beta-3 agonist).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3820",
+    "category": "IM Mixed",
+    "q": "Overflow incontinence per p377?",
+    "a": "Incontinence + high post-void volume (usually 300-400 mL in the question; normal is <50 mL). Seen in diabetes (neurogenic bladder), where treatment is bethanechol (muscarinic cholinergic agonist).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3821",
+    "category": "IM Mixed",
+    "q": "Incontinence in BPH per p377 (continued on p378)?",
+    "a": "Overflow incontinence due to outlet obstruction, with eventual neurogenic bladder.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 377,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=377"
+    }
+  },
+  {
+    "id": "s2med-3822",
+    "category": "IM Mixed",
+    "q": "Treatment of overflow incontinence in BPH per p378 (continued from p377)?",
+    "a": "Insert a catheter first; then an alpha-1 blocker or 5-alpha-reductase inhibitor; then TURP if necessary.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3823",
+    "category": "IM Mixed",
+    "q": "Exquisitely tender prostate on DRE per p378?",
+    "a": "Prostatitis. Treatment: ciprofloxacin (fluoroquinolone; DNA gyrase / topoisomerase II inhibitor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3824",
+    "category": "IM Mixed",
+    "q": "Costovertebral angle tenderness + fever per p378?",
+    "a": "Pyelonephritis. With granular casts it is still pyelonephritis (super weird; not acute tubular necrosis; on a 2CK NBME). Treatment: ciprofloxacin, or ampicillin + gentamicin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3825",
+    "category": "IM Mixed",
+    "q": "Saddle anesthesia + urinary retention per p378?",
+    "a": "Cauda equina syndrome. Perianal anesthesia + urinary retention or incontinence: conus medullaris syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3826",
+    "category": "IM Mixed",
+    "q": "Gradual-onset dementia with no sensory or motor dysfunction per p378?",
+    "a": "Alzheimer. Low mini-mental state exam score in a patient who tries to do well: Alzheimer. Patient merely complaining about memory loss: normal aging, not Alzheimer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3827",
+    "category": "IM Mixed",
+    "q": "Low mini-mental state score with apathy per p378?",
+    "a": "Apathetic, takes long to perform tasks, or does poorly on reverse serial 7s: depression (pseudodementia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3828",
+    "category": "IM Mixed",
+    "q": "Alzheimer treatment per p378?",
+    "a": "First-line donepezil (cholinesterase inhibitor, increases cholinergic transmission); can also give galantamine or rivastigmine. NMDA (glutamate) receptor antagonist: memantine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3829",
+    "category": "IM Mixed",
+    "q": "Vascular dementia per p378?",
+    "a": "Step-wise decline and/or sensory/motor disturbance; history of hypertension + dementia + sensory/motor disturbance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3830",
+    "category": "IM Mixed",
+    "q": "Other dementia clues per p378?",
+    "a": "Visual hallucinations + Parkinsonism + dementia: Lewy body dementia. Apathy + disinhibition + personality change: frontotemporal dementia (Pick disease).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3831",
+    "category": "IM Mixed",
+    "q": "Wet, wobbly, wacky per p378?",
+    "a": "Urinary incontinence + ataxia + CNS dysfunction: normal-pressure hydrocephalus; still NPH even with Parkinsonism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3832",
+    "category": "IM Mixed",
+    "q": "Parkinsonism clues per p378?",
+    "a": "Young patient: Wilson disease till proven otherwise. Older patient: Parkinson disease. With axial dystonia: progressive supranuclear palsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
+  },
+  {
+    "id": "s2med-3833",
+    "category": "IM Mixed",
+    "q": "Treatment of UTI per p378?",
+    "a": "TMP/SMX or nitrofurantoin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 378,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=378"
+    }
   }
 ];
