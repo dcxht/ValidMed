@@ -655,3 +655,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p158 (platelet glycoproteins, SLE, PNH, Hageman, thrombophilia) - 15 cards, ids s2med-1448 to 1462
 - Notes: ET treatment (aspirin + plateletpheresis) differs from risk-adapted current practice. Unverified: "100% splenomegaly", SLE arthritis >90%, NBME-specific claims.
 - Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
+
+## p159 (AT III, APS, neutropenia, aplastic anemia) - 17 cards, ids s2med-1463 to 1479
+## p160 (pure-RBC aplasia, hereditary spherocytosis) - 14 cards, ids s2med-1480 to 1493
+- Conflict: APS antibody named as b2-microglobulin in source (current criteria: anti-beta2 glycoprotein I). Unverified: MCHC 4/5 heuristic.
+- Mobile QA (320x740, local vite preview build, not live): all 31 cards ox=false off=false bad=0.

@@ -19426,5 +19426,388 @@ export default [
       "page": 158,
       "url": "/mehlman/hy-internal-medicine.pdf#page=158"
     }
+  },
+  {
+    "id": "s2med-1463",
+    "category": "IM Heme/Onc",
+    "q": "Antithrombin III deficiency, second presentation per p159?",
+    "a": "Patient with nephrotic syndrome who has DVT, superficial thrombophlebitis, renal vein thrombosis or varicocele. AT III can be lost in the urine. (First presentation on p158: young healthy adult with thromboses and no mention of PT/PTT.)",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    },
+    "guideline": {
+      "text": "A paper on acquired AT III deficiency and thrombosis in nephrotic syndrome is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/707521/"
+    }
+  },
+  {
+    "id": "s2med-1464",
+    "category": "IM Heme/Onc",
+    "q": "Antiphospholipid syndrome (APS): the paradox per p159?",
+    "a": "Antibodies against phospholipids cause in vivo thromboses despite an in vitro increased PTT (you'd expect bleeding, not clots).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    },
+    "guideline": {
+      "text": "The 2023 ACR/EULAR APS classification criteria are linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37640450/"
+    }
+  },
+  {
+    "id": "s2med-1465",
+    "category": "IM Heme/Onc",
+    "q": "Why is PTT increased in APS per p159?",
+    "a": "Phospholipids are needed for the in vitro assay to work.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1466",
+    "category": "IM Heme/Onc",
+    "q": "Why thromboses in vivo in APS per p159?",
+    "a": "1) Antibodies against platelet-membrane phospholipids activate platelets, which secrete procoagulant molecules. 2) They bind endothelial cells, causing dysfunction and a prothrombotic state. 3) They're pro-inflammatory: increased IL-6 and TNF-alpha activate tissue factor. The source says USMLE will not assess these mechanisms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1467",
+    "category": "IM Heme/Onc",
+    "q": "APS: causes per p159?",
+    "a": "Idiopathic (the source writes antibodies against b2-microglobulin or cardiolipin) or secondary to SLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    },
+    "guideline": {
+      "text": "Conflict: the source says b2-microglobulin; current criteria name anti-beta2 glycoprotein I and anticardiolipin antibodies (and lupus anticoagulant). I did not verify the source's wording. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37640450/"
+    }
+  },
+  {
+    "id": "s2med-1468",
+    "category": "IM Heme/Onc",
+    "q": "Lupus anticoagulant per p159?",
+    "a": "If APS is due to SLE, the antibodies are called 'lupus anticoagulant' but are the same antibodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1469",
+    "category": "IM Heme/Onc",
+    "q": "APS and syphilis tests per p159?",
+    "a": "APS can cause false-positive VDRL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1470",
+    "category": "IM Heme/Onc",
+    "q": "How does neutropenia present per p159?",
+    "a": "Mouth ulcers, fever and sore throat. Stems usually don't say 'neutropenia': e.g., a child on chemotherapy for AML with mouth ulcers and/or sore throat.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1471",
+    "category": "IM Heme/Onc",
+    "q": "Neutropenic (febrile) fever: setting per p159?",
+    "a": "Fever with low neutrophils after chemo- or radiotherapy-induced pancytopenia, or viral-induced neutropenia (e.g., parvovirus B19), with or without low RBCs and platelets. Medical emergency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    },
+    "guideline": {
+      "text": "A review of febrile neutropenia in cancer is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38980295/"
+    }
+  },
+  {
+    "id": "s2med-1472",
+    "category": "IM Heme/Onc",
+    "q": "Next best step in neutropenic fever per p159?",
+    "a": "IV broad-spectrum antibiotics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1473",
+    "category": "IM Heme/Onc",
+    "q": "After antibiotics in neutropenic fever per p159?",
+    "a": "G-CSF (filgrastim). The source has never seen granulocyte transfusion as a correct USMLE answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1474",
+    "category": "IM Heme/Onc",
+    "q": "Viral-induced neutropenia per p159?",
+    "a": "Parvovirus B19 infects myeloid precursors. Other viruses can make antibodies against neutrophils, like antibodies against platelets in ITP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1475",
+    "category": "IM Heme/Onc",
+    "q": "Cyclic neutropenia per p159?",
+    "a": "Gene mutation causing episodes of fever and mouth ulcers in a child aged 1-3, typically every 21 days (the stem may just say 'several episodes like this before').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    },
+    "guideline": {
+      "text": "StatPearls on cyclic neutropenia is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557396/"
+    }
+  },
+  {
+    "id": "s2med-1476",
+    "category": "IM Heme/Onc",
+    "q": "Aplastic anemia: definition per p159?",
+    "a": "All cell lines (RBCs, WBCs, platelets) decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1477",
+    "category": "IM Heme/Onc",
+    "q": "Causes of aplastic anemia per p159?",
+    "a": "Parvovirus B19 (infects myeloid progenitors, erythroid progenitors and megakaryocytes), other viruses such as Hepatitis A or HIV, chemo- and/or radiotherapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1478",
+    "category": "IM Heme/Onc",
+    "q": "Fanconi anemia per p159?",
+    "a": "Rare autosomal recessive aplastic anemia that also presents with hypo-/aplastic thumbs and radii.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    },
+    "guideline": {
+      "text": "A review on marrow failure is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292739/"
+    }
+  },
+  {
+    "id": "s2med-1479",
+    "category": "IM Heme/Onc",
+    "q": "Pure-RBC aplasia: definition per p159?",
+    "a": "Only RBCs are decreased. (Causes continue on p160.)",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 159,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2med-1480",
+    "category": "IM Heme/Onc",
+    "q": "Causes of pure-RBC aplasia per p160?",
+    "a": "Parvovirus B19. Thymoma (which can also cause myasthenia gravis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "A paper on pure red cell aplasia with thymoma is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10286678/"
+    }
+  },
+  {
+    "id": "s2med-1481",
+    "category": "IM Heme/Onc",
+    "q": "Diamond-Blackfan anemia per p160?",
+    "a": "Rare pure-RBC aplasia presenting with triphalangeal thumbs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "A review on marrow failure is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292739/"
+    }
+  },
+  {
+    "id": "s2med-1482",
+    "category": "IM Heme/Onc",
+    "q": "Hereditary spherocytosis: inheritance and defect per p160?",
+    "a": "Autosomal dominant (one of the highest-yield inheritance patterns). Heterozygous mutation in ankyrin, spectrin or band proteins: RBC membrane/cytoskeletal defect, so RBCs deform from biconcave discs into spheres.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "StatPearls on hereditary spherocytosis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539797/"
+    }
+  },
+  {
+    "id": "s2med-1483",
+    "category": "IM Heme/Onc",
+    "q": "Hereditary spherocytosis: the answer 'cell membrane' per p160?",
+    "a": "USMLE may give hereditary spherocytosis and the answer is just 'cell membrane,' 'cytoskeleton' or 'cytoskeletal defect'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1484",
+    "category": "IM Heme/Onc",
+    "q": "Hereditary spherocytosis smear per p160?",
+    "a": "RBCs lacking central pallor; they look full and red.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    },
+    "img": "/mehlman/figures/med-p160-01.jpg",
+    "imgAlt": "Blood smear with round red cells lacking central pallor"
+  },
+  {
+    "id": "s2med-1485",
+    "category": "IM Heme/Onc",
+    "q": "Anemia type in hereditary spherocytosis per p160?",
+    "a": "Normochromic, normocytic (asked on an NBME directly).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1486",
+    "category": "IM Heme/Onc",
+    "q": "Hereditary spherocytosis: gallstones per p160?",
+    "a": "Pigment stone cholelithiasis, since the spleen identifies spherocytes as abnormal and increases RBC turnover.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1487",
+    "category": "IM Heme/Onc",
+    "q": "MCHC in hereditary spherocytosis per p160?",
+    "a": "Can be increased. Not specific, but the source says if mentioned, 4/5 times the diagnosis is spherocytosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1488",
+    "category": "IM Heme/Onc",
+    "q": "Diagnosing hereditary spherocytosis per p160?",
+    "a": "Osmotic fragility test and eosin-5-maleimide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    },
+    "guideline": {
+      "text": "The 2021 hereditary spherocytosis diagnostic protocol update is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8649336/"
+    }
+  },
+  {
+    "id": "s2med-1489",
+    "category": "IM Heme/Onc",
+    "q": "Coombs test in hereditary spherocytosis per p160?",
+    "a": "Negative (no antibodies against RBCs); contrasts with spherocytosis due to hemolysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1490",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of hereditary spherocytosis per p160?",
+    "a": "Splenectomy (decreases RBC turnover). Can appear as 'splenectomy and cholecystectomy' together.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1491",
+    "category": "IM Heme/Onc",
+    "q": "Child with low Hb and a parent who had splenectomy +/- cholecystectomy for 'an anemia' per p160?",
+    "a": "Hereditary spherocytosis (autosomal dominant pattern, with the parent also affected).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1492",
+    "category": "IM Heme/Onc",
+    "q": "Which heme condition is often treated with splenectomy per p160?",
+    "a": "Hereditary spherocytosis, not sickle cell. Sickle cell causes autosplenectomy from repeated microinfarcts in splenic microvasculature; it isn't treated with splenectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
+  },
+  {
+    "id": "s2med-1493",
+    "category": "IM Heme/Onc",
+    "q": "Other causes of spherocytosis per p160?",
+    "a": "Not always hereditary: also seen with drug- or infection-induced hemolysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 160,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=160"
+    }
   }
 ];
