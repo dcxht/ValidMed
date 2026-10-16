@@ -339,3 +339,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures). End of the Pulmonary section (next: Renal p77).
 - Source calls dornase alfa a "nucleotidase" (it is DNase); ivacaftor stated as in source.
 - Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.
+
+## p77 (IM Renal: basic lab values) - 8 cards, ids s2med-0744 to 0751
+- Inspected page text (no figures). New category "IM Renal".
+- Unverified: "Cr 2 = 90% function lost"; source says Ca2+ reabsorbed in late DCT (most reabsorption is proximal). Source typo "secondary hyperthyroidism".
+
+## p78 (IM Renal: afferent/efferent, pre-renal vs ATN) - 8 cards, ids s2med-0752 to 0759
+- Inspected page text (no figures). Page ends mid-sentence (ketorolac case); carried to p79.
+- Source's FENa/BUN-Cr rules kept as exam heuristics; FENa has known limits (not text-verified).
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.

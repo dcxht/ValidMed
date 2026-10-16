@@ -9691,5 +9691,209 @@ export default [
       "page": 76,
       "url": "/mehlman/hy-internal-medicine.pdf#page=76"
     }
+  },
+  {
+    "id": "s2med-0744",
+    "category": "IM Renal",
+    "q": "BUN and uremia per p77?",
+    "a": "BUN should be <20 mg/dL. High urea nitrogen in the blood is azotemia. 'Uremia' technically means urea in the blood but is used for symptomatic renal failure with poor labs; it has nothing to do with hyperuricemia (gout).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2med-0745",
+    "category": "IM Renal",
+    "q": "Creatinine per p77?",
+    "a": "Normal 0.7-1.2 mg/dL. The source says that once creatinine hits 2, about 90% of renal function is lost.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "StatPearls on renal function tests is a reference; I did not verify the 90% claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507821/"
+    }
+  },
+  {
+    "id": "s2med-0746",
+    "category": "IM Renal",
+    "q": "Potassium in renal failure per p77?",
+    "a": "Normal 3.5-5.0 mEq/L; always elevated in renal failure on USMLE. The kidney normally secretes K+ in the cortical collecting duct under aldosterone; if the kidney is damaged it cannot, so serum K+ rises.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "A review of hyperkalemia in CKD exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9356601/"
+    }
+  },
+  {
+    "id": "s2med-0747",
+    "category": "IM Renal",
+    "q": "Sodium in renal failure per p77?",
+    "a": "Normal 135-145 mEq/L; can be variable on NBMEs. Aldosterone reabsorbs Na+ in the cortical collecting duct in exchange for K+, but other mechanisms (e.g., vasopressin) regulate sodium, so Na+ can be normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2med-0748",
+    "category": "IM Renal",
+    "q": "Calcium in renal failure per p77?",
+    "a": "Always decreased. 1) Ca2+ is reabsorbed in the late DCT (source wording), and that fails. 2) PCT 1-alpha-hydroxylase (under PTH) activates 25-OH-D3 to 1,25(OH)2-D3, which increases small bowel Ca2+ absorption; this fails too.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "The KDIGO CKD-MBD guideline is a reference; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6340919/"
+    }
+  },
+  {
+    "id": "s2med-0749",
+    "category": "IM Renal",
+    "q": "Secondary hyperparathyroidism in renal failure per p77?",
+    "a": "Low serum Ca2+ means decreased negative feedback at the parathyroid Ca2+-sensing receptors, so PTH rises. 'Secondary' means PTH is high due to a cause external to the parathyroid glands; due to renal failure. The source text misspells it 'secondary hyperthyroidism' in one place.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2med-0750",
+    "category": "IM Renal",
+    "q": "Phosphate in renal failure per p77?",
+    "a": "Always increased: 1) the kidney cannot filter it out; 2) PTH normally decreases PCT phosphate reabsorption (by downregulating phosphate pumps), but its function is impaired, so the kidney reabsorbs too much. Low Ca2+ + high phosphate in renal failure = secondary hyperparathyroidism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2med-0751",
+    "category": "IM Renal",
+    "q": "Bicarbonate in renal failure per p77?",
+    "a": "Always decreased: 1) less PCT bicarbonate reabsorption, so more bicarb in the urine and lower serum bicarb; 2) less H+ secretion in the cortical collecting duct, so retained H+ mops up HCO3-. Metabolic acidosis. Renal failure = uremia = the U in MUDPILES (high anion gap metabolic acidosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 77,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=77"
+    },
+    "guideline": {
+      "text": "A review of high anion gap metabolic acidosis exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11020432/"
+    }
+  },
+  {
+    "id": "s2med-0752",
+    "category": "IM Renal",
+    "q": "Afferent arterioles and NSAIDs per p78?",
+    "a": "Afferent arterioles go to the kidney; their patency is maintained by vasodilating prostaglandins. NSAIDs inhibit prostaglandin synthesis, so there is less afferent dilation and less renal blood flow. NSAIDs do not actively constrict the afferent arterioles (incorrect wording); they merely decrease vasodilation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    },
+    "guideline": {
+      "text": "A paper on AKI and nephrotoxins wording exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6334116/"
+    }
+  },
+  {
+    "id": "s2med-0753",
+    "category": "IM Renal",
+    "q": "Efferent arterioles and ACEi/ARBs per p78?",
+    "a": "Efferent arterioles leave the kidney; angiotensin II normally constricts them. ACEi/ARBs decrease that constriction, so efferent diameter increases (they do not actively dilate). The source says AT II also acts on afferent arterioles slightly, but this is wrong on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2med-0754",
+    "category": "IM Renal",
+    "q": "Summary of renal arteriole regulation per p78?",
+    "a": "AT II constricts efferent; ACEi/ARBs decrease efferent constriction (increase diameter). Prostaglandins dilate afferent; NSAIDs decrease afferent dilation (decrease diameter).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2med-0755",
+    "category": "IM Renal",
+    "q": "BUN/Cr and FENa per p78?",
+    "a": "BUN/Cr = blood urea nitrogen to creatinine ratio; FENa = fractional excretion of sodium. No 'normal' range matters; they help diagnosis. BUN/Cr >20 and FENa <1% = pre-renal azotemia. BUN/Cr <20 and FENa >1% = just 'not pre-renal'. Different intra- vs post-renal ranges are nonsense for USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    },
+    "guideline": {
+      "text": "Papers on the limits of FENa exist; I did not verify their text. FENa has known limits (e.g., on diuretics).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9269665/"
+    }
+  },
+  {
+    "id": "s2med-0756",
+    "category": "IM Renal",
+    "q": "BUN/Cr exceptions per p78?",
+    "a": "Only about 9 of 10 times is BUN/Cr as expected. A couple of 2CK NBME questions give BUN/Cr <20 for pre-renal azotemia and >20 for ATN; the vignette then makes the diagnosis obvious anyway.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2med-0757",
+    "category": "IM Renal",
+    "q": "Pre-renal azotemia mechanism per p78?",
+    "a": "Reduced renal blood flow over a sub-acute to chronic time frame. The kidney retains fluid by increasing reabsorption of urea and sodium (water follows): high BUN (BUN/Cr >20) and low urine sodium (FENa <1%).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2med-0758",
+    "category": "IM Renal",
+    "q": "Acute drop in renal perfusion per p78?",
+    "a": "One of the highest-yield points: acute decreased perfusion (seconds to minutes) from blood loss, acute heart failure exacerbation or arrhythmia (e.g., VFib for 30 seconds before resuscitation) causes acute tubular necrosis, not pre-renal azotemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    },
+    "guideline": {
+      "text": "A paper asks whether to move beyond the prerenal vs ATN classification; the distinction is more of a continuum. I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3186449/"
+    }
+  },
+  {
+    "id": "s2med-0759",
+    "category": "IM Renal",
+    "q": "Hemorrhage with 20 units of RBCs then oliguria per p78?",
+    "a": "Two days after surgery with major blood loss and 20 packs of RBCs: oliguria and worsening renal function = acute tubular necrosis, not pre-renal. The PCT is most susceptible to anoxic/hypoxic injury because of its high concentration of ATPase transporters; acute hypoxia makes the PCT shed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 78,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=78"
+    }
   }
 ];
