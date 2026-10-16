@@ -36449,5 +36449,200 @@ export default [
       "text": "StatPearls: CMT is a length-dependent neuropathy with foot deformities (most often pes cavus), sensory loss, distal weakness and reduced reflexes, with PMP22, GJB1 and MPZ defects damaging Schwann cells and myelin.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK562163/"
     }
+  },
+  {
+    "id": "s2peds-2555",
+    "category": "Peds vignettes",
+    "q": "2M with scissoring of the legs and increased tone in all extremities. Diagnosis per p179?",
+    "a": "Cerebral palsy; posited precipitant is peripartum fetal hypoxia; spastic cerebral palsy accounts for 70-80% of cases (the source text prints 708-80%, an apparent typo).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "Review: spastic CP is the most common subtype. I did not verify the 70-80% figure or the hypoxia statement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK132431/"
+    }
+  },
+  {
+    "id": "s2peds-2556",
+    "category": "Peds vignettes",
+    "q": "10F with violaceous erythema of the upper eyelids and scaly knuckles and finger joints. Diagnosis and workup per p179?",
+    "a": "Dermatomyositis (asked on Peds NBME): heliotrope rash and mechanic's hands; Gottron papules and shawl rash can also be seen. Workup with EMG and anti-Jo1/anti-Mi2 (same as polymyositis); definitive diagnosis is muscle biopsy; treat acute flares with steroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls: JDM features heliotrope rash and Gottron papules; muscle biopsy confirms the diagnosis; high-dose systemic steroids are used early. I did not verify mechanic's hands, shawl rash, or the antibody list in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534236/"
+    }
+  },
+  {
+    "id": "s2peds-2557",
+    "category": "Peds vignettes",
+    "q": "15M, 5 ft 11 in, plays soccer, with knee pain. Diagnosis per p179?",
+    "a": "Osgood-Schlatter disease: inflammation of the patellar ligament at the tibial tuberosity in fast-growing active teens; USMLE wants repeated avulsion microfractures as the answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls: anterior knee pain with tenderness at the patellar tendon insertion at the tibial tuberosity (tibial tuberosity apophysitis). I did not verify the avulsion microfracture wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441995/"
+    }
+  },
+  {
+    "id": "s2peds-2558",
+    "category": "Peds vignettes",
+    "q": "Kid with recurrent knee redness, warmth, pain and fever. Diagnosis per p179?",
+    "a": "Juvenile rheumatoid arthritis (JRA); called Still disease if there are extra-articular manifestations like fever and rash.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "Current caution: modern terminology is juvenile idiopathic arthritis (JIA); systemic JIA with fever and rash is Still disease. StatPearls JIA page. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-2559",
+    "category": "Peds vignettes",
+    "q": "Kid with recurrent joint pain, with or without high ESR or rash. Diagnosis per p179?",
+    "a": "JRA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "Current caution: now called JIA; diagnosis is clinical after excluding other causes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-2560",
+    "category": "Peds vignettes",
+    "q": "Kid with a sore throat 2 days ago, high ESR, a history of intermittent knee pain, now afebrile with knee pain. Diagnosis per p179?",
+    "a": "JRA; infection can be a precipitating factor for a flare.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls JIA discusses infectious triggers as inconclusive. I did not verify infection as a flare precipitant. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-2561",
+    "category": "Peds vignettes",
+    "q": "Treatment of JRA per p179?",
+    "a": "NSAIDs plus corticosteroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says NSAIDs are the mainstay of initial symptomatic treatment for all JIA subtypes and describes ultrasound-guided intra-articular corticosteroid injection; modern treatment also uses DMARDs and biologics. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554605/"
+    }
+  },
+  {
+    "id": "s2peds-2562",
+    "category": "Peds vignettes",
+    "q": "7F with 1 year of occasional fever and knee pain, low Hb and MCV 75. Diagnosis per p179?",
+    "a": "Anemia of chronic disease secondary to JRA; low MCV is seen in AoCD in various 2CK NBME questions (resources classically say normocytic, 80-100).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls: chronic anemia is classified by MCV, and early iron deficiency can be normocytic. I did not verify microcytic AoCD in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK534803/"
+    }
+  },
+  {
+    "id": "s2peds-2563",
+    "category": "Peds vignettes",
+    "q": "6M with a viral infection and now hip pain with or without fever. Diagnosis per p179?",
+    "a": "Toxic synovitis (transient synovitis), not septic arthritis: inflammation of the synovial lining of the hip joint; treatment is supportive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls: transient synovitis patients often have preceding viral symptoms; management is supportive care and rest after a proper workup excludes septic arthritis.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459181/"
+    }
+  },
+  {
+    "id": "s2peds-2564",
+    "category": "Peds vignettes",
+    "q": "6M with suspected JRA and a red, hot, painful knee. Next step per p179?",
+    "a": "Arthrocentesis to rule out septic arthritis. If the vignette sounds like classic transient synovitis (hip, not knee), arthrocentesis is not needed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls Arthrocentesis page covers joint aspiration for suspected infection. I did not verify the hip-versus-knee rule in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557805/"
+    }
+  },
+  {
+    "id": "s2peds-2565",
+    "category": "Peds vignettes",
+    "q": "3F with recurrent joint pain, fever and rash; in addition to naproxen, what is the next best step in management per p179?",
+    "a": "Slit-lamp exam, indicated annually (high risk of anterior uveitis).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "Current caution: the 2019 ACR/Arthritis Foundation guideline covers JIA uveitis screening; I could not read its text, so the annual interval is the source's. Screening frequency depends on subtype, ANA status and age at onset. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6777949/"
+    }
+  },
+  {
+    "id": "s2peds-2566",
+    "category": "Peds vignettes",
+    "q": "5F with a 2-day limp and left hip pain, a week ago watery stools and temp 100F, pain with weight-bearing and movement, no swelling or erythema. Treatment per p179?",
+    "a": "Ibuprofen (toxic synovitis).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls: transient synovitis management is supportive care and rest; NSAID use is common but I did not verify ibuprofen in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459181/"
+    }
+  },
+  {
+    "id": "s2peds-2567",
+    "category": "Peds vignettes",
+    "q": "17F with a knee that is red, warm and tender after a kickboxing tournament last weekend. Next step and diagnosis per p179?",
+    "a": "Arthrocentesis; septic arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 179,
+      "url": "/mehlman/hy-pediatrics.pdf#page=179"
+    },
+    "guideline": {
+      "text": "StatPearls Arthrocentesis page. I did not verify the kickboxing-trauma context.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557805/"
+    }
   }
 ];

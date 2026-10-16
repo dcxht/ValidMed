@@ -948,3 +948,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: topical tretinoin "no effect on pregnancy" (fact sheet: lower absorption, not risk-free); retinoid mechanism as sebum reduction (they are comedolytic; not verified).
 - Left unverified: acne step order, isotretinoin lab and contraception details, frameshift vs in-frame distinction, CTG, more-than-90% cardiomyopathy, pes planus in Marfan.
 - Mobile QA (320x740, local vite preview build, not live): all 7 cards ox=false off=false bad=0.
+
+## p179 (Bullet points: CP, dermatomyositis, Osgood-Schlatter, JRA, transient synovitis, septic arthritis) - 13 cards, ids s2peds-2555 to 2567
+- Inspected page text and layout; no figures. The source prints "708-80%" for spastic CP; carded as 70-80% with the typo noted.
+- Notes verified against StatPearls (Juvenile Dermatomyositis, Osgood-Schlatter, JIA, Transient Synovitis, Chronic Anemia, Arthrocentesis), a CP review, and the 2019 ACR JIA uveitis guideline (title only, text unreadable).
+- Source answers kept with caution notes: JRA naming (JIA); JRA treatment NSAIDs plus steroids (modern: DMARDs/biologics); annual slit-lamp (depends on risk); microcytic AoCD.
+- Left unverified: 70-80% spastic, mechanic's hands/shawl rash/antibodies, avulsion microfractures, infection flare trigger, ibuprofen for transient synovitis, hip-vs-knee arthrocentesis rule.
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
