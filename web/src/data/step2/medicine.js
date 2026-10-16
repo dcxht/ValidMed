@@ -59479,5 +59479,115 @@ export default [
       "page": 445,
       "url": "/mehlman/hy-internal-medicine.pdf#page=445"
     }
+  },
+  {
+    "id": "s2med-4588",
+    "category": "IM Mixed",
+    "q": "Case-control vs cross-sectional design per p446 (continued from p445)?",
+    "a": "Case-control takes two distinct groups, one with COPD and one without, then asks about smoking history to try to show causation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 446,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=446"
+    }
+  },
+  {
+    "id": "s2med-4589",
+    "category": "IM Mixed",
+    "q": "20F with an insulinoma: C-peptide, insulin, ketones per p446?",
+    "a": "High C-peptide, high insulin, low ketones. C-peptide is cleaved off during endogenous insulin production; insulin inhibits ketogenesis; beta-oxidation is inhibited by malonyl-CoA from insulin-stimulated fatty acid synthesis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 446,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=446"
+    }
+  },
+  {
+    "id": "s2med-4590",
+    "category": "IM Mixed",
+    "q": "DKA in type II diabetes per p446?",
+    "a": "The source says DKA is not seen in type II because insulin is high initially (only type I, where insulin is deficient). In acute type II diabetes, ketones are the wrong answer for what is high; hyperinsulinemia is correct.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 446,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=446"
+    }
+  },
+  {
+    "id": "s2med-4591",
+    "category": "IM Mixed",
+    "q": "2M with anemia, erythroblasts with ferritin granules, decreased delta-ALA synthase: vitamin per p446?",
+    "a": "Vitamin B6: X-linked sideroblastic anemia. Heme synthesis starts with succinyl-CoA + glycine by delta-ALA synthase (needs B6). Sideroblastic anemia can be X-linked or classically alcohol-related; Prussian blue shows ringed sideroblasts (iron stuck around mitochondria in RBC precursors).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 446,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=446"
+    }
+  },
+  {
+    "id": "s2med-4592",
+    "category": "IM Mixed",
+    "q": "Acute intermittent porphyria per p446?",
+    "a": "Autosomal dominant; porphobilinogen deaminase deficiency; porphobilinogen buildup; abdominal pain, red urine, neuropathy; glucose and hematin help.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 446,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=446"
+    }
+  },
+  {
+    "id": "s2med-4593",
+    "category": "IM Mixed",
+    "q": "Porphyria cutanea tarda per p446?",
+    "a": "Autosomal dominant (per the source); uroporphyrinogen decarboxylase deficiency; uroporphyrin and coproporphyrin buildup; photosensitivity and tea-colored urine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 446,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=446"
+    }
+  },
+  {
+    "id": "s2med-4594",
+    "category": "IM Mixed",
+    "q": "62F flank mass + calcium 11.5 + hemoglobin 18.5 per p446?",
+    "a": "Paraneoplastic syndrome from renal cell carcinoma: PTHrP (hypercalcemia) and EPO (high Hb); continues on p447.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 446,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=446"
+    }
+  },
+  {
+    "id": "s2med-4595",
+    "category": "IM Mixed",
+    "q": "RCC histology and presentation per p447 (continued from p446)?",
+    "a": "Clear cell carcinoma is the most common RCC variant (many clear cells on histology); RCC can present with flank pain, and a smoker with hypercalcemia + polycythemia fits. Wilms tumor in a child is a painless flank mass.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 447,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=447"
+    }
+  },
+  {
+    "id": "s2med-4596",
+    "category": "IM Mixed",
+    "q": "Neonate at 28 weeks with difficulty breathing: what is deficient per p447?",
+    "a": "Lamellar bodies (organelles in type II pneumocytes that make surfactant). Lecithin (dipalmitoylphosphatidylcholine)/sphingomyelin ratio >2.0-2.4 greatly lowers NRDS probability; elastic recoil is increased in NRDS; surfactant prevents alveolar collapse.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 447,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=447"
+    }
+  },
+  {
+    "id": "s2med-4597",
+    "category": "IM Mixed",
+    "q": "30F with pancreatitis + ARDS: what is increased in her lungs after full resolution per p447?",
+    "a": "Surfactant protein D (a marker of lung injury); the source says it is on an NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 447,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=447"
+    }
   }
 ];

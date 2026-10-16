@@ -1534,3 +1534,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p445 (IM mixed bullets: embolic ischemia, mesenteric ischemia, liver regeneration, study design) - 5 cards, ids s2med-4583 to 4587
 - No new conflicts.
 - Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
+
+## p446 (IM mixed bullets: case-control, insulinoma, sideroblastic anemia, porphyrias, RCC) - 7 cards, ids s2med-4588 to 4594
+- Source says DKA is not seen in type II diabetes: repeat of earlier "DKA strictly type I" entry, unchanged.
+- Porphyria cutanea tarda "autosomal dominant": source wording, not verified (often described as acquired or familial).
+
+## p447 (IM mixed bullets: RCC, NRDS, surfactant protein D) - 3 cards, ids s2med-4595 to 4597
+- Pages 448-449 are social-media and copyright pages: not carded.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
