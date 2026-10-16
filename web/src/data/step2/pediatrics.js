@@ -32409,5 +32409,151 @@ export default [
       "page": 150,
       "url": "/mehlman/hy-pediatrics.pdf#page=150"
     }
+  },
+  {
+    "id": "s2peds-2279",
+    "category": "CAH",
+    "q": "What is the inheritance and most common enzyme defect in CAH per p151?",
+    "a": "Autosomal recessive. The deficiencies are 21-, 11- and 17-hydroxylase; 21-hydroxylase deficiency is the most common.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "guideline": {
+      "text": "StatPearls: all forms of CAH are autosomal recessive; most often due to CYP21A mutations or deletions.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2280",
+    "category": "CAH",
+    "q": "What is the mechanism of the hyperplasia in CAH per p151?",
+    "a": "ACTH is increased in all three types. Cortisol production is impaired, so ACTH rises to compensate and stimulates adrenal hyperplasia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "guideline": {
+      "text": "StatPearls: inefficient cortisol production results in elevated ACTH.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2281",
+    "category": "CAH",
+    "q": "What is the answer to \"which is the most likely explanation for these findings\" in a CAH vignette per p151?",
+    "a": "Increased ACTH secretion. It sounds odd but is on NBME.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2peds-2282",
+    "category": "CAH",
+    "q": "Why is CAH relevant on the exam per p151, and how do you tell the types apart?",
+    "a": "It is a cause of ambiguous genitalia and/or virilization. Presentations vary (neonates, children, adults), so you differentiate by electrolytes and BP.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "guideline": {
+      "text": "StatPearls: 21-hydroxylase deficiency is a common cause of ambiguous genitalia in 46,XX infants. Caution: 17-hydroxylase deficiency causes undervirilization (ambiguous genitalia in partial deficiency in 46,XY, sexual infantilism otherwise), not virilization.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2283",
+    "category": "CAH",
+    "q": "Which steroids are increased in both 21- and 11-hydroxylase deficiency per p151?",
+    "a": "Increased 17-OH substrates (17-OH-progesterone and 17-OH-pregnenolone), increased DHEA-S and increased androstenedione.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "guideline": {
+      "text": "StatPearls: newborn screening detects elevated 17-hydroxyprogesterone. I did not verify the other substrates.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2284",
+    "category": "CAH",
+    "q": "If any 17-OH substrate is up in the question, what does that rule out per p151?",
+    "a": "It means the answer is 21- or 11-deficiency. It is impossible to get 17-OH substrates in 17-hydroxylase deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    }
+  },
+  {
+    "id": "s2peds-2285",
+    "category": "CAH",
+    "q": "Walk through the p151 CAH algorithm.",
+    "a": "If 17-OH substrates, DHEA-S and/or androstenedione are increased: no means 17-OH deficiency; yes means 21- or 11-OH deficiency. Then K+ increased or BP low/normal means 21-OH deficiency; K+ low/normal or BP increased means 11-OH deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "img": "/mehlman/figures/peds-p151-cah-algorithm.png",
+    "imgAlt": "Flowchart: increased 17-OH substrates, DHEA-S or androstenedione: no gives 17-OH deficiency; yes gives 21- or 11-OH deficiency, split by K+ and BP",
+    "guideline": {
+      "text": "StatPearls: 17-OH deficiency presents with hypertension and hypokalemia (and is not detected by newborn screening).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546644/"
+    }
+  },
+  {
+    "id": "s2peds-2286",
+    "category": "CAH",
+    "q": "What is the adrenal steroid synthesis pathway on p151?",
+    "a": "Cholesterol to pregnenolone (desmolase). Zona glomerulosa: pregnenolone to progesterone, then 21-OH, 11-OH and aldosterone synthase to aldosterone. Zona fasciculata: 17-OH to 17-OH-pregnenolone and 17-OH-progesterone, then 21-OH to 11-deoxycortisol and 11-OH to cortisol. Zona reticularis: DHEA-S and androstenedione, which convert to testosterone in peripheral tissues.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "img": "/mehlman/figures/peds-p151-steroid-pathway.png",
+    "imgAlt": "Adrenal steroidogenesis pathway by zone: glomerulosa, fasciculata and reticularis, with enzymes 21-OH, 11-OH and 17-OH",
+    "guideline": {
+      "text": "The figure labels the 21-OH product as 11-OH-corticosterone; the standard intermediate is 11-deoxycorticosterone. The source figure is kept as printed.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2287",
+    "category": "21-hydroxylase deficiency",
+    "q": "What are the electrolyte and BP findings in 21-hydroxylase deficiency per p151?",
+    "a": "Increased K+, decreased Na+, decreased pH, decreased HCO3-, decreased glucose. BP decreased or normal. Cortisol and aldosterone, as well as their precursors, are all low.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "guideline": {
+      "text": "StatPearls: salt wasting is a common presentation of CAH. The source line that precursors are all low conflicts with the elevated 17-hydroxyprogesterone stated earlier on the same page; I did not endorse it.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2288",
+    "category": "11-hydroxylase deficiency",
+    "q": "What are the electrolyte and BP findings in 11-hydroxylase deficiency per p151?",
+    "a": "K+ decreased or normal, Na+ increased or normal, pH increased or normal, HCO3- increased or normal, glucose increased or normal. BP increased.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 151,
+      "url": "/mehlman/hy-pediatrics.pdf#page=151"
+    },
+    "guideline": {
+      "text": "I did not verify these values; the source gives them as printed.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448098/"
+    }
   }
 ];

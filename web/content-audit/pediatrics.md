@@ -752,3 +752,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: Waterhouse-Friderichsen "answer = ACTH stimulation test" - guidance says give hydrocortisone without delaying for testing.
 - Left unverified: 50% hyperpigmentation, eosinophil mechanism and 15-25% figure, chronic-fatigue/cortisol claim, desmopressin as pressor, alpha-1 permissiveness.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p151 (CAH: algorithm, pathway, 21- and 11-hydroxylase deficiency) - 10 cards, ids s2peds-2279 to 2288
+- Inspected page pixels; both figures extracted (peds-p151-cah-algorithm.png, peds-p151-steroid-pathway.png) and viewed.
+- Notes verified against StatPearls (Congenital Adrenal Hyperplasia, 17-Hydroxylase Deficiency).
+- Source issues flagged in notes: "virilization" generalisation (17-OH deficiency undervirilizes); "precursors all low" in 21-OH row contradicts the high 17-OH substrates stated above it; pathway figure labels the 21-OH product "11-OH-corticosterone" (standard: 11-deoxycorticosterone).
+- Left unverified: 11-OH electrolyte values, DHEA-S/androstenedione/17-OH-pregnenolone elevations, NBME "increased ACTH" answer.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0 (2 figure cards included).
