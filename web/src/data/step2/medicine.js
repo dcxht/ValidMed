@@ -19042,5 +19042,389 @@ export default [
       "text": "A paper on protection from P. falciparum in children with sickle cell trait is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3335384/"
     }
+  },
+  {
+    "id": "s2med-1431",
+    "category": "IM Heme/Onc",
+    "q": "Sickle cell crisis presentations per p157?",
+    "a": "Abdominal or chest pain, and dactylitis (inflammation of the fingers). Abdominal pain as the initial presentation is HY on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1432",
+    "category": "IM Heme/Onc",
+    "q": "RLQ pain plus low Hb in a child from Libya per p157?",
+    "a": "New 2CK form: 'blood smear' is the answer to confirm the diagnosis (sickle cell crisis). Tricky because it sounds like appendicitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1433",
+    "category": "IM Heme/Onc",
+    "q": "Diagnosing sickle cell per p157?",
+    "a": "Blood smear, followed by hemoglobin electrophoresis to detect HbS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1434",
+    "category": "IM Heme/Onc",
+    "q": "Molecular basis of sickling per offline NBME per p157?",
+    "a": "Gain of stabilizing hydrophobic interactions in the deoxygenated form of hemoglobin S (valine is more hydrophobic than glutamic acid). Another NBME: beta chain slips into a complementary hydrophobic pocket on the alpha chain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1435",
+    "category": "IM Heme/Onc",
+    "q": "What triggers sickling per p157?",
+    "a": "Dehydration and increased acidity (source reasoning: HbS consolidates on itself in a less lipophilic surrounding to minimize surface contact).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1436",
+    "category": "IM Heme/Onc",
+    "q": "Hydroxyurea in sickle cell per p157?",
+    "a": "Increases HbF and can decrease recurrence of sickle crises (more HbF means fractionally less HbS).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "A review of modern hydroxyurea use for children with sickle cell anemia is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12050929/"
+    }
+  },
+  {
+    "id": "s2med-1437",
+    "category": "IM Heme/Onc",
+    "q": "Myelofibrosis: what answers per p157?",
+    "a": "Usually JAK2 mutation (same as PV). Answer if the stem says tear-drop-shaped RBCs or 'dry tap on bone marrow aspiration'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "A synoptic diagnostics paper on myeloproliferative neoplasms is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8303289/"
+    }
+  },
+  {
+    "id": "s2med-1438",
+    "category": "IM Heme/Onc",
+    "q": "Myelofibrosis spleen and smear per p157?",
+    "a": "Massive splenomegaly in 100% of questions per the source. NBME also writes 'tear-drop shaped poikilocytes' (abnormal RBCs seen as >10% on a smear).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1439",
+    "category": "IM Heme/Onc",
+    "q": "Myelofibrosis mechanism per p157?",
+    "a": "Proliferation of abnormal marrow cells (notably megakaryocytes and granulocytes) releases growth factors and cytokines that stimulate collagen deposition, causing bone marrow fibrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1440",
+    "category": "IM Heme/Onc",
+    "q": "Essential thrombocytosis (ET): mutation per p157?",
+    "a": "Aka essential thrombocythemia. Usually JAK2 (same as myelofibrosis and PV), causing overproliferation of platelets. Myeloproliferative neoplasm where platelets can be >1,000,000/uL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1441",
+    "category": "IM Heme/Onc",
+    "q": "ET vignette per p157?",
+    "a": "Pain in fingertips, Raynaud phenomenon, or headache (hyperviscosity symptoms) plus platelet count of, e.g., 1.4 million/uL (NR 150,000-450,000/uL), no specific triggering event.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1442",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of ET per p157?",
+    "a": "Aspirin plus plateletpheresis (removing platelets from blood).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "Conflict: a paper on aspirin use in ET is linked. Current practice is risk-adapted and plateletpheresis is for urgent situations; I did not verify the text. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10230439/"
+    }
+  },
+  {
+    "id": "s2med-1443",
+    "category": "IM Heme/Onc",
+    "q": "Reactive thrombocytosis (RT) per p157?",
+    "a": "Aka reactive thrombocythemia. A triggering event (inflammation, infection, surgery) stimulates thrombopoietin and increases platelet synthesis and release.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    },
+    "guideline": {
+      "text": "StatPearls on secondary thrombocytosis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560810/"
+    }
+  },
+  {
+    "id": "s2med-1444",
+    "category": "IM Heme/Onc",
+    "q": "RT in infective endocarditis per p157?",
+    "a": "USMLE loves giving a platelet count of, e.g., 900,000 with endocarditis: just RT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1445",
+    "category": "IM Heme/Onc",
+    "q": "ET vs RT demographics per p157?",
+    "a": "ET: usually women over 50, symptomatic. RT: anyone, usually asymptomatic; a super-high platelet count noticed incidentally, and the question isn't about related symptoms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1446",
+    "category": "IM Heme/Onc",
+    "q": "Difficult NBME: neutrophilic shift with platelets 1.4 million per p157?",
+    "a": "ET, not RT, presumably because platelets are >1 million (rare in RT) and the patient has symptoms (fingertip pain).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1447",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of RT per p157?",
+    "a": "Address the underlying infection and give aspirin. The source hasn't seen RT as a correct NBME answer, only as an incidental finding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 157,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=157"
+    }
+  },
+  {
+    "id": "s2med-1448",
+    "category": "IM Heme/Onc",
+    "q": "Glanzmann thrombasthenia per p158?",
+    "a": "Deficiency of glycoproteins IIb/IIIa on platelets: defective platelet aggregation. Seen on NBME as just 'thrombasthenia'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    },
+    "guideline": {
+      "text": "A paper on inherited platelet glycoprotein diseases is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7878622/"
+    }
+  },
+  {
+    "id": "s2med-1449",
+    "category": "IM Heme/Onc",
+    "q": "Bernard-Soulier per p158?",
+    "a": "Deficiency of glycoprotein Ib on platelets: defective platelet adhesion. Abnormal ristocetin cofactor assay, same as vWD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1450",
+    "category": "IM Heme/Onc",
+    "q": "SLE: demographics and presenting feature per p158?",
+    "a": "Women in their 20s-40s. Most common presenting feature is arthritis (>90%). Malar rash is too easy; know it is type III hypersensitivity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1451",
+    "category": "IM Heme/Onc",
+    "q": "SLE and blood counts per p158?",
+    "a": "Thrombocytopenia is mega-HY: 32-year-old woman with arthritis plus low platelets is SLE. RBCs and WBCs can also be low. If all cell lines are down, it's increased peripheral destruction (antibodies), not deficient marrow production.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1452",
+    "category": "IM Heme/Onc",
+    "q": "Discoid lupus and mucositis per p158?",
+    "a": "Discoid lupus: skin lesions. Mucositis: mouth ulcers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1453",
+    "category": "IM Heme/Onc",
+    "q": "SLE with seizure and ring-enhancing lesion per p158?",
+    "a": "Primary CNS lymphoma (SLE increases risk of malignancy such as non-Hodgkin lymphoma); Toxo is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1454",
+    "category": "IM Heme/Onc",
+    "q": "SLE kidney and pregnancy per p158?",
+    "a": "Diffuse proliferative glomerulonephritis. In pregnant women, congenital heart block in neonates.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1455",
+    "category": "IM Heme/Onc",
+    "q": "Standard SLE flare treatment per p158?",
+    "a": "Steroids (e.g., prednisone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1456",
+    "category": "IM Heme/Onc",
+    "q": "PNH presentation per p158?",
+    "a": "Paroxysmal nocturnal hemoglobinuria: red urine in a patient waking up in the morning.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1457",
+    "category": "IM Heme/Onc",
+    "q": "PNH mechanism per p158?",
+    "a": "Increased complement-mediated hemolysis due to deficiency of CD55/59 and the GPI anchor, which protect RBCs from complement breakdown.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    },
+    "guideline": {
+      "text": "A review of PNH biology and treatment is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10535188/"
+    }
+  },
+  {
+    "id": "s2med-1458",
+    "category": "IM Heme/Onc",
+    "q": "Hageman factor deficiency per p158?",
+    "a": "Hageman factor is factor XII, the first intrinsic-pathway factor. Presents as an asymptomatic healthy adult with a markedly increased PTT found incidentally.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1459",
+    "category": "IM Heme/Onc",
+    "q": "Hageman deficiency NBME per p158?",
+    "a": "Retired NBME: asymptomatic 60-year-old man with markedly increased PTT; answer deficiency of kallikrein (low XII means low XIIa, so less pre-kallikrein converted to kallikrein).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2med-1460",
+    "category": "IM Heme/Onc",
+    "q": "Factor V Leiden per p158?",
+    "a": "Increased clots/DVTs. Factor V resistant to cleavage by protein C ('activated protein C resistance'; protein S is the cofactor). Prothrombin mutation and MTHFR also cause clots but are lower yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    },
+    "guideline": {
+      "text": "A review of activated protein C resistance and FVL is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17550313/"
+    }
+  },
+  {
+    "id": "s2med-1461",
+    "category": "IM Heme/Onc",
+    "q": "Protein C deficiency per p158?",
+    "a": "Clots/DVT like FVL, notably skin necrosis if the patient receives warfarin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    },
+    "guideline": {
+      "text": "A case report on skin necrosis after warfarin in protein C deficiency is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8450298/"
+    }
+  },
+  {
+    "id": "s2med-1462",
+    "category": "IM Heme/Onc",
+    "q": "Antithrombin III per p158?",
+    "a": "AT III is required to reverse IIa (thrombin), Xa and IXa back to inactive II, X, IX. The source's presentations continue on p159.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 158,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=158"
+    }
   }
 ];

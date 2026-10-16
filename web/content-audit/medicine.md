@@ -650,3 +650,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p156 (HUS, TTP, sickle cell) - 10 cards, ids s2med-1421 to 1430
 - Notes: TTP treatment lists plasmapheresis only (current guidance adds immunosuppression). Unverified: ristocetin detail, 8/10 and 1/10 vignette frequencies.
 - Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
+
+## p157 (sickle, myelofibrosis, ET, RT) - 17 cards, ids s2med-1431 to 1447
+## p158 (platelet glycoproteins, SLE, PNH, Hageman, thrombophilia) - 15 cards, ids s2med-1448 to 1462
+- Notes: ET treatment (aspirin + plateletpheresis) differs from risk-adapted current practice. Unverified: "100% splenomegaly", SLE arthritis >90%, NBME-specific claims.
+- Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
