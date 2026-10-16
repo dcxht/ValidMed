@@ -626,3 +626,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls AS, SLE, APS, EULAR 2025 LN recommendations (abstract level), AJR septic arthritis review. Differences kept as notes: p131 names beta-2-microglobulin, actual APS target is beta-2 glycoprotein I; steroid-only lupus nephritis flare treatment is an exam simplification.
 - Left un-noted (not verified): psoriasis topical order and acitretin/methotrexate claims, AS 8-year-old vignette, ESR/AoCD, slit lamp (note only gives uveitis rate), lupus arthritis 90%, anti-Sm/dsDNA roles, VDRL false positive, malar rash type III, cerebritis/myelitis, C1q, biopsy first (EULAR fetch only confirmed it addresses biopsy, not the sequence), septic arthritis patient groups and negative aspirate.
 - Mobile QA (320x740, live, local headless Chrome): all 23 cards ox=false off=false bad=0.
+
+## p132 (septic arthritis cont., toxic synovitis, reactive arthritis, MSK) - 20 cards, ids s2peds-1979 to 1998
+- Inspected page pixels. No figures.
+- Notes verified against StatPearls Transient Synovitis, Reactive Arthritis, Nursemaid Elbow, Lateral Epicondylitis, Patellofemoral Pain Syndrome, Gonococcal arthritis. Differences kept as notes: rubella/hepatitis B+C not in StatPearls reactive arthritis triggers; chondromalacia is not a strict synonym for PFPS.
+- Left un-noted (not verified): Salmonella-in-sickle-cell exam rule, surgical drainage, toxic vs septic discriminators (weight bearing/leukocytosis not checked against Kocher), ibuprofen, gonococcus not causing reactive arthritis, golfer elbow muscles, strap treatments, reduction technique, jumper's knee treatment, patellofemoral instability vignette, obesity/squatting claim.
+- Mobile QA: PENDING

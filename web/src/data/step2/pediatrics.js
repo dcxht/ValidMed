@@ -28209,5 +28209,269 @@ export default [
       "text": "AJR review: S. aureus accounts for more than 50% of adult septic arthritis.",
       "url": "https://www.ajronline.org/doi/full/10.2214/AJR.20.22773"
     }
+  },
+  {
+    "id": "s2peds-1979",
+    "category": "Septic arthritis",
+    "q": "Which organism does p132 pick in sickle cell septic arthritis, and what is the catch?",
+    "a": "Salmonella. But if the vignette gives gram-positive cocci, the answer is still Staph aureus, since Salmonella is a gram-negative rod.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1980",
+    "category": "Septic arthritis",
+    "q": "How does gonococcal arthritis present on USMLE per p132?",
+    "a": "In a sexually active patient: either knee monoarthritis with no other information, or a triad of mono- or polyarthritis, cutaneous papules and tenosynovitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: gonococcal arthritis presents as arthritis-dermatitis syndrome (migratory polyarthralgia, tenosynovitis, skin lesions) or purulent monoarthritis, most often the knee or wrist.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470439/"
+    }
+  },
+  {
+    "id": "s2peds-1981",
+    "category": "Septic arthritis",
+    "q": "How is septic arthritis treated per p132?",
+    "a": "Surgical drainage of the joint plus antibiotics. USMLE does not care about the exact antibiotics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1982",
+    "category": "Toxic synovitis",
+    "q": "What is toxic synovitis and how does it present per p132?",
+    "a": "Also called transient synovitis. Hip inflammation or pain in a child after a viral infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: transient synovitis often follows viral symptoms and ranges from a subtle limp to refusal to bear weight.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459181/"
+    }
+  },
+  {
+    "id": "s2peds-1983",
+    "category": "Toxic synovitis",
+    "q": "Is toxic synovitis a diagnosis of exclusion per p132, and which findings favor septic arthritis?",
+    "a": "Yes. Leukocytosis and inability to bear weight make septic arthritis the likely answer. Hard questions will not use warmth or redness to differentiate, and fever can occur in both.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: transient synovitis remains a diagnosis of exclusion.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459181/"
+    }
+  },
+  {
+    "id": "s2peds-1984",
+    "category": "Toxic synovitis",
+    "q": "How is toxic synovitis treated per p132?",
+    "a": "NSAIDs (ibuprofen).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1985",
+    "category": "Reactive arthritis",
+    "q": "What is the classic triad of reactive arthritis per p132?",
+    "a": "Urethritis or abdominal infection, polyarthritis, and \"eye-itis\" (conjunctivitis, episcleritis or anterior uveitis).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: the triad of arthritis, urethritis and conjunctivitis (formerly Reiter syndrome) is only a subset of reactive arthritis, which follows GI or GU infection.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499831/"
+    }
+  },
+  {
+    "id": "s2peds-1986",
+    "category": "Reactive arthritis",
+    "q": "Which organism is the classic cause of reactive arthritis per p132, and which does not cause it on USMLE?",
+    "a": "Chlamydia is classic. Gonococcus does not cause reactive arthritis on USMLE.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls lists Chlamydia trachomatis, Salmonella, Shigella, Yersinia and Campylobacter as triggers.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499831/"
+    }
+  },
+  {
+    "id": "s2peds-1987",
+    "category": "Reactive arthritis",
+    "q": "What other triggers does p132 list for reactive arthritis?",
+    "a": "Rubella, hepatitis B and C, and Yersinia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls confirms Yersinia. Rubella and hepatitis B/C were not in the StatPearls triggers I checked.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499831/"
+    }
+  },
+  {
+    "id": "s2peds-1988",
+    "category": "Lateral epicondylitis",
+    "q": "What is lateral epicondylitis and how does it present per p132?",
+    "a": "Tennis elbow: lateral elbow pain worsened by wrist extension against resistance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: tennis elbow is overload of the common extensor tendon, repetitive wrist extension.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431092/"
+    }
+  },
+  {
+    "id": "s2peds-1989",
+    "category": "Lateral epicondylitis",
+    "q": "Which structure does the NBME name as the site of inflammation in tennis elbow, and what treatment does p132 give?",
+    "a": "Extensor carpi radialis brevis. Treatment: forearm strap.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: the origin of the extensor carpi radialis brevis tendon.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431092/"
+    }
+  },
+  {
+    "id": "s2peds-1990",
+    "category": "Medial epicondylitis",
+    "q": "How does p132 describe medial epicondylitis?",
+    "a": "Golfer elbow: medial elbow pain worsened by wrist flexion against resistance, from inflammation at flexor carpi radialis and pronator teres. Treatment: forearm strap.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1991",
+    "category": "Radial head subluxation",
+    "q": "What is radial head subluxation and how does it present per p132?",
+    "a": "Nursemaid elbow, HY for 2CK Peds. The child stops using the arm, held pronated and partially flexed, after a pull or yank, such as holding hands and running with an older sibling and falling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: onset after the arm is pulled up by the wrist or the child is swung by the arms; the arm is held near extension and pronation, with no swelling or bruising.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430777/"
+    }
+  },
+  {
+    "id": "s2peds-1992",
+    "category": "Radial head subluxation",
+    "q": "How is radial head subluxation reduced per p132?",
+    "a": "Hyper-pronation, or supination with the arm partially flexed. Either is correct and both will not be listed together.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1993",
+    "category": "Patellar tendonitis",
+    "q": "What is patellar tendonitis and which story gives it per p132?",
+    "a": "Jumper's knee: inflammation of the patellar tendon. Anterior knee pain occurring only after sports at first, then becoming chronic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1994",
+    "category": "Patellar tendonitis",
+    "q": "What is the NBME treatment for patellar tendonitis per p132?",
+    "a": "Quadriceps strengthening exercises.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1995",
+    "category": "Patellofemoral instability",
+    "q": "What is patellofemoral instability and how does it differ from patellar tendonitis per p132?",
+    "a": "Misalignment of the patella at the trochlear groove of the femur. Presentation resembles patellar tendonitis but do not confuse them. The question can mention crepitus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1996",
+    "category": "Patellofemoral instability",
+    "q": "Which 2CK Peds vignette gives patellofemoral instability per p132?",
+    "a": "A teenage girl with knee pain worse after jumping or running plus crepitus (patellar tendonitis not listed).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    }
+  },
+  {
+    "id": "s2peds-1997",
+    "category": "Patellofemoral pain syndrome",
+    "q": "What is patellofemoral pain syndrome and which name implies cartilage softening per p132?",
+    "a": "Chondromalacia patellae, whose name implies softening of knee cartilage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: PFS is anterior knee pain and a diagnosis of exclusion. Chondromalacia (actual cartilage softening) is a separate finding, so the two names are not strict synonyms.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK557657/"
+    }
+  },
+  {
+    "id": "s2peds-1998",
+    "category": "Patellofemoral pain syndrome",
+    "q": "Which story gives patellofemoral pain syndrome per p132?",
+    "a": "Pain worse with prolonged sitting or going up and down stairs. Classic in obesity or heavy squatting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 132,
+      "url": "/mehlman/hy-pediatrics.pdf#page=132"
+    },
+    "guideline": {
+      "text": "StatPearls: symptoms worsen with squatting, running, prolonged sitting or stair climbing.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK557657/"
+    }
   }
 ];
