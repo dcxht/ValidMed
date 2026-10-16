@@ -39899,5 +39899,185 @@ export default [
       "text": "StatPearls: Chiari type 2 is always associated with myelomeningocele and is characterized by caudal displacement of the cerebellar vermis, brainstem and fourth ventricle.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK557498/"
     }
+  },
+  {
+    "id": "s2peds-2785",
+    "category": "Peds vignettes",
+    "q": "18M with bilateral loss of pain and temperature sensation. Diagnosis per p201?",
+    "a": "Syringomyelia (can be seen secondary to a syrinx from Chiari type I, which is less severe and presents later than type II).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls: syringomyelia causes loss of pain and temperature sensation with preserved touch and vibration (dissociated sensory loss) and is associated with Chiari malformation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537110/"
+    }
+  },
+  {
+    "id": "s2peds-2786",
+    "category": "Peds vignettes",
+    "q": "Newborn with prominent occiput, micrognathia and overlapping fingers. Diagnosis per p201?",
+    "a": "Edwards syndrome (Trisomy 18).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls covers trisomy 18 (Edwards syndrome). I did not verify the specific occiput, micrognathia and overlapping finger features in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK570597/"
+    }
+  },
+  {
+    "id": "s2peds-2787",
+    "category": "Peds vignettes",
+    "q": "8-month-old boy at the 3rd percentile for weight with slanted palpebral fissures, epicanthal folds, single palmar crease, thin upper lip ('fish mouth') and indistinct philtrum. Diagnosis per p201?",
+    "a": "Fetal alcohol syndrome (Psych NBME answer), not Down syndrome. If the vignette sounds like Down syndrome but mentions the philtrum (long, smooth, indistinct), the answer is FAS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls: FAS features short palpebral fissures, thin vermilion border and smooth philtrum, plus growth restriction and CNS defects. Source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448178/"
+    }
+  },
+  {
+    "id": "s2peds-2788",
+    "category": "Peds vignettes",
+    "q": "6M with IQ of 60, small for age, born to a mother aged 41, no other information. Most likely cause of intellectual disability per p201?",
+    "a": "Down syndrome, not FAS. FAS is the most common cause overall, but if the question wants FAS it mentions the philtrum, and the source says Down syndrome is the most common cause of intellectual disability when the mother is over 40.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls: the most common preventable cause is fetal alcohol syndrome, the most common chromosomal cause is Down syndrome, and the most common genetic cause is Fragile X syndrome. I did not verify the maternal age over 40 claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK547654/"
+    }
+  },
+  {
+    "id": "s2peds-2789",
+    "category": "Peds vignettes",
+    "q": "8M with prominent jaw, protruding ears and IQ of 65. Most likely explanation per p201?",
+    "a": "A fragile site on the X chromosome: Fragile X (CGG trinucleotide repeat disorder).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls: physical features include a long narrow face with prominent jaw and forehead, hyperflexible fingers and large ears; diagnosis by PCR for CGG repeat measurement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459243/"
+    }
+  },
+  {
+    "id": "s2peds-2790",
+    "category": "Peds vignettes",
+    "q": "7M with prominent ears, flattened nasal bridge, long philtrum and low IQ. Diagnosis per p201?",
+    "a": "Fetal alcohol syndrome, not Fragile X; the question mentions the philtrum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls lists a smooth philtrum as a FAS feature. I did not verify a 'long' philtrum or flat nasal bridge in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448178/"
+    }
+  },
+  {
+    "id": "s2peds-2791",
+    "category": "Peds vignettes",
+    "q": "4F with hand wringing, putting objects in her mouth and less eye contact. Diagnosis per p201?",
+    "a": "Rett syndrome; only seen in girls; hyperoralism may reflect cognitive regression (babies put everything in their mouths).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says Rett syndrome predominantly affects females but cases in males with MECP2 mutations are documented, and it features normal early development followed by regression. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482252/"
+    }
+  },
+  {
+    "id": "s2peds-2792",
+    "category": "Peds vignettes",
+    "q": "5M who talks to imaginary friends. Diagnosis per p201?",
+    "a": "Age-appropriate behavior.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "Study of imaginary companions in preschool children; I did not verify the findings beyond the title.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902694/"
+    }
+  },
+  {
+    "id": "s2peds-2793",
+    "category": "Peds vignettes",
+    "q": "Newborn with multiple joint contractures. Diagnosis per p201?",
+    "a": "Arthrogryposis (just be aware of this).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "PMC review of arthrogryposis; I did not verify the passage beyond its title.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4754365/"
+    }
+  },
+  {
+    "id": "s2peds-2794",
+    "category": "Peds vignettes",
+    "q": "Newborn with clubbed feet. Treatment per p201?",
+    "a": "Serial casting to reposition the feet (followed by minor surgical treatment).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls: the gold standard is the Ponseti technique, with Achilles tenotomy when needed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551574/"
+    }
+  },
+  {
+    "id": "s2peds-2795",
+    "category": "Peds vignettes",
+    "q": "16M who is belligerent with nystagmus. Treatment per p201?",
+    "a": "Lorazepam (benzodiazepine for PCP toxicity).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls: benzodiazepines are preferred for chemical sedation and are first-line for PCP-induced hypertension and seizures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507865/"
+    }
+  },
+  {
+    "id": "s2peds-2796",
+    "category": "Peds vignettes",
+    "q": "16M with mutism and constricted pupils. Diagnosis per p201?",
+    "a": "PCP intoxication (one of the NBME presentations of PCP).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 201,
+      "url": "/mehlman/hy-pediatrics.pdf#page=201"
+    },
+    "guideline": {
+      "text": "I did not verify mutism with constricted pupils as a PCP presentation in the StatPearls passage I read, which lists nystagmus and agitation features. Source answer kept without endorsement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507865/"
+    }
   }
 ];

@@ -1102,3 +1102,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: cefotaxime vs ceftriaxone for neonatal gonococcal conjunctivitis (CDC ceftriaxone).
 - Left unverified: neonatal chlamydia oral erythromycin regimen, pneumonia timeline, adenovirus 'most common', one-day abrasion healing, Ramsay Hunt 'type II' label.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p201 (Bullet points: syringomyelia, dysmorphic syndromes, intellectual disability, Rett, clubfoot, PCP) - 12 cards, ids s2peds-2785 to 2796
+- Inspected page text; no figures. Outdated terminology ("mental retardation") paraphrased as intellectual disability in card text.
+- Notes verified against StatPearls (Syringomyelia, Trisomy 18, Fetal Alcohol Syndrome, Intellectual Disability, Fragile X, Rett, Clubfoot, Phencyclidine Toxicity); imaginary companion study and arthrogryposis review cited by title only.
+- Source answers kept with caution notes: Rett only in girls (males documented); PCP mutism with constricted pupils not verified.
+- Left unverified: trisomy 18 features, maternal age over 40 claim, FAS flat nasal bridge, imaginary friends, arthrogryposis, PCP pupils.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
