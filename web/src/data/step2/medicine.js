@@ -16474,5 +16474,270 @@ export default [
       "page": 136,
       "url": "/mehlman/hy-internal-medicine.pdf#page=136"
     }
+  },
+  {
+    "id": "s2med-1239",
+    "category": "IM Gastro",
+    "q": "Hep C transmission per p137?",
+    "a": "Almost exclusively IV drugs/blood exposure; not in breast milk or non-sanguineous fluids (unlike HepB). Source: not considered sexually transmitted (a large couples study found sexual transmission almost nil); if forced on NBME, still advise abstinence or barrier contraception.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "The CDC page on viral hepatitis among sexually active adults is linked; I did not verify the text, so the 'almost nil' claim is the source's.",
+      "url": "https://www.cdc.gov/hepatitis/hcp/populations-settings/sexually-active.html"
+    }
+  },
+  {
+    "id": "s2med-1240",
+    "category": "IM Gastro",
+    "q": "Hep C vaccine and serology per p137?",
+    "a": "No vaccine because of large antigenic variation (>7 genotypes and 80 subtypes per the source). IgM = acute infection; IgG usually means chronic HepC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "The 2023 AASLD-IDSA guidance is linked; I did not verify the genotype counts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37229695/"
+    }
+  },
+  {
+    "id": "s2med-1241",
+    "category": "IM Gastro",
+    "q": "Hep C treatment per p137?",
+    "a": "Source: many drugs can treat it; USMLE doesn't care; be aware of pegylated interferon-alpha.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "Conflict: the AASLD-IDSA guidance and CDC clinical care page are linked; I did not verify details, but current treatment is direct-acting antivirals rather than interferon.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37229695/"
+    }
+  },
+  {
+    "id": "s2med-1242",
+    "category": "IM Gastro",
+    "q": "Hep D per p137?",
+    "a": "Requires hepatitis B to infect: co-infection (same time) or superinfection (later in someone with HepB). To prevent HepD: vaccinate against hepatitis B (no HepD vaccine). HepB antigen forms the HepD envelope.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "CDC hepatitis D basics are linked; I did not verify the text.",
+      "url": "https://www.cdc.gov/hepatitis-d/about/"
+    }
+  },
+  {
+    "id": "s2med-1243",
+    "category": "IM Gastro",
+    "q": "Hep E per p137?",
+    "a": "Acute only, like HepA. Seen more in Asia (e.g., Tibet). Mexico + pregnant woman + fast death from hepatitis: HepE over HepA. Causes fulminant hepatitis and higher risk of death in pregnant women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "A meta-analysis of case-fatality in pregnant women with hepatitis E is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9150575/"
+    }
+  },
+  {
+    "id": "s2med-1244",
+    "category": "IM Gastro",
+    "q": "NASH per p137?",
+    "a": "Answer for a liver condition in an overweight patient with normal labs. Metabolic syndrome with mild transaminitis (~50% of questions) or completely normal labs (~50%); e.g., 40-year-old with BMI 35 and normal labs: 'fatty liver' or NASH. Starts with normal labs, then mild transaminitis; can worsen and rarely cause cirrhosis and carcinoma. Treatment: lifestyle change.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "The AASLD guidance on NAFLD is linked; I did not verify the text. The condition is now often called MASLD/MASH.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10735173/"
+    }
+  },
+  {
+    "id": "s2med-1245",
+    "category": "IM Gastro",
+    "q": "Alcoholic hepatitis labs per p137?",
+    "a": "Classically AST > ALT, not necessarily 2:1; NBME sometimes shows both <100 with AST slightly higher; an easy vignette might say AST 400 and ALT 200 (both normally <50 U/L). Causes steatosis. Mallory hyaline is seen on biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    }
+  },
+  {
+    "id": "s2med-1246",
+    "category": "IM Gastro",
+    "q": "Acetaminophen overdose per p137?",
+    "a": "Most important hepatic toxicity on USMLE; N-acetylcysteine is the antidote. The metabolite NAPQI depletes reduced glutathione (which mops up free radicals). Patient is asymptomatic for 24-28 hours (per source), then ALT/AST in the tens of thousands, needing transplant or death.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls on acetaminophen toxicity is linked; I did not verify the 24-28 hour figure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441917/"
+    }
+  },
+  {
+    "id": "s2med-1247",
+    "category": "IM Gastro",
+    "q": "N-acetylcysteine mechanism per p137?",
+    "a": "N-acetylcysteine regenerates reduced glutathione. Oxidized glutathione has a disulfide bond (-S-S-); reduced glutathione has thiol (-SH).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 137,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=137"
+    },
+    "guideline": {
+      "text": "StatPearls on N-acetylcysteine is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441917/"
+    }
+  },
+  {
+    "id": "s2med-1248",
+    "category": "IM Gastro",
+    "q": "Activated charcoal in acetaminophen overdose per p137-138?",
+    "a": "Apparently given to patients presenting very acutely after massive ingestion to decrease absorption; source has never seen it on NBME (more Qbank gotcha). Only N-acetylcysteine is assessed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls on acetaminophen toxicity is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441917/"
+    }
+  },
+  {
+    "id": "s2med-1249",
+    "category": "IM Gastro",
+    "q": "Drugs causing transaminitis per p138?",
+    "a": "Statins and fibrates, methotrexate, lithium, valproic acid, propylthiouracil. Mild transaminitis is expected; do not decrease dose. For statins, myopathy is more common than toxic hepatitis (NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2med-1250",
+    "category": "IM Gastro",
+    "q": "HELLP syndrome per p138?",
+    "a": "Hemolysis, Elevated Liver enzymes, Low Platelet count. Can be part of severe preeclampsia (HTN + proteinuria after 20 weeks). Pregnant woman >20 weeks with low platelets and Hb and high LFTs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls on HELLP is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560615/"
+    }
+  },
+  {
+    "id": "s2med-1251",
+    "category": "IM Gastro",
+    "q": "Schistocyte causes per p138?",
+    "a": "HELLP syndrome (highest yield here), HUS, TTP, DIC, and mechanical heart valves (see HY Heme PDF).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2med-1252",
+    "category": "IM Gastro",
+    "q": "Intrahepatic cholestasis of pregnancy per p138?",
+    "a": "Third-trimester woman with itchy palms and soles and increased serum bile acids. Cause of third-trimester miscarriage (per source). Treat with ursodeoxycholic acid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    },
+    "guideline": {
+      "text": "A meta-analysis of ursodiol in ICP is linked; I did not verify the text or the stillbirth claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8192305/"
+    }
+  },
+  {
+    "id": "s2med-1253",
+    "category": "IM Gastro",
+    "q": "Fitz-Hugh-Curtis syndrome per p138?",
+    "a": "PID (chlamydia or gonorrhea) extended to the liver capsule. USMLE wants fibrin deposition on the liver from the inflammatory process, similar to post-surgical adhesions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls on Fitz-Hugh-Curtis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499950/"
+    }
+  },
+  {
+    "id": "s2med-1254",
+    "category": "IM Gastro",
+    "q": "Hereditary hemochromatosis genetics and mechanism per p138?",
+    "a": "Autosomal recessive; HFE gene; chromosome 6. Iron overload from increased intestinal iron absorption (the main iron regulation is shutting off intestinal absorption, impaired here). Body can't excrete iron except minor skin loss; women lose iron via menses, so men present earlier.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    },
+    "guideline": {
+      "text": "The EASL haemochromatosis guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11138169/"
+    }
+  },
+  {
+    "id": "s2med-1255",
+    "category": "IM Gastro",
+    "q": "Hemochromatosis findings per p138?",
+    "a": "'Bronze diabetes': hemosiderin skin hyperpigmentation plus increased fasting glucose (iron in the pancreatic tail). Also infertility (iron in hypothalamus, pituitary or gonads), cardiomyopathy, arthritis (pseudogout).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2med-1256",
+    "category": "IM Gastro",
+    "q": "Pseudogout causes and cancer risk per p138?",
+    "a": "Hereditary hemochromatosis, primary hyperparathyroidism and hypothyroidism are the 3 most important causes of pseudogout (new 2CK NBME mentions chondrocalcinosis in hypothyroidism). Increased risk of hepatocellular carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2med-1257",
+    "category": "IM Gastro",
+    "q": "Hemochromatosis diagnosis per p138?",
+    "a": "Ferritin >300 (source writes mg/dL) and increased transferrin saturation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 138,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=138"
+    },
+    "guideline": {
+      "text": "The EASL guideline is linked; I did not verify the cutoffs. Ferritin is normally reported in ng/mL or ug/L, so the source's unit is questionable.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11138169/"
+    }
   }
 ];

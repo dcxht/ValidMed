@@ -588,3 +588,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p136 (viral hepatitis A, B) - 12 cards, ids s2med-1227 to 1238
 - Conflict: Hep A vaccine list is narrower than current ACIP; T-cell-only injury vs literature on cytopathic effects; HepB schedule, unknown-status handling and prevalence rankings unverified. Page ends mid-HepC, carried on p137.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p137 (Hep C-E, NASH, alcoholic hepatitis, acetaminophen) - 9 cards, ids s2med-1239 to 1247
+- Conflict: HepC interferon vs current DAAs; sexual transmission 'almost nil' unverified; NASH renamed MASLD/MASH; 24-28 h asymptomatic period unverified.
+
+## p138 (drug transaminitis, HELLP, ICP, FHC, hemochromatosis) - 10 cards, ids s2med-1248 to 1257
+- Unverified: ferritin cutoff and unit; ICP miscarriage claim.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
