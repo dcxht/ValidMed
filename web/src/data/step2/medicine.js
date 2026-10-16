@@ -11433,5 +11433,213 @@ export default [
       "text": "StatPearls on posterior urethral valves is a reference; I did not verify the text.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
     }
+  },
+  {
+    "id": "s2med-0872",
+    "category": "IM Renal",
+    "q": "Diagnosing posterior urethral valves per p93?",
+    "a": "Highest-yield: ultrasound followed by voiding cystourethrogram. NBME stems may already mention a negative ultrasound or omit it, so you just select 'voiding cystourethrogram'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    },
+    "guideline": {
+      "text": "Pediatric guidance on imaging after urinary tract infection has changed over time (a 2011 AAP guideline and a newer AAP guideline are linked); I did not verify what they say about VCUG.",
+      "url": "https://publications.aap.org/pediatrics/article/128/3/595/30724/Urinary-Tract-Infection-Clinical-Practice"
+    }
+  },
+  {
+    "id": "s2med-0873",
+    "category": "IM Renal",
+    "q": "Vesicoureteral reflux per p93?",
+    "a": "Congenital abnormality where urine goes back up from the bladder into the ureter toward the kidney. Increases risk for recurrent acute pyelonephritis leading to chronic pyelonephritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2med-0874",
+    "category": "IM Renal",
+    "q": "Reflux in pregnancy per p93?",
+    "a": "Can occur in pregnancy for 2 reasons: the larger third-trimester uterus can compress the ureters, and progesterone decreases ureteral peristalsis. This is why pregnant women get pyelonephritis, and why asymptomatic bacteriuria is always treated in pregnancy but not in a non-pregnant woman.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    },
+    "guideline": {
+      "text": "USPSTF recommends screening for asymptomatic bacteriuria in pregnant people; I did not verify the details beyond the page title. A StatPearls page on UTI in pregnancy exists.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/asymptomatic-bacteriuria-in-adults-screening"
+    }
+  },
+  {
+    "id": "s2med-0875",
+    "category": "IM Renal",
+    "q": "Ureteral atresia per p93?",
+    "a": "Answer 'failure of canalization of proximal ureter' if the renal collecting duct system is dilated but the ureters are not. Any congenital obstruction along kidneys, ureters, bladder, urethra can be called 'failure of canalization'. 'Congenital ureteral obstruction' is the answer on one NBME for chronic pyelonephritis causing tubular atrophy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    },
+    "guideline": {
+      "text": "A case report on ureteral atresia exists; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7871641/"
+    }
+  },
+  {
+    "id": "s2med-0876",
+    "category": "IM Renal",
+    "q": "Acute pyelonephritis presentation per p93?",
+    "a": "Infection of the kidney. 9/10 questions mention fever plus costovertebral angle (CVA) tenderness (pain with percussion of the flank). Major risk factors: vesicoureteral reflux (especially in pregnancy) and posterior urethral valves.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2med-0877",
+    "category": "IM Renal",
+    "q": "Granular casts in pyelonephritis per p93?",
+    "a": "'General granular casts' can be seen in pyelonephritis and dehydration; do not confuse with ATN (a 2CK IM form asks this).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    },
+    "guideline": {
+      "text": "A paper on a specific urinary cast in pyelonephritis exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7395807/"
+    }
+  },
+  {
+    "id": "s2med-0878",
+    "category": "IM Renal",
+    "q": "Organisms in pyelonephritis per p93?",
+    "a": "Most common is E. coli. Klebsiella, Serratia and Proteus cause struvite stones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2med-0879",
+    "category": "IM Renal",
+    "q": "Acute pyelonephritis histology per p93-94?",
+    "a": "Neutrophilic infiltration appears as lots of blue/purple (basophilic) cells. The blue cells are neutrophils infiltrating the kidney. USMLE shows basically identical images for other infections (e.g., prostatitis in an older man with prostate pain and fever): acute inflammation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 93,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=93"
+    },
+    "img": "/mehlman/figures/med-p093-01.jpg",
+    "imgAlt": "Kidney histology: sheets of neutrophils (purple cells) in acute pyelonephritis"
+  },
+  {
+    "id": "s2med-0880",
+    "category": "IM Renal",
+    "q": "Bacteria in urine in acute pyelo per p94?",
+    "a": "The source's observation: bacteria can be few in the urine in acute pyelo (typical on NBME forms). If the infection is further down (e.g., urethra), bacteria are more copious.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2med-0881",
+    "category": "IM Renal",
+    "q": "Treatment of pyelonephritis per p94?",
+    "a": "Ciprofloxacin or ceftriaxone; USMLE is known to ask these. Persistent fever despite antibiotics: CT to look for perinephric abscess.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    },
+    "guideline": {
+      "text": "The IDSA/ESCMID guideline for pyelonephritis in women is linked; fluoroquinolone use is more restricted now and the choice depends on local resistance. I did not verify the details.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21292654/"
+    }
+  },
+  {
+    "id": "s2med-0882",
+    "category": "IM Renal",
+    "q": "Perinephric abscess per p94?",
+    "a": "Persistent fever despite antibiotic treatment for pyelonephritis: do CT to look for perinephric abscess.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    },
+    "guideline": {
+      "text": "StatPearls on perinephric abscess is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536936/"
+    }
+  },
+  {
+    "id": "s2med-0883",
+    "category": "IM Renal",
+    "q": "Cipro side effect scenario per p94?",
+    "a": "Older man with high Cr (post-renal from BPH) treated for pyelo, then gets a sore ankle: ciprofloxacin causes tendinopathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2med-0884",
+    "category": "IM Renal",
+    "q": "Ceftriaxone on 2CK per p94?",
+    "a": "A 2CK form has ceftriaxone as the answer in a pyelo question where cipro is not listed. The source's observation: ceftriaxone is a HY 2CK drug for community-acquired general sepsis or severe infections (covers a wide array of community organisms). One 2CK stem mentions amp plus gent for pyelo, but the source has only seen ciprofloxacin or ceftriaxone as actual answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2med-0885",
+    "category": "IM Renal",
+    "q": "Chronic pyelonephritis per p94?",
+    "a": "From recurrent acute pyelonephritis. Almost always pediatric: a 4-year-old with a small, shrunken kidney with tubular atrophy and blunting and scarring of the renal calyces.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    },
+    "img": "/mehlman/figures/med-p094-01.jpg",
+    "imgAlt": "Cut kidney with loss of architecture and scarring of the calyces in chronic pyelonephritis",
+    "guideline": {
+      "text": "StatPearls on reflux nephropathy and a paper on VUR and end-stage renal disease exist; I did not verify their texts.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK526055/"
+    }
+  },
+  {
+    "id": "s2med-0886",
+    "category": "IM Renal",
+    "q": "How chronic pyelo is tested per p94?",
+    "a": "A kidney like the image in a child with recurrent UTIs: answer 'tubular atrophy' on microscopy. Another question shows the same image and answer is 'congenital ureteral obstruction' as the cause. 'Thyroidization of the kidney' is a buzzy phrase USMLE does not much care about.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2med-0887",
+    "category": "IM Renal",
+    "q": "Chronic vs acute pyelo histology per p94?",
+    "a": "Chronic pyelo does not present with cellular infiltration like acute pyelo; it refers to the kidney destroyed or shrunken from repeated prior infections.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 94,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=94"
+    }
   }
 ];

@@ -411,3 +411,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figure med-p092-01 inspected (polycystic kidney illustration).
 - Conflict: ADPKD aneurysm screening only with family history (some higher-risk groups screened). Unverified: 85% liver cyst figure.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p93 (IM Renal: VUR, ureteral atresia, acute pyelo) - 8 cards, ids s2med-0872 to 0879
+- Figure med-p093-01 inspected (neutrophil histology). Page starts mid-PUV row (VCUG bullet).
+- Unverified: AAP VCUG recommendation vs source; USPSTF details.
+
+## p94 (IM Renal: pyelo treatment, chronic pyelo) - 8 cards, ids s2med-0880 to 0887
+- Figure med-p094-01 inspected (scarred kidney).
+- Conflict: fluoroquinolone first-line; source observations (bacteria few, ceftriaxone HY) unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
