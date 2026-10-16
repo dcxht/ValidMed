@@ -771,3 +771,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p211 (repro/obgyn drugs end; IM Repro/Obgyn done) - 10 cards, ids s2med-2138 to 2147
 - Conflicts: IUD contraindicated with STI in past 3 months (CDC IUD table); mifepristone "up to 10 weeks post-intercourse" vs gestational 70 days; HRT indications. Unverified: ectopic MTX thresholds, D&E cutoffs, OCP smoker age wording.
 - Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.
+
+## p212 (tinea capitis, seb derm, tinea) - 8 cards, ids s2med-2148 to 2155
+- Unverified: griseofulvin patient-only / classmates not treated; seb derm and HIV statements; no sourced note endorsements.
+
+## p213 (lymphangitis, cellulitis) - 4 cards, ids s2med-2156 to 2159
+- Conflict/caution: cellulitis "Staph exceeds GAS" and drug list vs IDSA 2014 (MRSA coverage not addressed in source); not verified.
+
+## p214 (erysipelas, acne) - 8 cards, ids s2med-2160 to 2167
+- Caution: acne ordering vs AAD 2024 guideline (combination therapy, antibiotic stewardship); 90% MSSA beta-lactamase figure, topical retinoid/sperm statements, P. acnes naming not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

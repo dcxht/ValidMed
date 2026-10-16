@@ -28011,5 +28011,287 @@ export default [
       "text": "StatPearls on tocolysis is linked; I did not verify the text.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK562212/"
     }
+  },
+  {
+    "id": "s2med-2148",
+    "category": "IM Derm",
+    "q": "Tinea capitis: cause and appearance per p212?",
+    "a": "Dermatophytes (Microsporum, Trichophyton). Classically a circular, scaly area of alopecia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    },
+    "img": "/mehlman/figures/med-p212-01.jpg",
+    "imgAlt": "Circular scaly patch of scalp alopecia (tinea capitis)",
+    "guideline": {
+      "text": "A guideline on tinea capitis in children is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20609140/"
+    }
+  },
+  {
+    "id": "s2med-2149",
+    "category": "IM Derm",
+    "q": "Tinea capitis: treatment per p212?",
+    "a": "Oral griseofulvin for the patient only; 'patient + classmates' is a wrong answer on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2med-2150",
+    "category": "IM Derm",
+    "q": "Tinea capitis: prevention per p212?",
+    "a": "'Avoidance of sharing of hats'; 'use of medicated shampoo' is a wrong answer on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2med-2151",
+    "category": "IM Derm",
+    "q": "Seborrheic dermatitis: cause and presentation per p212?",
+    "a": "Inflammatory response to Malassezia yeast over-colonization. Itchy scalp with flakes; if severe, 'weeping papules' / scaling of the hairline. More common in adults.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    },
+    "img": "/mehlman/figures/med-p212-02.jpg",
+    "imgAlt": "Scaling and redness along the hairline (seborrheic dermatitis)",
+    "guideline": {
+      "text": "A guideline chapter on seborrhoeic dermatitis is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK305403/"
+    }
+  },
+  {
+    "id": "s2med-2152",
+    "category": "IM Derm",
+    "q": "Seborrheic dermatitis versus tinea capitis per p212?",
+    "a": "Tinea capitis is a circular area of scaling alopecia, more common in children.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2med-2153",
+    "category": "IM Derm",
+    "q": "Seborrheic dermatitis: treatment and HIV per p212?",
+    "a": "Topical selenium or ketoconazole shampoo. Can occur in HIV; sudden onset in a high-risk group: do an HIV test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2med-2154",
+    "category": "IM Derm",
+    "q": "Tinea corporis per p212?",
+    "a": "Aka ringworm; the Q often mentions a dog at home. Treatment: topical miconazole or clotrimazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    },
+    "img": "/mehlman/figures/med-p213-01.jpg",
+    "imgAlt": "Ring-shaped scaly plaque with raised border (tinea corporis)",
+    "guideline": {
+      "text": "A review of tinea infections is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12707599/"
+    }
+  },
+  {
+    "id": "s2med-2155",
+    "category": "IM Derm",
+    "q": "Tinea pedis (athlete's foot) treatment per p212?",
+    "a": "Topical terbinafine or a topical azole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 212,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=212"
+    }
+  },
+  {
+    "id": "s2med-2156",
+    "category": "IM Derm",
+    "q": "Lymphangitis: image per p213?",
+    "a": "The image shows sporotrichosis (Sporothrix schenckii), but a similar ascending pattern toward the axilla can come from burns or puncture wounds of the hand.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=213"
+    },
+    "img": "/mehlman/figures/med-p213-02.jpg",
+    "imgAlt": "Forearm with a line of ascending nodular, ulcerated lesions (lymphangitis, sporotrichosis)",
+    "guideline": {
+      "text": "A report on ascending upper limb lymphangitis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5652396/"
+    }
+  },
+  {
+    "id": "s2med-2157",
+    "category": "IM Derm",
+    "q": "Sporotrichosis per p213?",
+    "a": "Classically a papule on the finger from rose thorns (usually too easy for real USMLE). Treatment: oral itraconazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=213"
+    },
+    "guideline": {
+      "text": "IDSA sporotrichosis practice guidelines are linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10770730/"
+    }
+  },
+  {
+    "id": "s2med-2158",
+    "category": "IM Derm",
+    "q": "Image of ascending lines with answers phlebitis, arteritis, lymphangitis per p213?",
+    "a": "Lymphangitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=213"
+    }
+  },
+  {
+    "id": "s2med-2159",
+    "category": "IM Derm",
+    "q": "Cellulitis: organisms and treatment per p213?",
+    "a": "Staph aureus exceeds Group A Strep as the causal organism: give a beta-lactamase-resistant beta-lactam in the methicillin class (dicloxacillin, flucloxacillin), a first-generation cephalosporin (cephalexin, cefazolin), or Augmentin. Amoxicillin and penicillin alone are wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 213,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=213"
+    },
+    "img": "/mehlman/figures/med-p213-03.jpg",
+    "imgAlt": "Red, warm, ill-defined area of skin on a forearm (cellulitis)",
+    "guideline": {
+      "text": "The IDSA 2014 skin and soft tissue infection guideline is linked; I did not verify its organism or drug recommendations. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24947530/"
+    }
+  },
+  {
+    "id": "s2med-2160",
+    "category": "IM Derm",
+    "q": "Why amoxicillin or penicillin alone fail for Staph per p214 (continued from p213)?",
+    "a": "About 90% of community Staph (MSSA) produces beta-lactamase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    },
+    "guideline": {
+      "text": "The IDSA 2014 skin infection guideline is linked; I did not verify the 90% figure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24947530/"
+    }
+  },
+  {
+    "id": "s2med-2161",
+    "category": "IM Derm",
+    "q": "Erysipelas: what and cause per p214?",
+    "a": "Infection of the upper dermis and superficial lymphatics, caused more often by Group A Strep than Staph aureus. Looks worse than cellulitis but more superficial: 'fiery red,' well-demarcated with raised edges.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    },
+    "img": "/mehlman/figures/med-p214-01.jpg",
+    "imgAlt": "Sharply demarcated bright red raised plaque on a limb (erysipelas)",
+    "guideline": {
+      "text": "StatPearls on erysipelas is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532247/"
+    }
+  },
+  {
+    "id": "s2med-2162",
+    "category": "IM Derm",
+    "q": "Erysipelas: treatment per p214?",
+    "a": "Same as cellulitis (oral dicloxacillin, cephalexin, or Augmentin) because Staph can still cause it. Penicillin alone can be used for Strep pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    },
+    "guideline": {
+      "text": "A Cochrane overview of interventions for cellulitis and erysipelas is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10334911/"
+    }
+  },
+  {
+    "id": "s2med-2163",
+    "category": "IM Derm",
+    "q": "Acne: cause per p214?",
+    "a": "The source says Propionibacterium acnes. Students mistakenly choose tinea faciei for simple acne.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    },
+    "img": "/mehlman/figures/med-p214-02.jpg",
+    "imgAlt": "Pimples and papules around the mouth and chin (acne)"
+  },
+  {
+    "id": "s2med-2164",
+    "category": "IM Derm",
+    "q": "Acne: first-line treatment per p214?",
+    "a": "Topical retinoids (e.g., tretinoin), not oral isotretinoin (only for severe acne). Topical retinoids inhibit sebum production per the source; they cause photosensitivity and desquamation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    },
+    "guideline": {
+      "text": "The AAD acne guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/"
+    }
+  },
+  {
+    "id": "s2med-2165",
+    "category": "IM Derm",
+    "q": "Acne: second-line per p214?",
+    "a": "Topical benzoyl peroxide (often co-administered with tretinoin): clears pores and kills bacteria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    }
+  },
+  {
+    "id": "s2med-2166",
+    "category": "IM Derm",
+    "q": "Acne: step-up treatment per p214?",
+    "a": "Topical clindamycin if retinoids and benzoyl peroxide are insufficient; if topical antibiotic is insufficient, oral tetracycline (blistering photosensitivity).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    },
+    "guideline": {
+      "text": "A review of tetracyclines and photosensitivity is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8459281/"
+    }
+  },
+  {
+    "id": "s2med-2167",
+    "category": "IM Derm",
+    "q": "Acne: last resort per p214?",
+    "a": "Oral isotretinoin: beta-hCG before starting (teratogenicity). It doesn't cause problems with sperm in men; topical retinoids aren't teratogenic in men or women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 214,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=214"
+    },
+    "guideline": {
+      "text": "A MotherToBaby fact sheet on isotretinoin is linked; I did not verify the topical retinoid or sperm statements.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK582775/"
+    }
   }
 ];
