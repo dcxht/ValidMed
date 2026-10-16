@@ -23443,5 +23443,290 @@ export default [
       "text": "StatPearls lists mitral valve prolapse among the medical comorbidities associated with panic disorder, consistent with the source's warning that an incidental click does not explain the attack.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK430973/"
     }
+  },
+  {
+    "id": "s2peds-1635",
+    "category": "Anxiety disorders",
+    "q": "Why does p112 say the mid-systolic click does not explain the panic patient's presentation?",
+    "a": "The MVP itself is not the cause of the presentation; MVPs are common in the population and almost always asymptomatic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls lists mitral valve prolapse among panic-disorder comorbidities while confirming panic symptoms themselves are physically manifested, supporting the source's teaching that an incidental click is not the explanation.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430973/"
+    }
+  },
+  {
+    "id": "s2peds-1636",
+    "category": "Anxiety disorders",
+    "q": "What panic-attack treatment answers does p112 give, including the wrong answer?",
+    "a": "Breathing exercises to encourage the patient to stop hyperventilating; breathing into a paper bag is the wrong answer; when breathing exercises are not an option, a benzodiazepine is correct.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls supports breathing training with slow-breathing techniques to reduce hyperventilation-driven panic episodes, alongside CBT as the core psychological treatment.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430973/"
+    }
+  },
+  {
+    "id": "s2peds-1637",
+    "category": "Anxiety disorders",
+    "q": "How does p112 define social phobia, and how does it present on the USMLE?",
+    "a": "Fear of being judged, negatively evaluated, or rejected in a social or performance scenario; it presents as fear of public speaking.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls confirms DSM-5 social anxiety disorder (the current name for social phobia) as fear of negative evaluation in social situations lasting at least 6 months, with a performance-only specifier when fear is restricted to public speaking or performing.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555890/"
+    }
+  },
+  {
+    "id": "s2peds-1638",
+    "category": "Anxiety disorders",
+    "q": "What social-phobia treatment answers does p112 give for the USMLE, including the asthma twist?",
+    "a": "A beta-blocker (propranolol or atenolol) is first-line; if the patient has asthma, choose a benzodiazepine; CBT is for longer-term management.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "Current evidence supports individual CBT and SSRIs/SNRIs as best-supported treatments (sertraline, paroxetine, and venlafaxine are FDA-approved); propranolol is used on an as-needed basis, which fits the source's performance-situation exam rule.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555890/"
+    }
+  },
+  {
+    "id": "s2peds-1639",
+    "category": "Anxiety disorders",
+    "q": "How does p112 define specific phobia, and what is its high-yield example?",
+    "a": "Fear of a specific object or situation leading to significant distress or functional impairment; the high-yield example is fear of flying.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "DSM-5-TR specific phobia requires marked fear of a specific stimulus with avoidance that is persistent, typically 6 months or more, and causes clinically significant distress or impairment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499923/"
+    }
+  },
+  {
+    "id": "s2peds-1640",
+    "category": "Anxiety disorders",
+    "q": "What specific-phobia treatment does p112 give for acute relief and longer term?",
+    "a": "A benzodiazepine for acute relief; CBT for longer-term management.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "Current evidence-based mainstays are behavior therapy, especially systematic desensitization (exposure therapy), and CBT; benzodiazepines provide only short-term relief and are not disease-modifying.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499923/"
+    }
+  },
+  {
+    "id": "s2peds-1641",
+    "category": "Anxiety disorders",
+    "q": "How does p112 define agoraphobia?",
+    "a": "Fear of being in places or situations from which escape might be difficult or embarrassing, or where help might not be available if one were to have a panic attack; this usually refers to crowded, open spaces.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "DSM-5-TR agoraphobia requires marked fear or anxiety about at least 2 of 5 situations (public transportation, open spaces, enclosed spaces, standing in line or a crowd, outside the home alone) persisting at least 6 months.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554387/"
+    }
+  },
+  {
+    "id": "s2peds-1642",
+    "category": "Anxiety disorders",
+    "q": "How does p112 define separation anxiety disorder, and what is its typical age course?",
+    "a": "Excessive distress with separation from home or a major attachment figure; it peaks at 12 to 18 months of age and usually subsides by 2 to 3 years, but children can still get it into their teenage years.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls describes normal separation anxiety emerging in the first year, peaking between 9 and 18 months, and phasing out by about 2.5 years, with the disorder diagnosed when duration or intensity exceeds developmental expectation, including in older children and adolescents.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560793/"
+    }
+  },
+  {
+    "id": "s2peds-1643",
+    "category": "Anxiety disorders",
+    "q": "What separation-anxiety vignette does p112 say the USMLE can give?",
+    "a": "A child going to summer camp or school who gets stomach aches on arrival.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls reports about 75% of children with separation anxiety disorder show school-refusal behaviors, often vocalizing somatic symptoms such as headache or stomach ache.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560793/"
+    }
+  },
+  {
+    "id": "s2peds-1644",
+    "category": "Anxiety disorders",
+    "q": "How does p112 define selective mutism?",
+    "a": "A disorder where the patient fails to speak in certain situations, such as when confronted with new people, despite being able to speak in other situations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls confirms selective mutism is a consistent failure to speak in social situations where speech is expected despite speaking in other circumstances and comprehending language, seen more in young children than adolescents or adults.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470361/"
+    }
+  },
+  {
+    "id": "s2peds-1645",
+    "category": "PTSD vs acute stress disorder",
+    "q": "How does p112 define PTSD?",
+    "a": "Post-traumatic stress disorder presents as at least 1 month of reliving a traumatic event, usually with flashbacks or nightmares about the event.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "DSM-5-TR confirms the intrusion, avoidance, mood/cognition, and arousal symptoms must persist more than 1 month, and children 6 years and younger have distinct diagnostic criteria.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559129/"
+    }
+  },
+  {
+    "id": "s2peds-1646",
+    "category": "PTSD vs acute stress disorder",
+    "q": "What PTSD treatment does p112 list?",
+    "a": "CBT and group therapy, with SSRIs if medication is used.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "For pediatric PTSD, StatPearls emphasizes psychotherapy (eg, trauma-focused CBT) as first-line because medication approaches are not as efficacious in children as in adults.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559140/"
+    }
+  },
+  {
+    "id": "s2peds-1647",
+    "category": "PTSD vs acute stress disorder",
+    "q": "How does p112 define acute stress disorder relative to PTSD?",
+    "a": "Same as PTSD but presenting for 3 days to less than 1 month since the traumatic event.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls confirms the same 3-day-to-1-month window distinguishing acute stress disorder from PTSD, which requires symptoms beyond 1 month.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559129/"
+    }
+  },
+  {
+    "id": "s2peds-1648",
+    "category": "Adjustment disorder",
+    "q": "How does p112 define adjustment disorder's onset?",
+    "a": "Socio-occupational dysfunction starting within 3 months of one specific stressor, such as a breakup, loss of a job, death, or illness.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "DSM-5 criterion A matches: emotional or behavioral symptoms in response to an identifiable stressor occurring within 3 months of its onset.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t19/"
+    }
+  },
+  {
+    "id": "s2peds-1649",
+    "category": "Adjustment disorder",
+    "q": "How does p112 handle adjustment disorder duration, and what does it call the longer form?",
+    "a": "It usually lasts less than 6 months; if longer than 6 months, the source calls it chronic adjustment disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "DSM-5 dropped the DSM-IV acute/chronic specifiers; the current rule is that symptoms do not persist more than 6 months after the stressor or its consequences have terminated.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t19/"
+    }
+  },
+  {
+    "id": "s2peds-1650",
+    "category": "Adjustment disorder",
+    "q": "How does p112 distinguish adjustment disorder from GAD, and what mood labels can it carry?",
+    "a": "The key is the single specific stressor, whereas GAD involves many or no one specific stressor; the patient cannot have psychotic symptoms but can have a mood disorder, written as adjustment disorder with depressed mood or with anxious mood on 2CK psych forms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "DSM-5 keeps the subtypes the source paraphrases: with depressed mood, with anxiety, with mixed anxiety and depressed mood, with disturbance of conduct, and mixed, coded 309.0 through 309.9 (F43.21-F43.25, F43.20).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t19/"
+    }
+  },
+  {
+    "id": "s2peds-1651",
+    "category": "Adjustment disorder",
+    "q": "What first-line treatment does p112 give for adjustment disorder?",
+    "a": "CBT and SSRIs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "The MSD Manual takes a more conservative stance: treatment focuses on self-care, and psychotherapy and medications may have a role but evidence for their efficacy is limited.",
+      "url": "https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-trauma-and-stressor-related-disorders/adjustment-disorders"
+    }
+  },
+  {
+    "id": "s2peds-1652",
+    "category": "Obsessive-compulsive disorder (OCD)",
+    "q": "How does p112 define obsessions, with its example?",
+    "a": "Unwanted and intrusive thoughts, images, or urges that cause significant anxiety or distress; the example is constantly feeling the need to touch a doorknob correctly before opening the door.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls confirms obsessions are recurrent, intrusive, unwanted thoughts, urges, or images that in most individuals cause marked anxiety or distress.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK553162/"
+    }
+  },
+  {
+    "id": "s2peds-1653",
+    "category": "Obsessive-compulsive disorder (OCD)",
+    "q": "How does p112 define compulsions, with its example?",
+    "a": "Repetitive behaviors a person performs in response to an obsession; the example is touching the doorknob repeatedly to make sure it is touched correctly.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 112,
+      "url": "/mehlman/hy-pediatrics.pdf#page=112"
+    },
+    "guideline": {
+      "text": "StatPearls confirms compulsions are repetitive actions or mental events performed to alleviate the distress caused by obsessions or to prevent a feared consequence.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK553162/"
+    }
   }
 ];
