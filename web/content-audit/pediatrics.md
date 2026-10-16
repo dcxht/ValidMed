@@ -625,4 +625,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. No figures. Completes the p130 psoriasis treatment list.
 - Notes verified against StatPearls AS, SLE, APS, EULAR 2025 LN recommendations (abstract level), AJR septic arthritis review. Differences kept as notes: p131 names beta-2-microglobulin, actual APS target is beta-2 glycoprotein I; steroid-only lupus nephritis flare treatment is an exam simplification.
 - Left un-noted (not verified): psoriasis topical order and acitretin/methotrexate claims, AS 8-year-old vignette, ESR/AoCD, slit lamp (note only gives uveitis rate), lupus arthritis 90%, anti-Sm/dsDNA roles, VDRL false positive, malar rash type III, cerebritis/myelitis, C1q, biopsy first (EULAR fetch only confirmed it addresses biopsy, not the sequence), septic arthritis patient groups and negative aspirate.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 23 cards ox=false off=false bad=0.
