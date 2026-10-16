@@ -697,3 +697,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: Hurler described as "more severe form of Hunter" - StatPearls describes Hurler (MPS I, alpha-L-iduronidase, AR) as a separate disease from X-linked Hunter (MPS II). Card wording also adds "intellectual disability, current term" next to the page's "mental retardation".
 - Left un-noted or flagged unverified: corneal clouding Hunter vs Hurler, MSUD diaper odor, homocystinuria marfanoid girl detail and methionine synthase cause, endothelial/platelet mechanism, galactose-1-phosphate sequestering phosphate, essential fructosuria benign/urine test.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p143 (phakomatoses, SCID, Bruton XLA) - 20 cards, ids s2peds-2142 to 2161
+- Inspected page pixels. No figures (tables).
+- Notes verified against StatPearls: NF1, NF2, Tuberous Sclerosis Complex, VHL, Sturge-Weber, SCID, X-Linked Agammaglobulinemia. No source conflicts found.
+- Left un-noted or flagged unverified: NF1 oligodendroglioma/ependymoma, NF2 chromosome 22 and childhood cataracts, VHL chromosome 3 and HIF mechanism, Sturge-Weber temporal papules, XLA onset-age exam commentary (6 months, 14/15 questions, NBME exception).
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

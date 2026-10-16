@@ -30522,5 +30522,285 @@ export default [
       "text": "StatPearls: autosomal recessive aldolase B deficiency presenting at weaning with vomiting, jaundice, hypoglycemia, with hypophosphatemia.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK559102/"
     }
+  },
+  {
+    "id": "s2peds-2142",
+    "category": "Phakomatoses",
+    "q": "What does p143 say about NF1 and TSC?",
+    "a": "They were discussed briefly earlier but are exceedingly high yield and are reinforced here.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2peds-2143",
+    "category": "Neurofibromatosis type 1",
+    "q": "What are the genetics of NF1 per p143?",
+    "a": "NF1 gene, autosomal dominant, chromosome 17.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: the NF1 gene is on chromosome 17 and encodes neurofibromin.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459358/"
+    }
+  },
+  {
+    "id": "s2peds-2144",
+    "category": "Neurofibromatosis type 1",
+    "q": "What are the HY points of NF1 per p143?",
+    "a": "Neurofibromas, cafe au lait spots (hyperpigmented macules), axillary/groin freckling, Lisch nodules (iris hamartomas), pheochromocytoma, optic nerve glioma (bold on the page), oligodendroglioma, ependymoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: cafe-au-lait macules, axillary and inguinal freckling, Lisch nodules and neurofibromas are initial manifestations; optic glioma usually appears around ages 1-3. I did not verify oligodendroglioma and ependymoma.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459358/"
+    }
+  },
+  {
+    "id": "s2peds-2145",
+    "category": "Neurofibromatosis type 2",
+    "q": "What are the genetics of NF2 per p143?",
+    "a": "NF2 gene, autosomal dominant, chromosome 22.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: NF2 is the bilateral vestibular schwannoma syndrome. I did not verify chromosome 22 in this chapter.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470350/"
+    }
+  },
+  {
+    "id": "s2peds-2146",
+    "category": "Neurofibromatosis type 2",
+    "q": "What are the HY points of NF2 per p143?",
+    "a": "In kids, sometimes bilateral cataracts. Bilateral acoustic schwannomas plus meningioma in adults.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: bilateral vestibular schwannomas are the hallmark (about 90-95%), with meningiomas in about 50%. I did not verify the childhood cataracts.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470350/"
+    }
+  },
+  {
+    "id": "s2peds-2147",
+    "category": "Tuberous sclerosis",
+    "q": "What are the genetics of tuberous sclerosis per p143?",
+    "a": "TSC1 (AD, chromosome 9, hamartin) or TSC2 (AD, chromosome 16, tuberin).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: TSC1 (9q34) and TSC2 (16p13.3) encode hamartin and tuberin, autosomal dominant.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538492/"
+    }
+  },
+  {
+    "id": "s2peds-2148",
+    "category": "Tuberous sclerosis",
+    "q": "What are the HY points of tuberous sclerosis per p143?",
+    "a": "Periventricular nodules (tubers) on head MRI, seizures, adenoma sebaceum (angiofibromas), subungual fibromas, renal angiomyolipoma, cardiac rhabdomyoma, hypopigmented macules (ashleaf spots), hyperpigmented velvety lesions (shagreen patches).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: hamartoma predisposition with epilepsy and intellectual disability; cardiac rhabdomyomas and cortical tubers may be present prenatally.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538492/"
+    }
+  },
+  {
+    "id": "s2peds-2149",
+    "category": "Von Hippel-Lindau",
+    "q": "What are the genetics and HY points of VHL per p143?",
+    "a": "VHL gene, AD, chromosome 3. Cerebellar/retinal hemangioblastomas, bilateral renal cell carcinoma, pancreatic cysts.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: hemangioblastoma is the most characteristic tumor; cysts in kidneys and pancreas; renal cell carcinoma. I did not verify chromosome 3.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459242/"
+    }
+  },
+  {
+    "id": "s2peds-2150",
+    "category": "Von Hippel-Lindau",
+    "q": "What does the VHL mutation do per p143?",
+    "a": "Causes constitutive activation of hypoxia-inducible factor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2peds-2151",
+    "category": "Sturge-Weber",
+    "q": "What are the genetics of Sturge-Weber per p143?",
+    "a": "Not inherited; somatic mosaicism of the GNAQ gene.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: a sporadic disorder from somatic mosaic GNAQ mutations.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459163/"
+    }
+  },
+  {
+    "id": "s2peds-2152",
+    "category": "Sturge-Weber",
+    "q": "What are the HY points of Sturge-Weber per p143?",
+    "a": "Port wine stain (nevus flammeus; may also present as violaceous papules in temporal distribution), leptomeningeal angioma (presenting as seizure), glaucoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: facial capillary malformation (port-wine stain, nevus flammeus) with choroidal and leptomeningeal angiomas and seizures. I did not verify the temporal papules.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459163/"
+    }
+  },
+  {
+    "id": "s2peds-2153",
+    "category": "Immunodeficiencies",
+    "q": "How does p143 say the immunodeficiencies differ from the storage diseases for the Peds shelf and 2CK?",
+    "a": "You are expected to know the immunodeficiencies at a Step-1 level of detail, including mechanisms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2peds-2154",
+    "category": "Severe combined immunodeficiency",
+    "q": "What are the genetics of SCID per p143?",
+    "a": "X-linked recessive is most common (usually common gamma chain mutation, or IL-2 receptor). Autosomal recessive type is less common, due to adenosine deaminase deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: T-B+NK- SCID can be X-linked, from absent common gamma chain; adenosine deaminase deficiency is another cause.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539762/"
+    }
+  },
+  {
+    "id": "s2peds-2155",
+    "category": "Severe combined immunodeficiency",
+    "q": "What are the immunologic findings of SCID per p143?",
+    "a": "Combined T and B cell deficiency. T cell deficiency: absent thymic shadow. B cell deficiency: scanty or absent lymph nodes and tonsils.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: the thymus has a fetal appearance, with absence of lymphoid cells and Hassall's corpuscles.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539762/"
+    }
+  },
+  {
+    "id": "s2peds-2156",
+    "category": "Severe combined immunodeficiency",
+    "q": "Which vignette gives SCID per p143, and what is the treatment?",
+    "a": "A sick kid with infections of all different types (viral, fungal, bacterial, protozoal) since birth. Treatment is bone marrow transplant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: poorest prognosis among combined immunodeficiencies unless bone marrow transplantation or gene therapy is successful.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539762/"
+    }
+  },
+  {
+    "id": "s2peds-2157",
+    "category": "Bruton agammaglobulinemia",
+    "q": "What causes Bruton X-linked agammaglobulinemia per p143?",
+    "a": "X-linked recessive mutation in Bruton tyrosine kinase, giving isolated B cell deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: disruption of B cell development from Btk mutation on the X chromosome.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549865/"
+    }
+  },
+  {
+    "id": "s2peds-2158",
+    "category": "Bruton agammaglobulinemia",
+    "q": "What do immunoglobulins and lymphoid tissue look like in XLA per p143?",
+    "a": "Scanty or absent lymph nodes and tonsils; decreased immunoglobulins of all classes, because B cells make antibodies.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: B cells proliferate and differentiate into plasma cells in lymph nodes and tonsils.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549865/"
+    }
+  },
+  {
+    "id": "s2peds-2159",
+    "category": "Bruton agammaglobulinemia",
+    "q": "Which vignette gives XLA per p143, and how does it differ from SCID?",
+    "a": "Almost always a boy with only bacterial infections since about 6 months of age. If they also mention viral, fungal or protozoal infections, it is SCID.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2peds-2160",
+    "category": "Bruton agammaglobulinemia",
+    "q": "What exception does p143 note about the age of onset in XLA?",
+    "a": "A Peds 2CK form question says bacterial infections since birth, but the other answers can be eliminated. About 14 of 15 questions say from roughly 5-7 months onward.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    }
+  },
+  {
+    "id": "s2peds-2161",
+    "category": "Bruton agammaglobulinemia",
+    "q": "What is the NBME treatment for XLA per p143?",
+    "a": "Monthly infusion of immunoglobulin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 143,
+      "url": "/mehlman/hy-pediatrics.pdf#page=143"
+    },
+    "guideline": {
+      "text": "StatPearls: lifelong immunoglobulin replacement therapy with antibiotics for infections; there is no cure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549865/"
+    }
   }
 ];
