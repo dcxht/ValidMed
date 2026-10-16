@@ -1229,3 +1229,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 
 ## p356 (post-thyroidectomy, Ca signs, hypomagnesemia, PTHrP) - 11 cards, ids s2med-3569 to 3579
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p357 (FHH, pseudohypoPTH, milk-alkali) - 9 cards, ids s2med-3580 to 3588
+- Unlabeled block at top of p357 ("low Ca, high PO4, low urinary cAMP; exogenous PTH no change") has no visible heading; not carded. Expletive in FHH passage paraphrased out.
+
+## p358 (RAAS, aldosterone, AT II start) - 10 cards, ids s2med-3589 to 3598
+- JGCs "of the PCT" wording: source, flagged unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.

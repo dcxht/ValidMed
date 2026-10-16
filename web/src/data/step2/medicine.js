@@ -47997,5 +47997,246 @@ export default [
       "text": "A review of hypercalcemia of malignancy is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4683803/"
     }
+  },
+  {
+    "id": "s2med-3580",
+    "category": "IM Endocrine",
+    "q": "Familial hypocalciuric hypercalcemia (FHH) labs per p357?",
+    "a": "High serum Ca2+, low urinary Ca2+, decreased parathyroid Ca2+-sensing receptor sensitivity, decreased renal Ca2+-sensing receptor sensitivity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    },
+    "guideline": {
+      "text": "A paper on FHH and related disorders is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6767927/"
+    }
+  },
+  {
+    "id": "s2med-3581",
+    "category": "IM Endocrine",
+    "q": "FHH mechanism per p357?",
+    "a": "Slightly decreased (not absent) sensitivity of calcium-sensing receptors at both the parathyroid glands and kidneys, giving a slightly higher calcium setpoint that may vary by patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    }
+  },
+  {
+    "id": "s2med-3582",
+    "category": "IM Endocrine",
+    "q": "FHH clinical picture per p357?",
+    "a": "Most patients are asymptomatic; PTH is often high-normal or slightly elevated. No bone resorption signs sometimes seen in primary hyperparathyroidism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    }
+  },
+  {
+    "id": "s2med-3583",
+    "category": "IM Endocrine",
+    "q": "Why FHH urinary calcium is low per p357?",
+    "a": "In primary hyperparathyroidism, renal calcium-sensing receptors in the PCT and loop of Henle work normally, sense high calcium and decrease paracellular reabsorption (unrelated to PTH's DCT effect), so calciuresis is high. In FHH those renal receptors have decreased sensitivity, so the tubules read urinary calcium as low and reabsorb more in the PCT and loop of Henle, decreasing urinary calcium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    }
+  },
+  {
+    "id": "s2med-3584",
+    "category": "IM Endocrine",
+    "q": "Pseudohypoparathyroidism cause per p357?",
+    "a": "A defective PTH receptor, so insensitivity to PTH. There are different types; USMLE gives type I, with Albright hereditary osteodystrophy phenotype: shortened 4th + 5th metacarpals, round face, bony abnormalities. Osteoma cutis (subcutaneous ossification nodules) can be seen (retired NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    },
+    "guideline": {
+      "text": "A GeneReviews chapter on GNAS inactivation disorders is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459117/"
+    }
+  },
+  {
+    "id": "s2med-3585",
+    "category": "IM Endocrine",
+    "q": "Pseudohypoparathyroidism type I and exogenous PTH per p357?",
+    "a": "No response to exogenous PTH: no change in serum calcium, serum phosphate, or urinary cAMP. Normally exogenous PTH raises calcium, lowers phosphate and raises urinary cAMP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    },
+    "guideline": {
+      "text": "A paper on management of pseudohypoparathyroidism is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6641088/"
+    }
+  },
+  {
+    "id": "s2med-3586",
+    "category": "IM Endocrine",
+    "q": "Pseudohypoparathyroidism labs per p357?",
+    "a": "Low serum calcium, high serum phosphate, and high PTH: it looks like low PTH, but really there is insensitivity. PTH is high from decreased negative feedback at calcium-sensing receptors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    }
+  },
+  {
+    "id": "s2med-3587",
+    "category": "IM Endocrine",
+    "q": "Milk-alkali syndrome per p357?",
+    "a": "A diagnosis of exclusion on USMLE. Textbook: hypercalcemia and metabolic alkalosis (high bicarb) in someone taking too many calcium carbonate antacid tablets for GERD or dyspepsia; can lead to urolithiasis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    },
+    "guideline": {
+      "text": "A paper on current concepts of milk-alkali syndrome is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7049033/"
+    }
+  },
+  {
+    "id": "s2med-3588",
+    "category": "IM Endocrine",
+    "q": "Milk-alkali vignette per p357 (continued on p358)?",
+    "a": "The vignette often omits the history: kidney stone + hypercalcemia + elevated bicarb (or toward the upper limit of normal). Eliminate: no other answer explains high calcium + high bicarb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 357,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=357"
+    }
+  },
+  {
+    "id": "s2med-3589",
+    "category": "IM Endocrine",
+    "q": "Milk-alkali bicarb value per p358 (continued from p357)?",
+    "a": "Normal bicarb is 22-28 mEq/L, but an NBME milk-alkali question gives a bicarb of 27, which throws students off. Acid-base disorders can occasionally have bicarb in the normal range, in the direction you expect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    }
+  },
+  {
+    "id": "s2med-3590",
+    "category": "IM Endocrine",
+    "q": "Start of the RAAS cascade per p358?",
+    "a": "Decreased renal perfusion stimulates renin secretion from juxtaglomerular cells (modified smooth muscle cells that sense decreased perfusion; the source places them in the PCT). The liver makes angiotensinogen, which renin cleaves in plasma into angiotensin I.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    },
+    "guideline": {
+      "text": "A review of the renin angiotensin aldosterone system is linked (title only). I did not verify the source's 'JGCs of the PCT' wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11033231/"
+    }
+  },
+  {
+    "id": "s2med-3591",
+    "category": "IM Endocrine",
+    "q": "ACE and angiotensin II per p358?",
+    "a": "Angiotensin I goes to the lungs, where ACE cleaves it into angiotensin II (AT II). AT II acts on the zona glomerulosa (most superficial hormone-producing layer of the adrenal cortex) to upregulate aldosterone synthase, increasing aldosterone. Decreased renal perfusion therefore increases AT II + aldosterone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    }
+  },
+  {
+    "id": "s2med-3592",
+    "category": "IM Endocrine",
+    "q": "High aldosterone and high renin per p358?",
+    "a": "Cause is decreased renal perfusion: renovascular hypertension, from renal artery stenosis (atherosclerosis in older patients with CVD risk factors) or fibromuscular dysplasia (vascular smooth muscle proliferation in young women). 'Reninoma' is possible but nonexistent on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    },
+    "guideline": {
+      "text": "A review of renovascular hypertension is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8099385/"
+    }
+  },
+  {
+    "id": "s2med-3593",
+    "category": "IM Endocrine",
+    "q": "High aldosterone and low renin per p358?",
+    "a": "Primary adrenal cause: Conn syndrome (aldosterone-secreting tumor) or zona glomerulosa hyperplasia. High aldosterone raises plasma volume and renal blood flow, lowering renin by negative feedback.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    },
+    "guideline": {
+      "text": "A consensus on first diagnostic steps in primary aldosteronism is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27177498/"
+    }
+  },
+  {
+    "id": "s2med-3594",
+    "category": "IM Endocrine",
+    "q": "Aldosterone effects on labs per p358?",
+    "a": "Produced in the zona glomerulosa. Increases plasma Na+, decreases K+, increases HCO3-, increases pH: all arrows go the same direction as aldosterone except K+.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    }
+  },
+  {
+    "id": "s2med-3595",
+    "category": "IM Endocrine",
+    "q": "Aldosterone at the collecting duct per p358?",
+    "a": "Acts on the basolateral side of the cortical collecting duct to increase Na+/K+ ATPase pumps (per ATP: 2 K+ in, 3 Na+ out to blood). Pulling Na+ out of the cell favors a gradient that indirectly increases ENaC activity on the apical membrane, pulling Na+ out of the urine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    },
+    "guideline": {
+      "text": "A paper on coordinated control of ENaC and Na+,K+-ATPase is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5004664/"
+    }
+  },
+  {
+    "id": "s2med-3596",
+    "category": "IM Endocrine",
+    "q": "Aldosterone and bicarbonate per p358?",
+    "a": "Aldosterone upregulates an H+ ATPase on the apical membrane of the cortical collecting duct, decreasing plasma H+ and so increasing serum HCO3-.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    }
+  },
+  {
+    "id": "s2med-3597",
+    "category": "IM Endocrine",
+    "q": "Aldosterone vs ADH per p358?",
+    "a": "Aldosterone's main purpose is regulating fluid status: water follows Na+. ADH increases free-water reabsorption without Na+, regulating tonicity (plasma Na+). ADH has some volume effect, but aldosterone's is more robust.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    }
+  },
+  {
+    "id": "s2med-3598",
+    "category": "IM Endocrine",
+    "q": "Angiotensin II roles per p358 (continued on p359)?",
+    "a": "Besides upregulating aldosterone synthase, it has 3 other important roles; first: constricts the efferent arterioles leaving the kidney.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 358,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=358"
+    }
   }
 ];
