@@ -37979,5 +37979,140 @@ export default [
       "text": "StatPearls: Hodgkin lymphoma presents with painless lymphadenopathy, and significant mediastinal node enlargement causes mass effect symptoms.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK499969/"
     }
+  },
+  {
+    "id": "s2peds-2657",
+    "category": "Peds vignettes",
+    "q": "8M with puffiness around the eyes and ankles and no other information. Diagnosis per p188?",
+    "a": "Minimal change disease (lipoid nephrosis); 2CK-level questions often omit preceding viral infection. Classically periorbital and pedal edema with or without ascites; no blood in urine (nephrotic syndrome); light microscopy shows nothing; EM shows effacement of podocyte foot processes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "StatPearls: MCD is also called nil disease or lipoid nephrosis; podocyte abnormalities are seen on EM. I did not verify the preceding viral infection or the ascites detail.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560639/"
+    }
+  },
+  {
+    "id": "s2peds-2658",
+    "category": "Peds vignettes",
+    "q": "8M with nephrotic syndrome, fever 103F, an abdominal fluid wave and diffuse abdominal pain. Next best step per p188?",
+    "a": "Abdominal paracentesis; spontaneous bacterial peritonitis secondary to ascites probably from minimal change disease. Gram stain of peritoneal fluid and check for more than 250 WBCs/hpf; treat with a third-generation cephalosporin (no hard rule: cefotaxime under age 6, ceftriaxone over 6).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls defines SBP by ascitic fluid PMN count above 250 cells/microliter (not WBC per hpf), treats with an IV third-generation cephalosporin, and names cefotaxime as the choice. The age 6 cutoff is the source's own rule. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448208/"
+    }
+  },
+  {
+    "id": "s2peds-2659",
+    "category": "Peds vignettes",
+    "q": "44M with Hodgkin lymphoma and nephrotic syndrome. Diagnosis per p188?",
+    "a": "Minimal change disease (HY; everyone gets it wrong); MCD is also the answer for nephrotic syndrome in Hodgkin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "PubMed: a report of 21 cases and literature review describes minimal change nephrotic syndrome with classical Hodgkin lymphoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16672913/"
+    }
+  },
+  {
+    "id": "s2peds-2660",
+    "category": "Peds vignettes",
+    "q": "8M with sickle cell disease and nephrotic syndrome. Diagnosis per p188?",
+    "a": "Focal segmental glomerulosclerosis (FSGS).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "StatPearls: FSGS is the most common lesion in sickle cell nephropathy and is associated with proteinuria.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526017/"
+    }
+  },
+  {
+    "id": "s2peds-2661",
+    "category": "Peds vignettes",
+    "q": "8M with sickle cell disease and dark urine. Diagnosis per p188?",
+    "a": "Renal papillary necrosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "StatPearls Sickle Cell Nephropathy page covers hematuria and papillary necrosis. I did not verify the dark urine detail.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526017/"
+    }
+  },
+  {
+    "id": "s2peds-2662",
+    "category": "Peds vignettes",
+    "q": "12F with high BUN and creatinine, epistaxis, low Hb and a normal platelet count. Diagnosis per p188?",
+    "a": "Acquired (uremic) platelet dysfunction: a qualitative, not quantitative, platelet disorder from high BUN decreasing platelet efficacy. Low EPO is the wrong answer; the low Hb is from epistaxis. If low EPO were the answer (anemia of chronic disease from renal failure), she would not have epistaxis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "StatPearls Uremia: bleeding diathesis in ESRD from reduced platelet adhesion, increased turnover, and a slight decrease in platelet count. I did not verify the exam logic about EPO.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441859/"
+    }
+  },
+  {
+    "id": "s2peds-2663",
+    "category": "Peds vignettes",
+    "q": "12M with red urine 1-3 days after an upper respiratory tract infection. Diagnosis per p188?",
+    "a": "IgA nephropathy, not PSGN; it can also follow GI infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "StatPearls: IgAN gross hematuria is highly associated with preceding viral or bacterial infection, most often an upper respiratory infection.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538214/"
+    }
+  },
+  {
+    "id": "s2peds-2664",
+    "category": "Peds vignettes",
+    "q": "12M with red urine 1-2 weeks after an upper respiratory tract infection or skin infection. Diagnosis per p188?",
+    "a": "PSGN; it can also follow group A strep skin infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "StatPearls: PSGN presents 1-2 weeks after a sore throat or about 6 weeks after impetigo.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538255/"
+    }
+  },
+  {
+    "id": "s2peds-2665",
+    "category": "Peds vignettes",
+    "q": "10F with a sore throat two weeks ago, red urine, peripheral edema and hypertension. Mechanism of the hypertension per p188?",
+    "a": "Volume overload: microvascular disturbance from the glomerulonephritis with RAAS stimulation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 188,
+      "url": "/mehlman/hy-pediatrics.pdf#page=188"
+    },
+    "guideline": {
+      "text": "StatPearls: reduced GFR causes volume overload, edema and hypertension in PSGN. I did not verify the RAAS stimulation component.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538255/"
+    }
   }
 ];

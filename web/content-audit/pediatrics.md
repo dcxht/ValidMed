@@ -1011,3 +1011,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: OME observation "4-8 weeks" (guideline: 3 months); "mastoiditis (malignant otitis externa)" (distinct conditions).
 - Left unverified: tympanic membrane immobility as most sensitive finding, 100-word detail, all pneumonia organism exam conventions (Mycoplasma bilateral/interstitial, Staph when pneumococcus absent).
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p188 (Bullet points: nephrotic and nephritic syndromes) - 9 cards, ids s2peds-2657 to 2665
+- Inspected page text and layout; no figures. Expletive fragments in student quotes were left out of card text.
+- Notes verified against StatPearls (Minimal Change Disease, Spontaneous Bacterial Peritonitis, Sickle Cell Nephropathy, Uremia, IgA Nephropathy, PSGN) and a PubMed report on MCD with Hodgkin lymphoma.
+- Source conflicts, source answer kept with caution note: SBP threshold written as WBCs/hpf (guidelines use PMN count above 250 per microliter).
+- Left unverified: preceding viral infection omission, uremic EPO exam logic, RAAS component, cefotaxime vs ceftriaxone age cutoff.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
