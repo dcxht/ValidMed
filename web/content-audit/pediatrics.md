@@ -598,4 +598,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. Two source figures added: Erb waiter's tip diagram and Klumpke claw hand.
 - Notes verified against StatPearls Erb Palsy, Klumpke Palsy, Osteomalacia and a PMC rickets review. Lab note: calcium is often normal early (PTH keeps it up) and ALP is raised; source says low calcium. Source answer kept with note.
 - Left un-noted: exam answer wording, rickets sign list (craniotabes, rosary, genu varum), vit D action on osteoid, histology, CF/Crohn malabsorption, pseudofracture. Klumpke and Erb mechanism-in-neonate match StatPearls only in general.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 14 cards ox=false off=false bad=0; both figure cards render and answers fit.
