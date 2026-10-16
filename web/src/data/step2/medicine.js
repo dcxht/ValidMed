@@ -4802,5 +4802,390 @@ export default [
       "page": 37,
       "url": "/mehlman/hy-internal-medicine.pdf#page=37"
     }
+  },
+  {
+    "id": "s2med-0367",
+    "category": "IM Cardio",
+    "q": "Spironolactone in heart failure and fluid unloading per p38?",
+    "a": "Potassium-sparing; used for fluid unloading in patients already on furosemide in whom we worry about dropping K+ too much. In heart failure it goes up the hierarchy: ACEi/ARB first-line, then add beta-blocker, then spironolactone; but a diabetic with poor renal function gets a thiazide instead (new 2CK NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "Current caution: the 2022 AHA/ACC/HFSA heart failure guideline is the current reference; I did not verify the stepwise hierarchy against its text. Source answer kept.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063"
+    }
+  },
+  {
+    "id": "s2med-0368",
+    "category": "IM Cardio",
+    "q": "Spironolactone other uses and adverse effects per p38?",
+    "a": "Aldosteronoma (Conn syndrome) prior to surgery. Can cause gynecomastia (anti-androgenic effect, blocking androgen receptors). Eplerenone has decreased risk of gynecomastia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "A review on aldosterone receptor antagonists and a case report of eplerenone relieving spironolactone gynecomastia exist.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17018542/"
+    }
+  },
+  {
+    "id": "s2med-0369",
+    "category": "IM Cardio",
+    "q": "Lisinopril per p38?",
+    "a": "USMLE-favorite ACE inhibitor. Prevents conversion of AT-I into AT-II in the lungs. Used for HTN in patients with pre-diabetes, diabetes, atherosclerotic disease or renal disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0370",
+    "category": "IM Cardio",
+    "q": "ACE inhibitor adverse effects per p38?",
+    "a": "Dry cough (ACE = bradykininase, so less breakdown of bradykinin in lungs). Can raise serum K+ (decreased aldosterone synthesis; aldosterone normally secretes K+ distally). Avoid in hereditary angioedema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0371",
+    "category": "IM Cardio",
+    "q": "Valsartan per p38?",
+    "a": "ARB. Use-cases are identical to ACEi on USMLE (if both are answer choices they are usually both wrong since the same). Does not cause dry cough like ACEi.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0372",
+    "category": "IM Cardio",
+    "q": "Alpha-1 agonists oxymetazoline and phenylephrine per p38?",
+    "a": "Constrict arterioles, raising BP, with reflex decrease in HR. Highest-yield use is nasal decongestion (constrict nasal mucosal capillaries). Can cause rhinitis medicamentosa (rebound congestion upon withdrawal) if used non-stop for about 5 days; use only as needed for max ~3-4 days.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "A paper on extended use of topical nasal decongestants exists; I did not verify the days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9001263/"
+    }
+  },
+  {
+    "id": "s2med-0373",
+    "category": "IM Cardio",
+    "q": "Isoproterenol per p38?",
+    "a": "Beta-1/2 agonist: increases HR and decreases peripheral vascular resistance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0374",
+    "category": "IM Cardio",
+    "q": "Methyldopa and clonidine per p38?",
+    "a": "Alpha-2 agonists: prevent presynaptic release of neurotransmitters (especially NE). Methyldopa is used for HTN in pregnancy (nifedipine and labetalol also used). Clonidine is used for psych treatments (e.g., Tourette).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "A review of hypertension in pregnancy pharmacotherapy exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11881908/"
+    }
+  },
+  {
+    "id": "s2med-0375",
+    "category": "IM Cardio",
+    "q": "Mirtazapine per p38?",
+    "a": "Alpha-2 antagonist; used for depression in patients with anorexia (stimulates appetite).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0376",
+    "category": "IM Cardio",
+    "q": "Ritodrine per p38?",
+    "a": "Beta-2 agonist used as a tocolytic (slows/delays labor).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0377",
+    "category": "IM Cardio",
+    "q": "Hydralazine per p38?",
+    "a": "Dilates arterioles: decreased BP, HR goes up to compensate. Used for hypertensive emergencies in pregnancy. Affects calcium currents (but is not a calcium channel blocker).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0378",
+    "category": "IM Cardio",
+    "q": "Nitrates per p38?",
+    "a": "Liberate NO, increasing guanylyl cyclase and cGMP: relaxation of venous smooth muscle, venous pooling, decreased preload, decreased oxygen demand, relief of anginal pain. Do not combine with PDE-5 inhibitors (sildenafil), which prevent breakdown of cGMP: severe hypotension. Nitroprusside acts on arterioles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0379",
+    "category": "IM Cardio",
+    "q": "Hydralazine + nitrates in heart failure per p38?",
+    "a": "The combination decreases mortality in heart failure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "A-HeFT (combination of isosorbide dinitrate and hydralazine in blacks with heart failure) is the trial I know of; the source gives no population limit. I did not verify beyond the abstract title.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15533851/"
+    }
+  },
+  {
+    "id": "s2med-0380",
+    "category": "IM Cardio",
+    "q": "Statins adverse effects per p38?",
+    "a": "Myopathy and toxic hepatitis. An offline NBME has myopathy as correct over toxic hepatitis. (MOAs: inhibit HMG-CoA reductase; upregulate LDL receptors.)",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2med-0381",
+    "category": "IM Cardio",
+    "q": "Statin indications for IM per p38?",
+    "a": "Age 20-39 if LDL >190 mg/dL; age 40-75 if LDL >100 mg/dL; age 20-75 in diabetic if LDL >100 mg/dL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 38,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=38"
+    },
+    "guideline": {
+      "text": "Current caution: the 2018 AHA/ACC cholesterol guideline and the diabetes guideline use risk-based thresholds; I did not read their text, so I did not verify these cutoffs. Source answer kept.",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000625"
+    }
+  },
+  {
+    "id": "s2med-0382",
+    "category": "IM Cardio",
+    "q": "Statin LDL cutoff 100 vs 70 per p39?",
+    "a": "Some sources use 70 instead of 100 for the latter two cutoffs; the source has seen 2CK NBME Qs using 100 (LDL of 95 and statin is wrong, implying satisfactory LDL). CVD risk >7.5% is a moot point; one 2CK Q shows risk in the stem but does not depend on it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    },
+    "guideline": {
+      "text": "The 2018 AHA/ACC cholesterol guideline is the current reference (title only); it uses risk percentages. Source answer kept.",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000625"
+    }
+  },
+  {
+    "id": "s2med-0383",
+    "category": "IM Cardio",
+    "q": "Fibrates per p39?",
+    "a": "Fenofibrate; upregulate PPAR-alpha and lipoprotein lipase; best drugs to decrease triglycerides; give if TG >300 mg/dL. Can cause myopathy, hepatotoxicity and cholesterol gallstones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    },
+    "guideline": {
+      "text": "Current caution: a review on reducing pancreatitis risk in hypertriglyceridemia exists; I did not verify the 300 mg/dL cutoff against it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10949260/"
+    }
+  },
+  {
+    "id": "s2med-0384",
+    "category": "IM Cardio",
+    "q": "Why statins + fibrates raise myopathy risk per p39?",
+    "a": "'P-450 interaction' per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0385",
+    "category": "IM Cardio",
+    "q": "Ezetimibe per p39?",
+    "a": "Blocks cholesterol absorption in the small bowel, decreasing LDL. USMLE just wants MOA. Does not decrease mortality.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0386",
+    "category": "IM Cardio",
+    "q": "Cholestyramine per p39?",
+    "a": "Bile acid sequestrant; decreases LDL; does not decrease mortality. Reduces enterohepatic circulation of bile acids at the terminal ileum, so the liver converts more cholesterol into bile acids, pulling cholesterol out of the blood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0387",
+    "category": "IM Cardio",
+    "q": "Orlistat per p39?",
+    "a": "Pancreatic lipase inhibitor used for obesity; can cause steatorrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0388",
+    "category": "IM Cardio",
+    "q": "Niacin MOAs per p39?",
+    "a": "Vitamin B3: 1) decreases VLDL export by the liver; 2) increases HDL more than any other medication.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0389",
+    "category": "IM Cardio",
+    "q": "Niacin adverse effects per p39?",
+    "a": "Flushing (caused by prostaglandin, so mitigated by aspirin), gout and insulin resistance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    },
+    "guideline": {
+      "text": "A review of the mechanism and mitigation of niacin flushing exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2779993/"
+    }
+  },
+  {
+    "id": "s2med-0390",
+    "category": "IM Cardio",
+    "q": "Niacin deficiency per p39?",
+    "a": "Pellagra: 3Ds: dementia, dermatitis, diarrhea. May present as delirium instead of overt dementia (underlying dementia is the biggest risk factor for delirium). Dermatitis appears as forearm hyperpigmentation or Casal necklace.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0391",
+    "category": "IM Cardio",
+    "q": "Procainamide per p39?",
+    "a": "Sodium channel blocker that can be used in Wolff-Parkinson-White. Can cause drug-induced lupus with anti-histone antibodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    },
+    "guideline": {
+      "text": "A paper on antibodies to histone complexes in procainamide-induced lupus exists.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3874029/"
+    }
+  },
+  {
+    "id": "s2med-0392",
+    "category": "IM Cardio",
+    "q": "Flecainide per p39?",
+    "a": "Na+ channel blocker used as first-line rhythm control in patients who fail rate control for AF; patient should have no structural or coronary artery disease, otherwise use a potassium channel blocker like amiodarone or dofetilide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    },
+    "guideline": {
+      "text": "A reappraisal of flecainide for AF exists; I did not verify the 'first-line' wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12566288/"
+    }
+  },
+  {
+    "id": "s2med-0393",
+    "category": "IM Cardio",
+    "q": "Dofetilide and ibutilide per p39?",
+    "a": "Potassium channel blockers; can cause torsades (asked on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0394",
+    "category": "IM Cardio",
+    "q": "Omega/fish oils per p39?",
+    "a": "Decrease triglycerides.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0395",
+    "category": "IM Cardio",
+    "q": "Post-op pain, max morphine, elevated BP per p39?",
+    "a": "2CK answer: increase bolus of morphine; pain can raise BP, and we always fully treat pain. Treating pain can bring BP down.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0396",
+    "category": "IM Cardio",
+    "q": "Morphine in treatment per p39?",
+    "a": "Treatment of MI, acute limb ischemia and sickle crisis usually includes oxygen + morphine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2med-0397",
+    "category": "IM Cardio",
+    "q": "Morphine overdose with a self-administering pump per p39?",
+    "a": "NBME answer: morphine is converted into active metabolites that accumulate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 39,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=39"
+    }
   }
 ];

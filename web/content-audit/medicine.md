@@ -164,3 +164,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text; no figures. Page starts mid-digoxin bullets.
 - Source cautions: Na/K/2Cl is a symporter, not an ATPase; ACEi first-line for EF framing; thiazide galactorrhea unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
+
+## p38 (IM Cardio: spironolactone, ACEi/ARB, alpha agonists, nitrates, statins) - 15 cards, ids s2med-0367 to 0381
+- Inspected page text; no figures. Page starts mid-spironolactone bullets.
+- Source cautions: HF drug order; statin cutoffs vs 2018 guideline (titles only); hydralazine+nitrates population (A-HeFT in blacks).
+- Unverified: decongestant days, mirtazapine, ritodrine, hydralazine "calcium currents".
+
+## p39 (IM Cardio: lipid drugs, niacin, antiarrhythmics, morphine) - 16 cards, ids s2med-0382 to 0397
+- Inspected page text; no figures. Page starts mid-statin bullets.
+- Source cautions: TG >300 fibrate cutoff; statin + fibrate "P-450" mechanism; flecainide first-line wording; statin 70 vs 100 cutoffs.
+- Mobile QA (320x740, local vite preview build, not live): all 31 cards ox=false off=false bad=0.
