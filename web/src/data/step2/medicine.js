@@ -49652,5 +49652,285 @@ export default [
       "page": 368,
       "url": "/mehlman/hy-internal-medicine.pdf#page=368"
     }
+  },
+  {
+    "id": "s2med-3711",
+    "category": "IM Endocrine",
+    "q": "HHS treatment per p369 (continued from p368)?",
+    "a": "Normal saline first, prior to insulin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3712",
+    "category": "IM Endocrine",
+    "q": "Hemochromatosis and diabetes per p369?",
+    "a": "Hereditary hemochromatosis ('bronze diabetes'): iron deposition in the pancreas (the source says the tail), causing impaired fasting glucose or overt diabetes. Hyperpigmentation is from hemosiderin. Also cardiomyopathy, infertility, and pseudogout.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    },
+    "guideline": {
+      "text": "A paper on diabetes in HFE hemochromatosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5346371/"
+    }
+  },
+  {
+    "id": "s2med-3713",
+    "category": "IM Endocrine",
+    "q": "Other causes of diabetes per p369 (Cushing, acromegaly, alcohol, surgery)?",
+    "a": "Cushing syndrome (insulin resistance from glucocorticoids); acromegaly (GH causes insulin resistance); alcoholism (chronic pancreatitis causing exocrine burnout and steatorrhea and loss of islet cells); pancreatectomy (removing some of the tail can lead to diabetes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3714",
+    "category": "IM Endocrine",
+    "q": "Tacrolimus per p369?",
+    "a": "The notable drug that can cause diabetes for USMLE. An immunosuppressant that decreases IL-2 synthesis and T cell stimulation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    },
+    "guideline": {
+      "text": "A meta-analysis of immunosuppression and post-transplant diabetes is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8529944/"
+    }
+  },
+  {
+    "id": "s2med-3715",
+    "category": "IM Endocrine",
+    "q": "Calcium reference and symptoms per p369?",
+    "a": "8.4-10.2 mg/dL. Low Ca: 'up' presentation (tetany, hyperreflexia). High Ca: 'down' (muscle flaccidity, hyporeflexia) and delirium/confusion (hypercalcemic crisis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3716",
+    "category": "IM Endocrine",
+    "q": "High calcium causes per p369?",
+    "a": "Sarcoidosis (increased vitamin D), primary hyperparathyroidism (adenoma, hyperplasia, MEN 1/2A), metastatic malignancy, multiple myeloma, and thiazides (increase Ca reabsorption in the DCT).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3717",
+    "category": "IM Endocrine",
+    "q": "Low calcium causes per p369?",
+    "a": "Rickets/osteomalacia (low vitamin D), secondary hyperparathyroidism (renal failure), post-thyroidectomy, DiGeorge syndrome, loop diuretics (decreased paracellular reabsorption), and hypomagnesemia (usually in alcoholics; hypo-Mg can cause hypo-Ca and hypo-K nonresponsive to supplementation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3718",
+    "category": "IM Endocrine",
+    "q": "Sodium per p369?",
+    "a": "Reference 135-145 mEq/L. High or low sodium causes CNS dysfunction (confusion, stupor, coma). Na can often be normal in USMLE vignettes despite the expected derangement (e.g., Conn syndrome with normal sodium).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3719",
+    "category": "IM Endocrine",
+    "q": "High and low sodium causes per p369?",
+    "a": "High: primary hyperaldosteronism, renal artery stenosis, fibromuscular dysplasia, dehydration, diabetes insipidus. Low: Addison disease, psychogenic polydipsia, SIADH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3720",
+    "category": "IM Endocrine",
+    "q": "Potassium per p369?",
+    "a": "Reference 3.5-5.0 mEq/L. High or low potassium causes cardiac dysfunction (arrhythmia), in contrast to sodium causing CNS dysfunction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3721",
+    "category": "IM Endocrine",
+    "q": "High potassium causes per p369?",
+    "a": "Addison disease, renal failure, and polypharmacy with agents such as potassium-sparing diuretics and digoxin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3722",
+    "category": "IM Endocrine",
+    "q": "Low potassium causes per p369?",
+    "a": "Primary hyperaldosteronism, renal artery stenosis, fibromuscular dysplasia, Cushing disease (chronic high glucocorticoids acting like mineralocorticoids distally), vomiting, diarrhea, loop diuretics and thiazides, and hypomagnesemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3723",
+    "category": "IM Endocrine",
+    "q": "Phosphate per p369?",
+    "a": "Reference 2.5-4.5 mg/dL. High: hypoparathyroidism, secondary hyperparathyroidism, renal failure, tumor lysis syndrome, sarcoidosis (increased vitamin D). Low: primary hyperparathyroidism, rickets/osteomalacia, refeeding syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 369,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=369"
+    }
+  },
+  {
+    "id": "s2med-3724",
+    "category": "IM Endocrine",
+    "q": "Magnesium per p370 (continued from p369)?",
+    "a": "Reference 1.7-2.2 mg/dL. Effects similar to Ca: low Mg gives an 'up' state (hyperreflexia, increased tone); high Mg gives a 'down' state (hyporeflexia, flaccidity). The HY low-Mg cause is alcoholism (decreased intake), leading to hypocalcemia and hypokalemia nonresponsive to supplementation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3725",
+    "category": "IM Endocrine",
+    "q": "Normal acid-base values per p370?",
+    "a": "Per the source: pH 7.35-7.45; HCO3- 22-28 mEq/L; pCO2 33-44 mmHg.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3726",
+    "category": "IM Endocrine",
+    "q": "Metabolic acidosis per p370?",
+    "a": "Low pH from low HCO3-; pCO2 falls to compensate (CO2 is acidic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    },
+    "guideline": {
+      "text": "A StatPearls page on metabolic acidosis is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482146/"
+    }
+  },
+  {
+    "id": "s2med-3727",
+    "category": "IM Endocrine",
+    "q": "MUDPILES per p370?",
+    "a": "High-anion-gap metabolic acidoses: Methanol, Uremia, DKA, Phenformin, Iron tablets/Isoniazid, Lactic acidosis, Ethylene glycol, Salicylates.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    },
+    "guideline": {
+      "text": "A review of evaluating high anion gap metabolic acidosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11020432/"
+    }
+  },
+  {
+    "id": "s2med-3728",
+    "category": "IM Endocrine",
+    "q": "Normal anion gap acidosis per p370?",
+    "a": "If metabolic acidosis has a normal anion gap, eliminate MUDPILES answers and choose something like renal tubular acidosis. Most important: diarrhea, RTA, adrenal insufficiency, and CAH (21-deficiency).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3729",
+    "category": "IM Endocrine",
+    "q": "Anion gap calculation per p370?",
+    "a": "Na+ - (HCO3- + Cl-). Normal is 8-12, so 13 or greater is high; an NBME question has a gap of 12 where the answer is RTA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3730",
+    "category": "IM Endocrine",
+    "q": "Metabolic alkalosis per p370?",
+    "a": "High pH from high HCO3-; pCO2 rises to compensate. Causes: Conn syndrome, renal artery stenosis, fibromuscular dysplasia, vomiting, loops and thiazides (volume depletion activates RAAS).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3731",
+    "category": "IM Endocrine",
+    "q": "Respiratory acidosis per p370?",
+    "a": "Low pH from high CO2; HCO3 rises if chronic. Acute (normal bicarb): hypoventilation from opioids, benzos, barbiturates. Chronic (high bicarb): COPD, obstructive sleep apnea, obesity, ankylosing spondylitis, severe kyphoscoliosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3732",
+    "category": "IM Endocrine",
+    "q": "Respiratory alkalosis per p370?",
+    "a": "High pH from low CO2; HCO3 falls if chronic. Acute (normal bicarb): asthma attack, panic attack, most pulmonary emboli, first day at altitude. Chronic (low bicarb): living at high altitude, pregnancy (progesterone upregulates the respiratory center).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3733",
+    "category": "IM Endocrine",
+    "q": "Speed of compensation per p370?",
+    "a": "Primary metabolic derangements are compensated instantly by respiration; primary respiratory derangements are compensated slowly because the kidney takes time to alter bicarb excretion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
+  },
+  {
+    "id": "s2med-3734",
+    "category": "IM Endocrine",
+    "q": "Winter formula per p370?",
+    "a": "Predicted pCO2 = (1.5 x HCO3-) + 8 +/- 2. Example: DKA with bicarb 14 predicts pCO2 27-31 mmHg. Lower than 27: concurrent respiratory alkalosis; higher than 31: concurrent respiratory acidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 370,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=370"
+    }
   }
 ];

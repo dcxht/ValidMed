@@ -1273,3 +1273,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p368 (DKA potassium, hypoglycemia, type II, HHS) - 13 cards, ids s2med-3698 to 3710
 - "Bicarb always wrong in DKA" and "DKA strictly type I on USMLE": source statements, flagged unverified. Expletives paraphrased out.
 - Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.
+
+## p369 (other DM causes, electrolytes) - 13 cards, ids s2med-3711 to 3723
+- Hemochromatosis iron "in the tail of the pancreas": source wording, unverified.
+
+## p370 (Mg, acid/base, Winter formula) - 11 cards, ids s2med-3724 to 3734
+- Normal pCO2 "33-44 mmHg" as printed; unverified. Reference ranges are the source's.
+- Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.
