@@ -34272,5 +34272,151 @@ export default [
       "text": "Current caution: StatPearls lists the R in CHARGE as retardation of growth and mental development, with genital anomalies and ear malformations, not renal defects. The diagnosis is the same. Source answer kept.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK559199/"
     }
+  },
+  {
+    "id": "s2peds-2408",
+    "category": "Peds vignettes",
+    "q": "3F brought to the ED 30 minutes after a syncopal episode: mouth turned blue during a temper tantrum, fell, shook, went limp, and recovered within seconds. Alert, active, well-hydrated. Diagnosis per p163?",
+    "a": "Breath-holding spell.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "StatPearls: spells follow anger or frustration, then crying and breath-holding, with loss of consciousness; cyanotic spells are most common.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539782/"
+    }
+  },
+  {
+    "id": "s2peds-2409",
+    "category": "Peds vignettes",
+    "q": "4M with pale conjunctivae, 2/6 systolic murmur, Hb 6.4, WBC 50,000, platelets 10,000. Diagnosis per p163?",
+    "a": "Acute lymphoblastic leukemia (ALL) until proven otherwise. The murmur is a flow murmur (low Hb, low O2 delivery, HR increases to compensate); extremely HY for peds.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "StatPearls: ALL is the most common childhood malignancy and presents with anemia, thrombocytopenia and neutropenia from marrow replacement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459149/"
+    }
+  },
+  {
+    "id": "s2peds-2410",
+    "category": "Peds vignettes",
+    "q": "What is the diagnosis until proven otherwise for leukemia in a kid per p163?",
+    "a": "ALL.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "StatPearls: ALL is the most common malignancy of childhood.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459149/"
+    }
+  },
+  {
+    "id": "s2peds-2411",
+    "category": "Peds vignettes",
+    "q": "6M just diagnosed with ALL, parents do not want him told, and he asks you whether he will die. What do you say per p163?",
+    "a": "\"Have you talked to your parents about this?\"",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    }
+  },
+  {
+    "id": "s2peds-2412",
+    "category": "Peds vignettes",
+    "q": "6M with ALL and facial flushing and/or a positive Pemberton sign. Diagnosis per p163?",
+    "a": "TALL (T cell ALL): a thymic lesion can lead to an SVC-like syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "StatPearls: ALL can present with a mediastinal mass. I did not verify the T-cell link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459149/"
+    }
+  },
+  {
+    "id": "s2peds-2413",
+    "category": "Peds vignettes",
+    "q": "3F with a 10-day history of coughing spells followed by vomiting. Diagnosis per p163?",
+    "a": "Pertussis; post-tussive vomiting and hypoglycemia sometimes seen. The cough may be described as paroxysms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "StatPearls: paroxysmal phase with post-tussive emesis. I did not verify hypoglycemia.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519008/"
+    }
+  },
+  {
+    "id": "s2peds-2414",
+    "category": "Peds vignettes",
+    "q": "14M with WBC 32,000 (85% lymphocytes) and a two-week paroxysmal cough followed by vomiting. Diagnosis per p163?",
+    "a": "Pertussis. It can cause an absurdly high, almost entirely lymphocytic WBC count that resembles ALL.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "StatPearls: pertussis should be considered with prolonged cough in paroxysms or with post-tussive emesis. I did not verify the lymphocytosis in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519008/"
+    }
+  },
+  {
+    "id": "s2peds-2415",
+    "category": "Peds vignettes",
+    "q": "17F with 8 months of hirsutism, menses every 45 days (previously 28), moodiness and depression, abdominal striae. Next best step per p163?",
+    "a": "Answer on the Peds NBME: measurement of morning fasting serum cortisol. Wrong answers are prolactin and testosterone measurements.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "Current caution: the Endocrine Society guideline recommends urine free cortisol, late-night salivary cortisol, or a 1 mg overnight dexamethasone suppression test, not a morning serum cortisol, for suspected Cushing syndrome. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2386281/"
+    }
+  },
+  {
+    "id": "s2peds-2416",
+    "category": "Peds vignettes",
+    "q": "12F after a viral infection, lethargic, polyuria, polydipsia, high serum and urinary glucose. Which biochemical and acid-base disturbance per p163?",
+    "a": "High serum K (hyperkalemia) but low total body K; low Na; low bicarbonate (metabolic acidosis); low pH; low CO2 (compensation).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "ISPAD: serum potassium may be normal or elevated while total body potassium is low.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
+  },
+  {
+    "id": "s2peds-2417",
+    "category": "Peds vignettes",
+    "q": "12F in DKA with HR 56, BP 146/88, headache and confusion. What causes the mental status change per p163?",
+    "a": "Cerebral edema (a serious complication of DKA). Hyperglycemia leads to osmotic changes with water moving out of cells. Give IV normal saline first before adding insulin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 163,
+      "url": "/mehlman/hy-pediatrics.pdf#page=163"
+    },
+    "guideline": {
+      "text": "Current caution: ISPAD calls this cerebral injury, more common in children, to be anticipated and monitored. The source's statement that water moving out of cells causes edema does not explain the mechanism; I did not verify it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
   }
 ];

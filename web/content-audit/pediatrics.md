@@ -836,3 +836,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: Sturge-Weber listed as autosomal dominant phakomatosis ("de novo") when it is sporadic/somatic GNAQ; CHARGE "R" expanded as renal defects (StatPearls: retardation of growth).
 - Left unverified: tuberous sclerosis butterfly distribution, NF1 feature list, NF2 cataracts, violaceous papules in Sturge-Weber.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p163 (Bullet points: breath-holding, ALL, TALL, pertussis, adolescent Cushing, DKA complications) - 10 cards, ids s2peds-2408 to 2417
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (Breath-Holding Spells, ALL, Pertussis), the Endocrine Society Cushing guideline and the ISPAD DKA summary.
+- Source conflict, source answer kept with caution note: morning fasting serum cortisol as the Cushing screen (guideline: urine free cortisol, late-night salivary cortisol or 1 mg dexamethasone test). DKA cerebral edema mechanism as stated is unverified.
+- Left unverified: Pemberton sign and T-cell ALL link, hypoglycemia in pertussis, pertussis lymphocytosis figures, how to answer the dying-child question.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
