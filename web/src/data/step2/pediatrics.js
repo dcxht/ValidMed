@@ -35774,5 +35774,125 @@ export default [
       "text": "A registry study of splenectomy in children with ITP (ICIS) reports long-term outcomes; I did not verify the 'most effective' claim or recurrence rates.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7604652/"
     }
+  },
+  {
+    "id": "s2peds-2510",
+    "category": "Peds vignettes",
+    "q": "10F with a tonic-clonic seizure, 2 weeks of fever and joint pain, low Hb, WBC and platelets, and a positive Coombs test. Diagnosis per p174?",
+    "a": "Lupus; the cell lines are down from antibodies against blood cells (not aplastic anemia; the answer is increased peripheral destruction). Treatment is steroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "StatPearls Lupus Nephritis covers pediatric SLE renal disease. I did not verify the cytopenia mechanism or steroid statement in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499817/"
+    }
+  },
+  {
+    "id": "s2peds-2511",
+    "category": "Peds vignettes",
+    "q": "15F with arthritis, malar rash, and blood and protein in the urine. Which test determines the course of management per p174?",
+    "a": "Renal biopsy, which guides management of lupus nephritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "StatPearls: renal biopsy is fundamental to diagnosing lupus nephritis and is used to determine the disease stage.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499817/"
+    }
+  },
+  {
+    "id": "s2peds-2512",
+    "category": "Peds vignettes",
+    "q": "3F with a viral infection, fever and a tonic-clonic seizure. Diagnosis, risk and treatment per p174?",
+    "a": "Febrile seizure. Fever can precipitate seizures in 2-4% of children aged 6 months to 5 years; about a two-fold progression to epilepsy versus the general population; treatment is a benzodiazepine.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls gives incidence as 2% to 5% of US and European children, peaking at 12-18 months, and states benzodiazepines are not a recommended preventative measure (acute abortive use for a prolonged seizure is separate). I did not verify the two-fold epilepsy risk. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448123/"
+    }
+  },
+  {
+    "id": "s2peds-2513",
+    "category": "Peds vignettes",
+    "q": "10-month-old boy with jerking limb movements and an EEG with chaotic high-amplitude spikes and no recognizable pattern. Diagnosis per p174?",
+    "a": "West syndrome (infantile spasms): spasms, hypsarrhythmia on EEG and developmental regression (the definition needs two of three); starts at 3-12 months; seen in 1-5% of Down syndrome kids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "StatPearls: epileptic spasms with infantile onset, usually with hypsarrhythmia and developmental regression; Down syndrome is the most common chromosomal abnormality associated. I did not verify the 1-5% figure or the two-of-three definition.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK537251/"
+    }
+  },
+  {
+    "id": "s2peds-2514",
+    "category": "Peds vignettes",
+    "q": "Treatment of West syndrome and how ACTH is thought to work per p174?",
+    "a": "ACTH, prednisolone or vigabatrin. ACTH is thought to act by 1) stimulating cortisol release and 2) a direct, cortisol-independent effect on melanocortin receptors.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "StatPearls notes the ACTH hypothesis arose from the condition's responsiveness to ACTH. I did not verify the two mechanisms or the full drug list in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK537251/"
+    }
+  },
+  {
+    "id": "s2peds-2515",
+    "category": "Peds vignettes",
+    "q": "13M with a tonic-clonic seizure, a 4-month history of hypnagogic/hypnopompic left-arm jerking, and an uncle with epilepsy. Diagnosis per p174?",
+    "a": "Juvenile myoclonic epilepsy: genetic with unclear inheritance; myoclonic jerks (usually hypnagogic/hypnopompic) progress to tonic-clonic seizures after several months; onset usually 10-16 (can start in adulthood); treat with valproic acid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "StatPearls: JME myoclonic seizures occur 30 minutes to an hour after morning awakening; valproic acid is the drug of choice. Valproate carries major teratogenic risk in females of childbearing potential, which the source does not mention.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537109/"
+    }
+  },
+  {
+    "id": "s2peds-2516",
+    "category": "Peds vignettes",
+    "q": "4F with a few months of near-daily seizures, mostly in sleep, new hyperoralism and less eye contact, and no response to antiepileptic drugs. Diagnosis per p174?",
+    "a": "Lennox-Gastaut syndrome: severe childhood-onset epilepsy with near-daily seizures and cognitive decline (hyperoralism signals cognitive regression); poor prognosis, 5% childhood mortality, 80-90% seizure persistence into adulthood.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "StatPearls: LGS children typically face poorer prognosis and higher mortality, with frequent daily seizures and cognitive delay. I did not verify the 5% or 80-90% figures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532965/"
+    }
+  },
+  {
+    "id": "s2peds-2517",
+    "category": "Peds vignettes",
+    "q": "Child under 5 years with watery diarrhea. Diagnosis per p174?",
+    "a": "Rotavirus; classically seen under age 5.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 174,
+      "url": "/mehlman/hy-pediatrics.pdf#page=174"
+    },
+    "guideline": {
+      "text": "StatPearls: rotavirus is the leading cause of severe gastroenteritis in children under 5; watery diarrhea from impaired water reabsorption.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558951/"
+    }
   }
 ];

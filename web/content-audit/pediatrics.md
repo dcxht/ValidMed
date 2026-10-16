@@ -913,3 +913,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: vWD "autosomal dominant" (type 3 is recessive); "aggregation normal" (RIPA abnormal in some subtypes). Expletive context on the page was not carried into card text.
 - Left unverified: bleeding time always increased, aPTT value patterns, DDAVP for hemophilia A and not B, factor VIII inhibitor aPTT value, splenectomy most effective.
 - Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
+
+## p174 (Bullet points: lupus, febrile seizure, infantile spasms, JME, LGS, rotavirus) - 8 cards, ids s2peds-2510 to 2517
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (Lupus Nephritis, Febrile Seizure, Infantile Epileptic Spasms Syndrome, Juvenile Myoclonic Epilepsy, Lennox-Gastaut, Rotavirus).
+- Source conflict, source answer kept with caution note: febrile seizure "treat with benzodiazepine" (StatPearls: not recommended as prevention). Added a valproate teratogenicity caution on JME.
+- Left unverified: lupus cytopenia mechanism and steroid line, 2-fold epilepsy risk, 1-5% Down syndrome figure, two-of-three definition, ACTH mechanisms, LGS 5% and 80-90% figures.
+- Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
