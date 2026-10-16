@@ -1458,3 +1458,14 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p423 (IM mixed bullets: transfusion thresholds, HTN drugs, thiazides, electrolytes) - 12 cards, ids s2med-4419 to 4430
 - Source HTN rule (ACEi/ARB only with comorbidity) differs from current guideline options; AHA 2017 review linked.
 - Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
+
+## p424 (IM mixed bullets: Mg, pulm HTN, PCP, nursemaid's elbow, scaphoid) - 14 cards, ids s2med-4431 to 4444
+- PCP "mutism + constricted pupils": source claim, not verified.
+
+## p425 (IM mixed bullets: scaphoid, hand nerve entrapments, impetigo, erysipelas) - 15 cards, ids s2med-4445 to 4459
+- "Surgery always wrong for carpal tunnel on USMLE", staph vs strep impetigo shares: source, not verified.
+
+## p426 (IM mixed bullets: necrotizing infections, beta-lactams, repeated incontinence) - 9 cards, ids s2med-4460 to 4468
+- Source says urine eosinophils on "Homer-Wright" stain: probable source error, flagged unverified in the card.
+- Stress/urge incontinence and Kegel items repeat p405.
+- Mobile QA (320x740, local vite preview build, not live): all 38 cards ox=false off=false bad=0.

@@ -57728,5 +57728,423 @@ export default [
       "page": 423,
       "url": "/mehlman/hy-internal-medicine.pdf#page=423"
     }
+  },
+  {
+    "id": "s2med-4431",
+    "category": "IM Mixed",
+    "q": "Low calcium or potassium not responding to supplementation per p424?",
+    "a": "Check serum magnesium (low Mg can cause low Ca and K refractory to supplementation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4432",
+    "category": "IM Mixed",
+    "q": "Who gets low Mg per p424?",
+    "a": "Alcoholics (dietary deficiency; the source says nothing malabsorptive, they fill up on ethanol).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4433",
+    "category": "IM Mixed",
+    "q": "Calorie counts per p424?",
+    "a": "Carbs and protein 4 kcal/g; fat 9 kcal/g; ethanol 7 kcal/g.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4434",
+    "category": "IM Mixed",
+    "q": "Treatment of pulmonary hypertension per p424?",
+    "a": "Most patients respond to dihydropyridine CCBs (e.g., nifedipine); if they fail the dCCB test, try bosentan or sildenafil.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4435",
+    "category": "IM Mixed",
+    "q": "MOA of bosentan per p424?",
+    "a": "Endothelin-1 receptor antagonist.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4436",
+    "category": "IM Mixed",
+    "q": "28F non-smoker with loud P2 + RVH per p424?",
+    "a": "Primary pulmonary hypertension.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4437",
+    "category": "IM Mixed",
+    "q": "Which is true in the 28F with primary pulmonary hypertension per p424?",
+    "a": "Increased vascular expression of endothelin-1 (easy to infer if you know bosentan treats it).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4438",
+    "category": "IM Mixed",
+    "q": "VSD repaired with a prosthetic patch: LV, RV, LA pressures per p424?",
+    "a": "LV pressure up, RV pressure down, LA pressure down (less shunted blood returning to the LA means decreased LA preload).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4439",
+    "category": "IM Mixed",
+    "q": "Kid given an OTC cold medicine, then mental status changes per p424?",
+    "a": "Anticholinergic delirium from a first-generation antihistamine (diphenhydramine, chlorpheniramine).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4440",
+    "category": "IM Mixed",
+    "q": "22M takes a drug, nystagmus + bellicosity per p424?",
+    "a": "PCP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4441",
+    "category": "IM Mixed",
+    "q": "22M takes a drug, mutism + constricted pupils per p424?",
+    "a": "PCP (the source says it is on the psych NBME for 2CK; I did not verify).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4442",
+    "category": "IM Mixed",
+    "q": "2-year-old holding his sister's hand falls, holds arm pronated at his side per p424?",
+    "a": "Nursemaid's elbow (radial head subluxation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4443",
+    "category": "IM Mixed",
+    "q": "Treatment of nursemaid's elbow per p424?",
+    "a": "Hyperpronation OR gentle supination (both correct; only one will be listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4444",
+    "category": "IM Mixed",
+    "q": "Kid falls on outstretched arm + anatomical snuffbox pain per p424?",
+    "a": "Scaphoid fracture; next best step is x-ray (continues on p425 if x-ray is negative).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 424,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=424"
+    }
+  },
+  {
+    "id": "s2med-4445",
+    "category": "IM Mixed",
+    "q": "Snuffbox pain after a fall + negative x-ray per p425?",
+    "a": "Thumb-spica cast: x-ray is often negative in scaphoid fracture; cast to prevent scaphoid avascular necrosis; re-x-ray in 2-3 weeks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4446",
+    "category": "IM Mixed",
+    "q": "When is a figure-of-8 strap the answer per p425?",
+    "a": "Clavicular fracture.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4447",
+    "category": "IM Mixed",
+    "q": "Part of the clavicle fractured most easily per p425?",
+    "a": "Middle third.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4448",
+    "category": "IM Mixed",
+    "q": "First treatment for carpal tunnel syndrome in someone who cannot stop the offending activity per p425?",
+    "a": "Wrist splint first; then triamcinolone injection into the carpal tunnel. Anything surgical is always wrong on USMLE (per the source); NSAIDs are wrong and not proven to help.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4449",
+    "category": "IM Mixed",
+    "q": "Treatment of cubital tunnel syndrome per p425?",
+    "a": "Elbow splint.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4450",
+    "category": "IM Mixed",
+    "q": "What is cubital tunnel syndrome per p425?",
+    "a": "Ulnar nerve entrapment at the elbow; resembles carpal tunnel but in an ulnar distribution and involving the forearm.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4451",
+    "category": "IM Mixed",
+    "q": "What is Guyon canal syndrome per p425?",
+    "a": "Ulnar nerve entrapment at the wrist: hook of hamate fracture or chronic handlebar impact in cyclists.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4452",
+    "category": "IM Mixed",
+    "q": "Most likely organism in impetigo per p425?",
+    "a": "S. aureus now exceeds Group A Strep for non-bullous impetigo; for bullous it has always exceeded S. pyogenes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4453",
+    "category": "IM Mixed",
+    "q": "Treatment of impetigo per p425?",
+    "a": "Topical mupirocin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4454",
+    "category": "IM Mixed",
+    "q": "Golden crusty lesions around the mouth in a school-age child per p425?",
+    "a": "Impetigo, not HSV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4455",
+    "category": "IM Mixed",
+    "q": "32F with a sharply demarcated fiery red lesion from knee to ankle + fever 101F per p425?",
+    "a": "Erysipelas: infection of the superficial dermis +/- dermal lymphatics (cellulitis is the hypodermis); the superficial depth gives a well-demarcated fiery look, while cellulitis is more diffuse and pink.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4456",
+    "category": "IM Mixed",
+    "q": "Most common organism for erysipelas per p425?",
+    "a": "Group A Strep far exceeds S. aureus (but do not neglect the latter).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4457",
+    "category": "IM Mixed",
+    "q": "Most common organism for cellulitis per p425?",
+    "a": "S. aureus exceeds Group A Strep.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4458",
+    "category": "IM Mixed",
+    "q": "Treatment of erysipelas and cellulitis per p425?",
+    "a": "Oral dicloxacillin or oral cephalexin: both cover Staph + Strep; penicillin covers only Strep.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4459",
+    "category": "IM Mixed",
+    "q": "Severe skin infection of fascial planes + cutaneous crepitus per p425?",
+    "a": "Necrotizing fasciitis (polymicrobial) with Clostridium perfringens causing the gas gangrene that leads to crepitus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 425,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=425"
+    }
+  },
+  {
+    "id": "s2med-4460",
+    "category": "IM Mixed",
+    "q": "Treatment of necrotizing fasciitis per p426?",
+    "a": "Surgical debridement + IV broad-spectrum antibiotics with anaerobic coverage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4461",
+    "category": "IM Mixed",
+    "q": "Perineal gangrene in a 50M diabetic per p426?",
+    "a": "Fournier gangrene: surgical debridement.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4462",
+    "category": "IM Mixed",
+    "q": "17M with worsening cellulitis holding an amoxicillin canister from his GP per p426?",
+    "a": "Improper antibiotic: he should have had oral dicloxacillin or oral cephalexin; the cellulitis must be Staph, not Strep.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4463",
+    "category": "IM Mixed",
+    "q": "What to do for the worsening-cellulitis 17M per p426?",
+    "a": "Stat IV flucloxacillin or IV cefazolin (inpatient equivalents of oral dicloxacillin and cephalexin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4464",
+    "category": "IM Mixed",
+    "q": "Why amoxicillin or penicillin does not cover Staph per p426?",
+    "a": "Most community Staph (MSSA) produces beta-lactamase, so a beta-lactamase-resistant beta-lactam is needed. Source: dicloxacillin and flucloxacillin are steric; nafcillin and oxacillin are typically used for osteomyelitis; 6 weeks of nafcillin is classic for confirmed MSSA endocarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4465",
+    "category": "IM Mixed",
+    "q": "Renal issue + beta-lactam or cephalosporin per p426?",
+    "a": "Interstitial nephropathy (tubulointerstitial nephritis): WBCs on dipstick; the source says eosinophils on 'Homer-Wright' staining (I did not verify this stain name; urine eosinophils are usually seen with Hansel or Wright stain).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4466",
+    "category": "IM Mixed",
+    "q": "Stress incontinence per p426 (repeat of p405)?",
+    "a": "Weakened pelvic floor muscles with urine loss on raised abdominal pressure; stems may say 'downward movement of the vesicourethral junction with coughing'. Next step: Kegel exercises, then mid-urethral sling; no medications for stress incontinence (HY).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4467",
+    "category": "IM Mixed",
+    "q": "Muscle not strengthened by Kegel exercises per p426 (repeat of p405)?",
+    "a": "Internal anal sphincter (internal sphincters are under sympathetic control and cannot be voluntarily strengthened). Kegel strengthens levator ani (pubococcygeus, puborectalis, iliococcygeus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
+  },
+  {
+    "id": "s2med-4468",
+    "category": "IM Mixed",
+    "q": "Urge incontinence per p426 (repeat of p405, bullet continues on p427)?",
+    "a": "Hyperactive detrusor / detrusor instability (running to the bathroom at the key in the door or car door); seen in multiple sclerosis, menopause, or idiopathic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 426,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=426"
+    }
   }
 ];
