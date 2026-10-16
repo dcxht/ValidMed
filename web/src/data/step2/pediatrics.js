@@ -36944,5 +36944,185 @@ export default [
       "text": "Current caution: I did not find hip replacement as treatment for childhood LCPD in the StatPearls passage I read, and I did not verify the treatment claim; do not rely on this answer clinically. Source answer kept.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
     }
+  },
+  {
+    "id": "s2peds-2588",
+    "category": "Peds vignettes",
+    "q": "5-8-year-old boy with a painful limp and sickle cell disease. Diagnosis per p182?",
+    "a": "Avascular necrosis, but not Legg-Calve-Perthes because LCP is idiopathic.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "Review: osteonecrosis in sickle cell disease, with risk factors, diagnosis and management. I did not read the section distinguishing it from LCP.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6913430/"
+    }
+  },
+  {
+    "id": "s2peds-2589",
+    "category": "Peds vignettes",
+    "q": "5-8-year-old boy with a painful limp, a negative x-ray, and a bone scan confirming the diagnosis. What does USMLE want you to know per p182?",
+    "a": "X-ray can be negative initially in avascular necrosis; bone scan or MRI can also pick it up.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "Review of osteonecrosis in sickle cell disease. I did not verify imaging sensitivity statements in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6913430/"
+    }
+  },
+  {
+    "id": "s2peds-2590",
+    "category": "Peds vignettes",
+    "q": "11-13-year-old overweight boy with a painful limp. Diagnosis and treatment per p182?",
+    "a": "SCFE; treatment is surgical pinning.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls: obesity is the single most significant risk factor for SCFE; the epiphysis is fixed in situ.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
+    }
+  },
+  {
+    "id": "s2peds-2591",
+    "category": "Peds vignettes",
+    "q": "13M with a painful limp and antalgic gait, with no mention of weight. Mechanism per p182?",
+    "a": "Displacement of the epiphysis of the femoral head (SCFE).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls SCFE page. Obesity is the main risk factor but not required for diagnosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538302/"
+    }
+  },
+  {
+    "id": "s2peds-2592",
+    "category": "Peds vignettes",
+    "q": "2-year-old boy who fell while holding hands with his 8-year-old sister and now holds his arm pronated by his side. Diagnosis per p182?",
+    "a": "Nursemaid's elbow (radial head subluxation).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls: the affected arm is held in extension and pronation; the child resists forearm motion.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430777/"
+    }
+  },
+  {
+    "id": "s2peds-2593",
+    "category": "Peds vignettes",
+    "q": "Treatment for nursemaid's elbow per p182?",
+    "a": "Hyperpronation or gentle supination (both are correct answers; only one will be listed).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls: hyperpronation and supination/flexion are the two common reduction techniques; hyperpronation has a higher reported first-attempt success rate.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430777/"
+    }
+  },
+  {
+    "id": "s2peds-2594",
+    "category": "Peds vignettes",
+    "q": "Kid falls on an outstretched arm with pain over the anatomical snuffbox. Diagnosis and next step per p182?",
+    "a": "Scaphoid fracture; do an x-ray.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "Review of acute scaphoid fractures. I did not verify the x-ray-first step in the abstract I read.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27760075/"
+    }
+  },
+  {
+    "id": "s2peds-2595",
+    "category": "Peds vignettes",
+    "q": "Same fall with snuffbox pain and a negative x-ray. Next best step per p182?",
+    "a": "Thumb-spica cast; x-ray is often negative in scaphoid fracture, so cast to prevent scaphoid avascular necrosis and re-x-ray in 2-3 weeks.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "Current caution: the review abstract says evidence supports equal outcomes with or without a thumb spica component, and advanced imaging should be obtained if suspicion persists with negative radiographs more than 2 weeks after injury. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27760075/"
+    }
+  },
+  {
+    "id": "s2peds-2596",
+    "category": "Peds vignettes",
+    "q": "14F with low T3/T4 and high TSH. What does thyroid biopsy show per p182?",
+    "a": "Lymphocytic infiltration (Hashimoto, chronic lymphocytic thyroiditis); asked on the Peds NBME.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls: Hashimoto thyroiditis is chronic lymphocytic thyroiditis; it was first described by Hashimoto as struma lymphomatosa with lymphocytic infiltration.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459262/"
+    }
+  },
+  {
+    "id": "s2peds-2597",
+    "category": "Peds vignettes",
+    "q": "17F with BMI 33 and irregular periods. Diagnosis and mechanism per p182?",
+    "a": "Anovulation: insulin resistance leads to abnormal GnRH pulsation, high LH/FSH, and insufficient FSH, so the follicle is not primed when the LH spike arrives and is retained as a cyst. With hirsutism the diagnosis is PCOS (the source says 11 cysts bilaterally per Amsterdam criteria). On Peds form 5 the location of pathology in PCOS is the ovary, not the hypothalamus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "Current caution: the international adolescent PCOS recommendations diagnose PCOS in adolescents by irregular cycles plus clinical or biochemical hyperandrogenism; ovarian morphology on ultrasound or AMH should not be used for diagnosis during adolescence. The source's 11-cyst threshold is not a current adolescent criterion. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11899933/"
+    }
+  },
+  {
+    "id": "s2peds-2598",
+    "category": "Peds vignettes",
+    "q": "17F with polyuria, polydipsia and a high BMI. Diagnosis per p182?",
+    "a": "Type 2 diabetes (yes, in a 17-year-old).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "StatPearls: pediatric type 2 diabetes incidence is rising, mainly from childhood obesity.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431046/"
+    }
+  },
+  {
+    "id": "s2peds-2599",
+    "category": "Peds vignettes",
+    "q": "10F with polyuria and polydipsia and a sore throat two weeks earlier. Most likely infective diagnosis per p182?",
+    "a": "Coxsackie B virus; it can precipitate type 1 diabetes through molecular mimicry (the bullet continues about antibodies on p183).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 182,
+      "url": "/mehlman/hy-pediatrics.pdf#page=182"
+    },
+    "guideline": {
+      "text": "Review: enteroviruses such as Coxsackievirus B are the prime viral candidates for type 1 diabetes. A PubMed study titled 'initiation by bystander damage and not molecular mimicry' disputes the mimicry mechanism, so I did not verify it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2570378/"
+    }
   }
 ];

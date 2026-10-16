@@ -969,3 +969,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution: LCP "Tx = hip replacement" (not verified, not standard first-line to my reading; flagged). Source's DDH ortho-referral and abuse x-ray answers kept unverified.
 - Left unverified: exact rickets lab pattern, Pavlik harness detail, abuse link for paraplegic child, LCP treatment.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p182 (Bullet points: AVN, SCFE, nursemaid elbow, scaphoid, Hashimoto, PCOS, diabetes) - 12 cards, ids s2peds-2588 to 2599
+- Inspected page text and layout; no figures. The page ends mid-bullet on coxsackie B and diabetes; the rest continues on p183.
+- Notes verified against StatPearls (SCFE, Nursemaid Elbow, Hashimoto, Pediatric T2DM), a sickle cell osteonecrosis review, a scaphoid fracture review abstract, the international adolescent PCOS recommendations and a viral trigger review for T1DM.
+- Source conflicts, source answer kept with caution note: PCOS ovarian morphology/11-cyst criterion (not used in adolescents); thumb spica cast for negative-film scaphoid (evidence equal with or without thumb spica); coxsackie molecular mimicry (disputed mechanism).
+- Left unverified: AVN imaging sensitivity, scaphoid x-ray-first step, source's "Amsterdam criteria" attribution.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
