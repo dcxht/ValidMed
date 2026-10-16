@@ -661,4 +661,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. Two figures: osteosarcoma radiograph (arrow = Codman triangle, star = sunburst) and Ewing sarcoma histology.
 - Notes verified against StatPearls Osteosarcoma, Ewing Sarcoma (t(11;22), small round blue cells, diaphysis) and Unicameral Bone Cyst. No source conflicts found. Ewing note clarifies onion skin is a periosteal x-ray finding, while the page lists it under histology.
 - Left un-noted or flagged unverified: osteomyelitis-mimic framing, bone scan diaphysis vs metaphysis comparison, neuroendocrine origin wording, NBME answer-choice wording, osteoclastoma comparison, UBC age ranges, 2CK claims.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 9 cards ox=false off=false bad=0 on rerun. The first run showed the histology image blank (late image load); the rerun rendered it and the file serves 200.
