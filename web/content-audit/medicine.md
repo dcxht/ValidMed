@@ -510,3 +510,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Page 113 ends mid insulin-secretion pathway, carried on p114.
 - Unverified: ghrelin meal-timing, hypoglycemia workup steps.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p115 (peptic ulcers, H. pylori, gastrinoma) - 12 cards, ids s2med-1042 to 1053
+- Conflict: CAP first-line vs current ACG (unverified details); Curling ulcer site wording; H. pylori percentages unverified.
+- Page ends mid-head-trauma bullet, carried on p116 card.
+
+## p116 (gastritis, gastric cancer) - 9 cards, ids s2med-1054 to 1062
+- Unverified: NSAID gastritis fundus/body claim.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.

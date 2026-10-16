@@ -13817,5 +13817,280 @@ export default [
       "page": 114,
       "url": "/mehlman/hy-internal-medicine.pdf#page=114"
     }
+  },
+  {
+    "id": "s2med-1042",
+    "category": "IM Gastro",
+    "q": "Peptic ulcer pain pattern per p115?",
+    "a": "'Peptic ulcer' covers duodenal and gastric ulcers. Gastric: pain immediately with meals (increased acid secretion); may lose weight from aversion to pain. Duodenal: pain 1-2 hours after meals (acid entering duodenum); the pylorus tightens with meals and relieves residual discomfort, so patients may gain weight since eating decreases pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2med-1043",
+    "category": "IM Gastro",
+    "q": "H. pylori share of ulcers per p115?",
+    "a": "Source: responsible for almost all duodenal ulcers (>95%) and >60% of gastric ulcers. The lower gastric share is only because gastric ulcers have many other causes; no special tropism for duodenal mucosa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    },
+    "guideline": {
+      "text": "The ACG H. pylori guideline is linked; I did not verify these percentages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39626064/"
+    }
+  },
+  {
+    "id": "s2med-1044",
+    "category": "IM Gastro",
+    "q": "H. pylori ulcer mechanism per p115?",
+    "a": "'Secretes proteinaceous substrates that damage mucosal lining' is correct over 'increased gastric acid secretion' if both are listed, even though H. pylori does raise gastrin and thus acid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2med-1045",
+    "category": "IM Gastro",
+    "q": "H. pylori urease and complications per p115?",
+    "a": "Urease raises ammonia around the organism so it survives the low stomach pH. Antral/pyloric ulcers can cause gastric outlet obstruction (a 'succussion splash' in a Surg question). Increased risk of MALT lymphoma, a B-cell lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2med-1046",
+    "category": "IM Gastro",
+    "q": "H. pylori diagnosis and treatment per p115?",
+    "a": "Diagnose with urease breath test or stool antigen. Source treatment: CAP (clarithromycin, amoxicillin, PPI); if CAP fails, metronidazole, tetracycline, bismuth and PPI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    },
+    "guideline": {
+      "text": "Conflict: the current ACG guideline is linked; I did not verify its details, but current practice has moved toward bismuth quadruple therapy as first line, so CAP is a source exam answer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39626064/"
+    }
+  },
+  {
+    "id": "s2med-1047",
+    "category": "IM Gastro",
+    "q": "Perforated duodenal ulcer per p115?",
+    "a": "Sudden-onset rigid abdomen (involuntary guarding); often SIRS with abnormal vitals from sympathetic activation. USMLE wants chest and abdominal X-rays to look for air under the diaphragm (ruptured viscus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    },
+    "guideline": {
+      "text": "The WSES position paper on perforated ulcers is linked; I did not verify its imaging recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4127969/"
+    }
+  },
+  {
+    "id": "s2med-1048",
+    "category": "IM Gastro",
+    "q": "Zollinger-Ellison syndrome per p115?",
+    "a": "Gastrinoma causing recurrent duodenal ulcers and sometimes jejunal or ileal ulcers. Can be part of MEN1 or idiopathic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls on gastrinoma is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441842/"
+    }
+  },
+  {
+    "id": "s2med-1049",
+    "category": "IM Gastro",
+    "q": "Older male with duodenal ulcer and no other info: most likely cause per p115?",
+    "a": "Testing for H. pylori (NBME). Gastrinoma is wrong because H. pylori is more common (>95% of duodenal ulcers per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2med-1050",
+    "category": "IM Gastro",
+    "q": "Gastrinoma vs VIPoma vignette per p115?",
+    "a": "A vignette with 8-10 watery stools daily sounds like VIPoma, but if it also gives abdominal pain after meals the answer is gastrinoma (IM form 8 question per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2med-1051",
+    "category": "IM Gastro",
+    "q": "NSAID ulcers per p115?",
+    "a": "Cause gastric ulcers (source hasn't seen duodenal ulcers from NSAIDs on USMLE). NSAIDs decrease prostaglandins, which are needed for gastric alkaline mucus and mucosal maintenance, leading to ulcers and gastritis. PPIs are first-line for ulcers in general; misoprostol (PGE1 analogue) is used in NSAID-induced ulcers to replace lost prostaglandin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    },
+    "guideline": {
+      "text": "A Cochrane meta-analysis on NSAID GI toxicity prevention is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10990235/"
+    }
+  },
+  {
+    "id": "s2med-1052",
+    "category": "IM Gastro",
+    "q": "Burn-related ulcers per p115?",
+    "a": "Curling ulcers (rare): fluid loss after burns from evaporation decreases blood flow to the stomach, causing ischemic ulcers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    },
+    "guideline": {
+      "text": "A report on Curling's ulcer is linked; I did not verify the text. Note it describes duodenal ulcer after burns while the source frames this as gastric/ischemic.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1398120/"
+    }
+  },
+  {
+    "id": "s2med-1053",
+    "category": "IM Gastro",
+    "q": "Head trauma ulcers per p115-116?",
+    "a": "Rare. Head trauma or brain tumor raises intracranial pressure, increasing parasympathetic outflow to the stomach, more ACh at muscarinic receptors on parietal cells, more acid. Three synergistic acid stimulators: 1) gastrin binding gastrin receptors on parietal cells; 2) gastrin stimulating ECL cells to release histamine, which binds H2 receptors; 3) direct parasympathetic ACh at muscarinic receptors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 115,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2med-1054",
+    "category": "IM Gastro",
+    "q": "Smoking and alcohol in ulcers per p116?",
+    "a": "Not tested as overt ulcer causes on USMLE, but believed to decrease healing of pre-existing ulcers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2med-1055",
+    "category": "IM Gastro",
+    "q": "Acute vs chronic gastritis per p116?",
+    "a": "Acute: irritation leading to bleeding of gastric mucosa (e.g., from NSAIDs). Chronic: atrophy or autoimmune destruction with decreased mucosal thickness, decreased HCl (achlorhydria), increased gastrin, and ECL cell hyperplasia (histamine compensating for low acid). NBME gives this constellation with 'chronic gastritis' as the answer and acute gastritis not listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    },
+    "guideline": {
+      "text": "The AGA atrophic gastritis update is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8740554/"
+    }
+  },
+  {
+    "id": "s2med-1056",
+    "category": "IM Gastro",
+    "q": "H. pylori gastritis per p116?",
+    "a": "Causes 'type B gastritis' tending to affect the antrum. Can lead to pyloric channel ulcers and gastric outlet obstruction ('succussion splash' on 2CK).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2med-1057",
+    "category": "IM Gastro",
+    "q": "Pernicious anemia per p116?",
+    "a": "Type A gastritis affecting the fundus/body. Autoimmune antibody-mediated destruction of parietal cells; sometimes antibodies against intrinsic factor. Ultra-HY cause of B12 deficiency (high MCV, hypersegmented neutrophils, +/- neuropathy). Associated with other autoimmune diseases (e.g., vitiligo, type I diabetes); high MCV in a type I diabetic should prompt this.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    },
+    "guideline": {
+      "text": "The AGA atrophic gastritis update is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8740554/"
+    }
+  },
+  {
+    "id": "s2med-1058",
+    "category": "IM Gastro",
+    "q": "GI bleeding with indomethacin or naproxen per p116?",
+    "a": "NSAID gastritis is the answer. Source frames this as fundus/body involvement (versus antral H. pylori) and notes USMLE doesn't specifically test the location. NSAIDs lower prostaglandins, disrupting the gastric lining (gastritis and ulcers); misoprostol can be used after PPI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2med-1059",
+    "category": "IM Gastro",
+    "q": "Gastric cancer histology and gross appearance per p116?",
+    "a": "Intestinal vs diffuse types don't matter for USMLE. Histology shows signet-ring cells containing mucin. Grossly can cause linitis plastica (leather bottle stomach).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls on gastric cancer is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459142/"
+    }
+  },
+  {
+    "id": "s2med-1060",
+    "category": "IM Gastro",
+    "q": "Gastric cancer metastasis to ovaries per p116?",
+    "a": "Hematogenous spread to the ovaries, appearing as bilateral ovarian lesions with signet-ring cells containing mucin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls on Krukenberg tumor is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482284/"
+    }
+  },
+  {
+    "id": "s2med-1061",
+    "category": "IM Gastro",
+    "q": "Gastric cancer associations per p116?",
+    "a": "Higher incidence in Japan due to nitrosamines/smoked foods. Acanthosis nigricans can be associated (usually just insulin resistance). Virchow node (Troisier sign): palpable supraclavicular lymph node reflecting visceral malignancy, especially gastric cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2med-1062",
+    "category": "IM Gastro",
+    "q": "MALT lymphoma per p116?",
+    "a": "B cell lymphoma that can be caused by H. pylori. No signet ring cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 116,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=116"
+    },
+    "guideline": {
+      "text": "A review on gastric MALT lymphoma and H. pylori is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4962427/"
+    }
   }
 ];
