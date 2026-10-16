@@ -643,4 +643,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. Two figures: top AP leg radiograph (placed under the tibia vara row, unlabeled on the page) and a clubfoot radiograph.
 - Notes verified against StatPearls (Talipes Equinovarus, DDH, Blount, Legg-Calve-Perthes) and an arthrogryposis review. Source answer kept for DDH imaging cutoff (ultrasound <6 months, x-ray >6 months); caution note cites AAP 6 weeks ultrasound / 4 months x-ray.
 - Left un-noted (not verified): ortho referral before imaging, Potter sequence association, Edwards syndrome and rocker-bottom foot, frog-leg description of Pavlik positioning.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 13 cards ox=false off=false bad=0.
