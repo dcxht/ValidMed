@@ -38114,5 +38114,155 @@ export default [
       "text": "StatPearls: reduced GFR causes volume overload, edema and hypertension in PSGN. I did not verify the RAAS stimulation component.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK538255/"
     }
+  },
+  {
+    "id": "s2peds-2666",
+    "category": "Peds vignettes",
+    "q": "6F with red urine, abdominal pain, arthralgias and violaceous lesions on the buttocks and thighs. Diagnosis per p189?",
+    "a": "Henoch-Schonlein purpura (IgA vasculitis); red urine reflects IgA nephropathy; HSP is a tetrad of IgA nephropathy, palpable purpura, arthralgias and abdominal pain.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "StatPearls: IgA vasculitis presents with GI complaints, palpable purpura, arthralgias and renal involvement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537252/"
+    }
+  },
+  {
+    "id": "s2peds-2667",
+    "category": "Peds vignettes",
+    "q": "16F in an MVA with flank bruising and pain and red urine. Next best step per p189?",
+    "a": "CT of the abdomen with contrast to evaluate for renal injury; ultrasound is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "Current caution: a pediatric blunt trauma review indicates CT with IV contrast for gross hematuria and for microhematuria with 50 or more RBC/HPF. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506325/"
+    }
+  },
+  {
+    "id": "s2peds-2668",
+    "category": "Peds vignettes",
+    "q": "16F in an MVA with flank bruising and pain and no gross blood in the urine. Why is a urinalysis performed per p189?",
+    "a": "To look for blood in the urine; its presence suggests renal injury in this setting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "Review: kidney imaging is indicated in blunt injuries with gross or microscopic hematuria; absence of hematuria does not rule out kidney injury.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506325/"
+    }
+  },
+  {
+    "id": "s2peds-2669",
+    "category": "Peds vignettes",
+    "q": "16F in an MVA with flank bruising and pain, no gross blood and a urinalysis with no blood. Next best step per p189?",
+    "a": "No further diagnostic studies indicated. Concept: with an accident plus flank bruising or pain, look for gross blood first; if positive go straight to CT; if negative do a urinalysis for blood; if positive CT; if negative no further studies. HY on surgery NBMEs, also shows up on the Peds form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "Current caution: review says absence of hematuria does not fully exclude kidney or urinary tract injury, so clinical judgement applies. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506325/"
+    }
+  },
+  {
+    "id": "s2peds-2670",
+    "category": "Peds vignettes",
+    "q": "17F with hypertension, low K and high bicarbonate. Next best step and diagnosis per p189?",
+    "a": "MR angiogram of the renal arteries; diagnosis is fibromuscular dysplasia (another answer: increased renin production).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "StatPearls: FMD is a rare vascular disease of younger women and accounts for 10-20% of renal artery stenosis. I did not verify the labs or the imaging choice in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK493204/"
+    }
+  },
+  {
+    "id": "s2peds-2671",
+    "category": "Peds vignettes",
+    "q": "13F who has never had a period, with a suprapubic mass, nausea and vomiting. Next best step per p189?",
+    "a": "Beta-hCG; she is pregnant (HY): girls can get pregnant without ever having a period, so rule it out.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "StatPearls Primary Amenorrhea: the initial work-up includes a urine pregnancy test, and because ovulation precedes menstruation pregnancy must always be considered.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554469/"
+    }
+  },
+  {
+    "id": "s2peds-2672",
+    "category": "Peds vignettes",
+    "q": "14F with a massive unilateral breast mass whose mother is anxious because her sister died of breast cancer. Answer per p189?",
+    "a": "Follow-up in six months; virginal breast hypertrophy is normal during puberty.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "Current caution: a systematic review of adolescent virginal breast hypertrophy describes it as rapid, often massive breast enlargement that can need surgical management in some cases; a rapidly growing unilateral mass warrants follow-up and exclusion of other causes. I did not verify the 6-month interval. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11981431/"
+    }
+  },
+  {
+    "id": "s2peds-2673",
+    "category": "Peds vignettes",
+    "q": "15M with a unilateral mass behind the nipple with or without tenderness. Answer per p189?",
+    "a": "Reassurance; physiologic gynecomastia of puberty (higher androgens are aromatized to estrogens).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "Review: the main cause of adolescent gynecomastia is physiologic, from an imbalance between estrogen and androgen activity; it is usually transient and resolves in months, sometimes years.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11076233/"
+    }
+  },
+  {
+    "id": "s2peds-2674",
+    "category": "Peds vignettes",
+    "q": "14F at Tanner stage 3. Which statement is true per p189?",
+    "a": "Menarche is imminent (USMLE asks this straight up; exceedingly HY and frequent).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls gives average menarche at about age 12 and does not tie it to Tanner 3; menarche more typically follows around Tanner 4, about 2 years after thelarche. The source's wording is the exam convention. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470280/"
+    }
+  },
+  {
+    "id": "s2peds-2675",
+    "category": "Peds vignettes",
+    "q": "17F with very bad period pain that makes her miss class sometimes, and a normal physical exam. Diagnosis and treatment per p189?",
+    "a": "Primary dysmenorrhea from prostaglandin hypersecretion (PGF2alpha); give NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 189,
+      "url": "/mehlman/hy-pediatrics.pdf#page=189"
+    },
+    "guideline": {
+      "text": "A narrative review of dysmenorrhea therapies exists; I could not read its text, so this is unverified beyond standard teaching.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11332412/"
+    }
   }
 ];

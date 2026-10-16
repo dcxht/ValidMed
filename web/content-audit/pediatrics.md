@@ -1018,3 +1018,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: SBP threshold written as WBCs/hpf (guidelines use PMN count above 250 per microliter).
 - Left unverified: preceding viral infection omission, uremic EPO exam logic, RAAS component, cefotaxime vs ceftriaxone age cutoff.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p189 (Bullet points: HSP, flank trauma algorithm, FMD, adolescent gynecology) - 10 cards, ids s2peds-2666 to 2675
+- Inspected page text and layout; no figures. The page ends mid-bullet on a simple ovarian cyst vignette, which continues on p190 and will be carded there. Expletive-like phrases in student quotes were left out.
+- Notes verified against StatPearls (IgA Vasculitis, Fibromuscular Dysplasia, Primary Amenorrhea, Tanner Stages), a gynecomastia review, a virginal breast hypertrophy review and a pediatric blunt trauma review. The dysmenorrhea review text could not be read.
+- Source answers kept with caution notes: CT for hematuria thresholds; Tanner 3 "menarche imminent"; virginal breast hypertrophy follow-up interval.
+- Left unverified: FMD lab pattern, 6-month follow-up, dysmenorrhea prostaglandin mechanism.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
