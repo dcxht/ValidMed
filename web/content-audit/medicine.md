@@ -116,3 +116,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text; no figures. 
 - Source conflicts: emergency BP target (24-48 h vs 2-6 h to <160/120 in StatPearls); urgency IV drug list; diltiazem in unstable angina (NBME claim unverified).
 - Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
+
+## p28 (IM Cardio: shock table, endocarditis) - 18 cards, ids s2med-0245 to 0262
+- Inspected page text; no figures (table converted to six cards). Expletive paraphrased out.
+- Source conflicts kept with caution: TTE "not done" for endocarditis (current AHA statement, title only; not relied on); empiric regimen (StatPearls: ID consult); prophylaxis drug names.
+- Unverified: species list, hematuria, platelet comment.
+
+## p29 (IM Cardio: prophylaxis end, rheumatic fever, mimics of cardiac pain) - 11 cards, ids s2med-0263 to 0273
+- Inspected page text; no figures. Page starts mid-prophylaxis list (item 4).
+- Unverified: carotid sinus CN IX/X pathway, panic vs MVP, vasovagal USMLE yield, prophylaxis item 4.
+- Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.

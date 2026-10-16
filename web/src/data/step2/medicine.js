@@ -3222,5 +3222,368 @@ export default [
       "text": "Current caution: a review ('What is urgent about hypertensive urgency?') questions aggressive treatment without organ damage; IV agents are generally for emergencies. I did not verify the source's drug list for urgency.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5507232/"
     }
+  },
+  {
+    "id": "s2med-0245",
+    "category": "IM Cardio",
+    "q": "Cardiogenic shock per p28: CO, SVR, PCWP?",
+    "a": "CO decreased; SVR increased; PCWP increased. Increased PCWP for cardiogenic is one of the highest yield path points on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0246",
+    "category": "IM Cardio",
+    "q": "Hypovolemic shock per p28: CO, SVR, PCWP?",
+    "a": "CO decreased; SVR increased; PCWP decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0247",
+    "category": "IM Cardio",
+    "q": "Septic shock per p28: CO, SVR, PCWP?",
+    "a": "CO increased early / decreased late; SVR decreased; PCWP decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0248",
+    "category": "IM Cardio",
+    "q": "Anaphylactic shock per p28: CO, SVR, PCWP?",
+    "a": "CO increased early / decreased late; SVR decreased; PCWP decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0249",
+    "category": "IM Cardio",
+    "q": "Neurogenic shock per p28: CO, SVR, PCWP?",
+    "a": "CO decreased; SVR decreased; PCWP decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0250",
+    "category": "IM Cardio",
+    "q": "Obstructive shock per p28: CO, SVR, PCWP?",
+    "a": "CO decreased; SVR increased; PCWP decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0251",
+    "category": "IM Cardio",
+    "q": "Which shock types are distributive per p28?",
+    "a": "Septic, anaphylactic and neurogenic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0252",
+    "category": "IM Cardio",
+    "q": "Acute endocarditis per p28?",
+    "a": "Bacterial infection of a valve in a patient with no previous valve problem; caused by Staph aureus (coagulase positive) on USMLE. Left-sided valves (aortic and mitral) most affected because of greater pressure changes and turbulence enabling seeding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0253",
+    "category": "IM Cardio",
+    "q": "IV drug user with endocarditis per p28?",
+    "a": "Venous blood inoculated with S. aureus travels to the heart and causes vegetation of the tricuspid valve.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0254",
+    "category": "IM Cardio",
+    "q": "Subacute endocarditis per p28?",
+    "a": "Bacterial infection of a valve with a history of valve abnormality (congenital bicuspid aortic valve, rheumatic heart disease); caused by Strep viridans on USMLE (S. sanguinis, S. mutans, S. mitis). HY precipitant is a dental procedure, with blood inoculated via the oral cavity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "The 2021 AHA scientific statement on preventing viridans group streptococcal IE exists; I did not verify the species list.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33853363/"
+    }
+  },
+  {
+    "id": "s2med-0255",
+    "category": "IM Cardio",
+    "q": "New-onset murmur with fever per p28?",
+    "a": "Endocarditis until proven otherwise on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0256",
+    "category": "IM Cardio",
+    "q": "Platelets of 900,000 in an endocarditis question per p28?",
+    "a": "Reactive thrombocytosis from infection; not unique to endocarditis, but USMLE likes endocarditis as a cause.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0257",
+    "category": "IM Cardio",
+    "q": "Endocarditis embolic findings per p28?",
+    "a": "Hematuria from vegetations that launch to the kidney; endocarditis + stroke-like episode = septic embolus to the brain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0258",
+    "category": "IM Cardio",
+    "q": "Janeway, Osler, splinter hemorrhages and HACEK per p28?",
+    "a": "Low yield for USMLE, mainly school talking points; HACEK organisms are nonexistent on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2med-0259",
+    "category": "IM Cardio",
+    "q": "Endocarditis diagnosis per p28?",
+    "a": "Blood cultures before antibiotics (important for 2CK); TEE confirms diagnosis after blood cultures; the source says TTE is not done for endocarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "Current caution: the 2023 AHA scientific statement on endocarditis diagnosis is the current reference; I could read only its title. I did not verify the claim that TTE is not done, and would not rely on it for clinical practice.",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001466"
+    }
+  },
+  {
+    "id": "s2med-0260",
+    "category": "IM Cardio",
+    "q": "Empiric endocarditis treatment for 2CK per p28?",
+    "a": "Vancomycin PLUS either gentamicin or ampicillin/sulbactam. Vancomycin targets gram-positives (including MRSA); gentamicin targets gram-negatives.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says empiric choice depends on patient and epidemiology and should involve infectious disease consultation. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542162/"
+    }
+  },
+  {
+    "id": "s2med-0261",
+    "category": "IM Cardio",
+    "q": "Dental endocarditis prophylaxis drug per p28?",
+    "a": "Ampicillin or a second-generation cephalosporin such as cefoxitin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "The 2021 AHA statement is the current reference; I did not verify drug names.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33853363/"
+    }
+  },
+  {
+    "id": "s2med-0262",
+    "category": "IM Cardio",
+    "q": "Endocarditis prophylaxis indications 1-3 per p28?",
+    "a": "1) History of endocarditis; 2) any prosthetic material in the heart; 3) congenital cyanotic heart disease not completely repaired (if completely repaired with prosthetics, give prophylaxis). (Item 4 continues on p29.)",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 28,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=28"
+    },
+    "guideline": {
+      "text": "The 2021 AHA statement says it continues recommending prophylaxis only for the highest-risk categories.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33853363/"
+    }
+  },
+  {
+    "id": "s2med-0263",
+    "category": "IM Cardio",
+    "q": "Endocarditis prophylaxis indication 4 per p29?",
+    "a": "History of heart transplant with valvular regurgitation of any kind.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "The 2021 AHA statement lists highest-risk categories; I did not read the text for this item.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33853363/"
+    }
+  },
+  {
+    "id": "s2med-0264",
+    "category": "IM Cardio",
+    "q": "Highest yield point on endocarditis prophylaxis per p29?",
+    "a": "MVP, valve regurgitations or stenoses are not indications: no prophylaxis for MVP, MR, AS, etc. Bicuspid aortic valve is also not an indication.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2med-0265",
+    "category": "IM Cardio",
+    "q": "Rheumatic fever mechanism per p29?",
+    "a": "Group A Strep (S. pyogenes) oropharyngeal infection produces antibodies against M-protein that cross-react with the mitral valve (molecular mimicry; type II hypersensitivity). In theory the aortic valve too, but on USMLE always mitral.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2med-0266",
+    "category": "IM Cardio",
+    "q": "Rheumatic heart valve effects per p29?",
+    "a": "Mitral regurgitation acutely, mitral stenosis late.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2med-0267",
+    "category": "IM Cardio",
+    "q": "Rheumatic fever presentation per p29?",
+    "a": "JONES: Joints (polyarthritis), carditis (heart), subcutaneous Nodules, Erythema marginatum (annular, serpent-like rash), Sydenham chorea (autoimmune basal ganglia dysfunction, dance-like limb movements).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "The 2015 AHA revision of the Jones criteria exists; the JONES mnemonic is the source's.",
+      "url": "https://www.ahajournals.org/doi/10.1161/cir.0000000000000205"
+    }
+  },
+  {
+    "id": "s2med-0268",
+    "category": "IM Cardio",
+    "q": "Cutaneous Group A Strep and treatment of rheumatic fever per p29?",
+    "a": "Cutaneous infections do not cause rheumatic fever but can cause PSGN. Treatment is penicillin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2med-0269",
+    "category": "IM Cardio",
+    "q": "Panic attack vs MI per p29?",
+    "a": "NBME loves to make you think MI: young healthy patient with doom/impending death, sometimes family history of MI as distraction, sometimes a mid-systolic click with the cause of symptoms being panic disorder, not MVP (almost always asymptomatic). Treat with a benzodiazepine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2med-0270",
+    "category": "IM Cardio",
+    "q": "Orthostatic hypotension per p29?",
+    "a": "Intravascular fluid depletion causing a drop of systolic BP >20 mmHg and diastolic >10 mmHg from supine to standing. 2CK IM form: exactly a drop of 20 and 10 with fainting; answer intravascular fluid depletion. Diuretic use is a big risk factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "StatPearls: systolic drop of at least 20 or diastolic of 10 mm Hg within 3 minutes of standing or 60-degree head-up tilt.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448192/"
+    }
+  },
+  {
+    "id": "s2med-0271",
+    "category": "IM Cardio",
+    "q": "Vasovagal syncope per p29?",
+    "a": "Fainting in response to a stressor. Stress triggers a sympathetic response, then an excessive compensatory parasympathetic response: arterioles dilate and heart slows, decreasing cerebral perfusion. 2CK: tilt-table test can diagnose by reproducing symptoms. USMLE likes this for Steps 1 and 2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "A review of recommendations for tilt table testing exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8184725/"
+    }
+  },
+  {
+    "id": "s2med-0272",
+    "category": "IM Cardio",
+    "q": "Carotid sinus hypersensitivity per p29?",
+    "a": "Patient shaving then lightheaded or fainted. Mechanism: increased stretch of carotid sinus baroreceptors, increased afferent CN IX to the solitary nucleus, increased efferent CN X parasympathetic firing to cardiac nodal tissue, decreased HR, CO and cerebral perfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "StatPearls on carotid sinus hypersensitivity exists; I did not verify the CN IX/X pathway there.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK559059/"
+    }
+  },
+  {
+    "id": "s2med-0273",
+    "category": "IM Cardio",
+    "q": "Costochondritis per p29?",
+    "a": "Inflammation of cartilage at rib joints. Chest pain worse with palpation or reaching overhead or behind the back, clear indicators of MSK, not cardiac. Can be idiopathic, strain (gym) or post-viral.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 29,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=29"
+    },
+    "guideline": {
+      "text": "StatPearls on costochondritis is a reference.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532931/"
+    }
   }
 ];
