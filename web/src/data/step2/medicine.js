@@ -1339,5 +1339,319 @@ export default [
       "text": "I did not verify the ACEi or ARB component in the passages I read.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8544812/"
     }
+  },
+  {
+    "id": "s2med-0100",
+    "category": "IM Cardio",
+    "q": "Statin potency on USMLE per p14?",
+    "a": "USMLE will not force you to choose between low- and high-potency statins.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0101",
+    "category": "IM Cardio",
+    "q": "Favorite ACE inhibitor and antiplatelet on NBME for HTN control and carotid disease per p14?",
+    "a": "Lisinopril is the favorite ACEi. Aspirin alone is sufficient as antiplatelet therapy on NBME exams, though in real life patients can get aspirin alone, aspirin + dipyridamole, or clopidogrel alone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "The 2021 AHA/ASA secondary stroke prevention guideline covers antiplatelet choices. I did not verify the NBME observations.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000375"
+    }
+  },
+  {
+    "id": "s2med-0102",
+    "category": "IM Cardio",
+    "q": "Carotid occlusion percentages on USMLE per p14?",
+    "a": "They will not give borderline thresholds; they say 30% or 90%. If the percent is low, check the vignette for drugs: a patient already on statin, lisinopril and aspirin means continue current regimen. 'Add clopidogrel' has been a wrong answer there since aspirin + clopidogrel is not given.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0103",
+    "category": "IM Cardio",
+    "q": "Low carotid occlusion and the patient is on 2 of 3 drugs in the triad per p14?",
+    "a": "The answer is the missing one: add aspirin, add statin or add lisinopril.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0104",
+    "category": "IM Cardio",
+    "q": "Stroke, TIA or retinal artery occlusion in a person over 50 with no HTN mentioned per p14?",
+    "a": "Next best step is carotid ultrasonography for stenosis; the vignette assumes a carotid plaque.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0105",
+    "category": "IM Cardio",
+    "q": "Episodes of unexplained syncope or light-headedness, but no stroke, TIA or retinal artery occlusion per p14?",
+    "a": "ECG, then Holter monitor, looking for atrial fibrillation (AF causes LA mural thrombus that launches off to brain/eye).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "The 2017 ACC/AHA/HRS syncope guideline covers evaluation with ECG and ambulatory monitoring. I did not verify the AF framing.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000499"
+    }
+  },
+  {
+    "id": "s2med-0106",
+    "category": "IM Cardio",
+    "q": "Statin + ACEi/ARB + antiplatelet triad outside carotid disease per p14?",
+    "a": "The triad is also used for general peripheral vascular disease unrelated to carotid stenosis, e.g., intermittent claudication.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0107",
+    "category": "IM Cardio",
+    "q": "Stroke, TIA or retinal artery occlusion, no HTN mentioned, but an abdominal bruit per p14?",
+    "a": "You still do a carotid duplex ultrasound: the abdominal bruit implies AAA or renal artery stenosis, atherosclerosis in one location means atherosclerosis everywhere. Carotid bruit need not be mentioned; it is not a sensitive finding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0108",
+    "category": "IM Cardio",
+    "q": "Classic aortic dissection presentation per p14?",
+    "a": "Severe upper chest pain radiating to the back between the scapulae.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0109",
+    "category": "IM Cardio",
+    "q": "Aortic dissection and aortic regurgitation per p14?",
+    "a": "USMLE loves dissection as the most common cause of AR, due to retrograde propagation toward the aortic root. A patient with HTN, cocaine use or a connective tissue disorder (Marfan, Ehlers-Danlos) with a diastolic murmur is dissection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "StatPearls on aortic dissection is the source for risk factors. I did not verify 'most common cause of AR'.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441963/"
+    }
+  },
+  {
+    "id": "s2med-0110",
+    "category": "IM Cardio",
+    "q": "Aortic dissection histology term on NBME per p14?",
+    "a": "'Medial necrosis'. 'Cystic medial necrosis' was once buzzy for Marfan dissection; the source has not seen USMLE care about it, but has seen an NBME dissection due to hypertension where 'medial necrosis' is the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    },
+    "guideline": {
+      "text": "StatPearls: cystic medial necrosis is seen in Marfan syndrome tissues, also termed cystic medial degeneration.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441963/"
+    }
+  },
+  {
+    "id": "s2med-0111",
+    "category": "IM Cardio",
+    "q": "Blood pressure differences in aortic dissection per p14?",
+    "a": "3/4 of Qs with different BP between the arms refer to aortic dissection. A 2CK IM form 7 question has thoracic aortic dissection with BP different between arms and also between the L and R legs, since thoracic dissections can propagate anterograde down to the abdominal aorta.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 14,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2med-0112",
+    "category": "IM Cardio",
+    "q": "Aortic aneurysm types and leg BP per p15 (figure)?",
+    "a": "You do not need to memorize the types (De Bakey I, II, III; Stanford A and B). If the common iliacs are involved (left image), BP can differ between the legs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "img": "/mehlman/figures/med-p015-01.jpg",
+    "imgAlt": "Source figure p15: De Bakey types I, II and III with Stanford A and B"
+  },
+  {
+    "id": "s2med-0113",
+    "category": "IM Cardio",
+    "q": "Treatment of ascending (type A) versus descending (type B) aortic aneurysm for 2CK per p15?",
+    "a": "Type A: labetalol + surgery. Type B: labetalol alone initially.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "StatPearls: short-acting IV beta blockers (esmolol or labetalol) are first-line agents; nitroprusside can be added if needed. I did not verify the type A and B split.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441963/"
+    }
+  },
+  {
+    "id": "s2med-0114",
+    "category": "IM Cardio",
+    "q": "Traumatic rupture of the aorta cause per p15?",
+    "a": "Deceleration injury; most common cause of death due to car accident or fall. Exceedingly HY on 2CK.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "StatPearls: thoracic aortic injury is caused by blunt deceleration trauma. I did not verify the 'most common cause of death' claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555980/"
+    }
+  },
+  {
+    "id": "s2med-0115",
+    "category": "IM Cardio",
+    "q": "Patient after a motor vehicle accident with widening of the mediastinum, next best step per p15?",
+    "a": "Aortic angiography (aortography) OR CT angiography. A new 2CK form has 'CT scan of the chest' as the answer, meaning CT angiography. NBME/USMLE will not force a choice between aortography and CTA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "StatPearls: mediastinal widening of greater than 8 cm is a listed chest X-ray finding. Current practice uses CT angiography as first imaging; I did not verify the NBME statements.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555980/"
+    }
+  },
+  {
+    "id": "s2med-0116",
+    "category": "IM Cardio",
+    "q": "First-line drug in aortic dissection and traumatic rupture per p15?",
+    "a": "Labetalol first; nitroprusside comes after.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "StatPearls: short-acting IV beta blockers (esmolol or labetalol) are first-line, with nitroprusside added if more control is needed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441963/"
+    }
+  },
+  {
+    "id": "s2med-0117",
+    "category": "IM Cardio",
+    "q": "Labetalol in a patient with low BP from rupture or dissection per p15?",
+    "a": "Still the NBME answer: the drug decreases shearing forces, even with low BP. Do not reject it because of low BP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2med-0118",
+    "category": "IM Cardio",
+    "q": "2CK answer 'esmolol + nitroprusside' per p15?",
+    "a": "Appears for a traumatic rupture question once, but almost always they will just want labetalol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "An evidence review lists esmolol as the preferred beta blocker in some regimens; the source answer is kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10374381/"
+    }
+  },
+  {
+    "id": "s2med-0119",
+    "category": "IM Cardio",
+    "q": "Emergency surgical repair timing in traumatic rupture per p15?",
+    "a": "Emergency surgical repair is indicated following IV drug administration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "I did not verify; StatPearls describes management by severity and hemodynamic stability.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555980/"
+    }
+  },
+  {
+    "id": "s2med-0120",
+    "category": "IM Cardio",
+    "q": "Thoracic aortic aneurysm exam wording per p15?",
+    "a": "'Visible pulsation' on USMLE: 'visible pulsation above the manubrium' or 'pulsatile mass above the manubrium'. There can also be a tracheal shift (do not choose pneumothorax). For AAA: 'visible pulsation in the epigastrium'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2med-0121",
+    "category": "IM Cardio",
+    "q": "Biggest risk factor for AAA and screening per p15?",
+    "a": "Smoking. For Family Med, a one-off abdominal ultrasound in men 65+ who are ever-smokers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "USPSTF: one-time ultrasonography screening for men aged 65 to 75 who have ever smoked.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening"
+    }
+  },
+  {
+    "id": "s2med-0122",
+    "category": "IM Cardio",
+    "q": "AAA repair indications per p15?",
+    "a": "AAA >5.5 cm, or growth of >0.5 cm over 6 months. On a Surgery form, a patient with a 4-cm AAA and the reason for serial ultrasounds: 'size of aneurysm'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    },
+    "guideline": {
+      "text": "StatPearls (repair thresholds) discusses 5.5 cm as the standard threshold. I did not verify the 0.5 cm in 6 months wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556917/"
+    }
+  },
+  {
+    "id": "s2med-0123",
+    "category": "IM Cardio",
+    "q": "Perioperative MI risk in a 6-cm AAA patient per p15?",
+    "a": "Assess with a pre-op stress test. 2CK NBME Q: dipyridamole and thallium pharmacologic stress test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 15,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=15"
+    }
   }
 ];

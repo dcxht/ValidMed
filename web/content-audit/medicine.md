@@ -52,3 +52,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Source conflicts kept with caution: vertebral dissection heparin answer (CADISS: antiplatelet vs anticoagulant no difference); asymptomatic endarterectomy >80% (current sources use 70% or recommend discussion).
 - Notes from StatPearls (Vertebral Artery Dissection, Symptomatic Carotid Stenosis, Carotid Endarterectomy), CADISS abstract, carotid disease review. Unverified: subclavian steal mechanism text, carotid dissection pain mechanism, ACEi/ARB in medical triad.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p14 (IM Cardio: carotid pearls, aortic dissection) - 12 cards, ids s2med-0100 to 0111
+- Inspected page text; no figures. Page starts mid-bullets of carotid stenosis.
+- Notes from AHA/ASA 2021 stroke guideline, ACC/AHA/HRS syncope guideline, StatPearls Aortic Dissection. Unverified: NBME observations on aspirin, carotid percentages, AF framing for syncope, most common cause of AR, 3/4 arm BP.
+
+## p15 (IM Cardio: aortic aneurysm types, traumatic rupture, AAA) - 12 cards, ids s2med-0112 to 0123
+- Inspected page text and figure (De Bakey/Stanford); figure copied as med-p015-01.jpg. Page starts mid-aneurysm bullets.
+- Source conflicts/cautions: esmolol vs labetalol first beta blocker; CT angiography is first imaging now. Notes from StatPearls (Aortic Dissection, Traumatic Aortic Injuries, AAA repair thresholds), USPSTF AAA screening.
+- Unverified: type A/B treatment split, deceleration "most common cause of death", emergency surgery timing, 0.5 cm/6 months growth, perioperative stress test.
+- Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.
