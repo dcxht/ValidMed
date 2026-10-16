@@ -781,3 +781,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p214 (erysipelas, acne) - 8 cards, ids s2med-2160 to 2167
 - Caution: acne ordering vs AAD 2024 guideline (combination therapy, antibiotic stewardship); 90% MSSA beta-lactamase figure, topical retinoid/sperm statements, P. acnes naming not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p215 (retinoid photosensitivity, tinea faciei, meningococcus) - 4 cards, ids s2med-2168 to 2171
+- Unverified: hydrocortisone after saline for Waterhouse-Friderichsen wording.
+
+## p216 (herpetic whitlow, Lyme) - 7 cards, ids s2med-2172 to 2178
+- Conflict/caution: Lyme amoxicillin for children <8 and pregnancy, ceftriaxone in pregnancy, Bell's palsy staging vs IDSA/AAN/ACR 2020; not verified. Topical acyclovir for whitlow not verified.
+
+## p217 (scabies, bed bugs, anthrax) - 4 cards, ids s2med-2179 to 2182
+- Caution: anthrax ciprofloxacin-only vs CDC 2023 regimens; not verified. Ivermectin in HIV disseminated scabies not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

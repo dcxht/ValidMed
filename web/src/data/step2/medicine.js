@@ -28293,5 +28293,238 @@ export default [
       "text": "A MotherToBaby fact sheet on isotretinoin is linked; I did not verify the topical retinoid or sperm statements.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK582775/"
     }
+  },
+  {
+    "id": "s2med-2168",
+    "category": "IM Derm",
+    "q": "Acne on a topical retinoid with a red, irritated face: best advice per p215?",
+    "a": "Avoidance of sun exposure (photosensitivity due to topical retinoids). Tetracycline photosensitivity, in contrast, tends to be blistering. Do not choose answers such as 'avoidance of spicy/sweet foods' for acne questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=215"
+    },
+    "img": "/mehlman/figures/med-p215-01.jpg",
+    "imgAlt": "Red irritated facial skin with small papules (topical retinoid photosensitivity)",
+    "guideline": {
+      "text": "A consensus on managing irritation from topical retinoids is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38972576/"
+    }
+  },
+  {
+    "id": "s2med-2169",
+    "category": "IM Derm",
+    "q": "Tinea faciei: what and treatment per p215?",
+    "a": "Fungal infection of the face. Treatment is topical azoles (clotrimazole, miconazole).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=215"
+    },
+    "img": "/mehlman/figures/med-p215-02.jpg",
+    "imgAlt": "Red scaly patch near the nose and cheek (tinea faciei)",
+    "guideline": {
+      "text": "An AAD guideline covering tinea faciei is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8642094"
+    }
+  },
+  {
+    "id": "s2med-2170",
+    "category": "IM Derm",
+    "q": "Meningococcus: organism and findings per p215?",
+    "a": "Neisseria meningitidis, a gram-negative diplococcus. Causes meningitis plus a characteristic non-blanching rash.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=215"
+    },
+    "img": "/mehlman/figures/med-p215-03.jpg",
+    "imgAlt": "Leg with scattered non-blanching purpuric and petechial lesions",
+    "guideline": {
+      "text": "A meningococcal disease guideline is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK604183/"
+    }
+  },
+  {
+    "id": "s2med-2171",
+    "category": "IM Derm",
+    "q": "Meningococcal shock with low BP: what is often asked per p215?",
+    "a": "Low BP can be endotoxic shock, but Waterhouse-Friderichsen syndrome is often asked: give hydrocortisone to increase BP after normal saline is administered.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 215,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=215"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Waterhouse-Friderichsen syndrome is linked; I did not verify the hydrocortisone-after-saline wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551510/"
+    }
+  },
+  {
+    "id": "s2med-2172",
+    "category": "IM Derm",
+    "q": "Herpetic whitlow: what and who per p216?",
+    "a": "One of the highest-yield spot diagnoses on USMLE: HSV1/2 infection of the finger. In children it can be acquired by touching mother's cold sore (e.g., during breastfeeding); in adults classically dental workers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=216"
+    },
+    "img": "/mehlman/figures/med-p216-01.jpg",
+    "imgAlt": "Fingertip with clustered vesicles (herpetic whitlow)",
+    "guideline": {
+      "text": "A paper on herpetic whitlow as an occupational hazard is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2316323/"
+    }
+  },
+  {
+    "id": "s2med-2173",
+    "category": "IM Derm",
+    "q": "Herpetic whitlow: treatment per p216?",
+    "a": "Topical and oral acyclovir.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=216"
+    },
+    "guideline": {
+      "text": "A paper on acyclovir for herpetic whitlow is linked; I did not verify that topical acyclovir is recommended.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2957639/"
+    }
+  },
+  {
+    "id": "s2med-2174",
+    "category": "IM Derm",
+    "q": "Lyme disease: organism and vector per p216?",
+    "a": "Borrelia burgdorferi, a spiral (corkscrew) spirochete, spread by the Ixodes tick (same as Ehrlichia, Babesia and Anaplasma).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2med-2175",
+    "category": "IM Derm",
+    "q": "Primary Lyme: rash per p216?",
+    "a": "Erythema chronicum migrans, a classic target rash; but a HY point is that on USMLE the rash need not be a target. It can merely be circular with no clearing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=216"
+    },
+    "img": "/mehlman/figures/med-p216-02.jpg",
+    "imgAlt": "Round red patch with a central darker area on a limb (erythema migrans)",
+    "guideline": {
+      "text": "A clinical review of Lyme disease is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5864449/"
+    }
+  },
+  {
+    "id": "s2med-2176",
+    "category": "IM Derm",
+    "q": "Lyme: Bell's palsy per p216?",
+    "a": "Bell's palsy can be seen in primary Lyme. USMLE may show two images side by side: a non-target circular limb rash and Bell's palsy; infer Lyme. The source notes some sources place Bell's palsy in secondary Lyme (at least one month after infection), but it has seen USMLE give it as primary.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=216"
+    },
+    "guideline": {
+      "text": "A paper on Lyme facial nerve palsy is linked; I did not verify the stage claims.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8791801/"
+    }
+  },
+  {
+    "id": "s2med-2177",
+    "category": "IM Derm",
+    "q": "Lyme: later stages per p216?",
+    "a": "Secondary Lyme tends to cause arthritis; tertiary Lyme can cause CNS and/or heart problems.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=216"
+    }
+  },
+  {
+    "id": "s2med-2178",
+    "category": "IM Derm",
+    "q": "Lyme: treatment per p216-217?",
+    "a": "Doxycycline for most cases. Ceftriaxone for advanced Lyme involving the CNS or heart. For children <8 and pregnant women, amoxicillin in place of doxycycline. An NBME Q of a pregnant woman with non-disseminated Lyme has ceftriaxone correct over doxycycline when amoxicillin isn't listed; the source says that in theory ceftriaxone is harder-hitting and preferred if cases are more severe.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 216,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=216"
+    },
+    "guideline": {
+      "text": "The 2020 IDSA/AAN/ACR Lyme guideline is linked; I did not verify the age cutoff or the ceftriaxone-in-pregnancy item. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33251716/"
+    }
+  },
+  {
+    "id": "s2med-2179",
+    "category": "IM Derm",
+    "q": "Scabies: organism and findings per p217?",
+    "a": "Sarcoptes scabiei. Lesions classically described as 'linear burrows'. Can become superinfected with Staph aureus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=217"
+    },
+    "img": "/mehlman/figures/med-p217-01.jpg",
+    "imgAlt": "Hand web space with small vesicles and burrows (scabies)",
+    "guideline": {
+      "text": "Scabies clinical practice guidelines are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11589009/"
+    }
+  },
+  {
+    "id": "s2med-2180",
+    "category": "IM Derm",
+    "q": "Scabies: treatment per p217?",
+    "a": "Topical permethrin. Disseminated scabies can occur in HIV patients: oral ivermectin. Topical permethrin is also the treatment for pediculosis (lice).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=217"
+    },
+    "guideline": {
+      "text": "A pediculosis capitis management review is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8932250/"
+    }
+  },
+  {
+    "id": "s2med-2181",
+    "category": "IM Derm",
+    "q": "Bed bugs per p217?",
+    "a": "Caused by an insect called Cimex. Grows as clusters of itchy lesions on the limbs or torso.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=217"
+    },
+    "img": "/mehlman/figures/med-p217-02.jpg",
+    "imgAlt": "Cluster of red itchy lesions on a forearm (bed bug bites)",
+    "guideline": {
+      "text": "A StatPearls page on bedbug bites is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538128/"
+    }
+  },
+  {
+    "id": "s2med-2182",
+    "category": "IM Derm",
+    "q": "Cutaneous anthrax per p217?",
+    "a": "Caused by Bacillus anthracis; classically a black 'eschar'. Seen in postal workers and farmers. Pulmonary anthrax leads to hemorrhagic mediastinitis. Treatment: ciprofloxacin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 217,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=217"
+    },
+    "img": "/mehlman/figures/med-p217-03.jpg",
+    "imgAlt": "Black necrotic eschar with surrounding redness (cutaneous anthrax)",
+    "guideline": {
+      "text": "The CDC 2023 anthrax guideline is linked; I did not verify the ciprofloxacin-only wording. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10651316/"
+    }
   }
 ];
