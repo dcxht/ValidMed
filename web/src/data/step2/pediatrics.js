@@ -37124,5 +37124,155 @@ export default [
       "text": "Review: enteroviruses such as Coxsackievirus B are the prime viral candidates for type 1 diabetes. A PubMed study titled 'initiation by bystander damage and not molecular mimicry' disputes the mimicry mechanism, so I did not verify it.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2570378/"
     }
+  },
+  {
+    "id": "s2peds-2600",
+    "category": "Peds vignettes",
+    "q": "What is the autoantibody mechanism linking coxsackie B to type 1 diabetes per p182-183?",
+    "a": "Antibodies against a six-oligopeptide viral sequence cross-react with beta-islet cell glutamic acid decarboxylase 65 (anti-GAD65 antibodies).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "Review: enteroviruses such as Coxsackievirus B are prime viral candidates for T1DM. I did not verify the six-oligopeptide mimicry claim, and the mechanism is disputed in the literature.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2570378/"
+    }
+  },
+  {
+    "id": "s2peds-2601",
+    "category": "Peds vignettes",
+    "q": "10F with vesicles in the posterior oropharynx. Diagnosis per p183?",
+    "a": "Herpangina (coxsackie A); it can also cause hand-foot-mouth disease (vesicles at those locations).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says herpangina has small ulcerative or vesicular lesions in the posterior oropharynx and is caused by 22 enterovirus serotypes, most commonly associated with Coxsackie B in its text; the source says coxsackie A. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507792/"
+    }
+  },
+  {
+    "id": "s2peds-2602",
+    "category": "Peds vignettes",
+    "q": "Young child with normal free T4 and low total T4. Diagnosis per p183?",
+    "a": "Thyroid-binding globulin deficiency (opposite of pregnancy).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "Review of inherited thyroid hormone binding protein defects: TBG is one of three serum thyroid hormone binding proteins. I did not verify the free vs total T4 pattern in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6954308/"
+    }
+  },
+  {
+    "id": "s2peds-2603",
+    "category": "Peds vignettes",
+    "q": "Young child with a large belly, large tongue and hypotonia. Diagnosis per p183?",
+    "a": "Cretinism (congenital hypothyroidism).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "StatPearls: congenital hypothyroidism signs include a large tongue, abdominal distension, umbilical hernia and hypotonia-related findings.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558913/"
+    }
+  },
+  {
+    "id": "s2peds-2604",
+    "category": "Peds vignettes",
+    "q": "Young child with a large belly whose family feeds him rice gruel. Diagnosis per p183?",
+    "a": "Protein-calorie malnutrition: kwashiorkor.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "StatPearls: severe acute malnutrition is wasting (marasmus), nutritional edema (kwashiorkor), or both, from prolonged energy and/or protein deficiency.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559224/"
+    }
+  },
+  {
+    "id": "s2peds-2605",
+    "category": "Peds vignettes",
+    "q": "Young child in a third-world country with severe wasting. Diagnosis per p183?",
+    "a": "Marasmus (total calorie malnutrition).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "StatPearls: marasmus is extreme wasting from prolonged energy deficiency.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559224/"
+    }
+  },
+  {
+    "id": "s2peds-2606",
+    "category": "Peds vignettes",
+    "q": "Nocturnal enuresis: when is it pathologic per p183?",
+    "a": "After age 5.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "StatPearls covers enuresis in children; I did not verify the age cutoff in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545181/"
+    }
+  },
+  {
+    "id": "s2peds-2607",
+    "category": "Peds vignettes",
+    "q": "6M with nocturnal enuresis. Next best step, in the order the exams want, per p183?",
+    "a": "Behavioral answer first (spend more time with the child, reduce stressors); if not an answer, star chart (positive reinforcement); if not listed or already tried, enuresis alarm. Medications like imipramine and desmopressin are always wrong, as is water deprivation after 5 pm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "Current caution: the ICCS standardization document says that in monosymptomatic enuresis the first-line treatments are desmopressin or the enuresis alarm, and StatPearls lists alarm and desmopressin as appropriate. The source's 'desmopressin always wrong' conflicts with current guidance. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32278657/"
+    }
+  },
+  {
+    "id": "s2peds-2608",
+    "category": "Peds vignettes",
+    "q": "How do you tell viral from bacterial upper respiratory infection per p183, and what is the cutoff?",
+    "a": "Centor criteria: 0 or 1 point means unlikely bacterial (likely viral); 2-4 points means a much greater chance of bacterial infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "Current caution: Centor and McIsaac are risk tools for group A strep pharyngitis, not general URTI. The IDSA 2012 guideline says clinical features alone do not reliably discriminate GAS from viral pharyngitis, so testing is recommended outside overt viral features. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108032/"
+    }
+  },
+  {
+    "id": "s2peds-2609",
+    "category": "Peds vignettes",
+    "q": "What are the four Centor criteria per p183?",
+    "a": "1) Absence of cough (no cough = 1 point; cough = 0). 2) Fever. 3) Tonsillar exudates. 4) Lymphadenopathy (cervical, submandibular, etc.).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 183,
+      "url": "/mehlman/hy-pediatrics.pdf#page=183"
+    },
+    "guideline": {
+      "text": "StatPearls Streptococcal Pharyngitis page covers Centor and McIsaac scoring; Centor uses age 15+ with McIsaac adding age adjustment. I did not verify each item's wording in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK525997/"
+    }
   }
 ];

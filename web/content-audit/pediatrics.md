@@ -976,3 +976,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: PCOS ovarian morphology/11-cyst criterion (not used in adolescents); thumb spica cast for negative-film scaphoid (evidence equal with or without thumb spica); coxsackie molecular mimicry (disputed mechanism).
 - Left unverified: AVN imaging sensitivity, scaphoid x-ray-first step, source's "Amsterdam criteria" attribution.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p183 (Bullet points: T1DM mimicry end, herpangina, TBG, malnutrition, enuresis, Centor) - 10 cards, ids s2peds-2600 to 2609
+- Inspected page text and layout; no figures. The first lines finish the coxsackie B bullet from p182.
+- Notes verified against StatPearls (Herpangina, Congenital Hypothyroidism, Severe Acute Malnutrition, Enuresis, Streptococcal Pharyngitis), the ICCS enuresis standardization abstract, an inherited thyroid binding protein review and the IDSA 2012 GAS pharyngitis guideline.
+- Source conflicts, source answer kept with caution note: herpangina coxsackie A vs StatPearls Coxsackie B; "desmopressin always wrong" (ICCS first-line option); Centor for URTI (it is for GAS pharyngitis, testing recommended).
+- Left unverified: six-oligopeptide mimicry, TBG pattern, enuresis age cutoff, exact Centor item wording.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
