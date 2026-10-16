@@ -35414,5 +35414,140 @@ export default [
       "text": "StatPearls covers PUV management. I did not verify the VCUG step in the passage I read.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
     }
+  },
+  {
+    "id": "s2peds-2486",
+    "category": "Peds vignettes",
+    "q": "34M falls on a balance beam (saddle injury) with blood at the urethral meatus. Diagnosis and next best step per p171?",
+    "a": "Urethral injury; do a retrograde urethrogram.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "WSES-AAST guideline: retrograde urethrography and selective urethroscopy are the modalities of choice for traumatic urethral injuries.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6886230/"
+    }
+  },
+  {
+    "id": "s2peds-2487",
+    "category": "Peds vignettes",
+    "q": "16M skiing accident with bruising and/or flank pain and red urine. Diagnosis and next best step per p171?",
+    "a": "Kidney injury (renal contusion); do CT with contrast, not ultrasound. Exceedingly HY on surgery forms; it sounds wrong because contrast can be nephrotoxic, but the exams still want CT with contrast.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "StatPearls: the modality of choice in suspected renal trauma is contrast-enhanced CT with immediate and delayed imaging.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532896/"
+    }
+  },
+  {
+    "id": "s2peds-2488",
+    "category": "Peds vignettes",
+    "q": "16M skiing accident with bruising and/or flank pain, urine not red. Next best step per p171?",
+    "a": "Urinalysis to look for blood (super HY). If it shows blood, do CT to check for renal injury; if UA is negative, renal injury is unlikely, so choose no further investigations, not CT.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "Current caution: a pediatric trauma review says CT with IV contrast is indicated for gross hematuria or microhematuria with 50 or more RBC/HPF (other sources use 3-5 RBC/HPF), and that absence of hematuria does not rule out kidney injury. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506325/"
+    }
+  },
+  {
+    "id": "s2peds-2489",
+    "category": "Peds vignettes",
+    "q": "16M skiing accident with flank pain and bruising, and a normal urinalysis. Next best step per p171?",
+    "a": "No further investigations indicated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "Current caution: see the previous card; a review notes absent hematuria does not fully rule out kidney injury, and clinical judgement applies. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506325/"
+    }
+  },
+  {
+    "id": "s2peds-2490",
+    "category": "Peds vignettes",
+    "q": "3M ran into a table corner, 1 day of worsening abdominal pain, normal vitals, a 2x2 cm midline mass, and elevated serum lipase and amylase. Next best step per p171?",
+    "a": "CT of the abdomen; diagnosis is traumatic pancreatitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "A pediatric study (PubMed abstract) found serum amylase and lipase alone are not cost-effective screening for pediatric pancreatic trauma. I did not verify the CT step against a guideline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12632348/"
+    }
+  },
+  {
+    "id": "s2peds-2491",
+    "category": "Peds vignettes",
+    "q": "Kid with bloody diarrhea, petechiae and red urine. Diagnosis and mechanism per p171?",
+    "a": "Hemolytic uremic syndrome from EHEC O157:H7 or Shigella. Triad: thrombocytopenia, schistocytosis (microangiopathic hemolytic anemia) and renal insufficiency. Per the source, toxin inhibits ADAMTS13 in afferent arterioles and damages endothelium, causing platelet consumption and clumping; RBCs shear on the clumps.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls describes the triad as thrombocytopenia, hemolytic anemia and end-organ damage, with endothelial damage starting the process; it says to send ADAMTS13 to rule out TTP, not that Shiga toxin inhibits ADAMTS13. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556038/"
+    }
+  },
+  {
+    "id": "s2peds-2492",
+    "category": "Peds vignettes",
+    "q": "How does HUS contrast with TTP per p171?",
+    "a": "TTP comes from a mutation causing defective ADAMTS13, or antibodies against it, so vWF multimers cannot be cleaved, causing platelet clumping with a progression similar to HUS. TTP is not toxin-induced and tends to be a pentad: the HUS findings plus fever and neurologic signs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "StatPearls: TTP is classically the pentad of fever, hemolytic anemia, thrombocytopenia, and renal and neurologic dysfunction, from congenital or acquired ADAMTS13 deficiency.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430721/"
+    }
+  },
+  {
+    "id": "s2peds-2493",
+    "category": "Peds vignettes",
+    "q": "30-month-old boy with fever 101F, loose bloody stools and a tonic-clonic seizure. Diagnosis per p171?",
+    "a": "Shigellosis (Peds NBME); wrong answers are HUS and idiopathic seizure disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "StatPearls: generalized febrile seizures are the most common neurologic complication of shigellosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482337/"
+    }
+  },
+  {
+    "id": "s2peds-2494",
+    "category": "Peds vignettes",
+    "q": "14F with lower abdominal cramps and intermittent knee pain for 6 weeks, 6-10 bloody stools per day, elevated WBC and platelets, and a normal arthrocentesis. Diagnosis per p171?",
+    "a": "Ulcerative colitis (IBD).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 171,
+      "url": "/mehlman/hy-pediatrics.pdf#page=171"
+    },
+    "guideline": {
+      "text": "StatPearls: IBD extraintestinal manifestations include pauciarticular arthritis. I did not verify the arthrocentesis detail.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK568797/"
+    }
   }
 ];
