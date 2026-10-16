@@ -26150,5 +26150,483 @@ export default [
       "page": 199,
       "url": "/mehlman/hy-internal-medicine.pdf#page=199"
     }
+  },
+  {
+    "id": "s2med-2001",
+    "category": "IM Repro/Obgyn",
+    "q": "Fetal hypoxia and polyhydramnios continued per p200?",
+    "a": "Compensation: dilating renal vessels lowers peripheral resistance but also increases renal blood flow and urine production, so more amniotic fluid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    },
+    "guideline": {
+      "text": "A review of amniotic fluid disorders is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10047002/"
+    }
+  },
+  {
+    "id": "s2med-2002",
+    "category": "IM Repro/Obgyn",
+    "q": "Multiple gestation and polyhydramnios per p200?",
+    "a": "Combined increased urinary output from multiple fetuses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2med-2003",
+    "category": "IM Repro/Obgyn",
+    "q": "Fetal hydrops and polyhydramnios per p200?",
+    "a": "Fetal hydrops (severe fetal edema, usually from heart failure). With Parvo B19, fetal anemia or HDN, cardiac output rises, raising renal perfusion and urine output. In fetal heart failure with low output, higher venous pressure causes edema and the kidneys try to shed fluid by raising urine output.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2med-2004",
+    "category": "IM Repro/Obgyn",
+    "q": "Oligohydramnios: maternal cause per p200?",
+    "a": "Uteroplacental insufficiency: reduced fetal blood flow from smoking, preeclampsia or SLE compromises fetal renal function and urine output (nutrient delivery low despite adequate oxygenation, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2med-2005",
+    "category": "IM Repro/Obgyn",
+    "q": "Posterior urethral valves per p200?",
+    "a": "Most common genitourinary abnormality in neonatal males. Thin membranes in the prostatic urethra block urine outflow, causing obstructive uropathy with VUR and hydronephrosis. Presents as severe oligohydramnios, a male neonate hours old who hasn't urinated, or one weeks old with urinary retention.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    },
+    "guideline": {
+      "text": "StatPearls on posterior urethral valves is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560881/"
+    }
+  },
+  {
+    "id": "s2med-2006",
+    "category": "IM Repro/Obgyn",
+    "q": "Renal agenesis (Potter sequence) per p200?",
+    "a": "Failure of kidney development lowers urine output, amniotic fluid and fetal swallowing, impairing lung development (pulmonary hypoplasia). Low amniotic fluid also causes flattened facies and rocker-bottom feet.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2med-2007",
+    "category": "IM Repro/Obgyn",
+    "q": "SLE and antiphospholipid antibodies in pregnancy per p200?",
+    "a": "Antiphospholipid antibodies cause microthrombi in the uteroplacental microvasculature, reducing blood flow and causing fetal compromise: recurrent miscarriage, or if not miscarriage, IUGR and oligohydramnios.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2med-2008",
+    "category": "IM Repro/Obgyn",
+    "q": "Prior miscarriage from antiphospholipid syndrome in SLE per p200?",
+    "a": "Low-dose aspirin plus LMWH in subsequent pregnancies. Warfarin is avoided because it is teratogenic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    },
+    "guideline": {
+      "text": "The RCOG recurrent miscarriage guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37334488/"
+    }
+  },
+  {
+    "id": "s2med-2009",
+    "category": "IM Repro/Obgyn",
+    "q": "SLE and preeclampsia per p200?",
+    "a": "SLE-related uteroplacental insufficiency is a risk factor for preeclampsia, which is caused by reduced uteroplacental perfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    }
+  },
+  {
+    "id": "s2med-2010",
+    "category": "IM Repro/Obgyn",
+    "q": "Best way to assess IUGR per p200?",
+    "a": "Fetal abdominal circumference: it reflects liver size and fat accumulation, which are affected in IUGR, and the fetus prioritizes brain growth over abdominal growth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 200,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=200"
+    },
+    "guideline": {
+      "text": "A FIGO fetal growth restriction guidance is linked; I did not verify that abdominal circumference is the preferred measure.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8252743/"
+    }
+  },
+  {
+    "id": "s2med-2011",
+    "category": "IM Repro/Obgyn",
+    "q": "Why pregnant women get pyelonephritis more per p201?",
+    "a": "(1) Progesterone slows ureteral peristalsis, raising stasis and backup to the kidney; (2) the uterus compresses the ureters, notably in the 3rd trimester.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2012",
+    "category": "IM Repro/Obgyn",
+    "q": "Asymptomatic bacteriuria in pregnancy per p201?",
+    "a": "Always treated in pregnancy (unlike non-pregnant women). Nitrofurantoin is a classic drug for asymptomatic bacteriuria, standard UTIs and cystitis in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "The IDSA 2019 asymptomatic bacteriuria guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30895288/"
+    }
+  },
+  {
+    "id": "s2med-2013",
+    "category": "IM Repro/Obgyn",
+    "q": "Why gallstones form in pregnancy per p201?",
+    "a": "Progesterone slows biliary peristalsis (sludging). Estrogen upregulates HMG-CoA reductase, increasing hepatic cholesterol synthesis and stone risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2014",
+    "category": "IM Repro/Obgyn",
+    "q": "Cholelithiasis versus cholecystitis per p201?",
+    "a": "Cholelithiasis: colicky epigastric pain, usually after meals. Cholelithiasis plus fever = cholecystitis. Diagnose both with ultrasound.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2015",
+    "category": "IM Repro/Obgyn",
+    "q": "Cholecystitis with negative ultrasound per p201?",
+    "a": "If strongly suspected, the next best step is a HIDA scan (cholecystitis only).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2016",
+    "category": "IM Repro/Obgyn",
+    "q": "Ursodiol in pregnant women with cholelithiasis per p201?",
+    "a": "Can reduce stone size; mechanism: decreases cholesterol secretion into bile.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2017",
+    "category": "IM Repro/Obgyn",
+    "q": "Cholecystitis treatment in pregnancy per p201?",
+    "a": "Laparoscopic cholecystectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "SAGES guidelines on laparoscopy during pregnancy are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11133165/"
+    }
+  },
+  {
+    "id": "s2med-2018",
+    "category": "IM Repro/Obgyn",
+    "q": "Appendicitis in pregnancy per p201?",
+    "a": "Highest yield: can present as RUQ pain because the uterus pushes the appendix upward. Gallbladder ultrasound is normal, so it's not cholecystitis. Treatment: laparoscopic appendectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls on appendicitis in pregnancy is linked; I did not verify the displacement claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551642/"
+    }
+  },
+  {
+    "id": "s2med-2019",
+    "category": "IM Repro/Obgyn",
+    "q": "Chorioamnionitis per p201?",
+    "a": "Infection of the uterus during pregnancy. Greatest risk factor: ROM over 18 hours. Usually polymicrobial. Treatment: ampicillin plus gentamicin, with or without clindamycin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "An ACOG opinion on intraamniotic infection is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28742677/"
+    }
+  },
+  {
+    "id": "s2med-2020",
+    "category": "IM Repro/Obgyn",
+    "q": "Postpartum endometritis per p201?",
+    "a": "Infection of the uterus after pregnancy. Fever, uterine tenderness, foul-smelling lochia within a few days of delivery. Usually polymicrobial. Treatment: ampicillin plus gentamicin, with or without clindamycin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "StatPearls on endometritis is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK553124/"
+    }
+  },
+  {
+    "id": "s2med-2021",
+    "category": "IM Repro/Obgyn",
+    "q": "C-section 2 days ago, fever, lower abdominal pain per p201?",
+    "a": "Postpartum endometritis (chorioamnionitis is wrong: she's not pregnant anymore).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2022",
+    "category": "IM Repro/Obgyn",
+    "q": "Normal postoperative course per p201?",
+    "a": "E.g., C-section 2 days ago, temp 99.3 F, mildly erythematous incision, two tender palpable inguinal nodes. Surgery is trauma; nodes can be a normal response.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2023",
+    "category": "IM Repro/Obgyn",
+    "q": "Septic pelvic thrombophlebitis per p201?",
+    "a": "Infected clots in the pelvic (uterine and ovarian) veins. Endometritis is a big risk factor. Persistent pelvic pain and fever despite antibiotics. Shows up on 2CK forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    },
+    "guideline": {
+      "text": "A review of septic pelvic thrombophlebitis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1581461/"
+    }
+  },
+  {
+    "id": "s2med-2024",
+    "category": "IM Repro/Obgyn",
+    "q": "Puerperal sepsis per p201 (continues p202)?",
+    "a": "Generalized term for sepsis occurring after childbirth.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 201,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=201"
+    }
+  },
+  {
+    "id": "s2med-2025",
+    "category": "IM Repro/Obgyn",
+    "q": "Puerperal sepsis versus septic pelvic thrombophlebitis per p202 (continued from p201)?",
+    "a": "Puerperal sepsis: high fever, chills, tachycardia, low BP; real sepsis from many causes, often endometritis. SPT is pelvic pain unresponsive to antibiotics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2026",
+    "category": "IM Repro/Obgyn",
+    "q": "Toxic shock syndrome: cause per p202?",
+    "a": "TSST superantigen of S. aureus. HY etiologies: tampon use, vulvovaginal/perineal skin infections; for non-Obgyn Qs, cotton nasal packing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2027",
+    "category": "IM Repro/Obgyn",
+    "q": "TSS mechanism per p202?",
+    "a": "The toxin bridges MHC-II on macrophages with the T cell receptor on CD4+ T cells, causing macrophages to release cytokines leading to shock.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    },
+    "guideline": {
+      "text": "A paper on the structure of TSST-1 superantigen action is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8107781/"
+    }
+  },
+  {
+    "id": "s2med-2028",
+    "category": "IM Repro/Obgyn",
+    "q": "Most likely cause of death in TSS per p202?",
+    "a": "ARDS (a 2CK answer the source calls slightly unusual).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2029",
+    "category": "IM Repro/Obgyn",
+    "q": "Uterine atony per p202?",
+    "a": "Most common cause of postpartum bleeding (70-80%): bleeding with a large, boggy uterus. Uterine massage immediately after Stage 2 delivery lowers risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    },
+    "guideline": {
+      "text": "A review of major obstetric hemorrhage is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9125414/"
+    }
+  },
+  {
+    "id": "s2med-2030",
+    "category": "IM Repro/Obgyn",
+    "q": "Refractory uterine atony treatment per p202?",
+    "a": "Oxytocin to enhance tone and contractions; if ineffective, ergonovine/methylergonovine. Uterine artery embolization or hysterectomy are last resort.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2031",
+    "category": "IM Repro/Obgyn",
+    "q": "Ergonovine contraindications per p202?",
+    "a": "HTN, preeclampsia, migraine with aura, smokers, and cardiovascular disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2032",
+    "category": "IM Repro/Obgyn",
+    "q": "Vaginal laceration per p202?",
+    "a": "Usually with fetal macrosomia (e.g., maternal diabetes). Episiotomy can be performed to reduce risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2033",
+    "category": "IM Repro/Obgyn",
+    "q": "Placenta previa per p202?",
+    "a": "Placenta implants over the internal cervical os, causing painless 3rd trimester bleeding. C-section recommended from 37 weeks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    },
+    "guideline": {
+      "text": "An SMFM consult on late preterm bleeding is linked; I did not verify the timing. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29079144/"
+    }
+  },
+  {
+    "id": "s2med-2034",
+    "category": "IM Repro/Obgyn",
+    "q": "Placenta previa before 36 weeks per p202?",
+    "a": "The implantation site can occasionally move off the cervical os as the uterus grows.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2035",
+    "category": "IM Repro/Obgyn",
+    "q": "Placenta previa risk factor per p202?",
+    "a": "Prior uterine interventions (myomectomy, previous Caesars): disrupted endometrium makes abnormal implantation more likely.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2036",
+    "category": "IM Repro/Obgyn",
+    "q": "Abruptio placentae per p202?",
+    "a": "Placenta detaches from the uterine wall before parturition: painful 3rd trimester bleeding, can present as intense cramping. Classic causes: cocaine and deceleration injury (car accident).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    },
+    "guideline": {
+      "text": "A review of placental abruption is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11368588/"
+    }
+  },
+  {
+    "id": "s2med-2037",
+    "category": "IM Repro/Obgyn",
+    "q": "Placenta accreta, increta, percreta per p202?",
+    "a": "Accreta: attached to the myometrial surface. Increta: into the myometrium. Percreta: through the myometrium, sometimes onto adjacent structures such as the bladder (percreta = perforates). All cause postpartum bleeding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    }
+  },
+  {
+    "id": "s2med-2038",
+    "category": "IM Repro/Obgyn",
+    "q": "Non-stress test: accelerations per p202 (continues p203)?",
+    "a": "The NST monitors fetal heart rate. Accelerations reflect fetal well-being: an increase of about 20 bpm lasting about 20 seconds, 2-3 times within a 20-minute period.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 202,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=202"
+    },
+    "guideline": {
+      "text": "A StatPearls chapter on fetal heart rate tracing is linked; I did not verify the 20 bpm/20 s figures. Source answer stays.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546627/"
+    }
   }
 ];

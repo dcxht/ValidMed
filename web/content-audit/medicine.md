@@ -747,3 +747,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p199 (hematocolpos BP, trisomies, polyhydramnios start) - 12 cards, ids s2med-1989 to 2000
 - Conflicts/unverified: AIS gonadectomy timing vs current practice; maternal-age risk figures; Down screening direction wording; MRKH and PMDS details.
 - Mobile QA (320x740, local vite preview build, not live): all 37 cards ox=false off=false bad=0.
+
+## p200 (oligohydramnios, SLE/APS in pregnancy, IUGR) - 10 cards, ids s2med-2001 to 2010
+## p201 (pregnancy infections, GI) - 14 cards, ids s2med-2011 to 2024
+## p202 (TSS, peripartum bleeding, NST start) - 14 cards, ids s2med-2025 to 2038
+- Unverified: appendix displacement RUQ claim, IUGR abdominal circumference as best measure, placenta previa 37 weeks, NST 20/20 criteria, endometritis regimen details.
+- Mobile QA (320x740, local vite preview build, not live): all 38 cards ox=false off=false bad=0.
