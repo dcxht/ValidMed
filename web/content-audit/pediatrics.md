@@ -864,3 +864,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Internal inconsistency noted: p150 gives ACTH stimulation test for Waterhouse-Friderichsen while p166 gives hydrocortisone; current guidance supports hydrocortisone first.
 - Left unverified: catalase-positive wording, SPACES organisms, CMC vignette answers, FATED mnemonic and retained teeth.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p167 (Bullet points: WAS, ataxia-telangiectasia, HHT, HIV vs CVID, perinatal HIV prophylaxis, atopic dermatitis, HAE, methemoglobinemia) - 11 cards, ids s2peds-2447 to 2457
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (WAS, Ataxia-Telangiectasia, Pulmonary AVM, Methemoglobinemia), the WAO/EAACI HAE guideline, an atopic dermatitis consensus and the ICON CVID consensus.
+- Source conflict flagged: 6-week AZT for neonates of HIV-positive mothers (current US guidelines individualize by risk). I could not retrieve the guideline text, so I did not state current durations.
+- Left unverified: AT DNA repair wording, HHT inheritance and high-output failure framing, CVID 2 SD criterion, oil-based emollients, danazol mechanism.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.

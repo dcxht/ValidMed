@@ -34841,5 +34841,170 @@ export default [
       "text": "StatPearls: STAT3 hyper-IgE syndrome with elevated IgE, eczema, recurrent skin and respiratory infections, and a characteristic facial appearance emerging in adolescence. I did not verify retained primary teeth or the mnemonic.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK25507/"
     }
+  },
+  {
+    "id": "s2peds-2447",
+    "category": "Peds vignettes",
+    "q": "12M with an eczematoid skin lesion on the forehead, nosebleeds and a history of infections. Which cell is dysfunctional per p167?",
+    "a": "T cell (on the student's 2CK, not Step 1). Diagnosis: Wiskott-Aldrich syndrome (X-linked recessive), the classic triad of eczematoid skin lesions, thrombocytopenia and immunodeficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "StatPearls: X-linked disorder with the triad of immunodeficiency, thrombocytopenia and eczema.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539838/"
+    }
+  },
+  {
+    "id": "s2peds-2448",
+    "category": "Peds vignettes",
+    "q": "3F with dilated superficial blood vessels on the face and a wobbly gait. Mechanism per p167?",
+    "a": "Failure of double-stranded DNA break repair: ataxia-telangiectasia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "StatPearls: autosomal recessive; cerebellar ataxia and telangiectasias. I did not verify the DNA repair wording in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519542/"
+    }
+  },
+  {
+    "id": "s2peds-2449",
+    "category": "Peds vignettes",
+    "q": "8M with a picture of a red dot on the tongue or nailbed. Diagnosis per p167?",
+    "a": "Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu); autosomal dominant.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "StatPearls: most congenital pulmonary AVMs are secondary to HHT. I did not verify the autosomal dominant pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560696/"
+    }
+  },
+  {
+    "id": "s2peds-2450",
+    "category": "Peds vignettes",
+    "q": "What adult complication of HHT does p167 mention?",
+    "a": "Pulmonary arteriovenous fistulae in adults with high-output cardiac failure. A Step 1 NBME had a 45M with epistaxis since childhood, a picture of a red dot on the tongue and a high ejection fraction; answer: pulmonary arteriovenous fistula (due to HHT).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "StatPearls: pulmonary AVMs are associated with HHT. I did not verify the high-output failure framing.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560696/"
+    }
+  },
+  {
+    "id": "s2peds-2451",
+    "category": "Peds vignettes",
+    "q": "17M with 3 weeks of lymphadenopathy, fever, loose stools, hepatosplenomegaly, low RBCs and WBCs, high IgM and IgG. Diagnosis per p167?",
+    "a": "HIV infection. Wrong answers are CVID, IgA deficiency, SCID, DiGeorge and Bruton (so eliminate to get there). CVID can rarely occur as young as adolescence, but the diagnosis needs IgG and IgA more than 2 SD below the mean (IgG is high in this stem).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "The ICON consensus covers CVID diagnostic criteria. I did not verify the 2 SD threshold in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4869529/"
+    }
+  },
+  {
+    "id": "s2peds-2452",
+    "category": "Peds vignettes",
+    "q": "A mother is HIV positive. What should the neonate receive after C-section per p167?",
+    "a": "\"A 6-week course of zidovudine (AZT) within 12 hours of delivery.\" Some students argue this is outdated, but it is the answer on Peds NBME form 1; no newer question exists yet.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "Current caution: current US perinatal HIV guidelines individualize newborn antiretroviral prophylaxis by transmission risk, so a single 6-week AZT regimen may not match current practice. I did not verify the current durations; source answer kept as the exam pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK586310/"
+    }
+  },
+  {
+    "id": "s2peds-2453",
+    "category": "Peds vignettes",
+    "q": "6F with a pruritic rash in the intertriginous areas of the elbows and knees, often with wheezing. Treatment per p167?",
+    "a": "On the NBME: topical triamcinolone (steroid). Diagnosis: atopic dermatitis (eczema) as part of atopy. If both are listed, emollients (lotion; should be oil-based) are tried before topical steroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "Consensus: emollients and topical corticosteroids are the mainstay for childhood atopic dermatitis. I did not verify the oil-based emollient detail.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39950052/"
+    }
+  },
+  {
+    "id": "s2peds-2454",
+    "category": "Peds vignettes",
+    "q": "17M with 12 months of intermittent swelling of the face and lips, chest and arms, with abdominal pain and diarrhea during episodes. Next best step in diagnosis per p167?",
+    "a": "Measurement of C1 esterase inhibitor concentration (not C1 esterase). Diagnosis: hereditary angioedema.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "WAO/EAACI guideline: HAE can be due to deficiency or defect of C1 inhibitor (C1-INH).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/"
+    }
+  },
+  {
+    "id": "s2peds-2455",
+    "category": "Peds vignettes",
+    "q": "What is the acute treatment for hereditary angioedema per p167?",
+    "a": "C1 esterase inhibitor administration. Danazol is also used (induces the liver to produce more C1 inhibitor).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "WAO/EAACI guideline describes C1-INH therapy for HAE. I did not verify the danazol mechanism in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/"
+    }
+  },
+  {
+    "id": "s2peds-2456",
+    "category": "Peds vignettes",
+    "q": "3F with brown blood. Diagnosis per p167?",
+    "a": "Congenital methemoglobinemia due to deficiency of cytochrome reductase B5 (cytochrome b5 reductase).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "StatPearls: congenital forms involve cytochrome b5 reductase deficiency or hemoglobin structural variants.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537317/"
+    }
+  },
+  {
+    "id": "s2peds-2457",
+    "category": "Peds vignettes",
+    "q": "10M who ate a new batch of sausage from his father, a butcher, with a high methemoglobin level. Treatment per p167?",
+    "a": "Administration of methylene blue. Vitamin C can also be added.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 167,
+      "url": "/mehlman/hy-pediatrics.pdf#page=167"
+    },
+    "guideline": {
+      "text": "StatPearls: prompt methylene blue when symptomatic or significantly elevated; alternatives include high-dose ascorbic acid. Nitrite exposure is a classic source.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537317/"
+    }
   }
 ];
