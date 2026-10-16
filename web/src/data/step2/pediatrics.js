@@ -33400,5 +33400,136 @@ export default [
       "text": "Case report: sternocleidomastoid tumour in a neonate (fibromatosis colli). I did not verify the forceps link.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5786991/"
     }
+  },
+  {
+    "id": "s2peds-2348",
+    "category": "Peds vignettes",
+    "q": "8F with hypothyroidism and dysphagia. Diagnosis per p157?",
+    "a": "Lingual thyroid (ectopic thyroid location); 4-7x more common in girls; associated with hypothyroidism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "Case review: a thyroid at the base of the tongue often causes dysphagia, dysphonia and upper airway obstruction, often with hypothyroidism. I did not verify the 4-7x female ratio.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2816370/"
+    }
+  },
+  {
+    "id": "s2peds-2349",
+    "category": "Peds vignettes",
+    "q": "1F, Hct 26%, first six months on commercial formula, then 2% cow's milk and table food, smear with pale RBCs. Diagnosis per p157?",
+    "a": "Iron deficiency anemia. Infants (especially under 1 year) fed more than 24 ounces of cow's milk daily are at risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "CDC guidelines: avoid cow's milk until after age 12 months. I did not verify the 24 ounce threshold.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK236499/"
+    }
+  },
+  {
+    "id": "s2peds-2350",
+    "category": "Peds vignettes",
+    "q": "5F, pale conjunctivae, low Hb, low MCV, normal WBC and platelets, low RDW. Diagnosis and next step per p157?",
+    "a": "Decreased synthesis of globin chains (thalassemia). Target cells on the smear are a giveaway. Next best step: hemoglobin electrophoresis. Thalassemia has a low RDW (uniformly small RBCs), whereas IDA has a high RDW.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "Current caution: a 2023 review found RDW-CV above 15% in both iron deficiency anemia and thalassemia trait, with IDA typically higher, so RDW alone does not separate them. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10548029/"
+    }
+  },
+  {
+    "id": "s2peds-2351",
+    "category": "Peds vignettes",
+    "q": "4M, itchy head, small oval areas of alopecia on the scalp. Organism and treatment per p157?",
+    "a": "Trichophyton tonsurans: tinea capitis. Treat the patient with oral griseofulvin; reduce risk by not sharing hats (three questions on the peds forms).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "StatPearls: T. tonsurans is a common cause; griseofulvin is often the drug of choice, and oral terbinafine is also an option. StatPearls does not call tinea capitis 'cradle cap' as the source does; I did not verify that label.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK536909/"
+    }
+  },
+  {
+    "id": "s2peds-2352",
+    "category": "Peds vignettes",
+    "q": "17M living in Florida, hypopigmented areas on the shoulders and torso. Treatment per p157?",
+    "a": "Topical selenium. Diagnosis: tinea versicolor (Malassezia furfur).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "StatPearls: Malassezia yeast causes hyperpigmented or hypopigmented scaly macules. I did not verify selenium as the topical agent in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482500/"
+    }
+  },
+  {
+    "id": "s2peds-2353",
+    "category": "Peds vignettes",
+    "q": "7M, week of low-grade fever and fatigue, 3 days of rash and swelling from the ankles up, tender ankles, palpable petechiae and confluent purpura on the legs. Diagnosis per p157?",
+    "a": "Henoch-Schonlein purpura.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "StatPearls: IgA vasculitis with palpable purpura, GI complaints, arthralgias and renal involvement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537252/"
+    }
+  },
+  {
+    "id": "s2peds-2354",
+    "category": "Peds vignettes",
+    "q": "What is the HSP tetrad and course per p157?",
+    "a": "1) Palpable purpura (and apparently petechiae), 2) IgA nephropathy (red urine), 3) abdominal pain (mesenteric adenitis), 4) arthralgias. Classically follows a viral infection, but 2CK vignettes often omit the infection. Self-limiting.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "StatPearls lists purpura, GI complaints, arthralgias and renal involvement. I did not verify mesenteric adenitis or the 2CK pattern.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537252/"
+    }
+  },
+  {
+    "id": "s2peds-2355",
+    "category": "Peds vignettes",
+    "q": "4-month-old girl with asplenia and dextrocardia. Which prophylactic antibiotic per p157?",
+    "a": "Penicillin (most important for Strep pneumo due to asplenia). Diagnosis: Ivemark syndrome (dextrocardia/situs inversus plus hypoplasia of various organ systems).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    },
+    "guideline": {
+      "text": "Review: asplenia or hyposplenism requires antimicrobial prophylaxis; Ivemark syndrome is the asplenia heterotaxy form with severe cardiovascular malformation. I did not verify penicillin as the agent.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9463860/"
+    }
+  },
+  {
+    "id": "s2peds-2356",
+    "category": "Peds vignettes",
+    "q": "3-month-old female with sepsis. Which antibiotic per p157?",
+    "a": "Cefotaxime: a third-generation cephalosporin for sepsis. For young children (generally under 6 years) use cefotaxime over ceftriaxone. A 2CK NBME 8 question has a 6M with sepsis and the answer is ceftriaxone (cefotaxime is not listed).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 157,
+      "url": "/mehlman/hy-pediatrics.pdf#page=157"
+    }
   }
 ];

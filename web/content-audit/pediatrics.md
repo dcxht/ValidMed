@@ -794,3 +794,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - No outright conflicts. "brachial cleft" typo noted in the answer.
 - Left unverified: ceftriaxone/rifampin for epiglottitis contacts, tracheitis antibiotic regimen, vascular ring improving with neck extension, long-term cor pulmonale management step, polyps-causing-stridor link in CF, forceps link to sternomastoid injury.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p157 (Bullet points: lingual thyroid, IDA, thalassemia RDW, tinea, HSP, Ivemark, pediatric sepsis) - 9 cards, ids s2peds-2348 to 2356
+- Inspected page text and layout; no figures.
+- Notes verified against CDC iron guideline, a 2023 IDA vs thalassemia review, StatPearls (Tinea Capitis, Tinea Versicolor, IgA Vasculitis), a heterotaxy review and a lingual thyroid case review.
+- Source conflicts, source answer kept with caution note: thalassemia "low RDW" (both have high RDW-CV, IDA higher); tinea capitis called "cradle cap" (not supported in StatPearls).
+- Left unverified: 4-7x female lingual thyroid, 24 oz milk threshold, selenium agent, mesenteric adenitis in HSP, penicillin prophylaxis agent, cefotaxime-over-ceftriaxone rule under 6 years.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
