@@ -22162,4 +22162,337 @@ export default [
     }
   }
 
+
+  ,
+  {
+    "id": "s2peds-1550",
+    "category": "Ataxias",
+    "q": "Which manifestations does p107 continue for Friedreich ataxia?",
+    "a": "Ataxia, kyphoscoliosis, cardiomyopathy, pes cavus, hammer toes and early-onset type II diabetes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2025 GeneReview confirms progressive ataxia, dysarthria/dysphagia, neuropathy, hypertrophic cardiomyopathy, diabetes or impaired glucose tolerance, scoliosis and pes cavus. Its table separately lists scoliosis/kyphosis; hammer toes are preserved as the source's additional foot finding.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1281/"
+    }
+  },
+  {
+    "id": "s2peds-1551",
+    "category": "Imprinting disorders",
+    "q": "What is the p107 Angelman syndrome behavioral vignette?",
+    "a": "A happy-puppet presentation, meaning a child with prominent laughter.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2025 Angelman GeneReview confirms an apparent happy demeanor with frequent laughing, smiling and excitability, plus severe developmental delay/intellectual disability, speech impairment, gait ataxia or tremulous movements, microcephaly and seizures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1144/"
+    }
+  },
+  {
+    "id": "s2peds-1552",
+    "category": "Imprinting disorders",
+    "q": "How does p107 explain Angelman syndrome by imprinting?",
+    "a": "The paternal gene is normally silenced; the maternal gene should be expressed but is deleted or mutated, so mom is not an angel because mom's gene is deleted.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2025 GeneReview confirms deficient expression or function of the maternally inherited UBE3A allele. Methylation testing detects the 15q11.2-q13 deletion, uniparental disomy or imprinting defect, and UBE3A sequencing detects additional pathogenic variants.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1144/"
+    }
+  },
+  {
+    "id": "s2peds-1553",
+    "category": "Imprinting disorders",
+    "q": "How can paternal uniparental disomy cause Angelman syndrome in p107's mechanism?",
+    "a": "If both chromosome 15 alleles come from dad, both are silenced because that region is normally paternally imprinted; no maternal allele remains to be expressed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2025 GeneReview explicitly includes paternal uniparental disomy of 15q11.2-q13 among Angelman mechanisms, producing only the unmethylated paternal methylation contribution and deficient maternal UBE3A function.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1144/"
+    }
+  },
+  {
+    "id": "s2peds-1554",
+    "category": "Imprinting disorders",
+    "q": "Which clinical pair does p107 give for Prader-Willi syndrome?",
+    "a": "The source labels mental retardation plus hyperphagia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2026 Prader-Willi GeneReview uses intellectual disability/cognitive impairment and confirms childhood excessive eating with hyperphagia. It also stresses infant hypotonia, poor feeding, developmental delay, hypogonadism and short stature.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1330/"
+    }
+  },
+  {
+    "id": "s2peds-1555",
+    "category": "Imprinting disorders",
+    "q": "How does p107 explain Prader-Willi syndrome by imprinting?",
+    "a": "The maternal gene is normally silenced; the paternal gene should be expressed but is deleted or mutated, so Willi hates his dad because dad's gene is deleted.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2026 GeneReview confirms Prader-Willi syndrome from maternal-only imprinting in the 15q11.2-q13 critical region, most often from deletion of the paternally inherited region or a paternal imprinting defect.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1330/"
+    }
+  },
+  {
+    "id": "s2peds-1556",
+    "category": "Imprinting disorders",
+    "q": "How can maternal uniparental disomy cause Prader-Willi syndrome in p107's mechanism?",
+    "a": "If both chromosome 15 alleles come from mom, both are silenced because that region is normally maternally imprinted; no paternal allele remains to be expressed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2026 GeneReview explicitly includes maternal uniparental disomy 15 as a Prader-Willi mechanism. Methylation testing shows only the maternal imprint; SNP array and DNA polymorphism analysis can distinguish the UPD subtype from an imprinting defect.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1330/"
+    }
+  },
+  {
+    "id": "s2peds-1557",
+    "category": "Pediatric meningitis",
+    "q": "What is the p107 meningitis presentation?",
+    "a": "High fever plus a stiff neck and photophobia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The Royal Children's Hospital guideline confirms fever, neck stiffness, photophobia and other meningeal signs, but warns that neck stiffness may be absent in infants; irritability, lethargy, poor feeding, vomiting or a bulging fontanelle can dominate.",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Meningitis_encephalitis/"
+    }
+  },
+  {
+    "id": "s2peds-1558",
+    "category": "Pediatric meningitis",
+    "q": "Which neonatal organism and CSF pattern does p107 give for bacterial meningitis?",
+    "a": "Usually group B Streptococcus in neonates, with elevated protein, low glucose and increased neutrophils.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2025 WHO guideline confirms neutrophil predominance, low CSF-to-blood glucose and markedly increased protein in bacterial meningitis. RCH says the usual 0-2-month pathogens are GBS, E. coli and, rarely, Listeria, so GBS is a key neonatal answer but not the only one.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/table/ch3.tab1/"
+    }
+  },
+  {
+    "id": "s2peds-1559",
+    "category": "Pediatric meningitis",
+    "q": "Which fungal meningitis organism and CSF pattern does p107 give?",
+    "a": "Cryptococcus neoformans in an immunocompromised patient such as a child with HIV, with elevated protein, low glucose and increased lymphocytes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "NIH confirms C. neoformans as the cause of most HIV-associated cryptococcosis and meningoencephalitis as the usual initial CNS manifestation. Merck confirms fungal meningitis is usually lymphocytic with elevated protein and low CSF-to-blood glucose, while noting that immunocompromised patients can have minimal CSF changes.",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-pediatric-opportunistic-infections/cryptococcosis"
+    }
+  },
+  {
+    "id": "s2peds-1560",
+    "category": "Pediatric meningitis",
+    "q": "Which viral meningitis causes and CSF pattern does p107 give?",
+    "a": "Aseptic meningitis, commonly echovirus if vaccinated or mumps if unvaccinated, with normal or slightly elevated protein, normal glucose and increased lymphocytes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "CDC says non-polio enteroviruses, the group containing echoviruses, are the most common US cause; mumps is vaccine-preventable. WHO and Merck confirm lymphocytic predominance, normal glucose and normal-to-mildly-elevated protein. There is no echovirus vaccine, so preserve if vaccinated as the source's shorthand rather than a causal rule.",
+      "url": "https://cdc.gov/meningitis/about/viral-meningitis.html"
+    }
+  },
+  {
+    "id": "s2peds-1561",
+    "category": "Pediatric encephalitis",
+    "q": "How does p107 distinguish encephalitis and its neonatal HSV route?",
+    "a": "Encephalitis presents as high fever plus confusion, and herpes encephalitis can follow vertical transmission.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "Merck's 2026 encephalitis review confirms fever with altered consciousness or cognitive/behavioral change. StatPearls says neonatal HSV encephalitis is more often HSV-2, can occur with vertically acquired infection and tends to be more diffuse than the frontotemporal pattern beyond the neonatal period.",
+      "url": "https://www.merckmanuals.com/professional/neurologic-disorders/brain-infections/encephalitis"
+    }
+  },
+  {
+    "id": "s2peds-1562",
+    "category": "Pediatric encephalitis",
+    "q": "Why can p107 HSV encephalitis produce RBCs in CSF?",
+    "a": "Temporal-lobe hemorrhage.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The 2024 StatPearls review says HSV usually affects temporal and limbic regions, hemorrhagic areas are classic, and elevated CSF RBCs or xanthochromia can occur from temporal hemorrhage.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557643/"
+    }
+  },
+  {
+    "id": "s2peds-1563",
+    "category": "Pediatric encephalitis",
+    "q": "How do p107 CT, EEG and CSF findings support HSV encephalitis?",
+    "a": "Non-contrast CT is often negative; EEG can show temporal spikes; other CSF findings match viral meningitis; and even if RBCs are absent, viral CSF without another listed virus can still make HSV the answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "StatPearls confirms CT is less sensitive and can be normal early, MRI is more definitive, EEG often shows temporal sharp-and-slow complexes, and CSF usually has lymphocytic pleocytosis, elevated protein and normal glucose. HSV PCR is the key confirmatory CSF test.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557643/"
+    }
+  },
+  {
+    "id": "s2peds-1564",
+    "category": "Meningitis management",
+    "q": "What sequence does p107 require for lumbar puncture and antibiotics?",
+    "a": "Do the lumbar puncture before antibiotics because antibiotics first can interfere with culture results.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "NICE 2024 says blood tests and LP should occur before antibiotics only if safe and without a clinically significant antibiotic delay. If LP is unsafe or delayed, take blood cultures, stabilize and give antibiotics first, then LP as soon as safe.",
+      "url": "https://www.nice.org.uk/guidance/NG240/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2peds-1565",
+    "category": "Meningitis management",
+    "q": "Which four p107 indications call for CT before LP?",
+    "a": "Focal neurologic signs, seizure, papilledema or optic fundi that cannot be visualized, and confusion that interferes with the neurologic exam or reduced Glasgow score.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The Canadian Paediatric Society also lists papilledema, new seizures, focal neurologic deficits and decreased consciousness/coma as reasons to defer LP for imaging. NICE 2024 additionally names risk factors for an evolving space-occupying lesion, abnormal pupils, GCS 9 or less, or a sustained rapid fall in consciousness.",
+      "url": "https://cps.ca/en/documents/position/management-of-bacterial-meningitis"
+    }
+  },
+  {
+    "id": "s2peds-1566",
+    "category": "Meningitis management",
+    "q": "Why does p107 say to obtain CT before LP in the listed scenarios?",
+    "a": "An intracranial mass lesion can make LP acutely lower intracranial pressure and trigger herniation and death.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "CPS says imaging is used to rule out potential herniation risk when warning signs are present, while RCH warns that a normal CT does not exclude raised ICP. NICE says take blood, give antibiotics and stabilize before imaging when the CT indication exists.",
+      "url": "https://cps.ca/en/documents/position/management-of-bacterial-meningitis"
+    }
+  },
+  {
+    "id": "s2peds-1567",
+    "category": "Meningitis management",
+    "q": "Which p107 NBME point makes students choose the wrong next step?",
+    "a": "Papilledema or inability to visualize the optic fundi means CT, not LP.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "CPS specifically lists papilledema as a reason to defer LP until head imaging rules out herniation risk. Current guidelines do not treat inability to visualize the fundus alone as identical to confirmed papilledema, so keep that as the source's exam shortcut.",
+      "url": "https://cps.ca/en/documents/position/management-of-bacterial-meningitis"
+    }
+  },
+  {
+    "id": "s2peds-1568",
+    "category": "Meningitis management",
+    "q": "What empiric pediatric meningitis regimen does p107 give?",
+    "a": "Cefotaxime plus vancomycin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The Canadian Paediatric Society recommends ceftriaxone or cefotaxime plus vancomycin for children over 2 months while cultures are pending. RCH instead uses benzylpenicillin plus cefotaxime for ages 0-2 months and ceftriaxone or cefotaxime at 2 months and older, adding vancomycin when gram-positive cocci are seen.",
+      "url": "https://cps.ca/en/documents/position/management-of-bacterial-meningitis"
+    }
+  },
+  {
+    "id": "s2peds-1569",
+    "category": "Meningitis management",
+    "q": "When does p107 say to add steroids in bacterial meningitis?",
+    "a": "Steroids can be added if pneumococcus is confirmed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "NICE 2024 says give dexamethasone to patients over 3 months with strongly suspected or confirmed bacterial meningitis, then continue only for pneumococcus or H. influenzae type b and stop for other organisms. AAP is more cautious, calling benefit strongest for suspected Hib and controversial for pneumococcus, and not indicated under 6 weeks.",
+      "url": "https://www.nice.org.uk/guidance/NG240/chapter/recommendations"
+    }
+  },
+  {
+    "id": "s2peds-1570",
+    "category": "Meningitis management",
+    "q": "Which group B Streptococcus regimens does p107 offer?",
+    "a": "Ampicillin plus gentamicin, or ampicillin plus cefotaxime.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "The Canadian Paediatric Society says penicillin G or ampicillin is definitive GBS therapy, adding gentamicin for the first 5 to 7 days or until CSF sterility is confirmed. NICE neonatal guidance empirically uses amoxicillin plus cefotaxime, then can narrow culture-positive GBS to benzylpenicillin plus 5 days of gentamicin.",
+      "url": "https://cps.ca/en/documents/position/management-of-bacterial-meningitis"
+    }
+  },
+  {
+    "id": "s2peds-1571",
+    "category": "Meningitis management",
+    "q": "Which GBS answer does p107 say beats the wrong NBME combination?",
+    "a": "Ampicillin plus gentamicin is correct over vancomycin plus ceftriaxone for GBS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 107,
+      "url": "/mehlman/hy-pediatrics.pdf#page=107"
+    },
+    "guideline": {
+      "text": "Keep the source's confirmed-GBS framing: ceftriaxone plus vancomycin can be appropriate empiric coverage in older infants and children, but once GBS is confirmed, current CPS therapy is penicillin or ampicillin with early gentamicin rather than continuing unnecessary vancomycin.",
+      "url": "https://cps.ca/en/documents/position/management-of-bacterial-meningitis"
+    }
+  }
+
 ];
