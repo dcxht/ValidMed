@@ -15982,5 +15982,210 @@ export default [
       "page": 132,
       "url": "/mehlman/hy-internal-medicine.pdf#page=132"
     }
+  },
+  {
+    "id": "s2med-1203",
+    "category": "IM Gastro",
+    "q": "HLA-B27 associations in IBD per p132-133?",
+    "a": "PAIR: psoriasis + bloody stools = the bloody stools are probably IBD; IBD with morning-worse low back pain = probably ankylosing spondylitis. UC and Crohn can also associate with non-HLA-B27 autoimmune disease (e.g., vitiligo) and both can cause anterior uveitis (non-specific).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2med-1204",
+    "category": "IM Gastro",
+    "q": "Colon cancer risk in IBD per p133?",
+    "a": "Both raise risk if the colon is involved. If forced to choose, UC has greater risk because the colon is always involved in UC but not always in Crohn.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2med-1205",
+    "category": "IM Gastro",
+    "q": "First treatment for IBD per p133?",
+    "a": "Source: both treated with 5-ASA compounds (mesalamine or sulfasalazine) or steroids; if asked first treatment choose mesalamine or sulfasalazine over steroids. 2CK IM form 8 has 'prednisone therapy' as the answer for Crohn when no 5-ASA is listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    },
+    "guideline": {
+      "text": "Conflict: the 2025 ACG UC and Crohn guidelines are linked; I did not verify details, but current Crohn guidance does not center on 5-ASA, so this is a source exam answer for Crohn.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40701562/"
+    }
+  },
+  {
+    "id": "s2med-1206",
+    "category": "IM Gastro",
+    "q": "Biologics and cytokines in IBD per p133?",
+    "a": "Anti-TNF-alpha agents (infliximab, adalimumab, etanercept) are used in patients failing 5-ASA and steroids. The anti-inflammatory cytokine for IBD is IL-10 (IL-10 and TGF-beta are mostly anti-inflammatory).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    },
+    "guideline": {
+      "text": "A review of IL-10 biology is linked; I did not verify the text. I did not verify the source's inclusion of etanercept, which I know is not effective in IBD per other sources.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7037253/"
+    }
+  },
+  {
+    "id": "s2med-1207",
+    "category": "IM Gastro",
+    "q": "Ulcerative colitis extent and depth per p133?",
+    "a": "Rectum-ascending. Not transmural (mucosa and submucosa only), so no fistulae. Fistulae to the perianal skin or any organ means transmural disease (Crohn).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2med-1208",
+    "category": "IM Gastro",
+    "q": "Ulcerative colitis findings per p133?",
+    "a": "Colonoscopy shows pseudopolyps and crypt abscesses. Barium enema shows 'lead-pipe appearance' from loss of haustra (very important).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    },
+    "img": "/mehlman/figures/med-p133-01.jpg",
+    "imgAlt": "Barium enema of the colon with a smooth tubular descending colon lacking haustral folds",
+    "guideline": {
+      "text": "The 2025 ACG UC guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40701556/"
+    }
+  },
+  {
+    "id": "s2med-1209",
+    "category": "IM Gastro",
+    "q": "Extra-intestinal UC associations per p133?",
+    "a": "Primary sclerosing cholangitis (can be pANCA associated). Pyoderma gangrenosum: rare necrotic skin lesion; NBME describes it as an 'ulcer with necrotic debris.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    },
+    "guideline": {
+      "text": "A review of pyoderma gangrenosum for gastroenterologists is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29788368/"
+    }
+  },
+  {
+    "id": "s2med-1210",
+    "category": "IM Gastro",
+    "q": "Toxic megacolon in UC per p133?",
+    "a": "Presents as SIRS and sometimes low BP in a UC patient; abdominal X-ray may show a 12-cm cecum (normal 3-8). If BP is normal, 2CK NBME wants steroids first; if unstable go straight to laparotomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    },
+    "guideline": {
+      "text": "A review of severe colitis and toxic megacolon is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11466533/"
+    }
+  },
+  {
+    "id": "s2med-1211",
+    "category": "IM Gastro",
+    "q": "Colectomy in IBD per p133?",
+    "a": "Sometimes in severe UC, very rarely in Crohn.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    }
+  },
+  {
+    "id": "s2med-1212",
+    "category": "IM Gastro",
+    "q": "Crohn disease location and depth per p133?",
+    "a": "'Mouth to anus' (mouth ulcers loved by USMLE), but terminal ileum is highest yield. Transmural: can cause anal fistulae and fistulae to other organs. Colonoscopy shows skip lesions (alternating diseased and normal segments) with cobblestone ulcers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 133,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=133"
+    },
+    "guideline": {
+      "text": "The 2025 ACG Crohn guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40701562/"
+    }
+  },
+  {
+    "id": "s2med-1213",
+    "category": "IM Gastro",
+    "q": "Skip lesions on gross specimen per p134?",
+    "a": "Crohn: left part normal and right part inflamed and cobblestoned.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=134"
+    },
+    "img": "/mehlman/figures/med-p134-01.jpg",
+    "imgAlt": "Resected bowel specimen with a normal segment on the left and a cobblestoned inflamed segment on the right",
+    "guideline": {
+      "text": "The 2025 ACG Crohn guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40701562/"
+    }
+  },
+  {
+    "id": "s2med-1214",
+    "category": "IM Gastro",
+    "q": "Creeping fat per p134?",
+    "a": "Buzzy NBME term for intestinal fat migrating to wrap around the bowel in Crohn.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=134"
+    },
+    "img": "/mehlman/figures/med-p134-02.jpg",
+    "imgAlt": "Diagram of normal intestine versus Crohn disease with cobblestone surface, thickened wall, fissure and fat wrapping",
+    "guideline": {
+      "text": "A review of creeping fat in Crohn disease is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10381426/"
+    }
+  },
+  {
+    "id": "s2med-1215",
+    "category": "IM Gastro",
+    "q": "String sign per p134?",
+    "a": "Barium enema in Crohn: inflamed segments are narrowed compared with normal bowel.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=134"
+    },
+    "img": "/mehlman/figures/med-p134-03.jpg",
+    "imgAlt": "Barium study with arrows marking a narrowed bowel segment"
+  },
+  {
+    "id": "s2med-1216",
+    "category": "IM Gastro",
+    "q": "Crohn biopsy per p134?",
+    "a": "Non-caseating granulomas. Very HY: Crohn and sarcoidosis both have non-caseating granulomas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=134"
+    }
+  },
+  {
+    "id": "s2med-1217",
+    "category": "IM Gastro",
+    "q": "Skin associations per p134?",
+    "a": "Crohn is sometimes associated with erythema nodosum (not specific, but a tendency); UC is associated with pyoderma gangrenosum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 134,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=134"
+    }
   }
 ];
