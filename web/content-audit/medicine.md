@@ -914,3 +914,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p259 (meningitis Tx, CNS infections) - 15 cards, ids s2med-2525 to 2539
 - Steroid timing in meningitis flagged. Toxo/PJP prophylaxis thresholds and NBME claims unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.
+
+## p260 (epidural abscess, rabies, CNS infections, cavernous sinus, PCNSL, hepatic encephalopathy start) - 14 cards, ids s2med-2540 to 2553
+- NBME demographics and anecdote unverified. Expletives none.
+## p261 (encephalopathies, neuropathic pain, TNR, prions) - 16 cards, ids s2med-2554 to 2569
+- Neomycin vs current HE therapy: caution. Source expletive paraphrased (caudate card).
+- Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.

@@ -33507,5 +33507,423 @@ export default [
       "text": "An ESCMID brain abscess guideline is linked (title only); I did not read it.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/37648062/"
     }
+  },
+  {
+    "id": "s2med-2540",
+    "category": "IM Neuro",
+    "q": "Point tenderness over a vertebra per p260?",
+    "a": "Usually means epidural abscess, compression fracture (osteoporosis), or metastases on USMLE. Epidural abscess: the patient may or may not have neurologic findings; fever is not mandatory.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "A review of spinal epidural abscess is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32694325/"
+    }
+  },
+  {
+    "id": "s2med-2541",
+    "category": "IM Neuro",
+    "q": "Epidural abscess: three NBME demographics per p260?",
+    "a": "1) IV drug user with point tenderness over a vertebra; 2) a patient with cellulitis of the legs/lower body that spread to the spine, where you eliminate other answers; 3) a patient with active endocarditis (murmur plus fever) with neurologic findings in the legs (septic embolus is possible but tends to give stroke-like findings rather than spinal pain plus lower leg findings).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "I did not verify the NBME observation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32694325/"
+    }
+  },
+  {
+    "id": "s2med-2542",
+    "category": "IM Neuro",
+    "q": "Epidural abscess: treatment per p260?",
+    "a": "Drainage of abscess plus IV antibiotics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "The same review is linked on an earlier card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32694325/"
+    }
+  },
+  {
+    "id": "s2med-2543",
+    "category": "IM Neuro",
+    "q": "Pott disease per p260?",
+    "a": "Infection/granulomatous destruction of the vertebral column by tuberculosis. Just know it is possible, in the same way psoas abscess is possible.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "A review of spinal tuberculosis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6295815/"
+    }
+  },
+  {
+    "id": "s2med-2544",
+    "category": "IM Neuro",
+    "q": "Rabies per p260?",
+    "a": "RNA virus that ascends peripheral nerves to the CNS; near-100% fatality. If a patient contacts a rabid animal, give rabies IVIG plus multiple courses of vaccine. The source says qbank focus on exact days/spacing of vaccine is a waste of time.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "The CDC Yellow Book rabies chapter is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK620868/"
+    }
+  },
+  {
+    "id": "s2med-2545",
+    "category": "IM Neuro",
+    "q": "Amoebic meningoencephalitis per p260?",
+    "a": "Naegleria fowleri; an amoeba living in lakes, streams, hot springs that enters through the cribriform plate. Causes rapid deterioration and death within days.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "A review of primary amoebic meningoencephalitis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8469197/"
+    }
+  },
+  {
+    "id": "s2med-2546",
+    "category": "IM Neuro",
+    "q": "Eosinophilic meningoencephalitis per p260?",
+    "a": "Angiostrongylus (rat lungworm). Consumption of raw slugs/snails. The source mentions a teenager in Australia who ate a raw garden slug on a dare and suffered paralysis and death.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "A review of Angiostrongylus eosinophilic meningitis is linked; I did not verify the wording. I did not verify the anecdote.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3689484/"
+    }
+  },
+  {
+    "id": "s2med-2547",
+    "category": "IM Neuro",
+    "q": "Cavernous sinus thrombosis: presentation per p260?",
+    "a": "Severe headache, diplopia, proptosis, and/or ophthalmoplegia in a patient with a recent sinus infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2med-2548",
+    "category": "IM Neuro",
+    "q": "Cavernous sinus thrombosis: mechanism and organism per p260?",
+    "a": "Bacterial infection can ascend the valveless facial veins to the cavernous sinus, leading to clotting of blood. Usually S. aureus. CN VI palsy can occur with cavernous sinus pathology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2med-2549",
+    "category": "IM Neuro",
+    "q": "Cavernous sinus thrombosis: treatment per p260?",
+    "a": "IV antibiotics plus heparin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "A paper on anticoagulation in septic cavernous sinus thrombosis is linked (title only); I did not read it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11489632/"
+    }
+  },
+  {
+    "id": "s2med-2550",
+    "category": "IM Neuro",
+    "q": "Primary CNS lymphoma per p260?",
+    "a": "High yield and underrated. Causes a ring-enhancing lesion on head CT that can be mistaken for Toxo. If an AIDS patient has CD4 <100 and is already on TMP-SMX, the diagnosis is primary CNS lymphoma, not Toxo.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "The EHA-ESMO primary CNS lymphoma guideline is linked (title only); I did not read it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148853/"
+    }
+  },
+  {
+    "id": "s2med-2551",
+    "category": "IM Neuro",
+    "q": "Primary CNS lymphoma: other settings per p260?",
+    "a": "Can be seen in non-AIDS patients with immunosuppression from other causes (organ transplant recipients on immunosuppressants; patients undergoing radio- and/or chemotherapy). Can be caused by autoimmune disease: a 44-year-old woman with SLE and a ring-enhancing lesion on CT = CNS lymphoma, not Toxo. Many autoimmune diseases (SLE, dermatomyositis, Hashimoto) increase the risk of non-Hodgkin lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "I did not verify the vignette claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148853/"
+    }
+  },
+  {
+    "id": "s2med-2552",
+    "category": "IM Neuro",
+    "q": "Encephalopathy definition per p260?",
+    "a": "A general term for altered brain function (usually confusion) due to various causes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    }
+  },
+  {
+    "id": "s2med-2553",
+    "category": "IM Neuro",
+    "q": "Hepatic encephalopathy per p260?",
+    "a": "Seen in alcoholism due to hyperammonemia. Classically occurs on USMLE when there is an increase in blood in the GI tract, such as after an acute variceal bleed: blood is broken down into proteins that liberate amino acids, which gut bacteria convert to absorbed ammonia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 260,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=260"
+    },
+    "guideline": {
+      "text": "The ACG hepatic encephalopathy guideline is linked (title only); I did not read it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41773757/"
+    }
+  },
+  {
+    "id": "s2med-2554",
+    "category": "IM Neuro",
+    "q": "Lactulose in hepatic encephalopathy per p261?",
+    "a": "A sugar broken down by gut bacteria into acidic products, converting ammonia into ammonium, which is ionic and not readily absorbed. USMLE wants 'acidification; ammonium' as the answer for what happens with lactulose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "The ACG hepatic encephalopathy guideline is linked on the previous page's card; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41773757/"
+    }
+  },
+  {
+    "id": "s2med-2555",
+    "category": "IM Neuro",
+    "q": "Neomycin in hepatic encephalopathy per p261?",
+    "a": "An aminoglycoside antibiotic that kills ammonia-producing gut bacteria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "Current guidance may prefer other antibiotics (such as rifaximin); I did not verify. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41773757/"
+    }
+  },
+  {
+    "id": "s2med-2556",
+    "category": "IM Neuro",
+    "q": "Uremic encephalopathy per p261?",
+    "a": "Confusion in the setting of renal failure due to elevated blood urea nitrogen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "A PubMed page on uremic encephalopathy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34736971/"
+    }
+  },
+  {
+    "id": "s2med-2557",
+    "category": "IM Neuro",
+    "q": "Metabolic and toxic encephalopathy per p261?",
+    "a": "Metabolic: confusion due to electrolyte imbalances, hypoglycemia, and thyroid storm. Toxic: mental status changes due to toxins; Reye syndrome and lead poisoning are high yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2med-2558",
+    "category": "IM Neuro",
+    "q": "Inflammatory encephalopathy per p261?",
+    "a": "Herpes encephalitis (infectious) and lupus cerebritis (autoimmune). Encephalitis is infection of the substance of the brain, causing confusion (encephalopathy). Infection plus confusion = encephalitis; infection plus stiff neck and/or photophobia = meningitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2med-2559",
+    "category": "IM Neuro",
+    "q": "Anoxic encephalopathy per p261?",
+    "a": "Confusion caused by diminished oxygen delivery to the brain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2med-2560",
+    "category": "IM Neuro",
+    "q": "Diabetic neuropathy per p261?",
+    "a": "Pain, paresthesia, and/or numbness in a diabetic. USMLE likes TCAs (for example amitriptyline) or gabapentin as first-line Tx. Use nortriptyline in the elderly if a TCA is given (fewer side effects).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "A review of US guidelines on painful diabetic neuropathy is linked (title only); I did not verify the exam preference.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10949339/"
+    }
+  },
+  {
+    "id": "s2med-2561",
+    "category": "IM Neuro",
+    "q": "Herpetic neuralgia per p261?",
+    "a": "Pain, burning, tingling before, during, or after a herpes or varicella (shingles) episode. Acyclovir treats the virus; gabapentin is used classically for the pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "A meta-analysis of gabapentin for postherpetic neuralgia is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24257149/"
+    }
+  },
+  {
+    "id": "s2med-2562",
+    "category": "IM Neuro",
+    "q": "Post-trauma neuropathic pain per p261?",
+    "a": "Patients with nerve trauma can have chronic neuropathic pain; treat with gabapentin or TCAs. Trauma can cause complex regional pain syndrome: neuropathic pain after injury that is disproportionate to the injury itself.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "Complex regional pain syndrome practical guidelines are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9186375/"
+    }
+  },
+  {
+    "id": "s2med-2563",
+    "category": "IM Neuro",
+    "q": "Thalamic pain syndrome per p261?",
+    "a": "Damage to the thalamus from a stroke causes body pain, usually contralateral to the infarct, occurring many months after the stroke. The USMLE answer for severe limb pain many months after a stroke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "A StatPearls page on thalamic pain syndrome is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554490/"
+    }
+  },
+  {
+    "id": "s2med-2564",
+    "category": "IM Neuro",
+    "q": "Huntington disease per p261?",
+    "a": "Autosomal dominant CAG trinucleotide repeat (TNR) expansion on chromosome 4 causing neurodegeneration and choreoathetosis. Chorea = fast, purposeless, jerky movements; athetosis = slow, writhing movements.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "A paper on CAG repeats in Huntington disease is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1801258/"
+    }
+  },
+  {
+    "id": "s2med-2565",
+    "category": "IM Neuro",
+    "q": "Anticipation per p261?",
+    "a": "The disorder occurs earlier and more severe with each successive generation, caused by expansion of the TNR repeat.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "The same Huntington paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1801258/"
+    }
+  },
+  {
+    "id": "s2med-2566",
+    "category": "IM Neuro",
+    "q": "Huntington disease: brain area per p261?",
+    "a": "USMLE likes the caudate nuclei as the affected part of the brain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    }
+  },
+  {
+    "id": "s2med-2567",
+    "category": "IM Neuro",
+    "q": "Friedreich ataxia per p261?",
+    "a": "Autosomal recessive GAA TNR disorder. Causes ataxia, kyphoscoliosis, cardiomyopathy, pes cavus (high-arched feet), hammer toes, and early-onset type II diabetes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "A review of Friedreich's ataxia is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5862303/"
+    }
+  },
+  {
+    "id": "s2med-2568",
+    "category": "IM Neuro",
+    "q": "Creutzfeldt-Jakob disease per p261?",
+    "a": "Prion disease; a prion is a misfolded protein that causes misfolding of other proteins. Abnormally folded protein within the CNS (PrPC to PrPSc): the former is an alpha-helix that becomes a misfolded beta-pleated sheet. The source says it is known to be asked.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    },
+    "guideline": {
+      "text": "A StatPearls page on CJD is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK507860/"
+    }
+  },
+  {
+    "id": "s2med-2569",
+    "category": "IM Neuro",
+    "q": "CJD: spread and presentation per p261?",
+    "a": "If the misfolded PrPSc contacts normal PrPC it causes them to misfold into more PrPSc, functioning exponentially. Presents as neurodegeneration over weeks to months plus myoclonus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 261,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=261"
+    }
   }
 ];
