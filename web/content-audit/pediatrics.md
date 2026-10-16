@@ -655,4 +655,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. One figure: AP pelvis x-ray of SCFE.
 - Notes verified against StatPearls SCFE and the current Osteosarcoma chapter (NBK563177; the older NBK549868 is archived and was not cited).
 - Left un-noted (not verified): NBME question-pattern claims (about half not overweight, age 10-13 emphasis, specific 2CK questions, 5-year-old contracted epiphysis), "ice cream off the cone" description, osteosarcoma age 10-30 (noted as unverified). The page's "spiculated new born formation" typo is flagged in the answer.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 14 cards ox=false off=false bad=0.
