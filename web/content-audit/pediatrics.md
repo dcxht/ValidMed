@@ -1046,3 +1046,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: lymphoma vs T-ALL for pediatric malignant effusion; fixed 15 mg/dL pathologic jaundice criteria (AAP 2022 age-based thresholds); IVIG omission; biliary atresia treatment as transplant (Kasai first).
 - Left unverified: RAAS mechanism, HVA/VMA and mIBG statements, phenobarbital in CN2.
 - Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
+
+## p193 (Bullet points: breast milk jaundice, HDN, CAH forms) - 7 cards, ids s2peds-2706 to 2712
+- Inspected page text; no figures. Page ends mid-bullet on 17-hydroxylase deficiency; continuation carded on p194.
+- Notes verified against StatPearls (Breast Milk Jaundice, Unconjugated Hyperbilirubinemia, HDFN, CAH, 17-Hydroxylase Deficiency).
+- Source answers kept with caution notes: stop breastfeeding 48 h (StatPearls: usually resolves without stopping); 11-OH normal BP (StatPearls: hypertension); 17-OH hypoglycemia (not confirmed).
+- Left unverified: breastfeeding/breast milk jaundice peak timing; 21-OH precursor list wording.
+- Mobile QA (320x740, local vite preview build, not live): all 7 cards ox=false off=false bad=0.

@@ -38714,5 +38714,110 @@ export default [
       "text": "StatPearls: CN1 is absence and CN2 profound decrease of UGT1A1 enzyme; the only cure for CN1 is liver transplant; transplant is infrequent in CN2. I did not verify phenobarbital in the passage I read.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK562171/"
     }
+  },
+  {
+    "id": "s2peds-2706",
+    "category": "Peds vignettes",
+    "q": "Mechanism, timing and treatment of breastmilk jaundice per p193?",
+    "a": "Beta-glucuronidase in breast milk deconjugates intestinal bilirubin and increases enterohepatic circulation; jaundice starts on day 3-5 and peaks at 2-3 weeks; Tx = stop breastfeeding for about 48 hours with bottle feeding, then bilirubin drops rapidly and does not return to pathologic levels when breastfeeding resumes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 193,
+      "url": "/mehlman/hy-pediatrics.pdf#page=193"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says breast milk jaundice typically presents in the first or second week and usually resolves spontaneously even without stopping breastfeeding, and lists breastfeeding interruption as a possible phototherapy-era adverse effect. Source answer kept; I did not verify the day 3-5 or 2-3 week peak timing.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537334/"
+    }
+  },
+  {
+    "id": "s2peds-2707",
+    "category": "Peds vignettes",
+    "q": "Mechanism, timing and treatment of breastfeeding jaundice per p193?",
+    "a": "Insufficient feeding (failure of suckling etc.) with decreased milk intake reduces intestinal clearance of bilirubin, increasing enterohepatic circulation; peaks at 3-5 days; Tx = formula feeding (fluid and caloric supplementation).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 193,
+      "url": "/mehlman/hy-pediatrics.pdf#page=193"
+    },
+    "guideline": {
+      "text": "I did not verify the 3-5 day peak in the passage I read. Current practice emphasises lactation support alongside supplementation; source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549796/"
+    }
+  },
+  {
+    "id": "s2peds-2708",
+    "category": "Peds vignettes",
+    "q": "Pathologic jaundice in a neonate, mom O+, neonate A or B blood type. Diagnosis and mechanism per p193?",
+    "a": "Hemolytic disease of the newborn (ABO type): mothers with O blood type have a fraction of IgG (rather than all IgM) against A and B antigens, which crosses the placenta and causes fetal hemolysis; severity is highly variable.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 193,
+      "url": "/mehlman/hy-pediatrics.pdf#page=193"
+    },
+    "guideline": {
+      "text": "StatPearls: ABO incompatibility can affect the first pregnancy because maternal antibodies preexist, and it often follows a milder course than Rh disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-2709",
+    "category": "Peds vignettes",
+    "q": "Pathologic jaundice in a neonate born from the 2nd pregnancy of an Rh negative mom. Diagnosis per p193?",
+    "a": "Hemolytic disease of the newborn (Rh type): the mother presumably made antibodies against fetal Rh antigen in a prior pregnancy after mixing of circulations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 193,
+      "url": "/mehlman/hy-pediatrics.pdf#page=193"
+    },
+    "guideline": {
+      "text": "StatPearls: prevention of Rh alloimmunization in Rh-negative pregnant women is critical (anti-D immunoglobulin).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557423/"
+    }
+  },
+  {
+    "id": "s2peds-2710",
+    "category": "Peds vignettes",
+    "q": "Neonate with ambiguous genitalia, hypoglycemia, high potassium and low blood pressure. Diagnosis and why per p193?",
+    "a": "CAH due to 21-hydroxylase deficiency: low glucose because cortisol cannot be made; high potassium because aldosterone cannot be made; ambiguous genitalia because precursors are shunted to DHEA-S and androstenedione (androstenedione converts peripherally to testosterone; DHEA-S is adrenal-specific). 21-hydroxylase deficiency is the most common cause of CAH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 193,
+      "url": "/mehlman/hy-pediatrics.pdf#page=193"
+    },
+    "guideline": {
+      "text": "Diagnosis and the most-common claim match StatPearls CAH. I did not verify the source's precursor and shunting details.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2711",
+    "category": "Peds vignettes",
+    "q": "Neonate with ambiguous genitalia, potassium not high, normal BP and elevated DHEA-S. Diagnosis per p193?",
+    "a": "CAH due to 11-hydroxylase deficiency: the patient can still make corticosterone and 11-deoxycortisol, so retains some mineralo- and glucocorticoid synthesis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 193,
+      "url": "/mehlman/hy-pediatrics.pdf#page=193"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says 11-beta-hydroxylase deficiency causes accumulation of mineralocorticoid precursors, giving hypertension, so normal BP is not reliable here. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448098/"
+    }
+  },
+  {
+    "id": "s2peds-2712",
+    "category": "Peds vignettes",
+    "q": "Neonate with low potassium, low glucose and low DHEA-S. Diagnosis per p193 (the source explanation continues on p194)?",
+    "a": "CAH due to 17-hydroxylase deficiency; potassium wasting from high mineralocorticoid activity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 193,
+      "url": "/mehlman/hy-pediatrics.pdf#page=193"
+    },
+    "guideline": {
+      "text": "StatPearls: 17-hydroxylase (CYP17A1) deficiency causes hypertension, hypokalemia and metabolic alkalosis from accumulation of mineralocorticoid precursors, and it presents with delayed sexual maturation. Hypoglycemia is not a typical feature I could confirm; source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK546644/"
+    }
   }
 ];
