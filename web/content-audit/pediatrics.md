@@ -593,3 +593,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Current-guideline differences kept as notes, source answers kept: CDC leads with ceftriaxone (cefotaxime is the alternative); CDC's chlamydial pneumonia window is 1-3 months vs the source's 3-week-old vignette; erythromycin ointment does not prevent chlamydial disease; StatPearls calls itch the hallmark of allergic conjunctivitis.
 - Left un-noted (not verified): lymphocytic shift explanation, nasolacrimal duct spread to lungs, "first week, yellow discharge" for gonococcal, cobblestoning, "chlamydia vignette always ties to pneumonia".
 - Mobile QA (320x740, live, local headless Chrome): all 15 cards ox=false off=false bad=0; longest answer+note cards fit without scrolling.
+
+## p127 (brachial plexus injuries, rickets) - 14 cards, ids s2peds-1900 to 1913
+- Inspected page pixels. Two source figures added: Erb waiter's tip diagram and Klumpke claw hand.
+- Notes verified against StatPearls Erb Palsy, Klumpke Palsy, Osteomalacia and a PMC rickets review. Lab note: calcium is often normal early (PTH keeps it up) and ALP is raised; source says low calcium. Source answer kept with note.
+- Left un-noted: exam answer wording, rickets sign list (craniotabes, rosary, genu varum), vit D action on osteoid, histology, CF/Crohn malabsorption, pseudofracture. Klumpke and Erb mechanism-in-neonate match StatPearls only in general.
+- Mobile QA: PENDING

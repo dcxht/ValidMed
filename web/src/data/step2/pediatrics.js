@@ -27140,5 +27140,195 @@ export default [
       "text": "Caution: StatPearls calls itching the hallmark sign of allergic conjunctivitis, so itch is the usual finding even though p126 says it is not required.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK448118/"
     }
+  },
+  {
+    "id": "s2peds-1900",
+    "category": "Brachial plexus injuries",
+    "q": "How can neonatal brachial plexus injuries occur per p127, and what else can cause them?",
+    "a": "Breech or traumatic labor in neonates. Also injuries such as grabbing a tree branch while falling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "guideline": {
+      "text": "StatPearls: most Erb palsy occurs at childbirth, often with shoulder dystocia; falls and other traction injuries cause it in older children and adults.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513260/"
+    }
+  },
+  {
+    "id": "s2peds-1901",
+    "category": "Brachial plexus injuries",
+    "q": "Which nerve roots are injured in Erb-Duchenne palsy per p127?",
+    "a": "Upper brachial plexus, C5-C6.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "guideline": {
+      "text": "StatPearls: Erb palsy involves the upper trunk, C5-C6, with occasional extension to C7.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513260/"
+    }
+  },
+  {
+    "id": "s2peds-1902",
+    "category": "Brachial plexus injuries",
+    "q": "What may the exam answer be instead of Erb-Duchenne per p127?",
+    "a": "Upper brachial plexus, when asked what is injured.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2peds-1903",
+    "category": "Brachial plexus injuries",
+    "q": "What posture does the p127 waiter's tip figure show in Erb palsy?",
+    "a": "Arm adducted, pronated, wrist flexed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "img": "/mehlman/figures/peds-p127-erb-waiters-tip.png",
+    "imgAlt": "Actual source diagram of an arm in the waiters tip deformity of Erb palsy: arm hanging at the side, forearm pronated, wrist flexed",
+    "guideline": {
+      "text": "StatPearls: Erb palsy produces flaccid weakness or paralysis of the affected upper extremity.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513260/"
+    }
+  },
+  {
+    "id": "s2peds-1904",
+    "category": "Brachial plexus injuries",
+    "q": "Which nerve roots are injured in Klumpke palsy per p127?",
+    "a": "Lower brachial plexus, C8-T1.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "guideline": {
+      "text": "StatPearls: Klumpke palsy affects the lower trunk, C8-T1.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK531500/"
+    }
+  },
+  {
+    "id": "s2peds-1905",
+    "category": "Brachial plexus injuries",
+    "q": "What may the exam answer be instead of Klumpke per p127?",
+    "a": "Lower brachial plexus, when asked what is injured.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2peds-1906",
+    "category": "Brachial plexus injuries",
+    "q": "What hand deformity does the p127 Klumpke figure show?",
+    "a": "A claw hand.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "img": "/mehlman/figures/peds-p127-klumpke-claw-hand.png",
+    "imgAlt": "Actual source photograph of a hand in the Klumpke claw-hand deformity",
+    "guideline": {
+      "text": "StatPearls: muscular atrophy and tightening can give a claw hand, with finger and wrist flexion. Horner syndrome (ptosis, miosis, anhidrosis) can occur because of proximity to T1.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK531500/"
+    }
+  },
+  {
+    "id": "s2peds-1907",
+    "category": "Rickets",
+    "q": "How does p127 define rickets vs osteomalacia?",
+    "a": "Rickets is vitamin D deficiency in children. Osteomalacia is vitamin D deficiency in adults.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "guideline": {
+      "text": "StatPearls: osteomalacia is bone softening in adults, usually from prolonged vitamin D deficiency. Rickets is deficient mineralization at the growth plates in children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551616/"
+    }
+  },
+  {
+    "id": "s2peds-1908",
+    "category": "Rickets",
+    "q": "Which three rickets findings does p127 list?",
+    "a": "Craniotabes (soft skull), rachitic rosary (bony knobs at the costochondral junctions) and genu varum (bowing of the tibias).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2peds-1909",
+    "category": "Rickets",
+    "q": "What does activated vitamin D (1,25) do for bone per p127?",
+    "a": "It is needed to convert unmineralized osteoid into mineralized hydroxyapatite, hardening bones.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "guideline": {
+      "text": "StatPearls: bone forms when hydroxyapatite is deposited on the osteoid matrix; osteomalacia is impaired mineralization of that matrix.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551616/"
+    }
+  },
+  {
+    "id": "s2peds-1910",
+    "category": "Rickets",
+    "q": "What histologic finding is shared by rickets and osteomalacia per p127?",
+    "a": "Increased unmineralized osteoid, or deficient mineralization of osteoid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2peds-1911",
+    "category": "Rickets",
+    "q": "Which USMLE cause of vitamin D deficiency does p127 stress?",
+    "a": "Impaired intestinal malabsorption, such as CF or Crohn. For CF the answer may be written as exocrine pancreatic insufficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2peds-1912",
+    "category": "Rickets",
+    "q": "Which x-ray finding does p127 call buzzy in osteomalacia and rickets?",
+    "a": "Pseudofracture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    }
+  },
+  {
+    "id": "s2peds-1913",
+    "category": "Rickets",
+    "q": "What labs does p127 give for rickets and osteomalacia?",
+    "a": "Low calcium, low phosphate and high PTH. PTH rises because low calcium reduces negative feedback at the parathyroid glands.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 127,
+      "url": "/mehlman/hy-pediatrics.pdf#page=127"
+    },
+    "guideline": {
+      "text": "PMC review: early on calcium is kept normal by rising PTH, with hypophosphatemia and higher ALP; hypocalcemia develops in a later stage. So calcium can be normal early, and ALP is also raised.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10543743/"
+    }
   }
 ];
