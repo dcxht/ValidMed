@@ -7004,5 +7004,267 @@ export default [
       "text": "2022 ESC/ERS guideline lists endothelin receptor antagonists among PAH drugs; I did not verify its text.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/36017548/"
     }
+  },
+  {
+    "id": "s2med-0541",
+    "category": "IM Pulmonary",
+    "q": "Systemic sclerosis per p56?",
+    "a": "Idiopathic autoimmune disease with multi-organ fibrosis and hardening of tissues (sclerosis). Divided into limited and diffuse subtypes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    },
+    "guideline": {
+      "text": "A 2023 review titled 'Systemic sclerosis' is a reference; I did not verify details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9892343/"
+    }
+  },
+  {
+    "id": "s2med-0542",
+    "category": "IM Pulmonary",
+    "q": "Limited scleroderma per p56?",
+    "a": "CREST syndrome: Calcinosis, Raynaud, Esophageal dysmotility, Sclerodactyly, Telangiectasias. Raynaud = color change of fingers in cold; sclerodactyly = tightening of finger skin; esophageal dysmotility presents as GERD; calcinosis = abnormal Ca2+ deposition (the source says NBME rarely tests it).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2med-0543",
+    "category": "IM Pulmonary",
+    "q": "Diffuse scleroderma per p56?",
+    "a": "The source defines it as CREST + renal involvement, presenting with ultra-HY high BP (e.g., 220/120) from a RAAS surge; if no high BP, it is not diffuse type on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    },
+    "guideline": {
+      "text": "Caution: in standard classification limited and diffuse differ by extent of skin involvement, and renal crisis is more common in diffuse disease. I did not verify the text of the review.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10167155/"
+    }
+  },
+  {
+    "id": "s2med-0544",
+    "category": "IM Pulmonary",
+    "q": "Lung and heart consequences of systemic sclerosis per p56?",
+    "a": "Highest yield: both types cause pulmonary fibrosis, leading to pulmonary hypertension. Pericardial fibrosis can also occur.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2med-0545",
+    "category": "IM Pulmonary",
+    "q": "Esophageal findings in scleroderma per p56?",
+    "a": "An offline NBME wants decreased LES tone and decreased esophageal peristalsis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2med-0546",
+    "category": "IM Pulmonary",
+    "q": "Raynaud prevention and drugs to avoid per p56?",
+    "a": "Dress warmly in cold weather; dihydropyridine CCBs (e.g., nifedipine) can be used (increase arteriolar and capillary diameter). Avoid alpha-1 agonists (phenylephrine, oxymetazoline), which constrict arterioles/capillaries.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    },
+    "guideline": {
+      "text": "A primer on Raynaud management exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9246963/"
+    }
+  },
+  {
+    "id": "s2med-0547",
+    "category": "IM Pulmonary",
+    "q": "Sarcoidosis histology per p56?",
+    "a": "Non-caseating granulomas in lung tissue made of activated macrophages called epithelioid macrophages (histiocytes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2med-0548",
+    "category": "IM Pulmonary",
+    "q": "Why sarcoidosis causes hypercalcemia per p56?",
+    "a": "Histiocytes secrete 1-alpha-hydroxylase (normally made in the kidney PCT in response to PTH), converting 25-OH-D3 to active 1,25-(OH)2-D3, which raises small bowel calcium absorption: hypercalcemia. PTH is suppressed (exceedingly HY). Phosphate can be normal on NBME questions. Select increased 1,25-(OH)2-D3 and decreased PTH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    },
+    "guideline": {
+      "text": "A review of calcium disturbances in sarcoidosis exists; I did not verify the phosphate observation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6854763/"
+    }
+  },
+  {
+    "id": "s2med-0549",
+    "category": "IM Pulmonary",
+    "q": "Archetypal sarcoidosis presentation per p56?",
+    "a": "African-American woman in her 20s-30s with 6+ months of dry cough and red shins (erythema nodosum); low-grade fever with flares occasionally. Bihilar lymphadenopathy on CXR or CT (may be described as 'hilar nodularity').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 56,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=56"
+    },
+    "guideline": {
+      "text": "The 2020 ATS guideline on sarcoidosis diagnosis is a reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7159433/"
+    }
+  },
+  {
+    "id": "s2med-0550",
+    "category": "IM Pulmonary",
+    "q": "Sarcoidosis vs asthma with normal CXR per p57?",
+    "a": "A 2CK question: early-30s African-American woman, dry cough, CXR with no abnormalities: answer is 'activation of mast cells' (asthma), not 'non-caseating granulomatous inflammation'. If it sounds like sarcoidosis but CXR is normal or shows 'mild hyperinflation', choose asthma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2med-0551",
+    "category": "IM Pulmonary",
+    "q": "Atypical sarcoidosis question per p57?",
+    "a": "A 2CK IM CMS form: bihilar lymphadenopathy on CT, high AST + ALP and weight loss, no mention of hypercalcemia; answer is inferred from the CT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    },
+    "img": "/mehlman/figures/med-p057-01.jpg",
+    "imgAlt": "Source figure p57: chest X-ray with bilateral hilar lymphadenopathy (arrows)"
+  },
+  {
+    "id": "s2med-0552",
+    "category": "IM Pulmonary",
+    "q": "Lupus pernio and sarcoidosis treatment per p57?",
+    "a": "Lupus pernio is an enlarged nose due to sarcoidosis (not SLE). Treatment: steroids (oral prednisone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2med-0553",
+    "category": "IM Pulmonary",
+    "q": "Rheumatoid lung per p57?",
+    "a": "RA can cause restrictive lung disease ('rheumatoid lung'). Methotrexate, first-line DMARD for RA, can also cause pulmonary fibrosis, so advanced RA patients can have fibrosis from both.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    },
+    "guideline": {
+      "text": "A review of methotrexate pneumonitis and RA-ILD exists; it discusses the difficulty of separating the two. I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6819370/"
+    }
+  },
+  {
+    "id": "s2med-0554",
+    "category": "IM Pulmonary",
+    "q": "Pulmonary embolism presentation per p57?",
+    "a": "DVT embolized to the pulmonary arteries: acute shortness of breath and tachycardia with risk factors: post-surgery (including C-section), sedentation (e.g., hip trauma), OCP use, thrombotic disorders (FVL, prothrombin mutation, MTHFR).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2med-0555",
+    "category": "IM Pulmonary",
+    "q": "ECG in PE per p57?",
+    "a": "S1Q3T3 is the most specific ECG finding but the source says it is nonexistent on USMLE; the most common ECG finding is sinus tachycardia (normal ECG with a high HR).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    },
+    "guideline": {
+      "text": "A review titled 'ECG in suspected pulmonary embolism' exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30665906/"
+    }
+  },
+  {
+    "id": "s2med-0556",
+    "category": "IM Pulmonary",
+    "q": "First steps in PE management on 2CK per p57?",
+    "a": "Heparin first, then spiral CT of the chest to diagnose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    },
+    "guideline": {
+      "text": "The 2019 ESC guideline recommends anticoagulation while awaiting diagnosis when probability is high or intermediate; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31473594/"
+    }
+  },
+  {
+    "id": "s2med-0557",
+    "category": "IM Pulmonary",
+    "q": "PE in a patient already on warfarin per p57?",
+    "a": "First get CT to diagnose, then IVC filter. Do not choose IVC filter before confirming PE with CT.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2med-0558",
+    "category": "IM Pulmonary",
+    "q": "tPA in PE per p57?",
+    "a": "One 2CK NBME question has tPA as the answer for PE with obstructive shock (low BP due to PE).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2med-0559",
+    "category": "IM Pulmonary",
+    "q": "V/Q scan use per p57?",
+    "a": "V/Q instead of CT first-line in pregnancy. A 2CK question shows 'multiple sub-segmental perfusion defects' on V/Q: recurrent pulmonary emboli.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    },
+    "guideline": {
+      "text": "ATS/STR pregnancy guidance is a reference; I did not verify the text. Some current practice also accepts CTPA in pregnancy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22086989/"
+    }
+  },
+  {
+    "id": "s2med-0560",
+    "category": "IM Pulmonary",
+    "q": "Most common cause of death from PE per p57?",
+    "a": "The source says ventricular fibrillation, from acute right heart strain by a saddle embolus precipitating Vfib.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 57,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=57"
+    },
+    "guideline": {
+      "text": "A paper titled 'Pulmonary embolism as a cause of cardiac arrest' exists; I did not verify the rhythm claim, and PEA is commonly cited as the usual arrest rhythm.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10826469/"
+    }
   }
 ];

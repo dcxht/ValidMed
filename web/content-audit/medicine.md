@@ -245,3 +245,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (cilium cross-section).
 - Source wording: "nucleotidase" for dornase alfa (it is a DNase); "primary pulmonary hypertension" (current term PAH). Unverified: PCD fertility and ectopic details, 2022 ESC/ERS text.
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p56 (IM Pulmonary: systemic sclerosis, sarcoidosis) - 9 cards, ids s2med-0541 to 0549
+- Inspected page text (no figures). Page ends mid-sarcoid presentation; continues p57.
+- Conflict: source calls diffuse scleroderma "CREST + renal"; standard split is by skin extent. Unverified: phosphate observation, review texts.
+
+## p57 (IM Pulmonary: sarcoid tail, rheumatoid lung, PE) - 11 cards, ids s2med-0550 to 0560
+- Inspected page text and figure (bilateral hilar adenopathy CXR).
+- Conflicts: PE death rhythm (Vfib vs PEA); V/Q in pregnancy (CTPA also accepted); heparin-first vs probability-based. Unverified: text of cited papers.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
