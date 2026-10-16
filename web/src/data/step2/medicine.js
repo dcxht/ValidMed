@@ -40757,5 +40757,177 @@ export default [
       "text": "A paper on MRI grading of cervical foraminal stenosis is linked (title only). I did not verify the NBME claim.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3635796/"
     }
+  },
+  {
+    "id": "s2med-3056",
+    "category": "IM MSK",
+    "q": "Cervical foraminal stenosis figure per p313 (continued from p312)?",
+    "a": "The figure labels foraminal stenosis: narrowing of the foramen where the nerve root exits, as opposed to stenosis of the spinal canal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=313"
+    },
+    "img": "/mehlman/figures/med-p313-01.jpg",
+    "imgAlt": "Source figure: cervical foraminal stenosis"
+  },
+  {
+    "id": "s2med-3057",
+    "category": "IM MSK",
+    "q": "Spondylolisthesis per p313?",
+    "a": "The answer if they describe a 'step-off' between infra-/suprajacent vertebrae; i.e., one vertebra 'juts out' compared to those above/below. Can be due to trauma or idiopathic development.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=313"
+    },
+    "img": "/mehlman/figures/med-p313-02.jpg",
+    "imgAlt": "Source figure: spondylolisthesis on MRI",
+    "guideline": {
+      "text": "An MRI paper on lytic vs degenerative spondylolisthesis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11138341/"
+    }
+  },
+  {
+    "id": "s2med-3058",
+    "category": "IM MSK",
+    "q": "Disc herniation per p313?",
+    "a": "Herniation of the nucleus pulposus through a tear in the annulus fibrosus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=313"
+    },
+    "img": "/mehlman/figures/med-p313-03.jpg",
+    "imgAlt": "Source figure: normal disc and herniated disc compressing a nerve root",
+    "guideline": {
+      "text": "A patient information page on slipped disc is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279472/"
+    }
+  },
+  {
+    "id": "s2med-3059",
+    "category": "IM MSK",
+    "q": "Disc herniation vignette per p313?",
+    "a": "The answer if they mention radiculopathy (shooting pain down a leg) after lifting a heavy weight or bending over (e.g., gardening). The answer may be written 'herniated nucleus pulposus'. Be aware of the L4, L5, and S1 differences.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2med-3060",
+    "category": "IM MSK",
+    "q": "Cervical disc herniation per p313?",
+    "a": "Possible and assessed on USMLE. 2CK forms ask it a couple of times: shooting pain down an arm, answer 'C8 disc herniation'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 313,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=313"
+    }
+  },
+  {
+    "id": "s2med-3061",
+    "category": "IM MSK",
+    "q": "Suspected disc herniation workup per p314 (continued from p313)?",
+    "a": "Newest NBMEs want 'no diagnostic studies indicated'. X-ray and MRI are not indicated unless there is a motor/sensory abnormality (weakness or numbness). For mere radiculopathy (radiating pain), no imaging is necessary on new NBME content.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "Back pain recommendations from the WFNS spine committee are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10882106/"
+    }
+  },
+  {
+    "id": "s2med-3062",
+    "category": "IM MSK",
+    "q": "Straight-leg raise per p314?",
+    "a": "The source says it is not reliable. Mere pain alone is a negative test; it is positive only when it reproduces radiculopathy/radiating pain. A 2CK question has the test causing pain (negative) and the answer is 'no further management indicated' (the diagnosis is only lumbosacral strain).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "A meta-analysis on reliability of the straight leg raise test is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35245880/"
+    }
+  },
+  {
+    "id": "s2med-3063",
+    "category": "IM MSK",
+    "q": "Disc herniation Tx per p314?",
+    "a": "NSAIDs + light exercise as tolerated. Bed rest is the wrong answer on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "A paper on medication and rehab for acute back pain is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11130729/"
+    }
+  },
+  {
+    "id": "s2med-3064",
+    "category": "IM MSK",
+    "q": "Lumbosacral strain per p314?",
+    "a": "The answer if the patient has paraspinal muscle spasm after lifting a heavy box without radiculopathy. With radiculopathy, the answer is disc herniation instead. The straight-leg test can cause pain (negative); it is positive only if it reproduces radiating pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=314"
+    }
+  },
+  {
+    "id": "s2med-3065",
+    "category": "IM MSK",
+    "q": "Lumbosacral strain imaging and Tx per p314?",
+    "a": "Do not x-ray; the source says this is really high-yield for 2CK, since lumbar spine x-rays are among the most frivolously ordered tests. Tx is NSAIDs + light exercise as tolerated; bed rest is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "The WFNS back pain paper is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10882106/"
+    }
+  },
+  {
+    "id": "s2med-3066",
+    "category": "IM MSK",
+    "q": "Sciatica per p314?",
+    "a": "90% of the time due to disc herniation. Straight-leg test classically positive (reproduces radiating pain). Tx = light exercise as tolerated + NSAIDs; bed rest is wrong. On one 2CK CMS form, ibuprofen alone is the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=314"
+    },
+    "img": "/mehlman/figures/med-p314-01.jpg",
+    "imgAlt": "Source figure: sciatica from bulging or herniated disc",
+    "guideline": {
+      "text": "A patient information page on slipped disc is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279472/"
+    }
+  },
+  {
+    "id": "s2med-3067",
+    "category": "IM MSK",
+    "q": "Meralgia paresthetica per p314?",
+    "a": "The answer if the patient has pain or paresthesias running down the lateral thigh. Due to entrapment of the lateral femoral cutaneous nerve. Often seen as an incorrect answer choice on Step, so at least be aware of it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 314,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=314"
+    },
+    "guideline": {
+      "text": "A review of meralgia paresthetica is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10622057/"
+    }
   }
 ];

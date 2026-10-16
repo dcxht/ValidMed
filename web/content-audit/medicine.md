@@ -1066,3 +1066,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Spondylosis defined as pars interarticularis degeneration (usually spondylolysis); kept as source with caution; figure placed by page order.
 - NBME 20 C7-T1 claim unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p313 (spondylolisthesis, disc herniation) - 5 cards, ids s2med-3056 to 3060
+- First figure on p313 (cervical foraminal stenosis) matched to p312's stenosis topic by page order.
+
+## p314 (disc herniation workup, strain, sciatica, meralgia) - 7 cards, ids s2med-3061 to 3067
+- "Straight-leg raise not reliable" and "no imaging for radiculopathy" are the source's claims; linked papers only by title.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
