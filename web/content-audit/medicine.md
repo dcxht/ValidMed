@@ -1392,3 +1392,14 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p405 (IM mixed bullets: alcohol anemia, episiotomy, incontinence) - 7 cards, ids s2med-4173 to 4179
 - Sorbitol myelin mechanism for diabetic bladder: source, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 25 cards ox=false off=false bad=0.
+
+## p406 (IM mixed bullets: bladder innervation, hypersensitivity I-II, HIT) - 12 cards, ids s2med-4180 to 4191
+- HIT drug examples (dabigatran, lepirudin): source, not verified, guide linked.
+- Pudendal nerve "opens" external sphincter wording: source.
+
+## p407 (IM mixed bullets: hypersensitivity II-IV) - 11 cards, ids s2med-4192 to 4202
+- Warm AIHA examples (ABO mismatch): source, not verified. ITP treatment order: source, ASH 2019 linked.
+
+## p408 (IM mixed bullets: acid-base, anemias, lead, IgA nephropathy) - 14 cards, ids s2med-4203 to 4216
+- "BP control beats smoking cessation for stroke risk": source, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 37 cards ox=false off=false bad=0.

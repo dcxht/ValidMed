@@ -54935,5 +54935,420 @@ export default [
       "page": 405,
       "url": "/mehlman/hy-internal-medicine.pdf#page=405"
     }
+  },
+  {
+    "id": "s2med-4180",
+    "category": "IM Mixed",
+    "q": "Overflow incontinence postvoid volume and treatment (continued from p405)?",
+    "a": "Postvoid residual is high (300-400 mL in USMLE questions; normal <50-75 mL). Diabetic bladder: bethanechol (muscarinic agonist). BPH: insert a catheter first, always.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4181",
+    "category": "IM Mixed",
+    "q": "82M with dribbling, hesitancy, interrupted stream, suprapubic mass (bladder), bacteria in urine per p406?",
+    "a": "Insert a catheter first, not antibiotics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4182",
+    "category": "IM Mixed",
+    "q": "25F with 6 weeks of dysuria + anterior vaginal wall pain + normal urinary findings per p406?",
+    "a": "Chronic interstitial cystitis (needs 6+ weeks of symptoms without findings). The source says anterior vaginal wall pain is on the OB/GYN NBME forms; a cystocele protrudes through the anterior superior vaginal wall, so the anatomic proximity explains it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4183",
+    "category": "IM Mixed",
+    "q": "Detrusor muscle innervation per p406?",
+    "a": "Contracts under parasympathetic activity via the pelvic splanchnic nerves (S2-S4); kept relaxed when not voiding by sympathetic activity via the inferior hypogastric nerves (T10-L1).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4184",
+    "category": "IM Mixed",
+    "q": "Internal urethral sphincter innervation per p406?",
+    "a": "Kept closed by sympathetic activity via the inferior hypogastric nerves (T10-L1).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4185",
+    "category": "IM Mixed",
+    "q": "External urethral sphincter innervation per p406?",
+    "a": "Opened by somatic activity via the pudendal nerve (S2-4), per the source wording.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4186",
+    "category": "IM Mixed",
+    "q": "40M hikes, linear vesicles on the calf days later per p406?",
+    "a": "Contact dermatitis (type IV hypersensitivity); linear vesicles = poison ivy/sumac.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4187",
+    "category": "IM Mixed",
+    "q": "38F gardens a lot, rash on face, arms, backs of hands per p406?",
+    "a": "Contact dermatitis from sunscreen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4188",
+    "category": "IM Mixed",
+    "q": "Type I hypersensitivity per p406?",
+    "a": "Fast onset; anaphylaxis; atopy (asthma, hay fever, eczema). Two IgEs bind antigen at Fab fragments, crosslink, and the mast cell degranulates and releases histamine. Answer for drug rashes soon after a drug (e.g., sulfa). Treat anaphylaxis with IM epinephrine (beta-2 agonism opens the lungs; norepinephrine does not act on beta-2).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4189",
+    "category": "IM Mixed",
+    "q": "Type II hypersensitivity per p406?",
+    "a": "Autoantibodies against one's own cells and receptors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4190",
+    "category": "IM Mixed",
+    "q": "Heparin-induced thrombocytopenia per p406?",
+    "a": "Antibodies against the platelet factor 4-heparin complex. Treat by stopping heparin + a direct thrombin inhibitor (source examples: dabigatran or lepirudin); warfarin is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    },
+    "guideline": {
+      "text": "Non-heparin anticoagulant choices for HIT are reviewed in the linked practical guide; I did not verify the source's drug examples (dabigatran, lepirudin).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11665626/"
+    }
+  },
+  {
+    "id": "s2med-4191",
+    "category": "IM Mixed",
+    "q": "Graves disease mechanism per p406?",
+    "a": "Activating antibodies against the TSH receptor (type II).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 406,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=406"
+    }
+  },
+  {
+    "id": "s2med-4192",
+    "category": "IM Mixed",
+    "q": "Goodpasture syndrome per p407?",
+    "a": "Type II hypersensitivity against the alpha-3 chains of type 4 collagen (source mnemonic: '2, 3, 4').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4193",
+    "category": "IM Mixed",
+    "q": "Pernicious anemia per p407?",
+    "a": "Antibodies against intrinsic factor or parietal cells, decreasing B12 absorption in the terminal ileum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4194",
+    "category": "IM Mixed",
+    "q": "Warm autoimmune hemolytic anemia per p407?",
+    "a": "Coombs positive: IgG targets RBCs. Source examples: ABO mismatch, drugs/infection, CLL.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4195",
+    "category": "IM Mixed",
+    "q": "Cold autoimmune hemolytic anemia per p407?",
+    "a": "IgM antibodies against RBCs; classically Mycoplasma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4196",
+    "category": "IM Mixed",
+    "q": "ITP per p407?",
+    "a": "Antibodies against GpIIb/IIIa on platelets: low platelet count + high bleeding time. Source treatment: steroids, then IVIG, then splenectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    },
+    "guideline": {
+      "text": "ASH 2019 ITP guidelines are linked for current treatment guidance.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
+  },
+  {
+    "id": "s2med-4197",
+    "category": "IM Mixed",
+    "q": "Type III hypersensitivity: serum sickness per p407?",
+    "a": "Immune complexes depositing in joints several days after a drug or infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4198",
+    "category": "IM Mixed",
+    "q": "Arthus reaction per p407?",
+    "a": "Localized cutaneous type III hypersensitivity: skin reaction at the injection site several days after the agent. Key point: not immediate (type I would be immediate).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4199",
+    "category": "IM Mixed",
+    "q": "Postinfectious arthritis per p407?",
+    "a": "Super HY: arthritis from HepB, HepC, rubella, Yersinia enterocolitica, etc.; immune complex deposition in joints, considered a serum sickness.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4200",
+    "category": "IM Mixed",
+    "q": "Erythema nodosum per p407?",
+    "a": "Panniculitis (inflammation of subcutaneous fat) from immune complex deposition. USMLE causes: Crohn disease, sulfa drugs, Strep infections, Coccidioidomycosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4201",
+    "category": "IM Mixed",
+    "q": "Post-streptococcal glomerulonephritis per p407?",
+    "a": "Can occur after skin infections too (impetigo, erysipelas, cellulitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4202",
+    "category": "IM Mixed",
+    "q": "Type IV hypersensitivity per p407?",
+    "a": "T cell-mediated, delayed. Examples: contact dermatitis (nickel in wristwatches, sunscreen, poison ivy/sumac, rubber), PPD test for TB, multiple sclerosis (T cell attack on oligodendrocytes in white matter), Stevens-Johnson syndrome and toxic epidermal necrolysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 407,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=407"
+    }
+  },
+  {
+    "id": "s2med-4203",
+    "category": "IM Mixed",
+    "q": "Low bicarb in a dehydrated patient or any shock per p408?",
+    "a": "Lactic acidosis: decreased perfusion to vital organs, decreased O2 delivery, more anaerobic respiration, more lactic acid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4204",
+    "category": "IM Mixed",
+    "q": "High anion gap metabolic acidosis per p408?",
+    "a": "MUDPILES: methanol, uremia, DKA, phenformin, iron/INH, lactic acidosis, ethylene glycol, salicylates.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4205",
+    "category": "IM Mixed",
+    "q": "Treatment of ethylene glycol and methanol toxicity per p408?",
+    "a": "Fomepizole only, if listed (over combos such as 'ethanol first then fomepizole').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4206",
+    "category": "IM Mixed",
+    "q": "Paint thinner + blurry vision per p408?",
+    "a": "Methanol toxicity (on one of the NBMEs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4207",
+    "category": "IM Mixed",
+    "q": "Stroke risk: smoking cessation or BP control per p408?",
+    "a": "BP control (USMLE wants lisinopril, not smoking cessation); for stroke, hypertension is always the worse risk factor (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4208",
+    "category": "IM Mixed",
+    "q": "High HbA2 per p408?",
+    "a": "Beta-thalassemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4209",
+    "category": "IM Mixed",
+    "q": "Diagnosis of alpha or beta thalassemia per p408?",
+    "a": "Hemoglobin electrophoresis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4210",
+    "category": "IM Mixed",
+    "q": "Pregnant woman with low serum iron not improving with iron per p408?",
+    "a": "Hemoglobin electrophoresis; diagnosis thalassemia (usually alpha trait with one mutation, which is asymptomatic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4211",
+    "category": "IM Mixed",
+    "q": "Diagnosis of sickle cell per p408?",
+    "a": "Hemoglobin electrophoresis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4212",
+    "category": "IM Mixed",
+    "q": "Diagnosis of multiple myeloma per p408?",
+    "a": "Serum protein electrophoresis, then bone marrow biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4213",
+    "category": "IM Mixed",
+    "q": "Adult male, factory work, cognitive decline, microcytic anemia per p408?",
+    "a": "Lead poisoning: inhibits delta-ALA dehydratase and ferrochelatase; microcytic anemia is HY for lead; basophilic stippling of RBCs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4214",
+    "category": "IM Mixed",
+    "q": "RBCs in thalassemia per p408?",
+    "a": "Target cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4215",
+    "category": "IM Mixed",
+    "q": "Infection + RBCs lacking central pallor + positive Coombs per p408?",
+    "a": "Hemolytic anemia, not hereditary spherocytosis. Spherocytes are seen in drug- and infection-induced hemolysis too; Coombs (IgG against RBCs) is positive in antibody-induced hemolysis but not in HS, which is cytoskeletal (ankyrin, spectrin, band protein deficiency).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
+  },
+  {
+    "id": "s2med-4216",
+    "category": "IM Mixed",
+    "q": "12M with red urine 1-3 days after an URTI per p408?",
+    "a": "IgA nephropathy, not PSGN; can also follow GI infections.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 408,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=408"
+    }
   }
 ];
