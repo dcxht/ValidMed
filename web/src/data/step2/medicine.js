@@ -5187,5 +5187,190 @@ export default [
       "page": 39,
       "url": "/mehlman/hy-internal-medicine.pdf#page=39"
     }
+  },
+  {
+    "id": "s2med-0398",
+    "category": "IM Pulmonary",
+    "q": "FEV1, FVC and FEV1/FVC per p40?",
+    "a": "FEV1: amount of air one can forcefully exhale in one second after a maximal inspiration. FVC (VC): total volume one can maximally exhale after a maximal inspiration. FEV1/FVC: ratio used to differentiate obstructive from restrictive lung disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=40"
+    },
+    "guideline": {
+      "text": "The ERS/ATS lung volume technical statement and a review of pulmonary function tests are references.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7808018/"
+    }
+  },
+  {
+    "id": "s2med-0399",
+    "category": "IM Pulmonary",
+    "q": "Total lung capacity and tidal volume per p40 (figure)?",
+    "a": "TLC: total amount of air in the lungs after maximal inspiration. TV: amount of air inhaled + exhaled during normal breathing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=40"
+    },
+    "img": "/mehlman/figures/med-p040-01.jpg",
+    "imgAlt": "Source figure p40: spirogram with IRV, TV, ERV, RV, IC, FRC, VC and TLC"
+  },
+  {
+    "id": "s2med-0400",
+    "category": "IM Pulmonary",
+    "q": "Inspiratory capacity and inspiratory reserve volume per p40?",
+    "a": "IC: maximum air that can be inhaled after a normal exhalation. IRV: additional air that can be inhaled after a normal inhalation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2med-0401",
+    "category": "IM Pulmonary",
+    "q": "Expiratory reserve volume, FRC and residual volume per p40?",
+    "a": "ERV: additional air that can be exhaled after a normal exhalation. FRC: volume remaining in the lungs after a normal exhalation. RV: volume remaining after a maximal exhalation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2med-0402",
+    "category": "IM Pulmonary",
+    "q": "DLCO per p40?",
+    "a": "Not a lung volume term. Diffusion capacity of the lungs for carbon monoxide; reflects the extent of gas exchange across the pulmonary capillaries.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2med-0403",
+    "category": "IM Pulmonary",
+    "q": "DLCO on USMLE per p40?",
+    "a": "Decreased in every pathologic lung condition, but increased in asthma (thought due to transient increased blood flow through pulmonary capillaries + hyperinflation during acute episodes). If DLCO is reduced: not asthma; if DLCO is high: select asthma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 40,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=40"
+    },
+    "guideline": {
+      "text": "A paper on single-breath DLCO in stable asthma exists; I could not read its findings, so I did not verify the claim. The source's 'decreased in every condition' is a USMLE shorthand (I did not verify).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8181330/"
+    }
+  },
+  {
+    "id": "s2med-0404",
+    "category": "IM Pulmonary",
+    "q": "HY obstructive and restrictive conditions per p41?",
+    "a": "Obstructive: asthma, COPD (chronic bronchitis + emphysema), old age (healthy person age 70 vs 20). Restrictive: pulmonary fibrosis due to any cause (idiopathic, radiation, drugs, autoimmune disease) and pneumoconioses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2med-0405",
+    "category": "IM Pulmonary",
+    "q": "FEV1, FVC and FEV1/FVC in obstructive versus restrictive per p41 (figure)?",
+    "a": "Obstructive: FEV1 decreased, FVC decreased, FEV1/FVC decreased (<70%; normal is 70%). Restrictive: FEV1 decreased/normal, FVC decreased, FEV1/FVC increased/normal (>70-80%).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    },
+    "img": "/mehlman/figures/med-p041-01.jpg",
+    "imgAlt": "Source figure p41: bar graph of IRV, TV, ERV and RV in obstructive, normal and restrictive patterns",
+    "guideline": {
+      "text": "Current caution: the ERS/ATS interpretive strategies use the lower limit of normal rather than a fixed 70%. Source answer kept.",
+      "url": "https://www.thoracic.org/statements/guideline-implementation-tools/technical-standards-interpretive-strategies-lung-function-tests.php"
+    }
+  },
+  {
+    "id": "s2med-0406",
+    "category": "IM Pulmonary",
+    "q": "TLC, VC, TV in obstructive versus restrictive per p41?",
+    "a": "Obstructive: TLC increased; FVC (VC) normal/decreased; TV normal. Restrictive: TLC decreased; FVC decreased; TV normal/decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2med-0407",
+    "category": "IM Pulmonary",
+    "q": "IC, IRV, ERV in obstructive versus restrictive per p41?",
+    "a": "Obstructive: IC normal/decreased; IRV normal/decreased; ERV decreased. Restrictive: IC decreased; IRV decreased; ERV decreased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2med-0408",
+    "category": "IM Pulmonary",
+    "q": "FRC and RV in obstructive versus restrictive per p41?",
+    "a": "Obstructive: both increased (air trapping). Restrictive: both decreased (decreased lung compliance).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2med-0409",
+    "category": "IM Pulmonary",
+    "q": "DLCO in obstructive versus restrictive per p41?",
+    "a": "Obstructive: decreased (but increased in asthma on USMLE). Restrictive: decreased (normal if neuromuscular).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2med-0410",
+    "category": "IM Pulmonary",
+    "q": "Why FEV1/FVC is increased/normal in restrictive per p41?",
+    "a": "Radial traction: a 'stickiness' on the outside of the airways (such as from fibrosis) that prevents them from closing as rapidly as in obstructive disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    },
+    "guideline": {
+      "text": "A paper on radial traction and small airways disease in excised lungs exists; I did not verify the explanation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3942370/"
+    }
+  },
+  {
+    "id": "s2med-0411",
+    "category": "IM Pulmonary",
+    "q": "Lung volumes memory rule per p41?",
+    "a": "Basically all volumes are decreased in restrictive disease due to decreased compliance, but various ones are increased in obstructive disease because air cannot get out.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2med-0412",
+    "category": "IM Pulmonary",
+    "q": "Healthy 70-year-old versus 20-year-old lung volumes per p41?",
+    "a": "Lifetime inhalation of particulates (even a non-smoker living in a city) causes an accreted effect akin to very slow-onset COPD; select arrows consistent with obstructive lung disease for the 70-year-old.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 41,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=41"
+    }
   }
 ];

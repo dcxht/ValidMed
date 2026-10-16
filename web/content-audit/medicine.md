@@ -174,3 +174,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text; no figures. Page starts mid-statin bullets.
 - Source cautions: TG >300 fibrate cutoff; statin + fibrate "P-450" mechanism; flecainide first-line wording; statin 70 vs 100 cutoffs.
 - Mobile QA (320x740, local vite preview build, not live): all 31 cards ox=false off=false bad=0.
+
+## p40 (IM Pulmonary: lung volume terminology, DLCO) - 6 cards, ids s2med-0398 to 0403
+- Inspected page text and figure (spirogram). First page of the IM Pulmonary section.
+- Unverified: DLCO in asthma on USMLE (paper findings not readable), "decreased in every pathologic condition".
+
+## p41 (IM Pulmonary: obstructive vs restrictive) - 9 cards, ids s2med-0404 to 0412
+- Inspected page text and figure (lung volume bars). Table converted to cards.
+- Source conflict: fixed 70% FEV1/FVC vs lower limit of normal in ERS/ATS interpretive strategies. Unverified: radial traction explanation.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
