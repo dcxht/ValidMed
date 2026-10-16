@@ -1025,3 +1025,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: CT for hematuria thresholds; Tanner 3 "menarche imminent"; virginal breast hypertrophy follow-up interval.
 - Left unverified: FMD lab pattern, 6-month follow-up, dysmenorrhea prostaglandin mechanism.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p190 (Bullet points: ovarian cyst, imperforate hymen, AIS/MRKH, growth, Turner, heat exhaustion) - 9 cards, ids s2peds-2676 to 2684
+- Inspected page text and layout; no figures. First lines finish the ovarian cyst bullet from p189; the page ends mid-bullet on heat stroke, continued on p191.
+- Notes verified against a pediatric ovarian cyst review, StatPearls (Imperforate Hymen, Androgen Insensitivity, Constitutional Growth Delay, Turner, Failure to Thrive, Heat Illness) and an MRKH review.
+- Source answers kept with caution notes: OCP vs observation for a simple cyst (exam-form dependent); imperforate hymen presents as a perineal bulge in StatPearls vs upper vagina in the source.
+- Left unverified: vagal low BP mechanism, cruciate incision, bone age step, Turner high gonadotropins and IVF detail, diet diary step.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.

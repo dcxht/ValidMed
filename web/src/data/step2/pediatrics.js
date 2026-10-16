@@ -38264,5 +38264,140 @@ export default [
       "text": "A narrative review of dysmenorrhea therapies exists; I could not read its text, so this is unverified beyond standard teaching.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11332412/"
     }
+  },
+  {
+    "id": "s2peds-2676",
+    "category": "Peds vignettes",
+    "q": "17F with 2 days of right-sided pelvic pain, normal vitals, negative beta-hCG and a 3.5 cm simple cyst on ultrasound. Next best step per p189-190?",
+    "a": "Observation on the Peds NBME. On one Obgyn NBME form observation is wrong and the correct answer is oral contraceptive pills with re-ultrasound in 6 weeks; choose the latter over observation if both are listed and no contraindications; if only observation is listed, choose that.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "Review of ovarian cysts in children and adolescents: functional cysts often resolve spontaneously, and an expectant approach is advocated for simple cysts. I did not verify OCP with re-ultrasound as an exam answer. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11988711/"
+    }
+  },
+  {
+    "id": "s2peds-2677",
+    "category": "Peds vignettes",
+    "q": "14F who never had a period, with 1 week of constant severe pelvic pain, 6 months of intermittent pelvic pain, BP 90/50 and a bluish bulge in the upper vagina. Diagnosis and treatment per p190?",
+    "a": "Hematometra: imperforate hymen with blood collection in the uterus; vagal response causes low BP; treatment is cruciate incision of the hymen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls: imperforate hymen can present with a blue bulging perineal mass and cyclic pain from menstrual blood causing hematometra. I did not verify the vagal low BP mechanism or the cruciate incision in the passage I read. The source labels the bulge as upper vagina; StatPearls says perineal.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560576/"
+    }
+  },
+  {
+    "id": "s2peds-2678",
+    "category": "Peds vignettes",
+    "q": "14F who never had a period, with 6 months of intermittent pelvic pain, normal BP and a bluish bulge in the upper vagina. Diagnosis and treatment per p190?",
+    "a": "Hematocolpos: blood collection in the vaginal canal, not backed up to the uterus like hematometra; treatment is cruciate incision of the hymen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls Imperforate Hymen covers hematocolpos and hematometra. I did not verify the cruciate incision wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560576/"
+    }
+  },
+  {
+    "id": "s2peds-2679",
+    "category": "Peds vignettes",
+    "q": "16F with a vagina ending in a blind pouch, no cervix or uterus, absent or scanty pubic and axillary hair, and Tanner stage 4. Diagnosis and next step per p190?",
+    "a": "Androgen insensitivity syndrome; next step is karyotyping (46,XY).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls: AIS is a 46,XY difference of sex development with loss of virilization despite functioning testes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542206/"
+    }
+  },
+  {
+    "id": "s2peds-2680",
+    "category": "Peds vignettes",
+    "q": "16F with a vagina ending in a blind pouch, no cervix or uterus, coarse pubic and axillary hair, and Tanner stage 4. Diagnosis and next step per p190?",
+    "a": "Mullerian agenesis; next step is karyotyping (46,XX).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "MRKH review: uterovaginal agenesis with normal secondary sex characteristics and a normal 46,XX karyotype.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7439721/"
+    }
+  },
+  {
+    "id": "s2peds-2681",
+    "category": "Peds vignettes",
+    "q": "15M, 4 ft 10 in, with normal hormone levels and parents of normal height. Next best step per p190?",
+    "a": "Get a bone age. If bone age is less than chronologic age, constitutional growth delay (growth curve shifted right; will become average height); if equal, genuine short stature. A variant says he is Tanner stage 2 (has not yet gone through puberty, so will catch up).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls: constitutional growth delay and constitutional short stature are the most common benign causes of short stature. I did not verify the bone age step in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539780/"
+    }
+  },
+  {
+    "id": "s2peds-2682",
+    "category": "Peds vignettes",
+    "q": "16F, 4 ft 11 in, Tanner stage 2, with scattered nevi, a webbed neck, no menses and bone age equal to chronologic age. Diagnosis per p190?",
+    "a": "Turner syndrome (45,X); genuine short stature; LH and FSH are both high; eventual pregnancy is possible via IVF (surrogate); webbed neck reflects cystic hygroma (lymphatic insufficiency).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls: Turner features include short stature, delayed puberty, primary amenorrhea, neonatal lymphedema and a webbed neck. I did not verify the high gonadotropins or IVF pregnancy detail.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554621/"
+    }
+  },
+  {
+    "id": "s2peds-2683",
+    "category": "Peds vignettes",
+    "q": "15-month-old boy who was 25th percentile for length and weight 3 months ago, now 25th for length but 10th for weight. Next best step per p190?",
+    "a": "Recommend a diet diary with calorie counts.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls: failure to thrive includes a weight percentile drop of more than 2 major percentile lines or low weight-for-height. I did not verify the diet diary step.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459287/"
+    }
+  },
+  {
+    "id": "s2peds-2684",
+    "category": "Peds vignettes",
+    "q": "13F who ran outside in hot weather, very exhausted, body temp 102.2F, pulse 100. Diagnosis per p190?",
+    "a": "Heat exhaustion (high body temperature with no end-organ damage or failure); in contrast, heat stroke (definition continues on p191).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 190,
+      "url": "/mehlman/hy-pediatrics.pdf#page=190"
+    },
+    "guideline": {
+      "text": "StatPearls Heat Illness: heat injury involves organ injury and heat stroke involves CNS dysfunction, while heat exhaustion has similar symptoms without organ injury.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK553117/"
+    }
   }
 ];
