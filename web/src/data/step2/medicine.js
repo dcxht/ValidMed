@@ -16031,7 +16031,7 @@ export default [
       "url": "/mehlman/hy-internal-medicine.pdf#page=133"
     },
     "guideline": {
-      "text": "A review of IL-10 biology is linked; I did not verify the text. I did not verify the source's inclusion of etanercept, which I know is not effective in IBD per other sources.",
+      "text": "A review of IL-10 biology is linked; I did not verify the text. I did not verify the source's inclusion of etanercept in this list.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7037253/"
     }
   },

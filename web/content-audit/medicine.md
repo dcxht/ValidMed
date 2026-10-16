@@ -576,7 +576,7 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
 
 ## p133 (IBD basics, UC, Crohn start) - 10 cards, ids s2med-1203 to 1212
-- Conflict: 5-ASA first-line for Crohn vs 2025 ACG (unverified details). Source lists etanercept among IBD anti-TNF agents; I did not verify and believe it is not effective, so card says so as an unverified remark.
+- Conflict: 5-ASA first-line for Crohn vs 2025 ACG (unverified details). Source lists etanercept among IBD anti-TNF agents; I did not verify; the card flags it as unverified.
 
 ## p134 (Crohn imaging/pathology) - 5 cards, ids s2med-1213 to 1217
 - Figures inspected and mapped (skip lesion gross, creeping fat diagram, string sign barium).
