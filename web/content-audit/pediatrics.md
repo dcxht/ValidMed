@@ -1109,3 +1109,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: Rett only in girls (males documented); PCP mutism with constricted pupils not verified.
 - Left unverified: trisomy 18 features, maternal age over 40 claim, FAS flat nasal bridge, imaginary friends, arthrogryposis, PCP pupils.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p202 (Bullet points: toxicology) - 9 cards, ids s2peds-2797 to 2805
+- Inspected page text; no figures. Page ends mid-bullet at the caput succedaneum definition; the whole caput vs cephalohematoma comparison is carded on p203.
+- Notes verified against StatPearls (Cocaine, Amphetamine Toxicity, Caustic Ingestions, Salicylates Toxicity, TCA Toxicity) and CDC lead guidance; butane review cited by title only.
+- Source conflicts: salicylate bicarbonate mechanism says "oxalate" (should be salicylate); card keeps source answer with salicylate wording.
+- Left unverified: glue toxicity vignette, butane vignette, salicylate normal Na/K/Cl values, TCA dissociation mechanism and urinary excretion wording.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.

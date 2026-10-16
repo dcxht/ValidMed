@@ -40079,5 +40079,140 @@ export default [
       "text": "I did not verify mutism with constricted pupils as a PCP presentation in the StatPearls passage I read, which lists nystagmus and agitation features. Source answer kept without endorsement.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK507865/"
     }
+  },
+  {
+    "id": "s2peds-2797",
+    "category": "Peds vignettes",
+    "q": "16M found on the floor in a school bathroom, sluggish, with normal vitals and pupils. Diagnosis per p202?",
+    "a": "Butane toxicity (inhalant toxicity); a student had this on the actual USMLE.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "Review article on butane toxicity as a substance of abuse; I did not verify the clinical picture beyond its title.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35661589/"
+    }
+  },
+  {
+    "id": "s2peds-2798",
+    "category": "Peds vignettes",
+    "q": "14M with ataxia and cognitive decline. Diagnosis per p202?",
+    "a": "Glue toxicity, not ethanol.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "I did not verify this vignette from a source I read; inhalant abuse is the intended category. Source answer kept without a note.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35661589/"
+    }
+  },
+  {
+    "id": "s2peds-2799",
+    "category": "Peds vignettes",
+    "q": "14M with dilated pupils and tachycardia. Treatment per p202?",
+    "a": "Benzodiazepine (cocaine).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "StatPearls: cardiovascular toxicity and agitation from cocaine are optimally treated first-line with benzodiazepines.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430769/"
+    }
+  },
+  {
+    "id": "s2peds-2800",
+    "category": "Peds vignettes",
+    "q": "3M with microcytic anemia and a one-month history of poor coordination, anorexia, irritability and apathy. What could have prevented this per p202, and what is the treatment?",
+    "a": "Elimination of lead from the child's home; treat with succimer for kids (if lead levels are above 44 ug/dL). Lead can cause microcytic anemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "CDC: chelation therapy is recommended for blood lead levels of 45 micrograms per deciliter or higher, which is the same threshold. I did not verify the age wording.",
+      "url": "https://www.cdc.gov/lead-prevention/hcp/clinical-guidance/index.html"
+    }
+  },
+  {
+    "id": "s2peds-2801",
+    "category": "Peds vignettes",
+    "q": "14M with dilated pupils, visual hallucinations and staying up all night. Treatment per p202?",
+    "a": "Benzodiazepine (amphetamine).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "StatPearls: patients with agitation from amphetamine toxicity should be treated with parenteral benzodiazepines.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470276/"
+    }
+  },
+  {
+    "id": "s2peds-2802",
+    "category": "Peds vignettes",
+    "q": "2M with blisters on the tongue and mouth. Next best step and diagnosis per p202?",
+    "a": "Fiberoptic endoscopy; diagnosis is exposure to drain cleaner.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "StatPearls: early endoscopy shows favorable results in caustic ingestion. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557442/"
+    }
+  },
+  {
+    "id": "s2peds-2803",
+    "category": "Peds vignettes",
+    "q": "16F found by mom 20 minutes ago after consuming a bottle of aspirin in a suicide attempt, lethargic. What acid-base disturbance does she have per p202?",
+    "a": "Mixed metabolic acidosis and respiratory alkalosis. The presumption is we do not know how long ago she ingested and the lethargy might imply the acidosis has taken effect (acutely, salicylate toxicity causes isolated respiratory alkalosis). Another question wants the literal values for mixed: normal Na, normal K, normal Cl, low bicarb, low CO2, normal or low pH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "StatPearls: salicylate causes respiratory alkalosis, then metabolic acidosis; eventually the patient fatigues and metabolic acidosis prevails. The source's 'normal Na, K, Cl' values were not verified.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499879/"
+    }
+  },
+  {
+    "id": "s2peds-2804",
+    "category": "Peds vignettes",
+    "q": "Treatment for aspirin toxicity per p202, and why?",
+    "a": "Bicarbonate: increases excretion via urinary alkalinization, because the deprotonated (negatively charged) salicylate form cannot be reabsorbed through the tubular walls.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "Current caution: the source text says the deprotonated 'oxalate' form; the ionized drug is salicylate. StatPearls lists sodium bicarbonate urinary alkalinization in salicylate management. Source answer kept with the salicylate wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499879/"
+    }
+  },
+  {
+    "id": "s2peds-2805",
+    "category": "Peds vignettes",
+    "q": "16F with long history of depression on a new medication, large pupils, dry skin and QT changes on ECG. Treatment and mechanism per p202?",
+    "a": "Sodium bicarbonate; treatment for TCA toxicity. It causes dissociation of the TCA from myocardial sodium channels. TCA is basic, not acidic (in contrast to salicylates), so bicarb actually decreases urinary excretion, but the mechanism as an antidote is different. TCAs cause CCC: coma, convulsions, cardiotoxicity, plus anticholinergic, anti-alpha-1-adrenergic and anti-H1-histaminergic side effects.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 202,
+      "url": "/mehlman/hy-pediatrics.pdf#page=202"
+    },
+    "guideline": {
+      "text": "StatPearls: TCAs block peripheral alpha-adrenergic, histaminic, muscarinic and serotonin receptors; alpha blockade can cause hypotension. I did not verify the dissociation mechanism or urinary excretion wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430931/"
+    }
   }
 ];
