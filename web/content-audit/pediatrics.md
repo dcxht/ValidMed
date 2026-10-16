@@ -631,4 +631,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. No figures.
 - Notes verified against StatPearls Transient Synovitis, Reactive Arthritis, Nursemaid Elbow, Lateral Epicondylitis, Patellofemoral Pain Syndrome, Gonococcal arthritis. Differences kept as notes: rubella/hepatitis B+C not in StatPearls reactive arthritis triggers; chondromalacia is not a strict synonym for PFPS.
 - Left un-noted (not verified): Salmonella-in-sickle-cell exam rule, surgical drainage, toxic vs septic discriminators (weight bearing/leukocytosis not checked against Kocher), ibuprofen, gonococcus not causing reactive arthritis, golfer elbow muscles, strap treatments, reduction technique, jumper's knee treatment, patellofemoral instability vignette, obesity/squatting claim.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 20 cards ox=false off=false bad=0.
