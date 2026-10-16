@@ -14092,5 +14092,311 @@ export default [
       "text": "A review on gastric MALT lymphoma and H. pylori is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4962427/"
     }
+  },
+  {
+    "id": "s2med-1063",
+    "category": "IM Gastro",
+    "q": "Unconjugated (indirect) bilirubin per p117?",
+    "a": "Made from heme breakdown of RBCs at the spleen; leaves bound non-covalently to albumin, not water-soluble, so it does not show up in urine. Increased with hemolysis or increased RBC turnover (sickle cell, hereditary spherocytosis, blood given during surgery).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls on unconjugated hyperbilirubinemia is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549796/"
+    }
+  },
+  {
+    "id": "s2med-1064",
+    "category": "IM Gastro",
+    "q": "Conjugation of bilirubin and causes of rise in indirect per p117?",
+    "a": "At the liver bilirubin is taken up and conjugated to glucuronide, making it water-soluble (direct). A problem with uptake (acute hepatitis) or deficient conjugation enzyme (Gilbert, Crigler-Najjar) also raises indirect bilirubin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    },
+    "guideline": {
+      "text": "A StatPearls page on impaired bilirubin conjugation is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482483/"
+    }
+  },
+  {
+    "id": "s2med-1065",
+    "category": "IM Gastro",
+    "q": "Hemolysis raising direct bilirubin per p117?",
+    "a": "Direct can rise somewhat too, but the shift is toward indirect: more indirect entering the liver means more direct leaving. 2CK NBME: 9 packs of RBCs in surgery, days later total bilirubin 5.0 and direct 2.3: answer 'overproduction of bilirubin.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2med-1066",
+    "category": "IM Gastro",
+    "q": "Normal newborn hematocrit per p117?",
+    "a": "Source: Hct can be in the 50s in the first month (NR 45-61; adults 40-50). 2CK often shows a newborn Hct of 56%, which is normal, not polycythemia. Neonatal unconjugated jaundice can occur from increased RBC turnover as HbF is replaced by HbA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    },
+    "guideline": {
+      "text": "A paper on neonatal hematocrit reference ranges is linked; I did not verify the exact range.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19171584/"
+    }
+  },
+  {
+    "id": "s2med-1067",
+    "category": "IM Gastro",
+    "q": "Direct bilirubin and bile duct obstruction per p117?",
+    "a": "Direct bilirubin is water-soluble (appears in urine) and secreted into bile. Bile duct obstruction raises direct bilirubin and ALP (secreted by bile duct epithelium), so 'high ALP + high direct bilirubin' is buzzy. If ALP is high but direct bilirubin is not, think bone fractures or Paget disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    },
+    "guideline": {
+      "text": "A guideline on cholestatic liver disease is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9396310/"
+    }
+  },
+  {
+    "id": "s2med-1068",
+    "category": "IM Gastro",
+    "q": "GGT per p117?",
+    "a": "Rises with bile duct obstruction too (secreted by bile duct epithelium), but USMLE rarely mentions that. What they want: GGT spikes with acute alcohol consumption / binge drinking.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    },
+    "guideline": {
+      "text": "A guideline on abnormal liver blood tests is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5754852/"
+    }
+  },
+  {
+    "id": "s2med-1069",
+    "category": "IM Gastro",
+    "q": "Other findings of bile duct obstruction per p117?",
+    "a": "Urine becomes darker (direct bilirubin in urine) and stools pale ('acholic'; less direct bilirubin reaches the intestine, so less stercobilin). 'Dark urine + pale stools' is buzzy for obstruction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2med-1070",
+    "category": "IM Gastro",
+    "q": "Acute hepatitis and bilirubin per p117?",
+    "a": "Can raise direct bilirubin (decreased secretion into bile) in addition to indirect; makes sense as intrahepatic pathology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2med-1071",
+    "category": "IM Gastro",
+    "q": "Highest-yield cause of very high direct bilirubin per p117?",
+    "a": "Biliary atresia in neonates. Source calls Crigler-Najjar (very high indirect in neonates) nonexistent on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2med-1072",
+    "category": "IM Gastro",
+    "q": "Dubin-Johnson and Rotor per p117?",
+    "a": "Source: virtually nonexistent on USMLE; they raise direct bilirubin in adults due to decreased bile excretory pumps at the liver. Dubin-Johnson asked once on a new 2CK NBME form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls on Dubin-Johnson is linked; I did not verify the text. The frequency claim is the source's own.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536994/"
+    }
+  },
+  {
+    "id": "s2med-1073",
+    "category": "IM Gastro",
+    "q": "HY causes of bile duct obstruction per p117?",
+    "a": "Cholangitis, choledocholithiasis, choledochal cyst, head of pancreas cancer (impinging the common bile duct), and cholangiocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 117,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2med-1074",
+    "category": "IM Gastro",
+    "q": "Gilbert syndrome per p117-118?",
+    "a": "Partial deficiency of the UDP glucuronosyltransferase enzyme at the liver (source calls it a bilirubin uptake enzyme). Presents as isolated increased indirect bilirubin with yellow eyes in a young adult with a stressor (studying for exams, recent surgery/trauma); otherwise completely healthy. No treatment needed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls on impaired bilirubin conjugation is linked; I did not verify the text. UGT is generally described as a conjugation enzyme.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482483/"
+    }
+  },
+  {
+    "id": "s2med-1075",
+    "category": "IM Gastro",
+    "q": "Crigler-Najjar per p118?",
+    "a": "Near-absence of UDP-glucuronosyltransferase causing very high indirect bilirubin in a neonate. Source: nonexistent yield.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls on unconjugated hyperbilirubinemia is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549796/"
+    }
+  },
+  {
+    "id": "s2med-1076",
+    "category": "IM Gastro",
+    "q": "Dubin-Johnson per p118?",
+    "a": "Decreased bilirubin excretion into bile (decreased secretory pumps), causing increased direct bilirubin in an otherwise healthy adult. Can cause a black liver in theory. Asked once on a new 2CK NBME; otherwise nonexistent on USMLE material.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls on Dubin-Johnson is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK536994/"
+    }
+  },
+  {
+    "id": "s2med-1077",
+    "category": "IM Gastro",
+    "q": "Rotor syndrome per p118?",
+    "a": "Same as Dubin-Johnson but no black liver. Source: nonexistent diagnosis on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls on Rotor syndrome is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532306/"
+    }
+  },
+  {
+    "id": "s2med-1078",
+    "category": "IM Gastro",
+    "q": "Biliary atresia per p118?",
+    "a": "One of the highest-yield Peds diagnoses: answer for very high direct bilirubin in a kid under 6 weeks. Caused by lack of development of the intrahepatic bile ductules and biliary tree. Ultrasound first, but USMLE wants liver biopsy to confirm. Kasai procedure treats, followed by liver transplant if unsuccessful.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "A biliary atresia diagnostic and management guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13449986/"
+    }
+  },
+  {
+    "id": "s2med-1079",
+    "category": "IM Gastro",
+    "q": "Primary biliary cirrhosis presentation per p118?",
+    "a": "Inflammation and destruction of intrahepatic bile ducts. Woman in her 20s-50s with generalized pruritus, high cholesterol, high ALP, high direct bilirubin. USMLE often mentions autoimmune history (type I diabetes, SLE, vitiligo, a brother with RA). A gallbladder stone on ultrasound is a distractor (explained by high cholesterol).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "The disease is now called primary biliary cholangitis; a patient summary of the 2018 AASLD guidance is linked, I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8605692/"
+    }
+  },
+  {
+    "id": "s2med-1080",
+    "category": "IM Gastro",
+    "q": "Primary biliary cirrhosis diagnosis and treatment per p118?",
+    "a": "First step anti-mitochondrial antibodies, then liver biopsy to confirm. Initial treatment ursodeoxycholic acid (ursodiol).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "The AASLD guidance summary is linked; I did not verify whether biopsy is still routinely required.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8605692/"
+    }
+  },
+  {
+    "id": "s2med-1081",
+    "category": "IM Gastro",
+    "q": "Fat-soluble vitamins in PBC per p118?",
+    "a": "New NBME asks twice about fat-soluble vitamin malabsorption in PBC (deficiency of A and D, one each, with no supporting info). Decreased bile into the small bowel means decreased fat absorption; not special to PBC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2med-1082",
+    "category": "IM Gastro",
+    "q": "Autoimmune hepatitis per p118?",
+    "a": "Young adult with increased LFTs and positive anti-smooth muscle antibodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "A BSG autoimmune hepatitis guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40169244/"
+    }
+  },
+  {
+    "id": "s2med-1083",
+    "category": "IM Gastro",
+    "q": "Pancreatic head cancer per p118?",
+    "a": "Impinges on the common bile duct, causing obstructive jaundice (high ALP + high direct bilirubin) in a smoker with weight loss, or in a patient whose gallbladder was removed years ago (so not a CBD stone). Afebrile; can have dull abdominal pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls on pancreatic cancer is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK518996/"
+    }
+  },
+  {
+    "id": "s2med-1084",
+    "category": "IM Gastro",
+    "q": "Courvoisier sign per p118?",
+    "a": "Painless palpable gallbladder in an afebrile jaundiced patient: pancreatic cancer until proven otherwise (source: pass-level).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 118,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=118"
+    },
+    "guideline": {
+      "text": "StatPearls on pancreatic cancer is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK518996/"
+    }
   }
 ];

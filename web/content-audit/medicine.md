@@ -518,3 +518,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p116 (gastritis, gastric cancer) - 9 cards, ids s2med-1054 to 1062
 - Unverified: NSAID gastritis fundus/body claim.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p117 (bilirubin) - 11 cards, ids s2med-1063 to 1073
+- Unverified: newborn Hct range; frequency claims (Crigler-Najjar, Dubin-Johnson, Rotor) are the source's. Page ends mid-Gilbert, carried on p118.
+
+## p118 (bilirubin diseases, autoimmune liver, pancreatic cancer) - 11 cards, ids s2med-1074 to 1084
+- Conflict: PBC now named primary biliary cholangitis; biopsy requirement unverified. Gilbert enzyme described as uptake by source.
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
