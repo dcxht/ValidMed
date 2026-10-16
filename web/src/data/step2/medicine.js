@@ -40484,5 +40484,278 @@ export default [
       "text": "The brachial plexus review is linked on the previous card.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340930/"
     }
+  },
+  {
+    "id": "s2med-3037",
+    "category": "IM MSK",
+    "q": "Tenosynovitis per p311?",
+    "a": "Inflammation of tendon sheaths.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    }
+  },
+  {
+    "id": "s2med-3038",
+    "category": "IM MSK",
+    "q": "deQuervain tenosynovitis per p311?",
+    "a": "Classic in breastfeeding women and worsened with the Finkelstein test: 1) thumb placed in palm; 2) 2nd-5th fingers wrapped over the palm; 3) patient ulnar deviates the wrist, which causes pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "img": "/mehlman/figures/med-p311-01.jpg",
+    "imgAlt": "Source figure: Finkelstein test",
+    "guideline": {
+      "text": "A paper on steroid injection for de Quervain's is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12673635/"
+    }
+  },
+  {
+    "id": "s2med-3039",
+    "category": "IM MSK",
+    "q": "deQuervain Tx per p311?",
+    "a": "Patient should avoid the offending activity, but since this is often breastfeeding, steroid injection can provide immediate relief.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12673635/"
+    }
+  },
+  {
+    "id": "s2med-3040",
+    "category": "IM MSK",
+    "q": "Ganglion cyst per p311?",
+    "a": "Gelatinous collection of joint fluid; can occur on ankles and flexor areas too, but the classic location is the dorsum of the hand/wrist. If asked for the most likely trajectory if untreated: spontaneous regression.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "img": "/mehlman/figures/med-p311-02.jpg",
+    "imgAlt": "Source figure: dorsal wrist ganglion cyst",
+    "guideline": {
+      "text": "A systematic review of dorsal wrist ganglion treatment is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10010899/"
+    }
+  },
+  {
+    "id": "s2med-3041",
+    "category": "IM MSK",
+    "q": "Ganglion cyst Tx per p311?",
+    "a": "Needle drainage if disturbing to the patient; recurrence is common because the root opening to the tendon sheath is not removed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10010899/"
+    }
+  },
+  {
+    "id": "s2med-3042",
+    "category": "IM MSK",
+    "q": "Lateral epicondylitis per p311?",
+    "a": "Tennis elbow. Lateral elbow pain worsened when the patient extends the wrist against resistance. NBME asks 'extensor carpi radialis brevis' as the site of inflammation. Tx = 'forearm strap' on 2CK forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "A trial of counterforce bracing is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30658774/"
+    }
+  },
+  {
+    "id": "s2med-3043",
+    "category": "IM MSK",
+    "q": "Medial epicondylitis per p311?",
+    "a": "Golfer elbow. Medial elbow pain worsened when the patient flexes the wrist against resistance. Inflammation at flexor carpi radialis and pronator teres. Tx = forearm strap.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "A patient information page on golfer's elbow is linked (title only); I did not verify the muscle sites.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507002/"
+    }
+  },
+  {
+    "id": "s2med-3044",
+    "category": "IM MSK",
+    "q": "Radial head subluxation per p311?",
+    "a": "Aka 'nursemaid elbow'. Child stops using the arm; arm pronated and partially flexed. History of the child's arm being pulled/yanked, or holding hands and running with an older sibling and falling, causing an elbow pull.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "A meta-analysis of reduction maneuvers for nursemaid's elbow is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27836316/"
+    }
+  },
+  {
+    "id": "s2med-3045",
+    "category": "IM MSK",
+    "q": "Radial head subluxation Tx per p311?",
+    "a": "Hyper-pronation, OR supination when the arm is partially flexed. Either is correct; both will not be listed as answers at the same time.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "The same meta-analysis is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27836316/"
+    }
+  },
+  {
+    "id": "s2med-3046",
+    "category": "IM MSK",
+    "q": "Olecranon bursitis per p311?",
+    "a": "Elbow pain, usually following a contact injury. Tx = compression bandage + NSAIDs. Steroid injection is the wrong answer on USMLE per the source.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 311,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=311"
+    },
+    "guideline": {
+      "text": "A randomized trial of compression plus NSAIDs, aspiration, and aspiration with steroid in olecranon bursitis is linked (title only). I did not verify the 'steroid is wrong' claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746156/"
+    }
+  },
+  {
+    "id": "s2med-3047",
+    "category": "IM MSK",
+    "q": "Cervical spondylosis per p312?",
+    "a": "The answer if a patient over 50 has neck pain and MRI shows degenerative changes of the cervical spine. Can occur in the lumbar spine, but USMLE likes the cervical spine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "A review of MRI in degenerative cervical myelopathy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27246488/"
+    }
+  },
+  {
+    "id": "s2med-3048",
+    "category": "IM MSK",
+    "q": "Spondylosis definition per p312?",
+    "a": "The source says technically defined as degeneration of the pars interarticularis component of the vertebral body. The figure shows the pars interarticularis and a pars stress fracture.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    },
+    "img": "/mehlman/figures/med-p312-01.jpg",
+    "imgAlt": "Source figure: pars interarticularis and pars stress fracture"
+  },
+  {
+    "id": "s2med-3049",
+    "category": "IM MSK",
+    "q": "Atlantoaxial subluxation per p312?",
+    "a": "Increased mobility between the first (atlas) and second (axis) vertebrae. Really high-yield on 2CK forms with rheumatoid arthritis patients.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "A paper on airway management in rheumatic disease is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6532113/"
+    }
+  },
+  {
+    "id": "s2med-3050",
+    "category": "IM MSK",
+    "q": "Atlantoaxial subluxation before intubation per p312?",
+    "a": "Must do CT or flexion/extension x-rays of the cervical spine before surgery when a patient will be intubated; the source has seen both as answers for different Surg questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6532113/"
+    }
+  },
+  {
+    "id": "s2med-3051",
+    "category": "IM MSK",
+    "q": "RA with upper limb paresthesias per p312?",
+    "a": "A question on a Neuro CMS form gives an RA patient not undergoing surgery with paresthesias of the upper limbs; the answer is just MRI of the cervical spine (implying atlantoaxial subluxation has already occurred).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2med-3052",
+    "category": "IM MSK",
+    "q": "Lumbar spinal stenosis per p312?",
+    "a": "Narrowing of the spinal canal. The answer if a patient over 50 has lower back pain worse when walking down a hill (relieved when leaning forward) or with extended standing/walking.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    },
+    "img": "/mehlman/figures/med-p312-02.jpg",
+    "imgAlt": "Source figure: normal vertebra vs spinal stenosis",
+    "guideline": {
+      "text": "A systematic review of non-operative treatment of lumbar stenosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772406/"
+    }
+  },
+  {
+    "id": "s2med-3053",
+    "category": "IM MSK",
+    "q": "Neurogenic claudication per p312?",
+    "a": "The vignette sounds like intermittent claudication, but it makes clear the peripheral pulses are normal and the patient has no cardiovascular disease; shows up particularly on 2CK Neuro CMS forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2med-3054",
+    "category": "IM MSK",
+    "q": "Lumbar stenosis risk per p312?",
+    "a": "Technically an osteoarthritic change of the spine, so increased risk in obesity (not mandatory for questions).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    }
+  },
+  {
+    "id": "s2med-3055",
+    "category": "IM MSK",
+    "q": "Cervical foraminal stenosis per p312?",
+    "a": "The answer if an old woman has difficulty fastening buttons, weakness of hand muscles, and loss of sensation of the little finger: 'C7-T1 foraminal stenosis' (offline NBME 20). Not stenosis of the cervical spinal canal, but of the foramen where the nerve exits.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 312,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=312"
+    },
+    "guideline": {
+      "text": "A paper on MRI grading of cervical foraminal stenosis is linked (title only). I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3635796/"
+    }
   }
 ];

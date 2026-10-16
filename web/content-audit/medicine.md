@@ -1057,3 +1057,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 
 ## p310 (winged scapula, brachial plexus) - 4 cards, ids s2med-3033 to 3036
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p311 (other upper limb DDx) - 10 cards, ids s2med-3037 to 3046
+- Olecranon bursitis "steroid injection wrong" unverified.
+- Medial epicondylitis muscle sites unverified.
+
+## p312 (spinal conditions) - 9 cards, ids s2med-3047 to 3055
+- Spondylosis defined as pars interarticularis degeneration (usually spondylolysis); kept as source with caution; figure placed by page order.
+- NBME 20 C7-T1 claim unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
