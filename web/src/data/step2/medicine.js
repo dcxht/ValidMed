@@ -46604,5 +46604,331 @@ export default [
       "text": "A meta-analysis of S. gallolyticus infection in colorectal cancer is linked (title only).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/21960713/"
     }
+  },
+  {
+    "id": "s2med-3471",
+    "category": "IM Endocrine",
+    "q": "Where is ADH made and what does it do per p347?",
+    "a": "ADH (vasopressin) is produced by the supraoptic and paraventricular nuclei of the hypothalamus and stored in the posterior pituitary. It increases free water reabsorption at the medullary collecting duct (MCD) by causing aquaporin insertion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    }
+  },
+  {
+    "id": "s2med-3472",
+    "category": "IM Endocrine",
+    "q": "ADH high vs low effects on serum and urine per p347?",
+    "a": "High ADH: more free water reabsorption, serum diluted (serum sodium and osmolality down), urine more concentrated (urine osmolality and specific gravity up). Low ADH: the opposite (serum sodium and osmolality up, urine dilute with osmolality and specific gravity down).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    }
+  },
+  {
+    "id": "s2med-3473",
+    "category": "IM Endocrine",
+    "q": "Which brain cells sense osmolality per p347?",
+    "a": "Hypothalamic osmoreceptor cells, located in the organum vasculosum of the lamina terminalis (OVLT) and the subfornical organ. High serum osmolality makes them stimulate the nearby supraoptic and paraventricular nuclei.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    },
+    "guideline": {
+      "text": "A paper on osmotic regulation of vasopressin by the lamina terminalis is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15089972/"
+    }
+  },
+  {
+    "id": "s2med-3474",
+    "category": "IM Endocrine",
+    "q": "Causes of SIADH per p347?",
+    "a": "SIADH means too much ADH. Central: head trauma, meningitis, brain cancer, pain (the latter on 2CK Surg). Ectopic: small cell lung cancer secreting ADH. Drug-induced is ultra-rare on USMLE, but carbamazepine can do it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    },
+    "guideline": {
+      "text": "A review of inpatient hyponatraemia and SIADH is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4744950/"
+    }
+  },
+  {
+    "id": "s2med-3475",
+    "category": "IM Endocrine",
+    "q": "SIADH lab pattern per p347?",
+    "a": "Dilute serum and concentrated urine: serum sodium down (normal 135-145 mEq/L, so <135), serum osmolality down, serum specific gravity down; urinary osmolality and specific gravity up. Exact osmolalities don't need memorizing (e.g., serum 250 vs urine 750 means serum dilute vs urine).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    }
+  },
+  {
+    "id": "s2med-3476",
+    "category": "IM Endocrine",
+    "q": "Specific gravity ranges per p347?",
+    "a": "On USMLE it is 1.000-1.030. The source's observation: about 1.000-1.006 is 'dilute' and 1.024-1.030 is 'concentrated'; for 9/10 questions values are what you expect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    }
+  },
+  {
+    "id": "s2med-3477",
+    "category": "IM Endocrine",
+    "q": "Nephron tonicity in SIADH per p347?",
+    "a": "PCT isotonic (always); JGA (top of thick ascending limb) hypotonic (always); MCD hypertonic in SIADH since free water is pulled out of the urine. Only the MCD osmolality changes with ADH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    }
+  },
+  {
+    "id": "s2med-3478",
+    "category": "IM Endocrine",
+    "q": "First diagnostic step for SIADH on 2CK per p347?",
+    "a": "Fluid restriction, to see how serum/urinary values change.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    }
+  },
+  {
+    "id": "s2med-3479",
+    "category": "IM Endocrine",
+    "q": "Treatment of SIADH with demeclocycline per p347?",
+    "a": "Demeclocycline is the answer on 2CK offline NBME 8. It is a tetracycline antibiotic but causes insensitivity to ADH at the kidney (nephrogenic DI), so it cancels out the first problem with a second.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    },
+    "guideline": {
+      "text": "A systematic review of demeclocycline for SIADH hyponatraemia is linked (title only). Current guidance may favor other options; I did not verify.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5042094/"
+    }
+  },
+  {
+    "id": "s2med-3480",
+    "category": "IM Endocrine",
+    "q": "ADH receptor antagonists per p347?",
+    "a": "Conivaptan and tolvaptan can be used for SIADH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    },
+    "guideline": {
+      "text": "A meta-analysis of vaptans in SIADH is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10488023/"
+    }
+  },
+  {
+    "id": "s2med-3481",
+    "category": "IM Endocrine",
+    "q": "Central vs nephrogenic DI per p347?",
+    "a": "Central DI: not enough ADH secretion by the hypothalamus, or the posterior pituitary can't release it. Nephrogenic DI: insensitivity to ADH at the kidney (serum ADH is high).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    },
+    "guideline": {
+      "text": "A review of central and nephrogenic DI is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11750692/"
+    }
+  },
+  {
+    "id": "s2med-3482",
+    "category": "IM Endocrine",
+    "q": "Central DI causes per p347 (continued on p348)?",
+    "a": "Similar to central SIADH: head trauma, meningitis, and cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 347,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=347"
+    }
+  },
+  {
+    "id": "s2med-3483",
+    "category": "IM Endocrine",
+    "q": "Causes of nephrogenic DI per p348?",
+    "a": "Lithium, demeclocycline, hypercalcemia, and NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    },
+    "guideline": {
+      "text": "A case report of lithium-induced nephrogenic DI is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11157307/"
+    }
+  },
+  {
+    "id": "s2med-3484",
+    "category": "IM Endocrine",
+    "q": "NSAID and ADH NBME point per p348?",
+    "a": "An NBME question about the response to ADH in a patient on chronic NSAIDs: the answer is 'no change' in response to ADH and in urinary osmolality.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3485",
+    "category": "IM Endocrine",
+    "q": "Hypercalcemia and DI per p348?",
+    "a": "A 2CK question gives primary hyperparathyroidism with very high serum calcium and nephrogenic DI; the cause of the DI is hypercalcemia (high calcium causes renal insensitivity to vasopressin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3486",
+    "category": "IM Endocrine",
+    "q": "DI lab pattern per p348?",
+    "a": "Opposite of SIADH: serum sodium up (>145 mEq/L), serum osmolality and specific gravity up; urinary osmolality and specific gravity down.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3487",
+    "category": "IM Endocrine",
+    "q": "Nephron tonicity in DI per p348?",
+    "a": "PCT isotonic; JGA hypotonic; MCD hypotonic (not pulling free water out of the urine).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3488",
+    "category": "IM Endocrine",
+    "q": "Diagnosing DI per p348?",
+    "a": "First step is fluid restriction (same as SIADH). If urine stays dilute and serum stays concentrated, next best step is desmopressin. If urine concentrates, central DI (deficient in ADH); if not, nephrogenic DI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    },
+    "guideline": {
+      "text": "A review of diagnosis and management of DI is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11750692/"
+    }
+  },
+  {
+    "id": "s2med-3489",
+    "category": "IM Endocrine",
+    "q": "Desmopressin response caveat per p348?",
+    "a": "Even in nephrogenic DI desmopressin may work a little, but in central DI it raises urinary osmolality robustly. It will be obvious on USMLE; don't rule out nephrogenic DI because it worked 'like 5%'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3490",
+    "category": "IM Endocrine",
+    "q": "Treatment of central DI per p348?",
+    "a": "Desmopressin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3491",
+    "category": "IM Endocrine",
+    "q": "Treatment of nephrogenic DI per p348?",
+    "a": "NSAID plus a thiazide, per the source. Thiazides reduce Na+ reabsorption in the early DCT, causing compensatory increase in the PCT where water follows Na+, so net fluid loss is less (in healthy people they lose more). The NSAID presumably lowers renal blood flow, GFR and net fluid loss.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    },
+    "guideline": {
+      "text": "A case report reviewing lithium NDI treated with desmopressin, thiazides and NSAIDs is linked (title only). I did not verify the mechanism wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11157307/"
+    }
+  },
+  {
+    "id": "s2med-3492",
+    "category": "IM Endocrine",
+    "q": "Lithium + polyuria 2CK question per p348?",
+    "a": "A difficult 2CK NBME question: patient on lithium with increased urinary output; fluid restriction is wrong (normally right 9/10 times); the answer is NSAID + thiazide diuretic. If nephrogenic DI is already obvious, going straight to treatment is acceptable.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3493",
+    "category": "IM Endocrine",
+    "q": "Psychogenic polydipsia per p348?",
+    "a": "The patient simply drinks too much. Both urine and serum are dilute: serum sodium <135, serum osmolality and specific gravity down, urinary osmolality and specific gravity down.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    },
+    "guideline": {
+      "text": "A review of psychogenic polydipsia is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17521521/"
+    }
+  },
+  {
+    "id": "s2med-3494",
+    "category": "IM Endocrine",
+    "q": "Recognizing psychogenic polydipsia per p348?",
+    "a": "About 3/4 of questions are obvious psych vignettes (e.g., drinking to 'clear himself from evil spirits'); about 1/4 only show labs where both urine and serum are dilute. First diagnostic step is fluid restriction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3495",
+    "category": "IM Endocrine",
+    "q": "Acromegaly per p348?",
+    "a": "Excess growth hormone secretion (usually by a tumor) after closure of the growth plates; before closure it causes gigantism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    }
+  },
+  {
+    "id": "s2med-3496",
+    "category": "IM Endocrine",
+    "q": "What to check for acromegaly per p348?",
+    "a": "GH goes to the liver, which secretes IGF-1; IGF-1 induces the growth effects. An NBME question gives an easy acromegaly vignette: serum GH is wrong; the answer is serum IGF-1.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 348,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=348"
+    },
+    "guideline": {
+      "text": "A consensus paper on acromegaly diagnosis criteria is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10837217/"
+    }
   }
 ];

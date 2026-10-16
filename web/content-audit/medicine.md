@@ -1194,3 +1194,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p346 (metastases, malignancy-associated microbes) - 15 cards, ids s2med-3456 to 3470
 - HTLV/mycosis fungoides-Sezary association: source claim, unverified, no note (a PubMed title seen in search suggested these may not be HTLV-related).
 - Mobile QA (320x740, local vite preview build, not live): all 34 cards ox=false off=false bad=0.
+
+## p347 (Endocrine: vasopressin, SIADH) - 12 cards, ids s2med-3471 to 3482
+- Specific gravity cutoffs: author's observation, flagged unverified. Demeclocycline note says current guidance not verified.
+
+## p348 (DI, psychogenic polydipsia, acromegaly start) - 14 cards, ids s2med-3483 to 3496
+- NSAID+thiazide mechanism wording: source, unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.
