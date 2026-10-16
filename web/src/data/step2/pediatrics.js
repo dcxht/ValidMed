@@ -24836,5 +24836,288 @@ export default [
       "page": 116,
       "url": "/mehlman/hy-pediatrics.pdf#page=116"
     }
+  },
+  {
+    "id": "s2peds-1736",
+    "category": "Tic disorders",
+    "q": "How does p117 define tic disorders, and what do motor tics range from?",
+    "a": "A neurologic disorder of repetitive, involuntary movements and vocalizations. Motor tics range from eye blinking, head jerking or shoulder shrugging to complex movements such as hopping, twirling or mimicking others' actions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls: Tourette syndrome and other tic disorders are neurodevelopmental conditions of motor and vocal tics beginning in childhood.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499958/"
+    }
+  },
+  {
+    "id": "s2peds-1737",
+    "category": "Tourette syndrome",
+    "q": "What vocal tics does p117 list for Tourette?",
+    "a": "Throat clearing, sniffing or humming. More complex vocal tics include repeating words or phrases, or shouting inappropriate words (coprolalia).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1738",
+    "category": "Tourette syndrome",
+    "q": "Which two drugs does p117 say are used for Tourette and appear on the NBME?",
+    "a": "Haloperidol (a typical antipsychotic, D2 antagonist) and clonidine (an alpha-2 agonist).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "AAN systematic review: high confidence that CBIT (behavioral therapy) reduces tics more than supportive therapy; moderate confidence for haloperidol, risperidone, aripiprazole and clonidine. Behavioral therapy is current first-line for many patients; the source's drug answers are exam-level.",
+      "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000007467"
+    }
+  },
+  {
+    "id": "s2peds-1739",
+    "category": "Provisional tic disorder",
+    "q": "What does p117 say about a single tic lasting up to a year in a child?",
+    "a": "It is normal in pediatrics for a child to sometimes have a single tic lasting up to a year (for example an unusual tongue or lip gesture). Provisional tic disorder has a very low chance of progressing to chronic tic disorder or Tourette.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "CDC: provisional tic disorder means motor or vocal tics (or both) for less than 1 year.",
+      "url": "https://www.cdc.gov/tourette-syndrome/diagnosis/index.html"
+    }
+  },
+  {
+    "id": "s2peds-1740",
+    "category": "Provisional tic disorder",
+    "q": "What next best step does the USMLE want for provisional tic disorder on p117?",
+    "a": "Follow-up in 3-6 months (observe).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1741",
+    "category": "PANDAS",
+    "q": "What is PANDAS on p117?",
+    "a": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci: group A strep pharyngitis can cause a tic disorder, OCD or ADHD in the weeks after infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls: PANDAS describes sudden-onset OCD and/or tics following streptococcal infection in children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK606088/"
+    }
+  },
+  {
+    "id": "s2peds-1742",
+    "category": "PANDAS",
+    "q": "What vignette and answer does p117 give for PANDAS?",
+    "a": "A kid with a sore throat two weeks ago who now has a new-onset tic, ADHD or OCD. Asked what will most likely diagnose the etiology, the answer is anti-streptolysin O (ASO) titers.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls PANDAS: cultures and antibody tests support evidence of streptococcal infection but are not definitive markers for PANDAS itself.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK606088/"
+    }
+  },
+  {
+    "id": "s2peds-1743",
+    "category": "Drug-induced tics",
+    "q": "Which drugs does p117 say can cause tics, and which antipsychotic effect counts as a tic disorder?",
+    "a": "Stimulants (methylphenidate, amphetamines) and caffeine can cause tics. Tardive dyskinesia from antipsychotics is considered a type of tic disorder.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1744",
+    "category": "Trichotillomania",
+    "q": "How does p117 describe trichotillomania and its NBME complication?",
+    "a": "Pulling out one's hair, which can be anywhere (eyebrows, scalp). The patient may also eat the hair, leading to a gastric bezoar (asked on NBME), an undigestible mass that can cause bowel obstruction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls: hair can be pulled from the head or anywhere. A trichophagia review covers hair ingestion and bezoar risk.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK493186/"
+    }
+  },
+  {
+    "id": "s2peds-1745",
+    "category": "Skin-picking disorder",
+    "q": "What is skin-picking disorder on p117?",
+    "a": "Also called excoriation disorder. The patient picks at the skin, leading to skin lesions.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1746",
+    "category": "Body dysmorphic disorder",
+    "q": "How does p117 define body dysmorphic disorder?",
+    "a": "Excessive preoccupation with one or more aspects of one's appearance, leading to socio-occupational dysfunction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls: BDD involves preoccupation with perceived physical defects; CBT and medication are part of treatment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555901/"
+    }
+  },
+  {
+    "id": "s2peds-1747",
+    "category": "Trichotillomania",
+    "q": "What treatment does p117 give for trichotillomania, skin-picking disorder and body dysmorphic disorder?",
+    "a": "CBT can be attempted for all of them; otherwise antidepressants like SSRIs can be tried.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1748",
+    "category": "Child abuse findings",
+    "q": "Which fracture findings does p117 list as important child abuse clues?",
+    "a": "Spiral fractures (rotational or twisting force) and posterior rib fractures (squeezing).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "Radiology review: injuries highly specific for abuse include metaphyseal corner fractures and posteromedial rib fractures.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3032862/"
+    }
+  },
+  {
+    "id": "s2peds-1749",
+    "category": "Child abuse findings",
+    "q": "Which burn findings does p117 list as child abuse clues?",
+    "a": "Circular burns (cigarettes), and burns sparing the flexor regions (from being dipped in hot water, because the child flexes the limbs to reduce exposed surface).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1750",
+    "category": "Child abuse findings",
+    "q": "What eye and head findings does p117 list for abuse?",
+    "a": "Retinal detachment or hemorrhages, and subdural hematoma (shaken baby syndrome).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "StatPearls abusive head trauma chapter covers inflicted head injury in infants and young children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499836/"
+    }
+  },
+  {
+    "id": "s2peds-1751",
+    "category": "Child abuse findings",
+    "q": "What does p117 say about avoidance of eye contact in a child with a history of meningitis?",
+    "a": "Avoidance of eye contact is a child abuse finding, but if they give a history of meningitis, think neurosensory hearing loss instead.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1752",
+    "category": "Developmental milestones",
+    "q": "How does p117 say the USMLE tests developmental milestones?",
+    "a": "It asks 'normal' or 'delayed' for gross motor, fine motor, verbal and social milestones.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2peds-1753",
+    "category": "Developmental milestones: gross motor",
+    "q": "At what age does a baby hold the head up unassisted, per p117?",
+    "a": "Head up at 3 months (can support own head unassisted).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "CDC 4-month checklist: holds head steady without support when held. CDC checklists (revised 2022) place each milestone at the age by which 75% or more of children achieve it, so some ages run later than older exam tables.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1754",
+    "category": "Developmental milestones: gross motor",
+    "q": "At what age does a baby turn over front to back, per p117?",
+    "a": "4-5 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "CDC lists rolling from tummy to back on the 6-month checklist. CDC checklists (revised 2022) place each milestone at the age by which 75% or more of children achieve it, so some ages run later than older exam tables.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1755",
+    "category": "Developmental milestones: gross motor",
+    "q": "At what age does a baby sit up, per p117?",
+    "a": "6 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "CDC lists sitting without support on the 9-month checklist. CDC checklists (revised 2022) place each milestone at the age by which 75% or more of children achieve it, so some ages run later than older exam tables.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
+  },
+  {
+    "id": "s2peds-1756",
+    "category": "Developmental milestones: gross motor",
+    "q": "At what age does a baby crawl, per p117?",
+    "a": "By 9 months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 117,
+      "url": "/mehlman/hy-pediatrics.pdf#page=117"
+    },
+    "guideline": {
+      "text": "CDC checklists list getting to a sitting position and sitting without support at 9 months; crawling is not a listed checklist milestone. Source age kept as written.",
+      "url": "https://www.cdc.gov/act-early/media/pdfs/2025/10/cdc-milestone-checklists-ltsae-english-508.pdf"
+    }
   }
 ];
