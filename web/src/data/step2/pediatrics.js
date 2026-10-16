@@ -26828,5 +26828,108 @@ export default [
       "text": "StatPearls: iris pigment is reduced and varies from pink to light blue, green, gray or light brown; transillumination gives a pink spoke-wheel appearance.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK519018/"
     }
+  },
+  {
+    "id": "s2peds-1878",
+    "category": "Iris abnormalities",
+    "q": "What does the p125 photo at the top of the page (continuing the albinism entry) show?",
+    "a": "An albinism eye with a pink-red iris, matching the p124 point that albinism can cause pale blue or pink irides.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 125,
+      "url": "/mehlman/hy-pediatrics.pdf#page=125"
+    },
+    "img": "/mehlman/figures/peds-p125-albinism-red-reflex-eye.png",
+    "imgAlt": "Actual source photograph (continuing the p124 albinism entry) of an eye with a pink-red iris and pupil"
+  },
+  {
+    "id": "s2peds-1879",
+    "category": "Lisch nodules",
+    "q": "What are Lisch nodules and in which condition does p125 say they occur?",
+    "a": "Iris hamartomas seen in NF1.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 125,
+      "url": "/mehlman/hy-pediatrics.pdf#page=125"
+    },
+    "img": "/mehlman/figures/peds-p125-lisch-nodules.png",
+    "imgAlt": "Actual source photograph of an iris covered with brown-orange Lisch nodules",
+    "guideline": {
+      "text": "StatPearls lists Lisch nodules among the initial clinical manifestations of NF1.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459358/"
+    }
+  },
+  {
+    "id": "s2peds-1880",
+    "category": "Neurofibromatosis type 1",
+    "q": "Which skin findings of NF1 does p125 list?",
+    "a": "Axillary and groin freckling, café au lait spots (hyperpigmented macules) and neurofibromas (nodules under the skin).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 125,
+      "url": "/mehlman/hy-pediatrics.pdf#page=125"
+    },
+    "guideline": {
+      "text": "StatPearls: café-au-lait macules, axillary or inguinal freckling and neurofibromas are initial manifestations of NF1.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459358/"
+    }
+  },
+  {
+    "id": "s2peds-1881",
+    "category": "Neurofibromatosis type 1",
+    "q": "Which CN II tumor does p125 list for NF1?",
+    "a": "Optic glioma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 125,
+      "url": "/mehlman/hy-pediatrics.pdf#page=125"
+    },
+    "guideline": {
+      "text": "StatPearls: optic glioma usually appears around 1 to 3 years of age in NF1.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459358/"
+    }
+  },
+  {
+    "id": "s2peds-1882",
+    "category": "Neurofibromatosis type 1",
+    "q": "Which other tumors does p125 list with NF1?",
+    "a": "Pheochromocytoma, and brain cancers such as ependymoma and oligodendroglioma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 125,
+      "url": "/mehlman/hy-pediatrics.pdf#page=125"
+    },
+    "guideline": {
+      "text": "Check: StatPearls names ependymoma as a hallmark of NF2, not NF1. The source answer is kept as written, but do not rely on ependymoma as an NF1 feature.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459358/"
+    }
+  },
+  {
+    "id": "s2peds-1883",
+    "category": "Brushfield spots",
+    "q": "What are Brushfield spots and in which condition does p125 say they occur?",
+    "a": "Connective tissue deposits within the irides of some patients with Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 125,
+      "url": "/mehlman/hy-pediatrics.pdf#page=125"
+    },
+    "img": "/mehlman/figures/peds-p125-brushfield-spots.png",
+    "imgAlt": "Actual source photographs of two irides with Brushfield spots, small white and orange-yellow speckles in a ring on the iris",
+    "guideline": {
+      "text": "PMC review: benign white, gray or brown spots on the anterior iris, an accumulation of iris stromal and connective tissue hyperplasia.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9252013/"
+    }
+  },
+  {
+    "id": "s2peds-1884",
+    "category": "Brushfield spots",
+    "q": "Lisch nodules vs Brushfield spots on p125: which syndrome goes with each?",
+    "a": "Lisch nodules (iris hamartomas): NF1. Brushfield spots (iris connective tissue deposits): Down syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 125,
+      "url": "/mehlman/hy-pediatrics.pdf#page=125"
+    }
   }
 ];

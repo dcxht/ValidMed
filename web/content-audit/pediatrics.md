@@ -579,3 +579,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Left un-noted: "buzzy image" exam-frequency remark, "bursting of superficial conjunctival vessels" mechanism wording.
 - p123's cut-off last line ("Marfan and Alport can also cause eye issues, but") does not continue on p124; it is a source truncation, nothing to add.
 - Mobile QA (320x740, live, local headless Chrome): all 9 cards ox=false off=false bad=0; photo cards render; long answers scroll inside the card.
+
+## p125 (albinism photo, Lisch nodules, NF1, Brushfield spots) - 7 cards, ids s2peds-1878 to 1884
+- Inspected page pixels. Three source photos added: albinism red-eye photo continuing from p124, Lisch nodules, Brushfield spots (two irides).
+- Notes verified against StatPearls NF1 and a PMC Down syndrome ocular review.
+- Source conflict flagged: p125 lists ependymoma under NF1; StatPearls names ependymoma as a hallmark of NF2. Source answer kept, note warns. Oligodendroglioma and pheochromocytoma in NF1 not verified here.
+- Left un-noted: "iris hamartomas" wording for Lisch nodules, the albinism photo description.
+- Mobile QA: PENDING
