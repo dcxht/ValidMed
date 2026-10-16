@@ -56832,5 +56832,533 @@ export default [
       "page": 417,
       "url": "/mehlman/hy-internal-medicine.pdf#page=417"
     }
+  },
+  {
+    "id": "s2med-4351",
+    "category": "IM Mixed",
+    "q": "80F with a catheter: best way to decrease infection risk per p418?",
+    "a": "Hand washing (the source says all other listed answers sound reasonable).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4352",
+    "category": "IM Mixed",
+    "q": "17M with mononucleosis: best way to decrease transmission per p418?",
+    "a": "Hand washing (the source agrees it seems odd versus kissing/sharing cups, but says USMLE wants handwashing).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4353",
+    "category": "IM Mixed",
+    "q": "72M claudication + absent distal pulses + prior CABG + BP rising over two years per p418?",
+    "a": "Renal artery stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4354",
+    "category": "IM Mixed",
+    "q": "32F with high BP + high aldosterone/renin per p418?",
+    "a": "Fibromuscular dysplasia (tunica media proliferation in renal arteries), not 'renal artery stenosis', which the source says implies atherosclerosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4355",
+    "category": "IM Mixed",
+    "q": "Creatinine rises after a drug in someone with renal artery stenosis per p418?",
+    "a": "ACE inhibitor or ARB.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4356",
+    "category": "IM Mixed",
+    "q": "Treatment of RAS and FMD per p418?",
+    "a": "Initially medical therapy with cautious ACEi or ARB; definitive is renal angioplasty + stenting; FMD is not curable.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4357",
+    "category": "IM Mixed",
+    "q": "Diagnosis of malaria per p418?",
+    "a": "Thick and thin blood smears, not antibody titer for Plasmodium species.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4358",
+    "category": "IM Mixed",
+    "q": "Girl on chloroquine prophylaxis in Africa gets malaria anyway: non-adherence or resistance per p418?",
+    "a": "Resistance to chloroquine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4359",
+    "category": "IM Mixed",
+    "q": "MOA of chloroquine per p418?",
+    "a": "Inhibits Plasmodium heme polymerase (source wording).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4360",
+    "category": "IM Mixed",
+    "q": "Worst malaria type per p418?",
+    "a": "P. falciparum, because it causes cerebral malaria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4361",
+    "category": "IM Mixed",
+    "q": "Fever cycles in malaria per p418?",
+    "a": "P. vivax/ovale every 48 hours; P. malariae every 72 hours; P. falciparum sporadic/unpredictable.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4362",
+    "category": "IM Mixed",
+    "q": "Prophylaxis for chloroquine-resistant areas per p418?",
+    "a": "Mefloquine (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4363",
+    "category": "IM Mixed",
+    "q": "Treated with atovaquone + proguanil, malaria recurs one month later per p418?",
+    "a": "Reactivation of the non-erythrocytic (hepatic) form: P. vivax or P. ovale hypnozoites.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4364",
+    "category": "IM Mixed",
+    "q": "Why is primaquine given per p418?",
+    "a": "It kills hypnozoites / extra-erythrocytic forms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 418,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=418"
+    }
+  },
+  {
+    "id": "s2med-4365",
+    "category": "IM Mixed",
+    "q": "Why does sickle cell confer resistance to malaria per p419?",
+    "a": "Decreased RBC lifespan (malaria needs a normal RBC lifespan to complete its life cycle).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4366",
+    "category": "IM Mixed",
+    "q": "Travel + bloody diarrhea + RUQ pain per p419?",
+    "a": "Liver abscess due to Entamoeba histolytica.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4367",
+    "category": "IM Mixed",
+    "q": "Treatment of the amebic liver abscess per p419?",
+    "a": "Percutaneous drainage BEFORE antibiotics (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4368",
+    "category": "IM Mixed",
+    "q": "Antibiotics for E. histolytica per p419?",
+    "a": "Metronidazole + iodoquinol (kills intraluminal parasite); paromomycin may also be given.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4369",
+    "category": "IM Mixed",
+    "q": "Watery diarrhea in an immunocompromised patient per p419?",
+    "a": "Cryptosporidium parvum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4370",
+    "category": "IM Mixed",
+    "q": "How is Giardia transmitted per p419?",
+    "a": "Water-borne (the answer over 'fecal-oral' if both are listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4371",
+    "category": "IM Mixed",
+    "q": "Steatorrhea in a guy who went swimming or scuba diving per p419?",
+    "a": "Giardia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4372",
+    "category": "IM Mixed",
+    "q": "Treatment of Giardia per p419?",
+    "a": "Metronidazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4373",
+    "category": "IM Mixed",
+    "q": "Fever + periorbital edema + muscle aches after a BBQ per p419?",
+    "a": "Trichinella spiralis (trichinosis, a classic triad).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4374",
+    "category": "IM Mixed",
+    "q": "How do you get trichinosis per p419?",
+    "a": "Bear meat or pork (pork nematode, not cestode).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4375",
+    "category": "IM Mixed",
+    "q": "Nematode vs cestode vs trematode per p419?",
+    "a": "Nematode: roundworm. Cestode: tapeworm. Trematode: fluke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4376",
+    "category": "IM Mixed",
+    "q": "Pork nematode and pork cestode per p419?",
+    "a": "Nematode: Trichinella spiralis. Cestode (tapeworm): Taenia solium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4377",
+    "category": "IM Mixed",
+    "q": "What does T. solium cause per p419?",
+    "a": "Cysticercosis (muscle cysts) or neurocysticercosis (brain cysts).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4378",
+    "category": "IM Mixed",
+    "q": "'Swiss cheese' appearance of the brain after travel abroad per p419?",
+    "a": "Neurocysticercosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4379",
+    "category": "IM Mixed",
+    "q": "Single cystic lesion on brain CT in someone who went to Mexico per p419?",
+    "a": "Neurocysticercosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4380",
+    "category": "IM Mixed",
+    "q": "Treatment of cysticercosis/neurocysticercosis per p419?",
+    "a": "Praziquantel or albendazole. The source says USMLE never makes you choose between them: the correct answer is the only anti-helminth drug listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4381",
+    "category": "IM Mixed",
+    "q": "Helminth causing visceral larva migrans per p419?",
+    "a": "Toxocara canis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4382",
+    "category": "IM Mixed",
+    "q": "Worm in the eye per p419?",
+    "a": "Loa loa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4383",
+    "category": "IM Mixed",
+    "q": "How do you get Loa loa per p419?",
+    "a": "The source says deer, horse, or mango fly (vector wording, not verified).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4384",
+    "category": "IM Mixed",
+    "q": "HIV patient with lobar pneumonia: PJP or S. pneumoniae per p419?",
+    "a": "S. pneumoniae (continues on p420). PJP gives bilateral interstitial infiltrates with a ground-glass appearance; S. pneumoniae is lobar.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 419,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=419"
+    }
+  },
+  {
+    "id": "s2med-4385",
+    "category": "IM Mixed",
+    "q": "Why S. pneumoniae over PJP in HIV with lobar pneumonia (continued from p419)?",
+    "a": "Like asbestos exposure (bronchogenic carcinoma is still more common than mesothelioma), S. pneumoniae is still more common than PJP in immunocompromised patients. The key is lobar vs bilateral presentation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4386",
+    "category": "IM Mixed",
+    "q": "Upper lobe nodular density in an immunocompromised patient per p420?",
+    "a": "Aspergilloma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4387",
+    "category": "IM Mixed",
+    "q": "Diagnosis of aspergilloma per p420?",
+    "a": "Open lung biopsy (source answer).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4388",
+    "category": "IM Mixed",
+    "q": "13F with irregular periods: next step per p420?",
+    "a": "Reexamine in one year (reassurance); periods are typically abnormal in the first year after menarche.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4389",
+    "category": "IM Mixed",
+    "q": "13F never had a period, suprapubic mass, nausea and vomiting per p420?",
+    "a": "Beta-hCG: she is pregnant. Girls can get pregnant before ever having a period; must rule out.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4390",
+    "category": "IM Mixed",
+    "q": "14F with a massive unilateral breast mass, sister died of breast cancer per p420?",
+    "a": "Follow up in six months: virginal breast hypertrophy is normal in puberty.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4391",
+    "category": "IM Mixed",
+    "q": "15M with unilateral mass behind the nipple +/- tenderness per p420?",
+    "a": "Reassurance: physiologic gynecomastia of puberty (higher androgens aromatized to estrogens).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4392",
+    "category": "IM Mixed",
+    "q": "Girl at Tanner stage 3: which statement is true per p420?",
+    "a": "Menarche is imminent (asked straight up, exceedingly HY).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4393",
+    "category": "IM Mixed",
+    "q": "17F with severe period pain and normal exam per p420?",
+    "a": "Primary dysmenorrhea from prostaglandin hypersecretion (PGF2alpha); give NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4394",
+    "category": "IM Mixed",
+    "q": "23F with severe period pain + nodular uterosacral ligaments per p420?",
+    "a": "Endometriosis: diagnostic laparoscopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4395",
+    "category": "IM Mixed",
+    "q": "14M at 3rd percentile for height + bone age less than chronologic age per p420?",
+    "a": "Constitutional short stature (he will catch up; growth curve shifted right).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4396",
+    "category": "IM Mixed",
+    "q": "14M at 3rd percentile for height: next step in diagnosis per p420?",
+    "a": "Ask about the parents' height trajectory; if the stem says parents are average height, do a bone age.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4397",
+    "category": "IM Mixed",
+    "q": "16F Tanner stage II + wide neck + bone age equal to chronologic age per p420?",
+    "a": "Turner syndrome: genuine short stature (e.g., 4'11\"), Tanner I-II, cystic hygroma (lymphatic insufficiency; wide/webbed neck).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
+  },
+  {
+    "id": "s2med-4398",
+    "category": "IM Mixed",
+    "q": "Adult male 4 feet tall with large head and trunk relative to limbs per p420?",
+    "a": "Achondroplasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 420,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=420"
+    }
   }
 ];

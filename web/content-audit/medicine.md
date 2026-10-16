@@ -1437,3 +1437,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - PAN HepB ~30% and SLE arthritis >90% figures: source, not verified.
 - Mycophenolate for lupus nephritis, anti-Smith specificity: source (consistent with common teaching, not separately sourced).
 - Mobile QA (320x740, local vite preview build, not live): all 58 cards ox=false off=false bad=0.
+
+## p418 (IM mixed bullets: infection control, RAS/FMD, malaria) - 14 cards, ids s2med-4351 to 4364
+- Handwashing for catheter infection and mono, chloroquine "heme polymerase" MOA wording: source, not verified.
+
+## p419 (IM mixed bullets: malaria, parasites, helminths) - 20 cards, ids s2med-4365 to 4384
+- "Drain amebic abscess before antibiotics", Loa loa vector wording (deer/horse/mango fly), Giardia water-borne vs fecal-oral: source, not verified.
+
+## p420 (IM mixed bullets: PJP vs pneumococcus, adolescent gyn/growth) - 14 cards, ids s2med-4385 to 4398
+- Aspergilloma open lung biopsy: source answer (repeat of earlier entry).
+- Mobile QA (320x740, local vite preview build, not live): all 48 cards ox=false off=false bad=0.
