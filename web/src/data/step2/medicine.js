@@ -31471,5 +31471,385 @@ export default [
       "text": "A case report of reversible B12 deficiency with dementia is linked; I did not verify the wording.",
       "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5187480/"
     }
+  },
+  {
+    "id": "s2med-2388",
+    "category": "IM Neuro",
+    "q": "Subacute combined degeneration: tracts involved per p250 (continued from p249)?",
+    "a": "The patient can have peripheral neuropathy as a result of deficits to the 1) corticospinal tracts, 2) dorsal columns, and 3) spinocerebellar tracts.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the spinocerebellar dorsal tract is linked; I did not verify the clinical claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556013/"
+    }
+  },
+  {
+    "id": "s2med-2389",
+    "category": "IM Neuro",
+    "q": "Remembering the SCD tracts per p250?",
+    "a": "Start by saying 'the spinothalamic tract is not involved', then ask what other tracts you can think of.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2med-2390",
+    "category": "IM Neuro",
+    "q": "Neurosyphilis and dementia per p250?",
+    "a": "Neurosyphilis is a reversible cause of dementia and should be considered. The source cites a 2CK NBME question with a positive VDRL in an 82-year-old woman with cognitive decline, where the treatment is penicillin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A case report of neurosyphilis presenting with dementia is linked; I did not verify the NBME question.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2769430/"
+    }
+  },
+  {
+    "id": "s2med-2391",
+    "category": "IM Neuro",
+    "q": "Parkinson-plus disorder per p250?",
+    "a": "A disease that presents similarly to Parkinson disease, but is not Parkinson disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2med-2392",
+    "category": "IM Neuro",
+    "q": "Parkinson disease: pathology per p250?",
+    "a": "Loss of dopamine-secreting neurons in the pars compacta of the midbrain, with deposition of alpha-synuclein on biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A paper on the neuropathology of Parkinson disease is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5718208/"
+    }
+  },
+  {
+    "id": "s2med-2393",
+    "category": "IM Neuro",
+    "q": "Parkinson disease: classic features per p250?",
+    "a": "Bradykinesia/akinesia, resting tremor, shuffling and short-stepped gait, micrographia, cogwheel rigidity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2med-2394",
+    "category": "IM Neuro",
+    "q": "Parkinson disease: genetics per p250?",
+    "a": "Alpha-synuclein gene mutation is the most common; many genes are implicated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2med-2395",
+    "category": "IM Neuro",
+    "q": "Carbidopa-levodopa mechanism per p250?",
+    "a": "Levodopa crosses the BBB to be converted to dopamine centrally but is quickly metabolized when given alone. Carbidopa inhibits the breakdown enzymes, increasing levodopa available to cross the BBB. Do not confuse this with direct COMT inhibitors (tolcapone, entacapone), which prevent breakdown of L-dopa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A StatPearls page on levodopa/carbidopa/entacapone is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK599508/"
+    }
+  },
+  {
+    "id": "s2med-2396",
+    "category": "IM Neuro",
+    "q": "Carbidopa-levodopa psychosis per p250?",
+    "a": "Can cause psychosis if the dose is too high. Assessed on 2CK Psych forms: if psychotic episodes follow recent addition of carbidopa-levodopa or a dose increase, the answer is 'decrease dose'. 'Discontinue carbidopa-levodopa' is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A paper on treating psychosis in Parkinson disease is linked; I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6007727/"
+    }
+  },
+  {
+    "id": "s2med-2397",
+    "category": "IM Neuro",
+    "q": "Dopamine agonists and amantadine per p250?",
+    "a": "D2 agonist names: ropinirole, pramipexole, cabergoline, pergolide, bromocriptine; all can in theory be used as treatments. Amantadine increases presynaptic release of dopamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2med-2398",
+    "category": "IM Neuro",
+    "q": "Selegiline per p250?",
+    "a": "Inhibits monoamine oxidase B, an enzyme that preferentially breaks down dopamine. USMLE wants you to know it can cause serotonin syndrome, alone or with drugs like St John's wort or SSRIs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A systematic case review of MAO inhibitors and serotonin syndrome is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9470874/"
+    }
+  },
+  {
+    "id": "s2med-2399",
+    "category": "IM Neuro",
+    "q": "Restless legs syndrome: definition and cause per p250?",
+    "a": "Idiopathic, irresistible urge to move the legs while in bed/sleeping. Most common cause is iron deficiency anemia; the first step is checking serum iron and ferritin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "An AASM guideline on RLS is linked (title only); I did not read it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11701286/"
+    }
+  },
+  {
+    "id": "s2med-2400",
+    "category": "IM Neuro",
+    "q": "Restless legs syndrome: treatment per p250?",
+    "a": "If iron studies are normal, gabapentin and D2 agonists (ropinirole, pramipexole) can be used.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "The same AASM guideline is linked; recent guidance may favor other agents over dopamine agonists. I did not verify. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11701286/"
+    }
+  },
+  {
+    "id": "s2med-2401",
+    "category": "IM Neuro",
+    "q": "RLS and Parkinson disease per p250?",
+    "a": "Patients with RLS have increased risk of developing Parkinson disease. The source reasons that D2 agonists help, suggesting a possible problem with dopamine signaling or production in some patients.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A paper on Parkinson risk after RLS is linked; I did not verify the reasoning.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12501809/"
+    }
+  },
+  {
+    "id": "s2med-2402",
+    "category": "IM Neuro",
+    "q": "NPH as a Parkinson-plus disorder per p250?",
+    "a": "Normal pressure hydrocephalus presents as 'wet, wobbly, wacky' with or without Parkinsonism. The parkinsonism is the most overlooked detail by students.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2med-2403",
+    "category": "IM Neuro",
+    "q": "NPH vignette per p250?",
+    "a": "USMLE gives an older male with the wet-wobbly-wacky triad plus 2-3 sentences that sound like Parkinson disease. It is NPH, a Parkinson-plus disorder. Again: due to impingement on the corona radiata; mechanism for urinary incontinence = 'failure to inhibit the voiding reflex'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    }
+  },
+  {
+    "id": "s2med-2404",
+    "category": "IM Neuro",
+    "q": "Wilson disease per p250?",
+    "a": "Parkinsonism in a young patient is Wilson disease until proven otherwise. Excessive copper accumulates in tissues, including the basal ganglia and liver, due to inability to excrete it into bile (continued on p251).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 250,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=250"
+    },
+    "guideline": {
+      "text": "A review of Wilson disease in children and young adults is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8919932/"
+    }
+  },
+  {
+    "id": "s2med-2405",
+    "category": "IM Neuro",
+    "q": "Wilson disease: where is it covered per p251?",
+    "a": "The source says it discusses Wilson disease in more detail in its HY Gastro PDF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2med-2406",
+    "category": "IM Neuro",
+    "q": "Lewy body dementia per p251?",
+    "a": "A Parkinson-plus disorder. Dementia plus visual hallucinations plus Parkinsonism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    },
+    "guideline": {
+      "text": "A paper on DLB diagnostic criteria is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6987529/"
+    }
+  },
+  {
+    "id": "s2med-2407",
+    "category": "IM Neuro",
+    "q": "Progressive supranuclear palsy per p251?",
+    "a": "An obscure condition asked on 2CK. The source says 100% of questions say 'axial dystonia plus Parkinsonism' and ask for the diagnosis straight up. Axial dystonia is a muscle condition causing abnormal posture and movement of the spine and torso.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    },
+    "guideline": {
+      "text": "The MDS PSP criteria are linked; I did not verify the 100% claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5516529/"
+    }
+  },
+  {
+    "id": "s2med-2408",
+    "category": "IM Neuro",
+    "q": "MPTP per p251?",
+    "a": "Aka synthetic heroin. Know it is a cause of Parkinsonism. Shows up on a 2CK Psych form.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    },
+    "guideline": {
+      "text": "A paper on chronic parkinsonism from a meperidine-analog product is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6823561/"
+    }
+  },
+  {
+    "id": "s2med-2409",
+    "category": "IM Neuro",
+    "q": "MLF syndrome per p251?",
+    "a": "Medial longitudinal fasciculus syndrome, aka internuclear ophthalmoplegia (INO). Pathognomonic for multiple sclerosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    },
+    "img": "/mehlman/figures/med-p251-01.jpg",
+    "imgAlt": "Diagram of normal eye movements versus left-sided internuclear ophthalmoplegia",
+    "guideline": {
+      "text": "A paper on INO in MS is linked; the 'pathognomonic' wording is the source's.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6598816/"
+    }
+  },
+  {
+    "id": "s2med-2410",
+    "category": "IM Neuro",
+    "q": "Optic neuritis vs INO in MS per p251?",
+    "a": "MS patients can also get optic neuritis, but it is not pathognomonic for MS; it can be seen in other circumstances such as ethambutol or sildenafil use.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    },
+    "guideline": {
+      "text": "An expert consensus on ethambutol optic neuropathy is linked; I did not verify the sildenafil claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8837289/"
+    }
+  },
+  {
+    "id": "s2med-2411",
+    "category": "IM Neuro",
+    "q": "INO mechanism per p251?",
+    "a": "Looking right activates CN VI on the right and CN III on the left, coordinated through the left MLF in the midbrain. With MLF syndrome, the right eye abducts without problem, but the left eye fails to adduct and the right eye shows nystagmus back toward the midline.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2med-2412",
+    "category": "IM Neuro",
+    "q": "INO: which side is the lesion per p251?",
+    "a": "The side that cannot adduct is the side that is damaged. If you look right and the left eye does not adduct, the left MLF is the lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 251,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2med-2413",
+    "category": "IM Neuro",
+    "q": "Optic neuritis per p252?",
+    "a": "Inflammation of CN II (optic nerve) presenting variably as change in visual acuity, color vision, central scotoma, etc., and basically always seen in multiple sclerosis on USMLE. The source discusses MS later.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=252"
+    }
+  },
+  {
+    "id": "s2med-2414",
+    "category": "IM Neuro",
+    "q": "Optic neuritis: Marcus Gunn pupil per p252?",
+    "a": "Causes Marcus Gunn pupil (relative afferent pupillary defect). Light intensity is under-sensed by the affected eye (afferent signal), so the efferent CN III parasympathetic output is attenuated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=252"
+    },
+    "img": "/mehlman/figures/med-p252-01.jpg",
+    "imgAlt": "Swinging-light diagram of a relative afferent pupillary defect (Marcus Gunn pupil)",
+    "guideline": {
+      "text": "A page on how to test for an RAPD is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3588138/"
+    }
+  },
+  {
+    "id": "s2med-2415",
+    "category": "IM Neuro",
+    "q": "RAPD: what the examiner sees per p252?",
+    "a": "Shining light in the affected eye makes both pupils constrict less than when light is shone in the unaffected eye, giving the mere impression that the pupils dilate when light moves to the affected eye.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 252,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=252"
+    },
+    "guideline": {
+      "text": "The same page is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3588138/"
+    }
   }
 ];

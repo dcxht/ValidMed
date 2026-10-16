@@ -887,3 +887,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p249 (dementia types) - 12 cards, ids s2med-2376 to 2387
 - Sundowning "bright light wrong" vs literature: caution note. MMSE cutoffs and NBME observations unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
+
+## p250 (SCD, neurosyphilis, Parkinson, RLS, NPH, Wilson) - 17 cards, ids s2med-2388 to 2404
+- RLS dopamine agonist Tx vs current guidance: caution note. Carbidopa-levodopa psychosis and NBME claims unverified. Expletives paraphrased.
+## p251 (Wilson cont., LBD, PSP, MPTP, INO) - 8 cards, ids s2med-2405 to 2412
+- "100% of questions" PSP claim and sildenafil optic neuritis unverified. Expletives paraphrased.
+## p252 (optic neuritis, RAPD) - 3 cards, ids s2med-2413 to 2415
+- Mobile QA (320x740, local vite preview build, not live): all 28 cards ox=false off=false bad=0.
