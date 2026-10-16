@@ -13572,5 +13572,250 @@ export default [
       "text": "Baveno VII is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11090185/"
     }
+  },
+  {
+    "id": "s2med-1023",
+    "category": "IM Gastro",
+    "q": "Ruptured variceal bleed with hypotension per p112-113?",
+    "a": "2CK answer can be IV fluids (endoscopy is wrong first). Source's logic: ABCs always come first on 2CK; if O2 sats were 50%, oxygen would come before fluids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2med-1024",
+    "category": "IM Gastro",
+    "q": "Diffuse esophageal spasm per p113?",
+    "a": "Idiopathic spasm of the esophagus causing pain that can mimic angina, but cardiac findings/disease are negative. Barium shows a corkscrew appearance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=113"
+    },
+    "img": "/mehlman/figures/med-p113-01.jpg",
+    "imgAlt": "Barium swallow showing a corkscrew-shaped esophagus",
+    "guideline": {
+      "text": "A review on distal (diffuse) esophageal spasm is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10404380/"
+    }
+  },
+  {
+    "id": "s2med-1025",
+    "category": "IM Gastro",
+    "q": "Nutcracker esophagus per p113?",
+    "a": "Similar to DES: idiopathic hyperperistalsis causing pain similar to DES.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2med-1026",
+    "category": "IM Gastro",
+    "q": "Eosinophilic esophagitis per p113?",
+    "a": "Idiopathic allergic condition of the esophagus presenting with difficulty swallowing. Biopsy shows eosinophils in the epithelium. Endoscopy shows 'trachealization' with concentric rings. May have a history of asthma or atopy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=113"
+    },
+    "img": "/mehlman/figures/med-p113-02.jpg",
+    "imgAlt": "Endoscopic view of the esophagus with multiple concentric rings",
+    "guideline": {
+      "text": "The ACG EoE guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39745304/"
+    }
+  },
+  {
+    "id": "s2med-1027",
+    "category": "IM Gastro",
+    "q": "Schatzki ring per p113?",
+    "a": "Source: low-yield; never seen assessed as a correct answer on NBME material, maybe once as a distractor. It is technically a narrowing of the distal esophagus that could be in the differential alongside achalasia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 113,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=113"
+    },
+    "guideline": {
+      "text": "Conflict: the source calls this a 'garbage diagnosis' that 'doesn't exist.' StatPearls lists Schatzki ring as a real distal esophageal ring; I did not verify the details. Source answer stays as an exam-frequency claim only.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519022/"
+    }
+  },
+  {
+    "id": "s2med-1028",
+    "category": "IM Gastro",
+    "q": "Insulin source and glucose-lowering mechanisms per p113?",
+    "a": "Produced by beta islet cells in the pancreatic tail. Lowers blood glucose by (1) increasing GLUT-4 on skeletal muscle and adipose tissue and (2) increasing glucokinase activity in the liver (hexokinase equivalent), pulling glucose out of the blood for glycogen storage. Also increases fatty acid and protein synthesis and lipoprotein lipase activity (fat storage); causes dephosphorylation of enzymes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1029",
+    "category": "IM Gastro",
+    "q": "Insulin secretion pathway per p113-114?",
+    "a": "Glucose enters beta cells via GLUT-2, raising ATP production, which closes the ATP-gated K+ channel, so K+ builds up inside the cell, making it more positive and depolarizing it; Ca2+ moves into the cell and triggers insulin vesicle release.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1030",
+    "category": "IM Gastro",
+    "q": "High insulin with low C-peptide per p114?",
+    "a": "Exogenous insulin injection. Insulin and C-peptide are co-secreted (pro-peptide is cleaved), so levels should match.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls on factitious hypoglycemia is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK542310/"
+    }
+  },
+  {
+    "id": "s2med-1031",
+    "category": "IM Gastro",
+    "q": "High insulin with normal/high C-peptide workup per p114?",
+    "a": "Insulin production is endogenous. First step: check serum hypoglycemic agents (sulfonylureas, meglitinides). If negative, do CT of the abdomen for insulinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    },
+    "guideline": {
+      "text": "The Endocrine Society hypoglycemia guideline is linked; I did not verify the stepwise workup it recommends.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19088155/"
+    }
+  },
+  {
+    "id": "s2med-1032",
+    "category": "IM Gastro",
+    "q": "Whipple triad per p114?",
+    "a": "Seen with insulinoma (and increased insulin in general): 1) hypoglycemia; 2) symptoms of hypoglycemia (tachycardia, tremulousness); 3) improvement with a meal / worsening between meals.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls on insulinoma is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544299/"
+    }
+  },
+  {
+    "id": "s2med-1033",
+    "category": "IM Gastro",
+    "q": "Insulin in diabetes types per p114?",
+    "a": "Absent in type I diabetes; increased in early type II (hyperinsulinemia). Insulin inhibits ketone formation: decreased ketones in type II, increased in type I.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1034",
+    "category": "IM Gastro",
+    "q": "Other insulin points per p114?",
+    "a": "Hyperinsulinemia causes anovulation / PCOS. Acanthosis nigricans is almost always due to insulin resistance. Chronic pancreatitis and pancreatectomy (loss of the pancreatic tail) can cause diabetes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1035",
+    "category": "IM Gastro",
+    "q": "Glucagon source and effect per p114?",
+    "a": "Secreted by alpha cells of the pancreatic tail; increases serum glucose and phosphorylation of enzymes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1036",
+    "category": "IM Gastro",
+    "q": "Glucagonoma vs VIPoma per p114?",
+    "a": "Glucagonoma: high serum glucose and a body rash called necrolytic migratory erythema. VIPoma has facial flushing and does not raise glucose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    },
+    "guideline": {
+      "text": "StatPearls on necrolytic migratory erythema is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532872/"
+    }
+  },
+  {
+    "id": "s2med-1037",
+    "category": "IM Gastro",
+    "q": "Prolonged insulin hypoglycemia answer per p114?",
+    "a": "'Lack of counter-regulatory glucagon': diabetes, chronic pancreatitis or pancreatectomy can lose alpha cells as well as beta cells; when glucose falls glucagon should rise but cannot, so glucose stays low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1038",
+    "category": "IM Gastro",
+    "q": "NBME chronic pancreatitis arrows per p114?",
+    "a": "Decreased insulin production, decreased glucagon production, no change in peripheral response to insulin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1039",
+    "category": "IM Gastro",
+    "q": "Somatostatin per p114?",
+    "a": "Secreted by delta cells of the pancreatic tail; decreases secretion of most GI hormones and growth hormone. Somatostatinoma presents with steatorrhea (source: probably from decreased pancreatic lipase secretion). Octreotide (analogue) can be added to endoscopic banding for esophageal varices, decreasing portal blood flow/pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2med-1040",
+    "category": "IM Gastro",
+    "q": "Ghrelin per p114?",
+    "a": "Produced by enteroendocrine cells of the GI tract; makes you feel hungry. Levels peak at the start of a meal (USMLE graph: start of meal = the peak).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    },
+    "guideline": {
+      "text": "A paper on ghrelin in functional hypothalamic amenorrhea is linked; I did not verify the meal-timing claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17074331/"
+    }
+  },
+  {
+    "id": "s2med-1041",
+    "category": "IM Gastro",
+    "q": "Leptin per p114?",
+    "a": "Produced mostly by adipocytes; makes you feel full (opposite of ghrelin). Also involved in hypothalamic/anterior pituitary gonadotropin secretion. Low in low BMI/anorexia: decreased GnRH, decreased LH and FSH, amenorrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 114,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=114"
+    }
   }
 ];

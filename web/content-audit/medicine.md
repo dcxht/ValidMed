@@ -501,3 +501,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figures inspected; p112-01 endoscopy image placement ambiguous (neutral alt). Page ends mid-bullet (IV fluids in hypotensive variceal bleed), carried to p113.
 - Unverified: ~50% variceal mortality.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p113 (IM Gastro: DES, EoE, Schatzki) - 5 cards, ids s2med-1023 to 1027
+- Figures inspected (corkscrew barium; concentric rings).
+- Conflict: Schatzki ring dismissed by source as nonexistent; StatPearls lists it.
+
+## p114 (GI endocrine hormones) - 14 cards, ids s2med-1028 to 1041
+- Page 113 ends mid insulin-secretion pathway, carried on p114.
+- Unverified: ghrelin meal-timing, hypoglycemia workup steps.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
