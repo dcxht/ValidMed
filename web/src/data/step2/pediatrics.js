@@ -29398,7 +29398,7 @@ export default [
       "url": "/mehlman/hy-pediatrics.pdf#page=138"
     },
     "guideline": {
-      "text": "Current caution: a radiology and orthopedic review states spiral fractures have been called pathognomonic for abuse but are not, and that spiral and transverse fractures are equally common in abused children. Treat as suspicious for abuse depending on age and history. Source answer kept.",
+      "text": "Current caution: a radiology and orthopedic review states spiral fractures have been called pathognomonic for abuse but are not, and that spiral and transverse fractures are equally common in abused children. Source answer kept.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3032862/"
     }
   },
@@ -29551,7 +29551,7 @@ export default [
       "url": "/mehlman/hy-pediatrics.pdf#page=138"
     },
     "guideline": {
-      "text": "Guideline review: initial radiographs can miss scaphoid fractures (sensitivity no higher than 70%); when suspected and films are negative, MRI or CT is recommended within 3 to 5 days. Immobilization with later repeat imaging remains the traditional approach. Source answer kept.",
+      "text": "Guideline review: initial radiographs can miss scaphoid fractures (sensitivity no higher than 70%); when suspected and films are negative, MRI or CT is recommended within 3 to 5 days. Source answer kept.",
       "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC7047900/"
     }
   },

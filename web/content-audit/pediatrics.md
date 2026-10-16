@@ -668,4 +668,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answers kept with caution notes: (1) spiral fracture "pathognomonic for child abuse" - an abuse review says it is not; (2) clavicle "figure-of-8 sling" - nonoperative review finds no advantage over simple sling; (3) scaphoid - guideline review recommends MRI/CT at 3-5 days for negative films, alongside traditional immobilization.
 - Verified: greenstick definition (StatPearls), clavicle middle third (95% in children), UBC proximal humerus.
 - Left un-noted or flagged unverified: bone flexibility collagen/mineral explanation, runner vignette, osteoporosis as long-term risk, scaphoid snuffbox presentation, lunate answer, USMLE-imaging statement, UBC one-chamber wording.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 14 cards ox=false off=false bad=0. Two unverified gloss sentences were removed from the spiral and scaphoid notes after QA (data text only).
