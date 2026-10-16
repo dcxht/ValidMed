@@ -29182,5 +29182,217 @@ export default [
     },
     "img": "/mehlman/figures/med-p226-04.jpg",
     "imgAlt": "Scaly red papules over the knuckles (Gottron papules)"
+  },
+  {
+    "id": "s2med-2227",
+    "category": "IM Derm",
+    "q": "Vitiligo: mechanism per p227?",
+    "a": "T cell-mediated destruction of melanocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=227"
+    },
+    "img": "/mehlman/figures/med-p227-01.jpg",
+    "imgAlt": "Pale depigmented patches on both hands (vitiligo)"
+  },
+  {
+    "id": "s2med-2228",
+    "category": "IM Derm",
+    "q": "Vitiligo: why it matters for IM per p227?",
+    "a": "It can be associated with other autoimmune polyglandular syndromes, as well as IgA deficiency. For example, B12 deficiency + vitiligo = possible pernicious anemia; weight gain and fatigue + vitiligo = possible Hashimoto thyroiditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=227"
+    },
+    "guideline": {
+      "text": "A review of vitiligo comorbidities is linked; I did not verify the IgA deficiency or polyglandular claims.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29808541/"
+    }
+  },
+  {
+    "id": "s2med-2229",
+    "category": "IM Derm",
+    "q": "Lentigo per p227?",
+    "a": "Aka 'age spot.' Increased melanocyte number; no change in melanin production. Common on the zygoma due to sunlight; not malignant.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=227"
+    },
+    "img": "/mehlman/figures/med-p227-02.jpg",
+    "imgAlt": "Flat brown spot on sun-exposed skin (lentigo)",
+    "guideline": {
+      "text": "A paper on solar lentigo mechanisms is linked; the source's 'no change in melanin production' wording was not verified.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6695993/"
+    }
+  },
+  {
+    "id": "s2med-2230",
+    "category": "IM Derm",
+    "q": "Latex allergy: the vignette per p227?",
+    "a": "The question will give you a nurse or laboratory technician. The implication is that he/she has been using gloves, resulting in contact dermatitis due to latex.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=227"
+    },
+    "img": "/mehlman/figures/med-p227-03.jpg",
+    "imgAlt": "Red scaly rash on both hands (glove-related contact dermatitis)",
+    "guideline": {
+      "text": "A systematic review of latex allergy in health care workers is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16890771/"
+    }
+  },
+  {
+    "id": "s2med-2231",
+    "category": "IM Derm",
+    "q": "Other causes of this contact dermatitis per p227?",
+    "a": "It can also occur due to adhesives (e.g., from applied bandages).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 227,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=227"
+    }
+  },
+  {
+    "id": "s2med-2232",
+    "category": "IM Derm",
+    "q": "Rosacea per p228?",
+    "a": "Idiopathic patchy facial erythema that worsens with spicy foods and alcohol; slight pain of the rash may occur in cold weather. Occurs usually in middle-aged and older people.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=228"
+    },
+    "img": "/mehlman/figures/med-p228-01.jpg",
+    "imgAlt": "Red nose and cheeks with small bumps (rosacea)",
+    "guideline": {
+      "text": "An InformedHealth rosacea page is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279477/"
+    }
+  },
+  {
+    "id": "s2med-2233",
+    "category": "IM Derm",
+    "q": "Chilblains per p228?",
+    "a": "Aka perniosis; painful inflammation of distal capillaries due to repeated exposure to cold air, followed by immersion in hot water (e.g., bath/shower).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=228"
+    },
+    "img": "/mehlman/figures/med-p228-02.jpg",
+    "imgAlt": "Red swollen toes (chilblains)",
+    "guideline": {
+      "text": "A StatPearls page on pernio is linked; I did not verify the mechanism wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK549842/"
+    }
+  },
+  {
+    "id": "s2med-2234",
+    "category": "IM Derm",
+    "q": "Chilblains vs frostnip vs frostbite per p228?",
+    "a": "Frostnip is cold-exposed skin with quickly reversible effects and no skin damage; frostbite is more severe and can cause damage such as blistering and necrosis. Chilblains are different from both.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2med-2235",
+    "category": "IM Derm",
+    "q": "Chilblains: mimic and treatment per p228?",
+    "a": "Can be confused with tinea pedis since they can be extremely itchy; the patient might try topical antifungal sprays/foams to no avail. Tx = keep feet warm in winter; avoid abrupt temperature changes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=228"
+    }
+  },
+  {
+    "id": "s2med-2236",
+    "category": "IM Derm",
+    "q": "Aphthous ulcer per p228?",
+    "a": "Aka aphthous stomatitis; no treatment necessary; not related to HSV1/2; etiology is multifactorial; can be precipitated by allergens such as spice; T cell-mediated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 228,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=228"
+    },
+    "img": "/mehlman/figures/med-p228-03.jpg",
+    "imgAlt": "Small ulcer on the inner lower lip (aphthous ulcer)",
+    "guideline": {
+      "text": "A systematic review of recurrent aphthous stomatitis treatment is linked; I did not verify 'no treatment necessary' (treatments exist for severe cases) or the T cell claim. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9805337/"
+    }
+  },
+  {
+    "id": "s2med-2237",
+    "category": "IM Derm",
+    "q": "Lichen planus per p229?",
+    "a": "Classically 'the Ps': purple, pruritic, polygonal papules; however questions need not mention they are pruritic. Know that hepatitis C + red/purple skin lesions = lichen planus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=229"
+    },
+    "img": "/mehlman/figures/med-p229-01.jpg",
+    "imgAlt": "Small red-purple papules on the hand and wrist (lichen planus)",
+    "guideline": {
+      "text": "A meta-analysis of the lichen planus and hepatitis C association is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10531646/"
+    }
+  },
+  {
+    "id": "s2med-2238",
+    "category": "IM Derm",
+    "q": "Aplasia cutis congenita per p229?",
+    "a": "Absence of skin on an area of the scalp; can be caused by teratogens such as methimazole. Source says it is a pedantic detail but it shows up on the real exam.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=229"
+    },
+    "img": "/mehlman/figures/med-p229-02.jpg",
+    "imgAlt": "Hairless patch on an infant's scalp (aplasia cutis congenita)",
+    "guideline": {
+      "text": "A case report of aplasia cutis congenita after methimazole exposure is linked; I did not verify the exam-frequency claim.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15283799/"
+    }
+  },
+  {
+    "id": "s2med-2239",
+    "category": "IM Derm",
+    "q": "Hereditary angioedema: defect and features per p229?",
+    "a": "Deficiency of C1 esterase inhibitor (not C1 esterase alone). Characterized by recurrent swelling of various bodily regions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=229"
+    },
+    "img": "/mehlman/figures/med-p229-03.jpg",
+    "imgAlt": "Swollen puffy eyelids and face in a child (angioedema)",
+    "guideline": {
+      "text": "The WAO/EAACI 2021 HAE guideline is linked.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/"
+    }
+  },
+  {
+    "id": "s2med-2240",
+    "category": "IM Derm",
+    "q": "Hereditary angioedema: treatment per p229?",
+    "a": "Danazol (androgen receptor partial agonist) causes the liver to produce more C1 esterase inhibitor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 229,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=229"
+    },
+    "guideline": {
+      "text": "Caution: the WAO/EAACI guideline linked above is the current reference; I did not read it, and current HAE guidelines may list other agents ahead of androgens such as danazol. Source answer stays for exam purposes.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/"
+    }
   }
 ];

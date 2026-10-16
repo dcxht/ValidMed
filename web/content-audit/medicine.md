@@ -821,3 +821,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p226 (EM, EN, dermatomyositis) - 5 cards, ids s2med-2222 to 2226
 - EM "type III" claim, anti-Jo1 as diagnostic not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p227 (vitiligo, lentigo, latex) - 5 cards, ids s2med-2227 to 2231
+- Vitiligo/IgA deficiency and lentigo melanin wording not verified.
+
+## p228 (rosacea, chilblains, aphthous) - 5 cards, ids s2med-2232 to 2236
+- Aphthous "no Tx necessary" and T cell claim not verified (treatments exist for severe disease).
+
+## p229 (lichen planus, ACC, HAE) - 4 cards, ids s2med-2237 to 2240
+- HAE danazol: current WAO/EAACI 2021 guideline may list other first-line agents; not read. Source answer kept.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
