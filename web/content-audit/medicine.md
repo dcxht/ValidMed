@@ -1251,3 +1251,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - "Low cortisol causes chronic fatigue" claim: source, unverified, flagged. Expletives paraphrased out.
 - Source remark that "pressors" can include desmopressin: not carded, unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p363 (permissive effect, Cushing, dex suppression) - 11 cards, ids s2med-3640 to 3650
+- Cushing in peds as precocious puberty: source, unverified, flagged. Expletives paraphrased out.
+
+## p364 (dex test results, misc, pheo, neuroblastoma) - 12 cards, ids s2med-3651 to 3662
+- Expletive in exogenous steroid line removed.
+- Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.

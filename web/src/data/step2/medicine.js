@@ -48773,5 +48773,290 @@ export default [
       "page": 362,
       "url": "/mehlman/hy-internal-medicine.pdf#page=362"
     }
+  },
+  {
+    "id": "s2med-3640",
+    "category": "IM Endocrine",
+    "q": "Glucocorticoids and catecholamines per p363 (continued from p362)?",
+    "a": "Without cortisol (or an exogenous glucocorticoid) there is inadequate alpha-1 receptor expression on arterioles, so NE and E (even in normal or given amounts) can't bind to maintain BP. 'Glucocorticoids are permissive of the effects of catecholamines.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3641",
+    "category": "IM Endocrine",
+    "q": "Adrenal crisis vignettes per p363?",
+    "a": "Patient on prednisone for SLE or RA gets acute thyroiditis with a large BP drop: answer is hydrocortisone (after fluids). Or an autoimmune patient with an infection and a large BP drop: hydrocortisone (after fluids).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3642",
+    "category": "IM Endocrine",
+    "q": "Cushing syndrome vs Cushing disease per p363?",
+    "a": "Cushing syndrome = how the patient looks; any cause (exogenous glucocorticoids, ACTH-secreting pituitary tumor, cortisol-secreting adrenal tumor, small cell lung carcinoma secreting ACTH). Cushing disease = only an ACTH-secreting tumor of the anterior pituitary.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    },
+    "guideline": {
+      "text": "A paper on diagnosis of Cushing syndrome is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC9681610/"
+    }
+  },
+  {
+    "id": "s2med-3643",
+    "category": "IM Endocrine",
+    "q": "Highest-yield Cushingoid findings per p363?",
+    "a": "Purple abdominal striae, osteoporosis (vertebral compression fractures), and avascular necrosis of the femoral head (hip pain). Buffalo hump, moon facies, central obesity, peripheral muscle wasting, hypertension, and type II diabetes are pass-level.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3644",
+    "category": "IM Endocrine",
+    "q": "Cushing in children per p363?",
+    "a": "Can present as precocious puberty without all the classic findings (the source's statement; I did not verify it).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3645",
+    "category": "IM Endocrine",
+    "q": "Hypokalemia in Cushing per p363?",
+    "a": "Chronically elevated cortisol can cause hypokalemia similar to high aldosterone (e.g., K+ 3.0 mEq/L, normal 3.5-5.0): glucocorticoids have some mineralocorticoid effect at the kidney. Important for 2CK vignettes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    },
+    "guideline": {
+      "text": "A review of renal hypokalemia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12102726/"
+    }
+  },
+  {
+    "id": "s2med-3646",
+    "category": "IM Endocrine",
+    "q": "Dexamethasone suppression test purpose per p363?",
+    "a": "Dexamethasone is a cortisol analogue that gives negative feedback at the hypothalamus and anterior pituitary, suppressing ACTH and cortisol in healthy people. It determines the cause of endogenous Cushing syndrome (not for a patient taking steroids).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    },
+    "guideline": {
+      "text": "An Endocrine Society guideline on diagnosing Cushing's syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2386281/"
+    }
+  },
+  {
+    "id": "s2med-3647",
+    "category": "IM Endocrine",
+    "q": "Low-dose dex per p363?",
+    "a": "A yes/no test for Cushing syndrome: if cortisol suppresses, no Cushing; if it doesn't, Cushing syndrome is present but the cause is unknown.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3648",
+    "category": "IM Endocrine",
+    "q": "High-dose dex per p363?",
+    "a": "Differentiates Cushing disease from other causes: only Cushing disease will have suppressed cortisol. If cortisol falls with high-dose dex, it is Cushing disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3649",
+    "category": "IM Endocrine",
+    "q": "No suppression with high-dose dex per p363?",
+    "a": "Look at ACTH. Low ACTH with high cortisol: adrenal cortical adenoma of the zona fasciculata secreting cortisol. High ACTH: ectopic ACTH from small cell bronchogenic carcinoma (not pituitary, since cortisol wasn't suppressed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3650",
+    "category": "IM Endocrine",
+    "q": "Cushing disease labs per p363 (continued on p364)?",
+    "a": "High ACTH + high cortisol; suppresses with high-dose dex. If asked how ACTH and cortisol change after high-dose dex: decreased ACTH, decreased cortisol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 363,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=363"
+    }
+  },
+  {
+    "id": "s2med-3651",
+    "category": "IM Endocrine",
+    "q": "Small cell lung cancer ACTH per p364 (continued from p363)?",
+    "a": "High ACTH + high cortisol; does not suppress with high-dose dex. After high-dose dex: no change in ACTH, no change in cortisol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    }
+  },
+  {
+    "id": "s2med-3652",
+    "category": "IM Endocrine",
+    "q": "Adrenal adenoma ACTH per p364?",
+    "a": "Low ACTH + high cortisol; does not suppress with high-dose dex. After high-dose dex: no change in ACTH, no change in cortisol (same as small cell lung cancer).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    }
+  },
+  {
+    "id": "s2med-3653",
+    "category": "IM Endocrine",
+    "q": "Exogenous steroids per p364?",
+    "a": "Low ACTH + low cortisol. Exogenous steroids (prednisone, hydrocortisone) are not the same as cortisol; the result is suppression of endogenous cortisol. Students get this wrong all the time.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    }
+  },
+  {
+    "id": "s2med-3654",
+    "category": "IM Endocrine",
+    "q": "Glucocorticoid psychosis per p364?",
+    "a": "Glucocorticoids can cause psychosis, a delirium-like presentation, or general mood disturbance such as depression. The vignette can give Cushing syndrome + depression, or recent IV methylprednisolone + delirium-like presentation 24-48 hours later.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    },
+    "guideline": {
+      "text": "A meta-analysis of neuropsychiatric effects of glucocorticoids is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11099480/"
+    }
+  },
+  {
+    "id": "s2med-3655",
+    "category": "IM Endocrine",
+    "q": "Licorice per p364?",
+    "a": "Contains glycyrrhizic acid, which increases mineralocorticoid effect at the kidney (similar to aldosterone). Can cause hypokalemia with excessive licorice tea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    },
+    "guideline": {
+      "text": "A meta-analysis of licorice, hypertension and hypokalaemia is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28660884/"
+    }
+  },
+  {
+    "id": "s2med-3656",
+    "category": "IM Endocrine",
+    "q": "Pheochromocytoma basics per p364?",
+    "a": "Catecholamine-secreting tumor of the adrenal medulla, derived from neural crest (chromaffin cells). Occurs in adults; can calcify.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    },
+    "guideline": {
+      "text": "Pheochromocytoma and paraganglioma practice guidelines are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8390422/"
+    }
+  },
+  {
+    "id": "s2med-3657",
+    "category": "IM Endocrine",
+    "q": "Pheochromocytoma presentation per p364?",
+    "a": "Paroxysmal high BP: periodic palpitations and pounding headaches. Office BP can be 120/80, so don't exclude it. Stressors (e.g., sitting up on the exam table) trigger NE + E release and BP can exceed 180/100, unlike white coat hypertension (young patient 140/90 when nervous).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    }
+  },
+  {
+    "id": "s2med-3658",
+    "category": "IM Endocrine",
+    "q": "Pheochromocytoma diagnosis per p364?",
+    "a": "Urinary/serum metanephrines; if positive, then CT abdomen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    }
+  },
+  {
+    "id": "s2med-3659",
+    "category": "IM Endocrine",
+    "q": "Pheochromocytoma treatment per p364?",
+    "a": "Phenoxybenzamine (irreversible alpha-1 blocker). Giving a beta-blocker first can kill the patient: blocking beta receptors leaves NE and E binding mainly alpha-1 receptors, causing intense vasoconstriction ('unopposed alpha').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    }
+  },
+  {
+    "id": "s2med-3660",
+    "category": "IM Endocrine",
+    "q": "Propranolol after phenoxybenzamine per p364?",
+    "a": "In theory it can be given, but USMLE doesn't assess this; it wants straight alpha-blockade.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    }
+  },
+  {
+    "id": "s2med-3661",
+    "category": "IM Endocrine",
+    "q": "Pheochromocytoma associations per p364?",
+    "a": "Can be idiopathic or part of MEN 2A/B or NF1. In medullary thyroid cancer, check for pheochromocytoma before thyroidectomy: in MEN 2, surgery without checking can cause a large BP rise from catecholamine release and kill the patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    },
+    "guideline": {
+      "text": "A review of medullary thyroid carcinoma guidelines is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6821118/"
+    }
+  },
+  {
+    "id": "s2med-3662",
+    "category": "IM Endocrine",
+    "q": "Neuroblastoma per p364?",
+    "a": "Essentially the pediatric pheochromocytoma; N-myc gene. Secretes catecholamines; can calcify (same as pheo in adults).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 364,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=364"
+    },
+    "guideline": {
+      "text": "A paper on catecholamine profiles in neuroblastoma is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28061374/"
+    }
   }
 ];
