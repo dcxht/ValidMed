@@ -1087,3 +1087,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p318 (radiculopathies, lower limb DDx, knee) - 13 cards, ids s2med-3093 to 3105
 - Expletive in L4/S1 memory aids paraphrased. Septic bursitis 2CK claim unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p319 (knee ligaments, menisci, foot, fracture types) - 17 cards, ids s2med-3106 to 3122
+- Spiral fracture "pathognomonic for child abuse" kept as source with caution.
+- Expletive in unhappy triad entry paraphrased.
+
+## p320 (fractures by site) - 15 cards, ids s2med-3123 to 3137
+- Source "FOSH" expanded to FOOSH. Clavicle figure-of-8 sling unverified; supracondylar "distal shaft" equivalence unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.

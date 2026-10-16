@@ -41463,5 +41463,468 @@ export default [
       "page": 318,
       "url": "/mehlman/hy-internal-medicine.pdf#page=318"
     }
+  },
+  {
+    "id": "s2med-3106",
+    "category": "IM MSK",
+    "q": "Varus test per p319 (continued from p318)?",
+    "a": "One hand is placed on the medial knee and pushes outward while the other hand is placed on the lateral ankle and pushes inward.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    }
+  },
+  {
+    "id": "s2med-3107",
+    "category": "IM MSK",
+    "q": "MCL injury per p319?",
+    "a": "The answer if the valgus test induces excessive medial motion of the knee compared to the unaffected side. Valgus test = one hand on the lateral knee pushing inward + other hand on the medial ankle pulling outward.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A StatPearls page on MCL injury is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431095/"
+    }
+  },
+  {
+    "id": "s2med-3108",
+    "category": "IM MSK",
+    "q": "Lateral meniscal tear per p319?",
+    "a": "Lateral knee pain where the patient experiences 'locking' or 'catching' of the knee in partial flexion. Diagnosed with the McMurray test: internal rotation of the leg with concurrent knee extension causes lateral knee pain / 'catching'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A systematic review of the McMurray test is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2704345/"
+    }
+  },
+  {
+    "id": "s2med-3109",
+    "category": "IM MSK",
+    "q": "Medial meniscal tear per p319?",
+    "a": "Medial knee pain with 'locking' or 'catching' in partial flexion. McMurray test: external rotation of the leg with concurrent knee extension causes medial knee pain / 'catching'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2704345/"
+    }
+  },
+  {
+    "id": "s2med-3110",
+    "category": "IM MSK",
+    "q": "Unhappy triad per p319?",
+    "a": "A trio injury of the ACL, the medial collateral ligament, and either the medial or lateral meniscus. The source says students are sometimes fanatical about it, but it cannot recall an NBME question assessing it; it mostly lives in Qbanks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A review of the unhappy triad is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10251265/"
+    }
+  },
+  {
+    "id": "s2med-3111",
+    "category": "IM MSK",
+    "q": "Pes anserine bursitis per p319?",
+    "a": "The answer if the patient has inferomedial knee pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A page on pes anserine bursitis is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532941/"
+    }
+  },
+  {
+    "id": "s2med-3112",
+    "category": "IM MSK",
+    "q": "Iliotibial band syndrome per p319?",
+    "a": "The answer if they say lateral knee pain, usually in a runner. The IT band runs from the hip to the knee; pain may occur anywhere along the hip, lateral thigh, and lateral knee, but is worst at the knee. Tx = conservative with physiotherapy; NSAIDs for pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A review of IT band impingement syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8359713/"
+    }
+  },
+  {
+    "id": "s2med-3113",
+    "category": "IM MSK",
+    "q": "Osgood-Schlatter disease per p319?",
+    "a": "Buzzy vignette: knee pain in a fast-growing teenage male who plays soccer (not to be pigeon-holed). Inflammation of the patellar ligament at the tibial tuberosity; mechanism is repeated stress on the growth plate of the superior tibia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A systematic review on Osgood-Schlatter risk factors is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9222097/"
+    }
+  },
+  {
+    "id": "s2med-3114",
+    "category": "IM MSK",
+    "q": "Plantar fasciitis per p319?",
+    "a": "The answer if there is severe heel pain that is worst when first getting out of bed in the morning.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A patient information page on plantar fasciitis is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK612672/"
+    }
+  },
+  {
+    "id": "s2med-3115",
+    "category": "IM MSK",
+    "q": "Morton neuroma per p319?",
+    "a": "The answer if the patient has pain plus abnormal growth between the 2nd and 3rd metatarsals, usually worsened with high-heel shoes. Benign growth of the intertarsal nerve; cause idiopathic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A review of imaging in Morton's neuroma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6177560/"
+    }
+  },
+  {
+    "id": "s2med-3116",
+    "category": "IM MSK",
+    "q": "Morton neuroma workup and Tx per p319?",
+    "a": "First step in diagnosis is x-ray to rule out arthritis and fractures. Ultrasound then confirms, showing thickening of the interdigital/intertarsal nerve. Tx = orthotics (comfortable shoes) + steroid injection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6177560/"
+    }
+  },
+  {
+    "id": "s2med-3117",
+    "category": "IM MSK",
+    "q": "Neurogenic joint per p319?",
+    "a": "Aka Charcot joint: the patient injures the joint due to lack of sensation from peripheral neuropathy. Usually seen in diabetes; can also be seen in neurosyphilis. The answer when a diabetic patient has 'disorganization of the tarsometatarsal joints' on foot x-ray.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A review of Charcot neuroarthropathy is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6583154/"
+    }
+  },
+  {
+    "id": "s2med-3118",
+    "category": "IM MSK",
+    "q": "Spiral fracture per p319?",
+    "a": "Caused by a rotational/twisting force applied to a limb. The source says it is pathognomonic for child abuse; USMLE doesn't expect you to diagnose from imaging.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A paper on pediatric femur fractures, accidental or not, is linked (title only). Caution: I did not verify 'pathognomonic'; spiral fractures can occur accidentally, so this is kept as the source's exam answer only.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5482338/"
+    }
+  },
+  {
+    "id": "s2med-3119",
+    "category": "IM MSK",
+    "q": "Simple fracture per p319?",
+    "a": "Aka closed fracture: the skin is not broken and the underlying bone does not pierce the skin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    }
+  },
+  {
+    "id": "s2med-3120",
+    "category": "IM MSK",
+    "q": "Compound fracture per p319?",
+    "a": "Aka open fracture: the skin is broken and the underlying bone pierces the skin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    }
+  },
+  {
+    "id": "s2med-3121",
+    "category": "IM MSK",
+    "q": "Comminuted fracture per p319?",
+    "a": "Fracture where the bone is broken in at least two pieces.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    }
+  },
+  {
+    "id": "s2med-3122",
+    "category": "IM MSK",
+    "q": "Greenstick fracture per p319?",
+    "a": "Bone bends and cracks instead of breaking completely into two pieces. More common in peds than adults (continues on p320).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 319,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=319"
+    },
+    "guideline": {
+      "text": "A StatPearls page on greenstick fracture is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513279/"
+    }
+  },
+  {
+    "id": "s2med-3123",
+    "category": "IM MSK",
+    "q": "Greenstick fracture mechanism per p320 (continued from p319)?",
+    "a": "Children's bones are more flexible than adults' because they have higher collagen content and lower mineral content. A force that would fully fracture adult bone may cause only a greenstick fracture: an incomplete fracture where the bone bends and breaks on one side, like a green tree branch that splinters on one side.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "The greenstick StatPearls page is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513279/"
+    }
+  },
+  {
+    "id": "s2med-3124",
+    "category": "IM MSK",
+    "q": "Linear skull fracture per p320?",
+    "a": "Most common type of skull fracture: a break in the skull but the bone has not moved. USMLE wants you to know it is classically associated with epidural hematoma (asked on a 2CK CMS form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    }
+  },
+  {
+    "id": "s2med-3125",
+    "category": "IM MSK",
+    "q": "Base of skull fracture per p320?",
+    "a": "Presents with a tetrad of Battle sign (bruising over the mastoid process), raccoon eyes (bruising around the eyes), rhinorrhea, and otorrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A StatPearls page on basilar skull fractures is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK470175/"
+    }
+  },
+  {
+    "id": "s2med-3126",
+    "category": "IM MSK",
+    "q": "Metatarsal stress fracture per p320?",
+    "a": "The answer for pain in the metatarsal area of the foot in long-distance runners with low BMI.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    }
+  },
+  {
+    "id": "s2med-3127",
+    "category": "IM MSK",
+    "q": "Metatarsal stress fracture risk per p320?",
+    "a": "USMLE often gives a female long-distance runner with low BMI who already has a metatarsal stress fracture and asks what she is at greatest risk of developing: osteoporosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "The 2025 female athlete triad consensus statement is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41474492/"
+    }
+  },
+  {
+    "id": "s2med-3128",
+    "category": "IM MSK",
+    "q": "Clavicular fracture per p320?",
+    "a": "Occurs with a fall on an outstretched hand (FOOSH), or occasionally from a handlebar injury / impaction, with force transferred up to the clavicle. Most common site of break is the middle third. Tx = figure-of-8 sling.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A review of midshaft clavicle fracture treatment is linked (title only); I did not verify the figure-of-8 claim. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8423531/"
+    }
+  },
+  {
+    "id": "s2med-3129",
+    "category": "IM MSK",
+    "q": "Scaphoid fracture per p320?",
+    "a": "Presents as pain over the anatomic snuffbox in a patient with FOOSH. X-ray will usually be negative acutely. Must do a thumb-spica cast to prevent avascular necrosis of the scaphoid, followed by repeat x-ray in 2-3 weeks.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A systematic review on diagnosing suspected scaphoid fractures is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2816764/"
+    }
+  },
+  {
+    "id": "s2med-3130",
+    "category": "IM MSK",
+    "q": "Lunate fracture per p320?",
+    "a": "The answer if FOOSH with pain in the central palm and no pain over the anatomic snuffbox.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A review of perilunate injuries is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9038303/"
+    }
+  },
+  {
+    "id": "s2med-3131",
+    "category": "IM MSK",
+    "q": "Hook of hamate fracture per p320?",
+    "a": "Cause of distal ulnar nerve injury / Guyon canal syndrome. Often from a handlebar injury / impaction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    }
+  },
+  {
+    "id": "s2med-3132",
+    "category": "IM MSK",
+    "q": "Surgical neck of humerus fracture per p320?",
+    "a": "Causes axillary nerve injury: loss of deltoid function and sensation over the deltoid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    }
+  },
+  {
+    "id": "s2med-3133",
+    "category": "IM MSK",
+    "q": "Midshaft humerus fracture per p320?",
+    "a": "Causes radial nerve injury: wrist drop + pronated arm.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A case series on radial nerve palsy with humeral shaft fracture is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229417/"
+    }
+  },
+  {
+    "id": "s2med-3134",
+    "category": "IM MSK",
+    "q": "Supracondylar fracture of humerus per p320?",
+    "a": "Aka 'distal shaft fracture' in the source's wording. Causes median nerve injury: motor/sensory dysfunction of forearm muscles, first three fingers and thenar region.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A meta-analysis of nerve injuries in pediatric supracondylar fractures is linked (title only). I did not verify the source's 'distal shaft' equivalence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20357592/"
+    }
+  },
+  {
+    "id": "s2med-3135",
+    "category": "IM MSK",
+    "q": "Vertebral compression fracture per p320?",
+    "a": "Synonymous with osteoporosis on USMLE (post-menopausal, corticosteroid use, Cushing syndrome). Will often give point tenderness over a vertebra.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A StatPearls page on vertebral compression fractures is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448171/"
+    }
+  },
+  {
+    "id": "s2med-3136",
+    "category": "IM MSK",
+    "q": "Pseudofracture per p320?",
+    "a": "A band of low-density bone that looks like a fracture on x-ray but isn't. Synonymous with vitamin D deficiency (osteomalacia/rickets) on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A review of osteomalacia in adults is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10094844/"
+    }
+  },
+  {
+    "id": "s2med-3137",
+    "category": "IM MSK",
+    "q": "Pseudofracture in renal failure per p320?",
+    "a": "Can be seen in renal failure, since 1,25-D3 is low. Osteomalacia due to renal failure is called renal osteodystrophy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10094844/"
+    }
+  },
+  {
+    "id": "s2med-3138",
+    "category": "IM MSK",
+    "q": "Orbital floor fracture per p320?",
+    "a": "Can cause entrapment of the inferior rectus and inferior oblique muscles. Vignette: a man hit in the eye by a baseball with impaired upward gaze. The source notes extraocular muscles are covered in its neuroanatomy document.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 320,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=320"
+    },
+    "guideline": {
+      "text": "A StatPearls page on orbital floor fracture is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK534825/"
+    }
   }
 ];
