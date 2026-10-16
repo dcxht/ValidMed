@@ -32764,5 +32764,207 @@ export default [
       "text": "StatPearls: DKA is a high anion gap metabolic acidosis with ketonemia from beta-hydroxybutyrate and acetoacetate. I did not verify fruity breath.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
     }
+  },
+  {
+    "id": "s2peds-2304",
+    "category": "DKA",
+    "q": "What are the pH, bicarbonate and CO2 findings in DKA per p153, and what is Kussmaul breathing?",
+    "a": "Decreased pH, decreased HCO3-, decreased CO2. Ketone bodies are acidic, causing metabolic acidosis; CO2 is acidic, so we blow it off to compensate. Kussmaul breathing is deep, labored breathing in DKA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "StatPearls: Kussmaul breathing is labored, deep, tachypneic respirations in DKA.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
+  },
+  {
+    "id": "s2peds-2305",
+    "category": "DKA",
+    "q": "What do beta-hydroxybutyrate, osmolality and anion gap do in DKA per p153?",
+    "a": "All increased. Beta-hydroxybutyrate is a ketone body (seen as an arrow on an offline Step 1 NBME). Serum osmolality is high because glucose is markedly high, even though serum sodium is low. DKA is the D in MUDPILES, so the anion gap is up.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "ISPAD: blood beta-hydroxybutyrate correlates better with pH and bicarbonate than urine ketones. I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
+  },
+  {
+    "id": "s2peds-2306",
+    "category": "DKA",
+    "q": "What happens to serum Na+, serum K+, total body K+ and GFR in DKA per p153?",
+    "a": "Decreased serum Na+, increased serum K+, decreased total body K+, increased GFR.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls describes decreased glomerular filtration in DKA from hyperglycemic diuresis and dehydration, so the increased GFR claim conflicts. Source answer kept. Serum K+ can be normal or high with low total body K+ (ISPAD).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
+  },
+  {
+    "id": "s2peds-2307",
+    "category": "DKA",
+    "q": "Why is serum sodium low in DKA per p153?",
+    "a": "Mostly dilutional: high osmolality pulls fluid into the vascular space and dilutes sodium. Low insulin also means less glucose enters cells, less ATP, less Na+/K+-ATPase activity, so sodium is not pumped out of cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2peds-2308",
+    "category": "DKA",
+    "q": "How is potassium described in DKA per p153?",
+    "a": "Hyperkalemia (high serum K+) despite a low total body potassium.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "ISPAD: serum potassium may be normal or elevated from extracellular shifts, but total body potassium is invariably low from osmotic diuresis and urinary loss.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
+  },
+  {
+    "id": "s2peds-2309",
+    "category": "DKA",
+    "q": "What are the two reasons serum K+ is high in DKA per p153?",
+    "a": "1) Potassium-proton shift: acidosis moves H+ into cells and K+ out via the H+/K+ antiporter. 2) No insulin: insulin normally upregulates the Na+/K+-ATPase (3 Na+ out, 2 K+ in), so with low insulin less K+ moves into cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "ISPAD: elevated serum K+ from extracellular shifts.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
+  },
+  {
+    "id": "s2peds-2310",
+    "category": "DKA",
+    "q": "Why is total body K+ low in DKA per p153?",
+    "a": "Increased renal losses. Because serum K+ is high, more is filtered and excreted; the processes causing hyperkalemia are unmitigated, so the kidney keeps excreting potassium and the body becomes depleted.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "ISPAD attributes low total body K+ to osmotic diuresis and active urinary excretion.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
+  },
+  {
+    "id": "s2peds-2311",
+    "category": "DKA",
+    "q": "Why is GFR increased in DKA per p153?",
+    "a": "Hyperfiltration secondary to hyperglycemia: more glucose is filtered, pulling water with it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says glomerular filtration decreases with dehydration and osmotic diuresis in DKA. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
+  },
+  {
+    "id": "s2peds-2312",
+    "category": "DKA",
+    "q": "What is the first treatment for DKA per p153?",
+    "a": "Normal saline (0.9% NaCl) first, prior to giving insulin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "ISPAD: give 10-20 mL/kg isotonic fluid (0.9% NaCl or a balanced crystalloid) over 20-30 minutes; both saline and balanced crystalloids are appropriate; start insulin only after the first hour of fluids and when potassium is above 3.5 (replace K+ first if lower).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
+  },
+  {
+    "id": "s2peds-2313",
+    "category": "DKA",
+    "q": "What is the DKA, normal K+, insulin and arrhythmia question per p153?",
+    "a": "Serum potassium drops as insulin is given. If potassium was normal before insulin and the patient now has an arrhythmia, the answer is potassium for the disturbed electrolyte: insulin drove potassium into cells and caused hypokalemia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "StatPearls: total body potassium may be depleted or become depleted quickly with insulin administration. ISPAD: replace potassium before insulin if it is low.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+    }
+  },
+  {
+    "id": "s2peds-2314",
+    "category": "DKA",
+    "q": "Is bicarbonate a correct answer for low pH in DKA per p153?",
+    "a": "No. Bicarb is always a wrong answer for low pH in DKA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "ISPAD: sodium bicarbonate should not be given for metabolic acidosis because it increases the risk for cerebral injury.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156932/"
+    }
+  },
+  {
+    "id": "s2peds-2315",
+    "category": "Hypoglycemia",
+    "q": "How do you tell DKA from a hypoglycemic episode, and what is the treatment per p153?",
+    "a": "Hypoglycemia: a type I diabetic who exercised or did hard work and is found unconscious, because insulin was not decreased before exercise. Treatment is intramuscular glucagon (2CK likes this) or dextrose in water.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "Endotext: hypoglycemia during diabetes therapy. I did not verify the IM glucagon wording in the passages I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279100/"
+    }
+  },
+  {
+    "id": "s2peds-2316",
+    "category": "Hypoglycemia",
+    "q": "What is the answer when insulin causes prolonged hypoglycemia per p153?",
+    "a": "\"Deficiency of counter-regulatory glucagon.\" In advanced diabetes the glucagon-producing alpha-islet cells can also fail. The same question appears for chronic alcoholism and pancreatectomy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    },
+    "guideline": {
+      "text": "Endotext: glucagon levels do not increase as glucose falls in diabetes, so a defense against hypoglycemia is lost.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279100/"
+    }
+  },
+  {
+    "id": "s2peds-2317",
+    "category": "Type II diabetes",
+    "q": "What is type II diabetes per p153, and how can it appear in pediatrics?",
+    "a": "Insulin resistance, usually in high-BMI adults but rarely in pediatrics (a 2CK Peds form gave type II in a 17-year-old).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 153,
+      "url": "/mehlman/hy-pediatrics.pdf#page=153"
+    }
   }
 ];

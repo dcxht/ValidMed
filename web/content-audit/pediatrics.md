@@ -766,3 +766,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: neuroblastoma "causes increased BP" (StatPearls: hypertension rare, often renal artery compression); DM diagnostic thresholds ("above" vs ADA "at or above"; random glucose only with symptoms; confirm if asymptomatic). Source's 17-OH "aldosterone low" wording noted as internally inconsistent.
 - Left unverified: neuroblastoma "pediatric pheo", violaceous eyelids, Peds CMS form claim, HLA-DR3/4, Coxsackie B, tail of pancreas, GLUT4 mechanism, biopsy findings, ketones low in type II, fruity breath.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p153 (DKA labs, potassium, treatment, hypoglycemia, type II start) - 14 cards, ids s2peds-2304 to 2317
+- Inspected page text and layout; no figures. Expletive paraphrased out of card text.
+- Notes verified against StatPearls (Adult DKA), ISPAD 2022 DKA guideline summary (PMC10156932) and Endotext (Hypoglycemia During Therapy of Diabetes).
+- Source conflicts, source answer kept with caution note: GFR increased in DKA (StatPearls: decreased filtration with dehydration). Bicarbonate and fluids-first agree with ISPAD; ISPAD allows balanced crystalloids and starts insulin after the first hour of fluids.
+- Left unverified: BHB NBME claim, dilutional sodium and Na/K-ATPase mechanism, proton shift detail, IM glucagon wording, counter-regulatory glucagon deficiency in alcoholism and pancreatectomy, 2CK type II in a 17-year-old.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
