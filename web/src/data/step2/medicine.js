@@ -217,5 +217,246 @@ export default [
       "text": "PubMed article on pretibial myxedema pathophysiology; I did not verify the passage beyond its title.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/16252929/"
     }
+  },
+  {
+    "id": "s2med-0018",
+    "category": "IM Cardio",
+    "q": "Wide, fixed splitting of S2 in an ASD vignette per p6: what is the source's shorthand?",
+    "a": "The Q is saying the patient has right ventricular hypertrophy due to an ASD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2med-0019",
+    "category": "IM Cardio",
+    "q": "Patent foramen ovale on USMLE per p6, and what not to confuse it with?",
+    "a": "PFO = ASD on USMLE. Do not confuse with patent ductus arteriosus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    },
+    "guideline": {
+      "text": "StatPearls describes PFO as a shunt between septum primum and septum secundum, not a true septal defect in the strict sense. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470196/"
+    }
+  },
+  {
+    "id": "s2med-0020",
+    "category": "IM Cardio",
+    "q": "Chamber oxygen figure per p6: O2 rises from the SVC (73%) to the RA (85%) with 85% in RV and PA. Which defect?",
+    "a": "ASD: the only way O2 rises from the SVC to the RA is oxygenated blood moving from LA to RA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    },
+    "img": "/mehlman/figures/med-p006-01.jpg",
+    "imgAlt": "Source figure p6: oxygen saturations SVC 73, RA 85, RV 85, PA 85, pulmonary veins 99, LA 96, LV 96, aorta 96",
+    "guideline": {
+      "text": "StatPearls on intracardiac shunts covers the oximetry step-up method. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558969/"
+    }
+  },
+  {
+    "id": "s2med-0021",
+    "category": "IM Cardio",
+    "q": "How can an ASD cause stroke from a DVT per p6?",
+    "a": "Paradoxical embolus: a clot reaches the arterial circulation RA to LA to LV and up to the brain. Ordinarily impossible, since a venous clot lodges in the lungs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    },
+    "guideline": {
+      "text": "StatPearls: paradoxical embolism describes venous thrombi crossing a right-to-left shunt such as a PFO or ASD. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470196/"
+    }
+  },
+  {
+    "id": "s2med-0022",
+    "category": "IM Cardio",
+    "q": "When must ASDs be repaired per p6?",
+    "a": "Only with pulmonary hypertension, RVH, arrhythmia (usually AF) or paradoxical embolus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2med-0023",
+    "category": "IM Cardio",
+    "q": "Ventricular septal defect murmur per p6?",
+    "a": "Holosystolic (pan-systolic) murmur at the lower left sternal border; can have a diastolic rumble or an enlarged left atrium (more L to R flow returns more blood to the LA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    },
+    "guideline": {
+      "text": "StatPearls on VSD: I did not verify the murmur location in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470330/"
+    }
+  },
+  {
+    "id": "s2med-0024",
+    "category": "IM Cardio",
+    "q": "VSD in tetralogy of Fallot per p6: list the four components.",
+    "a": "VSD, RVH, overriding aorta and pulmonic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2med-0025",
+    "category": "IM Cardio",
+    "q": "After VSD repair per p6, what changes does USMLE want?",
+    "a": "Increased LV pressure, decreased RV pressure and decreased LA pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    }
+  },
+  {
+    "id": "s2med-0026",
+    "category": "IM Cardio",
+    "q": "Why is a VSD not cyanotic at birth per p6?",
+    "a": "Only years later does high pulmonary blood flow cause pulmonary hypertension, then RVH and reversal R to L (Eisenmenger), making the patient cyanotic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    },
+    "guideline": {
+      "text": "StatPearls: increased pulmonary vascular resistance eventually reverses the shunt, causing hypoxemia and cyanosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507800/"
+    }
+  },
+  {
+    "id": "s2med-0027",
+    "category": "IM Cardio",
+    "q": "VSD murmur silent at birth then loud at 7 days per p6: why?",
+    "a": "Decreased pulmonary vascular resistance: the lungs open up in the first week, RV pressure falls and the L to R gradient increases, so the murmur is louder. Conversely, softer at birth = increased pulmonary vascular resistance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 6,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=6"
+    },
+    "guideline": {
+      "text": "StatPearls: shunting depends on VSD size and pulmonary vascular resistance. I did not verify the timeline.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470330/"
+    }
+  },
+  {
+    "id": "s2med-0028",
+    "category": "IM Cardio",
+    "q": "Chamber oxygen figure per p7: O2 rises from RA (73%) to RV (85%). Which defect?",
+    "a": "VSD: oxygenated blood moves from LV to RV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=7"
+    },
+    "img": "/mehlman/figures/med-p007-01.jpg",
+    "imgAlt": "Source figure p7: SVC 73, RA 73, RV 85, PA 85, pulmonary veins 99, LA 96, LV 96, aorta 96",
+    "guideline": {
+      "text": "StatPearls: VSD closure may be required for symptomatic cases or complications. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470330/"
+    }
+  },
+  {
+    "id": "s2med-0029",
+    "category": "IM Cardio",
+    "q": "Chamber oxygen figure per p7: RV 73%, PA 73%, LV 85%, aorta 85%. Which diagnosis?",
+    "a": "Eisenmenger syndrome: reversal of flow from RV to LV across the VSD; the NBME is known to show this diagram.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=7"
+    },
+    "img": "/mehlman/figures/med-p007-02.jpg",
+    "imgAlt": "Source figure p7: SVC 73, RA 73, RV 73, PA 73, pulmonary veins 99, LA 96, LV 85, aorta 85",
+    "guideline": {
+      "text": "StatPearls: pulmonary vascular resistance reverses the shunt to right-to-left with hypoxemia and cyanosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507800/"
+    }
+  },
+  {
+    "id": "s2med-0030",
+    "category": "IM Cardio",
+    "q": "Why does O2 drop from 99% to 96% from the pulmonary veins to the LA per p7?",
+    "a": "Thebesian veins drain the myocardium and open into different heart chambers, including the LA; the NBME shows the 99 to 96 drop on its diagrams.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=7"
+    },
+    "guideline": {
+      "text": "StatPearls on Thebesian veins: cardiac venous drainage includes lesser cardiac veins in the myocardial layer. I did not verify drainage into the LA from the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541040/"
+    }
+  },
+  {
+    "id": "s2med-0031",
+    "category": "IM Cardio",
+    "q": "When are VSDs repaired per p7?",
+    "a": "With pulmonary hypertension, RVH, arrhythmia, Eisenmenger syndrome, recurrent endocarditis (turbulence raises risk of valve infection), or aortic regurgitation (if the VSD is near the aortic valve).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=7"
+    },
+    "guideline": {
+      "text": "StatPearls: VSD closure may be required for symptomatic cases or complications. I did not verify the full list.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470330/"
+    }
+  },
+  {
+    "id": "s2med-0032",
+    "category": "IM Cardio",
+    "q": "Atrioventricular septal defect per p7: location, association and murmur?",
+    "a": "Between the atrium and ventricle, aka endocardial cushion defect (the older term also applies to ASD and VSD in Down syndrome); seen in Down syndrome; holosystolic or regular systolic 29 times out of 30.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=7"
+    },
+    "guideline": {
+      "text": "StatPearls: complete AVSD is strongly associated with trisomy 21 and arises from abnormal endocardial cushion development in weeks 5-8.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK562194/"
+    }
+  },
+  {
+    "id": "s2med-0033",
+    "category": "IM Cardio",
+    "q": "Highest yield cause of mitral regurgitation on USMLE per p7?",
+    "a": "Post-MI papillary muscle rupture: hours to days after an MI, a new-onset systolic murmur = MR. Most USMLE questions will not mention radiation to the axilla.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=7"
+    },
+    "guideline": {
+      "text": "StatPearls: papillary muscle rupture typically occurs 2 to 7 days after an infarct. I did not verify the 'hours' timing.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK499976/"
+    }
+  },
+  {
+    "id": "s2med-0034",
+    "category": "IM Cardio",
+    "q": "MR in rheumatic heart disease per p7?",
+    "a": "Seen acutely in rheumatic heart disease; the valve scars over years and later becomes mitral stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 7,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=7"
+    }
   }
 ];
