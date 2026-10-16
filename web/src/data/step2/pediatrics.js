@@ -38954,5 +38954,200 @@ export default [
       "text": "Current caution: this is DTaP (5th dose) in a child, with Tdap reserved for adolescents and adults. I did not verify the polio dose number on the pages I read.",
       "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
     }
+  },
+  {
+    "id": "s2peds-2722",
+    "category": "Peds vignettes",
+    "q": "Finish the 4-6 year vaccines from p194. What else is given at 4-6 years per p195?",
+    "a": "MMRV (2nd dose).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC: MMR or MMRV may be used, MMRV only up to age 12 and if parents prefer it; the minimum interval between MMRV doses is 3 months. Source answer kept.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2723",
+    "category": "Peds vignettes",
+    "q": "HPV vaccine schedule per p195?",
+    "a": "Ages 9-45; 2 doses if first given at age 9-14, 3 doses if first given at age 15 or older.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC schedule notes: routine at age 11-12 (can start at 9), catch-up through age 18 for all; the 9-45 range in the source is the FDA label range and I did not verify the adult shared decision recommendations. Source answer kept.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2724",
+    "category": "Peds vignettes",
+    "q": "Which vaccines are given at school age 11-13 per p195?",
+    "a": "TDaP (6th dose) and meningococcal (1st dose).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "Current caution: CDC lists Tdap (adolescent dose) and MenACWY at 11-12 years; I did not verify the dose-count wording. Source answer kept.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2725",
+    "category": "Peds vignettes",
+    "q": "Which vaccine is given at school age 16 per p195?",
+    "a": "Meningococcal (2nd dose).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC schedule notes give MenACWY as a booster in adolescence; I did not verify the age-16 wording on the page I read. Source answer kept.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2726",
+    "category": "Peds vignettes",
+    "q": "Hepatitis B and rotavirus dose timing summary per p195?",
+    "a": "HepB: birth, 2 and 6 months (3 doses). Rotavirus (oral; live-attenuated): 2, 4, 6 months (3 doses).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC: HepB 3-dose series at 0, 1-2 and 6-18 months. I did not verify rotavirus dose counts in the passage I read (the dose count depends on the product).",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2727",
+    "category": "Peds vignettes",
+    "q": "Polio and Haemophilus influenzae type B dose timing per p195?",
+    "a": "Polio (Salk; IM killed): 2, 4, 6 months and 4-6 years (4 doses). Hib: 2, 4, 6 months and 1 year (4 doses).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "I did not verify these dose ages in the CDC pages I read.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
+    }
+  },
+  {
+    "id": "s2peds-2728",
+    "category": "Peds vignettes",
+    "q": "Pneumococcal conjugate dose timing in children per p195?",
+    "a": "PCV13: 2, 4, 6 months and 1 year (4 doses).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "Current caution: this reflects 2025 CDC wording and the source predates it. CDC says a 4-dose series is given with PCV15 or PCV20, not PCV13.",
+      "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
+    }
+  },
+  {
+    "id": "s2peds-2729",
+    "category": "Peds vignettes",
+    "q": "TDaP dose timing per p195?",
+    "a": "2, 4, 6 months; 18 months; 4-6 years; 11-13 years (6 doses).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "Current caution: children get DTaP and adolescents get Tdap. I did not verify the 4th-dose age window.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
+    }
+  },
+  {
+    "id": "s2peds-2730",
+    "category": "Peds vignettes",
+    "q": "Hepatitis A and MMRV dose timing per p195?",
+    "a": "HepA: 1 year and 18 months (2 doses). MMRV: 1 year and 4-6 years (2 doses).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC: MMR or MMRV may be used for these doses. I did not verify the HepA 6-month interval wording.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2731",
+    "category": "Peds vignettes",
+    "q": "Meningococcal dose timing per p195?",
+    "a": "11-13 years and 16 years (2 doses).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC schedule notes cover MenACWY; I did not verify the age-16 booster wording on the page I read.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2732",
+    "category": "Peds vignettes",
+    "q": "Influenza vaccine options and season per p195?",
+    "a": "Either killed (IM) or live-attenuated (intranasal). Only give in fall or winter (if the vignette says e.g. April, the answer is do not give). IM killed starts at age 6 months and is given annually.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC: minimum age is 6 months for inactivated vaccine and 2 years for LAIV3. I did not verify the fall and winter timing statement.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2733",
+    "category": "Peds vignettes",
+    "q": "Who can get live-attenuated influenza vaccine per p195?",
+    "a": "Annually in fall or winter, only for non-pregnant, non-immunocompromised persons age 2-49.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "CDC: LAIV3 minimum age is 2 years; household contacts of severely immunosuppressed persons who require a protected environment should not receive it. I did not verify the age 49 limit.",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html"
+    }
+  },
+  {
+    "id": "s2peds-2734",
+    "category": "Peds vignettes",
+    "q": "Pneumococcal vaccine for older adults per p195?",
+    "a": "One dose of PCV13 to all persons age 65, then PPSV23 6-12 months later.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 195,
+      "url": "/mehlman/hy-pediatrics.pdf#page=195"
+    },
+    "guideline": {
+      "text": "Current caution: this reflects 2025 CDC wording and the source predates it. CDC now recommends pneumococcal vaccination for adults 50 years or older, with PCV20 or PCV21 among the options; the PCV13 then PPSV23 sequence is outdated.",
+      "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
+    }
   }
 ];

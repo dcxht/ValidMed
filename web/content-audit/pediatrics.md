@@ -1060,3 +1060,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: PCV13 (now PCV15/PCV20); Tdap vs DTaP in children; MMRV vs MMR; HepB 4th dose permitted with combinations; 17-OH aldosterone wording.
 - Left unverified: random cortisol 25 mcg/dL; Hib and PCV 4th dose age windows; 15-18 month DTaP; polio dose number.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p195 (Bullet points: vaccine schedule by age and organism, influenza, pneumococcal) - 13 cards, ids s2peds-2722 to 2734
+- Inspected page text; no figures. Page ends on the PPSV23 adult bullet, which is complete.
+- Notes verified against CDC child schedule, schedule notes and pneumococcal recommendations pages.
+- Source answers kept with caution notes: PCV13 (now PCV15/PCV20; adults 50+ with PCV20/21), Tdap vs DTaP, MMRV vs MMR, HPV range.
+- Left unverified: rotavirus dose counts, polio/Hib dose ages, age-16 meningococcal booster wording, LAIV age 49 limit, fall/winter flu timing.
+- Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
