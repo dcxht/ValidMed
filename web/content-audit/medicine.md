@@ -932,3 +932,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p265 (SAH cont., ICH) - 6 cards, ids s2med-2608 to 2613
 - NBME claims unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p266 (ICH assoc., pituitary apoplexy, Cushing reflex, GCS) - 12 cards, ids s2med-2614 to 2625
+- NBME observations unverified.
+## p267 (herniation types) - 8 cards, ids s2med-2626 to 2633
+- Herniation wording from source; linked paper title only.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.

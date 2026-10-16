@@ -34497,5 +34497,269 @@ export default [
       "page": 265,
       "url": "/mehlman/hy-internal-medicine.pdf#page=265"
     }
+  },
+  {
+    "id": "s2med-2614",
+    "category": "IM Neuro",
+    "q": "Intracerebral hemorrhage and Alzheimer per p266 (continued)?",
+    "a": "Associated with Alzheimer disease: amyloid angiopathy, which presents in Alzheimer as recurrent hemorrhagic stroke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "A paper on recurrent amyloid angiopathy-related hemorrhage is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10661374/"
+    }
+  },
+  {
+    "id": "s2med-2615",
+    "category": "IM Neuro",
+    "q": "Intracerebral hemorrhage and brain cancer per p266?",
+    "a": "Can also be associated with brain cancer (for example glioblastoma multiforme).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2med-2616",
+    "category": "IM Neuro",
+    "q": "Pituitary apoplexy per p266?",
+    "a": "Bleeding into the pituitary gland; can cause bitemporal hemianopsia. USMLE wants you to know this can occur in the puerperium and also due to pituitary tumors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "A case report of postpartum pituitary apoplexy is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4692026/"
+    }
+  },
+  {
+    "id": "s2med-2617",
+    "category": "IM Neuro",
+    "q": "Pituitary apoplexy: 2CK vignette per p266?",
+    "a": "A 2CK form gives bitemporal hemianopsia in a woman who just gave birth, where pituitary apoplexy is the only listed answer that could cause this visual pattern.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4692026/"
+    }
+  },
+  {
+    "id": "s2med-2618",
+    "category": "IM Neuro",
+    "q": "Cushing reflex: triad per p266?",
+    "a": "Seen with increased ICP: 1) HTN, 2) bradycardia, 3) respiratory disturbance (classically decreased RR, though an NBME question does not give RR as decreased).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the Cushing reflex is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549801/"
+    }
+  },
+  {
+    "id": "s2med-2619",
+    "category": "IM Neuro",
+    "q": "Cushing reflex: mechanism per p266?",
+    "a": "Increased ICP compresses intracerebral vessels; chemoreceptors sense decreased oxygen delivery and increased CO2; sympathetic activation and peripheral arteriolar vasoconstriction raise BP; increased carotid sinus stretch raises CN IX afferent firing to the solitary nucleus; increased CN X efferent firing to nodal tissue decreases HR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card; I did not verify each step.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549801/"
+    }
+  },
+  {
+    "id": "s2med-2620",
+    "category": "IM Neuro",
+    "q": "Cushing reflex: respiratory rate per p266?",
+    "a": "The decreased RR is due to increased ICP compressing the brainstem.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2med-2621",
+    "category": "IM Neuro",
+    "q": "Cushing reflex: NBME vignette per p266?",
+    "a": "A 15-line paragraph about a patient in an accident, asking the reason for his or her HTN: 'increased intracranial pressure'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2med-2622",
+    "category": "IM Neuro",
+    "q": "Cushing reflex vs Cushing ulcer per p266?",
+    "a": "Completely unrelated. Cushing ulcer: head trauma causing vagal outflow, increased acid production and peptic ulcers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "A narrative review on Cushing ulcer pathophysiology is linked (title only); I did not read it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37188653/"
+    }
+  },
+  {
+    "id": "s2med-2623",
+    "category": "IM Neuro",
+    "q": "Glasgow coma scale: how it is tested per p266?",
+    "a": "The source observes across NBME exams (particularly 2CK Neuro CMS forms) that they never ask you to formally calculate a GCS score.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "img": "/mehlman/figures/med-p266-01.jpg",
+    "imgAlt": "Table of the Glasgow Coma Scale: eye opening 1-4, verbal 1-5, motor 1-6; minor 13-15, moderate 9-12, severe 3-8"
+  },
+  {
+    "id": "s2med-2624",
+    "category": "IM Neuro",
+    "q": "GCS: decorticate and decerebrate per p266?",
+    "a": "'Decorticate' or 'decerebrate' posturing occasionally surfaces on NBME; it means GCS is low and the patient has compromised brain function, possibly herniation / increased ICP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    },
+    "guideline": {
+      "text": "A paper on decorticate and decerebrate responses is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12097167/"
+    }
+  },
+  {
+    "id": "s2med-2625",
+    "category": "IM Neuro",
+    "q": "GCS and CT before LP per p266?",
+    "a": "If GCS is not 15, head CT should be done before LP (in suspected meningitis workup).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 266,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2med-2626",
+    "category": "IM Neuro",
+    "q": "Herniation types: how asked per p267?",
+    "a": "The source says they ask this on a 2CK form, listing all the brain herniation types to diagnose which one it is.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    },
+    "img": "/mehlman/figures/med-p267-01.jpg",
+    "imgAlt": "Coronal brain diagram with arrows A to F marking herniation directions"
+  },
+  {
+    "id": "s2med-2627",
+    "category": "IM Neuro",
+    "q": "Cingulate (subfalcine) herniation (A) per p267?",
+    "a": "Does not usually produce specific symptoms but can compromise blood flow in the anterior cerebral artery, which is necessary for contralateral motor/sensory to the leg. The cingulate gyrus shifts under the falx cerebri.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "A paper on types of cerebral herniation and imaging is linked (title only); I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31589570/"
+    }
+  },
+  {
+    "id": "s2med-2628",
+    "category": "IM Neuro",
+    "q": "Transcalvarial herniation (B) per p267?",
+    "a": "Brain tissue extrudes through a skull defect. Symptoms vary with the herniated tissue, ranging from none to seizures or focal neurologic deficits.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31589570/"
+    }
+  },
+  {
+    "id": "s2med-2629",
+    "category": "IM Neuro",
+    "q": "Central transtentorial herniation (C) per p267?",
+    "a": "Decreased level of consciousness and bilateral motor abnormalities. The diencephalic structures move downward through the tentorial notch.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    },
+    "guideline": {
+      "text": "The same paper is linked on an earlier card.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31589570/"
+    }
+  },
+  {
+    "id": "s2med-2630",
+    "category": "IM Neuro",
+    "q": "Uncal herniation (D) per p267?",
+    "a": "The medial temporal lobe (uncus) shifts into the tentorial notch. Ipsilateral mydriasis plus contralateral motor deficits.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2med-2631",
+    "category": "IM Neuro",
+    "q": "Uncal herniation: why these signs per p267?",
+    "a": "The ipsilateral mydriasis is due to CN III compression. The contralateral motor deficits are due to compression of the cerebral peduncle.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2med-2632",
+    "category": "IM Neuro",
+    "q": "Upward transtentorial herniation (E) per p267?",
+    "a": "Decreased level of consciousness and pupillary changes. The diencephalic structures move upward through the tentorial notch.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2med-2633",
+    "category": "IM Neuro",
+    "q": "Tonsillar herniation (F) per p267?",
+    "a": "The cerebellar tonsils move downward into the foramen magnum, compressing the brainstem. Life-threatening respiratory and cardiovascular compromise; can cause decerebrate or decorticate posturing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 267,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=267"
+    }
   }
 ];
