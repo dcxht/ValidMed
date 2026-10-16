@@ -22781,6 +22781,245 @@ export default [
       "text": "StatPearls confirms AC greater than BC in sensorineural loss and Weber lateralization to the contralateral unaffected ear.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK526135/"
     }
+  },
+  {
+    "id": "s2peds-1591",
+    "category": "Depressive disorders",
+    "q": "How many of the 9 SIGECAPS symptoms, and for how long, does p109 require for a major depressive disorder diagnosis?",
+    "a": "At least 5 out of 9 SIGECAPS symptoms must be present for at least a 2-week period.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "StatPearls on pediatric depression confirms the DSM-5 threshold of at least 5 symptoms during the same 2-week period and adds that at least one must be depressed mood or loss of interest or pleasure, and that children and adolescents can present with irritable mood instead of sadness.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534797/"
+    }
+  },
+  {
+    "id": "s2peds-1592",
+    "category": "Depressive disorders",
+    "q": "On p109, what do the S, I, G, and E of the MDD SIGECAPS mnemonic stand for?",
+    "a": "S is sleep disturbance (insomnia or hypersomnia), I is interest loss, G is guilt or feelings of worthlessness, and E is energy loss.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "StatPearls lists the same DSM-5 symptom set, including sleep change, loss of interest or pleasure, worthlessness or excessive guilt, and fatigue or loss of energy, in the pediatric MDD criteria.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534797/"
+    }
+  },
+  {
+    "id": "s2peds-1593",
+    "category": "Depressive disorders",
+    "q": "On p109, what do the C, A, P, and S of the MDD SIGECAPS mnemonic stand for?",
+    "a": "C is concentration problems, A is appetite changes (usually weight loss, sometimes weight gain), P is psychomotor agitation (restlessness or slowed speech and movements), and S is suicidal ideation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "StatPearls confirms the same criteria (poor concentration, appetite or weight change, psychomotor agitation or retardation, and recurrent thoughts of death or suicide) for children and adolescents.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534797/"
+    }
+  },
+  {
+    "id": "s2peds-1594",
+    "category": "Depressive disorders",
+    "q": "Beyond symptom count, what two additional requirements does p109 place on MDD symptoms?",
+    "a": "The symptoms must cause socio-occupational impairment and must not be attributed to a substance or another medical condition.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "StatPearls likewise requires clinically significant distress or functional impairment and exclusion of substance- or medical-condition attribution before diagnosing MDD in children and adolescents.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534797/"
+    }
+  },
+  {
+    "id": "s2peds-1595",
+    "category": "Depressive disorders",
+    "q": "What does p109 mean by terminal insomnia in major depression?",
+    "a": "The patient wakes up too early in the morning; it can be seen in MDD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "Early-morning awakening is a recognized sleep pattern in depressive disorders; StatPearls lists insomnia or hypersomnia among the DSM-5 symptom criteria rather than treating one pattern as required.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534797/"
+    }
+  },
+  {
+    "id": "s2peds-1596",
+    "category": "Depressive disorders",
+    "q": "What treatment options does p109 list for major depressive disorder?",
+    "a": "Drugs such as SSRIs, cognitive behavioral therapy, and occasionally electroconvulsive therapy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "For pediatric MDD, fluoxetine is FDA-approved from age 8 and escitalopram from age 12; all antidepressants carry a boxed warning about suicidal thoughts and behaviors in children, adolescents, and young adults, so close monitoring is required.",
+      "url": "https://www.mayoclinic.org/diseases-conditions/teen-depression/in-depth/antidepressants/art-20047502"
+    }
+  },
+  {
+    "id": "s2peds-1597",
+    "category": "Depressive disorders",
+    "q": "Which medical condition does p109 flag as an important cause of low mood and apathy, including a Step 2 CK peds question about a 14-year-old?",
+    "a": "Hypothyroidism, with Hashimoto thyroiditis given as the exam example in a 14-year-old.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "StatPearls on pediatric depression directs clinicians to differentiate depression from medical illnesses that mimic depressive symptoms, consistent with screening for causes such as hypothyroidism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534797/"
+    }
+  },
+  {
+    "id": "s2peds-1598",
+    "category": "Depressive disorders",
+    "q": "What severe-diagnosis example does p109 give for depression due to a medical condition?",
+    "a": "Depression can occur after severe diagnoses, for example acute lymphoblastic leukemia (ALL).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "Adjustment and depressive symptoms after serious medical illness are recognized in pediatric practice; StatPearls emphasizes thorough evaluation and psychosocial stressor assessment when diagnosing pediatric depression.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534797/"
+    }
+  },
+  {
+    "id": "s2peds-1599",
+    "category": "Depressive disorders",
+    "q": "What symptom pattern defines atypical depression on p109?",
+    "a": "Hypersomnolence plus hyperphagia in a depression that is reactive or ameliorates when positive circumstances present themselves.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "The DSM-5 with-atypical-features specifier also includes leaden paralysis and interpersonal rejection sensitivity alongside mood reactivity, increased appetite or weight gain, and hypersomnia.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5614762/"
+    }
+  },
+  {
+    "id": "s2peds-1600",
+    "category": "Depressive disorders",
+    "q": "What is mood reactivity on p109, and why does it matter diagnostically?",
+    "a": "Positive events or experiences can significantly improve mood; this mood reactivity distinguishes atypical depression from other forms of depression, where mood usually stays persistently low regardless of external circumstances.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "Mood reactivity is the required Criterion A feature of the DSM-5 with-atypical-features specifier for depressive and bipolar disorders.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5614762/"
+    }
+  },
+  {
+    "id": "s2peds-1601",
+    "category": "Depressive disorders",
+    "q": "How does p109 treat atypical depression, and why are MAOIs not used first-line despite high efficacy?",
+    "a": "Treatment is CBT, SSRIs, or monoamine oxidase inhibitors; MAOIs are highly efficacious but not first-line because of serotonin syndrome risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "StatPearls confirms MAOIs are effective for depression with atypical features but are reserved for nonresponders because of dietary restrictions, adverse effects, and serotonin syndrome risk, and notes no MAOI is approved for patients younger than 18.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539848/"
+    }
+  },
+  {
+    "id": "s2peds-1602",
+    "category": "Dysthymia and cyclothymia",
+    "q": "How does p109 define dysthymia?",
+    "a": "At least 2 years of depressed mood without fulfilling MDD criteria.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "DSM-5 has folded dysthymia into persistent depressive disorder, which merges dysthymic disorder and chronic MDD; the required duration is 2 years in adults but only 1 year in children and adolescents.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541052/"
+    }
+  },
+  {
+    "id": "s2peds-1603",
+    "category": "Dysthymia and cyclothymia",
+    "q": "How does p109 define cyclothymia?",
+    "a": "At least 2 years of oscillation between depressed mood and hypomania.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "DSM-5 cyclothymic disorder requires numerous periods of hypomanic and depressive symptoms that never meet full episode criteria, lasting at least 2 years, or 1 year in those 18 and younger.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
+    }
+  },
+  {
+    "id": "s2peds-1604",
+    "category": "Bipolar disorder I and II",
+    "q": "What does each letter of the p109 DIGFAST mnemonic for mania and hypomania stand for?",
+    "a": "D is distractibility, I is impulsivity (shopping sprees, reckless driving), G is grandiosity, F is flight of ideas, A is activity increase (goal-directed, sexual, or psychomotor agitation), S is sleep deficit (decreased need for sleep), and T is talkativeness (pressured speech).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "StatPearls lists the same DSM-5 manic and hypomanic symptom set, requiring at least 3 of the 7 symptoms (4 if the mood is only irritable) during the episode.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
+    }
+  },
+  {
+    "id": "s2peds-1605",
+    "category": "Bipolar disorder I and II",
+    "q": "How does p109 characterize a manic episode?",
+    "a": "An intensely elevated, expansive, or irritable mood with markedly impaired judgment, usually lasting longer than a week, causing socio-occupational dysfunction, sometimes causing psychotic features and requiring hospitalization, with a markedly increased risk of suicide.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "DSM-5 defines a manic episode as at least 7 consecutive days of elevated or irritable mood with increased energy, or any duration if hospitalization is required; StatPearls treats mania as a medical emergency that often needs psychiatric hospitalization.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
+    }
+  },
+  {
+    "id": "s2peds-1606",
+    "category": "Bipolar disorder I and II",
+    "q": "How does p109 contrast hypomania with mania?",
+    "a": "Hypomania usually lasts longer than 4 days and does not cause socio-occupational dysfunction, psychotic features, or require hospitalization.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 109,
+      "url": "/mehlman/hy-pediatrics.pdf#page=109"
+    },
+    "guideline": {
+      "text": "DSM-5 requires at least 4 consecutive days for hypomania and specifies the episode is not severe enough to cause marked impairment and has no psychosis; if psychosis is present, the episode is mania by definition.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558998/"
+    }
   }
-
 ];
