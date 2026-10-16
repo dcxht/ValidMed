@@ -640,3 +640,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p152 (multiple myeloma) - 8 cards, ids s2med-1372 to 1379
 - Wording conflicts: M-spike described as IgG light chains; bisphosphonate as initial myeloma treatment (bone disease only). Unverified: AoCD low-MCV percentage.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p153 (Waldenstrom, polycythemia, clotting cascade) - 9 cards, ids s2med-1380 to 1388
+## p154 (PT/PTT, ITP, vWD) - 13 cards, ids s2med-1389 to 1401
+- Notes: ITP treatment list omits TPO agonists (ASH 2019). Unverified: 50% PTT and accessory-spleen heuristics.
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.

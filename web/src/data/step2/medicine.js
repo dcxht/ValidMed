@@ -18423,5 +18423,277 @@ export default [
       "text": "A review of MGUS diagnosis and management is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11975479/"
     }
+  },
+  {
+    "id": "s2med-1380",
+    "category": "IM Heme/Onc",
+    "q": "Waldenstrom macroglobulinemia: cell type and spike per p153?",
+    "a": "Cancer of plasmacytoid cells ('-oid' means looks like but isn't: they look like plasma cells but aren't). IgM M-protein spike on SPEP (myeloma is IgG).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    },
+    "guideline": {
+      "text": "A 2023 Waldenstrom update is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10249724/"
+    }
+  },
+  {
+    "id": "s2med-1381",
+    "category": "IM Heme/Onc",
+    "q": "Waldenstrom vs multiple myeloma per p153?",
+    "a": "Waldenstrom does not cause hypercalcemia, lytic lesions, Bence-Jones proteinuria or amyloidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2med-1382",
+    "category": "IM Heme/Onc",
+    "q": "Waldenstrom hyperviscosity per p153?",
+    "a": "Headache, blurry vision, tinnitus or Raynaud phenomenon.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    },
+    "guideline": {
+      "text": "A review of hyperviscosity syndrome in paraprotein conditions is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7248405/"
+    }
+  },
+  {
+    "id": "s2med-1383",
+    "category": "IM Heme/Onc",
+    "q": "Polycythemia vera: mutation and lab pattern per p153?",
+    "a": "JAK2 mutation, 'proliferation of hematopoietic stem cells' (NBME answer). Hb 18+ (NR 12-17.5 g/dL) plus increased WBCs and/or platelets: at least 2 of 3 cell lines increased, RBCs always. EPO is suppressed due to increased Hb.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    },
+    "guideline": {
+      "text": "A review of PV diagnosis and treatment is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11921015/"
+    }
+  },
+  {
+    "id": "s2med-1384",
+    "category": "IM Heme/Onc",
+    "q": "Polycythemia vera symptoms per p153?",
+    "a": "Increased Hb can cause hyperviscosity syndrome. Basophilia can cause pruritus after a shower.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2med-1385",
+    "category": "IM Heme/Onc",
+    "q": "Treatment of polycythemia vera per p153?",
+    "a": "Phlebotomy for acute symptoms of hyperviscosity (next best step for headache/blurry vision). Serial phlebotomy and hydroxyurea can be answers for recurrent symptoms; USMLE won't give both at the same time.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    },
+    "guideline": {
+      "text": "The 2021 European LeukemiaNet PV recommendations are linked; I did not verify the text. Source answer stays for the exam.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35358444/"
+    }
+  },
+  {
+    "id": "s2med-1386",
+    "category": "IM Heme/Onc",
+    "q": "Secondary polycythemia: pattern and mechanism per p153?",
+    "a": "Isolated increase in RBCs due to increased EPO (WBCs and platelets normal). Lung disease with low arterial O2: kidneys sense low O2 and secrete EPO, which stimulates erythroid precursors.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2med-1387",
+    "category": "IM Heme/Onc",
+    "q": "Other causes of secondary polycythemia per p153?",
+    "a": "Renal cell carcinoma (secretes EPO, and PTHrP causing hypercalcemia); exogenous EPO (e.g., cyclists).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    }
+  },
+  {
+    "id": "s2med-1388",
+    "category": "IM Heme/Onc",
+    "q": "Brief clotting factor pathway overview per p153?",
+    "a": "Intrinsic: XII, XI, IX, VIII. Extrinsic: tissue factor (III) and VII. Common: X, V, II (prothrombin to thrombin), fibrinogen to fibrin with crosslinking. Protein C (with protein S as cofactor) reverses Va and VIIIa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 153,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=153"
+    },
+    "img": "/mehlman/figures/med-p153-01.jpg",
+    "imgAlt": "Clotting cascade diagram with intrinsic, extrinsic and common pathways"
+  },
+  {
+    "id": "s2med-1389",
+    "category": "IM Heme/Onc",
+    "q": "PT vs PTT per p154?",
+    "a": "PT reflects the extrinsic pathway; PTT (aPTT) the intrinsic pathway. PT alone high: extrinsic problem. PTT alone high: intrinsic problem. Both high: common pathway.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1390",
+    "category": "IM Heme/Onc",
+    "q": "Normal values per p154?",
+    "a": "PT 10-15 seconds. PTT 25-40 seconds. Bleeding time 2-7 minutes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1391",
+    "category": "IM Heme/Onc",
+    "q": "What do bleeding time vs PT/PTT measure per p154?",
+    "a": "Bleeding time relates to platelets, not clotting factors. PT and PTT relate to clotting factors, not platelets.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1392",
+    "category": "IM Heme/Onc",
+    "q": "ITP: mechanism and labs per p154?",
+    "a": "Antibodies against glycoprotein IIb/IIIa on platelets. Low platelets (usually <100,000/uL; normal 150-450,000), increased bleeding time, normal PT and PTT. Precipitated by viral infection (antibodies cross-react with platelets); type II hypersensitivity. Viral infection is asymptomatic in about 50% of vignettes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    },
+    "guideline": {
+      "text": "The ASH 2019 ITP guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
+  },
+  {
+    "id": "s2med-1393",
+    "category": "IM Heme/Onc",
+    "q": "ITP: two USMLE presentations per p154?",
+    "a": "1) School-age child (about 12) with coryza for a few days, then petechiae and/or nosebleeds. 2) Woman in her 30s-40s with no mention of viral infection, random bruising and bleeding time 9 minutes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1394",
+    "category": "IM Heme/Onc",
+    "q": "Same vignette as ITP but bleeding time 6 minutes per p154?",
+    "a": "Bleeding time 6 minutes is normal, so the answer is domestic abuse, not ITP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1395",
+    "category": "IM Heme/Onc",
+    "q": "Unusual 2CK ITP question per p154?",
+    "a": "A girl with only heavy menses (classically vWD) where vWD isn't listed and the other choices are clearly wrong: answer ITP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1396",
+    "category": "IM Heme/Onc",
+    "q": "ITP treatment order per p154?",
+    "a": "Steroids, then IVIG, then splenectomy, in that order.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    },
+    "guideline": {
+      "text": "The ASH 2019 ITP guideline is linked; I did not verify details, but current guidance includes other options (e.g., TPO agonists) not in the source. Source answer stays for the exam.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
+  },
+  {
+    "id": "s2med-1397",
+    "category": "IM Heme/Onc",
+    "q": "Platelets normalize after splenectomy but fall again 6 months later per p154?",
+    "a": "Accessory spleen (a pea-sized second spleen that can grow after the main spleen is removed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1398",
+    "category": "IM Heme/Onc",
+    "q": "von Willebrand disease: inheritance and function of vWF per p154?",
+    "a": "Autosomal dominant. vWF bridges glycoprotein Ib on platelets to vascular endothelium/collagen (platelet adhesion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    },
+    "guideline": {
+      "text": "The 2021 ASH/ISTH/NHF/WFH vWD diagnosis guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7805340/"
+    }
+  },
+  {
+    "id": "s2med-1399",
+    "category": "IM Heme/Onc",
+    "q": "von Willebrand disease lab pattern per p154?",
+    "a": "Increased bleeding time; increased PTT (only about half the time); normal PT; normal platelet count. Decreased vWF means decreased platelet function but platelet count is unchanged.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1400",
+    "category": "IM Heme/Onc",
+    "q": "Why is PTT increased in vWD, and how often per p154?",
+    "a": "vWF stabilizes factor VIII in plasma, so low vWF affects the intrinsic pathway and increases PTT. This is a secondary role, so the source says only about 50% of vWD vignettes give increased PTT. PT is normal since extrinsic pathway is fine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
+  },
+  {
+    "id": "s2med-1401",
+    "category": "IM Heme/Onc",
+    "q": "vWD vignette per p154?",
+    "a": "8/10 questions: teenager or young adult with one platelet problem (mild cutaneous findings such as petechiae, bruising, plus epistaxis) and one clotting factor problem (excessive bleeding with tooth extraction, heavy menses). Hemarthroses are hemophilia, not vWD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 154,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=154"
+    }
   }
 ];
