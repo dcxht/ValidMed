@@ -1004,3 +1004,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: erysipelas/cellulitis oral dicloxacillin or cephalexin (erysipelas is streptococcal); otitis media pathogen (NTHi comparable); tympanostomy criteria unverified.
 - Left unverified: EoE trachealization, impetigo image differential and drug ranking, cellulitis organism ranking, OM treatment specifics, otitis externa regimen and acetic acid prophylaxis.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p187 (Bullet points: OME, AOM, cholesteatoma, mastoiditis, language delay, pneumonia, Hodgkin) - 11 cards, ids s2peds-2646 to 2656
+- Inspected page text and layout; no figures.
+- Notes verified against the AAO-HNS OME guideline abstract, StatPearls (Acute Otitis Media, Cholesteatoma, Mastoiditis, Necrotizing Otitis Externa, Hearing Loss Screening, Hodgkin), the IDSA/PIDS CAP guideline and an influenza secondary infections review.
+- Source conflicts, source answer kept with caution note: OME observation "4-8 weeks" (guideline: 3 months); "mastoiditis (malignant otitis externa)" (distinct conditions).
+- Left unverified: tympanic membrane immobility as most sensitive finding, 100-word detail, all pneumonia organism exam conventions (Mycoplasma bilateral/interstitial, Staph when pneumococcus absent).
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.

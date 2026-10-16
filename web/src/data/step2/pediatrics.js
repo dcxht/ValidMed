@@ -37814,5 +37814,170 @@ export default [
       "text": "A practical guide on otitis externa treatment and prevention exists; I did not verify the acetic acid recommendation in the passage I read.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK556055/"
     }
+  },
+  {
+    "id": "s2peds-2646",
+    "category": "Peds vignettes",
+    "q": "8M with an ear infection one month ago, slightly reduced hearing in one ear, fluid behind the tympanic membrane, afebrile and well-appearing. Diagnosis and treatment per p187?",
+    "a": "Otitis media with effusion (serous otitis media): fluid occasionally persists after OM resolves (it need not be recurrent OM); treat with observation, as it usually self-resolves in 4-8 weeks.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "Current caution: the AAO-HNS OME guideline recommends watchful waiting for 3 months from onset or diagnosis for a child not at risk, with an age-appropriate hearing test if OME persists 3 months or longer. The source's 4-8 weeks is shorter. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26832942/"
+    }
+  },
+  {
+    "id": "s2peds-2647",
+    "category": "Peds vignettes",
+    "q": "10-month-old with fussiness, fever and no movement of the left tympanic membrane on pneumatic otoscopy. Diagnosis per p187?",
+    "a": "Otitis media; the wrong answer is OM with effusion. Immobility of the tympanic membrane is the most sensitive finding for OM; if the question says the membrane is mobile, the diagnosis is not OM.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "StatPearls: otitis media is diagnosed clinically with pneumatic otoscopy, which has higher sensitivity and specificity than plain otoscopy; a bulging or erythematous membrane with purulent fluid is typical. I did not verify immobility as the single most sensitive finding.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470332/"
+    }
+  },
+  {
+    "id": "s2peds-2648",
+    "category": "Peds vignettes",
+    "q": "7M with squamous proliferation seen behind the tympanic membrane. Diagnosis and treatment per p187?",
+    "a": "Cholesteatoma; it gradually grows and invades the inner ear, causing irreversible hearing loss; treatment is surgical excision.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "StatPearls: cholesteatoma is benign, expansive keratinized squamous debris in the middle ear that can cause hearing loss, dizziness and facial paralysis; it usually requires surgical removal.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448108/"
+    }
+  },
+  {
+    "id": "s2peds-2649",
+    "category": "Peds vignettes",
+    "q": "2F with fever 103, tugging on the pinna, a pinna displaced upward and outward, and mastoid process tenderness. Next best step per p187?",
+    "a": "CT of the temporal bone (sounds wrong in a kid but is the Peds NBME answer). Mastoiditis can come with a temporal bone fluid collection that must be drained to prevent brain abscess; MRI or CT must be done; x-ray is wrong; then IV broad-spectrum antibiotics. The source calls this mastoiditis (malignant otitis externa).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls describes acute mastoiditis as a complication of middle ear infection, and necrotizing (malignant) otitis externa as a separate skull base infection of the external canal; the source equating them is not supported. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560877/"
+    }
+  },
+  {
+    "id": "s2peds-2650",
+    "category": "Peds vignettes",
+    "q": "30-month-old who knows 100 words but does not use them in phrases, with other milestones met. Next best step per p187?",
+    "a": "Audiometry; hearing deficits are a common cause of language delay.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "StatPearls hearing screening page: early detection mitigates effects on speech, language and social development. I did not verify the 100-word detail.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK597360/"
+    }
+  },
+  {
+    "id": "s2peds-2651",
+    "category": "Peds vignettes",
+    "q": "6M with bilateral pneumonia and no other risk factors. Diagnosis per p187?",
+    "a": "Mycoplasma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "Exam convention. The IDSA/PIDS CAP guideline recommends testing children with suspicious signs for Mycoplasma. I did not verify the bilateral-pneumonia association.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7107838/"
+    }
+  },
+  {
+    "id": "s2peds-2652",
+    "category": "Peds vignettes",
+    "q": "6M with lobar pneumonia and no other risk factors. Diagnosis per p187?",
+    "a": "Streptococcus pneumoniae.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "IDSA/PIDS: amoxicillin covers Streptococcus pneumoniae, the most prominent invasive bacterial pathogen.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7107838/"
+    }
+  },
+  {
+    "id": "s2peds-2653",
+    "category": "Peds vignettes",
+    "q": "6M with lobar pneumonia and a CXR showing interstitial markings. Diagnosis per p187?",
+    "a": "Mycoplasma (the word interstitial wins over lobar distribution).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "Exam convention; I did not verify the imaging pattern.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7107838/"
+    }
+  },
+  {
+    "id": "s2peds-2654",
+    "category": "Peds vignettes",
+    "q": "2F with lobar pneumonia, no other risk factors, and Strep pneumo not listed. Diagnosis per p187?",
+    "a": "Staph aureus (Peds NBME).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "Exam convention; I did not verify this.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7107838/"
+    }
+  },
+  {
+    "id": "s2peds-2655",
+    "category": "Peds vignettes",
+    "q": "5F recovering from influenza who now has bacterial pneumonia. Organism per p187?",
+    "a": "Staph aureus (the answer after influenza infection).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "Review: secondary bacterial infections after influenza include Streptococcus pneumoniae, Haemophilus influenzae and Staphylococcus aureus as the most common causes; S. aureus is the exam answer but not the only organism.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5481322/"
+    }
+  },
+  {
+    "id": "s2peds-2656",
+    "category": "Peds vignettes",
+    "q": "17F with a painless lateral neck mass and a mediastinal mass. Diagnosis per p187?",
+    "a": "Hodgkin lymphoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 187,
+      "url": "/mehlman/hy-pediatrics.pdf#page=187"
+    },
+    "guideline": {
+      "text": "StatPearls: Hodgkin lymphoma presents with painless lymphadenopathy, and significant mediastinal node enlargement causes mass effect symptoms.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499969/"
+    }
   }
 ];
