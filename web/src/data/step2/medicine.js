@@ -20788,5 +20788,229 @@ export default [
     },
     "img": "/mehlman/figures/med-p168-03.jpg",
     "imgAlt": "Histology of Langerhans cell histiocytosis with Langerhans cells and eosinophils"
+  },
+  {
+    "id": "s2med-1571",
+    "category": "IM Heme/Onc",
+    "q": "Acanthocytes (spur cells) per p169?",
+    "a": "Spiky RBCs that show up notably in liver failure due to heat stroke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    },
+    "img": "/mehlman/figures/med-p169-01.jpg",
+    "imgAlt": "Blood smear with spiky acanthocytes",
+    "guideline": {
+      "text": "A review of spur cell anemia is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36241039/"
+    }
+  },
+  {
+    "id": "s2med-1572",
+    "category": "IM Heme/Onc",
+    "q": "Acanthocytes: liver failure vs abetalipoproteinemia per p169?",
+    "a": "The source has seen about 4 NBME questions with acanthocytes: 3 liver failure, 1 abetalipoproteinemia. USMLE cares about liver failure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1573",
+    "category": "IM Heme/Onc",
+    "q": "Heat stroke vs heat exhaustion per p169?",
+    "a": "Heat stroke: end-organ damage from hyperthermia (>104 F), shows as abnormal liver and/or renal function tests. Heat exhaustion: mere fatigue, no end-organ damage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls on heat stroke is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537135/"
+    }
+  },
+  {
+    "id": "s2med-1574",
+    "category": "IM Heme/Onc",
+    "q": "Elderly woman found at home in summer, 106 F, acanthocytes per p169?",
+    "a": "Liver failure (due to heat stroke).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1575",
+    "category": "IM Heme/Onc",
+    "q": "Acanthocytes in a hepatitis C patient per p169?",
+    "a": "One NBME question includes them (not critical to the answer), so acanthocytes aren't only heat stroke.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1576",
+    "category": "IM Heme/Onc",
+    "q": "G6PD deficiency: inheritance and frequency per p169?",
+    "a": "X-linked recessive. Most common cause of hemolysis due to an enzyme deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    },
+    "guideline": {
+      "text": "StatPearls on G6PD deficiency is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470315/"
+    }
+  },
+  {
+    "id": "s2med-1577",
+    "category": "IM Heme/Onc",
+    "q": "G6PD presentation per p169?",
+    "a": "Hemolysis and jaundice in a boy who recently received a drug or had a viral infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1578",
+    "category": "IM Heme/Onc",
+    "q": "HY G6PD triggers per p169?",
+    "a": "Primaquine, dapsone, sulfa drugs, fava beans (oxidative damage of RBCs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1579",
+    "category": "IM Heme/Onc",
+    "q": "G6PD vignette labs per p169?",
+    "a": "12-year-old boy with scleral icterus after a viral infection: increased unconjugated bilirubin and LDH (RBCs are packed with LDH; high LDH can mean hemolysis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1580",
+    "category": "IM Heme/Onc",
+    "q": "G6PD mechanism per p169?",
+    "a": "G6PD makes NADPH, a reducing agent that protects RBC membranes from oxidative damage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1581",
+    "category": "IM Heme/Onc",
+    "q": "Bite cells and Heinz bodies per p169?",
+    "a": "Bite cells: RBCs with bite-like notches from oxidative damage. Heinz bodies: clumps of oxidized/denatured hemoglobin. Buzzy and HY.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 169,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=169"
+    }
+  },
+  {
+    "id": "s2med-1582",
+    "category": "IM Heme/Onc",
+    "q": "Bite cells per p170?",
+    "a": "RBCs with bite-like notches (arrows), caused by oxidative damage in G6PD deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=170"
+    },
+    "img": "/mehlman/figures/med-p170-01.jpg",
+    "imgAlt": "Blood smear with bite cells marked by arrows"
+  },
+  {
+    "id": "s2med-1583",
+    "category": "IM Heme/Onc",
+    "q": "Heinz bodies per p170?",
+    "a": "Clumps of oxidized/denatured hemoglobin inside RBCs (circled), seen in G6PD deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=170"
+    },
+    "img": "/mehlman/figures/med-p170-02.jpg",
+    "imgAlt": "Blood smear with Heinz bodies circled"
+  },
+  {
+    "id": "s2med-1584",
+    "category": "IM Heme/Onc",
+    "q": "Pyruvate kinase deficiency per p170?",
+    "a": "Second most common enzyme-deficiency hemolysis. Decreased ATP, decreased Na/K-ATPase activity, less Na+ pumped out of the RBC, water stays with Na+: swelling and lysis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=170"
+    },
+    "guideline": {
+      "text": "International expert guidelines on pyruvate kinase deficiency are linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38330977/"
+    }
+  },
+  {
+    "id": "s2med-1585",
+    "category": "IM Heme/Onc",
+    "q": "Macrocytosis definition per p170?",
+    "a": "MCV >100 fL (normal 80-100 fL).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2med-1586",
+    "category": "IM Heme/Onc",
+    "q": "B9 (folate) and B12 deficiency and RBC size per p170?",
+    "a": "Impaired DNA synthesis keeps RBCs in the marrow longer, so they're larger and less mature.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=170"
+    },
+    "guideline": {
+      "text": "StatPearls on megaloblastic anemia is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK537254/"
+    }
+  },
+  {
+    "id": "s2med-1587",
+    "category": "IM Heme/Onc",
+    "q": "High MCV from impaired DNA synthesis per p170?",
+    "a": "Megaloblastic anemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=170"
+    }
+  },
+  {
+    "id": "s2med-1588",
+    "category": "IM Heme/Onc",
+    "q": "Hypersegmented neutrophils per p170?",
+    "a": "Impaired DNA synthesis (B9/B12 deficiency): longer time in marrow gives more nuclear lobes and segments.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 170,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=170"
+    }
   }
 ];

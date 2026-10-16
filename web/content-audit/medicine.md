@@ -680,3 +680,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p168 (Birbeck granules, LCH histology) - 3 cards, ids s2med-1568 to 1570
 - Unverified: NBME-specific claims on LCH images and amoxicillin rash by age.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p169 (acanthocytes, G6PD) - 11 cards, ids s2med-1571 to 1581
+## p170 (bite/Heinz, PK deficiency, macrocytosis) - 7 cards, ids s2med-1582 to 1588
+- Unverified: acanthocyte question-frequency claims (3 of 4).
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
