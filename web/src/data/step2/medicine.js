@@ -55350,5 +55350,434 @@ export default [
       "page": 408,
       "url": "/mehlman/hy-internal-medicine.pdf#page=408"
     }
+  },
+  {
+    "id": "s2med-4217",
+    "category": "IM Mixed",
+    "q": "12M red urine 1-2 weeks after URTI or skin infection per p409?",
+    "a": "PSGN (can follow Group A Strep skin infections).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4218",
+    "category": "IM Mixed",
+    "q": "6F red urine + abdominal pain + arthralgias + violaceous lesions on buttocks and thighs per p409?",
+    "a": "Henoch-Schonlein purpura: tetrad of 1) IgA nephropathy (red urine), 2) palpable purpura, 3) arthralgias, 4) abdominal pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4219",
+    "category": "IM Mixed",
+    "q": "23F unilateral resting tremor + hemolytic anemia + increased LFTs: next best step per p409?",
+    "a": "Slit-lamp exam; diagnosis Wilson disease (parkinsonism in a young patient is Wilson until proven otherwise): low serum ceruloplasmin + increased urinary copper.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4220",
+    "category": "IM Mixed",
+    "q": "How is copper normally excreted per p409?",
+    "a": "Through bile; the excretory pump is defective in Wilson disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4221",
+    "category": "IM Mixed",
+    "q": "Treatment of Wilson disease per p409?",
+    "a": "Penicillamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4222",
+    "category": "IM Mixed",
+    "q": "Treatment of hereditary hemochromatosis per p409?",
+    "a": "Serial phlebotomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4223",
+    "category": "IM Mixed",
+    "q": "Treatment of secondary hemochromatosis (transfusional siderosis) per p409?",
+    "a": "Chelation therapy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4224",
+    "category": "IM Mixed",
+    "q": "Pink line tracking up the arm from the palm in a 35M with a recent burn per p409?",
+    "a": "Lymphangitis (sporotrichosis, which can spread lymphatically, is the wrong answer).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4225",
+    "category": "IM Mixed",
+    "q": "Brown recluse spider bite per p409?",
+    "a": "Abdominal pain; manage symptomatically (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4226",
+    "category": "IM Mixed",
+    "q": "Black widow spider bite per p409?",
+    "a": "Causes hypocalcemia per the source; give IV calcium gluconate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4227",
+    "category": "IM Mixed",
+    "q": "Dental care worker with a vesicle on a finger per p409?",
+    "a": "Herpetic whitlow (HSV-1/2 of the finger); oral acyclovir (the source says in real life both oral and topical, but on USMLE always oral).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4228",
+    "category": "IM Mixed",
+    "q": "Suspected skin cancer: non-cosmetically sensitive area, face, neck per p409?",
+    "a": "Non-cosmetic area: surgical excision. Face: Mohs surgery (thin slices checking margins). Neck: full-thickness biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4229",
+    "category": "IM Mixed",
+    "q": "Most important prognostic factor for melanoma per p409?",
+    "a": "Depth of the lesion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4230",
+    "category": "IM Mixed",
+    "q": "Recommendation to prevent melanoma per p409?",
+    "a": "Avoid sun or use protective clothing (the source says students wrongly pick options like SPF30).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4231",
+    "category": "IM Mixed",
+    "q": "Farmer/fisherman/construction worker with a red scaly lesion on ear or forehead per p409?",
+    "a": "Actinic keratosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4232",
+    "category": "IM Mixed",
+    "q": "Ulcerated lesion arising from an actinic keratosis per p409?",
+    "a": "Squamous cell carcinoma; actinic keratosis is its precursor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 409,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=409"
+    }
+  },
+  {
+    "id": "s2med-4233",
+    "category": "IM Mixed",
+    "q": "Risk factors for SCC apart from sun per p410?",
+    "a": "The source says USMLE is obsessed with immunodeficiency and smoking, even for cutaneous SCC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4234",
+    "category": "IM Mixed",
+    "q": "Biopsy of SCC per p410?",
+    "a": "Keratin pearls + intercellular bridges.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4235",
+    "category": "IM Mixed",
+    "q": "Old scar or burn + new ulcerated lesion per p410?",
+    "a": "SCC (Marjolin ulcer): chronically irritated skin, burn, or scar can become SCC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4236",
+    "category": "IM Mixed",
+    "q": "Ulcerated lesion on the nose or pinna with rolled/heaped-up edges per p410?",
+    "a": "Basal cell carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4237",
+    "category": "IM Mixed",
+    "q": "Ulcerated lesion with visible telangiectasia per p410?",
+    "a": "Basal cell carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4238",
+    "category": "IM Mixed",
+    "q": "Biopsy of BCC per p410?",
+    "a": "Islands and nests of basophilic (dark purple) cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4239",
+    "category": "IM Mixed",
+    "q": "Transfusion + fever + negative Coombs per p410?",
+    "a": "Febrile non-hemolytic transfusion reaction; it is the most common transfusion reaction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4240",
+    "category": "IM Mixed",
+    "q": "Treatment and cause of febrile non-hemolytic transfusion reaction per p410?",
+    "a": "Acetaminophen on the NBME (not prednisone). Cause: antibodies against donor MHC antigens on RBCs or cytokines from donor leukocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4241",
+    "category": "IM Mixed",
+    "q": "Transfusion + fever + chills + flank pain + hypotension per p410?",
+    "a": "ABO mismatch (acute hemolytic reaction; Coombs positive).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4242",
+    "category": "IM Mixed",
+    "q": "Decreased hemoglobin + increased bilirubin 2-4 weeks after transfusion per p410?",
+    "a": "Delayed transfusion reaction, caused by recipient 'amnestic' antibodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4243",
+    "category": "IM Mixed",
+    "q": "Transfusion + dyspnea + hypoxemia + bilateral pulmonary infiltrates per p410?",
+    "a": "TRALI (transfusion-related acute lung injury).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4244",
+    "category": "IM Mixed",
+    "q": "Cause of TRALI per p410?",
+    "a": "Donor antibodies against recipient MHC; activated neutrophils damage alveoli. The source says it is the most common cause of transfusion-associated death.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4245",
+    "category": "IM Mixed",
+    "q": "New apartment, heavy hot tub use, low O2 sats, dyspnea, basilar crackles, no wheezing, low-grade fever per p410?",
+    "a": "Hot tub lung (an NBME answer, per the source), attributed by the source to hot tub fumes and not to Pseudomonas (which causes hot tub folliculitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 410,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=410"
+    }
+  },
+  {
+    "id": "s2med-4246",
+    "category": "IM Mixed",
+    "q": "72F, radical mastectomy 25 years ago, hard raised purple lesions above the elbow per p411?",
+    "a": "Lymphangiosarcoma (Stewart-Treves syndrome): chronic lymphatic insufficiency, classically years after radical mastectomy (asked on the NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4247",
+    "category": "IM Mixed",
+    "q": "Neonate + spongy 1-cm red lesion on the chest per p411?",
+    "a": "Strawberry hemangioma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4248",
+    "category": "IM Mixed",
+    "q": "Treatment of strawberry hemangioma per p411?",
+    "a": "None: grows slightly then regresses spontaneously over a few years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4249",
+    "category": "IM Mixed",
+    "q": "Neonate + large vascular lesion on the leg + thrombocytopenia per p411?",
+    "a": "Kasabach-Merritt syndrome (hemangioma with thrombocytopenia). The source says it is on the pediatric 2CK forms three times; it is not a strawberry hemangioma and needs surgical treatment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4250",
+    "category": "IM Mixed",
+    "q": "Cause of thrombocytopenia in Kasabach-Merritt syndrome per p411?",
+    "a": "Platelet sequestration (the source compares it to splenic sequestration: platelets get caught in the large vascular lesion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4251",
+    "category": "IM Mixed",
+    "q": "'Cherry red blood/lips' per p411?",
+    "a": "CO poisoning.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4252",
+    "category": "IM Mixed",
+    "q": "'Brown blood' or 'chocolate blood' per p411?",
+    "a": "Methemoglobinemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4253",
+    "category": "IM Mixed",
+    "q": "Kid with brown blood, mechanism per p411?",
+    "a": "Deficiency of cytochrome b5 reductase (congenital methemoglobinemia), over distractors like 'upregulation of anti-proteinase 2'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4254",
+    "category": "IM Mixed",
+    "q": "22M with violaceous papules in a trigeminal distribution per p411?",
+    "a": "The source's answer: Sturge-Weber syndrome, which it says can present as cutaneous papules in a trigeminal nerve distribution (not only as a port-wine stain).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
+  },
+  {
+    "id": "s2med-4255",
+    "category": "IM Mixed",
+    "q": "44M alcoholic in winter, red feet: electrolyte worry on rewarming per p411?",
+    "a": "Hyperkalemia. Alcoholics are susceptible to rhabdomyolysis; myoglobin is nephrotoxic and causes acute tubular necrosis (potassium rises). The bullet continues on p412.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 411,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=411"
+    }
   }
 ];

@@ -1403,3 +1403,15 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p408 (IM mixed bullets: acid-base, anemias, lead, IgA nephropathy) - 14 cards, ids s2med-4203 to 4216
 - "BP control beats smoking cessation for stroke risk": source, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 37 cards ox=false off=false bad=0.
+
+## p409 (IM mixed bullets: HSP, Wilson, skin cancer, spider bites) - 16 cards, ids s2med-4217 to 4232
+- "Black widow causes hypocalcemia, give calcium gluconate" and brown recluse "abdominal pain": source, not verified.
+
+## p410 (IM mixed bullets: SCC, BCC, transfusion reactions, hot tub lung) - 13 cards, ids s2med-4233 to 4245
+- Hot tub lung "caused by fumes": source wording, not verified (often described as a hypersensitivity pneumonitis to mycobacteria).
+- TRALI "most common cause of transfusion-associated death": source, not verified.
+
+## p411 (IM mixed bullets: hemangioma, methemoglobinemia, cold injury) - 10 cards, ids s2med-4246 to 4255
+- Sturge-Weber "violaceous papules in trigeminal distribution": source claim, not verified.
+- Kasabach-Merritt "requires surgical treatment": source, not verified.
+- Mobile QA (320x740, local vite preview build, not live): all 39 cards ox=false off=false bad=0.
