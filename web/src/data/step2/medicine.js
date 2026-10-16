@@ -59127,5 +59127,357 @@ export default [
       "page": 440,
       "url": "/mehlman/hy-internal-medicine.pdf#page=440"
     }
+  },
+  {
+    "id": "s2med-4556",
+    "category": "IM Mixed",
+    "q": "Tamponade vs simple pericardial effusion per p441 (continued from p440)?",
+    "a": "Treat tamponade with echo to confirm, then pericardiocentesis or pericardial window. The most important factor is how acutely blood accumulates, not volume: a stab wound or post-MI LV free-wall rupture can cause tamponade with a small volume, whereas slow high-volume chylous effusion from lymphoma over months may not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 441,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=441"
+    }
+  },
+  {
+    "id": "s2med-4557",
+    "category": "IM Mixed",
+    "q": "Hemothorax vs tamponade without CXR or breath sound clues per p441?",
+    "a": "Hemothorax has flat neck veins; tamponade has JVD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 441,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=441"
+    }
+  },
+  {
+    "id": "s2med-4558",
+    "category": "IM Mixed",
+    "q": "42F in hospital 2 days after surgery, short of breath, HR 92, normal ECG: MOA of the needed drug per p441?",
+    "a": "Activation of antithrombin (heparin) for pulmonary embolism. Sinus tachycardia is the most common ECG finding. After heparin, spiral CT of the chest; V/Q scan first in pregnant women.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 441,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=441"
+    }
+  },
+  {
+    "id": "s2med-4559",
+    "category": "IM Mixed",
+    "q": "29M with spontaneous lancinating cheek pain lasting seconds: location of the problem per p441?",
+    "a": "Pons (CN V arises there); can also be 'microvascular compression of CN V': trigeminal neuralgia. No acute treatment since it subsides quickly; prophylaxis is carbamazepine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 441,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=441"
+    }
+  },
+  {
+    "id": "s2med-4560",
+    "category": "IM Mixed",
+    "q": "Cluster headache vs trigeminal neuralgia per p441?",
+    "a": "Cluster headache usually occurs during sleep and lasts up to half an hour; lacrimation and rhinorrhea are HY (often omitted); pupillary changes possible. Treatment 100% oxygen; prophylaxis verapamil (not propranolol).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 441,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=441"
+    }
+  },
+  {
+    "id": "s2med-4561",
+    "category": "IM Mixed",
+    "q": "Migraine on USMLE per p441?",
+    "a": "Prophylaxis: propranolol (beta blockade). Treatment: NSAIDs followed by triptans (serotonin receptor agonists).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 441,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=441"
+    }
+  },
+  {
+    "id": "s2med-4562",
+    "category": "IM Mixed",
+    "q": "Heart rate returning to normal after a run: diastole and systole per p441?",
+    "a": "Diastole increases more than systole; as HR rises, diastole shortens more than systole. The slower the rate, the greater the proportion of time in diastole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 441,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=441"
+    }
+  },
+  {
+    "id": "s2med-4563",
+    "category": "IM Mixed",
+    "q": "Coronary artery filling at rest vs running per p442?",
+    "a": "Diastole > systole in both: coronary arteries fill during diastole regardless of heart rate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 442,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=442"
+    }
+  },
+  {
+    "id": "s2med-4564",
+    "category": "IM Mixed",
+    "q": "50M severe upper back pain + holodiastolic murmur loudest after S2 per p442?",
+    "a": "Aortic dissection: pain between the scapulae; retrograde dissection can dilate the aortic root causing aortic regurgitation (decrescendo holodiastolic murmur); CXR widened mediastinum; give labetalol to reduce shearing forces. Risk: Marfan, Ehlers-Danlos; greatest risks hypertension and cocaine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 442,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=442"
+    }
+  },
+  {
+    "id": "s2med-4565",
+    "category": "IM Mixed",
+    "q": "19M chest pain after heavy partying, walks in bent over at the waist: next step in diagnosis per p442?",
+    "a": "ECG showing diffuse ST elevations: pericarditis. Pain eases leaning forward and worsens leaning back; ST elevation in most leads (vs 3-4 contiguous leads in MI); cocaine is a risk factor for serous pericarditis. Treatment: NSAIDs, corticosteroids, colchicine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 442,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=442"
+    }
+  },
+  {
+    "id": "s2med-4566",
+    "category": "IM Mixed",
+    "q": "37F with RA, PR depressions and ST elevations in many leads per p442?",
+    "a": "Pericarditis: common in autoimmune disease; PR depression is highly specific but uncommon; diffuse ST elevation is present in all USMLE cases that mention ECG findings.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 442,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=442"
+    }
+  },
+  {
+    "id": "s2med-4567",
+    "category": "IM Mixed",
+    "q": "34F with severe chest pain worse reaching behind her back and above her head per p442?",
+    "a": "Costochondritis: MSK because it changes with position (pericarditis is the only cardiac exception).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 442,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=442"
+    }
+  },
+  {
+    "id": "s2med-4568",
+    "category": "IM Mixed",
+    "q": "34F with chest pain that does not change with position but worsens with palpation per p442?",
+    "a": "Costochondritis (it worsens with palpation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 442,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=442"
+    }
+  },
+  {
+    "id": "s2med-4569",
+    "category": "IM Mixed",
+    "q": "Post-surgical finding most reflecting good recovery per p442?",
+    "a": "Brisk diuresis (also a good sign in renal insufficiency being managed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 442,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=442"
+    }
+  },
+  {
+    "id": "s2med-4570",
+    "category": "IM Mixed",
+    "q": "40M with alcoholism, K 3.2, still 3.2 after potassium per p443?",
+    "a": "Hypomagnesemia: check serum Mg for low Ca and K that do not respond to supplementation. Mg is needed for basal PTH secretion (low Mg, low Ca) and inhibits a distal renal K secretory pump (low Mg, K wasting). Alcoholics are at risk from dietary deficiency (ethanol is 7 kcal/g).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 443,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=443"
+    }
+  },
+  {
+    "id": "s2med-4571",
+    "category": "IM Mixed",
+    "q": "18M lost hiking for 3 weeks, BMI 27: electrolyte worry on refeeding per p443?",
+    "a": "Hypophosphatemia (refeeding syndrome): rapid sequestration of phosphate by glycolytic intermediates as glycolysis resumes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 443,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=443"
+    }
+  },
+  {
+    "id": "s2med-4572",
+    "category": "IM Mixed",
+    "q": "31F with ITP, splenectomy, platelets normalize, low again 6 months later per p443?",
+    "a": "Accessory spleen (about 10% of people have one, <1 cm; it can grow after splenectomy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 443,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=443"
+    }
+  },
+  {
+    "id": "s2med-4573",
+    "category": "IM Mixed",
+    "q": "49M with long alcoholism, smelly stools, normal pancreatic enzymes per p443?",
+    "a": "Chronic pancreatitis: exocrine insufficiency from repeated acute bouts; enzymes low or low-normal; steatorrhea from lack of lipase; treat with pancrelipase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 443,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=443"
+    }
+  },
+  {
+    "id": "s2med-4574",
+    "category": "IM Mixed",
+    "q": "49M recovered from pancreatitis a week ago, now fever + leukocytosis + high lipase and amylase per p443?",
+    "a": "Pseudocyst (no true walls; pancreatic parenchyma encases the fluid); can be drained internally via ERCP (2CK surgery NBME, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 443,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=443"
+    }
+  },
+  {
+    "id": "s2med-4575",
+    "category": "IM Mixed",
+    "q": "40F found hypothermic, rewarmed, red feet: electrolyte worry per p443?",
+    "a": "Hyperkalemia: reperfusion injury oxygen radicals raise the risk of rhabdomyolysis, especially in alcoholics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 443,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=443"
+    }
+  },
+  {
+    "id": "s2med-4576",
+    "category": "IM Mixed",
+    "q": "82F found by the stairs, urine blood 2+, 3-4 RBCs/hpf per p444?",
+    "a": "Rhabdomyolysis: false-positive urine dipstick blood; USMLE can give 3-4 RBCs/hpf as the false positive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 444,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=444"
+    }
+  },
+  {
+    "id": "s2med-4577",
+    "category": "IM Mixed",
+    "q": "44M after surgery with tachycardia, fever, high BP: drug per p444?",
+    "a": "Chlordiazepoxide (benzodiazepine) for delirium tremens; the tremor of DT is explained by beta-2 agonism (source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 444,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=444"
+    }
+  },
+  {
+    "id": "s2med-4578",
+    "category": "IM Mixed",
+    "q": "13F with an asthma attack on albuterol and IV steroids has a tremor: why per p444?",
+    "a": "Albuterol: tremor is the most common side effect of beta-2 agonists.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 444,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=444"
+    }
+  },
+  {
+    "id": "s2med-4579",
+    "category": "IM Mixed",
+    "q": "57F comatose + seizure + prolonged QRS on ECG per p444?",
+    "a": "Amitriptyline (TCA toxicity: coma, convulsions, cardiotoxicity). Treat with sodium bicarbonate, which decreases TCA binding to myocardial sodium channels. The source says urinary alkalinization for excretion is the wrong rationale (that refers to salicylates; TCAs are basic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 444,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=444"
+    }
+  },
+  {
+    "id": "s2med-4580",
+    "category": "IM Mixed",
+    "q": "22M on an antidepressant with suprapubic mass and hot red face per p444?",
+    "a": "A TCA (e.g., amitriptyline): anticholinergic effects, opposite of DUMBBELSS: constipation, urinary retention, mydriasis, tachycardia, relaxed skeletal muscle tone, dry eyes, dry mouth, anhidrosis (heat retention, red hot patient).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 444,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=444"
+    }
+  },
+  {
+    "id": "s2med-4581",
+    "category": "IM Mixed",
+    "q": "30F given diphenhydramine for motion sickness: receptor responsible per p444?",
+    "a": "Antimuscarinic: first-generation H1 blockers (diphenhydramine, chlorpheniramine) have anticholinergic effects; muscarinic blockade eases motion sickness. They do not act on H2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 444,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=444"
+    }
+  },
+  {
+    "id": "s2med-4582",
+    "category": "IM Mixed",
+    "q": "24M cuts his arm: cell that decreases infection risk in the acute setting per p444?",
+    "a": "Neutrophils: acute inflammation, innate immunity; phagocytose and kill bacteria via lysosomal hydrolases and H2O2 (continues on p445).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 444,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=444"
+    }
+  },
+  {
+    "id": "s2med-4583",
+    "category": "IM Mixed",
+    "q": "55M with hyperthyroidism and absent left leg pulses per p445?",
+    "a": "Arterial embolic occlusion: left atrial mural thrombus from hyperthyroidism-induced atrial fibrillation lodging in the femoral artery. In DVT pulses are normal. AF emboli can also cause stroke or acute mesenteric ischemia (SMA/IMA).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 445,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=445"
+    }
+  },
+  {
+    "id": "s2med-4584",
+    "category": "IM Mixed",
+    "q": "80M with atrial fibrillation + severe abdominal pain + mild tenderness per p445?",
+    "a": "Acute mesenteric ischemia: pain out of proportion to exam; embolus to SMA or IMA from left atrial thrombus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 445,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=445"
+    }
+  },
+  {
+    "id": "s2med-4585",
+    "category": "IM Mixed",
+    "q": "65M with diabetes, prior CABG, claudication, abdominal pain 1-2 hours after meals per p445?",
+    "a": "Chronic mesenteric ischemia from atherosclerosis. It sounds like a duodenal ulcer, but the patient has a severe cardiovascular history; H. pylori ulcer is usually a younger immigrant patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 445,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=445"
+    }
+  },
+  {
+    "id": "s2med-4586",
+    "category": "IM Mixed",
+    "q": "30M with RA overdoses on methotrexate, massive hepatonecrosis: liver regeneration mechanism per p445?",
+    "a": "Recruitment of cells from G0 into the cell cycle (quiescent hepatocytes enter G1). Wrong answer: stem cells entering G1.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 445,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=445"
+    }
+  },
+  {
+    "id": "s2med-4587",
+    "category": "IM Mixed",
+    "q": "500 factory workers surveyed on smoking and COPD: study design per p445?",
+    "a": "Cross-sectional survey: a snapshot at one point in time; gives prevalence but not causation; different from case-control (continues on p446).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 445,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=445"
+    }
   }
 ];

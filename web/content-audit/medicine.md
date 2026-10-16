@@ -1518,3 +1518,19 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p440 (IM mixed bullets: leukemoid, tRNA, tension pneumothorax, tamponade) - 5 cards, ids s2med-4551 to 4555
 - No new conflicts.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p441 (IM mixed bullets: tamponade, PE, headaches, cardiac cycle) - 7 cards, ids s2med-4556 to 4562
+- No new conflicts.
+
+## p442 (IM mixed bullets: aortic dissection, pericarditis, chest wall pain) - 7 cards, ids s2med-4563 to 4569
+- "Diffuse ST elevation in all USMLE cases mentioning ECG": source generalization, not verified.
+
+## p443 (IM mixed bullets: Mg, refeeding, accessory spleen, pancreatitis) - 6 cards, ids s2med-4570 to 4575
+- No new conflicts.
+
+## p444 (IM mixed bullets: DT, albuterol tremor, TCA toxicity, diphenhydramine, neutrophils) - 7 cards, ids s2med-4576 to 4582
+- "Tremor of DT is beta-2 agonism" and TCA bicarbonate/salicylate comparison: source, not verified.
+
+## p445 (IM mixed bullets: embolic ischemia, mesenteric ischemia, liver regeneration, study design) - 5 cards, ids s2med-4583 to 4587
+- No new conflicts.
+- Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
