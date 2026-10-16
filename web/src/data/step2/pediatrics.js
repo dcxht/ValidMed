@@ -23231,5 +23231,217 @@ export default [
       "text": "StatPearls confirms that in bipolar disorder with psychotic features, delusions and hallucinations occur only during manic (or depressive) episodes, and that bipolar I is defined by at least one manic episode regardless of depressive history.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK541012/"
     }
+  },
+  {
+    "id": "s2peds-1621",
+    "category": "Commonly confused conditions",
+    "q": "What baseline and spike pattern does the actual p111 diagram show for schizoaffective disorder, depression with psychotic features, and bipolar with psychotic features?",
+    "a": "Schizoaffective has a baseline of psychosis with spikes of mania or depression; depression with psychotic features has a baseline of depression with spikes of psychosis; bipolar with psychotic features has a baseline of bipolar (periods of depression or mania) with spikes of psychosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls supports the same distinction: schizoaffective disorder requires at least 2 weeks of psychosis without mood symptoms, while psychotic features in major depression or bipolar disorder occur only during mood episodes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541012/"
+    },
+    "img": "/mehlman/figures/peds-p111-psychosis-baseline-spikes.png",
+    "imgAlt": "Actual source diagram of three timelines: schizoaffective with a psychosis baseline and mania or depression spikes, depression with psychotic features with a depression baseline and psychosis spikes, and bipolar with psychotic features with a bipolar baseline and psychosis spikes."
+  },
+  {
+    "id": "s2peds-1622",
+    "category": "Delusion disorder",
+    "q": "How does p111 define delusion disorder?",
+    "a": "One or more non-bizarre delusions without other signs of psychosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls confirms the diagnosis but adds the DSM-5 duration requirement: one or more delusions for one month or more that cannot be explained by another condition.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK539855/"
+    }
+  },
+  {
+    "id": "s2peds-1623",
+    "category": "Delusion disorder",
+    "q": "How does p111 contrast non-bizarre with bizarre delusions?",
+    "a": "Non-bizarre means potentially plausible scenarios that are not true, such as people at school stealing from or trying to undermine you; bizarre on USMLE is anything involving aliens, demons, the heavens, or the lord.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls defines a bizarre delusion as involving a phenomenon that is impossible, not understandable, and unrelated to normal life, matching the source contrast.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK539855/"
+    }
+  },
+  {
+    "id": "s2peds-1624",
+    "category": "Delusion disorder",
+    "q": "How does p111 describe the person's behavior and thinking in delusion disorder, apart from the delusion itself?",
+    "a": "The person's behavior and thinking, apart from the delusion itself, tend to be normal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls confirms that in delusional disorder the delusions do not impact functionality and the patient's behavior is not overtly bizarre.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK539855/"
+    }
+  },
+  {
+    "id": "s2peds-1625",
+    "category": "Delusion disorder",
+    "q": "What treatment options does p111 list for delusion disorder?",
+    "a": "CBT, anti-psychotics (e.g., risperidone), mood stabilizers (lithium), and/or anti-depressants (SSRIs).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls confirms psychotherapy plus an antipsychotic trial of 6 weeks as core treatment, with lithium, valproic acid, or carbamazepine as adjuncts when antipsychotic monotherapy fails.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK539855/"
+    }
+  },
+  {
+    "id": "s2peds-1626",
+    "category": "Anxiety disorders",
+    "q": "How does p111 define generalized anxiety disorder?",
+    "a": "Six or more months of excessive and persistent worry about various aspects of life, often with physical symptoms like restlessness, fatigue, and muscle tension.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "DSM-5 criteria match the 6-month excessive-worry requirement with 3 or more of 6 associated symptoms (restlessness, fatigue, poor concentration, irritability, muscle tension, sleep disturbance), and note that only one associated symptom is required in children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441870/"
+    }
+  },
+  {
+    "id": "s2peds-1627",
+    "category": "Anxiety disorders",
+    "q": "What GAD vignette does p111 say the USMLE might give?",
+    "a": "A teenage girl who is worried about many things for 6 or more months.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "GAD commonly begins in adolescence and is more frequent in females; the DSM-5 criteria table notes children need only one associated symptom alongside the 6-month excessive worry.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519712/table/ch3.t9/"
+    }
+  },
+  {
+    "id": "s2peds-1628",
+    "category": "Anxiety disorders",
+    "q": "How does p111 handle GAD occurring with another mood or psychotic disorder?",
+    "a": "The patient can have a concurrent mood or psychotic disorder; the diagnosis then becomes, for example, GAD with comorbid MDD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls notes comorbidity between GAD and MDD is especially strong, and DSM-5 allows both diagnoses when each full criteria set is met.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441870/"
+    }
+  },
+  {
+    "id": "s2peds-1629",
+    "category": "Anxiety disorders",
+    "q": "What first-line GAD treatment does p111 give?",
+    "a": "CBT and SSRIs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls confirms SSRIs and SNRIs as first-line medications and cites combined sertraline plus CBT producing an 81% response rate in children with anxiety disorders.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441870/"
+    }
+  },
+  {
+    "id": "s2peds-1630",
+    "category": "Anxiety disorders",
+    "q": "Which additional agent does p111 list for GAD, and what is its class?",
+    "a": "Buspirone, a serotonin receptor agonist.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls describes buspirone as a nonbenzodiazepine anxiolytic without dependence or tolerance at therapeutic doses, limited by a 2- to 3-week onset when rapid relief is needed.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441870/"
+    }
+  },
+  {
+    "id": "s2peds-1631",
+    "category": "Anxiety disorders",
+    "q": "How does p111 diagnose panic disorder?",
+    "a": "The patient has 2 or more panic attacks plus at least one month of worry about having more attacks.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls confirms DSM-5 panic disorder requires recurrent unexpected panic attacks followed by one month or more of persistent concern about more attacks, their consequences, or maladaptive behavior change.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430973/"
+    }
+  },
+  {
+    "id": "s2peds-1632",
+    "category": "Anxiety disorders",
+    "q": "How does p111 define a panic attack?",
+    "a": "An episode of intense fear that triggers severe physical reactions, even though there is no real danger or apparent cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "The DSM defines a panic attack as an abrupt surge of intense fear or discomfort peaking within minutes, with 4 or more of 13 physical and cognitive symptoms, including palpitations, shortness of breath, chest pain, and fear of dying.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430973/"
+    }
+  },
+  {
+    "id": "s2peds-1633",
+    "category": "Anxiety disorders",
+    "q": "What panic-attack presentation trap does p111 warn about?",
+    "a": "The USMLE will usually give a hyperventilating patient who feels like they are going to die or is having an MI; do not get fooled into calling it cardiac.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls notes that panic-disorder fear and anxiety manifest primarily physically rather than cognitively, and that panic disorder peaks in adolescence and early adulthood, fitting the cardiac-mimic exam trap.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430973/"
+    }
+  },
+  {
+    "id": "s2peds-1634",
+    "category": "Anxiety disorders",
+    "q": "What answer does p111 give when a panic vignette also mentions a mid-systolic click (mitral valve prolapse)?",
+    "a": "Panic disorder, not mitral valve prolapse.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 111,
+      "url": "/mehlman/hy-pediatrics.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls lists mitral valve prolapse among the medical comorbidities associated with panic disorder, consistent with the source's warning that an incidental click does not explain the attack.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430973/"
+    }
   }
 ];
