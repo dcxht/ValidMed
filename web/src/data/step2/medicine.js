@@ -33925,5 +33925,344 @@ export default [
       "page": 261,
       "url": "/mehlman/hy-internal-medicine.pdf#page=261"
     }
+  },
+  {
+    "id": "s2med-2570",
+    "category": "IM Neuro",
+    "q": "CJD: myoclonus per p262 (continued)?",
+    "a": "Myoclonus is the highest-yield detail: CJD sometimes appears as a distractor answer where the patient does not have myoclonus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2med-2571",
+    "category": "IM Neuro",
+    "q": "Polio: virus and presentation per p262?",
+    "a": "RNA virus that infects the anterior horns of the spinal cord and causes poliomyelitis (inflammation of the spinal cord). Classically causes degeneration of motor neurons in one leg, leaving one leg much smaller than the other.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2med-2572",
+    "category": "IM Neuro",
+    "q": "Polio: vaccines per p262?",
+    "a": "The source says the highest-yield polio points are about the vaccines. Salk vaccine = killed, intramuscular. Sabin vaccine = live-attenuated, oral.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "A systematic review of mucosal immunity from oral and inactivated polio vaccines is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3330118/"
+    }
+  },
+  {
+    "id": "s2med-2573",
+    "category": "IM Neuro",
+    "q": "Polio vaccines: shared mechanism per p262?",
+    "a": "USMLE asks what common feature accounts for their efficacy: 'neutralizing antibodies in the circulation'. Both the killed and oral vaccines generate circulating IgG antibodies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card; I did not verify the exam claim.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3330118/"
+    }
+  },
+  {
+    "id": "s2med-2574",
+    "category": "IM Neuro",
+    "q": "Polio vaccines: what only the live vaccine does per p262?",
+    "a": "Only the live-attenuated vaccine generates a CD8+ T-cell response and IgA secretion in the gut. The source covers the immunology in its HY Immuno PDF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "The same review is linked above; I did not verify the CD8+ claim.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3330118/"
+    }
+  },
+  {
+    "id": "s2med-2575",
+    "category": "IM Neuro",
+    "q": "Progressive multifocal leukoencephalopathy per p262?",
+    "a": "Caused by JC polyomavirus. Presents as neurodegeneration over weeks to months in an immunocompromised patient (for example AIDS with CD4 <100, chemoradiotherapy, or immunosuppressant drugs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "A paper on JC virus reactivation and PML is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6898772/"
+    }
+  },
+  {
+    "id": "s2med-2576",
+    "category": "IM Neuro",
+    "q": "PML: mechanism per p262?",
+    "a": "USMLE wants 'reactivation of latent infection': the patient was infected years ago, and the condition manifests now due to immunosuppression. 'Acute infection in an immunocompromised patient' is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6898772/"
+    }
+  },
+  {
+    "id": "s2med-2577",
+    "category": "IM Neuro",
+    "q": "Tropical spastic paraparesis per p262?",
+    "a": "Obscure neurologic condition caused by HTLV-1/2 (the same virus that causes mycosis fungoides and Sezary syndrome; the source covers those in its HY Derm PDF). Development of anti-neuronal antibodies presenting as neurodegeneration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "A paper on HTLV-1-associated myelopathy is linked; I did not verify the antibody mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27188208/"
+    }
+  },
+  {
+    "id": "s2med-2578",
+    "category": "IM Neuro",
+    "q": "Subacute sclerosing panencephalitis per p262?",
+    "a": "Obscure condition with cognitive decline and neuropathy due to reactivation of certain measles strains in the CNS. A teenager with cognitive decline whose CSF analysis shows measles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "A review of SSPE is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12049210/"
+    }
+  },
+  {
+    "id": "s2med-2579",
+    "category": "IM Neuro",
+    "q": "Botulism: mechanism per p262?",
+    "a": "Causes flaccid paralysis. Botulinum toxin of Clostridium botulinum inhibits presynaptic SNARE protein, decreasing release of presynaptic acetylcholine, which is normally stimulatory at muscles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3448763/"
+    }
+  },
+  {
+    "id": "s2med-2580",
+    "category": "IM Neuro",
+    "q": "Botulism: presentation per p262?",
+    "a": "Can present as floppy baby syndrome; can also cause cranial nerve palsies. Acquired as spores in honey in infants under 1; acquired as preformed toxin from canned goods in anyone older.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    },
+    "guideline": {
+      "text": "A case report of infant botulism after honey is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3448763/"
+    }
+  },
+  {
+    "id": "s2med-2581",
+    "category": "IM Neuro",
+    "q": "Botulism: odd NBME mechanism wording per p262?",
+    "a": "The source has seen an NBME exam write 'prevents acetylcholine from binding to its receptor' as the mechanism, even though this is not technically the direct effect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2med-2582",
+    "category": "IM Neuro",
+    "q": "Botulism toxin and exogenous ACh per p262?",
+    "a": "The NBME wants you to know that giving the toxin does not change the strength of the effect of acetylcholine binding to its receptor: the toxin is not a competitive inhibitor and only decreases endogenous ACh release, with no impact on exogenously administered ACh.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 262,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=262"
+    }
+  },
+  {
+    "id": "s2med-2583",
+    "category": "IM Neuro",
+    "q": "Tetanus: mechanism per p263 (starts p262)?",
+    "a": "Causes spastic paralysis. Tetanus toxin of Clostridium tetani inhibits presynaptic SNARE protein, decreasing release of the inhibitory neurotransmitters GABA and glycine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "A review of tetanus neurotoxin is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33629408/"
+    }
+  },
+  {
+    "id": "s2med-2584",
+    "category": "IM Neuro",
+    "q": "Tetanus: presentation per p263?",
+    "a": "Opisthotonos (arched back) and trismus (lock-jaw). Presents in two patients on USMLE: 1) a neonate born at home whose umbilical cord was cut with a kitchen knife and tied with twine; 2) a man who cut himself in the back yard.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2med-2585",
+    "category": "IM Neuro",
+    "q": "DTaP and booster schedule per p263?",
+    "a": "DTaP at 2, 4, 6 months, then 15-18 months, then 4-6 years. School-age kids need a Tdap booster at 11-12 years, then a Td booster every 10 years. Pregnant women should get Tdap at 27-36 weeks to protect the neonate from pertussis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2med-2586",
+    "category": "IM Neuro",
+    "q": "Tetanus wound management per p263?",
+    "a": "0-5 years post-vaccine: no Tx. 6-9 years: clean wound no Tx; dirty wound give Td booster. 10+ years: clean wound give Td booster; dirty wound IVIG plus vaccine. Only ever give IVIG if it is a dirty wound and 10+ years.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "A tetanus post-trauma guideline is linked (title only); I did not verify the intervals or the 'dirty wound' booster interval. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32164124/"
+    }
+  },
+  {
+    "id": "s2med-2587",
+    "category": "IM Neuro",
+    "q": "Tetrodotoxin per p263?",
+    "a": "Toxin acquired from pufferfish. Inhibits sodium channels; causes paralysis and death.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "A paper on tetrodotoxin and sodium channels is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3663409/"
+    }
+  },
+  {
+    "id": "s2med-2588",
+    "category": "IM Neuro",
+    "q": "Ciguatera per p263?",
+    "a": "Toxin acquired from various meaty fish. Prevents sodium channel closure. The USMLE answer for temperature dysesthesia ('hot feels cold; cold feels hot').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "A paper on ciguatera neurological features is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7602189/"
+    }
+  },
+  {
+    "id": "s2med-2589",
+    "category": "IM Neuro",
+    "q": "Narcolepsy: features per p263?",
+    "a": "Chronic sleep disorder affecting the brain's ability to regulate sleep-wake cycles. Excessive daytime sleepiness, sudden muscle weakness (cataplexy), sleep paralysis, and hallucinations, which tend to occur before sleep (hypnagogic) or on waking (hypnopompic).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2med-2590",
+    "category": "IM Neuro",
+    "q": "Narcolepsy: cause and treatment per p263?",
+    "a": "Thought to be due to deficiency of orexin (hypocretin), which normally promotes wakefulness. Treatment is modafinil (dopamine reuptake inhibitor that promotes release of orexin from the hypothalamus).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "A paper on modafinil and orexin-deficient models is linked (title only); I did not verify the mechanism wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15652995/"
+    }
+  },
+  {
+    "id": "s2med-2591",
+    "category": "IM Neuro",
+    "q": "Epidural hematoma: cause per p263?",
+    "a": "Rupture of the middle meningeal artery (branch of the external carotid), classically after head trauma to the temple.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "A StatPearls page on epidural hematoma is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK518982/"
+    }
+  },
+  {
+    "id": "s2med-2592",
+    "category": "IM Neuro",
+    "q": "Epidural hematoma: lucid interval per p263?",
+    "a": "The patient briefly loses consciousness, then arouses and returns to normal (a lucid interval), goes home thinking he or she is okay, goes to sleep, and dies.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    }
+  },
+  {
+    "id": "s2med-2593",
+    "category": "IM Neuro",
+    "q": "Epidural hematoma: imaging and management per p263?",
+    "a": "Bleed appears lens-shaped (biconvex) and accumulates fast. If low GCS: 'intubation plus hyperventilation', then craniotomy. If normal GCS: just craniotomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    },
+    "guideline": {
+      "text": "The StatPearls page is linked on an earlier card; I did not verify the hyperventilation advice, which current practice limits.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK518982/"
+    }
+  },
+  {
+    "id": "s2med-2594",
+    "category": "IM Neuro",
+    "q": "Hyperventilation mechanism per p263?",
+    "a": "Decreased CO2 leads to decreased cerebral perfusion, which reduces intracranial pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 263,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=263"
+    }
   }
 ];

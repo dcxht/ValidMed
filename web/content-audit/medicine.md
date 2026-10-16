@@ -920,3 +920,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p261 (encephalopathies, neuropathic pain, TNR, prions) - 16 cards, ids s2med-2554 to 2569
 - Neomycin vs current HE therapy: caution. Source expletive paraphrased (caudate card).
 - Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.
+
+## p262 (CJD end, infective and toxin neuropathies) - 13 cards, ids s2med-2570 to 2582
+- NBME claims unverified. Source expletive-like "wtf" paraphrased.
+## p263 (tetanus, toxins, narcolepsy, epidural hematoma) - 12 cards, ids s2med-2583 to 2594
+- Tetanus wound intervals and vaccine schedule unverified; hyperventilation advice flagged.
+- Mobile QA (320x740, local vite preview build, not live): all 25 cards ox=false off=false bad=0.
