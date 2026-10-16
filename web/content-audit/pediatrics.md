@@ -983,3 +983,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: herpangina coxsackie A vs StatPearls Coxsackie B; "desmopressin always wrong" (ICCS first-line option); Centor for URTI (it is for GAS pharyngitis, testing recommended).
 - Left unverified: six-oligopeptide mimicry, TBG pattern, enuresis age cutoff, exact Centor item wording.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p184 (Bullet points: Centor management, EBV, Kawasaki, brachial plexus) - 10 cards, ids s2peds-2610 to 2619
+- Inspected page text and layout; no figures. The page ends mid-bullet on asthma stepwise treatment (SABA, then low-dose ICS...), which continues on p185 and will be carded there.
+- Notes verified against StatPearls (Streptococcal Pharyngitis, Mononucleosis, Kawasaki, Erb Palsy) and the IDSA 2012 GAS pharyngitis guideline.
+- Source conflicts, source answer kept with caution note: rapid strep test only for Centor 0-2 (IDSA tests unless overt viral features); empiric amoxicillin while waiting on culture (not verified).
+- Left unverified: beta-lactam allergy convention, EBV rash mechanism/timing/distribution, Klumpke details.
+- Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.

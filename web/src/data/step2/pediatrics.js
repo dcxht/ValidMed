@@ -37274,5 +37274,155 @@ export default [
       "text": "StatPearls Streptococcal Pharyngitis page covers Centor and McIsaac scoring; Centor uses age 15+ with McIsaac adding age adjustment. I did not verify each item's wording in the passage I read.",
       "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK525997/"
     }
+  },
+  {
+    "id": "s2peds-2610",
+    "category": "Peds vignettes",
+    "q": "Should you use the Centor version that includes age on USMLE per p184?",
+    "a": "No; the source says a version with age exists but can cause wrong answers on the USMLE, so use the simplified four points.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "StatPearls: Centor and McIsaac are both used for risk stratification, with McIsaac adding age. The source's exam advice is its own.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK525997/"
+    }
+  },
+  {
+    "id": "s2peds-2611",
+    "category": "Peds vignettes",
+    "q": "Centor score 0-1: what is the answer per p184?",
+    "a": "Supportive care, or no treatment necessary, or warm saline gargle (same as supportive care), or acetaminophen; the latter is the answer for a 3M with viral URTI and fever on Peds NBME form 2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "StatPearls: a Centor or McIsaac score of 0 or 1 is low risk and can be treated with supportive care.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK525997/"
+    }
+  },
+  {
+    "id": "s2peds-2612",
+    "category": "Peds vignettes",
+    "q": "Centor 0-2 points: next best step, and what if it is negative per p184?",
+    "a": "Rapid strep test; if negative, throat culture, not sputum culture.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "Current caution: the IDSA 2012 guideline says swabbing and testing by RADT and/or culture should be performed because clinical features alone do not reliably discriminate GAS from viral pharyngitis, except with overt viral features (cough, rhinorrhea, hoarseness, oral ulcers). Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108032/"
+    }
+  },
+  {
+    "id": "s2peds-2613",
+    "category": "Peds vignettes",
+    "q": "While waiting for a throat culture result, what do you do per p184?",
+    "a": "Send the patient home with amoxicillin or penicillin for presumptive strep pharyngitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "Current caution: I did not verify empiric treatment while waiting for culture; StatPearls says patients with a high-risk score and no available RADT may be treated empirically. Treatment of confirmed GAS is standard. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK525997/"
+    }
+  },
+  {
+    "id": "s2peds-2614",
+    "category": "Peds vignettes",
+    "q": "A 12-year-old on a beta-lactam develops a rash. Answer per p184?",
+    "a": "Beta-lactam allergy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "I did not verify this exam convention in the sources I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK525997/"
+    }
+  },
+  {
+    "id": "s2peds-2615",
+    "category": "Peds vignettes",
+    "q": "16-17-year-old who has been going on dates recently with a sore throat. Diagnosis and test per p184?",
+    "a": "EBV mononucleosis; do a heterophile antibody test (Monospot).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "StatPearls: heterophile antibodies are produced in 90% or more of EBV cases.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470387/"
+    }
+  },
+  {
+    "id": "s2peds-2616",
+    "category": "Peds vignettes",
+    "q": "Why is EBV frequently misdiagnosed as strep, and what is the beta-lactam rash per p184?",
+    "a": "EBV usually presents with all four Centor criteria. Beta-lactams in EBV cause a rash via hypersensitivity to the antibiotic in the setting of antibody production to the virus; without antibiotics EBV can cause a mild maculopapular rash. The beta-lactam rash is more intense and pruritic, generally 7-10 days after antibiotics, on extensor surfaces and pressure points.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "StatPearls Mononucleosis page covers EBV and heterophile antibodies. I did not verify the rash mechanism, the timing, or the distribution in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470387/"
+    }
+  },
+  {
+    "id": "s2peds-2617",
+    "category": "Peds vignettes",
+    "q": "9-month-old boy with 5 days of fever, edema of the dorsa of the hands, cervical lymphadenopathy, cracked lips, and red oral mucosa and conjunctivae. Treatment and diagnosis per p184?",
+    "a": "High-dose aspirin plus IVIG; Kawasaki disease. Never give aspirin to a kid (Reye syndrome) unless the diagnosis is Kawasaki; other features are palm and sole desquamation and coronary artery aneurysms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "StatPearls: high-dose IVIG 2 g/kg plus high-dose aspirin (80-100 mg/kg/day) until afebrile over 48 hours; desquamation, thrombocytosis and coronary aneurysms. AHA 2017 statement also covers aspirin dose.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK537163/"
+    }
+  },
+  {
+    "id": "s2peds-2618",
+    "category": "Peds vignettes",
+    "q": "Waiter's tip position in a kid. Diagnosis per p184?",
+    "a": "Upper brachial plexus injury (C5/6): Erb-Duchenne palsy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "StatPearls: Erb palsy is an injury of C5 and C6, the upper trunk of the brachial plexus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513260/"
+    }
+  },
+  {
+    "id": "s2peds-2619",
+    "category": "Peds vignettes",
+    "q": "Claw hand. Diagnosis per p184?",
+    "a": "Lower brachial plexus injury, C8/T1: Klumpke palsy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 184,
+      "url": "/mehlman/hy-pediatrics.pdf#page=184"
+    },
+    "guideline": {
+      "text": "StatPearls Erb palsy page defines the brachial plexus as C5-C8 and T1. I did not verify the Klumpke details in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513260/"
+    }
   }
 ];
