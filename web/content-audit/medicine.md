@@ -135,3 +135,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (venous ulcer). Page ends mid exercise-ECG bullet (continues p32).
 - Unverified: enoxaparin over compression, 4/5 stress test claim, "never choose" procedures.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p32 (IM Cardio: stress tests, knee trauma) - 8 cards, ids s2med-0293 to 0300
+- Inspected page text; no figures. Page starts mid-exercise ECG bullet. Expletive paraphrased out.
+- Unverified: stress test indications as presented, arteriography sequence in knee dislocation, "runoff".
+
+## p33 (IM Cardio: vasculitides) - 7 cards, ids s2med-0301 to 0307
+- Inspected page text and figure (renal angiogram PAN, PNG converted to JPEG).
+- Source cautions: PAN spares lungs (not verified); Takayasu "always subclavian" and age (not verified).
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

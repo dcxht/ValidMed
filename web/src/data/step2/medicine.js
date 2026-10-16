@@ -3838,5 +3838,204 @@ export default [
       "text": "A practical guide to exercise stress testing is available; I did not verify the exact requirement.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12942606/"
     }
+  },
+  {
+    "id": "s2med-0293",
+    "category": "IM Cardio",
+    "q": "Exercise ECG baseline problem and the 1/5 stress test Qs per p32?",
+    "a": "The 1/5 Qs that force a choice between stress tests want you to know exercise ECG needs a normal baseline ECG: choose the non-ECG stress test instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2med-0294",
+    "category": "IM Cardio",
+    "q": "Exercise echo per p32?",
+    "a": "Used to look for heart failure (decreased EF) with exertion, not overt ischemia. The answer for patients with shortness of breath rather than chest pain on exertion (not stable angina), reflecting left heart decompensation with possible decreased EF. Also the answer for patients with abnormal baseline ECG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    },
+    "guideline": {
+      "text": "A practical guide to exercise stress testing is available; I did not verify these indications.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12942606/"
+    }
+  },
+  {
+    "id": "s2med-0295",
+    "category": "IM Cardio",
+    "q": "Pharmacologic stress test per p32?",
+    "a": "Refers to many answer choices (dobutamine-echo, dipyridamole-thallium). The answer for patients who cannot exercise, such as angina when walking up a single flight of stairs, or patients about to undergo major surgery (e.g., AAA repair) where perioperative MI risk needs assessment. USMLE will usually list only one.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2med-0296",
+    "category": "IM Cardio",
+    "q": "Dobutamine and dipyridamole stress mechanisms per p32?",
+    "a": "Dobutamine is a beta-1 agonist that stimulates the heart (increased oxygen demand); echo then looks for decreased EF. Dipyridamole is a phosphodiesterase inhibitor that dilates arterioles; HR rises to compensate, increasing myocardial oxygen demand; thallium then looks at myocardial perfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2med-0297",
+    "category": "IM Cardio",
+    "q": "Cardiac scintigraphy per p32?",
+    "a": "Broad term for any heart evaluation using a radiotracer (thallium, technetium, sestamibi). On USMLE it is the same as a pharmacologic stress test for all intents and purposes (technically it can be done at rest). Choose it if the patient cannot exercise.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2med-0298",
+    "category": "IM Cardio",
+    "q": "Myocardial perfusion scan per p32?",
+    "a": "One type of cardiac scintigraphy evaluating blood flow to myocardium; non-invasive, whereas coronary angiography is invasive (catheter). Interchangeable with cardiac scintigraphy and pharmacologic stress test on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2med-0299",
+    "category": "IM Cardio",
+    "q": "MVA with a knee injury and absent distal pulses per p32?",
+    "a": "Knee relocation first, followed by arteriography to look for popliteal artery injury. If the knee is already relocated: 'arteriography with runoff' (2CK).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    },
+    "guideline": {
+      "text": "A review on acute management of traumatic knee dislocations and a paper on the role of exam in determining need for arteriography exist. I did not verify the sequence; the 'runoff' wording is the source's.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26493970/"
+    }
+  },
+  {
+    "id": "s2med-0300",
+    "category": "IM Cardio",
+    "q": "Gunshot wound to the knee with absent distal pulses per p32?",
+    "a": "Go straight to surgical exploration: the knee equivalent of a gunshot wound to the abdomen going straight to laparotomy (even if stable).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 32,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2med-0301",
+    "category": "IM Cardio",
+    "q": "Granulomatosis with polyangiitis per p33 (formerly Wegener)?",
+    "a": "Adult with triad of hematuria, hemoptysis and 'head-itis' (nasal septal perforation, mastoiditis, sinusitis, otitis). cANCA and anti-PR3 antibodies; necrotizing glomerulonephritis that can lead to RPGN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "A review of GPA diagnosis exists; I did not verify the triad framing.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11385631/"
+    }
+  },
+  {
+    "id": "s2med-0302",
+    "category": "IM Cardio",
+    "q": "Eosinophilic granulomatosis with polyangiitis per p33 (formerly Churg-Strauss)?",
+    "a": "Asthma + eosinophilia +/- head-itis. Head-itis is always in Wegener vignettes but maybe only ~50% of CS. Renal involvement is rare. pANCA and anti-MPO.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "A paper on red flags for EGPA exists; I did not verify the 50% or renal statements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38880725/"
+    }
+  },
+  {
+    "id": "s2med-0303",
+    "category": "IM Cardio",
+    "q": "Microscopic polyangiitis per p33?",
+    "a": "Presents as hematuria in a patient who is pANCA/anti-MPO positive; like Wegener, can cause RPGN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "A review on ANCA-associated glomerulonephritis covers MPA.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9205443/"
+    }
+  },
+  {
+    "id": "s2med-0304",
+    "category": "IM Cardio",
+    "q": "Neuropathy in GPA, EGPA and MPA per p33?",
+    "a": "Can be associated with mononeuritis multiplex (neuropathy of one large nerve in many locations, e.g., wrist drop + foot drop in same patient). You do not need the term; just know neuropathy shows up in these vignettes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2med-0305",
+    "category": "IM Cardio",
+    "q": "Polyarteritis nodosa per p33 (figure)?",
+    "a": "Medium-vessel vasculitis with 'string of pearls' appearance of renal vessels. Fibrinoid necrosis. One NBME Q has 'segmental ischemic necrosis' as the answer. Can be caused by hepatitis B. USMLE wants you to know PAN spares the lungs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=33"
+    },
+    "img": "/mehlman/figures/med-p033-01.jpg",
+    "imgAlt": "Source figure p33: renal angiogram with beaded vessels and microaneurysms, PAN",
+    "guideline": {
+      "text": "A review on hepatitis B-associated PAN exists; I did not verify the lung-sparing claim (a hepatitis B-associated vasculitis case with lung masses has been reported).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4216827/"
+    }
+  },
+  {
+    "id": "s2med-0306",
+    "category": "IM Cardio",
+    "q": "Takayasu arteritis per p33?",
+    "a": "'Pulseless disease'; classically Asian women in their 40s or younger. Inflammation of large vessels including the aorta; always affects the subclavian arteries, hence weak or non-palpable upper extremity pulses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "StatPearls on Takayasu arteritis is a reference. I did not verify 'always' or the age limit.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459127/"
+    }
+  },
+  {
+    "id": "s2med-0307",
+    "category": "IM Cardio",
+    "q": "Temporal arteritis per p33?",
+    "a": "Aka giant cell arteritis. 9/10 Qs are painful unilateral headache in a patient over 50 (once bilateral on an NBME). Flares can have low-grade fever and high ESR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 33,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=33"
+    },
+    "guideline": {
+      "text": "European Headache Federation recommendations on GCA exist; I did not verify the 9/10 pattern.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7079499/"
+    }
   }
 ];
