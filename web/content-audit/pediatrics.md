@@ -605,4 +605,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls Osteopetrosis and Osteogenesis Imperfecta, plus a review of osteoclast generation.
 - Source conflict flagged: p128 says GM-CSF drives osteoclast differentiation; the review names M-CSF and RANKL as the essential cytokines. Source answer kept with caution note.
 - Left un-noted: osteopetrosis/OI/child abuse differential, "bone strength depends on architecture" explanation, blue-sclera buzziness.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 9 cards ox=false off=false bad=0; both figure cards render and answers fit.
