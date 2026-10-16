@@ -36164,5 +36164,185 @@ export default [
       "text": "PubMed: indirect inguinal hernias are the most commonly incarcerated hernias in children; most can be reduced nonoperatively, but strangulation needs surgery. I did not verify the vignette's blue-dot discoloration detail.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/27894423/"
     }
+  },
+  {
+    "id": "s2peds-2536",
+    "category": "Peds vignettes",
+    "q": "6M with a painful testis, a blue dot at the superior pole and an intact cremasteric reflex. Diagnosis per p177?",
+    "a": "Torsion of the appendix testis (on the new peds form, fair game for FM). It differs from testicular torsion, which has a negative cremasteric reflex; the appendix testis causes the blue dot sign.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "StatPearls Testicular Torsion page: a blue discoloration (blue dot sign) may be visible at the upper pole in appendix torsion; the cremasteric reflex is absent in torsion but is not very sensitive. Cremasteric reflex absence is a feature, not a sole criterion.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448199/"
+    }
+  },
+  {
+    "id": "s2peds-2537",
+    "category": "Peds vignettes",
+    "q": "8-month-old boy with unilateral testicular enlargement that transilluminates. Diagnosis per p177?",
+    "a": "Persistent processus vaginalis (hydrocele).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "Canadian pediatric surgeons consensus covers hydroceles from a patent processus vaginalis. I did not verify transillumination in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2819962/"
+    }
+  },
+  {
+    "id": "s2peds-2538",
+    "category": "Peds vignettes",
+    "q": "Treatment of hydrocele per p177?",
+    "a": "Observe until age 1, since most resolve spontaneously (almost always the answer); after age 1, surgery can be considered.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "Consensus statement: observe during the first one to two years unless a hernia cannot be excluded; persistent hydroceles beyond that age are unlikely to resolve and warrant elective repair. The source cutoff of 1 year is shorter than the consensus 1-2 years.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2819962/"
+    }
+  },
+  {
+    "id": "s2peds-2539",
+    "category": "Peds vignettes",
+    "q": "Treatment of cryptorchidism per p177?",
+    "a": "Observe; no orchiopexy until at least age 1; most spontaneously descend in the first year.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "Current caution: the AUA guideline says refer by 6 months of age if the testis has not descended, no imaging before referral, orchiopexy is the preferred therapy, and hormonal therapy is not recommended. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24857650/"
+    }
+  },
+  {
+    "id": "s2peds-2540",
+    "category": "Peds vignettes",
+    "q": "3M with a hard nodule on the testis. Diagnosis per p177?",
+    "a": "Yolk sac tumor (endodermal sinus tumor); serum AFP may be elevated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "A pediatric YST study: patients were young with larger tumors and significantly elevated AFP; a solid mass with elevated AFP raises suspicion for YST.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11619305/"
+    }
+  },
+  {
+    "id": "s2peds-2541",
+    "category": "Peds vignettes",
+    "q": "3M with a hard testicular nodule and elevated serum AFP and beta-hCG. Diagnosis per p177?",
+    "a": "Mixed germ cell tumor (embryonal cancer), not yolk sac tumor; yolk sac tumor has only high AFP, while mixed germ cell tumor also has elevated beta-hCG.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "I did not verify the hCG distinction; the YST study I read describes AFP elevation. Source answer kept without independent confirmation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11619305/"
+    }
+  },
+  {
+    "id": "s2peds-2542",
+    "category": "Peds vignettes",
+    "q": "14M with heaviness or bogginess of the testes. Diagnosis and management per p177?",
+    "a": "Varicocele (one FM shelf question literally says bag of worms). Diagnose with Doppler ultrasound; elective surgery may reduce the risk of sub-fertility from increased testicular temperature.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "StatPearls: varicoceles occur in about 15-20% of males and about 40% of infertile males; repair in infertile males with abnormal semen parameters can improve semen parameters and pregnancy rates. I did not verify the bag of worms wording or Doppler step in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448113/"
+    }
+  },
+  {
+    "id": "s2peds-2543",
+    "category": "Peds vignettes",
+    "q": "14M with a dragging sensation in the left testis and a soft tissue mass at the top that disappears when supine. What is the patient at increased risk of per p177?",
+    "a": "Infertility; diagnosis is varicocele.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "StatPearls: the association between clinically significant varicocele and male infertility is well recognized.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448113/"
+    }
+  },
+  {
+    "id": "s2peds-2544",
+    "category": "Peds vignettes",
+    "q": "16M for a sports exam with both testes descended and a painless scrotal mass that can be milked into the abdomen through the inguinal ring. Diagnosis per p177?",
+    "a": "Indirect inguinal hernia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "PubMed: indirect inguinal hernias are the most commonly incarcerated hernias in children and most can be reduced nonoperatively.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27894423/"
+    }
+  },
+  {
+    "id": "s2peds-2545",
+    "category": "Peds vignettes",
+    "q": "8-month-old boy with an undescended testis. Treatment per p177?",
+    "a": "Observation until at least age 1; do not do orchiopexy before age 1 for USMLE purposes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "Current caution: AUA guideline recommends referral by 6 months if undescended and treats orchiopexy as preferred therapy, with surgery generally in the first 18 months. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24857650/"
+    }
+  },
+  {
+    "id": "s2peds-2546",
+    "category": "Peds vignettes",
+    "q": "Treatment for scabies per p177?",
+    "a": "Topical permethrin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "StatPearls: topical permethrin 5% cream is effective and widely used.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK544306/"
+    }
+  },
+  {
+    "id": "s2peds-2547",
+    "category": "Peds vignettes",
+    "q": "Treatment for pediculosis (lice) per p177?",
+    "a": "Topical permethrin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 177,
+      "url": "/mehlman/hy-pediatrics.pdf#page=177"
+    },
+    "guideline": {
+      "text": "Review: 1% permethrin is a treatment of choice for pediculosis capitis, but resistance is increasing and is a growing worldwide concern.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8932250/"
+    }
   }
 ];

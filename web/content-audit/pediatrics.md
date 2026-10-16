@@ -934,3 +934,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: C. diff vancomycin (current first-line not verified here); torsion workup (cremasteric reflex unreliable, do not delay surgery).
 - Left unverified: FPIES severity wording, NBME frequency of FPIAP, Giardia metronidazole wording, prostatitis organism, hernia blue-dot discoloration.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p177 (Bullet points: scrotal pathology, hydrocele, cryptorchidism, varicocele, scabies, lice) - 12 cards, ids s2peds-2536 to 2547
+- Inspected page text and layout; no figures. The page ends at "Tx for acne:", which continues on p178.
+- Notes verified against StatPearls (Testicular Torsion, Varicocele, Scabies), the Canadian pediatric surgeons hydrocele/hernia consensus, the AUA cryptorchidism guideline abstract, a pediatric yolk sac tumor study and a pediculosis review.
+- Source answers kept with caution notes: hydrocele observe until age 1 (consensus 1-2 years); cryptorchidism observation (AUA: refer by 6 months, surgery by about 18 months); lice permethrin (resistance growing).
+- Left unverified: mixed germ cell hCG distinction, bag of worms wording, transillumination.
+- Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
