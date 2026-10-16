@@ -14398,5 +14398,268 @@ export default [
       "text": "StatPearls on pancreatic cancer is linked; I did not verify the text.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK518996/"
     }
+  },
+  {
+    "id": "s2med-1085",
+    "category": "IM Gastro",
+    "q": "Pancreatic cancer workup and surgery per p119?",
+    "a": "Pancreatic enzymes are normal in pancreatic cancer. USMLE wants CT of the abdomen to diagnose. Whipple procedure removes the head of the pancreas; cancer isolated to the tail gets distal pancreatectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls on pancreatic cancer is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK518996/"
+    }
+  },
+  {
+    "id": "s2med-1086",
+    "category": "IM Gastro",
+    "q": "After pancreatectomy per p119?",
+    "a": "Pancreatic enzyme supplementation; the exam can write this as 'pancrelipase.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2med-1087",
+    "category": "IM Gastro",
+    "q": "Cholangiocarcinoma per p119?",
+    "a": "Bile duct cancer. Answer if the vignette sounds like pancreatic cancer but the last line says CT is negative. Next best step: ERCP. Smoking is a risk factor (same as pancreatic cancer). Can be caused by Clonorchis sinensis (trematode).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "A review on Clonorchis sinensis and cholangiocarcinoma is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12040606/"
+    }
+  },
+  {
+    "id": "s2med-1088",
+    "category": "IM Gastro",
+    "q": "Biliary colic per p119?",
+    "a": "Acute-onset waxing/waning spasm-like pain in the epigastrium or RUQ from cholecystokinin causing gallbladder contraction while a stone transiently obstructs bile flow into the cystic duct. 2CK answer: 'obstruction of cystic duct opening by stone.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2med-1089",
+    "category": "IM Gastro",
+    "q": "Cholesterol stone demographics and mechanism per p119?",
+    "a": "4Fs: Fat, Forties, Female, Fertile. Estrogen upregulates HMG-CoA reductase, increasing cholesterol synthesis and secretion into bile. NBME answer: 'increased secretion of cholesterol into bile.' Another NBME question asks what the patient most likely has: 'lithogenic bile' (promoting stone formation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2med-1090",
+    "category": "IM Gastro",
+    "q": "Gallstones in pregnancy per p119?",
+    "a": "Estrogen effect plus progesterone slowing biliary peristalsis (sludging). Progesterone also slows ureteral peristalsis, raising pyelonephritis risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2med-1091",
+    "category": "IM Gastro",
+    "q": "Pigment stones per p119?",
+    "a": "Cholesterol stones are most common, but pigment (calcium bilirubinate) stones are exceedingly HY in hereditary spherocytosis and sickle cell from increased RBC turnover. Infections can also cause them (LY).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2med-1092",
+    "category": "IM Gastro",
+    "q": "Hereditary spherocytosis and gallstones per p119?",
+    "a": "Splenectomy reduces cholelithiasis incidence; sometimes the vignette wants cholecystectomy + splenectomy. Parent's history with low Hb points to hereditary spherocytosis (autosomal dominant).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "A paper on prophylactic splenectomy and cholecystectomy in hereditary spherocytosis is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9747744/"
+    }
+  },
+  {
+    "id": "s2med-1093",
+    "category": "IM Gastro",
+    "q": "Cholelithiasis diagnosis and ursodiol per p119?",
+    "a": "Diagnose with abdominal ultrasound. Ursodeoxycholic acid decreases cholesterol secretion into bile; usable in asymptomatic cholelithiasis, patients declining cholecystectomy, and pregnancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "A review of ursodiol in symptomatic gallstone disease is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035564/"
+    }
+  },
+  {
+    "id": "s2med-1094",
+    "category": "IM Gastro",
+    "q": "Cholecystitis per p119?",
+    "a": "Cholelithiasis plus fever; virtually always stone obstruction with resulting infection. Ultrasound shows the stones; if ultrasound is negative do a HIDA scan. Treatment: cholecystectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "The Tokyo Guidelines 2018 management flowchart is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29045062/"
+    }
+  },
+  {
+    "id": "s2med-1095",
+    "category": "IM Gastro",
+    "q": "Emphysematous cholecystitis per p119?",
+    "a": "Air in the biliary wall. USMLE wants Clostridium perfringens.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 119,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls on emphysematous cholecystitis is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448099/"
+    }
+  },
+  {
+    "id": "s2med-1096",
+    "category": "IM Gastro",
+    "q": "Chronic cholecystitis per p120?",
+    "a": "Calcification of the gallbladder ('porcelain gallbladder'), from repeated bouts of acute cholecystitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2med-1097",
+    "category": "IM Gastro",
+    "q": "ALP and bilirubin in cholecystitis per p120?",
+    "a": "Not increased in 19/20 questions (no CBD obstruction). One odd 2CK NBME question has cholecystitis with high ALP + direct bilirubin, implying concurrent choledocholithiasis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2med-1098",
+    "category": "IM Gastro",
+    "q": "Choledocholithiasis presentation per p120?",
+    "a": "Stone anywhere in the biliary tree (not the same as cholelithiasis). Obstructive jaundice (high ALP + direct bilirubin) with history of cholelithiasis or cholecystectomy within the past week; the stem may say intra-operative cholangiography was not performed, though it need not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2med-1099",
+    "category": "IM Gastro",
+    "q": "Choledocholithiasis workup per p120?",
+    "a": "USMLE wants abdominal ultrasound followed by ERCP (a question exists asking ultrasound first). Source has never seen MRCP as a correct answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    },
+    "guideline": {
+      "text": "The ASGE choledocholithiasis guideline is linked; I did not verify the text. It may discuss MRCP/EUS, so MRCP is a source heuristic.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8594622/"
+    }
+  },
+  {
+    "id": "s2med-1100",
+    "category": "IM Gastro",
+    "q": "Choledocholithiasis vs pancreatic cancer per p120?",
+    "a": "Obstructive jaundice in a heavy smoker with weight loss, or no gallbladder for 25 years, is head of pancreas cancer. If it sounds like pancreatic cancer but CT is negative: cholangiocarcinoma, do ERCP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2med-1101",
+    "category": "IM Gastro",
+    "q": "Gallstone pancreatitis per p120?",
+    "a": "Stone descends in the common bile duct to obstruct the hepatopancreatic ampulla, causing backflow of pancreatic enzymes and acute pancreatitis. If asked for the obstruction location USMLE wants 'hepatopancreatic ampulla' over 'common bile duct.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2med-1102",
+    "category": "IM Gastro",
+    "q": "Gallstone pancreatitis lab pattern per p120?",
+    "a": "High ALP, high direct bilirubin, and high amylase/lipase. Pancreatic cancer never has elevated enzymes on USMLE (a pass-level distinguisher).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2med-1103",
+    "category": "IM Gastro",
+    "q": "Imaging order in gallstone pancreatitis per p120?",
+    "a": "New 2CK NBME has CT of the abdomen first, before ERCP, to look for pancreatic fluid collection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    },
+    "guideline": {
+      "text": "An ACG guideline is linked; I did not verify what it says on imaging or ERCP timing, so this is a source exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13221274/"
+    }
+  },
+  {
+    "id": "s2med-1104",
+    "category": "IM Gastro",
+    "q": "Charcot triad per p120?",
+    "a": "Cholangitis: fever, jaundice, abdominal pain (USMLE often says just 'abdominal pain' rather than RUQ/epigastric).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2med-1105",
+    "category": "IM Gastro",
+    "q": "Ascending cholangitis per p120?",
+    "a": "Infection from ascending bowel flora (E. coli, Bacteroides) up the common bile duct; about 2/5 of cholangitis questions per the source. Primary sclerosing cholangitis (also ~2/5, in IBD, always ulcerative colitis) continues on p121.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 120,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=120"
+    }
   }
 ];

@@ -525,3 +525,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p118 (bilirubin diseases, autoimmune liver, pancreatic cancer) - 11 cards, ids s2med-1074 to 1084
 - Conflict: PBC now named primary biliary cholangitis; biopsy requirement unverified. Gilbert enzyme described as uptake by source.
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p119 (pancreatic cancer, cholangiocarcinoma, gallstones, cholecystitis) - 11 cards, ids s2med-1085 to 1095
+- Unverified: ursodiol indications, HS splenectomy text.
+
+## p120 (choledocholithiasis, gallstone pancreatitis, cholangitis) - 10 cards, ids s2med-1096 to 1105
+- Conflict/heuristic: MRCP never correct; CT-before-ERCP in gallstone pancreatitis are source exam answers. Page ends mid-PSC bullet, carried on p121.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
