@@ -27461,5 +27461,253 @@ export default [
       "text": "StatPearls: perinatal type II OI has fractures often incompatible with life and increased perinatal mortality.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK536957/"
     }
+  },
+  {
+    "id": "s2peds-1923",
+    "category": "Marfan syndrome",
+    "q": "What inheritance, chromosome and gene does p129 give for Marfan syndrome?",
+    "a": "Autosomal dominant; chromosome 15; FBN1/2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "StatPearls: autosomal dominant, with the defect in the FBN1 gene on chromosome 15, producing fibrillin. StatPearls names FBN1 only.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537339/"
+    }
+  },
+  {
+    "id": "s2peds-1924",
+    "category": "Marfan syndrome",
+    "q": "What does fibrillin do per p129?",
+    "a": "It is a glycoprotein that forms a sheath around elastin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2peds-1925",
+    "category": "Marfan syndrome",
+    "q": "Which body features of Marfan syndrome does p129 list?",
+    "a": "Tall, lanky habitus with flat feet (pes planus), chest wall abnormalities (pectus excavatum or carinatum) and scoliosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "StatPearls: long limbs, arachnodactyly, thoracolumbar scoliosis and pectus deformities.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537339/"
+    }
+  },
+  {
+    "id": "s2peds-1926",
+    "category": "Marfan syndrome",
+    "q": "Which cardiac findings does p129 list for Marfan syndrome?",
+    "a": "Mitral valve prolapse (mid-systolic click) and increased aortic dissection risk, which can propagate retrograde to the root, causing root dilatation and aortic regurgitation (decrescendo diastolic murmur).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "StatPearls: aortic regurgitation, dilatation and aneurysms are most common; mitral valve prolapse can occur; life expectancy is limited mainly by aortic root dilatation and dissection.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537339/"
+    }
+  },
+  {
+    "id": "s2peds-1927",
+    "category": "Marfan syndrome",
+    "q": "Is Marfan syndrome associated with berry aneurysms per p129?",
+    "a": "No. p129 says it is not associated with berry/saccular aneurysms, unlike Ehlers-Danlos and ADPKD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2peds-1928",
+    "category": "Ehlers-Danlos syndrome",
+    "q": "What synthesis defect does p129 give for Ehlers-Danlos and how may it be worded?",
+    "a": "Defect in collagen III synthesis; may be written as defect in synthesis of fibrillar collagen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "GeneReviews: vascular EDS is caused by COL3A1 variants affecting type III collagen. This card describes that type; other EDS types involve other genes.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1494/"
+    }
+  },
+  {
+    "id": "s2peds-1929",
+    "category": "Ehlers-Danlos syndrome",
+    "q": "Which wrong answer does p129 warn about for Ehlers-Danlos collagen questions?",
+    "a": "Abnormal synthesis of extracellular glycoprotein, which refers to fibrillin and Marfan syndrome. Fibrillar collagen means type III collagen, which is unrelated to fibrillin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2peds-1930",
+    "category": "Ehlers-Danlos syndrome",
+    "q": "How does Ehlers-Danlos present per p129, and what does the p129 photo show?",
+    "a": "Easy bruising and hyperextensible skin. The photo shows skin being stretched.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "img": "/mehlman/figures/peds-p129-ehlers-danlos-skin.png",
+    "imgAlt": "Actual source photograph of a hand pulling up hyperextensible skin on a forearm in Ehlers-Danlos syndrome",
+    "guideline": {
+      "text": "GeneReviews: vascular EDS features thin, translucent skin and easy bruising, with arterial, intestinal and uterine fragility.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1494/"
+    }
+  },
+  {
+    "id": "s2peds-1931",
+    "category": "Williams syndrome",
+    "q": "What inheritance, chromosome and defect does p129 give for Williams syndrome?",
+    "a": "Autosomal dominant; chromosome 7; defect in elastin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "StatPearls: spontaneous deletions at 7q11.23 involving the elastin gene (ELN). Most are new deletions, though affected parents can transmit them.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544278/"
+    }
+  },
+  {
+    "id": "s2peds-1932",
+    "category": "Williams syndrome",
+    "q": "Which features does p129 list for Williams syndrome?",
+    "a": "Elfin-like facies, hypercalcemia and well-developed verbal skills.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "StatPearls: elfin-like facies, systemic hypercalcemia and a distinctively gregarious personality.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544278/"
+    }
+  },
+  {
+    "id": "s2peds-1933",
+    "category": "Williams syndrome",
+    "q": "Which cardiac lesion does p129 link to Williams syndrome?",
+    "a": "Supravalvular aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "StatPearls: ELN deletion causes generalized arteriopathy, characteristically supravalvular aortic stenosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544278/"
+    }
+  },
+  {
+    "id": "s2peds-1934",
+    "category": "Scoliosis",
+    "q": "How does p129 define scoliosis and how common is it?",
+    "a": "Sideways spinal curvature forming an S- or C-shaped curve. Usually idiopathic, affects 3% of the population, girls 4:1.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "OrthoInfo (AAOS): girls are more likely to develop larger curves needing care. I did not verify the 3% and 4:1 figures.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents/"
+    }
+  },
+  {
+    "id": "s2peds-1935",
+    "category": "Scoliosis",
+    "q": "What is the most common type of scoliosis per p129?",
+    "a": "Idiopathic adolescent thoracic scoliosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2peds-1936",
+    "category": "Scoliosis",
+    "q": "Which conditions does p129 associate with scoliosis?",
+    "a": "Marfan syndrome, Friedreich ataxia and NF1.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    }
+  },
+  {
+    "id": "s2peds-1937",
+    "category": "Scoliosis",
+    "q": "Which test diagnoses scoliosis per p129?",
+    "a": "The Adams forward bend test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "OrthoInfo: the Adams forward bend test is the standard screening test, looking for rib asymmetry. USPSTF currently rates screening of asymptomatic adolescents Grade I (insufficient evidence).",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/adolescent-idiopathic-scoliosis-screening"
+    }
+  },
+  {
+    "id": "s2peds-1938",
+    "category": "Scoliosis",
+    "q": "What does p129 say about treatment for most children with scoliosis?",
+    "a": "Most do not need treatment, but the curvature remains throughout life.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "OrthoInfo: many curves are small and need no treatment.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents/"
+    }
+  },
+  {
+    "id": "s2peds-1939",
+    "category": "Scoliosis",
+    "q": "When is bracing the answer for scoliosis per p129?",
+    "a": "If the curve is more than 25 degrees and the child is still growing.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    },
+    "guideline": {
+      "text": "OrthoInfo: bracing is considered for curves of 25 to 45 degrees in a child who is still growing. Curves below 25 degrees are observed.",
+      "url": "https://www.orthoinfo.org/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents/"
+    }
+  },
+  {
+    "id": "s2peds-1940",
+    "category": "Scoliosis",
+    "q": "When does p129 say surgery is recommended for scoliosis?",
+    "a": "Only when the curvature is above 40 degrees, per the literature. p129 has never seen surgery as the NBME answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 129,
+      "url": "/mehlman/hy-pediatrics.pdf#page=129"
+    }
   }
 ];

@@ -606,3 +606,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict flagged: p128 says GM-CSF drives osteoclast differentiation; the review names M-CSF and RANKL as the essential cytokines. Source answer kept with caution note.
 - Left un-noted: osteopetrosis/OI/child abuse differential, "bone strength depends on architecture" explanation, blue-sclera buzziness.
 - Mobile QA (320x740, live, local headless Chrome): all 9 cards ox=false off=false bad=0; both figure cards render and answers fit.
+
+## p129 (Marfan, Ehlers-Danlos, Williams, scoliosis) - 18 cards, ids s2peds-1923 to 1940
+- Inspected page pixels. One source figure added: hyperextensible skin photo (EDS).
+- Notes verified against StatPearls Marfan and Williams, GeneReviews vascular EDS, OrthoInfo (AAOS) scoliosis, USPSTF AIS screening (Grade I, insufficient evidence).
+- Differences kept as notes, source answers kept: StatPearls names FBN1 only (source says FBN1/2); collagen III defect fits vascular EDS (COL3A1), not all EDS; Williams is usually a new 7q11.23 deletion; AAOS gives bracing at 25-45 degrees in a growing child; USPSTF does not recommend routine screening (I).
+- Left un-noted (not verified): fibrillin sheath-around-elastin wording, Marfan not associated with berry aneurysms, scoliosis 3% and 4:1 figures, most common type wording, Marfan/Friedreich/NF1 associations, surgery >40 degrees threshold (AAOS fetch did not show the surgical threshold).
+- Mobile QA: PENDING
