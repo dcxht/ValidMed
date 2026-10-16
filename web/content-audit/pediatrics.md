@@ -578,4 +578,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls Subconjunctival Hemorrhage, Aniridia, CHARGE and Albinism. WAGR: StatPearls says an 11p13 deletion removes both PAX6 and WT1; source says WT1 mutations. Source answer kept with a clarifying note.
 - Left un-noted: "buzzy image" exam-frequency remark, "bursting of superficial conjunctival vessels" mechanism wording.
 - p123's cut-off last line ("Marfan and Alport can also cause eye issues, but") does not continue on p124; it is a source truncation, nothing to add.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 9 cards ox=false off=false bad=0; photo cards render; long answers scroll inside the card.
