@@ -429,3 +429,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Page text inspected, no figures.
 - Unverified: mirabegron guidance, zona radiata wording, "1/3 of urge vignettes are MS".
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p97 (IM Renal: urinary retention, GU trauma) - 7 cards, ids s2med-0909 to 0915
+- Page text inspected, no figures.
+- Conflict: renal injury imaging (hematuria-only algorithm vs current trauma guidance). Unverified: saddle anesthesia observation. Expletive paraphrased.
+
+## p98 (IM Renal: RCC, Wilms, BWS, WAGR) - 7 cards, ids s2med-0916 to 0922
+- Figure med-p098-01 inspected (clear cell histology).
+- Unverified: chromosome 11 statement beyond WT1 pages, review texts.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.

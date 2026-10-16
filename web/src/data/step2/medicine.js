@@ -11920,5 +11920,201 @@ export default [
       "text": "A paper on HIV-associated dementia assessment exists; I did not verify its text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9966987/"
     }
+  },
+  {
+    "id": "s2med-0909",
+    "category": "IM Renal",
+    "q": "Bladder neck dyssynergia per p97?",
+    "a": "Lack of coordination between the bladder sphincters and detrusor muscle. HY cause is spinal cord injury, which can cause inability to void or urinary incontinence. MS is another theoretical cause, but the source has only seen urge incontinence for MS on NBME exams (Qbank is not NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2med-0910",
+    "category": "IM Renal",
+    "q": "Anuria after catheter removal per p97?",
+    "a": "Acute urethral obstruction (bladder outflow obstruction) is HY on 2CK forms. Treatment on NBME is re-insertion of a urinary catheter.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2med-0911",
+    "category": "IM Renal",
+    "q": "Cauda equina syndrome per p97?",
+    "a": "Leg pain plus urinary retention. Can be idiopathic, from disc herniation or other trauma. Metastases are a HY cause (a random man over 50, or a woman with a mastectomy 5 years ago). The source says 'saddle anesthesia' is overrated and rarely appears in NBME questions. The cauda equina is the collection of nerves at the end of the spinal cord.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=97"
+    },
+    "guideline": {
+      "text": "A paper titled 'Cauda Equina Syndrome - Think of Cancer' exists; I did not verify its text. The source's saddle anesthesia claim is its own observation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3042291/"
+    }
+  },
+  {
+    "id": "s2med-0912",
+    "category": "IM Renal",
+    "q": "Urethral injury per p97?",
+    "a": "Always blood at the urethral meatus. Three presentations: with a saddle injury (falls on a balance beam), with pelvic fracture/instability, or with 'prostate not palpable'. Next best step: retrograde urethrogram.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=97"
+    },
+    "guideline": {
+      "text": "The AUA urotrauma guideline and a review of urethral injuries exist; I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9959137/"
+    }
+  },
+  {
+    "id": "s2med-0913",
+    "category": "IM Renal",
+    "q": "Bladder injury per p97?",
+    "a": "Blunt abdominal trauma plus exquisite suprapubic tenderness; catheter insertion gives 10-30 mL of dark bloody fluid. Next best step is retrograde cystourethrogram (not voiding cystourethrogram, which is for posterior urethral valves). USMLE-favorite injury for any gynecologic-area surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=97"
+    },
+    "guideline": {
+      "text": "The AUA urotrauma guideline is linked; I did not verify its text.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+    }
+  },
+  {
+    "id": "s2med-0914",
+    "category": "IM Renal",
+    "q": "Ureteral injury per p97?",
+    "a": "Diagnosis is by retrograde pyelogram or CT urogram, but the source has only seen 'ureter' as the answer in questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=97"
+    },
+    "guideline": {
+      "text": "A review of ureteral injuries during obstetric and gynecologic surgery exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8491787/"
+    }
+  },
+  {
+    "id": "s2med-0915",
+    "category": "IM Renal",
+    "q": "Renal injury per p97?",
+    "a": "Exceedingly HY on 2CK. Bruising or pain over a flank after an accident. Blood in urine is highly sensitive (absent = rule out). If gross blood: CT of the abdomen with contrast (ultrasound is wrong). If no gross blood: urinalysis for microscopic blood; if present, CT abdomen with contrast; if negative, 'no further diagnostic studies indicated'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 97,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=97"
+    },
+    "guideline": {
+      "text": "Current kidney trauma guidance (AUA urotrauma, WSES-AAST) bases imaging also on hemodynamic stability and mechanism, not hematuria alone; I did not verify the exact criteria.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6886230/"
+    }
+  },
+  {
+    "id": "s2med-0916",
+    "category": "IM Renal",
+    "q": "Renal cell carcinoma per p98?",
+    "a": "Also called 'clear cell carcinoma' (most common RCC variant, per the source). Classic: smoker over 50 with red urine and a painful flank mass; the vignette need not mention smoking, but it is the biggest risk factor. Histology: large clear cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=98"
+    },
+    "img": "/mehlman/figures/med-p098-01.jpg",
+    "imgAlt": "Histology of clear cell renal cell carcinoma: large cells with clear cytoplasm",
+    "guideline": {
+      "text": "StatPearls on renal clear cell cancer is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563230/"
+    }
+  },
+  {
+    "id": "s2med-0917",
+    "category": "IM Renal",
+    "q": "RCC paraneoplastic effects per p98?",
+    "a": "Polycythemia from increased EPO and hypercalcemia from PTHrP secretion (same as squamous cell carcinoma of the lung). Example: 55-year-old man with red urine, polycythemia and hypercalcemia plus clear cell image; source of the malignancy = kidney, not lung (lung squamous cell carcinoma does not cause hematuria or metastasize to the kidney).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2med-0918",
+    "category": "IM Renal",
+    "q": "Wilms tumor presentation per p98?",
+    "a": "The answer for a painless flank mass in a child age 2-4 years. Not in newborns. A 12-hour-old male with a midline mass is posterior urethral valves with a full bladder, not Wilms. A 2-4-year-old with a midline mass is neuroblastoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "A radiological review of neuroblastoma and nephroblastoma exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4446071/"
+    }
+  },
+  {
+    "id": "s2med-0919",
+    "category": "IM Renal",
+    "q": "Wilms tumor genetics per p98?",
+    "a": "Sometimes caused by mutations on chromosome 11 (asked on 2CK). There are various Wilms tumor syndromes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "A review of syndromes associated with Wilms tumour and a GeneReviews page on WT1 disorder exist; I did not verify their text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2564568/"
+    }
+  },
+  {
+    "id": "s2med-0920",
+    "category": "IM Renal",
+    "q": "Beckwith-Wiedemann syndrome per p98?",
+    "a": "Wilms tumor plus macrosomia (big baby over 4,000 g), hemihypertrophy, macroglossia, omphalocele and hypoglycemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "GeneReviews on Beckwith-Wiedemann syndrome is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1394/"
+    }
+  },
+  {
+    "id": "s2med-0921",
+    "category": "IM Renal",
+    "q": "Hard 2CK BWS question per p98?",
+    "a": "Newborn with macrosomia, hemihypertrophy, macroglossia, omphalocele; no mention of Wilms; asked what else could be seen: hypoglycemia. Hard because Wilms plays no role in the vignette.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2med-0922",
+    "category": "IM Renal",
+    "q": "WAGR syndrome per p98?",
+    "a": "Wilms tumor, Aniridia (iris abnormalities), Genitourinary anomalies, Retardation. Usually easy: 'aniridia' is in the vignette and the answer is Wilms tumor that the child can go on to develop.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 98,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=98"
+    },
+    "guideline": {
+      "text": "GeneReviews on WAGR spectrum disorder is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK621298/"
+    }
   }
 ];
