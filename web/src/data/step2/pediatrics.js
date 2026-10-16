@@ -24255,5 +24255,277 @@ export default [
       "text": "StatPearls: DSM-5 no longer requires symptoms to be medically unexplained; the diagnosis needs excessive thoughts, feelings or behaviors about the symptoms causing distress or dysfunction.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK532253/"
     }
+  },
+  {
+    "id": "s2peds-1693",
+    "category": "Conversion disorder",
+    "q": "What deficits and trigger does p115 give for conversion disorder?",
+    "a": "Neurologic deficits (paralysis, loss of function, numbness) usually following a stressor such as job loss or an argument with a spouse.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: functional neurologic disorder (conversion disorder) is sensory or motor symptoms inconsistent with known neurologic disease, causing significant impairment.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551567/"
+    }
+  },
+  {
+    "id": "s2peds-1694",
+    "category": "Conversion disorder",
+    "q": "What is la belle indifference on p115?",
+    "a": "Apparent lack of care or concern about the deficit. The patient supposedly cannot move an arm but does not seem fazed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: la belle indifference is a paradoxical absence of distress despite serious symptoms, most associated with conversion disorder.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560842/"
+    }
+  },
+  {
+    "id": "s2peds-1695",
+    "category": "Conversion disorder",
+    "q": "What summer-camp example does p115 give for conversion disorder?",
+    "a": "A child dropped off at summer camp who says he cannot move his finger. He is likely stressed about being separated from his parents.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2peds-1696",
+    "category": "Conversion disorder",
+    "q": "What NBME voice finding does p115 say has conversion disorder as the answer?",
+    "a": "Hoarseness of voice.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2peds-1697",
+    "category": "Conversion disorder",
+    "q": "What NBME eye vignette does p115 give for conversion disorder, and what exam finding is key?",
+    "a": "A person with blindness in one eye but no relative afferent pupillary defect (RAPD), which means CN II is not damaged, so the diagnosis is conversion disorder. The source points to the HY Neuro PDF for RAPD.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls Nonorganic Vision Loss: a relative afferent pupillary defect is usually present in unilateral retrobulbar optic neuropathy (for example optic neuritis), so reported unilateral blindness without one points away from optic nerve disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK599519/"
+    }
+  },
+  {
+    "id": "s2peds-1698",
+    "category": "Illness anxiety disorder",
+    "q": "What is illness anxiety disorder on p115, and what was it called before?",
+    "a": "Formerly hypochondriasis. Preoccupation with fear of having or acquiring a serious illness, with worries that persist after medical reassurance of no significant health concern or risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls confirms illness anxiety disorder was previously called hypochondriasis and persists despite normal exam and labs.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554399/"
+    }
+  },
+  {
+    "id": "s2peds-1699",
+    "category": "Factitious disorders",
+    "q": "How do symptom generation and motive differ in factitious disorders on p115?",
+    "a": "Symptom generation is conscious and intentional; the motive is unconscious.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2peds-1700",
+    "category": "Factitious disorders",
+    "q": "What drives symptom production in factitious disorders, and how does p115 use primary vs secondary gain?",
+    "a": "A need to be seen as ill or injured, not a tangible benefit such as drugs, money or time out of prison. Seeking medical attention is 'primary gain'; something concrete like cash or time out of prison is 'secondary gain'.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: factitious disorder involves intentional falsification of symptoms without external incentives. Note the source's primary-gain wording is a USMLE shorthand; in classic psychodynamic usage, primary gain is relief of internal conflict and secondary gain is external benefit.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK518999/"
+    }
+  },
+  {
+    "id": "s2peds-1701",
+    "category": "Factitious disorder imposed on self",
+    "q": "What older name does p115 give for factitious disorder imposed on self?",
+    "a": "Munchausen syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls confirms Munchausen syndrome is the former name of factitious disorder imposed on self.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK518999/"
+    }
+  },
+  {
+    "id": "s2peds-1702",
+    "category": "Factitious disorder imposed on self",
+    "q": "What does factitious disorder imposed on self involve, and what is the main motivation?",
+    "a": "Intentional production or feigning of physical symptoms (for example GI pain). The primary motivation is to assume the sick role and receive medical attention, care or sympathy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: intentional production or falsification of symptoms without external incentives.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK518999/"
+    }
+  },
+  {
+    "id": "s2peds-1703",
+    "category": "Factitious disorder imposed on self",
+    "q": "What procedural willingness does p115 give for factitious disorder imposed on self?",
+    "a": "Patients are willing to undergo invasive procedures. The question might mention a history of appendectomy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2peds-1704",
+    "category": "Factitious disorder imposed on another",
+    "q": "What older name does p115 give for factitious disorder imposed on another, and what does it involve?",
+    "a": "Munchausen syndrome by proxy. Feigning symptoms in another person to achieve medical attention.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: caretaker falsifies illness in a child to gain attention, usually without obvious external reward.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK565843/"
+    }
+  },
+  {
+    "id": "s2peds-1705",
+    "category": "Factitious disorder imposed on another",
+    "q": "How does p115 classify factitious disorder imposed on another, who can be victims, and what must happen?",
+    "a": "It is considered a form of abuse. It can occur with parents or caretakers toward their children, elderly people or others in their care. It needs to be reported.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: factitious disorder imposed on another is a form of child abuse; health professionals are mandated reporters.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK565843/"
+    }
+  },
+  {
+    "id": "s2peds-1706",
+    "category": "Factitious thyrotoxicosis",
+    "q": "What is factitious thyrotoxicosis on p115?",
+    "a": "Injection of thyroid hormone, also called surreptitious thyrotoxicosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2peds-1707",
+    "category": "Factitious thyrotoxicosis",
+    "q": "How does the USMLE usually present factitious thyrotoxicosis per p115?",
+    "a": "As an endocrine-type question (see HY Endocrine PDF). It need not be tied to a wish for medical care; the patient could just be trying to lose weight, though some inject to get medical attention.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2peds-1708",
+    "category": "Factitious use of glycemic meds",
+    "q": "What does p115 say about factitious use of glycemic medications?",
+    "a": "Use of insulin or hypoglycemic meds (such as sulfonylureas) to cause hypoglycemia or weight loss. Some patients do it to get medical attention.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: factitious hypoglycemia results from self-administered insulin or insulin secretagogues such as sulfonylureas.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542310/"
+    }
+  },
+  {
+    "id": "s2peds-1709",
+    "category": "Factitious use of glycemic meds",
+    "q": "How does p115 use C-peptide in factitious hypoglycemia?",
+    "a": "Low C-peptide indicates exogenous insulin. High C-peptide means either secretagogue abuse (such as sulfonylureas) or insulinoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: exogenous insulin gives high insulin with low C-peptide; sulfonylureas can mimic insulinoma with both high, and a drug screen can confirm.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542310/"
+    }
+  },
+  {
+    "id": "s2peds-1710",
+    "category": "Malingering",
+    "q": "How do symptom generation and motive compare in malingering on p115?",
+    "a": "Both symptom generation and motive are intentional.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls: intentional fabrication or exaggeration of symptoms for external incentives.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507837/"
+    }
+  },
+  {
+    "id": "s2peds-1711",
+    "category": "Malingering",
+    "q": "What is the aim of malingering on p115, with examples?",
+    "a": "Secondary gain: money, drugs, time out of school or detention.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    },
+    "guideline": {
+      "text": "StatPearls lists financial compensation, avoiding legal or occupational duties and access to medications as external incentives.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507837/"
+    }
+  },
+  {
+    "id": "s2peds-1712",
+    "category": "Malingering",
+    "q": "What procedural willingness distinguishes malingering on p115, and what is the example?",
+    "a": "The patient is not willing to undergo invasive procedures. Example: a child complains of severe RLQ pain and feigns a rigid abdomen to get out of detention, but refuses appendectomy once at the hospital.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 115,
+      "url": "/mehlman/hy-pediatrics.pdf#page=115"
+    }
   }
 ];
