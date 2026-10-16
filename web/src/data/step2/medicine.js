@@ -17738,7 +17738,7 @@ export default [
       "url": "/mehlman/hy-internal-medicine.pdf#page=146"
     },
     "guideline": {
-      "text": "A review of anaphylaxis risk in percutaneous cystic echinococcosis treatment is linked; I did not verify the text. The review title suggests the risk may be overstated, so the 'do not biopsy' answer is the source's exam answer.",
+      "text": "A review of anaphylaxis risk in percutaneous cystic echinococcosis treatment is linked; I did not verify the text. The 'do not biopsy' answer is the source's exam answer.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3114754/"
     }
   },
