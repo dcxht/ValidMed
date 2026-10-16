@@ -7504,5 +7504,197 @@ export default [
       "page": 59,
       "url": "/mehlman/hy-internal-medicine.pdf#page=59"
     }
+  },
+  {
+    "id": "s2med-0579",
+    "category": "IM Pulmonary",
+    "q": "Tension pneumothorax with near-normal BP per p59-60?",
+    "a": "One 2CK form: BP at the lower end of normal but the patient is tachycardic around 120 bpm (barely holding BP in the normal range).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2med-0580",
+    "category": "IM Pulmonary",
+    "q": "Exam findings in pneumothorax per p60?",
+    "a": "Hyper-resonance to percussion, decreased breath sounds and decreased tactile fremitus: air in the pleural space masks sounds and vibration of underlying alveolar air flow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2med-0581",
+    "category": "IM Pulmonary",
+    "q": "Treatment of pneumothorax per p60?",
+    "a": "'Needle decompression followed by chest tube' is the HY phrase. One 2CK question has only 'tube thoracostomy' listed; choose it. Pleurodesis (talc into the pleural space to obliterate it for recurrent pneumothorax) has only appeared as a distractor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "The 2023 BTS pleural disease guideline is the current reference for non-tension pneumothorax (e.g., observation or aspiration for suitable patients); I did not verify its text. Needle decompression is for tension physiology (StatPearls reference).",
+      "url": "https://thorax.bmj.com/content/78/11/1143"
+    }
+  },
+  {
+    "id": "s2med-0582",
+    "category": "IM Pulmonary",
+    "q": "Observation of a pneumothorax per p60?",
+    "a": "Very small pneumothoraces in stable patients with minimal symptoms can be observed. One 2CK NBME answer is 'observe'; the vignette emphasizes how unremarkable the presentation is.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2med-0583",
+    "category": "IM Pulmonary",
+    "q": "Barotrauma pneumothorax per p60?",
+    "a": "A 2CK question: pneumothorax from ascending too quickly from underwater (alveoli expand too quickly). Different from Caisson disease ('the bends'), where nitrogen bubbles form in the blood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "A review on decompression illness exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11168797/"
+    }
+  },
+  {
+    "id": "s2med-0584",
+    "category": "IM Pulmonary",
+    "q": "Pleural effusion per p60 (figure)?",
+    "a": "Fluid in the pleural space, often 'hydrothorax' (transudate or exudate of plasma-like fluid). USMLE wants dullness to percussion, decreased breath sounds and decreased tactile fremitus (fluid masks air movement in the alveoli).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    },
+    "img": "/mehlman/figures/med-p060-01.jpg",
+    "imgAlt": "Source figure p60: chest X-ray with a large right-sided opacity at the lung base",
+    "guideline": {
+      "text": "StatPearls on pleural effusion is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448189/"
+    }
+  },
+  {
+    "id": "s2med-0585",
+    "category": "IM Pulmonary",
+    "q": "Causes of pleural effusion on USMLE per p60?",
+    "a": "Left heart failure (pulmonary edema +/- effusion) is notable. Also pneumonias, tuberculosis and aortic dissection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2med-0586",
+    "category": "IM Pulmonary",
+    "q": "Meigs syndrome per p60?",
+    "a": "Triad of ovarian fibroma, ascites and right-sided pleural effusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 60,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=60"
+    },
+    "guideline": {
+      "text": "StatPearls on Meigs syndrome is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559322/"
+    }
+  },
+  {
+    "id": "s2med-0587",
+    "category": "IM Pulmonary",
+    "q": "Light's criteria per p61?",
+    "a": "Exudate if any: pleural fluid protein:serum protein >0.5; pleural fluid LDH:serum LDH >0.6; pleural fluid LDH >2/3 the upper limit of normal serum LDH. Transudates have less protein and LDH (HY for Step 1 and 2CK).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "An ICS/NCCP guideline on pleural effusion basics is a reference; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11093145/"
+    }
+  },
+  {
+    "id": "s2med-0588",
+    "category": "IM Pulmonary",
+    "q": "WBCs and causes of transudate vs exudate per p61?",
+    "a": "Transudates have fewer WBCs, but the source routinely sees 500 WBC/uL in NBME transudate questions. Highest-yield transudate cause is left heart failure. ARDS, PE and infections cause exudates (inflammation).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2med-0589",
+    "category": "IM Pulmonary",
+    "q": "Typical empyema sequence per p61?",
+    "a": "4 of 5 questions: pneumonia, then parapneumonic effusion (exudative), then empyema (frank pus). Pleural fluid pH falls below about 7.1; the source has seen 7.12, 7.11 and 6.99 as empyema answers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "The 2023 BTS guideline and an older ACCP evidence-based guideline use pleural pH below 7.2 as a drainage threshold; I did not verify their text. Keep 7.1 for the source's answers.",
+      "url": "https://thorax.bmj.com/content/78/11/1143"
+    }
+  },
+  {
+    "id": "s2med-0590",
+    "category": "IM Pulmonary",
+    "q": "Atypical empyema vignette per p61?",
+    "a": "1 of 5: no pneumonia history; persistent fever + recurrent pleural effusions in a patient with cirrhosis (low oncotic pressure, transudative effusions). Answer is just empyema. NBME wants tube thoracostomy to drain the pus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "An evidence-based guideline on parapneumonic effusions exists; I did not verify the cirrhosis vignette.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11035692/"
+    }
+  },
+  {
+    "id": "s2med-0591",
+    "category": "IM Pulmonary",
+    "q": "Chylothorax per p61?",
+    "a": "Chyle (lymph) in the pleural space: milky or white-cloudy fluid with a pleural pH significantly above 7.1 (e.g., 7.40 means chylothorax, not empyema). Caused by iatrogenic insertion of a central line via the left internal jugular vein, or cancers such as lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "A review on chylothorax is available; I did not verify the line-insertion claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10944732/"
+    }
+  },
+  {
+    "id": "s2med-0592",
+    "category": "IM Pulmonary",
+    "q": "Hemothorax on USMLE per p61?",
+    "a": "Blood in the pleural space. Apart from massive trauma, it appears as malignant pleural effusion: long paragraph, history of breast or lung cancer, dullness to percussion. Can have hypotension and muffled heart sounds like tamponade, but with flattened neck veins instead of JVD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 61,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=61"
+    },
+    "guideline": {
+      "text": "A review of malignant pleural effusion exists. Caution: malignant effusion and hemothorax are not the same entity; I did not verify this equivalence.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11293617/"
+    }
   }
 ];

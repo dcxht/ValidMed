@@ -263,3 +263,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text and figure (pneumothorax CXR). Page ends mid-sentence; remainder on p60.
 - Conflict: source says simple pneumothorax causes ipsilateral tracheal shift (typically no shift). Unverified: cited reviews' text.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p60 (IM Pulmonary: pneumothorax tail, pleural effusion) - 8 cards, ids s2med-0579 to 0586
+- Inspected page text and figure (right pleural effusion CXR). Page starts mid-sentence from p59.
+- Unverified: BTS/BTS-like text, decompression illness review.
+
+## p61 (IM Pulmonary: Light's criteria, empyema, chylothorax, hemothorax) - 6 cards, ids s2med-0587 to 0592
+- Inspected page text (no figures).
+- Conflict: empyema pH <7.1 (source) vs <7.2 drainage threshold in guidelines; "hemothorax = malignant effusion" is the source's equivalence (not verified).
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
