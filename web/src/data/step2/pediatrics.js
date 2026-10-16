@@ -33972,5 +33972,170 @@ export default [
       "text": "Current caution: StatPearls says acute rheumatic fever presents 2 to 4 weeks after untreated GAS infection and carditis within 2 to 3 weeks, so a 2-day onset conflicts. Source answer kept as the exam pattern.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK594238/"
     }
+  },
+  {
+    "id": "s2peds-2388",
+    "category": "Rheumatic fever",
+    "q": "What mechanism and treatment does p161 give for rheumatic fever, continuing from p160?",
+    "a": "After the strep pharyngitis: type II hypersensitivity via molecular mimicry with Group A Strep M protein (Step 1). Treat with penicillin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: acute rheumatic fever follows untreated GAS infection. I did not verify the hypersensitivity type or the treatment detail in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK594238/"
+    }
+  },
+  {
+    "id": "s2peds-2389",
+    "category": "Peds vignettes",
+    "q": "8M with sore throat and a new-onset tic. Diagnosis and next step per p161?",
+    "a": "PANDAS (Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcus). Group A Strep can precipitate OCD, Tourette and ADHD. Answer: check streptolysin O titers. High-yield for Psych shelf, Peds shelf and 2CK.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: sudden onset of obsessions, compulsions and tics; evaluation includes infectious disease testing. I did not verify the ASO titer step or the ADHD link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK606088/"
+    }
+  },
+  {
+    "id": "s2peds-2390",
+    "category": "Peds vignettes",
+    "q": "7F with facial grimaces for 5 months, no other motor findings, normal mental status. Next best step per p161?",
+    "a": "Schedule a follow-up examination in 3 months. Diagnosis: provisional tic disorder, with a watch-and-wait approach.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "Review: provisional tic disorder, with counseling for parents when a child first starts ticcing. I did not verify the 3-month follow-up step.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4850871/"
+    }
+  },
+  {
+    "id": "s2peds-2391",
+    "category": "Peds vignettes",
+    "q": "What facts does p161 give about provisional tic disorder?",
+    "a": "1 in 5 children experience some form of tic disorder; most common at ages 7-12; usually lasts under a year. It used to be called transient tic disorder; the name changed because a small percent go on to chronic tics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "I did not verify these figures in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4850871/"
+    }
+  },
+  {
+    "id": "s2peds-2392",
+    "category": "Peds vignettes",
+    "q": "11-month-old boy, red tongue, maculopapular body rash, fever 100.5F. Diagnosis and treatment per p161?",
+    "a": "Scarlet fever (Group A Strep). Give penicillin to prevent rheumatic fever. The tongue is called strawberry.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: sandpaper-like rash, strawberry tongue and pharyngitis from Group A Strep; complications include rheumatic heart disease and PSGN.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507889/"
+    }
+  },
+  {
+    "id": "s2peds-2393",
+    "category": "Peds vignettes",
+    "q": "4F with a maculopapular rash, fever and white spots on the buccal mucosa. Diagnosis per p161?",
+    "a": "Rubeola (measles).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: Koplik spots are the buccal findings of measles.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448068/"
+    }
+  },
+  {
+    "id": "s2peds-2394",
+    "category": "Peds vignettes",
+    "q": "4F with a maculopapular rash, fever and suboccipital and/or post-auricular lymphadenopathy. Diagnosis per p161?",
+    "a": "German measles (rubella).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: lymphadenopathy typically involves the postauricular, suboccipital and anterior cervical nodes.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559040/"
+    }
+  },
+  {
+    "id": "s2peds-2395",
+    "category": "Peds vignettes",
+    "q": "4M with bilateral lower face swelling, irritable, stiff neck. Diagnosis per p161?",
+    "a": "Mumps. POM: Parotitis, Orchitis, Meningitis. A rash is not classically associated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: parotitis is the hallmark; complications include orchitis and aseptic meningitis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534785/"
+    }
+  },
+  {
+    "id": "s2peds-2396",
+    "category": "Peds vignettes",
+    "q": "4F with a spiking fever followed by a rash and no other findings. Diagnosis per p161?",
+    "a": "Roseola (HHV-6). All you need to remember is the spiking fever followed by a rash.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: high fever for several days, then rapid defervescence and a pink papular rash on the trunk; caused by HHV-6 or less often HHV-7.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK448190/"
+    }
+  },
+  {
+    "id": "s2peds-2397",
+    "category": "Peds vignettes",
+    "q": "17F with an itchy maculopapular back rash and a pink 2-cm ellipse on the lower back. Next step per p161?",
+    "a": "Reassurance and observation. Diagnosis: pityriasis rosea, caused by HHV-6 and HHV-7; self-limiting, lasting 5 weeks on average.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "StatPearls: acute self-limiting papulosquamous disorder with a herald patch; HHV-6/7 reactivation is a possible (not established) cause. I did not verify the 5 week average.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448091/"
+    }
+  },
+  {
+    "id": "s2peds-2398",
+    "category": "Peds vignettes",
+    "q": "6M with a circular (not target) rash on the forearm and a Bell palsy picture. Which antibiotic per p161?",
+    "a": "Amoxicillin. Diagnosis: Lyme disease (erythema chronicum migrans need not be a target). Do not give doxycycline to kids under 8.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 161,
+      "url": "/mehlman/hy-pediatrics.pdf#page=161"
+    },
+    "guideline": {
+      "text": "Current caution: the 2018 AAP Committee on Infectious Diseases states that doxycycline for 3 weeks or less is safe in children of all ages, so the under-8 restriction is outdated. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11732018/"
+    }
   }
 ];

@@ -822,3 +822,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: rheumatic fever at 2 days after strep (StatPearls: 2 to 4 weeks).
 - Left unverified: to-and-fro and bounding-pulse PDA descriptors, hypercalcemia and verbal skills in Williams, Valsalva direction, late-peaking murmur with click, adenosine step, PSGN 1-2 week interval.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p161 (Bullet points: rheumatic fever end, PANDAS, tic disorder, rash illnesses, Lyme) - 11 cards, ids s2peds-2388 to 2398
+- Inspected page text and layout; no figures. First lines continue the rheumatic fever vignette from p160.
+- Notes verified against StatPearls (Scarlet Fever, Measles/Koplik, Rubella, Mumps, Roseola, Pityriasis Rosea, PANDAS), a provisional tic disorder review and a pediatric Lyme doxycycline paper citing the 2018 AAP statement.
+- Source conflict, source answer kept with caution note: doxycycline avoided under age 8 for Lyme (AAP: up to 3 weeks is safe at any age).
+- Left unverified: type II hypersensitivity detail, ASO titer step, tic disorder figures and 3-month follow-up, pityriasis rosea 5 week average, the 11-month-old scarlet fever vignette.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
