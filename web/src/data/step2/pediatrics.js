@@ -25469,5 +25469,438 @@ export default [
       "text": "StatPearls: dextromethorphan is an OTC antitussive; overdose produces toxicity through NMDA receptor antagonism and other effects.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK538502/"
     }
+  },
+  {
+    "id": "s2peds-1783",
+    "category": "Inhalants: glue",
+    "q": "What presentation does p119 give for glue inhalant abuse?",
+    "a": "Ataxia plus cognitive decline in a teenager. It sounds a bit like alcohol abuse, but the effects of alcohol do not occur this young.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "Review: glues and paint thinners belong to the hydrocarbon inhalants; chronic abuse causes neurologic and neuropsychological damage.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2948777/"
+    }
+  },
+  {
+    "id": "s2peds-1784",
+    "category": "Inhalants: paint",
+    "q": "What presentation does p119 give for paint inhalant abuse?",
+    "a": "Cognitive decline. The question can say a teenager is seen with gold or silver coloration around the nose and mouth.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "Review: paints and paint thinners are among the hydrocarbon inhalants; chronic abuse can cause cortical atrophy and neuropsychological effects.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2948777/"
+    }
+  },
+  {
+    "id": "s2peds-1785",
+    "category": "Inhalants: butane",
+    "q": "What substances does p119 list for butane inhalant abuse, and what effect?",
+    "a": "Classically inhaling computer cleaner (dusters) or whipped cream bottles. Cognitive decline.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "Review: whipped cream aerosols are a nitrous oxide inhalant (a separate class from hydrocarbons); the source groups them under butane.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2948777/"
+    }
+  },
+  {
+    "id": "s2peds-1786",
+    "category": "Inhalants: butane",
+    "q": "What vignette gives butane as the answer on p119?",
+    "a": "A high schooler found on the floor in a school bathroom is brought to the ED sluggish, with pupils and vitals all normal. Answer: butane.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2peds-1787",
+    "category": "Caffeine",
+    "q": "How does p119 describe caffeine's place among drugs of abuse and its mechanism?",
+    "a": "The most common drug addiction in the world. Adenosine accumulates in the brain through the day and causes a sense of fatigue; caffeine blocks adenosine receptors, promoting wakefulness.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: caffeine effects result from inhibition of adenosine activity and phosphodiesterase.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430790/"
+    }
+  },
+  {
+    "id": "s2peds-1788",
+    "category": "Caffeine",
+    "q": "What does caffeine intoxication cause on p119?",
+    "a": "A sense of over-stimulation, panic and palpitations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2peds-1789",
+    "category": "Caffeine",
+    "q": "What does caffeine withdrawal cause on p119?",
+    "a": "Headache, a sense of depression, fatigue, anxiety (worry or doom) and inability to concentrate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls Caffeine Withdrawal: the syndrome overlaps with anxiety, depression and mood symptoms.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430790/"
+    }
+  },
+  {
+    "id": "s2peds-1790",
+    "category": "Smoking/vaping",
+    "q": "What does nicotine do and what does withdrawal cause, per p119?",
+    "a": "Nicotine can promote a sense of euphoria. Withdrawal can cause many symptoms, including anxiety, depression, difficulty concentrating and weight gain from increased appetite.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2peds-1791",
+    "category": "Marijuana",
+    "q": "What exam findings does p119 give for marijuana?",
+    "a": "Injection (redness) of the conjunctivae and dry mouth.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls Cannabis Use Disorder: conjunctival injection and xerostomia on exam; tachycardia, euphoria or anxiety during intoxication.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538131/"
+    }
+  },
+  {
+    "id": "s2peds-1792",
+    "category": "Marijuana",
+    "q": "What long-term risk does p119 give for marijuana?",
+    "a": "Increased risk of developing psychosis and schizophrenia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: cannabis use disorder frequently coexists with psychosis; the association is documented, but this does not by itself prove cannabis causes schizophrenia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538131/"
+    }
+  },
+  {
+    "id": "s2peds-1793",
+    "category": "Cocaine",
+    "q": "What eye and heart findings does p119 give for cocaine?",
+    "a": "Mydriasis and tachycardia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: acute cocaine toxicity causes tachycardia, dysrhythmia, hypertension and coronary vasospasm.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430976/"
+    }
+  },
+  {
+    "id": "s2peds-1794",
+    "category": "Cocaine",
+    "q": "What cardiovascular complications does p119 give for cocaine?",
+    "a": "High BP causing aortic dissection, and chest pain from coronary vasospasm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls confirms coronary vasospasm as a complication.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430976/"
+    }
+  },
+  {
+    "id": "s2peds-1795",
+    "category": "Cocaine",
+    "q": "What pregnancy complication does p119 give for cocaine?",
+    "a": "Abruptio placentae in pregnant teens.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2peds-1796",
+    "category": "Cocaine",
+    "q": "What treatment for acute cocaine intoxication does p119 give?",
+    "a": "Give a benzodiazepine and observe in the emergency department.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: cardiovascular toxicity and agitation are best treated first-line with benzodiazepines.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430976/"
+    }
+  },
+  {
+    "id": "s2peds-1797",
+    "category": "Amphetamine",
+    "q": "What findings does p119 give for amphetamine intoxication?",
+    "a": "Mydriasis, agitation, insomnia (staying up all night), and possibly tactile hallucinations.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: amphetamine toxicity is a sympathomimetic toxidrome with tachycardia, hypertension, mydriasis, hyperthermia and agitation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482368/"
+    }
+  },
+  {
+    "id": "s2peds-1798",
+    "category": "Amphetamine",
+    "q": "What treatment for acute amphetamine intoxication does p119 give?",
+    "a": "Give a benzodiazepine and observe in the emergency department.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: acutely agitated psychotic patients are treated with IV benzodiazepines first-line.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482368/"
+    }
+  },
+  {
+    "id": "s2peds-1799",
+    "category": "PCP",
+    "q": "What findings does p119 give for PCP intoxication?",
+    "a": "Bellicosity or pugnacity (wanting to fight, aggression) and nystagmus with or without mydriasis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: nystagmus in 60-90% of PCP toxicity; mydriasis 6%, miosis 2%.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507865/"
+    }
+  },
+  {
+    "id": "s2peds-1800",
+    "category": "PCP",
+    "q": "What unusual NBME PCP presentation does p119 mention?",
+    "a": "One 2CK NBME question gives mutism and constricted pupils for PCP, with nothing about pugnacity, so this rare presentation is possible.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: miosis occurs in about 2% of PCP toxicity, matching the source's 'rare but possible'.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507865/"
+    }
+  },
+  {
+    "id": "s2peds-1801",
+    "category": "PCP",
+    "q": "What treatment for acute PCP intoxication does p119 give?",
+    "a": "Give a benzodiazepine and observe in the emergency department.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: benzodiazepines are the preferred medication for chemical sedation in PCP intoxication.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507865/"
+    }
+  },
+  {
+    "id": "s2peds-1802",
+    "category": "MDMA (ecstasy)",
+    "q": "What features does p119 give for MDMA?",
+    "a": "Euphoria, heightened sensory perception, low-grade fever and bruxism (teeth grinding).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: desired effects include euphoria and sensory enhancement; nausea, trismus and bruxism are other effects.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538482/"
+    }
+  },
+  {
+    "id": "s2peds-1803",
+    "category": "MDMA (ecstasy)",
+    "q": "What lab finding does p119 mention for MDMA, and the treatment?",
+    "a": "An NBME question gives increased creatine kinase, so this is possible. For acute intoxication give a benzodiazepine and observe in the emergency department.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2peds-1804",
+    "category": "LSD (acid)",
+    "q": "What finding and treatment does p119 give for LSD?",
+    "a": "Visual hallucinations. For acute intoxication give a benzodiazepine and observe in the emergency department.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: LSD toxicity includes auditory and visual hallucinations, panic and psychosis; the quiet-environment-plus-benzodiazepine approach follows SAMHSA guidance.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK553216/"
+    }
+  },
+  {
+    "id": "s2peds-1805",
+    "category": "MPTP",
+    "q": "What is MPTP and what does it cause, per p119?",
+    "a": "Synthetic heroin that causes parkinsonism. It shows up on a 2CK form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "Basic Neurochemistry: MPTP was a contaminant produced during illicit synthesis of a narcotic related to meperidine; users rapidly developed a Parkinson-like movement disorder. It is a contaminant, not heroin itself.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK27974/"
+    }
+  },
+  {
+    "id": "s2peds-1806",
+    "category": "Heroin/opioids",
+    "q": "What examples and exam findings does p119 give for opioids?",
+    "a": "Examples are oxycodone or dextromethorphan. Findings are respiratory depression, constricted pupils and constipation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls Dextromethorphan Toxicity: toxicity operates through NMDA receptor antagonism, not as a classical mu-opioid agonist, so the source's dextromethorphan-as-opioid example is flagged.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538502/"
+    }
+  },
+  {
+    "id": "s2peds-1807",
+    "category": "Heroin/opioids",
+    "q": "What drugs does p119 give for acute opioid toxicity and to reduce relapses?",
+    "a": "Naloxone (opioid receptor antagonist) for acute toxicity. Methadone (opioid receptor agonist) to decrease relapses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2peds-1808",
+    "category": "Benzodiazepines",
+    "q": "What features and antidote does p119 give for benzodiazepine toxicity (example diazepam)?",
+    "a": "Respiratory depression. Flumazenil (a benzodiazepine receptor antagonist) treats acute toxicity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: mainstay of treatment is supportive care; flumazenil is a competitive antagonist usable only in limited situations (safe in non-habituated users, for example accidental pediatric ingestion).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482238/"
+    }
+  },
+  {
+    "id": "s2peds-1809",
+    "category": "Barbiturates",
+    "q": "What does p119 give for barbiturates, and how does the vignette reach the answer?",
+    "a": "Respiratory depression. The question says naloxone and flumazenil had no effect, so you eliminate to get to barbiturates.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: barbiturate toxicity causes confusion, ataxia, coma and depression of the medullary respiratory centers.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499875/"
+    }
+  },
+  {
+    "id": "s2peds-1810",
+    "category": "Acetaminophen",
+    "q": "What organ injury does p119 give for acetaminophen overdose, and what decontamination?",
+    "a": "Fulminant liver failure. Give activated charcoal if ingested within 1-2 hours.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: activated charcoal can be considered in the first 2 hours after an acute ingestion, though outcome data are limited.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441917/"
+    }
+  },
+  {
+    "id": "s2peds-1811",
+    "category": "Acetaminophen",
+    "q": "Why must N-acetylcysteine be given per p119?",
+    "a": "To regenerate reduced glutathione, preventing liver damage from NAPQI, the acetaminophen metabolite.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    },
+    "guideline": {
+      "text": "StatPearls: in toxicity, NAPQI production rises and depletes hepatic glutathione stores.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441917/"
+    }
+  },
+  {
+    "id": "s2peds-1812",
+    "category": "Aspirin",
+    "q": "What findings does p119 give for aspirin toxicity?",
+    "a": "Tinnitus and a mixed metabolic acidosis-respiratory alkalosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2peds-1813",
+    "category": "Aspirin",
+    "q": "How does p119 treat aspirin toxicity, and why?",
+    "a": "Sodium bicarbonate, which increases excretion through urinary alkalinization.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 119,
+      "url": "/mehlman/hy-pediatrics.pdf#page=119"
+    }
   }
 ];
