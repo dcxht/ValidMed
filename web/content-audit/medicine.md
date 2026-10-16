@@ -1137,3 +1137,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p331 (H1 blockers end, dantrolene) - 6 cards, ids s2med-3247 to 3252
 - NMS ryanodine mechanism noted as in earlier audit.
 - Mobile QA (320x740, local vite preview build, not live): all 32 cards ox=false off=false bad=0.
+
+## p332 (SCID, XLA, IgA deficiency, DiGeorge start) - 12 cards, ids s2med-3253 to 3264
+- IgA deficiency false-positive pregnancy test claim unverified. Expletive paraphrased.
+
+## p333 (DiGeorge end, phagocyte and other immunodeficiencies) - 16 cards, ids s2med-3265 to 3280
+- CGD 70% XR figure and tetrazolium blue/NBME claim unverified. "atavistic" paraphrased as outdated.
+- Mobile QA (320x740, local vite preview build, not live): all 28 cards ox=false off=false bad=0.

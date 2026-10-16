@@ -43514,5 +43514,405 @@ export default [
       "text": "Caution: the ryanodine mechanism is established for malignant hyperthermia; for NMS I did not verify it. Source answer stays.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6366389/"
     }
+  },
+  {
+    "id": "s2med-3253",
+    "category": "IM Immuno",
+    "q": "Immunodeficiency question style per p332?",
+    "a": "The source says 2CK is known to ask immunodeficiency mechanism questions at 'Step 1-level detail'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    }
+  },
+  {
+    "id": "s2med-3254",
+    "category": "IM Immuno",
+    "q": "SCID genetics per p332?",
+    "a": "X-linked recessive is most common, usually from a common gamma chain mutation or IL-2 receptor mutation. The autosomal recessive type is less common, due to adenosine deaminase (ADA) deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "A guideline on stem cell transplant for inborn errors of immunity is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8410590/"
+    }
+  },
+  {
+    "id": "s2med-3255",
+    "category": "IM Immuno",
+    "q": "SCID findings per p332?",
+    "a": "Combined T and B cell deficiency. T cell deficiency: absent thymic shadow. B cell deficiency: scanty/absent lymph nodes and tonsils.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "The same guideline is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8410590/"
+    }
+  },
+  {
+    "id": "s2med-3256",
+    "category": "IM Immuno",
+    "q": "SCID vignette per p332?",
+    "a": "A sick child with infections of all types (viral, fungal, bacterial, protozoal) since birth. This contrasts with Bruton XLA, which has just bacterial infections (usually from 6 months of age). Tx = bone marrow transplant.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "The same guideline is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8410590/"
+    }
+  },
+  {
+    "id": "s2med-3257",
+    "category": "IM Immuno",
+    "q": "Bruton XLA mechanism per p332?",
+    "a": "X-linked recessive; mutation in Bruton tyrosine kinase. Isolated B cell deficiency with scanty/absent lymph nodes and tonsils. All immunoglobulin classes are decreased (B cells make Ab).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on X-linked agammaglobulinemia is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1453/"
+    }
+  },
+  {
+    "id": "s2med-3258",
+    "category": "IM Immuno",
+    "q": "Bruton XLA vignette per p332?",
+    "a": "Almost always a boy with only bacterial infections since about 6 months of age (if bacterial plus viral, fungal, and/or protozoal, the diagnosis is SCID). One 2CK form says 'bacterial infections since birth', but the other answers can be eliminated; the source says 14 of 15 questions say from about 5-7 months.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "The same GeneReviews page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1453/"
+    }
+  },
+  {
+    "id": "s2med-3259",
+    "category": "IM Immuno",
+    "q": "Bruton XLA Tx and wording per p332?",
+    "a": "Tx on NBME is 'monthly infusion of immunoglobulin'. The answer is often 'deficiency of humoral immunity' rather than 'Bruton XLA'. The source calls it one of the highest-yield conditions for the Step.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "The same page is linked on an earlier card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1453/"
+    }
+  },
+  {
+    "id": "s2med-3260",
+    "category": "IM Immuno",
+    "q": "IgA deficiency per p332?",
+    "a": "Most common hereditary immunodeficiency. 9 of 10 questions give recurrent sinopulmonary infections in someone between high school age and their 30s; one 2CK question has it in a child; a question might mention a sore cheek (sinusitis) plus a history of pneumonia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "A StatPearls page on transfusion and selective IgA deficiency is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK564340/"
+    }
+  },
+  {
+    "id": "s2med-3261",
+    "category": "IM Immuno",
+    "q": "IgA deficiency details per p332?",
+    "a": "Anaphylaxis with transfusion of blood products is an ultra-high-yield detail but often omitted from real NBME questions as too easy. Atopy (asthma, seasonal allergies, eczema) is high-yield. History of Giardia infection. Associated with other autoimmune diseases (vitiligo, celiac).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "A review of IgA anaphylactic transfusion reactions is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15679454/"
+    }
+  },
+  {
+    "id": "s2med-3262",
+    "category": "IM Immuno",
+    "q": "IgA deficiency testing per p332?",
+    "a": "Celiac antibody screen is falsely negative. The source says it can be associated with false-positive pregnancy tests (odd, apparently due to heterophile antibody production, unrelated to EBV).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    }
+  },
+  {
+    "id": "s2med-3263",
+    "category": "IM Immuno",
+    "q": "IgA deficiency wording per p332?",
+    "a": "The answer is often 'deficiency of mucosal immunoglobulin' or 'deficiency of humoral immunity' rather than 'IgA deficiency'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    }
+  },
+  {
+    "id": "s2med-3264",
+    "category": "IM Immuno",
+    "q": "DiGeorge syndrome mechanism per p332?",
+    "a": "T cell deficiency caused by 22q11 deletion. Failure of development of the 3rd and 4th pharyngeal pouches (not arches). The 3rd becomes thymus + the two inferior parathyroids (a triangle: 3rd); the 4th becomes the two superior parathyroids. Absent thymic shadow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 332,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=332"
+    },
+    "guideline": {
+      "text": "A review of 22q11.2 deletion is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999075/"
+    }
+  },
+  {
+    "id": "s2med-3265",
+    "category": "IM Immuno",
+    "q": "DiGeorge findings per p333 (continued from p332)?",
+    "a": "Hypocalcemia from hypoparathyroidism (positive Chvostek and Trousseau signs). Tetralogy of Fallot (VSD, overriding aorta, pulmonic stenosis, RVH) and truncus arteriosus are high-yield cardiac anomalies. Cleft lip/palate may or may not be mentioned.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "The 22q11.2 review is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999075/"
+    }
+  },
+  {
+    "id": "s2med-3266",
+    "category": "IM Immuno",
+    "q": "DiGeorge antibodies per p333?",
+    "a": "Normal antibody levels (even though T cells activate B cells, choose normal Ab levels).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    }
+  },
+  {
+    "id": "s2med-3267",
+    "category": "IM Immuno",
+    "q": "Chronic mucocutaneous candidiasis per p333?",
+    "a": "T cell dysfunction with recurrent candidal skin infections since birth. Choose 'deficiency of cell-mediated immunity'. Associated with other autoimmune diseases (T1DM, thyroiditis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A paper on CMC in APECED is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2822605/"
+    }
+  },
+  {
+    "id": "s2med-3268",
+    "category": "IM Immuno",
+    "q": "CMC vignette per p333?",
+    "a": "17F with recurrent candidal skin infections since birth, a 1-year history of autoimmune thyroiditis and a 2-year history of T1DM; mechanism for the infections = 'deficiency of cell-mediated immunity'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2822605/"
+    }
+  },
+  {
+    "id": "s2med-3269",
+    "category": "IM Immuno",
+    "q": "NADPH oxidase deficiency per p333?",
+    "a": "Aka chronic granulomatous disease (CGD). Usually X-linked recessive. NADPH oxidase is the first enzyme of the respiratory burst, converting molecular O2 to superoxide.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A paper on diagnosing CGD is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11313294/"
+    }
+  },
+  {
+    "id": "s2med-3270",
+    "category": "IM Immuno",
+    "q": "CGD organisms per p333?",
+    "a": "Recurrent infections with catalase-positive organisms: Serratia, Pseudomonas, Aspergillus, Candida, E. coli, Staph, H. pylori. Patients cannot synthesize enough H2O2 to overwhelm catalase-positive organisms.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11313294/"
+    }
+  },
+  {
+    "id": "s2med-3271",
+    "category": "IM Immuno",
+    "q": "CGD diagnosis per p333?",
+    "a": "Dihydrorhodamine test. The source says the tetrazolium blue assay is outdated and the wrong answer if both are listed, per NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "The same paper is linked on an earlier card. I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11313294/"
+    }
+  },
+  {
+    "id": "s2med-3272",
+    "category": "IM Immuno",
+    "q": "Myeloperoxidase deficiency per p333?",
+    "a": "Autosomal recessive. MPO is the last enzyme in the respiratory burst, converting H2O2 to hydroxyl-halide radicals (bleach). A one-liner saying someone can't produce hydroxyl-halide radicals = MPO deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A StatPearls page on myeloperoxidase deficiency is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470278/"
+    }
+  },
+  {
+    "id": "s2med-3273",
+    "category": "IM Immuno",
+    "q": "MPO deficiency wording per p333?",
+    "a": "If the vignette mentions MPO deficiency, the answer is 'impaired conversion of hydrogen peroxide to hypochlorous acid'. Usually a mix of Staph aureus and Candida infections.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470278/"
+    }
+  },
+  {
+    "id": "s2med-3274",
+    "category": "IM Immuno",
+    "q": "MPO deficiency vs CGD per p333?",
+    "a": "A Free 120 question gives S. aureus and Candida infections in a 6-year-old girl with an AR disorder, and wants MPO deficiency, not CGD. The source says CGD is about 70% XR, and AR CGD is often milder and presents later, so childhood CGD is usually XR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    }
+  },
+  {
+    "id": "s2med-3275",
+    "category": "IM Immuno",
+    "q": "Wiskott-Aldrich per p333?",
+    "a": "X-linked recessive (WAS gene). T cell cytoskeletal dysfunction. Triad of immunodeficiency, eczematoid skin lesions, and thrombocytopenia. High serum IgA/IgE; low IgM.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Wiskott-Aldrich syndrome is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539838/"
+    }
+  },
+  {
+    "id": "s2med-3276",
+    "category": "IM Immuno",
+    "q": "Wiskott-Aldrich vignette per p333?",
+    "a": "12M with Pneumocystis infection, a history of nosebleeds and eczema; asked what cell is dysfunctional: T cell. The answer can be 'deficiency of cell-mediated immunity'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539838/"
+    }
+  },
+  {
+    "id": "s2med-3277",
+    "category": "IM Immuno",
+    "q": "Leukocyte adhesion deficiency per p333?",
+    "a": "Deficiency of CD18/LFA-1 integrin. Leukocytes cannot leave blood vessels for sites of infection, so less pus. Classically delayed separation of the umbilical cord. The answer can be 'defective leukocyte chemotaxis'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A page on leukocyte adhesion deficiency is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK539770/"
+    }
+  },
+  {
+    "id": "s2med-3278",
+    "category": "IM Immuno",
+    "q": "Chediak-Higashi per p333?",
+    "a": "Phagolysosomal fusion disorder with disrupted microtubule function. Melanosome function is also impaired, giving partial albinism / fairer skin than siblings. Giant granules in phagocytes (neutrophils and eosinophils).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on Chediak-Higashi syndrome is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK5188/"
+    }
+  },
+  {
+    "id": "s2med-3279",
+    "category": "IM Immuno",
+    "q": "Ataxia-telangiectasia per p333?",
+    "a": "Failure of double-stranded DNA break repair. Cerebellar atrophy causing ataxia; telangiectasias. Increased susceptibility to radiation, so higher risk of leukemia and lymphoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A paper on ATM's role in DNA double-strand break repair is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8466060/"
+    }
+  },
+  {
+    "id": "s2med-3280",
+    "category": "IM Immuno",
+    "q": "Hyper-IgM syndrome per p333?",
+    "a": "Deficiency of CD40L on CD4+ T cells.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 333,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=333"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on CD40 ligand deficiency is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1402/"
+    }
   }
 ];
