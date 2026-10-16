@@ -1067,3 +1067,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: PCV13 (now PCV15/PCV20; adults 50+ with PCV20/21), Tdap vs DTaP, MMRV vs MMR, HPV range.
 - Left unverified: rotavirus dose counts, polio/Hib dose ages, age-16 meningococcal booster wording, LAIV age 49 limit, fall/winter flu timing.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p196 (Bullet points: neonatal infections, SSSS, tetanus, vitamin K, varicella, TORCH) - 11 cards, ids s2peds-2735 to 2745
+- Inspected page text; no figures.
+- Notes verified against StatPearls (SSSS, Tetanus, Hemorrhagic Disease of Newborn, Listeriosis, Congenital Varicella Syndrome), PMC reviews (varicella, pediatric zoster, congenital toxoplasmosis) and the CDC pneumococcal page. The NICE guideline text and the pediatric zoster paper text could not be read; titles only.
+- Source answers kept with caution notes: PCV13 high-risk sequence; GBS CSF 'normal' claim; classic toxoplasmosis triad is rare.
+- Left unverified: SSSS 5% figure, tetanus antitoxin wording, vitamin K lab pattern, deli food sources, GBS regimen, zoster in leukemia.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.

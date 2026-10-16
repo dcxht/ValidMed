@@ -39149,5 +39149,170 @@ export default [
       "text": "Current caution: this reflects 2025 CDC wording and the source predates it. CDC now recommends pneumococcal vaccination for adults 50 years or older, with PCV20 or PCV21 among the options; the PCV13 then PPSV23 sequence is outdated.",
       "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
     }
+  },
+  {
+    "id": "s2peds-2735",
+    "category": "Peds vignettes",
+    "q": "Pneumococcal vaccine for patients with asplenia, sickle cell and cochlear implants per p196 (continues p195)?",
+    "a": "Give PPSV23 6-12 months after the last dose of PCV13.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "Current caution: CDC now recommends PCV15 or PCV20 for children, and the PCV13 then PPSV23 sequence is outdated. I did not verify the high-risk interval wording on the page I read. Source answer kept.",
+      "url": "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
+    }
+  },
+  {
+    "id": "s2peds-2736",
+    "category": "Peds vignettes",
+    "q": "Neonate with diffuse pink body rash and desquamation of palms and soles. Mechanism and diagnosis per p196?",
+    "a": "Exotoxin; staphylococcal scalded skin syndrome due to exfoliative toxin (produced by about 5% of community staph).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "StatPearls: SSSS is caused by exotoxin-producing staphylococcal strains, with desquamation caused by toxin acting from a distant site. I did not verify the 5% figure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448135/"
+    }
+  },
+  {
+    "id": "s2peds-2737",
+    "category": "Peds vignettes",
+    "q": "Neonate born at home, umbilical cord cut with a kitchen knife and tied with twine, with trismus. Diagnosis and treatment per p196?",
+    "a": "Tetanus; Tx = antitoxin. Trismus is lockjaw (do not confuse with tenesmus, the intractable feeling of needing to defecate). C. tetani classically enters through the umbilical stump.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "StatPearls: neonatal tetanus frequently follows home deliveries with unsanitary cutting of the umbilical cord or contaminated stump dressings. I did not verify the antitoxin wording (human tetanus immune globulin).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482484/"
+    }
+  },
+  {
+    "id": "s2peds-2738",
+    "category": "Peds vignettes",
+    "q": "Neonate born at home with bleeding from the umbilical stump. Diagnosis and BT, PT, aPTT per p196?",
+    "a": "Vitamin K deficiency; bleeding time normal, PT and aPTT both elevated; due to a sterile bowel and no injection at birth.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "StatPearls: neonates have reduced vitamin K stores from insufficient placental transfer and a sterile gut; early VKDB incidence without prophylaxis is about 6% to 12%. I did not verify the lab pattern in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558994/"
+    }
+  },
+  {
+    "id": "s2peds-2739",
+    "category": "Peds vignettes",
+    "q": "6M with crops of vesicles on the trunk at different stages of healing. Diagnosis per p196?",
+    "a": "Varicella (VZV); presumably not previously vaccinated. Know this description.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "PMC review of varicella manifestations; I did not verify the lesion-stage wording in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10205892/"
+    }
+  },
+  {
+    "id": "s2peds-2740",
+    "category": "Peds vignettes",
+    "q": "Neonate dies in utero and the mother owns a deli. Diagnosis per p196?",
+    "a": "Granulomatosis infantiseptica (severest form of listeriosis); deli meats and soft cheeses are sources during pregnancy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "StatPearls: granulomatosis infantiseptica is a pathognomonic but rare finding of neonatal listeriosis, with widespread microabscesses and granulomas. I did not verify the food sources in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534838/"
+    }
+  },
+  {
+    "id": "s2peds-2741",
+    "category": "Peds vignettes",
+    "q": "Term neonate with fever, high WBCs (65% neutrophils) and CSF showing trace cells (90% lymphocytes). Diagnosis per p196?",
+    "a": "Group B Strep (Strep agalactiae) sepsis; students get confused over the CSF findings, but this is apparently a normal finding; 65% neutrophils is a slight left shift for bacterial infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "I did not verify the NBME CSF interpretation. I would not treat that CSF as normal in a febrile neonate without a clinician's review. Source answer kept for the diagnosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK571222/"
+    }
+  },
+  {
+    "id": "s2peds-2742",
+    "category": "Peds vignettes",
+    "q": "Treatment of neonatal GBS sepsis per p196?",
+    "a": "Ampicillin plus gentamicin; the wrong answer is ceftriaxone plus vancomycin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "I could not read the text of the NICE neonatal infection guideline I found, so I did not verify the regimen. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK571222/"
+    }
+  },
+  {
+    "id": "s2peds-2743",
+    "category": "Peds vignettes",
+    "q": "6M with ALL on chemotherapy and vesicles beneath the scapula. Diagnosis per p196?",
+    "a": "Herpes zoster (immunosuppressed); pediatric shingles exists.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "PMC review of pediatric herpes zoster; I did not verify the leukemia-specific risk wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949924/"
+    }
+  },
+  {
+    "id": "s2peds-2744",
+    "category": "Peds vignettes",
+    "q": "Neonate with microphthalmia, limb deformities and zig-zag skin lesions. Diagnosis per p196?",
+    "a": "Congenital varicella syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "StatPearls: congenital varicella syndrome defects involve the skin, limbs, eyes, and central and autonomic nervous systems.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK568794/"
+    }
+  },
+  {
+    "id": "s2peds-2745",
+    "category": "Peds vignettes",
+    "q": "Neonate with intracranial or periventricular calcifications, hydrocephalus and chorioretinitis. Diagnosis per p196?",
+    "a": "Congenital toxoplasmosis; know this triad.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 196,
+      "url": "/mehlman/hy-pediatrics.pdf#page=196"
+    },
+    "guideline": {
+      "text": "PMC review: the classic triad of hydrocephalus, intracranial calcifications and chorioretinitis is observed very rarely nowadays. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9301253/"
+    }
   }
 ];
