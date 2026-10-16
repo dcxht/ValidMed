@@ -36644,5 +36644,140 @@ export default [
       "text": "StatPearls Arthrocentesis page. I did not verify the kickboxing-trauma context.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK557805/"
     }
+  },
+  {
+    "id": "s2peds-2568",
+    "category": "Peds vignettes",
+    "q": "15F with severe sternoclavicular joint pain, fever, thick yellow aspirate and gram-negative diplococci on Gram stain. Next best step per p180?",
+    "a": "Culture of the aspirate (to determine sensitivities, even though the organism seems known). Empirically she would receive IM ceftriaxone and oral azithromycin or doxycycline; if septic, IV therapy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "Current caution: the CDC 2020 gonorrhea update recommends a single 500 mg IM ceftriaxone dose for uncomplicated infection and dropped routine azithromycin dual therapy; doxycycline is added if chlamydia is not excluded. Disseminated infection needs IV therapy. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7745960/"
+    }
+  },
+  {
+    "id": "s2peds-2569",
+    "category": "Peds vignettes",
+    "q": "3M with fever, tibial bone pain, and a Tc99 bone scan with uptake in the diaphysis. Diagnosis per p180?",
+    "a": "Ewing sarcoma: presents like osteomyelitis with bone pain and fever; t(11;22); onion-skinning on histology; blue cells.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "Review: t(11;22)(q24;q12) occurs in more than 95% of Ewing tumors, and the onion-skin lamellar lesion on plain film is highly suggestive. I did not verify diaphysis uptake or 'blue cells' in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK12731/"
+    }
+  },
+  {
+    "id": "s2peds-2570",
+    "category": "Peds vignettes",
+    "q": "16M after a soccer tournament yesterday with fever, high WBC, bone pain, and Tc99 uptake in the metaphysis. Diagnosis per p180?",
+    "a": "Osteomyelitis; uptake in the metaphysis, not the diaphysis (Ewing).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "Review of pediatric acute hematogenous osteomyelitis (2020). I did not verify the metaphysis predilection in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7751737/"
+    }
+  },
+  {
+    "id": "s2peds-2571",
+    "category": "Peds vignettes",
+    "q": "1M with a white eye reflex. What is the child at increased risk for later in life per p180?",
+    "a": "Osteosarcoma (HY): children with hereditary retinoblastoma are prone to osteosarcoma, generally at age 15-25. A 15-year-old with childhood enucleation and a bone mass has osteosarcoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "StatPearls: germline RB1 mutation raises the risk of secondary malignancies including osteosarcoma. I did not verify the 15-25 age range.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545276/"
+    }
+  },
+  {
+    "id": "s2peds-2572",
+    "category": "Peds vignettes",
+    "q": "14M kneeling for hours under a kitchen sink with knee pain, no effusion and no fever. Diagnosis per p180?",
+    "a": "Prepatellar bursitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "StatPearls: the prepatellar bursa is frequently injured by repetitive kneeling (housemaid's, carpenter's knee).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557508/"
+    }
+  },
+  {
+    "id": "s2peds-2573",
+    "category": "Peds vignettes",
+    "q": "4M with increased bilirubin after a viral infection or drug, and degmacytes (bite cells) on smear. Mechanism and diagnosis per p180?",
+    "a": "Decreased NADPH production; G6PD deficiency (X-linked recessive). Bite cells are degmacytes; Heinz bodies (denatured, oxidized Hb) are also seen in RBCs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "StatPearls: G6PD generates NADPH, which supports reduced glutathione protecting red cells from oxidant injury. I did not verify bite cells and Heinz bodies in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470315/"
+    }
+  },
+  {
+    "id": "s2peds-2574",
+    "category": "Peds vignettes",
+    "q": "4M with hemolytic anemia from an enzyme deficiency, with G6PD not listed. Diagnosis per p180?",
+    "a": "Pyruvate kinase deficiency (second most common enzyme-deficiency hemolytic anemia, after G6PD).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "StatPearls calls PKD the most common enzyme-related glycolytic defect causing hemolysis; G6PD is a pentose phosphate pathway defect, so the ranking is a framing difference. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560581/"
+    }
+  },
+  {
+    "id": "s2peds-2575",
+    "category": "Peds vignettes",
+    "q": "7M after a viral infection or drug, with spherocytes on smear and a positive Coombs test. Diagnosis per p180?",
+    "a": "Hemolytic anemia caused by the drug or infection (autoimmune); if Coombs were negative, the answer would be hereditary spherocytosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "StatPearls: hereditary spherocytosis is a Coombs-negative diagnosis based on smear, reticulocytes and osmotic fragility. I did not verify the Coombs-positive branch in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539797/"
+    }
+  },
+  {
+    "id": "s2peds-2576",
+    "category": "Peds vignettes",
+    "q": "3M with pathologic jaundice treated with 5 days of phototherapy, a father who had a splenectomy, negative Coombs, and reticulocytes 10%. What would the smear show per p180?",
+    "a": "Normocytic and normochromic; diagnosis is hereditary spherocytosis, autosomal dominant; treat ongoing hemolysis with splenectomy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 180,
+      "url": "/mehlman/hy-pediatrics.pdf#page=180"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says hereditary spherocytosis shows spherocytes, a drop in MCV and an increase in MCHC, not simply normochromic indices; most patients benefit from splenectomy, which is indicated mainly to improve quality of life. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539797/"
+    }
   }
 ];

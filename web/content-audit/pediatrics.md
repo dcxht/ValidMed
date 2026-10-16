@@ -955,3 +955,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: JRA naming (JIA); JRA treatment NSAIDs plus steroids (modern: DMARDs/biologics); annual slit-lamp (depends on risk); microcytic AoCD.
 - Left unverified: 70-80% spastic, mechanic's hands/shawl rash/antibodies, avulsion microfractures, infection flare trigger, ibuprofen for transient synovitis, hip-vs-knee arthrocentesis rule.
 - Mobile QA (320x740, local vite preview build, not live): all 13 cards ox=false off=false bad=0.
+
+## p180 (Bullet points: gonococcal arthritis, Ewing vs osteomyelitis, retinoblastoma, hemolytic anemias) - 9 cards, ids s2peds-2568 to 2576
+- Inspected page text and layout; no figures. Page text contained a mild expletive in a student quote; it was left out of card text.
+- Notes verified against the CDC 2020 gonorrhea update, NCBI Ewing sarcoma chapter, a pediatric osteomyelitis review, StatPearls (Retinoblastoma, Prepatellar Bursitis, G6PD, Pyruvate Kinase Deficiency, Hereditary Spherocytosis).
+- Source answers kept with caution notes: azithromycin dual therapy for gonorrhea (CDC dropped it); hereditary spherocytosis smear "normochromic" (MCHC increased).
+- Left unverified: diaphysis vs metaphysis uptake, 15-25 retinoblastoma osteosarcoma age, bite cells/Heinz bodies, PK ranking framing, Coombs-positive branch.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
