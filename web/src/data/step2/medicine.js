@@ -35560,5 +35560,404 @@ export default [
       "text": "The same paper is linked on the previous card; I did not verify the feature list.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8885297/"
     }
+  },
+  {
+    "id": "s2med-2691",
+    "category": "IM Neuro",
+    "q": "Phenylketonuria: cause per p272?",
+    "a": "Autosomal recessive; deficiency of phenylalanine hydroxylase (or rarely THB, the enzyme's cofactor), causing inability to convert phenylalanine to tyrosine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A recommendations paper on hyperphenylalaninemia is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6162894/"
+    }
+  },
+  {
+    "id": "s2med-2692",
+    "category": "IM Neuro",
+    "q": "Phenylketonuria: screening and treatment per p272?",
+    "a": "Screened on the heel-prick test at birth, since failure to detect PKU results in intellectual disability. A phenylalanine-deficient diet must be given.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6162894/"
+    }
+  },
+  {
+    "id": "s2med-2693",
+    "category": "IM Neuro",
+    "q": "Phenylketonuria: presentation per p272?",
+    "a": "A child with 'mousy' or 'musty' body odor and lighter skin than siblings (can cause partial albinism, since tyrosine is normally converted to melanin and cannot be synthesized).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2med-2694",
+    "category": "IM Neuro",
+    "q": "Maple syrup urine disease per p272?",
+    "a": "Autosomal recessive; deficiency of branched-chain ketoacid dehydrogenase. Inability to break down leucine, isoleucine, and valine. Maple syrup scent in the diapers from the urine. Neurologic abnormalities and intellectual disability if untreated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A StatPearls page on MSUD is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557773/"
+    }
+  },
+  {
+    "id": "s2med-2695",
+    "category": "IM Neuro",
+    "q": "Cretinism per p272?",
+    "a": "Aka congenital hypothyroidism. Most common causes are maternal iodine deficiency during pregnancy (worldwide) and fetal thyroid dysgenesis (western countries).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "Newborn screening guidelines for congenital hypothyroidism are linked; I did not verify the cause ranking.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9887297/"
+    }
+  },
+  {
+    "id": "s2med-2696",
+    "category": "IM Neuro",
+    "q": "Cretinism: features per p272?",
+    "a": "Intellectual disability (poor myelin sheath development), impaired bone growth, hypotonia, macroglossia, and a protuberant abdomen (due to umbilical hernia; can be confused with kwashiorkor, which is protein-calorie malnutrition causing ascites). Screened for at birth using the heel-prick test to prevent exacerbation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "The same guideline is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9887297/"
+    }
+  },
+  {
+    "id": "s2med-2697",
+    "category": "IM Neuro",
+    "q": "Waardenburg syndrome per p272?",
+    "a": "Congenital sensorineural hearing loss plus pigmentary changes of hair and skin. Shows up on NBME as a young child with a 'white forelock'. Answer = failure of neural crest migration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on Waardenburg syndrome type I is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK1531/"
+    }
+  },
+  {
+    "id": "s2med-2698",
+    "category": "IM Neuro",
+    "q": "Double cortex syndrome per p272?",
+    "a": "The source calls it an obscure condition asked on USMLE that students worry about. Neurons cannot migrate outward to reach their destination in the cortex, resulting in two grey matter layers instead of one. Mechanism USMLE wants: 'failure of radial migration'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on DCX-related disorders is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1185/"
+    }
+  },
+  {
+    "id": "s2med-2699",
+    "category": "IM Neuro",
+    "q": "Rett syndrome per p272?",
+    "a": "Neurologic degeneration that occurs exclusively in female infants. 'Hand-wringing' or 'hand-flapping' is a buzzy finding. Mental regression can present as putting objects in the mouth (something babies normally do).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A paper on stereotypical hand movements in Rett syndrome is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19908321/"
+    }
+  },
+  {
+    "id": "s2med-2700",
+    "category": "IM Neuro",
+    "q": "Cri-du-chat per p272?",
+    "a": "Deletion on the short arm of chromosome 5. Distinctive cat-like cry in infancy, the source of the name (French for 'cry of the cat'). Intellectual disability, distinctive facial features, and microcephaly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A paper on 5p deletions is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4736720/"
+    }
+  },
+  {
+    "id": "s2med-2701",
+    "category": "IM Neuro",
+    "q": "Friedreich ataxia per p272 (repeat of p261)?",
+    "a": "Autosomal recessive GAA trinucleotide repeat disorder. Causes ataxia, kyphoscoliosis, cardiomyopathy, pes cavus (high-arched feet), hammer toes, and early-onset type II diabetes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2med-2702",
+    "category": "IM Neuro",
+    "q": "Angelman syndrome: presentation and imprinting per p272?",
+    "a": "'Happy puppet': a child who presents with laughter. Paternal imprinting: the gene from dad is normally silenced; mom's gene is supposed to be expressed but is deleted or mutated. Mnemonic: 'Mom is not an angel' because mom's gene is deleted.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on Angelman syndrome is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1144/"
+    }
+  },
+  {
+    "id": "s2med-2703",
+    "category": "IM Neuro",
+    "q": "Angelman syndrome: healthy paternal gene and UPD per p272?",
+    "a": "Even if dad's gene is healthy, it is normally silenced and will not be expressed. Can also be caused by paternal uniparental disomy: both alleles from dad are silenced and there is no maternal allele to express.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1144/"
+    }
+  },
+  {
+    "id": "s2med-2704",
+    "category": "IM Neuro",
+    "q": "Prader-Willi syndrome: presentation and imprinting per p272?",
+    "a": "Intellectual disability plus hyperphagia. Maternal imprinting: the gene from mom is normally silenced; dad's gene is supposed to be expressed but is deleted or mutated. Mnemonic: 'Willi hates his dad' because dad's gene is deleted.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    },
+    "guideline": {
+      "text": "A paper on hyperphagia in Prader-Willi syndrome is linked (title only); I did not verify the mnemonic or imprinting wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9976092/"
+    }
+  },
+  {
+    "id": "s2med-2705",
+    "category": "IM Neuro",
+    "q": "Prader-Willi syndrome: healthy maternal gene and UPD per p272?",
+    "a": "Even if mom's gene is healthy, it is normally silenced and will not be expressed. Can also be caused by maternal uniparental disomy: both alleles from mom are silenced and there is no paternal allele to express.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 272,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2med-2706",
+    "category": "IM Neuro",
+    "q": "Rinne test per p273?",
+    "a": "A vibrating tuning fork is placed on the mastoid bone (bone conduction, BC); once the patient can no longer hear it, it is moved in front of the ear canal (air conduction, AC). Normal hearing and sensorineural hearing loss: AC > BC. Conductive hearing loss: BC > AC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the Weber test is linked; I did not verify the Rinne wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526135/"
+    }
+  },
+  {
+    "id": "s2med-2707",
+    "category": "IM Neuro",
+    "q": "Weber test per p273?",
+    "a": "A vibrating tuning fork is placed on the center of the forehead or top of the head, and the patient says whether the sound is equal in both ears or louder in one. Louder in one ear is called 'lateralization' to that ear.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526135/"
+    }
+  },
+  {
+    "id": "s2med-2708",
+    "category": "IM Neuro",
+    "q": "Rinne and Weber: normal hearing per p273?",
+    "a": "Rinne shows air > bone conduction; Weber does not lateralize.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2med-2709",
+    "category": "IM Neuro",
+    "q": "Rinne and Weber: conductive loss per p273?",
+    "a": "Conductive on left: Rinne bone > air; Weber lateralizes (louder) to the left. Conductive on right: Rinne bone > air; Weber lateralizes to the right.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2med-2710",
+    "category": "IM Neuro",
+    "q": "Rinne and Weber: sensorineural loss per p273?",
+    "a": "Sensorineural on left: Rinne air > bone; Weber lateralizes to the right. Sensorineural on right: Rinne air > bone; Weber lateralizes to the left.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2med-2711",
+    "category": "IM Neuro",
+    "q": "Cholinergic signs per p273?",
+    "a": "DUMBBELSS: Diarrhea, Urination, Miosis, Bradycardia, Bronchoconstriction, neuromuscular Excitation, Lacrimation, Salivation, Sweating.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2med-2712",
+    "category": "IM Neuro",
+    "q": "Anticholinergic signs per p273?",
+    "a": "Opposite of DUMBBELSS: constipation, urinary retention, mydriasis, tachycardia, bronchodilation (the source notes in reality beta-2 agonism, not muscarinic antagonism, bronchodilates), skeletal muscle relaxation, dry eye, dry mouth, anhidrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2med-2713",
+    "category": "IM Neuro",
+    "q": "Drugs with strong anticholinergic effects per p273?",
+    "a": "TCAs (for example amitriptyline), antipsychotics, and first-generation H1 blockers (diphenhydramine, chlorpheniramine) have strong anticholinergic side effects and can cause 'anti-DUMBBELSS' in any patient. Anticholinergic effects promote delirium and confusion, especially in the elderly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "A systematic review on reducing anticholinergic burden in older adults is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10517713/"
+    }
+  },
+  {
+    "id": "s2med-2714",
+    "category": "IM Neuro",
+    "q": "Anticholinergic vignettes per p273?",
+    "a": "An older man with high creatinine on amitriptyline: post-renal azotemia from BPH plus the anticholinergic TCA; take him off anticholinergic meds. A psych question with confusion/delirium on diphenhydramine: 'discontinue anticholinergic medications'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10517713/"
+    }
+  },
+  {
+    "id": "s2med-2715",
+    "category": "IM Neuro",
+    "q": "How cholinergic agents work per p273?",
+    "a": "Cholinergic agents either 1) directly agonize cholinergic receptors, or 2) increase ACh at the synapse by inhibiting acetylcholinesterase. Almost all anticholinergic agents block cholinergic receptors directly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2med-2716",
+    "category": "IM Neuro",
+    "q": "Bethanechol per p273?",
+    "a": "Muscarinic agonist that stimulates the detrusor muscle. Used for overflow incontinence in diabetic patients with a neurogenic (hypocontractile) bladder.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "A paper on bethanechol in neurogenic bladder is linked (title only); I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/982732/"
+    }
+  },
+  {
+    "id": "s2med-2717",
+    "category": "IM Neuro",
+    "q": "Carbachol per p273?",
+    "a": "Muscarinic agonist that constricts the pupil and lowers intraocular pressure. Used for glaucoma. The source covers more in its HY Ophthalmology PDF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "A review of glaucoma pharmacology is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7794042/"
+    }
+  },
+  {
+    "id": "s2med-2718",
+    "category": "IM Neuro",
+    "q": "Pilocarpine per p273?",
+    "a": "Muscarinic agonist that constricts the pupil and lowers intraocular pressure. A powerful agent used for closed-angle glaucoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "The glaucoma pharmacology review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7794042/"
+    }
+  },
+  {
+    "id": "s2med-2719",
+    "category": "IM Neuro",
+    "q": "Methacholine per p273?",
+    "a": "Causes bronchoconstriction. Used to help diagnose asthma: given to a patient (not during acute attacks), spirometry will worsen and asthma symptoms may be replicated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 273,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=273"
+    },
+    "guideline": {
+      "text": "A paper on the methacholine challenge is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40769591/"
+    }
   }
 ];

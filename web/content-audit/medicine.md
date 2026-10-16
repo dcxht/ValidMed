@@ -950,3 +950,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p271 (seizure mimics, peds neuro) - 12 cards, ids s2med-2679 to 2690
 - Adams-Stokes pediatric framing, FAS "most common cause"/neural crest claims unverified; outdated term paraphrased.
 - Mobile QA (320x740, local vite preview build, not live): all 27 cards ox=false off=false bad=0.
+
+## p272 (metabolic/genetic peds neuro, imprinting) - 15 cards, ids s2med-2691 to 2705
+- Friedreich ataxia repeated from p261. Rett "exclusively female" and double cortex "obscure" per source. Outdated term paraphrased.
+## p273 (Rinne/Weber, cholinergic review) - 14 cards, ids s2med-2706 to 2719
+- Pharmacology wording from source; links by title only.
+- Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
