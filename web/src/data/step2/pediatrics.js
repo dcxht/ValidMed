@@ -35894,5 +35894,125 @@ export default [
       "text": "StatPearls: rotavirus is the leading cause of severe gastroenteritis in children under 5; watery diarrhea from impaired water reabsorption.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK558951/"
     }
+  },
+  {
+    "id": "s2peds-2518",
+    "category": "Peds vignettes",
+    "q": "Child under 5 with watery diarrhea, and a 12-year-old brother and parents with similar symptoms. Diagnosis per p175?",
+    "a": "Norwalk virus (norovirus), not rotavirus, because the rest of the family would not get rotavirus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "PubMed: norovirus spreads in household clusters (secondary household transmission). I did not verify the claim that adults do not get rotavirus.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5906790/"
+    }
+  },
+  {
+    "id": "s2peds-2519",
+    "category": "Peds vignettes",
+    "q": "4M with watery diarrhea 2 weeks ago, now heavier diarrhea with bloating and flatulence at meals. Diagnosis per p175?",
+    "a": "Secondary lactose intolerance caused by sloughing of the brush border after gastroenteritis (rotavirus).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "I did not verify the brush-border mechanism in the sources I read; StatPearls covers lactose intolerance diagnosis and fermentation of unabsorbed lactose.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532285/"
+    }
+  },
+  {
+    "id": "s2peds-2520",
+    "category": "Peds vignettes",
+    "q": "8M with bloating and flatulence after dairy products. Next best step in diagnosis per p175?",
+    "a": "Hydrogen breath test, or testing for decreased stool pH; diagnosis is lactose intolerance.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "StatPearls: the hydrogen breath test measures breath hydrogen after lactose; the stool acidity test detects low stool pH from fermented lactose.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532285/"
+    }
+  },
+  {
+    "id": "s2peds-2521",
+    "category": "Peds vignettes",
+    "q": "2F with iron deficiency anemia, bloating, diarrhea, and now eating table food. Diagnosis and workup per p175?",
+    "a": "Celiac disease (can cause iron deficiency anemia); diagnose with antibody screen: anti-endomysial, anti-gliadin, or anti-tissue transglutaminase IgA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "ESPGHAN 2020 guideline uses tTG-IgA as the screening antibody. I did not verify anti-gliadin as a current test; it is no longer a preferred marker.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31568151/"
+    }
+  },
+  {
+    "id": "s2peds-2522",
+    "category": "Peds vignettes",
+    "q": "5F with a positive celiac antibody screen. Next best step per p175 (duodenal biopsy vs no further studies)?",
+    "a": "Duodenal biopsy (flattened villi); it sounds wrong, but it is what the NBME wants.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "Current caution: ESPGHAN 2020 allows a no-biopsy diagnosis in children when tTG-IgA is at least 10 times the upper limit of normal, the family agrees, and EMA-IgA is positive on a second sample. For a mere positive screen, biopsy remains the standard. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31568151/"
+    }
+  },
+  {
+    "id": "s2peds-2523",
+    "category": "Peds vignettes",
+    "q": "Best way to decrease the chance of developing a food protein allergy per p175, and how common is cow milk protein allergy?",
+    "a": "Per the source, exclusively breastfeed for the first 6 months. Milk protein allergy affects 2-3% of infants and young children and usually self-resolves, but 0.4% of adults retain it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "Current caution: I did not verify that exclusive breastfeeding for 6 months prevents food allergy; modern consensus guidance addresses allergy prevention through nutrition and early introduction of allergenic foods. See the consensus guidance. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33250376/"
+    }
+  },
+  {
+    "id": "s2peds-2524",
+    "category": "Peds vignettes",
+    "q": "How common is soy cross-reactivity in cow milk protein allergy, and how is it diagnosed per p175?",
+    "a": "10-15% of infants with cow milk protein allergy cross-react to soy protein. Diagnosis can be made with skin prick and patch tests.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says as many as 50% of children with cow milk protein intolerance also develop soy intolerance if fed soy formula, and lists skin prick testing and serum-specific IgE as primary tests. The source's 10-15% differs. Source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK542243/"
+    }
+  },
+  {
+    "id": "s2peds-2525",
+    "category": "Peds vignettes",
+    "q": "Treatment for an infant with milk or soy protein allergy on USMLE per p175?",
+    "a": "Switch to hydrolyzed formula (proteins processed into fragments); the FDA labels hydrolyzed formulas as hypoallergenic. The page then starts listing types of milk protein allergy, beginning with FPIES (continues on p176).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 175,
+      "url": "/mehlman/hy-pediatrics.pdf#page=175"
+    },
+    "guideline": {
+      "text": "StatPearls: hypoallergenic formulas are enzymatically hydrolyzed; recommendations favor extensively hydrolyzed formulas over partially hydrolyzed. I did not verify the FDA labeling statement.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK542243/"
+    }
   }
 ];

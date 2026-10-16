@@ -920,3 +920,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: febrile seizure "treat with benzodiazepine" (StatPearls: not recommended as prevention). Added a valproate teratogenicity caution on JME.
 - Left unverified: lupus cytopenia mechanism and steroid line, 2-fold epilepsy risk, 1-5% Down syndrome figure, two-of-three definition, ACTH mechanisms, LGS 5% and 80-90% figures.
 - Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
+
+## p175 (Bullet points: norovirus, lactose intolerance, celiac, milk protein allergy) - 8 cards, ids s2peds-2518 to 2525
+- Inspected page text and layout; no figures. The page ends at the FPIES bullet, which continues on p176.
+- Notes verified against StatPearls (Lactose Intolerance, Cow Milk Allergy), the ESPGHAN 2020 celiac guideline abstract, a norovirus household transmission paper, and a food allergy prevention consensus (title only).
+- Source conflicts, source answer kept with caution note: celiac "positive screen needs biopsy" (ESPGHAN 2020 allows no-biopsy at tTG-IgA 10x ULN); soy cross-reactivity 10-15% (StatPearls: up to 50%).
+- Left unverified: rotavirus not affecting adults, brush border mechanism, anti-gliadin, exclusive breastfeeding for 6 months as prevention (modern consensus differs, not confirmed in text I read), FDA hypoallergenic labeling.
+- Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
