@@ -559,3 +559,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls CN III, CN IV, CN VI, Orbital Cellulitis and a PMC hordeolum review (fetched text checked for: ptosis/ophthalmoplegia, head tilt to opposite side, lateral rectus weakness, postseptal definition, IV therapy, chemosis, warm compresses).
 - Left un-noted (not verified): Staph aureus as most common orbital cellulitis cause, sinus origin, "medical emergency" wording, hordeolum sweat gland/oil duct, any age.
 - Mobile QA (320x740, live, local headless Chrome): all 11 cards ox=false off=false bad=0; both figure cards render and answers fit.
+
+## p122 (Peds Ophthal cont.) - 9 cards, ids s2peds-1849 to 1857
+- Inspected page pixels. Three source photos added as figure cards: hordeolum photo continuing from p121, chalazion, retinoblastoma leukocoria.
+- Notes verified against StatPearls Chalazion, Retinoblastoma, Strabismus (painless/sterile lipogranuloma, warm compress regimen, leukocoria hallmark, RB1 13q14, osteosarcoma risk in hereditary disease). 
+- Strabismus: source calls it "lazy eye"; StatPearls defines it as misaligned eyes, amblyopia is separate. Source answer kept, clarifying note added.
+- Left un-noted: hordeolum photo description (visual only), the chalazion vs hordeolum comparison card (synthesis of p121-122).
+- Mobile QA: PENDING

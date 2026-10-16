@@ -26399,5 +26399,138 @@ export default [
       "page": 121,
       "url": "/mehlman/hy-pediatrics.pdf#page=121"
     }
+  },
+  {
+    "id": "s2peds-1849",
+    "category": "Hordeolum (stye)",
+    "q": "What does the p122 photo at the top of the page (continuing the hordeolum entry) show?",
+    "a": "A hordeolum (stye): a painful red bump at the eyelid margin of a child's eye.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "img": "/mehlman/figures/peds-p122-hordeolum.png",
+    "imgAlt": "Actual source photograph (continuing the p121 hordeolum entry) of a child with a red swollen bump at the lower eyelid margin"
+  },
+  {
+    "id": "s2peds-1850",
+    "category": "Chalazion",
+    "q": "How does p122 describe a chalazion?",
+    "a": "A painless bump on the eyelid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "img": "/mehlman/figures/peds-p122-chalazion.png",
+    "imgAlt": "Actual source photograph of a child with a chalazion, a bump on the upper eyelid",
+    "guideline": {
+      "text": "StatPearls: a chalazion usually presents as a painless swelling of the eyelid and is typically non-tender.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499889/"
+    }
+  },
+  {
+    "id": "s2peds-1851",
+    "category": "Chalazion",
+    "q": "What causes a chalazion and is it an infection per p122?",
+    "a": "A blocked oil duct. It is not an infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "guideline": {
+      "text": "StatPearls calls it a chronic sterile lipogranuloma from inflammation of a meibomian or Zeis gland.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499889/"
+    }
+  },
+  {
+    "id": "s2peds-1852",
+    "category": "Chalazion",
+    "q": "How is a chalazion treated per p122?",
+    "a": "Warm compresses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "guideline": {
+      "text": "StatPearls: warm compresses for 15 minutes 2 to 4 times daily; most resolve within a month, and persistent lesions need further care.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499889/"
+    }
+  },
+  {
+    "id": "s2peds-1853",
+    "category": "Chalazion",
+    "q": "Chalazion vs hordeolum on p121-122: which is painless and non-infectious, and which is painful and a Staph aureus infection?",
+    "a": "Chalazion is painless and not an infection (blocked oil duct). Hordeolum (stye) is painful and a Staph aureus infection. Both are treated with warm compresses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2peds-1854",
+    "category": "Retinoblastoma",
+    "q": "What finding does the p122 retinoblastoma photo show?",
+    "a": "Leukocoria: an abnormal white appearance of the eye on light reflex, which should normally look red.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "img": "/mehlman/figures/peds-p122-retinoblastoma-leukocoria.png",
+    "imgAlt": "Actual source photograph of a child with leukocoria: the right eye shows a red reflex and the left eye a white pupil",
+    "guideline": {
+      "text": "StatPearls: leukocoria is the hallmark feature of retinoblastoma.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545276/"
+    }
+  },
+  {
+    "id": "s2peds-1855",
+    "category": "Retinoblastoma",
+    "q": "Which gene is mutated in retinoblastoma and what extra cancer risk does p122 highlight?",
+    "a": "RB gene mutations cause congenital retinoblastoma and also raise the risk of osteosarcoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "guideline": {
+      "text": "StatPearls: retinoblastoma arises from RB1 mutation on 13q14; hereditary cases face higher risk of nonocular cancers including osteosarcoma.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545276/"
+    }
+  },
+  {
+    "id": "s2peds-1856",
+    "category": "Retinoblastoma",
+    "q": "Classic p122 question: a child shows leukocoria. What is the child at risk for later?",
+    "a": "Osteosarcoma.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "guideline": {
+      "text": "StatPearls: hereditary retinoblastoma carries risk of pineoblastoma, osteosarcoma, soft tissue sarcomas and melanoma.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545276/"
+    }
+  },
+  {
+    "id": "s2peds-1857",
+    "category": "Strabismus",
+    "q": "How does p122 define strabismus?",
+    "a": "Misalignment of the eyes due to weakened muscles in one eye; the source calls it a lazy eye.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 122,
+      "url": "/mehlman/hy-pediatrics.pdf#page=122"
+    },
+    "guideline": {
+      "text": "StatPearls: strabismus means misaligned eyes. Amblyopia is a separate condition (reduced vision) that can result from strabismus, so strictly 'lazy eye' is amblyopia.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560782/"
+    }
   }
 ];
