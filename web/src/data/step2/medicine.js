@@ -5568,5 +5568,259 @@ export default [
       "page": 43,
       "url": "/mehlman/hy-internal-medicine.pdf#page=43"
     }
+  },
+  {
+    "id": "s2med-0429",
+    "category": "IM Pulmonary",
+    "q": "What does the A-a gradient tell you per p44?",
+    "a": "In low arterial oxygen, the normal A-a gradient (5-10 mmHg) tells whether there is lung pathology or merely hypoventilation. A is alveolar oxygen; a is arterial oxygen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    },
+    "guideline": {
+      "text": "StatPearls on respiratory failure and a review on impaired gas exchange are references.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526127/"
+    }
+  },
+  {
+    "id": "s2med-0430",
+    "category": "IM Pulmonary",
+    "q": "Increased A-a gradient per p44?",
+    "a": "The lungs are abnormal: the patient breathes normally but has impeded gas exchange, poor compliance, or pathologic shunt or dead space. Low arterial oxygen despite sufficient respirations; normal alveolar pO2 in unaffected areas minus low arterial pO2 makes A-a high.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0431",
+    "category": "IM Pulmonary",
+    "q": "Normal A-a gradient with low O2 per p44?",
+    "a": "Lungs are normal; patient is not breathing enough (opioids, heroin, benzos, barbiturates cause respiratory depression; sometimes ventilator patients). Alveolar oxygen is low throughout the lungs, so A-a is not elevated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0432",
+    "category": "IM Pulmonary",
+    "q": "A-a numbers on the NBME per p44?",
+    "a": "They will not require exact numbers: choices like 40 (high) versus 10 (normal). Opioid toxicity with low O2 sats: choose the answer with 10.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0433",
+    "category": "IM Pulmonary",
+    "q": "Mechanism of hypoxemia in pulmonary edema per p44?",
+    "a": "High A-a gradient: transudate in alveolar spaces impedes gas exchange while respirations are otherwise fine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0434",
+    "category": "IM Pulmonary",
+    "q": "Healthy old age lung changes per p44?",
+    "a": "Increased A-a gradient, decreased arterial pO2, increased TLC (NBME answer combination): even non-smokers experience obstructive changes with age ('very slow COPD').",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0435",
+    "category": "IM Pulmonary",
+    "q": "Ventilator patient with increased pCO2 per p44?",
+    "a": "Choose normal A-a gradient: the arterial pO2 is low because of insufficient respirations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0436",
+    "category": "IM Pulmonary",
+    "q": "A-a gradient advice per p44?",
+    "a": "Do not automatically assume high A-a for every case of low O2 sats.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0437",
+    "category": "IM Pulmonary",
+    "q": "Small cell bronchogenic carcinoma histology per p44 (figure)?",
+    "a": "Small basophilic (purple) cells; NBME can describe them as 'twice the size of lymphocytes'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    },
+    "img": "/mehlman/figures/med-p044-01.jpg",
+    "imgAlt": "Source figure p44: small cell carcinoma, small dark blue cells with scant cytoplasm"
+  },
+  {
+    "id": "s2med-0438",
+    "category": "IM Pulmonary",
+    "q": "Small cell carcinoma location and risk factor per p44?",
+    "a": "Occurs centrally in the lung (hilar/medial); smoking is the biggest risk factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2med-0439",
+    "category": "IM Pulmonary",
+    "q": "Paraneoplastic syndromes of small cell carcinoma per p44?",
+    "a": "SIADH (ADH secretion); Cushing syndrome from ACTH; Lambert-Eaton syndrome (antibodies against presynaptic voltage-gated calcium channels); cerebellar dysfunction/ataxia (anti-Hu/anti-Yo antibodies).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    },
+    "guideline": {
+      "text": "A case report of paraneoplastic syndrome in limited-stage SCLC exists; I did not verify the antibody specifics.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6236949/"
+    }
+  },
+  {
+    "id": "s2med-0440",
+    "category": "IM Pulmonary",
+    "q": "Treatment of small cell carcinoma on 2CK per p44?",
+    "a": "Chemotherapy; do not do surgery. The source believes it is the only time it has seen straight 'chemotherapy' as the correct NBME answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 44,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=44"
+    },
+    "guideline": {
+      "text": "Current caution: a review of limited-stage SCLC management exists; limited-stage disease is generally treated with chemoradiation. I did not verify the NBME claim. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3947683/"
+    }
+  },
+  {
+    "id": "s2med-0441",
+    "category": "IM Pulmonary",
+    "q": "Squamous cell carcinoma of the lung histology per p45 (figure)?",
+    "a": "Stains positive for keratin; may show keratin pearls (pink circles) on histology.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    },
+    "img": "/mehlman/figures/med-p045-01.jpg",
+    "imgAlt": "Source figure p45: squamous cell carcinoma with keratin pearls"
+  },
+  {
+    "id": "s2med-0442",
+    "category": "IM Pulmonary",
+    "q": "Squamous cell carcinoma location per p45?",
+    "a": "Like small cell, occurs centrally (hilar/medial); smoking is the biggest risk factor. The two cancers that start with an 'ssss' sound (small cell and squamous cell) are central.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2med-0443",
+    "category": "IM Pulmonary",
+    "q": "Lung cancer with a cavity per p45 (figure)?",
+    "a": "Squamous cell carcinoma (can cavitate).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    },
+    "img": "/mehlman/figures/med-p045-02.jpg",
+    "imgAlt": "Source figure p45: gross lung with a cavitating tumor",
+    "guideline": {
+      "text": "A case report of a cavitating squamous cell carcinoma exists.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2646690/"
+    }
+  },
+  {
+    "id": "s2med-0444",
+    "category": "IM Pulmonary",
+    "q": "Highest yield point of squamous cell carcinoma per p45?",
+    "a": "It secretes PTHrP, which acts like PTH (increases calcium, decreases phosphate) but is not PTH. Endogenous PTH is suppressed by negative feedback from high calcium: choose a down arrow for PTH.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    },
+    "guideline": {
+      "text": "The same case report describes hypercalcemia with squamous cell carcinoma; I did not verify the mechanism wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2646690/"
+    }
+  },
+  {
+    "id": "s2med-0445",
+    "category": "IM Pulmonary",
+    "q": "Adenocarcinoma per p45?",
+    "a": "Cancer of glands: biopsy with glandular morphology. The answer for lung cancer in a non-smoker (classically female non-smokers, but NBME Qs have men).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2med-0446",
+    "category": "IM Pulmonary",
+    "q": "Radon and lung cancer in non-smokers per p45?",
+    "a": "Ground radiation from radon is an accepted cause of lung cancer in non-smokers; an NBME Q has a non-smoker living in a basement who develops lung cancer. The source thinks the correlation is probably nonsense in real life.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    },
+    "guideline": {
+      "text": "A systematic review and meta-analysis of residential radon and lung cancer in never-smokers exists. The source's 'nonsense in real life' opinion conflicts with that literature; I did not read its conclusions.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9488946/"
+    }
+  },
+  {
+    "id": "s2med-0447",
+    "category": "IM Pulmonary",
+    "q": "Adenocarcinoma location per p45?",
+    "a": "Does not occur centrally on NBME, unlike small cell and squamous; described as apical or peripheral lung lesions in non-smokers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2med-0448",
+    "category": "IM Pulmonary",
+    "q": "Pancoast tumor per p45?",
+    "a": "Apical tumors are called Pancoast tumors and cause Horner syndrome (miosis, ptosis, anhidrosis) by impinging on the superior cervical (sympathetic) ganglion/nerves at C8 per the source. They can also cause SVC syndrome (facial flushing + neck vein congestion) or brachiocephalic syndrome (continues on p46).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 45,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=45"
+    },
+    "guideline": {
+      "text": "StatPearls on Pancoast syndrome is a reference; the source's 'C8 superior cervical ganglia' is loose wording (the sympathetic chain/stellate ganglion is involved), which I did not verify.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482155/"
+    }
   }
 ];

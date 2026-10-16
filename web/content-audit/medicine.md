@@ -191,3 +191,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text; no figures.
 - Source conflicts: "shunt" used for low V/Q (standard physiology: true shunt is V/Q 0); oxygen response in shunt vs low V/Q. Unverified: USMLE usage of the terms.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p44 (IM Pulmonary: A-a gradient, small cell carcinoma) - 12 cards, ids s2med-0429 to 0440
+- Inspected page text and figure (small cell histology). Expletive paraphrased out.
+- Source cautions: SCLC treatment "chemotherapy" (limited stage is chemoradiation); antibody specifics unverified.
+
+## p45 (IM Pulmonary: squamous cell, adenocarcinoma, radon, Pancoast start) - 8 cards, ids s2med-0441 to 0448
+- Inspected page text and figures (keratin pearls, cavitary squamous). Page ends mid-Pancoast sentence (continues p46).
+- Source conflicts: radon "nonsense in real life" (residential radon meta-analysis exists); Pancoast "C8 superior cervical ganglia" wording.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
