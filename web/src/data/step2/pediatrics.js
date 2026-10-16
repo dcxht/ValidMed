@@ -35549,5 +35549,110 @@ export default [
       "text": "StatPearls: IBD extraintestinal manifestations include pauciarticular arthritis. I did not verify the arthrocentesis detail.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK568797/"
     }
+  },
+  {
+    "id": "s2peds-2495",
+    "category": "Peds vignettes",
+    "q": "16M with a mouth ulcer and bloody diarrhea. Diagnosis per p172?",
+    "a": "Crohn disease (mouth to anus); mouth ulcers are HY.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 172,
+      "url": "/mehlman/hy-pediatrics.pdf#page=172"
+    },
+    "guideline": {
+      "text": "StatPearls IBD: Crohn disease can involve any part of the GI tract. I did not verify 'mouth ulcers are HY' beyond the oral involvement in Crohn.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470312/"
+    }
+  },
+  {
+    "id": "s2peds-2496",
+    "category": "Peds vignettes",
+    "q": "HY features of Crohn disease versus UC: what are the Crohn features per p172?",
+    "a": "Crohn: transmural (perianal fistulae); non-caseating granulomas; skip lesions (string sign on enema); cobblestoning on colonoscopy; mouth to anus but classically terminal ileum; increased CRC risk if colon affected (lower than UC overall); erythema nodosum and anterior uveitis common.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 172,
+      "url": "/mehlman/hy-pediatrics.pdf#page=172"
+    },
+    "guideline": {
+      "text": "StatPearls: Crohn is transmural with skip lesions and a cobblestone mucosa. I did not verify the string sign, relative CRC risk, or the EN/uveitis detail in the passages I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470312/"
+    }
+  },
+  {
+    "id": "s2peds-2497",
+    "category": "Peds vignettes",
+    "q": "HY features of UC versus Crohn: what are the UC features per p172?",
+    "a": "UC: not transmural; not granulomatous; loss of haustra (lead-pipe on enema); pseudopolyps; spares the anus; spreads from rectum proximally; greater CRC risk than Crohn; pyoderma gangrenosum (crater-like lesion, usually on a limb, with necrotic debris); associated with primary sclerosing cholangitis more than Crohn.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 172,
+      "url": "/mehlman/hy-pediatrics.pdf#page=172"
+    },
+    "guideline": {
+      "text": "StatPearls: no granulomas in UC, lead-pipe colon with loss of haustra, pseudopolyps, and disease starting in the rectum extending proximally in a continuous pattern. I did not verify the PSC or pyoderma associations in the passages I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459282/"
+    }
+  },
+  {
+    "id": "s2peds-2498",
+    "category": "Peds vignettes",
+    "q": "7F with hyperpigmentation around the lips (vignette picture). Diagnosis per p172?",
+    "a": "Hamartomatous polyps: Peutz-Jeghers syndrome (perioral melanosis plus hamartomatous colonic polyps). The peds form has colonoscopy as the next best step in diagnosis in a 7F with PJ syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 172,
+      "url": "/mehlman/hy-pediatrics.pdf#page=172"
+    },
+    "guideline": {
+      "text": "StatPearls: PJS is autosomal dominant with GI hamartomatous polyps and mucocutaneous pigmentation on lips, oral mucosa and fingers. I did not verify the colonoscopy step.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK535357/"
+    }
+  },
+  {
+    "id": "s2peds-2499",
+    "category": "Peds vignettes",
+    "q": "8F who recently finished antibiotics, now with bloody diarrhea. Diagnosis per p172?",
+    "a": "Pseudomembranous colitis (C. difficile); presentations across NBMEs are both bloody and watery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 172,
+      "url": "/mehlman/hy-pediatrics.pdf#page=172"
+    },
+    "guideline": {
+      "text": "StatPearls: C. difficile infection is associated with antibiotic use and ranges from carriage to pseudomembranous colitis and toxic megacolon. I did not verify the bloody vs watery claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431054/"
+    }
+  },
+  {
+    "id": "s2peds-2500",
+    "category": "Peds vignettes",
+    "q": "12M with epistaxis, bleeding time 9 minutes and platelet count 50,000. Diagnosis and mechanism per p172?",
+    "a": "Immune thrombocytopenic purpura (ITP); antibodies against GpIIb/IIIa following a viral infection (2CK questions often omit the preceding viral illness).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 172,
+      "url": "/mehlman/hy-pediatrics.pdf#page=172"
+    },
+    "guideline": {
+      "text": "ASH 2019 guideline covers ITP in children. I did not verify the GpIIb/IIIa mechanism or the viral-trigger statement in the passage I read.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
+  },
+  {
+    "id": "s2peds-2501",
+    "category": "Peds vignettes",
+    "q": "12M with epistaxis, bleeding time 9 minutes and platelets 50,000. Next best step per p172?",
+    "a": "Corticosteroids, then IVIG, then splenectomy. A Qbank question exists where the answer is observation only (mild cutaneous findings), but on NBME the source says the answer is always steroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 172,
+      "url": "/mehlman/hy-pediatrics.pdf#page=172"
+    },
+    "guideline": {
+      "text": "Current caution: the ASH 2019 guideline suggests observation rather than corticosteroids, and recommends observation rather than IVIG, in children with newly diagnosed ITP and no or minor bleeding; when treatment is needed for mucosal bleeding, steroid courses of 7 days or less are recommended. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963252/"
+    }
   }
 ];

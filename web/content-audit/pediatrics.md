@@ -899,3 +899,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: HUS "toxin inhibits ADAMTS13"; renal CT threshold in children (50 RBC/HPF vs 3-5) and "normal UA means no further workup".
 - Left unverified: CT for traumatic pancreatitis, UC arthrocentesis detail.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p172 (Bullet points: Crohn vs UC, Peutz-Jeghers, C. difficile, ITP) - 7 cards, ids s2peds-2495 to 2501
+- Inspected page text and layout; no figures. The page's first lines finish the UC card from p171 (already carded there).
+- Notes verified against StatPearls (IBD, Ulcerative Colitis, Peutz-Jeghers, C. difficile) and the ASH 2019 ITP guideline.
+- Source conflict, source answer kept with caution note: ITP steroids always (ASH: observation for no or minor bleeding in children; steroid courses 7 days or less). Expletive paraphrased out of card text.
+- Left unverified: string sign, relative CRC risk, EN/uveitis, PSC and pyoderma links, PJ colonoscopy step, C. diff bloody vs watery, ITP GpIIb/IIIa mechanism.
+- Mobile QA (320x740, local vite preview build, not live): all 7 cards ox=false off=false bad=0.
