@@ -17786,5 +17786,266 @@ export default [
       "text": "A review on Clonorchis sinensis and cholangiocarcinoma is linked; I did not verify the text.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12040606/"
     }
+  },
+  {
+    "id": "s2med-1331",
+    "category": "IM Gastro",
+    "q": "PPI mechanism and use per p147?",
+    "a": "Omeprazole shuts off proton pumps on parietal cells, decreasing acid. Irreversible and non-competitive; more efficacious than H2 blockers (reversible, competitive). Choose PPIs over H2 blockers for GERD, ulcers, H. pylori. GERD diagnosis: 2-week PPI trial.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls on PPIs is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557385/"
+    }
+  },
+  {
+    "id": "s2med-1332",
+    "category": "IM Gastro",
+    "q": "PPI drug interactions per p147?",
+    "a": "On NBME, PPIs cannot be given with sucralfate or -azole antifungals.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "A systematic review of acid-reducing agent drug interactions is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC7109143/"
+    }
+  },
+  {
+    "id": "s2med-1333",
+    "category": "IM Gastro",
+    "q": "H2 blockers per p147?",
+    "a": "Cimetidine, ranitidine. Not used often since PPIs are more efficacious. One 2CK form has '2-week trial of H2 blocker' as the GERD diagnosis answer when no PPI is listed. Cimetidine causes gynecomastia and inhibits P-450.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2med-1334",
+    "category": "IM Gastro",
+    "q": "Metoclopramide per p147?",
+    "a": "Antiemetic and prokinetic. D2 antagonist, also 5HT3 antagonist and 5HT4 agonist (increases gut peristalsis). HY use: diabetic gastroparesis (sounds like GERD in a severe diabetic; answer metoclopramide, not PPI).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2med-1335",
+    "category": "IM Gastro",
+    "q": "Ondansetron and erythromycin per p147?",
+    "a": "Ondansetron: powerful antiemetic classically for chemoradiotherapy nausea/vomiting. Erythromycin: motilin receptor agonist for diabetic gastroparesis, unrelated to its antibiotic effect.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "The 2023 MASCC/ESMO antiemetic guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10937211/"
+    }
+  },
+  {
+    "id": "s2med-1336",
+    "category": "IM Gastro",
+    "q": "Misoprostol per p147?",
+    "a": "PGE1 analogue for NSAID-induced ulcers after PPIs; replenishes the prostaglandin NSAIDs reduce. Prostaglandins decrease acid production and increase mucus, bicarbonate and gastric mucosal blood flow.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2med-1337",
+    "category": "IM Gastro",
+    "q": "Antacids per p147?",
+    "a": "Magnesium: diarrhea. Aluminum: constipation. Calcium: milk-alkali syndrome (high Ca2+, high HCO3-, urolithiasis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "StatPearls on milk-alkali syndrome is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557500/"
+    }
+  },
+  {
+    "id": "s2med-1338",
+    "category": "IM Gastro",
+    "q": "Calcium chelation of drugs per p147?",
+    "a": "Bisphosphonates (alendronate) and tetracyclines (doxycycline) can't be taken with calcium or iron (divalent cations), which chelate them and decrease absorption. A prostatitis patient on ciprofloxacin who isn't improving while taking a calcium supplement: answer calcium carbonate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "A paper on interactions affecting tetracycline absorption is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/946598/"
+    }
+  },
+  {
+    "id": "s2med-1339",
+    "category": "IM Gastro",
+    "q": "Bismuth and sucralfate per p147?",
+    "a": "Bismuth: part of H. pylori regimens (not first-line); coats ulcers as a barrier. Sucralfate: coats ulcers, protects against acid and decreases pain; cannot be taken with PPIs (PPIs decrease its ability to crosslink/work).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "A systematic review of acid-reducing agent interactions is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC7109143/"
+    }
+  },
+  {
+    "id": "s2med-1340",
+    "category": "IM Gastro",
+    "q": "5-ASA and TNF blockers per p147?",
+    "a": "5-ASA compounds: mesalamine, sulfasalazine (NSAIDs used in IBD). TNF-alpha blockers: infliximab, adalimumab (monoclonal antibodies) and etanercept (recombinant receptor mopping up soluble TNF-alpha); used in IBD after 5-ASA and steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "A paper on mechanisms of anti-TNF agents is linked; I did not verify the text, including etanercept's role in IBD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27567553/"
+    }
+  },
+  {
+    "id": "s2med-1341",
+    "category": "IM Gastro",
+    "q": "Octreotide and propranolol per p147?",
+    "a": "Octreotide: somatostatin analogue for variceal treatment after banding; decreases portal blood flow. Propranolol: beta-blocker for variceal prophylaxis (not treatment).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    }
+  },
+  {
+    "id": "s2med-1342",
+    "category": "IM Gastro",
+    "q": "Lactulose per p147?",
+    "a": "Treats hyperammonemia in cirrhosis. Carbohydrate metabolized by gut bacteria to acidic products that trap ammonia as ammonium (NH4+), which is excreted (ions are absorbed less). Answer: 'acidification, NH4+.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "A review of lactulose mechanisms and the hepatic encephalopathy management review are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11464675/"
+    }
+  },
+  {
+    "id": "s2med-1343",
+    "category": "IM Gastro",
+    "q": "Neomycin, loperamide, ezetimibe per p147?",
+    "a": "Neomycin: kills ammonia-producing bacteria (hyperammonemia in cirrhosis). Loperamide: mu-opioid agonist for diarrhea-predominant IBS (constipation is the desired effect). Ezetimibe: blocks cholesterol absorption in the small bowel.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 147,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=147"
+    },
+    "guideline": {
+      "text": "A paper on rifaximin and neomycin is linked in the hepatic encephalopathy review; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9099111/"
+    }
+  },
+  {
+    "id": "s2med-1344",
+    "category": "IM Gastro",
+    "q": "Cholestyramine per p148?",
+    "a": "Bile acid sequestrant. Reduces enterohepatic circulation of bile acids at the terminal ileum; the liver converts more cholesterol into bile acids and pulls cholesterol out of the blood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=148"
+    },
+    "guideline": {
+      "text": "A paper on bile acid sequestrant mechanisms is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2044645/"
+    }
+  },
+  {
+    "id": "s2med-1345",
+    "category": "IM Gastro",
+    "q": "Orlistat per p148?",
+    "a": "Pancreatic lipase inhibitor for obesity; can cause steatorrhea.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=148"
+    },
+    "guideline": {
+      "text": "A paper on the mode of action of orlistat is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9225172/"
+    }
+  },
+  {
+    "id": "s2med-1346",
+    "category": "IM Gastro",
+    "q": "Antifungals and antivirals for GI infections per p148?",
+    "a": "Nystatin: mouthwash for oropharyngeal candidiasis. Fluconazole: candidal esophagitis. Acyclovir: HSV esophagitis (punched-out ulcers). Ganciclovir: CMV esophagitis and colitis (linear/confluent ulcers); same MOA as acyclovir.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2med-1347",
+    "category": "IM Gastro",
+    "q": "CAP for H. pylori per p148?",
+    "a": "Clarithromycin, amoxicillin, PPI as first-line. If urease breath test is still positive after 4 weeks, assume resistance: replace clarithromycin and amoxicillin (CA) with tetracycline, metronidazole and bismuth (keep PPI).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=148"
+    },
+    "guideline": {
+      "text": "Conflict: the ACG H. pylori treatment guideline is linked; I did not verify details, but current practice has moved toward bismuth quadruple therapy as first line. Source answer stays for the exam.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39626064/"
+    }
+  },
+  {
+    "id": "s2med-1348",
+    "category": "IM Gastro",
+    "q": "Vancomycin and metronidazole per p148?",
+    "a": "Oral vancomycin treats C. difficile. Metronidazole: anaerobes below the diaphragm; used for diverticulitis combined with a fluoroquinolone; treats Giardia and Entamoeba. Imipenem: carbapenem with excellent pancreatic penetration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=148"
+    }
+  },
+  {
+    "id": "s2med-1349",
+    "category": "IM Gastro",
+    "q": "Antihelminthic agents per p148?",
+    "a": "Mebendazole: most nematodes (ascariasis, enterobiasis, hookworms). Albendazole: same, preferred for neurocysticercosis (Taenia solium, a cestode). Pyrantel pamoate: nematodes (answer on an offline NBME). Praziquantel: cestodes and trematodes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 148,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=148"
+    },
+    "guideline": {
+      "text": "A StatPearls page on anthelmintic agents is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK548602/"
+    }
   }
 ];

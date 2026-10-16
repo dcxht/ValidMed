@@ -623,3 +623,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p146 (Giardia trophozoite, helminths) - 11 cards, ids s2med-1320 to 1330
 - Figure inspected (trophozoite). Unverified: hydatid 'do not biopsy' (literature may differ), hemoptysis claim.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p147 (GI pharm basics 1) - 13 cards, ids s2med-1331 to 1343
+- Unverified: PPI/sucralfate/azole interactions in detail; etanercept in IBD.
+
+## p148 (GI pharm basics 2) - 6 cards, ids s2med-1344 to 1349
+- Conflict: CAP first-line vs current ACG H. pylori guidance (unverified details).
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
