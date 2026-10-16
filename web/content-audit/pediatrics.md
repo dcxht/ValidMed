@@ -620,3 +620,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Differences kept as notes, source answers kept: StatPearls says RF/anti-CCP have little diagnostic value in JIA (source says order both); salmon rash is a systemic-onset feature; steroids are not an automatic second step in current guidelines; PsA precedes skin disease in about 17%; HLA-B27 is much weaker in psoriatic than in axial spondyloarthritis.
 - Left un-noted (not verified): low MCV in anemia of chronic disease, arthrocentesis leukocytes, Auspitz sign, psoriasis plus IBD vignette, calcipotriene/triamcinolone list. The psoriasis treatment list is cut off at the page bottom and continues on p131.
 - Mobile QA (320x740, live, local headless Chrome): all 15 cards ox=false off=false bad=0; figure card renders; the longest note (1949) scrolls inside the card.
+
+## p131 (psoriasis treatment, sacroiliitis, lupus, septic arthritis) - 23 cards, ids s2peds-1956 to 1978
+- Inspected page pixels. No figures. Completes the p130 psoriasis treatment list.
+- Notes verified against StatPearls AS, SLE, APS, EULAR 2025 LN recommendations (abstract level), AJR septic arthritis review. Differences kept as notes: p131 names beta-2-microglobulin, actual APS target is beta-2 glycoprotein I; steroid-only lupus nephritis flare treatment is an exam simplification.
+- Left un-noted (not verified): psoriasis topical order and acitretin/methotrexate claims, AS 8-year-old vignette, ESR/AoCD, slit lamp (note only gives uveitis rate), lupus arthritis 90%, anti-Sm/dsDNA roles, VDRL false positive, malar rash type III, cerebritis/myelitis, C1q, biopsy first (EULAR fetch only confirmed it addresses biopsy, not the sequence), septic arthritis patient groups and negative aspirate.
+- Mobile QA: PENDING

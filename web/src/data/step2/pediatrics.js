@@ -27916,5 +27916,298 @@ export default [
       "text": "StatPearls: conventional therapy includes topical corticosteroids and phototherapy.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK430879/"
     }
+  },
+  {
+    "id": "s2peds-1956",
+    "category": "Psoriasis",
+    "q": "In what order does p131 give topical psoriasis treatments, and why not steroids first?",
+    "a": "Calcipotriene, then triamcinolone or hydrocortisone, then coal tar. Chronic topical steroids cause dermal collagen thinning, so they are not preferred before topical vitamin D.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1957",
+    "category": "Psoriasis",
+    "q": "When are oral meds used in psoriasis per p131, and which is first-line oral?",
+    "a": "If topicals fail or there is systemic psoriasis (such as arthritis). Oral methotrexate is first-line on new NBME material.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1958",
+    "category": "Psoriasis",
+    "q": "Which old-NBME answer does p131 give when methotrexate is not listed?",
+    "a": "Oral acitretin, a vitamin A derivative.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1959",
+    "category": "Sacroiliitis",
+    "q": "How does p131 define sacroiliitis and its most severe form?",
+    "a": "Arthritis of the lower back (sacroiliac joints). Ankylosing spondylitis is the most severe form.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "StatPearls: AS involves the spine and sacroiliac joints, peripheral joints and entheses.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470173/"
+    }
+  },
+  {
+    "id": "s2peds-1960",
+    "category": "Sacroiliitis",
+    "q": "What is the classic ankylosing spondylitis vignette per p131, and what is the peds twist?",
+    "a": "Male in his 20s-40s with lower back pain worse in the morning that improves through the day. A 2CK Peds question has AS in an 8-year-old, so it is possible in kids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1961",
+    "category": "Sacroiliitis",
+    "q": "Which conditions with low back pain point toward sacroiliitis per p131?",
+    "a": "IBD, psoriasis or reactive arthritis (the HLA-B27 PAIR).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "StatPearls: AS is associated with IBD (up to 50%) and psoriasis (about 10%).",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470173/"
+    }
+  },
+  {
+    "id": "s2peds-1962",
+    "category": "Sacroiliitis",
+    "q": "Which labs and imaging does p131 list for sacroiliitis?",
+    "a": "High ESR and anemia of chronic disease. Diagnose with x-rays of the lumbosacral spine and sacroiliac joints.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1963",
+    "category": "Sacroiliitis",
+    "q": "Which eye exam does p131 want for ankylosing spondylitis, and why?",
+    "a": "Slit-lamp examination for anterior uveitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "StatPearls: acute anterior uveitis occurs in 25-35% of AS cases.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470173/"
+    }
+  },
+  {
+    "id": "s2peds-1964",
+    "category": "Sacroiliitis",
+    "q": "How is sacroiliitis treated per p131?",
+    "a": "The same as JRA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1965",
+    "category": "Lupus",
+    "q": "What is the most common presenting feature of lupus per p131?",
+    "a": "Arthritis (90%). USMLE vignettes pretty much always give arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "StatPearls: lupus arthritis is typically nonerosive, symmetric inflammatory polyarthritis of small joints. I did not verify the 90% figure.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK535405/"
+    }
+  },
+  {
+    "id": "s2peds-1966",
+    "category": "Lupus",
+    "q": "Which antibody tracks flares and renal prognosis in lupus per p131, and which is most specific?",
+    "a": "Anti-dsDNA rises with acute flares and relates most closely to renal prognosis in lupus nephritis. Anti-Smith is the most specific for SLE.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1967",
+    "category": "Lupus",
+    "q": "Which antibodies define lupus-related antiphospholipid syndrome per p131, and what lab oddity does it cause?",
+    "a": "Lupus anticoagulant and anticardiolipin/beta-2 antibodies. It can cause a false-positive VDRL for syphilis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "StatPearls APS lists anticardiolipin IgG/IgM, anti-beta-2-glycoprotein-I IgG/IgM and lupus anticoagulant as the lab criteria. Note p131 calls the target beta-2-microglobulin; the actual target is beta-2 glycoprotein I.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430980/"
+    }
+  },
+  {
+    "id": "s2peds-1968",
+    "category": "Lupus",
+    "q": "Why is thrombocytopenia common in lupus, and what is the answer when cytopenias mimic aplastic anemia per p131?",
+    "a": "Antibodies against blood cell lines. The answer is increased peripheral destruction, not decreased bone marrow production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "StatPearls: SLE can cause autoimmune hemolytic anemia, lymphopenia and thrombocytopenia (immune-mediated), and occasionally bone marrow failure.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK535405/"
+    }
+  },
+  {
+    "id": "s2peds-1969",
+    "category": "Lupus",
+    "q": "What type of hypersensitivity is the malar rash per p131?",
+    "a": "Type III.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1970",
+    "category": "Lupus",
+    "q": "Which neurologic problems does p131 list for lupus?",
+    "a": "Lupus cerebritis (confusion or delirium-like episodes) and transverse myelitis (presenting as Brown-Sequard syndrome). Peds forms give lupus cerebritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1971",
+    "category": "Lupus",
+    "q": "Which cardiac problem does p131 link to lupus, like RA?",
+    "a": "Pericarditis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1972",
+    "category": "Lupus",
+    "q": "What happens to C3 in lupus flares and what congenital deficiency raises SLE risk per p131?",
+    "a": "C3 falls in flares. Congenital C1q deficiency raises SLE risk.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "StatPearls: SLE involves complement consumption.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK535405/"
+    }
+  },
+  {
+    "id": "s2peds-1973",
+    "category": "Lupus",
+    "q": "What is the first step in managing lupus nephritis per p131?",
+    "a": "Kidney biopsy. Steroids first is the wrong answer; biopsy guides management.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "EULAR 2025 lupus nephritis recommendations address kidney biopsy for diagnosis as a first domain.",
+      "url": "https://ard.eular.org/article/S0003-4967(25)04412-7/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1974",
+    "category": "Lupus",
+    "q": "Which histology equals lupus nephritis on USMLE per p131, and how are flares treated?",
+    "a": "Diffuse proliferative glomerulonephritis. Flares are treated with steroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "Caution: current lupus nephritis guidelines use combination immunosuppression, not steroids alone, for proliferative disease. The p131 line is an exam simplification.",
+      "url": "https://ard.eular.org/article/S0003-4967(25)04412-7/fulltext"
+    }
+  },
+  {
+    "id": "s2peds-1975",
+    "category": "Septic arthritis",
+    "q": "Which patient groups does p131 say get septic arthritis on Peds forms?",
+    "a": "Young healthy patients after trauma (such as a car accident) or high-intensity exercise microtrauma (kickboxing, soccer tournament, long hike), and sickle cell disease.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1976",
+    "category": "Septic arthritis",
+    "q": "What is the classic septic arthritis presentation and first management step per p131?",
+    "a": "Hot, red, painful joint, almost always with fever. First step is arthrocentesis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1977",
+    "category": "Septic arthritis",
+    "q": "Can joint aspirate be negative in septic arthritis per p131?",
+    "a": "Yes. Do not rule out septic arthritis if the NBME says no organisms.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    }
+  },
+  {
+    "id": "s2peds-1978",
+    "category": "Septic arthritis",
+    "q": "What is the most common septic arthritis pathogen overall per p131?",
+    "a": "Staph aureus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 131,
+      "url": "/mehlman/hy-pediatrics.pdf#page=131"
+    },
+    "guideline": {
+      "text": "AJR review: S. aureus accounts for more than 50% of adult septic arthritis.",
+      "url": "https://www.ajronline.org/doi/full/10.2214/AJR.20.22773"
+    }
   }
 ];
