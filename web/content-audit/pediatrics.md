@@ -738,3 +738,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: "oral prednisone treats exophthalmos" - the consensus says standard glucocorticoid dosing is IV methylprednisolone.
 - Left un-noted or flagged unverified: myopathy/AF exam-pattern claims, adrenal crisis in thyroid storm, agranulocytosis with PTU/methimazole, 5-deiodinase, storm tetrad, deQuervain uptake mechanism and exam-pattern claims, factitious thyrotoxicosis details and T3/T4 labs, 2/3 vs half question frequency for thyroglossal cyst.
 - Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
+
+## p149 (thyroglossal cyst end, lingual thyroid, cretinism, TBG deficiency, Conn, Addison) - 15 cards, ids s2peds-2250 to 2264
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (Ectopic Thyroid, Congenital Hypothyroidism, Hyperaldosteronism, Addison Disease) and a TBG-deficiency review.
+- No outright conflicts. Terminology caution on "mental retardation" (current: intellectual disability).
+- Left unverified: 99Tc uptake, individual cretinism signs and myelin mechanism, 50% normal Na+ figure, spironolactone before surgery, TBG pregnancy logic, Addison autoimmune-association vignette pattern, zona involvement.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.

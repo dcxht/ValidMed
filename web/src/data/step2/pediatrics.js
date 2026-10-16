@@ -32002,5 +32002,214 @@ export default [
       "page": 148,
       "url": "/mehlman/hy-pediatrics.pdf#page=148"
     }
+  },
+  {
+    "id": "s2peds-2250",
+    "category": "Thyroglossal duct cyst",
+    "q": "What does p149 say about the other third of thyroglossal duct cyst questions?",
+    "a": "They will not mention the upward movement with swallowing or tongue protrusion. They just say a kid has a painless midline neck mass just inferior to the hyoid bone that demonstrates 99Tc uptake.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2peds-2251",
+    "category": "Lingual thyroid",
+    "q": "What is a lingual thyroid per p149?",
+    "a": "Ectopic thyroid tissue at the base of the tongue, due to failure of the thyroid to descend from the foramen cecum. This tissue may be the only functioning thyroid tissue in the body, causing hypothyroidism.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: ectopic thyroid is classed under congenital hypothyroidism and is a leading cause of thyroid dysgenesis; almost all affected individuals are hypothyroid.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539892/"
+    }
+  },
+  {
+    "id": "s2peds-2252",
+    "category": "Lingual thyroid",
+    "q": "How does a lingual thyroid appear on USMLE per p149?",
+    "a": "A kid with hypothyroidism plus a midline neck lump high in the neck, with nothing about tongue protrusion or uptake into the mass. Can sometimes cause dysphagia, dysphonia or dyspnea.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: usually asymptomatic (47%) but can cause dysphagia, dysphonia and upper airway obstruction.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539892/"
+    }
+  },
+  {
+    "id": "s2peds-2253",
+    "category": "Cretinism",
+    "q": "What is cretinism and what are its most common causes per p149?",
+    "a": "Aka congenital hypothyroidism. Most common causes are maternal iodine deficiency during pregnancy (worldwide) and fetal thyroid dysgenesis (western countries).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: dysgenesis causes about 80% of congenital hypothyroidism; iodine deficiency is still an important cause worldwide, especially in iodine-poor regions.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558913/"
+    }
+  },
+  {
+    "id": "s2peds-2254",
+    "category": "Cretinism",
+    "q": "What are the features of cretinism per p149?",
+    "a": "Mental retardation (poor myelin sheath development), impaired bone growth, hypotonia, macroglossia and a protuberant abdomen from an umbilical hernia (can be confused with kwashiorkor, protein-calorie malnutrition causing ascites). Note: current terminology is intellectual disability.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: congenital hypothyroidism is one of the most common preventable causes of intellectual disability. I did not verify the individual physical signs or the myelin mechanism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558913/"
+    }
+  },
+  {
+    "id": "s2peds-2255",
+    "category": "Cretinism",
+    "q": "How is congenital hypothyroidism screened for per p149?",
+    "a": "At birth with the heel-prick test, to prevent exacerbation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "Newborn screening for congenital hypothyroidism is standard; StatPearls describes screening programs preventing intellectual disability.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558913/"
+    }
+  },
+  {
+    "id": "s2peds-2256",
+    "category": "TBG deficiency",
+    "q": "Why does p149 teach TBG deficiency, and what are its labs?",
+    "a": "The USMLE does not expect obscure knowledge here. TBG in pregnancy is very high-yield, so infer the inverse. Labs: normal TSH, normal T3, normal free T4, decreased total T4.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "Review: hereditary TBG deficiency gives low total T4 and T3 with normal free hormone and normal TSH; patients are euthyroid and need no treatment.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6954308/"
+    }
+  },
+  {
+    "id": "s2peds-2257",
+    "category": "TBG deficiency",
+    "q": "How does the pregnancy logic explain TBG deficiency per p149?",
+    "a": "In pregnancy TBG is high, giving high total T4 despite normal free T4. If TBG is low instead, total T4 is low while free T4 stays the same, the opposite direction.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2peds-2258",
+    "category": "Conn syndrome",
+    "q": "What is Conn syndrome and what are the lab changes per p149?",
+    "a": "An aldosterone-secreting tumor. Increased Na+, decreased K+, increased HCO3-, increased pH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: classic presentation is hypertension and hypokalemia, but most patients do not have significant hypokalemia. Aldosterone-to-renin ratio of 20:1 or higher suggests the diagnosis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499983/"
+    }
+  },
+  {
+    "id": "s2peds-2259",
+    "category": "Conn syndrome",
+    "q": "Why is renin decreased in Conn syndrome per p149?",
+    "a": "Negative feedback at the kidney: excess aldosterone increases fluid retention, which increases renal blood flow and shuts off renin production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2peds-2260",
+    "category": "Conn syndrome",
+    "q": "How often is Na+ normal in aldosterone-derangement questions per p149, and why?",
+    "a": "In about 50% of such questions Na+ is normal, because the body strongly maintains Na+ (also via ADH).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: most patients do not present with hypokalemia. I did not verify the 50% sodium figure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499983/"
+    }
+  },
+  {
+    "id": "s2peds-2261",
+    "category": "Conn syndrome",
+    "q": "What is the treatment for Conn syndrome per p149?",
+    "a": "Spironolactone (aldosterone receptor antagonist) prior to surgery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: nonsurgical candidates are treated with mineralocorticoid receptor antagonists such as spironolactone or eplerenone. I did not verify use before surgery.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499983/"
+    }
+  },
+  {
+    "id": "s2peds-2262",
+    "category": "Addison disease",
+    "q": "What is Addison disease per p149?",
+    "a": "Autoimmune destruction of the adrenal cortex, leading to decreased aldosterone and cortisol. Called primary adrenal insufficiency because the gland itself under-produces. Effect is mainly on the zona glomerulosa and fasciculata.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: autoimmune adrenalitis, an acquired primary adrenal insufficiency, with decreased cortisol, aldosterone and androgens.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
+  },
+  {
+    "id": "s2peds-2263",
+    "category": "Addison disease",
+    "q": "What association does Addison disease show in vignettes per p149?",
+    "a": "Idiopathic or with a history of other autoimmune disease in the patient or family, such as a brother with RA, a sister with IBD, or a history of thyroiditis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    }
+  },
+  {
+    "id": "s2peds-2264",
+    "category": "Addison disease",
+    "q": "What are the labs and blood pressure in Addison disease per p149?",
+    "a": "Decreased Na+, increased K+, decreased pH, decreased bicarb. BP is low-normal or low from both decreased aldosterone and decreased cortisol; the cortisol effect is high-yield.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 149,
+      "url": "/mehlman/hy-pediatrics.pdf#page=149"
+    },
+    "guideline": {
+      "text": "StatPearls: adrenal crisis with hypotension, hyponatremia, hyperkalemia and hypoglycemia; low cortisol and aldosterone with high renin.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
   }
 ];
