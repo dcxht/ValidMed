@@ -39499,5 +39499,265 @@ export default [
       "text": "A review of ocular manifestations of Down syndrome is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9252013/"
     }
+  },
+  {
+    "id": "s2med-2970",
+    "category": "IM Ophthal",
+    "q": "Brushfield spots figure per p301?",
+    "a": "The figure at the top of the page shows irides with spots; it belongs with the p300 Brushfield spots entry (connective tissue deposits in the irides of some patients with Down syndrome).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=301"
+    },
+    "img": "/mehlman/figures/med-p301-01.jpg",
+    "imgAlt": "Source figure: two irides with Brushfield-type spots",
+    "guideline": {
+      "text": "A review of ocular manifestations of Down syndrome is linked (title only); the figure's label is not printed, so the match to Brushfield spots is from page order.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9252013/"
+    }
+  },
+  {
+    "id": "s2med-2971",
+    "category": "IM Ophthal",
+    "q": "Orbital cellulitis per p301?",
+    "a": "Infection of tissues posterior to the orbital septum; Staph aureus is the most common cause. A rare sequela of adjacent infection, e.g., from the paranasal sinus. Medical emergency requiring IV antibiotics. Preseptal cellulitis is a less severe version.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=301"
+    },
+    "img": "/mehlman/figures/med-p301-02.jpg",
+    "imgAlt": "Source figure: child with orbital cellulitis, swollen eyelid",
+    "guideline": {
+      "text": "A review of preseptal and orbital cellulitis is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11146277/"
+    }
+  },
+  {
+    "id": "s2med-2972",
+    "category": "IM Ophthal",
+    "q": "Hordeolum (stye) per p301?",
+    "a": "Painful bump on the eyelid. Staph aureus infection of a sweat gland or oil duct; treat with warm compresses. Can occur at any age (continues on p302).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 301,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=301"
+    },
+    "img": "/mehlman/figures/med-p301-03.jpg",
+    "imgAlt": "Source figure: hordeolum (stye) on the lower eyelid",
+    "guideline": {
+      "text": "A StatPearls page on hordeolum is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459349/"
+    }
+  },
+  {
+    "id": "s2med-2973",
+    "category": "IM Ophthal",
+    "q": "Chalazion per p302?",
+    "a": "Painless bump on the eyelid. Blocked oil duct; not an infection; treat with warm compresses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 302,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=302"
+    },
+    "img": "/mehlman/figures/med-p302-01.jpg",
+    "imgAlt": "Source figure: chalazion on the upper eyelid",
+    "guideline": {
+      "text": "A paper on warm compress therapy is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11341798/"
+    }
+  },
+  {
+    "id": "s2med-2974",
+    "category": "IM Ophthal",
+    "q": "Retinoblastoma per p302?",
+    "a": "The image shows leukocoria, an abnormal white appearance of the eye on light reflex (should normally appear red).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 302,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=302"
+    },
+    "img": "/mehlman/figures/med-p302-02.jpg",
+    "imgAlt": "Source figure: leukocoria in the left eye",
+    "guideline": {
+      "text": "A paper on the differential diagnosis of leukocoria is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2704541/"
+    }
+  },
+  {
+    "id": "s2med-2975",
+    "category": "IM Ophthal",
+    "q": "RB gene mutation risk per p302?",
+    "a": "RB gene mutations cause congenital retinoblastoma and also increase the risk of osteosarcoma. Classic Q: shows the leukocoria image and asks what the child is at risk for later; answer osteosarcoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 302,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=302"
+    },
+    "img": "/mehlman/figures/med-p302-02.jpg",
+    "imgAlt": "Source figure: leukocoria in the left eye",
+    "guideline": {
+      "text": "The leukocoria paper is linked on the previous card; I did not verify the osteosarcoma link.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2704541/"
+    }
+  },
+  {
+    "id": "s2med-2976",
+    "category": "IM Ophthal",
+    "q": "Strabismus per p302?",
+    "a": "The source describes it as 'lazy eye', or misalignment of the eyes due to weakened muscles in one eye (continues on p303).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 302,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=302"
+    },
+    "img": "/mehlman/figures/med-p302-03.jpg",
+    "imgAlt": "Source figure: strabismus types (esotropia, exotropia, hypotropia, hypertropia)"
+  },
+  {
+    "id": "s2med-2977",
+    "category": "IM Ophthal",
+    "q": "Strabismus and amblyopia per p303?",
+    "a": "Strabismus can lead to amblyopia: reduced visual acuity in the weak eye because the brain favors the stronger eye during development. Strabismus itself is not reduced vision in the weak eye; it precedes amblyopia if not treated with eye exercises and/or patching of the strong eye.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 303,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=303"
+    },
+    "guideline": {
+      "text": "A review of interventions for strabismic amblyopia is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10816941/"
+    }
+  },
+  {
+    "id": "s2med-2978",
+    "category": "IM Ophthal",
+    "q": "Cataracts per p303?",
+    "a": "Progressive clouding or opacification of the lens: blurred or hazy vision, particularly in bright light, with increased glare sensitivity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 303,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=303"
+    },
+    "img": "/mehlman/figures/med-p303-01.jpg",
+    "imgAlt": "Source figure: cataract with clouded lens"
+  },
+  {
+    "id": "s2med-2979",
+    "category": "IM Ophthal",
+    "q": "Cataracts and diabetes per p303?",
+    "a": "Can be caused by sunlight, but the most important cause on USMLE is diabetes mellitus: high glucose entering the lens is converted to sorbitol via aldose reductase; sorbitol has high osmotic pull and damages the lens. Recent changes in visual acuity can suggest new-onset or worsening diabetes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 303,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=303"
+    },
+    "img": "/mehlman/figures/med-p303-01.jpg",
+    "imgAlt": "Source figure: cataract with clouded lens",
+    "guideline": {
+      "text": "A paper on polyol accumulation and diabetic cataract in transgenic mice is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC42302/"
+    }
+  },
+  {
+    "id": "s2med-2980",
+    "category": "IM Ophthal",
+    "q": "Cataracts in peds per p303?",
+    "a": "Seen in congenital rubella, congenital syphilis, and NF2.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 303,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=303"
+    },
+    "img": "/mehlman/figures/med-p303-01.jpg",
+    "imgAlt": "Source figure: cataract with clouded lens",
+    "guideline": {
+      "text": "A paper on infectious causes of congenital cataract is linked (title only); I did not verify NF2.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20424308/"
+    }
+  },
+  {
+    "id": "s2med-2981",
+    "category": "IM Ophthal",
+    "q": "Ocular melanoma per p303?",
+    "a": "Melanomas can grow from the conjunctiva and cornea; just be aware they exist.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 303,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=303"
+    },
+    "img": "/mehlman/figures/med-p303-02.jpg",
+    "imgAlt": "Source figure: pigmented lesion on the iris (melanoma)",
+    "guideline": {
+      "text": "A clinical review of conjunctival melanoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11429624/"
+    }
+  },
+  {
+    "id": "s2med-2982",
+    "category": "IM Ophthal",
+    "q": "Pterygium per p303?",
+    "a": "Non-cancerous overgrowth of non-keratinized stratified squamous epithelium growing from the conjunctiva. Crosses over the cornea. History of sun exposure is the major risk factor (figure on p304).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 303,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=303"
+    },
+    "guideline": {
+      "text": "A systematic review on pterygium and pinguecula is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7779691/"
+    }
+  },
+  {
+    "id": "s2med-2983",
+    "category": "IM Ophthal",
+    "q": "Pterygium figure per p304?",
+    "a": "The figure shows conjunctival tissue growing over the cornea (pterygium, from p303).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=304"
+    },
+    "img": "/mehlman/figures/med-p304-01.jpg",
+    "imgAlt": "Source figure: pterygium growing across the cornea",
+    "guideline": {
+      "text": "A systematic review on pterygium and pinguecula is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7779691/"
+    }
+  },
+  {
+    "id": "s2med-2984",
+    "category": "IM Ophthal",
+    "q": "Pinguecula per p304?",
+    "a": "Yellow-white benign lesion on the conjunctiva made of protein and fat. Does not cross over the cornea. Sunlight is the major risk factor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=304"
+    },
+    "img": "/mehlman/figures/med-p304-02.jpg",
+    "imgAlt": "Source figure: pinguecula on the conjunctiva",
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7779691/"
+    }
+  },
+  {
+    "id": "s2med-2985",
+    "category": "IM Ophthal",
+    "q": "Papilledema per p304?",
+    "a": "Means increased intracranial pressure on USMLE. Blurring of the optic disc margins due to inflammation of the optic nerve head in the setting of increased ICP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 304,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=304"
+    },
+    "img": "/mehlman/figures/med-p304-03.jpg",
+    "imgAlt": "Source figure: normal fundus beside papilledema with labeled disc swelling, hyperemia, peripapillary hemorrhage and venous engorgement",
+    "guideline": {
+      "text": "A review of papilledema and elevated ICP is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9187153/"
+    }
   }
 ];

@@ -1024,3 +1024,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p300 (iris abnormalities; figures) - 5 cards, ids s2med-2965 to 2969
 - WAGR/CHARGE "R" terms paraphrased from the outdated wording.
 - Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
+
+## p301 (peds ophthal DDx: orbital cellulitis, hordeolum; figures) - 3 cards, ids s2med-2970 to 2972
+- Top figure unlabeled; matched to the p300 Brushfield entry by page order.
+## p302 (chalazion, retinoblastoma, strabismus; figures) - 4 cards, ids s2med-2973 to 2976
+- Source calls strabismus "lazy eye" (usually amblyopia); noted.
+## p303 (strabismus/amblyopia, cataracts, melanoma, pterygium; figures) - 6 cards, ids s2med-2977 to 2982
+- NF2 cataract link not verified.
+## p304 (pterygium figure, pinguecula, papilledema; figures) - 3 cards, ids s2med-2983 to 2985
+- Mobile QA (320x740, local vite preview build, not live): all 16 cards ox=false off=false bad=0.
