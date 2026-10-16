@@ -44854,5 +44854,378 @@ export default [
       "text": "The MPS type II page is linked on the previous card.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK1274/"
     }
+  },
+  {
+    "id": "s2med-3345",
+    "category": "IM Gen Path",
+    "q": "APC gene per p338?",
+    "a": "Mutations cause familial adenomatous polyposis (FAP); chromosome 5; AD. Hundreds to thousands of polyps on colonoscopy; 100% cancer risk.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "A guideline paper on FAP is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11976741/"
+    }
+  },
+  {
+    "id": "s2med-3346",
+    "category": "IM Gen Path",
+    "q": "FAP management per p338?",
+    "a": "The answer on a 2CK form is total proctocolectomy in an 18-year-old (presumably since the cancer chance is 100% and conservative screening is too difficult).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card. I did not verify the source's reasoning.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11976741/"
+    }
+  },
+  {
+    "id": "s2med-3347",
+    "category": "IM Gen Path",
+    "q": "Gardner and Turcot per p338?",
+    "a": "FAP plus soft tissue tumors (e.g., lipoma) or bone tumors (e.g., of the skull) = Gardner syndrome. FAP plus CNS tumors = Turcot syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "A paper on FAP, Gardner and Turcot syndromes is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8593545/"
+    }
+  },
+  {
+    "id": "s2med-3348",
+    "category": "IM Gen Path",
+    "q": "BCL-2 per p338?",
+    "a": "Overexpressed in follicular lymphoma (the most common indolent non-Hodgkin lymphoma) via t(14;18). Codes for an anti-apoptotic molecule.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "A paper on detecting t(14;18) in follicular lymphoma is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18684042/"
+    }
+  },
+  {
+    "id": "s2med-3349",
+    "category": "IM Gen Path",
+    "q": "Follicular lymphoma presentation per p338?",
+    "a": "A waxing/waning painless lateral neck mass over 1-2 years in an adult. A research-type question where BCL-2 is overexpressed in some cells: expected result = increased lifespan of the cell population.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    }
+  },
+  {
+    "id": "s2med-3350",
+    "category": "IM Gen Path",
+    "q": "BCR-ABL per p338?",
+    "a": "High-yield for chronic myelogenous leukemia (CML). The t(9;22) translocation (Philadelphia chromosome) codes for a 'fusion protein', an oncogenic tyrosine kinase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "European LeukemiaNet recommendations for CML are linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10624636/"
+    }
+  },
+  {
+    "id": "s2med-3351",
+    "category": "IM Gen Path",
+    "q": "CML vignette per p338?",
+    "a": "CML is the answer for leukemia when the question gives lots of myelo-sounding cells (myelocytes, promyelocytes, metamyelocytes); 4 of 5 questions mentioning these are CML. Leukocyte ALP is low. The source calls the smear a 'motley mix' or 'soup', a buzzy NBME image.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "img": "/mehlman/figures/med-p338-01.jpg",
+    "imgAlt": "Source figure: CML blood smear with mixed myeloid cells"
+  },
+  {
+    "id": "s2med-3352",
+    "category": "IM Gen Path",
+    "q": "Imatinib per p338?",
+    "a": "Tx for CML. Targets the BCR-ABL tyrosine kinase. Can cause fluid retention / peripheral edema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "The CML recommendations are linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10624636/"
+    }
+  },
+  {
+    "id": "s2med-3353",
+    "category": "IM Gen Path",
+    "q": "BRAF per p338?",
+    "a": "Proto-oncogene seen in some melanomas. Codes for a serine-threonine kinase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "A review of BRAF mutations in melanoma is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10452867/"
+    }
+  },
+  {
+    "id": "s2med-3354",
+    "category": "IM Gen Path",
+    "q": "BRCA1/2 function per p338?",
+    "a": "Breast cancer tumor suppressor genes. NBME asks what the gene does: 'recombinational ds-DNA repair'. Can also lead to gynecologic cancers in females or breast/testicular cancers in males.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    }
+  },
+  {
+    "id": "s2med-3355",
+    "category": "IM Gen Path",
+    "q": "BRCA prophylaxis per p338?",
+    "a": "The source says the NBME answer for appropriate prophylaxis in a patient with a confirmed mutation is 'bilateral oophorectomy and mastectomy'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "A review of risk-reducing mastectomy in BRCA carriers is linked (title only). Caution: current guidance is individualized; the source answer is kept only as the exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961322/"
+    }
+  },
+  {
+    "id": "s2med-3356",
+    "category": "IM Gen Path",
+    "q": "c-KIT per p338?",
+    "a": "Proto-oncogene; can be mutated in some gastrointestinal stromal tumors (GIST).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    },
+    "guideline": {
+      "text": "A review of GIST mutations is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5506287/"
+    }
+  },
+  {
+    "id": "s2med-3357",
+    "category": "IM Gen Path",
+    "q": "c-MYC per p338?",
+    "a": "Overexpressed in Burkitt lymphoma (a type of NHL) via t(8;14). Codes for a transcription factor (continues on p339).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 338,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=338"
+    }
+  },
+  {
+    "id": "s2med-3358",
+    "category": "IM Gen Path",
+    "q": "Burkitt lymphoma per p339 (continued from p338)?",
+    "a": "A mass of the jaw or abdomen. Histology is buzzy for a 'starry sky' appearance: a basophilic (purple) background of B cells with scattered translucent macrophages.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "img": "/mehlman/figures/med-p339-01.jpg",
+    "imgAlt": "Source figure: Burkitt lymphoma starry sky histology",
+    "guideline": {
+      "text": "A paper on the starry-sky appearance is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4296877/"
+    }
+  },
+  {
+    "id": "s2med-3359",
+    "category": "IM Gen Path",
+    "q": "Tingible body macrophages per p339?",
+    "a": "The macrophages are called 'tingible body' macrophages (not tangible), where apoptosis occurs. On an NBME exam an arrow points to one of the macrophages and the answer is apoptosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    }
+  },
+  {
+    "id": "s2med-3360",
+    "category": "IM Gen Path",
+    "q": "EGFR per p339?",
+    "a": "Non-small cell lung cancer (adenocarcinoma) and glioblastoma multiforme. Codes for the EGFR tyrosine kinase. Erlotinib asked on USMLE: targets the EGFR tyrosine kinase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "A guide to erlotinib in EGFR-mutated NSCLC is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23334845/"
+    }
+  },
+  {
+    "id": "s2med-3361",
+    "category": "IM Gen Path",
+    "q": "HER2/neu per p339?",
+    "a": "Tyrosine kinase expressed in some breast cancers; positive = poor prognostic indicator. Trastuzumab (Herceptin) targets HER2/neu and can cause cardiotoxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "A review of cardiotoxicity of HER2-targeted therapy is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7313632/"
+    }
+  },
+  {
+    "id": "s2med-3362",
+    "category": "IM Gen Path",
+    "q": "JAK2 disorders per p339?",
+    "a": "Can be activated in polycythemia vera, essential thrombocytosis, and myelofibrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "A review of genetics in myeloproliferative neoplasms is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10646774/"
+    }
+  },
+  {
+    "id": "s2med-3363",
+    "category": "IM Gen Path",
+    "q": "Polycythemia vera per p339?",
+    "a": "USMLE wants increased proliferation of hematopoietic stem cells, not pluripotent stem cells. High RBCs PLUS high WBCs and/or platelets (2-3 lines high, RBCs always high). Generalized pruritus after showers from basophilia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card. I did not verify the stem-cell wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10646774/"
+    }
+  },
+  {
+    "id": "s2med-3364",
+    "category": "IM Gen Path",
+    "q": "PV hyperviscosity per p339?",
+    "a": "Hyperviscosity syndrome (blurry vision, headache, Raynaud) from high RBCs is treated with phlebotomy. Hydroxyurea can decrease recurrence of episodes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    }
+  },
+  {
+    "id": "s2med-3365",
+    "category": "IM Gen Path",
+    "q": "Essential thrombocytosis per p339?",
+    "a": "Platelets over a million (normal 150-450,000). Pain or discoloration in the fingertips, or hyperviscosity-type findings. Bone marrow shows increased megakaryocytic proliferation (not seen in reactive thrombocytosis, e.g., from infection).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    }
+  },
+  {
+    "id": "s2med-3366",
+    "category": "IM Gen Path",
+    "q": "Myelofibrosis per p339?",
+    "a": "Teardrop-shaped RBCs (dacrocytes) and/or a 'dry tap' on bone marrow aspiration. Massive splenomegaly in basically all questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    }
+  },
+  {
+    "id": "s2med-3367",
+    "category": "IM Gen Path",
+    "q": "KRAS per p339?",
+    "a": "Proto-oncogene; codes for a GTPase. The source says it is the answer for the first gene mutated in colonic polyps, before progression to overt cancer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "A paper on the order of mutations in tumorigenesis is linked (title only). Caution: the usual textbook sequence starts with APC; the source's KRAS-first answer is kept as the exam answer, not verified.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3465102/"
+    }
+  },
+  {
+    "id": "s2med-3368",
+    "category": "IM Gen Path",
+    "q": "Colon cancer mutation order per p339?",
+    "a": "Progressive mutations: first KRAS, then PTEN, then DCC, then TP53 (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card. I did not verify the order.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3465102/"
+    }
+  },
+  {
+    "id": "s2med-3369",
+    "category": "IM Gen Path",
+    "q": "Colon cancer genes on NBME per p339?",
+    "a": "If a colon cancer has metastasized and you must pick a mutated gene, go with TP53 (p53 protein). If a polyp is seen with no evidence of stalk invasion, choose KRAS (on an NBME exam).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    }
+  },
+  {
+    "id": "s2med-3370",
+    "category": "IM Gen Path",
+    "q": "MEN1 per p339?",
+    "a": "Mutations cause Multiple Endocrine Neoplasia type I. 3Ps: Pituitary tumor (e.g., prolactinoma), Parathyroid adenoma (or diffuse 4-gland hyperplasia), Pancreatic tumor (e.g., gastrinoma; Zollinger-Ellison). NBME questions need not give all findings; gastrinoma alone can ask for the gene: MEN1.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "A StatPearls page on MEN1 is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK481897/"
+    }
+  },
+  {
+    "id": "s2med-3371",
+    "category": "IM Gen Path",
+    "q": "MSH2/6 and MLH1 per p339?",
+    "a": "Hereditary non-polyposis colorectal cancer (HNPCC). Mismatch repair genes; mutations cause 'microsatellite instability' (PMS2 continues on p340).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 339,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=339"
+    },
+    "guideline": {
+      "text": "A paper on diagnosing Lynch syndrome is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7865821/"
+    }
   }
 ];

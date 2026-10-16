@@ -1162,3 +1162,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p337 (EDS end, collagen IV, lysosomal storage) - 12 cards, ids s2med-3333 to 3344
 - I-cell "secreted into cytosol + serum" wording flagged.
 - Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.
+
+## p338 (cancer genes APC to c-MYC) - 13 cards, ids s2med-3345 to 3357
+- FAP "100% risk" and proctocolectomy reasoning, CML "4/5" figure: source claims, noted as unverified.
+- BRCA prophylaxis kept as exam answer with caution.
+
+## p339 (Burkitt, EGFR, HER2, JAK2, KRAS, MEN1, Lynch start) - 14 cards, ids s2med-3358 to 3371
+- KRAS-first mutation order differs from usual APC-first sequence; caution added.
+- PV stem-cell wording unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 27 cards ox=false off=false bad=0.
