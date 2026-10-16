@@ -272,3 +272,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text (no figures).
 - Conflict: empyema pH <7.1 (source) vs <7.2 drainage threshold in guidelines; "hemothorax = malignant effusion" is the source's equivalence (not verified).
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p62 (IM Pulmonary: pulmonary edema, ARDS, TRALI, TACO) - 11 cards, ids s2med-0593 to 0603
+- Inspected page text (no figures).
+- Unverified: SP-D, TRALI/TACO paper texts; Berlin and ARDS guideline texts. Source's "PaO2/FiO2 <300" omits PEEP.
+
+## p63 (IM Pulmonary: TACO tail, pneumonia pearls) - 14 cards, ids s2med-0604 to 0617
+- Inspected page text (no figures).
+- Conflict: azithromycin empiric CAP vs 2019 ATS/IDSA regimens. Unverified: nasolacrimal explanation, catheter/Staph epidermidis claim, 6-hour cutoff.
+- Mobile QA (320x740, local vite preview build, not live): all 25 cards ox=false off=false bad=0.

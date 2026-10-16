@@ -7696,5 +7696,328 @@ export default [
       "text": "A review of malignant pleural effusion exists. Caution: malignant effusion and hemothorax are not the same entity; I did not verify this equivalence.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11293617/"
     }
+  },
+  {
+    "id": "s2med-0593",
+    "category": "IM Pulmonary",
+    "q": "Pulmonary edema on USMLE per p62?",
+    "a": "Left heart failure: transudation of fluid into the alveolar spaces from increased pulmonary capillary hydrostatic pressure from left heart pathology. Non-cardiac pulmonary edema (ARDS, TRALI) exists, but an isolated 'pulmonary edema' means cardiac. PCWP and LAP are both elevated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2med-0594",
+    "category": "IM Pulmonary",
+    "q": "Mechanism of dyspnea in MI with pulmonary edema per p62?",
+    "a": "'Increased alveolar-arteriolar oxygen gradient': the patient can breathe, so alveolar O2 is normal, but fluid impairs gas exchange, so arterial/arteriolar O2 is low.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2med-0595",
+    "category": "IM Pulmonary",
+    "q": "Cephalization per p62?",
+    "a": "'Cephalization of pulmonary vessels' is buzzy and synonymous with pulmonary edema on USMLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2med-0596",
+    "category": "IM Pulmonary",
+    "q": "ARDS triggers per p62?",
+    "a": "Bilateral exudative chest infiltrates and low O2 sats after: pancreatitis; aspiration of vomitus; near-drowning (fresh/sea water); NG tube inserted into the lungs with feeding started; toxic shock syndrome; trauma/sepsis. Pulmonary decompensation with pancreatitis is very buzzy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2med-0597",
+    "category": "IM Pulmonary",
+    "q": "ARDS in 2CK questions per p62?",
+    "a": "Toxic shock syndrome then 'most likely cause of death': ARDS. Near-drowning then 'what to monitor for': ARDS. ARDS is bilateral; it is a wrong answer for unilateral conditions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2med-0598",
+    "category": "IM Pulmonary",
+    "q": "ARDS definition per p62?",
+    "a": "Technically PaO2/FiO2 <300, but the source says it has never seen USMLE apply the ratio.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    },
+    "guideline": {
+      "text": "The Berlin definition is the reference (it also requires PEEP, timing and bilateral opacities); I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22797452/"
+    }
+  },
+  {
+    "id": "s2med-0599",
+    "category": "IM Pulmonary",
+    "q": "Ventilation in ARDS per p62?",
+    "a": "Prone positioning + low tidal volume + permissive hypercapnia (asked once on a 2CK form, the source recalls).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    },
+    "guideline": {
+      "text": "A 2024 ATS ARDS guideline update is available; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10870893/"
+    }
+  },
+  {
+    "id": "s2med-0600",
+    "category": "IM Pulmonary",
+    "q": "Surfactant protein D per p62?",
+    "a": "An offline NBME question: increased surfactant protein D in a patient recovering from ARDS; a marker of lung injury.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    },
+    "guideline": {
+      "text": "A paper on plasma SP-D as an ARDS biomarker exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29246207/"
+    }
+  },
+  {
+    "id": "s2med-0601",
+    "category": "IM Pulmonary",
+    "q": "TRALI per p62?",
+    "a": "ARDS-like presentation with bilateral crackles and low O2 sats less than 6 hours after a transfusion. Mechanism: abnormal priming of lung neutrophils that react to cytokines in transfused products. A non-cardiogenic pulmonary edema.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    },
+    "guideline": {
+      "text": "A consensus redefinition of TRALI exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6850655/"
+    }
+  },
+  {
+    "id": "s2med-0602",
+    "category": "IM Pulmonary",
+    "q": "TACO per p62?",
+    "a": "Transfusion-induced hypervolemia; a cardiogenic pulmonary edema (the left heart cannot handle the extra volume, so transudation into alveoli). Presents two ways: 1) history of heart failure or MI with respiratory distress after repeated blood products; 2) no cardiovascular history and a TRALI-like vignette more than 6 hours after transfusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2med-0603",
+    "category": "IM Pulmonary",
+    "q": "TACO example question per p62?",
+    "a": "A 72-year-old with MI ten years ago gets shortness of breath and bilateral crackles 30 minutes after crystalloid and 4 packs of RBCs: TACO (the stem does not give the crystalloid volume).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 62,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=62"
+    },
+    "guideline": {
+      "text": "A paper on differentiating TACO from TRALI exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16617253/"
+    }
+  },
+  {
+    "id": "s2med-0604",
+    "category": "IM Pulmonary",
+    "q": "Older TACO question per p63?",
+    "a": "A 2CK form: an elderly man with only 3 packs of RBCs develops bilateral crackles and low O2 sats 12 hours after admission (not <6 hours); answer is 'X-ray of the chest' as next best step. The explanation says it is TACO.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2med-0605",
+    "category": "IM Pulmonary",
+    "q": "TRALI vs TACO summary per p63?",
+    "a": "ARDS-like picture after transfusion: <6 hours = TRALI; >6 hours = TACO; heart disease = TACO regardless of time frame.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "TRALI consensus redefinition and a differentiation paper exist (see p62); I did not verify the 6-hour cutoff text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6850655/"
+    }
+  },
+  {
+    "id": "s2med-0606",
+    "category": "IM Pulmonary",
+    "q": "Lobar pneumonia on USMLE per p63?",
+    "a": "Strep pneumoniae (right lower lobe consolidation with dullness to percussion). In AIDS, lobar pneumonia is still Strep pneumo, not PJP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2med-0607",
+    "category": "IM Pulmonary",
+    "q": "Bilateral interstitial (atypical) pneumonia per p63?",
+    "a": "In immunocompetent patients: Mycoplasma. If lobar pneumonia says 'interstitial markings' and Strep pneumo is not listed: Mycoplasma ('interstitial' wins over location). In AIDS: bilateral interstitial/ground-glass = Pneumocystis jirovecii.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2med-0608",
+    "category": "IM Pulmonary",
+    "q": "Pneumonia after influenza per p63?",
+    "a": "S. aureus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "A review of secondary S. aureus pneumonia after influenza exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6057542/"
+    }
+  },
+  {
+    "id": "s2med-0609",
+    "category": "IM Pulmonary",
+    "q": "Pneumonia + hemolysis per p63?",
+    "a": "Bilateral pneumonia with low Hb or a positive Coombs test: Mycoplasma, which can cause cold agglutinins (IgM against RBCs, hemolysis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "A review of cold agglutinin-mediated hemolytic anemia exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7154122/"
+    }
+  },
+  {
+    "id": "s2med-0610",
+    "category": "IM Pulmonary",
+    "q": "Legionella clues per p63?",
+    "a": "Pneumonia + hyponatremia and/or diarrhea; pneumonia + business conference or residential home (implies air conditioners).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "StatPearls on Legionnaires disease is a reference.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430807/"
+    }
+  },
+  {
+    "id": "s2med-0611",
+    "category": "IM Pulmonary",
+    "q": "Neonatal chlamydial pneumonia per p63?",
+    "a": "A 3-week-old with conjunctivitis 1-2 weeks ago: Chlamydia trachomatis (drains through the nasolacrimal duct to the lungs, per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "CDC STI guidelines are a reference; I did not verify the nasolacrimal explanation.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2med-0612",
+    "category": "IM Pulmonary",
+    "q": "Newborn pneumonia in the first days per p63?",
+    "a": "Group B Strep (S. agalactiae), gram-positive cocci. Gram-positive rods = Listeria; gram-negative rods = E. coli.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "A review on neonatal bacterial sepsis is available; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11435811/"
+    }
+  },
+  {
+    "id": "s2med-0613",
+    "category": "IM Pulmonary",
+    "q": "Exposure clues for pneumonia per p63?",
+    "a": "Rabbits: Francisella. Bird keeper: Chlamydia psittaci. Southwest US and/or earthquake dust: Coccidioides.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2med-0614",
+    "category": "IM Pulmonary",
+    "q": "Special pneumonia settings per p63?",
+    "a": "Lung cancer patients: obstructive pneumonias. CF: Pseudomonas or S. aureus. Central venous catheter with a right upper lobe lesion: Staph epidermidis (NBME; catheters = biofilms).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2med-0615",
+    "category": "IM Pulmonary",
+    "q": "Pneumonia exam findings per p63?",
+    "a": "Abnormal (adventitious/bronchial) breath sounds + increased tactile fremitus (air vibrates through infective consolidation within alveoli).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2med-0616",
+    "category": "IM Pulmonary",
+    "q": "Empiric CAP therapy on 2CK per p63?",
+    "a": "Azithromycin (NBME), covering atypicals (Mycoplasma, Legionella, Chlamydia) and S. pneumo. If antibiotics in the past 3 months or severe lung disease: levofloxacin (respiratory fluoroquinolone) first-line.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    },
+    "guideline": {
+      "text": "The 2019 ATS/IDSA CAP guideline is the current reference; it recommends different regimens by outpatient comorbidity and inpatient severity (e.g., amoxicillin or doxycycline for healthy outpatients, beta-lactam + macrolide for inpatients), and macrolide monotherapy only conditionally. I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6812437/"
+    }
+  },
+  {
+    "id": "s2med-0617",
+    "category": "IM Pulmonary",
+    "q": "CAP with sepsis or septic shock per p63?",
+    "a": "Ceftriaxone (if listed, choose cefotaxime for pediatrics).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 63,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=63"
+    }
   }
 ];
