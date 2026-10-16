@@ -21012,5 +21012,232 @@ export default [
       "page": 170,
       "url": "/mehlman/hy-internal-medicine.pdf#page=170"
     }
+  },
+  {
+    "id": "s2med-1589",
+    "category": "IM Heme/Onc",
+    "q": "High MCV with normal B9/B12 per p171?",
+    "a": "Alcohol: an important cause of high MCV on USMLE with normal B9/B12.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=171"
+    },
+    "guideline": {
+      "text": "A paper on macrocytosis from alcohol abuse is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1755522/"
+    }
+  },
+  {
+    "id": "s2med-1590",
+    "category": "IM Heme/Onc",
+    "q": "Other anemia from alcohol per p171?",
+    "a": "Sideroblastic anemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=171"
+    },
+    "guideline": {
+      "text": "A paper on blood findings in chronic alcoholics, including acquired sideroblastic anemia, is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7326746/"
+    }
+  },
+  {
+    "id": "s2med-1591",
+    "category": "IM Heme/Onc",
+    "q": "Orotic aciduria per p171?",
+    "a": "Obscure condition with impaired DNA synthesis, increasing MCV; can be caused by various enzyme deficiencies. The source says it maybe shows up in one NBME question ever; be peripherally aware it's a rare cause of high MCV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=171"
+    },
+    "guideline": {
+      "text": "A paper on hereditary orotic aciduria (UMPS mutation) is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7807243/"
+    }
+  },
+  {
+    "id": "s2med-1592",
+    "category": "IM Heme/Onc",
+    "q": "Leflunomide and orotic aciduria per p171?",
+    "a": "Leflunomide (used for rheumatoid arthritis) inhibits dihydroorotate dehydrogenase, which the source says is one of the enzymes deficient in orotic aciduria.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=171"
+    },
+    "guideline": {
+      "text": "Conflict: the linked paper ties hereditary orotic aciduria to a UMPS mutation; I did not verify the source's statement about dihydroorotate dehydrogenase. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7807243/"
+    }
+  },
+  {
+    "id": "s2med-1593",
+    "category": "IM Heme/Onc",
+    "q": "Hypersegmented neutrophil image per p171?",
+    "a": "A neutrophil with an increased number of nuclear lobes and segments: B9/B12 deficiency (megaloblastic anemia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=171"
+    },
+    "img": "/mehlman/figures/med-p171-01.jpg",
+    "imgAlt": "Blood smear with a hypersegmented neutrophil"
+  },
+  {
+    "id": "s2med-1594",
+    "category": "IM Heme/Onc",
+    "q": "Heme synthesis pathway overview per p171?",
+    "a": "Succinyl-CoA + glycine (B6) via delta-ALA synthase to delta-ALA; ALA dehydratase to porphobilinogen; porphobilinogen deaminase to hydroxymethylbilane; uroporphyrinogen III; uroporphyrinogen decarboxylase to coproporphyrinogen III; protoporphyrin; ferrochelatase adds Fe2+ to form heme. Blocks: sideroblastic anemia (ALA synthase), lead (ALA dehydratase and ferrochelatase), AIP (porphobilinogen deaminase), porphyria cutanea tarda (uroporphyrinogen decarboxylase).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 171,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=171"
+    },
+    "img": "/mehlman/figures/med-p171-02.jpg",
+    "imgAlt": "Heme synthesis pathway with enzyme blocks for sideroblastic anemia, lead poisoning, AIP and porphyria cutanea tarda"
+  },
+  {
+    "id": "s2med-1595",
+    "category": "IM Heme/Onc",
+    "q": "Sideroblastic anemia: the defect per p172?",
+    "a": "Impaired first step of heme synthesis (succinyl-CoA + glycine, with B6 and delta-ALA synthase, to delta-ALA) due to deficiency or impairment of delta-ALA synthase.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "A review of sideroblastic anemia is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7524202/"
+    }
+  },
+  {
+    "id": "s2med-1596",
+    "category": "IM Heme/Onc",
+    "q": "Sideroblastic anemia causes per p172?",
+    "a": "Can be X-linked recessive, but also caused by alcohol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2med-1597",
+    "category": "IM Heme/Onc",
+    "q": "Ringed sideroblasts per p172?",
+    "a": "Erythroblasts where iron accumulates in mitochondria, which form a ring around the nucleus (failure to incorporate iron into heme).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    },
+    "img": "/mehlman/figures/med-p172-01.jpg",
+    "imgAlt": "Prussian blue stain with iron granules ringing erythroblast nuclei"
+  },
+  {
+    "id": "s2med-1598",
+    "category": "IM Heme/Onc",
+    "q": "Prussian blue stain per p172?",
+    "a": "Stains the iron-laden cells blue: a very buzzy, pass-level image for sideroblastic anemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2med-1599",
+    "category": "IM Heme/Onc",
+    "q": "Lead poisoning: enzymes per p172?",
+    "a": "Lead inhibits both delta-ALA dehydratase and ferrochelatase, causing a buildup of delta-ALA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "A review of lead toxicity is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485653/"
+    }
+  },
+  {
+    "id": "s2med-1600",
+    "category": "IM Heme/Onc",
+    "q": "Lead poisoning vignettes per p172?",
+    "a": "2-year-old eating paint chips in an old house with mental deterioration is only about 1/3 of lead questions. The other 2/3: adult with microcytic anemia and mental decline; buzzy hobbies include hunting (lead bullets) and home-brewing alcohol (lead casks).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2med-1601",
+    "category": "IM Heme/Onc",
+    "q": "RBC finding in lead poisoning per p172?",
+    "a": "Basophilic stippling (rRNA precipitates).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    },
+    "img": "/mehlman/figures/med-p172-02.jpg",
+    "imgAlt": "Blood smear with basophilic stippling in red cells"
+  },
+  {
+    "id": "s2med-1602",
+    "category": "IM Heme/Onc",
+    "q": "Lead poisoning treatment per p172?",
+    "a": "Calcium EDTA, dimercaprol, or succimer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "The lead toxicity review is linked; I did not verify its treatment details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485653/"
+    }
+  },
+  {
+    "id": "s2med-1603",
+    "category": "IM Heme/Onc",
+    "q": "Acute intermittent porphyria (AIP): inheritance per p172?",
+    "a": "Autosomal dominant (asked straight-up on an offline NBME somewhere).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    },
+    "guideline": {
+      "text": "StatPearls on AIP is linked; I did not verify the text.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK547665/"
+    }
+  },
+  {
+    "id": "s2med-1604",
+    "category": "IM Heme/Onc",
+    "q": "AIP enzyme per p172?",
+    "a": "Deficiency of porphobilinogen deaminase (asked on NBME); buildup of porphobilinogen and delta-ALA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    }
+  },
+  {
+    "id": "s2med-1605",
+    "category": "IM Heme/Onc",
+    "q": "Red/pink/port-wine urine with abdominal pain per p172?",
+    "a": "AIP, the heme synthesis disorder answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 172,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=172"
+    }
   }
 ];

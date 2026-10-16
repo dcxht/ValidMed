@@ -685,3 +685,8 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p170 (bite/Heinz, PK deficiency, macrocytosis) - 7 cards, ids s2med-1582 to 1588
 - Unverified: acanthocyte question-frequency claims (3 of 4).
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p171 (alcohol macrocytosis, orotic aciduria, heme pathway) - 6 cards, ids s2med-1589 to 1594
+## p172 (sideroblastic anemia, lead, AIP) - 11 cards, ids s2med-1595 to 1605
+- Unverified: orotic aciduria/leflunomide enzyme claim (linked paper names UMPS), lead vignette 1/3-2/3 split.
+- Mobile QA (320x740, local vite preview build, not live): all 17 cards ox=false off=false bad=0.
