@@ -944,3 +944,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p269 (tumors cont., tics, seizure terminology) - 15 cards, ids s2med-2649 to 2663
 - Ependymoma Rosenthal fibers flagged. Clozapine for tics flagged. Absence seizures listed as focal by source (ILAE: generalized): flagged. TD as tic disorder flagged.
 - Mobile QA (320x740, local vite preview build, not live): all 30 cards ox=false off=false bad=0.
+
+## p270 (seizure types, epilepsy syndromes) - 15 cards, ids s2med-2664 to 2678
+- Status epilepticus second-line agents flagged. West syndrome "X-linked recessive" flagged. NBME claims unverified.
+## p271 (seizure mimics, peds neuro) - 12 cards, ids s2med-2679 to 2690
+- Adams-Stokes pediatric framing, FAS "most common cause"/neural crest claims unverified; outdated term paraphrased.
+- Mobile QA (320x740, local vite preview build, not live): all 27 cards ox=false off=false bad=0.

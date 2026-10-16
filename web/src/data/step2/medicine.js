@@ -35167,5 +35167,398 @@ export default [
       "page": 269,
       "url": "/mehlman/hy-internal-medicine.pdf#page=269"
     }
+  },
+  {
+    "id": "s2med-2664",
+    "category": "IM Neuro",
+    "q": "Tonic-clonic seizure per p270?",
+    "a": "Aka 'grand mal'; a generalized seizure with two phases. Tonic: lasts a few seconds; muscles stiffen and the patient falls and loses consciousness. Clonic: rhythmic jerking of the limbs, usually several minutes. In the postictal phase the patient may be confused, drowsy, with no recollection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A review of idiopathic generalised epilepsies is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK2608/"
+    }
+  },
+  {
+    "id": "s2med-2665",
+    "category": "IM Neuro",
+    "q": "Tongue biting after a seizure per p270?",
+    "a": "Tongue biting/lacerations are a high-yield post-seizure finding. If the question explicitly says the tongue is normal, they are telling you it is not a seizure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A paper on the value of tongue biting in diagnosing seizures is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7487261/"
+    }
+  },
+  {
+    "id": "s2med-2666",
+    "category": "IM Neuro",
+    "q": "Tonic-clonic seizure: treatment per p270?",
+    "a": "For recurrent seizures: valproic acid, carbamazepine, phenytoin (the source discusses them in its pharm section).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2med-2667",
+    "category": "IM Neuro",
+    "q": "Focal signs before a tonic-clonic seizure per p270?",
+    "a": "A difficult NBME question: twitching of one arm before falling and having a tonic-clonic seizure. The NBME answer is 'complex partial' (FOIAS with secondary generalization), not generalized tonic-clonic. Focal neurologic signs before a tonic-clonic seizure indicate origin in one location that then spreads.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A paper on focal to bilateral tonic-clonic seizures is linked (title only); I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8600951/"
+    }
+  },
+  {
+    "id": "s2med-2668",
+    "category": "IM Neuro",
+    "q": "Status epilepticus: definition per p270?",
+    "a": "The updated definition is a seizure lasting >5 minutes, or 2 seizures within 5 minutes. It used to be >30 minutes, or 2 seizures within 30 minutes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A guidance paper on adult status epilepticus is linked (title only); I did not verify the definition wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12062632/"
+    }
+  },
+  {
+    "id": "s2med-2669",
+    "category": "IM Neuro",
+    "q": "Status epilepticus: treatment per p270?",
+    "a": "First-line is a benzo (IV lorazepam is usually first-line, but the source says USMLE does not care which). If a benzo does not work, phenytoin (or fosphenytoin) is next, followed by barbiturates: benzo, then phenytoin, then barbiturate (for example phenobarbital).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "The same guidance is linked on the previous card; current second-line options may include other agents (for example levetiracetam or valproate), which I did not verify. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12062632/"
+    }
+  },
+  {
+    "id": "s2med-2670",
+    "category": "IM Neuro",
+    "q": "Myoclonic seizure per p270?",
+    "a": "A generalized seizure causing muscle jerks lasting less than a second; a succession of jerks can occur over a short period. No loss of consciousness. Can resemble a simple partial seizure even though EEG shows generalized activity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "The idiopathic generalised epilepsies review is linked above.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK2608/"
+    }
+  },
+  {
+    "id": "s2med-2671",
+    "category": "IM Neuro",
+    "q": "Febrile seizure per p270?",
+    "a": "Fever can precipitate an idiopathic seizure in 2-4% of children ages 6 months to 5 years. About a two-fold risk of progression to epilepsy compared with the general population. Tx is with a benzodiazepine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A paper on best practices for febrile seizures is linked (title only); I did not verify the percentages or the benzodiazepine Tx.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11089695/"
+    }
+  },
+  {
+    "id": "s2med-2672",
+    "category": "IM Neuro",
+    "q": "Febrile seizure: higher-risk features per p270?",
+    "a": "Febrile seizures lasting longer than 10 minutes, recurring within 24 hours, or with focal neurologic signs more significantly raise the risk of progression to epilepsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11089695/"
+    }
+  },
+  {
+    "id": "s2med-2673",
+    "category": "IM Neuro",
+    "q": "Absence seizure per p270?",
+    "a": "A kid staring off into space in class for about 30 seconds, sometimes with rapid blinking. The source considers this loss of consciousness. EEG shows symmetric 3-Hz spike-and-wave discharges. Tx is ethosuximide (thalamic calcium channel blocker).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A paper on childhood absence epilepsy treatment is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8705546/"
+    }
+  },
+  {
+    "id": "s2med-2674",
+    "category": "IM Neuro",
+    "q": "Temporal lobe epilepsy per p270?",
+    "a": "Most common epilepsy disorder; originates at the medial temporal lobe. Seizures are often preceded by auras (gustatory/olfactory sensations or deja vu). FOIAS are the most common type, with or without secondary generalization.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A paper on temporal lobe epilepsy semiology is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23649108/"
+    }
+  },
+  {
+    "id": "s2med-2675",
+    "category": "IM Neuro",
+    "q": "Seizure origin without preceding signs per p270?",
+    "a": "For USMLE, pick 'medial temporal lobe' (or 'temporal lobe') if asked for the origin of a seizure with no preceding neurologic findings.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2med-2676",
+    "category": "IM Neuro",
+    "q": "West syndrome per p270?",
+    "a": "Aka infantile spasms; the source says X-linked recessive. Epilepsy syndrome in infants characterized by spasms. Causes an abnormal chaotic EEG pattern called hypsarrhythmia. Leads to intellectual disability.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "Caution: I did not verify the 'X-linked recessive' label (West syndrome has many causes). A German guideline on infantile spasm treatment is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9643068/"
+    }
+  },
+  {
+    "id": "s2med-2677",
+    "category": "IM Neuro",
+    "q": "West syndrome: treatment per p270?",
+    "a": "ACTH (the source says obscure, apparently by raising endogenous cortisol, which can mitigate progression).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "The same guideline is linked on the previous card; I did not verify the mechanism wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9643068/"
+    }
+  },
+  {
+    "id": "s2med-2678",
+    "category": "IM Neuro",
+    "q": "Lennox-Gastaut syndrome per p270?",
+    "a": "Severe childhood-onset epilepsy with near-daily seizures and cognitive decline (hyperoralism is a sign of cognitive regression: babies put things in their mouths). Continued on p271.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 270,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=270"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Lennox-Gastaut is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532965/"
+    }
+  },
+  {
+    "id": "s2med-2679",
+    "category": "IM Neuro",
+    "q": "Lennox-Gastaut prognosis per p271 (continued)?",
+    "a": "Poor prognosis, with 5% mortality in childhood; 80-90% persistence of seizures into adulthood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "The StatPearls page is linked on the p270 card; I did not verify the figures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532965/"
+    }
+  },
+  {
+    "id": "s2med-2680",
+    "category": "IM Neuro",
+    "q": "Juvenile myoclonic epilepsy per p271?",
+    "a": "Myoclonic jerks (usually hypnagogic and/or hypnopompic) that progress to tonic-clonic seizures after several months. Onset usually age 10-16 but can also start in adulthood. Tx is valproic acid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A review of antiseizure therapy in idiopathic generalised epilepsies including JME is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK581157/?report=reader"
+    }
+  },
+  {
+    "id": "s2med-2681",
+    "category": "IM Neuro",
+    "q": "Adams-Stokes attack per p271?",
+    "a": "An idiopathic arrhythmia disorder in peds that causes transient hypoxia to the brainstem, resulting in seizure-like episodes. EEG does not show seizure activity. A question gives a kid with a miscellaneous arrhythmia description plus twitching that sounds like a seizure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2med-2682",
+    "category": "IM Neuro",
+    "q": "Breath-holding spell per p271?",
+    "a": "A child involuntarily stops breathing after a trigger (being upset, frightened, or in pain), for example a 3-year-old having a tantrum, falling on the floor and appearing blue. The child often cries, exhales forcefully, stops breathing, then develops cyanosis, sometimes followed by brief loss of consciousness and jerking (can be mistaken for seizure). Shows up on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A paper on breath-holding spells in infants is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4325862/"
+    }
+  },
+  {
+    "id": "s2med-2683",
+    "category": "IM Neuro",
+    "q": "Syncope mistaken for seizure per p271?",
+    "a": "Syncope in the elderly (for example from aortic stenosis or atrial fibrillation) can cause muscle twitching with fainting, resembling a seizure. The muscular activity is due to brain hypoxia, similar to an Adams-Stokes attack. Shows up on an NBME form as an elderly patient with cardiovascular history. The vignette might say there is no tongue biting (meaning not a seizure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A paper on tongue biting in seizures versus syncope is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22770819/"
+    }
+  },
+  {
+    "id": "s2med-2684",
+    "category": "IM Neuro",
+    "q": "Spinal muscular atrophy per p271?",
+    "a": "Aka Werdnig-Hoffman syndrome. Genetic disorder affecting the anterior horns. Presents with profound hypotonia, absent reflexes, and tongue fasciculations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A case report of tongue fasciculations in infant SMA type 1 is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4614651/"
+    }
+  },
+  {
+    "id": "s2med-2685",
+    "category": "IM Neuro",
+    "q": "Cerebral palsy per p271?",
+    "a": "Motor dysfunction and intellectual disability of varying severity, posited to be due to intrapartum conditions such as hypoxia. Shows up on USMLE as spastic paraparesis in a child with 'scissoring' of the legs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A review of cerebral palsy is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC9619297/"
+    }
+  },
+  {
+    "id": "s2med-2686",
+    "category": "IM Neuro",
+    "q": "Chiari 1 per p271?",
+    "a": "Downward displacement of the cerebellar tonsils into the foramen magnum. Usually a teenager or young adult. Presents with headaches and neck pain, but can also be asymptomatic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A review of Chiari malformation type I is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12888059/"
+    }
+  },
+  {
+    "id": "s2med-2687",
+    "category": "IM Neuro",
+    "q": "Chiari 2 per p271?",
+    "a": "Herniation of both the cerebellum and brainstem through the foramen magnum; commonly associated with meningomyelocele. Presents as a child with dysphagia and motor dysfunction.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Chiari type 2 is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557498/"
+    }
+  },
+  {
+    "id": "s2med-2688",
+    "category": "IM Neuro",
+    "q": "Dandy-Walker per p271?",
+    "a": "Absent cerebellar vermis plus cystic dilation of the 4th ventricle.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "An updated review of Dandy-Walker syndrome is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12125060/"
+    }
+  },
+  {
+    "id": "s2med-2689",
+    "category": "IM Neuro",
+    "q": "Fetal alcohol syndrome: significance per p271?",
+    "a": "The source says it is the most common cause of intellectual disability (its printed phrase uses an outdated term). Heart/lung defects (defective neural crest migration).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "A paper on fetal alcohol spectrum disorders is linked; I did not verify the 'most common cause' claim or the neural crest mechanism.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8885297/"
+    }
+  },
+  {
+    "id": "s2med-2690",
+    "category": "IM Neuro",
+    "q": "Fetal alcohol syndrome: facial features per p271?",
+    "a": "Smooth, flat, and/or elongated philtrum; thin vermilion border (thin upper lip); widely spaced eyes (hypertelorism), midface hypoplasia, short nose.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 271,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=271"
+    },
+    "guideline": {
+      "text": "The same paper is linked on the previous card; I did not verify the feature list.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8885297/"
+    }
   }
 ];
