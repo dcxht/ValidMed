@@ -33531,5 +33531,136 @@ export default [
       "page": 157,
       "url": "/mehlman/hy-pediatrics.pdf#page=157"
     }
+  },
+  {
+    "id": "s2peds-2357",
+    "category": "Peds vignettes",
+    "q": "12-month-old female with sickle cell disease, a missed dose of penicillin prophylaxis, now septic. Which antibiotic per p158?",
+    "a": "Cefotaxime. The wrong answers are penicillin and ceftriaxone.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "Current caution: a sickle cell infection review lists third-generation cephalosporins (ceftriaxone or cefotaxime) as appropriate for the likely organisms, so ceftriaxone is not wrong in practice. Source answer kept as the exam pattern.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7044152/"
+    }
+  },
+  {
+    "id": "s2peds-2358",
+    "category": "Peds vignettes",
+    "q": "Neonate with good APGARs, at 3-10 days BP 60/35 in the arms and unobtainable in the legs, SpO2 98 (printed \"mmHg\") but dusky nails, 3/6 holosystolic murmur at the left sternal border. What is responsible per p158?",
+    "a": "\"Closure of the ductus arteriosus.\" Diagnosis is preductal coarctation (the type seen in neonates).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "StatPearls: in neonates, lower body blood flow depends on blood through the patent ductus arteriosus; coarctation is typically near the ductus arteriosus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430913/"
+    }
+  },
+  {
+    "id": "s2peds-2359",
+    "category": "Peds vignettes",
+    "q": "What else goes with coarctation and dusky nailbeds per p158?",
+    "a": "CoA can be associated with tricuspid regurgitation and other cardiac abnormalities. Dusky nailbeds do not equate to cyanosis if O2 sats are normal.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "StatPearls: coarctation is associated with a bicuspid aortic valve (45-75%), Shone complex and interrupted aortic arch. I did not verify tricuspid regurgitation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430913/"
+    }
+  },
+  {
+    "id": "s2peds-2360",
+    "category": "Peds vignettes",
+    "q": "7-day-old, not cyanotic, 4/6 holosystolic murmur at the left sternal border, murmur absent or soft at birth. What best explains it per p158?",
+    "a": "Decreased pulmonary vascular resistance. This is a VSD with a left-to-right shunt. Pulmonary vessels open up over the first week as the ductus closes, lowering right-heart pressure, which creates a favorable L to R gradient so the murmur becomes salient. No cyanosis means no R to L shunt, and Eisenmenger would not occur until much later.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "StatPearls: VSD severity depends on defect size and pulmonary vascular resistance; the murmur is pansystolic and best heard at the left lower sternal border.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470330/"
+    }
+  },
+  {
+    "id": "s2peds-2361",
+    "category": "Peds vignettes",
+    "q": "5-day-old, not cyanotic, 3/6 holosystolic murmur at the left sternal border, murmur absent or soft at birth. What explains the finding at birth per p158?",
+    "a": "Increased pulmonary vascular resistance: the lungs had not yet opened up, so the VSD L to R gradient was not yet conducive to a loud murmur. The Peds shelf asks both versions (increased vs decreased pulmonary vascular resistance as answers).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    }
+  },
+  {
+    "id": "s2peds-2362",
+    "category": "Peds vignettes",
+    "q": "14F with Down syndrome, polycythemia, moderate cyanosis, clubbing, no murmur but loud S2, echo with large VSD and dilated main pulmonary artery. Mechanism for the polycythemia per p158?",
+    "a": "Pulmonary artery hypertension (Peds NBME). Diagnosis is Eisenmenger syndrome: a large VSD with reversal to R to L shunting. Large VSDs may present without a murmur.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "StatPearls: Eisenmenger develops in about 10-15% of VSD; chronic hypoxemia increases red cell volume (polycythemia); digital clubbing is common.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507800/"
+    }
+  },
+  {
+    "id": "s2peds-2363",
+    "category": "Peds vignettes",
+    "q": "How does the Eisenmenger mechanism cause polycythemia per p158?",
+    "a": "Pulmonary vessels constrict to compensate for the high preload from the earlier L to R VSD shunt. The constriction leads to hypoxia and secondary polycythemia with high EPO.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "StatPearls: increased red blood cell volume from chronic hypoxemia. I did not verify the EPO wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507800/"
+    }
+  },
+  {
+    "id": "s2peds-2364",
+    "category": "Peds vignettes",
+    "q": "Which cardiac defect does Down syndrome favor per p158?",
+    "a": "Endocardial cushion defects (AVSD > VSD > ASD; Step 1).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "Review: in a Down syndrome series the most common lesion was AVSD (29%) followed by VSD.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5370349/"
+    }
+  },
+  {
+    "id": "s2peds-2365",
+    "category": "Peds vignettes",
+    "q": "Neonate with pulmonary valvular stenosis. Diagnosis per p158?",
+    "a": "Noonan syndrome, the second most common syndrome associated with congenital heart disease after Down.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 158,
+      "url": "/mehlman/hy-pediatrics.pdf#page=158"
+    },
+    "guideline": {
+      "text": "StatPearls: the most consistent features are wide-set eyes, low-set ears, short stature and pulmonic stenosis. I did not verify the 'second most common after Down' claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532269/"
+    }
   }
 ];

@@ -801,3 +801,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: thalassemia "low RDW" (both have high RDW-CV, IDA higher); tinea capitis called "cradle cap" (not supported in StatPearls).
 - Left unverified: 4-7x female lingual thyroid, 24 oz milk threshold, selenium agent, mesenteric adenitis in HSP, penicillin prophylaxis agent, cefotaxime-over-ceftriaxone rule under 6 years.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p158 (Bullet points: SCD sepsis, coarctation, VSD and pulmonary resistance, Eisenmenger, Noonan) - 9 cards, ids s2peds-2357 to 2365
+- Inspected page text and layout; no figures. Source typo "O2 sats 98 mmHg" kept and flagged in the question text.
+- Notes verified against StatPearls (Coarctation, VSD, Eisenmenger, Noonan), a sickle cell infection review and a Down syndrome CHD review.
+- Source conflict, source answer kept with caution note: ceftriaxone listed as a wrong answer for SCD sepsis (cephalosporins are guideline-listed).
+- Left unverified: tricuspid regurgitation with CoA, Eisenmenger EPO wording, pulmonary resistance timing explanation, "Noonan second most common CHD syndrome after Down".
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
