@@ -492,3 +492,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figures med-p110-01/02 inspected; p110-01 placement ambiguous (neutral alt).
 - Conflict: SCC risk factors (burns/chemicals/achalasia called nonsense by source) vs literature.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p111 (IM Gastro: Zenker, achalasia, scleroderma, perforation) - 10 cards, ids s2med-1005 to 1014
+- Figure med-p111-01 inspected (barium swallow, achalasia).
+- Conflict: achalasia treatment order and Zenker diverticulectomy are source exam answers; current guidelines list more options (unverified details).
+
+## p112 (IM Gastro: Mallory-Weiss, varices) - 8 cards, ids s2med-1015 to 1022
+- Figures inspected; p112-01 endoscopy image placement ambiguous (neutral alt). Page ends mid-bullet (IV fluids in hypotensive variceal bleed), carried to p113.
+- Unverified: ~50% variceal mortality.
+- Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.

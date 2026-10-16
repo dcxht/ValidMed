@@ -13320,5 +13320,257 @@ export default [
       "text": "A paper on pharyngeal pressure abnormalities in Zenker's diverticulum exists; I did not verify its text.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK499996/"
     }
+  },
+  {
+    "id": "s2med-1005",
+    "category": "IM Gastro",
+    "q": "Zenker diverticulum wall type and presentation per p111?",
+    "a": "False diverticulum (only mucosa + submucosa; true diverticula such as Meckel include the muscular layer). Often an overweight male over 40-50 with gurgling sounds when swallowing, or regurgitation of undigested food. Halitosis is buzzy but only mentioned in maybe 1/3 of questions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "StatPearls on Zenker diverticulum is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499996/"
+    }
+  },
+  {
+    "id": "s2med-1006",
+    "category": "IM Gastro",
+    "q": "Zenker diagnosis and 2CK/NBME treatment per p111?",
+    "a": "Diagnosis: barium swallow. Treatment on 2CK/NBME: diverticulectomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "I did not verify current treatment preferences (endoscopic approaches exist in the literature); the source answer stays for the exam.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499996/"
+    }
+  },
+  {
+    "id": "s2med-1007",
+    "category": "IM Gastro",
+    "q": "Achalasia pathophysiology per p111?",
+    "a": "Increased LES tone from loss of NO-secreting neurons in the Auerbach (myenteric) plexus. New NBME wants 'enteric ganglia' as the site. Can be described as 'dilated esophagus with constriction of the gastroesophageal junction.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "The ACG achalasia guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9896940/"
+    }
+  },
+  {
+    "id": "s2med-1008",
+    "category": "IM Gastro",
+    "q": "Achalasia vs cancer dysphagia pattern per p111?",
+    "a": "Achalasia: dysphagia to both solids and liquids from the start (neurogenic causes give solids + liquids). Cancer: new-onset dysphagia to solids only, or progression from solids to solids + liquids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2med-1009",
+    "category": "IM Gastro",
+    "q": "Achalasia cause per p111?",
+    "a": "Almost always idiopathic; rarely Chagas disease. New 2CK NBME has 'South American trypanosomiasis' as the answer for achalasia (aka Chagas disease).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2med-1010",
+    "category": "IM Gastro",
+    "q": "Achalasia first diagnostic step per p111?",
+    "a": "Barium swallow, showing a classic 'bird's beak' appearance.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    },
+    "img": "/mehlman/figures/med-p111-01.jpg",
+    "imgAlt": "Barium swallow with a dilated esophagus tapering to a narrow tip at the gastroesophageal junction",
+    "guideline": {
+      "text": "The ACG achalasia guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9896940/"
+    }
+  },
+  {
+    "id": "s2med-1011",
+    "category": "IM Gastro",
+    "q": "Achalasia confirmation and treatment per p111?",
+    "a": "After barium, esophageal manometry (pressure study) is confirmatory; biopsy is not traditionally performed. Treatment per source: pneumatic (balloon) dilation, followed by myotomy of LES muscle fibers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "The ACG guideline discusses current options (pneumatic dilation, myotomy, POEM); I did not verify the details, so treat the source order as an exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9896940/"
+    }
+  },
+  {
+    "id": "s2med-1012",
+    "category": "IM Gastro",
+    "q": "Systemic sclerosis esophageal involvement per p111?",
+    "a": "Idiopathic autoimmune disease with multi-organ fibrosis and hardening of tissue. Can lead to GERD; NBME wants decreased LES tone and decreased esophageal peristalsis (the esophageal dysmotility of CREST: Calcinosis, Raynaud, Esophageal dysmotility, Sclerodactyly, Telangiectasias).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2med-1013",
+    "category": "IM Gastro",
+    "q": "Esophageal perforation causes and diagnosis per p111?",
+    "a": "Iatrogenic (e.g., endoscopy) or Boerhaave syndrome (increased pressure from retching, vomiting or straining). USMLE likes a water-soluble contrast swallow showing accumulation in the mediastinum; otherwise the stem gives recent endoscopy or straining with acute low BP and high HR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "The WSES esophageal emergencies guideline is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6544956/"
+    }
+  },
+  {
+    "id": "s2med-1014",
+    "category": "IM Gastro",
+    "q": "Contrast choice in suspected esophageal perforation per p111?",
+    "a": "Water-soluble contrast (Gastrografin) because it leaks into the mediastinum, whereas barium can cause mediastinitis. If the patient has aspiration risk, use barium instead because Gastrografin can cause pneumonitis. NBME treatment: esophageal repair.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 111,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=111"
+    },
+    "guideline": {
+      "text": "The WSES guideline is linked; I did not verify the contrast recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6544956/"
+    }
+  },
+  {
+    "id": "s2med-1015",
+    "category": "IM Gastro",
+    "q": "Mallory-Weiss tear per p112?",
+    "a": "Retching/vomiting in an alcoholic stretches and tears the gastroesophageal junction, giving small amounts of blood in vomitus. Also seen with eating disorders or hyperemesis gravidarum.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    },
+    "img": "/mehlman/figures/med-p112-01.jpg",
+    "imgAlt": "Endoscopic view of gastrointestinal mucosa",
+    "guideline": {
+      "text": "A review on endoscopic management of Mallory-Weiss tears is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4381135/"
+    }
+  },
+  {
+    "id": "s2med-1016",
+    "category": "IM Gastro",
+    "q": "Highest-yield Mallory-Weiss point per p112?",
+    "a": "It does not cause high-volume hematemesis. High-volume blood in the vignette means ruptured varix instead (source's observation of NBME material).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2med-1017",
+    "category": "IM Gastro",
+    "q": "Esophageal varices per p112?",
+    "a": "Enlarged, tortuous superficial esophageal veins due to portal hypertension in a patient with cirrhosis or splenic vein thrombosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    },
+    "img": "/mehlman/figures/med-p112-02.jpg",
+    "imgAlt": "Diagram of the portal venous system labeling the esophageal, left gastric, splenic and hepatic portal veins",
+    "guideline": {
+      "text": "A review on esophagogastric varices is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10047815/"
+    }
+  },
+  {
+    "id": "s2med-1018",
+    "category": "IM Gastro",
+    "q": "Vessel responsible for varices in cirrhosis per p112?",
+    "a": "Left gastric vein: it connects the esophageal veins to the portal vein, so increased portal pressure backs up through the left gastric vein into the esophageal veins. Many USMLE questions want 'left gastric vein.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2med-1019",
+    "category": "IM Gastro",
+    "q": "Varices in splenic vein thrombosis per p112?",
+    "a": "Increased splenic venous pressure forms collaterals around the thrombosis; nearby veins, including the left gastric vein, form small tributaries from the splenic vein, raising esophageal venous pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2med-1020",
+    "category": "IM Gastro",
+    "q": "Variceal bleeding clinical pattern per p112?",
+    "a": "Source observation: 4/5 NBME varices questions give high-volume hematemesis (versus 'just a little blood' for Mallory-Weiss). Ruptured varices are lethal about 50% of the time. 1/5 might say 'just a little blood' if the varix is friable but not overtly ruptured; the vignette will be obvious (cirrhosis) and may ask for 'left gastric vein.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    },
+    "guideline": {
+      "text": "The mortality figure is the source's; Baveno VII consensus is linked, I did not verify any mortality number.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11090185/"
+    }
+  },
+  {
+    "id": "s2med-1021",
+    "category": "IM Gastro",
+    "q": "Propranolol in varices per p112?",
+    "a": "Prophylaxis, not acute treatment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    },
+    "guideline": {
+      "text": "Baveno VII is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11090185/"
+    }
+  },
+  {
+    "id": "s2med-1022",
+    "category": "IM Gastro",
+    "q": "Acute variceal bleeding treatment per p112?",
+    "a": "Endoscopy + banding is the best USMLE answer when forced to choose; octreotide can also be used for acute bleeding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 112,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=112"
+    },
+    "guideline": {
+      "text": "Baveno VII is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11090185/"
+    }
   }
 ];
