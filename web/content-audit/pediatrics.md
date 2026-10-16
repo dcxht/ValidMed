@@ -808,3 +808,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict, source answer kept with caution note: ceftriaxone listed as a wrong answer for SCD sepsis (cephalosporins are guideline-listed).
 - Left unverified: tricuspid regurgitation with CoA, Eisenmenger EPO wording, pulmonary resistance timing explanation, "Noonan second most common CHD syndrome after Down".
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p159 (Bullet points: NRDS, TTN, PPHN, prematurity complications, acrocyanosis, VSD patterns, PDA) - 9 cards, ids s2peds-2366 to 2374
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (L/S Ratio, TTN, PPHN, Central and Peripheral Cyanosis, PDA) and a BPD/ROP risk factor study.
+- Source inconsistency flagged: two acrocyanosis vignettes with different next steps (warming lights vs tactile stimulation and oxygen).
+- Left unverified: L/S cutoff of 2, lymphatic absorption mechanism, germinal matrix bleed as oxygen effect, three VSD exam patterns, to-and-fro murmur for PDA.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.

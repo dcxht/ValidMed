@@ -33662,5 +33662,136 @@ export default [
       "text": "StatPearls: the most consistent features are wide-set eyes, low-set ears, short stature and pulmonic stenosis. I did not verify the 'second most common after Down' claim.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK532269/"
     }
+  },
+  {
+    "id": "s2peds-2366",
+    "category": "Peds vignettes",
+    "q": "Neonate under 34 weeks with dyspnea. Diagnosis and the L/S ratio per p159?",
+    "a": "Neonatal respiratory distress syndrome (NRDS; hyaline membrane disease). A healthy lecithin (dipalmitoyl phosphatidylcholine) to sphingomyelin ratio is above 2; the ratio is reduced in NRDS.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "StatPearls: the L/S ratio is one method of assessing fetal lung maturity. I did not verify the cutoff of 2 in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560650/"
+    }
+  },
+  {
+    "id": "s2peds-2367",
+    "category": "Peds vignettes",
+    "q": "Neonate born at 39 weeks by C-section, RR 70, CXR with mild bilateral hyperinflation and prominent perihilar interstitial markings. Diagnosis per p159?",
+    "a": "Transient tachypnea of the newborn (TTN): the answer when a vignette sounds like NRDS but the kid is term. Seen with C-sections and fast vaginal deliveries in term neonates.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "StatPearls: TTN is a self-limited disorder of term and late preterm neonates; risk factors include cesarean delivery without labor.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537354/"
+    }
+  },
+  {
+    "id": "s2peds-2368",
+    "category": "Peds vignettes",
+    "q": "What is the mechanism and treatment of TTN per p159?",
+    "a": "Delayed absorption of fetal lung fluid by the pulmonary lymphatics. Treatment is supportive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "StatPearls: delayed clearance of fetal lung fluid; management is primarily supportive, often with supplemental oxygen; recovery in 24 to 72 hours.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537354/"
+    }
+  },
+  {
+    "id": "s2peds-2369",
+    "category": "Peds vignettes",
+    "q": "Neonate born vaginally at 43 weeks, cyanotic, pO2 26 mmHg on 100% oxygen, normal CXR, normal cardiac anatomy with a right-to-left shunt across the foramen ovale. Mechanism per p159?",
+    "a": "\"Failure of pulmonary vasodilation.\" Diagnosis: persistent fetal circulation (persistent pulmonary hypertension of the newborn).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "StatPearls: high pulmonary vascular resistance leads to right-to-left shunting across the foramen ovale and ductus arteriosus with refractory hypoxemia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK585100/"
+    }
+  },
+  {
+    "id": "s2peds-2370",
+    "category": "Peds vignettes",
+    "q": "Neonate born at 26 weeks, several weeks of oxygen in the ICU, now on home oxygen. What is the child at risk for per p159?",
+    "a": "Bronchopulmonary dysplasia, retinopathy of prematurity and germinal matrix bleed; all can be seen in neonates on oxygen therapy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "Study: prolonged oxygen therapy and gestational age are common risk factors for both BPD and ROP. I did not verify germinal matrix bleed as an oxygen effect.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12026289/"
+    }
+  },
+  {
+    "id": "s2peds-2371",
+    "category": "Peds vignettes",
+    "q": "6-hour-old term newborn with cyanosis of upper and lower extremities, no circumoral cyanosis, normal O2 sats, no distress. Next best step per p159?",
+    "a": "Placement under warming lights. Diagnosis: acrocyanosis, a benign peripheral cyanosis that improves with warming. No circumoral cyanosis means no central cyanosis (heart and lungs OK).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "StatPearls: acrocyanosis is peripheral bluish discoloration of the hands and feet that can sometimes involve circumoral areas; mucous membranes are generally not involved.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559167/"
+    }
+  },
+  {
+    "id": "s2peds-2372",
+    "category": "Peds vignettes",
+    "q": "Newborn with slightly blue upper and lower extremities, already under warming lights. Next best step per p159?",
+    "a": "\"Tactile stimulation and oxygen therapy.\" So for acrocyanosis: warming lights first, then tactile stimulation plus oxygen therapy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "The source gives two different next steps for similar vignettes; I did not verify the second.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK559167/"
+    }
+  },
+  {
+    "id": "s2peds-2373",
+    "category": "Peds vignettes",
+    "q": "What are the three ways a VSD sounds on the Peds shelf per p159?",
+    "a": "Holosystolic murmur at the left sternal border plus 1) a parasternal heave or palpable thrill, 2) left atrial enlargement (L to R shunt increases preload back to the LA), or 3) a diastolic rumble (volume overload of the LA).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    }
+  },
+  {
+    "id": "s2peds-2374",
+    "category": "Peds vignettes",
+    "q": "2-month-old boy, not cyanotic, to-and-fro murmur. Diagnosis per p159?",
+    "a": "\"Extracardiac left-to-right shunt\": PDA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 159,
+      "url": "/mehlman/hy-pediatrics.pdf#page=159"
+    },
+    "guideline": {
+      "text": "StatPearls covers patent ductus arteriosus. I did not verify the 'to-and-fro' murmur description.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430758/"
+    }
   }
 ];
