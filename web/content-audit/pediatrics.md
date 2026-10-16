@@ -649,4 +649,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. Two figures: AP pelvis x-ray (cyan arrow, right femoral head) and pelvic MRI.
 - Notes verified against StatPearls Legg-Calve-Perthes and SCFE. Source answer kept for "Tx = hip replacement"; caution note says current treatment is containment/nonoperative care or osteotomy, hip replacement a late adult outcome.
 - Left un-noted (not verified): Gaucher/sickle cell/corticosteroid examples, "contracted" as HY wording, SCFE age 10-13 (noted as unverified in the note).
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 8 cards ox=false off=false bad=0.
