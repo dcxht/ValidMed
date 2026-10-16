@@ -27548,7 +27548,7 @@ export default [
     "id": "s2peds-1929",
     "category": "Ehlers-Danlos syndrome",
     "q": "Which wrong answer does p129 warn about for Ehlers-Danlos collagen questions?",
-    "a": "Abnormal synthesis of extracellular glycoprotein, which refers to fibrillin and Marfan syndrome. Fibrillar collagen means type III collagen, which is unrelated to fibrillin.",
+    "a": "The wrong choice is \"abnormal synthesis of extracellular glycoprotein\": that is fibrillin, Marfan syndrome. Fibrillar collagen means type III collagen, unrelated to fibrillin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 129,
