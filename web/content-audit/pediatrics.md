@@ -941,3 +941,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: hydrocele observe until age 1 (consensus 1-2 years); cryptorchidism observation (AUA: refer by 6 months, surgery by about 18 months); lice permethrin (resistance growing).
 - Left unverified: mixed germ cell hCG distinction, bag of worms wording, transillumination.
 - Mobile QA (320x740, local vite preview build, not live): all 12 cards ox=false off=false bad=0.
+
+## p178 (Bullet points: acne ladder, DMD, myotonic dystrophy, Friedreich ataxia, CMT) - 7 cards, ids s2peds-2548 to 2554
+- Inspected page text and layout; no figures. Continues the acne list from p177.
+- Notes verified against a MotherToBaby topical tretinoin fact sheet and StatPearls (Duchenne, Myotonic Dystrophy, Friedreich Ataxia, Charcot-Marie-Tooth). The 2024 AAD acne guideline page could not be read (empty fetch), so it is cited by title only.
+- Source conflicts, source answer kept with caution note: topical tretinoin "no effect on pregnancy" (fact sheet: lower absorption, not risk-free); retinoid mechanism as sebum reduction (they are comedolytic; not verified).
+- Left unverified: acne step order, isotretinoin lab and contraception details, frameshift vs in-frame distinction, CTG, more-than-90% cardiomyopathy, pes planus in Marfan.
+- Mobile QA (320x740, local vite preview build, not live): all 7 cards ox=false off=false bad=0.

@@ -36344,5 +36344,110 @@ export default [
       "text": "Review: 1% permethrin is a treatment of choice for pediculosis capitis, but resistance is increasing and is a growing worldwide concern.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8932250/"
     }
+  },
+  {
+    "id": "s2peds-2548",
+    "category": "Peds vignettes",
+    "q": "Acne treatment ladder per p177-178: what is first-line and how does it work?",
+    "a": "Topical retinoids first (topical tretinoin, not oral isotretinoin); they cause photosensitivity (rash) and are also used for photoaging. Mechanism per the source: decreasing sebum production. Topical tretinoin is not a teratogen and has no effect on pregnancy or male sperm.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 178,
+      "url": "/mehlman/hy-pediatrics.pdf#page=178"
+    },
+    "guideline": {
+      "text": "Current caution: the MotherToBaby fact sheet says topical tretinoin reaches the bloodstream at much lower levels than oral isotretinoin, which causes birth defects, and that more can be absorbed on broken skin or large areas; it does not call it risk-free. The source's 'does not have any effect on pregnancy' is stronger than that sheet. Topical retinoids are comedolytic; I did not verify the 'decreasing sebum production' mechanism. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK582989/"
+    }
+  },
+  {
+    "id": "s2peds-2549",
+    "category": "Peds vignettes",
+    "q": "What are the second and third acne steps per p178?",
+    "a": "Benzoyl peroxide second (often coadministered with a topical retinoid); mechanism is killing bacteria. Then topical clindamycin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 178,
+      "url": "/mehlman/hy-pediatrics.pdf#page=178"
+    },
+    "guideline": {
+      "text": "Current guideline: the AAD guidelines of care for acne vulgaris (2024) cover topical therapy. I could not read its text, so the order of steps is the source's. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/"
+    }
+  },
+  {
+    "id": "s2peds-2550",
+    "category": "Peds vignettes",
+    "q": "What are the oral acne treatments and their key points per p178?",
+    "a": "Oral tetracycline (causes photosensitivity, blistering). Oral isotretinoin: beta-hCG in women; barrier contraception even if on OCP; can elevate LFTs and cause dyslipidemia; main complaint dry skin and peeling; takes weeks to work but ultra-effective; can start earlier in severe nodulocystic acne; works by diffusely shutting off sebum production.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 178,
+      "url": "/mehlman/hy-pediatrics.pdf#page=178"
+    },
+    "guideline": {
+      "text": "MotherToBaby: isotretinoin is a medication known to cause birth defects involving the face, heart and brain. I did not verify the LFT, lipid, or contraception details in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK582989/"
+    }
+  },
+  {
+    "id": "s2peds-2551",
+    "category": "Peds vignettes",
+    "q": "3M with large calves who uses his arms to crawl up off the floor. Mechanism and diagnosis per p178?",
+    "a": "Defective cytoskeletal connection to the extracellular matrix; Duchenne muscular dystrophy (X-linked recessive), caused by a frameshift mutation. Becker is less severe, presents in adolescence or early adulthood, and is not a frameshift (e.g. missense).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 178,
+      "url": "/mehlman/hy-pediatrics.pdf#page=178"
+    },
+    "guideline": {
+      "text": "StatPearls: DMD is due to dystrophin gene mutations on Xp21; the dystrophinopathies include Duchenne, Becker and an intermediate form. I did not verify the frameshift vs in-frame distinction in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482346/"
+    }
+  },
+  {
+    "id": "s2peds-2552",
+    "category": "Peds vignettes",
+    "q": "4F with several months of intermittent cramping and difficulty relaxing her grip when squeezing the physician's fingers. Diagnosis per p178?",
+    "a": "Myotonic dystrophy; CTG trinucleotide repeat expansion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 178,
+      "url": "/mehlman/hy-pediatrics.pdf#page=178"
+    },
+    "guideline": {
+      "text": "StatPearls: myotonic dystrophy is autosomal dominant with myotonia that improves with repeated exercise and worsens with cold. I did not verify the CTG repeat in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557446/"
+    }
+  },
+  {
+    "id": "s2peds-2553",
+    "category": "Peds vignettes",
+    "q": "13M with 3 months of decreasing muscle coordination, impaired speech and high-arched feet. Diagnosis per p178?",
+    "a": "Friedreich ataxia; GAA trinucleotide repeat expansion; cardiomyopathy in more than 90%; pes cavus is classic, while pes planus is Marfan syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 178,
+      "url": "/mehlman/hy-pediatrics.pdf#page=178"
+    },
+    "guideline": {
+      "text": "StatPearls: FRDA is linked to an intronic GAA repeat expansion in the FXN gene on chromosome 9; cardiomyopathy and diabetes are major contributors to morbidity. I did not verify the more-than-90% figure or the pes planus in Marfan statement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563199/"
+    }
+  },
+  {
+    "id": "s2peds-2554",
+    "category": "Peds vignettes",
+    "q": "14F with 10 months of tripping, high-arched feet, hammer toes, hand and foot muscle wasting, absent ankle reflexes, reduced vibration and proprioception in the legs, and prolonged distal motor latencies. Diagnosis and mechanism per p178?",
+    "a": "Charcot-Marie-Tooth disease (hereditary motor and sensory neuropathy); defective protein production for myelin sheaths and nerve fibers; hammer toes classic; pes cavus also seen.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 178,
+      "url": "/mehlman/hy-pediatrics.pdf#page=178"
+    },
+    "guideline": {
+      "text": "StatPearls: CMT is a length-dependent neuropathy with foot deformities (most often pes cavus), sensory loss, distal weakness and reduced reflexes, with PMP22, GJB1 and MPZ defects damaging Schwann cells and myelin.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562163/"
+    }
   }
 ];
