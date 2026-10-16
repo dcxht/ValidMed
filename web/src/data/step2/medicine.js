@@ -36388,5 +36388,478 @@ export default [
       "page": 275,
       "url": "/mehlman/hy-internal-medicine.pdf#page=275"
     }
+  },
+  {
+    "id": "s2med-2751",
+    "category": "IM Neuro",
+    "q": "Benzodiazepine mechanism per p276 (continued)?",
+    "a": "Bind GABA-A receptor, which increases the frequency of Cl- channel opening, letting Cl- flow into the neuron, hyperpolarizing it and inhibiting firing. Effects: hypnotic (induces sleep), anxiolytic, anti-convulsant.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A review of benzodiazepine modulation of GABA-A receptors is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9775625/"
+    }
+  },
+  {
+    "id": "s2med-2752",
+    "category": "IM Neuro",
+    "q": "Benzodiazepines in status epilepticus and insomnia per p276?",
+    "a": "Given first-line for status epilepticus. Clonazepam is used for insomnia/anxiety (shows up on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A network meta-analysis of benzodiazepine-resistant status epilepticus is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36209676/"
+    }
+  },
+  {
+    "id": "s2med-2753",
+    "category": "IM Neuro",
+    "q": "Benzodiazepine uses: intoxication and phobias per p276?",
+    "a": "Used for stimulant intoxication (cocaine, amphetamine, PCP) and for specific phobia (e.g., fear of flying). Used 2nd-line for social phobia if the patient has asthma, since propranolol is not given in this setting (asked on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2med-2754",
+    "category": "IM Neuro",
+    "q": "Benzodiazepines and alcohol per p276?",
+    "a": "Used for alcohol withdrawal (delirium tremens, alcoholic hallucinosis). Alcohol also binds and activates the GABA-A receptor, but at a different location from benzos (an NBME question asks you to pick the illustration with alcohol and a benzo binding the same receptor at different sites).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "Alcohol withdrawal pharmacotherapy recommendations are linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36342978/"
+    }
+  },
+  {
+    "id": "s2med-2755",
+    "category": "IM Neuro",
+    "q": "Benzodiazepine overdose per p276?",
+    "a": "Can cause respiratory depression. Treat overdose with flumazenil, an antagonist of the benzo receptor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2med-2756",
+    "category": "IM Neuro",
+    "q": "Barbiturates per p276?",
+    "a": "Phenobarbital, thiopental, etc. Bind GABA-A receptor and increase the duration of chloride channel opening, making them more efficacious (and dangerous) than benzos. Used for general anesthesia, and for unremitting status epilepticus if benzos and phenytoin fail.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "The meta-analysis on benzodiazepine-resistant status epilepticus is linked on an earlier card; current guidelines may list other second-line drugs. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36209676/"
+    }
+  },
+  {
+    "id": "s2med-2757",
+    "category": "IM Neuro",
+    "q": "Non-benzo hypnotics per p276?",
+    "a": "Zolpidem, zaleplon. Activate GABA-A receptor but bind a different subunit from benzos. Can cause addiction similar to benzos.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2med-2758",
+    "category": "IM Neuro",
+    "q": "Magnesium per p276?",
+    "a": "Used for treatment and prevention of eclamptic seizures in pregnancy. Given to women giving birth before 32 weeks' gestation for fetal neuroprotection. Also used for torsades arrhythmia and digoxin toxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A review of magnesium sulphate regimens for pre-eclampsia is linked, as is FIGO guidance on preterm neuroprotection (one link shown); I did not verify the digoxin use.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9292474/"
+    }
+  },
+  {
+    "id": "s2med-2759",
+    "category": "IM Neuro",
+    "q": "Lamotrigine per p276?",
+    "a": "Blocks sodium channels. General anti-epileptic. Can cause Stevens-Johnson syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A systematic review of lamotrigine-induced SJS is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41843406/"
+    }
+  },
+  {
+    "id": "s2med-2760",
+    "category": "IM Neuro",
+    "q": "TCAs per p276?",
+    "a": "Prevent reuptake of both serotonin and norepinephrine (amitriptyline, nortriptyline, imipramine). Neuro use-case is neuropathic pain, e.g., diabetic peripheral neuropathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A review of painful diabetic neuropathy guidelines is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10949339/"
+    }
+  },
+  {
+    "id": "s2med-2761",
+    "category": "IM Neuro",
+    "q": "TCA toxicity per p276?",
+    "a": "Causes CCC: Coma, Convulsions, Cardiotoxicity (QT prolongation on ECG). Nasty anti-cholinergic side effects (cognitive dysfunction, urinary retention, especially in the elderly).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A TCA overdose management guideline is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21436332/"
+    }
+  },
+  {
+    "id": "s2med-2762",
+    "category": "IM Neuro",
+    "q": "Gabapentin per p276?",
+    "a": "Blocks calcium channels, leading to neuroinhibition. Used for neuropathic pain, e.g., diabetic peripheral neuropathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "The diabetic neuropathy review is linked on the TCA card above.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10949339/"
+    }
+  },
+  {
+    "id": "s2med-2763",
+    "category": "IM Neuro",
+    "q": "Migraine drugs per p276?",
+    "a": "Abortive therapy: NSAIDs first, then sumatriptan (serotonin receptor agonist). Prevention: propranolol (beta-blockade).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A review of migraine diagnosis and acute management is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9888545/"
+    }
+  },
+  {
+    "id": "s2med-2764",
+    "category": "IM Neuro",
+    "q": "Cluster headache drugs per p276?",
+    "a": "Abortive therapy: oxygen. Prevention: verapamil (non-dihydropyridine calcium channel blocker).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "EAN cluster headache guidelines are linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37515405/"
+    }
+  },
+  {
+    "id": "s2med-2765",
+    "category": "IM Neuro",
+    "q": "Tension headache per p276?",
+    "a": "Rest plus acetaminophen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2med-2766",
+    "category": "IM Neuro",
+    "q": "Trigeminal neuralgia drugs per p276?",
+    "a": "Abortive: goes away on its own because episodes last a maximum of 30-60 seconds. Prevention: carbamazepine (sodium channel blocker).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 276,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=276"
+    },
+    "guideline": {
+      "text": "A chapter on trigeminal neuralgia is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086744/"
+    }
+  },
+  {
+    "id": "s2med-2767",
+    "category": "IM Neuro",
+    "q": "Carbidopa-levodopa per p277?",
+    "a": "Combo frequently used for Parkinson disease. Levodopa crosses the BBB to be converted to dopamine centrally, but is rapidly metabolized when given alone. Carbidopa increases levodopa availability for passage across the BBB. Do not confuse this with the COMT inhibitors (tolcapone, entacapone), which also prevent L-dopa breakdown.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "A StatPearls page on levodopa/carbidopa/entacapone is linked (title only). Caution: the source describes carbidopa as a 'competitive inhibitor of breakdown enzymes'; I did not verify that wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK599508/"
+    }
+  },
+  {
+    "id": "s2med-2768",
+    "category": "IM Neuro",
+    "q": "Carbidopa-levodopa psychosis per p277?",
+    "a": "Can cause psychosis if the dose is too high. On 2CK Psych forms, if psychotic episodes follow recent addition or a dose increase, the answer is 'decrease dose of carbidopa-levodopa'. 'Discontinue' is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2med-2769",
+    "category": "IM Neuro",
+    "q": "D2 receptor agonists per p277?",
+    "a": "Ropinirole, pramipexole, cabergoline, pergolide, bromocriptine. Used for Parkinson disease. Bromocriptine is the classic agent for prolactinoma (dopamine agonism decreases prolactin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2med-2770",
+    "category": "IM Neuro",
+    "q": "Restless legs syndrome drugs per p277?",
+    "a": "Ropinirole and pramipexole classically show up as RLS treatment after making sure the patient is iron replete. New literature suggests gabapentin is first-line over D2 agonists now; the source says USMLE will list it as the only working add-on to ropinirole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "An AASM guideline on RLS treatment is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11701286/"
+    }
+  },
+  {
+    "id": "s2med-2771",
+    "category": "IM Neuro",
+    "q": "Amantadine per p277?",
+    "a": "Increases presynaptic release of dopamine. Used for Parkinson disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2med-2772",
+    "category": "IM Neuro",
+    "q": "Selegiline per p277?",
+    "a": "Used for Parkinson disease. Inhibits monoamine oxidase B, which preferentially breaks down dopamine. Can cause serotonin syndrome, alone or in combo with drugs like St John's Wort or SSRIs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2med-2773",
+    "category": "IM Neuro",
+    "q": "Donepezil and relatives per p277?",
+    "a": "Donepezil is a cholinesterase inhibitor used in Alzheimer disease. Rivastigmine and galantamine have the same MOA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2med-2774",
+    "category": "IM Neuro",
+    "q": "Memantine per p277?",
+    "a": "NMDA glutamate receptor antagonist. Glutamate receptor activation normally causes Ca2+ to flow into the neuron, causing depolarization and neuroexcitation; the glutamate receptor is a ligand-gated calcium channel. Antagonism causes neuroinhibition.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "A review of memantine in Alzheimer disease is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10527776/"
+    }
+  },
+  {
+    "id": "s2med-2775",
+    "category": "IM Neuro",
+    "q": "Vincristine per p277?",
+    "a": "Prevents microtubule assembly; used as general chemotherapy. USMLE can ask what it inhibits and the answer is just 'tubulin'. Causes peripheral/autonomic neuropathy (answer shows up as 'toxic neuropathy' on a 2CK Neuro CMS form).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "A paper on vincristine neuropathy and microtubules (rat study) is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9619501/"
+    }
+  },
+  {
+    "id": "s2med-2776",
+    "category": "IM Neuro",
+    "q": "Cisplatin per p277?",
+    "a": "Crosslinking agent used as general chemotherapy. Causes neurotoxicity and ototoxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "An overview of cisplatin neurotoxicity and ototoxicity is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31891754/"
+    }
+  },
+  {
+    "id": "s2med-2777",
+    "category": "IM Neuro",
+    "q": "Aminoglycosides per p277?",
+    "a": "30S ribosomal subunit inhibitors used for gram-negative rods. Highest-yield use is in combination with vancomycin as empiric Tx for endocarditis. Gentamicin, tobramycin, amikacin. Cause ototoxicity (sensorineural hearing loss and/or vertigo) and nephrotoxicity.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    },
+    "guideline": {
+      "text": "A review on aminoglycosides for resistant gram-negatives is linked (title only); I did not verify the endocarditis claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10215420/"
+    }
+  },
+  {
+    "id": "s2med-2778",
+    "category": "IM Neuro",
+    "q": "Loop diuretics per p277?",
+    "a": "Block the 1Na+/1K+/2Cl- symporter on the apical membrane of the thick ascending limb. Furosemide, ethacrynic acid, etc., can cause sensorineural hearing loss and/or vertigo.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2med-2779",
+    "category": "IM Neuro",
+    "q": "Aspirin per p277?",
+    "a": "Irreversible cyclooxygenase 1 and 2 inhibitor (toxicity continues on p278).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 277,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2med-2780",
+    "category": "IM Neuro",
+    "q": "Aspirin toxicity symptom per p278?",
+    "a": "Most common symptom is tinnitus (ear-ringing).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=278"
+    }
+  },
+  {
+    "id": "s2med-2781",
+    "category": "IM Neuro",
+    "q": "Quinidine per p278?",
+    "a": "Class 1a sodium channel blocker used occasionally as an anti-arrhythmic. Causes cinchonism: headache plus tinnitus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=278"
+    },
+    "guideline": {
+      "text": "A StatPearls page on cinchonism is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559319"
+    }
+  },
+  {
+    "id": "s2med-2782",
+    "category": "IM Neuro",
+    "q": "Digoxin per p278?",
+    "a": "Na+/K+-ATPase inhibitor used for advanced heart failure. The source lists its eye effect as optic neuritis presenting as yellow wavy 'Vincent van Gogh vision'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=278"
+    },
+    "guideline": {
+      "text": "Caution: a case report and review of digoxin ocular toxicity is linked (title only); I did not verify whether it describes this as optic neuritis. Source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4546820/"
+    }
+  },
+  {
+    "id": "s2med-2783",
+    "category": "IM Neuro",
+    "q": "Ethambutol per p278?",
+    "a": "Arabinosyl transferase inhibitor used for TB treatment. Causes optic neuritis (visual changes of any kind, e.g., blurry vision, central scotoma, red-green color blindness).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=278"
+    },
+    "guideline": {
+      "text": "A review of ethambutol optic neuropathy is linked; I did not verify the wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28759559/"
+    }
+  },
+  {
+    "id": "s2med-2784",
+    "category": "IM Neuro",
+    "q": "Sildenafil per p278?",
+    "a": "Phosphodiesterase-5 inhibitor used for erectile enhancement. Can cause blue haze, apparently from also inhibiting PDE-6 in retinal receptors. Tadalafil does not inhibit PDE-6 the same way, so the effect is more with sildenafil.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=278"
+    },
+    "guideline": {
+      "text": "An ocular safety paper on sildenafil is linked (title only); I did not verify the tadalafil comparison.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16409214/"
+    }
+  },
+  {
+    "id": "s2med-2785",
+    "category": "IM Neuro",
+    "q": "Sildenafil and pilots per p278?",
+    "a": "The source says Step 3 wants you to know pilots cannot take it within 3 hours of getting on an airplane due to possible blue haze.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 278,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=278"
+    }
   }
 ];

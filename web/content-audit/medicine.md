@@ -964,3 +964,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Tiotropium vs ipratropium: source says USMLE doesn't care; GOLD favors long-acting agents. Source answer kept.
 - Valproate/carbamazepine/phenytoin "folate" mechanism not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 31 cards ox=false off=false bad=0.
+
+## p276 (neuro pharm: benzos, TCAs, headache) - 16 cards, ids s2med-2751 to 2766
+- Barbiturate second-line status epilepticus order per source; current guidelines may differ.
+## p277 (Parkinson, Alzheimer, neurotoxic drugs) - 13 cards, ids s2med-2767 to 2779
+- Carbidopa "competitive inhibitor of breakdown enzymes" wording not verified.
+- RLS: source says gabapentin now first-line; AASM guideline linked.
+## p278 (neurotoxic drugs cont.) - 6 cards, ids s2med-2780 to 2785
+- Digoxin "optic neuritis" per source flagged; sildenafil pilot 3-hour rule unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 35 cards ox=false off=false bad=0.
