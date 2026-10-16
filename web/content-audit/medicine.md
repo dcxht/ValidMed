@@ -557,6 +557,6 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p127 (polyp syndromes, polyp histology, KRAS) - 11 cards, ids s2med-1159 to 1169
 - Conflict: KRAS-first sequence vs the commonly taught APC-first adenoma-carcinoma sequence (source answer kept).
 
-## p128 (colon cancer genes/complications, peds GI: pyloric stenosis, duodenal atresia, annular pancreas, intussusception) - 8 cards, ids s2med-1170 to 1177
+## p128 (colon cancer genes/complications, peds GI: pyloric stenosis, duodenal atresia, annular pancreas, intussusception) - 7 cards, ids s2med-1170 to 1176
 - Figures mapped by image size/page render at 40 dpi (X-ray to duodenal atresia, diagram to intussusception). Page ends mid-intussusception, continues p129.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
