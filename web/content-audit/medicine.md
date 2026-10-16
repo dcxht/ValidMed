@@ -438,3 +438,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Figure med-p098-01 inspected (clear cell histology).
 - Unverified: chromosome 11 statement beyond WT1 pages, review texts.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p99 (IM Renal: Denys-Drash, CDC, bladder cancer, schisto) - 7 cards, ids s2med-0923 to 0929
+- Figures med-p099-01/02 inspected (kidney with tumor; papillary urothelial histology). First image's placement ambiguous; neutral alt text used.
+- Conflict: BCG distractor on USMLE vs current NMIBC treatment. Unverified: naphthylamine-tumor link, 0-3% figure. Expletive paraphrased.
+
+## p100 (IM Renal: Bartter/Gitelman, drugs, diuretics) - 7 cards, ids s2med-0930 to 0936
+- Figure med-p100-01 inspected (nephron diuretic diagram). Page ends mid-diuretic table (furosemide); continues p101.
+- Unverified: drug lists; "ATPase symporter" wording flagged.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.

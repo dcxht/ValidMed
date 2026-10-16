@@ -12116,5 +12116,209 @@ export default [
       "text": "GeneReviews on WAGR spectrum disorder is a reference; I did not verify the text.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK621298/"
     }
+  },
+  {
+    "id": "s2med-0923",
+    "category": "IM Renal",
+    "q": "Denys-Drash syndrome per p99?",
+    "a": "Ambiguous genitalia plus Wilms tumor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=99"
+    },
+    "guideline": {
+      "text": "GeneReviews on WT1 disorder is a reference; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556455/"
+    }
+  },
+  {
+    "id": "s2med-0924",
+    "category": "IM Renal",
+    "q": "Collecting duct carcinoma per p99?",
+    "a": "Very rare: 0-3% of renal malignancies, but shows up on NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=99"
+    },
+    "guideline": {
+      "text": "A paper on collecting duct versus renal medullary carcinoma exists; I did not verify the 0-3% figure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24805860/"
+    }
+  },
+  {
+    "id": "s2med-0925",
+    "category": "IM Renal",
+    "q": "Kidney picture with naphthylamine per p99?",
+    "a": "An offline NBME question shows a kidney split open like the picture and the answer is just 'naphthylamine' (moth balls) as the causative agent.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=99"
+    },
+    "img": "/mehlman/figures/med-p099-01.jpg",
+    "imgAlt": "Cut kidneys with a large tumor mass and stents in the renal pelvis",
+    "guideline": {
+      "text": "I did not verify the link between naphthylamine and this tumor type.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10524287/"
+    }
+  },
+  {
+    "id": "s2med-0926",
+    "category": "IM Renal",
+    "q": "Transitional cell carcinoma of the bladder per p99?",
+    "a": "Most common bladder cancer. Classic: hematuria in a smoker without painful flank mass or polycythemia/hypercalcemia (otherwise RCC). Histology can show papillary structure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=99"
+    },
+    "img": "/mehlman/figures/med-p099-02.jpg",
+    "imgAlt": "Papillary urothelial carcinoma histology"
+  },
+  {
+    "id": "s2med-0927",
+    "category": "IM Renal",
+    "q": "Bladder cancer risk factors per p99?",
+    "a": "Smoking is the most common risk factor; aniline dyes (industrial clothing dyes) and naphthylamine are important causes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=99"
+    },
+    "guideline": {
+      "text": "A review of bladder cancer carcinogens exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10524287/"
+    }
+  },
+  {
+    "id": "s2med-0928",
+    "category": "IM Renal",
+    "q": "Stage 0 bladder cancer and BCG per p99?",
+    "a": "2CK Surg stage 0 vignette: endoscopic resection. The source has never seen BCG as a correct NBME answer, only as a distractor (past studies suggested intravesical instillation helps).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=99"
+    },
+    "guideline": {
+      "text": "Intravesical BCG is part of current guideline treatment for some non-muscle invasive bladder cancers; the source's 'wrong on USMLE' is exam-specific. I did not verify guideline details.",
+      "url": "https://www.auanet.org/guidelines-and-quality/guidelines/bladder-cancer-non-muscle-invasive-guideline"
+    }
+  },
+  {
+    "id": "s2med-0929",
+    "category": "IM Renal",
+    "q": "Squamous cell carcinoma of the bladder per p99-100?",
+    "a": "Can be caused by Schistosoma haematobium (a trematode/fluke, a helminth). It lays eggs in the bladder wall and cystic veins draining the bladder. Vignette: young man with red urine months after swimming in a lake in Africa = schistosomiasis; or asked what he's at risk of = squamous cell carcinoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 99,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=99"
+    },
+    "guideline": {
+      "text": "A review of schistosomiasis as a bladder cancer risk factor exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7285246/"
+    }
+  },
+  {
+    "id": "s2med-0930",
+    "category": "IM Renal",
+    "q": "Bartter vs Gitelman per p100?",
+    "a": "Bartter syndrome presents as though the patient is on a loop diuretic and (for a 'magical reason') is associated with juxtaglomerular cell hyperplasia. Gitelman syndrome presents as though on a thiazide diuretic.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "A paper on differential diagnosis of Bartter and Gitelman syndromes exists; I did not verify its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7857843/"
+    }
+  },
+  {
+    "id": "s2med-0931",
+    "category": "IM Renal",
+    "q": "Drugs causing renal conditions per p100?",
+    "a": "Acute tubular necrosis: aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin. Interstitial nephritis: NSAIDs, beta-lactams, cephalosporins. Membranous glomerulonephropathy: dapsone, gold salts, sulfonamides.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "A review of membranous nephropathy exists; I did not verify the drug list in it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11044666/"
+    }
+  },
+  {
+    "id": "s2med-0932",
+    "category": "IM Renal",
+    "q": "Where diuretics act per p100?",
+    "a": "Proximal tubule: mannitol, acetazolamide, (expired tetracyclines cause damage). Loop of Henle: furosemide, ethacrynic acid. Distal tubule: HCTZ. Cortical collecting duct: amiloride, triamterene, spironolactone, eplerenone. Medullary collecting duct: tolvaptan, conivaptan; demeclocycline and lithium also act here (marked in red in the figure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=100"
+    },
+    "img": "/mehlman/figures/med-p100-01.jpg",
+    "imgAlt": "Nephron diagram showing where diuretics and renal-toxic drugs act"
+  },
+  {
+    "id": "s2med-0933",
+    "category": "IM Renal",
+    "q": "Mannitol per p100?",
+    "a": "Osmotic diuretic that increases urine osmolality, retaining free water in the PCT and descending limb. Used to treat increased intracranial pressure after intubation and hyperventilation (decreased CO2 lowers cerebral perfusion). Avoid in heart failure: transient rise in serum osmolality draws free water into the vascular space and transiently increases preload.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "A guideline on acute treatment of cerebral edema exists; I did not verify its mannitol recommendations.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7272487/"
+    }
+  },
+  {
+    "id": "s2med-0934",
+    "category": "IM Renal",
+    "q": "Acetazolamide per p100?",
+    "a": "Carbonic anhydrase inhibitor acting in PCT tubular cells (H2CO3 to HCO3- plus H+). Classic use is altitude sickness: decreases HCO3- reabsorption in the PCT, raising urinary pH and volume and lowering serum pH and volume. Patients hyperventilate at altitude (low CO2, high pH); the kidney takes at least 12-24 hours to lower HCO3- reabsorption, so acetazolamide forces it by causing metabolic acidosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "A paper on acetazolamide mechanisms in mountain sickness exists; I did not verify its text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17023566/"
+    }
+  },
+  {
+    "id": "s2med-0935",
+    "category": "IM Renal",
+    "q": "Expired tetracyclines per p100?",
+    "a": "Can cause Fanconi syndrome (decreased ability of the PCT to reabsorb amino acids, glucose, bicarbonate and phosphate).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2med-0936",
+    "category": "IM Renal",
+    "q": "Furosemide per p100?",
+    "a": "Classic loop diuretic that inhibits the apical Na+/K+/2Cl- symporter on the thick ascending limb. Apical = urine side; basolateral = blood side. The source calls it an 'ATPase symporter'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 100,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=100"
+    },
+    "guideline": {
+      "text": "NKCC2 is a cotransporter, not an ATPase; I did not verify the source's wording beyond that.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11663917/"
+    }
   }
 ];
