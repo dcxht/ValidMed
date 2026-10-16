@@ -39449,5 +39449,140 @@ export default [
       "text": "StatPearls: arthritis-dermatitis syndrome is a form of DGI that usually comprises tenosynovitis, dermatitis and polyarthralgia.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK470439/"
     }
+  },
+  {
+    "id": "s2peds-2755",
+    "category": "Peds vignettes",
+    "q": "16F with thin, grey, watery discharge, diagnosed by wet mount. Diagnosis, findings and treatment per p198?",
+    "a": "Bacterial vaginosis (Gardnerella); clue cells (squamous cells covered in bacteria) on wet mount; KOH whiff test with fishy odor is also classic; treat with topical metronidazole gel.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "CDC lists metronidazole 500 mg orally twice daily for 7 days and metronidazole gel among the recommended regimens. I did not verify the clue cell or whiff test wording in the passage I read.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/bv.htm"
+    }
+  },
+  {
+    "id": "s2peds-2756",
+    "category": "Peds vignettes",
+    "q": "16F with yellow-green discharge, diagnosed by wet mount. Diagnosis, findings and treatment per p198?",
+    "a": "Trichomonas vaginalis; wet mount shows flagellated protozoa; strawberry cervix (punctate hemorrhages) or an erythematous vaginal canal might be seen; treat with topical metronidazole for patient and partner (high risk of reinfection).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "Current caution: CDC recommends oral metronidazole 500 mg twice daily for 7 days for women; topical therapy is not recommended for trichomoniasis. Source answer kept.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm"
+    }
+  },
+  {
+    "id": "s2peds-2757",
+    "category": "Peds vignettes",
+    "q": "16F with vesicular lesions on vulva and stinging or burning pain. What is the most likely trajectory of these lesions per p198?",
+    "a": "Gradually disappear over one week (the wrong answer is gradually worsen then disappear over three weeks). Treat with oral acyclovir (or oral valacyclovir); topical acyclovir is the wrong answer.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "CDC: acyclovir, valacyclovir and famciclovir are FDA-approved for genital herpes, and topical antiviral therapy offers minimal clinical benefit and is discouraged. I did not verify the one-week timeline.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    }
+  },
+  {
+    "id": "s2peds-2758",
+    "category": "Peds vignettes",
+    "q": "17M with a painless papule that ruptures into a painless crater at the base of the penis. Next best step per p198?",
+    "a": "Darkfield microscopy; diagnosis is primary syphilis. VDRL/RPR can be done but is sometimes negative in primary syphilis; one NBME form's answer was spirochete.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "CDC mentions darkfield examinations and molecular tests for detecting T. pallidum. I did not verify the seronegative primary syphilis claim.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-2759",
+    "category": "Peds vignettes",
+    "q": "17M sexually active with a maculopapular rash on the upper back and palms and soles. Next best step per p198?",
+    "a": "VDRL/RPR followed by fluorescent treponemal antibody; diagnosis is secondary syphilis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "CDC syphilis guidelines describe nontreponemal and treponemal testing. I did not verify the specific FTA-ABS wording; CDC also supports the reverse-sequence algorithm.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+    }
+  },
+  {
+    "id": "s2peds-2760",
+    "category": "Peds vignettes",
+    "q": "18M sexually active with a positive Romberg sign. Diagnosis per p198?",
+    "a": "Neurosyphilis (Neuro NBME answer): it can occur at any stage and often appears during secondary syphilis. Positive Romberg refers to tabes dorsalis. It can also present with an Argyll-Robertson pupil (accommodates but does not react).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "StatPearls: Argyll Robertson pupil is a characteristic feature of tabes dorsalis, a late form of neurosyphilis. Current caution: tabes dorsalis is a late manifestation; the source says it occurs during any stage. I did not verify that claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557891/"
+    }
+  },
+  {
+    "id": "s2peds-2761",
+    "category": "Peds vignettes",
+    "q": "17M back from Uganda with a painful crater at the base of the penile shaft. Diagnosis and treatment per p198?",
+    "a": "Haemophilus ducreyi (chancroid); treat with azithromycin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "CDC: azithromycin 1 g orally in a single dose, or ceftriaxone 250 mg IM in a single dose.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chancroid.htm"
+    }
+  },
+  {
+    "id": "s2peds-2762",
+    "category": "Peds vignettes",
+    "q": "17M with skin-colored papules on the penile shaft. Treatment per p198?",
+    "a": "Podophyllum resin; treatment for HPV (also the answer on the OBGYN NBME for vulvar condylomata acuminata).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "Current caution: CDC lists podofilox (podophyllotoxin) solution or gel, applied twice daily for 3 days followed by 4 days off, as a patient-applied option, along with other therapies. Source answer kept.",
+      "url": "https://cdc.gov/std/treatment-guidelines/anogenital-warts.htm"
+    }
+  },
+  {
+    "id": "s2peds-2763",
+    "category": "Peds vignettes",
+    "q": "3F with purulent bloody discharge on underwear. Diagnosis per p198?",
+    "a": "Vaginal foreign body.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 198,
+      "url": "/mehlman/hy-pediatrics.pdf#page=198"
+    },
+    "guideline": {
+      "text": "StatPearls: the most common presenting symptom in pediatric patients is vaginal bleeding or discharge.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK549794/"
+    }
   }
 ];

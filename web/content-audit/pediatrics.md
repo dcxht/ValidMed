@@ -1081,3 +1081,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: PID regimen omits metronidazole and uses azithromycin for chlamydia; Pap start age 21 matches USPSTF.
 - Left unverified: rubella PDA/deafness, syphilis saber shins/Hutchinson teeth, chlamydia/gonorrhea screening start age, gonococcus not causing reactive arthritis.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p198 (Bullet points: vaginitis, genital herpes, syphilis, chancroid, warts, foreign body) - 9 cards, ids s2peds-2755 to 2763
+- Inspected page text; no figures.
+- Notes verified against CDC STI guidelines (BV, trichomoniasis, herpes, syphilis, chancroid, anogenital warts) and StatPearls (Tabes Dorsalis, Vaginal Foreign Body).
+- Source answers kept with caution notes: topical metronidazole for trichomonas (CDC: oral 7 days); podophyllum resin vs podofilox; neurosyphilis timing.
+- Left unverified: clue cell/whiff wording, one-week herpes timeline, seronegative primary syphilis, FTA-ABS wording, neurosyphilis at any stage.
+- Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
