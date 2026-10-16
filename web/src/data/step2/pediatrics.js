@@ -26234,5 +26234,170 @@ export default [
       "text": "StatPearls: off-label insomnia use; not FDA-approved for sleep because of insufficient clinical data. Low-dose sedation comes from 5-HT2A, H1 and alpha-1 antagonism.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK470560/"
     }
+  },
+  {
+    "id": "s2peds-1838",
+    "category": "Extraocular nerve palsies",
+    "q": "Per the p121 figure, what does eye A show and which lesion is it?",
+    "a": "A CN III (oculomotor) lesion, presenting as a down-and-out eye.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "img": "/mehlman/figures/peds-p121-extraocular-palsies.png",
+    "imgAlt": "Actual source diagram of three extraocular nerve palsies A, B and C, each showing an affected eye beside a normal eye",
+    "guideline": {
+      "text": "StatPearls: CN III palsy produces ophthalmoplegia, ptosis and variable pupillary involvement.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526112/"
+    }
+  },
+  {
+    "id": "s2peds-1839",
+    "category": "Extraocular nerve palsies",
+    "q": "Per the p121 figure, what does eye B show and which lesion is it?",
+    "a": "A CN IV (trochlear) lesion, presenting as upward gaze. The patient tilts the head toward the unaffected side.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "img": "/mehlman/figures/peds-p121-extraocular-palsies.png",
+    "imgAlt": "Actual source diagram of three extraocular nerve palsies A, B and C, each showing an affected eye beside a normal eye",
+    "guideline": {
+      "text": "StatPearls: trochlear palsy causes vertical or torsional diplopia, and patients may adopt a head tilt to the opposite side.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK565850/"
+    }
+  },
+  {
+    "id": "s2peds-1840",
+    "category": "Extraocular nerve palsies",
+    "q": "Per the p121 figure, what does eye C show and which lesion is it?",
+    "a": "A CN VI (abducens) lesion, with a medially directed eye.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "img": "/mehlman/figures/peds-p121-extraocular-palsies.png",
+    "imgAlt": "Actual source diagram of three extraocular nerve palsies A, B and C, each showing an affected eye beside a normal eye",
+    "guideline": {
+      "text": "StatPearls: abducens palsy is characterized by lateral rectus weakness and restricted eye abduction.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482177/"
+    }
+  },
+  {
+    "id": "s2peds-1841",
+    "category": "Extraocular nerve palsies",
+    "q": "Which way does the patient tilt the head in a CN IV lesion on p121?",
+    "a": "Toward the unaffected side.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "guideline": {
+      "text": "StatPearls: to compensate for diplopia the patient may adopt a head tilt and face turn to the opposite side.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK565850/"
+    }
+  },
+  {
+    "id": "s2peds-1842",
+    "category": "Orbital cellulitis",
+    "q": "How does p121 define orbital cellulitis, and what is the most common cause?",
+    "a": "Infection involving tissues posterior to the orbital septum; Staph aureus is the most common cause.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "img": "/mehlman/figures/peds-p121-orbital-cellulitis.png",
+    "imgAlt": "Actual source photograph of a child with orbital cellulitis: a swollen red eyelid and cheek",
+    "guideline": {
+      "text": "StatPearls: orbital cellulitis is a serious infection of the muscle and fat within the orbit, also called postseptal cellulitis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507901/"
+    }
+  },
+  {
+    "id": "s2peds-1843",
+    "category": "Orbital cellulitis",
+    "q": "How does p121 say orbital cellulitis usually arises?",
+    "a": "It is a rare sequela of an adjacent infection, for example from the paranasal sinus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2peds-1844",
+    "category": "Orbital cellulitis",
+    "q": "How urgent is orbital cellulitis and what treatment does p121 give?",
+    "a": "It is a medical emergency and requires IV antibiotics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "guideline": {
+      "text": "StatPearls Orbital Cellulitis lists intravenous therapy as the treatment, with pain on eye movement, proptosis and ophthalmoplegia as the key distinguishing signs.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507901/"
+    }
+  },
+  {
+    "id": "s2peds-1845",
+    "category": "Orbital cellulitis",
+    "q": "How does p121 describe preseptal cellulitis relative to orbital cellulitis?",
+    "a": "A less severe version of orbital cellulitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "guideline": {
+      "text": "StatPearls: chemosis is more common in orbital cellulitis but can occasionally appear in severe preseptal cases; ophthalmoplegia, pain with eye movement and proptosis separate the two.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507901/"
+    }
+  },
+  {
+    "id": "s2peds-1846",
+    "category": "Hordeolum (stye)",
+    "q": "How does p121 describe a hordeolum (stye)?",
+    "a": "A painful bump on the eyelid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "guideline": {
+      "text": "PMC review: hordeolum is a common, painful inflammation of the eyelid margin.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4261920/"
+    }
+  },
+  {
+    "id": "s2peds-1847",
+    "category": "Hordeolum (stye)",
+    "q": "What causes a hordeolum and how is it treated per p121?",
+    "a": "A Staph aureus infection of a sweat gland or oil duct. Treat with warm compresses.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    },
+    "guideline": {
+      "text": "PMC review: hot or warm compresses and lid scrubs are standard interventions.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4261920/"
+    }
+  },
+  {
+    "id": "s2peds-1848",
+    "category": "Hordeolum (stye)",
+    "q": "At what age can a hordeolum occur per p121?",
+    "a": "Any age.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 121,
+      "url": "/mehlman/hy-pediatrics.pdf#page=121"
+    }
   }
 ];
