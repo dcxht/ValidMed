@@ -566,3 +566,9 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Strabismus: source calls it "lazy eye"; StatPearls defines it as misaligned eyes, amblyopia is separate. Source answer kept, clarifying note added.
 - Left un-noted: hordeolum photo description (visual only), the chalazion vs hordeolum comparison card (synthesis of p121-122).
 - Mobile QA (320x740, live, local headless Chrome): all 9 cards ox=false off=false bad=0; three photo cards render and answers fit.
+
+## p123 (strabismus types, cataract, OI, Alport, Marfan, homocystinuria) - 11 cards, ids s2peds-1858 to 1868
+- Inspected page pixels. Three source figures added: strabismus types diagram (the source labels hypertropia "Unward turning", a typo; card text says upward), pediatric cataract photo, OI blue sclerae photo.
+- Notes verified against StatPearls (Amblyopia, Alport, Ectopia Lentis, OI), a pediatric cataract review (TORCH incl. rubella, syphilis) and GeneReviews (CBS deficiency).
+- Left un-noted/unverified: NF2 as a pediatric cataract cause (genetics table lists NF2 but I did not verify the clinical association in the fetched review; note says so), cataract symptom description, "eye exercises" for strabismus, p123's last line ("Marfan and Alport can also cause eye issues, but ...") continues on p124 and will be handled there.
+- Mobile QA: PENDING

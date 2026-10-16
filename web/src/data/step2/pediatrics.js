@@ -26532,5 +26532,164 @@ export default [
       "text": "StatPearls: strabismus means misaligned eyes. Amblyopia is a separate condition (reduced vision) that can result from strabismus, so strictly 'lazy eye' is amblyopia.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK560782/"
     }
+  },
+  {
+    "id": "s2peds-1858",
+    "category": "Strabismus",
+    "q": "What four types of strabismus does the p123 figure show, and how does each eye turn?",
+    "a": "Esotropia: inward. Exotropia: outward. Hypotropia: downward. Hypertropia: upward.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "img": "/mehlman/figures/peds-p123-strabismus-types.png",
+    "imgAlt": "Actual source diagram titled Strabismus Types: esotropia inward turning, exotropia outward turning, hypotropia downward turning, hypertropia upward turning"
+  },
+  {
+    "id": "s2peds-1859",
+    "category": "Strabismus",
+    "q": "What can untreated strabismus lead to per p123, and what is that condition?",
+    "a": "Amblyopia: reduced visual acuity in the weak eye because the brain favors the stronger eye during development.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "guideline": {
+      "text": "StatPearls Amblyopia lists strabismus, refractive error and anisometropia as causes of reduced best-corrected visual acuity.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430890/"
+    }
+  },
+  {
+    "id": "s2peds-1860",
+    "category": "Strabismus",
+    "q": "Is strabismus itself reduced vision in the weak eye per p123?",
+    "a": "No. Strabismus is not reduced vision. It precedes amblyopia if untreated.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2peds-1861",
+    "category": "Strabismus",
+    "q": "How does p123 say to prevent amblyopia?",
+    "a": "Eye exercises and/or penalization of the strong eye (patching).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "guideline": {
+      "text": "StatPearls Amblyopia lists optical correction, patching and pharmacological therapy as treatment modalities.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430890/"
+    }
+  },
+  {
+    "id": "s2peds-1862",
+    "category": "Pediatric cataracts",
+    "q": "How does p123 describe a cataract?",
+    "a": "Progressive clouding or opacification of the lens, causing blurred or hazy vision, worse in bright light, with increased glare sensitivity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "img": "/mehlman/figures/peds-p123-pediatric-cataract.png",
+    "imgAlt": "Actual source photograph of an infant with a white opacity in the pupil of one eye, a pediatric cataract"
+  },
+  {
+    "id": "s2peds-1863",
+    "category": "Pediatric cataracts",
+    "q": "Which pediatric conditions does p123 list as causes of cataracts?",
+    "a": "Congenital rubella, congenital syphilis and NF2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "guideline": {
+      "text": "Pediatric cataract review: congenital TORCH infections, including rubella (the most common) and syphilis, are associated with congenital cataract. The review does not address NF2.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5742962/"
+    }
+  },
+  {
+    "id": "s2peds-1864",
+    "category": "Osteogenesis imperfecta",
+    "q": "Which gene product is mutated in osteogenesis imperfecta, and what eye finding does p123 show?",
+    "a": "Collagen I. Very blue sclerae.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "img": "/mehlman/figures/peds-p123-oi-blue-sclerae.png",
+    "imgAlt": "Actual source photograph of a child with blue sclerae from osteogenesis imperfecta",
+    "guideline": {
+      "text": "StatPearls: OI results from abnormal synthesis or processing of type I collagen, and manifestations include blue sclerae.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK536957/"
+    }
+  },
+  {
+    "id": "s2peds-1865",
+    "category": "Alport syndrome",
+    "q": "What mutation and inheritance does p123 give for Alport syndrome?",
+    "a": "Type IV collagen mutation; X-linked recessive.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "guideline": {
+      "text": "StatPearls: Alport is X-linked in about 80% of cases (COL4A5), caused by type 4 collagen alpha chain mutations; autosomal recessive and dominant forms exist.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470419/"
+    }
+  },
+  {
+    "id": "s2peds-1866",
+    "category": "Alport syndrome",
+    "q": "USMLE pattern per p123: which diagnosis fits a male with eye and/or ear problems plus red urine?",
+    "a": "Alport syndrome.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "guideline": {
+      "text": "StatPearls: type 4 collagen is found mainly in kidney, eye and cochlea, and Alport presents with hematuria.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470419/"
+    }
+  },
+  {
+    "id": "s2peds-1867",
+    "category": "Marfan syndrome",
+    "q": "What does p123 say about Marfan syndrome (gene, inheritance, eye finding)?",
+    "a": "Fibrillin mutation; autosomal dominant; chromosome 15; can cause lens dislocation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "guideline": {
+      "text": "StatPearls Ectopia Lentis: FBN1 on chromosome 15; Marfan is the most common syndrome associated with ectopia lentis, seen in about 80% of patients.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK578193/"
+    }
+  },
+  {
+    "id": "s2peds-1868",
+    "category": "Homocystinuria",
+    "q": "Which school-age picture does p123 link to homocystinuria?",
+    "a": "A Marfanoid child with thromboses, plus or minus lens dislocation.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 123,
+      "url": "/mehlman/hy-pediatrics.pdf#page=123"
+    },
+    "guideline": {
+      "text": "GeneReviews: CBS deficiency involves ectopia lentis and/or severe myopia, a Marfanoid skeletal habitus and thromboembolism.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1524/"
+    }
   }
 ];
