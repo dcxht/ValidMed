@@ -33104,5 +33104,125 @@ export default [
       "text": "StatPearls and Endotext hyperglycemic crisis management begin with fluid resuscitation. I did not verify the insulin sequencing in the passages I read.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK279052/"
     }
+  },
+  {
+    "id": "s2peds-2328",
+    "category": "Peds vignettes",
+    "q": "Girl, 5, 1-year chronic nonproductive cough, asthma treatments ineffective, CXR with only a linear consolidation in the right middle lobe. Diagnosis per p155?",
+    "a": "Bronchiectasis on the Peds NBME, called \"right middle lobe syndrome.\" It can present as bronchiectasis in pediatrics with nonproductive cough and linear consolidation on CXR (unlike the cups of foul sputum in CF, TB or COPD).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "Literature describes right middle lobe syndrome in children as chronic or recurrent middle lobe collapse. I did not verify the bronchiectasis framing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3623806/"
+    }
+  },
+  {
+    "id": "s2peds-2329",
+    "category": "Peds vignettes",
+    "q": "Girl, 7, seizure-like episode; ECG during the episode shows P waves at 80 bpm without QRS complexes, sinus rhythm returns after 20 seconds, alert after 1 minute. Diagnosis per p155?",
+    "a": "Adams-Stokes attack (Peds NBME): not a true seizure disorder per EEG. The arrhythmia causes brainstem hypoxia, leading to seizure-like fits.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "StatPearls: third-degree AV block presents with syncope and bradycardia (P waves without conducted QRS).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10334430/"
+    }
+  },
+  {
+    "id": "s2peds-2330",
+    "category": "Peds vignettes",
+    "q": "Boy, 8, low-pitched vibratory murmur throughout the cardiac cycle, loudest at the left upper sternal border sitting, disappears supine and with neck rotation. Diagnosis per p155?",
+    "a": "Venous hum: a benign, innocent pediatric murmur that disappears as the child grows, caused by turbulent venous return in the SVC and jugular veins.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "StatPearls: the venous hum is heard sitting up and most often disappears when supine, unlike the flow murmur that is loudest supine.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507849/"
+    }
+  },
+  {
+    "id": "s2peds-2331",
+    "category": "Peds vignettes",
+    "q": "Male, 2 (as printed: "2M"), fever 101F, diffuse crackles, CXR with diffuse interstitial infiltrates, thrush, failure to thrive, diarrhea, mother used drugs in pregnancy. What is the next best step in diagnosis per p155?",
+    "a": "Silver stain of bronchoalveolar fluid. This is Pneumocystis jirovecii pneumonia (PJP) in a child with AIDS secondary to maternal drug use (presumably IV).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "Review: infants of HIV-infected mothers are at risk; PCP is visualized with stains such as Gomori methenamine silver, and BAL is used for diagnosis. The source says 2M.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8522405/"
+    }
+  },
+  {
+    "id": "s2peds-2332",
+    "category": "Peds vignettes",
+    "q": "What imaging pattern points to PJP versus another pneumonia per p155?",
+    "a": "PJP gives bilateral diffuse infiltrates with a ground-glass appearance. BAL is done after the CXR. If the NBME gives a lobar presentation, it is not PJP (usually S. pneumo).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "Review: diffuse bilateral infiltrates are typical of Pneumocystis pneumonia. I did not verify the lobar S. pneumo statement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8522405/"
+    }
+  },
+  {
+    "id": "s2peds-2333",
+    "category": "Peds vignettes",
+    "q": "Boy, 6 months, runny nose for 2 days, respiratory stridor, temp 101F. Most likely location of the pathology per p155?",
+    "a": "The larynx. Diagnosis is laryngotracheobronchitis (croup) caused by parainfluenza virus, with a classic seal-like, barking cough.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says croup typically gets dexamethasone, with epinephrine reserved for moderate to severe cases, and the source's 'school-age child' does not match typical croup in young children. Parainfluenza is the most common cause.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431070/"
+    }
+  },
+  {
+    "id": "s2peds-2334",
+    "category": "Peds vignettes",
+    "q": "What is the treatment for croup per p155?",
+    "a": "Supportive, or nebulized racemic epinephrine if severe.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says most children improve with a single dose of dexamethasone plus supportive care; racemic epinephrine is added for severe cases. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK431070/"
+    }
+  },
+  {
+    "id": "s2peds-2335",
+    "category": "Peds vignettes",
+    "q": "Infant, 10 months, fever 101F, bilateral wheezes. Diagnosis and treatment per p155?",
+    "a": "\"Community-acquired viral infection,\" i.e. RSV bronchiolitis. Treatment is supportive; ribavirin and palivizumab are almost always wrong.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 155,
+      "url": "/mehlman/hy-pediatrics.pdf#page=155"
+    },
+    "guideline": {
+      "text": "Canadian Paediatric Society review: RSV causes most bronchiolitis; management is primarily supportive (hydration, suctioning, oxygen).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4235450/"
+    }
   }
 ];

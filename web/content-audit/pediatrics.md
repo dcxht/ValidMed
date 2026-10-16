@@ -780,3 +780,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflicts, source answer kept with caution note: "DKA strictly type I" (can occur in type 2); HHS bicarb "not below 20" (Endotext: 15 or higher).
 - Left unverified: adipokine mechanism, early beta-cell hypertrophy, ketones absent in type II, brain ECF/ICF osmolality mechanism, fluids-before-insulin for HHS, NBME-style exam patterns.
 - Mobile QA (320x740, local vite preview build, not live): all 10 cards ox=false off=false bad=0.
+
+## p155 (Bullet points: Peds NBME vignettes - RML syndrome, Adams-Stokes, venous hum, PJP, croup, bronchiolitis) - 8 cards, ids s2peds-2328 to 2335
+- Inspected page text and layout; no figures. "2M" in the PJP vignette is ambiguous (2 months vs 2-year-old male); I treated it as given in the card and the note.
+- Notes verified against StatPearls (Innocent Murmur, Croup, 3rd-Degree AV block), a PJP pediatric review, a Canadian bronchiolitis review and an RML syndrome abstract.
+- Source conflicts, source answer kept with caution note: croup treatment omits dexamethasone (first-line today); croup "school-age child" vs typical young children.
+- Left unverified: RML syndrome as bronchiectasis, Adams-Stokes brainstem hypoxia mechanism, lobar-pattern exclusion of PJP, "ribavirin and palivizumab almost always wrong" as an NBME pattern, "Peds NBME" claims.
+- Mobile QA (320x740, local vite preview build, not live): all 8 cards ox=false off=false bad=0.
