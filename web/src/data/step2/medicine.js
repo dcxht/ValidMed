@@ -29394,5 +29394,222 @@ export default [
       "text": "Caution: the WAO/EAACI guideline linked above is the current reference; I did not read it, and current HAE guidelines may list other agents ahead of androgens such as danazol. Source answer stays for exam purposes.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/"
     }
+  },
+  {
+    "id": "s2med-2241",
+    "category": "IM Derm",
+    "q": "NF1: inheritance and group per p230?",
+    "a": "Neurofibromatosis type I; autosomal dominant; one of the phakomatoses (neurocutaneous disorders: NF1/2, VHL, TSC, Sturge-Weber).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=230"
+    },
+    "img": "/mehlman/figures/med-p230-01.jpg",
+    "imgAlt": "Light brown flat patch on skin (cafe au lait spot)"
+  },
+  {
+    "id": "s2med-2242",
+    "category": "IM Derm",
+    "q": "NF1: findings per p230?",
+    "a": "Cafe au lait spots, neurofibromas, axillary/groin freckling, optic glioma, pheochromocytoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=230"
+    },
+    "guideline": {
+      "text": "The revised 2021 NF1 diagnostic criteria consensus is linked; I did not verify each listed finding against it.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354850/"
+    }
+  },
+  {
+    "id": "s2med-2243",
+    "category": "IM Derm",
+    "q": "Tuberous sclerosis: inheritance and skin sign per p230?",
+    "a": "Autosomal dominant; one of the phakomatoses. Image shows adenoma sebaceum (angiofibromas).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=230"
+    },
+    "img": "/mehlman/figures/med-p230-02.jpg",
+    "imgAlt": "Small skin-colored papules across the nose and cheeks (adenoma sebaceum / facial angiofibromas)"
+  },
+  {
+    "id": "s2med-2244",
+    "category": "IM Derm",
+    "q": "Tuberous sclerosis: findings per p230?",
+    "a": "Intracranial/periventricular nodules ('tubers', i.e., hamartomas), adenoma sebaceum (angiofibromas), cardiac rhabdomyoma, lymphangioleiomyomatosis, subungual fibromas, renal angiomyolipoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=230"
+    },
+    "guideline": {
+      "text": "The updated international TSC diagnostic criteria are linked; I did not verify each finding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34399110/"
+    }
+  },
+  {
+    "id": "s2med-2245",
+    "category": "IM Derm",
+    "q": "Sturge-Weber: skin finding per p230?",
+    "a": "Classically a port-wine stain birthmark (nevus flammeus), but can be described as 'violaceous papules in a temporal distribution.'",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=230"
+    },
+    "img": "/mehlman/figures/med-p230-03.jpg",
+    "imgAlt": "Red-purple birthmark on one side of a toddler's face (port-wine stain)"
+  },
+  {
+    "id": "s2med-2246",
+    "category": "IM Derm",
+    "q": "Sturge-Weber: associations and inheritance per p230?",
+    "a": "Associated with leptomeningeal angioma (causing seizure) and glaucoma. Not inherited; due to somatic mosaicism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 230,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=230"
+    },
+    "guideline": {
+      "text": "A Sturge-Weber review is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10145477/"
+    }
+  },
+  {
+    "id": "s2med-2247",
+    "category": "IM Derm",
+    "q": "McCune-Albright syndrome: triad per p231?",
+    "a": "Triad of 'coast of Maine' cafe au lait spots (irregular borders), polyostotic fibrous dysplasia (bone replaced by fibrous tissue), and endocrine hypersecretion (classically precocious puberty).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=231"
+    },
+    "img": "/mehlman/figures/med-p231-01.jpg",
+    "imgAlt": "Dark flat patches and freckles on a child's trunk (cafe au lait spots)",
+    "guideline": {
+      "text": "A McCune-Albright page is linked; I did not verify the 'coast of Maine' wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537092/"
+    }
+  },
+  {
+    "id": "s2med-2248",
+    "category": "IM Derm",
+    "q": "Acanthosis nigricans per p231?",
+    "a": "Brown/black velvety skin, usually along the nape of the neck. Associated with hyperinsulinemia and type II diabetes almost always. Can also very rarely be seen in patients with an underlying visceral malignancy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=231"
+    },
+    "img": "/mehlman/figures/med-p231-02.jpg",
+    "imgAlt": "Thick velvety ridged skin at the back of the neck (acanthosis nigricans)",
+    "guideline": {
+      "text": "A StatPearls page on acanthosis nigricans is linked; I did not verify 'almost always.'",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK431057/"
+    }
+  },
+  {
+    "id": "s2med-2249",
+    "category": "IM Derm",
+    "q": "Basal cell carcinoma: appearance per p231?",
+    "a": "Classically pearlescent / slightly translucent; telangiectasias common; borders can be described as 'heaped up' or 'rolled'; may or may not be ulcerated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=231"
+    },
+    "img": "/mehlman/figures/med-p231-03.jpg",
+    "imgAlt": "Pearly pink nodule on the side of the nose (basal cell carcinoma)"
+  },
+  {
+    "id": "s2med-2250",
+    "category": "IM Derm",
+    "q": "Skin cancer on cosmetically sensitive areas per p231?",
+    "a": "Skin cancers on cosmetically sensitive areas such as the eyelid or nose can be managed with Mohs micrographic surgery (on NBME).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 231,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=231"
+    },
+    "guideline": {
+      "text": "A clinical practice guideline on Mohs indications is linked; I did not verify the NBME claim.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6380643/"
+    }
+  },
+  {
+    "id": "s2med-2251",
+    "category": "IM Derm",
+    "q": "Actinic keratoses per p232?",
+    "a": "Aka solar keratoses; precursor to squamous cell carcinoma (SCC); classically red/scaly lesions on the forehead, ear or arms of fishermen, farmers or construction workers. Cryotherapy is the usual treatment.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=232"
+    },
+    "img": "/mehlman/figures/med-p232-01.jpg",
+    "imgAlt": "Rough scaly spots on the back of an older hand (actinic keratoses)",
+    "guideline": {
+      "text": "A cryotherapy review for actinic keratosis is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8906699/"
+    }
+  },
+  {
+    "id": "s2med-2252",
+    "category": "IM Derm",
+    "q": "Actinic keratosis: forehead picture per p232?",
+    "a": "Red/scaly areas on the forehead of a sun-exposed patient are actinic keratoses.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=232"
+    },
+    "img": "/mehlman/figures/med-p232-02.jpg",
+    "imgAlt": "Red scaly patches on a balding forehead (actinic keratoses)"
+  },
+  {
+    "id": "s2med-2253",
+    "category": "IM Derm",
+    "q": "Ulcerated lesion after actinic keratoses per p232?",
+    "a": "If the question says the patient has had scaly red areas on the forehead for many years and now has recent ulceration, the answer is SCC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=232"
+    },
+    "img": "/mehlman/figures/med-p232-03.jpg",
+    "imgAlt": "Crusted ulcer in the ear (squamous cell carcinoma)"
+  },
+  {
+    "id": "s2med-2254",
+    "category": "IM Derm",
+    "q": "SCC vs BCC appearance per p232?",
+    "a": "SCC will not have telangiectasias or pearlescence/translucency (as with BCC).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=232"
+    }
+  },
+  {
+    "id": "s2med-2255",
+    "category": "IM Derm",
+    "q": "Keratoacanthoma per p232?",
+    "a": "Can be confused with SCC; described as dome-shaped with a hyperkeratotic core, surrounded by a wall of inflamed skin. Tx is surgical excision.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 232,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=232"
+    },
+    "img": "/mehlman/figures/med-p232-04.jpg",
+    "imgAlt": "Red dome-shaped nodule with a central crater (keratoacanthoma)",
+    "guideline": {
+      "text": "A review of keratoacanthoma management is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9651152/"
+    }
   }
 ];

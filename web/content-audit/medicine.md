@@ -831,3 +831,13 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p229 (lichen planus, ACC, HAE) - 4 cards, ids s2med-2237 to 2240
 - HAE danazol: current WAO/EAACI 2021 guideline may list other first-line agents; not read. Source answer kept.
 - Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
+
+## p230 (NF1, TSC, Sturge-Weber) - 6 cards, ids s2med-2241 to 2246
+- Findings lists not individually verified against criteria.
+
+## p231 (McCune-Albright, acanthosis, BCC) - 4 cards, ids s2med-2247 to 2250
+- "coast of Maine", "almost always" T2DM, NBME Mohs claim not verified.
+
+## p232 (AK, SCC, keratoacanthoma) - 5 cards, ids s2med-2251 to 2255
+- Not individually verified.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
