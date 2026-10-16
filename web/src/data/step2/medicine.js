@@ -34264,5 +34264,238 @@ export default [
       "page": 263,
       "url": "/mehlman/hy-internal-medicine.pdf#page=263"
     }
+  },
+  {
+    "id": "s2med-2595",
+    "category": "IM Neuro",
+    "q": "Epidural hematoma imaging per p264?",
+    "a": "The image at the top of p264 shows the lens-shaped (biconvex) bright collection described on p263 for epidural hematoma.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    },
+    "img": "/mehlman/figures/med-p264-01.jpg",
+    "imgAlt": "Head CT with a bright lens-shaped collection along the left skull (epidural hematoma)"
+  },
+  {
+    "id": "s2med-2596",
+    "category": "IM Neuro",
+    "q": "Subdural hematoma: cause per p264?",
+    "a": "Rupture of bridging (superior cerebral) veins.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2597",
+    "category": "IM Neuro",
+    "q": "Subdural hematoma: consciousness per p264?",
+    "a": "No lucid interval (the patient did not lose consciousness).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2598",
+    "category": "IM Neuro",
+    "q": "Subdural hematoma: imaging per p264?",
+    "a": "Crescent-shaped; can accumulate slowly and look heterogeneous due to a mix of dried and fresh blood.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    },
+    "img": "/mehlman/figures/med-p264-02.jpg",
+    "imgAlt": "Head CT with a crescent-shaped collection along the left brain surface (subdural hematoma)"
+  },
+  {
+    "id": "s2med-2599",
+    "category": "IM Neuro",
+    "q": "Subdural hematoma: who gets it per p264?",
+    "a": "Increased risk in elderly/dementia and alcoholics; the answer in acceleration-deceleration injuries (shaken baby syndrome; motor vehicle accidents).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2600",
+    "category": "IM Neuro",
+    "q": "Subdural hematoma: treatment per p264?",
+    "a": "The NBME wants craniotomy as the answer. The source found no evidence for mere observation as the answer in any USMLE material.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2601",
+    "category": "IM Neuro",
+    "q": "Subdural hematoma with low Glasgow score per p264?",
+    "a": "Do 'intubation plus hyperventilation' as the answer before craniotomy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2602",
+    "category": "IM Neuro",
+    "q": "Subarachnoid hemorrhage: cause per p264?",
+    "a": "Rupture of an anterior communicating artery (AcoM) or posterior communicating artery (PcoM) saccular/berry aneurysm. AcoM is more common than PcoM.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    },
+    "guideline": {
+      "text": "A StatPearls page on berry aneurysm is linked; I did not verify the wording.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK557480/"
+    }
+  },
+  {
+    "id": "s2med-2603",
+    "category": "IM Neuro",
+    "q": "Subarachnoid hemorrhage: symptom per p264?",
+    "a": "Patients often report 'worst headache of his/her life'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2604",
+    "category": "IM Neuro",
+    "q": "Subarachnoid hemorrhage: stiff neck per p264?",
+    "a": "Can present with stiff neck (meningism) like meningitis, due to irritation of the meninges by the hemorrhage. This often confuses students and is a very high-yield detail.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2605",
+    "category": "IM Neuro",
+    "q": "PcoM aneurysm sign per p264?",
+    "a": "Classically associated with an ipsilateral blown pupil (mydriasis) due to CN III impingement.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2606",
+    "category": "IM Neuro",
+    "q": "Subarachnoid hemorrhage: risk factors per p264?",
+    "a": "HTN is the most common risk factor in the population and accounts for most cases.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    }
+  },
+  {
+    "id": "s2med-2607",
+    "category": "IM Neuro",
+    "q": "Non-HTN causes of saccular aneurysm per p264?",
+    "a": "Ehlers-Danlos and autosomal dominant polycystic kidney disease (ADPKD) are high-yield non-HTN causes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 264,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=264"
+    },
+    "guideline": {
+      "text": "A paper on genetic associations of intracranial aneurysm is linked; I did not verify the wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5532918/"
+    }
+  },
+  {
+    "id": "s2med-2608",
+    "category": "IM Neuro",
+    "q": "HTN and berry aneurysm per p265?",
+    "a": "A patient with HTN is still more likely to die from myocardial infarction than from a berry aneurysm (asked on NBME). But if a patient has a berry aneurysm, it is most likely from HTN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2med-2609",
+    "category": "IM Neuro",
+    "q": "Subarachnoid hemorrhage: imaging per p265?",
+    "a": "The bleed appears like a 'star fish' or 'sand dollar'. A question can say blood is seen in the basal cisterns.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=265"
+    },
+    "img": "/mehlman/figures/med-p265-01.jpg",
+    "imgAlt": "Head CT with bright blood in the basal cisterns (subarachnoid hemorrhage)"
+  },
+  {
+    "id": "s2med-2610",
+    "category": "IM Neuro",
+    "q": "Subarachnoid hemorrhage: treatment per p265?",
+    "a": "Usually supportive. HTN must be controlled. Anticoagulants must be reversed (for example FFP for patients on warfarin). Nimodipine can prevent vasospasm and neurologic sequelae during convalescence.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=265"
+    },
+    "guideline": {
+      "text": "The 2023 AHA/ASA aneurysmal SAH guideline is linked (title only); I did not read it.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37212182/"
+    }
+  },
+  {
+    "id": "s2med-2611",
+    "category": "IM Neuro",
+    "q": "Intracerebral hemorrhage: cause per p265?",
+    "a": "Rupture of Charcot-Bouchard microaneurysms within the lenticulostriate arteries in patients with chronic HTN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=265"
+    },
+    "img": "/mehlman/figures/med-p265-02.jpg",
+    "imgAlt": "Head CT with a large bright deep hemorrhage (intracerebral hemorrhage)",
+    "guideline": {
+      "text": "A StatPearls page on Charcot-Bouchard aneurysm is linked; I did not verify the wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK553028/"
+    }
+  },
+  {
+    "id": "s2med-2612",
+    "category": "IM Neuro",
+    "q": "Intracerebral hemorrhage: short vignette per p265?",
+    "a": "Can appear as a 1-2 line stem with no image or patient info, such as 'X person has a bleed and decorticate posturing; what is the diagnosis?' Answer: intracerebral hemorrhage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=265"
+    }
+  },
+  {
+    "id": "s2med-2613",
+    "category": "IM Neuro",
+    "q": "Intracerebral hemorrhage: brainstem compression per p265?",
+    "a": "USMLE wants you to know intracerebral hemorrhage has a high likelihood of causing brainstem compression.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 265,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=265"
+    }
   }
 ];

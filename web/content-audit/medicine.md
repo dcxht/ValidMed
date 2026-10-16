@@ -926,3 +926,9 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p263 (tetanus, toxins, narcolepsy, epidural hematoma) - 12 cards, ids s2med-2583 to 2594
 - Tetanus wound intervals and vaccine schedule unverified; hyperventilation advice flagged.
 - Mobile QA (320x740, local vite preview build, not live): all 25 cards ox=false off=false bad=0.
+
+## p264 (EDH image, SDH, SAH) - 13 cards, ids s2med-2595 to 2607
+- SDH craniotomy-only and hyperventilation advice flagged. No source found for SDH specifics (not linked).
+## p265 (SAH cont., ICH) - 6 cards, ids s2med-2608 to 2613
+- NBME claims unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
