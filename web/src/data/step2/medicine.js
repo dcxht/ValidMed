@@ -48485,5 +48485,293 @@ export default [
       "text": "A paper on angiographic findings of PAN is linked (title only).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/11158650/"
     }
+  },
+  {
+    "id": "s2med-3618",
+    "category": "IM Endocrine",
+    "q": "PAN vs FMD angiogram per p361 (continued from p360)?",
+    "a": "PAN angiogram shows pearls more distal in the renal vasculature; FMD shows more proximal beading, with the termini not as conspicuously involved. An NBME question lists both PAN and FMD and relies on the angiogram; hepatitis B isn't mentioned, but the answer is PAN.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    },
+    "img": "/mehlman/figures/med-p361-01.jpg",
+    "imgAlt": "Source figure: renal angiogram in PAN with distal pearl-like aneurysms"
+  },
+  {
+    "id": "s2med-3619",
+    "category": "IM Endocrine",
+    "q": "PAN features per p361?",
+    "a": "Causes fibrinoid necrosis. Can be caused by hepatitis B. Spares the pulmonary vasculature.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    },
+    "guideline": {
+      "text": "A case-based review of the hepatitis B-related form of PAN is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10305326/"
+    }
+  },
+  {
+    "id": "s2med-3620",
+    "category": "IM Endocrine",
+    "q": "Renal artery thrombosis in neonates per p361?",
+    "a": "The answer for hypertension in a neonate after umbilical artery catheterization: increased renin, increased aldosterone. Umbilical artery catheterization is a major risk factor for renal artery thrombosis in neonates.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    },
+    "guideline": {
+      "text": "A paper on hypertension in infants after umbilical arterial catheterization is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/978330/"
+    }
+  },
+  {
+    "id": "s2med-3621",
+    "category": "IM Endocrine",
+    "q": "Renal artery thrombosis NBME example per p361?",
+    "a": "A 2CK NBME question: brief umbilical artery catheter in a baby born at 26 weeks to monitor BP during pneumonia; 3 weeks later BP is 128/86; answer: increased renin, increased aldosterone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    }
+  },
+  {
+    "id": "s2med-3622",
+    "category": "IM Endocrine",
+    "q": "Neonatal blood pressure norms per p361?",
+    "a": "Per the source: term neonates about 60/40; a preemie at 29 weeks about 50/30.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    },
+    "guideline": {
+      "text": "A systematic review of neonatal blood pressure by gestational age is linked (title only). I did not verify the source's exact values.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11061963/"
+    }
+  },
+  {
+    "id": "s2med-3623",
+    "category": "IM Endocrine",
+    "q": "Conn syndrome per p361?",
+    "a": "Aldosterone-secreting tumor. Increased Na+, decreased K+, increased HCO3-, increased pH. Renin is decreased: the aldosterone causes fluid retention and increased renal blood flow, shutting off renin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    },
+    "guideline": {
+      "text": "A primary aldosteronism practice guideline is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7803025/"
+    }
+  },
+  {
+    "id": "s2med-3624",
+    "category": "IM Endocrine",
+    "q": "Sodium in Conn syndrome per p361?",
+    "a": "In about 50% of aldosterone-derangement questions Na+ will be normal, because the body strongly maintains Na+ (also via ADH).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    }
+  },
+  {
+    "id": "s2med-3625",
+    "category": "IM Endocrine",
+    "q": "Conn syndrome treatment per p361?",
+    "a": "Spironolactone (aldosterone receptor antagonist) prior to surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    }
+  },
+  {
+    "id": "s2med-3626",
+    "category": "IM Endocrine",
+    "q": "Familial hyperaldosteronism per p361 (continued on p362)?",
+    "a": "Gene mutations can cause increased primary adrenal production of aldosterone. If a question gives family members with high BP + high aldosterone and no other information (including renin), the answer is primary hyperaldosteronism, not renovascular hypertension (FMD or RAS).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 361,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=361"
+    },
+    "guideline": {
+      "text": "A clinical practice guideline on familial hyperaldosteronism is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38571460/"
+    }
+  },
+  {
+    "id": "s2med-3627",
+    "category": "IM Endocrine",
+    "q": "Why familial points to primary hyperaldosteronism per p362 (continued from p361)?",
+    "a": "If aldosterone excess is familial, it is likely due to gene mutations causing increased primary production from the zona glomerulosa. A 2CK NBME form uses this.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    }
+  },
+  {
+    "id": "s2med-3628",
+    "category": "IM Endocrine",
+    "q": "Addison disease per p362?",
+    "a": "Autoimmune destruction of the adrenal cortex leading to decreased aldosterone and cortisol. The source hasn't seen USMLE care about decreased androgens. Called primary adrenal insufficiency because the adrenal gland itself is underproducing hormones.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    },
+    "guideline": {
+      "text": "A review of autoimmune primary adrenal insufficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10667925/"
+    }
+  },
+  {
+    "id": "s2med-3629",
+    "category": "IM Endocrine",
+    "q": "Addison vignette clues per p362?",
+    "a": "Idiopathic/autoimmune: the vignette may add a side detail like a brother with RA, a sister with IBD, or a history of thyroiditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    }
+  },
+  {
+    "id": "s2med-3630",
+    "category": "IM Endocrine",
+    "q": "Addison labs and BP per p362?",
+    "a": "Low Na+, high K+, low pH, low bicarb. BP is low-normal or low due to both decreased aldosterone and decreased cortisol; the cortisol effect is high-yield, not just aldosterone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    }
+  },
+  {
+    "id": "s2med-3631",
+    "category": "IM Endocrine",
+    "q": "Addison hyperpigmentation per p362?",
+    "a": "ACTH and alpha-MSH are both increased due to low cortisol, causing hyperpigmentation; the source says only about 50% of vignettes mention it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    }
+  },
+  {
+    "id": "s2med-3632",
+    "category": "IM Endocrine",
+    "q": "Addison eosinophilia per p362?",
+    "a": "Patients can present with eosinophilia: cortisol normally helps sequester eosinophils in the spleen and facilitates their apoptosis, so low cortisol means more eosinophils. Questions can give eosinophils of 15-25% (normally <5%); don't chase stool ova and parasites.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    },
+    "guideline": {
+      "text": "A paper on eosinophilia as a marker of adrenal insufficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3300601/"
+    }
+  },
+  {
+    "id": "s2med-3633",
+    "category": "IM Endocrine",
+    "q": "Classic Addison vignette answer per p362?",
+    "a": "Ongoing fatigue + hyperpigmentation (young or old): the answer is ACTH stimulation test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    },
+    "guideline": {
+      "text": "A meta-analysis of ACTH stimulation tests for adrenal insufficiency is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26649617/"
+    }
+  },
+  {
+    "id": "s2med-3634",
+    "category": "IM Endocrine",
+    "q": "ACTH stimulation in primary adrenal insufficiency per p362?",
+    "a": "Exogenous ACTH should normally cause a robust rise in cortisol from the adrenal fasciculata. In primary adrenal insufficiency the gland is damaged, so exogenous ACTH produces no response.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    }
+  },
+  {
+    "id": "s2med-3635",
+    "category": "IM Endocrine",
+    "q": "Low cortisol and chronic fatigue per p362?",
+    "a": "The source says low cortisol causes chronic fatigue and that this is one of the most overlooked details in NBME questions and real life: check cortisol in unexplained chronic fatigue; if low, hydrocortisone will boost the patient.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    }
+  },
+  {
+    "id": "s2med-3636",
+    "category": "IM Endocrine",
+    "q": "Addison treatment per p362?",
+    "a": "Fludrocortisone +/- hydrocortisone. Fludrocortisone is a mineralocorticoid similar to aldosterone; hydrocortisone is a glucocorticoid similar to cortisol.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    },
+    "guideline": {
+      "text": "A guideline on adrenal insufficiency identification and management is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK609655/"
+    }
+  },
+  {
+    "id": "s2med-3637",
+    "category": "IM Endocrine",
+    "q": "Waterhouse-Friderichsen syndrome per p362?",
+    "a": "Meningococcal septicemia causing bilateral hemorrhagic necrosis of the adrenal glands, with low aldosterone and low cortisol. Vignette: low BP + low Na+ + high K+ + low bicarb with meningococcal infection (recent meningitis + non-blanching rash); answer: ACTH stimulation test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Waterhouse-Friderichsen syndrome is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551510/"
+    }
+  },
+  {
+    "id": "s2med-3638",
+    "category": "IM Endocrine",
+    "q": "Adrenal crisis risk per p362?",
+    "a": "Patients on chronic glucocorticoids (e.g., prednisone for IBD, RA, SLE) have a suppressed, atrophied adrenal gland: prednisone is a cortisol analogue that induces negative feedback and shuts off ACTH. With a stressor (surgery, trauma, infection, thyroid storm) they can't mount a stress response, risking acute glucocorticoid deficiency and a precipitous BP drop.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    },
+    "guideline": {
+      "text": "A joint guideline on glucocorticoid-induced adrenal insufficiency is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11180513/"
+    }
+  },
+  {
+    "id": "s2med-3639",
+    "category": "IM Endocrine",
+    "q": "Adrenal crisis next step per p362?",
+    "a": "SLE patient on prednisone going into surgery with BP drop to 80/40 not helped by fluids and pressors: next best step is IV hydrocortisone or methylprednisolone, replenishing the glucocorticoid.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 362,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=362"
+    }
   }
 ];

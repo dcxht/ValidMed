@@ -1242,3 +1242,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p360 (RAS, FMD, PAN) - 8 cards, ids s2med-3610 to 3617
 - Figure med-p360-01.jpg (beaded renal artery angiogram) captioned neutrally; source does not caption it in text.
 - Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
+
+## p361 (PAN/FMD, renal artery thrombosis, Conn, familial hyperaldo) - 9 cards, ids s2med-3618 to 3626
+- Neonatal BP norms (60/40 term, 50/30 at 29 wk): source, unverified, flagged.
+- Figure med-p361-01.jpg is the PAN angiogram per the p361 caption.
+
+## p362 (Addison, WFS, adrenal crisis) - 13 cards, ids s2med-3627 to 3639
+- "Low cortisol causes chronic fatigue" claim: source, unverified, flagged. Expletives paraphrased out.
+- Source remark that "pressors" can include desmopressin: not carded, unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
