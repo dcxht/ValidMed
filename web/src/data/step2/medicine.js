@@ -41185,5 +41185,283 @@ export default [
       "text": "A scoping review of iatrogenic femoral nerve injury is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8593564/"
     }
+  },
+  {
+    "id": "s2med-3086",
+    "category": "IM MSK",
+    "q": "Femoral nerve sensation per p317 (continued from p316)?",
+    "a": "Also supplies sensation to the anterior thigh + medial leg (not thigh, per the source's wording). The source hasn't seen sensation specifically asked for the femoral nerve.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=317"
+    }
+  },
+  {
+    "id": "s2med-3087",
+    "category": "IM MSK",
+    "q": "Saphenous nerve per p317?",
+    "a": "The answer if the patient loses sensation to the medial leg. A pure sensory branch of the femoral nerve.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=317"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the saphenous nerve is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK541045/"
+    }
+  },
+  {
+    "id": "s2med-3088",
+    "category": "IM MSK",
+    "q": "Sural nerve per p317?",
+    "a": "The answer if the patient loses sensation to the lower lateral leg. If the loss is the upper lateral leg, that's common peroneal instead.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=317"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the sural nerve is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546638/"
+    }
+  },
+  {
+    "id": "s2med-3089",
+    "category": "IM MSK",
+    "q": "Sural vs saphenous memory aid per p317?",
+    "a": "Often confused. suraL is Lateral, therefore saphenous must be the medial one.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=317"
+    }
+  },
+  {
+    "id": "s2med-3090",
+    "category": "IM MSK",
+    "q": "Superior gluteal nerve per p317?",
+    "a": "The answer if the patient has Trendelenburg gait: the opposite side of the pelvis falls while walking, so the patient tilts the trunk toward the side of the lesion to keep the pelvis level. Innervates gluteus medius and minimus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=317"
+    },
+    "guideline": {
+      "text": "A StatPearls page on Trendelenburg gait is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK541094/"
+    }
+  },
+  {
+    "id": "s2med-3091",
+    "category": "IM MSK",
+    "q": "Inferior gluteal nerve per p317?",
+    "a": "The answer if the patient cannot squat, stand up from a chair, or go up/down stairs. Innervates gluteus maximus.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=317"
+    },
+    "guideline": {
+      "text": "A StatPearls page on the gluteus maximus is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538193/"
+    }
+  },
+  {
+    "id": "s2med-3092",
+    "category": "IM MSK",
+    "q": "Dermatome figure per p317?",
+    "a": "The figure maps dermatomes from V1-V3 and C2 down to S5, front and back, including L4, L5 and S1 on the leg.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 317,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=317"
+    },
+    "img": "/mehlman/figures/med-p317-01.jpg",
+    "imgAlt": "Source figure: dermatome map",
+    "guideline": {
+      "text": "A StatPearls page on lumbosacral radiculopathy is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430837/"
+    }
+  },
+  {
+    "id": "s2med-3093",
+    "category": "IM MSK",
+    "q": "L4 radiculopathy per p318?",
+    "a": "The answer if the patient loses the knee (patellar) reflex and has weakened knee extension. Pain/paresthesias/numbness in the L4 distribution (anterior thigh + medial leg). Disc herniation of L3-4. Memory aid: L4 is the one where the knee reflex is lost.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "A StatPearls page on lumbosacral radiculopathy is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430837/"
+    }
+  },
+  {
+    "id": "s2med-3094",
+    "category": "IM MSK",
+    "q": "L5 radiculopathy per p318?",
+    "a": "The answer if the patient loses dorsiflexion. Pain/paresthesias/numbness in the L5 distribution (lateral + anterior leg). Disc herniation of L4-L5.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "The same page is linked on the previous card.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430837/"
+    }
+  },
+  {
+    "id": "s2med-3095",
+    "category": "IM MSK",
+    "q": "S1 radiculopathy per p318?",
+    "a": "The answer if the patient loses the ankle (Achilles) reflex and has weakened plantar flexion. Pain/paresthesias/numbness in the S1 distribution (sole of foot + lower leg). Disc herniation of L5-S1. Memory aid: S1 is the one where the ankle reflex is lost.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "The same page is linked on an earlier card.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430837/"
+    }
+  },
+  {
+    "id": "s2med-3096",
+    "category": "IM MSK",
+    "q": "SALT mnemonic per p318?",
+    "a": "S1, Achilles, Lateral leg dermatome, Tibial motor issue (plantar flexion).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    }
+  },
+  {
+    "id": "s2med-3097",
+    "category": "IM MSK",
+    "q": "Trochanteric bursitis per p318?",
+    "a": "Lateral hip pain worsened with palpation and lying on one's side in bed. Tx = NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "A StatPearls page on greater trochanteric pain syndrome is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557433/"
+    }
+  },
+  {
+    "id": "s2med-3098",
+    "category": "IM MSK",
+    "q": "Septic bursitis per p318?",
+    "a": "USMLE gives knee inflammation that sounds like septic arthritis but says there is no joint effusion. Presents this way in a 2CK NBME vignette where students ask 'why not septic arthritis?'. Tx = antibiotics.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "A paper on treating septic prepatellar bursitis is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC1026890/"
+    }
+  },
+  {
+    "id": "s2med-3099",
+    "category": "IM MSK",
+    "q": "Prepatellar bursitis per p318?",
+    "a": "Aka housemaid's knee; anterior knee pain in people frequently on their knees (painters, plumbers, etc.). Tx = NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    }
+  },
+  {
+    "id": "s2med-3100",
+    "category": "IM MSK",
+    "q": "Patellar tendonitis per p318?",
+    "a": "Inflammation of the patellar tendon ('jumper's knee'). The answer if anterior knee pain first occurs only after finishing sports (e.g., a basketball game), then progresses to chronic pain. Tx on NBME = 'quadricep strengthening exercises'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "A network meta-analysis on patellar tendinopathy management is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8634001/"
+    }
+  },
+  {
+    "id": "s2med-3101",
+    "category": "IM MSK",
+    "q": "Patellofemoral instability per p318?",
+    "a": "Presentation is annoyingly similar to patellar tendonitis, but do not confuse. Misalignment of the patella at the trochlear groove of the femur. A question can mention crepitus. On a 2CK form: teenage girl with knee pain worse after jumping or running plus crepitus = 'patellofemoral instability' (jumper's knee not listed).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    }
+  },
+  {
+    "id": "s2med-3102",
+    "category": "IM MSK",
+    "q": "Patellofemoral pain syndrome per p318?",
+    "a": "Aka chondromalacia patellae (softening of cartilage in the knee). The answer on NBME if pain worsens when sitting for long periods or going up or down stairs. Classic in obesity or those who squat heavy weight. Tx = quadriceps strengthening exercises.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "A systematic review of quadriceps strengthening for patellofemoral pain is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24766358/"
+    }
+  },
+  {
+    "id": "s2med-3103",
+    "category": "IM MSK",
+    "q": "ACL injury per p318?",
+    "a": "The answer if the anterior drawer or Lachman test is positive: excessive anterior displacement of the tibia relative to the femur. Classically injured when the knee is hyper-extended, or with a rotational force on a fixed, planted knee.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "A meta-analysis on accuracy of ACL clinical tests is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9464183/"
+    }
+  },
+  {
+    "id": "s2med-3104",
+    "category": "IM MSK",
+    "q": "PCL injury per p318?",
+    "a": "The answer if the posterior drawer test is positive: excessive posterior displacement of the tibia relative to the femur. Classically injured when the knee hits the dashboard in a car accident.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    },
+    "guideline": {
+      "text": "A StatPearls page on PCL injuries is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430726/"
+    }
+  },
+  {
+    "id": "s2med-3105",
+    "category": "IM MSK",
+    "q": "LCL injury per p318?",
+    "a": "The answer if the varus test induces excessive lateral motion of the knee compared to the unaffected side. Continues on p319.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 318,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=318"
+    }
   }
 ];

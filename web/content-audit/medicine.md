@@ -1080,3 +1080,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p316 (lower limb nerves) - 11 cards, ids s2med-3075 to 3085
 - Expletive about NBME and webbing sensation paraphrased. Spine curvature figure placed on p316 where it appears.
 - Mobile QA (320x740, local vite preview build, not live): all 18 cards ox=false off=false bad=0.
+
+## p317 (lower limb nerves, dermatomes) - 7 cards, ids s2med-3086 to 3092
+- Femoral sensation wording "anterior thigh + medial leg (not thigh)" is the source's own, kept as written. Expletives none.
+
+## p318 (radiculopathies, lower limb DDx, knee) - 13 cards, ids s2med-3093 to 3105
+- Expletive in L4/S1 memory aids paraphrased. Septic bursitis 2CK claim unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
