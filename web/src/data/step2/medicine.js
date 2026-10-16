@@ -14661,5 +14661,199 @@ export default [
       "page": 120,
       "url": "/mehlman/hy-internal-medicine.pdf#page=120"
     }
+  },
+  {
+    "id": "s2med-1106",
+    "category": "IM Gastro",
+    "q": "Primary sclerosing cholangitis per p120-121?",
+    "a": "Bile duct inflammation in IBD (always ulcerative colitis on USMLE, rarely Crohn in real life). p-ANCA can be positive; cholangiogram shows a beaded common bile duct. 2CK NBME 10: afebrile patient with UC + obstructive jaundice + ERCP 'narrowing of the bile ducts' = PSC.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    },
+    "guideline": {
+      "text": "The AASLD PSC practice guidance is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36083140/"
+    }
+  },
+  {
+    "id": "s2med-1107",
+    "category": "IM Gastro",
+    "q": "Third cholangitis presentation and treatment per p121?",
+    "a": "About 1/5: history of cholelithiasis, implying a descended stone with choledocholithiasis causing obstruction and inflammation. USMLE wants antibiotics + ERCP to diagnose and treat; biliary drainage by ERCP decreases morbidity and mortality.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2med-1108",
+    "category": "IM Gastro",
+    "q": "Acute pancreatitis diagnosis and causes per p121?",
+    "a": "Increased amylase and/or lipase in a patient with abdominal pain (need not radiate to the back). Biggest risk factors: alcoholism and stones. Hyperlipidemia and hypercalcemia occasionally. Drugs: didanosine (HIV NRTI), exenatide (GLP-1 analogue). Scorpion sting and mumps are nonexistent on USMLE. Gallstone pancreatitis: high enzymes with high ALP and direct bilirubin. Results in enzymatic fat necrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    },
+    "guideline": {
+      "text": "The ACG acute pancreatitis guideline is linked; I did not verify the text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38857482/"
+    }
+  },
+  {
+    "id": "s2med-1109",
+    "category": "IM Gastro",
+    "q": "Pancreatitis prognosis per p121?",
+    "a": "Source: skip Ranson criteria. Know that low serum calcium and high glucose are bad prognostic indicators (low calcium may be the highest-yield variable). The degree of amylase/lipase elevation does not correlate with prognosis (1200 vs 10,000 is unimportant).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    },
+    "guideline": {
+      "text": "StatPearls on Ranson criteria is linked; I did not verify the text.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482345/"
+    }
+  },
+  {
+    "id": "s2med-1110",
+    "category": "IM Gastro",
+    "q": "Amylase vs lipase on NBME per p121?",
+    "a": "NBME sometimes lists high amylase without lipase. Lipase is more specific for pancreatitis; don't be confused.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2med-1111",
+    "category": "IM Gastro",
+    "q": "Initial management of pancreatitis for 2CK per p121?",
+    "a": "Triad: NPO (can be written 'bowel rest'), NG tube decompression, IV normal saline. Not specific to pancreatitis (also cholangitis, stones) but tested a lot there.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    },
+    "guideline": {
+      "text": "The ACG guideline is linked; I did not verify the NG decompression component, which may differ from current practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38857482/"
+    }
+  },
+  {
+    "id": "s2med-1112",
+    "category": "IM Gastro",
+    "q": "Next step after initial pancreatitis triad per p121?",
+    "a": "CT scan of the abdomen to look for fluid collection. If a pancreatic pseudocyst is present, NBME answer is to drain it by ERCP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    },
+    "guideline": {
+      "text": "A review of pseudocyst treatment is linked; I did not verify the text. Current care often avoids routine early CT; source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12429497/"
+    }
+  },
+  {
+    "id": "s2med-1113",
+    "category": "IM Gastro",
+    "q": "Antibiotics in pancreatitis per p121?",
+    "a": "Source: USMLE doesn't assess antibiotics as part of treatment; carbapenems (e.g., imipenem) apparently penetrate pancreatic tissue well.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 121,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2med-1114",
+    "category": "IM Gastro",
+    "q": "Pancreatitis with pseudocyst on CT per p122?",
+    "a": "2CK NBME: pancreatitis with CT image of a pseudocyst (black circle); answer is ERCP for drainage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=122"
+    },
+    "img": "/mehlman/figures/med-p122-01.jpg",
+    "imgAlt": "Abdominal CT with a large fluid collection near the pancreas circled",
+    "guideline": {
+      "text": "A review of pseudocyst treatment is linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12429497/"
+    }
+  },
+  {
+    "id": "s2med-1115",
+    "category": "IM Gastro",
+    "q": "Necrosectomy per p122?",
+    "a": "Removal of pancreatic tissue when a high fraction is necrotic. Patients with pancreatectomy require enzyme replacement (pancrelipase). Acute pancreatitis is a HY cause of ARDS.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2med-1116",
+    "category": "IM Gastro",
+    "q": "Chronic pancreatitis steatorrhea per p122?",
+    "a": "Alcoholic or recurrent acute pancreatitis leads to pancreatic burnout with decreased proteases/lipases and malabsorption. Pancreatic enzymes are normal (not elevated). Stem may say increased fat and protein in stool.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=122"
+    },
+    "guideline": {
+      "text": "European guidelines on pancreatic exocrine insufficiency are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11866322/"
+    }
+  },
+  {
+    "id": "s2med-1117",
+    "category": "IM Gastro",
+    "q": "D-xylose test per p122?",
+    "a": "D-xylose is a monosaccharide readily absorbed if the small bowel lining is intact. Steatorrhea with normal D-xylose: pancreatic insufficiency or lactose intolerance. Abnormal D-xylose: intestinal lining problem such as celiac or Crohn.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2med-1118",
+    "category": "IM Gastro",
+    "q": "Chronic pancreatitis CT and treatment per p122?",
+    "a": "CT shows calcification within the pancreas. Treatment: pancreatic enzyme supplementation (pancrelipase).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=122"
+    },
+    "img": "/mehlman/figures/med-p122-02.jpg",
+    "imgAlt": "Abdominal CT with an arrow pointing to calcifications in the pancreas",
+    "guideline": {
+      "text": "A trial review of enzyme replacement in chronic pancreatitis exists; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11866322/"
+    }
+  },
+  {
+    "id": "s2med-1119",
+    "category": "IM Gastro",
+    "q": "Bile duct leak per p122?",
+    "a": "2CK Surg answer for a patient with cholecystectomy within the past week who now has fever, abdominal pain, and increased direct bilirubin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 122,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=122"
+    },
+    "guideline": {
+      "text": "The 2020 WSES guidelines on bile duct injury during cholecystectomy are linked; I did not verify the text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8190978/"
+    }
   }
 ];

@@ -532,3 +532,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p120 (choledocholithiasis, gallstone pancreatitis, cholangitis) - 10 cards, ids s2med-1096 to 1105
 - Conflict/heuristic: MRCP never correct; CT-before-ERCP in gallstone pancreatitis are source exam answers. Page ends mid-PSC bullet, carried on p121.
 - Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.
+
+## p121 (PSC, acute pancreatitis) - 8 cards, ids s2med-1106 to 1113
+- Conflict: NG decompression/early CT for pancreatitis are source exam answers; current guidelines unverified.
+
+## p122 (pseudocyst, chronic pancreatitis, bile leak) - 6 cards, ids s2med-1114 to 1119
+- Figures inspected (pseudocyst CT circled; calcifications arrow).
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
