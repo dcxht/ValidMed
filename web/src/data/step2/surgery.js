@@ -28517,6 +28517,135 @@ export default [
   {
     "id": "s2surg-2190",
     "category": "Surg Mixed",
+    "q": "When is a sitz bath the answer per p266?",
+    "a": "Anal fissure: the stem asks the next best step in management 'in addition to stool softeners'.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2191",
+    "category": "Surg Mixed",
+    "q": "Anal fissure description per p266?",
+    "a": "Ulcer in the posterior midline of the anal canal +/- an adjacent edematous skin tag at the anal verge. Highest-yield descriptor: the rectal exam cannot be performed because of exquisite pain and increased anal sphincter tone.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2192",
+    "category": "Surg Mixed",
+    "q": "When is a hydrocortisone enema the answer per p266?",
+    "a": "Sometimes for IBD. First-line IBD treatment is 5-ASA (mesalamine), but 'hydrocortisone enema' is a common answer choice on surgery forms (per the source).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2193",
+    "category": "Surg Mixed",
+    "q": "When is anal manometry the answer per p266?",
+    "a": "To diagnose Hirschsprung disease: a child passes one string-like stool every 4 days despite maximum laxatives with no stool in the rectal vault. Anal manometry (pressure study) is done first; confirmatory biopsy is most accurate.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    },
+    "guideline": {
+      "text": "Diagnostic options for Hirschsprung disease (manometry, contrast enema, rectal biopsy) are reviewed in the linked PMC article.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308050/"
+    }
+  },
+  {
+    "id": "s2surg-2194",
+    "category": "Surg Mixed",
+    "q": "When is placement of elastic bands the answer per p266?",
+    "a": "Treatment of hemorrhoids on USMLE.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2195",
+    "category": "Surg Mixed",
+    "q": "Cystic mass at the top of the gluteal cleft near the tailbone per p266?",
+    "a": "Pilonidal cyst (pilonidal abscess in the literature); treatment is surgical incision and drainage just off the midline.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2196",
+    "category": "Surg Mixed",
+    "q": "How do you diagnose GERD per p266?",
+    "a": "Trial of PPIs (diagnostic and therapeutic).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    },
+    "guideline": {
+      "text": "The ACG GERD guideline is linked for current diagnostic guidance.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/"
+    }
+  },
+  {
+    "id": "s2surg-2197",
+    "category": "Surg Mixed",
+    "q": "When is 24-hour pH monitoring the answer per p266?",
+    "a": "If patients fail a PPI trial but have suggestive symptoms, or if initial symptoms are equivocal (no burning but chronic or nocturnal cough).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2198",
+    "category": "Surg Mixed",
+    "q": "When is endoscopic ultrasound the answer per p266?",
+    "a": "Almost never, but it is an occasional choice on surgery forms; may help diagnose pancreatic cancer if CT is negative (per the source).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2199",
+    "category": "Surg Mixed",
+    "q": "When is esophageal manometry the answer per p266?",
+    "a": "USMLE wants it for achalasia after a barium or gastrografin (water-soluble contrast) swallow shows the bird's beak appearance.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2200",
+    "category": "Surg Mixed",
+    "q": "42M with 3 years of GERD + CXR air-fluid level behind the cardiac silhouette per p266?",
+    "a": "Hiatal hernia (next steps on p267).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 266,
+      "url": "/mehlman/hy-surgery.pdf#page=266"
+    }
+  },
+  {
+    "id": "s2surg-2201",
+    "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + normal amylase/lipase, recent cholecystectomy per p267?",
     "a": "Choledocholithiasis (retained stone in the cystic duct that descended, but not distal to the pancreatic duct entry). Diagnosis and treatment: ERCP.",
     "source": {
@@ -28526,7 +28655,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2191",
+    "id": "s2surg-2202",
     "category": "Surg Mixed",
     "q": "Same labs + diffuse pruritus + high cholesterol per p267?",
     "a": "Primary biliary cirrhosis (PBC); also if autoimmune disease in the patient or family. Diagnosis: anti-mitochondrial antibodies next; liver biopsy is confirmatory.",
@@ -28537,7 +28666,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2192",
+    "id": "s2surg-2203",
     "category": "Surg Mixed",
     "q": "Recent cholecystectomy + fever + abdominal pain per p267?",
     "a": "Post-op bile leak.",
@@ -28548,7 +28677,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2193",
+    "id": "s2surg-2204",
     "category": "Surg Mixed",
     "q": "Same labs + CT shows a cystic lesion in the bile duct per p267?",
     "a": "Choledochal cyst: simple excision of the cyst (cholangiocarcinoma isn't cystic and CT can be negative).",
@@ -28559,7 +28688,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2194",
+    "id": "s2surg-2205",
     "category": "Surg Mixed",
     "q": "Imaging choices per p267?",
     "a": "Liver or pancreas: CT with contrast. Gallbladder: ultrasound (HIDA scan only if ultrasound is negative in suspected cholecystitis). Bile ducts: ERCP or MRCP (choose ERCP over MRCP if both are listed).",
@@ -28570,7 +28699,570 @@ export default [
     }
   },
   {
-    "id": "s2surg-2195",
+    "id": "s2surg-2206",
+    "category": "Surg Mixed",
+    "q": "42M with hiatal hernia: next best step in diagnosis per p267?",
+    "a": "Barium swallow, which shows the proximal stomach herniating through the esophageal hiatus.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2207",
+    "category": "Surg Mixed",
+    "q": "Hiatal hernia suggested on barium swallow: next step per p267?",
+    "a": "Esophagogastroduodenoscopy (the answer on the NBME, per the source).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2208",
+    "category": "Surg Mixed",
+    "q": "High ALP + high direct bilirubin + high amylase or lipase per p267?",
+    "a": "Gallstone pancreatitis from choledocholithiasis.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2209",
+    "category": "Surg Mixed",
+    "q": "Same labs with a remote history of cholecystectomy per p267?",
+    "a": "Sphincter of Oddi dysfunction (it cannot be a gallbladder stone since the gallbladder was removed long ago).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2210",
+    "category": "Surg Mixed",
+    "q": "Diagnosis and treatment of choledocholithiasis per p267?",
+    "a": "ERCP.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2211",
+    "category": "Surg Mixed",
+    "q": "High ALP + high direct bilirubin + normal amylase/lipase, remote cholecystectomy per p267?",
+    "a": "Pancreatic cancer; diagnose with CT abdomen with contrast. If CT is negative: cholangiocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2212",
+    "category": "Surg Mixed",
+    "q": "High ALP + high direct bilirubin + normal enzymes + autoimmune disease in the patient or family per p267?",
+    "a": "Primary biliary cirrhosis (PBC).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2213",
+    "category": "Surg Mixed",
+    "q": "Diagnosis of PBC per p267?",
+    "a": "Anti-mitochondrial antibodies as the next step; liver biopsy is confirmatory.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2214",
+    "category": "Surg Mixed",
+    "q": "Imaging to view the liver or pancreas, gallbladder, bile ducts per p267?",
+    "a": "Liver or pancreas: CT with contrast. Gallbladder: ultrasound (HIDA scan only if ultrasound is negative in suspected cholecystitis). Bile ducts: ERCP or MRCP (choose ERCP over MRCP if both are listed).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2215",
+    "category": "Surg Mixed",
+    "q": "UC + high bilirubin + high ALP per p267?",
+    "a": "Primary sclerosing cholangitis.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 267,
+      "url": "/mehlman/hy-surgery.pdf#page=267"
+    }
+  },
+  {
+    "id": "s2surg-2216",
+    "category": "Surg Mixed",
+    "q": "8-day-old neonate with jaundice, direct bilirubin 14, total 15 mg/dL per p268?",
+    "a": "Biliary atresia (super HY). Next best step in diagnosis per the source: straight to liver biopsy; if positive, liver transplant.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    },
+    "guideline": {
+      "text": "Preoperative liver biopsy in biliary atresia is evaluated in the linked meta-analysis; I did not verify the 'must do liver transplant' wording.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26932252/"
+    }
+  },
+  {
+    "id": "s2surg-2217",
+    "category": "Surg Mixed",
+    "q": "79M with atrial fibrillation + severe acute diffuse abdominal pain per p268?",
+    "a": "Acute mesenteric ischemia from a mural thrombus embolizing to the SMA or IMA. Next step in management: mesenteric arteriography.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2surg-2218",
+    "category": "Surg Mixed",
+    "q": "Treatment of the 79M with acute mesenteric ischemia per p268?",
+    "a": "Antibiotics (for necrotic bowel) then laparotomy to remove necrotic bowel. The source says the stem states IV antibiotics were given and asks the next step: laparotomy. USMLE wants resection of nonviable bowel, though the literature mentions embolectomy.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    },
+    "guideline": {
+      "text": "Current acute mesenteric ischemia management (including revascularization) is in the linked WSES guideline; the source's answer stays as the exam answer.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580452/"
+    }
+  },
+  {
+    "id": "s2surg-2219",
+    "category": "Surg Mixed",
+    "q": "52F with a short ventricular fibrillation episode, defibrillated, now severe abdominal pain per p268?",
+    "a": "Acute mesenteric ischemia from ischemia due to VF, not an embolus: antibiotics; CT if stable; if unstable go straight to laparotomy.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2surg-2220",
+    "category": "Surg Mixed",
+    "q": "55F diabetic with claudication + abdominal pain 1-2 hours after meals per p268?",
+    "a": "Chronic mesenteric ischemia from severe atherosclerosis of the SMA or IMA (angina of the bowel).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2surg-2221",
+    "category": "Surg Mixed",
+    "q": "Chronic mesenteric ischemia: next step in diagnosis and treatment per p268?",
+    "a": "Mesenteric arteriography (e.g., after CABG); treatment is angioplasty + stenting to restore blood flow (e.g., with renal artery stenosis history).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2surg-2222",
+    "category": "Surg Mixed",
+    "q": "Chronic mesenteric ischemia patient with 2 days of severe abdominal pain and fever per p268?",
+    "a": "Acute on chronic mesenteric ischemia (thrombosis; an 'MI' of the bowel): mesenteric arteriography to diagnose; antibiotics + laparotomy to remove necrotic bowel.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2surg-2223",
+    "category": "Surg Mixed",
+    "q": "What is the pectinate line per p268?",
+    "a": "It separates the upper 2/3 of the anal canal (hindgut; endoderm) from the lower 1/3 (proctodeum; ectoderm).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2surg-2224",
+    "category": "Surg Mixed",
+    "q": "Lymphatic drainage and arterial supply above and below the pectinate line per p268?",
+    "a": "Lymph: above to internal iliac nodes; below to superficial inguinal nodes. Artery: above the superior rectal artery; below the middle/inferior rectal arteries.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 268,
+      "url": "/mehlman/hy-surgery.pdf#page=268"
+    }
+  },
+  {
+    "id": "s2surg-2225",
+    "category": "Surg Mixed",
+    "q": "Venous drainage above and below the pectinate line per p269?",
+    "a": "Above: superior rectal vein; below: middle/inferior rectal veins.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2surg-2226",
+    "category": "Surg Mixed",
+    "q": "Pectinate line and hemorrhoids per p269?",
+    "a": "Above: internal hemorrhoids (painless); below: external hemorrhoids (painful).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2surg-2227",
+    "category": "Surg Mixed",
+    "q": "Treatment of hemorrhoids per p269?",
+    "a": "Conservative first (fiber + exercise); for intervention, rubber band ligation.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2surg-2228",
+    "category": "Surg Mixed",
+    "q": "Diagnosis of congenital midgut volvulus per p269?",
+    "a": "Upper-GI series (AXR + contrast follow-through of the esophagus, stomach, and duodenum with barium or gastrografin).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2surg-2229",
+    "category": "Surg Mixed",
+    "q": "87F with a coffee bean sign on AXR and obstipation per p269?",
+    "a": "Sigmoid volvulus; the source says the surgery NBME treatment is sigmoidoscopy-guided placement of a rectal tube.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2surg-2230",
+    "category": "Surg Mixed",
+    "q": "22M stressed studying, yellow eyes, similar past episodes, otherwise healthy per p269?",
+    "a": "Gilbert syndrome (decreased glucuronosyltransferase expression, the bilirubin-conjugating enzyme; reduced ability to take up unconjugated bilirubin at the liver). Treatment is reassurance; it is benign.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2surg-2231",
+    "category": "Surg Mixed",
+    "q": "Criteria for pathologic neonatal jaundice per p269?",
+    "a": "Any one of: jaundice in the first 24 hours; jaundice after 1 week (term) or 2 weeks (preterm); total bilirubin >15 mg/dL; direct bilirubin >10% of total even if total <15; rate of rise of total bilirubin >0.5 mg/dL/hour.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    },
+    "guideline": {
+      "text": "The AAP 2022 hyperbilirubinemia guideline (linked) uses gestational-age and hour-specific phototherapy thresholds, so these source criteria are not the current management thresholds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35927462/"
+    }
+  },
+  {
+    "id": "s2surg-2232",
+    "category": "Surg Mixed",
+    "q": "16F with fever, leukocytosis, RLQ pain migrating from the epigastrium per p269?",
+    "a": "Appendicitis. Epigastric pain is visceral; RLQ pain is parietal peritoneal inflammation. In females, pregnancy test + adnexal ultrasound for gyn causes (e.g., ruptured cyst); in males go straight to laparoscopy; if gyn causes are ruled out, laparoscopic removal.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 269,
+      "url": "/mehlman/hy-surgery.pdf#page=269"
+    }
+  },
+  {
+    "id": "s2surg-2233",
+    "category": "Surg Mixed",
+    "q": "Normal appendix found at surgery for suspected appendicitis per p270?",
+    "a": "Still remove it. Ultrasound and CT can be false-negative, so with high clinical suspicion the patient goes straight to laparoscopy.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2234",
+    "category": "Surg Mixed",
+    "q": "Mallory-Weiss tear vs esophageal varices per p270?",
+    "a": "MWT: vomiting/retching in an alcoholic, a little blood in the vomitus. Varices: LOTS of blood; about half of patients with a ruptured varix die (per the source).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2235",
+    "category": "Surg Mixed",
+    "q": "Mallory-Weiss tear vs Boerhaave per p270?",
+    "a": "MWT is not transmural; Boerhaave is transmural and causes subcutaneous emphysema (crepitus).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2236",
+    "category": "Surg Mixed",
+    "q": "Treatment and prophylaxis of esophageal varices per p270?",
+    "a": "Treatment: banding + octreotide. Prophylaxis: propranolol.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2237",
+    "category": "Surg Mixed",
+    "q": "Biochemical disturbance in a person who is vomiting per p270?",
+    "a": "Hypokalemic hypochloremic metabolic alkalosis: low K, low Cl, high pH, high bicarb, low H; anion gap normal.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2238",
+    "category": "Surg Mixed",
+    "q": "2-week-old male with forceful non-bilious vomiting per p270?",
+    "a": "Hypertrophic pyloric stenosis. Diagnose with abdominal ultrasound showing an olive-shaped hypertrophied pylorus.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    },
+    "guideline": {
+      "text": "The source lists the treatment as 'myomectomy'; the surgery is a pyloromyotomy (I did not verify the source's wording). Ultrasound accuracy is reviewed in the linked meta-analysis.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9793478/"
+    }
+  },
+  {
+    "id": "s2surg-2239",
+    "category": "Surg Mixed",
+    "q": "Who gets pyloric stenosis per p270?",
+    "a": "First-born males, and neonates taking oral erythromycin for chlamydial ophthalmia neonatorum (erythromycin is a motilin-receptor agonist).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2240",
+    "category": "Surg Mixed",
+    "q": "2-week-old male with bilious vomiting per p270?",
+    "a": "Duodenal atresia, annular pancreas, congenital midgut volvulus, or Hirschsprung (Hirschsprung can present with bilious vomiting).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2241",
+    "category": "Surg Mixed",
+    "q": "2-week-old with Down syndrome + bilious vomiting + passed meconium vs slow to pass meconium per p270?",
+    "a": "Passed meconium: duodenal atresia. Slow to pass meconium: Hirschsprung.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2242",
+    "category": "Surg Mixed",
+    "q": "Diagnosis of duodenal atresia per p270?",
+    "a": "Abdominal x-ray showing the double-bubble sign (very HY).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2243",
+    "category": "Surg Mixed",
+    "q": "Diagnosis and mechanism of Hirschsprung per p270?",
+    "a": "Rectal manometry, then confirmatory rectal biopsy showing absence of ganglion cells. Mechanism: failure of neural crest cells to migrate distally to the rectum.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    },
+    "guideline": {
+      "text": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308050/"
+    }
+  },
+  {
+    "id": "s2surg-2244",
+    "category": "Surg Mixed",
+    "q": "Most likely overall cause of failure to pass meconium at birth per p270?",
+    "a": "Cystic fibrosis.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2245",
+    "category": "Surg Mixed",
+    "q": "18-month-old with intermittent abdominal pain, crying, blood in stool per p270?",
+    "a": "Intussusception (the same for intermittent squatting or legs to chest + vomiting + FOBT positive).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 270,
+      "url": "/mehlman/hy-surgery.pdf#page=270"
+    }
+  },
+  {
+    "id": "s2surg-2246",
+    "category": "Surg Mixed",
+    "q": "18-month-old with legs to chest, vomiting, FOBT negative per p271?",
+    "a": "Congenital midgut volvulus (it sounds like intussusception but there is no blood per rectum).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2247",
+    "category": "Surg Mixed",
+    "q": "Cause of intussusception per p271?",
+    "a": "More than 99% are in kids under 2, from lymphoid hyperplasia due to viral infection (e.g., rotavirus) or recent vaccination. In an adult (usually elderly) it is caused by colorectal cancer.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2248",
+    "category": "Surg Mixed",
+    "q": "Diagnosis and treatment of intussusception per p271?",
+    "a": "USMLE wants an enema as the answer (air contrast, air, contrast, or water-soluble contrast enema). Ultrasound shows a target sign but the exam wants the enema.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    },
+    "guideline": {
+      "text": "Image-guided reduction is reviewed in the linked article.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9815940/"
+    }
+  },
+  {
+    "id": "s2surg-2249",
+    "category": "Surg Mixed",
+    "q": "Barium vs water-soluble (gastrografin) contrast swallow per p271?",
+    "a": "Barium most of the time. If at risk of aspiration use barium, because aspiration of gastrografin causes pneumonitis. If esophageal perforation is suspected, do not use barium (mediastinitis); use gastrografin.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2250",
+    "category": "Surg Mixed",
+    "q": "Celiac trunk level, branches, and supply per p271?",
+    "a": "T12; splenic, common hepatic, left gastric arteries; supplies the foregut (mouth to duodenum at the ampulla of Vater).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2251",
+    "category": "Surg Mixed",
+    "q": "SMA level and supply per p271?",
+    "a": "L1; supplies the midgut (duodenum at the ampulla until the distal 2/3 of the transverse colon); right colic and middle colic arteries come off the SMA.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2252",
+    "category": "Surg Mixed",
+    "q": "IMA level and supply per p271?",
+    "a": "L3; supplies the hindgut (distal 2/3 of the transverse colon to the pectinate line); the left colic artery comes off the IMA.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2253",
+    "category": "Surg Mixed",
+    "q": "Level of renal + gonadal arteries and aortic bifurcation per p271?",
+    "a": "Renal and gonadal arteries most often come off at L2. The abdominal aorta bifurcates into the common iliacs at L4.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2254",
+    "category": "Surg Mixed",
+    "q": "Who gets a one-off abdominal ultrasound for AAA per p271?",
+    "a": "Males over 55 who are ever-smokers (the source's wording).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 271,
+      "url": "/mehlman/hy-surgery.pdf#page=271"
+    }
+  },
+  {
+    "id": "s2surg-2255",
     "category": "Surg Mixed",
     "q": "Diagnosis of C. diff per p272?",
     "a": "Stool A/B toxin test, not stool culture.",
@@ -28578,6 +29270,572 @@ export default [
       "title": "Mehlman HY Surgery",
       "page": 272,
       "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2256",
+    "category": "Surg Mixed",
+    "q": "Most common locations of atherosclerosis in descending order per p272?",
+    "a": "Abdominal aorta, coronary arteries, popliteal arteries, carotid arteries.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2257",
+    "category": "Surg Mixed",
+    "q": "Which structure is supplied by an artery of the foregut but is not derived from the foregut per p272?",
+    "a": "The spleen.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2258",
+    "category": "Surg Mixed",
+    "q": "Short gastric arteries and the main pancreatic supply per p272?",
+    "a": "Short gastric arteries come off the splenic artery. Main arterial supply to the pancreas: arteria pancreatica magna (greater pancreatic artery), a splenic branch.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2259",
+    "category": "Surg Mixed",
+    "q": "Which nerve must be severed to remove cancer at the gastroesophageal junction per p272?",
+    "a": "The vagus (the source says to memorize it; from a retired NBME).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2260",
+    "category": "Surg Mixed",
+    "q": "HY structures through the diaphragm per p272?",
+    "a": "'I Ate 10 Eggs At 12': IVC T8; esophagus + vagus at T10 (the source also lists thoracic duct); aortic hiatus (aorta, azygos vein, thoracic duct) at T12.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2261",
+    "category": "Surg Mixed",
+    "q": "Celiac disease key points per p272?",
+    "a": "Gluten intolerance (wheat, oats, rye, barley); villous flattening on biopsy; often iron deficiency anemia (differs from lactose intolerance). Dx: anti-endomysial IgA, anti-tissue transglutaminase IgA, then duodenal biopsy to confirm. Tx: avoid gluten.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    },
+    "guideline": {
+      "text": "Current celiac diagnostic guidance is in the linked ACG guideline; the source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36602836/"
+    }
+  },
+  {
+    "id": "s2surg-2262",
+    "category": "Surg Mixed",
+    "q": "Treatment of C. difficile per p272?",
+    "a": "Guidelines as of Feb 2018 (per the source) say oral vancomycin first-line, not metronidazole. Vancomycin is given orally here to keep the drug in the colon lumen.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    },
+    "guideline": {
+      "text": "The linked 2021 IDSA/SHEA focused update prefers fidaxomicin, with vancomycin an acceptable alternative.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34164674/"
+    }
+  },
+  {
+    "id": "s2surg-2263",
+    "category": "Surg Mixed",
+    "q": "Mechanism of colonic necrosis in C. difficile and recurrence after vancomycin per p272?",
+    "a": "Necrosis: cytoskeletal disruption. Recurrence weeks later: regermination of spores.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2264",
+    "category": "Surg Mixed",
+    "q": "C. difficile + 104F fever + tachycardia + diffuse abdominal pain: next step per p272?",
+    "a": "AXR to look for toxic megacolon. Treat with NPO, NG decompression + rectal tube, antibiotics (vancomycin or fidaxomicin), steroids (if UC), correct electrolytes (sometimes low K).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 272,
+      "url": "/mehlman/hy-surgery.pdf#page=272"
+    }
+  },
+  {
+    "id": "s2surg-2265",
+    "category": "Surg Mixed",
+    "q": "Toxic megacolon not improving with conservative therapy per p273?",
+    "a": "Surgery (subtotal colectomy + ileostomy). Do not do a colonoscopy in toxic megacolon: it causes perforation.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2surg-2266",
+    "category": "Surg Mixed",
+    "q": "Nerve damage that causes constipation per p273?",
+    "a": "Pelvic splanchnic nerves (parasympathetic, drive bowel function). Hypogastric nerves = sympathetic (internal anal sphincter); pudendal = somatic (external anal sphincter).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2surg-2267",
+    "category": "Surg Mixed",
+    "q": "45M cirrhosis + fluid wave + fever + abdominal pain per p273?",
+    "a": "Spontaneous bacterial peritonitis (SBP). Same for a diabetic on peritoneal dialysis with fever and abdominal pain, and for a child with minimal change disease causing ascites.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2surg-2268",
+    "category": "Surg Mixed",
+    "q": "Diagnosis and treatment of SBP per p273?",
+    "a": "Paracentesis with Gram stain; look for >250 WBCs per HPF. Treat with ceftriaxone.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    },
+    "guideline": {
+      "text": "Current SBP diagnosis and treatment are in the linked AASLD guidance (it uses >250 neutrophils/mm3 for diagnosis); the source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33942342/"
+    }
+  },
+  {
+    "id": "s2surg-2269",
+    "category": "Surg Mixed",
+    "q": "Serum-ascites albumin gradient (SAAG) per p273?",
+    "a": "Serum albumin minus ascitic albumin. >1.1: transudative/portal hypertension (CHF, Budd-Chiari, cirrhosis). <1.1: exudative (TB, SBP, pancreatitis, malignancy) or nephrotic syndrome.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2surg-2270",
+    "category": "Surg Mixed",
+    "q": "Woman in her 20s-50s with high cholesterol, diffuse pruritus, sister with rheumatoid arthritis per p273?",
+    "a": "Primary biliary cirrhosis (autoimmune diseases go together in patient or family). Dx: anti-mitochondrial Abs first; liver biopsy confirms.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2surg-2271",
+    "category": "Surg Mixed",
+    "q": "Neonate born at 32 weeks with fever, abdominal distension, feeding intolerance, hematochezia per p273?",
+    "a": "Necrotizing enterocolitis, bowel infection in premature neonates, usually <32 weeks gestation.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    }
+  },
+  {
+    "id": "s2surg-2272",
+    "category": "Surg Mixed",
+    "q": "Diagnosis of necrotizing enterocolitis per p273?",
+    "a": "AXR showing pneumatosis intestinalis (air in the bowel wall), air in the portal vein, or free air under the diaphragm.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 273,
+      "url": "/mehlman/hy-surgery.pdf#page=273"
+    },
+    "guideline": {
+      "text": "Imaging for NEC is reviewed in the linked article.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9976546/"
+    }
+  },
+  {
+    "id": "s2surg-2273",
+    "category": "Surg Mixed",
+    "q": "Treatment of necrotizing enterocolitis per p274?",
+    "a": "NPO, NG decompression, broad-spectrum antibiotics; if necrotic bowel, surgery.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2274",
+    "category": "Surg Mixed",
+    "q": "49M with abdominal pain after meals, now sepsis + diffuse acute abdominal pain per p274?",
+    "a": "Ruptured viscus (duodenum). Next step: x-ray of chest + abdomen to look for air under the diaphragm. The source says the exam gives CXR alone, AXR alone, or both as choices.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2275",
+    "category": "Surg Mixed",
+    "q": "42M with dysphagia to solids and liquids from the start per p274?",
+    "a": "Achalasia. Inability to swallow solids and liquids together implies a neurogenic cause.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2276",
+    "category": "Surg Mixed",
+    "q": "42M with EtOH history and dysphagia to solids that progresses to liquids per p274?",
+    "a": "Esophageal cancer (SCC). Dysphagia to solids progressing to solids + liquids is cancer until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2277",
+    "category": "Surg Mixed",
+    "q": "HY points about esophageal cancer per p274?",
+    "a": "Adenocarcinoma: distal 1/3, from GERD (obesity, low LES tone, GERD, Barrett, adenocarcinoma). SCC: upper 2/3, from smoking + alcohol; also webs, burns, chemicals, and achalasia.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2278",
+    "category": "Surg Mixed",
+    "q": "Mechanism of achalasia per p274?",
+    "a": "Loss of NO-secreting neurons in the myenteric plexus of the LES, giving increased LES tone: bird's beak on contrast swallow, high tone on manometry. Often idiopathic; Chagas disease (Trypanosoma cruzi) is a rare infectious cause.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2279",
+    "category": "Surg Mixed",
+    "q": "Diagnosis order of achalasia per p274?",
+    "a": "Barium (or gastrografin) swallow, then manometry, then confirmatory biopsy. On an NBME 2CK question listing both barium and manometry, the answer was barium swallow.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2280",
+    "category": "Surg Mixed",
+    "q": "When is manometry the answer for achalasia per p274?",
+    "a": "When the stem already shows the bird's beak from a barium swallow, or shows a manometry graph with high LES pressure (then it is the diagnosis). Most accurate/confirmatory test: LES biopsy showing loss of neurons (per the source).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2281",
+    "category": "Surg Mixed",
+    "q": "Treatment of achalasia per p274?",
+    "a": "Surgery first-line (endoscopic myotomy is superior to pneumatic dilatation per the source). If high surgical risk: botulinum toxin; if it fails, dCCB or nitrates.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 274,
+      "url": "/mehlman/hy-surgery.pdf#page=274"
+    }
+  },
+  {
+    "id": "s2surg-2282",
+    "category": "Surg Mixed",
+    "q": "42M overweight with halitosis, gurgling with fluids, regurgitating undigested food per p275?",
+    "a": "Next step: barium (or gastrografin) swallow; Dx = Zenker diverticulum. With a GERD history, go straight to endoscopy (cancer, not Zenker).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 275,
+      "url": "/mehlman/hy-surgery.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2surg-2283",
+    "category": "Surg Mixed",
+    "q": "Location and mechanism of Zenker per p275?",
+    "a": "False diverticulum just superior to the cricopharyngeus on the posterior pharyngeal wall. USMLE answers: increased oropharyngeal pressure, cricopharyngeal muscle spasm; not a congenital weakness. Stems often mention overweight, though the association is non-specific.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 275,
+      "url": "/mehlman/hy-surgery.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2surg-2284",
+    "category": "Surg Mixed",
+    "q": "Whipple triad per p275?",
+    "a": "Insulinoma: 1) hypoglycemia, 2) symptoms of hypoglycemia (diaphoresis, tachycardia, tremulousness), 3) relief with meals (or worse between meals).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 275,
+      "url": "/mehlman/hy-surgery.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2surg-2285",
+    "category": "Surg Mixed",
+    "q": "Whipple triad: next step, and what if C-peptide is high per p275?",
+    "a": "Check serum C-peptide. If high, first check a serum hypoglycemic (sulfonylurea) screen, since surreptitious sulfonylurea use also gives high C-peptide. Only after a negative screen do CT abdomen for insulinoma.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 275,
+      "url": "/mehlman/hy-surgery.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2surg-2286",
+    "category": "Surg Mixed",
+    "q": "52F with 2 kids, BMI 28, recurrent colicky epigastric pain per p275?",
+    "a": "Ultrasound (cholelithiasis).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 275,
+      "url": "/mehlman/hy-surgery.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2surg-2287",
+    "category": "Surg Mixed",
+    "q": "45F BMI 29, BP 140/90, high TG, low HDL, high fasting glucose, mildly high AST/ALT per p275?",
+    "a": "NASH from metabolic syndrome; treat with lifestyle modification. The source adds that stems may show completely normal labs, leaving 'she has metabolic syndrome' as the clue.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 275,
+      "url": "/mehlman/hy-surgery.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2surg-2288",
+    "category": "Surg Mixed",
+    "q": "First treatment for pancreatitis per p275?",
+    "a": "NPO + fluids + NG tube. Imaging: CT with contrast for fluid collections and degree of necrosis. Drain collections percutaneously; a pseudoabscess that does not regress needs internal drainage via ERCP or EUS (continues on p276).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 275,
+      "url": "/mehlman/hy-surgery.pdf#page=275"
+    }
+  },
+  {
+    "id": "s2surg-2289",
+    "category": "Surg Mixed",
+    "q": "Pancreatitis with frank pus or >30% necrosis per p276?",
+    "a": "Necrosectomy (excision of necrotic pancreas) or aggressive percutaneous drainage.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2290",
+    "category": "Surg Mixed",
+    "q": "69M with LLQ pain + fever per p276?",
+    "a": "Diverticulitis. CT abdomen with contrast; antibiotics (metronidazole PLUS a fluoroquinolone or Augmentin; metronidazole covers anaerobes). Never scope during suspected diverticulitis (perforation); colonoscopy after it is cleared to rule out malignancy.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2291",
+    "category": "Surg Mixed",
+    "q": "Crohn GI findings per p276?",
+    "a": "Mouth to anus; classically terminal ileum; intermittent bloody diarrhea with colonic involvement; skip lesions with string sign; cobblestone mucosa; transmural inflammation with non-caseating granulomas; perianal fistulae; B12 + fat-soluble vitamin malabsorption.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2292",
+    "category": "Surg Mixed",
+    "q": "25M with oral ulcer + bloody diarrhea per p276?",
+    "a": "Crohn disease.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2293",
+    "category": "Surg Mixed",
+    "q": "Extra-intestinal manifestations of Crohn per p276?",
+    "a": "Erythema nodosum (panniculitis), anterior uveitis, oxalate stones (fat malabsorption binds calcium, leaving more oxalate absorbed). Also sometimes anti-Saccharomyces cerevisiae Abs.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2294",
+    "category": "Surg Mixed",
+    "q": "Diagnosis and treatment of Crohn for USMLE per p276?",
+    "a": "Dx: colonoscopy. Tx: sulfasalazine or mesalamine (5-ASA, which the source calls NSAIDs) before steroids; immunosuppressants late (infliximab, azathioprine).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2295",
+    "category": "Surg Mixed",
+    "q": "28M with morning-worse low back pain that improves through the day + mouth ulcer per p276?",
+    "a": "Crohn disease (oral involvement) + sacroiliitis (ankylosing spondylitis back pain).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2296",
+    "category": "Surg Mixed",
+    "q": "20F with bloody diarrhea, sore joints, eczematoid plaque on forehead per p276?",
+    "a": "IBD + psoriatic arthritis.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2297",
+    "category": "Surg Mixed",
+    "q": "UC GI findings per p276 (continues p277)?",
+    "a": "Starts at the rectum and ascends (no anus involvement); bloody diarrhea; not transmural (mucosa + submucosa); no granulomas; lead pipe appearance on contrast.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 276,
+      "url": "/mehlman/hy-surgery.pdf#page=276"
+    }
+  },
+  {
+    "id": "s2surg-2298",
+    "category": "Surg Mixed",
+    "q": "What does lead pipe colon mean and what is seen on colonoscopy in UC per p277?",
+    "a": "Loss of haustra (colon looks smooth). Crypt abscesses (microabscesses within the crypts).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2surg-2299",
+    "category": "Surg Mixed",
+    "q": "Extra-intestinal manifestations of UC per p277?",
+    "a": "Primary sclerosing cholangitis (beaded bile duct; can be p-ANCA positive); pyoderma gangrenosum (crater with necrotic debris on the forearm); like Crohn, anterior uveitis + HLA-B27 associations.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2surg-2300",
+    "category": "Surg Mixed",
+    "q": "Diagnosis and treatment of UC for USMLE per p277?",
+    "a": "Dx: colonoscopy. Tx: same as Crohn for USMLE purposes; colectomy in severe cases.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2surg-2301",
+    "category": "Surg Mixed",
+    "q": "65M with intermittent bloody diarrhea, now 104F fever, abdominal pain, high WBC per p277?",
+    "a": "Toxic megacolon. Dx with AXR (dilated bowel, e.g., 12-cm cecum), not colonoscopy (perforation). AXR is done when looking for gas.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2surg-2302",
+    "category": "Surg Mixed",
+    "q": "Where do most colonic ischemic ulcers occur per p277?",
+    "a": "Watershed areas: splenic flexure (SMA/IMA) and the sigmoid-rectal junction (IMA/hypogastric artery). 72M with advanced CVD + bloody stool: ischemic colitis.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2surg-2303",
+    "category": "Surg Mixed",
+    "q": "55M BMI 33, no diabetes mentioned, 3 months burning in throat per p277?",
+    "a": "GERD; treat with a 2-week PPI trial (omeprazole); relief supports GERD.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2surg-2304",
+    "category": "Surg Mixed",
+    "q": "55M BMI 33, poorly controlled diabetes, 3 months burning in throat per p277?",
+    "a": "Diabetic gastroparesis, not GERD. First pharmacologic treatment metoclopramide; if not listed, erythromycin (motilin receptor agonist).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
+    }
+  },
+  {
+    "id": "s2surg-2305",
+    "category": "Surg Mixed",
+    "q": "How do stems signal bad diabetic disease per p277?",
+    "a": "Peripheral edema (albuminuria lowers oncotic pressure), cataracts (sorbitol), urinary retention (neurogenic bladder), or HbA1c of 12% (diabetes is 6.5% or greater; prediabetes 6-6.49 per the source).",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 277,
+      "url": "/mehlman/hy-surgery.pdf#page=277"
     }
   }
 ];
