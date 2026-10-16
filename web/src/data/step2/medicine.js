@@ -2855,5 +2855,372 @@ export default [
       "page": 25,
       "url": "/mehlman/hy-internal-medicine.pdf#page=25"
     }
+  },
+  {
+    "id": "s2med-0216",
+    "category": "IM Cardio",
+    "q": "HOCM genetics and histology per p26?",
+    "a": "Mutations in the beta-myosin heavy-chain gene; autosomal dominant; disordered/disarrayed myocardial fibers.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "The 2024 AHA/ACC HCM guideline is the current reference; I could read only its title.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001250"
+    }
+  },
+  {
+    "id": "s2med-0217",
+    "category": "IM Cardio",
+    "q": "HOCM mechanism per p26?",
+    "a": "Asymmetric septal hypertrophy results in the anterior mitral valve leaflet obstructing the LV outflow tract, so it can sound like aortic stenosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0218",
+    "category": "IM Cardio",
+    "q": "HOCM classic presentation per p26?",
+    "a": "Sudden death in a young athlete; cause of death is ventricular fibrillation due to acute left heart strain with fast heart rate.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0219",
+    "category": "IM Cardio",
+    "q": "HOCM murmur per p26?",
+    "a": "Systolic murmur that worsens with Valsalva or standing (aortic stenosis gets softer or does not change). HOCM and MVP are the only two murmurs that get worse with less volume in the heart; all other murmurs get worse with more volume. Valsalva increases intrathoracic pressure and decreases venous return; standing decreases venous return.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0220",
+    "category": "IM Cardio",
+    "q": "Heart rate rise from exercise or stress per p26 (NBME)?",
+    "a": "Diastole is shortened more than systole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0221",
+    "category": "IM Cardio",
+    "q": "HOCM beta-blocker per p26?",
+    "a": "Metoprolol or propranolol (both NBME answers) slow heart rate, maximizing diastolic filling and decreasing symptoms and risk of death.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "I did not verify the risk-of-death wording against the 2024 guideline.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001250"
+    }
+  },
+  {
+    "id": "s2med-0222",
+    "category": "IM Cardio",
+    "q": "HOCM ICD and myectomy per p26?",
+    "a": "ICD if any arrhythmia, syncope, low blood pressure or LV wall thickness >30 mm. Septal myectomy if LVOT gradient >50 mm Hg, but ICD is usually first-line.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "The 2024 AHA/ACC HCM guideline covers ICD and septal reduction criteria; I did not read its text, so I did not verify these cutoffs.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001250"
+    }
+  },
+  {
+    "id": "s2med-0223",
+    "category": "IM Cardio",
+    "q": "Restrictive cardiomyopathy per p26?",
+    "a": "Heart failure from diastolic dysfunction where HTN is not the cause. JVD is HY; an S4 can be seen; the heart is not dilated.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0224",
+    "category": "IM Cardio",
+    "q": "HY causes of RCM per p26?",
+    "a": "History of radiation (fibrosis), amyloidosis and hemochromatosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "StatPearls: three leading causes of RCM are cardiac amyloidosis, cardiac sarcoidosis and cardiac hemochromatosis; radiation was not in the sentence I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537234/"
+    }
+  },
+  {
+    "id": "s2med-0225",
+    "category": "IM Cardio",
+    "q": "Hemochromatosis: DCM or RCM per p26?",
+    "a": "Whichever the vignette gives. Large cardiac silhouette with S3 and lateralized apex beat = DCM. JVD + S4 + nothing about a lateralized apex = RCM.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0226",
+    "category": "IM Cardio",
+    "q": "Amyloidosis and RCM per p26?",
+    "a": "Amyloidosis is protein depositing where it should not. Highest yield cause on USMLE is multiple myeloma, which leads to RCM.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    },
+    "guideline": {
+      "text": "AHA scientific statement on cardiac amyloidosis exists. I did not verify the 'highest yield' claim.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000792"
+    }
+  },
+  {
+    "id": "s2med-0227",
+    "category": "IM Cardio",
+    "q": "RCM arrows per p26?",
+    "a": "Same as HCM (diastolic dysfunction): unchanged EF; unchanged LVEDV; increased LVEDP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0228",
+    "category": "IM Cardio",
+    "q": "Atherosclerosis risk factors per p26?",
+    "a": "Most accelerating: diabetes mellitus (I and II), then smoking, then HTN. HTN is the most common risk factor, but DM and smoking are worse. HTN is most accelerating for carotid stenosis (systolic impulse pounds the carotids and damages endothelium).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0229",
+    "category": "IM Cardio",
+    "q": "Stroke, TIA or retinal artery occlusion per p26: HTN versus normal BP?",
+    "a": "High BP: carotid plaque launched to brain/eye. Normal BP: think AF with left atrial mural thrombus launching off.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0230",
+    "category": "IM Cardio",
+    "q": "Patient over 50 with cardiovascular risk factors and accelerated HTN per p26?",
+    "a": "Renal artery stenosis from atherosclerosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0231",
+    "category": "IM Cardio",
+    "q": "Plaque calcification per p26?",
+    "a": "Plaques can calcify; more calcium suggests a more mature plaque. Calcium scoring is routinely done in coronary artery disease to assess plaque progression.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 26,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2med-0232",
+    "category": "IM Cardio",
+    "q": "Statin mechanisms per p27?",
+    "a": "1) Inhibit HMG-CoA reductase; 2) upregulate LDL receptors on hepatocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "NCBI book chapter on LDL-lowering therapy is a reference.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK584301/"
+    }
+  },
+  {
+    "id": "s2med-0233",
+    "category": "IM Cardio",
+    "q": "Ezetimibe, bile acid sequestrants and fibrates per p27?",
+    "a": "Ezetimibe blocks cholesterol absorption in the small bowel. Bile acid sequestrants (cholestyramine) make the liver pull more cholesterol from the blood. Fibrates upregulate PPAR-alpha and lipoprotein lipase; best drugs to decrease triglycerides.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2med-0234",
+    "category": "IM Cardio",
+    "q": "Stable angina per p27?",
+    "a": "Chest pain that occurs predictably with exercise, due to atherosclerotic plaques with >70% occlusion (can be calcific). Classically ST depressions on ECG.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2med-0235",
+    "category": "IM Cardio",
+    "q": "Nitrates in stable angina per p27?",
+    "a": "Donate nitric oxide, which upregulates guanylyl cyclase in venous smooth muscle: increased cGMP, relaxation, venous pooling, decreased venous return, decreased myocardial oxygen demand, relief of chest pain.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "A review of mechanisms of action of nitrates is available.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7873467/"
+    }
+  },
+  {
+    "id": "s2med-0236",
+    "category": "IM Cardio",
+    "q": "Nitrates and PDE-5 inhibitors per p27?",
+    "a": "Contraindicated together (e.g., Viagra) due to risk of low blood pressure.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2med-0237",
+    "category": "IM Cardio",
+    "q": "Where does sodium nitroprusside act per p27?",
+    "a": "Used for hypertensive emergencies; dilates arterioles in addition to the veins. If USMLE asks where the drug acts, choose arterioles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2med-0238",
+    "category": "IM Cardio",
+    "q": "Unstable angina per p27?",
+    "a": "Unpredictable chest pain that can occur at rest, due to partial plaque rupture with partial occlusion; ST depressions. Patients need cardiac catheterization. Diltiazem is the answer on the new 2CK NBME.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "A paper on calcium antagonists in Prinzmetal and unstable angina exists; I did not verify the NBME answer, and current ACS guidelines may differ.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2574642/"
+    }
+  },
+  {
+    "id": "s2med-0239",
+    "category": "IM Cardio",
+    "q": "Prinzmetal angina per p27?",
+    "a": "Vasospastic angina at rest (e.g., watching TV or sleeping) in younger adults; not caused by atherosclerosis. ST elevations on ECG. Also called variant angina pectoris: an NBME vignette of Prinzmetal wants 'variant angina pectoris' as the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2med-0240",
+    "category": "IM Cardio",
+    "q": "Prinzmetal treatment per p27?",
+    "a": "Nitrates (cause coronary dilation unrelated to venous pooling) or dihydropyridine calcium channel blockers (e.g., nifedipine). Avoid alpha-1 agonists (vasoconstriction) and non-selective beta-blockers like propranolol (unopposed alpha effects).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "A review 'Management of Coronary Artery Spasm' is available; I did not verify the beta-blocker point.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10345953/"
+    }
+  },
+  {
+    "id": "s2med-0241",
+    "category": "IM Cardio",
+    "q": "Hypertensive emergency definition per p27?",
+    "a": "HTN >180/120 with signs of end-organ damage: hypertensive encephalopathy (confusion), nephropathy (poor renal function tests), retinopathy, acute heart failure, etc.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "StatPearls on hypertensive crisis differentiates urgency from emergency by target organ damage.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507701/"
+    }
+  },
+  {
+    "id": "s2med-0242",
+    "category": "IM Cardio",
+    "q": "BP lowering in hypertensive emergency per p27?",
+    "a": "Lower by no more than 20-25% in the first hour, since drastic lowering can compromise brain and vital organ perfusion. Bring under 160/100 by 24-48 hours.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls says no more than 25% in the first hour, then gradual reduction to below 160/120 over the next 2 to 6 hours in stable patients. The source's 160/100 by 24-48 hours differs. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507701/"
+    }
+  },
+  {
+    "id": "s2med-0243",
+    "category": "IM Cardio",
+    "q": "Drugs for hypertensive emergency per p27?",
+    "a": "IV sodium nitroprusside, IV nicardipine, IV labetalol and oral captopril.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2med-0244",
+    "category": "IM Cardio",
+    "q": "Hypertensive urgency per p27?",
+    "a": "HTN >180/120 with no signs of end-organ damage. BP under 160/100 by 24-48 hours; the source lists the same drugs: IV nitroprusside, IV nicardipine, IV labetalol, oral captopril.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 27,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=27"
+    },
+    "guideline": {
+      "text": "Current caution: a review ('What is urgent about hypertensive urgency?') questions aggressive treatment without organ damage; IV agents are generally for emergencies. I did not verify the source's drug list for urgency.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5507232/"
+    }
   }
 ];

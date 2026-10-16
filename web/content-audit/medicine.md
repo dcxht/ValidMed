@@ -107,3 +107,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Source conflicts: DCM EF <55% vs StatPearls LVEF <40%; source heading "Hypertrophic (HCM)" over text that describes hypertensive heart disease (kept as source answer; may be continued on p26).
 - Unverified: rheumatic heart disease and hemochromatosis as DCM causes; USMLE arrow patterns.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p26 (IM Cardio: HOCM, RCM, atherosclerosis basics) - 16 cards, ids s2med-0216 to 0231
+- Inspected page text; no figures. Page starts mid-HCM heading (HOCM bullets).
+- Unverified: ICD LV wall >30 mm, myectomy gradient >50, radiation as RCM cause, multiple myeloma as top amyloidosis cause.
+
+## p27 (IM Cardio: lipid drugs, angina types, hypertensive emergency/urgency) - 13 cards, ids s2med-0232 to 0244
+- Inspected page text; no figures. 
+- Source conflicts: emergency BP target (24-48 h vs 2-6 h to <160/120 in StatPearls); urgency IV drug list; diltiazem in unstable angina (NBME claim unverified).
+- Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
