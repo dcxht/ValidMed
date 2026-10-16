@@ -586,3 +586,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source conflict flagged: p125 lists ependymoma under NF1; StatPearls names ependymoma as a hallmark of NF2. Source answer kept, note warns. Oligodendroglioma and pheochromocytoma in NF1 not verified here.
 - Left un-noted: "iris hamartomas" wording for Lisch nodules, the albinism photo description.
 - Mobile QA (320x740, live, local headless Chrome): all 7 cards ox=false off=false bad=0. The 1879 question screenshot caught the previous card image mid-swap (screenshot timing); its answer view and data show the correct Lisch photo.
+
+## p126 (ophthalmia neonatorum, conjunctivitis) - 15 cards, ids s2peds-1885 to 1899
+- Inspected page pixels. No figures on this page.
+- Notes verified against CDC STI Treatment Guidelines 2021 (chlamydia incl. neonates; gonococcal infections among neonates), StatPearls Neonatal Conjunctivitis, Viral and Allergic Conjunctivitis.
+- Current-guideline differences kept as notes, source answers kept: CDC leads with ceftriaxone (cefotaxime is the alternative); CDC's chlamydial pneumonia window is 1-3 months vs the source's 3-week-old vignette; erythromycin ointment does not prevent chlamydial disease; StatPearls calls itch the hallmark of allergic conjunctivitis.
+- Left un-noted (not verified): lymphocytic shift explanation, nasolacrimal duct spread to lungs, "first week, yellow discharge" for gonococcal, cobblestoning, "chlamydia vignette always ties to pneumonia".
+- Mobile QA: PENDING

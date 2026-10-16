@@ -26931,5 +26931,214 @@ export default [
       "page": 125,
       "url": "/mehlman/hy-pediatrics.pdf#page=125"
     }
+  },
+  {
+    "id": "s2peds-1885",
+    "category": "Ophthalmia neonatorum",
+    "q": "What is ophthalmia neonatorum per p126?",
+    "a": "A fancy way of saying neonatal conjunctivitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "StatPearls: neonatal conjunctivitis, also called ophthalmia neonatorum, typically presents during the first four weeks of life.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK441840/"
+    }
+  },
+  {
+    "id": "s2peds-1886",
+    "category": "Ophthalmia neonatorum",
+    "q": "Which organism causes chlamydial ophthalmia neonatorum per p126, and when does it present?",
+    "a": "C. trachomatis D-K, usually more than 1 week after birth.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "CDC STI guidelines: neonatal chlamydial conjunctivitis usually develops 5 to 12 days after birth.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1887",
+    "category": "Ophthalmia neonatorum",
+    "q": "What can chlamydial conjunctivitis lead to per p126, and why the lymphocytic shift?",
+    "a": "Pneumonia with a lymphocytic shift, because chlamydia is obligate intracellular and needs cell-mediated immunity (lymphocytes) rather than neutrophils.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "CDC: C. trachomatis also causes a subacute afebrile pneumonia, typically at 1 to 3 months of age (the source's 3-week-old vignette is earlier than CDC's usual window), with peripheral eosinophilia common. The lymphocyte explanation is the source's, not checked.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1888",
+    "category": "Ophthalmia neonatorum",
+    "q": "How does p126 say chlamydia reaches the lungs?",
+    "a": "By draining through the nasolacrimal duct down to the lungs.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2peds-1889",
+    "category": "Ophthalmia neonatorum",
+    "q": "How is chlamydial neonatal conjunctivitis treated per p126?",
+    "a": "Oral erythromycin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "CDC: erythromycin base or ethylsuccinate 50 mg/kg/day orally in 4 doses for 14 days. Topical therapy alone is inadequate and unnecessary when systemic treatment is given. Watch for pyloric stenosis.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1890",
+    "category": "Ophthalmia neonatorum",
+    "q": "What is chlamydia prophylaxis per p126?",
+    "a": "Treating the mother during pregnancy if she has chlamydia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "CDC: prenatal screening and treatment of pregnant women is the best prevention. Routine erythromycin ointment prophylaxis is ineffective against chlamydial ophthalmia and pneumonia.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1891",
+    "category": "Ophthalmia neonatorum",
+    "q": "Why is topical erythromycin at birth the wrong answer for a 3-week-old with wheezes, crackles and fever after chlamydial conjunctivitis, per p126?",
+    "a": "Topical therapy will not cover organisms that have already entered the nasolacrimal duct, so oral erythromycin is needed.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "CDC: topical antibiotic therapy alone is inadequate for chlamydial ophthalmia neonatorum.",
+      "url": "https://cdc.gov/std/treatment-guidelines/chlamydia.htm"
+    }
+  },
+  {
+    "id": "s2peds-1892",
+    "category": "Ophthalmia neonatorum",
+    "q": "When does gonococcal conjunctivitis present and what is the discharge, per p126?",
+    "a": "In the first week of life, with yellow discharge from one or both eyes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2peds-1893",
+    "category": "Ophthalmia neonatorum",
+    "q": "Why does p126 say a chlamydia vignette will mention pneumonia?",
+    "a": "Chlamydial ophthalmia neonatorum is always tied to subsequent pneumonia, which helps distinguish it from first-week gonococcal conjunctivitis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2peds-1894",
+    "category": "Ophthalmia neonatorum",
+    "q": "What are gonococcal prophylaxis and treatment per p126?",
+    "a": "Prophylaxis: erythromycin ointment. Treatment: IM third-generation cephalosporin, usually cefotaxime in peds.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "CDC: erythromycin ointment for all newborns within 24 hours (USPSTF). Treatment is ceftriaxone 25-50 mg/kg IV or IM once (max 250 mg); cefotaxime 100 mg/kg once is for neonates who cannot receive ceftriaxone, such as with hyperbilirubinemia or IV calcium. Current CDC leads with ceftriaxone.",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+    }
+  },
+  {
+    "id": "s2peds-1895",
+    "category": "Ophthalmia neonatorum",
+    "q": "What causes chemical conjunctivitis in neonates per p126?",
+    "a": "Silver nitrate eyedrops, classically given for gonococcal prophylaxis, since replaced by erythromycin ointment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "StatPearls: chemical causes dominate the first 24 hours of life. CDC: silver nitrate ointment is no longer manufactured in the US and erythromycin is the only recommended agent.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK441840/"
+    }
+  },
+  {
+    "id": "s2peds-1896",
+    "category": "Conjunctivitis",
+    "q": "What is the most likely diagnosis of conjunctivitis in school-age kids and adults per p126, and its cause?",
+    "a": "Viral conjunctivitis, caused by adenovirus (a DNA virus).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "StatPearls: the majority of conjunctivitis cases are caused by adenovirus.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470271/"
+    }
+  },
+  {
+    "id": "s2peds-1897",
+    "category": "Conjunctivitis",
+    "q": "How does viral conjunctivitis present and how is it treated per p126?",
+    "a": "Teary eye, unilateral or bilateral, itchy or not. Treatment is supportive with saline rinse.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "StatPearls: viral conjunctivitis causes erythema with tearing; antibiotics are not indicated in viral cases.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470271/"
+    }
+  },
+  {
+    "id": "s2peds-1898",
+    "category": "Conjunctivitis",
+    "q": "Which exam finding is buzzy for allergic conjunctivitis per p126?",
+    "a": "Cobblestoning of the tarsal conjunctiva (also described in the nasal mucosa for allergic rhinitis).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    }
+  },
+  {
+    "id": "s2peds-1899",
+    "category": "Conjunctivitis",
+    "q": "Must allergic conjunctivitis be bilateral or itchy per p126?",
+    "a": "No. It need not be bilateral and does not have to be itchy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 126,
+      "url": "/mehlman/hy-pediatrics.pdf#page=126"
+    },
+    "guideline": {
+      "text": "Caution: StatPearls calls itching the hallmark sign of allergic conjunctivitis, so itch is the usual finding even though p126 says it is not required.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK448118/"
+    }
   }
 ];
