@@ -1201,3 +1201,11 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p348 (DI, psychogenic polydipsia, acromegaly start) - 14 cards, ids s2med-3483 to 3496
 - NSAID+thiazide mechanism wording: source, unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 26 cards ox=false off=false bad=0.
+
+## p349 (acromegaly end, Hashimoto, Graves) - 11 cards, ids s2med-3497 to 3507
+- Hashimoto "primary CNS lymphoma" example: source, unverified (linked paper is on thyroid lymphoma).
+
+## p350 (thionamides, thyroid storm, thyroiditis, subclinical, euthyroid sick) - 13 cards, ids s2med-3508 to 3520
+- Drug-induced thyroiditis "uptake decreased" generalization: source, differs for amiodarone type 1; flagged unverified.
+- Propranolol "inhibits 5-deiodinase": source wording, unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 24 cards ox=false off=false bad=0.

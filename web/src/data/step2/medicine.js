@@ -46930,5 +46930,325 @@ export default [
       "text": "A consensus paper on acromegaly diagnosis criteria is linked (title only).",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10837217/"
     }
+  },
+  {
+    "id": "s2med-3497",
+    "category": "IM Endocrine",
+    "q": "Acromegaly findings per p349 (continued from p348)?",
+    "a": "Prognathism (lantern jaw), large ears/nose, arthritis and carpal tunnel syndrome (increased joint and tendon growth), enlarged hands/feet, hypertension, type II diabetes (GH causes insulin resistance), and increased risk of arrhythmia and cardiomyopathy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    },
+    "guideline": {
+      "text": "A systematic review of signs and comorbidities at acromegaly diagnosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10397145/"
+    }
+  },
+  {
+    "id": "s2med-3498",
+    "category": "IM Endocrine",
+    "q": "Acromegaly treatment per p349?",
+    "a": "Somatostatin analogue (octreotide). Somatostatin is aka growth hormone-inhibiting hormone (GHIH); it shuts off GH secretion from the anterior pituitary and also decreases insulin and glucagon secretion from the pancreas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    },
+    "guideline": {
+      "text": "A Pituitary Society acromegaly management update is linked (title only). Current guidelines also cover surgery as a first-line option; I did not verify details.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7864830/"
+    }
+  },
+  {
+    "id": "s2med-3499",
+    "category": "IM Endocrine",
+    "q": "Hashimoto thyroiditis basics per p349?",
+    "a": "Autoimmune destruction of the thyroid. Lymphocytic infiltrate on biopsy (asked on NBME). Anti-microsomal (aka anti-thyroperoxidase) + anti-thyroglobulin antibodies. Low T3, low T4, high TSH. 131I uptake scan is decreased or patchy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    },
+    "guideline": {
+      "text": "A guide to Hashimoto thyroiditis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9478900/"
+    }
+  },
+  {
+    "id": "s2med-3500",
+    "category": "IM Endocrine",
+    "q": "Hashimoto clinical findings per p349?",
+    "a": "Buzzy: weight gain, brittle hair, dry/doughy skin, cold intolerance (USMLE often omits these as too easy). Additional NBME findings: bradycardia (55-60), menstrual irregularity, dysthymia/depression/apathy, carpal tunnel syndrome (GAG deposition), high cholesterol, proximal muscle weakness with high CK (hypothyroid myopathy), and transaminitis (LFTs can be high).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    },
+    "guideline": {
+      "text": "A StatPearls page on hypothyroid myopathy is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK519513/"
+    }
+  },
+  {
+    "id": "s2med-3501",
+    "category": "IM Endocrine",
+    "q": "Autoimmune associations per p349?",
+    "a": "Hashimoto is associated with other autoimmune diseases (type I diabetes, pernicious anemia, vitiligo) and immunodeficiencies (e.g., IgA deficiency). Big-picture concept: autoimmune diseases go together, and autoimmune diseases and immunodeficiencies go together. Strict HLA associations aren't important outside HLA-B27.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    }
+  },
+  {
+    "id": "s2med-3502",
+    "category": "IM Endocrine",
+    "q": "Hashimoto lymphoma risk and treatment per p349?",
+    "a": "Increased risk of non-Hodgkin lymphoma (e.g., primary CNS lymphoma, per the source). Treatment: levothyroxine or triiodothyronine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    },
+    "guideline": {
+      "text": "A paper on Hashimoto in primary thyroid NHL is linked (title only). It concerns thyroid lymphoma; the source's 'primary CNS lymphoma' example I did not verify.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31584614/"
+    }
+  },
+  {
+    "id": "s2med-3503",
+    "category": "IM Endocrine",
+    "q": "Graves disease basics per p349?",
+    "a": "Activating autoantibody against the TSH receptor, called thyroid-stimulating immunoglobulin (TSI). High T3, high T4, low TSH. Lymphocytic infiltrate + hyperplastic follicles on biopsy. 131I uptake is diffusely increased.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    },
+    "guideline": {
+      "text": "A paper comparing TSI and TSH-receptor antibodies in Graves is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11634614/"
+    }
+  },
+  {
+    "id": "s2med-3504",
+    "category": "IM Endocrine",
+    "q": "Graves specific findings per p349?",
+    "a": "Exophthalmos (proptosis) and pretibial myxedema (non-pitting shin edema from GAG deposition). The vignette needn't mention them, but if it says 'no exophthalmos' it's saying not Graves. Buzzy: tachycardia, heat intolerance, sweating, palpitations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    }
+  },
+  {
+    "id": "s2med-3505",
+    "category": "IM Endocrine",
+    "q": "Other Graves points per p349?",
+    "a": "Myopathy with high CK can occur, but USMLE tends to give it in hypothyroidism. Can cause atrial fibrillation in younger patients (AF is normally elderly).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    }
+  },
+  {
+    "id": "s2med-3506",
+    "category": "IM Endocrine",
+    "q": "Thyroid storm per p349?",
+    "a": "Acute exacerbation of Graves, often precipitated by stress (surgery, trauma, infection); thyroid hormone production surges, causing hyperthermia, tachycardia, and altered mental status. It can also cause adrenal crisis (acute fall in BP from rapid cortisol consumption), especially in patients with adrenal insufficiency on exogenous steroids; treat the low BP with IV glucocorticoid (hydrocortisone or methylprednisolone).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    },
+    "guideline": {
+      "text": "A StatPearls page on thyroid storm is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448095/"
+    }
+  },
+  {
+    "id": "s2med-3507",
+    "category": "IM Endocrine",
+    "q": "Graves general treatment per p349 (continued on p350)?",
+    "a": "Thionamides: propylthiouracil (PTU) and methimazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 349,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=349"
+    }
+  },
+  {
+    "id": "s2med-3508",
+    "category": "IM Endocrine",
+    "q": "Thionamide mechanisms and toxicity per p350 (continued from p349)?",
+    "a": "PTU and methimazole both inhibit thyroperoxidase; PTU additionally inhibits 5-deiodinase. Both can cause neutropenia/agranulocytosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    },
+    "guideline": {
+      "text": "A review of antithyroid drug-induced agranulocytosis is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5318340/"
+    }
+  },
+  {
+    "id": "s2med-3509",
+    "category": "IM Endocrine",
+    "q": "Propranolol and prednisone in hyperthyroidism per p350?",
+    "a": "Propranolol is used for tachycardia (beta-blockade inhibits 5-deiodinase, per the source). Oral prednisone is specifically used for exophthalmos, not thionamides.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    }
+  },
+  {
+    "id": "s2med-3510",
+    "category": "IM Endocrine",
+    "q": "USMLE thyroid storm treatment per p350?",
+    "a": "Tetrad: 1) PTU, 2) propranolol, 3) steroids, 4) potassium iodide (shuts off the thyroid via the Wolff-Chaikoff effect).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    },
+    "guideline": {
+      "text": "A StatPearls page on thyroid storm is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448095/"
+    }
+  },
+  {
+    "id": "s2med-3511",
+    "category": "IM Endocrine",
+    "q": "Wolff-Chaikoff effect per p350?",
+    "a": "A transient decrease in thyroid hormone synthesis with an acute increase in iodide exposure, preventing excessive hormone production.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    }
+  },
+  {
+    "id": "s2med-3512",
+    "category": "IM Endocrine",
+    "q": "Radioactive iodine exposure per p350?",
+    "a": "Treatment is potassium iodide, which saturates the thyroid with 'regular' iodide and prevents uptake of radioiodine, preventing destruction of the gland.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    },
+    "guideline": {
+      "text": "A review of stable iodine prophylaxis after radioiodine intake is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11349833/"
+    }
+  },
+  {
+    "id": "s2med-3513",
+    "category": "IM Endocrine",
+    "q": "deQuervain thyroiditis per p350?",
+    "a": "Aka subacute granulomatous (or subacute) thyroiditis. A viral infection followed by a painful/tender thyroid. Inflammation lets pre-formed thyroid hormone leak out: low TSH, high T3, high T4, low 131I uptake.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    },
+    "guideline": {
+      "text": "An Endotext chapter on subacute thyroiditis is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK279084/"
+    }
+  },
+  {
+    "id": "s2med-3514",
+    "category": "IM Endocrine",
+    "q": "Uptake in thyroiditis per p350?",
+    "a": "The gland is not over-producing hormone, so uptake is not increased. deQuervain can be hypo- or hyperthyroid, but uptake is always decreased, even if hyperthyroid. Vignettes are almost always hyperthyroid to test this. Decreased uptake applies to all thyroiditis (deQuervain, drug-induced, postpartum).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    }
+  },
+  {
+    "id": "s2med-3515",
+    "category": "IM Endocrine",
+    "q": "Viral trigger in deQuervain vignettes per p350?",
+    "a": "Viral infections are often asymptomatic, so most deQuervain vignettes won't mention the viral infection.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    }
+  },
+  {
+    "id": "s2med-3516",
+    "category": "IM Endocrine",
+    "q": "Drug-induced thyroiditis per p350?",
+    "a": "Caused by lithium or amiodarone on USMLE. In theory hypo-, eu-, or hyperthyroid. Usually presents as painless hypothyroidism in a patient treated for bipolar disorder (lithium) or started on a new anti-arrhythmic (amiodarone). Low 131I uptake; leakage of hormone from inflammation can occur but the gland is not overproducing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    },
+    "guideline": {
+      "text": "A paper on amiodarone- and lithium-induced thyroid dysfunction is linked (title only). Amiodarone can cause different thyroid patterns; the source's uptake generalization I did not verify.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13527394/"
+    }
+  },
+  {
+    "id": "s2med-3517",
+    "category": "IM Endocrine",
+    "q": "Drug-induced thyroiditis labs per p350?",
+    "a": "High TSH, normal T3, normal T4 (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    }
+  },
+  {
+    "id": "s2med-3518",
+    "category": "IM Endocrine",
+    "q": "Subclinical hypothyroidism per p350?",
+    "a": "Asymptomatic with normal T3 and T4 despite elevated TSH. Most patients don't need treatment. The source says don't treat unless TSH >10, the patient is pregnant, or anti-Hashimoto antibodies are positive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    },
+    "guideline": {
+      "text": "A clinical practice guideline on thyroid hormone for subclinical hypothyroidism is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31088853/"
+    }
+  },
+  {
+    "id": "s2med-3519",
+    "category": "IM Endocrine",
+    "q": "Euthyroid sick syndrome per p350?",
+    "a": "Vignette: patient weaned from a ventilator, or after major trauma/surgery. Normal TSH, normal T4, low T3, high reverse T3 (rT3).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    },
+    "guideline": {
+      "text": "A paper on reverse T3 in euthyroid sick syndrome is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8808092/"
+    }
+  },
+  {
+    "id": "s2med-3520",
+    "category": "IM Endocrine",
+    "q": "Euthyroid sick mechanism per p350?",
+    "a": "One proposed mechanism: in acute stress, cortisol and inflammatory mediators inhibit peripheral conversion of T4 to T3, so T3 falls. T4 is converted to inactive reverse T3 instead, so rT3 is high. T4 and TSH stay in the normal range.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 350,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=350"
+    }
   }
 ];
