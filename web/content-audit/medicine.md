@@ -1118,3 +1118,10 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 
 ## p326 (osteosarcoma figure, unicameral cyst, mets) - 5 cards, ids s2med-3193 to 3197
 - Mobile QA (320x740, local vite preview build, not live): all 22 cards ox=false off=false bad=0.
+
+## p327 (bone scan, muscular dystrophy, PMR, polymyositis start) - 11 cards, ids s2med-3198 to 3208
+- PMR text "if one or both findings present, polymyositis" restated as weakness or raised CK.
+
+## p328 (polymyositis end, fibromyalgia, TMJ, myotonic dystrophy, myopathies) - 12 cards, ids s2med-3209 to 3220
+- Fibromyalgia called a psych condition; SSRIs as Tx; statin+fibrate "P450-mediated" claim: source claims, unverified.
+- Mobile QA (320x740, local vite preview build, not live): all 23 cards ox=false off=false bad=0.

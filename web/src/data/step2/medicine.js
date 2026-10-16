@@ -42735,5 +42735,330 @@ export default [
       "page": 326,
       "url": "/mehlman/hy-internal-medicine.pdf#page=326"
     }
+  },
+  {
+    "id": "s2med-3198",
+    "category": "IM MSK",
+    "q": "Bone scan figure per p327 (continued from p326)?",
+    "a": "The figure shows a Technetium-99 bone scan of cancer metastases. Similar imaging appears on 2CK forms for prostate mets.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    },
+    "img": "/mehlman/figures/med-p327-01.jpg",
+    "imgAlt": "Source figure: Tc-99 bone scan of metastases",
+    "guideline": {
+      "text": "A paper on nuclear imaging of prostate cancer bone metastases is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7828280/"
+    }
+  },
+  {
+    "id": "s2med-3199",
+    "category": "IM MSK",
+    "q": "Duchenne / Becker per p327?",
+    "a": "X-linked recessive disorder caused by mutation in the dystrophin (DMD) gene. The mutation disrupts alpha-/beta-dystroglycan, needed for proper internal cytoskeletal anchoring of the muscle cell to the extracellular matrix.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    },
+    "guideline": {
+      "text": "A page on Duchenne muscular dystrophy is linked (title only).",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK482346/"
+    }
+  },
+  {
+    "id": "s2med-3200",
+    "category": "IM MSK",
+    "q": "Pseudohypertrophy per p327?",
+    "a": "Muscles appear large but are replaced with fibroadipose tissue (connective tissue stromal cells).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    }
+  },
+  {
+    "id": "s2med-3201",
+    "category": "IM MSK",
+    "q": "Duchenne presentation per p327?",
+    "a": "A young boy who uses the Gower maneuver to stand up (uses his arms to push up off the floor because leg muscles are weak).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    }
+  },
+  {
+    "id": "s2med-3202",
+    "category": "IM MSK",
+    "q": "Becker vs Duchenne per p327?",
+    "a": "Becker presents in adolescence or young adulthood (a less severe form). Duchenne is classically a frameshift mutation; Becker is classically not.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    },
+    "guideline": {
+      "text": "A paper on DMD deletions in mild dystrophinopathies is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10823016/"
+    }
+  },
+  {
+    "id": "s2med-3203",
+    "category": "IM MSK",
+    "q": "Polymyalgia rheumatica per p327?",
+    "a": "Usually a patient over 50 with proximal muscle pain and stiffness. No weakness on physical exam and normal creatine kinase (CK). If weakness or raised CK is present, the answer is polymyositis, not PMR.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    },
+    "guideline": {
+      "text": "A narrative review of PMR recommendations is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11533311/"
+    }
+  },
+  {
+    "id": "s2med-3204",
+    "category": "IM MSK",
+    "q": "PMR other findings per p327?",
+    "a": "Can present with high ESR and low-grade fever (any autoimmune flare can present with low-grade fever).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    }
+  },
+  {
+    "id": "s2med-3205",
+    "category": "IM MSK",
+    "q": "PMR and temporal arteritis per p327?",
+    "a": "PMR can present with or without temporal (giant cell) arteritis. Temporal arteritis can present bilaterally on NBME exams; do steroids first to prevent blindness, biopsy second.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    },
+    "guideline": {
+      "text": "A paper on starting glucocorticoids before or after temporal artery biopsy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15065613/"
+    }
+  },
+  {
+    "id": "s2med-3206",
+    "category": "IM MSK",
+    "q": "Jaw claudication per p327?",
+    "a": "Temporal arteritis can cause jaw claudication (jaw pain during episodes). Unlike temporomandibular joint dysfunction, a separate diagnosis, jaw claudication is not precipitated by eating.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    }
+  },
+  {
+    "id": "s2med-3207",
+    "category": "IM MSK",
+    "q": "PMR diagnosis and Tx per p327?",
+    "a": "No specific diagnostic test; diagnosed clinically. Tx = steroids. NSAIDs are the wrong answer and not proven effective.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    },
+    "guideline": {
+      "text": "The PMR review is linked on an earlier card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11533311/"
+    }
+  },
+  {
+    "id": "s2med-3208",
+    "category": "IM MSK",
+    "q": "Polymyositis vs PMR per p327?",
+    "a": "Usually a patient over 50 with proximal muscle pain and stiffness, which is not unique to PMR; USMLE will give pain and stiffness in polymyositis vignettes. The key distinction is that polymyositis has 1) muscle weakness on physical exam and/or 2) increased serum CK. Continues on p328.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 327,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=327"
+    },
+    "guideline": {
+      "text": "A review of muscle biopsy in inflammatory myopathies is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4386579/"
+    }
+  },
+  {
+    "id": "s2med-3209",
+    "category": "IM MSK",
+    "q": "Weakness definition per p328 (continued from p327)?",
+    "a": "The weakness must be on physical exam. If the patient only complains of 'weakness' but no exam finding is given or the exam shows 5/5 strength, there is no weakness; patients often say 'weakness' when they really have pain and/or stiffness.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    }
+  },
+  {
+    "id": "s2med-3210",
+    "category": "IM MSK",
+    "q": "Dermatomyositis per p328?",
+    "a": "Polymyositis with skin findings: Gottron papules (violaceous papules on the knuckles), mechanics' hands (rough-surfaced hands), shawl rash (body rash), heliotrope rash (violaceous eyelids / periorbital; not the malar rash of SLE). Patients are often anti-Jo1 positive.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "img": "/mehlman/figures/med-p328-01.jpg",
+    "imgAlt": "Source figure: Gottron papules",
+    "guideline": {
+      "text": "A StatPearls page on dermatomyositis is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK558917/"
+    }
+  },
+  {
+    "id": "s2med-3211",
+    "category": "IM MSK",
+    "q": "Polymyositis first step per p328?",
+    "a": "USMLE wants 'electromyography and nerve conduction studies' as the first step in management (as asked on 2CK NBME forms). The source has not seen anti-Jo1 vs EMG+NCS as two answer choices; anti-Jo1 is usually mentioned in the vignette.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "The muscle biopsy review is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4386579/"
+    }
+  },
+  {
+    "id": "s2med-3212",
+    "category": "IM MSK",
+    "q": "Polymyositis biopsy per p328?",
+    "a": "Muscle biopsy is confirmatory, showing CD8+ T cell infiltration; histology can be described as 'CD8+ T cells and macrophages surrounding muscle fibers'.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "The same review is linked on the previous card.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4386579/"
+    }
+  },
+  {
+    "id": "s2med-3213",
+    "category": "IM MSK",
+    "q": "Dermatomyositis and cancer per p328?",
+    "a": "The source says dermatomyositis can be a paraneoplastic syndrome of ovarian cancer (shows up on NBME). Tx = steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "A report on dermatomyositis as a paraneoplastic phenomenon in ovarian cancer is linked (title only).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4956992/"
+    }
+  },
+  {
+    "id": "s2med-3214",
+    "category": "IM MSK",
+    "q": "Fibromyalgia per p328?",
+    "a": "The source calls it a psych condition, not an actual muscle disorder, often confused with polymyositis and PMR. Labs normal; ESR not elevated; no fever. A woman in her 20s-50s with multiple (often symmetric) muscle tender points.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    }
+  },
+  {
+    "id": "s2med-3215",
+    "category": "IM MSK",
+    "q": "Fibromyalgia Tx per p328?",
+    "a": "SSRIs. USMLE can write this as 'anti-depressant therapy', which confuses students ('she doesn't have depression'); SSRIs are still antidepressant medication.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "An overview of Cochrane reviews of fibromyalgia drugs is linked (title only). I did not verify that SSRIs are the best-supported class; source answer stays.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12048062/"
+    }
+  },
+  {
+    "id": "s2med-3216",
+    "category": "IM MSK",
+    "q": "Temporomandibular joint dysfunction per p328?",
+    "a": "The answer if the jaw pain is precipitated by eating. Often confused with jaw claudication in temporal arteritis, where pain is not precipitated by eating.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "A guideline on chronic pain in temporomandibular disorders is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38101929/"
+    }
+  },
+  {
+    "id": "s2med-3217",
+    "category": "IM MSK",
+    "q": "Myotonic dystrophy per p328?",
+    "a": "Autosomal dominant, CTG trinucleotide repeat expansion disease. Myotonia is inability to relax muscles. The answer if the patient cannot relax grip on a doorknob/handshake or let go of a golf club. Sometimes associated with early/frontal balding.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "A GeneReviews page on myotonic dystrophy type 1 is linked (title only).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1165/"
+    }
+  },
+  {
+    "id": "s2med-3218",
+    "category": "IM MSK",
+    "q": "Hypothyroid myopathy per p328?",
+    "a": "Myopathy can occur in both hypo- and hyperthyroidism, but is especially high-yield for hypothyroidism. Often hidden as proximal muscle weakness or increased CK in a patient with ongoing fatigue, dysthymia, menstrual irregularities, etc.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "A case report on hypothyroid myopathy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12115960/"
+    }
+  },
+  {
+    "id": "s2med-3219",
+    "category": "IM MSK",
+    "q": "Drug-induced myopathy per p328?",
+    "a": "Classically seen when statins and fibrates are combined, but both drugs can cause myopathy independently. Mild CK elevations are normal and expected when starting these agents; the dose does not need to be decreased for mild CK elevations.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "A paper on statin-fibrate myopathy is linked (title only).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19636324/"
+    }
+  },
+  {
+    "id": "s2med-3220",
+    "category": "IM MSK",
+    "q": "Statin plus fibrate mechanism per p328?",
+    "a": "USMLE wants 'P450-mediated interaction' as the cause of the myopathy when statins and fibrates are combined.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 328,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=328"
+    },
+    "guideline": {
+      "text": "Caution: I did not verify the P450 mechanism; kept as the source's exam answer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19636324/"
+    }
   }
 ];
