@@ -24527,5 +24527,314 @@ export default [
       "page": 115,
       "url": "/mehlman/hy-pediatrics.pdf#page=115"
     }
+  },
+  {
+    "id": "s2peds-1713",
+    "category": "Narcolepsy",
+    "q": "How does p116 define narcolepsy?",
+    "a": "A chronic sleep disorder affecting the brain's ability to regulate sleep-wake cycles normally.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: narcolepsy is a disorder of rapid-onset REM sleep with excessive daytime sleepiness and sleep fragmentation.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459236/"
+    }
+  },
+  {
+    "id": "s2peds-1714",
+    "category": "Narcolepsy",
+    "q": "What symptoms characterize narcolepsy on p116, and when do the hallucinations occur?",
+    "a": "Excessive daytime sleepiness, sudden episodes of muscle weakness (cataplexy), sleep paralysis and hallucinations. The hallucinations tend to occur before sleep (hypnagogic) or on waking (hypnopompic).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: the classic tetrad is cataplexy, excessive daytime sleepiness, hypnagogic hallucinations and sleep paralysis; only about one-third of patients present with all four.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459236/"
+    }
+  },
+  {
+    "id": "s2peds-1715",
+    "category": "Narcolepsy",
+    "q": "What neurotransmitter deficiency does p116 blame for narcolepsy?",
+    "a": "Orexin (also called hypocretin), which normally promotes wakefulness.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: narcolepsy type 1 occurs when nearly all orexin-containing neurons are lost; type 2 is less clear and may involve a milder loss.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459236/"
+    }
+  },
+  {
+    "id": "s2peds-1716",
+    "category": "Narcolepsy",
+    "q": "What treatment does p116 give for narcolepsy, and what mechanism does it describe?",
+    "a": "Modafinil, described as a dopamine reuptake inhibitor that also promotes release of orexin from the hypothalamus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1717",
+    "category": "Sleep apnea",
+    "q": "What two types of sleep apnea does p116 list?",
+    "a": "Obstructive (usually from obesity) or central (brain-related).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1718",
+    "category": "Sleep apnea",
+    "q": "What mood complication of sleep apnea does p116 give, and what is the NBME answer?",
+    "a": "Chronic fatigue and poor oxygenation can lead to dysthymia or depression. The NBME answer is 'mood disorder due to a medical condition'.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1719",
+    "category": "Sleep apnea",
+    "q": "What test does the USMLE want to diagnose sleep apnea on p116?",
+    "a": "Polysomnography (a sleep study).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: in-laboratory polysomnography is the gold standard; home sleep apnea testing is an option in selected patients.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459252/"
+    }
+  },
+  {
+    "id": "s2peds-1720",
+    "category": "Sleep apnea",
+    "q": "What is obesity hypoventilation (Pickwickian) syndrome on p116?",
+    "a": "Obstructive sleep apnea that has progressed to a chronic CO2 retainer with pulmonary hypertension and/or cor pulmonale. The source points to the HY Cardio PDF for the cardiac side.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: OHS is daytime hypercapnia (PaCO2 >45 mmHg) attributed to excess weight (BMI >30), frequently with obstructive sleep apnea; it is defined by hypoventilation, not by pulmonary hypertension.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542216/"
+    }
+  },
+  {
+    "id": "s2peds-1721",
+    "category": "Circadian rhythm sleep-wake disorder",
+    "q": "How does p116 define a circadian rhythm sleep-wake disorder?",
+    "a": "A misalignment between the individual's sleep pattern and the societal norm or natural environment.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "Review: circadian rhythm sleep disorders result from misalignment between the circadian rhythm and the external environment, or from dysfunction of the clock itself.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3654533/"
+    }
+  },
+  {
+    "id": "s2peds-1722",
+    "category": "Circadian rhythm sleep-wake disorder",
+    "q": "What common types does p116 list for circadian rhythm sleep-wake disorder?",
+    "a": "Delayed sleep phase (going to bed and waking later than desired), advanced sleep phase (earlier than desired) and shift work disorder (trouble sleeping from abnormal work hours).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "The review lists delayed and advanced sleep phase and shift work disorder among the circadian rhythm sleep disorders.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3654533/"
+    }
+  },
+  {
+    "id": "s2peds-1723",
+    "category": "Somnambulism",
+    "q": "What is somnambulism and which sleep stage does p116 give for it?",
+    "a": "Sleepwalking, occurring during Stage 3 (deep) sleep.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: sleepwalking arises from abrupt but limited arousals out of deep NREM slow-wave sleep, usually in the first third of the night.",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK559001/"
+    }
+  },
+  {
+    "id": "s2peds-1724",
+    "category": "Nightmare disorder",
+    "q": "Which sleep stage and dream content does p116 give for nightmare disorder?",
+    "a": "REM sleep. Dreams often involve threats to survival or self-esteem, leading to awakenings and distress.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls Parasomnias: nightmares occur during REM sleep.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560524/"
+    }
+  },
+  {
+    "id": "s2peds-1725",
+    "category": "Nightmare disorder",
+    "q": "Can the patient remember nightmare episodes on p116, and why?",
+    "a": "Yes. Episodes are remembered after awakening because they occur during REM sleep.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1726",
+    "category": "Sleep terror disorder",
+    "q": "What features does p116 give for sleep terror disorder, including who gets it?",
+    "a": "Often mistaken for nightmares; more common in male children and abates by pre-adolescence. It occurs in Stage 3 (delta wave) sleep.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: sleep terrors are abrupt partial arousals from delta-wave sleep with frantic motor activity and screaming, in the first third of the night.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560524/"
+    }
+  },
+  {
+    "id": "s2peds-1727",
+    "category": "Sleep terror disorder",
+    "q": "What behaviors and recall does p116 describe in sleep terror episodes?",
+    "a": "The patient somnambulates and may wake in a different location, often in a panic, sometimes violent (for example pulling on the mother's arm to go outside). Afterward there is no memory of the episode.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1728",
+    "category": "Sleep terror disorder",
+    "q": "How does p116 contrast sleep terrors with nightmare disorder?",
+    "a": "In nightmare disorder the patient remembers a dream and cannot somnambulate because of muscle paralysis during REM.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls Parasomnias separates NREM arousal disorders (sleepwalking, sleep terrors) from REM nightmares.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560524/"
+    }
+  },
+  {
+    "id": "s2peds-1729",
+    "category": "Restless leg syndrome",
+    "q": "How does p116 define restless leg syndrome?",
+    "a": "An idiopathic, irresistible urge to move the legs while in bed or sleeping.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1730",
+    "category": "Restless leg syndrome",
+    "q": "What is the most common cause of RLS on p116, and what is the first step?",
+    "a": "Iron deficiency anemia. The first step is checking serum iron and ferritin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "StatPearls: iron studies should be done in all patients with RLS symptoms. AASM 2024 also calls for iron supplementation guided by those studies.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK430878/"
+    }
+  },
+  {
+    "id": "s2peds-1731",
+    "category": "Restless leg syndrome",
+    "q": "What drugs does p116 give for RLS if iron studies are normal?",
+    "a": "Gabapentin and D2 agonists (ropinirole, pramipexole).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "AASM 2024 guideline: conditionally recommends AGAINST standard use of pramipexole, levodopa and rotigotine because of augmentation risk; gabapentin enacarbil, gabapentin and pregabalin are the first-line drug options. The source's D2-agonist answer reflects older practice.",
+      "url": "https://jcsm.aasm.org/doi/10.5664/jcsm.11390"
+    }
+  },
+  {
+    "id": "s2peds-1732",
+    "category": "Restless leg syndrome",
+    "q": "What Parkinson disease claim does p116 make about RLS?",
+    "a": "The USMLE wants you to know RLS patients have increased risk of developing Parkinson disease, which the source links to D2 agonists helping and a possible dopamine signaling or production problem.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1733",
+    "category": "Insomnia",
+    "q": "How does p116 define insomnia?",
+    "a": "Inability to get adequate sleep, from difficulty falling asleep, staying asleep or waking too early, leading to impaired daytime functioning.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2peds-1734",
+    "category": "Insomnia",
+    "q": "What drug does p116 say the USMLE wants for acute insomnia?",
+    "a": "A benzodiazepine, usually clonazepam.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    },
+    "guideline": {
+      "text": "ACP guideline: CBT-I is the recommended initial treatment for chronic insomnia disorder in all adults; benzodiazepines are not first-line. The source's benzo answer is an acute-insomnia exam rule.",
+      "url": "https://www.acpjournals.org/doi/10.7326/M15-2175"
+    }
+  },
+  {
+    "id": "s2peds-1735",
+    "category": "Insomnia",
+    "q": "What insomnia pattern does p116 link to depression?",
+    "a": "Terminal insomnia: waking up too early.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 116,
+      "url": "/mehlman/hy-pediatrics.pdf#page=116"
+    }
   }
 ];
