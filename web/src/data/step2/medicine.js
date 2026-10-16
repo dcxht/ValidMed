@@ -3585,5 +3585,258 @@ export default [
       "text": "StatPearls on costochondritis is a reference.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK532931/"
     }
+  },
+  {
+    "id": "s2med-0274",
+    "category": "IM Cardio",
+    "q": "Pleurodynia per p30?",
+    "a": "An MSK condition asked twice on 2CK material with nothing to do with the lungs despite the name. Viral infection (Coxsackie B) causing sharp lateral chest pain from intercostal muscle spasm. Creatine kinase can be elevated from increased muscle tone. Students sometimes choose pericarditis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    },
+    "guideline": {
+      "text": "A paper, 'Bornholm Disease and the Coxsackie Virus', is available; I did not verify the CK statement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2038089/"
+    }
+  },
+  {
+    "id": "s2med-0275",
+    "category": "IM Cardio",
+    "q": "Viral pleurisy per p30?",
+    "a": "Viral inflammation of the pleura causing sharp chest pain; if this is the answer, CK is normal (unlike pleurodynia, which is MSK).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2med-0276",
+    "category": "IM Cardio",
+    "q": "Diffuse esophageal spasm per p30?",
+    "a": "Can cause angina-like pain in a patient without cardiovascular disease (covered in the Gastro section).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2med-0277",
+    "category": "IM Cardio",
+    "q": "GERD as chest pain per p30?",
+    "a": "Can present as chest pain confused for MI; ECG will be normal (covered in the Gastro section).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2med-0278",
+    "category": "IM Cardio",
+    "q": "Arterial disease presentation per p30?",
+    "a": "Atherosclerotic disease with diminished peripheral pulses in a patient over 50 with risk factors (diabetes, smoking, HTN). Lower legs can be shiny and glabrous (trophic changes).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2med-0279",
+    "category": "IM Cardio",
+    "q": "Arterial ulcer appearance and location per p30 (figure)?",
+    "a": "Small and punched-out; on the tops/bottoms of feet and toes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    },
+    "img": "/mehlman/figures/med-p030-01.jpg",
+    "imgAlt": "Source figure p30: punched-out arterial ulcer on the foot"
+  },
+  {
+    "id": "s2med-0280",
+    "category": "IM Cardio",
+    "q": "First step in diagnosis of peripheral arterial disease per p30?",
+    "a": "Ankle-brachial index (exceedingly HY on 2CK): ankle BP compared with arm; <0.9 reflects decreased peripheral blood flow from atherosclerosis. If ABI is not listed, choose Doppler ultrasound (one 2CK NBME Q).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    },
+    "guideline": {
+      "text": "The 2024 ACC/AHA lower extremity PAD guideline is the current reference; I did not verify the 0.9 threshold in its text.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12782132/"
+    }
+  },
+  {
+    "id": "s2med-0281",
+    "category": "IM Cardio",
+    "q": "After ABI in PAD per p30?",
+    "a": "Exercise stress test if listed (to determine exercise tolerance); if not, 'recommend an exercise/walking program'. Do not choose cilostazol first or arteriography. One NBME form has 'prescription for an exercise program' as the answer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    },
+    "guideline": {
+      "text": "The 2024 guideline keywords include supervised exercise therapy. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12782132/"
+    }
+  },
+  {
+    "id": "s2med-0282",
+    "category": "IM Cardio",
+    "q": "Surgery for peripheral arterial disease per p30?",
+    "a": "Indicated in critical limb ischemia: chronic ischemic rest pain, ulcers or gangrene. First surgical intervention is usually angioplasty +/- stenting; endarterectomy and bypass for more severe blockages.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    },
+    "guideline": {
+      "text": "Global vascular guidelines on chronic limb-threatening ischemia exist; I did not verify the intervention order.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8365864/"
+    }
+  },
+  {
+    "id": "s2med-0283",
+    "category": "IM Cardio",
+    "q": "Drug triad in all patients with arterial disease per p30?",
+    "a": "1) ACEi/ARB, 2) statin, 3) antiplatelet therapy (same as carotid stenosis), unrelated to the sequence exercise program, cilostazol, surgery.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 30,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2med-0284",
+    "category": "IM Cardio",
+    "q": "Venous disease definition per p31?",
+    "a": "Congestion of the venous system usually from valvular incompetence; idiopathic/familial. Varicose veins are one type and not synonymous; patients can have venous disease without varicosities. Peripheral pulses are normal.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "A 2025 SCAI guideline on chronic venous disease exists; I did not verify wording.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12462076/"
+    }
+  },
+  {
+    "id": "s2med-0285",
+    "category": "IM Cardio",
+    "q": "Skin changes of venous disease per p31?",
+    "a": "'Brawny edema': brown, hemosiderin-laden edema from increased pressure and micro-extravasations; hyperpigmentation causing brown/red skin is stasis dermatitis, aka post-phlebitic syndrome (asked on 2CK).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "A review on stasis dermatitis is available.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9968263/"
+    }
+  },
+  {
+    "id": "s2med-0286",
+    "category": "IM Cardio",
+    "q": "Venous ulcer appearance and location per p31 (figure)?",
+    "a": "Large and sloughy; located at the malleoli.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    },
+    "img": "/mehlman/figures/med-p031-01.jpg",
+    "imgAlt": "Source figure p31: large sloughy venous ulcer at the ankle"
+  },
+  {
+    "id": "s2med-0287",
+    "category": "IM Cardio",
+    "q": "Diagnosis and first treatment of venous disease per p31?",
+    "a": "Venous duplex ultrasonography of the legs; first treatment is compression stockings. Never choose venous stripping or glue agents.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "The 2025 SCAI guideline lists compression as conservative therapy, with ablation and others as invasive approaches.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12462076/"
+    }
+  },
+  {
+    "id": "s2med-0288",
+    "category": "IM Cardio",
+    "q": "Venous disease with active DVT or superficial thrombophlebitis per p31?",
+    "a": "Venous disease increases risk of DVT and superficial thrombophlebitis; if active, answer subcutaneous enoxaparin over compression stockings.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "Reviews on superficial venous thrombosis exist; I did not verify that heparin is the answer for all superficial cases (source answer kept).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10888259/"
+    }
+  },
+  {
+    "id": "s2med-0289",
+    "category": "IM Cardio",
+    "q": "Surgery in venous disease per p31?",
+    "a": "Indicated for significant skin changes, venous ulcers or symptomatic varicose veins (pain, itching, swelling, cramps). Sclerotherapy (injecting a sclerosing agent so the vein closes and blood reroutes) is often the first procedure, but basically always the answer is compression stockings, or rarely heparin for DVT/STP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2med-0290",
+    "category": "IM Cardio",
+    "q": "Cardiac stress test questions per p31?",
+    "a": "Most 2CK Qs are about perioperative MI risk. Rare to choose between types: 4/5 Qs list just one stress test, testing whether you know a stress test should be done. Also done for peripheral arterial disease before recommending an exercise/walking program.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "The 2024 perioperative guideline is the current reference; I did not read its text, so I did not verify the 4/5 claim.",
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001285"
+    }
+  },
+  {
+    "id": "s2med-0291",
+    "category": "IM Cardio",
+    "q": "Exercise ECG per p31?",
+    "a": "Most common stress test; the answer for stable angina when looking for ST depressions (evidence of ischemia) with exertion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2med-0292",
+    "category": "IM Cardio",
+    "q": "Exercise ECG requirement per p31?",
+    "a": "Requires a normal baseline ECG. A long stem that mentions in the last line a baseline LBBB from a year ago means the ECG stress test is wrong.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 31,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=31"
+    },
+    "guideline": {
+      "text": "A practical guide to exercise stress testing is available; I did not verify the exact requirement.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12942606/"
+    }
   }
 ];

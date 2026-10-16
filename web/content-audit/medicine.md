@@ -126,3 +126,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 - Inspected page text; no figures. Page starts mid-prophylaxis list (item 4).
 - Unverified: carotid sinus CN IX/X pathway, panic vs MVP, vasovagal USMLE yield, prophylaxis item 4.
 - Mobile QA (320x740, local vite preview build, not live): all 29 cards ox=false off=false bad=0.
+
+## p30 (IM Cardio: chest pain mimics, arterial disease) - 10 cards, ids s2med-0274 to 0283
+- Inspected page text and figure (arterial ulcer). Expletive paraphrased out.
+- Unverified: ABI <0.9, order exercise program then cilostazol, CK statement, angioplasty-first claim.
+
+## p31 (IM Cardio: venous disease, stress test start) - 9 cards, ids s2med-0284 to 0292
+- Inspected page text and figure (venous ulcer). Page ends mid exercise-ECG bullet (continues p32).
+- Unverified: enoxaparin over compression, 4/5 stress test claim, "never choose" procedures.
+- Mobile QA (320x740, local vite preview build, not live): all 19 cards ox=false off=false bad=0.
