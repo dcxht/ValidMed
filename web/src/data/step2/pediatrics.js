@@ -32211,5 +32211,203 @@ export default [
       "text": "StatPearls: adrenal crisis with hypotension, hyponatremia, hyperkalemia and hypoglycemia; low cortisol and aldosterone with high renin.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
     }
+  },
+  {
+    "id": "s2peds-2265",
+    "category": "Addison disease",
+    "q": "Why is there hyperpigmentation in Addison disease per p150, and how often is it mentioned?",
+    "a": "ACTH and alpha-MSH are both increased due to decreased cortisol, causing hyperpigmentation. The author says it is mentioned in only about 50% of vignettes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "StatPearls: examine skin and mucous membranes for hyperpigmentation; it is absent in secondary insufficiency because ACTH and MSH are low. I did not verify the 50% figure.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
+  },
+  {
+    "id": "s2peds-2266",
+    "category": "Addison disease",
+    "q": "What eosinophil finding can occur in Addison disease per p150?",
+    "a": "Eosinophilia, because cortisol normally helps sequester eosinophils in the spleen and facilitates their apoptosis, so decreased cortisol means increased eosinophils. Questions can give 15-25% (normal is under 5%). Do not chase stool ova and parasites.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2peds-2267",
+    "category": "Addison disease",
+    "q": "What is the classic Addison vignette and answer per p150?",
+    "a": "A patient (young or old) with ongoing fatigue plus hyperpigmentation, and the answer is just the ACTH stimulation test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "StatPearls: diagnosis is low cortisol and aldosterone, high renin, and a blunted cortisol response to ACTH stimulation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
+  },
+  {
+    "id": "s2peds-2268",
+    "category": "Addison disease",
+    "q": "What does exogenous ACTH do in normal people versus primary adrenal insufficiency per p150?",
+    "a": "It should cause a robust increase in cortisol from the adrenal fasciculata. In primary adrenal insufficiency the damaged adrenal does not respond.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "StatPearls: blunted cortisol response with ACTH stimulation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
+  },
+  {
+    "id": "s2peds-2269",
+    "category": "Addison disease",
+    "q": "What does p150 say about unexplained chronic fatigue and cortisol?",
+    "a": "Decreased cortisol causes chronic fatigue. Check cortisol in any unexplained chronic fatigue; if low, hydrocortisone will quickly boost the patient.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "StatPearls lists unexplained fatigue among the presenting symptoms. I did not verify the claim that hydrocortisone will immediately boost patients.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441994/"
+    }
+  },
+  {
+    "id": "s2peds-2270",
+    "category": "Addison disease",
+    "q": "What is the treatment for Addison disease per p150?",
+    "a": "Fludrocortisone, with or without hydrocortisone. Fludrocortisone is a mineralocorticoid like aldosterone; hydrocortisone is a glucocorticoid like cortisol.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "Case series and review text show replacement with hydrocortisone or cortisone acetate plus fludrocortisone when renin is high.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10735307/"
+    }
+  },
+  {
+    "id": "s2peds-2271",
+    "category": "Waterhouse-Friderichsen",
+    "q": "What is Waterhouse-Friderichsen syndrome per p150?",
+    "a": "Meningococcal septicemia causing bilateral hemorrhagic necrosis of the adrenal glands, resulting in decreased aldosterone and decreased cortisol.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "StatPearls: bilateral adrenal hemorrhage, in many cases from fulminant meningococcemia.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551510/"
+    }
+  },
+  {
+    "id": "s2peds-2272",
+    "category": "Waterhouse-Friderichsen",
+    "q": "What is the vignette and answer for Waterhouse-Friderichsen per p150?",
+    "a": "Low BP, low Na+, high K+, low bicarb in a patient with meningococcal infection (for example recent meningitis plus a non-blanching rash). Source answer: ACTH stimulation test.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "Current caution: in a suspected adrenal crisis, guidance says to give hydrocortisone immediately and not delay it for testing. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7385786/"
+    }
+  },
+  {
+    "id": "s2peds-2273",
+    "category": "Adrenal crisis",
+    "q": "Who is at risk of adrenal crisis per p150?",
+    "a": "Patients on chronic glucocorticoids (for example prednisone for IBD, JIA or SLE) have a chronically suppressed, atrophied adrenal, since prednisone shuts off ACTH through negative feedback. It can occur in pediatrics with infection or surgery.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "Joint guideline: glucocorticoid-induced adrenal insufficiency; patients not tested should receive stress dose coverage when exposed to stress.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11180513/"
+    }
+  },
+  {
+    "id": "s2peds-2274",
+    "category": "Adrenal crisis",
+    "q": "Why do these patients crash with a stressor per p150?",
+    "a": "With surgery, trauma, infection or thyroid storm, glucocorticoid consumption rises, but they cannot mount a stress response (acutely raise cortisol), so they get acute glucocorticoid deficiency and a sharp fall in BP.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "Joint guideline: stress dose glucocorticoid coverage when exposed to stress.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11180513/"
+    }
+  },
+  {
+    "id": "s2peds-2275",
+    "category": "Adrenal crisis",
+    "q": "What is the classic adrenal crisis vignette and answer per p150?",
+    "a": "A kid with SLE on prednisone has surgery and BP drops to 80/40, with no response to fluids and pressors. Next best step: IV hydrocortisone or methylprednisolone, replenishing the glucocorticoid. Pressors can be NE, E or even desmopressin (per the source).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "Emergency guidance: give hydrocortisone with IV fluids; no adverse consequences of starting life-saving hydrocortisone. I did not verify desmopressin as a pressor.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7385786/"
+    }
+  },
+  {
+    "id": "s2peds-2276",
+    "category": "Adrenal crisis",
+    "q": "Why do pressors fail without cortisol per p150?",
+    "a": "Without cortisol or an equivalent glucocorticoid, adequate alpha-1 receptor expression on arterioles is lacking, so NE and E (normal or given) cannot bind to maintain BP. Glucocorticoids are permissive of catecholamine effects.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    }
+  },
+  {
+    "id": "s2peds-2277",
+    "category": "Adrenal crisis",
+    "q": "What other vignettes give the same answer per p150?",
+    "a": "A patient on prednisone for SLE or RA who gets acute thyroiditis with a big BP drop, or an autoimmune patient who gets an infection with a big BP drop. Answer: hydrocortisone (after fluids).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    },
+    "guideline": {
+      "text": "Emergency guidance: hydrocortisone with IV fluids in adrenal crisis.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7385786/"
+    }
+  },
+  {
+    "id": "s2peds-2278",
+    "category": "Adrenal crisis",
+    "q": "How does the author rate this concept per p150?",
+    "a": "Exceedingly high-yield on 2CK in particular, and often missed. Step 1 students still need the physiology and pharmacology behind it.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 150,
+      "url": "/mehlman/hy-pediatrics.pdf#page=150"
+    }
   }
 ];

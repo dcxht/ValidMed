@@ -745,3 +745,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - No outright conflicts. Terminology caution on "mental retardation" (current: intellectual disability).
 - Left unverified: 99Tc uptake, individual cretinism signs and myelin mechanism, 50% normal Na+ figure, spironolactone before surgery, TBG pregnancy logic, Addison autoimmune-association vignette pattern, zona involvement.
 - Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
+
+## p150 (Addison end, Waterhouse-Friderichsen, adrenal crisis) - 14 cards, ids s2peds-2265 to 2278
+- Inspected page text and layout; no figures. Expletives paraphrased out of card text.
+- Notes verified against StatPearls (Addison, Waterhouse-Friderichsen), adrenal crisis emergency guidance and the ESE/Endocrine Society glucocorticoid-induced adrenal insufficiency guideline.
+- Source conflict, source answer kept with caution note: Waterhouse-Friderichsen "answer = ACTH stimulation test" - guidance says give hydrocortisone without delaying for testing.
+- Left unverified: 50% hyperpigmentation, eosinophil mechanism and 15-25% figure, chronic-fatigue/cortisol claim, desmopressin as pressor, alpha-1 permissiveness.
+- Mobile QA (320x740, local vite preview build, not live): all 14 cards ox=false off=false bad=0.
