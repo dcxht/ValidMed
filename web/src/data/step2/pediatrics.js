@@ -37589,5 +37589,230 @@ export default [
       "text": "StatPearls: spirometry with a post-bronchodilator response is the primary diagnostic test; asthma shows an obstructive pattern with reduced FEV1/FVC.",
       "url": "https://ncbi.nlm.nih.gov/books/NBK430901/"
     }
+  },
+  {
+    "id": "s2peds-2631",
+    "category": "Peds vignettes",
+    "q": "8M with asthma, recent dysphagia to solids, and an upper endoscopy showing many concentric rings. Diagnosis per p186?",
+    "a": "Eosinophilic esophagitis: dysphagia and/or weight loss in a patient with asthma; endoscopy shows trachealization of the esophagus; biopsy shows dense eosinophil infiltrates.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls: the esophagus normally lacks eosinophils, so their presence is pathologic. I did not verify the trachealization or asthma association in the passage I read.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK459297/"
+    }
+  },
+  {
+    "id": "s2peds-2632",
+    "category": "Peds vignettes",
+    "q": "6F attended summer camp for a month and returns with peach-colored papules with central umbilication. Diagnosis per p186?",
+    "a": "Molluscum contagiosum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls: dome-shaped papules with central craters or depressions.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441898/"
+    }
+  },
+  {
+    "id": "s2peds-2633",
+    "category": "Peds vignettes",
+    "q": "16M with a large red, non-vesicular rash on the chin; the question asks for a diagnosis based on an image. Answer per p186?",
+    "a": "Impetigo (do not chase HSV or tinea faciei).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls Impetigo page. I did not verify the image-based differential.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430974/"
+    }
+  },
+  {
+    "id": "s2peds-2634",
+    "category": "Peds vignettes",
+    "q": "11M with 7 days of yellow crusts around his lips and red urine. Mechanism per p186?",
+    "a": "Antigen-antibody immune complex (post-streptococcal glomerulonephritis) caused by strep impetigo. S. aureus exceeds group A strep for both bullous and non-bullous impetigo.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls: PSGN is a type III hypersensitivity reaction, now more often after impetigo than pharyngitis, typically about 6 weeks after skin infection; nonbullous impetigo is about 80% S. aureus and bullous is almost exclusively S. aureus.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK538255/"
+    }
+  },
+  {
+    "id": "s2peds-2635",
+    "category": "Peds vignettes",
+    "q": "11M with yellow crusts on the face. Treatment per p186?",
+    "a": "Topical mupirocin. NBME wants mupirocin; if it is not listed, choose oral dicloxacillin or oral cephalexin (MSSA coverage); amoxicillin and penicillin do not cover it. More extensive impetigo can be managed with oral antibiotics.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls Impetigo covers topical and oral options and S. aureus causation. I did not verify the specific drug ranking.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK430974/"
+    }
+  },
+  {
+    "id": "s2peds-2636",
+    "category": "Peds vignettes",
+    "q": "Beefy red, well-demarcated skin plaque. Diagnosis and organism per p186?",
+    "a": "Erysipelas; group A strep (S. pyogenes) far exceeds S. aureus.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls: erysipelas is a sharply demarcated, raised erythema, often on the lower extremities; there is little evidence staphylococcus plays a role.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532247/"
+    }
+  },
+  {
+    "id": "s2peds-2637",
+    "category": "Peds vignettes",
+    "q": "More diffuse pink skin lesion with tenderness and fever. Diagnosis and organism per p186?",
+    "a": "Cellulitis; S. aureus exceeds S. pyogenes.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls Erysipelas page contrasts erysipelas with cellulitis. I did not verify the organism ranking for cellulitis.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532247/"
+    }
+  },
+  {
+    "id": "s2peds-2638",
+    "category": "Peds vignettes",
+    "q": "Treatment of erysipelas and cellulitis per p186?",
+    "a": "Oral dicloxacillin or oral cephalexin.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "Current caution: StatPearls notes erysipelas has little staphylococcal involvement, so streptococcal coverage (e.g. penicillin) is generally sufficient there; cellulitis may need MSSA or MRSA coverage. Source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK532247/"
+    }
+  },
+  {
+    "id": "s2peds-2639",
+    "category": "Peds vignettes",
+    "q": "Most common cause of otitis media per p186?",
+    "a": "Streptococcus pneumoniae.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "Current caution: I could not read the AAP 2013 acute otitis media guideline text; non-typeable H. influenzae has become comparably common since pneumococcal conjugate vaccines. I did not verify. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25395494/"
+    }
+  },
+  {
+    "id": "s2peds-2640",
+    "category": "Peds vignettes",
+    "q": "Treatment of otitis media per p186?",
+    "a": "Oral amoxicillin only.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "AAP 2013 guideline on acute otitis media (abstract unreadable); the source's 'only' is the exam rule. I did not verify observation options for mild cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25395494/"
+    }
+  },
+  {
+    "id": "s2peds-2641",
+    "category": "Peds vignettes",
+    "q": "Treatment of recurrent otitis media per p186?",
+    "a": "Amoxicillin/clavulanate.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "I did not verify this against the AAP guideline text, which I could not read.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25395494/"
+    }
+  },
+  {
+    "id": "s2peds-2642",
+    "category": "Peds vignettes",
+    "q": "When to do a tympanostomy tube per p186?",
+    "a": "Three or more episodes of OM in 6 months, or 4 or more in a year.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "Current caution: the AAO-HNS 2022 tympanostomy tube update exists; I could not read its text, so the exact criteria (including a recent episode requirement) are unverified. Source answer kept.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35138954/"
+    }
+  },
+  {
+    "id": "s2peds-2643",
+    "category": "Peds vignettes",
+    "q": "Most common cause of otitis externa per p186?",
+    "a": "Pseudomonas.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls: Pseudomonas aeruginosa and Staphylococcus aureus are the most common pathogens in otitis externa.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556055/"
+    }
+  },
+  {
+    "id": "s2peds-2644",
+    "category": "Peds vignettes",
+    "q": "Treatment of otitis externa per p186?",
+    "a": "Topical ciprofloxacin plus hydrocortisone drops.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "StatPearls Otitis Externa page covers topical therapy. I did not verify the specific drug combination in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556055/"
+    }
+  },
+  {
+    "id": "s2peds-2645",
+    "category": "Peds vignettes",
+    "q": "17M on the crew team with repeated water exposure. How best to prevent otitis externa per p186?",
+    "a": "Prophylactic alcohol-acetic acid drops; in contrast, carbamide peroxide drops are for cerumen (wax) buildup.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 186,
+      "url": "/mehlman/hy-pediatrics.pdf#page=186"
+    },
+    "guideline": {
+      "text": "A practical guide on otitis externa treatment and prevention exists; I did not verify the acetic acid recommendation in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556055/"
+    }
   }
 ];

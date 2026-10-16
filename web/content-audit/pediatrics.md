@@ -997,3 +997,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: stepwise asthma order (NAEPP 2020 revised for ages 12+, LABA never alone).
 - Left unverified: oral steroid effectiveness convention, any-order claim for add-ons, LTB4 chemotaxis list.
 - Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
+
+## p186 (Bullet points: EoE, molluscum, impetigo, erysipelas/cellulitis, otitis media and externa) - 15 cards, ids s2peds-2631 to 2645
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (Eosinophilic Esophagitis, Molluscum, Impetigo, PSGN, Erysipelas, Otitis Externa). The AAP 2013 otitis media guideline and AAO-HNS tympanostomy update could not be read (empty fetches); cited by title only.
+- Source answers kept with caution notes: erysipelas/cellulitis oral dicloxacillin or cephalexin (erysipelas is streptococcal); otitis media pathogen (NTHi comparable); tympanostomy criteria unverified.
+- Left unverified: EoE trachealization, impetigo image differential and drug ranking, cellulitis organism ranking, OM treatment specifics, otitis externa regimen and acetic acid prophylaxis.
+- Mobile QA (320x740, local vite preview build, not live): all 15 cards ox=false off=false bad=0.
