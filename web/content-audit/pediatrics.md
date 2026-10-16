@@ -571,4 +571,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. Three source figures added: strabismus types diagram (the source labels hypertropia "Unward turning", a typo; card text says upward), pediatric cataract photo, OI blue sclerae photo.
 - Notes verified against StatPearls (Amblyopia, Alport, Ectopia Lentis, OI), a pediatric cataract review (TORCH incl. rubella, syphilis) and GeneReviews (CBS deficiency).
 - Left un-noted/unverified: NF2 as a pediatric cataract cause (genetics table lists NF2 but I did not verify the clinical association in the fetched review; note says so), cataract symptom description, "eye exercises" for strabismus, p123's last line ("Marfan and Alport can also cause eye issues, but ...") continues on p124 and will be handled there.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 11 cards ox=false off=false bad=0; three figure cards render and answers fit.
