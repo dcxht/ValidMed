@@ -52413,5 +52413,368 @@ export default [
       "page": 387,
       "url": "/mehlman/hy-internal-medicine.pdf#page=387"
     }
+  },
+  {
+    "id": "s2med-3954",
+    "category": "IM Mixed",
+    "q": "Circular lesion in the pancreas in pancreatitis per p388 (continued from p387)?",
+    "a": "Pseudoabscess (pseudocyst); the answer is ERCP to drain internally.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3955",
+    "category": "IM Mixed",
+    "q": "Emphysema clues per p388?",
+    "a": "Bullous changes on CXR or expanded lungs/hyperlucency: emphysema. Centri-acinar: smokers. Pan-acinar: alpha-1 antitrypsin deficiency (e.g., young non-smoker with emphysema and a relative who died of hepatic cirrhosis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3956",
+    "category": "IM Mixed",
+    "q": "CREST lung pathology per p388?",
+    "a": "Can cause pulmonary fibrosis, then pulmonary hypertension.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3957",
+    "category": "IM Mixed",
+    "q": "FEV1/FVC per p388?",
+    "a": "Restrictive lung disease: normal or increased. Obstructive: decreased. The source's reason for normal/high in restrictive: radial traction on the outside of the airways keeps them from closing.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3958",
+    "category": "IM Mixed",
+    "q": "Apex-to-base lung changes when sitting/standing per p388?",
+    "a": "Both ventilation and perfusion increase from apex to base.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3959",
+    "category": "IM Mixed",
+    "q": "Otitis media per p388?",
+    "a": "Most common cause: Strep pneumo. Treatment: oral amoxicillin only; recurrent: amoxicillin/clavulanate. Tympanostomy tubes: three or more episodes in 6 months, or 4 or more in a year.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3960",
+    "category": "IM Mixed",
+    "q": "Otitis externa per p388?",
+    "a": "Most common cause: Pseudomonas. Treatment: topical ciprofloxacin + hydrocortisone drops. Prevention with constant water exposure (e.g., crew team): alcohol-acetic acid drops. Earwax buildup: carbamide peroxide drops.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3961",
+    "category": "IM Mixed",
+    "q": "Anemia of chronic disease iron pattern per p388?",
+    "a": "Low hematocrit + low MCV + low transferrin + low TIBC + normal or low transferrin saturation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3962",
+    "category": "IM Mixed",
+    "q": "Iron deficiency anemia pattern per p388?",
+    "a": "Low hematocrit + low MCV + high transferrin + high TIBC + very low transferrin saturation; increased RDW; low iron + low ferritin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3963",
+    "category": "IM Mixed",
+    "q": "Thalassemia pattern per p388 (continued on p389)?",
+    "a": "Low hematocrit + low MCV + low/low-normal RDW.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 388,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=388"
+    }
+  },
+  {
+    "id": "s2med-3964",
+    "category": "IM Mixed",
+    "q": "Thalassemia iron studies per p389 (continued from p388)?",
+    "a": "Low MCV + normal iron + normal or high ferritin (also normal iron and ferritin in a pregnant woman on iron supplements). Microcytic anemia not improving with iron: thalassemia. Diagnosis: hemoglobin electrophoresis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3965",
+    "category": "IM Mixed",
+    "q": "Low hematocrit + normal MCV + low iron + normal or high ferritin per p389?",
+    "a": "Anemia of chronic disease.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3966",
+    "category": "IM Mixed",
+    "q": "Anemia of chronic disease treatment per p389?",
+    "a": "If renal failure is the cause: EPO. If not (IBD, RA, SLE): cannot give EPO; treat the underlying condition (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3967",
+    "category": "IM Mixed",
+    "q": "High BP + smoker + TIA/stroke/retinal artery occlusion, best way to decrease stroke risk per p389?",
+    "a": "The source's answer: lisinopril, not smoking cessation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3968",
+    "category": "IM Mixed",
+    "q": "TIA/stroke/retinal artery occlusion workup per p389?",
+    "a": "Normotensive old patient: atrial fibrillation. Hypertensive with stroke: carotid duplex ultrasound. Normotensive with stroke: ECG; if normal, Holter monitor.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3969",
+    "category": "IM Mixed",
+    "q": "High BMI female + irregular cycles per p389?",
+    "a": "Anovulation; with hirsutism: PCOS. The cause USMLE wants: insulin resistance, causing abnormal GnRH pulsation.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3970",
+    "category": "IM Mixed",
+    "q": "Hirsutism and LH/FSH per p389?",
+    "a": "Abnormal GnRH pulsation causes a high LH/FSH ratio. Ovulation is stimulated when the follicle isn't ready, so no ovulation; the follicle is retained as a cyst.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3971",
+    "category": "IM Mixed",
+    "q": "LH and FSH function per p389?",
+    "a": "LH stimulates theca interna cells (females) and Leydig cells (males) to make androgens. FSH stimulates granulosa cells (females) and Sertoli cells (males) to make aromatase; also primes follicles.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3972",
+    "category": "IM Mixed",
+    "q": "PCOS treatment per p389?",
+    "a": "If high BMI, weight loss first on USMLE. If meds are asked or weight loss was tried: OCPs (not wanting pregnancy) or clomiphene (wanting pregnancy). PCOS increases endometrial cancer risk (unopposed estrogen).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3973",
+    "category": "IM Mixed",
+    "q": "Prostate cancer treatment per p389?",
+    "a": "Flutamide + leuprolide together (if a sequence is forced, choose flutamide then leuprolide).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3974",
+    "category": "IM Mixed",
+    "q": "Acute gout treatment per p389 (continued on p390)?",
+    "a": "Indomethacin (NSAID) first on USMLE; then steroids, then colchicine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 389,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=389"
+    }
+  },
+  {
+    "id": "s2med-3975",
+    "category": "IM Mixed",
+    "q": "Acute gout variations per p390 (continued from p389)?",
+    "a": "If indomethacin and steroids aren't listed: colchicine. With renal insufficiency or renal transplant: steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3976",
+    "category": "IM Mixed",
+    "q": "Chronic gout per p390?",
+    "a": "Allopurinol or febuxostat (xanthine oxidase inhibitors). Never give probenecid (uricosuric) to a patient with a history of uric acid stones or an over-producer. Rasburicase and pegloticase are urate oxidase analogues that cleave uric acid directly.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3977",
+    "category": "IM Mixed",
+    "q": "Lesch-Nyhan per p390?",
+    "a": "Young child + self-mutilation + red-orange crystals in the diaper; X-linked; HGPRT deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3978",
+    "category": "IM Mixed",
+    "q": "Pseudogout per p390?",
+    "a": "Calcium pyrophosphate deposition disease. Two main causes: primary hyperparathyroidism and hemochromatosis. Presents as monoarthritis of a large joint (knee) or an osteoarthritis-like picture in someone with those conditions.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3979",
+    "category": "IM Mixed",
+    "q": "32M with dark forearm skin + high fasting glucose per p390?",
+    "a": "Hemochromatosis (bronze diabetes). With painful hands and x-ray showing DIP involvement: pseudogout (per the source).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3980",
+    "category": "IM Mixed",
+    "q": "Pseudogout treatment per p390?",
+    "a": "Acutely the same as gout; for chronic, treat the underlying condition.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3981",
+    "category": "IM Mixed",
+    "q": "Osteoarthritis per p390?",
+    "a": "Biggest risk factor: obesity. Treatment: weight loss; if normal BMI, acetaminophen before NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3982",
+    "category": "IM Mixed",
+    "q": "NSAID and peripheral edema per p390?",
+    "a": "NSAIDs decrease renal blood flow, so the PCT increases Na+ reabsorption to compensate for perceived low volume, and water follows sodium.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3983",
+    "category": "IM Mixed",
+    "q": "RA treatment structure per p390?",
+    "a": "Two-armed: symptom relief plus disease-modifying anti-rheumatic drugs (DMARDs). Symptom relief: NSAID first, then steroids (symptoms only; they don't slow progression).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3984",
+    "category": "IM Mixed",
+    "q": "DMARDs for early RA per p390?",
+    "a": "Always methotrexate first; if insufficient, add another DMARD (sulfasalazine or leflunomide); if still insufficient, add an anti-TNF-alpha agent.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3985",
+    "category": "IM Mixed",
+    "q": "Methotrexate per p390?",
+    "a": "MOA: dihydrofolate reductase inhibitor. Side effects: pulmonary fibrosis, hepatotoxicity, mouth ulcers (neutropenia).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
+  },
+  {
+    "id": "s2med-3986",
+    "category": "IM Mixed",
+    "q": "Sulfasalazine per p390?",
+    "a": "Metabolized into sulfapyridine + mesalamine in the gut by bacteria. The source's last line (mesalamine, 5-ASA, absorbed as the RA treatment; the only NSAID considered a DMARD) is garbled.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 390,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=390"
+    }
   }
 ];

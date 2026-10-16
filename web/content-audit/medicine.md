@@ -1334,3 +1334,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p387 (IM mixed bullets: skin infections, arrhythmias, vaccines) - 12 cards, ids s2med-3942 to 3953
 - Vaccine schedule items (PCV13, HPV 9-45, MMR/varicella timing, influenza): source values, possibly outdated, flagged unverified in notes.
 - Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
+
+## p388 (IM mixed bullets: lung, ENT, anemia start) - 10 cards, ids s2med-3954 to 3963
+
+## p389 (IM mixed bullets: anemia, stroke, PCOS, gout start) - 11 cards, ids s2med-3964 to 3974
+- "Hypertensive + smoker + TIA: lisinopril not smoking cessation": source exam answer, flagged unverified.
+
+## p390 (IM mixed bullets: gout, pseudogout, OA, RA) - 12 cards, ids s2med-3975 to 3986
+- Final mesalamine/"only NSAID considered DMARD" line garbled; flagged and omitted from answer.
+- Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
