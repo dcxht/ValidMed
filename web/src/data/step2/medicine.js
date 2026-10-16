@@ -53139,5 +53139,435 @@ export default [
       "page": 393,
       "url": "/mehlman/hy-internal-medicine.pdf#page=393"
     }
+  },
+  {
+    "id": "s2med-4020",
+    "category": "IM Mixed",
+    "q": "Allergic-like reaction after shellfish per p394?",
+    "a": "Shellfish allergy, not scombroid (the source says if the stem says shellfish, the answer is shellfish allergy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4021",
+    "category": "IM Mixed",
+    "q": "Vomiting a few hours after eating meat per p394?",
+    "a": "S. aureus preformed heat-stable toxin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4022",
+    "category": "IM Mixed",
+    "q": "Vomiting (or unusual symptoms like bloody diarrhea) after custards, creams, potato salad per p394?",
+    "a": "S. aureus preformed heat-stable toxin. The food type wins over the odd bloody diarrhea. Bloody-diarrhea gram-negative rods (EHEC, Yersinia enterocolitica, Campylobacter, Shigella, Salmonella) have a ~1-3 day incubation; illness within hours of food points to preformed toxin.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4023",
+    "category": "IM Mixed",
+    "q": "Treatment of otitis externa per p394?",
+    "a": "Topical ciprofloxacin + hydrocortisone drops.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4024",
+    "category": "IM Mixed",
+    "q": "Prophylaxis for otitis externa with continued water exposure (e.g., crew) per p394?",
+    "a": "Topical alcohol-acetic acid drops.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4025",
+    "category": "IM Mixed",
+    "q": "Treatment of cerumen buildup per p394?",
+    "a": "Carbamide peroxide drops.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4026",
+    "category": "IM Mixed",
+    "q": "Most common cause of otitis externa per p394?",
+    "a": "Pseudomonas.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4027",
+    "category": "IM Mixed",
+    "q": "Otitis externa + mastoiditis per p394?",
+    "a": "Malignant otitis externa.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4028",
+    "category": "IM Mixed",
+    "q": "Management of malignant otitis externa per p394?",
+    "a": "CT or MRI of the temporal bone, because pus collections are common; if a fluid collection is not ruled out and drained it can cause brain abscess. Source: an NBME pediatric form's answer was CT temporal bone in a 2-year-old; a UW 2CK item listed MRI as correct (x-ray insufficient). Mastoiditis classically shows a pinna displaced up and out, often with the child pulling on it.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4029",
+    "category": "IM Mixed",
+    "q": "Treatment of otitis media per p394?",
+    "a": "Amoxicillin. Amoxicillin/clavulanate (Augmentin) is the wrong initial answer; use it for recurrent otitis media.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4030",
+    "category": "IM Mixed",
+    "q": "When to place a tympanostomy tube per p394?",
+    "a": "3+ episodes of otitis media in 6 months or 4+ in a year.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4031",
+    "category": "IM Mixed",
+    "q": "Treatment of Strep pharyngitis per p394?",
+    "a": "Amoxicillin or penicillin only (not Augmentin).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4032",
+    "category": "IM Mixed",
+    "q": "Antibiotic for aspiration pneumonia or pulmonary abscess per p394?",
+    "a": "Clindamycin (anaerobes above the diaphragm).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4033",
+    "category": "IM Mixed",
+    "q": "Cups of foul-smelling sputum in a COPD, TB, or CF patient per p394?",
+    "a": "Bronchiectasis (continues on p395).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 394,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=394"
+    }
+  },
+  {
+    "id": "s2med-4034",
+    "category": "IM Mixed",
+    "q": "Most common cause of bronchiectasis per p395?",
+    "a": "Worldwide: TB. Western countries: CF.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4035",
+    "category": "IM Mixed",
+    "q": "Young child + scant white sputum + linear opacity in the right middle lobe on CXR per p395?",
+    "a": "Bronchiectasis caused by right middle lobe syndrome (the source says it is on a pediatric 2CK form and is the first bronchiectasis question without copious foul sputum).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    },
+    "guideline": {
+      "text": "Right middle lobe syndrome in children is described in the linked PubMed record.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3623806/"
+    }
+  },
+  {
+    "id": "s2med-4036",
+    "category": "IM Mixed",
+    "q": "Chromosomes of AR and AD polycystic kidney disease per p395?",
+    "a": "Chromosome 6 for AR; chromosome 16 for AD.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4037",
+    "category": "IM Mixed",
+    "q": "ADPKD screening: MR angiogram of the circle of Willis or serial blood pressure checks per p395?",
+    "a": "Serial blood pressure checks. No MR angiogram screening unless family history of aneurysm. Most patients get hypertension from cyst impingement on renal microvasculature (RAAS surge).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4038",
+    "category": "IM Mixed",
+    "q": "Most common extra-renal location for cysts in PKD per p395?",
+    "a": "Liver.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4039",
+    "category": "IM Mixed",
+    "q": "Key point about AR PKD per p395?",
+    "a": "Shows up in pediatrics and causes hepatic fibrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4040",
+    "category": "IM Mixed",
+    "q": "Key point about AD PKD per p395?",
+    "a": "Presents in adults; cysts are present from birth but grow and become symptomatic around age 30-40+.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4041",
+    "category": "IM Mixed",
+    "q": "Empiric antibiotics for meningitis per p395?",
+    "a": "Ceftriaxone + vancomycin (+/- steroids).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4042",
+    "category": "IM Mixed",
+    "q": "Lumbar puncture or antibiotics first in suspected meningitis per p395?",
+    "a": "The source says new guidelines say LP first.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    },
+    "guideline": {
+      "text": "Current guidance generally says not to delay antibiotics when LP is delayed (for example for CT); I did not verify the source's LP-first wording against the NBME key. See the linked Bookshelf chapter on bacterial meningitis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK604183/"
+    }
+  },
+  {
+    "id": "s2med-4043",
+    "category": "IM Mixed",
+    "q": "When to do CT head before LP in suspected meningitis per p395?",
+    "a": "Confusion interfering with the neuro exam / decreased GCS; seizure; focal neurologic signs (motor or sensory); papilledema or fundi that cannot be visualized. These suggest a possible mass lesion where LP risks tonsillar herniation; if CT is negative, proceed cautiously to LP.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4044",
+    "category": "IM Mixed",
+    "q": "CSF in bacterial meningitis per p395?",
+    "a": "Low glucose, high protein, high neutrophils (PMNs).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4045",
+    "category": "IM Mixed",
+    "q": "CSF in aseptic (viral) meningitis per p395?",
+    "a": "Normal glucose, normal or slightly elevated protein, high lymphocytes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4046",
+    "category": "IM Mixed",
+    "q": "CSF in fungal meningitis per p395?",
+    "a": "Low glucose, high protein, high lymphocytes (like bacterial but lymphocytes instead of neutrophils).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 395,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=395"
+    }
+  },
+  {
+    "id": "s2med-4047",
+    "category": "IM Mixed",
+    "q": "Herpes encephalitis CSF and imaging per p396?",
+    "a": "Many RBCs in CSF from temporal lobe hemorrhage; CT is often negative, but the stem may mention EEG slow waves or temporal complexes.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4048",
+    "category": "IM Mixed",
+    "q": "Meningitis vs encephalitis per p396?",
+    "a": "Meningitis: nuchal rigidity + photophobia + ophthalmoplegia. Encephalitis: confusion.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4049",
+    "category": "IM Mixed",
+    "q": "Diagnosis of Cryptococcal meningitis per p396?",
+    "a": "Latex agglutination if it is listed over India ink; mucicarmine (red stain) can also be done.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4050",
+    "category": "IM Mixed",
+    "q": "Treatment of Cryptococcal meningitis per p396?",
+    "a": "Amphotericin B + flucytosine, followed by a fluconazole taper.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4051",
+    "category": "IM Mixed",
+    "q": "Nodular density in an upper lobe in an immunocompromised patient per p396?",
+    "a": "Aspergilloma; the source says next best step is open lung biopsy (its NBME answer), treat with an -azole; invasive aspergillosis can be treated with caspofungin or voriconazole.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4052",
+    "category": "IM Mixed",
+    "q": "22M, three bacterial pneumonias, atopy, now sore left cheek per p396?",
+    "a": "IgA deficiency. The sore cheek is sinusitis; IgA deficiency is recurrent mild sinopulmonary infections in a not-so-young patient (unlike SCID or Bruton). Can come with autoimmune phenomena (atopy, vitiligo) and giardiasis. With celiac disease, IgA anti-tTG cannot be measured reliably. Anaphylaxis after transfusion is HY but rarely tested.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4053",
+    "category": "IM Mixed",
+    "q": "Most common immunodeficiency in humans per p396?",
+    "a": "IgA deficiency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4054",
+    "category": "IM Mixed",
+    "q": "17F, 1 year autoimmune thyroiditis, 2 years type I DM, Candidal infections since childhood per p396?",
+    "a": "Chronic mucocutaneous candidiasis. The Candida cannot be from diabetes (present since childhood). USMLE pairs autoimmune conditions with each other and with immunodeficiencies (CMC and IgA deficiency have autoimmune features).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4055",
+    "category": "IM Mixed",
+    "q": "Diagnosis of PJP per p396?",
+    "a": "Bronchoalveolar lavage.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
+  },
+  {
+    "id": "s2med-4056",
+    "category": "IM Mixed",
+    "q": "When to add steroids to TMP/SMX for PJP per p396?",
+    "a": "A-a gradient >35 or pO2 <60 mm Hg.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    },
+    "guideline": {
+      "text": "Adjunctive corticosteroid benefit in PJP in AIDS is described in the linked PubMed record; I did not verify the exact A-a cutoff against current guidelines.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1421680/"
+    }
+  },
+  {
+    "id": "s2med-4057",
+    "category": "IM Mixed",
+    "q": "36M with long-bone fractures + petechiae on the chest per p396?",
+    "a": "Fat embolism.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 396,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=396"
+    }
   }
 ];

@@ -1351,3 +1351,12 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p393 (IM mixed bullets: vWD, SCD, agranulocytosis, fish toxins) - 10 cards, ids s2med-4010 to 4019
 - Ciguatera "blocks sodium channels" mechanism wording: source, flagged unverified.
 - Mobile QA (320x740, local vite preview build, not live): all 33 cards ox=false off=false bad=0.
+
+## p394 (IM mixed bullets: food toxins, otitis, aspiration) - 14 cards, ids s2med-4020 to 4033
+
+## p395 (IM mixed bullets: bronchiectasis, PKD, meningitis) - 13 cards, ids s2med-4034 to 4046
+- "New guidelines say LP first" in suspected meningitis: source; note says current guidance generally does not delay antibiotics, flagged unverified vs NBME key.
+
+## p396 (IM mixed bullets: encephalitis, crypto, IgA deficiency, PJP) - 11 cards, ids s2med-4047 to 4057
+- PJP steroid A-a gradient >35 cutoff: source, not verified against current guidelines.
+- Mobile QA (320x740, local vite preview build, not live): all 38 cards ox=false off=false bad=0.
