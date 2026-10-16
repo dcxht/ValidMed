@@ -703,3 +703,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls: NF1, NF2, Tuberous Sclerosis Complex, VHL, Sturge-Weber, SCID, X-Linked Agammaglobulinemia. No source conflicts found.
 - Left un-noted or flagged unverified: NF1 oligodendroglioma/ependymoma, NF2 chromosome 22 and childhood cataracts, VHL chromosome 3 and HIF mechanism, Sturge-Weber temporal papules, XLA onset-age exam commentary (6 months, 14/15 questions, NBME exception).
 - Mobile QA (320x740, local vite preview build, not live): all 20 cards ox=false off=false bad=0.
+
+## p144 (IgA deficiency, DiGeorge, CMC, CGD, MPO deficiency) - 21 cards, ids s2peds-2162 to 2182
+- Inspected page pixels. No figures (tables). The page contains an expletive; the card text paraphrases it out.
+- Notes verified against StatPearls: Selective IgA Deficiency, DiGeorge (22q11.2 only; pouch embryology and hypocalcemia details not verified), Polyglandular Autoimmune Syndrome Type I, CGD, MPO deficiency.
+- Source conflict, source answer kept with caution note: CGD "usually X-linked recessive" - StatPearls says most mutations are autosomal recessive with only the NOX2 variant X-linked.
+- Left un-noted or flagged unverified: IgA deficiency as most common hereditary immunodeficiency and vignette frequencies, Giardia link, false-positive pregnancy tests, DiGeorge pouch embryology/hypocalcemia/cardiac/normal antibody details, T1DM and thyroiditis with CMC (differs from APS-1 triad), CGD organism list incl. H. pylori, DHR vs NBT NBME claim, MPO Staph aureus claim.
+- Mobile QA (320x740, local vite preview build, not live): all 21 cards ox=false off=false bad=0.

@@ -30802,5 +30802,284 @@ export default [
       "text": "StatPearls: lifelong immunoglobulin replacement therapy with antibiotics for infections; there is no cure.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK549865/"
     }
+  },
+  {
+    "id": "s2peds-2162",
+    "category": "Bruton agammaglobulinemia",
+    "q": "What does USMLE often write as the answer for XLA per p144?",
+    "a": "Deficiency of humoral immunity, rather than just Bruton XLA.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2163",
+    "category": "IgA deficiency",
+    "q": "What does p144 say about IgA deficiency and how common it is?",
+    "a": "One of the highest yield conditions for the Step. It is the most common hereditary immunodeficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2164",
+    "category": "IgA deficiency",
+    "q": "What is the classic vignette for IgA deficiency per p144?",
+    "a": "Recurrent sinopulmonary infections in someone between high school and their 30s (one 2CK Peds question has it in a kid). The question might say sore cheek (sinusitis) plus history of pneumonia.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2165",
+    "category": "IgA deficiency",
+    "q": "What transfusion complication is associated with IgA deficiency per p144?",
+    "a": "Anaphylaxis with transfusion of blood products. p144 says this is often omitted from real NBME questions because it is too easy and buzzy.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: IgG and IgE anti-IgA antibodies can cause transfusion reactions, so give IgA-poor or washed red cells.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538205/"
+    }
+  },
+  {
+    "id": "s2peds-2166",
+    "category": "IgA deficiency",
+    "q": "What allergic and infectious history is associated with IgA deficiency per p144?",
+    "a": "Atopy (asthma, seasonal allergies, eczema) is really high yield. History of Giardia infection.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: increased prevalence of atopic disease in IgA deficiency. I did not verify the Giardia link.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538205/"
+    }
+  },
+  {
+    "id": "s2peds-2167",
+    "category": "IgA deficiency",
+    "q": "Which autoimmune diseases and test problem go with IgA deficiency per p144?",
+    "a": "Other autoimmune diseases such as vitiligo and celiac. Celiac antibody screen can be falsely negative in IgA deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: type 1 diabetes, SLE, celiac and Graves disease are associated; the paucity of IgA can lead to misdiagnosis of celiac disease.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538205/"
+    }
+  },
+  {
+    "id": "s2peds-2168",
+    "category": "IgA deficiency",
+    "q": "What does p144 say about pregnancy tests in IgA deficiency?",
+    "a": "It can be associated with false-positive pregnancy tests, apparently due to heterophile antibody production, unrelated to EBV.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2169",
+    "category": "IgA deficiency",
+    "q": "How may USMLE word the answer for IgA deficiency per p144?",
+    "a": "Deficiency of mucosal immunoglobulin or deficiency of humoral immunity, rather than just IgA deficiency.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2170",
+    "category": "DiGeorge syndrome",
+    "q": "What causes DiGeorge syndrome per p144?",
+    "a": "T cell deficiency from a 22q11 deletion.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: DiGeorge syndrome is now understood within the broader 22q11.2 deletion syndrome.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK549798/"
+    }
+  },
+  {
+    "id": "s2peds-2171",
+    "category": "DiGeorge syndrome",
+    "q": "Which embryologic structures fail in DiGeorge per p144?",
+    "a": "The 3rd and 4th pharyngeal pouches (not arches). The 3rd becomes the thymus plus two inferior parathyroids; the 4th becomes the two superior parathyroids.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2172",
+    "category": "DiGeorge syndrome",
+    "q": "What are the key findings of DiGeorge per p144?",
+    "a": "Absent thymic shadow; hypocalcemia from hypoparathyroidism (positive Chvostek and Trousseau signs); tetralogy of Fallot (VSD, overriding aorta, pulmonic stenosis, RVH) and truncus arteriosus; cleft lip/palate may or may not be mentioned.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2173",
+    "category": "DiGeorge syndrome",
+    "q": "What are antibody levels in DiGeorge per p144?",
+    "a": "Normal, even though T cells activate B cells. Choose normal antibody levels.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2174",
+    "category": "Chronic mucocutaneous candidiasis",
+    "q": "What is chronic mucocutaneous candidiasis per p144?",
+    "a": "T cell dysfunction with recurrent candidal skin infections since birth. Choose deficiency of cell-mediated immunity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: chronic mucocutaneous candidiasis is the most common initial manifestation of APS-1 (APECED), at a median age of about 1.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537211/"
+    }
+  },
+  {
+    "id": "s2peds-2175",
+    "category": "Chronic mucocutaneous candidiasis",
+    "q": "Which associations does p144 give for chronic mucocutaneous candidiasis?",
+    "a": "Other autoimmune diseases such as T1DM and thyroiditis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: APS-1 is a triad of hypoparathyroidism, Addison disease and chronic mucocutaneous candidiasis. The page's T1DM and thyroiditis pairing differs from that triad; I did not verify it.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537211/"
+    }
+  },
+  {
+    "id": "s2peds-2176",
+    "category": "Chronic mucocutaneous candidiasis",
+    "q": "A 17-year-old girl has recurrent candidal skin infections since birth, 1 year of autoimmune thyroiditis and 2 years of T1DM. What is the mechanism of her infections per p144?",
+    "a": "Deficiency of cell-mediated immunity.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    }
+  },
+  {
+    "id": "s2peds-2177",
+    "category": "Chronic granulomatous disease",
+    "q": "What is chronic granulomatous disease per p144 and what is its inheritance?",
+    "a": "NADPH oxidase deficiency, usually X-linked recessive. NADPH oxidase is the first enzyme of the respiratory burst, converting molecular O2 to superoxide.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: NADPH oxidase forms superoxide anion, critical for killing microorganisms in phagocytes. Current caution: StatPearls says most CGD mutations are autosomal recessive and only the NOX2 variant is X-linked, with the autosomal form more common where consanguinity is common. X-linked is the most common form in many Western series; source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493171/"
+    }
+  },
+  {
+    "id": "s2peds-2178",
+    "category": "Chronic granulomatous disease",
+    "q": "Which organisms cause infections in CGD per p144, and why?",
+    "a": "Catalase-positive organisms: Serratia, Pseudomonas, Aspergillus, Candida, E. coli, Staph, H. pylori. The patient cannot make enough H2O2 to overwhelm them.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls describes defective superoxide formation in phagocytes. I did not verify the organism list, including H. pylori.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493171/"
+    }
+  },
+  {
+    "id": "s2peds-2179",
+    "category": "Chronic granulomatous disease",
+    "q": "How is CGD diagnosed per p144?",
+    "a": "Dihydrorhodamine test. The tetrazolium blue (NBT) assay is atavistic and the wrong answer if both are listed, per Step 1 NBME.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "I did not verify the page's claim about which assay is preferred on the NBME.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK493171/"
+    }
+  },
+  {
+    "id": "s2peds-2180",
+    "category": "Myeloperoxidase deficiency",
+    "q": "What does MPO deficiency do per p144, and what is its inheritance?",
+    "a": "Autosomal recessive. MPO is the last enzyme in the respiratory burst, converting H2O2 to hydroxyl-halide radicals (bleach).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: autosomal recessive MPO gene mutation; MPO generates hypochlorous acid from hydrogen peroxide and chloride.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470278/"
+    }
+  },
+  {
+    "id": "s2peds-2181",
+    "category": "Myeloperoxidase deficiency",
+    "q": "How is MPO deficiency tested per p144?",
+    "a": "A one-liner about being unable to produce hydroxyl-halide radicals gives MPO deficiency. If MPO deficiency is in the vignette, the answer is impaired conversion of hydrogen peroxide to hypochlorous acid.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls: hypochlorous acid is made from hydrogen peroxide and halide by MPO.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470278/"
+    }
+  },
+  {
+    "id": "s2peds-2182",
+    "category": "Myeloperoxidase deficiency",
+    "q": "Which infections occur in MPO deficiency per p144?",
+    "a": "Usually a mix of Staph aureus and Candida infections.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 144,
+      "url": "/mehlman/hy-pediatrics.pdf#page=144"
+    },
+    "guideline": {
+      "text": "StatPearls and a case report link MPO deficiency to Candida infection. I did not verify the Staph aureus claim.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470278/"
+    }
   }
 ];
