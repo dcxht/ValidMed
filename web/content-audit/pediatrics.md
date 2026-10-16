@@ -637,4 +637,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Inspected page pixels. No figures. First row continues p132 patellofemoral pain treatment.
 - Notes verified against StatPearls ACL, PCL, LCL, MCL, ITB, Osgood-Schlatter, Plantar Heel Pain, Blount; McMurray systematic review; growing pains review. No source conflicts found.
 - Left un-noted (not verified): test technique descriptions (varus/valgus hand placement), unhappy triad content and NBME claim, ITB pain distribution and treatment details beyond conservative, growing pains age 3-12 and no treatment, Blount after age 2 and osteotomy, physiologic bowing until 2.
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 18 cards ox=false off=false bad=0.
