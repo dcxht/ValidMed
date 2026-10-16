@@ -56194,5 +56194,643 @@ export default [
       "page": 414,
       "url": "/mehlman/hy-internal-medicine.pdf#page=414"
     }
+  },
+  {
+    "id": "s2med-4293",
+    "category": "IM Mixed",
+    "q": "Treatment between MS flares (asymptomatic patient) per p415?",
+    "a": "Interferon beta.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4294",
+    "category": "IM Mixed",
+    "q": "Treatment of spasticity in MS per p415?",
+    "a": "Baclofen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4295",
+    "category": "IM Mixed",
+    "q": "MOA of baclofen per p415?",
+    "a": "GABA-B receptor agonist (USMLE loves baclofen).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4296",
+    "category": "IM Mixed",
+    "q": "Diagnosis of MS per p415?",
+    "a": "MRI over CSF IgG oligoclonal bands if both are listed.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4297",
+    "category": "IM Mixed",
+    "q": "Urinary incontinence in MS per p415?",
+    "a": "Urge incontinence (hyperactive detrusor / detrusor instability).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4298",
+    "category": "IM Mixed",
+    "q": "65F unilateral temporal headache + blurry vision per p415?",
+    "a": "Temporal arteritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4299",
+    "category": "IM Mixed",
+    "q": "Treatment of temporal arteritis per p415?",
+    "a": "Immediate IV methylprednisolone to prevent blindness, then temporal artery biopsy. Do not pick biopsy before steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4300",
+    "category": "IM Mixed",
+    "q": "Condition associated with temporal arteritis per p415?",
+    "a": "Polymyalgia rheumatica (considered the same disease spectrum).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4301",
+    "category": "IM Mixed",
+    "q": "65F unilateral temporal headache + muscle pain/stiffness per p415?",
+    "a": "Temporal arteritis + polymyalgia rheumatica.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4302",
+    "category": "IM Mixed",
+    "q": "Treatment of polymyalgia rheumatica without temporal arteritis per p415?",
+    "a": "Oral steroids are fine because it is not an emergency.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4303",
+    "category": "IM Mixed",
+    "q": "Polymyalgia rheumatica vs polymyositis per p415?",
+    "a": "PR: stiffness/pain generally without weakness. Polymyositis: pain plus proximal muscle weakness. Both can raise ESR and CRP, so these are not reliable for diagnosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4304",
+    "category": "IM Mixed",
+    "q": "Diagnosis of polymyalgia rheumatica per p415?",
+    "a": "Clinical; no specific test.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4305",
+    "category": "IM Mixed",
+    "q": "Diagnosis of polymyositis per p415?",
+    "a": "Same as dermatomyositis: anti-Jo1 and anti-Mi2 antibodies, then confirmatory muscle biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4306",
+    "category": "IM Mixed",
+    "q": "Oral + genital ulcers per p415?",
+    "a": "Behcet syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4307",
+    "category": "IM Mixed",
+    "q": "Violaceous rash around the eyelids per p415?",
+    "a": "Heliotrope rash: dermatomyositis (not the malar rash of SLE).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4308",
+    "category": "IM Mixed",
+    "q": "Violaceous papules on knuckles + cracked dry palms per p415?",
+    "a": "Dermatomyositis (Gottron papules + mechanic's hands).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4309",
+    "category": "IM Mixed",
+    "q": "Rash on back of neck and upper back + adult with proximal weakness (cannot stand from a chair unassisted) per p415?",
+    "a": "Shawl rash: dermatomyositis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4310",
+    "category": "IM Mixed",
+    "q": "Diagnosis of dermatomyositis per p415?",
+    "a": "Anti-Jo1 or anti-Mi2 antibodies first, then confirmatory muscle biopsy.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4311",
+    "category": "IM Mixed",
+    "q": "Polymyositis vs dermatomyositis per p415?",
+    "a": "Polymyositis is dermatomyositis without the skin findings.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 415,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=415"
+    }
+  },
+  {
+    "id": "s2med-4312",
+    "category": "IM Mixed",
+    "q": "Increased risk in dermatomyositis per p416?",
+    "a": "Malignancy (non-Hodgkin lymphoma). The source says autoimmune diseases in general raise NHL risk, so SLE with an irregular ring-enhancing head CT lesion = primary CNS lymphoma, not toxoplasmosis (source claim, not verified).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4313",
+    "category": "IM Mixed",
+    "q": "Treatment of a polymyositis/dermatomyositis flare per p416?",
+    "a": "Oral corticosteroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4314",
+    "category": "IM Mixed",
+    "q": "Antibodies in pemphigus vulgaris per p416?",
+    "a": "Anti-desmoglein (anti-desmosome); desmosomes hold adjacent cells together.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4315",
+    "category": "IM Mixed",
+    "q": "Antibodies in bullous pemphigoid per p416?",
+    "a": "Anti-hemidesmosome; hemidesmosomes secure the dermis to the epidermal basal layer.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4316",
+    "category": "IM Mixed",
+    "q": "Which is worse, bullous pemphigoid or pemphigus vulgaris per p416?",
+    "a": "Pemphigus vulgaris: bullae rupture with friction (Nikolsky sign) and scar, and oral mucosal involvement is more prevalent.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4317",
+    "category": "IM Mixed",
+    "q": "Immunofluorescence in PV vs bullous pemphigoid per p416?",
+    "a": "Linear in bullous pemphigoid; net-like in PV.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4318",
+    "category": "IM Mixed",
+    "q": "Other linear immunofluorescence on USMLE per p416?",
+    "a": "Goodpasture syndrome (kidney or alveoli biopsy).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4319",
+    "category": "IM Mixed",
+    "q": "Treatment of PV and bullous pemphigoid per p416?",
+    "a": "Oral corticosteroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4320",
+    "category": "IM Mixed",
+    "q": "Mechanism of Goodpasture syndrome per p416?",
+    "a": "Type II hypersensitivity: antibodies against the alpha-3 chains of type IV collagen.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4321",
+    "category": "IM Mixed",
+    "q": "Hematuria + hemoptysis + 'head-itis' (mastoiditis, sinusitis, otitis, nasal septal perforation) per p416?",
+    "a": "Wegener granulomatosis (now granulomatosis with polyangiitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4322",
+    "category": "IM Mixed",
+    "q": "Diagnosis of Wegener per p416?",
+    "a": "c-ANCA (anti-PR3, anti-proteinase 3).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4323",
+    "category": "IM Mixed",
+    "q": "Asthma + eosinophilia per p416?",
+    "a": "Churg-Strauss (now eosinophilic granulomatosis with polyangiitis).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4324",
+    "category": "IM Mixed",
+    "q": "Diagnosis of Churg-Strauss per p416?",
+    "a": "p-ANCA (anti-MPO, anti-myeloperoxidase).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4325",
+    "category": "IM Mixed",
+    "q": "Hematuria in isolation + p-ANCA per p416?",
+    "a": "Microscopic polyangiitis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4326",
+    "category": "IM Mixed",
+    "q": "Severe renal disease in Wegener, Goodpasture, or microscopic polyangiitis per p416?",
+    "a": "Rapidly progressive (crescentic) glomerulonephritis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 416,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=416"
+    }
+  },
+  {
+    "id": "s2med-4327",
+    "category": "IM Mixed",
+    "q": "44M hematuria + hemoptysis per p417?",
+    "a": "Goodpasture syndrome.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4328",
+    "category": "IM Mixed",
+    "q": "44M hematuria + hemoptysis + 'head-itis' per p417?",
+    "a": "Wegener granulomatosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4329",
+    "category": "IM Mixed",
+    "q": "What is polyarteritis nodosa per p417?",
+    "a": "Medium-vessel vasculitis with immune complex deposition in vessel walls and fibrinoid necrosis.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4330",
+    "category": "IM Mixed",
+    "q": "Infection associated with PAN per p417?",
+    "a": "About 30% of patients are HepB positive (source figure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4331",
+    "category": "IM Mixed",
+    "q": "Renal artery angiogram in PAN per p417?",
+    "a": "'Beads on a string' (similar to fibromuscular dysplasia but unrelated).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4332",
+    "category": "IM Mixed",
+    "q": "Vessels not affected in PAN per p417?",
+    "a": "Pulmonary vessels (USMLE likes this).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4333",
+    "category": "IM Mixed",
+    "q": "Treatment of PAN per p417?",
+    "a": "Oral corticosteroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4334",
+    "category": "IM Mixed",
+    "q": "32F arthritis + mouth ulcer + low platelets per p417?",
+    "a": "SLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4335",
+    "category": "IM Mixed",
+    "q": "Most common presenting finding in SLE per p417?",
+    "a": "Arthritis (>90%, source figure).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4336",
+    "category": "IM Mixed",
+    "q": "Woman in her 20s-40s with arthritis + thrombocytopenia per p417?",
+    "a": "SLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4337",
+    "category": "IM Mixed",
+    "q": "Woman in her 20s-40s with arthritis + mouth ulcer + circular skin lesions per p417?",
+    "a": "SLE.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4338",
+    "category": "IM Mixed",
+    "q": "Malar rash + low RBCs, WBCs, platelets: mechanism per p417?",
+    "a": "Increased peripheral destruction (antibodies against blood cell lines; isolated thrombocytopenia most common).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4339",
+    "category": "IM Mixed",
+    "q": "Treatment of SLE flare per p417?",
+    "a": "Steroids.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4340",
+    "category": "IM Mixed",
+    "q": "SLE + red urine per p417?",
+    "a": "Lupus nephritis, specifically diffuse proliferative glomerulonephritis (DPGN).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4341",
+    "category": "IM Mixed",
+    "q": "Histology of DPGN per p417?",
+    "a": "Wire loop capillary pattern.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4342",
+    "category": "IM Mixed",
+    "q": "Treatment of lupus nephritis per p417?",
+    "a": "Mycophenolate mofetil.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4343",
+    "category": "IM Mixed",
+    "q": "Treatment of discoid lupus per p417?",
+    "a": "Hydroxychloroquine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4344",
+    "category": "IM Mixed",
+    "q": "Most specific antibodies for SLE per p417?",
+    "a": "Anti-Smith (RNP), not anti-dsDNA.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4345",
+    "category": "IM Mixed",
+    "q": "Antibodies that rise in acute SLE flares per p417?",
+    "a": "Anti-dsDNA (and C3 falls).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4346",
+    "category": "IM Mixed",
+    "q": "Drug-induced lupus antibodies per p417?",
+    "a": "Anti-histone.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4347",
+    "category": "IM Mixed",
+    "q": "Drugs that cause drug-induced lupus per p417?",
+    "a": "'Mom is HIPP': Minocycline, Hydralazine, INH, Procainamide, Penicillamine.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4348",
+    "category": "IM Mixed",
+    "q": "Viral infection + all three cell lines down per p417?",
+    "a": "Viral-induced aplastic anemia.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4349",
+    "category": "IM Mixed",
+    "q": "Next best step in diagnosis of viral-induced aplastic anemia per p417?",
+    "a": "Bone marrow aspiration.",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
+  },
+  {
+    "id": "s2med-4350",
+    "category": "IM Mixed",
+    "q": "Mechanism of viral-induced aplastic anemia per p417?",
+    "a": "Defective bone marrow production (contrast with SLE's peripheral destruction).",
+    "source": {
+      "title": "Mehlman HY Internal Medicine",
+      "page": 417,
+      "url": "/mehlman/hy-internal-medicine.pdf#page=417"
+    }
   }
 ];

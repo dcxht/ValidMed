@@ -1425,3 +1425,15 @@ Rules: source answers kept; current guidelines in separate notes; claims not ver
 ## p414 (IM mixed bullets: OA, beta-blockers, MS) - 10 cards, ids s2med-4283 to 4292
 - "Atenolol for stage fright" and "oral steroids worsen MS flares": source, not verified.
 - Mobile QA (320x740, local vite preview build, not live): all 37 cards ox=false off=false bad=0.
+
+## p415 (IM mixed bullets: MS, GCA/PMR, myositis, dermatomyositis) - 19 cards, ids s2med-4293 to 4311
+- MS: "MRI over oligoclonal bands" ranking: source, not verified.
+
+## p416 (IM mixed bullets: pemphigus, vasculitides, Goodpasture) - 15 cards, ids s2med-4312 to 4326
+- SLE with ring-enhancing lesion = primary CNS lymphoma, not toxoplasmosis: source, flagged unverified (cousin of earlier Hashimoto/lymphoma entry).
+- "PV worse than bullous pemphigoid" rationale: source.
+
+## p417 (IM mixed bullets: PAN, SLE, drug-induced lupus, aplastic anemia) - 24 cards, ids s2med-4327 to 4350
+- PAN HepB ~30% and SLE arthritis >90% figures: source, not verified.
+- Mycophenolate for lupus nephritis, anti-Smith specificity: source (consistent with common teaching, not separately sourced).
+- Mobile QA (320x740, local vite preview build, not live): all 58 cards ox=false off=false bad=0.
