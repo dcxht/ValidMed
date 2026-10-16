@@ -36779,5 +36779,170 @@ export default [
       "text": "Current caution: StatPearls says hereditary spherocytosis shows spherocytes, a drop in MCV and an increase in MCHC, not simply normochromic indices; most patients benefit from splenectomy, which is indicated mainly to improve quality of life. Source answer kept.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK539797/"
     }
+  },
+  {
+    "id": "s2peds-2577",
+    "category": "Peds vignettes",
+    "q": "8F after a viral infection, pale, with an enlarged spleen, low Hct and spherocytes on smear. What is she at increased risk for per p181?",
+    "a": "Cholelithiasis due to pigment stones.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls: hereditary spherocytosis can present with cholelithiasis, including in younger patients.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539797/"
+    }
+  },
+  {
+    "id": "s2peds-2578",
+    "category": "Peds vignettes",
+    "q": "Kid with suspected JRA and a sore knee. Next step per p181?",
+    "a": "Arthrocentesis to rule out septic arthritis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls Arthrocentesis page covers joint aspiration for suspected infection.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557805/"
+    }
+  },
+  {
+    "id": "s2peds-2579",
+    "category": "Peds vignettes",
+    "q": "3F with 3 months of leg pain mostly in the calves, at night, waking her from sleep, worse after daily activity, relieved by acetaminophen, with normal vitals and exam. Diagnosis per p181?",
+    "a": "Growing pains (answer on the Peds NBME; a weird diagnosis you need to know).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "Review: growing pains are bilateral lower extremity pain, usually early evening or night, often waking children, with calves, thighs and shins affected.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5349398/"
+    }
+  },
+  {
+    "id": "s2peds-2580",
+    "category": "Peds vignettes",
+    "q": "Patient with knock-knees (knees touch). Diagnosis per p181?",
+    "a": "Genu valgum.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls: physiologic genu valgum starts developing by age 2 and is most prominent at ages 3-4.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559244/"
+    }
+  },
+  {
+    "id": "s2peds-2581",
+    "category": "Peds vignettes",
+    "q": "9F with both legs bowed, a small child and/or a malabsorptive disease (Crohn, CF). Diagnosis and labs per p181?",
+    "a": "Rickets (vitamin D deficiency); also low calcium, low phosphate, high PTH and high ALP (because PTH is high).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls: vitamin D deficiency is the most common cause of calcipenic rickets; rickets is classified as calcipenic, phosphopenic or inhibited mineralization. I did not verify the exact lab pattern in the passage I read; phosphate is low from PTH-driven wasting.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK562285/"
+    }
+  },
+  {
+    "id": "s2peds-2582",
+    "category": "Peds vignettes",
+    "q": "9F with both legs bowed since she started to walk, recently worse on the right, a standing x-ray showing collapse of the medial proximal tibial metaphysis, and an otherwise healthy, thriving child. Diagnosis per p181?",
+    "a": "Tibia vara (Blount disease); the wrong answer is rickets. Bowing is physiologic under age 2.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls: Blount disease is acquired genu varus from excessive compressive force on the proximal medial tibial physis and metaphysis.",
+      "url": "https://ncbi.nlm.nih.gov/books/NBK560923/"
+    }
+  },
+  {
+    "id": "s2peds-2583",
+    "category": "Peds vignettes",
+    "q": "11F with spina bifida, paraplegic and wheelchair-bound, with 2 days of thigh swelling and pain, afebrile. Next best step per p181?",
+    "a": "X-ray of the lower extremity; a fracture may indicate child abuse.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "Review of fractures in suspected child maltreatment: inflicted fractures are often unsuspected and usually occur in pre-verbal, non-ambulatory children. The source's abuse comment for a wheelchair-bound paraplegic child is the source's framing; osteopenic fractures from the underlying condition are also common. I did not verify the abuse link here.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5905568/"
+    }
+  },
+  {
+    "id": "s2peds-2584",
+    "category": "Peds vignettes",
+    "q": "4-month-old with clicking/clunking on exam, positive Ortolani and Barlow maneuvers. Diagnosis and next steps per p181?",
+    "a": "Primary hip dysplasia (congenital hip dysplasia). Once positive, the next best step is ortho referral if listed (always sounds wrong but is correct); if not listed, do ultrasound under 6 months or x-ray over 6 months. Treat with an abduction harness (Pavlik harness; frog-leg-like).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls: DDH exam includes Ortolani and Barlow; imaging with x-ray or ultrasound depends on the patient's age. I did not verify the Pavlik harness detail in the passage I read.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2peds-2585",
+    "category": "Peds vignettes",
+    "q": "Newborn girl with a palpable clunk when the hip is abducted, flexed and lifted forward. Most likely mechanism per p181?",
+    "a": "A shallow, poorly developed acetabulum (congenital hip dysplasia).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls: DDH encompasses instability, acetabular dysplasia, subluxation and dislocation.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563157/"
+    }
+  },
+  {
+    "id": "s2peds-2586",
+    "category": "Peds vignettes",
+    "q": "5-8-year-old boy with a painful limp, no other risk factors, and an x-ray showing a contracted capital epiphysis. Diagnosis per p181?",
+    "a": "Legg-Calve-Perthes disease (idiopathic avascular necrosis); the word contracted wins over capital epiphysis; a question on one NBME form where everyone picks SCFE but the answer is LCP.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "StatPearls: LCPD is idiopathic osteonecrosis of the capital femoral epiphysis.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
+  },
+  {
+    "id": "s2peds-2587",
+    "category": "Peds vignettes",
+    "q": "Treatment of Legg-Calve-Perthes disease per p181?",
+    "a": "Hip replacement (per the source).",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 181,
+      "url": "/mehlman/hy-pediatrics.pdf#page=181"
+    },
+    "guideline": {
+      "text": "Current caution: I did not find hip replacement as treatment for childhood LCPD in the StatPearls passage I read, and I did not verify the treatment claim; do not rely on this answer clinically. Source answer kept.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513230/"
+    }
   }
 ];

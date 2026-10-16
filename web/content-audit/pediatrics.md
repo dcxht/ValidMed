@@ -962,3 +962,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Source answers kept with caution notes: azithromycin dual therapy for gonorrhea (CDC dropped it); hereditary spherocytosis smear "normochromic" (MCHC increased).
 - Left unverified: diaphysis vs metaphysis uptake, 15-25 retinoblastoma osteosarcoma age, bite cells/Heinz bodies, PK ranking framing, Coombs-positive branch.
 - Mobile QA (320x740, local vite preview build, not live): all 9 cards ox=false off=false bad=0.
+
+## p181 (Bullet points: HS gallstones, growing pains, genu valgum, rickets, Blount, DDH, Perthes) - 11 cards, ids s2peds-2577 to 2587
+- Inspected page text and layout; no figures.
+- Notes verified against StatPearls (Hereditary Spherocytosis, Genu Valgum, Rickets, Blount Disease, DDH, Legg-Calve-Perthes, Arthrocentesis), a growing pains review and a child maltreatment fracture review.
+- Source conflict, source answer kept with caution: LCP "Tx = hip replacement" (not verified, not standard first-line to my reading; flagged). Source's DDH ortho-referral and abuse x-ray answers kept unverified.
+- Left unverified: exact rickets lab pattern, Pavlik harness detail, abuse link for paraplegic child, LCP treatment.
+- Mobile QA (320x740, local vite preview build, not live): all 11 cards ox=false off=false bad=0.
