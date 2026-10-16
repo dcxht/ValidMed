@@ -592,4 +592,4 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against CDC STI Treatment Guidelines 2021 (chlamydia incl. neonates; gonococcal infections among neonates), StatPearls Neonatal Conjunctivitis, Viral and Allergic Conjunctivitis.
 - Current-guideline differences kept as notes, source answers kept: CDC leads with ceftriaxone (cefotaxime is the alternative); CDC's chlamydial pneumonia window is 1-3 months vs the source's 3-week-old vignette; erythromycin ointment does not prevent chlamydial disease; StatPearls calls itch the hallmark of allergic conjunctivitis.
 - Left un-noted (not verified): lymphocytic shift explanation, nasolacrimal duct spread to lungs, "first week, yellow discharge" for gonococcal, cobblestoning, "chlamydia vignette always ties to pneumonia".
-- Mobile QA: PENDING
+- Mobile QA (320x740, live, local headless Chrome): all 15 cards ox=false off=false bad=0; longest answer+note cards fit without scrolling.
