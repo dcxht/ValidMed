@@ -662,3 +662,10 @@ Mobile 320x740 QA on live validmed.org (headless Chrome, 24 cards x question+ans
 - Notes verified against StatPearls Osteosarcoma, Ewing Sarcoma (t(11;22), small round blue cells, diaphysis) and Unicameral Bone Cyst. No source conflicts found. Ewing note clarifies onion skin is a periosteal x-ray finding, while the page lists it under histology.
 - Left un-noted or flagged unverified: osteomyelitis-mimic framing, bone scan diaphysis vs metaphysis comparison, neuroendocrine origin wording, NBME answer-choice wording, osteoclastoma comparison, UBC age ranges, 2CK claims.
 - Mobile QA (320x740, live, local headless Chrome): all 9 cards ox=false off=false bad=0 on rerun. The first run showed the histology image blank (late image load); the rerun rendered it and the file serves 200.
+
+## p138 (unicameral bone cyst film, spiral/greenstick/stress/clavicle/scaphoid/lunate fractures) - 14 cards, ids s2peds-2061 to 2074
+- Inspected page pixels. One figure: proximal humerus unicameral bone cyst x-ray.
+- Source conflicts, source answers kept with caution notes: (1) spiral fracture "pathognomonic for child abuse" - an abuse review says it is not; (2) clavicle "figure-of-8 sling" - nonoperative review finds no advantage over simple sling; (3) scaphoid - guideline review recommends MRI/CT at 3-5 days for negative films, alongside traditional immobilization.
+- Verified: greenstick definition (StatPearls), clavicle middle third (95% in children), UBC proximal humerus.
+- Left un-noted or flagged unverified: bone flexibility collagen/mineral explanation, runner vignette, osteoporosis as long-term risk, scaphoid snuffbox presentation, lunate answer, USMLE-imaging statement, UBC one-chamber wording.
+- Mobile QA: PENDING

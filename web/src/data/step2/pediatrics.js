@@ -29369,5 +29369,201 @@ export default [
       "text": "StatPearls: unicameral bone cysts are most common in children, in long bones (proximal humerus about 90%), near or at the metaphysis. I did not verify the comparison with osteoclastoma or the age ranges.",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK470587/"
     }
+  },
+  {
+    "id": "s2peds-2061",
+    "category": "Unicameral bone cyst",
+    "q": "What does the proximal humerus x-ray on p138 show, and what does unicameral mean?",
+    "a": "A unicameral bone cyst (a lucent lesion in the proximal humerus). Unicameral means one chamber; it is fluid-filled.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "img": "/mehlman/figures/peds-p138-ubc-xray.png",
+    "imgAlt": "Radiograph of a proximal humerus with a lucent lesion, from p138",
+    "guideline": {
+      "text": "StatPearls: unicameral bone cysts are most commonly in the proximal humerus (about 90% of long bone cases), near or at the metaphysis. I did not verify the one-chamber, fluid-filled wording.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470587/"
+    }
+  },
+  {
+    "id": "s2peds-2062",
+    "category": "Spiral fracture",
+    "q": "What is the key association of a spiral fracture per p138, and what causes it?",
+    "a": "Pathognomonic for child abuse (per the source). Caused by a rotational or twisting force applied to a limb.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "Current caution: a radiology and orthopedic review states spiral fractures have been called pathognomonic for abuse but are not, and that spiral and transverse fractures are equally common in abused children. Treat as suspicious for abuse depending on age and history. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3032862/"
+    }
+  },
+  {
+    "id": "s2peds-2063",
+    "category": "Spiral fracture",
+    "q": "Does USMLE expect you to diagnose a spiral fracture from imaging per p138?",
+    "a": "No. USMLE does not expect you to diagnose based on imaging.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2peds-2064",
+    "category": "Greenstick fracture",
+    "q": "What is a greenstick fracture per p138?",
+    "a": "A fracture in which the bone bends and cracks instead of breaking completely into two pieces. It is more common in children than adults.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls: a partial-thickness fracture where the cortex and periosteum are interrupted on one side while intact on the other.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513279/"
+    }
+  },
+  {
+    "id": "s2peds-2065",
+    "category": "Greenstick fracture",
+    "q": "Why are children's bones prone to greenstick fractures per p138?",
+    "a": "They are more flexible than adult bones, with increased collagen content and decreased mineral content, allowing them to bend more.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2peds-2066",
+    "category": "Greenstick fracture",
+    "q": "How does p138 describe the mechanism of a greenstick fracture?",
+    "a": "A force that would completely fracture an adult bone might only cause an incomplete fracture in a child, with the bone bending and breaking on one side like a green tree branch that splinters on one side.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls: only one side of the cortex and periosteum is interrupted.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513279/"
+    }
+  },
+  {
+    "id": "s2peds-2067",
+    "category": "Metatarsal stress fracture",
+    "q": "Which story gives a metatarsal stress fracture per p138?",
+    "a": "Pain in the metatarsal area of the foot in a long-distance runner with low BMI.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls lists anorexia nervosa, amenorrhea and prolonged hypoestrogenism among stress fracture risk factors, and notes acute stress fractures are usually not seen on standard x-ray. I did not verify the runner vignette.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK574512/"
+    }
+  },
+  {
+    "id": "s2peds-2068",
+    "category": "Metatarsal stress fracture",
+    "q": "A female long-distance runner with low BMI has a metatarsal stress fracture. What is she at greatest risk of developing per p138?",
+    "a": "Osteoporosis.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls lists amenorrhea and prolonged hypoestrogenism as stress fracture risk factors. I did not verify osteoporosis as the long-term risk.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK574512/"
+    }
+  },
+  {
+    "id": "s2peds-2069",
+    "category": "Clavicular fracture",
+    "q": "How do clavicular fractures occur per p138?",
+    "a": "Fall on an outstretched hand (FOSH), or occasionally a handlebar injury or impaction, with force transferred up to the clavicle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls: a fall onto the lateral shoulder most frequently causes a clavicle fracture; less commonly direct trauma or a fall onto an outstretched hand. The page's mechanism order differs from StatPearls.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507892/"
+    }
+  },
+  {
+    "id": "s2peds-2070",
+    "category": "Clavicular fracture",
+    "q": "What is the most common site of clavicular fracture per p138?",
+    "a": "The middle third of the clavicle.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "StatPearls: the middle third accounts for 95% of fractures in children.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507892/"
+    }
+  },
+  {
+    "id": "s2peds-2071",
+    "category": "Clavicular fracture",
+    "q": "What is the treatment of a clavicular fracture per p138?",
+    "a": "Figure-of-8 sling.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "Current caution: a review of nonoperative midshaft clavicle care notes no evidence that a figure-of-eight brace beats a simple sling for healing time or nonunion, and it is more uncomfortable. StatPearls lists a sling or sling and swathe as supportive treatment. Source answer kept.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5791205/"
+    }
+  },
+  {
+    "id": "s2peds-2072",
+    "category": "Scaphoid fracture",
+    "q": "How does a scaphoid fracture present per p138?",
+    "a": "Pain over the anatomic snuffbox in a patient with FOSH.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    }
+  },
+  {
+    "id": "s2peds-2073",
+    "category": "Scaphoid fracture",
+    "q": "What is the x-ray finding and management for a suspected scaphoid fracture per p138?",
+    "a": "The x-ray is usually negative acutely. Must do a thumb-spica cast to prevent avascular necrosis of the scaphoid, followed by repeat x-ray in 2-3 weeks.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    },
+    "guideline": {
+      "text": "Guideline review: initial radiographs can miss scaphoid fractures (sensitivity no higher than 70%); when suspected and films are negative, MRI or CT is recommended within 3 to 5 days. Immobilization with later repeat imaging remains the traditional approach. Source answer kept.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC7047900/"
+    }
+  },
+  {
+    "id": "s2peds-2074",
+    "category": "Lunate fracture",
+    "q": "What is the lunate fracture answer per p138?",
+    "a": "FOSH with pain in the central palm and no pain over the anatomic snuffbox.",
+    "source": {
+      "title": "Mehlman HY Pediatrics",
+      "page": 138,
+      "url": "/mehlman/hy-pediatrics.pdf#page=138"
+    }
   }
 ];
