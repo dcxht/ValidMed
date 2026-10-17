@@ -2801,5 +2801,236 @@ export default [
       "page": 46,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=46"
     }
+  },
+  {
+    "id": "s2obgyn-0254",
+    "category": "OB Sex Disorders",
+    "q": "Turner syndrome fertility per p47?",
+    "a": "Can still have children via IVF with donor egg plus exogenous hormones. LH and FSH are high from primary hypogonadism (low ovarian hormones and inhibin).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 47,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2obgyn-0255",
+    "category": "OB Sex Disorders",
+    "q": "Turner syndrome features per p47?",
+    "a": "Short stature (<5 ft), Tanner 1 breasts (shield chest), cystic hygroma/webbed neck, scattered nevi, normal pubic/axillary hair (Tanner 4-5). Coarctation of the aorta and bicuspid aortic valve.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 47,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2obgyn-0256",
+    "category": "OB Sex Disorders",
+    "q": "Turner streak ovaries per p47?",
+    "a": "Increased dysgerminoma risk; prophylactic oophorectomy recommended, especially with Y-chromosome material in rarer mosaic forms.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 47,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2obgyn-0257",
+    "category": "OB Sex Disorders",
+    "q": "Somatic mosaic Turner mechanism per p47?",
+    "a": "Post-fertilization mitotic error (some cells 46XX, some 45XO).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 47,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2obgyn-0258",
+    "category": "OB Sex Disorders",
+    "q": "Klinefelter syndrome per p47?",
+    "a": "47,XXY male phenotype: tall eunuchoid, small testes, gynecomastia, reduced IQ; Barr body on EM. Seminiferous tubule dysgenesis gives high LH/FSH (low androgens and inhibin). Estrogen/androgen ratio up (Leydig dysgenesis; more adipose aromatase). Breast cancer risk up; testicular cancer only slightly, so no prophylactic orchiectomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 47,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2obgyn-0259",
+    "category": "OB Sex Disorders",
+    "q": "Androgen insensitivity syndrome per p47-48?",
+    "a": "46,XY female phenotype; androgen receptor defect so DHT cannot masculinize external genitalia. Testosterone/DHT normal or high (loss of negative feedback, high LH). Testes in the abdomen or inguinal canal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 47,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=47"
+    }
+  },
+  {
+    "id": "s2obgyn-0260",
+    "category": "OB Sex Disorders",
+    "q": "Why testes develop in AIS per p48?",
+    "a": "SRY on the Y chromosome drives testis differentiation independent of androgens. Testes make Mullerian-inhibiting factor, so no uterus or tubes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 48,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2obgyn-0261",
+    "category": "OB Sex Disorders",
+    "q": "AIS vignette and workup per p48?",
+    "a": "15-year-old with primary amenorrhea, blind vaginal pouch, scant/absent pubic/axillary hair, Tanner 4-5 breasts: AIS. Next step: ultrasound first if listed, then karyotype. Orchiectomy after puberty (testicular malignancy/dysgerminoma risk) unless malignancy appears earlier.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 48,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2obgyn-0262",
+    "category": "OB Sex Disorders",
+    "q": "Mullerian agenesis per p48?",
+    "a": "46,XX; like AIS but pubic/axillary hair is normal/coarse. Ovaries present (no SRY), but tubes, uterus, cervix and upper vagina fail to develop. Ultrasound first, then karyotype. Also called Mayer-Rokitansky-Kuster-Hauser (name not assessed).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 48,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2obgyn-0263",
+    "category": "OB Sex Disorders",
+    "q": "MIF deficiency per p48?",
+    "a": "46,XY phenotypic male with testes, but uterus, tubes, cervix and upper vagina persist (pelvis or inguinal canal); often found incidentally at orchidopexy for cryptorchidism.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 48,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2obgyn-0264",
+    "category": "OB Sex Disorders",
+    "q": "5-alpha-reductase deficiency per p48?",
+    "a": "46,XY, female phenotype or ambiguous genitalia; cannot convert testosterone to DHT. Buzzy: 'penis at 12': girl grows 4 inches in 4 months, acne, upper-lip hair, 3-4 cm clitoral hood. Pubertal testosterone surge can partially override.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 48,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2obgyn-0265",
+    "category": "OB Sex Disorders",
+    "q": "SRY translocation per p48-49?",
+    "a": "46,XX phenotypic male; SRY translocated onto an X forming testes; testosterone/DHT make male external structures; MIF means no Mullerian structures. Testes small; hypo/epispadias possible. Neonate appears male but is 46,XX: SRY translocation. Rarely 46,XY with SRY lost: streak ovaries plus Mullerian structures.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 48,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=48"
+    }
+  },
+  {
+    "id": "s2obgyn-0266",
+    "category": "OB Sex Disorders",
+    "q": "CAH enzyme logic per p49?",
+    "a": "Ambiguous genitalia from 21-, 11- or 17-hydroxylase deficiency. High 17-OH substrates or high DHEA-S/androstenedione rule out 17-hydroxylase deficiency. Low/normal BP or high K+: 21-deficiency. High BP or normal/low K+: 11-deficiency.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 49,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2obgyn-0267",
+    "category": "OB Sex Disorders",
+    "q": "21-hydroxylase deficiency picture per p49?",
+    "a": "Like Addison disease: high K+, low Na+, low bicarb, low pH; glucose can be low (low glucocorticoids). The source says substrate pathways need not be memorized.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 49,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2obgyn-0268",
+    "category": "OB Sex Disorders",
+    "q": "CAH mechanism in a 46,XX girl with fused labia per p49?",
+    "a": "ACTH hypersecretion: low cortisol raises ACTH, driving adrenal androgens (DHEA-S).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 49,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2obgyn-0269",
+    "category": "OB Sex Disorders",
+    "q": "Swyer syndrome per p49?",
+    "a": "46,XY phenotypic female: streak gonads (neither testes nor ovaries), low androgens, scant pubic/axillary hair. No MIF so Mullerian structures develop. Versus AIS: AIS has no Mullerian structures and normal/high androgens.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 49,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2obgyn-0270",
+    "category": "OB Hymen",
+    "q": "Imperforate hymen per p49?",
+    "a": "Hymen completely covers the vaginal opening; can cause hematocolpos and hematometra.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 49,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2obgyn-0271",
+    "category": "OB Hymen",
+    "q": "Hematocolpos per p49?",
+    "a": "Blood in the vaginal canal behind an imperforate hymen: teenager with no menses (or monthly pain), blueish bulge behind the hymen. Answer: hematocolpos or cruciate incision of the hymen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 49,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2obgyn-0272",
+    "category": "OB Hymen",
+    "q": "Hematometra per p49?",
+    "a": "Blood backs up to the uterus, causing uterine distention.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 49,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=49"
+    }
+  },
+  {
+    "id": "s2obgyn-0273",
+    "category": "OB Hymen",
+    "q": "Imperforate hymen with low blood pressure per p50?",
+    "a": "Uterine distention can trigger a vagal response causing low BP.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0274",
+    "category": "OB Trisomies",
+    "q": "Down syndrome genetics per p50?",
+    "a": "Three chromosome 21s. 95%: meiotic nondisjunction with advanced maternal age (1/350 at 35; 1/100 at 40; 1/10 at 50). 4%: Robertsonian translocation (usually onto 14). 1%: mosaic from post-fertilization mitotic error.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
   }
 ];
