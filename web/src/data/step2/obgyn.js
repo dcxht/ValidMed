@@ -6303,5 +6303,313 @@ export default [
       "page": 92,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
     }
+  },
+  {
+    "id": "s2obgyn-0572",
+    "category": "OB Rapid Review",
+    "q": "LCIS and invasive lobular per p93?",
+    "a": "LCIS: malignant but not past the basement membrane; linear Indian rows. Invasive lobular: crossed it. Both can be bilateral.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 93,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2obgyn-0573",
+    "category": "OB Rapid Review",
+    "q": "Phyllodes, inflammatory and comedo per p93?",
+    "a": "Phyllodes: leaf-like, fast-growing. Inflammatory: red, painful breast with peau d'orange (edematous skin tethered by Cooper ligaments). Comedocarcinoma: cheese-like.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 93,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2obgyn-0574",
+    "category": "OB Rapid Review",
+    "q": "Fibrocystic change per p93?",
+    "a": "Benign, unilateral or bilateral; classic bilateral cyclic tenderness, or unilateral pain, or a painless unilateral cyst draining dark fluid; usually no treatment. A single enlarged cyst after starting HRT: FNA.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 93,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2obgyn-0575",
+    "category": "OB Rapid Review",
+    "q": "Menstrual cycle phases per p93?",
+    "a": "First half: proliferative/follicular; second half: luteal/secretory. The luteal phase is always 14 days; cycle length varies through the follicular phase.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 93,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2obgyn-0576",
+    "category": "OB Rapid Review",
+    "q": "Estrogen and ovulation per p93?",
+    "a": "Estrogen rises through the follicular phase and peaks just before ovulation; high estrogen causes the LH spike that triggers ovulation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 93,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2obgyn-0577",
+    "category": "OB Rapid Review",
+    "q": "Corpus luteum per p93?",
+    "a": "Follicular remnant making progesterone to maintain the endometrium. If pregnancy occurs, b-hCG maintains it; otherwise it degrades, progesterone falls, and menstruation occurs.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 93,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=93"
+    }
+  },
+  {
+    "id": "s2obgyn-0578",
+    "category": "OB Rapid Review",
+    "q": "hCG and placental progesterone per p94?",
+    "a": "b-hCG peaks at 8-10 weeks; then the placenta takes over progesterone.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 94,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2obgyn-0579",
+    "category": "OB Rapid Review",
+    "q": "Human placental lactogen per p94?",
+    "a": "Rises in the third trimester and causes maternal insulin resistance (keeps glucose high for fetal brain development); raises gestational diabetes risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 94,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2obgyn-0580",
+    "category": "OB Rapid Review",
+    "q": "Prolactin and oxytocin per p94?",
+    "a": "Prolactin (anterior pituitary): milk production. Oxytocin (supraoptic nucleus, stored in the posterior pituitary): milk letdown and uterine contractions.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 94,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2obgyn-0581",
+    "category": "OB Rapid Review",
+    "q": "Tanner stage 3 per p94?",
+    "a": "Menarche is imminent. 14-year-old with no period at Tanner 3: follow up in 6 months.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 94,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2obgyn-0582",
+    "category": "OB Rapid Review",
+    "q": "Low Tanner stage and short stature per p94?",
+    "a": "Tanner 1-2 in a short teen (e.g., boy shortest in class at Tanner 1): constitutional short stature (bone age below chronologic age). Bone age equal to chronologic age: genuine short stature. Turner often has Tanner 1-2 breasts but not always.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 94,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=94"
+    }
+  },
+  {
+    "id": "s2obgyn-0583",
+    "category": "OB Rapid Review",
+    "q": "Precocious puberty per p95?",
+    "a": "Secondary sex characteristics at age 8 or younger in females, 9 or younger in males. Childhood height up, adult height down. High LH = hypothalamic-pituitary cause (low LH suggests primary gonadal testosterone). High DHEA-S = adrenal cause.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 95,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2obgyn-0584",
+    "category": "OB Rapid Review",
+    "q": "Imperforate hymen per p95?",
+    "a": "Bluish bulge behind the hymen with no menarche; cyclical pain. Hematocolpos: blood in the vagina. Hematometra: blood to the uterus, with vagal response and low BP.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 95,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2obgyn-0585",
+    "category": "OB Rapid Review",
+    "q": "Placenta previa per p95?",
+    "a": "Over the internal os; painless 3rd-trimester bleeding; may move off before 36 weeks, after which C-section is needed (hemorrhagic shock risk). Prior C-section is a risk factor.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 95,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2obgyn-0586",
+    "category": "OB Rapid Review",
+    "q": "Abruptio placentae per p95?",
+    "a": "Placental separation in utero; painful bleeding or cramping; deceleration injury and cocaine.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 95,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2obgyn-0587",
+    "category": "OB Rapid Review",
+    "q": "Accreta per p95?",
+    "a": "Attaches to the myometrial surface (A = attaches); presents as postpartum hemorrhage.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 95,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=95"
+    }
+  },
+  {
+    "id": "s2obgyn-0588",
+    "category": "OB Rapid Review",
+    "q": "Increta and percreta per p96?",
+    "a": "Increta: inserts inside the myometrium. Percreta: perforates through it onto structures like the bladder.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 96,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2obgyn-0589",
+    "category": "OB Rapid Review",
+    "q": "Postpartum hemorrhage management per p96?",
+    "a": "Uterine atony (boggy uterus): massage, then intramyometrial oxytocin, then ergot injection (the source writes ergotamine; avoid with hypertension or migraine history). Less common: retained placental parts, vaginal lacerations (macrosomia, shoulder dystocia), thrombotic/bleeding disorders (vWD).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 96,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2obgyn-0590",
+    "category": "OB Rapid Review",
+    "q": "Vasa previa per p96?",
+    "a": "Fetal vessels over the internal os; velamentous insertion or succenturiate lobe; triad: ROM, vaginal bleeding, fetal bradycardia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 96,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2obgyn-0591",
+    "category": "OB Rapid Review",
+    "q": "Ectopic pregnancy per p96?",
+    "a": "LLQ/RLQ pain with a missed period; b-hCG positive but lower than expected (mole and choriocarcinoma are much higher). Methotrexate for small stable ectopics, otherwise laparoscopic salpingostomy; unstable: laparotomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 96,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2obgyn-0592",
+    "category": "OB Rapid Review",
+    "q": "Preeclampsia and eclampsia per p96?",
+    "a": "Preeclampsia: HTN + proteinuria after 20 weeks. Eclampsia: plus seizure; magnesium for treatment and prophylaxis in severe preeclampsia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 96,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=96"
+    }
+  },
+  {
+    "id": "s2obgyn-0593",
+    "category": "OB Rapid Review",
+    "q": "HELLP per p97?",
+    "a": "Hemolysis, Elevated Liver enzymes, Low Platelets; severe preeclampsia; schistocytes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 97,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2obgyn-0594",
+    "category": "OB Rapid Review",
+    "q": "Supine hypotensive syndrome per p97?",
+    "a": "Low BP after 20 weeks from IVC compression.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 97,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2obgyn-0595",
+    "category": "OB Rapid Review",
+    "q": "Endometriosis summary per p97?",
+    "a": "Ectopic endometrial tissue (usually ovary); severe period pain; abnormal exam (uterosacral nodularity); chocolate cysts; diagnose by laparoscopy; OCPs +/- NSAIDs; definitive laparoscopic removal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 97,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2obgyn-0596",
+    "category": "OB Rapid Review",
+    "q": "Primary dysmenorrhea summary per p97?",
+    "a": "Prostaglandin pain with a normal exam; NSAIDs; not mittelschmerz (mid-cycle ovulatory pain).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 97,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2obgyn-0597",
+    "category": "OB Rapid Review",
+    "q": "Adenomyosis summary per p97?",
+    "a": "Diffusely enlarged uterus in women 30s-40s with bleeding (e.g., 8-week size after tubal ligation); OCPs + NSAIDs.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 97,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2obgyn-0598",
+    "category": "OB Rapid Review",
+    "q": "BPH and kidney injury per p97?",
+    "a": "DHT-driven enlargement; post-renal obstruction raising tubular and Bowman capsule hydrostatic pressure with high creatinine.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 97,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
+    }
+  },
+  {
+    "id": "s2obgyn-0599",
+    "category": "OB Rapid Review",
+    "q": "Tamoxifen versus raloxifene per p97?",
+    "a": "Both SERMs for ER-positive breast cancer; antagonists at breast, agonists at bone. Tamoxifen is a partial agonist at the endometrium (raises endometrial cancer risk); the source says never give it to a woman with a uterus, use raloxifene instead.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 97,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
+    }
   }
 ];
