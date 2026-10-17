@@ -148,4 +148,4 @@ Rules: source answers kept; current guidelines in separate notes with a URL seen
 - p122: estrogen-containing contraception lowering milk protein and TB regimen duration; not verified.
 - Source wording "mental retardation" and expletives are paraphrased in card text.
 - Figures: only pages 11, 13 and 22 (figure-only pages) carry extracted images (6 cards). Other pages are text only; every card links to its source page.
-- Mobile QA: PENDING
+- Mobile QA (320x740, local build): 820 of 820 cards pass (no overflow, no bad images).
