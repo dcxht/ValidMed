@@ -5676,5 +5676,291 @@ export default [
       "page": 83,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=83"
     }
+  },
+  {
+    "id": "s2obgyn-0515",
+    "category": "OB Rapid Review",
+    "q": "Sertoli cell products per p83-84?",
+    "a": "MIF (shuts off female structures), androgen-binding protein (keeps local testosterone high), inhibin B (negative feedback on GnRH), aromatase (androgens to estrogens).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 84,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2obgyn-0516",
+    "category": "OB Rapid Review",
+    "q": "LH and FSH targets per p84?",
+    "a": "LH: Leydig cells (males) and theca interna cells (females) make androgens. FSH: Sertoli cells (males) and granulosa cells (females) make aromatase, converting androgens to estrogens.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 84,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2obgyn-0517",
+    "category": "OB Rapid Review",
+    "q": "Androgens versus inhibin B feedback per p84?",
+    "a": "Both suppress GnRH; androgens suppress LH more, inhibin B suppresses FSH more.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 84,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2obgyn-0518",
+    "category": "OB Rapid Review",
+    "q": "Low estrogen states per p84?",
+    "a": "Turner, premature ovarian failure, menopause: high LH (no negative feedback) and high FSH (low inhibin B). High FSH is exceedingly high yield as a marker of menopause.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 84,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2obgyn-0519",
+    "category": "OB Rapid Review",
+    "q": "Hysterosalpingogram per p84?",
+    "a": "Dye spill into the peritoneal cavity is normal (tubes open laterally); no spill can reflect PID scarring.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 84,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2obgyn-0520",
+    "category": "OB Rapid Review",
+    "q": "Uterus with a midline septum per p84?",
+    "a": "The source calls it a bicornuate uterus: more premature delivery and miscarriage; NBME mechanism: failure of paramesonephric ducts to fuse. Complete double uterus = uterine didelphys.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 84,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=84"
+    }
+  },
+  {
+    "id": "s2obgyn-0521",
+    "category": "OB Rapid Review",
+    "q": "Genital tubercle derivatives per p85?",
+    "a": "Glans penis = glans clitoris; corpus cavernosum/spongiosum = vestibular bulbs.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 85,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2obgyn-0522",
+    "category": "OB Rapid Review",
+    "q": "Urogenital sinus derivatives per p85?",
+    "a": "Prostate = Skene (urethral/paraurethral) glands; bulbourethral (Cowper) glands = Bartholin (greater vestibular) glands.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 85,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2obgyn-0523",
+    "category": "OB Rapid Review",
+    "q": "Urogenital folds and labioscrotal swelling per p85?",
+    "a": "Folds: ventral penile shaft = labia minora. Labioscrotal swelling: scrotum = labia majora.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 85,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2obgyn-0524",
+    "category": "OB Rapid Review",
+    "q": "Hypospadias and epispadias per p85?",
+    "a": "Hypospadias: meatus on the ventral shaft. Epispadias: meatus on the dorsal shaft.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 85,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2obgyn-0525",
+    "category": "OB Rapid Review",
+    "q": "Posterior urethral valves per p85?",
+    "a": "Most common GU abnormality in male neonates; valves obstruct urine. Oligohydramnios, newborn who has not urinated (suprapubic mass), or recurrent UTIs/pyelonephritis in an infant. Ultrasound first, then voiding cystourethrogram (retrograde urethrogram is for urethral injury; retrograde cystourethrogram for bladder injury). Often surgical.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 85,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2obgyn-0526",
+    "category": "OB Rapid Review",
+    "q": "Peyronie disease per p85?",
+    "a": "Fibrosis of the tunica albuginea causing penile curvature; surgery reserved for functional impairment.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 85,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2obgyn-0527",
+    "category": "OB Rapid Review",
+    "q": "Phimosis versus paraphimosis per p85?",
+    "a": "Phimosis: cannot retract the foreskin. Paraphimosis: cannot reduce it; emergency (ischemia).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 85,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=85"
+    }
+  },
+  {
+    "id": "s2obgyn-0528",
+    "category": "OB Rapid Review",
+    "q": "Hydrocele per p86?",
+    "a": "Failure of closure of the processus vaginalis: transilluminating fluid; observe under age 1.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 86,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2obgyn-0529",
+    "category": "OB Rapid Review",
+    "q": "Varicocele per p86?",
+    "a": "Congested pampiniform plexus; lowers sperm production (higher scrotal temperature); does not transilluminate; elective surgical repair.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 86,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2obgyn-0530",
+    "category": "OB Rapid Review",
+    "q": "Why varicocele is left-sided per p86?",
+    "a": "The left testicular vein enters the left renal vein at 90 degrees (pressure, congestion); the right testicular vein drains straight into the IVC. Bilateral varicocele was an answer on a 2CK Peds form.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 86,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2obgyn-0531",
+    "category": "OB Rapid Review",
+    "q": "Lymphatic drainage and gonadal arteries per p86?",
+    "a": "Testes and ovaries drain to para-aortic nodes; scrotum to superficial inguinal nodes. Testicular and ovarian arteries come off the aorta at L2.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 86,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2obgyn-0532",
+    "category": "OB Rapid Review",
+    "q": "Cryptorchidism per p86?",
+    "a": "Undescended testis: observe for the first 6 months (most descend); after 6 months, orchidopexy. Higher future testicular cancer risk (usually seminoma).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 86,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2obgyn-0533",
+    "category": "OB Rapid Review",
+    "q": "Epididymitis versus torsion per p86?",
+    "a": "Epididymitis: intact cremasteric reflex (genitofemoral nerve) and positive Prehn sign (relief on elevation). Torsion: absent reflex and negative Prehn.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 86,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=86"
+    }
+  },
+  {
+    "id": "s2obgyn-0534",
+    "category": "OB Rapid Review",
+    "q": "Epididymitis organisms per p87?",
+    "a": "Chlamydia or gonorrhea in younger males; E. coli in 40s and older (also prostatitis: E. coli over chlamydia in a 45-year-old).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 87,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2obgyn-0535",
+    "category": "OB Rapid Review",
+    "q": "Torsion of the appendix testis per p87?",
+    "a": "Acutely painful testis with a blue superior pole and intact cremasteric reflex.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 87,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2obgyn-0536",
+    "category": "OB Rapid Review",
+    "q": "Orchitis per p87?",
+    "a": "Testicular inflammation, rare on USMLE; classically mumps.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 87,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2obgyn-0537",
+    "category": "OB Rapid Review",
+    "q": "Suspensory ligament of the ovary per p87?",
+    "a": "Connects lateral ovary to the abdominal wall and contains ovarian vessels; ligation during oophorectomy risks ureter injury.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 87,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2obgyn-0538",
+    "category": "OB Rapid Review",
+    "q": "Ovarian and round ligaments per p87?",
+    "a": "Ovarian ligament: medial ovary to uterus. Round ligament of uterus: uterine horns to labia majora (horns are the superolateral uterus meeting the tubes).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 87,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2obgyn-0539",
+    "category": "OB Rapid Review",
+    "q": "Cardinal ligament per p87?",
+    "a": "Lateral cervix to the pelvic wall; contains uterine vessels; ligation during hysterectomy risks ureter injury.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 87,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
+    }
+  },
+  {
+    "id": "s2obgyn-0540",
+    "category": "OB Rapid Review",
+    "q": "Broad ligament and parametrium per p87?",
+    "a": "Broad ligament: connects uterus, tubes and ovaries to the pelvic wall; contains ovaries, tubes and round ligaments. Parametrium: fat and connective tissue around the uterus; an embryo in the parametrium = ectopic pregnancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 87,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
+    }
   }
 ];
