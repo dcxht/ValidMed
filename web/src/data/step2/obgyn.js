@@ -629,5 +629,412 @@ export default [
       "page": 12,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=12"
     }
+  },
+  {
+    "id": "s2obgyn-0058",
+    "category": "OB Gametes",
+    "q": "Dizygotic (fraternal) twins per p14?",
+    "a": "Two zygotes to start; always dichorionic/diamniotic (number of chorions = number of placentas, so two placentas). NBME may say 'thick dividing membrane' between fetuses.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 14,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2obgyn-0059",
+    "category": "OB Gametes",
+    "q": "Monozygotic twins splitting at ~1-3 days per p14?",
+    "a": "Dichorionic/diamniotic (conceptus splits ~1-3 days after fertilization).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 14,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2obgyn-0060",
+    "category": "OB Gametes",
+    "q": "Monochorionic/diamniotic twins per p14?",
+    "a": "Monozygotic, split ~4-8 days after fertilization; no thick dividing membrane (same chorion).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 14,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2obgyn-0061",
+    "category": "OB Gametes",
+    "q": "Monochorionic/monoamniotic twins per p14?",
+    "a": "Monozygotic, split ~8-13 days; high risk of twin-twin transfusion syndrome and vessel entanglement (source wording).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 14,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=14"
+    }
+  },
+  {
+    "id": "s2obgyn-0062",
+    "category": "OB Gametes",
+    "q": "Conjoined twins per p15?",
+    "a": "Monozygotic twins where the conceptus splits at ~13 days or later.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 15,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2obgyn-0063",
+    "category": "OB Gametes",
+    "q": "Embryo development weeks 1-2 per p15?",
+    "a": "Week 1: fertilization, zygote divides into morula, then blastocyst implants. Week 2: neural plate forms; primitive germ layers appear.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 15,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2obgyn-0064",
+    "category": "OB Gametes",
+    "q": "Week 3-4 development and teratogen window per p15?",
+    "a": "Neural tube begins to form (week 3) and continues (week 4); heart (4 chambers) and limbs (4) begin at week 4; organogenesis. Most susceptible to teratogens at 3-8 weeks.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 15,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2obgyn-0065",
+    "category": "OB Gametes",
+    "q": "Folic acid timing per p15?",
+    "a": "Most important in the first 3-4 weeks of pregnancy when the neural tube forms; deficiency causes neural tube defects (e.g., spina bifida).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 15,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=15"
+    }
+  },
+  {
+    "id": "s2obgyn-0066",
+    "category": "OB Gametes",
+    "q": "Ectoderm derivatives per p16?",
+    "a": "Derived from clefts (grooves): CNS, PNS, skin, hair, nails, lens. Craniopharyngioma comes from Rathke pouch (roof of primitive oral cavity; surface ectoderm).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 16,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2obgyn-0067",
+    "category": "OB Gametes",
+    "q": "Neural crest derivatives per p16?",
+    "a": "Melanocytes, PNS, adrenal medulla, various cardiac structures; pheochromocytoma, neuroblastoma, medulloblastoma. HY answer for Hirschsprung (failed distal migration in the GIT) and cardiac defects in fetal alcohol syndrome.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 16,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2obgyn-0068",
+    "category": "OB Gametes",
+    "q": "Mesoderm derivatives per p16?",
+    "a": "Derived from arches: most bones, muscles, cartilage, blood vessels, heart.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 16,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2obgyn-0069",
+    "category": "OB Gametes",
+    "q": "Endoderm derivatives per p16?",
+    "a": "Derived from pouches: GIT, lungs, thymus, thyroid, parathyroids. NBME: esophageal atresia (TEF) embryo = endoderm; thyroglossal duct cyst = endoderm of foramen cecum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 16,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2obgyn-0070",
+    "category": "OB Gametes",
+    "q": "Pharyngeal pouch derivatives per p16?",
+    "a": "3rd pouch: two inferior parathyroids + thymus. 4th pouch: two superior parathyroids. Missing superior parathyroid: 4th pouch; inferior parathyroid adenoma: 3rd pouch.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 16,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2obgyn-0071",
+    "category": "OB Gametes",
+    "q": "Mullerian (paramesonephric) ducts per p16?",
+    "a": "Give rise to fallopian tubes, uterus, cervix, upper vagina. Uterine didelphys or bicornuate uterus on hysterosalpingogram: failure of paramesonephric ducts to fuse.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 16,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2obgyn-0072",
+    "category": "OB Gametes",
+    "q": "Wolffian (mesonephric) ducts per p16?",
+    "a": "Give rise to male reproductive structures, e.g., the epididymis (coiled tube on the back of each testis where sperm are stored and mature).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 16,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=16"
+    }
+  },
+  {
+    "id": "s2obgyn-0073",
+    "category": "OB Embryology",
+    "q": "Wolffian duct derivatives per p17?",
+    "a": "Epididymis, vas deferens (transports sperm from epididymis to urethra), seminal vesicles, ejaculatory ducts; development stimulated by testosterone.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0074",
+    "category": "OB Embryology",
+    "q": "MIF per p17?",
+    "a": "Mullerian-inhibitory factor/hormone, made by Sertoli cells from ~8 weeks' gestation in males; inhibits Mullerian duct development. In females the Mullerian ducts develop in the absence of MIF.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0075",
+    "category": "OB Embryology",
+    "q": "TDF per p17?",
+    "a": "Testis-determining factor (SRY protein), coded on the Y chromosome; secreted by the gonadal ridge; drives gonadal tissue to differentiate into testes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0076",
+    "category": "OB Embryology",
+    "q": "Mini-summary of male differentiation per p17?",
+    "a": "SRY/TDF forms testes; MIF from Sertoli cells regresses Mullerian ducts; testosterone from Leydig cells promotes Wolffian ducts.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0077",
+    "category": "OB Embryology",
+    "q": "Male-female equivalents per p17?",
+    "a": "Labioscrotal swelling: scrotum/labia majora. Urogenital folds: ventral penile shaft and urethra/labia minora. Urogenital sinus: prostate/Skene glands; Cowper glands/Bartholin glands. Genital tubercle: corpora/vestibular bulbs; glans penis/glans clitoris.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0078",
+    "category": "OB Embryology",
+    "q": "Umbilical vein per p17?",
+    "a": "Carries oxygenated blood from mother to fetus; remnant: ligamentum teres hepatis (round ligament of liver). The cord has one vein and two arteries.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0079",
+    "category": "OB Embryology",
+    "q": "Umbilical arteries per p17?",
+    "a": "Carry deoxygenated blood from fetus to mother; remnants: medial umbilical ligaments (not the median umbilical ligament, which is the urachus remnant connecting fetal bladder to umbilicus).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0080",
+    "category": "OB Embryology",
+    "q": "Wharton jelly per p17?",
+    "a": "Specialized connective tissue in the cord that protects the umbilical vein and arteries.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 17,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=17"
+    }
+  },
+  {
+    "id": "s2obgyn-0081",
+    "category": "OB Embryology",
+    "q": "Velamentous cord insertion per p18?",
+    "a": "Rare: cord inserts into the fetal membranes rather than the placenta, exposing vessels (no Wharton jelly protection) to injury.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 18,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2obgyn-0082",
+    "category": "OB Embryology",
+    "q": "Ductus arteriosus per p18?",
+    "a": "Connects the pulmonary trunk to the proximal descending aorta, letting oxygenated RV blood bypass the fetal lungs; closes within the first week; remnant: ligamentum arteriosum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 18,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2obgyn-0083",
+    "category": "OB Embryology",
+    "q": "PDA murmur and cause per p18?",
+    "a": "Failure to close: blood flows from aorta to pulmonary trunk (high to low pressure): continuous machinery-like murmur. Classically in congenital rubella. NBME answer: extra-cardiac left-to-right shunt.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 18,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2obgyn-0084",
+    "category": "OB Embryology",
+    "q": "Ductus venosus per p18?",
+    "a": "Connects the umbilical vein to the fetal IVC so oxygenated placental blood bypasses the liver to the right atrium; remnant: ligamentum venosum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 18,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2obgyn-0085",
+    "category": "OB Embryology",
+    "q": "Foramen ovale per p18-19?",
+    "a": "Opening in the fetal interatrial septum letting RA blood go to the LA, bypassing the lungs. Remnant: fossa ovalis; failure to close gives patent foramen ovale (a type of ASD, fixed splitting of S2).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 18,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=18"
+    }
+  },
+  {
+    "id": "s2obgyn-0086",
+    "category": "OB Anatomy",
+    "q": "Broad ligament per p19?",
+    "a": "Connects uterus, fallopian tubes, and ovaries to the lateral pelvic walls; contains uterine arteries and veins; three peritoneal layers: mesosalpinx (encloses tube), mesometrium (supports uterus; largest), mesovarium (surrounds ovary).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 19,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2obgyn-0087",
+    "category": "OB Anatomy",
+    "q": "Cardinal ligament per p19?",
+    "a": "Connects the cervix to the pelvic side wall; contains parts of the uterine artery and vein.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 19,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2obgyn-0088",
+    "category": "OB Anatomy",
+    "q": "Ovarian vs round ligament per p19?",
+    "a": "Ovarian ligament connects the ovary to the uterus. Round ligament connects the uterine horn (uterus-tube junction) to the labia majora.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 19,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2obgyn-0089",
+    "category": "OB Anatomy",
+    "q": "Suspensory and uterosacral ligaments per p19?",
+    "a": "Suspensory: connects ovary to pelvic side wall; contains ovarian artery and vein. Uterosacral: connects posterior cervix/uterus to the sacrum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 19,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2obgyn-0090",
+    "category": "OB Anatomy",
+    "q": "Ureter and uterine artery relation per p19-20?",
+    "a": "'Water under the bridge': the uterine artery passes over the ureter. The ureter is prone to damage in gynecologic surgery, especially hysterectomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 19,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=19"
+    }
+  },
+  {
+    "id": "s2obgyn-0091",
+    "category": "OB Anatomy",
+    "q": "Parametrium per p20?",
+    "a": "Connective tissue (not a ligament) connecting the broad ligament to the pelvic side wall. NBME: fetus seen in the parametrium on ultrasound is an ectopic pregnancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 20,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2obgyn-0092",
+    "category": "OB Anatomy",
+    "q": "Uterine and ovarian arterial supply per p20?",
+    "a": "Uterus: uterine arteries from the internal iliacs. Ovaries: ovarian arteries directly off the abdominal aorta at L2.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 20,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2obgyn-0093",
+    "category": "OB Anatomy",
+    "q": "Uterine and ovarian venous drainage per p20?",
+    "a": "Uterus: uterine veins to internal iliac veins. Ovaries: ovarian veins to the IVC on the right and the left renal vein on the left (the source text says 'ovarian arteries' by mistake).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 20,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=20"
+    }
+  },
+  {
+    "id": "s2obgyn-0094",
+    "category": "OB Anatomy",
+    "q": "Gynecologic lymphatics per p20?",
+    "a": "Uterus and cervix drain to external and internal iliac nodes; ovaries drain to para-aortic nodes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 20,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=20"
+    }
   }
 ];
