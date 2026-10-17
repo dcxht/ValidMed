@@ -4737,5 +4737,302 @@ export default [
       "page": 72,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=72"
     }
+  },
+  {
+    "id": "s2obgyn-0430",
+    "category": "OB Dysmenorrhea",
+    "q": "Endometriosis versus primary dysmenorrhea per p73?",
+    "a": "23F with severe period pain and a normal exam: primary dysmenorrhea (prostaglandin secretion). Same with nodular uterosacral ligaments: endometriosis. Pain with defecation and dyspareunia are buzzy but often omitted.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0431",
+    "category": "OB Dysmenorrhea",
+    "q": "Endometriosis diagnosis and treatment per p73?",
+    "a": "Diagnostic laparoscopy as the next step. NSAIDs and OCPs are short-term; definitive treatment is laparoscopic removal of lesions.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0432",
+    "category": "OB Dysmenorrhea",
+    "q": "Adenomyosis per p73?",
+    "a": "Endometrial tissue within the myometrium: diffusely enlarged uterus and vaginal bleeding in women 30s-50s, painful or not. Vignette: tubal ligation 2 years ago and uterus the size of 8 weeks (not pregnant). NSAIDs + OCPs; leuprolide in theory.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0433",
+    "category": "OB Gyn Terms",
+    "q": "Mittelschmerz, menorrhagia, metrorrhagia per p73?",
+    "a": "Mittelschmerz: benign ovulatory mid-cycle pain. Menorrhagia: >80 mL (clots) and/or >7 days. Metrorrhagia: bleeding between periods (breakthrough bleeding is the same in women on hormonal contraception).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0434",
+    "category": "OB Gyn Terms",
+    "q": "Dyspareunia and vaginismus per p73?",
+    "a": "Dyspareunia: persistent or recurrent pain during sex; no single cause; can occur in endometriosis. Vaginismus: involuntary pelvic floor (pubococcygeus) contraction with spasmodic pain.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0435",
+    "category": "OB Gyn Terms",
+    "q": "Asherman syndrome per p73?",
+    "a": "Uterine synechiae (fibrous adhesions) after instrumentation such as D&C; can cause amenorrhea.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0436",
+    "category": "OB Gyn Terms",
+    "q": "Cervical stenosis per p73?",
+    "a": "LEEP for CIN 2/3 six months ago, now pelvic pain with menses and a small scarred cervical os: reduced menstrual outflow (like imperforate hymen).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0437",
+    "category": "OB Gyn Terms",
+    "q": "Ovarian hyperstimulation syndrome per p73?",
+    "a": "Fertility drugs (e.g., clomiphene) cause over-response: ovarian swelling and abdominal (sometimes chest) fluid; mild bloating to severe weight gain, pain, dyspnea; usually self-limiting.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0438",
+    "category": "OB Gyn Terms",
+    "q": "Premature ovarian failure per p73?",
+    "a": "Primary ovarian insufficiency: idiopathic menopause at 40 or younger.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0439",
+    "category": "OB Gyn Terms",
+    "q": "Atrophic vaginitis per p73-74?",
+    "a": "Thin, dry, itchy, inflamed vaginal walls from low estrogen (usually menopause); dyspareunia; lubricants first, then topical estrogen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 73,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=73"
+    }
+  },
+  {
+    "id": "s2obgyn-0440",
+    "category": "OB Gyn Terms",
+    "q": "Chemo- or radiotherapy-induced amenorrhea per p74?",
+    "a": "Can cause amenorrhea; NBME answer: primary hypogonadism (ovaries hypo-secreting).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 74,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2obgyn-0441",
+    "category": "OB Gyn Terms",
+    "q": "Autoimmune oophoritis per p74?",
+    "a": "Rare autoantibody-mediated destruction of ovarian tissue in women of child-bearing age.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 74,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2obgyn-0442",
+    "category": "OB Gyn Terms",
+    "q": "Carpal tunnel syndrome in pregnancy per p74?",
+    "a": "Median nerve compression; normal in the 2nd and 3rd trimesters due to edema.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 74,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2obgyn-0443",
+    "category": "OB Gyn Terms",
+    "q": "Chronic interstitial cystitis per p74?",
+    "a": "Pelvic or bladder pain and/or dysuria >6 weeks with normal labs; anterior vaginal wall pain; e.g., 25F with 6 months of dysuria and pubic pressure, negative pregnancy test. Lifestyle and dietary changes; steroids are wrong.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 74,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2obgyn-0444",
+    "category": "OB APGAR",
+    "q": "APGAR scoring per p74?",
+    "a": "Heart rate, respiratory effort, muscle tone, reflexes, color; 0-10. 1-minute score evaluates condition at birth; 5-minute reflects response to resuscitation. >7 is typically normal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 74,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2obgyn-0445",
+    "category": "OB APGAR",
+    "q": "Acrocyanosis per p74?",
+    "a": "Bluish extremities at birth (1 point for appearance); next step: warming lights, then tactile stimulation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 74,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=74"
+    }
+  },
+  {
+    "id": "s2obgyn-0446",
+    "category": "OB Teratogens",
+    "q": "Teratogen susceptibility window per p75?",
+    "a": "Most susceptible at 3-8 weeks' gestation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0447",
+    "category": "OB Teratogens",
+    "q": "ACE inhibitors and aminoglycosides in pregnancy per p75?",
+    "a": "ACE inhibitors: renal issues. Aminoglycosides: hearing issues.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0448",
+    "category": "OB Teratogens",
+    "q": "Antiepileptics in pregnancy per p75?",
+    "a": "Neural tube defects (disrupt folate metabolism); fetal hydantoin syndrome (nail/digital hypoplasia, facial anomalies).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0449",
+    "category": "OB Teratogens",
+    "q": "Methimazole or carbimazole in pregnancy per p75?",
+    "a": "Aplasia cutis congenita, choanal atresia, esophageal atresia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0450",
+    "category": "OB Teratogens",
+    "q": "DES and isotretinoin in pregnancy per p75?",
+    "a": "DES: vaginal clear cell carcinoma 30-40 years later. Isotretinoin: craniofacial and cardiac abnormalities, cleft lip/palate.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0451",
+    "category": "OB Teratogens",
+    "q": "Lithium, methotrexate and NSAIDs in pregnancy per p75?",
+    "a": "Lithium: Ebstein anomaly. Methotrexate: neural tube defects. NSAIDs: premature ductus arteriosus closure, oligohydramnios, inhibited labor.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0452",
+    "category": "OB Teratogens",
+    "q": "Ribavirin, tetracyclines, thalidomide, warfarin in pregnancy per p75?",
+    "a": "Ribavirin: craniofacial anomalies, growth deficits. Tetracyclines: tooth discoloration, inhibited bone growth. Thalidomide: phocomelia (used for nausea in the 1950s-60s). Warfarin: bone and facial anomalies, CNS defects like Dandy-Walker, fetal bleeding.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0453",
+    "category": "OB Teratogens",
+    "q": "Fetal alcohol syndrome per p75?",
+    "a": "Most common cause of intellectual disability; heart/lung defects (neural crest migration); smooth, flat or long philtrum, thin upper lip, hypertelorism, midface hypoplasia, short nose, IUGR, cognitive deficits.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0454",
+    "category": "OB Teratogens",
+    "q": "Amphetamines and cocaine in pregnancy per p75?",
+    "a": "Most likely outcome: preterm delivery and birth. Cocaine also raises abruptio placentae risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0455",
+    "category": "OB Teratogens",
+    "q": "Heroin, MDMA and smoking in pregnancy per p75?",
+    "a": "Heroin/opioids: neonatal withdrawal (piloerection, yawning, rhinorrhea). MDMA: IUGR, cognitive deficits. Smoking: IUGR and reduced IQ.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
+  },
+  {
+    "id": "s2obgyn-0456",
+    "category": "OB Contraception",
+    "q": "Condoms per p75?",
+    "a": "Latex, polyurethane or lambskin; apart from abstinence, the number one way to reduce pregnancy and STD risk; recommended for women on isotretinoin even with another contraceptive.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 75,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
+    }
   }
 ];
