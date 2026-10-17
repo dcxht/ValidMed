@@ -7055,5 +7055,291 @@ export default [
       "page": 102,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
     }
+  },
+  {
+    "id": "s2obgyn-0640",
+    "category": "OB Vignettes",
+    "q": "Decelerations summary per p103?",
+    "a": "Early: fetal head compression. Variable: cord compression. Late: fetal hypoxia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 103,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2obgyn-0641",
+    "category": "OB Vignettes",
+    "q": "Fetal heart rate with no variability per p103?",
+    "a": "120 bpm (normal 110-160) with zero variability: fetal sleep state. 180 bpm with zero variability: maternal fever.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 103,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2obgyn-0642",
+    "category": "OB Vignettes",
+    "q": "Accelerations per p103?",
+    "a": "Fetal well-being: ~20 bpm rise lasting ~20 seconds, 2-3 times per 20 minutes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 103,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2obgyn-0643",
+    "category": "OB Vignettes",
+    "q": "Biophysical profile per p103?",
+    "a": "Assesses fetal well-being, often when the non-stress test is non-reactive. Components (as listed here): 2+ accelerations in 20 min, breathing >30 s in 20 min, fetal movements, tone, amniotic fluid (2 cm vertical pocket or index >5 cm). Any non-reassuring component suggests possible pathology.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 103,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2obgyn-0644",
+    "category": "OB Vignettes",
+    "q": "41 weeks, 4 cm dilated, variable decelerations per p103?",
+    "a": "Amnioinfusion (external cephalic version, forceps, amniocentesis, cordocentesis were wrong); delivery cannot be attempted before 10 cm, and vacuum comes before forceps (forceps risk nerve/sternocleidomastoid injury).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 103,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2obgyn-0645",
+    "category": "OB Vignettes",
+    "q": "External cephalic version per p103?",
+    "a": "Transabdominal manipulation of a breech fetus to cephalic; only after 36 weeks since the fetus may engage spontaneously earlier.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 103,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2obgyn-0646",
+    "category": "OB Vignettes",
+    "q": "Internal podalic version per p103?",
+    "a": "Reorienting the fetus within the womb in breech or transverse/oblique lies when C-section is not done, and for a second twin; seen as a wrong answer, never correct.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 103,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=103"
+    }
+  },
+  {
+    "id": "s2obgyn-0647",
+    "category": "OB Vignettes",
+    "q": "Caput succedaneum versus cephalohematoma per p104?",
+    "a": "Caput: poorly defined scalp edema from pressure against the cervix; crosses suture lines; can be purplish; resolves in hours to days. Cephalohematoma: well-defined fluctuant subperiosteal hemorrhage; does not cross sutures; may go with skull fracture, clotting disorders, jaundice; resolves over weeks to months. Do not use color to distinguish.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 104,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2obgyn-0648",
+    "category": "OB Vignettes",
+    "q": "PUPPP vignette per p104?",
+    "a": "32F G1P0 third trimester, itchy hives-like eruption within striae: PUPPP (~1/200 pregnancies, usually primigravid); emollients, topical steroids if severe; resolves within a week of delivery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 104,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2obgyn-0649",
+    "category": "OB Vignettes",
+    "q": "Intrahepatic cholestasis vignette per p104?",
+    "a": "Itchy palms and soles in the third trimester: serum bile acids elevated; ursodiol; not benign (third-trimester fetal loss risk); delivery at 35-37 weeks may be considered; with normal bile acids, 39 weeks may be acceptable.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 104,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2obgyn-0650",
+    "category": "OB Vignettes",
+    "q": "Itching with bilirubin 2.1 and normal liver enzymes per p104?",
+    "a": "30 weeks, 10 days of nausea and generalized itching: intrahepatic cholestasis of pregnancy (even without palms/soles).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 104,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2obgyn-0651",
+    "category": "OB Vignettes",
+    "q": "Acute fatty liver vignette per p104?",
+    "a": "36 weeks, G1P0, nausea/vomiting, jaundice, high bilirubin, high ALT/AST, no pruritus: acute fatty liver of pregnancy; LCHAD deficiency; often fatal; IV hydration, consults, delivery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 104,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=104"
+    }
+  },
+  {
+    "id": "s2obgyn-0652",
+    "category": "OB Vignettes",
+    "q": "Periumbilical itchy eruption per p105?",
+    "a": "Intensely itchy eruption around the umbilicus spreading outward in the 2nd or 3rd trimester: herpes gestationis (gestational pemphigoid), not HSV; topical steroids.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0653",
+    "category": "OB Vignettes",
+    "q": "13F with no menses, morning vomiting and suprapubic fullness per p105?",
+    "a": "Beta-hCG (pregnancy can occur before first menstruation).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0654",
+    "category": "OB Vignettes",
+    "q": "Preeclampsia, eclampsia and emergencies per p105?",
+    "a": "Preeclampsia: antihypertensives (labetalol, methyldopa); definitive delivery. Eclampsia: magnesium for seizures; delivery. Hypertensive emergency: hydralazine.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0655",
+    "category": "OB Vignettes",
+    "q": "Bilateral cysts at 8 weeks per p105?",
+    "a": "Theca-lutein cysts: benign, regress; more with high b-hCG (multiple gestation, moles, choriocarcinoma).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0656",
+    "category": "OB Vignettes",
+    "q": "Complete versus partial mole per p105?",
+    "a": "Complete: 46, empty egg fertilized by duplicating sperm, snowstorm, higher choriocarcinoma risk. Partial: 69, fetal parts, lower risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0657",
+    "category": "OB Vignettes",
+    "q": "Anovulation mechanism per p105?",
+    "a": "Insulin resistance, abnormal GnRH pulsation, high LH/FSH, follicle not primed enough to ovulate, retained as a cyst. Hirsutism: more LH, more theca interna androgens. Anovulation + hirsutism + BMI 27: PCOS.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0658",
+    "category": "OB Vignettes",
+    "q": "LH and FSH actions per p105?",
+    "a": "LH: theca interna (female) and Leydig (male) cells make androgens. FSH: granulosa (female) and Sertoli (male) cells make aromatase; primes follicles.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0659",
+    "category": "OB Vignettes",
+    "q": "PCOS treatment per p105?",
+    "a": "High BMI: weight loss first. Then OCPs if no pregnancy desired; clomiphene if desired. Risks: endometrial cancer (unopposed estrogen), type 2 diabetes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 105,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=105"
+    }
+  },
+  {
+    "id": "s2obgyn-0660",
+    "category": "OB Vignettes",
+    "q": "32F infertile 3 years with BMI 30 and acanthosis per p106?",
+    "a": "Type 2 diabetes (PCOS/anovulation not listed; hypercortisolism wrong since no striae, wasting or central obesity).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 106,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2obgyn-0661",
+    "category": "OB Vignettes",
+    "q": "Premature ovarian failure per p106?",
+    "a": "40F vasomotor symptoms: high FSH. 28F with Hashimoto, hot flashes, high FSH: autoimmune ovarian failure.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 106,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2obgyn-0662",
+    "category": "OB Vignettes",
+    "q": "Thyroid tests in pregnancy per p106?",
+    "a": "TSH, T3, free T4 normal; total T4 high (more TBG from estrogen). Order free T4 when asked in pregnancy; TSH is for screening non-pregnant people.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 106,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2obgyn-0663",
+    "category": "OB Vignettes",
+    "q": "Levothyroxine and thionamides in pregnancy per p106?",
+    "a": "Hashimoto: levothyroxine may need up to 50% more. Methimazole teratogenic in the first trimester (aplasia cutis); the source says PTU in the first trimester, switching to methimazole from the 2nd trimester (PTU hepatotoxic). Thyroid storm at 34 weeks: PTU.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 106,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2obgyn-0664",
+    "category": "OB Vignettes",
+    "q": "Postpartum thyroiditis per p106?",
+    "a": "6 months postpartum, enlarged non-tender gland, dry skin, high TSH, low T4: postpartum (silent) thyroiditis. Thyrotoxicosis then hypothyroidism (1/3 both, 1/3 hyper only, 1/3 hypo only); 5-10% of women; hyper phase 1-4 months, hypo phase ~4-8 months; immunologic rebound; progression to Hashimoto possible; propranolol if hyperthyroid, short levothyroxine if hypothyroid.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 106,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=106"
+    }
+  },
+  {
+    "id": "s2obgyn-0665",
+    "category": "OB Vignettes",
+    "q": "Neonatal cretinism prevention per p106?",
+    "a": "Routine newborn screening.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 106,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=106"
+    }
   }
 ];
