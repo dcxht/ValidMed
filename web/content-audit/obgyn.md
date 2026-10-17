@@ -2,3 +2,150 @@
 
 Source: web/public/mehlman/hy-obgyn-repro.pdf (128 pages). Hand-carded page by page (no cloning from other banks).
 Rules: source answers kept; current guidelines in separate notes with a URL seen in a search result; claims not verified are un-noted or marked "I did not verify"; Mehlman credited once via source link.
+
+## Per-page card ranges (final bank, 820 cards)
+
+- p1-3: cover and intro, no cards (p3 is the author intro)
+- p4 (OB Hormones): 12 cards, ids s2obgyn-0001 to s2obgyn-0012
+- p5 (OB Hormones): 11 cards, ids s2obgyn-0013 to s2obgyn-0023
+- p6 (OB Hormones): 9 cards, ids s2obgyn-0024 to s2obgyn-0032
+- p7 (OB Hormones): 7 cards, ids s2obgyn-0033 to s2obgyn-0039
+- p8 (OB Hormones): 4 cards, ids s2obgyn-0040 to s2obgyn-0043
+- p9 (OB Gametes): 3 cards, ids s2obgyn-0044 to s2obgyn-0046
+- p10 (OB Gametes): 5 cards, ids s2obgyn-0047 to s2obgyn-0051
+- p11 (OB Gametes): 2 cards, ids s2obgyn-0052 to s2obgyn-0053
+- p12 (OB Gametes): 6 cards, ids s2obgyn-0054 to s2obgyn-0059
+- p13 (OB Embryology): 2 cards, ids s2obgyn-0060 to s2obgyn-0061
+- p14 (OB Gametes): 4 cards, ids s2obgyn-0062 to s2obgyn-0065
+- p15 (OB Gametes): 4 cards, ids s2obgyn-0066 to s2obgyn-0069
+- p16 (OB Gametes): 7 cards, ids s2obgyn-0070 to s2obgyn-0076
+- p17 (OB Embryology): 8 cards, ids s2obgyn-0077 to s2obgyn-0084
+- p18 (OB Embryology): 5 cards, ids s2obgyn-0085 to s2obgyn-0089
+- p19 (OB Anatomy): 5 cards, ids s2obgyn-0090 to s2obgyn-0094
+- p20 (OB Anatomy): 4 cards, ids s2obgyn-0095 to s2obgyn-0098
+- p21 (OB Anatomy): 2 cards, ids s2obgyn-0099 to s2obgyn-0100
+- p22 (OB Anatomy): 2 cards, ids s2obgyn-0101 to s2obgyn-0102
+- p23 (OB Anatomy): 4 cards, ids s2obgyn-0103 to s2obgyn-0106
+- p24 (OB Anatomy): 7 cards, ids s2obgyn-0107 to s2obgyn-0113
+- p25 (OB Male Repro): 8 cards, ids s2obgyn-0114 to s2obgyn-0121
+- p26 (OB Male Repro): 2 cards, ids s2obgyn-0122 to s2obgyn-0123
+- p27 (OB Male Repro): 3 cards, ids s2obgyn-0124 to s2obgyn-0126
+- p28 (OB Birth Defects): 5 cards, ids s2obgyn-0127 to s2obgyn-0131
+- p29 (OB Incontinence): 8 cards, ids s2obgyn-0132 to s2obgyn-0139
+- p30 (OB Gyn Anatomy): 7 cards, ids s2obgyn-0140 to s2obgyn-0146
+- p31 (OB Gyn Onc): 9 cards, ids s2obgyn-0147 to s2obgyn-0155
+- p32 (OB Gyn Onc): 7 cards, ids s2obgyn-0156 to s2obgyn-0162
+- p33 (OB Gyn Onc): 10 cards, ids s2obgyn-0163 to s2obgyn-0172
+- p34 (OB Gyn Onc): 9 cards, ids s2obgyn-0173 to s2obgyn-0181
+- p35 (OB Breast): 10 cards, ids s2obgyn-0182 to s2obgyn-0191
+- p36 (OB Breast): 6 cards, ids s2obgyn-0192 to s2obgyn-0197
+- p37 (OB Breast): 7 cards, ids s2obgyn-0198 to s2obgyn-0204
+- p38 (OB Ovary): 8 cards, ids s2obgyn-0205 to s2obgyn-0212
+- p39 (OB Male Repro): 9 cards, ids s2obgyn-0213 to s2obgyn-0221
+- p40 (OB STDs): 7 cards, ids s2obgyn-0222 to s2obgyn-0228
+- p41 (OB STDs): 7 cards, ids s2obgyn-0229 to s2obgyn-0235
+- p42 (OB STDs): 4 cards, ids s2obgyn-0236 to s2obgyn-0239
+- p43 (OB STDs): 5 cards, ids s2obgyn-0240 to s2obgyn-0244
+- p44 (OB TORCH): 6 cards, ids s2obgyn-0245 to s2obgyn-0250
+- p45 (OB TORCH): 6 cards, ids s2obgyn-0251 to s2obgyn-0256
+- p46 (OB Puberty): 3 cards, ids s2obgyn-0257 to s2obgyn-0259
+- p47 (OB Sex Disorders): 6 cards, ids s2obgyn-0260 to s2obgyn-0265
+- p48 (OB Sex Disorders): 6 cards, ids s2obgyn-0266 to s2obgyn-0271
+- p49 (OB Sex Disorders): 7 cards, ids s2obgyn-0272 to s2obgyn-0278
+- p50 (OB Hymen): 10 cards, ids s2obgyn-0279 to s2obgyn-0288
+- p51 (OB Trisomies): 6 cards, ids s2obgyn-0289 to s2obgyn-0294
+- p52 (OB Antenatal): 7 cards, ids s2obgyn-0295 to s2obgyn-0301
+- p53 (OB Hemolytic Disease): 8 cards, ids s2obgyn-0302 to s2obgyn-0309
+- p54 (OB Diabetes in Pregnancy): 6 cards, ids s2obgyn-0310 to s2obgyn-0315
+- p55 (OB Amniotic Fluid): 8 cards, ids s2obgyn-0316 to s2obgyn-0323
+- p56 (OB Thyroid in Pregnancy): 7 cards, ids s2obgyn-0324 to s2obgyn-0330
+- p57 (OB Ectopic): 9 cards, ids s2obgyn-0331 to s2obgyn-0339
+- p58 (OB Miscarriage): 7 cards, ids s2obgyn-0340 to s2obgyn-0346
+- p59 (OB Infections in Pregnancy): 9 cards, ids s2obgyn-0347 to s2obgyn-0355
+- p60 (OB Infections in Pregnancy): 6 cards, ids s2obgyn-0356 to s2obgyn-0361
+- p61 (OB Peripartum Bleeding): 10 cards, ids s2obgyn-0362 to s2obgyn-0371
+- p62 (OB Peripartum Bleeding): 6 cards, ids s2obgyn-0372 to s2obgyn-0377
+- p63 (OB Labor): 8 cards, ids s2obgyn-0378 to s2obgyn-0385
+- p64 (OB Fetal Monitoring): 3 cards, ids s2obgyn-0386 to s2obgyn-0388
+- p65 (OB Fetal Monitoring): 2 cards, ids s2obgyn-0389 to s2obgyn-0390
+- p66 (OB Labor): 9 cards, ids s2obgyn-0391 to s2obgyn-0399
+- p67 (OB Rupture of Membranes): 6 cards, ids s2obgyn-0400 to s2obgyn-0405
+- p68 (OB Sheehan): 7 cards, ids s2obgyn-0406 to s2obgyn-0412
+- p69 (OB Cardiovascular DDx): 2 cards, ids s2obgyn-0413 to s2obgyn-0414
+- p70 (OB Neonatal Lung): 9 cards, ids s2obgyn-0415 to s2obgyn-0423
+- p71 (OB Psych): 7 cards, ids s2obgyn-0424 to s2obgyn-0430
+- p72 (OB PCOS): 5 cards, ids s2obgyn-0431 to s2obgyn-0435
+- p73 (OB Dysmenorrhea): 10 cards, ids s2obgyn-0436 to s2obgyn-0445
+- p74 (OB Gyn Terms): 6 cards, ids s2obgyn-0446 to s2obgyn-0451
+- p75 (OB Teratogens): 11 cards, ids s2obgyn-0452 to s2obgyn-0462
+- p76 (OB Contraception): 10 cards, ids s2obgyn-0463 to s2obgyn-0472
+- p77 (OB Contraception): 9 cards, ids s2obgyn-0473 to s2obgyn-0481
+- p78 (OB Drugs): 8 cards, ids s2obgyn-0482 to s2obgyn-0489
+- p79 (OB Rapid Review): 6 cards, ids s2obgyn-0490 to s2obgyn-0495
+- p80 (OB Rapid Review): 9 cards, ids s2obgyn-0496 to s2obgyn-0504
+- p81 (OB Rapid Review): 5 cards, ids s2obgyn-0505 to s2obgyn-0509
+- p82 (OB Rapid Review): 6 cards, ids s2obgyn-0510 to s2obgyn-0515
+- p83 (OB Rapid Review): 5 cards, ids s2obgyn-0516 to s2obgyn-0520
+- p84 (OB Rapid Review): 6 cards, ids s2obgyn-0521 to s2obgyn-0526
+- p85 (OB Rapid Review): 7 cards, ids s2obgyn-0527 to s2obgyn-0533
+- p86 (OB Rapid Review): 6 cards, ids s2obgyn-0534 to s2obgyn-0539
+- p87 (OB Rapid Review): 7 cards, ids s2obgyn-0540 to s2obgyn-0546
+- p88 (OB Rapid Review): 5 cards, ids s2obgyn-0547 to s2obgyn-0551
+- p89 (OB Rapid Review): 6 cards, ids s2obgyn-0552 to s2obgyn-0557
+- p90 (OB Rapid Review): 6 cards, ids s2obgyn-0558 to s2obgyn-0563
+- p91 (OB Rapid Review): 7 cards, ids s2obgyn-0564 to s2obgyn-0570
+- p92 (OB Rapid Review): 7 cards, ids s2obgyn-0571 to s2obgyn-0577
+- p93 (OB Rapid Review): 6 cards, ids s2obgyn-0578 to s2obgyn-0583
+- p94 (OB Rapid Review): 5 cards, ids s2obgyn-0584 to s2obgyn-0588
+- p95 (OB Rapid Review): 5 cards, ids s2obgyn-0589 to s2obgyn-0593
+- p96 (OB Rapid Review): 5 cards, ids s2obgyn-0594 to s2obgyn-0598
+- p97 (OB Rapid Review): 7 cards, ids s2obgyn-0599 to s2obgyn-0605
+- p98 (OB Drugs): 9 cards, ids s2obgyn-0606 to s2obgyn-0614
+- p99 (OB Drugs): 6 cards, ids s2obgyn-0615 to s2obgyn-0620
+- p100 (OB Vignettes): 7 cards, ids s2obgyn-0621 to s2obgyn-0627
+- p101 (OB Vignettes): 9 cards, ids s2obgyn-0628 to s2obgyn-0636
+- p102 (OB Vignettes): 9 cards, ids s2obgyn-0637 to s2obgyn-0645
+- p103 (OB Vignettes): 7 cards, ids s2obgyn-0646 to s2obgyn-0652
+- p104 (OB Vignettes): 5 cards, ids s2obgyn-0653 to s2obgyn-0657
+- p105 (OB Vignettes): 8 cards, ids s2obgyn-0658 to s2obgyn-0665
+- p106 (OB Vignettes): 6 cards, ids s2obgyn-0666 to s2obgyn-0671
+- p107 (OB Vignettes): 10 cards, ids s2obgyn-0672 to s2obgyn-0681
+- p108 (OB Vignettes): 8 cards, ids s2obgyn-0682 to s2obgyn-0689
+- p109 (OB Vignettes): 9 cards, ids s2obgyn-0690 to s2obgyn-0698
+- p110 (OB Vignettes): 7 cards, ids s2obgyn-0699 to s2obgyn-0705
+- p111 (OB Vignettes): 6 cards, ids s2obgyn-0706 to s2obgyn-0711
+- p112 (OB Vignettes): 9 cards, ids s2obgyn-0712 to s2obgyn-0720
+- p113 (OB Vignettes): 8 cards, ids s2obgyn-0721 to s2obgyn-0728
+- p114 (OB Vignettes): 6 cards, ids s2obgyn-0729 to s2obgyn-0734
+- p115 (OB Vignettes): 7 cards, ids s2obgyn-0735 to s2obgyn-0741
+- p116 (OB Vignettes): 8 cards, ids s2obgyn-0742 to s2obgyn-0749
+- p117 (OB Vignettes): 8 cards, ids s2obgyn-0750 to s2obgyn-0757
+- p118 (OB Vignettes): 8 cards, ids s2obgyn-0758 to s2obgyn-0765
+- p119 (OB Vignettes): 9 cards, ids s2obgyn-0766 to s2obgyn-0774
+- p120 (OB Vignettes): 6 cards, ids s2obgyn-0775 to s2obgyn-0780
+- p121 (OB Vignettes): 8 cards, ids s2obgyn-0781 to s2obgyn-0788
+- p122 (OB Vignettes): 8 cards, ids s2obgyn-0789 to s2obgyn-0796
+- p123 (OB Vignettes): 9 cards, ids s2obgyn-0797 to s2obgyn-0805
+- p124 (OB Vignettes): 8 cards, ids s2obgyn-0806 to s2obgyn-0813
+- p125 (OB Vignettes): 6 cards, ids s2obgyn-0814 to s2obgyn-0819
+- p126 (OB Vignettes): 1 cards, ids s2obgyn-0820 to s2obgyn-0820
+
+
+## Source conflicts and unverified claims
+- p12 says "spermatogonia penetrates"; sperm is meant (source typo).
+- p20 says "ovarian arteries" drain; veins are meant.
+- p5 HRT claim and p77/p111 "only indication" differ from NAMS 2022; notes link PubMed 35797481. Source answer kept.
+- p24: the Prehn sign is unreliable (source concedes).
+- p35/p36/p101 mammography start age 50: differs from USPSTF 2024 (40-74); note on cards, source answer kept.
+- p34/p113 Pap schedule and ASC-US/LSIL algorithms: linked to USPSTF and ASCCP 2019; I did not verify each detail against them.
+- p35 says fibroadenoma needs no excision; p92 and p101 say excise if confirmed.
+- p57 methotrexate for ectopic: b-hCG <5000 and <3.5 cm; p107 gives <6000 and <3 cm.
+- p58/p59/p124: GBS prophylaxis "within 4 hours of completion of stage 2" as written; I did not verify.
+- p56/p106: levothyroxine +50% in pregnancy, and p106 PTU in the first trimester then methimazole. Not verified against current thyroid guidance.
+- p84: a uterus with a midline septum is called bicornuate; septate vs bicornuate not verified.
+- p80: spleen described as midgut-derived; not verified.
+- p13 figure shows twinning at days 1-3/4-8/8-13/13-15; p82 text gives 0-4/5-8/9-12/after 12.
+- p122: estrogen-containing contraception lowering milk protein and TB regimen duration; not verified.
+- Source wording "mental retardation" and expletives are paraphrased in card text.
+- Figures: only pages 11, 13 and 22 (figure-only pages) carry extracted images (6 cards). Other pages are text only; every card links to its source page.
+- Mobile QA: PENDING
