@@ -6611,5 +6611,449 @@ export default [
       "page": 97,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=97"
     }
+  },
+  {
+    "id": "s2obgyn-0600",
+    "category": "OB Drugs",
+    "q": "Anastrozole, exemestane and trastuzumab per p98?",
+    "a": "Aromatase inhibitors for breast cancer. Trastuzumab targets HER2/neu-positive breast cancer; cardiotoxic.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0601",
+    "category": "OB Drugs",
+    "q": "Clomiphene summary per p98?",
+    "a": "Partial agonist at the hypothalamus (acts like an antagonist), raising GnRH and promoting ovulation; for irregular cycles or IVF.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0602",
+    "category": "OB Drugs",
+    "q": "Mifepristone, misoprostol, ulipristal, dinoprostone per p98?",
+    "a": "Mifepristone: progesterone receptor antagonist, abortifacient. Misoprostol: PGE1 analogue with it. Ulipristal: progesterone receptor modulator for emergency contraception. Dinoprostone: PGE2 analogue to soften the cervix.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0603",
+    "category": "OB Drugs",
+    "q": "Ritodrine and danazol per p98?",
+    "a": "Ritodrine: beta-2 agonist tocolytic. Danazol: androgen receptor partial agonist; tertiary agent in endometriosis; first-line in hereditary angioedema (more C1 esterase inhibitor).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0604",
+    "category": "OB Drugs",
+    "q": "Combined OCP contraindications per p98?",
+    "a": "Smokers over 35, migraine with aura, active breast cancer, thrombotic disorders/DVT.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0605",
+    "category": "OB Drugs",
+    "q": "Finasteride and alpha-1 antagonists per p98?",
+    "a": "Finasteride: 5-alpha-reductase inhibitor (blocks testosterone to DHT) for BPH. Tamsulosin/terazosin: relax the internal urethral sphincter.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0606",
+    "category": "OB Drugs",
+    "q": "Leuprolide per p98?",
+    "a": "Continuous GnRH agonist: desensitizes the receptor, lowering LH and FSH. Prostate cancer; also adenomyosis and fibroids (not first line).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0607",
+    "category": "OB Drugs",
+    "q": "Flutamide before leuprolide per p98?",
+    "a": "Flutamide (androgen receptor antagonist) is given first because leuprolide transiently raises LH and so testosterone.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0608",
+    "category": "OB Drugs",
+    "q": "Oxybutynin per p98?",
+    "a": "Muscarinic antagonist for urge incontinence.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 98,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=98"
+    }
+  },
+  {
+    "id": "s2obgyn-0609",
+    "category": "OB Drugs",
+    "q": "Bethanechol per p99?",
+    "a": "Muscarinic agonist for overflow incontinence from diabetes (hypotonic bladder); if BPH is the cause, treat BPH first.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 99,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2obgyn-0610",
+    "category": "OB Vignettes",
+    "q": "Warm tender non-fluctuant breast mass per p99?",
+    "a": "32F not breastfeeding, upper-outer quadrant, warm, tender, red, non-fluctuant, +/- fever: mastitis (not abscess). S. aureus; continue breastfeeding if applicable; dicloxacillin or cephalexin. Abscess (fluctuant): drain before antibiotics.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 99,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2obgyn-0611",
+    "category": "OB Vignettes",
+    "q": "Recently stopped breastfeeding with fluctuant non-warm mass per p99?",
+    "a": "Galactocele (milk retention cyst); warm compresses.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 99,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2obgyn-0612",
+    "category": "OB Vignettes",
+    "q": "Engorgement per p99?",
+    "a": "Two days postpartum, bottle-feeding, engorged tender breasts, fever 101 F, dysuria, suprapubic tenderness, normal urinalysis: breast engorgement. It can cause fever, and dysuria with normal urinalysis is not atypical.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 99,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2obgyn-0613",
+    "category": "OB Vignettes",
+    "q": "Amenorrhea since D&C per p99?",
+    "a": "24F amenorrheic since D&C for postpartum hemorrhage, no withdrawal bleeding: Asherman syndrome (uterine synechiae). Also 10-week miscarriage with endometritis and sharp curettage: risk of amenorrhea (Asherman).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 99,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2obgyn-0614",
+    "category": "OB Vignettes",
+    "q": "Progestin withdrawal test per p99-100?",
+    "a": "Bleeding means estrogen is adequate and the diagnosis is anovulation (no corpus luteum, no endogenous progesterone rise and fall). No bleeding: estrogen deficiency (primary ovarian failure or hypogonadotropic disorder) or a scarred uterus (Asherman).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 99,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=99"
+    }
+  },
+  {
+    "id": "s2obgyn-0615",
+    "category": "OB Vignettes",
+    "q": "18F with no withdrawal bleeding per p100?",
+    "a": "Untreated for ten years: osteoporosis (low estrogen).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 100,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2obgyn-0616",
+    "category": "OB Vignettes",
+    "q": "Basal body temperature rise per p100?",
+    "a": "A sustained rise of about 0.5 F mid-cycle: progesterone (ovulation).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 100,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2obgyn-0617",
+    "category": "OB Vignettes",
+    "q": "Osteoporosis prevention per p100?",
+    "a": "45F: weight-bearing exercise (not calcium + vitamin D). 72F with osteoporosis: long walks (not swimming; falls risk is a trick).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 100,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2obgyn-0618",
+    "category": "OB Vignettes",
+    "q": "Strongest osteoporosis risk factor per p100?",
+    "a": "69F white, nulliparous, on beta-blocker, daily alcohol, vertebral compression fracture: race (white).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 100,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2obgyn-0619",
+    "category": "OB Vignettes",
+    "q": "42F with heavy painful periods per p100?",
+    "a": "Two kids, no more wanted, husband to have vasectomy, regular periods, no other abnormalities: endometrial ablation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 100,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2obgyn-0620",
+    "category": "OB Vignettes",
+    "q": "Tanner 3 and Tanner 2 per p100?",
+    "a": "11F Tanner 3 breasts and pubic hair: menarche imminent. 13F Tanner 2, never menstruated: follow up in 6 months. Normal sequence: adrenarche, thelarche, pubarche, menarche.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 100,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2obgyn-0621",
+    "category": "OB Vignettes",
+    "q": "Large breast lump in a 14-year-old per p100?",
+    "a": "4x6 cm slightly tender left breast mass, aunt died of breast cancer: follow up in 6 months (virginal breast hypertrophy, a normal response to estrogen).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 100,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=100"
+    }
+  },
+  {
+    "id": "s2obgyn-0622",
+    "category": "OB Vignettes",
+    "q": "Nausea and vomiting at 10 weeks per p101?",
+    "a": "23F, 4 weeks of vomiting, lost 1.8 kg: most likely fetal adverse effect: no significant adverse effect.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0623",
+    "category": "OB Vignettes",
+    "q": "Hyperemesis gravidarum per p101?",
+    "a": "Diagnose by urinary ketones; 8-10 weeks from beta-hCG; hypokalemic hypochloremic metabolic alkalosis; admit for parenteral antiemetics.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0624",
+    "category": "OB Vignettes",
+    "q": "Drug causing hyperprolactinemia per p101?",
+    "a": "Metoclopramide (D2 antagonist), apart from antipsychotics.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0625",
+    "category": "OB Vignettes",
+    "q": "Amenorrhea in anorexia per p101?",
+    "a": "Decreased GnRH pulsation: low LH and FSH, low estrogen. In premature ovarian failure, Turner and menopause: high FSH, low estrogen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0626",
+    "category": "OB Vignettes",
+    "q": "Tight sports bra or breast trauma per p101?",
+    "a": "Fat necrosis (can calcify).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0627",
+    "category": "OB Vignettes",
+    "q": "Fibroadenoma workup per p101?",
+    "a": "36F rubbery mobile painless mass: fibroadenoma. Ultrasound alone if <30; ultrasound +/- mammogram if >30; FNA next; the source says excision is definitive if confirmed (guidelines vary; the shelf asks only the diagnosis).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0628",
+    "category": "OB Vignettes",
+    "q": "Mammogram guideline per p101?",
+    "a": "The source says start at age 50 and screen every two years until 75.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    },
+    "guideline": {
+      "text": "The USPSTF 2024 statement (linked; I read it) recommends biennial mammography at ages 40 to 74, so the source's ages are outdated. The source answer stays as the exam answer.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/breast-cancer-screening"
+    }
+  },
+  {
+    "id": "s2obgyn-0629",
+    "category": "OB Vignettes",
+    "q": "Fibrocystic change vignettes per p101?",
+    "a": "44F painless unilateral cyst draining brown serous fluid: fibrocystic change (Surgery form 6); 25F sharp outer-quadrant pain with tender area and no mass: fibrocystic change. Supportive treatment (evening primrose oil, warm bath); sclerosing adenosis, blue dome cysts, apocrine metaplasia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0630",
+    "category": "OB Vignettes",
+    "q": "Complex cyst that persists per p101?",
+    "a": "47F with a 3 cm complex cyst, straw-colored FNA fluid, mass still present after aspiration: biopsy of the mass.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 101,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=101"
+    }
+  },
+  {
+    "id": "s2obgyn-0631",
+    "category": "OB Vignettes",
+    "q": "Rusty nipple discharge per p102?",
+    "a": "45F unilateral: intraductal papilloma until proven otherwise; with stellate morphology on biopsy: invasive ductal carcinoma.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0632",
+    "category": "OB Vignettes",
+    "q": "Microcalcifications per p102?",
+    "a": "Cluster in the upper-outer quadrant: needle-guided open biopsy (FNA wrong); DCIS until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0633",
+    "category": "OB Vignettes",
+    "q": "Inverted nipple with greenish discharge per p102?",
+    "a": "Mammary ductal ectasia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0634",
+    "category": "OB Vignettes",
+    "q": "Recurrent miscarriage with SLE per p102?",
+    "a": "Antiphospholipid syndrome (lupus anticoagulant); shelf answer uteroplacental insufficiency; aspirin or heparin; warfarin contraindicated.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0635",
+    "category": "OB Vignettes",
+    "q": "SLE on repeated steroid courses per p102?",
+    "a": "Third steroid course in 18 months: alendronate now (bisphosphonate for ongoing or frequent steroids).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0636",
+    "category": "OB Vignettes",
+    "q": "IUGR points per p102?",
+    "a": "Most contributory lifestyle factor: smoking (decreased placental blood flow); next step: umbilical artery Doppler; most reflective fetal parameter: abdominal circumference.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0637",
+    "category": "OB Vignettes",
+    "q": "Factor V Leiden with fetal demise per p102?",
+    "a": "33 weeks, intrauterine female demise: thrombosis most likely in the uteroplacental artery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0638",
+    "category": "OB Vignettes",
+    "q": "HTN and proteinuria at 24 versus 16 weeks per p102?",
+    "a": "24 weeks: uteroplacental insufficiency (preeclampsia cause). 16 weeks with fundal height at the umbilicus: hydatidiform mole (preeclampsia occurs after 20 weeks).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
+  },
+  {
+    "id": "s2obgyn-0639",
+    "category": "OB Vignettes",
+    "q": "Uteroplacental insufficiency on fetal heart tracing per p102?",
+    "a": "Late decelerations (fetal hypoxia).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 102,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=102"
+    }
   }
 ];
