@@ -136,6 +136,11 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .chart { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:14px 8px 6px; }
 .chart svg { display:block; width:100%; height:auto; }
 
+/* view tabs */
+.vtabs { display:flex; gap:8px; margin-bottom:16px; }
+.vtab { flex:1; padding:12px; min-height:48px; font-size:16px; font-weight:700; letter-spacing:-0.01em; border:1px solid var(--border); background:var(--surface); color:var(--text-secondary); border-radius:12px; cursor:pointer; -webkit-appearance:none; }
+.vtab.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+
 /* fitness */
 .fitchips { display:flex; gap:6px; flex-wrap:wrap; margin:8px 0 2px; }
 .pace button.fchip { border:1px solid var(--border); background:var(--bg); color:var(--text); border-radius:999px; padding:8px 13px; font-size:13px; font-weight:600; cursor:pointer; min-height:36px; -webkit-appearance:none; }
@@ -152,6 +157,12 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .fhist .hd { font-size:13px; font-weight:600; color:var(--text-secondary); margin:10px 0 2px; }
 .fhist .hl { font-size:13px; color:var(--text-secondary); padding:3px 0; }
 .fhist .hl b { color:var(--text); font-weight:600; }
+.wrow { display:flex; align-items:center; gap:10px; padding:9px 2px; border-top:1px solid var(--border); }
+.wrow .wi { flex:1; min-width:0; }
+.wrow .wn { font-size:14px; font-weight:600; }
+.wrow .wn .wp { color:var(--accent); font-weight:700; }
+.wrow .wt { font-size:12px; color:var(--text-secondary); margin-top:1px; }
+.pace button.wlog { flex:0 0 auto; padding:8px 16px; min-height:36px; font-size:13px; font-weight:600; color:#fff; background:var(--accent); border:none; border-radius:999px; }
 
 footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 </style>
@@ -174,6 +185,12 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <p class="tagline">MS3 hub - rotations Nov 23 '26 to Oct 8 '27</p>
 </header>
 
+<div class="vtabs">
+  <button class="vtab on" id="vtab-acad">Academics</button>
+  <button class="vtab" id="vtab-fit">Fitness</button>
+</div>
+
+<div id="vacad">
 <div class="chips" id="chips"></div>
 
 <h2 class="sec">Today</h2>
@@ -181,22 +198,6 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
   <div class="date" id="tdate"></div>
   <div class="phase" id="tphase"></div>
   <div id="tlist"></div>
-</div>
-
-<h2 class="sec">Fitness</h2>
-<div class="pace">
-  <div class="lbl">Log a set</div>
-  <div class="fitchips" id="fchips"></div>
-  <div class="fadd"><input id="fnew" type="text" placeholder="add exercise" autocapitalize="off" autocomplete="off" /><button id="fadd">Add</button></div>
-  <div class="lgrid" style="margin-top:10px">
-    <label><span id="fwlabel">Weight (lb)</span><input id="fw" type="number" inputmode="decimal" min="0" step="any" placeholder="0" /></label>
-    <label>Reps<input id="fr" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
-  </div>
-  <div class="row" style="margin-top:10px"><button id="flog" style="flex:1">Log set</button></div>
-  <div class="sub" id="fsaved"></div>
-  <div class="finfo" id="finfo"></div>
-  <div class="ftoday" id="ftoday"></div>
-  <div class="fhist" id="fhist"></div>
 </div>
 
 <h2 class="sec">Shelf tracker - FM</h2>
@@ -254,6 +255,31 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <h2 class="sec">Agenda</h2>
 <div class="list" id="agenda"></div>
 
+</div>
+
+<div id="vfit" style="display:none">
+<h2 class="sec">Fitness</h2>
+<div class="pace" id="wplanbox" style="display:none;margin-bottom:12px">
+  <div class="lbl" id="wplabel">Today's workout</div>
+  <div id="wplan"></div>
+</div>
+<div class="pace">
+  <div class="lbl">Log a set</div>
+  <div class="fitchips" id="fchips"></div>
+  <div class="fadd"><input id="fnew" type="text" placeholder="add exercise" autocapitalize="off" autocomplete="off" /><button id="fadd">Add</button></div>
+  <div class="lgrid" style="margin-top:10px">
+    <label><span id="fwlabel">Weight (lb)</span><input id="fw" type="number" inputmode="decimal" min="0" step="any" placeholder="0" /></label>
+    <label>Reps<input id="fr" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
+  </div>
+  <div class="row" style="margin-top:10px"><button id="flog" style="flex:1">Log set</button></div>
+  <div class="sub" id="fsaved"></div>
+  <div class="finfo" id="finfo"></div>
+  <div class="ftoday" id="ftoday"></div>
+  <div class="fhist" id="fhist"></div>
+</div>
+
+</div>
+
 <footer>UWorld counts from Chet's own account, Oct 2026: Family Medicine 497, Ambulatory 444, Medicine 1,174 (overlaps both), total bank 5,133. *Neuro uses the shelf-review category (~360). Breaks counted as full days off between blocks.</footer>
 </div>
 </div>
@@ -271,7 +297,7 @@ function gatherSync(){
   var state={}, i, k;
   try{
     var v;
-    for (i=0;i<3;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
+    for (i=0;i<4;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
     for (i=0;i<localStorage.length;i++){ k=localStorage.key(i); if(k&&k.indexOf('chet_todo_')===0) state[k]=localStorage.getItem(k); }
   }catch(e){}
   return state;
@@ -293,6 +319,7 @@ function syncPull(){
         localStorage.setItem('chet_shelf_log',JSON.stringify(ll));
       }catch(e){ if(state.chet_shelf_log) try{localStorage.setItem('chet_shelf_log',state.chet_shelf_log);}catch(e2){} }
       if (state.chet_shelf_cfg) try{ localStorage.setItem('chet_shelf_cfg',state.chet_shelf_cfg); }catch(e){}
+      if (state.chet_workout_plan) try{ localStorage.setItem('chet_workout_plan',state.chet_workout_plan); }catch(e){}
       try{
         var lf=JSON.parse(localStorage.getItem('chet_lift_log')||'{"entries":{}}');
         var cl2=state.chet_lift_log?JSON.parse(state.chet_lift_log):null;
@@ -321,6 +348,18 @@ function boot(){
   Promise.resolve(syncPull()).then(initDynamic,initDynamic);
 }
 function initDynamic(){ initShelfTracker(); initToday(); initFitness(); }
+
+/* view tabs (remembered per device, not synced) */
+function setView(v){
+  try{ localStorage.setItem('chet_view',v); }catch(e){}
+  document.getElementById('vacad').style.display=v==='fit'?'none':'block';
+  document.getElementById('vfit').style.display=v==='fit'?'block':'none';
+  document.getElementById('vtab-acad').classList.toggle('on',v!=='fit');
+  document.getElementById('vtab-fit').classList.toggle('on',v==='fit');
+}
+document.getElementById('vtab-acad').addEventListener('click',function(){ setView('acad'); });
+document.getElementById('vtab-fit').addEventListener('click',function(){ setView('fit'); });
+(function(){ var v='acad'; try{ v=localStorage.getItem('chet_view')||'acad'; }catch(e){} setView(v==='fit'?'fit':'acad'); })();
 
 /* gate */
 (function(){
@@ -705,7 +744,37 @@ function initFitness(){
       histEl.appendChild(line);
     });
   }
-  function renderAll(){ renderChips(); renderInfo(); renderToday(); renderHist(); }
+  var plan=null;
+  try{ plan=JSON.parse(localStorage.getItem('chet_workout_plan')||'null'); }catch(e){}
+  function renderPlan(){
+    var box=document.getElementById('wplanbox'), wrap=document.getElementById('wplan');
+    if (!plan||!plan.items||!plan.items.length){ box.style.display='none'; return; }
+    box.style.display='block';
+    var t=isoToday();
+    document.getElementById('wplabel').textContent=(plan.date===t?"Today's workout":"Workout - "+fmtD(plan.date))+(plan.name?' - '+plan.name:'');
+    wrap.innerHTML='';
+    plan.items.forEach(function(it){
+      var sets=setsFor(it.ex);
+      var setsToday=sets.filter(function(e){ return e.d===t; }).length;
+      var m=(it.target||'').match(/^(\d+)/); var targetSets=m?+m[1]:0;
+      var last=sets.length?sets[sets.length-1]:null;
+      var row=document.createElement('div'); row.className='wrow';
+      var info=document.createElement('div'); info.className='wi';
+      info.innerHTML='<div class="wn">'+it.ex+(targetSets&&setsToday?' <span class="wp">'+Math.min(setsToday,targetSets)+'/'+targetSets+'</span>':'')+'</div>'
+        +'<div class="wt">'+it.target+(it.note?' &middot; '+it.note:'')+(last?' &middot; last '+fmtSet(last):'')+'</div>';
+      var b=document.createElement('button'); b.className='wlog'; b.textContent='Log';
+      b.addEventListener('click',function(){
+        pick(it.ex);
+        if (last) wIn.value=last.w;
+        rIn.value=''; savedEl.textContent='';
+        rIn.focus();
+        try{ wIn.scrollIntoView({block:'center'}); }catch(e){}
+      });
+      row.appendChild(info); row.appendChild(b);
+      wrap.appendChild(row);
+    });
+  }
+  function renderAll(){ renderChips(); renderInfo(); renderToday(); renderHist(); renderPlan(); }
   document.getElementById('flog').addEventListener('click',function(){
     if (!sel){ savedEl.textContent='pick an exercise first'; return; }
     var w=parseFloat(wIn.value); if (isNaN(w)||w<0) w=0;
