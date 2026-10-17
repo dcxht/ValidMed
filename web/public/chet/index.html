@@ -136,6 +136,23 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .chart { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:14px 8px 6px; }
 .chart svg { display:block; width:100%; height:auto; }
 
+/* fitness */
+.fitchips { display:flex; gap:6px; flex-wrap:wrap; margin:8px 0 2px; }
+.pace button.fchip { border:1px solid var(--border); background:var(--bg); color:var(--text); border-radius:999px; padding:8px 13px; font-size:13px; font-weight:600; cursor:pointer; min-height:36px; -webkit-appearance:none; }
+.pace button.fchip.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+.fadd { display:flex; gap:8px; margin-top:8px; }
+.fadd input { flex:1; min-width:0; font-size:14px; padding:9px 12px; border:1px solid var(--border); border-radius:10px; -webkit-appearance:none; }
+.fadd button { padding:9px 14px; min-height:40px; font-size:14px; font-weight:600; color:var(--accent); background:var(--bg); border:1px solid var(--border); border-radius:10px; }
+.finfo { font-size:13px; color:var(--text-secondary); margin-top:8px; }
+.finfo b { color:var(--text); }
+.ftoday { margin-top:10px; border-top:1px solid var(--border); }
+.frow { display:flex; align-items:center; justify-content:space-between; gap:10px; padding:8px 2px; border-bottom:1px solid var(--border); font-size:14px; }
+.frow .fs { color:var(--text); }
+.pace button.fdel { flex:0 0 auto; border:none; background:none; color:var(--text-secondary); font-size:18px; font-weight:400; cursor:pointer; padding:2px 6px; min-width:36px; min-height:32px; }
+.fhist .hd { font-size:13px; font-weight:600; color:var(--text-secondary); margin:10px 0 2px; }
+.fhist .hl { font-size:13px; color:var(--text-secondary); padding:3px 0; }
+.fhist .hl b { color:var(--text); font-weight:600; }
+
 footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 </style>
 </head>
@@ -166,8 +183,21 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
   <div id="tlist"></div>
 </div>
 
-
-
+<h2 class="sec">Fitness</h2>
+<div class="pace">
+  <div class="lbl">Log a set</div>
+  <div class="fitchips" id="fchips"></div>
+  <div class="fadd"><input id="fnew" type="text" placeholder="add exercise" autocapitalize="off" autocomplete="off" /><button id="fadd">Add</button></div>
+  <div class="lgrid" style="margin-top:10px">
+    <label><span id="fwlabel">Weight (lb)</span><input id="fw" type="number" inputmode="decimal" min="0" step="any" placeholder="0" /></label>
+    <label>Reps<input id="fr" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
+  </div>
+  <div class="row" style="margin-top:10px"><button id="flog" style="flex:1">Log set</button></div>
+  <div class="sub" id="fsaved"></div>
+  <div class="finfo" id="finfo"></div>
+  <div class="ftoday" id="ftoday"></div>
+  <div class="fhist" id="fhist"></div>
+</div>
 
 <h2 class="sec">Shelf tracker - FM</h2>
 <div class="pace">
@@ -199,14 +229,6 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
   <div class="lbl">Last 14 days - UWorld Qs/day</div>
   <div class="bars" id="bars"></div>
   <div class="sub" id="wk"></div>
-</div>
-
-<h2 class="sec">Drills</h2>
-<div class="qlinks">
-  <a href="/c?bank=s2fm"><span>Family Medicine drill</span><small>3,245 cards - resumes where you left off</small></a>
-  <a href="/c?bank=__missed__"><span>Review missed</span><small>every miss, all banks</small></a>
-  <a href="/c"><span>All banks</span><small>/c</small></a>
-  <a href="/mehlman"><span>Mehlman PDFs</span><small>all 34</small></a>
 </div>
 
 
@@ -249,7 +271,7 @@ function gatherSync(){
   var state={}, i, k;
   try{
     var v;
-    for (i=0;i<2;i++){ k=['chet_shelf_log','chet_shelf_cfg'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
+    for (i=0;i<3;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
     for (i=0;i<localStorage.length;i++){ k=localStorage.key(i); if(k&&k.indexOf('chet_todo_')===0) state[k]=localStorage.getItem(k); }
   }catch(e){}
   return state;
@@ -271,6 +293,14 @@ function syncPull(){
         localStorage.setItem('chet_shelf_log',JSON.stringify(ll));
       }catch(e){ if(state.chet_shelf_log) try{localStorage.setItem('chet_shelf_log',state.chet_shelf_log);}catch(e2){} }
       if (state.chet_shelf_cfg) try{ localStorage.setItem('chet_shelf_cfg',state.chet_shelf_cfg); }catch(e){}
+      try{
+        var lf=JSON.parse(localStorage.getItem('chet_lift_log')||'{"entries":{}}');
+        var cl2=state.chet_lift_log?JSON.parse(state.chet_lift_log):null;
+        if (cl2&&cl2.entries){
+          for (var ek in cl2.entries) lf.entries[ek]=cl2.entries[ek];
+          localStorage.setItem('chet_lift_log',JSON.stringify(lf));
+        }
+      }catch(e){}
       for (var k in state) if (k.indexOf('chet_todo_')===0) try{ localStorage.setItem(k,state[k]); }catch(e){}
     });
   },function(){ clearTimeout(t); });
@@ -290,7 +320,7 @@ function boot(){
   if (booted) return; booted=true;
   Promise.resolve(syncPull()).then(initDynamic,initDynamic);
 }
-function initDynamic(){ initShelfTracker(); initToday(); }
+function initDynamic(){ initShelfTracker(); initToday(); initFitness(); }
 
 /* gate */
 (function(){
@@ -556,6 +586,153 @@ function initShelfTracker(){
   cdIn.addEventListener('input',cfgUpd); cgIn.addEventListener('input',cfgUpd); ctIn.addEventListener('change',cfgUpd);
 
   loadDay(); renderPace(); renderBars();
+}
+
+/* ---------- fitness (lift log) ---------- */
+var BW_EX={'pull-up':1,'pullup':1,'chin-up':1,'chinup':1,'dip':1,'dips':1,'push-up':1,'pushup':1,'muscle-up':1};
+var DEF_EX=['Pull-up','Seated cable row','Machine chest press','Arnold press','Cable lateral raise','Face pull','EZ-bar curl','Preacher curl','Skullcrusher','Rope pushdown','Chest-supported row','Lat pulldown','Incline DB press','Seated DB shoulder press','Lateral raise','Rear delt fly','Incline DB curl','Hammer curl','Cable pushdown','Overhead tricep extension','Squat','Romanian deadlift','Leg press','Leg curl','Calf raise','Cable crunch','Shrug','Dip'];
+function isBW(ex){ return !!BW_EX[ex.trim().toLowerCase()]; }
+function initFitness(){
+  var LFT='chet_lift_log';
+  var lift={entries:{}};
+  try{ var p=JSON.parse(localStorage.getItem(LFT)||'null'); if(p&&p.entries) lift=p; }catch(e){}
+  function saveLift(){ try{ localStorage.setItem(LFT,JSON.stringify(lift)); }catch(e){} syncPush(); }
+  function isoToday(){ var n=new Date(); return n.getFullYear()+'-'+String(n.getMonth()+1).padStart(2,'0')+'-'+String(n.getDate()).padStart(2,'0'); }
+  function fmtD(ds){ var p=ds.split('-'); return MN[+p[1]-1]+' '+ (+p[2]); }
+  function fmtSet(e){ var w=(isBW(e.ex)?(e.w>0?'+'+e.w:'BW'):(''+e.w)); return w+' x'+e.r; }
+  function e1rm(e){ return e.w*(1+e.r/30); }
+  function entries(){ var a=[]; for (var id in lift.entries){ var e=lift.entries[id]; if(!e.del) a.push(e); } return a; }
+  function exList(){
+    var seen={}, out=[], i, n;
+    var mru=entries().sort(function(a,b){ return b.ts-a.ts; });
+    mru.forEach(function(e){ n=e.ex.toLowerCase(); if(!seen[n]){ seen[n]=1; out.push(e.ex); } });
+    for (i=0;i<DEF_EX.length;i++){ n=DEF_EX[i].toLowerCase(); if(!seen[n]){ seen[n]=1; out.push(DEF_EX[i]); } }
+    try{ var c=JSON.parse(localStorage.getItem('chet_lift_custom')||'[]'); c.forEach(function(x){ n=x.toLowerCase(); if(!seen[n]){ seen[n]=1; out.push(x); } }); }catch(e){}
+    return out;
+  }
+  function setsFor(ex){
+    return entries().filter(function(e){ return e.ex.toLowerCase()===ex.toLowerCase(); })
+      .sort(function(a,b){ return a.d===b.d ? a.ts-b.ts : (a.d<b.d?-1:1); });
+  }
+  function bestSet(ex){
+    var best=null;
+    setsFor(ex).forEach(function(e){ if(!best||e1rm(e)>e1rm(best)) best=e; });
+    return best;
+  }
+  function lastSets(ex, beforeToday){
+    var sets=setsFor(ex), dates=[], i;
+    for (i=0;i<sets.length;i++){ var dd=sets[i].d; if (beforeToday && dd>=isoToday()) continue; if (dates.indexOf(dd)<0) dates.push(dd); }
+    if (!dates.length && beforeToday){ for (i=0;i<sets.length;i++){ if (dates.indexOf(sets[i].d)<0) dates.push(sets[i].d); } }
+    if (!dates.length) return null;
+    var last=dates[dates.length-1];
+    return { d:last, sets:sets.filter(function(e){ return e.d===last; }) };
+  }
+  /* seed: first-ever lift, from Chet's text 2026-10-17 */
+  if (localStorage.getItem('chet_lift_seed')!=='1' && Object.keys(lift.entries).length===0){
+    localStorage.setItem('chet_lift_seed','1');
+    lift.entries['2026-10-17|pull-up|seed1']={d:'2026-10-17',ex:'Pull-up',w:25,r:6,ts:Date.UTC(2026,9,17,18,6,0)};
+    lift.entries['2026-10-17|pull-up|seed2']={d:'2026-10-17',ex:'Pull-up',w:25,r:7,ts:Date.UTC(2026,9,17,18,9,0)};
+    saveLift();
+  }
+  var sel=null;
+  try{ sel=localStorage.getItem('chet_lift_sel')||null; }catch(e){}
+  var chipsEl=document.getElementById('fchips'), wIn=document.getElementById('fw'), rIn=document.getElementById('fr'),
+      savedEl=document.getElementById('fsaved'), infoEl=document.getElementById('finfo'),
+      todayEl=document.getElementById('ftoday'), histEl=document.getElementById('fhist'),
+      wLabel=document.getElementById('fwlabel');
+  function pick(ex){
+    sel=ex; try{ localStorage.setItem('chet_lift_sel',ex); }catch(e){}
+    wLabel.textContent=isBW(ex)?'Added lb (0 = bodyweight)':'Weight (lb)';
+    renderChips(); renderInfo();
+  }
+  function renderChips(){
+    chipsEl.innerHTML='';
+    exList().forEach(function(ex){
+      var b=document.createElement('button');
+      b.className='fchip'+(sel&&sel.toLowerCase()===ex.toLowerCase()?' on':'');
+      b.textContent=ex;
+      b.addEventListener('click',function(){ pick(ex); });
+      chipsEl.appendChild(b);
+    });
+  }
+  function renderInfo(){
+    if (!sel){ infoEl.innerHTML=''; return; }
+    var last=lastSets(sel,true), best=bestSet(sel), h='';
+    if (last) h+='Last '+fmtD(last.d)+': <b>'+last.sets.map(fmtSet).join(', ')+'</b>';
+    else h+='First time logging '+sel;
+    if (best) h+=' &middot; PR: <b>'+fmtSet(best)+'</b> ('+fmtD(best.d)+')';
+    infoEl.innerHTML=h;
+  }
+  function renderToday(){
+    var t=isoToday(), todays=entries().filter(function(e){ return e.d===t; })
+      .sort(function(a,b){ return a.ts-b.ts; });
+    todayEl.innerHTML='';
+    if (!todays.length){ todayEl.style.display='none'; return; }
+    todayEl.style.display='block';
+    var byEx={}, order=[];
+    todays.forEach(function(e){ var k=e.ex.toLowerCase(); if(!byEx[k]){ byEx[k]={ex:e.ex,sets:[]}; order.push(k); } byEx[k].sets.push(e); });
+    order.forEach(function(k){
+      var g=byEx[k];
+      var row=document.createElement('div');
+      row.className='frow';
+      var left=document.createElement('div');
+      left.innerHTML='<span class="fs"><b>'+g.ex+'</b> '+g.sets.map(fmtSet).join(', ')+'</span>';
+      var del=document.createElement('button');
+      del.className='fdel'; del.title='undo last '+g.ex+' set'; del.textContent='×';
+      del.addEventListener('click',function(){
+        var lastSet=g.sets[g.sets.length-1];
+        for (var id in lift.entries){ var e=lift.entries[id];
+          if (e.d===lastSet.d && e.ts===lastSet.ts && e.ex===lastSet.ex && e.w===lastSet.w && e.r===lastSet.r){ e.del=1; break; } }
+        saveLift(); renderAll();
+      });
+      row.appendChild(left); row.appendChild(del);
+      todayEl.appendChild(row);
+    });
+  }
+  function renderHist(){
+    var t=isoToday(), all=entries(), byD={}, dates=[];
+    all.forEach(function(e){ if (e.d===t) return; if(!byD[e.d]){ byD[e.d]=[]; dates.push(e.d); } byD[e.d].push(e); });
+    dates.sort();
+    histEl.innerHTML='';
+    if (!dates.length) return;
+    var hd=document.createElement('div'); hd.className='hd'; hd.textContent='History';
+    histEl.appendChild(hd);
+    dates.slice(-3).reverse().forEach(function(dd){
+      var byEx={}, order=[];
+      byD[dd].sort(function(a,b){ return a.ts-b.ts; }).forEach(function(e){ var k=e.ex.toLowerCase(); if(!byEx[k]){ byEx[k]={ex:e.ex,sets:[]}; order.push(k); } byEx[k].sets.push(e); });
+      var line=document.createElement('div'); line.className='hl';
+      line.innerHTML='<b>'+fmtD(dd)+'</b> - '+order.map(function(k){ var g=byEx[k]; return g.ex+' '+g.sets.map(fmtSet).join(', '); }).join(' &middot; ');
+      histEl.appendChild(line);
+    });
+  }
+  function renderAll(){ renderChips(); renderInfo(); renderToday(); renderHist(); }
+  document.getElementById('flog').addEventListener('click',function(){
+    if (!sel){ savedEl.textContent='pick an exercise first'; return; }
+    var w=parseFloat(wIn.value); if (isNaN(w)||w<0) w=0;
+    var r=parseInt(rIn.value,10);
+    if (!r||r<1){ savedEl.textContent='reps?'; rIn.focus(); return; }
+    var now=Date.now();
+    var id=isoToday()+'|'+sel.toLowerCase()+'|'+now+'|'+Math.random().toString(36).slice(2,8);
+    lift.entries[id]={d:isoToday(),ex:sel,w:w,r:r,ts:now};
+    saveLift(); renderAll();
+    savedEl.textContent='Logged: '+sel+' '+fmtSet(lift.entries[id]);
+  });
+  document.getElementById('fadd').addEventListener('click',function(){
+    var v=document.getElementById('fnew').value.trim();
+    if (!v) return;
+    v=v.replace(/\s+/g,' ');
+    try{
+      var c=JSON.parse(localStorage.getItem('chet_lift_custom')||'[]');
+      var exists=c.some(function(x){ return x.toLowerCase()===v.toLowerCase(); }) || DEF_EX.some(function(x){ return x.toLowerCase()===v.toLowerCase(); });
+      if (!exists){ c.push(v); localStorage.setItem('chet_lift_custom',JSON.stringify(c)); syncPush(); }
+    }catch(e){}
+    document.getElementById('fnew').value='';
+    pick(v);
+    wIn.focus();
+  });
+  if (!sel){ var lastAny=entries().sort(function(a,b){ return b.ts-a.ts; })[0]; sel=lastAny?lastAny.ex:DEF_EX[0]; }
+  wLabel.textContent=isBW(sel)?'Added lb (0 = bodyweight)':'Weight (lb)';
+  renderAll();
 }
 
 /* ---------- today ---------- */
