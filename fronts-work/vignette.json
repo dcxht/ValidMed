@@ -1,0 +1,4841 @@
+[
+ {
+  "front": "Boy, 6 months, runny nose for 2 days, respiratory stridor, temp 101F. Most likely location of the pathology?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2333",
+    "category": "Peds vignettes",
+    "a": "The larynx. Diagnosis is laryngotracheobronchitis (croup) caused by parainfluenza virus, with a classic seal-like, barking cough."
+   }
+  ]
+ },
+ {
+  "front": "Infant, 10 months, fever 101F, bilateral wheezes. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2335",
+    "category": "Peds vignettes",
+    "a": "\"Community-acquired viral infection,\" i.e. RSV bronchiolitis. Treatment is supportive; ribavirin and palivizumab are almost always wrong."
+   }
+  ]
+ },
+ {
+  "front": "8M, recent URTI, now stridor and fever 101F. Diagnosis, organism, diagnosis method and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2338",
+    "category": "Peds vignettes",
+    "a": "Bacterial tracheitis, usually S. aureus. Diagnose with bronchoscopy. Treat with a third-generation cephalosporin plus an aminopenicillin (for example IV flucloxacillin)."
+   }
+  ]
+ },
+ {
+  "front": "3F, 2-week cough and congestion, loud snoring for 6 months, mouth breathing, 1/6 holosystolic murmur, loud S2, cardiomegaly, increased pulmonary vascular markings, echo with RV hypertrophy and mild TR. Long-term management?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2341",
+    "category": "Peds vignettes",
+    "a": "Adenoidectomy and tonsillectomy. Chronic upper airway obstruction can cause obstructive lung disease with cor pulmonale; the loud S2 and increased vascular markings suggest pulmonary hypertension, and TR can be seen in pulmonary HTN."
+   }
+  ]
+ },
+ {
+  "front": "5F, pale conjunctivae, low Hb, low MCV, normal WBC and platelets, low RDW. Diagnosis and next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2350",
+    "category": "Peds vignettes",
+    "a": "Decreased synthesis of globin chains (thalassemia). Target cells on the smear are a giveaway. Next best step: hemoglobin electrophoresis. Thalassemia has a low RDW (uniformly small RBCs), whereas IDA has a high RDW."
+   }
+  ]
+ },
+ {
+  "front": "4M, itchy head, small oval areas of alopecia on the scalp. Organism and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2351",
+    "category": "Peds vignettes",
+    "a": "Trichophyton tonsurans: tinea capitis. Treat the patient with oral griseofulvin; reduce risk by not sharing hats (three questions on the peds forms)."
+   }
+  ]
+ },
+ {
+  "front": "14F with Down syndrome, polycythemia, moderate cyanosis, clubbing, no murmur but loud S2, echo with large VSD and dilated main pulmonary artery. Mechanism for the polycythemia?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2362",
+    "category": "Peds vignettes",
+    "a": "Pulmonary artery hypertension (Peds NBME). Diagnosis is Eisenmenger syndrome: a large VSD with reversal to R to L shunting. Large VSDs may present without a murmur."
+   }
+  ]
+ },
+ {
+  "front": "Neonate under 34 weeks with dyspnea. Diagnosis and the L/S ratio?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2366",
+    "category": "Peds vignettes",
+    "a": "Neonatal respiratory distress syndrome (NRDS; hyaline membrane disease). A healthy lecithin (dipalmitoyl phosphatidylcholine) to sphingomyelin ratio is above 2; the ratio is reduced in NRDS."
+   }
+  ]
+ },
+ {
+  "front": "8M with sore throat and a new-onset tic. Diagnosis and next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2389",
+    "category": "Peds vignettes",
+    "a": "PANDAS (Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcus). Group A Strep can precipitate OCD, Tourette and ADHD. Answer: check streptolysin O titers. High-yield for Psych shelf, Peds shelf and 2CK."
+   }
+  ]
+ },
+ {
+  "front": "11-month-old boy, red tongue, maculopapular body rash, fever 100.5F. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2392",
+    "category": "Peds vignettes",
+    "a": "Scarlet fever (Group A Strep). Give penicillin to prevent rheumatic fever. The tongue is called strawberry."
+   }
+  ]
+ },
+ {
+  "front": "17F with an itchy maculopapular back rash and a pink 2-cm ellipse on the lower back. Next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2397",
+    "category": "Peds vignettes",
+    "a": "Reassurance and observation. Diagnosis: pityriasis rosea, caused by HHV-6 and HHV-7; self-limiting, lasting 5 weeks on average."
+   }
+  ]
+ },
+ {
+  "front": "6F with axillary and groin freckling and a small growth in the eye seen by her mother. Diagnosis and features?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2402",
+    "category": "Peds vignettes",
+    "a": "Neurofibromatosis type I (NF1): Lisch nodules (iris hamartomas), optic glioma, axillary and groin freckling, neurofibromas (cutaneous lumps), cafe au lait spots (hyperpigmented macules), pheochromocytoma."
+   }
+  ]
+ },
+ {
+  "front": "3F with 2 weeks of fever, pallor, poor appetite, mouth ulcers and low RBCs, WBCs and platelets. Diagnosis and next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2420",
+    "category": "Peds vignettes",
+    "a": "Aplastic anemia (presumably from Parvo, but also other viruses). Next best step: immediate IV antibiotics for neutropenic fever. Low WBCs means low neutrophils, and mouth ulcers on USMLE are a hugely HY presentation of neutropenia."
+   }
+  ]
+ },
+ {
+  "front": "3F with fever and low RBCs, WBCs and platelets, already on IV antibiotics. Next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2422",
+    "category": "Peds vignettes",
+    "a": "Bone marrow aspiration (sounds invasive, but it diagnoses aplastic anemia). A UWorld question with Parvo IgM/IgG titers is for an adult daycare worker with a lacy body rash and no drop in blood cell lines."
+   }
+  ]
+ },
+ {
+  "front": "6M with recurrent Staph infections and diarrhea. Diagnosis and mechanism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2438",
+    "category": "Peds vignettes",
+    "a": "\"Neutrophil oxidative burst\" defect: chronic granulomatous disease (NADPH oxidase deficiency), with infections by catalase-positive organisms (Staph infections are the signature complication)."
+   }
+  ]
+ },
+ {
+  "front": "17M with 12 months of intermittent swelling of the face and lips, chest and arms, with abdominal pain and diarrhea during episodes. Next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2454",
+    "category": "Peds vignettes",
+    "a": "Measurement of C1 esterase inhibitor concentration (not C1 esterase). Diagnosis: hereditary angioedema."
+   }
+  ]
+ },
+ {
+  "front": "2-month-old boy with non-bloody, non-bilious vomiting after feeds, increasing in amount and force. Diagnosis and associations?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2461",
+    "category": "Peds vignettes",
+    "a": "Pyloric stenosis. Associated with first-born males and oral erythromycin use (a motilin receptor agonist; also treats chlamydia ophthalmia neonatorum)."
+   }
+  ]
+ },
+ {
+  "front": "2-month-old boy with bilious vomiting and Down syndrome. Diagnosis and imaging?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2463",
+    "category": "Peds vignettes",
+    "a": "Duodenal atresia. AXR shows the double bubble sign. Mechanism: \"failure of canalization of proximal bowel.\" Annular pancreas can be an alternative cause of bilious vomiting plus double bubble (not with Down syndrome)."
+   }
+  ]
+ },
+ {
+  "front": "18-month-old girl with 24 hours of intermittent abdominal pain, an RLQ mass and a positive fecal occult blood test. Next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2466",
+    "category": "Peds vignettes",
+    "a": "Air-contrast enema (or contrast, or air). Ultrasound (target sign) may be done, but on the NBME the answer for diagnosing intussusception is always enema (diagnostic and therapeutic). Presentation is almost always under 2 years with an intermittent nature (the sentence continues on p169)."
+   }
+  ]
+ },
+ {
+  "front": "3F with failure to thrive, 3 months of steatorrhea, and no meconium passage until day 3. Mechanism for failure to thrive?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2472",
+    "category": "Peds vignettes",
+    "a": "\"Exocrine pancreatic insufficiency.\" The Peds shelf frequently refers to cystic fibrosis this way (it can also refer to chronic pancreatitis in adults)."
+   }
+  ]
+ },
+ {
+  "front": "3-month-old boy with fever, pyuria and few bacteria. Next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2482",
+    "category": "Peds vignettes",
+    "a": "Renal ultrasound. Most likely pyelonephritis (few bacteria are typical on UA despite pyuria). Do renal and bladder ultrasound for all kids aged 2-24 months with a febrile UTI, to screen for congenital GU tract abnormalities."
+   }
+  ]
+ },
+ {
+  "front": "Neonatal male with posterior urethral valves. Next best step in diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2485",
+    "category": "Peds vignettes",
+    "a": "Voiding cystourethrogram. Treatment must be surgery."
+   }
+  ]
+ },
+ {
+  "front": "34M falls on a balance beam (saddle injury) with blood at the urethral meatus. Diagnosis and next best step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2486",
+    "category": "Peds vignettes",
+    "a": "Urethral injury; do a retrograde urethrogram."
+   }
+  ]
+ },
+ {
+  "front": "16M skiing accident with bruising and/or flank pain and red urine. Diagnosis and next best step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2487",
+    "category": "Peds vignettes",
+    "a": "Kidney injury (renal contusion); do CT with contrast, not ultrasound. Exceedingly HY on surgery forms; it sounds wrong because contrast can be nephrotoxic, but the exams still want CT with contrast."
+   }
+  ]
+ },
+ {
+  "front": "Kid with bloody diarrhea, petechiae and red urine. Diagnosis and mechanism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2491",
+    "category": "Peds vignettes",
+    "a": "Hemolytic uremic syndrome from EHEC O157:H7 or Shigella. Triad: thrombocytopenia, schistocytosis (microangiopathic hemolytic anemia) and renal insufficiency. Per the source, toxin inhibits ADAMTS13 in afferent arterioles and damages endothelium, causing platelet consumption and clumping; RBCs shear on the clumps."
+   }
+  ]
+ },
+ {
+  "front": "12M with epistaxis, bleeding time 9 minutes and platelet count 50,000. Diagnosis and mechanism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2500",
+    "category": "Peds vignettes",
+    "a": "Immune thrombocytopenic purpura (ITP); antibodies against GpIIb/IIIa following a viral infection (2CK questions often omit the preceding viral illness)."
+   }
+  ]
+ },
+ {
+  "front": "5M with hemarthrosis. Diagnosis until proven otherwise, and key facts?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2505",
+    "category": "Peds vignettes",
+    "a": "Hemophilia A or B (choose A if both are listed and you cannot tell them apart; A is far more common). Both X-linked recessive with isolated aPTT increase; A is factor VIII deficiency, B (Christmas disease) is factor IX deficiency. Hemarthrosis is classic for hemophilia but rare in vWD."
+   }
+  ]
+ },
+ {
+  "front": "12M with epistaxis, bleeding time 9 minutes and platelets 50,000. Most effective way to decrease recurrence?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2509",
+    "category": "Peds vignettes",
+    "a": "Splenectomy. Steroids come first, but splenectomy is still the most effective at decreasing recurrence."
+   }
+  ]
+ },
+ {
+  "front": "3F with a viral infection, fever and a tonic-clonic seizure. Diagnosis, risk and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2512",
+    "category": "Peds vignettes",
+    "a": "Febrile seizure. Fever can precipitate seizures in 2-4% of children aged 6 months to 5 years; about a two-fold progression to epilepsy versus the general population; treatment is a benzodiazepine."
+   }
+  ]
+ },
+ {
+  "front": "8M with bloating and flatulence after dairy products. Next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2520",
+    "category": "Peds vignettes",
+    "a": "Hydrogen breath test, or testing for decreased stool pH; diagnosis is lactose intolerance."
+   }
+  ]
+ },
+ {
+  "front": "2F with iron deficiency anemia, bloating, diarrhea, and now eating table food. Diagnosis and workup?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2521",
+    "category": "Peds vignettes",
+    "a": "Celiac disease (can cause iron deficiency anemia); diagnose with antibody screen: anti-endomysial, anti-gliadin, or anti-tissue transglutaminase IgA."
+   }
+  ]
+ },
+ {
+  "front": "5F with a positive celiac antibody screen. Next best step (duodenal biopsy vs no further studies)?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2522",
+    "category": "Peds vignettes",
+    "a": "Duodenal biopsy (flattened villi); it sounds wrong, but it is what the NBME wants."
+   }
+  ]
+ },
+ {
+  "front": "Treatment for an infant with milk or soy protein allergy on USMLE?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2525",
+    "category": "Peds vignettes",
+    "a": "Switch to hydrolyzed formula (proteins processed into fragments); the FDA labels hydrolyzed formulas as hypoallergenic. The page then starts listing types of milk protein allergy, beginning with FPIES (continues on p176)."
+   }
+  ]
+ },
+ {
+  "front": "3F who finished a 10-day antibiotic course, now with fever 101F, LLQ tenderness and positive fecal occult blood. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2530",
+    "category": "Peds vignettes",
+    "a": "C. difficile; treat with vancomycin. Two points: C. diff frequently causes bloody stool on 2CK forms; and the pseudoappendicitis of Y. enterocolitica is truly RLQ (terminal ileitis or mesenteric adenitis), not LLQ."
+   }
+  ]
+ },
+ {
+  "front": "16-month-old with Giardia infection and failure to thrive. Mechanism of failure to thrive and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2531",
+    "category": "Peds vignettes",
+    "a": "Malabsorption of fats and carbohydrates; treat Giardia with metronidazole."
+   }
+  ]
+ },
+ {
+  "front": "16M with acutely painful testes and a negative cremasteric reflex. Diagnosis and workup?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2534",
+    "category": "Peds vignettes",
+    "a": "Testicular torsion; Doppler ultrasound followed by surgical detorsion."
+   }
+  ]
+ },
+ {
+  "front": "6M with a painful testis with blue/black discoloration of the superior pole, decreased bowel sounds, and a rigid abdomen. Diagnosis and management?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2535",
+    "category": "Peds vignettes",
+    "a": "Strangulated hernia, not testicular torsion; operative management."
+   }
+  ]
+ },
+ {
+  "front": "14M with heaviness or bogginess of the testes. Diagnosis and management?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2542",
+    "category": "Peds vignettes",
+    "a": "Varicocele (one FM shelf question literally says bag of worms). Diagnose with Doppler ultrasound; elective surgery may reduce the risk of sub-fertility from increased testicular temperature."
+   }
+  ]
+ },
+ {
+  "front": "3M with large calves who uses his arms to crawl up off the floor. Mechanism and diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2551",
+    "category": "Peds vignettes",
+    "a": "Defective cytoskeletal connection to the extracellular matrix; Duchenne muscular dystrophy (X-linked recessive), caused by a frameshift mutation. Becker is less severe, presents in adolescence or early adulthood, and is not a frameshift (e.g. missense)."
+   }
+  ]
+ },
+ {
+  "front": "14F with 10 months of tripping, high-arched feet, hammer toes, hand and foot muscle wasting, absent ankle reflexes, reduced vibration and proprioception in the legs, and prolonged distal motor latencies. Diagnosis and mechanism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2554",
+    "category": "Peds vignettes",
+    "a": "Charcot-Marie-Tooth disease (hereditary motor and sensory neuropathy); defective protein production for myelin sheaths and nerve fibers; hammer toes classic; pes cavus also seen."
+   }
+  ]
+ },
+ {
+  "front": "10F with violaceous erythema of the upper eyelids and scaly knuckles and finger joints. Diagnosis and workup?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2556",
+    "category": "Peds vignettes",
+    "a": "Dermatomyositis (asked on Peds NBME): heliotrope rash and mechanic's hands; Gottron papules and shawl rash can also be seen. Workup with EMG and anti-Jo1/anti-Mi2 (same as polymyositis); definitive diagnosis is muscle biopsy; treat acute flares with steroids."
+   }
+  ]
+ },
+ {
+  "front": "6M with suspected JRA and a red, hot, painful knee. Next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2564",
+    "category": "Peds vignettes",
+    "a": "Arthrocentesis to rule out septic arthritis. If the vignette sounds like classic transient synovitis (hip, not knee), arthrocentesis is not needed."
+   }
+  ]
+ },
+ {
+  "front": "4M with increased bilirubin after a viral infection or drug, and degmacytes (bite cells) on smear. Mechanism and diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2573",
+    "category": "Peds vignettes",
+    "a": "Decreased NADPH production; G6PD deficiency (X-linked recessive). Bite cells are degmacytes; Heinz bodies (denatured, oxidized Hb) are also seen in RBCs."
+   }
+  ]
+ },
+ {
+  "front": "Kid with suspected JRA and a sore knee. Next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2578",
+    "category": "Peds vignettes",
+    "a": "Arthrocentesis to rule out septic arthritis."
+   }
+  ]
+ },
+ {
+  "front": "9F with both legs bowed, a small child and/or a malabsorptive disease (Crohn, CF). Diagnosis and labs?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2581",
+    "category": "Peds vignettes",
+    "a": "Rickets (vitamin D deficiency); also low calcium, low phosphate, high PTH and high ALP (because PTH is high)."
+   }
+  ]
+ },
+ {
+  "front": "4-month-old with clicking/clunking on exam, positive Ortolani and Barlow maneuvers. Diagnosis and next steps?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2584",
+    "category": "Peds vignettes",
+    "a": "Primary hip dysplasia (congenital hip dysplasia). Once positive, the next best step is ortho referral if listed (always sounds wrong but is correct); if not listed, do ultrasound under 6 months or x-ray over 6 months. Treat with an abduction harness (Pavlik harness; frog-leg-like)."
+   }
+  ]
+ },
+ {
+  "front": "11-13-year-old overweight boy with a painful limp. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2590",
+    "category": "Peds vignettes",
+    "a": "SCFE; treatment is surgical pinning."
+   }
+  ]
+ },
+ {
+  "front": "Kid falls on an outstretched arm with pain over the anatomical snuffbox. Diagnosis and next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2594",
+    "category": "Peds vignettes",
+    "a": "Scaphoid fracture; do an x-ray."
+   }
+  ]
+ },
+ {
+  "front": "17F with BMI 33 and irregular periods. Diagnosis and mechanism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2597",
+    "category": "Peds vignettes",
+    "a": "Anovulation: insulin resistance leads to abnormal GnRH pulsation, high LH/FSH, and insufficient FSH, so the follicle is not primed when the LH spike arrives and is retained as a cyst. With hirsutism the diagnosis is PCOS (the source says 11 cysts bilaterally per Amsterdam criteria). On Peds form 5 the location of pathology in PCOS is the ovary, not the hypothalamus."
+   }
+  ]
+ },
+ {
+  "front": "10F with polyuria and polydipsia and a sore throat two weeks earlier. Most likely infective diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2599",
+    "category": "Peds vignettes",
+    "a": "Coxsackie B virus; it can precipitate type 1 diabetes through molecular mimicry (the bullet continues about antibodies on p183)."
+   }
+  ]
+ },
+ {
+  "front": "6M with nocturnal enuresis. Next best step, in the order the exams want,?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2607",
+    "category": "Peds vignettes",
+    "a": "Behavioral answer first (spend more time with the child, reduce stressors); if not an answer, star chart (positive reinforcement); if not listed or already tried, enuresis alarm. Medications like imipramine and desmopressin are always wrong, as is water deprivation after 5 pm."
+   }
+  ]
+ },
+ {
+  "front": "16-17-year-old who has been going on dates recently with a sore throat. Diagnosis and test?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2615",
+    "category": "Peds vignettes",
+    "a": "EBV mononucleosis; do a heterophile antibody test (Monospot)."
+   }
+  ]
+ },
+ {
+  "front": "9-month-old boy with 5 days of fever, edema of the dorsa of the hands, cervical lymphadenopathy, cracked lips, and red oral mucosa and conjunctivae. Treatment and diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2617",
+    "category": "Peds vignettes",
+    "a": "High-dose aspirin plus IVIG; Kawasaki disease. Never give aspirin to a kid (Reye syndrome) unless the diagnosis is Kawasaki; other features are palm and sole desquamation and coronary artery aneurysms."
+   }
+  ]
+ },
+ {
+  "front": "8M with a non-productive cough worse at night, shortness of breath during the day, and mild hyperinflation on CXR. Next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2630",
+    "category": "Peds vignettes",
+    "a": "Spirometry (answer on NBME); diagnosis is asthma."
+   }
+  ]
+ },
+ {
+  "front": "16M with a large red, non-vesicular rash on the chin; the question asks for a diagnosis based on an image. Answer?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2633",
+    "category": "Peds vignettes",
+    "a": "Impetigo (do not chase HSV or tinea faciei)."
+   }
+  ]
+ },
+ {
+  "front": "8M with an ear infection one month ago, slightly reduced hearing in one ear, fluid behind the tympanic membrane, afebrile and well-appearing. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2646",
+    "category": "Peds vignettes",
+    "a": "Otitis media with effusion (serous otitis media): fluid occasionally persists after OM resolves (it need not be recurrent OM); treat with observation, as it usually self-resolves in 4-8 weeks."
+   }
+  ]
+ },
+ {
+  "front": "7M with squamous proliferation seen behind the tympanic membrane. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2648",
+    "category": "Peds vignettes",
+    "a": "Cholesteatoma; it gradually grows and invades the inner ear, causing irreversible hearing loss; treatment is surgical excision."
+   }
+  ]
+ },
+ {
+  "front": "10F with a sore throat two weeks ago, red urine, peripheral edema and hypertension. Mechanism of the hypertension?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2665",
+    "category": "Peds vignettes",
+    "a": "Volume overload: microvascular disturbance from the glomerulonephritis with RAAS stimulation."
+   }
+  ]
+ },
+ {
+  "front": "17F with hypertension, low K and high bicarbonate. Next best step and diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2670",
+    "category": "Peds vignettes",
+    "a": "MR angiogram of the renal arteries; diagnosis is fibromuscular dysplasia (another answer: increased renin production)."
+   }
+  ]
+ },
+ {
+  "front": "15M with a unilateral mass behind the nipple with or without tenderness. Answer?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2673",
+    "category": "Peds vignettes",
+    "a": "Reassurance; physiologic gynecomastia of puberty (higher androgens are aromatized to estrogens)."
+   }
+  ]
+ },
+ {
+  "front": "17F with very bad period pain that makes her miss class sometimes, and a normal physical exam. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2675",
+    "category": "Peds vignettes",
+    "a": "Primary dysmenorrhea from prostaglandin hypersecretion (PGF2alpha); give NSAIDs."
+   }
+  ]
+ },
+ {
+  "front": "14F who never had a period, with 1 week of constant severe pelvic pain, 6 months of intermittent pelvic pain, BP 90/50 and a bluish bulge in the upper vagina. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2677",
+    "category": "Peds vignettes",
+    "a": "Hematometra: imperforate hymen with blood collection in the uterus; vagal response causes low BP; treatment is cruciate incision of the hymen."
+   }
+  ]
+ },
+ {
+  "front": "14F who never had a period, with 6 months of intermittent pelvic pain, normal BP and a bluish bulge in the upper vagina. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2678",
+    "category": "Peds vignettes",
+    "a": "Hematocolpos: blood collection in the vaginal canal, not backed up to the uterus like hematometra; treatment is cruciate incision of the hymen."
+   }
+  ]
+ },
+ {
+  "front": "16F with a vagina ending in a blind pouch, no cervix or uterus, absent or scanty pubic and axillary hair, and Tanner stage 4. Diagnosis and next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2679",
+    "category": "Peds vignettes",
+    "a": "Androgen insensitivity syndrome; next step is karyotyping (46,XY)."
+   }
+  ]
+ },
+ {
+  "front": "16F with a vagina ending in a blind pouch, no cervix or uterus, coarse pubic and axillary hair, and Tanner stage 4. Diagnosis and next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2680",
+    "category": "Peds vignettes",
+    "a": "Mullerian agenesis; next step is karyotyping (46,XX)."
+   }
+  ]
+ },
+ {
+  "front": "3M with a painless flank mass and no other information. Diagnosis and next step?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2688",
+    "category": "Peds vignettes",
+    "a": "Wilms tumor; the answer on the Peds form is ultrasonography of the abdomen."
+   }
+  ]
+ },
+ {
+  "front": "4F with her third pyelonephritis and a high creatinine. Most likely cause and pathology?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2697",
+    "category": "Peds vignettes",
+    "a": "Congenital urinary tract obstruction or vesicoureteral reflux; chronic pyelonephritis from recurrent acute pyelonephritis, with thyroidization of the kidney and blunting and scarring of the renal calyces."
+   }
+  ]
+ },
+ {
+  "front": "5M with 4 days of increasing shortness of breath, a superior mediastinal mass on CXR and thoracentesis giving 400 mL serosanguinous fluid. Most likely cause of the effusion?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2701",
+    "category": "Peds vignettes",
+    "a": "Malignant pleural effusion from T-cell ALL (the mediastinal mass causes an SVC-like syndrome)."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with total bilirubin 14 mg/dL and direct bilirubin 13 mg/dL. Diagnosis, next step and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2704",
+    "category": "Peds vignettes",
+    "a": "Biliary atresia; next step is liver biopsy; treatment is liver transplant. Total bilirubin is okay here, but direct is severely pathologic because it is above 10% of total (over 1.4 mg/dL)."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with total bilirubin 20 mg/dL, all unconjugated, continually worsening despite management. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2705",
+    "category": "Peds vignettes",
+    "a": "Crigler-Najjar: absence of UDP-glucuronosyltransferase; treatment is liver transplant. Type II is a deficiency, not absence, of the enzyme and can be managed with phenobarbital, which reduces bilirubin."
+   }
+  ]
+ },
+ {
+  "front": "Pathologic jaundice in a neonate, mom O+, neonate A or B blood type. Diagnosis and mechanism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2708",
+    "category": "Peds vignettes",
+    "a": "Hemolytic disease of the newborn (ABO type): mothers with O blood type have a fraction of IgG (rather than all IgM) against A and B antigens, which crosses the placenta and causes fetal hemolysis; severity is highly variable."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with low potassium, low glucose and low DHEA-S. Diagnosis (the source explanation continues in the source)?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2712",
+    "category": "Peds vignettes",
+    "a": "CAH due to 17-hydroxylase deficiency; potassium wasting from high mineralocorticoid activity."
+   }
+  ]
+ },
+ {
+  "front": "7F with progressive fatigue over 6 months, low BP and darkening of skin. Most effective test to determine diagnosis and management (Peds NBME)? Diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2714",
+    "category": "Peds vignettes",
+    "a": "Plasma cortisol; diagnosis is Addison disease."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with diffuse pink body rash and desquamation of palms and soles. Mechanism and diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2736",
+    "category": "Peds vignettes",
+    "a": "Exotoxin; staphylococcal scalded skin syndrome due to exfoliative toxin (produced by about 5% of community staph)."
+   }
+  ]
+ },
+ {
+  "front": "Neonate born at home, umbilical cord cut with a kitchen knife and tied with twine, with trismus. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2737",
+    "category": "Peds vignettes",
+    "a": "Tetanus; Tx = antitoxin. Trismus is lockjaw (do not confuse with tenesmus, the intractable feeling of needing to defecate). C. tetani classically enters through the umbilical stump."
+   }
+  ]
+ },
+ {
+  "front": "Neonate born at home with bleeding from the umbilical stump. Diagnosis and BT, PT, aPTT?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2738",
+    "category": "Peds vignettes",
+    "a": "Vitamin K deficiency; bleeding time normal, PT and aPTT both elevated; due to a sterile bowel and no injection at birth."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with intracranial calcifications, deafness, with or without hepatosplenomegaly and blueberry muffin rash. Diagnosis and reasoning?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2748",
+    "category": "Peds vignettes",
+    "a": "Congenital CMV. Calcifications are non-specific but the triad is not for toxoplasmosis; deafness is very high yield for CMV although not specific; diagnose CMV by eliminating toxo, syphilis, rubella and varicella descriptions."
+   }
+  ]
+ },
+ {
+  "front": "16F sexually active. Pap smears and/or STI checks?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2749",
+    "category": "Peds vignettes",
+    "a": "Do not do Pap smears; start at age 21 regardless of age of onset of sexual activity. Do check for chlamydia and gonorrhea starting from the age of sexual onset, and make sure she has had the HPV vaccine."
+   }
+  ]
+ },
+ {
+  "front": "16F with mucopurulent discharge and adnexal pain. Treatment and diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2750",
+    "category": "Peds vignettes",
+    "a": "Pelvic inflammatory disease; IM ceftriaxone PLUS either oral azithromycin (one stat dose) or oral doxycycline (BID for a week); always cotreat for chlamydia and gonorrhea; if the patient is septic give IV antibiotics."
+   }
+  ]
+ },
+ {
+  "front": "17F asymptomatic, male partner recently tested positive for gonorrhea; tests ordered. Treat or not?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2751",
+    "category": "Peds vignettes",
+    "a": "Treat: IM ceftriaxone and oral doxycycline. The wrong answer is no treatment because she is asymptomatic."
+   }
+  ]
+ },
+ {
+  "front": "16M with redness of both eyes, rash over extremities and mucopurulent urethral discharge. Diagnosis and cause?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2752",
+    "category": "Peds vignettes",
+    "a": "Reactive arthritis due to chlamydia; gonococcus does not cause reactive arthritis."
+   }
+  ]
+ },
+ {
+  "front": "16M with polyarthritis, positive Finkelstein test and cutaneous papules over the wrist. Diagnosis and presentations?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2754",
+    "category": "Peds vignettes",
+    "a": "Gonococcal arthritis; it presents either as a monoarthritis of a large joint such as the knee, or as a triad of polyarthritis, tenosynovitis and cutaneous papules."
+   }
+  ]
+ },
+ {
+  "front": "16F with thin, grey, watery discharge, diagnosed by wet mount. Diagnosis, findings and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2755",
+    "category": "Peds vignettes",
+    "a": "Bacterial vaginosis (Gardnerella); clue cells (squamous cells covered in bacteria) on wet mount; KOH whiff test with fishy odor is also classic; treat with topical metronidazole gel."
+   }
+  ]
+ },
+ {
+  "front": "16F with yellow-green discharge, diagnosed by wet mount. Diagnosis, findings and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2756",
+    "category": "Peds vignettes",
+    "a": "Trichomonas vaginalis; wet mount shows flagellated protozoa; strawberry cervix (punctate hemorrhages) or an erythematous vaginal canal might be seen; treat with topical metronidazole for patient and partner (high risk of reinfection)."
+   }
+  ]
+ },
+ {
+  "front": "17M back from Uganda with a painful crater at the base of the penile shaft. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2761",
+    "category": "Peds vignettes",
+    "a": "Haemophilus ducreyi (chancroid); treat with azithromycin."
+   }
+  ]
+ },
+ {
+  "front": "17F, BMI 28, erythematous and itchy vulva, no mention of discharge but the question asks for the organism. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2764",
+    "category": "Peds vignettes",
+    "a": "Candidiasis; classically curd-like white discharge, but one 2CK-level question does not mention it. Treat with topical nystatin first or oral fluconazole (topical nystatin usually tried first)."
+   }
+  ]
+ },
+ {
+  "front": "4M with bitemporal hemianopsia and calcification on MRI. Diagnosis and facts?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2768",
+    "category": "Peds vignettes",
+    "a": "Craniopharyngioma; the most common pituitary-region tumor in peds (prolactinoma in adults), though some sources say it is not a true pituitary tumor since it derives from Rathke pouch (roof of primitive pharynx). It can calcify, has motor-oil appearance, and frequently recurs after surgery."
+   }
+  ]
+ },
+ {
+  "front": "6M in whom the image shows the eye looking like it was hit by a softball. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2769",
+    "category": "Peds vignettes",
+    "a": "Orbital cellulitis; must give IV antibiotics. In contrast, pre-septal cellulitis is less severe and can be treated with oral antibiotics."
+   }
+  ]
+ },
+ {
+  "front": "6M with a painful bump on the eyelid. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2770",
+    "category": "Peds vignettes",
+    "a": "Hordeolum (stye); S. aureus infection; treat with warm compresses."
+   }
+  ]
+ },
+ {
+  "front": "6M with a painless bump on the eyelid. Diagnosis and treatment?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2771",
+    "category": "Peds vignettes",
+    "a": "Chalazion (blocked oil duct); treat with warm compresses."
+   }
+  ]
+ },
+ {
+  "front": "6M with IQ of 60, small for age, born to a mother aged 41, no other information. Most likely cause of intellectual disability?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2788",
+    "category": "Peds vignettes",
+    "a": "Down syndrome, not FAS. FAS is the most common cause overall, but if the question wants FAS it mentions the philtrum, and the source says Down syndrome is the most common cause of intellectual disability when the mother is over 40."
+   }
+  ]
+ },
+ {
+  "front": "8M with prominent jaw, protruding ears and IQ of 65. Most likely explanation?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2789",
+    "category": "Peds vignettes",
+    "a": "A fragile site on the X chromosome: Fragile X (CGG trinucleotide repeat disorder)."
+   }
+  ]
+ },
+ {
+  "front": "2M with blisters on the tongue and mouth. Next best step and diagnosis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2802",
+    "category": "Peds vignettes",
+    "a": "Fiberoptic endoscopy; diagnosis is exposure to drain cleaner."
+   }
+  ]
+ },
+ {
+  "front": "16F with long history of depression on a new medication, large pupils, dry skin and QT changes on ECG. Treatment and mechanism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2805",
+    "category": "Peds vignettes",
+    "a": "Sodium bicarbonate; treatment for TCA toxicity. It causes dissociation of the TCA from myocardial sodium channels. TCA is basic, not acidic (in contrast to salicylates), so bicarb actually decreases urinary excretion, but the mechanism as an antidote is different. TCAs cause CCC: coma, convulsions, cardiotoxicity, plus anticholinergic, anti-alpha-1-adrenergic and anti-H1-histaminergic side effects."
+   }
+  ]
+ },
+ {
+  "front": "Pregnant woman with new dyspnea in the 2nd trimester and a diastolic murmur?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0041",
+    "category": "IM Cardio",
+    "a": "Mitral stenosis becomes symptomatic from the 50% rise in plasma volume by the 2nd trimester. Do not confuse with severe dyspnea and edema in the late third trimester, which is peripartum cardiomyopathy (antibody-mediated)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0039",
+    "category": "Surg Cardio",
+    "a": "Mitral stenosis becomes symptomatic from the 50% rise in plasma volume by the 2nd trimester. Do not confuse with severe dyspnea and edema in the late third trimester, which is peripartum cardiomyopathy (antibody-mediated)."
+   }
+  ]
+ },
+ {
+  "front": "Open PDA masking cyanosis, and a week-old cyanotic baby with normal APGARs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0069",
+    "category": "IM Cardio",
+    "a": "An open PDA can mask cyanosis in conditions such as hypoplastic left heart syndrome or pre-ductal coarctation. A kid with normal APGARs who becomes cyanotic a week later: closure of the ductus arteriosus."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0070",
+    "category": "Surg Cardio",
+    "a": "An open PDA can mask cyanosis in conditions such as hypoplastic left heart syndrome or pre-ductal coarctation. A kid with normal APGARs who becomes cyanotic a week later: closure of the ductus arteriosus."
+   }
+  ]
+ },
+ {
+  "front": "Post-term neonate (42-43 weeks) with meconium-stained fluid and an echo showing R to L shunt across the foramen ovale?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0077",
+    "category": "IM Cardio",
+    "a": "Persistent fetal circulation (persistent pulmonary hypertension): the answer is failure of pulmonary vasodilation. Meconium aspiration can decrease opening of the lung vasculature, increasing right heart pressure and risk."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0079",
+    "category": "Surg Cardio",
+    "a": "Persistent fetal circulation (persistent pulmonary hypertension): the answer is failure of pulmonary vasodilation. Meconium aspiration can decrease opening of the lung vasculature, increasing right heart pressure and risk."
+   }
+  ]
+ },
+ {
+  "front": "Stroke, TIA or retinal artery occlusion in a hypertensive patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0096",
+    "category": "IM Cardio",
+    "a": "A plaque from one of the carotids has launched off; HTN increases risk."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0095",
+    "category": "Surg Cardio",
+    "a": "A plaque from one of the carotids has launched off; HTN increases risk."
+   }
+  ]
+ },
+ {
+  "front": "Patient after a motor vehicle accident with widening of the mediastinum, next best step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0115",
+    "category": "IM Cardio",
+    "a": "Aortic angiography (aortography) OR CT angiography. A new 2CK form has 'CT scan of the chest' as the answer, meaning CT angiography. NBME/USMLE will not force a choice between aortography and CTA."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0110",
+    "category": "Surg Cardio",
+    "a": "Aortic angiography (aortography) OR CT angiography. A new 2CK form has 'CT scan of the chest' as the answer, meaning CT angiography. NBME/USMLE will not force a choice between aortography and CTA."
+   }
+  ]
+ },
+ {
+  "front": "Labetalol in a patient with low BP from rupture or dissection?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0117",
+    "category": "IM Cardio",
+    "a": "Still the NBME answer: the drug decreases shearing forces, even with low BP. Do not reject it because of low BP."
+   }
+  ]
+ },
+ {
+  "front": "Perioperative MI risk in a 6-cm AAA patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0123",
+    "category": "IM Cardio",
+    "a": "Assess with a pre-op stress test. 2CK NBME Q: dipyridamole and thallium pharmacologic stress test."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0118",
+    "category": "Surg Cardio",
+    "a": "Assess with a pre-op stress test. 2CK NBME Q: dipyridamole and thallium pharmacologic stress test."
+   }
+  ]
+ },
+ {
+  "front": "Pulsatile hematoma in the neck of a trauma patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0126",
+    "category": "IM Cardio",
+    "a": "2CK loves this; the answer is endotracheal intubation."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0121",
+    "category": "Surg Cardio",
+    "a": "2CK loves this; the answer is endotracheal intubation."
+   }
+  ]
+ },
+ {
+  "front": "45-year-old man with nosebleeds since adolescence, S3 and dyspnea, with a tongue picture (NBME): cause of dyspnea?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0133",
+    "category": "IM Cardio",
+    "a": "Pulmonary arteriovenous fistula, leading to high-output failure; the diagnosis is hereditary hemorrhagic telangiectasia. USMLE almost always shows red dots on the tongue/mouth or finger in a patient with nosebleeds."
+   }
+  ]
+ },
+ {
+  "front": "75-year-old with a TIA, normal BP and a sinus-rhythm ECG: next best step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0138",
+    "category": "IM Cardio",
+    "a": "Holter monitor (24-hour ambulatory ECG) to pick up paroxysmal AF, which comes and goes."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0132",
+    "category": "Surg Cardio",
+    "a": "Holter monitor (24-hour ambulatory ECG) to pick up paroxysmal AF, which comes and goes."
+   }
+  ]
+ },
+ {
+  "front": "Severe leg pain with absent pulses in a patient with irregularly irregular rhythm?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0141",
+    "category": "IM Cardio",
+    "a": "Acute limb ischemia (embolus from AF); USMLE wants embolectomy."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0135",
+    "category": "Surg Cardio",
+    "a": "Acute limb ischemia (embolus from AF); USMLE wants embolectomy."
+   }
+  ]
+ },
+ {
+  "front": "Stroke-like presentation in a patient with MI weeks ago?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0162",
+    "category": "IM Cardio",
+    "a": "Embolus from ventricular septal aneurysm (on a 2CK form)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0155",
+    "category": "Surg Cardio",
+    "a": "Embolus from ventricular septal aneurysm (on a 2CK form)."
+   }
+  ]
+ },
+ {
+  "front": "22-year-old man with chest pain after heavy partying and diffuse ST elevations?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0176",
+    "category": "IM Cardio",
+    "a": "Cocaine-related pericarditis."
+   }
+  ]
+ },
+ {
+  "front": "Patient over 50 with cardiovascular risk factors and accelerated HTN?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0230",
+    "category": "IM Cardio",
+    "a": "Renal artery stenosis from atherosclerosis."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0661",
+    "category": "Surg Renal",
+    "a": "Renal artery stenosis from atherosclerosis."
+   }
+  ]
+ },
+ {
+  "front": "Heart failure patient with low O2 sats who refuses to lie back?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0355",
+    "category": "IM Cardio",
+    "a": "Furosemide. CXR or exam may show fluid 2/3 up the lung fields. Do not confuse with ACEi/ARB: those are first line to increase EF in heart failure even if O2 sats are low (decrease AT-II constriction, decrease afterload), but loops are first-line if the vignette emphasizes dyspnea and low O2 sats."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0754",
+    "category": "Surg Renal",
+    "a": "Furosemide. CXR or exam may show fluid 2/3 up the lung fields. Do not confuse with ACEi/ARB: those are first line to increase EF in heart failure even if O2 sats are low (decrease AT-II constriction, decrease afterload), but loops are first-line if the vignette emphasizes dyspnea and low O2 sats."
+   }
+  ]
+ },
+ {
+  "front": "Healthy 70-year-old versus 20-year-old lung volumes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0412",
+    "category": "IM Pulmonary",
+    "a": "Lifetime inhalation of particulates (even a non-smoker living in a city) causes an accreted effect akin to very slow-onset COPD; select arrows consistent with obstructive lung disease for the 70-year-old."
+   }
+  ]
+ },
+ {
+  "front": "Spirometry curve in a 34-year-old with no family history and a 5-year smoking history (figure)?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0414",
+    "category": "IM Pulmonary",
+    "a": "A scooped-out/concave curve means obstructive; when guessing between COPD and asthma in a young patient, choose asthma over COPD."
+   }
+  ]
+ },
+ {
+  "front": "Ventilator patient with increased pCO2?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0435",
+    "category": "IM Pulmonary",
+    "a": "Choose normal A-a gradient: the arterial pO2 is low because of insufficient respirations."
+   }
+  ]
+ },
+ {
+  "front": "CF and the male reproductive tract?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0528",
+    "category": "IM Pulmonary",
+    "a": "Congenital bilateral absence of vas deferens (CBAVD), leading to absent sperm in a sample."
+   }
+  ]
+ },
+ {
+  "front": "PE in a patient already on warfarin?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0557",
+    "category": "IM Pulmonary",
+    "a": "First get CT to diagnose, then IVC filter. Do not choose IVC filter before confirming PE with CT."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0440",
+    "category": "Surg Pulmonary",
+    "a": "First get CT to diagnose, then IVC filter. Do not choose IVC filter before confirming PE with CT."
+   }
+  ]
+ },
+ {
+  "front": "Newborn pneumonia in the first days?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0612",
+    "category": "IM Pulmonary",
+    "a": "Group B Strep (S. agalactiae), gram-positive cocci. Gram-positive rods = Listeria; gram-negative rods = E. coli."
+   }
+  ]
+ },
+ {
+  "front": "Management of the newborn with NRDS?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0701",
+    "category": "IM Pulmonary",
+    "a": "2CK: tactile stimulation first, then warming lights (HY sequence). Then exogenous surfactant and oxygen."
+   }
+  ]
+ },
+ {
+  "front": "Transient tachypnea of the newborn?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0702",
+    "category": "IM Pulmonary",
+    "a": "Sounds like NRDS but the kid is term (>37 weeks). Usually after C-section or fast vaginal delivery. Mechanism: not enough time for pulmonary lymphatics to clear amniotic fluid. CXR: 'fluid within fissure lines'."
+   },
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0417",
+    "category": "OB Neonatal Lung",
+    "a": "NRDS-like picture in a term neonate (>37 weeks), after C-section or fast vaginal delivery; pulmonary lymphatics have not cleared amniotic fluid and no birth-canal squeeze; CXR fluid in fissure lines."
+   }
+  ]
+ },
+ {
+  "front": "Rash after beta-lactam in a 12-year-old?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0717",
+    "category": "IM Pulmonary",
+    "a": "Beta-lactam allergy."
+   }
+  ]
+ },
+ {
+  "front": "Rash after beta-lactam in a 16-17-year-old who has been dating?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0718",
+    "category": "IM Pulmonary",
+    "a": "EBV mononucleosis; do a heterophile antibody (Monospot) test."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1289",
+    "category": "Surg Heme/Onc",
+    "a": "EBV mononucleosis; do a heterophile antibody (Monospot) test."
+   }
+  ]
+ },
+ {
+  "front": "Hypertension in a neonate after umbilical artery catheterization?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0847",
+    "category": "IM Renal",
+    "a": "Renal artery thrombosis. USMLE wants 'increased renin, increased aldosterone'. A 2CK NBME question: a child born at 26 weeks, umbilical artery catheter for BP monitoring during pneumonia, 3 weeks later BP 128/86; answer is increased renin, increased aldosterone."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0681",
+    "category": "Surg Renal",
+    "a": "Renal artery thrombosis. USMLE wants 'increased renin, increased aldosterone'. A 2CK NBME question: a child born at 26 weeks, umbilical artery catheter for BP monitoring during pneumonia, 3 weeks later BP 128/86; answer is increased renin, increased aldosterone."
+   }
+  ]
+ },
+ {
+  "front": "Old man with high creatinine and BPH?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0905",
+    "category": "IM Renal",
+    "a": "Post-renal azotemia. Next best step is insertion of a catheter to relieve obstruction (if not listed, measurement of post-void volume). Then treat BPH with finasteride (5-alpha-reductase inhibitor) or an alpha-1 blocker (tamsulosin, terazosin)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0730",
+    "category": "Surg Renal",
+    "a": "Post-renal azotemia. Next best step is insertion of a catheter to relieve obstruction (if not listed, measurement of post-void volume). Then treat BPH with finasteride (5-alpha-reductase inhibitor) or an alpha-1 blocker (tamsulosin, terazosin)."
+   }
+  ]
+ },
+ {
+  "front": "Lip lesions in a young child?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0965",
+    "category": "IM Gastro",
+    "a": "Usually impetigo caused by S. aureus or Group A Strep (S. pyogenes). Can lead to PSGN if caused by Strep."
+   }
+  ]
+ },
+ {
+  "front": "Odynophagia in an immunocompromised patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0984",
+    "category": "IM Gastro",
+    "a": "Candidal esophagitis until proven otherwise."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-3937",
+    "category": "IM Mixed",
+    "a": "Esophageal candidiasis till proven otherwise."
+   }
+  ]
+ },
+ {
+  "front": "Older male with duodenal ulcer and no other info: most likely cause?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1049",
+    "category": "IM Gastro",
+    "a": "Testing for H. pylori (NBME). Gastrinoma is wrong because H. pylori is more common (>95% of duodenal ulcers per the source)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0825",
+    "category": "Surg Gastro",
+    "a": "Testing for H. pylori (NBME). Gastrinoma is wrong because H. pylori is more common (>95% of duodenal ulcers per the source)."
+   }
+  ]
+ },
+ {
+  "front": "Normal newborn hematocrit?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1066",
+    "category": "IM Gastro",
+    "a": "Source: Hct can be in the 50s in the first month (NR 45-61; adults 40-50). 2CK often shows a newborn Hct of 56%, which is normal, not polycythemia. Neonatal unconjugated jaundice can occur from increased RBC turnover as HbF is replaced by HbA."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0840",
+    "category": "Surg Gastro",
+    "a": "Source: Hct can be in the 50s in the first month (NR 45-61; adults 40-50). 2CK often shows a newborn Hct of 56%, which is normal, not polycythemia. Neonatal unconjugated jaundice can occur from increased RBC turnover as HbF is replaced by HbA."
+   }
+  ]
+ },
+ {
+  "front": "Polyp picture in a 65-year-old?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1168",
+    "category": "IM Gastro",
+    "a": "Answer: 'tubular polyp.' Wrong answers are hamartomatous, juvenile, hyperplastic; eliminate without needing the image. Patients with dysplastic polyps need repeat colonoscopy every 2-5 years by size/morphology."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0955",
+    "category": "Surg Gastro",
+    "a": "Answer: 'tubular polyp.' Wrong answers are hamartomatous, juvenile, hyperplastic; eliminate without needing the image. Patients with dysplastic polyps need repeat colonoscopy every 2-5 years by size/morphology."
+   }
+  ]
+ },
+ {
+  "front": "Newborn with unknown maternal HepB status?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1237",
+    "category": "IM Gastro",
+    "a": "2CK NBME: give HepB vaccine now, and give HBIG only if the mother is confirmed positive. Source says to give IVIG to neonate only if mom is confirmed (+)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1015",
+    "category": "Surg Gastro",
+    "a": "2CK NBME: give HepB vaccine now, and give HBIG only if the mother is confirmed positive. Source says to give IVIG to neonate only if mom is confirmed (+)."
+   }
+  ]
+ },
+ {
+  "front": "Microcytic anemia in a 32-year-old woman, next step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1351",
+    "category": "IM Heme/Onc",
+    "a": "Check serum iron and ferritin. Thalassemia is often misdiagnosed as IDA; if iron and ferritin are normal, it's thalassemia and next best step is hemoglobin electrophoresis. Most IDA is in menstruating women even when menses are not heavy (2CK says so explicitly, Dx is still IDA)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1127",
+    "category": "Surg Heme/Onc",
+    "a": "Check serum iron and ferritin. Thalassemia is often misdiagnosed as IDA; if iron and ferritin are normal, it's thalassemia and next best step is hemoglobin electrophoresis. Most IDA is in menstruating women even when menses are not heavy (2CK says so explicitly, Dx is still IDA)."
+   }
+  ]
+ },
+ {
+  "front": "Pregnant woman with microcytic anemia given iron for 3 weeks with no improvement?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1352",
+    "category": "IM Heme/Onc",
+    "a": "Thalassemia (microcytic anemia despite iron supplementation means iron and ferritin are normal). Next best step: hemoglobin electrophoresis."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1128",
+    "category": "Surg Heme/Onc",
+    "a": "Thalassemia (microcytic anemia despite iron supplementation means iron and ferritin are normal). Next best step: hemoglobin electrophoresis."
+   }
+  ]
+ },
+ {
+  "front": "Sick child with thalassemia: facial and organ findings?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1362",
+    "category": "IM Heme/Onc",
+    "a": "Chipmunk facies/skull and hepatosplenomegaly, due to increased extramedullary hematopoiesis."
+   }
+  ]
+ },
+ {
+  "front": "VWD vignette: 17-year-old girl?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1402",
+    "category": "IM Heme/Onc",
+    "a": "Nosebleeds plus heavy periods, or bruising plus history of excessive bleeding with tooth extraction: one platelet problem plus one clotting factor problem. About 8/10 vWD questions."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1174",
+    "category": "Surg Heme/Onc",
+    "a": "Nosebleeds plus heavy periods, or bruising plus history of excessive bleeding with tooth extraction: one platelet problem plus one clotting factor problem. About 8/10 vWD questions."
+   }
+  ]
+ },
+ {
+  "front": "Vitamin K deficiency: neonate presentation?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1414",
+    "category": "IM Heme/Onc",
+    "a": "Bleeding from the umbilical stump, with or without retinal hemorrhages (can sound like shaken-baby syndrome, but umbilical stump bleeding is highly buzzy for vitamin K deficiency)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1186",
+    "category": "Surg Heme/Onc",
+    "a": "Bleeding from the umbilical stump, with or without retinal hemorrhages (can sound like shaken-baby syndrome, but umbilical stump bleeding is highly buzzy for vitamin K deficiency)."
+   }
+  ]
+ },
+ {
+  "front": "Stroke-like presentation in a young woman?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1426",
+    "category": "IM Heme/Onc",
+    "a": "TTP; they just want 'schistocytes' as the answer (Step 1 NBME)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1195",
+    "category": "Surg Heme/Onc",
+    "a": "TTP; they just want 'schistocytes' as the answer (Step 1 NBME)."
+   }
+  ]
+ },
+ {
+  "front": "RLQ pain plus low Hb in a child from Libya?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1432",
+    "category": "IM Heme/Onc",
+    "a": "New 2CK form: 'blood smear' is the answer to confirm the diagnosis (sickle cell crisis). Tricky because it sounds like appendicitis."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1200",
+    "category": "Surg Heme/Onc",
+    "a": "New 2CK form: 'blood smear' is the answer to confirm the diagnosis (sickle cell crisis). Tricky because it sounds like appendicitis."
+   }
+  ]
+ },
+ {
+  "front": "Child with low Hb and a parent who had splenectomy +/- cholecystectomy for 'an anemia'?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1491",
+    "category": "IM Heme/Onc",
+    "a": "Hereditary spherocytosis (autosomal dominant pattern, with the parent also affected)."
+   }
+  ]
+ },
+ {
+  "front": "Child with recent viral infection, low Hb, spherocytes and positive Coombs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1496",
+    "category": "IM Heme/Onc",
+    "a": "Hemolytic anemia, not hereditary spherocytosis (answer 'no specific mutation')."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1251",
+    "category": "Surg Heme/Onc",
+    "a": "Hemolytic anemia, not hereditary spherocytosis (answer 'no specific mutation')."
+   }
+  ]
+ },
+ {
+  "front": "70-year-old with WBCs 87,000/uL (90% lymphocytes): next best step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1511",
+    "category": "IM Heme/Onc",
+    "a": "Quantitative immunoglobulin assay, which can sometimes show increased monoclonal immunoglobulin in CLL (an NBME answer)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1262",
+    "category": "Surg Heme/Onc",
+    "a": "Quantitative immunoglobulin assay, which can sometimes show increased monoclonal immunoglobulin in CLL (an NBME answer)."
+   }
+  ]
+ },
+ {
+  "front": "Child with skull lytic lesion and a histology image of large irregular cells?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1570",
+    "category": "IM Heme/Onc",
+    "a": "LCH. Langerhans cells appear as large, irregularly shaped cells with copious eosinophilic cytoplasm and characteristic horseshoe- or kidney-shaped nuclei (shown on a difficult NBME question without Birbeck granules)."
+   }
+  ]
+ },
+ {
+  "front": "Elderly woman found at home in summer, 106 F, acanthocytes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1574",
+    "category": "IM Heme/Onc",
+    "a": "Liver failure (due to heat stroke)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1297",
+    "category": "Surg Heme/Onc",
+    "a": "Liver failure (due to heat stroke)."
+   }
+  ]
+ },
+ {
+  "front": "Acanthocytes in a hepatitis C patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1575",
+    "category": "IM Heme/Onc",
+    "a": "One NBME question includes them (not critical to the answer), so acanthocytes aren't only heat stroke."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1298",
+    "category": "Surg Heme/Onc",
+    "a": "One NBME question includes them (not critical to the answer), so acanthocytes aren't only heat stroke."
+   }
+  ]
+ },
+ {
+  "front": "Mechanism of Rh hemolytic disease of the newborn?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1617",
+    "category": "IM Heme/Onc",
+    "a": "Rh(-) mom in first pregnancy is exposed to Rh(+) fetal blood and makes antibodies; in a subsequent pregnancy, IgG crosses the placenta and targets fetal Rh(+) RBCs, causing fetal hemolysis."
+   }
+  ]
+ },
+ {
+  "front": "Rh(-) woman in a later pregnancy already has anti-Rh titers: RhoGAM?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1619",
+    "category": "IM Heme/Onc",
+    "a": "Do not give RhoGAM during the pregnancy, since it's too late."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1515",
+    "category": "Surg Repro/Obgyn",
+    "a": "Do not give RhoGAM during the pregnancy, since it's too late."
+   }
+  ]
+ },
+ {
+  "front": "A+/B+/AB+ mother, second pregnancy with fetal hemolysis, neither ABO nor Rh?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1625",
+    "category": "IM Heme/Onc",
+    "a": "Kell, Duffy or Kidd type HDN."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1520",
+    "category": "Surg Repro/Obgyn",
+    "a": "Kell, Duffy or Kidd type HDN."
+   }
+  ]
+ },
+ {
+  "front": "2CK form: elderly man received 3 packs of RBCs, bilateral crackles and low O2 sats 12 hours after admission?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1640",
+    "category": "IM Heme/Onc",
+    "a": "Next best step: chest X-ray. The explanation says TACO, but the question doesn't rely on telling TACO from TRALI."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1330",
+    "category": "Surg Heme/Onc",
+    "a": "Next best step: chest X-ray. The explanation says TACO, but the question doesn't rely on telling TACO from TRALI."
+   }
+  ]
+ },
+ {
+  "front": "72-year-old with MI 10 years ago, SOB and crackles 30 minutes after crystalloid and 4 packs of RBCs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1641",
+    "category": "IM Heme/Onc",
+    "a": "TACO (heart disease history with repeated blood products)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1331",
+    "category": "Surg Heme/Onc",
+    "a": "TACO (heart disease history with repeated blood products)."
+   }
+  ]
+ },
+ {
+  "front": "Vignette: overweight perimenopausal woman with mid-cycle bleeding, or postmenopausal woman with any bleeding?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1766",
+    "category": "IM Repro/Obgyn",
+    "a": "Endometrial biopsy. High BMI hints at past anovulation/PCOS with unopposed estrogen."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1418",
+    "category": "Surg Repro/Obgyn",
+    "a": "Endometrial biopsy. High BMI hints at past anovulation/PCOS with unopposed estrogen."
+   }
+  ]
+ },
+ {
+  "front": "Child with foul-smelling vaginal discharge, no trauma signs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1781",
+    "category": "IM Repro/Obgyn",
+    "a": "Vaginal foreign body (means not abuse). Can occur in children or elderly (both seen on NBME)."
+   }
+  ]
+ },
+ {
+  "front": "NBME: woman started HRT 3 months ago, now has a simple cyst?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1828",
+    "category": "IM Repro/Obgyn",
+    "a": "Biopsy of the lesion; sudden growth in size can be an indication for biopsy."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1469",
+    "category": "Surg Repro/Obgyn",
+    "a": "Biopsy of the lesion; sudden growth in size can be an indication for biopsy."
+   }
+  ]
+ },
+ {
+  "front": "NBME: gynecomastia in a male taking hCG, mechanism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1839",
+    "category": "IM Repro/Obgyn",
+    "a": "'Testis producing estrogen' (or 'estrogen; direct effect on breast'). hCG shares the alpha subunit with LH, FSH and TSH, so it acts like LH + FSH: LH raises androgens, FSH raises aromatase, so testicular androgens convert to estrogens."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1483",
+    "category": "Surg Repro/Obgyn",
+    "a": "'Testis producing estrogen' (or 'estrogen; direct effect on breast'). hCG shares the alpha subunit with LH, FSH and TSH, so it acts like LH + FSH: LH raises androgens, FSH raises aromatase, so testicular androgens convert to estrogens."
+   }
+  ]
+ },
+ {
+  "front": "Prostate cancer vignette: man over 50, sudden leg neurologic symptoms, two blastic spine lesions on MRI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1857",
+    "category": "IM Repro/Obgyn",
+    "a": "Spinal metastases. With neuro symptoms, give IV methylprednisolone; with no neuro symptoms and just vertebral blastic lesions, the answer is radiotherapy (distractors like morphine + corticosteroids are wrong)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1497",
+    "category": "Surg Repro/Obgyn",
+    "a": "Spinal metastases. With neuro symptoms, give IV methylprednisolone; with no neuro symptoms and just vertebral blastic lesions, the answer is radiotherapy (distractors like morphine + corticosteroids are wrong)."
+   }
+  ]
+ },
+ {
+  "front": "Old man with high creatinine?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1863",
+    "category": "IM Repro/Obgyn",
+    "a": "BPH until proven otherwise."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1503",
+    "category": "Surg Repro/Obgyn",
+    "a": "BPH until proven otherwise."
+   }
+  ]
+ },
+ {
+  "front": "NBME: older man with high creatinine?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1866",
+    "category": "IM Repro/Obgyn",
+    "a": "The answer can be just 'discontinue anticholinergic meds,' or 'discontinue the diphenhydramine.'"
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1505",
+    "category": "Surg Repro/Obgyn",
+    "a": "The answer can be just 'discontinue anticholinergic meds,' or 'discontinue the diphenhydramine.'"
+   }
+  ]
+ },
+ {
+  "front": "Asymptomatic patient whose partner tested positive for gonorrhea or Chlamydia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1883",
+    "category": "IM Repro/Obgyn",
+    "a": "2CK: give treatment without waiting for test results."
+   }
+  ]
+ },
+ {
+  "front": "Confirming Parvo in a neonate?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1921",
+    "category": "IM Repro/Obgyn",
+    "a": "Check Parvo IgM titers in the neonate."
+   }
+  ]
+ },
+ {
+  "front": "Neonate exposed to active varicella?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1924",
+    "category": "IM Repro/Obgyn",
+    "a": "If the mother previously had chickenpox or was vaccinated, VZV IVIG isn't needed (transplacental IgG gives passive immunity)."
+   }
+  ]
+ },
+ {
+  "front": "Rubella in the mother without rash?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1927",
+    "category": "IM Repro/Obgyn",
+    "a": "The stem can say she had only arthritis; adults sometimes get only arthritis with rubella or measles."
+   }
+  ]
+ },
+ {
+  "front": "Vaginal HSV1/2 in the mother?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1932",
+    "category": "IM Repro/Obgyn",
+    "a": "Vertical transmission raises the risk of neonatal encephalitis."
+   }
+  ]
+ },
+ {
+  "front": "Pregnant woman with HSV prodromal symptoms but no visible lesions?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1933",
+    "category": "IM Repro/Obgyn",
+    "a": "C-section is still recommended."
+   }
+  ]
+ },
+ {
+  "front": "Pregnant woman with predictable vesicular episodes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1934",
+    "category": "IM Repro/Obgyn",
+    "a": "Acyclovir is often given within 4-6 weeks of parturition to decrease the risk of a peripartum episode."
+   }
+  ]
+ },
+ {
+  "front": "First event in a pre-pubescent female?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1951",
+    "category": "IM Repro/Obgyn",
+    "a": "Breast bud development (thelarche)."
+   }
+  ]
+ },
+ {
+  "front": "CAH mechanism on 2CK NBME (46XX neonatal girl with fused labia)?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1983",
+    "category": "IM Repro/Obgyn",
+    "a": "ACTH hypersecretion: adrenal androgens (DHEA-S in particular) rise because cortisol is low, so ACTH rises to compensate."
+   }
+  ]
+ },
+ {
+  "front": "High-BMI female with irregular periods?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2065",
+    "category": "IM Repro/Obgyn",
+    "a": "Anovulation until proven otherwise. Anovulation plus hirsutism = PCOS."
+   }
+  ]
+ },
+ {
+  "front": "High-BMI postmenopausal woman with vaginal bleeding?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2068",
+    "category": "IM Repro/Obgyn",
+    "a": "Endometrial biopsy. Overweight implies past anovulatory cycles and hyperplasia, raising endometrial cancer risk."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1555",
+    "category": "Surg Repro/Obgyn",
+    "a": "Endometrial biopsy. Overweight implies past anovulatory cycles and hyperplasia, raising endometrial cancer risk."
+   }
+  ]
+ },
+ {
+  "front": "23F with severe period pain: normal versus abnormal exam?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2081",
+    "category": "IM Repro/Obgyn",
+    "a": "Normal exam: primary dysmenorrhea / prostaglandin secretion. Uterosacral nodularity: endometriosis."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1567",
+    "category": "Surg Repro/Obgyn",
+    "a": "Normal exam: primary dysmenorrhea / prostaglandin secretion. Uterosacral nodularity: endometriosis."
+   }
+  ]
+ },
+ {
+  "front": "Woman who forgets contraception, needs reliability, STI in past 3 months?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2126",
+    "category": "IM Repro/Obgyn",
+    "a": "Implantable rod: the 2CK answer, because the source says an IUD is contraindicated if STI within the past 3 months."
+   }
+  ]
+ },
+ {
+  "front": "Mongolian spot vs child abuse?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2264",
+    "category": "IM Derm",
+    "a": "Often mistaken for child abuse. Schedule routine follow-up; the wrong answer is contacting child protective services."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1602",
+    "category": "Surg Derm",
+    "a": "Often mistaken for child abuse. Schedule routine follow-up; the wrong answer is contacting child protective services."
+   }
+  ]
+ },
+ {
+  "front": "Patient has both AF and HTN: most important stroke risk factor?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2298",
+    "category": "IM Neuro",
+    "a": "AF. Even though HTN is the most common risk factor in the population, AF is still more likely to cause stroke if the patient has both."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1616",
+    "category": "Surg Neuro",
+    "a": "AF. Even though HTN is the most common risk factor in the population, AF is still more likely to cause stroke if the patient has both."
+   }
+  ]
+ },
+ {
+  "front": "Child abuse findings?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2845",
+    "category": "IM Psych",
+    "a": "Spiral fractures (twisting force), posterior rib fractures (squeezing), circular burns (cigarettes), burns sparing the flexor regions (dipped in hot water; child flexes limbs), retinal detachment/hemorrhages, subdural hematoma (shaken baby syndrome)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1921",
+    "category": "Surg Psych",
+    "a": "Spiral fractures (twisting force), posterior rib fractures (squeezing), circular burns (cigarettes), burns sparing the flexor regions (dipped in hot water; child flexes limbs), retinal detachment/hemorrhages, subdural hematoma (shaken baby syndrome)."
+   }
+  ]
+ },
+ {
+  "front": "Avoidance of eye contact (child abuse list continued)?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2846",
+    "category": "IM Psych",
+    "a": "The last bullet of the child abuse list: avoidance of eye contact. The source adds that if the history mentions meningitis, think neurosensory hearing loss instead."
+   }
+  ]
+ },
+ {
+  "front": "Child <5 years + watery diarrhea?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3781",
+    "category": "IM Mixed",
+    "a": "Rotavirus."
+   }
+  ]
+ },
+ {
+  "front": "Bloody diarrhea + appendicitis-like pain (pseudoappendicitis) in a child?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3783",
+    "category": "IM Mixed",
+    "a": "Yersinia enterocolitica."
+   }
+  ]
+ },
+ {
+  "front": "PE in a pregnant woman?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3804",
+    "category": "IM Mixed",
+    "a": "V/Q scan, not CT."
+   }
+  ]
+ },
+ {
+  "front": "Waiter tip position in a child?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3835",
+    "category": "IM Mixed",
+    "a": "Upper brachial plexus injury (C5/6): Erb-Duchenne palsy."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2018",
+    "category": "Surg MSK",
+    "a": "Upper brachial plexus injury (C5/6): Erb-Duchenne palsy."
+   }
+  ]
+ },
+ {
+  "front": "Back pain worse in the morning, better through the day, male 20s-40s?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3847",
+    "category": "IM Mixed",
+    "a": "Ankylosing spondylitis. Bamboo spine: ankylosing spondylitis. Diagnosis: x-ray of the sacroiliac joints."
+   }
+  ]
+ },
+ {
+  "front": "Bilateral arm paresthesias in a rheumatoid arthritis patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3850",
+    "category": "IM Mixed",
+    "a": "Atlantoaxial subluxation; MR of the spine to diagnose. Before surgery in an RA patient: cervical CT or flexion/extension x-rays of the cervical spine to check for it."
+   }
+  ]
+ },
+ {
+  "front": "Back pain in an elderly patient with hypercalcemia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3851",
+    "category": "IM Mixed",
+    "a": "Multiple myeloma or metastases. Back pain with a history of another cancer: metastases. Suspected spinal mets: MRI."
+   }
+  ]
+ },
+ {
+  "front": "Heart problem in a neonate of a mom with SLE?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3868",
+    "category": "IM Mixed",
+    "a": "Congenital third-degree heart block."
+   }
+  ]
+ },
+ {
+  "front": "Child with high lymphocytes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3909",
+    "category": "IM Mixed",
+    "a": "ALL or pertussis (weird because bacterial, but lymphocytes are often >30k)."
+   }
+  ]
+ },
+ {
+  "front": "Young African American woman + dry cough?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3911",
+    "category": "IM Mixed",
+    "a": "Normal CXR: asthma (mast cell activation), not sarcoidosis. Nodularity on CXR: sarcoidosis (noncaseating granulomas)."
+   }
+  ]
+ },
+ {
+  "front": "Child with asthma on a SABA that isn't effective?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3915",
+    "category": "IM Mixed",
+    "a": "Next best step: ICS (fluticasone). Most effective way to decrease recurrence: oral steroids (not the next best step, but the most effective)."
+   }
+  ]
+ },
+ {
+  "front": "40s male + hematuria + hemoptysis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3916",
+    "category": "IM Mixed",
+    "a": "Goodpasture syndrome. Antibodies: anti-GBM (anti-collagen IV). Diagnosis: antibodies first, confirmed by renal biopsy with linear immunofluorescence."
+   }
+  ]
+ },
+ {
+  "front": "Teenage girl with cutaneous candida infections since childhood?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3928",
+    "category": "IM Mixed",
+    "a": "Chronic mucocutaneous candidiasis; the answer is T cell dysfunction (impaired cell-mediated immunity)."
+   }
+  ]
+ },
+ {
+  "front": "High BMI female + irregular cycles?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3969",
+    "category": "IM Mixed",
+    "a": "Anovulation; with hirsutism: PCOS. The cause USMLE wants: insulin resistance, causing abnormal GnRH pulsation."
+   }
+  ]
+ },
+ {
+  "front": "32M with dark forearm skin + high fasting glucose?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3979",
+    "category": "IM Mixed",
+    "a": "Hemochromatosis (bronze diabetes). With painful hands and x-ray showing DIP involvement: pseudogout (per the source)."
+   }
+  ]
+ },
+ {
+  "front": "Cups of foul-smelling sputum in a COPD, TB, or CF patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4033",
+    "category": "IM Mixed",
+    "a": "Bronchiectasis (continues on p395)."
+   }
+  ]
+ },
+ {
+  "front": "Young child + scant white sputum + linear opacity in the right middle lobe on CXR?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4035",
+    "category": "IM Mixed",
+    "a": "Bronchiectasis caused by right middle lobe syndrome (the source says it is on a pediatric 2CK form and is the first bronchiectasis question without copious foul sputum)."
+   }
+  ]
+ },
+ {
+  "front": "Nodular density in an upper lobe in an immunocompromised patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4051",
+    "category": "IM Mixed",
+    "a": "Aspergilloma; the source says next best step is open lung biopsy (its NBME answer), treat with an -azole; invasive aspergillosis can be treated with caspofungin or voriconazole."
+   }
+  ]
+ },
+ {
+  "front": "22M, three bacterial pneumonias, atopy, now sore left cheek?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4052",
+    "category": "IM Mixed",
+    "a": "IgA deficiency. The sore cheek is sinusitis; IgA deficiency is recurrent mild sinopulmonary infections in a not-so-young patient (unlike SCID or Bruton). Can come with autoimmune phenomena (atopy, vitiligo) and giardiasis. With celiac disease, IgA anti-tTG cannot be measured reliably. Anaphylaxis after transfusion is HY but rarely tested."
+   }
+  ]
+ },
+ {
+  "front": "17F, 1 year autoimmune thyroiditis, 2 years type I DM, Candidal infections since childhood?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4054",
+    "category": "IM Mixed",
+    "a": "Chronic mucocutaneous candidiasis. The Candida cannot be from diabetes (present since childhood). USMLE pairs autoimmune conditions with each other and with immunodeficiencies (CMC and IgA deficiency have autoimmune features)."
+   }
+  ]
+ },
+ {
+  "front": "36M with long-bone fractures + petechiae on the chest?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4057",
+    "category": "IM Mixed",
+    "a": "Fat embolism."
+   }
+  ]
+ },
+ {
+  "front": "Adult male + abdominal pain + alcohol use + diffuse pulmonary infiltrates + low O2 sats?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4065",
+    "category": "IM Mixed",
+    "a": "ARDS."
+   }
+  ]
+ },
+ {
+  "front": "Thyroid dysfunction in a ventilated patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4070",
+    "category": "IM Mixed",
+    "a": "Euthyroid sick syndrome: normal TSH, normal T4, low T3, high reverse T3 (the source says cortisol decreases peripheral T4-to-T3 conversion, shunting to reverse T3)."
+   }
+  ]
+ },
+ {
+  "front": "25F + intermittent bloody diarrhea for 3 months + intermittent fever + weight loss?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4072",
+    "category": "IM Mixed",
+    "a": "IBD (Crohn or UC)."
+   }
+  ]
+ },
+ {
+  "front": "52M + abdominal mass + weight loss + biopsy with lymphocytes and interspersed macrophages?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4105",
+    "category": "IM Mixed",
+    "a": "Burkitt lymphoma. The source says in Western countries it is usually intra-abdominal, and newer African studies show a growing share of intra-abdominal Burkitt."
+   }
+  ]
+ },
+ {
+  "front": "17F, painless lateral neck mass + mediastinal mass?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4120",
+    "category": "IM Mixed",
+    "a": "Hodgkin lymphoma."
+   }
+  ]
+ },
+ {
+  "front": "42M, painless lateral neck mass + hepatomegaly?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4121",
+    "category": "IM Mixed",
+    "a": "Hodgkin lymphoma."
+   }
+  ]
+ },
+ {
+  "front": "40M with Hodgkin lymphoma + renal condition?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4122",
+    "category": "IM Mixed",
+    "a": "Minimal change disease (a cytokine effect; the source says it was in UW 2CK)."
+   }
+  ]
+ },
+ {
+  "front": "12M with ongoing wheezing on an albuterol inhaler: next best step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4144",
+    "category": "IM Mixed",
+    "a": "Add low-dose ICS (continues on p402)."
+   }
+  ]
+ },
+ {
+  "front": "16M snowboards all day, takes a pain reliever, next day wheezes on the slopes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4150",
+    "category": "IM Mixed",
+    "a": "Aspirin-exacerbated respiratory disease (Samter triad): aspirin-induced asthma + aspirin hypersensitivity + nasal polyps. Other NSAIDs can precipitate it, but the literature and USMLE make it about aspirin."
+   }
+  ]
+ },
+ {
+  "front": "16M takes aspirin and wheezes: expected physical exam finding?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4151",
+    "category": "IM Mixed",
+    "a": "Nasal polyps."
+   }
+  ]
+ },
+ {
+  "front": "Kid with AERD: agent to decrease recurrence of symptoms (physician considering)?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4153",
+    "category": "IM Mixed",
+    "a": "Zileuton or a -lukast (both correct; only one will be listed)."
+   }
+  ]
+ },
+ {
+  "front": "Kid with AERD: agent most likely to decrease recurrence?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4154",
+    "category": "IM Mixed",
+    "a": "Oral steroids: the source says they are most effective for preventing asthma, but are not wanted because of side effects (Cushing syndrome); very HY on 2CK forms."
+   }
+  ]
+ },
+ {
+  "front": "12M acute asthma on O2, albuterol, IV steroids; at 30 minutes: low O2, normal CO2, normal pH, normal bicarb?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4161",
+    "category": "IM Mixed",
+    "a": "He is tiring (RR decreasing; low O2 should still drive hyperventilation). Answer: intubate. Initial low O2 + low CO2 is type I respiratory failure; it eventually inverts to respiratory acidosis with low O2, high CO2, low pH, normal bicarb (type II; continues on p404)."
+   }
+  ]
+ },
+ {
+  "front": "Pregnant woman, V/Q scan shows a segmental defect: next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4164",
+    "category": "IM Mixed",
+    "a": "Spiral CT (per the source and UW 2CK), even though CT is normally avoided in pregnancy."
+   }
+  ]
+ },
+ {
+  "front": "PE patient already on warfarin?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4165",
+    "category": "IM Mixed",
+    "a": "Do not give heparin; go straight to spiral CT."
+   }
+  ]
+ },
+ {
+  "front": "72M with 30 minutes of facial droop + arm weakness since waking from a nap?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4169",
+    "category": "IM Mixed",
+    "a": "Time since stroke = time since last known normal (before sleep); on USMLE this usually means do not give tPA."
+   }
+  ]
+ },
+ {
+  "front": "45F alcoholic + increased creatine kinase?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4171",
+    "category": "IM Mixed",
+    "a": "Rhabdomyolysis (increased risk in alcoholics)."
+   }
+  ]
+ },
+ {
+  "front": "82F fell at home; urine dipstick positive for blood, no RBCs on urine microscopy?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4172",
+    "category": "IM Mixed",
+    "a": "Rhabdomyolysis (myoglobinuria gives a false-positive dipstick blood)."
+   }
+  ]
+ },
+ {
+  "front": "82M with dribbling, hesitancy, interrupted stream, suprapubic mass (bladder), bacteria in urine?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4181",
+    "category": "IM Mixed",
+    "a": "Insert a catheter first, not antibiotics."
+   }
+  ]
+ },
+ {
+  "front": "25F with 6 weeks of dysuria + anterior vaginal wall pain + normal urinary findings?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4182",
+    "category": "IM Mixed",
+    "a": "Chronic interstitial cystitis (needs 6+ weeks of symptoms without findings). The source says anterior vaginal wall pain is on the OB/GYN NBME forms; a cystocele protrudes through the anterior superior vaginal wall, so the anatomic proximity explains it."
+   }
+  ]
+ },
+ {
+  "front": "40M hikes, linear vesicles on the calf days later?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4186",
+    "category": "IM Mixed",
+    "a": "Contact dermatitis (type IV hypersensitivity); linear vesicles = poison ivy/sumac."
+   }
+  ]
+ },
+ {
+  "front": "38F gardens a lot, rash on face, arms, backs of hands?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4187",
+    "category": "IM Mixed",
+    "a": "Contact dermatitis from sunscreen."
+   }
+  ]
+ },
+ {
+  "front": "Low bicarb in a dehydrated patient or any shock?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4203",
+    "category": "IM Mixed",
+    "a": "Lactic acidosis: decreased perfusion to vital organs, decreased O2 delivery, more anaerobic respiration, more lactic acid."
+   }
+  ]
+ },
+ {
+  "front": "Pregnant woman with low serum iron not improving with iron?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4210",
+    "category": "IM Mixed",
+    "a": "Hemoglobin electrophoresis; diagnosis thalassemia (usually alpha trait with one mutation, which is asymptomatic)."
+   }
+  ]
+ },
+ {
+  "front": "Adult male, factory work, cognitive decline, microcytic anemia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4213",
+    "category": "IM Mixed",
+    "a": "Lead poisoning: inhibits delta-ALA dehydratase and ferrochelatase; microcytic anemia is HY for lead; basophilic stippling of RBCs."
+   }
+  ]
+ },
+ {
+  "front": "12M with red urine 1-3 days after an URTI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4216",
+    "category": "IM Mixed",
+    "a": "IgA nephropathy, not PSGN; can also follow GI infections."
+   }
+  ]
+ },
+ {
+  "front": "12M red urine 1-2 weeks after URTI or skin infection?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4217",
+    "category": "IM Mixed",
+    "a": "PSGN (can follow Group A Strep skin infections)."
+   }
+  ]
+ },
+ {
+  "front": "6F red urine + abdominal pain + arthralgias + violaceous lesions on buttocks and thighs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4218",
+    "category": "IM Mixed",
+    "a": "Henoch-Schonlein purpura: tetrad of 1) IgA nephropathy (red urine), 2) palpable purpura, 3) arthralgias, 4) abdominal pain."
+   }
+  ]
+ },
+ {
+  "front": "23F unilateral resting tremor + hemolytic anemia + increased LFTs: next best step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4219",
+    "category": "IM Mixed",
+    "a": "Slit-lamp exam; diagnosis Wilson disease (parkinsonism in a young patient is Wilson until proven otherwise): low serum ceruloplasmin + increased urinary copper."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1043",
+    "category": "Surg Gastro",
+    "a": "Slit-lamp exam; diagnosis Wilson disease (parkinsonism in a young patient is Wilson until proven otherwise): low serum ceruloplasmin + increased urinary copper."
+   }
+  ]
+ },
+ {
+  "front": "Pink line tracking up the arm from the palm in a 35M with a recent burn?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4224",
+    "category": "IM Mixed",
+    "a": "Lymphangitis (sporotrichosis, which can spread lymphatically, is the wrong answer)."
+   }
+  ]
+ },
+ {
+  "front": "72F, radical mastectomy 25 years ago, hard raised purple lesions above the elbow?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4246",
+    "category": "IM Mixed",
+    "a": "Lymphangiosarcoma (Stewart-Treves syndrome): chronic lymphatic insufficiency, classically years after radical mastectomy (asked on the NBME)."
+   }
+  ]
+ },
+ {
+  "front": "Neonate + spongy 1-cm red lesion on the chest?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4247",
+    "category": "IM Mixed",
+    "a": "Strawberry hemangioma."
+   }
+  ]
+ },
+ {
+  "front": "Neonate + large vascular lesion on the leg + thrombocytopenia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4249",
+    "category": "IM Mixed",
+    "a": "Kasabach-Merritt syndrome (hemangioma with thrombocytopenia). The source says it is on the pediatric 2CK forms three times; it is not a strawberry hemangioma and needs surgical treatment."
+   }
+  ]
+ },
+ {
+  "front": "Kid with brown blood, mechanism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4253",
+    "category": "IM Mixed",
+    "a": "Deficiency of cytochrome b5 reductase (congenital methemoglobinemia), over distractors like 'upregulation of anti-proteinase 2'."
+   }
+  ]
+ },
+ {
+  "front": "22M with violaceous papules in a trigeminal distribution?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4254",
+    "category": "IM Mixed",
+    "a": "The source's answer: Sturge-Weber syndrome, which it says can present as cutaneous papules in a trigeminal nerve distribution (not only as a port-wine stain)."
+   }
+  ]
+ },
+ {
+  "front": "44M alcoholic in winter, red feet: electrolyte worry on rewarming?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4255",
+    "category": "IM Mixed",
+    "a": "Hyperkalemia. Alcoholics are susceptible to rhabdomyolysis; myoglobin is nephrotoxic and causes acute tubular necrosis (potassium rises). The bullet continues on p412."
+   }
+  ]
+ },
+ {
+  "front": "14M ataxia + cognitive decline over a few months?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4257",
+    "category": "IM Mixed",
+    "a": "Glue (inhalant) exposure, not alcohol: a kid that young would not get alcoholic cerebellar ataxia (an NBME item per the source)."
+   }
+  ]
+ },
+ {
+  "front": "16M found unconscious in a school bathroom, normal vitals, no eye findings, a little sluggish?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4258",
+    "category": "IM Mixed",
+    "a": "Butane (inhalant) toxicity, from 'dusters' / computer cleaner."
+   }
+  ]
+ },
+ {
+  "front": "47F varicose veins + painful palpable cord by the ankle?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4266",
+    "category": "IM Mixed",
+    "a": "Superficial thrombophlebitis: subcutaneous enoxaparin (not compression stockings)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0259",
+    "category": "Surg Cardio",
+    "a": "Superficial thrombophlebitis: subcutaneous enoxaparin (not compression stockings)."
+   }
+  ]
+ },
+ {
+  "front": "Patient who cannot exercise?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4270",
+    "category": "IM Mixed",
+    "a": "Dobutamine-echo stress test."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0268",
+    "category": "Surg Cardio",
+    "a": "Dobutamine-echo stress test."
+   }
+  ]
+ },
+ {
+  "front": "CVD patient on several drugs with hyperkalemia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4273",
+    "category": "IM Mixed",
+    "a": "ACE inhibitor, ARB, and spironolactone can all cause hyperkalemia."
+   }
+  ]
+ },
+ {
+  "front": "CVD patient on several drugs with hypokalemia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4274",
+    "category": "IM Mixed",
+    "a": "Furosemide (loop diuretic)."
+   }
+  ]
+ },
+ {
+  "front": "Classic vignette for a patient on naproxen?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4283",
+    "category": "IM Mixed",
+    "a": "Osteoarthritis."
+   }
+  ]
+ },
+ {
+  "front": "27F intermittent headaches + blurry vision?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4290",
+    "category": "IM Mixed",
+    "a": "Optic neuritis (multiple sclerosis), per the source an NBME item despite the headaches. Optic neuritis is inflammation of CN II: blurry vision, color vision change, or Marcus Gunn pupil (relative afferent pupillary defect)."
+   }
+  ]
+ },
+ {
+  "front": "Treatment between MS flares (asymptomatic patient)?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4293",
+    "category": "IM Mixed",
+    "a": "Interferon beta."
+   }
+  ]
+ },
+ {
+  "front": "65F unilateral temporal headache + blurry vision?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4298",
+    "category": "IM Mixed",
+    "a": "Temporal arteritis."
+   }
+  ]
+ },
+ {
+  "front": "65F unilateral temporal headache + muscle pain/stiffness?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4301",
+    "category": "IM Mixed",
+    "a": "Temporal arteritis + polymyalgia rheumatica."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0280",
+    "category": "Surg Cardio",
+    "a": "Temporal arteritis + polymyalgia rheumatica."
+   }
+  ]
+ },
+ {
+  "front": "44M hematuria + hemoptysis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4327",
+    "category": "IM Mixed",
+    "a": "Goodpasture syndrome."
+   }
+  ]
+ },
+ {
+  "front": "44M hematuria + hemoptysis + 'head-itis'?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4328",
+    "category": "IM Mixed",
+    "a": "Wegener granulomatosis."
+   }
+  ]
+ },
+ {
+  "front": "32F arthritis + mouth ulcer + low platelets?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4334",
+    "category": "IM Mixed",
+    "a": "SLE."
+   }
+  ]
+ },
+ {
+  "front": "Woman in her 20s-40s with arthritis + thrombocytopenia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4336",
+    "category": "IM Mixed",
+    "a": "SLE."
+   }
+  ]
+ },
+ {
+  "front": "Woman in her 20s-40s with arthritis + mouth ulcer + circular skin lesions?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4337",
+    "category": "IM Mixed",
+    "a": "SLE."
+   }
+  ]
+ },
+ {
+  "front": "80F with a catheter: best way to decrease infection risk?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4351",
+    "category": "IM Mixed",
+    "a": "Hand washing (the source says all other listed answers sound reasonable)."
+   }
+  ]
+ },
+ {
+  "front": "17M with mononucleosis: best way to decrease transmission?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4352",
+    "category": "IM Mixed",
+    "a": "Hand washing (the source agrees it seems odd versus kissing/sharing cups, but says USMLE wants handwashing)."
+   }
+  ]
+ },
+ {
+  "front": "72M claudication + absent distal pulses + prior CABG + BP rising over two years?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4353",
+    "category": "IM Mixed",
+    "a": "Renal artery stenosis."
+   }
+  ]
+ },
+ {
+  "front": "32F with high BP + high aldosterone/renin?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4354",
+    "category": "IM Mixed",
+    "a": "Fibromuscular dysplasia (tunica media proliferation in renal arteries), not 'renal artery stenosis', which the source says implies atherosclerosis."
+   }
+  ]
+ },
+ {
+  "front": "Girl on chloroquine prophylaxis in Africa gets malaria anyway: non-adherence or resistance?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4358",
+    "category": "IM Mixed",
+    "a": "Resistance to chloroquine."
+   }
+  ]
+ },
+ {
+  "front": "Watery diarrhea in an immunocompromised patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4369",
+    "category": "IM Mixed",
+    "a": "Cryptosporidium parvum."
+   }
+  ]
+ },
+ {
+  "front": "HIV patient with lobar pneumonia: PJP or S. pneumoniae?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4384",
+    "category": "IM Mixed",
+    "a": "S. pneumoniae (continues on p420). PJP gives bilateral interstitial infiltrates with a ground-glass appearance; S. pneumoniae is lobar."
+   }
+  ]
+ },
+ {
+  "front": "Upper lobe nodular density in an immunocompromised patient?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4386",
+    "category": "IM Mixed",
+    "a": "Aspergilloma."
+   }
+  ]
+ },
+ {
+  "front": "13F with irregular periods: next step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4388",
+    "category": "IM Mixed",
+    "a": "Reexamine in one year (reassurance); periods are typically abnormal in the first year after menarche."
+   }
+  ]
+ },
+ {
+  "front": "13F never had a period, suprapubic mass, nausea and vomiting?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4389",
+    "category": "IM Mixed",
+    "a": "Beta-hCG: she is pregnant. Girls can get pregnant before ever having a period; must rule out."
+   }
+  ]
+ },
+ {
+  "front": "14F with a massive unilateral breast mass, sister died of breast cancer?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4390",
+    "category": "IM Mixed",
+    "a": "Follow up in six months: virginal breast hypertrophy is normal in puberty."
+   }
+  ]
+ },
+ {
+  "front": "15M with unilateral mass behind the nipple +/- tenderness?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4391",
+    "category": "IM Mixed",
+    "a": "Reassurance: physiologic gynecomastia of puberty (higher androgens aromatized to estrogens)."
+   }
+  ]
+ },
+ {
+  "front": "17F with severe period pain and normal exam?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4393",
+    "category": "IM Mixed",
+    "a": "Primary dysmenorrhea from prostaglandin hypersecretion (PGF2alpha); give NSAIDs."
+   }
+  ]
+ },
+ {
+  "front": "23F with severe period pain + nodular uterosacral ligaments?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4394",
+    "category": "IM Mixed",
+    "a": "Endometriosis: diagnostic laparoscopy."
+   }
+  ]
+ },
+ {
+  "front": "14M at 3rd percentile for height + bone age less than chronologic age?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4395",
+    "category": "IM Mixed",
+    "a": "Constitutional short stature (he will catch up; growth curve shifted right)."
+   }
+  ]
+ },
+ {
+  "front": "14M at 3rd percentile for height: next step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4396",
+    "category": "IM Mixed",
+    "a": "Ask about the parents' height trajectory; if the stem says parents are average height, do a bone age."
+   }
+  ]
+ },
+ {
+  "front": "16F Tanner stage II + wide neck + bone age equal to chronologic age?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4397",
+    "category": "IM Mixed",
+    "a": "Turner syndrome: genuine short stature (e.g., 4'11\"), Tanner I-II, cystic hygroma (lymphatic insufficiency; wide/webbed neck)."
+   }
+  ]
+ },
+ {
+  "front": "Adult male 4 feet tall with large head and trunk relative to limbs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4398",
+    "category": "IM Mixed",
+    "a": "Achondroplasia."
+   }
+  ]
+ },
+ {
+  "front": "Adult male 4 feet tall with head and trunk proportional to limbs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4399",
+    "category": "IM Mixed",
+    "a": "Laron dwarfism (growth hormone receptor defect, GH insensitivity)."
+   }
+  ]
+ },
+ {
+  "front": "42M two days after surgery: restlessness, tremulousness, tachycardia, diaphoresis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4402",
+    "category": "IM Mixed",
+    "a": "Delirium tremens (alcohol withdrawal)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1778",
+    "category": "Surg Neuro",
+    "a": "Delirium tremens (alcohol withdrawal)."
+   }
+  ]
+ },
+ {
+  "front": "42M two days after surgery: restlessness + tactile/visual hallucinations?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4404",
+    "category": "IM Mixed",
+    "a": "Alcoholic hallucinosis (same spectrum as DT); treat with a long-acting benzodiazepine."
+   }
+  ]
+ },
+ {
+  "front": "22F BP 160/110, FMD confirmed on MR angiography, normal electrolytes and pH: AT-II and aldosterone?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4410",
+    "category": "IM Mixed",
+    "a": "Both high. The source says biochemistry can be completely normal in aldosterone derangement; if the stem insists on a confirmed cause of hyperaldosteronism with high BP, AT-II and aldosterone are both high."
+   }
+  ]
+ },
+ {
+  "front": "Child with a heart tumor?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4412",
+    "category": "IM Mixed",
+    "a": "Cardiac rhabdomyoma until proven otherwise."
+   }
+  ]
+ },
+ {
+  "front": "2-year-old with cardiac myxoma + perioral melanosis + hyperthyroidism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4414",
+    "category": "IM Mixed",
+    "a": "Carney complex: cardiac myxoma + perioral melanosis + endocrine hypersecretion (classically bilateral pigmented zona fasciculata hyperplasia causing Cushing; can be hyperthyroidism or growth hormone)."
+   }
+  ]
+ },
+ {
+  "front": "32F with pedal and forearm edema after starting an antihypertensive?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4422",
+    "category": "IM Mixed",
+    "a": "Fluid retention from a dihydropyridine CCB (e.g., nifedipine), a really HY side effect."
+   }
+  ]
+ },
+ {
+  "front": "Diabetic patient on HCTZ for HTN?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4425",
+    "category": "IM Mixed",
+    "a": "Stop the thiazide and use an ACEi or ARB."
+   }
+  ]
+ },
+ {
+  "front": "Delirium in a patient on a thiazide?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4427",
+    "category": "IM Mixed",
+    "a": "Think hypercalcemia (high Ca is a HY USMLE cause of CNS dysfunction, 'hypercalcemic crisis')."
+   }
+  ]
+ },
+ {
+  "front": "28F non-smoker with loud P2 + RVH?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4436",
+    "category": "IM Mixed",
+    "a": "Primary pulmonary hypertension."
+   }
+  ]
+ },
+ {
+  "front": "Kid given an OTC cold medicine, then mental status changes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4439",
+    "category": "IM Mixed",
+    "a": "Anticholinergic delirium from a first-generation antihistamine (diphenhydramine, chlorpheniramine)."
+   }
+  ]
+ },
+ {
+  "front": "22M takes a drug, nystagmus + bellicosity?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4440",
+    "category": "IM Mixed",
+    "a": "PCP."
+   }
+  ]
+ },
+ {
+  "front": "22M takes a drug, mutism + constricted pupils?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4441",
+    "category": "IM Mixed",
+    "a": "PCP (the source says it is on the psych NBME for 2CK; I did not verify)."
+   }
+  ]
+ },
+ {
+  "front": "2-year-old holding his sister's hand falls, holds arm pronated at his side?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4442",
+    "category": "IM Mixed",
+    "a": "Nursemaid's elbow (radial head subluxation)."
+   }
+  ]
+ },
+ {
+  "front": "Kid falls on outstretched arm + anatomical snuffbox pain?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4444",
+    "category": "IM Mixed",
+    "a": "Scaphoid fracture; next best step is x-ray (continues on p425 if x-ray is negative)."
+   }
+  ]
+ },
+ {
+  "front": "Golden crusty lesions around the mouth in a school-age child?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4454",
+    "category": "IM Mixed",
+    "a": "Impetigo, not HSV."
+   }
+  ]
+ },
+ {
+  "front": "32F with a sharply demarcated fiery red lesion from knee to ankle + fever 101F?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4455",
+    "category": "IM Mixed",
+    "a": "Erysipelas: infection of the superficial dermis +/- dermal lymphatics (cellulitis is the hypodermis); the superficial depth gives a well-demarcated fiery look, while cellulitis is more diffuse and pink."
+   }
+  ]
+ },
+ {
+  "front": "Perineal gangrene in a 50M diabetic?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4461",
+    "category": "IM Mixed",
+    "a": "Fournier gangrene: surgical debridement."
+   }
+  ]
+ },
+ {
+  "front": "17M with worsening cellulitis holding an amoxicillin canister from his GP?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4462",
+    "category": "IM Mixed",
+    "a": "Improper antibiotic: he should have had oral dicloxacillin or oral cephalexin; the cellulitis must be Staph, not Strep."
+   }
+  ]
+ },
+ {
+  "front": "72M left facial droop + left arm and leg weakness with hyperreflexia + left Babinski + intact sensation?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4471",
+    "category": "IM Mixed",
+    "a": "Lacunar infarct of the internal capsule: 'pure motor' stroke (posterior limb); thalamic stroke gives 'pure sensory'. Lacunar infarcts usually follow hypertension causing lipohyalinosis of lenticulostriate arteries."
+   }
+  ]
+ },
+ {
+  "front": "6F finds an open aspirin bottle: finding best suggesting a toxic dose?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4474",
+    "category": "IM Mixed",
+    "a": "Increased respiratory rate: acute respiratory alkalosis (respiratory center upregulation; high pH, low CO2, no bicarb change). After roughly 20 minutes a mixed metabolic acidosis-respiratory alkalosis (low pH, low CO2, low bicarb); the low bicarb is not compensation, since salicylic acid itself is an acid. Tachypnea is the first observed sign (continues on p428)."
+   }
+  ]
+ },
+ {
+  "front": "30M with shooting groin pain + high BP + mother had thyroid cancer surgery: best test?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4476",
+    "category": "IM Mixed",
+    "a": "Urinary metanephrines. Diagnosis MEN 2A: pheochromocytoma + medullary thyroid carcinoma + primary hyperparathyroidism. Treat pheo with phenoxybenzamine (irreversible alpha blocker); groin pain is urolithiasis from hypercalcemia; medullary thyroid cancer raises calcitonin. MEN I: pancreatic tumor, pituitary tumor, primary hyperparathyroidism. MEN 2B: pheochromocytoma + medullary thyroid carcinoma + mucosal neuromas + Marfanoid habitus."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with a hereditary disease and homozygous gene deletion: inheritance pattern?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4477",
+    "category": "IM Mixed",
+    "a": "Autosomal recessive: 'homozygous deletion' with no mention of parental disease implies it."
+   }
+  ]
+ },
+ {
+  "front": "84F with unilateral hydronephrosis from ureteral compression by a vascular structure?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4479",
+    "category": "IM Mixed",
+    "a": "The ipsilateral common iliac artery. If the stem says cancer causes unilateral hydronephrosis: ovarian cancer; bilateral hydronephrosis from cancer: cervical cancer (usually younger)."
+   }
+  ]
+ },
+ {
+  "front": "54M dyspnea 4 months + ascites + leg edema + bilateral pleural effusions + EF 55%: mechanism of lung fluid?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4480",
+    "category": "IM Mixed",
+    "a": "Decreased plasma colloid osmotic (oncotic) pressure (nephrotic syndrome or hepatic disease with low albumin). Wrong answer: increased capillary hydrostatic pressure (left heart failure, but EF is normal). Increased vascular permeability is for ARDS, pneumonia/sepsis, or PE (continues on p429)."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with persistent cyanosis, normal Hct and RBC morphology, normal CXR and echo?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4482",
+    "category": "IM Mixed",
+    "a": "Methemoglobinemia from cytochrome b5 reductase deficiency (congenital). Inhaled nitric oxide for neonatal pulmonary hypertension can cause it (oxidizes ferrous to ferric iron). Acrocyanosis is a normal bluish tinge of the extremities (treat with warming lights and tactile stimulation). Treatment in most cases: methylene blue + vitamin C."
+   }
+  ]
+ },
+ {
+  "front": "40F with fibromuscular dysplasia and normal GFR: explanation?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4483",
+    "category": "IM Mixed",
+    "a": "Increased efferent arteriolar resistance: RAAS upregulates, angiotensin II constricts efferent arterioles, raising filtration fraction so GFR is held despite lower renal blood flow."
+   }
+  ]
+ },
+ {
+  "front": "19F with external compression of the left renal artery but normal renal perfusion pressure?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4484",
+    "category": "IM Mixed",
+    "a": "Decreased afferent arteriolar resistance (the source's answer in this hypothetical; afferent arterioles distal to the compression dilate). The source notes the usual response to reduced perfusion is efferent constriction via RAAS, which maintains GFR rather than perfusion."
+   }
+  ]
+ },
+ {
+  "front": "27M from Pennsylvania, splenectomy, intraerythrocytic rings?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4485",
+    "category": "IM Mixed",
+    "a": "Babesia: malaria-like hemolytic disorder in people who have never left the United States; ring forms and Maltese crosses in RBCs (continues on p430)."
+   }
+  ]
+ },
+ {
+  "front": "2F with a missing superior left parathyroid gland: embryologic defect?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4490",
+    "category": "IM Mixed",
+    "a": "Fourth pharyngeal pouch (superior parathyroids; third pouch = thymus + inferior parathyroids). Pouches are endoderm, arches mesoderm, clefts/grooves ectoderm. DiGeorge: aplasia of the 3rd and 4th pouches with hypocalcemia, T cell deficiency (absent thymic shadow), cleft lip/palate, heart defects (tetralogy of Fallot, truncus arteriosus)."
+   }
+  ]
+ },
+ {
+  "front": "20F recurrent Staph infections + CD18 deficiency?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4491",
+    "category": "IM Mixed",
+    "a": "Failure of phagocyte emigration to inflamed tissue: leukocyte adhesion deficiency (LFA-1/CD18 integrin needed for diapedesis); recurrent infections (often Staph) with absent pus; delayed umbilical cord separation is often omitted as too easy."
+   }
+  ]
+ },
+ {
+  "front": "40F develops AML after an exposure: likely agent?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4492",
+    "category": "IM Mixed",
+    "a": "Benzene. Naphthylamine is associated with urothelial cancers; vinyl chloride with hepatic angiosarcoma."
+   }
+  ]
+ },
+ {
+  "front": "35F on high-dose vitamins: cracked lips, rough dry skin, scalp alopecia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4497",
+    "category": "IM Mixed",
+    "a": "Excess vitamin A: desquamation, increased transaminases, dyslipidemia, pseudotumor cerebri; teratogenic (pregnancy test before isotretinoin for acne)."
+   }
+  ]
+ },
+ {
+  "front": "46M alcoholic with hypersegmented neutrophils?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4498",
+    "category": "IM Mixed",
+    "a": "Folate (B9) deficiency, the most common vitamin deficiency; also tea-and-toast diet and antiepileptics (valproate, phenytoin, carbamazepine). B12 is for veganism/strict vegetarianism, chronic gastritis, pernicious anemia, gastrectomy or ileectomy, Crohn, D. latum."
+   }
+  ]
+ },
+ {
+  "front": "34F receives phentolamine: intracellular effect?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4499",
+    "category": "IM Mixed",
+    "a": "Decreased phospholipase C activity: phentolamine is an alpha-1 antagonist; alpha-1 is Gq-coupled (agonism raises PLC, IP3, DAG; antagonism lowers them, continues on p432)."
+   }
+  ]
+ },
+ {
+  "front": "17F heavy menses + easy bruising + low Hb + normal platelets + normal PT + increased PTT: deficient factor?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4501",
+    "category": "IM Mixed",
+    "a": "von Willebrand factor: bridges Gp Ib on platelets to endothelium. Bleeding time always increased; PT normal; PTT increased only about half the time (stabilizing factor VIII is a secondary role); many NBME items have a normal PTT. Platelets normal or slightly low."
+   }
+  ]
+ },
+ {
+  "front": "43M elevated fasting glucose + arthritis + cardiomegaly: mechanism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4504",
+    "category": "IM Mixed",
+    "a": "Increased intestinal iron absorption: hemochromatosis (AR, chromosome 6). Iron deposits in the pancreas tail (diabetes), heart (dilated or restrictive cardiomyopathy), hypothalamus/testes (infertility), skin ('bronze diabetes'). Hemochromatosis and primary hyperparathyroidism are two HY causes of pseudogout (CPPD), which can mimic OA even with Heberden nodes. Next step: check serum iron and ferritin."
+   }
+  ]
+ },
+ {
+  "front": "6M with perioral hyperpigmentation + colonic polyps?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4505",
+    "category": "IM Mixed",
+    "a": "Hamartomatous polyps: Peutz-Jeghers syndrome (perioral melanosis + hamartomatous polyps)."
+   }
+  ]
+ },
+ {
+  "front": "26F hyperpigmentation + BP 100/60 + muscle weakness: sodium, potassium, cortisol?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4506",
+    "category": "IM Mixed",
+    "a": "Low sodium, high potassium, low cortisol: Addison disease (aldosterone is low). Often autoantibodies against 21-hydroxylase, needed for both aldosterone and cortisol synthesis."
+   }
+  ]
+ },
+ {
+  "front": "40F on chemotherapy with a low leukocyte count: helpful drug?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4509",
+    "category": "IM Mixed",
+    "a": "Pegfilgrastim (G-CSF), which increases neutrophils."
+   }
+  ]
+ },
+ {
+  "front": "27M infertile with high testosterone and low LH/FSH?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4510",
+    "category": "IM Mixed",
+    "a": "Exogenous testosterone use (a testosterone-secreting tumor could theoretically be an answer, but only the former is listed)."
+   }
+  ]
+ },
+ {
+  "front": "46M with esophageal varices: vein with increased flow?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4514",
+    "category": "IM Mixed",
+    "a": "Left gastric vein: increased portal venous pressure backs up into the left gastric vein, then esophageal veins."
+   }
+  ]
+ },
+ {
+  "front": "74M cheek lesion with neoplastic cells with dense pigment granules?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4515",
+    "category": "IM Mixed",
+    "a": "Melanoma (the source says it sounds like pigmented BCC, but USMLE wants melanoma). BCC: islands and nests of basophilic cells; SCC: keratin pearls and intercellular bridges."
+   }
+  ]
+ },
+ {
+  "front": "50F weight loss + dyspnea + pleural-based mass encasing the lungs: cell of origin?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4518",
+    "category": "IM Mixed",
+    "a": "Mesothelial cells (mesothelioma): classically pleural/supradiaphragmatic plaques; grossly it surrounds the lungs circumferentially rather than forming an isolated mass."
+   }
+  ]
+ },
+ {
+  "front": "30F LMP 8 weeks ago, no fetus or sac on ultrasound, curettage shows trophoblastic proliferation: chromosomes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4519",
+    "category": "IM Mixed",
+    "a": "46,XX: complete mole (an empty egg fertilized by one sperm that duplicates; only paternal genetic material; no fetal parts). Partial mole: one egg fertilized by two sperm, fetal parts present on ultrasound; the source gives a '67 chromosome' karyotype (a typical partial mole is triploid, 69 chromosomes; I did not verify the source figure)."
+   }
+  ]
+ },
+ {
+  "front": "35F menorrhagia + hoarse voice + delayed reflexes + globular heart + low Hct and MCV: next step?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4521",
+    "category": "IM Mixed",
+    "a": "Check serum TSH: probable Hashimoto hypothyroidism (menorrhagia, slow reflexes, cardiomyopathy). Anemia is likely iron deficiency from heavy periods (though anemia of chronic disease also shows low MCV on many NBME items). Other HY: hypothyroid myopathy (increased CK), raised LDL, raised transaminases, low mood; constipation, cold intolerance, brittle hair, doughy skin are often omitted as too easy."
+   }
+  ]
+ },
+ {
+  "front": "25M with 3 days of leg paresthesias + dysphagia + diminished reflexes, CSF protein 70 mg/dL with 5 cells/uL?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4528",
+    "category": "IM Mixed",
+    "a": "Guillain-Barre syndrome: 'destruction of myelin and endoneurial lymphocytic infiltrates'; CSF albuminocytologic dissociation (high protein, normal cells)."
+   }
+  ]
+ },
+ {
+  "front": "25M with palm and sole rash, given a previously received antibiotic, now fever, tachycardia, tachypnea?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4531",
+    "category": "IM Mixed",
+    "a": "Jarisch-Herxheimer reaction (reaction to lysis of spirochetes) in secondary syphilis (palms/soles rash) treated with penicillin G."
+   }
+  ]
+ },
+ {
+  "front": "30F with RA on infliximab who has not improved: likely mediator?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4532",
+    "category": "IM Mixed",
+    "a": "IL-1. Infliximab is a monoclonal antibody against soluble TNF-alpha (not the receptor), so TNF-alpha is not the answer; IL-1 and IL-6 drive RA inflammation; tocilizumab is an anti-IL-6 receptor monoclonal antibody for advanced RA."
+   }
+  ]
+ },
+ {
+  "front": "20M with both common carotids externally compressed for 10 seconds: effects?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4540",
+    "category": "IM Mixed",
+    "a": "Alveolar ventilation, venous tone, arterial tone, and blood pressure all increase. Less carotid sinus flow lowers baroreceptor stretch and CN IX afferent firing to the solitary nucleus; vagal efferent firing falls and sympathetic efferent firing rises (increasing heart rate), with alpha-1 vasoconstriction (more SVR, more BP) and beta-2 bronchodilation and higher respiratory rate."
+   }
+  ]
+ },
+ {
+  "front": "39M bilateral renal enlargement + high BP + father died of subarachnoid hemorrhage: mutated protein?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4541",
+    "category": "IM Mixed",
+    "a": "Polycystin (ADPKD); hypertension from cysts compressing renal microvasculature causing RAAS surges."
+   }
+  ]
+ },
+ {
+  "front": "52M with 3 months of esophageal burning, diabetes, reduced pin-prick to the ankles, HbA1c 9.6%: MOA of best drug?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4542",
+    "category": "IM Mixed",
+    "a": "D2 receptor antagonism: metoclopramide for diabetic gastroparesis (prokinetic and antiemetic). With a plain GERD-like picture and no poor diabetic control: trial of PPI or H2 blocker (if forced to choose, PPI)."
+   }
+  ]
+ },
+ {
+  "front": "30F cuts a finger and bleeding stops quickly: mechanism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4543",
+    "category": "IM Mixed",
+    "a": "Localized secretion of endothelin (it acts peripherally as well as in pulmonary vascular resistance)."
+   }
+  ]
+ },
+ {
+  "front": "28M with renal failure + hematuria + hearing loss?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4545",
+    "category": "IM Mixed",
+    "a": "Alport syndrome: type IV collagen mutation (X-linked). Wrong answer: antibodies against type IV collagen (Goodpasture). Alport: male with hematuria + ear and/or eye problem; Goodpasture: male in his 20s-40s with hematuria and hemoptysis."
+   }
+  ]
+ },
+ {
+  "front": "19F with alkaline urine and renal calculi: organism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4546",
+    "category": "IM Mixed",
+    "a": "Proteus (Klebsiella or Serratia could also be correct): struvite (ammonium magnesium phosphate) stones form in alkaline urine from UTIs by urease-positive organisms."
+   }
+  ]
+ },
+ {
+  "front": "62F high Hb, WBCs, platelets, pO2 93%: EPO and arterial O2 content?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4547",
+    "category": "IM Mixed",
+    "a": "Low EPO + normal arterial O2 content: polycythemia vera (JAK2 mutation), marrow overproduction suppresses renal EPO; WBCs and/or platelets also high. In secondary polycythemia (lung disease: high EPO from low O2; renal cell carcinoma: tumor EPO) only RBCs are high. Treatment of PV: serial phlebotomy."
+   }
+  ]
+ },
+ {
+  "front": "Newborn with chorioretinitis + cataracts + microcephaly and no other info?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4550",
+    "category": "IM Mixed",
+    "a": "CMV. Congenital toxoplasmosis is always the triad chorioretinitis + hydrocephalus + intracranial calcifications; without that triad, eliminate it. Congenital CMV has nonspecific findings (deafness, chorioretinitis, intracranial calcifications). Congenital rubella: PDA; congenital syphilis: Hutchinson teeth, often saddle nose and/or saber shins (continues on p440 for VZV)."
+   }
+  ]
+ },
+ {
+  "front": "14M temp 103F + WBC 25,000 with neutrophil shift: mechanism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4552",
+    "category": "IM Mixed",
+    "a": "Accelerated release of leukocytes from the bone marrow postmitotic reserve pool: leukemoid reaction (leukocytosis with infection); leukocyte ALP is high."
+   }
+  ]
+ },
+ {
+  "front": "15M skiing accident, tachycardia, tachypnea, BP 98/72, decreased right breath sounds, black pleural space on CXR?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4554",
+    "category": "IM Mixed",
+    "a": "Tension pneumothorax: hemodynamic decompensation (BP may be low-normal only because the heart rate compensates). Low BP comes from compressed venous return to the right atrium. Tracheal deviation need not be mentioned. Treatment: needle decompression then chest tube to an underwater seal."
+   }
+  ]
+ },
+ {
+  "front": "36M stab wound to chest + low BP + JVD + systolic BP drops 12 mmHg on inspiration?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4555",
+    "category": "IM Mixed",
+    "a": "Cardiac tamponade: Beck triad (hypotension, JVD, muffled heart sounds; not all need be mentioned). Pulsus paradoxus is a systolic drop >10 mmHg on inspiration. Tamponade is a pericardial effusion plus hemodynamic decompensation; ECG shows electrical alternans (also seen in a simple effusion; continues on p441)."
+   }
+  ]
+ },
+ {
+  "front": "42F in hospital 2 days after surgery, short of breath, HR 92, normal ECG: MOA of the needed drug?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4558",
+    "category": "IM Mixed",
+    "a": "Activation of antithrombin (heparin) for pulmonary embolism. Sinus tachycardia is the most common ECG finding. After heparin, spiral CT of the chest; V/Q scan first in pregnant women."
+   }
+  ]
+ },
+ {
+  "front": "29M with spontaneous lancinating cheek pain lasting seconds: location of the problem?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4559",
+    "category": "IM Mixed",
+    "a": "Pons (CN V arises there); can also be 'microvascular compression of CN V': trigeminal neuralgia. No acute treatment since it subsides quickly; prophylaxis is carbamazepine."
+   }
+  ]
+ },
+ {
+  "front": "50M severe upper back pain + holodiastolic murmur loudest after S2?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4564",
+    "category": "IM Mixed",
+    "a": "Aortic dissection: pain between the scapulae; retrograde dissection can dilate the aortic root causing aortic regurgitation (decrescendo holodiastolic murmur); CXR widened mediastinum; give labetalol to reduce shearing forces. Risk: Marfan, Ehlers-Danlos; greatest risks hypertension and cocaine."
+   }
+  ]
+ },
+ {
+  "front": "19M chest pain after heavy partying, walks in bent over at the waist: next step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4565",
+    "category": "IM Mixed",
+    "a": "ECG showing diffuse ST elevations: pericarditis. Pain eases leaning forward and worsens leaning back; ST elevation in most leads (vs 3-4 contiguous leads in MI); cocaine is a risk factor for serous pericarditis. Treatment: NSAIDs, corticosteroids, colchicine."
+   }
+  ]
+ },
+ {
+  "front": "37F with RA, PR depressions and ST elevations in many leads?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4566",
+    "category": "IM Mixed",
+    "a": "Pericarditis: common in autoimmune disease; PR depression is highly specific but uncommon; diffuse ST elevation is present in all USMLE cases that mention ECG findings."
+   }
+  ]
+ },
+ {
+  "front": "34F with severe chest pain worse reaching behind her back and above her head?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4567",
+    "category": "IM Mixed",
+    "a": "Costochondritis: MSK because it changes with position (pericarditis is the only cardiac exception)."
+   }
+  ]
+ },
+ {
+  "front": "40M with alcoholism, K 3.2, still 3.2 after potassium?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4570",
+    "category": "IM Mixed",
+    "a": "Hypomagnesemia: check serum Mg for low Ca and K that do not respond to supplementation. Mg is needed for basal PTH secretion (low Mg, low Ca) and inhibits a distal renal K secretory pump (low Mg, K wasting). Alcoholics are at risk from dietary deficiency (ethanol is 7 kcal/g)."
+   }
+  ]
+ },
+ {
+  "front": "18M lost hiking for 3 weeks, BMI 27: electrolyte worry on refeeding?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4571",
+    "category": "IM Mixed",
+    "a": "Hypophosphatemia (refeeding syndrome): rapid sequestration of phosphate by glycolytic intermediates as glycolysis resumes."
+   }
+  ]
+ },
+ {
+  "front": "31F with ITP, splenectomy, platelets normalize, low again 6 months later?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4572",
+    "category": "IM Mixed",
+    "a": "Accessory spleen (about 10% of people have one, <1 cm; it can grow after splenectomy)."
+   }
+  ]
+ },
+ {
+  "front": "49M with long alcoholism, smelly stools, normal pancreatic enzymes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4573",
+    "category": "IM Mixed",
+    "a": "Chronic pancreatitis: exocrine insufficiency from repeated acute bouts; enzymes low or low-normal; steatorrhea from lack of lipase; treat with pancrelipase."
+   }
+  ]
+ },
+ {
+  "front": "49M recovered from pancreatitis a week ago, now fever + leukocytosis + high lipase and amylase?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4574",
+    "category": "IM Mixed",
+    "a": "Pseudocyst (no true walls; pancreatic parenchyma encases the fluid); can be drained internally via ERCP (2CK surgery NBME, per the source)."
+   }
+  ]
+ },
+ {
+  "front": "40F found hypothermic, rewarmed, red feet: electrolyte worry?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4575",
+    "category": "IM Mixed",
+    "a": "Hyperkalemia: reperfusion injury oxygen radicals raise the risk of rhabdomyolysis, especially in alcoholics."
+   }
+  ]
+ },
+ {
+  "front": "82F found by the stairs, urine blood 2+, 3-4 RBCs/hpf?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4576",
+    "category": "IM Mixed",
+    "a": "Rhabdomyolysis: false-positive urine dipstick blood; USMLE can give 3-4 RBCs/hpf as the false positive."
+   }
+  ]
+ },
+ {
+  "front": "44M after surgery with tachycardia, fever, high BP: drug?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4577",
+    "category": "IM Mixed",
+    "a": "Chlordiazepoxide (benzodiazepine) for delirium tremens; the tremor of DT is explained by beta-2 agonism (source)."
+   }
+  ]
+ },
+ {
+  "front": "57F comatose + seizure + prolonged QRS on ECG?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4579",
+    "category": "IM Mixed",
+    "a": "Amitriptyline (TCA toxicity: coma, convulsions, cardiotoxicity). Treat with sodium bicarbonate, which decreases TCA binding to myocardial sodium channels. The source says urinary alkalinization for excretion is the wrong rationale (that refers to salicylates; TCAs are basic)."
+   }
+  ]
+ },
+ {
+  "front": "22M on an antidepressant with suprapubic mass and hot red face?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4580",
+    "category": "IM Mixed",
+    "a": "A TCA (e.g., amitriptyline): anticholinergic effects, opposite of DUMBBELSS: constipation, urinary retention, mydriasis, tachycardia, relaxed skeletal muscle tone, dry eyes, dry mouth, anhidrosis (heat retention, red hot patient)."
+   }
+  ]
+ },
+ {
+  "front": "30F given diphenhydramine for motion sickness: receptor responsible?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4581",
+    "category": "IM Mixed",
+    "a": "Antimuscarinic: first-generation H1 blockers (diphenhydramine, chlorpheniramine) have anticholinergic effects; muscarinic blockade eases motion sickness. They do not act on H2."
+   }
+  ]
+ },
+ {
+  "front": "24M cuts his arm: cell that decreases infection risk in the acute setting?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4582",
+    "category": "IM Mixed",
+    "a": "Neutrophils: acute inflammation, innate immunity; phagocytose and kill bacteria via lysosomal hydrolases and H2O2 (continues on p445)."
+   }
+  ]
+ },
+ {
+  "front": "55M with hyperthyroidism and absent left leg pulses?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4583",
+    "category": "IM Mixed",
+    "a": "Arterial embolic occlusion: left atrial mural thrombus from hyperthyroidism-induced atrial fibrillation lodging in the femoral artery. In DVT pulses are normal. AF emboli can also cause stroke or acute mesenteric ischemia (SMA/IMA)."
+   }
+  ]
+ },
+ {
+  "front": "80M with atrial fibrillation + severe abdominal pain + mild tenderness?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4584",
+    "category": "IM Mixed",
+    "a": "Acute mesenteric ischemia: pain out of proportion to exam; embolus to SMA or IMA from left atrial thrombus."
+   }
+  ]
+ },
+ {
+  "front": "65M with diabetes, prior CABG, claudication, abdominal pain 1-2 hours after meals?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4585",
+    "category": "IM Mixed",
+    "a": "Chronic mesenteric ischemia from atherosclerosis. It sounds like a duodenal ulcer, but the patient has a severe cardiovascular history; H. pylori ulcer is usually a younger immigrant patient."
+   }
+  ]
+ },
+ {
+  "front": "30M with RA overdoses on methotrexate, massive hepatonecrosis: liver regeneration mechanism?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4586",
+    "category": "IM Mixed",
+    "a": "Recruitment of cells from G0 into the cell cycle (quiescent hepatocytes enter G1). Wrong answer: stem cells entering G1."
+   }
+  ]
+ },
+ {
+  "front": "20F with an insulinoma: C-peptide, insulin, ketones?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4589",
+    "category": "IM Mixed",
+    "a": "High C-peptide, high insulin, low ketones. C-peptide is cleaved off during endogenous insulin production; insulin inhibits ketogenesis; beta-oxidation is inhibited by malonyl-CoA from insulin-stimulated fatty acid synthesis."
+   }
+  ]
+ },
+ {
+  "front": "2M with anemia, erythroblasts with ferritin granules, decreased delta-ALA synthase: vitamin?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4591",
+    "category": "IM Mixed",
+    "a": "Vitamin B6: X-linked sideroblastic anemia. Heme synthesis starts with succinyl-CoA + glycine by delta-ALA synthase (needs B6). Sideroblastic anemia can be X-linked or classically alcohol-related; Prussian blue shows ringed sideroblasts (iron stuck around mitochondria in RBC precursors)."
+   }
+  ]
+ },
+ {
+  "front": "62F flank mass + calcium 11.5 + hemoglobin 18.5?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4594",
+    "category": "IM Mixed",
+    "a": "Paraneoplastic syndrome from renal cell carcinoma: PTHrP (hypercalcemia) and EPO (high Hb); continues on p447."
+   }
+  ]
+ },
+ {
+  "front": "MR patient with symptoms of heart failure or ischemia before surgery?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0034",
+    "category": "Surg Cardio",
+    "a": "Do a pre-op stress test to determine MI risk (unlike mere MR without symptoms or other risk factors)."
+   }
+  ]
+ },
+ {
+  "front": "45M with nosebleeds since adolescence, S3, dyspnea, red dots on the tongue?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0128",
+    "category": "Surg Cardio",
+    "a": "Cause of dyspnea: pulmonary arteriovenous fistula (high-output failure); diagnosis hereditary hemorrhagic telangiectasia. Stems usually show red dots on the tongue, mouth, or finger."
+   }
+  ]
+ },
+ {
+  "front": "Spirometry curve in a 34-year-old with no family history and a 5-year smoking history?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0337",
+    "category": "Surg Pulm",
+    "a": "Concave (obstructive) curve: choose asthma over COPD as most likely in this patient (per the source's reasoning)."
+   }
+  ]
+ },
+ {
+  "front": "Edema in a patient on an NSAID?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0608",
+    "category": "Surg Renal",
+    "a": "Cause: decreased renal sodium excretion (PCT sodium reabsorption increased, FENa <1%). Management: discontinue ibuprofen."
+   }
+  ]
+ },
+ {
+  "front": "28-year-old with LLQ cramping and bloody diarrhea 7 days after oral antibiotics?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1094",
+    "category": "Surg Gastro",
+    "a": "C. difficile (wrong answer Yersinia). Any antibiotic can cause it. Diagnose with stool AB toxin test, not culture. Treat with oral vancomycin (stays in the GI tract). The source says it has never seen fidaxomicin or rifaximin on NBME."
+   }
+  ]
+ },
+ {
+  "front": "Euthyroid or hypothyroid patient with a thyroid nodule: ultrasound or FNA?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2242",
+    "category": "Surg Endocrine",
+    "a": "The source's conclusion from NBME/Free 120: ultrasound is correct over FNA if both are listed; if ultrasound is not listed, choose FNA. First palpate the gland, then check TSH."
+   }
+  ]
+ },
+ {
+  "front": "42M with 3 years of GERD + CXR air-fluid level behind the cardiac silhouette?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2391",
+    "category": "Surg Mixed",
+    "a": "Hiatal hernia (next steps on p267)."
+   }
+  ]
+ },
+ {
+  "front": "42M with hiatal hernia: next best step in diagnosis?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2397",
+    "category": "Surg Mixed",
+    "a": "Barium swallow, which shows the proximal stomach herniating through the esophageal hiatus."
+   }
+  ]
+ },
+ {
+  "front": "High ALP + high direct bilirubin + normal enzymes + autoimmune disease in the patient or family?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2403",
+    "category": "Surg Mixed",
+    "a": "Primary biliary cirrhosis (PBC)."
+   }
+  ]
+ },
+ {
+  "front": "8-day-old neonate with jaundice, direct bilirubin 14, total 15 mg/dL?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2407",
+    "category": "Surg Mixed",
+    "a": "Biliary atresia (super HY). Next best step in diagnosis per the source: straight to liver biopsy; if positive, liver transplant."
+   }
+  ]
+ },
+ {
+  "front": "79M with atrial fibrillation + severe acute diffuse abdominal pain?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2408",
+    "category": "Surg Mixed",
+    "a": "Acute mesenteric ischemia from a mural thrombus embolizing to the SMA or IMA. Next step in management: mesenteric arteriography."
+   }
+  ]
+ },
+ {
+  "front": "Treatment of the 79M with acute mesenteric ischemia?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2409",
+    "category": "Surg Mixed",
+    "a": "Antibiotics (for necrotic bowel) then laparotomy to remove necrotic bowel. The source says the stem states IV antibiotics were given and asks the next step: laparotomy. USMLE wants resection of nonviable bowel, though the literature mentions embolectomy."
+   }
+  ]
+ },
+ {
+  "front": "52F with a short ventricular fibrillation episode, defibrillated, now severe abdominal pain?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2410",
+    "category": "Surg Mixed",
+    "a": "Acute mesenteric ischemia from ischemia due to VF, not an embolus: antibiotics; CT if stable; if unstable go straight to laparotomy."
+   }
+  ]
+ },
+ {
+  "front": "55F diabetic with claudication + abdominal pain 1-2 hours after meals?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2411",
+    "category": "Surg Mixed",
+    "a": "Chronic mesenteric ischemia from severe atherosclerosis of the SMA or IMA (angina of the bowel)."
+   }
+  ]
+ },
+ {
+  "front": "Chronic mesenteric ischemia patient with 2 days of severe abdominal pain and fever?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2413",
+    "category": "Surg Mixed",
+    "a": "Acute on chronic mesenteric ischemia (thrombosis; an 'MI' of the bowel): mesenteric arteriography to diagnose; antibiotics + laparotomy to remove necrotic bowel."
+   }
+  ]
+ },
+ {
+  "front": "87F with a coffee bean sign on AXR and obstipation?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2420",
+    "category": "Surg Mixed",
+    "a": "Sigmoid volvulus; the source says the surgery NBME treatment is sigmoidoscopy-guided placement of a rectal tube."
+   }
+  ]
+ },
+ {
+  "front": "22M stressed studying, yellow eyes, similar past episodes, otherwise healthy?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2421",
+    "category": "Surg Mixed",
+    "a": "Gilbert syndrome (decreased glucuronosyltransferase expression, the bilirubin-conjugating enzyme; reduced ability to take up unconjugated bilirubin at the liver). Treatment is reassurance; it is benign."
+   }
+  ]
+ },
+ {
+  "front": "16F with fever, leukocytosis, RLQ pain migrating from the epigastrium?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2423",
+    "category": "Surg Mixed",
+    "a": "Appendicitis. Epigastric pain is visceral; RLQ pain is parietal peritoneal inflammation. In females, pregnancy test + adnexal ultrasound for gyn causes (e.g., ruptured cyst); in males go straight to laparoscopy; if gyn causes are ruled out, laparoscopic removal."
+   }
+  ]
+ },
+ {
+  "front": "2-week-old male with forceful non-bilious vomiting?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2429",
+    "category": "Surg Mixed",
+    "a": "Hypertrophic pyloric stenosis. Diagnose with abdominal ultrasound showing an olive-shaped hypertrophied pylorus."
+   }
+  ]
+ },
+ {
+  "front": "2-week-old male with bilious vomiting?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2431",
+    "category": "Surg Mixed",
+    "a": "Duodenal atresia, annular pancreas, congenital midgut volvulus, or Hirschsprung (Hirschsprung can present with bilious vomiting)."
+   }
+  ]
+ },
+ {
+  "front": "2-week-old with Down syndrome + bilious vomiting + passed meconium vs slow to pass meconium?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2432",
+    "category": "Surg Mixed",
+    "a": "Passed meconium: duodenal atresia. Slow to pass meconium: Hirschsprung."
+   }
+  ]
+ },
+ {
+  "front": "18-month-old with intermittent abdominal pain, crying, blood in stool?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2436",
+    "category": "Surg Mixed",
+    "a": "Intussusception (the same for intermittent squatting or legs to chest + vomiting + FOBT positive)."
+   }
+  ]
+ },
+ {
+  "front": "18-month-old with legs to chest, vomiting, FOBT negative?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2437",
+    "category": "Surg Mixed",
+    "a": "Congenital midgut volvulus (it sounds like intussusception but there is no blood per rectum)."
+   }
+  ]
+ },
+ {
+  "front": "45M cirrhosis + fluid wave + fever + abdominal pain?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2458",
+    "category": "Surg Mixed",
+    "a": "Spontaneous bacterial peritonitis (SBP). Same for a diabetic on peritoneal dialysis with fever and abdominal pain, and for a child with minimal change disease causing ascites."
+   }
+  ]
+ },
+ {
+  "front": "Woman in her 20s-50s with high cholesterol, diffuse pruritus, sister with rheumatoid arthritis?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2461",
+    "category": "Surg Mixed",
+    "a": "Primary biliary cirrhosis (autoimmune diseases go together in patient or family). Dx: anti-mitochondrial Abs first; liver biopsy confirms."
+   }
+  ]
+ },
+ {
+  "front": "Neonate born at 32 weeks with fever, abdominal distension, feeding intolerance, hematochezia?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2462",
+    "category": "Surg Mixed",
+    "a": "Necrotizing enterocolitis, bowel infection in premature neonates, usually <32 weeks gestation."
+   }
+  ]
+ },
+ {
+  "front": "49M with abdominal pain after meals, now sepsis + diffuse acute abdominal pain?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2465",
+    "category": "Surg Mixed",
+    "a": "Ruptured viscus (duodenum). Next step: x-ray of chest + abdomen to look for air under the diaphragm. The source says the exam gives CXR alone, AXR alone, or both as choices."
+   }
+  ]
+ },
+ {
+  "front": "42M with dysphagia to solids and liquids from the start?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2466",
+    "category": "Surg Mixed",
+    "a": "Achalasia. Inability to swallow solids and liquids together implies a neurogenic cause."
+   }
+  ]
+ },
+ {
+  "front": "42M with EtOH history and dysphagia to solids that progresses to liquids?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2467",
+    "category": "Surg Mixed",
+    "a": "Esophageal cancer (SCC). Dysphagia to solids progressing to solids + liquids is cancer until proven otherwise."
+   }
+  ]
+ },
+ {
+  "front": "42M overweight with halitosis, gurgling with fluids, regurgitating undigested food?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2473",
+    "category": "Surg Mixed",
+    "a": "Next step: barium (or gastrografin) swallow; Dx = Zenker diverticulum. With a GERD history, go straight to endoscopy (cancer, not Zenker)."
+   }
+  ]
+ },
+ {
+  "front": "52F with 2 kids, BMI 28, recurrent colicky epigastric pain?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2477",
+    "category": "Surg Mixed",
+    "a": "Ultrasound (cholelithiasis)."
+   }
+  ]
+ },
+ {
+  "front": "45F BMI 29, BP 140/90, high TG, low HDL, high fasting glucose, mildly high AST/ALT?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2478",
+    "category": "Surg Mixed",
+    "a": "NASH from metabolic syndrome; treat with lifestyle modification. The source adds that stems may show completely normal labs, leaving 'she has metabolic syndrome' as the clue."
+   }
+  ]
+ },
+ {
+  "front": "69M with LLQ pain + fever?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2481",
+    "category": "Surg Mixed",
+    "a": "Diverticulitis. CT abdomen with contrast; antibiotics (metronidazole PLUS a fluoroquinolone or Augmentin; metronidazole covers anaerobes). Never scope during suspected diverticulitis (perforation); colonoscopy after it is cleared to rule out malignancy."
+   }
+  ]
+ },
+ {
+  "front": "25M with oral ulcer + bloody diarrhea?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2483",
+    "category": "Surg Mixed",
+    "a": "Crohn disease."
+   }
+  ]
+ },
+ {
+  "front": "28M with morning-worse low back pain that improves through the day + mouth ulcer?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2486",
+    "category": "Surg Mixed",
+    "a": "Crohn disease (oral involvement) + sacroiliitis (ankylosing spondylitis back pain)."
+   }
+  ]
+ },
+ {
+  "front": "20F with bloody diarrhea, sore joints, eczematoid plaque on forehead?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2487",
+    "category": "Surg Mixed",
+    "a": "IBD + psoriatic arthritis."
+   }
+  ]
+ },
+ {
+  "front": "65M with intermittent bloody diarrhea, now 104F fever, abdominal pain, high WBC?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2492",
+    "category": "Surg Mixed",
+    "a": "Toxic megacolon. Dx with AXR (dilated bowel, e.g., 12-cm cecum), not colonoscopy (perforation). AXR is done when looking for gas."
+   }
+  ]
+ },
+ {
+  "front": "55M BMI 33, no diabetes mentioned, 3 months burning in throat?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2494",
+    "category": "Surg Mixed",
+    "a": "GERD; treat with a 2-week PPI trial (omeprazole); relief supports GERD."
+   }
+  ]
+ },
+ {
+  "front": "55M BMI 33, poorly controlled diabetes, 3 months burning in throat?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2495",
+    "category": "Surg Mixed",
+    "a": "Diabetic gastroparesis, not GERD. First pharmacologic treatment metoclopramide; if not listed, erythromycin (motilin receptor agonist)."
+   }
+  ]
+ },
+ {
+  "front": "Gynecomastia in a male with an NBME answer of Sertoli-Leydig cell tumor?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0011",
+    "category": "OB Hormones",
+    "a": "SL tumors make androgens; gynecomastia is possible because of aromatization of androgens to estrogens (granulosa cell tumor not listed)."
+   }
+  ]
+ },
+ {
+  "front": "Gynecomastia in a male taking hCG?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0016",
+    "category": "OB Hormones",
+    "a": "Mechanism: testis producing estrogen. hCG acts like LH + FSH: LH drives androgens, FSH drives aromatase, so androgens convert to estrogens."
+   }
+  ]
+ },
+ {
+  "front": "13-year-old who never had a period with nausea, bloating, breast tenderness?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0018",
+    "category": "OB Hormones",
+    "a": "Check serum beta-hCG (pregnancy can occur before first menses). Always check beta-hCG before isotretinoin (teratogenic)."
+   }
+  ]
+ },
+ {
+  "front": "Mini-summary of male differentiation?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0080",
+    "category": "OB Embryology",
+    "a": "SRY/TDF forms testes; MIF from Sertoli cells regresses Mullerian ducts; testosterone from Leydig cells promotes Wolffian ducts."
+   }
+  ]
+ },
+ {
+  "front": "Male-female equivalents?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0081",
+    "category": "OB Embryology",
+    "a": "Labioscrotal swelling: scrotum/labia majora. Urogenital folds: ventral penile shaft and urethra/labia minora. Urogenital sinus: prostate/Skene glands; Cowper glands/Bartholin glands. Genital tubercle: corpora/vestibular bulbs; glans penis/glans clitoris."
+   }
+  ]
+ },
+ {
+  "front": "Child with foul-smelling vaginal discharge and no trauma?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0172",
+    "category": "OB Gyn Onc",
+    "a": "Vaginal foreign body (children or elderly; no lacerations means not abuse). Sexual abuse vignettes mention lacerations, with or without discharge."
+   }
+  ]
+ },
+ {
+  "front": "First event before female puberty?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0258",
+    "category": "OB Puberty",
+    "a": "Breast bud development."
+   }
+  ]
+ },
+ {
+  "front": "CAH mechanism in a 46,XX girl with fused labia?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0274",
+    "category": "OB Sex Disorders",
+    "a": "ACTH hypersecretion: low cortisol raises ACTH, driving adrenal androgens (DHEA-S)."
+   }
+  ]
+ },
+ {
+  "front": "Neonate of a diabetic mother?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0313",
+    "category": "OB Diabetes in Pregnancy",
+    "a": "Maternal insulin does not cross the placenta; the fetus makes its own and stays hyperinsulinemic after birth, causing hypoglycemia (rigors, seizure; answer: decreased gluconeogenesis). Possible pentad: hypoglycemia, hyperbilirubinemia, polycythemia, hypocalcemia, hypomagnesemia. Long QT: choose hypocalcemia over hypomagnesemia."
+   }
+  ]
+ },
+ {
+  "front": "Thyroid labs in a euthyroid pregnant woman?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0325",
+    "category": "OB Thyroid in Pregnancy",
+    "a": "Normal TSH, normal free T4, increased total T4 (estrogen increases TBG; the source says estrogen, not progesterone)."
+   }
+  ]
+ },
+ {
+  "front": "Postmenopausal overweight woman with bleeding?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0430",
+    "category": "OB PCOS",
+    "a": "Endometrial biopsy; past anovulatory cycles and hyperplasia increase endometrial cancer risk."
+   }
+  ]
+ },
+ {
+  "front": "Male differentiation cascade?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0520",
+    "category": "OB Rapid Review",
+    "a": "SRY gives testis-determining factor, so testes form (90% seminiferous tubules). Leydig cells make testosterone (Wolffian structures), converted to DHT by 5-alpha-reductase (prostate and external male structures)."
+   }
+  ]
+ },
+ {
+  "front": "18F with no withdrawal bleeding?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0621",
+    "category": "OB Vignettes",
+    "a": "Untreated for ten years: osteoporosis (low estrogen)."
+   }
+  ]
+ },
+ {
+  "front": "42F with heavy painful periods?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0625",
+    "category": "OB Vignettes",
+    "a": "Two kids, no more wanted, husband to have vasectomy, regular periods, no other abnormalities: endometrial ablation."
+   }
+  ]
+ },
+ {
+  "front": "Large breast lump in a 14-year-old?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0627",
+    "category": "OB Vignettes",
+    "a": "4x6 cm slightly tender left breast mass, aunt died of breast cancer: follow up in 6 months (virginal breast hypertrophy, a normal response to estrogen)."
+   }
+  ]
+ },
+ {
+  "front": "13F with no menses, morning vomiting and suprapubic fullness?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0659",
+    "category": "OB Vignettes",
+    "a": "Beta-hCG (pregnancy can occur before first menstruation)."
+   }
+  ]
+ },
+ {
+  "front": "32F infertile 3 years with BMI 30 and acanthosis?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0666",
+    "category": "OB Vignettes",
+    "a": "Type 2 diabetes (PCOS/anovulation not listed; hypercortisolism wrong since no striae, wasting or central obesity)."
+   }
+  ]
+ },
+ {
+  "front": "46,XX neonate with phallus and scrotum?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0716",
+    "category": "OB Vignettes",
+    "a": "Mechanism: ACTH hypersecretion (21- or 11-hydroxylase deficiency lowers cortisol; precursors shunt to DHEA-S and androstenedione, virilizing)."
+   }
+  ]
+ },
+ {
+  "front": "21F requesting OCPs?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0719",
+    "category": "OB Vignettes",
+    "a": "Pap normal: also check for chlamydia (Pap starts at 21, STI checks from sexual onset)."
+   }
+  ]
+ },
+ {
+  "front": "Child with discharge and spotting?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0748",
+    "category": "OB Vignettes",
+    "a": "5F foul yellow discharge, spotting, mild vulvar erythema: vaginal foreign body (abuse would show lacerations or trauma). 82F with Alzheimer and 3 cm laceration, edematous perineal body: sexual assault."
+   }
+  ]
+ },
+ {
+  "front": "G3P2 Rh-negative at first visit?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0770",
+    "category": "OB Vignettes",
+    "a": "Received RhoGAM before: indirect antiglobulin (Coombs) test to see whether she formed anti-Rh antibodies."
+   }
+  ]
+ },
+ {
+  "front": "Neonate with PDA?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0785",
+    "category": "OB Vignettes",
+    "a": "Mother may have had arthritis, not rash: congenital rubella."
+   }
+  ]
+ },
+ {
+  "front": "Hepatitis B and the newborn?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0789",
+    "category": "OB Vignettes",
+    "a": "Mother HBsAg positive: HBIG + vaccine within 12 hours. Negative: vaccine within 12 hours. Unknown: vaccine within 12 hours, HBIG within 7 days if her test is positive or stays unknown."
+   }
+  ]
+ },
+ {
+  "front": "16F, 5 feet 9 inches, sparse hair?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0794",
+    "category": "OB Vignettes",
+    "a": "AIS (karyotypically male despite 'girl' in the stem)."
+   }
+  ]
+ },
+ {
+  "front": "12F with clitoromegaly and no uterus?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0795",
+    "category": "OB Vignettes",
+    "a": "One-year hair growth and acne, 2 cm vaginal canal, clitoromegaly, posterior labioscrotal fusion, no cervix or uterus: 5-alpha-reductase deficiency; shelf asks karyotype: 46,XY."
+   }
+  ]
+ },
+ {
+  "front": "Prior 4540 g neonate?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0807",
+    "category": "OB Vignettes",
+    "a": "Increased risk of gestational diabetes. Screen normal-risk women at 24-28 weeks."
+   }
+  ]
+ },
+ {
+  "front": "Diabetic mother's neonate with NRDS?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0808",
+    "category": "OB Vignettes",
+    "a": "Fetal hormone responsible: insulin (inhibits surfactant production); maternal insulin does not cross the placenta."
+   }
+  ]
+ }
+]

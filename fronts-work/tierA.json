@@ -1,0 +1,2744 @@
+[
+ {
+  "front": "Treatment of vWD?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2504",
+    "category": "Peds vignettes",
+    "a": "Desmopressin (DDAVP), which stimulates release of vWF from endothelial cells."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-1406",
+    "category": "IM Heme/Onc",
+    "a": "Desmopressin (DDAVP), which can in theory increase functional vWF levels."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1178",
+    "category": "Surg Heme/Onc",
+    "a": "Desmopressin (DDAVP), which can in theory increase functional vWF levels."
+   }
+  ],
+  "converted": "What is the treatment for vWD?"
+ },
+ {
+  "front": "Treatment of hemophilia A versus B?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2506",
+    "category": "Peds vignettes",
+    "a": "Hemophilia A: DDAVP and factor VIII replacement. Hemophilia B: factor IX replacement only; DDAVP cannot be used."
+   }
+  ],
+  "converted": "What is the treatment for hemophilia A versus B?"
+ },
+ {
+  "front": "Most common organism causing epididymitis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2533",
+    "category": "Peds vignettes",
+    "a": "Chlamydia in sexually active younger males; E. coli in elderly males; same for prostatitis. If the vignette says no organisms grow on culture, choose Chlamydia."
+   }
+  ],
+  "converted": "What is the most common organism causing epididymitis?"
+ },
+ {
+  "front": "Treatment of hydrocele?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2538",
+    "category": "Peds vignettes",
+    "a": "Observe until age 1, since most resolve spontaneously (almost always the answer); after age 1, surgery can be considered."
+   }
+  ],
+  "converted": "What is the treatment for hydrocele?"
+ },
+ {
+  "front": "Treatment of cryptorchidism?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2539",
+    "category": "Peds vignettes",
+    "a": "Observe; no orchiopexy until at least age 1; most spontaneously descend in the first year."
+   }
+  ],
+  "converted": "What is the treatment for cryptorchidism?"
+ },
+ {
+  "front": "Treatment for scabies?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2546",
+    "category": "Peds vignettes",
+    "a": "Topical permethrin."
+   }
+  ],
+  "converted": "What is the treatment for scabies?"
+ },
+ {
+  "front": "Treatment for pediculosis (lice)?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2547",
+    "category": "Peds vignettes",
+    "a": "Topical permethrin."
+   }
+  ],
+  "converted": "What is the treatment for pediculosis (lice)?"
+ },
+ {
+  "front": "Treatment of JRA?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2561",
+    "category": "Peds vignettes",
+    "a": "NSAIDs plus corticosteroids."
+   }
+  ],
+  "converted": "What is the treatment for JRA?"
+ },
+ {
+  "front": "Treatment of Legg-Calve-Perthes disease?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2587",
+    "category": "Peds vignettes",
+    "a": "Hip replacement (per the source)."
+   }
+  ],
+  "converted": "What is the treatment for Legg-Calve-Perthes disease?"
+ },
+ {
+  "front": "Treatment for nursemaid's elbow?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2593",
+    "category": "Peds vignettes",
+    "a": "Hyperpronation or gentle supination (both are correct answers; only one will be listed)."
+   }
+  ],
+  "converted": "What is the treatment for nursemaid's elbow?"
+ },
+ {
+  "front": "Treatment of erysipelas and cellulitis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2638",
+    "category": "Peds vignettes",
+    "a": "Oral dicloxacillin or oral cephalexin."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-4130",
+    "category": "IM Mixed",
+    "a": "Oral dicloxacillin or oral cephalexin."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-4458",
+    "category": "IM Mixed",
+    "a": "Oral dicloxacillin or oral cephalexin: both cover Staph + Strep; penicillin covers only Strep."
+   }
+  ],
+  "converted": "What is the treatment for erysipelas and cellulitis?"
+ },
+ {
+  "front": "Most common cause of otitis media?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2639",
+    "category": "Peds vignettes",
+    "a": "Streptococcus pneumoniae."
+   }
+  ],
+  "converted": "What is the most common cause of otitis media?"
+ },
+ {
+  "front": "Treatment of otitis media?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2640",
+    "category": "Peds vignettes",
+    "a": "Oral amoxicillin only."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-4029",
+    "category": "IM Mixed",
+    "a": "Amoxicillin. Amoxicillin/clavulanate (Augmentin) is the wrong initial answer; use it for recurrent otitis media."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0526",
+    "category": "Surg Pulmonary",
+    "a": "Amoxicillin. Amoxicillin/clavulanate (Augmentin) is the wrong initial answer; use it for recurrent otitis media."
+   }
+  ],
+  "converted": "What is the treatment for otitis media?"
+ },
+ {
+  "front": "Treatment of recurrent otitis media?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2641",
+    "category": "Peds vignettes",
+    "a": "Amoxicillin/clavulanate."
+   }
+  ],
+  "converted": "What is the treatment for recurrent otitis media?"
+ },
+ {
+  "front": "Most common cause of otitis externa?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2643",
+    "category": "Peds vignettes",
+    "a": "Pseudomonas."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-4026",
+    "category": "IM Mixed",
+    "a": "Pseudomonas."
+   }
+  ],
+  "converted": "What is the most common cause of otitis externa?"
+ },
+ {
+  "front": "Treatment of otitis externa?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2644",
+    "category": "Peds vignettes",
+    "a": "Topical ciprofloxacin plus hydrocortisone drops."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-4023",
+    "category": "IM Mixed",
+    "a": "Topical ciprofloxacin + hydrocortisone drops."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0539",
+    "category": "Surg Pulmonary",
+    "a": "Topical ciprofloxacin + hydrocortisone drops."
+   }
+  ],
+  "converted": "What is the treatment for otitis externa?"
+ },
+ {
+  "front": "Treatment for pathologic jaundice?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2703",
+    "category": "Peds vignettes",
+    "a": "Phototherapy first, followed by exchange transfusion; some literature supports IVIG after phototherapy, but USMLE has exchange transfusion as correct without listing IVIG."
+   }
+  ],
+  "converted": "What is the treatment for pathologic jaundice?"
+ },
+ {
+  "front": "Treatment of neonatal GBS sepsis?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2742",
+    "category": "Peds vignettes",
+    "a": "Ampicillin plus gentamicin; the wrong answer is ceftriaxone plus vancomycin."
+   }
+  ],
+  "converted": "What is the treatment for neonatal GBS sepsis?"
+ },
+ {
+  "front": "Best way to prevent chlamydial and gonococcal ophthalmia neonatorum?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2774",
+    "category": "Peds vignettes",
+    "a": "Effective treatment of the mother prior to delivery."
+   }
+  ],
+  "converted": "What is the best way to prevent chlamydial and gonococcal ophthalmia neonatorum?"
+ },
+ {
+  "front": "Treatment of chlamydial ophthalmia neonatorum?",
+  "items": [
+   {
+    "bank": "s2peds",
+    "id": "s2peds-2777",
+    "category": "Peds vignettes",
+    "a": "Oral erythromycin; topical is not only less effective but also does not account for any organism having entered the nasopharynx and/or lungs."
+   }
+  ],
+  "converted": "What is the treatment for chlamydial ophthalmia neonatorum?"
+ },
+ {
+  "front": "Mechanism of bilateral pitting edema from right heart failure?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0011",
+    "category": "IM Cardio",
+    "a": "Right heart failure decreases the ability to fill the right heart, raising central venous pressure and systemic venous hydrostatic pressure, so fluid transudates from systemic veins and venules into the interstitium of the legs."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0009",
+    "category": "Surg Cardio",
+    "a": "Right heart failure decreases the ability to fill the right heart, raising central venous pressure and systemic venous hydrostatic pressure, so fluid transudates from systemic veins and venules into the interstitium of the legs."
+   }
+  ],
+  "converted": "What is the mechanism of bilateral pitting edema from right heart failure?"
+ },
+ {
+  "front": "Drugs causing bilateral pitting edema?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0014",
+    "category": "IM Cardio",
+    "a": "Dihydropyridine calcium channel blockers (amlodipine, nifedipine) and imatinib (targets BCR/ABL in CML); other mechanisms are not important for USMLE."
+   }
+  ],
+  "converted": "Which drugs cause bilateral pitting edema?"
+ },
+ {
+  "front": "Causes of unilateral non-pitting edema (lymphatic insufficiency)?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0016",
+    "category": "IM Cardio",
+    "a": "Malignancy (e.g., peau d'orange of the breast), history of surgery (e.g., mastectomy), and Wuchereria bancrofti (elephantiasis)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0012",
+    "category": "Surg Cardio",
+    "a": "Malignancy (e.g., peau d'orange of the breast), history of surgery (e.g., mastectomy), and Wuchereria bancrofti (elephantiasis)."
+   }
+  ],
+  "converted": "What are the causes of unilateral non-pitting edema (lymphatic insufficiency)?"
+ },
+ {
+  "front": "Cause of mitral stenosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0039",
+    "category": "IM Cardio",
+    "a": "99% due to history of rheumatic heart disease (MR at the time, MS years later)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0037",
+    "category": "Surg Cardio",
+    "a": "99% due to history of rheumatic heart disease (MR at the time, MS years later)."
+   }
+  ],
+  "converted": "What are the causes of mitral stenosis?"
+ },
+ {
+  "front": "First-line treatment of mitral stenosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0043",
+    "category": "IM Cardio",
+    "a": "Balloon valvuloplasty, if minimal calcification of the valve plus pulmonary hypertension. Valve replacement if valvuloplasty fails, or severe MS with dyspnea, arrhythmia or calcification."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0041",
+    "category": "Surg Cardio",
+    "a": "Balloon valvuloplasty, if minimal calcification of the valve plus pulmonary hypertension. Valve replacement if valvuloplasty fails, or severe MS with dyspnea, arrhythmia or calcification."
+   }
+  ],
+  "converted": "What is the first-line treatment of mitral stenosis?"
+ },
+ {
+  "front": "Cause of aortic stenosis and inheritance of bicuspid valve?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0054",
+    "category": "IM Cardio",
+    "a": "Often a bicuspid aortic valve. The patient need not have Turner syndrome; bicuspid valve is usually inherited as autosomal dominant. It need not calcify in middle age and can present with an AS murmur in a child or high schooler."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0058",
+    "category": "Surg Cardio",
+    "a": "Often a bicuspid aortic valve. The patient need not have Turner syndrome; bicuspid valve is usually inherited as autosomal dominant. It need not calcify in middle age and can present with an AS murmur in a child or high schooler."
+   }
+  ],
+  "converted": "What are the causes of aortic stenosis and inheritance of bicuspid valve?"
+ },
+ {
+  "front": "Treatment of tetralogy of Fallot?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0073",
+    "category": "IM Cardio",
+    "a": "Surgical correction in infancy or early childhood."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0074",
+    "category": "Surg Cardio",
+    "a": "Surgical correction in infancy or early childhood."
+   }
+  ],
+  "converted": "What is the treatment for tetralogy of Fallot?"
+ },
+ {
+  "front": "Treatment of ascending (type A) versus descending (type B) aortic aneurysm for 2CK?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0113",
+    "category": "IM Cardio",
+    "a": "Type A: labetalol + surgery. Type B: labetalol alone initially."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0108",
+    "category": "Surg Cardio",
+    "a": "Type A: labetalol + surgery. Type B: labetalol alone initially."
+   }
+  ],
+  "converted": "What is the treatment for ascending (type A) versus descending (type B) aortic aneurysm for 2CK?"
+ },
+ {
+  "front": "First-line drug in aortic dissection and traumatic rupture?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0116",
+    "category": "IM Cardio",
+    "a": "Labetalol first; nitroprusside comes after."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0111",
+    "category": "Surg Cardio",
+    "a": "Labetalol first; nitroprusside comes after."
+   }
+  ],
+  "converted": "What is the first-line drug in aortic dissection and traumatic rupture?"
+ },
+ {
+  "front": "Most common cause of death due to MI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0163",
+    "category": "IM Cardio",
+    "a": "Ventricular fibrillation (VF)."
+   }
+  ],
+  "converted": "What is the most common cause of death due to MI?"
+ },
+ {
+  "front": "Causes of DCM mnemonic?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0210",
+    "category": "IM Cardio",
+    "a": "ABCD: Alcohol; B = wet Beriberi (thiamine deficiency); C = Coxsackie B virus, Cocaine, Chagas disease; D = Drugs, doxorubicin (Adriamycin)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0197",
+    "category": "Surg Cardio",
+    "a": "ABCD: Alcohol; B = wet Beriberi (thiamine deficiency); C = Coxsackie B virus, Cocaine, Chagas disease; D = Drugs, doxorubicin (Adriamycin)."
+   }
+  ],
+  "converted": "What are the causes of DCM mnemonic?"
+ },
+ {
+  "front": "Drugs for hypertensive emergency?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0243",
+    "category": "IM Cardio",
+    "a": "IV sodium nitroprusside, IV nicardipine, IV labetalol and oral captopril."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0223",
+    "category": "Surg Cardio",
+    "a": "IV sodium nitroprusside, IV nicardipine, IV labetalol and oral captopril."
+   }
+  ],
+  "converted": "Which drugs are used for hypertensive emergency?"
+ },
+ {
+  "front": "First-line HTN drugs?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0361",
+    "category": "IM Cardio",
+    "a": "Thiazides and dihydropyridine calcium channel blockers in patients without renal or cardiovascular issues. With proteinuria, raised creatinine or renin, or pre-diabetes/diabetes: ACEi or ARB first."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0759",
+    "category": "Surg Renal",
+    "a": "Thiazides and dihydropyridine calcium channel blockers in patients without renal or cardiovascular issues. With proteinuria, raised creatinine or renin, or pre-diabetes/diabetes: ACEi or ARB first."
+   }
+  ],
+  "converted": "What is the first-line HTN drugs?"
+ },
+ {
+  "front": "Mechanism of hypoxemia in pulmonary edema?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0433",
+    "category": "IM Pulmonary",
+    "a": "High A-a gradient: transudate in alveolar spaces impedes gas exchange while respirations are otherwise fine."
+   }
+  ],
+  "converted": "What is the mechanism of hypoxemia in pulmonary edema?"
+ },
+ {
+  "front": "Treatment of small cell carcinoma on 2CK?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0440",
+    "category": "IM Pulmonary",
+    "a": "Chemotherapy; do not do surgery. The source believes it is the only time it has seen straight 'chemotherapy' as the correct NBME answer."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0340",
+    "category": "Surg Pulmonary",
+    "a": "Chemotherapy; do not do surgery. The source believes it is the only time it has seen straight 'chemotherapy' as the correct NBME answer."
+   }
+  ],
+  "converted": "What is the treatment for small cell carcinoma on 2CK?"
+ },
+ {
+  "front": "Treatment of IPF on 2CK?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0473",
+    "category": "IM Pulmonary",
+    "a": "Pirfenidone, an anti-fibrotic agent that inhibits TGF-beta-mediated synthesis of collagen."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0368",
+    "category": "Surg Pulmonary",
+    "a": "Pirfenidone, an anti-fibrotic agent that inhibits TGF-beta-mediated synthesis of collagen."
+   }
+  ],
+  "converted": "What is the treatment for IPF on 2CK?"
+ },
+ {
+  "front": "First-line COPD drug therapy?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0477",
+    "category": "IM Pulmonary",
+    "a": "A long-acting muscarinic antagonist (LAMA, e.g., tiotropium) or a long-acting beta-2 agonist (LABA, e.g., olodaterol), alone or combined. If insufficient, add an inhaled corticosteroid (e.g., fluticasone)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0371",
+    "category": "Surg Pulmonary",
+    "a": "A long-acting muscarinic antagonist (LAMA, e.g., tiotropium) or a long-acting beta-2 agonist (LABA, e.g., olodaterol), alone or combined. If insufficient, add an inhaled corticosteroid (e.g., fluticasone)."
+   }
+  ],
+  "converted": "What is the first-line COPD drug therapy?"
+ },
+ {
+  "front": "Mechanism of aspirin-induced asthma?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0494",
+    "category": "IM Pulmonary",
+    "a": "Aspirin inhibits COX, shunting arachidonic acid down the lipoxygenase pathway, so leukotrienes rise and bronchoconstriction increases. Samter triad = aspirin allergy, asthma, nasal polyps."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0386",
+    "category": "Surg Pulmonary",
+    "a": "Aspirin inhibits COX, shunting arachidonic acid down the lipoxygenase pathway, so leukotrienes rise and bronchoconstriction increases. Samter triad = aspirin allergy, asthma, nasal polyps."
+   }
+  ],
+  "converted": "What is the mechanism of aspirin-induced asthma?"
+ },
+ {
+  "front": "Best initial diagnostic step in asthma?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0498",
+    "category": "IM Pulmonary",
+    "a": "Spirometry; the expiratory component of the flow-volume curve appears concave. Methacholine challenge (a muscarinic agonist) can also diagnose, but never give it during an acute episode; if forced to choose, pick spirometry."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0389",
+    "category": "Surg Pulmonary",
+    "a": "Spirometry; the expiratory component of the flow-volume curve appears concave. Methacholine challenge (a muscarinic agonist) can also diagnose, but never give it during an acute episode; if forced to choose, pick spirometry."
+   }
+  ],
+  "converted": "What is the best initial diagnostic step in asthma?"
+ },
+ {
+  "front": "Causes of bronchiectasis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0505",
+    "category": "IM Pulmonary",
+    "a": "Most common cause worldwide is TB; most common in western countries is CF; but on USMLE it will usually be a smoker. The source says asthma does not cause bronchiectasis."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0397",
+    "category": "Surg Pulmonary",
+    "a": "Most common cause worldwide is TB; most common in western countries is CF; but on USMLE it will usually be a smoker. The source says asthma does not cause bronchiectasis."
+   }
+  ],
+  "converted": "What are the causes of bronchiectasis?"
+ },
+ {
+  "front": "Diagnosis of CF?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0527",
+    "category": "IM Pulmonary",
+    "a": "Sweat glands normally reabsorb Cl-, impaired in CF, so sweat chloride is increased (>60 mEq/L). The sweat chloride test is more accurate than genotyping because of allelic heterogeneity of CFTR. A transepithelial nasal voltage test shows increased nasal potential difference."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0417",
+    "category": "Surg Pulmonary",
+    "a": "Sweat glands normally reabsorb Cl-, impaired in CF, so sweat chloride is increased (>60 mEq/L). The sweat chloride test is more accurate than genotyping because of allelic heterogeneity of CFTR. A transepithelial nasal voltage test shows increased nasal potential difference."
+   }
+  ],
+  "converted": "How is CF diagnosed?"
+ },
+ {
+  "front": "Most common cause of death from PE?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0560",
+    "category": "IM Pulmonary",
+    "a": "The source says ventricular fibrillation, from acute right heart strain by a saddle embolus precipitating Vfib."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0443",
+    "category": "Surg Pulmonary",
+    "a": "The source says ventricular fibrillation, from acute right heart strain by a saddle embolus precipitating Vfib."
+   }
+  ],
+  "converted": "What is the most common cause of death from PE?"
+ },
+ {
+  "front": "Treatment of pneumothorax?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0581",
+    "category": "IM Pulmonary",
+    "a": "'Needle decompression followed by chest tube' is the HY phrase. One 2CK question has only 'tube thoracostomy' listed; choose it. Pleurodesis (talc into the pleural space to obliterate it for recurrent pneumothorax) has only appeared as a distractor."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0458",
+    "category": "Surg Pulmonary",
+    "a": "'Needle decompression followed by chest tube' is the HY phrase. One 2CK question has only 'tube thoracostomy' listed; choose it. Pleurodesis (talc into the pleural space to obliterate it for recurrent pneumothorax) has only appeared as a distractor."
+   }
+  ],
+  "converted": "What is the treatment for pneumothorax?"
+ },
+ {
+  "front": "Causes of pleural effusion on USMLE?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0585",
+    "category": "IM Pulmonary",
+    "a": "Left heart failure (pulmonary edema +/- effusion) is notable. Also pneumonias, tuberculosis and aortic dissection."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0461",
+    "category": "Surg Pulmonary",
+    "a": "Left heart failure (pulmonary edema +/- effusion) is notable. Also pneumonias, tuberculosis and aortic dissection."
+   }
+  ],
+  "converted": "What are the causes of pleural effusion on USMLE?"
+ },
+ {
+  "front": "Mechanism of dyspnea in MI with pulmonary edema?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0594",
+    "category": "IM Pulmonary",
+    "a": "'Increased alveolar-arteriolar oxygen gradient': the patient can breathe, so alveolar O2 is normal, but fluid impairs gas exchange, so arterial/arteriolar O2 is low."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0472",
+    "category": "Surg Pulmonary",
+    "a": "'Increased alveolar-arteriolar oxygen gradient': the patient can breathe, so alveolar O2 is normal, but fluid impairs gas exchange, so arterial/arteriolar O2 is low."
+   }
+  ],
+  "converted": "What is the mechanism of dyspnea in MI with pulmonary edema?"
+ },
+ {
+  "front": "Management of epiglottitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0631",
+    "category": "IM Pulmonary",
+    "a": "Intubation: a medical emergency with risk of sudden airway occlusion. Treatment is a 3rd-generation cephalosporin (cefotaxime in peds, or ceftriaxone); rifampin for close contacts."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0497",
+    "category": "Surg Pulmonary",
+    "a": "Intubation: a medical emergency with risk of sudden airway occlusion. Treatment is a 3rd-generation cephalosporin (cefotaxime in peds, or ceftriaxone); rifampin for close contacts."
+   }
+  ],
+  "converted": "How is epiglottitis managed?"
+ },
+ {
+  "front": "Drugs causing ATN?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0806",
+    "category": "IM Renal",
+    "a": "Aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin, IV contrast. Any of these + new oliguria or increased creatinine = ATN even without casts. A new NBME gives many drugs and creatinine 2 (NR 0.1-1.2) and asks what was given: gentamicin."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0637",
+    "category": "Surg Renal",
+    "a": "Aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin, IV contrast. Any of these + new oliguria or increased creatinine = ATN even without casts. A new NBME gives many drugs and creatinine 2 (NR 0.1-1.2) and asks what was given: gentamicin."
+   }
+  ],
+  "converted": "Which drugs cause ATN?"
+ },
+ {
+  "front": "Causes of acute ischemia causing ATN?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0815",
+    "category": "IM Renal",
+    "a": "Blood loss from trauma/surgery, acute arrhythmia (e.g., 30 seconds of VFib), MI, or acute exacerbation of heart failure (2CK Free 120). These cause ATN, not pre-renal; pre-renal is more subacute/chronic (NSAID use, recent diuretic, dehydration). There are rare exceptions."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0653",
+    "category": "Surg Renal",
+    "a": "Blood loss from trauma/surgery, acute arrhythmia (e.g., 30 seconds of VFib), MI, or acute exacerbation of heart failure (2CK Free 120). These cause ATN, not pre-renal; pre-renal is more subacute/chronic (NSAID use, recent diuretic, dehydration). There are rare exceptions."
+   }
+  ],
+  "converted": "What are the causes of acute ischemia causing ATN?"
+ },
+ {
+  "front": "Mechanism of RPN?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0820",
+    "category": "IM Renal",
+    "a": "Loss of renal medulla from ischemia, usually subacute or chronic unlike ATN. NSAIDs are a notable cause: decreased afferent blood flow from decreased vasodilating prostaglandins over weeks-months. Sickle crises cause more acute focal ischemia in the medulla's microvasculature."
+   }
+  ],
+  "converted": "What is the mechanism of RPN?"
+ },
+ {
+  "front": "Diagnosis of RAS?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0841",
+    "category": "IM Renal",
+    "a": "After renin and aldosterone levels: MR angiography of the renal vessels (the USMLE next best step)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0671",
+    "category": "Surg Renal",
+    "a": "After renin and aldosterone levels: MR angiography of the renal vessels (the USMLE next best step)."
+   }
+  ],
+  "converted": "How is RAS diagnosed?"
+ },
+ {
+  "front": "Causes of calcium oxalate stones?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0855",
+    "category": "IM Renal",
+    "a": "Crohn disease and fat malabsorption (fat in the gut chelates calcium, leaving more free oxalate to be absorbed, so urinary oxalate rises). Primary hyperparathyroidism and malignancy with hypercalcemia. Ethylene glycol and hypervitaminosis C."
+   }
+  ],
+  "converted": "What are the causes of calcium oxalate stones?"
+ },
+ {
+  "front": "Treatment of pyelonephritis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0881",
+    "category": "IM Renal",
+    "a": "Ciprofloxacin or ceftriaxone; USMLE is known to ask these. Persistent fever despite antibiotics: CT to look for perinephric abscess."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0712",
+    "category": "Surg Renal",
+    "a": "Ciprofloxacin or ceftriaxone; USMLE is known to ask these. Persistent fever despite antibiotics: CT to look for perinephric abscess."
+   }
+  ],
+  "converted": "What is the treatment for pyelonephritis?"
+ },
+ {
+  "front": "Treatment of stress incontinence?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0897",
+    "category": "IM Renal",
+    "a": "Pelvic floor (Kegel) exercises, which strengthen levator ani, pubococcygeus and the external urethral sphincter."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0723",
+    "category": "Surg Renal",
+    "a": "Pelvic floor (Kegel) exercises, which strengthen levator ani, pubococcygeus and the external urethral sphincter."
+   }
+  ],
+  "converted": "What is the treatment for stress incontinence?"
+ },
+ {
+  "front": "Mechanism of urge incontinence?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0901",
+    "category": "IM Renal",
+    "a": "Detrusor hyperactivity (detrusor instability). A vignette may say she has the urge when stepping out of her car or sticking her key in the door."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0727",
+    "category": "Surg Renal",
+    "a": "Detrusor hyperactivity (detrusor instability). A vignette may say she has the urge when stepping out of her car or sticking her key in the door."
+   }
+  ],
+  "converted": "What is the mechanism of urge incontinence?"
+ },
+ {
+  "front": "Treatment of urge incontinence?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0903",
+    "category": "IM Renal",
+    "a": "Oxybutynin (muscarinic receptor antagonist), which decreases detrusor activity. The source has never seen mirabegron (beta-3 agonist) assessed on NBME forms."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-3819",
+    "category": "IM Mixed",
+    "a": "Oxybutynin (muscarinic cholinergic antagonist) or mirabegron (beta-3 agonist)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0729",
+    "category": "Surg Renal",
+    "a": "Oxybutynin (muscarinic receptor antagonist), which decreases detrusor activity. The source has never seen mirabegron (beta-3 agonist) assessed on NBME forms."
+   }
+  ],
+  "converted": "What is the treatment for urge incontinence?"
+ },
+ {
+  "front": "Drugs causing renal conditions?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0931",
+    "category": "IM Renal",
+    "a": "Acute tubular necrosis: aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin. Interstitial nephritis: NSAIDs, beta-lactams, cephalosporins. Membranous glomerulonephropathy: dapsone, gold salts, sulfonamides."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0751",
+    "category": "Surg Renal",
+    "a": "Acute tubular necrosis: aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin. Interstitial nephritis: NSAIDs, beta-lactams, cephalosporins. Membranous glomerulonephropathy: dapsone, gold salts, sulfonamides."
+   }
+  ],
+  "converted": "Which drugs cause renal conditions?"
+ },
+ {
+  "front": "Cause of pediatric GERD?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0996",
+    "category": "IM Gastro",
+    "a": "Immature lower esophageal sphincter."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0787",
+    "category": "Surg Gastro",
+    "a": "Immature lower esophageal sphincter."
+   }
+  ],
+  "converted": "What are the causes of pediatric GERD?"
+ },
+ {
+  "front": "Treatment of pediatric GERD?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-0997",
+    "category": "IM Gastro",
+    "a": "Thickened feeds (adding dry rice to formula) and positional change before any PPI."
+   }
+  ],
+  "converted": "What is the treatment for pediatric GERD?"
+ },
+ {
+  "front": "Mechanism of hepatocellular damage?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1228",
+    "category": "IM Gastro",
+    "a": "T-cell-mediated apoptosis, not direct viral cytopathicity (same for general hepatic inflammation). Choose T cell response."
+   }
+  ],
+  "converted": "What is the mechanism of hepatocellular damage?"
+ },
+ {
+  "front": "Drugs causing transaminitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1249",
+    "category": "IM Gastro",
+    "a": "Statins and fibrates, methotrexate, lithium, valproic acid, propylthiouracil. Mild transaminitis is expected; do not decrease dose. For statins, myopathy is more common than toxic hepatitis (NBME)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1025",
+    "category": "Surg Gastro",
+    "a": "Statins and fibrates, methotrexate, lithium, valproic acid, propylthiouracil. Mild transaminitis is expected; do not decrease dose. For statins, myopathy is more common than toxic hepatitis (NBME)."
+   }
+  ],
+  "converted": "Which drugs cause transaminitis?"
+ },
+ {
+  "front": "Treatment of IDA?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1356",
+    "category": "IM Heme/Onc",
+    "a": "Oral iron, always preferred over parenteral (IV) or IM iron; 'parenteral iron' is basically always a distractor. Oral iron causes constipation and black stools. Iron, aluminum (antacid) and verapamil all cause constipation."
+   }
+  ],
+  "converted": "What is the treatment for IDA?"
+ },
+ {
+  "front": "Treatment of polycythemia vera?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1385",
+    "category": "IM Heme/Onc",
+    "a": "Phlebotomy for acute symptoms of hyperviscosity (next best step for headache/blurry vision). Serial phlebotomy and hydroxyurea can be answers for recurrent symptoms; USMLE won't give both at the same time."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1156",
+    "category": "Surg Heme/Onc",
+    "a": "Phlebotomy for acute symptoms of hyperviscosity (next best step for headache/blurry vision). Serial phlebotomy and hydroxyurea can be answers for recurrent symptoms; USMLE won't give both at the same time."
+   }
+  ],
+  "converted": "What is the treatment for polycythemia vera?"
+ },
+ {
+  "front": "Treatment of ET?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1442",
+    "category": "IM Heme/Onc",
+    "a": "Aspirin plus plateletpheresis (removing platelets from blood)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1210",
+    "category": "Surg Heme/Onc",
+    "a": "Aspirin plus plateletpheresis (removing platelets from blood)."
+   }
+  ],
+  "converted": "What is the treatment for ET?"
+ },
+ {
+  "front": "Treatment of RT?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1447",
+    "category": "IM Heme/Onc",
+    "a": "Address the underlying infection and give aspirin. The source hasn't seen RT as a correct NBME answer, only as an incidental finding."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1215",
+    "category": "Surg Heme/Onc",
+    "a": "Address the underlying infection and give aspirin. The source hasn't seen RT as a correct NBME answer, only as an incidental finding."
+   }
+  ],
+  "converted": "What is the treatment for RT?"
+ },
+ {
+  "front": "Causes of aplastic anemia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1477",
+    "category": "IM Heme/Onc",
+    "a": "Parvovirus B19 (infects myeloid progenitors, erythroid progenitors and megakaryocytes), other viruses such as Hepatitis A or HIV, chemo- and/or radiotherapy."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1238",
+    "category": "Surg Heme/Onc",
+    "a": "Parvovirus B19 (infects myeloid progenitors, erythroid progenitors and megakaryocytes), other viruses such as Hepatitis A or HIV, chemo- and/or radiotherapy."
+   }
+  ],
+  "converted": "What are the causes of aplastic anemia?"
+ },
+ {
+  "front": "Causes of pure-RBC aplasia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1480",
+    "category": "IM Heme/Onc",
+    "a": "Parvovirus B19. Thymoma (which can also cause myasthenia gravis)."
+   }
+  ],
+  "converted": "What are the causes of pure-RBC aplasia?"
+ },
+ {
+  "front": "Treatment of hereditary spherocytosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1490",
+    "category": "IM Heme/Onc",
+    "a": "Splenectomy (decreases RBC turnover). Can appear as 'splenectomy and cholecystectomy' together."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1246",
+    "category": "Surg Heme/Onc",
+    "a": "Splenectomy (decreases RBC turnover). Can appear as 'splenectomy and cholecystectomy' together."
+   }
+  ],
+  "converted": "What is the treatment for hereditary spherocytosis?"
+ },
+ {
+  "front": "Treatment of APL?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1519",
+    "category": "IM Heme/Onc",
+    "a": "All-trans retinoic acid (vitamin A), which causes maturation of leukemic cells into mature granulocytes."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1267",
+    "category": "Surg Heme/Onc",
+    "a": "All-trans retinoic acid (vitamin A), which causes maturation of leukemic cells into mature granulocytes."
+   }
+  ],
+  "converted": "What is the treatment for APL?"
+ },
+ {
+  "front": "Treatment of CML?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1527",
+    "category": "IM Heme/Onc",
+    "a": "Imatinib, which targets the bcr/abl tyrosine kinase."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-4110",
+    "category": "IM Mixed",
+    "a": "Imatinib (tyrosine kinase inhibitor)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1271",
+    "category": "Surg Heme/Onc",
+    "a": "Imatinib, which targets the bcr/abl tyrosine kinase."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1388",
+    "category": "Surg Heme/Onc",
+    "a": "Imatinib (tyrosine kinase inhibitor)."
+   }
+  ],
+  "converted": "What is the treatment for CML?"
+ },
+ {
+  "front": "First-line medication for osteoarthritis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1659",
+    "category": "IM Heme/Onc",
+    "a": "Source: acetaminophen (weight loss first). NSAIDs are not ideal first-line because they harm kidneys and OA is non-inflammatory; chronic frequent NSAID users risk nephropathy and GI bleeds."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1346",
+    "category": "Surg Heme/Onc",
+    "a": "Source: acetaminophen (weight loss first). NSAIDs are not ideal first-line because they harm kidneys and OA is non-inflammatory; chronic frequent NSAID users risk nephropathy and GI bleeds."
+   }
+  ],
+  "converted": "What is the first-line medication for osteoarthritis?"
+ },
+ {
+  "front": "Diagnosis of primary syphilis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1897",
+    "category": "IM Repro/Obgyn",
+    "a": "Visualize spirochetes from a chancre scraping under dark-field microscopy."
+   }
+  ],
+  "converted": "How is primary syphilis diagnosed?"
+ },
+ {
+  "front": "Diagnosis of secondary, tertiary, and neurosyphilis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-1898",
+    "category": "IM Repro/Obgyn",
+    "a": "Serology: VDRL and/or RPR first (sensitive, not specific); FTA as confirmation (specific, not sensitive)."
+   }
+  ],
+  "converted": "How is secondary, tertiary, and neurosyphilis diagnosed?"
+ },
+ {
+  "front": "Best way to assess IUGR?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2010",
+    "category": "IM Repro/Obgyn",
+    "a": "Fetal abdominal circumference: it reflects liver size and fat accumulation, which are affected in IUGR, and the fetus prioritizes brain growth over abdominal growth."
+   }
+  ],
+  "converted": "What is the best way to assess IUGR?"
+ },
+ {
+  "front": "Treatment of late and variable decelerations?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2042",
+    "category": "IM Repro/Obgyn",
+    "a": "Stop all oxytocin, give maternal oxygen, position left-lateral decubitus. If these fail, C-section is often performed."
+   },
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0382",
+    "category": "OB Fetal Monitoring",
+    "a": "Stop oxytocin, give maternal oxygen, left-lateral decubitus; C-section if that fails."
+   }
+  ],
+  "converted": "What is the treatment for late and variable decelerations?"
+ },
+ {
+  "front": "Causes of non-communicating hydrocephalus?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-2372",
+    "category": "IM Neuro",
+    "a": "Aqueductal stenosis (narrowing of the cerebral aqueduct of Sylvius between the 3rd and 4th ventricles), the most common cause of congenital hydrocephalus. Colloid cyst: a benign fluid-filled growth at the anterior roof of the third ventricle, just posterior to the foramen of Monro."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1666",
+    "category": "Surg Neuro",
+    "a": "Aqueductal stenosis (narrowing of the cerebral aqueduct of Sylvius between the 3rd and 4th ventricles), the most common cause of congenital hydrocephalus. Colloid cyst: a benign fluid-filled growth at the anterior roof of the third ventricle, just posterior to the foramen of Monro."
+   }
+  ],
+  "converted": "What are the causes of non-communicating hydrocephalus?"
+ },
+ {
+  "front": "Causes of SIADH?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3474",
+    "category": "IM Endocrine",
+    "a": "SIADH means too much ADH. Central: head trauma, meningitis, brain cancer, pain (the latter on 2CK Surg). Ectopic: small cell lung cancer secreting ADH. Drug-induced is ultra-rare on USMLE, but carbamazepine can do it."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2202",
+    "category": "Surg Endocrine",
+    "a": "SIADH means too much ADH. Central: head trauma, meningitis, brain cancer, pain (the latter on 2CK Surg). Ectopic: small cell lung cancer secreting ADH. Drug-induced is ultra-rare on USMLE, but carbamazepine can do it."
+   }
+  ],
+  "converted": "What are the causes of SIADH?"
+ },
+ {
+  "front": "Treatment of SIADH with demeclocycline?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3479",
+    "category": "IM Endocrine",
+    "a": "Demeclocycline is the answer on 2CK offline NBME 8. It is a tetracycline antibiotic but causes insensitivity to ADH at the kidney (nephrogenic DI), so it cancels out the first problem with a second."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2205",
+    "category": "Surg Endocrine",
+    "a": "Demeclocycline is the answer on 2CK offline NBME 8. It is a tetracycline antibiotic but causes insensitivity to ADH at the kidney (nephrogenic DI), so it cancels out the first problem with a second."
+   }
+  ],
+  "converted": "What is the treatment for SIADH with demeclocycline?"
+ },
+ {
+  "front": "Causes of nephrogenic DI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3483",
+    "category": "IM Endocrine",
+    "a": "Lithium, demeclocycline, hypercalcemia, and NSAIDs."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2211",
+    "category": "Surg Endocrine",
+    "a": "Lithium, demeclocycline, hypercalcemia, and NSAIDs."
+   }
+  ],
+  "converted": "What are the causes of nephrogenic DI?"
+ },
+ {
+  "front": "Treatment of central DI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3490",
+    "category": "IM Endocrine",
+    "a": "Desmopressin."
+   }
+  ],
+  "converted": "What is the treatment for central DI?"
+ },
+ {
+  "front": "Treatment of nephrogenic DI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3491",
+    "category": "IM Endocrine",
+    "a": "NSAID plus a thiazide, per the source. Thiazides reduce Na+ reabsorption in the early DCT, causing compensatory increase in the PCT where water follows Na+, so net fluid loss is less (in healthy people they lose more). The NSAID presumably lowers renal blood flow, GFR and net fluid loss."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2216",
+    "category": "Surg Endocrine",
+    "a": "NSAID plus a thiazide, per the source. Thiazides reduce Na+ reabsorption in the early DCT, causing compensatory increase in the PCT where water follows Na+, so net fluid loss is less (in healthy people they lose more). The NSAID presumably lowers renal blood flow, GFR and net fluid loss."
+   }
+  ],
+  "converted": "What is the treatment for nephrogenic DI?"
+ },
+ {
+  "front": "Diagnosis of DM?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3686",
+    "category": "IM Endocrine",
+    "a": "Per the source: two fasting glucoses >126 mg/dL, any one random glucose >200 mg/dL, or HbA1c >6.5%."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2307",
+    "category": "Surg Endocrine",
+    "a": "Per the source: two fasting glucoses >126 mg/dL, any one random glucose >200 mg/dL, or HbA1c >6.5%."
+   }
+  ],
+  "converted": "How is DM diagnosed?"
+ },
+ {
+  "front": "Diagnosis of C. diff?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3776",
+    "category": "IM Mixed",
+    "a": "Stool A/B toxin test, not stool culture."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2446",
+    "category": "Surg Mixed",
+    "a": "Stool A/B toxin test, not stool culture."
+   }
+  ],
+  "converted": "How is C. diff diagnosed?"
+ },
+ {
+  "front": "Treatment of C. diff?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3778",
+    "category": "IM Mixed",
+    "a": "The source says vancomycin, not metronidazole (updated guidelines as of Feb 2018)."
+   }
+  ],
+  "converted": "What is the treatment for C. diff?"
+ },
+ {
+  "front": "Treatment of tamponade?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3795",
+    "category": "IM Mixed",
+    "a": "Pericardiocentesis or pericardial window. If both are listed, do an echo before pericardiocentesis (sounds wrong, but on a 2CK NBME)."
+   }
+  ],
+  "converted": "What is the treatment for tamponade?"
+ },
+ {
+  "front": "Treatment of aspirin toxicity?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3809",
+    "category": "IM Mixed",
+    "a": "Bicarb (increased excretion through urinary alkalinization)."
+   }
+  ],
+  "converted": "What is the treatment for aspirin toxicity?"
+ },
+ {
+  "front": "Treatment of TCA toxicity?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3810",
+    "category": "IM Mixed",
+    "a": "Sodium bicarb, which dissociates the drug from myocardial sodium channels."
+   }
+  ],
+  "converted": "What is the treatment for TCA toxicity?"
+ },
+ {
+  "front": "Treatment of overflow incontinence in BPH?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3822",
+    "category": "IM Mixed",
+    "a": "Insert a catheter first; then an alpha-1 blocker or 5-alpha-reductase inhibitor; then TURP if necessary."
+   }
+  ],
+  "converted": "What is the treatment for overflow incontinence in BPH?"
+ },
+ {
+  "front": "Treatment of UTI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3833",
+    "category": "IM Mixed",
+    "a": "TMP/SMX or nitrofurantoin."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0726",
+    "category": "Surg Renal",
+    "a": "TMP/SMX or nitrofurantoin."
+   }
+  ],
+  "converted": "What is the treatment for UTI?"
+ },
+ {
+  "front": "Treatment of cystitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3834",
+    "category": "IM Mixed",
+    "a": "Nitrofurantoin (need not be pregnant)."
+   }
+  ],
+  "converted": "What is the treatment for cystitis?"
+ },
+ {
+  "front": "Treatment of ITP?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3858",
+    "category": "IM Mixed",
+    "a": "Steroids, then IVIG, then splenectomy."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1175",
+    "category": "Surg Heme/Onc",
+    "a": "Steroids, then IVIG, then splenectomy."
+   }
+  ],
+  "converted": "What is the treatment for ITP?"
+ },
+ {
+  "front": "Treatment of sarcoid?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3913",
+    "category": "IM Mixed",
+    "a": "Steroids."
+   }
+  ],
+  "converted": "What is the treatment for sarcoid?"
+ },
+ {
+  "front": "Treatment of SVT and VT?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3944",
+    "category": "IM Mixed",
+    "a": "SVT: vagal/carotid massage first; if it doesn't work, adenosine. VT: anti-arrhythmics, e.g., amiodarone. SVT or VT with coma/unconsciousness: direct-current countershock."
+   }
+  ],
+  "converted": "What is the treatment for SVT and VT?"
+ },
+ {
+  "front": "Most common SLE presentation?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-3993",
+    "category": "IM Mixed",
+    "a": "Arthritis (>90%). Woman 20s-40s + arthritis + thrombocytopenia, or + mouth ulcer + circular skin lesions: SLE."
+   }
+  ],
+  "converted": "What is the most common SLE presentation?"
+ },
+ {
+  "front": "Treatment of cerumen buildup?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4025",
+    "category": "IM Mixed",
+    "a": "Carbamide peroxide drops."
+   }
+  ],
+  "converted": "What is the treatment for cerumen buildup?"
+ },
+ {
+  "front": "Management of malignant otitis externa?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4028",
+    "category": "IM Mixed",
+    "a": "CT or MRI of the temporal bone, because pus collections are common; if a fluid collection is not ruled out and drained it can cause brain abscess. Source: an NBME pediatric form's answer was CT temporal bone in a 2-year-old; a UW 2CK item listed MRI as correct (x-ray insufficient). Mastoiditis classically shows a pinna displaced up and out, often with the child pulling on it."
+   }
+  ],
+  "converted": "How is malignant otitis externa managed?"
+ },
+ {
+  "front": "Treatment of Strep pharyngitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4031",
+    "category": "IM Mixed",
+    "a": "Amoxicillin or penicillin only (not Augmentin)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0528",
+    "category": "Surg Pulmonary",
+    "a": "Amoxicillin or penicillin only (not Augmentin)."
+   }
+  ],
+  "converted": "What is the treatment for Strep pharyngitis?"
+ },
+ {
+  "front": "Most common cause of bronchiectasis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4034",
+    "category": "IM Mixed",
+    "a": "Worldwide: TB. Western countries: CF."
+   }
+  ],
+  "converted": "What is the most common cause of bronchiectasis?"
+ },
+ {
+  "front": "Most common extra-renal location for cysts in PKD?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4038",
+    "category": "IM Mixed",
+    "a": "Liver."
+   }
+  ],
+  "converted": "What is the most common extra-renal location for cysts in PKD?"
+ },
+ {
+  "front": "Diagnosis of Cryptococcal meningitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4049",
+    "category": "IM Mixed",
+    "a": "Latex agglutination if it is listed over India ink; mucicarmine (red stain) can also be done."
+   }
+  ],
+  "converted": "How is Cryptococcal meningitis diagnosed?"
+ },
+ {
+  "front": "Treatment of Cryptococcal meningitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4050",
+    "category": "IM Mixed",
+    "a": "Amphotericin B + flucytosine, followed by a fluconazole taper."
+   }
+  ],
+  "converted": "What is the treatment for Cryptococcal meningitis?"
+ },
+ {
+  "front": "Most common immunodeficiency in humans?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4053",
+    "category": "IM Mixed",
+    "a": "IgA deficiency."
+   }
+  ],
+  "converted": "What is the most common immunodeficiency in humans?"
+ },
+ {
+  "front": "Diagnosis of PJP?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4055",
+    "category": "IM Mixed",
+    "a": "Bronchoalveolar lavage."
+   }
+  ],
+  "converted": "How is PJP diagnosed?"
+ },
+ {
+  "front": "Treatment of ARDS?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4067",
+    "category": "IM Mixed",
+    "a": "Low-tidal-volume mechanical ventilation (prevents barotrauma) + increase PEEP."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0557",
+    "category": "Surg Pulmonary",
+    "a": "Low-tidal-volume mechanical ventilation (prevents barotrauma) + increase PEEP."
+   }
+  ],
+  "converted": "What is the treatment for ARDS?"
+ },
+ {
+  "front": "Treatment of Crohn and UC?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4073",
+    "category": "IM Mixed",
+    "a": "The source says USMLE wants oral sulfasalazine (or mesalamine) before oral steroids; for perianal Crohn, topical agents or enemas can be used; the NBME will not make you pick oral vs topical. Surgery can be done for UC."
+   }
+  ],
+  "converted": "What is the treatment for Crohn and UC?"
+ },
+ {
+  "front": "Diagnosis of Celiac?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4083",
+    "category": "IM Mixed",
+    "a": "IgA anti-tissue transglutaminase, anti-gliadin (the source also lists anti-endomysial)."
+   }
+  ],
+  "converted": "How is Celiac diagnosed?"
+ },
+ {
+  "front": "Diagnosis of lactose intolerance?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4087",
+    "category": "IM Mixed",
+    "a": "Hydrogen breath test or decreased stool pH."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0985",
+    "category": "Surg Gastro",
+    "a": "Hydrogen breath test or decreased stool pH."
+   }
+  ],
+  "converted": "How is lactose intolerance diagnosed?"
+ },
+ {
+  "front": "Cause of hereditary angioedema?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4093",
+    "category": "IM Mixed",
+    "a": "C1 esterase inhibitor deficiency."
+   }
+  ],
+  "converted": "What are the causes of hereditary angioedema?"
+ },
+ {
+  "front": "Treatment for hereditary angioedema?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4094",
+    "category": "IM Mixed",
+    "a": "Danazol (synthetic androgen receptor partial agonist that makes the liver produce more C1 esterase inhibitor); continues on p399."
+   }
+  ],
+  "converted": "What is the treatment for hereditary angioedema?"
+ },
+ {
+  "front": "Most common thyroid cancer?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4098",
+    "category": "IM Mixed",
+    "a": "Papillary: spreads lymphatically; papillary structure and psammoma bodies on LM (do not worry about buzzwords like Orphan Annie nuclei)."
+   }
+  ],
+  "converted": "What is the most common thyroid cancer?"
+ },
+ {
+  "front": "Side effect of imatinib?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4111",
+    "category": "IM Mixed",
+    "a": "Fluid retention (edema)."
+   }
+  ],
+  "converted": "What are the side effects of imatinib?"
+ },
+ {
+  "front": "Most common indolent NHL?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4117",
+    "category": "IM Mixed",
+    "a": "Follicular (waxing and waning neck mass over two years in an adult)."
+   }
+  ],
+  "converted": "What is the most common indolent NHL?"
+ },
+ {
+  "front": "Most common aggressive NHL?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4118",
+    "category": "IM Mixed",
+    "a": "Diffuse large B cell lymphoma (DLBCL)."
+   }
+  ],
+  "converted": "What is the most common aggressive NHL?"
+ },
+ {
+  "front": "Side effect of metformin?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4127",
+    "category": "IM Mixed",
+    "a": "Lactic acidosis."
+   }
+  ],
+  "converted": "What are the side effects of metformin?"
+ },
+ {
+  "front": "Mechanism of metformin?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4128",
+    "category": "IM Mixed",
+    "a": "Source: 'increases glycolysis; decreases gluconeogenesis'."
+   }
+  ],
+  "converted": "What is the mechanism of metformin?"
+ },
+ {
+  "front": "Treatment of impetigo?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4129",
+    "category": "IM Mixed",
+    "a": "Topical mupirocin."
+   },
+   {
+    "bank": "s2med",
+    "id": "s2med-4453",
+    "category": "IM Mixed",
+    "a": "Topical mupirocin."
+   }
+  ],
+  "converted": "What is the treatment for impetigo?"
+ },
+ {
+  "front": "Treatment of osteomyelitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4132",
+    "category": "IM Mixed",
+    "a": "IV nafcillin, oxacillin, or cefazolin; add ceftriaxone in sickle cell; add clindamycin for MRSA."
+   }
+  ],
+  "converted": "What is the treatment for osteomyelitis?"
+ },
+ {
+  "front": "Treatment of MRSA skin infection?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4133",
+    "category": "IM Mixed",
+    "a": "Clindamycin, TMP/SMX, doxycycline, or linezolid; vancomycin has poor skin penetration (per the source)."
+   }
+  ],
+  "converted": "What is the treatment for MRSA skin infection?"
+ },
+ {
+  "front": "Most common cause of fever after surgery?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4135",
+    "category": "IM Mixed",
+    "a": "Atelectasis."
+   }
+  ],
+  "converted": "What is the most common cause of fever after surgery?"
+ },
+ {
+  "front": "Cause of carcinoid syndrome?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4139",
+    "category": "IM Mixed",
+    "a": "Usually a small bowel or appendiceal tumor metastatic to the liver (without metastasis the liver processes the serotonin derivatives); can also be bronchial carcinoid. The source says the tumors are S-100 positive and neural crest origin (unverified)."
+   }
+  ],
+  "converted": "What are the causes of carcinoid syndrome?"
+ },
+ {
+  "front": "Diagnosis of serotonin and carcinoid syndromes?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4140",
+    "category": "IM Mixed",
+    "a": "Urinary 5-hydroxyindoleacetic acid (5-HIAA), per the source."
+   }
+  ],
+  "converted": "How is serotonin and carcinoid syndromes diagnosed?"
+ },
+ {
+  "front": "Treatment of serotonin syndrome?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4141",
+    "category": "IM Mixed",
+    "a": "Remove offending agents + cyproheptadine (serotonin receptor antagonist)."
+   }
+  ],
+  "converted": "What is the treatment for serotonin syndrome?"
+ },
+ {
+  "front": "Treatment of carcinoid syndrome?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4142",
+    "category": "IM Mixed",
+    "a": "Treat the underlying condition."
+   }
+  ],
+  "converted": "What is the treatment for carcinoid syndrome?"
+ },
+ {
+  "front": "Treatment of PE and the pregnancy workup?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4163",
+    "category": "IM Mixed",
+    "a": "Heparin before spiral CT; V/Q scan in pregnant women."
+   }
+  ],
+  "converted": "What is the treatment for PE and the pregnancy workup?"
+ },
+ {
+  "front": "Treatment of ethylene glycol and methanol toxicity?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4205",
+    "category": "IM Mixed",
+    "a": "Fomepizole only, if listed (over combos such as 'ethanol first then fomepizole')."
+   }
+  ],
+  "converted": "What is the treatment for ethylene glycol and methanol toxicity?"
+ },
+ {
+  "front": "Diagnosis of alpha or beta thalassemia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4209",
+    "category": "IM Mixed",
+    "a": "Hemoglobin electrophoresis."
+   }
+  ],
+  "converted": "How is alpha or beta thalassemia diagnosed?"
+ },
+ {
+  "front": "Diagnosis of sickle cell?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4211",
+    "category": "IM Mixed",
+    "a": "Hemoglobin electrophoresis."
+   }
+  ],
+  "converted": "How is sickle cell diagnosed?"
+ },
+ {
+  "front": "Diagnosis of multiple myeloma?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4212",
+    "category": "IM Mixed",
+    "a": "Serum protein electrophoresis, then bone marrow biopsy."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1150",
+    "category": "Surg Heme/Onc",
+    "a": "Serum protein electrophoresis, then bone marrow biopsy."
+   }
+  ],
+  "converted": "How is multiple myeloma diagnosed?"
+ },
+ {
+  "front": "Treatment of Wilson disease?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4221",
+    "category": "IM Mixed",
+    "a": "Penicillamine."
+   }
+  ],
+  "converted": "What is the treatment for Wilson disease?"
+ },
+ {
+  "front": "Treatment of hereditary hemochromatosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4222",
+    "category": "IM Mixed",
+    "a": "Serial phlebotomy."
+   }
+  ],
+  "converted": "What is the treatment for hereditary hemochromatosis?"
+ },
+ {
+  "front": "Treatment of secondary hemochromatosis (transfusional siderosis)?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4223",
+    "category": "IM Mixed",
+    "a": "Chelation therapy."
+   }
+  ],
+  "converted": "What is the treatment for secondary hemochromatosis (transfusional siderosis)?"
+ },
+ {
+  "front": "Risk factors for SCC apart from sun?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4233",
+    "category": "IM Mixed",
+    "a": "The source says USMLE is obsessed with immunodeficiency and smoking, even for cutaneous SCC."
+   }
+  ],
+  "converted": "What are the risk factors for SCC apart from sun?"
+ },
+ {
+  "front": "Cause of TRALI?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4244",
+    "category": "IM Mixed",
+    "a": "Donor antibodies against recipient MHC; activated neutrophils damage alveoli. The source says it is the most common cause of transfusion-associated death."
+   }
+  ],
+  "converted": "What are the causes of TRALI?"
+ },
+ {
+  "front": "Treatment of strawberry hemangioma?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4248",
+    "category": "IM Mixed",
+    "a": "None: grows slightly then regresses spontaneously over a few years."
+   }
+  ],
+  "converted": "What is the treatment for strawberry hemangioma?"
+ },
+ {
+  "front": "Cause of thrombocytopenia in Kasabach-Merritt syndrome?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4250",
+    "category": "IM Mixed",
+    "a": "Platelet sequestration (the source compares it to splenic sequestration: platelets get caught in the large vascular lesion)."
+   }
+  ],
+  "converted": "What are the causes of thrombocytopenia in Kasabach-Merritt syndrome?"
+ },
+ {
+  "front": "Cause of venous insufficiency?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4261",
+    "category": "IM Mixed",
+    "a": "Valvular incompetence (most commonly familial) causing venous reflux."
+   }
+  ],
+  "converted": "What are the causes of venous insufficiency?"
+ },
+ {
+  "front": "Cause of arterial insufficiency?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4262",
+    "category": "IM Mixed",
+    "a": "Atherosclerosis. Diabetes then smoking are the two most accelerating risk factors; hypertension is the most common risk factor."
+   }
+  ],
+  "converted": "What are the causes of arterial insufficiency?"
+ },
+ {
+  "front": "Diagnosis of venous insufficiency?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4263",
+    "category": "IM Mixed",
+    "a": "Duplex ultrasound of the calves showing stasis and/or occlusive disease."
+   }
+  ],
+  "converted": "How is venous insufficiency diagnosed?"
+ },
+ {
+  "front": "Diagnosis of arterial insufficiency?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4264",
+    "category": "IM Mixed",
+    "a": "Ankle-brachial index first; then Doppler ultrasound of the calves or arteriography (both correct, only one will be listed; duplex is the venous answer)."
+   }
+  ],
+  "converted": "How is arterial insufficiency diagnosed?"
+ },
+ {
+  "front": "Treatment of venous insufficiency and varicose veins?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4265",
+    "category": "IM Mixed",
+    "a": "Compression stockings. Varicose veins are one presentation of venous insufficiency."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0258",
+    "category": "Surg Cardio",
+    "a": "Compression stockings. Varicose veins are one presentation of venous insufficiency."
+   }
+  ],
+  "converted": "What is the treatment for venous insufficiency and varicose veins?"
+ },
+ {
+  "front": "Treatment of arterial insufficiency?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4267",
+    "category": "IM Mixed",
+    "a": "Exercise regimen first, THEN cilostazol (phosphodiesterase 3 inhibitor)."
+   }
+  ],
+  "converted": "What is the treatment for arterial insufficiency?"
+ },
+ {
+  "front": "Treatment of osteoarthritis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4284",
+    "category": "IM Mixed",
+    "a": "Weight loss (obesity is the biggest risk factor), then acetaminophen, then NSAIDs. Acetaminophen comes before NSAIDs because of NSAID renal damage; a stem may show an OA patient on naproxen as poor self-management."
+   }
+  ],
+  "converted": "What is the treatment for osteoarthritis?"
+ },
+ {
+  "front": "Treatment of an acute MS flare?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4292",
+    "category": "IM Mixed",
+    "a": "IV steroids (oral is wrong and can worsen flares, per the source)."
+   }
+  ],
+  "converted": "What is the treatment for an acute MS flare?"
+ },
+ {
+  "front": "Treatment of spasticity in MS?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4294",
+    "category": "IM Mixed",
+    "a": "Baclofen."
+   }
+  ],
+  "converted": "What is the treatment for spasticity in MS?"
+ },
+ {
+  "front": "Diagnosis of MS?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4296",
+    "category": "IM Mixed",
+    "a": "MRI over CSF IgG oligoclonal bands if both are listed."
+   }
+  ],
+  "converted": "How is MS diagnosed?"
+ },
+ {
+  "front": "Treatment of temporal arteritis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4299",
+    "category": "IM Mixed",
+    "a": "Immediate IV methylprednisolone to prevent blindness, then temporal artery biopsy. Do not pick biopsy before steroids."
+   }
+  ],
+  "converted": "What is the treatment for temporal arteritis?"
+ },
+ {
+  "front": "Treatment of polymyalgia rheumatica without temporal arteritis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4302",
+    "category": "IM Mixed",
+    "a": "Oral steroids are fine because it is not an emergency."
+   }
+  ],
+  "converted": "What is the treatment for polymyalgia rheumatica without temporal arteritis?"
+ },
+ {
+  "front": "Diagnosis of polymyalgia rheumatica?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4304",
+    "category": "IM Mixed",
+    "a": "Clinical; no specific test."
+   }
+  ],
+  "converted": "How is polymyalgia rheumatica diagnosed?"
+ },
+ {
+  "front": "Diagnosis of polymyositis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4305",
+    "category": "IM Mixed",
+    "a": "Same as dermatomyositis: anti-Jo1 and anti-Mi2 antibodies, then confirmatory muscle biopsy."
+   }
+  ],
+  "converted": "How is polymyositis diagnosed?"
+ },
+ {
+  "front": "Diagnosis of dermatomyositis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4310",
+    "category": "IM Mixed",
+    "a": "Anti-Jo1 or anti-Mi2 antibodies first, then confirmatory muscle biopsy."
+   }
+  ],
+  "converted": "How is dermatomyositis diagnosed?"
+ },
+ {
+  "front": "Treatment of a polymyositis/dermatomyositis flare?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4313",
+    "category": "IM Mixed",
+    "a": "Oral corticosteroids."
+   }
+  ],
+  "converted": "What is the treatment for a polymyositis/dermatomyositis flare?"
+ },
+ {
+  "front": "Treatment of PV and bullous pemphigoid?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4319",
+    "category": "IM Mixed",
+    "a": "Oral corticosteroids."
+   }
+  ],
+  "converted": "What is the treatment for PV and bullous pemphigoid?"
+ },
+ {
+  "front": "Mechanism of Goodpasture syndrome?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4320",
+    "category": "IM Mixed",
+    "a": "Type II hypersensitivity: antibodies against the alpha-3 chains of type IV collagen."
+   }
+  ],
+  "converted": "What is the mechanism of Goodpasture syndrome?"
+ },
+ {
+  "front": "Diagnosis of Wegener?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4322",
+    "category": "IM Mixed",
+    "a": "c-ANCA (anti-PR3, anti-proteinase 3)."
+   }
+  ],
+  "converted": "How is Wegener diagnosed?"
+ },
+ {
+  "front": "Diagnosis of Churg-Strauss?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4324",
+    "category": "IM Mixed",
+    "a": "p-ANCA (anti-MPO, anti-myeloperoxidase)."
+   }
+  ],
+  "converted": "How is Churg-Strauss diagnosed?"
+ },
+ {
+  "front": "Treatment of PAN?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4333",
+    "category": "IM Mixed",
+    "a": "Oral corticosteroids."
+   }
+  ],
+  "converted": "What is the treatment for PAN?"
+ },
+ {
+  "front": "Most common presenting finding in SLE?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4335",
+    "category": "IM Mixed",
+    "a": "Arthritis (>90%, source figure)."
+   }
+  ],
+  "converted": "What is the most common presenting finding in SLE?"
+ },
+ {
+  "front": "Treatment of SLE flare?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4339",
+    "category": "IM Mixed",
+    "a": "Steroids."
+   }
+  ],
+  "converted": "What is the treatment for SLE flare?"
+ },
+ {
+  "front": "Treatment of lupus nephritis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4342",
+    "category": "IM Mixed",
+    "a": "Mycophenolate mofetil."
+   }
+  ],
+  "converted": "What is the treatment for lupus nephritis?"
+ },
+ {
+  "front": "Treatment of discoid lupus?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4343",
+    "category": "IM Mixed",
+    "a": "Hydroxychloroquine."
+   }
+  ],
+  "converted": "What is the treatment for discoid lupus?"
+ },
+ {
+  "front": "Mechanism of viral-induced aplastic anemia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4350",
+    "category": "IM Mixed",
+    "a": "Defective bone marrow production (contrast with SLE's peripheral destruction)."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1232",
+    "category": "Surg Heme/Onc",
+    "a": "Defective bone marrow production (contrast with SLE's peripheral destruction)."
+   }
+  ],
+  "converted": "What is the mechanism of viral-induced aplastic anemia?"
+ },
+ {
+  "front": "Treatment of RAS and FMD?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4356",
+    "category": "IM Mixed",
+    "a": "Initially medical therapy with cautious ACEi or ARB; definitive is renal angioplasty + stenting; FMD is not curable."
+   }
+  ],
+  "converted": "What is the treatment for RAS and FMD?"
+ },
+ {
+  "front": "Diagnosis of malaria?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4357",
+    "category": "IM Mixed",
+    "a": "Thick and thin blood smears, not antibody titer for Plasmodium species."
+   }
+  ],
+  "converted": "How is malaria diagnosed?"
+ },
+ {
+  "front": "Treatment of the amebic liver abscess?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4367",
+    "category": "IM Mixed",
+    "a": "Percutaneous drainage BEFORE antibiotics (per the source)."
+   }
+  ],
+  "converted": "What is the treatment for the amebic liver abscess?"
+ },
+ {
+  "front": "Treatment of Giardia?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4372",
+    "category": "IM Mixed",
+    "a": "Metronidazole."
+   }
+  ],
+  "converted": "What is the treatment for Giardia?"
+ },
+ {
+  "front": "Treatment of cysticercosis/neurocysticercosis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4380",
+    "category": "IM Mixed",
+    "a": "Praziquantel or albendazole. The source says USMLE never makes you choose between them: the correct answer is the only anti-helminth drug listed."
+   }
+  ],
+  "converted": "What is the treatment for cysticercosis/neurocysticercosis?"
+ },
+ {
+  "front": "Diagnosis of aspergilloma?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4387",
+    "category": "IM Mixed",
+    "a": "Open lung biopsy (source answer)."
+   }
+  ],
+  "converted": "How is aspergilloma diagnosed?"
+ },
+ {
+  "front": "Treatment of delirium tremens?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4403",
+    "category": "IM Mixed",
+    "a": "Long-acting benzodiazepine (diazepam, lorazepam, or chlordiazepoxide); the source says USMLE likes chlordiazepoxide."
+   }
+  ],
+  "converted": "What is the treatment for delirium tremens?"
+ },
+ {
+  "front": "Treatment of hypertension?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4421",
+    "category": "IM Mixed",
+    "a": "Prediabetes, diabetes, or any cardiovascular/cerebrovascular disease: ACEi or ARB first. None of these (typical overweight middle-aged man with essential HTN): HCTZ or a dihydropyridine CCB. The source says there is no evidence of added benefit from ACEi/ARB in patients without those risk factors; HY for 2CK."
+   }
+  ],
+  "converted": "What is the treatment for hypertension?"
+ },
+ {
+  "front": "Side effects of thiazides?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4423",
+    "category": "IM Mixed",
+    "a": "'HyperGLUC': hyperglycemia, hyperlipidemia, hyperuricemia, hypercalcemia."
+   }
+  ],
+  "converted": "What are the side effects of thiazides?"
+ },
+ {
+  "front": "Treatment of pulmonary hypertension?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4434",
+    "category": "IM Mixed",
+    "a": "Most patients respond to dihydropyridine CCBs (e.g., nifedipine); if they fail the dCCB test, try bosentan or sildenafil."
+   }
+  ],
+  "converted": "What is the treatment for pulmonary hypertension?"
+ },
+ {
+  "front": "Treatment of nursemaid's elbow?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4443",
+    "category": "IM Mixed",
+    "a": "Hyperpronation OR gentle supination (both correct; only one will be listed)."
+   }
+  ],
+  "converted": "What is the treatment for nursemaid's elbow?"
+ },
+ {
+  "front": "Treatment of cubital tunnel syndrome?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4449",
+    "category": "IM Mixed",
+    "a": "Elbow splint."
+   }
+  ],
+  "converted": "What is the treatment for cubital tunnel syndrome?"
+ },
+ {
+  "front": "Most common organism for erysipelas?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4456",
+    "category": "IM Mixed",
+    "a": "Group A Strep far exceeds S. aureus (but do not neglect the latter)."
+   }
+  ],
+  "converted": "What is the most common organism for erysipelas?"
+ },
+ {
+  "front": "Most common organism for cellulitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4457",
+    "category": "IM Mixed",
+    "a": "S. aureus exceeds Group A Strep."
+   },
+   {
+    "bank": "s2surg",
+    "id": "s2surg-1585",
+    "category": "Surg Derm",
+    "a": "S. aureus exceeds Group A Strep."
+   }
+  ],
+  "converted": "What is the most common organism for cellulitis?"
+ },
+ {
+  "front": "Treatment of necrotizing fasciitis?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4460",
+    "category": "IM Mixed",
+    "a": "Surgical debridement + IV broad-spectrum antibiotics with anaerobic coverage."
+   }
+  ],
+  "converted": "What is the treatment for necrotizing fasciitis?"
+ },
+ {
+  "front": "Mechanism of insulin action?",
+  "items": [
+   {
+    "bank": "s2med",
+    "id": "s2med-4488",
+    "category": "IM Mixed",
+    "a": "Tyrosine kinase (MAP). The source also wants: increased nuclear transcription, increased serine-threonine kinase activity, decreased ubiquitin-mediated proteolysis."
+   }
+  ],
+  "converted": "What is the mechanism of insulin action?"
+ },
+ {
+  "front": "Treatment of esophageal varices?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-0811",
+    "category": "Surg Gastro",
+    "a": "Endoscopy + banding is the best answer; octreotide can also be used for acute bleeding. Propranolol is prophylaxis, not acute treatment."
+   }
+  ],
+  "converted": "What is the treatment for esophageal varices?"
+ },
+ {
+  "front": "Diagnosis of PBC?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2404",
+    "category": "Surg Mixed",
+    "a": "Anti-mitochondrial antibodies as the next step; liver biopsy is confirmatory."
+   }
+  ],
+  "converted": "How is PBC diagnosed?"
+ },
+ {
+  "front": "Treatment of hemorrhoids?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2418",
+    "category": "Surg Mixed",
+    "a": "Conservative first (fiber + exercise); for intervention, rubber band ligation."
+   }
+  ],
+  "converted": "What is the treatment for hemorrhoids?"
+ },
+ {
+  "front": "Diagnosis of congenital midgut volvulus?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2419",
+    "category": "Surg Mixed",
+    "a": "Upper-GI series (AXR + contrast follow-through of the esophagus, stomach, and duodenum with barium or gastrografin)."
+   }
+  ],
+  "converted": "How is congenital midgut volvulus diagnosed?"
+ },
+ {
+  "front": "Diagnosis of duodenal atresia?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2433",
+    "category": "Surg Mixed",
+    "a": "Abdominal x-ray showing the double-bubble sign (very HY)."
+   }
+  ],
+  "converted": "How is duodenal atresia diagnosed?"
+ },
+ {
+  "front": "Cause of intussusception?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2438",
+    "category": "Surg Mixed",
+    "a": "More than 99% are in kids under 2, from lymphoid hyperplasia due to viral infection (e.g., rotavirus) or recent vaccination. In an adult (usually elderly) it is caused by colorectal cancer."
+   }
+  ],
+  "converted": "What are the causes of intussusception?"
+ },
+ {
+  "front": "Most common locations of atherosclerosis in descending order?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2447",
+    "category": "Surg Mixed",
+    "a": "Abdominal aorta, coronary arteries, popliteal arteries, carotid arteries."
+   }
+  ],
+  "converted": "What is the most common locations of atherosclerosis in descending order?"
+ },
+ {
+  "front": "Treatment of C. difficile?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2453",
+    "category": "Surg Mixed",
+    "a": "Guidelines as of Feb 2018 (per the source) say oral vancomycin first-line, not metronidazole. Vancomycin is given orally here to keep the drug in the colon lumen."
+   }
+  ],
+  "converted": "What is the treatment for C. difficile?"
+ },
+ {
+  "front": "Mechanism of colonic necrosis in C. difficile and recurrence after vancomycin?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2454",
+    "category": "Surg Mixed",
+    "a": "Necrosis: cytoskeletal disruption. Recurrence weeks later: regermination of spores."
+   }
+  ],
+  "converted": "What is the mechanism of colonic necrosis in C. difficile and recurrence after vancomycin?"
+ },
+ {
+  "front": "Diagnosis of necrotizing enterocolitis?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2463",
+    "category": "Surg Mixed",
+    "a": "AXR showing pneumatosis intestinalis (air in the bowel wall), air in the portal vein, or free air under the diaphragm."
+   }
+  ],
+  "converted": "How is necrotizing enterocolitis diagnosed?"
+ },
+ {
+  "front": "Treatment of necrotizing enterocolitis?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2464",
+    "category": "Surg Mixed",
+    "a": "NPO, NG decompression, broad-spectrum antibiotics; if necrotic bowel, surgery."
+   }
+  ],
+  "converted": "What is the treatment for necrotizing enterocolitis?"
+ },
+ {
+  "front": "Mechanism of achalasia?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2469",
+    "category": "Surg Mixed",
+    "a": "Loss of NO-secreting neurons in the myenteric plexus of the LES, giving increased LES tone: bird's beak on contrast swallow, high tone on manometry. Often idiopathic; Chagas disease (Trypanosoma cruzi) is a rare infectious cause."
+   }
+  ],
+  "converted": "What is the mechanism of achalasia?"
+ },
+ {
+  "front": "Treatment of achalasia?",
+  "items": [
+   {
+    "bank": "s2surg",
+    "id": "s2surg-2472",
+    "category": "Surg Mixed",
+    "a": "Surgery first-line (endoscopic myotomy is superior to pneumatic dilatation per the source). If high surgical risk: botulinum toxin; if it fails, dCCB or nitrates."
+   }
+  ],
+  "converted": "What is the treatment for achalasia?"
+ },
+ {
+  "front": "Mechanism of amenorrhea in anorexia?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0002",
+    "category": "OB Hormones",
+    "a": "Decreased GnRH pulsation: leptin is required for adequate pulsation and is low in anorexia. LH and FSH are both low, so ovarian hormone production and follicle stimulation fall."
+   }
+  ],
+  "converted": "What is the mechanism of amenorrhea in anorexia?"
+ },
+ {
+  "front": "Most common cause of abnormal AFP?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0291",
+    "category": "OB Antenatal",
+    "a": "Dating error. With AFP 2.6 times the upper limit: next step ultrasound (re-measure crown-rump length), not repeat AFP."
+   }
+  ],
+  "converted": "What is the most common cause of abnormal AFP?"
+ },
+ {
+  "front": "Most common cause of spontaneous abortion?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0334",
+    "category": "OB Miscarriage",
+    "a": "Chromosomal abnormality (unbalanced chromosomal rearrangement)."
+   }
+  ],
+  "converted": "What is the most common cause of spontaneous abortion?"
+ },
+ {
+  "front": "Drug causing hyperprolactinemia?",
+  "items": [
+   {
+    "bank": "s2obgyn",
+    "id": "s2obgyn-0630",
+    "category": "OB Vignettes",
+    "a": "Metoclopramide (D2 antagonist), apart from antipsychotics."
+   }
+  ],
+  "converted": "Which drugs cause hyperprolactinemia?"
+ }
+]
