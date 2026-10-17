@@ -1021,7 +1021,7 @@ function todayPlan(t){
     var dn=c.done0; for(var k in l) dn+=(l[k].uw||0);
     var dl=Math.max(1,Math.round((d(c.target)-t)/DAY)+1);
     var nd=Math.ceil(Math.max(0,c.goal-dn)/dl);
-    var ts=[nd+' UWorld FM+Amb, timed random ('+Math.max(0,c.goal-dn)+' left)','Incorrects same day','Anki reviews'];
+    var ts=[nd+' UWorld FM+Amb, timed random ('+Math.max(0,c.goal-dn)+' left)','Anki reviews'];
     if (t<=d('2026-11-05')) ts.push('ATS manuscript - due Nov 5');
     return {p:'FM runway - '+Math.round((d('2026-11-23')-t)/DAY)+' days to day 1', ts:ts};
   }
@@ -1036,8 +1036,8 @@ function todayPlan(t){
         if (wk<=2) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS FM/day','Redo UWorld incorrects','Anki (max 5 new)','CMS per agenda']};
         return {p:b.name+' wk '+wk+' - finish AMBOSS + incorrects', ts:['AMBOSS FM + incorrects','Weak-area reps (ValidMed missed)','Anki (max 5 new)','CMS per agenda']};
       }
-      if (wk===b.amWk) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS '+b.short+'/day','Incorrects same day','Anki (max 5 new)']};
-      return {p:b.name+' wk '+wk+' - UWorld block', ts:['UWorld '+b.short+' questions','Incorrects same day','Anki (max 5 new)']};
+      if (wk===b.amWk) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS '+b.short+'/day','Anki (max 5 new)']};
+      return {p:b.name+' wk '+wk+' - UWorld block', ts:['UWorld '+b.short+' questions','Anki (max 5 new)']};
     }
     if (i>0 && t>d(blocks[i-1].e) && t<d(b.s)){
       return {p:(gapNames[blocks[i-1].e]||'Break')+' - '+b.name+' in '+Math.round((d(b.s)-t)/DAY)+' days', ts:['Anki streak','Rest']};
