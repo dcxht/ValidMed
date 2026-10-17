@@ -173,6 +173,22 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .trend.up { color:var(--accent); }
 .trend.dn { color:#b45309; }
 .trend.flat { color:var(--text-secondary); }
+.wkrow { display:flex; align-items:center; gap:8px; padding:5px 0; font-size:14px; }
+.wkrow .g { flex:0 0 84px; font-weight:600; }
+.wkrow .bar { flex:1; height:8px; background:var(--bg); border:1px solid var(--border); border-radius:5px; overflow:hidden; }
+.wkrow .bar div { height:100%; background:var(--accent); }
+.wkrow .n { flex:0 0 52px; text-align:right; font-size:13px; color:var(--text-secondary); }
+.wkrow.zero .g, .wkrow.zero .n { color:#b45309; }
+.wkrow.zero .bar div { background:#b45309; }
+.wkrow.done .n { color:var(--accent); font-weight:700; }
+.wkrec { font-size:14px; margin:2px 0 8px; }
+.wkrec b { color:var(--accent); }
+.wkleft { font-size:13px; color:var(--text-secondary); margin-top:8px; }
+.wkleft b { color:var(--text); }
+.wkrate { font-size:13px; color:var(--text-secondary); margin-top:5px; }
+.wkprev { margin-top:10px; border-top:1px solid var(--border); padding-top:8px; }
+.wkprev .pl { font-size:13px; color:var(--text-secondary); padding:3px 0; }
+.wkprev .pl b { color:var(--text); font-weight:600; }
 .pace button.wlog { flex:0 0 auto; padding:8px 16px; min-height:36px; font-size:13px; font-weight:600; color:#fff; background:var(--accent); border:none; border-radius:999px; }
 
 footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
@@ -270,6 +286,18 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 
 <div id="vfit" style="display:none">
 <h2 class="sec">Fitness</h2>
+<div class="pace" style="margin-bottom:12px">
+  <div class="lbl" id="wklabel">This week</div>
+  <div class="wkrec" id="wkrec"></div>
+  <div id="wkrows"></div>
+  <div class="wkleft" id="wkleft"></div>
+  <div class="wkrate" id="wkrate"></div>
+  <div class="wkprev" id="wkprev" style="display:none">
+    <div class="lbl" style="margin-bottom:4px">Past weeks</div>
+    <div id="wkprevlist"></div>
+  </div>
+</div>
+
 <div class="pace" id="wplanbox" style="display:none;margin-bottom:12px">
   <div class="lbl" id="wplabel">Today's workout</div>
   <div id="wplan"></div>
@@ -317,7 +345,7 @@ function gatherSync(){
   var state={}, i, k;
   try{
     var v;
-    for (i=0;i<4;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
+    for (i=0;i<6;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan','chet_week_plan','chet_session_ratings'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
     for (i=0;i<localStorage.length;i++){ k=localStorage.key(i); if(k&&k.indexOf('chet_todo_')===0) state[k]=localStorage.getItem(k); }
   }catch(e){}
   return state;
@@ -340,6 +368,8 @@ function syncPull(){
       }catch(e){ if(state.chet_shelf_log) try{localStorage.setItem('chet_shelf_log',state.chet_shelf_log);}catch(e2){} }
       if (state.chet_shelf_cfg) try{ localStorage.setItem('chet_shelf_cfg',state.chet_shelf_cfg); }catch(e){}
       if (state.chet_workout_plan) try{ localStorage.setItem('chet_workout_plan',state.chet_workout_plan); }catch(e){}
+      if (state.chet_week_plan) try{ localStorage.setItem('chet_week_plan',state.chet_week_plan); }catch(e){}
+      if (state.chet_session_ratings) try{ localStorage.setItem('chet_session_ratings',state.chet_session_ratings); }catch(e){}
       try{
         var lf=JSON.parse(localStorage.getItem('chet_lift_log')||'{"entries":{}}');
         var cl2=state.chet_lift_log?JSON.parse(state.chet_lift_log):null;
@@ -848,7 +878,89 @@ function initFitness(){
       wrap.appendChild(row);
     });
   }
-  function renderAll(){ renderChips(); renderInfo(); renderToday(); renderHx(); renderPlan(); }
+  /* ---- this week (muscle-group checklist, auto-filled from the lift log) ---- */
+  var GROUP_RULES=[
+    ['Legs',['squat','leg press','leg curl','leg extension','calf','romanian deadlift','rdl','lunge','hip thrust']],
+    ['Core',['crunch','plank','ab ','abs','sit-up','situp','leg raise']],
+    ['Shoulders',['shoulder','arnold','lateral','rear delt','face pull','shrug','overhead press','ohp']],
+    ['Back',['pull-up','pullup','pull up','chin-up','chinup','chins','row','pulldown',' lat ','deadlift','pullover','pull-over']],
+    ['Chest',['chest','bench','push-up','pushup','db press','fly']],
+    ['Arms',['curl','pushdown','skullcrusher','tricep','extension','preacher','hammer','wrist']]
+  ];
+  var GROUP_ORDER=['Back','Chest','Shoulders','Arms','Legs','Core'];
+  var DEFAULT_WEEK_PLAN={Back:12,Chest:6,Shoulders:9,Arms:12,Legs:10,Core:4};
+  function groupFor(ex){
+    var x=' '+ex.toLowerCase()+' ';
+    for (var i=0;i<GROUP_RULES.length;i++){
+      var subs=GROUP_RULES[i][1];
+      for (var j=0;j<subs.length;j++) if (x.indexOf(subs[j])>=0) return GROUP_RULES[i][0];
+    }
+    return 'Other';
+  }
+  function weekStartT(t){ var dt=new Date(t); return t-((dt.getUTCDay()+6)%7)*DAY; }
+  function isoD(t){ var x=new Date(t); return x.getUTCFullYear()+'-'+String(x.getUTCMonth()+1).padStart(2,'0')+'-'+String(x.getUTCDate()).padStart(2,'0'); }
+  function renderWeek(){
+    var plan={}, wp=null;
+    try{ wp=JSON.parse(localStorage.getItem('chet_week_plan')||'null'); if(wp&&wp.groups) plan=wp.groups; }catch(e){}
+    for (var g0 in DEFAULT_WEEK_PLAN) if (!(g0 in plan)) plan[g0]=DEFAULT_WEEK_PLAN[g0];
+    var extras=(wp&&wp.extras)||[];
+    var ratings={};
+    try{ ratings=JSON.parse(localStorage.getItem('chet_session_ratings')||'{}')||{}; }catch(e){}
+    var ws=weekStartT(dnow()), we=ws+6*DAY;
+    document.getElementById('wklabel').textContent='This week - '+fmt(isoD(ws))+' to '+fmt(isoD(we));
+    var all=entries(), counts={}, i, g;
+    for (i=0;i<all.length;i++){ var e=all[i], et=d(e.d); g=groupFor(e.ex); if(!counts[g]) counts[g]={}; var wk=weekStartT(et); counts[g][wk]=(counts[g][wk]||0)+1; }
+    var rows=document.getElementById('wkrows'); rows.innerHTML='';
+    var order=GROUP_ORDER.slice();
+    if (counts['Other']&&counts['Other'][ws]) order.push('Other');
+    var left=[];
+    order.forEach(function(g){
+      var done=(counts[g]&&counts[g][ws])||0, target=plan[g]||0;
+      var row=document.createElement('div');
+      row.className='wkrow'+(done===0?' zero':(target>0&&done>=target?' done':''));
+      var pct=target>0?Math.min(100,Math.round(done/target*100)):(done>0?100:0);
+      row.innerHTML='<span class="g">'+g+'</span><span class="bar"><div style="width:'+pct+'%"></div></span><span class="n">'+done+'/'+target+'</span>';
+      rows.appendChild(row);
+      if (target>done) left.push(g+' '+(target-done)+' sets');
+    });
+    extras.forEach(function(x){
+      if (!x||!x.label) return;
+      var done=x.done||0, target=x.target||0;
+      var row=document.createElement('div');
+      row.className='wkrow'+(done===0?' zero':(target>0&&done>=target?' done':''));
+      var pct=target>0?Math.min(100,Math.round(done/target*100)):(done>0?100:0);
+      row.innerHTML='<span class="g">'+x.label+'</span><span class="bar"><div style="width:'+pct+'%"></div></span><span class="n">'+done+'/'+target+'</span>';
+      rows.appendChild(row);
+      if (target>done) left.push(x.label+' '+(target-done)+' more');
+    });
+    document.getElementById('wkleft').innerHTML=left.length?('Left this week: <b>'+left.join(', ')+'</b>'):('<b>Week closed out.</b>');
+    var rec=null, recLeft=0;
+    GROUP_ORDER.forEach(function(g){
+      var rem=(plan[g]||0)-(((counts[g]||{})[ws])||0);
+      if (rem>recLeft){ recLeft=rem; rec=g; }
+    });
+    document.getElementById('wkrec').innerHTML=rec?('Recommended next: <b>'+rec+'</b> - '+recLeft+' sets behind this week'):('<b>Week closed out</b> - anything else is bonus.');
+    var rateBits=[];
+    for (i=0;i<=6;i++){ var rd=isoD(ws+i*DAY); if (ratings[rd]) rateBits.push(fmt(rd)+' '+ratings[rd]+'/10'); }
+    document.getElementById('wkrate').textContent=rateBits.length?('Rated: '+rateBits.join(', ')):'';
+    /* past weeks */
+    var weeks={}, wl=[];
+    for (g in counts) for (var w in counts[g]){ if(+w<ws){ if(!weeks[w]){ weeks[w]={}; wl.push(+w); } weeks[w][g]=counts[g][w]; } }
+    wl.sort(function(a,b){ return b-a; });
+    var prev=document.getElementById('wkprev'), pl=document.getElementById('wkprevlist');
+    if (!wl.length){ prev.style.display='none'; return; }
+    prev.style.display='block'; pl.innerHTML='';
+    wl.slice(0,4).forEach(function(w){
+      var parts=[];
+      GROUP_ORDER.concat(['Other']).forEach(function(g){ if (weeks[w][g]) parts.push(g+' '+weeks[w][g]); });
+      var rr=[];
+      for (i=0;i<=6;i++){ var rd2=isoD(w+i*DAY); if (ratings[rd2]) rr.push(ratings[rd2]+'/10'); }
+      var line=document.createElement('div'); line.className='pl';
+      line.innerHTML='<b>'+fmt(isoD(w))+' - '+fmt(isoD(w+6*DAY))+'</b>: '+parts.join(', ')+(rr.length?' - rated '+rr.join(', '):'');
+      pl.appendChild(line);
+    });
+  }
+  function renderAll(){ renderChips(); renderInfo(); renderToday(); renderHx(); renderPlan(); renderWeek(); }
   document.getElementById('flog').addEventListener('click',function(){
     if (!sel){ savedEl.textContent='pick an exercise first'; return; }
     var w=parseFloat(wIn.value); if (isNaN(w)||w<0) w=0;
