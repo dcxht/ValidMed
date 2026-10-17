@@ -162,6 +162,17 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .wrow .wn { font-size:14px; font-weight:600; }
 .wrow .wn .wp { color:var(--accent); font-weight:700; }
 .wrow .wt { font-size:12px; color:var(--text-secondary); margin-top:1px; }
+.hxmode { display:flex; gap:6px; margin-bottom:6px; }
+.pace button.hxm { padding:6px 12px; min-height:32px; font-size:12px; font-weight:600; color:var(--text-secondary); background:var(--bg); border:1px solid var(--border); border-radius:999px; }
+.pace button.hxm.on { color:#fff; background:var(--accent); border-color:var(--accent); }
+.hxrow { padding:7px 2px; border-top:1px solid var(--border); font-size:14px; }
+.hxrow .hd2 { font-size:12px; font-weight:700; color:var(--text-secondary); text-transform:uppercase; letter-spacing:0.04em; }
+.hxrow .xs { color:var(--text-secondary); font-size:13px; }
+.star { color:#b45309; font-weight:700; }
+.trend { font-size:12px; font-weight:600; }
+.trend.up { color:var(--accent); }
+.trend.dn { color:#b45309; }
+.trend.flat { color:var(--text-secondary); }
 .pace button.wlog { flex:0 0 auto; padding:8px 16px; min-height:36px; font-size:13px; font-weight:600; color:#fff; background:var(--accent); border:none; border-radius:999px; }
 
 footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
@@ -275,7 +286,16 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
   <div class="sub" id="fsaved"></div>
   <div class="finfo" id="finfo"></div>
   <div class="ftoday" id="ftoday"></div>
-  <div class="fhist" id="fhist"></div>
+</div>
+
+<div class="pace" style="margin-top:12px">
+  <div class="lbl">History</div>
+  <div class="hxmode">
+    <button class="hxm on" id="hxm-date">By date</button>
+    <button class="hxm" id="hxm-ex">By exercise</button>
+  </div>
+  <div class="fitchips" id="hxchips" style="display:none"></div>
+  <div id="hx"></div>
 </div>
 
 </div>
@@ -728,22 +748,76 @@ function initFitness(){
       todayEl.appendChild(row);
     });
   }
-  function renderHist(){
-    var t=isoToday(), all=entries(), byD={}, dates=[];
-    all.forEach(function(e){ if (e.d===t) return; if(!byD[e.d]){ byD[e.d]=[]; dates.push(e.d); } byD[e.d].push(e); });
-    dates.sort();
-    histEl.innerHTML='';
-    if (!dates.length) return;
-    var hd=document.createElement('div'); hd.className='hd'; hd.textContent='History';
-    histEl.appendChild(hd);
-    dates.slice(-3).reverse().forEach(function(dd){
-      var byEx={}, order=[];
-      byD[dd].sort(function(a,b){ return a.ts-b.ts; }).forEach(function(e){ var k=e.ex.toLowerCase(); if(!byEx[k]){ byEx[k]={ex:e.ex,sets:[]}; order.push(k); } byEx[k].sets.push(e); });
-      var line=document.createElement('div'); line.className='hl';
-      line.innerHTML='<b>'+fmtD(dd)+'</b> - '+order.map(function(k){ var g=byEx[k]; return g.ex+' '+g.sets.map(fmtSet).join(', '); }).join(' &middot; ');
-      histEl.appendChild(line);
-    });
+  var hxMode='date', hxEx=null;
+  function prFor(ex){
+    var best=null;
+    setsFor(ex).forEach(function(e){ if(!best||e1rm(e)>e1rm(best)) best=e; });
+    return best;
   }
+  function setStar(e,pr){ return fmtSet(e)+(pr&&e.d===pr.d&&e.ts===pr.ts&&e.w===pr.w&&e.r===pr.r?' <span class="star">★PR</span>':''); }
+  function renderHx(){
+    var box=document.getElementById('hx'), chips=document.getElementById('hxchips');
+    document.getElementById('hxm-date').classList.toggle('on',hxMode==='date');
+    document.getElementById('hxm-ex').classList.toggle('on',hxMode==='ex');
+    box.innerHTML='';
+    var all=entries();
+    if (!all.length){ chips.style.display='none'; box.innerHTML='<div class="hl">No lifts logged yet.</div>'; return; }
+    if (hxMode==='date'){
+      chips.style.display='none';
+      var byD={}, dates=[];
+      all.forEach(function(e){ if(!byD[e.d]){ byD[e.d]=[]; dates.push(e.d); } byD[e.d].push(e); });
+      dates.sort().reverse();
+      var prCache={};
+      dates.forEach(function(dd){
+        var hd=document.createElement('div'); hd.className='hd';
+        var p=dd.split('-'); var dt=new Date(Date.UTC(+p[0],+p[1]-1,+p[2]));
+        hd.textContent=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][dt.getUTCDay()]+', '+fmtD(dd);
+        box.appendChild(hd);
+        var byEx={}, order=[];
+        byD[dd].sort(function(a,b){ return a.ts-b.ts; }).forEach(function(e){ var k=e.ex.toLowerCase(); if(!byEx[k]){ byEx[k]={ex:e.ex,sets:[]}; order.push(k); } byEx[k].sets.push(e); });
+        order.forEach(function(k){
+          var g=byEx[k];
+          if (!(k in prCache)) prCache[k]=prFor(g.ex);
+          var row=document.createElement('div'); row.className='hxrow';
+          row.innerHTML='<b>'+g.ex+'</b> <span class="xs">'+g.sets.map(function(e){ return setStar(e,prCache[k]); }).join(', ')+'</span>';
+          box.appendChild(row);
+        });
+      });
+    } else {
+      chips.style.display='flex';
+      var seen={}, exs=[];
+      all.sort(function(a,b){ return b.ts-a.ts; }).forEach(function(e){ var k=e.ex.toLowerCase(); if(!seen[k]){ seen[k]=1; exs.push(e.ex); } });
+      if (!hxEx || !seen[hxEx.toLowerCase()]) hxEx=exs[0];
+      chips.innerHTML='';
+      exs.forEach(function(ex){
+        var b=document.createElement('button');
+        b.className='fchip'+(hxEx.toLowerCase()===ex.toLowerCase()?' on':'');
+        b.textContent=ex;
+        b.addEventListener('click',function(){ hxEx=ex; renderHx(); });
+        chips.appendChild(b);
+      });
+      var sets=setsFor(hxEx), pr=prFor(hxEx), byD2={}, dates2=[];
+      sets.forEach(function(e){ if(!byD2[e.d]){ byD2[e.d]=[]; dates2.push(e.d); } byD2[e.d].push(e); });
+      dates2.sort().reverse();
+      dates2.forEach(function(dd){
+        var row=document.createElement('div'); row.className='hxrow';
+        row.innerHTML='<span class="hd2">'+fmtD(dd)+'</span> '+byD2[dd].map(function(e){ return setStar(e,pr); }).join(', ');
+        box.appendChild(row);
+      });
+      if (dates2.length>1){
+        function bestOn(dd){ var b=null; byD2[dd].forEach(function(e){ if(!b||e1rm(e)>e1rm(b)) b=e; }); return b; }
+        var cur=bestOn(dates2[0]), prev=bestOn(dates2[1]);
+        var t=document.createElement('div'); t.className='hxrow';
+        var cls='flat', arrow='=', verb='same as';
+        if (e1rm(cur)>e1rm(prev)){ cls='up'; arrow='▲'; verb='up from'; }
+        else if (e1rm(cur)<e1rm(prev)){ cls='dn'; arrow='▼'; verb='down from'; }
+        t.innerHTML='<span class="trend '+cls+'">'+arrow+' best '+fmtSet(cur)+' - '+verb+' '+fmtSet(prev)+' on '+fmtD(dates2[1])+'</span>';
+        box.appendChild(t);
+      }
+    }
+  }
+  document.getElementById('hxm-date').addEventListener('click',function(){ hxMode='date'; renderHx(); });
+  document.getElementById('hxm-ex').addEventListener('click',function(){ hxMode='ex'; renderHx(); });
   var plan=null;
   try{ plan=JSON.parse(localStorage.getItem('chet_workout_plan')||'null'); }catch(e){}
   function renderPlan(){
@@ -774,7 +848,7 @@ function initFitness(){
       wrap.appendChild(row);
     });
   }
-  function renderAll(){ renderChips(); renderInfo(); renderToday(); renderHist(); renderPlan(); }
+  function renderAll(){ renderChips(); renderInfo(); renderToday(); renderHx(); renderPlan(); }
   document.getElementById('flog').addEventListener('click',function(){
     if (!sel){ savedEl.textContent='pick an exercise first'; return; }
     var w=parseFloat(wIn.value); if (isNaN(w)||w<0) w=0;
