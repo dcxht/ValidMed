@@ -7785,5 +7785,431 @@ export default [
       "page": 111,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=111"
     }
+  },
+  {
+    "id": "s2obgyn-0706",
+    "category": "OB Vignettes",
+    "q": "Ovarian cancer screening per p112?",
+    "a": "16F whose aunt died of ovarian cancer: no screening; offer information about OCPs.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0707",
+    "category": "OB Vignettes",
+    "q": "BRCA with family gynecologic cancers per p112?",
+    "a": "25F confirmed BRCA, three first-degree relatives: total abdominal hysterectomy and bilateral salpingo-oophorectomy (the source's answer).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0708",
+    "category": "OB Vignettes",
+    "q": "Pap after hysterectomy for fibroids per p112?",
+    "a": "47F, TAH/BSO for leiomyomata: Pap smears no longer indicated.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0709",
+    "category": "OB Vignettes",
+    "q": "Fundal height 38 cm at 33 weeks per p112?",
+    "a": "22F type 1 diabetes: polyhydramnios.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0710",
+    "category": "OB Vignettes",
+    "q": "46,XX neonate with phallus and scrotum per p112?",
+    "a": "Mechanism: ACTH hypersecretion (21- or 11-hydroxylase deficiency lowers cortisol; precursors shunt to DHEA-S and androstenedione, virilizing).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0711",
+    "category": "OB Vignettes",
+    "q": "Twin ultrasound vignettes per p112?",
+    "a": "Two fetuses with a thick dividing membrane: dichorionic diamniotic. One fetus much larger than the other: twin-twin transfusion; the source says most likely monochorionic monoamniotic.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0712",
+    "category": "OB Vignettes",
+    "q": "OHSS vignette per p112?",
+    "a": "43F on beta-hCG in IVF with severe abdominal pain and ascites: ovarian hyperstimulation syndrome (iatrogenic hCG, vascular hyperpermeability).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0713",
+    "category": "OB Vignettes",
+    "q": "21F requesting OCPs per p112?",
+    "a": "Pap normal: also check for chlamydia (Pap starts at 21, STI checks from sexual onset).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0714",
+    "category": "OB Vignettes",
+    "q": "Infertility workup per p112?",
+    "a": "33F, multiple partners, 3 years, husband's semen normal: hysterosalpingogram (tubal patency; possible PID occlusion).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 112,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=112"
+    }
+  },
+  {
+    "id": "s2obgyn-0715",
+    "category": "OB Vignettes",
+    "q": "Dye spill on hysterosalpingogram per p113?",
+    "a": "Normal; tubes are open at both ends.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2obgyn-0716",
+    "category": "OB Vignettes",
+    "q": "Uterine didelphys per p113?",
+    "a": "Paired uterus: double uterus + double cervix +/- double vagina.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2obgyn-0717",
+    "category": "OB Vignettes",
+    "q": "Routine screening at 52 per p113?",
+    "a": "Besides cholesterol, Pap and mammography: colonoscopy; influenza vaccine yearly in fall/winter.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2obgyn-0718",
+    "category": "OB Vignettes",
+    "q": "Pap schedule per p113?",
+    "a": "Start at 21, every 3 years; from 30 can be every 5 years with HPV co-testing; until 65 (past ten years normal, no moderate/severe dysplasia history). HIV: at diagnosis then yearly.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    },
+    "guideline": {
+      "text": "The USPSTF cervical screening statement is linked for the current schedule; I did not verify the source's details against it.",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2697704"
+    }
+  },
+  {
+    "id": "s2obgyn-0719",
+    "category": "OB Vignettes",
+    "q": "ASC-US management per p113?",
+    "a": "Repeat cytology in a year or HPV testing; if positive, colposcopy + biopsy; if negative, repeat co-testing in three years.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    },
+    "guideline": {
+      "text": "The ASCCP 2019 risk-based guidelines (linked) replaced these algorithms; source answer stays.",
+      "url": "https://www.asccp.org/guidelines/management-guidelines-enduring-guidelines-process/asccp-2019-risk-based-management-consensus-guidelines/"
+    }
+  },
+  {
+    "id": "s2obgyn-0720",
+    "category": "OB Vignettes",
+    "q": "LSIL and HSIL management per p113?",
+    "a": "LSIL: HPV negative, repeat co-testing in a year; HPV positive or no testing: colposcopy + biopsy. HSIL: regardless of HPV, immediate LEEP or colposcopy + biopsy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2obgyn-0721",
+    "category": "OB Vignettes",
+    "q": "CIN management per p113?",
+    "a": "CIN I: immediate LEEP or colposcopy + cytology every 6 months. CIN II/III: LEEP with clear margins, then Pap + HPV co-testing at 1 and 2 years.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2obgyn-0722",
+    "category": "OB Vignettes",
+    "q": "Pap vignettes per p113?",
+    "a": "57F vaginal hysterectomy for CIN III: annual Pap. 32F colposcopy for LSIL with squamocolumnar junction not fully seen: cone biopsy. 47F atypical glandular cells, normal colposcopy and endocervical curettage: endometrial biopsy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 113,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=113"
+    }
+  },
+  {
+    "id": "s2obgyn-0723",
+    "category": "OB Vignettes",
+    "q": "Amniotic fluid embolism vignette per p114?",
+    "a": "Two minutes after placental separation: dyspnea, tachycardia, bleeding from venipuncture sites: amniotic fluid embolism with DIC; supportive care.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 114,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2obgyn-0724",
+    "category": "OB Vignettes",
+    "q": "PE after C-section per p114?",
+    "a": "Two days post-C-section, SOB and tachycardia on getting up: PE; heparin, then spiral CT (V/Q if pregnant). Pregnant with segmental defects on V/Q: next step spiral CT.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 114,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2obgyn-0725",
+    "category": "OB Vignettes",
+    "q": "Fever after C-section with decreased basal breath sounds per p114?",
+    "a": "27F two days post-op, temp 100.8 F, negative urine: atelectasis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 114,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2obgyn-0726",
+    "category": "OB Vignettes",
+    "q": "Vasa previa and succenturiate lobe per p114?",
+    "a": "Triad of painless third-trimester bleeding, ROM and fetal bradycardia: vasa previa (velamentous insertion). Placenta with a large non-tapering vessel to the membrane margin: succenturiate lobe.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 114,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2obgyn-0727",
+    "category": "OB Vignettes",
+    "q": "Sheehan syndrome vignette per p114?",
+    "a": "C-section 6 weeks ago, 3 units transfused, weight loss, cold intolerance, could not breastfeed: Sheehan syndrome (low prolactin, ACTH, GH, FSH, TSH; newer NBME has aldosterone higher).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 114,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2obgyn-0728",
+    "category": "OB Vignettes",
+    "q": "Hematometra versus hematocolpos vignettes per p114-115?",
+    "a": "15F no menses, severe pelvic pain, bluish bulge: low BP = hematometra (vagal response); normal BP = hematocolpos. Both: cruciate incision of the hymen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 114,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=114"
+    }
+  },
+  {
+    "id": "s2obgyn-0729",
+    "category": "OB Vignettes",
+    "q": "Postpartum calf pain per p115?",
+    "a": "5 days after delivery, pain on foot dorsiflexion: duplex ultrasonography (DVT).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 115,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2obgyn-0730",
+    "category": "OB Vignettes",
+    "q": "Down syndrome screening per p115?",
+    "a": "First trimester (11-13 weeks): low PAPP-A, high b-hCG, high nuchal translucency, hypoplastic nasal bone. Second trimester (16-18 weeks): low AFP, high b-hCG, low estriol, high inhibin A; Edward all decreased. Cell-free DNA from 10 weeks.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 115,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2obgyn-0731",
+    "category": "OB Vignettes",
+    "q": "AFP 2.6 times the upper limit per p115?",
+    "a": "Dating error is the most common cause; re-ultrasound, not repeat AFP.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 115,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2obgyn-0732",
+    "category": "OB Vignettes",
+    "q": "Celes per p115?",
+    "a": "Cystocele: anterior superior vaginal wall. Urethrocele: anterior inferior. Enterocele: posterior superior. Rectocele: posterior inferior.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 115,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2obgyn-0733",
+    "category": "OB Vignettes",
+    "q": "Urethral prolapse per p115?",
+    "a": "Distal urethra protrudes through the meatus; not stress incontinence (downward mobility of the vesicourethral junction with Valsalva).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 115,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2obgyn-0734",
+    "category": "OB Vignettes",
+    "q": "Cervical incompetence vignette per p115?",
+    "a": "24 weeks, fundal height 20 cm, no cervix palpated, breech in vagina: cervical cerclage; prior conization is a risk factor.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 115,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2obgyn-0735",
+    "category": "OB Vignettes",
+    "q": "Breech at 37 weeks per p115?",
+    "a": "Greatest labor risk: cord prolapse.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 115,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=115"
+    }
+  },
+  {
+    "id": "s2obgyn-0736",
+    "category": "OB Vignettes",
+    "q": "Cervical funneling per p116?",
+    "a": "14 weeks, two prior LEEPs, short cervix, funneled lower uterine segment: cervical incompetence.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2obgyn-0737",
+    "category": "OB Vignettes",
+    "q": "Partial uterine prolapse per p116?",
+    "a": "87F, cervix partly through the introitus, easily reduced: vaginal pessary.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2obgyn-0738",
+    "category": "OB Vignettes",
+    "q": "Labor stages per p116?",
+    "a": "Stage 1 latent 0-6 cm (old 0-4), active 6-10 cm (old 4-10), stage 2: 10 cm to delivery, stage 3: delivery to placenta. At 5 cm for 4 hours: arrest of active phase? The source says yes (not protracted latent).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2obgyn-0739",
+    "category": "OB Vignettes",
+    "q": "Protracted latent phase per p116?",
+    "a": "Dilating <1-2 cm per hour (95th percentile); under 6 cm is latent; 6-7 hours from 4-5 cm and 3-4 hours from 5-6 cm can be normal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2obgyn-0740",
+    "category": "OB Vignettes",
+    "q": "Arrest of active phase per p116?",
+    "a": "No cervical change >4 hours despite adequate contractions (>200 MVU), or >6 hours if inadequate.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2obgyn-0741",
+    "category": "OB Vignettes",
+    "q": "Fully dilated with unchanged station per p116?",
+    "a": "38 weeks, strong contractions, no descent over an hour: cephalopelvic disproportion.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2obgyn-0742",
+    "category": "OB Vignettes",
+    "q": "Child with discharge and spotting per p116?",
+    "a": "5F foul yellow discharge, spotting, mild vulvar erythema: vaginal foreign body (abuse would show lacerations or trauma). 82F with Alzheimer and 3 cm laceration, edematous perineal body: sexual assault.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
+  },
+  {
+    "id": "s2obgyn-0743",
+    "category": "OB Vignettes",
+    "q": "UTI prevention per p116?",
+    "a": "Void immediately after coitus; for three UTIs a year previously treated with TMP-SMX, daily prophylaxis with TMP-SMX.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 116,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
+    }
   }
 ];
