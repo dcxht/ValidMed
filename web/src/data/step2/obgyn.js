@@ -1179,5 +1179,291 @@ export default [
       "page": 24,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
     }
+  },
+  {
+    "id": "s2obgyn-0108",
+    "category": "OB Male Repro",
+    "q": "Orchitis per p25?",
+    "a": "Testis inflammation/infection. Mumps is HY in unvaccinated or immigrants; otherwise bacterial causes match epididymitis/prostatitis (STIs when young, E. coli when old).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0109",
+    "category": "OB Male Repro",
+    "q": "Priapism per p25?",
+    "a": "Erection lasting longer than 4 hours; sickle cell or PDE-5 inhibitors. Treatment: injection of an alpha-1 agonist (phenylephrine) into erectile tissue (vasoconstriction).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0110",
+    "category": "OB Male Repro",
+    "q": "Hydrocele per p25?",
+    "a": "Serous fluid between layers of the tunica vaginalis; patent processus vaginalis; transilluminates; no treatment before age 1 (most close spontaneously).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0111",
+    "category": "OB Male Repro",
+    "q": "Processus vaginalis per p25?",
+    "a": "Embryonic peritoneal outpouching into the scrotum; normally obliterates after birth; if open, hydrocele or indirect inguinal hernia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0112",
+    "category": "OB Male Repro",
+    "q": "Spermatocele per p25?",
+    "a": "Serous collection within the epididymis containing sperm; usually adult men; transilluminates.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0113",
+    "category": "OB Male Repro",
+    "q": "Varicocele per p25?",
+    "a": "Dilated pampiniform plexus; does not transilluminate; 'bag of worms' (NBME uses it); heavy dragging scrotum, usually left.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0114",
+    "category": "OB Male Repro",
+    "q": "Why varicocele is left-sided per p25?",
+    "a": "Left testicular vein drains at 90 degrees into the left renal vein (then IVC); right testicular vein goes straight to the IVC. A 2CK NBME Q has bilateral varicocele as the answer.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0115",
+    "category": "OB Male Repro",
+    "q": "Varicocele from nephrotic syndrome per p25?",
+    "a": "Left renal vein thrombosis in a hypercoagulable state (urinary antithrombin III loss).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 25,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=25"
+    }
+  },
+  {
+    "id": "s2obgyn-0116",
+    "category": "OB Male Repro",
+    "q": "Direct inguinal hernia per p26?",
+    "a": "Contents herniate medial to the inferior epigastric vessels in Hesselbach triangle (inguinal ligament inferior, rectus abdominis medial, inferior epigastric vessels lateral); from aging, straining, or old incisions.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 26,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2obgyn-0117",
+    "category": "OB Male Repro",
+    "q": "Indirect inguinal hernia per p26?",
+    "a": "Contents herniate lateral to the inferior epigastric vessels via a patent processus vaginalis, following the inguinal canal into the scrotum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 26,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=26"
+    }
+  },
+  {
+    "id": "s2obgyn-0118",
+    "category": "OB Male Repro",
+    "q": "CBAVD vs Kartagener per p27?",
+    "a": "Congenital bilateral absence of the vas deferens: cystic fibrosis (absent sperm). Primary ciliary dyskinesia: vas present, poorly motile sperm (women: ectopic pregnancy from impaired tubal cilia). Recurrent lung infections + absent sperm = CF; + poorly motile sperm = Kartagener.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 27,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2obgyn-0119",
+    "category": "OB Male Repro",
+    "q": "Cleft lip per p27?",
+    "a": "Failure of fusion of maxillary and nasal prominences; polygenic, 1 in 1,000-5,000; 'one-off developmental anomaly' on USMLE. Recurrence 3-5% after one affected child; 10-15% if a parent is affected.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 27,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2obgyn-0120",
+    "category": "OB Male Repro",
+    "q": "Cleft palate per p27?",
+    "a": "Failure of fusion of the lateral palatine processes (palatal shelves).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 27,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=27"
+    }
+  },
+  {
+    "id": "s2obgyn-0121",
+    "category": "OB Birth Defects",
+    "q": "Malformation per p28?",
+    "a": "Intrinsic abnormality of structure from genetic factors or early teratogens: spina bifida, cleft lip/palate, congenital heart defects, phocomelia (thalidomide).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 28,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2obgyn-0122",
+    "category": "OB Birth Defects",
+    "q": "Deformation per p28?",
+    "a": "Initially normal part becomes abnormally shaped by mechanical forces (uterine compression, oligohydramnios): club foot, congenital hip dysplasia, plagiocephaly.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 28,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2obgyn-0123",
+    "category": "OB Birth Defects",
+    "q": "Disruption per p28?",
+    "a": "Normal part interrupted by a destructive event, e.g., amniotic band syndrome (fibrous bands entangle a limb or fingers, leading to amputation).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 28,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2obgyn-0124",
+    "category": "OB Birth Defects",
+    "q": "Stress incontinence per p28?",
+    "a": "Urine loss with raised intra-abdominal pressure (laughing, sneezing, coughing); grand multiparity; about half of Qs mention pregnancy. Descriptors: downward mobility of the vesicourethral junction, urethral hypermobility, urethral atrophy with loss of urethrovesical angle.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 28,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2obgyn-0125",
+    "category": "OB Birth Defects",
+    "q": "Stress incontinence treatment per p28?",
+    "a": "Kegel exercises, which strengthen levator ani, pubococcygeus, and the external urethral sphincter.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 28,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=28"
+    }
+  },
+  {
+    "id": "s2obgyn-0126",
+    "category": "OB Incontinence",
+    "q": "Muscle not strengthened by Kegel exercises per p28-29?",
+    "a": "Internal urethral sphincter (sympathetic, involuntary control); external sphincter is voluntary.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2obgyn-0127",
+    "category": "OB Incontinence",
+    "q": "Stress incontinence therapy per p29?",
+    "a": "No medications on USMLE; mid-urethral sling if Kegel fails (asked once).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2obgyn-0128",
+    "category": "OB Incontinence",
+    "q": "Urge incontinence per p29?",
+    "a": "'Urge' to void 6-12+ times daily unrelated to cough or sneeze; ultra-HY for multiple sclerosis (about a third of NBME urge vignettes); also peri-menopausal and idiopathic older women. Mechanism: detrusor hyperactivity/instability.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2obgyn-0129",
+    "category": "OB Incontinence",
+    "q": "UTI vs urge incontinence per p29?",
+    "a": "Prior urinary catheter + dysuria and urgency: UTI (detrusor hyperactivity is wrong).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2obgyn-0130",
+    "category": "OB Incontinence",
+    "q": "Urge incontinence treatment per p29?",
+    "a": "Oxybutynin (muscarinic antagonist; decreases detrusor activity). The source has never seen mirabegron assessed.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2obgyn-0131",
+    "category": "OB Incontinence",
+    "q": "Overflow incontinence per p29?",
+    "a": "BPH or diabetes on USMLE; raised post-void volume (normal <~50 mL; 300-400 mL on USMLE). Old man + high creatinine: insert a catheter (or measure post-void volume if no catheter option); BPH then finasteride or an a1-blocker (tamsulosin, terazosin).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2obgyn-0132",
+    "category": "OB Incontinence",
+    "q": "Diabetic overflow incontinence per p29?",
+    "a": "Neurogenic/hypotonic/hypocontractile bladder from neuropathy; post-void volume or catheter first, then bethanechol (muscarinic agonist; stimulates detrusor). Do not confuse with oxybutynin.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
+  },
+  {
+    "id": "s2obgyn-0133",
+    "category": "OB Incontinence",
+    "q": "Spinal causes of overflow per p29?",
+    "a": "Spinal trauma, spinal metastases, cauda equina. NBME: history of cancer + urinary retention + positive Babinski: epidural spinal metastases.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 29,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
+    }
   }
 ];
