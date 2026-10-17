@@ -1036,5 +1036,148 @@ export default [
       "page": 20,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=20"
     }
+  },
+  {
+    "id": "s2obgyn-0095",
+    "category": "OB Anatomy",
+    "q": "Kegel exercises per p21?",
+    "a": "Pelvic floor exercises for stress incontinence. Muscle not strengthened: internal anal sphincter (internal anal and bladder sphincters are autonomic/sympathetic, not voluntary). External sphincters are voluntary.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 21,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2obgyn-0096",
+    "category": "OB Anatomy",
+    "q": "Episiotomy per p21?",
+    "a": "Cut made in the posterior midline before stage 2 of labor to prevent vaginal laceration with a macrosomic fetus. If cut too far, it enters the external anal sphincter.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 21,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=21"
+    }
+  },
+  {
+    "id": "s2obgyn-0097",
+    "category": "OB Anatomy",
+    "q": "Nerves of erection, emission, ejaculation per p23?",
+    "a": "Erection: pelvic splanchnic nerves (parasympathetic, S2-S4). Emission: hypogastric nerves (sympathetic, L1-L2). Ejaculation: pudendal nerve (somatic, S2-S4).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 23,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=23"
+    }
+  },
+  {
+    "id": "s2obgyn-0098",
+    "category": "OB Anatomy",
+    "q": "Pudendal nerve functions per p23?",
+    "a": "Main sensory nerve of the perineum and external genitalia (penis, scrotum, clitoris, labia); main motor nerve of pelvic floor muscles (external anal sphincter, levator ani); pudendal block can be done during episiotomy. It does not itself mediate erection; pelvic splanchnics do.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 23,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=23"
+    }
+  },
+  {
+    "id": "s2obgyn-0099",
+    "category": "OB Anatomy",
+    "q": "Where sildenafil acts per p23?",
+    "a": "Erectile muscle: PDE-5 inhibitors act on smooth muscle cells in the small vessels of erectile tissue, not the dorsal artery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 23,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=23"
+    }
+  },
+  {
+    "id": "s2obgyn-0100",
+    "category": "OB Anatomy",
+    "q": "Hypospadias per p23?",
+    "a": "Urethral meatus opens on the underside (ventral) of the penis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 23,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=23"
+    }
+  },
+  {
+    "id": "s2obgyn-0101",
+    "category": "OB Anatomy",
+    "q": "Epispadias per p24?",
+    "a": "Urethral meatus opens on the top (dorsal) of the penis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 24,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2obgyn-0102",
+    "category": "OB Anatomy",
+    "q": "Phimosis vs paraphimosis per p24?",
+    "a": "Phimosis: cannot retract the foreskin. Paraphimosis: retracted foreskin cannot be replaced over the glans; the emergency.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 24,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2obgyn-0103",
+    "category": "OB Anatomy",
+    "q": "Cryptorchidism per p24?",
+    "a": "Undescended testis; raises infertility (higher abdominal temperature lowers spermatogenesis) and testicular cancer risk. No treatment before 6 months; orchidopexy after. Adult with groin mass and no palpable testicle: testicular carcinoma.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 24,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2obgyn-0104",
+    "category": "OB Anatomy",
+    "q": "Testicular torsion per p24?",
+    "a": "Painful medical emergency; bell-clapper deformity (abnormal gubernaculum anchoring). Negative Prehn sign (no relief on lifting) and negative cremasteric reflex. Next step: Doppler ultrasound, then surgery. Positive Prehn and cremasteric reflex favor epididymitis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 24,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2obgyn-0105",
+    "category": "OB Anatomy",
+    "q": "Epididymitis per p24?",
+    "a": "Positive Prehn sign and cremasteric reflex. Under 35: chlamydia and gonorrhea; over 35: E. coli (an NBME Q of a 45-year-old: E. coli, chlamydia wrong). Same organisms for prostatitis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 24,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2obgyn-0106",
+    "category": "OB Anatomy",
+    "q": "Torsion of the appendix testis per p24?",
+    "a": "Child with painful testis, blue superior pole ('blue dot' sign), intact cremasteric reflex (asked on a 2CK Peds form).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 24,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
+    }
+  },
+  {
+    "id": "s2obgyn-0107",
+    "category": "OB Anatomy",
+    "q": "Peyronie disease per p24?",
+    "a": "Penile curvature from a fibrous plaque in the tunica albuginea; treat only if functional impairment.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 24,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=24"
+    }
   }
 ];
