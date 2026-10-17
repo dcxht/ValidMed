@@ -1465,5 +1465,258 @@ export default [
       "page": 29,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=29"
     }
+  },
+  {
+    "id": "s2obgyn-0134",
+    "category": "OB Gyn Anatomy",
+    "q": "Uterine prolapse per p30?",
+    "a": "Descent of the uterus into the vagina from pelvic floor weakening; heaviness ('sitting on a ball') or visible/palpable vaginal bulge.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 30,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2obgyn-0135",
+    "category": "OB Gyn Anatomy",
+    "q": "Cervical incompetence per p30?",
+    "a": "Premature painless cervical dilation and shortening in pregnancy (usually second trimester), leading to PPROM and preterm birth; risk up after LEEP/coning. Stem clues: fetal parts palpable in the vagina, or 'funneling' (amniotic sac protruding into the cervical canal; internal os dilating). 14 weeks + funneled lower uterine segment = cervical incompetence.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 30,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2obgyn-0136",
+    "category": "OB Gyn Anatomy",
+    "q": "Urethral prolapse per p30?",
+    "a": "Urethra protrudes through the external meatus; most common in prepubertal girls and postmenopausal women.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 30,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2obgyn-0137",
+    "category": "OB Gyn Anatomy",
+    "q": "Urethrocele per p30?",
+    "a": "Urethra into the vagina; anterior inferior vaginal wall; stress incontinence, recurrent UTIs, or bulge. A cotton-tipped applicator in the urethra arcs at 45 degrees on cough (2CK Obgyn CMS).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 30,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2obgyn-0138",
+    "category": "OB Gyn Anatomy",
+    "q": "Cystocele, rectocele, enterocele per p30?",
+    "a": "Cystocele: bladder, anterior superior vaginal wall. Rectocele: rectum, posterior inferior wall; difficulty with bowel motions. Enterocele: small bowel, posterior superior wall ('high on the vaginal wall'); woman feels 'movement' (peristalsis); often a distractor.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 30,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2obgyn-0139",
+    "category": "OB Gyn Anatomy",
+    "q": "Cystovaginal fistula per p30?",
+    "a": "Abnormal bladder-vagina communication with continuous leakage; from obstetric trauma, surgery, or radiation for cancer (e.g., cervical). NBME: 'pooling of urine' in the vagina, with prior cervical cancer radiation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 30,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2obgyn-0140",
+    "category": "OB Gyn Anatomy",
+    "q": "Hydatidiform moles and GTD per p30?",
+    "a": "Nonviable pregnancies with abnormal trophoblastic proliferation; gestational trophoblastic disease (GTD) is the umbrella for moles and choriocarcinoma.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 30,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=30"
+    }
+  },
+  {
+    "id": "s2obgyn-0141",
+    "category": "OB Gyn Onc",
+    "q": "Hydatidiform mole presentation per p31?",
+    "a": "Uterus larger than expected for gestational age with super-elevated beta-hCG (e.g., 16 weeks with fundus at the umbilicus, hCG in the hundreds of thousands). Preeclampsia-like picture before 20 weeks: mole until proven otherwise.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0142",
+    "category": "OB Gyn Onc",
+    "q": "Complete mole per p31?",
+    "a": "Empty egg fertilized by a single sperm that duplicates its DNA; usually 46XX. 'Snowstorm' on ultrasound, 'bunch of grapes' grossly, no fetal parts. Higher progression risk than partial. Treatment: D&C/suction curettage.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0143",
+    "category": "OB Gyn Onc",
+    "q": "Partial mole per p31?",
+    "a": "Incomplete mole: normal egg fertilized by two sperm; 69XXX, 69XXY, or 69XYY; fetal parts present.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0144",
+    "category": "OB Gyn Onc",
+    "q": "Invasive mole per p31?",
+    "a": "Molar tissue penetrates the myometrium; potential for metastasis and choriocarcinoma; chorionic villi present on gross pathology (unlike choriocarcinoma).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0145",
+    "category": "OB Gyn Onc",
+    "q": "Choriocarcinoma per p31?",
+    "a": "Cancer of syncytiotrophoblast; usually from a mole, not always; super-elevated beta-hCG; metastasizes to lungs and brain (pulmonary nodules or stroke-like presentation). 'Bloody mess' grossly; no villi.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0146",
+    "category": "OB Gyn Onc",
+    "q": "Serous ovarian tumors per p31?",
+    "a": "Serous cystadenoma: fallopian tube-like epithelium, benign, can be bilateral, psammoma bodies. Serous cystadenocarcinoma: malignant, 20-30% bilateral at diagnosis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0147",
+    "category": "OB Gyn Onc",
+    "q": "Mucinous ovarian tumors per p31?",
+    "a": "Cystadenoma: intestine-like epithelium, loculated (honeycomb), benign. Cystadenocarcinoma: malignant; can cause pseudomyxoma peritonei (mucin and gelatinous ascites).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0148",
+    "category": "OB Gyn Onc",
+    "q": "Dysgerminoma per p31?",
+    "a": "Female seminoma equivalent: large uniform clear cells; highly sensitive to chemo and radiotherapy; idiopathic or Turner syndrome; LDH marker.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0149",
+    "category": "OB Gyn Onc",
+    "q": "Sertoli-Leydig cell tumor per p31-32?",
+    "a": "Produces androgens (virilization in females); rarely estrogen. NBME: male with gynecomastia and no granulosa cell tumor listed: Sertoli-Leydig (estrogen production or aromatization).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 31,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=31"
+    }
+  },
+  {
+    "id": "s2obgyn-0150",
+    "category": "OB Gyn Onc",
+    "q": "Granulosa cell tumor per p32?",
+    "a": "Produces estrogen: endometrial hyperplasia and cancer risk (unopposed estrogen). NBME: ovarian neoplasm + thick endometrial stripe + vaginal bleeding.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 32,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2obgyn-0151",
+    "category": "OB Gyn Onc",
+    "q": "Yolk sac tumor per p32?",
+    "a": "Endodermal sinus tumor; ovarian tumor in children (usually to age 3); AFP marker; Schiller-Duval bodies (resemble glomeruli).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 32,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2obgyn-0152",
+    "category": "OB Gyn Onc",
+    "q": "Embryonal carcinoma per p32?",
+    "a": "Aggressive, anaplastic cells; secretes AFP and hCG together; usually adult men, can be ovarian. Only AFP high: yolk sac tumor (kids).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 32,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2obgyn-0153",
+    "category": "OB Gyn Onc",
+    "q": "Brenner tumor, struma ovarii, Krukenberg per p32?",
+    "a": "Brenner: benign, urothelium-like transitional epithelium, tan/yellow. Struma ovarii: benign, secretes thyroid hormone. Krukenberg: bilateral gastric metastases with mucin-containing signet-ring cells; spread usually hematogenous.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 32,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2obgyn-0154",
+    "category": "OB Gyn Onc",
+    "q": "Endometrial cancer cause per p32?",
+    "a": "Unopposed estrogen (anovulation/PCOS: no corpus luteum, no progesterone). Obese perimenopausal woman with breakthrough bleeding or any postmenopausal bleeding: endometrial biopsy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 32,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2obgyn-0155",
+    "category": "OB Gyn Onc",
+    "q": "Other causes of unopposed estrogen and Lynch per p32?",
+    "a": "Granulosa cell tumor (rare), HRT with the progesterone component stopped (one NBME Q), and association with HNPCC (Lynch syndrome).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 32,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
+    }
+  },
+  {
+    "id": "s2obgyn-0156",
+    "category": "OB Gyn Onc",
+    "q": "Fibroids per p32?",
+    "a": "Leiomyomata uteri; most common benign tumor in women; myometrial smooth muscle; desmin positive; white whorled gross appearance; often incidental. Incidental fibroids on ultrasound: observe/follow-up (almost always not managed).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 32,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
+    }
   }
 ];
