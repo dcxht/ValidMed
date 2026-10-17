@@ -6,7 +6,7 @@ const ROTATIONS = [
   { name: "Pediatrics", bank: "s2peds", pdf: "hy-pediatrics", title: "HY Pediatrics" },
   { name: "Medicine", bank: "s2med", pdf: "hy-internal-medicine", title: "HY Internal Medicine" },
   { name: "Surgery", bank: "s2surg", pdf: "hy-surgery", title: "HY Surgery" },
-  { name: "OB/GYN", pdf: "hy-obgyn-repro", title: "HY Obgyn/Repro" },
+  { name: "OB/GYN", bank: "s2obgyn", pdf: "hy-obgyn-repro", title: "HY Obgyn/Repro" },
 ];
 
 export default function RotationPdfs() {

@@ -1,6 +1,7 @@
 import pediatrics from "./step2/pediatrics";
 import medicine from "./step2/medicine";
 import surgery from "./step2/surgery";
+import obgyn from "./step2/obgyn";
 import neurology from "./step2/neurology";
 import psychiatry from "./step2/psychiatry";
 import familyMedicine from "./step2/familyMedicine";
@@ -12,4 +13,5 @@ export const BANKS = {
   s2peds: { label: "Pediatrics", questions: pediatrics.filter((q) => !q.duplicateOf), allQuestions: pediatrics, coverage: "Partial: first source conversion pp4-87; pp88-203 and full second source-detail, clinical and product acceptance remain." },
   s2med: { label: "Medicine", questions: medicine.filter((q) => !q.duplicateOf), allQuestions: medicine, coverage: "Partial: source conversion in progress; full second source-detail, clinical and product acceptance remain." },
   s2surg: { label: "Surgery", questions: surgery.filter((q) => !q.duplicateOf), allQuestions: surgery, coverage: "Partial: source conversion in progress; full second source-detail, clinical and product acceptance remain." },
+  s2obgyn: { label: "OB/GYN", questions: obgyn.filter((q) => !q.duplicateOf), allQuestions: obgyn, coverage: "Partial: source conversion in progress; full second source-detail, clinical and product acceptance remain." },
 };
