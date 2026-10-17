@@ -31233,7 +31233,7 @@ export default [
       "url": "/mehlman/hy-surgery.pdf#page=270"
     },
     "guideline": {
-      "text": null,
+      "text": "Diagnostic options for Hirschsprung disease are reviewed in the linked PMC article.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308050/"
     }
   },
