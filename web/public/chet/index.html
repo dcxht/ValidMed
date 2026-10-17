@@ -241,11 +241,62 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 var PASSCODE = 'm';            // <- change the passcode here
 /* ========================================== */
 
+/* ---------- cloud sync (same /api/sync the quiz banks use; slot "chethub") ----------
+   Pull on open (cloud wins per key; the shelf log merges per day), debounced
+   push on every save. Silent fallback to on-device-only when offline/unset. */
+var SYNC_URL='/api/sync?name=chethub';
+function gatherSync(){
+  var state={}, i, k;
+  try{
+    var v;
+    for (i=0;i<2;i++){ k=['chet_shelf_log','chet_shelf_cfg'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
+    for (i=0;i<localStorage.length;i++){ k=localStorage.key(i); if(k&&k.indexOf('chet_todo_')===0) state[k]=localStorage.getItem(k); }
+  }catch(e){}
+  return state;
+}
+function syncPull(){
+  var ctrl;
+  try{ ctrl=new AbortController(); }catch(e){ return Promise.resolve(); }
+  var t=setTimeout(function(){ try{ctrl.abort();}catch(e){} },3500);
+  return fetch(SYNC_URL,{signal:ctrl.signal}).then(function(r){
+    clearTimeout(t);
+    if(!r.ok) return;
+    return r.json().then(function(j){
+      var state=j&&j.state;
+      if(!state||typeof state!=='object'){ syncPushNow(); return; } // first device: seed cloud
+      try{
+        var ll=JSON.parse(localStorage.getItem('chet_shelf_log')||'{}');
+        var cl=state.chet_shelf_log?JSON.parse(state.chet_shelf_log):{};
+        for (var dk in cl) ll[dk]=cl[dk];
+        localStorage.setItem('chet_shelf_log',JSON.stringify(ll));
+      }catch(e){ if(state.chet_shelf_log) try{localStorage.setItem('chet_shelf_log',state.chet_shelf_log);}catch(e2){} }
+      if (state.chet_shelf_cfg) try{ localStorage.setItem('chet_shelf_cfg',state.chet_shelf_cfg); }catch(e){}
+      for (var k in state) if (k.indexOf('chet_todo_')===0) try{ localStorage.setItem(k,state[k]); }catch(e){}
+    });
+  },function(){ clearTimeout(t); });
+}
+function syncPushNow(){
+  try{
+    fetch(SYNC_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({state:gatherSync()})}).catch(function(){});
+  }catch(e){}
+}
+var syncTimer=null;
+function syncPush(){
+  clearTimeout(syncTimer);
+  syncTimer=setTimeout(syncPushNow,800);
+}
+var booted=false;
+function boot(){
+  if (booted) return; booted=true;
+  Promise.resolve(syncPull()).then(initDynamic,initDynamic);
+}
+function initDynamic(){ initShelfTracker(); initToday(); }
+
 /* gate */
 (function(){
   var g=document.getElementById('gate'), app=document.getElementById('app'),
       inp=document.getElementById('pw'), btn=document.getElementById('pwgo');
-  function open(){ g.style.display='none'; app.style.display='block'; }
+  function open(){ g.style.display='none'; app.style.display='block'; boot(); }
   if (localStorage.getItem('chet_gate')==='1') { open(); return; }
   function tryit(){
     if (inp.value.trim().toLowerCase()===PASSCODE){ localStorage.setItem('chet_gate','1'); open(); }
@@ -430,13 +481,13 @@ agenda.forEach(function(a){
 });
 
 /* ---------- shelf tracker ---------- */
-(function(){
+function initShelfTracker(){
   var LSK='chet_shelf_log', CSK='chet_shelf_cfg';
   var log={}; try{ log=JSON.parse(localStorage.getItem(LSK)||'{}'); }catch(e){}
   var cfg={done0:0,goal:941,target:'2026-11-22'};
   try{ var c=JSON.parse(localStorage.getItem(CSK)||'null'); if(c){ if(c.done0!=null)cfg.done0=c.done0; if(c.goal)cfg.goal=c.goal; if(c.target)cfg.target=c.target; } }catch(e){}
   function iso(t){ var x=new Date(t); return x.getUTCFullYear()+'-'+String(x.getUTCMonth()+1).padStart(2,'0')+'-'+String(x.getUTCDate()).padStart(2,'0'); }
-  function save(){ try{ localStorage.setItem(LSK,JSON.stringify(log)); localStorage.setItem(CSK,JSON.stringify(cfg)); }catch(e){} }
+  function save(){ try{ localStorage.setItem(LSK,JSON.stringify(log)); localStorage.setItem(CSK,JSON.stringify(cfg)); }catch(e){} syncPush(); }
   function doneTotal(){ var su=cfg.done0; for(var k in log) su+=(log[k].uw||0); return su; }
 
   var dIn=document.getElementById('lgdate'), uwIn=document.getElementById('lguw'),
@@ -505,7 +556,7 @@ agenda.forEach(function(a){
   cdIn.addEventListener('input',cfgUpd); cgIn.addEventListener('input',cfgUpd); ctIn.addEventListener('change',cfgUpd);
 
   loadDay(); renderPace(); renderBars();
-})();
+}
 
 /* ---------- today ---------- */
 function wkInBlock(t,b){ return Math.floor((t-d(b.s))/(7*DAY))+1; }
@@ -542,7 +593,7 @@ function todayPlan(t){
   if (t>d('2027-10-08')) return {p:'MS3 done', ts:['Step 2 CK window - you know the drill']};
   return {p:'', ts:[]};
 }
-(function(){
+function initToday(){
   var t=dnow(), plan=todayPlan(t), dt=new Date(t);
   document.getElementById('tdate').textContent=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][dt.getUTCDay()]+', '+MN[dt.getUTCMonth()]+' '+dt.getUTCDate()+', '+dt.getUTCFullYear();
   document.getElementById('tphase').textContent=plan.p;
@@ -557,10 +608,11 @@ function todayPlan(t){
       saved[i]=!saved[i];
       row.classList.toggle('done',!!saved[i]);
       localStorage.setItem(key,JSON.stringify(saved));
+      syncPush();
     });
     list.appendChild(row);
   });
-})();
+}
 </script>
 </body>
 </html>
