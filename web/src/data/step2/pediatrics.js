@@ -4881,7 +4881,7 @@ export default [
     "id": "s2peds-0387",
     "category": "Perioral infection",
     "q": "Which infection is suggested by the source white or bluish spots on buccal mucosa?",
-    "a": "Measles (rubeola), with Koplik spots. They are oral findings rather than the body rash itself; the source photograph continues on p37.",
+    "a": "Measles (rubeola), with Koplik spots. They are oral findings rather than the body rash itself; the source photograph continues in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 36,
@@ -5268,7 +5268,7 @@ export default [
   {
     "id": "s2peds-0415",
     "category": "Neonatal jaundice",
-    "q": "What total and direct bilirubin values does p39 give as general normal reference points, and can they define every newborn treatment threshold?",
+    "q": "What total and direct bilirubin values does the source give as general normal reference points, and can they define every newborn treatment threshold?",
     "a": "The source gives total bilirubin about 1.0 mg/dL and direct about 0.1 mg/dL. These are source reference points, not universal neonatal treatment targets.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5388,7 +5388,7 @@ export default [
   {
     "id": "s2peds-0423",
     "category": "Neonatal jaundice",
-    "q": "What treatment sequence does p39 give for significant neonatal unconjugated hyperbilirubinemia, and what limits apply?",
+    "q": "What treatment sequence does the source give for significant neonatal unconjugated hyperbilirubinemia, and what limits apply?",
     "a": "The source sequence is phototherapy, then exchange transfusion if needed. Not every infant labeled pathologic by its checklist automatically needs either treatment; assess the cause and current age/risk-specific thresholds.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5449,7 +5449,7 @@ export default [
   {
     "id": "s2peds-0427",
     "category": "Neonatal jaundice",
-    "q": "Should breast milk jaundice routinely be treated by stopping breastfeeding for 48 hours as p39 suggests?",
+    "q": "Should breast milk jaundice routinely be treated by stopping breastfeeding for 48 hours as the source suggests?",
     "a": "No. The source recommends a roughly 48-hour interruption and describes a fall in bilirubin with limited rebound, but most jaundiced newborns can continue breastfeeding. A blanket interruption is not the default.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5606,7 +5606,7 @@ export default [
   {
     "id": "s2peds-0438",
     "category": "Peritonitis, spleen and pediatric imaging",
-    "q": "What antibiotics does p40 choose for SBP, and is cefotaxime always preferred to ceftriaxone in every child?",
+    "q": "What antibiotics does the source choose for SBP, and is cefotaxime always preferred to ceftriaxone in every child?",
     "a": "The source chooses ceftriaxone, or cefotaxime over ceftriaxone if both are listed for Pediatrics. Treat that as the author exam preference, not a universal age-independent drug ranking.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5658,7 +5658,7 @@ export default [
   {
     "id": "s2peds-0442",
     "category": "Peritonitis, spleen and pediatric imaging",
-    "q": "What macrophage-reservoir claim does p40 make, and is clearance confined to white pulp?",
+    "q": "What macrophage-reservoir claim does the source make, and is clearance confined to white pulp?",
     "a": "The PDF claims white pulp contains 50% of the immune-system macrophage reservoir and locates opsonized-bacterial phagocytosis there. That exact percentage is unverified here, and splenic immune clearance is not confined to white pulp.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5759,7 +5759,7 @@ export default [
   {
     "id": "s2peds-0449",
     "category": "Peritonitis, spleen and pediatric imaging",
-    "q": "What red-cell lifespan does p40 give as an exam reference?",
+    "q": "What red-cell lifespan does the source give as an exam reference?",
     "a": "About four months, specified by the PDF as 118 days. This is the author approximate red-cell lifespan reference, not a treatment waiting period for toxin exposure.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5834,7 +5834,7 @@ export default [
     "id": "s2peds-0455",
     "category": "Peritonitis, spleen and pediatric imaging",
     "q": "Does the source CT-radiation warning mean abdominal CT is almost never appropriate in children?",
-    "a": "No. The PDF emphasizes radiation and names renal injury as one exception before continuing on p41. CT choice is indication-specific, not an almost-always-wrong rule.",
+    "a": "No. The PDF emphasizes radiation and names renal injury as one exception before continuing in the source. CT choice is indication-specific, not an almost-always-wrong rule.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 40,
@@ -5889,7 +5889,7 @@ export default [
   {
     "id": "s2peds-0459",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "What abdominal/chest radiograph finding does p41 associate with congenital diaphragmatic hernia?",
+    "q": "What abdominal/chest radiograph finding does the source associate with congenital diaphragmatic hernia?",
     "a": "Bowel gas in the left hemithorax.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5952,7 +5952,7 @@ export default [
   {
     "id": "s2peds-0464",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "What IBD colonoscopy-surveillance schedule does p41 give, and is it universal for every child with UC or Crohn disease?",
+    "q": "What IBD colonoscopy-surveillance schedule does the source give, and is it universal for every child with UC or Crohn disease?",
     "a": "The PDF says start eight years after diagnosis and repeat every two to three years. This is its source schedule, not an individualized rule for all pediatric IBD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -5982,7 +5982,7 @@ export default [
   {
     "id": "s2peds-0466",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "What FAP colonoscopy schedule appears in both p41 tables?",
+    "q": "What FAP colonoscopy schedule appears in both the source tables?",
     "a": "Source answer: start at age 10-12 and repeat every one to two years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6027,7 +6027,7 @@ export default [
   {
     "id": "s2peds-0469",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "Should average-risk USPSTF colorectal screening ages replace surveillance for the p41 hereditary syndromes or IBD?",
+    "q": "Should average-risk USPSTF colorectal screening ages replace surveillance for the source hereditary syndromes or IBD?",
     "a": "No. These are high-risk surveillance settings, not average-risk population screening.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6079,7 +6079,7 @@ export default [
   {
     "id": "s2peds-0473",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "What extra-colonic cancer category does p41 associate with Lynch syndrome?",
+    "q": "What extra-colonic cancer category does the source associate with Lynch syndrome?",
     "a": "Gynecologic cancer, in addition to colonic polyps/cancer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6094,7 +6094,7 @@ export default [
   {
     "id": "s2peds-0474",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "What chromosome and inheritance pattern does p41 give for familial adenomatous polyposis?",
+    "q": "What chromosome and inheritance pattern does the source give for familial adenomatous polyposis?",
     "a": "Chromosome 5 and autosomal dominant inheritance.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6153,7 +6153,7 @@ export default [
   {
     "id": "s2peds-0479",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "What p41 bleeding-teenager vignette points toward juvenile-type polyps?",
+    "q": "What source bleeding-teenager vignette points toward juvenile-type polyps?",
     "a": "Intermittent rectal bleeding, scattered polyps at colonoscopy and biopsy with dilated cystic mucus-filled glands, abundant lamina propria and inflammatory infiltrates. The source selects juvenile polyposis and calls it a newer exam example.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6179,8 +6179,8 @@ export default [
   {
     "id": "s2peds-0481",
     "category": "Pediatric imaging, polyps and pyloric stenosis",
-    "q": "What vomiting pattern does p41 associate with pyloric stenosis?",
-    "a": "Forceful/projectile nonbilious vomiting in a young infant, described as days to weeks old. This begins the pyloric-stenosis section continued on p42.",
+    "q": "What vomiting pattern does the source associate with pyloric stenosis?",
+    "a": "Forceful/projectile nonbilious vomiting in a young infant, described as days to weeks old. This begins the pyloric-stenosis section continued in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 41,
@@ -6437,7 +6437,7 @@ export default [
   {
     "id": "s2peds-0500",
     "category": "Neonatal obstruction, intussusception and volvulus",
-    "q": "What typical age range does p42 give for intussusception, and is it a hard cutoff?",
+    "q": "What typical age range does the source give for intussusception, and is it a hard cutoff?",
     "a": "The source says three months to two years; it also warns that age overlaps with volvulus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6452,7 +6452,7 @@ export default [
   {
     "id": "s2peds-0501",
     "category": "Neonatal obstruction, intussusception and volvulus",
-    "q": "What early-age pattern and percentage does p42 give for midgut volvulus?",
+    "q": "What early-age pattern and percentage does the source give for midgut volvulus?",
     "a": "Usually the first month of life, with a source claim of 90% under age one. The exact percentage is retained as source framing, not independently validated for every population.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6467,7 +6467,7 @@ export default [
   {
     "id": "s2peds-0502",
     "category": "Neonatal obstruction, intussusception and volvulus",
-    "q": "How does p42 advise using age when separating intussusception from midgut volvulus?",
+    "q": "How does the source advise using age when separating intussusception from midgut volvulus?",
     "a": "Use age as supporting context, not the sole answer selector. The author finds abdominal exam and characteristic imaging more useful because the age distributions overlap.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6489,7 +6489,7 @@ export default [
   {
     "id": "s2peds-0504",
     "category": "Neonatal obstruction, intussusception and volvulus",
-    "q": "Which overlapping symptoms and plain-film finding does p43 say can occur in both intussusception and volvulus?",
+    "q": "Which overlapping symptoms and plain-film finding does the source say can occur in both intussusception and volvulus?",
     "a": "Bilious vomiting, bloody stool, intermittent crying/vomiting or leg-drawing/squatting episodes, and intestinal-obstruction air-fluid levels. None of those alone safely chooses one diagnosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6546,7 +6546,7 @@ export default [
   {
     "id": "s2peds-0508",
     "category": "Neonatal obstruction, intussusception and volvulus",
-    "q": "What age framing does the p43 intussusception row repeat?",
+    "q": "What age framing does the source intussusception row repeat?",
     "a": "It says almost always three months to two years. This repeats the source table, but should not be used as a strict diagnostic exclusion.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6591,7 +6591,7 @@ export default [
   {
     "id": "s2peds-0511",
     "category": "Neonatal obstruction, intussusception and volvulus",
-    "q": "What structural lead point does p43 specifically name for intussusception?",
+    "q": "What structural lead point does the source specifically name for intussusception?",
     "a": "Meckel diverticulum. This is an important possible lead point, not a finding required in the usual idiopathic case.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6775,7 +6775,7 @@ export default [
   {
     "id": "s2peds-0524",
     "category": "Neonatal bowel disorders and cystic fibrosis",
-    "q": "What developmental answer does the author select for the five-month-old corkscrew upper-GI vignette on p44?",
+    "q": "What developmental answer does the author select for the five-month-old corkscrew upper-GI vignette in the source?",
     "a": "Gut malrotation, phrased in the PDF as failure of rotation of proximal bowel. This is the author's reported exam example, not a verified new exam record.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -6911,7 +6911,7 @@ export default [
   {
     "id": "s2peds-0533",
     "category": "Neonatal bowel disorders and cystic fibrosis",
-    "q": "What neonatal bowel disease does p44 associate with marked prematurity, particularly birth before 32 weeks?",
+    "q": "What neonatal bowel disease does the source associate with marked prematurity, particularly birth before 32 weeks?",
     "a": "Necrotizing enterocolitis: intestinal necrosis in the source premature-neonate setting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -7093,7 +7093,7 @@ export default [
   {
     "id": "s2peds-0545",
     "category": "Neonatal bowel disorders and cystic fibrosis",
-    "q": "What two gastrointestinal features of cystic fibrosis does the source especially emphasize on p45?",
+    "q": "What two gastrointestinal features of cystic fibrosis does the source especially emphasize in the source?",
     "a": "Meconium ileus and exocrine pancreatic insufficiency. The author refers readers to the Pulmonology PDF for a fuller CF discussion; this page is not a complete CF guideline.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -7168,7 +7168,7 @@ export default [
   {
     "id": "s2peds-0550",
     "category": "Celiac disease, lactose intolerance and milk-protein allergy",
-    "q": "What neonatal bilirubin pattern does the p46 biliary-atresia recap emphasize?",
+    "q": "What neonatal bilirubin pattern does the source biliary-atresia recap emphasize?",
     "a": "Markedly increased direct bilirubin in a young infant, with the PDF using an age under six weeks. This is a cholestasis warning, not a reason to wait until six weeks.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -7183,7 +7183,7 @@ export default [
   {
     "id": "s2peds-0551",
     "category": "Celiac disease, lactose intolerance and milk-protein allergy",
-    "q": "How should the p46 recap of biliary-atresia anatomy be understood?",
+    "q": "How should the source recap of biliary-atresia anatomy be understood?",
     "a": "The PDF describes failure of development of intrahepatic ductules and the biliary tree. More accurately, biliary atresia involves scarred/blocked bile ducts with progressive liver injury, not necessarily failure of every duct to form.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -7213,7 +7213,7 @@ export default [
   {
     "id": "s2peds-0553",
     "category": "Celiac disease, lactose intolerance and milk-protein allergy",
-    "q": "What treatment sequence does the p46 biliary-atresia recap repeat?",
+    "q": "What treatment sequence does the source biliary-atresia recap repeat?",
     "a": "Kasai portoenterostomy, then liver transplantation if Kasai fails or progressive disease requires it. This repeats the earlier source section rather than a newly different treatment pathway.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -7627,7 +7627,7 @@ export default [
   {
     "id": "s2peds-0581",
     "category": "Celiac disease, lactose intolerance and milk-protein allergy",
-    "q": "What source teaching emphasis introduces milk-protein allergy on p47?",
+    "q": "What source teaching emphasis introduces milk-protein allergy in the source?",
     "a": "The author calls it a Step-2/Pediatrics exam topic. That exam-frequency comment is retained as attribution, not evidence that the condition is absent from every other examination or clinical context.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -8591,7 +8591,7 @@ export default [
     "id": "s2peds-0646",
     "category": "Anorectal disorders",
     "q": "What source diagnosis fits a painful, erythematous mass near the anal verge?",
-    "a": "Perianal abscess. Its location differs from a pilonidal abscess higher in the gluteal cleft. The source risk-factor and treatment bullets continue on p51.",
+    "a": "Perianal abscess. Its location differs from a pilonidal abscess higher in the gluteal cleft. The source risk-factor and treatment bullets continue in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 50,
@@ -8601,8 +8601,8 @@ export default [
   {
     "id": "s2peds-0647",
     "category": "Anorectal disorders",
-    "q": "Which risk associations continue the source perianal-abscess row on p51?",
-    "a": "Crohn disease and diabetes. Neither is required for an abscess to occur; the painful anal-verge mass description is on p50.",
+    "q": "Which risk associations continue the source perianal-abscess row in the source?",
+    "a": "Crohn disease and diabetes. Neither is required for an abscess to occur; the painful anal-verge mass description is in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 51,
@@ -9145,7 +9145,7 @@ export default [
     "id": "s2peds-0684",
     "category": "Microcytic anemia",
     "q": "Which source thalassemia type can have normal hemoglobin electrophoresis?",
-    "a": "Alpha-thalassemia trait, especially the one- or two-gene forms discussed on p53. A normal study does not exclude alpha-thalassemia.",
+    "a": "Alpha-thalassemia trait, especially the one- or two-gene forms discussed in the source. A normal study does not exclude alpha-thalassemia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 52,
@@ -9352,7 +9352,7 @@ export default [
     "id": "s2peds-0698",
     "category": "Microcytic anemia",
     "q": "Which blood-smear finding does the source table favor for thalassemia?",
-    "a": "Target cells. The actual target-cell figure and the post-splenectomy caveat continue on p53. The finding is suggestive in context, not specific enough to diagnose thalassemia by itself.",
+    "a": "Target cells. The actual target-cell figure and the post-splenectomy caveat continue in the source. The finding is suggestive in context, not specific enough to diagnose thalassemia by itself.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 52,
@@ -9367,7 +9367,7 @@ export default [
     "id": "s2peds-0699",
     "category": "Microcytic anemia",
     "q": "How should the source claim that 14 of 15 target-cell exam mentions mean thalassemia be used?",
-    "a": "As the author reported exam heuristic, not a validated likelihood or a clinical diagnostic rule. Both alpha- and beta-thalassemia may enter the differential, and p53 includes a post-splenectomy exception.",
+    "a": "As the author reported exam heuristic, not a validated likelihood or a clinical diagnostic rule. Both alpha- and beta-thalassemia may enter the differential, and the source includes a post-splenectomy exception.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 52,
@@ -9381,7 +9381,7 @@ export default [
   {
     "id": "s2peds-0700",
     "category": "Microcytic anemia",
-    "q": "What red-cell morphology does this source p53 smear illustrate?",
+    "q": "What red-cell morphology does this source smear illustrate?",
     "a": "Target cells, the central hemoglobin dot with a surrounding pale ring and peripheral hemoglobin rim. The source pairs this image with thalassemia, but the morphology is not exclusive to it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -10014,7 +10014,7 @@ export default [
     "id": "s2peds-0742",
     "category": "Pediatric hematology",
     "q": "What second function of vWF explains the source possible aPTT prolongation?",
-    "a": "vWF carries and stabilizes circulating factor VIII. Reduced factor VIII can affect the intrinsic pathway even though platelet adhesion is the prominent source clinical theme.",
+    "a": "VWF carries and stabilizes circulating factor VIII. Reduced factor VIII can affect the intrinsic pathway even though platelet adhesion is the prominent source clinical theme.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 54,
@@ -10044,7 +10044,7 @@ export default [
     "id": "s2peds-0744",
     "category": "Pediatric hematology",
     "q": "What age and bleeding combination does the source use to recognize VWD?",
-    "a": "A teenager or young adult with mucocutaneous bleeding such as bruising/petechiae or epistaxis and a possible coagulation-factor clue. The table continues on p55; this is not the complete disease presentation.",
+    "a": "A teenager or young adult with mucocutaneous bleeding such as bruising/petechiae or epistaxis and a possible coagulation-factor clue. The table continues in the source; this is not the complete disease presentation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 54,
@@ -10433,7 +10433,7 @@ export default [
   {
     "id": "s2peds-0770",
     "category": "Pediatric hematology",
-    "q": "What RBC finding is shown in the source smear continuing the DIC row from p55?",
+    "q": "What RBC finding is shown in the source smear continuing the DIC row from the source?",
     "a": "Schistocytes, fragmented red cells including helmet-shaped forms. The source image belongs to the DIC continuation, but this morphology also appears in other microangiopathic processes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -17084,8 +17084,8 @@ export default [
   {
     "id": "s2peds-1218",
     "category": "Genetic syndromes",
-    "q": "What trisomy-13 quad-screen rule is printed on p85, and does it agree with the preceding source shortcut?",
-    "a": "This page says all markers fall except normal inhibin, whereas p84 used an all-down shortcut for Edwards and Patau syndromes. These source statements conflict and should not be turned into a reliable Patau-screening rule.",
+    "q": "What trisomy-13 quad-screen rule is printed in the source, and does it agree with the preceding source shortcut?",
+    "a": "This page says all markers fall except normal inhibin, whereas the source used an all-down shortcut for Edwards and Patau syndromes. These source statements conflict and should not be turned into a reliable Patau-screening rule.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 85,
@@ -18450,8 +18450,8 @@ export default [
   {
     "id": "s2peds-1308",
     "category": "Pediatric dermatology",
-    "q": "Which diagnosis is represented by the final p90 source photograph?",
-    "a": "Cellulitis: a spreading, warm, erythematous, painful skin and subcutaneous-tissue infection. The source gives the label and image on p90, with its organism and antibiotic discussion beginning on p91.",
+    "q": "Which diagnosis is represented by the final the source source photograph?",
+    "a": "Cellulitis: a spreading, warm, erythematous, painful skin and subcutaneous-tissue infection. The source gives the label and image in the source, with its organism and antibiotic discussion beginning in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 90,
@@ -18512,7 +18512,7 @@ export default [
   {
     "id": "s2peds-1312",
     "category": "Pediatric dermatology",
-    "q": "Which infection is shown by the p91 fiery-red, sharply demarcated plaque?",
+    "q": "Which infection is shown by the source fiery-red, sharply demarcated plaque?",
     "a": "Erysipelas. The raised, bright-red plaque with a distinct border fits a superficial cellulitis involving the upper dermis and superficial lymphatics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -18574,7 +18574,7 @@ export default [
   {
     "id": "s2peds-1316",
     "category": "Acne",
-    "q": "What diagnosis does the p91 facial photograph show, and what look-alike should not be chosen?",
+    "q": "What diagnosis does the source facial photograph show, and what look-alike should not be chosen?",
     "a": "Acne vulgaris. The source warns students not to mistake simple acne for tinea faciei, a fungal infection of the face.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -18666,8 +18666,8 @@ export default [
   {
     "id": "s2peds-1322",
     "category": "Acne",
-    "q": "How does the p91 isotretinoin sentence finish on p92?",
-    "a": "The source completes the sentence by saying oral isotretinoin does not cause problems with sperm in men, and that topical retinoids in men or women do not cause teratogenicity. The p92 wording is preserved as the source claim, not as a stand-alone modern recommendation.",
+    "q": "How does the source isotretinoin sentence finish in the source?",
+    "a": "The source completes the sentence by saying oral isotretinoin does not cause problems with sperm in men, and that topical retinoids in men or women do not cause teratogenicity. the source wording is preserved as the source claim, not as a stand-alone modern recommendation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 92,
@@ -18681,7 +18681,7 @@ export default [
   {
     "id": "s2peds-1323",
     "category": "Pediatric infectious disease",
-    "q": "Which infection is suggested by the p92 photograph of a non-blanching petechial and purpuric leg rash?",
+    "q": "Which infection is suggested by the source photograph of a non-blanching petechial and purpuric leg rash?",
     "a": "Meningococcemia. In the source table, the image labels the Meningococcus section and pairs the rash with Neisseria meningitidis disease.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -18743,7 +18743,7 @@ export default [
   {
     "id": "s2peds-1327",
     "category": "Pediatric infectious disease",
-    "q": "Which spot diagnosis is shown by the p92 swollen finger with grouped vesicles?",
+    "q": "Which spot diagnosis is shown by the source swollen finger with grouped vesicles?",
     "a": "Herpetic whitlow, an HSV infection of the distal finger. The source calls it one of the highest-yield USMLE spot diagnoses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -18805,8 +18805,8 @@ export default [
   {
     "id": "s2peds-1331",
     "category": "Pediatric infectious disease",
-    "q": "Which diagnosis does the p92 target-like rash photograph introduce?",
-    "a": "Lyme disease. The page gives only the Lyme label and erythema-migrans image here; the organism, rash variants, Bell palsy clue and treatment bullets begin on p93.",
+    "q": "Which diagnosis does the source target-like rash photograph introduce?",
+    "a": "Lyme disease. The page gives only the Lyme label and erythema-migrans image here; the organism, rash variants, Bell palsy clue and treatment bullets begin in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 92,
@@ -18882,7 +18882,7 @@ export default [
   {
     "id": "s2peds-1336",
     "category": "Pediatric infectious disease",
-    "q": "Which infestation is shown by the p93 hand photograph with small burrows and inflammatory lesions?",
+    "q": "Which infestation is shown by the source hand photograph with small burrows and inflammatory lesions?",
     "a": "Scabies. The image introduces the source's Sarcoptes scabiei section.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -18959,7 +18959,7 @@ export default [
   {
     "id": "s2peds-1341",
     "category": "Pediatric dermatology",
-    "q": "Which bites are shown by the p93 grouped itchy arm lesions?",
+    "q": "Which bites are shown by the source grouped itchy arm lesions?",
     "a": "Bedbug bites. The source labels the section Bed bugs and shows clustered lesions on a limb.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -18991,8 +18991,8 @@ export default [
   {
     "id": "s2peds-1343",
     "category": "Pediatric infectious disease",
-    "q": "Which disease does the p93 oral photograph introduce, and what are the arrowed lesions?",
-    "a": "Measles. The arrows show Koplik spots, the pathognomonic whitish buccal-mucosa lesions; the detailed measles bullets begin on p94.",
+    "q": "Which disease does the source oral photograph introduce, and what are the arrowed lesions?",
+    "a": "Measles. The arrows show Koplik spots, the pathognomonic whitish buccal-mucosa lesions; the detailed measles bullets begin in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 93,
@@ -19083,7 +19083,7 @@ export default [
   {
     "id": "s2peds-1349",
     "category": "Pediatric infectious disease",
-    "q": "Which infection is shown by the p94 photograph of parotid swelling?",
+    "q": "Which infection is shown by the source photograph of parotid swelling?",
     "a": "Mumps. The image shows parotitis, the hallmark salivary-gland manifestation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19130,7 +19130,7 @@ export default [
   {
     "id": "s2peds-1352",
     "category": "Pediatric infectious disease",
-    "q": "Which disease is shown by the p94 slapped-cheek photograph?",
+    "q": "Which disease is shown by the source slapped-cheek photograph?",
     "a": "Fifth disease, also called erythema infectiosum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19207,8 +19207,8 @@ export default [
   {
     "id": "s2peds-1357",
     "category": "Pediatric infectious disease",
-    "q": "Which diagnosis does the p94 diffuse rash photograph introduce?",
-    "a": "Roseola. The page gives only the label and rash image here; the HHV-6 and fever-then-rash bullets begin on p95.",
+    "q": "Which diagnosis does the source diffuse rash photograph introduce?",
+    "a": "Roseola. The page gives only the label and rash image here; the HHV-6 and fever-then-rash bullets begin in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 94,
@@ -19239,7 +19239,7 @@ export default [
   {
     "id": "s2peds-1359",
     "category": "Pediatric dermatology",
-    "q": "Which complication is shown by the p95 widespread punched-out eruption on eczematous skin?",
+    "q": "Which complication is shown by the source widespread punched-out eruption on eczematous skin?",
     "a": "Eczema herpeticum, a disseminated HSV infection superimposed on eczema.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19287,7 +19287,7 @@ export default [
     "id": "s2peds-1362",
     "category": "Pediatric dermatology",
     "q": "What systemic and sensory features can accompany eczema herpeticum?",
-    "a": "Fever, lymphadenopathy, and tingling, burning, painful rash, which the source labels herpetic neuralgia.",
+    "a": "Fever, lymphadenopathy, and tingling, burning, painful rash, which source labels herpetic neuralgia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 95,
@@ -19316,7 +19316,7 @@ export default [
   {
     "id": "s2peds-1364",
     "category": "Pediatric dermatology",
-    "q": "Which eruption is shown by the p95 symmetric extensor-surface lesions?",
+    "q": "Which eruption is shown by the source symmetric extensor-surface lesions?",
     "a": "Dermatitis herpetiformis, the intensely itchy celiac-associated papulovesicular eruption.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19363,8 +19363,8 @@ export default [
   {
     "id": "s2peds-1367",
     "category": "Pediatric infectious disease",
-    "q": "Which diagnosis does the p95 dermatomal vesicular rash photograph introduce?",
-    "a": "Pediatric shingles. The p95 source point is that shingles can occur in children; the VZV-versus-HSV naming discussion continues on p96.",
+    "q": "Which diagnosis does the source dermatomal vesicular rash photograph introduce?",
+    "a": "Pediatric shingles. the source source point is that shingles can occur in children; the VZV-versus-HSV naming discussion continues in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 95,
@@ -19425,7 +19425,7 @@ export default [
   {
     "id": "s2peds-1371",
     "category": "Pediatric dermatology",
-    "q": "Which eruption is shown by the p96 herald patch with smaller secondary lesions?",
+    "q": "Which eruption is shown by the source herald patch with smaller secondary lesions?",
     "a": "Pityriasis rosea. The larger pink ellipse is the herald patch.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19487,7 +19487,7 @@ export default [
   {
     "id": "s2peds-1375",
     "category": "Pediatric dermatology",
-    "q": "Which eruption is shown by the p96 spotty hypopigmented truncal photograph?",
+    "q": "Which eruption is shown by the source spotty hypopigmented truncal photograph?",
     "a": "Tinea versicolor.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19549,8 +19549,8 @@ export default [
   {
     "id": "s2peds-1379",
     "category": "Pediatric dermatology",
-    "q": "Which diagnosis does the p96 papule photograph label introduce?",
-    "a": "Molluscum contagiosum. The p96 source gives only the label and photograph; the poxvirus, umbilication and pool-party details continue on p97.",
+    "q": "Which diagnosis does the source papule photograph label introduce?",
+    "a": "Molluscum contagiosum. the source source gives only the label and photograph; the poxvirus, umbilication and pool-party details continue in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 96,
@@ -19566,7 +19566,7 @@ export default [
   {
     "id": "s2peds-1380",
     "category": "Pediatric dermatology",
-    "q": "Which virus family causes molluscum contagiosum in the p97 continuation?",
+    "q": "Which virus family causes molluscum contagiosum in the source continuation?",
     "a": "Poxvirus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19611,7 +19611,7 @@ export default [
   {
     "id": "s2peds-1383",
     "category": "Pediatric infectious disease",
-    "q": "Which infection is shown by the p97 violaceous hand or arm lesions after water exposure?",
+    "q": "Which infection is shown by the source violaceous hand or arm lesions after water exposure?",
     "a": "Mycobacterium marinum infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19643,7 +19643,7 @@ export default [
   {
     "id": "s2peds-1385",
     "category": "Pediatric infectious disease",
-    "q": "Which infection is shown by the p97 reddish-violaceous preauricular neck lesion?",
+    "q": "Which infection is shown by the source reddish-violaceous preauricular neck lesion?",
     "a": "Mycobacterium avium-intracellulare lymphadenitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19675,7 +19675,7 @@ export default [
   {
     "id": "s2peds-1387",
     "category": "Pediatric dermatology",
-    "q": "Which diagnosis does the p97 pruritic flexural rash photograph introduce?",
+    "q": "Which diagnosis does the source pruritic flexural rash photograph introduce?",
     "a": "Eczema, meaning atopic dermatitis in this source context.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19737,7 +19737,7 @@ export default [
   {
     "id": "s2peds-1391",
     "category": "Pediatric dermatology",
-    "q": "What treatment pair does p98 give for eczema?",
+    "q": "What treatment pair does the source give for eczema?",
     "a": "Oil-based emollient plus a topical corticosteroid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19767,7 +19767,7 @@ export default [
   {
     "id": "s2peds-1393",
     "category": "Pediatric dermatology",
-    "q": "Which eruption is shown by the p98 photograph of raised, well-demarcated wheals?",
+    "q": "Which eruption is shown by the source photograph of raised, well-demarcated wheals?",
     "a": "Urticaria.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19799,7 +19799,7 @@ export default [
   {
     "id": "s2peds-1395",
     "category": "Pediatric allergy/immunology",
-    "q": "Which precipitating allergens does p98 list for urticaria?",
+    "q": "Which precipitating allergens does the source list for urticaria?",
     "a": "Pollen, pet dander and drugs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19814,7 +19814,7 @@ export default [
   {
     "id": "s2peds-1396",
     "category": "Pediatric dermatology",
-    "q": "Which diagnosis is shown by the p98 target-like erythematous lesions?",
+    "q": "Which diagnosis is shown by the source target-like erythematous lesions?",
     "a": "Erythema multiforme.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19846,7 +19846,7 @@ export default [
   {
     "id": "s2peds-1398",
     "category": "Pediatric dentistry",
-    "q": "Which lesion is shown by the p98 shallow ulcer with a pale center and red rim on the oral mucosa?",
+    "q": "Which lesion is shown by the source shallow ulcer with a pale center and red rim on the oral mucosa?",
     "a": "Aphthous ulcer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19863,7 +19863,7 @@ export default [
   {
     "id": "s2peds-1399",
     "category": "Pediatric dentistry",
-    "q": "What alternate name, treatment and viral distinction does p98 give for aphthous ulcer?",
+    "q": "What alternate name, treatment and viral distinction does the source give for aphthous ulcer?",
     "a": "Aphthous stomatitis; the source says no treatment is necessary and it is not related to HSV-1 or HSV-2.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19878,7 +19878,7 @@ export default [
   {
     "id": "s2peds-1400",
     "category": "Pediatric dentistry",
-    "q": "What etiology and trigger pattern does p98 give for aphthous ulcer?",
+    "q": "What etiology and trigger pattern does the source give for aphthous ulcer?",
     "a": "A multifactorial, T-cell-mediated process that can be precipitated by allergens such as spice.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19893,8 +19893,8 @@ export default [
   {
     "id": "s2peds-1401",
     "category": "Pediatric dermatology",
-    "q": "Which condition heading begins at the bottom of p98 and continues on p99?",
-    "a": "Aplasia cutis congenita. The p98 source gives only the heading; its scalp-skin and methimazole details continue on p99.",
+    "q": "Which condition heading begins at the bottom of the source and continues in the source?",
+    "a": "Aplasia cutis congenita. the source source gives only the heading; its scalp-skin and methimazole details continue in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 98,
@@ -19908,7 +19908,7 @@ export default [
   {
     "id": "s2peds-1402",
     "category": "Pediatric dermatology",
-    "q": "Which congenital condition is shown by the p99 photograph of a scalp area without skin?",
+    "q": "Which congenital condition is shown by the source photograph of a scalp area without skin?",
     "a": "Aplasia cutis congenita.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19925,7 +19925,7 @@ export default [
   {
     "id": "s2peds-1403",
     "category": "Pediatric dermatology",
-    "q": "What anatomic defect does p99 give for aplasia cutis congenita?",
+    "q": "What anatomic defect does the source give for aplasia cutis congenita?",
     "a": "Absence of skin on an area of scalp.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19955,7 +19955,7 @@ export default [
   {
     "id": "s2peds-1405",
     "category": "Pediatric allergy/immunology",
-    "q": "Which diagnosis is suggested by the p99 photograph of recurrent facial or periorbital swelling?",
+    "q": "Which diagnosis is suggested by the source photograph of recurrent facial or periorbital swelling?",
     "a": "Hereditary angioedema.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -19987,7 +19987,7 @@ export default [
   {
     "id": "s2peds-1407",
     "category": "Pediatric allergy/immunology",
-    "q": "What clinical pattern does p99 give for hereditary angioedema?",
+    "q": "What clinical pattern does the source give for hereditary angioedema?",
     "a": "Recurrent swelling of various bodily regions.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20017,7 +20017,7 @@ export default [
   {
     "id": "s2peds-1409",
     "category": "Pediatric genetics",
-    "q": "Which diagnosis is shown by the p99 café-au-lait spot photograph?",
+    "q": "Which diagnosis is shown by the source café-au-lait spot photograph?",
     "a": "Neurofibromatosis type I.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20034,7 +20034,7 @@ export default [
   {
     "id": "s2peds-1410",
     "category": "Pediatric genetics",
-    "q": "What inheritance and broader disease category does p99 give for NF1?",
+    "q": "What inheritance and broader disease category does the source give for NF1?",
     "a": "Autosomal dominant and one of the phakomatoses, alongside NF2, von Hippel-Lindau, tuberous sclerosis and Sturge-Weber in the source list.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20049,7 +20049,7 @@ export default [
   {
     "id": "s2peds-1411",
     "category": "Pediatric genetics",
-    "q": "Which NF1 findings does p99 list?",
+    "q": "Which NF1 findings does the source list?",
     "a": "Café-au-lait spots, neurofibromas, axillary or groin freckling, optic glioma and pheochromocytoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20064,7 +20064,7 @@ export default [
   {
     "id": "s2peds-1412",
     "category": "Pediatric genetics",
-    "q": "What inheritance and disease category does p99 give for tuberous sclerosis?",
+    "q": "What inheritance and disease category does the source give for tuberous sclerosis?",
     "a": "Autosomal dominant and one of the phakomatoses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20079,8 +20079,8 @@ export default [
   {
     "id": "s2peds-1413",
     "category": "Pediatric genetics",
-    "q": "What skin finding does p99 name for tuberous sclerosis?",
-    "a": "Adenoma sebaceum, meaning angiofibromas. The actual source photograph appears at the top of p100 and is kept with p100.",
+    "q": "What skin finding does the source name for tuberous sclerosis?",
+    "a": "Adenoma sebaceum, meaning angiofibromas. The actual source photograph appears at the top of the source and is kept with the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 99,
@@ -20094,7 +20094,7 @@ export default [
   {
     "id": "s2peds-1414",
     "category": "Pediatric genetics",
-    "q": "Which multisystem findings does p99 list for tuberous sclerosis?",
+    "q": "Which multisystem findings does the source list for tuberous sclerosis?",
     "a": "Intracranial/periventricular nodules (tubers or hamartomas), adenoma sebaceum (angiofibromas), cardiac rhabdomyoma, lymphangioleiomyomatosis, subungual fibromas and renal angiomyolipoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20109,7 +20109,7 @@ export default [
   {
     "id": "s2peds-1415",
     "category": "Pediatric genetics",
-    "q": "Which condition is shown by the p100 facial papules labeled adenoma sebaceum?",
+    "q": "Which condition is shown by the source facial papules labeled adenoma sebaceum?",
     "a": "Tuberous sclerosis; adenoma sebaceum means facial angiofibromas.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20126,7 +20126,7 @@ export default [
   {
     "id": "s2peds-1416",
     "category": "Pediatric neurology",
-    "q": "Which syndrome is shown by the p100 unilateral facial port-wine birthmark?",
+    "q": "Which syndrome is shown by the source unilateral facial port-wine birthmark?",
     "a": "Sturge-Weber syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20143,7 +20143,7 @@ export default [
   {
     "id": "s2peds-1417",
     "category": "Pediatric dermatology",
-    "q": "How does p100 describe the classic Sturge-Weber birthmark and its alternate vignette wording?",
+    "q": "How does the source describe the classic Sturge-Weber birthmark and its alternate vignette wording?",
     "a": "A port-wine-stain birthmark, also called nevus flammeus, which may be described as violaceous papules in a temporal distribution.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20158,7 +20158,7 @@ export default [
   {
     "id": "s2peds-1418",
     "category": "Pediatric neurology",
-    "q": "Which neurologic and ocular associations does p100 give for Sturge-Weber syndrome?",
+    "q": "Which neurologic and ocular associations does the source give for Sturge-Weber syndrome?",
     "a": "Leptomeningeal angioma causing seizures, plus glaucoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20173,7 +20173,7 @@ export default [
   {
     "id": "s2peds-1419",
     "category": "Pediatric genetics",
-    "q": "What inheritance pattern does p100 give for Sturge-Weber syndrome?",
+    "q": "What inheritance pattern does the source give for Sturge-Weber syndrome?",
     "a": "It is not inherited; it results from somatic mosaicism.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20188,7 +20188,7 @@ export default [
   {
     "id": "s2peds-1420",
     "category": "Pediatric endocrinology",
-    "q": "Which syndrome is shown by the p100 irregular café-au-lait macules respecting the midline?",
+    "q": "Which syndrome is shown by the source irregular café-au-lait macules respecting the midline?",
     "a": "McCune-Albright syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20205,7 +20205,7 @@ export default [
   {
     "id": "s2peds-1421",
     "category": "Pediatric endocrinology",
-    "q": "What triad does p100 give for McCune-Albright syndrome?",
+    "q": "What triad does the source give for McCune-Albright syndrome?",
     "a": "Coast-of-Maine café-au-lait spots, polyostotic fibrous dysplasia and endocrine hypersecretion, classically precocious puberty.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20220,7 +20220,7 @@ export default [
   {
     "id": "s2peds-1422",
     "category": "Pediatric dermatology",
-    "q": "What alternate name does p100 give for blue nevus, and what correction does current terminology require?",
+    "q": "What alternate name does the source give for blue nevus, and what correction does current terminology require?",
     "a": "The source says blue nevus is aka Mongolian spot. Current terminology treats blue nevus and congenital dermal melanocytosis (Mongolian spot) as distinct entities.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20235,7 +20235,7 @@ export default [
   {
     "id": "s2peds-1423",
     "category": "Pediatric dermatology",
-    "q": "What mechanism does p100 give for blue nevus?",
+    "q": "What mechanism does the source give for blue nevus?",
     "a": "A benign birthmark in which dermal melanocytes fail to migrate superficially to the stratum basale.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20250,7 +20250,7 @@ export default [
   {
     "id": "s2peds-1424",
     "category": "Pediatric dermatology",
-    "q": "What demographic pattern does p100 give for blue nevus?",
+    "q": "What demographic pattern does the source give for blue nevus?",
     "a": "The source says it is more common in Asians and Black patients.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20265,7 +20265,7 @@ export default [
   {
     "id": "s2peds-1425",
     "category": "Pediatric dermatology",
-    "q": "Which benign newborn finding is shown by the p101 blue-gray lumbosacral patch?",
+    "q": "Which benign newborn finding is shown by the source blue-gray lumbosacral patch?",
     "a": "Congenital dermal melanocytosis, the current name for the source's Mongolian spot.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20282,7 +20282,7 @@ export default [
   {
     "id": "s2peds-1426",
     "category": "Pediatric dermatology",
-    "q": "What child-abuse distinction and follow-up answer does the source give for this p101 finding?",
+    "q": "What child-abuse distinction and follow-up answer does the source give for this the source finding?",
     "a": "It is often mistaken for child abuse. Schedule routine follow-up; contacting child protective services is the source's wrong answer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20297,7 +20297,7 @@ export default [
   {
     "id": "s2peds-1427",
     "category": "Pediatric dermatology",
-    "q": "Which condition is shown by the p101 velvety hyperpigmented neck skin?",
+    "q": "Which condition is shown by the source velvety hyperpigmented neck skin?",
     "a": "Acanthosis nigricans.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20314,7 +20314,7 @@ export default [
   {
     "id": "s2peds-1428",
     "category": "Pediatric dermatology",
-    "q": "What appearance and usual location does p101 give for acanthosis nigricans?",
+    "q": "What appearance and usual location does the source give for acanthosis nigricans?",
     "a": "Brown or black velvety skin, usually along the nape of the neck.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20329,7 +20329,7 @@ export default [
   {
     "id": "s2peds-1429",
     "category": "Pediatric endocrinology",
-    "q": "Which metabolic association does p101 give for acanthosis nigricans?",
+    "q": "Which metabolic association does the source give for acanthosis nigricans?",
     "a": "The source associates it with hyperinsulinemia and type II diabetes almost always.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20344,7 +20344,7 @@ export default [
   {
     "id": "s2peds-1430",
     "category": "Pediatric dermatology",
-    "q": "What rare serious association does p101 give for acanthosis nigricans?",
+    "q": "What rare serious association does the source give for acanthosis nigricans?",
     "a": "Very rarely, an underlying visceral malignancy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20359,7 +20359,7 @@ export default [
   {
     "id": "s2peds-1431",
     "category": "Pediatric dermatology",
-    "q": "Which lesion is shown by the p101 bright-red raised vascular plaque?",
+    "q": "Which lesion is shown by the source bright-red raised vascular plaque?",
     "a": "Strawberry hemangioma, now preferably termed infantile hemangioma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20376,7 +20376,7 @@ export default [
   {
     "id": "s2peds-1432",
     "category": "Pediatric dermatology",
-    "q": "What natural history does p101 give for strawberry hemangioma?",
+    "q": "What natural history does the source give for strawberry hemangioma?",
     "a": "A benign capillary tumor that grows slightly, then regresses spontaneously within a few years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20391,7 +20391,7 @@ export default [
   {
     "id": "s2peds-1433",
     "category": "Pediatric dermatology",
-    "q": "When does p101 say strawberry hemangioma needs treatment?",
+    "q": "When does the source say strawberry hemangioma needs treatment?",
     "a": "No treatment is necessary unless it causes functional impairment.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20406,7 +20406,7 @@ export default [
   {
     "id": "s2peds-1434",
     "category": "Pediatric dermatology",
-    "q": "How does p101 distinguish cherry hemangioma from strawberry hemangioma?",
+    "q": "How does the source distinguish cherry hemangioma from strawberry hemangioma?",
     "a": "Cherry hemangioma is described as a tiny cherry-colored papule from sun exposure in elderly patients, unlike the infantile strawberry lesion.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20421,8 +20421,8 @@ export default [
   {
     "id": "s2peds-1435",
     "category": "Pediatric dermatology",
-    "q": "Which finding is shown by the p101 small opening anterior to the ear?",
-    "a": "Preauricular pit. The p101 source gives the label and photograph; its benign course, infection and surgical-closure details continue on p102.",
+    "q": "Which finding is shown by the source small opening anterior to the ear?",
+    "a": "Preauricular pit. the source source gives the label and photograph; its benign course, infection and surgical-closure details continue in the source.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 101,
@@ -20438,7 +20438,7 @@ export default [
   {
     "id": "s2peds-1436",
     "category": "Pediatric dermatology",
-    "q": "What does p102 say about the significance of preauricular pits?",
+    "q": "What does the source say about the significance of preauricular pits?",
     "a": "They are benign findings and usually not associated with any congenital disorder.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20453,7 +20453,7 @@ export default [
   {
     "id": "s2peds-1437",
     "category": "Pediatric dermatology",
-    "q": "What treatment rule does p102 give for preauricular pits?",
+    "q": "What treatment rule does the source give for preauricular pits?",
     "a": "No treatment is necessary. If they become infected frequently, do surgical closure.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20468,7 +20468,7 @@ export default [
   {
     "id": "s2peds-1438",
     "category": "Pediatric hematology-oncology",
-    "q": "Which large purpuric vascular lesion with thrombocytopenia is shown on p102?",
+    "q": "Which large purpuric vascular lesion with thrombocytopenia is shown in the source?",
     "a": "Kasabach-Merritt syndrome, now more precisely called Kasabach-Merritt phenomenon.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20485,7 +20485,7 @@ export default [
   {
     "id": "s2peds-1439",
     "category": "Pediatric hematology-oncology",
-    "q": "What alternate name does p102 give for Kasabach-Merritt syndrome?",
+    "q": "What alternate name does the source give for Kasabach-Merritt syndrome?",
     "a": "The source calls it infantile hemangioma with thrombocytopenia and says it is asked several times on Step 2 CK pediatrics assessments.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20500,7 +20500,7 @@ export default [
   {
     "id": "s2peds-1440",
     "category": "Pediatric hematology-oncology",
-    "q": "Why does the p102 Kasabach-Merritt patient develop thrombocytopenia?",
+    "q": "Why does the source Kasabach-Merritt patient develop thrombocytopenia?",
     "a": "Platelets are sequestered within the vascular lesion.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20515,7 +20515,7 @@ export default [
   {
     "id": "s2peds-1441",
     "category": "Pediatric hematology-oncology",
-    "q": "How does p102 distinguish Kasabach-Merritt syndrome from strawberry hemangioma?",
+    "q": "How does the source distinguish Kasabach-Merritt syndrome from strawberry hemangioma?",
     "a": "Kasabach-Merritt syndrome is large and deforming; do not confuse it with the smaller strawberry hemangioma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20530,7 +20530,7 @@ export default [
   {
     "id": "s2peds-1442",
     "category": "Pediatric hematology-oncology",
-    "q": "What treatment does p102 give for Kasabach-Merritt syndrome?",
+    "q": "What treatment does the source give for Kasabach-Merritt syndrome?",
     "a": "The source's treatment answer is surgical.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20545,7 +20545,7 @@ export default [
   {
     "id": "s2peds-1443",
     "category": "Pediatric dermatology",
-    "q": "Which patterned injury is shown by the p102 round hand lesion?",
+    "q": "Which patterned injury is shown by the source round hand lesion?",
     "a": "A cigarette burn concerning for non-accidental injury.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20562,7 +20562,7 @@ export default [
   {
     "id": "s2peds-1444",
     "category": "Pediatric dermatology",
-    "q": "What is the p102 exam answer when this cigarette-burn image is shown?",
+    "q": "What is the source exam answer when this cigarette-burn image is shown?",
     "a": "Contact child protective services.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20577,7 +20577,7 @@ export default [
   {
     "id": "s2peds-1445",
     "category": "Pediatric dermatology",
-    "q": "What location and mimic does p102 give for cigarette burns?",
+    "q": "What location and mimic does the source give for cigarette burns?",
     "a": "They can also be on the face and may resemble impetigo when lesions are at different stages of healing.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20592,7 +20592,7 @@ export default [
   {
     "id": "s2peds-1446",
     "category": "Pediatric dermatology",
-    "q": "Which benign newborn facial finding is shown by the tiny white papules on p102?",
+    "q": "Which benign newborn facial finding is shown by the tiny white papules in the source?",
     "a": "Milia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20609,7 +20609,7 @@ export default [
   {
     "id": "s2peds-1447",
     "category": "Pediatric dermatology",
-    "q": "How does p102 describe milia?",
+    "q": "How does the source describe milia?",
     "a": "Milk spots from clogged eccrine ducts; a common, benign finding in babies.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20624,7 +20624,7 @@ export default [
   {
     "id": "s2peds-1448",
     "category": "Pediatric dermatology",
-    "q": "What treatment rule and wrong answers does p102 give for milia?",
+    "q": "What treatment rule and wrong answers does the source give for milia?",
     "a": "No treatment is necessary. Exfoliative cleanser and topical low-dose corticosteroid are the source's wrong answers.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20639,7 +20639,7 @@ export default [
   {
     "id": "s2peds-1449",
     "category": "Pediatric neurology",
-    "q": "How does p103 describe fever-precipitated seizures in young children?",
+    "q": "How does the source describe fever-precipitated seizures in young children?",
     "a": "Fever can precipitate an idiopathic seizure in 2-4% of children ages 6 months to 5 years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20654,7 +20654,7 @@ export default [
   {
     "id": "s2peds-1450",
     "category": "Pediatric neurology",
-    "q": "What epilepsy-risk comparison does p103 give after febrile seizure?",
+    "q": "What epilepsy-risk comparison does the source give after febrile seizure?",
     "a": "The source says the risk of progression to epilepsy is about two-fold compared with the general population.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20669,7 +20669,7 @@ export default [
   {
     "id": "s2peds-1451",
     "category": "Pediatric neurology",
-    "q": "What treatment does p103 give for febrile seizure?",
+    "q": "What treatment does the source give for febrile seizure?",
     "a": "The source says treatment is with a benzodiazepine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20684,7 +20684,7 @@ export default [
   {
     "id": "s2peds-1452",
     "category": "Pediatric neurology",
-    "q": "Which febrile-seizure features does p103 say more significantly raise epilepsy risk?",
+    "q": "Which febrile-seizure features does the source say more significantly raise epilepsy risk?",
     "a": "Seizures lasting longer than 10 minutes, recurrence within 24 hours, or focal neurologic signs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20699,7 +20699,7 @@ export default [
   {
     "id": "s2peds-1453",
     "category": "Pediatric neurology",
-    "q": "What absence-seizure vignette does p103 give?",
+    "q": "What absence-seizure vignette does the source give?",
     "a": "A kid staring off into space in class for about 30 seconds, sometimes with rapid blinking.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20714,7 +20714,7 @@ export default [
   {
     "id": "s2peds-1454",
     "category": "Pediatric neurology",
-    "q": "How does p103 classify the staring episode in absence seizure?",
+    "q": "How does the source classify the staring episode in absence seizure?",
     "a": "The source says it is considered loss of consciousness.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20729,7 +20729,7 @@ export default [
   {
     "id": "s2peds-1455",
     "category": "Pediatric neurology",
-    "q": "What EEG finding does p103 give for absence seizure?",
+    "q": "What EEG finding does the source give for absence seizure?",
     "a": "Symmetric 3-Hz spike-and-wave discharges.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20744,7 +20744,7 @@ export default [
   {
     "id": "s2peds-1456",
     "category": "Pediatric neurology",
-    "q": "What treatment and mechanism does p103 give for absence seizure?",
+    "q": "What treatment and mechanism does the source give for absence seizure?",
     "a": "Ethosuximide, a thalamic calcium-channel blocker.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20759,7 +20759,7 @@ export default [
   {
     "id": "s2peds-1457",
     "category": "Pediatric neurology",
-    "q": "How does p103 name and classify West syndrome?",
+    "q": "How does the source name and classify West syndrome?",
     "a": "It calls West syndrome infantile spasms and says it is X-linked recessive.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20774,7 +20774,7 @@ export default [
   {
     "id": "s2peds-1458",
     "category": "Pediatric neurology",
-    "q": "What clinical event characterizes West syndrome on p103?",
+    "q": "What clinical event characterizes West syndrome in the source?",
     "a": "An epilepsy syndrome of infants characterized by spasms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20789,7 +20789,7 @@ export default [
   {
     "id": "s2peds-1459",
     "category": "Pediatric neurology",
-    "q": "What EEG pattern does p103 give for West syndrome?",
+    "q": "What EEG pattern does the source give for West syndrome?",
     "a": "Hypsarrhythmia, a chaotic EEG pattern.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20804,7 +20804,7 @@ export default [
   {
     "id": "s2peds-1460",
     "category": "Pediatric neurology",
-    "q": "What developmental consequence does p103 give for West syndrome?",
+    "q": "What developmental consequence does the source give for West syndrome?",
     "a": "The source says it leads to intellectual disability.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20819,7 +20819,7 @@ export default [
   {
     "id": "s2peds-1461",
     "category": "Pediatric neurology",
-    "q": "What treatment and proposed mechanism does p103 give for West syndrome?",
+    "q": "What treatment and proposed mechanism does the source give for West syndrome?",
     "a": "ACTH, with the source suggesting increased endogenous cortisol may mitigate progression.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20834,7 +20834,7 @@ export default [
   {
     "id": "s2peds-1462",
     "category": "Pediatric neurology",
-    "q": "How does p103 describe Lennox-Gastaut syndrome?",
+    "q": "How does the source describe Lennox-Gastaut syndrome?",
     "a": "Severe childhood-onset epilepsy with near-daily seizures and cognitive decline.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20849,7 +20849,7 @@ export default [
   {
     "id": "s2peds-1463",
     "category": "Pediatric neurology",
-    "q": "What regression sign does p103 attach to Lennox-Gastaut syndrome?",
+    "q": "What regression sign does the source attach to Lennox-Gastaut syndrome?",
     "a": "Hyperoralism, with babies putting things in their mouths, is presented as a sign of cognitive regression.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20864,7 +20864,7 @@ export default [
   {
     "id": "s2peds-1464",
     "category": "Pediatric neurology",
-    "q": "What mortality figure does p103 give for Lennox-Gastaut syndrome?",
+    "q": "What mortality figure does the source give for Lennox-Gastaut syndrome?",
     "a": "A poor prognosis with 5% mortality in childhood.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20879,7 +20879,7 @@ export default [
   {
     "id": "s2peds-1465",
     "category": "Pediatric neurology",
-    "q": "What adult outcome does p103 give for Lennox-Gastaut seizures?",
+    "q": "What adult outcome does the source give for Lennox-Gastaut seizures?",
     "a": "80-90% persistence of seizures into adulthood.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20894,7 +20894,7 @@ export default [
   {
     "id": "s2peds-1466",
     "category": "Pediatric neurology",
-    "q": "What does the p103 abbreviation JME mean?",
+    "q": "What does the source abbreviation JME mean?",
     "a": "Juvenile myoclonic epilepsy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20909,7 +20909,7 @@ export default [
   {
     "id": "s2peds-1467",
     "category": "Pediatric neurology",
-    "q": "What seizure progression does p103 give for JME?",
+    "q": "What seizure progression does the source give for JME?",
     "a": "Myoclonic jerks, usually hypnagogic and/or hypnopompic, progress to tonic-clonic seizures after several months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20924,7 +20924,7 @@ export default [
   {
     "id": "s2peds-1468",
     "category": "Pediatric neurology",
-    "q": "What onset age does p103 give for JME?",
+    "q": "What onset age does the source give for JME?",
     "a": "Usually 10-16 years old, although it can also start in adulthood.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20939,7 +20939,7 @@ export default [
   {
     "id": "s2peds-1469",
     "category": "Pediatric neurology",
-    "q": "What treatment does p103 give for JME?",
+    "q": "What treatment does the source give for JME?",
     "a": "Valproic acid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20954,7 +20954,7 @@ export default [
   {
     "id": "s2peds-1470",
     "category": "Pediatric neurology",
-    "q": "How does p103 explain an Adams-Stokes attack?",
+    "q": "How does the source explain an Adams-Stokes attack?",
     "a": "An idiopathic arrhythmia disorder in pediatrics causes transient hypoxia to the brainstem, producing seizure-like episodes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20969,7 +20969,7 @@ export default [
   {
     "id": "s2peds-1471",
     "category": "Pediatric neurology",
-    "q": "What EEG distinction does p103 give for Adams-Stokes attack?",
+    "q": "What EEG distinction does the source give for Adams-Stokes attack?",
     "a": "The EEG does not show seizure activity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20984,7 +20984,7 @@ export default [
   {
     "id": "s2peds-1472",
     "category": "Pediatric neurology",
-    "q": "What vignette answer does p103 give for arrhythmia plus seizure-like twitching?",
+    "q": "What vignette answer does the source give for arrhythmia plus seizure-like twitching?",
     "a": "A miscellaneous arrhythmia description plus twitching that sounds like seizure points to Adams-Stokes attack.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -20999,7 +20999,7 @@ export default [
   {
     "id": "s2peds-1473",
     "category": "Pediatric neurology",
-    "q": "What breath-holding-spell vignette does p103 give?",
+    "q": "What breath-holding-spell vignette does the source give?",
     "a": "A 3-year-old has a tantrum, falls to the floor and appears blue.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21014,7 +21014,7 @@ export default [
   {
     "id": "s2peds-1474",
     "category": "Pediatric neurology",
-    "q": "What triggers breath-holding spells in p103?",
+    "q": "What triggers breath-holding spells in the source?",
     "a": "The child involuntarily stops breathing after a trigger such as being upset, frightened or experiencing pain.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21029,7 +21029,7 @@ export default [
   {
     "id": "s2peds-1475",
     "category": "Pediatric neurology",
-    "q": "What sequence and exam importance does p103 give for cyanotic breath-holding spell?",
+    "q": "What sequence and exam importance does the source give for cyanotic breath-holding spell?",
     "a": "The child cries or becomes upset, exhales forcefully, stops breathing and develops cyanosis, sometimes followed by brief loss of consciousness and jerking. The source says this shows up on pediatrics forms and must be known.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21044,8 +21044,8 @@ export default [
   {
     "id": "s2peds-1476",
     "category": "Pediatric neurology",
-    "q": "How does p103 define and explain cerebral palsy?",
-    "a": "Motor dysfunction and intellectual disability of varying severity, which the source posits may be due to intrapartum conditions such as hypoxia.",
+    "q": "How does the source define and explain cerebral palsy?",
+    "a": "Motor dysfunction and intellectual disability of varying severity, which source posits may be due to intrapartum conditions such as hypoxia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 103,
@@ -21059,7 +21059,7 @@ export default [
   {
     "id": "s2peds-1477",
     "category": "Pediatric neurology",
-    "q": "What cerebral-palsy presentation does p103 say USMLE will show?",
+    "q": "What cerebral-palsy presentation does the source say USMLE will show?",
     "a": "Spastic paraparesis in a child with scissoring of the legs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21074,7 +21074,7 @@ export default [
   {
     "id": "s2peds-1478",
     "category": "Pediatric neurology",
-    "q": "How does p103/p104 describe CSF movement in communicating hydrocephalus?",
+    "q": "How does the source/the source describe CSF movement in communicating hydrocephalus?",
     "a": "CSF can flow freely between the ventricles and the subarachnoid space around the brain and spinal cord.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21089,7 +21089,7 @@ export default [
   {
     "id": "s2peds-1479",
     "category": "Pediatric neurology",
-    "q": "What meningitis-associated hydrocephalus mechanism does p104 give?",
+    "q": "What meningitis-associated hydrocephalus mechanism does the source give?",
     "a": "Failure of CSF reabsorption by the arachnoid granulations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21104,7 +21104,7 @@ export default [
   {
     "id": "s2peds-1480",
     "category": "Pediatric neurology",
-    "q": "What alternate name and mechanism does p104 give for non-communicating hydrocephalus?",
+    "q": "What alternate name and mechanism does the source give for non-communicating hydrocephalus?",
     "a": "It is obstructive hydrocephalus: a blockage prevents CSF flow between the ventricles or into the subarachnoid space.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21119,7 +21119,7 @@ export default [
   {
     "id": "s2peds-1481",
     "category": "Pediatric neurology",
-    "q": "What spinal-cord-tumor NBME answer does p104 teach for hydrocephalus?",
+    "q": "What spinal-cord-tumor NBME answer does the source teach for hydrocephalus?",
     "a": "The source says a spinal cord tumor in the setting of hydrocephalus points to obstructive hydrocephalus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21134,7 +21134,7 @@ export default [
   {
     "id": "s2peds-1482",
     "category": "Pediatric neurology",
-    "q": "How does p104 define aqueductal stenosis and rank it in congenital hydrocephalus?",
+    "q": "How does the source define aqueductal stenosis and rank it in congenital hydrocephalus?",
     "a": "Narrowing of the cerebral aqueduct of Sylvius between the third and fourth ventricles, which the source calls the most common cause of congenital hydrocephalus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21149,7 +21149,7 @@ export default [
   {
     "id": "s2peds-1483",
     "category": "Pediatric neurology",
-    "q": "What colloid-cyst description does p104 give?",
+    "q": "What colloid-cyst description does the source give?",
     "a": "A benign fluid-filled growth at the anterior roof of the third ventricle, just posterior to the foramen of Monro.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21164,7 +21164,7 @@ export default [
   {
     "id": "s2peds-1484",
     "category": "Pediatric neurology",
-    "q": "What NPH mnemonic and symptom triad does p104 give?",
+    "q": "What NPH mnemonic and symptom triad does the source give?",
     "a": "Normal pressure hydrocephalus is 'wet, wobbly, wacky' with possible Parkinsonism: urinary incontinence, ataxia and cognitive dysfunction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21179,7 +21179,7 @@ export default [
   {
     "id": "s2peds-1485",
     "category": "Pediatric neurology",
-    "q": "What anatomic mechanism does p104 give for NPH gait dysfunction?",
+    "q": "What anatomic mechanism does the source give for NPH gait dysfunction?",
     "a": "Impingement on the corona radiata, the white-matter bundle connecting the motor cortex superiorly to the internal capsule inferiorly.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21194,7 +21194,7 @@ export default [
   {
     "id": "s2peds-1486",
     "category": "Pediatric neurology",
-    "q": "What urinary-incontinence mechanism does p104 give for NPH?",
+    "q": "What urinary-incontinence mechanism does the source give for NPH?",
     "a": "Failure to inhibit the voiding reflex.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21209,7 +21209,7 @@ export default [
   {
     "id": "s2peds-1487",
     "category": "Pediatric neurology",
-    "q": "What most common congenital-hydrocephalus cause does p104 repeat?",
+    "q": "What most common congenital-hydrocephalus cause does the source repeat?",
     "a": "Aqueductal stenosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21224,7 +21224,7 @@ export default [
   {
     "id": "s2peds-1488",
     "category": "Pediatric neurology",
-    "q": "What congenital-toxoplasmosis triad does p104 say is most important on NBME?",
+    "q": "What congenital-toxoplasmosis triad does the source say is most important on NBME?",
     "a": "Hydrocephalus, chorioretinitis and intracranial calcifications.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21239,7 +21239,7 @@ export default [
   {
     "id": "s2peds-1489",
     "category": "Pediatric neurology",
-    "q": "How does p104 define hydrocephalus ex vacuo?",
+    "q": "How does the source define hydrocephalus ex vacuo?",
     "a": "The appearance of enlarged lateral ventricles on imaging without true hydrocephalus, caused by loss of surrounding brain matter.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21254,7 +21254,7 @@ export default [
   {
     "id": "s2peds-1490",
     "category": "Pediatric neurology",
-    "q": "Which diseases does p104 link with enlarged lateral ventricles on USMLE?",
+    "q": "Which diseases does the source link with enlarged lateral ventricles on USMLE?",
     "a": "Alzheimer disease and schizophrenia, where enlarged lateral ventricles can appear in question stems.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21269,7 +21269,7 @@ export default [
   {
     "id": "s2peds-1491",
     "category": "Pediatric neurology",
-    "q": "What Bell's-palsy lesion does p104 describe?",
+    "q": "What Bell's-palsy lesion does the source describe?",
     "a": "A lower-motor-neuron lesion of cranial nerve VII, the facial nerve.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21284,7 +21284,7 @@ export default [
   {
     "id": "s2peds-1492",
     "category": "Pediatric neurology",
-    "q": "What facial deficit does p104 give for Bell's palsy?",
+    "q": "What facial deficit does the source give for Bell's palsy?",
     "a": "Paralysis of the ipsilateral facial muscles.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21299,7 +21299,7 @@ export default [
   {
     "id": "s2peds-1493",
     "category": "Pediatric neurology",
-    "q": "What Lyme/Bell's-palsy vignette and next step does p104 give?",
+    "q": "What Lyme/Bell's-palsy vignette and next step does the source give?",
     "a": "A target rash plus Bell's palsy is high yield for pediatric Lyme disease; if asked for the next best step, do Lyme serology.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21314,7 +21314,7 @@ export default [
   {
     "id": "s2peds-1494",
     "category": "Pediatric neurology",
-    "q": "When does p104 say no further Bell's-palsy studies are indicated?",
+    "q": "When does the source say no further Bell's-palsy studies are indicated?",
     "a": "If Lyme serology is not listed or the patient does not live in an endemic area, the source says choose 'no further diagnostic studies indicated'; it gives Africa as its nonendemic example and calls Bell's palsy a clinical diagnosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21329,7 +21329,7 @@ export default [
   {
     "id": "s2peds-1495",
     "category": "Pediatric neurology",
-    "q": "Why does p104 say nerve conduction studies are the wrong Bell's-palsy answer?",
+    "q": "Why does the source say nerve conduction studies are the wrong Bell's-palsy answer?",
     "a": "The source says Bell's palsy is a clinical diagnosis, so nerve conduction studies are wrong on NBME.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21344,7 +21344,7 @@ export default [
   {
     "id": "s2peds-1496",
     "category": "Pediatric neurology",
-    "q": "What Bell's-palsy steroid regimen does p104 give?",
+    "q": "What Bell's-palsy steroid regimen does the source give?",
     "a": "IV steroids followed by a 10-21-day taper of oral steroids to minimize the immune response.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21359,7 +21359,7 @@ export default [
   {
     "id": "s2peds-1497",
     "category": "Pediatric neurology",
-    "q": "What does p104 say PANDAS stands for?",
+    "q": "What does the source say PANDAS stands for?",
     "a": "Pediatric Autoimmune Neuropsychiatric disorder Associated with Streptococci.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21374,7 +21374,7 @@ export default [
   {
     "id": "s2peds-1498",
     "category": "Pediatric neurology",
-    "q": "What rare post-streptococcal neuropsychiatric outcomes does p104 list for PANDAS?",
+    "q": "What rare post-streptococcal neuropsychiatric outcomes does the source list for PANDAS?",
     "a": "A tic disorder, OCD or ADHD in the weeks after Group A strep pharyngitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21389,7 +21389,7 @@ export default [
   {
     "id": "s2peds-1499",
     "category": "Pediatric neurology",
-    "q": "What PANDAS vignette answer does p104 give for sore throat two weeks ago plus new tic, ADHD or OCD?",
+    "q": "What PANDAS vignette answer does the source give for sore throat two weeks ago plus new tic, ADHD or OCD?",
     "a": "The source says the likely diagnostic etiology answer is anti-streptolysin O titers.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21404,7 +21404,7 @@ export default [
   {
     "id": "s2peds-1500",
     "category": "Pediatric neurology",
-    "q": "How does p104 define Sydenham chorea?",
+    "q": "How does the source define Sydenham chorea?",
     "a": "An autoimmune movement disorder seen as part of rheumatic fever; chorea means fast, purposeless, jerky movements.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21419,7 +21419,7 @@ export default [
   {
     "id": "s2peds-1501",
     "category": "Pediatric neurology",
-    "q": "What movement-disorder cause does p104 expect in a rheumatic-fever vignette?",
+    "q": "What movement-disorder cause does the source expect in a rheumatic-fever vignette?",
     "a": "Autoimmune. The source also points readers to its HY Cardio PDF for rheumatic heart disease details.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21434,7 +21434,7 @@ export default [
   {
     "id": "s2peds-1502",
     "category": "Pediatric neuro-oncology",
-    "q": "Which tumor does p105 call the most common brain tumor in kids?",
+    "q": "Which tumor does the source call the most common brain tumor in kids?",
     "a": "Pilocytic astrocytoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21449,7 +21449,7 @@ export default [
   {
     "id": "s2peds-1503",
     "category": "Pediatric neuro-oncology",
-    "q": "How does p105 describe pilocytic astrocytoma on imaging?",
+    "q": "How does the source describe pilocytic astrocytoma on imaging?",
     "a": "It has solid (white) and cystic (black) components on imaging.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21464,7 +21464,7 @@ export default [
   {
     "id": "s2peds-1504",
     "category": "Pediatric neuro-oncology",
-    "q": "What biologic behavior does p105 assign to pilocytic astrocytoma?",
+    "q": "What biologic behavior does the source assign to pilocytic astrocytoma?",
     "a": "Not aggressive.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21479,7 +21479,7 @@ export default [
   {
     "id": "s2peds-1505",
     "category": "Pediatric neuro-oncology",
-    "q": "How does p105 characterize medulloblastoma?",
+    "q": "How does the source characterize medulloblastoma?",
     "a": "An aggressive brain tumor of the cerebellum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21494,7 +21494,7 @@ export default [
   {
     "id": "s2peds-1506",
     "category": "Pediatric neuro-oncology",
-    "q": "How does p105 map medulloblastoma location to ataxia?",
+    "q": "How does the source map medulloblastoma location to ataxia?",
     "a": "A vermis tumor can cause truncal ataxia; a lateral tumor can cause ipsilateral limb ataxia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21509,7 +21509,7 @@ export default [
   {
     "id": "s2peds-1507",
     "category": "Pediatric neuro-oncology",
-    "q": "What ranking does p105 give craniopharyngioma in children and teenagers?",
+    "q": "What ranking does the source give craniopharyngioma in children and teenagers?",
     "a": "The source calls it the most common pituitary tumor in children and teenagers.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21524,7 +21524,7 @@ export default [
   {
     "id": "s2peds-1508",
     "category": "Pediatric neuro-oncology",
-    "q": "Which visual-field finding does p105 associate with craniopharyngioma and other pituitary lesions?",
+    "q": "Which visual-field finding does the source associate with craniopharyngioma and other pituitary lesions?",
     "a": "Bitemporal hemianopsia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21539,7 +21539,7 @@ export default [
   {
     "id": "s2peds-1509",
     "category": "Pediatric neuro-oncology",
-    "q": "What embryologic origin does p105 give for craniopharyngioma?",
+    "q": "What embryologic origin does the source give for craniopharyngioma?",
     "a": "It originates from the roof of the primitive oropharynx, also phrased as the roof of the primitive oral cavity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21554,7 +21554,7 @@ export default [
   {
     "id": "s2peds-1510",
     "category": "Pediatric neuro-oncology",
-    "q": "Which classic content and behavior does p105 give for craniopharyngioma?",
+    "q": "Which classic content and behavior does the source give for craniopharyngioma?",
     "a": "It can calcify, contain cholesterol crystals and recur at a high rate.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21569,7 +21569,7 @@ export default [
   {
     "id": "s2peds-1511",
     "category": "Pediatric embryology",
-    "q": "Which different embryologic origin does p105 warn not to confuse with craniopharyngioma?",
+    "q": "Which different embryologic origin does the source warn not to confuse with craniopharyngioma?",
     "a": "Endoderm of the foramen cecum refers to a thyroglossal duct cyst.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21584,7 +21584,7 @@ export default [
   {
     "id": "s2peds-1512",
     "category": "Pediatric neuro-oncology",
-    "q": "What pediatric syndrome does p105 associate with a pinealoma?",
+    "q": "What pediatric syndrome does the source associate with a pinealoma?",
     "a": "Vertical gaze palsy, called Parinaud syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21599,7 +21599,7 @@ export default [
   {
     "id": "s2peds-1513",
     "category": "Pediatric neurology",
-    "q": "What are the tubers in tuberous sclerosis, according to p105?",
+    "q": "What are the tubers in tuberous sclerosis, according to the source?",
     "a": "Hamartomas, described as periventricular or cortical nodules on imaging.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21614,7 +21614,7 @@ export default [
   {
     "id": "s2peds-1514",
     "category": "Neural tube defects",
-    "q": "Which p105 spina bifida type matches each source-image label?",
+    "q": "Which source spina bifida type matches each source-image label?",
     "a": "The image contrasts normal and open vertebrae, then shows spina bifida occulta, meningocele and meningomyelocele.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21631,7 +21631,7 @@ export default [
   {
     "id": "s2peds-1515",
     "category": "Neural tube defects",
-    "q": "How does the p105 figure depict spina bifida occulta?",
+    "q": "How does the source figure depict spina bifida occulta?",
     "a": "A vertebral body open posteriorly with a hair tuft, without herniation of meninges or cord.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21646,7 +21646,7 @@ export default [
   {
     "id": "s2peds-1516",
     "category": "Neural tube defects",
-    "q": "What herniates in the p105 meningocele drawing?",
+    "q": "What herniates in the source meningocele drawing?",
     "a": "Just the meninges.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21661,7 +21661,7 @@ export default [
   {
     "id": "s2peds-1517",
     "category": "Neural tube defects",
-    "q": "What herniates in the p105 meningomyelocele drawing?",
+    "q": "What herniates in the source meningomyelocele drawing?",
     "a": "Meninges plus spinal cord.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21676,7 +21676,7 @@ export default [
   {
     "id": "s2peds-1518",
     "category": "Neural tube defects",
-    "q": "When does p105 say neural tube defects occur?",
+    "q": "When does the source say neural tube defects occur?",
     "a": "Between 3 and 4 weeks gestation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21691,7 +21691,7 @@ export default [
   {
     "id": "s2peds-1519",
     "category": "Neural tube defects",
-    "q": "Which prevention point does p105 give for spina bifida?",
+    "q": "Which prevention point does the source give for spina bifida?",
     "a": "Adequate folic acid, vitamin B9, before and during early pregnancy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21706,7 +21706,7 @@ export default [
   {
     "id": "s2peds-1520",
     "category": "Neural tube defects",
-    "q": "Which antiseizure medicines does p105 associate with neural tube defects?",
+    "q": "Which antiseizure medicines does the source associate with neural tube defects?",
     "a": "Particularly valproic acid, but also phenytoin and carbamazepine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21721,7 +21721,7 @@ export default [
   {
     "id": "s2peds-1521",
     "category": "Neural tube defects",
-    "q": "Which markers does p105 say neural tube defects increase?",
+    "q": "Which markers does the source say neural tube defects increase?",
     "a": "AFP and acetylcholinesterase in CSF.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21736,7 +21736,7 @@ export default [
   {
     "id": "s2peds-1522",
     "category": "Pediatric neuromuscular",
-    "q": "What p106 condition is also called Werdnig-Hoffman syndrome?",
+    "q": "What source condition is also called Werdnig-Hoffman syndrome?",
     "a": "Spinal muscular atrophy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21751,7 +21751,7 @@ export default [
   {
     "id": "s2peds-1523",
     "category": "Pediatric neuromuscular",
-    "q": "Which cells does p106 say spinal muscular atrophy affects?",
+    "q": "Which cells does the source say spinal muscular atrophy affects?",
     "a": "Anterior horn cells.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21766,7 +21766,7 @@ export default [
   {
     "id": "s2peds-1524",
     "category": "Pediatric neuromuscular",
-    "q": "What is the p106 spinal-muscular-atrophy examination triad?",
+    "q": "What is the source spinal-muscular-atrophy examination triad?",
     "a": "Profound hypotonia, absent reflexes and tongue fasciculations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21781,7 +21781,7 @@ export default [
   {
     "id": "s2peds-1525",
     "category": "Cerebral palsy",
-    "q": "How does p106 summarize the cause of cerebral palsy?",
+    "q": "How does the source summarize the cause of cerebral palsy?",
     "a": "Motor dysfunction and intellectual disability of varying severity, attributed by the source to intrapartum conditions such as hypoxia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21796,7 +21796,7 @@ export default [
   {
     "id": "s2peds-1526",
     "category": "Cerebral palsy",
-    "q": "Which p106 cerebral-palsy finding is the classic USMLE presentation?",
+    "q": "Which source cerebral-palsy finding is the classic USMLE presentation?",
     "a": "Spastic paraparesis in a child with scissoring of the legs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21811,7 +21811,7 @@ export default [
   {
     "id": "s2peds-1527",
     "category": "Chiari malformations",
-    "q": "What is the p106 anatomy of Chiari 1 malformation?",
+    "q": "What is the source anatomy of Chiari 1 malformation?",
     "a": "Downward displacement of the cerebellar tonsils into the foramen magnum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21826,7 +21826,7 @@ export default [
   {
     "id": "s2peds-1528",
     "category": "Chiari malformations",
-    "q": "Who usually presents with Chiari 1 on p106, and with what symptoms?",
+    "q": "Who usually presents with Chiari 1 in the source, and with what symptoms?",
     "a": "Usually a teenager or young adult with headache and neck pain, though it can be asymptomatic.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21841,7 +21841,7 @@ export default [
   {
     "id": "s2peds-1529",
     "category": "Chiari malformations",
-    "q": "What herniates in p106 Chiari 2 malformation, and what is its classic association?",
+    "q": "What herniates in the source Chiari 2 malformation, and what is its classic association?",
     "a": "Cerebellum and brainstem through the foramen magnum, commonly associated with meningomyelocele.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21856,7 +21856,7 @@ export default [
   {
     "id": "s2peds-1530",
     "category": "Chiari malformations",
-    "q": "How does p106 present Chiari 2 in a child?",
+    "q": "How does the source present Chiari 2 in a child?",
     "a": "With dysphagia and motor dysfunction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21871,7 +21871,7 @@ export default [
   {
     "id": "s2peds-1531",
     "category": "Posterior fossa malformations",
-    "q": "What is the p106 Dandy-Walker combination?",
+    "q": "What is the source Dandy-Walker combination?",
     "a": "Absent cerebellar vermis plus cystic dilation of the fourth ventricle.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21886,7 +21886,7 @@ export default [
   {
     "id": "s2peds-1532",
     "category": "Fetal alcohol spectrum",
-    "q": "What developmental label does p106 attach to fetal alcohol syndrome?",
+    "q": "What developmental label does the source attach to fetal alcohol syndrome?",
     "a": "The source calls it the most common cause of mental retardation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21901,7 +21901,7 @@ export default [
   {
     "id": "s2peds-1533",
     "category": "Fetal alcohol spectrum",
-    "q": "Which organ defects and mechanism does p106 list for fetal alcohol syndrome?",
+    "q": "Which organ defects and mechanism does the source list for fetal alcohol syndrome?",
     "a": "Heart and lung defects, which it attributes to defective neural crest migration.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21916,7 +21916,7 @@ export default [
   {
     "id": "s2peds-1534",
     "category": "Fetal alcohol spectrum",
-    "q": "Which facial features does p106 give for fetal alcohol syndrome?",
+    "q": "Which facial features does the source give for fetal alcohol syndrome?",
     "a": "A smooth, flat and/or elongated philtrum; thin vermilion border or thin upper lip; widely spaced eyes; midface hypoplasia; and a short nose.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21931,7 +21931,7 @@ export default [
   {
     "id": "s2peds-1535",
     "category": "Inborn errors of metabolism",
-    "q": "What is the p106 biochemical basis of phenylketonuria?",
+    "q": "What is the source biochemical basis of phenylketonuria?",
     "a": "Autosomal-recessive phenylalanine-hydroxylase deficiency, or rarely deficiency of the THB cofactor, causing failure to convert phenylalanine to tyrosine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21946,7 +21946,7 @@ export default [
   {
     "id": "s2peds-1536",
     "category": "Inborn errors of metabolism",
-    "q": "How does p106 say PKU is detected and treated?",
+    "q": "How does the source say PKU is detected and treated?",
     "a": "By the newborn heel-prick test, followed by a phenylalanine-deficient diet to prevent the source's labeled outcome of mental retardation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21961,7 +21961,7 @@ export default [
   {
     "id": "s2peds-1537",
     "category": "Inborn errors of metabolism",
-    "q": "Which clinical clues does p106 give for untreated PKU, and how does it explain lighter skin?",
+    "q": "Which clinical clues does the source give for untreated PKU, and how does it explain lighter skin?",
     "a": "A mousy or musty body odor and lighter skin than siblings from partial albinism because tyrosine is normally converted into melanin but cannot be synthesized.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21976,7 +21976,7 @@ export default [
   {
     "id": "s2peds-1538",
     "category": "Inborn errors of metabolism",
-    "q": "Which enzyme and amino acids define p106 maple syrup urine disease?",
+    "q": "Which enzyme and amino acids define the source maple syrup urine disease?",
     "a": "Autosomal-recessive branched-chain ketoacid-dehydrogenase deficiency causes inability to break down leucine, isoleucine and valine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -21991,7 +21991,7 @@ export default [
   {
     "id": "s2peds-1539",
     "category": "Inborn errors of metabolism",
-    "q": "What odor and untreated outcomes does p106 give for maple syrup urine disease?",
+    "q": "What odor and untreated outcomes does the source give for maple syrup urine disease?",
     "a": "Maple-syrup-scented diapers from urine, with the source's labeled outcome of mental retardation and neurologic abnormalities if untreated.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22006,7 +22006,7 @@ export default [
   {
     "id": "s2peds-1540",
     "category": "Congenital hypothyroidism",
-    "q": "What is p106 cretinism, and which common causes does it contrast?",
+    "q": "What is the source cretinism, and which common causes does it contrast?",
     "a": "Congenital hypothyroidism, most commonly from maternal iodine deficiency worldwide or fetal thyroid dysgenesis in western countries.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22021,7 +22021,7 @@ export default [
   {
     "id": "s2peds-1541",
     "category": "Congenital hypothyroidism",
-    "q": "Which p106 manifestations identify congenital hypothyroidism, and what is the kwashiorkor contrast?",
+    "q": "Which source manifestations identify congenital hypothyroidism, and what is the kwashiorkor contrast?",
     "a": "The source labels mental retardation from poor myelin development, impaired bone growth, hypotonia, macroglossia and a protuberant abdomen from umbilical hernia; kwashiorkor causes a protuberant abdomen from protein-calorie malnutrition with ascites.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22036,7 +22036,7 @@ export default [
   {
     "id": "s2peds-1542",
     "category": "Congenital hypothyroidism",
-    "q": "How does p106 say congenital hypothyroidism is screened for?",
+    "q": "How does the source say congenital hypothyroidism is screened for?",
     "a": "By newborn heel-prick testing to prevent worsening disease.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22051,7 +22051,7 @@ export default [
   {
     "id": "s2peds-1543",
     "category": "Neurocutaneous and hearing syndromes",
-    "q": "Which findings and mechanism does p106 give for Waardenburg syndrome?",
+    "q": "Which findings and mechanism does the source give for Waardenburg syndrome?",
     "a": "Congenital sensorineural hearing loss, pigmentary changes of hair and skin, a white forelock, and failure of neural crest migration.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22066,7 +22066,7 @@ export default [
   {
     "id": "s2peds-1544",
     "category": "Cortical migration disorders",
-    "q": "What is p106 double cortex syndrome and its exam mechanism?",
+    "q": "What is the source double cortex syndrome and its exam mechanism?",
     "a": "A genetic condition in which neurons fail to migrate outward to the cortex, producing two gray-matter layers instead of one; the exam mechanism is failure of radial migration.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22081,7 +22081,7 @@ export default [
   {
     "id": "s2peds-1545",
     "category": "Rett syndrome",
-    "q": "Which sex pattern does p106 attach to Rett syndrome?",
+    "q": "Which sex pattern does the source attach to Rett syndrome?",
     "a": "Neurologic degeneration occurring exclusively in female infants.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22096,7 +22096,7 @@ export default [
   {
     "id": "s2peds-1546",
     "category": "Rett syndrome",
-    "q": "Which regression and movement findings does p106 give for Rett syndrome?",
+    "q": "Which regression and movement findings does the source give for Rett syndrome?",
     "a": "Hand-wringing or hand-flapping, and mental regression that the source says can present as putting objects in the mouth.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22111,7 +22111,7 @@ export default [
   {
     "id": "s2peds-1547",
     "category": "Chromosomal deletion syndromes",
-    "q": "Which deletion and infant clue identify p106 cri-du-chat syndrome?",
+    "q": "Which deletion and infant clue identify the source cri-du-chat syndrome?",
     "a": "Deletion on the short arm of chromosome 5 and a distinctive cat-like cry.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22126,7 +22126,7 @@ export default [
   {
     "id": "s2peds-1548",
     "category": "Chromosomal deletion syndromes",
-    "q": "Which developmental findings does p106 list after the cri-du-chat cry?",
+    "q": "Which developmental findings does the source list after the cri-du-chat cry?",
     "a": "The source labels mental retardation plus distinctive facial features and microcephaly.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22141,7 +22141,7 @@ export default [
   {
     "id": "s2peds-1549",
     "category": "Ataxias",
-    "q": "What genetics does p106 give for Friedreich ataxia?",
+    "q": "What genetics does the source give for Friedreich ataxia?",
     "a": "An autosomal-recessive GAA trinucleotide-repeat disorder.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22156,7 +22156,7 @@ export default [
   {
     "id": "s2peds-1550",
     "category": "Ataxias",
-    "q": "Which manifestations does p107 continue for Friedreich ataxia?",
+    "q": "Which manifestations does the source continue for Friedreich ataxia?",
     "a": "Ataxia, kyphoscoliosis, cardiomyopathy, pes cavus, hammer toes and early-onset type II diabetes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22171,7 +22171,7 @@ export default [
   {
     "id": "s2peds-1551",
     "category": "Imprinting disorders",
-    "q": "What is the p107 Angelman syndrome behavioral vignette?",
+    "q": "What is the source Angelman syndrome behavioral vignette?",
     "a": "A happy-puppet presentation, meaning a child with prominent laughter.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22186,7 +22186,7 @@ export default [
   {
     "id": "s2peds-1552",
     "category": "Imprinting disorders",
-    "q": "How does p107 explain Angelman syndrome by imprinting?",
+    "q": "How does the source explain Angelman syndrome by imprinting?",
     "a": "The paternal gene is normally silenced; the maternal gene should be expressed but is deleted or mutated, so mom is not an angel because mom's gene is deleted.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22201,7 +22201,7 @@ export default [
   {
     "id": "s2peds-1553",
     "category": "Imprinting disorders",
-    "q": "How can paternal uniparental disomy cause Angelman syndrome in p107's mechanism?",
+    "q": "How can paternal uniparental disomy cause Angelman syndrome in the source's mechanism?",
     "a": "If both chromosome 15 alleles come from dad, both are silenced because that region is normally paternally imprinted; no maternal allele remains to be expressed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22216,7 +22216,7 @@ export default [
   {
     "id": "s2peds-1554",
     "category": "Imprinting disorders",
-    "q": "Which clinical pair does p107 give for Prader-Willi syndrome?",
+    "q": "Which clinical pair does the source give for Prader-Willi syndrome?",
     "a": "The source labels mental retardation plus hyperphagia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22231,7 +22231,7 @@ export default [
   {
     "id": "s2peds-1555",
     "category": "Imprinting disorders",
-    "q": "How does p107 explain Prader-Willi syndrome by imprinting?",
+    "q": "How does the source explain Prader-Willi syndrome by imprinting?",
     "a": "The maternal gene is normally silenced; the paternal gene should be expressed but is deleted or mutated, so Willi hates his dad because dad's gene is deleted.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22246,7 +22246,7 @@ export default [
   {
     "id": "s2peds-1556",
     "category": "Imprinting disorders",
-    "q": "How can maternal uniparental disomy cause Prader-Willi syndrome in p107's mechanism?",
+    "q": "How can maternal uniparental disomy cause Prader-Willi syndrome in the source's mechanism?",
     "a": "If both chromosome 15 alleles come from mom, both are silenced because that region is normally maternally imprinted; no paternal allele remains to be expressed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22261,7 +22261,7 @@ export default [
   {
     "id": "s2peds-1557",
     "category": "Pediatric meningitis",
-    "q": "What is the p107 meningitis presentation?",
+    "q": "What is the source meningitis presentation?",
     "a": "High fever plus a stiff neck and photophobia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22276,7 +22276,7 @@ export default [
   {
     "id": "s2peds-1558",
     "category": "Pediatric meningitis",
-    "q": "Which neonatal organism and CSF pattern does p107 give for bacterial meningitis?",
+    "q": "Which neonatal organism and CSF pattern does the source give for bacterial meningitis?",
     "a": "Usually group B Streptococcus in neonates, with elevated protein, low glucose and increased neutrophils.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22291,7 +22291,7 @@ export default [
   {
     "id": "s2peds-1559",
     "category": "Pediatric meningitis",
-    "q": "Which fungal meningitis organism and CSF pattern does p107 give?",
+    "q": "Which fungal meningitis organism and CSF pattern does the source give?",
     "a": "Cryptococcus neoformans in an immunocompromised patient such as a child with HIV, with elevated protein, low glucose and increased lymphocytes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22306,7 +22306,7 @@ export default [
   {
     "id": "s2peds-1560",
     "category": "Pediatric meningitis",
-    "q": "Which viral meningitis causes and CSF pattern does p107 give?",
+    "q": "Which viral meningitis causes and CSF pattern does the source give?",
     "a": "Aseptic meningitis, commonly echovirus if vaccinated or mumps if unvaccinated, with normal or slightly elevated protein, normal glucose and increased lymphocytes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22321,7 +22321,7 @@ export default [
   {
     "id": "s2peds-1561",
     "category": "Pediatric encephalitis",
-    "q": "How does p107 distinguish encephalitis and its neonatal HSV route?",
+    "q": "How does the source distinguish encephalitis and its neonatal HSV route?",
     "a": "Encephalitis presents as high fever plus confusion, and herpes encephalitis can follow vertical transmission.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22336,7 +22336,7 @@ export default [
   {
     "id": "s2peds-1562",
     "category": "Pediatric encephalitis",
-    "q": "Why can p107 HSV encephalitis produce RBCs in CSF?",
+    "q": "Why can the source HSV encephalitis produce RBCs in CSF?",
     "a": "Temporal-lobe hemorrhage.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22351,7 +22351,7 @@ export default [
   {
     "id": "s2peds-1563",
     "category": "Pediatric encephalitis",
-    "q": "How do p107 CT, EEG and CSF findings support HSV encephalitis?",
+    "q": "How do the source CT, EEG and CSF findings support HSV encephalitis?",
     "a": "Non-contrast CT is often negative; EEG can show temporal spikes; other CSF findings match viral meningitis; and even if RBCs are absent, viral CSF without another listed virus can still make HSV the answer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22366,7 +22366,7 @@ export default [
   {
     "id": "s2peds-1564",
     "category": "Meningitis management",
-    "q": "What sequence does p107 require for lumbar puncture and antibiotics?",
+    "q": "What sequence does the source require for lumbar puncture and antibiotics?",
     "a": "Do the lumbar puncture before antibiotics because antibiotics first can interfere with culture results.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22381,7 +22381,7 @@ export default [
   {
     "id": "s2peds-1565",
     "category": "Meningitis management",
-    "q": "Which four p107 indications call for CT before LP?",
+    "q": "Which four the source indications call for CT before LP?",
     "a": "Focal neurologic signs, seizure, papilledema or optic fundi that cannot be visualized, and confusion that interferes with the neurologic exam or reduced Glasgow score.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22396,7 +22396,7 @@ export default [
   {
     "id": "s2peds-1566",
     "category": "Meningitis management",
-    "q": "Why does p107 say to obtain CT before LP in the listed scenarios?",
+    "q": "Why does the source say to obtain CT before LP in the listed scenarios?",
     "a": "An intracranial mass lesion can make LP acutely lower intracranial pressure and trigger herniation and death.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22411,7 +22411,7 @@ export default [
   {
     "id": "s2peds-1567",
     "category": "Meningitis management",
-    "q": "Which p107 NBME point makes students choose the wrong next step?",
+    "q": "Which source NBME point makes students choose the wrong next step?",
     "a": "Papilledema or inability to visualize the optic fundi means CT, not LP.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22426,7 +22426,7 @@ export default [
   {
     "id": "s2peds-1568",
     "category": "Meningitis management",
-    "q": "What empiric pediatric meningitis regimen does p107 give?",
+    "q": "What empiric pediatric meningitis regimen does the source give?",
     "a": "Cefotaxime plus vancomycin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22441,7 +22441,7 @@ export default [
   {
     "id": "s2peds-1569",
     "category": "Meningitis management",
-    "q": "When does p107 say to add steroids in bacterial meningitis?",
+    "q": "When does the source say to add steroids in bacterial meningitis?",
     "a": "Steroids can be added if pneumococcus is confirmed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22456,7 +22456,7 @@ export default [
   {
     "id": "s2peds-1570",
     "category": "Meningitis management",
-    "q": "Which group B Streptococcus regimens does p107 offer?",
+    "q": "Which group B Streptococcus regimens does the source offer?",
     "a": "Ampicillin plus gentamicin, or ampicillin plus cefotaxime.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22471,7 +22471,7 @@ export default [
   {
     "id": "s2peds-1571",
     "category": "Meningitis management",
-    "q": "Which GBS answer does p107 say beats the wrong NBME combination?",
+    "q": "Which GBS answer does the source say beats the wrong NBME combination?",
     "a": "Ampicillin plus gentamicin is correct over vancomycin plus ceftriaxone for GBS.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22486,7 +22486,7 @@ export default [
   {
     "id": "s2peds-1572",
     "category": "Neonatal antibiotics",
-    "q": "Which third-generation cephalosporin does p108 prefer in the first month of life?",
+    "q": "Which third-generation cephalosporin does the source prefer in the first month of life?",
     "a": "Cefotaxime. The exact transition age matters less than choosing cefotaxime when a pediatric question offers both cefotaxime and ceftriaxone.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22501,7 +22501,7 @@ export default [
   {
     "id": "s2peds-1573",
     "category": "Neonatal antibiotics",
-    "q": "Why does p108 avoid ceftriaxone compared with cefotaxime in neonates?",
+    "q": "Why does the source avoid ceftriaxone compared with cefotaxime in neonates?",
     "a": "Ceftriaxone displaces bilirubin from albumin, increasing neonatal hyperbilirubinemia risk, and can cause calcium deposits in the lungs and kidney.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22516,7 +22516,7 @@ export default [
   {
     "id": "s2peds-1574",
     "category": "Toxin-induced neuropathies",
-    "q": "Which paralysis pattern does p108 give for botulism?",
+    "q": "Which paralysis pattern does the source give for botulism?",
     "a": "Flaccid paralysis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22531,7 +22531,7 @@ export default [
   {
     "id": "s2peds-1575",
     "category": "Toxin-induced neuropathies",
-    "q": "How does p108 botulinum toxin cause botulism?",
+    "q": "How does the source botulinum toxin cause botulism?",
     "a": "Clostridium botulinum toxin inhibits release of presynaptic acetylcholine, which normally stimulates muscles.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22546,7 +22546,7 @@ export default [
   {
     "id": "s2peds-1576",
     "category": "Toxin-induced neuropathies",
-    "q": "How can p108 infant botulism present?",
+    "q": "How can the source infant botulism present?",
     "a": "Floppy baby syndrome, and it can also cause cranial nerve palsies.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22561,7 +22561,7 @@ export default [
   {
     "id": "s2peds-1577",
     "category": "Toxin-induced neuropathies",
-    "q": "Which acquisition routes does p108 contrast for botulism?",
+    "q": "Which acquisition routes does the source contrast for botulism?",
     "a": "Spores in honey for infants under 1 year, versus preformed toxin from canned goods in anyone older.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22576,7 +22576,7 @@ export default [
   {
     "id": "s2peds-1578",
     "category": "Toxin-induced neuropathies",
-    "q": "Which paralysis pattern does p108 give for tetanus?",
+    "q": "Which paralysis pattern does the source give for tetanus?",
     "a": "Spastic paralysis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22591,7 +22591,7 @@ export default [
   {
     "id": "s2peds-1579",
     "category": "Toxin-induced neuropathies",
-    "q": "How does p108 tetanus toxin cause tetanus?",
+    "q": "How does the source tetanus toxin cause tetanus?",
     "a": "Clostridium tetani toxin inhibits release of presynaptic GABA and glycine, which are normally inhibitory neurotransmitters.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22606,7 +22606,7 @@ export default [
   {
     "id": "s2peds-1580",
     "category": "Toxin-induced neuropathies",
-    "q": "Which tetanus manifestations does p108 give?",
+    "q": "Which tetanus manifestations does the source give?",
     "a": "Opisthotonos, meaning an arched back, and trismus, meaning lockjaw.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22621,7 +22621,7 @@ export default [
   {
     "id": "s2peds-1581",
     "category": "Toxin-induced neuropathies",
-    "q": "Which two p108 USMLE patients should suggest tetanus?",
+    "q": "Which two the source USMLE patients should suggest tetanus?",
     "a": "A home-born neonate whose umbilical cord was cut with a kitchen knife and tied with twine, or a person who cut himself in the backyard.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22636,7 +22636,7 @@ export default [
   {
     "id": "s2peds-1582",
     "category": "Tetanus prevention",
-    "q": "What DtaP schedule does p108 list?",
+    "q": "What DtaP schedule does the source list?",
     "a": "2, 4 and 6 months, then 15-18 months, then 4-6 years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22651,7 +22651,7 @@ export default [
   {
     "id": "s2peds-1583",
     "category": "Tetanus prevention",
-    "q": "What later tetanus boosters does p108 list?",
+    "q": "What later tetanus boosters does the source list?",
     "a": "Tdap at 11-12 years, followed by a Td booster every 10 years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22666,7 +22666,7 @@ export default [
   {
     "id": "s2peds-1584",
     "category": "Hearing tests",
-    "q": "How is the p108 Rinne test performed?",
+    "q": "How is the source Rinne test performed?",
     "a": "Place a vibrating tuning fork on the mastoid bone for bone conduction; when the patient can no longer hear it, move it in front of the ear canal for air conduction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22681,7 +22681,7 @@ export default [
   {
     "id": "s2peds-1585",
     "category": "Hearing tests",
-    "q": "How does p108 interpret the Rinne test?",
+    "q": "How does the source interpret the Rinne test?",
     "a": "Air conduction exceeds bone conduction in normal hearing and sensorineural loss; bone conduction exceeds air conduction in conductive loss.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22696,7 +22696,7 @@ export default [
   {
     "id": "s2peds-1586",
     "category": "Hearing tests",
-    "q": "How is the p108 Weber test performed?",
+    "q": "How is the source Weber test performed?",
     "a": "Place a vibrating tuning fork at the center of the forehead or top of the head and ask whether the sound is equal in both ears or louder in one ear.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22711,7 +22711,7 @@ export default [
   {
     "id": "s2peds-1587",
     "category": "Hearing tests",
-    "q": "What does p108 call it when Weber is louder in one ear?",
+    "q": "What does the source call it when Weber is louder in one ear?",
     "a": "Lateralization to that ear.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22726,7 +22726,7 @@ export default [
   {
     "id": "s2peds-1588",
     "category": "Hearing tests",
-    "q": "What Rinne and Weber pattern does p108 give for normal hearing?",
+    "q": "What Rinne and Weber pattern does the source give for normal hearing?",
     "a": "Rinne is air conduction greater than bone conduction, and Weber does not lateralize.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22741,7 +22741,7 @@ export default [
   {
     "id": "s2peds-1589",
     "category": "Hearing tests",
-    "q": "What p108 Rinne/Weber pattern identifies left- versus right-sided conductive hearing loss?",
+    "q": "What source Rinne/Weber pattern identifies left- versus right-sided conductive hearing loss?",
     "a": "Rinne is bone conduction greater than air conduction on the affected side; Weber lateralizes to that same side: left conductive loss lateralizes left, and right conductive loss lateralizes right.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22756,7 +22756,7 @@ export default [
   {
     "id": "s2peds-1590",
     "category": "Hearing tests",
-    "q": "What p108 Rinne/Weber pattern identifies left- versus right-sided sensorineural hearing loss?",
+    "q": "What source Rinne/Weber pattern identifies left- versus right-sided sensorineural hearing loss?",
     "a": "Rinne is air conduction greater than bone conduction; Weber lateralizes away from the affected side: left sensorineural loss lateralizes right, and right sensorineural loss lateralizes left.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22771,7 +22771,7 @@ export default [
   {
     "id": "s2peds-1591",
     "category": "Depressive disorders",
-    "q": "How many of the 9 SIGECAPS symptoms, and for how long, does p109 require for a major depressive disorder diagnosis?",
+    "q": "How many of the 9 SIGECAPS symptoms, and for how long, does the source require for a major depressive disorder diagnosis?",
     "a": "At least 5 out of 9 SIGECAPS symptoms must be present for at least a 2-week period.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22786,7 +22786,7 @@ export default [
   {
     "id": "s2peds-1592",
     "category": "Depressive disorders",
-    "q": "On p109, what do the S, I, G, and E of the MDD SIGECAPS mnemonic stand for?",
+    "q": "In the source, what do the S, I, G, and E of the MDD SIGECAPS mnemonic stand for?",
     "a": "S is sleep disturbance (insomnia or hypersomnia), I is interest loss, G is guilt or feelings of worthlessness, and E is energy loss.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22801,7 +22801,7 @@ export default [
   {
     "id": "s2peds-1593",
     "category": "Depressive disorders",
-    "q": "On p109, what do the C, A, P, and S of the MDD SIGECAPS mnemonic stand for?",
+    "q": "In the source, what do the C, A, P, and S of the MDD SIGECAPS mnemonic stand for?",
     "a": "C is concentration problems, A is appetite changes (usually weight loss, sometimes weight gain), P is psychomotor agitation (restlessness or slowed speech and movements), and S is suicidal ideation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22816,7 +22816,7 @@ export default [
   {
     "id": "s2peds-1594",
     "category": "Depressive disorders",
-    "q": "Beyond symptom count, what two additional requirements does p109 place on MDD symptoms?",
+    "q": "Beyond symptom count, what two additional requirements does the source place on MDD symptoms?",
     "a": "The symptoms must cause socio-occupational impairment and must not be attributed to a substance or another medical condition.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22831,7 +22831,7 @@ export default [
   {
     "id": "s2peds-1595",
     "category": "Depressive disorders",
-    "q": "What does p109 mean by terminal insomnia in major depression?",
+    "q": "What does the source mean by terminal insomnia in major depression?",
     "a": "The patient wakes up too early in the morning; it can be seen in MDD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22846,7 +22846,7 @@ export default [
   {
     "id": "s2peds-1596",
     "category": "Depressive disorders",
-    "q": "What treatment options does p109 list for major depressive disorder?",
+    "q": "What treatment options does the source list for major depressive disorder?",
     "a": "Drugs such as SSRIs, cognitive behavioral therapy, and occasionally electroconvulsive therapy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22861,7 +22861,7 @@ export default [
   {
     "id": "s2peds-1597",
     "category": "Depressive disorders",
-    "q": "Which medical condition does p109 flag as an important cause of low mood and apathy, including a Step 2 CK peds question about a 14-year-old?",
+    "q": "Which medical condition does the source flag as an important cause of low mood and apathy, including a Step 2 CK peds question about a 14-year-old?",
     "a": "Hypothyroidism, with Hashimoto thyroiditis given as the exam example in a 14-year-old.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22876,7 +22876,7 @@ export default [
   {
     "id": "s2peds-1598",
     "category": "Depressive disorders",
-    "q": "What severe-diagnosis example does p109 give for depression due to a medical condition?",
+    "q": "What severe-diagnosis example does the source give for depression due to a medical condition?",
     "a": "Depression can occur after severe diagnoses, for example acute lymphoblastic leukemia (ALL).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22891,7 +22891,7 @@ export default [
   {
     "id": "s2peds-1599",
     "category": "Depressive disorders",
-    "q": "What symptom pattern defines atypical depression on p109?",
+    "q": "What symptom pattern defines atypical depression in the source?",
     "a": "Hypersomnolence plus hyperphagia in a depression that is reactive or ameliorates when positive circumstances present themselves.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22906,7 +22906,7 @@ export default [
   {
     "id": "s2peds-1600",
     "category": "Depressive disorders",
-    "q": "What is mood reactivity on p109, and why does it matter diagnostically?",
+    "q": "What is mood reactivity in the source, and why does it matter diagnostically?",
     "a": "Positive events or experiences can significantly improve mood; this mood reactivity distinguishes atypical depression from other forms of depression, where mood usually stays persistently low regardless of external circumstances.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22921,7 +22921,7 @@ export default [
   {
     "id": "s2peds-1601",
     "category": "Depressive disorders",
-    "q": "How does p109 treat atypical depression, and why are MAOIs not used first-line despite high efficacy?",
+    "q": "How does the source treat atypical depression, and why are MAOIs not used first-line despite high efficacy?",
     "a": "Treatment is CBT, SSRIs, or monoamine oxidase inhibitors; MAOIs are highly efficacious but not first-line because of serotonin syndrome risk.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22936,7 +22936,7 @@ export default [
   {
     "id": "s2peds-1602",
     "category": "Dysthymia and cyclothymia",
-    "q": "How does p109 define dysthymia?",
+    "q": "How does the source define dysthymia?",
     "a": "At least 2 years of depressed mood without fulfilling MDD criteria.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22951,7 +22951,7 @@ export default [
   {
     "id": "s2peds-1603",
     "category": "Dysthymia and cyclothymia",
-    "q": "How does p109 define cyclothymia?",
+    "q": "How does the source define cyclothymia?",
     "a": "At least 2 years of oscillation between depressed mood and hypomania.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22966,7 +22966,7 @@ export default [
   {
     "id": "s2peds-1604",
     "category": "Bipolar disorder I and II",
-    "q": "What does each letter of the p109 DIGFAST mnemonic for mania and hypomania stand for?",
+    "q": "What does each letter of the source DIGFAST mnemonic for mania and hypomania stand for?",
     "a": "D is distractibility, I is impulsivity (shopping sprees, reckless driving), G is grandiosity, F is flight of ideas, A is activity increase (goal-directed, sexual, or psychomotor agitation), S is sleep deficit (decreased need for sleep), and T is talkativeness (pressured speech).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22981,7 +22981,7 @@ export default [
   {
     "id": "s2peds-1605",
     "category": "Bipolar disorder I and II",
-    "q": "How does p109 characterize a manic episode?",
+    "q": "How does the source characterize a manic episode?",
     "a": "An intensely elevated, expansive, or irritable mood with markedly impaired judgment, usually lasting longer than a week, causing socio-occupational dysfunction, sometimes causing psychotic features and requiring hospitalization, with a markedly increased risk of suicide.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -22996,7 +22996,7 @@ export default [
   {
     "id": "s2peds-1606",
     "category": "Bipolar disorder I and II",
-    "q": "How does p109 contrast hypomania with mania?",
+    "q": "How does the source contrast hypomania with mania?",
     "a": "Hypomania usually lasts longer than 4 days and does not cause socio-occupational dysfunction, psychotic features, or require hospitalization.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23011,7 +23011,7 @@ export default [
   {
     "id": "s2peds-1607",
     "category": "Bipolar disorder I and II",
-    "q": "How does p110 diagnose bipolar I disorder?",
+    "q": "How does the source diagnose bipolar I disorder?",
     "a": "The patient has at least one manic episode, with or without a depressive episode.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23026,7 +23026,7 @@ export default [
   {
     "id": "s2peds-1608",
     "category": "Bipolar disorder I and II",
-    "q": "How does p110 diagnose bipolar II disorder, and why is a major depressive episode required?",
+    "q": "How does the source diagnose bipolar II disorder, and why is a major depressive episode required?",
     "a": "At least one hypomanic episode plus at least one major depressive episode, with no lifetime full-blown manic episode; the depressive episode is required because hypomania with only past depressed mood could be cyclothymia rather than bipolar II.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23041,7 +23041,7 @@ export default [
   {
     "id": "s2peds-1609",
     "category": "Bipolar disorder I and II",
-    "q": "What does p110 give as the USMLE treatment for bipolar disorder?",
+    "q": "What does the source give as the USMLE treatment for bipolar disorder?",
     "a": "Lithium or valproic acid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23056,7 +23056,7 @@ export default [
   {
     "id": "s2peds-1610",
     "category": "Bipolar disorder I and II",
-    "q": "What adverse effects does p110 list for lithium?",
+    "q": "What adverse effects does the source list for lithium?",
     "a": "Nephrogenic diabetes insipidus, hypothyroidism, and tremor; it is also a teratogen that causes Ebstein anomaly.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23071,7 +23071,7 @@ export default [
   {
     "id": "s2peds-1611",
     "category": "Bipolar disorder I and II",
-    "q": "What adverse effects does p110 list for valproic acid, and what exam clue picks it over lithium?",
+    "q": "What adverse effects does the source list for valproic acid, and what exam clue picks it over lithium?",
     "a": "Neural tube defects (interference with folate metabolism), tremor, and hepatotoxicity; if the question gives increased LFTs plus tremor, choose valproic acid over lithium.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23086,7 +23086,7 @@ export default [
   {
     "id": "s2peds-1612",
     "category": "Psychotic disorders",
-    "q": "What four diagnostic points does p110 give for schizophrenia?",
+    "q": "What four diagnostic points does the source give for schizophrenia?",
     "a": "1) At least 6 months in duration; 2) two or more of five symptom groups; 3) socio-occupational dysfunction (impairment in school, interpersonal relationships, or self-care); 4) not attributed to a mood disorder (depression or bipolar), substance use, or another medical condition.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23101,7 +23101,7 @@ export default [
   {
     "id": "s2peds-1613",
     "category": "Psychotic disorders",
-    "q": "What five symptom groups count toward the p110 schizophrenia diagnosis?",
+    "q": "What five symptom groups count toward the source schizophrenia diagnosis?",
     "a": "Hallucinations (always auditory on USMLE; hearing voices that are not there), delusions (false beliefs, possibly bizarre such as aliens or demons), disorganized speech (often nonsensical or muffled), disorganized or catatonic behavior, and negative symptoms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23116,7 +23116,7 @@ export default [
   {
     "id": "s2peds-1614",
     "category": "Psychotic disorders",
-    "q": "How does p110 describe the negative symptoms of schizophrenia?",
+    "q": "How does the source describe the negative symptoms of schizophrenia?",
     "a": "Flattened or blunted affect, anhedonia (inability to feel pleasure), and diminished speech.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23131,7 +23131,7 @@ export default [
   {
     "id": "s2peds-1615",
     "category": "Psychotic disorders",
-    "q": "How does p110 define schizophreniform disorder?",
+    "q": "How does the source define schizophreniform disorder?",
     "a": "Same as schizophrenia but 1 to 6 months in duration.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23146,7 +23146,7 @@ export default [
   {
     "id": "s2peds-1616",
     "category": "Psychotic disorders",
-    "q": "How does p110 define brief psychotic disorder?",
+    "q": "How does the source define brief psychotic disorder?",
     "a": "Same as schizophrenia but less than 1 month in duration.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23161,7 +23161,7 @@ export default [
   {
     "id": "s2peds-1617",
     "category": "Commonly confused conditions",
-    "q": "How does p110 define schizoaffective disorder, including its vignette example?",
+    "q": "How does the source define schizoaffective disorder, including its vignette example?",
     "a": "At least two weeks of psychosis without a mood disorder (neither depression nor mania/hypomania), followed by periods of simultaneous psychotic and mood disorder; for example, a student hearing voices for 6 weeks who has been staying up all night for the past month (4 weeks of mania or hypomania plus at least 2 weeks of psychosis alone).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23176,7 +23176,7 @@ export default [
   {
     "id": "s2peds-1618",
     "category": "Commonly confused conditions",
-    "q": "What p110 mnemonic separates schizoaffective disorder's baseline from its spikes?",
+    "q": "What source mnemonic separates schizoaffective disorder's baseline from its spikes?",
     "a": "The name starts with \"schizo,\" so psychosis is the baseline disorder; the mood disorder then spikes on top of it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23191,7 +23191,7 @@ export default [
   {
     "id": "s2peds-1619",
     "category": "Commonly confused conditions",
-    "q": "How does p110 describe depression with psychotic features compared with schizoaffective disorder?",
+    "q": "How does the source describe depression with psychotic features compared with schizoaffective disorder?",
     "a": "Depression, rather than psychosis, is the baseline: the patient has periods of major depression without any psychosis, and the psychosis periodically spikes on top of the depression.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23206,7 +23206,7 @@ export default [
   {
     "id": "s2peds-1620",
     "category": "Commonly confused conditions",
-    "q": "How does p110 describe bipolar disorder with psychotic features?",
+    "q": "How does the source describe bipolar disorder with psychotic features?",
     "a": "Bipolar is the baseline, with periods of depression or mania alone followed by psychosis spiking on top; mania alone followed by simultaneous psychosis makes the diagnosis easier, while depression followed by psychosis can mimic depression with psychotic features except the patient also has a history of at least one manic episode.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23221,7 +23221,7 @@ export default [
   {
     "id": "s2peds-1621",
     "category": "Commonly confused conditions",
-    "q": "What baseline and spike pattern does the actual p111 diagram show for schizoaffective disorder, depression with psychotic features, and bipolar with psychotic features?",
+    "q": "What baseline and spike pattern does the actual the source diagram show for schizoaffective disorder, depression with psychotic features, and bipolar with psychotic features?",
     "a": "Schizoaffective has a baseline of psychosis with spikes of mania or depression; depression with psychotic features has a baseline of depression with spikes of psychosis; bipolar with psychotic features has a baseline of bipolar (periods of depression or mania) with spikes of psychosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23238,7 +23238,7 @@ export default [
   {
     "id": "s2peds-1622",
     "category": "Delusion disorder",
-    "q": "How does p111 define delusion disorder?",
+    "q": "How does the source define delusion disorder?",
     "a": "One or more non-bizarre delusions without other signs of psychosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23253,7 +23253,7 @@ export default [
   {
     "id": "s2peds-1623",
     "category": "Delusion disorder",
-    "q": "How does p111 contrast non-bizarre with bizarre delusions?",
+    "q": "How does the source contrast non-bizarre with bizarre delusions?",
     "a": "Non-bizarre means potentially plausible scenarios that are not true, such as people at school stealing from or trying to undermine you; bizarre on USMLE is anything involving aliens, demons, the heavens, or the lord.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23268,7 +23268,7 @@ export default [
   {
     "id": "s2peds-1624",
     "category": "Delusion disorder",
-    "q": "How does p111 describe the person's behavior and thinking in delusion disorder, apart from the delusion itself?",
+    "q": "How does the source describe the person's behavior and thinking in delusion disorder, apart from the delusion itself?",
     "a": "The person's behavior and thinking, apart from the delusion itself, tend to be normal.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23283,7 +23283,7 @@ export default [
   {
     "id": "s2peds-1625",
     "category": "Delusion disorder",
-    "q": "What treatment options does p111 list for delusion disorder?",
+    "q": "What treatment options does the source list for delusion disorder?",
     "a": "CBT, anti-psychotics (e.g., risperidone), mood stabilizers (lithium), and/or anti-depressants (SSRIs).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23298,7 +23298,7 @@ export default [
   {
     "id": "s2peds-1626",
     "category": "Anxiety disorders",
-    "q": "How does p111 define generalized anxiety disorder?",
+    "q": "How does the source define generalized anxiety disorder?",
     "a": "Six or more months of excessive and persistent worry about various aspects of life, often with physical symptoms like restlessness, fatigue, and muscle tension.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23313,7 +23313,7 @@ export default [
   {
     "id": "s2peds-1627",
     "category": "Anxiety disorders",
-    "q": "What GAD vignette does p111 say the USMLE might give?",
+    "q": "What GAD vignette does the source say the USMLE might give?",
     "a": "A teenage girl who is worried about many things for 6 or more months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23328,7 +23328,7 @@ export default [
   {
     "id": "s2peds-1628",
     "category": "Anxiety disorders",
-    "q": "How does p111 handle GAD occurring with another mood or psychotic disorder?",
+    "q": "How does the source handle GAD occurring with another mood or psychotic disorder?",
     "a": "The patient can have a concurrent mood or psychotic disorder; the diagnosis then becomes, for example, GAD with comorbid MDD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23343,7 +23343,7 @@ export default [
   {
     "id": "s2peds-1629",
     "category": "Anxiety disorders",
-    "q": "What first-line GAD treatment does p111 give?",
+    "q": "What first-line GAD treatment does the source give?",
     "a": "CBT and SSRIs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23358,7 +23358,7 @@ export default [
   {
     "id": "s2peds-1630",
     "category": "Anxiety disorders",
-    "q": "Which additional agent does p111 list for GAD, and what is its class?",
+    "q": "Which additional agent does the source list for GAD, and what is its class?",
     "a": "Buspirone, a serotonin receptor agonist.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23373,7 +23373,7 @@ export default [
   {
     "id": "s2peds-1631",
     "category": "Anxiety disorders",
-    "q": "How does p111 diagnose panic disorder?",
+    "q": "How does the source diagnose panic disorder?",
     "a": "The patient has 2 or more panic attacks plus at least one month of worry about having more attacks.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23388,7 +23388,7 @@ export default [
   {
     "id": "s2peds-1632",
     "category": "Anxiety disorders",
-    "q": "How does p111 define a panic attack?",
+    "q": "How does the source define a panic attack?",
     "a": "An episode of intense fear that triggers severe physical reactions, even though there is no real danger or apparent cause.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23403,7 +23403,7 @@ export default [
   {
     "id": "s2peds-1633",
     "category": "Anxiety disorders",
-    "q": "What panic-attack presentation trap does p111 warn about?",
+    "q": "What panic-attack presentation trap does the source warn about?",
     "a": "The USMLE will usually give a hyperventilating patient who feels like they are going to die or is having an MI; do not get fooled into calling it cardiac.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23418,7 +23418,7 @@ export default [
   {
     "id": "s2peds-1634",
     "category": "Anxiety disorders",
-    "q": "What answer does p111 give when a panic vignette also mentions a mid-systolic click (mitral valve prolapse)?",
+    "q": "What answer does the source give when a panic vignette also mentions a mid-systolic click (mitral valve prolapse)?",
     "a": "Panic disorder, not mitral valve prolapse.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23433,7 +23433,7 @@ export default [
   {
     "id": "s2peds-1635",
     "category": "Anxiety disorders",
-    "q": "Why does p112 say the mid-systolic click does not explain the panic patient's presentation?",
+    "q": "Why does the source say the mid-systolic click does not explain the panic patient's presentation?",
     "a": "The MVP itself is not the cause of the presentation; MVPs are common in the population and almost always asymptomatic.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23448,7 +23448,7 @@ export default [
   {
     "id": "s2peds-1636",
     "category": "Anxiety disorders",
-    "q": "What panic-attack treatment answers does p112 give, including the wrong answer?",
+    "q": "What panic-attack treatment answers does the source give, including the wrong answer?",
     "a": "Breathing exercises to encourage the patient to stop hyperventilating; breathing into a paper bag is the wrong answer; when breathing exercises are not an option, a benzodiazepine is correct.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23463,7 +23463,7 @@ export default [
   {
     "id": "s2peds-1637",
     "category": "Anxiety disorders",
-    "q": "How does p112 define social phobia, and how does it present on the USMLE?",
+    "q": "How does the source define social phobia, and how does it present on the USMLE?",
     "a": "Fear of being judged, negatively evaluated, or rejected in a social or performance scenario; it presents as fear of public speaking.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23478,7 +23478,7 @@ export default [
   {
     "id": "s2peds-1638",
     "category": "Anxiety disorders",
-    "q": "What social-phobia treatment answers does p112 give for the USMLE, including the asthma twist?",
+    "q": "What social-phobia treatment answers does the source give for the USMLE, including the asthma twist?",
     "a": "A beta-blocker (propranolol or atenolol) is first-line; if the patient has asthma, choose a benzodiazepine; CBT is for longer-term management.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23493,7 +23493,7 @@ export default [
   {
     "id": "s2peds-1639",
     "category": "Anxiety disorders",
-    "q": "How does p112 define specific phobia, and what is its high-yield example?",
+    "q": "How does the source define specific phobia, and what is its high-yield example?",
     "a": "Fear of a specific object or situation leading to significant distress or functional impairment; the high-yield example is fear of flying.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23508,7 +23508,7 @@ export default [
   {
     "id": "s2peds-1640",
     "category": "Anxiety disorders",
-    "q": "What specific-phobia treatment does p112 give for acute relief and longer term?",
+    "q": "What specific-phobia treatment does the source give for acute relief and longer term?",
     "a": "A benzodiazepine for acute relief; CBT for longer-term management.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23523,7 +23523,7 @@ export default [
   {
     "id": "s2peds-1641",
     "category": "Anxiety disorders",
-    "q": "How does p112 define agoraphobia?",
+    "q": "How does the source define agoraphobia?",
     "a": "Fear of being in places or situations from which escape might be difficult or embarrassing, or where help might not be available if one were to have a panic attack; this usually refers to crowded, open spaces.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23538,7 +23538,7 @@ export default [
   {
     "id": "s2peds-1642",
     "category": "Anxiety disorders",
-    "q": "How does p112 define separation anxiety disorder, and what is its typical age course?",
+    "q": "How does the source define separation anxiety disorder, and what is its typical age course?",
     "a": "Excessive distress with separation from home or a major attachment figure; it peaks at 12 to 18 months of age and usually subsides by 2 to 3 years, but children can still get it into their teenage years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23553,7 +23553,7 @@ export default [
   {
     "id": "s2peds-1643",
     "category": "Anxiety disorders",
-    "q": "What separation-anxiety vignette does p112 say the USMLE can give?",
+    "q": "What separation-anxiety vignette does the source say the USMLE can give?",
     "a": "A child going to summer camp or school who gets stomach aches on arrival.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23568,7 +23568,7 @@ export default [
   {
     "id": "s2peds-1644",
     "category": "Anxiety disorders",
-    "q": "How does p112 define selective mutism?",
+    "q": "How does the source define selective mutism?",
     "a": "A disorder where the patient fails to speak in certain situations, such as when confronted with new people, despite being able to speak in other situations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23583,7 +23583,7 @@ export default [
   {
     "id": "s2peds-1645",
     "category": "PTSD vs acute stress disorder",
-    "q": "How does p112 define PTSD?",
+    "q": "How does the source define PTSD?",
     "a": "Post-traumatic stress disorder presents as at least 1 month of reliving a traumatic event, usually with flashbacks or nightmares about the event.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23598,7 +23598,7 @@ export default [
   {
     "id": "s2peds-1646",
     "category": "PTSD vs acute stress disorder",
-    "q": "What PTSD treatment does p112 list?",
+    "q": "What PTSD treatment does the source list?",
     "a": "CBT and group therapy, with SSRIs if medication is used.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23613,7 +23613,7 @@ export default [
   {
     "id": "s2peds-1647",
     "category": "PTSD vs acute stress disorder",
-    "q": "How does p112 define acute stress disorder relative to PTSD?",
+    "q": "How does the source define acute stress disorder relative to PTSD?",
     "a": "Same as PTSD but presenting for 3 days to less than 1 month since the traumatic event.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23628,7 +23628,7 @@ export default [
   {
     "id": "s2peds-1648",
     "category": "Adjustment disorder",
-    "q": "How does p112 define adjustment disorder's onset?",
+    "q": "How does the source define adjustment disorder's onset?",
     "a": "Socio-occupational dysfunction starting within 3 months of one specific stressor, such as a breakup, loss of a job, death, or illness.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23643,7 +23643,7 @@ export default [
   {
     "id": "s2peds-1649",
     "category": "Adjustment disorder",
-    "q": "How does p112 handle adjustment disorder duration, and what does it call the longer form?",
+    "q": "How does the source handle adjustment disorder duration, and what does it call the longer form?",
     "a": "It usually lasts less than 6 months; if longer than 6 months, the source calls it chronic adjustment disorder.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23658,7 +23658,7 @@ export default [
   {
     "id": "s2peds-1650",
     "category": "Adjustment disorder",
-    "q": "How does p112 distinguish adjustment disorder from GAD, and what mood labels can it carry?",
+    "q": "How does the source distinguish adjustment disorder from GAD, and what mood labels can it carry?",
     "a": "The key is the single specific stressor, whereas GAD involves many or no one specific stressor; the patient cannot have psychotic symptoms but can have a mood disorder, written as adjustment disorder with depressed mood or with anxious mood on 2CK psych forms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23673,7 +23673,7 @@ export default [
   {
     "id": "s2peds-1651",
     "category": "Adjustment disorder",
-    "q": "What first-line treatment does p112 give for adjustment disorder?",
+    "q": "What first-line treatment does the source give for adjustment disorder?",
     "a": "CBT and SSRIs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23688,7 +23688,7 @@ export default [
   {
     "id": "s2peds-1652",
     "category": "Obsessive-compulsive disorder (OCD)",
-    "q": "How does p112 define obsessions, with its example?",
+    "q": "How does the source define obsessions, with its example?",
     "a": "Unwanted and intrusive thoughts, images, or urges that cause significant anxiety or distress; the example is constantly feeling the need to touch a doorknob correctly before opening the door.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23703,7 +23703,7 @@ export default [
   {
     "id": "s2peds-1653",
     "category": "Obsessive-compulsive disorder (OCD)",
-    "q": "How does p112 define compulsions, with its example?",
+    "q": "How does the source define compulsions, with its example?",
     "a": "Repetitive behaviors a person performs in response to an obsession; the example is touching the doorknob repeatedly to make sure it is touched correctly.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23718,7 +23718,7 @@ export default [
   {
     "id": "s2peds-1654",
     "category": "Obsessive-compulsive disorder (OCD)",
-    "q": "What makes the OCD diagnosis on p113, and does the patient need both obsessions and compulsions?",
+    "q": "What makes the OCD diagnosis in the source, and does the patient need both obsessions and compulsions?",
     "a": "Persistent obsessions and/or compulsions that cause significant distress or interfere with socio-occupational functioning. Either one alone is enough.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23733,7 +23733,7 @@ export default [
   {
     "id": "s2peds-1655",
     "category": "Obsessive-compulsive disorder (OCD)",
-    "q": "How does p113 separate OCD from obsessive-compulsive personality disorder (OCDP)?",
+    "q": "How does the source separate OCD from obsessive-compulsive personality disorder (OCDP)?",
     "a": "OCD is ego-dystonic (the patient dislikes it and feels distressed). OCDP is ego-syntonic (the patient is content and sees nothing wrong).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23748,7 +23748,7 @@ export default [
   {
     "id": "s2peds-1656",
     "category": "Obsessive-compulsive disorder (OCD)",
-    "q": "What treatment does p113 give for OCD, including the drug options?",
+    "q": "What treatment does the source give for OCD, including the drug options?",
     "a": "CBT. If drugs are used, an SSRI or clomipramine (a TCA).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23763,7 +23763,7 @@ export default [
   {
     "id": "s2peds-1657",
     "category": "Obsessive-compulsive disorder (OCD)",
-    "q": "What 'mini-factoid' about OCD treatment does p113 say appears on a 2CK Psych form?",
+    "q": "What 'mini-factoid' about OCD treatment does the source say appears on a 2CK Psych form?",
     "a": "That the TCA clomipramine can be used to treat OCD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23774,7 +23774,7 @@ export default [
   {
     "id": "s2peds-1658",
     "category": "Attention-deficit/hyperactivity disorder (ADHD)",
-    "q": "What symptoms define ADHD on p113, and where must they appear?",
+    "q": "What symptoms define ADHD in the source, and where must they appear?",
     "a": "Inattentiveness (distractibility, not listening when spoken to) and/or hyperactivity (fidgeting, unable to stay seated or play quietly), at home and at school. The pattern must be consistent across the venues and daily situations the child is in.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23789,7 +23789,7 @@ export default [
   {
     "id": "s2peds-1659",
     "category": "Attention-deficit/hyperactivity disorder (ADHD)",
-    "q": "What is first-line ADHD drug treatment on p113, with its example, and what is second-line?",
+    "q": "What is first-line ADHD drug treatment in the source, with its example, and what is second-line?",
     "a": "Stimulants such as methylphenidate (Ritalin) first-line. Non-stimulants such as atomoxetine can be tried second-line.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23804,7 +23804,7 @@ export default [
   {
     "id": "s2peds-1660",
     "category": "Attention-deficit/hyperactivity disorder (ADHD)",
-    "q": "What non-drug ADHD treatments does p113 list, and who can get CBT?",
+    "q": "What non-drug ADHD treatments does the source list, and who can get CBT?",
     "a": "Family therapy, behavioral skills training and parenting skills training. Teenagers or adults can undergo CBT.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23815,7 +23815,7 @@ export default [
   {
     "id": "s2peds-1661",
     "category": "Oppositional defiant vs conduct disorder",
-    "q": "What is the p113 picture of oppositional defiant disorder (ODD)?",
+    "q": "What is the source picture of oppositional defiant disorder (ODD)?",
     "a": "Argumentative and defiant behavior, often causing problems at school with teachers and grades. It can sound like normal teenage behavior, but the emphasis is an impediment to social or scholastic progress.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23830,7 +23830,7 @@ export default [
   {
     "id": "s2peds-1662",
     "category": "Oppositional defiant vs conduct disorder",
-    "q": "What key point separates ODD from conduct disorder on p113?",
+    "q": "What key point separates ODD from conduct disorder in the source?",
     "a": "ODD has no law-breaking. If the vignette mentions crimes, the USMLE wants conduct disorder.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23845,7 +23845,7 @@ export default [
   {
     "id": "s2peds-1663",
     "category": "Oppositional defiant vs conduct disorder",
-    "q": "How does p113 define the conduct disorder pattern and age of onset?",
+    "q": "How does the source define the conduct disorder pattern and age of onset?",
     "a": "A greater-than-6-month pattern of law-breaking starting at age 17 or younger.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23860,7 +23860,7 @@ export default [
   {
     "id": "s2peds-1664",
     "category": "Oppositional defiant vs conduct disorder",
-    "q": "What example vignettes does p113 give for conduct disorder?",
+    "q": "What example vignettes does the source give for conduct disorder?",
     "a": "A teenager who kills a cat, destroys property or steals.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23871,7 +23871,7 @@ export default [
   {
     "id": "s2peds-1665",
     "category": "Oppositional defiant vs conduct disorder",
-    "q": "How does p113 say the USMLE tests conduct disorder, with its 14-year-old example?",
+    "q": "How does the source say the USMLE tests conduct disorder, with its 14-year-old example?",
     "a": "As a snapshot rather than an ongoing pattern. A 14-year-old who killed a cat: most likely diagnosis is conduct disorder because it was a crime. ODD is the wrong answer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23882,7 +23882,7 @@ export default [
   {
     "id": "s2peds-1666",
     "category": "Autism spectrum disorder (ASD)",
-    "q": "How does p113 define autism spectrum disorder?",
+    "q": "How does the source define autism spectrum disorder?",
     "a": "A neurodevelopmental condition with repetitive patterns of behavior, interests or activities and persistent challenges in social communication and interaction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23897,7 +23897,7 @@ export default [
   {
     "id": "s2peds-1667",
     "category": "Autism spectrum disorder (ASD)",
-    "q": "When does ASD usually start, and which sex is more affected, per p113?",
+    "q": "When does ASD usually start, and which sex is more affected,?",
     "a": "Usually before age 3; more common in boys.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23912,7 +23912,7 @@ export default [
   {
     "id": "s2peds-1668",
     "category": "Autism spectrum disorder (ASD)",
-    "q": "What social and attention features does p113 give for ASD?",
+    "q": "What social and attention features does the source give for ASD?",
     "a": "Difficulty understanding social cues, atypical speech patterns or body language, and/or intense focus on specific activities.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23923,7 +23923,7 @@ export default [
   {
     "id": "s2peds-1669",
     "category": "Autism spectrum disorder (ASD)",
-    "q": "What interest pattern and repetitive motions does p113 call characteristic of ASD?",
+    "q": "What interest pattern and repetitive motions does the source call characteristic of ASD?",
     "a": "Interest in linear patterns (trains, train tracks, toys lined up in straight lines), and repetitive motions (stimming) such as rocking back and forth.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23934,7 +23934,7 @@ export default [
   {
     "id": "s2peds-1670",
     "category": "Autism spectrum disorder (ASD)",
-    "q": "What does p113 say about IQ in ASD and about Asperger disorder?",
+    "q": "What does the source say about IQ in ASD and about Asperger disorder?",
     "a": "ASD patients might have reduced IQ at the expense of enhanced abilities elsewhere (for example painting). Asperger disorder is the variant with normal or increased IQ.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23949,7 +23949,7 @@ export default [
   {
     "id": "s2peds-1671",
     "category": "Anorexia nervosa",
-    "q": "How does p114 describe the core anorexia presentation and its BMI requirement?",
+    "q": "How does the source describe the core anorexia presentation and its BMI requirement?",
     "a": "Intense preoccupation with maintaining low body weight and intense fear of gaining weight. BMI must be low (<18.5) for the diagnosis. Purging can be seen (not limited to bulimia).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23964,7 +23964,7 @@ export default [
   {
     "id": "s2peds-1672",
     "category": "Anorexia nervosa",
-    "q": "What vignette does p114 give for anorexia, and what bone finding does the USMLE like?",
+    "q": "What vignette does the source give for anorexia, and what bone finding does the USMLE like?",
     "a": "A girl who runs 12 miles per day and barely eats. The USMLE likes metatarsal stress fractures from decreased bone density.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23975,7 +23975,7 @@ export default [
   {
     "id": "s2peds-1673",
     "category": "Anorexia nervosa",
-    "q": "What later-life risk does p114 say the question can ask about in anorexia, and why?",
+    "q": "What later-life risk does the source say the question can ask about in anorexia, and why?",
     "a": "Osteoporosis, because reduced adipose tissue means reduced estrogen.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -23990,7 +23990,7 @@ export default [
   {
     "id": "s2peds-1674",
     "category": "Anorexia nervosa",
-    "q": "Is amenorrhea required for anorexia on p114, and what mechanism does the USMLE want for it?",
+    "q": "Is amenorrhea required for anorexia in the source, and what mechanism does the USMLE want for it?",
     "a": "Amenorrhea can be seen but is no longer mandatory for diagnosis. The USMLE wants abnormal GnRH pulsation, with LH and FSH both decreased: hypogonadotropic (central) amenorrhea.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24005,7 +24005,7 @@ export default [
   {
     "id": "s2peds-1675",
     "category": "Anorexia nervosa",
-    "q": "What does p114 give as the hospital-admission indication in anorexia?",
+    "q": "What does the source give as the hospital-admission indication in anorexia?",
     "a": "BMI <15 or overt malnutrition.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24020,7 +24020,7 @@ export default [
   {
     "id": "s2peds-1676",
     "category": "Anorexia nervosa",
-    "q": "What treatment does p114 give for anorexia, and what role does mirtazapine play?",
+    "q": "What treatment does the source give for anorexia, and what role does mirtazapine play?",
     "a": "CBT and/or SSRI. Mirtazapine is an alpha-2 antagonist that stimulates appetite and is used in patients with depression and anorexia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24035,7 +24035,7 @@ export default [
   {
     "id": "s2peds-1677",
     "category": "Anorexia nervosa",
-    "q": "Which antidepressant does p114 say to avoid in eating disorders, and why?",
+    "q": "Which antidepressant does the source say to avoid in eating disorders, and why?",
     "a": "Bupropion, because it lowers the seizure threshold.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24046,7 +24046,7 @@ export default [
   {
     "id": "s2peds-1678",
     "category": "Anorexia nervosa",
-    "q": "What is the most common cause of death in anorexia per p114, and what is the mechanism?",
+    "q": "What is the most common cause of death in anorexia, and what is the mechanism?",
     "a": "Ventricular fibrillation due to hypokalemia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24061,7 +24061,7 @@ export default [
   {
     "id": "s2peds-1679",
     "category": "Anorexia nervosa",
-    "q": "What does p114 say about olanzapine in anorexia?",
+    "q": "What does the source say about olanzapine in anorexia?",
     "a": "It can be used in theory: an antipsychotic that increases appetite.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24076,7 +24076,7 @@ export default [
   {
     "id": "s2peds-1680",
     "category": "Bulimia nervosa",
-    "q": "How does p114 define bulimia?",
+    "q": "How does the source define bulimia?",
     "a": "Binge eating followed by compensatory behaviors such as vomiting, excessive exercise or laxative use.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24091,7 +24091,7 @@ export default [
   {
     "id": "s2peds-1681",
     "category": "Bulimia nervosa",
-    "q": "How does BMI differ between bulimia and anorexia on p114?",
+    "q": "How does BMI differ between bulimia and anorexia in the source?",
     "a": "In bulimia BMI is normal or increased. In anorexia it must be decreased.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24102,7 +24102,7 @@ export default [
   {
     "id": "s2peds-1682",
     "category": "Bulimia nervosa",
-    "q": "What treatment does p114 give for bulimia?",
+    "q": "What treatment does the source give for bulimia?",
     "a": "CBT and/or SSRI.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24117,7 +24117,7 @@ export default [
   {
     "id": "s2peds-1683",
     "category": "Binge-eating disorder",
-    "q": "How does p114 describe binge-eating disorder?",
+    "q": "How does the source describe binge-eating disorder?",
     "a": "Frequent episodes of eating large amounts of food in a short time, often in secret, usually with guilt or shame.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24132,7 +24132,7 @@ export default [
   {
     "id": "s2peds-1684",
     "category": "Binge-eating disorder",
-    "q": "How does p114 separate binge-eating disorder from bulimia, and what is the treatment?",
+    "q": "How does the source separate binge-eating disorder from bulimia, and what is the treatment?",
     "a": "The episodes are not regularly followed by purging, excessive exercise or other compensatory behaviors. Treatment is CBT and/or SSRI.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24147,7 +24147,7 @@ export default [
   {
     "id": "s2peds-1685",
     "category": "Dissociative identity disorder (DID)",
-    "q": "How does p114 define dissociative identity disorder?",
+    "q": "How does the source define dissociative identity disorder?",
     "a": "Two or more distinct identities that take control of the patient's behavior, with memory gaps during the transitions.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24162,7 +24162,7 @@ export default [
   {
     "id": "s2peds-1686",
     "category": "Dissociative identity disorder (DID)",
-    "q": "What patient report does p114 give for DID?",
+    "q": "What patient report does the source give for DID?",
     "a": "Experiences of 'time loss', or being told of actions the patient does not recall performing.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24173,7 +24173,7 @@ export default [
   {
     "id": "s2peds-1687",
     "category": "Dissociative amnesia",
-    "q": "How does p114 define dissociative amnesia?",
+    "q": "How does the source define dissociative amnesia?",
     "a": "Inability to recall important personal information, typically about a traumatic or stressful event, that goes beyond ordinary forgetting. The amnesia can cause loss of identity or life history.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24188,7 +24188,7 @@ export default [
   {
     "id": "s2peds-1688",
     "category": "Dissociative amnesia",
-    "q": "What is dissociative fugue on p114, with its example?",
+    "q": "What is dissociative fugue in the source, with its example?",
     "a": "A subtype of dissociative amnesia: memory loss plus travel. Example: found in a parking lot 50 miles from home, not knowing who he or she is when police arrive.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24203,7 +24203,7 @@ export default [
   {
     "id": "s2peds-1689",
     "category": "Depersonalization / derealization disorder",
-    "q": "How does p114 describe depersonalization and derealization?",
+    "q": "How does the source describe depersonalization and derealization?",
     "a": "Feeling detached from oneself (depersonalization) or that the world is unreal or dreamlike (derealization).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24218,7 +24218,7 @@ export default [
   {
     "id": "s2peds-1690",
     "category": "Depersonalization / derealization disorder",
-    "q": "What key insight feature does p114 give in depersonalization/derealization disorder?",
+    "q": "What key insight feature does the source give in depersonalization/derealization disorder?",
     "a": "The experiences can be distressing, but the patient is aware the perceptions do not reflect reality.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24233,7 +24233,7 @@ export default [
   {
     "id": "s2peds-1691",
     "category": "Somatic symptom disorder",
-    "q": "What unconscious features does p114 give for somatic symptom and related disorders?",
+    "q": "What unconscious features does the source give for somatic symptom and related disorders?",
     "a": "Both symptom generation and motive are unconscious.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24244,7 +24244,7 @@ export default [
   {
     "id": "s2peds-1692",
     "category": "Somatic symptom disorder",
-    "q": "How does p114 define somatic symptom disorder?",
+    "q": "How does the source define somatic symptom disorder?",
     "a": "One or more chronic somatic symptoms (for example GI pain, adnexal pain, shortness of breath, neuropathic pain) that are distressing or cause socio-occupational dysfunction, but medical exam and diagnostics find no abnormality.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24259,7 +24259,7 @@ export default [
   {
     "id": "s2peds-1693",
     "category": "Conversion disorder",
-    "q": "What deficits and trigger does p115 give for conversion disorder?",
+    "q": "What deficits and trigger does the source give for conversion disorder?",
     "a": "Neurologic deficits (paralysis, loss of function, numbness) usually following a stressor such as job loss or an argument with a spouse.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24274,7 +24274,7 @@ export default [
   {
     "id": "s2peds-1694",
     "category": "Conversion disorder",
-    "q": "What is la belle indifference on p115?",
+    "q": "What is la belle indifference in the source?",
     "a": "Apparent lack of care or concern about the deficit. The patient supposedly cannot move an arm but does not seem fazed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24289,7 +24289,7 @@ export default [
   {
     "id": "s2peds-1695",
     "category": "Conversion disorder",
-    "q": "What summer-camp example does p115 give for conversion disorder?",
+    "q": "What summer-camp example does the source give for conversion disorder?",
     "a": "A child dropped off at summer camp who says he cannot move his finger. He is likely stressed about being separated from his parents.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24300,7 +24300,7 @@ export default [
   {
     "id": "s2peds-1696",
     "category": "Conversion disorder",
-    "q": "What NBME voice finding does p115 say has conversion disorder as the answer?",
+    "q": "What NBME voice finding does the source say has conversion disorder as the answer?",
     "a": "Hoarseness of voice.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24311,7 +24311,7 @@ export default [
   {
     "id": "s2peds-1697",
     "category": "Conversion disorder",
-    "q": "What NBME eye vignette does p115 give for conversion disorder, and what exam finding is key?",
+    "q": "What NBME eye vignette does the source give for conversion disorder, and what exam finding is key?",
     "a": "A person with blindness in one eye but no relative afferent pupillary defect (RAPD), which means CN II is not damaged, so the diagnosis is conversion disorder. The source points to the HY Neuro PDF for RAPD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24326,7 +24326,7 @@ export default [
   {
     "id": "s2peds-1698",
     "category": "Illness anxiety disorder",
-    "q": "What is illness anxiety disorder on p115, and what was it called before?",
+    "q": "What is illness anxiety disorder in the source, and what was it called before?",
     "a": "Formerly hypochondriasis. Preoccupation with fear of having or acquiring a serious illness, with worries that persist after medical reassurance of no significant health concern or risk.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24341,7 +24341,7 @@ export default [
   {
     "id": "s2peds-1699",
     "category": "Factitious disorders",
-    "q": "How do symptom generation and motive differ in factitious disorders on p115?",
+    "q": "How do symptom generation and motive differ in factitious disorders in the source?",
     "a": "Symptom generation is conscious and intentional; the motive is unconscious.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24352,7 +24352,7 @@ export default [
   {
     "id": "s2peds-1700",
     "category": "Factitious disorders",
-    "q": "What drives symptom production in factitious disorders, and how does p115 use primary vs secondary gain?",
+    "q": "What drives symptom production in factitious disorders, and how does the source use primary vs secondary gain?",
     "a": "A need to be seen as ill or injured, not a tangible benefit such as drugs, money or time out of prison. Seeking medical attention is 'primary gain'; something concrete like cash or time out of prison is 'secondary gain'.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24367,7 +24367,7 @@ export default [
   {
     "id": "s2peds-1701",
     "category": "Factitious disorder imposed on self",
-    "q": "What older name does p115 give for factitious disorder imposed on self?",
+    "q": "What older name does the source give for factitious disorder imposed on self?",
     "a": "Munchausen syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24397,7 +24397,7 @@ export default [
   {
     "id": "s2peds-1703",
     "category": "Factitious disorder imposed on self",
-    "q": "What procedural willingness does p115 give for factitious disorder imposed on self?",
+    "q": "What procedural willingness does the source give for factitious disorder imposed on self?",
     "a": "Patients are willing to undergo invasive procedures. The question might mention a history of appendectomy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24408,7 +24408,7 @@ export default [
   {
     "id": "s2peds-1704",
     "category": "Factitious disorder imposed on another",
-    "q": "What older name does p115 give for factitious disorder imposed on another, and what does it involve?",
+    "q": "What older name does the source give for factitious disorder imposed on another, and what does it involve?",
     "a": "Munchausen syndrome by proxy. Feigning symptoms in another person to achieve medical attention.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24423,7 +24423,7 @@ export default [
   {
     "id": "s2peds-1705",
     "category": "Factitious disorder imposed on another",
-    "q": "How does p115 classify factitious disorder imposed on another, who can be victims, and what must happen?",
+    "q": "How does the source classify factitious disorder imposed on another, who can be victims, and what must happen?",
     "a": "It is considered a form of abuse. It can occur with parents or caretakers toward their children, elderly people or others in their care. It needs to be reported.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24438,7 +24438,7 @@ export default [
   {
     "id": "s2peds-1706",
     "category": "Factitious thyrotoxicosis",
-    "q": "What is factitious thyrotoxicosis on p115?",
+    "q": "What is factitious thyrotoxicosis in the source?",
     "a": "Injection of thyroid hormone, also called surreptitious thyrotoxicosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24449,7 +24449,7 @@ export default [
   {
     "id": "s2peds-1707",
     "category": "Factitious thyrotoxicosis",
-    "q": "How does the USMLE usually present factitious thyrotoxicosis per p115?",
+    "q": "How does the USMLE usually present factitious thyrotoxicosis?",
     "a": "As an endocrine-type question (see HY Endocrine PDF). It need not be tied to a wish for medical care; the patient could just be trying to lose weight, though some inject to get medical attention.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24460,7 +24460,7 @@ export default [
   {
     "id": "s2peds-1708",
     "category": "Factitious use of glycemic meds",
-    "q": "What does p115 say about factitious use of glycemic medications?",
+    "q": "What does the source say about factitious use of glycemic medications?",
     "a": "Use of insulin or hypoglycemic meds (such as sulfonylureas) to cause hypoglycemia or weight loss. Some patients do it to get medical attention.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24475,7 +24475,7 @@ export default [
   {
     "id": "s2peds-1709",
     "category": "Factitious use of glycemic meds",
-    "q": "How does p115 use C-peptide in factitious hypoglycemia?",
+    "q": "How does the source use C-peptide in factitious hypoglycemia?",
     "a": "Low C-peptide indicates exogenous insulin. High C-peptide means either secretagogue abuse (such as sulfonylureas) or insulinoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24490,7 +24490,7 @@ export default [
   {
     "id": "s2peds-1710",
     "category": "Malingering",
-    "q": "How do symptom generation and motive compare in malingering on p115?",
+    "q": "How do symptom generation and motive compare in malingering in the source?",
     "a": "Both symptom generation and motive are intentional.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24505,7 +24505,7 @@ export default [
   {
     "id": "s2peds-1711",
     "category": "Malingering",
-    "q": "What is the aim of malingering on p115, with examples?",
+    "q": "What is the aim of malingering in the source, with examples?",
     "a": "Secondary gain: money, drugs, time out of school or detention.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24520,7 +24520,7 @@ export default [
   {
     "id": "s2peds-1712",
     "category": "Malingering",
-    "q": "What procedural willingness distinguishes malingering on p115, and what is the example?",
+    "q": "What procedural willingness distinguishes malingering in the source, and what is the example?",
     "a": "The patient is not willing to undergo invasive procedures. Example: a child complains of severe RLQ pain and feigns a rigid abdomen to get out of detention, but refuses appendectomy once at the hospital.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24531,7 +24531,7 @@ export default [
   {
     "id": "s2peds-1713",
     "category": "Narcolepsy",
-    "q": "How does p116 define narcolepsy?",
+    "q": "How does the source define narcolepsy?",
     "a": "A chronic sleep disorder affecting the brain's ability to regulate sleep-wake cycles normally.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24546,7 +24546,7 @@ export default [
   {
     "id": "s2peds-1714",
     "category": "Narcolepsy",
-    "q": "What symptoms characterize narcolepsy on p116, and when do the hallucinations occur?",
+    "q": "What symptoms characterize narcolepsy in the source, and when do the hallucinations occur?",
     "a": "Excessive daytime sleepiness, sudden episodes of muscle weakness (cataplexy), sleep paralysis and hallucinations. The hallucinations tend to occur before sleep (hypnagogic) or on waking (hypnopompic).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24561,7 +24561,7 @@ export default [
   {
     "id": "s2peds-1715",
     "category": "Narcolepsy",
-    "q": "What neurotransmitter deficiency does p116 blame for narcolepsy?",
+    "q": "What neurotransmitter deficiency does the source blame for narcolepsy?",
     "a": "Orexin (also called hypocretin), which normally promotes wakefulness.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24576,7 +24576,7 @@ export default [
   {
     "id": "s2peds-1716",
     "category": "Narcolepsy",
-    "q": "What treatment does p116 give for narcolepsy, and what mechanism does it describe?",
+    "q": "What treatment does the source give for narcolepsy, and what mechanism does it describe?",
     "a": "Modafinil, described as a dopamine reuptake inhibitor that also promotes release of orexin from the hypothalamus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24587,7 +24587,7 @@ export default [
   {
     "id": "s2peds-1717",
     "category": "Sleep apnea",
-    "q": "What two types of sleep apnea does p116 list?",
+    "q": "What two types of sleep apnea does the source list?",
     "a": "Obstructive (usually from obesity) or central (brain-related).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24598,7 +24598,7 @@ export default [
   {
     "id": "s2peds-1718",
     "category": "Sleep apnea",
-    "q": "What mood complication of sleep apnea does p116 give, and what is the NBME answer?",
+    "q": "What mood complication of sleep apnea does the source give, and what is the NBME answer?",
     "a": "Chronic fatigue and poor oxygenation can lead to dysthymia or depression. The NBME answer is 'mood disorder due to a medical condition'.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24609,7 +24609,7 @@ export default [
   {
     "id": "s2peds-1719",
     "category": "Sleep apnea",
-    "q": "What test does the USMLE want to diagnose sleep apnea on p116?",
+    "q": "What test does the USMLE want to diagnose sleep apnea in the source?",
     "a": "Polysomnography (a sleep study).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24624,7 +24624,7 @@ export default [
   {
     "id": "s2peds-1720",
     "category": "Sleep apnea",
-    "q": "What is obesity hypoventilation (Pickwickian) syndrome on p116?",
+    "q": "What is obesity hypoventilation (Pickwickian) syndrome in the source?",
     "a": "Obstructive sleep apnea that has progressed to a chronic CO2 retainer with pulmonary hypertension and/or cor pulmonale. The source points to the HY Cardio PDF for the cardiac side.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24639,7 +24639,7 @@ export default [
   {
     "id": "s2peds-1721",
     "category": "Circadian rhythm sleep-wake disorder",
-    "q": "How does p116 define a circadian rhythm sleep-wake disorder?",
+    "q": "How does the source define a circadian rhythm sleep-wake disorder?",
     "a": "A misalignment between the individual's sleep pattern and the societal norm or natural environment.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24654,7 +24654,7 @@ export default [
   {
     "id": "s2peds-1722",
     "category": "Circadian rhythm sleep-wake disorder",
-    "q": "What common types does p116 list for circadian rhythm sleep-wake disorder?",
+    "q": "What common types does the source list for circadian rhythm sleep-wake disorder?",
     "a": "Delayed sleep phase (going to bed and waking later than desired), advanced sleep phase (earlier than desired) and shift work disorder (trouble sleeping from abnormal work hours).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24669,7 +24669,7 @@ export default [
   {
     "id": "s2peds-1723",
     "category": "Somnambulism",
-    "q": "What is somnambulism and which sleep stage does p116 give for it?",
+    "q": "What is somnambulism and which sleep stage does the source give for it?",
     "a": "Sleepwalking, occurring during Stage 3 (deep) sleep.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24684,7 +24684,7 @@ export default [
   {
     "id": "s2peds-1724",
     "category": "Nightmare disorder",
-    "q": "Which sleep stage and dream content does p116 give for nightmare disorder?",
+    "q": "Which sleep stage and dream content does the source give for nightmare disorder?",
     "a": "REM sleep. Dreams often involve threats to survival or self-esteem, leading to awakenings and distress.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24699,7 +24699,7 @@ export default [
   {
     "id": "s2peds-1725",
     "category": "Nightmare disorder",
-    "q": "Can the patient remember nightmare episodes on p116, and why?",
+    "q": "Can the patient remember nightmare episodes in the source, and why?",
     "a": "Yes. Episodes are remembered after awakening because they occur during REM sleep.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24710,7 +24710,7 @@ export default [
   {
     "id": "s2peds-1726",
     "category": "Sleep terror disorder",
-    "q": "What features does p116 give for sleep terror disorder, including who gets it?",
+    "q": "What features does the source give for sleep terror disorder, including who gets it?",
     "a": "Often mistaken for nightmares; more common in male children and abates by pre-adolescence. It occurs in Stage 3 (delta wave) sleep.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24725,7 +24725,7 @@ export default [
   {
     "id": "s2peds-1727",
     "category": "Sleep terror disorder",
-    "q": "What behaviors and recall does p116 describe in sleep terror episodes?",
+    "q": "What behaviors and recall does the source describe in sleep terror episodes?",
     "a": "The patient somnambulates and may wake in a different location, often in a panic, sometimes violent (for example pulling on the mother's arm to go outside). Afterward there is no memory of the episode.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24736,7 +24736,7 @@ export default [
   {
     "id": "s2peds-1728",
     "category": "Sleep terror disorder",
-    "q": "How does p116 contrast sleep terrors with nightmare disorder?",
+    "q": "How does the source contrast sleep terrors with nightmare disorder?",
     "a": "In nightmare disorder the patient remembers a dream and cannot somnambulate because of muscle paralysis during REM.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24751,7 +24751,7 @@ export default [
   {
     "id": "s2peds-1729",
     "category": "Restless leg syndrome",
-    "q": "How does p116 define restless leg syndrome?",
+    "q": "How does the source define restless leg syndrome?",
     "a": "An idiopathic, irresistible urge to move the legs while in bed or sleeping.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24762,7 +24762,7 @@ export default [
   {
     "id": "s2peds-1730",
     "category": "Restless leg syndrome",
-    "q": "What is the most common cause of RLS on p116, and what is the first step?",
+    "q": "What is the most common cause of RLS in the source, and what is the first step?",
     "a": "Iron deficiency anemia. The first step is checking serum iron and ferritin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24777,7 +24777,7 @@ export default [
   {
     "id": "s2peds-1731",
     "category": "Restless leg syndrome",
-    "q": "What drugs does p116 give for RLS if iron studies are normal?",
+    "q": "What drugs does the source give for RLS if iron studies are normal?",
     "a": "Gabapentin and D2 agonists (ropinirole, pramipexole).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24792,7 +24792,7 @@ export default [
   {
     "id": "s2peds-1732",
     "category": "Restless leg syndrome",
-    "q": "What Parkinson disease claim does p116 make about RLS?",
+    "q": "What Parkinson disease claim does the source make about RLS?",
     "a": "The USMLE wants you to know RLS patients have increased risk of developing Parkinson disease, which the source links to D2 agonists helping and a possible dopamine signaling or production problem.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24803,7 +24803,7 @@ export default [
   {
     "id": "s2peds-1733",
     "category": "Insomnia",
-    "q": "How does p116 define insomnia?",
+    "q": "How does the source define insomnia?",
     "a": "Inability to get adequate sleep, from difficulty falling asleep, staying asleep or waking too early, leading to impaired daytime functioning.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24814,7 +24814,7 @@ export default [
   {
     "id": "s2peds-1734",
     "category": "Insomnia",
-    "q": "What drug does p116 say the USMLE wants for acute insomnia?",
+    "q": "What drug does the source say the USMLE wants for acute insomnia?",
     "a": "A benzodiazepine, usually clonazepam.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24829,7 +24829,7 @@ export default [
   {
     "id": "s2peds-1735",
     "category": "Insomnia",
-    "q": "What insomnia pattern does p116 link to depression?",
+    "q": "What insomnia pattern does the source link to depression?",
     "a": "Terminal insomnia: waking up too early.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24840,7 +24840,7 @@ export default [
   {
     "id": "s2peds-1736",
     "category": "Tic disorders",
-    "q": "How does p117 define tic disorders, and what do motor tics range from?",
+    "q": "How does the source define tic disorders, and what do motor tics range from?",
     "a": "A neurologic disorder of repetitive, involuntary movements and vocalizations. Motor tics range from eye blinking, head jerking or shoulder shrugging to complex movements such as hopping, twirling or mimicking others' actions.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24855,7 +24855,7 @@ export default [
   {
     "id": "s2peds-1737",
     "category": "Tourette syndrome",
-    "q": "What vocal tics does p117 list for Tourette?",
+    "q": "What vocal tics does the source list for Tourette?",
     "a": "Throat clearing, sniffing or humming. More complex vocal tics include repeating words or phrases, or shouting inappropriate words (coprolalia).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24866,7 +24866,7 @@ export default [
   {
     "id": "s2peds-1738",
     "category": "Tourette syndrome",
-    "q": "Which two drugs does p117 say are used for Tourette and appear on the NBME?",
+    "q": "Which two drugs does the source say are used for Tourette and appear on the NBME?",
     "a": "Haloperidol (a typical antipsychotic, D2 antagonist) and clonidine (an alpha-2 agonist).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24881,7 +24881,7 @@ export default [
   {
     "id": "s2peds-1739",
     "category": "Provisional tic disorder",
-    "q": "What does p117 say about a single tic lasting up to a year in a child?",
+    "q": "What does the source say about a single tic lasting up to a year in a child?",
     "a": "It is normal in pediatrics for a child to sometimes have a single tic lasting up to a year (for example an unusual tongue or lip gesture). Provisional tic disorder has a very low chance of progressing to chronic tic disorder or Tourette.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24896,7 +24896,7 @@ export default [
   {
     "id": "s2peds-1740",
     "category": "Provisional tic disorder",
-    "q": "What next best step does the USMLE want for provisional tic disorder on p117?",
+    "q": "What next best step does the USMLE want for provisional tic disorder in the source?",
     "a": "Follow-up in 3-6 months (observe).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24907,7 +24907,7 @@ export default [
   {
     "id": "s2peds-1741",
     "category": "PANDAS",
-    "q": "What is PANDAS on p117?",
+    "q": "What is PANDAS in the source?",
     "a": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci: group A strep pharyngitis can cause a tic disorder, OCD or ADHD in the weeks after infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24922,7 +24922,7 @@ export default [
   {
     "id": "s2peds-1742",
     "category": "PANDAS",
-    "q": "What vignette and answer does p117 give for PANDAS?",
+    "q": "What vignette and answer does the source give for PANDAS?",
     "a": "A kid with a sore throat two weeks ago who now has a new-onset tic, ADHD or OCD. Asked what will most likely diagnose the etiology, the answer is anti-streptolysin O (ASO) titers.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24937,7 +24937,7 @@ export default [
   {
     "id": "s2peds-1743",
     "category": "Drug-induced tics",
-    "q": "Which drugs does p117 say can cause tics, and which antipsychotic effect counts as a tic disorder?",
+    "q": "Which drugs does the source say can cause tics, and which antipsychotic effect counts as a tic disorder?",
     "a": "Stimulants (methylphenidate, amphetamines) and caffeine can cause tics. Tardive dyskinesia from antipsychotics is considered a type of tic disorder.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24948,7 +24948,7 @@ export default [
   {
     "id": "s2peds-1744",
     "category": "Trichotillomania",
-    "q": "How does p117 describe trichotillomania and its NBME complication?",
+    "q": "How does the source describe trichotillomania and its NBME complication?",
     "a": "Pulling out one's hair, which can be anywhere (eyebrows, scalp). The patient may also eat the hair, leading to a gastric bezoar (asked on NBME), an undigestible mass that can cause bowel obstruction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24963,7 +24963,7 @@ export default [
   {
     "id": "s2peds-1745",
     "category": "Skin-picking disorder",
-    "q": "What is skin-picking disorder on p117?",
+    "q": "What is skin-picking disorder in the source?",
     "a": "Also called excoriation disorder. The patient picks at the skin, leading to skin lesions.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24974,7 +24974,7 @@ export default [
   {
     "id": "s2peds-1746",
     "category": "Body dysmorphic disorder",
-    "q": "How does p117 define body dysmorphic disorder?",
+    "q": "How does the source define body dysmorphic disorder?",
     "a": "Excessive preoccupation with one or more aspects of one's appearance, leading to socio-occupational dysfunction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -24989,7 +24989,7 @@ export default [
   {
     "id": "s2peds-1747",
     "category": "Trichotillomania",
-    "q": "What treatment does p117 give for trichotillomania, skin-picking disorder and body dysmorphic disorder?",
+    "q": "What treatment does the source give for trichotillomania, skin-picking disorder and body dysmorphic disorder?",
     "a": "CBT can be attempted for all of them; otherwise antidepressants like SSRIs can be tried.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25000,7 +25000,7 @@ export default [
   {
     "id": "s2peds-1748",
     "category": "Child abuse findings",
-    "q": "Which fracture findings does p117 list as important child abuse clues?",
+    "q": "Which fracture findings does the source list as important child abuse clues?",
     "a": "Spiral fractures (rotational or twisting force) and posterior rib fractures (squeezing).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25015,7 +25015,7 @@ export default [
   {
     "id": "s2peds-1749",
     "category": "Child abuse findings",
-    "q": "Which burn findings does p117 list as child abuse clues?",
+    "q": "Which burn findings does the source list as child abuse clues?",
     "a": "Circular burns (cigarettes), and burns sparing the flexor regions (from being dipped in hot water, because the child flexes the limbs to reduce exposed surface).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25026,7 +25026,7 @@ export default [
   {
     "id": "s2peds-1750",
     "category": "Child abuse findings",
-    "q": "What eye and head findings does p117 list for abuse?",
+    "q": "What eye and head findings does the source list for abuse?",
     "a": "Retinal detachment or hemorrhages, and subdural hematoma (shaken baby syndrome).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25041,7 +25041,7 @@ export default [
   {
     "id": "s2peds-1751",
     "category": "Child abuse findings",
-    "q": "What does p117 say about avoidance of eye contact in a child with a history of meningitis?",
+    "q": "What does the source say about avoidance of eye contact in a child with a history of meningitis?",
     "a": "Avoidance of eye contact is a child abuse finding, but if they give a history of meningitis, think neurosensory hearing loss instead.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25052,7 +25052,7 @@ export default [
   {
     "id": "s2peds-1752",
     "category": "Developmental milestones",
-    "q": "How does p117 say the USMLE tests developmental milestones?",
+    "q": "How does the source say the USMLE tests developmental milestones?",
     "a": "It asks 'normal' or 'delayed' for gross motor, fine motor, verbal and social milestones.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25063,7 +25063,7 @@ export default [
   {
     "id": "s2peds-1753",
     "category": "Developmental milestones: gross motor",
-    "q": "At what age does a baby hold the head up unassisted, per p117?",
+    "q": "At what age does a baby hold the head up unassisted,?",
     "a": "Head up at 3 months (can support own head unassisted).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25078,7 +25078,7 @@ export default [
   {
     "id": "s2peds-1754",
     "category": "Developmental milestones: gross motor",
-    "q": "At what age does a baby turn over front to back, per p117?",
+    "q": "At what age does a baby turn over front to back,?",
     "a": "4-5 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25093,7 +25093,7 @@ export default [
   {
     "id": "s2peds-1755",
     "category": "Developmental milestones: gross motor",
-    "q": "At what age does a baby sit up, per p117?",
+    "q": "At what age does a baby sit up,?",
     "a": "6 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25108,7 +25108,7 @@ export default [
   {
     "id": "s2peds-1756",
     "category": "Developmental milestones: gross motor",
-    "q": "At what age does a baby crawl, per p117?",
+    "q": "At what age does a baby crawl,?",
     "a": "By 9 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25123,7 +25123,7 @@ export default [
   {
     "id": "s2peds-1757",
     "category": "Developmental milestones: gross motor",
-    "q": "At what age does a baby stand or walk alongside the sofa, per p118?",
+    "q": "At what age does a baby stand or walk alongside the sofa,?",
     "a": "10-11 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25138,7 +25138,7 @@ export default [
   {
     "id": "s2peds-1758",
     "category": "Developmental milestones: gross motor",
-    "q": "At what age does a child walk, per p118?",
+    "q": "At what age does a child walk,?",
     "a": "12-15 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25153,7 +25153,7 @@ export default [
   {
     "id": "s2peds-1759",
     "category": "Developmental milestones: fine motor",
-    "q": "At what age does the pincer grasp appear, per p118?",
+    "q": "At what age does the pincer grasp appear,?",
     "a": "9 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25164,7 +25164,7 @@ export default [
   {
     "id": "s2peds-1760",
     "category": "Developmental milestones: fine motor",
-    "q": "How many blocks does a child stack at ages 1, 2 and 3, per p118?",
+    "q": "How many blocks does a child stack at ages 1, 2 and 3,?",
     "a": "3 blocks at age 1, 6 blocks at age 2, 9 blocks at age 3.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25179,7 +25179,7 @@ export default [
   {
     "id": "s2peds-1761",
     "category": "Developmental milestones: fine motor",
-    "q": "At what age does a child copy a circle, a square and a triangle, per p118?",
+    "q": "At what age does a child copy a circle, a square and a triangle,?",
     "a": "Circle at 3-4 years, square at 4-5 years, triangle at 5-6 years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25194,7 +25194,7 @@ export default [
   {
     "id": "s2peds-1762",
     "category": "Developmental milestones: language",
-    "q": "What does p118 say about 'mama' and 'dada' and the child's own name at 1 year?",
+    "q": "What does the source say about 'mama' and 'dada' and the child's own name at 1 year?",
     "a": "'Mama' and 'dada' by 1 year, and the child recognizes their own name by 1 year.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25209,7 +25209,7 @@ export default [
   {
     "id": "s2peds-1763",
     "category": "Developmental milestones: language",
-    "q": "What sentence length does p118 give at age 2?",
+    "q": "What sentence length does the source give at age 2?",
     "a": "2-word sentences at age 2.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25224,7 +25224,7 @@ export default [
   {
     "id": "s2peds-1764",
     "category": "Developmental milestones: language",
-    "q": "How many words does p118 give at age 3?",
+    "q": "How many words does the source give at age 3?",
     "a": "900 words at age 3.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25235,7 +25235,7 @@ export default [
   {
     "id": "s2peds-1765",
     "category": "Developmental milestones: social",
-    "q": "When does the social smile appear per p118?",
+    "q": "When does the social smile appear?",
     "a": "2-3 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25250,7 +25250,7 @@ export default [
   {
     "id": "s2peds-1766",
     "category": "Developmental milestones: social",
-    "q": "When does stranger anxiety appear per p118?",
+    "q": "When does stranger anxiety appear?",
     "a": "6-9 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25265,7 +25265,7 @@ export default [
   {
     "id": "s2peds-1767",
     "category": "Developmental milestones: social",
-    "q": "When does separation anxiety appear per p118?",
+    "q": "When does separation anxiety appear?",
     "a": "9-14 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25276,7 +25276,7 @@ export default [
   {
     "id": "s2peds-1768",
     "category": "Developmental milestones: social",
-    "q": "What does p118 say about imaginary friends at ages 4-6, and why does the Peds shelf like it?",
+    "q": "What does the source say about imaginary friends at ages 4-6, and why does the Peds shelf like it?",
     "a": "Imaginary friends are normal at age 4-6. The Peds shelf likes this; it is not psychosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25287,7 +25287,7 @@ export default [
   {
     "id": "s2peds-1769",
     "category": "Developmental milestones: social",
-    "q": "What does p118 say about repeated questioning about death at ages 8-10?",
+    "q": "What does the source say about repeated questioning about death at ages 8-10?",
     "a": "It is normal at age 8-10.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25298,7 +25298,7 @@ export default [
   {
     "id": "s2peds-1770",
     "category": "Developmental milestones: social",
-    "q": "What play stages does p118 give by age?",
+    "q": "What play stages does the source give by age?",
     "a": "Parallel play at age 2-3 (children play side by side); cooperative play at age 3-4.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25309,7 +25309,7 @@ export default [
   {
     "id": "s2peds-1771",
     "category": "Enuresis",
-    "q": "What does p118 say about nocturnal enuresis up to age 5?",
+    "q": "What does the source say about nocturnal enuresis up to age 5?",
     "a": "Wetting the bed is normal on occasion up through age 5.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25320,7 +25320,7 @@ export default [
   {
     "id": "s2peds-1772",
     "category": "Enuresis",
-    "q": "What first step does p118 give to decrease enuresis recurrence, with its example vignette?",
+    "q": "What first step does the source give to decrease enuresis recurrence, with its example vignette?",
     "a": "Behavioral-science-type answers: decrease stressors and increase time spent with the child. Example: a child wets the bed after a sibling is diagnosed with ALL (a stressor).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25331,7 +25331,7 @@ export default [
   {
     "id": "s2peds-1773",
     "category": "Enuresis",
-    "q": "What does p118 give after the behavioral answers, and how does the star chart work?",
+    "q": "What does the source give after the behavioral answers, and how does the star chart work?",
     "a": "The star chart (positive reinforcement): the child gets a star on a chart every time he or she does not wet the bed, and after, for example, 10 stars gets an extra dessert.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25342,7 +25342,7 @@ export default [
   {
     "id": "s2peds-1774",
     "category": "Enuresis",
-    "q": "What does p118 say is the next best step if the star chart is not listed?",
+    "q": "What does the source say is the next best step if the star chart is not listed?",
     "a": "The enuresis alarm: a sensor in the child's underwear that detects moisture and sounds or vibrates to wake the child, encouraging toileting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25357,7 +25357,7 @@ export default [
   {
     "id": "s2peds-1775",
     "category": "Enuresis",
-    "q": "Which answers does p118 say are wrong on the USMLE for enuresis?",
+    "q": "Which answers does the source say are wrong on the USMLE for enuresis?",
     "a": "Imipramine, desmopressin and water deprivation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25372,7 +25372,7 @@ export default [
   {
     "id": "s2peds-1776",
     "category": "Encopresis",
-    "q": "How does p118 define encopresis and its normal age?",
+    "q": "How does the source define encopresis and its normal age?",
     "a": "Passing stool in the underwear. It is normal on occasion up through age 5.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25387,7 +25387,7 @@ export default [
   {
     "id": "s2peds-1777",
     "category": "Reye syndrome",
-    "q": "What causes Reye syndrome per p118?",
+    "q": "What causes Reye syndrome?",
     "a": "Acute encephalopathy and hepatic dysfunction from giving aspirin during a viral illness and/or fever.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25402,7 +25402,7 @@ export default [
   {
     "id": "s2peds-1778",
     "category": "Reye syndrome",
-    "q": "What age limit for aspirin does p118 give, and what mechanism?",
+    "q": "What age limit for aspirin does the source give, and what mechanism?",
     "a": "Aspirin should be avoided under age 12, and some sources say avoid it in teens as well. The mechanism is obscure and thought to be related to impairment of beta-oxidation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25417,7 +25417,7 @@ export default [
   {
     "id": "s2peds-1779",
     "category": "Anticholinergic delirium",
-    "q": "How does p118 describe anticholinergic delirium in children?",
+    "q": "How does the source describe anticholinergic delirium in children?",
     "a": "Anticholinergic medications can cause confusion and a delirium-like presentation. Children have increased susceptibility.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25432,7 +25432,7 @@ export default [
   {
     "id": "s2peds-1780",
     "category": "Anticholinergic delirium",
-    "q": "What vignette does p118 give for anticholinergic delirium vs Reye?",
+    "q": "What vignette does the source give for anticholinergic delirium vs Reye?",
     "a": "A kid was given an over-the-counter medication and now has low-grade fever and confusion. Flushed, dry, warm skin or enlarged pupils suggest anticholinergic delirium over Reye. It can be confused with Reye if the stem only says 'over-the-counter' medication.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25443,7 +25443,7 @@ export default [
   {
     "id": "s2peds-1781",
     "category": "Anticholinergic delirium",
-    "q": "Which drug class does p118 call notoriously anticholinergic?",
+    "q": "Which drug class does the source call notoriously anticholinergic?",
     "a": "First-generation H1-blockers, such as diphenhydramine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25458,7 +25458,7 @@ export default [
   {
     "id": "s2peds-1782",
     "category": "Dextromethorphan",
-    "q": "What does p118 say about dextromethorphan in excess in children?",
+    "q": "What does the source say about dextromethorphan in excess in children?",
     "a": "It can cause delirium and psychosis in children when taken in excessive amounts. It is an opioid that is an antitussive (cough suppressant).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25473,7 +25473,7 @@ export default [
   {
     "id": "s2peds-1783",
     "category": "Inhalants: glue",
-    "q": "What presentation does p119 give for glue inhalant abuse?",
+    "q": "What presentation does the source give for glue inhalant abuse?",
     "a": "Ataxia plus cognitive decline in a teenager. It sounds a bit like alcohol abuse, but the effects of alcohol do not occur this young.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25488,7 +25488,7 @@ export default [
   {
     "id": "s2peds-1784",
     "category": "Inhalants: paint",
-    "q": "What presentation does p119 give for paint inhalant abuse?",
+    "q": "What presentation does the source give for paint inhalant abuse?",
     "a": "Cognitive decline. The question can say a teenager is seen with gold or silver coloration around the nose and mouth.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25503,7 +25503,7 @@ export default [
   {
     "id": "s2peds-1785",
     "category": "Inhalants: butane",
-    "q": "What substances does p119 list for butane inhalant abuse, and what effect?",
+    "q": "What substances does the source list for butane inhalant abuse, and what effect?",
     "a": "Classically inhaling computer cleaner (dusters) or whipped cream bottles. Cognitive decline.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25518,7 +25518,7 @@ export default [
   {
     "id": "s2peds-1786",
     "category": "Inhalants: butane",
-    "q": "What vignette gives butane as the answer on p119?",
+    "q": "What vignette gives butane as the answer in the source?",
     "a": "A high schooler found on the floor in a school bathroom is brought to the ED sluggish, with pupils and vitals all normal. Answer: butane.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25529,7 +25529,7 @@ export default [
   {
     "id": "s2peds-1787",
     "category": "Caffeine",
-    "q": "How does p119 describe caffeine's place among drugs of abuse and its mechanism?",
+    "q": "How does the source describe caffeine's place among drugs of abuse and its mechanism?",
     "a": "The most common drug addiction in the world. Adenosine accumulates in the brain through the day and causes a sense of fatigue; caffeine blocks adenosine receptors, promoting wakefulness.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25544,7 +25544,7 @@ export default [
   {
     "id": "s2peds-1788",
     "category": "Caffeine",
-    "q": "What does caffeine intoxication cause on p119?",
+    "q": "What does caffeine intoxication cause in the source?",
     "a": "A sense of over-stimulation, panic and palpitations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25555,7 +25555,7 @@ export default [
   {
     "id": "s2peds-1789",
     "category": "Caffeine",
-    "q": "What does caffeine withdrawal cause on p119?",
+    "q": "What does caffeine withdrawal cause in the source?",
     "a": "Headache, a sense of depression, fatigue, anxiety (worry or doom) and inability to concentrate.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25570,7 +25570,7 @@ export default [
   {
     "id": "s2peds-1790",
     "category": "Smoking/vaping",
-    "q": "What does nicotine do and what does withdrawal cause, per p119?",
+    "q": "What does nicotine do and what does withdrawal cause,?",
     "a": "Nicotine can promote a sense of euphoria. Withdrawal can cause many symptoms, including anxiety, depression, difficulty concentrating and weight gain from increased appetite.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25581,7 +25581,7 @@ export default [
   {
     "id": "s2peds-1791",
     "category": "Marijuana",
-    "q": "What exam findings does p119 give for marijuana?",
+    "q": "What exam findings does the source give for marijuana?",
     "a": "Injection (redness) of the conjunctivae and dry mouth.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25596,7 +25596,7 @@ export default [
   {
     "id": "s2peds-1792",
     "category": "Marijuana",
-    "q": "What long-term risk does p119 give for marijuana?",
+    "q": "What long-term risk does the source give for marijuana?",
     "a": "Increased risk of developing psychosis and schizophrenia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25611,7 +25611,7 @@ export default [
   {
     "id": "s2peds-1793",
     "category": "Cocaine",
-    "q": "What eye and heart findings does p119 give for cocaine?",
+    "q": "What eye and heart findings does the source give for cocaine?",
     "a": "Mydriasis and tachycardia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25626,7 +25626,7 @@ export default [
   {
     "id": "s2peds-1794",
     "category": "Cocaine",
-    "q": "What cardiovascular complications does p119 give for cocaine?",
+    "q": "What cardiovascular complications does the source give for cocaine?",
     "a": "High BP causing aortic dissection, and chest pain from coronary vasospasm.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25641,7 +25641,7 @@ export default [
   {
     "id": "s2peds-1795",
     "category": "Cocaine",
-    "q": "What pregnancy complication does p119 give for cocaine?",
+    "q": "What pregnancy complication does the source give for cocaine?",
     "a": "Abruptio placentae in pregnant teens.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25652,7 +25652,7 @@ export default [
   {
     "id": "s2peds-1796",
     "category": "Cocaine",
-    "q": "What treatment for acute cocaine intoxication does p119 give?",
+    "q": "What treatment for acute cocaine intoxication does the source give?",
     "a": "Give a benzodiazepine and observe in the emergency department.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25667,7 +25667,7 @@ export default [
   {
     "id": "s2peds-1797",
     "category": "Amphetamine",
-    "q": "What findings does p119 give for amphetamine intoxication?",
+    "q": "What findings does the source give for amphetamine intoxication?",
     "a": "Mydriasis, agitation, insomnia (staying up all night), and possibly tactile hallucinations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25682,7 +25682,7 @@ export default [
   {
     "id": "s2peds-1798",
     "category": "Amphetamine",
-    "q": "What treatment for acute amphetamine intoxication does p119 give?",
+    "q": "What treatment for acute amphetamine intoxication does the source give?",
     "a": "Give a benzodiazepine and observe in the emergency department.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25697,7 +25697,7 @@ export default [
   {
     "id": "s2peds-1799",
     "category": "PCP",
-    "q": "What findings does p119 give for PCP intoxication?",
+    "q": "What findings does the source give for PCP intoxication?",
     "a": "Bellicosity or pugnacity (wanting to fight, aggression) and nystagmus with or without mydriasis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25712,7 +25712,7 @@ export default [
   {
     "id": "s2peds-1800",
     "category": "PCP",
-    "q": "What unusual NBME PCP presentation does p119 mention?",
+    "q": "What unusual NBME PCP presentation does the source mention?",
     "a": "One 2CK NBME question gives mutism and constricted pupils for PCP, with nothing about pugnacity, so this rare presentation is possible.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25727,7 +25727,7 @@ export default [
   {
     "id": "s2peds-1801",
     "category": "PCP",
-    "q": "What treatment for acute PCP intoxication does p119 give?",
+    "q": "What treatment for acute PCP intoxication does the source give?",
     "a": "Give a benzodiazepine and observe in the emergency department.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25742,7 +25742,7 @@ export default [
   {
     "id": "s2peds-1802",
     "category": "MDMA (ecstasy)",
-    "q": "What features does p119 give for MDMA?",
+    "q": "What features does the source give for MDMA?",
     "a": "Euphoria, heightened sensory perception, low-grade fever and bruxism (teeth grinding).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25757,7 +25757,7 @@ export default [
   {
     "id": "s2peds-1803",
     "category": "MDMA (ecstasy)",
-    "q": "What lab finding does p119 mention for MDMA, and the treatment?",
+    "q": "What lab finding does the source mention for MDMA, and the treatment?",
     "a": "An NBME question gives increased creatine kinase, so this is possible. For acute intoxication give a benzodiazepine and observe in the emergency department.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25768,7 +25768,7 @@ export default [
   {
     "id": "s2peds-1804",
     "category": "LSD (acid)",
-    "q": "What finding and treatment does p119 give for LSD?",
+    "q": "What finding and treatment does the source give for LSD?",
     "a": "Visual hallucinations. For acute intoxication give a benzodiazepine and observe in the emergency department.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25783,7 +25783,7 @@ export default [
   {
     "id": "s2peds-1805",
     "category": "MPTP",
-    "q": "What is MPTP and what does it cause, per p119?",
+    "q": "What is MPTP and what does it cause,?",
     "a": "Synthetic heroin that causes parkinsonism. It shows up on a 2CK form.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25798,7 +25798,7 @@ export default [
   {
     "id": "s2peds-1806",
     "category": "Heroin/opioids",
-    "q": "What examples and exam findings does p119 give for opioids?",
+    "q": "What examples and exam findings does the source give for opioids?",
     "a": "Examples are oxycodone or dextromethorphan. Findings are respiratory depression, constricted pupils and constipation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25813,7 +25813,7 @@ export default [
   {
     "id": "s2peds-1807",
     "category": "Heroin/opioids",
-    "q": "What drugs does p119 give for acute opioid toxicity and to reduce relapses?",
+    "q": "What drugs does the source give for acute opioid toxicity and to reduce relapses?",
     "a": "Naloxone (opioid receptor antagonist) for acute toxicity. Methadone (opioid receptor agonist) to decrease relapses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25824,7 +25824,7 @@ export default [
   {
     "id": "s2peds-1808",
     "category": "Benzodiazepines",
-    "q": "What features and antidote does p119 give for benzodiazepine toxicity (example diazepam)?",
+    "q": "What features and antidote does the source give for benzodiazepine toxicity (example diazepam)?",
     "a": "Respiratory depression. Flumazenil (a benzodiazepine receptor antagonist) treats acute toxicity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25839,7 +25839,7 @@ export default [
   {
     "id": "s2peds-1809",
     "category": "Barbiturates",
-    "q": "What does p119 give for barbiturates, and how does the vignette reach the answer?",
+    "q": "What does the source give for barbiturates, and how does the vignette reach the answer?",
     "a": "Respiratory depression. The question says naloxone and flumazenil had no effect, so you eliminate to get to barbiturates.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25854,7 +25854,7 @@ export default [
   {
     "id": "s2peds-1810",
     "category": "Acetaminophen",
-    "q": "What organ injury does p119 give for acetaminophen overdose, and what decontamination?",
+    "q": "What organ injury does the source give for acetaminophen overdose, and what decontamination?",
     "a": "Fulminant liver failure. Give activated charcoal if ingested within 1-2 hours.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25869,7 +25869,7 @@ export default [
   {
     "id": "s2peds-1811",
     "category": "Acetaminophen",
-    "q": "Why must N-acetylcysteine be given per p119?",
+    "q": "Why must N-acetylcysteine be given?",
     "a": "To regenerate reduced glutathione, preventing liver damage from NAPQI, the acetaminophen metabolite.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25884,7 +25884,7 @@ export default [
   {
     "id": "s2peds-1812",
     "category": "Aspirin",
-    "q": "What findings does p119 give for aspirin toxicity?",
+    "q": "What findings does the source give for aspirin toxicity?",
     "a": "Tinnitus and a mixed metabolic acidosis-respiratory alkalosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25895,7 +25895,7 @@ export default [
   {
     "id": "s2peds-1813",
     "category": "Aspirin",
-    "q": "How does p119 treat aspirin toxicity, and why?",
+    "q": "How does the source treat aspirin toxicity, and why?",
     "a": "Sodium bicarbonate, which increases excretion through urinary alkalinization.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25906,7 +25906,7 @@ export default [
   {
     "id": "s2peds-1814",
     "category": "Tricyclic antidepressant overdose",
-    "q": "What example and toxicity triad does p120 give for TCAs?",
+    "q": "What example and toxicity triad does the source give for TCAs?",
     "a": "Example: amitriptyline. Toxicity is the CCCs: coma, convulsions, cardiotoxicity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25921,7 +25921,7 @@ export default [
   {
     "id": "s2peds-1815",
     "category": "Tricyclic antidepressant overdose",
-    "q": "How does p120 say the USMLE presents TCA overdose with ECG changes?",
+    "q": "How does the source say the USMLE presents TCA overdose with ECG changes?",
     "a": "A big vague paragraph about a drug overdose where the last line says QT is prolonged. The answer is the TCA, because of its cardiotoxicity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25936,7 +25936,7 @@ export default [
   {
     "id": "s2peds-1816",
     "category": "Tricyclic antidepressant overdose",
-    "q": "What anticholinergic picture does p120 give for TCA overdose?",
+    "q": "What anticholinergic picture does the source give for TCA overdose?",
     "a": "Anticholinergic effects: delirium plus a hot, red, dry patient.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25951,7 +25951,7 @@ export default [
   {
     "id": "s2peds-1817",
     "category": "SSRIs",
-    "q": "Which drugs does p120 list as SSRIs, and what side effects?",
+    "q": "Which drugs does the source list as SSRIs, and what side effects?",
     "a": "Fluoxetine, escitalopram, sertraline and others. They cause sexual dysfunction (anorgasmia) and sleep disturbance.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25966,7 +25966,7 @@ export default [
   {
     "id": "s2peds-1818",
     "category": "SSRIs",
-    "q": "What does p120 say anorgasmia makes SSRIs useful for?",
+    "q": "What does the source say anorgasmia makes SSRIs useful for?",
     "a": "Treatment of premature ejaculation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25981,7 +25981,7 @@ export default [
   {
     "id": "s2peds-1819",
     "category": "SSRIs",
-    "q": "Which interactions does p120 warn about with SSRIs?",
+    "q": "Which interactions does the source warn about with SSRIs?",
     "a": "Do not combine with monoamine oxidase inhibitors or St John wort, because this can cause serotonin syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -25992,7 +25992,7 @@ export default [
   {
     "id": "s2peds-1820",
     "category": "SSRIs",
-    "q": "What SSRI-specific side effects does p120 list, and how does it rate their exam value?",
+    "q": "What SSRI-specific side effects does the source list, and how does it rate their exam value?",
     "a": "Sertraline is more likely to cause diarrhea; fluoxetine is stimulating and more likely to cause insomnia; citalopram can prolong the QT interval at higher doses. The source says the USMLE does not test these.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26007,7 +26007,7 @@ export default [
   {
     "id": "s2peds-1821",
     "category": "SSRIs",
-    "q": "What non-depression uses does p120 give for SSRIs?",
+    "q": "What non-depression uses does the source give for SSRIs?",
     "a": "A variety of psychiatric conditions beyond depression, for example fibromyalgia and OCD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26022,7 +26022,7 @@ export default [
   {
     "id": "s2peds-1822",
     "category": "SSRIs",
-    "q": "How long does an SSRI take to work on p120, and what is the stepwise plan if it fails?",
+    "q": "How long does an SSRI take to work in the source, and what is the stepwise plan if it fails?",
     "a": "4-6 weeks. If it is not working after that, first increase the dose; if that fails, switch to a different SSRI; then switch to a different class.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26037,7 +26037,7 @@ export default [
   {
     "id": "s2peds-1823",
     "category": "SNRIs",
-    "q": "Which drugs does p120 list as SNRIs, and what do they block?",
+    "q": "Which drugs does the source list as SNRIs, and what do they block?",
     "a": "Desvenlafaxine, duloxetine and others. They block reuptake of both serotonin and norepinephrine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26048,7 +26048,7 @@ export default [
   {
     "id": "s2peds-1824",
     "category": "SNRIs",
-    "q": "What blood-pressure effect does p120 give for SNRIs?",
+    "q": "What blood-pressure effect does the source give for SNRIs?",
     "a": "They can increase blood pressure at higher doses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26063,7 +26063,7 @@ export default [
   {
     "id": "s2peds-1825",
     "category": "Tricyclic antidepressants",
-    "q": "Which drugs does p120 list as TCAs, and what neuropathic pain use?",
+    "q": "Which drugs does the source list as TCAs, and what neuropathic pain use?",
     "a": "Amitriptyline, nortriptyline, clomipramine, doxepin and others. They can be used for neuropathic pain (for example from trauma); gabapentin is also frequently used.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26078,7 +26078,7 @@ export default [
   {
     "id": "s2peds-1826",
     "category": "Tricyclic antidepressants",
-    "q": "What side effects and toxicity does p120 give for TCAs?",
+    "q": "What side effects and toxicity does the source give for TCAs?",
     "a": "Nasty anticholinergic side effects (anti-DUMBBELSS; see HY Neuro PDF). Toxicity is coma, convulsions and cardiotoxicity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26093,7 +26093,7 @@ export default [
   {
     "id": "s2peds-1827",
     "category": "Tricyclic antidepressants",
-    "q": "What does p120 say if the question only mentions prolonged QT in a patient on an antidepressant?",
+    "q": "What does the source say if the question only mentions prolonged QT in a patient on an antidepressant?",
     "a": "The answer is the TCA, since TCAs are cardiotoxic.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26104,7 +26104,7 @@ export default [
   {
     "id": "s2peds-1828",
     "category": "Tricyclic antidepressants",
-    "q": "What does p120 say about imipramine for nocturnal enuresis?",
+    "q": "What does the source say about imipramine for nocturnal enuresis?",
     "a": "TCAs such as imipramine for nocturnal enuresis are wrong on the USMLE.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26115,7 +26115,7 @@ export default [
   {
     "id": "s2peds-1829",
     "category": "Tricyclic antidepressants",
-    "q": "Why does p120 say doxepin shows up on a 2CK form?",
+    "q": "Why does the source say doxepin shows up on a 2CK form?",
     "a": "The question rides on knowing doxepin is a TCA and so the only listed drug that causes anticholinergic effects. Students miss it and then ask what doxepin is.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26130,7 +26130,7 @@ export default [
   {
     "id": "s2peds-1830",
     "category": "MAOIs",
-    "q": "Which drugs does p120 list as MAOIs, and why are they avoided first-line?",
+    "q": "Which drugs does the source list as MAOIs, and why are they avoided first-line?",
     "a": "Phenelzine and tranylcypromine. They are avoided first-line the overwhelming majority of the time because of increased risk of serotonin syndrome, which can occur alone or when started too soon after stopping an SSRI.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26145,7 +26145,7 @@ export default [
   {
     "id": "s2peds-1831",
     "category": "Bupropion",
-    "q": "What is bupropion's mechanism per p120?",
+    "q": "What is bupropion's mechanism?",
     "a": "A dopamine and norepinephrine reuptake inhibitor with antidepressant effects.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26156,7 +26156,7 @@ export default [
   {
     "id": "s2peds-1832",
     "category": "Bupropion",
-    "q": "How does bupropion disincentivize smoking per p120?",
+    "q": "How does bupropion disincentivize smoking?",
     "a": "It antagonizes nicotinic receptors, so smoking does not produce rewarding effects.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26171,7 +26171,7 @@ export default [
   {
     "id": "s2peds-1833",
     "category": "Bupropion",
-    "q": "What seizure and eating-disorder warning does p120 give for bupropion?",
+    "q": "What seizure and eating-disorder warning does the source give for bupropion?",
     "a": "It lowers the seizure threshold. Do not give it to patients with eating disorders (electrolyte abnormalities increase seizure risk).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26182,7 +26182,7 @@ export default [
   {
     "id": "s2peds-1834",
     "category": "Bupropion",
-    "q": "Does bupropion cause sexual side effects per p120?",
+    "q": "Does bupropion cause sexual side effects?",
     "a": "No. Unlike SSRIs, it does not cause sexual side effects.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26193,7 +26193,7 @@ export default [
   {
     "id": "s2peds-1835",
     "category": "Mirtazapine",
-    "q": "What is mirtazapine on p120?",
+    "q": "What is mirtazapine in the source?",
     "a": "An alpha-2 antagonist that stimulates appetite and is used for patients with depression and anorexia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26208,7 +26208,7 @@ export default [
   {
     "id": "s2peds-1836",
     "category": "Trazodone",
-    "q": "What class is trazodone on p120?",
+    "q": "What class is trazodone in the source?",
     "a": "A serotonin antagonist and reuptake inhibitor (SARI).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26223,7 +26223,7 @@ export default [
   {
     "id": "s2peds-1837",
     "category": "Trazodone",
-    "q": "What is trazodone frequently used for on p120, and what risk?",
+    "q": "What is trazodone frequently used for in the source, and what risk?",
     "a": "Used for depression, but frequently for insomnia because of strong sedative effects. It can cause serotonin syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26238,7 +26238,7 @@ export default [
   {
     "id": "s2peds-1838",
     "category": "Extraocular nerve palsies",
-    "q": "Per the p121 figure, what does eye A show and which lesion is it?",
+    "q": "Per the source figure, what does eye A show and which lesion is it?",
     "a": "A CN III (oculomotor) lesion, presenting as a down-and-out eye.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26255,7 +26255,7 @@ export default [
   {
     "id": "s2peds-1839",
     "category": "Extraocular nerve palsies",
-    "q": "Per the p121 figure, what does eye B show and which lesion is it?",
+    "q": "Per the source figure, what does eye B show and which lesion is it?",
     "a": "A CN IV (trochlear) lesion, presenting as upward gaze. The patient tilts the head toward the unaffected side.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26272,7 +26272,7 @@ export default [
   {
     "id": "s2peds-1840",
     "category": "Extraocular nerve palsies",
-    "q": "Per the p121 figure, what does eye C show and which lesion is it?",
+    "q": "Per the source figure, what does eye C show and which lesion is it?",
     "a": "A CN VI (abducens) lesion, with a medially directed eye.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26289,7 +26289,7 @@ export default [
   {
     "id": "s2peds-1841",
     "category": "Extraocular nerve palsies",
-    "q": "Which way does the patient tilt the head in a CN IV lesion on p121?",
+    "q": "Which way does the patient tilt the head in a CN IV lesion in the source?",
     "a": "Toward the unaffected side.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26304,7 +26304,7 @@ export default [
   {
     "id": "s2peds-1842",
     "category": "Orbital cellulitis",
-    "q": "How does p121 define orbital cellulitis, and what is the most common cause?",
+    "q": "How does the source define orbital cellulitis, and what is the most common cause?",
     "a": "Infection involving tissues posterior to the orbital septum; Staph aureus is the most common cause.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26321,7 +26321,7 @@ export default [
   {
     "id": "s2peds-1843",
     "category": "Orbital cellulitis",
-    "q": "How does p121 say orbital cellulitis usually arises?",
+    "q": "How does the source say orbital cellulitis usually arises?",
     "a": "It is a rare sequela of an adjacent infection, for example from the paranasal sinus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26332,7 +26332,7 @@ export default [
   {
     "id": "s2peds-1844",
     "category": "Orbital cellulitis",
-    "q": "How urgent is orbital cellulitis and what treatment does p121 give?",
+    "q": "How urgent is orbital cellulitis and what treatment does the source give?",
     "a": "It is a medical emergency and requires IV antibiotics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26347,7 +26347,7 @@ export default [
   {
     "id": "s2peds-1845",
     "category": "Orbital cellulitis",
-    "q": "How does p121 describe preseptal cellulitis relative to orbital cellulitis?",
+    "q": "How does the source describe preseptal cellulitis relative to orbital cellulitis?",
     "a": "A less severe version of orbital cellulitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26362,7 +26362,7 @@ export default [
   {
     "id": "s2peds-1846",
     "category": "Hordeolum (stye)",
-    "q": "How does p121 describe a hordeolum (stye)?",
+    "q": "How does the source describe a hordeolum (stye)?",
     "a": "A painful bump on the eyelid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26377,7 +26377,7 @@ export default [
   {
     "id": "s2peds-1847",
     "category": "Hordeolum (stye)",
-    "q": "What causes a hordeolum and how is it treated per p121?",
+    "q": "What causes a hordeolum and how is it treated?",
     "a": "A Staph aureus infection of a sweat gland or oil duct. Treat with warm compresses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26392,7 +26392,7 @@ export default [
   {
     "id": "s2peds-1848",
     "category": "Hordeolum (stye)",
-    "q": "At what age can a hordeolum occur per p121?",
+    "q": "At what age can a hordeolum occur?",
     "a": "Any age.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26403,7 +26403,7 @@ export default [
   {
     "id": "s2peds-1849",
     "category": "Hordeolum (stye)",
-    "q": "What does the p122 photo at the top of the page (continuing the hordeolum entry) show?",
+    "q": "What does the source photo at the top of the page (continuing the hordeolum entry) show?",
     "a": "A hordeolum (stye): a painful red bump at the eyelid margin of a child's eye.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26416,7 +26416,7 @@ export default [
   {
     "id": "s2peds-1850",
     "category": "Chalazion",
-    "q": "How does p122 describe a chalazion?",
+    "q": "How does the source describe a chalazion?",
     "a": "A painless bump on the eyelid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26433,7 +26433,7 @@ export default [
   {
     "id": "s2peds-1851",
     "category": "Chalazion",
-    "q": "What causes a chalazion and is it an infection per p122?",
+    "q": "What causes a chalazion and is it an infection?",
     "a": "A blocked oil duct. It is not an infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26448,7 +26448,7 @@ export default [
   {
     "id": "s2peds-1852",
     "category": "Chalazion",
-    "q": "How is a chalazion treated per p122?",
+    "q": "How is a chalazion treated?",
     "a": "Warm compresses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26463,7 +26463,7 @@ export default [
   {
     "id": "s2peds-1853",
     "category": "Chalazion",
-    "q": "Chalazion vs hordeolum on p121-122: which is painless and non-infectious, and which is painful and a Staph aureus infection?",
+    "q": "Chalazion vs hordeolum in the source: which is painless and non-infectious, and which is painful and a Staph aureus infection?",
     "a": "Chalazion is painless and not an infection (blocked oil duct). Hordeolum (stye) is painful and a Staph aureus infection. Both are treated with warm compresses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26474,7 +26474,7 @@ export default [
   {
     "id": "s2peds-1854",
     "category": "Retinoblastoma",
-    "q": "What finding does the p122 retinoblastoma photo show?",
+    "q": "What finding does the source retinoblastoma photo show?",
     "a": "Leukocoria: an abnormal white appearance of the eye on light reflex, which should normally look red.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26491,7 +26491,7 @@ export default [
   {
     "id": "s2peds-1855",
     "category": "Retinoblastoma",
-    "q": "Which gene is mutated in retinoblastoma and what extra cancer risk does p122 highlight?",
+    "q": "Which gene is mutated in retinoblastoma and what extra cancer risk does the source highlight?",
     "a": "RB gene mutations cause congenital retinoblastoma and also raise the risk of osteosarcoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26506,7 +26506,7 @@ export default [
   {
     "id": "s2peds-1856",
     "category": "Retinoblastoma",
-    "q": "Classic p122 question: a child shows leukocoria. What is the child at risk for later?",
+    "q": "Classic the source question: a child shows leukocoria. What is the child at risk for later?",
     "a": "Osteosarcoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26521,7 +26521,7 @@ export default [
   {
     "id": "s2peds-1857",
     "category": "Strabismus",
-    "q": "How does p122 define strabismus?",
+    "q": "How does the source define strabismus?",
     "a": "Misalignment of the eyes due to weakened muscles in one eye; the source calls it a lazy eye.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26536,7 +26536,7 @@ export default [
   {
     "id": "s2peds-1858",
     "category": "Strabismus",
-    "q": "What four types of strabismus does the p123 figure show, and how does each eye turn?",
+    "q": "What four types of strabismus does the source figure show, and how does each eye turn?",
     "a": "Esotropia: inward. Exotropia: outward. Hypotropia: downward. Hypertropia: upward.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26549,7 +26549,7 @@ export default [
   {
     "id": "s2peds-1859",
     "category": "Strabismus",
-    "q": "What can untreated strabismus lead to per p123, and what is that condition?",
+    "q": "What can untreated strabismus lead to, and what is that condition?",
     "a": "Amblyopia: reduced visual acuity in the weak eye because the brain favors the stronger eye during development.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26564,7 +26564,7 @@ export default [
   {
     "id": "s2peds-1860",
     "category": "Strabismus",
-    "q": "Is strabismus itself reduced vision in the weak eye per p123?",
+    "q": "Is strabismus itself reduced vision in the weak eye?",
     "a": "No. Strabismus is not reduced vision. It precedes amblyopia if untreated.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26575,7 +26575,7 @@ export default [
   {
     "id": "s2peds-1861",
     "category": "Strabismus",
-    "q": "How does p123 say to prevent amblyopia?",
+    "q": "How does the source say to prevent amblyopia?",
     "a": "Eye exercises and/or penalization of the strong eye (patching).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26590,7 +26590,7 @@ export default [
   {
     "id": "s2peds-1862",
     "category": "Pediatric cataracts",
-    "q": "How does p123 describe a cataract?",
+    "q": "How does the source describe a cataract?",
     "a": "Progressive clouding or opacification of the lens, causing blurred or hazy vision, worse in bright light, with increased glare sensitivity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26603,7 +26603,7 @@ export default [
   {
     "id": "s2peds-1863",
     "category": "Pediatric cataracts",
-    "q": "Which pediatric conditions does p123 list as causes of cataracts?",
+    "q": "Which pediatric conditions does the source list as causes of cataracts?",
     "a": "Congenital rubella, congenital syphilis and NF2.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26618,7 +26618,7 @@ export default [
   {
     "id": "s2peds-1864",
     "category": "Osteogenesis imperfecta",
-    "q": "Which gene product is mutated in osteogenesis imperfecta, and what eye finding does p123 show?",
+    "q": "Which gene product is mutated in osteogenesis imperfecta, and what eye finding does the source show?",
     "a": "Collagen I. Very blue sclerae.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26635,7 +26635,7 @@ export default [
   {
     "id": "s2peds-1865",
     "category": "Alport syndrome",
-    "q": "What mutation and inheritance does p123 give for Alport syndrome?",
+    "q": "What mutation and inheritance does the source give for Alport syndrome?",
     "a": "Type IV collagen mutation; X-linked recessive.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26650,7 +26650,7 @@ export default [
   {
     "id": "s2peds-1866",
     "category": "Alport syndrome",
-    "q": "USMLE pattern per p123: which diagnosis fits a male with eye and/or ear problems plus red urine?",
+    "q": "USMLE pattern: which diagnosis fits a male with eye and/or ear problems plus red urine?",
     "a": "Alport syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26665,7 +26665,7 @@ export default [
   {
     "id": "s2peds-1867",
     "category": "Marfan syndrome",
-    "q": "What does p123 say about Marfan syndrome (gene, inheritance, eye finding)?",
+    "q": "What does the source say about Marfan syndrome (gene, inheritance, eye finding)?",
     "a": "Fibrillin mutation; autosomal dominant; chromosome 15; can cause lens dislocation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26680,7 +26680,7 @@ export default [
   {
     "id": "s2peds-1868",
     "category": "Homocystinuria",
-    "q": "Which school-age picture does p123 link to homocystinuria?",
+    "q": "Which school-age picture does the source link to homocystinuria?",
     "a": "A Marfanoid child with thromboses, plus or minus lens dislocation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26695,7 +26695,7 @@ export default [
   {
     "id": "s2peds-1869",
     "category": "Subconjunctival hemorrhage",
-    "q": "What does the p124 photo show, and how does p124 describe it as a USMLE spot diagnosis?",
+    "q": "What does the source photo show, and how does the source describe it as a USMLE spot diagnosis?",
     "a": "A subconjunctival hemorrhage: a bright red patch on the white of the eye. A buzzy image and spot diagnosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26712,7 +26712,7 @@ export default [
   {
     "id": "s2peds-1870",
     "category": "Subconjunctival hemorrhage",
-    "q": "What causes a subconjunctival hemorrhage per p124?",
+    "q": "What causes a subconjunctival hemorrhage?",
     "a": "Bursting of superficial conjunctival vessels.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26723,7 +26723,7 @@ export default [
   {
     "id": "s2peds-1871",
     "category": "Subconjunctival hemorrhage",
-    "q": "What is the course of a subconjunctival hemorrhage per p124?",
+    "q": "What is the course of a subconjunctival hemorrhage?",
     "a": "It looks sinister but self-resolves uneventfully.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26738,7 +26738,7 @@ export default [
   {
     "id": "s2peds-1872",
     "category": "Subconjunctival hemorrhage",
-    "q": "What can trigger a subconjunctival hemorrhage per p124?",
+    "q": "What can trigger a subconjunctival hemorrhage?",
     "a": "Trauma or brief periods of increased pressure, such as severe vomiting or coughing.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26753,7 +26753,7 @@ export default [
   {
     "id": "s2peds-1873",
     "category": "Iris abnormalities",
-    "q": "Which iris abnormality is part of the WAGR complex per p124, and what does WAGR stand for?",
+    "q": "Which iris abnormality is part of the WAGR complex, and what does WAGR stand for?",
     "a": "Aniridia. WAGR: Wilms tumor, Aniridia, Genitourinary anomalies, Retardation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26770,7 +26770,7 @@ export default [
   {
     "id": "s2peds-1874",
     "category": "Iris abnormalities",
-    "q": "Which gene does p124 link to the WAGR complex?",
+    "q": "Which gene does the source link to the WAGR complex?",
     "a": "WT1.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26785,7 +26785,7 @@ export default [
   {
     "id": "s2peds-1875",
     "category": "Iris abnormalities",
-    "q": "What does coloboma mean per p124, and which syndrome is it seen in?",
+    "q": "What does coloboma mean, and which syndrome is it seen in?",
     "a": "A hole in the eye (keyhole pupil in the photo). Seen in CHARGE syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26802,7 +26802,7 @@ export default [
   {
     "id": "s2peds-1876",
     "category": "Iris abnormalities",
-    "q": "What does CHARGE stand for per p124?",
+    "q": "What does CHARGE stand for?",
     "a": "Coloboma, Heart defects, Atresia of the choanae, Retardation of growth and development, Genitourinary anomalies, Ear defects.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26817,7 +26817,7 @@ export default [
   {
     "id": "s2peds-1877",
     "category": "Iris abnormalities",
-    "q": "What iris findings can albinism cause per p124?",
+    "q": "What iris findings can albinism cause?",
     "a": "Pale blue or pink irides.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26832,8 +26832,8 @@ export default [
   {
     "id": "s2peds-1878",
     "category": "Iris abnormalities",
-    "q": "What does the p125 photo at the top of the page (continuing the albinism entry) show?",
-    "a": "An albinism eye with a pink-red iris, matching the p124 point that albinism can cause pale blue or pink irides.",
+    "q": "What does the source photo at the top of the page (continuing the albinism entry) show?",
+    "a": "An albinism eye with a pink-red iris, matching the source point that albinism can cause pale blue or pink irides.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 125,
@@ -26845,7 +26845,7 @@ export default [
   {
     "id": "s2peds-1879",
     "category": "Lisch nodules",
-    "q": "What are Lisch nodules and in which condition does p125 say they occur?",
+    "q": "What are Lisch nodules and in which condition does the source say they occur?",
     "a": "Iris hamartomas seen in NF1.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26862,7 +26862,7 @@ export default [
   {
     "id": "s2peds-1880",
     "category": "Neurofibromatosis type 1",
-    "q": "Which skin findings of NF1 does p125 list?",
+    "q": "Which skin findings of NF1 does the source list?",
     "a": "Axillary and groin freckling, café au lait spots (hyperpigmented macules) and neurofibromas (nodules under the skin).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26877,7 +26877,7 @@ export default [
   {
     "id": "s2peds-1881",
     "category": "Neurofibromatosis type 1",
-    "q": "Which CN II tumor does p125 list for NF1?",
+    "q": "Which CN II tumor does the source list for NF1?",
     "a": "Optic glioma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26892,7 +26892,7 @@ export default [
   {
     "id": "s2peds-1882",
     "category": "Neurofibromatosis type 1",
-    "q": "Which other tumors does p125 list with NF1?",
+    "q": "Which other tumors does the source list with NF1?",
     "a": "Pheochromocytoma, and brain cancers such as ependymoma and oligodendroglioma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26907,7 +26907,7 @@ export default [
   {
     "id": "s2peds-1883",
     "category": "Brushfield spots",
-    "q": "What are Brushfield spots and in which condition does p125 say they occur?",
+    "q": "What are Brushfield spots and in which condition does the source say they occur?",
     "a": "Connective tissue deposits within the irides of some patients with Down syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26924,7 +26924,7 @@ export default [
   {
     "id": "s2peds-1884",
     "category": "Brushfield spots",
-    "q": "Lisch nodules vs Brushfield spots on p125: which syndrome goes with each?",
+    "q": "Lisch nodules vs Brushfield spots in the source: which syndrome goes with each?",
     "a": "Lisch nodules (iris hamartomas): NF1. Brushfield spots (iris connective tissue deposits): Down syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26935,7 +26935,7 @@ export default [
   {
     "id": "s2peds-1885",
     "category": "Ophthalmia neonatorum",
-    "q": "What is ophthalmia neonatorum per p126?",
+    "q": "What is ophthalmia neonatorum?",
     "a": "A fancy way of saying neonatal conjunctivitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26950,7 +26950,7 @@ export default [
   {
     "id": "s2peds-1886",
     "category": "Ophthalmia neonatorum",
-    "q": "Which organism causes chlamydial ophthalmia neonatorum per p126, and when does it present?",
+    "q": "Which organism causes chlamydial ophthalmia neonatorum, and when does it present?",
     "a": "C. trachomatis D-K, usually more than 1 week after birth.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26965,7 +26965,7 @@ export default [
   {
     "id": "s2peds-1887",
     "category": "Ophthalmia neonatorum",
-    "q": "What can chlamydial conjunctivitis lead to per p126, and why the lymphocytic shift?",
+    "q": "What can chlamydial conjunctivitis lead to, and why the lymphocytic shift?",
     "a": "Pneumonia with a lymphocytic shift, because chlamydia is obligate intracellular and needs cell-mediated immunity (lymphocytes) rather than neutrophils.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26980,7 +26980,7 @@ export default [
   {
     "id": "s2peds-1888",
     "category": "Ophthalmia neonatorum",
-    "q": "How does p126 say chlamydia reaches the lungs?",
+    "q": "How does the source say chlamydia reaches the lungs?",
     "a": "By draining through the nasolacrimal duct down to the lungs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -26991,7 +26991,7 @@ export default [
   {
     "id": "s2peds-1889",
     "category": "Ophthalmia neonatorum",
-    "q": "How is chlamydial neonatal conjunctivitis treated per p126?",
+    "q": "How is chlamydial neonatal conjunctivitis treated?",
     "a": "Oral erythromycin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27006,7 +27006,7 @@ export default [
   {
     "id": "s2peds-1890",
     "category": "Ophthalmia neonatorum",
-    "q": "What is chlamydia prophylaxis per p126?",
+    "q": "What is chlamydia prophylaxis?",
     "a": "Treating the mother during pregnancy if she has chlamydia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27021,7 +27021,7 @@ export default [
   {
     "id": "s2peds-1891",
     "category": "Ophthalmia neonatorum",
-    "q": "Why is topical erythromycin at birth the wrong answer for a 3-week-old with wheezes, crackles and fever after chlamydial conjunctivitis, per p126?",
+    "q": "Why is topical erythromycin at birth the wrong answer for a 3-week-old with wheezes, crackles and fever after chlamydial conjunctivitis,?",
     "a": "Topical therapy will not cover organisms that have already entered the nasolacrimal duct, so oral erythromycin is needed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27036,7 +27036,7 @@ export default [
   {
     "id": "s2peds-1892",
     "category": "Ophthalmia neonatorum",
-    "q": "When does gonococcal conjunctivitis present and what is the discharge, per p126?",
+    "q": "When does gonococcal conjunctivitis present and what is the discharge,?",
     "a": "In the first week of life, with yellow discharge from one or both eyes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27047,7 +27047,7 @@ export default [
   {
     "id": "s2peds-1893",
     "category": "Ophthalmia neonatorum",
-    "q": "Why does p126 say a chlamydia vignette will mention pneumonia?",
+    "q": "Why does the source say a chlamydia vignette will mention pneumonia?",
     "a": "Chlamydial ophthalmia neonatorum is always tied to subsequent pneumonia, which helps distinguish it from first-week gonococcal conjunctivitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27058,7 +27058,7 @@ export default [
   {
     "id": "s2peds-1894",
     "category": "Ophthalmia neonatorum",
-    "q": "What are gonococcal prophylaxis and treatment per p126?",
+    "q": "What are gonococcal prophylaxis and treatment?",
     "a": "Prophylaxis: erythromycin ointment. Treatment: IM third-generation cephalosporin, usually cefotaxime in peds.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27073,7 +27073,7 @@ export default [
   {
     "id": "s2peds-1895",
     "category": "Ophthalmia neonatorum",
-    "q": "What causes chemical conjunctivitis in neonates per p126?",
+    "q": "What causes chemical conjunctivitis in neonates?",
     "a": "Silver nitrate eyedrops, classically given for gonococcal prophylaxis, since replaced by erythromycin ointment.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27088,7 +27088,7 @@ export default [
   {
     "id": "s2peds-1896",
     "category": "Conjunctivitis",
-    "q": "What is the most likely diagnosis of conjunctivitis in school-age kids and adults per p126, and its cause?",
+    "q": "What is the most likely diagnosis of conjunctivitis in school-age kids and adults, and its cause?",
     "a": "Viral conjunctivitis, caused by adenovirus (a DNA virus).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27103,7 +27103,7 @@ export default [
   {
     "id": "s2peds-1897",
     "category": "Conjunctivitis",
-    "q": "How does viral conjunctivitis present and how is it treated per p126?",
+    "q": "How does viral conjunctivitis present and how is it treated?",
     "a": "Teary eye, unilateral or bilateral, itchy or not. Treatment is supportive with saline rinse.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27118,7 +27118,7 @@ export default [
   {
     "id": "s2peds-1898",
     "category": "Conjunctivitis",
-    "q": "Which exam finding is buzzy for allergic conjunctivitis per p126?",
+    "q": "Which exam finding is buzzy for allergic conjunctivitis?",
     "a": "Cobblestoning of the tarsal conjunctiva (also described in the nasal mucosa for allergic rhinitis).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27129,7 +27129,7 @@ export default [
   {
     "id": "s2peds-1899",
     "category": "Conjunctivitis",
-    "q": "Must allergic conjunctivitis be bilateral or itchy per p126?",
+    "q": "Must allergic conjunctivitis be bilateral or itchy?",
     "a": "No. It need not be bilateral and does not have to be itchy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27144,7 +27144,7 @@ export default [
   {
     "id": "s2peds-1900",
     "category": "Brachial plexus injuries",
-    "q": "How can neonatal brachial plexus injuries occur per p127, and what else can cause them?",
+    "q": "How can neonatal brachial plexus injuries occur, and what else can cause them?",
     "a": "Breech or traumatic labor in neonates. Also injuries such as grabbing a tree branch while falling.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27159,7 +27159,7 @@ export default [
   {
     "id": "s2peds-1901",
     "category": "Brachial plexus injuries",
-    "q": "Which nerve roots are injured in Erb-Duchenne palsy per p127?",
+    "q": "Which nerve roots are injured in Erb-Duchenne palsy?",
     "a": "Upper brachial plexus, C5-C6.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27174,7 +27174,7 @@ export default [
   {
     "id": "s2peds-1902",
     "category": "Brachial plexus injuries",
-    "q": "What may the exam answer be instead of Erb-Duchenne per p127?",
+    "q": "What may the exam answer be instead of Erb-Duchenne?",
     "a": "Upper brachial plexus, when asked what is injured.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27185,7 +27185,7 @@ export default [
   {
     "id": "s2peds-1903",
     "category": "Brachial plexus injuries",
-    "q": "What posture does the p127 waiter's tip figure show in Erb palsy?",
+    "q": "What posture does the source waiter's tip figure show in Erb palsy?",
     "a": "Arm adducted, pronated, wrist flexed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27202,7 +27202,7 @@ export default [
   {
     "id": "s2peds-1904",
     "category": "Brachial plexus injuries",
-    "q": "Which nerve roots are injured in Klumpke palsy per p127?",
+    "q": "Which nerve roots are injured in Klumpke palsy?",
     "a": "Lower brachial plexus, C8-T1.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27217,7 +27217,7 @@ export default [
   {
     "id": "s2peds-1905",
     "category": "Brachial plexus injuries",
-    "q": "What may the exam answer be instead of Klumpke per p127?",
+    "q": "What may the exam answer be instead of Klumpke?",
     "a": "Lower brachial plexus, when asked what is injured.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27228,7 +27228,7 @@ export default [
   {
     "id": "s2peds-1906",
     "category": "Brachial plexus injuries",
-    "q": "What hand deformity does the p127 Klumpke figure show?",
+    "q": "What hand deformity does the source Klumpke figure show?",
     "a": "A claw hand.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27245,7 +27245,7 @@ export default [
   {
     "id": "s2peds-1907",
     "category": "Rickets",
-    "q": "How does p127 define rickets vs osteomalacia?",
+    "q": "How does the source define rickets vs osteomalacia?",
     "a": "Rickets is vitamin D deficiency in children. Osteomalacia is vitamin D deficiency in adults.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27260,7 +27260,7 @@ export default [
   {
     "id": "s2peds-1908",
     "category": "Rickets",
-    "q": "Which three rickets findings does p127 list?",
+    "q": "Which three rickets findings does the source list?",
     "a": "Craniotabes (soft skull), rachitic rosary (bony knobs at the costochondral junctions) and genu varum (bowing of the tibias).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27271,7 +27271,7 @@ export default [
   {
     "id": "s2peds-1909",
     "category": "Rickets",
-    "q": "What does activated vitamin D (1,25) do for bone per p127?",
+    "q": "What does activated vitamin D (1,25) do for bone?",
     "a": "It is needed to convert unmineralized osteoid into mineralized hydroxyapatite, hardening bones.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27286,7 +27286,7 @@ export default [
   {
     "id": "s2peds-1910",
     "category": "Rickets",
-    "q": "What histologic finding is shared by rickets and osteomalacia per p127?",
+    "q": "What histologic finding is shared by rickets and osteomalacia?",
     "a": "Increased unmineralized osteoid, or deficient mineralization of osteoid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27297,7 +27297,7 @@ export default [
   {
     "id": "s2peds-1911",
     "category": "Rickets",
-    "q": "Which USMLE cause of vitamin D deficiency does p127 stress?",
+    "q": "Which USMLE cause of vitamin D deficiency does the source stress?",
     "a": "Impaired intestinal malabsorption, such as CF or Crohn. For CF the answer may be written as exocrine pancreatic insufficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27308,7 +27308,7 @@ export default [
   {
     "id": "s2peds-1912",
     "category": "Rickets",
-    "q": "Which x-ray finding does p127 call buzzy in osteomalacia and rickets?",
+    "q": "Which x-ray finding does the source call buzzy in osteomalacia and rickets?",
     "a": "Pseudofracture.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27319,7 +27319,7 @@ export default [
   {
     "id": "s2peds-1913",
     "category": "Rickets",
-    "q": "What labs does p127 give for rickets and osteomalacia?",
+    "q": "What labs does the source give for rickets and osteomalacia?",
     "a": "Low calcium, low phosphate and high PTH. PTH rises because low calcium reduces negative feedback at the parathyroid glands.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27334,7 +27334,7 @@ export default [
   {
     "id": "s2peds-1914",
     "category": "Rickets",
-    "q": "What does the p128 diagram at the top of the page (continuing the rickets entry) compare?",
+    "q": "What does the source diagram at the top of the page (continuing the rickets entry) compare?",
     "a": "Normal legs with bow legs (genu varum), the tibial bowing of rickets.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27347,7 +27347,7 @@ export default [
   {
     "id": "s2peds-1915",
     "category": "Osteopetrosis",
-    "q": "What is osteopetrosis per p128 and why do fractures occur with high bone density?",
+    "q": "What is osteopetrosis and why do fractures occur with high bone density?",
     "a": "Osteoclast dysfunction causing recurrent fractures in children even though bone density is too high. Bone strength depends on balanced internal architecture of canals and networks, not density alone.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27362,7 +27362,7 @@ export default [
   {
     "id": "s2peds-1916",
     "category": "Osteopetrosis",
-    "q": "Which conditions does p128 name as the high-yield differential for osteopetrosis?",
+    "q": "Which conditions does the source name as the high-yield differential for osteopetrosis?",
     "a": "Osteogenesis imperfecta and child abuse.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27373,7 +27373,7 @@ export default [
   {
     "id": "s2peds-1917",
     "category": "Osteopetrosis",
-    "q": "What enzyme deficiency causes osteoclast dysfunction in osteopetrosis per p128, and what does it normally do?",
+    "q": "What enzyme deficiency causes osteoclast dysfunction in osteopetrosis, and what does it normally do?",
     "a": "Carbonic anhydrase II deficiency. In osteoclasts it normally allows formation of H+ to resorb bone.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27388,7 +27388,7 @@ export default [
   {
     "id": "s2peds-1918",
     "category": "Osteopetrosis",
-    "q": "Which factor does p128 say drives osteoclast precursors to differentiate into osteoclasts (NBME osteopetrosis question)?",
+    "q": "Which factor does the source say drives osteoclast precursors to differentiate into osteoclasts (NBME osteopetrosis question)?",
     "a": "GM-CSF.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27403,7 +27403,7 @@ export default [
   {
     "id": "s2peds-1919",
     "category": "Osteogenesis imperfecta",
-    "q": "What defect and key differential does p128 give for osteogenesis imperfecta?",
+    "q": "What defect and key differential does the source give for osteogenesis imperfecta?",
     "a": "A collagen I defect causing recurrent fractures in a child. Differential: child abuse and osteopetrosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27418,8 +27418,8 @@ export default [
   {
     "id": "s2peds-1920",
     "category": "Osteogenesis imperfecta",
-    "q": "Which eye finding does p128 give for OI, and how buzzy is it?",
-    "a": "Blue sclerae, which p128 says is too buzzy and often not mentioned.",
+    "q": "Which eye finding does the source give for OI, and how buzzy is it?",
+    "a": "Blue sclerae, which the source says is too buzzy and often not mentioned.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 128,
@@ -27435,7 +27435,7 @@ export default [
   {
     "id": "s2peds-1921",
     "category": "Osteogenesis imperfecta",
-    "q": "What hearing loss does p128 link to OI and why?",
+    "q": "What hearing loss does the source link to OI and why?",
     "a": "Conductive hearing loss due to defective ossicles (middle ear bones).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27450,7 +27450,7 @@ export default [
   {
     "id": "s2peds-1922",
     "category": "Osteogenesis imperfecta",
-    "q": "What harder OI vignette does p128 describe?",
+    "q": "What harder OI vignette does the source describe?",
     "a": "A child with multiple fractures whose mother has a history of recurrent miscarriage, because some OI types cause miscarriage.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27465,7 +27465,7 @@ export default [
   {
     "id": "s2peds-1923",
     "category": "Marfan syndrome",
-    "q": "What inheritance, chromosome and gene does p129 give for Marfan syndrome?",
+    "q": "What inheritance, chromosome and gene does the source give for Marfan syndrome?",
     "a": "Autosomal dominant; chromosome 15; FBN1/2.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27480,7 +27480,7 @@ export default [
   {
     "id": "s2peds-1924",
     "category": "Marfan syndrome",
-    "q": "What does fibrillin do per p129?",
+    "q": "What does fibrillin do?",
     "a": "It is a glycoprotein that forms a sheath around elastin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27491,7 +27491,7 @@ export default [
   {
     "id": "s2peds-1925",
     "category": "Marfan syndrome",
-    "q": "Which body features of Marfan syndrome does p129 list?",
+    "q": "Which body features of Marfan syndrome does the source list?",
     "a": "Tall, lanky habitus with flat feet (pes planus), chest wall abnormalities (pectus excavatum or carinatum) and scoliosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27506,7 +27506,7 @@ export default [
   {
     "id": "s2peds-1926",
     "category": "Marfan syndrome",
-    "q": "Which cardiac findings does p129 list for Marfan syndrome?",
+    "q": "Which cardiac findings does the source list for Marfan syndrome?",
     "a": "Mitral valve prolapse (mid-systolic click) and increased aortic dissection risk, which can propagate retrograde to the root, causing root dilatation and aortic regurgitation (decrescendo diastolic murmur).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27521,8 +27521,8 @@ export default [
   {
     "id": "s2peds-1927",
     "category": "Marfan syndrome",
-    "q": "Is Marfan syndrome associated with berry aneurysms per p129?",
-    "a": "No. p129 says it is not associated with berry/saccular aneurysms, unlike Ehlers-Danlos and ADPKD.",
+    "q": "Is Marfan syndrome associated with berry aneurysms?",
+    "a": "No. the source says it is not associated with berry/saccular aneurysms, unlike Ehlers-Danlos and ADPKD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 129,
@@ -27532,7 +27532,7 @@ export default [
   {
     "id": "s2peds-1928",
     "category": "Ehlers-Danlos syndrome",
-    "q": "What synthesis defect does p129 give for Ehlers-Danlos and how may it be worded?",
+    "q": "What synthesis defect does the source give for Ehlers-Danlos and how may it be worded?",
     "a": "Defect in collagen III synthesis; may be written as defect in synthesis of fibrillar collagen.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27547,7 +27547,7 @@ export default [
   {
     "id": "s2peds-1929",
     "category": "Ehlers-Danlos syndrome",
-    "q": "Which wrong answer does p129 warn about for Ehlers-Danlos collagen questions?",
+    "q": "Which wrong answer does the source warn about for Ehlers-Danlos collagen questions?",
     "a": "The wrong choice is \"abnormal synthesis of extracellular glycoprotein\": that is fibrillin, Marfan syndrome. Fibrillar collagen means type III collagen, unrelated to fibrillin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27558,7 +27558,7 @@ export default [
   {
     "id": "s2peds-1930",
     "category": "Ehlers-Danlos syndrome",
-    "q": "How does Ehlers-Danlos present per p129, and what does the p129 photo show?",
+    "q": "How does Ehlers-Danlos present, and what does the source photo show?",
     "a": "Easy bruising and hyperextensible skin. The photo shows skin being stretched.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27575,7 +27575,7 @@ export default [
   {
     "id": "s2peds-1931",
     "category": "Williams syndrome",
-    "q": "What inheritance, chromosome and defect does p129 give for Williams syndrome?",
+    "q": "What inheritance, chromosome and defect does the source give for Williams syndrome?",
     "a": "Autosomal dominant; chromosome 7; defect in elastin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27590,7 +27590,7 @@ export default [
   {
     "id": "s2peds-1932",
     "category": "Williams syndrome",
-    "q": "Which features does p129 list for Williams syndrome?",
+    "q": "Which features does the source list for Williams syndrome?",
     "a": "Elfin-like facies, hypercalcemia and well-developed verbal skills.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27605,7 +27605,7 @@ export default [
   {
     "id": "s2peds-1933",
     "category": "Williams syndrome",
-    "q": "Which cardiac lesion does p129 link to Williams syndrome?",
+    "q": "Which cardiac lesion does the source link to Williams syndrome?",
     "a": "Supravalvular aortic stenosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27620,7 +27620,7 @@ export default [
   {
     "id": "s2peds-1934",
     "category": "Scoliosis",
-    "q": "How does p129 define scoliosis and how common is it?",
+    "q": "How does the source define scoliosis and how common is it?",
     "a": "Sideways spinal curvature forming an S- or C-shaped curve. Usually idiopathic, affects 3% of the population, girls 4:1.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27635,7 +27635,7 @@ export default [
   {
     "id": "s2peds-1935",
     "category": "Scoliosis",
-    "q": "What is the most common type of scoliosis per p129?",
+    "q": "What is the most common type of scoliosis?",
     "a": "Idiopathic adolescent thoracic scoliosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27646,7 +27646,7 @@ export default [
   {
     "id": "s2peds-1936",
     "category": "Scoliosis",
-    "q": "Which conditions does p129 associate with scoliosis?",
+    "q": "Which conditions does the source associate with scoliosis?",
     "a": "Marfan syndrome, Friedreich ataxia and NF1.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27657,7 +27657,7 @@ export default [
   {
     "id": "s2peds-1937",
     "category": "Scoliosis",
-    "q": "Which test diagnoses scoliosis per p129?",
+    "q": "Which test diagnoses scoliosis?",
     "a": "The Adams forward bend test.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27672,7 +27672,7 @@ export default [
   {
     "id": "s2peds-1938",
     "category": "Scoliosis",
-    "q": "What does p129 say about treatment for most children with scoliosis?",
+    "q": "What does the source say about treatment for most children with scoliosis?",
     "a": "Most do not need treatment, but the curvature remains throughout life.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27687,7 +27687,7 @@ export default [
   {
     "id": "s2peds-1939",
     "category": "Scoliosis",
-    "q": "When is bracing the answer for scoliosis per p129?",
+    "q": "When is bracing the answer for scoliosis?",
     "a": "If the curve is more than 25 degrees and the child is still growing.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27702,8 +27702,8 @@ export default [
   {
     "id": "s2peds-1940",
     "category": "Scoliosis",
-    "q": "When does p129 say surgery is recommended for scoliosis?",
-    "a": "Only when the curvature is above 40 degrees, per the literature. p129 has never seen surgery as the NBME answer.",
+    "q": "When does the source say surgery is recommended for scoliosis?",
+    "a": "Only when the curvature is above 40 degrees, per the literature. the source has never seen surgery as the NBME answer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 129,
@@ -27713,7 +27713,7 @@ export default [
   {
     "id": "s2peds-1941",
     "category": "Scoliosis",
-    "q": "What does the p130 figure at the top of the page (continuing the scoliosis entry) show?",
+    "q": "What does the source figure at the top of the page (continuing the scoliosis entry) show?",
     "a": "A normal spine, scoliosis with rib rotation, and a scoliosis x-ray with rib rotation. The x-ray labels curves of 35.1 and 25.7 degrees.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27726,7 +27726,7 @@ export default [
   {
     "id": "s2peds-1942",
     "category": "Juvenile idiopathic arthritis",
-    "q": "How does p130 describe JIA (JRA) in USMLE terms?",
+    "q": "How does the source describe JIA (JRA) in USMLE terms?",
     "a": "Formerly juvenile rheumatoid arthritis. It sounds like regular RA but in a kid, and 2CK Peds forms love it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27741,7 +27741,7 @@ export default [
   {
     "id": "s2peds-1943",
     "category": "Juvenile idiopathic arthritis",
-    "q": "How does p130 say to pick JRA over septic arthritis when a child has a warm, red, painful knee and low-grade fever?",
+    "q": "How does the source say to pick JRA over septic arthritis when a child has a warm, red, painful knee and low-grade fever?",
     "a": "Look for similar past episodes. Septic arthritis is usually a one-off, while JRA is described as intermittent or episodic.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27756,7 +27756,7 @@ export default [
   {
     "id": "s2peds-1944",
     "category": "Juvenile idiopathic arthritis",
-    "q": "How often does the salmon-pink rash appear in JRA vignettes per p130?",
+    "q": "How often does the salmon-pink rash appear in JRA vignettes?",
     "a": "About 50%. About half of JRA vignettes do not mention a rash.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27771,8 +27771,8 @@ export default [
   {
     "id": "s2peds-1945",
     "category": "Juvenile idiopathic arthritis",
-    "q": "What does p130 say about MCV in the anemia of chronic disease of JRA?",
-    "a": "MCV can be low. Resources that push normal MCV are wrong per p130, and many 2CK NBME questions give MCV in the 70s.",
+    "q": "What does the source say about MCV in the anemia of chronic disease of JRA?",
+    "a": "MCV can be low. Resources that push normal MCV are wrong, and many 2CK NBME questions give MCV in the 70s.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 130,
@@ -27782,7 +27782,7 @@ export default [
   {
     "id": "s2peds-1946",
     "category": "Juvenile idiopathic arthritis",
-    "q": "Which cardiac complication does p130 link to JRA?",
+    "q": "Which cardiac complication does the source link to JRA?",
     "a": "Serous pericarditis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27797,7 +27797,7 @@ export default [
   {
     "id": "s2peds-1947",
     "category": "Juvenile idiopathic arthritis",
-    "q": "What does arthrocentesis show in JRA per p130?",
+    "q": "What does arthrocentesis show in JRA?",
     "a": "Leukocytes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27808,8 +27808,8 @@ export default [
   {
     "id": "s2peds-1948",
     "category": "Juvenile idiopathic arthritis",
-    "q": "Which is more specific, anti-CCP or rheumatoid factor, and what does p130 say about ordering them in JRA?",
-    "a": "Anti-CCP is more specific than RF. p130 says both should be ordered for JRA and RA.",
+    "q": "Which is more specific, anti-CCP or rheumatoid factor, and what does the source say about ordering them in JRA?",
+    "a": "Anti-CCP is more specific than RF. the source says both should be ordered for JRA and RA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 130,
@@ -27823,7 +27823,7 @@ export default [
   {
     "id": "s2peds-1949",
     "category": "Juvenile idiopathic arthritis",
-    "q": "What are the two arms of JRA treatment per p130 and what drugs go with each?",
+    "q": "What are the two arms of JRA treatment and what drugs go with each?",
     "a": "Symptoms: NSAIDs first, then steroids (they do not slow disease progression). Disease progression: DMARDs, methotrexate first, then add an anti-TNF agent (infliximab, adalimumab or etanercept).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27838,7 +27838,7 @@ export default [
   {
     "id": "s2peds-1950",
     "category": "Psoriasis",
-    "q": "How common is arthritis before skin findings in psoriasis per p130?",
+    "q": "How common is arthritis before skin findings in psoriasis?",
     "a": "15% of patients get arthritis before any skin findings.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27853,7 +27853,7 @@ export default [
   {
     "id": "s2peds-1951",
     "category": "Psoriasis",
-    "q": "Where do psoriasis plaques occur and how are they described per p130?",
+    "q": "Where do psoriasis plaques occur and how are they described?",
     "a": "Silvery and scaly over extensor regions such as the elbows. They can also appear on the face (forehead and lip).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27868,7 +27868,7 @@ export default [
   {
     "id": "s2peds-1952",
     "category": "Psoriasis",
-    "q": "What is the Auspitz sign per p130?",
+    "q": "What is the Auspitz sign?",
     "a": "Bleeding when the scales are removed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27879,7 +27879,7 @@ export default [
   {
     "id": "s2peds-1953",
     "category": "Psoriasis",
-    "q": "What does PAIR stand for in the p130 HLA-B27 constellation?",
+    "q": "What does PAIR stand for in the source HLA-B27 constellation?",
     "a": "Psoriasis, Ankylosing spondylitis, IBD, Reactive arthritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27894,7 +27894,7 @@ export default [
   {
     "id": "s2peds-1954",
     "category": "Psoriasis",
-    "q": "A 17-year-old has silvery plaques on the elbow and forehead plus bloody stool. What does p130 say the stool most likely means?",
+    "q": "A 17-year-old has silvery plaques on the elbow and forehead plus bloody stool. What does the source say the stool most likely means?",
     "a": "IBD, due to the HLA-B27 association. Do not confuse the psoriasis-IBD combination with dermatitis herpetiformis plus celiac disease.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27905,8 +27905,8 @@ export default [
   {
     "id": "s2peds-1955",
     "category": "Psoriasis",
-    "q": "Which topical agents does p130 name first for plaque psoriasis?",
-    "a": "Calcipotriene (a vitamin D derivative), triamcinolone or hydrocortisone (corticosteroids), and more (the list is cut off at the bottom of p130).",
+    "q": "Which topical agents does the source name first for plaque psoriasis?",
+    "a": "Calcipotriene (a vitamin D derivative), triamcinolone or hydrocortisone (corticosteroids), and more (the list is cut off at the bottom of the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 130,
@@ -27920,7 +27920,7 @@ export default [
   {
     "id": "s2peds-1956",
     "category": "Psoriasis",
-    "q": "In what order does p131 give topical psoriasis treatments, and why not steroids first?",
+    "q": "In what order does the source give topical psoriasis treatments, and why not steroids first?",
     "a": "Calcipotriene, then triamcinolone or hydrocortisone, then coal tar. Chronic topical steroids cause dermal collagen thinning, so they are not preferred before topical vitamin D.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27931,7 +27931,7 @@ export default [
   {
     "id": "s2peds-1957",
     "category": "Psoriasis",
-    "q": "When are oral meds used in psoriasis per p131, and which is first-line oral?",
+    "q": "When are oral meds used in psoriasis, and which is first-line oral?",
     "a": "If topicals fail or there is systemic psoriasis (such as arthritis). Oral methotrexate is first-line on new NBME material.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27942,7 +27942,7 @@ export default [
   {
     "id": "s2peds-1958",
     "category": "Psoriasis",
-    "q": "Which old-NBME answer does p131 give when methotrexate is not listed?",
+    "q": "Which old-NBME answer does the source give when methotrexate is not listed?",
     "a": "Oral acitretin, a vitamin A derivative.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27953,7 +27953,7 @@ export default [
   {
     "id": "s2peds-1959",
     "category": "Sacroiliitis",
-    "q": "How does p131 define sacroiliitis and its most severe form?",
+    "q": "How does the source define sacroiliitis and its most severe form?",
     "a": "Arthritis of the lower back (sacroiliac joints). Ankylosing spondylitis is the most severe form.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27968,7 +27968,7 @@ export default [
   {
     "id": "s2peds-1960",
     "category": "Sacroiliitis",
-    "q": "What is the classic ankylosing spondylitis vignette per p131, and what is the peds twist?",
+    "q": "What is the classic ankylosing spondylitis vignette, and what is the peds twist?",
     "a": "Male in his 20s-40s with lower back pain worse in the morning that improves through the day. A 2CK Peds question has AS in an 8-year-old, so it is possible in kids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27979,7 +27979,7 @@ export default [
   {
     "id": "s2peds-1961",
     "category": "Sacroiliitis",
-    "q": "Which conditions with low back pain point toward sacroiliitis per p131?",
+    "q": "Which conditions with low back pain point toward sacroiliitis?",
     "a": "IBD, psoriasis or reactive arthritis (the HLA-B27 PAIR).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -27994,7 +27994,7 @@ export default [
   {
     "id": "s2peds-1962",
     "category": "Sacroiliitis",
-    "q": "Which labs and imaging does p131 list for sacroiliitis?",
+    "q": "Which labs and imaging does the source list for sacroiliitis?",
     "a": "High ESR and anemia of chronic disease. Diagnose with x-rays of the lumbosacral spine and sacroiliac joints.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28005,7 +28005,7 @@ export default [
   {
     "id": "s2peds-1963",
     "category": "Sacroiliitis",
-    "q": "Which eye exam does p131 want for ankylosing spondylitis, and why?",
+    "q": "Which eye exam does the source want for ankylosing spondylitis, and why?",
     "a": "Slit-lamp examination for anterior uveitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28020,7 +28020,7 @@ export default [
   {
     "id": "s2peds-1964",
     "category": "Sacroiliitis",
-    "q": "How is sacroiliitis treated per p131?",
+    "q": "How is sacroiliitis treated?",
     "a": "The same as JRA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28031,7 +28031,7 @@ export default [
   {
     "id": "s2peds-1965",
     "category": "Lupus",
-    "q": "What is the most common presenting feature of lupus per p131?",
+    "q": "What is the most common presenting feature of lupus?",
     "a": "Arthritis (90%). USMLE vignettes pretty much always give arthritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28046,7 +28046,7 @@ export default [
   {
     "id": "s2peds-1966",
     "category": "Lupus",
-    "q": "Which antibody tracks flares and renal prognosis in lupus per p131, and which is most specific?",
+    "q": "Which antibody tracks flares and renal prognosis in lupus, and which is most specific?",
     "a": "Anti-dsDNA rises with acute flares and relates most closely to renal prognosis in lupus nephritis. Anti-Smith is the most specific for SLE.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28057,7 +28057,7 @@ export default [
   {
     "id": "s2peds-1967",
     "category": "Lupus",
-    "q": "Which antibodies define lupus-related antiphospholipid syndrome per p131, and what lab oddity does it cause?",
+    "q": "Which antibodies define lupus-related antiphospholipid syndrome, and what lab oddity does it cause?",
     "a": "Lupus anticoagulant and anticardiolipin/beta-2 antibodies. It can cause a false-positive VDRL for syphilis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28072,7 +28072,7 @@ export default [
   {
     "id": "s2peds-1968",
     "category": "Lupus",
-    "q": "Why is thrombocytopenia common in lupus, and what is the answer when cytopenias mimic aplastic anemia per p131?",
+    "q": "Why is thrombocytopenia common in lupus, and what is the answer when cytopenias mimic aplastic anemia?",
     "a": "Antibodies against blood cell lines. The answer is increased peripheral destruction, not decreased bone marrow production.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28087,7 +28087,7 @@ export default [
   {
     "id": "s2peds-1969",
     "category": "Lupus",
-    "q": "What type of hypersensitivity is the malar rash per p131?",
+    "q": "What type of hypersensitivity is the malar rash?",
     "a": "Type III.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28098,7 +28098,7 @@ export default [
   {
     "id": "s2peds-1970",
     "category": "Lupus",
-    "q": "Which neurologic problems does p131 list for lupus?",
+    "q": "Which neurologic problems does the source list for lupus?",
     "a": "Lupus cerebritis (confusion or delirium-like episodes) and transverse myelitis (presenting as Brown-Sequard syndrome). Peds forms give lupus cerebritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28109,7 +28109,7 @@ export default [
   {
     "id": "s2peds-1971",
     "category": "Lupus",
-    "q": "Which cardiac problem does p131 link to lupus, like RA?",
+    "q": "Which cardiac problem does the source link to lupus, like RA?",
     "a": "Pericarditis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28120,7 +28120,7 @@ export default [
   {
     "id": "s2peds-1972",
     "category": "Lupus",
-    "q": "What happens to C3 in lupus flares and what congenital deficiency raises SLE risk per p131?",
+    "q": "What happens to C3 in lupus flares and what congenital deficiency raises SLE risk?",
     "a": "C3 falls in flares. Congenital C1q deficiency raises SLE risk.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28135,7 +28135,7 @@ export default [
   {
     "id": "s2peds-1973",
     "category": "Lupus",
-    "q": "What is the first step in managing lupus nephritis per p131?",
+    "q": "What is the first step in managing lupus nephritis?",
     "a": "Kidney biopsy. Steroids first is the wrong answer; biopsy guides management.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28150,7 +28150,7 @@ export default [
   {
     "id": "s2peds-1974",
     "category": "Lupus",
-    "q": "Which histology equals lupus nephritis on USMLE per p131, and how are flares treated?",
+    "q": "Which histology equals lupus nephritis on USMLE, and how are flares treated?",
     "a": "Diffuse proliferative glomerulonephritis. Flares are treated with steroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28165,7 +28165,7 @@ export default [
   {
     "id": "s2peds-1975",
     "category": "Septic arthritis",
-    "q": "Which patient groups does p131 say get septic arthritis on Peds forms?",
+    "q": "Which patient groups does the source say get septic arthritis on Peds forms?",
     "a": "Young healthy patients after trauma (such as a car accident) or high-intensity exercise microtrauma (kickboxing, soccer tournament, long hike), and sickle cell disease.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28176,7 +28176,7 @@ export default [
   {
     "id": "s2peds-1976",
     "category": "Septic arthritis",
-    "q": "What is the classic septic arthritis presentation and first management step per p131?",
+    "q": "What is the classic septic arthritis presentation and first management step?",
     "a": "Hot, red, painful joint, almost always with fever. First step is arthrocentesis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28187,7 +28187,7 @@ export default [
   {
     "id": "s2peds-1977",
     "category": "Septic arthritis",
-    "q": "Can joint aspirate be negative in septic arthritis per p131?",
+    "q": "Can joint aspirate be negative in septic arthritis?",
     "a": "Yes. Do not rule out septic arthritis if the NBME says no organisms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28198,7 +28198,7 @@ export default [
   {
     "id": "s2peds-1978",
     "category": "Septic arthritis",
-    "q": "What is the most common septic arthritis pathogen overall per p131?",
+    "q": "What is the most common septic arthritis pathogen overall?",
     "a": "Staph aureus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28213,7 +28213,7 @@ export default [
   {
     "id": "s2peds-1979",
     "category": "Septic arthritis",
-    "q": "Which organism does p132 pick in sickle cell septic arthritis, and what is the catch?",
+    "q": "Which organism does the source pick in sickle cell septic arthritis, and what is the catch?",
     "a": "Salmonella. But if the vignette gives gram-positive cocci, the answer is still Staph aureus, since Salmonella is a gram-negative rod.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28224,7 +28224,7 @@ export default [
   {
     "id": "s2peds-1980",
     "category": "Septic arthritis",
-    "q": "How does gonococcal arthritis present on USMLE per p132?",
+    "q": "How does gonococcal arthritis present on USMLE?",
     "a": "In a sexually active patient: either knee monoarthritis with no other information, or a triad of mono- or polyarthritis, cutaneous papules and tenosynovitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28239,7 +28239,7 @@ export default [
   {
     "id": "s2peds-1981",
     "category": "Septic arthritis",
-    "q": "How is septic arthritis treated per p132?",
+    "q": "How is septic arthritis treated?",
     "a": "Surgical drainage of the joint plus antibiotics. USMLE does not care about the exact antibiotics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28250,7 +28250,7 @@ export default [
   {
     "id": "s2peds-1982",
     "category": "Toxic synovitis",
-    "q": "What is toxic synovitis and how does it present per p132?",
+    "q": "What is toxic synovitis and how does it present?",
     "a": "Also called transient synovitis. Hip inflammation or pain in a child after a viral infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28265,7 +28265,7 @@ export default [
   {
     "id": "s2peds-1983",
     "category": "Toxic synovitis",
-    "q": "Is toxic synovitis a diagnosis of exclusion per p132, and which findings favor septic arthritis?",
+    "q": "Is toxic synovitis a diagnosis of exclusion, and which findings favor septic arthritis?",
     "a": "Yes. Leukocytosis and inability to bear weight make septic arthritis the likely answer. Hard questions will not use warmth or redness to differentiate, and fever can occur in both.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28280,7 +28280,7 @@ export default [
   {
     "id": "s2peds-1984",
     "category": "Toxic synovitis",
-    "q": "How is toxic synovitis treated per p132?",
+    "q": "How is toxic synovitis treated?",
     "a": "NSAIDs (ibuprofen).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28291,7 +28291,7 @@ export default [
   {
     "id": "s2peds-1985",
     "category": "Reactive arthritis",
-    "q": "What is the classic triad of reactive arthritis per p132?",
+    "q": "What is the classic triad of reactive arthritis?",
     "a": "Urethritis or abdominal infection, polyarthritis, and \"eye-itis\" (conjunctivitis, episcleritis or anterior uveitis).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28306,7 +28306,7 @@ export default [
   {
     "id": "s2peds-1986",
     "category": "Reactive arthritis",
-    "q": "Which organism is the classic cause of reactive arthritis per p132, and which does not cause it on USMLE?",
+    "q": "Which organism is the classic cause of reactive arthritis, and which does not cause it on USMLE?",
     "a": "Chlamydia is classic. Gonococcus does not cause reactive arthritis on USMLE.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28321,7 +28321,7 @@ export default [
   {
     "id": "s2peds-1987",
     "category": "Reactive arthritis",
-    "q": "What other triggers does p132 list for reactive arthritis?",
+    "q": "What other triggers does the source list for reactive arthritis?",
     "a": "Rubella, hepatitis B and C, and Yersinia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28336,7 +28336,7 @@ export default [
   {
     "id": "s2peds-1988",
     "category": "Lateral epicondylitis",
-    "q": "What is lateral epicondylitis and how does it present per p132?",
+    "q": "What is lateral epicondylitis and how does it present?",
     "a": "Tennis elbow: lateral elbow pain worsened by wrist extension against resistance.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28351,7 +28351,7 @@ export default [
   {
     "id": "s2peds-1989",
     "category": "Lateral epicondylitis",
-    "q": "Which structure does the NBME name as the site of inflammation in tennis elbow, and what treatment does p132 give?",
+    "q": "Which structure does the NBME name as the site of inflammation in tennis elbow, and what treatment does the source give?",
     "a": "Extensor carpi radialis brevis. Treatment: forearm strap.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28366,7 +28366,7 @@ export default [
   {
     "id": "s2peds-1990",
     "category": "Medial epicondylitis",
-    "q": "How does p132 describe medial epicondylitis?",
+    "q": "How does the source describe medial epicondylitis?",
     "a": "Golfer elbow: medial elbow pain worsened by wrist flexion against resistance, from inflammation at flexor carpi radialis and pronator teres. Treatment: forearm strap.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28377,7 +28377,7 @@ export default [
   {
     "id": "s2peds-1991",
     "category": "Radial head subluxation",
-    "q": "What is radial head subluxation and how does it present per p132?",
+    "q": "What is radial head subluxation and how does it present?",
     "a": "Nursemaid elbow, HY for 2CK Peds. The child stops using the arm, held pronated and partially flexed, after a pull or yank, such as holding hands and running with an older sibling and falling.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28392,7 +28392,7 @@ export default [
   {
     "id": "s2peds-1992",
     "category": "Radial head subluxation",
-    "q": "How is radial head subluxation reduced per p132?",
+    "q": "How is radial head subluxation reduced?",
     "a": "Hyper-pronation, or supination with the arm partially flexed. Either is correct and both will not be listed together.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28403,7 +28403,7 @@ export default [
   {
     "id": "s2peds-1993",
     "category": "Patellar tendonitis",
-    "q": "What is patellar tendonitis and which story gives it per p132?",
+    "q": "What is patellar tendonitis and which story gives it?",
     "a": "Jumper's knee: inflammation of the patellar tendon. Anterior knee pain occurring only after sports at first, then becoming chronic.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28414,7 +28414,7 @@ export default [
   {
     "id": "s2peds-1994",
     "category": "Patellar tendonitis",
-    "q": "What is the NBME treatment for patellar tendonitis per p132?",
+    "q": "What is the NBME treatment for patellar tendonitis?",
     "a": "Quadriceps strengthening exercises.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28425,7 +28425,7 @@ export default [
   {
     "id": "s2peds-1995",
     "category": "Patellofemoral instability",
-    "q": "What is patellofemoral instability and how does it differ from patellar tendonitis per p132?",
+    "q": "What is patellofemoral instability and how does it differ from patellar tendonitis?",
     "a": "Misalignment of the patella at the trochlear groove of the femur. Presentation resembles patellar tendonitis but do not confuse them. The question can mention crepitus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28436,7 +28436,7 @@ export default [
   {
     "id": "s2peds-1996",
     "category": "Patellofemoral instability",
-    "q": "Which 2CK Peds vignette gives patellofemoral instability per p132?",
+    "q": "Which 2CK Peds vignette gives patellofemoral instability?",
     "a": "A teenage girl with knee pain worse after jumping or running plus crepitus (patellar tendonitis not listed).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28447,7 +28447,7 @@ export default [
   {
     "id": "s2peds-1997",
     "category": "Patellofemoral pain syndrome",
-    "q": "What is patellofemoral pain syndrome and which name implies cartilage softening per p132?",
+    "q": "What is patellofemoral pain syndrome and which name implies cartilage softening?",
     "a": "Chondromalacia patellae, whose name implies softening of knee cartilage.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28462,7 +28462,7 @@ export default [
   {
     "id": "s2peds-1998",
     "category": "Patellofemoral pain syndrome",
-    "q": "Which story gives patellofemoral pain syndrome per p132?",
+    "q": "Which story gives patellofemoral pain syndrome?",
     "a": "Pain worse with prolonged sitting or going up and down stairs. Classic in obesity or heavy squatting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28477,7 +28477,7 @@ export default [
   {
     "id": "s2peds-1999",
     "category": "Patellofemoral pain syndrome",
-    "q": "What treatment does p133 give at the top of the page (continuing p132 patellofemoral pain syndrome)?",
+    "q": "What treatment does the source give at the top of the page (continuing the source patellofemoral pain syndrome)?",
     "a": "Quadriceps strengthening exercises.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28488,7 +28488,7 @@ export default [
   {
     "id": "s2peds-2000",
     "category": "Knee ligament injuries",
-    "q": "Which injury is the answer for a positive anterior drawer or Lachman test per p133?",
+    "q": "Which injury is the answer for a positive anterior drawer or Lachman test?",
     "a": "ACL injury, with excessive anterior displacement of the tibia relative to the femur.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28503,7 +28503,7 @@ export default [
   {
     "id": "s2peds-2001",
     "category": "Knee ligament injuries",
-    "q": "How is the ACL classically injured per p133?",
+    "q": "How is the ACL classically injured?",
     "a": "Knee hyperextension, or a rotational force on a fixed, planted knee.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28518,7 +28518,7 @@ export default [
   {
     "id": "s2peds-2002",
     "category": "Knee ligament injuries",
-    "q": "Which injury is the answer for a positive posterior drawer test per p133?",
+    "q": "Which injury is the answer for a positive posterior drawer test?",
     "a": "PCL injury, with excessive posterior displacement of the tibia relative to the femur.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28533,7 +28533,7 @@ export default [
   {
     "id": "s2peds-2003",
     "category": "Knee ligament injuries",
-    "q": "How is the PCL classically injured per p133?",
+    "q": "How is the PCL classically injured?",
     "a": "The knee hits the dashboard in a car accident.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28548,7 +28548,7 @@ export default [
   {
     "id": "s2peds-2004",
     "category": "Knee ligament injuries",
-    "q": "Which ligament is injured if the varus test induces excessive lateral knee motion per p133, and how is it done?",
+    "q": "Which ligament is injured if the varus test induces excessive lateral knee motion, and how is it done?",
     "a": "LCL. Hand on the medial knee pushing outward plus the other hand on the lateral ankle pushing inward.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28563,7 +28563,7 @@ export default [
   {
     "id": "s2peds-2005",
     "category": "Knee ligament injuries",
-    "q": "Which ligament is injured if the valgus test induces excessive medial knee motion per p133, and how is it done?",
+    "q": "Which ligament is injured if the valgus test induces excessive medial knee motion, and how is it done?",
     "a": "MCL. Hand on the lateral knee pushing inward plus the other hand on the medial ankle pulling outward.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28578,7 +28578,7 @@ export default [
   {
     "id": "s2peds-2006",
     "category": "Meniscal tears",
-    "q": "How does a lateral meniscal tear present and how is it diagnosed per p133?",
+    "q": "How does a lateral meniscal tear present and how is it diagnosed?",
     "a": "Lateral knee pain with locking or catching in partial flexion. McMurray test: internal rotation of the leg with knee extension causes lateral pain or catching.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28593,7 +28593,7 @@ export default [
   {
     "id": "s2peds-2007",
     "category": "Meniscal tears",
-    "q": "How does a medial meniscal tear present and how is it diagnosed per p133?",
+    "q": "How does a medial meniscal tear present and how is it diagnosed?",
     "a": "Medial knee pain with locking or catching in partial flexion. McMurray test: external rotation of the leg with knee extension causes medial pain or catching.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28608,8 +28608,8 @@ export default [
   {
     "id": "s2peds-2008",
     "category": "Knee ligament injuries",
-    "q": "What is the unhappy triad per p133, and how much does USMLE care?",
-    "a": "Injury of the ACL, MCL and either the medial or lateral meniscus. p133 says it has never been assessed on the NBME and lives in the Qbank domain.",
+    "q": "What is the unhappy triad, and how much does USMLE care?",
+    "a": "Injury of the ACL, MCL and either the medial or lateral meniscus. the source says it has never been assessed on the NBME and lives in the Qbank domain.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 133,
@@ -28619,7 +28619,7 @@ export default [
   {
     "id": "s2peds-2009",
     "category": "Iliotibial band syndrome",
-    "q": "Which story gives iliotibial band syndrome per p133, and how is it treated?",
+    "q": "Which story gives iliotibial band syndrome, and how is it treated?",
     "a": "Lateral knee pain, usually in a runner. Treatment is conservative with physiotherapy, NSAIDs for pain.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28634,7 +28634,7 @@ export default [
   {
     "id": "s2peds-2010",
     "category": "Iliotibial band syndrome",
-    "q": "Where does iliotibial band pain occur per p133?",
+    "q": "Where does iliotibial band pain occur?",
     "a": "Anywhere along the hip, lateral thigh and lateral knee, but worst at the lateral knee.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28645,7 +28645,7 @@ export default [
   {
     "id": "s2peds-2011",
     "category": "Osgood-Schlatter disease",
-    "q": "What is the classic Osgood-Schlatter vignette per p133?",
+    "q": "What is the classic Osgood-Schlatter vignette?",
     "a": "Knee pain in a fast-growing teenage male who plays soccer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28660,7 +28660,7 @@ export default [
   {
     "id": "s2peds-2012",
     "category": "Osgood-Schlatter disease",
-    "q": "What is inflamed and what is the mechanism in Osgood-Schlatter per p133?",
+    "q": "What is inflamed and what is the mechanism in Osgood-Schlatter?",
     "a": "The patellar ligament at the tibial tuberosity, from repeated stress on the growth plate of the superior tibia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28675,7 +28675,7 @@ export default [
   {
     "id": "s2peds-2013",
     "category": "Plantar fasciitis",
-    "q": "Which story gives plantar fasciitis per p133?",
+    "q": "Which story gives plantar fasciitis?",
     "a": "Severe heel pain worst when first getting out of bed in the morning.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28690,7 +28690,7 @@ export default [
   {
     "id": "s2peds-2014",
     "category": "Growing pains",
-    "q": "Which vignette gives growing pains per p133, and what is the treatment?",
+    "q": "Which vignette gives growing pains, and what is the treatment?",
     "a": "A healthy child aged 3-12 who awakens from sleep with throbbing leg pain. No treatment is necessary.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28705,7 +28705,7 @@ export default [
   {
     "id": "s2peds-2015",
     "category": "Tibia vara",
-    "q": "What is tibia vara (Blount disease) per p133?",
+    "q": "What is tibia vara (Blount disease)?",
     "a": "Bowing of the tibias after age 2 years in a patient in whom rickets has been ruled out. It can be unilateral or bilateral.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28720,7 +28720,7 @@ export default [
   {
     "id": "s2peds-2016",
     "category": "Tibia vara",
-    "q": "Is tibial bowing before age 2 abnormal per p133, and how is tibia vara treated?",
+    "q": "Is tibial bowing before age 2 abnormal, and how is tibia vara treated?",
     "a": "Bowing of one or both tibias is sometimes normal until age 2. Treatment is surgery (osteotomy).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28731,7 +28731,7 @@ export default [
   {
     "id": "s2peds-2017",
     "category": "Tibia vara",
-    "q": "What does the AP radiograph at the top of p134 (continuing tibia vara on p133) show?",
+    "q": "What does the AP radiograph at the top of the source (continuing tibia vara in the source) show?",
     "a": "Bilateral bowing of the lower legs in a toddler, the picture of tibia vara (Blount disease) / bowed tibias.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28748,7 +28748,7 @@ export default [
   {
     "id": "s2peds-2018",
     "category": "Clubfoot",
-    "q": "What is talipes equinovarus per p134?",
+    "q": "What is talipes equinovarus?",
     "a": "Clubfoot.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28765,7 +28765,7 @@ export default [
   {
     "id": "s2peds-2019",
     "category": "Clubfoot",
-    "q": "What is the initial treatment of talipes equinovarus that USMLE wants you to know per p134?",
+    "q": "What is the initial treatment of talipes equinovarus that USMLE wants you to know?",
     "a": "Serial casting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28780,7 +28780,7 @@ export default [
   {
     "id": "s2peds-2020",
     "category": "Clubfoot",
-    "q": "What is the usual cause of clubfoot, and what syndrome can it appear in per p134?",
+    "q": "What is the usual cause of clubfoot, and what syndrome can it appear in?",
     "a": "Usually idiopathic. It can be seen in Potter sequence.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28795,7 +28795,7 @@ export default [
   {
     "id": "s2peds-2021",
     "category": "Clubfoot",
-    "q": "How does clubfoot differ from rocker-bottom foot per p134?",
+    "q": "How does clubfoot differ from rocker-bottom foot?",
     "a": "Rocker-bottom foot is congenital vertical talus, seen in Edwards syndrome. It is not the same as clubfoot.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28810,7 +28810,7 @@ export default [
   {
     "id": "s2peds-2022",
     "category": "Arthrogryposis",
-    "q": "What is arthrogryposis per p134?",
+    "q": "What is arthrogryposis?",
     "a": "A child born with multiple joint contractures.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28825,7 +28825,7 @@ export default [
   {
     "id": "s2peds-2023",
     "category": "Arthrogryposis",
-    "q": "A child has clubfoot plus knee and/or elbow contractures. What is the answer per p134?",
+    "q": "A child has clubfoot plus knee and/or elbow contractures. What is the answer?",
     "a": "Arthrogryposis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28840,7 +28840,7 @@ export default [
   {
     "id": "s2peds-2024",
     "category": "Developmental dysplasia of the hip",
-    "q": "What is developmental dysplasia of the hip, and what is the mechanism per p134?",
+    "q": "What is developmental dysplasia of the hip, and what is the mechanism?",
     "a": "Aka DDH or primary hip dysplasia. Mechanism is a poorly developed acetabulum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28855,7 +28855,7 @@ export default [
   {
     "id": "s2peds-2025",
     "category": "Developmental dysplasia of the hip",
-    "q": "How is DDH initially diagnosed per p134?",
+    "q": "How is DDH initially diagnosed?",
     "a": "Ortolani and Barlow maneuvers, which elicit a clicking and clunking on exam.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28870,8 +28870,8 @@ export default [
   {
     "id": "s2peds-2026",
     "category": "Developmental dysplasia of the hip",
-    "q": "After a positive Ortolani or Barlow maneuver, what is the next best step per p134?",
-    "a": "Orthopedic referral, before imaging. p134 says it sounds wrong but is the answer if listed.",
+    "q": "After a positive Ortolani or Barlow maneuver, what is the next best step?",
+    "a": "Orthopedic referral, before imaging. the source says it sounds wrong but is the answer if listed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 134,
@@ -28881,7 +28881,7 @@ export default [
   {
     "id": "s2peds-2027",
     "category": "Developmental dysplasia of the hip",
-    "q": "How is DDH definitively diagnosed per p134?",
+    "q": "How is DDH definitively diagnosed?",
     "a": "Hip ultrasound if under 6 months of age; hip x-ray if over 6 months of age.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28896,7 +28896,7 @@ export default [
   {
     "id": "s2peds-2028",
     "category": "Developmental dysplasia of the hip",
-    "q": "What is the treatment of DDH per p134?",
+    "q": "What is the treatment of DDH?",
     "a": "Abduction harness, aka Pavlik harness, which positions the child's legs in a frog-leg-appearing manner.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28911,7 +28911,7 @@ export default [
   {
     "id": "s2peds-2029",
     "category": "Legg-Calve-Perthes disease",
-    "q": "What is Legg-Calve-Perthes disease per p134?",
+    "q": "What is Legg-Calve-Perthes disease?",
     "a": "Idiopathic avascular necrosis of the femoral head.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28926,7 +28926,7 @@ export default [
   {
     "id": "s2peds-2030",
     "category": "Legg-Calve-Perthes disease",
-    "q": "When is the diagnosis avascular necrosis instead of Legg-Calve-Perthes per p135?",
+    "q": "When is the diagnosis avascular necrosis instead of Legg-Calve-Perthes?",
     "a": "When the etiology of the avascular necrosis is known (for example Gaucher disease, sickle cell disease, corticosteroids). Then the diagnosis is just avascular necrosis, not LCP.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28941,7 +28941,7 @@ export default [
   {
     "id": "s2peds-2031",
     "category": "Legg-Calve-Perthes disease",
-    "q": "What is the vignette for Legg-Calve-Perthes per p135?",
+    "q": "What is the vignette for Legg-Calve-Perthes?",
     "a": "A child aged 5-8 years with hip pain.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -28956,8 +28956,8 @@ export default [
   {
     "id": "s2peds-2032",
     "category": "Legg-Calve-Perthes disease",
-    "q": "What is the first diagnostic step in Legg-Calve-Perthes, and what does it show per p135?",
-    "a": "Hip x-ray, which shows a contracted or flattened femoral head. p135 says the word contracted is high yield and synonymous with avascular necrosis.",
+    "q": "What is the first diagnostic step in Legg-Calve-Perthes, and what does it show?",
+    "a": "Hip x-ray, which shows a contracted or flattened femoral head. the source says the word contracted is high yield and synonymous with avascular necrosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 135,
@@ -28971,8 +28971,8 @@ export default [
   {
     "id": "s2peds-2033",
     "category": "Legg-Calve-Perthes disease",
-    "q": "What is the next step if the x-ray is negative in suspected Legg-Calve-Perthes per p135?",
-    "a": "Bone scan or MRI (p135 says on the 2CK Peds form).",
+    "q": "What is the next step if the x-ray is negative in suspected Legg-Calve-Perthes?",
+    "a": "Bone scan or MRI (the source says on the 2CK Peds form).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 135,
@@ -28986,7 +28986,7 @@ export default [
   {
     "id": "s2peds-2034",
     "category": "Legg-Calve-Perthes disease",
-    "q": "What treatment does p135 give for Legg-Calve-Perthes?",
+    "q": "What treatment does the source give for Legg-Calve-Perthes?",
     "a": "Hip replacement.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29001,7 +29001,7 @@ export default [
   {
     "id": "s2peds-2035",
     "category": "Legg-Calve-Perthes disease",
-    "q": "What does the pelvic x-ray on p135 show?",
+    "q": "What does the pelvic x-ray in the source show?",
     "a": "The right femoral head (left side of image) looks contracted or flattened, buzzy for avascular necrosis (Legg-Calve-Perthes). A cyan arrow marks it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29018,7 +29018,7 @@ export default [
   {
     "id": "s2peds-2036",
     "category": "Legg-Calve-Perthes disease",
-    "q": "What does the MRI on p135 show?",
+    "q": "What does the MRI in the source show?",
     "a": "The right femoral head (left side of image) is hypointense (more black). The necrotic, bone-lacking superior portion is black, so the remaining white part is flattened or contracted. The left femoral head has a small black medial area of necrosis too.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29035,7 +29035,7 @@ export default [
   {
     "id": "s2peds-2037",
     "category": "Slipped capital femoral epiphysis",
-    "q": "What is the classic SCFE vignette per p135?",
+    "q": "What is the classic SCFE vignette?",
     "a": "A 10-13-year-old pre-adolescent overweight boy with a painful limp.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29050,7 +29050,7 @@ export default [
   {
     "id": "s2peds-2038",
     "category": "Slipped capital femoral epiphysis",
-    "q": "What mechanism will the NBME write for SCFE per p136?",
+    "q": "What mechanism will the NBME write for SCFE?",
     "a": "Displacement of the epiphysis of the femoral head.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29065,7 +29065,7 @@ export default [
   {
     "id": "s2peds-2039",
     "category": "Slipped capital femoral epiphysis",
-    "q": "What does p136 say about obesity as a clue in NBME SCFE questions?",
+    "q": "What does the source say about obesity as a clue in NBME SCFE questions?",
     "a": "Resources emphasize obesity as the main risk factor, but maybe only about half of NBME SCFE questions describe the child as overweight. Do not rely on seeing a high BMI.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29080,7 +29080,7 @@ export default [
   {
     "id": "s2peds-2040",
     "category": "Slipped capital femoral epiphysis",
-    "q": "Which clue matters most for SCFE on NBME questions per p136, and what do you think of if the child is younger?",
+    "q": "Which clue matters most for SCFE on NBME questions, and what do you think of if the child is younger?",
     "a": "Age: a kid about 10-13. If the kid is younger, think Legg-Calve-Perthes instead.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29091,8 +29091,8 @@ export default [
   {
     "id": "s2peds-2041",
     "category": "Slipped capital femoral epiphysis",
-    "q": "A 13-year-old boy has a painful gait and no mention of weight. What is the answer per p136?",
-    "a": "SCFE (a 2CK NBME question per p136).",
+    "q": "A 13-year-old boy has a painful gait and no mention of weight. What is the answer?",
+    "a": "SCFE (a 2CK NBME question per the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 136,
@@ -29102,8 +29102,8 @@ export default [
   {
     "id": "s2peds-2042",
     "category": "Slipped capital femoral epiphysis",
-    "q": "A 13-year-old, 6 feet tall, has BMI 20 and hip pain. What is the answer per p136?",
-    "a": "SCFE. Normal BMI does not rule it out (a 2CK question per p136).",
+    "q": "A 13-year-old, 6 feet tall, has BMI 20 and hip pain. What is the answer?",
+    "a": "SCFE. Normal BMI does not rule it out (a 2CK question per the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 136,
@@ -29113,7 +29113,7 @@ export default [
   {
     "id": "s2peds-2043",
     "category": "Slipped capital femoral epiphysis",
-    "q": "What is the classic x-ray description of SCFE per p136?",
+    "q": "What is the classic x-ray description of SCFE?",
     "a": "Ice cream falling (slipping) off the cone.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29124,7 +29124,7 @@ export default [
   {
     "id": "s2peds-2044",
     "category": "Slipped capital femoral epiphysis",
-    "q": "What does the pelvic x-ray on p136 show?",
+    "q": "What does the pelvic x-ray in the source show?",
     "a": "SCFE: the ice cream slipping off its cone. The femoral head epiphysis (asterisk) is displaced off the femoral neck, with arrows marking the slip.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29141,7 +29141,7 @@ export default [
   {
     "id": "s2peds-2045",
     "category": "Slipped capital femoral epiphysis",
-    "q": "A 5-year-old has an x-ray showing a contracted capital femoral epiphysis. What is the answer per p136?",
+    "q": "A 5-year-old has an x-ray showing a contracted capital femoral epiphysis. What is the answer?",
     "a": "Legg-Calve-Perthes, not SCFE. The younger age and the word contracted win over the words femoral capital epiphysis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29152,7 +29152,7 @@ export default [
   {
     "id": "s2peds-2046",
     "category": "Slipped capital femoral epiphysis",
-    "q": "What is the treatment of SCFE per p136?",
+    "q": "What is the treatment of SCFE?",
     "a": "Surgical pinning.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29167,7 +29167,7 @@ export default [
   {
     "id": "s2peds-2047",
     "category": "Osteosarcoma",
-    "q": "How common is osteosarcoma and in whom does it occur per p136?",
+    "q": "How common is osteosarcoma and in whom does it occur?",
     "a": "Most common primary bone cancer, usually in patients aged 10-30.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29182,7 +29182,7 @@ export default [
   {
     "id": "s2peds-2048",
     "category": "Osteosarcoma",
-    "q": "A 1-year-old boy had enucleation of an eye for retinoblastoma. What is he at risk of developing later per p136?",
+    "q": "A 1-year-old boy had enucleation of an eye for retinoblastoma. What is he at risk of developing later?",
     "a": "Osteosarcoma (RB mutations are associated).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29197,7 +29197,7 @@ export default [
   {
     "id": "s2peds-2049",
     "category": "Osteosarcoma",
-    "q": "What are the buzzy imaging findings of osteosarcoma per p136?",
+    "q": "What are the buzzy imaging findings of osteosarcoma?",
     "a": "Codman triangle and sunburst appearance.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29212,7 +29212,7 @@ export default [
   {
     "id": "s2peds-2050",
     "category": "Osteosarcoma",
-    "q": "What is a Codman triangle per p136?",
+    "q": "What is a Codman triangle?",
     "a": "Periosteal reaction with lifting of the periosteum off the bone.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29227,7 +29227,7 @@ export default [
   {
     "id": "s2peds-2051",
     "category": "Osteosarcoma",
-    "q": "How does the NBME describe the sunburst appearance per p136?",
+    "q": "How does the NBME describe the sunburst appearance?",
     "a": "A periosteal reaction described as spiculated new bone formation. (The page's typo reads 'spiculated new born formation'.)",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29238,7 +29238,7 @@ export default [
   {
     "id": "s2peds-2052",
     "category": "Osteosarcoma",
-    "q": "What do the white arrow and white star mark on the osteosarcoma x-ray on p137?",
+    "q": "What do the white arrow and white star mark on the osteosarcoma x-ray in the source?",
     "a": "The white arrow is the Codman triangle; the white star is the sunburst appearance.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29255,7 +29255,7 @@ export default [
   {
     "id": "s2peds-2053",
     "category": "Ewing sarcoma",
-    "q": "A child has a bone tumor that presents like osteomyelitis (fever and bone pain). What is the answer per p137?",
+    "q": "A child has a bone tumor that presents like osteomyelitis (fever and bone pain). What is the answer?",
     "a": "Ewing sarcoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29270,7 +29270,7 @@ export default [
   {
     "id": "s2peds-2054",
     "category": "Ewing sarcoma",
-    "q": "Where does bone scan uptake show in Ewing sarcoma versus osteomyelitis per p137?",
+    "q": "Where does bone scan uptake show in Ewing sarcoma versus osteomyelitis?",
     "a": "Ewing sarcoma: most likely the diaphysis. Osteomyelitis: the metaphysis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29285,7 +29285,7 @@ export default [
   {
     "id": "s2peds-2055",
     "category": "Ewing sarcoma",
-    "q": "What does histology show in Ewing sarcoma per p137?",
+    "q": "What does histology show in Ewing sarcoma?",
     "a": "Small blue cells of neuroendocrine origin and/or onion-skinning.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29300,7 +29300,7 @@ export default [
   {
     "id": "s2peds-2056",
     "category": "Ewing sarcoma",
-    "q": "How might an NBME answer choice describe Ewing sarcoma histology per p137?",
+    "q": "How might an NBME answer choice describe Ewing sarcoma histology?",
     "a": "Closely packed, small, round, uniform neoplastic cells.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29315,7 +29315,7 @@ export default [
   {
     "id": "s2peds-2057",
     "category": "Ewing sarcoma",
-    "q": "What does the histology image on p137 show?",
+    "q": "What does the histology image in the source show?",
     "a": "Ewing sarcoma: sheets of closely packed, small, round, uniform blue cells.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29332,8 +29332,8 @@ export default [
   {
     "id": "s2peds-2058",
     "category": "Ewing sarcoma",
-    "q": "Which translocation is associated with Ewing sarcoma per p137, and what should you not confuse it with?",
-    "a": "t(11;22). Do not confuse with the 22q11 deletion in DiGeorge syndrome.",
+    "q": "Which translocation is associated with Ewing sarcoma, and what should you not confuse it with?",
+    "a": "T(11;22). Do not confuse with the 22q11 deletion in DiGeorge syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 137,
@@ -29347,7 +29347,7 @@ export default [
   {
     "id": "s2peds-2059",
     "category": "Unicameral bone cyst",
-    "q": "How does p137 describe unicameral bone cyst for USMLE?",
+    "q": "How does the source describe unicameral bone cyst for USMLE?",
     "a": "An underrated diagnosis, asked on the 2CK exam.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29358,7 +29358,7 @@ export default [
   {
     "id": "s2peds-2060",
     "category": "Unicameral bone cyst",
-    "q": "What is a unicameral bone cyst and what age does it occur per p137?",
+    "q": "What is a unicameral bone cyst and what age does it occur?",
     "a": "A benign bone tumor that looks similar to osteoclastoma but with onset usually from birth to age 20, rather than 20-40.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29373,7 +29373,7 @@ export default [
   {
     "id": "s2peds-2061",
     "category": "Unicameral bone cyst",
-    "q": "What does the proximal humerus x-ray on p138 show, and what does unicameral mean?",
+    "q": "What does the proximal humerus x-ray in the source show, and what does unicameral mean?",
     "a": "A unicameral bone cyst (a lucent lesion in the proximal humerus). Unicameral means one chamber; it is fluid-filled.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29390,7 +29390,7 @@ export default [
   {
     "id": "s2peds-2062",
     "category": "Spiral fracture",
-    "q": "What is the key association of a spiral fracture per p138, and what causes it?",
+    "q": "What is the key association of a spiral fracture, and what causes it?",
     "a": "Pathognomonic for child abuse (per the source). Caused by a rotational or twisting force applied to a limb.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29405,7 +29405,7 @@ export default [
   {
     "id": "s2peds-2063",
     "category": "Spiral fracture",
-    "q": "Does USMLE expect you to diagnose a spiral fracture from imaging per p138?",
+    "q": "Does USMLE expect you to diagnose a spiral fracture from imaging?",
     "a": "No. USMLE does not expect you to diagnose based on imaging.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29416,7 +29416,7 @@ export default [
   {
     "id": "s2peds-2064",
     "category": "Greenstick fracture",
-    "q": "What is a greenstick fracture per p138?",
+    "q": "What is a greenstick fracture?",
     "a": "A fracture in which the bone bends and cracks instead of breaking completely into two pieces. It is more common in children than adults.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29431,7 +29431,7 @@ export default [
   {
     "id": "s2peds-2065",
     "category": "Greenstick fracture",
-    "q": "Why are children's bones prone to greenstick fractures per p138?",
+    "q": "Why are children's bones prone to greenstick fractures?",
     "a": "They are more flexible than adult bones, with increased collagen content and decreased mineral content, allowing them to bend more.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29442,7 +29442,7 @@ export default [
   {
     "id": "s2peds-2066",
     "category": "Greenstick fracture",
-    "q": "How does p138 describe the mechanism of a greenstick fracture?",
+    "q": "How does the source describe the mechanism of a greenstick fracture?",
     "a": "A force that would completely fracture an adult bone might only cause an incomplete fracture in a child, with the bone bending and breaking on one side like a green tree branch that splinters on one side.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29457,7 +29457,7 @@ export default [
   {
     "id": "s2peds-2067",
     "category": "Metatarsal stress fracture",
-    "q": "Which story gives a metatarsal stress fracture per p138?",
+    "q": "Which story gives a metatarsal stress fracture?",
     "a": "Pain in the metatarsal area of the foot in a long-distance runner with low BMI.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29472,7 +29472,7 @@ export default [
   {
     "id": "s2peds-2068",
     "category": "Metatarsal stress fracture",
-    "q": "A female long-distance runner with low BMI has a metatarsal stress fracture. What is she at greatest risk of developing per p138?",
+    "q": "A female long-distance runner with low BMI has a metatarsal stress fracture. What is she at greatest risk of developing?",
     "a": "Osteoporosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29487,7 +29487,7 @@ export default [
   {
     "id": "s2peds-2069",
     "category": "Clavicular fracture",
-    "q": "How do clavicular fractures occur per p138?",
+    "q": "How do clavicular fractures occur?",
     "a": "Fall on an outstretched hand (FOSH), or occasionally a handlebar injury or impaction, with force transferred up to the clavicle.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29502,7 +29502,7 @@ export default [
   {
     "id": "s2peds-2070",
     "category": "Clavicular fracture",
-    "q": "What is the most common site of clavicular fracture per p138?",
+    "q": "What is the most common site of clavicular fracture?",
     "a": "The middle third of the clavicle.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29517,7 +29517,7 @@ export default [
   {
     "id": "s2peds-2071",
     "category": "Clavicular fracture",
-    "q": "What is the treatment of a clavicular fracture per p138?",
+    "q": "What is the treatment of a clavicular fracture?",
     "a": "Figure-of-8 sling.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29532,7 +29532,7 @@ export default [
   {
     "id": "s2peds-2072",
     "category": "Scaphoid fracture",
-    "q": "How does a scaphoid fracture present per p138?",
+    "q": "How does a scaphoid fracture present?",
     "a": "Pain over the anatomic snuffbox in a patient with FOSH.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29543,7 +29543,7 @@ export default [
   {
     "id": "s2peds-2073",
     "category": "Scaphoid fracture",
-    "q": "What is the x-ray finding and management for a suspected scaphoid fracture per p138?",
+    "q": "What is the x-ray finding and management for a suspected scaphoid fracture?",
     "a": "The x-ray is usually negative acutely. Must do a thumb-spica cast to prevent avascular necrosis of the scaphoid, followed by repeat x-ray in 2-3 weeks.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29558,7 +29558,7 @@ export default [
   {
     "id": "s2peds-2074",
     "category": "Lunate fracture",
-    "q": "What is the lunate fracture answer per p138?",
+    "q": "What is the lunate fracture answer?",
     "a": "FOSH with pain in the central palm and no pain over the anatomic snuffbox.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29569,7 +29569,7 @@ export default [
   {
     "id": "s2peds-2075",
     "category": "Hook of hamate fracture",
-    "q": "What nerve injury does a hook of hamate fracture cause per p139, and how does it happen?",
+    "q": "What nerve injury does a hook of hamate fracture cause, and how does it happen?",
     "a": "Distal ulnar nerve injury / Guyon canal syndrome. Often from a handlebar injury or impaction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29584,7 +29584,7 @@ export default [
   {
     "id": "s2peds-2076",
     "category": "Humerus fractures",
-    "q": "Which nerve injury does a surgical neck of humerus fracture cause per p139?",
+    "q": "Which nerve injury does a surgical neck of humerus fracture cause?",
     "a": "Axillary nerve injury: loss of deltoid function plus sensation over the deltoid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29599,7 +29599,7 @@ export default [
   {
     "id": "s2peds-2077",
     "category": "Humerus fractures",
-    "q": "Which nerve injury does a midshaft humerus fracture cause per p139?",
+    "q": "Which nerve injury does a midshaft humerus fracture cause?",
     "a": "Radial nerve injury: wrist-drop and a pronated arm.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29614,8 +29614,8 @@ export default [
   {
     "id": "s2peds-2078",
     "category": "Humerus fractures",
-    "q": "What does a supracondylar fracture of the humerus cause per p139?",
-    "a": "Median nerve injury: motor/sensory dysfunction of forearm muscles, the first three fingers and the thenar region. (p139 also calls it the distal shaft fracture.)",
+    "q": "What does a supracondylar fracture of the humerus cause?",
+    "a": "Median nerve injury: motor/sensory dysfunction of forearm muscles, the first three fingers and the thenar region. (the source also calls it the distal shaft fracture.)",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 139,
@@ -29625,7 +29625,7 @@ export default [
   {
     "id": "s2peds-2079",
     "category": "Pseudofracture",
-    "q": "What is a pseudofracture per p139?",
+    "q": "What is a pseudofracture?",
     "a": "A band of low-density bone that looks like a fracture on x-ray but is not an actual fracture.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29640,7 +29640,7 @@ export default [
   {
     "id": "s2peds-2080",
     "category": "Pseudofracture",
-    "q": "What does pseudofracture mean on USMLE per p139?",
+    "q": "What does pseudofracture mean on USMLE?",
     "a": "Vitamin D deficiency (osteomalacia/rickets).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29655,7 +29655,7 @@ export default [
   {
     "id": "s2peds-2081",
     "category": "Pseudofracture",
-    "q": "How can pseudofracture occur in renal failure per p139?",
+    "q": "How can pseudofracture occur in renal failure?",
     "a": "1,25-D3 is low. Osteomalacia due to renal failure is called renal osteodystrophy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29670,7 +29670,7 @@ export default [
   {
     "id": "s2peds-2082",
     "category": "Duchenne / Becker muscular dystrophy",
-    "q": "What is the inheritance and gene of Duchenne/Becker muscular dystrophy per p139?",
+    "q": "What is the inheritance and gene of Duchenne/Becker muscular dystrophy?",
     "a": "X-linked recessive, mutation in the dystrophin (DMD) gene.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29685,7 +29685,7 @@ export default [
   {
     "id": "s2peds-2083",
     "category": "Duchenne / Becker muscular dystrophy",
-    "q": "What does the dystrophin mutation disrupt per p139?",
+    "q": "What does the dystrophin mutation disrupt?",
     "a": "The alpha/beta-dystroglycan link, required for anchoring the internal cytoskeleton of the muscle cell to the extracellular matrix.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29696,7 +29696,7 @@ export default [
   {
     "id": "s2peds-2084",
     "category": "Duchenne / Becker muscular dystrophy",
-    "q": "What is pseudohypertrophy per p139?",
+    "q": "What is pseudohypertrophy?",
     "a": "Muscles that appear large but are replaced with fibroadipose (connective tissue stromal) tissue.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29711,7 +29711,7 @@ export default [
   {
     "id": "s2peds-2085",
     "category": "Duchenne / Becker muscular dystrophy",
-    "q": "What is the Gower maneuver and in whom is it seen per p139?",
+    "q": "What is the Gower maneuver and in whom is it seen?",
     "a": "Duchenne in a young boy: uses arms to walk up off the floor to stand because leg muscles are weak.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29722,7 +29722,7 @@ export default [
   {
     "id": "s2peds-2086",
     "category": "Duchenne / Becker muscular dystrophy",
-    "q": "How do Becker and Duchenne differ per p139?",
+    "q": "How do Becker and Duchenne differ?",
     "a": "Becker presents in adolescence or young adulthood and is less severe. Duchenne is classically a frameshift mutation; Becker classically is not.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29737,7 +29737,7 @@ export default [
   {
     "id": "s2peds-2087",
     "category": "Polymyositis / dermatomyositis",
-    "q": "Can dermatomyositis occur in a child per p139?",
+    "q": "Can dermatomyositis occur in a child?",
     "a": "Yes. A Peds form question has it in a kid. It is usually seen in patients over 50.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29748,7 +29748,7 @@ export default [
   {
     "id": "s2peds-2088",
     "category": "Polymyositis / dermatomyositis",
-    "q": "How does polymyositis present per p139?",
+    "q": "How does polymyositis present?",
     "a": "Proximal muscle pain and stiffness plus muscle weakness on exam and/or increased serum CK.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29759,7 +29759,7 @@ export default [
   {
     "id": "s2peds-2089",
     "category": "Polymyositis / dermatomyositis",
-    "q": "What skin findings turn polymyositis into dermatomyositis per p139?",
+    "q": "What skin findings turn polymyositis into dermatomyositis?",
     "a": "Gottron papules (violaceous papules on the knuckles), mechanics' hands (rough-surfaced hands), shawl rash (body rash), heliotrope rash (violaceous eyelids / periorbital rash, not the malar rash of SLE).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29774,7 +29774,7 @@ export default [
   {
     "id": "s2peds-2090",
     "category": "Polymyositis / dermatomyositis",
-    "q": "Which antibody is often positive in polymyositis/dermatomyositis per p139?",
+    "q": "Which antibody is often positive in polymyositis/dermatomyositis?",
     "a": "Anti-Jo1 antibodies.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29789,8 +29789,8 @@ export default [
   {
     "id": "s2peds-2091",
     "category": "Polymyositis / dermatomyositis",
-    "q": "What is the first step in management of polymyositis/dermatomyositis per p139?",
-    "a": "Electromyography and nerve conduction studies. p139 says anti-Jo1 is usually in the vignette rather than the test to order.",
+    "q": "What is the first step in management of polymyositis/dermatomyositis?",
+    "a": "Electromyography and nerve conduction studies. the source says anti-Jo1 is usually in the vignette rather than the test to order.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 139,
@@ -29804,7 +29804,7 @@ export default [
   {
     "id": "s2peds-2092",
     "category": "Polymyositis / dermatomyositis",
-    "q": "What does confirmatory muscle biopsy show in polymyositis per p139, and what is the treatment?",
+    "q": "What does confirmatory muscle biopsy show in polymyositis, and what is the treatment?",
     "a": "CD8+ T cell infiltration (CD8+ T cells and macrophages surrounding muscle fibers). Treatment is steroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29819,7 +29819,7 @@ export default [
   {
     "id": "s2peds-2093",
     "category": "Fibromyalgia",
-    "q": "What does p139 say fibromyalgia is and what are the labs?",
+    "q": "What does the source say fibromyalgia is and what are the labs?",
     "a": "A psych condition, not an actual muscle disorder. Labs are normal, ESR is not elevated and there is no fever.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29834,7 +29834,7 @@ export default [
   {
     "id": "s2peds-2094",
     "category": "Fibromyalgia",
-    "q": "Who gets fibromyalgia per p139?",
+    "q": "Who gets fibromyalgia?",
     "a": "Can occur in teenagers, but typically women in their 20s-50s with multiple symmetric muscle tender points.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29845,7 +29845,7 @@ export default [
   {
     "id": "s2peds-2095",
     "category": "Fibromyalgia",
-    "q": "What treatment does p139 give for fibromyalgia?",
+    "q": "What treatment does the source give for fibromyalgia?",
     "a": "SSRIs. USMLE can write it as anti-depressant therapy, which is still correct even if she is not depressed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29860,7 +29860,7 @@ export default [
   {
     "id": "s2peds-2096",
     "category": "Myotonic dystrophy",
-    "q": "What is the inheritance and mechanism of myotonic dystrophy per p139?",
+    "q": "What is the inheritance and mechanism of myotonic dystrophy?",
     "a": "Autosomal dominant, CTG trinucleotide repeat expansion disease.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29875,7 +29875,7 @@ export default [
   {
     "id": "s2peds-2097",
     "category": "Myotonic dystrophy",
-    "q": "What is myotonia per p139?",
+    "q": "What is myotonia?",
     "a": "Inability to relax muscles.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29890,7 +29890,7 @@ export default [
   {
     "id": "s2peds-2098",
     "category": "Myotonic dystrophy",
-    "q": "What is the USMLE vignette for myotonic dystrophy per p140?",
+    "q": "What is the USMLE vignette for myotonic dystrophy?",
     "a": "A patient who cannot relax grip on a doorknob or handshake, or cannot let go of a golf club.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29905,7 +29905,7 @@ export default [
   {
     "id": "s2peds-2099",
     "category": "Myotonic dystrophy",
-    "q": "What hair finding is sometimes associated with myotonic dystrophy per p140?",
+    "q": "What hair finding is sometimes associated with myotonic dystrophy?",
     "a": "Early / frontal balding.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29916,7 +29916,7 @@ export default [
   {
     "id": "s2peds-2100",
     "category": "Mitochondrial myopathy",
-    "q": "What tetrad points to a mitochondrial disorder per p140?",
+    "q": "What tetrad points to a mitochondrial disorder?",
     "a": "Hypotonia, ear/eye problems, and lactic acidosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29931,7 +29931,7 @@ export default [
   {
     "id": "s2peds-2101",
     "category": "Mitochondrial myopathy",
-    "q": "What is the buzzy descriptor in mitochondrial myopathy questions per p140?",
+    "q": "What is the buzzy descriptor in mitochondrial myopathy questions?",
     "a": "Ragged red fibers.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29942,7 +29942,7 @@ export default [
   {
     "id": "s2peds-2102",
     "category": "Mitochondrial myopathy",
-    "q": "How are mitochondrial disorders inherited per p140?",
+    "q": "How are mitochondrial disorders inherited?",
     "a": "Maternally inherited only (per the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29957,7 +29957,7 @@ export default [
   {
     "id": "s2peds-2103",
     "category": "Mitochondrial myopathy",
-    "q": "What is heteroplasmy per p140?",
+    "q": "What is heteroplasmy?",
     "a": "Offspring have varying disease severity based on variation in how diseased mitochondrial genes are allocated.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29972,7 +29972,7 @@ export default [
   {
     "id": "s2peds-2104",
     "category": "Mixed connective tissue disease",
-    "q": "What antibody gives mixed connective tissue disease per p140, and can it occur in kids?",
+    "q": "What antibody gives mixed connective tissue disease, and can it occur in kids?",
     "a": "Anti-U1-ribonucleoprotein (U1-RNP) antibodies. It can occur in kids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -29987,7 +29987,7 @@ export default [
   {
     "id": "s2peds-2105",
     "category": "Mixed connective tissue disease",
-    "q": "What does the LPS mnemonic stand for in MCTD per p140?",
+    "q": "What does the LPS mnemonic stand for in MCTD?",
     "a": "Lupus, Polymyositis, Scleroderma: combined features from three different disorders.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30002,8 +30002,8 @@ export default [
   {
     "id": "s2peds-2106",
     "category": "Thyroglossal duct cyst",
-    "q": "What is the classic vignette for a thyroglossal duct cyst per p140?",
-    "a": "A painless midline neck lump in a child that moves upward with swallowing or protrusion of the tongue. p140 says this description is seen for maybe only about half of questions.",
+    "q": "What is the classic vignette for a thyroglossal duct cyst?",
+    "a": "A painless midline neck lump in a child that moves upward with swallowing or protrusion of the tongue. the source says this description is seen for maybe only about half of questions.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 140,
@@ -30017,7 +30017,7 @@ export default [
   {
     "id": "s2peds-2107",
     "category": "Thyroglossal duct cyst",
-    "q": "How else can a thyroglossal duct cyst be described per p140?",
+    "q": "How else can a thyroglossal duct cyst be described?",
     "a": "A painless mass inferior to the hyoid bone that shows uptake on a Technetium-99 scan.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30032,7 +30032,7 @@ export default [
   {
     "id": "s2peds-2108",
     "category": "Thyroglossal duct cyst",
-    "q": "What embryology does USMLE want for a thyroglossal duct cyst per p140?",
+    "q": "What embryology does USMLE want for a thyroglossal duct cyst?",
     "a": "Endoderm of the foramen cecum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30047,7 +30047,7 @@ export default [
   {
     "id": "s2peds-2109",
     "category": "Sternocleidomastoid injury",
-    "q": "Which story gives sternocleidomastoid injury per p140?",
+    "q": "Which story gives sternocleidomastoid injury?",
     "a": "A nodular mass in the lateral neck of an infant who was born via forceps delivery (a risk factor for damage to the muscle).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30062,7 +30062,7 @@ export default [
   {
     "id": "s2peds-2110",
     "category": "Branchial cleft cyst",
-    "q": "Which story gives a branchial cleft cyst per p140?",
+    "q": "Which story gives a branchial cleft cyst?",
     "a": "An idiopathic lateral neck mass in an infant that may or may not have an opening to the skin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30077,7 +30077,7 @@ export default [
   {
     "id": "s2peds-2111",
     "category": "Peds biochem",
-    "q": "What does p141 say about memorizing enzyme deficiencies for the 2CK Peds shelf?",
+    "q": "What does the source say about memorizing enzyme deficiencies for the 2CK Peds shelf?",
     "a": "You do not need to memorize the specific enzyme deficiencies. You need to know how the conditions present and how to diagnose them. The enzyme names are listed for context.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30088,7 +30088,7 @@ export default [
   {
     "id": "s2peds-2112",
     "category": "Glycogen storage diseases",
-    "q": "What is the inheritance of the glycogen storage diseases on p141?",
+    "q": "What is the inheritance of the glycogen storage diseases in the source?",
     "a": "All autosomal recessive.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30103,7 +30103,7 @@ export default [
   {
     "id": "s2peds-2113",
     "category": "Glycogen storage diseases",
-    "q": "What is the enzyme deficiency and HY presentation of type I (von Gierke) per p141?",
+    "q": "What is the enzyme deficiency and HY presentation of type I (von Gierke)?",
     "a": "Glucose-6-phosphatase. Lactic acidosis, hypoglycemia, jaundice, hepatomegaly: the super sick kid with glycogen storage disease.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30118,8 +30118,8 @@ export default [
   {
     "id": "s2peds-2114",
     "category": "Glycogen storage diseases",
-    "q": "What is type II (Pompe) per p141 and when is it the answer?",
-    "a": "Cardiomyopathy and hepatomegaly. It is the answer if they say anything about the heart in the context of glycogen storage disease. p141 lists the enzyme as debranching alpha-1,4-glucosidase (lysosomal acid maltase).",
+    "q": "What is type II (Pompe) and when is it the answer?",
+    "a": "Cardiomyopathy and hepatomegaly. It is the answer if they say anything about the heart in the context of glycogen storage disease. the source lists the enzyme as debranching alpha-1,4-glucosidase (lysosomal acid maltase).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 141,
@@ -30133,7 +30133,7 @@ export default [
   {
     "id": "s2peds-2115",
     "category": "Glycogen storage diseases",
-    "q": "What is type III (Cori) per p141, and how does it differ from von Gierke?",
+    "q": "What is type III (Cori), and how does it differ from von Gierke?",
     "a": "Debranching alpha-1,6-glucosidase deficiency. No lactic acidosis, in contrast to von Gierke: the not so sick kid with glycogen storage disease.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30148,7 +30148,7 @@ export default [
   {
     "id": "s2peds-2116",
     "category": "Glycogen storage diseases",
-    "q": "What is type V (McArdle) per p141?",
+    "q": "What is type V (McArdle)?",
     "a": "Myophosphorylase (glycogen muscle phosphorylase) deficiency. Usually adolescent or adult, with severe cramping/rhabdo after intense exercise but normal serum lactate.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30163,7 +30163,7 @@ export default [
   {
     "id": "s2peds-2117",
     "category": "Lysosomal storage diseases",
-    "q": "What is the inheritance of the lysosomal storage diseases on p141?",
+    "q": "What is the inheritance of the lysosomal storage diseases in the source?",
     "a": "All AR except Fabry and Hunter, which are XR.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30178,7 +30178,7 @@ export default [
   {
     "id": "s2peds-2118",
     "category": "Lysosomal storage diseases",
-    "q": "What causes I-cell disease per p141?",
+    "q": "What causes I-cell disease?",
     "a": "N-acetylglucosamine-1-phosphotransferase deficiency: it cannot synthesize mannose-6-phosphate at the Golgi, which targets enzymes to lysosomes. Lysosomal enzymes are instead secreted into the cytosol and serum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30193,7 +30193,7 @@ export default [
   {
     "id": "s2peds-2119",
     "category": "Lysosomal storage diseases",
-    "q": "What clinical features of I-cell disease does p141 list?",
+    "q": "What clinical features of I-cell disease does the source list?",
     "a": "Coarse facial features, joint contractures, hepatomegaly and recurrent ear infections.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30204,7 +30204,7 @@ export default [
   {
     "id": "s2peds-2120",
     "category": "Lysosomal storage diseases",
-    "q": "What are the HY points of Gaucher disease per p141?",
+    "q": "What are the HY points of Gaucher disease?",
     "a": "Glucocerebrosidase deficiency, glucocerebroside buildup. Avascular necrosis of the hip, crumpled tissue paper (lipid-laden) macrophages, and the answer for lysosomal storage disease plus a bone problem.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30219,7 +30219,7 @@ export default [
   {
     "id": "s2peds-2121",
     "category": "Lysosomal storage diseases",
-    "q": "What are the HY points of Tay-Sachs per p141?",
+    "q": "What are the HY points of Tay-Sachs?",
     "a": "Hexosaminidase A deficiency, GM2 ganglioside buildup. Cherry red spot on the macula, no hepatosplenomegaly, neurodegeneration.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30234,8 +30234,8 @@ export default [
   {
     "id": "s2peds-2122",
     "category": "Lysosomal storage diseases",
-    "q": "What are the HY points of Niemann-Pick per p141, and how does it differ from Tay-Sachs?",
-    "a": "Sphingomyelinase deficiency, sphingomyelin buildup. Cherry red spot, yes hepatosplenomegaly, neurodegeneration. p141 mnemonic: Niemann-Pick is the longer name, and hepatosplenomegaly is a long word.",
+    "q": "What are the HY points of Niemann-Pick, and how does it differ from Tay-Sachs?",
+    "a": "Sphingomyelinase deficiency, sphingomyelin buildup. Cherry red spot, yes hepatosplenomegaly, neurodegeneration. the source mnemonic: Niemann-Pick is the longer name, and hepatosplenomegaly is a long word.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 141,
@@ -30249,7 +30249,7 @@ export default [
   {
     "id": "s2peds-2123",
     "category": "Lysosomal storage diseases",
-    "q": "What is metachromatic leukodystrophy per p141?",
+    "q": "What is metachromatic leukodystrophy?",
     "a": "Arylsulfatase A deficiency, cerebroside sulfate buildup, with progressive neurologic decline.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30264,7 +30264,7 @@ export default [
   {
     "id": "s2peds-2124",
     "category": "Lysosomal storage diseases",
-    "q": "What is Krabbe disease per p141?",
+    "q": "What is Krabbe disease?",
     "a": "Galactocerebrosidase deficiency (galactocerebroside, psychosine buildup), aka globoid cell leukodystrophy, with giant multinucleated globoid cells and neurodegeneration.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30279,7 +30279,7 @@ export default [
   {
     "id": "s2peds-2125",
     "category": "Lysosomal storage diseases",
-    "q": "What are the HY points of Fabry disease per p141?",
+    "q": "What are the HY points of Fabry disease?",
     "a": "X-linked, alpha-galactosidase A deficiency, ceramide trihexoside buildup. Angiokeratomas (small red/purple skin dots from capillary dilation) and heart and/or renal problems.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30294,7 +30294,7 @@ export default [
   {
     "id": "s2peds-2126",
     "category": "Lysosomal storage diseases",
-    "q": "What are the HY points of Hunter syndrome per p142?",
+    "q": "What are the HY points of Hunter syndrome?",
     "a": "Iduronate sulfatase deficiency, GAG (dermatan + heparan sulfate) buildup. Gargoyle-like facies, stridor, aggressive behavior, no clouded corneas. Mnemonic: Hunters can see the X, so XR and no clouded corneas.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30309,8 +30309,8 @@ export default [
   {
     "id": "s2peds-2127",
     "category": "Lysosomal storage diseases",
-    "q": "What are the HY points of Hurler syndrome per p142?",
-    "a": "Alpha-L-iduronidase deficiency, GAG buildup. Gargoyle-like facies, stridor, aggressive behavior, yes clouded corneas. p142 calls it the more severe form of Hunter.",
+    "q": "What are the HY points of Hurler syndrome?",
+    "a": "Alpha-L-iduronidase deficiency, GAG buildup. Gargoyle-like facies, stridor, aggressive behavior, yes clouded corneas. the source calls it the more severe form of Hunter.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 142,
@@ -30324,7 +30324,7 @@ export default [
   {
     "id": "s2peds-2128",
     "category": "Phenylketonuria",
-    "q": "What is the inheritance and enzyme defect of PKU per p142?",
+    "q": "What is the inheritance and enzyme defect of PKU?",
     "a": "Autosomal recessive. Phenylalanine hydroxylase deficiency (or rarely THB, its cofactor), so phenylalanine cannot be converted to tyrosine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30339,7 +30339,7 @@ export default [
   {
     "id": "s2peds-2129",
     "category": "Phenylketonuria",
-    "q": "How is PKU screened for and why per p142?",
+    "q": "How is PKU screened for and why?",
     "a": "Heel-prick test at birth, since failure to detect PKU results in mental retardation (intellectual disability, current term).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30354,7 +30354,7 @@ export default [
   {
     "id": "s2peds-2130",
     "category": "Phenylketonuria",
-    "q": "What is the treatment of PKU per p142?",
+    "q": "What is the treatment of PKU?",
     "a": "A phenylalanine-deficient diet.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30369,7 +30369,7 @@ export default [
   {
     "id": "s2peds-2131",
     "category": "Phenylketonuria",
-    "q": "What is the classic PKU presentation per p142?",
+    "q": "What is the classic PKU presentation?",
     "a": "A child with a mousy or musty body odor who has lighter skin than siblings (partial albinism, since tyrosine is normally converted to melanin and cannot be synthesized).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30384,7 +30384,7 @@ export default [
   {
     "id": "s2peds-2132",
     "category": "Maple syrup urine disease",
-    "q": "What enzyme and amino acids are involved in maple syrup urine disease per p142?",
+    "q": "What enzyme and amino acids are involved in maple syrup urine disease?",
     "a": "Branched-chain ketoacid dehydrogenase deficiency. Inability to break down leucine, isoleucine and valine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30399,7 +30399,7 @@ export default [
   {
     "id": "s2peds-2133",
     "category": "Maple syrup urine disease",
-    "q": "What is the classic sign of maple syrup urine disease per p142?",
+    "q": "What is the classic sign of maple syrup urine disease?",
     "a": "A maple syrup scent in the diapers from the urine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30414,7 +30414,7 @@ export default [
   {
     "id": "s2peds-2134",
     "category": "Homocystinuria",
-    "q": "What is the classic vignette of homocystinuria per p142?",
+    "q": "What is the classic vignette of homocystinuria?",
     "a": "A marfanoid school-age kid with thromboses: a tall, lanky 12-year-old girl with lens dislocation who also has thrombosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30429,7 +30429,7 @@ export default [
   {
     "id": "s2peds-2135",
     "category": "Homocystinuria",
-    "q": "Why does homocystinuria cause thrombosis per p142?",
+    "q": "Why does homocystinuria cause thrombosis?",
     "a": "Increased homocystine causes endothelial cell dysfunction and platelet activation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30440,7 +30440,7 @@ export default [
   {
     "id": "s2peds-2136",
     "category": "Homocystinuria",
-    "q": "Which enzyme deficiencies raise urinary homocystine per p142?",
+    "q": "Which enzyme deficiencies raise urinary homocystine?",
     "a": "Cystathionine synthase or methionine synthase deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30455,7 +30455,7 @@ export default [
   {
     "id": "s2peds-2137",
     "category": "Galactokinase deficiency",
-    "q": "What are the HY points of galactokinase deficiency per p142?",
+    "q": "What are the HY points of galactokinase deficiency?",
     "a": "Present from birth after milk lactose becomes galactose + glucose, screened by heel-prick. Cataracts in the neonate: aldose reductase converts galactose to galactitol, which has a large osmotic pull in the lens. Milder than classic galactosemia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30470,7 +30470,7 @@ export default [
   {
     "id": "s2peds-2138",
     "category": "Classic galactosemia",
-    "q": "What enzyme and findings define classic galactosemia per p142?",
+    "q": "What enzyme and findings define classic galactosemia?",
     "a": "Galactose-1-phosphate uridyl transferase deficiency. From birth after milk feeds, screened by heel-prick. Cataracts, hepatomegaly, jaundice, hypoglycemia, associated with E. coli sepsis. Worse than GK deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30485,7 +30485,7 @@ export default [
   {
     "id": "s2peds-2139",
     "category": "Classic galactosemia",
-    "q": "Why is classic galactosemia worse than GK deficiency per p142?",
+    "q": "Why is classic galactosemia worse than GK deficiency?",
     "a": "Trapped galactose-1-phosphate in the liver sequesters phosphate.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30496,7 +30496,7 @@ export default [
   {
     "id": "s2peds-2140",
     "category": "Essential fructosuria",
-    "q": "What are the HY points of essential fructosuria per p142?",
+    "q": "What are the HY points of essential fructosuria?",
     "a": "Fructokinase deficiency. A benign condition. Mere presence of reducing sugars in the urine, with a negative glucose oxidase urine test (reducing sugars are not glucose).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30511,7 +30511,7 @@ export default [
   {
     "id": "s2peds-2141",
     "category": "Hereditary fructose intolerance",
-    "q": "What are the HY points of hereditary fructose intolerance per p142?",
+    "q": "What are the HY points of hereditary fructose intolerance?",
     "a": "Aldolase B deficiency. Begins with dietary introduction of juice, fruit, honey and table sugar. Hepatomegaly, jaundice, hypoglycemia. Trapped fructose-1-phosphate in the liver sequesters phosphate.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30526,7 +30526,7 @@ export default [
   {
     "id": "s2peds-2142",
     "category": "Phakomatoses",
-    "q": "What does p143 say about NF1 and TSC?",
+    "q": "What does the source say about NF1 and TSC?",
     "a": "They were discussed briefly earlier but are exceedingly high yield and are reinforced here.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30537,7 +30537,7 @@ export default [
   {
     "id": "s2peds-2143",
     "category": "Neurofibromatosis type 1",
-    "q": "What are the genetics of NF1 per p143?",
+    "q": "What are the genetics of NF1?",
     "a": "NF1 gene, autosomal dominant, chromosome 17.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30552,7 +30552,7 @@ export default [
   {
     "id": "s2peds-2144",
     "category": "Neurofibromatosis type 1",
-    "q": "What are the HY points of NF1 per p143?",
+    "q": "What are the HY points of NF1?",
     "a": "Neurofibromas, cafe au lait spots (hyperpigmented macules), axillary/groin freckling, Lisch nodules (iris hamartomas), pheochromocytoma, optic nerve glioma (bold on the page), oligodendroglioma, ependymoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30567,7 +30567,7 @@ export default [
   {
     "id": "s2peds-2145",
     "category": "Neurofibromatosis type 2",
-    "q": "What are the genetics of NF2 per p143?",
+    "q": "What are the genetics of NF2?",
     "a": "NF2 gene, autosomal dominant, chromosome 22.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30582,7 +30582,7 @@ export default [
   {
     "id": "s2peds-2146",
     "category": "Neurofibromatosis type 2",
-    "q": "What are the HY points of NF2 per p143?",
+    "q": "What are the HY points of NF2?",
     "a": "In kids, sometimes bilateral cataracts. Bilateral acoustic schwannomas plus meningioma in adults.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30597,7 +30597,7 @@ export default [
   {
     "id": "s2peds-2147",
     "category": "Tuberous sclerosis",
-    "q": "What are the genetics of tuberous sclerosis per p143?",
+    "q": "What are the genetics of tuberous sclerosis?",
     "a": "TSC1 (AD, chromosome 9, hamartin) or TSC2 (AD, chromosome 16, tuberin).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30612,7 +30612,7 @@ export default [
   {
     "id": "s2peds-2148",
     "category": "Tuberous sclerosis",
-    "q": "What are the HY points of tuberous sclerosis per p143?",
+    "q": "What are the HY points of tuberous sclerosis?",
     "a": "Periventricular nodules (tubers) on head MRI, seizures, adenoma sebaceum (angiofibromas), subungual fibromas, renal angiomyolipoma, cardiac rhabdomyoma, hypopigmented macules (ashleaf spots), hyperpigmented velvety lesions (shagreen patches).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30627,7 +30627,7 @@ export default [
   {
     "id": "s2peds-2149",
     "category": "Von Hippel-Lindau",
-    "q": "What are the genetics and HY points of VHL per p143?",
+    "q": "What are the genetics and HY points of VHL?",
     "a": "VHL gene, AD, chromosome 3. Cerebellar/retinal hemangioblastomas, bilateral renal cell carcinoma, pancreatic cysts.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30642,7 +30642,7 @@ export default [
   {
     "id": "s2peds-2150",
     "category": "Von Hippel-Lindau",
-    "q": "What does the VHL mutation do per p143?",
+    "q": "What does the VHL mutation do?",
     "a": "Causes constitutive activation of hypoxia-inducible factor.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30653,7 +30653,7 @@ export default [
   {
     "id": "s2peds-2151",
     "category": "Sturge-Weber",
-    "q": "What are the genetics of Sturge-Weber per p143?",
+    "q": "What are the genetics of Sturge-Weber?",
     "a": "Not inherited; somatic mosaicism of the GNAQ gene.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30668,7 +30668,7 @@ export default [
   {
     "id": "s2peds-2152",
     "category": "Sturge-Weber",
-    "q": "What are the HY points of Sturge-Weber per p143?",
+    "q": "What are the HY points of Sturge-Weber?",
     "a": "Port wine stain (nevus flammeus; may also present as violaceous papules in temporal distribution), leptomeningeal angioma (presenting as seizure), glaucoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30683,7 +30683,7 @@ export default [
   {
     "id": "s2peds-2153",
     "category": "Immunodeficiencies",
-    "q": "How does p143 say the immunodeficiencies differ from the storage diseases for the Peds shelf and 2CK?",
+    "q": "How does the source say the immunodeficiencies differ from the storage diseases for the Peds shelf and 2CK?",
     "a": "You are expected to know the immunodeficiencies at a Step-1 level of detail, including mechanisms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30694,7 +30694,7 @@ export default [
   {
     "id": "s2peds-2154",
     "category": "Severe combined immunodeficiency",
-    "q": "What are the genetics of SCID per p143?",
+    "q": "What are the genetics of SCID?",
     "a": "X-linked recessive is most common (usually common gamma chain mutation, or IL-2 receptor). Autosomal recessive type is less common, due to adenosine deaminase deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30709,7 +30709,7 @@ export default [
   {
     "id": "s2peds-2155",
     "category": "Severe combined immunodeficiency",
-    "q": "What are the immunologic findings of SCID per p143?",
+    "q": "What are the immunologic findings of SCID?",
     "a": "Combined T and B cell deficiency. T cell deficiency: absent thymic shadow. B cell deficiency: scanty or absent lymph nodes and tonsils.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30724,7 +30724,7 @@ export default [
   {
     "id": "s2peds-2156",
     "category": "Severe combined immunodeficiency",
-    "q": "Which vignette gives SCID per p143, and what is the treatment?",
+    "q": "Which vignette gives SCID, and what is the treatment?",
     "a": "A sick kid with infections of all different types (viral, fungal, bacterial, protozoal) since birth. Treatment is bone marrow transplant.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30739,7 +30739,7 @@ export default [
   {
     "id": "s2peds-2157",
     "category": "Bruton agammaglobulinemia",
-    "q": "What causes Bruton X-linked agammaglobulinemia per p143?",
+    "q": "What causes Bruton X-linked agammaglobulinemia?",
     "a": "X-linked recessive mutation in Bruton tyrosine kinase, giving isolated B cell deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30754,7 +30754,7 @@ export default [
   {
     "id": "s2peds-2158",
     "category": "Bruton agammaglobulinemia",
-    "q": "What do immunoglobulins and lymphoid tissue look like in XLA per p143?",
+    "q": "What do immunoglobulins and lymphoid tissue look like in XLA?",
     "a": "Scanty or absent lymph nodes and tonsils; decreased immunoglobulins of all classes, because B cells make antibodies.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30769,7 +30769,7 @@ export default [
   {
     "id": "s2peds-2159",
     "category": "Bruton agammaglobulinemia",
-    "q": "Which vignette gives XLA per p143, and how does it differ from SCID?",
+    "q": "Which vignette gives XLA, and how does it differ from SCID?",
     "a": "Almost always a boy with only bacterial infections since about 6 months of age. If they also mention viral, fungal or protozoal infections, it is SCID.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30780,7 +30780,7 @@ export default [
   {
     "id": "s2peds-2160",
     "category": "Bruton agammaglobulinemia",
-    "q": "What exception does p143 note about the age of onset in XLA?",
+    "q": "What exception does the source note about the age of onset in XLA?",
     "a": "A Peds 2CK form question says bacterial infections since birth, but the other answers can be eliminated. About 14 of 15 questions say from roughly 5-7 months onward.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30791,7 +30791,7 @@ export default [
   {
     "id": "s2peds-2161",
     "category": "Bruton agammaglobulinemia",
-    "q": "What is the NBME treatment for XLA per p143?",
+    "q": "What is the NBME treatment for XLA?",
     "a": "Monthly infusion of immunoglobulin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30806,7 +30806,7 @@ export default [
   {
     "id": "s2peds-2162",
     "category": "Bruton agammaglobulinemia",
-    "q": "What does USMLE often write as the answer for XLA per p144?",
+    "q": "What does USMLE often write as the answer for XLA?",
     "a": "Deficiency of humoral immunity, rather than just Bruton XLA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30817,7 +30817,7 @@ export default [
   {
     "id": "s2peds-2163",
     "category": "IgA deficiency",
-    "q": "What does p144 say about IgA deficiency and how common it is?",
+    "q": "What does the source say about IgA deficiency and how common it is?",
     "a": "One of the highest yield conditions for the Step. It is the most common hereditary immunodeficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30828,7 +30828,7 @@ export default [
   {
     "id": "s2peds-2164",
     "category": "IgA deficiency",
-    "q": "What is the classic vignette for IgA deficiency per p144?",
+    "q": "What is the classic vignette for IgA deficiency?",
     "a": "Recurrent sinopulmonary infections in someone between high school and their 30s (one 2CK Peds question has it in a kid). The question might say sore cheek (sinusitis) plus history of pneumonia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30839,8 +30839,8 @@ export default [
   {
     "id": "s2peds-2165",
     "category": "IgA deficiency",
-    "q": "What transfusion complication is associated with IgA deficiency per p144?",
-    "a": "Anaphylaxis with transfusion of blood products. p144 says this is often omitted from real NBME questions because it is too easy and buzzy.",
+    "q": "What transfusion complication is associated with IgA deficiency?",
+    "a": "Anaphylaxis with transfusion of blood products. the source says this is often omitted from real NBME questions because it is too easy and buzzy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 144,
@@ -30854,7 +30854,7 @@ export default [
   {
     "id": "s2peds-2166",
     "category": "IgA deficiency",
-    "q": "What allergic and infectious history is associated with IgA deficiency per p144?",
+    "q": "What allergic and infectious history is associated with IgA deficiency?",
     "a": "Atopy (asthma, seasonal allergies, eczema) is really high yield. History of Giardia infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30869,7 +30869,7 @@ export default [
   {
     "id": "s2peds-2167",
     "category": "IgA deficiency",
-    "q": "Which autoimmune diseases and test problem go with IgA deficiency per p144?",
+    "q": "Which autoimmune diseases and test problem go with IgA deficiency?",
     "a": "Other autoimmune diseases such as vitiligo and celiac. Celiac antibody screen can be falsely negative in IgA deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30884,7 +30884,7 @@ export default [
   {
     "id": "s2peds-2168",
     "category": "IgA deficiency",
-    "q": "What does p144 say about pregnancy tests in IgA deficiency?",
+    "q": "What does the source say about pregnancy tests in IgA deficiency?",
     "a": "It can be associated with false-positive pregnancy tests, apparently due to heterophile antibody production, unrelated to EBV.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30895,7 +30895,7 @@ export default [
   {
     "id": "s2peds-2169",
     "category": "IgA deficiency",
-    "q": "How may USMLE word the answer for IgA deficiency per p144?",
+    "q": "How may USMLE word the answer for IgA deficiency?",
     "a": "Deficiency of mucosal immunoglobulin or deficiency of humoral immunity, rather than just IgA deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30906,7 +30906,7 @@ export default [
   {
     "id": "s2peds-2170",
     "category": "DiGeorge syndrome",
-    "q": "What causes DiGeorge syndrome per p144?",
+    "q": "What causes DiGeorge syndrome?",
     "a": "T cell deficiency from a 22q11 deletion.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30921,7 +30921,7 @@ export default [
   {
     "id": "s2peds-2171",
     "category": "DiGeorge syndrome",
-    "q": "Which embryologic structures fail in DiGeorge per p144?",
+    "q": "Which embryologic structures fail in DiGeorge?",
     "a": "The 3rd and 4th pharyngeal pouches (not arches). The 3rd becomes the thymus plus two inferior parathyroids; the 4th becomes the two superior parathyroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30932,7 +30932,7 @@ export default [
   {
     "id": "s2peds-2172",
     "category": "DiGeorge syndrome",
-    "q": "What are the key findings of DiGeorge per p144?",
+    "q": "What are the key findings of DiGeorge?",
     "a": "Absent thymic shadow; hypocalcemia from hypoparathyroidism (positive Chvostek and Trousseau signs); tetralogy of Fallot (VSD, overriding aorta, pulmonic stenosis, RVH) and truncus arteriosus; cleft lip/palate may or may not be mentioned.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30943,7 +30943,7 @@ export default [
   {
     "id": "s2peds-2173",
     "category": "DiGeorge syndrome",
-    "q": "What are antibody levels in DiGeorge per p144?",
+    "q": "What are antibody levels in DiGeorge?",
     "a": "Normal, even though T cells activate B cells. Choose normal antibody levels.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30954,7 +30954,7 @@ export default [
   {
     "id": "s2peds-2174",
     "category": "Chronic mucocutaneous candidiasis",
-    "q": "What is chronic mucocutaneous candidiasis per p144?",
+    "q": "What is chronic mucocutaneous candidiasis?",
     "a": "T cell dysfunction with recurrent candidal skin infections since birth. Choose deficiency of cell-mediated immunity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30969,7 +30969,7 @@ export default [
   {
     "id": "s2peds-2175",
     "category": "Chronic mucocutaneous candidiasis",
-    "q": "Which associations does p144 give for chronic mucocutaneous candidiasis?",
+    "q": "Which associations does the source give for chronic mucocutaneous candidiasis?",
     "a": "Other autoimmune diseases such as T1DM and thyroiditis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30984,7 +30984,7 @@ export default [
   {
     "id": "s2peds-2176",
     "category": "Chronic mucocutaneous candidiasis",
-    "q": "A 17-year-old girl has recurrent candidal skin infections since birth, 1 year of autoimmune thyroiditis and 2 years of T1DM. What is the mechanism of her infections per p144?",
+    "q": "A 17-year-old girl has recurrent candidal skin infections since birth, 1 year of autoimmune thyroiditis and 2 years of T1DM. What is the mechanism of her infections?",
     "a": "Deficiency of cell-mediated immunity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -30995,7 +30995,7 @@ export default [
   {
     "id": "s2peds-2177",
     "category": "Chronic granulomatous disease",
-    "q": "What is chronic granulomatous disease per p144 and what is its inheritance?",
+    "q": "What is chronic granulomatous disease and what is its inheritance?",
     "a": "NADPH oxidase deficiency, usually X-linked recessive. NADPH oxidase is the first enzyme of the respiratory burst, converting molecular O2 to superoxide.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31010,7 +31010,7 @@ export default [
   {
     "id": "s2peds-2178",
     "category": "Chronic granulomatous disease",
-    "q": "Which organisms cause infections in CGD per p144, and why?",
+    "q": "Which organisms cause infections in CGD, and why?",
     "a": "Catalase-positive organisms: Serratia, Pseudomonas, Aspergillus, Candida, E. coli, Staph, H. pylori. The patient cannot make enough H2O2 to overwhelm them.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31025,7 +31025,7 @@ export default [
   {
     "id": "s2peds-2179",
     "category": "Chronic granulomatous disease",
-    "q": "How is CGD diagnosed per p144?",
+    "q": "How is CGD diagnosed?",
     "a": "Dihydrorhodamine test. The tetrazolium blue (NBT) assay is atavistic and the wrong answer if both are listed, per Step 1 NBME.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31040,7 +31040,7 @@ export default [
   {
     "id": "s2peds-2180",
     "category": "Myeloperoxidase deficiency",
-    "q": "What does MPO deficiency do per p144, and what is its inheritance?",
+    "q": "What does MPO deficiency do, and what is its inheritance?",
     "a": "Autosomal recessive. MPO is the last enzyme in the respiratory burst, converting H2O2 to hydroxyl-halide radicals (bleach).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31055,7 +31055,7 @@ export default [
   {
     "id": "s2peds-2181",
     "category": "Myeloperoxidase deficiency",
-    "q": "How is MPO deficiency tested per p144?",
+    "q": "How is MPO deficiency tested?",
     "a": "A one-liner about being unable to produce hydroxyl-halide radicals gives MPO deficiency. If MPO deficiency is in the vignette, the answer is impaired conversion of hydrogen peroxide to hypochlorous acid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31070,7 +31070,7 @@ export default [
   {
     "id": "s2peds-2182",
     "category": "Myeloperoxidase deficiency",
-    "q": "Which infections occur in MPO deficiency per p144?",
+    "q": "Which infections occur in MPO deficiency?",
     "a": "Usually a mix of Staph aureus and Candida infections.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31085,8 +31085,8 @@ export default [
   {
     "id": "s2peds-2183",
     "category": "Myeloperoxidase deficiency",
-    "q": "A 6-year-old girl with an AR disorder has a mix of S. aureus and Candida infections. What is the answer per p145 (Free 120 question)?",
-    "a": "MPO deficiency, not CGD. CGD can present with the same organisms, but p145 says about 70% of CGD is X-linked, and childhood CGD is usually X-linked since AR CGD is milder and presents later.",
+    "q": "A 6-year-old girl with an AR disorder has a mix of S. aureus and Candida infections. What is the answer (Free 120 question)?",
+    "a": "MPO deficiency, not CGD. CGD can present with the same organisms, but the source says about 70% of CGD is X-linked, and childhood CGD is usually X-linked since AR CGD is milder and presents later.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 145,
@@ -31100,7 +31100,7 @@ export default [
   {
     "id": "s2peds-2184",
     "category": "Wiskott-Aldrich syndrome",
-    "q": "What are the genetics and triad of Wiskott-Aldrich syndrome per p145?",
+    "q": "What are the genetics and triad of Wiskott-Aldrich syndrome?",
     "a": "X-linked recessive (WAS gene), T cell cytoskeletal dysfunction. Triad: immunodeficiency, eczematoid skin lesions, thrombocytopenia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31115,7 +31115,7 @@ export default [
   {
     "id": "s2peds-2185",
     "category": "Wiskott-Aldrich syndrome",
-    "q": "What are the immunoglobulin changes in Wiskott-Aldrich per p145?",
+    "q": "What are the immunoglobulin changes in Wiskott-Aldrich?",
     "a": "Increased serum IgA and IgE; decreased IgM.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31130,7 +31130,7 @@ export default [
   {
     "id": "s2peds-2186",
     "category": "Wiskott-Aldrich syndrome",
-    "q": "A 12-month-old has Pneumocystis infection, a history of nosebleeds and eczema. Which cell is dysfunctional per p145?",
+    "q": "A 12-month-old has Pneumocystis infection, a history of nosebleeds and eczema. Which cell is dysfunctional?",
     "a": "T cell. The answer can be deficiency of cell-mediated immunity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31141,7 +31141,7 @@ export default [
   {
     "id": "s2peds-2187",
     "category": "Leukocyte adhesion deficiency",
-    "q": "What is the defect in leukocyte adhesion deficiency per p145?",
+    "q": "What is the defect in leukocyte adhesion deficiency?",
     "a": "Deficiency of CD18/LFA-1 integrin. Leukocytes cannot leave blood vessels for sites of infection, so there is decreased pus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31156,7 +31156,7 @@ export default [
   {
     "id": "s2peds-2188",
     "category": "Leukocyte adhesion deficiency",
-    "q": "What is the classic association of LAD per p145, and how may the answer be worded?",
+    "q": "What is the classic association of LAD, and how may the answer be worded?",
     "a": "Delayed separation of the umbilical cord. The answer can be defective leukocyte chemotaxis instead of just LAD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31171,7 +31171,7 @@ export default [
   {
     "id": "s2peds-2189",
     "category": "Chediak-Higashi syndrome",
-    "q": "What is the defect in Chediak-Higashi syndrome per p145?",
+    "q": "What is the defect in Chediak-Higashi syndrome?",
     "a": "A phagolysosomal fusion disorder with disruption of microtubule function.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31186,7 +31186,7 @@ export default [
   {
     "id": "s2peds-2190",
     "category": "Chediak-Higashi syndrome",
-    "q": "What other findings does p145 list for Chediak-Higashi?",
+    "q": "What other findings does the source list for Chediak-Higashi?",
     "a": "Melanosome function also impaired: partial albinism (fairer skin than siblings). Giant granules in phagocytes in neutrophils and eosinophils.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31201,7 +31201,7 @@ export default [
   {
     "id": "s2peds-2191",
     "category": "Ataxia-telangiectasia",
-    "q": "What is the defect and clinical picture of ataxia-telangiectasia per p145?",
+    "q": "What is the defect and clinical picture of ataxia-telangiectasia?",
     "a": "Failure of double-stranded DNA break repair. Cerebellar atrophy causing ataxia, and telangiectasias.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31216,7 +31216,7 @@ export default [
   {
     "id": "s2peds-2192",
     "category": "Ataxia-telangiectasia",
-    "q": "What cancer risk does ataxia-telangiectasia carry per p145?",
+    "q": "What cancer risk does ataxia-telangiectasia carry?",
     "a": "Increased susceptibility to radiation and increased risk of leukemia and lymphoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31227,7 +31227,7 @@ export default [
   {
     "id": "s2peds-2193",
     "category": "Hyper-IgM syndrome",
-    "q": "What is the defect in hyper-IgM syndrome per p145?",
+    "q": "What is the defect in hyper-IgM syndrome?",
     "a": "Deficiency of CD40L on CD4+ T cells. Decreased CD40 activation on B cells means decreased B cell activation and decreased differentiation into plasma cells and isotype class-switching, so the antibody isotype is stuck at IgM.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31242,7 +31242,7 @@ export default [
   {
     "id": "s2peds-2194",
     "category": "Hyper-IgE syndrome",
-    "q": "What is the genetic cause of hyper-IgE (Job) syndrome per p145?",
+    "q": "What is the genetic cause of hyper-IgE (Job) syndrome?",
     "a": "STAT3 mutation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31257,7 +31257,7 @@ export default [
   {
     "id": "s2peds-2195",
     "category": "Hyper-IgE syndrome",
-    "q": "What does the FATED mnemonic stand for per p145?",
+    "q": "What does the FATED mnemonic stand for?",
     "a": "Abnormal Facies, staphylococcal cold Abscesses, retained primary Teeth, hyper IgE, Dermatologic findings (eczematoid lesions).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31272,7 +31272,7 @@ export default [
   {
     "id": "s2peds-2196",
     "category": "IL-12 receptor deficiency",
-    "q": "What infections occur in IL-12 receptor deficiency per p145?",
+    "q": "What infections occur in IL-12 receptor deficiency?",
     "a": "Recurrent TB infections.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31287,7 +31287,7 @@ export default [
   {
     "id": "s2peds-2197",
     "category": "IL-12 receptor deficiency",
-    "q": "What is the mechanism of IL-12 receptor deficiency per p145?",
+    "q": "What is the mechanism of IL-12 receptor deficiency?",
     "a": "Th1 CD4+ T cells and macrophages activate each other in a loop via IL-12 and IFN-gamma. A Th1 cell lacking the IL-12 receptor cannot be activated, so no IFN-gamma, macrophages are not activated, and granuloma formation falls.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31302,7 +31302,7 @@ export default [
   {
     "id": "s2peds-2198",
     "category": "Common variable immunodeficiency",
-    "q": "What is the defect in CVID per p145?",
+    "q": "What is the defect in CVID?",
     "a": "Normal B cell number but defective maturation into plasma cells, so decreased immunoglobulin production.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31317,7 +31317,7 @@ export default [
   {
     "id": "s2peds-2199",
     "category": "Common variable immunodeficiency",
-    "q": "Which vignette gives CVID per p145, and how does it differ from IgA deficiency?",
+    "q": "Which vignette gives CVID, and how does it differ from IgA deficiency?",
     "a": "An adult with recurrent sinopulmonary infections, like IgA deficiency, except immunoglobulins are decreased and not limited to IgA. If the vignette gives atopy or Giardia, the answer is IgA deficiency, not CVID.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31328,7 +31328,7 @@ export default [
   {
     "id": "s2peds-2200",
     "category": "Terminal complement deficiency",
-    "q": "What is the defect and infection risk in terminal complement deficiency per p145?",
+    "q": "What is the defect and infection risk in terminal complement deficiency?",
     "a": "Deficiency of C5-C9, so no membrane attack complex (MAC). Recurrent Neisseria infections (gonococcal and meningococcal).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31343,7 +31343,7 @@ export default [
   {
     "id": "s2peds-2201",
     "category": "Terminal complement deficiency",
-    "q": "How may USMLE word the answer for terminal complement deficiency per p145?",
+    "q": "How may USMLE word the answer for terminal complement deficiency?",
     "a": "Deficiency of C7 or C8 (a random terminal complement protein), terminal complement deficiency, or complement-mediated immunodeficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31354,7 +31354,7 @@ export default [
   {
     "id": "s2peds-2202",
     "category": "SIADH",
-    "q": "What is SIADH and what are its causes per p146?",
+    "q": "What is SIADH and what are its causes?",
     "a": "Too much ADH (vasopressin) secretion. Central SIADH follows head trauma, meningitis, brain cancer and pain (peds or adults). Ectopic SIADH: small cell lung cancer secreting ADH (adults). Drug-induced is ultra-rare on USMLE, but carbamazepine can do it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31369,7 +31369,7 @@ export default [
   {
     "id": "s2peds-2203",
     "category": "SIADH",
-    "q": "What are the serum and urine findings in SIADH per p146?",
+    "q": "What are the serum and urine findings in SIADH?",
     "a": "Dilute serum and concentrated urine: decreased serum sodium (<135, normal 135-145), serum osmolality and serum specific gravity; increased urinary osmolality and urinary specific gravity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31384,7 +31384,7 @@ export default [
   {
     "id": "s2peds-2204",
     "category": "SIADH",
-    "q": "What does p146 say about osmolality numbers in SIADH questions?",
+    "q": "What does the source say about osmolality numbers in SIADH questions?",
     "a": "You need not memorize values. If serum osmolality is 250 and urine is 750, serum is dilute compared with urine, which sounds like SIADH.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31395,7 +31395,7 @@ export default [
   {
     "id": "s2peds-2205",
     "category": "SIADH",
-    "q": "What urine specific gravity values does p146 call dilute versus concentrated?",
+    "q": "What urine specific gravity values does the source call dilute versus concentrated?",
     "a": "Specific gravity ranges 1.000-1.030 on USMLE. About 1.000-1.006 is dilute and 1.024-1.030 is concentrated. For 9 of 10 questions, values are what you expect.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31406,7 +31406,7 @@ export default [
   {
     "id": "s2peds-2206",
     "category": "SIADH",
-    "q": "What is the first answer in diagnosing SIADH on 2CK per p146?",
+    "q": "What is the first answer in diagnosing SIADH on 2CK?",
     "a": "Fluid restriction, to see how the serum and urinary values change in response.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31421,7 +31421,7 @@ export default [
   {
     "id": "s2peds-2207",
     "category": "SIADH",
-    "q": "What is the treatment answer on offline NBME 8 per p146, and why is it odd?",
+    "q": "What is the treatment answer on offline NBME 8, and why is it odd?",
     "a": "Demeclocycline. It is a tetracycline antibiotic but is used because it causes insensitivity to ADH at the kidney (nephrogenic DI), creating a second problem that cancels the first.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31436,7 +31436,7 @@ export default [
   {
     "id": "s2peds-2208",
     "category": "Diabetes insipidus",
-    "q": "What is central DI versus nephrogenic DI per p146?",
+    "q": "What is central DI versus nephrogenic DI?",
     "a": "Central DI: not enough ADH secretion by the hypothalamus, or the posterior pituitary cannot release it. Nephrogenic DI: insensitivity to ADH at the kidney (serum ADH is increased).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31451,7 +31451,7 @@ export default [
   {
     "id": "s2peds-2209",
     "category": "Diabetes insipidus",
-    "q": "What causes central DI per p146?",
+    "q": "What causes central DI?",
     "a": "Similar to central SIADH: head trauma, meningitis, and cancer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31466,7 +31466,7 @@ export default [
   {
     "id": "s2peds-2210",
     "category": "Diabetes insipidus",
-    "q": "What causes nephrogenic DI per p146?",
+    "q": "What causes nephrogenic DI?",
     "a": "Lithium, demeclocycline, hypercalcemia and NSAIDs (bold on the page).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31481,7 +31481,7 @@ export default [
   {
     "id": "s2peds-2211",
     "category": "Diabetes insipidus",
-    "q": "What NBME question about NSAIDs does p146 describe?",
+    "q": "What NBME question about NSAIDs does the source describe?",
     "a": "A patient on chronic NSAIDs asked about response to ADH: the answer is no change in response to ADH and no change in urinary osmolality.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31492,7 +31492,7 @@ export default [
   {
     "id": "s2peds-2212",
     "category": "Diabetes insipidus",
-    "q": "A patient with primary hyperparathyroidism and high serum calcium has nephrogenic DI. What causes the DI per p146?",
+    "q": "A patient with primary hyperparathyroidism and high serum calcium has nephrogenic DI. What causes the DI?",
     "a": "Hypercalcemia. High calcium causes renal insensitivity to vasopressin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31507,7 +31507,7 @@ export default [
   {
     "id": "s2peds-2213",
     "category": "Diabetes insipidus",
-    "q": "What are the serum and urine findings in DI per p146?",
+    "q": "What are the serum and urine findings in DI?",
     "a": "Opposite of SIADH: increased serum sodium (>145), serum osmolality and serum specific gravity; decreased urinary osmolality and urinary specific gravity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31518,7 +31518,7 @@ export default [
   {
     "id": "s2peds-2214",
     "category": "Diabetes insipidus",
-    "q": "How is DI first diagnosed per p146?",
+    "q": "How is DI first diagnosed?",
     "a": "Fluid restriction first, same as SIADH, to see how serum and urine values change. If urine stays dilute and serum stays concentrated, give desmopressin next.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31533,7 +31533,7 @@ export default [
   {
     "id": "s2peds-2215",
     "category": "Diabetes insipidus",
-    "q": "How does the desmopressin response separate central from nephrogenic DI per p146?",
+    "q": "How does the desmopressin response separate central from nephrogenic DI?",
     "a": "Urine becomes more concentrated: central DI. If desmopressin does not work: nephrogenic DI. Even in nephrogenic DI desmopressin might work very little; in central DI urinary osmolality rises robustly.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31548,7 +31548,7 @@ export default [
   {
     "id": "s2peds-2216",
     "category": "Diabetes insipidus",
-    "q": "What is the treatment of central DI per p146?",
+    "q": "What is the treatment of central DI?",
     "a": "Desmopressin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31563,8 +31563,8 @@ export default [
   {
     "id": "s2peds-2217",
     "category": "Diabetes insipidus",
-    "q": "What is the treatment of nephrogenic DI per p146, and why does it work?",
-    "a": "An NSAID plus a thiazide. Thiazides decrease Na+ reabsorption in the early DCT, which promotes compensatory increased Na+ (and water) reabsorption in the PCT, so net fluid loss is less. (The explanation continues on p147.)",
+    "q": "What is the treatment of nephrogenic DI, and why does it work?",
+    "a": "An NSAID plus a thiazide. Thiazides decrease Na+ reabsorption in the early DCT, which promotes compensatory increased Na+ (and water) reabsorption in the PCT, so net fluid loss is less. (The explanation continues in the source.)",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 146,
@@ -31578,7 +31578,7 @@ export default [
   {
     "id": "s2peds-2218",
     "category": "Diabetes insipidus",
-    "q": "Why does adding an NSAID help nephrogenic DI per p147?",
+    "q": "Why does adding an NSAID help nephrogenic DI?",
     "a": "The NSAID presumably decreases renal blood flow, which decreases GFR and net fluid loss. In healthy people the thiazide would make them lose more net fluid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31589,8 +31589,8 @@ export default [
   {
     "id": "s2peds-2219",
     "category": "Diabetes insipidus",
-    "q": "A patient on lithium has increased urinary output. What is the answer on the difficult 2CK NBME question per p147?",
-    "a": "NSAID plus a thiazide diuretic. Fluid restriction is the wrong answer here, though p147 says it is correct 9 of 10 times when listed. If the diagnosis is already obviously nephrogenic DI, going straight to treatment is acceptable.",
+    "q": "A patient on lithium has increased urinary output. What is the answer on the difficult 2CK NBME question?",
+    "a": "NSAID plus a thiazide diuretic. Fluid restriction is the wrong answer here, though the source says it is correct 9 of 10 times when listed. If the diagnosis is already obviously nephrogenic DI, going straight to treatment is acceptable.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 147,
@@ -31600,7 +31600,7 @@ export default [
   {
     "id": "s2peds-2220",
     "category": "Psychogenic polydipsia",
-    "q": "What is psychogenic polydipsia and what are the findings per p147?",
+    "q": "What is psychogenic polydipsia and what are the findings?",
     "a": "The patient simply drinks too much. Both urine and serum are dilute: decreased serum sodium (<135), serum osmolality and serum specific gravity, and decreased urinary osmolality and specific gravity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31615,7 +31615,7 @@ export default [
   {
     "id": "s2peds-2221",
     "category": "Psychogenic polydipsia",
-    "q": "How do psychogenic polydipsia questions look per p147?",
+    "q": "How do psychogenic polydipsia questions look?",
     "a": "About 3 of 4 are obvious: a psych patient drinking lots to clear himself from evil spirits. About 1 of 4 just give lab values where you say the urine and serum are both dilute.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31626,7 +31626,7 @@ export default [
   {
     "id": "s2peds-2222",
     "category": "Psychogenic polydipsia",
-    "q": "What is the first step in diagnosing psychogenic polydipsia per p147?",
+    "q": "What is the first step in diagnosing psychogenic polydipsia?",
     "a": "Fluid restriction, to see how the urinary and serum values change.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31637,7 +31637,7 @@ export default [
   {
     "id": "s2peds-2223",
     "category": "Hashimoto thyroiditis",
-    "q": "What is Hashimoto thyroiditis and who gets it on a Peds form per p147?",
+    "q": "What is Hashimoto thyroiditis and who gets it on a Peds form?",
     "a": "Autoimmune destruction of the thyroid gland. It shows up in a teenager on a Peds form.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31652,7 +31652,7 @@ export default [
   {
     "id": "s2peds-2224",
     "category": "Hashimoto thyroiditis",
-    "q": "What does biopsy show in Hashimoto per p147?",
+    "q": "What does biopsy show in Hashimoto?",
     "a": "A lymphocytic infiltrate (asked on 2CK NBME even though it sounds like Step 1).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31667,7 +31667,7 @@ export default [
   {
     "id": "s2peds-2225",
     "category": "Hashimoto thyroiditis",
-    "q": "Which antibodies and labs go with Hashimoto per p147?",
+    "q": "Which antibodies and labs go with Hashimoto?",
     "a": "Anti-microsomal (anti-thyroperoxidase) and anti-thyroglobulin antibodies. Decreased T3 and T4, increased TSH. 131I uptake scan decreased or patchy (the gland is not producing hormone).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31682,7 +31682,7 @@ export default [
   {
     "id": "s2peds-2226",
     "category": "Hashimoto thyroiditis",
-    "q": "What are the buzzy findings of Hashimoto per p147?",
+    "q": "What are the buzzy findings of Hashimoto?",
     "a": "Weight gain, brittle hair, dry/doughy skin and cold intolerance. USMLE often omits these because they are too easy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31693,7 +31693,7 @@ export default [
   {
     "id": "s2peds-2227",
     "category": "Hashimoto thyroiditis",
-    "q": "What additional findings has p147 seen in NBME Hashimoto questions?",
+    "q": "What additional findings has the source seen in NBME Hashimoto questions?",
     "a": "Bradycardia (55-60), menstrual irregularity, dysthymia/depression/apathy, carpal tunnel syndrome (glycosaminoglycan deposition), increased cholesterol, proximal muscle weakness with increased CK (hypothyroid myopathy), and transaminitis (LFTs can be elevated).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31704,7 +31704,7 @@ export default [
   {
     "id": "s2peds-2228",
     "category": "Hashimoto thyroiditis",
-    "q": "Which diseases are associated with Hashimoto per p147?",
+    "q": "Which diseases are associated with Hashimoto?",
     "a": "Other autoimmune diseases (type 1 diabetes, pernicious anemia, vitiligo) and immunodeficiencies (IgA deficiency). Autoimmune diseases go together, and autoimmune disease in general raises the risk of immunodeficiency and vice versa. Strict HLA associations are not important outside HLA-B27.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31715,7 +31715,7 @@ export default [
   {
     "id": "s2peds-2229",
     "category": "Hashimoto thyroiditis",
-    "q": "Which lymphoma risk does p147 attach to Hashimoto, and what is the treatment?",
+    "q": "Which lymphoma risk does the source attach to Hashimoto, and what is the treatment?",
     "a": "Increased risk of non-Hodgkin lymphoma (for example primary CNS lymphoma). Treatment is levothyroxine or triiodothyronine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31730,7 +31730,7 @@ export default [
   {
     "id": "s2peds-2230",
     "category": "Graves disease",
-    "q": "What causes Graves disease per p147?",
+    "q": "What causes Graves disease?",
     "a": "An activating autoantibody against the TSH receptor, called thyroid-stimulating immunoglobulin (TSI).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31745,7 +31745,7 @@ export default [
   {
     "id": "s2peds-2231",
     "category": "Graves disease",
-    "q": "What are the labs, biopsy and scan findings in Graves per p147?",
+    "q": "What are the labs, biopsy and scan findings in Graves?",
     "a": "Increased T3 and T4, decreased TSH. Biopsy: lymphocytic infiltrate and hyperplastic thyroid follicles. 131I uptake scan shows diffusely increased uptake.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31760,7 +31760,7 @@ export default [
   {
     "id": "s2peds-2232",
     "category": "Graves disease",
-    "q": "Which findings are specific to Graves per p147, and what if the question says there is no exophthalmos?",
+    "q": "Which findings are specific to Graves, and what if the question says there is no exophthalmos?",
     "a": "Exophthalmos (proptosis) and pretibial myxedema (non-pitting edema of the shins due to GAG deposition). If the question says there is no exophthalmos, it is not Graves.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31775,7 +31775,7 @@ export default [
   {
     "id": "s2peds-2233",
     "category": "Graves disease",
-    "q": "What are the buzzy findings of Graves per p147?",
+    "q": "What are the buzzy findings of Graves?",
     "a": "Tachycardia, heat intolerance, sweating and palpitations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31786,7 +31786,7 @@ export default [
   {
     "id": "s2peds-2234",
     "category": "Graves disease",
-    "q": "What does p148 say about myopathy and atrial fibrillation in Graves disease?",
+    "q": "What does the source say about myopathy and atrial fibrillation in Graves disease?",
     "a": "Myopathy can occur with increased CK, but USMLE tends to give it in hypothyroidism. Graves can cause atrial fibrillation in younger patients (AF is normally elderly).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31801,7 +31801,7 @@ export default [
   {
     "id": "s2peds-2235",
     "category": "Thyroid storm",
-    "q": "What is thyroid storm per p148?",
+    "q": "What is thyroid storm?",
     "a": "An acute exacerbation of Graves, often precipitated by a stressor such as surgery, trauma or infection, where thyroid hormone production rises enormously, causing hyperthermia, tachycardia and altered mental status.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31816,7 +31816,7 @@ export default [
   {
     "id": "s2peds-2236",
     "category": "Thyroid storm",
-    "q": "What adrenal complication does p148 link to thyroid storm, and how is it treated?",
+    "q": "What adrenal complication does the source link to thyroid storm, and how is it treated?",
     "a": "Adrenal crisis (acute decrease in blood pressure from rapid cortisol consumption), especially with concurrent adrenal insufficiency on exogenous steroids. Treat the low BP with IV glucocorticoid (hydrocortisone or methylprednisolone).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31827,7 +31827,7 @@ export default [
   {
     "id": "s2peds-2237",
     "category": "Graves disease",
-    "q": "What is the treatment for general Graves disease per p148?",
+    "q": "What is the treatment for general Graves disease?",
     "a": "Thionamides: propylthiouracil (PTU) and methimazole.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31842,7 +31842,7 @@ export default [
   {
     "id": "s2peds-2238",
     "category": "Graves disease",
-    "q": "What shared adverse effect do PTU and methimazole have per p148?",
+    "q": "What shared adverse effect do PTU and methimazole have?",
     "a": "Neutropenia/agranulocytosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31857,7 +31857,7 @@ export default [
   {
     "id": "s2peds-2239",
     "category": "Graves disease",
-    "q": "What is propranolol used for in hyperthyroidism per p148?",
+    "q": "What is propranolol used for in hyperthyroidism?",
     "a": "Tachycardia (beta-blockade, which also inhibits 5-deiodinase).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31872,7 +31872,7 @@ export default [
   {
     "id": "s2peds-2240",
     "category": "Graves disease",
-    "q": "What treats exophthalmos per p148?",
+    "q": "What treats exophthalmos?",
     "a": "Oral prednisone, not thionamides.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31887,7 +31887,7 @@ export default [
   {
     "id": "s2peds-2241",
     "category": "Thyroid storm",
-    "q": "What is the USMLE treatment tetrad for thyroid storm per p148?",
+    "q": "What is the USMLE treatment tetrad for thyroid storm?",
     "a": "PTU, propranolol, steroids and potassium iodide.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31902,7 +31902,7 @@ export default [
   {
     "id": "s2peds-2242",
     "category": "deQuervain thyroiditis",
-    "q": "What is deQuervain thyroiditis and what is the mechanism per p148?",
+    "q": "What is deQuervain thyroiditis and what is the mechanism?",
     "a": "Aka subacute granulomatous thyroiditis. A viral infection followed by a painful/tender thyroid. Inflammation increases the spacing between cells, releasing pre-formed thyroid hormone into the blood.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31917,7 +31917,7 @@ export default [
   {
     "id": "s2peds-2243",
     "category": "deQuervain thyroiditis",
-    "q": "What are the labs and uptake in deQuervain thyroiditis per p148?",
+    "q": "What are the labs and uptake in deQuervain thyroiditis?",
     "a": "Decreased TSH, increased T3 and T4, decreased 131I uptake. The gland is not overproducing hormone, so uptake is not increased.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31932,7 +31932,7 @@ export default [
   {
     "id": "s2peds-2244",
     "category": "deQuervain thyroiditis",
-    "q": "What is the key detail p148 wants you to know about uptake in subacute granulomatous thyroiditis?",
+    "q": "What is the key detail the source wants you to know about uptake in subacute granulomatous thyroiditis?",
     "a": "It can be hypo- or hyperthyroid, but uptake is always decreased, even if the patient is hyperthyroid. Vignettes are almost always hyperthyroid to test this.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31947,7 +31947,7 @@ export default [
   {
     "id": "s2peds-2245",
     "category": "deQuervain thyroiditis",
-    "q": "Which other thyroiditis conditions have decreased uptake per p148, and why might the viral infection go unmentioned?",
+    "q": "Which other thyroiditis conditions have decreased uptake, and why might the viral infection go unmentioned?",
     "a": "All thyroiditis conditions: deQuervain, drug-induced and postpartum. Viral infections are often asymptomatic, so most deQuervain vignettes do not mention one.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31958,7 +31958,7 @@ export default [
   {
     "id": "s2peds-2246",
     "category": "Factitious thyrotoxicosis",
-    "q": "What is factitious thyrotoxicosis per p148?",
+    "q": "What is factitious thyrotoxicosis?",
     "a": "Aka surreptitious thyrotoxicosis. USMLE need not mention the patient is a pharmacist. The patient is hyperthyroid with a small, non-palpable (atrophic) thyroid from suppressed TSH.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31969,7 +31969,7 @@ export default [
   {
     "id": "s2peds-2247",
     "category": "Factitious thyrotoxicosis",
-    "q": "What are the thyroid labs if thyroxine is taken versus triiodothyronine per p148?",
+    "q": "What are the thyroid labs if thyroxine is taken versus triiodothyronine?",
     "a": "Thyroxine: increased T3, increased T4, decreased TSH. Triiodothyronine: increased T3, decreased T4 (red on the page), decreased TSH. T4 is converted to T3, but T3 is not converted to T4.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31980,7 +31980,7 @@ export default [
   {
     "id": "s2peds-2248",
     "category": "Thyroglossal duct cyst",
-    "q": "Describe a thyroglossal duct cyst in pediatrics per p148.",
+    "q": "What is a thyroglossal duct cyst in pediatrics?",
     "a": "A benign, painless, midline neck mass in a school-age kid from a persistent thyroglossal duct, the embryologic remnant of the thyroid's descent from the base of the tongue to the neck.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -31995,7 +31995,7 @@ export default [
   {
     "id": "s2peds-2249",
     "category": "Thyroglossal duct cyst",
-    "q": "What question pattern does p148 give for a thyroglossal duct cyst?",
+    "q": "What question pattern does the source give for a thyroglossal duct cyst?",
     "a": "About 2 of 3 questions give a painless midline neck lump that moves upward with swallowing or protrusion of the tongue, due to its attachment to the hyoid bone and/or the base of the tongue.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32006,7 +32006,7 @@ export default [
   {
     "id": "s2peds-2250",
     "category": "Thyroglossal duct cyst",
-    "q": "What does p149 say about the other third of thyroglossal duct cyst questions?",
+    "q": "What does the source say about the other third of thyroglossal duct cyst questions?",
     "a": "They will not mention the upward movement with swallowing or tongue protrusion. They just say a kid has a painless midline neck mass just inferior to the hyoid bone that demonstrates 99Tc uptake.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32017,7 +32017,7 @@ export default [
   {
     "id": "s2peds-2251",
     "category": "Lingual thyroid",
-    "q": "What is a lingual thyroid per p149?",
+    "q": "What is a lingual thyroid?",
     "a": "Ectopic thyroid tissue at the base of the tongue, due to failure of the thyroid to descend from the foramen cecum. This tissue may be the only functioning thyroid tissue in the body, causing hypothyroidism.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32032,7 +32032,7 @@ export default [
   {
     "id": "s2peds-2252",
     "category": "Lingual thyroid",
-    "q": "How does a lingual thyroid appear on USMLE per p149?",
+    "q": "How does a lingual thyroid appear on USMLE?",
     "a": "A kid with hypothyroidism plus a midline neck lump high in the neck, with nothing about tongue protrusion or uptake into the mass. Can sometimes cause dysphagia, dysphonia or dyspnea.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32047,7 +32047,7 @@ export default [
   {
     "id": "s2peds-2253",
     "category": "Cretinism",
-    "q": "What is cretinism and what are its most common causes per p149?",
+    "q": "What is cretinism and what are its most common causes?",
     "a": "Aka congenital hypothyroidism. Most common causes are maternal iodine deficiency during pregnancy (worldwide) and fetal thyroid dysgenesis (western countries).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32062,7 +32062,7 @@ export default [
   {
     "id": "s2peds-2254",
     "category": "Cretinism",
-    "q": "What are the features of cretinism per p149?",
+    "q": "What are the features of cretinism?",
     "a": "Mental retardation (poor myelin sheath development), impaired bone growth, hypotonia, macroglossia and a protuberant abdomen from an umbilical hernia (can be confused with kwashiorkor, protein-calorie malnutrition causing ascites). Note: current terminology is intellectual disability.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32077,7 +32077,7 @@ export default [
   {
     "id": "s2peds-2255",
     "category": "Cretinism",
-    "q": "How is congenital hypothyroidism screened for per p149?",
+    "q": "How is congenital hypothyroidism screened for?",
     "a": "At birth with the heel-prick test, to prevent exacerbation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32092,7 +32092,7 @@ export default [
   {
     "id": "s2peds-2256",
     "category": "TBG deficiency",
-    "q": "Why does p149 teach TBG deficiency, and what are its labs?",
+    "q": "Why does the source teach TBG deficiency, and what are its labs?",
     "a": "The USMLE does not expect obscure knowledge here. TBG in pregnancy is very high-yield, so infer the inverse. Labs: normal TSH, normal T3, normal free T4, decreased total T4.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32107,7 +32107,7 @@ export default [
   {
     "id": "s2peds-2257",
     "category": "TBG deficiency",
-    "q": "How does the pregnancy logic explain TBG deficiency per p149?",
+    "q": "How does the pregnancy logic explain TBG deficiency?",
     "a": "In pregnancy TBG is high, giving high total T4 despite normal free T4. If TBG is low instead, total T4 is low while free T4 stays the same, the opposite direction.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32118,7 +32118,7 @@ export default [
   {
     "id": "s2peds-2258",
     "category": "Conn syndrome",
-    "q": "What is Conn syndrome and what are the lab changes per p149?",
+    "q": "What is Conn syndrome and what are the lab changes?",
     "a": "An aldosterone-secreting tumor. Increased Na+, decreased K+, increased HCO3-, increased pH.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32133,7 +32133,7 @@ export default [
   {
     "id": "s2peds-2259",
     "category": "Conn syndrome",
-    "q": "Why is renin decreased in Conn syndrome per p149?",
+    "q": "Why is renin decreased in Conn syndrome?",
     "a": "Negative feedback at the kidney: excess aldosterone increases fluid retention, which increases renal blood flow and shuts off renin production.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32144,7 +32144,7 @@ export default [
   {
     "id": "s2peds-2260",
     "category": "Conn syndrome",
-    "q": "How often is Na+ normal in aldosterone-derangement questions per p149, and why?",
+    "q": "How often is Na+ normal in aldosterone-derangement questions, and why?",
     "a": "In about 50% of such questions Na+ is normal, because the body strongly maintains Na+ (also via ADH).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32159,7 +32159,7 @@ export default [
   {
     "id": "s2peds-2261",
     "category": "Conn syndrome",
-    "q": "What is the treatment for Conn syndrome per p149?",
+    "q": "What is the treatment for Conn syndrome?",
     "a": "Spironolactone (aldosterone receptor antagonist) prior to surgery.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32174,7 +32174,7 @@ export default [
   {
     "id": "s2peds-2262",
     "category": "Addison disease",
-    "q": "What is Addison disease per p149?",
+    "q": "What is Addison disease?",
     "a": "Autoimmune destruction of the adrenal cortex, leading to decreased aldosterone and cortisol. Called primary adrenal insufficiency because the gland itself under-produces. Effect is mainly on the zona glomerulosa and fasciculata.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32189,7 +32189,7 @@ export default [
   {
     "id": "s2peds-2263",
     "category": "Addison disease",
-    "q": "What association does Addison disease show in vignettes per p149?",
+    "q": "What association does Addison disease show in vignettes?",
     "a": "Idiopathic or with a history of other autoimmune disease in the patient or family, such as a brother with RA, a sister with IBD, or a history of thyroiditis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32200,7 +32200,7 @@ export default [
   {
     "id": "s2peds-2264",
     "category": "Addison disease",
-    "q": "What are the labs and blood pressure in Addison disease per p149?",
+    "q": "What are the labs and blood pressure in Addison disease?",
     "a": "Decreased Na+, increased K+, decreased pH, decreased bicarb. BP is low-normal or low from both decreased aldosterone and decreased cortisol; the cortisol effect is high-yield.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32215,7 +32215,7 @@ export default [
   {
     "id": "s2peds-2265",
     "category": "Addison disease",
-    "q": "Why is there hyperpigmentation in Addison disease per p150, and how often is it mentioned?",
+    "q": "Why is there hyperpigmentation in Addison disease, and how often is it mentioned?",
     "a": "ACTH and alpha-MSH are both increased due to decreased cortisol, causing hyperpigmentation. The author says it is mentioned in only about 50% of vignettes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32230,7 +32230,7 @@ export default [
   {
     "id": "s2peds-2266",
     "category": "Addison disease",
-    "q": "What eosinophil finding can occur in Addison disease per p150?",
+    "q": "What eosinophil finding can occur in Addison disease?",
     "a": "Eosinophilia, because cortisol normally helps sequester eosinophils in the spleen and facilitates their apoptosis, so decreased cortisol means increased eosinophils. Questions can give 15-25% (normal is under 5%). Do not chase stool ova and parasites.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32241,7 +32241,7 @@ export default [
   {
     "id": "s2peds-2267",
     "category": "Addison disease",
-    "q": "What is the classic Addison vignette and answer per p150?",
+    "q": "What is the classic Addison vignette and answer?",
     "a": "A patient (young or old) with ongoing fatigue plus hyperpigmentation, and the answer is just the ACTH stimulation test.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32256,7 +32256,7 @@ export default [
   {
     "id": "s2peds-2268",
     "category": "Addison disease",
-    "q": "What does exogenous ACTH do in normal people versus primary adrenal insufficiency per p150?",
+    "q": "What does exogenous ACTH do in normal people versus primary adrenal insufficiency?",
     "a": "It should cause a robust increase in cortisol from the adrenal fasciculata. In primary adrenal insufficiency the damaged adrenal does not respond.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32271,7 +32271,7 @@ export default [
   {
     "id": "s2peds-2269",
     "category": "Addison disease",
-    "q": "What does p150 say about unexplained chronic fatigue and cortisol?",
+    "q": "What does the source say about unexplained chronic fatigue and cortisol?",
     "a": "Decreased cortisol causes chronic fatigue. Check cortisol in any unexplained chronic fatigue; if low, hydrocortisone will quickly boost the patient.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32286,7 +32286,7 @@ export default [
   {
     "id": "s2peds-2270",
     "category": "Addison disease",
-    "q": "What is the treatment for Addison disease per p150?",
+    "q": "What is the treatment for Addison disease?",
     "a": "Fludrocortisone, with or without hydrocortisone. Fludrocortisone is a mineralocorticoid like aldosterone; hydrocortisone is a glucocorticoid like cortisol.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32301,7 +32301,7 @@ export default [
   {
     "id": "s2peds-2271",
     "category": "Waterhouse-Friderichsen",
-    "q": "What is Waterhouse-Friderichsen syndrome per p150?",
+    "q": "What is Waterhouse-Friderichsen syndrome?",
     "a": "Meningococcal septicemia causing bilateral hemorrhagic necrosis of the adrenal glands, resulting in decreased aldosterone and decreased cortisol.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32316,7 +32316,7 @@ export default [
   {
     "id": "s2peds-2272",
     "category": "Waterhouse-Friderichsen",
-    "q": "What is the vignette and answer for Waterhouse-Friderichsen per p150?",
+    "q": "What is the vignette and answer for Waterhouse-Friderichsen?",
     "a": "Low BP, low Na+, high K+, low bicarb in a patient with meningococcal infection (for example recent meningitis plus a non-blanching rash). Source answer: ACTH stimulation test.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32331,7 +32331,7 @@ export default [
   {
     "id": "s2peds-2273",
     "category": "Adrenal crisis",
-    "q": "Who is at risk of adrenal crisis per p150?",
+    "q": "Who is at risk of adrenal crisis?",
     "a": "Patients on chronic glucocorticoids (for example prednisone for IBD, JIA or SLE) have a chronically suppressed, atrophied adrenal, since prednisone shuts off ACTH through negative feedback. It can occur in pediatrics with infection or surgery.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32346,7 +32346,7 @@ export default [
   {
     "id": "s2peds-2274",
     "category": "Adrenal crisis",
-    "q": "Why do these patients crash with a stressor per p150?",
+    "q": "Why do these patients crash with a stressor?",
     "a": "With surgery, trauma, infection or thyroid storm, glucocorticoid consumption rises, but they cannot mount a stress response (acutely raise cortisol), so they get acute glucocorticoid deficiency and a sharp fall in BP.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32361,7 +32361,7 @@ export default [
   {
     "id": "s2peds-2275",
     "category": "Adrenal crisis",
-    "q": "What is the classic adrenal crisis vignette and answer per p150?",
+    "q": "What is the classic adrenal crisis vignette and answer?",
     "a": "A kid with SLE on prednisone has surgery and BP drops to 80/40, with no response to fluids and pressors. Next best step: IV hydrocortisone or methylprednisolone, replenishing the glucocorticoid. Pressors can be NE, E or even desmopressin (per the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32376,7 +32376,7 @@ export default [
   {
     "id": "s2peds-2276",
     "category": "Adrenal crisis",
-    "q": "Why do pressors fail without cortisol per p150?",
+    "q": "Why do pressors fail without cortisol?",
     "a": "Without cortisol or an equivalent glucocorticoid, adequate alpha-1 receptor expression on arterioles is lacking, so NE and E (normal or given) cannot bind to maintain BP. Glucocorticoids are permissive of catecholamine effects.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32387,7 +32387,7 @@ export default [
   {
     "id": "s2peds-2277",
     "category": "Adrenal crisis",
-    "q": "What other vignettes give the same answer per p150?",
+    "q": "What other vignettes give the same answer?",
     "a": "A patient on prednisone for SLE or RA who gets acute thyroiditis with a big BP drop, or an autoimmune patient who gets an infection with a big BP drop. Answer: hydrocortisone (after fluids).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32402,7 +32402,7 @@ export default [
   {
     "id": "s2peds-2278",
     "category": "Adrenal crisis",
-    "q": "How does the author rate this concept per p150?",
+    "q": "How does the author rate this concept?",
     "a": "Exceedingly high-yield on 2CK in particular, and often missed. Step 1 students still need the physiology and pharmacology behind it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32413,7 +32413,7 @@ export default [
   {
     "id": "s2peds-2279",
     "category": "CAH",
-    "q": "What is the inheritance and most common enzyme defect in CAH per p151?",
+    "q": "What is the inheritance and most common enzyme defect in CAH?",
     "a": "Autosomal recessive. The deficiencies are 21-, 11- and 17-hydroxylase; 21-hydroxylase deficiency is the most common.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32428,7 +32428,7 @@ export default [
   {
     "id": "s2peds-2280",
     "category": "CAH",
-    "q": "What is the mechanism of the hyperplasia in CAH per p151?",
+    "q": "What is the mechanism of the hyperplasia in CAH?",
     "a": "ACTH is increased in all three types. Cortisol production is impaired, so ACTH rises to compensate and stimulates adrenal hyperplasia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32443,7 +32443,7 @@ export default [
   {
     "id": "s2peds-2281",
     "category": "CAH",
-    "q": "What is the answer to \"which is the most likely explanation for these findings\" in a CAH vignette per p151?",
+    "q": "What is the answer to \"which is the most likely explanation for these findings\" in a CAH vignette?",
     "a": "Increased ACTH secretion. It sounds odd but is on NBME.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32454,7 +32454,7 @@ export default [
   {
     "id": "s2peds-2282",
     "category": "CAH",
-    "q": "Why is CAH relevant on the exam per p151, and how do you tell the types apart?",
+    "q": "Why is CAH relevant on the exam, and how do you tell the types apart?",
     "a": "It is a cause of ambiguous genitalia and/or virilization. Presentations vary (neonates, children, adults), so you differentiate by electrolytes and BP.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32469,7 +32469,7 @@ export default [
   {
     "id": "s2peds-2283",
     "category": "CAH",
-    "q": "Which steroids are increased in both 21- and 11-hydroxylase deficiency per p151?",
+    "q": "Which steroids are increased in both 21- and 11-hydroxylase deficiency?",
     "a": "Increased 17-OH substrates (17-OH-progesterone and 17-OH-pregnenolone), increased DHEA-S and increased androstenedione.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32484,7 +32484,7 @@ export default [
   {
     "id": "s2peds-2284",
     "category": "CAH",
-    "q": "If any 17-OH substrate is up in the question, what does that rule out per p151?",
+    "q": "If any 17-OH substrate is up in the question, what does that rule out?",
     "a": "It means the answer is 21- or 11-deficiency. It is impossible to get 17-OH substrates in 17-hydroxylase deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32495,7 +32495,7 @@ export default [
   {
     "id": "s2peds-2285",
     "category": "CAH",
-    "q": "Walk through the p151 CAH algorithm.",
+    "q": "How does the source CAH algorithm work?",
     "a": "If 17-OH substrates, DHEA-S and/or androstenedione are increased: no means 17-OH deficiency; yes means 21- or 11-OH deficiency. Then K+ increased or BP low/normal means 21-OH deficiency; K+ low/normal or BP increased means 11-OH deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32512,7 +32512,7 @@ export default [
   {
     "id": "s2peds-2286",
     "category": "CAH",
-    "q": "What is the adrenal steroid synthesis pathway on p151?",
+    "q": "What is the adrenal steroid synthesis pathway in the source?",
     "a": "Cholesterol to pregnenolone (desmolase). Zona glomerulosa: pregnenolone to progesterone, then 21-OH, 11-OH and aldosterone synthase to aldosterone. Zona fasciculata: 17-OH to 17-OH-pregnenolone and 17-OH-progesterone, then 21-OH to 11-deoxycortisol and 11-OH to cortisol. Zona reticularis: DHEA-S and androstenedione, which convert to testosterone in peripheral tissues.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32529,7 +32529,7 @@ export default [
   {
     "id": "s2peds-2287",
     "category": "21-hydroxylase deficiency",
-    "q": "What are the electrolyte and BP findings in 21-hydroxylase deficiency per p151?",
+    "q": "What are the electrolyte and BP findings in 21-hydroxylase deficiency?",
     "a": "Increased K+, decreased Na+, decreased pH, decreased HCO3-, decreased glucose. BP decreased or normal. Cortisol and aldosterone, as well as their precursors, are all low.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32544,7 +32544,7 @@ export default [
   {
     "id": "s2peds-2288",
     "category": "11-hydroxylase deficiency",
-    "q": "What are the electrolyte and BP findings in 11-hydroxylase deficiency per p151?",
+    "q": "What are the electrolyte and BP findings in 11-hydroxylase deficiency?",
     "a": "K+ decreased or normal, Na+ increased or normal, pH increased or normal, HCO3- increased or normal, glucose increased or normal. BP increased.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32559,7 +32559,7 @@ export default [
   {
     "id": "s2peds-2289",
     "category": "17-hydroxylase deficiency",
-    "q": "What are the findings in 17-hydroxylase deficiency per p152?",
+    "q": "What are the findings in 17-hydroxylase deficiency?",
     "a": "Cortisol and aldosterone are low, but their precursors, which have some effect, are high. Decreased 17-OH substrates, decreased DHEA-S and androstenedione. Decreased K+, increased Na+, increased pH, increased HCO3- (high aldosterone effect). Decreased glucose (cortisol and its precursor are low).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32574,7 +32574,7 @@ export default [
   {
     "id": "s2peds-2290",
     "category": "Neuroblastoma",
-    "q": "What is neuroblastoma per p152?",
+    "q": "What is neuroblastoma?",
     "a": "Essentially the pediatric pheo. N-myc gene. Secretes catecholamines and can calcify.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32589,7 +32589,7 @@ export default [
   {
     "id": "s2peds-2291",
     "category": "Neuroblastoma",
-    "q": "Where does neuroblastoma grow per p152?",
+    "q": "Where does neuroblastoma grow?",
     "a": "From the median (midline) sympathetic chain. Usually intra-abdominal but can sometimes be in the posterior mediastinum, which shows up on a Peds CMS form.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32604,7 +32604,7 @@ export default [
   {
     "id": "s2peds-2292",
     "category": "Neuroblastoma",
-    "q": "What findings does neuroblastoma cause per p152?",
+    "q": "What findings does neuroblastoma cause?",
     "a": "Increased BP, opsoclonus-myoclonus syndrome (dancing eyes) and violaceous eyelids (sounds like the heliotrope rash of dermatomyositis but is unrelated).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32619,7 +32619,7 @@ export default [
   {
     "id": "s2peds-2293",
     "category": "Neuroblastoma",
-    "q": "How is neuroblastoma diagnosed per p152?",
+    "q": "How is neuroblastoma diagnosed?",
     "a": "Urinary homovanillic acid (HVA) and vanillylmandelic acid (VMA), catecholamine metabolites. A metaiodobenzylguanidine (MIBG) scan can be done after HVA and VMA are detected.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32634,7 +32634,7 @@ export default [
   {
     "id": "s2peds-2294",
     "category": "Diabetes mellitus",
-    "q": "What does the word diabetes mean, and why do students confuse DM with DI per p152?",
+    "q": "What does the word diabetes mean, and why do students confuse DM with DI?",
     "a": "Diabetes means polydipsia plus polyuria. Both DM and DI vignettes give increased thirst and urination.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32645,7 +32645,7 @@ export default [
   {
     "id": "s2peds-2295",
     "category": "Diabetes mellitus",
-    "q": "What distinguishes acute DM from DI per p152?",
+    "q": "What distinguishes acute DM from DI?",
     "a": "DM vignettes often mention weight loss from increased catabolism (also seen in acute type II even though the patient is usually overweight). Vomiting is another high-yield finding. Increased thirst plus urination plus weight loss with or without vomiting is DM, not DI.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32660,7 +32660,7 @@ export default [
   {
     "id": "s2peds-2296",
     "category": "Diabetes mellitus",
-    "q": "What does p152 say about other organ-system effects of diabetes?",
+    "q": "What does the source say about other organ-system effects of diabetes?",
     "a": "It points to the author's other HY PDFs (cardio, renal, ophthalmology, GI, pregnancy) and keeps this document focused on endocrine and electrolytes/acid-base.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32671,7 +32671,7 @@ export default [
   {
     "id": "s2peds-2297",
     "category": "Diabetes mellitus",
-    "q": "What are the diagnostic criteria for DM per p152?",
+    "q": "What are the diagnostic criteria for DM?",
     "a": "Two fasting glucoses above 126 mg/dL, any one random glucose above 200 mg/dL, or HbA1c above 6.5%.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32686,7 +32686,7 @@ export default [
   {
     "id": "s2peds-2298",
     "category": "Type 1 diabetes",
-    "q": "What is the cause of type 1 DM per p152?",
+    "q": "What is the cause of type 1 DM?",
     "a": "Absence of insulin; autoimmune-mediated; no one specific gene, though HLA-DR3/4 are associated. Often described as genetic susceptibility with an environmental trigger (viral infection, usually Coxsackie B). Almost always in children or teens of normal BMI.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32701,7 +32701,7 @@ export default [
   {
     "id": "s2peds-2299",
     "category": "Type 1 diabetes",
-    "q": "What is the pathogenesis of type 1 DM per p152?",
+    "q": "What is the pathogenesis of type 1 DM?",
     "a": "Usually an antibody- (anti-GAD65 or -ZnT8) and T-cell-mediated destruction of beta-islet cells in the tail of the pancreas, causing decreased insulin secretion. GLUT4 is not recruited to the surface of skeletal muscle and adipose tissue, so cells cannot take up glucose and are starved, increasing gluconeogenesis and ketogenesis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32716,7 +32716,7 @@ export default [
   {
     "id": "s2peds-2300",
     "category": "Type 1 diabetes",
-    "q": "How does hyperglycemia occur in type 1 DM per p152?",
+    "q": "How does hyperglycemia occur in type 1 DM?",
     "a": "Continued liver glucose production (gluconeogenesis) combined with decreased uptake by skeletal muscle and adipose tissue.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32727,7 +32727,7 @@ export default [
   {
     "id": "s2peds-2301",
     "category": "Type 1 diabetes",
-    "q": "What does a pancreas biopsy show in type 1 DM per p152?",
+    "q": "What does a pancreas biopsy show in type 1 DM?",
     "a": "An inflammatory infiltrate in acute type I DM; atrophy and fibrosis in late type I (years later).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32738,7 +32738,7 @@ export default [
   {
     "id": "s2peds-2302",
     "category": "Type 1 diabetes",
-    "q": "Why does DKA occur in type 1 but not type 2 per p152?",
+    "q": "Why does DKA occur in type 1 but not type 2?",
     "a": "The absence of insulin in type I enables ketogenesis. In type II ketones are low because insulin is present.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32753,7 +32753,7 @@ export default [
   {
     "id": "s2peds-2303",
     "category": "DKA",
-    "q": "What does DKA look like per p152?",
+    "q": "What does DKA look like?",
     "a": "Ketone bodies (USMLE likes beta-hydroxybutyrate) are highly acidic and drop blood pH (high anion-gap metabolic acidosis). A kid or teen with polyuria, polydipsia and sometimes vomiting has severe metabolic acidosis (low bicarb) from DKA. Breath can be fruity (ketones).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32768,7 +32768,7 @@ export default [
   {
     "id": "s2peds-2304",
     "category": "DKA",
-    "q": "What are the pH, bicarbonate and CO2 findings in DKA per p153, and what is Kussmaul breathing?",
+    "q": "What are the pH, bicarbonate and CO2 findings in DKA, and what is Kussmaul breathing?",
     "a": "Decreased pH, decreased HCO3-, decreased CO2. Ketone bodies are acidic, causing metabolic acidosis; CO2 is acidic, so we blow it off to compensate. Kussmaul breathing is deep, labored breathing in DKA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32783,7 +32783,7 @@ export default [
   {
     "id": "s2peds-2305",
     "category": "DKA",
-    "q": "What do beta-hydroxybutyrate, osmolality and anion gap do in DKA per p153?",
+    "q": "What do beta-hydroxybutyrate, osmolality and anion gap do in DKA?",
     "a": "All increased. Beta-hydroxybutyrate is a ketone body (seen as an arrow on an offline Step 1 NBME). Serum osmolality is high because glucose is markedly high, even though serum sodium is low. DKA is the D in MUDPILES, so the anion gap is up.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32798,7 +32798,7 @@ export default [
   {
     "id": "s2peds-2306",
     "category": "DKA",
-    "q": "What happens to serum Na+, serum K+, total body K+ and GFR in DKA per p153?",
+    "q": "What happens to serum Na+, serum K+, total body K+ and GFR in DKA?",
     "a": "Decreased serum Na+, increased serum K+, decreased total body K+, increased GFR.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32813,7 +32813,7 @@ export default [
   {
     "id": "s2peds-2307",
     "category": "DKA",
-    "q": "Why is serum sodium low in DKA per p153?",
+    "q": "Why is serum sodium low in DKA?",
     "a": "Mostly dilutional: high osmolality pulls fluid into the vascular space and dilutes sodium. Low insulin also means less glucose enters cells, less ATP, less Na+/K+-ATPase activity, so sodium is not pumped out of cells.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32824,7 +32824,7 @@ export default [
   {
     "id": "s2peds-2308",
     "category": "DKA",
-    "q": "How is potassium described in DKA per p153?",
+    "q": "How is potassium described in DKA?",
     "a": "Hyperkalemia (high serum K+) despite a low total body potassium.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32839,7 +32839,7 @@ export default [
   {
     "id": "s2peds-2309",
     "category": "DKA",
-    "q": "What are the two reasons serum K+ is high in DKA per p153?",
+    "q": "What are the two reasons serum K+ is high in DKA?",
     "a": "1) Potassium-proton shift: acidosis moves H+ into cells and K+ out via the H+/K+ antiporter. 2) No insulin: insulin normally upregulates the Na+/K+-ATPase (3 Na+ out, 2 K+ in), so with low insulin less K+ moves into cells.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32854,7 +32854,7 @@ export default [
   {
     "id": "s2peds-2310",
     "category": "DKA",
-    "q": "Why is total body K+ low in DKA per p153?",
+    "q": "Why is total body K+ low in DKA?",
     "a": "Increased renal losses. Because serum K+ is high, more is filtered and excreted; the processes causing hyperkalemia are unmitigated, so the kidney keeps excreting potassium and the body becomes depleted.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32869,7 +32869,7 @@ export default [
   {
     "id": "s2peds-2311",
     "category": "DKA",
-    "q": "Why is GFR increased in DKA per p153?",
+    "q": "Why is GFR increased in DKA?",
     "a": "Hyperfiltration secondary to hyperglycemia: more glucose is filtered, pulling water with it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32884,7 +32884,7 @@ export default [
   {
     "id": "s2peds-2312",
     "category": "DKA",
-    "q": "What is the first treatment for DKA per p153?",
+    "q": "What is the first treatment for DKA?",
     "a": "Normal saline (0.9% NaCl) first, prior to giving insulin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32899,7 +32899,7 @@ export default [
   {
     "id": "s2peds-2313",
     "category": "DKA",
-    "q": "What is the DKA, normal K+, insulin and arrhythmia question per p153?",
+    "q": "What is the DKA, normal K+, insulin and arrhythmia question?",
     "a": "Serum potassium drops as insulin is given. If potassium was normal before insulin and the patient now has an arrhythmia, the answer is potassium for the disturbed electrolyte: insulin drove potassium into cells and caused hypokalemia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32914,7 +32914,7 @@ export default [
   {
     "id": "s2peds-2314",
     "category": "DKA",
-    "q": "Is bicarbonate a correct answer for low pH in DKA per p153?",
+    "q": "Is bicarbonate a correct answer for low pH in DKA?",
     "a": "No. Bicarb is always a wrong answer for low pH in DKA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32929,7 +32929,7 @@ export default [
   {
     "id": "s2peds-2315",
     "category": "Hypoglycemia",
-    "q": "How do you tell DKA from a hypoglycemic episode, and what is the treatment per p153?",
+    "q": "How do you tell DKA from a hypoglycemic episode, and what is the treatment?",
     "a": "Hypoglycemia: a type I diabetic who exercised or did hard work and is found unconscious, because insulin was not decreased before exercise. Treatment is intramuscular glucagon (2CK likes this) or dextrose in water.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32944,7 +32944,7 @@ export default [
   {
     "id": "s2peds-2316",
     "category": "Hypoglycemia",
-    "q": "What is the answer when insulin causes prolonged hypoglycemia per p153?",
+    "q": "What is the answer when insulin causes prolonged hypoglycemia?",
     "a": "\"Deficiency of counter-regulatory glucagon.\" In advanced diabetes the glucagon-producing alpha-islet cells can also fail. The same question appears for chronic alcoholism and pancreatectomy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32959,7 +32959,7 @@ export default [
   {
     "id": "s2peds-2317",
     "category": "Type II diabetes",
-    "q": "What is type II diabetes per p153, and how can it appear in pediatrics?",
+    "q": "What is type II diabetes, and how can it appear in pediatrics?",
     "a": "Insulin resistance, usually in high-BMI adults but rarely in pediatrics (a 2CK Peds form gave type II in a 17-year-old).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32970,7 +32970,7 @@ export default [
   {
     "id": "s2peds-2318",
     "category": "Type II diabetes",
-    "q": "Why does high BMI cause insulin resistance per p154?",
+    "q": "Why does high BMI cause insulin resistance?",
     "a": "Adipose tissue secretes adipokines that impair insulin signaling.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -32985,7 +32985,7 @@ export default [
   {
     "id": "s2peds-2319",
     "category": "Type II diabetes",
-    "q": "What happens to insulin early in type II DM per p154?",
+    "q": "What happens to insulin early in type II DM?",
     "a": "Insulin is high initially (hyperinsulinemia) due to beta-cell hypertrophy, compensating for peripheral insulin resistance.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33000,7 +33000,7 @@ export default [
   {
     "id": "s2peds-2320",
     "category": "Type II diabetes",
-    "q": "Why are ketones absent or low in type II DM, and why does it matter per p154?",
+    "q": "Why are ketones absent or low in type II DM, and why does it matter?",
     "a": "The presence of insulin inhibits ketogenesis. This and the hyperinsulinemia point are the highest-yield pieces of info for USMLE.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33011,7 +33011,7 @@ export default [
   {
     "id": "s2peds-2321",
     "category": "Type II diabetes",
-    "q": "What does a pancreas biopsy show in type II DM per p154?",
+    "q": "What does a pancreas biopsy show in type II DM?",
     "a": "Initially beta-cell hypertrophy; years later amyloid deposition and cell shrinkage.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33026,7 +33026,7 @@ export default [
   {
     "id": "s2peds-2322",
     "category": "Type II diabetes",
-    "q": "How does hyperglycemia occur in type II DM per p154?",
+    "q": "How does hyperglycemia occur in type II DM?",
     "a": "As with type I, continued liver glucose production (gluconeogenesis) plus decreased uptake by skeletal muscle and adipose tissue.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33037,7 +33037,7 @@ export default [
   {
     "id": "s2peds-2323",
     "category": "HHS",
-    "q": "Which diabetes type gets HHS versus DKA per p154?",
+    "q": "Which diabetes type gets HHS versus DKA?",
     "a": "HHS is seen in type II; DKA is strictly type I on USMLE.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33052,7 +33052,7 @@ export default [
   {
     "id": "s2peds-2324",
     "category": "HHS",
-    "q": "How do glucose and bicarbonate differ between HHS and DKA per p154?",
+    "q": "How do glucose and bicarbonate differ between HHS and DKA?",
     "a": "HHS: glucose usually above 600 mg/dL (DKA need not be that high) and bicarb usually not below 20 mEq/L (normal 22-28). DKA: bicarb can be as low as it wants (the author saw 5 mEq/L on NBME).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33067,7 +33067,7 @@ export default [
   {
     "id": "s2peds-2325",
     "category": "HHS",
-    "q": "How do you answer a long vignette with glucose 650-700 and a mental status change per p154?",
+    "q": "How do you answer a long vignette with glucose 650-700 and a mental status change?",
     "a": "The answer is \"hyperosmolality,\" or simply \"hyperglycemia\" or \"osmotic diuresis\" (which causes severe dehydration). On 2CK NBMEs, long paragraphs with many lab values can be answered in seconds by spotting the glucose.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33078,7 +33078,7 @@ export default [
   {
     "id": "s2peds-2326",
     "category": "HHS",
-    "q": "What causes the mental status change in HHS per p154?",
+    "q": "What causes the mental status change in HHS?",
     "a": "Hyperosmolality in the brain ECF pulls water out of the ICF (the cells).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33093,7 +33093,7 @@ export default [
   {
     "id": "s2peds-2327",
     "category": "HHS",
-    "q": "What is the first treatment for HHS per p154?",
+    "q": "What is the first treatment for HHS?",
     "a": "Normal saline first, prior to insulin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33108,7 +33108,7 @@ export default [
   {
     "id": "s2peds-2328",
     "category": "Peds vignettes",
-    "q": "Girl, 5, 1-year chronic nonproductive cough, asthma treatments ineffective, CXR with only a linear consolidation in the right middle lobe. Diagnosis per p155?",
+    "q": "Girl, 5, 1-year chronic nonproductive cough, asthma treatments ineffective, CXR with only a linear consolidation in the right middle lobe. Diagnosis?",
     "a": "Bronchiectasis on the Peds NBME, called \"right middle lobe syndrome.\" It can present as bronchiectasis in pediatrics with nonproductive cough and linear consolidation on CXR (unlike the cups of foul sputum in CF, TB or COPD).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33123,7 +33123,7 @@ export default [
   {
     "id": "s2peds-2329",
     "category": "Peds vignettes",
-    "q": "Girl, 7, seizure-like episode; ECG during the episode shows P waves at 80 bpm without QRS complexes, sinus rhythm returns after 20 seconds, alert after 1 minute. Diagnosis per p155?",
+    "q": "Girl, 7, seizure-like episode; ECG during the episode shows P waves at 80 bpm without QRS complexes, sinus rhythm returns after 20 seconds, alert after 1 minute. Diagnosis?",
     "a": "Adams-Stokes attack (Peds NBME): not a true seizure disorder per EEG. The arrhythmia causes brainstem hypoxia, leading to seizure-like fits.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33138,7 +33138,7 @@ export default [
   {
     "id": "s2peds-2330",
     "category": "Peds vignettes",
-    "q": "Boy, 8, low-pitched vibratory murmur throughout the cardiac cycle, loudest at the left upper sternal border sitting, disappears supine and with neck rotation. Diagnosis per p155?",
+    "q": "Boy, 8, low-pitched vibratory murmur throughout the cardiac cycle, loudest at the left upper sternal border sitting, disappears supine and with neck rotation. Diagnosis?",
     "a": "Venous hum: a benign, innocent pediatric murmur that disappears as the child grows, caused by turbulent venous return in the SVC and jugular veins.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33153,7 +33153,7 @@ export default [
   {
     "id": "s2peds-2331",
     "category": "Peds vignettes",
-    "q": "Child printed as 2M, fever 101F, diffuse crackles, CXR with diffuse interstitial infiltrates, thrush, failure to thrive, diarrhea, mother used drugs in pregnancy. What is the next best step in diagnosis per p155?",
+    "q": "Child printed as 2M, fever 101F, diffuse crackles, CXR with diffuse interstitial infiltrates, thrush, failure to thrive, diarrhea, mother used drugs in pregnancy. What is the next best step in diagnosis?",
     "a": "Silver stain of bronchoalveolar fluid. This is Pneumocystis jirovecii pneumonia (PJP) in a child with AIDS secondary to maternal drug use (presumably IV).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33168,7 +33168,7 @@ export default [
   {
     "id": "s2peds-2332",
     "category": "Peds vignettes",
-    "q": "What imaging pattern points to PJP versus another pneumonia per p155?",
+    "q": "What imaging pattern points to PJP versus another pneumonia?",
     "a": "PJP gives bilateral diffuse infiltrates with a ground-glass appearance. BAL is done after the CXR. If the NBME gives a lobar presentation, it is not PJP (usually S. pneumo).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33183,7 +33183,7 @@ export default [
   {
     "id": "s2peds-2333",
     "category": "Peds vignettes",
-    "q": "Boy, 6 months, runny nose for 2 days, respiratory stridor, temp 101F. Most likely location of the pathology per p155?",
+    "q": "Boy, 6 months, runny nose for 2 days, respiratory stridor, temp 101F. Most likely location of the pathology?",
     "a": "The larynx. Diagnosis is laryngotracheobronchitis (croup) caused by parainfluenza virus, with a classic seal-like, barking cough.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33198,7 +33198,7 @@ export default [
   {
     "id": "s2peds-2334",
     "category": "Peds vignettes",
-    "q": "What is the treatment for croup per p155?",
+    "q": "What is the treatment for croup?",
     "a": "Supportive, or nebulized racemic epinephrine if severe.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33213,7 +33213,7 @@ export default [
   {
     "id": "s2peds-2335",
     "category": "Peds vignettes",
-    "q": "Infant, 10 months, fever 101F, bilateral wheezes. Diagnosis and treatment per p155?",
+    "q": "Infant, 10 months, fever 101F, bilateral wheezes. Diagnosis and treatment?",
     "a": "\"Community-acquired viral infection,\" i.e. RSV bronchiolitis. Treatment is supportive; ribavirin and palivizumab are almost always wrong.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33228,7 +33228,7 @@ export default [
   {
     "id": "s2peds-2336",
     "category": "Peds vignettes",
-    "q": "Child printed as 8M, immigrant family, sitting forward in tripod position, drooling. Next best step per p156?",
+    "q": "Child printed as 8M, immigrant family, sitting forward in tripod position, drooling. Next best step?",
     "a": "Intubation. Diagnosis is epiglottitis, Haemophilus influenzae type B (unvaccinated patient).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33243,7 +33243,7 @@ export default [
   {
     "id": "s2peds-2337",
     "category": "Peds vignettes",
-    "q": "What antibiotic and contact prophylaxis does p156 give for epiglottitis?",
+    "q": "What antibiotic and contact prophylaxis does the source give for epiglottitis?",
     "a": "If the question asks for an antibiotic, ceftriaxone. For close contacts, rifampin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33258,7 +33258,7 @@ export default [
   {
     "id": "s2peds-2338",
     "category": "Peds vignettes",
-    "q": "8M, recent URTI, now stridor and fever 101F. Diagnosis, organism, diagnosis method and treatment per p156?",
+    "q": "8M, recent URTI, now stridor and fever 101F. Diagnosis, organism, diagnosis method and treatment?",
     "a": "Bacterial tracheitis, usually S. aureus. Diagnose with bronchoscopy. Treat with a third-generation cephalosporin plus an aminopenicillin (for example IV flucloxacillin).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33273,7 +33273,7 @@ export default [
   {
     "id": "s2peds-2339",
     "category": "Peds vignettes",
-    "q": "8-month-old girl, stridor that improves with neck extension. Diagnosis per p156?",
+    "q": "8-month-old girl, stridor that improves with neck extension. Diagnosis?",
     "a": "Vascular ring: aberrant embryologic development where the aorta and/or surrounding vessels form a ring around the esophagus and/or trachea.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33288,7 +33288,7 @@ export default [
   {
     "id": "s2peds-2340",
     "category": "Peds vignettes",
-    "q": "8-month-old girl, stridor that improves when prone or upright. Diagnosis per p156?",
+    "q": "8-month-old girl, stridor that improves when prone or upright. Diagnosis?",
     "a": "Laryngomalacia, the most common cause of stridor in pediatrics: soft cartilage of the upper larynx collapses during inhalation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33303,7 +33303,7 @@ export default [
   {
     "id": "s2peds-2341",
     "category": "Peds vignettes",
-    "q": "3F, 2-week cough and congestion, loud snoring for 6 months, mouth breathing, 1/6 holosystolic murmur, loud S2, cardiomegaly, increased pulmonary vascular markings, echo with RV hypertrophy and mild TR. Long-term management per p156?",
+    "q": "3F, 2-week cough and congestion, loud snoring for 6 months, mouth breathing, 1/6 holosystolic murmur, loud S2, cardiomegaly, increased pulmonary vascular markings, echo with RV hypertrophy and mild TR. Long-term management?",
     "a": "Adenoidectomy and tonsillectomy. Chronic upper airway obstruction can cause obstructive lung disease with cor pulmonale; the loud S2 and increased vascular markings suggest pulmonary hypertension, and TR can be seen in pulmonary HTN.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33318,7 +33318,7 @@ export default [
   {
     "id": "s2peds-2342",
     "category": "Peds vignettes",
-    "q": "2F, stridor, laryngoscopy shows small growths of the larynx. Diagnosis per p156?",
+    "q": "2F, stridor, laryngoscopy shows small growths of the larynx. Diagnosis?",
     "a": "HPV 6/11: laryngeal papillomatosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33333,7 +33333,7 @@ export default [
   {
     "id": "s2peds-2343",
     "category": "Peds vignettes",
-    "q": "9M with a grey pseudomembrane in the oropharynx. Treatment per p156?",
+    "q": "9M with a grey pseudomembrane in the oropharynx. Treatment?",
     "a": "Diphtheria antitoxin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33348,7 +33348,7 @@ export default [
   {
     "id": "s2peds-2344",
     "category": "Peds vignettes",
-    "q": "12M with steatorrhea, recurrent URTIs and new-onset stridor. Why the stridor per p156?",
+    "q": "12M with steatorrhea, recurrent URTIs and new-onset stridor. Why the stridor?",
     "a": "Nasal polyps (common in cystic fibrosis); the steatorrhea is from exocrine pancreatic insufficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33363,7 +33363,7 @@ export default [
   {
     "id": "s2peds-2345",
     "category": "Peds vignettes",
-    "q": "7F, painless midline neck lump that moves upward on swallowing. What does biopsy show per p156?",
+    "q": "7F, painless midline neck lump that moves upward on swallowing. What does biopsy show?",
     "a": "Thyroid tissue. Diagnosis: thyroglossal duct cyst.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33374,7 +33374,7 @@ export default [
   {
     "id": "s2peds-2346",
     "category": "Peds vignettes",
-    "q": "7F, painless lateral neck mass over the sternocleidomastoid. Diagnosis per p156?",
+    "q": "7F, painless lateral neck mass over the sternocleidomastoid. Diagnosis?",
     "a": "Branchial cleft cyst (printed on the page as \"brachial\").",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33389,7 +33389,7 @@ export default [
   {
     "id": "s2peds-2347",
     "category": "Peds vignettes",
-    "q": "Neonate born by forceps delivery, crooked neck, 1.5 cm mass in the left neck. Diagnosis per p156?",
+    "q": "Neonate born by forceps delivery, crooked neck, 1.5 cm mass in the left neck. Diagnosis?",
     "a": "\"Sternomastoid injury.\"",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33404,7 +33404,7 @@ export default [
   {
     "id": "s2peds-2348",
     "category": "Peds vignettes",
-    "q": "8F with hypothyroidism and dysphagia. Diagnosis per p157?",
+    "q": "8F with hypothyroidism and dysphagia. Diagnosis?",
     "a": "Lingual thyroid (ectopic thyroid location); 4-7x more common in girls; associated with hypothyroidism.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33419,7 +33419,7 @@ export default [
   {
     "id": "s2peds-2349",
     "category": "Peds vignettes",
-    "q": "1F, Hct 26%, first six months on commercial formula, then 2% cow's milk and table food, smear with pale RBCs. Diagnosis per p157?",
+    "q": "1F, Hct 26%, first six months on commercial formula, then 2% cow's milk and table food, smear with pale RBCs. Diagnosis?",
     "a": "Iron deficiency anemia. Infants (especially under 1 year) fed more than 24 ounces of cow's milk daily are at risk.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33434,7 +33434,7 @@ export default [
   {
     "id": "s2peds-2350",
     "category": "Peds vignettes",
-    "q": "5F, pale conjunctivae, low Hb, low MCV, normal WBC and platelets, low RDW. Diagnosis and next step per p157?",
+    "q": "5F, pale conjunctivae, low Hb, low MCV, normal WBC and platelets, low RDW. Diagnosis and next step?",
     "a": "Decreased synthesis of globin chains (thalassemia). Target cells on the smear are a giveaway. Next best step: hemoglobin electrophoresis. Thalassemia has a low RDW (uniformly small RBCs), whereas IDA has a high RDW.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33449,7 +33449,7 @@ export default [
   {
     "id": "s2peds-2351",
     "category": "Peds vignettes",
-    "q": "4M, itchy head, small oval areas of alopecia on the scalp. Organism and treatment per p157?",
+    "q": "4M, itchy head, small oval areas of alopecia on the scalp. Organism and treatment?",
     "a": "Trichophyton tonsurans: tinea capitis. Treat the patient with oral griseofulvin; reduce risk by not sharing hats (three questions on the peds forms).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33464,7 +33464,7 @@ export default [
   {
     "id": "s2peds-2352",
     "category": "Peds vignettes",
-    "q": "17M living in Florida, hypopigmented areas on the shoulders and torso. Treatment per p157?",
+    "q": "17M living in Florida, hypopigmented areas on the shoulders and torso. Treatment?",
     "a": "Topical selenium. Diagnosis: tinea versicolor (Malassezia furfur).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33479,7 +33479,7 @@ export default [
   {
     "id": "s2peds-2353",
     "category": "Peds vignettes",
-    "q": "7M, week of low-grade fever and fatigue, 3 days of rash and swelling from the ankles up, tender ankles, palpable petechiae and confluent purpura on the legs. Diagnosis per p157?",
+    "q": "7M, week of low-grade fever and fatigue, 3 days of rash and swelling from the ankles up, tender ankles, palpable petechiae and confluent purpura on the legs. Diagnosis?",
     "a": "Henoch-Schonlein purpura.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33494,7 +33494,7 @@ export default [
   {
     "id": "s2peds-2354",
     "category": "Peds vignettes",
-    "q": "What is the HSP tetrad and course per p157?",
+    "q": "What is the HSP tetrad and course?",
     "a": "1) Palpable purpura (and apparently petechiae), 2) IgA nephropathy (red urine), 3) abdominal pain (mesenteric adenitis), 4) arthralgias. Classically follows a viral infection, but 2CK vignettes often omit the infection. Self-limiting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33509,7 +33509,7 @@ export default [
   {
     "id": "s2peds-2355",
     "category": "Peds vignettes",
-    "q": "4-month-old girl with asplenia and dextrocardia. Which prophylactic antibiotic per p157?",
+    "q": "4-month-old girl with asplenia and dextrocardia. Which prophylactic antibiotic?",
     "a": "Penicillin (most important for Strep pneumo due to asplenia). Diagnosis: Ivemark syndrome (dextrocardia/situs inversus plus hypoplasia of various organ systems).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33524,7 +33524,7 @@ export default [
   {
     "id": "s2peds-2356",
     "category": "Peds vignettes",
-    "q": "3-month-old female with sepsis. Which antibiotic per p157?",
+    "q": "3-month-old female with sepsis. Which antibiotic?",
     "a": "Cefotaxime: a third-generation cephalosporin for sepsis. For young children (generally under 6 years) use cefotaxime over ceftriaxone. A 2CK NBME 8 question has a 6M with sepsis and the answer is ceftriaxone (cefotaxime is not listed).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33535,7 +33535,7 @@ export default [
   {
     "id": "s2peds-2357",
     "category": "Peds vignettes",
-    "q": "12-month-old female with sickle cell disease, a missed dose of penicillin prophylaxis, now septic. Which antibiotic per p158?",
+    "q": "12-month-old female with sickle cell disease, a missed dose of penicillin prophylaxis, now septic. Which antibiotic?",
     "a": "Cefotaxime. The wrong answers are penicillin and ceftriaxone.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33550,7 +33550,7 @@ export default [
   {
     "id": "s2peds-2358",
     "category": "Peds vignettes",
-    "q": "Neonate with good APGARs, at 3-10 days BP 60/35 in the arms and unobtainable in the legs, SpO2 98 (printed \"mmHg\") but dusky nails, 3/6 holosystolic murmur at the left sternal border. What is responsible per p158?",
+    "q": "Neonate with good APGARs, at 3-10 days BP 60/35 in the arms and unobtainable in the legs, SpO2 98 (printed \"mmHg\") but dusky nails, 3/6 holosystolic murmur at the left sternal border. What is responsible?",
     "a": "\"Closure of the ductus arteriosus.\" Diagnosis is preductal coarctation (the type seen in neonates).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33565,7 +33565,7 @@ export default [
   {
     "id": "s2peds-2359",
     "category": "Peds vignettes",
-    "q": "What else goes with coarctation and dusky nailbeds per p158?",
+    "q": "What else goes with coarctation and dusky nailbeds?",
     "a": "CoA can be associated with tricuspid regurgitation and other cardiac abnormalities. Dusky nailbeds do not equate to cyanosis if O2 sats are normal.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33580,7 +33580,7 @@ export default [
   {
     "id": "s2peds-2360",
     "category": "Peds vignettes",
-    "q": "7-day-old, not cyanotic, 4/6 holosystolic murmur at the left sternal border, murmur absent or soft at birth. What best explains it per p158?",
+    "q": "7-day-old, not cyanotic, 4/6 holosystolic murmur at the left sternal border, murmur absent or soft at birth. What best explains it?",
     "a": "Decreased pulmonary vascular resistance. This is a VSD with a left-to-right shunt. Pulmonary vessels open up over the first week as the ductus closes, lowering right-heart pressure, which creates a favorable L to R gradient so the murmur becomes salient. No cyanosis means no R to L shunt, and Eisenmenger would not occur until much later.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33595,7 +33595,7 @@ export default [
   {
     "id": "s2peds-2361",
     "category": "Peds vignettes",
-    "q": "5-day-old, not cyanotic, 3/6 holosystolic murmur at the left sternal border, murmur absent or soft at birth. What explains the finding at birth per p158?",
+    "q": "5-day-old, not cyanotic, 3/6 holosystolic murmur at the left sternal border, murmur absent or soft at birth. What explains the finding at birth?",
     "a": "Increased pulmonary vascular resistance: the lungs had not yet opened up, so the VSD L to R gradient was not yet conducive to a loud murmur. The Peds shelf asks both versions (increased vs decreased pulmonary vascular resistance as answers).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33606,7 +33606,7 @@ export default [
   {
     "id": "s2peds-2362",
     "category": "Peds vignettes",
-    "q": "14F with Down syndrome, polycythemia, moderate cyanosis, clubbing, no murmur but loud S2, echo with large VSD and dilated main pulmonary artery. Mechanism for the polycythemia per p158?",
+    "q": "14F with Down syndrome, polycythemia, moderate cyanosis, clubbing, no murmur but loud S2, echo with large VSD and dilated main pulmonary artery. Mechanism for the polycythemia?",
     "a": "Pulmonary artery hypertension (Peds NBME). Diagnosis is Eisenmenger syndrome: a large VSD with reversal to R to L shunting. Large VSDs may present without a murmur.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33621,7 +33621,7 @@ export default [
   {
     "id": "s2peds-2363",
     "category": "Peds vignettes",
-    "q": "How does the Eisenmenger mechanism cause polycythemia per p158?",
+    "q": "How does the Eisenmenger mechanism cause polycythemia?",
     "a": "Pulmonary vessels constrict to compensate for the high preload from the earlier L to R VSD shunt. The constriction leads to hypoxia and secondary polycythemia with high EPO.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33636,7 +33636,7 @@ export default [
   {
     "id": "s2peds-2364",
     "category": "Peds vignettes",
-    "q": "Which cardiac defect does Down syndrome favor per p158?",
+    "q": "Which cardiac defect does Down syndrome favor?",
     "a": "Endocardial cushion defects (AVSD > VSD > ASD; Step 1).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33651,7 +33651,7 @@ export default [
   {
     "id": "s2peds-2365",
     "category": "Peds vignettes",
-    "q": "Neonate with pulmonary valvular stenosis. Diagnosis per p158?",
+    "q": "Neonate with pulmonary valvular stenosis. Diagnosis?",
     "a": "Noonan syndrome, the second most common syndrome associated with congenital heart disease after Down.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33666,7 +33666,7 @@ export default [
   {
     "id": "s2peds-2366",
     "category": "Peds vignettes",
-    "q": "Neonate under 34 weeks with dyspnea. Diagnosis and the L/S ratio per p159?",
+    "q": "Neonate under 34 weeks with dyspnea. Diagnosis and the L/S ratio?",
     "a": "Neonatal respiratory distress syndrome (NRDS; hyaline membrane disease). A healthy lecithin (dipalmitoyl phosphatidylcholine) to sphingomyelin ratio is above 2; the ratio is reduced in NRDS.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33681,7 +33681,7 @@ export default [
   {
     "id": "s2peds-2367",
     "category": "Peds vignettes",
-    "q": "Neonate born at 39 weeks by C-section, RR 70, CXR with mild bilateral hyperinflation and prominent perihilar interstitial markings. Diagnosis per p159?",
+    "q": "Neonate born at 39 weeks by C-section, RR 70, CXR with mild bilateral hyperinflation and prominent perihilar interstitial markings. Diagnosis?",
     "a": "Transient tachypnea of the newborn (TTN): the answer when a vignette sounds like NRDS but the kid is term. Seen with C-sections and fast vaginal deliveries in term neonates.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33696,7 +33696,7 @@ export default [
   {
     "id": "s2peds-2368",
     "category": "Peds vignettes",
-    "q": "What is the mechanism and treatment of TTN per p159?",
+    "q": "What is the mechanism and treatment of TTN?",
     "a": "Delayed absorption of fetal lung fluid by the pulmonary lymphatics. Treatment is supportive.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33711,7 +33711,7 @@ export default [
   {
     "id": "s2peds-2369",
     "category": "Peds vignettes",
-    "q": "Neonate born vaginally at 43 weeks, cyanotic, pO2 26 mmHg on 100% oxygen, normal CXR, normal cardiac anatomy with a right-to-left shunt across the foramen ovale. Mechanism per p159?",
+    "q": "Neonate born vaginally at 43 weeks, cyanotic, pO2 26 mmHg on 100% oxygen, normal CXR, normal cardiac anatomy with a right-to-left shunt across the foramen ovale. Mechanism?",
     "a": "\"Failure of pulmonary vasodilation.\" Diagnosis: persistent fetal circulation (persistent pulmonary hypertension of the newborn).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33726,7 +33726,7 @@ export default [
   {
     "id": "s2peds-2370",
     "category": "Peds vignettes",
-    "q": "Neonate born at 26 weeks, several weeks of oxygen in the ICU, now on home oxygen. What is the child at risk for per p159?",
+    "q": "Neonate born at 26 weeks, several weeks of oxygen in the ICU, now on home oxygen. What is the child at risk for?",
     "a": "Bronchopulmonary dysplasia, retinopathy of prematurity and germinal matrix bleed; all can be seen in neonates on oxygen therapy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33741,7 +33741,7 @@ export default [
   {
     "id": "s2peds-2371",
     "category": "Peds vignettes",
-    "q": "6-hour-old term newborn with cyanosis of upper and lower extremities, no circumoral cyanosis, normal O2 sats, no distress. Next best step per p159?",
+    "q": "6-hour-old term newborn with cyanosis of upper and lower extremities, no circumoral cyanosis, normal O2 sats, no distress. Next best step?",
     "a": "Placement under warming lights. Diagnosis: acrocyanosis, a benign peripheral cyanosis that improves with warming. No circumoral cyanosis means no central cyanosis (heart and lungs OK).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33756,7 +33756,7 @@ export default [
   {
     "id": "s2peds-2372",
     "category": "Peds vignettes",
-    "q": "Newborn with slightly blue upper and lower extremities, already under warming lights. Next best step per p159?",
+    "q": "Newborn with slightly blue upper and lower extremities, already under warming lights. Next best step?",
     "a": "\"Tactile stimulation and oxygen therapy.\" So for acrocyanosis: warming lights first, then tactile stimulation plus oxygen therapy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33771,7 +33771,7 @@ export default [
   {
     "id": "s2peds-2373",
     "category": "Peds vignettes",
-    "q": "What are the three ways a VSD sounds on the Peds shelf per p159?",
+    "q": "What are the three ways a VSD sounds on the Peds shelf?",
     "a": "Holosystolic murmur at the left sternal border plus 1) a parasternal heave or palpable thrill, 2) left atrial enlargement (L to R shunt increases preload back to the LA), or 3) a diastolic rumble (volume overload of the LA).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33782,7 +33782,7 @@ export default [
   {
     "id": "s2peds-2374",
     "category": "Peds vignettes",
-    "q": "2-month-old boy, not cyanotic, to-and-fro murmur. Diagnosis per p159?",
+    "q": "2-month-old boy, not cyanotic, to-and-fro murmur. Diagnosis?",
     "a": "\"Extracardiac left-to-right shunt\": PDA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33797,7 +33797,7 @@ export default [
   {
     "id": "s2peds-2375",
     "category": "Peds vignettes",
-    "q": "What are the four ways PDA sounds on the Peds shelf per p160?",
+    "q": "What are the four ways PDA sounds on the Peds shelf?",
     "a": "1) Continuous, machinery-like murmur. 2) Pan-systolic-pan-diastolic (continuous means present throughout the cardiac cycle). 3) To-and-fro murmur (HY; also NBME 6 for 2CK). 4) Bounding pulses (normally aortic regurgitation, but a rare PDA descriptor because blood leaves the aorta quickly L to R); the question will say continuous murmur with bounding pulses, whereas AR is a decrescendo holodiastolic murmur.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33812,7 +33812,7 @@ export default [
   {
     "id": "s2peds-2376",
     "category": "Peds vignettes",
-    "q": "2-month-old boy with fixed splitting of S2. Diagnosis per p160?",
+    "q": "2-month-old boy with fixed splitting of S2. Diagnosis?",
     "a": "Patent foramen ovale (ASD).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33827,7 +33827,7 @@ export default [
   {
     "id": "s2peds-2377",
     "category": "Peds vignettes",
-    "q": "What heart problem occurs in a neonate of a mother with SLE per p160?",
+    "q": "What heart problem occurs in a neonate of a mother with SLE?",
     "a": "Congenital third-degree heart block.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33842,7 +33842,7 @@ export default [
   {
     "id": "s2peds-2378",
     "category": "Peds vignettes",
-    "q": "3M with elfin-like facies, hypercalcemia and well-developed verbal skills. Diagnosis per p160?",
+    "q": "3M with elfin-like facies, hypercalcemia and well-developed verbal skills. Diagnosis?",
     "a": "Williams syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33857,7 +33857,7 @@ export default [
   {
     "id": "s2peds-2379",
     "category": "Peds vignettes",
-    "q": "What is the heart problem in Williams syndrome per p160?",
+    "q": "What is the heart problem in Williams syndrome?",
     "a": "Supravalvular aortic stenosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33872,7 +33872,7 @@ export default [
   {
     "id": "s2peds-2380",
     "category": "Peds vignettes",
-    "q": "A bicuspid aortic valve is most likely to cause which murmur per p160?",
+    "q": "A bicuspid aortic valve is most likely to cause which murmur?",
     "a": "Aortic stenosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33883,7 +33883,7 @@ export default [
   {
     "id": "s2peds-2381",
     "category": "Peds vignettes",
-    "q": "Mid-systolic (crescendo-decrescendo) murmur that gets worse with Valsalva. Diagnosis per p160?",
+    "q": "Mid-systolic (crescendo-decrescendo) murmur that gets worse with Valsalva. Diagnosis?",
     "a": "HOCM.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33898,7 +33898,7 @@ export default [
   {
     "id": "s2peds-2382",
     "category": "Peds vignettes",
-    "q": "Mid-systolic (crescendo-decrescendo) murmur with no change or softening on Valsalva. Diagnosis per p160?",
+    "q": "Mid-systolic (crescendo-decrescendo) murmur with no change or softening on Valsalva. Diagnosis?",
     "a": "Aortic stenosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33909,7 +33909,7 @@ export default [
   {
     "id": "s2peds-2383",
     "category": "Peds vignettes",
-    "q": "Myxomatous degeneration of the mitral valve, or a mid-systolic click. Diagnosis per p160?",
+    "q": "Myxomatous degeneration of the mitral valve, or a mid-systolic click. Diagnosis?",
     "a": "Mitral valve prolapse (MVP).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33924,7 +33924,7 @@ export default [
   {
     "id": "s2peds-2384",
     "category": "Peds vignettes",
-    "q": "Marfan or Ehlers-Danlos syndrome: which heart murmurs per p160?",
+    "q": "Marfan or Ehlers-Danlos syndrome: which heart murmurs?",
     "a": "MVP or aortic regurgitation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33935,7 +33935,7 @@ export default [
   {
     "id": "s2peds-2385",
     "category": "Peds vignettes",
-    "q": "What is another way the shelf describes aortic stenosis per p160?",
+    "q": "What is another way the shelf describes aortic stenosis?",
     "a": "A late-peaking systolic murmur with an ejection click.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33946,7 +33946,7 @@ export default [
   {
     "id": "s2peds-2386",
     "category": "Peds vignettes",
-    "q": "2-week-old girl, HR 240, QRS duration 50 ms, no P waves, awake and alert, ice pack to the face does not change the HR. Next best step per p160?",
+    "q": "2-week-old girl, HR 240, QRS duration 50 ms, no P waves, awake and alert, ice pack to the face does not change the HR. Next best step?",
     "a": "Adenosine. Diagnosis: paroxysmal supraventricular tachycardia (PSVT). Complexes are needle-shaped (short QRS), unlike ventricular tachycardia with wide complexes (over 120 ms).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33961,7 +33961,7 @@ export default [
   {
     "id": "s2peds-2387",
     "category": "Peds vignettes",
-    "q": "10-month-old girl, sore throat for 2 days, fever 101F, S3 gallop. What best explains these findings per p160?",
+    "q": "10-month-old girl, sore throat for 2 days, fever 101F, S3 gallop. What best explains these findings?",
     "a": "Myocarditis (rheumatic fever). PSGN takes 1-2 weeks after Group A Strep, but the NBME has RF occurring as early as 2 days.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33976,7 +33976,7 @@ export default [
   {
     "id": "s2peds-2388",
     "category": "Rheumatic fever",
-    "q": "What mechanism and treatment does p161 give for rheumatic fever, continuing from p160?",
+    "q": "What mechanism and treatment does the source give for rheumatic fever, continuing from the source?",
     "a": "After the strep pharyngitis: type II hypersensitivity via molecular mimicry with Group A Strep M protein (Step 1). Treat with penicillin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -33991,7 +33991,7 @@ export default [
   {
     "id": "s2peds-2389",
     "category": "Peds vignettes",
-    "q": "8M with sore throat and a new-onset tic. Diagnosis and next step per p161?",
+    "q": "8M with sore throat and a new-onset tic. Diagnosis and next step?",
     "a": "PANDAS (Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcus). Group A Strep can precipitate OCD, Tourette and ADHD. Answer: check streptolysin O titers. High-yield for Psych shelf, Peds shelf and 2CK.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34006,7 +34006,7 @@ export default [
   {
     "id": "s2peds-2390",
     "category": "Peds vignettes",
-    "q": "7F with facial grimaces for 5 months, no other motor findings, normal mental status. Next best step per p161?",
+    "q": "7F with facial grimaces for 5 months, no other motor findings, normal mental status. Next best step?",
     "a": "Schedule a follow-up examination in 3 months. Diagnosis: provisional tic disorder, with a watch-and-wait approach.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34021,7 +34021,7 @@ export default [
   {
     "id": "s2peds-2391",
     "category": "Peds vignettes",
-    "q": "What facts does p161 give about provisional tic disorder?",
+    "q": "What facts does the source give about provisional tic disorder?",
     "a": "1 in 5 children experience some form of tic disorder; most common at ages 7-12; usually lasts under a year. It used to be called transient tic disorder; the name changed because a small percent go on to chronic tics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34036,7 +34036,7 @@ export default [
   {
     "id": "s2peds-2392",
     "category": "Peds vignettes",
-    "q": "11-month-old boy, red tongue, maculopapular body rash, fever 100.5F. Diagnosis and treatment per p161?",
+    "q": "11-month-old boy, red tongue, maculopapular body rash, fever 100.5F. Diagnosis and treatment?",
     "a": "Scarlet fever (Group A Strep). Give penicillin to prevent rheumatic fever. The tongue is called strawberry.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34051,7 +34051,7 @@ export default [
   {
     "id": "s2peds-2393",
     "category": "Peds vignettes",
-    "q": "4F with a maculopapular rash, fever and white spots on the buccal mucosa. Diagnosis per p161?",
+    "q": "4F with a maculopapular rash, fever and white spots on the buccal mucosa. Diagnosis?",
     "a": "Rubeola (measles).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34066,7 +34066,7 @@ export default [
   {
     "id": "s2peds-2394",
     "category": "Peds vignettes",
-    "q": "4F with a maculopapular rash, fever and suboccipital and/or post-auricular lymphadenopathy. Diagnosis per p161?",
+    "q": "4F with a maculopapular rash, fever and suboccipital and/or post-auricular lymphadenopathy. Diagnosis?",
     "a": "German measles (rubella).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34081,7 +34081,7 @@ export default [
   {
     "id": "s2peds-2395",
     "category": "Peds vignettes",
-    "q": "4M with bilateral lower face swelling, irritable, stiff neck. Diagnosis per p161?",
+    "q": "4M with bilateral lower face swelling, irritable, stiff neck. Diagnosis?",
     "a": "Mumps. POM: Parotitis, Orchitis, Meningitis. A rash is not classically associated.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34096,7 +34096,7 @@ export default [
   {
     "id": "s2peds-2396",
     "category": "Peds vignettes",
-    "q": "4F with a spiking fever followed by a rash and no other findings. Diagnosis per p161?",
+    "q": "4F with a spiking fever followed by a rash and no other findings. Diagnosis?",
     "a": "Roseola (HHV-6). All you need to remember is the spiking fever followed by a rash.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34111,7 +34111,7 @@ export default [
   {
     "id": "s2peds-2397",
     "category": "Peds vignettes",
-    "q": "17F with an itchy maculopapular back rash and a pink 2-cm ellipse on the lower back. Next step per p161?",
+    "q": "17F with an itchy maculopapular back rash and a pink 2-cm ellipse on the lower back. Next step?",
     "a": "Reassurance and observation. Diagnosis: pityriasis rosea, caused by HHV-6 and HHV-7; self-limiting, lasting 5 weeks on average.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34126,7 +34126,7 @@ export default [
   {
     "id": "s2peds-2398",
     "category": "Peds vignettes",
-    "q": "6M with a circular (not target) rash on the forearm and a Bell palsy picture. Which antibiotic per p161?",
+    "q": "6M with a circular (not target) rash on the forearm and a Bell palsy picture. Which antibiotic?",
     "a": "Amoxicillin. Diagnosis: Lyme disease (erythema chronicum migrans need not be a target). Do not give doxycycline to kids under 8.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34141,7 +34141,7 @@ export default [
   {
     "id": "s2peds-2399",
     "category": "Peds vignettes",
-    "q": "3M with 1 hour of rapid breathing, hyper-resonance on the right chest, CXR with overexpansion of the right lung. Next best step per p162?",
+    "q": "3M with 1 hour of rapid breathing, hyper-resonance on the right chest, CXR with overexpansion of the right lung. Next best step?",
     "a": "Endoscopic examination of the airway (bronchoscopy for foreign body aspiration). Exceedingly HY for the Peds shelf; easier questions mention a 14-month-old crawling on the floor beforehand.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34156,7 +34156,7 @@ export default [
   {
     "id": "s2peds-2400",
     "category": "Peds vignettes",
-    "q": "2M with writhing movements in sleep and periventricular nodules on head MRI. What else will be seen per p162?",
+    "q": "2M with writhing movements in sleep and periventricular nodules on head MRI. What else will be seen?",
     "a": "Cardiac rhabdomyoma. Diagnosis: tuberous sclerosis (TSC). Periventricular nodules are the tubers. Also renal angiomyolipoma, adenoma sebaceum (angiofibromas in a butterfly distribution along the nasal bridge and nasolabial folds) and subungual (nailbed) fibromas. Writhing movements in sleep are seizures, the classic first presenting feature.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34171,7 +34171,7 @@ export default [
   {
     "id": "s2peds-2401",
     "category": "Peds vignettes",
-    "q": "17M with ataxia, an excised cerebellar vascular lesion and red urine. Diagnosis per p162?",
+    "q": "17M with ataxia, an excised cerebellar vascular lesion and red urine. Diagnosis?",
     "a": "Von Hippel-Lindau: causes cerebellar and retinal hemangioblastomas; can eventually lead to renal cell carcinoma (which may become bilateral).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34186,7 +34186,7 @@ export default [
   {
     "id": "s2peds-2402",
     "category": "Peds vignettes",
-    "q": "6F with axillary and groin freckling and a small growth in the eye seen by her mother. Diagnosis and features per p162?",
+    "q": "6F with axillary and groin freckling and a small growth in the eye seen by her mother. Diagnosis and features?",
     "a": "Neurofibromatosis type I (NF1): Lisch nodules (iris hamartomas), optic glioma, axillary and groin freckling, neurofibromas (cutaneous lumps), cafe au lait spots (hyperpigmented macules), pheochromocytoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34201,7 +34201,7 @@ export default [
   {
     "id": "s2peds-2403",
     "category": "Peds vignettes",
-    "q": "2F with congenital cataracts and a mother with a history of removed meningioma. Diagnosis per p162?",
+    "q": "2F with congenital cataracts and a mother with a history of removed meningioma. Diagnosis?",
     "a": "NF2. Congenital cataracts can be seen; meningioma; classically bilateral acoustic schwannomas.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34216,7 +34216,7 @@ export default [
   {
     "id": "s2peds-2404",
     "category": "Peds vignettes",
-    "q": "16M with violaceous papules in a temporal distribution and a history of seizure. Diagnosis per p162?",
+    "q": "16M with violaceous papules in a temporal distribution and a history of seizure. Diagnosis?",
     "a": "Sturge-Weber. Port wine stain birthmark is classic, but violaceous papules is a newer presentation on USMLE.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34231,7 +34231,7 @@ export default [
   {
     "id": "s2peds-2405",
     "category": "Peds vignettes",
-    "q": "What are the phakomatoses per p162, and how are they inherited?",
+    "q": "What are the phakomatoses, and how are they inherited?",
     "a": "Neurocutaneous disorders: TSC, VHL, NF1/2 and Sturge-Weber. All autosomal dominant, but SW is de novo.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34246,7 +34246,7 @@ export default [
   {
     "id": "s2peds-2406",
     "category": "Peds vignettes",
-    "q": "Neonate with a large facial hematoma (printed as such) and aortic coarctation on echo. Diagnosis per p162?",
+    "q": "Neonate with a large facial hematoma (printed as such) and aortic coarctation on echo. Diagnosis?",
     "a": "PHACES syndrome: Posterior fossa anomalies, Hemangiomas (classically a large facial hemangioma), Arterial anomalies, Cardiac anomalies, Eye anomalies, Sternal defects.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34261,7 +34261,7 @@ export default [
   {
     "id": "s2peds-2407",
     "category": "Peds vignettes",
-    "q": "Neonate who turns blue during breastfeeding and pink when crying or detaching, with a pupil that appears to bleed into the iris periphery. Diagnosis per p162?",
+    "q": "Neonate who turns blue during breastfeeding and pink when crying or detaching, with a pupil that appears to bleed into the iris periphery. Diagnosis?",
     "a": "CHARGE syndrome: Coloboma (hole) of the eye, Heart defects, Atresia of the choanae, Renal defects, Genitourinary defects, Ear abnormalities.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34276,7 +34276,7 @@ export default [
   {
     "id": "s2peds-2408",
     "category": "Peds vignettes",
-    "q": "3F brought to the ED 30 minutes after a syncopal episode: mouth turned blue during a temper tantrum, fell, shook, went limp, and recovered within seconds. Alert, active, well-hydrated. Diagnosis per p163?",
+    "q": "3F brought to the ED 30 minutes after a syncopal episode: mouth turned blue during a temper tantrum, fell, shook, went limp, and recovered within seconds. Alert, active, well-hydrated. Diagnosis?",
     "a": "Breath-holding spell.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34291,7 +34291,7 @@ export default [
   {
     "id": "s2peds-2409",
     "category": "Peds vignettes",
-    "q": "4M with pale conjunctivae, 2/6 systolic murmur, Hb 6.4, WBC 50,000, platelets 10,000. Diagnosis per p163?",
+    "q": "4M with pale conjunctivae, 2/6 systolic murmur, Hb 6.4, WBC 50,000, platelets 10,000. Diagnosis?",
     "a": "Acute lymphoblastic leukemia (ALL) until proven otherwise. The murmur is a flow murmur (low Hb, low O2 delivery, HR increases to compensate); extremely HY for peds.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34306,7 +34306,7 @@ export default [
   {
     "id": "s2peds-2410",
     "category": "Peds vignettes",
-    "q": "What is the diagnosis until proven otherwise for leukemia in a kid per p163?",
+    "q": "What is the diagnosis until proven otherwise for leukemia in a kid?",
     "a": "ALL.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34321,7 +34321,7 @@ export default [
   {
     "id": "s2peds-2411",
     "category": "Peds vignettes",
-    "q": "6M just diagnosed with ALL, parents do not want him told, and he asks you whether he will die. What do you say per p163?",
+    "q": "6M just diagnosed with ALL, parents do not want him told, and he asks you whether he will die. What do you say?",
     "a": "\"Have you talked to your parents about this?\"",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34332,7 +34332,7 @@ export default [
   {
     "id": "s2peds-2412",
     "category": "Peds vignettes",
-    "q": "6M with ALL and facial flushing and/or a positive Pemberton sign. Diagnosis per p163?",
+    "q": "6M with ALL and facial flushing and/or a positive Pemberton sign. Diagnosis?",
     "a": "TALL (T cell ALL): a thymic lesion can lead to an SVC-like syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34347,7 +34347,7 @@ export default [
   {
     "id": "s2peds-2413",
     "category": "Peds vignettes",
-    "q": "3F with a 10-day history of coughing spells followed by vomiting. Diagnosis per p163?",
+    "q": "3F with a 10-day history of coughing spells followed by vomiting. Diagnosis?",
     "a": "Pertussis; post-tussive vomiting and hypoglycemia sometimes seen. The cough may be described as paroxysms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34362,7 +34362,7 @@ export default [
   {
     "id": "s2peds-2414",
     "category": "Peds vignettes",
-    "q": "14M with WBC 32,000 (85% lymphocytes) and a two-week paroxysmal cough followed by vomiting. Diagnosis per p163?",
+    "q": "14M with WBC 32,000 (85% lymphocytes) and a two-week paroxysmal cough followed by vomiting. Diagnosis?",
     "a": "Pertussis. It can cause an absurdly high, almost entirely lymphocytic WBC count that resembles ALL.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34377,7 +34377,7 @@ export default [
   {
     "id": "s2peds-2415",
     "category": "Peds vignettes",
-    "q": "17F with 8 months of hirsutism, menses every 45 days (previously 28), moodiness and depression, abdominal striae. Next best step per p163?",
+    "q": "17F with 8 months of hirsutism, menses every 45 days (previously 28), moodiness and depression, abdominal striae. Next best step?",
     "a": "Answer on the Peds NBME: measurement of morning fasting serum cortisol. Wrong answers are prolactin and testosterone measurements.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34392,7 +34392,7 @@ export default [
   {
     "id": "s2peds-2416",
     "category": "Peds vignettes",
-    "q": "12F after a viral infection, lethargic, polyuria, polydipsia, high serum and urinary glucose. Which biochemical and acid-base disturbance per p163?",
+    "q": "12F after a viral infection, lethargic, polyuria, polydipsia, high serum and urinary glucose. Which biochemical and acid-base disturbance?",
     "a": "High serum K (hyperkalemia) but low total body K; low Na; low bicarbonate (metabolic acidosis); low pH; low CO2 (compensation).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34407,7 +34407,7 @@ export default [
   {
     "id": "s2peds-2417",
     "category": "Peds vignettes",
-    "q": "12F in DKA with HR 56, BP 146/88, headache and confusion. What causes the mental status change per p163?",
+    "q": "12F in DKA with HR 56, BP 146/88, headache and confusion. What causes the mental status change?",
     "a": "Cerebral edema (a serious complication of DKA). Hyperglycemia leads to osmotic changes with water moving out of cells. Give IV normal saline first before adding insulin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34422,7 +34422,7 @@ export default [
   {
     "id": "s2peds-2418",
     "category": "Peds vignettes",
-    "q": "12-month-old female with fever, 8-10 watery stools daily, low BP, high HR and low bicarb. Why the low bicarb per p164?",
+    "q": "12-month-old female with fever, 8-10 watery stools daily, low BP, high HR and low bicarb. Why the low bicarb?",
     "a": "Lactic acidosis: any scenario with decreased perfusion (oxygen delivery) to muscle increases anaerobic respiration. HY for any shock (septic, cardiogenic, hypovolemic); can also be seen with severe diabetes insipidus and pulmonary embolism.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34437,7 +34437,7 @@ export default [
   {
     "id": "s2peds-2419",
     "category": "Peds vignettes",
-    "q": "3F who fell off a tricycle 2 weeks ago, now with polyuria, polydipsia, high serum sodium and high urine output. Diagnosis per p164?",
+    "q": "3F who fell off a tricycle 2 weeks ago, now with polyuria, polydipsia, high serum sodium and high urine output. Diagnosis?",
     "a": "Diabetes insipidus. Head trauma can cause both central DI and SIADH. DI: high serum sodium and low urinary osmolality. SIADH: low serum sodium and high urinary osmolality.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34452,7 +34452,7 @@ export default [
   {
     "id": "s2peds-2420",
     "category": "Peds vignettes",
-    "q": "3F with 2 weeks of fever, pallor, poor appetite, mouth ulcers and low RBCs, WBCs and platelets. Diagnosis and next step per p164?",
+    "q": "3F with 2 weeks of fever, pallor, poor appetite, mouth ulcers and low RBCs, WBCs and platelets. Diagnosis and next step?",
     "a": "Aplastic anemia (presumably from Parvo, but also other viruses). Next best step: immediate IV antibiotics for neutropenic fever. Low WBCs means low neutrophils, and mouth ulcers on USMLE are a hugely HY presentation of neutropenia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34467,7 +34467,7 @@ export default [
   {
     "id": "s2peds-2421",
     "category": "Peds vignettes",
-    "q": "4F treated for 3 weeks with TMP/SMX, now with isolated neutropenia. Cause per p164?",
+    "q": "4F treated for 3 weeks with TMP/SMX, now with isolated neutropenia. Cause?",
     "a": "TMP/SMX: be aware it can cause neutropenia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34482,7 +34482,7 @@ export default [
   {
     "id": "s2peds-2422",
     "category": "Peds vignettes",
-    "q": "3F with fever and low RBCs, WBCs and platelets, already on IV antibiotics. Next best step in diagnosis per p164?",
+    "q": "3F with fever and low RBCs, WBCs and platelets, already on IV antibiotics. Next best step in diagnosis?",
     "a": "Bone marrow aspiration (sounds invasive, but it diagnoses aplastic anemia). A UWorld question with Parvo IgM/IgG titers is for an adult daycare worker with a lacy body rash and no drop in blood cell lines.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34497,7 +34497,7 @@ export default [
   {
     "id": "s2peds-2423",
     "category": "Peds vignettes",
-    "q": "4M with hypoplastic thumbs and decreased RBCs, WBCs and platelets. Diagnosis per p164?",
+    "q": "4M with hypoplastic thumbs and decreased RBCs, WBCs and platelets. Diagnosis?",
     "a": "Fanconi anemia: autosomal recessive aplastic anemia characterized by absent or hypoplastic thumbs or radii.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34512,7 +34512,7 @@ export default [
   {
     "id": "s2peds-2424",
     "category": "Peds vignettes",
-    "q": "4M with triphalangeal thumbs (printed \"triphalyngeal\") and low RBCs. Diagnosis per p164?",
+    "q": "4M with triphalangeal thumbs (printed \"triphalyngeal\") and low RBCs. Diagnosis?",
     "a": "Diamond-Blackfan anemia: pure red cell aplasia characterized by triphalangeal thumbs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34527,7 +34527,7 @@ export default [
   {
     "id": "s2peds-2425",
     "category": "Peds vignettes",
-    "q": "4F with immunodeficiency, fairer skin than her siblings, and giant granules in phagocytes. Diagnosis per p164?",
+    "q": "4F with immunodeficiency, fairer skin than her siblings, and giant granules in phagocytes. Diagnosis?",
     "a": "Chediak-Higashi syndrome: a phagolysosomal fusion disorder with disrupted microtubule function; melanosome function is also impaired.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34542,7 +34542,7 @@ export default [
   {
     "id": "s2peds-2426",
     "category": "Peds vignettes",
-    "q": "2M with immunodeficiency and delayed separation of the umbilical cord. Diagnosis per p164?",
+    "q": "2M with immunodeficiency and delayed separation of the umbilical cord. Diagnosis?",
     "a": "Leukocyte adhesion deficiency: deficiency of the LFA-1/CD18 integrin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34557,8 +34557,8 @@ export default [
   {
     "id": "s2peds-2427",
     "category": "Peds vignettes",
-    "q": "2M with viral, fungal, bacterial and protozoal infections since birth, an absent thymic shadow and scanty or absent lymph nodes and tonsils. Diagnosis per p164?",
-    "a": "Severe combined immunodeficiency (SCID); the X-linked type is most common (the sentence continues on p165).",
+    "q": "2M with viral, fungal, bacterial and protozoal infections since birth, an absent thymic shadow and scanty or absent lymph nodes and tonsils. Diagnosis?",
+    "a": "Severe combined immunodeficiency (SCID); the X-linked type is most common (the sentence continues in the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 164,
@@ -34572,7 +34572,7 @@ export default [
   {
     "id": "s2peds-2428",
     "category": "SCID",
-    "q": "What inheritance, causes, treatment and cell deficits does p165 give for SCID?",
+    "q": "What inheritance, causes, treatment and cell deficits does the source give for SCID?",
     "a": "X-linked is most common, due to a common gamma-chain mutation or IL-2 receptor deficiency. Autosomal recessive is due to adenosine deaminase (ADA) deficiency. Treatment is bone marrow transplant. An absent thymic shadow means T cell deficiency; scanty/absent lymphoid tissue means B cell deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34587,7 +34587,7 @@ export default [
   {
     "id": "s2peds-2429",
     "category": "Peds vignettes",
-    "q": "2M with bacterial infections from about 6 months of life and scanty or absent lymph nodes and tonsils. Diagnosis per p165?",
+    "q": "2M with bacterial infections from about 6 months of life and scanty or absent lymph nodes and tonsils. Diagnosis?",
     "a": "Deficiency of humoral immunity (Bruton X-linked agammaglobulinemia).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34602,7 +34602,7 @@ export default [
   {
     "id": "s2peds-2430",
     "category": "Peds vignettes",
-    "q": "What caveat and treatment does p165 give for Bruton agammaglobulinemia?",
+    "q": "What caveat and treatment does the source give for Bruton agammaglobulinemia?",
     "a": "A newer Peds form had Bruton as the answer for bacterial infections since birth, so emphasize that Bruton is bacterial only, whereas SCID is all types of infection (viral, fungal, bacterial, protozoal). Treatment: monthly infusion of immune globulin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34617,7 +34617,7 @@ export default [
   {
     "id": "s2peds-2431",
     "category": "Peds vignettes",
-    "q": "2M with mental retardation, fairer skin than siblings and a deficient hydroxylase enzyme. How could this have been prevented per p165?",
+    "q": "2M with mental retardation, fairer skin than siblings and a deficient hydroxylase enzyme. How could this have been prevented?",
     "a": "Routine newborn screening by heel-prick test at birth for phenylketonuria (PKU). Note: current terminology is intellectual disability.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34632,7 +34632,7 @@ export default [
   {
     "id": "s2peds-2432",
     "category": "Peds vignettes",
-    "q": "What are the PKU facts on p165?",
+    "q": "What are the PKU facts in the source?",
     "a": "Autosomal recessive; deficiency of phenylalanine hydroxylase; tyrosine becomes essential; phenylalanine must be avoided in the diet. Malignant PKU is tetrahydrobiopterin (THB) deficiency (cofactor for phenylalanine hydroxylase).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34647,7 +34647,7 @@ export default [
   {
     "id": "s2peds-2433",
     "category": "Peds vignettes",
-    "q": "8-month-old girl with oropharyngeal candidiasis, history of parainfluenza infection and a 3/6 harsh systolic murmur at the left sternal border. What is she deficient in per p165?",
+    "q": "8-month-old girl with oropharyngeal candidiasis, history of parainfluenza infection and a 3/6 harsh systolic murmur at the left sternal border. What is she deficient in?",
     "a": "T lymphocytes, possibly DiGeorge syndrome (tetralogy of Fallot with a murmur that is a mix of VSD and pulmonary stenosis). T cell deficiency causes viral, fungal and protozoal infections; if the USMLE wants B cell deficiency, they mention bacterial infections.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34662,7 +34662,7 @@ export default [
   {
     "id": "s2peds-2434",
     "category": "Peds vignettes",
-    "q": "8-day-old newborn with truncus arteriosus, serum calcium 7 mg/dL and no thymic shadow. Diagnosis per p165?",
+    "q": "8-day-old newborn with truncus arteriosus, serum calcium 7 mg/dL and no thymic shadow. Diagnosis?",
     "a": "Hypoparathyroidism (DiGeorge): 3rd and 4th pouch agenesis. The 3rd pouch gives the thymus and inferior parathyroids; the 4th gives the superior parathyroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34677,7 +34677,7 @@ export default [
   {
     "id": "s2peds-2435",
     "category": "Peds vignettes",
-    "q": "16F with 3 days of left cheek pain and pressure, strep pneumonia at ages 6 and 10, and seasonal allergies. Diagnosis per p165?",
+    "q": "16F with 3 days of left cheek pain and pressure, strep pneumonia at ages 6 and 10, and seasonal allergies. Diagnosis?",
     "a": "\"Impaired humoral immunity\" or \"deficiency of mucosal immunoglobulin\": IgA deficiency (one of the highest-yield presentations for the Peds shelf and USMLE). The sore cheek is sinusitis; it presents as recurrent sinopulmonary infections.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34692,7 +34692,7 @@ export default [
   {
     "id": "s2peds-2436",
     "category": "Peds vignettes",
-    "q": "What associations does p165 list for IgA deficiency?",
+    "q": "What associations does the source list for IgA deficiency?",
     "a": "History of Giardia infection, autoimmune diseases (for example vitiligo) and atopy (dry cough in winter as cough-variant asthma, hay fever in spring, eczema in summer). Anaphylaxis with blood transfusion is too easy for most 2CK questions but rarely shows up.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34707,7 +34707,7 @@ export default [
   {
     "id": "s2peds-2437",
     "category": "Peds vignettes",
-    "q": "3M with recurrent otitis media, recent tympanostomy tube placement, HIV-negative mother. Diagnosis per p166?",
+    "q": "3M with recurrent otitis media, recent tympanostomy tube placement, HIV-negative mother. Diagnosis?",
     "a": "\"Antibody deficiency\": IgA deficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34718,7 +34718,7 @@ export default [
   {
     "id": "s2peds-2438",
     "category": "Peds vignettes",
-    "q": "6M with recurrent Staph infections and diarrhea. Diagnosis and mechanism per p166?",
+    "q": "6M with recurrent Staph infections and diarrhea. Diagnosis and mechanism?",
     "a": "\"Neutrophil oxidative burst\" defect: chronic granulomatous disease (NADPH oxidase deficiency), with infections by catalase-positive organisms (Staph infections are the signature complication).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34733,7 +34733,7 @@ export default [
   {
     "id": "s2peds-2439",
     "category": "Peds vignettes",
-    "q": "What is the SPACES mnemonic for CGD per p166, and what else is tested?",
+    "q": "What is the SPACES mnemonic for CGD, and what else is tested?",
     "a": "Staph, Pseudomonas, Aspergillus, Candida, E. coli, Serratia. Aspergillus is the most common fungal infection in CGD; 2CK has a question where a child gets Serratia sepsis as part of CGD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34748,7 +34748,7 @@ export default [
   {
     "id": "s2peds-2440",
     "category": "Peds vignettes",
-    "q": "8F with fever, purpuric lesions on the trunk and extremities, and a brother who died of fulminant meningococcemia 4 years ago. Diagnosis per p166?",
+    "q": "8F with fever, purpuric lesions on the trunk and extremities, and a brother who died of fulminant meningococcemia 4 years ago. Diagnosis?",
     "a": "\"Complement system immunodeficiency\": terminal complement deficiency (C5-9) is associated with recurrent Neisseria infections (gonococcal and meningococcal).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34763,7 +34763,7 @@ export default [
   {
     "id": "s2peds-2441",
     "category": "Peds vignettes",
-    "q": "14M with fever, stiff neck, non-blanching purpura on the abdomen, BP 60/35, and limited response to IV fluids and norepinephrine. Treatment per p166?",
+    "q": "14M with fever, stiff neck, non-blanching purpura on the abdomen, BP 60/35, and limited response to IV fluids and norepinephrine. Treatment?",
     "a": "Hydrocortisone. Diagnosis: Waterhouse-Friderichsen syndrome, hemorrhagic necrosis of the adrenal cortices from meningococcal septicemia. Non-blanching rash with meningitis means meningococcus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34778,7 +34778,7 @@ export default [
   {
     "id": "s2peds-2442",
     "category": "Peds vignettes",
-    "q": "Why is hydrocortisone the answer and why does NE have limited effect in that vignette per p166?",
+    "q": "Why is hydrocortisone the answer and why does NE have limited effect in that vignette?",
     "a": "Cortisol is deficient, and cortisol is normally needed to upregulate alpha-1 receptors on arterioles, permitting NE and E to do their job.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34789,7 +34789,7 @@ export default [
   {
     "id": "s2peds-2443",
     "category": "Peds vignettes",
-    "q": "17F with cutaneous candida infections since childhood, 2 years of type I diabetes and autoimmune thyroiditis. Diagnosis per p166?",
+    "q": "17F with cutaneous candida infections since childhood, 2 years of type I diabetes and autoimmune thyroiditis. Diagnosis?",
     "a": "Chronic mucocutaneous candidiasis. Answer: \"T cell dysfunction\" = \"impaired cell-mediated immunity\" (both answers). Candida infections can occur in diabetes, but the durations do not match.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34804,7 +34804,7 @@ export default [
   {
     "id": "s2peds-2444",
     "category": "Peds vignettes",
-    "q": "1-month-old male with white oral plaques that bleed when scraped and a papular erythematous diaper rash with satellite lesions. Mechanism per p166?",
+    "q": "1-month-old male with white oral plaques that bleed when scraped and a papular erythematous diaper rash with satellite lesions. Mechanism?",
     "a": "Decreased T lymphocyte activity: chronic mucocutaneous candidiasis (printed as \"popular\" rash on the page).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34815,7 +34815,7 @@ export default [
   {
     "id": "s2peds-2445",
     "category": "Peds vignettes",
-    "q": "8M with very high IgM. Mechanism per p166?",
+    "q": "8M with very high IgM. Mechanism?",
     "a": "Deficiency of CD40 ligand on T cells (cannot activate CD40 on B cells to induce isotype class switching): Hyper IgM syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34830,7 +34830,7 @@ export default [
   {
     "id": "s2peds-2446",
     "category": "Peds vignettes",
-    "q": "6F with recurrent Staph abscesses, eczematoid skin lesions and abnormal dentition. Diagnosis per p166?",
+    "q": "6F with recurrent Staph abscesses, eczematoid skin lesions and abnormal dentition. Diagnosis?",
     "a": "Hyper IgE syndrome (Job syndrome): FATED, with abnormal Facies, staphylococcal cold Abscesses, retained primary Teeth, hyper IgE and Dermatologic findings (for example eczematoid lesions).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34845,7 +34845,7 @@ export default [
   {
     "id": "s2peds-2447",
     "category": "Peds vignettes",
-    "q": "12M with an eczematoid skin lesion on the forehead, nosebleeds and a history of infections. Which cell is dysfunctional per p167?",
+    "q": "12M with an eczematoid skin lesion on the forehead, nosebleeds and a history of infections. Which cell is dysfunctional?",
     "a": "T cell (on the student's 2CK, not Step 1). Diagnosis: Wiskott-Aldrich syndrome (X-linked recessive), the classic triad of eczematoid skin lesions, thrombocytopenia and immunodeficiency.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34860,7 +34860,7 @@ export default [
   {
     "id": "s2peds-2448",
     "category": "Peds vignettes",
-    "q": "3F with dilated superficial blood vessels on the face and a wobbly gait. Mechanism per p167?",
+    "q": "3F with dilated superficial blood vessels on the face and a wobbly gait. Mechanism?",
     "a": "Failure of double-stranded DNA break repair: ataxia-telangiectasia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34875,7 +34875,7 @@ export default [
   {
     "id": "s2peds-2449",
     "category": "Peds vignettes",
-    "q": "8M with a picture of a red dot on the tongue or nailbed. Diagnosis per p167?",
+    "q": "8M with a picture of a red dot on the tongue or nailbed. Diagnosis?",
     "a": "Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu); autosomal dominant.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34890,7 +34890,7 @@ export default [
   {
     "id": "s2peds-2450",
     "category": "Peds vignettes",
-    "q": "What adult complication of HHT does p167 mention?",
+    "q": "What adult complication of HHT does the source mention?",
     "a": "Pulmonary arteriovenous fistulae in adults with high-output cardiac failure. A Step 1 NBME had a 45M with epistaxis since childhood, a picture of a red dot on the tongue and a high ejection fraction; answer: pulmonary arteriovenous fistula (due to HHT).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34905,7 +34905,7 @@ export default [
   {
     "id": "s2peds-2451",
     "category": "Peds vignettes",
-    "q": "17M with 3 weeks of lymphadenopathy, fever, loose stools, hepatosplenomegaly, low RBCs and WBCs, high IgM and IgG. Diagnosis per p167?",
+    "q": "17M with 3 weeks of lymphadenopathy, fever, loose stools, hepatosplenomegaly, low RBCs and WBCs, high IgM and IgG. Diagnosis?",
     "a": "HIV infection. Wrong answers are CVID, IgA deficiency, SCID, DiGeorge and Bruton (so eliminate to get there). CVID can rarely occur as young as adolescence, but the diagnosis needs IgG and IgA more than 2 SD below the mean (IgG is high in this stem).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34920,7 +34920,7 @@ export default [
   {
     "id": "s2peds-2452",
     "category": "Peds vignettes",
-    "q": "A mother is HIV positive. What should the neonate receive after C-section per p167?",
+    "q": "A mother is HIV positive. What should the neonate receive after C-section?",
     "a": "\"A 6-week course of zidovudine (AZT) within 12 hours of delivery.\" Some students argue this is outdated, but it is the answer on Peds NBME form 1; no newer question exists yet.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34935,7 +34935,7 @@ export default [
   {
     "id": "s2peds-2453",
     "category": "Peds vignettes",
-    "q": "6F with a pruritic rash in the intertriginous areas of the elbows and knees, often with wheezing. Treatment per p167?",
+    "q": "6F with a pruritic rash in the intertriginous areas of the elbows and knees, often with wheezing. Treatment?",
     "a": "On the NBME: topical triamcinolone (steroid). Diagnosis: atopic dermatitis (eczema) as part of atopy. If both are listed, emollients (lotion; should be oil-based) are tried before topical steroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34950,7 +34950,7 @@ export default [
   {
     "id": "s2peds-2454",
     "category": "Peds vignettes",
-    "q": "17M with 12 months of intermittent swelling of the face and lips, chest and arms, with abdominal pain and diarrhea during episodes. Next best step in diagnosis per p167?",
+    "q": "17M with 12 months of intermittent swelling of the face and lips, chest and arms, with abdominal pain and diarrhea during episodes. Next best step in diagnosis?",
     "a": "Measurement of C1 esterase inhibitor concentration (not C1 esterase). Diagnosis: hereditary angioedema.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34965,7 +34965,7 @@ export default [
   {
     "id": "s2peds-2455",
     "category": "Peds vignettes",
-    "q": "What is the acute treatment for hereditary angioedema per p167?",
+    "q": "What is the acute treatment for hereditary angioedema?",
     "a": "C1 esterase inhibitor administration. Danazol is also used (induces the liver to produce more C1 inhibitor).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34980,7 +34980,7 @@ export default [
   {
     "id": "s2peds-2456",
     "category": "Peds vignettes",
-    "q": "3F with brown blood. Diagnosis per p167?",
+    "q": "3F with brown blood. Diagnosis?",
     "a": "Congenital methemoglobinemia due to deficiency of cytochrome reductase B5 (cytochrome b5 reductase).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -34995,7 +34995,7 @@ export default [
   {
     "id": "s2peds-2457",
     "category": "Peds vignettes",
-    "q": "10M who ate a new batch of sausage from his father, a butcher, with a high methemoglobin level. Treatment per p167?",
+    "q": "10M who ate a new batch of sausage from his father, a butcher, with a high methemoglobin level. Treatment?",
     "a": "Administration of methylene blue. Vitamin C can also be added.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35010,7 +35010,7 @@ export default [
   {
     "id": "s2peds-2458",
     "category": "Peds vignettes",
-    "q": "9-month-old boy who can only sit with support, bangs two blocks together but does not scribble, says \"mama\" and \"dada\" but not specifically to his parent. Normal or delayed per p168?",
+    "q": "9-month-old boy who can only sit with support, bangs two blocks together but does not scribble, says \"mama\" and \"dada\" but not specifically to his parent. Normal or delayed?",
     "a": "Delayed gross motor; normal fine motor and language development.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35021,7 +35021,7 @@ export default [
   {
     "id": "s2peds-2459",
     "category": "Peds vignettes",
-    "q": "10-month-old boy with grade IV GERD. Which surgical management per p168?",
+    "q": "10-month-old boy with grade IV GERD. Which surgical management?",
     "a": "Fundoplication.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35032,7 +35032,7 @@ export default [
   {
     "id": "s2peds-2460",
     "category": "Peds vignettes",
-    "q": "12-hour-old newborn with excessive oral secretions and coughing after the first feed, resolving with suctioning, with polyhydramnios in pregnancy. Next best step per p168?",
+    "q": "12-hour-old newborn with excessive oral secretions and coughing after the first feed, resolving with suctioning, with polyhydramnios in pregnancy. Next best step?",
     "a": "Insertion of a nasogastric tube. Diagnosis: tracheoesophageal fistula.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35047,7 +35047,7 @@ export default [
   {
     "id": "s2peds-2461",
     "category": "Peds vignettes",
-    "q": "2-month-old boy with non-bloody, non-bilious vomiting after feeds, increasing in amount and force. Diagnosis and associations per p168?",
+    "q": "2-month-old boy with non-bloody, non-bilious vomiting after feeds, increasing in amount and force. Diagnosis and associations?",
     "a": "Pyloric stenosis. Associated with first-born males and oral erythromycin use (a motilin receptor agonist; also treats chlamydia ophthalmia neonatorum).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35062,7 +35062,7 @@ export default [
   {
     "id": "s2peds-2462",
     "category": "Peds vignettes",
-    "q": "How is pyloric stenosis diagnosed and treated per p168, and what acid-base findings occur?",
+    "q": "How is pyloric stenosis diagnosed and treated, and what acid-base findings occur?",
     "a": "Another Peds NBME question wants you to know it is a \"single developmental defect\" (almost never part of a syndrome). Diagnose with abdominal ultrasound. Treatment is printed as \"myomectomy.\" Findings: low K, low Cl, high bicarb. The \"olive-shaped\" mass is too easy for 2CK but not unheard of.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35077,7 +35077,7 @@ export default [
   {
     "id": "s2peds-2463",
     "category": "Peds vignettes",
-    "q": "2-month-old boy with bilious vomiting and Down syndrome. Diagnosis and imaging per p168?",
+    "q": "2-month-old boy with bilious vomiting and Down syndrome. Diagnosis and imaging?",
     "a": "Duodenal atresia. AXR shows the double bubble sign. Mechanism: \"failure of canalization of proximal bowel.\" Annular pancreas can be an alternative cause of bilious vomiting plus double bubble (not with Down syndrome).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35092,7 +35092,7 @@ export default [
   {
     "id": "s2peds-2464",
     "category": "Peds vignettes",
-    "q": "2-month-old boy with bilious vomiting and chronic constipation. Diagnosis per p168?",
+    "q": "2-month-old boy with bilious vomiting and chronic constipation. Diagnosis?",
     "a": "Hirschsprung disease; also associated with Down syndrome; failure of neural crest cell migration distally. The answer is sometimes \"rectal manometry\" as the next best step; it can cause bilious vomiting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35107,7 +35107,7 @@ export default [
   {
     "id": "s2peds-2465",
     "category": "Peds vignettes",
-    "q": "What is the acid-base disturbance with vomiting per p168?",
+    "q": "What is the acid-base disturbance with vomiting?",
     "a": "Hypochloremic, hypokalemic metabolic alkalosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35122,8 +35122,8 @@ export default [
   {
     "id": "s2peds-2466",
     "category": "Peds vignettes",
-    "q": "18-month-old girl with 24 hours of intermittent abdominal pain, an RLQ mass and a positive fecal occult blood test. Next best step in diagnosis per p168?",
-    "a": "Air-contrast enema (or contrast, or air). Ultrasound (target sign) may be done, but on the NBME the answer for diagnosing intussusception is always enema (diagnostic and therapeutic). Presentation is almost always under 2 years with an intermittent nature (the sentence continues on p169).",
+    "q": "18-month-old girl with 24 hours of intermittent abdominal pain, an RLQ mass and a positive fecal occult blood test. Next best step in diagnosis?",
+    "a": "Air-contrast enema (or contrast, or air). Ultrasound (target sign) may be done, but on the NBME the answer for diagnosing intussusception is always enema (diagnostic and therapeutic). Presentation is almost always under 2 years with an intermittent nature (the sentence continues in the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 168,
@@ -35137,7 +35137,7 @@ export default [
   {
     "id": "s2peds-2467",
     "category": "Peds vignettes",
-    "q": "How does intussusception present per p169 (continuing from p168)?",
+    "q": "How does intussusception present (continuing from the source)?",
     "a": "Almost always under age 2, with an intermittent nature: intermittent crying, intermittently bringing the legs to the chest, intermittent squatting and intermittent vomiting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35152,7 +35152,7 @@ export default [
   {
     "id": "s2peds-2468",
     "category": "Peds vignettes",
-    "q": "7-day-old boy with bilious vomiting, blood in stool, a slightly distended abdomen, decreased bowel sounds, gross blood on rectal exam, and a corkscrew appearance on upper GI barium study. Diagnosis per p169?",
+    "q": "7-day-old boy with bilious vomiting, blood in stool, a slightly distended abdomen, decreased bowel sounds, gross blood on rectal exam, and a corkscrew appearance on upper GI barium study. Diagnosis?",
     "a": "\"Failure of normal bowel rotation\": congenital midgut volvulus, diagnosed with an upper-GI series (x-ray with contrast swallow).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35167,7 +35167,7 @@ export default [
   {
     "id": "s2peds-2469",
     "category": "Peds vignettes",
-    "q": "1-month-old boy with bilious vomiting, normal rectal tone and positive fecal occult blood. Diagnosis per p169?",
+    "q": "1-month-old boy with bilious vomiting, normal rectal tone and positive fecal occult blood. Diagnosis?",
     "a": "Midgut volvulus (Peds NBME form 2); intussusception and Hirschsprung are wrong answers.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35182,7 +35182,7 @@ export default [
   {
     "id": "s2peds-2470",
     "category": "Peds vignettes",
-    "q": "18-month-old girl with 24 hours of intermittent abdominal pain, negative FOBT, and AXR with dilated small bowel loops and air-fluid levels. Diagnosis per p169?",
+    "q": "18-month-old girl with 24 hours of intermittent abdominal pain, negative FOBT, and AXR with dilated small bowel loops and air-fluid levels. Diagnosis?",
     "a": "Volvulus (congenital midgut volvulus). The author first thought the negative FOB was the distinguishing feature, but the 18-month-old from Peds form 2 has positive FOB for midgut volvulus, so the distinction is the AXR findings (dilated small bowel loops and air-fluid levels), which would not be seen for intussusception. FOB is not specific for either.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35193,7 +35193,7 @@ export default [
   {
     "id": "s2peds-2471",
     "category": "Peds vignettes",
-    "q": "9M with blood in stool, confirmed on a Tc99 uptake scan. Mechanism per p169?",
+    "q": "9M with blood in stool, confirmed on a Tc99 uptake scan. Mechanism?",
     "a": "\"Heterotopic gastric tissue\": Meckel diverticulum. The NBME has Meckel questions presenting even in adults (do not fixate on age 2).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35208,7 +35208,7 @@ export default [
   {
     "id": "s2peds-2472",
     "category": "Peds vignettes",
-    "q": "3F with failure to thrive, 3 months of steatorrhea, and no meconium passage until day 3. Mechanism for failure to thrive per p169?",
+    "q": "3F with failure to thrive, 3 months of steatorrhea, and no meconium passage until day 3. Mechanism for failure to thrive?",
     "a": "\"Exocrine pancreatic insufficiency.\" The Peds shelf frequently refers to cystic fibrosis this way (it can also refer to chronic pancreatitis in adults).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35223,7 +35223,7 @@ export default [
   {
     "id": "s2peds-2473",
     "category": "Peds vignettes",
-    "q": "4-month-old girl with a 5-cm melanoma-appearing lesion on the thigh. Diagnosis per p169?",
+    "q": "4-month-old girl with a 5-cm melanoma-appearing lesion on the thigh. Diagnosis?",
     "a": "Congenital melanocytic nevus (most common type of birthmark; benign).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35238,7 +35238,7 @@ export default [
   {
     "id": "s2peds-2474",
     "category": "Peds vignettes",
-    "q": "4-month-old girl with a 3-cm \"bruise\" on her back and a vignette that does not sound like abuse. Diagnosis per p169?",
+    "q": "4-month-old girl with a 3-cm \"bruise\" on her back and a vignette that does not sound like abuse. Diagnosis?",
     "a": "Blue nevus (Mongolian spot); more common in Asian descent; melanocytes do not migrate to the basal layer and get trapped in the dermis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35253,7 +35253,7 @@ export default [
   {
     "id": "s2peds-2475",
     "category": "Peds vignettes",
-    "q": "Neonate with a spongy 1-cm red lesion on the chest. Diagnosis per p169?",
+    "q": "Neonate with a spongy 1-cm red lesion on the chest. Diagnosis?",
     "a": "Strawberry hemangioma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35268,7 +35268,7 @@ export default [
   {
     "id": "s2peds-2476",
     "category": "Peds vignettes",
-    "q": "What is the treatment for a strawberry hemangioma per p170?",
+    "q": "What is the treatment for a strawberry hemangioma?",
     "a": "Do not treat; it will grow slightly, then regress spontaneously over a few years.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35283,7 +35283,7 @@ export default [
   {
     "id": "s2peds-2477",
     "category": "Peds vignettes",
-    "q": "Neonate with a large vascular lesion on the leg and thrombocytopenia. Diagnosis per p170?",
+    "q": "Neonate with a large vascular lesion on the leg and thrombocytopenia. Diagnosis?",
     "a": "Kasabach-Merritt syndrome (hemangioma with thrombocytopenia); asked three times on the pediatric 2CK forms in different ways. It is not a strawberry hemangioma and requires surgical treatment.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35298,7 +35298,7 @@ export default [
   {
     "id": "s2peds-2478",
     "category": "Peds vignettes",
-    "q": "1-month-old male with a 12x8 cm vascular lesion on the buttocks since birth, with scattered petechiae and bruises. What best explains these findings per p170?",
+    "q": "1-month-old male with a 12x8 cm vascular lesion on the buttocks since birth, with scattered petechiae and bruises. What best explains these findings?",
     "a": "\"Platelet sequestration,\" similar to how splenomegaly causes thrombocytopenia by sequestration in the red pulp; platelets simply get caught within the large vascular lesion of KMS.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35313,7 +35313,7 @@ export default [
   {
     "id": "s2peds-2479",
     "category": "Peds vignettes",
-    "q": "What is Potter sequence per p170?",
+    "q": "What is Potter sequence?",
     "a": "Renal agenesis leading to oligohydramnios, which causes pulmonary hypoplasia in the fetus (amniotic fluid is needed for lung development).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35328,7 +35328,7 @@ export default [
   {
     "id": "s2peds-2480",
     "category": "Peds vignettes",
-    "q": "12-hour-old male with a distended abdomen and a midline mass. Diagnosis per p170?",
+    "q": "12-hour-old male with a distended abdomen and a midline mass. Diagnosis?",
     "a": "Posterior urethral valves: the most common genitourinary abnormality in neonatal males, thin membrane(s) in the urethra preventing urine outflow.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35343,7 +35343,7 @@ export default [
   {
     "id": "s2peds-2481",
     "category": "Peds vignettes",
-    "q": "2-day-old male with urinary dribbling, decreased urine output and a 6-cm suprapubic mass. Diagnosis per p170?",
+    "q": "2-day-old male with urinary dribbling, decreased urine output and a 6-cm suprapubic mass. Diagnosis?",
     "a": "Posterior urethral valves; two different questions on different Peds forms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35358,7 +35358,7 @@ export default [
   {
     "id": "s2peds-2482",
     "category": "Peds vignettes",
-    "q": "3-month-old boy with fever, pyuria and few bacteria. Next best step in diagnosis per p170?",
+    "q": "3-month-old boy with fever, pyuria and few bacteria. Next best step in diagnosis?",
     "a": "Renal ultrasound. Most likely pyelonephritis (few bacteria are typical on UA despite pyuria). Do renal and bladder ultrasound for all kids aged 2-24 months with a febrile UTI, to screen for congenital GU tract abnormalities.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35373,7 +35373,7 @@ export default [
   {
     "id": "s2peds-2483",
     "category": "Peds vignettes",
-    "q": "6-month-old boy with 1 day of fever, pyuria, E. coli on urine culture, antibiotics started, and a normal renal ultrasound. Next best step per p170?",
+    "q": "6-month-old boy with 1 day of fever, pyuria, E. coli on urine culture, antibiotics started, and a normal renal ultrasound. Next best step?",
     "a": "Voiding cystourethrogram (check for posterior urethral valves).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35388,7 +35388,7 @@ export default [
   {
     "id": "s2peds-2484",
     "category": "Peds vignettes",
-    "q": "What is phimosis versus paraphimosis per p170?",
+    "q": "What is phimosis versus paraphimosis?",
     "a": "Phimosis: inability to retract the foreskin. Paraphimosis: inability to reduce (put back) the foreskin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35403,7 +35403,7 @@ export default [
   {
     "id": "s2peds-2485",
     "category": "Peds vignettes",
-    "q": "Neonatal male with posterior urethral valves. Next best step in diagnosis and treatment per p170?",
+    "q": "Neonatal male with posterior urethral valves. Next best step in diagnosis and treatment?",
     "a": "Voiding cystourethrogram. Treatment must be surgery.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35418,7 +35418,7 @@ export default [
   {
     "id": "s2peds-2486",
     "category": "Peds vignettes",
-    "q": "34M falls on a balance beam (saddle injury) with blood at the urethral meatus. Diagnosis and next best step per p171?",
+    "q": "34M falls on a balance beam (saddle injury) with blood at the urethral meatus. Diagnosis and next best step?",
     "a": "Urethral injury; do a retrograde urethrogram.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35433,7 +35433,7 @@ export default [
   {
     "id": "s2peds-2487",
     "category": "Peds vignettes",
-    "q": "16M skiing accident with bruising and/or flank pain and red urine. Diagnosis and next best step per p171?",
+    "q": "16M skiing accident with bruising and/or flank pain and red urine. Diagnosis and next best step?",
     "a": "Kidney injury (renal contusion); do CT with contrast, not ultrasound. Exceedingly HY on surgery forms; it sounds wrong because contrast can be nephrotoxic, but the exams still want CT with contrast.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35448,7 +35448,7 @@ export default [
   {
     "id": "s2peds-2488",
     "category": "Peds vignettes",
-    "q": "16M skiing accident with bruising and/or flank pain, urine not red. Next best step per p171?",
+    "q": "16M skiing accident with bruising and/or flank pain, urine not red. Next best step?",
     "a": "Urinalysis to look for blood (super HY). If it shows blood, do CT to check for renal injury; if UA is negative, renal injury is unlikely, so choose no further investigations, not CT.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35463,7 +35463,7 @@ export default [
   {
     "id": "s2peds-2489",
     "category": "Peds vignettes",
-    "q": "16M skiing accident with flank pain and bruising, and a normal urinalysis. Next best step per p171?",
+    "q": "16M skiing accident with flank pain and bruising, and a normal urinalysis. Next best step?",
     "a": "No further investigations indicated.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35478,7 +35478,7 @@ export default [
   {
     "id": "s2peds-2490",
     "category": "Peds vignettes",
-    "q": "3M ran into a table corner, 1 day of worsening abdominal pain, normal vitals, a 2x2 cm midline mass, and elevated serum lipase and amylase. Next best step per p171?",
+    "q": "3M ran into a table corner, 1 day of worsening abdominal pain, normal vitals, a 2x2 cm midline mass, and elevated serum lipase and amylase. Next best step?",
     "a": "CT of the abdomen; diagnosis is traumatic pancreatitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35493,7 +35493,7 @@ export default [
   {
     "id": "s2peds-2491",
     "category": "Peds vignettes",
-    "q": "Kid with bloody diarrhea, petechiae and red urine. Diagnosis and mechanism per p171?",
+    "q": "Kid with bloody diarrhea, petechiae and red urine. Diagnosis and mechanism?",
     "a": "Hemolytic uremic syndrome from EHEC O157:H7 or Shigella. Triad: thrombocytopenia, schistocytosis (microangiopathic hemolytic anemia) and renal insufficiency. Per the source, toxin inhibits ADAMTS13 in afferent arterioles and damages endothelium, causing platelet consumption and clumping; RBCs shear on the clumps.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35508,7 +35508,7 @@ export default [
   {
     "id": "s2peds-2492",
     "category": "Peds vignettes",
-    "q": "How does HUS contrast with TTP per p171?",
+    "q": "How does HUS contrast with TTP?",
     "a": "TTP comes from a mutation causing defective ADAMTS13, or antibodies against it, so vWF multimers cannot be cleaved, causing platelet clumping with a progression similar to HUS. TTP is not toxin-induced and tends to be a pentad: the HUS findings plus fever and neurologic signs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35523,7 +35523,7 @@ export default [
   {
     "id": "s2peds-2493",
     "category": "Peds vignettes",
-    "q": "30-month-old boy with fever 101F, loose bloody stools and a tonic-clonic seizure. Diagnosis per p171?",
+    "q": "30-month-old boy with fever 101F, loose bloody stools and a tonic-clonic seizure. Diagnosis?",
     "a": "Shigellosis (Peds NBME); wrong answers are HUS and idiopathic seizure disorder.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35538,7 +35538,7 @@ export default [
   {
     "id": "s2peds-2494",
     "category": "Peds vignettes",
-    "q": "14F with lower abdominal cramps and intermittent knee pain for 6 weeks, 6-10 bloody stools per day, elevated WBC and platelets, and a normal arthrocentesis. Diagnosis per p171?",
+    "q": "14F with lower abdominal cramps and intermittent knee pain for 6 weeks, 6-10 bloody stools per day, elevated WBC and platelets, and a normal arthrocentesis. Diagnosis?",
     "a": "Ulcerative colitis (IBD).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35553,7 +35553,7 @@ export default [
   {
     "id": "s2peds-2495",
     "category": "Peds vignettes",
-    "q": "16M with a mouth ulcer and bloody diarrhea. Diagnosis per p172?",
+    "q": "16M with a mouth ulcer and bloody diarrhea. Diagnosis?",
     "a": "Crohn disease (mouth to anus); mouth ulcers are HY.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35568,7 +35568,7 @@ export default [
   {
     "id": "s2peds-2496",
     "category": "Peds vignettes",
-    "q": "HY features of Crohn disease versus UC: what are the Crohn features per p172?",
+    "q": "HY features of Crohn disease versus UC: what are the Crohn features?",
     "a": "Crohn: transmural (perianal fistulae); non-caseating granulomas; skip lesions (string sign on enema); cobblestoning on colonoscopy; mouth to anus but classically terminal ileum; increased CRC risk if colon affected (lower than UC overall); erythema nodosum and anterior uveitis common.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35583,7 +35583,7 @@ export default [
   {
     "id": "s2peds-2497",
     "category": "Peds vignettes",
-    "q": "HY features of UC versus Crohn: what are the UC features per p172?",
+    "q": "HY features of UC versus Crohn: what are the UC features?",
     "a": "UC: not transmural; not granulomatous; loss of haustra (lead-pipe on enema); pseudopolyps; spares the anus; spreads from rectum proximally; greater CRC risk than Crohn; pyoderma gangrenosum (crater-like lesion, usually on a limb, with necrotic debris); associated with primary sclerosing cholangitis more than Crohn.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35598,7 +35598,7 @@ export default [
   {
     "id": "s2peds-2498",
     "category": "Peds vignettes",
-    "q": "7F with hyperpigmentation around the lips (vignette picture). Diagnosis per p172?",
+    "q": "7F with hyperpigmentation around the lips (vignette picture). Diagnosis?",
     "a": "Hamartomatous polyps: Peutz-Jeghers syndrome (perioral melanosis plus hamartomatous colonic polyps). The peds form has colonoscopy as the next best step in diagnosis in a 7F with PJ syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35613,7 +35613,7 @@ export default [
   {
     "id": "s2peds-2499",
     "category": "Peds vignettes",
-    "q": "8F who recently finished antibiotics, now with bloody diarrhea. Diagnosis per p172?",
+    "q": "8F who recently finished antibiotics, now with bloody diarrhea. Diagnosis?",
     "a": "Pseudomembranous colitis (C. difficile); presentations across NBMEs are both bloody and watery.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35628,7 +35628,7 @@ export default [
   {
     "id": "s2peds-2500",
     "category": "Peds vignettes",
-    "q": "12M with epistaxis, bleeding time 9 minutes and platelet count 50,000. Diagnosis and mechanism per p172?",
+    "q": "12M with epistaxis, bleeding time 9 minutes and platelet count 50,000. Diagnosis and mechanism?",
     "a": "Immune thrombocytopenic purpura (ITP); antibodies against GpIIb/IIIa following a viral infection (2CK questions often omit the preceding viral illness).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35643,7 +35643,7 @@ export default [
   {
     "id": "s2peds-2501",
     "category": "Peds vignettes",
-    "q": "12M with epistaxis, bleeding time 9 minutes and platelets 50,000. Next best step per p172?",
+    "q": "12M with epistaxis, bleeding time 9 minutes and platelets 50,000. Next best step?",
     "a": "Corticosteroids, then IVIG, then splenectomy. A Qbank question exists where the answer is observation only (mild cutaneous findings), but on NBME the source says the answer is always steroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35658,8 +35658,8 @@ export default [
   {
     "id": "s2peds-2502",
     "category": "Peds vignettes",
-    "q": "17F with heavy periods, occasional epistaxis, slow bleeding after a finger cut, normal PT, normal aPTT and normal platelet aggregation studies. Diagnosis per p173?",
-    "a": "von Willebrand disease (autosomal dominant). Bleeding time is always increased because vWF bridges platelet GpIb to collagen; the stabilizing effect on factor VIII is secondary, so aPTT is normal in about half of questions (often near the upper limit, e.g. 38 or 43 s).",
+    "q": "17F with heavy periods, occasional epistaxis, slow bleeding after a finger cut, normal PT, normal aPTT and normal platelet aggregation studies. Diagnosis?",
+    "a": "Von Willebrand disease (autosomal dominant). Bleeding time is always increased because vWF bridges platelet GpIb to collagen; the stabilizing effect on factor VIII is secondary, so aPTT is normal in about half of questions (often near the upper limit, e.g. 38 or 43 s).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 173,
@@ -35673,8 +35673,8 @@ export default [
   {
     "id": "s2peds-2503",
     "category": "Peds vignettes",
-    "q": "Why are platelet aggregation studies normal in vWD, and what is the mix of bleeding per p173?",
-    "a": "vWD has nothing to do with GpIIb/IIIa, which mediates platelet-platelet aggregation; vWF affects adherence to collagen. Bleeding is a mix of a platelet problem (cutaneous, mild: epistaxis, petechiae) and a clotting factor problem (more severe: bleeding after tooth extraction, menorrhagia).",
+    "q": "Why are platelet aggregation studies normal in vWD, and what is the mix of bleeding?",
+    "a": "VWD has nothing to do with GpIIb/IIIa, which mediates platelet-platelet aggregation; vWF affects adherence to collagen. Bleeding is a mix of a platelet problem (cutaneous, mild: epistaxis, petechiae) and a clotting factor problem (more severe: bleeding after tooth extraction, menorrhagia).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 173,
@@ -35688,7 +35688,7 @@ export default [
   {
     "id": "s2peds-2504",
     "category": "Peds vignettes",
-    "q": "Treatment of vWD per p173?",
+    "q": "What is the treatment for vWD?",
     "a": "Desmopressin (DDAVP), which stimulates release of vWF from endothelial cells.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35703,7 +35703,7 @@ export default [
   {
     "id": "s2peds-2505",
     "category": "Peds vignettes",
-    "q": "5M with hemarthrosis. Diagnosis until proven otherwise, and key facts per p173?",
+    "q": "5M with hemarthrosis. Diagnosis until proven otherwise, and key facts?",
     "a": "Hemophilia A or B (choose A if both are listed and you cannot tell them apart; A is far more common). Both X-linked recessive with isolated aPTT increase; A is factor VIII deficiency, B (Christmas disease) is factor IX deficiency. Hemarthrosis is classic for hemophilia but rare in vWD.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35718,7 +35718,7 @@ export default [
   {
     "id": "s2peds-2506",
     "category": "Peds vignettes",
-    "q": "Treatment of hemophilia A versus B per p173?",
+    "q": "What is the treatment for hemophilia A versus B?",
     "a": "Hemophilia A: DDAVP and factor VIII replacement. Hemophilia B: factor IX replacement only; DDAVP cannot be used.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35733,7 +35733,7 @@ export default [
   {
     "id": "s2peds-2507",
     "category": "Peds vignettes",
-    "q": "5M with hemophilia A, several factor VIII transfusions with increasingly poor effect and an aPTT now over 120 s. Diagnosis per p173?",
+    "q": "5M with hemophilia A, several factor VIII transfusions with increasingly poor effect and an aPTT now over 120 s. Diagnosis?",
     "a": "Antibodies against factor VIII (inhibitors), which occur with repeated treatments.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35748,7 +35748,7 @@ export default [
   {
     "id": "s2peds-2508",
     "category": "Peds vignettes",
-    "q": "5F with hemophilia A; the question asks how this is possible. Answer per p173?",
+    "q": "5F with hemophilia A; the question asks how this is possible. Answer?",
     "a": "Lyonization (skewed X-inactivation); you will never see an X-linked recessive disorder in a female unless the question's point is lyonization.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35763,7 +35763,7 @@ export default [
   {
     "id": "s2peds-2509",
     "category": "Peds vignettes",
-    "q": "12M with epistaxis, bleeding time 9 minutes and platelets 50,000. Most effective way to decrease recurrence per p173?",
+    "q": "12M with epistaxis, bleeding time 9 minutes and platelets 50,000. Most effective way to decrease recurrence?",
     "a": "Splenectomy. Steroids come first, but splenectomy is still the most effective at decreasing recurrence.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35778,7 +35778,7 @@ export default [
   {
     "id": "s2peds-2510",
     "category": "Peds vignettes",
-    "q": "10F with a tonic-clonic seizure, 2 weeks of fever and joint pain, low Hb, WBC and platelets, and a positive Coombs test. Diagnosis per p174?",
+    "q": "10F with a tonic-clonic seizure, 2 weeks of fever and joint pain, low Hb, WBC and platelets, and a positive Coombs test. Diagnosis?",
     "a": "Lupus; the cell lines are down from antibodies against blood cells (not aplastic anemia; the answer is increased peripheral destruction). Treatment is steroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35793,7 +35793,7 @@ export default [
   {
     "id": "s2peds-2511",
     "category": "Peds vignettes",
-    "q": "15F with arthritis, malar rash, and blood and protein in the urine. Which test determines the course of management per p174?",
+    "q": "15F with arthritis, malar rash, and blood and protein in the urine. Which test determines the course of management?",
     "a": "Renal biopsy, which guides management of lupus nephritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35808,7 +35808,7 @@ export default [
   {
     "id": "s2peds-2512",
     "category": "Peds vignettes",
-    "q": "3F with a viral infection, fever and a tonic-clonic seizure. Diagnosis, risk and treatment per p174?",
+    "q": "3F with a viral infection, fever and a tonic-clonic seizure. Diagnosis, risk and treatment?",
     "a": "Febrile seizure. Fever can precipitate seizures in 2-4% of children aged 6 months to 5 years; about a two-fold progression to epilepsy versus the general population; treatment is a benzodiazepine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35823,7 +35823,7 @@ export default [
   {
     "id": "s2peds-2513",
     "category": "Peds vignettes",
-    "q": "10-month-old boy with jerking limb movements and an EEG with chaotic high-amplitude spikes and no recognizable pattern. Diagnosis per p174?",
+    "q": "10-month-old boy with jerking limb movements and an EEG with chaotic high-amplitude spikes and no recognizable pattern. Diagnosis?",
     "a": "West syndrome (infantile spasms): spasms, hypsarrhythmia on EEG and developmental regression (the definition needs two of three); starts at 3-12 months; seen in 1-5% of Down syndrome kids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35838,7 +35838,7 @@ export default [
   {
     "id": "s2peds-2514",
     "category": "Peds vignettes",
-    "q": "Treatment of West syndrome and how ACTH is thought to work per p174?",
+    "q": "Treatment of West syndrome and how ACTH is thought to work?",
     "a": "ACTH, prednisolone or vigabatrin. ACTH is thought to act by 1) stimulating cortisol release and 2) a direct, cortisol-independent effect on melanocortin receptors.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35853,7 +35853,7 @@ export default [
   {
     "id": "s2peds-2515",
     "category": "Peds vignettes",
-    "q": "13M with a tonic-clonic seizure, a 4-month history of hypnagogic/hypnopompic left-arm jerking, and an uncle with epilepsy. Diagnosis per p174?",
+    "q": "13M with a tonic-clonic seizure, a 4-month history of hypnagogic/hypnopompic left-arm jerking, and an uncle with epilepsy. Diagnosis?",
     "a": "Juvenile myoclonic epilepsy: genetic with unclear inheritance; myoclonic jerks (usually hypnagogic/hypnopompic) progress to tonic-clonic seizures after several months; onset usually 10-16 (can start in adulthood); treat with valproic acid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35868,7 +35868,7 @@ export default [
   {
     "id": "s2peds-2516",
     "category": "Peds vignettes",
-    "q": "4F with a few months of near-daily seizures, mostly in sleep, new hyperoralism and less eye contact, and no response to antiepileptic drugs. Diagnosis per p174?",
+    "q": "4F with a few months of near-daily seizures, mostly in sleep, new hyperoralism and less eye contact, and no response to antiepileptic drugs. Diagnosis?",
     "a": "Lennox-Gastaut syndrome: severe childhood-onset epilepsy with near-daily seizures and cognitive decline (hyperoralism signals cognitive regression); poor prognosis, 5% childhood mortality, 80-90% seizure persistence into adulthood.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35883,7 +35883,7 @@ export default [
   {
     "id": "s2peds-2517",
     "category": "Peds vignettes",
-    "q": "Child under 5 years with watery diarrhea. Diagnosis per p174?",
+    "q": "Child under 5 years with watery diarrhea. Diagnosis?",
     "a": "Rotavirus; classically seen under age 5.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35898,7 +35898,7 @@ export default [
   {
     "id": "s2peds-2518",
     "category": "Peds vignettes",
-    "q": "Child under 5 with watery diarrhea, and a 12-year-old brother and parents with similar symptoms. Diagnosis per p175?",
+    "q": "Child under 5 with watery diarrhea, and a 12-year-old brother and parents with similar symptoms. Diagnosis?",
     "a": "Norwalk virus (norovirus), not rotavirus, because the rest of the family would not get rotavirus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35913,7 +35913,7 @@ export default [
   {
     "id": "s2peds-2519",
     "category": "Peds vignettes",
-    "q": "4M with watery diarrhea 2 weeks ago, now heavier diarrhea with bloating and flatulence at meals. Diagnosis per p175?",
+    "q": "4M with watery diarrhea 2 weeks ago, now heavier diarrhea with bloating and flatulence at meals. Diagnosis?",
     "a": "Secondary lactose intolerance caused by sloughing of the brush border after gastroenteritis (rotavirus).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35928,7 +35928,7 @@ export default [
   {
     "id": "s2peds-2520",
     "category": "Peds vignettes",
-    "q": "8M with bloating and flatulence after dairy products. Next best step in diagnosis per p175?",
+    "q": "8M with bloating and flatulence after dairy products. Next best step in diagnosis?",
     "a": "Hydrogen breath test, or testing for decreased stool pH; diagnosis is lactose intolerance.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35943,7 +35943,7 @@ export default [
   {
     "id": "s2peds-2521",
     "category": "Peds vignettes",
-    "q": "2F with iron deficiency anemia, bloating, diarrhea, and now eating table food. Diagnosis and workup per p175?",
+    "q": "2F with iron deficiency anemia, bloating, diarrhea, and now eating table food. Diagnosis and workup?",
     "a": "Celiac disease (can cause iron deficiency anemia); diagnose with antibody screen: anti-endomysial, anti-gliadin, or anti-tissue transglutaminase IgA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35958,7 +35958,7 @@ export default [
   {
     "id": "s2peds-2522",
     "category": "Peds vignettes",
-    "q": "5F with a positive celiac antibody screen. Next best step per p175 (duodenal biopsy vs no further studies)?",
+    "q": "5F with a positive celiac antibody screen. Next best step (duodenal biopsy vs no further studies)?",
     "a": "Duodenal biopsy (flattened villi); it sounds wrong, but it is what the NBME wants.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35973,7 +35973,7 @@ export default [
   {
     "id": "s2peds-2523",
     "category": "Peds vignettes",
-    "q": "Best way to decrease the chance of developing a food protein allergy per p175, and how common is cow milk protein allergy?",
+    "q": "Best way to decrease the chance of developing a food protein allergy, and how common is cow milk protein allergy?",
     "a": "Per the source, exclusively breastfeed for the first 6 months. Milk protein allergy affects 2-3% of infants and young children and usually self-resolves, but 0.4% of adults retain it.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -35988,7 +35988,7 @@ export default [
   {
     "id": "s2peds-2524",
     "category": "Peds vignettes",
-    "q": "How common is soy cross-reactivity in cow milk protein allergy, and how is it diagnosed per p175?",
+    "q": "How common is soy cross-reactivity in cow milk protein allergy, and how is it diagnosed?",
     "a": "10-15% of infants with cow milk protein allergy cross-react to soy protein. Diagnosis can be made with skin prick and patch tests.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36003,8 +36003,8 @@ export default [
   {
     "id": "s2peds-2525",
     "category": "Peds vignettes",
-    "q": "Treatment for an infant with milk or soy protein allergy on USMLE per p175?",
-    "a": "Switch to hydrolyzed formula (proteins processed into fragments); the FDA labels hydrolyzed formulas as hypoallergenic. The page then starts listing types of milk protein allergy, beginning with FPIES (continues on p176).",
+    "q": "Treatment for an infant with milk or soy protein allergy on USMLE?",
+    "a": "Switch to hydrolyzed formula (proteins processed into fragments); the FDA labels hydrolyzed formulas as hypoallergenic. The page then starts listing types of milk protein allergy, beginning with FPIES.",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 175,
@@ -36018,7 +36018,7 @@ export default [
   {
     "id": "s2peds-2526",
     "category": "Peds vignettes",
-    "q": "What are the types of milk protein allergy per p175-176 (FPIES, FPIAP, FPE)?",
+    "q": "What are the types of milk protein allergy (FPIES, FPIAP, FPE)?",
     "a": "FPIES: very severe; incessant vomiting and diarrhea within hours of consumption; some develop shock from dehydration. FPIAP: milder; intermittent bloody stools; how cow milk allergy frequently presents on Peds NBME. FPE: chronic diarrhea that resolves when milk protein is removed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36033,7 +36033,7 @@ export default [
   {
     "id": "s2peds-2527",
     "category": "Peds vignettes",
-    "q": "2-month-old boy started on cow milk formula last week, with 1 week of vomiting and diarrhea hours after feeds. Next best step per p176?",
+    "q": "2-month-old boy started on cow milk formula last week, with 1 week of vomiting and diarrhea hours after feeds. Next best step?",
     "a": "Switch to hydrolyzed formula; diagnosis is FPIES.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36048,7 +36048,7 @@ export default [
   {
     "id": "s2peds-2528",
     "category": "Peds vignettes",
-    "q": "6-week-old girl on cow milk formula for 4 weeks, switched to soy formula 2 weeks ago, with 2 weeks of stool streaked with blood and mucus and no vomiting. Next best step per p176?",
+    "q": "6-week-old girl on cow milk formula for 4 weeks, switched to soy formula 2 weeks ago, with 2 weeks of stool streaked with blood and mucus and no vomiting. Next best step?",
     "a": "Switch to formula with hydrolyzed casein; diagnosis is FPIAP.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36063,7 +36063,7 @@ export default [
   {
     "id": "s2peds-2529",
     "category": "Peds vignettes",
-    "q": "Bloody diarrhea with appendicitis-like pain (pseudoappendicitis) in a child. Diagnosis per p176?",
+    "q": "Bloody diarrhea with appendicitis-like pain (pseudoappendicitis) in a child. Diagnosis?",
     "a": "Yersinia enterocolitica.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36078,7 +36078,7 @@ export default [
   {
     "id": "s2peds-2530",
     "category": "Peds vignettes",
-    "q": "3F who finished a 10-day antibiotic course, now with fever 101F, LLQ tenderness and positive fecal occult blood. Diagnosis and treatment per p176?",
+    "q": "3F who finished a 10-day antibiotic course, now with fever 101F, LLQ tenderness and positive fecal occult blood. Diagnosis and treatment?",
     "a": "C. difficile; treat with vancomycin. Two points: C. diff frequently causes bloody stool on 2CK forms; and the pseudoappendicitis of Y. enterocolitica is truly RLQ (terminal ileitis or mesenteric adenitis), not LLQ.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36093,7 +36093,7 @@ export default [
   {
     "id": "s2peds-2531",
     "category": "Peds vignettes",
-    "q": "16-month-old with Giardia infection and failure to thrive. Mechanism of failure to thrive and treatment per p176?",
+    "q": "16-month-old with Giardia infection and failure to thrive. Mechanism of failure to thrive and treatment?",
     "a": "Malabsorption of fats and carbohydrates; treat Giardia with metronidazole.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36108,7 +36108,7 @@ export default [
   {
     "id": "s2peds-2532",
     "category": "Peds vignettes",
-    "q": "16M with painful testes, fever and a positive cremasteric reflex. Diagnosis per p176?",
+    "q": "16M with painful testes, fever and a positive cremasteric reflex. Diagnosis?",
     "a": "Epididymitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36123,7 +36123,7 @@ export default [
   {
     "id": "s2peds-2533",
     "category": "Peds vignettes",
-    "q": "Most common organism causing epididymitis per p176?",
+    "q": "What is the most common organism causing epididymitis?",
     "a": "Chlamydia in sexually active younger males; E. coli in elderly males; same for prostatitis. If the vignette says no organisms grow on culture, choose Chlamydia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36138,7 +36138,7 @@ export default [
   {
     "id": "s2peds-2534",
     "category": "Peds vignettes",
-    "q": "16M with acutely painful testes and a negative cremasteric reflex. Diagnosis and workup per p176?",
+    "q": "16M with acutely painful testes and a negative cremasteric reflex. Diagnosis and workup?",
     "a": "Testicular torsion; Doppler ultrasound followed by surgical detorsion.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36153,7 +36153,7 @@ export default [
   {
     "id": "s2peds-2535",
     "category": "Peds vignettes",
-    "q": "6M with a painful testis with blue/black discoloration of the superior pole, decreased bowel sounds, and a rigid abdomen. Diagnosis and management per p176?",
+    "q": "6M with a painful testis with blue/black discoloration of the superior pole, decreased bowel sounds, and a rigid abdomen. Diagnosis and management?",
     "a": "Strangulated hernia, not testicular torsion; operative management.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36168,7 +36168,7 @@ export default [
   {
     "id": "s2peds-2536",
     "category": "Peds vignettes",
-    "q": "6M with a painful testis, a blue dot at the superior pole and an intact cremasteric reflex. Diagnosis per p177?",
+    "q": "6M with a painful testis, a blue dot at the superior pole and an intact cremasteric reflex. Diagnosis?",
     "a": "Torsion of the appendix testis (on the new peds form, fair game for FM). It differs from testicular torsion, which has a negative cremasteric reflex; the appendix testis causes the blue dot sign.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36183,7 +36183,7 @@ export default [
   {
     "id": "s2peds-2537",
     "category": "Peds vignettes",
-    "q": "8-month-old boy with unilateral testicular enlargement that transilluminates. Diagnosis per p177?",
+    "q": "8-month-old boy with unilateral testicular enlargement that transilluminates. Diagnosis?",
     "a": "Persistent processus vaginalis (hydrocele).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36198,7 +36198,7 @@ export default [
   {
     "id": "s2peds-2538",
     "category": "Peds vignettes",
-    "q": "Treatment of hydrocele per p177?",
+    "q": "What is the treatment for hydrocele?",
     "a": "Observe until age 1, since most resolve spontaneously (almost always the answer); after age 1, surgery can be considered.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36213,7 +36213,7 @@ export default [
   {
     "id": "s2peds-2539",
     "category": "Peds vignettes",
-    "q": "Treatment of cryptorchidism per p177?",
+    "q": "What is the treatment for cryptorchidism?",
     "a": "Observe; no orchiopexy until at least age 1; most spontaneously descend in the first year.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36228,7 +36228,7 @@ export default [
   {
     "id": "s2peds-2540",
     "category": "Peds vignettes",
-    "q": "3M with a hard nodule on the testis. Diagnosis per p177?",
+    "q": "3M with a hard nodule on the testis. Diagnosis?",
     "a": "Yolk sac tumor (endodermal sinus tumor); serum AFP may be elevated.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36243,7 +36243,7 @@ export default [
   {
     "id": "s2peds-2541",
     "category": "Peds vignettes",
-    "q": "3M with a hard testicular nodule and elevated serum AFP and beta-hCG. Diagnosis per p177?",
+    "q": "3M with a hard testicular nodule and elevated serum AFP and beta-hCG. Diagnosis?",
     "a": "Mixed germ cell tumor (embryonal cancer), not yolk sac tumor; yolk sac tumor has only high AFP, while mixed germ cell tumor also has elevated beta-hCG.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36258,7 +36258,7 @@ export default [
   {
     "id": "s2peds-2542",
     "category": "Peds vignettes",
-    "q": "14M with heaviness or bogginess of the testes. Diagnosis and management per p177?",
+    "q": "14M with heaviness or bogginess of the testes. Diagnosis and management?",
     "a": "Varicocele (one FM shelf question literally says bag of worms). Diagnose with Doppler ultrasound; elective surgery may reduce the risk of sub-fertility from increased testicular temperature.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36273,7 +36273,7 @@ export default [
   {
     "id": "s2peds-2543",
     "category": "Peds vignettes",
-    "q": "14M with a dragging sensation in the left testis and a soft tissue mass at the top that disappears when supine. What is the patient at increased risk of per p177?",
+    "q": "14M with a dragging sensation in the left testis and a soft tissue mass at the top that disappears when supine. What is the patient at increased risk of?",
     "a": "Infertility; diagnosis is varicocele.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36288,7 +36288,7 @@ export default [
   {
     "id": "s2peds-2544",
     "category": "Peds vignettes",
-    "q": "16M for a sports exam with both testes descended and a painless scrotal mass that can be milked into the abdomen through the inguinal ring. Diagnosis per p177?",
+    "q": "16M for a sports exam with both testes descended and a painless scrotal mass that can be milked into the abdomen through the inguinal ring. Diagnosis?",
     "a": "Indirect inguinal hernia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36303,7 +36303,7 @@ export default [
   {
     "id": "s2peds-2545",
     "category": "Peds vignettes",
-    "q": "8-month-old boy with an undescended testis. Treatment per p177?",
+    "q": "8-month-old boy with an undescended testis. Treatment?",
     "a": "Observation until at least age 1; do not do orchiopexy before age 1 for USMLE purposes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36318,7 +36318,7 @@ export default [
   {
     "id": "s2peds-2546",
     "category": "Peds vignettes",
-    "q": "Treatment for scabies per p177?",
+    "q": "What is the treatment for scabies?",
     "a": "Topical permethrin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36333,7 +36333,7 @@ export default [
   {
     "id": "s2peds-2547",
     "category": "Peds vignettes",
-    "q": "Treatment for pediculosis (lice) per p177?",
+    "q": "What is the treatment for pediculosis (lice)?",
     "a": "Topical permethrin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36348,7 +36348,7 @@ export default [
   {
     "id": "s2peds-2548",
     "category": "Peds vignettes",
-    "q": "Acne treatment ladder per p177-178: what is first-line and how does it work?",
+    "q": "Acne treatment ladder: what is first-line and how does it work?",
     "a": "Topical retinoids first (topical tretinoin, not oral isotretinoin); they cause photosensitivity (rash) and are also used for photoaging. Mechanism per the source: decreasing sebum production. Topical tretinoin is not a teratogen and has no effect on pregnancy or male sperm.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36363,7 +36363,7 @@ export default [
   {
     "id": "s2peds-2549",
     "category": "Peds vignettes",
-    "q": "What are the second and third acne steps per p178?",
+    "q": "What are the second and third acne steps?",
     "a": "Benzoyl peroxide second (often coadministered with a topical retinoid); mechanism is killing bacteria. Then topical clindamycin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36378,7 +36378,7 @@ export default [
   {
     "id": "s2peds-2550",
     "category": "Peds vignettes",
-    "q": "What are the oral acne treatments and their key points per p178?",
+    "q": "What are the oral acne treatments and their key points?",
     "a": "Oral tetracycline (causes photosensitivity, blistering). Oral isotretinoin: beta-hCG in women; barrier contraception even if on OCP; can elevate LFTs and cause dyslipidemia; main complaint dry skin and peeling; takes weeks to work but ultra-effective; can start earlier in severe nodulocystic acne; works by diffusely shutting off sebum production.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36393,7 +36393,7 @@ export default [
   {
     "id": "s2peds-2551",
     "category": "Peds vignettes",
-    "q": "3M with large calves who uses his arms to crawl up off the floor. Mechanism and diagnosis per p178?",
+    "q": "3M with large calves who uses his arms to crawl up off the floor. Mechanism and diagnosis?",
     "a": "Defective cytoskeletal connection to the extracellular matrix; Duchenne muscular dystrophy (X-linked recessive), caused by a frameshift mutation. Becker is less severe, presents in adolescence or early adulthood, and is not a frameshift (e.g. missense).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36408,7 +36408,7 @@ export default [
   {
     "id": "s2peds-2552",
     "category": "Peds vignettes",
-    "q": "4F with several months of intermittent cramping and difficulty relaxing her grip when squeezing the physician's fingers. Diagnosis per p178?",
+    "q": "4F with several months of intermittent cramping and difficulty relaxing her grip when squeezing the physician's fingers. Diagnosis?",
     "a": "Myotonic dystrophy; CTG trinucleotide repeat expansion.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36423,7 +36423,7 @@ export default [
   {
     "id": "s2peds-2553",
     "category": "Peds vignettes",
-    "q": "13M with 3 months of decreasing muscle coordination, impaired speech and high-arched feet. Diagnosis per p178?",
+    "q": "13M with 3 months of decreasing muscle coordination, impaired speech and high-arched feet. Diagnosis?",
     "a": "Friedreich ataxia; GAA trinucleotide repeat expansion; cardiomyopathy in more than 90%; pes cavus is classic, while pes planus is Marfan syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36438,7 +36438,7 @@ export default [
   {
     "id": "s2peds-2554",
     "category": "Peds vignettes",
-    "q": "14F with 10 months of tripping, high-arched feet, hammer toes, hand and foot muscle wasting, absent ankle reflexes, reduced vibration and proprioception in the legs, and prolonged distal motor latencies. Diagnosis and mechanism per p178?",
+    "q": "14F with 10 months of tripping, high-arched feet, hammer toes, hand and foot muscle wasting, absent ankle reflexes, reduced vibration and proprioception in the legs, and prolonged distal motor latencies. Diagnosis and mechanism?",
     "a": "Charcot-Marie-Tooth disease (hereditary motor and sensory neuropathy); defective protein production for myelin sheaths and nerve fibers; hammer toes classic; pes cavus also seen.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36453,7 +36453,7 @@ export default [
   {
     "id": "s2peds-2555",
     "category": "Peds vignettes",
-    "q": "2M with scissoring of the legs and increased tone in all extremities. Diagnosis per p179?",
+    "q": "2M with scissoring of the legs and increased tone in all extremities. Diagnosis?",
     "a": "Cerebral palsy; posited precipitant is peripartum fetal hypoxia; spastic cerebral palsy accounts for 70-80% of cases (the source text prints 708-80%, an apparent typo).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36468,7 +36468,7 @@ export default [
   {
     "id": "s2peds-2556",
     "category": "Peds vignettes",
-    "q": "10F with violaceous erythema of the upper eyelids and scaly knuckles and finger joints. Diagnosis and workup per p179?",
+    "q": "10F with violaceous erythema of the upper eyelids and scaly knuckles and finger joints. Diagnosis and workup?",
     "a": "Dermatomyositis (asked on Peds NBME): heliotrope rash and mechanic's hands; Gottron papules and shawl rash can also be seen. Workup with EMG and anti-Jo1/anti-Mi2 (same as polymyositis); definitive diagnosis is muscle biopsy; treat acute flares with steroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36483,7 +36483,7 @@ export default [
   {
     "id": "s2peds-2557",
     "category": "Peds vignettes",
-    "q": "15M, 5 ft 11 in, plays soccer, with knee pain. Diagnosis per p179?",
+    "q": "15M, 5 ft 11 in, plays soccer, with knee pain. Diagnosis?",
     "a": "Osgood-Schlatter disease: inflammation of the patellar ligament at the tibial tuberosity in fast-growing active teens; USMLE wants repeated avulsion microfractures as the answer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36498,7 +36498,7 @@ export default [
   {
     "id": "s2peds-2558",
     "category": "Peds vignettes",
-    "q": "Kid with recurrent knee redness, warmth, pain and fever. Diagnosis per p179?",
+    "q": "Kid with recurrent knee redness, warmth, pain and fever. Diagnosis?",
     "a": "Juvenile rheumatoid arthritis (JRA); called Still disease if there are extra-articular manifestations like fever and rash.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36513,7 +36513,7 @@ export default [
   {
     "id": "s2peds-2559",
     "category": "Peds vignettes",
-    "q": "Kid with recurrent joint pain, with or without high ESR or rash. Diagnosis per p179?",
+    "q": "Kid with recurrent joint pain, with or without high ESR or rash. Diagnosis?",
     "a": "JRA.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36528,7 +36528,7 @@ export default [
   {
     "id": "s2peds-2560",
     "category": "Peds vignettes",
-    "q": "Kid with a sore throat 2 days ago, high ESR, a history of intermittent knee pain, now afebrile with knee pain. Diagnosis per p179?",
+    "q": "Kid with a sore throat 2 days ago, high ESR, a history of intermittent knee pain, now afebrile with knee pain. Diagnosis?",
     "a": "JRA; infection can be a precipitating factor for a flare.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36543,7 +36543,7 @@ export default [
   {
     "id": "s2peds-2561",
     "category": "Peds vignettes",
-    "q": "Treatment of JRA per p179?",
+    "q": "What is the treatment for JRA?",
     "a": "NSAIDs plus corticosteroids.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36558,7 +36558,7 @@ export default [
   {
     "id": "s2peds-2562",
     "category": "Peds vignettes",
-    "q": "7F with 1 year of occasional fever and knee pain, low Hb and MCV 75. Diagnosis per p179?",
+    "q": "7F with 1 year of occasional fever and knee pain, low Hb and MCV 75. Diagnosis?",
     "a": "Anemia of chronic disease secondary to JRA; low MCV is seen in AoCD in various 2CK NBME questions (resources classically say normocytic, 80-100).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36573,7 +36573,7 @@ export default [
   {
     "id": "s2peds-2563",
     "category": "Peds vignettes",
-    "q": "6M with a viral infection and now hip pain with or without fever. Diagnosis per p179?",
+    "q": "6M with a viral infection and now hip pain with or without fever. Diagnosis?",
     "a": "Toxic synovitis (transient synovitis), not septic arthritis: inflammation of the synovial lining of the hip joint; treatment is supportive.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36588,7 +36588,7 @@ export default [
   {
     "id": "s2peds-2564",
     "category": "Peds vignettes",
-    "q": "6M with suspected JRA and a red, hot, painful knee. Next step per p179?",
+    "q": "6M with suspected JRA and a red, hot, painful knee. Next step?",
     "a": "Arthrocentesis to rule out septic arthritis. If the vignette sounds like classic transient synovitis (hip, not knee), arthrocentesis is not needed.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36603,7 +36603,7 @@ export default [
   {
     "id": "s2peds-2565",
     "category": "Peds vignettes",
-    "q": "3F with recurrent joint pain, fever and rash; in addition to naproxen, what is the next best step in management per p179?",
+    "q": "3F with recurrent joint pain, fever and rash; in addition to naproxen, what is the next best step in management?",
     "a": "Slit-lamp exam, indicated annually (high risk of anterior uveitis).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36618,7 +36618,7 @@ export default [
   {
     "id": "s2peds-2566",
     "category": "Peds vignettes",
-    "q": "5F with a 2-day limp and left hip pain, a week ago watery stools and temp 100F, pain with weight-bearing and movement, no swelling or erythema. Treatment per p179?",
+    "q": "5F with a 2-day limp and left hip pain, a week ago watery stools and temp 100F, pain with weight-bearing and movement, no swelling or erythema. Treatment?",
     "a": "Ibuprofen (toxic synovitis).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36633,7 +36633,7 @@ export default [
   {
     "id": "s2peds-2567",
     "category": "Peds vignettes",
-    "q": "17F with a knee that is red, warm and tender after a kickboxing tournament last weekend. Next step and diagnosis per p179?",
+    "q": "17F with a knee that is red, warm and tender after a kickboxing tournament last weekend. Next step and diagnosis?",
     "a": "Arthrocentesis; septic arthritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36648,7 +36648,7 @@ export default [
   {
     "id": "s2peds-2568",
     "category": "Peds vignettes",
-    "q": "15F with severe sternoclavicular joint pain, fever, thick yellow aspirate and gram-negative diplococci on Gram stain. Next best step per p180?",
+    "q": "15F with severe sternoclavicular joint pain, fever, thick yellow aspirate and gram-negative diplococci on Gram stain. Next best step?",
     "a": "Culture of the aspirate (to determine sensitivities, even though the organism seems known). Empirically she would receive IM ceftriaxone and oral azithromycin or doxycycline; if septic, IV therapy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36663,7 +36663,7 @@ export default [
   {
     "id": "s2peds-2569",
     "category": "Peds vignettes",
-    "q": "3M with fever, tibial bone pain, and a Tc99 bone scan with uptake in the diaphysis. Diagnosis per p180?",
+    "q": "3M with fever, tibial bone pain, and a Tc99 bone scan with uptake in the diaphysis. Diagnosis?",
     "a": "Ewing sarcoma: presents like osteomyelitis with bone pain and fever; t(11;22); onion-skinning on histology; blue cells.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36678,7 +36678,7 @@ export default [
   {
     "id": "s2peds-2570",
     "category": "Peds vignettes",
-    "q": "16M after a soccer tournament yesterday with fever, high WBC, bone pain, and Tc99 uptake in the metaphysis. Diagnosis per p180?",
+    "q": "16M after a soccer tournament yesterday with fever, high WBC, bone pain, and Tc99 uptake in the metaphysis. Diagnosis?",
     "a": "Osteomyelitis; uptake in the metaphysis, not the diaphysis (Ewing).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36693,7 +36693,7 @@ export default [
   {
     "id": "s2peds-2571",
     "category": "Peds vignettes",
-    "q": "1M with a white eye reflex. What is the child at increased risk for later in life per p180?",
+    "q": "1M with a white eye reflex. What is the child at increased risk for later in life?",
     "a": "Osteosarcoma (HY): children with hereditary retinoblastoma are prone to osteosarcoma, generally at age 15-25. A 15-year-old with childhood enucleation and a bone mass has osteosarcoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36708,7 +36708,7 @@ export default [
   {
     "id": "s2peds-2572",
     "category": "Peds vignettes",
-    "q": "14M kneeling for hours under a kitchen sink with knee pain, no effusion and no fever. Diagnosis per p180?",
+    "q": "14M kneeling for hours under a kitchen sink with knee pain, no effusion and no fever. Diagnosis?",
     "a": "Prepatellar bursitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36723,7 +36723,7 @@ export default [
   {
     "id": "s2peds-2573",
     "category": "Peds vignettes",
-    "q": "4M with increased bilirubin after a viral infection or drug, and degmacytes (bite cells) on smear. Mechanism and diagnosis per p180?",
+    "q": "4M with increased bilirubin after a viral infection or drug, and degmacytes (bite cells) on smear. Mechanism and diagnosis?",
     "a": "Decreased NADPH production; G6PD deficiency (X-linked recessive). Bite cells are degmacytes; Heinz bodies (denatured, oxidized Hb) are also seen in RBCs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36738,7 +36738,7 @@ export default [
   {
     "id": "s2peds-2574",
     "category": "Peds vignettes",
-    "q": "4M with hemolytic anemia from an enzyme deficiency, with G6PD not listed. Diagnosis per p180?",
+    "q": "4M with hemolytic anemia from an enzyme deficiency, with G6PD not listed. Diagnosis?",
     "a": "Pyruvate kinase deficiency (second most common enzyme-deficiency hemolytic anemia, after G6PD).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36753,7 +36753,7 @@ export default [
   {
     "id": "s2peds-2575",
     "category": "Peds vignettes",
-    "q": "7M after a viral infection or drug, with spherocytes on smear and a positive Coombs test. Diagnosis per p180?",
+    "q": "7M after a viral infection or drug, with spherocytes on smear and a positive Coombs test. Diagnosis?",
     "a": "Hemolytic anemia caused by the drug or infection (autoimmune); if Coombs were negative, the answer would be hereditary spherocytosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36768,7 +36768,7 @@ export default [
   {
     "id": "s2peds-2576",
     "category": "Peds vignettes",
-    "q": "3M with pathologic jaundice treated with 5 days of phototherapy, a father who had a splenectomy, negative Coombs, and reticulocytes 10%. What would the smear show per p180?",
+    "q": "3M with pathologic jaundice treated with 5 days of phototherapy, a father who had a splenectomy, negative Coombs, and reticulocytes 10%. What would the smear show?",
     "a": "Normocytic and normochromic; diagnosis is hereditary spherocytosis, autosomal dominant; treat ongoing hemolysis with splenectomy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36783,7 +36783,7 @@ export default [
   {
     "id": "s2peds-2577",
     "category": "Peds vignettes",
-    "q": "8F after a viral infection, pale, with an enlarged spleen, low Hct and spherocytes on smear. What is she at increased risk for per p181?",
+    "q": "8F after a viral infection, pale, with an enlarged spleen, low Hct and spherocytes on smear. What is she at increased risk for?",
     "a": "Cholelithiasis due to pigment stones.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36798,7 +36798,7 @@ export default [
   {
     "id": "s2peds-2578",
     "category": "Peds vignettes",
-    "q": "Kid with suspected JRA and a sore knee. Next step per p181?",
+    "q": "Kid with suspected JRA and a sore knee. Next step?",
     "a": "Arthrocentesis to rule out septic arthritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36813,7 +36813,7 @@ export default [
   {
     "id": "s2peds-2579",
     "category": "Peds vignettes",
-    "q": "3F with 3 months of leg pain mostly in the calves, at night, waking her from sleep, worse after daily activity, relieved by acetaminophen, with normal vitals and exam. Diagnosis per p181?",
+    "q": "3F with 3 months of leg pain mostly in the calves, at night, waking her from sleep, worse after daily activity, relieved by acetaminophen, with normal vitals and exam. Diagnosis?",
     "a": "Growing pains (answer on the Peds NBME; a weird diagnosis you need to know).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36828,7 +36828,7 @@ export default [
   {
     "id": "s2peds-2580",
     "category": "Peds vignettes",
-    "q": "Patient with knock-knees (knees touch). Diagnosis per p181?",
+    "q": "Patient with knock-knees (knees touch). Diagnosis?",
     "a": "Genu valgum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36843,7 +36843,7 @@ export default [
   {
     "id": "s2peds-2581",
     "category": "Peds vignettes",
-    "q": "9F with both legs bowed, a small child and/or a malabsorptive disease (Crohn, CF). Diagnosis and labs per p181?",
+    "q": "9F with both legs bowed, a small child and/or a malabsorptive disease (Crohn, CF). Diagnosis and labs?",
     "a": "Rickets (vitamin D deficiency); also low calcium, low phosphate, high PTH and high ALP (because PTH is high).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36858,7 +36858,7 @@ export default [
   {
     "id": "s2peds-2582",
     "category": "Peds vignettes",
-    "q": "9F with both legs bowed since she started to walk, recently worse on the right, a standing x-ray showing collapse of the medial proximal tibial metaphysis, and an otherwise healthy, thriving child. Diagnosis per p181?",
+    "q": "9F with both legs bowed since she started to walk, recently worse on the right, a standing x-ray showing collapse of the medial proximal tibial metaphysis, and an otherwise healthy, thriving child. Diagnosis?",
     "a": "Tibia vara (Blount disease); the wrong answer is rickets. Bowing is physiologic under age 2.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36873,7 +36873,7 @@ export default [
   {
     "id": "s2peds-2583",
     "category": "Peds vignettes",
-    "q": "11F with spina bifida, paraplegic and wheelchair-bound, with 2 days of thigh swelling and pain, afebrile. Next best step per p181?",
+    "q": "11F with spina bifida, paraplegic and wheelchair-bound, with 2 days of thigh swelling and pain, afebrile. Next best step?",
     "a": "X-ray of the lower extremity; a fracture may indicate child abuse.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36888,7 +36888,7 @@ export default [
   {
     "id": "s2peds-2584",
     "category": "Peds vignettes",
-    "q": "4-month-old with clicking/clunking on exam, positive Ortolani and Barlow maneuvers. Diagnosis and next steps per p181?",
+    "q": "4-month-old with clicking/clunking on exam, positive Ortolani and Barlow maneuvers. Diagnosis and next steps?",
     "a": "Primary hip dysplasia (congenital hip dysplasia). Once positive, the next best step is ortho referral if listed (always sounds wrong but is correct); if not listed, do ultrasound under 6 months or x-ray over 6 months. Treat with an abduction harness (Pavlik harness; frog-leg-like).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36903,7 +36903,7 @@ export default [
   {
     "id": "s2peds-2585",
     "category": "Peds vignettes",
-    "q": "Newborn girl with a palpable clunk when the hip is abducted, flexed and lifted forward. Most likely mechanism per p181?",
+    "q": "Newborn girl with a palpable clunk when the hip is abducted, flexed and lifted forward. Most likely mechanism?",
     "a": "A shallow, poorly developed acetabulum (congenital hip dysplasia).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36918,7 +36918,7 @@ export default [
   {
     "id": "s2peds-2586",
     "category": "Peds vignettes",
-    "q": "5-8-year-old boy with a painful limp, no other risk factors, and an x-ray showing a contracted capital epiphysis. Diagnosis per p181?",
+    "q": "5-8-year-old boy with a painful limp, no other risk factors, and an x-ray showing a contracted capital epiphysis. Diagnosis?",
     "a": "Legg-Calve-Perthes disease (idiopathic avascular necrosis); the word contracted wins over capital epiphysis; a question on one NBME form where everyone picks SCFE but the answer is LCP.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36933,7 +36933,7 @@ export default [
   {
     "id": "s2peds-2587",
     "category": "Peds vignettes",
-    "q": "Treatment of Legg-Calve-Perthes disease per p181?",
+    "q": "What is the treatment for Legg-Calve-Perthes disease?",
     "a": "Hip replacement (per the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36948,7 +36948,7 @@ export default [
   {
     "id": "s2peds-2588",
     "category": "Peds vignettes",
-    "q": "5-8-year-old boy with a painful limp and sickle cell disease. Diagnosis per p182?",
+    "q": "5-8-year-old boy with a painful limp and sickle cell disease. Diagnosis?",
     "a": "Avascular necrosis, but not Legg-Calve-Perthes because LCP is idiopathic.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36963,7 +36963,7 @@ export default [
   {
     "id": "s2peds-2589",
     "category": "Peds vignettes",
-    "q": "5-8-year-old boy with a painful limp, a negative x-ray, and a bone scan confirming the diagnosis. What does USMLE want you to know per p182?",
+    "q": "5-8-year-old boy with a painful limp, a negative x-ray, and a bone scan confirming the diagnosis. What does USMLE want you to know?",
     "a": "X-ray can be negative initially in avascular necrosis; bone scan or MRI can also pick it up.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36978,7 +36978,7 @@ export default [
   {
     "id": "s2peds-2590",
     "category": "Peds vignettes",
-    "q": "11-13-year-old overweight boy with a painful limp. Diagnosis and treatment per p182?",
+    "q": "11-13-year-old overweight boy with a painful limp. Diagnosis and treatment?",
     "a": "SCFE; treatment is surgical pinning.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -36993,7 +36993,7 @@ export default [
   {
     "id": "s2peds-2591",
     "category": "Peds vignettes",
-    "q": "13M with a painful limp and antalgic gait, with no mention of weight. Mechanism per p182?",
+    "q": "13M with a painful limp and antalgic gait, with no mention of weight. Mechanism?",
     "a": "Displacement of the epiphysis of the femoral head (SCFE).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37008,7 +37008,7 @@ export default [
   {
     "id": "s2peds-2592",
     "category": "Peds vignettes",
-    "q": "2-year-old boy who fell while holding hands with his 8-year-old sister and now holds his arm pronated by his side. Diagnosis per p182?",
+    "q": "2-year-old boy who fell while holding hands with his 8-year-old sister and now holds his arm pronated by his side. Diagnosis?",
     "a": "Nursemaid's elbow (radial head subluxation).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37023,7 +37023,7 @@ export default [
   {
     "id": "s2peds-2593",
     "category": "Peds vignettes",
-    "q": "Treatment for nursemaid's elbow per p182?",
+    "q": "What is the treatment for nursemaid's elbow?",
     "a": "Hyperpronation or gentle supination (both are correct answers; only one will be listed).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37038,7 +37038,7 @@ export default [
   {
     "id": "s2peds-2594",
     "category": "Peds vignettes",
-    "q": "Kid falls on an outstretched arm with pain over the anatomical snuffbox. Diagnosis and next step per p182?",
+    "q": "Kid falls on an outstretched arm with pain over the anatomical snuffbox. Diagnosis and next step?",
     "a": "Scaphoid fracture; do an x-ray.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37053,7 +37053,7 @@ export default [
   {
     "id": "s2peds-2595",
     "category": "Peds vignettes",
-    "q": "Same fall with snuffbox pain and a negative x-ray. Next best step per p182?",
+    "q": "Same fall with snuffbox pain and a negative x-ray. Next best step?",
     "a": "Thumb-spica cast; x-ray is often negative in scaphoid fracture, so cast to prevent scaphoid avascular necrosis and re-x-ray in 2-3 weeks.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37068,7 +37068,7 @@ export default [
   {
     "id": "s2peds-2596",
     "category": "Peds vignettes",
-    "q": "14F with low T3/T4 and high TSH. What does thyroid biopsy show per p182?",
+    "q": "14F with low T3/T4 and high TSH. What does thyroid biopsy show?",
     "a": "Lymphocytic infiltration (Hashimoto, chronic lymphocytic thyroiditis); asked on the Peds NBME.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37083,7 +37083,7 @@ export default [
   {
     "id": "s2peds-2597",
     "category": "Peds vignettes",
-    "q": "17F with BMI 33 and irregular periods. Diagnosis and mechanism per p182?",
+    "q": "17F with BMI 33 and irregular periods. Diagnosis and mechanism?",
     "a": "Anovulation: insulin resistance leads to abnormal GnRH pulsation, high LH/FSH, and insufficient FSH, so the follicle is not primed when the LH spike arrives and is retained as a cyst. With hirsutism the diagnosis is PCOS (the source says 11 cysts bilaterally per Amsterdam criteria). On Peds form 5 the location of pathology in PCOS is the ovary, not the hypothalamus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37098,7 +37098,7 @@ export default [
   {
     "id": "s2peds-2598",
     "category": "Peds vignettes",
-    "q": "17F with polyuria, polydipsia and a high BMI. Diagnosis per p182?",
+    "q": "17F with polyuria, polydipsia and a high BMI. Diagnosis?",
     "a": "Type 2 diabetes (yes, in a 17-year-old).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37113,8 +37113,8 @@ export default [
   {
     "id": "s2peds-2599",
     "category": "Peds vignettes",
-    "q": "10F with polyuria and polydipsia and a sore throat two weeks earlier. Most likely infective diagnosis per p182?",
-    "a": "Coxsackie B virus; it can precipitate type 1 diabetes through molecular mimicry (the bullet continues about antibodies on p183).",
+    "q": "10F with polyuria and polydipsia and a sore throat two weeks earlier. Most likely infective diagnosis?",
+    "a": "Coxsackie B virus; it can precipitate type 1 diabetes through molecular mimicry (the bullet continues about antibodies in the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 182,
@@ -37128,7 +37128,7 @@ export default [
   {
     "id": "s2peds-2600",
     "category": "Peds vignettes",
-    "q": "What is the autoantibody mechanism linking coxsackie B to type 1 diabetes per p182-183?",
+    "q": "What is the autoantibody mechanism linking coxsackie B to type 1 diabetes?",
     "a": "Antibodies against a six-oligopeptide viral sequence cross-react with beta-islet cell glutamic acid decarboxylase 65 (anti-GAD65 antibodies).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37143,7 +37143,7 @@ export default [
   {
     "id": "s2peds-2601",
     "category": "Peds vignettes",
-    "q": "10F with vesicles in the posterior oropharynx. Diagnosis per p183?",
+    "q": "10F with vesicles in the posterior oropharynx. Diagnosis?",
     "a": "Herpangina (coxsackie A); it can also cause hand-foot-mouth disease (vesicles at those locations).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37158,7 +37158,7 @@ export default [
   {
     "id": "s2peds-2602",
     "category": "Peds vignettes",
-    "q": "Young child with normal free T4 and low total T4. Diagnosis per p183?",
+    "q": "Young child with normal free T4 and low total T4. Diagnosis?",
     "a": "Thyroid-binding globulin deficiency (opposite of pregnancy).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37173,7 +37173,7 @@ export default [
   {
     "id": "s2peds-2603",
     "category": "Peds vignettes",
-    "q": "Young child with a large belly, large tongue and hypotonia. Diagnosis per p183?",
+    "q": "Young child with a large belly, large tongue and hypotonia. Diagnosis?",
     "a": "Cretinism (congenital hypothyroidism).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37188,7 +37188,7 @@ export default [
   {
     "id": "s2peds-2604",
     "category": "Peds vignettes",
-    "q": "Young child with a large belly whose family feeds him rice gruel. Diagnosis per p183?",
+    "q": "Young child with a large belly whose family feeds him rice gruel. Diagnosis?",
     "a": "Protein-calorie malnutrition: kwashiorkor.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37203,7 +37203,7 @@ export default [
   {
     "id": "s2peds-2605",
     "category": "Peds vignettes",
-    "q": "Young child in a third-world country with severe wasting. Diagnosis per p183?",
+    "q": "Young child in a third-world country with severe wasting. Diagnosis?",
     "a": "Marasmus (total calorie malnutrition).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37218,7 +37218,7 @@ export default [
   {
     "id": "s2peds-2606",
     "category": "Peds vignettes",
-    "q": "Nocturnal enuresis: when is it pathologic per p183?",
+    "q": "Nocturnal enuresis: when is it pathologic?",
     "a": "After age 5.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37233,7 +37233,7 @@ export default [
   {
     "id": "s2peds-2607",
     "category": "Peds vignettes",
-    "q": "6M with nocturnal enuresis. Next best step, in the order the exams want, per p183?",
+    "q": "6M with nocturnal enuresis. What is the next best step, in the order the exams want?",
     "a": "Behavioral answer first (spend more time with the child, reduce stressors); if not an answer, star chart (positive reinforcement); if not listed or already tried, enuresis alarm. Medications like imipramine and desmopressin are always wrong, as is water deprivation after 5 pm.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37248,7 +37248,7 @@ export default [
   {
     "id": "s2peds-2608",
     "category": "Peds vignettes",
-    "q": "How do you tell viral from bacterial upper respiratory infection per p183, and what is the cutoff?",
+    "q": "How do you tell viral from bacterial upper respiratory infection, and what is the cutoff?",
     "a": "Centor criteria: 0 or 1 point means unlikely bacterial (likely viral); 2-4 points means a much greater chance of bacterial infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37263,7 +37263,7 @@ export default [
   {
     "id": "s2peds-2609",
     "category": "Peds vignettes",
-    "q": "What are the four Centor criteria per p183?",
+    "q": "What are the four Centor criteria?",
     "a": "1) Absence of cough (no cough = 1 point; cough = 0). 2) Fever. 3) Tonsillar exudates. 4) Lymphadenopathy (cervical, submandibular, etc.).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37278,7 +37278,7 @@ export default [
   {
     "id": "s2peds-2610",
     "category": "Peds vignettes",
-    "q": "Should you use the Centor version that includes age on USMLE per p184?",
+    "q": "Should you use the Centor version that includes age on USMLE?",
     "a": "No; the source says a version with age exists but can cause wrong answers on the USMLE, so use the simplified four points.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37293,7 +37293,7 @@ export default [
   {
     "id": "s2peds-2611",
     "category": "Peds vignettes",
-    "q": "Centor score 0-1: what is the answer per p184?",
+    "q": "Centor score 0-1: what is the answer?",
     "a": "Supportive care, or no treatment necessary, or warm saline gargle (same as supportive care), or acetaminophen; the latter is the answer for a 3M with viral URTI and fever on Peds NBME form 2.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37308,7 +37308,7 @@ export default [
   {
     "id": "s2peds-2612",
     "category": "Peds vignettes",
-    "q": "Centor 0-2 points: next best step, and what if it is negative per p184?",
+    "q": "Centor 0-2 points: next best step, and what if it is negative?",
     "a": "Rapid strep test; if negative, throat culture, not sputum culture.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37323,7 +37323,7 @@ export default [
   {
     "id": "s2peds-2613",
     "category": "Peds vignettes",
-    "q": "While waiting for a throat culture result, what do you do per p184?",
+    "q": "While waiting for a throat culture result, what do you do?",
     "a": "Send the patient home with amoxicillin or penicillin for presumptive strep pharyngitis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37338,7 +37338,7 @@ export default [
   {
     "id": "s2peds-2614",
     "category": "Peds vignettes",
-    "q": "A 12-year-old on a beta-lactam develops a rash. Answer per p184?",
+    "q": "A 12-year-old on a beta-lactam develops a rash. Answer?",
     "a": "Beta-lactam allergy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37353,7 +37353,7 @@ export default [
   {
     "id": "s2peds-2615",
     "category": "Peds vignettes",
-    "q": "16-17-year-old who has been going on dates recently with a sore throat. Diagnosis and test per p184?",
+    "q": "16-17-year-old who has been going on dates recently with a sore throat. Diagnosis and test?",
     "a": "EBV mononucleosis; do a heterophile antibody test (Monospot).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37368,7 +37368,7 @@ export default [
   {
     "id": "s2peds-2616",
     "category": "Peds vignettes",
-    "q": "Why is EBV frequently misdiagnosed as strep, and what is the beta-lactam rash per p184?",
+    "q": "Why is EBV frequently misdiagnosed as strep, and what is the beta-lactam rash?",
     "a": "EBV usually presents with all four Centor criteria. Beta-lactams in EBV cause a rash via hypersensitivity to the antibiotic in the setting of antibody production to the virus; without antibiotics EBV can cause a mild maculopapular rash. The beta-lactam rash is more intense and pruritic, generally 7-10 days after antibiotics, on extensor surfaces and pressure points.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37383,7 +37383,7 @@ export default [
   {
     "id": "s2peds-2617",
     "category": "Peds vignettes",
-    "q": "9-month-old boy with 5 days of fever, edema of the dorsa of the hands, cervical lymphadenopathy, cracked lips, and red oral mucosa and conjunctivae. Treatment and diagnosis per p184?",
+    "q": "9-month-old boy with 5 days of fever, edema of the dorsa of the hands, cervical lymphadenopathy, cracked lips, and red oral mucosa and conjunctivae. Treatment and diagnosis?",
     "a": "High-dose aspirin plus IVIG; Kawasaki disease. Never give aspirin to a kid (Reye syndrome) unless the diagnosis is Kawasaki; other features are palm and sole desquamation and coronary artery aneurysms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37398,7 +37398,7 @@ export default [
   {
     "id": "s2peds-2618",
     "category": "Peds vignettes",
-    "q": "Waiter's tip position in a kid. Diagnosis per p184?",
+    "q": "Waiter's tip position in a kid. Diagnosis?",
     "a": "Upper brachial plexus injury (C5/6): Erb-Duchenne palsy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37413,7 +37413,7 @@ export default [
   {
     "id": "s2peds-2619",
     "category": "Peds vignettes",
-    "q": "Claw hand. Diagnosis per p184?",
+    "q": "Claw hand. Diagnosis?",
     "a": "Lower brachial plexus injury, C8/T1: Klumpke palsy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37428,7 +37428,7 @@ export default [
   {
     "id": "s2peds-2620",
     "category": "Peds vignettes",
-    "q": "Outpatient asthma stepwise treatment order per p184-185?",
+    "q": "What is the outpatient stepwise treatment order for asthma?",
     "a": "1) SABA (albuterol) for immediate management; 2) low-dose ICS preventer; 3) maximize ICS dose; 4) add LABA (salmeterol). The source calls that initial order universal.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37443,7 +37443,7 @@ export default [
   {
     "id": "s2peds-2621",
     "category": "Peds vignettes",
-    "q": "What is the last resort in asthma, and how does it relate to effectiveness per p185?",
+    "q": "What is the last resort in asthma, and how does it relate to effectiveness?",
     "a": "Oral corticosteroids are the last resort but are the most effective.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37458,7 +37458,7 @@ export default [
   {
     "id": "s2peds-2622",
     "category": "Peds vignettes",
-    "q": "12M with ongoing wheezing on an albuterol inhaler. Next best step per p185?",
+    "q": "12M with ongoing wheezing on an albuterol inhaler. Next best step?",
     "a": "Add low-dose ICS.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37473,7 +37473,7 @@ export default [
   {
     "id": "s2peds-2623",
     "category": "Peds vignettes",
-    "q": "12M with ongoing wheezing on albuterol. What is most likely to decrease recurrence per p185?",
+    "q": "12M with ongoing wheezing on albuterol. What is most likely to decrease recurrence?",
     "a": "Oral corticosteroids (despite being the last resort, they are the most effective at decreasing recurrence; also assessed on FM NBME forms).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37488,7 +37488,7 @@ export default [
   {
     "id": "s2peds-2624",
     "category": "Peds vignettes",
-    "q": "After LABA and before oral steroids, which agents can be given in any order per p185?",
+    "q": "After LABA and before oral steroids, which agents can be given in any order?",
     "a": "Nedocromil or cromolyn sodium, zileuton, montelukast, zafirlukast.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37503,7 +37503,7 @@ export default [
   {
     "id": "s2peds-2625",
     "category": "Peds vignettes",
-    "q": "What is the mechanism of nedocromil and cromolyn sodium per p185?",
+    "q": "What is the mechanism of nedocromil and cromolyn sodium?",
     "a": "Mast cell stabilizers.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37518,7 +37518,7 @@ export default [
   {
     "id": "s2peds-2626",
     "category": "Peds vignettes",
-    "q": "What is the mechanism of zileuton per p185?",
+    "q": "What is the mechanism of zileuton?",
     "a": "Lipoxygenase inhibitor (the enzyme that makes leukotrienes from arachidonic acid).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37533,7 +37533,7 @@ export default [
   {
     "id": "s2peds-2627",
     "category": "Peds vignettes",
-    "q": "What is the mechanism of the -lukasts (montelukast, zafirlukast) per p185?",
+    "q": "What is the mechanism of the -lukasts (montelukast, zafirlukast)?",
     "a": "Leukotriene LTC4, D4 and E4 inhibitors (receptor antagonists). LTB4 receptor agonism is unrelated and induces neutrophilic chemotaxis (LTB4, IL-8, kallikrein, platelet-activating factor, C5a, bacterial proteins; Step 1).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37548,7 +37548,7 @@ export default [
   {
     "id": "s2peds-2628",
     "category": "Peds vignettes",
-    "q": "16M snowboards all day, takes a pain reliever for sore muscles, and next day wheezes on the slopes again. What is going on per p185?",
+    "q": "16M snowboards all day, takes a pain reliever for sore muscles, and next day wheezes on the slopes again. What is going on?",
     "a": "He took aspirin; this is Samter triad (now aspirin-exacerbated respiratory disease, AERD): aspirin-induced asthma, aspirin hypersensitivity and nasal polyps. Other NSAIDs can precipitate it, but the literature and USMLE make it explicitly about aspirin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37563,7 +37563,7 @@ export default [
   {
     "id": "s2peds-2629",
     "category": "Peds vignettes",
-    "q": "16M takes aspirin and wheezes. What is likely on physical exam per p185?",
+    "q": "16M takes aspirin and wheezes. What is likely on physical exam?",
     "a": "Nasal polyps (answer on USMLE).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37578,7 +37578,7 @@ export default [
   {
     "id": "s2peds-2630",
     "category": "Peds vignettes",
-    "q": "8M with a non-productive cough worse at night, shortness of breath during the day, and mild hyperinflation on CXR. Next best step in diagnosis per p185?",
+    "q": "8M with a non-productive cough worse at night, shortness of breath during the day, and mild hyperinflation on CXR. Next best step in diagnosis?",
     "a": "Spirometry (answer on NBME); diagnosis is asthma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37593,7 +37593,7 @@ export default [
   {
     "id": "s2peds-2631",
     "category": "Peds vignettes",
-    "q": "8M with asthma, recent dysphagia to solids, and an upper endoscopy showing many concentric rings. Diagnosis per p186?",
+    "q": "8M with asthma, recent dysphagia to solids, and an upper endoscopy showing many concentric rings. Diagnosis?",
     "a": "Eosinophilic esophagitis: dysphagia and/or weight loss in a patient with asthma; endoscopy shows trachealization of the esophagus; biopsy shows dense eosinophil infiltrates.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37608,7 +37608,7 @@ export default [
   {
     "id": "s2peds-2632",
     "category": "Peds vignettes",
-    "q": "6F attended summer camp for a month and returns with peach-colored papules with central umbilication. Diagnosis per p186?",
+    "q": "6F attended summer camp for a month and returns with peach-colored papules with central umbilication. Diagnosis?",
     "a": "Molluscum contagiosum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37623,7 +37623,7 @@ export default [
   {
     "id": "s2peds-2633",
     "category": "Peds vignettes",
-    "q": "16M with a large red, non-vesicular rash on the chin; the question asks for a diagnosis based on an image. Answer per p186?",
+    "q": "16M with a large red, non-vesicular rash on the chin; the question asks for a diagnosis based on an image. Answer?",
     "a": "Impetigo (do not chase HSV or tinea faciei).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37638,7 +37638,7 @@ export default [
   {
     "id": "s2peds-2634",
     "category": "Peds vignettes",
-    "q": "11M with 7 days of yellow crusts around his lips and red urine. Mechanism per p186?",
+    "q": "11M with 7 days of yellow crusts around his lips and red urine. Mechanism?",
     "a": "Antigen-antibody immune complex (post-streptococcal glomerulonephritis) caused by strep impetigo. S. aureus exceeds group A strep for both bullous and non-bullous impetigo.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37653,7 +37653,7 @@ export default [
   {
     "id": "s2peds-2635",
     "category": "Peds vignettes",
-    "q": "11M with yellow crusts on the face. Treatment per p186?",
+    "q": "11M with yellow crusts on the face. Treatment?",
     "a": "Topical mupirocin. NBME wants mupirocin; if it is not listed, choose oral dicloxacillin or oral cephalexin (MSSA coverage); amoxicillin and penicillin do not cover it. More extensive impetigo can be managed with oral antibiotics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37668,7 +37668,7 @@ export default [
   {
     "id": "s2peds-2636",
     "category": "Peds vignettes",
-    "q": "Beefy red, well-demarcated skin plaque. Diagnosis and organism per p186?",
+    "q": "A beefy red, well-demarcated skin plaque suggests what diagnosis and organism?",
     "a": "Erysipelas; group A strep (S. pyogenes) far exceeds S. aureus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37683,7 +37683,7 @@ export default [
   {
     "id": "s2peds-2637",
     "category": "Peds vignettes",
-    "q": "More diffuse pink skin lesion with tenderness and fever. Diagnosis and organism per p186?",
+    "q": "A more diffuse pink skin lesion with tenderness and fever suggests what diagnosis and organism?",
     "a": "Cellulitis; S. aureus exceeds S. pyogenes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37698,7 +37698,7 @@ export default [
   {
     "id": "s2peds-2638",
     "category": "Peds vignettes",
-    "q": "Treatment of erysipelas and cellulitis per p186?",
+    "q": "What is the treatment for erysipelas and cellulitis?",
     "a": "Oral dicloxacillin or oral cephalexin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37713,7 +37713,7 @@ export default [
   {
     "id": "s2peds-2639",
     "category": "Peds vignettes",
-    "q": "Most common cause of otitis media per p186?",
+    "q": "What is the most common cause of otitis media?",
     "a": "Streptococcus pneumoniae.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37728,7 +37728,7 @@ export default [
   {
     "id": "s2peds-2640",
     "category": "Peds vignettes",
-    "q": "Treatment of otitis media per p186?",
+    "q": "What is the treatment for otitis media?",
     "a": "Oral amoxicillin only.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37743,7 +37743,7 @@ export default [
   {
     "id": "s2peds-2641",
     "category": "Peds vignettes",
-    "q": "Treatment of recurrent otitis media per p186?",
+    "q": "What is the treatment for recurrent otitis media?",
     "a": "Amoxicillin/clavulanate.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37758,7 +37758,7 @@ export default [
   {
     "id": "s2peds-2642",
     "category": "Peds vignettes",
-    "q": "When to do a tympanostomy tube per p186?",
+    "q": "When to do a tympanostomy tube?",
     "a": "Three or more episodes of OM in 6 months, or 4 or more in a year.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37773,7 +37773,7 @@ export default [
   {
     "id": "s2peds-2643",
     "category": "Peds vignettes",
-    "q": "Most common cause of otitis externa per p186?",
+    "q": "What is the most common cause of otitis externa?",
     "a": "Pseudomonas.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37788,7 +37788,7 @@ export default [
   {
     "id": "s2peds-2644",
     "category": "Peds vignettes",
-    "q": "Treatment of otitis externa per p186?",
+    "q": "What is the treatment for otitis externa?",
     "a": "Topical ciprofloxacin plus hydrocortisone drops.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37803,7 +37803,7 @@ export default [
   {
     "id": "s2peds-2645",
     "category": "Peds vignettes",
-    "q": "17M on the crew team with repeated water exposure. How best to prevent otitis externa per p186?",
+    "q": "17M on the crew team with repeated water exposure. How best to prevent otitis externa?",
     "a": "Prophylactic alcohol-acetic acid drops; in contrast, carbamide peroxide drops are for cerumen (wax) buildup.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37818,7 +37818,7 @@ export default [
   {
     "id": "s2peds-2646",
     "category": "Peds vignettes",
-    "q": "8M with an ear infection one month ago, slightly reduced hearing in one ear, fluid behind the tympanic membrane, afebrile and well-appearing. Diagnosis and treatment per p187?",
+    "q": "8M with an ear infection one month ago, slightly reduced hearing in one ear, fluid behind the tympanic membrane, afebrile and well-appearing. Diagnosis and treatment?",
     "a": "Otitis media with effusion (serous otitis media): fluid occasionally persists after OM resolves (it need not be recurrent OM); treat with observation, as it usually self-resolves in 4-8 weeks.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37833,7 +37833,7 @@ export default [
   {
     "id": "s2peds-2647",
     "category": "Peds vignettes",
-    "q": "10-month-old with fussiness, fever and no movement of the left tympanic membrane on pneumatic otoscopy. Diagnosis per p187?",
+    "q": "10-month-old with fussiness, fever and no movement of the left tympanic membrane on pneumatic otoscopy. Diagnosis?",
     "a": "Otitis media; the wrong answer is OM with effusion. Immobility of the tympanic membrane is the most sensitive finding for OM; if the question says the membrane is mobile, the diagnosis is not OM.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37848,7 +37848,7 @@ export default [
   {
     "id": "s2peds-2648",
     "category": "Peds vignettes",
-    "q": "7M with squamous proliferation seen behind the tympanic membrane. Diagnosis and treatment per p187?",
+    "q": "7M with squamous proliferation seen behind the tympanic membrane. Diagnosis and treatment?",
     "a": "Cholesteatoma; it gradually grows and invades the inner ear, causing irreversible hearing loss; treatment is surgical excision.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37863,7 +37863,7 @@ export default [
   {
     "id": "s2peds-2649",
     "category": "Peds vignettes",
-    "q": "2F with fever 103, tugging on the pinna, a pinna displaced upward and outward, and mastoid process tenderness. Next best step per p187?",
+    "q": "2F with fever 103, tugging on the pinna, a pinna displaced upward and outward, and mastoid process tenderness. Next best step?",
     "a": "CT of the temporal bone (sounds wrong in a kid but is the Peds NBME answer). Mastoiditis can come with a temporal bone fluid collection that must be drained to prevent brain abscess; MRI or CT must be done; x-ray is wrong; then IV broad-spectrum antibiotics. The source calls this mastoiditis (malignant otitis externa).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37878,7 +37878,7 @@ export default [
   {
     "id": "s2peds-2650",
     "category": "Peds vignettes",
-    "q": "30-month-old who knows 100 words but does not use them in phrases, with other milestones met. Next best step per p187?",
+    "q": "30-month-old who knows 100 words but does not use them in phrases, with other milestones met. Next best step?",
     "a": "Audiometry; hearing deficits are a common cause of language delay.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37893,7 +37893,7 @@ export default [
   {
     "id": "s2peds-2651",
     "category": "Peds vignettes",
-    "q": "6M with bilateral pneumonia and no other risk factors. Diagnosis per p187?",
+    "q": "6M with bilateral pneumonia and no other risk factors. Diagnosis?",
     "a": "Mycoplasma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37908,7 +37908,7 @@ export default [
   {
     "id": "s2peds-2652",
     "category": "Peds vignettes",
-    "q": "6M with lobar pneumonia and no other risk factors. Diagnosis per p187?",
+    "q": "6M with lobar pneumonia and no other risk factors. Diagnosis?",
     "a": "Streptococcus pneumoniae.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37923,7 +37923,7 @@ export default [
   {
     "id": "s2peds-2653",
     "category": "Peds vignettes",
-    "q": "6M with lobar pneumonia and a CXR showing interstitial markings. Diagnosis per p187?",
+    "q": "6M with lobar pneumonia and a CXR showing interstitial markings. Diagnosis?",
     "a": "Mycoplasma (the word interstitial wins over lobar distribution).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37938,7 +37938,7 @@ export default [
   {
     "id": "s2peds-2654",
     "category": "Peds vignettes",
-    "q": "2F with lobar pneumonia, no other risk factors, and Strep pneumo not listed. Diagnosis per p187?",
+    "q": "2F with lobar pneumonia, no other risk factors, and Strep pneumo not listed. Diagnosis?",
     "a": "Staph aureus (Peds NBME).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37953,7 +37953,7 @@ export default [
   {
     "id": "s2peds-2655",
     "category": "Peds vignettes",
-    "q": "5F recovering from influenza who now has bacterial pneumonia. Organism per p187?",
+    "q": "5F recovering from influenza who now has bacterial pneumonia. Organism?",
     "a": "Staph aureus (the answer after influenza infection).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37968,7 +37968,7 @@ export default [
   {
     "id": "s2peds-2656",
     "category": "Peds vignettes",
-    "q": "17F with a painless lateral neck mass and a mediastinal mass. Diagnosis per p187?",
+    "q": "17F with a painless lateral neck mass and a mediastinal mass. Diagnosis?",
     "a": "Hodgkin lymphoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37983,7 +37983,7 @@ export default [
   {
     "id": "s2peds-2657",
     "category": "Peds vignettes",
-    "q": "8M with puffiness around the eyes and ankles and no other information. Diagnosis per p188?",
+    "q": "8M with puffiness around the eyes and ankles and no other information. Diagnosis?",
     "a": "Minimal change disease (lipoid nephrosis); 2CK-level questions often omit preceding viral infection. Classically periorbital and pedal edema with or without ascites; no blood in urine (nephrotic syndrome); light microscopy shows nothing; EM shows effacement of podocyte foot processes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -37998,7 +37998,7 @@ export default [
   {
     "id": "s2peds-2658",
     "category": "Peds vignettes",
-    "q": "8M with nephrotic syndrome, fever 103F, an abdominal fluid wave and diffuse abdominal pain. Next best step per p188?",
+    "q": "8M with nephrotic syndrome, fever 103F, an abdominal fluid wave and diffuse abdominal pain. Next best step?",
     "a": "Abdominal paracentesis; spontaneous bacterial peritonitis secondary to ascites probably from minimal change disease. Gram stain of peritoneal fluid and check for more than 250 WBCs/hpf; treat with a third-generation cephalosporin (no hard rule: cefotaxime under age 6, ceftriaxone over 6).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38013,7 +38013,7 @@ export default [
   {
     "id": "s2peds-2659",
     "category": "Peds vignettes",
-    "q": "44M with Hodgkin lymphoma and nephrotic syndrome. Diagnosis per p188?",
+    "q": "44M with Hodgkin lymphoma and nephrotic syndrome. Diagnosis?",
     "a": "Minimal change disease (HY; everyone gets it wrong); MCD is also the answer for nephrotic syndrome in Hodgkin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38028,7 +38028,7 @@ export default [
   {
     "id": "s2peds-2660",
     "category": "Peds vignettes",
-    "q": "8M with sickle cell disease and nephrotic syndrome. Diagnosis per p188?",
+    "q": "8M with sickle cell disease and nephrotic syndrome. Diagnosis?",
     "a": "Focal segmental glomerulosclerosis (FSGS).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38043,7 +38043,7 @@ export default [
   {
     "id": "s2peds-2661",
     "category": "Peds vignettes",
-    "q": "8M with sickle cell disease and dark urine. Diagnosis per p188?",
+    "q": "8M with sickle cell disease and dark urine. Diagnosis?",
     "a": "Renal papillary necrosis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38058,7 +38058,7 @@ export default [
   {
     "id": "s2peds-2662",
     "category": "Peds vignettes",
-    "q": "12F with high BUN and creatinine, epistaxis, low Hb and a normal platelet count. Diagnosis per p188?",
+    "q": "12F with high BUN and creatinine, epistaxis, low Hb and a normal platelet count. Diagnosis?",
     "a": "Acquired (uremic) platelet dysfunction: a qualitative, not quantitative, platelet disorder from high BUN decreasing platelet efficacy. Low EPO is the wrong answer; the low Hb is from epistaxis. If low EPO were the answer (anemia of chronic disease from renal failure), she would not have epistaxis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38073,7 +38073,7 @@ export default [
   {
     "id": "s2peds-2663",
     "category": "Peds vignettes",
-    "q": "12M with red urine 1-3 days after an upper respiratory tract infection. Diagnosis per p188?",
+    "q": "12M with red urine 1-3 days after an upper respiratory tract infection. Diagnosis?",
     "a": "IgA nephropathy, not PSGN; it can also follow GI infections.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38088,7 +38088,7 @@ export default [
   {
     "id": "s2peds-2664",
     "category": "Peds vignettes",
-    "q": "12M with red urine 1-2 weeks after an upper respiratory tract infection or skin infection. Diagnosis per p188?",
+    "q": "12M with red urine 1-2 weeks after an upper respiratory tract infection or skin infection. Diagnosis?",
     "a": "PSGN; it can also follow group A strep skin infections.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38103,7 +38103,7 @@ export default [
   {
     "id": "s2peds-2665",
     "category": "Peds vignettes",
-    "q": "10F with a sore throat two weeks ago, red urine, peripheral edema and hypertension. Mechanism of the hypertension per p188?",
+    "q": "10F with a sore throat two weeks ago, red urine, peripheral edema and hypertension. Mechanism of the hypertension?",
     "a": "Volume overload: microvascular disturbance from the glomerulonephritis with RAAS stimulation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38118,7 +38118,7 @@ export default [
   {
     "id": "s2peds-2666",
     "category": "Peds vignettes",
-    "q": "6F with red urine, abdominal pain, arthralgias and violaceous lesions on the buttocks and thighs. Diagnosis per p189?",
+    "q": "6F with red urine, abdominal pain, arthralgias and violaceous lesions on the buttocks and thighs. Diagnosis?",
     "a": "Henoch-Schonlein purpura (IgA vasculitis); red urine reflects IgA nephropathy; HSP is a tetrad of IgA nephropathy, palpable purpura, arthralgias and abdominal pain.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38133,7 +38133,7 @@ export default [
   {
     "id": "s2peds-2667",
     "category": "Peds vignettes",
-    "q": "16F in an MVA with flank bruising and pain and red urine. Next best step per p189?",
+    "q": "16F in an MVA with flank bruising and pain and red urine. Next best step?",
     "a": "CT of the abdomen with contrast to evaluate for renal injury; ultrasound is the wrong answer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38148,7 +38148,7 @@ export default [
   {
     "id": "s2peds-2668",
     "category": "Peds vignettes",
-    "q": "16F in an MVA with flank bruising and pain and no gross blood in the urine. Why is a urinalysis performed per p189?",
+    "q": "16F in an MVA with flank bruising and pain and no gross blood in the urine. Why is a urinalysis performed?",
     "a": "To look for blood in the urine; its presence suggests renal injury in this setting.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38163,7 +38163,7 @@ export default [
   {
     "id": "s2peds-2669",
     "category": "Peds vignettes",
-    "q": "16F in an MVA with flank bruising and pain, no gross blood and a urinalysis with no blood. Next best step per p189?",
+    "q": "16F in an MVA with flank bruising and pain, no gross blood and a urinalysis with no blood. Next best step?",
     "a": "No further diagnostic studies indicated. Concept: with an accident plus flank bruising or pain, look for gross blood first; if positive go straight to CT; if negative do a urinalysis for blood; if positive CT; if negative no further studies. HY on surgery NBMEs, also shows up on the Peds form.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38178,7 +38178,7 @@ export default [
   {
     "id": "s2peds-2670",
     "category": "Peds vignettes",
-    "q": "17F with hypertension, low K and high bicarbonate. Next best step and diagnosis per p189?",
+    "q": "17F with hypertension, low K and high bicarbonate. Next best step and diagnosis?",
     "a": "MR angiogram of the renal arteries; diagnosis is fibromuscular dysplasia (another answer: increased renin production).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38193,7 +38193,7 @@ export default [
   {
     "id": "s2peds-2671",
     "category": "Peds vignettes",
-    "q": "13F who has never had a period, with a suprapubic mass, nausea and vomiting. Next best step per p189?",
+    "q": "13F who has never had a period, with a suprapubic mass, nausea and vomiting. Next best step?",
     "a": "Beta-hCG; she is pregnant (HY): girls can get pregnant without ever having a period, so rule it out.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38208,7 +38208,7 @@ export default [
   {
     "id": "s2peds-2672",
     "category": "Peds vignettes",
-    "q": "14F with a massive unilateral breast mass whose mother is anxious because her sister died of breast cancer. Answer per p189?",
+    "q": "14F with a massive unilateral breast mass whose mother is anxious because her sister died of breast cancer. Answer?",
     "a": "Follow-up in six months; virginal breast hypertrophy is normal during puberty.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38223,7 +38223,7 @@ export default [
   {
     "id": "s2peds-2673",
     "category": "Peds vignettes",
-    "q": "15M with a unilateral mass behind the nipple with or without tenderness. Answer per p189?",
+    "q": "15M with a unilateral mass behind the nipple with or without tenderness. Answer?",
     "a": "Reassurance; physiologic gynecomastia of puberty (higher androgens are aromatized to estrogens).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38238,7 +38238,7 @@ export default [
   {
     "id": "s2peds-2674",
     "category": "Peds vignettes",
-    "q": "14F at Tanner stage 3. Which statement is true per p189?",
+    "q": "14F at Tanner stage 3. Which statement is true?",
     "a": "Menarche is imminent (USMLE asks this straight up; exceedingly HY and frequent).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38253,7 +38253,7 @@ export default [
   {
     "id": "s2peds-2675",
     "category": "Peds vignettes",
-    "q": "17F with very bad period pain that makes her miss class sometimes, and a normal physical exam. Diagnosis and treatment per p189?",
+    "q": "17F with very bad period pain that makes her miss class sometimes, and a normal physical exam. Diagnosis and treatment?",
     "a": "Primary dysmenorrhea from prostaglandin hypersecretion (PGF2alpha); give NSAIDs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38268,7 +38268,7 @@ export default [
   {
     "id": "s2peds-2676",
     "category": "Peds vignettes",
-    "q": "17F with 2 days of right-sided pelvic pain, normal vitals, negative beta-hCG and a 3.5 cm simple cyst on ultrasound. Next best step per p189-190?",
+    "q": "17F with 2 days of right-sided pelvic pain, normal vitals, negative beta-hCG and a 3.5 cm simple cyst on ultrasound. Next best step?",
     "a": "Observation on the Peds NBME. On one Obgyn NBME form observation is wrong and the correct answer is oral contraceptive pills with re-ultrasound in 6 weeks; choose the latter over observation if both are listed and no contraindications; if only observation is listed, choose that.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38283,7 +38283,7 @@ export default [
   {
     "id": "s2peds-2677",
     "category": "Peds vignettes",
-    "q": "14F who never had a period, with 1 week of constant severe pelvic pain, 6 months of intermittent pelvic pain, BP 90/50 and a bluish bulge in the upper vagina. Diagnosis and treatment per p190?",
+    "q": "14F who never had a period, with 1 week of constant severe pelvic pain, 6 months of intermittent pelvic pain, BP 90/50 and a bluish bulge in the upper vagina. Diagnosis and treatment?",
     "a": "Hematometra: imperforate hymen with blood collection in the uterus; vagal response causes low BP; treatment is cruciate incision of the hymen.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38298,7 +38298,7 @@ export default [
   {
     "id": "s2peds-2678",
     "category": "Peds vignettes",
-    "q": "14F who never had a period, with 6 months of intermittent pelvic pain, normal BP and a bluish bulge in the upper vagina. Diagnosis and treatment per p190?",
+    "q": "14F who never had a period, with 6 months of intermittent pelvic pain, normal BP and a bluish bulge in the upper vagina. Diagnosis and treatment?",
     "a": "Hematocolpos: blood collection in the vaginal canal, not backed up to the uterus like hematometra; treatment is cruciate incision of the hymen.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38313,7 +38313,7 @@ export default [
   {
     "id": "s2peds-2679",
     "category": "Peds vignettes",
-    "q": "16F with a vagina ending in a blind pouch, no cervix or uterus, absent or scanty pubic and axillary hair, and Tanner stage 4. Diagnosis and next step per p190?",
+    "q": "16F with a vagina ending in a blind pouch, no cervix or uterus, absent or scanty pubic and axillary hair, and Tanner stage 4. Diagnosis and next step?",
     "a": "Androgen insensitivity syndrome; next step is karyotyping (46,XY).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38328,7 +38328,7 @@ export default [
   {
     "id": "s2peds-2680",
     "category": "Peds vignettes",
-    "q": "16F with a vagina ending in a blind pouch, no cervix or uterus, coarse pubic and axillary hair, and Tanner stage 4. Diagnosis and next step per p190?",
+    "q": "16F with a vagina ending in a blind pouch, no cervix or uterus, coarse pubic and axillary hair, and Tanner stage 4. Diagnosis and next step?",
     "a": "Mullerian agenesis; next step is karyotyping (46,XX).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38343,7 +38343,7 @@ export default [
   {
     "id": "s2peds-2681",
     "category": "Peds vignettes",
-    "q": "15M, 4 ft 10 in, with normal hormone levels and parents of normal height. Next best step per p190?",
+    "q": "15M, 4 ft 10 in, with normal hormone levels and parents of normal height. Next best step?",
     "a": "Get a bone age. If bone age is less than chronologic age, constitutional growth delay (growth curve shifted right; will become average height); if equal, genuine short stature. A variant says he is Tanner stage 2 (has not yet gone through puberty, so will catch up).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38358,7 +38358,7 @@ export default [
   {
     "id": "s2peds-2682",
     "category": "Peds vignettes",
-    "q": "16F, 4 ft 11 in, Tanner stage 2, with scattered nevi, a webbed neck, no menses and bone age equal to chronologic age. Diagnosis per p190?",
+    "q": "16F, 4 ft 11 in, Tanner stage 2, with scattered nevi, a webbed neck, no menses and bone age equal to chronologic age. Diagnosis?",
     "a": "Turner syndrome (45,X); genuine short stature; LH and FSH are both high; eventual pregnancy is possible via IVF (surrogate); webbed neck reflects cystic hygroma (lymphatic insufficiency).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38373,7 +38373,7 @@ export default [
   {
     "id": "s2peds-2683",
     "category": "Peds vignettes",
-    "q": "15-month-old boy who was 25th percentile for length and weight 3 months ago, now 25th for length but 10th for weight. Next best step per p190?",
+    "q": "15-month-old boy who was 25th percentile for length and weight 3 months ago, now 25th for length but 10th for weight. Next best step?",
     "a": "Recommend a diet diary with calorie counts.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38388,8 +38388,8 @@ export default [
   {
     "id": "s2peds-2684",
     "category": "Peds vignettes",
-    "q": "13F who ran outside in hot weather, very exhausted, body temp 102.2F, pulse 100. Diagnosis per p190?",
-    "a": "Heat exhaustion (high body temperature with no end-organ damage or failure); in contrast, heat stroke (definition continues on p191).",
+    "q": "13F who ran outside in hot weather, very exhausted, body temp 102.2F, pulse 100. Diagnosis?",
+    "a": "Heat exhaustion (high body temperature with no end-organ damage or failure); in contrast, heat stroke (definition continues in the source).",
     "source": {
       "title": "Mehlman HY Pediatrics",
       "page": 190,
@@ -38403,7 +38403,7 @@ export default [
   {
     "id": "s2peds-2685",
     "category": "Peds vignettes",
-    "q": "How does heat stroke differ from heat exhaustion per p190-191?",
+    "q": "How does heat stroke differ from heat exhaustion?",
     "a": "Heat stroke is high body temperature with end-organ damage; heat exhaustion has none.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38418,7 +38418,7 @@ export default [
   {
     "id": "s2peds-2686",
     "category": "Peds vignettes",
-    "q": "What do acanthocytes on a blood smear indicate in heat stroke per p191?",
+    "q": "What do acanthocytes on a blood smear indicate in heat stroke?",
     "a": "Liver failure (HY for heat stroke); acanthocytes are not limited to abetalipoproteinemia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38433,7 +38433,7 @@ export default [
   {
     "id": "s2peds-2687",
     "category": "Peds vignettes",
-    "q": "Renal cancer in children per p191?",
+    "q": "What is the most common renal cancer in children?",
     "a": "Wilms tumor.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38448,7 +38448,7 @@ export default [
   {
     "id": "s2peds-2688",
     "category": "Peds vignettes",
-    "q": "3M with a painless flank mass and no other information. Diagnosis and next step per p191?",
+    "q": "3M with a painless flank mass and no other information. Diagnosis and next step?",
     "a": "Wilms tumor; the answer on the Peds form is ultrasonography of the abdomen.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38463,7 +38463,7 @@ export default [
   {
     "id": "s2peds-2689",
     "category": "Peds vignettes",
-    "q": "6M with a painless flank mass, a seizure and brain MRI showing periventricular nodules. Diagnosis per p191?",
+    "q": "6M with a painless flank mass, a seizure and brain MRI showing periventricular nodules. Diagnosis?",
     "a": "Tuberous sclerosis with renal angiomyolipoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38478,7 +38478,7 @@ export default [
   {
     "id": "s2peds-2690",
     "category": "Peds vignettes",
-    "q": "Anything else about Wilms tumor and Turner syndrome per p191?",
+    "q": "What renal finding in Turner syndrome carries an increased incidence of Wilms tumor?",
     "a": "Increased incidence in horseshoe kidney in Turner syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38493,7 +38493,7 @@ export default [
   {
     "id": "s2peds-2691",
     "category": "Peds vignettes",
-    "q": "Horseshoe kidney key point per p191?",
+    "q": "What tumor risk and anatomic relationship are associated with horseshoe kidney?",
     "a": "Increased risk of Wilms tumor, and the kidney gets caught under the inferior mesenteric artery (IMA); a Step 1 factoid.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38508,7 +38508,7 @@ export default [
   {
     "id": "s2peds-2692",
     "category": "Peds vignettes",
-    "q": "What is WAGR complex per p191?",
+    "q": "What is WAGR complex?",
     "a": "Wilms tumor, Aniridia, Genitourinary malformation, Retardation; caused by WT1 gene mutation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38523,7 +38523,7 @@ export default [
   {
     "id": "s2peds-2693",
     "category": "Peds vignettes",
-    "q": "What is Denys-Drash syndrome per p191?",
+    "q": "What is Denys-Drash syndrome?",
     "a": "Wilms tumor plus male pseudohermaphroditism (secondary sex characteristics female, primary male); caused by WT1 gene mutation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38538,7 +38538,7 @@ export default [
   {
     "id": "s2peds-2694",
     "category": "Peds vignettes",
-    "q": "Neonate born at 4800 g with macroglossia, omphalocele and visceromegaly. What will he most likely develop per p191?",
+    "q": "Neonate born at 4800 g with macroglossia, omphalocele and visceromegaly. What will he most likely develop?",
     "a": "Hypoglycemia (Beckwith-Wiedemann syndrome): Wilms tumor, neonatal hypoglycemia, macrosomia/macroglossia, hemihypertrophy, with or without omphalocele; caused by WT2 gene mutation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38553,7 +38553,7 @@ export default [
   {
     "id": "s2peds-2695",
     "category": "Peds vignettes",
-    "q": "1M with 2 months of increasing weakness, feeding difficulty, profound hypotonia, tongue fasciculations and absent reflexes. Diagnosis per p191?",
+    "q": "1M with 2 months of increasing weakness, feeding difficulty, profound hypotonia, tongue fasciculations and absent reflexes. Diagnosis?",
     "a": "Progressive infantile spinal muscular atrophy: decreased reflexes, weakness, decreased tone, tongue fasciculations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38568,7 +38568,7 @@ export default [
   {
     "id": "s2peds-2696",
     "category": "Peds vignettes",
-    "q": "Compare AR vs AD polycystic kidney disease per p191.",
+    "q": "How do AR and AD polycystic kidney disease compare?",
     "a": "ARPKD: chromosome 6, pediatric, associated with hepatic fibrosis. ADPKD: chromosome 16, presents in the 30s-40s, with hypertension and circle of Willis saccular (berry) aneurysms.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38583,7 +38583,7 @@ export default [
   {
     "id": "s2peds-2697",
     "category": "Peds vignettes",
-    "q": "4F with her third pyelonephritis and a high creatinine. Most likely cause and pathology per p191?",
+    "q": "4F with her third pyelonephritis and a high creatinine. Most likely cause and pathology?",
     "a": "Congenital urinary tract obstruction or vesicoureteral reflux; chronic pyelonephritis from recurrent acute pyelonephritis, with thyroidization of the kidney and blunting and scarring of the renal calyces.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38598,7 +38598,7 @@ export default [
   {
     "id": "s2peds-2698",
     "category": "Peds vignettes",
-    "q": "9F with recurrent pyelonephritis and simple UTIs and BP 160/100. Next best step per p192?",
+    "q": "9F with recurrent pyelonephritis and simple UTIs and BP 160/100. Next best step?",
     "a": "Measurement of serum urea nitrogen and creatinine; likely chronic pyelonephritis (reflux nephropathy) with renal scarring, disruption of renal microvasculature and RAAS upregulation.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38613,7 +38613,7 @@ export default [
   {
     "id": "s2peds-2699",
     "category": "Peds vignettes",
-    "q": "6M with dancing eyes, hypertension and a lesion in the posterior mediastinum on CXR. Diagnosis per p192?",
+    "q": "6M with dancing eyes, hypertension and a lesion in the posterior mediastinum on CXR. Diagnosis?",
     "a": "Neuroblastoma; it can occur anywhere along the median sympathetic chain, though classically intra-abdominal. Dancing eyes is opsoclonus-myoclonus syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38628,7 +38628,7 @@ export default [
   {
     "id": "s2peds-2700",
     "category": "Peds vignettes",
-    "q": "How is neuroblastoma diagnosed per p192?",
+    "q": "How is neuroblastoma diagnosed?",
     "a": "On the NBME: urinary homovanillic acid (HVA) and vanillylmandelic acid (VMA); mIBG scan may also be used; n-myc gene.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38643,7 +38643,7 @@ export default [
   {
     "id": "s2peds-2701",
     "category": "Peds vignettes",
-    "q": "5M with 4 days of increasing shortness of breath, a superior mediastinal mass on CXR and thoracentesis giving 400 mL serosanguinous fluid. Most likely cause of the effusion per p192?",
+    "q": "5M with 4 days of increasing shortness of breath, a superior mediastinal mass on CXR and thoracentesis giving 400 mL serosanguinous fluid. Most likely cause of the effusion?",
     "a": "Malignant pleural effusion from T-cell ALL (the mediastinal mass causes an SVC-like syndrome).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38658,7 +38658,7 @@ export default [
   {
     "id": "s2peds-2702",
     "category": "Peds vignettes",
-    "q": "What makes jaundice pathologic in a neonate per p192?",
+    "q": "What makes jaundice pathologic in a neonate?",
     "a": "At least one: any jaundice in the first 24 hours of life; jaundice after one week if term or two weeks if preterm; total bilirubin above 15 mg/dL; direct bilirubin above 10% of total even if total is below 15; rate of rise above 0.5 mg/dL/hour.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38673,7 +38673,7 @@ export default [
   {
     "id": "s2peds-2703",
     "category": "Peds vignettes",
-    "q": "Treatment for pathologic jaundice per p192?",
+    "q": "What is the treatment for pathologic jaundice?",
     "a": "Phototherapy first, followed by exchange transfusion; some literature supports IVIG after phototherapy, but USMLE has exchange transfusion as correct without listing IVIG.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38688,7 +38688,7 @@ export default [
   {
     "id": "s2peds-2704",
     "category": "Peds vignettes",
-    "q": "Neonate with total bilirubin 14 mg/dL and direct bilirubin 13 mg/dL. Diagnosis, next step and treatment per p192?",
+    "q": "Neonate with total bilirubin 14 mg/dL and direct bilirubin 13 mg/dL. Diagnosis, next step and treatment?",
     "a": "Biliary atresia; next step is liver biopsy; treatment is liver transplant. Total bilirubin is okay here, but direct is severely pathologic because it is above 10% of total (over 1.4 mg/dL).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38703,7 +38703,7 @@ export default [
   {
     "id": "s2peds-2705",
     "category": "Peds vignettes",
-    "q": "Neonate with total bilirubin 20 mg/dL, all unconjugated, continually worsening despite management. Diagnosis and treatment per p192?",
+    "q": "Neonate with total bilirubin 20 mg/dL, all unconjugated, continually worsening despite management. Diagnosis and treatment?",
     "a": "Crigler-Najjar: absence of UDP-glucuronosyltransferase; treatment is liver transplant. Type II is a deficiency, not absence, of the enzyme and can be managed with phenobarbital, which reduces bilirubin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38718,7 +38718,7 @@ export default [
   {
     "id": "s2peds-2706",
     "category": "Peds vignettes",
-    "q": "Mechanism, timing and treatment of breastmilk jaundice per p193?",
+    "q": "What are the mechanism, timing and treatment of breastmilk jaundice?",
     "a": "Beta-glucuronidase in breast milk deconjugates intestinal bilirubin and increases enterohepatic circulation; jaundice starts on day 3-5 and peaks at 2-3 weeks; Tx = stop breastfeeding for about 48 hours with bottle feeding, then bilirubin drops rapidly and does not return to pathologic levels when breastfeeding resumes.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38733,7 +38733,7 @@ export default [
   {
     "id": "s2peds-2707",
     "category": "Peds vignettes",
-    "q": "Mechanism, timing and treatment of breastfeeding jaundice per p193?",
+    "q": "What are the mechanism, timing and treatment of breastfeeding jaundice?",
     "a": "Insufficient feeding (failure of suckling etc.) with decreased milk intake reduces intestinal clearance of bilirubin, increasing enterohepatic circulation; peaks at 3-5 days; Tx = formula feeding (fluid and caloric supplementation).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38748,7 +38748,7 @@ export default [
   {
     "id": "s2peds-2708",
     "category": "Peds vignettes",
-    "q": "Pathologic jaundice in a neonate, mom O+, neonate A or B blood type. Diagnosis and mechanism per p193?",
+    "q": "Pathologic jaundice in a neonate, mom O+, neonate A or B blood type. Diagnosis and mechanism?",
     "a": "Hemolytic disease of the newborn (ABO type): mothers with O blood type have a fraction of IgG (rather than all IgM) against A and B antigens, which crosses the placenta and causes fetal hemolysis; severity is highly variable.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38763,7 +38763,7 @@ export default [
   {
     "id": "s2peds-2709",
     "category": "Peds vignettes",
-    "q": "Pathologic jaundice in a neonate born from the 2nd pregnancy of an Rh negative mom. Diagnosis per p193?",
+    "q": "Pathologic jaundice in a neonate born from the 2nd pregnancy of an Rh negative mom. Diagnosis?",
     "a": "Hemolytic disease of the newborn (Rh type): the mother presumably made antibodies against fetal Rh antigen in a prior pregnancy after mixing of circulations.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38778,7 +38778,7 @@ export default [
   {
     "id": "s2peds-2710",
     "category": "Peds vignettes",
-    "q": "Neonate with ambiguous genitalia, hypoglycemia, high potassium and low blood pressure. Diagnosis and why per p193?",
+    "q": "Neonate with ambiguous genitalia, hypoglycemia, high potassium and low blood pressure. Diagnosis and why?",
     "a": "CAH due to 21-hydroxylase deficiency: low glucose because cortisol cannot be made; high potassium because aldosterone cannot be made; ambiguous genitalia because precursors are shunted to DHEA-S and androstenedione (androstenedione converts peripherally to testosterone; DHEA-S is adrenal-specific). 21-hydroxylase deficiency is the most common cause of CAH.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38793,7 +38793,7 @@ export default [
   {
     "id": "s2peds-2711",
     "category": "Peds vignettes",
-    "q": "Neonate with ambiguous genitalia, potassium not high, normal BP and elevated DHEA-S. Diagnosis per p193?",
+    "q": "Neonate with ambiguous genitalia, potassium not high, normal BP and elevated DHEA-S. Diagnosis?",
     "a": "CAH due to 11-hydroxylase deficiency: the patient can still make corticosterone and 11-deoxycortisol, so retains some mineralo- and glucocorticoid synthesis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38808,7 +38808,7 @@ export default [
   {
     "id": "s2peds-2712",
     "category": "Peds vignettes",
-    "q": "Neonate with low potassium, low glucose and low DHEA-S. Diagnosis per p193 (the source explanation continues on p194)?",
+    "q": "Neonate with low potassium, low glucose and low DHEA-S. Diagnosis (the source explanation continues in the source)?",
     "a": "CAH due to 17-hydroxylase deficiency; potassium wasting from high mineralocorticoid activity.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38823,7 +38823,7 @@ export default [
   {
     "id": "s2peds-2713",
     "category": "Peds vignettes",
-    "q": "Finish the 17-hydroxylase deficiency explanation from p193 (p194 top). What is made and what is not?",
+    "q": "Finish the 17-hydroxylase deficiency explanation from the source (the source top). What is made and what is not?",
     "a": "The zona fasciculata (cortisol layer) and zona reticularis (androgen layer) precursors and products cannot be made effectively; pregnenolone is shunted purely to aldosterone in the zona glomerulosa.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38853,7 +38853,7 @@ export default [
   {
     "id": "s2peds-2715",
     "category": "Peds vignettes",
-    "q": "Same vignette on the IM NBME (adult with Addison). Next best step per p194, and what random cortisol excludes it?",
+    "q": "Same vignette on the IM NBME (adult with Addison). Next best step, and what random cortisol excludes it?",
     "a": "ACTH stimulation test. Literature says a random plasma cortisol above 25 mcg/dL excludes Addison; random cortisol may be done before the ACTH stimulation test, which involves serial cortisol measurements anyway.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38868,7 +38868,7 @@ export default [
   {
     "id": "s2peds-2716",
     "category": "Peds vignettes",
-    "q": "Which vaccine is given at birth per p194?",
+    "q": "Which vaccine is given at birth?",
     "a": "Hepatitis B.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38883,7 +38883,7 @@ export default [
   {
     "id": "s2peds-2717",
     "category": "Peds vignettes",
-    "q": "Hepatitis B schedule per p194 (new 2020 guidelines)?",
+    "q": "What is the hepatitis B vaccine schedule under the 2020 guidelines?",
     "a": "Skip the 4-month dose: give at birth, 2 months and 6 months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38898,7 +38898,7 @@ export default [
   {
     "id": "s2peds-2718",
     "category": "Peds vignettes",
-    "q": "Which vaccines are given at 2, 4 and 6 months per p194?",
+    "q": "Which vaccines are given at 2, 4 and 6 months?",
     "a": "Hepatitis B (birth, 2, 6 months only), Strep pneumo PCV13, rotavirus (oral live-attenuated), polio (Salk, IM killed), TDaP (tetanus, diphtheria, pertussis), and Haemophilus influenzae type B.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38913,7 +38913,7 @@ export default [
   {
     "id": "s2peds-2719",
     "category": "Peds vignettes",
-    "q": "Which vaccines are given at 1 year per p194?",
+    "q": "Which vaccines are given at 1 year?",
     "a": "Strep pneumo (4th dose), Haemophilus influenzae type B (4th dose), MMRV (1st dose) and hepatitis A (1st dose).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38928,7 +38928,7 @@ export default [
   {
     "id": "s2peds-2720",
     "category": "Peds vignettes",
-    "q": "Which vaccines are given at 18 months per p194?",
+    "q": "Which vaccines are given at 18 months?",
     "a": "Hepatitis A (2nd dose) and TDaP (4th dose).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38943,7 +38943,7 @@ export default [
   {
     "id": "s2peds-2721",
     "category": "Peds vignettes",
-    "q": "Which vaccines are given at 4-6 years per p194?",
+    "q": "Which vaccines are given at 4-6 years?",
     "a": "TDaP (5th dose) and polio (4th dose).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38958,7 +38958,7 @@ export default [
   {
     "id": "s2peds-2722",
     "category": "Peds vignettes",
-    "q": "Finish the 4-6 year vaccines from p194. What else is given at 4-6 years per p195?",
+    "q": "Finish the 4-6 year vaccines from the source. What else is given at 4-6 years?",
     "a": "MMRV (2nd dose).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38973,7 +38973,7 @@ export default [
   {
     "id": "s2peds-2723",
     "category": "Peds vignettes",
-    "q": "HPV vaccine schedule per p195?",
+    "q": "What is the HPV vaccine schedule?",
     "a": "Ages 9-45; 2 doses if first given at age 9-14, 3 doses if first given at age 15 or older.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -38988,7 +38988,7 @@ export default [
   {
     "id": "s2peds-2724",
     "category": "Peds vignettes",
-    "q": "Which vaccines are given at school age 11-13 per p195?",
+    "q": "Which vaccines are given at school age 11-13?",
     "a": "TDaP (6th dose) and meningococcal (1st dose).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39003,7 +39003,7 @@ export default [
   {
     "id": "s2peds-2725",
     "category": "Peds vignettes",
-    "q": "Which vaccine is given at school age 16 per p195?",
+    "q": "Which vaccine is given at school age 16?",
     "a": "Meningococcal (2nd dose).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39018,7 +39018,7 @@ export default [
   {
     "id": "s2peds-2726",
     "category": "Peds vignettes",
-    "q": "Hepatitis B and rotavirus dose timing summary per p195?",
+    "q": "What are the dose timings for the hepatitis B and rotavirus vaccines?",
     "a": "HepB: birth, 2 and 6 months (3 doses). Rotavirus (oral; live-attenuated): 2, 4, 6 months (3 doses).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39033,7 +39033,7 @@ export default [
   {
     "id": "s2peds-2727",
     "category": "Peds vignettes",
-    "q": "Polio and Haemophilus influenzae type B dose timing per p195?",
+    "q": "What are the dose timings for the polio and Haemophilus influenzae type B vaccines?",
     "a": "Polio (Salk; IM killed): 2, 4, 6 months and 4-6 years (4 doses). Hib: 2, 4, 6 months and 1 year (4 doses).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39048,7 +39048,7 @@ export default [
   {
     "id": "s2peds-2728",
     "category": "Peds vignettes",
-    "q": "Pneumococcal conjugate dose timing in children per p195?",
+    "q": "What is the pneumococcal conjugate vaccine dose timing in children?",
     "a": "PCV13: 2, 4, 6 months and 1 year (4 doses).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39063,7 +39063,7 @@ export default [
   {
     "id": "s2peds-2729",
     "category": "Peds vignettes",
-    "q": "TDaP dose timing per p195?",
+    "q": "What is the TDaP dose timing?",
     "a": "2, 4, 6 months; 18 months; 4-6 years; 11-13 years (6 doses).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39078,7 +39078,7 @@ export default [
   {
     "id": "s2peds-2730",
     "category": "Peds vignettes",
-    "q": "Hepatitis A and MMRV dose timing per p195?",
+    "q": "What are the dose timings for the hepatitis A and MMRV vaccines?",
     "a": "HepA: 1 year and 18 months (2 doses). MMRV: 1 year and 4-6 years (2 doses).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39093,7 +39093,7 @@ export default [
   {
     "id": "s2peds-2731",
     "category": "Peds vignettes",
-    "q": "Meningococcal dose timing per p195?",
+    "q": "What is the meningococcal vaccine dose timing?",
     "a": "11-13 years and 16 years (2 doses).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39108,7 +39108,7 @@ export default [
   {
     "id": "s2peds-2732",
     "category": "Peds vignettes",
-    "q": "Influenza vaccine options and season per p195?",
+    "q": "What are the influenza vaccine options, and when are they given?",
     "a": "Either killed (IM) or live-attenuated (intranasal). Only give in fall or winter (if the vignette says e.g. April, the answer is do not give). IM killed starts at age 6 months and is given annually.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39123,7 +39123,7 @@ export default [
   {
     "id": "s2peds-2733",
     "category": "Peds vignettes",
-    "q": "Who can get live-attenuated influenza vaccine per p195?",
+    "q": "Who can get live-attenuated influenza vaccine?",
     "a": "Annually in fall or winter, only for non-pregnant, non-immunocompromised persons age 2-49.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39138,7 +39138,7 @@ export default [
   {
     "id": "s2peds-2734",
     "category": "Peds vignettes",
-    "q": "Pneumococcal vaccine for older adults per p195?",
+    "q": "What is the pneumococcal vaccine schedule for older adults?",
     "a": "One dose of PCV13 to all persons age 65, then PPSV23 6-12 months later.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39153,7 +39153,7 @@ export default [
   {
     "id": "s2peds-2735",
     "category": "Peds vignettes",
-    "q": "Pneumococcal vaccine for patients with asplenia, sickle cell and cochlear implants per p196 (continues p195)?",
+    "q": "What pneumococcal vaccine schedule is used for patients with asplenia, sickle cell disease or cochlear implants?",
     "a": "Give PPSV23 6-12 months after the last dose of PCV13.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39168,7 +39168,7 @@ export default [
   {
     "id": "s2peds-2736",
     "category": "Peds vignettes",
-    "q": "Neonate with diffuse pink body rash and desquamation of palms and soles. Mechanism and diagnosis per p196?",
+    "q": "Neonate with diffuse pink body rash and desquamation of palms and soles. Mechanism and diagnosis?",
     "a": "Exotoxin; staphylococcal scalded skin syndrome due to exfoliative toxin (produced by about 5% of community staph).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39183,7 +39183,7 @@ export default [
   {
     "id": "s2peds-2737",
     "category": "Peds vignettes",
-    "q": "Neonate born at home, umbilical cord cut with a kitchen knife and tied with twine, with trismus. Diagnosis and treatment per p196?",
+    "q": "Neonate born at home, umbilical cord cut with a kitchen knife and tied with twine, with trismus. Diagnosis and treatment?",
     "a": "Tetanus; Tx = antitoxin. Trismus is lockjaw (do not confuse with tenesmus, the intractable feeling of needing to defecate). C. tetani classically enters through the umbilical stump.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39198,7 +39198,7 @@ export default [
   {
     "id": "s2peds-2738",
     "category": "Peds vignettes",
-    "q": "Neonate born at home with bleeding from the umbilical stump. Diagnosis and BT, PT, aPTT per p196?",
+    "q": "Neonate born at home with bleeding from the umbilical stump. Diagnosis and BT, PT, aPTT?",
     "a": "Vitamin K deficiency; bleeding time normal, PT and aPTT both elevated; due to a sterile bowel and no injection at birth.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39213,7 +39213,7 @@ export default [
   {
     "id": "s2peds-2739",
     "category": "Peds vignettes",
-    "q": "6M with crops of vesicles on the trunk at different stages of healing. Diagnosis per p196?",
+    "q": "6M with crops of vesicles on the trunk at different stages of healing. Diagnosis?",
     "a": "Varicella (VZV); presumably not previously vaccinated. Know this description.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39228,7 +39228,7 @@ export default [
   {
     "id": "s2peds-2740",
     "category": "Peds vignettes",
-    "q": "Neonate dies in utero and the mother owns a deli. Diagnosis per p196?",
+    "q": "Neonate dies in utero and the mother owns a deli. Diagnosis?",
     "a": "Granulomatosis infantiseptica (severest form of listeriosis); deli meats and soft cheeses are sources during pregnancy.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39243,7 +39243,7 @@ export default [
   {
     "id": "s2peds-2741",
     "category": "Peds vignettes",
-    "q": "Term neonate with fever, high WBCs (65% neutrophils) and CSF showing trace cells (90% lymphocytes). Diagnosis per p196?",
+    "q": "Term neonate with fever, high WBCs (65% neutrophils) and CSF showing trace cells (90% lymphocytes). Diagnosis?",
     "a": "Group B Strep (Strep agalactiae) sepsis; students get confused over the CSF findings, but this is apparently a normal finding; 65% neutrophils is a slight left shift for bacterial infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39258,7 +39258,7 @@ export default [
   {
     "id": "s2peds-2742",
     "category": "Peds vignettes",
-    "q": "Treatment of neonatal GBS sepsis per p196?",
+    "q": "What is the treatment for neonatal GBS sepsis?",
     "a": "Ampicillin plus gentamicin; the wrong answer is ceftriaxone plus vancomycin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39273,7 +39273,7 @@ export default [
   {
     "id": "s2peds-2743",
     "category": "Peds vignettes",
-    "q": "6M with ALL on chemotherapy and vesicles beneath the scapula. Diagnosis per p196?",
+    "q": "6M with ALL on chemotherapy and vesicles beneath the scapula. Diagnosis?",
     "a": "Herpes zoster (immunosuppressed); pediatric shingles exists.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39288,7 +39288,7 @@ export default [
   {
     "id": "s2peds-2744",
     "category": "Peds vignettes",
-    "q": "Neonate with microphthalmia, limb deformities and zig-zag skin lesions. Diagnosis per p196?",
+    "q": "Neonate with microphthalmia, limb deformities and zig-zag skin lesions. Diagnosis?",
     "a": "Congenital varicella syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39303,7 +39303,7 @@ export default [
   {
     "id": "s2peds-2745",
     "category": "Peds vignettes",
-    "q": "Neonate with intracranial or periventricular calcifications, hydrocephalus and chorioretinitis. Diagnosis per p196?",
+    "q": "Neonate with intracranial or periventricular calcifications, hydrocephalus and chorioretinitis. Diagnosis?",
     "a": "Congenital toxoplasmosis; know this triad.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39318,7 +39318,7 @@ export default [
   {
     "id": "s2peds-2746",
     "category": "Peds vignettes",
-    "q": "Neonate with patent ductus arteriosus, with or without deafness and cataracts. Diagnosis per p197?",
+    "q": "Neonate with patent ductus arteriosus, with or without deafness and cataracts. Diagnosis?",
     "a": "Congenital rubella syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39333,7 +39333,7 @@ export default [
   {
     "id": "s2peds-2747",
     "category": "Peds vignettes",
-    "q": "Neonate with saddle nose, saber shins and Hutchinson teeth, with or without deafness and cataracts. Diagnosis per p197?",
+    "q": "Neonate with saddle nose, saber shins and Hutchinson teeth, with or without deafness and cataracts. Diagnosis?",
     "a": "Congenital syphilis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39348,7 +39348,7 @@ export default [
   {
     "id": "s2peds-2748",
     "category": "Peds vignettes",
-    "q": "Neonate with intracranial calcifications, deafness, with or without hepatosplenomegaly and blueberry muffin rash. Diagnosis and reasoning per p197?",
+    "q": "Neonate with intracranial calcifications, deafness, with or without hepatosplenomegaly and blueberry muffin rash. Diagnosis and reasoning?",
     "a": "Congenital CMV. Calcifications are non-specific but the triad is not for toxoplasmosis; deafness is very high yield for CMV although not specific; diagnose CMV by eliminating toxo, syphilis, rubella and varicella descriptions.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39363,7 +39363,7 @@ export default [
   {
     "id": "s2peds-2749",
     "category": "Peds vignettes",
-    "q": "16F sexually active. Pap smears and/or STI checks per p197?",
+    "q": "16F sexually active. Pap smears and/or STI checks?",
     "a": "Do not do Pap smears; start at age 21 regardless of age of onset of sexual activity. Do check for chlamydia and gonorrhea starting from the age of sexual onset, and make sure she has had the HPV vaccine.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39378,7 +39378,7 @@ export default [
   {
     "id": "s2peds-2750",
     "category": "Peds vignettes",
-    "q": "16F with mucopurulent discharge and adnexal pain. Treatment and diagnosis per p197?",
+    "q": "16F with mucopurulent discharge and adnexal pain. Treatment and diagnosis?",
     "a": "Pelvic inflammatory disease; IM ceftriaxone PLUS either oral azithromycin (one stat dose) or oral doxycycline (BID for a week); always cotreat for chlamydia and gonorrhea; if the patient is septic give IV antibiotics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39393,7 +39393,7 @@ export default [
   {
     "id": "s2peds-2751",
     "category": "Peds vignettes",
-    "q": "17F asymptomatic, male partner recently tested positive for gonorrhea; tests ordered. Treat or not per p197?",
+    "q": "17F asymptomatic, male partner recently tested positive for gonorrhea; tests ordered. Treat or not?",
     "a": "Treat: IM ceftriaxone and oral doxycycline. The wrong answer is no treatment because she is asymptomatic.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39408,7 +39408,7 @@ export default [
   {
     "id": "s2peds-2752",
     "category": "Peds vignettes",
-    "q": "16M with redness of both eyes, rash over extremities and mucopurulent urethral discharge. Diagnosis and cause per p197?",
+    "q": "16M with redness of both eyes, rash over extremities and mucopurulent urethral discharge. Diagnosis and cause?",
     "a": "Reactive arthritis due to chlamydia; gonococcus does not cause reactive arthritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39423,7 +39423,7 @@ export default [
   {
     "id": "s2peds-2753",
     "category": "Peds vignettes",
-    "q": "16M sexually active with left knee pain and fever, S. aureus not listed as an answer. Diagnosis per p197?",
+    "q": "16M sexually active with left knee pain and fever, S. aureus not listed as an answer. Diagnosis?",
     "a": "Gonococcal arthritis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39438,7 +39438,7 @@ export default [
   {
     "id": "s2peds-2754",
     "category": "Peds vignettes",
-    "q": "16M with polyarthritis, positive Finkelstein test and cutaneous papules over the wrist. Diagnosis and presentations per p197?",
+    "q": "16M with polyarthritis, positive Finkelstein test and cutaneous papules over the wrist. Diagnosis and presentations?",
     "a": "Gonococcal arthritis; it presents either as a monoarthritis of a large joint such as the knee, or as a triad of polyarthritis, tenosynovitis and cutaneous papules.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39453,7 +39453,7 @@ export default [
   {
     "id": "s2peds-2755",
     "category": "Peds vignettes",
-    "q": "16F with thin, grey, watery discharge, diagnosed by wet mount. Diagnosis, findings and treatment per p198?",
+    "q": "16F with thin, grey, watery discharge, diagnosed by wet mount. Diagnosis, findings and treatment?",
     "a": "Bacterial vaginosis (Gardnerella); clue cells (squamous cells covered in bacteria) on wet mount; KOH whiff test with fishy odor is also classic; treat with topical metronidazole gel.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39468,7 +39468,7 @@ export default [
   {
     "id": "s2peds-2756",
     "category": "Peds vignettes",
-    "q": "16F with yellow-green discharge, diagnosed by wet mount. Diagnosis, findings and treatment per p198?",
+    "q": "16F with yellow-green discharge, diagnosed by wet mount. Diagnosis, findings and treatment?",
     "a": "Trichomonas vaginalis; wet mount shows flagellated protozoa; strawberry cervix (punctate hemorrhages) or an erythematous vaginal canal might be seen; treat with topical metronidazole for patient and partner (high risk of reinfection).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39483,7 +39483,7 @@ export default [
   {
     "id": "s2peds-2757",
     "category": "Peds vignettes",
-    "q": "16F with vesicular lesions on vulva and stinging or burning pain. What is the most likely trajectory of these lesions per p198?",
+    "q": "16F with vesicular lesions on vulva and stinging or burning pain. What is the most likely trajectory of these lesions?",
     "a": "Gradually disappear over one week (the wrong answer is gradually worsen then disappear over three weeks). Treat with oral acyclovir (or oral valacyclovir); topical acyclovir is the wrong answer.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39498,7 +39498,7 @@ export default [
   {
     "id": "s2peds-2758",
     "category": "Peds vignettes",
-    "q": "17M with a painless papule that ruptures into a painless crater at the base of the penis. Next best step per p198?",
+    "q": "17M with a painless papule that ruptures into a painless crater at the base of the penis. Next best step?",
     "a": "Darkfield microscopy; diagnosis is primary syphilis. VDRL/RPR can be done but is sometimes negative in primary syphilis; one NBME form's answer was spirochete.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39513,7 +39513,7 @@ export default [
   {
     "id": "s2peds-2759",
     "category": "Peds vignettes",
-    "q": "17M sexually active with a maculopapular rash on the upper back and palms and soles. Next best step per p198?",
+    "q": "17M sexually active with a maculopapular rash on the upper back and palms and soles. Next best step?",
     "a": "VDRL/RPR followed by fluorescent treponemal antibody; diagnosis is secondary syphilis.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39528,7 +39528,7 @@ export default [
   {
     "id": "s2peds-2760",
     "category": "Peds vignettes",
-    "q": "18M sexually active with a positive Romberg sign. Diagnosis per p198?",
+    "q": "18M sexually active with a positive Romberg sign. Diagnosis?",
     "a": "Neurosyphilis (Neuro NBME answer): it can occur at any stage and often appears during secondary syphilis. Positive Romberg refers to tabes dorsalis. It can also present with an Argyll-Robertson pupil (accommodates but does not react).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39543,7 +39543,7 @@ export default [
   {
     "id": "s2peds-2761",
     "category": "Peds vignettes",
-    "q": "17M back from Uganda with a painful crater at the base of the penile shaft. Diagnosis and treatment per p198?",
+    "q": "17M back from Uganda with a painful crater at the base of the penile shaft. Diagnosis and treatment?",
     "a": "Haemophilus ducreyi (chancroid); treat with azithromycin.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39558,7 +39558,7 @@ export default [
   {
     "id": "s2peds-2762",
     "category": "Peds vignettes",
-    "q": "17M with skin-colored papules on the penile shaft. Treatment per p198?",
+    "q": "17M with skin-colored papules on the penile shaft. Treatment?",
     "a": "Podophyllum resin; treatment for HPV (also the answer on the OBGYN NBME for vulvar condylomata acuminata).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39573,7 +39573,7 @@ export default [
   {
     "id": "s2peds-2763",
     "category": "Peds vignettes",
-    "q": "3F with purulent bloody discharge on underwear. Diagnosis per p198?",
+    "q": "3F with purulent bloody discharge on underwear. Diagnosis?",
     "a": "Vaginal foreign body.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39588,7 +39588,7 @@ export default [
   {
     "id": "s2peds-2764",
     "category": "Peds vignettes",
-    "q": "17F, BMI 28, erythematous and itchy vulva, no mention of discharge but the question asks for the organism. Diagnosis and treatment per p199?",
+    "q": "17F, BMI 28, erythematous and itchy vulva, no mention of discharge but the question asks for the organism. Diagnosis and treatment?",
     "a": "Candidiasis; classically curd-like white discharge, but one 2CK-level question does not mention it. Treat with topical nystatin first or oral fluconazole (topical nystatin usually tried first).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39603,7 +39603,7 @@ export default [
   {
     "id": "s2peds-2765",
     "category": "Peds vignettes",
-    "q": "7M with 6 weeks of headaches, difficulty walking and bilateral papilledema. Diagnosis per p199?",
+    "q": "7M with 6 weeks of headaches, difficulty walking and bilateral papilledema. Diagnosis?",
     "a": "Medulloblastoma. It is cerebellar, not medullar: a tumor of the cerebellar vermis causing truncal ataxia. Morning vomiting is classic, but papilledema means increased intracranial pressure.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39618,7 +39618,7 @@ export default [
   {
     "id": "s2peds-2766",
     "category": "Peds vignettes",
-    "q": "4M with morning vomiting and an infratentorial MRI lesion that is mixed hyper- and hypointense. Diagnosis per p199?",
+    "q": "4M with morning vomiting and an infratentorial MRI lesion that is mixed hyper- and hypointense. Diagnosis?",
     "a": "Pilocytic astrocytoma: mixed solid and cystic grossly; the most common pediatric primary brain tumor.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39633,7 +39633,7 @@ export default [
   {
     "id": "s2peds-2767",
     "category": "Peds vignettes",
-    "q": "4M with upward-gaze palsy. Diagnosis per p199?",
+    "q": "4M with upward-gaze palsy. Diagnosis?",
     "a": "Parinaud syndrome due to a pinealoma.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39648,7 +39648,7 @@ export default [
   {
     "id": "s2peds-2768",
     "category": "Peds vignettes",
-    "q": "4M with bitemporal hemianopsia and calcification on MRI. Diagnosis and facts per p199?",
+    "q": "4M with bitemporal hemianopsia and calcification on MRI. Diagnosis and facts?",
     "a": "Craniopharyngioma; the most common pituitary-region tumor in peds (prolactinoma in adults), though some sources say it is not a true pituitary tumor since it derives from Rathke pouch (roof of primitive pharynx). It can calcify, has motor-oil appearance, and frequently recurs after surgery.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39663,7 +39663,7 @@ export default [
   {
     "id": "s2peds-2769",
     "category": "Peds vignettes",
-    "q": "6M in whom the image shows the eye looking like it was hit by a softball. Diagnosis and treatment per p199?",
+    "q": "6M in whom the image shows the eye looking like it was hit by a softball. Diagnosis and treatment?",
     "a": "Orbital cellulitis; must give IV antibiotics. In contrast, pre-septal cellulitis is less severe and can be treated with oral antibiotics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39678,7 +39678,7 @@ export default [
   {
     "id": "s2peds-2770",
     "category": "Peds vignettes",
-    "q": "6M with a painful bump on the eyelid. Diagnosis and treatment per p199?",
+    "q": "6M with a painful bump on the eyelid. Diagnosis and treatment?",
     "a": "Hordeolum (stye); S. aureus infection; treat with warm compresses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39693,7 +39693,7 @@ export default [
   {
     "id": "s2peds-2771",
     "category": "Peds vignettes",
-    "q": "6M with a painless bump on the eyelid. Diagnosis and treatment per p199?",
+    "q": "6M with a painless bump on the eyelid. Diagnosis and treatment?",
     "a": "Chalazion (blocked oil duct); treat with warm compresses.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39708,7 +39708,7 @@ export default [
   {
     "id": "s2peds-2772",
     "category": "Peds vignettes",
-    "q": "6M with a painless eyelid bump and warm compresses are not working. Diagnosis and treatment per p199?",
+    "q": "6M with a painless eyelid bump and warm compresses are not working. Diagnosis and treatment?",
     "a": "Dermoid cyst of the eyelid; treatment is surgical.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39723,7 +39723,7 @@ export default [
   {
     "id": "s2peds-2773",
     "category": "Peds vignettes",
-    "q": "Chemical neonatal conjunctivitis (first 24 hours of life) per p199: cause and prophylaxis?",
+    "q": "What causes chemical neonatal conjunctivitis in the first 24 hours of life, and what is the prophylaxis?",
     "a": "Frequently caused by silver nitrate eyedrops (gonococcal prophylaxis), more historical and replaced by topical erythromycin drops (most states require by law). Erythromycin (and silver nitrate) drops are only prophylaxis against gonococcus, not against chlamydia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39738,7 +39738,7 @@ export default [
   {
     "id": "s2peds-2774",
     "category": "Peds vignettes",
-    "q": "Best way to prevent chlamydial and gonococcal ophthalmia neonatorum per p200?",
+    "q": "What is the best way to prevent chlamydial and gonococcal ophthalmia neonatorum?",
     "a": "Effective treatment of the mother prior to delivery.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39753,7 +39753,7 @@ export default [
   {
     "id": "s2peds-2775",
     "category": "Peds vignettes",
-    "q": "Gonococcal ophthalmia neonatorum (2-5 days of life): presentation and treatment per p200?",
+    "q": "How does gonococcal ophthalmia neonatorum present at 2-5 days of life, and how is it treated?",
     "a": "Purulent discharge; treat with IM cefotaxime (choose over ceftriaxone for neonates).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39768,7 +39768,7 @@ export default [
   {
     "id": "s2peds-2776",
     "category": "Peds vignettes",
-    "q": "Chlamydial ophthalmia neonatorum (5-14 days of life): presentation and complication per p200?",
+    "q": "How does chlamydial ophthalmia neonatorum present at 5-14 days of life, and what complication can follow?",
     "a": "Watery or purulent discharge. It can classically lead to Chlamydia trachomatis D-K pneumonia (not Chlamydia pneumoniae): infection can drain through the nasolacrimal duct into the nasopharynx and lungs, with diffuse crackles 1-2 weeks after the eye infection.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39783,7 +39783,7 @@ export default [
   {
     "id": "s2peds-2777",
     "category": "Peds vignettes",
-    "q": "Treatment of chlamydial ophthalmia neonatorum per p200?",
+    "q": "What is the treatment for chlamydial ophthalmia neonatorum?",
     "a": "Oral erythromycin; topical is not only less effective but also does not account for any organism having entered the nasopharynx and/or lungs.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39798,7 +39798,7 @@ export default [
   {
     "id": "s2peds-2778",
     "category": "Peds vignettes",
-    "q": "4M who goes to daycare with red, itchy eyes. Diagnosis per p200?",
+    "q": "4M who goes to daycare with red, itchy eyes. Diagnosis?",
     "a": "Adenovirus (most common cause of viral conjunctivitis).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39813,7 +39813,7 @@ export default [
   {
     "id": "s2peds-2779",
     "category": "Peds vignettes",
-    "q": "4M at daycare with red, itchy eyes. The organism most likely responsible can also cause what per p200?",
+    "q": "4M at daycare with red, itchy eyes. The organism most likely responsible can also cause what?",
     "a": "Hemorrhagic cystitis (red urine); adenovirus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39828,7 +39828,7 @@ export default [
   {
     "id": "s2peds-2780",
     "category": "Peds vignettes",
-    "q": "6M playing with a firecracker with eye pain and tearing, full ocular movements and 20/20 acuity. Next best step per p200?",
+    "q": "6M playing with a firecracker with eye pain and tearing, full ocular movements and 20/20 acuity. Next best step?",
     "a": "Fluorescein instillation of the eye; diagnosis is corneal abrasion. It shows green on fluorescein staining (normal areas are blue). The cornea heals very fast; tearing and scratchy sensation for a day, then normal the next morning.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39843,7 +39843,7 @@ export default [
   {
     "id": "s2peds-2781",
     "category": "Peds vignettes",
-    "q": "6M with an itchy eye, infraorbital vesicles and a dendritic pattern on fluorescein staining. Diagnosis per p200?",
+    "q": "6M with an itchy eye, infraorbital vesicles and a dendritic pattern on fluorescein staining. Diagnosis?",
     "a": "Herpes keratitis; a similar diagnosis is herpes zoster (VZV) ophthalmicus (immunocompromised if a child).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39858,7 +39858,7 @@ export default [
   {
     "id": "s2peds-2782",
     "category": "Peds vignettes",
-    "q": "6M being treated with chemo for ALL with vesicles around the ear and Bell palsy. Diagnosis per p200?",
+    "q": "6M being treated with chemo for ALL with vesicles around the ear and Bell palsy. Diagnosis?",
     "a": "Herpes zoster oticus, also called Ramsay Hunt syndrome type II (VZV).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39873,7 +39873,7 @@ export default [
   {
     "id": "s2peds-2783",
     "category": "Peds vignettes",
-    "q": "Newborn with cystic dilation of the 4th ventricle and absent cerebellar vermis. Diagnosis per p200?",
+    "q": "Newborn with cystic dilation of the 4th ventricle and absent cerebellar vermis. Diagnosis?",
     "a": "Dandy-Walker syndrome.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39888,7 +39888,7 @@ export default [
   {
     "id": "s2peds-2784",
     "category": "Peds vignettes",
-    "q": "Newborn with myelomeningocele and downward herniation of the cerebellar vermis. Diagnosis per p200?",
+    "q": "Newborn with myelomeningocele and downward herniation of the cerebellar vermis. Diagnosis?",
     "a": "Arnold-Chiari malformation (the term only applies to Chiari type II).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39903,7 +39903,7 @@ export default [
   {
     "id": "s2peds-2785",
     "category": "Peds vignettes",
-    "q": "18M with bilateral loss of pain and temperature sensation. Diagnosis per p201?",
+    "q": "18M with bilateral loss of pain and temperature sensation. Diagnosis?",
     "a": "Syringomyelia (can be seen secondary to a syrinx from Chiari type I, which is less severe and presents later than type II).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39918,7 +39918,7 @@ export default [
   {
     "id": "s2peds-2786",
     "category": "Peds vignettes",
-    "q": "Newborn with prominent occiput, micrognathia and overlapping fingers. Diagnosis per p201?",
+    "q": "Newborn with prominent occiput, micrognathia and overlapping fingers. Diagnosis?",
     "a": "Edwards syndrome (Trisomy 18).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39933,7 +39933,7 @@ export default [
   {
     "id": "s2peds-2787",
     "category": "Peds vignettes",
-    "q": "8-month-old boy at the 3rd percentile for weight with slanted palpebral fissures, epicanthal folds, single palmar crease, thin upper lip ('fish mouth') and indistinct philtrum. Diagnosis per p201?",
+    "q": "8-month-old boy at the 3rd percentile for weight with slanted palpebral fissures, epicanthal folds, single palmar crease, thin upper lip ('fish mouth') and indistinct philtrum. Diagnosis?",
     "a": "Fetal alcohol syndrome (Psych NBME answer), not Down syndrome. If the vignette sounds like Down syndrome but mentions the philtrum (long, smooth, indistinct), the answer is FAS.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39948,7 +39948,7 @@ export default [
   {
     "id": "s2peds-2788",
     "category": "Peds vignettes",
-    "q": "6M with IQ of 60, small for age, born to a mother aged 41, no other information. Most likely cause of intellectual disability per p201?",
+    "q": "6M with IQ of 60, small for age, born to a mother aged 41, no other information. Most likely cause of intellectual disability?",
     "a": "Down syndrome, not FAS. FAS is the most common cause overall, but if the question wants FAS it mentions the philtrum, and the source says Down syndrome is the most common cause of intellectual disability when the mother is over 40.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39963,7 +39963,7 @@ export default [
   {
     "id": "s2peds-2789",
     "category": "Peds vignettes",
-    "q": "8M with prominent jaw, protruding ears and IQ of 65. Most likely explanation per p201?",
+    "q": "8M with prominent jaw, protruding ears and IQ of 65. Most likely explanation?",
     "a": "A fragile site on the X chromosome: Fragile X (CGG trinucleotide repeat disorder).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39978,7 +39978,7 @@ export default [
   {
     "id": "s2peds-2790",
     "category": "Peds vignettes",
-    "q": "7M with prominent ears, flattened nasal bridge, long philtrum and low IQ. Diagnosis per p201?",
+    "q": "7M with prominent ears, flattened nasal bridge, long philtrum and low IQ. Diagnosis?",
     "a": "Fetal alcohol syndrome, not Fragile X; the question mentions the philtrum.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -39993,7 +39993,7 @@ export default [
   {
     "id": "s2peds-2791",
     "category": "Peds vignettes",
-    "q": "4F with hand wringing, putting objects in her mouth and less eye contact. Diagnosis per p201?",
+    "q": "4F with hand wringing, putting objects in her mouth and less eye contact. Diagnosis?",
     "a": "Rett syndrome; only seen in girls; hyperoralism may reflect cognitive regression (babies put everything in their mouths).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40008,7 +40008,7 @@ export default [
   {
     "id": "s2peds-2792",
     "category": "Peds vignettes",
-    "q": "5M who talks to imaginary friends. Diagnosis per p201?",
+    "q": "5M who talks to imaginary friends. Diagnosis?",
     "a": "Age-appropriate behavior.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40023,7 +40023,7 @@ export default [
   {
     "id": "s2peds-2793",
     "category": "Peds vignettes",
-    "q": "Newborn with multiple joint contractures. Diagnosis per p201?",
+    "q": "Newborn with multiple joint contractures. Diagnosis?",
     "a": "Arthrogryposis (just be aware of this).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40038,7 +40038,7 @@ export default [
   {
     "id": "s2peds-2794",
     "category": "Peds vignettes",
-    "q": "Newborn with clubbed feet. Treatment per p201?",
+    "q": "Newborn with clubbed feet. Treatment?",
     "a": "Serial casting to reposition the feet (followed by minor surgical treatment).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40053,7 +40053,7 @@ export default [
   {
     "id": "s2peds-2795",
     "category": "Peds vignettes",
-    "q": "16M who is belligerent with nystagmus. Treatment per p201?",
+    "q": "16M who is belligerent with nystagmus. Treatment?",
     "a": "Lorazepam (benzodiazepine for PCP toxicity).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40068,7 +40068,7 @@ export default [
   {
     "id": "s2peds-2796",
     "category": "Peds vignettes",
-    "q": "16M with mutism and constricted pupils. Diagnosis per p201?",
+    "q": "16M with mutism and constricted pupils. Diagnosis?",
     "a": "PCP intoxication (one of the NBME presentations of PCP).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40083,7 +40083,7 @@ export default [
   {
     "id": "s2peds-2797",
     "category": "Peds vignettes",
-    "q": "16M found on the floor in a school bathroom, sluggish, with normal vitals and pupils. Diagnosis per p202?",
+    "q": "16M found on the floor in a school bathroom, sluggish, with normal vitals and pupils. Diagnosis?",
     "a": "Butane toxicity (inhalant toxicity); a student had this on the actual USMLE.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40098,7 +40098,7 @@ export default [
   {
     "id": "s2peds-2798",
     "category": "Peds vignettes",
-    "q": "14M with ataxia and cognitive decline. Diagnosis per p202?",
+    "q": "14M with ataxia and cognitive decline. Diagnosis?",
     "a": "Glue toxicity, not ethanol.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40113,7 +40113,7 @@ export default [
   {
     "id": "s2peds-2799",
     "category": "Peds vignettes",
-    "q": "14M with dilated pupils and tachycardia. Treatment per p202?",
+    "q": "14M with dilated pupils and tachycardia. Treatment?",
     "a": "Benzodiazepine (cocaine).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40128,7 +40128,7 @@ export default [
   {
     "id": "s2peds-2800",
     "category": "Peds vignettes",
-    "q": "3M with microcytic anemia and a one-month history of poor coordination, anorexia, irritability and apathy. What could have prevented this per p202, and what is the treatment?",
+    "q": "3M with microcytic anemia and a one-month history of poor coordination, anorexia, irritability and apathy. What could have prevented this, and what is the treatment?",
     "a": "Elimination of lead from the child's home; treat with succimer for kids (if lead levels are above 44 ug/dL). Lead can cause microcytic anemia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40143,7 +40143,7 @@ export default [
   {
     "id": "s2peds-2801",
     "category": "Peds vignettes",
-    "q": "14M with dilated pupils, visual hallucinations and staying up all night. Treatment per p202?",
+    "q": "14M with dilated pupils, visual hallucinations and staying up all night. Treatment?",
     "a": "Benzodiazepine (amphetamine).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40158,7 +40158,7 @@ export default [
   {
     "id": "s2peds-2802",
     "category": "Peds vignettes",
-    "q": "2M with blisters on the tongue and mouth. Next best step and diagnosis per p202?",
+    "q": "2M with blisters on the tongue and mouth. Next best step and diagnosis?",
     "a": "Fiberoptic endoscopy; diagnosis is exposure to drain cleaner.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40173,7 +40173,7 @@ export default [
   {
     "id": "s2peds-2803",
     "category": "Peds vignettes",
-    "q": "16F found by mom 20 minutes ago after consuming a bottle of aspirin in a suicide attempt, lethargic. What acid-base disturbance does she have per p202?",
+    "q": "16F found by mom 20 minutes ago after consuming a bottle of aspirin in a suicide attempt, lethargic. What acid-base disturbance does she have?",
     "a": "Mixed metabolic acidosis and respiratory alkalosis. The presumption is we do not know how long ago she ingested and the lethargy might imply the acidosis has taken effect (acutely, salicylate toxicity causes isolated respiratory alkalosis). Another question wants the literal values for mixed: normal Na, normal K, normal Cl, low bicarb, low CO2, normal or low pH.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40188,7 +40188,7 @@ export default [
   {
     "id": "s2peds-2804",
     "category": "Peds vignettes",
-    "q": "Treatment for aspirin toxicity per p202, and why?",
+    "q": "Treatment for aspirin toxicity, and why?",
     "a": "Bicarbonate: increases excretion via urinary alkalinization, because the deprotonated (negatively charged) salicylate form cannot be reabsorbed through the tubular walls.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40203,7 +40203,7 @@ export default [
   {
     "id": "s2peds-2805",
     "category": "Peds vignettes",
-    "q": "16F with long history of depression on a new medication, large pupils, dry skin and QT changes on ECG. Treatment and mechanism per p202?",
+    "q": "16F with long history of depression on a new medication, large pupils, dry skin and QT changes on ECG. Treatment and mechanism?",
     "a": "Sodium bicarbonate; treatment for TCA toxicity. It causes dissociation of the TCA from myocardial sodium channels. TCA is basic, not acidic (in contrast to salicylates), so bicarb actually decreases urinary excretion, but the mechanism as an antidote is different. TCAs cause CCC: coma, convulsions, cardiotoxicity, plus anticholinergic, anti-alpha-1-adrenergic and anti-H1-histaminergic side effects.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40218,7 +40218,7 @@ export default [
   {
     "id": "s2peds-2806",
     "category": "Peds vignettes",
-    "q": "Caput succedaneum per p202-p203: what is it and how long does it last?",
+    "q": "Caput succedaneum per the source-the source: what is it and how long does it last?",
     "a": "Poorly defined soft tissue edema of the scalp, caused by pressure of the fetal scalp against the cervix during parturition (transient decreased blood flow and reactive edema); crosses suture lines; can be purplish like cephalohematoma (do not use color to distinguish); complications rare; disappears in hours to a few days.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40233,7 +40233,7 @@ export default [
   {
     "id": "s2peds-2807",
     "category": "Peds vignettes",
-    "q": "Cephalohematoma per p203: what is it and how does it differ from caput?",
+    "q": "Cephalohematoma: what is it and how does it differ from caput?",
     "a": "Well-defined, localized, fluctuant swelling from subperiosteal hemorrhage (Peds NBME answer: blood under the periosteum of the parietal bone); does not cross suture lines; may be associated with underlying skull fracture, clotting disorders and jaundice; disappears in weeks to months.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40248,7 +40248,7 @@ export default [
   {
     "id": "s2peds-2808",
     "category": "Peds vignettes",
-    "q": "Name the classic five findings in neonates of diabetic mothers per p203.",
+    "q": "What are the classic five findings in neonates of diabetic mothers?",
     "a": "Hypoglycemia, hypocalcemia, hypomagnesemia, hyperbilirubinemia and polycythemia. The baby is also often large (over 4000 g; macrosomia).",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40263,7 +40263,7 @@ export default [
   {
     "id": "s2peds-2809",
     "category": "Peds vignettes",
-    "q": "Neonate of a diabetic mom with hypoglycemia. What is the mechanism per p203?",
+    "q": "Neonate of a diabetic mom with hypoglycemia. What is the mechanism?",
     "a": "Increased insulin secretion: high maternal glucose crosses the placenta and drives high neonatal insulin; maternal insulin does not cross the placenta. Hypoglycemia is also the answer if the neonate is described as jittery.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40278,7 +40278,7 @@ export default [
   {
     "id": "s2peds-2810",
     "category": "Peds vignettes",
-    "q": "Neonate of a diabetic mom with QT interval changes. Which electrolyte abnormality per p203?",
+    "q": "Neonate of a diabetic mom with QT interval changes. Which electrolyte abnormality?",
     "a": "Hypocalcemia.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40293,7 +40293,7 @@ export default [
   {
     "id": "s2peds-2811",
     "category": "Peds vignettes",
-    "q": "Why is hypomagnesemia relevant in a neonate of a diabetic mom per p203?",
+    "q": "Why is hypomagnesemia relevant in a neonate of a diabetic mom?",
     "a": "Just be aware it is possible; hypomagnesemia can cause hypocalcemia and/or hypokalemia refractory to supplementation. This is better established in adult alcoholics who are dietary Mg deficient but can theoretically be applied to pediatrics.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40308,7 +40308,7 @@ export default [
   {
     "id": "s2peds-2812",
     "category": "Peds vignettes",
-    "q": "Neonate of a diabetic mom with hyperbilirubinemia per p203: what is the risk?",
+    "q": "Neonate of a diabetic mom with hyperbilirubinemia: what is the risk?",
     "a": "Increased risk for jaundice and kernicterus.",
     "source": {
       "title": "Mehlman HY Pediatrics",
@@ -40323,7 +40323,7 @@ export default [
   {
     "id": "s2peds-2813",
     "category": "Peds vignettes",
-    "q": "Polycythemia in neonates of diabetic mothers per p203: what is normal and what is the definition?",
+    "q": "Polycythemia in neonates of diabetic mothers: what is normal and what is the definition?",
     "a": "Increased RBC turnover is normal in neonates as fetal Hb declines and adult Hb rises; physiologic jaundice questions often give Hct in the low 50s% as normal. Polycythemia in neonates is defined as venous Hct above 65%.",
     "source": {
       "title": "Mehlman HY Pediatrics",

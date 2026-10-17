@@ -4577,7 +4577,7 @@ export default [
   {
     "id": "s2fm-0381",
     "category": "Dermatology",
-    "q": "Identify this annular skin lesion and the treatment class described.",
+    "q": "What is this annular skin lesion, and what treatment class is described?",
     "a": "Tinea corporis, or ringworm. A topical antifungal such as clotrimazole or miconazole is described.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -4645,7 +4645,7 @@ export default [
   {
     "id": "s2fm-0385",
     "category": "Dermatology",
-    "q": "Identify the inflammatory facial eruption shown.",
+    "q": "What is the inflammatory facial eruption shown?",
     "a": "Acne vulgaris. The source names topical retinoids, benzoyl peroxide and selected antibiotic therapy as options; oral isotretinoin is reserved for severe disease.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -4676,7 +4676,7 @@ export default [
   {
     "id": "s2fm-0387",
     "category": "Dermatology",
-    "q": "Identify this annular facial eruption and its treatment class.",
+    "q": "What is this annular facial eruption, and what is its treatment class?",
     "a": "Tinea faciei. A topical antifungal such as an azole is described.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -4799,7 +4799,7 @@ export default [
   {
     "id": "s2fm-0396",
     "category": "Dermatology",
-    "q": "An unvaccinated febrile child has these buccal lesions followed by a head-to-toe rash. Name the lesions and infection.",
+    "q": "An unvaccinated febrile child has these buccal lesions followed by a head-to-toe rash. What are the lesions and the infection?",
     "a": "Koplik spots, associated with measles (rubeola).",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -5043,7 +5043,7 @@ export default [
   {
     "id": "s2fm-0414",
     "category": "Dermatology",
-    "q": "Identify the transverse white nail lines shown and the toxic exposure emphasized.",
+    "q": "What are the transverse white nail lines shown, and what toxic exposure is emphasized?",
     "a": "Mees lines, described with arsenic toxicity. Nail lines alone are not specific to arsenic.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -5184,7 +5184,7 @@ export default [
   {
     "id": "s2fm-0425",
     "category": "Dermatology",
-    "q": "Identify the depigmented eruption and its autoimmune mechanism.",
+    "q": "What is the depigmented eruption shown, and what is its autoimmune mechanism?",
     "a": "Vitiligo, associated with immune-mediated melanocyte destruction. Other autoimmune disorders may coexist.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -5360,7 +5360,7 @@ export default [
   {
     "id": "s2fm-0438",
     "category": "Dermatology",
-    "q": "Identify this velvety hyperpigmented neck eruption and its common metabolic association.",
+    "q": "What is this velvety hyperpigmented neck eruption, and what is its common metabolic association?",
     "a": "Acanthosis nigricans, commonly associated with hyperinsulinemia and insulin resistance.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -5770,7 +5770,7 @@ export default [
   {
     "id": "s2fm-0470",
     "category": "Neurology",
-    "q": "Agraphia, acalculia, finger agnosia and left-right confusion occur after a stroke. Name the syndrome and region.",
+    "q": "After a stroke, a patient has agraphia, acalculia, finger agnosia and left-right confusion. What is the syndrome and affected region?",
     "a": "Gerstmann syndrome, associated with the dominant angular gyrus.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -8731,7 +8731,7 @@ export default [
   {
     "id": "s2fm-0707",
     "category": "Ophthalmology",
-    "q": "Identify the ocular cranial-nerve palsies labeled A, B and C.",
+    "q": "What are the ocular cranial-nerve palsies labeled A, B and C?",
     "a": "A: CN III, down-and-out eye. B: CN IV, impaired superior-oblique function with compensatory head tilt. C: CN VI, failure of abduction. The diagram simplifies the full muscle actions.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -8819,7 +8819,7 @@ export default [
   {
     "id": "s2fm-0714",
     "category": "Ophthalmology",
-    "q": "Identify the hemorrhagic fundus finding shown.",
+    "q": "What is the hemorrhagic fundus finding shown?",
     "a": "Vitreous hemorrhage. Diabetes is an important risk context emphasized in the source.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -8903,7 +8903,7 @@ export default [
   {
     "id": "s2fm-0720",
     "category": "Ophthalmology",
-    "q": "Identify this yellow eyelid lipid deposit.",
+    "q": "What is this yellow eyelid lipid deposit?",
     "a": "Xanthelasma. It can occur with dyslipidemia or without a recognized lipid disorder.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -8916,7 +8916,7 @@ export default [
   {
     "id": "s2fm-0721",
     "category": "Ophthalmology",
-    "q": "Identify the peripheral corneal lipid ring shown.",
+    "q": "What is the peripheral corneal lipid ring shown?",
     "a": "Corneal arcus. It can be age-related, particularly in older adults.",
     "source": {
       "title": "Mehlman HY Family Medicine",
@@ -12735,7 +12735,7 @@ export default [
     "id": "s2fm-1026",
     "category": "Endocrine",
     "q": "What is the source mechanism of transient hCG-related thyrotoxicosis in early pregnancy?",
-    "a": "hCG can stimulate the TSH receptor; this is distinct from autoimmune Graves disease.",
+    "a": "HCG can stimulate the TSH receptor; this is distinct from autoimmune Graves disease.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 273,
@@ -13264,7 +13264,7 @@ export default [
     "id": "s2fm-1067",
     "category": "Hematology",
     "q": "How do PT and aPTT typically appear in isolated hemophilia?",
-    "a": "aPTT can be prolonged with a normal PT. Platelet function is not the primary defect.",
+    "a": "APTT can be prolonged with a normal PT. Platelet function is not the primary defect.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 289,
@@ -14604,7 +14604,7 @@ export default [
     "id": "s2fm-1172",
     "category": "Oral lesions",
     "q": "What EBV-associated lateral-tongue lesion does the source illustrate?",
-    "a": "Oral hairy leukoplakia, which the source distinguishes from premalignant conventional leukoplakia.",
+    "a": "Oral hairy leukoplakia, which source distinguishes from premalignant conventional leukoplakia.",
     "img": "/s2img/fm-59-1.png",
     "alt": "Figure from the source PDF",
     "source": {
@@ -17153,7 +17153,7 @@ export default [
     "id": "s2fm-1374",
     "category": "Cardiology source details",
     "q": "What autoantibody pairing does the PDF associate with EGPA?",
-    "a": "pANCA/anti-MPO, in its asthma-plus-eosinophilia discussion. This is an association, not a requirement that every patient test positive.",
+    "a": "PANCA/anti-MPO, in its asthma-plus-eosinophilia discussion. This is an association, not a requirement that every patient test positive.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 25,
@@ -27956,7 +27956,7 @@ export default [
     "id": "s2fm-2254",
     "category": "Rapid-review source details",
     "q": "Why can early-pregnancy hCG produce transient thyrotoxicosis in the source?",
-    "a": "hCG can stimulate the TSH receptor at high concentrations. Sharing the alpha subunit is a mnemonic, not proof every glycoprotein hormone has the same receptor action.",
+    "a": "HCG can stimulate the TSH receptor at high concentrations. Sharing the alpha subunit is a mnemonic, not proof every glycoprotein hormone has the same receptor action.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 273,
@@ -35835,7 +35835,7 @@ export default [
     "id": "s2fm-2823",
     "category": "Neurology exact-source review",
     "q": "What mottled vascular skin pattern does the PDF connect with cryoglobulinemia?",
-    "a": "Livedo reticularis, which the source itself says has many possible causes.",
+    "a": "Livedo reticularis, which source itself says has many possible causes.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 141,
@@ -38605,7 +38605,7 @@ export default [
     "id": "s2fm-3040",
     "category": "Diabetes and acid-base finer details",
     "q": "What normal acid-base reference ranges does the source print?",
-    "a": "pH 7.35-7.45, bicarbonate 22-28 mEq/L and PCO2 33-44 mmHg. Interpret laboratory-specific reference ranges and the clinical setting.",
+    "a": "PH 7.35-7.45, bicarbonate 22-28 mEq/L and PCO2 33-44 mmHg. Interpret laboratory-specific reference ranges and the clinical setting.",
     "source": {
       "title": "Mehlman HY Family Medicine",
       "page": 255,

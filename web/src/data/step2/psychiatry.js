@@ -2247,7 +2247,7 @@ export default [
     "id": "s2psy-0164",
     "category": "Child safety and development",
     "q": "Which play patterns, imaginary-friend ages and death questions are normal in the source list?",
-    "a": "Parallel play at two to three years, cooperative play at three to four; imaginary friends at four to six and repeated questions about death at eight to ten. Its imaginary-friend example is not psychosis solely because of the pretend companion. The rapid p46 examples use a five-year-old with imaginary friends and a seven-year-old asking repeatedly about death, both called age-appropriate; the age examples differ from the earlier list.",
+    "a": "Parallel play at two to three years, cooperative play at three to four; imaginary friends at four to six and repeated questions about death at eight to ten. Its imaginary-friend example is not psychosis solely because of the pretend companion. The rapid the source examples use a five-year-old with imaginary friends and a seven-year-old asking repeatedly about death, both called age-appropriate; the age examples differ from the earlier list.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 16,
@@ -4417,7 +4417,7 @@ export default [
     "id": "s2psy-0322",
     "category": "Delirium and substances",
     "q": "What CCC mnemonic, ECG clue and toxidrome does the PDF attach to TCA overdose?",
-    "a": "Coma, convulsions and cardiotoxicity; a prolonged QT is its emphasized ECG clue. It also lists anticholinergic delirium, hot/red/dry skin and dilated pupils. The QT focus omits other important conduction findings. The rapid p53 treatment answer is sodium bicarbonate, described as promoting dissociation of TCA from myocardial sodium channels.",
+    "a": "Coma, convulsions and cardiotoxicity; a prolonged QT is its emphasized ECG clue. It also lists anticholinergic delirium, hot/red/dry skin and dilated pupils. The QT focus omits other important conduction findings. The rapid the source treatment answer is sodium bicarbonate, described as promoting dissociation of TCA from myocardial sodium channels.",
     "source": {
       "title": "Mehlman HY Psych",
       "page": 29,
