@@ -5335,5 +5335,346 @@ export default [
       "page": 78,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
     }
+  },
+  {
+    "id": "s2obgyn-0484",
+    "category": "OB Rapid Review",
+    "q": "Neural crest rule of thumb per p79?",
+    "a": "If you have no idea, neural crest is usually correct (the source's estimate: at least 3/4 of such questions). Failure of neural crest migration: heart defects in DiGeorge and fetal alcohol syndrome, and Hirschsprung disease. Neural crest tumors/conditions: pheochromocytoma, melanoma, NF1/NF2.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 79,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2obgyn-0485",
+    "category": "OB Rapid Review",
+    "q": "Craniopharyngioma and thyroglossal duct cyst origins per p79?",
+    "a": "Craniopharyngioma: Rathke pouch (roof of primitive pharynx), ectoderm. Thyroglossal duct cyst: endoderm of the foramen cecum (base of tongue); the thyroid descends from there.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 79,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2obgyn-0486",
+    "category": "OB Rapid Review",
+    "q": "CAP rule per p79?",
+    "a": "Clefts (grooves) become ectoderm; arches become mesoderm; pouches become endoderm.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 79,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2obgyn-0487",
+    "category": "OB Rapid Review",
+    "q": "Highest-yield germ layer derivatives per p79?",
+    "a": "Ectoderm: skin and anal canal below the pectinate line. Mesoderm: muscle, connective tissue, spleen, kidneys. Endoderm: esophagus and GI lining to the pectinate line; parathyroids and thymus.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 79,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2obgyn-0488",
+    "category": "OB Rapid Review",
+    "q": "3rd and 4th pharyngeal pouches per p79?",
+    "a": "3rd: inferior parathyroids + thymus. 4th: superior parathyroids. Agenesis in DiGeorge.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 79,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2obgyn-0489",
+    "category": "OB Rapid Review",
+    "q": "Pharyngeal arches 1-3 per p79?",
+    "a": "Arch 1: CN V (muscles of mastication). Arch 2: CN VII (facial expression, stapedius, platysma). Arch 3: CN IX (stylopharyngeus).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 79,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=79"
+    }
+  },
+  {
+    "id": "s2obgyn-0490",
+    "category": "OB Rapid Review",
+    "q": "Pharyngeal arches 4 and 6 per p80?",
+    "a": "Arch 4: superior laryngeal nerve of CN X (cricothyroid). Arch 6: recurrent laryngeal nerve of CN X (laryngeal muscles except cricothyroid). Arch 5: no major contributions.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0491",
+    "category": "OB Rapid Review",
+    "q": "Foregut per p80?",
+    "a": "Supplied by the celiac trunk (T12); esophagus to the 1st part of the duodenum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0492",
+    "category": "OB Rapid Review",
+    "q": "Midgut per p80?",
+    "a": "Supplied by the SMA (L1); 2nd part of the duodenum to the distal 2/3 of the transverse colon.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0493",
+    "category": "OB Rapid Review",
+    "q": "Hindgut per p80?",
+    "a": "Supplied by the IMA (L3); last third of the transverse colon to the anal canal at the pectinate line.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0494",
+    "category": "OB Rapid Review",
+    "q": "L2 branches per p80?",
+    "a": "Renal arteries and gonadal arteries come off at L2, between the SMA and IMA.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0495",
+    "category": "OB Rapid Review",
+    "q": "Spleen factoid per p80?",
+    "a": "The source's answer for 'supplied by a foregut artery but not derived from the foregut': spleen (celiac supply; the source calls it midgut-derived).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0496",
+    "category": "OB Rapid Review",
+    "q": "Malformation per p80?",
+    "a": "Developmental defect from genetics or teratogens (e.g., cleft lip, polygenic; heart defect).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0497",
+    "category": "OB Rapid Review",
+    "q": "Deformation per p80?",
+    "a": "Defect from extrinsic or mechanical force (e.g., clubbed feet in Potter sequence from oligohydramnios).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0498",
+    "category": "OB Rapid Review",
+    "q": "Disruption per p80?",
+    "a": "Distortion of previously normal tissue (e.g., amniotic band syndrome).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 80,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=80"
+    }
+  },
+  {
+    "id": "s2obgyn-0499",
+    "category": "OB Rapid Review",
+    "q": "Teratogens summary 1 per p81?",
+    "a": "Lithium: Ebstein anomaly (tiny right ventricle, massive right atrium). Valproate, phenytoin, carbamazepine: neural tube defects, especially valproate. Isotretinoin: cleft lip/palate; check b-hCG before starting in any woman. Warfarin: bone anomalies or fetal bleeding.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 81,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2obgyn-0500",
+    "category": "OB Rapid Review",
+    "q": "Teratogens summary 2 per p81?",
+    "a": "Fluoroquinolones: cartilage abnormalities. ACE inhibitors: renal defects. Aminoglycosides: congenital hearing loss. DES: vaginal clear cell carcinoma. Alcohol: fetal alcohol syndrome (long smooth philtrum, hypertelorism, heart/lung defects; most common cause of intellectual disability). Cocaine and smoking: IUGR from reduced blood flow.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 81,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2obgyn-0501",
+    "category": "OB Rapid Review",
+    "q": "Placental components per p81?",
+    "a": "Fetal trophoblast (syncytiotrophoblast deep, cytotrophoblast superficial) and maternal decidua.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 81,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2obgyn-0502",
+    "category": "OB Rapid Review",
+    "q": "hCG and the corpus luteum per p81?",
+    "a": "The syncytiotrophoblast secretes hCG, maintaining the corpus luteum, which makes progesterone. hCG peaks at 8-10 weeks, when the placenta takes over progesterone.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 81,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2obgyn-0503",
+    "category": "OB Rapid Review",
+    "q": "Fetal-maternal circulation per p81?",
+    "a": "They do not mix; gas and nutrients exchange across the placenta. HbF (alpha2 gamma2) has stronger oxygen affinity than HbA (alpha2 beta2). IgG crosses the placenta; IgA is passed through breast milk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 81,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=81"
+    }
+  },
+  {
+    "id": "s2obgyn-0504",
+    "category": "OB Rapid Review",
+    "q": "Polyhydramnios causes per p82?",
+    "a": "Maternal diabetes (high glucose crosses, fetal polyuria); fetal anencephaly or tracheoesophageal fistula.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 82,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2obgyn-0505",
+    "category": "OB Rapid Review",
+    "q": "Oligohydramnios causes per p82?",
+    "a": "Uteroplacental insufficiency (maternal smoking/cocaine, SLE with antiphospholipid syndrome); fetal Potter sequence or posterior urethral valves (decreased urination).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 82,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2obgyn-0506",
+    "category": "OB Rapid Review",
+    "q": "Twinning basics per p82?",
+    "a": "Number of placentas = number of chorions; number of amnions = number of yolk sacs. Yolk sac from hypoblast; amnion from epiblast.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 82,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2obgyn-0507",
+    "category": "OB Rapid Review",
+    "q": "Twin splitting timing per p82?",
+    "a": "Days 0-4: dichorionic-diamniotic (two placentas, thick dividing membrane). Days 5-8: monochorionic-diamniotic (one placenta, two amniotic sacs, no thick membrane). Days 9-12: monochorionic-monoamniotic (one placenta and yolk sac; greatest twin-twin transfusion risk). After day 12: conjoined twins.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 82,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2obgyn-0508",
+    "category": "OB Rapid Review",
+    "q": "Umbilical cord contents per p82?",
+    "a": "One umbilical vein (oxygenated), two umbilical arteries (deoxygenated; from fetal internal iliac arteries), and the allantois, surrounded by Wharton jelly.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 82,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2obgyn-0509",
+    "category": "OB Rapid Review",
+    "q": "Allantois per p82?",
+    "a": "Tube carrying fetal urine from the bladder through the cord to the placenta.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 82,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=82"
+    }
+  },
+  {
+    "id": "s2obgyn-0510",
+    "category": "OB Rapid Review",
+    "q": "Urachus per p83?",
+    "a": "The part of the allantois inside the fetal body (bladder to umbilicus); closes after birth as the median umbilical ligament. Patent urachus, urachal cyst or diverticulum: e.g., urine from the umbilicus.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 83,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2obgyn-0511",
+    "category": "OB Rapid Review",
+    "q": "Vitelline duct per p83?",
+    "a": "Omphalomesenteric duct connecting midgut lumen and yolk sac; incomplete obliteration causes Meckel diverticulum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 83,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2obgyn-0512",
+    "category": "OB Rapid Review",
+    "q": "Cleft lip and palate per p83?",
+    "a": "Polygenic/multifactorial; recurrence after one affected child 3-4% (similar to ASD/VSD and pyloric stenosis). Cleft lip: failure of fusion of maxillary and medial nasal processes. Cleft palate: failure of fusion of lateral palatine shelves.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 83,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2obgyn-0513",
+    "category": "OB Rapid Review",
+    "q": "Mullerian and Wolffian ducts per p83?",
+    "a": "Mullerian (paramesonephric): fallopian tubes, uterus, upper vagina. Wolffian (mesonephric): SEED - seminiferous tubules, epididymis, ejaculatory duct, ductus deferens.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 83,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=83"
+    }
+  },
+  {
+    "id": "s2obgyn-0514",
+    "category": "OB Rapid Review",
+    "q": "Male differentiation cascade per p83?",
+    "a": "SRY gives testis-determining factor, so testes form (90% seminiferous tubules). Leydig cells make testosterone (Wolffian structures), converted to DHT by 5-alpha-reductase (prostate and external male structures).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 83,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=83"
+    }
   }
 ];
