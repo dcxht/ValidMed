@@ -4242,5 +4242,269 @@ export default [
       "page": 65,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=65"
     }
+  },
+  {
+    "id": "s2obgyn-0385",
+    "category": "OB Labor",
+    "q": "Braxton Hicks contractions per p66?",
+    "a": "Second or usually third trimester; irregular, infrequent, subside with activity or position change, do not increase in intensity or duration.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0386",
+    "category": "OB Labor",
+    "q": "True labor contractions per p66?",
+    "a": "Regular intervals with increasing frequency, duration and intensity; cervical effacement and dilation; persist despite movement; often with ROM or bloody show.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0387",
+    "category": "OB Labor",
+    "q": "Latent phase of stage 1 per p66?",
+    "a": "Cervix 0-6 cm (the old cutoff was 4); long: up to 20 hours in nulliparas, 14 in multiparas. Protracted: <1 cm over 4-6 hours despite regular contractions. Arrest: no change over 6 hours.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0388",
+    "category": "OB Labor",
+    "q": "Active phase of stage 1 per p66?",
+    "a": "6-10 cm; faster: >1.2 cm/hr nulliparas, >1.5 cm/hr multiparas. Arrest: no cervical change over >2 hours.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0389",
+    "category": "OB Labor",
+    "q": "Second stage of labor per p66?",
+    "a": "Full dilation (10 cm) to delivery of the fetus. Nulliparas: 4 hours with epidural, 3 without. Multiparas: 3 with, 2 without. Arrest: no head descent for 1 hour despite adequate contractions.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0390",
+    "category": "OB Labor",
+    "q": "Vacuum versus forceps per p66?",
+    "a": "Vacuum raises caput succedaneum and cephalohematoma risk; forceps raises fetal cranial nerve or sternocleidomastoid injury (congenital muscular torticollis).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0391",
+    "category": "OB Labor",
+    "q": "Third stage of labor per p66?",
+    "a": "Delivery of the placenta, 5-30 minutes; prolonged >30 minutes. Check all lobes are present; immediate uterine massage lowers atony bleeding risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0392",
+    "category": "OB Rupture of Membranes",
+    "q": "PROM versus PPROM per p66?",
+    "a": "PROM: rupture before labor at >37 weeks. PPROM: <37 weeks. Confirm with pooling, nitrazine paper, ferning.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0393",
+    "category": "OB Rupture of Membranes",
+    "q": "PROM management per p66?",
+    "a": "Infection risk rises if >18 hours: prophylactic IV ampicillin, penicillin or erythromycin. PROM at term: usually delivery. PPROM: balance gestational age against infection risk; <24 weeks, usually maintain the pregnancy while monitoring.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 66,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=66"
+    }
+  },
+  {
+    "id": "s2obgyn-0394",
+    "category": "OB Rupture of Membranes",
+    "q": "Fetal fibronectin per p67?",
+    "a": "Chorion protein acting as glue to the uterus; presence in vaginal secretions at 22-34 weeks suggests higher preterm birth risk within a week or two; positive = higher risk, negative = lower.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 67,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2obgyn-0395",
+    "category": "OB Rupture of Membranes",
+    "q": "Nitrazine paper per p67?",
+    "a": "Detects amniotic fluid for ROM: normal vaginal pH 4.5-6.0, amniotic fluid >7.1; paper turns yellow/orange to blue.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 67,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2obgyn-0396",
+    "category": "OB Rupture of Membranes",
+    "q": "Ferning pattern per p67?",
+    "a": "Dried amniotic fluid salts form fern leaves on light microscopy; used with nitrazine because cervical mucus can also fern (low specificity).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 67,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2obgyn-0397",
+    "category": "OB Neonatal Scalp",
+    "q": "Caput succedaneum per p67?",
+    "a": "Soft, puffy scalp swelling soon after delivery that can cross suture lines; benign; resolves in days.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 67,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2obgyn-0398",
+    "category": "OB Neonatal Scalp",
+    "q": "Cephalohematoma per p67?",
+    "a": "Blood between the skull and periosteum; raised, fluctuant, confined to suture lines; usually from vacuum or forceps; resolves in weeks to months; raises jaundice risk as blood is reabsorbed.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 67,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2obgyn-0399",
+    "category": "OB Sheehan",
+    "q": "Sheehan syndrome cause per p67?",
+    "a": "The pituitary enlarges in pregnancy; traumatic labor with blood loss (e.g., C-section) raises the risk of anterior pituitary ischemic infarction.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 67,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=67"
+    }
+  },
+  {
+    "id": "s2obgyn-0400",
+    "category": "OB Sheehan",
+    "q": "Sheehan syndrome picture per p68?",
+    "a": "Cannot breastfeed (low milk) after labor with low BP; USMLE wants all anterior pituitary hormones low. NBME: low prolactin, ACTH, TSH, with aldosterone slightly higher (source's hypothesis: low cortisol lowers BP, so aldosterone compensates). Fatigue from secondary hypothyroidism.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 68,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2obgyn-0401",
+    "category": "OB Cardiovascular DDx",
+    "q": "Amniotic fluid embolism per p68?",
+    "a": "Acute shortness of breath and tachycardia 30 seconds to 2 minutes after placental delivery; fluid enters pulmonary arterioles; can cause DIC with bleeding from IV sites; supportive treatment.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 68,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2obgyn-0402",
+    "category": "OB Cardiovascular DDx",
+    "q": "Pulmonary embolism after C-section per p68?",
+    "a": "Acute dyspnea and tachycardia two days post-C-section on getting up. Heparin first, then CT chest/CT angiography. In pregnancy do V/Q first (less radiation); if V/Q shows segmental perfusion defects and a next step is forced, CT chest.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 68,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2obgyn-0403",
+    "category": "OB Cardiovascular DDx",
+    "q": "Peripartum cardiomyopathy per p68?",
+    "a": "Dilated cardiomyopathy in the 3rd trimester or first months postpartum; possibly autoantibody-mediated; progressive exertional dyspnea, JVD, pitting edema; worsens with each pregnancy. Diagnose with transthoracic echo (low EF; normal 55-70%); echo also assesses risk in future pregnancies.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 68,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2obgyn-0404",
+    "category": "OB Cardiovascular DDx",
+    "q": "Normal peripheral edema in pregnancy per p68?",
+    "a": "Higher plasma volume plus uterine compression of pelvic veins and IVC raise venous hydrostatic pressure.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 68,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2obgyn-0405",
+    "category": "OB Cardiovascular DDx",
+    "q": "IVC compression syndrome per p68?",
+    "a": "3rd trimester: lightheadedness, nausea, palpitations, dyspnea, BP drop when supine; uterus compresses the IVC, lowering venous return. Left-lateral decubitus helps.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 68,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2obgyn-0406",
+    "category": "OB Cardiovascular DDx",
+    "q": "Atelectasis per p68?",
+    "a": "Lung/alveolar collapse; the most common cause of fever within 24 hours after surgery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 68,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=68"
+    }
+  },
+  {
+    "id": "s2obgyn-0407",
+    "category": "OB Cardiovascular DDx",
+    "q": "Atelectasis exceptions and mechanism per p69?",
+    "a": "One 2CK Q is two days after C-section. Pain meds and sedation give slower, shallower breathing (breathing exercises help). Bibasilar opacities on CXR with fever the day after surgery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 69,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=69"
+    }
+  },
+  {
+    "id": "s2obgyn-0408",
+    "category": "OB Cardiovascular DDx",
+    "q": "Obstructive atelectasis per p69?",
+    "a": "Lung distal to an obstruction (e.g., tumor) collapses and is prone to pneumonia. 2CK answer for collapse in lung cancer: endobronchial obstruction (not vascular occlusion by tumor).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 69,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=69"
+    }
   }
 ];
