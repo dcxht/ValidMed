@@ -7341,5 +7341,449 @@ export default [
       "page": 106,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=106"
     }
+  },
+  {
+    "id": "s2obgyn-0666",
+    "category": "OB Vignettes",
+    "q": "Chronic interstitial cystitis per p107?",
+    "a": "16F, anterior vaginal wall pain and dysuria for 6 months, normal urinalysis: chronic interstitial cystitis; supportive; no steroids.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0667",
+    "category": "OB Vignettes",
+    "q": "Appendicitis in pregnancy per p107?",
+    "a": "Can be RUQ; laparoscopic appendectomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0668",
+    "category": "OB Vignettes",
+    "q": "b-hCG in mole versus ectopic per p107?",
+    "a": "Very high in a mole; low in ectopic (and slow rise). Hundreds of thousands with stroke-like presentation: choriocarcinoma (brain metastases; also lungs).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0669",
+    "category": "OB Vignettes",
+    "q": "Pregnancy seen in the cornu or parametrium per p107?",
+    "a": "The source's vignettes (written 'corneum' and 'parametrium of the uterus'): ectopic pregnancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0670",
+    "category": "OB Vignettes",
+    "q": "Ectopic location and cause per p107?",
+    "a": "Most common location: ampulla; most common etiology: history of PID (tubal scarring). Treatment: laparoscopic salpingostomy/salpingectomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0671",
+    "category": "OB Vignettes",
+    "q": "Methotrexate criteria for ectopic per p107?",
+    "a": "All must be met per this section: b-hCG <6,000, <3 cm, no fetal heart rate detectable, no cul-de-sac fluid, stable vitals (p57 gave <5000 and <3.5 cm).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0672",
+    "category": "OB Vignettes",
+    "q": "PID treatment per p107?",
+    "a": "Chlamydia/gonorrhea: IM ceftriaxone plus oral azithromycin or doxycycline; septic (2+ SIRS): admit for IV antibiotics. Fever persisting after days of antibiotics: adnexal ultrasound for tubo-ovarian abscess; drain if present.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0673",
+    "category": "OB Vignettes",
+    "q": "Inevitable versus threatened abortion per p107?",
+    "a": "Inevitable: bleeding + open cervix (vacuum aspiration). Threatened: bleeding + closed cervix (bed rest).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0674",
+    "category": "OB Vignettes",
+    "q": "Incomplete versus complete versus missed abortion per p107?",
+    "a": "9 weeks, bleeding and clots with an intrauterine pregnancy on ultrasound: incomplete. Complete: no products seen. Missed: fetal demise without passage.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0675",
+    "category": "OB Vignettes",
+    "q": "Falling b-hCG after a thickened stripe per p107-108?",
+    "a": "6 weeks, b-hCG 450 then 90 a week later, no fetal pole: spontaneous abortion; next step: a third b-hCG within a week; measure weekly until negative (same for moles).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 107,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=107"
+    }
+  },
+  {
+    "id": "s2obgyn-0676",
+    "category": "OB Vignettes",
+    "q": "Fibroid type vignettes per p108?",
+    "a": "Bleeding with a large smooth uterus: submucosal. No bleeding with a globular uterus: subserosal. Beefy red mass protruding from the vagina: pedunculated submucosal leiomyoma, not cervical cancer (ulcerated, exophytic).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0677",
+    "category": "OB Vignettes",
+    "q": "Asymptomatic fibroids per p108?",
+    "a": "Routine exam, large uterus, leiomyomata on ultrasound: observation; treatment if symptomatic: NSAIDs, OCPs.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0678",
+    "category": "OB Vignettes",
+    "q": "Adenomyosis vignette per p108?",
+    "a": "44F dysmenorrhea, menorrhagia, large smooth uterus without masses on ultrasound: adenomyosis; NSAIDs, OCPs, leuprolide; hysterectomy definitive.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0679",
+    "category": "OB Vignettes",
+    "q": "Thumb abduction weakness in pregnancy per p108?",
+    "a": "30 weeks, bilateral: carpal tunnel syndrome (normal in pregnancy).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0680",
+    "category": "OB Vignettes",
+    "q": "Septic abortion vignette per p108?",
+    "a": "Unintended pregnancy, fever 104 F, discharge, abdominal pain, cervical laceration: septic abortion (attempted self-abortion).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0681",
+    "category": "OB Vignettes",
+    "q": "Chorioamnionitis and endometritis per p108?",
+    "a": "ROM >18 hours with fever: chorioamnionitis; C-section 12 hours ago with fever: postpartum endometritis. Both: ampicillin + gentamicin + clindamycin (amp + gent alone appeared on one shelf Q); polymicrobial.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0682",
+    "category": "OB Vignettes",
+    "q": "Puerperal sepsis per p108?",
+    "a": "Postpartum endometritis with low BP: puerperal sepsis (starts 1-10 days after delivery).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0683",
+    "category": "OB Vignettes",
+    "q": "Bartholin lump per p108?",
+    "a": "4 or 8 o'clock vulvar lump: Bartholin cyst/abscess; warm compresses for cyst, drain abscess; polymicrobial.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 108,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=108"
+    }
+  },
+  {
+    "id": "s2obgyn-0684",
+    "category": "OB Vignettes",
+    "q": "Bartholin abscess complication per p109?",
+    "a": "Most serious complication: necrotizing fasciitis (not gram-positive sepsis; polymicrobial).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0685",
+    "category": "OB Vignettes",
+    "q": "Lichen sclerosus and perineal SCC per p109?",
+    "a": "Grey-white rough vulvar patch: punch biopsy first; steroids if lichen sclerosus, excision if SCC. SCC of perineum in a diabetic: biggest risk factor HPV, not dysglycemia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0686",
+    "category": "OB Vignettes",
+    "q": "Ruptured cyst versus torsion vignettes per p109?",
+    "a": "Sharp adnexal pain, no mass, 10-15 mL serosanguinous cul-de-sac fluid: ruptured (usually corpus luteal) cyst; supportive. History of cyst + pain (weeks or hours) + 6x8 or 8x10 cm adnexal mass: torsion; laparoscopic detorsion.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0687",
+    "category": "OB Vignettes",
+    "q": "Hemorrhagic corpus luteum cyst per p109?",
+    "a": "25F, normal periods, LMP 20 days ago, 5 cm mobile slightly tender right adnexal mass: hemorrhagic corpus luteum cyst (not endometrioma).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0688",
+    "category": "OB Vignettes",
+    "q": "Tampon use with rash and low BP per p109?",
+    "a": "18F, diffuse rash, BP 90/60: toxic shock syndrome (S. aureus).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0689",
+    "category": "OB Vignettes",
+    "q": "Bleeding after intercourse in pregnancy per p109?",
+    "a": "30 weeks, spotting 12 hours after intercourse, normal ultrasound: cervical trauma.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0690",
+    "category": "OB Vignettes",
+    "q": "Flank pain in pregnancy per p109?",
+    "a": "26 weeks, severe flank pain, faint on urinating: urolithiasis (progesterone slows ureteral peristalsis).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0691",
+    "category": "OB Vignettes",
+    "q": "Gallstones in pregnancy mechanism per p109?",
+    "a": "Progesterone slows biliary peristalsis; estrogen increases HMG-CoA reductase activity.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0692",
+    "category": "OB Vignettes",
+    "q": "Recurrent miscarriage with a single kidney per p109?",
+    "a": "Congenital uterine abnormality.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 109,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=109"
+    }
+  },
+  {
+    "id": "s2obgyn-0693",
+    "category": "OB Vignettes",
+    "q": "Simple 5 cm ovarian cyst per p110?",
+    "a": "32F dull right pelvic pain, b-hCG negative: oral contraceptive therapy and a second pelvic exam in 6 weeks (not reassurance with 1-year follow-up).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 110,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2obgyn-0694",
+    "category": "OB Vignettes",
+    "q": "Dysmenorrhea versus endometriosis vignette per p110?",
+    "a": "23F misses classes with painful periods: normal exam = primary dysmenorrhea (PGF2alpha); next step NSAIDs (not a pregnancy test). Uterosacral nodularity: endometriosis; diagnose by laparoscopy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 110,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2obgyn-0695",
+    "category": "OB Vignettes",
+    "q": "Cystic mass with calcification per p110?",
+    "a": "26F dull pelvic pain: dermoid cyst (mature cystic teratoma).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 110,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2obgyn-0696",
+    "category": "OB Vignettes",
+    "q": "Masses caked on the omentum per p110?",
+    "a": "65F: ovarian cancer.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 110,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2obgyn-0697",
+    "category": "OB Vignettes",
+    "q": "Seizure on phenytoin in pregnancy per p110?",
+    "a": "10 weeks, phenytoin level subtherapeutic: increase the dose (seizure causes fetal hypoxia). Valproate wanting pregnancy: stop (neural tube defects); use other antiepileptics.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 110,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2obgyn-0698",
+    "category": "OB Vignettes",
+    "q": "Stress incontinence per p110?",
+    "a": "Many pregnancies, downward vesicourethral junction: decreased external urethral tone (NBME). Treatment: Kegel exercises, then mid-urethral sling.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 110,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2obgyn-0699",
+    "category": "OB Vignettes",
+    "q": "Urge incontinence per p110?",
+    "a": "Detrusor instability; running to the bathroom when putting a key in the door; MS or perimenopause; hot flashes + urge incontinence: estrogen deficiency. Oxybutynin or mirabegron (beta-3 agonist).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 110,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=110"
+    }
+  },
+  {
+    "id": "s2obgyn-0700",
+    "category": "OB Vignettes",
+    "q": "Overflow incontinence per p111?",
+    "a": "High post-void residual (3-400 mL; normal <50). Diabetes: neurogenic bladder, bethanechol. BPH: outlet obstruction, eventually neurogenic bladder.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 111,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2obgyn-0701",
+    "category": "OB Vignettes",
+    "q": "HRT indication per p111?",
+    "a": "The source says only severe vasomotor symptoms (hot flushes, urge incontinence), not bone density; raises thromboembolic and cerebrovascular events; estrogen raises fibrinogen and factor VIII.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 111,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=111"
+    },
+    "guideline": {
+      "text": "NAMS 2022 (linked) still supports hormone therapy for vasomotor symptoms but also describes bone-protection benefits in appropriate women, so the source's 'only' is stricter than current guidance. Source answer stays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35797481/"
+    }
+  },
+  {
+    "id": "s2obgyn-0702",
+    "category": "OB Vignettes",
+    "q": "Atrophic vaginitis vignette per p111?",
+    "a": "57F, blood stains, dyspareunia, atrophic friable mucosa: hypoestrogenic state; lubricants, then topical estrogen. Breastfeeding 25F with dyspareunia and erythematous vagina: lubricant (high prolactin, hypoestrogenic state).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 111,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2obgyn-0703",
+    "category": "OB Vignettes",
+    "q": "HRT and cancer per p111?",
+    "a": "Raises breast cancer risk (not endometrial, because progesterone is included; estrogen-only only after hysterectomy).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 111,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2obgyn-0704",
+    "category": "OB Vignettes",
+    "q": "HRT vignettes per p111?",
+    "a": "Stopped progesterone, now vaginal bleeding: endometrial biopsy. Cyst on ultrasound after self-palpation 3 months into HRT with normal mammogram: FNA of the cyst.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 111,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=111"
+    }
+  },
+  {
+    "id": "s2obgyn-0705",
+    "category": "OB Vignettes",
+    "q": "OCPs and cancer per p111?",
+    "a": "Ovarian risk about halved; endometrial lower; breast no significant change; cervical higher (less barrier protection, more HPV).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 111,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=111"
+    }
   }
 ];
