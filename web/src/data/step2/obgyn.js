@@ -3263,5 +3263,247 @@ export default [
       "page": 52,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
     }
+  },
+  {
+    "id": "s2obgyn-0296",
+    "category": "OB Hemolytic Disease",
+    "q": "Rh isoimmunization per p53?",
+    "a": "An Rh-negative mother (~15%) develops IgG against Rh after exposure to Rh-positive fetal blood. In a later pregnancy the IgG crosses the placenta and hemolyzes fetal Rh-positive RBCs.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0297",
+    "category": "OB Hemolytic Disease",
+    "q": "RhoGAM timing per p53?",
+    "a": "Rh-negative mother: at 28 weeks and at delivery, plus after interventions (amniocentesis) or complications (spontaneous abortion, abruption). Not given if she already has anti-Rh titers in a later pregnancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0298",
+    "category": "OB Hemolytic Disease",
+    "q": "Kleihauer-Betke test per p53?",
+    "a": "Maternal blood smear using HbF's acid resistance to count fetal RBCs after hemorrhage or suspected mixing in Rh-negative women; sets the RhoGAM dose.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0299",
+    "category": "OB Hemolytic Disease",
+    "q": "ABO hemolytic disease per p53?",
+    "a": "O mother (usually first pregnancy, e.g., O+) with an A or B fetus: O mothers have more IgG anti-A/B (most others are IgM), so the fetus can be symptomatic.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0300",
+    "category": "OB Hemolytic Disease",
+    "q": "Kell, Duffy, Kidd hemolytic disease per p53?",
+    "a": "Same isoimmunization process. A+/B+/AB+ mother with fetal hemolysis in a later pregnancy and a high Kell titer: check the father's Kell status.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0301",
+    "category": "OB Diabetes in Pregnancy",
+    "q": "Gestational diabetes screening per p53?",
+    "a": "All women at 24-28 weeks; earlier only if high risk (obesity, family history of type 2 DM, prior macrosomia). Non-fasting 50-g challenge; if 1-hour glucose >130 mg/dL, 100-g OGTT.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0302",
+    "category": "OB Diabetes in Pregnancy",
+    "q": "GDM diagnosis on the 100-g OGTT per p53?",
+    "a": "Two or more: fasting >95, 1 hour >180, 2 hours >155, 3 hours >140 mg/dL.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0303",
+    "category": "OB Diabetes in Pregnancy",
+    "q": "Postpartum follow-up of GDM per p53?",
+    "a": "75-g OGTT at 6-12 weeks postpartum, then diabetes screening yearly (fasting glucose, HbA1c).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 53,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=53"
+    }
+  },
+  {
+    "id": "s2obgyn-0304",
+    "category": "OB Diabetes in Pregnancy",
+    "q": "GDM glycemic control per p54?",
+    "a": "Insulin is the gold standard. Metformin or glyburide can be used, but insulin is preferred; at delivery switch to insulin for tighter control.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 54,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2obgyn-0305",
+    "category": "OB Diabetes in Pregnancy",
+    "q": "GDM delivery complications per p54?",
+    "a": "Macrosomia (>4,000 g) leads to shoulder dystocia. Maternal laceration risk: McRoberts maneuver (hip flexion + suprapubic pressure) and often episiotomy, preventing tears into the perineal body and anal sphincter.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 54,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2obgyn-0306",
+    "category": "OB Diabetes in Pregnancy",
+    "q": "GDM and polyhydramnios per p54?",
+    "a": "Fetal hyperglycemia causes fetal polyuria.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 54,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2obgyn-0307",
+    "category": "OB Diabetes in Pregnancy",
+    "q": "Neonate of a diabetic mother per p54?",
+    "a": "Maternal insulin does not cross the placenta; the fetus makes its own and stays hyperinsulinemic after birth, causing hypoglycemia (rigors, seizure; answer: decreased gluconeogenesis). Possible pentad: hypoglycemia, hyperbilirubinemia, polycythemia, hypocalcemia, hypomagnesemia. Long QT: choose hypocalcemia over hypomagnesemia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 54,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2obgyn-0308",
+    "category": "OB Amniotic Fluid",
+    "q": "Polyhydramnios causes per p54?",
+    "a": "Maternal: GDM, multiple gestation. Fetal: hydrops (Parvo B19, fetal anemia, HDN, heart failure) with increased urine output.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 54,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2obgyn-0309",
+    "category": "OB Amniotic Fluid",
+    "q": "Oligohydramnios causes per p54-55?",
+    "a": "Maternal: uteroplacental insufficiency (smoking, preeclampsia, SLE). Fetal: posterior urethral valves (most common GU abnormality in neonatal males; prostatic urethra valves; obstructive uropathy, reflux, hydronephrosis; male neonate who has not urinated); renal agenesis (Potter sequence).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 54,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=54"
+    }
+  },
+  {
+    "id": "s2obgyn-0310",
+    "category": "OB Amniotic Fluid",
+    "q": "Potter sequence chain per p55?",
+    "a": "Renal agenesis: low urine, low amniotic fluid, less fetal swallowing, pulmonary hypoplasia; also flattened facies and rocker-bottom feet.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2obgyn-0311",
+    "category": "OB Hypertension in Pregnancy",
+    "q": "Antihypertensives in pregnancy per p55?",
+    "a": "Chronic or gestational HTN: methyldopa, labetalol, nifedipine; hydralazine in acute settings.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2obgyn-0312",
+    "category": "OB Hypertension in Pregnancy",
+    "q": "Preeclampsia and eclampsia definitions per p55?",
+    "a": "Preeclampsia: HTN + proteinuria after 20 weeks (the real definition is wider, but 4 of 5 USMLE Qs are HTN + proteinuria). Eclampsia: preeclampsia + seizures. Without that combo, the Q usually gives HELLP.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2obgyn-0313",
+    "category": "OB Hypertension in Pregnancy",
+    "q": "Preeclampsia mechanism per p55?",
+    "a": "Uteroplacental insufficiency (idiopathic or from smoking, SLE); the cardiovascular system forces perfusion, causing systemic HTN.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2obgyn-0314",
+    "category": "OB Hypertension in Pregnancy",
+    "q": "Severe preeclampsia per p55?",
+    "a": "BP >160/110 (either), 3+ proteinuria, or multi-organ involvement (liver enzymes/HELLP; CNS: visual disturbance, headache; lung: pulmonary edema, cyanosis).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2obgyn-0315",
+    "category": "OB Hypertension in Pregnancy",
+    "q": "Magnesium and delivery per p55?",
+    "a": "Magnesium prophylaxis only in severe preeclampsia; with overt eclampsia, first treatment is magnesium. Definitive treatment for both: delivery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2obgyn-0316",
+    "category": "OB Hypertension in Pregnancy",
+    "q": "HELLP syndrome per p55?",
+    "a": "Hemolysis, Elevated Liver enzymes, Low Platelets; severe preeclampsia variant (proteinuria may not be mentioned). Schistocytes from RBC shearing in damaged hepatic microvasculature; low platelets from endothelial damage and microthrombi; schistocytes + thrombocytopenia = MAHA.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
+  },
+  {
+    "id": "s2obgyn-0317",
+    "category": "OB Hypertension in Pregnancy",
+    "q": "SLE and antiphospholipid antibodies in pregnancy per p55-56?",
+    "a": "Microthrombi in uteroplacental vessels cause recurrent miscarriage, IUGR and oligohydramnios; prior miscarriage: low-dose aspirin + LMWH next pregnancy; warfarin avoided (teratogenic). SLE uteroplacental insufficiency also raises preeclampsia risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 55,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
+    }
   }
 ];
