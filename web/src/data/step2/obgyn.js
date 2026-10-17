@@ -4506,5 +4506,236 @@ export default [
       "page": 69,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=69"
     }
+  },
+  {
+    "id": "s2obgyn-0409",
+    "category": "OB Neonatal Lung",
+    "q": "NRDS prevention per p70?",
+    "a": "Giving birth <34 weeks: two boluses of corticosteroids within 24 hours of delivery to accelerate lung maturity. A 33-week mother given a bolus 12 hours ago: next step is another bolus.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0410",
+    "category": "OB Neonatal Lung",
+    "q": "NRDS management sequence per p70?",
+    "a": "Tactile stimulation first, then warming lights, then exogenous surfactant and oxygen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0411",
+    "category": "OB Neonatal Lung",
+    "q": "Transient tachypnea of the newborn per p70?",
+    "a": "NRDS-like picture in a term neonate (>37 weeks), after C-section or fast vaginal delivery; pulmonary lymphatics have not cleared amniotic fluid and no birth-canal squeeze; CXR fluid in fissure lines.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0412",
+    "category": "OB Neonatal Lung",
+    "q": "Bronchopulmonary dysplasia per p70?",
+    "a": "Fibrotic lung disease from continued oxygen; born at 26 weeks, now 4 months on home oxygen, right-axis deviation, increased pulmonary vascularity: RVH/cor pulmonale from pulmonary hypertension. Retinopathy of prematurity also from oxygen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0413",
+    "category": "OB Neonatal Lung",
+    "q": "Meconium aspiration syndrome per p70?",
+    "a": "Meconium plus amniotic fluid aspirated: obstruction, infection, inflammation, dyspnea; dark meconium-stained fluid; highest yield risk factor: post-term birth (>40 weeks).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0414",
+    "category": "OB Neonatal Lung",
+    "q": "Persistent fetal circulation per p70?",
+    "a": "Post-term (42-43 weeks), meconium-stained fluid, echo shows R-to-L shunt across the foramen ovale. Answer for the mechanism: failure of pulmonary vasodilation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0415",
+    "category": "OB Psych",
+    "q": "Depression in pregnancy per p70?",
+    "a": "Sertraline is the first SSRI (lower risk). ECT for suicidal/homicidal ideation or refusing to eat or drink; considered safe for the fetus with precautions.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0416",
+    "category": "OB Psych",
+    "q": "Bipolar disorder in pregnancy per p70?",
+    "a": "Avoid lithium (Ebstein anomaly) and valproic acid (neural tube defects, cognitive impairment). Use lamotrigine, olanzapine or quetiapine.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0417",
+    "category": "OB Psych",
+    "q": "Postpartum blues per p70-71?",
+    "a": "Baby blues: sadness, anxiety, mood swings, insomnia; peaks in week 1; if >10 days think postpartum depression; resolves without intervention; hormonal shifts.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 70,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=70"
+    }
+  },
+  {
+    "id": "s2obgyn-0418",
+    "category": "OB Psych",
+    "q": "Postpartum depression per p71?",
+    "a": "Persistent sadness, anxiety, exhaustion hindering care and bonding; worthlessness or guilt, especially after 10 days. Mother leaving the baby crying in the crib or with soiled diapers: immediate psychiatric referral. SSRIs sertraline or paroxetine are used because of low breast milk concentrations.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 71,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2obgyn-0419",
+    "category": "OB Psych",
+    "q": "Postpartum psychosis per p71?",
+    "a": "Extreme mood swings, hallucinations, paranoia, attempts to harm self or baby in the first weeks; immediate psychiatric referral; antipsychotics (olanzapine, risperidone).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 71,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2obgyn-0420",
+    "category": "OB Psych",
+    "q": "Premenstrual syndrome and PMDD per p71?",
+    "a": "PMS: mood swings, breast tenderness, irritability in the luteal phase; common, benign. PMDD: severe form interfering with functioning; SSRIs often first-line.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 71,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2obgyn-0421",
+    "category": "OB PCOS",
+    "q": "PCOS hormones per p71?",
+    "a": "High BMI causes insulin resistance, abnormal GnRH pulsation, high LH and LOW FSH (a raised LH/FSH ratio). High LH acts on theca cells to give androgens (hirsutism). Low FSH gives poor follicular development; follicle fails to rupture and stays as a cyst.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 71,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2obgyn-0422",
+    "category": "OB PCOS",
+    "q": "Anovulation per p71?",
+    "a": "Failure of ovulation with irregular periods; high-BMI female with irregular periods = anovulation until proven otherwise; anovulation + hirsutism = PCOS. Other causes: hypothyroidism, Cushing syndrome. Ultrasound 11+ cysts (the source notes the USMLE does not assess it).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 71,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2obgyn-0423",
+    "category": "OB PCOS",
+    "q": "Unopposed estrogen per p71?",
+    "a": "No corpus luteum means low progesterone relative to estrogen: raises risk of endometrial hyperplasia and carcinoma.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 71,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2obgyn-0424",
+    "category": "OB PCOS",
+    "q": "Postmenopausal overweight woman with bleeding per p71-72?",
+    "a": "Endometrial biopsy; past anovulatory cycles and hyperplasia increase endometrial cancer risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 71,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=71"
+    }
+  },
+  {
+    "id": "s2obgyn-0425",
+    "category": "OB PCOS",
+    "q": "PCOS and diabetes per p72?",
+    "a": "Insulin resistance raises type 2 diabetes risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 72,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2obgyn-0426",
+    "category": "OB PCOS",
+    "q": "Cushing, hypothyroidism and PCOS per p72?",
+    "a": "Cushing: glucocorticoids cause insulin resistance and anovulation that can look like PCOS; PCOS is idiopathic with high BMI. Hypothyroidism: high TRH stimulates prolactin, abnormal GnRH pulsation; the source says more important is that prolactin rises with low dopamine or D2 antagonism (pituitary stalk severance).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 72,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2obgyn-0427",
+    "category": "OB PCOS",
+    "q": "Progesterone withdrawal test per p72?",
+    "a": "Give progesterone then withdraw; bleeding means normal estrogen and a proliferated lining, so anovulation (as in PCOS) is the cause. No bleeding: low estrogen (Turner, premature ovarian failure) or scarred uterus (Asherman).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 72,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2obgyn-0428",
+    "category": "OB Dysmenorrhea",
+    "q": "Primary dysmenorrhea per p72?",
+    "a": "Normal period pain from prostaglandin PGF2a hypersecretion (uterine contractions; headache, nausea); under age 20 with normal physical exam; treat with NSAIDs (OCP is wrong if listed with NSAID on NBME).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 72,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=72"
+    }
+  },
+  {
+    "id": "s2obgyn-0429",
+    "category": "OB Dysmenorrhea",
+    "q": "Endometriosis per p72?",
+    "a": "Endometrial tissue outside the uterus (ovary, pouch of Douglas), thought due to retrograde menstruation; severe menstrual pain over age 20 with an abnormal exam (e.g., nodular uterosacral ligaments, fixed retroverted uterus, pelvic tenderness).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 72,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=72"
+    }
   }
 ];
