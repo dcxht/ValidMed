@@ -8211,5 +8211,434 @@ export default [
       "page": 116,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=116"
     }
+  },
+  {
+    "id": "s2obgyn-0744",
+    "category": "OB Vignettes",
+    "q": "Dysuria not improving on TMP-SMX per p117?",
+    "a": "37F, 20-50 WBC/hpf, no improvement after a week: urethral culture for chlamydia (check STIs if a UTI does not respond).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0745",
+    "category": "OB Vignettes",
+    "q": "Metallic taste after epidural per p117?",
+    "a": "Epidural with lidocaine and epinephrine, metallic taste: intravascular injection of anesthetic.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0746",
+    "category": "OB Vignettes",
+    "q": "Postpartum mood vignette per p117?",
+    "a": "5 weeks after delivery, insomnia, irritable, leaves the baby crying: immediate psychiatric evaluation; postpartum depression: sertraline and CBT; mania/delusions/hallucinations: postpartum psychosis; milder within 7-10 days: blues.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0747",
+    "category": "OB Vignettes",
+    "q": "42 weeks with oligohydramnios per p117?",
+    "a": "Long, closed, posterior cervix: administer a prostaglandin (not amnioinfusion, which is for variable decelerations with ROM).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0748",
+    "category": "OB Vignettes",
+    "q": "Microcytic anemia not fixed by iron per p117?",
+    "a": "Iron and ferritin normal after three weeks of iron, still microcytic: hemoglobin electrophoresis (thalassemia, usually alpha trait). Prenatal vitamin for 3 weeks with microcytic anemia: electrophoresis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0749",
+    "category": "OB Vignettes",
+    "q": "Electrophoresis 95% HbA1 per p117?",
+    "a": "28F African American with microcytic anemia: iron deficiency anemia (thalassemia would show HbA2).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0750",
+    "category": "OB Vignettes",
+    "q": "Hb 10.5 with MCV 87 per p117?",
+    "a": "Physiologic dilution of pregnancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0751",
+    "category": "OB Vignettes",
+    "q": "Platelets in pregnancy per p117?",
+    "a": "Mild reduction is normal; gestational thrombocytopenia when <150,000/uL.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 117,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=117"
+    }
+  },
+  {
+    "id": "s2obgyn-0752",
+    "category": "OB Vignettes",
+    "q": "ITP in pregnancy per p118?",
+    "a": "Fetal platelet destruction (maternal IgG against GpIIb/IIIa crosses the placenta).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0753",
+    "category": "OB Vignettes",
+    "q": "Shoulder dystocia nerve injury per p118?",
+    "a": "Arm pronated, adducted, internally rotated: injury to C5 and C6 roots (Erb-Duchenne).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0754",
+    "category": "OB Vignettes",
+    "q": "Uterine atony treatment per p118?",
+    "a": "Massage, then oxytocin, then ergonovine (not in HTN).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0755",
+    "category": "OB Vignettes",
+    "q": "McRoberts maneuver fetal risk per p118?",
+    "a": "Clavicular fracture.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0756",
+    "category": "OB Vignettes",
+    "q": "Bleeding with a firm uterus after shoulder dystocia per p118?",
+    "a": "Vaginal laceration, not atony.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0757",
+    "category": "OB Vignettes",
+    "q": "Uterine inversion vignette per p118?",
+    "a": "Gentle cord traction, bleeding, HR 60, BP 60/40, saline unhelpful, uterus not palpable: uterine inversion.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0758",
+    "category": "OB Vignettes",
+    "q": "Uterine rupture vignettes per p118?",
+    "a": "Prior C-section, constant sharp pain, late decelerations, fetal small parts above the fundus: uterine rupture. Oxytocin with contractions every 2 minutes, pain, hypotension, fetal head in RUQ: rupture.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0759",
+    "category": "OB Vignettes",
+    "q": "Tachysystole and hypertonus per p118?",
+    "a": "Tachysystole: >5 contractions per 10 minutes. Hypertonus: sustained contraction >2 minutes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 118,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=118"
+    }
+  },
+  {
+    "id": "s2obgyn-0760",
+    "category": "OB Vignettes",
+    "q": "Leopold maneuvers per p119?",
+    "a": "Abdominal palpation to determine fetal position and lie.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0761",
+    "category": "OB Vignettes",
+    "q": "Ovarian mass with atypical hyperplasia per p119?",
+    "a": "62F, ovarian mass, bleeding, atypical complex hyperplasia: granulosa cell tumor (unopposed estrogen).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0762",
+    "category": "OB Vignettes",
+    "q": "Irregular periods with proliferative endometrium per p119?",
+    "a": "47F, periods every 2-3 months: cyclic progestin therapy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0763",
+    "category": "OB Vignettes",
+    "q": "OCPs for menometrorrhagia per p119?",
+    "a": "Improvement from synchronization of the endometrium.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0764",
+    "category": "OB Vignettes",
+    "q": "G3P2 Rh-negative at first visit per p119?",
+    "a": "Received RhoGAM before: indirect antiglobulin (Coombs) test to see whether she formed anti-Rh antibodies.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0765",
+    "category": "OB Vignettes",
+    "q": "ABO hemolytic disease per p119?",
+    "a": "G1P0 O+ mother, A or B fetus, pathologic jaundice: ABO HDN (O mothers have some IgG anti-A/B that crosses the placenta); the shelf gives a first pregnancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0766",
+    "category": "OB Vignettes",
+    "q": "Rh hemolytic disease per p119?",
+    "a": "G2P1 Rh-negative with fetal hydrops: Rh HDN from antibodies formed after prior mixing.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0767",
+    "category": "OB Vignettes",
+    "q": "RhoGAM timing per p119?",
+    "a": "28 weeks and at delivery; also after abortions, procedures (amniocentesis) and insults (abruption).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0768",
+    "category": "OB Vignettes",
+    "q": "Anti-Kell titer 1:256 per p119-120?",
+    "a": "G3P2 Rh-negative: Kell typing of the father's blood (mother Kell negative; prior fetus Kell positive; RhoGAM prevented Rh titers).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 119,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=119"
+    }
+  },
+  {
+    "id": "s2obgyn-0769",
+    "category": "OB Vignettes",
+    "q": "Third-trimester bleeding per p120?",
+    "a": "Painful after MVA or cocaine: abruptio placentae. Painless: placenta previa (can move off before 36 weeks, so do not plan C-section earlier). Postpartum hemorrhage from placental problem: accreta/increta/percreta.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 120,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2obgyn-0770",
+    "category": "OB Vignettes",
+    "q": "Vaginal candidiasis vignettes per p120?",
+    "a": "Recent antibiotics, red introitus and itching, normal discharge, normal KOH/wet mount: vaginal candidiasis; nystatin or fluconazole. 67F with T2DM not responding to miconazole: T2DM is the reason.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 120,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2obgyn-0771",
+    "category": "OB Vignettes",
+    "q": "Mucopurulent discharge vignettes per p120?",
+    "a": "No organisms grow: chlamydia (azithromycin or doxycycline). Gram-negative diplococci: gonorrhea, cotreat for chlamydia: IM ceftriaxone + oral azithromycin, or IM cefixime + oral azithromycin.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 120,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2obgyn-0772",
+    "category": "OB Vignettes",
+    "q": "Trichomonas and bacterial vaginosis vignettes per p120?",
+    "a": "Erythematous cervix, yellow-green discharge, flagellated protozoa: trichomoniasis; metronidazole for patient and partner. Thin watery or grey discharge, clue cells, positive whiff test: bacterial vaginosis; metronidazole.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 120,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2obgyn-0773",
+    "category": "OB Vignettes",
+    "q": "Positive VDRL 1:4 without symptoms per p120?",
+    "a": "Next step: FTA (fluorescent treponemal antibody).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 120,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2obgyn-0774",
+    "category": "OB Vignettes",
+    "q": "Painless vulvar ulcer with negative RPR per p120?",
+    "a": "Repeat RPR (can be negative early in primary syphilis).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 120,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=120"
+    }
+  },
+  {
+    "id": "s2obgyn-0775",
+    "category": "OB Vignettes",
+    "q": "Small crusty painless papule on the fourchette per p121?",
+    "a": "Condylomata acuminata (HPV 6/11). Soft pink papillary lesions on the labia minora and fourchette: podophyllum resin.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2obgyn-0776",
+    "category": "OB Vignettes",
+    "q": "Gardasil types per p121?",
+    "a": "6, 11, 16, 18 (6/11 warts; 16/18 SCC).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2obgyn-0777",
+    "category": "OB Vignettes",
+    "q": "Backpacking in Asia with a painful vulvar crater per p121?",
+    "a": "Gram-negative rods: chancroid (Haemophilus ducreyi); azithromycin.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2obgyn-0778",
+    "category": "OB Vignettes",
+    "q": "VZV exposure in pregnancy per p121?",
+    "a": "35F unvaccinated, exposed to chickenpox: VZV IVIG within 96 hours (still advised up to 10 days). Neonates: maternal active lesions from 5 days before to 2 days after delivery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2obgyn-0779",
+    "category": "OB Vignettes",
+    "q": "Neonate with PDA per p121?",
+    "a": "Mother may have had arthritis, not rash: congenital rubella.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2obgyn-0780",
+    "category": "OB Vignettes",
+    "q": "Fever and rash at 22 weeks with fetal hydrops per p121?",
+    "a": "Parvovirus B19.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2obgyn-0781",
+    "category": "OB Vignettes",
+    "q": "Genital herpes in pregnancy per p121?",
+    "a": "Painful vulvar vesicles: oral acyclovir (always oral). Acyclovir reduces active lesions at labor and is safe; active lesions or prodrome at delivery: C-section.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
+  },
+  {
+    "id": "s2obgyn-0782",
+    "category": "OB Vignettes",
+    "q": "HIV and pregnancy per p121?",
+    "a": "HAART to lower viral load matters more than avoiding breastfeeding for preventing vertical transmission (the source's point); zidovudine to the mother before C-section, then to the neonate within 12 hours.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 121,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
+    }
   }
 ];
