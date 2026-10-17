@@ -3505,5 +3505,258 @@ export default [
       "page": 55,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=55"
     }
+  },
+  {
+    "id": "s2obgyn-0318",
+    "category": "OB Thyroid in Pregnancy",
+    "q": "IUGR measurement per p56?",
+    "a": "Fetal abdominal circumference (reflects liver size and fat; the fetus prioritizes brain over abdominal growth when nutrients are short).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 56,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2obgyn-0319",
+    "category": "OB Thyroid in Pregnancy",
+    "q": "Thyroid labs in a euthyroid pregnant woman per p56?",
+    "a": "Normal TSH, normal free T4, increased total T4 (estrogen increases TBG; the source says estrogen, not progesterone).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 56,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2obgyn-0320",
+    "category": "OB Thyroid in Pregnancy",
+    "q": "Why total T4 rises in pregnancy per p56?",
+    "a": "TBG binds free T4, free T4 transiently falls and TSH rises, the thyroid makes more T4 until free T4 is normal again; total T4 is higher from more TBG-bound T4. T3 is normal because free T4 is normal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 56,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2obgyn-0321",
+    "category": "OB Thyroid in Pregnancy",
+    "q": "Postpartum silent thyroiditis per p56?",
+    "a": "Hypo- or hyperthyroidism after delivery; radioiodine uptake is LOW even when hyperthyroid (inflammation leaks stored hormone; low TSH lowers uptake). Same for de Quervain and drug-induced thyroiditis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 56,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2obgyn-0322",
+    "category": "OB Thyroid in Pregnancy",
+    "q": "Levothyroxine in pregnancy per p56?",
+    "a": "The source says increase the dose by 50%.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 56,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2obgyn-0323",
+    "category": "OB Thyroid in Pregnancy",
+    "q": "Antithyroid drugs in pregnancy per p56?",
+    "a": "Avoid methimazole in the first trimester (teratogenic). PTU for thyroid storm in pregnancy even though long-term 2nd/3rd trimester use is not ideal (hepatotoxicity).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 56,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2obgyn-0324",
+    "category": "OB Hyperemesis",
+    "q": "Hyperemesis gravidarum per p56?",
+    "a": "Vomiting severe enough for urinary ketones. hCG causes early nausea and peaks at 8-10 weeks. Next diagnostic step: urinary ketones. Management: IV hydration and antiemetics (metoclopramide, ondansetron). Labs: low K+, low Cl-, high HCO3-, high pH.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 56,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=56"
+    }
+  },
+  {
+    "id": "s2obgyn-0325",
+    "category": "OB Ectopic",
+    "q": "Ectopic pregnancy per p57?",
+    "a": "Implantation outside the uterus. b-hCG lower than expected or rising poorly (should double about every 2-3 days). Highest yield risk: prior PID (tubal scarring, cilia disruption). Most often in the ampulla (70-80%).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0326",
+    "category": "OB Ectopic",
+    "q": "Methotrexate for ectopic per p57?",
+    "a": "Small, stable ectopic: hemodynamically stable, no rupture or peritoneal fluid, <3.5 cm, b-hCG <5000 mIU/mL.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0327",
+    "category": "OB Ectopic",
+    "q": "Surgery for ectopic per p57?",
+    "a": "Laparoscopic salpingostomy/salpingectomy if methotrexate cannot be given. Hemodynamically unstable (low BP): laparotomy, not laparoscopy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0328",
+    "category": "OB Miscarriage",
+    "q": "Most common cause of spontaneous abortion per p57?",
+    "a": "Chromosomal abnormality (unbalanced chromosomal rearrangement).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0329",
+    "category": "OB Miscarriage",
+    "q": "Threatened abortion per p57?",
+    "a": "Bleeding from a closed cervix, with or without cramping, usually first trimester; miscarriage not inevitable. Heavy bleeding can be described as passage of clots. Differs from implantation bleeding (light, 1-2 weeks after ovulation). Bed rest is classic but the source notes evidence of benefit is lacking.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0330",
+    "category": "OB Miscarriage",
+    "q": "Inevitable abortion per p57?",
+    "a": "Bleeding from an open cervix, severe cramping, first trimester; expectant management, misoprostol (PGE1 analogue) to ripen the cervix, or D&C/suction curettage.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0331",
+    "category": "OB Miscarriage",
+    "q": "Complete abortion per p57?",
+    "a": "All products expelled; no gestational sac seen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0332",
+    "category": "OB Miscarriage",
+    "q": "Missed abortion per p57?",
+    "a": "Undetected miscarriage; absent fetal heartbeat on ultrasound; closed cervix; treat expectantly, with prostaglandin, or surgically.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0333",
+    "category": "OB Miscarriage",
+    "q": "Incomplete abortion per p57?",
+    "a": "Only part of the contents expelled; sounds like missed but with passage of clots through an open cervix. In threatened abortion the cervix is closed and the fetus viable. Treat expectantly, prostaglandin, surgically.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 57,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=57"
+    }
+  },
+  {
+    "id": "s2obgyn-0334",
+    "category": "OB Miscarriage",
+    "q": "Septic abortion per p57-58?",
+    "a": "Miscarriage from chorioamnionitis: fever and discharge; buzzy: unwanted pregnancy with a cervical laceration from attempted self-abortion (hanger). IV antibiotics and surgical evacuation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 58,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2obgyn-0335",
+    "category": "OB Miscarriage",
+    "q": "Blighted ovum per p58?",
+    "a": "Anembryonic pregnancy: gestational sac with no yolk sac or embryo; b-hCG still rises because the placenta forms.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 58,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2obgyn-0336",
+    "category": "OB Miscarriage",
+    "q": "Recurrent pregnancy loss per p58?",
+    "a": "Two or more consecutive spontaneous abortions (isolated miscarriage occurs in 15-20% of pregnancies). Most important USMLE cause: antiphospholipid syndrome in SLE.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 58,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2obgyn-0337",
+    "category": "OB Infections in Pregnancy",
+    "q": "Pyelonephritis in pregnancy per p58?",
+    "a": "Progesterone slows ureteral peristalsis (stasis) and the uterus compresses ureters in the 3rd trimester. Asymptomatic bacteriuria is always treated in pregnancy; nitrofurantoin is a classic drug.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 58,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2obgyn-0338",
+    "category": "OB Infections in Pregnancy",
+    "q": "Gallstones in pregnancy per p58?",
+    "a": "Progesterone slows biliary peristalsis (sludging); estrogen upregulates HMG-CoA reductase (cholesterol synthesis). Cholelithiasis: colicky epigastric pain after meals; + fever = cholecystitis. Ultrasound; if cholecystitis is suspected but ultrasound is negative: HIDA scan. Ursodiol (decreases cholesterol secretion into bile) reduces stones; laparoscopic cholecystectomy for cholecystitis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 58,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2obgyn-0339",
+    "category": "OB Infections in Pregnancy",
+    "q": "Appendicitis in pregnancy per p58?",
+    "a": "Can present as RUQ pain in the 2nd-3rd trimester because the uterus pushes the appendix up; normal gallbladder ultrasound; laparoscopic appendectomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 58,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
+    }
+  },
+  {
+    "id": "s2obgyn-0340",
+    "category": "OB Infections in Pregnancy",
+    "q": "GBS prophylaxis drug per p58?",
+    "a": "IV penicillin or ampicillin (the source says within 4 hours of completing stage 2). Oral amoxicillin-clavulanate is wrong. Mere colonization in a prior pregnancy is NOT an indication (highest yield).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 58,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
+    }
   }
 ];
