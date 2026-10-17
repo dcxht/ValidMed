@@ -28925,6 +28925,17 @@ export default [
   {
     "id": "s2surg-2242",
     "category": "Surg Endocrine",
+    "q": "Euthyroid or hypothyroid patient with a thyroid nodule: ultrasound or FNA per p251?",
+    "a": "The source's conclusion from NBME/Free 120: ultrasound is correct over FNA if both are listed; if ultrasound is not listed, choose FNA. First palpate the gland, then check TSH.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 251,
+      "url": "/mehlman/hy-surgery.pdf#page=251"
+    }
+  },
+  {
+    "id": "s2surg-2243",
+    "category": "Surg Endocrine",
     "q": "Rickets labs per p252?",
     "a": "Low Ca2+, low PO4 3-, high PTH (due to less negative feedback at the parathyroid glands).",
     "source": {
@@ -28934,7 +28945,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2243",
+    "id": "s2surg-2244",
     "category": "Surg Endocrine",
     "q": "Why PTH is high in secondary hyperparathyroidism per p252?",
     "a": "Low serum calcium reduces negative feedback at the calcium-sensing receptors on the parathyroid glands. Because the cause isn't the glands themselves, it is secondary; adenoma or diffuse hyperplasia would be primary. Calcium and phosphate arrows are the opposite of primary.",
@@ -28945,7 +28956,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2244",
+    "id": "s2surg-2245",
     "category": "Surg Endocrine",
     "q": "Phosphate in renal failure per p252?",
     "a": "High despite high PTH, because the kidney can't downregulate PCT phosphate transporters, so too much phosphate is reabsorbed.",
@@ -28956,7 +28967,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2245",
+    "id": "s2surg-2246",
     "category": "Surg Endocrine",
     "q": "Tertiary hyperparathyroidism per p252?",
     "a": "Hyperplasia of the parathyroid glands after long-standing secondary hyperparathyroidism: even if renal failure is controlled and calcium normalizes, PTH keeps being secreted autonomously at higher basal levels (resetting the calcium setpoint). Labs: high Ca2+, high PO4, high PTH.",
@@ -28971,7 +28982,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2246",
+    "id": "s2surg-2247",
     "category": "Surg Endocrine",
     "q": "Red flag for tertiary hyperparathyroidism per p252?",
     "a": "A rise in serum calcium in a patient with renal failure (they almost always have low calcium). It is not primary hyperparathyroidism because the etiology of high PTH was not an adenoma or hyperplasia. Phosphate stays high because of renal failure.",
@@ -28982,7 +28993,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2247",
+    "id": "s2surg-2248",
     "category": "Surg Endocrine",
     "q": "DiGeorge heart and immune features per p252?",
     "a": "Tetralogy of Fallot and truncus arteriosus are common heart defects. Parathyroid agenesis causes primary hypoparathyroidism (low calcium + high phosphate). T cell deficiency: recurrent viral, fungal, and protozoal infections.",
@@ -28993,7 +29004,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2248",
+    "id": "s2surg-2249",
     "category": "Surg Endocrine",
     "q": "Thymic shadow and lymphoid tissue clues per p252?",
     "a": "Absent thymic shadow = T cell deficiency = DiGeorge. Scanty lymph nodes/tonsils = B cell deficiency = Bruton agammaglobulinemia. Both absent thymic shadow and scanty nodes/tonsils = SCID.",
@@ -29008,7 +29019,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2249",
+    "id": "s2surg-2250",
     "category": "Surg Endocrine",
     "q": "Chvostek and Trousseau signs of hypocalcemia per p253?",
     "a": "Chvostek: twitching of the masseter with stimulation. Trousseau: carpopedal spasm with blood pressure cuff inflation. USMLE can give either when Ca2+ is low.",
@@ -29023,7 +29034,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2250",
+    "id": "s2surg-2251",
     "category": "Surg Endocrine",
     "q": "Hypocalcemia vs hypercalcemia findings per p253?",
     "a": "Hypocalcemia causes 'up' findings: tetany and hyperreflexia. Hypercalcemia causes 'down' findings: muscle flaccidity and hyporeflexia.",
@@ -29034,7 +29045,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2251",
+    "id": "s2surg-2252",
     "category": "Surg Endocrine",
     "q": "Trousseau and Troisier signs of malignancy per p253?",
     "a": "Don't confuse them with Trousseau sign of hypocalcemia. Troisier: palpable left supraclavicular lymph node in visceral malignancy (aka Virchow node). Trousseau of malignancy: migratory thrombophlebitis, classically head of pancreas adenocarcinoma (can be other adenocarcinomas, e.g., bronchogenic).",
@@ -29045,7 +29056,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2252",
+    "id": "s2surg-2253",
     "category": "Surg Endocrine",
     "q": "Why alcoholics get hypomagnesemia per p253?",
     "a": "Dietary deficiency: EtOH is 7 kcal/g, so they fill up on alcohol.",
@@ -29056,7 +29067,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2253",
+    "id": "s2surg-2254",
     "category": "Surg Endocrine",
     "q": "Effects of low magnesium per p253?",
     "a": "Hypocalcemia and hypokalemia that don't respond to supplementation. Basal magnesium is required for proper parathyroid function, so low magnesium can cause low PTH secretion.",
@@ -29071,7 +29082,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2254",
+    "id": "s2surg-2255",
     "category": "Surg Endocrine",
     "q": "Step 2 hypomagnesemia question per p253?",
     "a": "An alcoholic with low calcium or potassium nonresponsive to supplementation: next best step is check serum magnesium.",
@@ -29082,7 +29093,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2255",
+    "id": "s2surg-2256",
     "category": "Surg Endocrine",
     "q": "Paraneoplastic PTHrP per p253?",
     "a": "Squamous cell carcinoma of the lung and renal cell carcinoma secrete parathyroid hormone-related peptide (PTHrP), not the same as PTH. Labs: high serum Ca2+, low PO4, low PTH. PTHrP has similar effects as PTH; PTH from the glands is suppressed by high calcium.",
@@ -29097,7 +29108,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2256",
+    "id": "s2surg-2257",
     "category": "Surg Endocrine",
     "q": "Lung cancer + high calcium + low PTH per p253?",
     "a": "Answer: squamous cell carcinoma of the lung (NBME). The low PTH isn't weird: PTH is not PTHrP, which is up.",
@@ -29108,7 +29119,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2257",
+    "id": "s2surg-2258",
     "category": "Surg Endocrine",
     "q": "Hypercalcemia from metastases per p253?",
     "a": "High serum Ca2+, low PTH. Once metastases seed bone, cytokine activity causes bone lysis and calcium release; hypercalcemia is common in metastatic malignancy. PTH is suppressed by the high calcium.",
@@ -29123,7 +29134,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2258",
+    "id": "s2surg-2259",
     "category": "Surg Endocrine",
     "q": "Milk-alkali syndrome per p254?",
     "a": "A diagnosis of exclusion on USMLE. Textbook: hypercalcemia and metabolic alkalosis (high bicarb) in someone taking too many calcium carbonate antacid tablets for GERD or dyspepsia; can lead to urolithiasis.",
@@ -29138,7 +29149,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2259",
+    "id": "s2surg-2260",
     "category": "Surg Endocrine",
     "q": "Where is cortisol made per p254?",
     "a": "Zona fasciculata of the adrenal cortex.",
@@ -29149,7 +29160,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2260",
+    "id": "s2surg-2261",
     "category": "Surg Endocrine",
     "q": "Conn syndrome treatment per p254?",
     "a": "Spironolactone (aldosterone receptor antagonist) prior to surgery.",
@@ -29160,7 +29171,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2261",
+    "id": "s2surg-2262",
     "category": "Surg Endocrine",
     "q": "Addison disease per p254?",
     "a": "Autoimmune destruction of the adrenal cortex leading to decreased aldosterone and cortisol. The source hasn't seen USMLE care about decreased androgens. Called primary adrenal insufficiency because the adrenal gland itself is underproducing hormones.",
@@ -29175,7 +29186,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2262",
+    "id": "s2surg-2263",
     "category": "Surg Endocrine",
     "q": "Addison labs and BP per p254?",
     "a": "Low Na+, high K+, low pH, low bicarb. BP is low-normal or low due to both decreased aldosterone and decreased cortisol; the cortisol effect is high-yield, not just aldosterone.",
@@ -29186,7 +29197,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2263",
+    "id": "s2surg-2264",
     "category": "Surg Endocrine",
     "q": "Addison hyperpigmentation per p254?",
     "a": "ACTH and alpha-MSH are both increased due to low cortisol, causing hyperpigmentation; the source says only about 50% of vignettes mention it.",
@@ -29197,7 +29208,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2264",
+    "id": "s2surg-2265",
     "category": "Surg Endocrine",
     "q": "Addison eosinophilia per p254?",
     "a": "Patients can present with eosinophilia: cortisol normally helps sequester eosinophils in the spleen and facilitates their apoptosis, so low cortisol means more eosinophils. Questions can give eosinophils of 15-25% (normally <5%); don't chase stool ova and parasites.",
@@ -29212,7 +29223,29 @@ export default [
     }
   },
   {
-    "id": "s2surg-2265",
+    "id": "s2surg-2266",
+    "category": "Surg Endocrine",
+    "q": "Paget disease labs per p254?",
+    "a": "19 in 20 questions give an isolated increase in ALP; calcium, phosphate, and PTH are normal.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 254,
+      "url": "/mehlman/hy-surgery.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2surg-2267",
+    "category": "Surg Endocrine",
+    "q": "Paget disease high-output heart failure per p254?",
+    "a": "Intraosseous AV fistulae: S3 with high (not low) ejection fraction.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 254,
+      "url": "/mehlman/hy-surgery.pdf#page=254"
+    }
+  },
+  {
+    "id": "s2surg-2268",
     "category": "Surg Endocrine",
     "q": "Classic Addison vignette answer per p255?",
     "a": "Ongoing fatigue + hyperpigmentation (young or old): the answer is ACTH stimulation test.",
@@ -29227,7 +29260,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2266",
+    "id": "s2surg-2269",
     "category": "Surg Endocrine",
     "q": "ACTH stimulation in primary adrenal insufficiency per p255?",
     "a": "Exogenous ACTH should normally cause a robust rise in cortisol from the adrenal fasciculata. In primary adrenal insufficiency the gland is damaged, so exogenous ACTH produces no response.",
@@ -29238,7 +29271,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2267",
+    "id": "s2surg-2270",
     "category": "Surg Endocrine",
     "q": "Low cortisol and chronic fatigue per p255?",
     "a": "The source says low cortisol causes chronic fatigue and that this is one of the most overlooked details in NBME questions and real life: check cortisol in unexplained chronic fatigue; if low, hydrocortisone will boost the patient.",
@@ -29249,7 +29282,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2268",
+    "id": "s2surg-2271",
     "category": "Surg Endocrine",
     "q": "Addison treatment per p255?",
     "a": "Fludrocortisone +/- hydrocortisone. Fludrocortisone is a mineralocorticoid similar to aldosterone; hydrocortisone is a glucocorticoid similar to cortisol.",
@@ -29264,7 +29297,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2269",
+    "id": "s2surg-2272",
     "category": "Surg Endocrine",
     "q": "Waterhouse-Friderichsen syndrome per p255?",
     "a": "Meningococcal septicemia causing bilateral hemorrhagic necrosis of the adrenal glands, with low aldosterone and low cortisol. Vignette: low BP + low Na+ + high K+ + low bicarb with meningococcal infection (recent meningitis + non-blanching rash); answer: ACTH stimulation test.",
@@ -29279,7 +29312,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2270",
+    "id": "s2surg-2273",
     "category": "Surg Endocrine",
     "q": "Cushing syndrome vs Cushing disease per p255?",
     "a": "Cushing syndrome = how the patient looks; any cause (exogenous glucocorticoids, ACTH-secreting pituitary tumor, cortisol-secreting adrenal tumor, small cell lung carcinoma secreting ACTH). Cushing disease = only an ACTH-secreting tumor of the anterior pituitary.",
@@ -29294,7 +29327,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2271",
+    "id": "s2surg-2274",
     "category": "Surg Endocrine",
     "q": "Highest-yield Cushingoid findings per p255?",
     "a": "Purple abdominal striae, osteoporosis (vertebral compression fractures), and avascular necrosis of the femoral head (hip pain). Buffalo hump, moon facies, central obesity, peripheral muscle wasting, hypertension, and type II diabetes are pass-level.",
@@ -29305,7 +29338,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2272",
+    "id": "s2surg-2275",
     "category": "Surg Endocrine",
     "q": "Hypokalemia in Cushing per p255?",
     "a": "Chronically elevated cortisol can cause hypokalemia similar to high aldosterone (e.g., K+ 3.0 mEq/L, normal 3.5-5.0): glucocorticoids have some mineralocorticoid effect at the kidney. Important for 2CK vignettes.",
@@ -29320,7 +29353,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2273",
+    "id": "s2surg-2276",
     "category": "Surg Endocrine",
     "q": "Dexamethasone suppression test purpose per p256?",
     "a": "Dexamethasone is a cortisol analogue that gives negative feedback at the hypothalamus and anterior pituitary, suppressing ACTH and cortisol in healthy people. It determines the cause of endogenous Cushing syndrome (not for a patient taking steroids).",
@@ -29335,7 +29368,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2274",
+    "id": "s2surg-2277",
     "category": "Surg Endocrine",
     "q": "Low-dose dex per p256?",
     "a": "A yes/no test for Cushing syndrome: if cortisol suppresses, no Cushing; if it doesn't, Cushing syndrome is present but the cause is unknown.",
@@ -29346,7 +29379,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2275",
+    "id": "s2surg-2278",
     "category": "Surg Endocrine",
     "q": "High-dose dex per p256?",
     "a": "Differentiates Cushing disease from other causes: only Cushing disease will have suppressed cortisol. If cortisol falls with high-dose dex, it is Cushing disease.",
@@ -29357,7 +29390,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2276",
+    "id": "s2surg-2279",
     "category": "Surg Endocrine",
     "q": "No suppression with high-dose dex per p256?",
     "a": "Look at ACTH. Low ACTH with high cortisol: adrenal cortical adenoma of the zona fasciculata secreting cortisol. High ACTH: ectopic ACTH from small cell bronchogenic carcinoma (not pituitary, since cortisol wasn't suppressed).",
@@ -29368,7 +29401,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2277",
+    "id": "s2surg-2280",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma paraneoplastic per p257?",
     "a": "Opsoclonus-myoclonus syndrome (dancing eyes).",
@@ -29383,7 +29416,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2278",
+    "id": "s2surg-2281",
     "category": "Surg Endocrine",
     "q": "Adrenal adenoma ACTH per p257?",
     "a": "Low ACTH + high cortisol; does not suppress with high-dose dex. After high-dose dex: no change in ACTH, no change in cortisol (same as small cell lung cancer).",
@@ -29394,7 +29427,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2279",
+    "id": "s2surg-2282",
     "category": "Surg Endocrine",
     "q": "Exogenous steroids per p257?",
     "a": "Low ACTH + low cortisol. Exogenous steroids (prednisone, hydrocortisone) are not the same as cortisol; the result is suppression of endogenous cortisol. Students get this wrong all the time.",
@@ -29405,7 +29438,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2280",
+    "id": "s2surg-2283",
     "category": "Surg Endocrine",
     "q": "Glucocorticoid psychosis per p257?",
     "a": "Glucocorticoids can cause psychosis, a delirium-like presentation, or general mood disturbance such as depression. The vignette can give Cushing syndrome + depression, or recent IV methylprednisolone + delirium-like presentation 24-48 hours later.",
@@ -29420,7 +29453,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2281",
+    "id": "s2surg-2284",
     "category": "Surg Endocrine",
     "q": "Licorice per p257?",
     "a": "Contains glycyrrhizic acid, which increases mineralocorticoid effect at the kidney (similar to aldosterone). Can cause hypokalemia with excessive licorice tea.",
@@ -29435,7 +29468,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2282",
+    "id": "s2surg-2285",
     "category": "Surg Endocrine",
     "q": "Pheochromocytoma presentation per p257?",
     "a": "Paroxysmal high BP: periodic palpitations and pounding headaches. Office BP can be 120/80, so don't exclude it. Stressors (e.g., sitting up on the exam table) trigger NE + E release and BP can exceed 180/100, unlike white coat hypertension (young patient 140/90 when nervous).",
@@ -29446,7 +29479,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2283",
+    "id": "s2surg-2286",
     "category": "Surg Endocrine",
     "q": "Pheochromocytoma diagnosis per p257?",
     "a": "Urinary/serum metanephrines; if positive, then CT abdomen.",
@@ -29457,7 +29490,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2284",
+    "id": "s2surg-2287",
     "category": "Surg Endocrine",
     "q": "Propranolol after phenoxybenzamine per p257?",
     "a": "In theory it can be given, but USMLE doesn't assess this; it wants straight alpha-blockade.",
@@ -29468,7 +29501,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2285",
+    "id": "s2surg-2288",
     "category": "Surg Endocrine",
     "q": "Pheochromocytoma associations per p257?",
     "a": "Can be idiopathic or part of MEN 2A/B or NF1. In medullary thyroid cancer, check for pheochromocytoma before thyroidectomy: in MEN 2, surgery without checking can cause a large BP rise from catecholamine release and kill the patient.",
@@ -29483,7 +29516,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2286",
+    "id": "s2surg-2289",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma per p257?",
     "a": "Essentially the pediatric pheochromocytoma; N-myc gene. Secretes catecholamines; can calcify (same as pheo in adults).",
@@ -29498,7 +29531,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2287",
+    "id": "s2surg-2290",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma findings per p257?",
     "a": "High BP and opsoclonus-myoclonus syndrome (dancing eyes), and violaceous eyelids (sounds like the heliotrope rash of dermatomyositis but unrelated).",
@@ -29509,7 +29542,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2288",
+    "id": "s2surg-2291",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma diagnosis per p258?",
     "a": "Urinary homovanillic acid (HVA) and vanillylmandelic acid (VMA), metabolites of catecholamines. A metaiodobenzylguanidine scan can be done after HVA and VMA are detected.",
@@ -29520,7 +29553,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2289",
+    "id": "s2surg-2292",
     "category": "Surg Endocrine",
     "q": "Carcinoid tumor per p258?",
     "a": "Neuroendocrine tumor of small bowel, appendix, or lung; S-100 (+), small blue cells. Secretes serotonin. Flushing, tachycardia, diaphoresis, diarrhea.",
@@ -29535,7 +29568,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2290",
+    "id": "s2surg-2293",
     "category": "Surg Endocrine",
     "q": "Carcinoid heart and diagnosis per p258?",
     "a": "Tricuspid regurgitation is common (holosystolic murmur that increases with inspiration) due to tricuspid lesions. Diagnose with urinary 5-hydroxyindole acetic acid (5-HIAA).",
@@ -29546,7 +29579,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2291",
+    "id": "s2surg-2294",
     "category": "Surg Endocrine",
     "q": "Carcinoid vs serotonin syndrome per p258?",
     "a": "Serotonin syndrome is a drug interaction (e.g., starting an MAOI too soon after stopping an SSRI, or St John's wort with an SSRI).",
@@ -29561,7 +29594,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2292",
+    "id": "s2surg-2295",
     "category": "Surg Endocrine",
     "q": "MEN inheritance per p258?",
     "a": "All MEN syndromes and Carney complex are autosomal dominant.",
@@ -29572,7 +29605,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2293",
+    "id": "s2surg-2296",
     "category": "Surg Endocrine",
     "q": "MEN 1 per p258?",
     "a": "MEN1 gene mutation. Parathyroid adenoma (or hyperplasia), pituitary adenoma, pancreatic adenoma.",
@@ -29587,7 +29620,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2294",
+    "id": "s2surg-2297",
     "category": "Surg Endocrine",
     "q": "MEN 1 high-yield tumors per p258?",
     "a": "Zollinger-Ellison syndrome (gastrinoma) is the highest-yield pancreatic tumor (recurrent peptic ulcers). Prolactinoma is the highest-yield pituitary tumor. Parathyroid adenoma often presents with calcium urolithiasis (flank or groin pain in a patient with a history of ulcers).",
@@ -29598,7 +29631,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2295",
+    "id": "s2surg-2298",
     "category": "Surg Endocrine",
     "q": "MEN 2A per p258?",
     "a": "RET proto-oncogene mutation. Parathyroid adenoma (or hyperplasia), pheochromocytoma, medullary thyroid carcinoma. NBME questions can give isolated medullary thyroid carcinoma in a family: answer RET. In theory isolated parathyroid adenoma could be RET, but in the NBME example MEN1 was listed without RET.",
@@ -29613,7 +29646,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2296",
+    "id": "s2surg-2299",
     "category": "Surg Endocrine",
     "q": "MEN 2B per p258?",
     "a": "RET proto-oncogene mutation. Marfanoid body habitus, mucosal neuromas, pheochromocytoma, medullary thyroid carcinoma. '-oid' means looks like but isn't: the patient looks Marfan-like (tall, lanky) but it is not an FBN1/2 mutation.",
@@ -29624,7 +29657,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2297",
+    "id": "s2surg-2300",
     "category": "Surg Endocrine",
     "q": "MEN 2B thyroidectomy precaution per p258?",
     "a": "Before thyroidectomy for medullary thyroid carcinoma, check for pheochromocytoma first with urinary metanephrines (surgery stress can cause a catecholamine surge from the tumor and kill the patient); if positive, CT abdomen.",
@@ -29635,7 +29668,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2298",
+    "id": "s2surg-2301",
     "category": "Surg Endocrine",
     "q": "Carney complex per p258?",
     "a": "Hyperpigmentation, atrial myxoma, endocrine hypersecretion. Hyperpigmentation can present as perioral melanosis, similar to Peutz-Jeghers, but the question mentions a cardiac tumor and another endocrine organ hypersecreting instead of hamartomatous colonic polyps.",
@@ -29650,7 +29683,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2299",
+    "id": "s2surg-2302",
     "category": "Surg Endocrine",
     "q": "MEN2A per p258?",
     "a": "Parathyroid, medullary thyroid carcinoma, pheochromocytoma.",
@@ -29661,7 +29694,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2300",
+    "id": "s2surg-2303",
     "category": "Surg Endocrine",
     "q": "MEN2B per p258?",
     "a": "Medullary thyroid carcinoma, pheochromocytoma, mucosal neuromas, Marfanoid body habitus ('oid' means looks like but is not).",
@@ -29672,7 +29705,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2301",
+    "id": "s2surg-2304",
     "category": "Surg Endocrine",
     "q": "Carney atrial myxoma per p259?",
     "a": "Atrial myxoma normally shows up in adults (cardiac rhabdomyoma in children with tuberous sclerosis). In Carney the question can say atrial myxoma in a child: the only USMLE example that breaks the rule.",
@@ -29683,7 +29716,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2302",
+    "id": "s2surg-2305",
     "category": "Surg Endocrine",
     "q": "Carney endocrine hypersecretion per p259?",
     "a": "Classically Cushing syndrome (the source says granular hyperpigmentation of the zona fasciculata) or hyperthyroidism. The source notes students often don't realize this is what they saw on the exam.",
@@ -29694,7 +29727,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2303",
+    "id": "s2surg-2306",
     "category": "Surg Endocrine",
     "q": "Diabetes mellitus vs insipidus per p259?",
     "a": "'Diabetes' means polydipsia + polyuria. Students confuse DM with DI since both give increased thirst and urination. Acute DM vignettes can mention weight loss from increased catabolism (also in acute type II, though the patient is usually overweight); vomiting is another HY finding. Thirst + urination + weight loss +/- vomiting = DM, not DI.",
@@ -29705,7 +29738,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2304",
+    "id": "s2surg-2307",
     "category": "Surg Endocrine",
     "q": "Diagnosis of DM per p259?",
     "a": "Per the source: two fasting glucoses >126 mg/dL, any one random glucose >200 mg/dL, or HbA1c >6.5%.",
@@ -29720,7 +29753,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2305",
+    "id": "s2surg-2308",
     "category": "Surg Endocrine",
     "q": "Type I DM basics per p259?",
     "a": "Absence of insulin; autoimmune; no single gene, though HLA-DR3/4 are associated. Often 'genetic susceptibility with environmental trigger' (viral infection, usually Coxsackie B). Almost always in children or teenagers of normal BMI.",
@@ -29735,7 +29768,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2306",
+    "id": "s2surg-2309",
     "category": "Surg Endocrine",
     "q": "Type I DM pathogenesis per p259?",
     "a": "Usually antibody- (anti-GAD65 or anti-ZnT8) plus T-cell-mediated destruction of beta-islet cells (the source says in the tail of the pancreas), decreasing insulin; GLUT4 can't be recruited to the surface of skeletal muscle and adipose tissue, so cells are starved of energy, increasing gluconeogenesis + ketogenesis.",
@@ -29746,7 +29779,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2307",
+    "id": "s2surg-2310",
     "category": "Surg Endocrine",
     "q": "Why hyperglycemia occurs in type I per p259?",
     "a": "Continued glucose production by the liver (gluconeogenesis) plus decreased uptake by skeletal muscle and adipose tissue.",
@@ -29757,7 +29790,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2308",
+    "id": "s2surg-2311",
     "category": "Surg Endocrine",
     "q": "Type I pancreas biopsy per p259?",
     "a": "Acute: inflammatory infiltrate. Late (years later): atrophy and fibrosis.",
@@ -29768,7 +29801,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2309",
+    "id": "s2surg-2312",
     "category": "Surg Endocrine",
     "q": "Ketogenesis in type I vs type II per p259?",
     "a": "The absence of insulin in type I enables ketogenesis. In type II, ketones are low because insulin is present.",
@@ -29779,7 +29812,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2310",
+    "id": "s2surg-2313",
     "category": "Surg Endocrine",
     "q": "DKA presentation per p259?",
     "a": "Ketone bodies (USMLE likes beta-hydroxybutyrate) are highly acidic, dropping pH (high anion-gap metabolic acidosis). Child or teenager with polyuria, polydipsia, sometimes vomiting, severe metabolic acidosis; fruity breath (ketones).",
@@ -29794,7 +29827,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2311",
+    "id": "s2surg-2314",
     "category": "Surg Endocrine",
     "q": "DKA acid-base per p259?",
     "a": "Low pH, low HCO3-, low CO2. Ketones cause metabolic acidosis; we blow off CO2 to compensate; Kussmaul breathing is deep, labored breathing.",
@@ -29805,7 +29838,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2312",
+    "id": "s2surg-2315",
     "category": "Surg Endocrine",
     "q": "DKA ketones, osmolality, gap per p259?",
     "a": "Increased beta-hydroxybutyrate, increased serum osmolality, increased anion gap. Osmolality is high because glucose is markedly increased, even though serum sodium is low. DKA is the D in MUDPILES.",
@@ -29816,7 +29849,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2313",
+    "id": "s2surg-2316",
     "category": "Surg Endocrine",
     "q": "DKA sodium, potassium, GFR per p259?",
     "a": "Low serum Na+, high serum K+, low total body K+, increased GFR.",
@@ -29827,7 +29860,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2314",
+    "id": "s2surg-2317",
     "category": "Surg Endocrine",
     "q": "Are lymphomas/leukemias normally B or T cell per p259?",
     "a": "Almost always B cell.",
@@ -29838,7 +29871,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2315",
+    "id": "s2surg-2318",
     "category": "Surg Endocrine",
     "q": "Why serum sodium is low in DKA per p260?",
     "a": "Mostly dilutional: high osmolality holds fluid intravascularly. Also low insulin means less glucose entry, less ATP, less Na+/K+-ATPase activity, so sodium isn't pumped out of cells.",
@@ -29849,7 +29882,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2316",
+    "id": "s2surg-2319",
     "category": "Surg Endocrine",
     "q": "Why total body potassium is low in DKA per p260?",
     "a": "Increased renal losses: high serum potassium means more is filtered and excreted, and the processes causing hyperkalemia continue, depleting body K+.",
@@ -29860,7 +29893,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2317",
+    "id": "s2surg-2320",
     "category": "Surg Endocrine",
     "q": "Why GFR is increased in DKA per p260?",
     "a": "Hyperfiltration from hyperglycemia: more glucose is filtered, pulling water with it.",
@@ -29871,7 +29904,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2318",
+    "id": "s2surg-2321",
     "category": "Surg Endocrine",
     "q": "DKA treatment order per p260?",
     "a": "Normal saline (0.9% NaCl) first, prior to insulin.",
@@ -29886,7 +29919,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2319",
+    "id": "s2surg-2322",
     "category": "Surg Endocrine",
     "q": "Potassium after insulin in DKA per p260?",
     "a": "Serum potassium drops as insulin is given. DKA with a normal potassium, insulin given, and now an arrhythmia: the answer is potassium (it was driven into cells, causing hypokalemia).",
@@ -29897,7 +29930,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2320",
+    "id": "s2surg-2323",
     "category": "Surg Endocrine",
     "q": "Bicarbonate in DKA per p260?",
     "a": "Per the source, bicarb is always a wrong answer for low pH in DKA.",
@@ -29908,7 +29941,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2321",
+    "id": "s2surg-2324",
     "category": "Surg Endocrine",
     "q": "Hypoglycemia in type I DM per p260?",
     "a": "Don't confuse DKA with hypoglycemia: e.g., a type I diabetic who exercised or cleaned the roof and is found unconscious (insulin dose not decreased before exercise). Treatment is intramuscular glucagon (2CK likes this) or dextrose in water.",
@@ -29923,7 +29956,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2322",
+    "id": "s2surg-2325",
     "category": "Surg Endocrine",
     "q": "Prolonged hypoglycemia after insulin per p260?",
     "a": "Answer: 'deficiency of counter-regulatory glucagon.' In advanced diabetes the glucagon-producing alpha-islet cells can also fail; also asked for chronic alcoholism and pancreatectomy.",
@@ -29934,7 +29967,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2323",
+    "id": "s2surg-2326",
     "category": "Surg Endocrine",
     "q": "Type II DM basics per p260?",
     "a": "Insulin resistance, usually in high-BMI adults but can rarely occur in peds (a 2CK form gives type II in a 17-year-old). High BMI causes insulin resistance because adipose tissue secretes adipokines that impair insulin signaling.",
@@ -29949,7 +29982,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2324",
+    "id": "s2surg-2327",
     "category": "Surg Endocrine",
     "q": "Insulin and ketones in type II per p260?",
     "a": "Insulin is high initially (hyperinsulinemia) from beta-cell hypertrophy compensating for peripheral resistance. Ketones are absent/low because insulin inhibits ketogenesis. These two points are the highest yield.",
@@ -29960,7 +29993,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2325",
+    "id": "s2surg-2328",
     "category": "Surg Endocrine",
     "q": "Type II pancreas biopsy per p260?",
     "a": "Initially beta-cell hypertrophy; years later amyloid deposition and cell shrinkage. Hyperglycemia, as in type I, comes from continued hepatic gluconeogenesis plus decreased uptake by skeletal muscle and adipose tissue.",
@@ -29971,7 +30004,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2326",
+    "id": "s2surg-2329",
     "category": "Surg Endocrine",
     "q": "HHS mental status vignette per p261?",
     "a": "A long vignette with glucose of 650-700 and a question on the cause of mental status change: answer is 'hyperosmolality', 'hyperglycemia', or 'osmotic diuresis' (severe dehydration). Mechanism: hyperosmolality in the brain's ECF pulls water out of the ICF.",
@@ -29982,7 +30015,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2327",
+    "id": "s2surg-2330",
     "category": "Surg Endocrine",
     "q": "Hemochromatosis and diabetes per p261?",
     "a": "Hereditary hemochromatosis ('bronze diabetes'): iron deposition in the pancreas (the source says the tail), causing impaired fasting glucose or overt diabetes. Hyperpigmentation is from hemosiderin. Also cardiomyopathy, infertility, and pseudogout.",
@@ -29997,7 +30030,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2328",
+    "id": "s2surg-2331",
     "category": "Surg Endocrine",
     "q": "Other causes of diabetes per p261 (Cushing, acromegaly, alcohol, surgery)?",
     "a": "Cushing syndrome (insulin resistance from glucocorticoids); acromegaly (GH causes insulin resistance); alcoholism (chronic pancreatitis causing exocrine burnout and steatorrhea and loss of islet cells); pancreatectomy (removing some of the tail can lead to diabetes).",
@@ -30008,7 +30041,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2329",
+    "id": "s2surg-2332",
     "category": "Surg Endocrine",
     "q": "Tacrolimus per p261?",
     "a": "The notable drug that can cause diabetes for USMLE. An immunosuppressant that decreases IL-2 synthesis and T cell stimulation.",
@@ -30023,7 +30056,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2330",
+    "id": "s2surg-2333",
     "category": "Surg Endocrine",
     "q": "Calcium reference and symptoms per p261?",
     "a": "8.4-10.2 mg/dL. Low Ca: 'up' presentation (tetany, hyperreflexia). High Ca: 'down' (muscle flaccidity, hyporeflexia) and delirium/confusion (hypercalcemic crisis).",
@@ -30034,7 +30067,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2331",
+    "id": "s2surg-2334",
     "category": "Surg Endocrine",
     "q": "High calcium causes per p261?",
     "a": "Sarcoidosis (increased vitamin D), primary hyperparathyroidism (adenoma, hyperplasia, MEN 1/2A), metastatic malignancy, multiple myeloma, and thiazides (increase Ca reabsorption in the DCT).",
@@ -30045,7 +30078,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2332",
+    "id": "s2surg-2335",
     "category": "Surg Endocrine",
     "q": "Low calcium causes per p261?",
     "a": "Rickets/osteomalacia (low vitamin D), secondary hyperparathyroidism (renal failure), post-thyroidectomy, DiGeorge syndrome, loop diuretics (decreased paracellular reabsorption), and hypomagnesemia (usually in alcoholics; hypo-Mg can cause hypo-Ca and hypo-K nonresponsive to supplementation).",
@@ -30056,7 +30089,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2333",
+    "id": "s2surg-2336",
     "category": "Surg Endocrine",
     "q": "Sodium per p261?",
     "a": "Reference 135-145 mEq/L. High or low sodium causes CNS dysfunction (confusion, stupor, coma). Na can often be normal in USMLE vignettes despite the expected derangement (e.g., Conn syndrome with normal sodium).",
@@ -30067,7 +30100,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2334",
+    "id": "s2surg-2337",
     "category": "Surg Endocrine",
     "q": "High and low sodium causes per p261?",
     "a": "High: primary hyperaldosteronism, renal artery stenosis, fibromuscular dysplasia, dehydration, diabetes insipidus. Low: Addison disease, psychogenic polydipsia, SIADH.",
@@ -30078,7 +30111,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2335",
+    "id": "s2surg-2338",
     "category": "Surg Endocrine",
     "q": "Potassium per p261?",
     "a": "Reference 3.5-5.0 mEq/L. High or low potassium causes cardiac dysfunction (arrhythmia), in contrast to sodium causing CNS dysfunction.",
@@ -30089,7 +30122,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2336",
+    "id": "s2surg-2339",
     "category": "Surg Endocrine",
     "q": "High potassium causes per p262?",
     "a": "Addison disease, renal failure, and polypharmacy with agents such as potassium-sparing diuretics and digoxin.",
@@ -30100,7 +30133,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2337",
+    "id": "s2surg-2340",
     "category": "Surg Endocrine",
     "q": "Low potassium causes per p262?",
     "a": "Primary hyperaldosteronism, renal artery stenosis, fibromuscular dysplasia, Cushing disease (chronic high glucocorticoids acting like mineralocorticoids distally), vomiting, diarrhea, loop diuretics and thiazides, and hypomagnesemia.",
@@ -30111,7 +30144,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2338",
+    "id": "s2surg-2341",
     "category": "Surg Endocrine",
     "q": "Phosphate per p262?",
     "a": "Reference 2.5-4.5 mg/dL. High: hypoparathyroidism, secondary hyperparathyroidism, renal failure, tumor lysis syndrome, sarcoidosis (increased vitamin D). Low: primary hyperparathyroidism, rickets/osteomalacia, refeeding syndrome.",
@@ -30122,7 +30155,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2339",
+    "id": "s2surg-2342",
     "category": "Surg Endocrine",
     "q": "Normal acid-base values per p262?",
     "a": "Per the source: pH 7.35-7.45; HCO3- 22-28 mEq/L; pCO2 33-44 mmHg.",
@@ -30133,7 +30166,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2340",
+    "id": "s2surg-2343",
     "category": "Surg Endocrine",
     "q": "Metabolic acidosis per p262?",
     "a": "Low pH from low HCO3-; pCO2 falls to compensate (CO2 is acidic).",
@@ -30148,7 +30181,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2341",
+    "id": "s2surg-2344",
     "category": "Surg Endocrine",
     "q": "MUDPILES per p262?",
     "a": "High-anion-gap metabolic acidoses: Methanol, Uremia, DKA, Phenformin, Iron tablets/Isoniazid, Lactic acidosis, Ethylene glycol, Salicylates.",
@@ -30163,7 +30196,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2342",
+    "id": "s2surg-2345",
     "category": "Surg Endocrine",
     "q": "Normal anion gap acidosis per p262?",
     "a": "If metabolic acidosis has a normal anion gap, eliminate MUDPILES answers and choose something like renal tubular acidosis. Most important: diarrhea, RTA, adrenal insufficiency, and CAH (21-deficiency).",
@@ -30174,7 +30207,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2343",
+    "id": "s2surg-2346",
     "category": "Surg Endocrine",
     "q": "Anion gap calculation per p262?",
     "a": "Na+ - (HCO3- + Cl-). Normal is 8-12, so 13 or greater is high; an NBME question has a gap of 12 where the answer is RTA.",
@@ -30185,7 +30218,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2344",
+    "id": "s2surg-2347",
     "category": "Surg Endocrine",
     "q": "Metabolic alkalosis per p262?",
     "a": "High pH from high HCO3-; pCO2 rises to compensate. Causes: Conn syndrome, renal artery stenosis, fibromuscular dysplasia, vomiting, loops and thiazides (volume depletion activates RAAS).",
@@ -30196,7 +30229,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2345",
+    "id": "s2surg-2348",
     "category": "Surg Endocrine",
     "q": "Respiratory acidosis per p262?",
     "a": "Low pH from high CO2; HCO3 rises if chronic. Acute (normal bicarb): hypoventilation from opioids, benzos, barbiturates. Chronic (high bicarb): COPD, obstructive sleep apnea, obesity, ankylosing spondylitis, severe kyphoscoliosis.",
@@ -30207,7 +30240,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2346",
+    "id": "s2surg-2349",
     "category": "Surg Endocrine",
     "q": "Respiratory alkalosis per p262?",
     "a": "High pH from low CO2; HCO3 falls if chronic. Acute (normal bicarb): asthma attack, panic attack, most pulmonary emboli, first day at altitude. Chronic (low bicarb): living at high altitude, pregnancy (progesterone upregulates the respiratory center).",
@@ -30218,7 +30251,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2347",
+    "id": "s2surg-2350",
     "category": "Surg Endocrine",
     "q": "Electrolyte abnormality in Cushing syndrome per p262?",
     "a": "Hypokalemia (chronically high glucocorticoid causes distal renal potassium wasting similar to aldosterone).",
@@ -30229,7 +30262,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2348",
+    "id": "s2surg-2351",
     "category": "Surg Endocrine",
     "q": "Acid-base disturbance in asthma per p262?",
     "a": "Respiratory alkalosis: low O2, low CO2, high pH, normal bicarb.",
@@ -30240,7 +30273,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2349",
+    "id": "s2surg-2352",
     "category": "Surg Endocrine",
     "q": "Aspirin overdose acid-base per p263?",
     "a": "High-anion gap mixed metabolic acidosis and respiratory alkalosis (the S in MUDPILES).",
@@ -30251,7 +30284,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2350",
+    "id": "s2surg-2353",
     "category": "Surg Endocrine",
     "q": "Aspirin toxicity symptom per p263?",
     "a": "Most common symptom is tinnitus (ear-ringing).",
@@ -30262,7 +30295,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2351",
+    "id": "s2surg-2354",
     "category": "Surg Endocrine",
     "q": "Speed of compensation per p263?",
     "a": "Primary metabolic derangements are compensated instantly by respiration; primary respiratory derangements are compensated slowly because the kidney takes time to alter bicarb excretion.",
@@ -30273,7 +30306,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2352",
+    "id": "s2surg-2355",
     "category": "Surg Endocrine",
     "q": "Winter formula per p263?",
     "a": "Predicted pCO2 = (1.5 x HCO3-) + 8 +/- 2. Example: DKA with bicarb 14 predicts pCO2 27-31 mmHg. Lower than 27: concurrent respiratory alkalosis; higher than 31: concurrent respiratory acidosis.",
@@ -30284,7 +30317,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2353",
+    "id": "s2surg-2356",
     "category": "Surg Endocrine",
     "q": "Salicylate toxicity first symptom per p263?",
     "a": "Tinnitus (ear-ringing) is the most common first symptom. Diagnosis is salicylate (aspirin) toxicity.",
@@ -30299,7 +30332,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2354",
+    "id": "s2surg-2357",
     "category": "Surg Endocrine",
     "q": "Salicylate acid-base per p263?",
     "a": "Mixed metabolic acidosis-respiratory alkalosis. Aspirin first causes isolated respiratory alkalosis (first 20 minutes) from direct upregulation of the brain's respiratory centers; then aspirin itself (salicylic acid) causes a metabolic acidosis that wins, so pH ultimately goes low.",
@@ -30310,7 +30343,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2355",
+    "id": "s2surg-2358",
     "category": "Surg Endocrine",
     "q": "Salicylate lab arrows per p263?",
     "a": "First 20 mins: high pH, normal HCO3-, low CO2. After 20 mins: low pH, low HCO3-, low CO2, high anion gap. Salicylates are the S in MUDPILES. Sodium and potassium are normal (potassium must always be normal).",
@@ -30321,7 +30354,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2356",
+    "id": "s2surg-2359",
     "category": "Surg Endocrine",
     "q": "Why bicarb is low in salicylate toxicity per p263?",
     "a": "Not compensation: the kidney can't alter bicarb until at least 12-24 hours later. Bicarb is low because aspirin is an acid causing metabolic acidosis.",
@@ -30332,7 +30365,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2357",
+    "id": "s2surg-2360",
     "category": "Surg Endocrine",
     "q": "Chloride in salicylate toxicity per p263?",
     "a": "A 2CK-level point: if forced to choose, pick low chloride, because anion gap = Na+ - (HCO3- + Cl-) and low chloride raises the gap. Na+ and Cl- can be abnormal insofar as bicarb is low and the gap is high.",
@@ -30343,7 +30376,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2358",
+    "id": "s2surg-2361",
     "category": "Surg Endocrine",
     "q": "Renal failure key disturbances per p263?",
     "a": "Secondary hyperparathyroidism (low Ca2+, high PO4, high PTH, low 1,25-D3), plus high K+, low HCO3-, low pH, high anion gap (U in MUDPILES = uremia), Na+ variable.",
@@ -30354,7 +30387,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2359",
+    "id": "s2surg-2362",
     "category": "Surg Endocrine",
     "q": "Acute asthma and PE acid-base per p263?",
     "a": "Low pCO2, no change in HCO3-, high pH: acute respiratory alkalosis, not acidosis. pCO2 only rises if the patient tires as an attack prolongs. Bicarb is unchanged because the kidney needs at least 12-24 hours. Metabolic disturbances are compensated instantly by breathing.",
@@ -30365,7 +30398,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2360",
+    "id": "s2surg-2363",
     "category": "Surg Endocrine",
     "q": "COPD and obstructive sleep apnea per p264?",
     "a": "Chronic CO2 retainers: high pCO2, high HCO3- (bicarb rises to compensate), low pH.",
@@ -30376,7 +30409,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2361",
+    "id": "s2surg-2364",
     "category": "Surg Endocrine",
     "q": "Vomiting acid-base per p264?",
     "a": "Low serum K+, low Cl-, high HCO3-, high CO2, high pH: hypokalemic, hypochloremic metabolic alkalosis. Vomitus contains lots of potassium, chloride and protons; volume depletion promotes distal K+ and H+ losses via RAAS. CO2 is retained to compensate.",
@@ -30391,7 +30424,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2362",
+    "id": "s2surg-2365",
     "category": "Surg Endocrine",
     "q": "Loop/thiazide diuretic abuse per p264?",
     "a": "Same arrows as vomiting (low K+, low Cl-, high HCO3-, high CO2, high pH). Furosemide blocks the apical 2Cl-/K+/Na+ symporter in the thick ascending limb; volume loss upregulates RAAS and distal proton secretion: 'contraction alkalosis', with extra distal K+ secretion.",
@@ -30402,7 +30435,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2363",
+    "id": "s2surg-2366",
     "category": "Surg Endocrine",
     "q": "Thiazides and acid-base per p264?",
     "a": "Block the Na+/Cl- symporter on the apical membrane of the early DCT, causing volume depletion and increased RAAS, thereby increased distal H+ and K+ secretion; same arrows as vomiting.",
@@ -30413,7 +30446,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2364",
+    "id": "s2surg-2367",
     "category": "Surg Endocrine",
     "q": "Diarrhea acid-base per p264?",
     "a": "Low K+, high Cl-, low HCO3-, low pH, low CO2, normal anion gap. Stool is rich in potassium and bicarb; CO2 is blown off to compensate; chloride is high due to cellular shifts; the gap is normal because diarrhea isn't in MUDPILES.",
@@ -30428,7 +30461,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2365",
+    "id": "s2surg-2368",
     "category": "Surg Endocrine",
     "q": "Metformin basics per p264?",
     "a": "MOA per the source: increases glycolysis and decreases gluconeogenesis. Only used for type II DM. Causes lactic acidosis; discontinue if bicarb is low.",
@@ -30439,7 +30472,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2366",
+    "id": "s2surg-2369",
     "category": "Surg Endocrine",
     "q": "Metformin and creatinine per p264?",
     "a": "Per the source: discontinue (or don't start) if creatinine is 1.5 or greater, as reduced renal function raises lactic acidosis risk.",
@@ -30454,7 +30487,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2367",
+    "id": "s2surg-2370",
     "category": "Surg Endocrine",
     "q": "Metformin vs insulin in pregnancy per p264?",
     "a": "Choose insulin over metformin for glycemic control in pregnancy/intrapartum, as it allows optimal fine-tuning of glucose.",
@@ -30465,7 +30498,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2368",
+    "id": "s2surg-2371",
     "category": "Surg Endocrine",
     "q": "Metformin + glyburide with HbA1c 12% per p265?",
     "a": "Type II DM on metformin + glyburide, uncontrolled HbA1c 12%, with low bicarb or high creatinine: answer 'discontinue metformin and glyburide and commence intermediate-acting insulin'. Low bicarb on metformin means lactic acidosis, so choose discontinuing metformin; renal insufficiency is a lactic acidosis risk factor.",
@@ -30476,7 +30509,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2369",
+    "id": "s2surg-2372",
     "category": "Surg Endocrine",
     "q": "Metformin creatinine cutoff per p265?",
     "a": "The source says a creatinine of 1.5 or greater needs the patient off metformin (max 1.4 seen on NBME where metformin is acceptable).",
@@ -30487,7 +30520,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2370",
+    "id": "s2surg-2373",
     "category": "Surg Endocrine",
     "q": "Sulfonylureas per p265?",
     "a": "Glyburide, glipizide, glibenclamide. Insulin secretagogues: increase insulin secretion by blocking the ATP-gated K+ channel on beta-islet cells without needing ATP.",
@@ -30502,7 +30535,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2371",
+    "id": "s2surg-2374",
     "category": "Surg Endocrine",
     "q": "Sulfonylureas on NBME per p265?",
     "a": "Glyburide and glipizide show up repeatedly; the source hasn't seen other sulfonylureas. Glibenclamide was known for severe hypoglycemia (be aware in theory).",
@@ -30513,7 +30546,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2372",
+    "id": "s2surg-2375",
     "category": "Surg Endocrine",
     "q": "Meglitinides per p265?",
     "a": "Repaglinide. Like sulfonylureas, they increase insulin secretion by blocking the ATP-gated K+ channel on beta-islet cells.",
@@ -30524,7 +30557,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2373",
+    "id": "s2surg-2376",
     "category": "Surg Endocrine",
     "q": "PTU/methimazole adverse effects per p265?",
     "a": "Both used for Graves; both inhibit thyroperoxidase (PTU also inhibits 5-deiodinase). Both can cause neutropenia/agranulocytosis, often presenting as mouth ulcers: e.g., recently treated for thyroid storm, now mouth ulcers and fever: answer 'drug adverse effect' / 'drug-induced neutropenia'.",
@@ -30535,7 +30568,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2374",
+    "id": "s2surg-2377",
     "category": "Surg Endocrine",
     "q": "Propranolol, steroids, methimazole in pregnancy per p265?",
     "a": "Propranolol for tachycardia in hyperthyroidism; steroids for exophthalmos. Methimazole is teratogenic in the first trimester.",
@@ -30546,7 +30579,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2375",
+    "id": "s2surg-2378",
     "category": "Surg Endocrine",
     "q": "Demeclocycline per p265?",
     "a": "Shows up as treatment for SIADH on NBME. A tetracycline antibiotic causing nephrogenic DI as an adverse effect, a 'good thing' when treating SIADH (one problem cancels the other).",
@@ -30557,7 +30590,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2376",
+    "id": "s2surg-2379",
     "category": "Surg Endocrine",
     "q": "Octreotide per p265?",
     "a": "Somatostatin analogue used for acromegaly and esophageal varices.",
@@ -30568,7 +30601,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2377",
+    "id": "s2surg-2380",
     "category": "Surg Endocrine",
     "q": "Cinacalcet per p265?",
     "a": "Increases sensitivity of calcium-sensing receptors on the parathyroid glands. Helps suppress PTH in secondary hyperparathyroidism.",
@@ -30583,7 +30616,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2378",
+    "id": "s2surg-2381",
     "category": "Surg Mixed",
     "q": "When is a sitz bath the answer per p266?",
     "a": "Anal fissure: the stem asks the next best step in management 'in addition to stool softeners'.",
@@ -30594,7 +30627,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2379",
+    "id": "s2surg-2382",
     "category": "Surg Mixed",
     "q": "Anal fissure description per p266?",
     "a": "Ulcer in the posterior midline of the anal canal +/- an adjacent edematous skin tag at the anal verge. Highest-yield descriptor: the rectal exam cannot be performed because of exquisite pain and increased anal sphincter tone.",
@@ -30605,7 +30638,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2380",
+    "id": "s2surg-2383",
     "category": "Surg Mixed",
     "q": "When is a hydrocortisone enema the answer per p266?",
     "a": "Sometimes for IBD. First-line IBD treatment is 5-ASA (mesalamine), but 'hydrocortisone enema' is a common answer choice on surgery forms (per the source).",
@@ -30616,7 +30649,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2381",
+    "id": "s2surg-2384",
     "category": "Surg Mixed",
     "q": "When is anal manometry the answer per p266?",
     "a": "To diagnose Hirschsprung disease: a child passes one string-like stool every 4 days despite maximum laxatives with no stool in the rectal vault. Anal manometry (pressure study) is done first; confirmatory biopsy is most accurate.",
@@ -30631,7 +30664,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2382",
+    "id": "s2surg-2385",
     "category": "Surg Mixed",
     "q": "When is placement of elastic bands the answer per p266?",
     "a": "Treatment of hemorrhoids on USMLE.",
@@ -30642,7 +30675,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2383",
+    "id": "s2surg-2386",
     "category": "Surg Mixed",
     "q": "Cystic mass at the top of the gluteal cleft near the tailbone per p266?",
     "a": "Pilonidal cyst (pilonidal abscess in the literature); treatment is surgical incision and drainage just off the midline.",
@@ -30653,7 +30686,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2384",
+    "id": "s2surg-2387",
     "category": "Surg Mixed",
     "q": "How do you diagnose GERD per p266?",
     "a": "Trial of PPIs (diagnostic and therapeutic).",
@@ -30668,7 +30701,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2385",
+    "id": "s2surg-2388",
     "category": "Surg Mixed",
     "q": "When is 24-hour pH monitoring the answer per p266?",
     "a": "If patients fail a PPI trial but have suggestive symptoms, or if initial symptoms are equivocal (no burning but chronic or nocturnal cough).",
@@ -30679,7 +30712,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2386",
+    "id": "s2surg-2389",
     "category": "Surg Mixed",
     "q": "When is endoscopic ultrasound the answer per p266?",
     "a": "Almost never, but it is an occasional choice on surgery forms; may help diagnose pancreatic cancer if CT is negative (per the source).",
@@ -30690,7 +30723,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2387",
+    "id": "s2surg-2390",
     "category": "Surg Mixed",
     "q": "When is esophageal manometry the answer per p266?",
     "a": "USMLE wants it for achalasia after a barium or gastrografin (water-soluble contrast) swallow shows the bird's beak appearance.",
@@ -30701,7 +30734,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2388",
+    "id": "s2surg-2391",
     "category": "Surg Mixed",
     "q": "42M with 3 years of GERD + CXR air-fluid level behind the cardiac silhouette per p266?",
     "a": "Hiatal hernia (next steps on p267).",
@@ -30712,7 +30745,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2389",
+    "id": "s2surg-2392",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + normal amylase/lipase, recent cholecystectomy per p267?",
     "a": "Choledocholithiasis (retained stone in the cystic duct that descended, but not distal to the pancreatic duct entry). Diagnosis and treatment: ERCP.",
@@ -30723,7 +30756,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2390",
+    "id": "s2surg-2393",
     "category": "Surg Mixed",
     "q": "Same labs + diffuse pruritus + high cholesterol per p267?",
     "a": "Primary biliary cirrhosis (PBC); also if autoimmune disease in the patient or family. Diagnosis: anti-mitochondrial antibodies next; liver biopsy is confirmatory.",
@@ -30734,7 +30767,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2391",
+    "id": "s2surg-2394",
     "category": "Surg Mixed",
     "q": "Recent cholecystectomy + fever + abdominal pain per p267?",
     "a": "Post-op bile leak.",
@@ -30745,7 +30778,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2392",
+    "id": "s2surg-2395",
     "category": "Surg Mixed",
     "q": "Same labs + CT shows a cystic lesion in the bile duct per p267?",
     "a": "Choledochal cyst: simple excision of the cyst (cholangiocarcinoma isn't cystic and CT can be negative).",
@@ -30756,7 +30789,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2393",
+    "id": "s2surg-2396",
     "category": "Surg Mixed",
     "q": "Imaging choices per p267?",
     "a": "Liver or pancreas: CT with contrast. Gallbladder: ultrasound (HIDA scan only if ultrasound is negative in suspected cholecystitis). Bile ducts: ERCP or MRCP (choose ERCP over MRCP if both are listed).",
@@ -30767,7 +30800,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2394",
+    "id": "s2surg-2397",
     "category": "Surg Mixed",
     "q": "42M with hiatal hernia: next best step in diagnosis per p267?",
     "a": "Barium swallow, which shows the proximal stomach herniating through the esophageal hiatus.",
@@ -30778,7 +30811,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2395",
+    "id": "s2surg-2398",
     "category": "Surg Mixed",
     "q": "Hiatal hernia suggested on barium swallow: next step per p267?",
     "a": "Esophagogastroduodenoscopy (the answer on the NBME, per the source).",
@@ -30789,7 +30822,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2396",
+    "id": "s2surg-2399",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + high amylase or lipase per p267?",
     "a": "Gallstone pancreatitis from choledocholithiasis.",
@@ -30800,7 +30833,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2397",
+    "id": "s2surg-2400",
     "category": "Surg Mixed",
     "q": "Same labs with a remote history of cholecystectomy per p267?",
     "a": "Sphincter of Oddi dysfunction (it cannot be a gallbladder stone since the gallbladder was removed long ago).",
@@ -30811,7 +30844,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2398",
+    "id": "s2surg-2401",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of choledocholithiasis per p267?",
     "a": "ERCP.",
@@ -30822,7 +30855,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2399",
+    "id": "s2surg-2402",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + normal amylase/lipase, remote cholecystectomy per p267?",
     "a": "Pancreatic cancer; diagnose with CT abdomen with contrast. If CT is negative: cholangiocarcinoma.",
@@ -30833,7 +30866,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2400",
+    "id": "s2surg-2403",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + normal enzymes + autoimmune disease in the patient or family per p267?",
     "a": "Primary biliary cirrhosis (PBC).",
@@ -30844,7 +30877,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2401",
+    "id": "s2surg-2404",
     "category": "Surg Mixed",
     "q": "Diagnosis of PBC per p267?",
     "a": "Anti-mitochondrial antibodies as the next step; liver biopsy is confirmatory.",
@@ -30855,7 +30888,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2402",
+    "id": "s2surg-2405",
     "category": "Surg Mixed",
     "q": "Imaging to view the liver or pancreas, gallbladder, bile ducts per p267?",
     "a": "Liver or pancreas: CT with contrast. Gallbladder: ultrasound (HIDA scan only if ultrasound is negative in suspected cholecystitis). Bile ducts: ERCP or MRCP (choose ERCP over MRCP if both are listed).",
@@ -30866,7 +30899,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2403",
+    "id": "s2surg-2406",
     "category": "Surg Mixed",
     "q": "UC + high bilirubin + high ALP per p267?",
     "a": "Primary sclerosing cholangitis.",
@@ -30877,7 +30910,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2404",
+    "id": "s2surg-2407",
     "category": "Surg Mixed",
     "q": "8-day-old neonate with jaundice, direct bilirubin 14, total 15 mg/dL per p268?",
     "a": "Biliary atresia (super HY). Next best step in diagnosis per the source: straight to liver biopsy; if positive, liver transplant.",
@@ -30892,7 +30925,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2405",
+    "id": "s2surg-2408",
     "category": "Surg Mixed",
     "q": "79M with atrial fibrillation + severe acute diffuse abdominal pain per p268?",
     "a": "Acute mesenteric ischemia from a mural thrombus embolizing to the SMA or IMA. Next step in management: mesenteric arteriography.",
@@ -30903,7 +30936,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2406",
+    "id": "s2surg-2409",
     "category": "Surg Mixed",
     "q": "Treatment of the 79M with acute mesenteric ischemia per p268?",
     "a": "Antibiotics (for necrotic bowel) then laparotomy to remove necrotic bowel. The source says the stem states IV antibiotics were given and asks the next step: laparotomy. USMLE wants resection of nonviable bowel, though the literature mentions embolectomy.",
@@ -30918,7 +30951,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2407",
+    "id": "s2surg-2410",
     "category": "Surg Mixed",
     "q": "52F with a short ventricular fibrillation episode, defibrillated, now severe abdominal pain per p268?",
     "a": "Acute mesenteric ischemia from ischemia due to VF, not an embolus: antibiotics; CT if stable; if unstable go straight to laparotomy.",
@@ -30929,7 +30962,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2408",
+    "id": "s2surg-2411",
     "category": "Surg Mixed",
     "q": "55F diabetic with claudication + abdominal pain 1-2 hours after meals per p268?",
     "a": "Chronic mesenteric ischemia from severe atherosclerosis of the SMA or IMA (angina of the bowel).",
@@ -30940,7 +30973,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2409",
+    "id": "s2surg-2412",
     "category": "Surg Mixed",
     "q": "Chronic mesenteric ischemia: next step in diagnosis and treatment per p268?",
     "a": "Mesenteric arteriography (e.g., after CABG); treatment is angioplasty + stenting to restore blood flow (e.g., with renal artery stenosis history).",
@@ -30951,7 +30984,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2410",
+    "id": "s2surg-2413",
     "category": "Surg Mixed",
     "q": "Chronic mesenteric ischemia patient with 2 days of severe abdominal pain and fever per p268?",
     "a": "Acute on chronic mesenteric ischemia (thrombosis; an 'MI' of the bowel): mesenteric arteriography to diagnose; antibiotics + laparotomy to remove necrotic bowel.",
@@ -30962,7 +30995,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2411",
+    "id": "s2surg-2414",
     "category": "Surg Mixed",
     "q": "What is the pectinate line per p268?",
     "a": "It separates the upper 2/3 of the anal canal (hindgut; endoderm) from the lower 1/3 (proctodeum; ectoderm).",
@@ -30973,7 +31006,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2412",
+    "id": "s2surg-2415",
     "category": "Surg Mixed",
     "q": "Lymphatic drainage and arterial supply above and below the pectinate line per p268?",
     "a": "Lymph: above to internal iliac nodes; below to superficial inguinal nodes. Artery: above the superior rectal artery; below the middle/inferior rectal arteries.",
@@ -30984,7 +31017,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2413",
+    "id": "s2surg-2416",
     "category": "Surg Mixed",
     "q": "Venous drainage above and below the pectinate line per p269?",
     "a": "Above: superior rectal vein; below: middle/inferior rectal veins.",
@@ -30995,7 +31028,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2414",
+    "id": "s2surg-2417",
     "category": "Surg Mixed",
     "q": "Pectinate line and hemorrhoids per p269?",
     "a": "Above: internal hemorrhoids (painless); below: external hemorrhoids (painful).",
@@ -31006,7 +31039,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2415",
+    "id": "s2surg-2418",
     "category": "Surg Mixed",
     "q": "Treatment of hemorrhoids per p269?",
     "a": "Conservative first (fiber + exercise); for intervention, rubber band ligation.",
@@ -31017,7 +31050,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2416",
+    "id": "s2surg-2419",
     "category": "Surg Mixed",
     "q": "Diagnosis of congenital midgut volvulus per p269?",
     "a": "Upper-GI series (AXR + contrast follow-through of the esophagus, stomach, and duodenum with barium or gastrografin).",
@@ -31028,7 +31061,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2417",
+    "id": "s2surg-2420",
     "category": "Surg Mixed",
     "q": "87F with a coffee bean sign on AXR and obstipation per p269?",
     "a": "Sigmoid volvulus; the source says the surgery NBME treatment is sigmoidoscopy-guided placement of a rectal tube.",
@@ -31039,7 +31072,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2418",
+    "id": "s2surg-2421",
     "category": "Surg Mixed",
     "q": "22M stressed studying, yellow eyes, similar past episodes, otherwise healthy per p269?",
     "a": "Gilbert syndrome (decreased glucuronosyltransferase expression, the bilirubin-conjugating enzyme; reduced ability to take up unconjugated bilirubin at the liver). Treatment is reassurance; it is benign.",
@@ -31050,7 +31083,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2419",
+    "id": "s2surg-2422",
     "category": "Surg Mixed",
     "q": "Criteria for pathologic neonatal jaundice per p269?",
     "a": "Any one of: jaundice in the first 24 hours; jaundice after 1 week (term) or 2 weeks (preterm); total bilirubin >15 mg/dL; direct bilirubin >10% of total even if total <15; rate of rise of total bilirubin >0.5 mg/dL/hour.",
@@ -31065,7 +31098,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2420",
+    "id": "s2surg-2423",
     "category": "Surg Mixed",
     "q": "16F with fever, leukocytosis, RLQ pain migrating from the epigastrium per p269?",
     "a": "Appendicitis. Epigastric pain is visceral; RLQ pain is parietal peritoneal inflammation. In females, pregnancy test + adnexal ultrasound for gyn causes (e.g., ruptured cyst); in males go straight to laparoscopy; if gyn causes are ruled out, laparoscopic removal.",
@@ -31076,7 +31109,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2421",
+    "id": "s2surg-2424",
     "category": "Surg Mixed",
     "q": "Normal appendix found at surgery for suspected appendicitis per p270?",
     "a": "Still remove it. Ultrasound and CT can be false-negative, so with high clinical suspicion the patient goes straight to laparoscopy.",
@@ -31087,7 +31120,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2422",
+    "id": "s2surg-2425",
     "category": "Surg Mixed",
     "q": "Mallory-Weiss tear vs esophageal varices per p270?",
     "a": "MWT: vomiting/retching in an alcoholic, a little blood in the vomitus. Varices: LOTS of blood; about half of patients with a ruptured varix die (per the source).",
@@ -31098,7 +31131,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2423",
+    "id": "s2surg-2426",
     "category": "Surg Mixed",
     "q": "Mallory-Weiss tear vs Boerhaave per p270?",
     "a": "MWT is not transmural; Boerhaave is transmural and causes subcutaneous emphysema (crepitus).",
@@ -31109,7 +31142,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2424",
+    "id": "s2surg-2427",
     "category": "Surg Mixed",
     "q": "Treatment and prophylaxis of esophageal varices per p270?",
     "a": "Treatment: banding + octreotide. Prophylaxis: propranolol.",
@@ -31120,7 +31153,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2425",
+    "id": "s2surg-2428",
     "category": "Surg Mixed",
     "q": "Biochemical disturbance in a person who is vomiting per p270?",
     "a": "Hypokalemic hypochloremic metabolic alkalosis: low K, low Cl, high pH, high bicarb, low H; anion gap normal.",
@@ -31131,7 +31164,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2426",
+    "id": "s2surg-2429",
     "category": "Surg Mixed",
     "q": "2-week-old male with forceful non-bilious vomiting per p270?",
     "a": "Hypertrophic pyloric stenosis. Diagnose with abdominal ultrasound showing an olive-shaped hypertrophied pylorus.",
@@ -31146,7 +31179,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2427",
+    "id": "s2surg-2430",
     "category": "Surg Mixed",
     "q": "Who gets pyloric stenosis per p270?",
     "a": "First-born males, and neonates taking oral erythromycin for chlamydial ophthalmia neonatorum (erythromycin is a motilin-receptor agonist).",
@@ -31157,7 +31190,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2428",
+    "id": "s2surg-2431",
     "category": "Surg Mixed",
     "q": "2-week-old male with bilious vomiting per p270?",
     "a": "Duodenal atresia, annular pancreas, congenital midgut volvulus, or Hirschsprung (Hirschsprung can present with bilious vomiting).",
@@ -31168,7 +31201,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2429",
+    "id": "s2surg-2432",
     "category": "Surg Mixed",
     "q": "2-week-old with Down syndrome + bilious vomiting + passed meconium vs slow to pass meconium per p270?",
     "a": "Passed meconium: duodenal atresia. Slow to pass meconium: Hirschsprung.",
@@ -31179,7 +31212,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2430",
+    "id": "s2surg-2433",
     "category": "Surg Mixed",
     "q": "Diagnosis of duodenal atresia per p270?",
     "a": "Abdominal x-ray showing the double-bubble sign (very HY).",
@@ -31190,7 +31223,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2431",
+    "id": "s2surg-2434",
     "category": "Surg Mixed",
     "q": "Diagnosis and mechanism of Hirschsprung per p270?",
     "a": "Rectal manometry, then confirmatory rectal biopsy showing absence of ganglion cells. Mechanism: failure of neural crest cells to migrate distally to the rectum.",
@@ -31205,7 +31238,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2432",
+    "id": "s2surg-2435",
     "category": "Surg Mixed",
     "q": "Most likely overall cause of failure to pass meconium at birth per p270?",
     "a": "Cystic fibrosis.",
@@ -31216,7 +31249,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2433",
+    "id": "s2surg-2436",
     "category": "Surg Mixed",
     "q": "18-month-old with intermittent abdominal pain, crying, blood in stool per p270?",
     "a": "Intussusception (the same for intermittent squatting or legs to chest + vomiting + FOBT positive).",
@@ -31227,7 +31260,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2434",
+    "id": "s2surg-2437",
     "category": "Surg Mixed",
     "q": "18-month-old with legs to chest, vomiting, FOBT negative per p271?",
     "a": "Congenital midgut volvulus (it sounds like intussusception but there is no blood per rectum).",
@@ -31238,7 +31271,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2435",
+    "id": "s2surg-2438",
     "category": "Surg Mixed",
     "q": "Cause of intussusception per p271?",
     "a": "More than 99% are in kids under 2, from lymphoid hyperplasia due to viral infection (e.g., rotavirus) or recent vaccination. In an adult (usually elderly) it is caused by colorectal cancer.",
@@ -31249,7 +31282,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2436",
+    "id": "s2surg-2439",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of intussusception per p271?",
     "a": "USMLE wants an enema as the answer (air contrast, air, contrast, or water-soluble contrast enema). Ultrasound shows a target sign but the exam wants the enema.",
@@ -31264,7 +31297,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2437",
+    "id": "s2surg-2440",
     "category": "Surg Mixed",
     "q": "Barium vs water-soluble (gastrografin) contrast swallow per p271?",
     "a": "Barium most of the time. If at risk of aspiration use barium, because aspiration of gastrografin causes pneumonitis. If esophageal perforation is suspected, do not use barium (mediastinitis); use gastrografin.",
@@ -31275,7 +31308,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2438",
+    "id": "s2surg-2441",
     "category": "Surg Mixed",
     "q": "Celiac trunk level, branches, and supply per p271?",
     "a": "T12; splenic, common hepatic, left gastric arteries; supplies the foregut (mouth to duodenum at the ampulla of Vater).",
@@ -31286,7 +31319,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2439",
+    "id": "s2surg-2442",
     "category": "Surg Mixed",
     "q": "SMA level and supply per p271?",
     "a": "L1; supplies the midgut (duodenum at the ampulla until the distal 2/3 of the transverse colon); right colic and middle colic arteries come off the SMA.",
@@ -31297,7 +31330,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2440",
+    "id": "s2surg-2443",
     "category": "Surg Mixed",
     "q": "IMA level and supply per p271?",
     "a": "L3; supplies the hindgut (distal 2/3 of the transverse colon to the pectinate line); the left colic artery comes off the IMA.",
@@ -31308,7 +31341,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2441",
+    "id": "s2surg-2444",
     "category": "Surg Mixed",
     "q": "Level of renal + gonadal arteries and aortic bifurcation per p271?",
     "a": "Renal and gonadal arteries most often come off at L2. The abdominal aorta bifurcates into the common iliacs at L4.",
@@ -31319,7 +31352,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2442",
+    "id": "s2surg-2445",
     "category": "Surg Mixed",
     "q": "Who gets a one-off abdominal ultrasound for AAA per p271?",
     "a": "Males over 55 who are ever-smokers (the source's wording).",
@@ -31330,7 +31363,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2443",
+    "id": "s2surg-2446",
     "category": "Surg Mixed",
     "q": "Diagnosis of C. diff per p272?",
     "a": "Stool A/B toxin test, not stool culture.",
@@ -31341,7 +31374,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2444",
+    "id": "s2surg-2447",
     "category": "Surg Mixed",
     "q": "Most common locations of atherosclerosis in descending order per p272?",
     "a": "Abdominal aorta, coronary arteries, popliteal arteries, carotid arteries.",
@@ -31352,7 +31385,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2445",
+    "id": "s2surg-2448",
     "category": "Surg Mixed",
     "q": "Which structure is supplied by an artery of the foregut but is not derived from the foregut per p272?",
     "a": "The spleen.",
@@ -31363,7 +31396,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2446",
+    "id": "s2surg-2449",
     "category": "Surg Mixed",
     "q": "Short gastric arteries and the main pancreatic supply per p272?",
     "a": "Short gastric arteries come off the splenic artery. Main arterial supply to the pancreas: arteria pancreatica magna (greater pancreatic artery), a splenic branch.",
@@ -31374,7 +31407,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2447",
+    "id": "s2surg-2450",
     "category": "Surg Mixed",
     "q": "Which nerve must be severed to remove cancer at the gastroesophageal junction per p272?",
     "a": "The vagus (the source says to memorize it; from a retired NBME).",
@@ -31385,7 +31418,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2448",
+    "id": "s2surg-2451",
     "category": "Surg Mixed",
     "q": "HY structures through the diaphragm per p272?",
     "a": "'I Ate 10 Eggs At 12': IVC T8; esophagus + vagus at T10 (the source also lists thoracic duct); aortic hiatus (aorta, azygos vein, thoracic duct) at T12.",
@@ -31396,7 +31429,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2449",
+    "id": "s2surg-2452",
     "category": "Surg Mixed",
     "q": "Celiac disease key points per p272?",
     "a": "Gluten intolerance (wheat, oats, rye, barley); villous flattening on biopsy; often iron deficiency anemia (differs from lactose intolerance). Dx: anti-endomysial IgA, anti-tissue transglutaminase IgA, then duodenal biopsy to confirm. Tx: avoid gluten.",
@@ -31411,7 +31444,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2450",
+    "id": "s2surg-2453",
     "category": "Surg Mixed",
     "q": "Treatment of C. difficile per p272?",
     "a": "Guidelines as of Feb 2018 (per the source) say oral vancomycin first-line, not metronidazole. Vancomycin is given orally here to keep the drug in the colon lumen.",
@@ -31426,7 +31459,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2451",
+    "id": "s2surg-2454",
     "category": "Surg Mixed",
     "q": "Mechanism of colonic necrosis in C. difficile and recurrence after vancomycin per p272?",
     "a": "Necrosis: cytoskeletal disruption. Recurrence weeks later: regermination of spores.",
@@ -31437,7 +31470,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2452",
+    "id": "s2surg-2455",
     "category": "Surg Mixed",
     "q": "C. difficile + 104F fever + tachycardia + diffuse abdominal pain: next step per p272?",
     "a": "AXR to look for toxic megacolon. Treat with NPO, NG decompression + rectal tube, antibiotics (vancomycin or fidaxomicin), steroids (if UC), correct electrolytes (sometimes low K).",
@@ -31448,7 +31481,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2453",
+    "id": "s2surg-2456",
     "category": "Surg Mixed",
     "q": "Toxic megacolon not improving with conservative therapy per p273?",
     "a": "Surgery (subtotal colectomy + ileostomy). Do not do a colonoscopy in toxic megacolon: it causes perforation.",
@@ -31459,7 +31492,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2454",
+    "id": "s2surg-2457",
     "category": "Surg Mixed",
     "q": "Nerve damage that causes constipation per p273?",
     "a": "Pelvic splanchnic nerves (parasympathetic, drive bowel function). Hypogastric nerves = sympathetic (internal anal sphincter); pudendal = somatic (external anal sphincter).",
@@ -31470,7 +31503,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2455",
+    "id": "s2surg-2458",
     "category": "Surg Mixed",
     "q": "45M cirrhosis + fluid wave + fever + abdominal pain per p273?",
     "a": "Spontaneous bacterial peritonitis (SBP). Same for a diabetic on peritoneal dialysis with fever and abdominal pain, and for a child with minimal change disease causing ascites.",
@@ -31481,7 +31514,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2456",
+    "id": "s2surg-2459",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of SBP per p273?",
     "a": "Paracentesis with Gram stain; look for >250 WBCs per HPF. Treat with ceftriaxone.",
@@ -31496,7 +31529,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2457",
+    "id": "s2surg-2460",
     "category": "Surg Mixed",
     "q": "Serum-ascites albumin gradient (SAAG) per p273?",
     "a": "Serum albumin minus ascitic albumin. >1.1: transudative/portal hypertension (CHF, Budd-Chiari, cirrhosis). <1.1: exudative (TB, SBP, pancreatitis, malignancy) or nephrotic syndrome.",
@@ -31507,7 +31540,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2458",
+    "id": "s2surg-2461",
     "category": "Surg Mixed",
     "q": "Woman in her 20s-50s with high cholesterol, diffuse pruritus, sister with rheumatoid arthritis per p273?",
     "a": "Primary biliary cirrhosis (autoimmune diseases go together in patient or family). Dx: anti-mitochondrial Abs first; liver biopsy confirms.",
@@ -31518,7 +31551,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2459",
+    "id": "s2surg-2462",
     "category": "Surg Mixed",
     "q": "Neonate born at 32 weeks with fever, abdominal distension, feeding intolerance, hematochezia per p273?",
     "a": "Necrotizing enterocolitis, bowel infection in premature neonates, usually <32 weeks gestation.",
@@ -31529,7 +31562,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2460",
+    "id": "s2surg-2463",
     "category": "Surg Mixed",
     "q": "Diagnosis of necrotizing enterocolitis per p273?",
     "a": "AXR showing pneumatosis intestinalis (air in the bowel wall), air in the portal vein, or free air under the diaphragm.",
@@ -31544,7 +31577,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2461",
+    "id": "s2surg-2464",
     "category": "Surg Mixed",
     "q": "Treatment of necrotizing enterocolitis per p274?",
     "a": "NPO, NG decompression, broad-spectrum antibiotics; if necrotic bowel, surgery.",
@@ -31555,7 +31588,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2462",
+    "id": "s2surg-2465",
     "category": "Surg Mixed",
     "q": "49M with abdominal pain after meals, now sepsis + diffuse acute abdominal pain per p274?",
     "a": "Ruptured viscus (duodenum). Next step: x-ray of chest + abdomen to look for air under the diaphragm. The source says the exam gives CXR alone, AXR alone, or both as choices.",
@@ -31566,7 +31599,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2463",
+    "id": "s2surg-2466",
     "category": "Surg Mixed",
     "q": "42M with dysphagia to solids and liquids from the start per p274?",
     "a": "Achalasia. Inability to swallow solids and liquids together implies a neurogenic cause.",
@@ -31577,7 +31610,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2464",
+    "id": "s2surg-2467",
     "category": "Surg Mixed",
     "q": "42M with EtOH history and dysphagia to solids that progresses to liquids per p274?",
     "a": "Esophageal cancer (SCC). Dysphagia to solids progressing to solids + liquids is cancer until proven otherwise.",
@@ -31588,7 +31621,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2465",
+    "id": "s2surg-2468",
     "category": "Surg Mixed",
     "q": "HY points about esophageal cancer per p274?",
     "a": "Adenocarcinoma: distal 1/3, from GERD (obesity, low LES tone, GERD, Barrett, adenocarcinoma). SCC: upper 2/3, from smoking + alcohol; also webs, burns, chemicals, and achalasia.",
@@ -31599,7 +31632,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2466",
+    "id": "s2surg-2469",
     "category": "Surg Mixed",
     "q": "Mechanism of achalasia per p274?",
     "a": "Loss of NO-secreting neurons in the myenteric plexus of the LES, giving increased LES tone: bird's beak on contrast swallow, high tone on manometry. Often idiopathic; Chagas disease (Trypanosoma cruzi) is a rare infectious cause.",
@@ -31610,7 +31643,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2467",
+    "id": "s2surg-2470",
     "category": "Surg Mixed",
     "q": "Diagnosis order of achalasia per p274?",
     "a": "Barium (or gastrografin) swallow, then manometry, then confirmatory biopsy. On an NBME 2CK question listing both barium and manometry, the answer was barium swallow.",
@@ -31621,7 +31654,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2468",
+    "id": "s2surg-2471",
     "category": "Surg Mixed",
     "q": "When is manometry the answer for achalasia per p274?",
     "a": "When the stem already shows the bird's beak from a barium swallow, or shows a manometry graph with high LES pressure (then it is the diagnosis). Most accurate/confirmatory test: LES biopsy showing loss of neurons (per the source).",
@@ -31632,7 +31665,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2469",
+    "id": "s2surg-2472",
     "category": "Surg Mixed",
     "q": "Treatment of achalasia per p274?",
     "a": "Surgery first-line (endoscopic myotomy is superior to pneumatic dilatation per the source). If high surgical risk: botulinum toxin; if it fails, dCCB or nitrates.",
@@ -31643,7 +31676,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2470",
+    "id": "s2surg-2473",
     "category": "Surg Mixed",
     "q": "42M overweight with halitosis, gurgling with fluids, regurgitating undigested food per p275?",
     "a": "Next step: barium (or gastrografin) swallow; Dx = Zenker diverticulum. With a GERD history, go straight to endoscopy (cancer, not Zenker).",
@@ -31654,7 +31687,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2471",
+    "id": "s2surg-2474",
     "category": "Surg Mixed",
     "q": "Location and mechanism of Zenker per p275?",
     "a": "False diverticulum just superior to the cricopharyngeus on the posterior pharyngeal wall. USMLE answers: increased oropharyngeal pressure, cricopharyngeal muscle spasm; not a congenital weakness. Stems often mention overweight, though the association is non-specific.",
@@ -31665,7 +31698,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2472",
+    "id": "s2surg-2475",
     "category": "Surg Mixed",
     "q": "Whipple triad per p275?",
     "a": "Insulinoma: 1) hypoglycemia, 2) symptoms of hypoglycemia (diaphoresis, tachycardia, tremulousness), 3) relief with meals (or worse between meals).",
@@ -31676,7 +31709,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2473",
+    "id": "s2surg-2476",
     "category": "Surg Mixed",
     "q": "Whipple triad: next step, and what if C-peptide is high per p275?",
     "a": "Check serum C-peptide. If high, first check a serum hypoglycemic (sulfonylurea) screen, since surreptitious sulfonylurea use also gives high C-peptide. Only after a negative screen do CT abdomen for insulinoma.",
@@ -31687,7 +31720,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2474",
+    "id": "s2surg-2477",
     "category": "Surg Mixed",
     "q": "52F with 2 kids, BMI 28, recurrent colicky epigastric pain per p275?",
     "a": "Ultrasound (cholelithiasis).",
@@ -31698,7 +31731,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2475",
+    "id": "s2surg-2478",
     "category": "Surg Mixed",
     "q": "45F BMI 29, BP 140/90, high TG, low HDL, high fasting glucose, mildly high AST/ALT per p275?",
     "a": "NASH from metabolic syndrome; treat with lifestyle modification. The source adds that stems may show completely normal labs, leaving 'she has metabolic syndrome' as the clue.",
@@ -31709,7 +31742,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2476",
+    "id": "s2surg-2479",
     "category": "Surg Mixed",
     "q": "First treatment for pancreatitis per p275?",
     "a": "NPO + fluids + NG tube. Imaging: CT with contrast for fluid collections and degree of necrosis. Drain collections percutaneously; a pseudoabscess that does not regress needs internal drainage via ERCP or EUS (continues on p276).",
@@ -31720,7 +31753,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2477",
+    "id": "s2surg-2480",
     "category": "Surg Mixed",
     "q": "Pancreatitis with frank pus or >30% necrosis per p276?",
     "a": "Necrosectomy (excision of necrotic pancreas) or aggressive percutaneous drainage.",
@@ -31731,7 +31764,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2478",
+    "id": "s2surg-2481",
     "category": "Surg Mixed",
     "q": "69M with LLQ pain + fever per p276?",
     "a": "Diverticulitis. CT abdomen with contrast; antibiotics (metronidazole PLUS a fluoroquinolone or Augmentin; metronidazole covers anaerobes). Never scope during suspected diverticulitis (perforation); colonoscopy after it is cleared to rule out malignancy.",
@@ -31742,7 +31775,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2479",
+    "id": "s2surg-2482",
     "category": "Surg Mixed",
     "q": "Crohn GI findings per p276?",
     "a": "Mouth to anus; classically terminal ileum; intermittent bloody diarrhea with colonic involvement; skip lesions with string sign; cobblestone mucosa; transmural inflammation with non-caseating granulomas; perianal fistulae; B12 + fat-soluble vitamin malabsorption.",
@@ -31753,7 +31786,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2480",
+    "id": "s2surg-2483",
     "category": "Surg Mixed",
     "q": "25M with oral ulcer + bloody diarrhea per p276?",
     "a": "Crohn disease.",
@@ -31764,7 +31797,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2481",
+    "id": "s2surg-2484",
     "category": "Surg Mixed",
     "q": "Extra-intestinal manifestations of Crohn per p276?",
     "a": "Erythema nodosum (panniculitis), anterior uveitis, oxalate stones (fat malabsorption binds calcium, leaving more oxalate absorbed). Also sometimes anti-Saccharomyces cerevisiae Abs.",
@@ -31775,7 +31808,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2482",
+    "id": "s2surg-2485",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of Crohn for USMLE per p276?",
     "a": "Dx: colonoscopy. Tx: sulfasalazine or mesalamine (5-ASA, which the source calls NSAIDs) before steroids; immunosuppressants late (infliximab, azathioprine).",
@@ -31786,7 +31819,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2483",
+    "id": "s2surg-2486",
     "category": "Surg Mixed",
     "q": "28M with morning-worse low back pain that improves through the day + mouth ulcer per p276?",
     "a": "Crohn disease (oral involvement) + sacroiliitis (ankylosing spondylitis back pain).",
@@ -31797,7 +31830,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2484",
+    "id": "s2surg-2487",
     "category": "Surg Mixed",
     "q": "20F with bloody diarrhea, sore joints, eczematoid plaque on forehead per p276?",
     "a": "IBD + psoriatic arthritis.",
@@ -31808,7 +31841,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2485",
+    "id": "s2surg-2488",
     "category": "Surg Mixed",
     "q": "UC GI findings per p276 (continues p277)?",
     "a": "Starts at the rectum and ascends (no anus involvement); bloody diarrhea; not transmural (mucosa + submucosa); no granulomas; lead pipe appearance on contrast.",
@@ -31819,7 +31852,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2486",
+    "id": "s2surg-2489",
     "category": "Surg Mixed",
     "q": "What does lead pipe colon mean and what is seen on colonoscopy in UC per p277?",
     "a": "Loss of haustra (colon looks smooth). Crypt abscesses (microabscesses within the crypts).",
@@ -31830,7 +31863,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2487",
+    "id": "s2surg-2490",
     "category": "Surg Mixed",
     "q": "Extra-intestinal manifestations of UC per p277?",
     "a": "Primary sclerosing cholangitis (beaded bile duct; can be p-ANCA positive); pyoderma gangrenosum (crater with necrotic debris on the forearm); like Crohn, anterior uveitis + HLA-B27 associations.",
@@ -31841,7 +31874,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2488",
+    "id": "s2surg-2491",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of UC for USMLE per p277?",
     "a": "Dx: colonoscopy. Tx: same as Crohn for USMLE purposes; colectomy in severe cases.",
@@ -31852,7 +31885,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2489",
+    "id": "s2surg-2492",
     "category": "Surg Mixed",
     "q": "65M with intermittent bloody diarrhea, now 104F fever, abdominal pain, high WBC per p277?",
     "a": "Toxic megacolon. Dx with AXR (dilated bowel, e.g., 12-cm cecum), not colonoscopy (perforation). AXR is done when looking for gas.",
@@ -31863,7 +31896,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2490",
+    "id": "s2surg-2493",
     "category": "Surg Mixed",
     "q": "Where do most colonic ischemic ulcers occur per p277?",
     "a": "Watershed areas: splenic flexure (SMA/IMA) and the sigmoid-rectal junction (IMA/hypogastric artery). 72M with advanced CVD + bloody stool: ischemic colitis.",
@@ -31874,7 +31907,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2491",
+    "id": "s2surg-2494",
     "category": "Surg Mixed",
     "q": "55M BMI 33, no diabetes mentioned, 3 months burning in throat per p277?",
     "a": "GERD; treat with a 2-week PPI trial (omeprazole); relief supports GERD.",
@@ -31885,7 +31918,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2492",
+    "id": "s2surg-2495",
     "category": "Surg Mixed",
     "q": "55M BMI 33, poorly controlled diabetes, 3 months burning in throat per p277?",
     "a": "Diabetic gastroparesis, not GERD. First pharmacologic treatment metoclopramide; if not listed, erythromycin (motilin receptor agonist).",
@@ -31896,7 +31929,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2493",
+    "id": "s2surg-2496",
     "category": "Surg Mixed",
     "q": "How do stems signal bad diabetic disease per p277?",
     "a": "Peripheral edema (albuminuria lowers oncotic pressure), cataracts (sorbitol), urinary retention (neurogenic bladder), or HbA1c of 12% (diabetes is 6.5% or greater; prediabetes 6-6.49 per the source).",
